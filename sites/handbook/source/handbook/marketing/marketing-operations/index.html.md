@@ -77,12 +77,13 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 
 **Salesforce**
 
-The Marketing Operations team has created the '@mktgops-support' Chatter in Salesforce to help you make changes or manage Lead objects in Salesforce. Use the '@mktgops-support' Chatter for support with:
-* Assigning/re-assigning leads to a new owner
-* Merging duplicate leads
-* Investigating routing logic
+The Marketing Operations team has created the '@mktgops-support' Chatter in Salesforce to help you make changes or manage Lead objects in Salesforce. Please note, the more information you can provide in your support request, the faster the request can be resolved. Use the '@mktgops-support' Chatter for support with:
+* Assigning leads to a new owner
+* Merging duplicate leads in different ownership
+* Investigating routing logic if you think a lead was routed improperly
 * Requesting additional lead support from the Marketing Operations team
-* Please refrain from mention individual Marketing Ops team members when using this Chatter. Thank you!
+* The Marketing Ops team does not manage requests related to Contact, Account, or Opportunity objects.
+* Please refrain from mentioning individual Marketing Ops team members and use this Chatter instead. Thank you!
 
 **Emergency Comms and Pager Duty**
 
@@ -349,6 +350,17 @@ For budgetary reasons, Marketing Operations will be performing quarterly, and fo
   - Marketo
   - Litmus 
 
+### Remaining Licenses Communications Plan
+
+The communication plan applies to tools like Zoominfo and Outreach and is created to detail the communications that are sent regarding remaining licenses. It speaks to what communications go out, when they take place and in what format. 
+
+| **Communication** | **Format** | **Details** | **Owner** |
+|---------------------------------- | ---------- | ------------------------------------- | -------------- |
+| Update on [Mops Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/) whenever comms, format or the owner details get adjusted. | Update Mktgops Handbook and post a notification in #sdrleadership_mktgops slack channel. | Tool owners will update the Mktgops Handbook page whenever the comms, format or owner detail change. In addition, tool owners will post a memo in the #sdrleadership_mktgops slack channel. | Rob Rosu / Gillian Murphy |
+| Monthly Zoominfo/Outreach License Gsheet Update | [GSheet](https://docs.google.com/spreadsheets/d/1jiWuht9gm2GHYpFX24609Ko4K8EEqxp-WI88y2yO2MI/edit#gid=1723653236) | Zoominfo/Outreach owner will update the License Gsheet on a monthly basis. Sales leadership will have access to the GSheet. | Rob Rosu / Gillian Murphy |
+| 5 Licenses Remaining Notification (Zoominfo/Outreach) | In #sdrleadership_mktgops slack channel | When we’re down to 5 Zoominfo/Outreach licenses remaining, a notification will be sent to sales leadership via the #sdrleadership_mktgops slack channel. | Rob Rosu / Gillian Murphy |
+| Quarterly Sales Reps Hiring Plan Update | [SSOT SDR SFDC Hierarchy of Roles](https://docs.google.com/spreadsheets/d/1egLt1RfVNRcGckYkgtkOwdcOqDjdsfcJCsrRiwzxPLY/edit#gid=0) | Sales leadership will update the Sales Rep Hiring plan on a quarterly basis. | Ramona Elliott | 
+
 ## <i class="fas fa-receipt" id="biz-tech-icons"></i> Marketing Expense Tracking
 
 | **GL Code** | **Account Name** | Purpose |
@@ -456,6 +468,7 @@ Status in the table below means:
 | Investor | outbound | Sourced by our investors (i.e. - GV, Khosla, ICONIQ). The `Investor` value is coupled with the `Investor Name` custom field | Active |
 | GitLab DataMart|core| Created by the GitLab Marketing Database data pump. Contains leads from various internal sources|Active|
 | GitLab Subscription Portal|Signed up for customers portal account, but did not upgrade|Active|
+|Free Registration|core| Sign up via Free User registration|Active
 
 ### A Note About Trials
 

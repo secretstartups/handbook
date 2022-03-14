@@ -12,23 +12,10 @@ description: "Drift is a chat platform used by the Sales Development (SDR) organ
 
 ## Overview
 
-Drift is a chat platform used by the Sales Development (SDR) organization to engage visitors on select webpages. Engagement with Drift begins when a site visitor opts into interacting with an available Drift playbook. Playbooks are customized workflows that help visitors find information as well as offer the option to chat directly or schedule time to speak with SDRs. 
+Drift is a chat platform used by the Sales Development organization to engage visitors on our webpages. Engagement with Drift begins when a site visitor opts into interacting with an available Drift playbook. Playbooks are customized workflows that help visitors find information as well as offer the option to chat directly or schedule time to speak with SDRs. 
 
 ### Playbooks
-We have Drift playbooks in use on select permanant webpages as well as temporary landing pages. The content of the playbook depends on the intended experience on the page and the target audience.
-
-| Permanent pages | Playbook(s) |
-| ------ | ------ |
-| https://about.gitlab.com/pricing/ | ABM, AMER, APAC, EMEA, & LATAM |
-| https://about.gitlab.com/sales/ | ABM, AMER, APAC, EMEA, & LATAM |
-| https://about.gitlab.com/features/ | ABM, AMER, APAC, EMEA, & LATAM |
-| https://about.gitlab.com/stages-devops-lifecycle/ | ABM, AMER, APAC, EMEA, & LATAM |
-| https://about.gitlab.com/free-trial/ | ABM, AMER, APAC, EMEA, & LATAM |
-
-
-| Temporary pages | Playbook(s) |
-| ------ | ------ |
-| TBD | TBD |
+We have Drift playbooks across most of our website as well as on select landing pages. The content of the playbook depends the target audience and in the case of temporary playbooks on landing pages, the intended experience or use case.
 
 #### Performance measurement
 All Drift playbooks are associated with Saleforce campaigns to enable playbook performance to be measured outside of the Drift platform.

@@ -35,6 +35,8 @@ The Mural below shows the opt-in and opt-out/unsubscribe workflows for all forms
 
 At GitLab, we strive to communicate with people in a way that is beneficial to them. We always include the unsubscribe link in our communications, and we respect the unsubscribe list. In addition to the unsubscribe button at the bottom of all of our emails, we have available our [Email Subscription Center](/company/preference-center/), where people can control their email communication preferences.
 
+Each form will have the appropriate opt-in language specifid. However, to check you may [visit here](https://docs.google.com/document/d/1UEfWo26DP7nRPrWRWo7O7oSrNp_rRuVqyN_vC7SwXME/edit?usp=sharing).
+
 ### Send Frequency
 
 We have a Marketo enforced limit on how many emails a single address can recieve per day and week. The limits are 1/day and 3/week. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold, **unless** the email is marked as `operational`. However, emails marked as `operational` will still be sent.
@@ -63,7 +65,7 @@ These are transactional emails, almost always to our user base, that provide ver
 It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned or notified, so we are communicating to a very specific focused list. The email platform the send will come from will be determined by a few different factors, but mainly list size. If you need to request an email like this, use this the `incident_communications` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) and reference [this section](/handbook/marketing/marketing-operations/#pagerduty-and-emergency-comms).
 
 **Newsletter**
-Sent bi-monthly (every 2 weeks), the newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/demand-generation/campaigns/emails-nurture/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
+The newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/demand-generation/campaigns/emails-nurture/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
 
 **Security Releases**
 Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.

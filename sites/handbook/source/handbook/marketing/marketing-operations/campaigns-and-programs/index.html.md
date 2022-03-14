@@ -224,6 +224,7 @@ This is webcast hosted on an external partner/vendor platform. The status of `At
 | No Action | default starting position for all records |  |
 | Sales Nominated | Used by marketing for invitee tracking | | 
 | Registered | Registered for webcast |  |
+| No Show| Registered but did not attend event |  |
 | Attended | Attended event | Yes |
 | Follow Up Requested | Requested to be followed up with from GitLab | Yes |
 | Attended On-demand | Watched/consumed the presentation materials post-event on-demand | Yes |

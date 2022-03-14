@@ -596,24 +596,24 @@ PathFactory applies a score to a person based on how much time they spent viewin
 | ------ | ------ | ------ |
 | Analyst report | 1 | 120 |
 | Assessment | 1 | 60 |
-| Case Study | 1 | 180 |
+| Case Study | 1 | 45 |
 | Data sheet | 1 | 45 |
-| Demo | 1 | 120 |
-| Infographic | 1 | 30 |
+| Demo | 1 | 60 |
+| Infographic | 1 | 15 |
 | Landing page | 1 | 45 |
 | Presentation | 1 | 120 |
 | Pricing | 1 | 30 |
 | Product Article | 1 | 60 |
 | Research report | 1 | 120 |
 | Solution Article | 1 | 90 |
-| Technical Blog Post | 1 | 120 |
-| Testimonials | 1 | 60 |
-| Thought leadership Blog Post | 1 | 120 |
+| Technical Blog Post | 1 | 60 |
+| Testimonials | 1 | 30 |
+| Thought leadership Blog Post | 1 | 60 |
 | Topic Article | 1 | 120 |
 | Video | 1 | 60 |
 | Webcast | 1 | 600 |
-| Whitepaper | 1 | 120 |
-| eBook | 1 | 180 |
+| Whitepaper | 1 | 60 |
+| eBook | 1 | 60 |
 
 ### Bizible
 
