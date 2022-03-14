@@ -18,6 +18,16 @@ Our Slack bot [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) prov
 
 The CMOC plays a key role in crisis management. GitLab's [crisis process](https://internal-handbook.gitlab.io/crisis-process) can be found in the internal handbook. 
 
+### CMOC Performance Indicators
+{:.no_toc}
+
+Success as a CMOC is determined by the following performance indicators:
+- **Time to Acknowledge PagerDuty Pages**: Acknowledge all PagerDuty notifications within 15m and join the incident bridge. See [Acknowledge the PagerDuty Page](#acknowledge-the-pagerduty-page)
+- **Frequency between status updates**: Post status page updates according to severity at documented intervals or other cadence if so communicated. See [Frequency of Updates](#frequency-of-updates).
+- **Stakeholder communication threads created per incident**: Communicate incident existence to stakeholders according to the documented process. See: [Notify Stakeholders](#notify-stakeholders).
+- **Handover issue created after a shift**: At the end of every shift, create a handover issue to prepare the incoming CMOC. See: [End of Shift Handover Procedure](#end-of-shift-handover-procedure)
+- **Contact requests opened during shift per completed contact request issue**: Complete, handover or otherwise communicate plan to complete all incoming contact requests. See: [About Contact Requests](#about-contact-requests)
+
 ## Things to Know
 
 Before getting started, take note of the following sections or to get straight into the workflow start at [Incident Management](#incident-management).
