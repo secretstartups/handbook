@@ -416,12 +416,12 @@ If this is to set up a program that involves a channel partner, you must also fo
 * If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded. 
 * If this is `Self-Service with Promotion` or `Speaking Session` follow the below activation instructions:
      * Click the `Smart Campaigns` folder
-     * Select the `00 - Processing - No Shows / Attendees` smart campaign
-     * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
-     * Click to the `Schedule` tab and click `Activate`  
      * Select the `01a Registration Flow` smart campaign
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the `Schedule` tab and click `Activate`  
+
+     
+     * The `03 - Processing - No Shows / Attendees` smart campaign will be run after the list is uploaded.
 * If this is an `Owned Event` follow the below activation instructions:
      * Click the `Campaigns` folder
      * Select the `02a - Interesting Moments` smart campaign
