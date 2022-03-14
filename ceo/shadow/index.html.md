@@ -1111,3 +1111,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2022-01-18 | 2022-01-28 | [Cesar Saavedra](https://gitlab.com/csaavedra1) | Sr. Technical Marketing Manager | [Being a GitLab CEO Shadow](https://www.linkedin.com/pulse/being-gitlab-ceo-shadow-cesar-saavedra/?trackingId=y6tHk3NjTLyW1yPhu%2Bm7Zw%3D%3D) |
 | 2022-01-24<br>2022-02-14 | 2022-01-28<br>2022-02-17 | [Darby Frey](https://gitlab.com/darbyfrey) | Staff Fullstack Engineer |  |
 | 2022-02-22 | 2022-03-04 | [Jonathan Miller](https://gitlab.com/JonathanMiller) | FP&A Manager, R&D |  |
+| 2022-02-28 | 2022-03-11 | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) | Senior Reference Program Manager | |
