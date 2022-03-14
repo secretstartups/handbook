@@ -188,7 +188,7 @@ The following criteria make a deal eligible for a holdover:
 #### Annual Review Holdovers
 
 **Enterprise**
-1. Deal size (Net ARR) is > $50K for Growth and > $5K for New Logo
+1. Deal size (Net ARR) is > $50K for Growth and > $5K for New Logo. Amount is >$5K for PS Only opportunities
 1. The deal is in stage 3+
 1. Close date must be within 90 days prior to holdover expiration date
 1. Requires evidence of engagement in the 30 days prior to announcement of the change
