@@ -39,6 +39,8 @@ In order for the Partner to be able to see and action the lead in Vartopia, the 
 1. `Prospect Share Status` = `Sending to Partner` (set by LeanData)
 1. `Partner Prospect Status` = `Qualifying` (set by LeanData)
 
+
+
 When assigned a lead in Vartopia, the admin will receive an email alert with information about the lead and SLAs attached to it.
 
 Watch [this video](https://youtu.be/BmmiH_ctALk) for step by step instructions where partners can view, accept, reject, re-assign and convert leads to deal registration.
@@ -58,11 +60,14 @@ When a lead/contact is associated to a campaign the following steps occur:
 When GitLab and Partners participate in events together, they will share leads. The mural above has a visual workflow of these steps. [Go here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-marketing-campaign-set-up) for Marketo/SFDC campaign set up.
 
 When a lead/contact is associated to a campaign the following occurs:
-1. Marketo processes the lead and syncs to SFDC
+1. Marketo processes the lead based on who sources it. Once finished processing, the lead is synced to SFDC.
+  * We are utilizng the `Dietary Restriction` field until we have a new field with a better name.
+        * GitLab sourced leads will be marked as `Vegan`
+        * Partner sourced leads will be marked as `Nut Allergy`
 1. Lean Data Processes the following (waterfall):
-    1. If partner sourced (new or existing,) LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`
-    1. If lead/contact has a status of `Accepted`, `Qualifying` or `Qualified`, LeanData will assign to appropriate SDR
-    1. If lead/contact DOES NOT have a status of `Accepted`, `Qualifying` or `Qualified`, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`
+    1. If partner sourced (new or existing) and marked as `Nut Allergy`, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`
+    1. If lead/contact is marked as `Vegan` and has a status of `Accepted`, `Qualifying` or `Qualified`, LeanData will assign to appropriate SDR
+    1. If lead/contact is marked as `Vegan` and DOES NOT have a status of `Accepted`, `Qualifying` or `Qualified`, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`
 
 
 ## Trials from Partners
@@ -72,15 +77,16 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 
 1. Form is hosted on a GitLab or Partner landing page. Partners should always use the `FORM 2983: Partner Self-Hosted Enterprise Trial Form` Form. 
    - This form has a hidden field that captured `utm_partnerid`
-1. Once submitted, Marketo then appends that value to the `CRM Partner ID (lookup)` (lead only) and `Vartopia Partner Account ID` fields
+1. Once submitted, Marketo then appends that value `Vartopia Partner Account ID` fields
 1. Marketo processes the lead and sends the trial activation key via email to the prospect
 1. Marketo [suspends emails](/handbook/marketing/channel-marketing/partner-campaigns/#email-management) being sent from GitLab to prospect
 1. Marketo sends email alert to partner team and syncs lead to SFDC
 1. LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner` if `Partner Account` is not `NULL`. 
+1. Lead/Contact owner is updated to the assigned CAM to the partner account
 1. Salesforce.com sends alert email to Partner
 1. Vartopia picks up lead and assigns to partner in Vartopia based on ID
 1. Lead/Contact fields for Partner information are automatically populated
-1. `Vartopia Lead Management: @cfarris`
+
 
 
 # Setup in Marketo
@@ -91,15 +97,13 @@ There is no marketo program or SFDC campaign setup necessary to track self-manag
 ## Joint Marketing Campaign Set Up
 First, use the general set up is found [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page. 
 
-All Marketo templates will have a token added to them that the campaign owner should update, {{my.partner name}}.
+All Marketo templates will have 2 tokens added to them that the campaign owner should update, {{my.partner name}} and {{my.partner crm id}}
 - Partner Name: Does not need to be official, it will be used on the form consent language and interesting moments, so needs to be customer facing. Example:  `By registering for this GitLab and {{my.partner name}} event....`
-
-All Marketo templates will have a token added to them that the campaign owner should updates, {{my.partner crm id}}.
-- All partner IDs can be [found here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids). 
+- Partner ID: All partner IDs can be [found here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids). 
 
 
 ### Online Events: (Lead capture via forms) BEFORE Launch
-1. Update token on Marketo program {{my.Partner Name}}
+1. Update token on Marketo program {{my.partner name}}
 1. Update token on Marketo program {{my.partner crm id}}
 1. Update registration landing page to have `FORM 3146: Partners w/ consent+token` 
    - To update the page:
@@ -109,25 +113,30 @@ All Marketo templates will have a token added to them that the campaign owner sh
        - Approve and close landing page
    - Forms has a hidden field that captures `utm_partnerid` to associate to the partner and captures contact consent for the partner.
    - The partner MUST HAVE this utm on their link to the landing page otherwise they will not be routed leads
-1. Update `01 Processing` smart campaign's smart list to reference `FORM 3146: Partners w/ consent+token` instead of the form that is in there by default.
-1. (no setup needed) Marketo has a [smart campaign](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC25176B2ZN19) running that will listen for this form fill to `check` the `partner consent` field.
-1. Make sure typical processing smart campaigns are on and configured
-     - (no setup needed) If a `partnerid` was captured in the UTMs, then Marketo will [request a campaign](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC25176B2ZN19) to append that value to the `CRM Partner ID (lookup)` and `Vartopia Partner Account ID` fields
-   - If no partner ID is captured, Marketo assumes it is GitLab sourced.
-1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that.
+1. Processing Campaign for partner campaings is separate from the typical one. Do not activate both.
+    1. Processing smart campaign's smart list must reference `FORM 3146: Partners w/ consent+token` or another partner form (translations)
+ 1.  (no setup needed) Marketo will process...
+        1. If no `partner crm id` is captured via the form, will be marked as GitLab sourced (`Dietary Restriction` = `Vegan`)
+        1. If there is a `partner crm id` 
+        1. Sets `Vartopia Partner Account ID` fields
+            - If `Dietary Restriction` = `Nut Allergy` (Partner Sourced), `Vartopia Partner Account ID` will be updated with the value in `Partner CRM ID` from the form
+            - If `Dietary Restriction` = `Vegan` (GL Sourced), `Vartopia Partner Account ID` will be updated with the token value set at the program level
+1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that. (`Dietary Restriction` = `Nut Allergy`)
 1. (no setup needed) LeanData picks up from there, and the lead is routed accordingly to either GitLab or the Partner in Vartopia.
 
-The process above will work for an event with multiple partners driving to it. Make sure they have their utms correct when sending traffic to the registration page.
+The process above will work for an event with multiple partners driving to it. Make sure they have their utms correct when sending traffic to the registration page. You still need to fill out the token, but only one value will be accepted. Please decide ahead of time who the `default` partner is that will receive the leads they did not source.
 
-### Offline Events: (Lead capture via list uploads)
+### Offline Events: (Lead capture via list uploads, not)
 If a form isn't available to capture registration, follow these steps:
 
 1. In List upload issue, add a column for CRM Partner ID and add the value. - All partner IDs can be [found here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids). If the partner did not source the lead (AKA GitLab did), then leave that column blank.
 1. Mark in the list upload issue that this is a joint event and the partner will be following up with leads
-1. (no setup needed) If a `partnerid` was captured on the list, then Marketo will [request a campaign](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC25176B2ZN19) to append that value to the `CRM Partner ID (lookup)` and `Vartopia Partner Account ID` fields. If no ID was captured, the list will route to GitLab SDRs.
+1. (no setup needed) Turned on by person who loads the list into Marketo.
+    1. If a `CRM Partner ID` was captured on the list, then Marketo will set `Dietary Restriction` = `Nut Allergy` (Partner Sourced), `Vartopia Partner Account ID` will be updated with the value in `Partner CRM ID` from the form.
+    1. If a `CRM Partner ID` was not captured on the list,  `Dietary Restriction` = `Vegan` (GL Sourced), `Vartopia Partner Account ID` will be updated with the token value set at the program level
 1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that.
 
-The process above will work for an event with multiple partners driving to it. Make sure they have the partner ID properly appended to each person on the list.
+The process above will work for an event with multiple partners driving to it. Make sure they have the partner ID properly appended to each person on the list. You still need to fill out the token, but only one value will be accepted. Please decide ahead of time who the `default` partner is that will receive the leads they did not source.
 
 
 
@@ -173,7 +182,6 @@ If you did not include the Allocadia ID in the description, you'll need to updat
 - Update `Alliance Partner Name`
 - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
-
 
 
 ### Step 5: Update List Upload Request Issue
