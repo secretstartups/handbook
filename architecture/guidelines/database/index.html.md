@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: "Database"
 ---
 
-GitLab is a [single application](https://about.gitlab.com/handbook/product/single-application/) that relies on a [single data store](https://about.gitlab.com/handbook/product/single-application/#single-data-store) (terminology we use in the context of stringent durability requirements).
+GitLab is a [single application](https://about.gitlab.com/handbook/product/single-application/) that relies on a [single data store](https://about.gitlab.com/handbook/product/single-application/#single-data-store) (terminology we use in the context of stringent durability requirements, e.g., PostgreSQL as opposed to Redis).
 
 This directive drives GitLab's product development: while GitLab is [*SaaS first*](https://about.gitlab.com/direction/#product-strategy), it is not *SaaS only*. In terms of databases, GitLab supports self-managed configurations with a single database cluster, generally through the use of logical databases. Only at scale do we contemplate unfolding the single cluster into multiple ones, as GitLab.com does. This implies that the code base stays stable and can leverage flexible backend strategies to address scalability. Self-managed and GitLab.com will continue to operate as a single application, and self-managed in particular will continue to provide simplicity while offering the flexibility to scale.
 
@@ -50,7 +50,7 @@ Traditionally, the default answer has been to use our main database (PostgreSQL)
 
 1. We have to carefully manage load on the main database for GitLab.com, particularly in terms of transaction rates, connections, and memory utilization, to ensure availability.
 1. The product ecosystem is evolving in a varied fashion through integrations of existing technology stacks, and we are coming upon more specialized data needs.
-1. The main GitLab.com Postgres database is intended for OLTP (Online Transaction Processing) use only. Especially at scale, OLAP(Online Analytical Processing) will introduced significant degradation on the database, particularly with regards to cluster replication.
+1. The main GitLab.com Postgres database is intended for OLTP (Online Transaction Processing) use only. Especially at scale, OLAP (Online Analytical Processing) will introduced significant degradation on the database, particularly with regards to cluster replication.
 
 In general, if the codebase is part of the main RoR application, more than likely it already uses the main PostgreSQL database, as the schema is managed through RoR and the code probably has fairly tight coupling with the Rails code base. New entities have to be managed carefully, however, as capacity planning concerns must be addressed in order to ensure availability. The Development [Database Group](https://about.gitlab.com/handbook/engineering/development/enablement/database/) and [the Infrastructure teams](https://about.gitlab.com/handbook/engineering/infrastructure/team) are the best sources of information in this regard, which also applies to Redis.
 
