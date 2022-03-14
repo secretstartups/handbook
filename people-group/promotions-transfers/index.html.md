@@ -37,7 +37,7 @@ Our promotion philosophy is compromised of a few core pillars surrounding the ap
 * Promote based on performance, not based on potential. Team members are already executing at the next level ([job grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)) prior to promotion. 
 * Career growth should be a partnership between team member and manager. As manager, it is important to create space to regularly discuss your team members' development and career aspirations, and identify opportunities to support them in their advancement and growth. If you as a team member feel you are approaching promotion readiness, it is encouraged for you to initiate this conversation with your manager. 
 * When reviewing a proposed promotion, we should consider: 1) readiness of the individual, and 2) business need/opportunity
-* All promotions at GitLab require a [promotion document](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#heading=h.5ahg1o4v53q7). We believe in [transparency](/handbook/values/#transparency) around the promotion process.
+* All promotions at GitLab require a [promotion document](https://docs.google.com/document/d/1nDkYGK2yhe8pD-lnMGmEF-Cf0IlGgVOznjXMq9FxGiQ/edit?usp=sharing). We believe in [transparency](/handbook/values/#transparency) around the promotion process.
 * We encourage team members to live our [efficiency value](/handbook/values/#efficiency) and be a [manager of one](/handbook/values/#managers-of-one) and take ownership of their promotion document in partnership with their manager.
 * We calibrate promotions on a quarterly basis to ensure an equitable review, and through this process track metrics that help us understand if our promotions are occurring at a healthy and fair rate. 
 
@@ -122,7 +122,7 @@ Promotion Planning is generally done with via spreadsheets to maintain confident
 
 ### Promotion Document
 
-The [promotion document](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#heading=h.5ahg1o4v53q7) serves as a baseline to outline what should be included in all promotion documents, irrespective of division, department, or role. 
+The [promotion document](https://docs.google.com/document/d/1nDkYGK2yhe8pD-lnMGmEF-Cf0IlGgVOznjXMq9FxGiQ/edit?usp=sharing) serves as a baseline to outline what should be included in all promotion documents, irrespective of division, department, or role. 
 
 As the audience are other GitLab team members, the text should be written in third person using the team member's name and appropriate pronouns (he/she/they) to highlight the work and skills as evidence of the team member's suitability for the role.
 
