@@ -63,9 +63,9 @@ We need to identify vulnerabilities during development with actionable informati
    1. *Deliver Better Products Faster:* Ability to start testing early in dev process to eliminate vulnerabilities at the source
    1. *Reduce Security and Compliance Risk:* Fix vulnerabilities with actionable feedback to the developer at point of code change. Auto remediate when possible.
 
-### [4. Continous Software Compliance](/handbook/marketing/strategic-marketing/usecase-gtm/compliance/)
+### [4. Continuous Software Compliance](/handbook/marketing/strategic-marketing/usecase-gtm/compliance/)
 **Business objectives: We want to reduce risk by ensuring pipelines are compliant with common controls and popular industry regulations**
-We need to enforce standardized CI pipelines that include requesite testing and the ensure common compliance controls are followed (such as separation of duties).
+We need to enforce standardized CI pipelines that include requisite testing and then ensure common compliance controls are followed (such as separation of duties).
 
 **Analyst coverage:** none yet
 
