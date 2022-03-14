@@ -1,9 +1,8 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Security Essentials Hands-On Guide: Lab 1"
+title: "GitLab Security Essentials<br/>Hands-On Guide: Lab 1"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
-# GitLab Security Essentials Hands-On Guide: Lab 1
 {:.no_toc}
 
 ## LAB 1: Enable, configure, and run SAST, Secret Detection, and DAST
@@ -13,12 +12,12 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 In this lab you’ll enable SAST, Secret Detection, and DAST scans for a GitLab project. After the scans run in a CI/CD pipeline, you'll view the results of all 3 scans. You’ll mark a vulnerability for future action, and you’ll dismiss a different vulnerability. Finally, you’ll fix a vulnerability on a branch and introduce a new vulnerability on that same branch, so you can view the differences in vulnerabilities between default and non-default branches.
 
 
-### Create a project
+### A. Create a project
 
-1. In the top navigation bar, click **Menu > Groups > Your Groups**.
+1. In the top navigation bar, click **Menu > Groups > Your groups**.
     + If you are in an instructor-led class, expand the arrow to the left of the **Training Users** group. Expand the arrow to the left of your session’s subgroup. Open the subgroup called **My Test Group - \<USERNAME\>**.
     + If you are in the self-paced environment, open the group called **My Test Group - \<USERNAME\>**.
-1. Click **New Project**.
+1. Click **New project**.
 1. Click **Create from template**. Click the **Instance** tab. Next to the **Security Essentials Labs** template, click **Use template**.
 1. In the **Project name** field, enter `Security Labs`
 1. In the **Project URL** field, click the dropdown for the second half of the URL to make sure it’s pointing to a **group name** and not a **username**. You should create this project inside a group, not directly in your user’s namespace.
@@ -26,9 +25,9 @@ In this lab you’ll enable SAST, Secret Detection, and DAST scans for a GitLab 
 1. Click **Create project**.
 
 
-### Create a CI/CD configuration file
+### B. Create a CI/CD configuration file
 
-1. Create a new file in the **main** branch by clicking **+ > This directory > New file**.
+1. Create a new file in the **main** branch by clicking **(+) > This directory > New file**.
 1. In the **File name** field type `.gitlab-ci.yml`
 1. Define a single **test** stage and a dummy job by pasting this into your new `.gitlab-ci.yml` file:
 
@@ -42,7 +41,7 @@ In this lab you’ll enable SAST, Secret Detection, and DAST scans for a GitLab 
        - echo "pipeline must contain at least 1 job definition"
     ```
 
-### Enable and configure SAST
+### C. Enable and configure SAST
 
 1. Enable SAST by pasting this at the end of `.gitlab-ci.yml`:
 
@@ -57,7 +56,7 @@ In this lab you’ll enable SAST, Secret Detection, and DAST scans for a GitLab 
      SAST_BANDIT_EXCLUDED_PATHS: "docs/"
     ```
    
-### Enable and configure Secret Detection
+### D. Enable and configure Secret Detection
 
 1. The Secret Detection job belongs to the **test** stage by default. Since your `.gitlab-ci.yml` already defines that stage, you don’t need to define it again.
 1. Enable Secret Detection by pasting this line at the end of the existing `include:` section in `.gitlab-ci.yml`, below the template for SAST. Remember to use correct indentation.
@@ -76,7 +75,7 @@ Configure Secret Detection to ignore test files by pasting this job definition a
        SECRET_DETECTION_EXCLUDED_PATHS: "tests/"
     ```
 
-### Enable and configure DAST
+### E. Enable and configure DAST
 
 1. Since the default DAST job belongs to a stage called **dast**, you need to define that stage by pasting this line at the end of the existing `stages:` section. Remember to use correct indentation.
 
@@ -97,7 +96,7 @@ Configure Secret Detection to ignore test files by pasting this job definition a
     ```
 
 
-### Verify your completed CI/CD configuration file
+### F. Verify your completed CI/CD configuration file
 
 1. When you’re done with the edits described above, your `.gitlab-ci.yml` file should look like this. Make any additional edits necessary to match this code.
 
@@ -117,7 +116,7 @@ Configure Secret Detection to ignore test files by pasting this job definition a
      - template: DAST.gitlab-ci.yml
    
    variables:
-     SAST_BANDIT_EXCLUDED_PATHS: "tests/"
+     SAST_BANDIT_EXCLUDED_PATHS: "docs/"
      DAST_WEBSITE: https://example.com
    
    secret_detection:
@@ -125,14 +124,16 @@ Configure Secret Detection to ignore test files by pasting this job definition a
        SECRET_DETECTION_EXCLUDED_PATHS: "tests/"
     ```
 
-### Commit your changes
+### G. Commit your changes
 
 1. Commit your `.gitlab-ci.yml` changes to the **main** branch, using an appropriate commit message.
 1. In the left navigation pane, click **CI/CD > Pipelines**. Click the status icon to the left of the most recent pipeline, which was triggered by the commit you just made.
-1. Identify the SAST, Secret Detection, and DAST jobs. Notice that SAST scanning for Python involves 2 separate jobs. Click on any jobs whose progress you’d like to monitor. Refresh the page until all the jobs complete successfully. *Note: DAST can take up to 90 seconds to run against `https://example.com`.*
+1. Identify the SAST, Secret Detection, and DAST jobs. Notice that SAST scanning for Python involves 2 separate jobs. Click on any jobs whose progress you’d like to monitor. Wait for all jobs to finish.
+
+    > DAST can take up to 90 seconds to run against `https://example.com`.
 
 
-### View the Vulnerability Report
+### H. View the Vulnerability Report
 
 The Vulnerability Report shows all vulnerabilities in *the latest commit to the default branch.* Think of this as the “baseline” set of vulnerabilities that you’ll compare to vulnerabilities on other branches later on.
 
@@ -141,7 +142,7 @@ The Vulnerability Report shows all vulnerabilities in *the latest commit to the 
 1. Experiment with the **Status**, **Severity**, and **Tool** filters.
 
 
-### Take action
+### I. Take action
 
 When the security scanners find vulnerabilities, you need to keep track of whether they should be fixed or ignored. You do this by setting a vulnerability’s **status**. There are several ways to do so, but in this lab you’ll set status inside the Vulnerability Report.
 
@@ -152,21 +153,21 @@ When the security scanners find vulnerabilities, you need to keep track of wheth
 1. Normally you would set the status of *all* the vulnerabilities, but for this lab you can leave the rest of them set to the default **Detected** status.
 
 
-### Make a branch and an MR
+### J. Make a branch and an MR
 
 You’ll need a branch and an MR to fix the unhandled exception vulnerability.
 
 1. In the left navigation pane, click **Repository > Branches**.
 1. Click **New branch**.
 1. Name the branch `fix-unhandled-exception`
-1. You’ll be returned to the **Files** page for the **fix-unhandled-exception** branch. Click **Create merge request** at the top of the page.
+1. You’ll be returned to the **Files** page for the **fix-unhandled-exception** branch. Click **Create merge request** in the top right corner of the page.
 1. Delete the **Draft:** prefix from the MR’s title, but otherwise leave all details at their default values.
 1. Click **Create merge request**.
 
 
-### Fix a vulnerability in the **fix-unhandled-exception** branch
+### K. Fix a vulnerability in the **fix-unhandled-exception** branch
 
-*In this section use the **Web IDE** instead of the **Edit** feature, so you put several edited files into a single commit.*
+*In this section use the **Web IDE** instead of the **Edit** feature, so you can include several edited files in a single commit.*
 
 1. Click **Open in Web IDE** so you can fix the unhandled exception. Double-check that you’re editing files on the **fix-unhandled-exception** branch.
 1. Open `HelloWorld.py` in the Web IDE.
@@ -184,18 +185,18 @@ You’ll need a branch and an MR to fix the unhandled exception vulnerability.
 1. Use the Web IDE to commit your changes to the **fix-unhandled-exception** branch with the commit message `fix 1 vulnerability and add 1 vulnerability`
 
 
-### View vulnerabilities in the pipeline details page
+### L. View vulnerabilities in the pipeline details page
 
 Recall that the Vulnerability Report shows all vulnerabilities in the latest commit on the default branch. The pipeline details page is different: it shows all vulnerabilities *in the latest commit on the branch the pipeline ran against, whether it's a default or non-default branch.*
 
 1. In the bottom left of the page, click the link to the pipeline that was triggered when you committed your last changes.
-1. Once all the pipeline jobs have finished, click the **Security** tab.
+1. Once all the pipeline jobs finish, click the **Security** tab on the pipeline details page.
 1. Confirm that there is an entry for your newly introduced vulnerability (the RSA private key).
 1. Confirm that there is **no** entry for the vulnerability you fixed (the unhandled exception).
 1. Recall that any vulnerabilities found by DAST are from the `https://example.com` URL you configured DAST to scan, and not from your project's code.
 
 
-### View a “diff” view of vulnerabilities in the MR
+### M. View a “diff” view of vulnerabilities in the MR
 
 Viewing vulnerabilities in an MR lets you see how the vulnerabilities on the MR’s branch compare to the vulnerabilities in the default branch. This lets you know if your branch is fixing or adding vulnerabilities (or both).
 
@@ -204,11 +205,11 @@ Viewing vulnerabilities in an MR lets you see how the vulnerabilities on the MR�
 1. Review the vulnerabilities reported by SAST, Secret Detection, and DAST. Confirm these details:
    + SAST detected no vulnerabilities on this branch. This means it detected no *new* vulnerabilities on this branch that were not already on the default branch.
    + The unhandled exception is listed as **Fixed**, since you fixed it on this branch.
-   + It's common to configure DAST to scan different URLs depending on which branch the pipeline is running against. For example, you might configure it to scan the production environment if the pipeline is running on the default branch, but scan a review app if the pipeline is running on a non-default branch.<br/><br/>DAST detected no vulnerabilities at the URL you configured it to scan for this pipeline run: `https://example.com`. This means it found no *new* vulnerabilities at the URL that this pipeline told it to scan, compared to the vulnerabilities it found at the URL that the last default branch pipeline told it to scan. Since you've configured all pipeline runs to run DAST against the same URL, this is expected. 
+   + It's common to configure DAST to scan different URLs depending on which branch the pipeline is running against. For example, you might configure it to scan the production environment if the pipeline is running on the default branch, but scan a review app if the pipeline is running on a non-default branch.<br/><br/>DAST detected no vulnerabilities at `https://example.com`, which is the URL you configured it to scan during this particular pipeline run. This means it found no *new* vulnerabilities at the URL that this pipeline told it to scan, compared to the vulnerabilities it found at the URL that the last default branch pipeline told it to scan. Since you've configured all pipeline runs to run DAST against the same URL, this is expected.
    + Secret Detection lists 1 *new* vulnerability (the private RSA key that you added) and 1 *fixed* vulnerability (the Social Security number, which is considered to be fixed since you changed its status to **Dismissed**).
 
 
-### Merge your branch and resolve the fixed vulnerability
+### N. Merge your branch and resolve the fixed vulnerability
 
 1. In the MR, click **Merge**.
 1. In the left navigation pane, click **CI/CD > Pipelines** and click the status icon of the pipeline that triggered when you merged your branch.

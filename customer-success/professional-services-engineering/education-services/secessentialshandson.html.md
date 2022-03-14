@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Security Essentials Hands-On Guide"
+title: "GitLab Security Essentials<br/>Hands-On Guide"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
 # GitLab Security Essentials Hands-On Guide
@@ -19,6 +19,8 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 * [Lab 3: Enable, configure, and run Container Scanning](./secessentialshandson3.html)
 * [Lab 4: Enable, configure, and run License Compliance](./secessentialshandson4.html)
 * [Lab 5: Enable, configure, and run Coverage-Guided Fuzz Testing](./secessentialshandson5.html)
+
+
 ## Quick links
 
 Here are some quick links that may be useful when reviewing this Hands-On Guide.

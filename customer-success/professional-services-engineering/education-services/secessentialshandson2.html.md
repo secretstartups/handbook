@@ -1,18 +1,17 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Security Essentials Hands-On Guide: Lab 2"
+title: "GitLab Security Essentials<br/>Hands-On Guide: Lab 2"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
-# GitLab Security Essentials Hands-On Guide: Lab 2
 {:.no_toc}
 
 ## LAB 2: Enable, configure, and run Dependency Scanning
 
-### Streamline your pipeline **(Optional)**
+### A. Optional: Streamline your pipeline
 
 Before beginning each lab, you can optionally disable any scanners that you enabled in previous labs. This will speed up pipeline runs. The **DAST** scan is good to disable, since it can take a few minutes to complete. 
 
-To disable a scanner, add a hash before the template that enables it in `.gitlab-ci.yml`. For example, to disable **Secret Detection** and **DAST**, make these edits to your existing `.gitlab-ci.yml` content:
+To disable a scanner, add a hash before the template that enables it in `.gitlab-ci.yml`. For example, to disable **Secret Detection** and **DAST**, make these edits to your existing `.gitlab-ci.yml`:
 
 ```yml
 include:
@@ -29,14 +28,14 @@ If you do disable any scanners, you'll also need to comment out any job definiti
 #     SECRET_DETECTION_EXCLUDED_PATHS: "tests/"    
 ```
 
-### Identify your project’s dependencies
+### B. Identify your project’s dependencies
 
 1. Return to the **Security Labs** project you created in Lab 1.
 1. Python-based projects list their dependencies in a file called `requirements.txt`. That file already exists in your project. Open it to see a list of the project’s dependencies.
 1. Notice that your only dependency is version 2.0.0 of a machine learning library called Keras. Since it’s a complicated library, it has many dependencies of its own (although they’re not listed in `requirements.txt`). The Dependency Scanner will traverse all of these dependencies looking for security vulnerabilities. Considering that version of Keras was released in 2017, do you expect the Dependency Scanner to find any problems?
 
 
-### Enable Dependency Scanning
+### C. Enable Dependency Scanning
 
 You’ll enable Dependency Scanning by including a GitLab-provided template in your CI/CD configuration file. You can do this manually, or you can use the GitLab GUI to make a merge request that does it for you. Since you used the manual technique to enable SAST, Secret Detection, and DAST in the last lab, use the GUI to enable Dependency Scanning in this lab.
 
@@ -50,7 +49,7 @@ You’ll enable Dependency Scanning by including a GitLab-provided template in y
 1. In the left navigation pane, click **Repository > Files** and open `.gitlab-ci.yml`. Notice that the MR has added documentation at the top, reformatted the file, and added a Dependency Scanning template in the `include:` section.
 
 
-### Configure Dependency Scanning
+### D. Configure Dependency Scanning
 
 You configure Dependency Scanning by setting variables in your CI/CD configuration file. In the last lab you set the default log level for all scanners to `debug`. In this section you’ll change the default log level *just for the Dependency Scanner* to `info`. 
 
@@ -67,7 +66,7 @@ You configure Dependency Scanning by setting variables in your CI/CD configurati
 1. In the left navigation pane, click **CI/CD > Pipelines** and wait for the most recent pipeline to finish. If you want to watch its progress, go to the pipeline’s details page or the console for the **gemnasium-python-dependency_scanning** job.
 
 
-### View and take action on vulnerabilities
+### E. View and take action on vulnerabilities
 
 1. In the left navigation pane, click **Security & Compliance > Vulnerability Report**.
 1. In the **Tool** filter, select **Dependency Scanning**. Notice how many security vulnerabilities Dependency Scanning found in the 2017 Keras code.

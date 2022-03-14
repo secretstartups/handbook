@@ -1,31 +1,45 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Security Essentials Hands-On Guide: Lab 5"
+title: "GitLab Security Essentials<br/>Hands-On Guide: Lab 5"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
-# GitLab Security Essentials Hands-On Guide: Lab 5
 {:.no_toc}
 
 
 ## LAB 5: Enable, configure, and run Coverage-Guided Fuzz Testing
-Coverage-guided fuzzing sends random inputs to an **instrumented** version of an application in an effort to cause unexpected behaviors, behaviors which are indicative of bugs that may need to be addressed. GitLab allows the addition of coverage-guided fuzz testing to CI/CD pipelines. This helps uncover bugs and potential security issues other QA processes may miss.
 
-This lab demonstrates coverage-guided fuzz testing, which tests a single function in your code. Web API fuzz testing works similarly, but is not covered here.
+This lab demonstrates coverage-guided fuzz testing, which looks for bugs in a single function in your code. Web API fuzz testing works similarly, but is not covered here.
+
+
+### A. Fuzz-testing overview
+
+Coverage-guided fuzz testing sends random inputs to an instrumented version of an application in an effort to cause unexpected behaviors that might reveal bugs. GitLab allows the addition of coverage-guided fuzz testing to CI/CD pipelines. This helps uncover bugs and potential security issues other QA processes may miss.
 
 You must define a separate CI/CD pipeline job for each function you want to fuzz test. That said, if the function in your code-under-test calls other functions, the fuzz test will catch problems that occur anywhere in the call stack. In this lab you'll fuzz test just 1 function.
 
-#### The fuzz testing process:
-1. Compiles the target application.
-1. Runs the instrumented application, using the gitlab-cov-fuzz tool.
-1. Parses and analyzes the exception information output by the fuzzer.
-1. Downloads the corpus and crash events from previous pipelines.
-1. Outputs the parsed crash events and data to the gl-coverage-fuzzing-report.json file.
+Fuzz testing works like this:
+1. A CI/CD job runs the fuzz engine. The fuzz engine generates random data and sends it to the fuzz target. The fuzz target sends that random data to the code-under-test.
+1. If the code-under-test processes that random data successfully, without throwing unexpected errors or crashing, the fuzz engine generates more random data and repeats the cycle.
+1. If the random data causes an unexpected error or crash in the code-under-test, that problem is sent back to the fuzz target, which passes it to the fuzz engine, which reports it to the CI/CD pipeline as a potential bug in the code-under-test.
 
-**The results of the coverage-guided fuzz testing are available in the CI/CD pipeline.**
+The general fuzz testing workflow looks like this:
 
-### Write the code-under-test
+```mermaid
+flowchart TD
+    A(CI/CD job) <-- send command to run fuzz engine,<br/>return info on unhandled exceptions or crashes --> B(Fuzz Engine) 
+    B <-- send random data,<br/>return info on unhandled exceptions or crashes --> C(Fuzz Target) 
+    C <-- send random data,<br/> return info on unhandled exceptions or crashes --> D(Code-Under-Test)
+```
 
-1. Return to the **Security Labs** project you used for the previous labs.
+
+### B. Setup
+
+1. Return to the **Security Labs** project you used in the other labs.
+1. **OPTIONAL:** Follow the instructions at the start of [Lab 2](secessentialshandson2.html) for speeding up your pipeline by disabling scanners that you enabled in previous labs.
+
+
+### C. Write the code-under-test
+
 1. This is the code that the fuzz tester will scan for bugs. Paste this Python function into a new file called `IsThirdIntegerZero.py` in the root of your project.
 
     ```python
@@ -40,26 +54,9 @@ You must define a separate CI/CD pipeline job for each function you want to fuzz
 1. Commit the new file with an appropriate commit message.
 
 
-### Write the fuzz target
+### D. Write the fuzz target
 
 Fuzz testing is the only type of GitLab scanning that requires you to write code: the fuzz target. The fuzz target you see below only works with the specific code-under-test for this lab. Fuzz targets for different code-under-test would look slightly different.
-
-Think of the fuzz target as a "translator" between the fuzz engine and the code-under-test. The data flows like this:
-
-```mermaid
-graph TD
-    A[CI/CD job] -->|Runs| B(Fuzz engine)
-    B --> |Generate and send data| C{Fuzz Target}
-    C -->|Sends data| D[Go]
-    C -->|Sends data| E[iOs]
-    C -->|Sends data| F[Python]
-```
-
-The CI/CD job runs the fuzz engine. The fuzz engine generates random data and sends it to the fuzz target. The fuzz target sends that random data to the code-under-test.
-
-The code-under-test might process that random data successfully, without throwing any errors or crashing. If so, the fuzz engine generates more random data and repeats the cycle.
-
-But if the random data ever causes an error or crash in the code-under-test, that problem will be sent back to the fuzz target, which will pass it to the fuzz engine, which will report to the CI/CD pipeline that it found a bug in the code-under-test.
 
 1. Define a new stage called `fuzz` by pasting this line at the end of the existing `stages:` section of `.gitlab-ci.yml`. Be sure to indent it correctly.
 
@@ -89,7 +86,8 @@ But if the random data ever causes an error or crash in the code-under-test, tha
 
 1. Commit the new `FuzzTarget.py` with an appropriate commit message.
 
-### Enable and configure coverage-guided fuzz testing
+
+### E. Enable and configure coverage-guided fuzz testing
 
 1. Enable fuzz testing by pasting this template into the existing `include:` section of `.gitlab-ci.yml`. Be sure to indent it correctly.
 
@@ -117,10 +115,10 @@ But if the random data ever causes an error or crash in the code-under-test, tha
 1. Commit the edits to `.gitlab-ci.yml` with an appropriate commit message.
 
 
-### Review the results
+### F. Review the results
 
-1. Watch the pipeline run after you've committed changes to `.gitlab-ci.yml`. It might take up to 3 minutes to finish.<br/>
-   *NOTE: fuzz testing jobs might look a little different from other GitLab scanners. If a fuzz testing job finds bugs, that job will have **failed** status, but the pipeline will continue running. Other scanners have **passed** status as long as they complete, regardless of whether they find any problems.*
+1. Watch the pipeline run after you've committed changes to `.gitlab-ci.yml`. It might take up to 3 minutes to finish.
+   > Fuzz testing jobs might look a little different from other GitLab scanners. If a fuzz testing job finds bugs, that job will have **failed** status, but the pipeline will continue running. Other scanners have **passed** status as long as they complete, regardless of whether they find any problems.
 1. When the pipeline completes, look at the `Security` tab on the pipeline details page to see if fuzz testing found the index-out-of-bounds bug in the code-under-test.
 1. Click on the entry under the **Vulnerability** column to learn more about the bug and see where it happened in the call stack.
 1. In the left navigation pane, click **Security & Compliance > Vulnerability Report** to see another view of the fuzz test results. It might help to set the **Tool** filter to **Coverage Fuzzing**.
