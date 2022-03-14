@@ -38,6 +38,8 @@ Procurement is the process of selecting vendors, strategic vetting, selection, n
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> What are you buying?
 
+**IMPORTANT** A Coupa Request must be submitted AND approved prior to beginning work and/or ordering products/services to comply with federal regulations. Failure to follow this regulation puts GitLab at risk and will be reported.
+
 Choose the type of purchase you're making for the process guidance:
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
   <a href="/handbook/finance/procurement/new-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">New Software</a>
