@@ -42,7 +42,7 @@ Four basic questions have to be answered to determine the appropriate database:
 1. What kinds of queries does the application need to run against the database?
 1. What resource utilization is expected, both today and in the near future, in terms of space consumed, transaction rates (for read and writes), and latencies?
 
-The answers to the first three questions are likely known in advance, since they are really baked into the application; the last one tends to be a little less clear, and while exact answers are not necessary, ballpark estimates (for both at deployment time and peering a bit into the future) are required. Specialised teams, such as Database, Scalability, and Memory can aid in uncovering some of these unknowns. In any event, the answers to these questions should avoid specific technologies (with some exceptions).
+The answers to the first three questions are likely known in advance, since they are really baked into the application; the last one tends to be a little less clear, and while exact answers are not necessary, ballpark estimates (for both at deployment time and peering a bit into the future) are required.  Specialized teams, such as Database, Scalability, and Memory can aid in uncovering some of these unknowns. In any event, the answers to these questions should avoid specific technologies (with some exceptions). As an additional input, [the scaling model for GitLab.com based on business expectations and past growth](https://internal-handbook.gitlab.io/product/investment/scaling-model/) can be consulted to understand future scaling requirements.
 
 ## Default answer: the main Postgres database
 
