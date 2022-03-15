@@ -951,7 +951,7 @@ Save the changes and wait for Google Mail to reload.
 
 ### Google Slides
 
-Use this general [GitLab branded slide template](https://docs.google.com/a/gitlab.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) when creating slide decks for internal and external use.
+Use this general [GitLab branded slide template]https://docs.google.com/presentation/d/1BpqkpvB4wHIZXyGHUxKMrP0G0m3xMRCZnProFiN2By4/edit#slide=id.g11a23374851_1_0) when creating slide decks for internal and external use.
 Make a copy of the slide deck and only edit the copy; please do not edit the template itself.
 
 #### Updating your slide deck theme
