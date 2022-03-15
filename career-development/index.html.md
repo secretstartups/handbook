@@ -118,7 +118,13 @@ Exceptions can also be reviewed on a case-by-case basis depending on readiness f
 
 #### Timeline for interim roles
 
-The set timeline is for interim roles to be 3 months. There might be situations where an interim role does not need to be 3 months but a shorter period. This can happen when either the below success criteria are met before the 3 months pass or the team member has had experience with the new role prior to starting the interim period (for example via an acting role). If this is the case please reach out to your Department Head and People Business Partner to review. Above all we recommend an interim role to not last any longer than 3 months. For acting roles there is no set timeline.
+The set timeline is for interim roles to be 3 months, and we recommend that interim periods do not exceed this timeframe.
+
+There might be situations where an interim role does not need to be 3 months but a shorter period. This can happen when either the below success criteria are met before the 3 months pass or the team member has had experience with the new role prior to starting the interim period (for example via an acting role). If this is the case please reach out to your Department Head and People Business Partner to review. 
+
+If there is an exceptional case in which the manager feels they need *more than 3 months* to assess team member readiness in an interim position, they should discuss this with their Department Head and People Business Partner.
+
+For acting roles, there is no set timeline for duration.
 
 ##### Success criteria for Interim Roles
 
