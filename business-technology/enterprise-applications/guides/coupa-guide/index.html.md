@@ -336,7 +336,16 @@ There are several ways to approve transactions in Coupa:
       - To Approve: Open the requisition or invoice notification, review the information, and approve.
       - To Reject: Open the requisition or invoice notification, review the information, and reject.
 - **Coupa Slack integration**
-   - Coupa has built-in integration with Slack, which provides users with another method for Coupa notifications. Users have to activate the integration to start receiving Slack notifications. Users can choose to receive Slack notifications for the following activities in Coupa: comments, mentions, approvals, and approval reminders. Users can provide approvals and rejections directly from Slack or click on the link embedded in the Slack notification and they will be directed to Coupa where they can take any actions needed. We encourage users to set up Slack notifications by following [Coupa instructions](https://success.coupa.com/Support/Docs/BSM_Platform/Core/Workflow/Notifications/Integrate_Slack) (starting at step **Connect Slack to your Coupa account**) or viewing the Coupa Slack [quick demo](https://www.loom.com/share/188a2df7f1cd4b35a3df9e96db7c05e7). Below is an example of the approval notification in Slack:
+   - Coupa has built-in integration with Slack, which provides users with another method for Coupa notifications. To activate Slack notifications please follow below steps or view the Coupa Slack [quick demo](https://www.loom.com/share/188a2df7f1cd4b35a3df9e96db7c05e7):
+      - Click "Settings" under your name on the top right;
+      - Click "Notifications";
+      - Click button "Add to Slack". New window will pop up. Click "Allow"
+
+   Once Slack notifications are activated you can choose what type of notifications you want to receive via slack.
+   To specify notifications that should be received in slack please go to Settings - Notifications - mark "IM" boxes.
+
+   
+   Below is an example of the approval notification in Slack:
 
  ![coupa-image-27](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa27.png)  
 
