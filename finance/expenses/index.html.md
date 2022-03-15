@@ -68,7 +68,7 @@ At a minimum, information about the items/products purchased and the total purch
 
 ### Rejected Expenses
 
-Sometimes expenses get rejected by our third party accounting team (Montpac). Before following the steps below, please ensure your purchases are not identified in our [list of non-reimbursable expenses.](/handbook/finance/expenses/#non-reimbursable-expenses). An expense might get rejected if it is more than 20% higher than the guideline price listed in our [office equipment and supplies](/handbook/finance/procurement/office-equipment-supplies/) handbook page.
+Sometimes expenses get rejected by our third party accounting team (Montpac). Before following the steps below, please ensure your purchases are not identified in our [list of non-reimbursable expenses.](/handbook/finance/expenses/#--non-reimbursable-expenses). An expense might get rejected if it is more than 20% higher than the guideline price listed in our [office equipment and supplies](/handbook/finance/procurement/office-equipment-supplies/) handbook page.
 
 
 ## Expense Category and Policy
