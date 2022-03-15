@@ -26,6 +26,8 @@ Steps to uplevel triaging process:
 1. Create Slack Aliases so that GitLab Team members can ping a group of folks to get help with their questions in #data.
 1. Create a Triage Schedule for the Data Program to follow on the Data Program Calendar. Ask for a commitment of one team member, per Business Team, per day to help triage.
 
+### Enterprise Data Triage Groups
+
 | Triage Group Name   | Triage Slack Alias  | Triage Group Members  |  
 | -------------- | ------------------- | -------------------- |
 | Go To Market Analytics Triage | `@GTMAnalyticsTriage` |  Sales Strategy & Analytics Team, Marketing Strategy and Performance Team, Business Insights and Analytics Team, GTM Data Fusion Team |
@@ -33,6 +35,25 @@ Steps to uplevel triaging process:
 | People Analytics Triage | `@PeopleAnalyticsTriage` | People Group Analytics Team, G&A Data Fusion Team |
 | Engineering Analytics Triage | `@EngineeringAnalyticsTriage` | Engineering Analytics Team, G&A Data Fusion Team |
 | Data Platfrom Triage | `@DataPlatformTriage`   | Data Platform Team |
+| Data Collaboration Triage | `@DataCollaborationTriage`   | Data Collaboration Team |
+
+### Enterprise Data Triager 
+
+| Slack Channel Alias| Analytics Team | Sunday | Monday | Tuesday | Wednesday | Thursday |	Friday |
+| ---------     | -----------------    | -------| -------|---------| ----------|----------|--------|
+| `@GTMAnalyticsTriage` | Sales Strategy and Analytics |	|	`@melia` |	|	`@Noel Figuera` 	|	| |
+|	                  | Marketing Strategy and Performance | |		|	`@David Egan` |	|	`@rkohnke`	| |
+|	                  | Business Insights and Analytics |	|	 `@Vikas Agrawal` |	`@Jay Zhang` |	`@Kelly Chen` |	`@charan karthikeyan` |	`@Jay Stemmer` |
+|	                  | GTM Data Fusion |	|	`@Michelle Cooper` |	`@Peter Empey` |	| 	`@Israel` |	`@Jean Peguero` |
+| `@R&DAnalyticsTriage` |	Product Analysis |	|	 `@Carolyn Braza` | 	`@Dave Peterson` | 	`@Emma Neuberger` |	`@Nicole Galang` |	 `@Neil Raisinghani` |
+|	                  | R&D Data Fusion	|	|	|	| `@Chris Sharp` 	| `@Miles Russell` |	`@Tim Poole` |
+| `@PeopleAnalyticsTriage` | People Analytics	|	|	|	|	| `@Adrian Pérez` | |	
+|	                  | G&A Data Fusion |	|	|	`@Peter Empey` 	| | | |		
+| `@EngineeringAnalyticsTriage` |	Engineering Analytics |		|	 |		| |  `@lily` |	
+|	                  | Engineering Data Fusion |		|	| `@Peter Empey` 	|		|     |     |
+| `@DataPlatformTriage` |	Data Platform | | `@vprakash` (odd week-nrs) or `@Rigerta Demiri` (even week-nrs) | `@Paul Armstrong` | `@Radovan Bacovic` |	`@Lakshmi A` | `@jstark` |
+| `@DataCollaborationTriage` | Data Collaboration |	`@Ken` |	`@Ken` |	`@Trang Nguyen` |	`@Trang Nguyen` 	| | |	
+
 
 ### Enterprise Data Program Triage Instructions 
 
@@ -41,63 +62,25 @@ Steps to uplevel triaging process:
 1. Triager should reply to slack threads by pointing GitLab team member to the appropriate handbook page, visualization, or to other GitLab team members who may know more about the topic. 
 1. Triager should direct GitLab team member to the channel description, which has links to the various Data Program Projects, if the request requires more than 5 minutes of investigative effort from a Data Program team member.
 
-### Data Team Triager
-
-The Data team has implemented the following triage schedule to take advantage of native timezones:
-
-| UTC Day   | Data Analyst / Analytics Engineer      | Data Engineer     |
-| --------- | ----------------- | ----------------- |
-| Sunday    | `@ken_aguilar`  |  no assignment | 
-| Monday    | See below for R&D assignee | `@vedprakash2021` (odd week-nrs) or `@rigerta` (even week-nrs) |
-| Tuesday   | See below for R&D assignee | `@paul_armstrong` |
-| Wednesday | `@michellecooper` | `@rbacovic` |
-| Thursday  | `@ken_aguilar`    | `@laddula` |
-| Friday    | `@jeanpeguero`    | `@jjstark` |
-
-R&D Fusion team triage schedule:
-
-| UTC Day   | R&D Data Analyst / Analytics Engineer | 
-| --------- | ----------------- | 
-| Dec 13-14 | `@chrissharp`    | 
-| Dec 20-21 | `@ttnguyen28`    | 
-| Dec 27-28 | `@snalamaru`    | 
-| Jan 3-4   | `@mdrussell`    |
-| Jan 10-11 | `@chrissharp`    | 
-| Jan 17-18 | `@ttnguyen28`    | 
-| Jan 24-25 | `@snalamaru`    | 
-| Jan 31-Feb 1 | `@mdrussell`    | 
-| Feb 7-8 | `@chrissharp`    | 
-| Feb 14-15 | `@ttnguyen28`    | 
-| Feb 21-22 | `@snalamaru`    | 
-| Feb 28-Mar 1 | `@mdrussell`    | 
-| Mar 7-8 | `@chrissharp`    | 
-| Mar 14-15 | `@ttnguyen28`    | 
-| Mar 21-22 | `@snalamaru`    | 
-| Mar 28-29 | `@mdrussell`    | 
-| Apr 4-5 | `@chrissharp`    | 
-| Apr 11-12 | `@ttnguyen28`    | 
-| Apr 18-19 | `@snalamaru`    | 
-| Apr 25-26 | `@mdrussell`    | 
-
-
 A team member who is off, on vacation, or working on a high priority project is responsible for finding coverage and communicating to the team who is taking over their coverage;
-this should be updated on the [Data Team's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). To avoid putting the _Monday workload_ on the same shoulders every week again, the Data Engineers will will rotate/exchange every now and then triage days in good collaboration on an ad-hoc basis.
+this should be updated on the [Data Program's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). To avoid putting the _Monday workload_ on the same shoulders every week again, the Data Engineers will will rotate/exchange every now and then triage days in good collaboration on an ad-hoc basis.
 
 Having dedicated triagers on the team helps address the bystander affect. The schedule shares clear daily ownership information but is not an on-call position. Through clear ownership, we create room for everyone else on the team to spend most of the day around deep work. The triager is encouraged to plan their day for the kind of work that can be accomplished successfully with this additional demand on time.
 
-Data triagers are the first responders to requests and problems for the Data team.
+Data triagers are the first responders to requests and problems for the Data Program.
 
-- The Data Analyst triager is primarily responsible for responding to GitLab team member Requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data**.
+- The Data Analyst triager is primarily responsible for responding to GitLab team member requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data**.
+- The Functional Analyst triager is primarily responsible for responding to GitLab team member requests via slack in **#data**.
 - The Data Engineer triager is primarily responsible for resolving problems with our data platform, which will either be in the **#analytics-pipelines** slack channel or on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=DE%20Triage%20Errors).
     - During the assigned triage day the Data Engineer should be primarily focused on active issues or the issues on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859).
+- The Analytics Engineer triager is primarily responsbile for resolving `dbt-test` and `dbt-run` errors. Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=DE%20Triage%20Errors). Time permitting and as a secondary responsbility, the Analytics Engineer triager is responsible for responding to GitLab team member requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data** 
 - The Data Analyst and Data Engineer triagers are secondarily responsible for platform problems and GitLab team member requests respectively.
 - For more information on responsibilities of a triager watch the [Data Engineer triage training session video](https://www.youtube.com/watch?v=0eGpgaQgEGg).
 
-Many issues that come into the data team project from other GitLab team members need additional info and/or context in order to be understood, estimated, and prioritized.
-It is the triager's priority to ask those questions and to surface issues sooner, rather than later.
+For issue triaging, the triager should add the appropriate labels to the issue to put the issue into the respective project's workflow. It is not the responsibility of the triager to validate the issue and determine any root causes or solutions. Rather, for the Data Team project for example, the triager should add the appropriate scoped TEAM label (Ex.`Team:GTM`) and the scoped `Workflow::triage` label. From there, those issues are then put into the respective team's workflow.
 
 **Note:**
-The Data Analyst triager
+The Triager:
 
 - is not expected to know the answer to all the questions
 - should cc (mention) other team members who are subject matter experts (SME) or [functional DRIs](/handbook/business-technology/data-team/#-team-organization) for their feedback
@@ -105,7 +88,7 @@ The Data Analyst triager
 
 ### How to Complete Data Triage
 
-Create [an issue in the Data Team project](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=&issuable_template=Data%20Triage). Task and duties are stated in the issue template. 
+The Central Data Team triager will create [an issue in the Data Team project](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=&issuable_template=Data%20Triage). Task and duties are stated in the issue template. 
 
 [Read](/handbook/business-technology/data-team/how-we-work/triage/) the FAQ and common issues.
 
