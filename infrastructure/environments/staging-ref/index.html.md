@@ -138,6 +138,26 @@ Watch [this demo](https://gitlab.com/gitlab-org/gitlab/uploads/43733f0e0b58ded0e
 
 Staging Ref environment has pre-existing accounts that can be used for testing. For example, Admin accounts on different paid plans, Auditor user, QA users. All credentials are stored in `Staging Ref credentials` in [1Password Engineering vault](https://start.1password.com/open/i?a=LKATQYUATRBRDHRRABEBH4RJ5Y&v=6gq44ckmq23vqk5poqunurdgay&i=joq3ryhuirbx3dr66oo3cju4xq&h=gitlab.1password.com).
 
+#### Working with a SAML SSO enabled group
+
+An Okta application has been setup to act as SAML idP for [https://staging-ref.gitlab.com/groups/saml-sso-group](https://staging-ref.gitlab.com/groups/saml-sso-group).
+Two users with names `gitlab-qa-saml-sso-user1` and `gitlab-qa-saml-sso-user2` have been created and added to Okta and assigned the application. These users are also available in staging-ref environment.
+
+Please note that all credentials and values for fields mentioned below are saved in 1Password Engineering Vault in "Staging Ref credentials" under "User credentials for saml-sso-group Group".
+
+For using SAML SSO, you will need to:
+1. As an [admin](#admin-access), create the group at [https://staging-ref.gitlab.com/groups/saml-sso-group](https://staging-ref.gitlab.com/groups/saml-sso-group) if it does not already exist.
+1. [Upgrade the pricing plan](#upgrade-paid-plans) of this group to "Premium".
+1. Visit [https://staging-ref.gitlab.com/groups/saml-sso-group/-/saml](https://staging-ref.gitlab.com/groups/saml-sso-group/-/saml) and:
+  * Check "Enforce SSO-only authentication for web activity for this group"
+  * Update the value of "Identity provider single sign-on URL" to the value saved in 1Password
+  * Update the value of "Certificate fingerprint" to the value saved in 1Password
+1. Save the changes.
+1. Sign out.
+
+The first time you visit [https://staging-ref.gitlab.com/groups/saml-sso-group](https://staging-ref.gitlab.com/groups/saml-sso-group) and try to login, you will be asked to sign in to GitLab with an existing account to
+link the SAML identity. Use username `gitlab-qa-saml-sso-user1` or `gitlab-qa-saml-sso-user2` to sign in. The credentials are in 1Password.
+
 ### Future iterations and known limitations
 
 Staging Ref environment has some known limitations that will be worked on:
