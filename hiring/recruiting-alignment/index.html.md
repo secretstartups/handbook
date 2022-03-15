@@ -34,6 +34,14 @@ description: "This page is an overview of the search team alignment and the tale
 
 For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails. 
 
+## Inbound Sourcing Alignment
+
+| Department                 | Sourcer     |
+|--------------------------|-----------------|
+| R&D        | Anchal Sharma  | 
+| Sales/ G&A        | Priya Chokanda   |
+| Marketing/ G&A        | Muskan Mehta   |
+
 ## Talent Acquisition Leader Alignment
 
 | Department                    | Leader      | 
@@ -44,7 +52,7 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | Talent Acquisition (Marketing) | Kelly Murdock |
 | Talent Acquisition (G&A) | Jake Foster |
 | Talent Acquisition (R&D) | Ursela Knezevic |
-| Candidate Experience | Marissa Feber |
+| Candidate Experience & Enablement | Marissa Ferber |
 | Strategic Programs | Kelly Murdock |
 | Inbound Sourcing | Chris Cruz |
 
@@ -54,13 +62,11 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 |--------------------------|-----------------|-----------------|
 | Comparably | Admin  | Devin Rogozinski/Marissa Ferber |
 | Comparably | Content Management | Devin Rogozinski |
-| Comparably | Reporting | Marissa Ferber |
 | Glassdoor | Admin  | Devin Rogozinski |
 | Glassdoor | Responding to Reviews  | Devin Rogozinski |
 | Glassdoor | Content Management | Devin Rogozinski |
-| Glassdoor | Reporting | Marissa Ferber |
-| LinkedIn | Admin - Recruiter  | Marissa Ferber |
-| LinkedIn | Seats | Marissa Ferber |
+| LinkedIn | Admin - Recruiter  | Devin Rogozinski |
+| LinkedIn | Seats | Devin Rogozinski |
 | LinkedIn | Media - General | Marketing |
 | LinkedIn | Media - Talent Acquisition | Devin Rogozinski |
 | LinkedIn | Content Management | Marketing |
