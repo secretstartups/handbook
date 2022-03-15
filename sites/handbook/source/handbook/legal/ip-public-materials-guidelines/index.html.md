@@ -25,7 +25,7 @@ These guidelines apply to the use of third-party content in all public-facing ma
 
 If you’re unsure, reach out to [#legal](https://app.slack.com/client/T02592416/C78E74A6L) to confirm.
 
-These guidelines do not apply to the use of trademarks in the GitLab product itself. Refer to the guidelines of the [Use of Third-party Trademarks in GitLab](https://about.gitlab.com/handbook/legal/policies/third-party-trademark-usage-guidelines/#dos--donts-for-use-of-third-party-trademarks-in-gitlab) instead.
+These guidelines do not apply to the use of trademarks in the GitLab product itself. Refer to the guidelines of the [Use of Third-party Trademarks in GitLab](https://about.gitlab.com/handbook/legal/policies/product-third-party-trademarks-guidelines/#dos--donts-for-use-of-third-party-trademarks-in-gitlab) instead.
 
 When used in these guidelines:
 
@@ -51,7 +51,7 @@ Just because something is available for free on the internet (including on Googl
 
 
 * When using the **logo** or **wordmark** of a customer, partner, or other third party with which GitLab has a commercial relationship, refer to the [Customer Reference Program handbook page](https://about.gitlab.com/handbook/marketing/strategic-marketing/customer-reference-program/). Discuss with [#customer_references](https://app.slack.com/client/T02592416/CLFCPMF8E) if unsure.
-* Use **wordmarks** referentially: refer to the wordmark owner, or the owner’s products and services associated with the mark, when the company, product or service in question cannot be easily identified without using the mark. For example, it’s much easier to refer to _GitLab_ using the wordmark _GitLab _than to _the company behind the DevOps platform delivered as a single application_.
+* Use **wordmarks** referentially: refer to the wordmark owner, or the owner’s products and services associated with the mark, when the company, product or service in question cannot be easily identified without using the mark. For example, it’s much easier to refer to _GitLab_ using the wordmark _GitLab_ than to _the company behind the DevOps platform delivered as a single application_.
 
 
 #### Don’t
