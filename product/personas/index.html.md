@@ -253,23 +253,22 @@ I wear lots of hats, but the majority of my time is spent monitoring and flaggin
 
 ##### Jobs to be done
 
-- I need to automate pipelines so that they will run automatically which will save developers and testers time so they can focus on more complex tasks.
-- I need to ensure all aspects of pipeline builds and testing run on time so subsequent processes can run and other teams who depend on those can move through their work in a timely manner.
-- I also need to keep a hand in development, creating code and contributing to applications, outside of automation, so I can feel creative and challenged in my development skills. (SMB Release Manager)
+- I am responsible for coordinating a deployment to production. I push the last button in our pipeline; i.e. changing the load balancers to point to the latest deployment.
+- I coordinate the release by defining the scope and tasks for delivery.
+- I am in charge of external communications around a release, especially assembling changelogs or release notes.
+- I organize a response room if necessary to bring in everyone that may need to support a release
 
 ##### Motivations
 
+I want a smooth deployment
 - I want to make sure everything in the pipeline will work, because it’s the last thing that happens before it’s moved to production. If you ship something into production that shouldn’t be there, that can be catastrophic.
-- I live for making scripts that facilitate automation
-- Every time the CI/CD pipelines do their thing correctly, no one else has to do it and they can work on other, more complicated things.
+- Every time the CI/CD pipelines run to green or catch issues when needed, I can sleep calmly.
 
 ##### Challenges
 
 - Dealing with archaic infrastructure, such as slow connections and outdated equipment, can make it difficult to ensure everyone has the files they need to contribute and manage the pipeline.
 - Ensuring enough developers, Product Managers, etc. are available to support projects.
 - UI testing isn’t automated so that takes time out of the testing process.
-- Providing developers and managers actionable information on build statuses is important. They need to self-serve so they can fix the issues to ensure the build is going correctly.
-- I need to get buy-in for pipeline automation from every level of the company and that can be difficult. When we rely on one person to make the go/no-go decision, it creates a bottleneck.
 - Coordinating all the different teams across a release can be challenging and requires a lot of follow up to ensure they play their part when they should.
 
 ##### Tools
