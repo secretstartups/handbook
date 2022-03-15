@@ -24,8 +24,8 @@ The average shipping time taking into account current restrictions as a result o
 
 | Year | Gift | 
 | --- | --- | 
-| **Year 01** | Celebratory Confetti Tanuki Socks (Unique to the Anniversary Program) |
-| **Year 03** | GitLab Tanuki Vest |
+| **Year 01** | Celebratory Confetti Tanuki Socks (Unique to the Anniversary Program) or Corkcicle Tumbler |
+| **Year 03** | GitLab Tanuki Vest or Orange Puffer Jacket (limited sizes) |
 | **Year 05** | Travel Bag / Backpack |
 | **Year 10** | $500 Travel Grant |
 
