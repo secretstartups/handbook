@@ -59,6 +59,8 @@ When a lead/contact is associated to a campaign the following steps occur:
 ## Joint GitLab and Partner Events
 When GitLab and Partners participate in events together, they will share leads. The mural above has a visual workflow of these steps. [Go here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-marketing-campaign-set-up) for Marketo/SFDC campaign set up.
 
+**NOTE:** Phone numbers are required in order for the lead to be passed to Vartopia. Please make sure that field is populated.
+
 When a lead/contact is associated to a campaign the following occurs:
 1. Marketo processes the lead based on who sources it. Once finished processing, the lead is synced to SFDC.
   * We are utilizng the `Dietary Restriction` field until we have a new field with a better name.
@@ -127,6 +129,8 @@ All Marketo templates will have 2 tokens added to them that the campaign owner s
 The process above will work for an event with multiple partners driving to it. Make sure they have their utms correct when sending traffic to the registration page. You still need to fill out the token, but only one value will be accepted. Please decide ahead of time who the `default` partner is that will receive the leads they did not source.
 
 ### Offline Events: (Lead capture via list uploads, not)
+**NOTE:** Phone numbers are required in order for the lead to be passed to Vartopia. Please make sure that field is populated.
+
 If a form isn't available to capture registration, follow these steps:
 
 1. In List upload issue, add a column for CRM Partner ID and add the value. - All partner IDs can be [found here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids). If the partner did not source the lead (AKA GitLab did), then leave that column blank.
@@ -188,7 +192,8 @@ If you did not include the Allocadia ID in the description, you'll need to updat
 - Update the List upload request issue to have these leads imported in. This should already have been created and linked to the epic.
     - [Create issue (if not already done)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=mdf-list-upload))
     - Please follow the [list import criteria and guidelines](/handbook/marketing/marketing-operations/list-import/#import-methods-and-their-sla)
-- NOTE: Leads should **NOT** be marked as `opt-in` unless they specifically opted in to **GitLab** emails.
+- **NOTE:** Leads should **NOT** be marked as `opt-in` unless they specifically opted in to **GitLab** emails. 
+- **NOTE:** Phone numbers are required in order for the lead to be passed to Vartopia. Please make sure that field is populated.
 
 ### Step 6: Load List and Activate Smart Campaign
 - Once list is loaded, loader should go to the `01 - Processing` campaign and `Run Once`
