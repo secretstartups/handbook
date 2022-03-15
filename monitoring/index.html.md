@@ -234,9 +234,34 @@ Blocks of Ruby code can be "instrumented" to measure performance.
   - [Documentation of instrumentation](https://docs.gitlab.com/ee/development/instrumentation.html) with more detail on [how to implement this](https://docs.gitlab.com/ee/development/instrumentation.html#instrumenting-ruby-blocks)
   - An example of how this is used for GitLab itself, can be found in this [initializer](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/initializers/zz_metrics.rb).
 
-
 [Apdex]: https://en.wikipedia.org/wiki/Apdex
 [Error rate]: https://en.wikipedia.org/wiki/Bit_error_rate
 [SLA dashboard]: https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1
 [KPI]: /handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability
 [SLO]: https://en.wikipedia.org/wiki/Service-level_objective
+
+## Other Tools
+
+### Sentry
+
+Error tracking service.
+
+- [Documentation][sentry_doc]
+- [How to investigate a 500 error - Sentry / Kibana Demo][demo]
+- [Diagnose Errors on GitLab.com - Searching Sentry][sentry_500]
+
+[sentry_doc]: https://docs.gitlab.com/ee/operations/error_tracking.html
+[sentry_500]: /handbook/support/workflows/500_errors.html#searching-sentry
+[demo]: https://youtu.be/o02t3V3vHMs
+
+### Sitespeed.io
+
+Tool that helps you monitor, analyze and optimize your website speed and performance.
+
+- [Documentation][speed_doc]
+- [GitLab.com Sitespeed Measurement Repository][sitespeed_repo]
+- [How we used sitespeed.io to measure Frontend performance][sitespeed]
+
+[sitespeed]:  https://www.youtube.com/watch?v=6xo01hzW-f4
+[sitespeed_repo]: https://gitlab.com/gitlab-org/frontend/sitespeed-measurement-setup/
+[speed_doc]: https://docs.gitlab.com/ee/user/project/merge_requests/browser_performance_testing.html#overview
