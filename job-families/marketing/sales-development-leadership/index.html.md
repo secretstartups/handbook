@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "Director, Global Sales Development"
+title: "Sales Development Leadership"
 ---
  
 ## Levels
@@ -31,7 +31,7 @@ The Director, Sales Development is a [grade 10](/handbook/total-rewards/compensa
  
 - Proven track record of delivering sales pipeline at large enterprise accounts managing outbound prospecting teams.
 - Responsible for creating and iterating the sales development process, methodology, campaigns, hiring profiles, training and enablement
-- Experience managing a global outbound prospecting team of 30.
+- Experience leading and developing a global inbound sales development team at scale (>30 team members).
 - Power user of salesforce.com and SDR cadence management software.
 - Ability to drive cross functional alignment and coordination across sales and marketing teams.
 - Ability to attract, retain, and motivate exceptional SDRs and SDR managers.
@@ -42,6 +42,44 @@ The Director, Sales Development is a [grade 10](/handbook/total-rewards/compensa
 - Able to articulate the GitLab mission, values, and vision.
 - [GitLab Director](https://about.gitlab.com/company/team/structure/#director-group)
 - Ability to use GitLab
+
+### Director, Global Business Development
+
+#### Director, Global Business Development Job Grade 
+ 
+The Director, Global Business Development is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Director, Global Business Development Responsibilities
+
+* Ensure sales accepted opportunities are sourced in accordance with company targets, and that our sales organization has enough opportunities to work with to be fully productive.
+* Ensure we efficiently and effectively qualify Mid Market and Enterprise prospects and customers as well as develop outbound strategies per region while leveraging digital and field marketing resources for particular campaigns
+* Motivate and develop BDRs and BDR managers in alignment to our leveling concept in order to exceed goals through coaching,  incentives and grow their careers. A successful Director, Business Development  will be equal parts business manager and talent developer.
+* Plan, forecast, and understand ramp adjusted capacity to ensure the team is grown effectively, in tandem with the needs of our sales organization.
+* Manage BDR rosters for tracking ramp adjusted capacity and productivity.
+* Manage BDR reports and dashboards to ensure the results they deliver can be easily understood by stakeholders throughout the organization.
+* Build a word-class sales and business development team. Recruit, train, and develop a global team of BDRs, and Business Development managers.
+* Effectively manage paths for career advancement within the sales development functions as well as to closing sales roles.
+* Partner with regional managers to develop campaigns that align to their regional goals based on a territory plan.
+* Iterating the business development process, methodology, campaigns, hiring profiles, training and enablement with respect to the GitLab core values.
+* Work closely with marketing, sales, and people ops to ensure BDR onboarding program and ongoing training is up-to-date on our current product offering.
+* Partner with sales and marketing operations to ensure the BDR team has the best tools to do their job, and that they are configured to optimize BDR efficiency and productivity, especially salesforce.com and Outreach.
+* Focus on the quality of opportunities without sacrificing quantity. The four core metrics this role should care about are the impact on the sales cycle, close rates, pipeline contribution and average deal size.
+
+#### Director, Global Business Development Requirements
+
+* Proven track record of delivering sales pipeline at large enterprise accounts managing outbound prospecting teams.
+* Responsible for creating and iterating the business development process, methodology, campaigns, hiring profiles, training and enablement.
+* Experience leading and developing an outbound business development team at scale  (>30 team members).
+* Power user of salesforce.com and BDR cadence management software.
+* Ability to drive cross functional alignment and coordination across sales and marketing teams.
+* Ability to attract, retain, and motivate exceptional BDRs and Business Development managers.
+* Have a general understanding of Git, GitLab, and modern development practices.
+* A broad knowledge of the application development ecosystem.
+* Awareness of industry trends in enterprise digital transformation, devops, and continuous integration.
+* Excellent written and spoken English.
+* Able to articulate the GitLab mission, values, and vision.
+- [GitLab Director](https://about.gitlab.com/company/team/structure/#director-group)
+* Ability to use GitLab.
  
 ### Area Vice President, Sales Development
  
