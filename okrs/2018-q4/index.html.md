@@ -256,7 +256,7 @@ canonical_path: "/company/okrs/2018-q4/"
     * Continue work on ELO score for interviews. First interation complete by mid November.
   * Product: Hire 2 Directors of Product => **100% Complete** - hired [Kenny](https://about.gitlab.com/company/team/#kencjohnston) and [Eric](https://about.gitlab.com/company/team/#ericbrinkman)
 
-[error budget]: /handbook/engineering/#error-budgets
+[error budget]: /handbook/engineering/error-budgets/
 [phase 1 of preparedness for Elasticsearch on GitLab.com]: https://gitlab.com/groups/gitlab-org/-/epics/429
 
 ## Engineering (VPE)
