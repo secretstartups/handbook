@@ -44,7 +44,7 @@ Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_char
 | ------ | ------ | ------ |
 | Manager, Solutions Architects | [**Adrian Smolski**](https://gitlab.com/adriansmolski) | Sydney, Australia |
 | Senior Solutions Architect | [**Naoharu Sasaki**](https://gitlab.com/naosasaki) | Tokyo, Japan |
-| Senior Public Sector Solutions Architect | [**Shane Kelly**](https://gitlab.com/skelly-gitlab) | Melbourne, Australia |
+| Senior Public Sector Solutions Architect | [**Shane Kelly**](https://gitlab.com/skelly-gitlab) | Canberra, Australia |
 | Senior Solutions Architect | [**Tomasz Skora**](https://gitlab.com/tskora1) | Melbourne, Australia |
 | Senior Solutions Architect | [**Toshitaka Ito**](https://gitlab.com/toshitakaito) | Tokyo, Japan |
 | Solutions Architect | [**Inchul Yoo**](https://gitlab.com/iyoo) | Seoul, South Korea |
@@ -53,7 +53,7 @@ Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_char
 | Manager, Technical Account Manager | [**Dave Thompson**](https://gitlab.com/dthompson3) | Sydney, Australia | 
 | Senior Technical Account Manager | [**Benjamin Ma**](https://gitlab.com/bma) | Sydney, Australia |
 | Technical Account Manager | [**Rohan Shah**](https://gitlab.com/rmsrohan) | Mumbai, India |
-| Technical Account Manager | [Zane J Chua](https://gitlab.com/zchua-gtlb) | Singapore, Singapore |
+| Technical Account Manager | [**Zane J Chua**](https://gitlab.com/zchua-gtlb) | Singapore, Singapore |
 
 The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](/handbook/sales/territories/) and [Mid-Market](/handbook/sales/territories/) APJ outlines territories.
 
