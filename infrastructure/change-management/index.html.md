@@ -8,6 +8,19 @@ title: "Change Management"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-gitlab-orange">
+**This is a Controlled Document**
+{: .panel-heading}
+<div class="panel-body">
+
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+
+</div>
+</div>
+
 # Purpose
 
 **Change Management** has *traditionally* referred to the processes, procedures, tools and techniques applied in IT environments to carefully manage changes in an operational environment: change tickets and plans, approvals, change review meetings, scheduling, and other *red tape*.
@@ -26,7 +39,8 @@ Changes that need to be performed during the resolution of an Incident fall unde
 
 | Role  | Responsibility |
 |-----------|-----------|
-| Infrastructure | Responsible for implementing and executing this procedures |
+| GitLab Team Members | Responsible for following the requirements in this procedure |
+| Infrastructure Team | Responsible for implementing and executing this procedures |
 | Infrastructure Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
 # Change Request Workflows
