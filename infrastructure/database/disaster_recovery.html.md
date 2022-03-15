@@ -9,7 +9,19 @@ title: "Database: Disaster Recovery"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Purpose - Database: Disaster Recovery
+{::options parse_block_html="true" /}
+
+<div class="panel panel-gitlab-orange">
+**This is a Controlled Document**
+{: .panel-heading}
+<div class="panel-body">
+
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+
+</div>
+</div>
+
+## Purpose
 
 This page contains an overview of the disaster recovery strategy we have
 in place for the PostgreSQL database. In this context, a disaster means
@@ -36,8 +48,10 @@ This handbook page applies to recovery of the GitLab PostgreSQL production datab
 
 | Role | Responsibility|
 | ---- | ------ |
-| GitLab Infrastructure teams | Responsible for executing recovery of the production gitlab.com database in the event of a disaster |
+| Infrastructure Team | Responsible for executing recovery of the production gitlab.com database in the event of a disaster |
+| Infrastructure Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
+## Procedure
 ### Restore testing
 
 A backup is only worth something if it can be successfully restored in a
@@ -121,4 +135,5 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 
 ## References
 
-- [Controlled Document Procedure](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html)
+* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
+* [Controlled Document Procedure](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html)
