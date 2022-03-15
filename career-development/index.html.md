@@ -124,7 +124,7 @@ There might be situations where an interim role does not need to be 3 months but
 
 If there is an exceptional case in which the manager feels they need *more than 3 months* to assess team member readiness in an interim position, they should discuss this with their Department Head and People Business Partner.
 
-For acting roles, there is no set timeline for duration.
+For acting roles, there is no set timeline for duration. This can be reviewed on a case-by-case basis.
 
 ##### Success criteria for Interim Roles
 
