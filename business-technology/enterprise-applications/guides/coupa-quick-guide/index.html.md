@@ -65,7 +65,7 @@ Click on the below boxes for more details of the process:
   <a href="/handbook/finance/procurement/software-renewal/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Software Renew/Add-on</a>
   <a href="/handbook/finance/procurement/field-marketing-events/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Field Marketing & Events</a>
   <a href="/handbook/finance/procurement/professional-services/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services</a>
-  <a href="/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services Request form</a>
+  <a href="/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services Request form</a>
  </div> 
 
 
