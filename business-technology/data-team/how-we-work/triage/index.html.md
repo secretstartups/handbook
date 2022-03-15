@@ -44,7 +44,7 @@ Steps to uplevel triaging process:
 | `@GTMAnalyticsTriage` | Sales Strategy and Analytics |	|	`@melia` |	|	`@Noel Figuera` 	|	| |
 |	                  | Marketing Strategy and Performance | |		|	`@David Egan` |	|	`@rkohnke`	| |
 |	                  | Business Insights and Analytics |	|	 `@Vikas Agrawal` |	`@Jay Zhang` |	`@Kelly Chen` |	`@charan karthikeyan` |	`@Jay Stemmer` |
-|	                  | GTM Data Fusion |	|	`@Michelle Cooper` |	`@Peter Empey` |	| 	`@Israel` |	`@Jean Peguero` |
+|	                  | GTM Data Fusion |	|	 |	`@Peter Empey` | `@Michelle Cooper`	| 	`@Israel` |	`@Jean Peguero` |
 | `@R&DAnalyticsTriage` |	Product Analysis |	|	 `@Carolyn Braza` | 	`@Dave Peterson` | 	`@Emma Neuberger` |	`@Nicole Galang` |	 `@Neil Raisinghani` |
 |	                  | R&D Data Fusion	|	|	|	| `@Chris Sharp` 	| `@Miles Russell` |	`@Tim Poole` |
 | `@PeopleAnalyticsTriage` | People Analytics	|	|	|	|	| `@Adrian Pérez` | |	
