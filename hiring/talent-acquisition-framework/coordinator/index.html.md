@@ -176,11 +176,11 @@ Once the CES team gets the background checks back, if there are criminal charges
 1. If approval to move forward is given, we will upload the approval to the BambooHR profile once created
 1. If approval is not given to move forward, the CES will loop in the Recruiter to make sure the decision and why is communicated correctly to the candidate
 
-### Speaking with TMRG members in the hiring process
+### Speaking with TMRG team members in the hiring process
 
-Our hiring process includes an **optional** step where candidates can request to meet with an TMRG team member. We will offer this to a candidate when they reach they complete their interview process before an offer is made. Whether or not the candidate decides to take us up on this offer will have no impact on our overall hiring decision.
+Our hiring process includes an **optional** step where candidates can request to meet with a TMRG team member. We will offer this to a candidate when they complete their interview process before an offer is made. Whether or not the candidate decides to take us up on this offer will have no impact on our overall hiring decision.
 
-When a candidate requests to meet with an TMRG team member, their Candidate Experience Specialist will do the following:
+When a candidate requests to meet with a TMRG team member, their Candidate Experience Specialist will do the following:
 1. Share a message in the respective TMRG Slack channel. To aide with scheduling, the message will include the candidate’s time zone and a request for volunteers who would be willing to speak to that person for a 25-minute Zoom call.
 
 **Suggested Language**
@@ -189,7 +189,7 @@ Hi, All! We're looking for a volunteer who would be willing to speak to a candid
 
 All current TMRGs have agreed to take part in this process. You can find the group list [here](https://about.gitlab.com/company/culture/inclusion/erg-guide/). 
 
-2. Once a volunteer has been found the Candidate Experience Specialist will send the candidate the 'TMRG Opportunity' email template. The CES will need to get the TMRG members’ Calendly link and GitLab team page profile.
+2. Once a volunteer has been found the Candidate Experience Specialist will send the candidate the 'TMRG Opportunity' email template. The CES will need to get the TMRG team members’ Calendly link and GitLab team page profile.
 
 3. If a volunteer has not been found within 24 hours the CES team member will reach out to the [TMRG lead(s)](/company/culture/inclusion/erg-guide/) and request assistance with scheduling. If a volunteer has not been found within 2 business days of the request, the CES will ask the TMRG lead to take part in the conversation.
 
