@@ -34,7 +34,8 @@ Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/fi
 - [Kinga Polgardi](https://about.gitlab.com/company/team/#KingaPolgardi) - Billing Operations Specialist
 - [Ausha Saptouw](https://about.gitlab.com/company/team/#aushas) - Billing Operations Specialist
 - [Laura Robins](https://about.gitlab.com/company/team/#LauraRobins) - Billing Operations Specialist
-- [Christian Willis](https://about.gitlab.com/company/team/#christianwillis) - Senior Billiing Operations Specialist
+- [Christian Willis](https://about.gitlab.com/company/team/#christianwillis) - Senior Billing Operations Specialist
+- [Diana Quitevis](https://about.gitlab.com/company/team/#dquitevis) - Billing Operations Specialist
 
 _The Billing Team works closely with Sales, Deal Desk, Accounts Receivable, and Revenue Operations._
 
