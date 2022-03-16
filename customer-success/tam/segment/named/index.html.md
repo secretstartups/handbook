@@ -19,7 +19,14 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 Definition: Named TAM on the account, product usage data-based success goals per account, programmatic enablement.
 
-## Motions
+## Engagement Model
+
+
+![Named Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_TAM.png)
+
+
+
+## Metrics
 
 ### Align
 
