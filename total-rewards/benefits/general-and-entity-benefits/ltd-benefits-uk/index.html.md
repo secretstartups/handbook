@@ -55,6 +55,22 @@ During Willis Tower Watson's initial onboarding email to enroll in the scheme, t
 | Team Member + Spouse | 2x Team Member Premium |
 | Team Member + Child(ren) | 1.6x Team Member Premium |
 | Family | 2.5x Team Member Premium |
+
+
+### Vision 
+
+As GitLab team members work (DSE) display screens equipment on a regular basis, GitLab will reimburse team members for a full eye examination and vision test up to 30 GBP. 
+
+If the test shows that the team member needs corrective lenses exclusively for DSE work, GitLab will reimburse towards the cost of a basic pair of frames and lenses (i.e. not designer lenses) up to 120 GBP.
+
+The team member needs to provide documentation (a prescription) from the optician that confirms if the lenses are specifically required for reading a display screen only (this is normally a very small proportion of users) and not required for general day to day use. 
+
+If you are enrolled in the AXA Medical plan, please submit any eligible claims through the plan first, any out of pocket cost not covered by the plan can be reimbursed up to the max amount in accordance to the Vision policy. 
+
+Please submit your receipts via expensify and prescription to Total Rewards. 
+
+
+
 ## Life Insurance
 
 Life Insurance provides peace of mind for you and your loved ones with a tax-free lump sum payout in the event of your untimely death, helping to relieve financial concern during a time of grief. GitLab offers Life Insurance via Unum to all team members between age 16 and State Pension Age. The pension benefit is **4x basic annual salary** up to the Free Cover Limit. Employees with a base salary of £375,000 or higher will need to apply for a medical assessment to receive cover over the Free Cover Limit. Please reach out to Total Rewards if you are eligible and wish to apply for the additional cover. 
