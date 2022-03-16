@@ -11,6 +11,11 @@ description: "The Technical Account Management team at GitLab is a part of the C
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+[<button class="btn btn-primary" type="button" style="padding: 15px 30px; font-size: 24px;">Digital Touch</button>](/handbook/customer-success/tam/segment/digital/)
+[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Scale</button>](/handbook/customer-success/tam/segment/scale/)
+[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Named</button>](/handbook/customer-success/tam/segment/named/)
+[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Strategic</button>](/handbook/customer-success/tam/segment/strategic/)
+
 ## Mission Statement
 
 Aligning passionate TAMs with customers to ensure their success by...  
@@ -62,10 +67,7 @@ Key areas of exploration:
 
 ## Handbook Directory
 
-### TAM Segments & Metrics
-
-- [TAM Segments and Associated Metrics](/handbook/customer-success/tam/segment/)
-- [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
+[TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 
 ### TAM Learning & Development
 
