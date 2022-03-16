@@ -12,7 +12,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ---
 
-⚠️ This information is under active development and is not yet final. This page will be updated on an ongoing basis during this phase.
+⚠️ This information is under active development and iteration. This page will be updated on an ongoing basis as the named team continues to grow and scale.
 {: .alert .alert-warning}
 
 ## Overview
@@ -20,7 +20,6 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 Definition: Named TAM on the account, product usage data-based success goals per account, programmatic enablement.
 
 ## Engagement Model
-
 
 ![Named Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_TAM.png)
 
