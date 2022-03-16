@@ -13,7 +13,7 @@ description: "LeanData is an application used within Salesforce (SFDC) to proces
 ## Overview     
 LeanData is an application used within Salesforce (SFDC) to process and assign [lead](#lead-routing-workflow), [contact](#contact-routing-workflow), and [account](#account-routing-workflow) records. LeanData allows for the creation of dynamic and complex record routing to support Go-to-Market (GTM) strategy.  
 
-LeanData assigns each MQL (Marketing Qualified Lead) to the member of the Sales Development organization who is responsible for engagement and qualification of that individual using the [lead routing workflow](#lead-routing-workflow) outlined below. LeanData updates contact records using the [contact routing workflow](#contact-routing-workflow) for management by partners via the Vartopia Prospect module. LeanData assigns each account record to the appropriate member of the Sales organization using the [account routing workflow](#account-routing-workflow) outlined below. Other Salesforce objects, including the contact object, are updated and maintained through workflows and processes outside of LeanData. 
+LeanData assigns each MQL (Marketing Qualified Lead) to the member of the Sales Development organization who is responsible for engagement and qualification of that individual using the [lead routing workflow](#lead-routing-workflow) outlined below. LeanData updates contact records using the [contact routing workflow](#contact-routing-workflow) for management by partners via the Vartopia Prospect module. LeanData align, but does not assign, each account record to the appropriate member of the Sales organization using the [account routing workflow](#account-routing-workflow) outlined below. Other Salesforce objects, including for most use cases the contact object, are updated and maintained through workflows and processes outside of LeanData. 
 
 ## Lead routing workflow
 The LeanData lead routing flowbuilder can broken into four major sections: [record validation](#record-validation), [lead to account match MQL assignment](/handbook/marketing/marketing-operations/leandata/#lead-to-account-match-mql-assignment), [unmatched MQL assigment](/handbook/marketing/marketing-operations/leandata/#unmatched-lead-mql-assignment), and [queue assignment](#queue-assignment). This flowbuilder is live, meaning it monitors lead records as they're created or updated. 
@@ -26,14 +26,22 @@ This initial phase reviews new and updated lead records to ensure they meet the 
 - [Updated leads only] No active SDR engagement with the lead. This is checked by confirming the lead does not have a `Lead Status` of `Accepted`, `Qualifying`, or `Qualifed` and the `Actively Being Sequenced` checkbox is not checked.
 - [New and updated leads] Most recent `Last Interesting Moment` does not require specialized routing or supression from SDR organization.
 
-### Lead to account match MQL assignment
+### Sales Dev lead assignment
+#### Lead to account match MQL assignment
 Records that meet all [record validation](#record-validation) criteria and can be matched to an existing Salesforce account by LeanData are then assessed using the matched account workflow. For this workflow, if LeanData is able to identify there is a BDR listed in the `BDR Assigned` field on the matched account and the `BDR Prospecting Status` (another custom account field) = `Actively Working`, the MQL is assigned. If LeanData is not able to confirm an MQL matches this criteria, the lead progresses to the [unmatched lead](/handbook/marketing/marketing-operations/leandata/#unmatched-lead-mql-assignment) workflow.
 
-### Unmatched lead MQL assignment
+#### Unmatched lead MQL assignment
 Leads that match to accounts but are not able to be routed via owner mappings or the `SDR Assigned` field as well as leads that do not match to accounts are routed using LeanData's [territory management functionality](https://learn.leandata.com/datasheets-how-leandata-works-its-magic/territory-management-datasheet).
 
-### Queue assignment
+#### Queue assignment
 Leads that are not yet MQLs or that are no longer being worked by the Sales Development team, are assigned to "holding" queues until they re-MQL. 
+
+### Partner lead management (via the Vartopia Prospect module)
+#### MDF and partner-managed trial leads
+Coming soon
+
+#### Joint events with partners
+Coming soon
 
 ## Contact routing workflow
 The scope of the contact flowbuilder is very limited. Records are only processed by this flowbuilder if they are meant to be managed by partners via the Vartopia Prospect module. In our current iteration, the contact flowbuilder only updates two custom fields, which triggers a partner's record visibility in Vartopia. 
