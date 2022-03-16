@@ -461,6 +461,37 @@ The persistent volume claim for Airflow is defined in the [`persistent_volume.ya
 
 Alternatively, you can update the `persistent_volume.yaml` definition in the project. However, redeploying this _may_ delete the data already in the claim. This has not been tested yet.
 
+### Airflow roles
+
+Currently we have the following (default) roles in airflow:
+
+- `Public`
+- `Viewer`
+- `User`
+- `Op`
+- `Admin`
+
+In the above order, a role gives more permissions in Airflow.
+
+#### Custom roles
+
+On top of the existing default roles, also custom roles are implemented.
+
+##### Analytics_engineer role
+
+In order to start a DAG, at least `User` permissions is needed. But in order to change variables, `Op` is needed. Changing variables is needed to perform a full refresh with a selected (set) of models. 
+
+`Op` gives a big set off unnecessary [permissions](https://airflow.apache.org/docs/apache-airflow/stable/security/access-control.html#op) for an Analytics Engineer. Only the following is needed:
+
+- `menu access on Admin`
+- `menu access on Variables`
+- `can read on Variables`
+- `can edit on Variables`
+
+To follow the [Principle of Least Privilege](https://about.gitlab.com/handbook/engineering/security/access-management-policy.html#principle-of-least-privilege) the 4 mentioned permissions are added to a new role: `Analytics_engineer`. 
+
+All Analytics Engineers will have `User` + `Analytics_engineer` to give them the right permissions in Airflow to execute a DAG.
+
 ## Postgres Pipeline 
 
 ### Development
@@ -834,7 +865,7 @@ Use `dbt_full_refresh` DAG to force dbt to rebuild the entire incremental model 
 
 1. In Airflow set up Variable `DBT_MODEL_TO_FULL_REFRESH` with name of model(s) to refresh following [dbt model selection syntax](https://docs.getdbt.com/docs/running-a-dbt-project/command-line-interface/model-selection-syntax/).  For example, to refresh version models, the value would be `sources.version staging.version`.  To refresh gitlab_dotcom models, the value would be `sources.gitlab_dotcom staging.gitlab_dotcom`.
 <br><img src="airflow_variable_setting.png" alt="airflow_variable_setting" width="400"/></br>
-2. By default `dbt_full_refresh` DAG will be running on `TRANSFORMING_XL` warehouse , in order to modify the warehouse size in case of quick full refresh or in case of performance issue, Modify the variable `DBT_WAREHOUSE_FOR_FULL_REFRESH`  to desired warehouse size.
+2. By default `dbt_full_refresh` DAG will be running on `TRANSFORMING_XL` warehouse , in order to modify the warehouse size in case of quick full refresh or in case of performance issue, modify the variable `DBT_WAREHOUSE_FOR_FULL_REFRESH` to desired warehouse size. For the actual list of the actual warehouse's sizes, check [compute-resources](https://about.gitlab.com/handbook/business-technology/data-team/platform/#compute-resources)
 3. Manually trigger DAG to run.
 
 dbt command that is run behind is
@@ -842,6 +873,11 @@ dbt command that is run behind is
 ```
 dbt run --profiles-dir profile --target prod --models DBT_MODEL_TO_FULL_REFRESH --full-refresh
 ```
+
+See the following demo video on how to perform a DBT Full Refresh in Airflow:
+
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/OIBdemRSAiQ"></iframe></figure>
+
 
 ## GitLab Data Utilities
 
