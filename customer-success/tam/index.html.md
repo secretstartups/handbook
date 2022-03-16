@@ -27,7 +27,7 @@ Aligning passionate TAMs with customers to ensure their success by...
 **Objective:**  Define the 3 ‘big rocks’ to take on in FY23 with the overall goal of moving our team forwards.  These rocks need to move us forwards as a team and as individuals, enabling us to scale, be impactful, and be inspired/fulfilled in our roles. 
 
 **What are 'big rocks'?**  
-As outlined in [this article](https://www.forbes.com/sites/hillennevins/2020/01/21/what-are-your-big-rocks/?sh=191f218fae34), they are our priorities... our mission-critical objectives that we need to solve for in the coming year. We arrived at this list through TAM leadership discussions and final input from individual contributors.
+As outlined in [this article](https://www.forbes.com/sites/hillennevins/2020/01/21/what-are-your-big-rocks/?sh=191f218fae34), they are our priorities, our mission-critical objectives that we need to solve for in the coming year. We arrived at this list through TAM leadership discussions and final input from individual contributors.
 
 ### Big Rock 1: (Re)Define the TAM Role
 
