@@ -11,7 +11,7 @@ description: "The Technical Account Management team at GitLab is a part of the C
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-[<button class="btn btn-primary" type="button" style="padding: 15px 30px; font-size: 24px;">Digital Touch</button>](/handbook/customer-success/tam/segment/digital/)
+[<button class="btn btn-primary" type="button" style="padding: 15px 30px; font-size: 24px;">Digital Touch</button>](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
 [<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Scale</button>](/handbook/customer-success/tam/segment/scale/)
 [<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Named</button>](/handbook/customer-success/tam/segment/named/)
 [<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Strategic</button>](/handbook/customer-success/tam/segment/strategic/)
