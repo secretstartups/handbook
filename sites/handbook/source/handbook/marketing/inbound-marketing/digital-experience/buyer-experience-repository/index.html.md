@@ -56,6 +56,15 @@ All content is stored in the [/content](https://gitlab.com/gitlab-com/marketing/
 1. Add the content of your page into the [/content](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/content) folder in a `.yml` file. Please follow existing indentation and convention.
 1. Create an MR, and tag both an Engineer and a Designer on the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/#team) as a `Reviewer`. Only the Digital Experience Team will be able to merge. 
 
+### Will there be a content management system?
+
+[Probably not](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/550#note_877305907). As we reduce the size and scope of the marketing site, we will be raising the bar for the quality of our page design. Content management systems present significant challenges in quality control. 
+
+In order to keep the Buyer Experience looking as good as possible, we have decided not to allow for markdown or rich text editing experiences. Instead, all data will continue to be rendered with the aforementioned Nuxt Content Module. Most data should live in YAML files as structured blocks of strings. There may be call for some numerical data from time to time. We will not allow or support markdown or other rich text strings, with the notable exception that some text elements may need inline links, which we can store as single `p` tags with anchors in them, and render with Vue.js `v-html` attributes. 
+
+By making this decision, we will be simplifying and streamlining our architecture, and making changes to the website more predictable and manageable. The cost is that some content editors may need to wait longer for engineers to implement their changes. Fortunately, in 2022, we only saw about 2-3 requests per month that required this kind of work across the Buyer Experience repository and www-gitlab-com repository. 
+
+If, in any particular quarter, we spend more than two weeks doing content updates implemented by engineering, we should revisit the need for a content management system.
 
 # Developer Experience 
 
