@@ -55,6 +55,7 @@ _Last updated 2022-01-10._
 #### How often is the data updated in Gainsight?
 - SaaS - Usage Ping is manually pulled weekly on a schedule for the entire instance, for all customers/namespaces at once, typically on Mondays. It's loaded and passed through Snowflake into Gainsight, and those processes can take a day or two to complete.
 - Self-Managed - Each Self-Managed instance Usage Ping is updated weekly, and the schedule of the weekly ping varies from instance to instance. It's loaded and passed through Snowflake into Gainsight, and those processes can take a day or two to complete.
+
 ---
 
 ## Data Definitions
@@ -73,6 +74,8 @@ _Last updated 2022-01-10._
 #### What is UUID?
 - UUID = GitLab-assigned ID of a server. There can be more than one server for one hostname.
 
+#### What is the difference between Product Usage Data and telemetry?
+- Telemetry has the connotation of third-party analytics, so we avoid using this word. More information and alternatives on the [Top Misused Terms Handbook Page](https://about.gitlab.com/handbook/communication/top-misused-terms/#telemetry)
 ---
 
 ## Multiple Hostnames and Subscriptions
