@@ -16,34 +16,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ## TAM Alignment
 
-Customers who meet the following criteria are aligned with a Technical Account Manager.  *These criteria are reviewed annually and are subject to change*:
-
-### Enterprise
-
-- [Meets Enterprise Segment Criteria](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
-- Recurring contract value (ARR) of $50,000 or greater
-- Exceptions can be made for clearly defined growth opportunities, decided by sales and TAM leadership
-
-#### Parent-Child Accounts and Business Units
-
-It's not uncommon for a single customer to have different subsidiaries or [business units](/handbook/sales/sales-term-glossary/#business-unit) with their own GitLab instances and contracts. In effect, each of these separate entities behaves as a separate customer from the perspective of the TAM - different points of contact, different initiatives, different strategic outcomes.
-
-When evaluating whether a customer is TAM qualifying, we consider the size of the [business unit](/handbook/sales/sales-term-glossary/#business-unit), not the total ARR of a given customer, nor the total ARR of a parent account and all of their combined child accounts.
-
-Example:
-
-- `Customer A` has $50k ARR spread across three separate [business units](/handbook/sales/sales-term-glossary/#business-unit) spending $22k, $17k, and $10k respectively. None of those is TAM qualifying.
-- `Customer B` has $60k ARR spread across two [business units](/handbook/sales/sales-term-glossary/#business-unit) spending $53k and $7k respectively. The [business unit](/handbook/sales/sales-term-glossary/#business-unit) spending $53k is TAM qualifying, but the other is not.
-
-### Commercial
-
-- Commercial (Mid-Market and SMB) customers are eligible for a TAM if the recurring contract value (ARR) is greater than $50,000.
-- APAC accounts should be routed through the APAC TAM manager for assignment
-- Exceptions can be made for clearly defined growth opportunities, decided by sales and TAM leadership. To request, [open an issue](https://about.gitlab.com/handbook/customer-success/comm-sales/#account-executive-to-tam-existing-accounts-without-a-tam) on the Commercial TAM Triage board. The basic criteria used will be (1 AND 2 AND 3):
-    1. Well defined growth opportunity
-    1. Clear objectives/goals - what do they need TAM help to accomplish?
-    1. Timeframe - if we accomplish X and Y in Z months, we agree to evaluate expanding/growing
-- [Commercial TAM group direction](/handbook/customer-success/tam/commercial/vision/)
+For an overview of TAM segments by ARR, please see [this wiki page](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/Segments)(Internal GitLab only)
 
 ## Responsibilities and Services
 
