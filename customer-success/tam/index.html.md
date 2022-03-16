@@ -152,58 +152,10 @@ Technical Account Managers help to bring GitLab to all aspects of your company, 
 
 Technical Account Managers make sure that the adoption of GitLab is successful at your company through planning, implementation, adoption, and training.
 
-Your TAM can help you:
-
-- Create a roadmap for your development cycle.
-- Deliver training to your users through webinars and other deep-dive sessions.
-- Analyze your data to suggest changes, additions, and improvements to optimize your workflow.
-
-To get the most out of your TAM relationship:
-
-- **Stay in touch with your TAM**. Set up a group in your organization to attend webinars and regular meetings.
-- **Make a plan**. Get help building your roadmap to guide your progress.
-- **Set a schedule**. Set up regular meetings to review your progress and improve your planning, including bi-annual meetings and reviews.
-- **Know your backup**. When your TAM is unavailable, you'll have a backup who can step in to help.
-
 ## Responsibilities and Services
 
-#### Book of Business
+Please reference this page for an overview of the areas your TAM will engage with you in: [TAM Points of Engagement](https://about.gitlab.com/handbook/customer-success/tam/services/)
 
-Technical Account Managers are responsible for managing a portfolio of customer accounts based on the sum of the annual contract value of the accounts under management. The current target per TAM for the [TAM-assigned segment](/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment) is 3.6M USD per TAM
-
-The team continues to drive efficiency improvements to allow TAMs to effectively manage a larger book of business.
-
-There are various services a Technical Account Manager will provide to ensure that customers get the best value possible out of their relationship with GitLab and their utilisation of GitLab's products and services. These services include, but are not limited to:
-
-## Relationship Management
-
-- Regular [cadence calls](/handbook/customer-success/tam/cadence-calls/)
-- Regular open issue reviews and issue escalations
-- Account [health assessment](/handbook/customer-success/tam/health-score-triage/)
-- [Executive business reviews](/handbook/customer-success/tam/ebr/)
-- Success strategy roadmaps - beginning with a 30/60/90 day success plan
-- To act as a key point of contact for guidance, advice and as a liaison between the customer and other GitLab teams
-- Own, manage, and deliver the customer onboarding experience
-- Help GitLab's customers realize the value of their investment in GitLab
-- GitLab Days
-- Deliver [Workshops and/or Lunch-and-Learns](/handbook/customer-success/tam/workshops/) as needed
-
-## Training
-
-- Identification of pain points and training required
-- Coordination of demo sessions, potentially delivered by the Technical Account Manager or Solution Architect if time and technical knowledge allows
-- "Brown Bag" sessions
-- Regular communication and updates on GitLab features
-- Product and feature guidance - new feature presentations
-
-## Support
-
-- Upgrade planning assistance in conjunction with Support
-- User adoption strategy
-- Migration strategy and planning in conjunction with Support
-- Launch support
-- Monitors support tickets and ensures that the customer receives the appropriate support levels
-- Support ticket escalations
 
 ## TAM Tools
 
