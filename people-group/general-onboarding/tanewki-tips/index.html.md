@@ -64,47 +64,47 @@ As point 36 on our [communication handbook page](https://about.gitlab.com/handbo
 
 | Acronym| Word/Saying/Title | 
 |:---------------|:---------------|
-| MR | Merge Request  | 
+| AMA | Ask Me Anything | 
 | AR | Access Request | 
 | DRI | Directly Responsible Individual | 
-| TMRG | [Team Member Resource Group](https://about.gitlab.com/company/culture/inclusion/#tmrgs---team-member-resource-groups) |
-| AMA | Ask Me Anything | 
 | E-Group | Executive Group |
 | EBA | Executive Business Administrator | 
+| MR | Merge Request  | 
 | PTO | Paid Time Off |
+| TMRG | [Team Member Resource Group](https://about.gitlab.com/company/culture/inclusion/#tmrgs---team-member-resource-groups) |
 
 **People Group Related Acronyms**
 
 | Acronym| Word/Saying/Title | 
 |:---------------|:---------------|
-| PBP | People Business Partner |
-| TA | Talent Acquisition | 
 | CES | Candidate Experience Specialist |
+| PBP | People Business Partner |
 | PC | People Connect |  
+| TA | Talent Acquisition | 
 | TR | Total Rewards | 
 
 **Sales/Sales Related Acronyms**
 
 | Acronym| Word/Saying/Title | 
 |:---------------|:---------------|
-| SAL | Strategic Account Leader | 
-| TAM | Technical Account Manager | 
-| LAM | Landed Addressable Market | 
-| ASM | Area Sales Manager | 
-| FTE | Full Time Equivalent |
-| SQL | Sales Qualified Lead |
 | ACV | Annual Contract Value | 
 | ARR | Annual Recurring Revenue | 
+| ASM | Area Sales Manager | 
+| ATR | Avaialble To Renew |
+| CAC | Customer Acquisition Cost |
+| CS | Customer Success |
+| FTE | Full Time Equivalent |
+| LAM | Landed Addressable Market | 
+| LTV | Life Time Value |
 | MRR | Monthly Recurring Revenue | 
 | PCV | ProServe Contract Value | 
-| TCV | Total Contract Value |
-| CAC | Customer Acquisition Cost |
-| LTV | Life Time Value |
-| ATR | Avaialble To Renew |
-| TAM | Total Addressable Market | 
-| CS | Customer Success |
 | SA | Solution Architect |
+| SAL | Strategic Account Leader | 
+| SQL | Sales Qualified Lead |
 | SRE | Site Reliability Engineer |
+| TAM | Technical Account Manager | 
+| TAM | Total Addressable Market | 
+| TCV | Total Contract Value |
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Equipment and Expenses
 
