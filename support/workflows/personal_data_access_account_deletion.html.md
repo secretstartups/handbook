@@ -97,6 +97,8 @@ When a user submits a personal request using the [Personal Data Request form](ht
 
 Upon submission, the submitter will receive an autoresponder depending on the request and outcome of the initial validation. The autoresponse they receive will be in the initial description of the issue, along with a copy of the form entries that were submitted.
 
+If this request is submitted via email please refer to the [Request Submitted Directly](#request-submitted-directly) closure reason.
+
 #### **Stage 1: Ownership Verification**
 
 >**NOTE:** Users have a total of 14 days to respond to the challenge questions. In order to keep track of the requests that are pending a response to the challenge questions, you can apply the `Awaiting::Challenge Answers` label, if it does not already exist.
@@ -142,6 +144,8 @@ In certain circumstances we will need to close a users request without processin
 ###### Request Submitted Directly
 
 If a request is received because the requestor submitted it directly to the Personal Account Requests Service Desk email address rather than using [the form](https://support.gitlab.io/account-deletion/), close the issue and inform the requestor with the following snippet to open a new request through the form so that we can assist them.
+
+If the request is spam, please apply the label `Invalid Request::Spam` and close the issue.
 
 <details>
   <summary markdown="span">Request Closed - Request Submitted Directly</summary>
