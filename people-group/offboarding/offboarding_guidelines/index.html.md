@@ -10,9 +10,37 @@ description: "Offboarding process and steps on the backend"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The [People Experience Associate](/job-families/people-ops/people-experience-associate/) in the relevant [rotation](/handbook/people-group/people-experience-team/#weeklyrotation) will assign the offboarding team member to a People Experience Associate from within the offboarding [tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=989170380). Once assigned, the assigned People Experience Associate creates the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment/-/blob/master/.gitlab/issue_templates/offboarding.md), within 12 hours of the offboarding date (may be sooner once the relevant Associate in the rotation is online) as is stipulated in the #offboarding Slack channel submitted by the People Business Partner. Many other teams work to deprovision access including the ITOps team, this should be regarded as urgent and expected to be completed in 5 working days with the exception of [Laptop returns](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#returning-oldoffboarded-laptops), which can take 2 - 4 weeks.
+{::options parse_block_html="true" /}
 
-## Offboarding Process
+<div class="panel panel-gitlab-orange">
+**This is a Controlled Document**
+{: .panel-heading}
+<div class="panel-body">
+
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+
+</div>
+</div>
+
+# GitLab Offboarding Guidelines
+
+## Purpose
+These guidelines specifies requirements related to the offboarding of GitLab team members from all GitLab related computing resources and data assets so as to protect our customers, team members, contractors, company, and other partners from harm caused by both deliberate and inadvertent misuse. Our intention in publishing these guidelines is to outline information security guidelines intended to protect GitLab assets.
+
+## Scope
+These guidelines applies to all GitLab team-members, contractors, advisors, and contracted parties interacting with GitLab computing resources and accessing company or customer data.
+
+## Roles & Responsibilities:
+
+| Role  | Responsibility | 
+|-----------|-----------|
+| GitLab Team Members | Responsible for following the requirements in this document |
+| PeopleOps | Responsible for implementing and executing this document | 
+| PeopleOps (Code Owners) | Responsible for approving significant changes and exceptions to this document |
+
+## Offboarding Procedure
+
+The [People Experience Associate](/job-families/people-ops/people-experience-associate/) in the relevant [rotation](/handbook/people-group/people-experience-team/#weeklyrotation) will assign the offboarding team member to a People Experience Associate from within the offboarding [tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=989170380). Once assigned, the assigned People Experience Associate creates the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment/-/blob/master/.gitlab/issue_templates/offboarding.md), within 12 hours of the offboarding date (may be sooner once the relevant Associate in the rotation is online) as is stipulated in the #offboarding Slack channel submitted by the People Business Partner. Many other teams work to deprovision access including the ITOps team, this should be regarded as urgent and expected to be completed in 5 working days with the exception of [Laptop returns](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#returning-oldoffboarded-laptops), which can take 2 - 4 weeks.
 
 ### Notice of Offboarding
 
@@ -50,9 +78,9 @@ In the event that the offboarding issue is not automatically opened or an urgent
 1. You will be pinged in Slack once the offboarding issue is created, which usually takes 30 seconds or so. The ping will include a link to the offboarding issue and merge request removing from team page.
 1. You will need to check the Department, GitLab Email Address and GitLab Handle within the issue is correct.
 
-## Tools Offboarding
+### Offboarding Tools
 
-### Google Workspace
+#### Google Workspace
 
 IT Ops will follow the below steps to set up an auto-response that notifies the sender that the team member they are trying to reach is no longer with GitLab and who to contact.
 
@@ -64,7 +92,7 @@ IT Ops will follow the below steps to set up an auto-response that notifies the 
 
 The Out of Office message will stay on the account for 90 days, aftewards ITOPs will follow up and archive the account in the G-Suite vault.
 
-### Slack
+#### Slack
 
 - Bots
 
@@ -83,7 +111,7 @@ There is currently a task listed in the offboarding template for the People Expe
 1. If there is a custom emoji, select the `x` next to the emoji listed to delete
 1. Select confirm to delete permanently from the GitLab Slack workspace
 
-### Team Page
+#### Team Page
 
 As per the [automation](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#offboarding-merge-request) in place, a merge request is automatically created to remove the team member from the team page. This will update the following:
 
@@ -98,7 +126,7 @@ The People Experience Associate will need to complete:
 
 - Remove the team members ReadMe
 
-## Offboarding Compliance
+### Offboarding Compliance
 
 The People Experience Associates in the relevant rotation will complete a weekly audit of all offboarding issues opened within that specific week and check that all tasks have been completed by all Team Member and/or Departments. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant Departments within the offboarding issue to call for tasks to be completed.
 
@@ -110,3 +138,11 @@ To ensure a successful completion of the offboarding issue, it is important that
 
 - I have revoked team member access to this particular system/tool
 - I have checked and this team member was not given access to this particular the system/tool
+
+## Exceptions
+Exceptions to this policy must be approved by PeopleOps.
+
+## References
+* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
+* [GitLab Offboarding](https://about.gitlab.com/handbook/people-group/offboarding/)
+* [GitLab Offboarding FAQ](https://about.gitlab.com/handbook/people-group/offboarding/faq.html)
