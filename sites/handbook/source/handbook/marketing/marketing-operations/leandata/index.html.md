@@ -38,6 +38,8 @@ Leads that are not yet MQLs or that are no longer being worked by the Sales Deve
 ## Contact routing workflow
 The scope of the contact flowbuilder is very limited. Records are only processed by this flowbuilder if they are meant to be managed by partners via the Vartopia Prospect module. In our current iteration, the contact flowbuilder only updates two custom fields, which triggers a partner's record visibility in Vartopia. 
 
+All other [SFDC contact ownership rules](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#changing-contact-ownership-in-salesforce) are maintained outside of LeanData. If you have questions or concerns about contact routing outside of partner record management processes, please reach out to [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/).
+
 ## Account routing workflow
 The account routing flowbuilder leverages LeanData's territory management functionality to populate or update the `[TSP] Territory`, `[TSP] Region`, `[TSP] Sub-Region`, `[TSP] Area`, and `[TSP] Approved Next Owner` fields on the account object. LeanData monitors for changes to the `[TSP] Last Update Timestamp` field to know when an account record is ready to be processed. Details about the TSP process can be found on the [Sales Operations handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp). 
 
