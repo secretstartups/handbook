@@ -199,6 +199,14 @@ Promotions to Senior Director+ level ([job grade 11](/handbook/total-rewards/com
 
 The only exception to this process is when filling an open Director and above role with an existing GitLab team member for a role posted publicly that an internal team member applies for. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
 
+## Hiring for Senior Director+ Net New Roles
+
+In order to ensure a consistent level of review for both internal promotions and new leadership roles, any net new Senior Director and above "To be Hired" roles will be reviewed and approved by e-group. Senior leaders should partner with their People Business Partner to create a justficiation document for their proposed role. The [justification document](https://docs.google.com/document/d/1feA04oVpXYa1QWAnQA0OB1zC_KuaDNDq97gtmEJMUIk/edit#heading=h.o7rctrz9uxl7) allows for e-group to better understand the business need for the role and how it will align within the organization. 
+
+This review is part of our organizational design discussions that occur during the e-group offsite. 
+
+Proposed roles can be reviewed as soon as the organization has visibility to the business need. However, if the need for a new Sr. Director + role comes up outside of those organizational design discussions, it can be reviewed during the weekly e-group meeting to continue to ensure that we are agile and competitive in our hiring practices. 
+
 ### Greenhouse
 
 - Promotions or Applications to Manager level roles: All managers will need to apply for the open position in [Greenhouse](/handbook/hiring/interviewing/#internal-applicants). They will go through the interview and approval process in Greenhouse to ensure anyone who would want to apply has the opportunity.
