@@ -9,13 +9,6 @@ title: "Development Director Shadow Program"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Overview video
-
-[![Overview video](eng_director_shadow.png)](https://www.youtube.com/watch?v=xC9cOZkIhp0)
-
-
-[Overview video](https://www.youtube.com/watch?v=xC9cOZkIhp0)
-
 ## What is the Development Director Shadow Program?
 
 I got massive value out of participating in our [CEO Shadow Program](/handbook/ceo/shadow/) when [I did it in July of 2020](/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
