@@ -2,22 +2,36 @@
 
 ### <%= header %>
 
-#### <%= header %> Development dashboard
+#### Top Engineering Metrics dashboard
+(<a href="hhttps://app.periscopedata.com/app/gitlab/1000952/Interdepartment-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+<%= partial "handbook/engineering/metrics/partials/interdepartment_dashboard.erb", locals: { filter_type: filter_type_for("quality", filter_type), filter_value: filter_value_for('quality', filter_type, filter_value) } %>
 
+#### Development dashboard
+<details>
+  <summary><b>Dashboard</b></summary>
 <%= partial "handbook/engineering/metrics/partials/dev_dashboard.erb", locals: { filter_type: filter_type_for("dev", filter_type), filter_value: filter_value_for('dev', filter_type, filter_value) } %>
+</details>
 
-#### <%= header %> Infrastructure dashboard
-
+#### Infrastructure dashboard
+<details>
+  <summary><b>Dashboard</b></summary>
 <%= partial "handbook/engineering/metrics/partials/infrastructure_dashboard.erb", locals: { filter_type: filter_type_for("infrastructure", filter_type), filter_value: filter_value_for('infrastructure', filter_type, filter_value) } %>
+</details>
 
-#### <%= header %> Quality dashboard
-
+#### Quality dashboard
+<details>
+  <summary><b>Dashboard</b></summary>
 <%= partial "handbook/engineering/metrics/partials/quality_dashboard.erb", locals: { filter_type: filter_type_for("quality", filter_type), filter_value: filter_value_for('quality', filter_type, filter_value) } %>
+</details>
 
-#### <%= header %> UX dashboard
-
+#### UX dashboard
+<details>
+  <summary><b>Dashboard</b></summary>
 <%= partial "handbook/engineering/metrics/partials/ux_dashboard.erb", locals: { filter_type: filter_type_for("ux", filter_type), filter_value: filter_value_for('ux', filter_type, filter_value) } %>
+</details>
 
-#### <%= header %> Security dashboard
-
+#### Security dashboard
+<details>
+  <summary><b>Dashboard</b></summary>
 <%= partial "handbook/engineering/metrics/partials/security_dashboard.erb", locals: { filter_type: filter_type_for("security", filter_type), filter_value: filter_value_for('security', filter_type, filter_value) } %>
+</details>
