@@ -54,12 +54,16 @@ that will be owned by a specific team.
 
 GitLab uses automation to streamline engineering processes, such as:
 
-- [Danger bot](https://docs.gitlab.com/ee/development/dangerbot) for merge request hygiene. Can use a project access tokens.
+- [Danger bot](https://docs.gitlab.com/ee/development/dangerbot) for merge request hygiene. We use the [Danger bot](https://gitlab.com/group_9970_bot1) group access token.
 - [Triage ops](https://gitlab.com/gitlab-org/quality/triage-ops) for automated:
   - Scheduled reminders and reports of issues and merge requests. Requires a service account.
   - Real-time reaction to events on issues and merge requests. Requires a service account.
 - [Multi-project pipeline polling](https://docs.gitlab.com/ee/development/testing_guide/review_apps#cicd-architecture-diagram)
-  for fetching status of downstream pipelines [while we cannot use the `trigger` keyword](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues/6118). Can use a project access tokens.
+  for fetching status of downstream pipelines [until we use the `trigger` keyword](https://gitlab.com/gitlab-org/gitlab/-/issues/355616).
+  We use the following project access tokens:
+  - [Multi-pipeline (from 'gitlab-org/gitlab' 'package-and-qa' job)](https://gitlab.com/project_14588374_bot2): used to trigger a downstream pipeline from the `package-and-qa` job of the `gitlab-org/gitlab` project.
+  - [Multi-pipeline (from 'gitlab-org/gitlab-qa' 'notify_upstream_commit:*' jobs)](https://gitlab.com/project_14707715_bot3): used to post a comment on upstream commits from the `notify_upstream_commit:*` jobs of the `gitlab-org/gitlab-qa-mirror` project.
+- Allure test reports. We use the [End-to-end tests Allure report](https://gitlab.com/project_278964_bot5) project access token to post Allure test report on merge requests that run end-to-end tests against their Review App.
 - Asynchronous retrospective generation. Can use a project access tokens unless fetching confidential issues.
 - GitLab Runner releases. Requires a service account.
 - [Repository mirroring](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring). Requires a service account.
