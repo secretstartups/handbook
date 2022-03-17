@@ -146,9 +146,9 @@ You can copy/paste this to make sure you don't miss anything:
 
 The `~customer priority::*` labels are inputs for the prioritization model powering the customer prioritization framework dashboards: 
 
-title/link to dash for PMs
-title/link to dash for Sales/TAMs
+- [Customer Requested Issues (Product)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product) for product managers
+- [Customer Requested Issues (TAM)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970772/User-Request-Issue-Prioritization---TAM-Customer-View) for  Sales, CS and TAMs
 
-These dashboards represent the relative importance of a given issue to the specific customer. 1 is the lowest priority and 10 is the highest. These can be updated at any point in time and will be reflected in the model within 24 hours.  You can find more context about priority labels on the [customer prioritization framework priority points](/handbook/product/customer-prioritization-framework/index.html#priority-points).
+These dashboards represent the relative importance of a given issue to the specific customer. 1 is the lowest priority and 10 is the highest. These can be updated at any point in time and will be reflected in the model within 24 hours.  You can find more context about priority labels on the [customer prioritization framework handbook page](/handbook/product/product-processes/customer-prioritization-framework/index.html#priority-points).
 
-Please note these dashboards are still being piloted. For more context on the pilot, including model overview, status, and quickstart info/video and issues for pilot participation, visit [customer prioritization framework](/handbook/product/customer-prioritization-framework).
+Please note these dashboards are still being piloted. For more context on the pilot, including model overview, status, and quickstart info/video and issues for pilot participation, visit [customer prioritization framework](/handbook/product/product-processes/customer-prioritization-framework).
