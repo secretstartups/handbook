@@ -118,6 +118,7 @@ EBRs typically consists of the following content:
     - This is often especially valuable for the Economic Buyer in order to understand the full capabilities of GitLab
 1. Reiteration of the customer's goals and desired positive business outcomes as we understand them
     - Address each of the customer's objectives in their success plan, including the status, work left to do, and how we'll measure success
+    - Prepare several probing impact questions related to each objective to get the conversation going
 1. Review of progress made against these goals and desired outcomes
     - Direct reference to any desired outcomes/agreed goals from previous EBRs and updates against these specifically
 1. Aligning with the key decision makers on their strategic vision
@@ -139,6 +140,22 @@ Besides creating the deck, there are a few other items to consider to ensure you
 
 1. Ask someone else who will be on the call (e.g. your manager) to take notes and create a Google doc for notes in the customer folder. Having a dedicated notetaker ensures that you're able to effectively lead the conversation as well as focus on your content instead of switching between windows.
 1. There are usually specific product areas that customers have special interest in, and having the Product Manager for that area on the call can be incredibly valuable. Once you've scheduled the EBR and determined which PM would be most appropriate, reach out to the PM to ask if they are available and willing to join the presentation with an overview of recently delivered product functionality, as well as what features will be coming within the next year. Also set expectations for the time commitment expected from them; for example, 15 or 30 minutes at the end of the EBR. Once you've confirmed their availability, add them to the calendar invite and share your deck with them and add a dedicated section of the deck for them to add slides to. Make sure you follow up 48 hours in advance of the EBR if they haven't added their content.
+
+### Impact Questions
+
+This is a list of example impact questions the TAM can use throughout the EBR to dig deeper into the customers objectives and strategy.
+
+1. Tell us about your largest initiatives right now? Where are you focused?
+1. Can you spend some time on your overall cloud and app modernization strategy?
+1. As you look at the year ahead, what are your key 2-3 initiatives?
+  1. What has changed since last year?
+  1. What would you like things to look like in the next couple years - where do you want to be?
+1. On the security front, we see customers struggling with the triage process. When you have a security issue, what does the resolution process look like? Who is involved? 
+1. How do security vulnerabilities affect your cycle time?
+1. What visibility or insights does your leadership have? How are you collecting this information today? 
+1. (If customer describes an objective with no metrics) Would you please describe what 'good' will look like for this initiative?  How are you thinking about/measuring progress against this effort? 
+
+
 
 ### EBR Examples & Template
 
