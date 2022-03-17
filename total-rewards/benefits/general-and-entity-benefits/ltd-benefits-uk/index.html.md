@@ -385,4 +385,14 @@ Total Rewards will notify payroll to reduce the team member's gross salary by th
 Note: There is a 4% (plus VAT) booking fee for annual tickets and a 10 EUR (VAT inclusive) booking fee for monthly tickets paid for by the team member by being added to the price of the ticket.
 Once the total rewards team has approved the bike or ticket application, an invoice is generated. Once payment as been received, TravelHub emails the team member a voucher to use in the bike shop or tickets are dispatched in to the team member.
 
+## Administrative Details for Benefits Team
 
+Adding/Removing Team Members from Help@Hand
+
+1. Pull a New Hire and Term Report from BambooHR
+1. Log on to the Emloyer Help@Hand Platform
+1. To add joiners, select "Add Employees" > "Import Employees" > Include new hire emails in CSV file and upload to the portal.
+1. To remove leavers select "De-register Employees" > "Import Employees", include leaver's emails in CSV file and upload to portal
+1. To remind Team Members of Help@Hand benefit, select "Export Employees", copy emails of "Unregistered" team members and send a reminder email to register
+
+Additional details can be found on the [Adding/Removing Team Members Help@hand Guide](https://docs.google.com/document/d/1jrSe8lyPuDkgQyx_HeDQTcC8lO1xZKk5/edit). 
