@@ -38,6 +38,8 @@ _we've identified some prerequisites that must be complete before pursuing a rec
 | [Zuora SSOT](https://gitlab.com/groups/gitlab-org/-/epics/4664) | Zuora needs to be the SSOT for our Product Catalog, and what a customer has bought (subs, invoices, payments, etc) |
 | [Customer as a First Class Citizen](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1874) | As of 2022-02 we map a user to a subscription, but a Zuora account maps to a customer. We need to resolve this before scaling to a new or improved system | 
 | [SSO](gitlab-org/customers-gitlab-com#1868) | As of 2022-02 a customer can have two logins, their GitLab.com account AND an account on customers.gitlab.com, we need to merge these and maintain a single SSO system (gitlab.com account) |
+| Account Management Access Controls & Billing Roles | The admin is not always the person at a customer's organization who is responsible to manage the subscription. We need a solution that support billing roles, billing perms or perm sets (actual solution still TBD) that ensures the right person at a customer's organization has access|
+
 
 ## Exit Criteria 
 
@@ -54,15 +56,18 @@ _we've identified some prerequisites that must be complete before pursuing a rec
     1. Omar Fernandez 
     1. Alex Martin 
 
-### Path 2 (2022-02-18 > 2022-03-04) - 2 weeks
-1. Develop a feature matrix with a prioritized list of features we'd want in our future state and evaluate cost to build them ourselves, whether available in vendor options, and cost to integrate each vendor. 
+### Path 2 (2022-02-18 > 2022-04-08) - 7 weeks
+1. Translate wishlist into feature families and capabilities consumable by vendors and cover any other technical components
+    1. Bryan Wise and Mark Quitevis
     1. Kazem Kutob
-    1. Omar Fernandez
     1. Jerome Ng
-1. Vendor asessment - how would it plug into our systems
-    1. Bryan Wise
+1. Receive input from vendors (and CustomersDot) on capabilities
+    1. Bryan Wise and Mark Quitevis
+    1. Jerome Ng
+1. Build high-level estimate of integrations requirements and timeline
+    1. Jerome Ng
 
-### Path 3 (2022-03-07 > 2022-03-18)
+### Path 3 (2022-04-08 > 2022-04-19) - 2 weeks
 1. Recommendation on how to deliver long-term objectives, including assessment on build vs buy. 
     1. Justin Farris
 
