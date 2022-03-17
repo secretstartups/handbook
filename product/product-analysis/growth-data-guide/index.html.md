@@ -315,6 +315,8 @@ detailed below, `[growth_data_group_namespace_invites_w_metadata]`.
 
 **Granularity:** One record per invited user per namespace (one record per `member_id`)
 
+_Note: Currently this snippet only looks at invitations to the top-level namespace. It does not include invites to sub-groups or projects. This will be updated in a future iteration but is an important caveat when using the snippet in its current state._
+
 Since the grain is at the member level, there can be multiple records per user (one for each 
 namespace they have been invited to) and multiple records per namespace (one per invited user). 
 Please be careful of this when `JOIN`ing to other tables! You need to join on both the `user_id` 
