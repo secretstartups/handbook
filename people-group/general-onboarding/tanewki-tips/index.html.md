@@ -69,8 +69,13 @@ As point 36 on our [communication handbook page](https://about.gitlab.com/handbo
 | DRI | Directly Responsible Individual | 
 | E-Group | Executive Group |
 | EBA | Executive Business Administrator | 
+| IPO | Initial Public Offering | 
+| KPIs| Key Performance Indicators |
 | MR | Merge Request  | 
+| MVC| [Minimum Viable Change](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc) (not related to Model-View-Controller)|
+| OKRs | Objectives & Key Results |
 | PTO | Paid Time Off |
+| SIRT | Security Incident Response Team |
 | TMRG | [Team Member Resource Group](https://about.gitlab.com/company/culture/inclusion/#tmrgs---team-member-resource-groups) |
 
 **People Group Related Acronyms**
@@ -90,7 +95,7 @@ As point 36 on our [communication handbook page](https://about.gitlab.com/handbo
 | ACV | Annual Contract Value | 
 | ARR | Annual Recurring Revenue | 
 | ASM | Area Sales Manager | 
-| ATR | Avaialble To Renew |
+| ATR | Available To Renew |
 | CAC | Customer Acquisition Cost |
 | CS | Customer Success |
 | FTE | Full Time Equivalent |
