@@ -2,79 +2,59 @@
 layout: job_family_page
 title: Renewals
 ---
+The Renewals job family delivers to an essential moment in the customer journey, ensuring we can continue to deliver value and business outcomes through customer retention. In collaboration with sales, channel partners, customer success, and sales operations, this team will focus on successfully renewing customer contracts while providing a seamless customer experience. 
 
-{add overview; a brief description of the job family}
-
-## Responsibilities
-* {add a bulleted list of responsibilities that apply for all levels of the role}
-
-## Requirements
-* Ability to use GitLab
-* {add a bulleted list of requirements that apply for all levels of the role}
 
 ## Levels
-### {add name of level - i.e. Junior/Senior/Manager. Note we do not list the intermediate level in the title but after the role in parentheses - i.e. IT Systems Engineer (Intermediate)}
-The {add the position title} reports to the {add the reporting position and link to the job family or heading (if on the same page)}.
 
-#### {add Level} Job Grade
-The {add the role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+### Senior Director, Renewals
 
-#### {add Level} Responsibilities
-* {add a bulleted list of responsibilities that apply for this level}
+The Senior Director, Renewals reports to the [Vice President of Customer Success](https://about.gitlab.com/job-families/sales/vp-of-customer-success/).
 
-#### {add Level} Requirements
-* {add a bulleted list of requirements that apply for all levels of the role}
+#### Senior Director, Renewals Job Grade
 
-#### {add Level} Performance Indicators
-* {add 3-5 KPIs that this role will be the DRI for, if the PIs are the same for all levels remove this section and use the heading 2 section later in the template}
+The Senior Director, Renewals is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### {add name of level - i.e. Junior/Senior/Manager. Note we do not list the intermediate level in the title but after the role in parentheses - i.e. IT Systems Engineer (Intermediate)}
-The {add the position title} reports to the {add the reporting position and link to the job family or heading (if on the same page)}.
+#### Senior Director, Renewals Responsibilities
 
-#### {add Level} Job Grade
-The {add the role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+- Lead customer retention through proactive planning, management, and execution of the renewals with customers and internal teams
+- Develop and communicate the Renewals Team vision and strategy, prioritizing team efforts, initiatives, and OKRs 
+- Own and drive the renewals process in collaboration with Sales, Customer Success, and channel partners
+- Hire, coach, and motivate a global renewals team focused on goal achievement, delivery to KPIs and OKRs, and team member development
+- Continuously develop renewals processes, policies, and playbooks to improve renewal predictability, efficiency, and customer satisfaction
+- Identify and manage renewal risks and expansion opportunities, maintaining accurate forecast of upcoming renewals
+- Drive systems, data, and product improvements to enable successful renewals and predictive visibility of renewals
+- Negotiate and execute renewal contracts in alignment with customer goals and partnership from Revenue Operations and Legal 
+- Be accountable for organizational KPIs, including gross retention, on-time renewals, and customer satisfaction
 
-#### {add Level} Responsibilities
-* {add a bulleted list of responsibilities that apply for all levels of this job family}
+#### Senior Director, Renewals Requirements
 
-#### {add Level} Requirements
-* {add a bulleted list of requirements that apply for all levels of this job family}
-
-#### {add Level} Performance Indicators
-* {add 3-5 PIs that this role will be the DRI for, if the PIs are the same for all levels remove this section and use the heading 2 section later in the template. PIs should link to the data}
-
-## Segment
-### {add name of Segment}
-{add a brief description of the specialty}
-
-#### {add name of Segment} Requirements
-* {add a bulleted list}
-
-#### {add name of Segment} Responsibilities
-* {add a bulleted list}
-
-## Specialties
-### {add name of Specialty}
-{add a brief description of the specialty}
-
-#### {add name of Specialty} Requirements
-* {add a bulleted list}
-
-#### {add name of Specialty} Responsibilities
-* {add a bulleted list}
+- Proven track record of successfully delivering to revenue goals for a SaaS or subscription business at scale in a sales and/or renewal leadership role
+- Experienced in developing and growing global teams and operations as well as leading teams at scale (i.e., managed teams of over 50 team members) 
+- Experienced in leading continuous improvement and change management across a broad range of functional stakeholders
+- Can successfully deliver to goals, build, and iterate in a fast-paced environment, working with a bias for action
+- Is data-drive and is experienced in leading system changes and automation to improve operational effectiveness and efficiency 
+- Understands both direct and channel go-to-market sales and renewals
+- Is a value-led leader who can role model and nurture [GitLab's values](https://about.gitlab.com/handbook/values/)
+- Ability to use GitLab
 
 ## Performance Indicators
-* {add 3-5 PIs that this role will be the DRI for, if PIs were listed for each level, because the are all unique, remove this section. PIs should link to the data}
+
+- [Gross retention](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#heading=h.yycfjurntovz)
+- [Net ARR](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#heading=h.yycfjurntovz) in alignment with our renewals policy
+- Customer Satisfaction
 
 ## Career Ladder
-{add brief description of the career ladder}
+
+The next step for the Renewals job family is not yet defined.
 
 ## Hiring Process
+
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
-*{add a bulleted list of the hiring process steps here}
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Next, qualified candidates will be invited to interview with 2 - 4 team members.
+- Next, qualified candidates will have a final interview with an executive. 
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
