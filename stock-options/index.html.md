@@ -36,7 +36,7 @@ Per our [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) framewor
 * New Hire: 12.5% vest after ~6 months (depending upon grant date - some new hires may wait a bit longer); remaining RSUs vest quarterly thereafter for 3.5 years (four-year total vest). 
 * Promotion and Refresh Grants do not require a cliff, begin vesting quarterly for four-year vest. 
 
-## FY22 Stock Option Grant Plan Design
+## RSU Plan Design 
 
 Equity may be available to a GitLab team member as part of their overall [Total Rewards package](/handbook/total-rewards/).
 The equity ranges by role are calculated as follows:
@@ -50,12 +50,10 @@ The equity ranges by role are calculated as follows:
 **Definitions:**
 * [Compensation Range](/handbook/total-rewards/compensation/compensation-calculator/#the-compensation-calculator-formula) is the cash compensation range as seen in the GitLab [Compensation Calculator](https://comp-calculator.gitlab.net/users/sign_in).
 * [Equity Percent](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/main/data/equity_calculator.yml) is a globally consistent percentage of compensation range based on the team member’s job grade.
-   * The Equity Percent by grade will be updated annually in the Compensation Calculator and linked once merged.
-
 
 Note: All equity grants are subject to approval by the Board of Directors and no grants are final until such approval has been obtained. The company reserves the right in its sole discretion to make any adjustments to equity grants including the decision not to make a grant at all.
 
-## New Hire Grants
+### New Hire Grants
 
 New hire grants use the formula above multiplied by a New Hire Multiplier.
 The New Hire Multiplier is typically 2, but may vary.
