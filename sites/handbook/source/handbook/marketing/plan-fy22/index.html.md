@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: FY22 Marketing Plan
-description: FY22 Marketing Plan
+title: FY23 Marketing Plan
+description: FY23 Marketing Plan
 twitter_image: /images/tweets/handbook-marketing.png
 twitter_site: '@gitlab'
 twitter_creator: '@gitlab'
@@ -29,22 +29,28 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 
 #### Marketing Pillars:
 
-1. Elevate our brand messaging and product positioning
-1. Increase Funnel Volume to drive Pipeline 
-1. Maintain team member delight through strong collaboration and prioritization 
+1. Category Leadership for the DevOps Platform
+1. Deliver First Order Pipeline (Volume and LAM)
+1. Increase User Engagement
+1. Increase team member community and sense of belonging 
 
-### Goal of FY22 Marketing Plan:
+### Goal of FY23 Marketing Plan:
 {: #goal}
 
 <!-- DO NOT CHANGE ANCHOR -->
-**Goals of FY22 Marketing Plan:**
+**Goals of FY23 Marketing Plan:**
 
-- Simplify motions and increase collaboration with the 3 GTM Motions
-- Continue to drive levers identified in FY21 Project Compass, including:
-    - Scale ABM Program
+- Simplify motions and increase collaboration with our solution based marketing positioning
+- Continue to drive levers identified in Project Raptor, including:
+    - Prioritize Inbound Inquiries
+    - Target Strategic Accounts
+    - Specialize Inbound and Outbound
+    - Work on category creation
+- Also focus on FY22 areas of improvement:
     - Improve Inquiry to SAO conversion rates
     - Increase Free.com and open source conversion
-- Align with sales with the 4x2 segment strategies
+    - Scale ABM process
+- Align with sales on core GTM motions
 - Build partners into our marketing motions
 - Help develop marketing team-members with training and mentoring
 
@@ -53,9 +59,8 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 - Define and win the DevOps Platform category
 - Gain CI marketshare
 - Build security into our motions as a key product differentiator
-- Continue driving the All-Remote work thought leadership
 
-**Timeline:** Ensure marketing alignment by end of February 2021
+**Timeline:** Ensure marketing alignment by end of February 2022
 
 **Audience:** Marketing
 
@@ -87,7 +92,7 @@ Internal only - search for `GTM Slides - w Data`
 {: #topo}
 
 <!-- DO NOT CHANGE ANCHOR -->
-The TOPO Model is the agreed upon Finance/Sales/Marketing model that drives Marketing's goals for FY22, leveraging advisory services from [TOPO (now Gartner)](https://topohq.com/). In order to see the TOPO model please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `FY22_Mktg Model_TOPO_Machado - PLAN LOCKED`.
+The TOPO Model is the agreed upon Finance/Sales/Marketing model that drives Marketing's goals for FY23. This model was built bottoms up and tops down to create First Order SAO goals by SDR generated, Web Direct, AE Generated and Channel Generated. Marketing owns SDR and Web Direct from a demand generations perspective and part of the channel generated number.
 
 On a monthly cadence, the **Marketing Key Review** will be used as the venue for tracking where we are year-to-date on the agreed upon plan.
 
@@ -95,7 +100,7 @@ On a monthly cadence, the **Marketing Key Review** will be used as the venue for
 {: #budgets}
 
 <!-- DO NOT CHANGE ANCHOR -->
-All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](/handbook/marketing/strategy-performance/allocadia/) for more details on the tool.
+All FY23 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](/handbook/marketing/strategy-performance/allocadia/) for more details on the tool.
 
 ### Glossary of terminology
 {: #glossary}
