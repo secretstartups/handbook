@@ -6,6 +6,40 @@ description: "The Sales Strategy Job Family helps develop and execute GitLab's G
 
 The Sales Strategy Job Family helps develop and execute GitLab's Global Sales Strategy. The Sales Strategy Job Family partners close with Sales Leadership to identify opportunities and improve efficiencies.
 
+### Sales Strategy Senior Analyst
+
+The Sales Strategy Senior Analyst reports to the Manager or Senior Manager, Sales Strategy.
+
+#### Sales Strategy Senior Analyst Job Grade
+
+The Sales Strategy Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Sales Strategy Senior Analyst Responsibilities
+
+* Be a trusted advisor to Sales Leadership
+* Partner cross-functionally with Sales Leadership, Marketing, Channel and Product teams to formulate and develop go-to-market and Global Sales strategies, independently managing initiatives from ideation to execution
+* Identify opportunities to improve operational efficiency and lead efforts to scale, align and invest in the business
+* Develop an understanding of and stay current with the competitive landscape
+* Author and deliver high-impact presentations and plans to support CRO and Theater Sales Leaders in internal Sales events
+* Ability to conduct sophisticated, detailed and creative analysis and clearly communicate results through written and verbal channels
+
+#### Sales Strategy Senior Analyst Requirements
+
+* BA/BS degree
+* Demonstrated progressive experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+* Excellent quantitative analytical skills, creativity in problem solving, and a keen business sense
+* Ability to think strategically, but also have exceptional attention to detail to drive program management and execution
+* Extensive track record of building high-quality and complex spreadsheets, models and presentations
+* Superb analytical skills and technical aptitude
+* Strong interpersonal and communication skills effective across all levels of management
+* Experience with SQL, Tableau, and/or similar analytical packages a plus
+* SaaS and B2B experience preferred
+* Interest in GitLab, and open source software
+* You share our values, and work in accordance with those values
+* Ability to thrive in a fully remote organization
+* You share our values, and work in accordance with those values.
+* Ability to use GitLab
+
 ### Sales Strategy Manager
 
 The Sales Strategy Manager reports to the Senior Director, Sales Strategy.
