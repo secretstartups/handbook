@@ -135,6 +135,15 @@ CoST members should monitor the mix of directed and leadership work that they ar
 
 The Chief of Staff to the CEO supports Board activities as specified in the [Board Meeting](/handbook/board-meetings/) section of the handbook and as directed by the CEO.
 
+In addition, the CoS to the CEO helps the CEO in preparing for the CEO's closed session. The CoS to the CEO should coordinate with the EBA to the CEO to schedule a 25 minute session with the CEO and the CoST to the CEO a week before the Board of Directors Meeting. The CoS to the CEO should prepare an agenda that includes an outline for what the CEO may want to cover. For each discussion topic, the following should be captured:
+
+1. What are we discussing?
+1. Why are we discussing it?
+1. Where should we focus our feedback and suggestions?
+1. Who should be thanked for their work?
+
+Designated meeting time will be used to review and make adjustments to the proposal. 
+
 ## OKRs
 
 The CoST to the CEO has been running the [OKR process](/company/okrs/).
