@@ -139,7 +139,7 @@ The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compen
 
 ## Senior Manager, Learning & Development 
 
-The Senior Manager, Learning & Development reports to the [VP, Talent Acquistion](/job-families/people-ops/talent-acquisition-leadership/).
+The Senior Manager, Learning & Development reports to the [VP, Talent & Engagement](/job-families/people-ops/talent-acquisition-leadership/).
 
 ### Job Grade
 
@@ -167,7 +167,7 @@ The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compen
 
 ## Director, Learning & Development 
 
-The Director, Learning & Development reports to the [VP, Talent Acquistion](/job-families/people-ops/talent-acquisition-leadership/).
+The Director, Learning & Development reports to the [VP, Talent & Engagement](/job-families/people-ops/talent-acquisition-leadership/).
 
 ### Job Grade
 
@@ -195,7 +195,7 @@ The Learning & Development Manager is a [grade 10](/handbook/total-rewards/compe
 
 ## Senior Director, Learning & Development 
 
-The Senior Director, Learning & Development reports to the [VP, Talent Acquistion](/job-families/people-ops/talent-acquisition-leadership/).
+The Senior Director, Learning & Development reports to the [VP, Talent & Engagement](/job-families/people-ops/talent-acquisition-leadership/).
 
 ### Job Grade
 
