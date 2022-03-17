@@ -12,7 +12,7 @@ title: "CEO Scheduling & Preferences"
 ## The CEO Support Team 
 1. **[Stella Treas](https://about.gitlab.com/company/team/#streas) - Chief of Staff to the CEO**
     1. Cross-functional and multi-functional projects
-1. ** To Be Hired, Temp Support: Christina Keelan Cottrell - EBA** 
+1. ** [Kristie Thomas](https://about.gitlab.com/company/team/#kristie.thomas) - Staff EBA to the CEO** 
     1. Board Meetings 
     1. Board Member AMAs
     1. CEO e-mail management 
