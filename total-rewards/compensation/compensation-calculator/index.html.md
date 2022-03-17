@@ -287,7 +287,7 @@ _Note: This table excludes Enterprise Sales, Commercial Sales, Channel Sales, an
 | 15    | CEO              |                           |
 | 14    | EVP/CXO          |                           |
 | 12    | VP               | Fellow                    |
-| 11    | Senior Director  |	                         |
+| 11    | Senior Director  | Senior Distinguished      |
 | 10    |	Director	       | Distinguished             |
 | 9.5   | Manager, Product | Principal Product Manager |
 | 9	    | Senior Manager   | Principal <br> Senior Product Manager    |
