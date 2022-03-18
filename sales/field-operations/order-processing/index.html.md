@@ -1361,7 +1361,7 @@ Opportunity Rejection reasons are tracked to ensure efficiency inside and outsid
 
 The opportunity closed! Congrats! Wait... my customer still has questions! Here are some of the most common questions that come up after an opportunity has closed... and how to resolve them.
 
-**[LicenseDot Access and Use handbook page](/handbook/sales/field-operations/licensedot-access-and-use)**
+**[CustomersDot Access and Use handbook page](/handbook/sales/field-operations/customersdot-access-and-use)**
 
 #### How do I know if a License Key was sent to the Customer?
 
@@ -1456,4 +1456,4 @@ The support team cannot assist you with:
 
     * Salesforce updates/Account/Opportunity Management
     * Quoting - Whether it's a new quote or fixing a true up error, they cannot build quotes
-    * Questions regarding the LicenseApp 
+    * Questions regarding the LicenseApp
