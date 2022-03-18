@@ -24,11 +24,13 @@ title: "Team Member Enablement"
 #### Access Requests
 
 - For information about the access request policies and security guidelines, please refer to the Security Team's [access request handbook page section](/handbook/engineering/security/#access-management-process).
+
 - For links to role based access request templates, system access templates, and other general instructions and FAQs, please refer to the [Access Requests page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
 
 #### Baseline & Role-Based Entitlements
 
 - For information about baseline entitlements and role-based access, please refer to the [baseline entitlements handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/).
+
 - For information on how to create a Role-Based Entitlement, please refer to the [instructions on how to create role-based entitlements](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#how-do-i-create-a-role-based-entitlement-template).
 
 #### Automated Group Membership Reports for Managers
@@ -36,6 +38,7 @@ title: "Team Member Enablement"
 If you would like to check whether or not a team-member is a member of a Slack or a Google Workspace group, you can view the following automated group membership reports:
 
 - [Google Workspace Group Membership Reports](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members)
+
 - [Slack Group Membership Reports](https://gitlab.com/gitlab-com/security-tools/report-slack-group-members)
 
 #### Okta
@@ -62,42 +65,69 @@ Experiencing some issues with your machine, access to systems, 2FA or other IT r
 
 New to Gitlab and looking for some IT tips and tricks? This is the spot for you, we have created a comprehensive guide for using the IT systems, apps and hardware [in this handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding101/)
 
+#### Offboarding
+
+- Are you or a direct report leaving the company? Please reference the [Offboarding](/handbook/business-technology/team-member-enablement/offboarding/) handbook page to see the action items that you can take to create a smooth transition for you and your team.
+
+
 ## <i class="fas fa-rocket" id="biz-tech-icons"></i> Mission Statement
 
 #### IT Help
 
 - IT Help will triage all IT related questions as they arise.
+
 - Build a knowledge base of IT practices and pragmatic problem solving in the handbook.
+
 - Account management for password resets and lockout.
+
 - On call support for immediate software and hardware issues during local business hours.
+
 - Diagnose computer errors and provide technical support.
+
 - Troubleshoot software and hardware.
+
 - Support Weekly IT Onboarding Sessions for new Team Members.
+
 - Train end-users how to setup and use new technologies. Provide technical support over the phone or Web.
+
 - Use specialized help desk support software to take control of end-users' computers to troubleshoot, diagnose, and resolve complex issues.
 
 #### IT Ops
 
 - IT Ops will work with Security, the People Group, and Business Technology to develop automated on-boarding and off-boarding processes.
+
 - We will develop secure integrations between Enterprise Business Systems and with our Data Warehouse.
+
 - We will develop tooling and process to facilitate end-user asset management, provisioning and tracking.
+
 - We will work to build API Integrations from the HRIS to third party systems and GitLab.com.
+
 - We triage IT related questions as they arise.
+
 - We build and maintain cross-functional relationships with internal teams to champion initiatives.
+
 - We will spearhead on-boarding and off-boarding automation efforts with a variety of custom API integrations, including GitLab.com and third-party resources, not limited to our tech-stack, with scalability in mind.
-
-
 
 #### GitLab IT Team
 
 - Senior Director, IT Operations - [Robert Rea](https://about.gitlab.com/company/team/#rrea1), rrea@gitlab.com, @rrea1
+
 - Manager of IT - [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis), pkaldis@gitlab.com, @pkaldis
+
 - Senior, IT Analyst Americas - [Marc Di Sabatino](https://about.gitlab.com/company/team/#marc_disabatino), mdisabatino@gitlab.com, @marc_disabatino
+
 - IT Analyst Americas - [Jenny Wong](https://about.gitlab.com/company/team/#jwong6), jwong@gitlab.com, @jwong6
+
 - IT Analyst EMEA - [Paulius Laurinavicius](https://about.gitlab.com/company/team/#plaurinavicius), plaurinavicius@gitlab.com, @plaurinavicius
+
 - IT Analyst EMEA - [Ian Forde](https://about.gitlab.com/company/team/#iforde), iforde@gitlab.com, @iforde
+
 - IT Analyst APAC -  [Steve Ladgrove](https://about.gitlab.com/company/team/#sladgrove), sladgrove@gitlab.com, @sladgrove
+
 - System Administrator - [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy), malkobaisy@gitlab.com, @malkobaisy
+
 - IT Systems Engineer -  [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), dwheeler@gitlab.com, @dillonwheeler
+
 - Senior IT Systems Engineer -  [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin), jmartin@gitlab.com, @jeffersonmartin
+
 - Senior IT Systems Engineer - [Marcus Whitaker](https://about.gitlab.com/company/team/#mwhitaker), mwhitaker@gitlab.com, @mwhitaker
