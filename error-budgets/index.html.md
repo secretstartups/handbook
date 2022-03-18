@@ -214,6 +214,12 @@ Assign the MR for approval to:
 1. Director of Infrastructure or up
     * They are responsible for ensuring that GitLab.com will not be negatively impacted, and will need to communicate the exception up and down the chain of reporting.
 
+### Error Budget Improvements
+
+Work relating to error budget improvements should be detailed in an issue.
+Please label these issues with `Error Budget
+Improvement` and the `group::` label so they can be tracked in reports.
+
 ### Error Budget DRIs
 
 | Role | K/PI | Target | Current Tracking Status |
