@@ -56,7 +56,7 @@ Below, you'll find the CDF framework and potential discussion topics for [Produc
 | **Typical Experience** | Two to four years of relevant experience or equivalent combination of experience and education. | Four to six years of relevant experience or equivalent combination of experience and education. | Eight to ten years of experience with at least one year of people management responsibility. | 
 
 ##### CDF Topics For Product Managers
-Responsibilities outlined in the [Product Manager Job Family page](https://about.gitlab.com/job-families/product/product-manager/#role). Note - some of these skills are regularly practiced and demonstrated, while others are demonstrated on an as-needed basis. Despite this fact, PMs should strive to grow across all of these skills.
+Responsibilities outlined in the [Product Manager Job Family page](https://about.gitlab.com/job-families/product/product-manager/#role). Note - some of these skills are regularly practiced and demonstrated, while others are demonstrated on an as-needed basis ([video explanation](https://www.youtube.com/watch?v=RjWjl4qiCrg)). Despite this fact, PMs should strive to grow across all of these skills.
 
 **Validation Track Skills**
 * Partnership with design (C, R)
