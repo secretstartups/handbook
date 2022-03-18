@@ -109,12 +109,22 @@ All are outlined under [Continuing Education (CEU)](https://www.linkedin.com/lea
 
 ## How to access LinkedIn Learning
 
-Please follow this process for requesting access to a license for paid LinkedIn Learning content: 
+Please follow this process for gaining access to a license for paid LinkedIn Learning content: 
+
+1. Go to https://gitlab.okta.com and open `LinkedIn Learning` 
+1. You will be asked to login to your LinkedIn account and to give Okta access to your LinkedIn account
+1. You will receive an email notification from LinkedIn Learning once you have been added to the system. 
+1. To access LinkedIn Learning content, go to https://www.linkedin.com/learning alternatively, go to our learning platform, [GitLab Learn](https://gitlab.edcast.com/) and search for skills or topics you want to learn more about. When you select a LinkedIn Learning course it will open a new tab with the course directly on LinkedIn Learning. 
+
+#### What to do if you receive an error message when trying to redeem a LinkedIn Learning license via Okta
+
+If clicking the above link results when trying to access LinkedIn Learning for the first time results in an error message, this may be because we have reached our limit of available licenses.
+
+In this instance, please:
 
 1. Ensure your GitLab email address is on your LinkedIn Profile  
 1. Fill out an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request)
-1. You will receive an email notification from LinkedIn Learning once you have been added to the system. 
-1. To access LinkedIn Learning content, go to our learning platform, [GitLab Learn](https://gitlab.edcast.com/) and search for skills or topics you want to learn more about. When you select a LinkedIn Learning course it will open a new tab with the course directly on LinkedIn Learning. 
+1. You will receive an email invite when a license next becomes available. Generally a couple of licenses are freed up each week.
 
 ## Searching for LinkedIn Learning Courses
 
