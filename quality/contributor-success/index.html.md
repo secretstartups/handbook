@@ -88,6 +88,49 @@ on how we will measure and track this goal.
         - Partner with Community relations team (David P)
         - Maintain a list of known contributors with a mapping to their accounts and the accounts ARR contribution as input to this KPI
 
+### FY23 Direction
+
+In FY23 we will be focused on growing the number of unique new monthly
+contributors, reducing OCMA and increasing MRARR. This will increase development
+velocity without requiring additional engineering resources. Paralell to this
+we'll increase observability of community contributed value through improving
+the business intelligence around it. This will allow us to create some
+predictability through foreshadowing. These efforts are cross-functional and
+require working together with Marketing and Product Development.
+
+This accounts for 70 - 80% of the workload. The remaining 20 - 30% is ad-hoc
+work. The ad-hoc work is eclectic and ranges from supporting customers on
+contributions, supporting various open source initiatives and supporting the
+Engineering Productivity team.
+
+#### Unique New Monthly Contributors
+
+1. Minimize reliance on human interaction
+1. Reduce volatility through introducing automations that drive contributions
+   forward automatically
+1. Capitalize on untapped potential - MRs that are active but not merged at the
+   end of every single MR
+1. Invest into attracting more new contributors
+
+#### Community Contributed Value Observability
+
+1. Introduce measurement points in various places in the contribution pipeline
+1. Collect objective and subjective feedback from contributors about the process
+1. Create insight into actual community contribution pipeline size
+1. Standardize contribution MRARR valuation
+1. Categorize contribution and measure value per type
+
+#### Community Metrics Foreshadowing
+
+1. Predict community metric trends
+1. Empower teams to react to negative trends before they actualize
+1. Define ambitious targets for FY24
+
+#### OCMA
+
+1. Minimze reliance on human factors that contribute to a large standard deviation
+1. Support Engineering Productivity in driving OCMA down
+
 ## Team Responsibilities
 
 * Carry out Engineering open source outreach efforts.
@@ -123,9 +166,6 @@ This team has the following immediate work items planned.
 
 * [Contribution Efficiency Improvements Epic](https://gitlab.com/groups/gitlab-com/-/epics/1619)
 * [Increasing MRARR through internal partnerships](https://gitlab.com/groups/gitlab-com/-/epics/1225)
-
-## Active Quarter OKRs
-
 
 ## Team Structure
 
