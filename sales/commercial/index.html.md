@@ -369,7 +369,7 @@ GitLab.com Trials & Subscription Management
 1. <span class="colour" style="color:rgb(0, 0, 0)">Last day of the month it will close in **only if you have a compelling event defined**</span>
 1. <span class="colour" style="color:rgb(0, 0, 0)">The actual day the opportunity will close when the quote goes out for signature. It will appear past due if we don’t get the signature back and pushes to the Friday of the week it should close.  Renewals default to this convention</span>
 1. <span class="colour" style="color:rgb(0, 0, 0)">First day of the following month, no compelling event defined </span>
-    1. <span class="colour" style="color:rgb(0, 0, 0)">This is to straddle the first two and we have a plan to get a compelling event, then move to the last day of the month of actual closing</span>
+    1. <span class="colour" style="color:rgb(0, 0, 0)">Placing the close date on the first day of the month is a temporary status of **up to 48 hours** during which time the AE would work directly with their Champion / Economic Buyer to confirm the compelling event and client timeline.  Once determined, the AE would move the close date to the last day of the month of actual closing.    </span>
     1. <span class="colour" style="color:rgb(0, 0, 0)">This close date carries a window of roughly 60 days of when you think it will come in</span>
 
 **Example**: It's April 23rd, a new business Mid-Market opportunity is identified for a company at 410 employees and growing at an unknown rate (unclear due to being an agency). The company completed their evaluation with a trial ending this month, there are defined problems initially trying to solve, with some people who have used GitLab before.
