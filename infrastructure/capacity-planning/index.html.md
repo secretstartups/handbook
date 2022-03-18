@@ -11,7 +11,14 @@ title: "Capacity Planning for GitLab.com"
 
 ## Introduction
 
-GitLab.com's capacity planning is based on a forecasting model. At present, we use Facebook's Prophet library for forecasting. The model is used to generate a report, which is published weekly to [https://gitlab-com.gitlab.io/gl-infra/tamland](https://gitlab-com.gitlab.io/gl-infra/tamland).
+GitLab.com's capacity planning is based on a forecasting model which is populated with the same saturation and utilization data
+that is used for short-term monitoring of GitLab.com. 
+
+The forecasting tool generates warnings which are converted to issues and these issues are raised in various status meetings. 
+
+## Tools
+
+At present, we use Facebook's Prophet library for forecasting. The model is used to generate a report, which is published weekly to [https://gitlab-com.gitlab.io/gl-infra/tamland](https://gitlab-com.gitlab.io/gl-infra/tamland).
 
 GitLab's Capacity Planning strategy is based on the following technologies:
 
@@ -29,12 +36,6 @@ GitLab's Capacity Planning strategy is based on the following technologies:
 1. **[GitLab Capacity Planning Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues)** - GitLab project used for tracking capacity planning forecast warnings. Alerts use the GitLab AlertManager integration.
 1. **GitLab Slack Integration** - Slack notifications of new alerts in Tamland, to the [#infra_capacity-planning](https://gitlab.slack.com/archives/C01AHAD2H8W) channel.
 
-### Workflow
-
-We run the forecast on a regular basis. The forecasts are then reviewed in the weekly [Engineering Allocation meeting](/handbook/engineering/engineering-allocation) and any required corrective actions are prioritized according to the timeframes for saturation predicted by the forecast, and the criticality of the resources.
-
-### The Forecasting Process
-
 ### Source Data
 
 The forecasting model uses the same saturation and utilization data model that we use
@@ -47,9 +48,7 @@ The short-term saturation metric model used on GitLab.com models each resource a
 
 The thresholds are decided on a case-by-case basis and vary between resources. Some are near 100% while others are much lower, depending on the nature of the resource, the failure modes on saturation of the resource and the required time-to-mediation. Resources are classed as being either horizontally scalable or not. Horizontally scalable resources are generally considered lower priorities from a capacity planning point-of-view, whereas non-horizontally scalable resources (such as CPU on the primary Postgres instance, for example) require much longer-term strategies for remediation and are therefore considered higher priorities in the capacity planning process.
 
-### Forecasting
-
-The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This job will run on a schedule defined [in the scheduled pipeline](https://ops.gitlab.net/gitlab-com/gl-infra/tamland/-/pipeline_schedules) (at the time of writing, set to weekly). The process starts by reading the historical short-term saturation metric data from Thanos, up to 1-year period, using an hourly resolution.
+### Forecasting with Tamland
 
 Tamland relies on Facebook Prophet for generating a forecasting model. Prophet performs analysis of hourly, daily, weekly and monthly trends to forecast a future trend in the data.
 
@@ -57,14 +56,35 @@ Even the most skilled engineer would struggle to predict future saturation, so i
 
 Tamland will attempt to predict a range of outcomes. For saturation, we focus on the median prediction (50th percentile) and only the upper 80th percentile prediction. The lower 80th percentile is not as important for saturation purposes.
 
-### Evaluation, Triage, Notification
+The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This job will run on a schedule defined [in the scheduled pipeline](https://ops.gitlab.net/gitlab-com/gl-infra/tamland/-/pipeline_schedules) (set to weekly). The process starts by reading the historical short-term saturation metric data from Thanos, up to 1-year period, using an hourly resolution.
 
-When Tamland predicts that a resource will exceed its alerting threshold ([as defined in the metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)) within the next 60 days, an alert will be generated. This alert is forwarded to GitLab alerting and a Slack message is generated in [#infra_capacity-planning](https://gitlab.slack.com/archives/C01AHAD2H8W).
+## Workflow
 
-Tamland's forecasts are reviewed by an engineer. Not all forecasts are always accurate: a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for example a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate. If so, a new incident issue is opened in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker.
+### Reviewing Tamland Data
 
-These reviews take place when new alerts arrive, or, at a minimum, prior to the [Engineering Allocation](/handbook/engineering/engineering-allocation), which has a standing item for capacity planning, based on the outcome of the Tamland report.
+1. The Tamland report is generated.
+   1. In the past, the report was generated on Thursdays to co-incide with an Infrastructure status meeting. The manual processes described below were completed in time for that meeting. 
+1. If Tamland predicts that a resource will exceed its alerting threshold ([as defined in the metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)) within the next 60 days, an alert will be generated. This alert is forwarded to GitLab alerting and a Slack message is generated in [#infra_capacity-planning](https://gitlab.slack.com/archives/C01AHAD2H8W).
+1. An engineer reviews the report looking for upward trends or unexpected trends in the data. 
+   1. Not all forecasts are always accurate: a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for example a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate.
+1. If the engineer observes an unexplained trend and there is no existing issue for this problem, they will raise a new incident issue in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker. 
+   1. Some known issues are held in other trackers. These issues can be found with the `GitLab.com Resource Saturation` label. 
 
-Every week, the outstanding issues are reviewed and triaged, and appropriate measures are taken to address the potential saturation, including infradev issues, rapid actions or engineering allocation projects. When the resource is considered to no longer be a saturation threat, the issue should be closed.
+### Relaying Capacity Incidents to Engineering
+
+The forecasts are reviewed in the weekly [Engineering Allocation meeting](/handbook/engineering/engineering-allocation) and any required corrective actions are prioritized according to the timeframes for saturation predicted by the forecast, and the criticality of the resources.
+
+Practically, this is done by:
+1. From the previous week's agenda, review all new and carry-on items listed. 
+   1. For each item, confirm the latest status with the DRI and update the agenda to match.
+   1. If there is not movement on an issue, confirm the urgency of the problem and raise awareness in the meeting. Another approach is to ask the DRI for when the next update will be available.
+1. In the current week's agenda, add all newly created issues with the purpose of raising awareness and finding a DRI. 
+
+Actions described above can also take place asynchronously at any time - we should not wait for the Engineering Allocation meeting to update issue status or find
+DRIs for issues. 
+
+
+
+
 
 

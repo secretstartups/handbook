@@ -2,7 +2,6 @@
 layout: handbook-page-toc
 title: "Reliability Engineering"
 ---
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -15,16 +14,26 @@ If you are a GitLab team member and are looking to alert Reliability Engineering
 If you are a GitLab team member looking for assistance from Reliability Engineering, please see the [Getting Assistance](#getting-assistance) section.
 {: .alert .alert-info}
 
-
 ## Who We Are
 
 Reliability Engineering is responsible for all of GitLab's user-facing services, with their primary responsibility being GitLab.com. Site Reliability Engineers (SREs) ensure the availability of these services, building the tools and automation to monitor and enable this availability. These user-facing services include a multitude of environments, including staging, GitLab.com, and dev.GitLab.org, among others (see the [list of environments](/handbook/engineering/infrastructure/environments/)).
-
 
 ## Vision
 
 **Reliability Engineering** ensures that GitLab's customers can rely on GitLab.com for their mission-critical workloads. We approach availability as an engineering challenge and empower our counterparts in Development to make the best possible infrastructure decisions. We own and iterate often on [how we manage incidents](/handbook/engineering/infrastructure/incident-management/) and continually derive and share our learnings by conducting [thorough reviews of those incidents](/handbook/engineering/infrastructure/incident-review/).
 
+## Getting Assistance
+
+If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+{: .alert .alert-danger}
+
+If you'd like our assistance, please use one of the issue generation templates below and the work will be routed appropriately:
+
+* [Open a General Request Issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=default) - follow this link to create a general issue for the Reliability Team.
+* [Open a Customer Questions and Sales Enablement Issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=request-sales-enablement) - follow this link to seek assistance in answering questions for prospects or current customers.
+* [Open a request for Reliability to join customer call](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=sre_join_customer_call_request).
+
+We can also be reached in Slack in the [#production](https://gitlab.slack.com/archives/C101F3796) channel for questions related to GitLab.com and in the [#infrastructure-lounge](https://gitlab.slack.com/archives/CB3LSMEJV) channel for all other questions.
 
 ## Tenets
 1. [**Change Management**](/handbook/engineering/infrastructure/change-management/), [**Incident Management**](/handbook/engineering/infrastructure/incident-management/), [**Incident Review**](/handbook/engineering/infrastructure/incident-review/) and [**Delta Management**](/handbook/engineering/infrastructure/library/production/deltas/) are owned by Reliability Engineering.
@@ -33,40 +42,6 @@ Reliability Engineering is responsible for all of GitLab's user-facing services,
 1. Career development paths are clear.
 1. The team maintains a database of SRE knowledge through documentation, training sessions, and outreach.
 1. We leverage the GitLab product where we can in our toolchain.
-
-
-## Team
-
-The Reliability Engineering team is composed of [DBRE](/job-families/engineering/infrastructure/database-reliability-engineer/)s and [SRE](/job-families/engineering/infrastructure/site-reliability-engineer/)s. As the role titles indicate, they have different areas of specialty but shared ownership of GitLab.com's availability.
-
-#### Team members
-
-| Person | Role |
-| ------ | ------ |
-|[David Smith](/company/team/#dawsmith) | [Engineering Manager, Reliability](/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability) |
-|[Alex Hanselka](/company/team/#ahanselka) | [Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
-|[Devin Sylva](/company/team/#devin) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
-|[Cindy Pallares](/company/team/#cindy) |[ Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
-|[Craig Barrett](/company/team/#craig) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
-|[Cameron S McFarland](/company/team/#cmcfarland) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
-|[Hendrik Meyer](/company/team/#T4cC0re) | [Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
-|[Marcel Chacon](/company/team/#mchacon3) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
-|[Anna Liisa Moter](/company/team/#amoter) | [Engineering Manager (Interim), Reliability](/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability) |
-|[Pierre Guinoiseau](/company/team/#pguinoiseau) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
-|[Filipe Santos](/company/team/#fsantos) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
-|[Alejandro Rodríguez](/company/team/#eReGeBe)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|[Ahmad Sherif](/company/team/#ahmadsherif)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|[Jose Cores Finotto](/company/team/#jose-finotto)|[Staff Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/)|
-|[Nels Nelson](/company/team/#nnelson)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|[Kennedy Wanyangu](/company/team/#kwanyangu)|[Engineering Manager, Reliability](/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability)|
-|[Michal Wasilewski](/company/team/#mwasilewski-gitlab)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|[Natan Hoppe](/company/team/#nhoppe1)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|[Rehab Hassanein](/company/team/#rehab)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|[Anthony Maina](/company/team/#anganga)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|[Steve Azzopardi](/company/team/#steveazz)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|[Alexander Sosna](/company/team/#alexander-sosna)|[Senior Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/)|
-|[Anthony Fappiano](/company/team/#anthony-fappiano) | [Engineering Manager, Reliability](/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability) |
-
 
 ## How We Work
 
@@ -77,139 +52,34 @@ As Reliability, we have three main work streams and each varies in the type of w
 1. [EOC Queue](#how-we-work--eoc-queue) - This is a quarterly milestone consisting of corrective actions and EOC tooling maintenance.
 1. [Customer Request Queue](#how-we-work--customer-request-queue) - This is a quarterly milestone of all small-scale asks which originate from teams outside of Reliability and which are not tied a Project of corrective action. Examples here include adding DNS entries, provisioning/de-provisioning system access, and assisting Support.
 
-### Project Squads - [Squad List](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509)
-Projects are assigned and handled within squads. A squad is composed of a minimum of 2 SREs who are responsible for all the sub-epics and issues within a project.
-Reliability engineering managers are responsible for the formation of squads and the assignment of projects to the respective squads.
+### How We Work -- General Workflow
 
-The squad works in a collaborative, transparent approach and uses the strengths of respective SRE to deliver the project in the highest quality within the least amount of time.
-Responsibilities of squads:
-1. Scope with timelines and deliver on the issues within the assigned epic
-1. Assign individual issues within an epic to individual squad members
-1. Hold weekly recorded demos, where possible as per the project needs
-1. Have a balance of experience and subject matter skills
-1. Participate as Infrastructure stable counterparts to other Engineering stage groups
-1. Each squad has a lead who keeps the status of the project updated as frequently as necessary, minimum weekly
+1. Customers open new issues in [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues)
+2. New issues go through a [management and prioritization process](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html)
+3. Issues are classified as either general or project work and added to the [backlog](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3963308)
 
-#### Roles
+#### For Project Squad Related Issues
+Find the correct label based on the squad name in [Epic 509](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509).
 
-Squad Lead - See below for more information about this role.
-Engineering Manager -  Facilitate communication (upfront context) and strong alignment between squads
+The label format is: `ReliabilitySquad::[squadname]`
 
-Project epics use the following [template](#project-epic-template) in order to capture, current status, DRI, an overview, and any references that help a reader to build context.
+1. Add the proper Squad Label
+2. Add the `For Scheduling` Label.  This indicates that the issue needs to be reviewed by the lead of the assigned squad.
+3. Add the `workflow-infra::Ready` label
 
-Project epics also are labeled with the `team::Reliability` label and either `workflow-infra::Proposal` for projects proposed and not yet begun or `workflow-infra::In Progress` for projects which are underway.
+#### For General Issues not related to Project Squads
+1. Add the `reliability-general` label
+2. Add the `workflow-infra::Ready` label
 
-Project epic descriptions have this structure:
-1. Status - Current status of the project preceded by the ISO formatted date (YYYY-MM-DD) of the latest status update. Example: "2021-07-20 - DRI selected and initial project sync meeting held."
-1. DRI - Directly responsible individual working on the specific issue. This is the GitLab handle of the DRI, `@GitLabHandle`
-1. Overview - Narrative description of the project intended to provide additional context. This is a few paragraphs setting context for someone new to the project and wanting to learn more and contribute.
-1. Reference - Links out to existing artifacts which allow team members to build context. These are links to documents and any dependent projects or prior art.
+### How We Work -- Sources of work
 
-#### Squad Lead
+1. Issues generated by customers (teams outside Infrastructure) via one of the paths documented in the [Getting Assistance](#getting-assistance) section. These issues are automatically added to the triage backlog and are processed by Reliability managers.
+1. Issues generated as [`Corrective Actions`](/handbook/engineering/infrastructure/incident-management/#sts=Corrective%20Actions) for incidents.
+1. Issues generated as miscellaneous small tasks found in the day-to-day of an SRE/DBRE/EM
+1. Issues generated as part of Project Work.
 
-The Squad Lead role is one of collaboration and some project management, as well as offering technical guidance to the squad's project(s). It is a technical leadership role, and does not imply an expectation of moving into people management.
-
-The benefits of taking on a Squad Lead role include the development of project management skills, which are useful to have as an IC no matter one's desired career path. It is also an opportunity to demonstrate many of GitLab values (Collaboration, Iteration, Efficiency, Transparency and Results), which can support career growth.
-
-The following guidelines are what we have found lead to effective squads and are offered as a roadmap for Squad Leads taking on the role.
-
-##### Guidelines
-1. Coordinate with squad members for planning and tracking work. Through:
-    1. Facilitating weekly sync meetings (when possible). Recommended to record. [Example agenda](https://docs.google.com/document/d/14IL8k-3mz8064_J4Ilm_6gNFMgQPKm7OJcgrv84wtJE/edit?usp=sharing)
-    1. Async communication using a dedicated slack channel, issues and epics.
-    1. Using a dedicated GitLab issue board for tracking issues.
-    1. Using milestones to track work in set intervals.
-    1. New issue creation and backlog refinement as needed to ensure that new work is available to be picked up.
-1. Together with the squad, develop and document workflows.
-    1. Include links to meeting agenda and recordings, milestones, slack channel and squad issue board in the project Epic.
-    1. If applicable, create a section in the handbook to describe workflows. [Example](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#sts=How%20We%20Work%20–%20Corrective%20Actions%20workflow)
-1. Communicate progress on the project epic with a weekly summary comment.
-    1. This is one of the most important responsibilities as squad leader.
-    1. Consistency is helpful, ie making a progress comment on the same day each week.
-    1. Things to include:
-        1. Work completed since last update.
-        1. Expected work to be completed in the next week.
-        1. Any blockers the squad encountered.
-        1. Any workflow iteration.
-    1. This promotes visibility of progress to stakeholders, as well as provides feedback to the squad for how they are doing.
-1. When applicable, schedule recorded demos at the end of each milestone to show progress.
-    1. Engineering Manager supporting the squad can act as the stakeholder.
-    1. Link to the recordings in the epic.
-1. When difficult technical decisions arise, the Squad Lead is the final arbiter.
-    1. Gather input, decide, document reasoning, and then act.
-
-The Engineering Manager supporting the squad is always available for questions or other ways to help when needed.
-
-While the above are the Squad Lead's responsibility, that does not mean the Squad Lead must be the one to *do* everything. Delegate and involve your squad members!
-
-
-#### Project Epic Template
-
-```markdown
-#### Status
-2021-YY-XX - {+ Current status +}
-
-***
-#### DRI
-{+ GitLab username of the DRI +}
-
-***
-#### Overview
-{+ Overview of the project and its goals +}
-
-***
-#### Reference
-1. {+ enumerated list of any reference links for a reader building context +}
-```
-
-example project epics:
-1. [https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471)
-
-#### Milestone
-
-The [squad lead](#roles) can use
-[milestone](https://docs.gitlab.com/ee/user/project/milestones/#milestones)
-under the [`gitlab-com/gl-infra`
-](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones) to keep track of
-what is going to be achieved in the next block of time.
-
-- **Duration:** It's suggested that the milestone is only for 2 weeks since
-that gives individual contributors  enough time to dive deep into an issue and
-fix it, but it's not long enough that if we have to pivot because of a change
-of priorities it won't disrupt the planning, we don't want to end up in a
-situation where we spend a lot of time planning 1 month and then have it change
-completely a week in because of a large priority change.
-- **Interruption work:** If individual contributors have to work on an issue
-outside of the planned milestone they should add it to the milestone that they
-are working on. This gives a better overview of what kind of interruptions we
-had during that milestone.
-- **Issue boards:** If your squad is using [issue
-boards](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/) you can edit
-the board to be scoped to a specific milestone. Like this, you can keep track
-of the progress on the milestone.
-- **Number of issues doesn't matter:** The higher the number of issues inside
-of the milestone doesn't mean the more productive the squad is.  This is not to
-be used as a metric.
-
-What are the benefits?
-
-- Gives the squad a common goal that everyone is clear on what's being worked
-on in the coming days.
-- Reduce scope, if an issue can't fit in 2 weeks or the milestone duration it's
-clear that it's a big issue and needs to be broken down.
-- Tracking interruptions.
-- Gives a high overview to the engineering manager of what is being worked on.
-- Gives a sense of urgency that something needs to be finished in the allocated
-time, hopefully, this won't lead to burnout but a discussion about our workload
-and a sense that we need to focus on 1 issue at a time.
-- A sense of accomplishment, when the milestone is close and the squad looks
-back at what achieved in that milestone is can give them a great sense of
-accomplishment!
-
-Below are some examples of past milestones that piloted this process:
-
-- [https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/153](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/153)
-- [https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/152](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/152)
+### Projects
+ - See the [Projects Page](/handbook/engineering/infrastructure/team/reliability/projects.html) for details on how projects are managed within the Reliability Team.
 
 ### How We Work -- EOC Queue
 
@@ -224,21 +94,6 @@ We maintain a single queue of active customer requests (asks from other departme
 
 - [Customer Request Queue Milestones](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones?search_title=customer+request+queue&state=&sort=)
 - [Customer Request Queue Board](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/boards/2866210)
-
-
-### How We Work -- Issue Triage
-
-There is also a primary backlog for Reliability board which serves as a singular point of triage for work which has been generated externally to a specific Reliability team. That board is located at [Reliability Team - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688533?milestone_title=No+Milestone&&label_name[]=team%3A%3AReliability).
-
-Issues in the Reliability team work streams come from several sources:
-
-1. Issues generated by customers (teams outside Infrastructure) via one of the paths documented in the [Getting Assistance](#getting-assistance) section. These issues are automatically added to the triage backlog and are processed by Reliability managers.
-1. Issues generated as [`Corrective Actions`](/handbook/engineering/infrastructure/incident-management/#sts=Corrective%20Actions) for incidents.
-1. Issues generated as miscellaneous small tasks found in the day-to-day of an SRE/DBRE/EM
-
-What the above all have in common is that they have two labels associated with them, `workflow-infra::Triage` and `team::Reliability`.
-
-Issues in the [Reliability Team - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688533?milestone_title=No+Milestone&label_name[]=team%3A%3AReliability&group_by=epic) are moved from `workflow-infra::Triage` to the respective milestone or gathered into a project epic and placed in the `workflow-infra::Ready` state.
 
 ### How We Work -- Corrective Actions workflow
 
@@ -283,16 +138,3 @@ The process is as follows:
 1. Assign yourself to the issue and move it to the "in progress" column or add the label "workflow-infra::In Progress".
 1. Reach out to other engineers as needed for more context or pairing. CAs cover a very wide range of infrastructure areas, and you are not expected to know everything. Often it is much more efficient to pair with someone more knowledgable in that domain.
 1. When the work is complete, remember to close the issue or move it to the "Done" column.
-
-## Getting Assistance
-
-If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
-{: .alert .alert-danger}
-
-If you'd like our assistance, please use one of the issue generation templates below and the work will be routed appropriately:
-
-* [Open a General Request Issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-general) - follow this link to create a general issue for Reliability Engineering.
-* [Open a Customer Questions and Sales Enablement Issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-sales-enablement) - follow this link to seek assistance in answering questions for prospects or current customers.
-* [Open a request for Infrastructure to join customer call](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=sre_join_customer_call_request).
-
-We can also be reached in Slack in the [#production](https://gitlab.slack.com/archives/C101F3796) channel for questions related to GitLab.com and in the [#infrastructure-lounge](https://gitlab.slack.com/archives/CB3LSMEJV) channel for all other questions.

@@ -49,14 +49,58 @@ application.
 
 ## Strategy
 
-The Scalability team significantly contributes to [the Infrastructure department direction for FY22](/handbook/engineering/infrastructure/index.html#fy22-direction) in the following ways:
+The Scalability Team aligns with the [Platforms Department direction for FY23](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/#fy23-direction).
 
-1. [Performance](/handbook/engineering/infrastructure/index.html#1-best-of-class-performance)
-  * By the end of Q2FY22: [Define a service maturity model](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/382) (as a means to get better at [predicting scaling bottlenecks](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/296)). Generate at least one project as an outcome of the model.
-1. [Reliability](/handbook/engineering/infrastructure/index.html#3-make-reliability-the-platform-strength)
-  * By the end of FY22: Scalability is recognized as a strategic team that contributes to GitLab.com in a proactive way.
-1. [External contributions](/handbook/engineering/infrastructure/index.html#5-generate-contributions-external-to-the-department)
-  * By the end of Q2FY22: Enable Stage teams to contribute to the Stage Group dashboards. Stage teams must be able to make their own customizations with little input from the Scalability team.
+### 1. Achieve 50% growth year-on-year in engagement surveys results compared to FY22
+
+At the department level, the goal is to ensure that existing team members are happy while at the same time making sure that new new team members are hired and get the support they need.
+
+Initiatives towards this goal:
+- [Effective transition to two Scalability Teams](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1580)
+- [Mature our interviewing capabilities](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/676)
+
+Further ideas:
+- Develop a metric to highlight the success of the teams
+
+### 2. Prepare self-servicing for stage group teams to enable end-to-end development
+
+At the department level, the goal is to help stage groups manage the lifecycle of their features.
+
+Our contribution to this goal is to further enhance and improve Error Budgets. For example:
+- [Alert teams to unusually high bursts of error budget spending](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/614)
+- [Encourage adoption of custom durations for SLO's that are more aligned with an acceptable user experience](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1451)
+- Increase the number of components that are covered in the Error Budget (GraphQL, [Sidekiq](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1313), [Gitaly gRPC](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1450), [Endpoint error rates](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/803), CustomersDot)
+
+We have successfully enabled stage groups to take ownership of their features on GitLab.com. In FY23 we can extend this
+ownership further and see if we can encourage more involvement in both the Delivery and Reliability aspects of their
+feature categories.
+
+We also need to support self-servicing for system components with no clear owner. This may mean closer attention on
+items such as application level rate limiting and object storage.
+
+Other ideas:
+- Readiness of new feature categories for production-level scale
+
+### 3. Increase use and accuracy of Platform team metrics, and feed them into enablement processes
+
+At the department level, the goal is to improve both the metrics we use to guide ourselves, as well as how to use metrics to guide others.
+
+Ideas:
+- Solidify the process surrounding Tamland and it's use in Capacity Planning
+- Consolidate the interaction points between Platforms and the Development Department
+
+### 4. Increase GitLab.com resilience to planned and unplanned growth, while keeping the cost of running the platform in check
+
+At the department level, we want to ensure that we continue to focus on scaling.
+
+We support this by continuing to work on the scaling initiatives that we have, and look for the new challenges we will face
+as we continue to grow.
+
+Ideas:
+- Redis in Kubernetes
+- Sidekiq Zonal Clusters
+- Application-level rate limiting
+- Object storage growth
 
 ## Indicators
 
@@ -180,12 +224,12 @@ and Performance Refinement process](/handbook/engineering/workflow/#process-1) t
 
 We prefer to work asynchronously as far as possible but still use synchronous communication where it makes sense to do so.
 
-To that end, the only regular calls are the demo calls. 
+To that end, the only regular calls are the demo calls.
 
-- Weekly we have at least one demo call. The time of the call differs each week to try to get people from different timezones to join 
-different calls. The purpose of this call is to showcase something that you have been working on during that week. It does not have to be 
-perfect or polished. Items should be added to the [agenda](https://docs.google.com/document/d/13TW4x3ofw0RxifZvZ7eNvrPxFnnXmhzQ8fal3fhYgjg/edit#) 
-ahead of the meeting. If there are no agenda items at that time, the call is cancelled for that week. 
+- Weekly we have at least one demo call. The time of the call differs each week to try to get people from different timezones to join
+different calls. The purpose of this call is to showcase something that you have been working on during that week. It does not have to be
+perfect or polished. Items should be added to the [agenda](https://docs.google.com/document/d/13TW4x3ofw0RxifZvZ7eNvrPxFnnXmhzQ8fal3fhYgjg/edit#)
+ahead of the meeting. If there are no agenda items at that time, the call is cancelled for that week.
 The call should be recorded and added to GitLab Unfiltered. Please use your discretion when choosing the visibility level as some screen shares contain private data. If you upload a private video, please add information in the description for why this visibility was chosen. A [playlist of the recordings](https://www.youtube.com/playlist?list=PL05JrBw4t0Kphnnvtz9CDatQAVGs_q2Cv) is available on GitLab Unfiltered.
 
 Lastly, in order to keep people connected, team members schedule at least one coffee-chat with another team member each
@@ -259,11 +303,11 @@ graph LR
 
 #### Project Ownership
 
-Each project has an owner who is responsible for delivering the project. 
+Each project has an owner who is responsible for delivering the project.
 
 The owner needs to:
 1. Update the status block in the epic description each week.
-1. Work with others to move project issues through the boards. 
+1. Work with others to move project issues through the boards.
 
 #### Project Structure
 
@@ -363,7 +407,7 @@ perform tasks such as automatically labelling issues, asking the author to add l
 We rotate the triage ownership each month, with the current triage owner responsible for picking the next one (a
 reminder is added to their last triage issue).
 
-### When assessing the nature of an issue
+### Triaging issues
 
 When issues arrive on our backlog, we should consider how they align with our vision, mission, and current OKRs.
 
@@ -375,6 +419,31 @@ We need to effectively triage these issues so that they can be handled appropria
 1. If this is not a scaling issue, find the most appropriate owner in either Infrastructure or Development, or any other department.
 
 When handing over an issue to the new owner, provide as much information as you can from your assessment of the issue.
+
+### Engagement with Incidents
+
+The Scalability team members often have specialized knowledge that is helpful in resolving incidents. Some team members are also SREs who are part of the on-call rota. We follow the guidelines below when contributing to incidents.
+
+For an on-call SRE:
+- follow the [ordinary incident management procedures for EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities)
+- at the end of your shift, if there are active incidents or corrective actions in progress, inform the EM who will help you to prioritize the remaining work
+
+For an Incident Manager:
+- follow the [ordinary incident management procedures for IM](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities)
+- handover should occur as normal, but inform the EM if there are active incidents you are still working on
+
+If you are not EOC or an Incident Manager when an incident occurs:
+- For S1 incidents
+   - the priority is to get GitLab.com up and running and getting back to a stable state takes priority over project work
+   - when the system is stable, contribute to determining the root cause and writing up the corrective actions
+   - the IM or Reliability EM will delegate corrective actions
+   - work with the Scalability EM to prioritize any work that arises from an S1
+- For all other incidents
+   - if you are called into an incident, the priority is to enable others to resolve the problem
+   - the expectation is to be hands-off, giving guidance where necessary, and returning to project work as soon as possible
+
+The reason for this position is that our project work prevents future large S1 incidents from occuring.
+If we try to participate in and resolve many incidents, our project work is delayed and the risk of future S1 incidents increases.
 
 ### Engagement with the Infradev Process
 
@@ -403,7 +472,7 @@ Every quarter, we perform a review of all issues on the backlog that are not par
 - if the issue is no longer relevant then it should be closed
 - if it is relevant but we are unlikely to work on it soon it should remain open
 
-The EM creates this issue each quarter. It is not the sole responsibility of the person on Triage Rotation and is shared among all team members. 
+The EM creates this issue each quarter. It is not the sole responsibility of the person on Triage Rotation and is shared among all team members.
 
 ## Choosing something to work on
 
@@ -435,3 +504,4 @@ As the team was taking shape, [the background processing architectural changes](
 The team impact overview is logged in issues:
 
 1. [Year overview for 2020](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/764)
+1. [Year overview for 2021](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1473)

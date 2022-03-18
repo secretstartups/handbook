@@ -11,11 +11,17 @@ title: "SRE Onboarding"
 
 ## Onboarding Template
 
-SRE onboarding is mostly handled by an
-[issue template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_template.md)
-that is assigned to the SRE when they start. This will guide them
-through different areas of the system, starting  off with some simple
+SRE onboarding is mostly handled by two issue templates:
+
+1. [Machine setup](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_machine_setup.md)
+1. [Gather context](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_gather_context.md)
+
+These are assigned to the SRE when they start. This will guide them
+through different areas of the system, starting off with some simple
 tasks and help both the SRE and the SRE manager through various access issues.
+
+There is a third issue template for [oncall onboarding](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/oncall_onboarding.md), 
+which should be completed after the first two and will probably take at least 3 months from the start date to complete.
 
 ## GitLab.com Infrastructure Management
 
@@ -56,7 +62,7 @@ starting-point for new SREs:
 
 ### Releases
 
-Releases candidates are deployed to GitLab.com through auto-deployments that occur weekly. For information about how releases at GitLab.com read about [the releases process](/handbook/engineering/releases/#gitlabcom-releases-1) visit the
+Releases candidates are deployed to GitLab.com through auto-deployments that occur weekly. For information about how releases at GitLab.com read about [the releases process](/handbook/engineering/releases/#gitlabcom-releases) visit the
 [release project documentation](https://gitlab.com/gitlab-org/release/docs/blob/master/README.md).
 documentation.
 
@@ -185,8 +191,8 @@ Every SRE should register for a “Light Agent” account in ZenDesk. Often time
 ## PTO by Roots
 
 We use PTO by Roots to notify and delegate for planned timeoff. When setting up your integrations with Slack,
-be sure to run the `/pto-roots settings` command and add the team's shared Google Calendar
-(ID: `gitlab.com_oji6dki1frc8g8qq9feuu1jtd0@group.calendar.google.com`) as an "Additional Calendar".
+be sure to run the `/pto-roots help` command then click _Go to Home Tab_ then in the drop-down select _Calendar Sync_ then _Add Calendar_ to add the team's shared Google Calendar
+(ID: `gitlab.com_oji6dki1frc8g8qq9feuu1jtd0@group.calendar.google.com`) as an "Additional calendars to include?".
 
 ## Suggested Software Tools
 

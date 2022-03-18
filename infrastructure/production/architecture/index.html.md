@@ -77,7 +77,6 @@ For more information on why we chose to split traffic into multiple zonal cluste
 A single regional cluster is also used for services like Sidekiq and Kas that do not have a high bandwidth requirement and services that are a better fit for a regional deployment.
 
 In keeping with GitLab's value of transparency, all of the Kubernetes cluster configuration for GitLab.com is public, including infrastructure and configuration.
-GitLab.com maintains 4 Kubernetes cluster for production with similarly configured clusters for staging.
 
 The following projects are used to manage the installation:
 * [k8s-workloads/gitlab-com](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com): Contains the GitLab.com configuration for the [GitLab helm chart](https://gitlab.com/gitlab-org/charts/gitlab).
@@ -119,7 +118,7 @@ When an application update is ready, the CI pipeline that deploys to virtual mac
 This pipeline is run on a separate operations environment to ensure that application updates do not depend on the availability of GitLab.com.
 
 GitLab.com does not depend on itself when pulling images utilized in our Kubernetes clusters.
-Instead, we utilize our [dev.gitlab.org](https://dev.gitlab.org) container registry for [CNG imags](https://gitlab.com/gitlab-org/build/CNG/).
+Instead, we utilize our [dev.gitlab.org](https://dev.gitlab.org) container registry for [CNG images](https://gitlab.com/gitlab-org/build/CNG/).
 This is to ensure that during an incident, we will still maintain the ability to pull images and run our applications as necessary.
 For any image that we do not build ourselves, these may be pulled from Docker Hub.
 Conveniently, these images are mirrored on Google's [Container Registry product](https://cloud.google.com/container-registry/docs/pulling-cached-images).

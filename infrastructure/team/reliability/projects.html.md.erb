@@ -1,0 +1,148 @@
+---
+layout: handbook-page-toc
+title: "Reliability Projects"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+# Reliability Projects
+This page provides an overview of how the Reliability Team works on projects.
+
+## Project Squads  - [Squad List](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509)
+Definition: A squad refers to a smaller group of SREs within the Infrastructure Reliability team, who are responsible for all the sub-epics and issues within a project. It is similar to what we refer to as Groups within other GitLab teams.
+Squad membership crosses Infrastructure Reliability teams, but does not extend past the Infrastructure Reliability sub-department.
+Reliability engineering managers are responsible for forming the squads and assigning projects.
+
+The squad works in a collaborative, transparent approach and uses the strengths of respective SRE to deliver the project in the highest quality within the least amount of time.
+Responsibilities of squads:
+1. Scope with timelines and deliver on the issues within the assigned epic
+1. Assign individual issues within an epic to individual squad members
+1. Hold weekly recorded demos, where possible as per the project needs
+1. Have a balance of experience and subject matter skills
+1. Participate as Infrastructure stable counterparts to other Engineering stage groups
+1. Each squad has a lead who keeps the status of the project updated as frequently as necessary, minimum weekly
+
+## Roles
+
+Squad Lead - See below for more information about this role.
+Engineering Manager -  Facilitate communication (upfront context) and strong alignment between squads
+
+Project epics use the following [template](#project-epic-template) in order to capture, current status, DRI, an overview, and any references that help a reader to build context.
+
+Project epics also are labeled with the `team::Reliability` label and either `workflow-infra::Proposal` for projects proposed and not yet begun or `workflow-infra::In Progress` for projects which are underway.
+
+Project epic descriptions have this structure:
+1. Status - Current status of the project preceded by the ISO formatted date (YYYY-MM-DD) of the latest status update. Example: "2021-07-20 - DRI selected and initial project sync meeting held."
+1. DRI - Directly responsible individual working on the specific issue. This is the GitLab handle of the DRI, `@GitLabHandle`
+1. Overview - Narrative description of the project intended to provide additional context. This is a few paragraphs setting context for someone new to the project and wanting to learn more and contribute.
+1. Reference - Links out to existing artifacts which allow team members to build context. These are links to documents and any dependent projects or prior art.
+
+### Squad Lead
+
+The Squad Lead role is one of collaboration and some project management, as well as offering technical guidance to the squad's project(s). It is a technical leadership role, and does not imply an expectation of moving into people management.
+
+The benefits of taking on a Squad Lead role include the development of project management skills, which are useful to have as an IC no matter one's desired career path. It is also an opportunity to demonstrate many of GitLab values (Collaboration, Iteration, Efficiency, Transparency and Results), which can support career growth.
+
+The following guidelines are what we have found lead to effective squads and are offered as a roadmap for Squad Leads taking on the role.
+
+#### Guidelines
+1. Coordinate with squad members for planning and tracking work. Through:
+    1. Facilitating weekly sync meetings (when possible). Recommended to record. [Example agenda](https://docs.google.com/document/d/14IL8k-3mz8064_J4Ilm_6gNFMgQPKm7OJcgrv84wtJE/edit?usp=sharing)
+    1. Async communication using a dedicated slack channel, issues and epics.
+    1. Using a dedicated GitLab issue board for tracking issues.
+    1. Using milestones to track work in set intervals.
+    1. New issue creation and backlog refinement as needed to ensure that new work is available to be picked up.
+1. Together with the squad, develop and document workflows.
+    1. Include links to meeting agenda and recordings, milestones, slack channel and squad issue board in the project Epic.
+    1. If applicable, create a section in the handbook to describe workflows. [Example](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#sts=How%20We%20Work%20–%20Corrective%20Actions%20workflow)
+1. Communicate progress on the project epic with a weekly summary comment.
+    1. This is one of the most important responsibilities as squad leader.
+    1. Consistency is helpful, ie making a progress comment on the same day each week.
+    1. Things to include:
+        1. Work completed since last update.
+        1. Expected work to be completed in the next week.
+        1. Any blockers the squad encountered.
+        1. Any workflow iteration.
+    1. This promotes visibility of progress to stakeholders, as well as provides feedback to the squad for how they are doing.
+1. When applicable, schedule recorded demos at the end of each milestone to show progress.
+    1. Engineering Manager supporting the squad can act as the stakeholder.
+    1. Link to the recordings in the epic.
+1. When difficult technical decisions arise, the Squad Lead is the final arbiter.
+    1. Gather input, decide, document reasoning, and then act.
+
+The Engineering Manager supporting the squad is always available for questions or other ways to help when needed.
+
+While the above are the Squad Lead's responsibility, that does not mean the Squad Lead must be the one to *do* everything. Delegate and involve your squad members!
+
+
+### Project Epic Template
+
+```markdown
+### Status
+2021-YY-XX - {+ Current status +}
+
+***
+### DRI
+{+ GitLab username of the DRI +}
+
+***
+### Overview
+{+ Overview of the project and its goals +}
+
+***
+### Reference
+1. {+ enumerated list of any reference links for a reader building context +}
+```
+
+example project epics:
+1. [https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471)
+
+### Milestone
+
+The [squad lead](#roles) can use
+[milestone](https://docs.gitlab.com/ee/user/project/milestones/#milestones)
+under the [`gitlab-com/gl-infra`
+](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones) to keep track of
+what is going to be achieved in the next block of time.
+
+- **Duration:** It's suggested that the milestone is only for 2 weeks since
+that gives individual contributors  enough time to dive deep into an issue and
+fix it, but it's not long enough that if we have to pivot because of a change
+of priorities it won't disrupt the planning, we don't want to end up in a
+situation where we spend a lot of time planning 1 month and then have it change
+completely a week in because of a large priority change.
+- **Interruption work:** If individual contributors have to work on an issue
+outside of the planned milestone they should add it to the milestone that they
+are working on. This gives a better overview of what kind of interruptions we
+had during that milestone.
+- **Issue boards:** If your squad is using [issue
+boards](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/) you can edit
+the board to be scoped to a specific milestone. Like this, you can keep track
+of the progress on the milestone.
+- **Number of issues doesn't matter:** The higher the number of issues inside
+of the milestone doesn't mean the more productive the squad is.  This is not to
+be used as a metric.
+
+What are the benefits?
+
+- Gives the squad a common goal that everyone is clear on what's being worked
+on in the coming days.
+- Reduce scope, if an issue can't fit in 2 weeks or the milestone duration it's
+clear that it's a big issue and needs to be broken down.
+- Tracking interruptions.
+- Gives a high overview to the engineering manager of what is being worked on.
+- Gives a sense of urgency that something needs to be finished in the allocated
+time, hopefully, this won't lead to burnout but a discussion about our workload
+and a sense that we need to focus on 1 issue at a time.
+- A sense of accomplishment, when the milestone is close and the squad looks
+back at what achieved in that milestone is can give them a great sense of
+accomplishment!
+
+Below are some examples of past milestones that piloted this process:
+
+- [https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/153](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/153)
+- [https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/152](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/152)

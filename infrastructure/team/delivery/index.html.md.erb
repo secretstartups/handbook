@@ -58,21 +58,24 @@ infrastructure changes, to embrace the benefits of CI/CD.
 
 ### Long-term
 
-* Drive necessary changes that will lead to Kuberentes-based infrastructure on GitLab.com
+* Drive necessary changes that will lead to Kuberenetes-based infrastructure on GitLab.com
 * Fully automated releases for self-managed users
 
 ## Strategy
 
-The Delivery team significantly contributes to [the Infrastructure department direction for FY22](/handbook/engineering/infrastructure/index.html#fy22-direction) in the following ways:
+The Delivery team significantly contributes to [the Platforms Infrastructure department direction for FY23](/handbook/engineering/infrastructure/platforms/#fy23-direction) in the following ways:
 
-1. [Performance](/handbook/engineering/infrastructure/index.html#1-best-of-class-performance)
-  * By the end of Q2FY22: [Complete the migration of all stateless services](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/112) to the Kubernetes platform.
-  * By the end of Q4FY22: Define, plan and execute on migration of stateful services to the Kubernetes platform.
-  * By the end of Q2FY22: [Define deployment SLO](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1362), and evaluate its impact on Infrastructure performance indicators.
-1. [Reliability](/handbook/engineering/infrastructure/index.html#3-make-reliability-the-platform-strength)
-  * By the end of Q3FY22: Ensure predictable and reliable rollback of stateless services.
-1. [External contributions](/handbook/engineering/infrastructure/index.html#5-generate-contributions-external-to-the-department)
-  * By the end of Q4FY22: Convert at least four release workloads to GitLab features, thus enabling external contributions to the features.
+1. [Achieve 50% growth year-on-year in engagement surveys results compared to FY22](/handbook/engineering/infrastructure/platforms/#1-achieve-50-growth-year-on-year-in-engagement-surveys-results-compared-to-fy22)
+  * By the end of Q1FY23: Mature and align the Delivery hiring process with the overall Platform process
+  * By the end of Q2FY23: Run regular pulse engagement surveys and complete at least one meaningful action from the results
+2. [Prepare self-servicing for stage group teams to enable end-to-end development](/handbook/engineering/infrastructure/platforms/#2-prepare-self-servicing-for-stage-group-teams-to-enable-end-to-end-development)
+  * By the end of Q1FY23: [Enable automated deployments](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/293) without impacting reliability
+  * By the end of Q1FY23: [Extend rollback capability to all deployments](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/585) 
+3. [Increase use and accuracy of Platform team metrics, and feed them into enablement processes](/handbook/engineering/infrastructure/platforms/#3-increase-use-and-accuracy-of-platform-team-metrics-and-feed-them-into-enablement-processes)
+  * By the end of Q3FY23: Extend the Deployment SLO metric to measure the full deployment pipeline; from package to Production deployment
+4. [Increase GitLab.com resilience to planned and unplanned growth, while keeping the cost of running the platform in check](/handbook/engineering/infrastructure/platforms/#4-increase-gitlabcom-resilience-to-planned-and-unplanned-growth-while-keeping-the-cost-of-running-the-platform-in-check)
+  * By the end of Q3FY23: Enable automated Kubernetes cluster creation
+  * By the end of Q4FY23: [Migrate at least three additional services to the Kubernetes platform](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/112)
 
 ## Top-level Responsibilities
 
@@ -124,6 +127,8 @@ The Delivery team work is tracked through number of epics, issues, and issue boa
 
 Epics and issue boards are complementary to each other, and we always strive to have a 1-1 mapping between a working epic and an issue board.
 Epics describe the work and allows for general discussions, while the issue board is there to describe order of progress in any given epic.
+
+Each project should have a project-label applied to all epics and issues to allow issue boards to show a full project view.  
 
 ### Epics
 
@@ -276,6 +281,7 @@ The team focus then shifted to getting deployment time measured in hours, and mi
 Prior to 2020, the team impact overview was created in Slack, and in the years that followed the overview was logged in issues:
 
 1. [Year overview for 2020](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1446)
+1. [Year overview for 2021](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2171)
 
 [issue tracker]: https://gitlab.com/gitlab-com/gl-infra/delivery
 [team training]: /handbook/engineering/infrastructure/team/delivery/training/

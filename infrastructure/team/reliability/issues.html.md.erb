@@ -1,0 +1,99 @@
+---
+layout: handbook-page-toc
+title: "Reliability Engineering - How We Work: Issue Management and Prioritization Process"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+All requests from work to the Reliability Team come through the [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=default).  The management of this queue is an ongoing maintenance task for Reliability Engineers and Managers.  This page contains an overview of the criteria used in determining how work is triaged and prioritized.
+
+## Issue Priority
+
+Priority for incoming work is based on a matrix measuring the **impact** and **urgency** of an issue.
+
+![priority_matrix](img/priority_matrix.png)
+
+### Impact
+
+Impact is the measure of the effect of an incident, problem, or change on business processes as detailed in the issue.
+
+The table below can be used as a general guide for determining impact:
+
+| Impact | Description |
+| -------- | ----------- |
+| High | -The issue needs to be resolved to mitigate an active S1 or S2 incident <br> -The issue is a roadblock on GitLab.com and blocking customer's business goals and day to day workflow <br> -The damage to the reputation of the business is likely to be high. <br> -Deploys are blocked as a result <br> -The potential financial impact is high|
+| Medium | -The issue is impacting a moderate subset of employees or a small subset of customers <br> -The damage to the reputation of the business is not likely to be high.<br> - The potential financial impact is low but greater than 0 |
+| Low | -The issue is impacting a small subset of employees< <br> -There is no impact on customers <br> -There is no risk to the reputation of the business<li>There is no financial impact|
+
+### Urgency
+
+Urgency is the speed at which an issues should be resolved based on business need or expectation.
+
+The table below can be used as a general guide for determining impact:
+
+| Urgency | Description |
+| -------- | ----------- |
+| High | -The impact increases rapidly over time. <br> -Damage to the reputation of the business will increase over time. <br> -Any roadblock that puts the guaranteed self-managed release date at risk <br> -A minor incident could be prevented from becoming a major incident by acting immediately. <br> -A member of senior leadership has requested urgency|
+| Medium | -The impact increases only slightly over time. <br> -The damage to the reputation of the business will not increase over time. <br> -The customer has requested urgency.|
+| Low | -The impact does not increase at all over time. <br> -The customer indicates that the issue is not urgent.|
+
+### Priority
+
+Once the impact and urgency of an issue has been determined, it is time to assign a priority.
+
+The table below can be used as a general guide for assigning priority:
+
+| Priority | Impact/Urgency | Action |
+| -------- | ---------- | --------- |
+| `~Reliability::P1` | Impact: High <br> Urgency: High | -A resource is assigned as soon as possible.  <br> Issue is handed off between regions until it is resolved or mitigated to the point that priority can be lowered. |
+| `~Reliability::P2` |  Impact: High <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: High   | -Issue is prioritized above P3s and P4s <br> -Issue is worked on but is **not** handed off between regions <br> -If an engineer is changing roles before they are able to resolve the issue, it should be handed over/assigned to another resource. |
+| `~Reliability::P3` | Impact: High <br> Urgency: Low <br> **or** <br> Impact: Low Urgency: High <br> **or** <br> Impact: Medium Urgency: Medium | -Issue is prioritized above P4s only <br> -If an engineer is changing roles before they are able to resolve the issue, the issue should be dropped back into the tracker with a summary of what has been done so far and what the next steps are.|
+| `~Reliability::P4` | Impact: Low <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: Low | -Resources are not assigned until all higher priority work has been completed|
+| `~Reliability::P5` | Impact: Low <br> Urgency: Low | -If an issue is determined to be a P5, there is a question on if the issue should be done at all.  If it turns out something was missed it can be moved to a higher priority.  Otherwise it should be closed with an explanatory note. |
+
+
+## Classifying work
+
+In analyzing incoming work we need to determine if the work belongs to one of the following classifications, by default all incoming work will be put into the `work::general` category until it has been classified.
+
+### General
+
+Any issue that doesn't belong to a larger project and is able to be completed in 5 days should be considered a general issue.  General issues are smaller and are worked on by individuals as opposed to project squads.  General issues are labeled as `work::general`.
+
+### Incident
+
+Incident related work will be labeled as `work::incident`. Investigation work is normally completed by the EOC during or shortly after their shift ends.
+Corrective actions follow the [corrective action process](/handbook/engineering/infrastructure/team/reliability/#how-we-work--corrective-actions-workflow) and will also have the `work::incident` label.
+
+### Project
+
+Any issue that is associated with a larger effort that will take longer than 5 days is considered a project.  Once an issue is determined to be a project vs a general work item, it will need to be prioritized within the already existing backlog of projects.  Project issues are labeled as `work::project`
+
+## Workflow Labels
+
+Issues should always fall in to one of the following states, as defined by the following labels:
+
+1. `workflow-infra::Triage` - Applied to all new Reliability issues automatically.  It indicates that the issue has not yet been reviewed by the team.
+2. `workflow-infra::Ready` - Applied after the issues has been triaged by an SRE or Engineering Manager within the Reliability Team.  Ensure the following questions are answered and labeled before marking an issue as `workflow-infra::Ready`:
+  - Project or General issue?
+    - Either `work::general` for anything that does not require project resources or `work::project` for anything that does.
+  - Priority as defined by the prioritization matrix?
+    - P1, P2, P3, P4, or P5 based on the prioritization matrix.
+3. `workflow-infra::In Progress` - This label should be applied _only_ after the issue has a Reliability Team member as an assignee.  This label is meant to represent only work that is actively in progress and not to indicate that an issue will be worked on in the future.
+4. `workflow-infra::Done` - This label is applied only when the issue has been closed.
+
+## Issue Board
+
+The [issue board for Reliability](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3963308) is reviewed twice a week by Reliability Leadership Team.  If you have an urgent issue that you believe should be prioritized ahead of other work, please reach out to any Engineering Manager on the Reliability Team to discuss.
+
+### General Board Guidelines
+ - Issues should be prioritized by their priority label first
+ - When faced with  multiple issues of the same priority level:
+   - prioritize small issues ahead of large ones.
+   - prioritize older issues over new.
