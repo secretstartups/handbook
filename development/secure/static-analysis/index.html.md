@@ -25,16 +25,14 @@ and [Secret Detection](/direction/secure/static-analysis/secret-detection/) for 
 ## How We Work
 
 The Static Analysis group is largely aligned with GitLab's [Product Development Flow](/handbook/product-development-flow/), however there are some notable differences in
-how we seek to deliver software. The backend engineering team predominantly concerns itself with the delivery of software, which is the portion of the workflow states where
+how we seek to deliver software. The engineering team predominantly concerns itself with the delivery of software, which is the portion of the workflow states where
 we deviate the most. What follows is how we manage the handoff from product management to engineering to deliver software.
 
-Issues worked by this team are backend-centric and can span analyzers, vendored templates, and GitLab's Rails monolith. At times, issues can require support from Secure's
-frontend team if UI changes are required. Issues needing frontend support may [require more notice](/handbook/engineering/development/secure/analyzer-frontend/#How-to-work-with-us), and
-should be called out as early as possible.
+Issues worked by this team can span analyzers, vendored templates, and GitLab's Rails monolith.
 
 ### Issue Boards
 
-- [Static Analysis Delivery Board](https://gitlab.com/groups/gitlab-org/-/boards/1590112?label_name[]=group%3A%3Astatic%20analysis&group_by=epic&label_name[]=backend)
+- [Static Analysis Delivery Board](https://gitlab.com/groups/gitlab-org/-/boards/1590112?label_name[]=group%3A%3Astatic%20analysis&group_by=epic)
   - Primary board for engineers from which engineers can work. It's stripped down to only include the workflow labels we use when delivering software and utilizes epic-level swimlanes.
 - [Static Analysis Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1229162?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Astatic%20analysis)
   - Milestone-centric board primarily used by product management to gauge work in current and upcoming milestones.
@@ -55,6 +53,7 @@ use these labels to filter issues meant for us on our issue boards. They are als
 | ~Category:Secret Detection | Identifies the issue or MR as being part of the Secret Detection feature category. |
 | ~Category:Code Quality | Identifies the issue or MR as being part of the Code Quality feature category. |
 | ~backend | Identifies the issue or MR as being part of GitLab's backend. |
+| ~frontend | Identifies the issue or MR as being part of GitLab's frontend. |
 
 ### It all starts with planning
 
@@ -73,7 +72,7 @@ edge cases which are at odds with the Gregorian calendar. Rather than trying to 
 - Draft planning issue created
   - Single DRI assigned for each prioritized theme.
   - DRI works with Engineering Manager and Staff Engineer to discern the following:
-    - Do you understand hte business capabilities requested?
+    - Do you understand the business capabilities requested?
       - Are they clearly articulated in the issue description?
       - Do you agree with them?
         - If not, what's missing?
@@ -123,7 +122,7 @@ We also utilize Sisense for long-term trend forecasting. While this is not a rec
 
 ### Software delivery in Static Analysis
 
-While we follow GitLab's product development flow, our processes as a backend engineering team most closely resemble kanban. Engineers are empowered to choose issues from the Delivery
+While we follow GitLab's product development flow, our processes as an engineering team most closely resemble kanban. Engineers are empowered to choose issues from the Delivery
 Board in their assigned epic swimlane and pull them through the identified states. In addition to the workflow states identified by the company, we are experimenting with the
 `~workflow::refinement` state. Engineers are expected to use their best judgment as to how issues flow through the board, but the following outcomes are expected at each state.
 
