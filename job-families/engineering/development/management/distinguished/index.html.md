@@ -12,39 +12,11 @@ Unless otherwise specified, all Distinguished Engineer roles at GitLab share the
 <a id="intermediate-requirements"></a>
 
 ## Job Grade
-The Distinguished Engineer role is a [10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Responsibilities
-### General
-
-- Develop architecture and systems that meet the test of time iteratively
-- Provide a point of escalation for teams facing extremely complex technical challenges
-- Attain a measurable impact on the work of teams across the company
-- Achieve a wide sphere of influence
-
-### Technical
-
-- Identify challenges and technical interdependencies and suggest solutions to address them
-- Use quantitative analysis to impact key business decisions
-
-### Communication
-
-- Evangelize successful adoption and use of tooling and technologies
-- Lead conversations to encourage collaboration across teams
-- Present at relevant events (e.g., conferences, user groups, meetups, webinars)
-- Write extensively about technology applicable to GitLab (e.g., blog posts, white papers)
-- Develop and/or consult on internal training programs
-- Embody the GitLab values and demonstrate humility in the way they interact with individuals
-
-### Leadership
-
-- Take central role in decision making for technical, business, and organizational issues
-- Teach, mentor, grow, and advise other domain experts, individual contributors, and teams in the organization
-- Build technology and organizational bridges to key organizational partners
-- Work with key customers in assigned areas to address technical challenges
-- Exemplify GitLab values through code, reviews, communications, and processes (following and setting)
+The Distinguished Engineer is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Requirements
+
 ### General
 
 - 10+ years of experience, at least 4 in a lead position (such as Engineering Manager or Staff Engineer)
@@ -67,10 +39,42 @@ The Distinguished Engineer role is a [10](/handbook/total-rewards/compensation/c
 
 - Experience in leading teams technically
 
+## Responsibilities
+
+#### General
+
+- Develop architecture and systems that meet the test of time iteratively
+- Provide a point of escalation for teams facing extremely complex technical challenges
+- Attain a measurable impact on the work of teams across the company
+- Achieve a wide sphere of influence
+
+#### Technical
+
+- Identify challenges and technical interdependencies and suggest solutions to address them
+- Use quantitative analysis to impact key business decisions
+
+#### Communication
+
+- Evangelize successful adoption and use of tooling and technologies
+- Lead conversations to encourage collaboration across teams
+- Present at relevant events (e.g., conferences, user groups, meetups, webinars)
+- Write extensively about technology applicable to GitLab (e.g., blog posts, white papers)
+- Develop and/or consult on internal training programs
+- Embody the GitLab values and demonstrate humility in the way they interact with individuals
+
+#### Leadership
+
+- Take central role in decision making for technical, business, and organizational issues
+- Teach, mentor, grow, and advise other domain experts, individual contributors, and teams in the organization
+- Build technology and organizational bridges to key organizational partners
+- Work with key customers in assigned areas to address technical challenges
+- Exemplify GitLab values through code, reviews, communications, and processes (following and setting)
+
 ## Specialties
+
 Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is at GitLab here.
 
-### Ops and Enablement
+#### Ops and Enablement
 
 #### Requirements
 
@@ -82,7 +86,7 @@ Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is a
 
 #### Responsibilities
 
-- Provide technical direction for the department by being an expert in the Enablement space
+- Provide technical direction for the department by being an expert in the Ops and Enablement space
 - Deliver POCs to quickly identify direction and gaps in proposed architecture and feature development
 - Collaborates across groups to help them improve their skills (development and security)
 - Collaborates with Product Management to help properly position and advance our product in the market
@@ -113,3 +117,7 @@ Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is a
 * Work with our internal security researchers to define their deliverables and set expectation
 * Participate in technical interviews for the Secure team
 * Assist the Secure team engineers with feature development and technical debt issues
+
+## Career Ladder
+
+For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
