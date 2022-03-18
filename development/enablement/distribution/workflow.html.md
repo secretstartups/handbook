@@ -86,7 +86,7 @@ picked up by EM and PM for scheduling in the regular process.
 * `spike` - Issues which primarily involve research to understand options and the breakdown of future deliverables. [Spikes](/handbook/product/product-processes/#spikes) are often the first issue in a new Epic where the output defines additional issues and order of serial/parallel work.
 * `workflow::In dev` - When an engineer is ready to start on active development, this label should be added. This allows EM and PM to understand which issues are being worked and not just assigned.
 
-In addition to the labels outlined above, see also [workflow labels used during merge request review](merge_requests.html.md#workflow) and [labels used during issue triage](triage.html.md#label-glossary).
+In addition to the labels outlined above, see also [workflow labels used during merge request review](merge_requests.html#workflow) and [labels used during issue triage](triage.html#label-glossary).
 
 Any unassigned issue is available for anyone to work on. You can show your interest in working on a specific task by leaving a comment in the issue.
 To do so, comment must contain the *date* on which you will commence the work. If the comment does not contain the date, or the date has passed, the item is free to be picked up by anyone again.
