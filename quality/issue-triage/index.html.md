@@ -191,7 +191,19 @@ We encourage performance improvements to be broken down. Improve where we can an
 ### UX
 
 #### SUS-impacting
-Some UX-related issues have been identified as impacting our [System Usability Scale (SUS) score](/handbook/engineering/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](/company/strategy/#three-year-strategy). These issues have a [severity](/handbook/engineering/quality/issue-triage/#severity) label applied *without* an accompanying `~"type::bug"` label. We identify them with at least one of the labels listed in the [Total open SUS-impacting issues by severity](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/#total-open-sus-impacting-issues-by-severity) UX KPI.
+Some UX-related issues are identified as impacting our [System Usability Scale (SUS) score](/handbook/engineering/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](/company/strategy/#three-year-strategy). We identify SUS-impacting issues with at least one of the labels listed in the [Total open SUS-impacting issues by severity](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/#total-open-sus-impacting-issues-by-severity) UX KPI. If one of these labels is applied, the tracking label `"~SUS"` will automatically be added. These issues can have a severity label applied *with* or *without* an accompanying `~"type::bug"` label. For issues with `type::bug`, they follow the [severity](/handbook/engineering/quality/issue-triage/#severity) and [SLOs](/handbook/engineering/quality/issue-triage/#severity-slos) for `type::bug` issues. Issues without `type::bug` are without SLO.
+
+##### SUS-Impacting non-`type::bug` Severity 
+
+| `SUS` issue severity without `type::bug` label | Allowed priorities | Recommended delivery |
+|-|-|-|
+| `~severity::1` | `~priority::1` only | within 60 days |
+| `~severity::2` | `~priority::1` or  `~priority::2` | within 120 days |
+| `~severity::3` | `~priority::1`, or `~priority::2`, or `~priority::3 | No SLA set today |
+| `~severity::4` | `~priority::1`, or `~priority::2`, or `~priority::3`, or `~priority::4` | No SLA set today  |
+
+**Note:** The above delivery timeframes only apply for new UX bugs filed after 2022-03-22. All UX bugs file prior to this date need to be reevaluated for the correct delivery timeframe.
+
 
 Additionally, we include UX bugs (identified with *both* the `~UX` `~"type::bug"` labels) in our list of SUS-Impacting issues.
 
