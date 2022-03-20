@@ -198,6 +198,29 @@ schedule in PagerDuty. That can be done by navigating to [Incidents page in Page
 and then creating the new incident while picking **Incident Management - CMOC** as
 **Impacted Service**.
 
+### Incidents requiring direct customer interaction
+
+If, during an S1 or S2 incident, it is determined that it would be beneficial to have a synchronous conversation with one or more customers a new Zoom meeting should be utilized for that conversation. Typically there are two situations which would lead to this action:
+1. An incident which is uniquely impacting a single, or small number, of customers where their insight into how they are using GitLab.com would be valuable to finding a solution.
+1. A large-scale incident, such as a multi-hour full downtime or regional DR event, when it is desired to have synchronous conversation with key customers, typically to provide another form of update or to answer further questions.
+
+Due to the overhead involved and the risk of detracting from impact mitigation efforts, this communication option should be used sparingly and only when a very clear and distinct need is present.
+
+Implementing a direct customer interaction call for an incident is to be initiated by the current Incident Manager by taking these steps:
+1. Identify a second Incident Manager who will be dedicated to the customer call. If not already available in the incident, announce the need in #imoc_general with a message like `/here A second incident manager is required for a customer interaction call for XXX`. 
+1. Page the [Infrastructure Leadership pagerduty rotation](https://gitlab.pagerduty.com/schedules#PBSMJH2) for additional assistance and awareness.
+1. Identify a Technical Account Manager who will act as the primary TAM and also be dedicated to the customer call. If this role is not clear, also refer to Infrastructure Leadership for assistance.
+1. Request that both of these additional roles join the main incident to come up to speed on the incident history and current status. If necessary to preserve focus on mitigation, this information sharing may be done in another Zoom meeting (which could then also be used for the customer conversation)
+
+After learning of the history and current state of the incident the Engineering Communications Lead will initiate and manage the customer interaction through these actions:
+1. Start a new Zoom meeting - unless one is already in progress - invite the primary TAM.
+1. The Engineering Communications Lead and TAM should appropriately set their Zoom name to indicate `GitLab`, as well as their Role, `TAM` `Engineering Communications Lead`
+1. Through the TAM, invite any customers who are required for the discussion.
+1. The Engineering Communications Lead and the Incident Manager need to prioritize async updates that will allow for the correct information to flow between conversations. Consider using the incident slack channel for this but agree before the customer call starts.
+1. Both the Engineering Communications Lead and TAM should remain in the Zoom with the customers for the full time required for the incident. To avoid loss of context, neither should "jump" back and forth from the internal incident Zoom and the customer interaction Zoom.
+
+In some scenarios it may be necessary for most all participants of an incident (including the EOC, other developers, etc.) to work directly with a customer. In this case, the customer interaction Zoom shall be used, NOT the main GitLab Incident Zoom. This will allow for the conversation (as well as text chat) while still supporting the ability for primary responders to quickly resume internal communications in the main Incident Zoom. Since the main incident Zoom may be used for multiple incidents it will also prevent the risk of confidential data leakage and prevent the inefficiency of having to frequently announce that there are customers in the main incident zoom each time the call membership changes.
+
 ## Corrective Actions
 
 Corrective Actions (CAs) are work items that we create as a result of an incident. Only issues arising out of an incident should receive the label "corrective action". They are designed to prevent or reduce the likelihood and/or impact of an incident recurrence and as such are part of the Incidence Management cycle.
