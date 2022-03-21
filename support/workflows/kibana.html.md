@@ -182,7 +182,7 @@ See the [500 errors workflow](500_errors.html) for more information on searching
 
 Not sure what to look for? Consider using a Self-Managed instance to replicate the bug/action you're investigating. This will allow you to confirm whether or not an issue is specific to GitLab.com, while also providing easily accessible logs to reference while searching through Kibana.
 
-Support Engineers looking to configure a Self-Managed instance should review our [resources for development](/handbook/engineering/#resources) for a list of available (company provided) hosting options.
+Support Engineers looking to configure a Self-Managed instance should review our [Sandbox Cloud page](/handbook/infrastructure-standards/realms/sandbox/) for a list of available (company provided) hosting options.
 
 #### Filter by IP Range
 
@@ -219,7 +219,7 @@ Here are some tips for searching for import errors in Kibana:
   - json.severity: (not `INFO`)
   - json.job_status: (not `done`)
   - json.class is `RepositoryImportWorker`
-- Use the pubsub-rails-inf-gprd index pattern (Rails logs) and try to narrow it down by adding filters  
+- Use the pubsub-rails-inf-gprd index pattern (Rails logs) and try to narrow it down by adding filters
   - json.controller: `Projects::ImportsController` with error status
   - json.path: `path/to/project`
 - In Sentry, search/look for: `Projects::ImportService::Error` ; make sure to remove the `is:unresolved` filter.
