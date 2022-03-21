@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Talent brand
 description: "Our ambitions as an employer, the steps we take to achieve and communicate those ambitions, and the measures in place to ensure we live up to them."
-twitter_image: "/images/tweets/gitlab-first-look-twitter-card.png"
+twitter_image: '/images/tweets/all-remote.jpg'
 ---
 
 ## On this page
