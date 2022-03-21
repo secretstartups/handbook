@@ -182,8 +182,9 @@ The Composition Analysis group maintains several projects to provide our scannin
 - [gemnasium-maven analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-maven)
 - [gemnasium-maven-plugin](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-maven-plugin)
 - [gemnasium-gradle-plugin](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-gradle-plugin)
-- [bundler-audit analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/bundler-audit)
-- [Retire.js analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/retire.js)
+- **Deprecated** [bundler-audit analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/bundler-audit)
+- **Deprecated** [Retire.js analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/retire.js)
+- **Internal only** [gitlab-depscan](https://gitlab.com/gitlab-org/security-products/gitlab-depscan)
 
 Additional notes:
 
