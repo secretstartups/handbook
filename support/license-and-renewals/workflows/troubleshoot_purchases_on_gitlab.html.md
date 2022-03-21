@@ -68,6 +68,21 @@ With the volume of users requiring this being low, the issue has not yet been pr
 For now, the first option is to request the user to try another card. 
 You can also [reach out to Sales](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html#specific-workflows-to-pass-to-sales) to offer the user an alternative payment method.
 
+## Insufficient funds
+> Your card has insufficient funds
+
+Make sure that this is the last event associated with the user. Sometimes customers retry after adding funds, so we must check all their events before we are sure that is the cause.
+
+Send a reply asking the customer to check the credit card:
+
+
+> After checking our system we found the following error message associated with your user (`USERNAME_HERE`):
+>
+> Your card has insufficient funds.
+>
+> Can you please make sure that you have enough funds in your credit card?
+
+
 ### Replying with next troubleshooting steps
 
 If you could not find the user's specific error in Sentry, then consider asking for a browser console output. Some purchasing error details are visible in this output.
