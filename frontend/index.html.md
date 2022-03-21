@@ -16,7 +16,7 @@ title: "Frontend Group"
 * [Manage](/handbook/engineering/frontend/manage/)
 * [Monitor](/handbook/engineering/frontend/monitor/)
 * [Plan](/handbook/engineering/development/dev/fe-plan/)
-* [Secure](/handbook/engineering/development/secure/analyzer-frontend/)
+* [Secure](/handbook/engineering/development/secure/)
 * [Verify and Release](/handbook/engineering/frontend/verify-release/)
 
 ### Frontend domain experts
