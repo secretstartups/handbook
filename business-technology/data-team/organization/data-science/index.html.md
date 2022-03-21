@@ -101,7 +101,7 @@ Check out this brief overview of what data science is at Gitlab:
 | Golden Journey | Planned | Identify optimal paths to increasing platform usage and adoption | Growth |  Start in FY23-Q2 | | 
 | Stage Adoption MRI | Planned | - | | Start in FY23-Q2 | | 
 | Product Usage Event | Planned | - | | Start in FY23-Q3 | |
-| Marketing Lead Scoring | Planned | Identify leads most likely to convert to closed won oppertunities | Marketing | Start in FY23-Q4 | |  
+| Marketing Lead Scoring | Planned | Identify leads most likely to convert to closed won opportunities | Marketing | Start in FY23-Q4 | |  
 | Expansion Predicted ARR | Unplanned | Predict expansion ARR dollar amount | Sales | | |  
 | Community Sentiment Analysis | Unplanned | - | Product | | | 
 | Feature $ARR Uplift Prediction | Unplanned | Attribute incremental ARR lift based on feature adoption | Product | | | 
@@ -120,6 +120,8 @@ Maturity of data science projects is similar to the [Gitlab product maturity mod
 
 - [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7): For PtE & PtC
 - [#namespace-segmentation](https://app.slack.com/client/T02592416/C0341FPNB1C): For Namespace Segmentation 
+- [#bt-data-pilot-pte](https://app.slack.com/client/T02592416/C0337817AG2): For PtE pilot 
+- [#bt-data-pilot-ptc](https://app.slack.com/client/T02592416/C033818CSUS): For PtC pilot 
 
 ### Project Structure 
 
