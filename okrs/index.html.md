@@ -75,7 +75,7 @@ While it can feel like double-counting, it is consistent with [Andy Grove's](htt
 
 Just because quarters are a useful timeframe for objectives, does not mean that key results should default to being due on the last day of the quarter. This could lead to unnecessary delays. Consider putting specific target dates into the key result phrase to indicate when it is needed by.
 
-You should decide your scoring methodology ahead of time. You might score an OKR as 0% if it misses it's target date. Or, if it's less time sensitive, you might penalize it 10% for each week it's delayed.
+You should decide your scoring methodology ahead of time. You might score an OKR as 0% if it misses its target date. Or, if it's less time sensitive, you might penalize it 10% for each week it's delayed.
 
 ### How do I prioritize OKRs in the light of other priorities?
 
