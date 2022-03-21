@@ -76,10 +76,10 @@ The Senior Manager, Contributor Success  is a [grade 9](/handbook/total-rewards/
 #### Senior Manager, Contributor Success Responsibilities 
 The Senior Manager, Contributor Success role extends the [Manager, Contributor Success](#manager-contributor-success) role.
 
-* We are not currently hiring for this role & will add more detail responsibilites when the bussiness need arises.
+* We are not currently hiring for this role & will add more detail responsibilites when the business need arises.
 
 #### Senior Manager, Contributor Success Requirements
-* We are not currently hiring for this role & will add more detail requirements when the bussiness need arises.
+* We are not currently hiring for this role & will add more detail requirements when the business need arises.
 
 ### Director, Contributor Success 
 
@@ -112,7 +112,7 @@ The Director, Contributor Success role extends the [Senior Manager, Contributor 
 * Outstanding leadership skills and someone who takes initiative, makes hard decisions, and is accountable.
 * Demonstrated capability to drive initiatives, develop thoughtful strategies, and deliver results at a senior level.
 * Track record leading & working with the open source community at large.
-* Track record of influencing bussiness stakeholders from multiple domains to attain company objective.
+* Track record of influencing business stakeholders from multiple domains to attain company objective.
 * Track record of hiring engineers and managers.
 * Excellent written and verbal communication skills. Able to convey bottom-line message to executives at C & VP level.
 * Bias for action with an ability to work in a fast-paced environment with shifting priorities.

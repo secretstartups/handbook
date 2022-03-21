@@ -80,12 +80,12 @@ The Senior Manager, Engineering Analytics is a [grade 9](/handbook/total-rewards
 #### Senior Manager, Engineering Analytics Responsibilities 
 
 * Extends Manager, Engineering Analytics responsibilities 
-* We are not currently hiring for this role & will add more detail requirements when the bussiness need arises.
+* We are not currently hiring for this role & will add more detail requirements when the business need arises.
 
 #### Senior Manager, Engineering Analytics Requirements
 
 * Extends Manager, Engineering Analytics requirements
-* We are not currently hiring for this role & will add more detail requirements when the bussiness need arises.
+* We are not currently hiring for this role & will add more detail requirements when the business need arises.
 
 ### Director, Engineering Analytics 
 
@@ -117,7 +117,7 @@ The Director, Engineering Analytics is a [grade 10](/handbook/total-rewards/comp
 * Outstanding leadership skills, takes initiative, makes hard decisions & be accountable.
 * Demonstrate capability to drive initiatives, develop thoughtful strategies, & deliver results at a senior level.
 * Track record of delivering analytics capabilities that improves the business bottom-line.
-* Track record of influencing bussiness stakeholders from multiple domains to deliver results.
+* Track record of influencing business stakeholders from multiple domains to deliver results.
 * Track record of hiring data analysts within the Engineering domain.
 * Excellent written & verbal communication skills, able to deliver bottom-line messaging to executives at C-suite & VP level.
 * Bias for action & adaptability to work in a fast-paced environment with shifting priorities.
