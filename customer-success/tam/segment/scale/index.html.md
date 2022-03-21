@@ -12,22 +12,35 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ---
 
-⚠️ This information is under active development and is not yet final. This page will be updated on an ongoing basis during this phase.
+⚠️ This information is under active development and will continue to evolve. This page will be updated on an ongoing basis with our roll-out iterations.
 {: .alert .alert-warning}
 
 ## Overview
 
-Definition: Pooled TAMs driving programmatic enablement and some customer engagement.
+Definition: The Scale TAM team is a new team being established at GitLab in FY23, a key tenant in our customer success strategy to align with our [company strategy around establishing and expanding our customer-centric approach and focus](https://about.gitlab.com/company/strategy/#3-customer-centricity). 
+
+Scale TAMs driving programmatic enablement and targeted customer engagement across the longtail customer base. [For the ARR thresholds for the Scale customer segment please reference this Wiki page](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/Segments)(GitLab Internal)
+
+## Customer lifecycle
+
+The diagram below outlines the customer lifecycle for our Scale Customers:
+
+![Customer Lifecycle Journey Scale TAM](source/images/handbook/customer-success/Customer_Lifecycle_Journey_Scale_TAM.png)
+
 
 ## Motions
 
 ### Align
 
-This cohort is primarily enabled through content and webinars, and the success plan will be driven in year 1 of a customer's lifecycle by the desired value drivers from the command plan, and will be used for strategic engagements in customers outside of onboarding.
+This cohort is enabled primarily through shared content and one-to-many webinars. The primary focus for one-to-one interactions will put all first-year customers on a path for success through removing barriers in the first few months of their onboarding and adoption. Our secondary focus is around engaging with specific at-risk customers throughout the customer journey. 
+
+A key metric we will use to systematically identify at-risk customers will be license utilization. For example, customers who haven't reached 75% license utilization and are past the six-month mark in their license will be triggered to Scale TAMs to engage. 
 
 ### Enable
 
-Onboarding and enablement for this cohort is primarily through webinar cohorts, with a TAM reach-out at day 30 to ensure the customer is on-track for success.  There are additional reach-outs for triggered events such as missed time-to-first-value and poor onboarding NPS scores.
+Onboarding and enablement for this customer segment are primarily through one-to-many webinar sessions. In addition, a personal TAM reach-out occurs on day 14 to ensure the customer is on-track for success. A Scale TAM's goal with any one-to-one customer interaction is to put the customer on a path for success and ensure they know their ongoing resources (support team, blog, learning resources, etc.) 
+
+A Scale TAM's engagement with any one customer will be limited in total customer interactions, most often to two or three. Additional targeted customer reach-outs for triggered events such as missed time-to-first-value poor onboarding NPS scores may occur throughout the customer lifecycle.
 
 #### Metrics for Enable
 
@@ -35,20 +48,29 @@ Onboarding:
 
 1. Net-new customer attendance in onboarding webinars
 1. Time to First Value
-1. % 30 day calls completed
+1. % 14 day calls completed
 1. Onboarding NPS & CSAT scores
+1. License utilization
 
 Use-Case Enablement:
 
 1. Customer attendance in enablement webinars
 1. Use Case Health scores
+1. License utilization percentage 
 
 ### Expand & Renew
 
-Expansion is primarily driven by the SAL or AE in this segment, though a key driver for expansion is product enablement and familiarity.
+Expansion is primarily driven by the SAL or AE in this segment, though a key driver for expansion is product enablement and familiarity. Scale TAMs will be looking for expansion opportunities in their conversations with customers, and will pass along potential opportunities to their sales counterparts to do further discovery and demos. Targeted email campaigns based on expansion potential (LAM) may be sent from Scale TAMs periodically to drive expansion as well. 
 
 #### Metrics for Expand & Renew
 
+1. Net and Gross Retention for the customer segment (Renewal and Expansion rate)
+1. License utilization
 1. Customer attendance in expansion webinars
 1. New Use Cases Adopted
 1. Renewal NPS & CSAT Scores
+1. Number of opportunities passed to sales reps
+
+### Scale TAM Role & Responsibilities 
+
+For an overview of our Scale team-specific responsibilities, please reference our Job Family: [Scale TAM Responsibilities & Requirements](https://about.gitlab.com/job-families/sales/technical-account-manager/#scale)
