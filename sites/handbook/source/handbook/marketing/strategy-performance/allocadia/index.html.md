@@ -201,9 +201,8 @@ A calculation is then done by then taking into account the MQLs, region, segment
 
 [Video walk through](https://youtu.be/bBLiwdpd5iY) (and yes, you know you need to be logged into Unfiltered to see! ;))
 
-##### Strategy Tab
-
-We are discontinuing use of the Strategy tab at this time. We had thought we could use this tab to connect line item to Marketing level quarterly OKRs or Project Compass, but the bigger ask was to connect with GTM Motions and we moved those to the Details Panel in the Activities grid.
+##### Showing low ROI - what now? 
+Beacuse we've loaded historical conversion rates into the impact modeller, a marketer should feel empowered to build a business case justifying why an investment should be made even though the impact modeller is showing a lower ROI. The business case could include specific accounts who you will connect with, LAM (landed addresible market) of account, how the pre/post campaign follow-up will be different than in investments past, nuanced facts about the proposed investment vs. historical program, etc. We want to still test out programs, and at times we may fail, and that's ok! Review your overall plan. Do you have a strong ROI built into a few campaigns that can afford a risk in a program you believe in? 
 
 ## 📊 Insights 
 
