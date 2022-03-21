@@ -16,6 +16,22 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q1-FY23
 
+### 2022-03-21 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/100))
+
+**Deal Desk: [New Quote Approval Requirement for Annually Paid Renewals](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2460)**
+
+**Sales Ops: [PS-Only Opportunities included in FY23 Opp Holdover Policy](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-holdover-criteria)**
+
+**Sales Ops: [Chorus Recordings Mass Deletion after 6 months](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2683#proposed-controls)**
+
+**Sales Ops: [FY23 Territories SSoT](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#heading=h.nlt1sjnkte3n)**
+
+**Sales Ops + SS&A: [Important Fields for FY23 Reporting](https://gitlab.com/gitlab-com/sales-team/field-operations/analytics/-/issues/326)**
+
+**Sales Ops: [Sales Managers Alerted in #wins-key-deals](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2136)**
+
+**Alliance Ops: [Introducing the New GitLab Alliance Partner Program](https://about.gitlab.com/handbook/alliances/)**
+
 ### 2022-03-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/94))
 
 **CS Ops: [Customer License Utilization: Salesforce App](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/)**
