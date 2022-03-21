@@ -163,6 +163,7 @@ link the SAML identity. Use username `gitlab-qa-saml-sso-user1` or `gitlab-qa-sa
 Staging Ref environment has some known limitations that will be worked on:
 
 - Test data configuration will be explored ([epic#7020](https://gitlab.com/groups/gitlab-org/-/epics/7020))
+- Configure Shared Runners ([issue#353284](https://gitlab.com/gitlab-org/gitlab/-/issues/353284))
 - Setup Kibana for Staging Ref([issue#351816](https://gitlab.com/gitlab-org/gitlab/-/issues/351816))
 - Configure CustomersDot portal for Staging Ref ([issue#352594](https://gitlab.com/gitlab-org/gitlab/-/issues/352594))
 - Incoming email setup ([issue#348970](https://gitlab.com/gitlab-org/gitlab/-/issues/348970))
