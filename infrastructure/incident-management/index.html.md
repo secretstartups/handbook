@@ -207,7 +207,7 @@ If, during an S1 or S2 incident, it is determined that it would be beneficial to
 Due to the overhead involved and the risk of detracting from impact mitigation efforts, this communication option should be used sparingly and only when a very clear and distinct need is present.
 
 Implementing a direct customer interaction call for an incident is to be initiated by the current Incident Manager by taking these steps:
-1. Identify a second Incident Manager who will be dedicated to the customer call. If not already available in the incident, announce the need in #imoc_general with a message like `/here A second incident manager is required for a customer interaction call for XXX`. 
+1. Identify a second Incident Manager who will be dedicated to the customer call. If not already available in the incident, announce the need in #imoc_general with a message like `/here A second incident manager is required for a customer interaction call for XXX`.
 1. Page the [Infrastructure Leadership pagerduty rotation](https://gitlab.pagerduty.com/schedules#PBSMJH2) for additional assistance and awareness.
 1. Identify a Technical Account Manager who will act as the primary TAM and also be dedicated to the customer call. If this role is not clear, also refer to Infrastructure Leadership for assistance.
 1. Request that both of these additional roles join the main incident to come up to speed on the incident history and current status. If necessary to preserve focus on mitigation, this information sharing may be done in another Zoom meeting (which could then also be used for the customer conversation)
@@ -446,7 +446,7 @@ In order to help with attribution, we also label each incident with a scoped lab
 | **Label** | **Workflow State** |
 | ----- | -------------- |
 | `~Incident::Active` | Indicates that the incident labeled is active and ongoing. Initial severity is assigned when it is opened. |
-| `~Incident::Mitigated` | Indicates that the incident has been mitigated. A mitigated issue means that immediate post-incident activity is ongoing (monitoring, messaging, etc.) but impact is either significantly reduced or there is potential for the impact to return. |
+| `~Incident::Mitigated` | Indicates that the incident has been mitigated. A mitigated issue means that the impact is significantly reduced and immediate post-incident activity is ongoing (monitoring, messaging, etc.). The mitigated state should not be used for silenced alerts, or alerts that may reoccur. In both cases you should mark the incident as resolved and close it.|
 | `~Incident::Resolved` | Indicates that SRE engagement with the incident has ended and the condition that triggered the alert has been resolved. Incident severity is re-assessed and determined if the initial severity is still correct and if it is not, it is changed to the correct severity. Once an incident is resolved, the issue will be closed. |
 | `~Incident::Review-Completed` | Indicates that an incident review has been completed, this should be added to an incident after the review is completed if it has the `~review-requested` label. |
 
@@ -535,6 +535,17 @@ In the case where we mark an incident as a duplicate, we should issue the follow
 /duplicate <incident issue>
 ```
 
+### Related Issues
+
+There are [related issue links] on the incident template that should be used to create related issues from an incident.
+
+- Support contact request: All requests to the support team engage customers.
+- Corrective action: Creates a new corrective action in the reliability tracker.
+- Investigation followup: Investigation follow-ups for any root cause investigation, analysis or tracking an alert silence that will be done after the incident is resolved
+- Confidential issue: For transparency, we prefer to keep incident issues public. If there is confidential information associated with an issue use this template to create a new issue using the confidential template.
+- QA investigation: To engage the QA team for a failing test, or missing coverage for an issue that was found in any environment.
+- Infradev: For engaging development for any incident related improvement.
+
 ### Workflow Diagram
 
 ``` mermaid
@@ -553,7 +564,8 @@ In the case where we mark an incident as a duplicate, we should issue the follow
 
 ### Alert Silences
 
-If an [alert silence](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/monitoring/alerts_manual.md#silencing) is created for an active incident, the incident should be resolved with the `~"alertmanager-silence"` label and the appropriate root cause label if it is known.  There should also be a linked ~infradev issue for the long term solution.
+If an [alert silence](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/monitoring/alerts_manual.md#silencing) is created for an active incident, the incident should be resolved with the `~"alertmanager-silence"` label and the appropriate root cause label if it is known.
+There should also be a linked ~infradev issue for the long term solution or an investigation issue created using the [related issue links] on the incident template.
 
 ### Incident Board
 
@@ -582,3 +594,5 @@ When a near miss occurs, we should treat it in a similar manner to a normal inci
 1. Open an [incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) issue, if one is not already opened. Label it with the severity label appropriate to the incident it would have caused, had the incident actually occurred. Label the incident issue with the `~Near Miss` label.
 1. [corrective actions](/handbook/engineering/infrastructure/incident-management/#corrective-actions) should be treated in the same way as those for an actual incident.
 1. Ownership of the incident review should be assigned to the team-member who noticed the near-miss, or, when appropriate, the team-member with the most knowledge of how the near-miss came about.
+
+[related issue links]: https://gitlab.com/gitlab-com/gl-infra/production/-/blob/5343440ac4ef41fa5a27053a6938480d229bee3e/.gitlab/issue_templates/incident.md#create-related-issues
