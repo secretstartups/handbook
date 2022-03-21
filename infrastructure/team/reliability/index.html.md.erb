@@ -42,34 +42,15 @@ We can also be reached in Slack in the [#production](https://gitlab.slack.com/ar
 1. Career development paths are clear.
 1. The team maintains a database of SRE knowledge through documentation, training sessions, and outreach.
 1. We leverage the GitLab product where we can in our toolchain.
-
 ## How We Work
 
-We maintain a single source of truth epic for all work underway for the Reliability team. That epic can be found at [GitLab SaaS Reliability - work queue](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509) and represents the current state of project work assigned within squads. That epic references projects detailed in the form of sub-epics.
-
-As Reliability, we have three main work streams and each varies in the type of work. Those three work streams are:
-1. [Projects](#how-we-work--projects) - These are pre-planned units of work, managed via an epic and a single DRI who collaborates with other members of Reliability.
-1. [EOC Queue](#how-we-work--eoc-queue) - This is a quarterly milestone consisting of corrective actions and EOC tooling maintenance.
-1. [Customer Request Queue](#how-we-work--customer-request-queue) - This is a quarterly milestone of all small-scale asks which originate from teams outside of Reliability and which are not tied a Project of corrective action. Examples here include adding DNS entries, provisioning/de-provisioning system access, and assisting Support.
+We maintain a single source of truth [epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509) for the current state of project work assigned within squads. That epic references projects detailed in the form of sub-epics.
 
 ### How We Work -- General Workflow
 
 1. Customers open new issues in [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues)
 2. New issues go through a [management and prioritization process](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html)
 3. Issues are classified as either general or project work and added to the [backlog](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3963308)
-
-#### For Project Squad Related Issues
-Find the correct label based on the squad name in [Epic 509](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509).
-
-The label format is: `ReliabilitySquad::[squadname]`
-
-1. Add the proper Squad Label
-2. Add the `For Scheduling` Label.  This indicates that the issue needs to be reviewed by the lead of the assigned squad.
-3. Add the `workflow-infra::Ready` label
-
-#### For General Issues not related to Project Squads
-1. Add the `reliability-general` label
-2. Add the `workflow-infra::Ready` label
 
 ### How We Work -- Sources of work
 
