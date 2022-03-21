@@ -130,7 +130,7 @@ Also to be considered:
 1. Product Roadmap (focus on 1-2 specific categories important to them and loop in the Product team accordingly)
 1. Year in Review (more usage focused, see below)
 1. Support Review (how many tickets at what priority, SLAs, etc.)
-1. Delivered Enhancements (highlight released feature requests that were important to them, velocity of releasing feature requests, etc.)
+1. [Delivered Enhancements](/handbook/customer-success/tam/issue-prioritization/#executive-business-reviews) (highlight released feature requests that were important to them, velocity of releasing feature requests, etc.)
 
 [Usage ping](https://docs.gitlab.com/ee/development/usage_ping/) can provide data to build the usage and growth story. If usage ping is not enabled, a [payload](https://docs.gitlab.com/ee/development/usage_ping/#usage-ping-payload) may be periodically requested from the customer. Extracting the payload is a simple process and only takes about 30 seconds. Some examples included in this data are historical and current user count, and CI build history. Please note usage ping only goes back 6 months, so it's worthwhile to keep old data for comparison in future EBRs.
 

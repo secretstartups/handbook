@@ -63,6 +63,7 @@ Items for SaaS Customers Only
 - Discussion topics, such as:
   - Intros & housekeeping (new team members, exciting news, etc.)
   - Follow-ups on previously discussed items
+  - Updates on [customer requested features](/handbook/customer-success/tam/issue-prioritization/#cadence-calls)
   - [Strategic and business outcomes](/handbook/customer-success/tam/success-plans/questions-techniques/)
   - Pain points and blockers
   - Updates on long-term initiatives
