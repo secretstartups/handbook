@@ -769,7 +769,7 @@ Add as many time zone world clock as you wish by going to Settings -> World Cloc
 
 ### Google Cloud Platform
 
-See the [Engineering handbook](/handbook/engineering/#resources) for a listing of cloud resources and how to gain access to them.
+See the [Sandbox Cloud page](/handbook/infrastructure-standards/realms/sandbox/) for a listing of cloud resources and how to gain access to them.
 
 ### Google Drive
 
@@ -974,4 +974,3 @@ Jamboard is a collaborative whiteboarding platform, accessible at https://jamboa
 - Search and find things by typing words from document/issue/etc page titles into the urlbar (anything that appears in the page title). The search is "best effort" but surprisingly efficient at finding that doc or issue you've accessed recently.
 - "Search engines" help even more! Typing "drive" and pressing Tab, for example, searches in Google Drive. To discover and customize them, go to `Settings > Search engine`.
 - Logging in to the browser (with your GitLab Workspace account) preserves your profile across installations.
-
