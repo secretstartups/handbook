@@ -20,36 +20,34 @@ GitLab SKO 2022 will take place virtually from March 15-17, 2022. The virtual ev
 </figure>
 
 # Coming Soon 
-Links to slides and videos will be added below within 1-2 weeks following our live virtual Sales Kickoff event.
+Links to videos (all GitLab internal-only) will be added below within 1-2 weeks following our live virtual Sales Kickoff event. Videos can also be found in the [Sales Kickoff 2022 channel in EdCast](https://gitlab.edcast.com/channel/sales-kickoff-sko-2022) (GitLab internal-only).
 
 # SKO 2022 Day 1 Sessions
 
-| **Session Name** | **Presentation** | **Video** |
-| ------ | ------ | ------ |
-| Welcome Keynote | slides | video |
-| Product Keynote | slides | video |
-| Field Spotlight #1 | no slides | video |
-| Customer Speaker | slides | video |
-| Field Spotlight #2 | no slides | video |
+| **Session Name** | **Video** |
+| ------ | ------ |
+| Welcome Keynote | [video link](https://gitlab.edcast.com/insights/welcome-keynote) |
+| Product Keynote | [video link](https://gitlab.edcast.com/insights/product-keynote) |
+| Field Spotlight #1 | [video link](https://gitlab.edcast.com/insights/field-spotlight) |
+| Customer Speaker | [video link](https://gitlab.edcast.com/insights/customer-speaker) |
+| Field Spotlight #2 | [video link](https://gitlab.edcast.com/insights/field-spotlight-phreesia) |
 
 # SKO 2022 Day 2 Sessions
 
-| **Session Name** | **Presentation** | **Video** |
-| ------ | ------ | ------ |
-| Day 2 Opening | no slides | video |
-| Motivational Speaker | no slides | video |
-| Channel & Alliances Keynote | slides | video |
-| Field Spotlight #3 | no slides | video |
-| Marketing Keynote | slides | video |
-| Field Spotlight #4 | no slides | video |
-| Closing Keynote | slides| video |
+| **Session Name** | **Video** |
+| ------ | ------ |
+| Motivational Speaker | [video link](https://gitlab.edcast.com/insights/motivational) |
+| Channel & Alliances Keynote | [video link](https://gitlab.edcast.com/insights/channels) |
+| Field Spotlight #3 | [video link](https://gitlab.edcast.com/insights/field-spotlight-conundra) |
+| Marketing Keynote | [video link](https://gitlab.edcast.com/insights/marketing-keynote) |
+| Field Spotlight #4 | [video link](https://gitlab.edcast.com/insights/field-spotlight-a) |
+| Closing Keynote | [video link](https://gitlab.edcast.com/insights/closing-keynote) |
 
 # SKO Awards Ceremony
 
-| **Session Name** | **Presentation** | **Video** |
-| ------ | ------ | ------ |
-| Awards Ceremony | slides | video |
-| President's Club | slides | video |
+| **Session Name** | **Video** |
+| ------ | ------ |
+| Awards Ceremony | [video link](https://gitlab.edcast.com/insights/sko-2022) |
 
 # SKO 2022 Role-Based Breakout Sessions
 
