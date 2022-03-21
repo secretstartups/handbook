@@ -19,7 +19,7 @@ These four approachs "Explorational', "Ad-Hoc","Business Insights", and "Trusted
 
 |  | Explorational | Ad-hoc | Business Insights | Trusted Data |
 | :-- | :-: | :-: | :-: | :-: |
-| When To Use | **Prototyping / flexibel Analysis** |  **Directional / Urgent Analysis** | **Routine / Operational Analysis** | **Mission Critical Analysis** | 
+| When To Use | **Prototyping / Flexible Analysis** |  **Directional / Urgent Analysis** | **Routine / Operational Analysis** | **Mission Critical Analysis** | 
 | Manual adding data | optional | N/A| N/A | N/A |
 | Creating own data structures | optional | N/A | N/A | N/A | 
 | Visualization using [SiSense](/handbook/business-technology/data-team/platform/periscope) | optional | optional | **required** | **required** |

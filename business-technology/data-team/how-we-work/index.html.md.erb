@@ -48,6 +48,18 @@ We're happy to help you achieve your goals with Data. Most of our work is driven
 
 Not all data solutions require the same level of quality, scalability, and performance so we have defined a [Data Development](/handbook/business-technology/data-team/data-development/) framework to help match required outcomes with level of investment. The Data Team works with all teams to build solutions appropriate to the need, but focuses on *Trusted Data* using [Trusted Data Development](https://about.gitlab.com/handbook/business-technology/data-team/data-development/#trusted-data-development).
 
+### Design Spike
+
+**Experimentation** is a great approach to performing **Explorational** Data Development. Oftentimes, there can be multiple solutions to solve a business problem and we need a process to efficiently evaluate the different approaches and ultimately select a solution to promote to a Trusted Data solution. We use **Design Spikes** to facilitate experimenting. **Design Spikes** are particularly useful when the proposed solutions result in breaking changes or significant changes to the overall design, structure, and computing of the data tech stack.
+
+The below steps should be followed when performing a **Design Spike**:
+
+1. **Calculate Value**: Establish the Value the data solution can provide GitLab. Value can be measured in a variety of ways, ranging from efficiency, to increased Sales, to reduced compute. 
+1. **Define Requirements**: Create a Requirements document for the **Design Spike** to define the business and technical requirements the data solution must meet to be successful. Indicate whether each requirement is a `Must Have` or `Nice to Have`. 
+1. **Experimentation Design**: This is the most complex part of the **Design Spike**. We need to decide how to test the data solutions versus defined requirements. Oftentimes, successfully testing data solutions requires simulating production workloads. We need to define the **minimal viable sample size** of data to include in the design to achieve experimentation results that would be representative of the whole data set in scope for the solution.   
+1. **Perform the experiment**: This involves putting "fingers on the keyboard" and standing up a data solution in the **Explorational** data development environment. It also involves collecting the results of the experiment pursuant to what has been defined in the **Define Requirements** phase.
+1. **Assessment**: After the experimentation is complete, we should perform an analysis of how well each data solution performed against the requirements from the **Define Requirements** phase and see how well each data solution performed against the `Must Have` or `Nice to Have` requirements. We should put this analysis into a document along with a recommended solution based on the results of the **Design Spike**. We can then submit this to the respective DRIs and Stakeholders on the project for review, feedback, and final decisions on how we will proceed with the use case.
+
 ### Documentation
 
 The Data Team, like the rest of GitLab, works hard to document as much as possible. We believe [this framework](https://documentation.divio.com/) for types of documentation from Divio is quite valuable. For the most part, what's captured in the handbook are tutorials, how-to guides, and explanations, while reference documentation lives within in the primary analytics project. We have aspirations to tag our documentation with the appropriate function as well as clearly articulate the [assumed audiences](https://v4.chriskrycho.com/2018/assumed-audiences.html) for each piece of documentation.
