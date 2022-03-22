@@ -418,11 +418,9 @@ If this is to set up a program that involves a channel partner, you must also fo
      * Click the `Smart Campaigns` folder
      * Select the `01a Registration Flow` smart campaign
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
-     * Click to the `Schedule` tab and click `Activate`  
-
-     
-     * If a list is used to import registrants/attendants, the `03 - Processing - No Shows / Attendees` smart campaign will be run after the list is uploaded.
-     * For `Speaking Session` Select the `02-Interesting Moments` smart campaign and activate it. 
+     * Click to the `Schedule` tab and click `Activate`     
+     * (NO ACTION) If a list is used to import registrants/attendants, the `03 - Processing - No Shows / Attendees` smart campaign will be run after the list is uploaded.
+     * For `Speaking Session` also select the `02-Interesting Moments` smart campaign, click to the `Schedule` tab and click `Activate` 
 * If this is an `Owned Event` follow the below activation instructions:
      * Click the `Campaigns` folder
      * Select the `02a - Interesting Moments` smart campaign
