@@ -11,7 +11,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 - TOC
 {:toc .toc-list-icons .hidden-md .hidden-lg}
 
-## Integrated Campaigns
+## Integrated Campaigns Overview
 {: #integrated-campaigns .gitlab-purple}
 
 The goal of GitLab integrated campaigns is to strategically land a cohesive message to a target audience across a variety of channels and offers dependent on the goals of the campaign. Content types include a combination of blog posts, webinars, whitepapers, reports, videos, case studies, and more. Channels include digital ads, social, paid social, SEO, PR, email, and more.
@@ -20,7 +20,29 @@ The goal of GitLab integrated campaigns is to strategically land a cohesive mess
 
 In an effort to continually improve our ability to derive success of campaigns, reporting is a focus using Bizible data in Sisense. [Issue here for more information on progress](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/982)
 
-**Questions? Please feel free to ask in the [#marketing_programs slack channel](https://gitlab.slack.com/messages/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-programs.**
+**Questions? Please feel free to ask in the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-campaigns.**
+
+## Campaign Bundles
+{: #campaign-bundles .gitlab-purple}
+_The list below includes recommended items included in a **Campaign Bundle**, which is developed by the Campaign Core Team consisting of Campaigns, Product Marketing, Technical Marketing, Content Marketing, and Digital Marketing.
+
+**What is included in a Campaign Bundle?**
+* Buyer personas
+* Messaging and positioning framework
+* Market landscape
+* Product capabilities
+* Buyer journey content (including awareness, consideration, and decision stages)
+* Analyst relations content (if available)
+* Customer references
+* Alliance partner joint GTM campaigns and activities
+* Channel partner "Instant Campaigns"
+* SDR enablement
+
+## Campaign Core Teams
+{: #campaign-core-teams .gitlab-purple}
+
+
+
 
 ## In Progress and Future Campaigns
 {: #upcoming-integrated-campaigns .gitlab-purple}
@@ -253,10 +275,9 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 {: #campaign-planning .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**There will be an epic for every campaign - created by the Campaign Manager managing the campaign - and a content pillar will align to the campaign, including gated assets to be created, pages to be created/revamped, blog posts, etc.**
+**There will be an epic for every campaign - created by the Campaign Manager managing the campaign.**
 
 * The campaign will have a clear launch date
-* The new resources and webpages will have a clear due date prior to the launch date or defined for a cascading roll-out of content post-launch
 * All action items will have DRIs and a timeline, working back from the launch date
 * The campaign will be determined at least 45 days prior to launch to allow for a proactive, not reactive, timeline
 
@@ -304,16 +325,13 @@ This is the parent epic, organizing the epics to and issues for the integrated c
 _Please see related issues for details related to their respective purposes - this epic will be used for high level communication regarding the integrated campaign._
 
 ## Team
-* Marketing Programs: [name] @[handle] 
-* Digital Marketing: 
+* Marketing Campaigns: [name] @[handle] 
+
 * Content Marketing: 
 * Product Marketing: 
 * Technical Marketing: 
-* Evangelism: 
-* Growth Marketing: 
-* Web Design/Dev: 
+* Digital Marketing: 
 * SDR: 
-* Organic Social: 
 
 ### [Campaign Execution Timeline >>]() - Owned by Campaign Manager
 ### [Campaign Brief >>]() `to be added once created`
@@ -337,61 +355,6 @@ _Please see related issues for details related to their respective purposes - th
 
 /label ~"dg-campaigns" ~"mktg-demandgen" ~"Content Marketing" ~"Digital Marketing Programs" ~"Product Marketing" ~SDR ~"Campaign Manager Integrated" ~mktg-growtn ~tech-evangelism ~"Campaign Manager Priority" ~mktg-website ~design ~"Socil Media" ~"Strategic Marketing" ~"mktg-status::plan"
 ```
-
-#### SDR Enablement Epic Creation
-{: #epic-creation-sdr-enablement}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-<details>
-<summary>Hiding until discussed with SDR enablement for most scaled process moving forward</summary>
-
-***The Campaign Manager of the integrated campaign will create the SDR enablement epic with the following structure - details and links to be added up on creation of documents and timeline defined. Name of the epic should be `Operation OctoCat - SDR & Sales Enablement`***
-
-```
-# [See parent epic >>]()
-
-## Key Links
-* :white_check_mark: **[Live campaign page >>]()**
-* :memo: **[Campaign brief >>]()**
-* :busts_in_silhouette: **[Persona / positioning matrix >>]()
-* :video_camera: [SDR enablement training video]()  (WIP)
-
-## SDR follow up process
-
-### 🔔 About the inbound leads
-
-* **What did they do?** They filled out a form on the [campaign page]()
-* **What did they get from the form?** They will <watch our on-demand webcast OR view our eBook OR register for our live webcast OR etc.> "<Asset Name>" in a Pathfactory experience that provides like-minded <topic/use case> content.
-* **Are they MQLs?** If filling out the form makes them reach the 90 point threshold, they will MQL.
-* **What if they don't hit the threshold?** They will receive additional related assets via a [bi-weekly email nurture campaign in Marketo](link-to-nurture-issue). As they engage more, their score increases toward the 90 point threshold.
-
-### :information_desk_person: Great... so where do I see these leads in SFDC?
-
-In an effort to keep you focused on the prioritized lead and contact views, an **Interesting Moment** is triggered from Marketo.
-
-**Interesting Moment to Look For: `<Name> Campaign - downloaded <asset type> "<Asset Name>"`**
-
-#### Please prioritize lead AND contacts views per normal SLAs:
-*  [My P2 - MQL excl SaaS trials](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004oR0o)
-*  [My P4 - MQL - Trial SaaS](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004oR0o)
-*  [My P7 - Inquiry](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004oR0o)
-*  [My P8 - Stale MQLs or Nurture](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004Zcsp&rolodexIndex=-1&page=1) with new last interesting moment
-
-*If they are in salesadmin / raw status / legacy AE owned, managers will monitor these leads for re-routing.*
-
-### :large_blue_circle: MASTER|Inbound sequence for each region
-
-* [NORAM](add-link-to-outreach-noram)
-* [EMEA](add-link-to-outreach-noram)
-* [APAC](add-link-to-outreach-noram)
-
-**Note: These master sequences all have the same steps and copies, the only difference is the delivery schedules are aligned to each region's weekday business hours.* 
-
-/label ~"Marketing Programs" ~"Strategic Marketing" ~"SDR" ~"mktg-status::wip"
-```
-
-Note: The Marketing Team owns content on marketing pages; do not change content or design of these pages without consulting the #dmpteam slack channel. Marketing will request help from product/UX when we need it, and work with them to ensure the timeline is reasonable.
-</details>
 
 ## Sales Lead Funnel Cross-Over with All-Remote
 {: #funnel-crossover-all-remote .gitlab-purple}
