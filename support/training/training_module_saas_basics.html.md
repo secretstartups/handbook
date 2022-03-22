@@ -116,7 +116,7 @@ Remember: When triaging tickets and you're unsure if a user is asking about a Se
 ### Architecture
 
 1. Review materials relevant to GitLab.com Architecture
-    1. Read about the [GitLab architecture](https://docs.gitlab.com/ce/development/architecture.html) up to and including the `Simplified component overview` section.
+    1. Read about the [GitLab architecture](https://docs.gitlab.com/ee/development/architecture.html) up to and including the `Simplified component overview` section.
         - Note: You're not expected to remember everything, but to get a general sense of GitLab's architecture. Feel free to read the details on any component based on your interest.
     1. Give the [Production architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/) page a brief lookover.
         - Note: Mostly, you'll want a broad understanding of the "Current", "Service", and "Network Architecture" sections.
