@@ -28,7 +28,7 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 
 To view source slide deck (Internal only), search your [Google Drive](https://drive.google.com/drive/my-drive) for `Marketing Strategy FY23`
 
-#### Marketing Objectives
+### Marketing Objectives
 {: #objectives}
 
 1. Build category leadership for the DevOps Platform
@@ -38,24 +38,39 @@ To view source slide deck (Internal only), search your [Google Drive](https://dr
 
 To view Overview Slides (Internal only), search your [Google Drive](https://drive.google.com/drive/my-drive) for `Marketing Strategy FY23`.
 
-### Sales and Marketing Alignment
-{: #sales-marketing-alignment}
+### Marketing Goals
+{: #goals}
+1. Simplify motions and increase collaboration with our solution based marketing positioning
+1. Continue to drive levers identified in Project Raptor, including:
+    - Prioritize Inbound Inquiries
+    - Target Strategic Accounts
+    - Specialize Inbound and Outbound
+    - Work on category creation
+1. Also focus on FY22 areas of improvement:
+    - Improve Inquiry to SAO conversion rates
+    - Increase Free.com and open source conversion
+    - Scale ABM process
+1. Align with sales on core GTM motions
+1. Build partners into our marketing motions
+1. Help develop marketing team-members with training and mentoring
+
+**Timeline:** Ensure marketing alignment by end of February 2022
+
+### Tracking Performance
+{: #performance}
+
+On a monthly cadence, the **Marketing Key Review** will be used as the venue for tracking where we are year-to-date on the agreed upon plan.
+
+## Sales and Marketing Alignment
+{: #sales-marketing-alignment .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
+To be added
 
 
-### TOPO Marketing Model
-{: #topo}
 
-The TOPO Model is the agreed upon Finance/Sales/Marketing model that drives Marketing's goals for FY22, leveraging advisory services from [TOPO (now Gartner)](https://topohq.com/). In order to see the TOPO model please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `TBD when TOPO model finalized`.
-
-### Marketing Budgets
-{: #budgets}
-
-All FY23 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](/handbook/marketing/strategy-performance/allocadia/) for more details on the tool.
-
-### Glossary of terminology
-{: #glossary}
+## Glossary of terminology
+{: #glossary .gitlab-purple}
 
 - **[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)**: a set of sales and marketing activities and asssets centered around a [solution](/handbook/marketing/strategic-marketing/usecase-gtm/).
 - **[GTM Motion Core Team](/handbook/marketing/plan-fy23#core-teams)**: a group of marketers as functional DRIs for specific GTM strategies, campaigns, and aligned revenue plays
@@ -64,46 +79,26 @@ All FY23 Marketing budgets are loaded into Allocadia. Please refer to the [Alloc
 - **[LAM]()**: Landed Addressable Market; annual revenue opportunity of the entirety of GitLab's market within our current customer base
 - **[ICP](/handbook/marketing/revenue-marketing/account-based-strategy/ideal-customer-profile/)**: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
 
-## GTM Motions
+## GTM Motions & Campaigns
 {: #gtm-motions .gitlab-purple}
 
 <!-- DO NOT CHANGE ANCHOR -->
-Based on discussions with Sales and Marketing leadership, feedback from Product & Product Management leadership and by consulting industry/analyst reports, we recommend that for FY22, our major GTM motions should be focused on **CI/CD**, **DevOps Platform**, and **GitOps**. The overall goal of our GTM motions and sales play initiative is to improve the predictability of attaining our FY22 New and Growth AR goals, and improve our GTM efficiency (e.g. CAC, Cost per SAO/CW). We will do this by concentrating our efforts on the most important GTM motions that align to customer’s main business goals/needs. where GitLab has a distinct competitive advantage and with accounts that have the highest LAM growth potential.
+In FY23, we will introcude new **solution-focused campaigns** aimed at the executive level persona, while continuing our existing **capabilities-focused** campaign approach for the individual contributor level persona. 
 
-To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`.
+We will continue our always-on and continually-optimized capabilities-focused campaigns with a deep focus on DevOps Platform. CI/CD, GitOps, and DevSecOps are capabilities-focused campaigns that will also be continued, in addition to our compete campaigns.
 
-The GTM Motions each include a [Core Team](/handbook/marketing/plan-fy22#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22#beyond-core-teams) below.
+To view a diagram of Business Initiatives > Solutions > Capabilities, go to your Google Drive and search `Maturity Model`. This is only accessible by GitLab team members. This is owned and managed by Portfolio Marketing. If you have questions about the maturity model, please direct them to the [#portfolio-marketing slack channel](https://gitlab.slack.com/archives/CPTKGRXHP).
+
+## Campaign Core Teams
+
+The  each include a [Core Team](/handbook/marketing/plan-fy22#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22#beyond-core-teams) below.
 All marketing team members should aim to focus ~70% of their time and plans around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion.
 
-### What is included in a GTM Motion?
-{: #gtm-motion-includes}
-
+### What is included in a Campaign Bundle?
+{: #campaign-bundle-includes}
 <!-- DO NOT CHANGE ANCHOR -->
-_The list below includes potential and recommended items to include in a GTM Motion, to assist with ideation at kickoff of planning. The Core Team - in collaboration across Marketing and Sales - will determine need and timeline for the items to be included, and may add additional items for which there is an oranized plan to leverage._
 
-**Potential/Recommended Pieces of a GTM Motion:**
 
-- [Solution GTM Strategy Doc](/handbook/marketing/strategic-marketing/usecase-gtm/), including:
-    - Buyer personas
-    - Messaging and positioning framework
-    - Market landscape
-    - Product capabilities
-    - etc.
-- [Campaign Brief(s)](/handbook/marketing/plan-fy22/#gtm-motion-campaign)
-- [Sales Play(s)](/handbook/marketing/plan-fy22/#sales-plays)
-- Supporting content
-    - Buyer journey content (including awareness, consideration, and decision)
-    - Competitive assets
-    - Analyst relations content and activitie
-    - Customer references
-- Alliance partner joint GTM campaigns and activities
-- Channel partner campaigns
-- Web ROI model
-- [Sales enablement](/handbook/marketing/plan-fy22/#sales-enablement)
-
-## Solution GTM Strategy
-
-The GTM Strategy doc includes the background market information to illustrates the context and personas experiencing a problem that attracts budget and describes how our soultion meets that need. GTM strategy docs, also refered to as [Use Case GTM pages](/handbook/use-cases/), are kept in the handbook.
 
 ## GTM Motion Campaign
 {: #gtm-motion-campaign .gitlab-purple}
