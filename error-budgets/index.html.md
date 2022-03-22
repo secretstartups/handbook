@@ -66,6 +66,12 @@ The initial iteration of error budgets at GitLab aims to introduce objective dat
 
 Assigning error budgets down to the feature category sets a baseline for specific features, which in turn should ensure alignment on prioritizing what's important for GitLab SaaS.  
 
+## How do we determine the highest priority improvements?
+
+Each group has a `Budget spend attribution` section in their [group Grafana dashboard](https://docs.gitlab.com/ee/development/stage_group_dashboards.htm) that allows them to [discover where their budget is being spent](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#check-where-budget-is-being-spent).
+
+Both the `Budget failures` panel and each link in the `Failure log links` panel are ordered by the number of errors. Prioritising fixing the top offenders in these tables will have the biggest impact on the budget spent.
+
 # The Error Budget Policy for GitLab.com
 
 The error budgets process has a few distinct items:
