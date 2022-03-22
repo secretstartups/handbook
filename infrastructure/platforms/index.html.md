@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "The Platforms Infrastructure Section"
+title: "The Infrastructure Platforms Section"
 ---
 
 
@@ -9,6 +9,20 @@ title: "The Platforms Infrastructure Section"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Mission
+
+The Infrastructure Platforms section enables GitLab Engineering to build and deliver **safe**, **scalable** and **efficient** features.
+
+## Vision
+
+To deliver on the mission, we are in the process of formalising the building blocks we need to work on.
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/Vui6_iULzPw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+This vision has been partially discussed by the team members of the Infrastructure Platforms section while setting the [direction for FY23](https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/101).
 
 ## FY23 Direction
 
