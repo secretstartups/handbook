@@ -50,7 +50,7 @@ We've created a learning path to become a GitLab Learning Evangelist to
 1. Democratize the learning process and provide space for all voices to be heard
 1. Keep content and look and feel of the platform aligned with overall brand
 
-**Why become a Learning Evangelist?**
+### Why become a Learning Evangelist?
 
 Learning Evangelists in GitLab Learn have the opportunity to:
 
