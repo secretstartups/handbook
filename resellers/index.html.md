@@ -163,7 +163,7 @@ Since participation in the Select Track is by invitation only, partners are not 
 | **Overall Program Requirements** |  |  |
 | GitLab Partner Agreement | X | X |
 | # of Sales Verified resources | 2 | 4 |
-| # of Sales Certified resources |   | 1 |
+| # of GitLab Sales Professional Certificatied resources |   | 1 |
 | # of Solution Architect Verified resources | 1 | 2 |
 | # of Professional Services Certified resources |   | 1 |
 | Exec Sponsored Joint Business Plan |  | X |
