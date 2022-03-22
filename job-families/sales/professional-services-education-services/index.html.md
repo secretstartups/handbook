@@ -9,7 +9,7 @@ The Senior Manager of Education Curriculum Development reports into the Senior D
 
 #### Senior Manager of Education Curriculum Development Job Grade 
 
-The Senior Manager of Education Curriculum Development is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager of Education Curriculum Development is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager of Education Curriculum Development Responsibilities
 * Manage a high performing direct team of instructional designers, multimedia developers, and lab managers for DevOps and product content and course development to ensure effective education delivery
