@@ -106,7 +106,7 @@ Career development involves the process of choosing a career and building a care
 
 1. An engineer takes a LinkedIn Learning course to improve their communication and leadership skills
 1. A project manager participates in a mentorship program practice their goal setting and planning skills
-1. A team member on any team takes a LinkedIn Learning course becuase the topic is of personal interest
+1. A team member on any team takes a LinkedIn Learning course because the topic is of personal interest
 
 #### Career Mobility
 
