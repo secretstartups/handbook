@@ -3,15 +3,15 @@ layout: job_family_page
 title: "Global Education Services"
 --- 
 
-### Manager of Education Curriculum Development
+### Senior Manager of Education Curriculum Development
 
-The Manager of Education Curriculum Development reports into the Senior Director, Global Education.
+The Senior Manager of Education Curriculum Development reports into the Senior Director, Global Education.
 
-#### Manager of Education Curriculum Development Job Grade 
+#### Senior Manager of Education Curriculum Development Job Grade 
 
-The Manager of Education Curriculum Development is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager of Education Curriculum Development is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager of Education Curriculum Development Responsibilities
+#### Senior Manager of Education Curriculum Development Responsibilities
 * Manage a high performing direct team of instructional designers, multimedia developers, and lab managers for DevOps and product content and course development to ensure effective education delivery
 * Defines strategy and delivery of engaging GitLab and DevOps educational content for self-paced and instructor-led curriculum
 * Extends the Senior Technical Instructional Designer responsibilities
@@ -29,7 +29,7 @@ The Manager of Education Curriculum Development is a [grade 8](/handbook/total-r
 * Partner effectively with cross-functional curriculum developers, instructional designers, technical trainers, training managers, project managers, and internal stakeholders across the organization to ensure the content aligns with GitLab instructional design best practices organizationally wide.
 
 
-#### Manager of Education Curriculum Development Requirements
+#### Senior Manager of Education Curriculum Development Requirements
 
 * Extends the Senior Technical Instructional Designer requirements
 * 7+ years experience in an instructional designer role, preferably with expertise in DevOps and/or Open Source
