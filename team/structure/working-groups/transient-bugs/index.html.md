@@ -34,7 +34,7 @@ Build tooling for transient issues and outline process to sustainable prevent tr
 1. Build transient test pipeline to help detect transient bugs (GDK,CI,Test flaky reports). `=> 100%, completed`
 1. [Identify top 3 product groups where fixing transient bugs can help increase GMAU.](https://gitlab.com/gitlab-org/frontend/general/-/issues/40) `=> 100%, analysis done, need to add to handbook`
 1. [Update our documentation on architectural patterns that can prevent transient bugs.](https://gitlab.com/gitlab-org/gitlab/-/issues/293858) `=> 100%`
-   * [https://docs.gitlab.com/ce/development/transient/prevention-patterns.html](https://docs.gitlab.com/ce/development/transient/prevention-patterns.html)
+   * [https://docs.gitlab.com/ee/development/transient/prevention-patterns.html](https://docs.gitlab.com/ee/development/transient/prevention-patterns.html)
 1. [Incorporate transient bugs into existing triage process and prioritization.](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/760) `=> 100%, have minimal prioritization, working on triage automation` 
    * [https://about.gitlab.com/handbook/engineering/quality/issue-triage/#merge-requests-experience](/handbook/engineering/quality/issue-triage/#merge-requests-experience)
 1. Build a measurement to increase visibility of transient bugs. `=> 100%, there is now a transient bug dashboard in Sisense`
