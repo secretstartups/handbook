@@ -183,10 +183,12 @@ The balance between feature development and reliability development for a featur
 | <= 20 minutes                   | Understand your spend - no further action required. |
 | > 20 minutes                   | Commitment to [reliability/availability improvements](https://about.gitlab.com/handbook/product/product-processes/#prioritization), feature development is secondary. |
 
+Feature categories with monthly spend above the allocated budget for three consecutive months may have additional feature development restrictions put in place.    
+_This is subject to change as Error Budget spend across feature categories decreases._
 
 #### Stage Groups with different error budgets
 
-Our current contract is 99.95% availability and a 20 minute monthly error budget. However, the following groups have a different budget based on business needs:
+Our current contract is 99.95% availability and a 20 minute monthly error budget. However, the following groups have a temporarily adjusted budget based on business needs:
 
 |**Stage Group**   | **Monthly Spend (28 days)** | **Business Reason** | **Review Date**|
 |------------------|---------------------|---------------------|---------------------|
@@ -194,10 +196,7 @@ Our current contract is 99.95% availability and a 20 minute monthly error budget
 | Manage:Import | 99.85% | To allow time for the group to make architectural design changes that better align with our sidekiq apdex goals, as detailed in [this Merge Request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/96050). | 30th April 2022 |
 | Global Search | 1 hour/month (99.80%) | The metrics and SLI needed are not in a complete state. The change to incomplete from complete was determined after [removing portions of the metrics that did not report errors](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1500).  The team is moving forward with work to add tracking in order to move back to a completed state. https://gitlab.com/groups/gitlab-org/search-team/-/epics/3 | The end of FY23 Q1 (2022-04-30) |
 
-Feature categories with monthly spend above the allocated budget for three consecutive months may have additional feature development restrictions put in place.    
-_This is subject to change as Error Budget spend across feature categories decreases._
-
-Exceptions are granted as a means to allow different stakeholders to fulfill higher priority business needs, if it is estimated that the granted exception is not creating additional risk to GitLab.com reliability.
+Temporary exceptions are granted as a means to allow different stakeholders to fulfill higher priority business needs, if it is estimated that the granted exception is not creating additional risk to GitLab.com reliability. Note that _exceptions_ are different from [Custom Targets](/handbook/engineering/error-budgets/custom-targets/index.html), which set properties on endpoints defining acceptable performance.
 
 Valid reasons for an exception are:
 
@@ -205,7 +204,7 @@ Valid reasons for an exception are:
 1. Work for improving the error budget is scoped out and fully planned, but the work is not currently funded. The stakeholders are in the process of securing the funding, and the Error Budget will be regularly spent until the additional funds are secured.
 1. Temporarily, the highest priority is to achieve a significant business goal, and the reliability of GitLab.com is not directly affected. The group is likely to regularly spend the Error Budget while they are focused on this other priority.
 
-Open an MR and add the stage group to the table above. In the description requesting an exception, supply the following details:
+To request an exception, open an MR and add the stage group to the table above. In the description, supply the following details:
 
 1. Clear description of the problem that is the cause of the budget spend
 1. Relevant resources showing that the work is scoped out
