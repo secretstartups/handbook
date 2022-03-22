@@ -29,24 +29,24 @@ By contributing, Team Members will help GitLab continue to keep our [CREDIT](htt
 
 The **S** in “**S**AFE” serves as a reminder to make sure that Team Members are not sharing information which could be considered **S**ensitive information without  express approval from GitLab Legal. Things to consider before disclosing:
 1. What is considered **S**ensitive information? 
-      
+
      a) Any company confidential information that is [not public](https://about.gitlab.com/handbook/communication/#not-public). 
      
      b) Any data that reveals information not [generally known or not available](https://about.gitlab.com/handbook/communication/#internal) [externally](https://about.gitlab.com/handbook/communication/#internal) may be considered sensitive information. Sensitive information includes:
 
-- Team Member data (individual performance, start dates, departures)
-- Customer or partner information (logos, trademarks, spend)
+    * Team Member data (individual performance, start dates, departures)
+    * Customer or partner information (logos, trademarks, spend)
 
      c) Material nonpublic information. Material nonpublic information is any information that is not publicly available and a reasonable investor would likely consider important in making an investment decision (i.e., to buy, sell, or hold the company’s stock). Examples of material nonpublic information may include:
 
-*   The company’s intentions to access the capital markets (i.e. selling primary shares, secondary stock activity, issuance of debt);
-*   The company’s financial results;
-*   A possible major new customer win or loss;
-*   A pending exit of one or more senior executives of the company or members of the company’s board;
-*   The security and stability of the company’s platform;
-*   A significant transaction; 
-*   A pending purchase or sale of a significant asset or business; and
-*   A pending significant legal or regulatory proceeding or settlement.
+    *   The company’s intentions to access the capital markets (i.e. selling primary shares, secondary stock activity, issuance of debt);
+    *   The company’s financial results;
+    *   A possible major new customer win or loss;
+    *   A pending exit of one or more senior executives of the company or members of the company’s board;
+    *   The security and stability of the company’s platform;
+    *   A significant transaction; 
+    *   A pending purchase or sale of a significant asset or business; and
+    *   A pending significant legal or regulatory proceeding or settlement.
 
 The disclosure of sensitive or material nonpublic information  may be harmful to Team Members or the company. Team Members should seek the GitLab Legal’s review if the content of what they intend to disclose includes this type of information via the [#safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel. If in doubt, please inquire with the Director of Legal, Corporate before circulating this type of information externally via the [#safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.  
 
