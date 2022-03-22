@@ -32,5 +32,5 @@ You know what `git` is. 😄
 
 ## Pushing commit
 
-- Push your commits, but [skip executing CI pipeline](https://docs.gitlab.com/ee/ci/yaml/README.html#skipping-jobs)
+- Push your commits, but [skip executing CI pipeline](https://docs.gitlab.com/ee/ci/pipelines/#skip-a-pipeline)
   -  `git push -o ci.skip`
