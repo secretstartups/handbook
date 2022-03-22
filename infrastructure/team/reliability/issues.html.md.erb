@@ -80,13 +80,17 @@ Any issue that is associated with a larger effort that will take longer than 5 d
 Issues should always fall in to one of the following states, as defined by the following labels:
 
 1. `workflow-infra::Triage` - Applied to all new Reliability issues automatically.  It indicates that the issue has not yet been reviewed by the team.
-2. `workflow-infra::Ready` - Applied after the issues has been triaged by an SRE or Engineering Manager within the Reliability Team.  Ensure the following questions are answered and labeled before marking an issue as `workflow-infra::Ready`:
+2. `workflow-infra::Proposal` - Applied to any issues that require discussion or review.  Some examples include:
+  - [Readiness Reviews](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/)
+  - Issues that exist specifically to document a conversation
+   - Example: [Discussion: Should we recreate our zonal/regional clusters differently](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15192)
+3. `workflow-infra::Ready` - Applied after the issues has been triaged by an SRE or Engineering Manager within the Reliability Team.  Ensure the following questions are answered and labeled before marking an issue as `workflow-infra::Ready`:
   - Project or General issue?
     - Either `work::general` for anything that does not require project resources or `work::project` for anything that does.
   - Priority as defined by the prioritization matrix?
     - P1, P2, P3, P4, or P5 based on the prioritization matrix.
-3. `workflow-infra::In Progress` - This label should be applied _only_ after the issue has a Reliability Team member as an assignee.  This label is meant to represent only work that is actively in progress and not to indicate that an issue will be worked on in the future.
-4. `workflow-infra::Done` - This label is applied only when the issue has been closed.
+4. `workflow-infra::In Progress` - This label should be applied _only_ after the issue has a Reliability Team member as an assignee.  This label is meant to represent only work that is actively in progress and not to indicate that an issue will be worked on in the future.
+5. `workflow-infra::Done` - This label is applied only when the issue has been closed.
 
 ## Issue Board
 
