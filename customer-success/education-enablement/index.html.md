@@ -108,7 +108,7 @@ To align our education and enablement with our product, each of the topics below
   - [CI/CD with Runners Docs](https://docs.gitlab.com/ee/ci/runners/README.html)
   - [Auto DevOps Docs](https://docs.gitlab.com/ee/topics/autodevops/)
   - [CI/CD configuration with `.gitlab-ci.yml` Docs](https://docs.gitlab.com/ee/ci/yaml/gitlab_ci_yaml.html)
-  - [CI/CD authoring YAML reference for `.gitlab-ci.yml` Docs](https://docs.gitlab.com/ee/ci/yaml/README.html)
+  - [CI/CD authoring YAML reference for `.gitlab-ci.yml` Docs](https://docs.gitlab.com/ee/ci/yaml/)
   - [CI/CD Implementation Examples Docs](https://docs.gitlab.com/ee/ci/examples/README.html)
   - [CI/CD Troubleshooting Docs](https://docs.gitlab.com/ee/ci/troubleshooting.html)
   - [Migrate from CircleCI Docs](https://docs.gitlab.com/ee/ci/migration/circleci.html)
