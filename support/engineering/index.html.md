@@ -4,13 +4,13 @@ title: Support Engineer Resources
 description: If you want to learn more about what support engineers do and how they do it, this is the place.
 ---
 
-### A Day in the life of a Support Engineer
+### A Day in the Life of a Support Engineer
 
 As a Support Engineer at GitLab, the majority of your time will be focused on helping customers solve problems. This happens mostly through tickets, but can also happen through issues, screensharing calls, and emergencies.
 
 ### Getting Help
 
-Working through various customer problems you may need help. We have a wide and talented team that can help you at many levels:
+While working through various customer problems, you may need help. We have a wide and talented team that can help you at many levels:
 
 - Managers: If your problem is related to process, or understanding direction, or cross-team collaboration, consider talking to your direct manager, or another manager whom may be working more directly on that problem. Managers in Support Engineering should be able to point you in the right direction and enable you to find the right help.
 - Senior/Staff Support engineers: If your problem is debugging related, consider reaching out to a Senior+ Engineer. At the Senior+ level, engineers are expected to be acting as mentors, and technical experts. See our [Mentoring page for more information about how Senior+ Engineers are expected to help](/handbook/support/engineering/mentorship.html)
