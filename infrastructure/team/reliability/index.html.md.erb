@@ -30,13 +30,18 @@ If you're a GitLab team member and are looking to alert Reliability Engineering 
 
 If you'd like our assistance, please use one of the issue generation templates below and the work will be routed appropriately:
 
-* [Open a General Request Issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=default) - follow this link to create a general issue for the Reliability Team.
+* [Open a General Request Issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=request-general) - follow this link to create a general issue for the Reliability Team.
 * [Open a Customer Questions and Sales Enablement Issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=request-sales-enablement) - follow this link to seek assistance in answering questions for prospects or current customers.
 * [Open a request for Reliability to join customer call](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=sre_join_customer_call_request).
 
 We can also be reached in Slack in the [#production](https://gitlab.slack.com/archives/C101F3796) channel for questions related to GitLab.com and in the [#infrastructure-lounge](https://gitlab.slack.com/archives/CB3LSMEJV) channel for all other questions.
 
+## Deploying changes to GitLab.com
+
+All larger features, configuration changes, and new services must go through a [Production Readiness] review.
+
 ## Tenets
+
 1. [**Change Management**](/handbook/engineering/infrastructure/change-management/), [**Incident Management**](/handbook/engineering/infrastructure/incident-management/), [**Incident Review**](/handbook/engineering/infrastructure/incident-review/) and [**Delta Management**](/handbook/engineering/infrastructure/library/production/deltas/) are owned by Reliability Engineering.
 1. Each team member is able to work on all team projects.
 1. The team is able to reach conclusions independently all the time, consensus most of the time.
@@ -55,7 +60,7 @@ As Reliability, we have three main work streams and each varies in the type of w
 1. Engineer On Call (EOC)
   - 1 engineer per region (APAC/EMEA/Americas)
   - Respond to alerts and incidents
-  
+
 2. Backup Engineer On Call (BEOC)
   - 1 engineer per region in EMEA/Americas only (APAC to join once region is fully staffed).
   - Swap coverage is not currently required if an SRE is out-of-office during an assigned shift.
@@ -63,7 +68,7 @@ As Reliability, we have three main work streams and each varies in the type of w
   - [Triage issues](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html) in the [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues)
   - Work on [unassigned general issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?assignee_id=None).  Issues should be worked on based on priority.
 
-3. Projects 
+3. Projects
   - These are pre-planned units of work, managed via an epic and a single DRI who collaborates with other members of Reliability.  Current project assignments can be seen [here](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509).  Projects are more involved and generally take longer than non-project issues.
 
 ### How We Work -- General Workflow
@@ -84,8 +89,8 @@ As Reliability, we have three main work streams and each varies in the type of w
 - See the [Projects Page](/handbook/engineering/infrastructure/team/reliability/projects.html) for details on how projects are managed within the Reliability Team.
 
 ### How We Work -- Issues
-- Issues are filed and processed within the [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues).  
-- Issues are assigned to engineers or [project squads](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/projects.html#project-squads) based on based on [priority](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#issue-priority).  
+- Issues are filed and processed within the [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues).
+- Issues are assigned to engineers or [project squads](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/projects.html#project-squads) based on based on [priority](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#issue-priority).
 
 For a more detailed overview of how issues are triaged and prioritized, see the [issues page](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html).
 
@@ -132,3 +137,5 @@ The process is as follows:
 1. Assign yourself to the issue and move it to the "in progress" column or add the label "workflow-infra::In Progress".
 1. Reach out to other engineers as needed for more context or pairing. CAs cover a very wide range of infrastructure areas, and you are not expected to know everything. Often it is much more efficient to pair with someone more knowledgable in that domain.
 1. When the work is complete, remember to close the issue or move it to the "Done" column.
+
+[Production Readiness]: /handbook/engineering/infrastructure/production/readiness/
