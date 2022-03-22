@@ -14,7 +14,7 @@ description: "Workflow detailing how and when to verify account ownership includ
 
 ## Overview
 
-This workflow covers how a user can provide account verification. While the workflow focuses on disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account, it should be used for any [account changes](/handbook/support/workflows/account_changes.html).
+This workflow covers how a user can provide account verification. While the workflow focuses on disabling [Two-factor Authentication](https://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account, it should be used for any [account changes](/handbook/support/workflows/account_changes.html).
 
 2FA removal and other account actions can only be completed if the [workflow](#workflow) below is successful.
 
