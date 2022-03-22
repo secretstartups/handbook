@@ -46,7 +46,7 @@ Welcome to Accounts Payable, commonly referred to as AP. You should be able to f
     - The PO must also be received before we can release payment. Instructions on this process can be found [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-receive-an-order).
     - Verify if the invoice was sent to the correct place:
         - An invoice attached to a PO **will not** get processed. 
-        - Invoices for Coupa should be submitted in the supplier portal against their PO or emailed to <i>[invoices@gitlab.coupahost.com](invoices@gitlab.coupahost.com)</i> if they do not have a PO.
+        - Invoices for Coupa should be submitted in the supplier portal against their PO or emailed to <i>[invoices@gitlab.coupahost.com](invoices@gitlab.coupahost.com)</i> if they do not have a PO. If invoices are emailed, they MUST include the PO# on the invoice for timely payment.
     - Ensure that your vendor has <b>_fully_</b> on-boarded themselves in Coupa:
         - This includes filling in bank details (in their billing currency) and the appropriate tax forms.
     - Confirm that your vendor has invoiced to the correct GitLab entity:
