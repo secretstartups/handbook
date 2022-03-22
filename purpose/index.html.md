@@ -17,14 +17,14 @@ GitLab believes that [everyone can contribute](/company/mission/){:data-ga-name=
 
 ## Purpose
 
-GitLab increases lifetime earning potential through knowledge access, job access, and the DevOps platform.
+GitLab increases lifetime earning potential through training, access to opportunities, and the DevOps platform.
 
 ## Identifying GitLab's Purpose
 
 GitLab's purpose lies at the intersection of these four circles. 
 
 1. World Needs: 
-    1. Individual progress (knowledge and job access)
+    1. Individual progress (training and access to opportunities)
     1. Organization progress (DevOps Platform, faster iteration)
 1. Company skill: iteration (fast innovation, open source contributions) 
 1. Passionate about: open (to contributions, transparency)
