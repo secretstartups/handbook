@@ -417,17 +417,6 @@ If something goes wrong at the `Verification` stage, we could create an issue wi
 
 For MRs with significant changes, we should consider using [feature flags](https://gitlab.com/gitlab-org/customers-gitlab-com/#feature-flags-unleash) or create an issue with the `production::blocker` label to pause deployment and a allow for longer testing.
 
-
-#### LicenseDot
-
-We use an [automatic deployment to staging, but manual deployment to production](https://docs.gitlab.com/ee/topics/autodevops/#deployment-strategy) for LicenseDot.
-
-Maintainers of the application need to trigger a manual action on the `master` branch in order to deploy to production.
-
-The app lives at https://license.gitlab.com
-
-The `staging` environment can be found [here](https://gitlab-org-license-gitlab-com-staging.license-stg.gitlab.org)
-
 #### Escalation process
 
 In most cases an MR should follow the standard process of review, maintainer review, merge, and deployment as outlined above. When production is broken:
