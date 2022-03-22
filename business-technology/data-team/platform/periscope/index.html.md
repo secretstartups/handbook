@@ -363,6 +363,15 @@ To upgrade a user, in the Sisense UI, navigate to the **Roles and Policies** sec
 
 Users will inherit the highest access from any group they are in. This is why all functions are by default View-only.
 
+#### User not availabile in Sisense
+
+There are 2 reasons why you could not find the user in Sisense.
+
+1. The user never logged in to Sisense
+1. The user is removed from Sisense because of inactive usage as part of the [Quarterly Data Health and Security Audit](handbook/business-technology/data-team/data-management/#quarterly-data-health-and-security-audit).
+
+The user will always exist in the Google Group. So in order to get the account in Sisense, the user needs to perform a (initial) login to Sisense. With that action, the user is created in Sisense (in the GitLab Space) and you can change the account (add to another Space or grant Editor privileges).
+
 ## New Dashboard Creation and Review Workflow
 
 This section details the workflow of how to push a dashboard to "production" in Sisense. Currently, there is no functionality to have a MR-first workflow. This workflow is intended to ensure a high level of quality of all dashboards within the company. A dashboard is ready for production when the visuals, SQL, Python, and UX of the dashboard have been peer reviewed by a member of the Data Team and meet the standards detailed in the handbook.
