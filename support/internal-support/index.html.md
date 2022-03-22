@@ -27,6 +27,8 @@ If you'd like to ask a longer term or larger scope question, propose an idea to 
 
 ### On Slack
 
+**IMPORTANT:** For questions about specific customer situations, we need a Support ticket (from the customer) or an Internal Request (from a GitLab team member). **We cannot action any customer-specific requests made through Slack.** If you need to escalate an **existing** ticket or internal-request, please use the [Escalation Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor//support_escalation/) ([handbook entry](https://about.gitlab.com/handbook/support/internal-support/support-escalations.html)).
+
 The following channels are where GitLab Support can be found on Slack and are the best places to reach us, depending on what you need.
 
 - [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) - This channel is specifically for the GitLab.com support team. They handle GitLab.com related tickets. It should be used if you have a quick question about the GitLab.com Support Team specifically.
