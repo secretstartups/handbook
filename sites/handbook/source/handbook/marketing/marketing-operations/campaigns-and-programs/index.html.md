@@ -421,7 +421,8 @@ If this is to set up a program that involves a channel partner, you must also fo
      * Click to the `Schedule` tab and click `Activate`  
 
      
-     * The `03 - Processing - No Shows / Attendees` smart campaign will be run after the list is uploaded.
+     * If a list is used to import registrants/attendants, the `03 - Processing - No Shows / Attendees` smart campaign will be run after the list is uploaded.
+     * For `Speaking Session` Select the `02-Interesting Moments` smart campaign and activate it. 
 * If this is an `Owned Event` follow the below activation instructions:
      * Click the `Campaigns` folder
      * Select the `02a - Interesting Moments` smart campaign
