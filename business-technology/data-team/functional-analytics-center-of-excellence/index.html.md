@@ -18,7 +18,7 @@ description: "The FACE is a cross-functional group of functional analytics teams
 {: .alert .alert-success}
 
 ## Context
-The [core data team](https://about.gitlab.com/handbook/business-technology/data-team/) serves as the hub for all of our [“spoke” functional analytical teams](https://about.gitlab.com/handbook/business-technology/data-team/#how-data-works-at-gitlab); however, we have an opportunity to establish spokes between the spokes. Enter: the creation of the functional analytics center of excellence (FACE).
+The [central data team](https://about.gitlab.com/handbook/business-technology/data-team/) serves as the hub for all of our [“spoke” functional analytical teams](https://about.gitlab.com/handbook/business-technology/data-team/#how-data-works-at-gitlab); however, we have an opportunity to establish spokes between the spokes. Enter: the creation of the functional analytics center of excellence (FACE).
 
 ## FACE Teams: what functional analytics teams are participating?
 
@@ -32,7 +32,7 @@ The [core data team](https://about.gitlab.com/handbook/business-technology/data-
 | Customer Success Analytics | Michael Arntz 
 | Digital Experience | Dennis Charukulvanich  
 | People Analytics | Adrian Perez |
-| Core Data Team | Marcus Laanen |
+| Central Data Team | Marcus Laanen |
 
 ## Objectives of the FACE
 - **Efficiency**: it is not uncommon for our teams to be asked similiar questions (eg how are trials converting) but it is inefficient and duplicative for each team to tackle these questions on our own.
@@ -40,8 +40,8 @@ The [core data team](https://about.gitlab.com/handbook/business-technology/data-
 - **Knowledge Share**: this forum will give us a formal venue to learn from one another as opposed waiting for organic moments of knowledge sharing.
 
 ## Outputs of the FACE
-- **Cadence**: our teams will meet at least once every month if not more. We will knowledge share, align on joint quarerly projects, and develop/prioritize joint asks we have of the core data team. We will also have fun #StaySpoke.
-- **Consolidated asks to core data team**: we have an opportunity to streamline, consolidate, and prioritize our asks to the core data team. We also partner with the core data team on data program-level evaluations and decisions (eg BI tooling).
+- **Cadence**: our teams will meet at least once every month if not more. We will knowledge share, align on joint quarerly projects, and develop/prioritize joint asks we have of the central data team. We will also have fun #StaySpoke.
+- **Consolidated asks to central data team**: we have an opportunity to streamline, consolidate, and prioritize our asks to the central data team. We also partner with the central data team on data program-level evaluations and decisions (eg BI tooling).
 - **Subject Matter Expert Lookup**: we will develop a documented list of people and their associated areas of expertise. SME's will also be able to document their source of truth resources (eg snippets, dashboards, reports).
 - **Quarterly Projects**: we will propose and pick cross-functional projects for us to work on quarterly. This will make us all more efficient by assigning 1 DRI with 2 or more code reviewers. 
 - **Peer Review + Assumptions Approval**: as a part of the quarterly projects, we will establish a code peer review and assumptions approval process that will ensure we will all be enthusiastic adopters of the ultimate output.
