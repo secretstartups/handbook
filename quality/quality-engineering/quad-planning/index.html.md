@@ -40,5 +40,7 @@ The SET owns the completion of the `Availability and Testing` section in the Fea
          1. Update an existing end to end test, with the feature flag enabled and disabled if the feature is behind a feature flag - Provide the link of the testcase to be updated.
          1. Add new end to end test, with the feature flag enabled and disabled if the feature is behind a feature flag - Create a testcase issue and provide the link.
          1. Ensure test coverage in unit/integration tests, no end-to-end test is required.
+         1. Ensure that the change is following our process on [maintaining backward compatibility across updates](https://docs.gitlab.com/ee/development/multi_version_compatibility.html).
+            1. This is key for difficult to test changes, such as [modifying](https://docs.gitlab.com/ee/development/multi_version_compatibility.html#when-modifying-a-sidekiq-worker) or [adding](https://docs.gitlab.com/ee/development/multi_version_compatibility.html#when-adding-a-new-sidekiq-worker) Sidekiq workers.
    1. Finally the SET adds the `quad-planning::complete-action` label to the issue which marks the completion of quad-planning.
    1. If the change is trivial enough and does not actually need a `Availability and Testing` section, then the SET add the `quad-planning::complete-no-action` label.
