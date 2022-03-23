@@ -55,7 +55,6 @@ canonical_path: "/company/team/structure/working-groups/learning-experience/"
 | Executive Sponsor & Facilitator     | Bryan Wise | VP, Information Technology |
 | Functional Lead       | Michael Lutz      | Senior Director, Professional Services  |
 | Functional Lead       | David Somers          | Senior Director, Field Enablement   |
-| Functional Lead       | Josh Zimmerman         | Manager, Learning & Development   |
 | Functional Lead       | Christopher Nelson         | Sr. Director, Enterprise Applications   |
 | Member       | Sean Sandoval         | Sr. Manager, Professional Education Services   |
 | Member       | Kendra Marquart         | Sr. Technical Instructional Designer, Customer Education   |
