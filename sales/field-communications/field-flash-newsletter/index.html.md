@@ -104,12 +104,12 @@ We build the newsletter in an issue in the [Enablement project](https://gitlab.c
 - Once the newsletter goes live, Field Communications sends a reminder to the field in the #sales, #customer-success and #sdr_global Slack channels 
 - On the Monday following the newsletter send, Field Communications captures the newsletter performance data in the issue and then closes it. 
 
-To be added to the newsletter distribution list, [use this signup form.](http://eepurl.com/gXvm8r) **Note:** You can only sign up for this newsletter with a GitLab email domain. 
+To be added to the newsletter distribution list, please reach out in the #field-enablement-team Slack channel. 
 
 ## Deal of the Month Nominations
 Deals that qualify for the Deal of the Month video meet most of the criteria below. 
 
-While submissions often come from Sales leadership, nominations can and should be made by any GitLab team member - everyone can contribute! To make a Deal of the Month nomination, use this [Deal of the Month Nomination Form](https://forms.gle/7AYwzgFStrai5D2F7). Nominations close 7 business days prior to the target publish date (first Monday of each month). Any nominations received after this date will be considered for the following month's edition. Note that, in an effort to feature recent deals, nominations are only valid for one edition cycle, i.e. nominations do not carry over to a future month if not selected.
+While submissions often come from Sales leadership, nominations can and should be made by any GitLab team member - everyone can contribute! To make a Deal of the Month nomination, please reach out directly to the Field Communications Specialist (Shannon Thompson). Nominations close 7 business days prior to the target publish date (first Monday of each month). Any nominations received after this date will be considered for the following month's edition. Note that, in an effort to feature recent deals, nominations are only valid for one edition cycle, i.e. nominations do not carry over to a future month if not selected.
 
 **Deal of the Month Criteria**
 - This deal is a shining example of what great looks like. New and tenured team members would benefit from learning about all of the work and various components that went into it.
@@ -121,8 +121,6 @@ While submissions often come from Sales leadership, nominations can and should b
 - Team member and/or account team successfully used the MEDDPICC methodology for opportunity management.
 - Team member and/or account team exhibited [GitLab's values](/handbook/values/) in this process.
 - Team member and/or account team received positive feedback from the customer/prospect or from another GitLab team member as a part of this deal. (Please share if possible.)
-
-
 
 ## Measurement
 Quantitative Success Metrics
