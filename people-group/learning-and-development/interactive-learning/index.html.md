@@ -78,7 +78,7 @@ Here is an example of how to create these links:
 1. Right click and choose `Copy link to highlight`
 1. Direct users to generated link for highlighted section
 
-![gitlab-learning-content-diagram](/handbook/source/handbook/people-group/learning-and-development/interactive-learning/copy_link_to_highlight.jpeg)
+![gitlab-learning-content-diagram](/handbook/people-group/learning-and-development/interactive-learning/copy_link_to_highlight.jpeg)
 
 It's important to note that high traffic or frequently updated handbook pages might result in broken links if the first or last word in a highlighted section is edited.
 
