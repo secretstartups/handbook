@@ -147,7 +147,7 @@ If you included the Allocadia ID, follow these steps. Otherwise, you'll need to 
 - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
 - `Budgeted Cost` in SFDC pulls from your plan number, not your forecast number from Allocadia. If you do not have a plan cost in Allocadia then `Budgeted Cost` in SFDC will remain blank. If this is the case, you will want to add in your `Budgeted Cost` manually into your SFDC campaign.
 
-For more information on Allocadia, go [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#allocadia-information)
+For more information on Allocadia, go [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign-using-allocadia)
 
 #### Step 4b: Update without Allocadia
 If you did not include the Allocadia ID in the description, you'll need to update the steps below:
