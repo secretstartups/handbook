@@ -129,4 +129,8 @@ The TAM Manager is responsible for developing and delivering a [Quarterly Busine
 * 3rd week: Stage Adoption Playbooks, EBR Playbooks
 * 4th week: Renewals, At Risk Accounts, Red Scorecards
 
+## Team Member Performance
 
+Managers have the responsibility of evaluating and providing feedback on team member performance. We have resources available to help with this:
+
+- [Individual FY Plan](https://docs.google.com/document/d/1Etn2bCNewGYe6BLv4VmrjuGfEqtxqzUk14f0geTaVBM/edit?usp=sharing): One-sheet outline of the key metrics & criteria for a team member to achieve in a given fiscal year, tailored to the team member. This is best used at the beginning of the fiscal year, assembled by the manager and discussed with the team member. Categories and metrics should be agreed upon by manager and team member, and performance against these reviewed regularly throughout the year.
