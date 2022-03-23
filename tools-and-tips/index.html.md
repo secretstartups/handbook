@@ -767,6 +767,12 @@ Add as many time zone world clock as you wish by going to Settings -> World Cloc
 
 ![Google Calendar - World Clock](/images/handbook/tools-and-tips/world-clock.png)
 
+#### Time Zone
+
+Check `Display secondary time zone` and select Coordinated Universal Time (UTC). This enables team members to standardize on a single time zone in communicating when meetings take place.
+
+![Google Calendar - Time Zone](/images/handbook/tools-and-tips/google-calendar-tinmezone.png)
+
 ### Google Cloud Platform
 
 See the [Sandbox Cloud page](/handbook/infrastructure-standards/realms/sandbox/) for a listing of cloud resources and how to gain access to them.
