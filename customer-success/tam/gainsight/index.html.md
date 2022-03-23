@@ -70,6 +70,9 @@ The table below represents the steps a TAM would typically take in Gainsight. Pl
 - [Maturity Scoring](/handbook/customer-success/product-usage-data/maturity-scoring/)
 - [Product usage playbooks with usage metrics](https://about.gitlab.com/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
 
+#### Dashboard Metrics
+- [Time to Value Metrics](/handbook/customer-success/tam/onboarding/#time-to-value-metrics)
+
 #### Programs
 - [Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
 - [NPS/CSAT](/handbook/customer-success/tam/gainsight/c360-overview/nps-csat-scores)
