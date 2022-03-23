@@ -265,26 +265,26 @@ If you have a question or feedback related to the working group, please post in 
 
 ### Policy and Guidelines
 
-Guidelines on who can travel, to which locations, and for what purpose is necessary to avoid non-business critical travel during this time and to help keep GitLab Team Members safe.
-
-Where Can GitLab Team Members Travel: While some areas of the world have decreased cases of Covid-19, some are increasing. Team Members must refer to the [CDC website](https://covid.cdc.gov/covid-data-tracker/#global-counts-rates)) to ensure that both locations (traveling from and to) are safe locations in which to travel.
+Where can GitLab Team Members Travel? While some areas of the world have decreased cases of Covid-19, some are increasing. Team Members must refer to the [CDC website](https://covid.cdc.gov/covid-data-tracker/#global-counts-rates)) to ensure that both locations (traveling from and to) are safe locations in which to travel.
 
 Required of/by Team Members Prior to Traveling:
 
-As of 2022-02-23, fully vaccinated and boosted team members (as defined by [CDC Guidance](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)) who want to travel for a customer, partner, and/or marketing event can do so without seeking prior approval from the COVID-19 Travel Working Group.  If you are unable to meet the CDC criteria and wish to travel for these reasons, please reach out to Team Member Relations for an ad hoc exemption.  
+As of 2022-03-21, fully vaccinated and boosted team members (as defined by [CDC Guidance](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)) who want to travel for any business reason can do so without seeking prior approval from the COVID-19 Travel Working Group.  With COVID-19 cases decreasing around the world, we've made the data-driven decision to re-open team member travel.  We will continue to evaluate the best way to reinstate our [Visiting Grant program](https://about.gitlab.com/handbook/incentives/#visiting-grant), but at this time, this program continues to be on hold.  
 
-While obtaining COVID-19-specific approval before travel is no longer needed, you will still need to get manager approval. At this time, sales and marketing-specific business reasons are the only cases open for travel and other cases still require a business case and E-Group approval. To submit a business case, complete the [Travel Exception Form](https://docs.google.com/forms/d/e/1FAIpQLSe_FDsWXyOr0gFlKw_jTJwlElBHaS0b7bSTKQsch6sgyYUvOA/viewform). Email your completed Travel Exception Request Form with an explanation of who has approved to your VP so they may directly request approval from your E-Group member. As with every case, always coordinate with your manager to ensure the business case requires travel, and please follow the [Travel and expense guidelines](https://about.gitlab.com/handbook/finance/expenses/#-travel-and-expense-guidelines). 
+If you are unable to meet the CDC criteria and wish to travel for these reasons, please reach out to Team Member Relations to request an ad hoc exemption.  
+
+While obtaining COVID-19-specific approval before travel is no longer needed, you will still need to get manager approval. As with every case, always coordinate with your manager to ensure alignment with the required travel, and please follow the [Travel and expense guidelines](https://about.gitlab.com/handbook/finance/expenses/#-travel-and-expense-guidelines). 
  
-As a reminder, business travel is still voluntary. Please only travel if you feel comfortable visiting a customer or partner while abiding by local regulations and requirements. 
+As a reminder, business travel is still voluntary. Please only travel if you feel comfortable doing so while abiding by local regulations and requirements. 
  
-The COVID-19 Travel Working Group meets monthly and will reconvene on 2022-03-17 to re-evaluate our travel policy and the risk of COVID-19. As always, the safety of our team members, partners, and customers is our top priority. 
+The COVID-19 Travel Working Group meets monthly and will reconvene on 2022-04-21 to re-evaluate our travel policy and the risk of COVID-19. As always, the safety of our team members, partners, and customers is our top priority. 
  
-- At this time, all business travel requires pre-approval and only fully vaccinated and boosted team members may travel for business if their request is approved. Except where an exemption or accommodation may apply, non-vaccinated team members are currently not allowed to travel. 
+- At this time, all business travel requires pre-approval by your manager, and only fully vaccinated and boosted team members may travel for business if their request is approved. Except where an exemption or accommodation may apply, non-vaccinated team members are currently not allowed to travel. 
 - Business travel requests should be made for any mode of travel (including personal vehicles for local travel and local public transportation) where team members will be meeting co-workers, customers and/or partners in person.
-- Traveling to meet with co-workers in person will require eGroup approval per the normal budget process and is considered business travel for the purpose of this policy.
 - By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status. GitLab is not requiring vaccination confirmation at this time to travel.
 - Vaccinated team members must wear a mask that meets CDC or WHO guidelines during travel to their destination(s), and must continue to follow mask requirements meeting CDC/WHO guidelines or local, venue or client requirements, whichever is most strict.
 - All international travelers must follow each country's guidelines governing entry and re-entry. If COVID-19 testing is required to travel, GitLab will reimburse team members for required testing costs.
+- At this time, there is no change to the [Visiting Grant program](https://about.gitlab.com/handbook/incentives/#visiting-grant) and it remains suspended.  
 
 General recommendations/precautions:
 
