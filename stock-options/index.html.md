@@ -74,7 +74,7 @@ Team members may be eligible to participate in the annual refresh grant cycle re
 
 ### Promotions
 
-Promotion grants are based on the differential between the new hire equity dollar value at the new grade minus the new hire equity dollar value at the current grade using the median of the compensation range. The vesting schedule for the new equity grant will align to the terms and consitions of the equity plan for [RSUs](#restricted-stock-units). 
+Promotion grants are based on the differential between the new hire equity dollar value at the new grade minus the new hire equity dollar value at the current grade using the median of the compensation range. The vesting schedule for the new equity grant will align to the terms and conditions of the equity plan for [RSUs](#restricted-stock-units). 
 
 Formula for number of Promotion Equity Grant: `(New Hire Equity Grant Dollar Value Median at Promoted Level - New Hire Equity Grant Dollar Value Median at Previous Level)`
 
