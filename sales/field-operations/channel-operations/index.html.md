@@ -370,33 +370,45 @@ To process a Partner Sourced Deal Registration for a referral opportunity, follo
 _The deal registration form is not a quoting tool and will not have all the information needed to create the quote. You must get this information from the partner or elsewhere before requesting the quote._
  
 ## Service Attach Opportunities
-GitLab incentivizes partners that sell their own professional services into a customer environment at the time of a GitLab product sale. To be eligible for this back-end rebate, the partner needs to submit a Service Attached Deal Registration that is approved by a GitLab Channel Manager. This is separate from the Partner Sourced Deal Registration for the license sale.  
+GitLab incentivizes partners that sell their own professional services into a customer environment at the time of a GitLab product sale. To be eligible for this back-end rebate, the partner needs to submit a Service Attached Deal Registration that is approved by a GitLab Channel Manager. This is separate from the Partner Sourced Deal Registration for the license sale. 
 
 To track the Partner Services, the partner must register the deal on the [partner portal](https://about.gitlab.com/handbook/resellers/#gitlab-partner-portal).  
 
 When a Channel Manager either receives an email alert, or sees a new registration in the [Deal Registration Report](https://gitlab.my.salesforce.com/00O4M000004aUal), the following steps should be taken:
  
 1. Click the link in either the email or the [Deal Registration Report](https://gitlab.my.salesforce.com/00O4M000004aUal) to open the registration object in Salesforce.
-2. Check to make sure that the Partner Sourced Deal Registration type says resale.
-3. Click “Link/Create Opportunity.”
+2. Check to make sure that there is a Service Attach Type in the Service Attach Type field.
+   - Note that there could likely be another Partner Sourced Deal Registration for the license resale opportunity. The resale registration will populate in the opportunity fields, while the Service Attach registration will only be linked to the opportunity. 
+   - A Service Attach Deal Registration MUST attach to a license sale opportunity. There will almost always be an opportunity in the system, and it is best practice for a Channel Manager to process the Partner Sourced Deal Registration first, if there is one, before processing the Service Attach Deal Registration.
+3. Discuss the opportunity with the appropriate AE/SAL and decide to either approve or deny the registration(s).
+4. Click “Link/Create Opportunity.”
    ![9-Link_Create_Opp](/handbook/sales/field-operations/channel-operations/images/9-Link_Create_Opp.png)
-4. On the Link/Create Opportunity page, first search for the opportunity in the provided list and/or by doing a “Global Search.”
+5. On the Link/Create Opportunity page, first search for the opportunity in the provided list and/or by doing a “Global Search.”
    - **If the opportunity exists**, click “Select” next to the opportunity name. You will then be brought back to the deal registration record.
    ![6-Link_Opportunity_Select](/handbook/sales/field-operations/channel-operations/images/6-Link_Opportunity_Select.png)
    - **If there is no matching opportunity**, click “Create New,” and then choose “Standard” in the Opportunity Type. The system will then populate all the necessary fields, including the DR-mapped fields. Click “Save” and you will be brought back to the registration record.
-   - **A Service Attach Deal Registration MUST attach to a license sale opportunity.** There will almost always be an opportunity in the system, and it is best practice for a Channel Manager to process the Partner Sourced Deal Registration first, if there is one, before processing the Service Attach Deal Registration.
    - **The opportunity must be either new or no older than 6 months old to qualify for the incentive.** If the appropriate opportunity is older than 6 months old, the Channel Manager should deny the registration and work with the partner to see if there is an upcoming licensing opportunity that would make sense for the services.
-5. Click Approve/Deny/Return Registration.
+6. Click Approve/Deny/Return Registration.
    ![7-Approve_Deny_Return](/handbook/sales/field-operations/channel-operations/images/7-Approve_Deny_Return.png)
-6. On the next page, choose approve, and if you have a message for the partner about the deal, you can add that into the “comments” section. This is not required, but anything included in this field will be sent back to the partner.
+   - The following steps consider the registration _approved_.
+7. On the next page, choose approve, and if you have a message for the partner about the deal, you can add that into the “comments” section. This is not required, but anything included in this field will be sent back to the partner.
    ![8-Approve_Deny_Details](/handbook/sales/field-operations/channel-operations/images/8-Approve_Deny_Details.png)
    - If a distributor is involved, choose the distributor in the field that appears. If no distributor is involved, this field can be left blank.
-7. Both the registration record and the opportunity record will be updated with the approval information.
+8. Both the registration record and the opportunity record will be updated with the approval information.
    - A Service Attach registration will **not** populate the Partner Sourced Deal Registration section of an opportunity. To find the Service Attach Deal Registration, click the related list link at the top of the opportunity. This will bring you to a list of any registration attached to the opportunity, including the Service Attach Deal Registration.
    ![10-Reg_Related_Lists](/handbook/sales/field-operations/channel-operations/images/10-Reg_Related_Lists.png)  
    - Alternatively, you can scroll to the “Registrations” section toward the bottom of the opportunity.
    ![11-Reg_for_Svc_Att](/handbook/sales/field-operations/channel-operations/images/11-Reg_for_Svc_Att.png)  
-8. If you have created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the name of the sales team member who owns the customer account.
+9. If you have created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the name of the sales team member who owns the customer account.
+10. Partner delivers services, either before, during, or after the license sale completes.
+   - The services can be completed up to six months before the resale opportunity closes, or up to six months after the resale opportunity closes. Services delivered more than six months before or after the resale opportunity closes do not qualify for the Service Attach Rebate. 
+11. The Partner goes through the Proof of Execution process:
+   - The partner sends the Proof of Execution (POE), customer signed statement of work (SOW), or other customer-verified proof of execution to `Partnersupport@gitlab.com`.
+   - The partner completes the [POE form](https://forms.gle/1AXbStjZCKuWecTf7).
+12. The Partner Help Desk will ensure the Deal ID is listed on the POE, upload it to the opportunity, and chatter the Channel Manager. The Partner Help Desk will then update the Service Attach Deal Registration Status to Closed-Won.
+13. After the close of quarter in which the resale deal is closed-won*, Channel Operations will pull a report of Closed-Won Service Attach Deal Registrations for rebate payments. Channel Operations sends the report to Partner Help Desk.
+14. Partner Help Desk submits the payments to Coupa for reseller payouts. Resellers should receive payment within 45 days of the start of the new quarter.
+
  
 Rebate payouts will be reported and paid after each GitLab quarter close.
  
