@@ -134,7 +134,7 @@ If you create a feature proposal on behalf of a customer, please follow the same
 ### GitLab Runner
 
 - Information on [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner#features)
-- [Runner documentation](http://docs.gitlab.com/ee/ci/runners/README.html)
+- [Runner documentation](https://docs.gitlab.com/ee/ci/runners/)
 
 ### GitLab Workhorse
 

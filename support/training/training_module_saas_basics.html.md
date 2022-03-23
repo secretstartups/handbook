@@ -53,7 +53,7 @@ Consider using the Time Tracking functionality so that the estimated length for 
 
 Regardless of whether you receive admin access later, you should set up chatops access.
 
-1. Read the first two sections: [the Chatops intro and how it works](https://docs.gitlab.com/ee/ci/chatops/README.html).
+1. Read the first two sections: [the Chatops intro and how it works](https://docs.gitlab.com/ee/ci/chatops/).
 1. If you don't already have it, [get Chatops access](https://docs.gitlab.com/ee/development/chatops_on_gitlabcom.html#chatops-on-gitlabcom).
     - Note: Use the "Google" sign in on the ops instance to create an account if needed.
 1. Read about [commonly used chatops commands](https://about.gitlab.com/handbook/support/workflows/chatops.html).
