@@ -369,6 +369,58 @@ Full refresh required as per instructions from [dbt models full refresh](https:/
 
 An example for this failure is the issue: **[#11524](https://gitlab.com/gitlab-data/analytics/-/issues/11524)**
 
+### Zuora Revenue Source and Target Column Mismatch
+
+Sometimes Zuora Revenue source system as part of a certain release modify the source table definition by adding/removing column(In a year once or twice). Whenever this type of change happens it triggers failure in the loading task in DAG `zuora_revenue_load_snow`. 
+
+For example, there was 3 additional column added to table `BI3_RC_POB` which lead to the below error message. 
+```
+[2022-03-21, 13:26:48 UTC] INFO - sqlalchemy.exc.ProgrammingError: (snowflake.connector.errors.ProgrammingError) 100080 (22000): 01a31326-0403-d02c-0000-289d37f10d4e: Number of columns in file (102) does not match that of the corresponding table (99), use file format option error_on_column_count_mismatch=false to ignore this error
+[2022-03-21, 13:26:48 UTC] INFO -   File 'RAW_DB/staging/BI3_RC_POB/BI3_RC_POB_12.csv', line 3, character 1
+[2022-03-21, 13:26:48 UTC] INFO -   Row 1 starts at line 2, column "BI3_RC_POB"[102]
+[2022-03-21, 13:26:48 UTC] INFO -   If you would like to continue loading when an error is encountered, use other values such as 'SKIP_FILE' or 'CONTINUE' for the ON_ERROR option. For more information on loading options, please run 'info loading_data' in a SQL client.
+```
+When this kind of failure happens we need to alter/create or replace the target table and add the additional column to the table definition in RAW.ZUORA_REVENUE schema. It is good to practise creating or replacing because it requires doing the full refresh of the data because of the addition of a new column. 
+
+Below are set of steps that will guide you to resolve this. 
+
+**Step 1:-**  Download the first file from the storage to local to view the additional column. For any file, only the file name and folder name should be modified.
+```
+gsutil cp  gs://zuora_revpro_gitlab/RAW_DB/staging/BI3_RC_POB/BI3_RC_POB_1.csv .
+```
+
+For any other file, only the file name and folder name should be modified. For example table, `BI3_RC_BILL` above command will change to ` gsutil cp gs://zuora_revpro_gitlab/RAW_DB/staging/BI3_RC_BILL/BI3_RC_BILL_1.csv .`
+
+**Step 2:-** Once the file is downloaded look for the header of the file using the below command
+
+```
+head -1 BI3_RC_POB_1.csv 
+```
+
+**Step 3:-** Pull out the current table definition from snowflake using the below query
+```sql
+USE ROLE LOADER;
+USE DATABASE RAW;
+USE SCHEMA ZUORA_REVENUE;
+select get_ddl('table','BI3_RC_POB');
+```
+Prepare the CREATE OR REPLACE TABLE query by comparing the missing column from the header and the table definition and adding them to the new table. The missing column should be at the end and the data type should be varchar. 
+Deploy the modified SQL.
+
+**Note:-** If the table doesn't exist then create the table with all the column named present in header with datatype as Varchar.
+
+**Step 4:-** Move the log file from the process folder to the staging folder of the table. 
+
+```
+gsutil cp gs://zuora_revpro_gitlab/RAW_DB/processed/22-03-2022/BI3_RC_POB/BI3_RC_POB_22-03-2022.log  gs://zuora_revpro_gitlab/RAW_DB/staging/BI3_RC_POB/
+```
+The point to consider in this command is the date in the path and the log file name. If the failure happened on `23-03-2022` then it will become `gs://zuora_revpro_gitlab/RAW_DB/processed/23-03-2022/BI3_RC_POB/BI3_RC_POB_23-03-2022.log` 
+
+Validate in [GCS storage](https://console.cloud.google.com/storage/browser/zuora_revpro_gitlab/RAW_DB/staging?project=gitlab-analysis&pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false) that the log file is present for the respective table.
+
+**Step 5:-** Re-run the task from the airflow by clearing the task.  
+
+
 ## Triage FAQ
 **Is Data Triage 24/7 support or shift where we need to support it for 24 hours?** <br>
 We need to work in our normal working hour perform the list of task mentioned for the triage day in the [Triage Template](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=Data%20Triage&issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
