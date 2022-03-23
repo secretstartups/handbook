@@ -723,6 +723,9 @@ Table 1:
 
 
 
+## **Partner Enablement Tools**
+The Channel Programs and Enablement team is responsible for the maintence and management of enablement tools used to support the GitLab Partner ecosystem. The three main tools that we use are: Highspot, ImParnter(Partner Portal), and EdCast. Please reference the chart below to determine where an enablement asset should reside. 
+<div align= "center"><img src="sites/handbook/source/handbook/sales/channel/images/Partner-Enablement-Tools.png" width="" alt="Partner Enablement Tools" title="image_tooltip"></div>
 
 ## **Partner Communications**
  
