@@ -59,7 +59,7 @@ Please see the [engineering workflow document][eng-wf] in the handbook and read
 the [developer documentation][dev-doc].
 
 [eng-wf]: /handbook/engineering/workflow/
-[dev-doc]: http://docs.gitlab.com/ee/development/README.html
+[dev-doc]: https://docs.gitlab.com/ee/development/
 
 ### Security
 
