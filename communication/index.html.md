@@ -1400,6 +1400,14 @@ As a GitLab Team Member, you can view the active slackbots that we use in Slack,
 | `aggressive` | Did you mean ambitious? |
 | `gitlabber, gitlabbers` | The term `gitlabber` is a commonly misused term. Please use "GitLab team member" instead. You can [read more about this in our handbook](/handbook/communication/top-misused-terms/) |
 
+### Yerbo Slack App
+
+The free version of the [Yerbo](https://blog.yerbo.co/) Slack app is available for team members as a tool to track and monitor their burnout risk. The app is currently available for all team members in Slack. 1x per week, the app sends a message to users and asks them to complete a 2-minute self reflective survey. Answers are aggregated over time and display in a personal dashboard where team members can view their potential risk of burnout and take action to improve.
+
+To start using Yerbo, search for and click the app in Slack.
+
+For quesitons or to provide feedback, reach out in the [#yerbo-app Slack channel](https://app.slack.com/client/T02592416/C02PR8QKMR6).
+
 ### Why are we upgraded to the Plus tier?
 
 We upgraded tiers to improve efficiency and security with the ability to use Okta to login into Slack. This will help us scale by improving provisioning and deprovisioning of our corporate systems. This upgrade will also allow us to improve the auditing requirements where identity management is in scope. The Plus tier also includes announcement only channels, 99.99% guaranteed up time, 24x7 support with guaranteed response in four hours or less, and the ability of [Corporate Export.](https://slack.com/help/articles/204897248)
