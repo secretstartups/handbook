@@ -118,7 +118,7 @@ The following (private) Grafana dashboard are important / useful for database sp
 
 ### Documentation
 
-Basically everything under <https://docs.gitlab.com/ee/development/README.html#databases>, but the following guides in particular are important:
+Basically everything under <https://docs.gitlab.com/ee/development/#databases>, but the following guides in particular are important:
 
 - [What requires downtime?](https://docs.gitlab.com/ee/development/what_requires_downtime.html)
 - [Adding database indexes](https://docs.gitlab.com/ee/development/adding_database_indexes.html)
@@ -128,6 +128,6 @@ Basically everything under <https://docs.gitlab.com/ee/development/README.html#d
 - [SQL Query Guidelines](https://docs.gitlab.com/ee/development/sql.html)
 - [Infrastructure runbooks and documentation](https://gitlab.com/gitlab-com/runbooks#postgresql)
 
-For various other development related guides refer to <https://docs.gitlab.com/ee/development/README.html>.
+For various other development related guides refer to <https://docs.gitlab.com/ee/development/>.
 
 [^1]: From "Database Reliability Engineering", O'Reilly Media, 2017
