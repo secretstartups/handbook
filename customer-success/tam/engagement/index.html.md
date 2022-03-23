@@ -114,14 +114,7 @@ We have [role-play scenarios to practice identifying and gaining access to the d
 
 GitLab uses a customer prioritization model and [associated metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/) based on their customer segment (Strategic, Named, Scale) to focus the TAM's efforts where they will have maximum value and impact. 
 
-On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1 or 2, with 1 being the highest. A new TAM-assigned customer coming on to GitLab will default to Pr1 until their onboarding enablement is complete. Pr3 is solely for unmanaged child accounts, and Pr4 is only for our digital customers and not for the TAM-assigned segment, with the exception of the Public Sector that is trialing a TAM-assigned digital customer. 
-
-Priority Definitions include:
-
-1. Pr1: TAM-led onboarding, monthly cadence call (as minimum), full TAM-led customer lifecycle
-1. Pr2: 60 day call cadence, EBR, renewal touch point
-1. Pr3: Non-managed child accounts only
-1. Pr4: Digital-enablement only customers
+On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1 or 2, with 1 being the highest. A new TAM-assigned customer coming on to GitLab will default to Pr1 until their onboarding enablement is complete. Pr3 is solely for unmanaged child accounts, and Pr4 is only for our digital customers and not for the TAM-assigned segment, with the exception of the Public Sector that is trialing a TAM-assigned digital customer. Priority definitions vary by TAM segment.
 
 ![Post-Sales Customer Segmentation](https://lucid.app/publicSegments/view/8a23ea4e-843c-47be-9337-d819c158efac/image.jpeg "Post-Sales Customer Segmentation")
 <br>
@@ -137,7 +130,12 @@ The `TAM Portfolio` Dashboard is used to help highlight and review each client, 
 
 ### Strategic Accounts
 
-TAM-assigned customers are segmented into two priority tiers: `Priority 1 (P1)` and `Priority 2 (P2)`. We use a series of "yes/no" parameters to evaluate a customer's prioritization, based on the key aspects of a TAM's responsibilities and value to the customer.
+Priority definitions are as follows:
+1. Pr1: TAM-led onboarding, monthly cadence call (as minimum), full TAM-led customer lifecycle
+1. Pr2: 60 day call cadence, EBR, renewal touch point
+1. Pr3: Non-managed child accounts only
+
+TAM-assigned customers are segmented into two priority tiers: `Priority 1 (P1)` and `Priority 2 (P2)`. We use a series of "yes/no" parameters to evaluate a customer's prioritization, based on the key aspects of a TAM's responsibilities and value to the customer. There may be rare use of a `Priority 3 (P3)` tier, wherein an account is a child account that is not actively managed outside of its parent account but is still within the Strategic segment.
 
 Each TAM should aim to have roughly one third (1/3) of their book of business listed as `Priority 1`, and the rest as `Priority 2`.
 
@@ -207,7 +205,23 @@ Examples of when an exception may be appropriate include:
 In order to make an exception, the TAM or SAL should discuss the details with the members of the [account team](/handbook/customer-success/account-team/#enterprise) and their respective managers. Exceptions will be addressed to the regional Sales Management team and documented in Gainsight.
 
 ### Named Accounts
-The Named Account prioritization model will be defined in FY23Q1. If needed, use the Strategic Account model above as general guidelines.
+
+The Named segment aims to have no more than 20% of a TAM's book of business to be Priority 1 at any given time.
+
+For a customer to be a Priority 1, they must meet at least one of the following parameters:
+- User growth and/or uptier within the next 6 months (must have a corresponding Salesforce opportunity)
+- Active stage adoption planning and/or implementation
+- Contraction or churn risk
+- Onboarding
+
+The primary difference between Priority 1 and Priority 2 customers is the frequency of synchronous engagement:
+- **Priority 1:**
+   - Monthly cadence calls
+   - For onboarding: weekly calls for first 30 days
+- **Priority 2:**
+   - Cadence calls every 60-90 days
+
+Priority 1 customers will also have more focus on having EBRs to ensure alignment on use case adoption and future expansion.
 
 ### Scale Accounts
 The Scale Account prioritization model will be defined in FY23Q1.
