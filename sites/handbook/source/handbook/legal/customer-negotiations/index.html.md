@@ -212,7 +212,7 @@ _Please Note: The purpose of this content is to understand where to find GitLab'
 1. When asking questions about data privacy, Customers may also raise questions about security. Generally, such questions are best directed to the [Field Security Team](https://about.gitlab.com/handbook/engineering/security/security-assurance/field-security/#contact-the-field-security-team). However, the following resources may be useful in the first instance:
     - The [Security Practices handbook page](https://about.gitlab.com/handbook/security/) gives details about GitLab's organizational security.
     - GitLab's [Customer Assurance Package](https://about.gitlab.com/handbook/engineering/security/security-assurance/field-security/customer-assurance-package.html) provides details of GitLab's current Security and Compliance posture.
-    - GitLab documentation explaining how to [_Secure your application_](https://docs.gitlab.com/ee/user/application_security/), [_Secure your installation_](https://docs.gitlab.com/ee/security/README.html) and the [_GitLab permissions guide_](https://docs.gitlab.com/ee/development/permissions.html) are useful for helping customers understand steps they can take to secure the personal data processed in GitLab. 
+    - GitLab documentation explaining how to [_Secure your application_](https://docs.gitlab.com/ee/user/application_security/), [_Secure your installation_](https://docs.gitlab.com/ee/security/) and the [_GitLab permissions guide_](https://docs.gitlab.com/ee/development/permissions.html) are useful for helping customers understand steps they can take to secure the personal data processed in GitLab. 
 
 ## GitLab Legal Commercial Coverage Model and Best Practices for a Legal Call
 
