@@ -131,7 +131,7 @@ The following can help with your investigation:
 
 | Log or artifact | Notes |
 | --------------- | ----- |
-| [Stack trace](https://docs.gitlab.com/ee/ci/quick_start/README.html#viewing-the-status-of-your-pipeline-and-jobs) | Shown in the job's log; the starting point for investigating the test failure |
+| [Stack trace](https://docs.gitlab.com/ee/ci/quick_start/#viewing-the-status-of-your-pipeline-and-jobs) | Shown in the job's log; the starting point for investigating the test failure |
 | [Screenshots and HTML captures](https://docs.gitlab.com/ee/ci/pipelines/job_artifacts.html#browsing-artifacts) | Available for download in the job's artifact for up to 1 week after the job run |
 | [QA Logs](https://docs.gitlab.com/ee/ci/pipelines/job_artifacts.html#browsing-artifacts) | Included in the job's artifact; valuable for determining the steps taken by the tests before failing |
 | Sentry logs ([Staging](https://sentry.gitlab.net/gitlab/staginggitlabcom), [Staging Ref](https://sentry.gitlab.net/gitlab/staging-ref/), [Preprod](https://sentry.gitlab.net/gitlab/pregitlabcom/), [Production](https://sentry.gitlab.net/gitlab/gitlabcom/)) | If staging, preprod or production tests fail due to a server error, there should be a record in [Sentry](https://sentry.gitlab.net). For example, you can search for all unresolved staging errors linked to the `gitlab-qa` user with the query [`is:unresolved user:"username:gitlab-qa"`](https://sentry.gitlab.net/gitlab/staginggitlabcom/?query=is%3Aunresolved+user%3A%22username%3Agitlab-qa%22). However, note that some actions aren't linked to the `gitlab-qa` user, so they might only appear in the [full unresolved list](https://sentry.gitlab.net/gitlab/staginggitlabcom/?query=is%3Aunresolved). |
