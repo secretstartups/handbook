@@ -153,4 +153,4 @@ Every team member on the Data Team is encouraged to contribute to the handbook. 
 1. All MRs for handbook changes have an appropriate name which is important for tracking changes via the [Handbook Changelog](https://about.gitlab.com/handbook/CHANGELOG.html)). Please indicate that it's a Data Team handbook change.
 1. Tag applicable team member(s) that the MR would directly impact and allow 24-48 hours for the team members to review. It is a good practice to have even the smallest changes to the handbook reviewed by at least one team member. 
 1. Feel free to discuss/demo your handbook contribution during the Data Team demo meeting. 
-1. All MR's that contribute to the Data Team Handbook will get the label ~"BT Data Team" assigned.
+1. All MR's that contribute to the Data Team Handbook should be assigned the ~"BT Data Team" label.
