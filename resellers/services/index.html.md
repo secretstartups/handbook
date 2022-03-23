@@ -33,7 +33,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
    </td>
    <td style = "text-align: center">Coming in Q4 FY23
    </td>
-   <td style = "text-align: center">Available by Invite March 2022
+   <td style = "text-align: center">Available March 2022
    </td>
   </tr>
   <tr>
