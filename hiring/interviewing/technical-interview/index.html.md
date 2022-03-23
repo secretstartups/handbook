@@ -16,7 +16,7 @@ description: "Tips On How To Prepare For Your Technical Interview at GitLab."
 
 It is important to have knowledge of the GitLab product. We recommended getting some hands-on experience before your interview.  Spend time installing and using GitLab to get more familiar with the software and how to use it. Read through documentation and tutorials on using/configuring/troubleshooting GitLab.
 
-- Read the [Intro to GitLab](https://docs.gitlab.com/ee/README.html#new-to-git-and-gitlab)
+- Read the [Intro to GitLab](https://docs.gitlab.com/ee/#new-to-git-and-gitlab)
 - [Install GitLab](/install/) locally and explore the product
 - Have a look at [common issues](https://docs.gitlab.com/omnibus/common_installation_problems/)
 - Read through the online [forum](https://forum.gitlab.com/search?q=error) to see what errors stand out
