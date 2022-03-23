@@ -313,7 +313,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -Review the [GitLab Doc on Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/)
 *  **GitLab API (Material - GitLab Doc - 15 minutes)**
    -Automate GitLab via a simple and powerful API.
-   -Review the [GitLab Doc on API](https://docs.gitlab.com/ee/api/README.html)
+   -Review the [GitLab Doc on API](https://docs.gitlab.com/ee/api/)
 *  **GitLab for Agile (Material - 30 minutes)**
    -Agile development is iterative, incremental, and lean approaches to streamline and accelerate the delivery of projects. Ever wondered if GitLab supports Agile methodology? If you're considering using GitLab it might not be obvious how its features correspond with Agile artifacts, so we've broken it down for you in a blog and the GitLab Agile Planning page.
    -Review the [Agile Delivery page on the company website](https://about.gitlab.com/solutions/agile-delivery/)
