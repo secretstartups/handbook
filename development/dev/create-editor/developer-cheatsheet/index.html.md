@@ -78,7 +78,9 @@ See more detailed instructions for this process here: <https://gitlab.com/gitlab
 
 #### RubyMine Debugging
 
-##### Note on Rails Puma binding
+##### Debugging `rails-web`
+
+###### Note on Rails Puma binding
 
 By default, the Rails [puma configuration template which GitLab uses binds to a socket](https://gitlab.com/gitlab-org/gitlab-development-kit/blob/d948d5485e3f519688783dc92ad70d94f132e396/support/templates/puma.rb.erb#L44), instead of a TCP port.
 
@@ -99,7 +101,7 @@ Note that you **COULD** just not worry about any of this, and run a normal RubyM
 
 The following two sections explain how to do those two options.
 
-##### Setting up a RubyMine "Ruby" Run Configuration with puma using default socket binding (recommended)
+###### Setting up a RubyMine "Ruby" Run Configuration with puma using default socket binding (recommended)
 
 1. Make sure you have done `gdk stop rails-web` before each debugging session (and `gdk start rails-web` when you are done debugging)
 1. Set up a Ruby (NOT Rails) Run/Debug config like this in RubyMine:
@@ -110,7 +112,7 @@ The following two sections explain how to do those two options.
     - Environment Variables (Note: these are taken from the current GDK `Procfile`, they may become outdated): `RAILS_ENV=development;RAILS_RELATIVE_URL_ROOT=/;ACTION_CABLE_IN_APP=true;ACTION_CABLE_WORKER_POOL_SIZE=4`
 1. Start the config in Run or Debug.
 
-##### Setting up a RubyMine "Rails" Run Configuration with puma overridden to use TCP address binding
+###### Setting up a RubyMine "Rails" Run Configuration with puma overridden to use TCP address binding
 
 1. In your `gitlab-development-kit/gdk.yml`, add the following. You can use any port, and the hostname should be whatever you normally use - localhost, or gdk.test if you have that hostname set up.
     ```
@@ -126,6 +128,17 @@ The following two sections explain how to do those two options.
     - Port: `3001` (or whatever you put in `gdk.yml`)
     - Environment Variables (Note: these are taken from the current GDK `Procfile`, they may become outdated): `RAILS_ENV=development;RAILS_RELATIVE_URL_ROOT=/;ACTION_CABLE_IN_APP=true;ACTION_CABLE_WORKER_POOL_SIZE=4`
 1. Start the config in Run or Debug.
+
+##### Debugging `rails-background-jobs`
+
+To debug services run as background jobs, you will need to set up debugging for `rails-background-jobs`, in addition to the `rails-web` debugger. The setup is similar, although you're connecting to the sidekiq process instead of puma.
+
+1. Make sure you have done `gdk stop rails-background-jobs` before each debugging session (and `gdk start rails-background-jobs` when you are done debugging)
+1. Set up a Ruby (NOT Rails) Run/Debug config like this in RubyMine:
+    - Name: `Development: gitlab-sidekiq`
+    - Ruby Script: `/Users/YOUR_USER/.asdf/installs/ruby/RUBY_VERSION/bin/sidekiq`
+    - Working Directory `/Users/YOUR_USER/PATH_TO/gitlab-development-kit/gitlab/`
+    - Environment Variables (Note: these are taken from the current GDK `Procfile`, they may become outdated): `SIDEKIQ_VERBOSE=false;SIDEKIQ_QUEUES=default,mailers,email_receiver,hashed_storage:hashed_storage_migrator,hashed_storage:hashed_storage_project_migrate,hashed_storage:hashed_storage_project_rollback,hashed_storage:hashed_storage_rollbacker,project_import_schedule,service_desk_email_receiver;BUNDLE_GEMFILE=/Users/YOUR_USER/PATH_TO/gitlab-development-kit/gitlab/Gemfile;SIDEKIQ_WORKERS=1;ENABLE_BOOTSNAP=true;RAILS_ENV=development;RAILS_RELATIVE_URL_ROOT=/;GITALY_DISABLE_REQUEST_LIMITS=false `
 
 ## Git Tips
 
