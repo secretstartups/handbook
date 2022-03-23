@@ -232,31 +232,38 @@ Once the customer has approved the request, disable 2FA on the user's account, a
 
 ## **Account Ownership Changes**
 
-There are some conditions under which a change of ownership may be requested by a company with a business relationship with GitLab.
-Our [support page](https://about.gitlab.com/support/#ownership-disputes) outlines that these processes are not available for unpaid groups.
+There are some conditions under which a change of ownership may be requested by a company with a business relationship with GitLab. Our [support page](https://about.gitlab.com/support/#ownership-disputes) outlines that these processes are not available for unpaid groups.
 
-The end result of a successful request is a new or existing user in the namespace will have the Owner role.
+The end result of a successful request is a new or existing user in the namespace will have the `Owner` role.
 
 ### Account Ownership Change Request for Paid Groups
 
 Account Ownership Change Requests are initiated when the sole Owner of a group leaves a company and an authorized representative of the company is seeking to regain access. This process should be a last resort, and self-service options should be pursued first.
 
-If a request is received, verify:
+When a request to change ownership of a group is received perform the steps in the following sections in order.
 
-1. Current paid subscription is applied to the namespace.
-1. Sole Owner's primary email address matches company domain.
-1. Requestor has a GitLab.com account. Typically this user will already be a member but is not Owner.
+#### Verify Eligibility
 
-Ensure that the requestor has exhausted all self-service options:
+1. A current paid subscription is [applied to the namespace](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#view-your-gitlab-saas-subscription).
+1. The sole owner's primary email address matches the company domain.
+1. The requestor has a GitLab.com account. Typically this user will already be a member of the group but is not currently an owner.
 
-- If the existing Owner's account does not have 2FA, suggest they issue a password reset and claim the account directly.
-- If the existing Owner's account does have 2FA, suggest contacting the previous Owner to provide the one time password, backup codes or private ssh key to regain access.
+#### Offer Self-Service Options
 
-If no Self-service options are viable, follow the steps below:
+1. Use the [`Support::SaaS::Account Ownership Change Request (Self-Service Options)`]() macro.
 
-1. Use [`Support::SaaS::Account ownership change verification (Self-service option not possible)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073396100) macro
-1. If possible, add the account owner or account manager in the CC.
-1. Once we received the necessary document, double check all the requested information is included. If not, let them know what's missing. If all required elements are present, follow the next step.
-1. Create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using [`Legal::General` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
-1. After receiving approval: add or elevate the requested user to Owner role.
-1. [Add an admin note](admin_note.html) on the group admin page.
+If the requestor replies back that self-service options are not possible, proceed to the next section.
+
+#### Escalate to Legal
+
+1. Use the [`Support::SaaS::Account Ownership Change Request (Self-Service Not Possible)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073396100) macro.
+
+1. If possible, CC the account owner on the ticket.
+
+1. Once we've the document (in PDF format) from the requestor, double check that all the requested information is included. If anything is missing, have the requestor provide it and do not proceed to the next step until we have everything.
+
+1. Create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using the [`Legal::General` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
+
+1. Add or elevate the requested user to `Owner` role once approval is received by Legal.
+
+1. [Add an admin note](admin_note.html) on the group's admin page noting what was done.
