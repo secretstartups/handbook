@@ -67,7 +67,7 @@ Internal reviewers for these languages that will review via Smartling:
 
 | Language | Reviewers |
 | -------- | --------- |
-| German | @KSetschin, @lmertensmeyer |
+| German | @KSetschin |
 | Russian | @KSetschin, @V_Rusin, @dzalbo, @igor.drozdov |
 | Japanese | @toshitakaito, @emorita, @yuki_murakami, @Tea_Tatsuki, @mueda1 |
 | Korean | @taehohyun, @iyoo |
