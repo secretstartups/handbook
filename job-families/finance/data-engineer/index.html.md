@@ -80,6 +80,7 @@ The Staff Data Engineer is a [grade 8](/handbook/total-rewards/compensation/comp
 * Interact with customers and other external stakeholders as a consultant and spokesperson for the work of your team
 * Provide mentorship for all on your team to help them grow in their technical responsibilities
 * Propose ideas to improve the scale, performance, and capabilities of the Data Platform
+
 ## Performance Indicators (PI)
 
 *   [SLO achievement per data source](/handbook/business-ops/metrics/#slo-achievement-per-data-source)
