@@ -119,6 +119,13 @@ You will be receiving an invitation from `no-reply@collage.co` with a personaliz
 
 Member ID: When you complete your digitial enrollment, Collage will populate a Member ID # for you. You can find the Member ID # in the Benefits Tab on your Collage profile page. You may need this number to complete your Evidence of Insurability form or your Beneficairy Designation form.
 
+### Updating Beneficiary Information
+
+In order to assign a beneficiary for the Life Insurance plan, team members should download the "Beneficiary Form"  on the [Canada Life Beneficiary webpage](https://www.canadalife.com/support/forms/plan-administrators/apply-or-make-changes-to-group-coverage-or-beneficiary-trustee-i/beneficiary-or-trustee-change.html). If the beneficiary is a minor, please also download the "Trustee Appointment" form. Canada Life requires a wet signature on these forms, so please print, complete, and scan back the forms to Total-rewards@gitlab.com and Darren@scinsurance.ca.
+
+Please note that there is a seperate process for electing a beneficiary for the RRSP plan. 
+
+
 ### Updating Coverage Status and Enrollment of Domestic Partners, Spouses, and Dependents
 
 For instructions on adding your spouse, dependents, and updating your coverage stutus, please review the [Employee Collage Benefits HQ Handbook](https://drive.google.com/file/d/1Ph5ur-tguZ0EIWXCaJvmWlUOhnfcy7X9/view?usp=sharing) 
