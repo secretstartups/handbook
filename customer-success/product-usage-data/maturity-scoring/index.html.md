@@ -27,6 +27,7 @@ The following primary and ancillary metrics are used to determine a customer's C
 <br>
 ![CI Maturity Scoring](/handbook/customer-success/product-usage-data/maturity-scoring/ci-maturity-scoring.png)
 <br>
+[Adoption Guide Reference Link](/handbook/marketing/strategic-marketing/usecase-gtm/ci/#adoption-guide)
 
 In this (internal) video a fellow TAM walks you through:
 - how the CI maturity score is calculated 
