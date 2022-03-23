@@ -101,7 +101,6 @@ These are pages that are using Slippers CSS in the `frontmatter`, or using `2020
 These are pages that have been built in our [Storybook](https://gitlab-com.gitlab.io/marketing/inbound-marketing/slippers-ui) instance, and ported over to `about.gitlab.com`:
 - [Blog pages](https://about.gitlab.com/blog/2018/10/05/how-i-transitioned-from-frontend-to-ux/)
 - [DevSecOps Survey](https://about.gitlab.com/developer-survey/)
-- [DevOps Download](https://about.gitlab.com/devops-download/)
 - Event Template (coming soon!)
 - Site Navigation and Footer (coming soon!)
 
