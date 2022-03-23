@@ -42,6 +42,8 @@ Along with the index, knowing *when* a specific error or event ocurred that you'
 
 #### Fields and Filters
 
+**Note:** As of March 2022, using `Filters` is the recommended way for searching Kibana. Using the general search box is discouraged as it may generate several errors in the form of `X of Y Shards Failed`. See [Infra Issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15207).
+
 Each log entry is comprised of a number of `Fields` in which the specific information about the entry is displayed. Knowing which fields to apply to your search results and how to filter for them is just as important as knowing *where* and *when* to search. The most important fields are:
 
 - `json.method`
