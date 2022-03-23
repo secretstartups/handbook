@@ -144,15 +144,15 @@ When creating promotion documents, remember:
 
 GitLab tracks the following promotion metrics in [Sisense](https://app.periscopedata.com/app/gitlab/756370/Promotion_Rate)
 
-1. Internal Mobility
+##### Internal Mobility
 
 GitLab tracks Internal Mobility rate. Market data indicates that a 12% rolling promotion rate as the guideline for what we should see on average across the company for promotions. This is a guideline/target for business leaders to understand where they fall against what is considered standard in the market, not a restriction/cap. 
 
-2. Average % Compensation Change
+##### Average % Compensation Change
 
 GitLab targets an average of [5-10% compensation change](/handbook/people-group/promotions-transfers/#recommend-a-compensation-increase) in general for promotions. This metric is in place to ensure we are consistent and equitable across the company when allocating promotion compensation raises to team members, in addition to ensuring competitive and meaningful promotion increases across the board. 
 
-3. Budget Impact (see below) 
+##### Budget Impact (see below) 
 
 FP&A tracks budget impact by Department/Division on a quarterly basis
 
