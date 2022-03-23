@@ -72,6 +72,7 @@ The Staff Data Engineer is a [grade 8](/handbook/total-rewards/compensation/comp
 
 * All requirements of a Senior Data Engineer
 * Ship large features and foundational improvements with minimal guidance and support from other team members
+* Support other data team members with the shipping of new features by setting direction and providing guidance
 * Solve technical problems of the highest scope and complexity
 * Exert significant influence on the long-range goals
 * Define and extend our internal standards for style, maintenance, and best practices for a high-scale data platform
