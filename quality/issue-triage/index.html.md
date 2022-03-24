@@ -101,22 +101,22 @@ If a issue seems to fall between two severity labels, assign it to the higher se
 
 ### Availability
 
-Issues with `~availability` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~"type::bug"`. For the purposes of [Incident Management](/handbook/engineering/infrastructure/incident-management/), incident issue severities are chosen based on the `availability` severity matrix below.
+Issues with `~availability` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~"type::bug"`. 
+
+For the purposes of [Incident Management](/handbook/engineering/infrastructure/incident-management/), incident issue severities are chosen based on the `availability` severity matrix below.
 
 We categorize these issues based on the impact to GitLab.com's customer business goal and day to day workflow.
 
-The prioritization scheme adheres to our [product prioritization](/handbook/product/product-processes/#how-we-prioritize-work) where security and availability work are prioritized over feature velocity.
+The prioritization scheme adheres to our [product prioritization](/handbook/product/product-processes/#prioritization) where security and availability work are prioritized over feature velocity.
 
-The presence of these severity labels modifies the standard severity labels(`~severity::1`, `~severity::2`, `~severity::3`, `~severity::4`) by additionally taking into account the impact as described below. The severity of these issues may change depending on the re-analysis of the impact to GitLab.com customers.
-
-If, when selecting a severity for an availability issue, the availabilty impact is unclear or meets aspects of more than one severity in the table (example: the issue only impacts 5% of our users, but no workaround is available), select the highest severity applicable to the issue.
+The presence of these severity labels modifies the standard severity labels(`~severity::1`, `~severity::2`, `~severity::3`, `~severity::4`) by primarily taking into account the impact to users. The severity of these issues may change depending on the re-analysis of the impact to GitLab.com users.
 
 | Severity | Availability impact | Time to mitigate (TTM)(1) | Time to resolve (TTR)(2) | Minimum priority |
 |-|-|-|-|-|
-| `~severity::1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow<br/><br/>Impacts 50% or more of users<br/><br/>Consistently reproducible<br /><br />**AND/OR**<br /><br />Any roadblock that puts the [guaranteed self-managed release date](/handbook/engineering/releases/#timelines) at risk<br /><br />**AND/OR**<br /><br />Any data loss directly impacting customers | Within 8 hrs | Within 48 hrs | `~priority::1` |
-| `~severity::2` | Significant impact on GitLab.com and customer's day-to-day workflow. Customers have an acceptable workaround in place.<br/><br/>Impacts between 25%-50% of users<br/><br/>Consistently reproducible<br/><br/>**AND/OR**<br/><br/>Deployment blocking incident anywhere in the deployment pipeline | Within 24 hrs | Within 7 days |  `~priority::1` |
-| `~severity::3` | Broad impact on GitLab.com and minor inconvenience to customer's day-to-day workflow. No workaround needed.<br/><br/>Impacts up to 25% of users<br/><br/>Inconsistently reproducible | Within 72 hrs | Within 30 days | `~priority::2` |
-| `~severity::4` | Minimal impact on GitLab.com, no known customers affected<br/><br/>Impacts less than 5% of users<br/><br/>Inconsistently reproducible | Within 7 days | Within 60 days | `~priority::3` |
+| `~severity::1` | Problem on GitLab.com blocking the typical user's workflow<br/><br/>Impacts 20% or more of users without an available workaround<br/><br/>**AND/OR**<br/><br/>Any roadblock that puts the [guaranteed self-managed release date](/handbook/engineering/releases/#timelines) at risk (use ~backstage label)<br /><br/>**AND/OR**<br/><br/>Any data loss directly impacting customers | Within 8 hrs | Within 48 hrs | `~priority::1` |
+| `~severity::2` | Problem on GitLab.com blocking the typical user's workflow<br/><br/>Impacts 20% of more of users, but a reasonable workaround is available.<br/><br/>Impacts between 5%-20% of users without an available workaround<br/><br/>**AND/OR**<br/><br/>Deployment blocking incident anywhere in the deployment pipeline | Within 24 hrs | Within 7 days |  `~priority::1` |
+| `~severity::3` | Broad impact on GitLab.com and minor inconvenience to typical user's workflow. No workaround needed.<br/><br/>Impacts up to 5% of users | Within 72 hrs | Within 30 days | `~priority::2` |
+| `~severity::4` | Minimal impact on GitLab.com typical user's workflow to less than 5% of users <br/><br/>May also include incidents with no impact, but with importance to resolve to prevent future risk| Within 7 days | Within 60 days | `~priority::3` |
 
 (1) - Mitigation uses non-standard work processes, eg. hot-patching, critical code and configuration changes. Owned by Infrastructure department, leveraging available escalation processes (dev-escalation and similar)
 
