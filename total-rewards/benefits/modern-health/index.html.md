@@ -11,9 +11,9 @@ description: Information on GitLab's Employee Assistance Program.
 {:toc .hidden-md .hidden-lg}
 
 
-## Employee Assistance Program
+## Mental Wellness Services
 
-GitLab offers an Employee Assistance Program to all team members via [Modern Health](https://www.joinmodernhealth.com/). Modern Health provides technology and professional support to help reduce stress, feel more engaged, and be happier. Through GitLab, you have access to 5 coaching sessions and 6 therapy sessions at no cost to you as well as 100+ digital programs & mediations and unlimited live provider-led group sessions or circles.
+GitLab offers mental health care services to all team members via [Modern Health](https://www.joinmodernhealth.com/). Modern Health provides technology and professional support to help reduce stress, feel more engaged, and be happier. Through GitLab, you have access to 5 coaching sessions and 6 therapy sessions at no cost to you as well as 100+ digital programs & mediations and unlimited live provider-led group sessions or circles.
 
 For more information on Modern Health and getting started, we recorded an [information session](https://drive.google.com/file/d/1dodfWAPP3XDWUmDI9bB5jaqxOe3Bieqe/view?usp=sharing) in April 2021 and another session in [December 2021](https://drive.google.com/file/d/1emrCtcTiOJzxma1895qOzEXLKtpXsj9d/view?usp=sharing) that walks a team member through valuable information about this benefit and how to start utilizing it.
 
@@ -131,6 +131,20 @@ Before your first session, we encourage you to ask yourself a few questions. As 
 
 **What happens if my provider isn’t a good fit?**
 Our goal at Modern Health is to find someone that you feel you can do good work with and who can do good work with you! If you think the first person you meet with doesn’t seem like a good fit, just let the Modern Health team know (help@joinmodernhealth.com) and they will connect you with someone new.
+
+### Modern Health Manager Resources
+
+Managers can set up Coaching Sessions through Modern Health to receive guidance on managing a team, including advice on how to best support your team's mental health.
+
+Once you register for your Modern Health account, you can add "Managing Others and Supporting a Team" to your topics of focus and schedule a session.
+
+In addition to Coaching, please see additional Modern Health Manager Resources: 
+
+* [How To Lead Conversations Around Mental Wellness Video](https://youtu.be/P0jk8fIDlt8?list=PLZoFVlbgk0-O7jumbk28ItgOUjVrGUFdy) & [Flyer](https://drive.google.com/file/d/1sPNzCQGjfFuaqvgQ2w_d5hM_u3bEKSbP/view?usp=sharing)
+* [Steps to address Stress & Burnout in the Workplace](https://drive.google.com/file/d/1WrhE2uXtRjhsi8EjkY26Lu_IzNH3lo0p/view?usp=sharing)
+* [Self-Guided Digital Resources for Managers](https://drive.google.com/file/d/1yEE4W-ttxC7pumjzius97hnE_g_Ggtlv/view?usp=sharing) 
+
+
 
 ### Logistics
 
