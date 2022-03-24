@@ -232,11 +232,13 @@ See the [Customer Success Playbooks page](https://about.gitlab.com/handbook/cust
 1. Click **Preview and Proceed** to see the fully populated and formatted email before sending.
 1. Send the email, or save as a draft.
 
-## A/B testing for digital customers
+## A/B testing and control groups for digital customers
 
 We apply [A/B testing](https://hbr.org/2017/06/a-refresher-on-ab-testing) to every digital-only program. The Customer Success Operations team created a rule that puts each customer into either A or B.
 
 See more about how we set up A/B testing on the [issue page](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/230).
+
+Control groups are also used for digital customers in order to measure the impact and effectiveness of our programs. We use the insights to make adjustments and validate the value provided. Once validated, we remove control groups for long term programs that improve our customers' experience. This can mean that a small percentage of customers may not receive onboarding or enablement content during pilot programs. 
 
 ## Program update tracker
 
