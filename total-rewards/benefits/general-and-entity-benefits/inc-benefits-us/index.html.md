@@ -80,11 +80,13 @@ Review the [PlanSource Login & Enrollment](https://drive.google.com/file/d/1py7C
 
 ### Group Medical Coverage
  
-GitLab offers plans from Cigna for all states within the US as well as additional Kaiser options for residents of California, Hawaii, and Colorado. Deductibles for a plan year of 2022-01-01 to 2022-12-31.
+GitLab offers plans from Cigna, as well as additional Kaiser options for residents of California, and Colorado. Hawaii residents are offered Kaiser options for medical plan enrollment. 
+
+ Deductibles are for plan year of 2022-01-01 to 2022-12-31.
  
 If you already have current group medical coverage, you may choose to waive or opt out of group health benefits. If you choose to waive health coverage, you will receive a $300.00 monthly benefit allowance and will still be able to enroll in dental, vision, optional plans, and flexible spending accounts. In order to receive the monthly benefit allowance you must log on to PlanSource and actively waive medical cover. 
  
-If you do not enroll in a plan within your benefits election period, you will automatically be enrolled in the High Deductible Health Plan (HDHP).
+**If you do not enroll in a plan within your benefits election period, you will automatically be enrolled in the High Deductible Health Plan (HDHP).**
  
 GitLab has confirmed that our medical plans are CREDITABLE. Please see the attached [2021 notice](https://drive.google.com/file/d/1_w2svtOAP09lVKLWXsKzyLhZdlmB2ElZ/view?usp=sharing) and page 7 of the [2022 Annual Notice](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing). If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D. For more information about Medicare prescription drug coverage:
 - Visit [www.medicare.gov](www.medicare.gov)
@@ -134,6 +136,7 @@ If your Qualifying Life Event requires documentation the steps below will follow
  
 **Coverages:**
  
+Cigna plans are available to team members located in all US states, with the exception of Hawaii. 
  The Cigna 2022 plan details include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits.
  
 In Network:
@@ -219,9 +222,11 @@ Benefits for services and supplies received outside the Service Area are covered
 #### Kaiser Medical Plans
  
 ##### Kaiser 2022 Calendar Year Plans
- 
-In addition to the Cigna plans offered above, the following plans are also an option for team members in the United States located in California, Colorado, and Hawaii.
- 
+
+The following Kaiser options are availble for Hawaii residents.
+Residents in California and Colorado have the Kaiser options below, in addition to the Cigna plan options. 
+
+
 **Coverages:**
 
  The Kaiser 2022 plan details will include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits. Review the [Kaiser Permanente Chiropractic and Acupuncture Benefits flyer](https://drive.google.com/file/d/1UtDITIjSk43hPDYml-bNubmju4qIx_Ac/view?usp=sharing) for more information on these plans. 
