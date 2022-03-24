@@ -42,8 +42,22 @@ Please note that sometimes the ticket submitter might not be the user making the
 1. Locate the accounts linked to the user's namespace in Customers Portal
 1. Check that ALL subscriptions in ALL customer accounts are expired
 1. Confirm that the namespace is on a `Free` plan
-1. If the namespace is on `Free` and has no active subscriptions:
-   - Use the [Clear Subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) to unlink the expired subscription from the namespace
+1. If the namespace is on `Free` and has no active subscriptions, you can proceed to [unlink the expired subscription](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#clear-subscription) from the namespace:
+   1. Locate the customer's account in CustomersDot by searching using the domain part of their email address.
+      - If the results of the search are many, you can search using the full email address.
+   1. Locate the proper accounts in CustomersDot and navigate to the `Zuora Subscriptions` page
+   1. Note the `Name` of the subscription with an `End Date` that has passed. *Most subscription names have the format A-S000xxxx*
+   1. Confirm that the subscription you have located is linked to the namespace:
+      - Click on the `Impersonate` tab. You will see the landing page of the Customers Portal with the heading `Manage Purchases`
+      - Check the listed products whose `Start Date` is 1 year ago. These products will have expired.
+      - Check the Title of the product that is usually located above the subscription name (A-S000xxxx). If this title is the same as the `Product Name` listed in the table, then it is **NOT** linked. Otherwise, this title displays the **Name of the group** (not the [namespace](https://docs.gitlab.com/ee/user/group/#namespaces)) that it is linked to.
+      - Confirm the subscription name of the product whose title shows the customer's namespace. You will use the **Subscription Name** in the next step
+   1. Open the [Clear Subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) to unlink the expired subscription:
+      - Enter your GitLab username
+      - Enter the **Subscription Name**
+      - Click `Send`
+      - Wait for an issue in the [internal requests issue tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?sort=created_date&state=all&label_name[]=Mechanizer::Clear+Subscription) that will be assigned to you automatically by Mechanizer
+      - Check that the issue reports a successful `Subscription Unlinked` message. If this fails, add the label `Console Escalation::Customers` and comment with the ZD ticket link and/or ask for assistance in #support_licensing-subscription.
 1. If the namespace is on a paid plan, request the user to:
    1. Create a new [Customers Portal](https://customers.gitlab.com/customers/sign_in) account
    1. [Link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account)
