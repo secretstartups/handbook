@@ -84,11 +84,13 @@ It is not a performance evaluation or a step for a future promotion.
 1. Review my [readme](/handbook/engineering/readmes/wayne-haber/).
 1. Join the slack channel `#sec-growth-modelops-people-leaders`.
 1. Re-read GitLab's values prior to your shadow rotation, and be mindful of new and inventive ways that [CREDIT](/handbook/values/#credit) is lived out during the meetings you attend.
+1. Confirm you have been added to the [wayne shadow program google group](https://groups.google.com/a/gitlab.com/g/wayne-shadow-program/members) so you will have access to private documents
 
 ## What to do after you participate
 
 1. After your shadow completes, I would love to hear feedback on the program, what you learned, what you liked, what you didn't like, feedback on what I can do better, etc.
 1. Consider sharing your learnings with your team and other peers via a blog, slack summary, etc.
+1. Remove yourself from the [wayne shadow program google group](https://groups.google.com/a/gitlab.com/g/wayne-shadow-program/members) 
 
 ## Are other directors in engineering also allowing shadows?
 
