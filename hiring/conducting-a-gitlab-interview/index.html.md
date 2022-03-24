@@ -189,6 +189,8 @@ Scoring is defined as follows:
 
 ##### Engineering division
 
+The scoring definitions below were set for Engineering in effort to keep an even distribution among scores, where `Strong yes` and `Strong no` are weighted more equally than seen in the above scoring definitions for other divisions. This allows interviewers to score candidates evenly, leaning towards `Yes` or `No` unless something extradoinary happens to earn a `Strong yes` or `Strong no`.
+
 * `Strong Yes`
   * Extends `Yes`
   * Meets an unusually large proportion of our "nice to have” criteria for the role
