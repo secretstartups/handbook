@@ -89,6 +89,8 @@ We will continue our always-on and continually-optimized capabilities-focused ca
 
 To view a diagram of Business Initiatives > Solutions > Capabilities, go to your Google Drive and search `Maturity Model`. This is only accessible by GitLab team members. This is owned and managed by Portfolio Marketing. If you have questions about the maturity model, please direct them to the [#portfolio-marketing slack channel](https://gitlab.slack.com/archives/CPTKGRXHP).
 
+View this [MURAL](https://app.mural.co/t/gitlab2474/m/gitlab2474/1619125370999/270c2d5df5a535223c053f2dba0d06833f9b92d1?sender=jgragnola2053) for a visual of our campaigns and how they lead to activation strategies by segment/geo. These are owned by Marketing Campaigns. If you have any quesitons, please direct them to the [#marketing-campaigns slack channel]().
+
 ## Campaign Core Teams
 
 The  each include a [Core Team](/handbook/marketing/plan-fy22#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22#beyond-core-teams) below.
