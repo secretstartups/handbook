@@ -10,7 +10,7 @@ The Fullstack Engineering Manager specializes in Engineering Management as a man
 The *Fullstack Engineering Manager* role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
-* Manage a [combined team](https://about.gitlab.com/handbook/engineering/#fullstack-teams) of engineers.
+* Manage a [combined team](https://about.gitlab.com/handbook/engineering/starting-new-teams/#fullstack-teams) of engineers.
 * Help your engineers grow their skills and experience
 * Author project plans for epics
 * Run agile project management processes
@@ -25,7 +25,7 @@ The *Fullstack Engineering Manager* role is a [grade 8](/handbook/total-rewards/
 * Foster technical decision making on the team, but make final decisions when necessary
 * Draft quarterly OKRs and [Engineering KPIs](/handbook/business-ops/data-team/metrics/#engineering-kpis)
 * Improve product quality, security, and performance
-* May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/#starting-new-teams) concept
+* May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/starting-new-teams/#team-construction) concept
 * Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
