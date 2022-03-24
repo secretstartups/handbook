@@ -71,7 +71,8 @@ Coupa is available via Okta. To access the platform:
 1. Click on the Coupa (Prod) button.
    - A new tab should open with your user logged in.
 
-Every month all Coupa access will be reviewed and users who haven't been active in a period of 90 days will have their access removed.
+Every month all Coupa access will be reviewed and users who haven't been active in a period of 90 days will have their access removed. _Note that this number may vary depending on the license count for the current month._
+
 If you need to request access again, please reopen your initial Access Request issue and tag the Finance Systems Admins team using `@gitlab-com/business-technology/enterprise-apps/financeops` in a comment.
 {: .alert .alert-warning}
 
