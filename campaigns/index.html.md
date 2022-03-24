@@ -26,16 +26,21 @@ In an effort to continually improve our ability to derive success of campaigns, 
 {: #campaign-bundles .gitlab-purple}
 _The list below includes recommended items included in a **Campaign Bundle**, which is developed by the Campaign Core Team consisting of Campaigns, Product Marketing, Technical Marketing, Content Marketing, and Digital Marketing.
 
+To see a visual of campaign bundles, which are then leveraged in activation plans, please see [this MURAL](https://app.mural.co/t/gitlab2474/m/gitlab2474/1619125370999/270c2d5df5a535223c053f2dba0d06833f9b92d1?sender=jgragnola2053).
+
 **What is included in a Campaign Bundle?**
-* Buyer personas
-* Messaging and positioning framework
+* Target personas
+* Persona-based positioning and messaging
 * Market landscape
 * Product capabilities
 * Buyer journey content (including awareness, consideration, and decision stages)
 * Analyst relations content (if available)
 * Customer references
+* Emails for content in buyer journey
+* Creative for ads, emails, landing pages
 * Alliance partner joint GTM campaigns and activities
 * Channel partner "Instant Campaigns"
+* Outreach sequences/templates
 * SDR enablement
 
 ## Campaign Core Teams
