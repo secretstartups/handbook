@@ -14,7 +14,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 ## Integrated Campaigns Overview
 {: #integrated-campaigns .gitlab-purple}
 
-The goal of GitLab integrated campaigns is to strategically land a cohesive message to a target audience across a variety of channels and offers dependent on the goals of the campaign. Content types include a combination of blog posts, webinars, whitepapers, reports, videos, case studies, and more. Channels include digital ads, social, paid social, SEO, PR, email, and more.
+The goal of a GitLab integrated campaign is to strategically land a cohesive message to a target audience across a variety of channels and offers, dependent on the goals of the campaign. Content types include a combination of blog posts, webinars, whitepapers, reports, videos, case studies, and more. Activation of the campaigns takes place in a number of marketing channels include digital ads, social, paid social, SEO, PR, email, and more.
 
 **Campaign Managers** are responsible for the strategizing of integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
 
@@ -22,8 +22,31 @@ In an effort to continually improve our ability to derive success of campaigns, 
 
 **Questions? Please feel free to ask in the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-campaigns.**
 
-## Campaign Bundles
+## Who creates new campaigns? 
+{: #campaign-core-teams .gitlab-purple}
+### :star: Campaign Core Teams
+{:.no_toc .hidden-md .hidden-lg}
+
+A campaign core team is comprised of functional DRIs across marketing and revenue programs.
+
+**Campaign core team members:**
+* Campaigns (DRI)
+* Product Marketing
+* Technical Marketing
+* Content Marketing
+* Revenue Programs
+* Brand
+* Corporate Marketing (Liaison for activation)
+* Field Marketing (Liaison for activation)
+
+
+## What is a campaign bundle?
 {: #campaign-bundles .gitlab-purple}
+### :star: Campaign Core Teams
+{:.no_toc .hidden-md .hidden-lg}
+
+Think of a **campaign bundle** as the foundational pieces of an integrated campaign. They are used by all teams in marketing and sales to maintain a cohesive message and branding across all tactics and activities aligned to the topical campaign.
+
 _The list below includes recommended items included in a **Campaign Bundle**, which is developed by the Campaign Core Team consisting of Campaigns, Product Marketing, Technical Marketing, Content Marketing, and Digital Marketing.
 
 To see a visual of campaign bundles, which are then leveraged in activation plans, please see [this MURAL](https://app.mural.co/t/gitlab2474/m/gitlab2474/1619125370999/270c2d5df5a535223c053f2dba0d06833f9b92d1?sender=jgragnola2053).
@@ -42,11 +65,6 @@ To see a visual of campaign bundles, which are then leveraged in activation plan
 * Channel partner "Instant Campaigns"
 * Outreach sequences/templates
 * SDR enablement
-
-## Campaign Core Teams
-{: #campaign-core-teams .gitlab-purple}
-
-
 
 
 ## In Progress and Future Campaigns
