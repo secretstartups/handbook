@@ -11,48 +11,42 @@ description: How to send notices out to GitLab.com users and customers to inform
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Overview
+## Overview
 
-Support may be asked by various teams within GitLab to send notices out to GitLab.com users and customers, to inform them of actions that we have taken (or will be taking) on namespaces under their control.
+At times the CMOC will be asked to send notices to GitLab SaaS users or customers to inform them of actions that we have taken (or will be taking) on namespaces or projects under their control. These notices are sent in the form of Zendesk tickets. The tickets will always be sent to users with `Owner` level permissions in the namespace or project in question.
 
-We may also occasionally need to inform certain users of a feature they use that will be deprecated. This workflow describes the various [Zendesk macros](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_macros.html) that we can use to inform users, and the steps that a GitLab.com Support Engineer must take.
+Most contact requests will involve contacting all of the owners of only one project or only a few specific users. However, some may involve contacting all of the owners of multiple projects.
 
-**NOTE:** If none of the below situations apply, you can use the generic [`Support::SaaS::Notices::General Contact Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360013369860) macro in Zendesk and adjust the wording as needed. Leave an internal note (with a link to any relevant [internal-request issue](https://about.gitlab.com/handbook/support/workflows/internal_requests.html#contact-request)).
+If you're tasked with contacting the owners of a project and know that there's only one, feel free to look up their email address using your admin account or [ChatOps](https://about.gitlab.com/handbook/support/workflows/chatops.html#user).
 
-### Blocked Accounts
+This workflow describes how to fulfill different types of contact requests and the tools used for each.
 
-**Macro:** [`Support::SaaS::Notices::Account Blocked`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Notices/Account%20Blocked.yaml)
+## Tools
 
-We may be asked by infrastructure either through an issue or Slack to notify a user or customer that their account has been temporarily blocked for some reason. In these cases, do the following:
+The following tools can be used to facilitate different types of contact requests.
 
-1. Copy the link to the issue where it's mentioned that the user was blocked. If none exists, create one in [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/issues) with the details.
-1. Create a new ticket in Zendesk with the requestor as the **primary email address** of the user that is being blocked and apply the macro.
-1. If the user has a subscription, review the organization notes and check for alternate contacts that should be added as a CC to the case.
-1. If the organization has a TAM, reach out to the TAM on Slack to inform them of the blocked user, and add them as a CC on the ticket.
-1. Supplement the response provided by the macro with the specific reasoning for the block and send it.
-1. Add a note to the ticket that contains a link to the issue.
-1. Add an [admin note](admin_note.html) to the blocked account that links to the issue. If you do not have GitLab.com admin access, you may [use ChatOps to do this](https://gitlab.com/gitlab-com/chatops/-/blob/master/lib/chatops/commands/user.rb) instead.
+### Email Grab Script
 
-### Mirror Abuse
+The [Email Grab Script](https://gitlab.com/gitlab-com/support/runbooks/-/blob/master/code/group_project_user_owner_emails.rb) is a Ruby script that will return the primary email addresses of the owners of a group or project. Currently, it can only be used if you possess a GitLab SaaS admin account. It can also be supplied only a list of usernames, in which case it will return the primary email addresses of those users. To use it:
 
-**Macros:**
+1. Install the required [labclient](https://rubygems.org/gems/labclient/versions/0.5.1) gem with `gem install labclient`.
+1. Copy the script to your local machine and give it a name, like `emailgrab.rb`.
+1. Replace `YourSuperSweetPAT` with a `read_api` scoped PAT from your GitLab SaaS admin account.
+1. [Comment out](https://docs.ruby-lang.org/en/3.0/doc/syntax/comments_rdoc.html) the sections of the script that you will not be using, either `groups`, `users`, or `projects`.
+1. Add your data to the section you will be using.
+1. Run the script with `ruby emailgrab.rb`.
 
-- [`GitLab.com::Notices::Mirror Abuse - Personal Namespace`](https://gitlab.zendesk.com/agent/admin/macros/360079851114)
-- [`GitLab.com::Notices::Mirror Abuse - Group`](https://gitlab.zendesk.com/agent/admin/macros/360079650593)
+The results will be created as `namespace-contacts.csv` in the same directory that the script is located in.
 
-Infrastructure may ask us to notify a particular user or group that the mirror of either [`gitlab-ce`](https://gitlab.com/gitlab-org/gitlab-ce) or [`gitlab-ee`](https://gitlab.com/gitlab-org/gitlab-ee) that they've recently created with the `Trigger pipelines for mirror updates` option enabled has caused extreme load on our shared runner fleet. In these cases, do the following:
+### Customer Ticket Generator
 
-1. Create a new ticket in Zendesk with the requestor set to one of the following:
-    - For **personal namespaces:** set it to the **primary email address** of the user.
-    - For **groups**: set it to the **primary email address** of any user in the group with `Owner` permissions.
-        - Add each other `Owner` of the group as a CC to the ticket.
-1. Apply the appropriate macro, either `Mirror Abuse - Personal Namespace` **or** `Mirror Abuse - Group`.
-1. Replace any placeholder information in the response provided by the macro and send it.
-1. Provide a link as an internal note in the ticket to the issue where this was brought to our attention.
-1. Provide a link to the ticket in the issue where this was brought to our attention.
-1. Be prepared to follow up with infrastructure if necessary should the user(s) respond back with any questions or comments.
+The [Customer Ticket Generator](https://gitlab-com.gitlab.io/support/support-ops/forms/customer-ticket-generator/) is a form that can be used to send multiple tickets out at once. Once the form is submitted, an issue will be created in the [customer ticket generator tracker](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator) where a member of SupportOps will then run it. This can also be used in conjunction with the [Email Grab Script](#email-grab-script), whose output can be provided as the CSV for the form.
 
-### MailChimp Notices
+### Zendesk Macros
+
+There are various [macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/tree/master/macros/active/Support/SaaS/Notices) in the `Support::SaaS::Notices` section can be used as a template when only a few users need to be contacted.
+
+## MailChimp Notices
 
 Outside of Zendesk we may be asked to be involved in the process of sending mass notices to users via MailChimp. In these cases, do the following:
 

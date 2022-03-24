@@ -132,7 +132,7 @@ For details on tagging and tracking incidents, please see [Tracking Incidents](t
 
 ### About Contact Requests
 
-Whether related to an ongoing incident or not, Infrastructure or Security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [Contact Requests](internal_requests.html#contact-request) workflow to log the request.
+Whether related to an ongoing incident or not, Infrastructure or Security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [Sending Notices](sending_notices.html) workflow to action these requests.
 
 ## Incident Management
 
