@@ -46,12 +46,17 @@ The consulting operations team has a [board](https://gitlab.com/gitlab-com/custo
 #### Scheduling Request for Consulting Projects
 
 Before contacting the Operations team to discuss scheduling on a consulting project, the following criteria must be met:
-- SF Opportunity is at least a stage 5
-- Forecast category is Commit
-- Customer has agreed to the SOW
-- PS Quote has been created on the opportunity
-- Skills pushed to the Customer Epic
-- [PC Checklist Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues?sort=updated_desc&state=opened) has been created and tracking on the [PC Consulting Board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist) 
+
+| Action |DRI |
+| ------ | ------ |
+| SF Opportunity is at least a stage 5 | Opportunity Owner |
+| Forecast category is Commit | Opportunity Owner |
+| Customer has agreed to the SOW | Opportunity Owner |
+| PS Quote has been created on the opportunity | Opportunity Owner |
+| Executed MSA/PSA | Opportunity Owner |
+| Agreed close plan with the customer | Opportunity Owner |
+| Skills pushed to the Customer Epic | Assigned Engagement Manager |
+| [PC Checklist Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues?sort=updated_desc&state=opened) has been created and tracking on the [PC Consulting Board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist)  | Requestor of Scheduing Request |
 
 For staffing requirements or questions, add the details to the PC Checklist Issue and tag the assigned Project Coordinator
 
