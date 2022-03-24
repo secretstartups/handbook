@@ -20,13 +20,14 @@ Many subscription and consumption purchases can be made through GitLab.com. At t
 
 # Known Issues
 
-Our top 3 most reported known issues are:
+Our most reported known issues are:
 
 1. [Expired subscriptions on a namespace](https://gitlab.com/gitlab-org/gitlab/-/issues/349459)
 1. [Blank lastname/surname field](https://gitlab.com/groups/gitlab-org/-/epics/5785)
 1. [3D Secure](https://en.wikipedia.org/wiki/3-D_Secure) credit-card authentication protocol is [not supported](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3811)
+1. [Email already taken](https://gitlab.com/gitlab-org/gitlab/-/issues/330608)
 
-We will be [documenting any issues](https://gitlab.com/gitlab-com/support/toolbox/console-training-wheels/-/issues/19) that might be a result of the workarounds proposed in this workflow
+We use an Issue to [document any issues](https://gitlab.com/gitlab-com/support/toolbox/console-training-wheels/-/issues/19) that might be a result of the workarounds described in this workflow.
 
 # Workflow
 
@@ -68,6 +69,69 @@ With the volume of users requiring this being low, the issue has not yet been pr
 For now, the first option is to request the user to try another card. 
 You can also [reach out to Sales](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html#specific-workflows-to-pass-to-sales) to offer the user an alternative payment method.
 
+## Check whether the linked accounts have matching emails
+> "email"=>["has already been taken"]
+
+This happens when:
+
+1. The customer has an existing account on CustomersDot but does not link it with a GitLab account during purchase.
+1. The email in the CustomersDot account does not match the email in the linked GitLab account.
+
+The error is reported because CustomersDot does not find a Customers Portal account that is linked to the GitLab account making the purchase.
+CustomersDot then tries to create an account using the email of the GitLab account making the purchase.
+This fails when a CustomersDot account with the email already exists.
+
+See the example scenarios for a more detailed explanation.
+
+#### Example Scenarios
+
+##### Unlinked CustomersDot account for GitLab purchases
+Let's say a Customer X has an existing Customers Portal account with their email customerX@example.com either because:
+
+- They created an account manually on [Customers Portal](https://customers.gitlab.com/customers/sign_in)
+- Or they previously purchased some CI/CD minutes
+
+Customer X will get this error if they log in or create an account in GitLab with their email customerX@example.com and attempt to purchase or renew a paid plan or additional storage, or try to purchase more CI/CD minutes from GitLab.  
+The error is reported because *they did not link their Customers Portal account to a GitLab account before making the purchase.*
+
+🔧 To fix the problem, Customer X needs to log in to their [Customers Portal](https://customers.gitlab.com/customers/sign_in) account and [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account).
+
+##### Unlinked CustomersDot account for purchases via Sales
+Let's say a Customer Y purchases a subscription through Sales. Their signed Order Form has the **Sold To** contact's email as customerY@example.com.
+Once the Quote is processed, Zuora's [callout service](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/zuora/zuora_callouts.md#purpose) 
+triggers an account creation on Customers Portal. This service uses the `Sold To` contact's details to create the account.
+
+For various reasons, the created Customers Portal account is not linked to a GitLab account.  
+For example:
+
+- The subscription has not yet been applied to a group.
+- Support used [Mechanizer's force associate workaround](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#force-associate) to bypass the need to have a linked GitLab account to apply a subscription and the customer never linked their GitLab account.
+
+Customer Y will get this error if they try to log in or create an account in GitLab with their email customerY@example.com then attempt to purchase or renew a paid plan or additional storage, or try to purchase more CI/CD minutes from GitLab.  
+The error is reported because *they did not link their Customers Portal account to a GitLab account before making the purchase.*
+
+🔧 To fix the problem, Customer Y needs to log in to their [Customers Portal](https://customers.gitlab.com/customers/sign_in) account and [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account).
+
+##### Linked accounts have different emails
+Let's say a Customer Z has an existing Customers Portal account (customerZ@example.com) either from an existing purchase or by creating a new account.
+And this Customers Portal account has been linked to a GitLab account (check the `GitLab Groups` tab) whose email is gitlabZ@example.com. 
+*This could be someone else's GitLab account or Customer Z might have multiple GitLab accounts.*
+
+
+Customer Z will get this error if they try to log in or create an account in GitLab with their email customerZ@example.com then attempt to purchase or renew a paid plan or additional storage, or try to purchase more CI/CD minutes from GitLab.  
+The error is reported because CustomersDot does not find a Customers Portal account that is linked to the GitLab account making the purchase yet there is a CustomersDot account whose email is the same as the email in the GitLab account making the purchase.  
+In this case, CustomersDot does not find an account linked to the GitLab account whose email is customerZ@example.com.
+CustomersDot then tries to create an account using the email customerZ@example.com but this fails because a CustomersDot account with this email already exists.
+
+🔧 To fix the problem, Customer Z needs to log in to their [Customers Portal](https://customers.gitlab.com/customers/sign_in) account and either:
+
+- [Change the linked GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account) to the GitLab account with email customerZ@example.com
+- Or update the email in their Customers Portal account to match the email in the linked GitLab account, which is gitlabZ@example.com. 
+Customer Z should not create another account with the email customerZ@example.com because an account will be created for them automatically when the transaction succeeds.
+
+**TODO:** We need to verify that Customer Z can purchase using the GitLab account with the email gitlabZ@example.com because the system will locate the linked Customers Portal account.
+
+
 ## Insufficient funds
 > Your card has insufficient funds
 
@@ -83,7 +147,7 @@ Send a reply asking the customer to check the credit card:
 > Can you please make sure that you have enough funds in your credit card?
 
 
-### Replying with next troubleshooting steps
+## Replying with next troubleshooting steps
 
 If you could not find the user's specific error in Sentry, then consider asking for a browser console output. Some purchasing error details are visible in this output.
 
@@ -95,25 +159,34 @@ so that their card does not get locked or blocked.
 <i class="fas fa-exclamation-triangle color-orange"></i> The Error message displayed in the top section of an issue is not always
 the same error displayed for a specific user. Always check the **event details** related to the user.
 
-To find the error specifically related to a user on Sentry, try the following:
+To find the error specifically related to a user on Sentry, try to check for a logged error in atleast one of these Sentry projects:
 
-1. Get the `ID` and `Username` of the user making the purchase from GitLab using any of the following:
+1. [`gitlabcom`](https://sentry.gitlab.net/gitlab/gitlabcom/issues/)
+1. [`gitlabcom-clientside`](https://sentry.gitlab.net/gitlab/gitlabcom-clientside/issues/)
+1. [`customersgitlabcom`](https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/)
+
+To locate a Sentry event, first get the `ID` or `Username` of the **user making the purchase from GitLab** using any of the following:
    - Chatops: Run `/chatops run user find <username or email>`
    - Admin account: Navigate to the admin link in the [GitLab User Lookup](/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) Zendesk app
    - [Users API](https://docs.gitlab.com/ee/api/users.html#for-normal-users): Search for user using their email or username
-   - Note the `ID` value of the user's account
-1. Find the errror message for the user in Sentry's `gitlabcom-clientside` project:
-   - Go to https://sentry.gitlab.net/gitlab/gitlabcom-clientside/issues/
-   - Use `user:"id:userID"` (replace `userID` with the actual ID from GitLab)
-   - Look for an error with `buy_minutes` or `buy_storage` that looks like `Error?(/assets/webpack/commons-pages.subscriptions.buy_minutes-pages.subscriptions.buy_storage.49207fe4.chunk.js)`
-   - Open sentry issue → Click on `EVENTS`. The list of events are automatically filtered with your search term
-   - Click on any to see details of the error message
-1. Find the error message for the user in Sentry's `gitlabcom` project:
-   - Go to https://sentry.gitlab.net/gitlab/gitlabcom/issues/
+
+#### Searching with the username in `gitlabcom` Sentry project
+If you have the `username` of the user, find the error message for the user in Sentry's `gitlabcom` project:
+   - Go to [gitlabcom Sentry project](https://sentry.gitlab.net/gitlab/gitlabcom/issues/)
    - Use `user:"username:example"` (replace `example` with the actual username from GitLab)
    - Look for an error regarding `SubscriptionsController`
    - Open sentry issue → Click on `EVENTS`. The list of events are automatically filtered with your search term
    - Click on any to see details of the error message
-1. If the purchase was also attempted from [CustomersDot portal](https://customers.gitlab.com/customers/sign_in), use
+
+#### Searching with the user's ID in `gitlabcom-clientside` Sentry project
+If you have the `ID` of the user, find the errror message for the user in Sentry's `gitlabcom-clientside` project:
+   - Go to [gitlabcom-clientside Sentry project](https://sentry.gitlab.net/gitlab/gitlabcom-clientside/issues/)
+   - Use `user:"id:userID"` (replace `userID` with the actual ID from GitLab)
+   - Look for an error with `buy_minutes` or `buy_storage` that looks like `Error?(/assets/webpack/commons-pages.subscriptions.buy_minutes-pages.subscriptions.buy_storage.49207fe4.chunk.js)`
+   - Open sentry issue → Click on `EVENTS`. The list of events are automatically filtered with your search term
+   - Click on any to see details of the error message
+
+#### Searching `customersgitlabcom` Sentry project
+If the purchase was also attempted from [CustomersDot portal](https://customers.gitlab.com/customers/sign_in), use
 the [workflow](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry) 
 to find the error message in [Customers Portal Sentry project](https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/).
