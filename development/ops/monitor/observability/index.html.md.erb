@@ -11,71 +11,69 @@ description: "The Observability group is responsible for the Observability of th
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+
 ## Monitor:Observability
 
 The **Monitor:Observability** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain.
+
 Based on the [recent Opstrace acquisition](https://about.gitlab.com/press/releases/2021-12-14-gitlab-acquires-opstrace-to-expand-its-devops-platform-with-open-source-observability-solution.html), we aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
 
-## Code
 
-Opstrace code (and issues/branches) has been migrated to GitLab with several projects under the following sub-group:
+## Goals
 
-- [https://gitlab.com/gitlab-org/opstrace/](https://gitlab.com/gitlab-org/opstrace/)
+Our primary goals right now are to deliver a set of 3 Integration Milestones:
 
-We also have some legacy private repos at GitHub (that will be decommissioned eventually):
+- [Milestone 1](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/3): Migrating from GitHub => GitLab, Planning Integrated Authentication, Jaeger Tracing
+- [Milestone 2](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/11): Initial SaaS Infrastructure with Integrated Auth
+- [Milestone 3](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/19): Production SaaS platform, Alpha Self-hosted Opstrace
 
-- https://github.com/opstrace/next-website/ (our current website)
-- https://github.com/opstrace/opstrace-prelaunch/ (pre-open source code and issues)
-- https://github.com/opstrace/private/ (customer-related issues)
+## Team Organization
 
-## Integration milestones
+### Async Standups
 
-This is the single source of truth for the Opstrace integration:  https://gitlab.com/groups/gitlab-org/-/epics/6976
+We have Geekbot standups on Weds and retrospectives on Fridays. We use these async standups to communicate what we have accomplished, any current blockers and what we plan to work on next.
 
-### SLA
+### Meetings
 
-The expected SLA for these "integration milestones" will be best effort.
-That is, we will not have a 24x7 on-call rotation with any published response time.
-Instead, we will do our best to keep the system available and reliable as we focus on the development work ([defined in the integraiton milestones](https://gitlab.com/groups/gitlab-org/-/epics/6976)) to ship features to our early adopters.
-After the integration milestones are complete, we will work together to decide how to best provide a published SLA, such as working with [the Infrastructure team to operate our service](https://about.gitlab.com/handbook/on-call/) for GitLab.com with an associated [escalation policy](https://about.gitlab.com/handbook/on-call/#development-team-on-call-rotation) to us in Development (similar to what exists today).
+- Team Leadership Meeting: This weekly meeting is focused on aligning the EM, PM, Principal Engineer, Developer Advocate on cross-functional objectives. Goals are set and weekly status is communicated.
 
-## Communication
+- Bi-monthly social hour: This meeting is non-work related and helps team socialize and get to know each other better.
 
-- Slack channel: [#g_observability](https://gitlab.slack.com/archives/C02Q93U8J07)
+- Team member coffee chats: Each team member should schedule a coffee chat with all other team members rough every 4-6 weeks. Feel free to discuss work or non-work topics. If timezones are an issue find another way to connect, such as a async slack thread to checkin. The goal is to get to know your other team members on a 1:1 basis.
 
-In the spirit of [keeping yourself informed](https://about.gitlab.com/handbook/engineering/#keeping-yourself-informed) (a required read by everyone), team members should also (minimally) be in `#development`, `#ops-section` and `#s_monitor`.
+### Communication
 
-## Planning
+We use several Slack channels to organize ourselves:
 
-For the first 6-9 months, our goals are entirely driven by the [bi-monthly acquisition milestones](https://gitlab.com/groups/gitlab-org/-/epics/6976).
+- Primary channel: [#g_observability](https://gitlab.slack.com/archives/C02Q93U8J07)
+- Standup channel: [#g_observability_standup](https://gitlab.slack.com/archives/C02VAHG10HW)
+- Social channel: [#g_observability_random](https://gitlab.slack.com/archives/C02QLQUB0JZ)
 
-To accomplish these, we align our work loosely with the [GitLab product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
-In particular, we define our Milestones to ship on the 22nd of the month.
+### How we do Planning
 
-We use [GitLab milestones](https://gitlab.com/gitlab-org/opstrace/opstrace/-/milestones
-) to track our work.
-All work being done for one of the integraiton milestones should have this milestone set.
+Currently, during our initial phase, we are using a 2 month milestone cadence.
+All work is organized into Epics, sub-epics, and assigned to the relevant Milestone.
 
-We also adopt the "code freeze" by the 17th:
+#### Our process
 
-- On `M, 19th`, or `M, 20th`, or `M, 21st`:
-  - [Milestone Cleanup](#milestone-cleanup) runs on the schedule at [Milestone cleanup schedule](#milestone-cleanup-schedule)
-- On month `M, 22nd`: **Release Day** 🚀
-  - Release deployed to production.
-  - Release published—including docs and blog.
+- Two weeks before the beginning of the Milestone, the EM and PM meet to groom Epics, Issues, and Milestones.
+- Milestone goals are defined and objectives are broken up into relevant Epics, sub-epics, and issues.
+- Sometimes DRIs and supporters are assigned to epics to clarify responsibilities and ownership.
+- Throughout the Milestone we analyze progress and reprioritize as needed.
 
-We also perform group retrospectives, though do not roll them up:
+### How to find something to work on
 
-- On or around `M, 19th`:
-  - [Group Retrospectives](/handbook/engineering/management/team-retrospectives/) should happen so they can inform the [public retrospective summary and discussion](#retrospective)
+Normally at the beginning of the Milestone the EM will discuss an overview of the work and what relevant areas you will focus on. Sometimes issues will already be assigned to you before the Milestone begins.
 
-## Tracking work in issues
+If you are ever looking for additional issues to work on:
 
-In addition to adding the aforementioned milestone to our issues, we also adopt [workflow labels](https://about.gitlab.com/handbook/engineering/workflow/#updating-issues-throughout-development):
-
-- `workflow::in dev`: A developer indicates they are developing an issue by applying the in dev label.
-- `workflow::in review`: A developer indicates the issue is in code review by removing the in dev label, and applying the in review label.
-- `workflow::verification`: A developer indicates that all the development work for the issue has been done and is waiting to be deployed.
+1. Look in the current [Milestone](https://gitlab.com/gitlab-org/opstrace/opstrace/-/milestones)
+1. Identify an issue in the unstarted column that are open and unassigned.
+1. Assign yourself to the issue.
+1. If the scope or description are unclear, connect with the EM and or PM for clarification or (if feeling confident) groom the issue yourself and proceed.
+1. Begin working on the issue.
+1. Once you are done with the issue, make sure any relevant MRs are linked and close the issue.
+1. Repeat.
 
 ## Team members
 
