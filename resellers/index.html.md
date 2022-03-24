@@ -353,6 +353,7 @@ GitLab Select partners have access to the proposal-based GitLab Marketing Develo
 *  Acquire new GitLab customers
 *  Drive demand within an existing mutual customer base
 *  Help partners educate their GitLab teams
+*  Please note GitLab will only cover **50%** of the total cost of the activity.
 
 * **To receive MDF, you must:**
   *  Submit a proposal to GitLab via the GitLab Partner Portal
@@ -386,8 +387,6 @@ Proof of performance includes third-party invoices AND at least one of the follo
 | Lead Generation/ Telemarketing | Delivery of co-branded messages via telephone or other mediums to gain net-new customers. The message should focus on GitLab solutions. The contact list should include Company Name, First Name, Last Name, Title, Full Address, Email, Phone. | • Telemarketing script of how GitLab brand or solution were incorporated into the campaign• Itemized call record or campaign metrics• Lead list or call list (to include: Company Name, Contact, Title, Email, Phone, Full Address)• Internal invoice accepted |
 | Webcast/Webinar | A syndicated or on-demand web event with the purpose of either lead generation or continuing education. This can be conducted in collaboration with GitLab or GitLab-approved third-party vendors. | • URL to recorded online event, podcast, or presentation that shows integration of GitLab brand and solutions• Lead list/Attendee list (to include: Company Name, Contact, Title, Email, Phone, Full Address)• Invitation to the online event/podcast• Follow up/additional activities |
 | Sales Incentive | Awards or financial incentives provided to sales or technical team for successfully selling GitLab solutions. These can be SPIFFs, bonuses, vouchers, prizes, etc. (but not cash). | • List of qualified accounts and contact details as well as the account manager name (lead list)• Receipts for gifts purchased• Incentive program promotion/flyer• List of awardees and campaign report (to show what has been achieved) |
-| Funded Head (By Invitation Only) | Headcount dedicated to sell or develop GitLab solutions. These include sales resources (such as sales engineers). Each funded head project needs an approved business plan and request form that describes objectives of the role and time frame. | • Contract between GitLab and your partner business plan• Quarterly objectives and results |
-| Promotional Items (Distribution Only) | Merchandise, items or gifts imprinted with the GitLab logo. | • REQUIRED one of the following – Digital photos or graphic files of promotional items showing integration of GitLab logo, brand solutions |
 
 
 #### Marketing Efforts
