@@ -100,6 +100,14 @@ While all of these fields can be updated and changed anytime as an opportunity e
 
 Whenever an SA engages a prospect/customer who has a specific problem to be addressed or goal to be achieved, and that prospect/customer needs validation that GitLab has the solution, you are encouraged to capture that as a technical evaluation. Similar to how there are some deals without a corresponding SA, there may be deals where a technical evaluation is not performed, and SA involvement is minimal.
 
+In case that the opportunity has been closed in Salesforce, and you did not have the chance to complete all the information for your SA activities previously described, do the following:
+- Go to the opportunity you need to update, and click on Show Feed and the left hand side of the topics bar.
+- In the post text area, enter `@Sales-Support` and then a brief description of the fields you wish to fill. Example: 
+    ```
+    @[Sales-Support] please update the SA Validated Tech Evaluation Close Status field to Won, and SA Validated Tech Evaluation End Date to 10/14/2021
+    ```
+- Make sure you manually type the `@Sales-support` part of your message, as Salesforce will not recognize the `@` call to notify the sales support group. 
+
 ### Proof of Value (POV) Updates
 
 Proof of Values are [tracked in salesforce](/handbook/customer-success/solutions-architects/tools-and-resources/pov/#tracking-a-pov-in-salesforce) but can be created or updated through Troops by:
