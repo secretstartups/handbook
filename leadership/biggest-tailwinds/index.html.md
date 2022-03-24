@@ -39,7 +39,7 @@ We also have a [biggest risks page](/handbook/leadership/biggest-risks/).
 
 ## 4. [All-Remote](/company/culture/all-remote/)
 
-GitLab's all-remote workforce is significantly more advanced and sophisticated than other forms of organizational design. Our dedication to working [handbook-first](/company/culture/all-remote/handbook-first-documentation/), operating [transparently](/handbook/values/#transparency), and [usage of GitLab](/solutions/gitlab-for-remote/) to drive results creates tailwinds for the organization.
+GitLab's all-remote workforce is significantly more advanced and sophisticated than other forms of organizational design. Our dedication to working [handbook-first](/company/culture/all-remote/handbook-first-documentation/), operating [transparently](/handbook/values/#transparency), and [usage of GitLab](/company/culture/all-remote/gitlab-for-remote/) to drive results creates tailwinds for the organization.
 
 GitLab's adherence to all-remote makes the company an attractive destination for people who are on the [B-team in hybrid-remote firms](/company/culture/all-remote/hybrid-remote/#all-remote-upgrade), or feel limited by the inflexibility of a fully colocated role. 
 
