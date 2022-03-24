@@ -85,7 +85,7 @@ We should not proceed to publish the blog post until the partner manager has rec
 
 ### Joint announcements
 
-Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-marketing/#requests-for-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please ping either @vsilverthorne or @Sglitten.
+Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-marketing/#requests-for-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please ping either @vsilverthorne or @Sgittlen.
 
 ### Guest posts by GitLab partners
 
