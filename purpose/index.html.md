@@ -65,7 +65,7 @@ We empower how people work by providing thought leadership on remote work which 
 
 #### All-remote
 1. Enable more companies to work remotely, which spreads job opportunities more evenly globally across regions and countries
-1. Published [The Remote Playbook](https://learn.gitlab.com/suddenlyremote){:data-ga-name="remote playbook"}{:data-ga-location="body"} and the [Remote Work Report](/remote-work-report/){:data-ga-name="remote work report"}{:data-ga-location="body"}: with over 100,000 downloads, it’s the de facto blueprint as the world transitions to remote work
+1. Published [The Remote Playbook](https://learn.gitlab.com/suddenlyremote){:data-ga-name="remote playbook"}{:data-ga-location="body"} and the [Remote Work Report](/company/culture/all-remote/remote-work-report/){:data-ga-name="remote work report"}{:data-ga-location="body"}: with over 100,000 downloads, it’s the de facto blueprint as the world transitions to remote work
 1. GitLab’s all-remote culture is being taught to execs and business students via case studies with [Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=57917) and [INSEAD](https://www.insead.edu/conversations/gitlab-can-all-remote-scale)
 1. All remote and remote-first [job boards](/company/culture/all-remote/jobs/#all-remote-and-remote-first-job-boards){:data-ga-name="job boards"}{:data-ga-location="body"}  
 1. All remote [certification](/company/culture/all-remote/remote-certification/){:data-ga-name="certification"}{:data-ga-location="body"} to allow more companies to hire remote team members  
