@@ -81,17 +81,13 @@ We will continue our always-on and continually-optimized capabilities-focused ca
 
 To view a diagram of Business Initiatives > Solutions > Capabilities, go to your Google Drive and search `Maturity Model`. This is only accessible by GitLab team members. This is owned and managed by Portfolio Marketing. If you have questions about the maturity model, please direct them to the [#portfolio-marketing slack channel](https://gitlab.slack.com/archives/CPTKGRXHP).
 
-View this [MURAL](https://app.mural.co/t/gitlab2474/m/gitlab2474/1619125370999/270c2d5df5a535223c053f2dba0d06833f9b92d1?sender=jgragnola2053) for a visual of our campaigns and how they lead to activation strategies by segment/geo. These are owned by Marketing Campaigns. If you have any quesitons, please direct them to the [#marketing-campaigns slack channel]().
+View this [MURAL](https://app.mural.co/t/gitlab2474/m/gitlab2474/1619125370999/270c2d5df5a535223c053f2dba0d06833f9b92d1?sender=jgragnola2053) for a visual of our campaigns and how they lead to activation strategies by segment/geo. These are owned by Marketing Campaigns. If you have any questions, please direct them to the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS).
 
-## Campaign Core Teams
+## Campaign Core Teams & Campaign Bundles
 
-The  each include a [Core Team](/handbook/marketing/plan-fy22#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22#beyond-core-teams) below.
-All marketing team members should aim to focus ~70% of their time and plans around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion.
+A campaign core team is comprised of teams across marketing and revenue programs, working togehter to build new campaigns and optimize ongoing campaigns. [Learn more here >>](/handbook/marketing/campaigns/#campaign-core-teams)
 
-### What is included in a Campaign Bundle?
-{: #campaign-bundle-includes}
-<!-- DO NOT CHANGE ANCHOR -->
-
+When a new campaign is being developed, the campaign core team will work together to develop a campaign bundle, which is then leveraged by all teams across marketing and sales for a cohesive approach from top funnel tactics to sales conversations. [Learn more here >>](/handbook/marketing/campaigns/#campaign-bundles)
 
 
 ## GTM Motion Campaign
