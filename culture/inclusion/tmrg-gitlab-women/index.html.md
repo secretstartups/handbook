@@ -117,6 +117,17 @@ The following are books suggested by GitLab team members in the [#women Slack ch
 | [The Memo by Minda Harts](https://www.mindaharts.com/book/) | |
 | [Burnout - The Secret to Unlocking the Stress Cycle by Amelia Nagoski and Emily Nagoski](https://bookshop.org/books/burnout-the-secret-to-unlocking-the-stress-cycle/9781984818324) | |
 
+## Past Events
+
+### 2022 Women's History Month Celebrate - Interview with Christie Lenneville, VP of UX
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://youtu.be/a10N6xYB7Ps" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
 
 ## Additional Resources
 
