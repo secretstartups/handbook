@@ -59,7 +59,7 @@ Key tools and technologies needed to make the shift from in-person to all-remote
 
 1. Instant messaging tools (e.g. Slack, Microsoft Teams) to maintain regular contact
 1. Video conferencing (e.g. Zoom, Skype, Google Meet) for virtual touchpoints
-1. Cloud-based planning and documentation platform (e.g. [GitLab](/solutions/gitlab-for-remote/))
+1. Cloud-based planning and documentation platform (e.g. [GitLab](/company/culture/all-remote/gitlab-for-remote/))
 1. Learning management system tool to enable remote training
 1. Document management tool to allow remote signatures
 1. Integration between your ATS, HRIS and payroll systems to create a fluid workflow experience

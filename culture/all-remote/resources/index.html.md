@@ -263,7 +263,7 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 
 #### Surveys and data
 
-- [The Remote Work Report by GitLab: The Future of Work is Remote](/remote-work-report/)
+- [The Remote Work Report by GitLab: The Future of Work is Remote](/company/culture/all-remote/remote-work-report/)
 - [Sike Insights — EQ & Remote Managers Report](https://bit.ly/3iX519B)
 - [Slack — A new guide for adapting to a radically different workplace](https://slack.com/blog/transformation/navigating-the-disruption-of-work)
 - [Gartner CFO Survey Reveals 74% Intend to Shift Some Employees to Remote Work Permanently](https://www.gartner.com/en/newsroom/press-releases/2020-04-03-gartner-cfo-surey-reveals-74-percent-of-organizations-to-shift-some-employees-to-remote-work-permanently2)

@@ -40,7 +40,7 @@ Key tools and technologies needed to make the shift from in-person to all-remote
 - Document sharing (Google Drive, Box, Dropbox, etc.)
 - SaaS-based accounting software solutions (ADP, Quickbooks, etc.)
 - Video conferencing (e.g. Zoom, Skype, Google Meet) for synchronous discussions with recording for later viewing by those who could not attend; and
-- Cloud-based planning and documentation platform (e.g. [GitLab](/solutions/gitlab-for-remote/)).
+- Cloud-based planning and documentation platform (e.g. [GitLab](/company/culture/all-remote/gitlab-for-remote/)).
 
 ## Checks and balances
 

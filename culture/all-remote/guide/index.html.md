@@ -61,7 +61,7 @@ Learn more about [why GitLab uses the term **all-remote** to describe its 100% r
 
 ## The Remote Work Report by GitLab
 
-Created to foster collaboration, innovation, and evolution in the future of work, the [2020 Global Remote Work Report](/remote-work-report/) dissects the state of distributed work and surfaces key motivators for both employees and employers.
+Created to foster collaboration, innovation, and evolution in the future of work, the [2020 Global Remote Work Report](/company/culture/all-remote/remote-work-report/) dissects the state of distributed work and surfaces key motivators for both employees and employers.
 
 [Download the full report now](http://learn.gitlab.com/all-remote/remote-work-report).
 
@@ -69,7 +69,7 @@ Created to foster collaboration, innovation, and evolution in the future of work
 
 GitLab is a collaboration tool designed to help people work better together whether they are in the same location or spread across multiple time zones. Originally, GitLab let software developers collaborate on writing code and packaging it up into software applications. Today, GitLab has a wide range of capabilities used by people around the globe in all kinds of companies and roles.
 
-You can learn more at GitLab's [remote team solutions page](/solutions/gitlab-for-remote/).
+You can learn more at GitLab's [remote team solutions page](/company/culture/all-remote/gitlab-for-remote/).
 
 ## How we built our all-remote team
 

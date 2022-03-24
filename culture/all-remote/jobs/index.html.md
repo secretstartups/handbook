@@ -33,7 +33,7 @@ We're also curating a growing list of remote communities, where remote leaders a
 <!-- blank line -->
 _In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, Darren (GitLab) and Rodolphe (Remotive) discuss several remote work topics: favorite things about remote work, how to find/start/thrive in your first remote role, and the impact of the growing remote work community._
 
-Working remotely is becoming more common globally, as supported by data in the [GitLab Remote Work Report](/remote-work-report/). While all-remote and remote-first organizations still represent the minority, a variety of trends — from heightened rents in major cities to a greater emphasis on sustainability to a cultural desire to work and live where one is most fulfilled — have more people than ever [interested in this way of working](/company/culture/all-remote/benefits/).
+Working remotely is becoming more common globally, as supported by data in the [GitLab Remote Work Report](/company/culture/all-remote/remote-work-report/). While all-remote and remote-first organizations still represent the minority, a variety of trends — from heightened rents in major cities to a greater emphasis on sustainability to a cultural desire to work and live where one is most fulfilled — have more people than ever [interested in this way of working](/company/culture/all-remote/benefits/).
 
 Buffer's latest [State of Remote Work](https://lp.buffer.com/state-of-remote-work-2020) shows that the overwhelming majority of those who work remotely would recommend it to others, while [new survey data from Owl Labs](https://www.owllabs.com/blog/remote-work-statistics) collected from 23 countries and 6 continents found that over half of global companies now allow some form of remote work.
 
@@ -166,7 +166,7 @@ For a better understanding of the nuances, take a look at "[6 People Who Prove Y
 
 Staying [connected](/company/culture/all-remote/events/) with remote workers globally is in many ways much easier than staying connected with peers through in-person networking events. Working remotely forces you to be [intentional about everything](/company/culture/all-remote/management/), and the same is true for forming and fostering relationships and becoming part of one or more remote work communities.
 
-As remote work [becomes more common globally](/remote-work-report/), there are more opportunities than ever to get plugged in, share resources and tips, and exchange job opportunities. Below are several vetted remote communities with high engagement.
+As remote work [becomes more common globally](/company/culture/all-remote/remote-work-report/), there are more opportunities than ever to get plugged in, share resources and tips, and exchange job opportunities. Below are several vetted remote communities with high engagement.
 
 1. [Remote-how virtual coworking space](https://remote-how.com/community)
 1. [We Work Remotely](https://weworkremotely.com/)

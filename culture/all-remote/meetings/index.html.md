@@ -80,7 +80,7 @@ All-remote meetings are made simpler given that there's no jockeying for space i
 
 A major enabler for reducing the quantity of meetings necessary at GitLab is our own product. GitLab is a collaboration tool designed to help people work better together whether they are in the same location or spread across multiple time zones. Originally, GitLab let software developers collaborate on writing code and packaging it up into software applications. Today, GitLab has a wide range of capabilities used by people around the globe in all kinds of companies and roles.
 
-You can learn more at GitLab's [remote team solutions page](/solutions/gitlab-for-remote/).
+You can learn more at GitLab's [remote team solutions page](/company/culture/all-remote/gitlab-for-remote/).
 
 ### 7. Avoid hybrid calls
 
