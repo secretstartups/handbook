@@ -20,6 +20,7 @@ title: "Enterprise Applications Integrations"
 1. [Integrations Work tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues){:target="_blank"}
 1. [Integrations Platform (Platypus)](./platypus){:target="_blank"}
 1. [Workato Playbook](./workato-playbook){:target="_blank"}
+1. [Platypus Integrations Wiki](./wiki){:target="_blank"}
 
 ## How we work
 To learn about our processes please visit the [How We Work](./how-we-work) page
