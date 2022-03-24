@@ -14,6 +14,18 @@ This document does not cover servers that are not integral to the public facing 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
+<div class="panel panel-gitlab-orange">
+**This is a Controlled Document**
+{: .panel-heading}
+<div class="panel-body">
+
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+
+</div>
+</div>
+
 ## Purpose
 
 This page is our [document](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html#creation) that captures an overview of the production architecture for GitLab.com.  
@@ -29,8 +41,9 @@ The compute and network layout that runs GitLab.com
 | Infrastructure Team | Responsible for configuration and management | 
 | Infrastructure Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
+## Procedure
 
-## Related Pages
+### Related Pages
 
 - [Application Architecture documentation](https://docs.gitlab.com/ee/development/architecture.html)
 - [GitLab.com Settings](/gitlab-com/settings/)
@@ -45,10 +58,10 @@ The compute and network layout that runs GitLab.com
 - [version.gitlab.com Architecture](/handbook/engineering/dev-backend/production-architecture/version-architecture.html)
 
 
-## Current Architecture
+### Current Architecture
 {: #infra-current-archi-diagram}
 
-### GitLab.com Production Architecture
+#### GitLab.com Production Architecture
 {: #gitlab-com-architecture}
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vShfNY5bxtjAsYq-YBDAJAnyjBuxN0i62NoDvbmhvDVOrCas20_Q4XA8Qxm1D2v0mmemP9y-rDsRQFe/pub?w=669&h=551">
@@ -63,7 +76,7 @@ See the [reasoning for the migrating away from virtual machines](/handbook/engin
 * **[Migration epic ](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/112)**: Parent epic for all infrastructure department work to migrate GitLab.com to Kubernetes.
 * **[Application blockers](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=kubernetes-migration-blocker)**: Label used to track blockers in the application and cloud-native charts that are preventing the migration of GitLab.com to Kubernetes.
 
-#### Cluster Configuration
+##### Cluster Configuration
 {: #cluster-configuration }
 
 GitLab.com uses 4 Kubernetes clusters for production with similarly configured clusters for staging.
@@ -86,7 +99,7 @@ The following projects are used to manage the installation:
 
 All inbound web, git http, and git ssh requests are received at Cloudflare which has HAProxy as an origin. HAProxy routes between the new cluster and the legacy VM infrastructure. Node pools are used to isolate workloads for different services running in the cluster and are defined in Terraform. For Sidekiq, multiple pods are configured for Sidekiq cluster to divide Sidekiq queues into different resource groups. See the [chart documention for Sidekiq](https://docs.gitlab.com/charts/charts/gitlab/sidekiq/) for more details.
 
-#### Monitoring and Logging
+##### Monitoring and Logging
 
 Monitoring for GitLab.com runs in the same cluster as the application. Metrics are aggregated in the ops cluster using [Thanos](https://thanos.io) that has multiple components.
 
@@ -102,7 +115,7 @@ Alerting for the cluster uses generated [rules](https://gitlab.com/gitlab-com/ru
 
 Logging is configured using a fork of the [fluentd-elasticsearch helm chart](https://gitlab.com/gitlab-org/charts/fluentd-elasticsearch) where the logs for every pod is forwarded to a unique Elasticsearch index. This chart is deployed in the namespace `logging`.
 
-#### Cluster Configuration Updates
+##### Cluster Configuration Updates
 
 There is a single namespace `gitlab` that is used exclusively for the GitLab application.
 Chart configuration updates are set in the [gitlab-com k8s-workloads project](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com) where there are [yaml configuration files](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com/-/tree/master/releases/gitlab/values) that set defaults for the GitLab.com environment with per-environment overrides.
@@ -111,7 +124,7 @@ When a change is approved on GitLab.com the pipeline that applies the change is 
 
 For namespaces in the cluster for other services like logging, monitoring, etc. a similar GitOps workflow is followed using the [gitlab-helmfiles](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-helmfiles) project.
 
-#### GitLab Application Updates
+##### GitLab Application Updates
 
 Updates are deployed to both VM infrastructure and the Kubernetes cluster in lock-step, this ensures that the same version is deployed to both VMs and the cluster.
 When an application update is ready, the CI pipeline that deploys to virtual machines triggers a [k8s-workloads/gitlab-com](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com) pipeline that updates the application image in the cluster.
@@ -124,13 +137,13 @@ For any image that we do not build ourselves, these may be pulled from Docker Hu
 Conveniently, these images are mirrored on Google's [Container Registry product](https://cloud.google.com/container-registry/docs/pulling-cached-images).
 Our GKE nodes are configured from the start with this mirror already in place providing further redundancy in the event that the Docker Hub is unavailable.
 
-### Database Architecture
+#### Database Architecture
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vT-w2R-TuNkrvYzn6pmVOPmswhxt1o6yOhfEczgT3EHkD7xVkx3wtyOHndSJxBwcHwsnSPUun5SSVRc/pub?w=960&amp;h=720">
 
 [Source](https://docs.google.com/drawings/d/1BWb1Q-hJzCZs8krvYwi5V9F_hJe-4CJdtIORfVGWJLo/edit), GitLab internal use only
 
-### Network Architecture
+#### Network Architecture
 
 <img src="/images/handbook/engineering/infrastructure/production-architecture/network-arch.png">
 
@@ -150,34 +163,37 @@ failure of an environment.
 
 No application or customer data flows through these network peers.
 
-### DNS & WAF
+#### DNS & WAF
 
 We host our DNS with Cloudflare (gitlab.com, gitlab.net) and route53 (gitlab.io and others).
 For more information about CloudFlare see the [runbook](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/cloudflare/README.md) and the [architecture overview](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/6f92124563835415e5c6e59f40b32e7307d3fb67/cloudflare/README.md#with-cloudflare).
 
 
-### TLD Zones
+#### TLD Zones
 
 When it comes to DNS names all services providing GitLab as a service shall be in the `gitlab.com` domain, ancillary services in the support of GitLab (i.e. Chef, ChatOps, VPN, Logging, Monitoring) shall be in the `gitlab.net` domain.
 
-### Remote Access
+#### Remote Access
 
 Access is granted to only those whom need access to production through bastion hosts
 Instructions for configuring access through bastions are found in the [bastion runbook](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/bastions).
 
-## Secrets Management
+### Secrets Management
 
 GitLab utilizes two different secret management approaches, GKMS for machine in side of Google Cloud Provider, and Chef Encrypted Data Bags for all other host secrets.
 
-### GKMS Secrets
+#### GKMS Secrets
 
 For more information about secret management see the runbook for [Chef secrets using GKMS](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/gkms-chef-secrets.md), [Chef vault](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/config_management/chef-vault.md) and [how we manage secrets in Kubernetes](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com#gitlab-secrets).
 
-## Monitoring
+### Monitoring
 
 See how it's doing, for more information on that, visit the [monitoring handbook](/handbook/engineering/monitoring/).
 
 
-### Exceptions
+## Exceptions
 
 Exceptions to this architecture policy and design will be tracked in the [compliance issue tracker](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/-/issues/).
+
+## References
+* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
