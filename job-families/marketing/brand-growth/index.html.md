@@ -82,6 +82,45 @@ The Staff Brand Manager is a [grade 8](/handbook/total-rewards/compensation/comp
 
 * The next step in the Corporate Events job family is not yet defined at GitLab.
 
+### Director, Certification Brand 
+
+The Director, Certification Brand will work closely with the customer success team to develop the certification brand and drive corporate marketing efforts to create awareness of the GitLab Certification program. This role reports directly to the Senior Director, Brand.
+
+#### Director, Certification Brand Job Grade
+
+The Director, Certification Brand role is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+
+#### Director, Certification Brand Responsibilities 
+
+* Create strategy and oversee brand creation assets and naming for the certification strategy.
+* Work directly with the brand agency to coordinate between teams and drive to timely and data-driven decisions.
+* Own the message house and positioning for the certification program to elevate DevOps professionals careers.
+* Develop brand and corporate marketing campaigns to create awareness of the certification program. 
+* Collaborate with key stakeholders and leadership to meet deadlines.
+* Provide data on how the certification brand is measured compared to other competitive programs. 
+* Create cross-functional marketing plans to drive demand of the program. 
+* Work hand-in-hand with the contet marketig team to develop content to promote the certification programs.
+* Think holistically to work with external certification programs to drive interest in GitLab's certification program.
+
+#### Director, Certification Brand Requirements
+
+* Experience working on the marketing elements of a certification program, prior DevOps experience a plus.
+* Ability to drive consensus and influence across a large group of stakeholders.
+* Manage multiple priorities as an independent, self-starter with excellent time management within a rapidly evolving business.
+* A general marketer at heart with a key understanding of public relations, content marketing, social, event marketing and high-level demand gen and marketing ops needs. 
+* Ability to iterate on overall messaging and positioning as the certification program evolves. 
+* Brand measurement experience.
+* Demonstrated track record in crafting compelling positioning and marketing content to support high-level launches.
+* A bias for action for developing awesome marketing assets (website, videos, success stories, blogs, print collateral).
+* Experience working in a fast-paced and highly cross-functional organization.
+
+## Performanc Indicators
+
+* The number of sign-ups to the certification program 
+* Measuring the social sharing of the certification program 
+* Outlining the certification funnel and activities to match each stage of the funnel
+* Increasing brand awareness of the program
+
 ## Hiring process
 
 Candidates for these positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
