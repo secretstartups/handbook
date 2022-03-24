@@ -52,9 +52,9 @@ Here’s a list of some of the results and outcomes I’ve driven since spring 2
 	* Founded this deep-work initiative that was adopted throughout GitLab and external organizations.
 1. DRI:  [REMOTE by GitLab](https://remotebygitlab.com/) 
 	* Nearly 4,000 registrations for our inaugural half-day event on the future of work, with speakers from Twitter, Zoom, Facebook, Harvard Business School, INSEAD, and many more.
-1. DRI:  [Remote Work Report](https://about.gitlab.com/remote-work-report/) 
+1. DRI:  [Remote Work Report](https://about.gitlab.com/company/culture/all-remote/remote-work-report/) 
 	* With almost 4,000 respondents on six continents, this is one of the most in-depth independent studies on the future of distributed work.
-1. DRI:  [Out of the Office Report](https://about.gitlab.com/out-of-the-office/) 
+1. DRI:  [Out of the Office Report](https://about.gitlab.com/company/culture/all-remote/out-of-the-office/) 
 	* This qualitative survey predicted the Great Resignation in early 2021.
 1. DRI:  [GitLab Assembly](https://about.gitlab.com/company/gitlab-assembly/)  (Q1 FY22)
 	* Produced the first interactive all-hands event for the fiscal year kickoff. 
