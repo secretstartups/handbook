@@ -93,8 +93,8 @@ These are pages that are using Slippers CSS in the `frontmatter`, or using `2020
 - [Localized landing pages](https://about.gitlab.com/fr-fr/)
 - [Topic pages](https://about.gitlab.com/topics/version-control/)
 - [Continuous Integration](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
-- [Out of the office report](https://about.gitlab.com/out-of-the-office/)
-- [Remote work report](https://about.gitlab.com/remote-work-report/)
+- [Out of the office report](https://about.gitlab.com/company/culture/all-remote/out-of-the-office/)
+- [Remote work report](https://about.gitlab.com/company/culture/all-remote/remote-work-report/)
 
 #### Pages using Slippers components
 

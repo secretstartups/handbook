@@ -60,7 +60,7 @@ To keep the All-Remote Channel focused on its intended [audience](/handbook/mark
 1. Remote work, with a focus on management and processes. 
 1. Remote culture stories from GitLab team members and external remote advocates. 
 1. GitLab CEO Sid Sijbrandji as a thought leader in the remote work space.
-1. GitLab, the product, as a [key enabler of remote work](/solutions/gitlab-for-remote/).
+1. GitLab, the product, as a [key enabler of remote work](/company/culture/all-remote/gitlab-for-remote/).
 1. Opportunities at GitLab and attracts geographically diverse candidates that value our all-remote culture.
 
 
