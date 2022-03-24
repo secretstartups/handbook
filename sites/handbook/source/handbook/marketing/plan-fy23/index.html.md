@@ -61,14 +61,6 @@ To view Overview Slides (Internal only), search your [Google Drive](https://driv
 
 On a monthly cadence, the **Marketing Key Review** will be used as the venue for tracking where we are year-to-date on the agreed upon plan.
 
-## Sales and Marketing Alignment
-{: #sales-marketing-alignment .gitlab-purple}
-<!-- DO NOT CHANGE ANCHOR -->
-
-To be added
-
-
-
 ## Glossary of terminology
 {: #glossary .gitlab-purple}
 
