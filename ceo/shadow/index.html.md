@@ -183,8 +183,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-04-04 | 2022-04-08 | E-GROUP OFFSITE - NO SHADOWS | E-GROUP OFFSITE - NO SHADOWS |
 | 2022-04-11 | 2022-04-15 | [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager  | AVAILABLE - REMOTE |
 | 2022-04-18 | 2022-04-22 | [David Egan](https://gitlab.com/degan) - Sr. Marketing Data Analyst| [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager |
-| 2022-04-25 | 2022-04-29 | AVAILABLE - REMOTE | [David Egan](https://gitlab.com/degan)- Sr. Marketing Data Analyst |
-| 2022-05-02 | 2022-05-06 | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) - Privacy and Product Paralegal | AVAILABLE - REMOTE |
+| 2022-04-25 | 2022-04-29 | [Janis Altherr](https://gitlab.com/janis) - Fullstack Engineer | [David Egan](https://gitlab.com/degan)- Sr. Marketing Data Analyst |
+| 2022-05-02 | 2022-05-06 | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) - Privacy and Product Paralegal | [Janis Altherr](https://gitlab.com/janis) - Fullstack Engineer |
 | 2022-05-09 | 2022-05-13 | [Hannah Sutor](https://gitlab.com/hsutor) - Sr. Product Manager | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) - Privacy and Product Paralegal |
 | 2022-05-16 | 2022-05-20 | [Cristal McClure](https://gitlab.com/cmcclure1) - Sr. FP&A Analyst | [Hannah Sutor](https://gitlab.com/hsutor) - Sr. Product Manager |
 | 2022-05-23 | 2022-05-27 | AVAILABLE - REMOTE | [Cristal McClure](https://gitlab.com/cmcclure1) - Sr. FP&A Analyst |
