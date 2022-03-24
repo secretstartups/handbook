@@ -16,18 +16,16 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 The goal of a GitLab integrated campaign is to strategically land a cohesive message to a target audience across a variety of channels and offers, dependent on the goals of the campaign. Content types include a combination of blog posts, webinars, whitepapers, reports, videos, case studies, and more. Activation of the campaigns takes place in a number of marketing channels include digital ads, social, paid social, SEO, PR, email, and more.
 
-**Campaign Managers** are responsible for the strategizing of integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
+**[Campaign Managers](/handbook/marketing/demand-generation/campaigns/)** are responsible for the strategizing of integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
 
 In an effort to continually improve our ability to derive success of campaigns, reporting is a focus using Bizible data in Sisense. [Issue here for more information on progress](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/982)
 
 **Questions? Please feel free to ask in the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-campaigns.**
 
-## Who creates new campaigns? 
-{: #campaign-core-teams .gitlab-purple}
-### :star: Campaign Core Teams
-{:.no_toc .hidden-md .hidden-lg}
+### Campaign Core Teams
+{: #campaign-core-teams}
 
-A campaign core team is comprised of functional DRIs across marketing and revenue programs.
+A `Campaign Core Team` is led by a [Marketing Campaign Manager](/handbook/marketing/demand-generation/campaigns/) and is comprised of functional DRIs across marketing and revenue programs.
 
 **Campaign core team members:**
 * Campaigns (DRI)
@@ -39,11 +37,8 @@ A campaign core team is comprised of functional DRIs across marketing and revenu
 * Corporate Marketing (Liaison for activation)
 * Field Marketing (Liaison for activation)
 
-
-## What is a campaign bundle?
-{: #campaign-bundles .gitlab-purple}
-### :star: Campaign Core Teams
-{:.no_toc .hidden-md .hidden-lg}
+### What is in a campaign bundle?
+{: #campaign-bundles}
 
 Think of a **campaign bundle** as the foundational pieces of an integrated campaign. They are used by all teams in marketing and sales to maintain a cohesive message and branding across all tactics and activities aligned to the topical campaign.
 
@@ -56,7 +51,7 @@ To see a visual of campaign bundles, which are then leveraged in activation plan
 * Persona-based positioning and messaging
 * Market landscape
 * Product capabilities
-* Buyer journey content (including awareness, consideration, and decision stages)
+* Content journey (including awareness, consideration, and decision stages)
 * Analyst relations content (if available)
 * Customer references
 * Emails for content in buyer journey
@@ -66,6 +61,31 @@ To see a visual of campaign bundles, which are then leveraged in activation plan
 * Outreach sequences/templates
 * SDR enablement
 
+## How are campaign bundles activated?
+{: #campaign-activation}
+Campaign bundles are leveraged by all teams in marketing and sales to drive a cohesive full-funnel approach with aligned personas, positioning, messaging, and branding across all touchpoints and conversations.
+
+**Activation activites include:**
+- Webcasts
+- Tech Demos
+- Workshops
+- Regional events
+- Corporate events
+- Community events
+- Owned events (Commit)
+
+**Activation channels include:**
+- Email nurture
+- Paid digital (paid social, GDN, etc.)
+- Social
+- PR
+- Community
+
+## How do we measure performance??
+{: #campaign-performance}
+We leverage multi-touch attribution reporting in Sisense to help us understand which campaigns, activities, and channels drive the best results, with a goal of SAO and Pipeline. We review these metrics at a segment/region breakout level, as well as reviewing overall campaign metrics with the campaign core teams to identify optimization opportunities to maximize results.
+
+Our dashboards are owned and managed by the Marketing Strategy and Performance team. [Learn more in the Bizible Handbook >>](/handbook/marketing/marketing-operations/bizible)
 
 ## In Progress and Future Campaigns
 {: #upcoming-integrated-campaigns .gitlab-purple}
