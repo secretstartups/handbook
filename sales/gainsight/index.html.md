@@ -68,7 +68,7 @@ New feature requests can be submitted by creating an issue and selecting the [Ga
 
 To request new email templates be added to Gainsight or the [Digital Journey](/handbook/customer-success/tam/digital-journey/), open an issue in the [Sales Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues) and apply the program request or new program template if relevant. Then `@mention` a Gainsight administrator.
 
-To view recent updates to Gainsight, view [the running changelog](https://docs.google.com/document/d/11yJvTTDlWMrMAbKut1V0LFVoRojID2C_eRWk9ZF3HaA/edit#).
+To view recent updates to Gainsight, view [the running changelog](https://docs.google.com/spreadsheets/d/1QknfSfX50JFOhkHZoz2VjovREWK2fJkYBxr5HEjkT9Q/edit#gid=0).
 
 ### Support tickets
 
