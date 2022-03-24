@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/mlops/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | 2021-08-04 |
-| Target End Date | - |
+| Target End Date | 2022-02-24 |
 | Slack           | #wg_mlops (only accessible from within the company) |
 | Google Doc      | [MLOPs Working Group Agenda](https://docs.google.com/document/d/18iOB05cFxS5to1eT55GwsENirBfVSjHCQJ2ostoY3cw/edit?usp=sharing) (only accessible from within the company) |
 | Board           | [gitlab-org board](https://gitlab.com/groups/gitlab-org/-/boards/3264088?label_name[]=WorkingGroup%3A%3AMLOps) |
@@ -80,6 +80,12 @@ The charter of this working group is to bridge the gap between different teams t
 1. Create a handbook page discussing a deep analysis of the tooling for ML out there and a proof-of-concept framework using an ideal pathway that GitLab teams can refer to and easily extend when kicking off ML-related projects.
 1. Creation of helpers/libraries (presumably in Python) that can be shared across teams and used for the purposes of similar tasks e.g. data access and storage, data pre-processing.
 
+## Outcome
+ 
+1. The Working Group has brought together various teams that are working on different ways to leverage Machine Learning within GitLab the product and in their day-to-day work. It has given these teams a platform to discuss their mission and an opportunity to share knowledge on projects they are currently undertaking and what they are looking to achieve in the near future.
+ 
+2. We will move forward with the creation of a monthly MLOps meetup that focuses on sharing ideas and showcasing work done by different teams, in a less formalized structure, to enhance awareness across the company.
+
 ## Roles and Responsibilities
 
 | Working Group Role    | Person                | Title                                           |
@@ -101,4 +107,6 @@ The charter of this working group is to bridge the gap between different teams t
 | Member                | Wayne Haber         | Engineering director |
 | Member                | Bartek Marnane         | VP, Incubation Engineering |
 | Member                | Marshall Cottrell      | Strategy and Operations (Technical) Staff |
+| Member                | Kelly Chen             | Analytics Manager at Finance |
+| Member                | Jay Stemmer            | Manager, Analytics & Insights | 
 
