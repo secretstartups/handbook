@@ -40,7 +40,7 @@ This certification is ideal for aspiring or new managers, individual contributor
 
 ## How to acccess the certification
 
-The All-Remote Certification is free to complete. To access it, you first need to creat an account by signing up to our Learning Platform, [GitLab Learn](https://gitlab.edcast.com). Once you've signed up and logged in to the platform, [click here or search for Remote Foundations Badge](https://gitlab.edcast.com/pathways/ECL-4d9840ae-0c56-4645-ad7b-452029b1e5bc) to find the pathway. You can then begin working through the course.
+The All-Remote Certification is free to complete. To access it, you first need to create an account by signing up to our Learning Platform, [GitLab Learn](https://gitlab.edcast.com). Once you've signed up and logged in to the platform, [click here or search for Remote Foundations Badge](https://gitlab.edcast.com/pathways/ECL-4d9840ae-0c56-4645-ad7b-452029b1e5bc) to find the pathway. You can then begin working through the course.
 
 ## Remote Work Foundation certification criteria
 
