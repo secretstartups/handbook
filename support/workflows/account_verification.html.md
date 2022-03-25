@@ -250,7 +250,7 @@ When a request to change ownership of a group is received perform the steps in t
 
 #### Offer Self-Service Options
 
-1. Use the [`Support::SaaS::Account Ownership Change Request (Self-Service Options)`]() macro.
+1. Use the [`Support::SaaS::Account Ownership Change Request (Self-Service Options)`](https://gitlab.com/search?search=4534634323612&nav_source=navbar&project_id=17008590&group_id=15990755&search_code=true&repository_ref=master) macro.
 
 If the requestor replies back that self-service options are not possible, proceed to the next section.
 
