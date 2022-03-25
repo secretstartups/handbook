@@ -29,7 +29,7 @@ The table below can be used as a general guide for determining impact:
 | -------- | ----------- |
 | High | -The issue needs to be resolved to mitigate an active S1 or S2 incident <br> -The issue is a roadblock on GitLab.com and blocking customer's business goals and day to day workflow <br> -The damage to the reputation of the business is likely to be high. <br> -Deploys are blocked as a result <br> -The potential financial impact is high|
 | Medium | -The issue is impacting a moderate subset of employees or a small subset of customers <br> -The damage to the reputation of the business is not likely to be high.<br> - The potential financial impact is low but greater than 0 |
-| Low | -The issue is impacting a small subset of employees< <br> -There is no impact on customers <br> -There is no risk to the reputation of the business<li>There is no financial impact|
+| Low | -The issue is impacting a small subset of employees <br> -There is no impact on customers <br> -There is no risk to the reputation of the business <br> -There is no financial impact|
 
 ### Urgency
 
@@ -88,9 +88,9 @@ Issues should always fall in to one of the following states, as defined by the f
    - Example: [Discussion: Should we recreate our zonal/regional clusters differently](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15192)
 3. `workflow-infra::Ready` - Applied after the issues has been triaged by an SRE or Engineering Manager within the Reliability Team.  Ensure the following questions are answered and labeled before marking an issue as `workflow-infra::Ready`:
   - Project or General issue?
-    - Either `work::general` for anything that does not require project resources or `work::project` for anything that does.
+      - Either `work::general` for anything that does not require project resources or `work::project` for anything that does.
   - Priority as defined by the prioritization matrix?
-    - P1, P2, P3, P4, or P5 based on the prioritization matrix.
+      - P1, P2, P3, P4, or P5 based on the prioritization matrix.
 4. `workflow-infra::In Progress` - This label should be applied _only_ after the issue has a Reliability Team member as an assignee.  This label is meant to represent only work that is actively in progress and not to indicate that an issue will be worked on in the future.
 5. `workflow-infra::Done` - This label is applied only when the issue has been closed.
 
