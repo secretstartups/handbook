@@ -27,6 +27,7 @@ Success as a CMOC is determined by the following performance indicators:
 - **Stakeholder communication threads created per incident**: Communicate incident existence to stakeholders according to the documented process. See: [Notify Stakeholders](#notify-stakeholders).
 - **Handover issue created after a shift**: At the end of every shift, create a handover issue to prepare the incoming CMOC. See: [End of Shift Handover Procedure](#end-of-shift-handover-procedure)
 - **Contact requests opened during shift per completed contact request issue**: Complete, handover or otherwise communicate plan to complete all incoming contact requests. See: [About Contact Requests](#about-contact-requests)
+- **Participation in one training event per quarter**: Join at least one incident or participate in (or organize) a training activity. See: [CMOC Training Activities](#cmoc-training-activities)
 
 ## Things to Know
 
@@ -393,14 +394,19 @@ If handover occurs during an active incident where the quick summary you'd provi
 /zoom meeting CMOC Handover Briefing
 ```
 
-## Extras
+## CMOC Training Resources
 
 ### CMOC Shadow PagerDuty Schedule
 {:.no_toc}
 
 The [CMOC Shadow Schedule](https://gitlab.pagerduty.com/schedules#PQBZCSY) can to be used by anyone who wishes to shadow the CMOC to learn before officially acting as CMOC. A soon-to-be-CMOC can adjust the schedule to match their working hours by clicking _Edit this schedule_ > _Add Another Layer_; add your username and the days/hours that you wish to shadow.
 
-### CMOC Training Videos
+### CMOC Training Activities
 {:.no_toc}
 
-It is recommended to watch this video on how to perform CMOC duties effectively: [CMOC training video](https://drive.google.com/drive/u/0/folders/1JArmPtHxfx6YMIWA4Dz1StqGEU2XllRy)
+A "training activity" for CMOCs is an activity under which CMOCs are exposed to items in the workflow with the expressed purpose of maintaining or increasing performance against [CMOC performance indicators](#cmoc-performance-indicators).
+
+Some example training activities are:
+- tabletop exercises
+- a "CMOC Squawk" in which CMOCs in a region synchronously or asynchronously discuss process improvements, tips and tricks
+- Being the CMOC or shadowing an actual incident: real life training is training too!
