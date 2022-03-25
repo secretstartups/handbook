@@ -117,6 +117,20 @@ Requirements for the Staff Analytics Engineer extend the Senior Analytics Engine
 * Experience creating data pipelines in support of near real-time event stream processing
 * Presented multi-quarter development roadmaps to non-technical audiences
 
+#### Staff Analytics Engineer Specializations
+
+Specializations within the Staff Analytics Engineer extend the Senior Analytics Engineer job: 
+
+* Staff Analytics Engineer, Data Architect: 
+  - Sets data architecture principles, standards and guidelines
+  - Continuously reviews current data modelling principles and initiate any improvements to enable the implementation of the intended architecture
+  - Creates an inventory of the data and tools needed to implement a scalable data architecture.
+
+* Staff Analytics Engineer, Technical Lead:
+  - Sets the technical direction for data and cross-functional projects
+  - Coordinates the technical effort during design and development and resolves technical disagreements
+  - Manages the technical quality of team deliverables
+
 ### Principal Analytics Engineer
 
 The Principal Analytics Engineer reports to the [Manager, Data](https://about.gitlab.com/job-families/finance/manager-data) or [Director, Data & Analytics](https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#director-data-and-analytics).
