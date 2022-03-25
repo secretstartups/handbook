@@ -30,6 +30,8 @@ Please see additional information on the 2022 US Benefit Plans:
 
 * Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits. Please review the [2022 Annual Rights and Notices](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing).
 
+**Illinois Team Members:** In accordance to the Illinois Consumer Coverage Disclosure Act, please find the [2022 Coverage Summary](https://drive.google.com/file/d/1TpmjxTN15sauveW5VqN3D18gP1YwoOgi/view?usp=sharing) for the essential health benefits available to you. See the [HDHP](https://drive.google.com/file/d/1zAQExWPX3Bm131RdZQaFqMY-K1RdfMlR/view?usp=sharing), [PPO](https://drive.google.com/file/d/1O9LW50Wa7Dq6C9SRoEiCR422XK-0_2ZB/view?usp=sharing), and [EPO](https://drive.google.com/file/d/1tHFEoBDaI1O4yluL9U-X7RBWG8JZOdOS/view?usp=sharing) Summary Plan Descriptions for reference. 
+
 ## 2021 Plan Year
 
 Team Members can find information on the **2021 Calendar Year** benefit plans, details, and open enrollment [archived here.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/fd1efce5ea06c2a26dddeec9dea3f3c217adeeab/sites/handbook/source/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/index.html.md) 
@@ -155,7 +157,9 @@ In Network:
 | Brand - Preferred          | $30                    | $30                | $30               |
 | Brand - Non-Preferred      | $50                    | $50                | $50               |
 | Rx Plan^                   | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) |
- 
+| Summary Plan Descriptions  | [HDHP](https://drive.google.com/file/d/1zAQExWPX3Bm131RdZQaFqMY-K1RdfMlR/view?usp=sharing)  | [EPO](https://drive.google.com/file/d/1tHFEoBDaI1O4yluL9U-X7RBWG8JZOdOS/view?usp=sharing)       | [PPO](https://drive.google.com/file/d/1O9LW50Wa7Dq6C9SRoEiCR422XK-0_2ZB/view?usp=sharing)               |
+
+
 ** In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an Out of Pocket Max of $20k/$40k, and a coinsurance of 50%. Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans.
  
 *** Cigna will provide an extended network PPO Plan for Utah team members which will include the Intermountain Healthcare System.
@@ -164,6 +168,7 @@ In Network:
 
 Accredo is Cigna's specialty pharmacy. For more information on managing your speciality medication please review the [Accredo Customer Flyer](https://drive.google.com/file/d/1qnRKNGj9a9L9j-7Of-ru32sNSEm__2FD/view?usp=sharing).
  
+
 **Team Member Costs:**
  
 
@@ -188,7 +193,7 @@ Coverage will be provided for the following services:
 * Treatment and/or procedures performed specifically to restore fertility (e.g. procedures to correct an infertility condition).
 * Artificial Insemination, In-vitro, GIFT, ZIFT, etc.
 
-More details can be found on the [2021 PPO SPD](https://drive.google.com/file/d/1Qy3OqQMXfkcCcae_zmvbRKbAla--Wfip/view?usp=sharing) and [2021 HDHP SPD](https://drive.google.com/file/d/1R74l9fxgo9Yyzbc32Ebxm9WOl5m_3dK1/view?usp=sharing). The 2022 SPD Will be posted shortly. 
+ See the [HDHP](https://drive.google.com/file/d/1zAQExWPX3Bm131RdZQaFqMY-K1RdfMlR/view?usp=sharing), [PPO](https://drive.google.com/file/d/1O9LW50Wa7Dq6C9SRoEiCR422XK-0_2ZB/view?usp=sharing), and [EPO](https://drive.google.com/file/d/1tHFEoBDaI1O4yluL9U-X7RBWG8JZOdOS/view?usp=sharing) Summary Plan Descriptions for more details. 
  
 ##### Cigna Transgender Benefit Coverage
  
