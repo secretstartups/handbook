@@ -22,10 +22,8 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 - [Sales Nominated Invitations](/handbook/marketing/demand-generation/campaigns/emails-nurture/#sales-nominated)
-- [Add to Nurture](/handbook/marketing/demand-generation/campaigns/emails-nurture/#add-to-nurture-in-program)
 - [Marketo Program + Salesforce Campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)
-- [Workshop Landing Page and Marketo Setup](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#virtual-workshop-logistical-set-up)
-- To be added (not yet scoped with MOps): GTM Motion token to build in overarching nurture logic and remove "add to nurture" issues.
+- [Workshop Landing Page and Marketo Setup](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up)
 
 ### Team Members
 {: #team}
@@ -35,13 +33,11 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 | Name | Company/Role | GitLab Handle | Email Address |
 | ---- | ------------ | ------------- | ------------- |
 | Ashwinraj Maniraj | Verticurl, Client Success Manager | @ashwin.raj | `ashwinraj.maniraj@verticurl.com` |
-| Jayaprakash D | Verticurl, Campaigns Team Consultant | @? | `jayaprakash.d@verticurl.com` |
-| Sonu Gifty | Verticurl, Campaigns Team Consultant | @sonugifty | `sonugifty.thomas@verticurl.com` |
-| Priya | Verticurl, Campaigns Team Consultant | @@priya_sridhar | `mohanapriya.thangavel@verticurl.com` |
+| Priya | Verticurl, Campaigns Team Consultant | @priya_sridhar | `mohanapriya.thangavel@verticurl.com` |
 | Viswanath R | Verticurl, Project Management | @? | `Viswanath.R@verticurl.com` |
-| Prathap Arumugam | Verticurl, Backup Project Management | @? | `prathap.arumugam@verticurl.com` |
-| Karthikeyan K. | Verticurl, FMM/ABM resource | @? | `karthikeyan.k@verticurl.com` |
-
+| Jitha Asokan | Verticurl, FMM/ABM resource | @jitha.asokan | `jitha.asokan@verticurl.com` |
+| TBD | Verticurl, FMM/ABM resource | TBD  | TBD |
+| Alexia Emmanoulopoulou | Verticurl, EMEA FMC resource | @ae5202 | `alexia.emmanoulopoulou@verticurl.com` |
 
 ## Project Management - Campaigns team
 {: #project-management-campaigns-team}
@@ -121,7 +117,7 @@ In an effort to avoid manually adding the issues we are working on with Verticur
 - **FMM-Verticurl::triage** - label FMM adds when they are ready for the regional FMM Manager to review issue
 - **FMM-Verticurl::wip** -label the regional FMM Manager adds when the issue is 100% cleaned up and they are ready to send the work to Verticurl to complete
 - **FMM-Verticurl::review** - label Verticurl adds when they are ready for us to review the work they have completed
-- **FMM-Verticurl::complete** - Work has been completed.
+- **FMM-Verticurl::scheduled** - label Verticurl adds when email sends have been scheduled
 
 ### Triage Steps
 {: #triage-steps-fmm}
@@ -130,11 +126,11 @@ In an effort to avoid manually adding the issues we are working on with Verticur
 
 1. **GitLab**: Issues are submitted with final copy and all details included, with status `FMM-Verticurl::triage`.
     - At the time of moving to triage, all details must be provided and final (including copy reviewed by relevant stakeholders, and all hyperlinks double-checked and confirmed).
-1. **GitLab**: Triage Manager (Regional Manager, FMM) for relevant team will review the incoming issues for completed details. When details are confirmed and final, Triage Manager will move to `mktg-status::wip` and assign to `FMM Verticurl resource - karthikeyan.k`, `FMM Verticurl resourse - sonugifty` and `FMM Verticurl Resource - priya_sridhar`
+1. **GitLab**: Triage Manager (Regional Manager, FMM) for relevant team will review the incoming issues for completed details. When details are confirmed and final, Triage Manager will move to `mktg-status::wip` and assign to `FMM Verticurl resourse - jitha.asokan` and `FMM Verticurl Resource - priya_sridhar`
     - If Triage Manager finds that all details are not included in the issue, then Triage Manager will add the label `FMM-Verticurl::blocked` and will also comment to the requesting team member what is missing. Once the team member addresses the missing pieces, they then add the `FMM-Verticurl::triage` label again to start the review process over.
-1. **Verticurl**: `FMM Verticurl resource - karthikeyan.k`, `FMM Verticurl resourse - sonugifty` and `FMM Verticurl Resource - priya_sridhar` will assign issue to a Verticurl [DRI](/handbook/people-group/directly-responsible-individuals/) within Verticurl's internal project management system. Today, that is `FMM Verticurl resource - karthikeyan.k`, `FMM Verticurl resourse - sonugifty` and `FMM Verticurl Resource - priya_sridhar`.
+1. **Verticurl**: `FMM Verticurl Resource - priya_sridhar` will assign issue to a Verticurl [DRI](/handbook/people-group/directly-responsible-individuals/) within Verticurl's internal project management system. 
 1. **Verticurl**: Verticurl DRI adds email to the Google Calendar for the anticipated send date.
-    - The requested send date is the due date of the issue. If the requested send date is less than 5 Business Days from the date it is passed to Karthikeyan K, the date of the issue will be scheduled 5 business days out to abide by SLAs.
+    - The requested send date is the due date of the issue. If the requested send date is less than 5 Business Days from the date it is passed to Verticurl, the date of the issue will be scheduled 5 business days out to abide by SLAs.
 1. **Verticurl**: Verticurl DRI completes the setup in Marketo, then sends a test email to the "Reviewers/Approvers" listed in the issue
     - SLA: 24 hours (from day assigned to Verticurl team DRI to provide)
     - [Tables to reference with email addresses of potential reviewers](https://docs.google.com/spreadsheets/d/1AlSJKG2izsC7VKs5yUfL8EttJycYSBZrb38E_rBCAgk/edit#gid=1269662266)
@@ -144,11 +140,12 @@ In an effort to avoid manually adding the issues we are working on with Verticur
     - This chrome extension is recommended by `@nbsmith` for screenshots: [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)
 1. **GitLab**: Issue requester must review and approve email (or provide corrections) via comment in the issue
     - SLA: 24 hours from when the test email is sent and comment added to issue). Feedback and approval in a timeley manner is critical on the GitLab side.
-1. **Verticurl**: Verticurl DRI makes any necessary corrections. If no corrections needed and approval provided by reviewer, Verticurl DRI sets the email to send (time for send to be determined in issue comments).
-1. **Verticurl**: Verticurl checks that email was sent, confirms in comments (tagging issue requester), adds `FMM-Verticurl::complete` and closes out the issue.
+1. **Verticurl**: Verticurl DRI makes any necessary corrections. If no corrections needed and approval provided by reviewer, Verticurl DRI sets the email to send (time for send to be determined in issue comments) and adds the `FMM-Verticurl::scheduled` label.
+1. **Verticurl**: Verticurl checks that email was sent, confirms in comments (tagging issue requester).
+1. **GitLab**: Once email is confirmed sent by Verticurl in step above, FMC closes issue.
 1. Field Marketing will be working through post event reporting with the Verticurl team. Details on that process will be forthcoming.
 
-### eMail Send Times
+### EMail Send Times
 {: #email-send-times}
 
 When working with Verticurl, we must specify a specific time we would like the email to be sent. If the Field Marketer does not provide a specific time, then Verticurl will send at the following times:
@@ -158,3 +155,35 @@ When working with Verticurl, we must specify a specific time we would like the e
 - APAC label: 11am AEST
 
 Should a requested send time be missed, Verticurl can take the liberty to schedule the send within 8 hours of the original ask. If the send time window goes beyond the 8 hour time frame, then Verticurl must get approval from sender to move to a different time. As an example, if the send time was scheduled for 6 AM ET, and for ever reason, the send time did not get scheduled for 6 AM ET, Verticurl can make the decision when to send the email if its between 6:01 AM ET - 2:01 PM ET on the same day of the send.
+
+## EMEA FMC Coordinator 
+The EMEA Field Marketing team has contracted for XYZ hours with Verticurl to augment their FMC duties as that team grows. 
+
+The FMC resources can be found [here](/handbook/marketing/demand-generation/campaigns/agency-verticurl/#team). 
+
+FMC DRI - Helena Dixon. 
+
+Verticurl FMC 
+1. Priya - @priya_sridhar  `mohanapriya.thangavel@verticurl.com` 
+
+### Vericurl FMC Duties 
+1. Verticurl FMC reviews Field Marketing Issues
+1. Verticurl FMC creates the epic and sub-issues 
+
+
+### FMC Triage Steps
+1. **GitLab**: FMM moves the Field Marekting issue to `mktg-status::wip`. The Event details and FMC Checklist must be filled out in full and line item complete in Allocadia to an issue to WIP).
+1. **GitLab**: FMM pings the FMC in the FIeld Marketing issue to request epic and sub issue creation.
+1. **GitLab**: EMEA FMC reviews Field Marekting Issue, confirms the campaign tag or Allocadia ID has been created and adds in the allocadia line item to the event details.
+1. **GitLab**: EMEA FMC adds the label `FMM-Verticurl::wip` to the Field Markeitng Issue and `@helenadixon` will assign issue to a Verticurl FMC DRI (Directly Responsible Individual)
+1. **Verticurl**: Verticurl FMC reviews Field Marketing Issue espcially that the FMC Checklist is complete
+1. **Verticurl**: Verticurl FMC creates the epic and sub-issues utilizing this [list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)  
+1. **Verticurl**: Verticurl FMC adds the event to the appropriate events calendar. All events should be added to the [internal calendar](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar)
+1. **Verticurl**: Verticurl FMC creates the Marketo program and SFDC campaign utilizing the Program Tracking sub-issue previously created
+1. **Verticurl**: Verticurl FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
+1. **Verticurl**: Verticurl FMC pings the EMEA FMC once all sub-issues are created.
+1. **GitLab**: EMEA FMC will change label `FMM-Verticrul::review` to the Field Marketing Issue
+
+
+
+

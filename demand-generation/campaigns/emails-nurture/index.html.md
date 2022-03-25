@@ -16,9 +16,11 @@ twitter_creator: "@gitlab"
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-This page focuses on emails and nurture programs, owned and managed by Marketing Campaigns. The Campaigns Team is heavily focused on building a key element to driving top-funnel demand generation: an "always on", logic-based and persona-driven nurture engine.
+This page focuses on emails and nurture programs, owned and managed by Lifecycle Marketing, Marketing Campaigns, and Marketing Operations. The Campaigns Team is heavily focused on driving leads from Unknown > Inquiry > SAO, leveraging an "always on", logic-based and persona-driven nurture engine.
 
-**When our ideal state top-funnel demand gen nurture engine is in place, we will be able to provide the *right offer* to the *right person* at the *right time* - based on their placement in the buyer journey (lead funnel) and their areas of interest, and in some cases, their location.**
+*The [Intelligent Email Nurture](/handbook/marketing/demand-generation/campaigns/emails-nurture/#intelligent-email-nurture) (launched 2021-12-17) aims at progressing leads from INQ > SAO, and leverages segment/region data to provide the *right offer* to the *right person* at the *right time* - based on their segment, region, and placement in the buyer journey (lead funnel), with persona-focus as a second iteration.*
+
+**Related Handbook: [Email Management](/handbook/marketing/marketing-operations/email-management/)**
 
 **Key foundational elements to achieve this:**
 * A strategically segmented Marketo database
@@ -37,13 +39,15 @@ This page focuses on emails and nurture programs, owned and managed by Marketing
 {: #quick-links}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-To be added
+* [FY21 Email Marketing Database Snapshot](https://docs.google.com/presentation/d/1PGeNl3grnb1G3XFIFsck4tf-vJVL3ny0yi39Q1MhpW4/edit#slide=id.gbd5795ae24_0_18)
+* [Request for FY22 to-date email audit](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1736)
+
 
 ## GitLab Email Calendar
 {: #calendar .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The calendar below documents the emails to be sent via Marketo and Mailchimp for:
+The calendar below documents the emails to be sent via Marketo for:
 1. nurture emails
 1. virtual events (invitations, reminders, and follow ups)
 1. in-person events (invitations, reminders, and follow ups)
@@ -67,37 +71,101 @@ In the event of an severity::1 (critical) security vulnerability email communica
 {: #nurture-programs .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+### Intelligent Email Nurture
+{: #intelligent-email-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+#### Quick Links
+{: #intellient-email-nurture-quick-links}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* [Overview Deck](https://docs.google.com/presentation/d/1N_VM8xHGiQ95PXt09xyuQAa9px0VGEGyJd0KtGdXjzg/edit#slide=id.g106e2c5ac6b_0_0)
+* [Intelligent Marketo Email Nurture Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
+* [MURAL (WIP) of Intelligent Marketo Email Nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1626128789338/8f1cc1f4ff18f63a308032dffdfcc73958541101?sender=jgragnola2053)
+* [Marketo Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF8561A1)
+* [Notes Doc](https://docs.google.com/document/d/19kB9ntQ8aMPVFdiLJH7jqbN4jI9ax-BsujMtnVhKTOA/edit#)
+* [MURAL of experienece prior to intelligent nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1625087469029/970807f67b4072c5d9f4cb22d813de3288a2e70a?sender=jgragnola2053)
+* [CTA & UTM documentation experienece prior to intelligent nurture](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=0)
+
+#### Creating a nurture email program for the Intelligent Nurture
+{: #create-nurture-email}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+**The following process is the technical process for creating a new email send program that is then activated in the appropriate streams/channels of the Intelligent Nurture. The project management process is integrated into the epic/issue creation for our core tactics that would be dropped into the nurture (new content, webcasts, workshops, analyst reports).
+
+1. In Marketo, [Clone this template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8466A1)
+    - Clone into `A Campaign Folder`
+    - Name the program with the following format: `Type-ShortContentName` (i.e. `ebook-scaledci` or `webcast-simlifycicd` or `wrkshp-security`)
+    - Choose the folder: `Master Email Programs (Intelligent Nurture)`
+1. Edit the email in the program
+    - DO NOT UPDATE THE EMAIL CODE or you will break the email from the template.
+    - Copy is indicated in the issue and should align to the email template.
+    - If the email copy is missing an element (i.e. the CTA button is missing, or the subheader is not supplied), please comment in the issue to remind the copywriter of the template to follow.
+1. Add the link to the new email in [this spreadsheet](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=2096477155) in the column named: `Link to New Marketo Program`
+    - If the content/webcast/offer is not listed, create a new row and fill out accordingly, making sure to note the UTM parameters (which are critical to proper reporting) and the Pathfactory URL.
+
+#### Adding a nurture email program to Intelligent Nurture programs/streams
+{: #add-nurture-email}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+After you have created the Email Program (see above: [Creating a nurture email program for the Intelligent Nurture](/handbook/marketing/demand-generation/campaigns/emails-nurture/#create-nurture-email)) and tested your email (including checking UTM parameters), your email is ready to be activated in the Intelligent Nurture.
+
+Work with the Campaigns Team to indicate the appropriate streams for the offer to be included (this is based on segment/region/funnel stage).
+
+1. Navigate to the appropiate nurture program (i.e. AMER Enterprise)
+1. In the appropriate stream (i.e. MQL > SAO), click the plus icon at the top.
+1. Inn the `Type` section, select `Program`
+1. In the `Program Name` section, begin to type in the name of the corresponding email program (i.e. ebook-10stepsciso) and select the program you created for this offer
+1. In the `Smart Campaign` section, select `01 Send Controller`
+1. Now, click the gear icon for your program in the stream and either:
+   - `Activate` if it is not an upcoming event
+   - `Edit Availability` if it is an upcoming event and set the "End Date" for the date of the event. This will automatically stop the email from sending when the event has taken place.
+
+
+#### Reading for those unfamiliar with Marketo
+{: #marketo-nurutre-reading}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* [Adding a Program to an Engagement Program Stream](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.html?lang=en) - we will be employing this advanced setup
+* [Add People to an Engagement Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html?lang=en) - Amy will be managing this in a single automation engine ("air traffic control") to ensure no mailable lead is left behind.
+* [Understanding Engagement Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+
+<!--
 ### Visualization of active nurture streams
 {: #active-nurtures-visualization}
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 To be updated and documented upon revamp of nurture engine and database nurutring FY22 Q2.
 - [Epic for Marketo database audience stretegy for lifecycle marketing engine](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2022)
 - [Epic for overall nurture strategy - no lead left behind](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
+--->
 
-### Active Nurture Programs
+
+
+#### Trial nurture
+{: #nurture-trial}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+* **Goal:** Educate trialers about key features to use during 30 day period.
+* **Delivery System:** Marketo (and Outreach sequences by SDRs)
+* **Trial Key Email:** the self-managed trial sign-up triggers a unique trial key email confirmation before launching the 30 day email series.
+
+<iframe src='https://app.mural.co/embed/40f86b14-b313-48f8-a015-a00dcccfa3b8'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
+
+##### Setup for Trial Nurture
+{: #setup-trial-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+[Marketo Program]()
+
+UTMs
+
+###
+
+### Active Nurture Programs (Prior to Intelligent Nurture)
 {: #active-nurture-programs}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-
-#### SaaS trial nurture
-{: #nurture-trial-saas}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-SaaS Gold trial nurture communication are sent via Marketo and Outreach throughout the 30-day free trial period.
-
-**Goal of the Marketo nurture:** Educate trialers on key features within GitLab Gold SaaS tier.
-
-**Goal of SDR Outreach nurture:** Qualify and meetings setting for SaaS Gold trialers.
-
-**[>> Email copies for SaaS Gold package trial nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/98)**
-
-#### Self-hosted trial nurture
-{: #nurture-trial-self-hosted}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-Self Hosted Ultimate trial nurture communication are sent via Marketo and Outreach throughout the 30-day free trial period.
-
-**[>> Email copies for Self-hosted Ultimate package nurture](https://docs.google.com/presentation/d/1KSAZFwz3nvSTIXOP8urGWW6dJWhtpawVKFcaoFLDPdg/edit#slide=id.g2ae1ad1112_0_22)**
 
 #### GTM motion nurtures
 {: #gtm-motion-nurtures}
@@ -148,35 +216,31 @@ These future state nurture programs will be aligned to GTM Motions, with three s
 {: #add-to-nurture-in-program}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-These smart campaigns are in Marketo program templates in order to add leads to nurture programs. This is the interim of building an automated Nurture Logic Engine, which will enable a more scaled and efficient approach.
+With Intelligent Email Nurture launched, all net-new leads will be automatically added to their appropriate nurture program. We are still migrating existing leads into the programs, so in the meantime, for programs that were set up before 2021-12-15, there still be an `add to nurture` smart campaign. That should be updated as follows:
 
-**Review the smartlist and run:**
-* Smart List (filter):
+**Update the smartlist and run:** Remove all other smartlist steps except the two noted below
+* Smart List (filter): (Must meet both criteria (ALL/AND))
     - Member of Program: (current program, success status) - `NOTE: These are pre-built in the templates, no need to edit!`
-    - Subscription Filters (fitlers here are dependent on program type, and subject to change, so not adding all details)
-    - Not in a trial
-    - Not on an open opportunity
+    - Subscription Filters: `Member of smartlist` IN `Nurture Emailable - DO NOT EDIT`
 * Flow
-    - Add to nurture:
-       - Select the program indicated in the issue description (should include one of the [active nurture program options](/handbook/marketing/demand-generation/campaigns/emails-nurture/#gtm-motion-nurtures))
-       - Select the stream indicated in the issue description (should be awareness, consideration, OR decision/purchase)
+    - Request Campaign - `*Air Traffic Control Automation.00 - Movement - Existing Leads Processor`
 * Schedule
     - Select `Run Once` > Choose `Run Now` > Click `Run`
+
+Once activated, the leads will flow through the appropriate processing campaigns to put them in the right nurture. If they are already in an existing nurture program, they will not be added. That means you do not need to filter out new vs existing leads when updating the smart campaign above.
 
 #### Requesting to add leads to a nurture program
 {: #add-to-nurture-request}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-While the future automated nurture system is in progress, to request to add a segment of leads to a nurture, please create an add-to-nurture issue request:
-   - If Field Marketing is DRI: [request-add-to-nurture](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_add_nurture)
-   - If any other team is DRI: [request-add-to-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
-
-These issue templates are also built into the epic codes throughout the handbook accordingly. As the overarching automated nurture logic is created, AND epic codes consistently indicate the required details for the logic, we will discontinue use of these issue templates.
+There is no need to request addition of leads to a nurture, since all leads will be in their appropriate nurture at all times.
 
 #### In Product Email Campaigns
 {: #in-product-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 To see all the emails,  [click here](https://gitlab.com/groups/gitlab-org/growth/-/epics/62#note_494532868)
+
+To see slide deck, [click here](https://docs.google.com/presentation/d/1QSlbq-ZlMijqaSBA1l29WIn06Z8OAYAgX9_g9CQu3B4/edit#slide=id.g540caf0310_0_0)
 
 **These are also known as:**
 - User onboarding emails
@@ -193,10 +257,10 @@ To see all the emails,  [click here](https://gitlab.com/groups/gitlab-org/growth
 We changed send time from 9am UTC every day (5am on the US east coast, 2am pacific) to 4PM UTC. This Change went live April 29, 2021. We could use April 30th forward for a comparison.
 
 **Who’s part of this project?**  
+- Luis Diego Dambrosio (replaced Nout Boctor-Smith) - email marketing DRI, mailgun analytics, & assist technical setup
 - Michael Karampalas (Create path)
 - Sam Awezek (Trial and add Team paths)
 - Jensen Stava (Verify path)
-- Nout Boctor-Smith - email marketing DRI, mailgun analytics, & assist technical setup
 - Growth engineers - technical setup
 - Valerie Silverthorne - copywriter
 
@@ -210,7 +274,6 @@ Basically, we have a series of emails that deploy to net new namespaces. The goa
 - we only send emails if they have not fulfilled the previous action. For invite it would be if they have started a trial
 
 **Sisense data**  
-
 - [Dashboard](https://app.periscopedata.com/app/gitlab/820093/WIP:-Onboarding-Emails)
 - Control = not getting the email, candidate = getting the emails
 
@@ -230,7 +293,7 @@ All of the HTML email files are in [Litmus](https://litmus.com/folders/14964).
 {: #newsletter .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-#### Process for bi-weekly newsletter
+#### Process for monthly newsletter
 {: #newsletter-process}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -360,10 +423,7 @@ Below are the information from the issue template that will need to be filled ou
 {: #email-request-types}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- **Marketing Emails**: Marketing emails are designed to generate leads. The request process outlined is used for ad-hoc marketing emails (not events, webcasts, integrated campaigns, etc as these all have a separate established process). These emails are sent through Marketo using the marketing database or [existing segments](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#geographic-dma-list).
-- **Terms of Service or Privacy Policy Updates**: Terms of Service or Privacy Policy emails are sent to the user base and are not marketing-related. These emails are sent through MailChimp and may require additional approvals, based on the content or number of recipients.
-- **Support emails**: Support emails are typically sent to a subset of impacted users and are not marketing-related. These emails are sent through MailChimp.
-- **Security emails**: Security emails are sent either to the entire user base or a subset of users and are not marketing-related. They are often urgent, but in the case of the monthly security release, they are scheduled. The monthly security release email is sent through Marketo. Urgent notifications are typically sent through MailChimp.
+Go to [this page](/handbook/marketing/marketing-operations/email-management/#types-of-email) to read more about email management and the different types of emails.
 
 #### Approvals and notifications for email requests
 {: #email-request-approval}
@@ -492,18 +552,9 @@ If you don't have Marketo access and would like to see what the email templates 
 
 All Campaign Managers and reviewers should adhere to the following protocol for every marketing email that is sent to ensure brand consistency and quality in our email program.
 
-We use both Marketo and Mailchimp to send ad-hoc emails. Marketo is the primary system for all marketing emails and the regularly scheduled security updates. Mailchimp should be used for emails to gitlab.com users as these users are not in our marketing systems (unless they have signed up for content). *Examples of emails to be sent through Mailchimp: Critical security updates, support updates that impact a specific subset of users, suspicious account activity notifications.*
+We use both Marketo and MailJet to send ad-hoc emails. Marketo is the primary system for all marketing emails and the regularly scheduled security updates. MailJet should be used for emails to gitlab.com users as these users are not in our marketing systems (unless they have signed up for content). *Examples of emails to be sent through MailJet: Critical security updates, support updates that impact a specific subset of users, suspicious account activity notifications.*
 
- - Once an email request is received using the process above, the Campaign Manager determines which system to send the email from. This is usually Mailchimp unless it is a marketing email to our database.
- - Log into Mailchimp and select "Audience."
- - Select "View Audiences" from the "Manage Audience" drop down on the right side of the screen.
- - Select "Create Audience" and name the audience using ISODate_CampaignName. Complete the Default From email address and name (usually info@, but can be security@ or support@ depending on the email). For "Remind people how they signed up to your audience" select "Entire Database" then click Save.
- - For instructions on adding contacts, review this [documentation](https://mailchimp.com/help/import-contacts-mailchimp/). You can also copy and paste the contacts if the list is small enough. You will be asked to map the fields on your import to the database fields prior to upload.
- - Select "Campaigns." Find a prior campaign that used the same type of email you want to use (plain text or regular). Security emails, privacy policy updates, and terms of service updates use plain text, support emails can use regular.
- - Select replicate, then select the audience you created above. If you do not have the list yet, you can select an existing audience and change it later during the review process.
- - Name the campaign using ISODate_CampaignName. Lay out the email as normal. For information about using Merge Tags, review this [documentation](https://mailchimp.com/help/getting-started-with-merge-tags/).
- - Send a test email to yourself first to confirm email is correct and the links work properly. Then, make any changes and send a test to the designated approvers.
- - Once fully approved, review the audience (and update if necessary), sender, subject line, email and schedule to send.
+To send via MailJet, fill out an issue and follow protocol found [here](/handbook/marketing/emergency-response/#customer-comms-email).
 
 ## Sales nominated flows in Marketo
 {: #sales-nominated .gitlab-purple}
@@ -543,6 +594,45 @@ Send sameple to the DRI for the program (i.e. workshop owner) who is responsible
 
 You can remove specific recurrences of scheduled sales nominated deployments. The FMC is responsible for this change for field marketing activities, and campaign managers are responsible for this change for demand generation activities.
 
-* Navigate to the `Schedule` tab of the Sales Nominated smart campaign
-* Scroll down and you will see the scheduled deployment dates with a small red `x` to the right
-* Click the small `x` next to any of the dates that you would like to remove from the scheduled deployments
+To cancel a send, follow [these directions](handbook/marketing/marketing-operations/campaigns-and-programs/canceling-an-email-send).
+
+## Adding “add to calendar” links in our emails without using 3rd party tools
+{: #email-add-to-calendar}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Example:
+
+[Add to google calendar](https://gitlab.com/) | [Add to other calendar](https://gitlab.com/)
+
+**Note:** gmail inboxes a majority of our sends, according to litmus analytics pixel data. Outlook makes up 3-15% of our recipients. This is exactly what Limus did:
+
+It’s virtually impossible to support all the calendar applications available. To help us understand what calendar tools to focus on, we took a look at our Email Analytics data. The most popular email clients our subscribers use are Apple Mail, Gmail, and Outlook. Using this data, we focused our efforts on creating a “add to calendar” button that would be compatible with iCalendar, Google’s calendar, and Outlook’s calendar.
+[Learn More Here](https://litmus.com/blog/how-to-create-an-add-to-calendar-link-for-your-emails)
+
+### Steps to manually creating “add to calendar” links in our emails
+{: #steps-email-add-to-calendar}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* Create google calendar link for your events
+    - Use this tool to generate your event information: [http://kalinka.tardate.com/](http://kalinka.tardate.com/)
+    - You would have to copy and paste the information for the event from marketo to the tool above, this takes about 2 minutes
+        - Location should be formatted as follows to show up as an address in the google calendar invite<br>
+          **747 Howard St, San Francisco, CA 94103, USA**
+        - Make sure time zone is correct
+
+    - Create link [Example Here](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200406T150000Z%2F20200409T030000Z&text=Google%20Next%202020&location=747%20Howard%20St%2C%20San%20Francisco%2C%20CA%2094103%2C%20USA&details=https%3A%2F%2Fcloud.withgoogle.com%2Fnext%2Fsf%2F) and paste into correct template in Marketo as follows:
+    `<a href=“http://www.google.com/calendar/event?action=TEMPLATE&dates=20200206T035000Z%2F20200206T065000Z&text=Nouts%20test%20event&location=5107%20Oakbrook%20Drive%2C%20Durham%2C%20NC&details=nout's%20test%20event%20”>Add to Google calendar</a>`
+
+* Create ICS file for all other calendars (mostly Outlook and Apple)
+    - Marketo can create an ICS file 
+    - Add “Calendar File” Token to local tokens section
+    - Paste all necessary information (same as above)
+    - Add token to the email as follows: <br>
+      `<a href=“link goes here”>Add to other calendar</a>`
+
+
+### Additional option for "add to calendar": APIs
+{: #add-event-api}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* Use AddEvent API (available for $19/month billed annually for up to 50 events/month).<br>
+  [https://www.addevent.com/plans-and-pricing ](https://www.addevent.com/plans-and-pricing)
+* Use Eventable in Marketo (not sure about price)<br>
+  [https://www.eventable.com/info/add-to-calendar-marketo/](https://www.eventable.com/info/add-to-calendar-marketo/)      

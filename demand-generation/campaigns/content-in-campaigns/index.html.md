@@ -87,28 +87,27 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **Content Marketing DRI:**  
 * **Official Content Name:** 
 * **Official Content Type:** 
-* **Primary GTM Motion:** `CI/CD` `DevOps Platform` OR `GitOps`
-* **Primary Sales Segment:** `Large`, `Mid-Market`, or `SMB`
-* **Primary Buying Stage:** `Awareness`, `Consideration`, or `Decision/purchase`
-* **Primary Use Case:** 
+* **Primary Campaign:** (choose one) CI/CD, DevOps Platform, GitOps, OR DevSecOps
+* **Primary Sales Segment:** (select all approrpiate) Large, MM, and/or SMB
+* **Primary Buying Stage:** (choose one) Awareness, Consideration, OR Decision/Purchase
 * **Primary Persona:** 
 * **Language:** 
-* **Marketo Program Name:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
-* [ ] ~~[main salesforce program]()~~
-* [ ] ~~[main marketo campaign]()~~
+* **Marketo Program Name:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short `YYYY_Type_AssetName` - i.e. `2021_eBook_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
+* [ ] [main salesforce program]()
+* [ ] [main marketo campaign]()
 * [ ] [asset copy draft]() - `doc to be added by Content Marketing`
 * [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
 
 
 ### :books:  Issues to Create
 
-[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
+[Use the No. 1 (no landing page) or No. 3 (contains landing page) workback timeline in the calculator linked here to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 **Required Issues:**
 * [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)
 * [ ] [Asset Copy Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=content-resource-request) - Content
 * [ ] [Asset Design Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=design-request-content-resource) - Digital Design
-* [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content
+* [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content (feel free to just upload and comment in the epic with the link)
 * [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
 * [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
 
@@ -116,9 +115,9 @@ As a guide in developing timeline, please view the workback timeline calculator 
 <summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
 
 * [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
-* [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Social
+* [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic) - Social
 * [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
-* [ ] [Blog](https://about.gitlab.com/handbook/marketing/blog/#process-for-time-sensitive-posts) - Editorial
+* [ ] [Blog](https://about.gitlab.com/handbook/marketing/blog/) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
 
 </details>
@@ -163,23 +162,22 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **External Content (i.e. AR) DRI:**  
 * **Official Content Name:** 
 * **Official Content Type:** 
-* **Primary GTM Motion:** `CI/CD` `DevOps Platform` OR `GitOps`
-* **Primary Sales Segment:** `Large`, `Mid-Market`, or `SMB`
-* **Primary Buying Stage:** `Awareness`, `Consideration`, or `Decision/purchase`
-* **Primary Use Case:** 
+* **Primary Campaign:** (choose one) CI/CD, DevOps Platform, GitOps, OR DevSecOps
+* **Primary Sales Segment:** (select all approrpiate) Large, MM, and/or SMB
+* **Primary Buying Stage:** (choose one) Awareness, Consideration, OR Decision/Purchase
 * **Primary Persona:** 
 * **Language:** 
 * **Budget:** <!-- Match to Allocadia -->
-* **Marketo program name:** `YYYY_Vendor_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_Gartner_MQARO`. This will be used for MKTO/SFDC program. -->
-* [ ] ~~[main salesforce program]()~~
-* [ ] ~~[main marketo campaign]()~~
+* **Marketo Program Name:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short `YYYY_Type_AssetName` - i.e. `2021_report_GartnerMQARO`. This will be used for MKTO/SFDC program. -->
+* [ ] [main salesforce program]()
+* [ ] [main marketo campaign]()
 * [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
 
 ### [Pathfactory & Resource Page Copy]() - `doc to be added by Content Owner` ([use template here](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1837173931)
 
 ### :books:  Issues to Create
 
-[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
+[Use the No. 2 (no landing page) or No. 4 (contains landing page) workback timeline in the calculator linked here to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 **Required Issues:**
 * [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)
@@ -196,11 +194,39 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/indbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
 * [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
+* [ ] Notify Sales Comms about new report available - AR
 
 </details>
 
 /label ~"Analyst Relations" ~"Gated Content" ~"mktg-demandgen" ~"dg-campaigns" ~"mktg-status::wip"
 ```
+
+## Ungated Content Journeys Setup and Tracking
+{: #process-ungated-content-journeys .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+### Add to Pathfactory
+{: #steps-pathfactory-addition}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+A dependency for setting up the tracking of ungated content via Pathfactory <> Marketo is for the content to be added to Pathfactory and used in a Pathfactory track. Below are some shortcuts to the Handbook for more information on Pathfactory upload and setup.
+
+* [Shortcut: HB for adding content to Pathfactory](/handbook/marketing/marketing-operations/pathfactory/content-library/#before-uploading-content) - Content Owner 
+* [Shortcut: HB for creating a track in Pathfactory](/handbook/marketing/marketing-operations/pathfactory/#create-a-content-track) - Content Owner
+   - If part of GTM Motion Campaign prescriptive buyer journey - [more streamlined process](/handbook/marketing/marketing-operations/pathfactory/#pbj-content-tracks) - Campaign Manager
+* [Shortcut: HB for adding form strategy to a track in Pathfactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#form-strategy) - Campaign Manager
+   - Form strategy is required for all content tracks used in demand generation campaigns (located in PathFactory track issue)
+   - The content owner must provide 1-3 related assets for the track, or request Product Marketing to recommend content.
+* [Shortcut: HB for PathFactory URL/UTMs for tracking](/handbook/marketing/marketing-operations/pathfactory/#appending-utms-to-pathfactory-links)
+
+#### Create Marketo program and SFDC campaign sync
+{: #steps-ungated-mkto-sfdc}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+  * Clone the [Marketo Content Template](https://app-ab13.marketo.com/#PG5111A1) and name new program using naming convention (YYYY_Type_AssetName, i.e. 2020_eBook_BegGuideGitOps)
+  * Create SFDC program (Program Summary > `Salesforce campaign sync` > click "not set" and choose "Create New" from dropdown) - leave the name as auto-populates, and add the epic url to the description and "Save"
+
+
+### Activate Marketo automation to track from Pathfactory
+
 
 ## Gated Content Landing Pages (Historic Process/Format)
 {: #gated-content-landing-pages .gitlab-purple}
@@ -269,6 +295,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
 * [ ] Analyst Content: [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) - Multiple teams
+* [ ] Notify Sales Comms about new report available - AR
 
 </details>
 
@@ -276,28 +303,6 @@ As a guide in developing timeline, please view the workback timeline calculator 
 /label ~"Analyst Relations" ~"Gated Content" ~"mktg-demandgen" ~"dg-campaigns" ~"mktg-status::wip"
 ```
 
-### Setting up ungated content journeys
-{: #process-ungated-content-journeys}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-* [Add content to Pathfactory](/handbook/marketing/marketing-operations/pathfactory/content-library/#before-uploading-content) - Content Owner 
-* [Create track in Pathfactory](/handbook/marketing/marketing-operations/pathfactory/#create-a-content-track) - Content Owner
-   - If part of GTM Motion Campaign prescriptive buyer journey - [more streamlined process](/handbook/marketing/marketing-operations/pathfactory/#pbj-content-tracks) - Campaign Manager
-* [Add form strategy to track in Pathfactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#form-strategy) - Campaign Manager
-   - Form strategy is required for all content tracks used in demand generation campaigns (located in PathFactory track issue)
-   - The content owner must provide 1-3 related assets for the track, or request Product Marketing to recommend content.
-* TO BE CONSIDERED: Create program in Marketo/SFDC
-   - `Note to Self @jgragnola: is it necessary to add to program? or could we use whatever would have triggered them in as a filter to hold them back from emails? Is there merit to this? Second way of testing tracking? Historical knowledge in case we ever move off of PF?`
-* TO BE CONSIDERED: Activate automation in Marketo to track content program membership (not for touchpionts, just to enable automation filters)
-   - `Note to Self @jgragnola: is it necessary to add to program? or could we use whatever would have triggered them in as a filter to hold them back from emails? Is there merit to this? Second way of testing tracking? Historical knowledge in case we ever move off of PF?`
-
-
-* **[Handbook instructions for uploading to Pathfactory](/handbook/marketing/marketing-operations/pathfactory/content-library/#before-uploading-content) 
-* Notes/reminders for ungated journey:
-
-   * [Process for adding to /resource page](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#add-to-resources-page) remains the same, but in ungated journey, the URL drives to the PF asset/track (not a landing page)
-   * PathFactory URL/UTM [details](/handbook/marketing/marketing-operations/pathfactory/#appending-utms-to-pathfactory-links)
-   * PathFactory [form strategy](/handbook/marketing/marketing-operations/pathfactory/#form-strategy)
 
 ## Adding new content to the Resources page
 {: #add-to-resources-page .gitlab-purple}
@@ -311,6 +316,8 @@ As a guide in developing timeline, please view the workback timeline calculator 
 5. Assign the merge request to yourself
 6. When you've tested the MR in the review app and all looks correct (remember to test the filtering!), assign to `@jgragnola`
 7. Comment to `@jgragnola` that the MR is ready to merge
+
+*Note: For ungated journeys, the URL drives to the PF asset/track, instead of a landing page.*
 
 **Code:**
 ```
@@ -370,17 +377,20 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * Software Development
 * Toolchain
 
+## How to extend analyst asseets
+{: #extend-analyst-assets .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+At times, we will extend the rights to an asset if it is heavily used by sales or performing in campaigns. In that case the decision is indicated in the [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst).
+
+Follow the steps outlined [in the Pathfactory Content Library Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#replacing-or-updating-the-verson-of-an-asset-after-initial-upload). 
+
 ## How to retire analyst assets when they expire
 {: #retire-analyst-assets .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-
-*Note from @jgragnola: this process needs a lot of work and should be minimal time spent by campaigns team. Create section for ungated journeys, and section (hidden) for former gated pages, and pass to Verticurl.*
-
-* An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) will be open for each analyst asset, and related to the overarching Epic upon gating (with due date for when the asset is set to expire)
-* At times, we will extend the rights to an asset if it is heavily used by sales or performing well in later stage nurture. In that case the decisio nis indicated in the Expiration Issue, and the team is updated.
+An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) will be opened by the Analyst Relations DRi for each analyst asset, and related to the overarching Epic (with due date for when the asset is set to expire). When the decision is made to expire the asset, the teams involved will check off their respective action items in the issue.
 
 ### Retire Marketo landing page
-{: #retire-marketo-page .gitlab-purple}
+{: #retire-marketo-page}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 **First you will remove the form from the page and add a "no longer available" message**
 * In the Marketo program, click "edit" on the Registration Page
@@ -394,6 +404,16 @@ As a guide in developing timeline, please view the workback timeline calculator 
 <h1>This resource is no longer available.</h1>
 <p>Thank you for your interest in this resource, but it is no longer available for download. <a href="https://about.gitlab.com/analysts/" target="_blank" id="">Click here to visit our industry analysts page to view other reports and best practices!</a></p>
 ```
+
+### Remove from Intelligent Nurture
+{: #remove-intelligent-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Please follow the process outlined in the [Emails/Nurture Handbook](/handbook/marketing/demand-generation/campaigns/emails-nurture).
+
+### Remove from Pathfactory
+{: #remove-intelligent-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Please follow the process outlined in the [Pathfactory Handbook](/handbook/marketing/marketing-operations/pathfactory/content-library/#removing-an-asset-from-the-library).
 
 ### Marketo automation and setup for gated landing page
 {: #steps-gated-landing-pages}
