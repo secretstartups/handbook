@@ -384,11 +384,11 @@ If this is to set up a program that involves a channel partner, you must also fo
  - WebEx GitLab Hosted Webcast: [YYYYMMDD_WebEx_WebcastTopic_Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8983D4)
  - Zoom GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
  - Zoom GitLab Hosted Workshops [please follow directions in the workshop set-up section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up):
-     - Project Management: [YYYYMMDD_VirtualWorkshop_ProjectManagement](https://app-ab13.marketo.com/#ME6536A1)
-     - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
-     - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
-     - Advanced CI/CD: [YYYYMMDD_VirtualWorkshop_CI/CD](https://app-ab13.marketo.com/#ME6807A1)  
-     - Jenkins [YYYYMMDD_VirtualWorkshop_Jenkins](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1) 
+     - Project Management: [YYYYMMDD_VirtualWorkshop_ProjectManagement_EventType](https://app-ab13.marketo.com/#ME6536A1)
+     - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop_EventType](https://app-ab13.marketo.com/#ME6521A1)
+     - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation_EventType](https://app-ab13.marketo.com/#ME6532A1)
+     - Advanced CI/CD: [YYYYMMDD_VirtualWorkshop_CI/CD_EventType](https://app-ab13.marketo.com/#ME6807A1)  
+     - Jenkins [YYYYMMDD_VirtualWorkshop_Jenkins_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1) 
 - Self-Service Virtual Event without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
 - Self-Service Virtual Event with Promotion (with or without Marketo Landing Page): [YYYYMMDD_SelfServiceTopic_Region (with Promotion)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8760A1)
 - Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
@@ -428,6 +428,12 @@ If this is to set up a program that involves a channel partner, you must also fo
      * Select the `01a Registration Flow` smart campaign
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the `Schedule` tab and click `Activate`  
+* If this is `Workshop` follow the below activation instructions:
+     * Click the `Smart Campaigns` folder
+     * Select the `00 Interesting Moment` smart campaign, navigate to the Schedule tab and select `Activate`
+     * Select the `01a Registration Flow` smart campaign for virtual webinars or the `03 In-person Processing` smart campaign for in-person events
+     * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag. 
+     * Click to the `Schedule` tab and click `Activate` 
 * If this is an `Owned Event` follow the below activation instructions:
      * Click the `Campaigns` folder
      * Select the `02a - Interesting Moments` smart campaign
