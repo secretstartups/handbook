@@ -452,3 +452,46 @@ The project owner is responsible for following the steps below to create the epi
 
 /label ~"mktg-status::wip" ~"Field Marketing" ~"Vendor Arranged Meetings"
 ```
+
+## Actions after the external virtual event
+{: #post-external-virtual-event .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+###  Posting external virtual event recordings to youtube
+{: #post-youtube}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Follow this handbook documentation on how to [upload external webcast recordings](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube) to the [GitLab branded Youtube channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels).
+
+**This process must be completed by the tactic owner.**
+
+*Note: because these requests move through the Campaign Managers currently and their focus and priority is planning, implementing, and optimizing top-funnel campaign strategies, there is a [5 Business Day SLA](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas).*
+
+For immediate follow up emails, it is recommended to point directly to the GitLab Youtube link (uploaded by the tactic owner) to avoid delays in the send.
+
+If an upload to Pathfactory (and addition to a track), is *required*, the tactiic owner must open a [Pathfactory Upload](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) issue and **include the GitLab Youtube link**, as well as a [Pathfactory Track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) issue to have the asset added to a track.
+
+
+### Gating external webcasts
+{: #post-gating}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+#### Posting external webcasts WITHOUT a tech/alliance partner
+{: #post-gating-non-alliance}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+The recording meets all of the following criterias:
+1. Content solidifies GitLab use case or existing campaign messaging.
+2. Future gated page has an omni-channel (min 2, 1 out of the 2 has to be paid) promotion plans. The issue for the  promotion plans has to be linked to the gating request.
+
+#### Posting external webcasts WITH a tech/alliance partner
+{: #post-gating-with-alliance}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+The recording meets all of the following criterias:
+1. Select or High priority partner: Listed as high priority on the [Alliances Technology Dashboard](https://docs.google.com/spreadsheets/d/1-EE7vChGkDeyJxoM-LjVmUdwYwboxBmq8_42hjHGw_w/edit#gid=0) or is a Select channel partner.
+2. Content solidifies GitLab use case or existing campaign messaging.
+3. Future gated page has an omni-channel (min 2, 1 out of the  2 has to be paid) promotion plans. The issue for the  promotion plans has to be linked to the gating request.
+
+OR  
+
+Ungated video garners 550 youtube views within the first 7 days of posting.
+
+*Note: The 550 min threshold is based on the avg of top 10 videos on gitlab branded youtube channel between 8/11/20 - 8/18/20.*
