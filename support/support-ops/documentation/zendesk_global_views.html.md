@@ -79,12 +79,13 @@ For more information on managing Zendesk via the various GitLab projects, please
 | [Professional Services - Free](https://gitlab.zendesk.com/agent/admin/views/360069758360) | 56 | Professional Services Group |
 | [Billing](https://gitlab.zendesk.com/agent/admin/views/360076283979) | 57 | Billing |
 | [Accounts Receivables](https://gitlab.zendesk.com/agent/admin/views/360038103780) | 58 | Accounts Receivable |
-| [New](https://gitlab.zendesk.com/agent/admin/views/360050766519) | 59 | General |
-| [Open](https://gitlab.zendesk.com/agent/admin/views/360050851560) | 60 | General |
-| [Pending](https://gitlab.zendesk.com/agent/admin/views/66715947) | 61 | General |
-| [On-Hold](https://gitlab.zendesk.com/agent/admin/views/86000057) | 62 | General |
-| [Solved](https://gitlab.zendesk.com/agent/admin/views/360050766879) | 63 | General |
-| [Closed](https://gitlab.zendesk.com/agent/admin/views/360051670340) | 64 | General |
+| [Partner Support](https://gitlab.zendesk.com/agent/admin/views/4561143846044) | 59 | Partner Support |
+| [New](https://gitlab.zendesk.com/agent/admin/views/360050766519) | 60 | General |
+| [Open](https://gitlab.zendesk.com/agent/admin/views/360050851560) | 61 | General |
+| [Pending](https://gitlab.zendesk.com/agent/admin/views/66715947) | 62 | General |
+| [On-Hold](https://gitlab.zendesk.com/agent/admin/views/86000057) | 63 | General |
+| [Solved](https://gitlab.zendesk.com/agent/admin/views/360050766879) | 64 | General |
+| [Closed](https://gitlab.zendesk.com/agent/admin/views/360051670340) | 65 | General |
 
 ## Moving tickets between views
 
