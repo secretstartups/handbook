@@ -28,7 +28,7 @@ Based on these needs, the Data Team is organized in the following way:
 1. **[Data Fusion Teams](/handbook/business-technology/data-team/#data-fusion-teams):** __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions
 1. **[Data Platform & Engineering Team](/handbook/business-technology/data-team/#the-data-platform--engineering-team):** __Center of Excellence__ for data technologies, including owning and operating the Data Stack
 1. **[Data Science Team](/handbook/business-technology/data-team/#the-data-science-team):** __Center of Excellence__ for advanced analytics, including delivery of data science projects to the business
-1. **[Data Collaboration Team](/handbook/business-technology/data-team/#the-data-collaboration-team):** Coming soon!
+1. **[Data Collaboration Team](/handbook/business-technology/data-team/#the-data-collaboration-team):** __Center of Excellence__ for business intelligence and data findability
 
 ## Data Fusion Team Organization
 
@@ -59,12 +59,11 @@ classDiagram
 
 | **GTM** | **R&D** | **G&A** |
 | ----- | ----- | ----- |
-| `@iweeks` _Lead/DRI_ | `@mlaanen` _Lead/DRI_  | `@iweeks` _DRI_                 | 
-| `@ken_aguilar`       | `@snalamaru`           | `@pempey` _Lead_                |
-| `@jeanpeguero`       | `@chrissharp`          | `@jjstark` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  |
-| `@michellecooper`       | `@ttnguyen28`           |   |
-| `@tpoole1`    | `@mdrussell`  |                                 |
-| `@paul_armstrong` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts) |`@jeanpeguero ` GTM Fusion Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  | |  
+| `@iweeks` _Lead/DRI_ | `@iweeks` _Lead/DRI_  | `@iweeks` _DRI_                 | 
+| `@jeanpeguero`       | `@snalamaru`           | `@pempey` _Lead_                |
+| `@michellecooper`       | `@chrissharp`          | `@jjstark` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  |
+|`@paul_armstrong` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)| `@tpoole1`           |   |
+|     | `@mdrussell`  |                                 |
 |  |`@rbacovic` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  | |  
 
 ### Data Platform Team Stable Counterpart
