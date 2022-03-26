@@ -60,7 +60,7 @@ Provide an outstanding and efficient contributor experience, from onboarding mat
 
 #### Reduce Open Community MR Age
 
-* **Why:** Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest open contribution MR age. Analysis and improvements are needed to address product groups with the biggest opportunity. In addtition to improving MR review and gathering feedback.  
+* **Why:** Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest open contribution MR age. Analysis and improvements are needed to address product groups with the biggest opportunity. In addition to improving MR review and gathering feedback.  
 * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/1](https://gitlab.com/groups/gitlab-com/quality/-/epics/1)
 * **DRI:** Contributor Success team (Engineering)
 
@@ -206,7 +206,7 @@ We aim to increase the focus on our community contributions. Below is a timeline
 
 In FY23 we will be focused on growing the number of unique new monthly
 contributors, reducing OCMA and increasing MRARR. This will increase development
-velocity without requiring additional engineering resources. Paralell to this
+velocity without requiring additional engineering resources. Parallel to this
 we'll increase observability of community contributed value through improving
 the business intelligence around it. This will allow us to create some
 predictability through foreshadowing. These efforts are cross-functional and
@@ -242,7 +242,7 @@ Engineering Productivity team.
 
 #### OCMA
 
-1. Minimze reliance on human factors that contribute to a large standard deviation
+1. Minimize reliance on human factors that contribute to a large standard deviation
 1. Support Engineering Productivity in driving OCMA down
 
 ## Team Responsibilities
@@ -255,7 +255,7 @@ Engineering Productivity team.
 * Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
 * Improve community recognition system and awards in collaboration with Community Relations team.
 * Nominate impactful community contributors and contributions for recognition.
-* Contribute as an MR Coach in one or more MR Coach speciality.
+* Contribute as an MR Coach in one or more MR Coach specialties.
 * Provide guidance and coaching to team members on technical contributions, product architecture, and other areas.
 * Be a point of escalation for community contributors and identify GitLab DRIs to resolve blockers
 * Participate in GitLab's overall open source outreach events and processes.
