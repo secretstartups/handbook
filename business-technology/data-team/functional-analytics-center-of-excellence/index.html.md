@@ -58,6 +58,8 @@ The [central data team](https://about.gitlab.com/handbook/business-technology/da
 ## Working With Us
 - Slack channel: #functional_anlytics_center_of_excellence
 - Open an issue in our [Functional Analytics Center of Excellence](https://gitlab.com/gitlab-data/functional-analytics-center-of-excellence/) project
+- Join our biweekly meetings or monthly project turn and shares: ask in our Slack channel
+- Read our [meeting notes](https://docs.google.com/document/d/1fQ8zO1t4q_YkwatAlfSleFIG5iugQhx3pOiTxqCs4kk/edit?usp=sharing) and watch meeting recordings [access required]
 
 
 
