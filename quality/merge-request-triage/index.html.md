@@ -88,7 +88,7 @@ The Complete Triage is divided into 3 subcategories depending on the community m
 
 A merge request is considered completely triaged when it has:
 
-- a reviewer assigned by the [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/) Manager.
+- a reviewer assigned by a member of the [GitLab Website Community Team](https://gitlab.com/gitlab-com-community).
 - been reviewed by a reviewer.
 
 Typically, the reviewer is the [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html) of the page the merge request is updated. If there is no code owner assigned, the triager will reach out to the relevant team the page belongs to identify a reviewer.
@@ -100,7 +100,7 @@ A merge request is considered completely triaged when it:
 
 - is closed following the [closing policy for issues and merge requests](https://docs.gitlab.com/ee/development/contributing/#closing-policy-for-issues-and-merge-requests).
 
-This triage process is being done manually on a case-by-case basis by the Code Contributor Program manager or the relevant [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html).
+This triage process is being done manually on a case-by-case basis by a member of the [GitLab Website Community Team](https://gitlab.com/gitlab-com-community) or the relevant [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html).
 
 ## Inactive MR Triage Policy
 
@@ -119,10 +119,10 @@ Community contributions are valuable, and we should handle them as effectively a
 | Triage Level                                                                            | Triage SLO                                 | Escalation path if SLO target is missed                                                                    |
 |-----------------------------------------------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | [Initial Triage](#initial-triage)                                                       | 24 hours                                   | Reach out to [Engineering Productivity team][Engineering Productivity team]|
-| [Partial Triage](#partial-triage)                                                        | 7 days                                     | Reach out to the the [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/) Manager
-| [Complete Triage for Open Merge Requests](#complete-triage-for-open-merge-requests)     | - 7 days to assign <br> - 7 days to review | Reach out to the [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/) Manager         |
+| [Partial Triage](#partial-triage)                                                        | 7 days                                     | Reach out to the [GitLab Website Community Team](https://gitlab.com/gitlab-com-community) by directly tagging `@gitlab-com-community` at the merge request.
+| [Complete Triage for Open Merge Requests](#complete-triage-for-open-merge-requests)     | - 7 days to assign <br> - 7 days to review | Reach out to the [GitLab Website Community Team](https://gitlab.com/gitlab-com-community) by directly tagging `@gitlab-com-community` at the merge request.        |
 | [Complete Triage for Merged Merge Requests](#complete-triage-for-merged-merge-requests) | 7 days                                     | Reach out to [Engineering Productivity team][Engineering Productivity team] |
-| [Complete Triage for Idle Merge Requests](#complete-triage-for-idle-merge-requests)    | 7 days                                     | Reach out to the [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/) Manager         |
+| [Complete Triage for Idle Merge Requests](#complete-triage-for-idle-merge-requests)    | 7 days                                     | Reach out to the [GitLab Website Community Team](https://gitlab.com/gitlab-com-community) by directly tagging `@gitlab-com-community` at the merge request.      |
 
 [GitLab.com]: https://gitlab.com/groups/gitlab-org
 [Engineering Productivity team]: /handbook/engineering/quality/engineering-productivity/
