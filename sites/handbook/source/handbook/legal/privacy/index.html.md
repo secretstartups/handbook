@@ -1,9 +1,10 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Privacy"
+title: "GitLab Product & Privacy"
 description: "This page helps GitLab Team Members understand the privacy practices at GitLab and to facilitate a culture that respects and prioritizes the privacy of our Team Members and users"
 ---
 
+# Privacy
 ## On this page
 
 {:.no_toc .hidden-md .hidden-lg}
@@ -121,6 +122,7 @@ As noted above the DPIA is a confidential document that is only accessible on a 
 4. Security will be consulted on current and recommended controls.
 5. Privacy will ensure that all sections are complete and that supporting documentation is attached as appendices.
 
+# Product
 ## Marketing
 * Visit the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/), which covers amongst other things [Promotional Games](https://about.gitlab.com/handbook/legal/marketing-collaboration/#promotional-games) and [Media Consent and Model Release Requests](https://about.gitlab.com/handbook/legal/marketing-collaboration/#media-consent-and-model-release). 
 * If the request is not addressed in the Marketing Guide, open a new [General Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template).
