@@ -188,7 +188,7 @@ The Senior Manager, Solutions Architects is a [grade 9](/handbook/total-rewards/
 
 #### Senior Manager, Solutions Architects Requirements
 
-- Extends the Solutions Architect requirements
+- Extends the Manager, Solutions Architect requirements
 - Previous leadership experience with a proven track record of success.
 - Previous leadership experience at GitLab is a plus.
 
