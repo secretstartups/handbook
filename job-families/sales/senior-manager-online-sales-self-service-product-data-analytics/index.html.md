@@ -10,7 +10,7 @@ The Data Analyst role is responsible for assisting in the creation and scaling o
 The Analyst, Online Sales & Self Service Data reports to the Senior Manager, Online Sales & Self Service Product & Data Analytics.
 
 ### Job Grade
-The Senior Analyst, Online Sales & Self Service Growth is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Analyst, Online Sales & Self Service Growth is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 * Comfortable working with large data sets via query languages and BI tools for dashboards and reporting
