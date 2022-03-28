@@ -75,7 +75,7 @@ This will vary depending on location and entity. Please refer to [Payroll Pay Da
 
 #### When will I receive (if applicable) commission payment(s)?
 
-Any final commissions earned up until your last working day will be paid (directly deposited) at the end of the next month. Commissions are paid one month in arrears, so for example, if your last day is January 7, any January commissions would be paid at the end of February. If you have any questions on this payment, please contact Sales Commissions at `sales-comp@gitlab.com`. 
+Any final commissions earned up until your last working day will be paid (directly deposited) in the next month's commission payroll cycle based on your location. Commissions are paid one month in arrears, so for example, if your last day is January 7, any January commissions would be paid in February. If you have any questions on this payment, please contact Sales Commissions at `sales-comp@gitlab.com`. 
 
 #### When do I submit my final reimbursable expenses?
 
