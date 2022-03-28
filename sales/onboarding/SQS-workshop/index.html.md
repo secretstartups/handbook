@@ -23,34 +23,17 @@ title: "Sales Quick Start (SQS) Workshop"
 This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjdhrpyi9vB81kvdJ4H-66F8ghv-h_-_bGw/edit?usp=sharing) contains the most up to date agenda for our in-person Sales Quick Start Workshop. Please check the tabs at the bottom of this document to see each day's agenda. This agenda is subject to change based on the individual needs of the class and the availability of SMEs, but we will make every effort to surface those changes in this document.
 
 
-## SQS Remote Agenda:
+## Sales Quick Start Remote Agenda:
 
-
-### SQS 22 - March 2022
-
-| DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
-| ------ | ------ | ------ | ------ | ------ |
-|March 9, 2022 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement  |
-|March 9, 2022 | 11:30a ET | 12:50p ET | Value Card Exercise | Field Enablement |
-|March 10, 2022 | 10:00a ET | 11:20a ET | Discovery Question Exercise | Field Enablement  |
-|March 10, 2022 | 11:30a ET | 12:50p ET | Differentiator Exercise | Field Enablement  |
-|March 11, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
-|March 11, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
-|March 14, 2022 | 10:00a ET | 10:30a ET | Field Security |  Field Security Team   |
-|March 14, 2022 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence  |
-|March 14, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
-|March 21, 2022 | 10:00a ET | 10:50a ET | Discussion: Professional Services | Professional Services Team    |
-|March 21, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
-|March 22, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
-|March 22, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
-|March 23, 2022 | 10:00a ET | 10:50a ET | Channels |  Channel Team   |
-|March 23, 2022 | 11:00a ET | 11:50a ET | Discovery Call 3 | Mock Customers |
 
 
 ### SQS 23 - April 2022
 
+* Workshop times quoted are United States Eastern Daylight Time (Atlanta, Georgia) (UTC -4)
+
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
+|April 7, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement  |
 |April 13, 2022 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement  |
 |April 13, 2022 | 11:30a ET | 12:50p ET | Value Card Exercise | Field Enablement |
 |April 14, 2022 | 10:00a ET | 11:20a ET | Discovery Question Exercise | Field Enablement  |
@@ -66,6 +49,30 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 |April 20, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
 |April 21, 2022 | 10:00a ET | 10:50a ET | Channels |  Channel Team   |
 |April 21, 2022 | 11:00a ET | 11:50a ET | Discovery Call 3 | Mock Customers |
+
+
+### SQS 24 - May 2022
+
+* Workshop times quoted are United States Eastern Daylight Time (Atlanta, Georgia) (UTC -4)
+
+| DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
+| ------ | ------ | ------ | ------ | ------ |
+|May 4, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement  |
+|May 11, 2022 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement  |
+|May 11, 2022 | 11:30a ET | 12:50p ET | Value Card Exercise | Field Enablement |
+|May 12, 2022 | 10:00a ET | 11:20a ET | Discovery Question Exercise | Field Enablement  |
+|May 12, 2022 | 11:30a ET | 12:50p ET | Differentiator Exercise | Field Enablement  |
+|May 13, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
+|May 13, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
+|May 16, 2022 | 10:00a ET | 10:30a ET | Field Security |  Field Security Team   |
+|May 16, 2022 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence  |
+|May 16, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
+|May 17, 2022 | 10:00a ET | 10:50a ET | Discussion: Professional Services | Professional Services Team    |
+|May 17, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
+|May 18, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
+|May 18, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
+|May 19, 2022 | 10:00a ET | 10:50a ET | Channels |  Channel Team   |
+|May 19, 2022 | 11:00a ET | 11:50a ET | Discovery Call 3 | Mock Customers |
 
 
 
