@@ -99,30 +99,33 @@ Once the total rewards team has approved the bike or ticket application, an invo
 
 ## GitLab Ireland LTD Leave Policy
  
-### Sick Leave
-Effective January 1, 2022 team members in Ireland are entitled to 3 days of paid sick leave per year. The new entitlement will be phased in as part of a 4-year plan, starting with 3 days Statutory Sick Pay (SSP) per year in 2022, increasing to a maximum of 10 days paid SSP in 2025, as follows:
+### Statutory Sick Leave
+Effective January 1, 2022 team members in Ireland are entitled to minimum of 3 days of paid sick leave per year. The new entitlement will be phased in as part of a 4-year plan, starting with 3 days Statutory Sick Pay (SSP) per year in 2022, increasing to a maximum of 10 days paid SSP in 2025, as follows:
 
 - 2022: 3 days
 - 2023: 5 days
 - 2024: 7 days
 - 2025: 10 days
 
-#### Sick Leave Pay Calculations
-GitLab will be required to pay 70% of an team member’s gross wage, subject to a daily cap of €110. This daily cap is based on the 2019 average weekly earnings and equates to an annual salary of €40,889.16. It may be revised in the future in line with inflation and changing incomes. 
+Ireland's statutory sick leave policy is separate from GitLab's [Sick Time policy](/handbook/paid-time-off/#sick-time---taking-and-reporting) but when allowed by law will run concurrently with this leave policy.  If a team member needs more time away, GitLab's Sick Time policy will take precedence. 
 
-#### Sick Leave Eligibility
+#### Statutory Sick Leave Pay Calculations
+GitLab is required to pay a minimum of 70% of an team member’s gross wage, subject to a daily cap of €110, but will continue the team member's salary up to 100%. Team members must identify the absence as sickness-related (and comply with the notification requirements below) in order to receive the SSP.   
+    - This daily cap is based on the 2019 average weekly earnings and equates to an annual salary of €40,889.16. It may be revised in the future in line with inflation and changing incomes. 
+
+#### Statutory Sick Leave Eligibility
 * Worked for GitLab for more than 13 continuous weeks, and
-* Must provide a medical certificate in respect of each absence.
+* Must provide a medical certificate for consecutive absence exceeding 2 days.
 
-#### Applying for Sick Leave
-* Contact `leaves@gitlab.com` as soon as you are made aware of the need for a leave and include your medical certificate in the email.  
+#### Applying for Statutory Sick Leave
+* If your absences exceed 2 consecutive days, please contact the Absence Management Team `leaves@gitlab.com` and include your medical certificate in the email.  
 * Team members must designate all time off for illness as `Out Sick` in PTO by Roots to ensure the Sick Leave is properly tracked. 
 
 #### Illness Benefit
-If you need more time away beyond the entitlement under Ireland's Sick Leave, you should apply for the [Illness Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/disability_and_illness/disability_benefit.html). Please contact `leaves@gitlab.com` as soon as you know you will be applying for this benefit.
+Team Members may also be eligible for Ireland's [Illness Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/disability_and_illness/disability_benefit.html). Please contact `leaves@gitlab.com` for more information.
 
 ### Vacation Leave
-* Team members are entitled to a maximum of four weeks of statutory vacation each year, which is calculated in accordance with the [Organisation of Working Time Act of 1997](https://revisedacts.lawreform.ie/eli/1997/act/20/revised/en/html#SEC19). Part-time team members’ entitlement is calculated on a pro-rata basis. Unused statutory vacation time may not be carried over into the following calendar year, other than under exceptional circumstances and with GitLab’s prior written consent. GitLab does not provide pay in lieu of unused statutory vacation entitlement other than on termination of employment. If your employment terminates for any reason, you will receive pay for any accrued but unused statutory vacation entitlement. If your employment terminates, and at the date of termination you have exceeded your statutory vacation entitlement, the excess will be deducted from your final pay. Vacation leave runs concurrently with GitLab PTO. Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
+* Team members are entitled to a maximum of four weeks of statutory vacation each year, which is calculated in accordance with the [Organisation of Working Time Act of 1997](https://revisedacts.lawreform.ie/eli/1997/act/20/revised/en/html#SEC19). Part-time team members’ entitlement is calculated on a pro-rata basis. Unused statutory vacation time may not be carried over into the following calendar year, other than under exceptional circumstances and with GitLab’s prior written consent. GitLab does not provide pay in lieu of unused statutory vacation entitlement other than on termination of employment. If your employment terminates for any reason, you will receive pay for any accrued but unused statutory vacation entitlement. If your employment terminates, and at the date of termination you have exceeded your statutory vacation entitlement, the excess may be deducted from your final pay. Vacation leave runs concurrently with GitLab PTO. Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
  
 ### GitLab Ireland LTD Maternity, Adoptive, Paternity, Parent’s and Parental Leave
  
