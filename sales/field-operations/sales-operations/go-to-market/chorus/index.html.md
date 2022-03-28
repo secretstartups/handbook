@@ -19,7 +19,9 @@ If you have a meeting that was not on your calendar that you would like Chorus t
 
 ## Chorus Training & Enablement
 - Please familiarize yourself with [GitLab's SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) before utilizing Chorus.
-- All ROW team members are required to complete the [Chorus GDPR Training](https://classroom.google.com/u/0/c/MTI5NDQzODc5NzE1) in order to be granted Recorder access. SalesOps will send team members an invitation through Google Classroom to complete the course once their [Baseline Role-Based Entitlement](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/) is submitted by their manager.
+- All ROW team members are required to complete the [Chorus GDPR Training](https://gitlab.edcast.com/insights/card-c6492843-12f5-4353-9aab-fa82cf58d9cd) in order to be granted Recorder access. SalesOps will provide team members with the link to the EdCast Chorus training once their [Baseline Role-Based Entitlement](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/) is submitted by their manager.
+  - Once the team member has completed training, they will notify SalesOps to have their license updated to a Recorder license in Chorus.
+  - SalesOps will verify course completion via an [EdCast report](https://edcast-536.domo.com/page/1681897168/kpis/details/1056608406).
 
 ## Chorus.ai Resources
 
@@ -33,6 +35,7 @@ If you have a meeting that was not on your calendar that you would like Chorus t
 
 ## Chorus.ai Basics
 
+- Update Email Communication Preferences in your [Chorus Personal Settings](https://chorus.ai/settings/personal-settings)
 - [Getting Started with Chorus](https://docs.chorus.ai/hc/en-us/sections/115002365608-Getting-Started-with-Chorus)
 - [Chorus Basics for SDRs and Reps](https://docs.chorus.ai/hc/en-us/sections/360003251593-Chorus-Basics-for-SDRs-BDRs-and-Reps)
 - [Chorus Basics for Managers & Sales Enablement](https://docs.chorus.ai/hc/en-us/sections/115002370787-Chorus-Basics-for-Managers-Sales-Enablement)
@@ -42,7 +45,7 @@ If you have a meeting that was not on your calendar that you would like Chorus t
 
 - The data retention policy for recorded calls in Chorus is 90 days as of March 1, 2022
 - To preserve snippets of calls in EdCast indefinitely, approval from Legal must be obtained by pinging the #legal channel in Slack
-- To download recordings & create playlists the User must obtain approval from Legal by pinging the #legal channel in Slack
+- To download recordings & create playlists the User must obtain approval from their manager and Legal by pinging the #legal channel in Slack with a link to the recording they would like saved
   - Snippets saved to any playlists will be preserved
   - Snippets saved on the call will be deleted according to the retention policy
 - All Team Members approved for Recorder status are armed with a talk track to inform participants why the call is being recorded and letting them know they can request the call to not be recorded. If the Customer objects, the recording must be turned off or a new call must be initiated.
@@ -53,15 +56,15 @@ If you have a meeting that was not on your calendar that you would like Chorus t
 
 ## Swim Lanes
 ### Recorder Access
-- US Sales
-- US Customer Success
+- US SALs and AEs
+- US TAMs and SAs
 - US SDRs
-- ROW Sales upon completion of [Chorus GDPR Training](https://classroom.google.com/u/0/c/MTI5NDQzODc5NzE1)
-- ROW SDRs upon completion of [Chorus GDPR Training](https://classroom.google.com/u/0/c/MTI5NDQzODc5NzE1)
+- ROW SALs, AEs, TAMs, and SAs upon completion of [Chorus GDPR Training](https://gitlab.edcast.com/insights/card-c6492843-12f5-4353-9aab-fa82cf58d9cd)
+- ROW SDRs upon completion of [Chorus GDPR Training](https://gitlab.edcast.com/insights/card-c6492843-12f5-4353-9aab-fa82cf58d9cd)
 
 ### Listener Access
 - All Public Sector team members
-- All GitLab team members in non-customer facing roles
+- All GitLab team members in non-customer facing roles including, but not limited to, those in Operations roles and all Managers regardless of their org
 - GitLab team members may request Listener access through an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use) which may be granted on a case by case basis
 
 ## Why is My Meeting "Live"?
