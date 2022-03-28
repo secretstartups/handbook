@@ -22,7 +22,7 @@ When a lead is passed to a partner, they will be suspended from GitLab marketing
 Keep in mind, they will still be eligible for `operational` email sends - which includes most follow up emails. If you want to exclude them, you will need to add a parameter to the smart list of that send campaign to say `Prospect Share Status` not equal to `Pending, Sending to Partner, Accepted`
 
 ## Partner CRM Ids
-For a running list of partners and their CRM Ids, which is critical to the processes below, [click here](https://docs.google.com/spreadsheets/d/1VGWbbxyjclAopwO_e3JnYZtXysPQ1-UIUt8uBZRXLyE/edit?usp=sharing).
+For a running list of partners and their CRM Ids, which is critical to the processes below, [click here](https://gitlab.my.salesforce.com/00O4M000004aSq6).
 
 If you are working with an Open or Select partner who is not listed please add the partner to the Google Doc and include their partner ID which can be found in their Partner Account record within SFDC, in the 9th section called "Vartopia Deal Registration Access".  The field labeled Account ID (18) contains their ID. If you can't find the field, do a quick `commandF` for the word `Account ID (18)` and that will take you to the ID. If for some reason the ID is missing, reach out in the #channel-programs-ops slack room. 
 
@@ -167,7 +167,7 @@ If you included the Allocadia ID, follow these steps. Otherwise, you'll need to 
 - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
 - `Budgeted Cost` in SFDC pulls from your plan number, not your forecast number from Allocadia. If you do not have a plan cost in Allocadia then `Budgeted Cost` in SFDC will remain blank. If this is the case, you will want to add in your `Budgeted Cost` manually into your SFDC campaign.
 
-For more information on Allocadia, go [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#allocadia-information)
+For more information on Allocadia, go (here - tbd)
 
 #### Step 4b: Update without Allocadia
 If you did not include the Allocadia ID in the description, you'll need to update the steps below:
