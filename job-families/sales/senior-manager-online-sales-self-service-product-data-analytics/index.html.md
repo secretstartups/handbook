@@ -24,7 +24,7 @@ The Analyst, Online Sales & Self Service Growth is a [grade 6](https://about.git
 ### Requirements
 * Ability to use GitLab
 * BS/BA degree in business engineering, economics, or related degree OR equivalent combination of education, training, and experience
-* Demonstrated progressive of experience in data analytics
+* Demonstrated progressive experience in data analytics
 * Excellent written and verbal communication skills
 * Comfortable presenting data and providing recommendations with confidence
 * Familiarity with sales & marketing funnel reporting and industry KPIs, such as website sessions, MQLs, pipeline, and bookings
@@ -55,7 +55,7 @@ The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](https://ab
 ### Requirements
 * Ability to use GitLab
 * BS/BA degree in business engineering, economics, or related degree OR equivalent combination of education, training, and experience
-* Demonstrated progressive of experience in data analytics
+* Demonstrated progressive experience in data analytics
 * Excellent written and verbal communication skills
 * Comfortable presenting data and providing recommendations with confidence to senior level stakeholders, even when there is ambiguity involved
 * A knack for identifying and investigating anomalies in data and operations
@@ -90,7 +90,7 @@ The Manager, Online Sales & Self Service Growth is a [grade 8](https://about.git
 ### Requirements
 * Ability to use GitLab
 * BS/BA degree in business engineering, economics, or related degree OR equivalent combination of education, training, and experience
-* Demonstrated progressive of experience in data analytics
+* Demonstrated progressive experience in data analytics
 * Excellent written and verbal communication skills
 * Comfortable presenting data and providing recommendations with confidence to senior level stakeholders, even when there is ambiguity involved
 * A knack for identifying and investigating anomalies in data and operations
