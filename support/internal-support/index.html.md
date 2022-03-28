@@ -220,6 +220,8 @@ By default, [trial licenses do not include support](https://about.gitlab.com/sup
 
 If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, as a member of the Sales team **you can grant temporary support for their trial license**. Please note this is only available for 60 days maximum. After that point, the account will be downgraded back to the standard levels for a trial/prospect.
 
+**Please note**: This only applies to Prospects (i.e. non-customers). Existing customers are not eligible for trial/prospect support, as the purpose of this is for prospects for whom evaluation of support is a criteria in their decision.
+
 You can do this via Salesforce in a few simple steps:
 
 1. Browse to the organization's Salesforce record, locate the field titled `Manual Support Upgrade` and add a check mark.
