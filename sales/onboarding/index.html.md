@@ -31,15 +31,15 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
-| Mar 9 - Mar 18 2022 | AMER / EMEA | Virtual | [SQS 22 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1259) | 
-| April 2022 | AMER / EMEA | Virtual | [SQS 23 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1301) | 
-
+| Apr 13 - Apr 21 | AMER / EMEA | Virtual | [SQS 23 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1301) | 
+| May 2022  | AMER / EMEA | Virtual | [SQS 24 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1379) | 
 
 
 ## Past Sales Quick Start (SQS) Workshops
 
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
+| Mar 9 - Mar 18 2022 | AMER / EMEA | Virtual | [SQS 22 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1259) | 
 | Feb 16 - Feb 25 2022 | AMER / EMEA | Virtual | [SQS 21 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1191) |  
 | Jan 12 - Jan 21 2022 | AMER / EMEA | Virtual | [SQS 20 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1042) | 
 | Dec 1 - Dec 10 2021 | AMER / EMEA | Virtual | [SQS19 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/953) |
