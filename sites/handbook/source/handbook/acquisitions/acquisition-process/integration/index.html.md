@@ -44,7 +44,8 @@ The DRI for the integration stage is the Sr. Dir. Corporate Development. This wi
 
 ### People integration
 
-1. 2 months after the new team members have joined GitLab, the [acquisition team member survey](https://docs.google.com/document/d/19unq7wVuZLiMklvvTxfRkV3NhI6gm_B6u5ipGUhxP9E/edit) should be sent by the People Ops Specialist through CultureAmp
+1. 3 months after the new team members have joined GitLab, the [acquisition team member survey](https://gitlab.com/gitlab-com/people-group/people-business-partners/-/issues/35) should be sent by the People Ops Specialist through CultureAmp.
+2. For any internal team members that wish to transition to/apply for roles on acquired teams, hiring managers should be particularly diligent about reviewing context and information pertaining to the acquisition details, charter, milestones, goals, etc. Acquired teams, particularly in early stages, can operate differently than a typical team at GitLab in that the first 6-12 months (or more) of work given that the milestones and directions are pre-defined as part of the acquisition agreement. We want to ensure full transparency is maintained with team members who transition in an effort to set them up for success. 
 
 ### Field enablement
 
