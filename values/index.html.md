@@ -20,7 +20,7 @@ twitter_creator: "@gitlab"
 
 GitLab's six core values are
 [**🤝 Collaboration**](#collaboration),
-[**📈 Results** ](#results),
+[**📈 Results**](#results),
 [**⏱️ Efficiency**](#efficiency),
 [**🌐 Diversity, Inclusion & Belonging**](#diversity-inclusion),
 [**👣 Iteration**](#iteration), and
