@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Compliance Information"
-description: "This page offers a single source related to compliance information."
+title: "Corporate Legal"
+description: "This page offers a single source related to corporate legal information."
 ---
 Please note that all links are GitLab-internal only.
 
