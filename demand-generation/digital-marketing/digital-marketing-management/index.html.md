@@ -27,33 +27,6 @@ We also support these objectives (ordered from top to bottom funnel):
 - Content Downloads
 - Lead Generation
 
-### FY22 Plan & Initiatives
-{: #fiscal-year-plan}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-#### Media Plan
-{: #media-plan}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-This visualization of the paid digital media campaign structure shows how our FY22 budget is currently mapped and which channels we can enable when it comes to certain segmentation and targeting types, and also how many levels can be affected when a budget shift occurs. From the total budget, the media spend narrows down to segment, then geo, then subregion depending on the geo, then targeting, then channel, then campaign which covers use cases / GTM motions and personas depending on the channel. 
-
-This Mural is updated regularly to reflect changes or shifts in Digital Marketing budget/strategy according to pipeline:
-
-<iframe src="https://app.mural.co/embed/77a89611-1f11-43f9-8ee5-03b94490f30b"
-        width="100%"
-        height="480px"
-        style="min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef"
-        sandbox="allow-same-origin allow-scripts allow-popups">
-</iframe>
-
-#### FY22 Q1 Initiatives:
-{: #initiatives}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-1. A/B testing process & documentation
-2. Retargeting strategy revision based on Trial + Offer research
-3. Display reporting and education on view-through conversions
-4. Non-brand paid search implementation and reporting
-
 ## DMP labels in GitLab
 {: #labels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -70,7 +43,6 @@ This Mural is updated regularly to reflect changes or shifts in Digital Marketin
 {: #slack}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 *  `#digital-marketing`: General digital marketing conversation and questions
-*  `#demand-gen`: Demand Gen team channel
 
 ## Paid Digital Marketing 
 {: #paid-digital-marketing}
@@ -335,6 +307,7 @@ If you would like to request a paid digital marketing promotion in paid search, 
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * **Campaign Name**: Name of the campaign that you are requesting, or the Integrated / Use Case campaign this new initiative falls under
 * **Campaign Budget**: How much budget you would like to allot to this campaign
+* **Purchase Order Number: From Coupa, please provide the PO number that is generated from your approved requisition 
 * **Campaign/Finance Tag**: If you have a specific Campaign/Finance Tag that you need us to bill to, please input here. These will also be used as the `utm_campaign` name in reporting (minus spaces, underscores, and special characters)
 * **Team Making Promotion**: Team that we should bill to (i.e. Field Marketing - AMER, Corporate Marketing, etc). 
 * **Campaign Description**: Brief description of the campaign and what you are trying to achieve
@@ -342,6 +315,21 @@ If you would like to request a paid digital marketing promotion in paid search, 
 * **Campaign Goal**: What is the numeric goal and KPI for the campaign (registrations, page views, downloads, etc)
 * **Campaign Target Audience**: The type of people that you want to reach in this campaign
 * **Campaign Creative Asset**: If you have a creative set already for this campaign, please provide links to the creative. If not, this may require a separate ask for Design team, please make request in Corporate project and factor into timeline. Digital Marketing iterates on designs in Canva for testing & variations, so you also have the option of providing a design that you’d like to iterate on.
+
+### Purchase Orders Required for Campaign Requests
+{: #po-process}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Because GitLab is now a publicly traded company, our finances are required to be [Sarbanes-Oxley compliant](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/). In order to be compliant, each campaign request will need to have an associated purchase order to the campaign prior to launching the campaign. Below is the following workflow in order to obtain a purchase order number and documentation needed to be compliant:
+
+1. Open a [Campaign Request issue](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#requests) and request that Digital Marketing team obtain a statement of work from our digital advertising agency. Note that Campaign Request template will need to be fully filled out with detail in order for a statement of work to be requested
+1. When statement of work is created, Digital Marketing team will post statement of work back in the Campaign Request issue so campaign requester can start the process of creating a [Coupa requistion](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition)
+1. Once the Coupa requistition is approved, a PO will be created. Campaign requester will then update the Campaign Request template with the appropriate purchase order number
+1. Digital Marketing team will then submit a campaign request with our digital advertising agency to start to exectute the campaign
+1. Digital Marketing team will make sure the digital advertising agency includes the following information on the invoice for billing in the notes of the invoice:
+     - Purchase order number
+     - Allocadia ID
+     - Flight dates of the campaign
+     - Team to be billed
 
 ### DMP Request Workflows
 {: #workflows}
