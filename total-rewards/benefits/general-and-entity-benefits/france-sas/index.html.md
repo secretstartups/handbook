@@ -21,6 +21,7 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
   - [Policy detail-1](https://drive.google.com/file/d/1xfkzQXwiITrhJ0HJk9K-eTtSjLEONiNB/view?usp=sharing) 
   - [Policy detail-2](https://drive.google.com/file/d/1lKcSkHJKpOaJwVFUgCQDWgOHyFRkSib8/view?usp=sharing) 
   - [Enrollment process](https://drive.google.com/file/d/11JmUP7lVhzyqO0QJGfEr4YpYLH7vbMb6/view?usp=sharing)
+  - [Unilateral Employer Decision Medical Document](https://drive.google.com/file/d/1qPpQqg9WZsDaF8lxhXIc4tPEt5GbJc8R/view?usp=sharing) for Cost Sharing, Scheme Conditions & Waiver Voucher information
 
 ## Pension
 
@@ -31,6 +32,8 @@ GitLab does not plan to offer pension benefit at this time as team members regis
 GitLab offers company paid [Group Life and Disability Plans](https://drive.google.com/file/d/1IiPEBog1hEK2FSuG-w8OIf6_pfo_vFAR/view?usp=sharing) through AXA. This covers Life Insurance, Accidental Death & Accidental Dismemberment, Short Term Disability and Long Term Disability.
 
 Team Members can designate their beneficiaries in the case of death on the [AXA Designation of Beneficiary webpage](https://quijeprotege.fr/). 
+
+Please see the Scheme Conditions in the [Unilateral Employer Decision Life & Disability document](https://drive.google.com/file/d/1hL6c5ejtlI8te9uwKbRXBR_wCyc3GoAC/view?usp=sharing)
 
 ## Gitlab France S.A.S. Parental Leave
 
