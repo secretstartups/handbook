@@ -114,8 +114,6 @@ The difference in approvals is the Director+ level off-cycle promotion exception
 
 Regardless of the promotion level, it is critical that leaders work with their People Business Partner, Total Rewards, and FP&A [as outlined](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) to identify tradeoffs we can review to fund the promotion.
 
-
-
 ## Planning
 
 Promotion Planning is generally done with via spreadsheets to maintain confidentiality and enable collaboration across department leaders. These spreadsheets are available to the Leaders of each department and are set up by the People Business Partners in collaboration with the Total Rewards team. Prior to the Planning phase in the timeline above, People Business Partners will make sure the spreadsheets are up to date before going into the Calibration phase. 
@@ -169,9 +167,11 @@ Each quarter Department/Division Leadership and the aligned People Business Part
 
 During calibration sessions, leaders should be prepared to discuss:
 
-1. Core themes of the promotion document (values alignment, business justification, business results)
-2. Improvement areas (the promotion document outlines strengths, but we also want to highlight how we will support a team member's development areas at the next level)
-3. Cross-functional feedback (as our business goals and initiatives become increasingly cross-functional, managers should have a picture of how their team member collaborates effectively within their immediate teams, and with their core cross-functional partners and stakeholders)
+1. Core themes of the promotion document: Values alignment, business justification, business results.
+2. Improvement areas: The promotion document outlines strengths, but we also want to highlight how we will support a team member's development areas at the next level. 
+3. Cross-functional feedback: As our business goals and initiatives become increasingly cross-functional, managers should have a picture of how their team member collaborates effectively within their immediate teams, and with their core cross-functional partners and stakeholders.
+4. Performance against with the current and (some) next level expectations aligned with the [job framework](https://about.gitlab.com/company/team/structure/#job-frameworks). 
+5. [Competencies](https://about.gitlab.com/handbook/competencies/#list): Where available and applicable. 
 
 Calibration should be aligned to the following levels of leaders and people managers:
 
