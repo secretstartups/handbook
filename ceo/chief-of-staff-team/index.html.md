@@ -142,6 +142,8 @@ In addition, the CoS to the CEO helps the CEO in preparing for the CEO's closed 
 1. Where should we focus our feedback and suggestions?
 1. Who should be thanked for their work?
 
+The CoS to the CEO will also support the CEO in identifying and sharing the top three things learned from customers in the previous quarter.
+
 Designated meeting time will be used to review and make adjustments to the proposal. 
 
 ## OKRs
