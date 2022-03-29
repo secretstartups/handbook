@@ -167,6 +167,19 @@ This avoids the rush to provide documentation that often accompanies the release
 [feature flag template]: https://docs.gitlab.com/ee/development/documentation/feature_flags.html#features-disabled-by-default
 [documentation should be updated]: https://docs.gitlab.com/ee/development/documentation/feature_flags.html#features-that-became-enabled-by-default
 
+### Using MR Type Labels
+
+MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department.
+
+As of February 2022, just under 22% of Product Planning MRs have no type label. The target is 0% and you can follow progress on our [metrics page].
+
+Product Planning is part of a test of new MR sub-type labels which are designed to make it easier to understand which top-level type should be applied. You can read more about them in the [Work Type Classification] section of the metrics page.
+
+Note: MR Type may differ from issue type. For example, a ~"maintenance::dependency" change that supports a new ~"feature::enhancement".
+
+[metrics page]: https://about.gitlab.com/handbook/engineering/metrics/dev/plan/product-planning/#mr-types-dashboard
+[Work Type Classification]: https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification
+
 ### Picking something to work on
 
 The team [Build Board] always shows work in the current
