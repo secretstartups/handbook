@@ -129,7 +129,7 @@ When these modules are complete:
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
-| [License and Renewals](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Subscriptions%20License%20and%20Renewals.md) | 2 Weeks | Understand the basics to answer our product's License and Renewals related tickets |
+| [License and Renewals](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Subscriptions%20License%20and%20Renewals) | 2 Weeks | Understand the basics to answer our product's License and Renewals related tickets |
 | [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working%20On%20Tickets) | 2 Weeks | **Work concurrently with your L&R module** -- Help customers by pairing with Support Engineers and replying to tickets |
 
 
