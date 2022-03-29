@@ -28,7 +28,7 @@ Procurement is the process of selecting vendors, strategic vetting, selection, n
 1. Computer/Hardware Advances (if unable to be paid through Payroll Dept)
 1. Interview Candidate Reimbursement
 1. Legal Fees
-1. Audit and Tax Fees
+1. Audit, Tax, and Insurance Fees
 1. Benefits, PEO Providers and Payroll
 1. AR/Customer Refunds
 1. Board of Director Payments
