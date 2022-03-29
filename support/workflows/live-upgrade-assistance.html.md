@@ -22,6 +22,8 @@ In addition to the live assistance, it is important for GitLab Support to ensure
 the customer's plan for the upgrade is accurate and fully supported by GitLab in
 advance of the production upgrade.
 
+If the customer has not provided a plan, or it lacks the detail we need to support them in their upgrade, feel free to ask for a plan. We have [guidance to assist customers in planning their upgrade](https://docs.gitlab.com/ee/update/plan_your_upgrade.html).
+
 #### Initiating The Process
 
 1. The end user initiating the request will open a new Support Request using the Support for Self managed Instance form with the problem type set to "Live Upgrade Assistance Request" or for eligible users, the [US Federal Live Upgrade Assistance Request](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001434131) form in the respective Support Portal. This will generate a high priority ticket in the instance.
