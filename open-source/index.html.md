@@ -25,7 +25,7 @@ The purpose of this page is to document how a GitLab employee can:
 
 ## Creating an open source project
 
-See [Creating a new project](/handbook/engineering/#creating-a-new-project) for the instructions.
+See [Creating a new project](../gitlab-repositories/#creating-a-new-project) for the instructions.
 
 ## Contributing to a third-party project on behalf of GitLab
 
