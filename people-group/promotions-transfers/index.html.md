@@ -134,7 +134,7 @@ When creating promotion documents, remember:
 
 - Promotions are based on performance, not potential 
 - Promotion documents should not exceed 3 pages total.
-- Please reference the [job frameworks](/company/team/structure/) in the handbook for guidance pertaining to expectations at the various levels at GitLab. The job levels should help guide data chosen to be included in the promotion document, in addition to discussion during calibration sessions.
+- Please reference the [job frameworks](/company/team/structure/#job-frameworks) in the handbook for guidance pertaining to expectations at the various levels at GitLab. The job levels should help guide data chosen to be included in the promotion document, in addition to discussion during calibration sessions.
 - Please be sure that the promotion document has “comment” access enabled to ‘Anyone at GitLab who has the link!’ to ensure the review and approval process is not delayed. Please delete the instructions associated with each section of the promotion document below before submitting the promotions. 
 
 
