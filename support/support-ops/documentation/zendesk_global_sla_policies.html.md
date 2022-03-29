@@ -213,6 +213,20 @@ This requires an exact process, which is detailed via the
 | Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
+### [Partner Support](https://gitlab.zendesk.com/api/v2/slas/policies/4560720351516.json)
+
+* Description: 
+* Conditions
+  * All
+    * Form is Partner Support
+  * Any
+
+| Target | Urgent | High | Normal | Low |
+|--------|:------:|:----:|:------:|:---:|
+| First reply time | 24hrs | 24hrs | 24hrs | 24hrs |
+| Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
+| Hours of operation | Business hours | Business hours | Business hours | Business hours |
+
 ## Special Situations
 
 There are special situations in which the SLA clock will not behave as we would

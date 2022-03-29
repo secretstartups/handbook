@@ -46,14 +46,15 @@ see all the current triggers would be the
 | [Set Channel (received at) to incident-response](https://gitlab.zendesk.com/agent/admin/triggers/360074185259) | Creation Stage | 5 |
 | [Set Channel (received at) to proserv-education](https://gitlab.zendesk.com/agent/admin/triggers/360053055059) | Creation Stage | 6 |
 | [Set Channel (received at) to security](https://gitlab.zendesk.com/agent/admin/triggers/360016445080) | Creation Stage | 7 |
-| [Cleanup followup tickets](https://gitlab.zendesk.com/agent/admin/triggers/360050234840) | Creation Stage | 8 |
-| [Handle emergency email](https://gitlab.zendesk.com/agent/admin/triggers/74548737) | Creation Stage | 9 |
-| [Handle non-monitored inbox request](https://gitlab.zendesk.com/agent/admin/triggers/360076070520) | Creation Stage | 10 |
-| [Ticket requester is @gitlab.com](https://gitlab.zendesk.com/agent/admin/triggers/360051975879) | Creation Stage | 11 |
-| [Set requester for Open Partner tickets](https://gitlab.zendesk.com/agent/admin/triggers/360056818739) | Creation Stage | 12 |
-| [New ticket confirmation email](https://gitlab.zendesk.com/agent/admin/triggers/360023419260) | Creation Stage | 13 |
-| [Post internal note about User info](https://gitlab.zendesk.com/agent/admin/triggers/360073389999) | Creation Stage | 14 |
-| [Ticket::ChinaComms::Received at china-comms@gitlab.zendesk.com](https://gitlab.zendesk.com/agent/admin/triggers/360073362079) | Creation Stage | 15 |
+| [Set Channel (received at) to partnersupport](https://gitlab.zendesk.com/agent/admin/triggers/4560766231452) | Creation Stage | 8 |
+| [Cleanup followup tickets](https://gitlab.zendesk.com/agent/admin/triggers/360050234840) | Creation Stage | 9 |
+| [Handle emergency email](https://gitlab.zendesk.com/agent/admin/triggers/74548737) | Creation Stage | 10 |
+| [Handle non-monitored inbox request](https://gitlab.zendesk.com/agent/admin/triggers/360076070520) | Creation Stage | 11 |
+| [Ticket requester is @gitlab.com](https://gitlab.zendesk.com/agent/admin/triggers/360051975879) | Creation Stage | 12 |
+| [Set requester for Open Partner tickets](https://gitlab.zendesk.com/agent/admin/triggers/360056818739) | Creation Stage | 13 |
+| [New ticket confirmation email](https://gitlab.zendesk.com/agent/admin/triggers/360023419260) | Creation Stage | 14 |
+| [Post internal note about User info](https://gitlab.zendesk.com/agent/admin/triggers/360073389999) | Creation Stage | 15 |
+| [Ticket::ChinaComms::Received at china-comms@gitlab.zendesk.com](https://gitlab.zendesk.com/agent/admin/triggers/360073362079) | Creation Stage | 16 |
 | [Attempt auto-association](https://gitlab.zendesk.com/agent/admin/triggers/360065733559) | Needs Org Stage | 1 |
 | [Mark Needs Org stage complete](https://gitlab.zendesk.com/agent/admin/triggers/360075983160) | Needs Org Stage | 2 |
 | [Mark Needs Org stage complete for non-relevant tickets](https://gitlab.zendesk.com/agent/admin/triggers/360075983240) | Needs Org Stage | 3 |
