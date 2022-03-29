@@ -401,13 +401,28 @@ I’m a software engineer in my organization with a keen interest in quality and
 
 #### Allison (Application Ops)
 
+**Alternative Job Titles:** DevOps engineer, Lead developer, Site Reliability Engineer
+
 ##### My role
 
 I have responsibility for ensuring the application I own is accessible and performant for its users. I wear an Application Ops hat, but I also wear a [Software Developer](#sasha-software-developer) t-shirt.
 
 ##### Jobs to be done
 
-I want to make sure that deployments to production happen automatically, and I have detailed and real-time insight into what is happening with my deployed applications.
+- I want to be able to deploy to production and non-production environments automatically without requiring action from other teams. 
+- I want to use my selected deployment tools so I can predictably understand what "deploy" means.
+- I want to deploy following the company best practices set out by Priyanka, the platform engineer so that we minimize the risk of a new deployment.
+- I want to get up-to-date, real-time information about the system components I own so that I can be assured about the performance and health of the applications I own.
+- I want to be notified about potential problems with the applications I own, so that I can act avoid downtime and degradations before they happen.
+- I want to roll back or roll forward from erroneous deployments so that I can keep my systems functional.
+
+##### Frustrations
+
+- As a consumer of a monitoring platform, I'm frustrated when my apps instrumentation doesn't report in the monitoring systems 
+- I'm frustrated when I can't determine the root cause of the monitoring system's errors.
+- I'm frustrated when I need to use multiple tools to identify that there is an issue.
+- I'm frustrated about processes that slow down deployments.
+- I am frustrated when I can't trust the data coming from monitoring systems (false negatives or false positives)
 
 #### Ingrid (Infrastructure Operator)
 
