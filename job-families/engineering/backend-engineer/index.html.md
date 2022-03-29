@@ -583,32 +583,6 @@ of PostgreSQL. As such Ruby knowledge is absolutely required and deep PostgreSQL
 * Expert-level understanding of relational databases, SQL and query optimization techniques and demonstrated ability to both diagnose and prevent performance problems
 * Significant experience working in a distributed production environment
 
-### Gitter
-
-[Gitter](https://gitter.im) specialists are full-stack JavaScript developers who are able to write JavaScript code that is shared between multiple environments. Gitter uses a JavaScript stack running Node.js on the server, and bundled with webpack on the client. The [iOS](https://gitlab.com/gitlab-org/gitter/gitter-ios-app), [Android](https://gitlab.com/gitlab-org/gitter/gitter-android-app), macOS (Cocoa) and [Linux/Windows (NW.js)](https://gitlab.com/gitlab-org/gitter/desktop/) clients reuse [much of the same codebase](https://gitlab.com/gitlab-org/gitter/webapp) but also require some knowledge of Objective-C, Swift and Java. Gitter uses MongoDB, Redis, and Elasticsearch for backend storage.
-
-#### Requirements
-
-* Strong client-side JavaScript experience
-* Strong production Node.js experience
-* Highly desirable: MongoDB, Elasticsearch, and Redis experience
-* Desirable: Some Java, Objective-C or Swift experience building mobile apps
-* Desirable: DevOps experience, working with Linux, Ansible, AWS or similar products
-
-#### Responsibilities
-
-* Fix prioritized issues from the issue tracker
-* Triage issues (duplicates, clarification, reproduction steps, prioritization)
-* Create high quality frontend and backend code
-* Review community contributions
-* Provide second-level support to the Production Team to ensure that all Gitter production services remain stable
-* Document tribal knowledge, particularly around runbooks and production incident processes
-* Keep an eye on Sentry to find regressions and ensure application errors are addressed
-* Continually improve the quality of Gitter by using discretion of where you think changes are needed
-* Continue to migrate the codebase from old repository locations to GitLab, while open-sourcing as much of it as possible
-* Maintain the iOS, Android, and desktop applications
-* Provide community support for Gitter via [Gitter rooms](https://gitter.im/gitterHQ/gitter), [Twitter](https://twitter.com/gitchat), Zendesk, etc
-
 ### Infrastructure
 
 [Infrastructure](/handbook/engineering/infrastructure/) specialists work alongside DBREs and SREs and are experienced Ruby/GoLang developers who work in the product with a focus on reliability, observability, performance and scalability at the application level, as well as on resource optimization from an Infrastructure perspective and on operationally relevant features.
