@@ -284,6 +284,11 @@ A ready to be published update should look similar to the following.
 
 Make sure to [verify](https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from `status.io`.
 
+If the incident title needs to be changed or additional affected infrastructure needs to be added,
+this is done separately. Instead of clicking the update incident button, click on the incident title to view
+the details page. Then click the edit pencil icon next to the incident name or affected infrastructure section
+to change them. It is very similar to [adding Post-Mortem](#add-post-mortem).
+
 After publishing the update, visit the live status page to verify that the update went through and looks clear.
 
 ### **Stage 3: Incident Resolution**
