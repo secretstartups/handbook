@@ -24,7 +24,7 @@ Keep in mind, they will still be eligible for `operational` email sends - which 
 ## Partner CRM Ids
 For a running list of partners and their CRM Ids, which is critical to the processes below, [click here](https://gitlab.my.salesforce.com/00O4M000004aSq6).
 
-If you are working with an Open or Select partner who is not listed please add the partner to the Google Doc and include their partner ID which can be found in their Partner Account record within SFDC, in the 9th section called "Vartopia Deal Registration Access".  The field labeled Account ID (18) contains their ID. If you can't find the field, do a quick `commandF` for the word `Account ID (18)` and that will take you to the ID. If for some reason the ID is missing, reach out in the #channel-programs-ops slack room. 
+If you are working with an Open or Select partner who is not listed in the linked SFDC report, their partner ID which can be found in their Partner Account record within SFDC, in the 9th section called "Vartopia Deal Registration Access".  The field labeled Account ID (18) contains their ID. If you can't find the field, do a quick `commandF` for the word `Account ID (18)` and that will take you to the ID. If for some reason the ID is missing, reach out in the #channel-programs-ops slack room. 
 
 ### Scoring
 Leads that are actively being worked by the partner will be excluded from scoring. Once they are no longer being worked by the partner, they will be scored again. More details on the [scoring page](/handbook/marketing/marketing-operations/marketo/#scoring-model). 
@@ -39,11 +39,63 @@ In order for the Partner to be able to see and action the lead in Vartopia, the 
 1. `Prospect Share Status` = `Sending to Partner` (set by LeanData)
 1. `Partner Prospect Status` = `Qualifying` (set by LeanData)
 
-
-
 When assigned a lead in Vartopia, the admin will receive an email alert with information about the lead and SLAs attached to it.
 
 Watch [this video](https://youtu.be/BmmiH_ctALk) for step by step instructions where partners can view, accept, reject, re-assign and convert leads to deal registration.
+
+### SFDC Partner Prospect Admin 
+This SFDC field in the partner account MUST be filled in or else the records will be passed to no one. 
+
+### Prospect Share Status definitions 
+When a prospect is ready to be shared with a partner there are 2 fields related to 
+the sharing process. 
+
+The prospect share status governs the sharing of the lead and the receipt of the 
+lead by the partner. The prospect share status has statuses that are set by both the
+manufacturer and the partner
+
+The partner Prospect Status is updated by the partner and identifies the status of 
+the lead as the partner works it though the sales process.
+
+1. Sending to Partner: This is the initial status set when sharing a lead to a 
+partner. This status is set by GitLab.
+1. Pending: This is an automated status, set when the lead is synced to the 
+partner facing system. As part of the sync flow, the system sets the status to 
+pending in both the partner facing system and SFDC. It is visible to both the 
+reseller and the MFG.
+   a. Meaning in SFDC: Pending indicates to the MFG that the lead has been 
+successfully shared.
+   b. Meaning in partner facing system: Pending indicates to the reseller 
+they have a new lead shared from the MFG that they now need to 
+accept or reject.
+1. Accepted:    Indicates the reseller has accepted the lead and intends to work 
+the opportunity. This status is automatically updated in SFDC
+1. Rejected:    indicates the reseller has refused the lead. This status is 
+automatically updated in SFDC
+a. *Note: rejecting a prospect immediately removes the prospect from 
+the resellers’ system. They no longer have any visibility to the 
+prospect. The sync ID is cleared from the prospect record in SFDC, and 
+the record is ready to be assigned to a new reseller. The prospect will 
+be in Rejected and Qualifying Status. A new partner can be selected, 
+and the Share Status set back to “Sending to Partner” to reshare the 
+prospect. 
+1. Recall: Indicates the prospect is being recalled by the MFG. This is set by the 
+MGF in SFDC. When the system syncs this will remove the prospect from the 
+resellers view. It will also clear out the assignment fields and sync ID making 
+the prospect ready to be shared with a different reseller. 
+a. *Note: There is no alert or notification to a reseller when a prospect is 
+recalled.
+
+### Partner Prospect Status Definitions 
+1. Qualifying:    Indicates the reseller is working on the lead.
+a. *Note: This status is initially set by the MFG when sharing the prospect.
+It is visible to both the MFG and the reseller. The prospect remains in 
+qualifying until updated by the reseller.
+1. Qualified:    Indicates the reseller has engaged the prospect and determined 
+there is a valid opportunity. The status is automatically updated in SFDC.
+1. Disqualified:    Indicates the reseller has determined the prospect is not a valid 
+opportunity. The status is automatically updated in SFDC
+1. Converted to DR:    Indicates the reseller has converted the prospect to a deal 
 
 ### Partner SLAs
 (WIP - Future state) Partners have 5 business days to accept a lead once they are assigned the lead in Vartopia. After accepting, they then have 10 business days to revise the lead status before the lead is re-routed back to GitLab for follow up.
