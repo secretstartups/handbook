@@ -9,7 +9,7 @@ title: "SEC & SOX Reporting or Corporate Controller"
 
 #### Senior SEC Analyst Job Grade
 
-The Senior SEC Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior SEC Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior SEC Analyst Job Responsbilities
 
@@ -26,13 +26,44 @@ The Senior SEC Analyst is a [grade 8](/handbook/total-rewards/compensation/compe
 #### Senior SEC Analyst Job Requirements
 
 * BA/BS degree in Accounting; CPA or in the process of completing the licensing preferred.
-* Minimum of 5-7 years of relevant experience at a public Company; 
+* Relevant experience at a public Company; 
 * Highly detail oriented, organized, self-motivated and proactive. Must have strong work ethic and be able to meet critical deadlines.
 * Strong analytical and problem-solving skills, including the ability to research and interpret accounting guidance.
 * Strong written and verbal communications skills.
 * Excellent team player who can work effectively with cross-functional teams.
 * Proficiency in Word, Excel and PowerPoint required.
 * Knowledge and proficient experience with WDesk and Netsuite highly preferred.
+
+### Manager, SEC
+
+The Manager, SEC reports to the Director, SEC.
+
+#### Manager, SEC Job Grade
+
+* The SEC Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Manager, SEC Responsibilities
+
+* Lead the preparation of the Company’s financial statements and SEC filings, including Forms 10-Q, 10-K, 8-K and proxy
+* Coordinate the review of SEC filings with external auditors, outside legal counsel, accounting staff, and executive management
+* Manage the preparation and maintain support for all areas of our external reporting process, including the Statement of Cash Flows, Statement of Stockholders’ Equity, EPS calculations, and Share-Based Compensation
+* Prepare documentation supporting internal controls related to financial reporting cycle
+* Assist in the implementation of significant new accounting pronouncements, including ongoing communication with other company departments
+* Assist with corporate or technical accounting topics (for e.g. quarter or year-end close adjustments) as needed
+* Review earnings releases, earnings scripts and investor presentations
+* Partner with external auditors on business transactions to ensure accounting issues are properly concluded
+* Develop formal Company-wide accounting policies to ensure alignment with business and relevant accounting guidance
+* Assist with month-end close activities and monthly financial package
+
+#### Manager, SEC Requirements
+
+* Leadership and management experience preferred
+* Proven ability to collaborate cross-functionally with multiple departments across the organization
+* Experience coaching other team members for technical accounting areas 
+* Extends that of the Senior SEC Analyst Requirements
+* CPA
+* Relevant years of Big 4 public accounting experience, +industry experience 
+* Ability to use GitLab
 
 ### Director, SEC & SOX
 
@@ -53,7 +84,7 @@ The Director, SEC & SOX is a [grade #10](/handbook/total-rewards/compensation/co
 
 #### Director, SEC & SOX Requirements
 
-- 10 years of work experience with a Bachelor’s Degree or at least 8 years of work experience 
+- Relevant work experience with a Bachelor’s Degree or at least 8 years of work experience 
 - An advanced degree with an active CPA license is preferred
 - Bachelor's Degree in Accounting or Finance
 - Certified Public Accountant
@@ -90,11 +121,8 @@ The next step in the Corporate Controller job family is to move to a senior lead
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-- Meet with PAO for 50 minutes
-- Meet with Key Finance Leaders - for 30 minutes each
-- Meet with Director of Legal for 40 minutes
-- Meet with VP of Finance for 50 minutes
-- Meet with CFO for 50 minutes
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Qualified candidates will then be invited to interview with 2 - 4 team members
+- Qualified candidates may be invited for a final executive interview
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
