@@ -124,16 +124,16 @@ For GitLab.com releases, timelines are different and described below.
 ### Deployment blockers
 
 Anyone can **block or halt a deployment** by:
-* Declaring an [severity::2 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+* Declaring a [severity::2 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
 * Alerting the Release Managers in the [#releases] channel. 
 
 In addition, automated deployments to **any production environment** (including [canary]), are
 halted during the change lock period. Currently, the change lock period is:
 
 * Between every Friday 23:00 UTC and Monday 06:00 UTC.
-* Fourth Thursday of November (US thanksgiving, limited availability company wide).
-* 24th and 25th of December (Christmas according to Gregorian calendar, limited availability company wide).
-* 1st of January (New Years day, limited availability company wide).
+* Fourth Thursday of November (US Thanksgiving, limited availability company-wide).
+* 24th and 25th of December (Christmas according to Gregorian calendar, limited availability company-wide).
+* 1st of January (New Year's Day, limited availability company-wide).
 
 During the change lock period, manual deployment can be triggered through GitLab ChatOps if the deployment fixes **a severity::1 availability or security issue**.
 
@@ -156,7 +156,7 @@ For code that needs to be deployed to GitLab.com with higher priority than the
 regular cadence, we have `~"Pick into auto-deploy"` label.
 
 The automated systems that create a new GitLab.com release will look for this label
-specifically, and any merge request with this label and an severity::1/severity::2 severity label will be automatically cherry-picked
+specifically, and any merge request with this label and a severity::1/severity::2 severity label will be automatically cherry-picked
 into the active auto-deploy branch. In case the merge request cannot be picked,
 which can happen if there is a conflict in the files being picked, the message
 will be posted in the merge request asking the author to create a new merge request
@@ -180,7 +180,7 @@ Directions on how to know whether a MR is deployed to GitLab.com are in the [rel
 
 ### Self-managed releases
 
-Similar to the above mentioned label, each `self managed release` has a label
+Similar to the above mentioned label, each `self-managed release` has a label
 to highlight that a certain merge request should be backported to the targeted
 release. For example, releases in the 12.3 series will have `~"Pick into 12.3"`
 label which will signal that this merge request should be included in one of the
