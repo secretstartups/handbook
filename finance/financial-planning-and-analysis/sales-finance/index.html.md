@@ -64,26 +64,6 @@ We believe an excellent forecasting process enables us to deploy our resources e
 | [Dec'20](https://docs.google.com/presentation/d/13sPhVbyDjZi67f3cTsq-1Z_YeDlkqeVBOnWPtf6vETo/edit?usp=sharing) | [Dec'21](https://docs.google.com/presentation/d/1nNresHvWXwFaYaJoBoE8BF_K0TThIIYmadspQXAHfv8/edit?usp=sharing) | Dec'22 |
 | [Jan'21](https://docs.google.com/presentation/d/1UC1xFGZmw7bQJnYZFDjSGmchvqzFEihJTcbMf9FnYq8/edit?usp=sharing) | [Jan'22](https://docs.google.com/presentation/d/1wXimJPj9ZrImXZJE1kz039EDL5cOwPbPt5itke_IXbc/edit?usp=sharing) | Jan'23 |
 
-## Forecast Package
-Weekly tracker for Open Pipe, Closed Won, Forecast, etc.
-
-[File](https://docs.google.com/spreadsheets/d/1VZmJmmv1Kv0qhdW6n-yiXZekbLM71efFl2_McJDftXM/edit#gid=0)
-
-## Quota & Capacity Model
-High-level long-range Quota & Capacity model to assess the feasibility of future bookings target and HC needs.
-
-[File](https://docs.google.com/spreadsheets/d/1SzTLYRGYsNUWxijvwryi2i5O2Lh1FpUGwe8RPLi7WwQ/edit?usp=sharing)
-
-## Rolling List of Asks File
-intake investment requests of both Headcount and Program Spend from Sales teams, prioritize them via a consistent framework, and implement them based on agreed-upon prioritization. For the Sales Headcount Change Management process, please refer to the [Sales Headcount](/handbook/sales/field-operations/sales-strategy/sales-headcount/) Handbook page located in Sales Strategy & Analytics.
-
-[File](https://docs.google.com/spreadsheets/d/1NgnRnCQkDXRuLykroLLeNmWqKhIE1g0OaueSbFSUz6Q/edit#gid=0)
-
-## Professional Services (PS) Forecast Package
-Assess and forecast Professional Services department's performance.
-
-[File](https://docs.google.com/spreadsheets/d/15YQV6dBpO06quxdvbZq6svTU-HgW06maZuhcwz7PYjI/edit#gid=1456058003)
-
 ## Dashboards
 [D03 ARR Basis Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXKR) - ARR Basis by Close Date & Subs Start Date
 
