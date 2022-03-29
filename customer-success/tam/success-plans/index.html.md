@@ -159,6 +159,21 @@ Customer highlights, like the [strategy section](#strategy), is a high-level ove
 
 Reviewing the highlights, the reader should be able to quickly understand the customer's business, why they bought GitLab, and what they are interested in achieving. The highlights section is also required for ROI success plans and recommended for internal success plans.
 
+### Customer Details
+
+The purpose of these fields is to provide additional, helpful information as you create and work on the Success Plan. The fields are from Salesforce.
+
+[CP] fields are all from the Command Plan associated with the most recent Closed - Won New Business. Use these fields to track if the customer is adopting GitLab for their intended purpose. Refer to [Command Plan handbook page](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) for details on field definitions.
+
+- Collaboration Project URL
+- Account Team - SA, TAM, Account Owner
+- [CP] Primary Value Driver
+- [CP] Primary Use Cases
+- [CP] Why GitLab?
+- [CP] Competition
+- [CP] Metrics
+- [CP] Identify Pain
+
 ### Objectives
 
 Objectives are at the heart of a strong success plan, because they describe both the intended business outcomes and the actions we will take to achieve those outcomes. Well-crafted objectives provide an actionable plan that resonates with everyone involved, both within GitLab and on the customer side.
