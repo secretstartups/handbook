@@ -17,7 +17,7 @@ This page details processes and general guidelines specific to the Executive Bus
 
 ### E-Group Member EBA's
 * Cheri Holmes (Chief of Staff) supporting Michael McBride (CRO) on an interim basis
-* Stefanie Haynes (Sr. EBA) supporting Craig Mestel (CMO) and Melissa Smolensky (VP of Corporate Marketing)
+* xxx supporting Craig Mestel (CMO) and Melissa Smolensky (VP of Corporate Marketing)
 * Cindy King (Sr. EBA) supporting Brian Robins (CFO) 
 * To Be Hired (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) 
 * Kristie Thomas (Staff EBA) supporting Sid Sijbrandij (CEO) & Stella Treas (Chief of Staff)
