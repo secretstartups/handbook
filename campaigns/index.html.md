@@ -37,6 +37,23 @@ A `Campaign Core Team` is led by a [Marketing Campaign Manager](/handbook/market
 * Corporate Marketing (Liaison for activation)
 * Field Marketing (Liaison for activation)
 
+**About Campaign Core Teams:**
+- The Core Team's purpose is to collaborate on the research, positioning, messaging, general strategy, and overall timeline of the campaign, and related value plays.
+- The Core Teams will determine a relevant and realistic timeline in line with overarching marketing themes, and including Campaigns and Value Plays.
+- Each team member should formally commit to due dates for their work.
+- Each team member is responsible for communicating as soon as possible when a due date is at risk.
+- The Core Teams are comprised of functional DRIs from teams aligned to product specializations (SMEs within their teams)
+- The Core Teams will kickoff together with the freedom to drive their campaigns as desired and with a strong team-oriented approach
+- The Core Teams will ensure nothing happens in a vacuum, by proactively integrating corresponding activities across marketing, and including those beyond the core team for input
+- The Core Teams are responsible for clearly communicating plans to all of Marketing ([also see Core Team communication](/handbook/marketing/campaigns/#core-team-communication))
+
+#### Campaign Core Team Communication
+{: #core-team-communication}
+
+How to keep all teams in the loop will be a key responsibility of the Core Teams, and planning should not happen in silos. Continual communication of plans, progress, and how to leverage the GTM Motion collateral will be a key to success in the FY22 Marketing Plan.
+
+The teams are encouraged to contribute ideas and processes for communication here in the handbook throughout FY22.
+
 ### What is in a campaign bundle?
 {: #campaign-bundles}
 
@@ -63,6 +80,7 @@ To see a visual of campaign bundles, which are then leveraged in activation plan
 
 ## How are campaign bundles activated?
 {: #campaign-activation}
+
 Campaign bundles are leveraged by all teams in marketing and sales to drive a cohesive full-funnel approach with aligned personas, positioning, messaging, and branding across all touchpoints and conversations.
 
 **Activation activites include:**
