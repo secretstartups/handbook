@@ -48,6 +48,7 @@ At this point, problem scope (domain and organizational) is known and documented
 1. Teams schedule their work based on their interpretation of the strategy described in the document.
 1. DRIs described in the blueprint are the decision makers for the approach taken.
 1. After the initial iterations, work can be concluded or expanded (in which case, the blueprint is updated).
+1. You will need to perform a [Readiness Review](/handbook/engineering/infrastructure/production/readiness/) for all new services or larger features before you launch in production".
 
 ## Workflow: The Detailed View
 
