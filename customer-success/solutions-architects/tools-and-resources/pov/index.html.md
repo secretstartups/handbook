@@ -13,24 +13,47 @@ description: Proof of Value (POV)
 
 ## Proof of Value (POV)
 {:.no_toc}
+Proof of value is a combination of a Proof of Concept (POC) and the communication of the expected business value of a solution.   The solution, its practical application, and how it drives specific business value are proven and documented through the POV process.
 
-Solution Architects are instrumental in guiding prospects and customers to carry out a successful Proof of Value. POV's should focus on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
+Solution Architects are instrumental in guiding prospects and customers to carry out a successful Proof of **Value**. POV's should focus on specific prospect/customer business outcomes that cannot be achieved through other consultative interactions.
 
-As a best practice, GitLab product evaluations should remain separate from GitLab high availability architecture and implementation evaluations. Often times a POV is conducted with a GitLab trial license either using GitLab.com or an installed instance. Due to cost and time intensity, a POV may not be the default course of action for most GitLab buyers.
+Any GitLab product evaluation should remain separate from GitLab high availability architecture and implementations.
 
-### POV Guidelines
+ Often, a POV is conducted with a GitLab trial license either using GitLab.com or a self-managed instance. Due to cost, time, and the associated opportunity risk, a POV should not be the default course of action for GitLab prospects/customers.
 
-POV's are commonly entered into once an NDA is signed, budget for the project is in place, any competition has been identified and the success criteria has been documented.
+### POV Guidelines and Requirements
 
-The target duration for a POV is between 1 and 8 weeks depending on complexity and style of engagement. A GitLab Customer Success [collaborative project](https://gitlab.com/gitlab-com/account-management/templates/poc-plan) developed from the POV plan is the default method for POV management. The project template is only accessible by GitLab team members, but once a collaborative project is created, the customer will be granted access to that project. When utilizing a collaborative project, follow the instructions in README.md closely in order to properly configure the entire project. If a prospect has an internal process to follow or cannot use GitLab.com to manage the POV, a [Guided POV document](#pov-template-document) or a simplified [Lite POV document](#lite-pov-template-document) may be used.
+- The typical duration for a POV is between 1 and 8 weeks which depends on complexity and style of engagement. 
+- A GitLab Customer Success [collaborative project](https://gitlab.com/gitlab-com/account-management/templates/poc-plan) developed from the POV plan is the default method for POV management.  The project template is only accessible by GitLab team members, but once a collaborative project is created, the customer will be granted access to that project.  When utilizing a collaborative project, follow the instructions in README.md closely to configure the entire project properly.
+- GitLab Solutions Architects should limit the number of concurrent POV's the SA is engaged in to provide the optimal focus for successful opportunity outcomes.  In collaboration with the sales team and their manager, the SA should prioritize all SA activity, including POVs, based on workload, opportunity qualification, and regional or segment strategy.
+- A POV must be fully qualified before commencement
+- A POV must be tracked in Salesforce
+- A POV should not be used to implement a scaled architecture for the customer's unique infrastructure
+- A POV is not a full or production quality implementation of the solution 
+- A POV is not a self run, technical trial to test out a feature for the existing license (can be covered in the TAM cadence for expansion on adoption)
+- A POV is not an individual team member on the customer side performing self-learning and certification (can promote PS education services)
+- A POV is not a self-paced exploration of GitLab (this can is covered in the TAM cadence)
+- A POV is not an informal review of GitLab by a new logo prospect
 
-GitLab Solutions Architects should consider a limit of 3 concurrent Guided or Paid POV's as a best practice in order to provide optimal customer service and to enable a target of achieving 24 hours or less response times to inquiries during any POV. If more than 3 concurrent Guided or Paid POV's are required, the SA should assess their ability to support the additional requirements and/or discuss viability with their manager as well as other SA's in their region.
+### POV Qualification
+
+- Must tie to an opportunity for a new logo or up-tier for an existing customer with a net ARR over 100K or with significant LAM
+
+- It is guided by GitLab SA to run the scoped hands-on technical evaluation with the prospect/customer, collaborate with the sales (SAL, AE) with defined business outcomes and GitLab values
+
+- Prospect/customer has identified and provided available technical and business resources to perform the evaluation, discuss / assess the results to map to the outcomes and value
+
+- Success criteria of the POV are defined to drive next step in the deal process
+
+- Must identify the champion and economic buyers and they must be in agreement (e.g., “sign-off”) on the success criteria
+
+- A Command Plan is populated in Salesforce for the opportunity
 
 ### Tracking a POV in Salesforce
 
 #### Salesforce Object
 
-In order to track a POV correctly in Salesforce, the Strategic Account Leader should position the opportunity as Stage 3. The Solutions Architect will create the POV object within SFDC when the prospect or customer has indicated interest in moving forward with a guided or lite POV.
+In order to track a POV correctly in Salesforce, the Strategic Account Leader should position the opportunity as Stage 3. The Solutions Architect will create the POV object within SFDC when the prospect or customer has indicated interest in moving forward with a POV.
 
 To track a POV, click the _Proof of Values_ tab from the top menu bar in Salesforce. Create a new POV using the _New_ button. Alternately, the Solutions Architect may select the relevant Opportunity, scroll down to the related list labeled _Proof of Values_ and click on the "New Proof of Value" button. This will automatically associate the POV with that Opportunity while all other fields need to be manually completed.
 
@@ -44,9 +67,10 @@ Complete the following fields at minimum:
 - **Opportunity** - this is the associated opportunity name (this opportunity should be in stage 3)
 - **POV Start Date** - the date the POV is expected to begin
 - **POV Close Date** - the date the POV is expected to End
-- **POV Type** - this is style POV being executed
+- **POV Type** - this is style POV being executed (deprecated)
 
 Once the POV begins, the Solutions Architect should change the **Status** field from _New_ to _In Progress_. When the POV is complete, the Solutions Architect should change the **Status** to _Closed_ and the **Result** should be identified as _Successful_ or _Unsuccessful_. Freeform notes should be added to support the reason for the successful or unsuccessful result.
+
 
 ### POV Best Practices
 
