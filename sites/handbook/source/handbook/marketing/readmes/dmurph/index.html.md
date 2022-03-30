@@ -71,9 +71,12 @@ For more on this topic, I've shared [17 questions that this role answers](https:
 * Carta blog — [A Q&A with GitLab’s head of remote](https://carta.com/blog/gitlab-interview-covid-19-remote-landscape/)
 * TripActions blog — [5 Questions with GitLab's Head of Remote on Business Travel](https://tripactions.com/blog/q-and-a-darren-murph-head-of-remote-at-gitlab)
 * San Francisco Chronicle — [Remote-work pioneer GitLab has this warning for companies plotting a return to the office](https://www.sfchronicle.com/business/article/GitLab-S-F-s-remote-work-pioneer-has-advice-16044687.php#photo-20764806)
+* Team Topologies — [Lessons learned from GitLab about remote work - interview with Darren Murph](https://teamtopologies.com/news/lessons-learned-from-gitlab-about-remote-work-interview-with-darren-murph)
+* Fast Company — [Why your business needs a Head of Remote](https://www.fastcompany.com/90715519/why-your-business-needs-a-head-of-remote)
 
 #### Podcasts
 
+* A Whole New Level — [Building & Scaling Remote Teams with Sam Corcos and Darren Murph](https://www.levelshealth.com/podcasts/building-scaling-remote-teams-sam-corcos-darren-murph)
 * The Future of Work Project — [Darren Murph // Unlocking the Super Powers of Remote, and its Positive Effects on Families](https://anchor.fm/fowproject/episodes/23-Darren-Murph---Unlocking-the-Super-Powers-of-Remote--and-its-Positive-Effects-on-Families-e115ni7)
 * HR Leaders Podcast — [How GitLab Creates and Sustains Scalable Remote Practices](https://hrleaders.co/podcast/darren-murph-how-gitlab-creates-and-sustains-scalable-remote-practices)
 * Collaboration Superpowers - [Live The Remote Dream](https://www.collaborationsuperpowers.com/285-live-the-remote-dream/)
