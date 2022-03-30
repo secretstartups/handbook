@@ -1215,7 +1215,7 @@ If a customer requires POs, they will typically reject any invoice sent to them 
 
 **What if "PO Required" = "YES," but the customer states that they do not require a PO?**
 
-1. If the customer does not require a PO for a *specific transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached.
+1. If the customer does not require a PO for a *specific transaction*, on the opportunity please attach the customer's written confirmation stating that they will accept the invoice without PO number reference. If all other booking requirements are met, the opportunity will be closed without a PO attached and the invoice won`t contain a customer PO number.
 
 2. If the customer does not require a PO for *any transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached. In addition, the Billing team will update "PO Required" to "NO."
 
