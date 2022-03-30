@@ -135,6 +135,7 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 
 ##### Podcasts
 
+- [A Whole New Level — Building & Scaling Remote Teams with Sam Corcos and Darren Murph](https://www.levelshealth.com/podcasts/building-scaling-remote-teams-sam-corcos-darren-murph)
 - [The Future of Work Project — Darren Murph // Unlocking the Super Powers of Remote, and its Positive Effects on Families](https://anchor.fm/fowproject/episodes/23-Darren-Murph---Unlocking-the-Super-Powers-of-Remote--and-its-Positive-Effects-on-Families-e115ni7)
 - [HR Leaders Podcast — How GitLab Creates and Sustains Scalable Remote Practices](https://hrleaders.co/podcast/darren-murph-how-gitlab-creates-and-sustains-scalable-remote-practices)
 - [Collaboration Superpowers - Live The Remote Dream](https://www.collaborationsuperpowers.com/285-live-the-remote-dream/)
@@ -158,6 +159,7 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 
 ##### Articles
 
+- [Lessons learned from GitLab about remote work - Team Topologies interview with Darren Murph](https://teamtopologies.com/news/lessons-learned-from-gitlab-about-remote-work-interview-with-darren-murph)
 - [LinkedIn Talent on Tap: Tips for a productive all-remote workforce](https://youtu.be/u0dRWDmYSvg)
 - [GitLab's secret to managing 160 employees in 160 locations - Interview by Y Combinator](https://blog.ycombinator.com/gitlab-distributed-startup/)
 - [GitLab's remote-only presentation, 2017](https://docs.google.com/presentation/d/1JHHYQvAhsudGz8QB8nqp5ScJjqyhPD3ehCoKOlZb7VE/edit#slide=id.g1d6fee80ee_0_348)
