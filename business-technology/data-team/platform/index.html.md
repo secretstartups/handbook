@@ -85,7 +85,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | GitLab Ops DB | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x |  No | Tier 1 |
 | GitLab Profiler DB | x | x | x | x | x / x |  No |  Tier 3 |
 | [Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/) | [Fivetran](https://fivetran.com/) | `google_analytics_360_fivetran` | `google_analytics_360` | Marketing | 6h / 32h |  No | Tier 2 |
-| [Google Cloud Billing](https://cloud.google.com/support/billing) | x | `gcp_billing` | `gcp_billing` | Engineering | x / x |  No |  Tier 3 |
+| [Google Cloud Billing](https://cloud.google.com/support/billing) | x | `gcp_billing` | `gcp_billing` | Engineering | 24h / x |  No |  Tier 3 |
 | [Graphite API](https://graphite-api.readthedocs.io/en/latest/) | [Airflow](https://airflow.gitlabdata.com/home) | `engineering_extracts` | x | Engineering | 24h / 48h |  No |  Tier 3 |
 | [Greenhouse](https://www.greenhouse.io/) | [Sheetload](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | `greenhouse` | `greenhouse` | People | 24h / 48h |  No | Tier 2 |
 | [Handbook YAML Files](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/gitlab_data_yaml) | [Airflow](https://airflow.gitlabdata.com/home) | `gitlab_data_yaml` | `gitlab_data_yaml` | Multiple | 8h / 24h | No | Tier 2 |
