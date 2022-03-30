@@ -189,6 +189,8 @@ Scoring is defined as follows:
 
 ##### Engineering division
 
+The scoring definitions for GitLab's Engineering Division are defined differently than the rest of the company. Rather than scores representing the probability of a hire, they are meant to reflect the candidates interview performance. This allows us to expect scores to fit the [normal distribution](https://en.wikipedia.org/wiki/Normal_distribution). The probability densities of `Strong yes` and `Strong no` should be greater than one [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) away from the mean.
+
 * `Strong Yes`
   * Extends `Yes`
   * Meets an unusually large proportion of our "nice to have” criteria for the role
