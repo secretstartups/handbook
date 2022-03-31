@@ -37,6 +37,20 @@ Steps to uplevel triaging process:
 | Data Platfrom Triage | `@DataPlatformTriage`   | Data Platform Team |
 | Data Collaboration Triage | `@DataCollaborationTriage`   | Data Collaboration Team |
 
+### Enterprise Data GitLab Projects
+
+| Link to GitLab Data Projects |  
+| -------------- |
+| [Data Team](https://gitlab.com/gitlab-data/analytics) |
+| [Sales Strategy and Analytics](https://gitlab.com/gitlab-com/sales-team/field-operations/analytics) |
+| [Marketing Strategy and Performance](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) |
+| [Product Analysis](https://gitlab.com/gitlab-data/product-analytics) |
+| [Business Analytics](https://gitlab.com/gitlab-com/business-analytics) |
+| [Engineering Analytics](https://gitlab.com/gitlab-com/quality/engineering-analytics) |
+| [People Analytics](https://gitlab.com/gitlab-com/people-group/people-operations/people-analytics2) |
+| [Customer Success Operations - Use CSAnalytics label](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations) |
+| [Online Sales and Self-Service](https://gitlab.com/gitlab-com/sales-team/self-service) |
+
 ### Enterprise Data Triager 
 
 | Slack Channel Alias| Analytics Team | Sunday | Monday | Tuesday | Wednesday | Thursday |	Friday |
