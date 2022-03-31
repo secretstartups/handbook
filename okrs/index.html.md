@@ -81,17 +81,10 @@ You should decide your scoring methodology ahead of time. You might score an OKR
 
 OKRs do not replace or supersede core team member responsibilities or performance indicators. OKRs are additive and are essentially a high signal request from your leadership team to prioritize the work. They typically are used to help galvanize the entire company or a set of teams to rapidly move in the one direction together. They are expected to be completed unless you have higher priority work that is surfaced and agreed to by leadership.  When surfacing tradeoffs, team members should not factor in how an unmet OKR may impact your executive leadership bonus in their prioritization. They should instead focus on GitLab priorities. If your executive leader still feels that the OKR is more important, they will ask you to *disagree and commit*. 
 
-## Dogfood portfolio management's strategic planning capabilities
-OKRs are like [Portfolio Management](/handbook/product/categories/#portfolio-management-group){:data-ga-name="portfolio management"}{:data-ga-location="body"} so we are [dogfooding](/handbook/values/#dogfooding){:data-ga-name="dogfooding"}{:data-ga-location="body"} those features to track our OKR progress over the course of a quarter.
-Work happens in GitLab, so we use GitLab to manage tracking the progress of that work.
-We use epics to track objectives, and issues to track key results.
-With [health statuses](/releases/2020/04/22/gitlab-12-10-released/index.html#epic-and-issue-health-tracking){:data-ga-name="health statuses"}{:data-ga-location="body"}, each of the CEO OKRs maps to an epic, and the progress of all cascading OKRs can be seen at-a-glance.
+## Ally.io for OKRs
 
-![okr-epic-at-a-glance](/company/okrs/okr-epic-at-a-glance.png)
+As of FY23-Q2, the whole company will use a third-party vendor, [Ally.io](https://ally.io/),for OKRs.
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/-KIr8lhYn7Y" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 ## Who sets OKRs?
 
@@ -131,18 +124,19 @@ The following week, **four Mondays** before the start of the fiscal quarter, Exe
 
 Each executive should aim for a maximum of 3 objectives, however, in Q4 each executive can have a maximum of 4 OKRs because we are preparing for the next year. Each objective has between 1 and 3 key results; if you have less, you list less. While OKRs are known for being ambitious or committed, we only have ambitious OKRs. When drafting the OKRs, executives should strive to target actual numbers versus percentages. In advance of the first day of the new quarter, all percentages should be replaced with actual numbers. 
 
-Function epics should cascade from one of the CEO's OKR EPICs.
+Function objectives should cascade from one of the CEO's OKR's in Ally.io.
 
 Executives should consider how their OKR efforts can have the greatest impact on the organization. Functions can have objectives under any of the three CEO OKRs. For example, the People Team could have an objective under the CEO's Net ARR OKR if it identified that a specific enablement activity were key to driving sales or the Sales Team could have an objective under the CEO's Great Teams OKR if it were focused on improving team diversity. Functions should not be pigeonholed into the CEO OKR that appears to be most directly related to the function.
 
-When ready for review or when changes to objectives or issues are made, epics and issues should be shared in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO and CEO.
+When ready for review or when changes to objectives or KRs are made, objectives and KRs should be shared in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO and CEO.
 The CEO is responsible for OKR approvals, but may delegate this responsibility to the CoS to the CEO. 
 
-How objectives cascade from CEO KRs in the handbook to functional Objectives and KRs in Epics and Issues:
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/J5fe0q9mZCU/" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+Function objective should cascade from one the CEO's OKRs in Ally.io using the steps below:
+OKR owners should author new OKRs in their corresponding Department/Sub-department/Compartment/Team in Ally.
+   1. In Ally, navigate to your Team by selecting **All Teams** from the lefthand side. If you do not see your team, contact the CoSt.
+   1. Verify you are in your Team and in the relevant Fiscal Quarter, and click **Add an Objective**
+   1. Enter the title of the Objective. 
+   1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assign to the OKR/KR. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
 
 ### OKR Draft Review Meeting
 
@@ -150,7 +144,7 @@ The week that begins **three Mondays** before the start of the fiscal quarter, t
 This meeting is an opportunity for executives to get feedback from one another and highlight any dependencies on other functions to one another.
 The agenda for this meeting is structured as follows:
 1. Function
-   1. Epic: link to the objective
+   1. Link to the objective in Ally.io
    1. Dependencies: call out any dependencies
 
 If additional action needs to be taken by the functional leader, the epic or issue should be re-shared in the #okrs channel in Slack when it's ready for final review.
@@ -161,15 +155,14 @@ Now that Executive (function-level) OKRs are set
 (as set as things are at GitLab; Everything is always in Draft!),
 Executives shift their focus to finalizing OKRs to their team.
 
-This is also the opportunity to create Executive OKRs in GitLab (epics and issues) and add them to the relevant CEO OKR Epics.
+This is also the opportunity to create Executive OKRs in Ally.io (objectives and key results) and add them to the relevant CEO OKR.
 
-Notes for Pass-thru KRs: To avoid duplicate issues for the same KR due to the fact that an Issue can only inherit from a single Epic, make the KR issue a child of the Objective epic at the lowest level in the organization structure. The upper level Objective epics all refer to the single KR issue but not in the inheritance hierarchy.
 
 ### Dependency Commitments
 
 Top level dependencies should be identified in the [OKR Draft Review Meeting](https://about.gitlab.com/company/okrs/#okr-draft-review-meeting){:data-ga-name="OKR draft review"}{:data-ga-location="body"}, but it is likely that additional dependencies will be identified as OKRs cascade. We want to avoid situations where big asks are coming weeks into the quarter, or teams are being committed to do work without first having input. This makes it difficult for teams to manage their own priorities and succeed in their own initiatives. 
 
-It is each team's responsibility to proactively identify dependencies in which the team cannot reach success without meaningful engagement from another team. In these instances, it is important that all teams required to make a significant contribution sign off on the KR and agree on the level of support to be provided. A boring solution is to create a sister KR for other departments that will need to be actively involved. KRs with dependencies should not be considered final until other teams have confirmed support, but other teams should also respect department KRs as the top priorities for the overall business and do what they can to support. 
+It is each team's responsibility to proactively identify dependencies in which the team cannot reach success without meaningful engagement from another team. In these instances, it is important that all teams required to make a significant contribution sign off on the KR and agree on the level of support to be provided. A [boring solution](/handbook/values/#boring-solutions) is to create a sister KR for other departments that will need to be actively involved and link the KRs using the dependency function. KRs with dependencies should not be considered final until other teams have confirmed support, but other teams should also respect department KRs as the top priorities for the overall business and do what they can to support. 
 
 ### Documenting How to Achieve
 
@@ -195,7 +188,7 @@ We value [iteration](/handbook/values/#iteration){:data-ga-name="iteration"}{:da
 
 Please note that iteration **does not** mean [changing or lower goal posts](https://about.gitlab.com/handbook/values/12-things-that-are-not-iteration){:data-ga-name="changing or lower goal posts"}{:data-ga-location="body"}, because it looks like we can't meet what were ambitious but agreed upon key results.
 
-It is better to update an objective or KR than continue to work toward a goal that is not best aligned with desired business [results](/handbook/values/#results){:data-ga-name="results"}{:data-ga-location="body"}. In instances where CEO KRs are being updated in the spirit of iteration, post an MR in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO for approval. Approval of the MR indicates that the revised goal has been agreed upon. At this point, you can also update the issue or epic to reflect changes.
+It is better to update an objective or KR than continue to work toward a goal that is not best aligned with desired business [results](/handbook/values/#results){:data-ga-name="results"}{:data-ga-location="body"}. In instances where CEO KRs are being updated in the spirit of iteration, post an MR in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO and the CEO for approval. Approval of the MR indicates that the revised goal has been agreed upon. At this point, you can also update the KR in Ally.io to reflect changes.
 
 In the event that a functional Objective that is captured in an epic or a functional KR that is capured in an issue needs to be updated, please note the change in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO for approval. Approval of the change indicates that the revised goal has been agreed upon.
 
@@ -204,7 +197,7 @@ In the event that a functional Objective that is captured in an epic or a functi
 
 Top level CEO KRs will appear in the handbook. OKRs have numbers attached to them for [ease of reference, not for ranking](/handbook/communication/#numbering-is-for-reference-not-as-a-signal){:data-ga-name="ease of reference"}{:data-ga-location="body"}. In order to maintain a [single source of truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot){:data-ga-name="single source of truth"}{:data-ga-location="body"}, starting in Q4 FY21, we're putting functional objectives and KRs in epics and issues that should link to the CEO KR epics that are linked on the handbook page. We made this change, because the handbook and epics were not being consistently updated, so there often wasn't a single source of truth. We were also struggling with merge conflicts as regular changes were being made to the handbook page. 
 
-Functional leaders are responsible for updating the their objectives and KRs in their epics and issues before each [Key Review](/handbook/key-review/#automated-kpi-slides){:data-ga-name="key reviews"}{:data-ga-location="body"}.
+Functional leaders are responsible for updating the their objectives and KRs in Ally before each [Key Review](/handbook/key-review/#automated-kpi-slides){:data-ga-name="key reviews"}{:data-ga-location="body"}.
 
 ## Format of Objectives and Key Results in Epics and Issues
 
@@ -273,9 +266,9 @@ When presenting the status of OKRs, we use the following terms to denote the sta
 1. Needs attention - the DRI believes there is some risk the key result will be achieved. Elevated attention is required in order for the key result to be achieved.
 1. At risk - the DRI does not expect the key result will be achieved. Urgent action is required in order for the key result to be achieved.
 
-A Key Results issue's health status should be maintained as the SSOT on the status. This is something that should be able to be referenced at any point in order to get a clear view of progress against the objective. The issue's parent epic will roll up the health statuses of all relevant issues. 
+A Key Results health status should be maintained as the SSOT on the status. This is something that should be able to be referenced at any point in order to get a clear view of progress against the objective. The objective will roll up the health statuses of all relevant KRs. 
 
-During Key Reviews, teams should include material that covers [key OKR progress  details](/handbook/key-review/#okr-slides){:data-ga-name="okr slides"}{:data-ga-location="body"} and links to relevant epics and issues.
+During Key Reviews, teams should include material that covers [key OKR progress  details](/handbook/key-review/#okr-slides){:data-ga-name="okr slides"}{:data-ga-location="body"} and links to relevant OKRs.
 
 The first Key Review of the following quarter should offer a clear scoring for each KR.
 
