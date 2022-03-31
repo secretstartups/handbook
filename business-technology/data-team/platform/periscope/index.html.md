@@ -85,6 +85,10 @@ Once you can see `New Chart`, you can start creating your own dashboards! Find `
 
 Once your dashboard is built and named, you can start adding charts by clicking `New Chart` in the top right. Now you’re ready to start writing queries.
 
+If you need to copy an existing chart, but do not have permission to see the queries it includes, the owner of that dashboard will need to update the dashboard permissions to allow `Edit Permissions` under the `Dashboard Preferences- > Permissions -> Editor` section.
+
+
+
 ### Finding the Right Data Sources
 
 The next step to answering your data question is finding the relevant table(s) to query from. This requires knowing some background about our Snowflake data warehouse and the data sources which feed into it. There are 3 general types of data that we store in Snowflake: External, Internal Frontend, and Internal Backend.
