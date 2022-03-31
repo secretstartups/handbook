@@ -96,11 +96,11 @@
 
 
 ### General
-* As a GitLab employee who can raise an incident, I know how incident can be initiated 
-* As a GitLab employee who can raise an incident, I have a general understanding  about incident severity levels
-* As a GitLab employee who can raise an incident, I understand the high level process of Incident Management and its importance to the business
-* As a GitLab employee who can raise an incident, I can contact the right team via dedicated slack channel.
-* As a GitLab employee who can raise an incident, I can easily find a page in the handbook that documents the Incident Response Procedures
+* As a GitLab team member who can raise an incident, I know how incident can be initiated 
+* As a GitLab team member who can raise an incident, I have a general understanding  about incident severity levels
+* As a GitLab team member who can raise an incident, I understand the high level process of Incident Management and its importance to the business
+* As a GitLab team member who can raise an incident, I can contact the right team via dedicated slack channel.
+* As a GitLab team member who can raise an incident, I can easily find a page in the handbook that documents the Incident Response Procedures
 
 
 
