@@ -52,7 +52,7 @@ We are continuing to develop our policy and workflow around CLAs on behalf of Gi
 1. Fork the repository you want to contribute to into your account
 2. Follow the usual [merge request flow](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
 
-In the future me might have a single place for forks. That will allow us to track various metrics about contributions made by GitLab employees.
+In the future, we might have a single place for forks. That will allow us to track various metrics about contributions made by GitLab employees.
 
 ### Contributing to a project on GitHub
 
@@ -61,7 +61,7 @@ If your GitHub account's primary email is not your @gitlab.com email, you can ad
 1. Fork the repository you want to contribute to into your account
 2. Follow the usual [pull request flow](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). 
 
-In the future me might have a single organization for forks. That will allow us to track various metrics about contributions made by GitLab employees.
+In the future, we might have a single organization for forks. That will allow us to track various metrics about contributions made by GitLab employees.
 
 ## Using open source libraries
 
