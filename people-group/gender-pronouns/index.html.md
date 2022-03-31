@@ -50,6 +50,15 @@ A person's external display of their gender identity through clothing, grooming,
 
 Cisgender or cis, refers to a person whose gender identity and/or expression generally aligns with the typical expectations of their sex assigned at birth.
 
+#### Assigned Female/Male at Birth (AFAB, AMAB)
+
+**Sex Assignment** is the determination of an infant's [sex](#whats-the-difference-between-sex-and-gender) at birth. All babies are assigned a sex at birth which is generally directly related to their anatomy.
+However, there are a variety of situations in which an individual may be assigned a certain sex but develop differing physical characteristics as they age. 
+
+Being assigned female/male at birth sets an expectation of the associated socially accepted [gender expression](#gender-expression). As mentioned above, [cisgender](#cisgender) is when a person's gender and assigned sex are the same.
+
+The terms AFAB/AMAB are often used by people to communicate about their gender identity without reinforcing the typical views on sex. 
+
 #### Transgender
 
 Transgender or "trans", is an umbrella term for people whose gender identity and/or expression generally differs from typical expectations of their sex assigned at birth. For example, along with trans men and trans women, people who identify genderqueer, non-binary, or genderfluid can be also identified as transgender. Transgender people may or may not choose to alter their bodies hormonally and/or surgically.
