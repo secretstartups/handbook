@@ -99,7 +99,14 @@ After starting the tool you will see it running each test in order. Once all tes
 For your reference, here are the test runs from GitLab:
 
 1. [Latest Results](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/Latest) - Our automated CI pipelines run multiple times each week and will post their result summaries to the wiki here each time.
-2. [GitLab Versions](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/GitLab-Versions) - A collection of performance test results done against several select release versions of GitLab.
+2. [GitLab Versions](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/GitLab-Versions) - A collection of performance test results done against several select release versions of GitLab.'
+
+There are known issues when running [the GitLab Performance Tool](https://gitlab.com/gitlab-org/quality/performance). Some tests run against parts of the product which are known to be non-performant.
+
+- [Improve performance of users API under load](https://gitlab.com/gitlab-org/gitlab/-/issues/346601).
+- [Check for other issues the Quality team has raised about other tests](https://gitlab.com/groups/gitlab-org/-/issues?sort=created_date&state=opened&label_name[]=Quality:performance-issues)
+
+For more details on other possible problems see [Troubleshooting section](https://gitlab.com/gitlab-org/quality/performance/-/blob/main/docs/k6.md#troubleshooting)
 
 ## Cleaning Up
 
@@ -114,3 +121,11 @@ docker run -it -e ACCESS_TOKEN=<TOKEN> -v $(pwd)/k6/config:/config -v $(pwd)/res
 Method 2: Delete the top-level group `gpt` (or the unique name you've replaced at your environment json) from GitLab UI.
 
 **NOTE**: There is no preference of one method over the other as both will delete the top-level group.
+
+## Reviewing results for customers
+
+Customers often ask for their GPT results to be reviewed as part of building out a Reference Architecture.
+
+- Check [the GPT issues list](https://gitlab.com/gitlab-org/quality/performance/-/issues) if errors or issues .
+- Ask for help from [support team members with GPT experience](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html).
+- The Quality Engineering team can review the results. Raise an issue in the [Reference Architectures](https://gitlab.com/gitlab-org/quality/reference-architectures/-/issues) project with the `~customer-worktrack` template and tag `@grantyoung`
