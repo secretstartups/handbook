@@ -23,8 +23,8 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| 2022-03-16-17  |  **[GitLab 2022 Sales Kickoff Prework](https://gitlab.edcast.com/insights/ECL-80bd2ef1-0234-4f05-8a02-31c5f056d5a2)**     |    Accelerate is the theme for GitLab SKO 2022 |
-| 2022-03-30 | **Alliances Solution Index** | Kurt Dusek |
+| 2022-04-06 | **GitLab-Google Cloud Platform** | Atif Rashid |
+| 2022-04-20 | **GitLab Agent for Kubernetes and CI/CD tunnel with generic impersonation** | Cesar Saavedra | 
 
 
 ## Past Sessions
@@ -33,6 +33,8 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2022-03-30 | **[Alliances Solution Index](https://youtu.be/sKl-pUNqHC4)** | Public |
+| 2022-03-16-17  |  **[GitLab 2022 Sales Kickoff Prework](https://gitlab.edcast.com/insights/ECL-80bd2ef1-0234-4f05-8a02-31c5f056d5a2)**     |    Accelerate is the theme for GitLab SKO 2022 |
 | 2022-03-02 | **[Clickthrough Demos](https://youtu.be/_VMlygiWzPo)**    | Private | 
 | 2022-02-16 | **[Enhanced DevSecOps and Compliance Management Demo Environment](https://youtu.be/kXmE7Po_2rc)**     |     Public  |
 | 2022-02-02 | **[F.I.R.E. Collaborations - Igniting Inner Sourcing](https://youtu.be/khYtYQ_pCtM)**           |  Public            |
