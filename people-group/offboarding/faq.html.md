@@ -42,6 +42,7 @@ The following can be used as a guide on what actions could need to be taken befo
 - [Install JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#installing-jamf) to assist the IT OPs team (if not already done).
 - Schedule a meeting with one of the IT Ops team members (depending on your region) for 30-60 minutes before your scheduled offboarding **time**. 
     - Marc DiSabatino - https://calendly.com/mdisabatino - US time zone
+    - Jenny Wong - https://calendly.com/gitlabjwong - US (PST) time zone
     - Paul Laurinavicius - https://calendly.com/plaurinavicius - EMEA time zone
     - Steve Ladgrove - https://calendly.com/sladgrove - APAC time zone
 - Copy over any personal passwords currently stored in 1Password (this will be disabled once offboarding is processed and you will no longer have any access to any of your personal passwords).
