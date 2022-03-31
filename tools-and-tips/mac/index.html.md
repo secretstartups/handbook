@@ -23,7 +23,7 @@ If you are switching from Windows to macOS, these [tips](https://support.apple.c
 On a macOS, there are a few screen shot key shortcuts that can be very helpful:
 
 * `command + shift + 3` - takes a screen shot of your entire screen(s - it will create an image for each screen you have)
-* `command + shift + 4` - allows you to select an area on the screen to take a screen shot (it will create one image of your selected are)
+* `command + shift + 4` - allows you to select an area on the screen to take a screen shot (it will create one image of your selected area)
 * `command + shift + 5` - brings up a tool that allows you to do all of these things as well as create a video (with audio) of all or part of your screen.
 
 In the case of `command + shift + 3` and `command + shift + 4`, if you also hold your control key (so, `command + shift + control + 3`), your screen shot will be in your clipboard. Alternatively you can quickly select the screenshot preview in the bottom right corner and press `command + c`.
