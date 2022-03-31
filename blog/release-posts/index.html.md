@@ -39,6 +39,8 @@ Release posts follow a process outlined here, and the templates that are used to
 - [Deprecation MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md)
 - [Removal MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Removals.md)
 - [Release post bug, usability and performance improvements MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md)
+- [MVP issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/release-post-mvp-nominations.md)
+- [Release Post retrospective issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/Release-Post-Retrospective.md)
 - [YML content block samples](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples)
 - [Patch release template](https://gitlab.com/gitlab-org/release-tools/-/blob/master/templates/patch_release_blog_template.html.md.erb)
 - [Security release template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/security_release_blog_template.html.md)
@@ -48,10 +50,13 @@ Release posts follow a process outlined here, and the templates that are used to
 ## Schedule
 
 At a high level, the Release post schedule is:
-### By the 7th
+### On the 1st
 
-- Release post manager creates a branch on `www-gitlab-com` with related MR
-- This MR will collect the release post item contributions
+- The [Release Post Process Kickoff Tasks](https://gitlab.com/gitlab-com/www-gitlab-com/-/pipeline_schedules) pipeline runs which will trigger `bin/rake release_post:start`
+- This task creates the branches, MRs, and issues necessary to run the Release Post process
+  - If issues arise with this pipeline, contact Product Operations `@brhea`
+  - If `@brhea` is unavailable, work with your Tech Advisor to run `bin/rake release_post:start` to kickoff the XX-Y Release Post, or
+  - Follow the steps to [manually create the release post branch and required directories/files](https://about.gitlab.com/handbook/marketing/blog/release-posts/manual/)
 
 ### 1st to 10th
 
@@ -207,10 +212,8 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 
 ### Critical path tasks:
 
-- Setting up the release post branch and completing all the tasks assigned to the Release Post manager in the Release Post MR template
+- Completing all the tasks assigned to the Release Post manager in the Release Post MR template
      - Reminder: If you cannot perform any of the release post manager tasks between the 15th and the 22nd of the month as defined in the [monthly MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), it is recommended you sign up for another release post. In the case that schedule/circumstances changes after you'd already signed up for the release post, please consult with Product Operations on how to best manage the situation. 
-- Creating the release post [merge request](#create-the-release-post-mr)
-- Creating MRs to collect [usability improvements, performance improvements, and bug fixes](#create-mrs-for-usability-improvements-bugs-and-performance-improvements)
 - Working with VP of Product Management to identify features to highlight in the introduction
 - Sending out reminders about upcoming due dates
 - Merging the release post MR on the 22nd and ensuring the release post page goes live
@@ -227,7 +230,7 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 - Working with the VP of Product Management to identify what to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users)
 - Monitoring the Slack Release Post channel to help answer questions and troubleshoot hurdles
 - Pinging the PMs and others as needed in Slack or MRs to help resolve feedback
-- Making sure we have the release post is **ready to merge two days before the 22nd**
+- Making sure the release post is **ready to merge two days before the 22nd**
 - [Communicate](#communication) directly with product managers using [#product](https://gitlab.slack.com/archives/C0NFPSFA8) on Slack as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd
 - If you need additional support in engaging with the community, the Developer Evangelism team ([#developer-evangelism](https://gitlab.slack.com/archives/CMELFQS4B) on Slack) is available to support on [release days](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#release-days)
 - Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
@@ -237,103 +240,11 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 - Alerting Product Operations of significant issues or hurdles that may compromise the release post
 - Supporting on tasks specific to [major releases](#major-releases) if collaborators reach out
 
-**The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
-
-If you have any technical problems while doing any of your release post manager duties that you can't resolve with the help of the Technical Writer or [release post DRI](https://gitlab.com/fseifoddini), you can reach out for technical advisement to the [Technical Advisors](#technical-advisors) via the dev escalation process. When you communicate with tech advisors, always indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution.
-
-<i class="fas fa-exclamation-triangle" aria-hidden="true" style="color: red"></i>
-**Important:** Please check beforehand if you have `Maintainer` **merge rights** to the www project.
-If you don't, submit an issue to [request access](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) asking for [Maintainer](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) access to project https://gitlab.com/gitlab-com/www-gitlab-com/. If you need access, model your request after [this confidential issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/10031). You will also need to inform the [release post DRI](https://gitlab.com/fseifoddini) as well as the Technical Writer as an FYI that it's in progress but you may need merge support.
-{:.alert .alert-warning}
-
-### Create your release post branch and required directories/files
-
 **Note:** In the following sections we refer to the GitLab version as X.Y
 and the date of the release as YYYY/MM/22. You should replace those values
 with the current version and date. The day will always be the 22nd, so no need
 to change that.
-{:.alert .alert-info .text-center}
-
-There are two ways to create the initial monthly release post in the [about.GitLab.com repository](https://gitlab.com/gitlab-com/www-gitlab-com): a) using a script and b) manually. The script does exactly what you would manually, but automates the process.
-
-#### First way: using a script (**preferred** approach)
-
-1. Make sure you have [set everything up to contribute to the about.GitLab.com repository](/handbook/git-page-update/).
-1. In a terminal (locally), run the task:
-
-   ```shell
-   bundle exec rake "release:monthly"
-   ```
-
-   You will be asked to submit the release post date (in ISO format)
-   and the GitLab version (in `major.minor` format). If any of the two are
-   wrongly submitted or the release branch already exists, the task will
-   abort.
-
-1. Push the branch that was created and follow the link to [create the merge request](#create-the-release-post-mr).
-
-You can find this by going to the www-gitlab.com project and selecting Merge requests. You will be prompted to create the merge request.
-
-#### Second way: manually (backup approach if the script above isn't working)
-
-The manual way can be done either locally or using the GitLab Web IDE:
-
-1. On `gitlab.com/gitlab-com/www-gitlab-com` create a new branch `release-X-Y` from `master`.
-1. On `release-X-Y` branch, create the blog post file, containing the introduction and the blog post frontmatter information:
-   1. In `sites/uncategorized/source/releases/posts/` directory, add a new file called `YYYY-MM-22-gitlab-X-Y-released.html.md` by copying the
-      [monthly release blog template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md).
-1. On `release-X-Y` branch, create the release post data directory, to which features and other data will be added:
-   1. Create a new directory `X_Y` in the `data/release_posts` directory.
-   1. Copy [`data/release_posts/unreleased/samples/mvp.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/mvp.yml) into `data/release_posts/X_Y/mvp.yml`.
-   1. Copy [`data/release_posts/unreleased/samples/cta.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/cta.yml) into `data/release_posts/X_Y/cta.yml`.
-1. On the release-X-Y branch, edit `sites/uncategorized/source/includes/home/ten-oh-announcement.html.haml` changing all the GitLab version numbers and URLs referencing the release post to reflect the current one. Leave the announcement description as is, as you (the Release Post Manager) will change this later in the process.
-
-**Important!** Please be sure to use the **most recent templates** on `master` for the `mvp` and `cta` files you create, by clicking on the links provided in instructions. They can also be found when browsing the repository in the `master` branch.
-{:.alert .alert-info .text-center}
-
-### Create the release post MR
-
-Create a merge request with the introductory changes _after the previous post has been merged and before the feature freeze date_ to make the post available to receive contributions from the team:
-
-1. The source branch must be `release-X-Y` and the target branch `master`.
-1. Set the title to `Draft: Release post - GitLab X.Y`.  Prefix the title with `Draft:`.
-1. Confirm that "Delete source branch when merge request is accepted" is selected.
-1. Use the release post template for your MR.
-
-   ![release post MR template](release-post-mr-template.png){:.shadow}
-
-Now that you have created the release post MR, refer to the checklist in the MR for each action that you need to take and the due dates of each action. Keep in mind the MRs for usability improvements, bugs, and performance improvements have their own checklists to be completed, including a task for the Release Post Manager to merge these MR by the 17th prior to final content assembly.
-
-### Create MRs for usability improvements, bugs, and performance improvements
-
-Create dedicated MRs from the sample templates for these content blocks (usability improvements, bugs, performance improvements). This separation from the main Release Post MR simplifies the contribution and discussion process.
-
-**Note for people adding content:** The MRs for usability improvements, bugs, and performance improvements provide a place for others to add their content. While the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MRs, on schedule. Make sure to immediately apply any suggestion you make to avoid race conditions where your suggestion is considered as applied if someone else has directly pushed a commit ([example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/96728#note_806133408)). The TW lead will review the changes anyway, so no need to ask for a pre-review.
 {:.alert .alert-info}
-
-1. In the `gitlab.com/gitlab-com/www-gitlab-com` project, create 3 [new
-   branches](https://gitlab.com/gitlab-com/www-gitlab-com/-/branches/new) from master: one for bugs, one for usability improvements, and one for performance improvements.
-   Name the branches `release-X-Y-bugs` `release-X-Y-usability-improvements` and `release-X-Y-performance-improvements`.
-1. From each of these newly created branches, open a merge request (MR)
-   targeted at the master branch. Name the MRs `Draft: release-X-Y-bugs`, `Draft: release-X-Y-usability-improvements`, and
-   `Draft: release-X-Y-performance-improvements`, and use the
-   [`Release-Post-Bug-Usability-PerformanceImprovement-Block`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md).
-   template.
-1. Add appropriate milestone to the MRs.
-1. Assign the MRs to yourself, and assign the TW lead as Reviewer of the MRs when the merge request is ready for review.
-1. Confirm that **Delete source branch when merge request is accepted** is
-   selected.
-1. After the MRs are created, confirm they have the following labels:
-   - `release post`
-   - `release post item`
-   - `Technical Writing`
-1. In each MR, replace the `@mentions` with the actual task owner names.
-1. On the `release-X-Y-bugs` branch, add a new file to the `data/release_posts/unreleased/` folder called bugs.yml and populate it with the content of [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml)
-1. On the `release-X-Y-usability-improvements` branch, add
-a new file to the `data/release_posts/unreleased/` folder called release-post-ux-improvements.yml and populate it with the content of 
-   [`release-post-ux-improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/usability_improvements.yml).
-1. On the `release-X-Y-performance-improvements` branch, add
-a new file to the `data/release_posts/unreleased/` folder called performance_improvements.yml and populate it with the content of    [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml).
 
 ### Local dev environment setup to run content assembly script
 
@@ -821,8 +732,7 @@ Note: Because there are no individual TW reviewers for the performance improveme
 
 ### Bugs MR
 
-As the TW Lead, you're responsible for reviewing an MR created for [bug fixes](#create-mrs-for-usability-improvements-bugs-and-performance-improvements).
-This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
+As the TW Lead, you're responsible for reviewing the bug fixes MR associated with each release post. This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
 
 Bugs included in the description:
 
@@ -841,8 +751,7 @@ YAML data:
 
 ### Performance improvements MR
 
-As the TW Lead, you're responsible for reviewing an MR created for [performance improvements](#create-mrs-for-usability-improvements-bugs-and-performance-improvements).
-This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
+As the TW Lead, you're responsible for reviewing the performance improvements MR associated with each release post. This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
 
 Performance improvements added to the description:
 
@@ -860,8 +769,7 @@ YAML data:
 
 ### Usability improvements MR
 
-As the TW Lead, you're responsible for reviewing an MR created for [usablity improvements](#create-mrs-for-usability-improvements-bugs-and-performance-improvements).
-This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
+As the TW Lead, you're responsible for reviewing the usability improvements MR associated with each release post. This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
 
 Usability improvements included in the description:
 
@@ -1368,7 +1276,7 @@ to the post.
 
 _To be added by Engineering Managers, Product Managers and Product Designers._
 
-The Release Post manager will [create MRs](#create-mrs-for-usability-improvements-bugs-and-performance-improvements), post notifications and share reminders to collect contributions for usability improvements, performance improvements, and bugs. Engineering Managers can contribute to performance improvements and both Engineering Managers and Product Managers can contribute to bug fixes. Both Product Managers and Product Designers can contribute to usability improvements.
+The Release Post manager will post notifications and share reminders to collect contributions for usability improvements, performance improvements, and bugs. Engineering Managers can contribute to performance improvements and both Engineering Managers and Product Managers can contribute to bug fixes. Both Product Managers and Product Designers can contribute to usability improvements.
 
 ### Omnibus improvements
 
