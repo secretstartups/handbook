@@ -478,15 +478,14 @@ Under Activity > Orders, the requestor can click on **Supplier Print View** to p
 ### How to Request a New Supplier
 
 A supplier must exist in Coupa prior to submitting a requisition for that supplier. To complete a New Supplier Request form:
-1. Click on "Request a New Supplier" icon on the Home page; under "Forms and Quick Links" section.
+- Click on "Request a New Supplier" icon on the Home page; under "Forms and Quick Links" section.
 
-![coupa-image-17](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa17.png)
+![coupa-image-29](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa29.png)
 
 
-1. Complete the form details and click "Review".
-   - The approval Workflow will be displayed.
-1. Click "Submit for Approval" to route to the approvers.
-
+- Complete the form details and click the "Review" button (located at the bottom of the page/screen).
+   - Review the information and if any changes need to be made, click the "Edit" button (located at the bottom of the page/screen) to make necessary changes.
+   - If the information is correct, click the "Submit for Approval" button (located at the bottom of the page/screen) to route the request to Approvers. 
 - Once the New Supplier request is approved, an External Supplier Form will be automatically sent to the Supplier to gather additional information.
    - The Supplier must complete the form and submit it back.
 - After supplier submission, the external form will be routed to the Accounts Payable Approval Group for review and approval.
@@ -512,7 +511,7 @@ A supplier must exist in Coupa prior to submitting a requisition for that suppli
 The Professional Services Request form must be filled out **before** creating a requisition for any professional services related purchase. To complete the Professional Services Request form:
 - Click on "Professional Services request" button on the Home page; under "Forms and Quick Links" section.
 
-![coupa-image-21](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa21.png)
+![coupa-image-30](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa30.png)
 
 - Fill out all the form questions and click "Submit".
    - The cart will be automatically updated with the provided answers in the line item.
