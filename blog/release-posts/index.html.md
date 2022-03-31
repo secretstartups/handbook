@@ -1850,15 +1850,17 @@ please make sure to specify them in the title, add the correct [category](../#ca
 
 **What's New will be initiated on the 20th, finalized on the 21st, and typically merged 2 to 4 hours AFTER the release post is live on the 22nd. The exact timing of the merge depends on the availability of a `maintainer` to merge it**
 
-1. The release post manager will identify the 3-7 topics for [What's New] each release as part of the their final review.
-     - What gets highlighted in the What's new can but does not have to align with the primary features and/or theme of the release post.
-1. `@mkarampalas` will create the What's New .yml file in  `gitlab/data/whats_new` directory of the `gitlab.com/gitlab-org/gitlab` project
-   1. Utilize the [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/whats_new/templates/YYYYMMDD0001_XX_YY.yml).
+1. The release post manager will identify 3-7 release post items to be featured in the "What's new" menu item each release as part of the their final review.
+    - "What's new" can be seen by clicking on the `?` icon in the navigation menu of GitLab and choosing "What's new."
+    - The selected items can but do not have to align with the primary features of the release post.
+    - It is recommended to strive for a balance of features available to both free and paid users. If we only include Ultimate features, non-Ultimate users may stop engaging.
+1. The release post manager will create a new MR in the `gitlab.com/gitlab-org/gitlab` project
+   1. Use this [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/whats_new/templates/YYYYMMDD0001_XX_YY.yml) to create a new file in the `gitlab/data/whats_new` directory.
    1. Title the file as `YYYYMMDD00001_XX_YY.yml` - for example, the 13.4 entry is titled `202009300001_13_04.yml`.
    1. Using the content that is in the release post items, duplicate the content for What's New.
       1. Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
 1. Images are required.
-   1. For videos, use the youtube image. To get the image URL, insert the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`. For cases where a video thumbnail doesn't look great, consider using a generic image from https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/images/growth
+   1. For videos, you will need to provide an image. For YouTube videos, you can use the image URL, which can be found by inserting the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`. For cases where a video thumbnail doesn't look great, consider using a generic image from https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/images/growth
    1. Images will end up at a URL like `https://about.gitlab.com/images/X_Y/XXXXXXX.XXX` Make sure you provide a full URL for the YAML entry. Ex: `https://about.gitlab.com/images/13_7/reviewers_sidebar.png`.
    1. If an image is not available, you can use a generic image (ex: https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png) but it is recommended to only use release post items that have an image as an additional measure to check for posts that don't make the release.
    1. Before committing the MR, check that the YAML is valid in a validator like https://jsonformatter.org/yaml-validator 
