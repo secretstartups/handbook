@@ -43,6 +43,20 @@ Our goal with an Executive Business Review is to meet with a customer's senior l
 
 This customer push-back is most common when delivering our first EBR to a customer. The important thing in this situation is to deliver an EBR to demonstrate the value of the meeting, and have a targeted conversation about the customer's objectives. This should help scheduling future EBRs with a customer's leadership.
 
+#### EBR Length
+
+The ideal length for EBRs is 90 minutes, but this is not always realistic. For example, customers may not be able to commit to that much time, or it may be best for the TAM to have an EBR be shorter, both to ensure it is impactful and valuable but also to not overburden them.
+
+Please see below for some tips on how to shorten EBRs to 60, or even 30, minutes:
+
+- Highlight recent successes of your primary team and champions upfront in the call (e.g. during introductions), just in case you run out of time at the end.
+- No matter the length of the EBR, the business objectives & goals portion should be at least 75% of the call and should begin as early in the conversation as possible, as this is the reason we're here.
+  - To help break it up even further, consider 50% of the call to be focused on existing objectives (validation, review of progress, how GitLab will help achieve those goals, questions from both sides on those objectives, etc.), and 25% to be open-ended conversation on future or additional objectives not already discussed. Depending on your familiarity of the account, those percentages may be swapped, as you'll focus more time on learning about their objectives than discussing what you already know.
+- Avoid tactical conversation topics such as feature requests, support tickets, etc., as these can be discussed during cadence calls and are not strategic or relevant for the Economic Buyer.
+- Be very selective of if you want to have a product update or overview. It's recommended to use the EBR to get buy-in on further product adoption that are most aligned with the customer's needs and using the opportunity to secure agreement on a follow up session. However, if a product overview during the EBR would help drive buy-in and ROI, ensure it is extremely relevant, succinct, and tied directly to their business objectives.
+- As always, prepare your next steps to be both actionable and accountable, and ensure that any next steps that formed throughout the EBR itself are captured and shared with the customer afterwards.
+- If you only have 30 minutes, forgo the slides and presentation, but still come prepared with everything that would have been in the slides documented in a clear format that can be shared with the customer afterwards.
+
 ### Sample EBR Request Talk-Track
 
 *As we are halfway through our current year of partnership, I wanted to schedule some time for us to meet and discuss progress against your business objectives and key initiatives. The goal of this time together is to:*
@@ -75,9 +89,9 @@ The following is an example for a TAM sending the email if not broached on a cal
 
 *The following are some suggested dates and times - typically these reviews take 60-90 minutes. I'm looking forward to review future strategy with you and the team!*
 
-##### eMail templates by region - Can be used as a starting point to send an EBR proposal to customers
+##### Email templates by region
 
-For ease of use / fast updating, available in Google Doc format:
+These can be used as a starting point to send an EBR proposal to customers, and for ease of use and fast updating, they are available in Google Docs:
 
 1. [DACH/Germany](https://docs.google.com/document/d/1b_c_UYrZBFyegDZN_fmYcMraQ9NHdrsIndSkPMp0X_Y/edit) (GitLab internal)
 
