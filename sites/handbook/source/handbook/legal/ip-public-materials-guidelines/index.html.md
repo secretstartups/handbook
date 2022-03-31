@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Guidelines for Use of IP in Public-facing Materials"
-description: "Guidelines for the use of third-party content in public-facing materials"
+title: "Guidelines for Use of Third-party IP in External Materials"
+description: "Guidelines for the use of third-party content in external materials"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -9,12 +9,12 @@ description: "Guidelines for the use of third-party content in public-facing mat
 - TOC
 {:toc .hidden-md .hidden-lg}
  
-## Guidelines for Use of IP in Public-facing Materials
+## Guidelines for Use of Third-party IP in External Materials
 
 
 ### Scope and purpose
 
-These guidelines apply to the use of third-party content in all public-facing materials, including:
+These guidelines apply to the use of third-party content in all external materials, including:
 
 
 
@@ -29,7 +29,7 @@ These guidelines do not apply to the use of trademarks in the GitLab product its
 
 When used in these guidelines:
 
-“**Public-facing materials**” means materials made available to any company, or individual who is not a GitLab team member, including marketing audiences, prospects, customers, partners, vendors, community members, and conference attendees. Materials published [with public visibility](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#visibility) on the GitLab Unfiltered YouTube channel, or on any GitLab social media account, are public-facing.
+“**external materials**” means materials made available to any company, or individual who is not a GitLab team member, including marketing audiences, prospects, customers, partners, vendors, community members, and conference attendees. Materials published [with public visibility](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#visibility) on the GitLab Unfiltered YouTube channel, or on any GitLab social media account, are public-facing.
 
 “**third-party content**” means any content, including trademarks, visual content, and written content, created or owned by a third party.
 
