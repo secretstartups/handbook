@@ -402,7 +402,7 @@ To delete text or attachments from a ticket:
 1. Go to the ticket in question and on the right hand nav bar, scroll down until you are able to locate the Ticket Redaction app.
 1. In the text box, enter a string of text or source image URL you wish to redact.
 1. If you wish to remove an attachment, you can click on the `Redact Attachment` button and choose the attachment you would like to remove.
-1. Let the user know what actions you have taken and why.
+1. Let the user know what actions you have taken and why. Request the user to rotate any secrets that may have been shared.
 
 If you don't see the Ticket Redaction App in the sidebar, it is likely that you are not assigned to one of the authorized roles (you can check your role in Zendesk profile). In this case, please reach out to `@support_operations` or `@support-managers` in Slack to request deletion. Zendesk roles that have access to Ticket Redaction App:
 
