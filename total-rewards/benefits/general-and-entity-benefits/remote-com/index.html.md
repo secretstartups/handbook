@@ -14,6 +14,53 @@ description: "Discover the benefits for Remote team members"
 
 The following benefits are provided by [Remote](https://www.remote.com/) and apply to team members who are contracted through Remote. If there are any questions, these should be directed to the Total Rewards team at GitLab who will then contact the appropriate individual at Remote.
 
+## Brazil
+
+All of the benefits listed below are administered and managed by [Remote](https://remote.com/country-explorer/brazil)
+
+- 13th Salary - Also known as a 'Christmas Bonus', this payment is an amount equal to one month’s salary which is paid out to employees in two parts in November (by the 20th) and December. The pro-rated 13th-month salary is also due upon termination. The 13th-month payment is a legally mandated benefit and not part of the base salary. During negotiations with candidates, it is important to clearly state what salary is being offered and whether it is inclusive or exclusive of the 13th-month payment. The Christmas Bonus is calculated at 8.33% of the base annual salary
+- Vacations Bonus - Professionals in Brazil are entitled to 30 calendar days of vacation per year after every 12 months of service, and the employee must be paid 1/3rd of a month’s salary as a Vacations bonus. Holiday pay and holiday bonus payments are pro-rated upon termination. The Vacation bonus is calculated at 2.77% of the base annual salary.
+
+## Medical
+
+Remote will offer healthcare through Omint all hired from April 2022 onwards. Team members have the option to add dependents to the healthcare plan at an additional cost. 
+
+### Remote - Brazil  Statutory Leave policies
+
+### Annual leave: 
+
+Team Members in Brazil are entitled to a statutory minimum of 30 calendar days of paid annual leave per year after each 12 months of service. The vacation period is typically taken in one block (or split between 20 days and 10 days).  Team members are eligible for GitLab's PTO policy; which will run concurrently with this Annual Leave policy. In addition, team members must be paid 1/3rd of a month’s salary as holiday bonus.
+
+To ensure all statutory annual leave is tracked appropriately, please enter all requested into PTO by Roots by selecting the `Vacation` option.
+
+### Statutory Pregnancy & Maternity leave: 
+
+Team members in Brazil, including contractors, are entitled to 120 days of statutory maternity leave.  This leave will run concurrently with GitLab's 16-week [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). Team members are eligible to receive up to 100% of their regular salary, paid by the employer who is later refunded by the government. This leave applies to adoption as well. 
+
+To apply for leave, please enter the dates into PTO by Roots and select the `Parental Leave` option.  The Absence Management team will reach out to you with more information.  
+
+### Statutory Partner/Paternity leave:  
+
+Team Members in Brazil are entitled to up to five days of paid statutory paternity leave.  Team members are also eligible for GitLab's 16-week paid [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave); which run concurrently. 
+
+Team members will receive up to 100% of their regular salary during their statutory Paternity Leave.  If eligible, GitLab will continue a team member's salary up to 100% of their regular salary for the full 16 weeks of leave. 
+
+Same-sex couples in Brazil may apply to receive full maternity leave benefits beginning on the day the caregiver takes leave from work.
+
+To apply for leave, please enter the dates into PTO by Roots and select the `Parental Leave` option.  The Absence Management team will reach out to you with more information.  
+
+### Bereavement leave: 
+
+Team members are entitled to two consecutive days of paid leave following the death of an immediate family member such as a spouse, parent, or child.
+
+Please enter the dates in PTO by Roots and select the `Bereavement` option.
+
+### Marriage Leave: 
+
+Team Members in Brazil are entitled to three consecutive days of paid leave when they get married.  Team members needing more time away should refer to our [PTO policy](/handbook/paid-time-off/).
+
+Please enter the time away in PTO by Roots and select the `Vacation` option.
+
 ## Denmark
 
 All of the benefits listed below are administered and managed by [Remote](https://remote.com/country-explorer/denmark)
@@ -161,7 +208,7 @@ All of the benefits listed below are administered and managed by [Remote](https:
 
 ### Healthcare
 
-* Remote must offer [Safety Wings](/uploads/2d3c2553f71063d495d4f540b3358d95/Benefits_Spain__3_.pdf) premium plan to all employees (this covers team members only and does not include dependants).
+* Remote must offer [Safety Wings](https://docs.google.com/document/d/14nuuU1RZTsVrsshbFoFJKG4mft4GIlzJGEunvTFSv2Q/edit) premium plan to all employees (this covers team members only and does not include dependants).
 * Team members have the option to waive Safety wings and instead can be paid a taxable bonus of $300/€252.35 each month, to be used to cover their own medical insurance and include dependants. This will be marked as 'bonus' on the payslip. 
 * Proof of coverage must be shared with Total Rewards. To do this, the team member may redact any personal information, upload to their BambooHR, and email to total-rewards@domain to confirm the same. 
 * Total Rewards will inform Payroll via the Payroll changes sheet
