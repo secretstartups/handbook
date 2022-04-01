@@ -21,7 +21,8 @@ The key objective of the POV is to validate the value of the shift left security
 
 ### Input to the POV
 
-- Pain points identified: Toolchain review and mapped out existing app sec tools and usage 
+- Pain points identified: Toolchain review and mapped out existing app sec tools and usage. Here is [the example](https://docs.google.com/spreadsheets/d/1saSUfEYIM--r3ve3tDwQVnhcb9OOmBluGGFWG_9K_rs/edit#gid=64684746) of the discovery for the toolchain and the mapping of the toolchain.
+
 - High level ROI discussion identifying potential tool consolidation (hard cost); and overall efficiency gains with transformative process with shift left security
 - Both DevOps + App sec team are stakeholders to be involved
 
