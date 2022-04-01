@@ -309,6 +309,18 @@ Also see the [Product Intelligence Guide](/handbook/product/product-intelligence
 1. Read the docs and work with your engineers on instrumentation.
 1. Ask for a [Product Intelligence Review](https://docs.gitlab.com/ee/development/service_ping/#9-ask-for-a-product-intelligence-review) in your MR.
 
+#### Metrics Instrumentation
+
+We now have available [Metric Instrumentation Classes for Service Ping metrics](https://gitlab.com/groups/gitlab-org/-/epics/5547).
+
+This means that we deprecate the usage of [`usage_data.rb`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/usage_data.rb) and for adding new metric we don't need to change this file. When you add or change a Service Ping Metric, you must migrate metrics to instrumentation classes.
+
+Adding a new metric in Service ping will require adding an instrumentation class and a metric definition, see more in [Metrics Instrumentation guide](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html).
+
+As we add more support to instrumentation classes, you can follow the progress in [this epic](https://gitlab.com/groups/gitlab-org/-/epics/6118).
+
+Note that not all the metrics in Service Ping are migrated to use instrumentation classes, this will be a continuous work and we kindly ask for cross-team collaboration to achieve this.
+
 ### 3. Data Availability
 
 Plan instrumentation with sufficient lead time for data availability. Ensure your metrics make it into the self-managed release as early as possible.
