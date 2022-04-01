@@ -94,4 +94,4 @@ Whether you have successful results or not, please add the experiment you made t
 
 ### List of jobs
 
-[We have a separate page for jobs on the critical path](jobs.html.md).
+[We have a separate page for jobs on the critical path](jobs.html).
