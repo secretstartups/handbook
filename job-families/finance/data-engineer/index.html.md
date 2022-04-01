@@ -5,7 +5,7 @@ title: "Data Engineering"
 
 ## Data Engineer
 
-The *Data Engineer* role requires an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of data insights to support business decisions in all areas of GitLab. Data Engineers are essentially software engineers who have a particular focus on data movement and orchestration.
+The Data Engineer job family requires an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of data insights to support business decisions in all areas of GitLab. Data Engineers are essentially software engineers who have a particular focus on data movement and orchestration.
 
 ### Job Grade
 
