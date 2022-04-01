@@ -83,7 +83,7 @@ Please note this is just a guide to help TAMs prioritize and calibrate, to ensur
 
 | Tasks | Weekly | Monthly | Quarterly | Yearly | Notes |
 |-------|--------|---------|-----------|--------|-------|
-| [Cadence calls](/handbook/customer-success/tam/cadence-calls/) | 8 | 35 | 105 | 420 | 1 hour per customer (30 minutes for the call, 30 minutes for prep, 30 minutes for follow up) |
+| [Cadence calls](/handbook/customer-success/tam/cadence-calls/) | 8 | 35 | 105 | 420 | 1 hour per customer (30 minutes for the call, 30 minutes for prep & follow up) |
 | [Customer onboarding](/handbook/customer-success/tam/onboarding/) | 1 | 4 | 12 | 48 | 1 hour per week per customer for average of 3 customers/quarter |
 | [EBRs](/handbook/customer-success/tam/ebr/) | 2 | 9 | 27 | 108 | Average of 2 customer EBRs per month, with 4 hours for each (1 hour for call, 3 hours prep) |
 | Account planning | 3 | 13 | 39 | 156 | [Success planning](/handbook/customer-success/tam/success-plans/), long-term strategy, [expansion opportunities](/handbook/customer-success/tam/stage-enablement-and-expansion/), etc. |
