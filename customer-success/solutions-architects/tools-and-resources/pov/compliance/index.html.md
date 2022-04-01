@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Compliance POV Scope and Acceptance
-description: Compliance POV Scope and Acceptance
+title: Software Compliance POV Scope and Acceptance
+description: Software Compliance POV Scope and Acceptance
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -13,22 +13,23 @@ description: Compliance POV Scope and Acceptance
 
 ## Compliance POV Scope and Acceptance
 {:.no_toc}
-The Compliance solution is identified for organizations  who are trying to "shift left" to find security vulnerabilities earlier within their DevOps methodology but have not been able to achieve expected results.
+When SA confirmed with organizations, especially businesses in the regulated industries, the Software Compliance solution is the key, the scope of the POV will focus on securing the software supply chain and simplifying the compliance with common industry regulations while at the same time speeding the software velocity.
 
-From the early discovery when qualifying the POV, it is confirmed that the existing application security is separated from the DevOps flow, causing bottle necks as the final hurdle in the development life cycle and typically controlled only by the App Sec team. 
-
-The key objective of the POV is to validate the value of the shift left security to the developer's hand along with app sec team collaboration at time of app development. 
+The key capabilities to validate to the value are
+- Compliance framework
+- Required Pipeline
+- Compliance Dashboard
+- Compliance Workflow
 
 ### Input to the POV
 
-- Pain points identified: Toolchain review and mapped out existing app sec tools and usage 
-- High level ROI discussion identifying potential tool consolidation (hard cost); and overall efficiency gains with transformative process with shift left security
-- Both DevOps + App sec team are stakeholders to be involved
+- To be completed
 
 ### Suggested Success Criteria
-- Business Driver: increase velocity, consolidate/reduce spending, improve security posture, protect brand and reputation 
-- Enterprise Initiative and Sponsor: cloud transformation, CIO
-- Required capabilities with the objectives to infuse security earlier in the development process, ability to scan all code and act them real time. Have the security oversight as the integral part of the end to end DevOps.
+- Business Driver: 
+- Required capabilities 
+
+To be completed
 
 
 

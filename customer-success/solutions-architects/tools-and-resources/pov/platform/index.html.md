@@ -13,24 +13,15 @@ description: DevOps Platform POV Scope and Acceptance
 
 ## DevOps Platform POV Scope and Acceptance
 {:.no_toc}
-The DevOps Platform solution is identified for organizations  who are trying to "shift left" to find security vulnerabilities earlier within their DevOps methodology but have not been able to achieve expected results.
+This value play will provide an overview of the DevOps Platform solution and the pain points it addresses, outline key quenstions you can ask to assess the customer's needs and identify relevant aspects of the solution, and offer paths to other discussions of GitLab's value.
 
-From the early discovery when qualifying the POV, it is confirmed that the existing application security is separated from the DevOps flow, causing bottle necks as the final hurdle in the development life cycle and typically controlled only by the App Sec team. 
-
-The key objective of the POV is to validate the value of the shift left security to the developer's hand along with app sec team collaboration at time of app development. 
 
 ### Input to the POV
 
-- Pain points identified: Toolchain review and mapped out existing app sec tools and usage 
-- High level ROI discussion identifying potential tool consolidation (hard cost); and overall efficiency gains with transformative process with shift left security
-- Both DevOps + App sec team are stakeholders to be involved
+To be completed
 
 ### Suggested Success Criteria
-- Business Driver: increase velocity, consolidate/reduce spending, improve security posture, protect brand and reputation 
-- Enterprise Initiative and Sponsor: cloud transformation, CIO
-- Required capabilities with the objectives to infuse security earlier in the development process, ability to scan all code and act them real time. Have the security oversight as the integral part of the end to end DevOps.
-
-
+to be completed
 
 
 
