@@ -71,3 +71,32 @@ Expansion is primarily driven by the SAL or AE in this segment, though a key dri
    1. Broad adoption of a stage (50% of users) within 6 months of enablement
 1. % Low License Utilizations 'Saves' (improvement)
 1. Renewal NPS & CSAT Scores over 4.0 (out of 5)
+
+
+## Rhythm of Business
+
+While the motions in the [rhythm of business](https://about.gitlab.com/handbook/customer-success/tam/rhythm/) will remain the same as the Strategic segment, the [Named](/handbook/customer-success/tam/segment/named/) TAM team will have a slightly different approach to their workflow and books of business.
+
+A breakdown of what their expected tasks and hours spent for each can be found below, including a breakdown of those hours at a weekly, monthly, quarterly, and yearly perspective.
+
+Please note this is just a guide to help TAMs prioritize and calibrate, to ensure they are making the most out of their time and can meet their goals and deliverables. Tasks and priorities, as well as the amount of time spent, can and will shift. TAMs should regularly work with their manager to ensure they have a healthy work/life balance and feel confident they can both complete all of their work as well as work towards continuous improvement.
+
+| Tasks | Weekly | Monthly | Quarterly | Yearly | Notes |
+|-------|--------|---------|-----------|--------|-------|
+| [Cadence calls](/handbook/customer-success/tam/cadence-calls/) | 8 | 35 | 105 | 420 | 1 hour per customer (30 minutes for the call, 30 minutes for prep, 30 minutes for follow up) |
+| [Customer onboarding](/handbook/customer-success/tam/onboarding/) | 1 | 4 | 12 | 48 | 1 hour per week per customer for average of 3 customers/quarter |
+| [EBRs](/handbook/customer-success/tam/ebr/) | 2 | 9 | 27 | 108 | Average of 2 customer EBRs per month, with 4 hours for each (1 hour for call, 3 hours prep) |
+| Account planning | 3 | 13 | 39 | 156 | [Success planning](/handbook/customer-success/tam/success-plans/), long-term strategy, [expansion opportunities](/handbook/customer-success/tam/stage-enablement-and-expansion/), etc. |
+| [Webinars & workshops](/handbook/customer-success/tam/workshops/) | 1 | 4 | 12 | 48 | 1 webinar and 1 workshops per month, 2 hours each (1 hour for call, 1 hour prep) |
+| Adhoc customer requests | 2 | 9 | 27 | 108 | Responding to customer emails and questions |
+| Customer outreach | 2 | 9 | 27 | 108 | Reaching out to customers proactively (upcoming webinars, features, etc.) |
+| [Gainsight work](/handbook/customer-success/tam/gainsight/) | 2 | 9 | 27 | 108 | Logging updates and maintenance |
+| Special projects | 3 | 13 | 39 | 156 | [OKRs](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues), team- and org-level initiatives, etc. |
+| [Professional development](/handbook/people-group/learning-and-development/) | 3 | 13 | 39 | 156 | GitLab product learning, courses, programs, certifications, etc. |
+| [Renewals](/handbook/customer-success/tam/renewals/) | 1 | 4 | 12 | 48 | Roughly 1 hour per customer for annual renewal |
+| Internal meetings |  3 | 13 | 39 | 156 | Team meetings, [1:1s](/handbook/leadership/1-1/), [account team](/handbook/customer-success/account-team/) syncs, etc. |
+| Review [release blog posts](/releases/categories/releases/) | 0.25 | 1 | 3 | 12 | 1 hour per release reviewing new features & functionality as well as deprecations |
+| **Total hours spent** | 31.25 | 136 | 408 | 1632 |  |
+
+In addition to the work spent for each task, this framework assumes team members will take 56 days or 448 hours of [PTO](/handbook/paid-time-off/) per year, which includes holidays, [Family & Friends days](/company/family-and-friends-day/), vacation, sick time, etc., but this is not a requirement, and team members are able and encouraged to take as much PTO as they'd like, as long as they follow our company and [team](/handbook/customer-success/tam/pto/) guidelines.
+
