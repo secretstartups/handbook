@@ -44,6 +44,11 @@ The pre-requsition of this scope of POV tend to be focused with these aspects:
 
 In addition it can be combined with DevSecOps and Software Compliance for Ultimate.
 
+The POV can be multi-phased and more than 60 days. It is critical to have written and agreed upon scope and acceptance, and buy commitment especially for the later phase of POV when revenue generating apps are loaded in for test.
+
+See this example for references for [a large new logo 2-phase POV](https://docs.google.com/presentation/d/1GEew0786_z2_Hj_acExoynkVO-XwpmArhyBTQEk-P0Q/edit#slide=id.g10daba8f689_0_275).
+
+
 ### Other POV Scope and Acceptance
 
 SA working with SAL and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.
