@@ -13,13 +13,13 @@ description: Proof of Value (POV)
 
 ## Proof of Value (POV)
 {:.no_toc}
-Proof of value is a combination of a Proof of Concept (POC) and the communication of the expected business value of a solution.   The solution, its practical application, and how it drives specific business value are proven and documented through the POV process.
+Proof of value is a combination of a Proof of Concept (POC) and the communication of the expected business value of a solution.  The solution, its practical application, and how it drives specific business value are proven and documented through the POV process.
 
 Solution Architects are instrumental in guiding prospects and customers to carry out a successful Proof of **Value**. POV's should focus on specific prospect/customer business outcomes that cannot be achieved through other consultative interactions.
 
 Any GitLab product evaluation should remain separate from GitLab high availability architecture and implementations.
 
- Often, a POV is conducted with a GitLab trial license either using GitLab.com or a self-managed instance. Due to cost, time, and the associated opportunity risk, a POV should not be the default course of action for GitLab prospects/customers.
+Often, a POV is conducted with a GitLab trial license either using GitLab.com or a self-managed instance. Due to cost, time, and the associated opportunity risk, a POV should not be the default course of action for GitLab prospects/customers.
 
 ### POV Guidelines and Requirements
 
@@ -48,6 +48,17 @@ Any GitLab product evaluation should remain separate from GitLab high availabili
 - Must identify the champion and economic buyers and they must be in agreement (e.g., “sign-off”) on the success criteria
 
 - A Command Plan is populated in Salesforce for the opportunity
+
+- Top customer business values mapped to one of the GitLab solutions: DevSecOps, Software Compliance, Automated Software Delivery, and cumulatively DevOps Platform.
+
+### POV Scope and Acceptance
+
+SA working with SAL and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.
+
+- DevSecOps
+- Software Compliance
+- Automated Software Delivery
+- DevOps Platform cumulatively
 
 ### Tracking a POV in Salesforce
 
