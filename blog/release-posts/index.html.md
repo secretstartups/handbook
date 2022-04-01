@@ -1351,8 +1351,8 @@ To add a new notice:
 1. Assign reviewers as recommended in the template.
 1. If this deprecation will result in a breaking change upon removal, change the `breaking_change` value from `false` to `true`.
 1. When the MR is ready (no later than the 15th), assign the MR to the technical writer [assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers).
-1. The TW Reviewer reviews the content, adds a commit that [updates the deprecations doc](#update-the-deprecations-and-removals-docs), and merges the MR by the 17th.
-   The new deprecation will be visible on the [Deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations) within four hours after merging.
+1. The TW Reviewer reviews the content, adds a commit that [updates the deprecations doc](#update-the-deprecations-and-removals-docs), and merges the MR by the 17th. The new deprecation will be visible on the [Deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations) within four hours after merging.
+1. If the MR is at risk of missing the cut off date, apply the `pick into X.Y` label to the MR.
 
 If you have multiple deprecation notices for your category, create a separate `.yml` file and MR for each.
 No other changes are required. Don't edit the `features.yml` file until the feature is removed from the product.
@@ -1385,8 +1385,8 @@ To add a new notice:
 1. Assign reviewers as recommended in the template.
 1. If this removal will result in a breaking change upon removal, set the `breaking_change` value as `true`.
 1. When the MR is ready (no later than the 15th), assign the MR to the technical writer [assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers).
-1. The TW Reviewer reviews the content, adds a commit that [updates the removals doc](#update-the-deprecations-and-removals-docs), and merges the MR by the 17th.
-   The new removal will be visible on the [Removals documentation page](https://docs.gitlab.com/ee/update/removals) within four hours after merging.
+1. The TW Reviewer reviews the content, adds a commit that [updates the removals doc](#update-the-deprecations-and-removals-docs), and merges the MR by the 17th. The new removal will be visible on the [Removals documentation page](https://docs.gitlab.com/ee/update/removals) within four hours after merging.
+1. If the MR is at risk of missing the cut off date, apply the `pick into X.Y` label to the MR.
 
 If you have multiple removal notices for your category, create a separate `.yml` file and MR for each.
 
