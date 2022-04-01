@@ -1643,7 +1643,7 @@ When you run `bundle exec rake release:monthly`, the following things happen:
    `doc/templates/blog/monthly_release_blog_template.html.md`. It replaces the
    stub X.Y values with the version you provided in the first step.
 1. The [announcement template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/templates/blog/monthly_announcement_frontpage.html.haml) is used to update the
-   [announcement frontpage](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/includes/home/ten-oh-announcement.html.haml) with the new version.
+   [announcement frontpage](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/includes/home/ten-oh-announcement.html.haml) with the new version. (note, this page is being deprecated, and the frontpage will need to manually be updated in a new MR [here](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/index.yml#L1)).
 1. The data directory for the release is created under `data/release_posts/X_Y/`.
    If it exists, the script stops and exits. You'll need to delete this directory
    if you want to re-run the script.
