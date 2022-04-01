@@ -442,7 +442,7 @@ Upon approval, the letter of authorization will be automatically sent to the leg
 
 ## Partner Help Desk Support and Communication
  
-**Internal Team Members:** Chatter @Partner Help Desk in Salesforce or for general questions, post in the Slack channel #channel-programs-ops.  
+**Internal Team Members:** Chatter @Partner Help Desk in Salesforce or for general questions, post in the Slack channel #channel-programs-ops. Please review [Working with Partner Help Desk](https://docs.google.com/presentation/d/1tT5xcx04mlFyuftL5ECPH1VCZ0pkhW7caqnCkM7a-Ro/edit#slide=id.p1). 
 
 **External Communication:** Email partnersupport@gitlab.com to include a partner or other external stakeholder for help with partner-related requests. PHD team members monitor the queue and email inbox throughout the day in all time zones.  
 
