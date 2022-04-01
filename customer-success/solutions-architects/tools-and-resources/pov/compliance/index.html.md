@@ -13,7 +13,7 @@ description: Software Compliance POV Scope and Acceptance
 
 ## Compliance POV Scope and Acceptance
 {:.no_toc}
-When SA confirmed with organizations, especially businesses in the regulated industries, the Software Compliance solution is the key, the scope of the POV will focus on securing the software supply chain and simplifying the compliance with common industry regulations while at the same time speeding the software velocity.
+When the SA has confirmed with the prospect or the existng customer especially a businesses in a regulated industry for a Software Compliance solution, the scope of the POV will focus on securing the software supply chain and simplifying the compliance with common industry regulations while at the same time speeding the software velocity.
 
 The key capabilities to validate to the value are
 - Compliance framework
