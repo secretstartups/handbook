@@ -435,6 +435,14 @@ Engineering Productivity Engineers have the following job-family performance ind
 * [Average cost per merge request pipeline for GitLab](/handbook/engineering/quality/performance-indicators/#average-cost-per-merge-request-pipeline-for-gitlab)
 * [Review App deployment success rate for GitLab](/handbook/engineering/quality/performance-indicators/#review-app-deployment-success-rate-for-gitlab)
 
+#### Hiring Process
+
+1. 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters.
+2. 60 minute behavioral interview with the Engineering Manager, Engineering Productivity.
+3. 50 minute behavioral interview with two Quality team members with at least 1 Backend Engineer, Engineering Productivity
+4. 90 minute Ruby-based technical interview. 
+4. 50 minute behavioral interview with the VP of Quality.
+
 ### Memory
 
 The Memory team is responsible for optimizing GitLab application
@@ -516,54 +524,6 @@ Gitaly is a new service in our architecture that handles git and other filesyste
 * Understanding of how to build instrumented, observable software systems.
 * Experience highly-available systems in production environments.
 
-### Meltano
-
-[Meltano](https://meltano.com) is a separate business unit from the rest of GitLab (essentially an internal startup)
-that's building an open source platform for data engineering and analytics
-that lets data teams benefit from DevOps best practices such as version control and CI/CD,
-with a current focus on open source EL(T) leveraging [Singer](https://www.singer.io/) and [dbt](https://www.getdbt.com/).
-
-This position reports to the [General Manager of Meltano](/job-families/engineering/general-manager-meltano/).
-
-#### Responsibilities
-
-* Develop features and other improvements to Meltano and related projects like the [Singer SDK](https://gitlab.com/meltano/singer-sdk)
-* Be a core team member and project maintainer of <https://gitlab.com/meltano/meltano> and related projects under <https://gitlab.com/meltano>:
-  * Triage issues for bugs and feature requests
-  * Review merge requests contributed by the community and assist in getting them over the finish line
-* Provide support to the community in the Meltano Slack workspace
-* Shape roadmap and propose new features based on own understanding of the needs of a data engineer, data team, and/or data consultancy
-* Write documentation, tutorials and other material to educate users on how to use Meltano and related tools to develop robust data pipelines and data projects in general
-* Help spread the word about Meltano in (open source) data communities, like Slack workspaces and (virtual) meetups
-
-#### Requirements
-
-In addition to the [general requirements for Backend Engineers](#requirements):
-
-* Extensive experience with Python
-  * (this role does not require experience with Ruby or Rails)
-* Experience with and passion for data engineering
-* Experience running Singer-based data pipelines in production
-* Experience developing Singer taps and/or targets
-* Proven track record of contributions to Meltano and/or related projects (e.g. Singer SDK, taps)
-
-##### Nice to have
-
-* Experience maintaining an open source project
-* Experience building developer tools: CLIs and/or SDKs
-* Experience in data consulting
-* Experience with Airflow
-* Experience with dbt
-* Experience with Docker and Kubernetes
-* Experience with data validation tools like Great Expectations
-* Experience with data governance
-
-#### Hiring Process
-
-1. 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
-2. 60 minute interview with Meltano General Manager
-3. 60 minute interview with GitLab CEO
-4. Successful candidates will subsequently be made an offer.
 
 ### Database
 
