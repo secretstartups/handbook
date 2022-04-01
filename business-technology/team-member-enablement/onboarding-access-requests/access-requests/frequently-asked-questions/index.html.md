@@ -46,9 +46,11 @@ You don't need manager approval if you are requesting the following:
 1. An internal team member being added to a slack group
 1. Something included in your role based entitlement
 
-#### I need access to the Rails production console (grpd)
+#### I need access to the Rails or database production console (grpd)
 
-Please [use Teleport to request temporary access](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/Teleport/Connect_to_Rails_Console_via_Teleport.md).
+Please use Teleport to request temporary access to either
+[the Rails console](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/Teleport/Connect_to_Rails_Console_via_Teleport.md) or
+[the database console](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/Teleport/Connect_to_Database_Console_via_Teleport.md).
 
 #### I need access to version.gitlab.com or license.gitlab.com
 
