@@ -56,7 +56,7 @@ At a high level, the Release post schedule is:
 - This task creates the branches, MRs, and issues necessary to run the Release Post process
   - If issues arise with this pipeline, contact Product Operations `@brhea`
   - If `@brhea` is unavailable, work with your Tech Advisor to run `bin/rake release_post:start` to kickoff the XX-Y Release Post, or
-  - Follow the steps to [manually create the release post branch and required directories/files](https://about.gitlab.com/handbook/marketing/blog/release-posts/manual/)
+  - Follow the steps to [manually create the release post branch and required directories/files](https://about.gitlab.com/handbook/marketing/blog/release-posts/manual-release-post-kickoff/)
 
 ### 1st to 10th
 
