@@ -261,7 +261,7 @@ We have a central account for managing licenses of JetBrains' products like Ruby
 If you want to use one of their products, please log an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests) and select the best option for your situation (single user, bulk user, etc.) and, once approved by your manager, assign to the System Provisioner listed in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) for this system.
 Once your access has been provisioned, you will receive a link with which you can redeem your license.
 Make sure to use your company email address when creating your Jetbrains account.
-If at some point in the future you do not want to use the product anymore, please notify us via `jetbrains@gitlab.com`, so that we can assign the license to someone else.
+If at some point in the future you do not want to use the product anymore, please notify us via the `#jetbrains-ide` slack channel, so that we can assign the license to someone else.
 
 Useful plugins:
 
