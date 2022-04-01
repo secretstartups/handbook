@@ -84,17 +84,6 @@ We will use the following guidelines to a clear standard and consistency.
   * Department
   * Sub-department
   * Team
-* When creating OKRs in Ally, there is a field titled 'goal type' that can be either **aspirational** or **committed**. Ally defaults to setting OKRs as aspirational. The OKR creator will select one of the following objective types:
-  - **Aspirational** OKRs are ambitious goals. It is expected that teams are not likely to fully achieve them in the set timeframe. We consider 70% completion a success for an aspirational OKR.
-    - **Examples:** OKRs that are related to code such as:
-       - Performance Improvements
-       - Increasing the SUS score
-       - Raising a KPI
-  - **Committed** OKRs are the ones that your organization or team has agreed to execute, and are expected be 100% complete in the set timeframe.
-    - **Examples:** OKRs that are people related such as:
-       - Meet target hiring plan
-       - All team members complete DIB training
-       - Conduct career development conversation with X team members
 * For scoring KRs that apply to a **rate** (for instance, [MR rate](/handbook/engineering/metrics/#merge-request-rate)), we score them as follows:
   * Take the initial rate before the quarter. For example, this is 10.
   * Take the target rate at the end of the quarter. In this example, it is 17.
