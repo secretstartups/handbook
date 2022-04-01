@@ -61,7 +61,7 @@ The workflow applies to all cases where account verification is required.
 
 ### Sending Challenges
 
-If you need a basis for a response where you send the challenges, or in a 2FA ticket, if the user has not answered the challenges, use the [`Support::SaaS::2FA::2FA Challenges` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103721068).
+If you need a basis for a response where you send the challenges, or in a 2FA ticket, if the user has not answered the challenges, use the `Support::SaaS::2FA::2FA Challenges` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103721068).
 
 ### Evaluating Challenge Answers
 
@@ -70,7 +70,7 @@ If you need a basis for a response where you send the challenges, or in a 2FA ti
 1. Using the [2FA App in Zendesk](../support-ops/documentation/zendesk_global_apps.html#2fa-app), determine the appropriate data classification level and the risk factor you have determined from customer's answers to the challenges.
    - [Specific conditions are required to be considered for 2FA resets](#conditions-for-2fa-reset-consideration).  However, challenge responses can be accepted from any (paid or unpaid) group or project associated with the user.
    - If a group owner is answering on an [enterprise user's](gitlab-com_overview.html#enterprise-users) behalf, the owner can be considered to be "vouching" for the user (another owner vouching is not required).
-   - Backup to app: [Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) (internal only) with the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket with the table at the bottom of the sheet.
+   - Backup to app: [Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) (internal only) with the `Support::SaaS::2FA::2FA Internal Note` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket with the table at the bottom of the sheet.
 1. **If verification passed:** Request that your decision be peer-reviewed by another member of the team via Slack `#support_gitlab-com`.
 1. **If the verification failed**: A peer review is optional, and you may opt to [offer more challenges to the user](#user-fails-to-prove-account-ownership).
 1. *Peer reviewer:* In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. If you agree, move to [the next section](#user-successfully-proves-account-ownership) on what to do if successful.
@@ -103,19 +103,19 @@ This section is typically done by the peer reviewer. If needed, the peer reviewe
 1. For disabling 2FA: If you agree with the decision, sign into your admin account and locate the username in the users table or by going to `https://gitlab.com/admin/users/usernamegoeshere`
       1. Under the account tab, click `Edit`, add an [Admin Note](admin_note.html), and save.
       1. On the account tab, click on `Disable 2FA`.
-      1. Use the [`Support::SaaS::2FA::2FA Removal Verification - Successful` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103772548).
+      1. Use the `Support::SaaS::2FA::2FA Removal Verification - Successful` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103772548).
 
 ### User Fails to Prove Account Ownership
 
 > **Note**: Do _not_ provide hints to answers, or let the user know which challenges they got right or wrong. That is how social engineering works!
 
 1. If the user is unable to pass the risk factor but we have not provided all the applicable challenges, you may offer further challenges. This is true for all users, including owners.
-   - Most commonly, an `Owner in the top level namespace` (with a valid subscription) vouch is requested. Use the [`Support::SaaS::2FA::2FA ask owner vouch` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360052221199). See the [Verifying an Owner Vouch section](#authenticating-an-owner-vouch) for more information. The originating email of this request should match a verified email of the Owner's account. If the user is an Owner, vouch must be from a different Owner.
+   - Most commonly, an `Owner in the top level namespace` (with a valid subscription) vouch is requested. Use the `Support::SaaS::2FA::2FA ask owner vouch` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360052221199). See the [Verifying an Owner Vouch section](#authenticating-an-owner-vouch) for more information. The originating email of this request should match a verified email of the Owner's account. If the user is an Owner, vouch must be from a different Owner.
    - For large organizations, please check the Zendesk organization notes to see if they're using the [large customers](#large-customers) workflow before offering the owner vouch challenge.
-   - Some challenges can be answered with the help of their colleagues. Use the [`Support::SaaS::2FA::2FA Removal Verification - GitLab.com - Failed - Ask colleagues for help` macro](https://gitlab.com/search?group_id=15990755&project_id=17008590&repository_ref=&scope=blobs&search=360089726039&snippets=false) to let them know which challenges they can try to work with their colleagues to answer.
+   - Some challenges can be answered with the help of their colleagues. Use the `Support::SaaS::2FA::2FA Removal Verification - GitLab.com - Failed - Ask colleagues for help` [macro](https://gitlab.com/search?group_id=15990755&project_id=17008590&repository_ref=&scope=blobs&search=360089726039&snippets=false) to let them know which challenges they can try to work with their colleagues to answer.
    - When we receive a subsequent response, go back to [evaluating the challenges](#evaluating-challenge-answers) to see if they now pass.
 1. If the user is unable to pass the available challenges:
-   1. Inform them that without verification we will not be able to take any action on the account. For 2FA, use the [`Support::SaaS::2FA::2FA Removal Verification - GitLab.com - Failed - Final Response` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103790308).
+   1. Inform them that without verification we will not be able to take any action on the account. For 2FA, use the `Support::SaaS::2FA::2FA Removal Verification - GitLab.com - Failed - Final Response` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103790308).
    1. Mark the ticket as "Solved".
 
 ## Large Customers
@@ -234,36 +234,38 @@ Once the customer has approved the request, disable 2FA on the user's account, a
 
 There are some conditions under which a change of ownership may be requested by a company with a business relationship with GitLab. Our [support page](https://about.gitlab.com/support/#ownership-disputes) outlines that these processes are not available for unpaid groups.
 
-The end result of a successful request is a new or existing user in the namespace will have the `Owner` role.
+The outcome of a successful request is a new or existing user in the namespace will have the Owner role.
 
 ### Account Ownership Change Request for Paid Groups
 
-Account Ownership Change Requests are initiated when the sole Owner of a group leaves a company and an authorized representative of the company is seeking to regain access. This process should be a last resort, and self-service options should be pursued first.
+Account Ownership Change Requests are initiated when the sole Owner of a group leaves a company and an authorized representative of the company is seeking to regain control. This process should be a last resort, and self-service options must first be explored.
 
-When a request to change ownership of a group is received perform the steps in the following sections in order.
+**If a request is received, verify:**
 
-#### Verify Eligibility
+1. Current paid subscription is applied to the namespace.
+1. Sole Owner's primary email address matches company domain.
+1. Requestor has a GitLab.com account. Typically this user will already be a member but is not an Owner.
 
-1. A current paid subscription is [applied to the namespace](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#view-your-gitlab-saas-subscription).
-1. The sole owner's primary email address matches the company domain.
-1. The requestor has a GitLab.com account. Typically this user will already be a member of the group but is not currently an owner.
+**Ensure that the requestor has exhausted all self-service options:**
 
-#### Offer Self-Service Options
+- If the existing Owner's account does not have 2FA enabled, suggest that the requestor issue a password reset to the existing Owner's account, and [claim the account](https://docs.gitlab.com/ee/user/group/#change-the-owner-of-a-group).
+- If the existing Owner's account has 2FA enabled, suggest the requestor contact the existing Owner to request that the existing Owner provide the one time password, backup codes, or private ssh key to allow the requestor to regain access, and [claim the account](https://docs.gitlab.com/ee/user/group/#change-the-owner-of-a-group).
 
-1. Use the [`Support::SaaS::Account Ownership Change Request (Self-Service Options)`](https://gitlab.com/search?search=4534634323612&nav_source=navbar&project_id=17008590&group_id=15990755&search_code=true&repository_ref=master) macro.
+**If no self-service options are viable, follow the steps below:**
 
-If the requestor replies back that self-service options are not possible, proceed to the next section.
-
-#### Escalate to Legal
-
-1. Use the [`Support::SaaS::Account Ownership Change Request (Self-Service Not Possible)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073396100) macro.
-
-1. If possible, CC the account owner on the ticket.
-
-1. Once we've the document (in PDF format) from the requestor, double check that all the requested information is included. If anything is missing, have the requestor provide it and do not proceed to the next step until we have everything.
-
-1. Create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using the [`Legal::General` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
-
-1. Add or elevate the requested user to `Owner` role once approval is received by Legal.
-
-1. [Add an admin note](admin_note.html) on the group's admin page noting what was done.
+1. Use the `Support::SaaS::Account ownership change verification (Self-service option not possible)` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073396100) , adding the add the account owner or account manager in CC if possible.
+1. Once you have received the requested document, verify that all of the necessary information is included. If not, follow up with the requestor to obtain any outstanding information. Once the required information has been obtained, carefully follow the next steps.
+1. Assess the request to verify if the following criteria have been met:
+   1. Self-service options have been suggested and aren’t viable.
+   1. The requested document is completely and correctly populated, and is on appropriate letterhead.
+   1. The existing Owner has not been active during the last 90 days.
+   1. The requestor is using an email address on the same customer email domain as the existing Owner.
+   1. The requestor already holds a Maintainer role within the group.
+   1. Independent online search analysis supports the information provided (such as: the existing Owner no longer works for the customer; the roles and positions held at the organization by the requestor and signer; and there is no indication of an internal dispute between the requestor and the existing Owner).
+1. **If all criteria are met:** elevate the requestor to Owner role.
+1. **If any criteria is NOT met:**
+   1. Create a new [Group Owner Change issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=group-owner-change) in the [Legal and Compliance project](https://gitlab.com/gitlab-com/legal-and-compliance);
+   1. Add a link to the issue to the Zendesk ticket;
+   1. Reply to the requestor using the `Legal::General` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in the `#legal` [Slack channel](https://app.slack.com/client/T02592416/C78E74A6L).
+   1. After receiving approval from Legal, elevate the requestor to Owner role.
+1. Add an [Admin note](admin_note.html) on the group admin page.
