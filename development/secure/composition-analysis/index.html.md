@@ -20,8 +20,8 @@ See [the exhaustive list of projects](#projects) the group maintains.
 ## Common Links
 
 * Slack channel: #g_secure-composition-analysis
-* Slack alias: @secure_composition_analysis_be
-* Google groups: composition-analysis-be@gitlab.com
+* Slack alias: @secure_composition_analysis_dev
+* Google groups: composition-analysis-dev@gitlab.com
 
 ## How we work
 
@@ -61,7 +61,7 @@ After the 19th, we conduct [an asynchronous retrospective](https://about.gitlab.
 
 #### Iteration retrospective
 
-Once per quater, first Wednesday of the new milestone, we conduct an iteration retrospective where we review our [Iteration](https://about.gitlab.com/handbook/values/#iteration) skill.
+Once per quarter, first Wednesday of the new milestone, we conduct an iteration retrospective where we review our [Iteration](https://about.gitlab.com/handbook/values/#iteration) skill.
 1 week before the retrospective, [a retrospective host](https://gitlab.com/brytannia) creates [a new iteration retrospective issue](https://gitlab.com/gl-retrospectives/secure-sub-dept/composition-analysis).
 In this issue team members suggests candidate issues or epics to review.
 The host picks up one item to discuss synchronously.
