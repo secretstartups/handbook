@@ -23,13 +23,29 @@ The key capabilities to validate to the value are
 
 ### Input to the POV
 
-- To be completed
+- There is a clear requirement on compliance and audit either driven by the regulatory requirements or enterprise standardization
 
 ### Suggested Success Criteria
-- Business Driver: 
-- Required capabilities 
+- Business Driver: improved compliance and easy audit to be able to stay in market or enter into new market that is regulated by the government or reguatory bodies.
+- Enterprise Initiative and Sponsor: new product launch or regulator audit
+- Required capabilities with the objectives to infuse built-in compliance into the development process, ability to generate and audit artifacts and evidence for all steps and process. 
 
-To be completed
+| Required Capability | Acceptance | Objective | GitLab Feature |
+| ---      | ---      | ---      |---      |
+| Compliance policies and framework | Compliance can setup policies and enforce across line of business or across the entire enterprise | Prove to regulators the compliant process | Compliance Framework; Required Pipeline; Compliance Dashboard; Audit Events; Separation of Duties |
+| Standardized Software Supply Chain | Enforced standards to support compliance policies in the software supply chain | Organizational management for compliance | Project to group level compliance view | 
+| Audit | Audit on organization changes and user access | Proactive audit for internal and external aduit | Audit event, API, dashboard | 
+
+It may overlap with some of the key acceptance in DevSecOps, but more focused on standard compliance and auditibility. 
+
+### Other POV Scope and Acceptance
+
+SA working with SAL and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.
+
+- [DevSecOps](/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
+- [Automated Software Delivery](/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
+- [DevOps Platform cumulatively](/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
+
 
 
 

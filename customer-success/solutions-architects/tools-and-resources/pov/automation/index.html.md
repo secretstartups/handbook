@@ -30,6 +30,14 @@ The key objective of the POV is to validate the value of the shift left security
 - Enterprise Initiative and Sponsor: cloud transformation, CIO
 - Required capabilities with the objectives to infuse security earlier in the development process, ability to scan all code and act them real time. Have the security oversight as the integral part of the end to end DevOps.
 
+### Other POV Scope and Acceptance
+
+SA working with SAL and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.
+
+- [DevSecOps](/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
+- [Software Compliance](/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
+- [DevOps Platform](/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
+
 
 
 

@@ -15,14 +15,41 @@ description: DevOps Platform POV Scope and Acceptance
 {:.no_toc}
 This value play will provide an overview of the DevOps Platform solution and the pain points it addresses, outline key quenstions you can ask to assess the customer's needs and identify relevant aspects of the solution, and offer paths to other discussions of GitLab's value.
 
+It can be combination of all other solutions together
+- DevSecOps
+- Software Compliance
+- Automated Software Delivery
+
+Also a key on the performance and technical metrics.
 
 ### Input to the POV
 
-To be completed
+The pre-requsition of this scope of POV tend to be focused with these aspects:
+- Value driven capabilities leading in with Automated Software Delivery
+- technical integrating with existing either Open Source Toolchain or other commercial tools
+- Technical metrics for performance and scalability for large enterprise
 
 ### Suggested Success Criteria
-to be completed
 
+- Business Driver: end to end DevOps but with integration to support across the board initiative, particularly digital transformation or accelerated cloud initiative. 
+- Enterprise Initiative and Sponsor: CTO and enterprise wide developer's experience and operations efficiency
+- Required capabilities with the objectives to have a platform to address immediately needs and future proof for flexibility and high end scalability
 
+| Required Capability | Acceptance | Objective | GitLab Feature |
+| ---      | ---      | ---      |---      |
+| Continous Integration | Similar to automated software delivery but may have specific performance metrics for given user and repository size | Automation and Standard CI Practice | Continous Integration, Git Flow and Repository |
+| Integration of Platform to Other Tools | Ability to Integrate with Various Tools in the Ecosystem | Integration and End to end process flow supported | Integration points, webhooks, APIs for the given integration scope | 
+| Cloud Native Continous Deployment | Containization and K8S Support | Accelerate Cloud Initiative and Cloud Native Toolchain | Cloud Native CI/CD and GitLab Server/Runner being Cloud Native  | 
+| Developers Experience | Streamlined Experience for High Velocity | New and Better Developer Tools to Attract and Retain Talents | Single User Interface, High Usability, Customizable UI | 
+
+In addition it can be combined with DevSecOps and Software Compliance for Ultimate.
+
+### Other POV Scope and Acceptance
+
+SA working with SAL and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.
+
+- [DevSecOps](/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
+- [Software Compliance](/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
+- [Automated Software Delivery](/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
 
 
