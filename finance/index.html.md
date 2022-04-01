@@ -155,9 +155,9 @@ For example, work to enable a sales partner that will not be incorporated into t
 
 | Function | Name |
 | -------- | ---- |
-| Customer Support | [R&D Finance](/handbook/finance/financial-planning-and-analysis/R-and-D-Finance/) |
-| R & D | [R&D Finance](/handbook/finance/financial-planning-and-analysis/R-and-D-Finance/) |
-| Sales | [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance/) |
-| Professional Services | [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance/) |
+| Customer Support | [R&D Finance](/handbook/finance/financial-planning-and-analysis/r-and-d-finance/) |
+| R & D | [R&D Finance](/handbook/finance/financial-planning-and-analysis/r-and-d-finance/) |
+| Sales | [Sales Finance](handbook/finance/financial-planning-and-analysis/sales-finance/) |
+| Professional Services | [Sales Finance](handbook/finance/financial-planning-and-analysis/sales-finance/) |
 | Marketing | [Marketing Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/) |
 | G & A | Ellen Boyd and Christine Machado |
