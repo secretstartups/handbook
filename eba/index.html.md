@@ -49,16 +49,20 @@ If you would like to schedule a meeting with a Leader at GitLab, please slack th
 
 ### Agenda Document Templates 
 1. [Agenda Document Template](https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit) should be used for all meetings with members of our E-Group and provided at the time of the meeting request. Select file > make a copy to use this template. If relevant to your meeting request, the agenda document should include links relevant MRs, issues, slides, or helpful background material and information. This document is sufficient for most internal meetings. 
-1. If you have a request for a member of E-Group to attend and speak at an event (keynote, panel, fireside chat, etc.), please fill out the [Executive External Event Brief](https://docs.google.com/document/d/1qMCw9gGTAdk3YW-AW2W_eCYXMGcNYyaq_wN0giSf-yk/edit) with the key information and email to the EBA supporting the Executive with your request. The EBA will review, provide feedback, and gain approval accordingly and confirm directly with you. If the request involves the CEO, please follow the process outlined here. The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Whether a new talk needs to be prepared or an existing one can be adjusted to the audience should be a part of the decision whether or not to participate in the event.
 
 
 ### Customer, Prospect and Partner Meetings with an E-Group Member 
 Please follow the instructions above for scheduling a call with your customer, prospect or partner and an E-Group member at GitLab. Instead of using the Agenda Document template, meetings with customers, partners and prospects require the following documents in order to schedule: 
 
 1. [Executive Customer Briefing Document](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit?usp=sharing) should be used for all meetings with Customers or Prospects and provided to the EA at the time of the meeting request. This is the internal document that you will use to brief the Executive in a pre-meeting. Select file > make a copy to use this template and please make sure it is editable by everyone at GitLab. Watch Nico Ochoa in [this 6.5-minute video](https://youtu.be/Wdg9YGQvs20) share his best practices for completing this template ([click here](https://docs.google.com/document/d/1rITvwVvv9Vn89qAgRX2Pf69zzoRp2AcqjtYBVUAria8/edit?usp=sharing) for Nico's template). If you have any questions related to this document, please ping Cheri Holmes in #eba-team in slack.
-  1. In addition to an internal Executive Customer Briefing Document, our CEO and CRO require a Customer Collaboration Document. This document is shared with the external party. Please make a copy of this [document](https://docs.google.com/document/d/18Ds04BicQCZ5J7gKU0K4AA-iq0l9YMRTLLsPBjlUJto/edit) and update with Attendees and Agenda. Please ensure it's editable by everyone at GitLab. Please include both the Executive Customer Briefing Document and the Customer Collaboration doc to the EBA with your meeting request.  
+  1. [Customer Collaboration Document](https://docs.google.com/document/d/18Ds04BicQCZ5J7gKU0K4AA-iq0l9YMRTLLsPBjlUJto/edit). In addition to an internal Executive Customer Briefing Document, our CEO and CRO require a Customer Collaboration Document. This document is shared with the external party. Please make a copy of this [document](https://docs.google.com/document/d/18Ds04BicQCZ5J7gKU0K4AA-iq0l9YMRTLLsPBjlUJto/edit) and update with Attendees and Agenda. Please ensure it's editable by everyone at GitLab. Please include both the Executive Customer Briefing Document and the Customer Collaboration doc to the EBA with your meeting request.  
 1. [Partner Briefing Document](https://docs.google.com/document/d/1BR07oZcLwBOvkdz29mnr8i-rCGov2h3AkxaM036VcvY/edit) should be used for all meetings with Partners  and provided to the EA at the time of the meeting request.  Select file > make a copy to use this template and please make sure it is editable by everyone at GitLab. If you have any questions related to this document, please ping in #eba-team in slack. 
   1. In addition to an internal Partner Briefing Document, our CEO and CRO require a Customer/Partner Collaboration Document. This document is shared with the external party. Please make a copy of this [document](https://docs.google.com/document/d/18Ds04BicQCZ5J7gKU0K4AA-iq0l9YMRTLLsPBjlUJto/edit) and update with Attendees and Agenda. Please ensure it's editable by everyone at GitLab. Please include both the Executive Customer Briefing Document and the Customer Collaboration doc to the EBA with your meeting request.   
+
+### External Events & Speaking Engagement 
+ 
+ 1. If you have a request for a member of E-Group to attend and speak at an event (keynote, panel, fireside chat, etc.), please fill out the [Executive External Event Brief](https://docs.google.com/document/d/1qMCw9gGTAdk3YW-AW2W_eCYXMGcNYyaq_wN0giSf-yk/edit) with the key information and email to the EBA supporting the Executive with your request. The EBA will review, provide feedback, and gain approval accordingly and confirm directly with you. If the request involves the CEO, please follow the process outlined here. The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Whether a new talk needs to be prepared or an existing one can be adjusted to the audience should be a part of the decision whether or not to participate in the event. 
+ 1. [In-Person Event Meeting Template](https://docs.google.com/spreadsheets/d/1IKUD9rYgqyiZ8QLYgKurzgwAljI-U9YunvQdPk--wIo/edit#gid=643328991) 
 
 ### Interview Requests with Executives
 The process outlined below should be followed for requesting interviews with any executives. The Candidate Experience team and Executive Business Administrator team will adhere to a 24 hour working day SLA response time for scheduling interviews. Hiring is a top priority at GitLab and the team should prioritize interview requests.
@@ -79,12 +83,9 @@ The process outlined below should be followed for requesting interviews with any
 ### Suggested formats for calendar invites within Executive Group (E-Group)
 * MTG for meetings in person, either at Mission Control or another location
 * INTERVIEW for media interviews (make sure to loop in our PR partner)
-* CALL for phone calls or conference calls
-* VIDEOCALL for video conference calls using Zoom
-  * Example: “VIDEOCALL Jane Doe for Executive Assistant” or "VIDEOCALL Jane Doe (GitLab) & Sid Sijbrandij (GitLab)""
+* CALL for phone calls or conference call
 * LIVESTREAM for livestreams
   * When a meeting is being live-streamed to YouTube add Public Stream or Private Stream in the subject and body of the calendar invite to indicate which live stream
-* A candidate interview will include the work interview using regular casing.
 * 1:1 for one-on-ones with direct reports
   * Example: "1:1 Jane Doe & Sid"
 * "Skip Level" should be in the title of skip level meetings
