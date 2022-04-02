@@ -7,15 +7,15 @@ The Partner Integration Engineering job family will provide technical guidance t
 
 ## Levels
 
-### Partner Intergration Engineer
+### Partner Integration Engineer
 
 The Partner Integration Engineer reports to Group Manager, Product.
 
-#### Partner Intergration Engineer Job Grade
+#### Partner Integration Engineer Job Grade
 
-The Partner Intergration Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Partner Integration Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Partner Intergration Engineer Responsbilities
+#### Partner Integration Engineer Responsbilities
 
 * Provide consultative expertise to partners on strategic integration points on the GitLab platform across all 10 GitLab stages/modules. This may include providing sample scripts or code snippets that demonstrate the best way to integrate with our APIs and Webhooks.
 * Advocate for 3rd party ISV and Technology partnerships to provide solution complete portfolio for GitLab customers.
