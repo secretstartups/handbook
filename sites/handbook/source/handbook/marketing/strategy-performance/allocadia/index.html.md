@@ -93,7 +93,7 @@ The idea for the placeholder is if you know that there will be an expense but yo
 
 ##### Delete
 
-This button allows you to delete the line item or category that you mistakenly added. FYI, there is an audit trail so if you accidentally delete something, we should be able to help you determine values, etc from the deleted line.
+This button allows users to delete a line item or category that was mistakenly added. The Delete button is only able to be used by Marketing Finance and Marketing Ops admins. If you need a line item, category, or sub-category deleted please reach out to Marketing Finance or Marketing Ops and they can delete it for you. If a line item has previous months expense or invoice data, it cannot be deleted. 
 
 ##### Request Transfer
 
