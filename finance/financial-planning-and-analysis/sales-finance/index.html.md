@@ -29,11 +29,10 @@ title: "Sales Finance"
 | Name | Function |
 | -------- | ---- |
 | @fkurniadi | Overall |
-| @alcurtis | Consolidation, Enterprise Sales |
-| @kmckern | Commercial Sales, Customer Success |
-| @ysun3 | Channels, Alliances |
+| @kmckern | Consolidation, Commercial Sales, Customer Success |
+| @chauenstein | Enterprise, Channels, Alliances |
 | @laura_newbury | Professional Services, Field Ops |
-| @chauenstein | Commissions/Capacity/Productivity |
+| @ofalkon | Strategic |
 
 ## Greenhouse HC Approval SLA (Service Level Agreement)
 We approve all new HC reqs (complete and error-free) by EOD business day or within 24 hours, whichever is the latter. Please notify us at least 48 hours in advance for any urgent requests (otherwise, thank you for your patience and partnership).
