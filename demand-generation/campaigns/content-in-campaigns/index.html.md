@@ -29,13 +29,14 @@ The epic code in each section below outlines the necessary issues to open in ord
 {: #content-types .gitlab-orange}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * **Content for use in marketing campaigns:** we leverage the content in our marketing channels (website, email nurture, paid digital, organic social, etc.)
-    * [Internal GitLab-created content](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#ungated-internal-content): We created and developed the content in house
-    * [External content (i.e. Analyst Relations)](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#ungated-external-content): We have bought the rights to use the content from an external vendor (analysts or publishers, for example) or received the content from a partner
+    * [Internal GitLab-created content](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#internal-content): We created and developed the content in house
+    * [External content (i.e. Analyst Relations)](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#external-content): We have bought the rights to use the content from an external vendor (analysts or publishers, for example) or received the content from a partner
     * [On-Demand Webcasts](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/)
 * **[Content syndication](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/content-syndication)** (under Digital Marketing): We have promoted our content through a third-party vendor, but do not drive people back to our website. In these cases, we often have given them the resource to make available for download to their audience, and recieve the leads to be uploaded.
 
 ## How to pick content for campaigns
-
+{: #picking-content-for-campaigns .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 **Search the entire Pathfactory Content Library**
 
 https://gitlab.lookbookhq.com/authoring/content-library/content
@@ -52,16 +53,10 @@ Filter by one or multiple of the following:
 * **Key metric to analyze: Engagement Time**
    - *"Why not total views?"* Engagement time is a better indicator of content effectiveness than views, which can be a self-fulfilling prophesy; the more views, the more it is used, the more it continues to climb in comparison to other content. 
 
-
-## Ungated Content Journeys
-{: #ungated-content-journeys .gitlab-purple}
+## Internal Content (i.e. eBooks, Guides)
+{: #internal-content .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-
-### Internal Content (created by the GitLab team)
-{: #ungated-internal-content}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-All internally-created GitLab content is aligned to a GTM Motion (and/or aligned sales play) per the [FY22 Marketing Plan](/handbook/marketing/plan-fy22/). Internally-created content is organized within content pillars (owned by Content Marketing).
-
+The below process should be used for all new content (ebooks, guides, whitepapers, etc.). Creating the epic and related issues is the responsibility of the **Content Owner** (i.e. Content Marketing, Analyst Relations) to make sure that when the content is ready, the teams involved in putting into Pathfactory (MOps) and the teams involved in activating (Campaigns, Digital, ABM) are able to take action immediately.
 #### Epic code and issues - Internal GitLab Content
 {: #epic-issues-internal-content}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -70,9 +65,8 @@ All internally-created GitLab content is aligned to a GTM Motion (and/or aligned
 * **status:plan**: content is in a brainstormed status, not yet approved and no DRI assigned
 * **status:wip**: content is approved, with launch date determined and DRI assigned
 
-1. **Content Pillar Epic:** `Content DRI` creates content pillar epic, and associates to GTM Motion epic
-1. **Content Asset Epics:** `Content DRI` creates content asset epics (using code below) and associates to pillar epic
-1. **Related Issues:** `Content DRI` creates the issues as designated in the epic code, and associates to the content asset epic
+1. **Internal Content Epics:** `Content Marketing` creates epic (using code below) and associates to campaign epic
+1. **Related Issues:** `Content Marketing` creates the issues as designated in the epic code, and associates to the content epic
 
 As a guide in developing timeline, please view the workback timeline calculator [here](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
@@ -81,33 +75,43 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 ## Launch date: `to be added`
 
-## [Pathfactory link]() - `to be added when live`
+## Landing Page: (add when live)
+
+## Pathfactory link: (add when live)
 
 #### :key: Key Details
 * **Content Marketing DRI:**  
 * **Official Content Name:** 
 * **Official Content Type:** 
-* **Primary Campaign:** (choose one) CI/CD, DevOps Platform, GitOps, OR DevSecOps
-* **Primary Sales Segment:** (select all approrpiate) Large, MM, and/or SMB
-* **Primary Buying Stage:** (choose one) Awareness, Consideration, OR Decision/Purchase
+* **Primary Campaign:** 
+* **Primary Sales Segment:**
+   - [ ] Enterprise
+   - [ ] Mid-Market
+   - [ ] SMB
+* **Primary Buying Stage:**
+   - [ ] Awareness
+   - [ ] Consideration
+   - [ ] Decision/Purchase
 * **Primary Persona:** 
 * **Language:** 
-* **Marketo Program Name:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short `YYYY_Type_AssetName` - i.e. `2021_eBook_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
-* [ ] [main salesforce program]()
-* [ ] [main marketo campaign]()
+* **Marketo Program Name:** `YYYY_Type_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_eBook_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
+* [ ] [main salesforce program]() - `to be created`
+* [ ] [main marketo campaign]() - `to be created`
 * [ ] [asset copy draft]() - `doc to be added by Content Marketing`
 * [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
 
 
-### :books:  Issues to Create
+### :books:  Issues - Content Owner to Create
 
-[Use the No. 1 (no landing page) or No. 3 (contains landing page) workback timeline in the calculator linked here to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
+[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 **Required Issues:**
-* [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)
+* [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493)
 * [ ] [Asset Copy Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=content-resource-request) - Content
+* [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Content & Campaigns
+* [ ] [Nurture Emaily Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture) - Content, Lifecycle & Campaigns
 * [ ] [Asset Design Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=design-request-content-resource) - Digital Design
-* [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content (feel free to just upload and comment in the epic with the link)
+* [ ] 🧨 Not an issue, but an action item for content owner: upload to Pathfactory
 * [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
 * [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
 
@@ -125,8 +129,8 @@ As a guide in developing timeline, please view the workback timeline calculator 
 /label ~"Content Marketing" ~"Gated Content" ~"mktg-demandgen" ~"dg-campaigns" ~"mktg-status::wip"
 ```
 
-### External Content (i.e. Analyst Relations)
-{: #ungated-external-content}
+## External Content (i.e. Analyst Relations)
+{: #external-content .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 External content can be sourced from Analyst Relations, partners, and other vendors with whom we work. Some examples would be vendor comparisons (i.e. Gartner/Forrester) or industry/market analyses (i.e. DevOps Institute).
 
@@ -147,10 +151,8 @@ All external content should be planned in advance of purchase with `at least a 3
 
 As a guide in developing timeline, please view the workback timeline calculator [here](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
-:exclamation: **ATTENTION: IF THIS CONTENT REQUIRES A LANDING PAGE (i.e. for strict analyst approval processes) PLEASE USE THE [GATED CONTENT EPIC TEMPLATE HERE](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#gated-content-landing-pages)**
-
 ```
-<!-- NAME EPIC: [type] <Name of Asset> (ex. [Guide] Gartner MQ for ARO) -->
+<!-- NAME EPIC: [type] <Name of Asset> (ex. [Report] Gartner MQ for ARO) -->
 
 * [ ] Make sure epic is CONFIDENTIAL, if applicable (i.e. Analyst Reports)
 
@@ -162,26 +164,34 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **External Content (i.e. AR) DRI:**  
 * **Official Content Name:** 
 * **Official Content Type:** 
-* **Primary Campaign:** (choose one) CI/CD, DevOps Platform, GitOps, OR DevSecOps
-* **Primary Sales Segment:** (select all approrpiate) Large, MM, and/or SMB
-* **Primary Buying Stage:** (choose one) Awareness, Consideration, OR Decision/Purchase
+* **Primary Campaign:** 
+* **Primary Sales Segment:**
+   - [ ] Enterprise
+   - [ ] Mid-Market
+   - [ ] SMB
+* **Primary Buying Stage:**
+   - [ ] Awareness
+   - [ ] Consideration
+   - [ ] Decision/Purchase
 * **Primary Persona:** 
 * **Language:** 
 * **Budget:** <!-- Match to Allocadia -->
-* **Marketo Program Name:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short `YYYY_Type_AssetName` - i.e. `2021_report_GartnerMQARO`. This will be used for MKTO/SFDC program. -->
-* [ ] [main salesforce program]()
-* [ ] [main marketo campaign]()
+* **Marketo program name:** `YYYY_Type_VendorNameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_report_GartnerMQARO`. This will be used for MKTO/SFDC program. -->
+* [ ] [main salesforce program]() - `to be added`
+* [ ] [main marketo campaign]() - `to be added`
 * [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
 
 ### [Pathfactory & Resource Page Copy]() - `doc to be added by Content Owner` ([use template here](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1837173931)
 
 ### :books:  Issues to Create
 
-[Use the No. 2 (no landing page) or No. 4 (contains landing page) workback timeline in the calculator linked here to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
+[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 **Required Issues:**
-* [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)
-* [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content Owner
+* [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493)
+* [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Content & Campaigns
+* [ ] [Nurture Emaily Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture) - Content, Lifecycle & Campaigns
+* [ ] 🧨 Not an issue, but an action item for content owner: upload to Pathfactory
 * [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
 * [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
 
@@ -199,400 +209,4 @@ As a guide in developing timeline, please view the workback timeline calculator 
 </details>
 
 /label ~"Analyst Relations" ~"Gated Content" ~"mktg-demandgen" ~"dg-campaigns" ~"mktg-status::wip"
-```
-
-## Ungated Content Journeys Setup and Tracking
-{: #process-ungated-content-journeys .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-### Add to Pathfactory
-{: #steps-pathfactory-addition}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-A dependency for setting up the tracking of ungated content via Pathfactory <> Marketo is for the content to be added to Pathfactory and used in a Pathfactory track. Below are some shortcuts to the Handbook for more information on Pathfactory upload and setup.
-
-* [Shortcut: HB for adding content to Pathfactory](/handbook/marketing/marketing-operations/pathfactory/content-library/#before-uploading-content) - Content Owner 
-* [Shortcut: HB for creating a track in Pathfactory](/handbook/marketing/marketing-operations/pathfactory/#create-a-content-track) - Content Owner
-   - If part of GTM Motion Campaign prescriptive buyer journey - [more streamlined process](/handbook/marketing/marketing-operations/pathfactory/#pbj-content-tracks) - Campaign Manager
-* [Shortcut: HB for adding form strategy to a track in Pathfactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#form-strategy) - Campaign Manager
-   - Form strategy is required for all content tracks used in demand generation campaigns (located in PathFactory track issue)
-   - The content owner must provide 1-3 related assets for the track, or request Product Marketing to recommend content.
-* [Shortcut: HB for PathFactory URL/UTMs for tracking](/handbook/marketing/marketing-operations/pathfactory/#appending-utms-to-pathfactory-links)
-
-#### Create Marketo program and SFDC campaign sync
-{: #steps-ungated-mkto-sfdc}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-  * Clone the [Marketo Content Template](https://app-ab13.marketo.com/#PG5111A1) and name new program using naming convention (YYYY_Type_AssetName, i.e. 2020_eBook_BegGuideGitOps)
-  * Create SFDC program (Program Summary > `Salesforce campaign sync` > click "not set" and choose "Create New" from dropdown) - leave the name as auto-populates, and add the epic url to the description and "Save"
-
-
-### Activate Marketo automation to track from Pathfactory
-
-
-## Gated Content Landing Pages (Historic Process/Format)
-{: #gated-content-landing-pages .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-### Epic code and issues for gated landing page setup
-{: #epic-issues-gated-landing-pages}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-🏷️ **Label statuses:**
-* **status:plan**: content is in a brainstormed status, not yet approved and no DRI assigned
-* **status:wip**: content is approved, with launch date determined and DRI assigned
-
-1. **External Content Epics:** `Content Owner (i.e. AR, Digital, etc.)` creates epic (using code below) and associates to primary GTM Motion epic
-1. **Related Issues:** `Content Owner (i.e. AR, Digital, etc.)` creates the issues as designated in the epic code, and associates to the external content epic
-
-As a guide in developing timeline, please view the workback timeline calculator [here](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
-
-```
-<!-- NAME EPIC: [type] <Name of Asset> (ex. [Guide] Gartner MQ for ARO) -->
-
-* [ ] Make sure epic is CONFIDENTIAL, if applicable (i.e. Analyst Reports)
-
-## Launch date: `to be added`
-
-## [Live landing page link]() - `to be added when live`
-
-#### :key: Key Details
-* **External Content (i.e. AR) DRI:**  
-* **Official Content Name:** 
-* **Official Content Type:** 
-* **Primary GTM Motion:** `CI/CD` `DevOps Platform` OR `GitOps`
-* **Primary Sales Segment:** `Large`, `Mid-Market`, or `SMB`
-* **Primary Buying Stage:** `Awareness`, `Consideration`, or `Decision/purchase`
-* **Primary Use Case:** 
-* **Primary Persona:** 
-* **Language:** 
-* **Budget:** <!-- Match to Allocadia -->
-* **Marketo Program Name:** `YYYY_Vendor_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_Gartner_MQARO`. This will be used for MKTO/SFDC program. -->
-* [ ] [main salesforce program]()
-* [ ] [main marketo campaign]()
-* [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
-
-## :memo: [Landing page copy]() - `doc to be added by Content Owner` ([use template here](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679))
-
-### :books:  Issues to Create
-
-[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
-
-**Required Issues:**
-* [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)
-* [ ] [Landing Page Copy Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=landing-page-copy) - Content
-* [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content
-* [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
-* [ ] [Marketo Landing Page & Automation Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-mkto-landing-page) - Verticurl (Agency)
-* [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
-
-
-<details>
-<summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
-
-* [ ] [Analyst Report Commentary Page Issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=AR-Commentary-Page) - Analyst Relations
-* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
-* [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Social
-* [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
-* [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
-* [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
-* [ ] Analyst Content: [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) - Multiple teams
-* [ ] Notify Sales Comms about new report available - AR
-
-</details>
-
-
-/label ~"Analyst Relations" ~"Gated Content" ~"mktg-demandgen" ~"dg-campaigns" ~"mktg-status::wip"
-```
-
-
-## Adding new content to the Resources page
-{: #add-to-resources-page .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-*Note from `@jgragnola`: [open issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1030) to investigate how to leverage Pathfactory to automatically tap into all content for a better user experience and more efficient process on the GitLab side.*
-
-1. Begin a new MR from [the resources yml](https://gitlab.com/gitlab-com/www-gitlab-com/edit/master/data/resources.yml)
-2. Use the code below to add a new entry with the relevant variables
-3. Add commit message `Add [resource name] to Resources page`, rename your target branch, leave "start a new merge request with these changes" and click "Commit Changes"
-5. Assign the merge request to yourself
-6. When you've tested the MR in the review app and all looks correct (remember to test the filtering!), assign to `@jgragnola`
-7. Comment to `@jgragnola` that the MR is ready to merge
-
-*Note: For ungated journeys, the URL drives to the PF asset/track, instead of a landing page.*
-
-**Code:**
-```
-- title: 'Add name of resource - shorten if necessary'
-  url: 
-  image: /images/resources/security.png
-  type: 'eBook'
-  topics:
-    - 
-    - 
-  solutions:
-    - 
-    - 
-  teaser: 'Add a teaser that relates to the contents of the resource'
-```
-
-**Example:**
-```
-- title: '10 Steps Every CISO Should Take to Secure Next-Gen Software'
-  url: /resources/ebook-ciso-secure-software/
-  image: /images/resources/security.png
-  type: 'eBook'
-  topics:
-    - DevSecOps
-    - Security
-  solutions:
-    - Security and quality
-  teaser: 'Learn the three shifts of next-gen software and how they impact security.'
-```
-
-**IMAGES to choose from (select one):**
-*[Shortcuts to Images Folder](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/resources)
-* `/images/resources/cloud-native.png`
-* `/images/resources/code-review.png`
-* `/images/resources/continuous-integration.png`
-* `/images/resources/devops.png`
-* `/images/resources/git.png`
-* `/images/resources/gitlab.png`
-* `/images/resources/security.png`
-* `/images/resources/software-development.png`
-* `/images/resources/resources-gitops.png`
-
-**TOPICS to choose from (add all that apply):**
-*Note from @jgragnola: let's see if we can align this with topics in Pathfactory for efficiency (if we don't go the route of Pathfactory explore page).*
-
-* Agile
-* CD
-* CI
-* Cloud Native
-* DevOps
-* DevSecOps
-* Git
-* GitLab
-* Public Sector
-* Security
-* Single Applicaton
-* Software Development
-* Toolchain
-
-## How to extend analyst asseets
-{: #extend-analyst-assets .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-At times, we will extend the rights to an asset if it is heavily used by sales or performing in campaigns. In that case the decision is indicated in the [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst).
-
-Follow the steps outlined [in the Pathfactory Content Library Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#replacing-or-updating-the-verson-of-an-asset-after-initial-upload). 
-
-## How to retire analyst assets when they expire
-{: #retire-analyst-assets .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) will be opened by the Analyst Relations DRi for each analyst asset, and related to the overarching Epic (with due date for when the asset is set to expire). When the decision is made to expire the asset, the teams involved will check off their respective action items in the issue.
-
-### Retire Marketo landing page
-{: #retire-marketo-page}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-**First you will remove the form from the page and add a "no longer available" message**
-* In the Marketo program, click "edit" on the Registration Page
-* On right rail under "Variables" (below "Elements"), find `2column Visibility` and switch to "Hidden" 
-* On right rail under "Variables" (below "Elements"), find `2column Sidebar` and switch to "No Sidebar" 
-* On right rail under "Variables" (below "Elements"), find `flex1 Visibility` and switch to "Visible"
-* In flex1 section, double-click then click to edit in HTML > add the code below into the section and save
-* Approve Landing Page and test live. You should no longer be able to see the form or paragraph text, and only see the notice about resource no longer being available. 
-
-```
-<h1>This resource is no longer available.</h1>
-<p>Thank you for your interest in this resource, but it is no longer available for download. <a href="https://about.gitlab.com/analysts/" target="_blank" id="">Click here to visit our industry analysts page to view other reports and best practices!</a></p>
-```
-
-### Remove from Intelligent Nurture
-{: #remove-intelligent-nurture}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Please follow the process outlined in the [Emails/Nurture Handbook](/handbook/marketing/demand-generation/campaigns/emails-nurture).
-
-### Remove from Pathfactory
-{: #remove-intelligent-nurture}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Please follow the process outlined in the [Pathfactory Handbook](/handbook/marketing/marketing-operations/pathfactory/content-library/#removing-an-asset-from-the-library).
-
-### Marketo automation and setup for gated landing page
-{: #steps-gated-landing-pages}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**!!! REMINDER: We are using ungated content journeys via Pathfactory. This process should only be used for specific scenarios, and used sparingly.**
-
-[Watch the video tutorial >](https://www.youtube.com/watch?v=RrmDCZPh1nw)
-
-:exclamation: Dependencies: delivery of final asset, completion of final landing page copy, and final asset added to pathfactory and placed in a track must be complete before setting up the Marketo program.
-
-**The TL;DR of what you'll do:**
-* Create Marketo program, tokens, and SFDC campaign sync
-* Edit registration page and thank you page URLs
-* Activate smart campaign(s)
-* Update SFDC campaign
-* Test live registration page and flows
-* Add new content to the Resources page (separate issue)
-
-#### Create Marketo program, tokens, and SFDC campaign sync
-{: #steps-gated-mkto-sfdc}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-  * Clone the [Marketo Gated Content Template](https://app-ab13.marketo.com/#PG5111A1) and name new program using naming convention (YYYY_Type_AssetName, i.e. 2020_report_GarnterVOC_ARO)
-  * Create SFDC program (Program Summary > `Salesforce campaign sync` > click "not set" and choose "Create New" from dropdown) - leave the name as auto-populates, and add the epic url to the description and "Save"
-  * Update Marketo tokens (Program Summary > "My Tokens" tab)
-    * `{{my.bullet1}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
-    * `{{my.bullet2}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
-    * `{{my.bullet3}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
-    * `{{my.bullet4}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
-    * `{{my.contentDescription}}`	- 2-3 sentences with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679), this will show up in page previews on social and be used in Pathfactory description.
-    * `{{my.contentDownloadURL}}` - skip updating in initial registration page setup (update during on-demand switch), Pathfactory link WITHOUT the `https://` NOR the email tracking part (`lb_email=`)
-      * Example of correct link to include: `learn.gitlab.com/gartner-voc-aro/gartner-voc-aro` - the code in the Marketo template assets will create the URL `https://learn.gitlab.com/gartner-voc-aro/gartner-voc-aro?lb_email={{lead.email address}}&{{my.utm}}`
-      * Note that both parts of this url include custom URL slugs which should be incorporated into all pathfactory links for simplicity of tracking paramaeters
-    * `{{my.contentEpicURL}}` - no longer used in automation, but helpful for reference
-    * `{{my.contentSubtitle}}` - content subtitle to display to viewer (throughout landing page, emails, etc.)
-    * `{{my.contentTitle}}`	- content title to display to viewer (throughout landing page, emails, interesting moments, etc.), with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
-    * `{{my.contentType}}`	- content type to display to viewer (throughout landing page, emails, interesting moments, etc.)
-    * `{{my.contentTypeSFDC}}` - pick from following list (critical to avoid Marketo > SFDC sync errors): whitepaper, report, video, eBook, general
-    * `{{my.emailConfirmationButtonCopy}}`	- leave as `Download`  (but can be updated if needed)
-    * `{{my.formButtonCopy}}`	- leave as `Download  now` (but can be updated if needed)
-    * `{{my.formHeader}}`	- leave as `Free Instant Download:` (but can be updated if needed)
-    * `{{my.formSubhead}}`	- form subhead (not currently used for gated content landing page to try to keep form shorter)
-    * `{{my.heroImage}}` - image to display above landing page form ([options in Marketo here](https://app-ab13.marketo.com/#FI0A1ZN9784))
-    * `{{my.introParagraph}}`	- intro paragraph to be used in landing page and nurture email, with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
-    * `{{my.mpm owner email address}}` - no longer used in automation, but helpful to know who to go to about setup
-    * `{{my.or}}` - leave as `?` (but can be updated to `&` if during Pathfactory upload, the custom URL slugs were not applied to both the asset and the track). If this is not correctly applied and there are multiple `?` question marks in the URL, it will break. [WATCH THE VIDEO EXPLAINER](https://www.youtube.com/watch?v=VHgR33cNeJg)
-    * `{{my.pdfVersion}}`	- this should be the GitLab repo link (for safety backup if Pathfactory were to go down)
-    * `{{my.socialImage}}`	- image that would be presented in social, slack, etc. preview when the URL is shared, this image is provided by design/social, leave the default unless presented with webcast specific image.
-    * `{{my.utm}}` - this should match the aligned campaign utm
-    * `{{my.valueStatement}}` token with the short value statement on what the viewer gains from the webcast, this ties into the follow up emails and must meet the max/min requirements of the [character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
-
-#### Edit registration page and thank you page URLs
-{: #steps-gated-registration-page}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-  * Right click the landing page object > "URL Tools" > "Edit URL Settings"
-  * Input new Registration Page URL (format: `resources-type-name-of-asset`, i.e. `resources-ebook-ci-best-practices`)
-  * Input new Thank You Page URL (format: `resources-type-name-of-asset-thank-you`, i.e. `resources-ebook-ci-best-practices-thank-you`)
-  * For both, leave `"Throw away" existing url` selected and click save
-
-#### Edit "resulting page" from the form submit
-{: #steps-gated-resulting-page}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-  * The cloned program will automatically reference the Marketo program template Thank You Page
-  * Right click the registration landign page > "Edit Draft"
-  * On the right rail of the edit mode, under `Elements` right click on the `Form Custom` element and click "Edit"
-  * Next to `Follow-up page`, clear out the automatic reference to the template, and start to type in your program name - the approved thank you page should show up. Choose your thank you page
-  * Click "Swap" button at the bottom
-  * At top left of page, click `Landing Page Actions` > "Approve and Close"
-
-#### Activate smart campaign(s)
-{: #steps-gated-activate-smart-campaigns}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-  * Click to `01 Downloaded Content` smart campaign
-  * Smart List: *it's all set!* For your first few, feel free to check that it references the program landing page (it should do this automatically)
-  * Flow: it's all set! For your first few, feel free to review the flows (but they are all using tokens, so it should be ready to go automatically)
-  * Schedule tab: click "Activate" (note: the settings should be that "each person can run through the flow once every 7 days" - this is to avoid bots resubmitting repeatedly)
-
-#### Update SFDC campaign
-{: #steps-gated-update-sfdc}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-  * Navigate to [https://gitlab.my.salesforce.com/701?fcf=00B61000004NY3B&page=1&rolodexIndex=-1] campaigns in Salesforce
-  * `Campaign Owner` should be the campaign creator
-  * `Active` field should be checked
-  * `Description ` must include the epic url, best practice to include the registration page URL
-  * `Start Date` should be date of launch
-  * `End Date` should be one year later
-  * `Budgeted Cost` is required, if cost is $0 list `1` in the `Budgeted Cost` field - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation. 
-  * `Bizible Touchpoints Enabled` leave this blank (because this would be an online touchpoint)
-
-#### Test live registration page and flows
-{: #steps-gated-testing}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-  * Click to the landing page object and click "View Approved Page"
-  * Final QA of all copy
-  * Submit the form
-  * Final QA that the form submit brings you to the thank you page
-  * Final QA that the link on the thank you page sends to Pathfactory **with** the tracking for the email address (`&lb_email=[email submitted in form]`)
-  * Check that you received the follow up email
-  * Final QA of confirmation email copy
-  * Final QA that the confirmation email link sends to Pathfactory with the tracking for the email address  (`&lb_email=[email submitted in form]`)
-
-## Potential backup process
-{: #retire-marketo-page .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-To be completed by the content owner if Pathfactory access is granted. If no access, please open an issue in Campaigns team based on epic category above.
-
-**Add to /downloads/ repository** (only available and recommended for assets under 2 MB size)
-*The purpose of this step is to make it possible to flip the autoresponder if Pathfactory were to have an outtage, at which point, we would still have the PDF version available in Marketo for a quick turnaround.*
-
-1. Save the pdf to your computer with naming convention `[asset-type]-short-name-asset`, ex: `ebook-agile-delivery-models`
-1. Navigate to the (de-indexed) [`resource/download`](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/uncategorized/source/resources) directory
-1. Where it says `www-gitlab-com / sites / marketing / source / resources / +`, click the plus drop down and select "Upload File"
-1. Upload the file you've saved to your computer with the naming convention above
-1. For commit message, add `Upload [Asset Type]: [Asset Name]`, check box for "create new merge request", name your merge request, and click "Upload file"
-1. Add description to MR, complete the author checklist, assign to `@jgragnola` and click "Submit Merge Request"
-1. In your Marketo program, for the `pdfVersion` My Token, add the naming convention above which will be available when the MR is merged. (the token should look like `https://about.gitlab.com/resources/downloads/add-file-name-here.pdf`)
-
-# Content Syndication
-{: #content-syndication .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-Content Syndication takes place through external vendors as a tactic used within marketing campaigns, including account centric campaigns. When employing this tactic, we have promoted our content through a third-party vendor, but do not direct the end users back to our website. In these cases, we often have given the syndicate the resource to make available for download to their audience, and recieve the leads to be uploaded.
-
-If you are interested in running a content syndication campaign, then please reach out to the Digital Marketing team. If you are in Field Marketing, please see [this page](/handbook/marketing/revenue-marketing/field-marketing/field-marketing-epics/#content-syndication) for Field Marketing epic details.
-
-## Process in GitLab to organize epic & issues
-{: #content-syndication-process}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-The project owner is responsible for following the steps below to create the epic and related issues in GitLab.
-
-1. Project owner creates the main tactic issue
-1. Project owner creates the epic to house all related issues (code below)
-1. Project owner creates the relevant issues required (shortcut links in epic code below)
-1. Project owner associates all the relevant issues to the newly created epic, as well as the original issue
-1. Project owner sets due dates for each issue, based on agreed upon SLAs between teams for each task, and confirms accurate ownership for each issue
-
-*Note: if the date of the tactic changes, Project owner (FM) is responsible for changing the due dates of all related issues to match the new date, and alerting the team members involved.*
-
-### Code for Content Syndication Epic
-{: #content-syndication-epic-code}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-```
-<--- Name this epic using the following format, then delete this line: Content Syndication - [Vendor] - [3-letter Month] [Date], [Year] --->
-
-## [Main Issue >>]()
-
-## [Copy document >>]() - [template](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit)
-
-## :notepad_spiral: Key Details 
-* **Project Owner:** 
-* **Coordinator:** 
-* **Type:** Content Syndication
-* **Campaign Tag:**  
-* **Persona (choose one):** `Practitioner, Manager, or Executive`
-* **Use Case (choose primary):** `CI, VC&C, DevSecOps, Other` (FY21-22 focus on CI and VC&C)
-* **Sales Segment (choose primary):** `Large, Mid-Market, or SMB`
-* **Sales Region (choose one):** `AMER, EMEA, APAC`
-* **Sales Territory (optional, if specific):** 
-* **Goal:** `Please be specific on the metric this is meant to impact.`
-* **Content Type:** [eBook, Report, Whitepaper]
-* **Content Title:** [As appears on [this list](https://docs.google.com/spreadsheets/u/1/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit#gid=722919699)]
-* **Budget:** 
-* **Launch Date:**  [MM-DD-YYYY] (this is the date the content syndication begins through the vendor)
-* [ ] [main salesforce program]()
-* [ ] [main marketo campaign]()
-* [ ] Campaign UTM - Project owner (FM) to fill in (Format: campaign tag - change to all lowercase, no spaces, hyphens, underscores, or special characters)
-
-## User Experience
-[Project owner (FMM) to provide a description of the user journey - from communication plan, to what the user experiences upon reciept, plus triggers on our end like confirmation email and how GitLab fulfils with the vendor, up until receipt by the user and answering whether or not we get confirmation that they received it... what is the anticipated journey after that?]
-
-## Additional description and notes about the tactic
-[Project owner (FMM) add whatever additional notes are relevant here]
-
-## Issue creation
-* [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-program-tracking)
-* [ ] [List clean and upload issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) 
-* [ ] [Follow up email issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup) 
-* [ ] [Add to nurture issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture) 
-
-/label ~mktg-status:wip ~"Content Syndication"
 ```
