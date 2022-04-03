@@ -145,9 +145,77 @@ If all work within a milestone is picked, engineers are free to choose what to w
 
 We follow the [iteration process](/handbook/engineering/principles/#iteration) outlined by the Engineering function.
 
+
 ### Estimation
 
-We follow the [estimation process](/handbook/engineering/development/growth/#estimation) outlined by the Growth sub-department.
+We estimate issues async following the [estimation process](/handbook/engineering/development/growth/#estimation) outlined by the Growth sub-department. Our aim is to provide an initial estimate (weight) for all issues scheduled for an upcoming milestone. 
+
+* [gitlab-org](https://gitlab.com/groups/gitlab-org/-/issues?sort=created_date&state=opened&label_name[]=group::product+intelligence&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
+* [gitlab-services](https://gitlab.com/groups/gitlab-services/-/issues?sort=created_date&state=opened&label_name[]=group::product+intelligence&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
+
+Issues estimation examples
+
+| Weight | Description (Engineering) |
+| ------ | ------ |
+| 1 | [Add missing metric definition for "counts_monthly.promoted_issues"](https://gitlab.com/gitlab-org/gitlab/-/issues/340940),<br />[Add instrumentation classes for license standard metrics](https://gitlab.com/gitlab-org/gitlab/-/issues/336340),<br />[Update Registration Features text](https://gitlab.com/gitlab-org/gitlab/-/issues/335051) |
+| 2 | [VersionApp: Add indexed on other tables that are exported](https://gitlab.com/gitlab-org/gitlab/-/issues/352019),<br />[Set values for StandardContext in Frontend](https://gitlab.com/gitlab-org/gitlab/-/issues/342993) |
+| 3 | [Update Registration Features CTA for repository size limit](https://gitlab.com/gitlab-org/gitlab/-/issues/349307),<br />[More paid features available to free users](https://gitlab.com/gitlab-org/gitlab/-/issues/341442) |
+| 5 | [Spike Service Ping health dashboard](https://gitlab.com/gitlab-org/gitlab/-/issues/346431),<br />[Remove `deprecated` metric status ](https://gitlab.com/gitlab-org/gitlab/-/issues/340847) |
+| 8 | [Dispatch Snowplow events from their event definitions](https://gitlab.com/gitlab-org/gitlab/-/issues/346751),<br />[Add metrics yml files for usage data metrics definition ](https://gitlab.com/gitlab-org/gitlab/-/issues/270107) |
+| 13| [Create Snowplow monitoring framework](https://gitlab.com/gitlab-org/gitlab/-/issues/331103),<br />[Enable batch counting for some individual queries](https://gitlab.com/gitlab-org/gitlab/-/issues/208923) |
+
+#### Estimation template
+
+The following is a guiding mental framework for engineers to consider when contributing to estimates on issues.
+
+```
+### Refinement / Weighting
+
+**Ready for Development**: Yes/No
+
+<!--
+Yes/No
+
+Is this issue sufficiently small enough, or could it be broken into smaller issues? If so, recommend how the issue could be broken up.
+
+Is the issue clear and easy to understand?
+-->
+
+**Weight**: X
+
+**Reasoning**:
+
+<!--
+Add some initial thoughts on how you might break down this issue. A bulleted list is fine.
+
+This will likely require the code changes similar to the following:
+
+- replace the hexdriver with a sonic screwdriver
+- rewrite backups to magnetic tape
+- send up semaphore flags to warn others
+
+Links to previous example. Discussions on prior art. Notice examples of the simplicity/complexity in the proposed designs.
+-->
+
+
+**MR Count**: Y
+<!--
+- 1 MR to update the driver worker
+- 1 MR to update docs regarding mag tape backups
+
+Let me draw your attention to potential caveats.
+-->
+
+**Testing considerations**:
+<!--
+- ensure that rotation speed of sonic screwdriver doesn't exceed rotational limits
+-->
+
+**Documentation required**: Y/N
+<!--
+- Do we need to add or change documentation for the issue?
+-->
+```
 
 ### Due dates
 
@@ -196,7 +264,7 @@ The specific application of this timeline to the Product Intelligence Milestone 
 | Phase           | Time                     | 
 |-----------------|--------------------------|
 | Planning Phase  | Prior to 18th of Month N |
-| Breakdown Phase | 18th – 22nd              |
+| Breakdown Phase | 5 working days starting 18th |
 | Development Phase   | 23rd - 17th of Month N+1 |
 
 #### 1. Planning Phase
@@ -225,7 +293,7 @@ This time will be used to:
 
 This Phase does not include time for complex technical proposals. They will be worked on in the "Development Phase" of the milestone.
 
-**Timeline**: 18th - 22nd of the month.
+**Timeline**: 5 working days starting with 18th.
 
 **Tasks**:
 1. All: **[Team Retrospectives](/handbook/engineering/management/team-retrospectives/) for prior milestone begins. 
@@ -234,7 +302,10 @@ This Phase does not include time for complex technical proposals. They will be w
 1. PM: will ping engineering team on Planning Issue asking for Technical Debt candidates.
 1. PM: invites engineering to breakdown issues planned.
 1. Engineers: bring up Technical Debt candidates.
-1. Engineers: weight issues.
+1. EM: adds a note for the async estimation.
+1. Engineers: add weight and reasoning to the issues using the following [template](#estimation-template).
+1. EM: reads through the estimates, checks for major differences, asks for another round of estimation if required.
+1. EM: adds the average or maximum weight estimated. 
 1. Engineers: break down issues by posting a rough technical plan on each issue that has a weight bigger than 2.
 1. Engineers: coordinate with FE & BE work.
 1. Engineers: self-organize sync calls to discuss issues in depth.
