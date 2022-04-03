@@ -55,6 +55,7 @@ The process is comprised of four key stages:
 1. Confirm internal acquisition champion - every acquisition needs a lead champion; someone who is advocating for the acquisition, helping drive the acquisition rationale, and seeing its successful integration. For most acquisitions that fit our [approach](/handbook/acquisitions/), the champion will come from GitLab's Product team, at the Director level, accompanied by an engineering champion from the GitLab's Engineering team, at the Director level, respectively. For other acquisitions, champions may come from other internal functions.
 1. Preliminary diligence - below is a list of documents to share with GitLab:
     1. Financials:
+        1. Cap table
         1. Balance sheet
         1. Profit and Loss sheet
         1. Cashflow statement
