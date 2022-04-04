@@ -208,6 +208,7 @@ _, *rest = [1, 2, 3]
 ```
 
 > **Note:** bad praxis is to unpack more than 3 values. Yes, it is allowed to do that, but will rapidly decrease code readability.
+
 ```Python
 ## Bad! (if you have more than 3 values)
 a, b, c, d = 1, 2, 3, 4
@@ -548,7 +549,7 @@ import some_local_module
 from another_local_module import something
 ```
 
-Also, linters should help you with this issue [`mypy` | `flake8` | `pylint`]. 
+Also, linters should help you with this issue: `mypy`, `flake8`, `pylint`. 
 
 ###### Docstrings
 * Docstrings should be used in every single file.
@@ -632,18 +633,19 @@ def bar(some_str: str, env_vars: Dict[str, str]) -> None:
 bar("foo", env_vars)
 
 ```
+
 ##### Parsing Dates 
 Ideally, never hardcode the date format using datetime.strptime unless absolutely necessary in cases where the format is very unusual. A better solution is to use the generic date parser in the dateutil library, as it handles a large variety of formats very reliably: 
 
+```python
 ## Bad !
 datevar = datetime.strptime(tstamp, timestamp_format = "%Y-%m-%dT%H:%M:%S%z")
 
-
 ## Good ! 
-
 from dateutil import parser as date_parser
  ... 
 datevar = date_parser.parse(tstamp)
+```
 
 ##### Package Aliases
 
@@ -806,7 +808,7 @@ An individual test is created by defining a function that has one or many plain 
 
 In the future, additional directories may be added to the `PythonPath` for ease of testing as need allows.
 
-###### Basic Pytest Usage
+##### Basic Pytest Usage
 
 When create a test case, keep it simple and clear. The main point is to have small test cases be able to keep it consistent and easy to maintain..
 
@@ -849,7 +851,7 @@ def test_example_additional(myfixture):
 # test.py::test_example_additional PASSED 
 ```
 
-###### Parametrized Test Functions
+##### Parametrized Test Functions
 A great way to avoid code duplication is to use [Parametrizing tests](https://doc.pytest.org/en/latest/example/parametrize.html) and for that purpose, the magic happens behind the `@pytest.mark.parametrize` decorator.
 
 The builtin [`pytest.mark.parametrize`](https://doc.pytest.org/en/latest/how-to/parametrize.html#pytest-mark-parametrize-parametrizing-test-functions) decorator enables parametrization of arguments for a test function.
@@ -873,7 +875,7 @@ In other words, you can think of this decorator behaving as a `zip*` function an
 
 > **Note:** for the decorator `@pytest.mark.parametrize` the first argument to parametrize() is a comma-delimited string of parameter names. The second argument is a list of either tuples or single values that represent the parameter value(s).
  
-###### Categorizing Tests using marks
+##### Categorizing Tests using marks
 
 In any large test suite, some of the tests will inevitably be slow. They might test timeout behavior, for example, or they might exercise a broad area of the code. Whatever the reason, it would be nice to avoid running all the slow tests when you’re trying to iterate quickly on a new feature.
 pytest enables you to define categories for your tests and provides options for including or excluding categories when you run your suite. You can mark a test with any number of categories.
@@ -888,6 +890,7 @@ markers =
     local_test: can run locally
 ```
 * Create a test file
+
 ```python
 import pytest
 
@@ -900,6 +903,7 @@ def test_local():
     assert 1 == 1
 ```
 * run just `network_access` test(s):
+
 ```bash
 # will fail, just to recognize what we run
 ╰─$ pytest test.py -m network_access
@@ -909,6 +913,7 @@ collected 2 items / 1 deselected / 1 selected
 test.py F  
 ```
 * run just `local_test` test(s):
+
 ```bash
 # this will pass
 ╰─$ pytest test.py -m local_test                                                                                                                                                                                                                                                    1 ↵
@@ -918,7 +923,7 @@ collected 2 items / 1 deselected / 1 selected
 test.py .        
 ```
 
-###### Duration Report
+##### Duration Report
 
 If you plan to improve the speed of your tests, then it’s useful to know which tests might offer the biggest improvements. `pytest` can automatically record test durations for you and report the top offenders.
 Use the `--durations` option to the pytest command to include a duration report in your test results. `--durations` expects an integer value n and will report the slowest n number of tests.
@@ -953,10 +958,10 @@ test.py ...                                                                     
 = 3 passed in 6.03s =
 ```
 
-###### Beyond pytest: Useful pytest Plugins
+##### Beyond pytest: Useful pytest Plugins
 When `pytest` is not able to answer your needs is more complicated scenarios, handy plugins should be found. By now, didn't find any usage outside of `pytest` in `/analytics` repo, and it is good to know there are some useful tools can help you do your work.
 * [pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - Pytest plugin to randomly order tests and control `random.seed`.
-* [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/) - This plugin produces coverage reports. Compared to just using coverage run this plugin does some extras: `Subprocess support` | `Xdist support` | `Consistent pytest behavior` 
+* [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/) - This plugin produces coverage reports. Compared to just using coverage run this plugin does some extras: `Subprocess support`, `Xdist support`, `Consistent pytest behavior` 
 * [Full plugin list](https://docs.pytest.org/en/latest/reference/plugin_list.html) - list of `pytest` plugins.
 
 
