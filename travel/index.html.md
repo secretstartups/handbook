@@ -169,12 +169,13 @@ When you have an internet connection, it can save you quite a bit of money to be
 
 - [WhatsApp](https://www.whatsapp.com/) - Most used app, which supports chat and video/voice calling
 - [Telegram](https://telegram.org/) - Great for places where WhatsApp isn't working
+- [Signal](https://signal.org/) - Alternative to WhatsApp with more emphasis on privacy and security
 - [Slack](https://slack.com/)
 - [Google Duo](https://duo.google.com/) - Great for video and/or voice calling, especially on low bandwidth connections
 
 ### Special Shoutouts
 
-Application which are all around wonderful to have when traveling.
+Applications which are all around wonderful to have when traveling.
 
 - [Google Now](http://www.google.nl/landing/now/) - an intelligent personal assistant developed by Google. Learn more about [Google Now on Wikipedia](https://en.wikipedia.org/wiki/Google_Now).
 - [Google Trips](https://get.google.com/trips/) - Makes planning your day very easy with suggestions for things to see and do
@@ -184,7 +185,8 @@ Application which are all around wonderful to have when traveling.
 The following tools make paying someone back in their own currency a lot easier.
 
 - [PayPal](https://www.paypal.com)
-- [TransferWise](https://transferwise.com/)
+- [Wise](https://wise.com/) (Formerly TransferWise)
+- [Revolut](https://www.revolut.com/)
 
 ### Splitting Costs
 
@@ -198,7 +200,7 @@ Traveling together or letting someone else pay something for you? This makes it 
 
 VPNs can help you reach services or sites that are blocked, get contents that are not available abroad or let you browse the internet as if you were home (with your own language preselected).
 
-- [ZenMate](https://zenmate.com/) - Great application with a good 7 days free trial
+- [ZenMate](https://zenmate.com/) - Great application with a good 7-day free trial
 - [Opera](http://www.opera.com/) - Has a built in free VPN
 
 _Note that a VPN may not always work as intended. For example both Netflix and China have blocked certain VPNs, limiting their usefulness._
