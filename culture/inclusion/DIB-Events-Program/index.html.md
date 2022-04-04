@@ -1,8 +1,7 @@
 ---
 layout: markdown_page
 title: "Diversity, Inclusion & Belonging Program of Events"
-description: "Diversity, Inclusion & Belonging"
-canonical_path: "/company/culture/inclusion/dib-events-program"
+description: "This page will provide a calendar of upcoming events & program release for Diversity, Inclusion & Belonging."
 ---
 
 ## On this page
