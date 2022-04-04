@@ -174,7 +174,7 @@ Sales QBRs include managers, leadership, and delegates from across the business:
    1. Sales Dev
    1. Channel
    1. Alliances
-1. Most sessions will be recorded, so notes taken during QBRs should focus on key takeaways and value-add commentary and conversation. See [Note Taking](/handbook/sales/qbrs/#qbr-note-taking) section below for full note taking guidance.
+1. Notes taken during QBRs should provide a detailed summary of the QBR and focus on key takeaways, value-add commentary and conversation. Since QBRs are not recorded, notes are the record of the QBR. See [Note Taking](/handbook/sales/qbrs/#qbr-note-taking) section below for full note taking guidance.
 
 ## QBR Communication
 1. QBR-related Slack channels will be created no later than five weeks before the start of QBRs.
@@ -195,7 +195,7 @@ Sales QBRs include managers, leadership, and delegates from across the business:
    1. These channels will be archived within 60 days of QBRs being completed.
 
 ### QBR Note Taking
-The purpose of notes is to capture meaningful insights that come out of the *conversation* during a QBR - questions and answers, feedback, asks, etc. Do not capture verbatim notes or data that is already documented on a slide. The video recording of the meeting will show the slides.
+The purpose of notes is to summarize and capture meaningful insights that come out of the *conversation* during a QBR - questions and answers, feedback, asks, etc. 
 
 **Q: Who should take notes?**
 
@@ -203,19 +203,11 @@ A: If you are attending as a delegate, please note that it is part of your respo
 
 **Q: What specific information should the delegate capture?**
 
-A: In order to serve as an active participant in QBRs, there is no need to take verbatim notes during the sessions.
-1. Make as detailed notes as possible *pertaining to asks, action items, or specific improvement requests*. Please include reference to the specific slide in the QBR presentation that pertains to the ask when possible.
-1. Capture meaningful insights that come from conversations during the QBR, not information already written in a slide.
-
-**Q: How will the rest of the information be captured?**
-
-A: Most QBR hosts will record their sessions and provide a link to the recording for the rest of the team and company to access. This reduces the need to take verbatim notes. Sessions that will not be recorded include: 
-1. All VP-level leadership sessions (to protect team member information)
-1. All PubSec sessions (to protect sensitive customer/business information)
-
+A: In order to serve as an active participant in QBRs, there is no need to take verbatim notes during the sessions. Providing a detailed summary of information that is shared is adequate. 
+1. Make as detailed notes as possible *pertaining to key insights, decisions, asks, action items, or specific improvement requests*. Please include reference to the specific slide in the QBR presentation that pertains to the ask when possible. While the slides will not be shared with the broader team, this information will help key stakeholders easily find the referenced information.
+1. Capture meaningful insights, points or key decisions that come from conversations during the QBR, not information already written in a slide.
 ### Where to Find Past QBRs
-1. A list of all QBR recordings will be housed in a tab on each segment's (ENT, COMM, Channel) schedule spreadsheet.
-1. A full list of past QBR presentations can be found in the [QBR Google drive folder](https://drive.google.com/drive/u/0/folders/1QAWFYxT2-NzWpOUodepbl0O6zfsMxJGL).
+1. A full list of past QBR presentations can be found in the [QBR Google drive folder](https://drive.google.com/drive/u/0/folders/1QAWFYxT2-NzWpOUodepbl0O6zfsMxJGL). Note that only key QBR stakeholders are able to access the slides. To keep the information shared in QBRs SAFE, team members are unable to access past recordings.
 
 ## Field Operations QBR Ask/Request Process
 
