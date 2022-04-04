@@ -268,6 +268,72 @@ GitLab’s Stance for Architectural issues: https://about.gitlab.com/handbook/en
 | [Frontend](#threat-insights) | <%= link_to_team_member('svedova') %> |
 | [Vulnerability Research](#vulnerability-research) | <%= link_to_team_member('idawson') %>, <%= link_to_team_member('julianthome') %> |
 
+
+#### Secure Frontend Chapter (Slack [#secure-frontend-chapter](https://gitlab.slack.com/archives/C031RSQ72S2))
+
+The Secure Frontend Chapter at GitLab is a federation of all Frontend Engineers and team members interested in frontend-related topics within the Secure Group.
+
+The main purpose of the Frontend chapter is to connect Frontend Engineers within the Secure Group,
+share knowledge, exchange about common challenges and leverage their collaboration.
+
+The chapter was founded when Secure transitioned to Fullstack Teams which resulted in some Engineers being
+the isolated experts within their team.
+
+The members of the chapter exchange through the [slack-channel](https://gitlab.slack.com/archives/C031RSQ72S2), there is also a sync meeting twice a month on the Secure Group Calendar.
+
+There is no strict rulebook of how chapter-members collaborate with each other. The chapter is about
+visibility of challenges that might be similar amongst the different teams within the secure-group and how we can 
+benefit from this.
+
+##### Team Representatives
+
+| Team                                          | Representative                                    |
+| --------------------------------------------- | ------------------------------------------------- |
+| [Composition Analysis](#composition-analysis) | <%= link_to_team_member('farias-gl') %>           |
+| [Static Analysis](#static-analysis)           | <%= link_to_team_member('jannik_lehmann') %>      |
+| [Dynamic Analysis](#dynamic-analysis)         | <%= link_to_team_member('arfedoro') %>            |
+| [Dynamic Analysis](#dynamic-analysis)         | <%= link_to_team_member('djadmin') %>             |
+| [Threat Insights](#threat-insights)           | <%= link_to_team_member('dftian') %>              |
+| [Threat Insights](#threat-insights)           | <%= link_to_team_member('dpisek') %>              |
+| [Threat Insights](#threat-insights)           | <%= link_to_team_member('pgascouvaillancourt') %> |
+| [Threat Insights](#threat-insights)           | <%= link_to_team_member('sming-gitlab') %>        |
+| [Threat Insights](#threat-insights)           | <%= link_to_team_member('svedova') %>             |
+
+##### Page Performance
+
+Our team monitors [LCP](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp) (Largest Contentful Paint) to ensure performance is below our target (currently 2500ms).
+
+[LCP Dashboard for Secure owned pages](https://dashboards.gitlab.net/d/sftijGFMz/sitespeed-lcp-leaderboard?from=now-90d&orgId=1&to=now&refresh=30s&var-namespace=sitespeed_io&var-path=desktop&var-testname=gitlab&var-domains=gitlab_com&var-pages=API_Fuzzing_Config_UI&var-pages=DAST_Profiles&var-pages=On_Demand_Scans&var-pages=SAST_Config_UI&var-pages=Secure_Dependency_List&var-pages=Secure_License_Compliance&var-pages=Secure_Security_Configuration&var-pages=DAST_Config_UI&var-browser=chrome&var-function=median&var-connectivity=cable)
+
+##### How to work with the Quality team
+
+##### Frontend Responsibilities
+
+1. Being able to identify what code changes would likely break E2E or System level tests and informing Quality.
+1. Not to write E2E tests, but to catch potential failures and communicate gaps in coverage before landing to master.
+
+##### Identifying potential breakages
+
+1. Look to see if issue you are working on [has existing test coverage](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/736). These are the tests likely to fail
+
+1. If you are working around code that contains a selector like `data-qa-selector="<name>"`, then there is likely to be an existing E2E test. Tests can be found by searching our [E2E tests in Secure](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa/qa/specs/features/ee/browser_ui/secure).
+
+##### Communicating changes that may break tests
+
+Ping the DRI for quality assigned to Secure. You can find the person on the [team page](https://about.gitlab.com/handbook/engineering/development/secure/#team-members). If they are unavailable, then #quality on slack or the [triage DRI](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#schedule) dependent on severity.
+
+#### Resources
+
+- [How to triage a QA test pipeline failure](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#how-to-triage-a-qa-test-pipeline-failure)
+- [Beginner's guide to writing end-to-end tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/beginners_guide.html)
+- [GitLab QA README](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
+- [GitLab QA Scenarios](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md)
+- [E2E info for GitLab developers](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/)
+- [Quality training video material](https://www.youtube.com/playlist?list=PL05JrBw4t0KoNUmi5MOeNURxjl_BtUBxH)
+
+
+
+
 #### Product Documentation
 
 As the product evolves, it is important to maintain accurate and up to date documentation for our users. If it is not documented, customers may not know a feature exists.
