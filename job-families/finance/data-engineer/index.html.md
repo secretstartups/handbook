@@ -68,6 +68,8 @@ The Staff Data Engineer role extends the [Senior Data Engineer](#responsibilitie
 
 The Staff Data Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+Business Justification: The staff level is aligned to our expectations outlined in our [GitLab Job Framework](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=819074618). This level requires deep technical and functional knowledge that contributes to the overall direction and impacts multiple teams, including working directly with external stakeholders.
+
 ### Responsibilities
 
 * All requirements of a Senior Data Engineer
