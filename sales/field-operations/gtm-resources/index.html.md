@@ -1173,95 +1173,65 @@ Please understand that if Legal finds a problem, the flag and the account will r
 
 ## Executive Sponsorship Program
 
-### Summary 
-
-1. E-group members or designates by E-group members are assigned to *specific accounts*.
-2. The Sponsor will maintain direct relationships with individuals at the account and participate in both remote and in-person meetings as appropriate.
-3. This is a long-term assignment (i.e., likely years, minimum multiple quarters).
-
 ### Objectives
 
-Through account executive sponsorship with our customers, we seek to:
-
-1. Ensure GitLab delivers to the customer's desired outcome with a positive experience
-1. Deepen our relationship with key strategic accounts 
+Through the Executive Sponsor Program, we seek to:
+1. Provide executive oversight to ensure GitLab delivers customer's desired outcomes with a positive experience for our strategic accounts
+1. Improve GitLab executive and senior leader understanding and empathy for customer needs and challenges 
+1. Deepen our relationship and influence with key strategic accounts 
 1. Provide deeper insights and learnings from our customers to improve our product, engagement approaches, and customer experiences for all customers
-
-### Process 
-
-#### Sponsor Assignments
-
-1. Total accounts with named sponsors: 10
-2. Accounts are nominated by Sales VPs and confirmed by CRO after agreement with the named sponsor.
-3. Sponsored accounts typically represent deep product utilization, large opportunity, and/or a broad vision for success and engagement with GitLab.
-4. Once approved, Sales Operations will update the "Executive Sponsor" field.
-5. Executive Sponsored Accounts are [listed in Salesforce](https://gitlab.my.salesforce.com/00O4M000004e2Ma).
-
-#### Additional Notes
-
-1. Only a small number of accounts will have executive sponsorship, there is no guarantee for any account to necessarily have an assigned executive sponsor.
-1. Even though most accounts will not have an assigned exec sponsor, the executive team is available to support and engage all customers as needed.
-1. Executive sponsors are to be involved in accounts *with and without* active opportunities.
 
 ### Responsibilities
 
 #### Executive Sponsor
 
-- The executive sponsor should have contact with their respective customer counterpoint at least once a quarter, including both formal (e.g., EBR, meeting) and informal approaches (e.g., check-in/update email or video chats). 
-- Two of the interactions should be in a formal meeting setting (e.g., group or 1:1). If there is a 1:1 meeting, the executive sponsor should send a follow-up email within 24 hours with:
+- The executive sponsor is responsible for maintaining direct relationships and communications with individual(s) at the account and participating in remote and in-person meetings.
+- The executive sponsor should maintain ongoing contact with their respective customer counterpoint at least once a quarter, including formal (e.g., EBR, meeting) and informal approaches (e.g., check-in or update emails/texts or video chats). 
+- If there is a 1:1 meeting, the executive sponsor should send a follow-up email within 24 hours with:
   - Thank you / appreciation of the customer's time and feedback
   - Action items and/or next steps (when applicable)
   - When possible, project the next follow-up interaction
 
 Example Sponsor Activities 
-
 - Introduction between the GitLab executive sponsor and customer contact
 - [Executive business reviews](https://about.gitlab.com/handbook/customer-success/tam/ebr/) 
-- In-person, zoom meetings, and/or social events like dinner or lunch
+- Provide strategic and executive guidance, collaboration, and communication with customer contacts
+- Participate and contribute to account meetings and social events like dinner or lunch
 - Check-in/status emails to note progress and open lines of communication and feedback
-- Build personal relationships with individual leaders at the customer and ensure full understanding of long-term value with each
-- Informal communications like ad hoc phone calls
+- Build personal relationships with customer executive(s), understanding their personal needs and goals
+- Informal communications like ad hoc phone calls and emails
 
 #### Account Team
 
 - SAL or AE should take the lead on providing executive sponsor briefing using the [Briefing Template](https://docs.google.com/document/d/1No6Hzv2UoeFi6Bl8qtVUYYy2hDA7ChwoVENboh8wuVs/edit#). 
-- TAM should contribute to the briefing including:
-  - Progress on delivering to outcomes, material delivery of value and/or improvements, and customer successes/wins
-  - Any notable issues (past or present), concerns, and/or requests that may be presented by the customer
-- Make sure to brief your executive sponsor on the goals and objectives of the pending meeting or interaction as well as the follow-up meeting or interaction. This allows the executive sponsor to set expectations for the timing and goal for the next follow-up.
+- TAM should contribute to sponsor updates and engagement, including:
+  - Progress on delivering to outcomes, progress, and customer successes and wins
+  - Updates on any notable issues (past or present), concerns, and/or key customer requirements
+  - Inclusion into key customer meetings like Executive Business Reviews 
+- Brief the executive sponsor before formal meetings, key updates, and upcoming milestones. This enables the executive sponsor to set expectations for future updates or engagements.
 
-### Opportunity Sponsorship
+#### Executive Sponsor Program Leads
+- Facilitate the executive sponsor program ensuring the program is being actively managed by the respective account teams.
+- Identify and lead improvements to the program's effectiveness and efficiency and depth of engagement with program accounts.
+- In partnership with the respective account team, manage the e-group account reviews at least once per quarter.
 
-Summary:
-1. E-group members are assigned to *specific sales opportunities*.
-1. The Sponsor will be a member of the sales team for the duration of the specific opportunity only and roll off when the opportunity is closed.
-1. Sponsors will participate in both remote and in-person meetings as appropriate.
-1. Sponsors will share key learnings with E-Group on a periodic basis
-1. This is a *short-term assignment* (liklely weeks or months)
+### Process 
 
-In contrast to sponsorship of accounts, Opportunity Sponsorship is an ephemeral (ie: short lived) assignment where a member of the e-group is assigned as a dedicated part of the Opportunity Team for a specific [Swing Opportunity](https://about.gitlab.com/handbook/sales/sales-term-glossary/#swing-opportunity)with a close date in the next 6 months. Since there are very few Swing Opportunities in any given quarter, only a small number of Opportunities will have e-group sponsor. 
+#### Sponsor Assignments
 
-The primary purpose of the program is to improve our forecast accuracy by raising visibility of material deals to the e-team, exposing the sponsor to the opportunity process and strategy, and creating additional accountability for specific actions throughout the company during the life of the opportunity.
+1. The executive sponsor assignment is a long-term engagement (i.e., multiple quarters, years+).
+1. The account can be a prospect or customer account.
+1. At least one account will be reviewed in the egroup meeting at least once per quarter.
+1. Accounts are nominated by the account team and approved by the respective VP of Sales and VP of Customer Success. 
+1. Sponsored accounts typically represent deep product utilization, large or strategic opportunity, and/or a broad vision for success and engagement with GitLab.
+1. Once approved, Sales Operations will update the "Executive Sponsor" field.
+1. Executive Sponsored Accounts are [listed in Salesforce](https://gitlab.my.salesforce.com/00O4M000004e2Ma).
 
-Example activities for sponsors:
-1. The e-group member will maintain direct relationships with Opportunity Team
-2. Collaborate with opportunity stakeholders in the internal slack channel for the Account
-3. Participate in Opportunity Consults together with the Area Sales Manager. 
-4. Participate in opportunity strategy meetings
-5. Direct communications with the customer
-6. Facilitation of internal conversations and resources where necessary.
+#### Additional Notes
 
-How Opportunities are selected for and matched to an e-group sponsor:
-1. Target number of Opportunities per e-group sponsors: 2
-2. Opportunities may be nominated by SAL’s or Sales Management if they meet the Swing Deal criteria
-3. Sponsored Opportunities typically represent deep product utilization, significant ARR opportunity, and/or a broad vision for success and engagement/partnership with GitLab.
-
-Process:
-1. Executive sponsors are to be nominated as part of the Opportunity Team field in Salesforce 
-2. Opportunity Owners are responsible for establishing a regular Opportunity Consult with their ASM, SA and TAM by working with the e-group members EA to schedule
-3. Executive Sponsored Opportunity are listed in Salesforce (link TBD)
-4. Command and Close Plans should be updated regularly in preparation for the consult
-5. The e-team opportunity sponsor is responsible for reporting back the current status (brief), next steps, and their assessment to the e-team on a monthly basis
+1. Only a small number of accounts will have executive sponsorship. There is no guarantee that any account will have an assigned executive sponsor.
+1. Even though most accounts will not have an assigned exec sponsor, the executive team is available to support and engage all customers as needed.
+1. Executive sponsors should engage with accounts *with and without* active opportunities.
 
 ## Types of Accounts
 
