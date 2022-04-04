@@ -57,7 +57,8 @@ More details on definitions of outage, and degradation are on the [incident-mana
 
 | **Year Month** | **Availability** | **Comments** |
 | ---- | ----------- | ---- |
-| 2022 March | TBD |  |
+| 2022 April | TBD |  |
+| 2022 March | 99.77% |  |
 | 2022 February | 99.73% |  |
 | 2022 January | 99.91% |  |
 | 2021 December | 99.96% |  |
