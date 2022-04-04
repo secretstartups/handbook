@@ -33,7 +33,7 @@ GitLab's purpose lies at the intersection of these four circles.
 
 ## How we support the purpose
 
-### Knowledge Access
+### Training
 
 Our knowledge sharing empowers everyone, not only to GitLab team members but also the world, through inclusive learning opportunities, mentorship programs, and transparently sharing how we operate.
 
@@ -59,7 +59,7 @@ Our knowledge sharing empowers everyone, not only to GitLab team members but als
 1. [Women at GitLab Mentorship program](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/){:data-ga-name="mentorship"}{:data-ga-location="body"} for team members
 
 
-### Job Access
+### Access to Opportunities
 
 We empower how people work by providing thought leadership on remote work which spreads job opportunities more evenly across geographies, contributions to open source, and job access programs.
 
