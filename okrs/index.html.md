@@ -83,8 +83,11 @@ OKRs do not replace or supersede core team member responsibilities or performanc
 
 ## Ally.io for OKRs
 
-As of FY23-Q2, the whole company will use a third-party vendor, [Ally.io](https://ally.io/),for OKRs.
+As of FY23-Q2, the whole company will use a third-party vendor, [Ally.io](https://ally.io/),for OKRs. All team members have access to Ally.io. New team members are automatically imported from BambooHR within a week of their joining. 
 
+### Ally.io is not limited access
+
+Since all team members have access to information in Ally.io, it is a home for OKR details that are both [internal only](/handbook/communication/#internal) and public. [Limited access details](/handbook/communication/#limited-access) should not be captured here. 
 
 ## Who sets OKRs?
 
@@ -107,47 +110,42 @@ Should you need to reschedule, please @ mention the EBA to the CEO in the `#eba-
 
 ### CEO initiates new quarter's OKRs
 
-**Five Mondays** before the start of the fiscal quarter, the CEO and Chief of Staff to the CEO initiate the OKR process.
+**Six Mondays** before the start of the fiscal quarter, the CEO and Chief of Staff to the CEO initiates the OKR process.
 
-Initiating the OKR process is best done in two distinct MRs. The first accomplishes the following:
-* create that quarter's page in the handbook
-* set the CEO's objectives as H2 tags on the page
-* skeleton the other parts of the OKR page
+The CoS to the CEO creates a Google Doc for E-Group alignment and shares initial suggestions with the CEO. The CEO and CoS to the CEO discuss and modify these initial suggestions. This document is shared with E-Group in the [E-Group Weekly](/handbook/e-group-weekly/) that is **five weeks** before the start of the coming quarter. E-Group is encouraged to offer feedback in the E-Group Weekly, directly within the Google Doc, or in meetings with the CEO or CoST.
 
-In a subsequent MR, the CEO proposes one to three Key Results for the quarter for each of those objectives.
-At least one KR should loosely map to each executive, though this is not explicitly stated.
-The CEO shares this MR in the #e-group channel in Slack and discusses it in each of his 1:1s with his direct reports in the next week.
+**Four Mondays** before the staret of the quarter, the CoS to the CEO will add the CEO OKRs to Ally.io. The CoS to the CEO will then post the Ally.io link in the #okrs Slack channel and @ mention the CEO. After the CEO confirms the post and makes any edits, the CoS to the CEO will @ mention e-group and exec-admins on the Slack thread.
+
+CEO OKRs may continue to be refined in the lead up to the coming quarter.
 
 ### Executives propose OKRs for their functions
 
-The following week, **four Mondays** before the start of the fiscal quarter, Executives propose OKRs for their functions  **via epics (for objectives) and issues (for KRs) through a Slack message in #okrs channel**. The CEO and Chief of Staff to the CEO should be at-mentioned. The CEO will confirm sign-off on objectives through commenting directly in them. While the CEO is the DRI, this responsibility may be the delegated to the CoS to the CEO.
+**Four Mondays** before the start of the fiscal quarter, in the days after the CEO shares OKRs with all of GitLab in the #okr channel, Executives propose OKRs for their functions via Ally.io through a Slack message in #okrs channel. The CEO and Chief of Staff to the CEO should be @ mentioned. The CEO will confirm sign-off on objectives through commenting directly in them. While the CEO is the DRI, this responsibility may be the delegated to the CoS to the CEO.
 
-Each executive should aim for a maximum of 3 objectives, however, in Q4 each executive can have a maximum of 4 OKRs because we are preparing for the next year. Each objective has between 1 and 3 key results; if you have less, you list less. While OKRs are known for being ambitious or committed, we only have ambitious OKRs. When drafting the OKRs, executives should strive to target actual numbers versus percentages. In advance of the first day of the new quarter, all percentages should be replaced with actual numbers. 
+Each executive should aim for a maximum of 3 objectives. Each objective has between 1 and 3 key results; if you have less, you list less. While OKRs are known for being ambitious or committed, we only have ambitious OKRs. When drafting the OKRs, executives should strive to have clear numerical targets.
 
 Function objectives should cascade from one of the CEO's OKR's in Ally.io.
 
 Executives should consider how their OKR efforts can have the greatest impact on the organization. Functions can have objectives under any of the three CEO OKRs. For example, the People Team could have an objective under the CEO's Net ARR OKR if it identified that a specific enablement activity were key to driving sales or the Sales Team could have an objective under the CEO's Great Teams OKR if it were focused on improving team diversity. Functions should not be pigeonholed into the CEO OKR that appears to be most directly related to the function.
 
-When ready for review or when changes to objectives or KRs are made, objectives and KRs should be shared in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO and CEO.
-The CEO is responsible for OKR approvals, but may delegate this responsibility to the CoS to the CEO. 
+When ready for review or when changes to objectives or KRs are made, relevant objectives and KR links from Ally.io should be shared in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO and CEO. The CEO is responsible for OKR approvals, but may delegate this responsibility to the CoS to the CEO. 
 
 Function objective should cascade from one the CEO's OKRs in Ally.io using the steps below:
-OKR owners should author new OKRs in their corresponding Department/Sub-department/Compartment/Team in Ally.
-   1. In Ally, navigate to your Team by selecting **All Teams** from the lefthand side. If you do not see your team, contact the CoSt.
-   1. Verify you are in your Team and in the relevant Fiscal Quarter, and click **Add an Objective**
+OKR owners should author new OKRs in their corresponding Department/Sub-department/Compartment/Team in Ally.io.
+   1. In Ally, navigate to your Team by selecting **All Teams** from the lefthand side. If you do not see your team, contact the CoST.
+   1. Verify you are in your Team and in the relevant Fiscal Quarter, and click **Add an Objective.**
    1. Enter the title of the Objective. 
-   1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assign to the OKR/KR. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
+   1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to the OKR/KR. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
 
 ### OKR Draft Review Meeting
 
-The week that begins **three Mondays** before the start of the fiscal quarter, there is an OKR Draft Review Meeting for the e-group.
-This meeting is an opportunity for executives to get feedback from one another and highlight any dependencies on other functions to one another.
+The week that begins **three Mondays** before the start of the fiscal quarter, there is an OKR Draft Review Meeting for the e-group. This meeting is an opportunity for executives to get feedback from one another and highlight any dependencies on other functions to one another.
 The agenda for this meeting is structured as follows:
 1. Function
    1. Link to the objective in Ally.io
    1. Dependencies: call out any dependencies
 
-If additional action needs to be taken by the functional leader, the epic or issue should be re-shared in the #okrs channel in Slack when it's ready for final review.
+If additional action needs to be taken by the functional leader, the Ally.io link should be re-shared in the #okrs channel in Slack when it's ready for final review.
 
 ### Cascade!
 
@@ -155,7 +153,7 @@ Now that Executive (function-level) OKRs are set
 (as set as things are at GitLab; Everything is always in Draft!),
 Executives shift their focus to finalizing OKRs to their team.
 
-This is also the opportunity to create Executive OKRs in Ally.io (objectives and key results) and add them to the relevant CEO OKR.
+This is also the opportunity to create team OKRs in Ally.io (objectives and key results) and add them to the relevant CEO and executive OKR.
 
 
 ### Dependency Commitments
@@ -166,7 +164,7 @@ It is each team's responsibility to proactively identify dependencies in which t
 
 ### Documenting How to Achieve
 
-In FY21, we had quarterly How to Achieve Meetings in which senior team members shared their plans for achieving KRs. These meetings were often short and inefficient as much of the content could be covered during the planning process and reviewed async. While we no longer have these meetings, plans for achieving KR targets should still be clearly documented within KR issues. An issue should include the following fields:
+In FY21, we had quarterly How to Achieve Meetings in which senior team members shared their plans for achieving KRs. These meetings were often short and inefficient as much of the content could be covered during the planning process and reviewed async. While we no longer have these meetings, plans for achieving KR targets should still be clearly documented within Ally.io or issues and epics that are linked to from Ally.io. Ally.io entries should include the following fields:
 
 1. **Overview:** some additional background on what we are trying to accomplish and why it is important. This section should elaborate on KRs that are not fully descriptive and provide context for team members who might not otherwise understand the desired result.
 1. **DRI or Core Team**: document the [DRI](/handbook/people-group/directly-responsible-individuals/){:data-ga-name="DRI"}{:data-ga-location="body"}. Other key team members and their roles can also be captured in this section.
@@ -175,8 +173,9 @@ In FY21, we had quarterly How to Achieve Meetings in which senior team members s
 
 ### The quarter begins
 
-The Chief of Staff to the CEO updates the OKR page for the current quarter to be active.
-CEO OKRs may be included in the next formal or informal Board meeting.
+The Chief of Staff to the CEO takes CEO OKRs and updates the OKR handbook page for the current quarter to be active. Each objective and KR should include the related Ally.io link. The CoST for the CEO should also create the handbook page for the following quarter and document the OKR process timeline. 
+
+The CoS to the CEO shares the handbook update MR in the #okr channel in Slack and @ mentioned e-group. .
 
 ### Making changes within quarter
 
@@ -188,73 +187,40 @@ We value [iteration](/handbook/values/#iteration){:data-ga-name="iteration"}{:da
 
 Please note that iteration **does not** mean [changing or lower goal posts](https://about.gitlab.com/handbook/values/12-things-that-are-not-iteration){:data-ga-name="changing or lower goal posts"}{:data-ga-location="body"}, because it looks like we can't meet what were ambitious but agreed upon key results.
 
-It is better to update an objective or KR than continue to work toward a goal that is not best aligned with desired business [results](/handbook/values/#results){:data-ga-name="results"}{:data-ga-location="body"}. In instances where CEO KRs are being updated in the spirit of iteration, post an MR in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO and the CEO for approval. Approval of the MR indicates that the revised goal has been agreed upon. At this point, you can also update the KR in Ally.io to reflect changes.
+It is better to update an objective or KR than continue to work toward a goal that is not best aligned with desired business [results](/handbook/values/#results){:data-ga-name="results"}{:data-ga-location="body"}. In instances where CEO KRs are being updated in the spirit of iteration, flag the Ally.io change in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO and the CEO for approval. Approval of the change indicates that the revised goal has been agreed upon. At this point, you can also update any associated issues and epics that exist.
 
-In the event that a functional Objective that is captured in an epic or a functional KR that is capured in an issue needs to be updated, please note the change in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO for approval. Approval of the change indicates that the revised goal has been agreed upon.
+In the event that a functional objective that is captured in Ally.io needs to be updated, please note the change in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO for approval. Approval of the change indicates that the revised goal has been agreed upon.
 
 
 ## Format of OKR on the Handbook Page
 
-Top level CEO KRs will appear in the handbook. OKRs have numbers attached to them for [ease of reference, not for ranking](/handbook/communication/#numbering-is-for-reference-not-as-a-signal){:data-ga-name="ease of reference"}{:data-ga-location="body"}. In order to maintain a [single source of truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot){:data-ga-name="single source of truth"}{:data-ga-location="body"}, starting in Q4 FY21, we're putting functional objectives and KRs in epics and issues that should link to the CEO KR epics that are linked on the handbook page. We made this change, because the handbook and epics were not being consistently updated, so there often wasn't a single source of truth. We were also struggling with merge conflicts as regular changes were being made to the handbook page. 
+Top level CEO KRs will appear in the handbook. OKRs have numbers attached to them for [ease of reference, not for ranking](/handbook/communication/#numbering-is-for-reference-not-as-a-signal){:data-ga-name="ease of reference"}{:data-ga-location="body"}. In order to maintain a [single source of truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot){:data-ga-name="single source of truth"}{:data-ga-location="body"}, starting in Q2 FY23, we're putting functional objectives and KRs in Ally.io and linking this to the handbook page. We made this change, because Ally.io enhances our ability to draw connections between and cascade OKRs throughout GitLab. It also provides a SSoT for OKRs. We were also struggling with merge conflicts as regular changes were being made to the handbook page. 
 
 Functional leaders are responsible for updating the their objectives and KRs in Ally before each [Key Review](/handbook/key-review/#automated-kpi-slides){:data-ga-name="key reviews"}{:data-ga-location="body"}.
 
-## Format of Objectives and Key Results in Epics and Issues
-
-Each functional epic should appear under the relevant CEO epic. Naming conventions are captured in the chart below.
-
-<div class="panel panel-success">
-**This is the format for OKRs added as issues and epics.**
-{: .panel-heading}
-  <div class="panel-body">
-**1. [EPIC] Title: Objective as a sentence.**
-   1. [ISSUE] Title KR: Key result
-   1. [ISSUE] Title KR: Key result
-   1. [ISSUE] Title KR: Key result
-   </div>
-</div>
-
-In other words, all OKR-related epics should follow the naming convention of "Title: Objective as a sentence".
-The CEO Epic will include the Fiscal Quarter in it. Cascading epics should not. 
-
-## Example: Development's approach to OKRs
-
-<details>
-  <summary  markdown='span'>Detailed instructions with links to templates</summary>
-
-Although the steps in this example reference the Development department these steps can be used by any department within GitLab.  You may simply need to change the labels associated with the links used in the example below.
-
-### The Tracking Issue
-
-For Development we use the [Development Department Issue Board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1008667?label_name[]=Development%20Department){:data-ga-name="development issue board"}{:data-ga-location="body"} to track OKRs, organized by each sub-department.  Each group creates their own tracking issue with the description of the issue linking out to [Objectives](#objectives) and [Key Results](#key-results).  Instructions for creating the tracking issue:
-
-1. Create a tracking issue using the `engineering-okr` template ([link](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=engineering-okr&issue[title]=FYYY-QQ%20Group%20Name%20OKRs))
-1. Note: The `engineering-okr` template can be used by any department, simply remove the ~"Engineering Management" label
-1. Note: you will need to add your own department (e.g. ~Development) and sub-deparment label (e.g. ~"Enablement Sub-department" )
-1. Update the title to the following format: FYYY-Q# Group Name OKRs (e.g. FY21-Q2 Growth Sub-department OKRs)
-1. As you create [Objectives](#objectives) and [Key results](#key-results) following the instructions below, be sure to update the body of this tracking issue with the titles and links.
 
 #### Objectives
 
-The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKR section of the handbook"}{:data-ga-location="body"}.  In your Tracking Issue you will need to [create an epic](https://gitlab.com/groups/gitlab-com/-/epics/new){:data-ga-name="epics"}{:data-ga-location="body"} for each objective with the proper title [formatting](https://about.gitlab.com/company/okrs/#format-of-objectives-and-key-results-in-epics-and-issues){:data-ga-name="formatting"}{:data-ga-location="body"}.  There are currently no templates for these epics.  Steps to create an objective epic:
-
-1. [Create an epic](https://gitlab.com/groups/gitlab-com/-/epics/new){:data-ga-name="epics"}{:data-ga-location="body"} for each objective that you wish to create a key result
-1. [Format the epic title](https://about.gitlab.com/company/okrs/#format-of-objectives-and-key-results-in-epics-and-issues){:data-ga-name="format the title"}{:data-ga-location="body"} to match the company OKR title
-1. Optional - add labels for your group or sub-department or department
-1. Add the newly created epic to your manager's objective in the same category (e.g. Product, Team, Net ARR).  This is so that all objective roll up to the CEO objective of the same category and everyone can see a cascading view of objectives
-1. Update the [Tracking Issue](#the-tracking-issue) with the title and link of this newly created objective
+The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKR section of the handbook"}{:data-ga-location="body"}. 
+To add new objectives in Ally.io, follow the steps below:
+1. In Ally.io, click the add objective button. A dialogue box will open to allow you to enter key information.
+1. Enter a short but despriptive title for the objective.
+1. Identify and select the type of objective: individual, team or orgnaization.
+1. Identify the owner for the objective.
+1. Identify the time period or quarter for the objective. 
+1. Outcome: Add the outcome for the objective, this will automatically be set to 100%. The outcomes added can be measured in % or numeric.
+1. Click create and the objective will be added.
 
 #### Key Results
 
-Each [Objective](#objectives) will contain one or more Key Result issues.  Instructions:
-
-1. Create a [new issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=engineering-kr&issue[title]=FYYY-QQ%20Group%20Name%20KR:%20Text){:data-ga-name="new issue"}{:data-ga-location="body"}
-1. The title format is FYYY-QQ Group Name KR: Text (e.g. FY21-Q3 Protect Group KR: Protect our Code!)
-1. Add the following labels: ~OKR ~"Engineering Management" and the label for your department (e.g. ~"Development Department" and sub-department (e.g. ~"Dev Sub-department" )
-1. Add labels for your `group` (e.g. ~group::compliance)
-1. Assign to yourself (or appropriate person)
-1. Link to the appropriate Objective Epic
-1. Add the newly created Key Result , under the correct [objective](#objectives) listing, in the [Tracking Issue](#the-tracking-issue)
+Each [Objective](#objectives) will contain one or more Key Result issues. 
+To add new key results in Ally.io, follow the steps below:
+1. Find the objective that you created and want to add a key result. 
+1. On the right, hover over the more actions and select 'add key result', this will open a dialogue box to populate. 
+1. Enter a descriptive title for the key result.
+1. Check that the type, owner and time period are correct. 
+1. Add the outcome for the key results, outcome can either be measures in % or numeric. 
+1. Click create and the key results will appear under the corresponding objective. 
 
 </details>
 
