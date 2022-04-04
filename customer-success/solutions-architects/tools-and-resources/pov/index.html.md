@@ -13,13 +13,13 @@ description: Proof of Value (POV)
 
 ## Proof of Value (POV)
 {:.no_toc}
-Proof of value is a combination of a Proof of Concept (POC) and the communication of the expected business value of a solution.   The solution, its practical application, and how it drives specific business value are proven and documented through the POV process.
+Proof of value is a combination of a Proof of Concept (POC) and the communication of the expected business value of a solution.  The solution, its practical application, and how it drives specific business value are proven and documented through the POV process.
 
 Solution Architects are instrumental in guiding prospects and customers to carry out a successful Proof of **Value**. POV's should focus on specific prospect/customer business outcomes that cannot be achieved through other consultative interactions.
 
 Any GitLab product evaluation should remain separate from GitLab high availability architecture and implementations.
 
- Often, a POV is conducted with a GitLab trial license either using GitLab.com or a self-managed instance. Due to cost, time, and the associated opportunity risk, a POV should not be the default course of action for GitLab prospects/customers.
+Often, a POV is conducted with a GitLab trial license either using GitLab.com or a self-managed instance. Due to cost, time, and the associated opportunity risk, a POV should not be the default course of action for GitLab prospects/customers.
 
 ### POV Guidelines and Requirements
 
@@ -37,17 +37,28 @@ Any GitLab product evaluation should remain separate from GitLab high availabili
 
 ### POV Qualification
 
-- Must tie to an opportunity for a new logo or up-tier for an existing customer with a net ARR over 100K or with significant LAM
+- Must tie to an opportunity for a new logo or up-tier to ultimate for an existing customer with a net ARR over 100K or with significant LAM
 
 - It is guided by GitLab SA to run the scoped hands-on technical evaluation with the prospect/customer, collaborate with the sales (SAL, AE) with defined business outcomes and GitLab values
 
 - Prospect/customer has identified and provided available technical and business resources to perform the evaluation, discuss / assess the results to map to the outcomes and value
 
-- Success criteria of the POV are defined to drive next step in the deal process
+- Top business drivers are identified with POV scope, success criteria of the POV are defined to execute the POV and subsequently drive next step in the deal process
 
-- Must identify the champion and economic buyers and they must be in agreement (e.g., “sign-off”) on the success criteria
+- Must identify the champion and economic buyers and they must be in agreement (e.g., “sign-off”) on the success criteria; faciliate the executive connection and sponsorship
 
 - A Command Plan is populated in Salesforce for the opportunity
+
+- Top customer business values mapped to one of the GitLab solutions: DevSecOps, Software Compliance, Automated Software Delivery, and cumulatively DevOps Platform.
+
+### POV Scope and Acceptance
+
+SA working with SAL and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.
+
+- [DevSecOps](/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
+- [Software Compliance](/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
+- [Automated Software Delivery](/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
+- [DevOps Platform cumulatively](/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
 
 ### Tracking a POV in Salesforce
 
