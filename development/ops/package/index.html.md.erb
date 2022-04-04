@@ -385,13 +385,16 @@ A merge request with the following properties:
 
 A Package group member will adopt the community contribution with the following tasks:
 
-* Confirm the community merge request (MR) is properly [triaged](https://about.gitlab.com/handbook/engineering/quality/merge-request-triage/). This step includes important labeling for work type, stage and group, plus the `Community Contribution` label.
+* Confirm the community merge request (MR) is properly [triaged](/handbook/engineering/quality/merge-request-triage/). This step includes important labeling for [work type classification](/handbook/engineering/metrics/#work-type-classification), stage and group and the `Community Contribution` label.
+* If the MR addresses an open issue, ensure that the issue is still valid and the description is up to date. Consider closing the issue and the MR if it is outdated, following the [closing policy for issues and merge requests](https://docs.gitlab.com/ee/development/contributing/#closing-policy-for-issues-and-merge-requests).
+* Evaluate the review effort and assign it using `package-review-weight::x` labels.
+* Consider reaching out to MR coaches or using the reviewer roulette to leverage support and provide contributors with a smoother and quicker experience.
 * Assign themselves to the issue. This helps to identify a DRI for that issue in the milestone planning.
 * Assign the community contributor to the issue. Note that this can only be done with quick actions `/assign @contributor`.
 * Assign the current milestone to the issue. This facilitates milestone planning and tracking.
 * Assign the current milestone to the merge request.
 * Make sure that the issue has the proper labels including work type, categories, etc. Do not forget to apply `workflow::in dev` to signal that the issue is already in development.
-* Make sure that the merge request has the proper labels. You can use `copy_metadata` quick action to copy the labels from the issue.
+* Make sure that the merge request has the proper labels. You can use `/copy_metadata` quick action to copy the labels from the issue.
 * Set aside some time per week to assist and coach the community contributor.
 * Make sure that the effort is reviewed by the product manager and the product designer.
 * Make sure that the reviews are happening. The team member can even suggest reviewers.
