@@ -100,36 +100,14 @@ When a new campaign is being developed, the campaign core team will work togethe
 <!-- DO NOT CHANGE ANCHOR -->
 A value play's intended audience is sales (SALs, SAs, TAMs, SDR as applicable) to arm the sales teams as a part the outbound motion. In some cases, there will also be inbound marketing campaign component. The playbook prepares the sales person with both prescriptive actions to take as part of the outbound motion, as well as how to respond in the case of a supporting inbound marketing campaign.
 
+*Note: this section to be updated in conversation with Allison Gleisner, or point instead to her updated handbook page(s).*
+
 The Value Play should include (at minimum):  
 - Context (promise/offer)
 - Who to meet with
 - What to say
 - What to show/info to use
 - How to measure progress
-
-Value Plays should be delivered as a handbook page, or as an interactive guide leveraging PathFactory - or both.
-
-## Sales enablement to support a Sales Play and/or GTM Campaign
-{: #sales-enablement}
-<!-- DO NOT CHANGE ANCHOR -->
-_The list below includes potential and recommended items to include in a Value Play. Not all Value Plays will include the full list, and the Core Team - in collaboration across Marketing and Sales - will determine need and timeline for the items to be included, and may add additional items for which there is an oranized plan to leverage._
-
-**Potential/Recommended supporting sales enablement:**
-
-- Value play
-- Value play training (SDR, Sales, Partners)
-- ABM named accounts, Focus Account Lists
-- Target personas, key contacts, prospect criteria, and other competitive and intel sources
-- Campaigns related to this Value Play
-- LinkedIn InMail campaigns/templates
-- Email campaigns/templates
-- Outreach guide with intro messages, objection handling, differentiation
-- Recommended outreach sequences
-- Pathfactory tracks for sales use (or use of _Pathfactory for Sales_ tool in SFDC)
-- Video intros and other assets that can be sent by sales to prospects (referenced by value play)
-- ROI training and support, if relevant
-- Value Play specific SFDC Reporting
-
 
 ### Beyond the GTM Motion Core Teams
 {: #beyond-core-teams}
@@ -147,6 +125,8 @@ If your team or name is not listed as part of the core team, don't worry! As par
 - [#gtm-ci-cd](https://gitlab.slack.com/archives/C01DF0YMKCP)
 - [#gtm-devops-platform](https://gitlab.slack.com/archives/C01NLEXE34L)
 - [#gtm-gitops](https://gitlab.slack.com/archives/C0119FNPA84)
+- [#gtm-devsecops](https://gitlab.slack.com/archives/C039VDJ41GE)
+* [#gtm-autosd](https://gitlab.slack.com/archives/C039Z8DK2JD)
 
 ## SSoT All-Marketing Calendar
 {: #marketing-calendar .gitlab-purple}
