@@ -1402,11 +1402,15 @@ As a GitLab Team Member, you can view the active slackbots that we use in Slack,
 
 ### Yerbo Slack App
 
-The free version of the [Yerbo](https://blog.yerbo.co/) Slack app is available for team members as a tool to track and monitor their burnout risk. The app is currently available for all team members in Slack. 1x per week, the app sends a message to users and asks them to complete a 2-minute self reflective survey. Answers are aggregated over time and display in a personal dashboard where team members can view their potential risk of burnout and take action to improve.
+Yerbo is a mental well-being tool that helps teams track burnout and monitor risk through [science-based](https://yerbo.co/methodology/) questions and take action to build a healthier work-life. The free version of the [Yerbo](https://blog.yerbo.co/) Slack app is available for team members. To start using Yerbo as an individual, search for and click the app in Slack. For quesitons or to provide feedback, reach out in the [#yerbo-app Slack channel](https://app.slack.com/client/T02592416/C02PR8QKMR6).
 
-To start using Yerbo, search for and click the app in Slack.
+#### How the Yerbo app works
 
-For quesitons or to provide feedback, reach out in the [#yerbo-app Slack channel](https://app.slack.com/client/T02592416/C02PR8QKMR6).
+1x per week, the app sends a message to users and asks them to complete a 2-minute self reflective survey. Answers are aggregated over time and display in a personal dashboard where team members can view their potential risk of burnout and take action to improve. Learn more about how the app works by watching [this video](https://yerbo.wistia.com/medias/pbuaibuxfz). Below is a screenshot of the in-app dashboard view.
+
+![yerbo dashboard view](/sites/handbook/source/handbook/communication/yerbo-dashboard.png)
+
+Read more about how GitLab combats [burnout, isolation, and anxiety in an all-remote workplace](/company/culture/all-remote/mental-health/).
 
 ### Why are we upgraded to the Plus tier?
 
