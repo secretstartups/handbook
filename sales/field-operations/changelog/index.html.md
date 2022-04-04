@@ -16,6 +16,12 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q1-FY23
 
+### 2022-04-04 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/107))
+
+**Sales Ops: [Chorus Scheduler](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2683#proposed-controls)**
+
+**Sales Ops: [Chorus License Change for Managers & Field Operations](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#swim-lanes)**
+
 ### 2022-03-21 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/100))
 
 **Deal Desk: [New Quote Approval Requirement for Annually Paid Renewals](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2460)**
