@@ -32,6 +32,7 @@ We promise that:
 1. The product will be available for download from a link above the fold on the desktop homepage without you having to submit an email address or sign in.
 1. We will always allow you to [benchmark the performance](https://news.ycombinator.com/item?id=18103162) of GitLab.
 1. We will make our Free tier easily discoverable.
+1. We will always make it clear what is proprietary and what is open source code. This will be implemented with a separate directory for EE code and a Git repo downstream that is open source only.
 
 
 ## Software as a Service
