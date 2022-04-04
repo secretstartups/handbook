@@ -38,7 +38,8 @@ To initiate your Parental Leave, submit the dates in PTO by Roots under the Pare
 
 **Maternity Protection**
 
-**Maternity Leave**: Regardless of the length of service, under the Maternity Protection Act, pregnant team members are entitled to 6 weeks of leave before their estimated due date. If a woman does not give birth on the expected day, the period of protection before childbirth is shortened or extended accordingly. Team members may choose to opt-out of the six-week maternity protection period before their due date. This declaration can be revoked at any time with effect for the future.
+**Maternity Leave**: 
+Regardless of the length of service, under the Maternity Protection Act, pregnant team members are entitled to 6 weeks of leave prior to their estimated due date. If a woman does not give birth on the expected day, the period of protection before childbirth is shortened or extended accordingly. Team members may choose to opt-out of the six-week maternity protection period before their due date. This declaration can be revoked at any time with effect for the future.
 
 The Maternity Protection period after the delivery is 8 weeks following the birth (or 12 weeks in case of multiple or premature birth and if the child is medically diagnosed with a disability within the meaning of sec. 2 para. 1 sentence 1 of Book 9 of the Social Code (Neuntes Buch Sozialgesetzbuch) before the end of eight weeks after delivery). Team members may not opt-out of the maternity protection period following childbirth. In case of premature delivery, the period of protection after delivery is extended by the period of reduction of the period of protection before delivery; if the child has been diagnosed with a disability in the sense described above, the period of protection after delivery is extended only if the woman applies for it. The team member will receive full payment during this period. GitLab may receive reimbursement of these payments from the team member's health insurance carrier. Please notify the Absence Management team at `leaves@gitlab.com` of your health insurance carrier name and your insurance number.
 
@@ -46,7 +47,8 @@ Under the Maternity Protection Act, a breastfeeding woman may request time off d
 
 **Parental Leave**
 
-**Parental Leave**: All team members who are or become parents are entitled to take up to three years of Parental Leave.
+**Parental Leave**: 
+All team members who are or become parents are entitled to take up to three years of Parental Leave.
 
 Regardless of the length of service, under German law employees may take up to three years of parental leave following the child’s birth, adoption or foster care placement. The entitlement is valid until a child reaches the age of three years. A period of up to 24 months may be taken between the child's third birthday and the completion of his or her eighth year of life. The parental leave can be distributed over three time periods, without approval of the employer. Distribution over further periods is possible only with the employer's consent.
 
@@ -73,12 +75,20 @@ In case a woman takes parental leave subsequently to the child’s birth, the pe
 
 - Team members must register their parental leave, in writing (wet signature), 7 weeks before the desired start date if your child is under 3 years old, and 13 weeks prior to the desired start date if your child is between 3 and 8 years old. At the same time it must be declared for which periods within two years parental leave is to be taken.
 - A request for parental leave by facsimile or email does not comply with the written form requirement and is therefore void.
-- Please register your leave, in addition to the written application, by emailing total-rewards@gitlab.com and selecting the `Parental Leave` option in PTO by Roots.
+- Please register your leave, in addition to the written application, by emailing leaves@gitlab.com.
+- Submit your Parental Leave in PTO by Roots by selecting the `Parental Leave` option.
+
 - Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 **Part-time work during parental leave**
 
-During the parental leave, employees are statutorily entitled to part-time work (15 to 30 hours per week) provided that the employer usually employs more than 15 employees, the employment relationship exists for at least six months, the reduction is not opposed by urgent operational reasons and the employee has submitted the request in writing (wet signature, see above) seven weeks for the period up to the child’s third birthday and 13 weeks for the period between the child’s third birthday and the completion of his or her eighth year of life before the start of the part-time work. The request must include the start and scope of the reduced working hours.
+During Parental leave, employees are statutorily entitled to part-time work (15 to 30 hours per week) if:
+
+* The employer usually employs more than 15 employees, the employment relationship exists for at least six months, 
+* The reduction is not opposed by urgent operational reasons, and 
+* The employee has submitted the request in writing (wet signature, see above) seven weeks for the period up to the child’s third birthday and 13 weeks for the period between the child’s third birthday and the completion of his or her eighth year of life before the start of the part-time work. 
+
+The request must include the start and scope of the reduced working hours.
 
 For expecting fathers, team members will need to apply for a state benefit (Basiselterngeld, ElterngeldPlus or Partnerschaftsbonus). If a team member is [eligible for Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement Parental Leave pay for up to 16 weeks of Parental Leave. Please notify the Absence Management team at `leaves@gitlab.com` which state benefit you are applying for and how much you will be receiving so that payroll can process the appropriate supplementary amount. Team members can find further information on parental leave benefits via the [Federal Ministry for Family Affairs, Senior Citizens, Women and Youth](https://www.elterngeld-digital.de/ams/Elterngeld).
 
@@ -86,7 +96,7 @@ https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-bene
 
 **Vacation Leave**
 
-Team members are entitled to at least 20 vacation days which run concurrently with GitLab PTO. The days will accrue from the start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the team member was unable to take the holiday due to operational or personal reasons. Team members must designate all vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
+Team members are entitled to at least 20 vacation days which run concurrently with GitLab's PTO policy. The days will accrue from the team member's start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the team member was unable to take the holiday due to operational or personal reasons. Team members must designate all vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
 
 ## Long-term Care Insurance (Pflegeversicherung)
 
@@ -94,26 +104,40 @@ Team members are entitled to at least 20 vacation days which run concurrently wi
 
 **Family Care Leave and Nursing Leave**
 
-Per the [Family Care Leave Act and the Care Leave Act](https://www.bundesgesundheitsministerium.de/service/begriffe-von-a-z/f/freistellungen-nach-pflegezg-und-fpfzg.html), in certain cases team members are able to receive partial or full care allowance as a wage replacement benefit. This is granted on request by the long-term care insurance (Pflegeversicherung) of the team member in need of care. Team members must provide proof of the relevant illness of the close relative by means of a medical certificate. Please contact the German citizen hotline for health insurance at (030) 340 60 66-01 or the German Federal Ministry of Health at poststelle (at) bmg.bund.de for more information. Please also review the [Care Guide](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Pflege/Broschueren/BMG_RG_Pflege_barr.pdf)
+Per the [Family Care Leave Act and the Care Leave Act](https://www.bundesgesundheitsministerium.de/service/begriffe-von-a-z/f/freistellungen-nach-pflegezg-und-fpfzg.html), in certain cases team members are able to receive partial or full care allowance as a wage replacement benefit. This is granted on request by the long-term care insurance (Pflegeversicherung) of the team member in need of care. Please contact the German citizen hotline for health insurance at (030) 340 60 66-01 or the German Federal Ministry of Health at poststelle (at) bmg.bund.de for more information. Please also review the [Care Guide](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Pflege/Broschueren/BMG_RG_Pflege_barr.pdf)
 
-- Team members who need time to organize or ensure the care of a close relative in need of care in an acute care situation can take partial paid leave for up to ten days; 
-- Team members who care for a close relative or a close relative at home can also, under certain conditions, take full or partial leave of work for up to six months;
-- Team members who accompany a close relative in the last phase of life can claim full or partial leave from work for up to three months;
-- Team members who care for a close relative in need of care in a home environment are entitled to family care leave, i.e. to a partial leave of absence for one continuous period of up to 24 months with a minimum of 15 working hours per week;
-- If the relative is underage, there is an entitlement to leave even if care takes place outside the home environment. 
+*Eligibility:*
 
-This leave runs concurrently with GitLab PTO. When partial paid leave is claimed, GitLab will supplement the team member's benefit so that they receive 100% of their pay for the first 25 days of leave. Please communicate with the Absence Management team at `leaves@gitlab.com` to ensure your eligibility and awareness of your proposed leave. 
+* Team members who need time to organize or ensure the care of a close relative in need of care in an acute care situation leave for up to ten days; 
+* Team members who care for a close relative or a close relative at home can also, under certain conditions, take full or partial leave of work for up to six months.
+    - GitLab must be informed at least ten working days before the leave commences. 
+
+* Team members who accompany a close relative in the last phase of life can claim full or partial leave from work for up to three months;
+* Team members who care for a close relative in need of care in a home environment are entitled to family care leave, i.e. to a partial leave of absence for one continuous period of up to 24 months with a minimum of 15 working hours per week;
+* If the relative is underage, there is an entitlement to leave even if care takes place outside the home environment. 
+
+This leave runs concurrently with GitLab's PTO policy. When partial paid leave is claimed, GitLab will supplement the team member's benefit so that they receive 100% of their pay for the first 25 days of leave. Please contact the Absence Management team at `leaves@gitlab.com` to ensure your eligibility and provide awareness of your proposed leave. 
+
+How to Apply:
+- Team members must email leaves@gitlab.com proof of the relevant illness of the close relative by means of a medical certificate. 
+
 
 ## Sick Leave
 
 #### Statutory Sick Leave
 
-- Team members are entitled to 100% of their salary to be paid by GitLab for the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab PTO. Team members should select `Out Sick` in PTO by Roots to initiate leave. Team members must also upload a medical certificate by the third day of absence to BambooHR > Documents > Employee Uploads folder. Alternatively, please email the medical certificate to the Absence Management team via `leaves@gitlab.com` and will file this to BambooHR accordingly.
-- If the team member is sick for more than six weeks, they can apply for "Krankengeld" from their health insurer. The benefit amount will be less than the team member's salary.
+Team members are entitled to 100% of their salary, to be paid by GitLab, for up to the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab's 25-day "Don't Ask, Must Tell" PTO policy. 
+
+To Apply:
+* Team members should email leaves@gitlab.com to inform the Absence Management team of their need for sick leave. 
+    - Team members should select `Out Sick` in PTO by Roots. 
+* By the third day of absence, the team member will need to provide (via email) a medical certificate to leaves@gitlab.com.  A team member may also choose to upload a copy of the medical certificate for their records in BambooHR> Documents > Employee Uploads folder.
+
+* If a team member is sick for more than six weeks, they can apply for "Krankengeld" from their health insurer. The benefit amount will be less than the team member's salary.
 
 #### During COVID-19
 
-During the COVID-19 Pandemic, per German labor law, team members are required to present a doctor's certificate if they need to take more than 3+ consecutive sick days. We encourage all team members to meet with a _virtual doctor_ for the certificate to avoid the need to leave home. The team member will send doctor's note to the Team Member Relations Specialists at teammemberrelations@gitlab.com. The Team Member Relations Specialists will file this in their BambooHR profile and forward to Payroll for processing.
+During the COVID-19 Pandemic, per German labor law, team members are required to present a doctor's certificate if they need to take more than 3+ consecutive sick days. We encourage all team members to meet with a _virtual doctor_ for the certificate to avoid the need to leave home. The team member will send doctor's note to the Absence Management team at leaves@gitlab.com. The Absence Management team will file this in the team member's BambooHR profile and forward to Payroll for processing.
 
 **Infection Protection Act**
 

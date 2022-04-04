@@ -114,9 +114,82 @@ Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto
 * This leave runs concurrently with GitLab PTO.  Team members should select `Vacation` in PTO by Roots to ensure that leave entitlements are properly tracked.  For team members who are not covered by a modern award or enterprise agreement, they may be asked to take a period of paid annual leave if such request is reasonable, such as when a team member has accrued an excessive amount of paid annual leave.
 
 #### Personal/Carer’s Leave
-* Team members will be entitled to personal/carer’s leave in accordance with the Fair Work Act 2009 (Cth) as varied from time to time.  Currently that entitlement is 10 days of paid personal/carer’s leave for each year of continuous service for full-time team members and pro rata for part-time team members based on ordinary hours of work.
-* Personal/carer’s leave is cumulative and accrues progressively.
-* This leave runs concurrently with GitLab PTO.  Team members should select `Out Sick` in PTO by Roots to ensure that leave entitlements are properly tracked.  If you wish to take Carer's Leave but don't want to change your Slack status to Out Sick, send your Carer's Leave request to leaves@gitlab.com and the Absence Management team will manually add your leave to BambooHR and notify payroll.
+Sick and carer's leave (also known as personal leave or personal / carer's leave) lets an employee take time off to help them deal with personal illness, caring responsibilities and family emergencies. Team members will be entitled to personal/carer’s leave in accordance with the Fair Work Act 2009 (Cth) as varied from time to time.  
+
+**Paid Carer's Leave:**
+
+Currently team members are entitled to 10 days of paid personal/carer’s leave for each year of continuous service for full-time team members and pro rata for part-time team members based on ordinary hours of work.
+    - Personal/carer’s leave is cumulative and accrues progressively.
+    - This leave runs concurrently with GitLab's PTO policy.   
+
+*Eligibility:*
+
+A team member can take paid carer's leave to care for or support a member of their immediate family or household who is sick, injured or has an unexpected emergency.
+
+An immediate family member is a:
+
+* spouse or former spouse
+* de facto partner or former de facto partner
+child
+* parent
+* grandparent
+* grandchild
+* sibling, or
+* child, parent, grandparent, grandchild or sibling of the employee's spouse or de facto partner (or former spouse or de facto partner)
+
+*This definition includes step-relations (for example, step-parents and step-children) as well as adoptive relations
+
+* A household member is any person who lives with the employee
+
+*How to Apply:*
+
+1. Email leaves@gitlab.com at least 1 day prior to the start date (whenever possible) 
+    - Include a medical certificate or statutory declaration noting you weren’t able to work because of an illness or injury, or needed to provide care or support to an immediate family or household member (because of an illness, injury, or unexpected emergency affecting the family member).
+
+2. Select `Out Sick` in PTO by Roots to ensure that leave entitlements are properly tracked.      
+    - If you wish to take Carer's Leave but don't want to change your Slack status to Out Sick, send your Carer's Leave request to leaves@gitlab.com and the Absence Management team will manually add your leave to BambooHR and notify payroll.
+
+**Unpaid Carer's Leave:**
+
+All team members are entitled to 2 days unpaid carer’s leave.  
+
+*Eligibility:*
+
+Team Members are eligible for 2 days unpaid carer’s leave each time an immediate family member or household member of the employee needs care and support because of:
+
+* Illness
+* Injury or
+* An unexpected emergency
+
+Full-time team members can only get unpaid carer’s leave if they don’t have any paid sick / carer’s leave left.
+
+An immediate family member is a:
+
+* spouse or former spouse
+* de facto partner or former de facto partner
+child
+* parent
+* grandparent
+* grandchild
+* sibling, or
+* child, parent, grandparent, grandchild or sibling of the employee's spouse or de facto partner (or former spouse or de facto partner).
+
+*This definition includes step-relations (for example, step-parents and step-children) as well as adoptive relations.
+
+* A household member is any person who lives with the employee.
+
+Unpaid carer’s leave can be taken:
+
+* In 1 continuous period (for example, 2 working days in a row) or,
+* In separate periods as agreed between the employee and employer (for example, 4 half days could be taken in a row).
+
+*How to Apply:*
+
+1. Email leaves@gitlab.com at least 1 day prior to the start date (whenever possible) 
+    - Include a medical certificate or statutory declaration noting you weren’t able to work because of an illness or injury, or needed to provide care or support to an immediate family or household member (because of an illness, injury, or unexpected emergency affecting the member).
+
+2. Select `Out Sick` in PTO by Roots to ensure that leave entitlements are properly tracked.      
+    - If you wish to take Carer's Leave but don't want to change your Slack status to Out Sick, send your Carer's Leave request to leaves@gitlab.com and the Absence Management team will manually add your leave to BambooHR and notify payroll.
 
 #### Long Service Leave
 * Team members may be eligible for long service leave in accordance with state/territory based legislation as varied from time to time.
@@ -145,8 +218,31 @@ Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto
 
 <summary>Compassionate and Bereavement Leave</summary>
 
-* All employees are entitled to 2 days of paid compassionate leave in the event that an immediate family or household member dies or suffers a life threatening illness or injury.
-* This leave runs concurrently with GitLab PTO. Team members should select Bereavement Leave in PTO by Roots to ensure that leave entitlements are properly tracked.
+All team members are entitled to 2 days of paid compassionate leave if:
+
+* A member of their immediate family or household dies, or contracts or develops a life-threatening illness or injury, 
+* A baby in their immediate family or household is stillborn, 
+* They have a miscarriage,
+* Their current spouse or de facto partner has a miscarriage
+
+An immediate family includes:
+
+* spouse or former spouse
+de facto partner or former de facto partner
+* child
+* parent
+* grandparent
+* grandchild
+* sibling
+
+Immediate family members may also include:
+* the immediate family of the employee's spouse or de facto partner (or former spouse or de facto partner)
+* step-relations (for example, step-parent and step-child)
+* adoptive relations
+
+Team Members can take compassionate leave for other relatives (for example, cousins, aunts and uncles) if they are a member of the employee's household or if their employer agrees.
+
+This leave runs concurrently with GitLab PTO. Team members should select `Bereavement Leave` in PTO by Roots to ensure that leave entitlements are properly tracked.
 
 </details>
 
@@ -248,14 +344,23 @@ _Note: To stay in compliance with local laws we would follow [the New Zealand go
 * Team members in New Zealand are entitled to 10 days' sick leave after six months’ current continuous employment with GitLab. For each 12-month period after meeting the above criteria, each team member gets at least ten days’ sick leave. 
 * If in any year the team member doesn’t meet the criteria, then they don’t get any new sick leave entitlement, but can use their sick leave balance which may have carried over. An employee may re-qualify for sick leave as soon as they meet the criteria.  The maximum amount of sick leave that can be accumulated under the Holidays Act 2003 is 20 days.
 
-* Sick Leave runs concurrently with GitLab PTO. Team members must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that sick leave entitlement is properly tracked.
+* Sick Leave runs concurrently with GitLab PTO. 
 
-* In accordance with the Holidays Act, GitLab may require a medical certificate if you have been absent due to illness. 
+*How to Apply:*
+* Team members must contact leaves@gitlab.com when reporting their leave.  
+    - In accordance with the Holidays Act, GitLab may require a medical certificat
+
+* Designate any time off for illness as `Out Sick` in PTO by Roots to ensure that sick leave entitlement is properly tracked.
+
 
 * Unused sick leave will not be paid out to the team member upon termination of employment.
 
 **Injured Leave**
-* When the team member is taking leave for the first week of a non-work accident, they can use sick leave and/or annual leave if they have any. This leave runs concurrently with GitLab PTO. Team members must designate time off for injury as `Out Sick` or `Vacation` in PTO by Roots if they wish to use sick leave or annual leave for the first week of an injury. Team members must notify the Absence Management team (leaves@gitlab.com) as soon as possible when they will need to go out on injured leave.
+* When the team member is taking leave for the first week of a non-work accident, they can use sick leave and/or annual leave if they have any. This leave runs concurrently with GitLab PTO. 
+
+*How to Apply:*
+* Team members must notify the Absence Management team (leaves@gitlab.com) as soon as possible when they will need to go out on injured leave.
+* Team members must designate time off for injury as `Out Sick` or `Vacation` in PTO by Roots if they wish to use sick leave or annual leave for the first week of an injury. 
 
 * If the leave will last longer than five days and is [covered by the Accident Compensation Corporation (ACC) scheme](https://www.acc.co.nz/im-injured/what-we-cover/), GitLab will top up the ACC payment from 80 to 100% for the first 25 days.
 
@@ -276,7 +381,8 @@ Extended Leave
 
 Special Leave
 * Team members who are pregnant can also take up to 10 days of unpaid special leave for pregnancy-related reasons such as antenatal classes, scans, or midwife appointments. This is in addition to primary carer leave. 
-* This leave will run concurrently with GitLab PTO. If you do not want to select `Out Sick` in PTO by Roots, you may email total-rewards@gitlab.com with the date(s) that you will be taking special leave. 
+* This leave will run concurrently with GitLab PTO. 
+    - If you do not want to select `Out Sick` in PTO by Roots, you may email `leaves@gitlab.com` with the date(s) that you will be taking special leave. 
 
 Partner Leave
 * If you are a spouse or partner of a primary carer and have been employed for at least six months, but less than twelve months, you are entitled to one week of unpaid partner's leave. 
@@ -285,8 +391,12 @@ Partner Leave
 * Team members must select `Parental Leave` in PTO by Roots to ensure that their time off is properly tracked.
 
 #### Applying for Parental Leave in New Zealand
-* To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
-* To apply for government-funded Parental Leave pay, please submit your application via [IRD](https://www.ird.govt.nz/paid-parental-leave/apply). The Absence Management team will have to fill out the "Employer Declaration" part of the [form](https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir800---ir899/ir880/ir880-2020.pdf).
+* To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. 
+    - Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+
+* To apply for government-funded Parental Leave pay, please submit your application via [IRD](https://www.ird.govt.nz/paid-parental-leave/apply). 
+   - The Absence Management team will have to fill out the "Employer Declaration" part of the [form](https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir800---ir899/ir880/ir880-2020.pdf).
+
 * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave.
 
 #### Other Types of Leave
@@ -295,8 +405,14 @@ Partner Leave
 
 <summary>Stress Leave</summary>
 
-* A team member with workplace stress that amounts to an illness may take sick leave. The [ordinary conditions for sick leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#sick-leave) apply. If the team member has been sick for a period of 3 or more consecutive days, the team member may be asked to provide a medical certificate.
-* This leave runs concurrently with GitLab PTO. Team members must designate Stress Leave as `Out Sick` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+* A team member with workplace stress that amounts to an illness may take sick leave. The [ordinary conditions for sick leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#sick-leave) apply. 
+* This leave runs concurrently with GitLab PTO. 
+
+*How to Apply:*
+* Team members must contact `leaves@gitlab.com` to report their leave.  
+   - If the team member has been sick for a period of 3 or more consecutive days, the team member may be asked to provide a medical certificate.
+
+* To designate and track Stress Leave properly, select as `Out Sick` in PTO by Roots.
 
 For more information related to this policy, please reivew the [Employment New Zealand website](https://www.employment.govt.nz/leave-and-holidays/other-types-of-leave/stress-leave/)
 
@@ -307,7 +423,10 @@ For more information related to this policy, please reivew the [Employment New Z
 <summary>Leave for Defence Force Volunteers</summary>
 
 * Under the Volunteers Employment Protection Act 1973, all team members who are members of the Armed Forces are entitled to unpaid job-protected leave during military training and/or service. 
-* This leave runs concurrently with GitLab PTO. Team members must email the Absence Management team (leaves@gitlab.com) as soon as possible to notify them of the first date of leave and, if possible, the end date of their leave.
+* This leave runs concurrently with GitLab PTO. 
+
+*How to Apply:*
+* Team members must email the Absence Management team `leaves@gitlab.com` as soon as possible to notify them of the first date of leave and, if possible, the end date of their leave.
 * Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
 
 For more information related to this policy, please reivew the [Employment New Zealand website](https://www.employment.govt.nz/leave-and-holidays/other-types-of-leave/defence-force-volunteers/)
@@ -319,7 +438,7 @@ For more information related to this policy, please reivew the [Employment New Z
 <summary>Election Voting Leave</summary>
 
 * Team members are entitled to 2 hours of paid time off to vote in general (parliamentary) elections on polling day if they are registered as an elector of the district and have not had a reasonable opportunity to vote before starting work. GitLab encourages you to [take time off to vote](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) or volunteer at the polls. 
-* This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+* This leave runs concurrently with GitLab PTO. Team members must select `Public Service/Volunteer` in PTO by Roots to ensure that statutory entitlements are properly tracked.
 
 For more information related to this policy, please reivew the [Employment New Zealand website](https://www.employment.govt.nz/leave-and-holidays/other-types-of-leave/election-voting-leave/)
 
