@@ -39,9 +39,9 @@ However, we may be able to work out priority or overnight delivery. We will not 
 
 If you are a hiring manager or member of the hiring/recruiting team, you may check the status and content of a new hires order in the [IT Equipment Order Process Project](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/it-equipment-order-processing)
 
-Current Delivery Timelines for Gitlab Hardware
+Estimated Delivery Timelines for Gitlab Hardware
 
-US New Hires - 1-2 weeks (Apple) and 4-6 weeks (Dell)
+US New Hires - 4-6 weeks (Apple M1 Max Model) and 4-6 weeks (Dell)
 Non-US New Hires - 2-3 weeks (Apple) and 6-9 weeks (Dell)
 
 ### Key Performance Indicators
