@@ -475,7 +475,24 @@ In the above order, a role gives more permissions in Airflow.
 
 #### Custom roles
 
-On top of the existing default roles, also custom roles are implemented.
+On top of the existing default roles, the following custom roles are also implemented.
+
+1. Profile
+1. Analytics_engineer
+
+##### Profile role
+
+In order for non-admin users to update or reset their passwords they need to be given permissions to access their profiles and reset their passwords. This is includes the following permissions and should be granted to all non-admin users.
+
+- `can this form post on ResetMyPasswordView`
+- `can this form get on ResetMyPasswordView`
+- `can this form post on UserInfoEditView`
+- `can this form get on UserInfoEditView`
+- `resetmypassword on UserDBModelView`
+- `can edit on UserDBModelView`
+- `can userinfo on UserDBModelView`
+- `userinfoedit on UserDBModelVie`
+
 
 ##### Analytics_engineer role
 
@@ -490,7 +507,8 @@ In order to start a DAG, at least `User` permissions is needed. But in order to 
 
 To follow the [Principle of Least Privilege](https://about.gitlab.com/handbook/engineering/security/access-management-policy.html#principle-of-least-privilege) the 4 mentioned permissions are added to a new role: `Analytics_engineer`. 
 
-All Analytics Engineers will have `User` + `Analytics_engineer` to give them the right permissions in Airflow to execute a DAG.
+All Analytics Engineers will have `User` +  `Profile` + `Analytics_engineer` to give them the right permissions in Airflow to execute a DAG.
+
 
 ## Postgres Pipeline 
 
