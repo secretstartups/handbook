@@ -24,7 +24,7 @@ Read more about what we do at GitLab on our [Direction](/direction/product-analy
 * [Dave Peterson](/company/team/#dpeterson1): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
 * [Nicole Galang](/company/team/#nicolegalang): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
 * [Neil Raisinghani](/company/team/#nraisinghani): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
-* [TBH](https://boards.greenhouse.io/gitlab/jobs/5429229002): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
+* [Matthew Petersen](/company/team/#matthewpetersen): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
 
 As part of the [Research & Development (R&D) Data Fusion Team](/handbook/business-technology/data-team/#data-fusion-teams), 
 the product analysts also work closely with members from the central Data team.
