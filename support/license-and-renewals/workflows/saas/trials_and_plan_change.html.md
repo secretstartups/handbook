@@ -62,10 +62,10 @@ In the meantime, if you receive one of these requests, ask the requester that th
 If the requester still wants to go ahead:
 
 1. Follow the [plan change requests using GitLab.com instructions](#using-gitlabcom-admin).
-1. Add a comment on the issue that the change has been made with a link to the namespace admin page.
-1. Set yourself as assignee.
-1. Set an appropriate due date.
-1. Once the due date has been reached, change the plan back to the original, and remove the admin note instead of adding another one.
+1. Add a comment on the ticket that the change has been made with a link to the namespace admin page.
+1. Set an appropriate due date and place the ticket on hold.  The  ticket will reopen on the due date.
+1. Once the due date has been reached, change the plan back to the original, and **remove** the admin note referencing the change.
+1. In the Zendesk ticket mark the task as 'done', and close the ticket.
 
 If the namespace accidentally gets downgraded to Free and the customer no longer wants to be on the Ultimate trial, use the [force associate](../workflows/customersdot/mechanizer.html#force-associate). Otherwise, manually changed them back to the Ultimate plan.
 
