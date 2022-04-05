@@ -48,7 +48,7 @@ GitLab's current implementation of Error Budgets is only using some of the above
 
 ## Which types of errors are included?
 
-Web requests that result in a `500` status code error are counted. In Sidekiq, jobs that fail due to an unhandled exception are counted. 
+Web requests that result in a `500` status code error are counted. In Sidekiq, jobs that fail due to an unhandled exception are counted.
 
 If a group has [custom SLIs](https://docs.gitlab.com/ee/development/application_slis), or there's an SLI with a fixed feature category configured in our [metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog), then those errors will also be counted.
 
@@ -64,7 +64,7 @@ The [Engineering Allocation Process](/handbook/engineering/#engineering-allocati
 
 The initial iteration of error budgets at GitLab aims to introduce objective data and establish a system that will create greater insight into how individual features are performing over an extended period of time. This can be used by the organization to correctly allocate focus, ensure that the risk is well balanced and that the system as a whole remains healthier for extended periods of time.
 
-Assigning error budgets down to the feature category sets a baseline for specific features, which in turn should ensure alignment on prioritizing what's important for GitLab SaaS.  
+Assigning error budgets down to the feature category sets a baseline for specific features, which in turn should ensure alignment on prioritizing what's important for GitLab SaaS.
 
 ## How do we determine the highest priority improvements?
 
@@ -140,7 +140,7 @@ Stage groups can use their dashboards to explore the cause of their budget spend
 
 The formula for calculating availability:
 ```
-the number of operations with a satisfactory apdex + the number of operations without errors    
+the number of operations with a satisfactory apdex + the number of operations without errors
 /
 the total number of apdex measurements + the total number of operations
 ```
@@ -150,7 +150,7 @@ This gives us the percentage of operations that completed successfully and is co
 (1 - stage group availability) * (28 * 24 * 60)
 ```
 
-Apdex and Error Rates are explained in more detail on [the handbook page](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability).  
+Apdex and Error Rates are explained in more detail on [the handbook page](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability).
 
 Error Budget Spend information is available on the [Error Budgets Overview Dashboard](https://app.periscopedata.com/app/gitlab/891029/Error-Budgets-Overview) in Sisense.
 
@@ -172,7 +172,7 @@ Updates to feature categories only change how future events are mapped to stage 
 
 ### Contract
 
-All feature categories are expected to perform within their Error Budget regardless of traffic share. This ensures a consistent approach to prioritization of reliability concerns.  
+All feature categories are expected to perform within their Error Budget regardless of traffic share. This ensures a consistent approach to prioritization of reliability concerns.
 
 Error Budgets should be reviewed monthly as part of the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
 
@@ -183,7 +183,7 @@ The balance between feature development and reliability development for a featur
 | <= 20 minutes                   | Understand your spend - no further action required. |
 | > 20 minutes                   | Commitment to [reliability/availability improvements](https://about.gitlab.com/handbook/product/product-processes/#prioritization), feature development is secondary. |
 
-Feature categories with monthly spend above the allocated budget for three consecutive months may have additional feature development restrictions put in place.    
+Feature categories with monthly spend above the allocated budget for three consecutive months may have additional feature development restrictions put in place.
 _This is subject to change as Error Budget spend across feature categories decreases._
 
 #### Stage Groups with different error budgets
@@ -275,7 +275,7 @@ explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/39
 
 #### 3. Tune the scope of Error Budgets
 
-- Consider incorporating P1/S1 incidents into the Error Budget Calculation.  
+- Consider incorporating P1/S1 incidents into the Error Budget Calculation.
 
 ## More information
 
