@@ -579,6 +579,15 @@ Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePA
 * Workflow Rule: [Next Steps History](https://gitlab.my.salesforce.com/01Q4M000000sslN)
 * Field Update Action: [Update Next Steps History](https://gitlab.my.salesforce.com/04Y4M000000saO7)
 
+# Integrations
+
+## Integration Users
+
+- An Integration User is a dedicated (not used by any human) full Salesforce license that has a custom Profile, Permission Set, and is used for any third-party integrations, like marketing automation, CTIs, data enrichment tools, and for custom API work.Sales Systems will have dedicated integration user for every integration & connections Integration user credentials shouldn't be cycled without lots of warning and a week lead up. 
+- Here is a [list](https://gitlab.my.salesforce.com/005?isUserEntityOverride=1&retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DUsers&setupid=ManageUsers&fcf=00B8X000009vjvp) of integration users in Salesforce.
+- For any new requests to establish a new integration, please follow up with systems team by creating an [issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) with the use case & pertaining to the integration, an [AR](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) needs to created by the DRI to create a new integration user.
+- All the integration users credentials will be stored in `SalesSystems 1Password Vault`
+
 ## Tesorio Integration
  
 **Business Process this supports:** Finance Systems Team implements a new Collections Management Tool (Tesorio). Tesorio will be connected to Zuora and get most of the data it needs to manage running process which also requires Tesorio to be integrated with Salesforce to get some additional data on the customer accounts (i.e. account owner).
@@ -590,6 +599,7 @@ Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePA
 **Logic Locations:**
  
   * [Tesorio Client](https://gitlab.my.salesforce.com/_ui/core/application/force/connectedapp/ForceConnectedApplicationPage/d?applicationId=06P4M000000XZXs)
+
 
 # Automations
  
