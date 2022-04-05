@@ -61,3 +61,9 @@ With the work we've been doing in previous years, we are all in alignment that a
 * Ensure that non-horizontally scalable services (such as Redis, Sidekiq) can continue supporting growth. (Delivery and Scalability teams, link to be added)
 * Increase Kubernetes cluster utilization and resilience. (Delivery and Scalability teams, link to be added)
 * Reduce the time to recover from unexpected usage, and increase application resilience to all types of growth on GitLab.com. (Delivery and Scalability, link to be added)
+
+## Day-to-day
+
+1. We collaborate on sub-department level items in the `#s_platforms` Slack channel. 
+1. We endevour to keep issues and epics up to date with the latest status of our work. Every Wednesday, the DRI for a project is expected to update the status block in the epic description. This enables other engineers and other managers to have good information about projects in an asynchronous fashion. 
+1. Any issues, OKRs or other items outside of projects that require status tracking should be updated each Wedensday.  
