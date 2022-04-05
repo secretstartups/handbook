@@ -107,7 +107,7 @@ Check out this brief overview of what data science is at Gitlab:
 | [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-expand) (PtE) | Complete | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales | Last update: FY23-Q1, Next update: FY23-Q2 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results), [Epic](https://gitlab.com/groups/gitlab-data/-/epics/340) |
 | [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Viable | Determine which paid accounts are likely to reduce their ARR by > 10% in next 3 months | Customer Success | Last update:  FY23-Q1, Next update: FY23-Q2 |[PtC slide deck](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [PtC Inspector](https://app.periscopedata.com/app/gitlab/990981/PtC-Inspector), [PtC Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/971930/PtC-Results-2021-12-to-2022-02), [Epic](https://gitlab.com/groups/gitlab-data/-/epics/382)|
 | [Namespace Segmentation](https://gitlab.com/gitlab-data/namespace-segmentation) | In progress | Define groups for paid and free SaaS namespaces based on its product usage and impact on conversions | Growth | Started in FY23-Q1 | [Epic](https://gitlab.com/groups/gitlab-data/-/epics/488) | 
-| [Propensity to First Purchase](https://gitlab.com/gitlab-data/propensity-to-first-purchase) | Planned | Identify which free accounts are likely to become paid accounts | Growth | Start in FY23-Q1 | | 
+| Trial Conversion | Planned | Identify which trial accounts are likely to become paid accounts | Growth | Start in FY23-Q1 | | 
 | Golden Journey | Planned | Identify optimal paths to increasing platform usage and adoption | Growth |  Start in FY23-Q2 | | 
 | Stage Adoption MRI | Planned | - | | Start in FY23-Q2 | | 
 | Product Usage Event | Planned | - | | Start in FY23-Q3 | |
@@ -125,6 +125,14 @@ Maturity of data science projects is similar to the [Gitlab product maturity mod
 - **Viable**: Available, but not fully productionalized yet; scores and insights manually generated; low adoption outside of immediate stakeholders.
 - **Complete**: Fully implemented into Data Team cloud production infrastructure; increasing adoption of corresponding dashboards and scores within the intended organization.
 - **Optimized**: Fine-tuned, fully automated, and self-service; continuous model monitoring and scoring; high adoption within intended organization.
+
+### Data Sources
+| Name | Current Sources | Additional Planned Sources |
+| ------ | ------ | ----- |
+| PtE | <ul><li>Product Usage (6 months): SaaS & Self-Managed - Paid Tiers</li><li>Salesforce (Account, Opportunities, Events, Tasks)</li><li>Zuora (Billing)</li><li>Bizible (Marketing)</li><li>Firmographics</li></ul> | <ul><li>Product Usage (12 months): SaaS & Self-Managed - Paid Tiers</li><li>Product Stage Usage (12 months): SaaS & Self-Managed - Paid Tiers</li><li>ZenDesk (help tickets)</li></ul> |
+| PtC | <ul><li>Product Usage (6 months): SaaS & Self-Managed - Paid Tiers</li><li>Product Stage Usage (6 months): SaaS & Self-Managed - Paid Tiers</li><li>Salesforce (Account, Opportunities, Events, Tasks)</li><li>Zuora (Billing)</li><li>Bizible (Marketing)</li><li>ZenDesk (help tickets)</li><li>Firmographics</li></ul> | <ul><li>Product Usage (12 months): SaaS & Self-Managed - Paid Tiers</li><li>Product Stage Usage (12 months): SaaS & Self-Managed - Paid Tiers</li></ul> |
+| Namespace Segmentation | <ul><li>Product Usage (9 months): SaaS & Self Managed - Free and Paid Tiers</li><li>Product Stage Usage (9 months): SaaS & Self Managed - Free and Paid Tiers</li><li>Salesforce (Account)</li><li>Zuora (Billing)</li><li>Bizible (Marketing)</li></ul> | <ul><li>Product Usage (12 months): SaaS & Self Managed - Free and Paid Tiers</li><li>Product Stage Usage (12 months): SaaS & Self Managed - Free and Paid Tiers</li></ul> |
+| PtFO | <ul><li>Product Usage (9 months): SaaS - Free Tier </li><li>Product Stage Usage (9 months): SaaS - Free Tier</li><li>Salesforce (Account, Opportunities)</li><li>Zuora (Billing)</li><li>Bizible (Marketing)</li><li>Firmographics</li></ul> | <ul><li>Product Usage (12 months): SaaS - Free Tier</li><li>Product Stage Usage (12 months): SaaS - Free Tier</li></li></ul> |
 
 ### Project Slack Channels
 
