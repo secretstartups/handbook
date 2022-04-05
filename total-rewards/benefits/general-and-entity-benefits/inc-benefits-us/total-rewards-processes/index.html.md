@@ -120,6 +120,30 @@ The Total Rewards Analyst will review and initiate payment for all monthly healt
 * Total Rewards will then email a detailed breakdown of the amount/department totals to `ap@gitlab.com` for accounting purposes.
 * TODO Build in step-by-step process
 
+### Assigning A 'Benefits Group' for Team Members
+
+The People Operations team will update the 'Benefits Group' in the HR system of record for Team Members when they are onboarded or relocated. The Benefits Group determines which plans team members are eligible for.
+
+##### Instructions on assigning a benefits group:
+
+There are two parts of the Benefits Group: **1. The entity** and **2. The team member's location.**
+For example'Fed-FT-Colorado' would be the correct option for a GitLab Federal Team Member living in Colorado.
+
+**Entity**
+
+* 'Fed-FT-': Team Members employed in the Federal entity
+* 'Ft-' Team Members employed in the Inc entity
+
+**Location**
+
+* Colorado: Team Members with a home address in Colorado
+* Hawaii: Team Members with a home address in Hawaii
+* NorthernCA: Team Members with a home address in Northern California
+* SouthernCA: Team Members with a home address in Southern California
+* TX/MO/OK: Team Members with a home address in Texas, Missouri, or Oklahoma
+* OOS: Team members with a home in any other state not listed in the above.
+
+Ineligible: Any Team Member that relocated outside of the US and is no longer eligible for a plan, OR any team member that may not be eligible due to Part-Time employment (under 30 hours per week). Please note that interns are eligible for benefits if they work over 30 hours per week.
 
 ### Audits
 
