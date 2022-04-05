@@ -507,6 +507,47 @@ The approval table below applies to non-Marketing emails.
 *  Let the Campaign Manager know at the beginning of the project if you're interested in running an A/B test and what your goals/hypothesis is
 *  Keep track of the split test learnings so we can learn and innovate!
 
+### Email KPI's that matters
+{: #email-kpis-that-matters}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+**Delivery Rate:**
+
+Our delivery rate should be in the high 90s.  Anything below this number needs to be addressed. A low delivery rate could be indicative of two things: poor list quality or the wrong email service provider.
+
+How is the delivery rate calculated? Number of emails delivered divided by number of emails sent.
+
+Example: 950/1000 = 95% Delivery Rate.
+
+**Open Rate:**
+
+Our email open rate is directly tied to our subject line and possibly our subheader. What is considered a good open rate will vary by industry, but on average, a healthy open rate may be anywhere between 15%-25%.
+
+If our open rate is low, consider testing different subject lines or preheaders to see what style works best with our customers.
+How is the open rate calculated? Number of emails opened divided by the number of emails delivered.
+
+Example: 200/1000 = 20% Open Rate
+
+**Click Through Open Rate:**
+
+There are several factors which could go into a low click-through-to-open rate, such as our email design, our content, our call to action — really any element in the body of our email.
+ 
+It is a little more challenging to isolate what may be causing a low click-through-to-open rate, which is why we need to set up some A/B test splits to determine the cause.
+ 
+How to calculate the Click Through Open Rate: Unique Clicks divided by number of emails open.
+
+Example: 50/200 = 25%
+
+**Opt-Out Rate:**
+
+Generally a good (low) unsubscribe (or opt-out rate) is below 0.2%. But anything above 1% is a problem. Determining why customers are opting out can be a challenge, so be proactive. Set up a brief survey for people who do opt out asking why.
+
+How is the Opt-out rate calculated? Total Opt-outs divided by the number of emails delivered.
+
+Example: 5/950 = 0.5% Unsubscribe Rate.
+
+
+
 ## Email Templates
 {: #email-templates .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
