@@ -91,12 +91,12 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ### Colorado
 * [Anti-Discrimination Laws](https://drive.google.com/file/d/1mre-jdp29cyAT7L-KjGaVYnPdJcUy9KL/view)
 * [Employment Security Act](https://www.colorado.gov/pacific/sites/default/files/502_NoticeToWorkers-Poster.pdf)
-* [Minimum Wage and Overtime Pay Standards](https://cdle.colorado.gov/sites/cdle/files/COMPS%20Order%20%2337%20%282021%29%20Poster%20CLEAN.pdf)
+* [Minimum Wage and Overtime Pay Standards](https://cdle.colorado.gov/sites/cdle/files/COMPS%20Order%20%2338%20%282022%29%20Poster%20CLEAN.pdf)
 * [Notice to Employer of Injury](https://www.colorado.gov/pacific/sites/default/files/WC050_Notice_of_Injury_Poster.pdf)
 * [Notice of Paydays](https://drive.google.com/file/d/1B9NG0eCOvxGD_KE_R9Zxtw58lTi4fkje/view?usp=sharing)
 * [Pregnancy Accommodations](https://www.colorado.gov/pacific/sites/default/files/CCRD%20Notice%20re%20Pregnant%20Workers%20Fairness%20Act%20%282%29.pdf)
 * [Worker's Compensation Act](https://drive.google.com/file/d/1OkdN7QSD23d5-etB7awiU4C_JjM9KXHM/view?usp=sharing)
-* [Paid Leave, Whistleblowing, and Personal Protective Equipment](https://cdle.colorado.gov/sites/cdle/files/Poster%2C%20Paid%20Leave%20%26%20Whistleblower%20-%202021%20poster.pdf)
+* [Paid Leave, Whistleblowing, and Personal Protective Equipment](https://cdle.colorado.gov/sites/cdle/files/Poster%2C%20Paid%20Leave%20%26%20Whistleblower%202022%20CLEAN.pdf)
 
 ### Connecticut
 * [Connecticut Commission on Human Rights and Opportunities Sexual Harassment Notice](https://portal.ct.gov/-/media/CHRO/SexualHarassmentPreventionPosterpdf.pdf)
