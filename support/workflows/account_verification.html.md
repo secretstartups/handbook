@@ -63,7 +63,7 @@ The workflow applies to all cases where account verification is required.
 
 If you need a basis for a response where you send the challenges, or in a 2FA ticket, if the user has not answered the challenges, use the `Support::SaaS::2FA::2FA Challenges` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103721068).
 
-### Evaluating Challenge Answers
+## Evaluating Challenge Answers
 
 > **Note**: In case the user sends back very minimal information and it's clear it's not sufficient or the answers are vague, reply asking for more information immediately after their response. You can provide some additional guidance, such as "please provide the exact date and time of the commit, not just an approximate one".
 
@@ -224,6 +224,8 @@ If a 2FA ticket is opened by an organization that has had this workflow configur
 {:.no_toc}
 
 Wait for the customer to comment on the issue and approve the request to disable 2FA.
+
+As stressed in the Slack notification template, we will wait for the customer's answer for 24 hours. If no response is received by then, regular 2FA verification will take place via the [challenges workflow](#sending-challenges).
 
 #### 4. Disable 2FA
 {:.no_toc}
