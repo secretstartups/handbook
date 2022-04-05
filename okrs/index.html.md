@@ -222,7 +222,10 @@ To add new key results in Ally.io, follow the steps below:
 1. Add the outcome for the key results, outcome can either be measures in % or numeric. 
 1. Click create and the key results will appear under the corresponding objective. 
 
-</details>
+Watch this short video for how to add objectives and key results: 
+<figure class="video_container">
+  <iframe src="https://youtu.be/WdaFFuzSZ4E" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ## Maintaining the status of OKRs
 
