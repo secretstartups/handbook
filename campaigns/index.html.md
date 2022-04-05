@@ -399,22 +399,23 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 ***The Campaign Manager of the integrated campaign will create the epic with the following structure - details and links to be added up on creation of documents and timeline defined.***
 
 ```
-<!-- Name this eipc: Name of Campaign [Integrated Campaign] (i.e. Automated Software Delivery [Integrated Campaign])
+<!-- Name this epic: Name of Campaign [Integrated Campaign] (i.e. Automated Software Delivery [Integrated Campaign])
 
-### [Campaign Execution Timeline >>]() - `to be added once created`, created and managed by Campaign Manager
-### [Google Drive >>]() `to be added once created`
+#### :calendar: [Campaign Execution Timeline >>]() - `to be added once created by Campaign Manager`
+#### :mega: [Slack Channel >>]() `to be added once created by Campaign Manager`
 
 ## Team
 * Campaigns (DRI): [name] @[handle] 
-* Content Marketing: 
 * Product Marketing: 
 * Technical Marketing: 
+* Content Marketing: 
 * Digital Marketing: 
 * Brand: 
 * Revenue Programs: 
+* Partner Marketing: 
 * SDR Leadership: 
 * SDR Enablement: 
-* Field Marketing (Liaison):
+* Field Marketing (Liaison): 
 * Corporate Marketing (Liaison): 
 
 ## :memo: Campaign Brief
@@ -443,7 +444,7 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 * [ ] Email Marketing
 * [ ] Paid Ads (SEM)
 * [ ] Paid Social
-* [ ] Demandbase (Key Acconts)
+* [ ] Demandbase (Key Accounts)
 * [ ] Outreach Emails
 
 ## 🔗 UTM for tracking URLs
@@ -453,9 +454,8 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 ## ⚡ Quick Links
 * [Marketo Program]()
 * [SFDC]()
-* [Sisense Overview Dashboard](https://app.periscopedata.com/app/gitlab/631669/WIP:-Integrated-Campaigns-Overview-Dashboard)
 
-/label ~"dg-campaigns" ~"mktg-demandgen" ~"Content Marketing" ~"Digital Marketing Programs" ~"Product Marketing" ~SDR ~"Campaign Manager Integrated" ~mktg-growtn ~tech-evangelism ~"Campaign Manager Priority" ~mktg-website ~design ~"Socil Media" ~"Strategic Marketing" ~"mktg-status::plan"
+/label ~"dg-campaigns" ~"mktg-demandgen" ~"Content Marketing" ~"Digital Marketing Programs" ~"Product Marketing" ~mktg-website ~design ~"Social Media" ~"Portfolio Marketing" ~"mktg-status::wip"
 ```
 
 ## Sales Lead Funnel Cross-Over with All-Remote
