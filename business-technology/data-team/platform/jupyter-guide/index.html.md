@@ -58,7 +58,7 @@ It lists location of your default pip. It should be in ``/Users/{your_user_name}
 
 #### Connecting to Snowflake
 
-1. Make sure you have setup a `{your_user_name}/.dbt/profiles.yml` file which **does not** include your password. You can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as reference
+1. Make sure on your local machine you have setup `/Users/{your_user_name}/.dbt/profiles.yml` file which **does not** include your password. `profiles.yml` must be placed in this directory in your "home" directory otherwise, you will not be able to connect to Snowflake from your local machine. You can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as reference
 1. Run through the [auth_example notebook](https://gitlab.com/gitlab-data/data-science/-/blob/main/examples/auth_example.ipynb) in the repo to confirm that you have configured everything successfully. The first time you run it you will get a browser redirect to authenticate your snowflake credientials via Okta. After that, if you run the notebook again you should be able to query data from Snowflake.  
 1. If you get an error then likely Snowflake is not properly configured on your machine. Please refer to the Snowflake and dbt sections of the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md). It is likely that your .dbt/profiles.yml is not setup correctly.
 
