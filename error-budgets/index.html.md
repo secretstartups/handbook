@@ -68,7 +68,8 @@ Assigning error budgets down to the feature category sets a baseline for specifi
 
 ## How do we determine the highest priority improvements?
 
-Each group has a `Budget spend attribution` section in their [group Grafana dashboard](https://docs.gitlab.com/ee/development/stage_group_dashboards.htm) that allows them to [discover where their budget is being spent](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#check-where-budget-is-being-spent).
+Each group has a `Budget spend attribution` section in their
+[Budget detail dashboard](https://docs.gitlab.com/ee/development/stage_group_observability/dashboards/error_budget_detail.html) that allows them to [discover where their budget is being spent](https://docs.gitlab.com/ee/development/stage_group_observability/index.html#check-where-budget-is-being-spent).
 
 Both the `Budget failures` panel and each link in the `Failure log links` panel are ordered by the number of errors. Prioritising fixing the top offenders in these tables will have the biggest impact on the budget spent.
 
@@ -280,7 +281,7 @@ explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/39
 ## More information
 
 - [Error Budget AMA](https://docs.google.com/presentation/d/1yYnLlTN8KOYNHww91nJgnbFK7l2xf3Cy1mRvUAxHa08/edit)
-- [Understanding Stage Level Error Budget Dashboards](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#error-budget)
+- [Understanding Stage Level Error Budget Dashboards](https://docs.gitlab.com/ee/development/stage_group_observability/#error-budget)
 
 [strategy]: /direction/#3-year-strategy
 [product strategy]: /direction/enablement/dotcom/
