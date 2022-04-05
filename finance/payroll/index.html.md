@@ -59,7 +59,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
    - Global Upside: India, Costa Rica, Denmark, Chile & Kenya will get their salary wired by the last day of the month. Philippines have 2 check dates: the 15th and last day of the month, respectively. Latvia will be paid on the 25th of each month (unless it falls on a holiday).
    Global Upside will send payslips electronically through their HR portal. New hires will receive an invite to their email.
    - Safeguard: Switzerland are paid monthly and on the 25th of each month, Italy and Spain the 26th of each month. Payslips are provided electronically by Safeguard.
-   - Remote.com will get their salary wired at the last day of the month. Remote.com will send payslips electronically through their HR portal.
+   - Remote.com will get their salary wired on the 25th of the month. Remote.com will send payslips electronically through their HR portal.
 1. Contractors through CXC Global will get paid by the 25th of each month.
 1. All other contractors under GitLab IT BV will get paid by the 22nd of the month by iiPay and remittance advice will send to their gitlab email address.
 
