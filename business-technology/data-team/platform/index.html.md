@@ -12,6 +12,17 @@ description: "GitLab Data Team Platform"
 
 {::options parse_block_html="true" /}
 
+{::options parse_block_html="true" /}
+
+<div class="panel panel-gitlab-orange">
+**This is a Controlled Document**
+{: .panel-heading}
+<div class="panel-body">
+
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+
+</div>
+</div>
 ---
 
 ## <i class="fas fa-map-marked-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Quick Links
