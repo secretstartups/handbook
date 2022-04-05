@@ -55,60 +55,61 @@ Links to videos (all GitLab internal-only) will be added below within 1-2 weeks 
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Delivering Strategic Customer Outcomes by Partnering with Your SAs | slides | video |
-| Using Effective Proposals to Advance and Win Deals | slides | video |
-| Supersonic pipeline: Best practices for prospecting to 4x | slides | video |
+| Delivering Strategic Customer Outcomes by Partnering with Your SAs | N/A | [video link](https://gitlab.edcast.com/insights/ent-delivering) |
+| Using Effective Proposals to Advance and Win Deals | N/A | [video link](https://gitlab.edcast.com/insights/ent-using) |
+| Supersonic pipeline: Best practices for prospecting to 4x | N/A | [video link](https://gitlab.edcast.com/insights/ent-supersonic) |
 
 ## Commercial Sales Account Executives
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| The Big Pitch | slides | video |
-| Finding the "Why Now" | slides | video |
-| The Journey to Ultimate, Part Deux | slides | video |
+| The Big Pitch | [slides](https://docs.google.com/presentation/d/1PO7Xh6EHLC7XTGsELUo1j0llChIzoNTnupayekNklrk/edit#slide=id.g117f8302e12_0_697) | [video link](https://gitlab.edcast.com/insights/comm-the) |
+| Capturing the "Why Now" | [slides](https://docs.google.com/presentation/d/1nD2685aiobVt1JFFB1IbgIgOsCK6GKLo9_mfju9px-o/edit#slide=id.g1084bc36e46_0_0) | [video link](https://gitlab.edcast.com/insights/comm) |
+| The Journey to Ultimate, Part Two | [slides](https://docs.google.com/presentation/d/1Io78o_6syomHmWU3qcjknG6jI9W084jQO8_HV69nj1E/edit#slide=id.g1084bc36e46_0_0) | [video link](https://gitlab.edcast.com/insights/comm-the-journey) |
 
 ## Channel Sales Account Managers
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Developing your Select Partners to their Maximum Potential and Value Opportunity | slides | video |
-| Building Pipeline with your Partners MDF and Marketing Campaigns | slides | video |
-| Partnering with Alliances to Increase Revenue and Value | slides | video |
+| Developing your Select Partners to their Maximum Potential and Value Opportunity | [slides](https://docs.google.com/presentation/d/1TXlPDMIIyQmYYv_UZneYRMDd7EMeDfrhtcbjqWJqdTQ/edit#slide=id.g1169570e060_0_7) | [video link](https://gitlab.edcast.com/insights/channel-developing) |
+| Building Pipeline with your Partners MDF and Marketing Campaigns | N/A | [video link](https://gitlab.edcast.com/insights/channel-building) |
+| Partnering with Alliances to Increase Revenue and Value | [slides](https://docs.google.com/presentation/d/1QNW1Z3wi_boQ_M4jigGcFBXw9K5rmOFkXZG7EfFtlbU/edit#slide=id.g1084bc36e46_0_0) | [video link](https://gitlab.edcast.com/insights/channel-partnering) |
 
 ## Solution Architects
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Positioning the GitLab Agent for Kubernetes in your sales deal | slides | video |
-| Value Stream Mapping - Origins, Assessments and Iterations | slides | video |
-| GET Workshop | slides | video |
+| Positioning the GitLab Agent for Kubernetes in your sales deal | [slides](https://docs.google.com/presentation/d/15R4PnYjdwd3Z7sB-6A_arWBhE_LBHX7EiLlqqJT5qr8/edit#slide=id.g112b63869f3_0_27) | [video link](https://gitlab.edcast.com/insights/sa-amp-proserv-positioning) |
+| Value Stream Mapping - Origins, Assessments and Iterations | N/A | [video link](https://gitlab.edcast.com/insights/sa-value) |
+| GET Workshop | [slides](https://docs.google.com/presentation/d/1_EUPYLunIypMhFaDZsOKtSxgK6eM_7uoRm8YwLntQag/edit#slide=id.g10839182931_0_238) | [video link](https://gitlab.edcast.com/insights/sa-amp-proserv) |
 
 ## Technical Account Managers
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| TAM Strategy | slides | video |
-| TAM and Customer Personas | slides | video |
-| Driving Adoption With CI/CD Workshops | slides | video |
+| TAM Strategy | [slides](https://docs.google.com/presentation/d/1Ry4mi5pTYvuh85hktMJgAm9Inh124Uxnm8o2M6VnHf0/edit#) | [video link](https://gitlab.edcast.com/insights/tam-tam) |
+| TAM and Customer Personas | [slides](https://docs.google.com/presentation/d/1-cDqKUSKYB_WZWRtFCP7bmzgxYewA5uP1S4mt2Gt76E/edit) | [video link](https://gitlab.edcast.com/insights/tam-tam-and) |
+| Driving Adoption With CI/CD Workshops | [slides](https://docs.google.com/presentation/d/1FljIu13VDNA9PvUfRgMw0q9HrHoQNVZPUZ5Au0TCnJk/edit#slide=id.g1084bc36e46_0_0) | [video link](https://gitlab.edcast.com/insights/tam-driving) |
 
 ## Professional Services Engineers
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Professional Services & Product: Working Better Together  | slides | video |
-| How to use the GitLab Pipeline COE w/ Governance Pipelines | slides | video |
+| Professional Services & Product: Working Better Together  | [slides](https://docs.google.com/presentation/d/1KsPIXeN3wwh3LVcXQCXRxxm6gEyTV_oOwgtDTmd0Unw/edit#slide=id.g113d5ee9723_1_121) | [video link](https://gitlab.edcast.com/insights/proserv) |
+| How to use the GitLab Pipeline COE w/ Governance Pipelines | [slides](https://docs.google.com/presentation/d/1K_0A-8yrvHO421rZo0CKdB8xqtjSrrZLfX389Pvsnsg/edit?usp=sharing) | [video link](https://gitlab.edcast.com/insights/sa-amp) |
+| GET Workshop | [slides](https://docs.google.com/presentation/d/1_EUPYLunIypMhFaDZsOKtSxgK6eM_7uoRm8YwLntQag/edit#slide=id.g10839182931_0_238) | [video link](https://gitlab.edcast.com/insights/sa-amp-proserv) |
 
 ## Sales Development Reps
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Competitive Workshop | slides | video |
-| Partnering with Sales: Good to Great | slides | video |
-| Alumni Stories: Lessons Learned | slides | video |
+| Competitive Workshop | [slides](https://docs.google.com/presentation/d/16TP9RaY7hGL3ZbQfdETT7q0m1CVsZfwqdh2PYwaXaig/edit#slide=id.g1084bc36e46_0_0) | [video link](https://gitlab.edcast.com/insights/sdr-bdr) |
+| Partnering with Sales: Good to Great | [slides](https://docs.google.com/presentation/d/10a3CASfWjUsVlzGG3eNLhQUszW9w5WDQoe1SXchcU3Q/edit#slide=id.g112af67f7c8_0_0) | [video link](https://gitlab.edcast.com/insights/sdr-bdr-partnering) |
+| Alumni Stories: Lessons Learned | [slides](https://docs.google.com/presentation/d/1j0gUa9SzwMx9JgAqTqOu4BKH93Gc6KQTvNOpuTHJaJw/edit#slide=id.g111c1a44bbf_0_0) | [video link](https://gitlab.edcast.com/insights/sdr-bdr-alumni) |
 
 ## Field Marketing
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Integrated Marketing Goals | slides | video |
+| Integrated Marketing Goals | N/A | [video link](https://gitlab.edcast.com/insights/fmm) |
 
