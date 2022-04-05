@@ -209,34 +209,6 @@ By allowing our team members to contribute to the health of our repository for a
 
 Digital Experience will dedicate one week or 8.33% per quarter to work on projects that improve the health of the `www-gitlab-com` repository, the developer experience, or tackle larger tech debt projects. These are projects that can not be completed in a single repository health day and require a higher degree of effort.
 
-### Cleaning up unused images in www-gitlab-com
-
-Over time, the `www-gitlab-com` repository accumulates images that become unused. In https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/101515, we added two scripts: 
-
-1. A script to scan and list all unreferenced images in the directory.
-1. A script that allows people to read from the scan results and delete a certain number of images.
-
-Starting 2022-03-30, we will run this script manually and delete 50 images per day until the unused image count reaches zero. At the time of writing, there are 2070 images, so doing 50 at a time means if we make a mistake, reverting is easier than restoring 2000+ images.
-
-In the future, we should determine a cadence to run this at, or automate the job if it performed well in the first iteration. 
-
-Worst case, if we never get around to setting up that process, this handbook reference should be a good place for anyone who is looking to clean up old images, clean up stale images, delete unused images, remove unused images, etc. (hopefully those search terms are easy to find when searching the handbook for folks who need to do this task).
-
-In a worst case scenario, if the scripts identify and delete images that are in fact meant to be used somewhere critical, we should have an easy way to revert. So the process should look like this: 
-
-1. Pull down the latest `master` branch of `www-gitlab-com`
-1. Check out a new branch that indicates it will be used to remove unused images.
-1. Run `yarn scan-unused-images` from the root of the repository. (Tip: the script doesn't skip node_modules/ or public/ folders. Consider deleting them for a faster scan)
-1. That script should take about 5 minutes to complete.
-1. Once that script completes, check the location of the output file. Something like `tmp/unused-images.txt`
-1. If you want to be very confident in the scan, pick a couple images at random. Search for their image path (excluding `source`, since we don't use that in references) across the directory. `CMD+Shift+F` on a Mac with VS Code will search the whole workspace for references. 
-1. You'll probably just see one reference to the image, in `tmp/unused-images.txt`. If that's the case, and you can duplicate that with a few random images in the list, you should be pretty confident we really found "unused" images. Otherwise, consider raising an issue in the repository about a bug in the scanning script.
-1. Once you're feeling confident in the script, run `yarn delete-unused-images N`, where `N` is the number of images to delete. 
-1. The delete script will read `tmp/unused-images.txt` from top to bottom and delete `N` images. 
-1. Open an MR with the deleted images. 
-1. For good indexing and easy rollbacks, please add a list of the images deleted to the MR. You should be able to find the `Nth` line in `tmp/unused-images.txt` and copy and paste upwards to get a full accounting. That way, if we get reports of broken images, we can search the GitLab repository for references to that file name, and it should come up in an MR titled "Delete images", which will be quick to roll back and restore. 
-1. Consider capping deletions at 50 images, to make restoration easier. 
-
 # Contact Us
 
 ### Slack Group
