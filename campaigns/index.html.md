@@ -399,44 +399,61 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 ***The Campaign Manager of the integrated campaign will create the epic with the following structure - details and links to be added up on creation of documents and timeline defined.***
 
 ```
-> NAME THIS EPIC: Name of Campaign [Integrated Campaign] (i.e. DevSecOps Use Case [Integrated Campaign])
+<!-- Name this eipc: Name of Campaign [Integrated Campaign] (i.e. Automated Software Delivery [Integrated Campaign])
 
-> Start Date: date epic is opened, Due Date: launch date
-
-## 🙌 Overview of _[Campaign Name]_ Integrated Campaign Epic
-
-This is the parent epic, organizing the epics to and issues for the integrated campaign, launch date `TBD`. The related issues will be included below (upon rollout of the campaign) with _DRIs, due dates, and labels_ assigned appropriately.
-
-_Please see related issues for details related to their respective purposes - this epic will be used for high level communication regarding the integrated campaign._
+### [Campaign Execution Timeline >>]() - `to be added once created`, created and managed by Campaign Manager
+### [Google Drive >>]() `to be added once created`
 
 ## Team
-* Marketing Campaigns: [name] @[handle] 
-
+* Campaigns (DRI): [name] @[handle] 
 * Content Marketing: 
 * Product Marketing: 
 * Technical Marketing: 
 * Digital Marketing: 
-* SDR: 
+* Brand: 
+* Revenue Programs: 
+* SDR Leadership: 
+* SDR Enablement: 
+* Field Marketing (Liaison):
+* Corporate Marketing (Liaison): 
 
-### [Campaign Execution Timeline >>]() - Owned by Campaign Manager
-### [Campaign Brief >>]() `to be added once created`
-### [Live Campaign Page >>]() `to be added upon launch when live`
-### [Google Drive >>]() `to be added once created`
+## :memo: Campaign Brief
+### Business Objectives
+`to be added`
+
+### KPIs & Goals
+`to be added`
+
+### Target audience and persona
+* **Level:** `to be added`
+* **Function:** `to be added`
+
+### Marketing message
+* Overall: `to be added`
+* Key Messages:
+- `to be added`
+- `to be added`
+
+### Aligned Content & Planned Events
+* `To be added`
+* `To be added`
+
+### Marketing Channel Mix
+`to be added upon discussion with activation teams (digital markeitng, lifecycle marketing, ABM, SDR, etc.)`
+* [ ] Email Marketing
+* [ ] Paid Ads (SEM)
+* [ ] Paid Social
+* [ ] Demandbase (Key Acconts)
+* [ ] Outreach Emails
 
 ## 🔗 UTM for tracking URLs
-* Overall utm_campaign - `tbd`, i.e. **`utm_campaign=`** [determine UTM with DMP]
-* More on [when](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#utm-tracking) and [how](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=0) to use UTMs
+* Overall utm_campaign - `tbd`, i.e. **`utm_campaign=`** [determine UTM with Campaigns & Digital Marketing]
+* [Read more aobut UTM Strategy](https://about.gitlab.com/handbook/marketing/utm-stratey)
 
 ## ⚡ Quick Links
 * [Marketo Program]()
 * [SFDC]()
 * [Sisense Overview Dashboard](https://app.periscopedata.com/app/gitlab/631669/WIP:-Integrated-Campaigns-Overview-Dashboard)
-
-## 👥 Target persona
-**[Target Persona & Positioning Matrix]()**
-* **Level:** [to be filled in after kickoff call]
-* **Function:** [to be filled in after kickoff call]
-
 
 /label ~"dg-campaigns" ~"mktg-demandgen" ~"Content Marketing" ~"Digital Marketing Programs" ~"Product Marketing" ~SDR ~"Campaign Manager Integrated" ~mktg-growtn ~tech-evangelism ~"Campaign Manager Priority" ~mktg-website ~design ~"Socil Media" ~"Strategic Marketing" ~"mktg-status::plan"
 ```
