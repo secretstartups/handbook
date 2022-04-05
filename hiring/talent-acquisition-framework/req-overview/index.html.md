@@ -26,10 +26,10 @@ The communicated Talent Acquisition Process Framework specifically focuses on ap
 * **[Candidate Experience Specialist (CES)](/handbook/hiring/talent-acquisition-framework/coordinator/):** The CES partners with the Recruiter and Sourcer on all scheduling, background check, references and offer needs. For more information on what role a CES may play, please visit the [CES Job Family](/job-families/people-ops/candidate-experience/).
 
 ### **Step 1: Identify hiring need**
-The Hiring Manager will determine the need for a vacancy and ensure it is listed on the GitLab Hiring Plan. Once confirmed, the Hiring Manager will notify the [Talent Acquisition Manager/Lead specific to their org](/handbook/hiring/recruiting-alignment/) utilizing the steps provided on the [vacancy creation process](/handbook/hiring/talent-acquisition-framework/req-creation/#requisition-creation-process).
+The Hiring Manager will determine the need for an opening and ensure it is an approved headcount (confirm with your [finance business partner](/handbook/finance/#finance-business-partner-alignment) if you are not sure). Once confirmed, the Hiring Manager will notify the [Talent Acquisition Manager/Lead specific to their org](/handbook/hiring/recruiting-alignment/) utilizing the steps provided on the [req creation process](/handbook/hiring/talent-acquisition-framework/req-creation/#requisition-creation-process).
 
-###  **Step 2: Create vacancy in Greenhouse**
-The Recruiter will create the vacancy in Greenhouse following the [vacancy creation](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse) guidelines. The assigned Recruiter, CES, and Sourcer should receive an email notification from Greenhouse when the vacancy is approved.
+###  **Step 2: Create opening in Greenhouse**
+The Recruiter will create the opening in Greenhouse following the [req creation](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse) guidelines. The assigned Recruiter, CES, and Sourcer should receive an email notification from Greenhouse when the req is approved.
 
 ### **Step 3: Complete kick-off session, agree on priority level, & complete a sourcing session**
 The **kick-off session** provides an opportunity to gain alignment on the requirements, hiring process and, perhaps most importantly, the expectations and responsibilities of the Recruiter, Sourcer, CES, Hiring Team, and Hiring Manager. Recruiters and Sourcers should come prepared for the kick-off session with insights - such as the size and geographic distribution of the talent pool - and should act as a talent advisor. Such information can be pulled from *LinkedIn Talent Insights*. To request this report, please submit an Issue [here](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issuable_template=LinkedIn%20Talent%20Insights%20Request.md#) using the `LinkedIn Talent Insights Request` template.
@@ -100,51 +100,13 @@ If you are helping a Recruiter source for an open REQ please verify the prospect
 
 For more information about Greenhouse and it’s tips & tricks, please refer to this [document](https://docs.google.com/document/d/1BbO5v_IJEq4QR9KpI7T3fSCwdCapVOZCyNgEk6MYO0s/edit)
 
-### **Step 5: Weekly Check-In Issue**
-
-* Once a requisition is opened, the recruiter creates a [weekly check-in issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/blob/master/.gitlab/issue_templates/weekly-check-in.md). Each week a requisition is open, the recruiter will update the issue. The participants are the Recruiter, Sourcer and fyi for the Hiring Team. The issue is used to update the health of the req, report on KRs, as well as allow for interview alignment.
-
-* Each req belongs to two [Epics](https://gitlab.com/groups/gl-talent-acquisition/-/epics); one parent and one child epic. The parent epics can be used as a dashboard to show the funcitional leader the overall health of their open reqs.
-
-We use **On track**, **Needs attention**, and **At risk** to define the requisition's health to provide hiring teams and E-Group members with a high-level insight into talent acquisition efforts. When assigning a **Health Status**, consider the diversity of the pipeline, what the pass through rate is at each stage, and whether you'd expect to make a hire at or close to the expected start date.
-
-If the recruiter needs to add an additional week to the issue, please copy and paste the following markdown guide at the very end of the markdown in the issue:
-
-```
-#### <summary>20xx/mo/day</summary>
-
-<table >
-	<tr>
-			<td> I used Diversity Boolean strings or used other methods, including provided best practices, to ensure 95% of my outbound sourcing efforts were directed towards individuals from underrepresented groups. </td>
-			<td>
-
-- [ ] Yes, Diversity sourcing was used
-- [ ] No, Did not use
-- [ ] Not actively sourcing
-
-</td>
-		</tr>
-    <tr>
-			<td> I want to re-align on URG/ELF sourcing targets for this role and need support from talent acquisition leads. </td>
-			<td>
-
-- [ ] Yes, reason in comments
-- [ ] No, not needed
-
-</td>
-		</tr>
-
-</table>
-```
-
-
-### **Step 6: Interview Stages**
+### **Step 5: Interview Stages**
 
 * When the prospect responds with interest and we have a matching requisition, select the option to “convert to candidate” in Greenhouse.
 
 ####  EEOC Questionnaire
 
-* All candidates that are evaluated for a requsition in the United States, **must** be sent the **EEOC Questionnaire**. Candidates evaluated for requisitions outside of the United States will **not** be sent the EEOC Questionnaire. For requisitions that are posted externally, where a candidate would apply, the candidate will automatically be presented with the *optional* survey in the application. If a candidate comes from a source where they **wouldn't** have necessarily applied (e.g. via an *Agency* or were *Sourced* or *Referred*), then the candidate will receive an automated email from Greenhouse when they reach the `Assessment` milestone. In the case of the requisition **not** being posted externally, then the **EEOC Questionnaire** will need to be sent **manually**. Information about checking the status of that questionnaire and how-to send it can be found [here](/handbook/hiring/greenhouse/#eeoc-questionnaire).
+* All candidates that are evaluated for a requsition in the United States or globally (including the United States) **must** be sent the **EEOC Questionnaire**. Candidates evaluated for requisitions outside of the United States will **not** be sent the EEOC Questionnaire. For requisitions that are posted externally, where a candidate would apply, the candidate will automatically be presented with the *optional* survey in the application. If a candidate comes from a source where they **wouldn't** have necessarily applied (e.g. via an *Agency* or were *Sourced* or *Referred*), then the candidate will receive an automated email from Greenhouse when they reach the `Assessment` milestone. In the case of the requisition **not** being posted externally, then the **EEOC Questionnaire** will need to be sent **manually**. Information about checking the status of that questionnaire and how-to send it can be found [here](/handbook/hiring/greenhouse/#eeoc-questionnaire).
 
 #### Screening
 
@@ -174,7 +136,7 @@ If at any time during the interview process a candidate is declined due to compe
 #### Team Interview
 
 *  Once a screening call is completed and a candidate is still determined as top talent, team interviews will be scheduled. To do this, the recruiter will send an "Email the Team" template called `CES Scheduling Request Form` through Greenhouse to CES* with specific communication on what interview(s) need to be scheduled. The CES team member will then [schedule team interviews](/handbook/hiring/talent-acquisition-framework/coordinator/#schedule-team-interviews).
-* The number of team interviews and order will vary from vacancy to vacancy. An example of what a Team Interview may look like is:
+* The number of team interviews and order will vary from opening to opening. An example of what a Team Interview may look like is:
   * Round 1: 50 minute interview with Hiring Manager
   * If applicable, Round 2A: 25 minute interview with a Hiring Team member
   * If applicable, Round 2B: 25 minute interview with a Hiring Team member
@@ -183,17 +145,17 @@ If at any time during the interview process a candidate is declined due to compe
 * The candidate should be provided clear expectations of the process, location of interviewers, timeline to hire, etc.
 * When Team Interviews have completed, follow up with the hiring manager on next steps. Depending on the level of the role and outcome of interviews, next steps may include additional interviews including an executive interview or moving to reference checks.
 
-* The [Weekly Check-In Issue](/handbook/hiring/talent-acquisition-framework/req-overview/#step-5-weekly-check-in-issue) has a section for an async interview debrief. This may be needed if there is an apparent disconnect with the hiring team (team is not aligned on requirements, level, etc.). Jarring differences in feedback and ratings are a flag that should trigger information in that section of the issue template. This can also be used if the hiring team consistently provides delayed feedback, or if candidate ISAT surveys are uncovering other concerns with the process. Interview debriefs are a helpful way to evaluate how the process has been going thus far and if we need to change our strategy or approach.
-
-### **Step 7: References**
+### **Step 6: References**
 
 Once a Hiring Manager has determined they want to move forward with a candidate, the Recruiter will email the candidate to request their references contact details as well as details that will help with an offer letter such as Legal name and background check. A template can be found in Greenhouse to send at this stage.
 
-### **Step 8: Justification (Engineering Only)**
+In the reference email template in Greenhouse, you will find a note to the candidate specifying that if they live in NYC, they will be receiving an invitation to submit their employment verification through Sterling if you have not already taken this step. Please send a Greenhouse note tagging @ces to ask them to initiate this process.
+
+### **Step 7: Justification (Engineering Only)**
 
 See [Justification section in offer packages](/handbook/hiring/offers/#justification-section).
 
-### **Step 9: Offer Approval**
+### **Step 8: Offer Approval**
 
 Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. The Recruiter will ensure the offer is routed for approval.
 
@@ -204,13 +166,11 @@ If there are any special circumstances regarding a known relocation for the cand
 If your candidate is located in Italy, there will be additional fields for you to fill out in Greenhouse. You will need to know the job level of the current role you're offering and their most recent role, which may be the one they're in today. The image below can be a helpful tool to determining both, but please contact the Legal or Enablement teams if you're unsure. 
 ![Job Levels for Italy](/images/talent_acquisition/Job_Level_Italy.png)
 
-
-
-### **Step 10: Verbal Offer**
+### **Step 9: Verbal Offer**
 
 Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager. _**Please note:** verbal offers should not be made to candidates in Japan until after a clear background check has been received. If the offer is ready to be verbalized but the background check is not yet complete, the hiring manager or recruiter can let the candidate know that they would like to make an offer, but it is contingent upon their background checking coming back clear._
 
-The Recruiter will email the candidate and ask if they want to book a zoom call to discuss the offer details. During that call the Recruiter will go over:
+Offer details usually include:
 - [Start Date](https://about.gitlab.com/handbook/people-group/people-experience-team/#people-experience-team-availability) - ensure that the candidates start date is not a blackout date (unless needed for legal reasons)
 - Job Title
 - Salary
@@ -226,12 +186,10 @@ The Recruiter will email the candidate and ask if they want to book a zoom call 
 - [Configuring your new laptop](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#configuring-new-laptops--apple-ids)
 - [Employment Assistance Program](/handbook/benefits/#employee-assistance-program)
 
-After the verbal offer is made the recruiter can send an email to the candidate with all the information covered in the zoom call.
-
 *A verbal offer can **only** be communicated once the offer has been fully approved in Greenhouse.  Ahead of the official approval, the Recruiter may choose to have a conversation regarding what a potential compensation package may look like, however, the Recruiter must be clear that they are not extending a formal verbal offer as the offer has yet to be approved.*
 
 If the candidate declines GitLab's offer, the Recruiter will tag the CES team and FP&A partners for their department in Greenhouse to inform them. The CES team member will `Dismiss` any associated reminders or tasks for the candidate at disposition.
 
-### **Step 11: Contract**
+### **Step 10: Contract**
 
 Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract) to the candidate via Greenhouse email. If there are any special circumstances regarding relocation, this should be communicated in the notification to CES to ensure it is added to the contract. The CES will [initiate the background check](/handbook/hiring/talent-acquisition-framework/coordinator/#initiate-background-check) during this stage. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
