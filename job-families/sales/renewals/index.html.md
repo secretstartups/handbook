@@ -30,7 +30,7 @@ The Senior Director, Renewals is a [grade 11](https://about.gitlab.com/handbook/
 #### Senior Director, Renewals Requirements
 
 - Proven track record of successfully delivering to revenue goals for a SaaS or subscription business at scale in a sales and/or renewal leadership role
-- Experienced in developing and growing global teams and operations as well as leading teams at scale (i.e., managed teams of over 50 team members) 
+- Experienced in developing and growing global teams and operations as well as leading teams at scale (i.e., managed teams of over 30 team members) 
 - Experienced in leading continuous improvement and change management across a broad range of functional stakeholders
 - Can successfully deliver to goals, build, and iterate in a fast-paced environment, working with a bias for action
 - Is data-drive and is experienced in leading system changes and automation to improve operational effectiveness and efficiency 
