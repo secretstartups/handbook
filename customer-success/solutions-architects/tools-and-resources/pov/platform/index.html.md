@@ -13,21 +13,24 @@ description: DevOps Platform POV Scope and Acceptance
 
 ## DevOps Platform POV Scope and Acceptance
 {:.no_toc}
-This value play will provide an overview of the DevOps Platform solution and the pain points it addresses, outline key quenstions you can ask to assess the customer's needs and identify the relevant aspects of the solution, and offer paths to other discussions of GitLab's value.
+The platform value play will provide an overview of the DevOps Platform solution and the pain points it addresses across the enterprise instead of individual stages or silos, outline key quenstions you can ask to assess the customer's needs and identify the relevant aspects of the solution, and offer paths to other discussions of GitLab's value.
 
 It can be combination of all other solutions together
 - DevSecOps
 - Software Compliance
 - Automated Software Delivery
 
-Also a key on the performance and technical metrics.
+Also it can contain the evaluation of the performance and technical metrics. This can be identified due to
+- enterprise fast growing outpaced the silo tools and inefficient toolchain - top value is to deliver better product faster with efficiency gains
+- enterprise is rolling out standard toolchains due to merger and acquisitions
+- existing tools are not cloud ready and cloud transformation is accelerating for the enterprise to be more competitive and delivery SaaS services while saving the cost
 
 ### Input to the POV
 
 The pre-requsition of this scope of POV tend to be focused with these aspects:
 - Value driven capabilities leading in with Automated Software Delivery
 - technical integrating with existing either Open Source Toolchain or other commercial tools
-- Technical metrics for performance and scalability for large enterprise
+- Technical metrics for performance and scalability for large enterprises
 
 ### Suggested Success Criteria
 
@@ -48,6 +51,13 @@ The POV can be multi-phased and more than 60 days. It is critical to have writte
 
 See this example for references for [a large new logo 2-phase POV](https://docs.google.com/presentation/d/1GEew0786_z2_Hj_acExoynkVO-XwpmArhyBTQEk-P0Q/edit#slide=id.g10daba8f689_0_275).
 
+If you have identified the platform POV, reach out to the Strategic Field team for qualification, scoping and acceptance definition, particularly mapping the technical metrics to business values. 
+
+### Proof Points Consideration
+
+If the platform based POV is focusing on the technical metrix, it may require setup of HA-based Gitlab with scalable runner fleets which can result in a wide range of technical issues. The account team needs to possess this technical capabilities with priority support. This scope of work needs to be managed with a detailed project management steps and issue tracking. The technical metrics acceptance must be clarified and mutually agreed with feasibility to carry out in 4-6 weeks.
+
+It is recommended to provide proof points from other sources, instead of carrying out large scale POV. For example the proof points can be obtained using gitlab.com itself and reference customers with similar user and repo counts, and similar technology / cloud profile.
 
 ### Other POV Scope and Acceptance
 

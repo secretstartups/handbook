@@ -38,6 +38,8 @@ The key capabilities to validate to the value are
 
 It may overlap with some of the key acceptance in DevSecOps, but more focused on standard compliance and auditibility. 
 
+If this is the key scope for the POV, reach out to the strategic field team to review the top drivers and regulatory requirements or deadtime, and define the right scope and execution steps for the POV with the acceptance.
+
 ### Other POV Scope and Acceptance
 
 SA working with SAL and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.

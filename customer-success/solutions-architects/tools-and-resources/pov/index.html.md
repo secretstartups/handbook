@@ -37,15 +37,15 @@ Often, a POV is conducted with a GitLab trial license either using GitLab.com or
 
 ### POV Qualification
 
-- Must tie to an opportunity for a new logo or up-tier for an existing customer with a net ARR over 100K or with significant LAM
+- Must tie to an opportunity for a new logo or up-tier to ultimate for an existing customer with a net ARR over 100K or with significant LAM
 
 - It is guided by GitLab SA to run the scoped hands-on technical evaluation with the prospect/customer, collaborate with the sales (SAL, AE) with defined business outcomes and GitLab values
 
 - Prospect/customer has identified and provided available technical and business resources to perform the evaluation, discuss / assess the results to map to the outcomes and value
 
-- Success criteria of the POV are defined to drive next step in the deal process
+- Top business drivers are identified with POV scope, success criteria of the POV are defined to execute the POV and subsequently drive next step in the deal process
 
-- Must identify the champion and economic buyers and they must be in agreement (e.g., “sign-off”) on the success criteria
+- Must identify the champion and economic buyers and they must be in agreement (e.g., “sign-off”) on the success criteria; faciliate the executive connection and sponsorship
 
 - A Command Plan is populated in Salesforce for the opportunity
 

@@ -42,6 +42,17 @@ The key objective of the POV is to validate the value of the shift left security
 | API Security Test | Gitlab to review API fuzzing project | Shift left pen test like capability to dev + QA
 | DAST API; API Fuzzing | 
 
+This tends to be most common POVs for new logos and uptier to ultimate. Ensure you engage the application security team at the customer.
+
+### Proof Points Consideration
+
+It is not recommended to carry out application security tests on all types, particularly fuzzing due to the intensive work and expertise required.
+
+Proof points can be obtained to supplement the POV as acceptable results. 
+
+It is recommended to provide proof points using GitLab apps and projects such as a sample java app for coverage fuzzing. The proof points can be documented or reviewed with the review session, and considered as part of the acceptance.
+
+If the DevSecOps acceptance maps to the regulatory requirements, it tends to require integration with other security control tools and analyzers, it is important to include that in the POV scope and acceptance but more as discussion with supplemental proof points instead of actual end to end integration. 
 
 ### Other POV Scope and Acceptance
 
