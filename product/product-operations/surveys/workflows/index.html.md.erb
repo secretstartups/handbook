@@ -1,0 +1,73 @@
+---
+layout: handbook-page-toc
+title: Product Operations Survey Workflows
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Post purchase survey
+
+### How PPS works
+
+The post purchase survey (PPS) is launched in [Qualtrics](https://www.qualtrics.com/) via Salesforce. Currently, any time a sales assisted contract is confirmed in Salesforce, Qualtrics is triggered to send out a survey to the customer contact on that subscription. The feature list in Qualtrics is maintained via [monthly issues](https://gitlab.com/gitlab-com/Product/-/issues/2561) which leverage the [feature by tier page](https://about.gitlab.com/features/by-paid-tier/). The feature by tier page is auto generated from [features.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/features.yml). The quarterly scores from the PPS read-outs below flow into features.yml via [the process outlined here](/handbook/product/product-operations/updating-pps-data/), which is owned by Product Operations. We are working on flowing web direct and renewal subscriptions into this survey as well in FY22.
+
+### Current workflow and owners
+
+#### Automated tasks
+
+1. SFDC triggers a Qualtrics workflow:
+  - Sales-assisted new subscription purchases
+  - Qualtrics sends an email with one survey question
+  - Survey question is personalized by plan type
+  - "What <plan> features contributed to your decision to purchase a subscription? You can select up to 5."
+1. On the first day of a new quarter, the bot generates an "[FYXX QY Post Purchase Survey Analysis](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/ProdOps-PPS-Analysis.md)" to drive the manual tasks.
+1. One month prior to the end of the quarter, the bot generates an "[FYXX QY PPS Feature List Update](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/ProdOps-PPS-Feature-List-Update.md)" issue to drive the manual tasks to update the feature list that is shown after the survey question mentioned above.
+
+#### Manual tasks
+
+1. The manual tasks are described in the Issue templates and are the SSOT for carrying out the PPS
+  - [PPS Analysis](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/ProdOps-PPS-Analysis.md)
+  - [PPS Feature List Update](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/ProdOps-PPS-Feature-List-Update.md)
+
+#### Deployment
+
+#### Updating `PPS` data
+
+It is important we keep pricing related data in `features.yml` up to date because it affects pricing decisions and auto-generated pages that are referenced across various teams at GitLab, including Product Pricing, Marketing and Sales. [Post-purchase survey](https://about.gitlab.com/direction/product-operations/#post-purchase) (PPS) data is taken monthly via Qualtrics. The output should come in the form of a spreadsheet which should look something like [this (internal only)](https://docs.google.com/spreadsheets/d/1Z_oyudSJeZR68VgrM87ePfZmVfUnOIgQrr1iWzmImH0/edit#gid=1021405695) and is shared out via the [quarterly analysis issues](https://gitlab.com/gitlab-com/Product/-/issues/2272).
+
+In that spreadsheet, the `feature` column matches to a feature in `data/features.yml`. That's what needs to get updated. There are two fields which we are updating here:
+
+1. `pps_aggregate` represents the total of all PPS scores from all time.
+1. `pps_recent` represents the _most recent_ PPS result. If a feature is not listed in the results, the "recent" value should be marked as `0`.
+
+Every feature in `features.yml` _should have both entries_. If it's a brand-new feature, it hasn't been surveyed in a PPS yet, the values are still zero.
+
+#### *How to update:*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XG917ZHKnQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1. Open [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/features.yml)
+1. For each row on the "SUMMARY_alltime" sheet, you'll update the `pps_aggregate` value to match that new value.
+1. In `features.yml`, find-and-replace all the values to zero. In an IDE, you can use a regular expression like `pps_recent: \d*` and replace it with `pps_recent: 0`.
+1. For each row on the "SUMMARY_Qx" sheet (the one from the current quarter), you'll update the `pps_recent` value to match that new value.
+1. Submit your MR, and merge! 
+     To see a sample, check out the diff in the FY22 Q1 update MR [here](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/85089/). 
+
+     ## Post purchase survey
+
+## Paid NPS Surevey (PNPS)
+
+### How PNPS works
+
+### Current workflow and owners
+
+#### Deployment 
+
+#### Outreach to `PNPS` users
+
+
+
