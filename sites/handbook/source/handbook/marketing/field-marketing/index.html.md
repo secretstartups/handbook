@@ -259,9 +259,7 @@ For a complete picture of GitLab Marketing Metrics, please refer to our [Marketi
 
 This section will go into specifics on the workflow for a Field Marketer to check their results.
 
-At the highest level, Field Marketing is responsible for helping to create [Sales Accepted Opportunities](/handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao) with the Sales Development team.  We also track campaign contribution to the sales pipeline as well as velocity of the opportunities that interact with our campaigns.
-
-Field Marketing Goals for FY22 can be found by searching for the `FY22 Revenue Marketing Goals` shared document in GDrive.
+At the highest level, Field Marketing is responsible for helping to progress MQLs with the rest of the Integrated Marketing team. Those MQLs will ultimately create [Sales Accepted Opportunities](/handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao) by the Sales Development team.  We also track campaign contribution to the sales pipeline as well as velocity of the opportunities that interact with our campaigns.
 
 ## The Field Marketing Dashboard 
 Our FMM Dashboard lives in the SAFE Intermediate space within the platform and provides an overview on the performance of the Field Marketing programs. 
@@ -270,25 +268,11 @@ Our FMM Dashboard lives in the SAFE Intermediate space within the platform and p
 
 ## Useful Links
 This section provides links to relevant reports that may live outside of the Field Marketing Dashboard. 
-
-- [FY22 GTM Segment SAO reporting](https://gitlab.my.salesforce.com/00O4M000004ajbK)
-    * For FY22, this report has been updated to reflect ONLY those SAOs submitted by the SDR organization, as the FMM goals are directly aligned to the SDR goals, also pulls in all order types (New -1st order, Connected, and Growth). The below outlines how our goals align to the GTM Segments listed in the GTM Segment SAO report:
-    * Account Centric 1. New First Order = New4300  both Large & MM
-    * Account Centric 2. New - Connected = New4300  both Large & MM
-    * Account Centric 3. Growth = Growth
-    * Total Addressable Market ICP 1. New First Order = New4300  both Large & MM
-    * Total Addressable Market ICP 2. New - Connected = New4300  both Large & MM
-    * Total Addressable Market ICP = 3. Growth = Growth
-    * Volume 1. New First Order = New/Volume
-    * Volume 2. New - Connected = New/Volume
-    * Volume 3. Growth = Growth
 - [Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution)
-- [FMM Weighted ARR Contribution](https://gitlab.my.salesforce.com/01Z4M000000oYas) - which will be deprecated once ARR has been updated to both the Linear Attribution & the FMM Dashbord. 
+- [FMM Weighted ARR Contribution](https://gitlab.my.salesforce.com/01Z4M000000oYas) - SSOT lives in Sisense. The SFDC version exists to allow further drill ins. 
 - [Digital spend Dashboard via PMG Agency country detail](https://datastudio.google.com/u/0/reporting/1NL1FxHvoXRul4vlQJCVfWWfwsu8Jz1XZ/page/kmnGB)
 - [Field Marketing Specific digital spend Dashboard via PMG agency](https://datastudio.google.com/reporting/17t7s-cbcFUghpBHD1xlU8hBe8P7IHZGK/page/mPgDB)
 - [SAOs accepted by last touch = Field Marketing Campaigns](https://gitlab.my.salesforce.com/00O4M000004FYB0)
-- [CONTACT MQL report by GTM Segment](https://gitlab.my.salesforce.com/00O4M000004aSCB)
-- LEAD MQL report by GTM Segment - WIP, will be forth coming
 - [Sales Pipeline Report stages 1-3](https://gitlab.my.salesforce.com/00O4M000004aJh9)
 - [WW SFDC Field Marketing Digital Report](https://gitlab.my.salesforce.com/00O4M000004aA0V)
 - [Workshop attendance rates](https://gitlab.my.salesforce.com/00O4M000004aXke) - note, if you want to see attendance rates by a different tactic, just modify the report!
@@ -296,27 +280,31 @@ This section provides links to relevant reports that may live outside of the Fie
    - [AMER FMM Campaign Members](https://gitlab.my.salesforce.com/00O4M000004aNoL)
    - [APAC FMM Campaign Members](https://gitlab.my.salesforce.com/00O4M000004aQLL)
    - [EMEA FMM Campaign Members](https://gitlab.my.salesforce.com/00O4M000004aQLV)
-- Reports in the following SFDC Folders:
-    - SSOT WG Sales and Marketing
-       * Specific Dashboards of interest
-       * [Large](https://gitlab.my.salesforce.com/01Z4M000000oXZg) - Filter by SDR generated for data that most aligns with FMM goals
-       * [MM](https://gitlab.my.salesforce.com/01Z4M000000oXcu) - Filter by SDR generated for data that most aligns with FMM goals
-    - SFDC folder: Sales Ops Reports (Verified)
-- [Definitions of the 37,000 😉 fields we have in SFDC that are impactful for reporting](/handbook/sales/sales-term-glossary/)
+- [FY23 SFDC reporting fields](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/100#important-fields-for-fy23-reporting)
 
-### Field Marketing ROI to GitLab channel 
+### Field Marketing ROI to GitLab Channel 
 GitLab Field Marketing receives `credit`for the Partner Sourced Opportunity if the opportunity has a Bizible touchpoint from the FMM campaign.
 
+* [Sisense Marketing influenced opportiunity report](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/983640/WIP:-Partner-Sourced) 
+* [Sisense Leads passed to the parnter report](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/983640/WIP:-Partner-Sourced) 
+
+#### Back up SFDC leads passed to partner report
+* [Leads](https://gitlab.my.salesforce.com/00O4M000004enu7) 
+* [Contacts](https://gitlab.my.salesforce.com/00O4M000004enuC) 
+
+Please clone and modify the reports based on the campaign name you are wanting to dig into. Reminder that SFDC treats leads and contacts separetely, so you'll need both a leads and a contacts report to see full picture. 
+
+#### Back up SFDC detailed reports 
 We have 3 reports we use that shows different types of contribution to the GitLab channel program. 
 
 * [FMM_DP_Channel_AllCampaigns](https://gitlab.my.salesforce.com/00O4M000004opQ0) - Field Marketing Deal Path = Channel. Field Marketing impact on all deal path = Channel. Includes MORE than just channel generated opps & regardless if a specific channel partner was directly involved with campaign.
 * [FMM_SQS_Channel_Generated](https://gitlab.my.salesforce.com/00O4M000004opqh) - Field Marketing Sales Qualified Source = Channel. FMM impact on Deal path = channel AND channel generated opps and regardless if a specific channel partner was directly involved with campaign.
 * [FMM CAMPAIGNS specific impact DP channel](https://gitlab.my.salesforce.com/00O4M000004opqr) - Field Marketing Campaigns impact to Deal Path = Channel.  Opp Deal path = Channel - Impact from FMM campaigns runs specifically with channel. 
 
-#### FY22 Field Marketing Channel goals 
-While we can see our ROI in 3 different reports, our charge for FY22, is to help our channel team create channel generated opps. In order to see your progress towards your Channel generated opps, you will use the FMM SQS Channel Generated report and add your name as the `Campaign Owner`. Because you are looking at a Bizible attribution report, you will need to understand how many unique opportunies are in your report. In order to do this, you will download the report from SFDC, and then upload into google sheets, then use the unique count formula (=countA(unique(B:B)),where counta = the bizible touchpoint ID & unique B = the name of the opportunity. 
+The above reports are Bizible attribution reports at the person level, you will need to understand how many unique opportunies are in your report. In order to do this, you will download the report from SFDC, and then upload into google sheets, then use the unique count formula (=countA(unique(B:B)),where counta = the bizible touchpoint ID & unique B = the name of the opportunity. 
 
 [Example SFDC report](https://gitlab.my.salesforce.com/00O4M000004opfA) and an [example google sheet](https://docs.google.com/spreadsheets/d/12vKuafod5__ORqv0bCGiasMr1ANPlzPUY_95RN6Pwr0/edit#gid=48544605&range=P1) with the forumla.  
+
 
 ### Contribution to sales pipeline
 
@@ -669,7 +657,7 @@ In Field Marketing, the FMCs manage all [Procurement Issues](https://gitlab.com/
 | [AMER East NE & SE](https://gitlab.com/groups/gitlab-com/marketing/-/boards/915674?&label_name%5B%5D=East) | Ginny Reib | `@GReib` |
 | [AMER East-Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1105137?&label_name[]=East%20-%20Central) | Ginny Reib | `@GReib` |
 | [AMER West-PacNorWest](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Matthew Macfarlane | `@mmacfarlane` |
-| [AMER West - NorCal/SoCal/Rockies](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Ken Grabowski & Matthew MAcfarlane | `@kengrabowski``@mmacfarlane`  |
+| [AMER West - NorCal/SoCal/Rockies](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) |  Lisa Rom | `@lrom`  |
 | [AMER Public Sector](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Helen Ortel & Kira Aubrey | `@Hortel` & `@KiraAubrey` |
 | [APAC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933488?&label_name[]=APAC) | Pete Huynh | `@Phuynh` |
 | [EMEA Southern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426531?&label_name[]=Southern%20Europe) | Juliette Francon | `@juliette.frcn` | [#emea_southern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQ6FG8ETY) |
@@ -768,7 +756,7 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 | AMER East NE & SE | Ginny Reib | Sergio Cortes |
 | AMER East-Central | Ginny Reib | Sergio Cortes |
 | AMER West-PacNorWest | Matthew Macfarlane | Jen Bailey |
-| AMER West - NorCal/SoCal/Rockies | Ken Grabowski and Matthew Macfarlane | Jen Bailey |
+| AMER West - NorCal/SoCal/Rockies | Lisa Rom | Jen Bailey |
 | AMER Public Sector | Helen Ortel & Kira Aubrey | Chris Novello|
 | APAC | Pete Huynh | Amelia Seow |
 | EMEA Southern Europe | Juliette Francon | Ilaria Pazienza |
@@ -781,11 +769,11 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 
 ## Field Marketing initiated and funded campaigns 
 
-Jointly with their regionally algined CAM, Field Marketers have a specific budget amount (for FY22 10% of their budget) set aside for joint GitLab/channel partner camapigns. It is expected that 50% of all FM activities involve a channel partner. The primary goal of this activity is to convert MQLs to PSOs. 
+Jointly with their regionally algined CAM, Field Marketers should be executing 50% of their in region campaigns with Select level regional partners. The primary goal of this activity is to convert MQLs to PSOs. 
 
 In order for FMM to engage in lead generation activity, the CAM needs to fill out the [Channel Lead Gen request issue template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Channel_LeadGen_Req).
 
-Once the lead gen request has been completed, the FMM is to collaborate with the CAM and build campaigns with channel to exhaust the budget allocation as well as reach the SAO goals as outlined in the FY22 Revene Marketin goal sheet, which is store in google drive and accessiable by all GitLab team members. 
+Detailed planning process is [outlined here](/handbook/marketing/channel-marketing/#quarterly-planning-field-and-channel). Week by week details can be [found here](https://docs.google.com/spreadsheets/d/1zCdPuLz5EhpM2s1thAGW8uZ785QwmdbE5z56cq59ZXo/edit#gid=0&range=A1).  
 
 Note: The Channel Partner Enablement team is the DRI to make sure each Select Partner is fully enabled prior to FMM engagement. FMMs should not be involved in any channel enablement. 
 
@@ -799,9 +787,6 @@ Select Partner marketing activities can be:
 As outlined in the [Channel Handbook - [MDF section](/handbook/resellers/#the-market-development-funds-mdf-program)](https://about.gitlab.com/handbook/marketing/channel-marketing/), GitLab Select partners have access to the proposal-based GitLab Marketing Development Funds (MDF) Program.
 
 The DRI for budget tracking and ROI measurement will be the Channel Marketing team with Field Marketing being the DRI for the 3rd step in the approval of the MDF proposal within their respective region.
-
-1. Step 1 in the approval process is the CAM approving the MDF request
-1. Step 2 is the Channel Marketing team approving the request. The full approval process can be reviewed [here](/handbook/marketing/channel-marketing/).
 
 FMMs may work with “Open” partners outside of P0 and P1 regions depending upon the strength of their MDF proposal AND their potential/desire to elevate to Select status. Those proposals will be considered on a case by case basis, and final approval lies with GitLab Channel Marketing, unless Field Marketing support is requested, in which case final approval lies with the regional FMM involved.
 
@@ -824,7 +809,7 @@ All campaigns we are working with channel partners must flow through the outline
 Please refer to the [Channel ROI section](/handbook/marketing/field-marketing/#field-marketing-roi-to-gitlab-channel).
 
 ### Useful Fields in SFDC that relate to Vartopia 
-1. To confirm WHO the leads are being sent to, look at the account level, and look for the field called `Partner Prospect Admin`. That will tell you who is receiving the leads. 
+1. Please refer to [this handbook page](/handbook/marketing/channel-marketing/partner-campaigns/#sfdc-partner-prospect-admin) for further details. 
 
 ### Channel Program 
 The below list is not exhaustive. 
@@ -1122,7 +1107,7 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 **General Field Marketing Labels:**
 
 - `Field Marketing`: Issue initially created, used in templates, the starting point for any issue that involves Field Marketing
-- `FY22-Q3` `FY22-Q4` `FY23-Q1` `FY23-Q2` `FY23-Q3` `FY23-Q4`: What event or activity is set to take place or be due in this quarter in the specific year
+- `FY23-Q1` `FY23-Q2` `FY23-Q3` `FY23-Q4`: What event or activity is set to take place or be due in this quarter in the specific year
 - `mktg-status::plan`: work that is proposed, in an exploratory state
 - `mktg-status::wip`: work in progress that has been accepted and assigned to a DRI
 - `Events` : Issues related to events - this label is held at the gitlab.com level
@@ -1210,7 +1195,7 @@ Field Marketing manages its budget in [Allocadia](/handbook/marketing/strategy-p
     - When converting from a different currency, we minimally round up. For example, if the conversion of $500 AUD is currently $342.98 USD, then round up and quote $350 USD.
 1. VAT and GST does not need to be included into budget planning as these do not attribute to program expenses, however sales tax in the US does.
 1. As it relates to procurement issues being approved, it is essential that the contract details are submitted with the procurement issue, that way the approver is clear about what they are signing off on.
-    - In FY22, we aim for an MQL to not cost us more than $500, should a contract be submitted that is over the $500 goal, there needs to be a documented reason + path to success shown in the procurement issue. It is the responsibility of the FMM Country Manager to ensure this documentation is listed in the procurement issue before the issue is sent on to further leadership to review/approve. For C-level and other campaign where we target decision makers, the customer journey needs to be documented and we acknowledge that the MQL might be higher.
+    - We aim for an MQL to not cost us more than $500, should a contract be submitted that is over the $500 goal, there needs to be a documented reason + path to success shown in the procurement issue. It is the responsibility of the FMM Country Manager to ensure this documentation is listed in the procurement issue before the issue is sent on to further leadership to review/approve. For C-level and other campaign where we target decision makers, the customer journey needs to be documented and we acknowledge that the MQL might be higher.
 1. Working through our Partner Marketing organization, Field Marketing can submit activities that can be considered for market development funds (MDF). In doing this, the entire amount of the activity needs to be budgeted for in the Field Marketing budget. We do this because the percentage covered by the channel partner will come through our revenue account, not our prepaid account and the transactions need to be kept separate. This also may mean you are over budget. If that is the case, then you will need to add a comment in the budget document and also clearly share this with your manager so that your manager may communicate this with Finance and Accounting in our monthly review meetings.
 
 # Field Marketing and Legal 
