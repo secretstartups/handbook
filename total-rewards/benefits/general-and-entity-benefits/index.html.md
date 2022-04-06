@@ -32,7 +32,6 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 - [Gitlab France S.A.S.](/handbook/total-rewards/benefits/general-and-entity-benefits/france-sas)
 - [GitLab Singapore Pte Ltd](/handbook/total-rewards/benefits/general-and-entity-benefits/singapore-pte-ltd)
 - [Remote Technology (Denmark, Spain, Italy, Switzerland, South Africa, Mexico, Hungary and Austria)](/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com)
-- [Safeguard (Brazil)](/handbook/total-rewards/benefits/general-and-entity-benefits/safeguard/)
 
 ### Benefits Available to Contractors
 
