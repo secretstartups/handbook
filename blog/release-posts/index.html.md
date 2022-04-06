@@ -963,7 +963,6 @@ Should you prefer to continue to contribute to an issue under active development
 
 ## Monthly release blog post sections
 
-- [CTA buttons](#cta)
 - [MVP](#mvp)
 - [Features](#features)
   - [Top feature](#top-feature)
@@ -1648,7 +1647,6 @@ When you run `bundle exec rake release:monthly`, the following things happen:
    if you want to re-run the script.
 1. The [MVP template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/mvp.yml)
    is used to create the MVP file (`data/release_posts/X_Y/mvp.yml`).
-1. The [CTA template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/cta.yml) is used to create the CTA file (`data/release_posts/X_Y/cta.yml`).
 1. All the new and changed files are committed, and you are instructed to push
    the branch to GitLab in order to create the merge request.
 
