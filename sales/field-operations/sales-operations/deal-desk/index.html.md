@@ -265,11 +265,13 @@ C.  Provide Quote, Account, and Subscription Term Details and click “Next.”
 
 D.  Select **“Add Base Products”** from the drop-down menu on the “Edit Products and Charges” page. Select the correct product and click Next.
 E.  Enter the product quantity, and adjust the discount or effective price as needed. Click Submit.
-F.   **Add Annual Payments** to a order form by:
+
+F.  **Add Annual Payments** to a order form by:
 * Checking "Annual Payments" checkbox on Quote Detail Page
 * Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
 * **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
-G.  SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
+
+G. SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
 H.  **Order Form Generation**
 *   If no discounts or special terms are requested, click “Generate PDF.”
 *   If the deal contains discounts that require approval, please submit the quote for approval using the button on the quote. The quote must be approved before the PDF can be generated.
