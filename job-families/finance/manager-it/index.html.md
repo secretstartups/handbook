@@ -91,6 +91,34 @@ The Manager, IT End User Services leads a team of highly-collaborative and resul
 * Conducting and sharing results from service and operation performance reviews
 * Coordinating and managing all relevant stakeholders, including the support desk team, customers, and other teams that are involved in service desk operations
 
+### Senior Manager, IT (End User Services) 
+
+#### Senior Manager, IT (End User Services) Responsibilities
+
+* Extends the Manager, IT (End User Services) responsibilities
+* Envision and draft Quarterly Objectives, driven by requirements gathered from multiple business partners
+* Propose strategies to improve and scale the operations and the performance of the End User Services team
+* Evaluate and introduce technology and automation to enhance the service we provide for team members and enable the team to scale
+* Data Driven approach, develop KPIs and SLOs for the End User Services to measure team performance generate actionable data to identify opportunities to improve IT Service Delivery
+* Manage Vendor Relationship and purchasing
+* Responsible for the Asset Management program for End User Services
+* Responsible for Team Member Lifecycle Operations
+* Responsible for End User Service Delivery
+
+#### Senior Manager, IT (End User Services) Requirements
+
+* Extends the Manager, IT (End User Services) requirements
+* 6+ years managing a team of 6 or more IT analysts/engineers
+* 2+ years managing a team consisting of principal/staff/lead level team members
+* 6+ experiences with team member career development including reviews, promotions, demotions, and performance improvement
+* Experience working with management to define and measure KPIs and other operating metrics
+* Experience creating and delivering multi-quarter roadmaps
+* Ability to clearly articulate vision, mission, and objectives, and change the narrative appropriate to the audience
+* Experience developing a team in a fast-paced, high-growth environment
+Familiarity with data management policies and regulations (GDPR, SOX, PCI)
+
+
+
 ## Performance Indicators 
 
 *  [New Hire Location Factor < 0.69](/handbook/business-ops/metrics/#new-hire-location-factor--069)
