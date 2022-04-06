@@ -12,7 +12,8 @@ description: "Job families are organized by function at GitLab and we use them t
 
 ## Job Families
 
-Job families are [organized by function in directories in the www-gitlab-com repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/uncategorized/source/job-families).
+* Job families are [organized by function in directories in the www-gitlab-com repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/uncategorized/source/job-families).
+* For any questions related to job families, please contact [total rewards](/handbook/total-rewards/benefits/#contact-total-rewards).
 
 ### Things to Keep in Mind
 
@@ -35,7 +36,6 @@ Job families are [organized by function in directories in the www-gitlab-com rep
 Anyone can create or edit a job family, in general it is the responsibility of the person who will manage the position or job family. They may enlist help from others. After a merge request is created for an existing job family or a new one, **the merge request must follow this approval flow**:
 1. **Your manager**: Your direct manager is responsible for clarifying the scope of responsibilities and level of roles, checking responsibilities and requirements and ensuring the job family follows the template logic and **has all of the required areas**. Any review after this should be quick so the manager is the gatekeeper.
 1. **Your executive leader**: Your executive leader is responsible for confirming the role is in plan and review of department/division structure and levels.
-1. **[The Recruiting Manager](/company/team/#Kellymurdock)**: Ping them to approve by at-mentioning them in the #job-family slack channel and assigning the merge request to them. They are responsible for checking to ensure it follows template and conventions.
 1. **Total Rewards**: The Total Rewards Team, `@gl-total-rewards`, is the final approver for job families on the merge request ensuring:  
   * There is a business need for the level within the job family.
   * The level is common in the market based on survey data. 
