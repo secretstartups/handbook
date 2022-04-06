@@ -21,14 +21,14 @@ This document does not cover servers that are not integral to the public facing 
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
 
 </div>
 </div>
 
 ## Purpose
 
-This page is our [document](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html#creation) that captures an overview of the production architecture for GitLab.com.  
+This page is our [document](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html#creation) that captures an overview of the production architecture for GitLab.com.
 
 ## Scope
 
@@ -36,9 +36,9 @@ The compute and network layout that runs GitLab.com
 
 ## Roles and Responsibilities
 
-| Role  | Responsibility | 
+| Role  | Responsibility |
 |-----------|-----------|
-| Infrastructure Team | Responsible for configuration and management | 
+| Infrastructure Team | Responsible for configuration and management |
 | Infrastructure Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
 ## Procedure
@@ -51,11 +51,11 @@ The compute and network layout that runs GitLab.com
 - [Monitoring of GitLab.com](/handbook/engineering/monitoring/)
 - [GitLab performance monitoring documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/index.html)
 - [Performance of the Application](/handbook/engineering/performance/)
-- [Gemnasium Service Production Architecture](/handbook/engineering/dev-backend/production-architecture/gemnasium-service.html)
+- [Gemnasium Service Production Architecture](supporting-architecture.html#gemnasium)
 - [CI Service Architecture](ci-architecture.html)
 - [dev.gitlab.org Architecture](supporting-architecture.html#dev-gitlab-org)
 - [ops.gitlab.net Architecture](supporting-architecture.html#ops-gitlab-net)
-- [version.gitlab.com Architecture](/handbook/engineering/dev-backend/production-architecture/version-architecture.html)
+- [version.gitlab.com Architecture](supporting-architecture.html#version-gitlab-com)
 
 
 ### Current Architecture

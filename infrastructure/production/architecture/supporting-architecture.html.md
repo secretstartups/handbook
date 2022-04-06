@@ -64,3 +64,48 @@ The instance runs on a single VM, and is using CloudSql as a database backend, a
 [nightly build]: https://packages.gitlab.com/gitlab/nightly-builds
 [chef-repo ops]: https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/381c4de3db52c202de3f5abd6ca02a14c75e5106/roles/ops-infra-gitlab.json#L276-278
 [ee repo]: https://packages.gitlab.com/gitlab/gitlab-ee
+
+## version.gitlab.com
+
+The version service is hosted in Google Cloud on a Kubernetes cluster.
+Version is used to store available GitLab versions as well as if it contains a vulnerability,
+render version check badge for self-managed GitLab instances, and collect data sent during version check
+and usage ping from self-managed instances.
+
+### Architecture
+
+We are running the version.gitlab.com on Kubernetes and use Auto DevOps for managing deployments. The application runs on multiple pods. Google Cloud SQL with PostgreSQL is used by the pods to store data, Cloud SQL has two replicas configured. Google Cloud Memorystore is used as a cache store.
+
+#### Production environment
+
+<img src="/images/handbook/engineering/infrastructure/production-architecture/version-gitlab-com-arch.png">
+
+[Source](https://drive.google.com/file/d/1_ESP2-hT0giqIEHYiY6ZtzAcJMk7cnk1/view?usp=sharing), GitLab internal use only
+
+## Gemnasium
+
+The Gemnasium service used in Dependency Scanning is hosted in Google Cloud on a Kubernetes cluster.
+
+### Architecture
+
+We are running the Gemnasium service on Kubernetes. The application runs on multiple pods which communicate through a NSQ service. The needed PostgreSQL DB
+is provided by a Google Cloud SQL instance. The "web" pods receive HTTPS traffic directly, they serve API endpoints and a web UI.
+
+#### Production environment
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vQDDKfZsuynorz64THC4TCDbRd0LhBxIX3B9DhFbh8CMiqHnbv3lk2Q4gJl0mfF1i-_nWLxb2f7Nh0b/pub?w=1566&h=1035">
+
+[Source](https://docs.google.com/drawings/d/1A7Uw4hVC1US_I6nEY79_mIyX1dnBegKyLhKjGkf70Mc/edit), GitLab internal use only
+
+#### High level component view
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRENZDwgciEb5lwATJrT9QKdW2ss_vu-1CQPPMah66mZqJMfgrRy_BNCw4WXKLC8IHCsjq40axN_65b/pub?w=1527&h=1121">
+
+[Source](https://docs.google.com/drawings/d/1AJ21B-6zgJAF_g8L_dhbdRtIuZ2XCSA1pY0f0u-Z9kQ/edit), GitLab internal use only
+
+
+#### Pods Definition
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSu_DTqRC6FzproU3SUOZRaxS0ySo27h4IOZAqwTVHTiRtr9fLA74OL8sbLoOioXxwp1apucZK7Nsq-/pub?w=1201&h=807">
+
+[Source](https://docs.google.com/drawings/d/1pSC4Y1rQeNNLVk9iudBjn0J6gY9QTBC7FAzaae3SpMI/edit), GitLab internal use only
