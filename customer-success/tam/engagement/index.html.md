@@ -236,17 +236,18 @@ While engaging with a customer, the TAM then determines the appropriate engageme
 #### Qualification Criteria
 
 **<u>Priority 1</u>**
-- **ARR:**  (Top 30 account by ARR)([gainsight](https://gitlab.gainsightcloud.com/v1/ui/gsdashboard#/913fcf6c-759b-43e4-a4c0-d4ecff6d46ee)),  OR  
-- **Success Planning:**  Unclear, or includes a critical project
+- **ARR:** Equal or Greater than $200k 
+     OR 
+_ **In-Onboarding:** Customer is in their first 45 days with GitLab
+- **Success Planning:** Ongoing critical initiative that requires immediate TAM enablement/ workshops
+- **Growth in the next 3 months:**  Open growth opportunity in Salesforce, and/or explicitly stated intent from the customer for growth
 - **Stages adopted:**  Not already using 2-3 stages
 - Account at-risk or in triage ([handbook](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#gitlab-account-triage-project))
 
 **<u>Priority 2</u>**
-- **ARR:**  <$75k ARR, OR
-- **Success Planning:** Objectives only, due date (tasks, highlights, strategy all optional)
-- **Stages adopted:**  3 or more
+* All remaining non-PR 1 customers
 
-For each priority level, we follow the ARR rule OR some combination of the other rules.  So an account could have clear objectives and be using 5 stages, but if are a top 30 ARR account they remain priority 1. For smaller accounts with low upside, or low stage adoption, we will mark them `Priority 1` only until we have captured Objectives, so that Sales can have more specific conversations when a TAM isn't fully engaged.
+For each priority level, we follow the ARR rule OR some combination of the other rules.  So an account could have clear objectives and be using 5 stages, but if are $200k ARR or above they remain priority 1. For smaller accounts with low upside, or low stage adoption, we will mark them `Priority 1` only until we have captured Objectives, so that Sales can have more specific conversations when a TAM isn't fully engaged.
 
 In the future we may consider the following:
 - Metrics:  SaaS or usage ping enabled
