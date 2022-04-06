@@ -9,109 +9,144 @@ title: "The Internal Audit Function"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# The Mission of Internal Audit
 
-To enhance and protect organizational value by providing risk-based and objective assurance, advice and insight, while consistently building trust and strengthening the relationship with management, through the delivery of high quality and distinctive internal audit services.
+# Internal Audit Charter 
+THE AMENDED INTERNAL AUDIT CHARTER WAS APPROVED BY THE AUDIT COMMITTEE ON 2022-03-30
 
-Internal Audit is an independent, objective assurance and consulting activity designed to add value and improve organization’s operations. 
+<br>
 
-Internal Audit is responsible to assess the effectiveness of risk management, control and governance processes and to provide insight and recommendations that can enhance these processes, particularly relating to: 
+**Internal Audit Charter Summary:** 
 
-* Effectiveness of operations;
-* Reliability of financial management and reporting; and
-* Compliance with laws and regulations.
+* **Purpose and Mission** – _The purpose of GitLab’s Internal Audit team is to provide independent, objective assurance and consulting services designed to add value and improve GitLab’s operations._ 
 
-Internal Audit may also involve conducting fraud investigations to identify fraudulent acts and conducting post investigation fraud audits to identify control breakdowns and establish financial loss.
+* **Standards for the Professional Practice of Internal Auditing** – _The Internal Audit team will govern itself by adherence to the mandatory elements of The Institute of Internal Auditors' International Professional Practices Framework._ 
 
-## How Internal Audit Adds Value
+* **Authority** – _The Company's Vice President, Internal Audit will report functionally to the Audit Committee and administratively (i.e., day-to-day operations) to the Company’s Chief Financial Officer._ 
 
-* Internal Audit works closely with management to review systems and operations to identify how well risks are managed, whether the right processes are in place, and whether agreed procedures are being followed. This provides an indication of the integrity of the organization’s systems and processes, their capability to support the set goals and also helps identify areas for improvements. 
+* **Independence and objectivity** – _The Company's Vice President, Internal Audit will ensure that the Internal Audit department remains free from all conditions that threaten the ability of Internal Auditors to carry out their responsibilities in an unbiased manner, including matters of audit selection, scope, procedures, frequency, timing, and report content._ 
 
-* Internal Audit works across all areas of an organization, review tangible (e.g. supply chain/ IT systems) and intangible (e.g. organization culture and ethics) aspects of operations. 
+* **Scope of Internal Audit activities** – _The scope of Internal Audit activities encompasses, but is not limited to, objective examinations of evidence for the purpose of providing independent assessments to the Audit Committee, Company management, and outside parties(e.g. KPMG) on the adequacy and effectiveness of governance, risk management, and control processes for GitLab._ 
 
-* Internal Audit looks beyond financial statements and financial risks, and consider wider issues, e.g. the organization’s reputation, growth, impact on the environment, and how employees are treated. Any process that has an impact on the effective operation of an organization may be included in internal audit’s scope.
+* **Responsibility** – _examples - submission of Internal Audit plan to Audit Committee on annual basis, communication of ongoing progress against plan, issues and risk mitigations, adherence to relevant policies and procedures, ensure the principles of integrity, objectivity, confidentiality, and competency are applied and upheld._ 
 
-Internal Audit reports administratively to the Principal Accounting Officer but has direct responsibility and reporting to the Board of Directors through an Audit Committee. 
+* **Quality Assurance and Improvement Program** - _The Internal Audit team will maintain a quality assurance and improvement program that covers all aspects of the Internal Audit department._ 
 
-# Internal Audit Activity Charter (effective 2019-06-07)
+* **Approval/signatures** – _The Internal Audit charter is approved by the Audit Committee Chair, CFO, and The Company's Vice President, Internal Audit._
 
- [Model Internal Audit Activity Charter](https://na.theiia.org/standards-guidance/Public%20Documents/Model%20Internal%20Audit%20Activity%20Charter.pdf) by the [Institute of Internal Auditors](https://na.theiia.org/standards-guidance/topics/pages/the-internal-audit-function.aspx)
+<br>
 
-**Introduction**
+#### Purpose and Mission
 
-Internal Audit is an independent and objective assurance and consulting activity that is guided by a philosophy of adding value to improve the control environment around GitLab’s financial reporting and to recommend operational efficiencies of GitLab as requested. It assists in accomplishing its objectives by bringing a systematic and disciplined approach to evaluate and improve the effectiveness of the organization's governance, risk management and internal controls.
+The purpose of GitLab’s (“**Company**”) internal audit team (“**IA Team**”) is to provide independent, objective assurance and consulting services designed to add value and improve the Company’s operations. The internal audit department helps the Company accomplish its objectives by bringing a systematic, disciplined approach to evaluate and improve the effectiveness of governance, risk management, and control processes. 
 
-**Role**
+<br>
 
-Currently, the internal audit activity is established by the finance team reporting to the Principal Accounting Officer , with dotted line control and input from the Audit Committee of the Board of Directors. Internal Audit has direct access to and oversight from the Audit Committee in its charter. The internal audit activity’s responsibilities will be defined by the Audit Committee as part of its oversight role.
+#### Standards for the Professional Practice of Internal Auditing 
 
-**Professionalism**
+The internal audit department will govern itself by adherence to the mandatory elements of The Institute of Internal Auditors' International Professional Practices Framework, including the Core Principles for the Professional Practice of Internal Auditing, the Company’s Code of Business Conduct & Ethics (the “**Code of Ethics**”), the Institute of Internal Auditors (IIA) Code of Ethics, the International Standards for the Professional Practice of Internal Auditing (the “**Standards**”), and the Definition of Internal Auditing. The Company’s Vice President, Internal Audit will report periodically to the Company’s E-Group and the Company’s Board of Directors’ Audit Committee (“**Committee**”) regarding the internal audit department’s conformance to the Code of Ethics and the Standards. 
 
-The internal audit activity will govern itself by adherence to The Institute of Internal Auditors' mandatory guidance including the Definition of [Internal Auditing](https://global.theiia.org/standards-guidance/mandatory-guidance/Pages/Definition-of-Internal-Auditing.aspx), the [Code of Ethics](https://global.theiia.org/standards-guidance/mandatory-guidance/Pages/Code-of-Ethics.aspx), and the [International Standards for the Professional Practice of Internal Auditing](https://global.theiia.org/standards-guidance/mandatory-guidance/Pages/Standards.aspx). This mandatory guidance constitutes principles of the fundamental requirements for the professional practice of internal auditing and for evaluating the effectiveness of the internal audit activity’s performance. The Institute of Internal Auditors' [Practice Advisories](https://global.theiia.org/standards-guidance/recommended-guidance/Pages/Practice-Advisories.aspx), [Practice Guides](https://global.theiia.org/standards-guidance/recommended-guidance/practice-guides/Pages/Practice-Guides.aspx), and [Position Papers](https://global.theiia.org/about/about-internal-auditing/Pages/Position-Papers.aspx) will also be adhered to as applicable to guide operations. In addition, the internal audit activity will adhere to GitLab relevant policies and procedures and the internal audit activity's standard operating procedures manual.
+<br>
 
-**Authority**
+#### Authority 
 
-The internal audit activity, with strict accountability for confidentiality and safeguarding records and information, is authorized full, free, and unrestricted access to any and all of GitLab records, physical properties, and personnel pertinent to carrying out any engagement. All employees are requested to assist the internal audit activity in fulfilling its roles and responsibilities.
+The Company's Vice President, Internal Audit will report functionally to the Committee and administratively (i.e., day-to-day operations) to the Company’s Chief Financial Officer. To establish, maintain, and assure that the IA Team has sufficient authority to fulfill its duties, the Committee will: 
+* Approve the IA Team’s charter. 
+* Approve the risk-based internal audit plan and budget. 
+* Receive communications from the Company’s Vice President, Internal Audit on the IA Team’s performance relative to its plan and other matters. 
+* Make appropriate inquiries of Company management and the Company’s Vice President, Internal Audit to determine whether there is inadequate scope or resource limitations. 
+* Evaluate performance of the IA Team. 
 
-**Organization**
+The Company’s Vice President, Internal Audit will have unrestricted access to, and communicate and interact directly with, the Committee, as necessary, including in private meetings without Company management present. 
 
-The Senior Internal Audit Manager will report to the Principal Accounting Officer. Overall guidance and direction will be from the Audit Committee of the Board of Directors.
-**Functions of the Audit Committee**
+The Committee authorizes the IA Team to: 
+* Have full, free, and unrestricted access to all functions, records, property, and personnel pertinent to carrying out any engagement, subject to accountability for confidentiality and safeguarding of records and information. 
+* Allocate resources, set frequencies, select subjects, determine scopes of work, apply techniques required to accomplish audit objectives, and issue reports. 
+* Obtain assistance from the necessary personnel of the Company, as well as other specialized services from within or outside the Company, in order to complete any engagement.
 
-The Audit Committee will perform the following functions:
-1. Approve the internal audit charter. 
-1. Approve the risk-based internal audit plan.
-1. Receive communications from the Senior Internal Audit Manager on the internal audit activity’s performance relative to its plan and other matters.
+<br>
 
+#### Independence and Objectivity 
 
+The Vice President, Internal Audit will ensure that the IA Team remains free from all conditions that threaten the ability of internal auditors to carry out their responsibilities in an unbiased manner, including matters of audit selection, scope, procedures, frequency, timing, and report content. If the Company’s Vice President, Internal Audit determines that independence or objectivity may be impaired in fact or appearance, the details of impairment will be disclosed to the Committee. 
 
-**Independence and Objectivity**
+Members of the IA Team will maintain an unbiased attitude that allows them to perform engagements objectively and in such a manner that they have confidence in their work product, that no quality compromises are made, and that they do not subordinate their judgment on audit matters to others. 
 
-The internal audit activity will remain free from interference by any element in the organization, including matters of audit selection, scope, procedures, frequency, timing, or report content to permit maintenance of a necessary independent and objective mental attitude. 
+Members of the IA Team will have no direct operational responsibility or authority over any of the activities audited. Accordingly, members of the IA Team will not implement internal controls, develop procedures, install systems, prepare records, or engage in any other activity that may impair their judgment, including: 
 
-Internal auditors will have no direct operational responsibility or authority over any of the activities audited. Accordingly, they will not implement internal controls, develop procedures, install systems, prepare records, or engage in any other activity that may impair internal auditor’s judgment.
+* Assessing specific operations for which they had responsibility within the previous year. 
+* Performing any operational duties for the Company or its subsidiaries. 
+* Initiating or approving transactions external to the IA Team. 
+* Directing the activities of any Company team member not on the IA Team, except to the extent that such team members have been appropriately assigned to internal audit auditing teams or to otherwise assist members of the IA Team. 
 
-Internal auditors will exhibit the highest level of professional objectivity in gathering, evaluating, and communicating information about the activity or process being examined. Internal auditors will make a balanced assessment of all the relevant circumstances and not be unduly influenced by their own interests or by others in forming judgments. 
+Where the Company’s Vice President, Internal Audit has or is expected to have roles and/or responsibilities that fall outside of internal auditing, safeguards will be established by the IA team and approved by the Committee to limit impairments to independence or objectivity. 
 
+Members of the IA Team will: 
+* Disclose any impairment of independence or objectivity, in fact or appearance, to the Committee. 
+* Exhibit objectivity in gathering, evaluating, and communicating information about the activity or process being examined. 
+* Make balanced assessments of all available and relevant facts and circumstances. 
+* Take necessary precautions to avoid being unduly influenced by their own interests or by others in forming judgments. 
 
-**Responsibility**
+The Company’s Vice President, Internal Audit will report and confirm to the Committee, at least annually, the organizational independence of the internal audit department. 
 
-The scope of internal auditing encompasses, but is not limited to, the examination and evaluation of the adequacy and effectiveness of the organization's governance, risk management, and internal controls as well as the quality of performance in carrying out assigned responsibilities to achieve the organization’s stated goals and objectives. This includes:
-* Evaluating risk exposure relating to achievement of the organization’s strategic objectives
-* Evaluating the reliability and integrity of information and the means used to identify, measure, classify, and report such information.  
-* Evaluating the systems established to ensure compliance with those policies, plans, procedures, laws, and regulations which could have a significant impact on the organization.
-* Evaluating the means of safeguarding assets and, as appropriate, verifying the existence of such assets. 
-* Evaluating the effectiveness and efficiency with which resources are employed.
-* Evaluating operations or programs to ascertain whether results are consistent with established objectives and goals and whether the operations or programs are being carried out as planned.
-* Monitoring and evaluating governance processes. Monitoring and evaluating the effectiveness of the organization's risk management processes.  
-* Evaluating the quality of performance of external auditors and the degree of coordination with internal audit.
-* Performing consulting and advisory services related to governance, risk management and control as appropriate for the organization.
-* Reporting periodically on the internal audit activity’s purpose, authority, responsibility, and performance relative to its plan.
-* Reporting significant risk exposures and control issues, including fraud risks, governance issues, and other matters needed or requested by the Audit Committee.
-* Evaluating specific operations at the request of the Board of Directors or executive management.
+The Company’s Vice President, Internal Audit will disclose to the Committee any interference and related implications in determining the scope of internal auditing, performing work, and/or communicating results. 
 
-**Internal Audit Plan**
+<br>
 
-At least annually, the Senior Internal Audit Manager will submit to executive management and the Audit Committee an internal audit plan for review and approval. The internal audit plan will consist of a work schedule for the next fiscal/calendar year. The Senior Internal Audit Manager will communicate significant interim changes to executive management and the Audit Committee.
+#### Scope of Internal Audit Activities
 
-The internal audit plan will be developed based on a prioritization of the audit universe using a risk-based methodology, including input of executive management and the Audit Committee. The Senior Internal Audit Manager will review and adjust the plan, as necessary, in response to changes in the organization’s business, risks, operations, programs, systems, and controls. Any significant deviation from the approved internal audit plan will be communicated to executive management and the Audit Committee through periodic activity reports.
+The scope of the IA Team’s activities encompasses, but is not limited to, objective examinations of evidence for providing independent assessments to the Committee, Company management, and outside parties on the adequacy and effectiveness of governance, risk management, and control processes for the Company. Internal audit assessments include evaluating whether: 
 
-**Reporting and Monitoring**
+* Risks relating to the achievement of the Company’s strategic objectives are appropriately identified and managed. 
+* The actions of the Company’s officers, directors, team members, and contractors are in compliance with the Company’s policies, procedures, and applicable laws, regulations, and governance Standards. 
+* The results of operations or programs are consistent with established goals and objectives. 
+* Company operations or programs are being carried out effectively and efficiently. 
+* The Company has established processes and systems to enable compliance with the policies, procedures, laws, and regulations that could significantly impact the Company. 
+* Information and the means used to identify, measure, analyze, classify, and report such information are reliable and have integrity. 
+* Resources and assets are acquired economically, used efficiently, and protected adequately. 
 
-A written report will be prepared and issued by the Senior Internal Audit Manager or designee following the conclusion of each internal audit engagement and will be distributed as appropriate. Internal audit results will also be communicated to the Audit Committee.
+The Company’s Vice President, Internal Audit will report periodically to E-group t and the Committee regarding: 
+* The IA Teams plan and performance relative to its plan; 
+* TheIATeam’s conformance with The IIA’s Code of Ethics and Standards, and action plans to address any significant conformance issues; 
+* The Company’s significant risk exposures and control issues, including fraud risks, governance issues, and other matters requiring the attention of, or requested by, the Committee; 
+* Results of audit engagements or other activities; 
+* Resource requirements; and 
+* Any response to risk by management that may be unacceptable to the Company. 
 
-The internal audit report will include management’s response and corrective action taken or to be taken in regard to the specific findings and recommendations. Management's response, whether included within the original audit report or provided thereafter (i.e. within thirty days) by the management of the audited area should include a timetable for anticipated completion of action to be taken and an explanation for any corrective action that will not be implemented.
+The Company’s Vice President, Internal Audit also coordinates activities, where possible, and considers relying upon the work of other internal and external assurance and consulting service providers as needed. The IA Team may perform advisory and related management service activities, the nature and scope of which will be agreed with the management, provided the IA Team does not assume management responsibility. 
 
-The internal audit activity will be responsible for appropriate follow-up on engagement findings and recommendations. All significant findings will remain in an open issues file until cleared.
+Opportunities for improving the efficiency of governance, risk management, and control processes may be identified during engagements. These opportunities will be communicated to the appropriate level of management. 
 
-The Senior Internal Audit Manager will periodically report to executive management and the Audit Committee on the internal audit activity’s purpose, authority, and responsibility, as well as performance relative to its plan. Reporting will also include significant risk exposures and control issues, including fraud risks, governance issues, and other matters needed or requested by senior management and the Audit Committee.
+<br>
 
-**Quality Assurance and Improvement Program**
+#### Responsibility
 
-The internal audit activity will maintain a quality assurance and improvement program that covers all aspects of the internal audit activity. The program will include an evaluation of the internal audit activity’s conformance with the Definition of [Internal Auditing](https://global.theiia.org/standards-guidance/mandatory-guidance/Pages/Definition-of-Internal-Auditing.aspx) and the [Standards](https://global.theiia.org/standards-guidance/mandatory-guidance/Pages/Standards.aspx) and an evaluation of whether internal auditors apply the [Code of Ethics](https://global.theiia.org/standards-guidance/mandatory-guidance/Pages/Code-of-Ethics.aspx). The program also assesses the efficiency and effectiveness of the internal audit activity and identifies opportunities for improvement.
+The Company’s Vice President, Internal Audit has the responsibility to: 
 
-The Senior Internal Audit Manager will communicate to management and Audit Committee on the internal audit activity’s quality assurance and improvement program, including results of ongoing internal assessments and external assessments conducted at least every five years.
+* Submit, at least annually, to E-group and the Committee a risk-based internal audit plan for review and approval.
+* Communicate to E-Group and the Committee the impact of resource limitations on the internal audit plan. 
+* Review and adjust the internal audit plan, as necessary, in response to changes in the Company’s business, risks, operations, programs, systems, and controls. 
+* Communicate to E-group and the Committee any significant interim changes to the internal audit plan. 
+* Ensure each engagement of the internal audit plan is executed, including the establishment of objectives and scope, the assignment of appropriate and adequately supervised resources, the documentation of work programs and testing results, and the communication of engagement results with applicable conclusions and recommendations to appropriate parties. 
+* Follow up on engagement findings and corrective actions, and report periodically to E-group and the Committee any corrective actions not effectively implemented. 
+* Ensure the principles of integrity, objectivity, confidentiality, and competency are applied and upheld. 
+* Ensure the IA Team collectively possesses or obtains the knowledge, skills, and other competencies needed to meet the requirements of the internal audit charter. 
+* Communicate trends and emerging issues that could impact the Company to E-group and the Committee as appropriate. 
+* Ensure emerging trends and successful practices in internal auditing are considered. 
+* Establish and ensure adherence to policies and procedures designed to guide the IA Team. 
+* Ensure IA Team’s adherence to the Company’s relevant policies and procedures, unless such policies and procedures conflict with the internal audit charter. Any such conflicts will be resolved or otherwise communicated to E-group and the Committee. 
+* Ensure conformance of the IA Team with the Standards, with the following qualifications:<br> 
+   - If the IA Team is prohibited by law or regulation from conforming with certain parts of the Standards, the Company’s Vice President, Internal Audit will ensure appropriate disclosures and will ensure conformance with all other parts of the Standards. 
+   - If the Standards are used in conjunction with requirements issued by other authoritative bodies, the Company’s Vice President, Internal Audit will ensure that the IA Team conforms with the Standards, even if the IA Team also conforms with the more restrictive requirements of other authoritative bodies.
 
+<br>
+
+#### Quality Assurance and Improvement
+
+Program The IA Team will maintain a quality assurance and improvement program that covers all aspects of the IA Team. The program will include an evaluation of the IA Team’s conformance with the Standards and an evaluation of whether internal auditors apply The IIA’s Code of Ethics. The program will also assess the efficiency and effectiveness of the IA Team and identify opportunities for improvement. 
+
+The Company’s Vice President, Internal Audit will communicate to E-group and the Committee on the IA Team’s quality assurance and improvement program, including results of internal assessments (both ongoing and periodic) and external assessments conducted at least once every five years by a qualified, independent assessor or assessment team from outside the Company.
+
+<br>
 
 # Internal Audit Performance Measures
 
