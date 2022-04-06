@@ -33,9 +33,9 @@ Success Plans are more focused on quantitative objectives such as use case adopt
 
 #### Metrics for Align
 
-1. 100% net-new customers with success plans (value drivers, use cases)
-1. EBRs held with 50% of customers with product usage data
-1. EBRs held with 50% of Priority 1 customers
+1. 100% of net-new customers with green success plans (value drivers, use cases) within first 60 days
+1. 100% of Priority 1 customers with green success plans
+1. EBRs held with at least 50% of Priority 1 customers (with the eventual goal of 100%)
 
 ### Enable
 
@@ -50,7 +50,6 @@ Onboarding:
 1. Time to Onboard: within 45 days
 1. Attendance in onboarding webinars of at least 50% of net-new customers
 1. Average onboarding NPS & CSAT scores over 4.0 (out of 5)
-1. 100% of net-new customers have green success plans within 60 days
 1. Primary use case health scores green within first 90 days
 
 ### Expand & Renew
