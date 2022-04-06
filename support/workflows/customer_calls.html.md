@@ -29,6 +29,10 @@ A few point to consider when sending a customer the invite to call link.
 * If you know your availability is limited, or you need additional backup, check with another engineer to see if they might also be available to take the call.
 * If you're not comfortable enough to take the call, **you should shadow any call that does take place** to upskill.
 
+#### Customer No Shows
+
+There are many reasons that a customer may not be able to join a call. If a customer doesn't join the call and you've waited for over *10 minutes*, end the call, update the ticket and resend your Calendly link to schedule a new call. Your response on the ticket should just state that you're sorry you didn't get a chance to meet and would they please use the link to schedule a new call.
+
 #### Pre-call email
 
 Please consider sending a pre-call email. This helps set expectations to the call regarding goals, duration, and
@@ -51,7 +55,7 @@ for that, please modify it as you see fit.
    1. Next steps for GitLab Support Engineer
    1. Next steps for user
    1. Next call recommendations (timing/goals/expectations)
-* Note: If customer doesn't join the call and you've waited for over 10 minutes, end the call, update the ticket and resend calendly link.
+* Note: As noted above, if the customer doesn't join the call and you've waited for over *10 minutes*, end the call, update the ticket and resend your Calendly link so the customer can reschedule.
 
 ##### Notes on intake, upgrade and installation support calls
 
