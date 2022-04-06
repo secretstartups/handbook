@@ -102,6 +102,7 @@ GitLab field team members must understand how various elements of the GitLab por
 | What about GitLab testing capabilities? | - [Pipeline Insights Direction Handbook pages](https://about.gitlab.com/handbook/product/categories/#pipeline-insights-group) <br> - [Verify:Pipeline Testing Category Vision and Positioning](https://youtu.be/Zisa9Qfh8v8) (Sep 2021, 26 minutes) |
 | What are the most common technical questions that GitLab sales team members should be able to answer? | - Check out the [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/) page |
 | Where can I learn about GitLab High Availability, Data Resiliency and Performance? | - Check out the [Operational Efficiencies & Flexible Hosting Options with Gitaly Cluster](https://youtu.be/zI1t0IyHayM) video. (Dec 2021, 30 minutes) |
+| Where can I learn about GitLab Cloud Licensing? | - Check out the [GitLab Cloud Licensing Update](https://youtu.be/A5IOhI-QPXY) video. (Mar 2022, 30 minutes) |
 
 ## Functional and Technical Skills & Processes
 To optimize productivity, GitLab field team members must be able to consistently demonstrate the skills and behaviors (including adherence to standard processes and use of tools like Salesforce, Gainsight, and others) that lead to desired outcomes. These functional and technical skills and processes are complementary and in addition to GitLab's [Values](/handbook/competencies/#values-competencies) and [Remote Working](/handbook/competencies/#remote-work-competencies) competencies.
