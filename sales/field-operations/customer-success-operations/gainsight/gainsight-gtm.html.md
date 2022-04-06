@@ -139,29 +139,9 @@ Activity Timeline is automatically synced back from Gainsight to Salesforce
 
 ### Push to SFDC
 
-Pushes a variety of data points back from Gainsight to Salesforce. The following Salesforce fields are populated via this rule that pushes info back from Gainsight to their associated Salesforce account:
+A variety of data points are pushed back from Gainsight to Salesforce. To see the complete list of fields and objects that are synced back from Gainsight to Salesforce, see [Using Gainsight Data in SFDC](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/using-gainsight-data-in-sfdc/).
 
-- [GS] TAM Sentiment :Former Health Score
-- [GS] Provider
-- [GS] Geo?
-- [GS] Google Doc Notes
-- [GS] Health Score
-- [GS] Health Score Label
-- [GS] High Availability?
-- [GS] Hosting
-- [GS] Lifecycle Stage
-- [GS] Architecture Diagram Link
-- [GS] Customer Type
-- [GS] Support Issues Measure
-- [GS] Summary
-- [GS] Triage Issue URL
-
-This rule also pushes back to contacts in Salesforce in the event that anyone in Gainsight marks them as someone who has opted out of marketing communication.
-
-This rule also pushes back any contacts that were created in Gainsight and that do not exist in Salesforce.
-
-To see a complete list of fields that are synced back from Gainsightto Salesforce review the `Gainsight => SFDC` Tab in the [Gainsight GTM Technical Document](https://docs.google.com/spreadsheets/d/15ppKZ164nRWbDm4LDm0FQBslxS5d8A6S2UJLWFDgzUA/edit#gid=1617197788).
-
+This rule also pushes back to contacts in Salesforce in the event that anyone in Gainsight marks them as someone who has opted out of marketing communication, as well as any contacts that were created in Gainsight and that do not exist in Salesforce.
 ## Gainsight sync timing
 
 Gainsight syncs any updates, new customer accounts, and more up into Gainsight first before pushing information back to Salesforce.
