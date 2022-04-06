@@ -87,6 +87,7 @@ You can request one of the following seats (we recommend requesting a **Recruite
 * A **Hiring Manager** seat allows a user to collaborate on projects, where they can share- and review profiles and provide feedback on prospective candidates.
 * A **Recruiter** seat allows a user to create projects, search for prospective candidates, send InMails, and enable the integration with Greenhouse.
     * If requesting a **Recruiter** seat with the intention of messaging prospective candidates, please familiarize yourself with LinkedIn's [Recruiter InMail Policy](https://www.linkedin.com/help/recruiter/answer/50181).
+        * Please note, if you're active on your LinkedIn Recruiter account for 3 days or less each quarter, your account will be deprovisioned and reassigned to provide opportunities to other team members to leverage a LinkedIn Recruiter seat. The analysis of account usage will take place on the last week of each quarter and access will be deprovisioned thereafter. If your account was deprovisioned and you still require access or require access in the future, submit a new issue requesting access.
 
 Based on LinkedIn's research, passive candidates are more likely to respond to direct outreach from the hiring team member than from a talent acquisition team.
 That's why we're encouraging greater adoption and use of **LinkedIn Recruiter** company-wide.
@@ -96,7 +97,7 @@ Follow the instruction on the sheet, discuss with your Sourcing partner the keyw
 
 Please reach out to your recruiter for tips on how to improve your LinkedIn profile, write an *InMail*, and use *Projects*.
 
-To note, we **won't** be able to reimburse any LinkedIn seats purchased at your own expense.
+Please note, we **won't** be able to reimburse any LinkedIn seats purchased at your own expense.
 
 ## LinkedIn Talent Insights
 
