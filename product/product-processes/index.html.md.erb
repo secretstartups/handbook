@@ -158,7 +158,7 @@ The product direction is an important part of each PMs work. PMs are expected to
 
 Around November, we begin the [annual planning cycle](/handbook/finance/financial-planning-and-analysis/#annual-plan), which ties closely into the [overall strategy](/company/strategy/). During this period we update the `direction` label and apply it to issues that have been identified as contributing to the plan that year.
 
-PMs are able to refine their plans and strategy throughout the year, but since the these are important to be aware of,
+PMs are able to refine their plans and strategy throughout the year, but since these are important to be aware of,
 major updates to the content that happen ad-hoc should also be communicated widely - for example,
 using the Product FGC meetings or other communication channels.
 
@@ -178,7 +178,7 @@ The steps for creating and managing a cross-section or stage direction are:
 1. Create a direction page merge request adding the direction page to the [GitLab direction directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/direction)
 1. Select the category change template in the merge request 
 1. Follow the process for [category changes](/handbook/product/categories/#changes) 
-1. Add [CODEOWNERS](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) by adding an entry with the direction page link and the page DRI GitLab Handle. 
+1. Add [CODEOWNERS](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) by adding an entry with the direction page link and the page DRI GitLab Handle.
 1. Once approved, `@` all relevant product managers on the addition 
 
 Once the direction page has been added, there needs to be an assigned DRI for maintaining monthly updates for the page. The process for keeping the page updated are:
@@ -198,14 +198,14 @@ A category upgrade from minimal to viable or delivery of a top customer issue (f
 
 Conversely, in a broad sense anything could move the plan forward in a general way. Product Direction items (i.e., with the label) should be direction-level items that move the strategy forward meaningfully. This is up to the PM to set the bar for, but there should be a clear step forward with real user value.
 
-Finally, issues are the substance of your plan. Ensure you are applying the label to both revelant epics _and_ its issues. If you want epics with the `direction` label to appear on your group's [direction pages](/handbook/product/product-processes/#managing-your-product-direction), you must first enable the capbility.
+Finally, issues are the substance of your plan. Ensure you are applying the label to both revelant epics _and_ its issues. If you want epics with the `direction` label to appear on your group's [direction pages](/handbook/product/product-processes/#managing-your-product-direction), you must first enable the capability.
 
 ##### Enabling direction epics
 
 [Video walkthrough](https://youtu.be/LU2v76kv8vA)
 
 - Add your Stage name to the `INCLUDE_EPICS` array in `www-gitlab-com/generators/direction.rb` For example, this is how Secure looks: `INCLUDE_EPICS['secure'] = true`
-- Apply the `Direction` label to appropriate epics.
+- Apply the `direction` label to appropriate epics.
 - Next time the Marketing component of the handbook builds, any epics will be included in the auto-generated Direction lists.
 
 **Note:** There may be some delay in Direction epics appearing as the API calls that pull epics and issues for these pages is cached for 24 hours.
@@ -219,7 +219,7 @@ should be included; if not, it's possible you're getting off track from where yo
 to go and should assess.
 
 Note that, by their nature, Product Direction items should not be sitting in the backlog or with no
-milestone. If they are this is a signal that either they are not as important as originally
+milestone. If they are, this is a signal that either they are not as important as originally
 thought, or that something important is not getting due attention.
 
 ### Prioritization: Ahead of kickoff
@@ -282,7 +282,7 @@ When planning, Product Managers plan to GitLab milestones. Here is the process f
 
 ### Product Milestones Usage
 
-- These milestones are used create boards and Issues for each release
+- These milestones are used to create boards and issues for each release
 - The [Product Development Google Calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_baef86oeitmd9uuq7m9i8021j8%40group.calendar.google.com) (WIP) - also uses these milestone names and dates.
 
 ### Relevant links
@@ -339,7 +339,7 @@ You can promote your work in several ways:
 the different teams
 - schedule meetings, if you think it's important, with the teams listed above.
 
-When referencing issues in written communication using just the issue number `#123456` and a link is not [low-context communication:](/company/culture/all-remote/effective-communication/#understanding-low-context-communication). Instead use the title of the issue and the link or the issue number and description of the problem that issue will solve:
+When referencing issues in written communication using just the issue number `#123456` and a link is not [low-context communication](/company/culture/all-remote/effective-communication/#understanding-low-context-communication). Instead use the title of the issue and the link or the issue number and description of the problem that issue will solve:
 
 - Good: `We will next be working on [Detect and display code coverage reports on MR](https://gitlab.com/gitlab-org/gitlab/-/issues/21549)`. OR `We will next be working on [gitlab#21549](https://gitlab.com/gitlab-org/gitlab/-/issues/21549) which will help developers view code coverage reports directly in GitLab instead of losing context by looking in another tool while reviewing an MR`.
 - Avoid: `We will next be working on #21549.`.
@@ -770,12 +770,12 @@ Despite its minimal form, the change
 
 [![xkcd.com](https://imgs.xkcd.com/comics/optimization.png)](https://xkcd.com/1691/)
 
-### QA RCs on staging and elsewhere
+### QA Release Candidates on staging and elsewhere
 
 After the feature freeze, it's expected of each product manager to test their own features and perform quality assurance
 to the best of their ability and follow up where necessary.
 
-Product managers can use the staging environment once the release managers have deployed a release candidate to staging.
+Product managers can use the staging environment once the release managers have deployed a release candidate (RC) to staging.
 Release managers should post in the #product channel in Slack that a new release candidate is available. Product managers
 can also use other environments as needed, such as GitLab provisioned on Kubernetes with GKE.
 
@@ -961,7 +961,7 @@ Three fields are particularly important when triaging requests:
 All product managers should ensure they are set up to receive label notifications for their respective stages:
 
 1. List the [product project's labels](https://gitlab.com/gitlab-com/Product/-/labels)
-1. Subscribe to relevant the stage labels.
+1. Subscribe to relevant stage labels.
 
 ## How to work as a PM
 
@@ -1661,7 +1661,7 @@ We recently [conducted a GTM and R&D sensing mechanism survey](https://gitlab.co
 ###### Internal
 
 1. Leadership [OKRs](/company/okrs/) set the direction for the company
-1. Each PM should be having regular conversations with their [stage groups stable counterparts](/handbook/product/categories/) to discuss their strategy and plan. Share this discussion with the company via our GitLab Unfiltered [YouTube](/handbook/communication/youtube/) channel. PMs should share your next three milestones, year-long plan, strategy, and relevant OKRs (with status) so everyone can contribute feedback.
+1. Each PM should be having regular conversations with their [stage groups stable counterparts](/handbook/product/categories/) to discuss their strategy and plan. Share this discussion with the company via our GitLab Unfiltered [YouTube](/handbook/communication/youtube/) channel. PMs should share their next three milestones, year-long plan, strategy, and relevant OKRs (with status) so everyone can contribute feedback.
 
 1. Dialogue with [internal customers](#dogfood-everything), and review of the [internal customer](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=internal%20customer) and [rebuild in GitLab](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=rebuild%20in%20GitLab) labels
 
