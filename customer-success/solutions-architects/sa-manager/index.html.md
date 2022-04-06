@@ -26,7 +26,7 @@ As part of the regular rhythm of business, it is important to review activities 
 
 Reviewing Chorus calls at least quarterly can allow for SA Managers to check in and give managers opportunities to provide timely feedback on technical discovery calls or demos.  
 
-Considering data sovereignity challenges in certain parts of the world and nations, it may not always be possible to review recorded Chorus call, i.e. for regions such as APAC or EMEA. As a result, the SA Manager should collaborate with cross-functional teams and consider joining internal or external meetings instead. This will ensure adherence to sales plans and staregies as well as assistance in key business opportunities. Additionally, by providing leadership on initiatives and opportunities, the SA Manager can share best practises and approaches with the teams and clients.
+Considering data sovereignity challenges in certain parts of the world and nations, it may not always be possible to review recorded Chorus call, i.e. for regions such as APAC or EMEA. As a result, the SA Manager should collaborate with cross-functional teams and consider joining internal or external meetings instead. This will ensure adherence to sales plans and strategies as well as assistance in key business opportunities. Additionally, by providing leadership on initiatives and opportunities, the SA Manager can share best practises and approaches with the teams and clients.
 
 It increases efficiecies towards the achievement of regional goals and objectives and helps to refer to upper management on potential issues and challenges. Collaboration with sales management to fully qualify and manage the delivery of solution architecture engagements during technical evaluations on key strategic client opportunities is encouraged.
 
@@ -42,7 +42,7 @@ The SA Manager is responsible for developing and delivering a [Quarterly Busines
 SA Managers typically cover the following information:
 - Review past quarter 
 - Assess current quarter 
-- Review strategic inititaitves
+- Review strategic initiatives
 - Review sales talent needs
 - Review retrospective results 
 
@@ -70,12 +70,14 @@ Developing and retaining key talent is constantly top-of-mind for high-performin
 
 Additionally, SA Managers should reinforce [key enablement initiatives](https://gitlab.edcast.com/teams/solution-architects-sas) and encourage participation in the [CS Skills Exchange](/handbook/sales/training/customer-success-skills-exchange/). 
 
+SA Managers should encourage and lead team member's proactively to discuss [individual development and growth path](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#roles-and-responsibilities) and always aim to assist team members to grow careers.
+
 #### One-on-Ones
-As part of reviewing and supporting the team activities, SA Managers should meet with each team member weekly. This is imporant to build rapport and trust between manager and team member. With this is mind, SA Managers should add topics to the agenda and encourage team members to contributre to the agenda as well. One-on-Ones can be a great place to check on team member's health and workload, identify needs of individual team members, review top deals, and provide feedback and coaching. 
+As part of reviewing and supporting the team activities, SA Managers should meet with each team member weekly. This is imporant to build rapport and trust between manager and team member. With this is mind, SA Managers should add topics to the agenda and encourage team members to contributre to the agenda as well. One-on-Ones can be a great place to check on team member's health and workload, identify needs of individual team members, review top deals, and provide feedback and coaching. One-on-One meetings with direct team members should also follow the GitLab guidance outline [here](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/#notetaking-and-structure-during-the-meeting) and document discussions.
 
 ### Team Assessment
 Twice a year, SA Managers should conduct a team assessment to: 
--  Identify at Risk and High Potential Team Members
+- Identify at Risk and High Potential Team Members
 - Identify resource needs for the next 6-months 
 - Determine succession plan  
 - Update rolling 6 to 12 month promotion forecast 
