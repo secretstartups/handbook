@@ -275,7 +275,7 @@ Determine what metrics are important for your specific section, stage, or group.
 1. Determine the right [collection framework](/direction/product-intelligence-guide/#collection-framework) to utilize. Some guidance for considering collection frameworks:
     - **Service Ping - General** - There are many frameworks that report via Service Ping. All of them have various capabilities regarding types of events and available segementation. All Service Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage.
     - **Snowplow** - Investment in instrumentation should be discouraged - there is already great URL and path tracking from SnowPlow for Gitlab.com. If additional tracking is needed on front-end events consider utilizing Service Ping Redis HLL. Snowplow instrumentation becomes immediately available on GitLab.com only.
-    - **Service Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javascript) and server (Ruby) side. Redis HLL does not provide session level segmentation on GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed.
+    - **Service Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javascript) and server (Ruby) side. Redis HLL does not provide session level segmentation on GitLab.com. As Service Ping instrumentation it is returned from both SaaS and Self-Managed.
     - **Service Ping - Postgres** - Our original Service Ping implementation this collects distinct database counts.
     - **Service Ping - Prometheus** - Note there is no future plan to increase the segmentation of this collection framework and it is presently limited to Instance wide metrics.
 1. Plan your future events and metrics with your engineering team and add them to the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485).
@@ -337,7 +337,7 @@ In total, plan for up to 38 day cycle times (Examples [1](https://gitlab.com/git
 
 1. Merge your metrics into the next self-managed release as early as possible.
 1. Wait for your metrics to be released onto production GitLab.com. These releases currently happen on a daily basis.
-1. Usage Pings are generated on GitLab.com on a weekly basis. Monitor the #g_product_intelligence slack channel where the Product Intelligence team will post the latest GitLab.com Usage Ping ([example](https://gitlab.slack.com/files/ULXG09FAL/F01905UPPL0/12-gitlab.com-usage-data-for2020-08-04.json?origin_team=T02592416&origin_channel=CL3A7GFPF)). Verify your new metrics are present in the GitLab.com Usage Ping payload.
+1. Service Pings are generated on GitLab.com on a weekly basis. Monitor the #g_product_intelligence slack channel where the Product Intelligence team will post the latest GitLab.com Service Ping ([example](https://gitlab.slack.com/files/ULXG09FAL/F01905UPPL0/12-gitlab.com-usage-data-for2020-08-04.json?origin_team=T02592416&origin_channel=CL3A7GFPF)). Verify your new metrics are present in the GitLab.com Service Ping payload.
 1. Wait for the Versions database to be imported into the data warehouse.
 1. Check the dbt model [version_usage_data_unpacked](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.version_usage_data_unpacked#columns) to ensure the database column for your metric is present.
 1. Check [Sisense](http://app.periscopedata.com/app/gitlab/) to ensure data is available in the data warehouse.
