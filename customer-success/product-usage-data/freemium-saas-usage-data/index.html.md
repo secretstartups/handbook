@@ -25,6 +25,16 @@ Empower our internal team with lightweight Free/Trial usage insights in Salesfor
 
 ### Using the Data
 
+For a high level overview (6 minutes), see:
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://youtu.be/28_bgDL__BQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>  
+<!-- blank line -->
+
+([link to video](https://youtu.be/28_bgDL__BQ) above is Private on GitLab Unfiltered)
+
 Below are the fields, descriptions, and best practices for each field. These can be used to help us understand what the customer is using GitLab for and how we can help them achieve their desired outcomes. For example, high ci pipeline usage indicates we may want to start the conversation around CI, or that they've already accomplished that objective.
 
 | Field Label                            | Description                                                  | Use Case                                                     |
@@ -47,6 +57,12 @@ Below are the fields, descriptions, and best practices for each field. These can
 | **List of Shared Accounts**            | List of the accounts that is sharing the same company id     |                                                              |
 
 You can view this on the Salesforce Account page, or create a Salesforce report using "Account" as the type.
+
+### Additional Resources
+
+1. [List of all Free/Trial Accounts in SFDC](https://gitlab.my.salesforce.com/00O8X000008QZom)
+1. [SaaS Free/Trial Usage Data Dashboard](https://gitlab.my.salesforce.com/01Z8X000001DgIu)
+1. [Personalized Report for Account Owners](https://gitlab.my.salesforce.com/00O8X000008Qa7o) - This report will allow you to see a complete list of your assigned accounts which have Freemium SaaS usage. Insert your name into the `Account Owner` filter to populate this report. 
 
 ### Reporting data quality issues
 
