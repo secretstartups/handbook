@@ -87,8 +87,8 @@ When this happens, it is important to manage the disengagement so that the custo
 
 Recommended options to review with the customer include:
 
-- Troubleshooting, errors, outages, and basic "howto" technical questions should go to Support.
-- Complex "howto" and workflow advice should be sent _in writing_ to the SAL/AE. Doing it in writing lets them work with the whole of Customer Success asynchronously to get the best solution.
+- Troubleshooting, errors, outages, and basic "how to" technical questions should go to Support.
+- Complex "how to" and workflow advice should be sent _in writing_ to the SAL/AE. Doing it in writing lets them work with the whole of Customer Success asynchronously to get the best solution.
 - If disengagement is due to the customer downgrading/churning, identify the features they will lose access to with the [feature comparison](https://about.gitlab.com/pricing/self-managed/feature-comparison/) page. 
 - Online resources such as the GitLab documentation, blog, YouTube channels, [community forum](https://forum.gitlab.com/) and other relevant materials that they can for self-serve guidance.
 
@@ -238,7 +238,7 @@ While engaging with a customer, the TAM then determines the appropriate engageme
 **<u>Priority 1</u>**
 - **ARR:** Equal or Greater than $200k 
      OR 
-_ **In-Onboarding:** Customer is in their first 45 days with GitLab
+- **In-Onboarding:** Customer is in their first 45 days with GitLab
 - **Success Planning:** Ongoing critical initiative that requires immediate TAM enablement/ workshops
 - **Growth in the next 3 months:**  Open growth opportunity in Salesforce, and/or explicitly stated intent from the customer for growth
 - **Stages adopted:**  Not already using 2-3 stages
