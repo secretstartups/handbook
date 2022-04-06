@@ -19,11 +19,10 @@ description: "Continuous education webcast series for GitLab Customer Success te
 ## Upcoming Training
 To see what training is coming soon, view the [Customer Success Skills Exchange Issue Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538).
 
-**March 2022 Lineup**
+**Q1 2022 Lineup**
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| 2022-04-06 | **GitLab-Google Cloud Platform** | Atif Rashid |
 | 2022-04-20 | **GitLab Agent for Kubernetes and CI/CD tunnel with generic impersonation** | Cesar Saavedra | 
 
 
@@ -33,6 +32,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2022-04-06 | **[App Modernization with Google Cloud Platform](https://youtu.be/LoLaHUUHk1k)** | Public |
 | 2022-03-30 | **[Alliances Solution Index](https://youtu.be/sKl-pUNqHC4)** | Public |
 | 2022-03-16-17  |  **[GitLab 2022 Sales Kickoff Prework](https://gitlab.edcast.com/insights/ECL-80bd2ef1-0234-4f05-8a02-31c5f056d5a2)**     |    Accelerate is the theme for GitLab SKO 2022 |
 | 2022-03-02 | **[Clickthrough Demos](https://youtu.be/_VMlygiWzPo)**    | Private | 
