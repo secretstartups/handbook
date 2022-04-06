@@ -1,8 +1,10 @@
 ---
 layout: handbook-page-toc
-Title: "Gainsight: Using Gainsight Data in SFDC"
+title: "Gainsight: Using Gainsight Data in SFDC"
 description: "This page is intended for the broader GitLab team to know what Gainsight metrics, fields, entries, and other attributes are available to them in Salesforce. Example: With syncing customer health to Salesforce, it is important to know what those fields are and how to use them."
 ---
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
 
@@ -63,7 +65,7 @@ This page is intended for the broader GitLab team to know what Gainsight metrics
 | Risk Reasons | Risk Reasons are inputted by TAMs which are relevant to that Renewal Opportunity - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/tam/renewals/#risk-reason)  | 
 | Risk Type | Risk Type is inputted by TAMs for the type of risk faced in the renewal (downtier, seat loss, full churn...) - entered through GS | [Link](https://about.gitlab.com/handbook/customer-success/tam/renewals/#risk-type)  |
 
-### Contacts
+## Contacts
 
 | Field Name | Description | Reference |
 |:---|:---|:---|
@@ -78,7 +80,7 @@ This page is intended for the broader GitLab team to know what Gainsight metrics
 | SFDC Contact ID | Contact Identifier  |  |  |
 | Title | Contact’s Job Title |  |  |
 
-### Activities
+## Activities
 
 | Field Name | Description | Reference |
 |:---|:---|:---|
