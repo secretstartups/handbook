@@ -172,6 +172,7 @@ During calibration sessions, leaders should be prepared to discuss:
 3. Cross-functional feedback: As our business goals and initiatives become increasingly cross-functional, managers should have a picture of how their team member collaborates effectively within their immediate teams, and with their core cross-functional partners and stakeholders.
 4. Performance against with the current and (some) next level expectations aligned with the [job framework](https://about.gitlab.com/company/team/structure/#job-frameworks). 
 5. [Competencies](https://about.gitlab.com/handbook/competencies/#list): Where available and applicable. 
+6. Most recent talent assessment (and any relevant changes since)
 
 Calibration should be aligned to the following levels of leaders and people managers:
 
