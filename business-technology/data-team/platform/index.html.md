@@ -85,6 +85,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO| MNPI | Tier | 
 |------------:|:--------:|:---------:|:--------:|:-------:|:--------:|:--------:|:--------:|
 | [Adaptive](https://www.adaptiveplanning.com/) | Meltano | `tap_adaptive` | | Finance | | Yes | Tier 2 |
+| [Adobe / Bizible](https://experienceleague.adobe.com/docs/bizible/using/home.html) | [Airflow](https://airflow.gitlabdata.com/home) | `bizible` | `sensitive` | Marketing | 24h / 36h | No | Tier 2 |
 | [Airflow](https://airflow.apache.org/) | [Stitch](https://www.stitchdata.com/) | `airflow_stitch` | `airflow` |  Data Team | 24h / 24h | No | Tier 3 |
 | [BambooHR](https://www.bamboohr.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `bamboohr` | `sensitive` | People | 12h / 24h | No | Tier 2 |
 | [Clearbit](https://clearbit.com/) | x | x | x | x / x | | No | Tier 3 |
