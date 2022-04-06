@@ -29,11 +29,15 @@ A `Campaign Core Team` is led by a [Marketing Campaign Manager](/handbook/market
 
 **Campaign core team members:**
 * Campaigns (DRI)
-* Product Marketing
-* Technical Marketing
-* Content Marketing
-* Revenue Programs
-* Brand
+* Product Marketing (Primary)
+* Technical Marketing (Primary)
+* Content Marketing (Primary)
+* Revenue Programs (Primary)
+* Brand (Primary)
+* Partner Marketing (Primary)
+* Digital Markeitng (Secondary)
+* SDR Leadership (Secondary)
+* SDR Enablement (Secondary)
 * Corporate Marketing (Liaison for activation)
 * Field Marketing (Liaison for activation)
 
@@ -50,9 +54,35 @@ A `Campaign Core Team` is led by a [Marketing Campaign Manager](/handbook/market
 #### Campaign Core Team Communication
 {: #core-team-communication}
 
-How to keep all teams in the loop will be a key responsibility of the Core Teams, and planning should not happen in silos. Continual communication of plans, progress, and how to leverage the GTM Motion collateral will be a key to success in the FY22 Marketing Plan.
+* **Kickoff in Slack**: Campaign Manager will create a Slack channel for async communication
+* **DRI definition in Slack**: Manager, Campaigns connects with leaders of functional teams to determine functional DRIs
+* **Slack Kickoff Message**: Campaign Manager communicates via the new Slack channel that they will schedule synchronous kickoff with designated DRIs
+* **Kickoff Call**: Campaign Manager hosts kickoff call with functional DRIs
+   - Primary/Required Attendees: Campaigns, PMM, TMM, Content, Brand, Partner
+   - Why? because they are key contributors to the initial deliverables that are dependencies for other teams
+   - What will be covered?
+      1. Share the need behind launching the campaign
+      1. Spotlight team members involved
+      1. Determine what success looks like
+      1. Review workback timeline, identify any risks to timeline.
+      1. Confirm launch date
+* **Weekly Connect Call**: Campaign Manager runs weekly synchronous meeting with core team, always recorded for review
+* **Weekly Status/Reminder Update in Slack:** CAmpaign Manager shares update including the following:
+   - Takeaways
+   - Progress
+   - At Risk
+* **Launch Announcement in Slack**: 
+* **Announcement Amplification in Slack**: Share announcement post in the following channel
+   - marketing
+   - TBD - issue to be opened to address
+* **Post-Launch Connect Calls**: Campaign Manager drives call focused on outcomes of tactics aligned to the campaign
+   - What webinars/tech demos/workshops were run? Or are planned?
+   - What new content was developed/launched?
+   - Potential optimizations based on performance
+* **Campaign Analysis**: Campaign Manager provides analysis of campaign metrics 3 months in
+   - Check quarter over quarter performance
 
-The teams are encouraged to contribute ideas and processes for communication here in the handbook throughout FY22.
+*Because of the global nature of the GitLab team, schedules can be difficult to manage to ensure everyone can attend. For the Kickoff Call, the following team members are to be prioritized for attendance (because they are key contributors to the initial deliverables that are dependencies for other teams).*
 
 ### What is in a campaign bundle?
 {: #campaign-bundles}
