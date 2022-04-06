@@ -567,7 +567,13 @@ Additional Information on the QTC Process is available in the [Private Alliance 
  
 ## Compensation on Channel Opportunities
  
-### Channel Compensation Policy for Cross-Geo Partner Deals
+The executed compensation letter should be the approved and legal source of truth for compensation. However please use the following resources to assist in clarification or exceptions.
+
+[FY23 Channel & Alliance Comp & Splits Matrix](https://docs.google.com/spreadsheets/d/1jkdVDYeToAHjNhkF4xAs5wuMaw-TTOU8Ow286CXoznc/edit?usp=sharing)
+
+[FY23 Channel & Alliance Comp FAQ](https://docs.google.com/document/d/1ZKwXfzsT3xSCoI8Il9FSgwHG-GtOYwLMj3JX0mj9dcw/edit?usp=sharing) 
+
+[FY23 Channel & Alliance Comp Exception Process](https://docs.google.com/document/d/1sUVZDDua5JB1omVUbqBkxA1NAhSed66sjzfIBaVIkGg/edit?usp=sharing)
  
  
 ### Channel Neutral
