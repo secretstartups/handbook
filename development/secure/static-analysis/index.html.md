@@ -140,27 +140,7 @@ engineers will scrutinize an issue's readiness, estimate it size, and implement 
 
 #### Weights
 
-Weights are used as a *rough* order of magnitude to help signal to the rest of the team how much work is involved.
-Weights should be considered an output of the refinement process rather than its purpose.
-
-The weighting system roughly aligns the scales used by other teams within GitLab. However, we use relative sizing rather than
-assigning time estimates to possible values. A curated set of reference issues have been provided below, which will be updated periodically
-to keep examples as current as possible.
-
-##### Possible Values
-
-It is perfectly acceptable if items take longer than the initial weight. We do not want to inflate weights,
-as [velocity is more important than predictability](/handbook/engineering/principles/#velocity-over-predictability) and weight inflation over-emphasizes predictability.
-
-| Weight | Description | Reference issues |
-| ------ | ----------- | ---------------- |
-| 1 | Trivial task | [Update Bandit analyzer to v1.6.2](https://gitlab.com/gitlab-org/gitlab/-/issues/12926) |
-| 2 | Small task | [Security Dashboard should show dismissal details on issues](https://gitlab.com/gitlab-org/gitlab/-/issues/9715) |
-| 3 | Medium task | [Dependency Scanning Fails: "engine 'node' is incompatible with this module"](https://gitlab.com/gitlab-org/gitlab/-/issues/12471), [Dependency List contains duplicates (npm project)](https://gitlab.com/gitlab-org/gitlab/-/issues/12162), [Support setup.py in Dependency Scanning](https://gitlab.com/gitlab-org/gitlab/issues/11244), [Make vulnerability-details receive a vulnerability as a prop](https://gitlab.com/gitlab-org/gitlab/-/issues/14006) |
-| 5 | Large task | [Engineering Discovery: reconsider Gemnasium client/server architecture](https://gitlab.com/gitlab-org/gitlab/issues/12930) |
-| 8 | Extra-large task | [SAST for Apex](https://gitlab.com/gitlab-org/gitlab/-/issues/10680), [Add License information to the Dependency List - add license info backend](https://gitlab.com/gitlab-org/gitlab/issues/13084), [WAF statistics reporting](https://gitlab.com/gitlab-org/gitlab/-/issues/14707) |
-| 13 | Extra-extra-large task | [Add support for REST API scans to DAST](https://gitlab.com/gitlab-org/gitlab/-/issues/10928) |
-| Bigger | Epic in disguise |  |
+We assign issue weights according to the [Secure stage issue weight definitions](/handbook/engineering/development/secure/workflow/#possible-values).
 
 #### How we commit to delivering work in a milestone
 
