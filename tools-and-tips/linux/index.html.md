@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Linux tools and tips"
+description: " Various tools and tips related to Linux laptop usage in GitLab"
 ---
 
 ## On this page
@@ -124,6 +125,30 @@ You will need a copy of vanilla Ubuntu copied onto a UEFI bootable USB drive (la
   * [Slack](https://slack.com/downloads/linux)
   * [Zoom](https://zoom.us/download)
   * Checkout our [Tools page](/handbook/tools-and-tips/) for more potential items.
+
+## Usage of Java
+
+Some applications used on Linux may require Java. There is OpenJDK and Oracle Java, with the latter not being a free version. GitLab team members should be using the OpenJDK version on their laptops. To ensure you are using the correct version, use the `java -version` command.
+
+If OpenJDK is installed, the response will look similar to this:
+
+``` shell
+$ java -version
+openjdk version "11.0.14.1" 2022-02-08
+OpenJDK Runtime Environment (build 11.0.14.1+1-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.14.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+```
+
+If Oracle Java is installed, the response will look similar to this:
+
+``` shell
+$ java -version
+java version "16.0.1" 2021-04-20
+Java(TM) SE Runtime Environment (build 16.0.1+9-24)
+Java Hotspot(TM) 64-Bit Server VM (build 16.0.1+9-24, mixed mode, sharing)
+```
+
+Most systems will be running either the OpenJDK version or Java will not be installed. If Java is not installed and you wish to install OpenJDK, follow the instructions for installation you received after running the `$ java -version` command. If you are running the Oracle Java version, follow the instructions [here](https://linuxhint.com/uninstall-java-ubuntu/) for Ubuntu, and for other distributions follow the instructions for package deletion and installation for your specific distribution.
 
 ## Dell and Nvidia
 
