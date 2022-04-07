@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Fulfillment Sub-department
-description: "The Fulfillment Sub-department is composed of development teams, Purchase, License, and Utilization, working on the infrastructure between the systems which affect the user purchasing process that support the GitLab DevOps Platform."
+description: "The Fulfillment Sub-department is composed of development teams, Purchase, Provision, and Utilization, working on the infrastructure between the systems which affect the user purchasing process that support the GitLab DevOps Platform."
 ---
 
 ## On this page
@@ -19,8 +19,8 @@ A [high performing team](https://about.gitlab.com/handbook/leadership/build-high
 Fulfillment focuses on improving our capabilities and metrics in the following areas:
 
 * Fulfillment: [Direction](https://about.gitlab.com/direction/fulfillment), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#group-responsibilities), [Fulfillment Development Team](/handbook/engineering/development/fulfillment/)
-* Purchase: [Direction](https://about.gitlab.com/direction/fulfillment#purchase), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#purchase), [Backend Team](/handbook/engineering/development/fulfillment/be-purchase/), [Frontend Team](/handbook/engineering/development/fulfillment/fe-purchase-license-utilization/)
-* License: [Direction](https://about.gitlab.com/direction/fulfillment#license), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#license), [Backend Team](/handbook/engineering/development/fulfillment/be-license/), [Frontend Team](/handbook/engineering/development/fulfillment/fe-purchase-license-utilization/)
+* Purchase: [Direction](https://about.gitlab.com/direction/fulfillment#purchase), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#purchase), [Backend Team](/handbook/engineering/development/fulfillment/be-purchase/), [Frontend Team](/handbook/engineering/development/fulfillment/fe-purchase-provision-utilization/)
+* Provision: [Direction](https://about.gitlab.com/direction/fulfillment#provision), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#provision), [Fullstack Team](/handbook/engineering/development/fulfillment/provision/)
 * Utilization: [Direction](https://about.gitlab.com/direction/fulfillment#utilization), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#utilization), [Team](/handbook/engineering/development/fulfillment/utilization/)
 
 ## Direction
@@ -158,7 +158,7 @@ On or around the `26th`: Product meets with Engineering Managers for a prelimina
 **Planning Issues**
 
 - [Purchase](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Planning%20Issue&label_name[]=Category%3APurchase)
-- [License](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Planning%20Issue&label_name[]=Category%3ALicense)
+- [Provision](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Planning%20Issue&label_name[]=Category%3AProvision)
 - [Utilization](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Category%3AUtilization&label_name[]=Planning%20Issue)
 
 ### Intake Request
@@ -423,7 +423,7 @@ In most cases an MR should follow the standard process of review, maintainer rev
 
 1. First determine whether the [Rapid Engineering Response](/handbook/engineering/workflow/#rapid-engineering-response) process can be followed. This will depend on availability and how critical the situation is.
 1. The three hour wait between Staging and Production auto deploy can be bypassed with a manual deployment by a Maintainer.
-1. When there are no project maintainers available ([CustomersDot](/handbook/engineering/projects/#customers-app), [LicenseDot](/handbook/engineering/projects/#license-app)) an additional GitLab Team Member with Maintainer access can be asked to assist.
+1. When there are no project maintainers available ([CustomersDot](/handbook/engineering/projects/#customers-app)) an additional GitLab Team Member with Maintainer access can be asked to assist.
 
 In these cases please ensure:
 
@@ -437,7 +437,7 @@ The feature freeze for Fulfillment occurs at the same time as the rest of the co
 | App | Feature freeze (*) | Milestone ends |
 | ---      |  ------  |----------|
 | GitLab.com   | ~18th-22nd   | Same as the freeze |
-| Customers/License   | ~18th-22nd   | Same as the freeze |
+| Customers/Provision   | ~18th-22nd   | Same as the freeze |
 
 (*) feature freeze may vary according to the [auto-deploy document](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/deploy/auto-deploy.md).
 
@@ -475,7 +475,7 @@ Critical problems like a production outage should be raised quickly. You can che
 
 These dashboards are designed to give an insight, to everyone working in a feature category, into how our code operates at GitLab.com scale.
 
-- [License](https://dashboards.gitlab.net/d/stage-groups-provision/stage-groups-group-dashboard-fulfillment-license)
+- [Provision](https://dashboards.gitlab.net/d/stage-groups-provision/stage-groups-group-dashboard-fulfillment-provision)
 - [Purchase](https://dashboards.gitlab.net/d/stage-groups-purchase/stage-groups-group-dashboard-fulfillment-purchase)
 - [Utilization](https://dashboards.gitlab.net/d/stage-groups-subscription/stage-groups-group-dashboard-fulfillment-utilization)
 
@@ -635,7 +635,7 @@ This table lists recurring activities that are part of our Project Management Pr
 | [CustomersDot Deployments](https://gitlab.com/gitlab-org/customers-gitlab-com#deployments)                                                                       | Continuously | Async | Fulfillment Engineering                                         |
 | [Issue Updates](https://about.gitlab.com/handbook/engineering/development/fulfillment/#weekly-async-issue-updates)                                               | Weekly       | Async | Fulfillment Section                                             |
 | [Fulfillment Weekly Updates](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?sort=created_date&state=all&label_name[]=weekly+update)                     | Weekly       | Async | Fulfillment PMs, EMs, QEMs, UXMs                                |
-| [Fulfillment Group Syncs](https://calendar.google.com/calendar/u/0/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc@group.calendar.google.com&ctz=America/Bogota) | Weekly       | Sync  | Fulfillment Utilization, Purchase, License, and InfraDev Groups |
+| [Fulfillment Group Syncs](https://calendar.google.com/calendar/u/0/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc@group.calendar.google.com&ctz=America/Bogota) | Weekly       | Sync  | Fulfillment Utilization, Purchase, Provision, and InfraDev Groups |
 | [Fulfillment PM Syncs](https://docs.google.com/document/d/1t1KHlpjIEEzG02Gqth6uttQ0Vc3-pFo7yScTgvHWgeQ/edit)                                                     | Weekly       | Sync  | Fulfillment PMs                                                 |
 | [Fulfillment, Growth, Applied ML EM Syncs](https://docs.google.com/document/d/1amVctQAmAVIXijxfyLxJNsdR2OqP6IXAK1sqD2pQMi4/edit)                                 | Weekly       | Sync  | Fulfillment, Growth, Applied ML EMs                             |
 | [Fulfillment PM / EM / QEM / UXM Syncs](https://docs.google.com/document/d/1UBfHiGK6BgJY76sFJ1qqlsRbtYhbBZETpaA4ftX_BBc/edit)                                    | Weekly       | Sync  | Fulfillment PMs, EMs, QEMs, UXMs                                |
@@ -643,7 +643,7 @@ This table lists recurring activities that are part of our Project Management Pr
 | [OKR Check-Ins](https://about.gitlab.com/direction/fulfillment/#okrs)                                                                                            | Weekly       | Async | Fulfillment PMs, EMs, QEMs, UXMs                                |
 | [Monthly Self-Managed Releases](https://about.gitlab.com/handbook/engineering/releases/#self-managed-releases)                                                   | Monthly      | Async | Delivery Engineering                                            |
 | [Monthly Release Posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/)                                                                         | Monthly      | Async | Product and Marketing Functions                                 |
-| [Milestone Planning](https://about.gitlab.com/handbook/engineering/development/fulfillment/#planning)                                                            | Monthly      | Async | Fulfillment Utilization, Purchase, License, and InfraDev Groups |
+| [Milestone Planning](https://about.gitlab.com/handbook/engineering/development/fulfillment/#planning)                                                            | Monthly      | Async | Fulfillment Utilization, Purchase, Provision, and InfraDev Groups |
 | [Roadmap Planning](https://about.gitlab.com/direction/fulfillment/#roadmap)                                                                                      | Monthly      | Sync  | Fulfillment PMs, EMs, QEMs, UXMs                                |
 | [Monthly Product Kickoffs](https://about.gitlab.com/handbook/product/product-processes/#kickoff-meetings)                                                        | Monthly      | Sync  | Product Function                                                |
 | [Product Key Reviews](https://about.gitlab.com/handbook/key-review/)                                                                                             | Monthly      | Sync  | Fulfillment PMs, Product Leadership, E-Group                    |
@@ -664,9 +664,9 @@ This table lists recurring activities that are part of [working groups and cross
 | [GitLab Order to Cash Technical Fusion Team](https://docs.google.com/document/d/17tJraRunjge5nI-qBEjWlhcKWYLXwGW4uhhu-Sf5464/edit) | Weekly        | Sync | Fulfillment PMs, Fulfillment Engineering, EntApps, Sales Systems            |
 | [Data & Analytics Program for R&D Teams](https://docs.google.com/document/d/1CRIGdNATvRAuBsYnhpEfOJ6C64B7j8hPAI0g5C8EdlU/edit)     | Every 2 Weeks | Sync | Fulfillment PMs, Product Intelligence, Growth, Data                         |
 | [Cloud Licensing Executive Status Update](https://docs.google.com/document/d/1bjjD36uayT9Zd29qnmT20HJMYLRvF1XIS6YqCWEFJB4/edit)    | Every 2 Weeks | Sync | Cloud Licensing Program Manager, E-Group                                    |
-| [Ramps / Orders Bi-Weekly](https://docs.google.com/document/d/17uClbaVWMJSFULYlw6-G5twWsF7FK0yO94g3fCANu08/edit)                   | Every 2 Weeks | Sync | Purchase, License, EntApps, Channel Ops, Field Ops, Support, Finance, Legal |
+| [Ramps / Orders Bi-Weekly](https://docs.google.com/document/d/17uClbaVWMJSFULYlw6-G5twWsF7FK0yO94g3fCANu08/edit)                   | Every 2 Weeks | Sync | Purchase, Provision, EntApps, Channel Ops, Field Ops, Support, Finance, Legal |
 | [Product ARR Drivers Sync](https://docs.google.com/document/d/1TxcJqOPWo4pP1S48OSMBnb4rysky8dRrRWJFflQkmlM/edit)                   | Monthly       | Sync | Customer Success, Sales, Product Leadership                                 |
-| [Distributor E-Marketplace](https://docs.google.com/document/d/1uCMf9tYp5QlPwIrSkZdJ11HwpcbqsZayN8dk90pKGLI/edit)                  | Monthly       | Sync | Purchase, License, EntApps, Channel Ops, Field Ops, Finance, Legal          |
+| [Distributor E-Marketplace](https://docs.google.com/document/d/1uCMf9tYp5QlPwIrSkZdJ11HwpcbqsZayN8dk90pKGLI/edit)                  | Monthly       | Sync | Purchase, Provision, EntApps, Channel Ops, Field Ops, Finance, Legal          |
 
 ## Fulfillment Social
 
