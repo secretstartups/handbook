@@ -195,7 +195,7 @@ Be sure that slides are prepared with enough notice for the CEO to record a vide
 
 The executives get together every quarter for the [e-group offsite](/company/offsite/).
 The CoS to the CEO plays an important [role](/company/offsite/#roles).
-It's [3 to 4 days long](/company/offsite/#schedule) with an All-Directs meeting within the following days.
+It's [3 to 4 days long](/company/offsite/#schedule) with a CEO Skips meeting within the following days.
 [There is a content discussion](/company/offsite/#content-choice).
 There are [recurring content discussions](/company/offsite/#recurring-discussion-topics).
 
@@ -217,9 +217,9 @@ For example, if one area of focus is "set 3-year strategy", the CoS to the CEO w
 
 The CoS to the CEO will also assist the CEO in prepping for the CEO's end of year review and areas for focus in the coming year.
 
-## Managing the All Directs
+## Managing the CEO Skips
 
-The [All-Directs group](/company/team/structure/#all-directs) is made up of anyone who reports directly to the e-group.
+The [CEO Skips group](/company/team/structure/#ceo-skips) is made up of anyone who reports directly to the e-group.
 The CoS to the CEO enables and manages this group.
 
 ## Managing the Directs-Group
