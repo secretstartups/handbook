@@ -83,6 +83,7 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
 | Team Member | Role | Contact Info |
 | ----------- | ---- | ------------ |
 | [**Michael Preuss**](/company/team/#mpreuss22) | Director, Digital Experience | - Email: [mpreuss@gitlab.com](mailto:mpreuss@gitlab.com)<br>- GitLab: [@mpreuss22](https://gitlab.com/mpreuss22)<br>- Slack: @mpreuss22<br>- ReadMe: [michael-preuss](/handbook/marketing/readmes/michael-preuss.html) |
+| [**Justin Vetter**](https://about.gitlab.com/company/team/#justin.vetter) | Engineering Manager | - Email: [jvetter@gitlab.com](mailto:jvetter@gitlab.com)<br>- GitLab: [@justin.vetter](https://gitlab.com/justin.vetter)<br>-  Slack: @Justin Vetter |
 | [**Lauren Barker**](/company/team/#laurenbarker) | Senior Fullstack Engineer | - Email: [lbarker@gitlab.com](mailto:lbarker@gitlab.com)<br>- GitLab: [@laurenbarker](https://gitlab.com/laurenbarker)<br>- Slack: @lbarker<br>- ReadMe: [lauren-barker](/handbook/marketing/readmes/lauren-barker.html) |
 | [**Tyler Williams**](https://about.gitlab.com/company/team/#tywilliams) | Senior Fullstack Engineer | - Email: [tywilliams@gitlab.com](mailto:tywilliams@gitlab.com)<br>- GitLab: [@tywilliams](https://gitlab.com/tywilliams)<br>- Slack: @Tyler Williams<br>- ReadMe: [tyler-williams](/handbook/marketing/readmes/tyler-williams.html) |
 | [**Mateo Penagos**](https://about.gitlab.com/company/team/#mpenagos-ext) | Senior Fullstack Engineer (Contract) | - GitLab: [@mpenagos-ext](https://gitlab.com/mpenagos-ext)<br>- Slack: @Mateo Penagos |
