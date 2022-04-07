@@ -22,6 +22,7 @@ Fulfillment focuses on improving our capabilities and metrics in the following a
 * Purchase: [Direction](https://about.gitlab.com/direction/fulfillment#purchase), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#purchase), [Backend Team](/handbook/engineering/development/fulfillment/be-purchase/), [Frontend Team](/handbook/engineering/development/fulfillment/fe-purchase-provision-utilization/)
 * Provision: [Direction](https://about.gitlab.com/direction/fulfillment#provision), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#provision), [Fullstack Team](/handbook/engineering/development/fulfillment/provision/)
 * Utilization: [Direction](https://about.gitlab.com/direction/fulfillment#utilization), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#utilization), [Team](/handbook/engineering/development/fulfillment/utilization/)
+* Fulfillment Platform: [Direction](https://about.gitlab.com/direction/fulfillment#fulfillment-platform), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#fulfillment-platform), [Team](/handbook/engineering/development/fulfillment/fulfillment-platform/)
 
 ## Direction
 
@@ -47,13 +48,9 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 
 <%= department_team(base_department: "Fulfillment:Purchase FE Team") %>
 
-### Fulfillment:License BE Team
+### Fulfillment:Provision Team
 
-<%= department_team(base_department: "Fulfillment:License BE Team") %>
-
-### Fulfillment:License FE Team
-
-<%= department_team(base_department: "Fulfillment:License FE Team") %>
+<%= department_team(base_department: "Fulfillment:Provision Team") %>
 
 ### Fulfillment:Utilization BE Team
 
@@ -62,6 +59,10 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 ### Fulfillment:Utilization FE Team
 
 <%= department_team(base_department: "Fulfillment:Utilization FE Team") %>
+
+### Fulfillment:Fulfillment Platform Team
+
+<%= department_team(base_department: "Fulfillment Platform Team") %>
 
 ## Stable counterparts
 
@@ -445,13 +446,13 @@ Any issues not merged on the current milestone post feature freeze, will need to
 
 ### Incident management
 
-On going [InfraDev](/handbook/engineering/development/fulfillment/infradev/) work will provide greater observability to all of the Fulfillment systems. In the meantime, however, we have some tools like [Cabot](https://cabotapp.com/) that post to [#s_fulfillment_status](https://gitlab.slack.com/archives/CL7SX4N86) in Slack. On occasion, there are reports of systemic critical trouble like a liveliness probe check failure, invalid SSL certificate, or other application errors. Look to the following sub-sections below for ways that you can contribute to error resolution.
+On going [Fulfillment Platform](/handbook/engineering/development/fulfillment/fulfillment-platform/) work will provide greater observability to all of the Fulfillment systems. In the meantime, however, we have some tools like [CustomersDot health](https://customersdot.cloudwatch.net/) that post to [#s_fulfillment_status](https://gitlab.slack.com/archives/CL7SX4N86) in Slack. On occasion, there are reports of systemic critical trouble like a liveliness probe check failure, invalid SSL certificate, or other application errors. Look to the following sub-sections below for ways that you can contribute to error resolution.
 
 See this handbook page for more information on [GitLab Monitoring](https://about.gitlab.com/handbook/engineering/monitoring/) and [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/).
 
 #### Investigation
 
-- You can visit our Cabot instance [here](http://jlo-gitlab.bluegod.net:9092/accounts/login). You can find the login credentials in the [_Subscription portal_ vault in 1Password](https://gitlab.1password.com/vaults/27nafqigafgxfjpjkl2wvzs26y/allitems/jdeumqscahayoxvcfazbzdv22u). You will see services for both CustomersDot production and staging.
+- You can visit our health-check instance [here](https://customersdot.cloudwatch.net/). You can find the login credentials in the [_Subscription portal_ vault in 1Password](https://gitlab.1password.com/vaults/27nafqigafgxfjpjkl2wvzs26y/allitems/jdeumqscahayoxvcfazbzdv22u). You will see services for both CustomersDot production and staging.
 - Exceptions for CustomersDot are captured in [Sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/).
 - You can query logs in [Kibana / Elasticsearch](https://log.gprd.gitlab.net/). Use this link to read more on using [kibana at GitLab](https://about.gitlab.com/handbook/support/workflows/kibana.html))
 - Grafana has some [triage dashboards](https://dashboards.gitlab.net/d/RZmbBr7mk/gitlab-triage?orgId=1&refresh=5m) that are generally applicable for GitLab, but do not contain specific observability metrics for Fulfillment systems until the InfraDev work is complete.
@@ -749,7 +750,6 @@ This table lists recurring activities between managers and their reports. Most o
 
 * [Product Vision](https://about.gitlab.com/direction/fulfillment/)
 * [Fulfillment section](/handbook/product/product-categories/#fulfillment-section)
-* [InfraDev Team initiative](/handbook/engineering/development/fulfillment/infradev/)
 * [All open Fulfillment epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Afulfillment)
 * [Issue Tracker](https://gitlab.com/gitlab-org/fulfillment-meta/issues)
 * [Slack channel #s_fulfillment](https://gitlab.slack.com/app_redirect?channel=s_fulfillment)
