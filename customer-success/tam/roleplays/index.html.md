@@ -64,3 +64,11 @@ The defined persona for [somebody responsible for a customer's application secur
 - [TAM role](https://docs.google.com/document/d/1SIgs3mDwmrotLl78WONF9SQhTzeFi9s8vhpUP0k3kzk/edit?usp=sharing)
 - [Customer role](https://docs.google.com/document/d/1LAIIj-0HSXlxdhUWMdp78IcVqAIL88EwQwTd9BAoumw/edit?usp=sharing)
 - [Post-scenario review](https://docs.google.com/document/d/1xUVhvuFTcS8v-jd6NN6IHAjg7Cd-caPFsci7eHfj4yY/edit?usp=sharing)
+
+#### Development Lead Kickoff
+
+Initial meeting between the TAM and an identified contact who is a [development lead persona](/handbook/customer-success/tam/engagement#development-lead).
+
+- [TAM role](https://docs.google.com/document/d/1UwusZ7H254sjaodYp6xIJv_PfoJPA4CvCO2aSbtbiRs/edit?usp=sharing)
+- [Customer role](https://docs.google.com/document/d/192Fmj18PduqwmCnwXYVKDJH1LnvQ0AclJ6OrnvM-oz0/edit?usp=sharing)
+- [Post-scenario review](https://docs.google.com/document/d/1TVhyoX0HoDG3p101-AMLnYu7qHk8llc3mmOJ_caYKLg/edit?usp=sharing)
