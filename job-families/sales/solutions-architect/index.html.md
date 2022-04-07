@@ -356,7 +356,6 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 - Scale and grow regional-level expertise within the field (SAL/AE,SA,TAM) through contributions to enablement and content
 - Act as a prospect / customer advocate on DevSecOps transformation initiatives
 
-
 #### Field CTO Requirements
 
 - Extends the requirements of Principal Solutions Architect
@@ -391,6 +390,41 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 - Experience with application vulnerability management and associated regulations (i.e. PCI  DSS, HIPAA, NIST 800-731 and more) and tools (i.e. SAST, DAST, SCA)
 - Strong verbal and written skills with a strong ability to articulate and communicate strategies to all levels in an organization (i.e., executive to staff engineer)
 - Ability to use GitLab, including learning GitLab as part of the role
+
+
+### Federal CTO 
+
+#### Federal CTO Responsibilities
+
+* Engage with customers in a technical consultancy and advisor role during the pre-sales process while providing technical assistance and solution guidance.
+* Provide executive-level DevOps and security-related thought leadership on strategic Public Sector opportunities (i.e., new logo and growth)
+* Own CISO, CSO, CTO and/or chief security architect relationships in key Public Sector accounts while providing credible, leading-edge DevSecOps guidance to help orchestrate their desired outcomes
+* In partnership with the marketing team, formulate and lead content creation and media engagement opportunities to increase brand awareness.
+* With comprehensive knowledge of the GitLab platform and associated technologies, educate customers of all sizes on the value proposition of GitLab while participating in discussions throughout the organization to ensure successful GitLab deployment.
+* Guide technical evaluations via POC/POV ownership, RFP/audit support, and workshop design.
+* Curate and manage Public Sector DevOps related field feedback, while collaborating with the marketing and product team on issue prioritization
+* Contribute to Public Sector sales strategy and playbooks in while collaborating with marketing and product teams
+* Scale and grow regional-level expertise within the field (SAL/AE,SA,TAM) through contributions to enablement and content
+* Build deep relationships with people within customer environments to enable them to be GitLab advocates.
+* Serve as the customer advocate to other GitLab teams, including Product Development, Sales, and Marketing.
+* Maintain specialty competency in one or more technologies related to GitLab's market focus through activities such as training, certification and creation of working examples for reuse internally and by customers and partners.
+
+#### Federal CTO Requirements
+
+* Significant experience with DevOps and/or information technology security is preferred
+* Experience selling to, supporting, or working within the Public Sector
+* Experience independently creating technical marketing content and materials
+* Experience delivering information/Cyber Security and compliance related solutions and assessments
+* Experience with software development tools, practices, and methodologies
+* Strong verbal, written and presentation skills with a strong ability to articulate and communicate technical strategies to all levels in an organization (i.e., executive to staff engineer)
+* Experience with technical pre-sales or as a professional in the field of information technology
+* Knowledge of the end-to-end software development lifecycle
+* Understanding of continuous integration and continuous deployment
+* Experience with modern software development or operations and their associated technologies
+* Experience with cloud computing and related technologies and practices
+* B.Sc. in Computer Science or equivalent experience
+* Successful completion of a background check
+* Ability to use GitLab, including learning GitLab as part of the role
 
 ### Demo Engineer
 
