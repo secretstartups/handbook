@@ -546,12 +546,18 @@ The quoting system has been equipped to provide visibility into the correct prog
 
 Effective 2021-04-05, the quote approval module has been updated to trigger an approval workflow on quotes that meet the [FY22 GTM Service Attach](https://docs.google.com/presentation/d/1wLYQP7KV9UMdBSneg_caBFnckHPcKEw6C5zfEsrysFM/edit#slide=id.gc5c5401a33_0_5) opportunity criteria. 
 
-- **Service Attach Opportunity Criteria:**
+- **Enterprise Service Attach Opportunity Criteria:**
 
 1. Order Type 2.0 = `1. New - First Order`
 2. Net ARR >=`$20,000`
-3. Stamped Sales Segment = `Large`
-4. Stamped Opp Owner User Region = `AMER`
+3. Stamped Sales Segment = `Large`, `PUBSEC`
+4. Stamped Opp Owner User Region = `AMER`, `EMEA`
+
+- **Mid-Market Service Attach Opportunity Criteria:**
+
+1. Order Type 2.0 = `1. New - First Order`
+2. Net ARR >=`$20,000`
+3. Stamped Sales Segment = `Mid-Market``
 
 - **Service Attach Quoting Process:**
 
