@@ -62,7 +62,7 @@ You can view this on the Salesforce Account page, or create a Salesforce report 
 1. [SaaS Free/Trial Usage Data Dashboard](https://gitlab.my.salesforce.com/01Z8X000001DgIu)
 1. [Personalized Report for Account Owners](https://gitlab.my.salesforce.com/00O8X000008Qa7o) - This report will allow you to see a complete list of your assigned accounts which have Freemium SaaS usage. Insert your name into the `Account Owner` filter to populate this report. 
 
-### Reporting data quality issues
+### Providing feedback
 
-Please add your questions, data quality concerns, and general feedback on [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/1031).
+Please add your questions, data quality concerns, and general feedback on [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/1031). This is needed for us to continue to improve the SaaS Free/Trial experience!
 
