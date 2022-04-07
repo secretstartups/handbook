@@ -25,15 +25,13 @@ Empower our internal team with lightweight Free/Trial usage insights in Salesfor
 
 ### Using the Data
 
+##### Video Overview
+
 For a high level overview (6 minutes), see:
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://youtu.be/28_bgDL__BQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>  
-<!-- blank line -->
+([**SaaS Free Trial Usage Data in SFDC: Training Video**](https://youtu.be/28_bgDL__BQ) above is Private on GitLab Unfiltered)
 
-([link to video](https://youtu.be/28_bgDL__BQ) above is Private on GitLab Unfiltered)
+##### Field Definitions
 
 Below are the fields, descriptions, and best practices for each field. These can be used to help us understand what the customer is using GitLab for and how we can help them achieve their desired outcomes. For example, high ci pipeline usage indicates we may want to start the conversation around CI, or that they've already accomplished that objective.
 
