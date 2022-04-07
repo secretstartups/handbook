@@ -23,8 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Apr 7 | Compliance Solution Selling | Cindy B. |
-| Apr 14 | Q1 FY23 Competitive Update | Francis P. |
+| Apr 14 | TBD | TBD |
 | Apr 21 | *No session during the last two weeks of the quarter* | N/A |
 | Apr 28 | *No session during the last two weeks of the quarter* | N/A |
                                                                                                                                    
@@ -35,6 +34,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-04-07 | **[Solution Selling: Compliance](https://youtu.be/sGSZlxGciiE)** | Private |
 | 2022-03-31 | **[Cloud Licensing Update](https://youtu.be/A5IOhI-QPXY)** | Private |
 | 2022-03-24 | **[Q1 FY23 Customer References Update](https://youtu.be/X_RpwfJDuxE)** | Private |
 | 2022-03-10 | **[Q1 FY23 Professional Services Update](https://youtu.be/_UUhi2A2Biw)** | Private |
