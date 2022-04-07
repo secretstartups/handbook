@@ -113,7 +113,7 @@ To redirect an outdated page, open an issue with the [set up a new redirect temp
 - New URL where users should now be sent
 - Were you able to update existing links to the old URL across about.gitlab.com?
 
-If you have any questions or concerns regarding your redirect request, ask for help in the [#growth-mktg](https://gitlab.slack.com/archives/C012U3CASJ2) channel on Slack.
+If you have any questions or concerns regarding your redirect request, ask for help in the [#inbound-mktg](https://gitlab.slack.com/archives/C012U3CASJ2) channel on Slack.
 
 #### Redirect process documentation
 
