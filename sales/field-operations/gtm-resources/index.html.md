@@ -1187,6 +1187,7 @@ Through the Executive Sponsor Program, we seek to:
 
 - The executive sponsor is responsible for maintaining direct relationships and communications with individual(s) at the account and participating in remote and in-person meetings.
 - The executive sponsor should maintain ongoing contact with their respective customer counterpoint at least once a quarter, including formal (e.g., EBR, meeting) and informal approaches (e.g., check-in or update emails/texts or video chats). 
+- The executive sponsor should partner with the account team, providing advice and support and taking and driving action items in support of the Account Plan.
 - If there is a 1:1 meeting, the executive sponsor should send a follow-up email within 24 hours with:
   - Thank you / appreciation of the customer's time and feedback
   - Action items and/or next steps (when applicable)
@@ -1219,13 +1220,22 @@ Example Sponsor Activities
 
 #### Sponsor Assignments
 
+1. The executive sponsor must be a [vice president](https://about.gitlab.com/company/team/structure/#vp) or [executive level](https://about.gitlab.com/company/team/structure/#executives).
 1. The executive sponsor assignment is a long-term engagement (i.e., multiple quarters, years+).
 1. The account can be a prospect or customer account.
-1. At least one account will be reviewed in the egroup meeting at least once per quarter.
+1. The sponsor should reflect both the needs of the customer and GitLab.
 1. Accounts are nominated by the account team and approved by the respective VP of Sales and VP of Customer Success. 
 1. Sponsored accounts typically represent deep product utilization, large or strategic opportunity, and/or a broad vision for success and engagement with GitLab.
 1. Once approved, Sales Operations will update the "Executive Sponsor" field.
 1. Executive Sponsored Accounts are [listed in Salesforce](https://gitlab.my.salesforce.com/00O4M000004e2Ma).
+
+#### E-group Reviews
+
+1. At least one account will be reviewed in the egroup meeting at least once per quarter.
+1. The objective of the review is to:
+   - Partner with the account team to support the customer's needs and the Account Plan goals.
+   - Provide guidance and suggestions and drive appropriate actions to support the account team.
+1. The review is neither an account or opportunity inspection nor an account team performance review.
 
 #### Additional Notes
 
