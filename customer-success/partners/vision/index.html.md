@@ -34,7 +34,7 @@ GitLab Channel Partner Program partners are encouraged to achieve any or all of 
 - Certified Training Partners (CTP)
 
 ## High-Level Visual of Partner Capabilities Journey
-![Partner Capabilities Journey](sites/handbook/source/handbook/customer-success/partners/images/partner-capabilities-journey_v3.png)
+![Partner Capabilities Journey](../images/partner-capabilities-journey_v3.png)
 
 ## Partner Capabilities Journey
 
