@@ -286,7 +286,7 @@ This section provides links to relevant reports that may live outside of the Fie
 GitLab Field Marketing receives `credit`for the Partner Sourced Opportunity if the opportunity has a Bizible touchpoint from the FMM campaign.
 
 * [Sisense Marketing influenced opportiunity report](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/983640/WIP:-Partner-Sourced) 
-* [Sisense Leads passed to the parnter report](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/983640/WIP:-Partner-Sourced) 
+* [Sisense Leads passed to the parnter report](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/992265/WIP:-Partner-Lead-Status) 
 
 #### Back up SFDC leads passed to partner report
 * [Leads](https://gitlab.my.salesforce.com/00O4M000004enu7) 
