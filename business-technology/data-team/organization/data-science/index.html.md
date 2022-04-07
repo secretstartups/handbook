@@ -45,7 +45,7 @@ Additionally, the Data Science Team **supports** the following responsibilities:
 - With **Data Leadership**:
   - Scoping and executing a data science strategy that directly impacts business KPIs
   - Broadcasting regular updates about deliverables, ongoing initiatives, and roadmap
-- With the [**Data Engineering Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/engineering/):
+- With the [**Data Platform Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/engineering/):
   - Defining and championing data quality best practices and programs for GitLab data systems
   - Deploying data science models, ensuring data quality and integrity, shaping datasets to be compatible with machine learning, and brining new datasets online
   - Creating data science pipelines that work natively with the Gitlab platform and the Data Team tech stack

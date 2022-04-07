@@ -91,11 +91,11 @@ If those subjective requirements are satisfied, this is the process to add yours
 
 ### Merge Request Workflow
 
-The Data team operates as one team between the Data Analytics team and the Data Engineering team. Therefore, we expect for each MR that there are at least three people involved. See the below scenarios:
+The Data team operates as one team between the Data Analytics team and the Data Platform team. Therefore, we expect for each MR that there are at least three people involved. See the below scenarios:
 
 1. DA authors, DA reviews, DE Maintainer merges
 1. DE authors, DA reviews, Maintainer merges
 1. DE authors, DE reviews, Maintainer merges
 
-Since the Data Engineering team is responsible for the Data platform, every MR request should include a Data Engineer.
+Since the Data Platform team is responsible for the Data platform, every MR request should include a Data Engineer.
  

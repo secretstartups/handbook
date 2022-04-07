@@ -22,8 +22,8 @@ There are **dedicated** gitlab.com _read_ replica database instances used for da
 graph LR;
 A[GitLab.com-DB-Live] -->|build_destroy_mechanism| B[GitLab.com-DB clone running on  port 25432]
     A --> |wal_files_mechanism| C(Gitlab.com-DB Live Replica)
-    B --> | Data Engineering Pipeline SCD| D(Snowflake_DWH)
-    B --> | Data Engineering Pipeline Incremental| D(Snowflake_DWH)
+    B --> | Data Platform Pipeline SCD| D(Snowflake_DWH)
+    B --> | Data Platform Pipeline Incremental| D(Snowflake_DWH)
 ```
 
  - `GitLab.com-DB clone` will be destroyed at 10:30PM UTC and rebuilt at 11:15PM UTC. This results in an available time window between 00:00AM UTC to 11:30PM UTC to query this database. If data is extracted from this replica outside the window, an error will occur, but it will not result in any data loss.
@@ -129,7 +129,7 @@ Step 6: Load the data using copy into and load this data in RAW.tap_postgres.git
 
 ### GitLab Database Schema Changes and DangerFile
 
-The data engineering team maintains a Dangerfile in the main GitLab project [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/danger/datateam/Dangerfile) with the purpose of alerting the `@gitlab-data/engineers` group about any changes to the gitlab.com source schema definition file. Being notified about source schema changes is essential to avoiding errors in the extraction process from the GitLab.com database since extraction is based on running a series of select statements. The data engineer on triage for any given day is the DRI for investigating schema changes as well as creating issues for any needed action from the data team.
+The Data Platform team maintains a Dangerfile in the main GitLab project [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/danger/datateam/Dangerfile) with the purpose of alerting the `@gitlab-data/engineers` group about any changes to the gitlab.com source schema definition file. Being notified about source schema changes is essential to avoiding errors in the extraction process from the GitLab.com database since extraction is based on running a series of select statements. The data engineer on triage for any given day is the DRI for investigating schema changes as well as creating issues for any needed action from the data team.
 
 ### Trusted data framework tests
 

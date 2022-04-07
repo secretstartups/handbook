@@ -20,7 +20,7 @@ The main motivation to have comprehensive and useful Python guidelines is to ens
 
 ### Values
 
-**Campsite rule:** As these guidelines are themselves in a constantly Work in Progress (`WIP`) status -  if you work with any code style, hint, or guideline which does not currently adhere to the style guide - please submit a merge request with the relevant changes and tag the Data Engineering team to update the guide.
+**Campsite rule:** As these guidelines are themselves in a constantly Work in Progress (`WIP`) status -  if you work with any code style, hint, or guideline which does not currently adhere to the style guide - please submit a merge request with the relevant changes and tag the Data Platform team to update the guide.
 
 ### Technology Standardisation 
 **Starting in Jan 2022** all new custom python extracts should adhere to the [**Singer standard**](https://www.singer.io/).

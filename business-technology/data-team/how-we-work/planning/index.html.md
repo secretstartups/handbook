@@ -28,7 +28,7 @@ The Data Team Planning Drumbeat is a pre-set sequence that happens every quarter
 
 Milestone naming convention; Milestone FYxx-Qxx-MSxx. I.e. FY22-Q02-MS01 <br>
 LT = Leadership Team (`@rparker2`, `@iweeks`, `@dvanrooijen2`, `@mlaanen`) <br>
-DT = Data team (Product Fusion Team, GTM Fusion Team or Data Engineering Team)
+DT = Data team (Product Fusion Team, GTM Fusion Team or Data Platform Team)
 
 The overall ambition is to **structure** why, when and what we are doing. 
 - OKRs will lead to **why**

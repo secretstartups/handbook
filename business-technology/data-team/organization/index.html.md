@@ -105,7 +105,7 @@ Recruiting great people is critical to our success and we've invested much effor
 
 See [Data Team Internships](/handbook/business-technology/data-team/organization/internships/).
 
-## Data Engineering
+## Data Platform
 
 * [Data Engineering Job Family](https://about.gitlab.com/job-families/finance/data-engineer)
 
