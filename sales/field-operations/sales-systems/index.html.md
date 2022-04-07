@@ -123,13 +123,13 @@ In addition, these common types of changes feature additional controls:
 1. These changes will always use a Salesforce.com Changeset to deploy that will be linked to the related issue.
 1. The team member who uploards the change set shall ask a different team member to review and deploy the change. (No Self Deploys).
 
-### Changes that cannot or are impracticle to use a Change Sets (Field Level Security, Sharing Rules, Layout Changes and Assignments):
+### Changes that cannot or are impractical to use a Change Sets (Field Level Security, Sharing Rules, Layout Changes and Assignments):
 
 1. These changes will need a special deploy window for the changes to be made by hand. Please coordinate with the Business DRI.
 
 ### Destructive Changes to Salesforce Fields Configration
 
-1. These should follow our Field and Process depreciation outlined below.
+1. These should follow our Field and Process deprecation outlined below.
 
 ### Destructive Changes to Salesforce Code
 
@@ -143,6 +143,8 @@ Please seek explicite and documented approval from the Senior Director of Sales 
 1. A deploy during a designated black out period.
 1. The need to self deploy a non-invasive change.
 1. The need to create a non-invasive formula field in production for time sensitive triage of a critical issue.
+
+These changes would be classified as a `CMT: Emergency Change`.  Any issue where this occurs should be flagged with this label for future compliance review.
 
 ### Approval for Proposed Changes related to Quoting
 
@@ -176,7 +178,11 @@ Channel Operations and Deal Desk will work closely on all updates related to the
 
 Channel Operations and Deal Desk will review each issue with the labels above within 1 business day. 
 
-## Salesforce Specific Procceses, Policies and Controls
+## Salesforce Specific Processes, Policies and Controls
+
+### Change classifications
+
+Due to the nature of changes in Salesforce, all the changes above are classified as a `CMT: Comprehensive Change` for auditing and compliance purposes, unless otherwise noted.  In order to not overload this tag with all issues which are addressed by the Systems team, we do not tag issues with this tag at this time.
 
 ### Salesforce Password Policies
 
@@ -261,7 +267,7 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 - In order to install Data Loader follow the [Instructions provided by Salesforce](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_install_general.htm)
    - If you prefer video instructions on how to install Data Loader you can watch [this installation video](https://www.youtube.com/watch?v=vZOsb9gvFu4) which summarizes the process for windows (The process is the same for Macs)
 
-### SFDC Development Guidlines
+### SFDC Development Guidelines
 
 **Before beginning work, make sure:**
 1.  You have a fully setup local SFDC Dev Environment.
