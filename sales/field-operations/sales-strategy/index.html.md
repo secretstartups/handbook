@@ -29,9 +29,9 @@ Create an issue in the [analytics project](https://gitlab.com/gitlab-com/sales-t
 | David Mack | GTM Planning & Operations Manager | [@DavidMack](https://gitlab.com/DavidMack) |
 | Noel Figuera | Manager, Sales Analytics | [@nfiguera](https://gitlab.com/nfiguera)  |
 | Alex Cohen | Director GTM Planning & Operations | [@alex.cohen](https://gitlab.com/alex.cohen) | 
-| Michael Arntz | Sales Strategy Manager | [@nfiguera](https://gitlab.com/marntz)  |
-| Matthew Ramirez | Manager, Sales Strategy | [@nfiguera](https://gitlab.com/matthewaramirez)  |
-| Jack Caine | Senior Manager, Sales Strategy | [@nfiguera](https://gitlab.com/jcaine)  |
+| Michael Arntz | Sales Strategy Manager | [@marntz](https://gitlab.com/marntz)  |
+| Matthew Ramirez | Manager, Sales Strategy | [@matthewaramirez](https://gitlab.com/matthewaramirez)  |
+| Jack Caine | Senior Manager, Sales Strategy | [@jcaine](https://gitlab.com/jcaine)  |
 
 ### Sales Headcount Change Management Process
 
