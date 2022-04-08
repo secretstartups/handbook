@@ -53,7 +53,7 @@ Monthly announcements are shared by the L&D team on the first Tuesday of each mo
 | 2022-01 | [Video](https://www.loom.com/share/74ded140aff64ee2a28ebff31f066262) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/359) | 51 | 0 |
 | 2022-02 | [Video](https://www.loom.com/share/e7d975e055f54d8fb30c47ddec6d130e) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/372) | 70 | 0 |
 | 2022-03 | [Video](https://www.loom.com/share/61ff5f3320a945bb98639fbb95b8003c) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/383) | 22 | 0 |
-| 2022-04 | [Video](https://www.loom.com/share/3a52e3dd4ff54d9abfc1f90baafee5c9) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/395) | 1 | ----- |
+| 2022-04 | [Video](https://www.loom.com/share/3a52e3dd4ff54d9abfc1f90baafee5c9) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/395) | 14 | ----- |
 | 2022-05 | ----- | ----- | ----- | ----- |
 | 2022-06 | ----- | ----- | ----- | ----- |
 | 2022-07 | ----- | ----- | ----- | ----- |
