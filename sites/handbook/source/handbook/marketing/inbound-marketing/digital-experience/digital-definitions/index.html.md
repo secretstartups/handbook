@@ -72,7 +72,7 @@ Related terms: molecules, modules
 
 ### What is a component?
 
-A component is conceptually similar to a component, except it's often quite a bit smaller. A component combines elements into a small item with a singular purpose.
+A component is conceptually similar to a block, except it's often quite a bit smaller. A component combines elements into a small item with a singular purpose.
 
 Example: A search box is made up of a text input element and a submit button element.
 
