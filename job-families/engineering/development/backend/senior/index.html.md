@@ -85,6 +85,16 @@ Package engineers are focused on creating and maintaining the dependency managem
 * Understanding of how to build instrumented, observable software systems.
 * Desirable: DevOps experience, working with Linux, GCP/AWS, Chef/Ansible/Terraform, Helm/Kubernetes, or similar products.
 
+### Runner
+Runner engineers are primarily responsible for the [GitLab-Runner](https://gitlab.com/gitlab-org/gitlab-runner). The GitLab-Runner service acts as the interface between the rest of GitLab and a user's CI infrastructure, so that whether CI is running on a cluster of Raspberry Pis, a super-computer, or, as in the case with GitLab.com, thousands of virtual machines running in the cloud - it’s the GitLab-Runner that makes this happen. You can learn more about the Runner group on the [Runner product category](/handbook/product/categories/#runner-group) handbook page.
+
+#### Requirements
+* Experience with Ruby on Rails and/or Golang.
+* Experience building highly available and performant business-critical product features.
+* Understanding of how to build instrumented, observable software systems.
+* Desirable: DevOps experience, working with Linux, GCP/AWS, Chef/Ansible/Terraform, Helm/Kubernetes, or similar products.
+* Desirable: Strong experience with observability tools, including metrics (Prometheus is a plus), structured logging and distributed tracing.
+
 ### Protect
 
 Focus on security protection features for GitLab (including container security, container scanning, policy management, network security, and host security). This role will report to and collaborate directly with the Protect Engineering Manager.
@@ -176,13 +186,42 @@ The CI/CD Engineering Manager also does weekly stand-up with a team and product 
 * In-depth experience with Ruby on Rails, Go, and/or Git.
 * Experience with provisioning tools is beneficial but not essential.
 
-### Growth
-Growth Engineers work with a cross-functional team to influence the growth of GitLab as a business. In helping us iterate and learn rapidly, these engineers enable us to more effectively meet the needs of potential users.
+### Growth: Analytics and Experimentation
+Growth: Analytics and Experimentation Engineers build, maintain, and integrate with GitLab the tools necessary for experimentation and gathering analytics in a privacy-focused manner to enable product teams at GitLab to develop and report on product-led experiments and features.
 
 #### Requirements
 * Strong self-direction (this team is being bootstrapped).
 * Experience with A/B, multivariate, or other data-driven methods of testing.
 * Comfort multitasking in a highly iterative environment.
+
+##### Nice to have
+* Proven experimentation platform development experience
+* Familiarity with third party experimentation tools 
+* Experience with Snowplow
+* Frontend experience including HTML, CSS, and JavaScript frameworks (Vue.js preferred).
+
+### Product Intelligence
+Senior Backend Engineers in the Product Intelligence group play a key role in implementing analytics and data collection tools within the GitLab product in a privacy-focused manner. 
+The group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. 
+
+The Senior Backend Engineer for Product Intelligence extends the Senior Backend Engineer requirements with these additional requirements and responsibilities. 
+
+#### Requirements
+
+##### Nice to have
+* Proven database development experience with SQL.
+* Postgres database experience with replication, backup, indexing, and partitioning.
+* DevOps experience working with and configuring infrastructure (GCP, GKE, GCS, IAM).
+* Experience with dbt, or other related data engineering tools.
+* Experience with Snowflake and Snowpipe.
+* Experience with Snowplow collector.
+* Frontend experience including HTML, CSS, and JavaScript frameworks (Vue.js preferred).
+
+#### Responsibilities
+* Build tooling to collect metrics from GitLab.com and self managed instances.
+* Work closely with GitLab's Data team to analyse data pipelines.
+* Build automation to ensure the quality of our collected metrics.
+* Build monitoring to ensure the reliability of our data pipelines.
 
 ### Engineering Productivity
 Engineering Productivity Engineers are full-stack engineers primarily tasked with improving the productivity of the GitLab developers (from both GitLab Inc and the rest of the community), and making the GitLab project maintainable in the long-term.
@@ -359,35 +398,35 @@ Delivery specialist is an engineer that focuses on improving the engineering rel
 * Identify process bottlenecks and introduce optimizations.
 
 ### Scalability
-The Scalability team is responsible for optimising GitLab.com performance through
-improving reliability, availability and performance of GitLab individual services
-and application as a whole.
+
+The [Scalability team](/handbook/engineering/infrastructure/team/scalability/) is responsible for optimising GitLab.com
+performance through improving the reliability, availability and performance of individual GitLab services and the application as a whole.
 
 #### Responsibilities
-* Analyse existing, create and maintain new GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective).
-* Resolve problems contributing to missing GitLab.com SLO targets.
-* Find, define and resolve architectural application bottlenecks as observed on GitLab.com.
-* Work with other engineering stakeholders on resolving larger architectural
-bottlenecks and participate as a representative of GitLab.com.
+
+- Create, analyze, and maintain GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective) (SLOs).
+- Resolve problems that contribute to missed SLOs.
+- Find, define, and resolve application bottlenecks as observed on GitLab.com.
+- Work with other engineering stakeholders on resolving larger architectural bottlenecks and participate as a representative of GitLab.com.
+- Provide guidance to other engineering stakeholders on scaling considerations.
+- Work closely with embedded Site Reliability Engineers to prepare and perform production changes.
+- Deliver scaling projects as a [Directly Responsible Individual (DRI)](/handbook/engineering/infrastructure/team/scalability/#project-ownership).
 
 #### Requirements
+
 Candidate should ideally be:
 
-* Expert in Ruby on Rails.
-* Experienced in working on large scale systems.
-* Experienced in application and systems observability.
+- Methodical when troubleshooting and solving problems.
+- Experienced in working on large scale systems.
+- Experienced in application and systems observability.
+- Have working knowledge of one or more of the [technologies](https://docs.gitlab.com/ee/development/architecture.html) used to deliver GitLab.com.
+- Able to articulate systems performance concepts to other engineers.
 
 Other qualifications include:
 
-* High proficiency in at least one of the following programming languages, in order of preference:
-  * Ruby.
-  * Go.
-  * Knowledge of other OOP languages is a nice to have.
-* Proficient in one or more of the following:
-  * Methodical troubleshooting and problem solving skills.
-  * Knowledge of profiling, and performance testing.
-  * Self starter.
-  * Understanding of basic database principles and optimisation mechanisms.
+- Language expertise. Application contributions are expected in Ruby and the ability to contribute in Go is helpful.
+- Knowledge of profiling, and performance testing.
+- Understanding of basic database principles and optimisation mechanisms.
 
 ### Search
 Elasticsearch engineers are focused on delivering a first class global search experience throughout GitLab products.  They are experienced Ruby/GoLang developers who focus on implementing core Elasticsearch functions while advising other development teams on best practices (e.g. indexing).
@@ -407,7 +446,9 @@ Elasticsearch engineers are focused on delivering a first class global search ex
 
 ## Performance Indicators
 * [Backend Unit Test Coverage](/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
-* [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
+* [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+* [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
+
 
 ## Hiring Process
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).

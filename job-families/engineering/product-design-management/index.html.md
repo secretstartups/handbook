@@ -23,12 +23,12 @@ The Product Design Manager is a [grade 8](/handbook/total-rewards/compensation/c
 * **Design quality:** Review UX deliverables (research, designs, etc.) that your team creates, and provide feedback to ensure high-quality output.
 * **Research:** Identify strategic user research initiatives that span multiple stage groups (and possibly the entire product), and work with other Product Design/Research Managers to organize research efforts.
 * **UX evangelism:** Communicate the value of UX to cross-functional GitLab team members and work with them to leverage the [Product Development Flow](/handbook/product-development-flow/). Work closely with PMs to provide visibility and awareness into UX initiaties (including OKRs) and advocate for their prioritization.
-* **UX debt:** Help the product teams of stages or areas you support to prioritize UX initiatives including [UX debt](/handbook/engineering/ux/performance-indicators/#ux-debt) and overall usability improvements to the product.
+* **Usability:** Help the product teams of stages or areas you support to prioritize UX initiatives including [UX debt](/handbook/engineering/ux/performance-indicators/#ux-debt), [SUS-impacting issues](/handbook/engineering/ux/performance-indicators/#sus-impacting-issues-openedclosed-each-month), and overall usability improvements to the product.
 * **UX process**: Set up and manage collaborative processes within your team to ensure Product Designers, Technical Writers, and Researchers are actively working together. Make sure everyone has exposure to the work that is happening within the broader team. Collaborate with your peers to make improvements to how we work across the design organization.
 * **Hiring:** Interview and conduct portfolio reviews of Product Design candidates to hire a world-class team. Review and provide feedback on interview scorecards to maintain a high-quality interview process. 
 * **Public presence:** Help promote GitLab publicly through activities like writing blog articles, giving talks, publishing videos to GitLab Unfiltered, and engaging in social media efforts, where appropriate.
-* **Vision and direction:** Have an awareness of [Opportunity Canvas](/handbook/product/product-processes/#opportunity-canvas) reviews, strategy, and vision of the stages or areas you're assigned.
-* **People management:** Hold weekly [1:1s](/handbook/leadership/1-1/) with every member of your team and create Individual Growth Plans with monthly Career Development check-ins.
+* **Vision and direction:** Stay informed of Direction pages and have an awareness of the strategy and vision of the stages or areas you're assigned. 
+* **Career Development:** Hold weekly [1:1s](/handbook/leadership/1-1/) with every member of your team and create Individual Growth Plans with monthly Career Development check-ins.
 
 ### Specialties
 
@@ -42,7 +42,8 @@ You'll spend your time collaborating with a [cross-functional team](/handbook/pr
 
 ### Requirements
 
-* A minimum of 3 years experience managing a group of designers.
+* Experience managing a group of designers who work on complex products.
+* A clear philosophy about how to successfully manage remote design teams.
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Proficiency with pre-visualization software (e.g. Figma, Sketch, Adobe Photoshop, Illustrator).
 * Experience defining the high-level strategy (the why) and creating design deliverables (the how) based on research.
@@ -81,12 +82,12 @@ The Senior Product Design Manager is a [grade 9](/handbook/total-rewards/compens
 * **UX evangelism:** Ensure UX is prioritized by working with product leadership to identify opportunities for validation and better cross-functional collaboration.
 * **People management:** Coach Product Design Managers on how to conduct 1:1s and growth conversations with their direct reports.
 * **Skip levels:** Conduct quarterly skip levels with your reports' direct reports.
-* **Vision and direction**: Have an awareness of Opportunity Canvas reviews, strategy, and vision of the stages you're assigned.
+* **Vision and direction**: Stay informed of Direction pages and have an awareness of the strategy and vision of the stages you're assigned.
 * **Hiring:** Hire and retain a world-class team of Product Designers and Product Design Managers.
 
 ### Requirements
 
-* A minimum of 3 years experience managing Product Design Managers.
+* Experience managing Product Design Managers who focus on enterprise, developer, and/or business tools.
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Experience defining the high-level strategy (the why) and helping your team tie design and research back to that strategy.
 * Experience driving organizational change with cross-functional stakeholders.
@@ -126,12 +127,13 @@ The Director of Product Design is a [grade 10](/handbook/total-rewards/compensat
 * **Design strategy:** Communicate significant product design strategy decisions to leadership and the wider company.
 * **People management:** Coach Product Design Managers on how to conduct 1:1s and growth conversations with their direct reports.
 * **Skip levels:** Conduct quarterly skip levels with your reports' direct reports.
-* **Vision and direction**: Have an awareness of [Opportunity Canvas](/handbook/product/product-processes/#opportunity-canvas) reviews, strategy, and visions across the product. 
+* **Vision and direction**: Stay informed of Direction pages and have an awareness of the strategy and vision across the product. 
 * **Hiring:** Hire and retain a world-class team of Product Designers and Product Design Managers.
 
 ### Requirements
 
-* A minimum of 10 years experience managing designers, and leading design for a product company.
+* Relevant, progressive experience managing Product Design Managers and leading product design for a company that focuses on enterprise, developer, and/or business tools.
+* A strong philosophy about how to create an environment that empowers remote design teams and encourages them to deliver high-impact work.
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Proficiency with pre-visualization software (e.g. Figma, Sketch, Adobe Photoshop, Illustrator).
 * Experience defining the high-level strategy (the why) and creating design deliverables (the how) based on research.
@@ -175,7 +177,8 @@ The VP of UX is a [grade 12](/handbook/total-rewards/compensation/compensation-c
 
 ### Requirements
 
-* A minimum of 10 years experience managing designers, researchers, and writers and leading design for a product company.
+* Experience managing Product Designers, UX Researchers, and Technical Writers and leading UX for a product company.
+* A strong philosophy about how to help cross-functional UX teams to work together effectively and collaborate with their business counterparts. 
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Passion for creating visually pleasing and intuitive user experiences.
 * Collaborative team spirit with great communication skills.

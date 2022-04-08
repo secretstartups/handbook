@@ -30,8 +30,8 @@ The Director Customer Success Operations is a [grade 10](/handbook/total-rewards
 
 ## Requirements
 
-* 5 years experience with operations or related experience with a technical SaaS or subscription software service
-* 3 years of customer success experience leading field teams (Customer Success Managers, Account Management, Professional Services, Solution Architects) and/or operations 
+* Demonstrated progressive experience with operations or related experience with a technical SaaS or subscription software service
+* Demonstrated progressive customer success experience leading field teams (Customer Success Managers, Account Management, Professional Services, Solution Architects) and/or operations 
 * Experience with software development tools, practices, and methodologies is a plus
 * Experienced leading cross-functional initiatives in mid-sized or large organizations (i.e., 1000+ employees)
 * Experience with defining and leading digital engagement strategies (i.e., digital journey creation, content marketing, etc.)
@@ -64,4 +64,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Director or Vice President of Sales Operations
 * Stakeholder team member (i.e., Product, Marketing, Customer Success, etc.)
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

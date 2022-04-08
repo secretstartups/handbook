@@ -94,7 +94,7 @@ Ensure proper accounting policies and principles are followed in accordance with
 
 * Extends the Associate General Ledger Accountant requirements
 * 3-5 years public accounting experience
-* Have or actively persuing CPA
+* Have or actively pursuing CPA
 
 ### Senior General Ledger Accountant
 
@@ -126,7 +126,7 @@ The Senior Accountant is a [grade 7](/handbook/total-rewards/compensation/compen
 
 * Extends the Associate General Ledger Accountant requirements
 * 5-7 years public accounting experience 
-* Have or actively persuing CPA
+* Have or actively pursuing CPA
 
 ### Manager, Accounting 
 
@@ -138,28 +138,33 @@ The Manager, Accounting is a [grade 8](/handbook/total-rewards/compensation/comp
 
 #### Manager, Accounting Responsibilities
 
-* Manage a timely and accurate month end close by reviewing various journal entries and account reconciliations for cash, prepaids, accruals, inter-company, fixed assets payroll, and other various accounts. 
+* Reporting to the Senior Manager of Accounting, the Manager, International Accounting and Consolidation will be directly responsible for all aspects of accounting for our international subsidiaries, intercompany transactions and consolidations
+* Guides and controls the teams' general accounting activities, including recording company transactions, classifications, and reconciliation of account balances in accordance with GAAP and company policy
+* Responsibilities include closing the books under generally accepted accounting principles, performing accounting research, preparing/reviewing SEC financial reporting, developing audit procedures and controls
+* Help manage a timely and accurate month end close by reviewing various journal entries and account reconciliations for cash, prepaids, accruals, inter-company, fixed assets payroll, financial statement consolidation process (including foreign currency re-measurement, translation and allocations, etc) and other various accounts. 
+* Lead process improvement initiatives in Financial Close, Consolidation and Reporting areas and provide recommendations based on Financial Close & Consolidations leading practices
 * Review and/or prepare flux analysis for month end that summarizes and tells the "story" of the activity.
-* Review/Create Standard Operating Procedure (SOP) manual for accounting policy and regulations, and roll out reconciliation procedures.
-* Guide/train GL accountants by answering questions and reviewing their work
-* Proficient with accruals and understanding their impact and can assist others
-* Understand/Perform the activity of all 5 areas of the company organization within 6 months of starting the position (Marketing, G&A, R&D, Sales, COS) and the related month end accounting processes.
+* Collect business requirements and apply financial concepts to translate them into solution design and proposes recommendations for changes and improvements to accounting policies/procedures
+* Responsible for the timely and accurate preparation and reporting of financial information and ensuring that information adheres to GAAP and internal company policies
 * Ensure compliance with Sarbanes-Oxley Section 404 key controls in the financial areas of responsibility, as applicable, and work with IA to update key controls as neccessary
+* Implements new accounting policies and ensures those policies are communicated to team as well as the business
+
 * Monitor the need for business process improvements and assist with the design processes, procedures, and reporting enhancements to improve financial and operational processes.
-* Support the processing of misc cash receipts.
 * Support the design and implementation of new policies and procedures related to audit requirements and business activities.
 * Play a vital part in the company's financial management which includes account reconciliations and reporting to necessary parties.
 * Part of the development and implementation of systems related to the accounting team. 
-* Work with and support the accounting team in day-to-day activities, special projects, and workflow process improvements.
-* Support overall department goals and objectives.
-* Producing error-free accounting reports and present their results
-* Analyzing financial information and summarizing financial status
-* Spot errors and suggest ways to improve efficiency and spending
+* Guides and partners with cross-functional teams to develop and implement approved changes
+* Having knowledge and insight special accounting functions such as mergers and acquisitions. And helping get the accounting and entries correct.
+* Prepares and/or reviews reports supporting internal and external audits
+* Mentors, guides, and develops employees through orientation, training, establishment of goals, communication of policies and rules, and constructive discipline; Strengthens morale and motivation
+* Participate in the preparation of monthly and quarterly management slide deck
+* Works with internal and external audit as needed
+
 
 #### Manager, Accounting Requirements
 
 * 8-9 years experience with 2-3 years in public accounting 
-* Have or actively persuing CPA
+* Have or actively pursuing CPA
 
 ### Director, General Ledger Accounting
 

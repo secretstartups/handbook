@@ -6,6 +6,40 @@ description: "The Sales Strategy Job Family helps develop and execute GitLab's G
 
 The Sales Strategy Job Family helps develop and execute GitLab's Global Sales Strategy. The Sales Strategy Job Family partners close with Sales Leadership to identify opportunities and improve efficiencies.
 
+### Sales Strategy Senior Analyst
+
+The Sales Strategy Senior Analyst reports to the Manager or Senior Manager, Sales Strategy.
+
+#### Sales Strategy Senior Analyst Job Grade
+
+The Sales Strategy Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Sales Strategy Senior Analyst Responsibilities
+
+* Be a trusted advisor to Sales Leadership
+* Partner cross-functionally with Sales Leadership, Marketing, Channel and Product teams to formulate and develop go-to-market and Global Sales strategies, independently managing initiatives from ideation to execution
+* Identify opportunities to improve operational efficiency and lead efforts to scale, align and invest in the business
+* Develop an understanding of and stay current with the competitive landscape
+* Author and deliver high-impact presentations and plans to support CRO and Theater Sales Leaders in internal Sales events
+* Ability to conduct sophisticated, detailed and creative analysis and clearly communicate results through written and verbal channels
+
+#### Sales Strategy Senior Analyst Requirements
+
+* BA/BS degree
+* Demonstrated progressive experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+* Excellent quantitative analytical skills, creativity in problem solving, and a keen business sense
+* Ability to think strategically, but also have exceptional attention to detail to drive program management and execution
+* Extensive track record of building high-quality and complex spreadsheets, models and presentations
+* Superb analytical skills and technical aptitude
+* Strong interpersonal and communication skills effective across all levels of management
+* Experience with SQL, Tableau, and/or similar analytical packages a plus
+* SaaS and B2B experience preferred
+* Interest in GitLab, and open source software
+* You share our values, and work in accordance with those values
+* Ability to thrive in a fully remote organization
+* You share our values, and work in accordance with those values.
+* Ability to use GitLab
+
 ### Sales Strategy Manager
 
 The Sales Strategy Manager reports to the Senior Director, Sales Strategy.
@@ -33,7 +67,7 @@ The Sales Strategy Manager is a [grade 8](/handbook/total-rewards/compensation/c
 #### Sales Strategy Manager Requirements
 
 * BA/BS degree
-* 3+ years of experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+* Demonstrated progressive experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
 * Excellent quantitative analytical skills, creativity in problem solving, and a keen business sense
 * Ability to think strategically, but also have exceptional attention to detail to drive program management and execution 
 * Extensive track record of building high-quality and complex spreadsheets, models and presentations
@@ -62,7 +96,7 @@ The Sales Strategy Senior Manager is a [grade 9](/handbook/total-rewards/compens
 #### Sales Strategy Senior Manager Requirements
 
 * Extends the Sales Strategy Manager Requirements
-* 5+ years of experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+* Demonstrated progressive experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
 
 ### Director, Sales Strategy
 
@@ -90,7 +124,7 @@ The Sales Strategy Senior Manager is a [grade 10](/handbook/total-rewards/compen
 
 #### Director, Sales Strategy Requirements 
 
-* 7+ years of experience in an analytical role within a technology business.  Preference for Strategy Consulting, Corporate Strategy, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+* Demonstrated progressive experience in an analytical role within a technology business.  Preference for Strategy Consulting, Corporate Strategy, Venture Capital/Private Equity, and/or Investment Banking backgrounds
 * BA/BS degree, MBA Preferred 
 * Excellent quantitative analytical skills, creativity in problem solving, and a keen business sense
 * Ability to think strategically, but also have exceptional attention to detail to drive program management and execution 
@@ -120,29 +154,65 @@ The Senior Director, Sales Strategy is a [grade 11](/handbook/total-rewards/comp
 #### Senior Director, Sales Strategy Requirements
 
 * Extends that of the Director, Sales Strategy requirements
-* 8-10+ years of experience in an analytical role within a technology business.  Preference for Strategy Consulting, Corporate Strategy, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+* Demonstrated progressive experience in an analytical role within a technology business.  Preference for Strategy Consulting, Corporate Strategy, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+
+### Vice President, Sales Strategy & Analytics 
+
+The Vice President, Sales Strategy reports to the [VP, Field Operations](/job-families/sales/vp-of-field-operations/).
+
+#### Vice President, Sales Strategy & Analytics Job Grade 
+
+The Vice President, Sales Strategy & Analytics is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Vice President, Sales Strategy & Analytics Responsibilities
+
+* Extends that of the Senior Director, Sales Strategy responsibilities
+* Drive recruiting of a world-class team at all levels
+* Help team members from senior leaders, management and and analysts grow their skills and experience
+* Ensure the handbook is used and relevant references are maintained in a transparent way
+* Collaborate with senior leaders of Finance to drive planning cycles and ensure actual vs. plan throughout the year is within guidelines 
+* Partner with senior leaders of GTM Teams and Field Enablement to leverage performance analytics and influence cross-functional revenue programs 
+* Partner with cross-functional teams to drive analytical insights across the GTM Motion and escalate relevant discussion topics
+* Support CRO strategic initiatives and partner with relevant GTM teams   
+* Partner with CRO CoS to evolve the framework and structure for critical sales leadership meetings and OKRs 
+* Partner with CEO CoS on strategic initiatives and ensure prioritization alignment across all GTM Teams 
+
+#### Vice President, Sales Strategy & Analytics Requirements
+
+* Extends that of the Senior Director, Sales Strategy requirements
+* Expert hiring manager skills and experience
+* Experience managing managers, senior managers, or directors
+* Demonstrated progressive experience in a global SAAS sales or strategy environment
+* Demonstrated passion for information and business intelligence; thorough understanding of sales strategies and analytics
+* Strong ability to interact and influence effectively with all C-level executives and team members
+* Be able to represent organizational initiatives in place of the CRO
+* Exceptional written/verbal communication and presentation skills
+* Ability to work independently with a high degree of accountability, while also able to collaborate cross-functionally with exceptional intrapersonal skills
+Proven ability to thrive in a fluid, fast-paced, unpredictable environment.
+* Unquestionable ethics, integrity and business judgment; you share our values, and work in accordance with those values.
+
 
 ## Specialties
 
 ### Channel
 
-* 2+ years experience focused directly with supporting Channel sales organizations
+* Demonstrated progressive experience focused directly with supporting Channel sales organizations
 
 ### Enterprise
 
-* 2+ years experience focused directly with supporting Enterprise sales organizations
+* Demonstrated progressive experience focused directly with supporting Enterprise sales organizations
 
 ### Commercial
 
-* 2+ years experience focused directly with supporting Commercial sales organizations
+* Demonstrated progressive experience focused directly with supporting Commercial sales organizations
 
 ### Customer Success
 
-* 2+ years experience focused directly with supporting Customer Success sales organizations
+* Demonstrated progressive experience focused directly with supporting Customer Success sales organizations
 
 ### Growth and Operations
 
-* 5+ years experience focused directly with focus on strategy and operations
+* Demonstrated progressive experience focused directly with focus on strategy and operations
 
 ## Performance Indicators
 
@@ -162,4 +232,4 @@ Candidates for this position can expect the hiring process to follow the order b
 2. Video Interview with the Hiring Manager
 3. Team Interviews with 1-4 team members
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

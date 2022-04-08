@@ -29,18 +29,19 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 - Project management experience & skills
 - Strong technical, analytic, and problem-solving skills
 - Share our [values](/handbook/values/), and work in accordance with those values
+- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 
 ### Levels
 
-## Junior TAM
+## Associate TAM
 
-The Junior TAM reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers)
+The Associate TAM reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers)
 
-### Junior TAM Job Grade
+### Associate TAM Job Grade
 
-The Junior TAM is a job grade [level 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate TAM is a job grade [level 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Junior TAM Responsibilities
+### Associate TAM Responsibilities
 
 * Provide immediate onboarding activities such as installation and training 
 * Work with assigned customers to build Customer Success Plans, establishing critical goals, or other key performance indicators and aid the customer in achieving their goals
@@ -49,9 +50,9 @@ The Junior TAM is a job grade [level 5](/handbook/total-rewards/compensation/com
 * Provide insights with respect to the availability and applicability of new features in GitLab as relevant
 * Support GitLab Services in identifying and recommending training opportunities
 
-### Junior TAM Requirements
+### Associate TAM Requirements
 
-* 3 + years of experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
+* Demonstrated progressive experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
 
 ## Technical Account Manager (TAM) (Intermediate)
 
@@ -63,7 +64,7 @@ The TAM( Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 
 ### TAM (Intermediate) Responsibilities
 
-- Extends the TAM (Junior) responsibilities
+- Extends the TAM (Associate) responsibilities
 - Establish a trusted/strategic advisor relationship with each assigned customer and drive continued value of our solution and services
 - Assist and provide expert deployment, operational best practices, and establishing a GitLab Center of Excellence
 - Assist in workshops to help customers leverage the full value of GitLab solution
@@ -73,38 +74,11 @@ The TAM( Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 
 ### TAM (Intermediate) Requirements
 
-- 7 + years of experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
-- Experience with Ruby on Rails applications and Git
-- Deep knowledge of software development lifecycle and development pipeline
-- Understanding of continuous integration, continuous deployment, chatOps, and cloud-native
-- Above average knowledge of Unix and Unix based Operating Systems
-- Installation and operation of Linux operating systems and hardware investigation/manipulation commands
-- BASH/Shell scripting including systems and init.d startup scripts
-- Package management (RPM, etc. to add/remove/list packages)
-- Understanding of system log files/logging infrastructure
-- B.Sc. in Computer Science or equivalent experience
-- Programming/scripting experience & skill is required (Bash & Ruby)
-- SCM admin and/or PS experience would be a plus
-- Set up HA/DR, working with Containers and Schedulers (Kubernetes preferred) and also experience with AWS stack (EC2, ECS, RDS, ElastiCache)
-
-## Public Sector Technical Account Manager
-
-The Public Sector Technical Account Manager reports to the [Manager, Public Sector Technical Account Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-public-sector-technical-account-manager).
-
-### Public Sector Technical Account Manager Job Grade
-
-The Public Sector Technical Account Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Public Sector Technical Account Manager Responsibilities
-
-- In addition to the TAM (Intermediate) responsibilities:
-- Working exclusively with Federal Public Sector customers
-
-### Public Sector Technical Account Manager Requirements
-
-- In addition to the TAM (Intermediate) requirements:
-- TS/SCI Security Clearance if applicable
-- Knowledge of and at least four years of experience with Federal Public Sector customers
+- Extends the TAM (Associate) requirements
+- Demonstrated progressive experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
+- Understanding of Git and typical branching strategies
+- Knowledge of software development lifecycle and development pipeline
+- Understanding of continuous integration, continuous deployment, DevSecOps
 
 ## Senior TAM
 
@@ -118,7 +92,7 @@ The Senior TAM is a job grade [level 7](/handbook/total-rewards/compensation/com
 
 * Extends the TAM (Intermediate) responsibilities
 * Strategize on the overall objectives and long-range goals of the team
-* Provide mentorship for Junior and Intermediate TAMs to help them grow in their technical knowledge and provide premium customer experience
+* Provide mentorship for Associate and Intermediate TAMs to help them grow in their technical knowledge and provide premium customer experience
 * Work cross-departmentally to find solutions to complex scenarios and integration issues
 * Demonstrate leadership in new feature and technology adoption and teaching by providing regular enablement and solution overview sessions and documentation for customers and other GitLab team-members
 * Help drive team expertise and technical thought leadership
@@ -127,6 +101,7 @@ The Senior TAM is a job grade [level 7](/handbook/total-rewards/compensation/com
 
 ### Senior TAM Requirements
 
+* Extends the TAM (Intermediate) requirements
 * Ability to translate business requirements into business value, and work with sales and marketing to promote value-driven solutions
 * Strong knowledge of Customer Success best practices, with experience defining process and providing enablement programs to promote adoption in CS and across the company
 * Knowledgable in GitLab internals and deployment methods for cloud or on-premise deployments
@@ -135,36 +110,18 @@ The Senior TAM is a job grade [level 7](/handbook/total-rewards/compensation/com
 * Advanced project management experience & skills
 * Advanced SCM admin and/or PS experience
 
-## Senior Public Sector Technical Account Manager
 
-The Senior Public Sector Technical Account Manager reports to the [Manager, Public Sector Technical Account Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-public-sector-technical-account-manager).
+## Staff TAM (Account)
 
-### Senior Public Sector Technical Account Manager Job Grade
+The Staff TAM (Account) is a subject matter expert in customer engagement and success planning. In addition to working with the customers in their book of business, they provide guidance and coaching to other TAMs and develop improvements to our customer engagement model.
 
-The Senior Public Sector Technical Account Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff TAM (Account) reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
 
-### Senior Public Sector Technical Account Manager Responsibilities
+### Staff TAM Job Grade
 
-- In addition to the Senior TAM (Intermediate) responsibilities:
-- Working exclusively with Federal Public Sector customers
+The Staff, TAM (Account) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Senior Public Sector Technical Account Manager Requirements
-
-- In addition to the Senior TAM (Intermediate) requirements:
-- TS/SCI Security Clearance if applicable
-- Knowledge of and at least four years of experience with Federal Public Sector customers
-
-## Principal TAM (Account)
-
-The Principal TAM (Account) is a subject matter expert in customer engagement and success planning. In addition to working with the customers in their book of business, they provide guidance and coaching to other TAMs and develop improvements to our customer engagement model.
-
-The Principal TAM (Account) reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
-
-### Principal TAM Job Grade
-
-The Principal, TAM (Account) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Principal TAM (Account) Responsibilities
+### Staff TAM (Account) Responsibilities
 
 - Extends the Senior TAM responsibilities
 - Owns the customer relationship within a global account and actively manages the stakeholder relationship at all levels (i.e., executive, management, technical leaders) including strategic roadmap discussions
@@ -180,10 +137,10 @@ The Principal, TAM (Account) is a [grade 9](/handbook/total-rewards/compensation
 - Regularly publishes handbook updates describing our practice and our collaboration with other groups and improves/grooms existing content in-line with process and enablement improvements
 
 
-### Principal TAM (Account) Requirements
+### Staff TAM (Account) Requirements
 
 - Extends the Senior TAM requirements
-- Experience and a proven track record with the additional responsibilities of a Principal TAM
+- Experience and a proven track record with the additional responsibilities of a Staff TAM
 - Ability to manage executive relationships and discussions (VP/CxO)
 - High-performance ability to pitch and execute stage expansions, balancing business and technical and adjusting messaging to audience (technical / exec).
 - Skilled in bringing in a SAL/AE/ISR to see through upsell opportunities, whilst maintaining executive overlay and ensuring a positive customer experience.
@@ -192,22 +149,22 @@ The Principal, TAM (Account) is a [grade 9](/handbook/total-rewards/compensation
 - Excellent moderation and communication skills
 - Extensive experience within a technical or account management area
 
-### Principal TAM (Account) Performance Indicators 
+### Staff TAM (Account) Performance Indicators 
 
 * Extends the Customer Success KPIs articulated here
 * 3.75m ARR book of business maintained
 * 6 enablement contributions to global CS team per fiscal year
 
 
-## Principal TAM (Product)
+## Staff TAM (Product)
 
-The Principal TAM (Product) reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
+The Staff TAM (Product) reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
 
-### Principal TAM Job Grade
+### Staff TAM Job Grade
 
-The Principal TAM (Product) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff TAM (Product) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Principal TAM (Product) Responsibilities
+### Staff TAM (Product) Responsibilities
 
 - Extends the Senior TAM responsibilities
 - Demonstrates seniority in 3 or more [customer use cases](https://about.gitlab.com/handbook/use-cases/) 
@@ -219,17 +176,17 @@ The Principal TAM (Product) is a [grade 9](/handbook/total-rewards/compensation/
 - Increase global TAM team knowledge and thought leadership within the realm of their expertise
 - Contributes to our docs, YouTube channel, and other enablement programs such as the Digital Journey
 - Serves as advisor to Product Team providing constructive feedback to promote customer use cases and assist in product feature prioritization
-### Principal TAM (Product) Requirements
+### Staff TAM (Product) Requirements
 
 - Extends the Senior TAM requirements
-- Experience and a proven track record with the additional responsibilities of a Principal TAM
+- Experience and a proven track record with the additional responsibilities of a Staff TAM
 - Technical / DevOps domain expertise
 - Proven ability to overlay in customer technical risk situations and architect successful solutions.
 - Proven ability to consult and be consulted on topics requiring product/technical expertise
 - Excellent moderation and communication skills
 - Extensive experience within a technical or account management area
 
-### Principal TAM (Product) Performance Indicators
+### Staff TAM (Product) Performance Indicators
 
 * 2.75m ARR book of business maintained
 * 12 customer contributions per year as technical overlay; priority of these engagements to be determined by the Director of Technical Account Managers
@@ -278,24 +235,6 @@ The Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/compensatio
 * Ability to connect technology with measurable business value
 * Strategic thinking about business, products, and technical challenges
 
-## Manager, Public Sector Technical Account Manager
-
-The Manager, Public Sector Technical Account Manager reports to the [Director, Public Sector Customer Success](https://about.gitlab.com/job-families/sales/director-customer-success/#director-public-sector-customer-success).
-
-### Manager, Public Sector Technical Account Manager Job Grade
-
-The Manager, Public Sector Technical Account Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Manager, Public Sector Technical Account Manager Responsibilities
-
-- In addition to the Manager, TAM responsibilities:
-- Working exclusively with Federal Public Sector customers
-
-### Manager, Public Sector Technical Account Manager Requirements
-
-- In addition to the Manager, TAM requirements:
-- TS/SCI Security Clearance if applicable
-- Knowledge of and at least four years of experience with Federal Public Sector customers
 
 ## Senior Manager, TAM
 
@@ -318,8 +257,8 @@ The Senior Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/comp
 ### Senior Manager, TAM Requirements
 
 * Extends the Manager, TAM requirements
-* 2-4 years of management experience leading teams in a software company
-* 2 years experience leading customer success managers, account management or sales teams with team sizes of 5+ people
+* Demonstrated progressive management experience leading teams in a software company
+* Demonstrated progressive experience leading customer success managers, account management or sales teams with team sizes of 5+ people
 * Proven experience leading teams, driving software adoption, and building and scaling customer success management practices
 
 ## Director of TAMs
@@ -356,9 +295,9 @@ The Director of TAMs is a job grade [level 10](/handbook/total-rewards/compensat
 
 ###  Director of TAMs Requirements
 
-* 7 - 10 years of management experience leading teams in a software company 
-* 5 years experience leading customer success managers, account management or sales teams with team sizes of 30 people+
-* 3 years experience leading managers of customer success teams in a SaaS or subscription enterprise software company
+* Demonstrated progressive management experience leading teams in a software company 
+* Demonstrated progressive experience leading customer success managers, account management or sales teams with team sizes of 30 people+
+* Demonstrated progressive experience leading managers of customer success teams in a SaaS or subscription enterprise software company
 * Knowledgeable with cloud technologies (e.g., Kubernetes, Docker), application security (SAST, DAST) and/or cloud deployment models (AWS, GCP, Azure) is a plus
 * Demonstrated ability to lead managers and successfully manage global, distributed teams across cultures, lines of business, and geographies
 * Possesses a strong management presence and leadership ability, with communication and interpersonal skills that inspire and motivate leaders and teams
@@ -386,13 +325,39 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 ###  Senior Director of TAMs Requirements
 
 * Extends that of the Director of TAMs requirements
-* 5 years experience leading managers of customer success teams in a SaaS or subscription enterprise software company
+* Demonstrated progressive experience leading managers of customer success teams in a SaaS or subscription enterprise software company
 
 ## Specialties
 
-### Enterprise
+### Strategic
 
-* Experience leading high-touch customer success management teams for Enterprise customers
+* Experience leading a high-touch motion with customers, including strategic account planning, lifecycle management, deep focus on maturity of adoption and leadership in expansion initiatives. 
+
+### Named
+* Possess a deep understanding of creating customer value to deliver scalable customer engagements that help customers derive ongoing value from their investment with GitLab
+* Manage and provide input into iteration upon the customer journey, including onboarding, adoption, retention, and expansion, with an emphasis on defining and demonstrating value programmatically to grow net revenue retention ultimately 
+* Take a data-driven approach to driving value across the customer segment, ensuring time and attention is prioritized to ensure the most significant positive impact
+* Proactively identify and prioritize accounts to focus efforts within a defined territory as based on point in lifecycle (e.g., onboarding) perceived risk, potential growth, strategic value, and renewal timeframe
+* Work cross-functionally with multiple teams (CS ops, content, programs, marketing, product) to develop thoughtful and innovative approaches to driving success with customers at scale
+* Identify key areas of enablement need across the customer segment and partner closely with the strategic and scale TAMs to create content and webinars to address these needs
+* Analyze industry best practices, trends, and performance metrics to shape customer engagement strategies and accelerate results
+
+
+
+
+### Scale
+- Develop and deliver scale programs to drive product adoption, expansion, and customer engagement through webinars, digital content, and cohort engagement approaches (e.g., workshops, office hours, etc.)
+- Collaborate across a number of other teams to drive effective customer programs (digital editor, TAM team, digital campaign manager, marketing, growth)
+- Understand the nuances of digital relationships and automated engagements and architects positive customer experiences to ensure the customer feels valued while obtaining value from the GitLab platform
+- Utilize automation and digital engagements, isolating some customers for reach-outs based on product usage data insights coupled with the customer's point in their lifecycle
+- Create blanket contact campaigns of monthly or quarterly e-newsletters, data triggered email campaigns, on-demand training and guidance
+- Drive feature adoption through targeted on-going training of customers via webinars and campaigns
+- Leverage engagement and digital metrics to create and improve enablement content in alignment with customer journey
+- Analyze product usage data to determine prioritization of customer reach-outs and activities 
+- Create fun and engaging training resources that scale
+- Build engagement playbooks and reach out to customers with a relentless focus on quick solutions and positive outcomes
+- Work with CS and sales leadership on creating and executing upon scalable save plays for at-risk customers
+- Organize product-centric office hours where customers can troubleshoot with a technical representative
 
 ### Customer Programs 
 - Engage and assist customers as part of a campaign or program led by Customer Programs team in partnership with Commercial TAM and Sales team
@@ -401,6 +366,23 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 - Curate frequently asked questions (FAQ) and related solution guides based on direct customer engagement, and analysis of customer requests and usage patterns
 - Partner with Customer Programs team to enhance and improve digital adoption journey to preserve or increase net retention for digital customers
 - Partner with our customers to understand industry-wide technical challenges along the customer journey with GitLab
+
+###  Public Sector Technical Account Manager
+####  Public Sector Technical Account Manager Responsibilities
+
+- Extends the corresponding Technical Account Manager level responsibilities:
+- Work exclusively with Public Sector customers
+
+####  Public Sector Technical Account Manager Requirements
+
+- In addition to the corresponding Technical Account Manager level requirements:
+- TS/SCI Security Clearance if applicable
+- Knowledge of and demonstrated progressive experience with Public Sector customers
+- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies. 
+
+
+
+
 
 ## Performance Indicators
 
@@ -415,10 +397,35 @@ The next steps for the TAM Job Family are to move to the [Manager, Customer Expe
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
-* Next, candidates will complete an Assessment,  
-* Next, candidates will interview with 2-4 GitLab team members and the hiring manager,
-* Then, candidates will be asked to perform a demonstration, 
-* Finally, candidates may be asked to interview with an executive or the CEO.
+### Recruiter Screening
+
+Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+
+### Written Assessment
+
+The assessment is a written questionnaire, completed and submitted prior to interviews with members of the Technical Account Manager team. The Recruiter working with the candidate will provide the written assessment following a successful [recruiter screening interview](#recruiter-screening).
+
+### Hiring Manager Interview
+
+The hiring manager interview is the first of the interviews with the Technical Account Manager team. This interview is with the manager of the team the candidate is applying to join. It is a 30 minute interview.
+
+### Peer Interview
+
+The peer interview is conducted by an individual contributor who is a member of the team the candidate is applying to join. Peer interviewers are selected by the hiring manager. This is a 30 minute interview.
+
+### Panel Interview
+
+The panel interview consists of several members of the Technical Account Manager team. It typically includes the hiring manager and two other team members. This is a 60 minute interview, with the following format:
+
+- Live demonstration based on the guidance provided ahead of the interview by the recruiter
+- General discussion and questions from the panel
+
+### Executive Interview
+
+Conducted by the [Senior Director of TAMs](/job-families/sales/technical-account-manager/#senior-director-of-tams), this is a discussion with the candidate as a final assessment interview to evaluate the candidate's suitability for the role. This is a 30 minute interview.
+
+### Reference and Background Check
+
+Once the candidate has successfully completed all interview stages with positive recommendations at each stage, GitLab will complete [reference checks](/handbook/hiring/interviewing/#reference-check-process) and a [background check](/handbook/hiring/interviewing/#background-checks).
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

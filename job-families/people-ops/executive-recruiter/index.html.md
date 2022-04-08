@@ -36,7 +36,7 @@ The Executive Recruiter is a [grade 7](/handbook/total-rewards/compensation/comp
 * Outstanding written and verbal communication skills across all levels
 * Willingness to learn and use software tools including Git and GitLab
 * College / University degree in Marketing, Human Resources or related field from an accredited institution preferred
-* Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * Share our [values](/handbook/values/), and work in accordance with those values.
 * Ability to use GitLab
 

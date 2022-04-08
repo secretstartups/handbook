@@ -18,11 +18,11 @@ The Area Vice President reports into the [VP, Enterprise Sales](/job-families/sa
 
 ## Requirements
 
-* 5+ years of second line leadership experience leading teams in strategic sales.
+* Demonstrated progressive second line leadership experience leading teams in strategic sales.
 * Multiple repeatable proof points of recruiting, hiring, developing, and retaining leaders and individual contributors that make-up a high performing enterprise sales organization.
 * Deep experience selling into accounts in core markets.
-* Multiple years of consistent overachievement of a $20m+ ACV annual quota
-* 10+ years in software sales, preferably with development tool and/or open source experience
+* Demonstrated progressive experience in consistent overachievement of a $20m+ ACV annual quota
+* Demonstrated progressive experience in software sales, preferably with development tool and/or open source experience
 * Proven track record of working closely with the channel for growth leverage.
 * Proven success partnering with Marketing, Channel, Alliances, Product, and Engineering peers.
 * Demonstration of high levels of integrity, initiative, honesty and leadership
@@ -31,6 +31,7 @@ The Area Vice President reports into the [VP, Enterprise Sales](/job-families/sa
 * Polished presentation skills
 * Ability to handle a fast-paced environment and ambitious workload
 * Bachelor degree 
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 
 ## Segment
 
@@ -44,9 +45,10 @@ The Area Vice President reports into the [VP, Enterprise Sales](/job-families/sa
 #### Area Vice President (Public Sector) Requirements
 
 * Extends that of the AVP Requirements
-* 5+ years of second line leadership experience leading teams in strategic sales specific to Public Sector.
+* Demonstrated progressive second line leadership experience leading teams in strategic sales specific to Public Sector.
 * Proven second line sales management experience with deep domain experience in the Public Sector/Federal vertical, including a history of successfully selling through the Public Sector channel.
 * Must have proven experience leading teams who sell to mission owners, identifying, uncovering, and developing new account opportunities in their territory.
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies. 
 
 ## Performance Indicators
 
@@ -60,7 +62,7 @@ The Area Vice President Job Family would move to the [VP of Enteprise Sales](/jo
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 * Next, candidates will be invited to schedule a first interview with the Hiring Manager
@@ -68,4 +70,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule one or more interviews with Business Partners
 * Finally, candidates may be asked to interview with our CRO.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

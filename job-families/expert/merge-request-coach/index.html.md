@@ -9,22 +9,20 @@ get merged into GitLab.
 
 ## Responsibilities
 
-* Triage merge requests labeled `~"Community contribution"`.
+* Triage merge requests labeled `~"Community contribution"` according to the [Wider Community Merge Request Triage policy](/handbook/engineering/quality/merge-request-triage).
 * Close merge requests that we don't want, with a clear explanation on the
   reasons why, so that people don't feel discouraged.
 * Help contributors to get their merge requests to meet the
   [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria).
-* Read the weekly `Merge requests requiring attention` email to follow-up on inactive MRs. Each coach should pick a few MRs to follow-up each week.
+* Act on the merge requests assigned to you on the daily [newly created community contribution merge requests triage report](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage).
 * Help find and assign merge requests to available reviewers.
 * If the contributor is unresponsive or if they are unable to finish it, finish
   their merge requests. Also, see the [closing policy for issues and merge requests](https://docs.gitlab.com/ee/development/contributing/#closing-policy-for-issues-and-merge-requests).
-  1. Close the original merge request and say that you will finish it.
-  1. Check out the branch locally.
-  1. Make sure a changelog entry crediting the author exists.
-  1. Add your own commits to improve and finish the original work.
-  1. Push to a new branch and open a new merge request.
 * Make it easy to contribute to GitLab even for people who are new to Ruby,
   JavaScript, Golang, etc. or programming entirely. For example, you can add any hints or possible fixes on issues that are open for community contribution.
+* Join and actively follow the internal [`#mr-coaching` Slack channel](https://app.slack.com/client/T02592416/C2T9APP9C) and the external [`#contributors` Gitter channel](https://gitter.im/gitlab/contributors) to assist contributors and fellow MR Coaches when they need help or to discuss best practices for collaboration.
+  * You can also use the [`#gitter-contributors-room` Slack channel](https://app.slack.com/client/T02592416/CV0SHHVNW) which tunnels all conversations between Gitter and Slack.
+* Ensure the content on the [MR Coaches handbook pages](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html) stays relevant, up-to-date and keeps evolving.
 
 ### Specialties 
 
@@ -48,9 +46,21 @@ After a merge request from a wider community member has been submitted and you h
 
 Some MRs may not need triaging and as an MR coach you should feel empowered to approve an MR immediately before passing it to the appropriate maintainer(s) for merging if appropriate. Examples of these types of MRs include:
 
-* MRs where the content is tightly related to your own domain expertise.
+* MRs where the content is tightly related to your domain knowledge.
 * MRs that include only whitespace or stylistic changes.
 * MRs that resolve ignored Rubocop violations.
+
+### Finishing merge requests
+
+Sometimes a contributor will either become unresponsive or state that they will not be able to finish a merge request. If a Merge Request Coach deems the effort worthwile and has the knowledge and the bandwidth to complete it, they will bring the MR to the finish line instead of [closing it](#closing-merge-requests).
+
+Steps:
+
+ 1. Close the original merge request and say that you will finish it.
+ 1. Check out the branch locally.
+ 1. Make sure a changelog git trailer crediting the author exists.
+ 1. Add your own commits to improve and finish the original work.
+ 1. Push to a new branch and open a new merge request.
 
 ### Closing merge requests
 

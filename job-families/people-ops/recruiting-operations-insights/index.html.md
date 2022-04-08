@@ -46,7 +46,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Then, candidates will be invited to schedule two 30 minute interviews with two separate Peers and a 30-minute interview with another Recruiting Manager
 * Finally, candidates will be invited to a 45-minute interview with the Hiring Manager
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Recruiting Insights Analyst
 

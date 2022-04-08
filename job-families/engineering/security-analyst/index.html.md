@@ -77,20 +77,8 @@ The Senior Anti-Abuse Analyst is responsible for leading and implementing the va
 ### Security Compliance
 See [Security Compliance](https://about.gitlab.com/job-families/engineering/security-compliance/)
 
-### Risk and Field Security
-See [Risk and Field Security](https://about.gitlab.com/job-families/engineering/risk-field-security/)
-
-
-### External Communications
-The External Communications Team leads customer advocacy, engagement and communications in support of GitLab Security Team programs. Initiatives for this specialty include:
-
-#### Senior External Communications Analyst Responsibilities
-
-- Increase engagement with the hacker community, including our public bug bounty program.
-- Build and manage a Security blogging program.
-- Develop social media content and campaigns, in collaboration with GitLab social media manager.
-- Manage security alert email notifications.
-- Collaborate with corporate marketing, PR, Community Advocates and Developer Evangelism teams to help identify opportunities for the Security Team to increase industry recognition and thought leadership position.
+### Security External Communications
+See [Security External Communications](https://about.gitlab.com/job-families/engineering/security-external-communications/)
 
 ### Security Operations
 
@@ -130,7 +118,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Successful candidates will subsequently be made an offer via email
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](/handbook/hiring).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## External Communications
 * [HackerOne Outreach and Engagement](/handbook/engineering/security/performance-indicators/#hackerone-outreach-and-engagement)

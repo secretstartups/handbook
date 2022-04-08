@@ -138,4 +138,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security orgnaization,
 * Finally, candidates will be invited to schedule a 25-minute interview with the Director, Security Assurance.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

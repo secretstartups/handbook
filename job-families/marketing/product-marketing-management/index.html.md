@@ -315,11 +315,11 @@ Work with FP&A to ensure MDF allocations/marketing spend are appropriately alloc
 The next step for managers of people is to move to the [Director of Product Marketing](/job-families/marketing/director-product-marketing) job family.
 
 ## Hiring Process
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * Next, candidates may be invited to interview with the Hiring Manager
 * Next, candidates may be invited to interview with 2-4 Team Members
 * Finally, candidates may be invited to interview with someone from leadership
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

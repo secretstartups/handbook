@@ -3,6 +3,8 @@ layout: job_family_page
 title: "People Operations"
 ---
 
+The People Operations Specialist plays a critical role in influencing and supporting the people strategy within the GitLab - collaboratively working to develop, optimize and implement people processes and programs while overseeing the day-to-day responsibilities associated with people operations.
+
 ## People Operations Specialist
 
 ## Levels
@@ -11,100 +13,77 @@ title: "People Operations"
 
 The People Operations Specialist (Intermediate) reports to the Manager, People Operations.
 
-#### People Operations Specialist (Intermediate) Job Grade
+#### Job Grade
 
-The People Operations Specialist (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Operations Specialist (Intermediate) is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### People Operations Specialist (Intermediate) Responsibilities
+#### Responsibilities
 
-- Provide backup / guidance to the People Experience team in responding to emails in the people operations email and Slack channel to ensure extraordinary customer service to employees and leaders at GitLab.
-- Maintain appropriate level of process, program, and policy knowledge in order to assist team members.
-- Program management including rollout, communication, reporting and metrics of Organizational health, Engagement Survey, DIB related surveys, 360 feedback cycle and Performance/ Potential Matrix Assessment. 
-- Implementation and rollout of a stay interview process (analysis and actions). 
-- Intake of questions, complaints and concerns.
-- Escalating concerns or problems to People Business Partners as needed.
-- Oversee probation period strategy, collaborating with the legal team to ensure compliance and iteration, globally. Document all information and updates in the handbook.
-- Identify automation opportunities for all People Operations tasks and iterate on manual administrative processes.
-- Proactively identify process inefficiencies and inconsistencies and collaborate towards an improved and more productive process that improves the employee and/or manager’s experience.
-- Announcing changes and improvements in the #whats-happening-at-gitlab Slack channel
-- Engagement survey administration, implementation and reporting.
-- Provide support and cover for Associates including completion of Onboarding issues and Offboarding issues.
-- DRI for reporting potential inaccurate LinkedIn profiles.
-- Providing support to the Senior Specialist regarding contract changes and administration.
-- Engage with co-employer’s and PEO's on a regular basis, especially during onboarding within those regions.
-- Manage and audit the US Unemployment Claim process.
-- Identify gaps during GitLab onboarding and co-employer processes.
-- Complete ad-hoc projects, reporting, and tasks.
-- Conducting exit interviews for all Individual Contributors and collaborate closely with the People Business Partner team to support with administration related tasks.
-- Issue traiging on a regular basis and label review/ adding.
+- Document, implement and work to improve upon processes, procedures and programs relating to the team member lifecycle - conducting regular reviews around optimization and scalability.
+- Ensure the delivery of critical people operations processes e.g. relocations (global mobility services), unemployment claims, offboarding and job information changes including compensation, promotions and transfers.
+- Take full ownership of team member documentation including contracts, amendments and all other items pertinent to the team member lifecycle.
+- Accountable for HRIS data including team member records and information changes such as promotions, terminations and transfers.  Ensuring the integrity and accuracy of all people data both in the HRIS and ancillary systems.
+- Ensure that the People Experience Associate team has a full understanding of operational processes and policies providing guidance, support and training when necessary.
+- Serve as a primary point of escalation and internal team member support for more complex cases, providing policy guidance and interpretation as needed (People Connect).
+- In collaboration with various cross-functional partners, build and drive timely implementation of projects relating to the various points within the team member lifecycle coordinating workstreams and associated communication mechanisms.
+- Support the People Business Partner (PBP) team i.e. administration of various surveys, conduct exit interviews (IC) and provide useful data to guide decision making.
+- Provide functional and technical support surrounding the employee experience platform i.e. general configuration, trouble-shooting issues, managing settings and recommending process improvements.
+- Collaborate with the Employment Solutions Partner to support relocation requests, fostering a close relationship with co-employers to ensure quality delivery of mobility services.
 
-#### People Operations Specialist (Intermediate) Requirements
+#### Requirements
 
-- The ability to work autonomously and to drive your own performance & development would be important in this role.
-- Prior extensive experience in an HR or People Operations role.
-- Clear understanding of HR laws in one or multiple countries where GitLab is active.
-- Willingness to work odd hours when needed (for example, to call an embassy in a different continent).
-- Excellent written and verbal communication skills.
-- Exceptional customer service skills.
-- Team player who can jump in and support the team on a variety of topics and tasks.
-- Enthusiasm for and broad experience with software tools.
-- Proven experience quickly learning new software tools.
-- Willing to work with git and GitLab whenever possible.
-- Willing to make People Operations as open and transparent as possible.
-- Proven organizational skills with high attention to detail and the ability to prioritize.
-- You share our [values](/handbook/values/), and work in accordance with those values.
-- The ability to work in a fast-paced environment with attention to detail is essential.
-- High sense of urgency and accuracy.
-- Bachelor's degree or 2 years related experience.
-- Experience at a growth-stage tech company is preferred.
-- Ability to use GitLab
+- Bachelor's Degree with related majors e.g. Human Resources (HR), Industrial Psychology or Business Management **or** three years of experience in a generalist role ideally within a growth-stage tech company with exposure to either an all-remote or hybrid environment (minimum).
+- Understanding of the entire team member lifecycle, with the ability to recommend process-oriented and/or operational solutions to improve the team member experience.
+- Experience with Greenhouse, Workday, GitLab and Culture Amp (ideal).
+- Ability to work within a distributed team and as an individual contributor in a fast-paced, changing environment.
+- Strong verbal and written communications with the ability to effectively communicate at multiple levels within the company.
+- Strong problem solving and organizational skills - able to manage multiple priorities in a dynamic and occasionally ambiguous environment.
+- Able to use discretion and handle highly sensitive information.
+- Excellent interpersonal skills and ability to establish strong relationships at all levels and across functions.
 
 ### Senior People Operations Specialist
 
 The Senior people Operations Specialist reports to the Manager, People Operations.
 
-#### Senior People Operations Specialist Job Grade
+#### Job Grade
 
-The Senior People Operations Specialist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior People Operations Specialist is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior People Operations Specialist Responsibilities
+#### Responsibilities
 
-- Maintain appropriate level of process, program, and policy knowledge in order to assist team members.
-- Partner with Legal, Tax and Compliance on international employment and contractual requirements.
-- Maintain and improve program management including rollout, communication, reporting and metrics of Organizational health, Engagment Survey, DIB related surveys, 360 feedback cycle and Performance/ Potential Matrix Assessment. 
-- Maintain and improve the stay interview process (analysis and actions). 
-- Leading engagement survey administration, implementation and reporting. 
-- Review new locations and work with PEO’s to update contracts. Update handbook appropriately.
-- Data retention tracking and compliance.
-- Review anniversary gift feedback on an annual basis and work with the supplier to iterate on the experience and ordering process.
-- Proactively identify process inefficiencies and inconsistencies and collaborate towards an improved and more productive process that improves the employee and/or manager’s experience.
-- Announcing changes and improvements in the #whats-happening-at-gitlab Slack channel
-- Work on onboarding people experience, values alignment during onboarding and improving onboarding through continuous iteration.
-- Conducting exit interviews for all Management and Senior Management team members and collaborate closely with the People Business Partner team to support with administration related tasks.
-- Stay interviews for IC’s.
-- Partner with the People Operations Fullstack Engineer on automation and removing mundane tasks from Onboarding.
-- Iterate on the onboarding issue and collaborate with the overall team to keep improving onboarding.
-- Work with the People Operations Fullstack Engineer on automation related options for call management and videco conferencing provider.
-- Manage Vendor contracts.
-- Renewing or ending of contracts and working closely with Procurement on negotiations, and vendor selections.
-- Coordinate with Finance on PEO payroll issue.
-- Complete ad-hoc projects, reporting, and tasks.
-- Conducting exit interviews for all Managers, Directors and members of the Executive Team and collaborate closely with the People Business Partner team to support with administration related tasks.
-- Maintaining issue traiging on a regular basis and label review/ adding and contribute to the efficiency of our issue tracker.
+- Serve as a Subject Matter Expert (SME) on all people operations processes, policies and tools.
+- Translate legal and regulatory requirements into system or process requirements in collaboration with the People Compliance Partner.
+- Develop and maintain a system to ensure that people policies are consistently updated and shared.
+- Monitor and leverage metrics and trends to determine process improvement opportunities ultimately working to enhance the team member experience.
+- Collaborate with Employment Solutions and various other stakeholders such as third party employers to ensure that regional employment contracts, policies and practices are aligned to the unique requirements of each location i.e. data retention, legislative, regulatory and taxation.
+- Support the implementation and testing of people tools and technologies including but not limited to the HRIS.
+- Serve as a Subject Matter Expert (SME) for various modules within the HRIS.
+- Accountable for knowledge transfer within the People Operations team in close collaboration with various stakeholders e.g. Total Rewards, - Learning and Development, Stock Administration etc.
+- Work closely with the People Operations Manager to review and maintain the project roadmap in alignment with the needs of the company - identifying and escalating blockers, recommending changes and additions to scope and prioritizing action items.
+- Guide the People Experience Team working to ensure that the team member journey is consistent and aligned to the values of the company, serving as a point of escalation as needed.
+- Program Management i.e. responsible for the delivery of key programs such as the 360 Feedback Cycle, Engagement Surveys and Performance Assessments.
+- Conduct exit interviews for Managers, Directors and E-Group Members identifying and reporting on trends.
 
-#### Senior People Operations Specialist Requirements
+#### Requirements
 
-* Extends that of the People Operations Specialist (Intermediate) requirements.
+- Bachelor's Degree with related majors e.g. Human Resources (HR), Industrial Psychology or Business Management **or** five years of experience in a generalist role ideally within a growth-stage tech company with exposure to either an all-remote or hybrid environment (minimum).
+- Understanding of the entire team member lifecycle, with the ability to recommend process-oriented and/or operational solutions to improve the team member experience.
+- Experience with Greenhouse, Workday and Culture Amp (ideal).
+- Ability to work within a distributed team and as an individual contributor in a fast-paced, changing environment.
+- Strong verbal and written communications with the ability to effectively communicate at multiple levels within the company.
+- Strong problem solving and organizational skills - able to manage multiple priorities in a dynamic and occasionally ambiguous environment.
+- Able to use discretion and handle highly sensitive information.
+- Excellent interpersonal skills and ability to establish strong relationships at all levels and across functions.
 
 ## Manager, People Operations
 
-The Manager, People Operations reports to the Senior Manager, People Operations.
+The Manager, People Operations reports to the Director, Global People Operations
 
-#### Manager, People Operations Job Grade
+#### Job Grade
 
-The Manager, People Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, People Operations is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, People Operations Responsibilities
+#### Responsibilities
 
 - Onboard, mentor, and grow the careers of all team members.
 - Coach and mentor PeopleOps team to effectively address team member queries in line with our values.
@@ -131,7 +110,7 @@ The Manager, People Operations is a [grade 8](/handbook/total-rewards/compensati
 - Manage vendor renewals and agreements.
 - Partner with Finance Business Partner for budgeting purposes.
 
-#### Manager, People Operations Requirements
+#### Requirements
 
 - Ability to use GitLab
 - The ability to work autonomously and to drive your own performance & development would be important in this role
@@ -150,33 +129,15 @@ The Manager, People Operations is a [grade 8](/handbook/total-rewards/compensati
 - High sense of urgency and accuracy
 - Experience at a growth-stage tech company
 
-### Performance Indicators
-
-- 12 month team member retention
-- 12 month voluntary team member turnover
-- Onboarding Satisfaction Survey > 4.5[](/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat)
-- Onboarding task completion < X (TBD)
-
-### Hiring Process
-
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-- Next, candidates will be invited to schedule a 45 minute interview with our People Operations Manager
-- After that, candidates will be invited to schedule a 30 minute interview with members of the People Operations and People Partner teams
-- After that, candidates will be invited to interview with the Director of People Operations
-- Finally, our CPO may choose to conduct a final interview
-
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
-
 ## Senior Manager, People Operations
 
-The Senior Manager, People Operations reports to Director, People Operations. 
+The Senior Manager, People Operations reports to Director, Global People Operations. 
 
-#### Senior Manager, People Operations Job Grade
+#### Job Grade
 
-The Senior Manager, People Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, People Operations is a [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Manager, People Operations Responsibilities
+#### Responsibilities
 
 - Onboard, mentor, and grow the careers of all team members
 - Provide coaching to improve performance of team members and drive accountability
@@ -196,7 +157,7 @@ The Senior Manager, People Operations is a [grade 9](/handbook/total-rewards/com
 - Work closely with payroll, SecOps, and ITOps to continue to improve the administration of offboarding the time it takes to complete
 - Mananging issue traiging and label review/ adding and reviewing contributions to the efficiency of our issue tracker. Provide strategic guidance and coaching on more difficult discussions and collaboration within issues. 
 
-#### Senior Manager, People Operations Requirements
+#### Requirements
 
 - Ability to use GitLab
 - The ability to work autonomously and to drive your own performance & development would be important in this role
@@ -215,64 +176,80 @@ The Senior Manager, People Operations is a [grade 9](/handbook/total-rewards/com
 - High sense of urgency and accuracy
 - Experience at a growth-stage tech company
 
-### Performance Indicators
-
-- [12 month team member retention](/handbook/people-group/people-success-performance-indicators/#team-member-retention-rolling-12-months)
-- [12 month voluntary team member turnover](/handbook/people-group/people-success-performance-indicators/#team-member-voluntary-retention-rolling-12-months)
-- Onboarding Satisfaction Survey > 4.5[](/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat)
-- Onboarding task completion < X (TBD)
-
-### Hiring Process
-
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 45 minute interview with our People Operations Manager
-* After that, candidates will be invited to schedule a 30 minute interview with members of the People Operations and People Partner teams
-* After that, candidates will be invited to interview with the Director of People Operations
-* Finally, our CPO may choose to conduct a final interview
-
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
-
 ## Director, Global People Operations
 
-The Director of Global People Operations reports to the [Senior Director, People Success](/job-families/people-ops/people-leadership/).
+The Director of Global People Operations reports to the VP, People Operations, Technology and Analytics
 
-#### Director, Global People Operations Job Grade
+#### Job Grade
 
-The Director, Global People Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Global People Operations is a [Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director, Global People Operations Responsibilities
+#### Responsibilities
 
 - Lead and manage a growing People Operations team responsible for managing the employee experience throughout the employee lifecycle.
 - Help shape a global People Operations strategy that aligns and moves the business towards continued growth, innovation and improvement.
-- Provide HR support and consultation to the business; answering employee and manager questions about HR programs, policies, and other HR-related items.
-- Provide HR support and leadership with respect to day-to-day HR life cycle activities of client groups, including performance management issues, investigations, and reorganizations.
-- Understand workforce needs as the company scales managing costs while staying competitive with salary, benefits, perks, leaves, etc.
-- Work with the executive team to come up with a competitive compensation strategy.
-- Assess and apply market data, ensuring alignment with the company’s total compensation philosophy.
-- Oversee performance, development, and the compensation review process.
+- Provide HR support and consultation to the business; answering employee and manager questions about HR programs, policies, and other HR-related items with the team member satisfaction top of mind and priority.
+- Provide HR support and leadership with respect to day-to-day HR life cycle activities of client groups, including onboarding, offboarding, relocations, and other team member events.
+- Coordinate and support new People program implementations.   
+- Create and manage streamlined processes and ensure alignment with key stakeholders inside and outside the People Team (Talent Acquisition Enablement, Payroll, Stock Administration, Finance)
+- Build collaborative relationships across the organization.  
 - Drive a progressive, proactive, positive culture, and increase levels of engagement, enablement, and retention.
-- Coach, influence, and provide guidance to business partners to figure out optimal organizational design, development, and performance management plans.
-- Assist with the maintenance and accuracy of HR data, including processing SAP data, such as Employee Action Forms.
-- Provide resolution to employee and organizational issues in a proactive and sensitive manner.
+- Assist with the maintenance and accuracy of HR data, including data audits.
+- Provide leadership and oversight of People Compliance function, ensuring compliant processes and alignment with local and international employee laws and regulations.  
 - Assess/identify HR strategy, policy, or process improvements.
-- Ensure People Operations strategies and processes remain aligned with the company’s talent management and workforce plans to enhance employee engagement and sustain business growth.
-- Collaborate with Chief People Officer, People Operations, and organizational leaders in fostering a culture of empowerment and performance; establish the employee lifecycle journey and succession plans.
+- Provide leadership and oversight of business expansion solutions, ensuring scalability, forward focused, and meet team member satisfaction requirements.  
 - Maintain in-depth knowledge of local, global, and federal employment laws; maintain and store records judiciously and securely.
 
-#### Director, Global People Operations Requirements
+#### Requirements
 
 - 8+ years of progressive experience in HR roles with a demonstrable track record of building and optimizing processes, systems, and structures.
-- Requires a Bachelor’s degree preferably in Human Resources, Organizational Development, Organizational Leadership, or related field.
-- 5+ years hands-on experience with compensation & benefits.
-- Labor Relations experience required, preferably in multiple countries.
-- Working knowledge of regulatory and legal requirements related to total rewards and systems.
+- Working knowledge of regulatory and legal requirements related to employment and People Compliance.
+- Working knowledge of business employment solutions and the options available such as utilizing a PEO or hiring contractors.  
 - 3-5 years of experience leading people and cross-functional organizations.
 - Demonstrable ability to own, execute and deliver on short- and long-term projects.
 - Strategic and innovative thinker; able to prioritize and use sound judgment and decision-making.
 - Executive presence with excellent written and oral communication skills.
 - Business insight and high EQ to successfully collaborate with executives and business partners at all levels.
-- Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+- Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
+- You share our [values](/handbook/values/), and work in accordance with those values.
+- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- Ability to use GitLab
+
+## Senior Director, Global People Operations
+
+The Senior Director of Global People Operations reports to the VP, People Operations, Technology and Analytics
+
+#### Job Grade
+
+The Director, Global People Operations is a [Grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+- Lead and manage a growing People Operations team responsible for managing the employee experience throughout the employee lifecycle.
+- Assess, identify, shape and execute a global People Operations strategy that aligns and moves the business towards continued growth, innovation and improvement.
+- Provide HR support and consultation to the business; answering employee and manager questions about HR programs, policies, and other HR-related items with the team member satisfaction top of mind and top priority.
+- Provide leadership, direction, and expertise to ensure standardized practices and documented processes that drive unparalleled team member experiences.  Includes onboarding, offboarding, relocations, and other team member events.
+- Oversee the coordination and execution of People program implementations.   
+- Utilizing a system design thinking approach (crafting processes from the outside-in), create and execute an infrastructure roadmap to focus on efficiency and experiences.  Create and manage streamlined processes and ensure alignment with key stakeholders inside and outside the People Team (Talent Acquisition Enablement, Payroll, Stock Administration, Finance)
+- Build and cultivate collaborative relationships across the organization.  
+- Drive a progressive, proactive, positive culture, and increase levels of engagement, enablement, and retention.
+- Owner of HR data accuracy and data privacy applying global rules where appropriate.  
+- Provide leadership and oversight of People Compliance function, ensuring compliant processes and alignment with local and international employee laws and regulations.  Oversee successful completion of compliance roadmaps and execution plans
+- Provide leadership and oversight of business expansion solutions, ensuring scalability, forward focused, ensuring solutions meet team member satisfaction requirements.  
+- Maintain in-depth knowledge of local, global, and federal employment laws; maintain and store records judiciously and securely.
+- Create and deliver infrastructure QBR to stakeholder groups as needed.  
+
+#### Requirements
+
+- 10+ years of progressive experience in HR roles with a demonstrable track record of building and optimizing processes, systems, and structures.
+- Expert knowledge of regulatory and legal requirements related to employment and People Compliance.
+- Working knowledge of business employment solutions and the options available such as utilizing a PEO or hiring contractors.  
+- 5-7 years of experience leading people and cross-functional organizations.
+- Demonstrable ability to own, execute and deliver on short- and long-term projects using roadmaps and aligning with key stakeholders.  
+- Strategic and innovative thinker; able to prioritize and use sound judgment and decision-making.
+- Executive presence with excellent written and oral communication skills.
+- Business insight and high EQ to successfully collaborate with executives and business partners at all levels.
+- Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 - You share our [values](/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 - Ability to use GitLab
@@ -281,14 +258,21 @@ The Director, Global People Operations is a [grade 10](/handbook/total-rewards/c
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 45 minute interview with our Senior Manager, People Operations
-* After that, candidates will be invited to schedule a 30 minute interview with members of the People Business Partner Team 
-* Next, candidates will be invited to schedule a 30 minute interview with members of the Legal team
-* After that, candidates will be invited to interview with the Senior Director, People Success
+* Next, candidates will be invited to schedule a 45 minute interview with our Director, Technology
+* After that, candidates will be invited to schedule a 30 minute interview with members of the Operations Team such as the Compliance Partner and/or Employment Solutions Partner
+* After that, candidates will be invited to interview with the VP, People Operations, Technology and Analytics
 * Finally, our CPO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+
+### Performance Indicators
+
+- [12 month team member retention](/handbook/people-group/people-success-performance-indicators/#team-member-retention-rolling-12-months)
+- [12 month voluntary team member turnover](/handbook/people-group/people-success-performance-indicators/#team-member-voluntary-retention-rolling-12-months)
+- [Onboarding Satisfaction Survey > 4.5](/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat)
+- Onboarding task completion < X (TBD)
 
 ## Career Ladder
 
-The next step in the People Operations job family is to move to the [People Leadership job family](/job-families/people-ops/people-leadership/).
+The next step in the People Operations job family is to move to the [People Operations Leadership Job Family](https://about.gitlab.com/job-families/people-ops/leadership-people-operations-tech-analytics/).
+

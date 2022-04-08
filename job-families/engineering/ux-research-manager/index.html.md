@@ -25,7 +25,7 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 - Maintain an accurate and current understanding of the active UX Research projects being worked on by the team.
 - Build and develop your research toolkit to extend across all levels of complexity.
 - Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between scrappy research and rigor.
-- Personally initiate and conduct research projects to build stronger foundational knowledge of our GitLab users. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
+- Personally initiate and conduct research projects to help build foundational knowledge of our GitLab users. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
 - Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
 - Regularly sync with Product Management Directors to understand strategy, discover blockers, manage quality, and help ensure UX Research prioritization.
 - Develop and utilize reusable research project prioritization approaches for UX Researchers to leverage within their own teams.  Work with UX Researchers and Product in applying these approaches to ensure UX Researchers have a clear set of prioritized research projects.
@@ -38,10 +38,10 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 
 #### Requirements
 
-* Expert-level knowledge in the field of UX Research with at least 5 years of experience in hands-on research.
-* A minimum of 3 years of experience managing UX Researchers or large research teams.
+* Deep knowledge in the field of UX Research with a proven understanding of quantitative and qualitative research methods.
+* Experience managing UX Researchers who focus on enterprise, developer, and/or business tools.
 * Outstanding communicator both verbally and in writing.
-* Strong collaboration skills.
+* Excellent collaboration skills.
 * A proven record of driving change through UX Research.
 * Passion for the field of UX Research.
 * Evangelize research. Share user insights within the broader organization and externally in creative ways to increase empathy.
@@ -50,6 +50,42 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 * [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 
 **NOTE:** In the compensation calculator below, fill in "Manager" in the `Level` field for this role.
+
+#### Interview Process
+
+- [Screening call](/handbook/hiring/#screening-call) with a recruiter. In this call we will discuss your experience, understand what you are looking for in a UX Research leadership role, talk about your work and approach to user research, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
+- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **~20-minutes in duration** and returned **within ten days** of the screening call. In addition to the details below, [this discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of what we're looking for.  
+
+> ### Why we ask for a pre-recorded presentation
+> 
+> 1. It helps create a shared understanding of your work between you and our interviewers ahead of the first interview. 
+> 1. It allows us to ask more informed questions about your experience and work during the interview process. 
+> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.  
+> 
+> ### Presentation Topics
+> 
+> 1. An introduction: who you are, where you're based, your background, and why you're a UX Researcher.
+> 1. An overview of two case studies. One should be an overview of a high-impact individual project. The second should be something management related. This could be a story on how you overcame some kind of challenge, a process you introduced that had a lot of impact, or how you coached an employee to success. We want to understand: the size, discipline make-up, and structure of the team you were a part of; the goals of the project; what you personally did on the project, the challenges you faced throughout the project; and the meaningful business impact that the research resulted in. We also want to understand how you approached research;  how you synthesized research data to inform product and design decisions; and the final output of your research in the research-focused case study.  
+>
+> ### What we're looking for 
+> 
+> - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call being completed. 
+> - Ideally, a study you present should be relevant to the work you'd expect do at GitLab. This could be because the study involved research into the [persona(s)](/handbook/marketing/strategic-marketing/roles-personas/#user-personas) you'd study at GitLab, the study related to the DevOps or Developer tooling industry, is a study that went across multiple methods, or was a study that would be considered complex in nature. 
+> - You share the recording using either a [private Youtube link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), a [Google Drive link](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en), or a [Loom link](https://www.loom.com/). 
+>   
+> 
+> ## Some useful resources
+> 
+> - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](https://about.gitlab.com/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation. 
+> - Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](https://about.gitlab.com/handbook/engineering/ux/ux-research/), and our [UX Department's handbook](/handbook/engineering/ux/).
+> - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
+> - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call. 
+- The following steps would be scheduled after a successful review of your case studies. 
+- Interview with a UX Researcher. In this interview, the interviewer will spend a lot of time trying to understand the experiences and challenges you've had as a manager, specific details of any initiatives you've led, the problems you were trying to solve, and the outcomes of these initiatives. Do be prepared to talk about your work and research experience, too.
+- Interview with a Product Design Manager. The interviewer will also want to understand how you work with cross-functional partners, how you've handled conflict, and how you've dealt with difficult situations in the past.
+- Interview with a UX Research Director. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, your ways of ensuring the team is well-positioned to produce research studies that have a strong impact on product strategy, what types of teams you have led, and your management style.  This interviewer will also want to know how you think about the place of user research within an organization, understand how you define strategy and vision, and understand the size and scope of teams you've managed throughout your career.
+- Interview with Product Management Group Manager. In this interview, the interviewer will want to understand how your career experiences will set you up for success at GitLab. They will also look to understand how you work with cross-functional partners, the domains you've worked in previously, and the types of teams you've led.
+- Interview with VP of UX. In this interview, the interviewer will want to understand the experience you have as a manager, your experience working remotely, and how these two elements of your career intersect. They will also look to understand your technical skills and the types of products you've worked on previously. 
 
 ### Senior Manager, UX Research
 
@@ -74,8 +110,8 @@ The Senior Manager, UX Research is a [grade 9](/handbook/total-rewards/compensat
 
 #### Requirements
 
-* Expert-level knowledge in the field of UX Research with at least 8 years of experience in hands-on research.
-* A minimum of 2 years of experience managing UX Research Managers.
+* Expert-level knowledge in the field of UX Research with expert-level understanding of quantitative and qualitative research methods.
+* Experience managing UX Research Managers who focus on enterprise, developer, and/or business tools.
 * Outstanding communicator both verbally and in writing.
 * Strong collaboration skills.
 * A proven record of leading a team that drives change through UX Research.
@@ -125,8 +161,9 @@ The Director, UX Research is a [grade 10](/handbook/total-rewards/compensation/c
 
 #### Requirements
 
-* Expert-level knowledge in the field of UX Research with at least 10 years of experience in hands-on research.
-* A minimum of 4 years of experience managing UX Research Managers.
+* Expert-level knowledge in the field of UX Research and experience setting UX Research vision for a product company.
+* Experience managing UX Research Managers.
+* A clear philosophy about how to create an environment that empowers remote UX Research teams and encourages them to deliver high-impact work.
 * Outstanding communicator both verbally and in writing.
 * Strong collaboration skills.
 * A proven record of leading a team that drives change through UX Research.

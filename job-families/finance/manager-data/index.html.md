@@ -43,7 +43,7 @@ The Manager, Data is a [grade 8](/handbook/total-rewards/compensation/compensati
 * Demonstrably deep understanding of SQL and relational databases (we use Snowflake)
 * Experience working with large quantities of raw, disorganized data
 * Must be able to work in alignment with Americas timezones
-* Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks)
+* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 
 ### Senior Manager, Data
 
@@ -87,7 +87,7 @@ The next step in the Data Management job family is to move to the [Director of D
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 * Next, candidates will be invited to schedule a first interview with our Director of Data & Analytics
@@ -95,4 +95,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule one or more interviews with Business Partners
 * Finally, candidates may be asked to interview with our VP, IT or similar
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

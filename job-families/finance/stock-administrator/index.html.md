@@ -4,17 +4,17 @@ title: "Stock Administration"
 description: "Responsible for administering GitLab’s equity incentive program which includes option and RSU grants to team members."
 ---
 
+## Levels
+
 ## Senior Stock Administrator
 
-### Job Grade
+The Senior Stock Adminstrator reports to the Director, Stock Administrator.
+
+### Senior Stock Administrator Job Grade
 
 The Senior Stock Administrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Role Overview
-
-Responsible for administering GitLab’s equity incentive program which includes option and RSU grants to team members. Process transactions with Carta (or similar system) for employee grants, exercises, repurchases, cancellations and handles other duties related to employees and contractors stock options and other equity grants. Will be diligent in answering employee questions and resolves problems regarding equity plans and grants. Responsible for documenting and improving the company’s policies and processes in the GitLab Handbook. Maintains employee equity database, updating information and running required and requested summary and detail reports. Prepares and distributes grant documentation and agreements for new-hire and ongoing grants electronically. Works on special initiatives related to equity granting and reporting including tax, compensation and accounting projects.
-
-### Responsibilities
+#### Senior Stock Administrator Responsibilities
 
 * Support day-to-day administration of the company’s equity programs, including processing new equity awards, exercises, cancellations and repurchases.
 * Maintain data in Carta online database to ensure accuracy of participant information.
@@ -27,7 +27,7 @@ Responsible for administering GitLab’s equity incentive program which includes
 * Responsible for the tracking and reporting of 83-B information and reporting requirements.
 * Owns responsibility for ensuring compliance with US and international tax laws regarding equity incentive.
 
-### Requirements
+#### Senior Stock Administrator Requirements
 
 * Considered a specialist in the field within the function.
 * Demonstrates an ability to coordinate multiple projects simultaneously.
@@ -46,6 +46,91 @@ Responsible for administering GitLab’s equity incentive program which includes
 * Experience with Online systems.
 * Ability to use GitLab
 
+### Director, Stock Adminstrator
+
+The Director, Stock Adminstrator reports to the VP, Cash Management.
+
+#### Director, Stock Adminstrator Job Grade
+
+The Director, Stock Adminstrator is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Director, Stock Adminstrator Responsibilites
+
+* Lead the stock administration function and manage GitLab’s global equity programs, including process improvement, implementing automated solutions, and evaluating service providers with a focus on scale and team member experience..
+* Oversee the management and administration of GitLab’s stock plans globally (stock options, RSUs and ESPP), including eligibility, enrollment, approvals, processing equity awards, handling vestings, exercises and settlements, tax withholdings, lock up restrictions, expirations, cancellations, repurchases, terminations and other plan-related actions
+* Partner with other functional leads (including in Legal, People Team (HR), Payroll, Accounting and Finance) to develop processes which ensure the accuracy of all equity data, including all aspects of record-keeping, withholding, reporting, reconciliation and auditing as well as ensure that appropriate internal controls are in place and procedures are followed to satisfy periodic review of compliance with SOX
+* Ensure database integrity, and accuracy of record keeping of employee data and equity data in the stock administration system
+* Provide the information for filing of section 16 filings (e.g., Form 4s) for section 16 officers and directors
+* Oversee and manage relationships with external equity trading platform (E*TRADE) and transfer agent (Computershare)
+* Collaborate and partner with internal teams on all equity-related matters to ensure accurate dataflow, provide support for reporting needs, and respond to ad hoc requests
+* Work with our E*TRADE platform as instructed from the Legal team on the list of employees affected by trading blackout periods, pre-clearance, and enforce insider trading policy restrictions, including coordination with brokers on Rule 10b5-1 trading plans, 
+* Prepare equity-related materials for the Board and Compensation Committee meetings, working with our Team Resources
+* Maintain compliance with the terms and condition of global equity plans and internal processes and procedures related to equity administration
+* Support employee understanding of equity awards programs and policies through the preparation of training materials, employee communications, and providing training to employees
+* Provide a superior level of service, prioritizing and satisfying multiple questions and requests from employees, management, and others, supporting employee understanding of stock plan services, enrollment, and transactions
+* Provide stock-related input to quarter end and annual reporting: Forms 3, 4 and 5 filings; data for 10-Q, 10-K, Proxy Statements and D&O questionnaires;
+* Reconcile monthly equity activity, including shares outstanding and share reserves among company records, the transfer agent and broker records
+* Maintain share pool balances
+* Participate in the preparation of the annual proxy filing, including providing and reviewing equity data included in the document
+* Review 10Q and 10K Equity Note
+* Effectively build and lead team in an all-remote environment in alignment with GitLab’s CREDIT values
+
+#### Director, Stock Adminstrator Requirements
+
+* Relevant stock administration experience or equivalent experience in a multi-national, publicly traded company
+* Experience managing processes and systems to maximize effectiveness in a SOX compliant environment
+* Advanced analytical ability and ability to identify issues and provide solutions
+* Works well in a high-pressure, high-volume environment and able to juggle multiple assignments, concurrent deadlines, and changing priorities
+* Knowledge of U.S. federal and state taxation and global taxation of equity compensation
+* Strong verbal, written, and interpersonal communication skills; able to communicate effectively with all levels of employees and internal/external partners
+* Exceptional organization skills, attention to detail, and work ethic.
+* Ability to build strong relationships cross-functionality and inspire action
+* Proficient in Google Docs
+* Certified Equity Professional (CEP) designation
+
+### Senior Director, Stock Adminstrator
+
+The Senior Director, Stock Adminstrator reports to the VP, Cash Management.
+
+#### Senior Director, Stock Adminstrator Job Grade
+
+The Senior Director, Stock Adminstrator is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Director, Stock Adminstrator Responsibilites
+
+* Extends responsibilities of Director, Stock Administrator
+* Lead the stock administration function and manage GitLab’s global equity programs, including process improvement, implementing automated solutions, and evaluating service providers with a focus on scale and team member experience.
+* Oversee the management and administration of GitLab’s stock plans globally (stock options, RSUs and ESPP), including eligibility, enrollment, approvals, processing equity awards, handling vestings, exercises and settlements, tax withholdings, lock up restrictions, expirations, cancellations, repurchases, terminations and other plan-related actions
+* Partner with other functional leads (including in Legal, People Team (HR), Payroll, Accounting and Finance) to develop processes which ensure the accuracy of all equity data, including all aspects of record-keeping, withholding, reporting, reconciliation and auditing as well as ensure that appropriate internal controls are in place and procedures are followed to satisfy periodic review of compliance with SOX
+* Ensure database integrity, and accuracy of record keeping of employee data and equity data in the stock administration system
+* Provide the information for filing of section 16 filings (e.g., Form 4s) for section 16 officers and directors
+* Oversee and manage relationships with external equity trading platform (E*TRADE) and transfer agent (Computershare)
+* Collaborate and partner with internal teams on all equity-related matters to ensure accurate dataflow, provide support for reporting needs, and respond to ad hoc requests
+* Work with our E*TRADE platform as instructed from the Legal team on the list of employees affected by trading blackout periods, pre-clearance, and enforce insider trading policy restrictions, including coordination with brokers on Rule 10b5-1 trading plans, 
+* Prepare equity-related materials for the Board and Compensation Committee meetings, working with our Team Resources
+* Maintain compliance with the terms and condition of global equity plans and internal processes and procedures related to equity administration
+* Support employee understanding of equity awards programs and policies through the preparation of training materials, employee communications, and providing training to employees
+* Provide a superior level of service, prioritizing and satisfying multiple questions and requests from employees, management, and others, supporting employee understanding of stock plan services, enrollment, and transactions
+* Provide stock-related input to quarter end and annual reporting: Forms 3, 4 and 5 filings; data for 10-Q, 10-K, Proxy Statements and D&O questionnaires;
+* Reconcile monthly equity activity, including shares outstanding and share reserves among company records, the transfer agent and broker records
+* Maintain share pool balances
+* Participate in the preparation of the annual proxy filing, including providing and reviewing equity data included in the document
+* Review 10Q and 10K Equity Note
+* Effectively build and lead team in an all-remote environment in alignment with GitLab’s CREDIT values
+
+#### Senior Director, Stock Adminstrator Requirements
+
+* Relevant stock administration experience or equivalent experience in a multi-national, publicly traded company
+* Experience managing processes and systems to maximize effectiveness in a SOX compliant environment
+* Advanced analytical ability and ability to identify issues and provide solutions
+* Works well in a high-pressure, high-volume environment and able to juggle multiple assignments, concurrent deadlines, and changing priorities
+* Knowledge of U.S. federal and state taxation and global taxation of equity compensation
+* Strong verbal, written, and interpersonal communication skills; able to communicate effectively with all levels of employees and internal/external partners
+* Exceptional organization skills, attention to detail, and work ethic.
+* Ability to build strong relationships cross-functionality and inspire action
+* Proficient in Google Docs
+* Certified Equity Professional (CEP) designation
+
 ## Career Ladder
 
 The next step in the Stock Administration job family is to move to a higher level technical or management job family which is not yet defined at GitLab.
@@ -60,11 +145,7 @@ The next step in the Stock Administration job family is to move to a higher leve
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 - Selected candidates will be invited to schedule a 30 minute screening call with our Global Recruiters
-- Next, candidates will be invited to schedule a 45 minute interview with our Principal Accounting Officer
-- Next, candidates will be invited to schedule a 45 minute interview with our Chief Financial Officer
-- Candidates will then be invited to schedule a 30 minute interview with our Compensation & Benefits Manager
-- Candidates will then be invited to schedule a 30 minute interview with our People Business Partner
-- Finally, candidates may be asked to interview with the CEO
-- Successful candidates will subsequently be made an offer via email
+- Next, qualified candidates will meet with the hiring manager
+- Next, qualified candidates will meet with 2 - 4 team members
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

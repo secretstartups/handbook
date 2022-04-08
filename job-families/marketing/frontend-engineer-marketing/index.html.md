@@ -1,10 +1,10 @@
 ---
 layout: job_family_page
-title: Frontend Engineer - Marketing
-description: "Frontend Engineers on the Marketing team work on our marketing site. They work closely with product marketing, content marketing, and other members of the Marketing team."
+title: Frontend Engineering - Marketing
+description: "Frontend Engineering on the Marketing team work on our marketing site. They work closely with product marketing, content marketing, and other members of the Marketing team."
 ---
  
-Frontend Engineers on the Marketing team work on our marketing site: about.GitLab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/inbound-marketing/digital-experience/), and report to the [Senior Manager, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#senior-manager-digital-experience).
+Frontend Engineers on the Marketing team work on our marketing site: about.GitLab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/inbound-marketing/digital-experience/), and report to the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
  
 ## Responsibilities
 * Work with the Inbound Marketing team and other stakeholders (Content, DemandGen, Brand, etc.) to iterate on new features and improvements to GitLab's digital marketing platform.
@@ -35,7 +35,7 @@ Frontend Engineers on the Marketing team work on our marketing site: about.GitLa
  
 ### Frontend Engineer (Intermediate)  
 
-The Frontend Engineer (Intermediate) reports the the [Senior Manager, Digital Experience](/job-families/marketing/marketing-web-developer-designer/).
+The Frontend Engineer (Intermediate) reports the the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
  
 #### Frontend Engineer (Intermediate) Job Grade
 The Frontend Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -50,7 +50,7 @@ The Frontend Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/comp
  
 ### Senior Frontend Engineer  
 
-The Senior Frontend Engineer (Intermediate) reports the the [Senior Manager, Digital Experience](/job-families/marketing/marketing-web-developer-designer/).
+The Senior Frontend Engineer reports the the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
  
 #### Senior Frontend Engineer Job Grade
 The Senior Frontend Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
@@ -66,25 +66,61 @@ The Senior Frontend Engineer is a [grade 7](/handbook/total-rewards/compensation
 * 6+ years experience specializing in frontend development for websites and web applications.
 * Critical decision making, and knowing what will have the biggest business impact when prioritizing.
 * Experience with performance and optimization problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems.
+
+
+### Manager, Engineering
+
+The Manager, Engineering reports the the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
+ 
+#### Manager, Engineering Job Grade
+The Manager, Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
+ 
+#### Manager, Engineering Responsibilities
+* Seek to build out a great team
+* Make your team happy and successful
+* Improve processes to make your team more effective
+* Hold regular 1:1's with all members of your team
+* Plan and execute long term strategies that benefit the team and the Marketing Site
+* Conduct code reviews, and make technical contributions to Marketing Site architecture
+* Get involved in solving bugs and delivering small features
+* Foster technical decision making on the team, and make final decisions when necessary
+* Discern engineering metrics and seek to improve them
+ 
+#### Manager, Engineering Requirements
+* Collaborate effectively with others
+* Ability to achieve consensus amongst stakeholders
+* 5 years or more experience related to the responsibilities listed above.
+* 2 years or more experience in a leadership role with current technical experience
+* You have an expert comprehension of core web and browser concepts (eg. how does JavaScript handle asynchronous code)
+* You have in-depth experience with CSS, HTML, JavaScript, and Modern Web Development
+* You have excellent written and verbal communication skills
+* Our [values](/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you
+* Ability to use GitLab
+
+## Nice-to-haves
+
+* You have experience contributing to open source software
+* You have experience working with modern frameworks (eg. Vue.js, Nuxt.js, etc.cd S)
+* You have working knowledge of Ruby on Rails
+* You have domain knowledge relevant to GitLab's Marketing site
  
 ## Performance Indicators
-* [Contributing to the success of Marketing's Quarterly Initiatives](/handbook/marketing/inbound-marketing/#q3-fy21-initiatives)
-* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/inbound-marketing/brand-and-digital-design/#sprint-planning)
-* [Successfully completing weekly Sprint tasks](/handbook/marketing/growth-marketing/brand-and-digital-design/#sprint-cycle)
-* [Collaborating on identifying issues to be completed within Epics](/handbook/marketing/inbound-marketing/#epics)
+* [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/inbound-marketing/digital-experience/#okrs)
+* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/inbound-marketing/digital-experience/#sprint-planning)
+* [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/inbound-marketing/digital-experience/#sprint-cycle)
  
 ## Career Ladder
  
 The next step in the Frontend Engineer job family is not yet defined at GitLab.
- 
+
 ## Hiring Process
  
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](/company/team/).
  
 * Select candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 30 minute interview with our Senior Manager, Digital Experience.
+* Next, candidates will be invited to schedule a 30 minute interview with our Director, Digital Experience.
 * Next, candidates will be invited to schedule a 30 minute technical interview with our Fullstack Engineer and a Frontend Engineer on the Marketing team. 
 * Next, candidates will be invited to schedule a 30 minute interview with the Senior Director, Growth Marketing.
-* Finally, candidates will be invited to schedule a 30 minute follow up interview with the Senior Manager, Digital Experience.
+* Finally, candidates will be invited to schedule a 30 minute follow up interview with the Director, Digital Experience.
  
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).

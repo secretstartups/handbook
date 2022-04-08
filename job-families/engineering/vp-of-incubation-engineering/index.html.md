@@ -22,7 +22,7 @@ While watching this video, keep in mind that this position and department was pr
 
 * Recruit excellent senior individual contributors to act as [Single-engineering Groups (SEGs)](/company/team/structure/#single-engineer-groups)
 * Effectively wield technical influence within a larger company and codebase
-* Provide [lightweight project management](/handbook/engineering/#engineering-demo-process) to the Single-Engineer Groups under their purview
+* Provide [lightweight project management](/handbook/engineering/demos/) to the Single-Engineer Groups under their purview
 * Provide transparent status to stakeholders
 * Stay abreast of long term technical trends in the market
 * Stay informed about other products' functionality and positioning

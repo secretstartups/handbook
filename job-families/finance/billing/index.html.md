@@ -21,8 +21,6 @@ The Billing Operations Associate is a [grade 5](/handbook/total-rewards/compensa
 * Review and evaluation of billing data for accuracy 
 * Manage the sync of quote/opportunity information between Salesforce and Zuora
 * Responsible for updating any billing errors as they occur prior to invoice submission
-* Support auto-renewal billing process, payment, and related data entry
-* Post credit card payments in customer accounts as needed
 * Escalation of disputes related to billing functions
 * Maintenance of billing team Zendesk ticketing system
 
@@ -94,8 +92,6 @@ The Senior Billing Operations Specialist is a [grade 7](/handbook/total-rewards/
 * Review and evaluation of billing data for accuracy 
 * Manage the sync of quote/opportunity information between Salesforce and Zuora
 * Responsible for updating any billing errors as they occur prior to invoice submission
-* Support auto-renewal billing process, payment, and related data entry
-* Post credit card payments in customer accounts as needed
 * Escalation of disputes related to billing functions
 * Maintenance of billing team Zendesk ticketing system
 

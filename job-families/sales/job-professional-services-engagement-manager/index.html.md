@@ -23,16 +23,16 @@ The Professional Services Engagement Manager (Intermediate) is a [grade 6](/hand
 * Manage project- and account-level escalations as needed
 * Anticipate needs and position training, support and other solutions that may be needed for a successful customer experience
 * Work closely with Project Managers to ensure that engagements conclude with fully satisfied clients that are willing to be references for new potential clients
-* Deep understanding of factors that drive customer success for Contact Center implementations and how they directly contribute to long term customer retention
+* Deep understanding of factors that drive customer success for GitLab implementations and how they directly contribute to long term customer retention
 * The ability to proactively identify and mitigate risks to customer success, be it through the addition of new products and services, strategy & planning, or escalation
 * Travel 20-40% (depends on geography and account distribution)
 
 #### Professional Services Engagement Manager (Intermediate) Requirements
 
-* 5+ years experience delivering consulting services, including team leadership and active involvement in selling professional services
-* 3+ years managing C-level client relationships, including escalation resolution
-* 3+ years of enterprise-level project management experience
-* 3+ years operating in a pre-sales environment, shaping and scoping large and complex implementation projects
+* Demonstrated progressive experience delivering consulting services, including team leadership and active involvement in selling professional services
+* Demonstrated progressive experience in managing C-level client relationships, including escalation resolution
+* Demonstrated progressive enterprise-level project management experience
+* Demonstrated progressive experience operating in a pre-sales environment, shaping and scoping large and complex implementation projects
 * Extremely strong written and verbal communication skills, executive level presence and experience in working in a client advisory role
 * Able to command a group audience, facilitate solutioning and lead discussions such as implementation methodology, road mapping, enterprise strategy and executive-level requirement gathering sessions
 * Highly developed soft skills, with the ability to adjust communication style based on the audience and difficult client situations.
@@ -43,6 +43,7 @@ The Professional Services Engagement Manager (Intermediate) is a [grade 6](/hand
 * * You share our values, and work in accordance with those values.
 * [Leadership at GitLab](/handbook/leadership/)
 * Ability to use GitLab
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ### Senior Professional Services Engagement Manager
 
@@ -62,11 +63,9 @@ The Professional Services Engagement Manager (Senior) is a [grade 7](/handbook/t
 #### Senior Professional Services Engagement Manager Requirements
 
 * Extends that of the Professional Services Engagement Manager (Intermediate) requirements
-* 7+ years experience delivering consulting services, including team leadership and active involvement in selling professional services
-* 5+ years managing C-level client relationships, including escalation resolution
-* 5+ years of enterprise-level project management experience
-* 7+ years operating in a pre-sales environment, shaping and scoping large and complex implementation projects
-* People management preferred, but not required
+* Analyzes market trends to identify new service offering go to market opportunities
+* Builds strategy and executes on continuous improvement plan focused on reducing the cost of revenue. 
+* Leads cross-departmental efforts to improve selling efficiency. 
 
 ## Performance Indicators
 
@@ -83,6 +82,6 @@ Candidates for this position can expect the hiring process to follow the order b
 
 1. Phone screen with a GitLab Recruiting Team Member
 2. Video Interview with the Hiring Manager
-3. Team Interviews with 1-4 Team Members
+3. Professional Services pre-sales scoping presentation interview session with 1-4 Team Members
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

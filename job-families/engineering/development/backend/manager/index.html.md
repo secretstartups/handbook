@@ -22,13 +22,13 @@ The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/comp
 * Foster technical decision making on the team, but make final decisions when necessary
 * Draft quarterly OKRs and [Engineering KPIs](/handbook/business-ops/data-team/metrics/#engineering-kpis)
 * Improve product quality, security, and performance
-* May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/#starting-new-teams) concept
+* May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/starting-new-teams/#team-construction) concept
+* Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
 * Ability to use GitLab
 * Exquisite brokering skills: regularly achieve consensus amongst departments
-* 5 years or more experience
-* 2 years or more experience in a leadership role with current technical experience
+* Demonstrated progressive experience in a leadership role with current technical experience
 * In-depth experience with Ruby on Rails, Go, and/or Git, in addition to any experience required by the position's [specialty](#specialties)
 * Excellent written and verbal communication skills
 * You share our [values](/handbook/values/), and work in accordance with those values
@@ -44,15 +44,16 @@ The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/comp
 * Passionate about open source and developer tools
 
 ## Levels
-* [Intermediate](https://about.gitlab.com/job-families/engineering/backend-engineer/#intermediate-backend-engineer)
-* [Senior](https://about.gitlab.com/job-families/engineering/backend-engineer/#senior-backend-engineer)
-* [Staff](https://about.gitlab.com/job-families/engineering/backend-engineer/#staff-backend-engineer)
-* Backend Engineering Manager
+* [Intermediate](/job-families/engineering/development/backend/intermediate)
+* [Senior](/job-families/engineering/development/backend/senior)
+* [Staff](/job-families/engineering/development/backend/staff)
+* [Backend Engineering Manager](/job-families/engineering/development/backend/manager)
 
 ## Performance Indicators
-Backend Engineering Managers have the following job-family performance indicators.
+Backend Engineering Managers have the following job-family performance indicators. Performance indicators for a Manager role usually apply to the team, meaning the manager and their direct reports.
 
-* [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
+* [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+* [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 * [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
 * [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
 * [Development Department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)

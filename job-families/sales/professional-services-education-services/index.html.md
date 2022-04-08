@@ -1,21 +1,53 @@
 ---
 layout: job_family_page
-title: "Professional Services Education Services"
+title: "Global Education Services"
 --- 
 
-## Levels
+### Senior Manager of Education Curriculum Development
 
-### Senior Manager, Professional Education Services
+The Senior Manager of Education Curriculum Development reports into the Senior Director, Global Education.
 
-The Senior Manager, Professional Education Services reports to the Senior Director, Professional Services.
+#### Senior Manager of Education Curriculum Development Job Grade 
 
-#### Senior Manager, Professional Education Services Job Grade
+The Senior Manager of Education Curriculum Development is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-The Senior Manager, Professional Education Service is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+#### Senior Manager of Education Curriculum Development Responsibilities
+* Manage a high performing direct team of instructional designers, multimedia developers, and lab managers for DevOps and product content and course development to ensure effective education delivery
+* Defines strategy and delivery of engaging GitLab and DevOps educational content for self-paced and instructor-led curriculum
+* Extends the Senior Technical Instructional Designer responsibilities
+* Proactively conducts and refreshes job task analysis and related documentation to ensure training develops the end user's skills and knowledge.
+* Proactively iterates and creates solutions and processes to optimize instructional design workflow
+* Defines, documents, and creates standards, templates, and processes to guide the work of instructional designers and curriculum development team members
+* Develops and tracks attainment of KPIs and proactively leads a team-based approach to delivering to KPIs
+* Regularly shares best practices and provides constructive coaching and feedback across the organization, both within and outside of the immediate team
+* Promotes collaboration, partnership, and relationships among the learning & development and enablement ecosystem within GitLab, including Product, Learning and Development, Sales Enablement, Customer Success, Channel, and Marketing teams.
+* Identifies and communicates opportunities for process and quality improvements, providing feedback on usage, risks, and suggested enhancements as an LXP SME
+* Apply adult learning theory and instructional design, eLearning, certifications, and creation of knowledge transfer curriculum and taxonomy
+* Collaborate with SMEs to design effective learning experiences, managing and supporting them through the course and certification development processes
+* Content management of GitLab product education curriculum and learning offerings on the LXP
+* Serves as an internal expert on instructional design methodologies, continuously monitoring the latest innovations in the field and the performance of new products while sharing learnings with cross-functional GitLab team members
+* Partner effectively with cross-functional curriculum developers, instructional designers, technical trainers, training managers, project managers, and internal stakeholders across the organization to ensure the content aligns with GitLab instructional design best practices organizationally wide.
 
-#### Senior Manager, Professional Education Services Responsibilities
 
-* Set strategic direction for Professional Education Services
+#### Senior Manager of Education Curriculum Development Requirements
+
+* Extends the Senior Technical Instructional Designer requirements
+* 7+ years experience in an instructional designer role, preferably with expertise in DevOps and/or Open Source
+* 2+ years of experience leading a team of education instruction designers and/or
+  * Strong project management, leadership, change management, and cross-functional collaboration skills with a track record of managing complex learning projects
+* Experience collaborating across multiple stakeholder groups to deliver global solutions
+
+### Senior Manager, Education Delivery
+
+The Senior Manager, Education Delivery reports to the Senior Director, Global Education.
+
+#### Senior Manager, Education Delivery Job Grade
+
+The Senior Manager, Education Delivery is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Manager, Education Delivery Responsibilities
+
+* Set strategic direction for Professional Services Education Delivery
 * Develop and execute inbound and outbound marketing strategy to align with business goals
 * Manage execution and delivery of education services 
 * Learning platform administration and reporting
@@ -36,8 +68,6 @@ The Senior Manager, Professional Education Service is a [grade 9](/handbook/tota
 * Provide confidential coaching/facilitation and work closely with all levels of operations staff to ensure the integrity of the program and provide highly skilled feedback on staff performance in scheduled training and informal skills-based coaching.
 * Ensure Training Specialists and Operations staff are provided with up-to-date knowledge of project related updates, processes, and procedures.
 * Develop a means of measuring the effectiveness of training programs developed or administered through evaluation, testing, and assessment of program outcomes.
-* Apply adult learning theory and instructional design, eLearning, certifications, and creation of knowledge transfer curriculum and taxonomy
-* Collaborate with SMEs to design effective learning experiences, managing and supporting them through the course and certification development processes
 * Align content distribution paths with GitLab Partner ecosystems and experience to increase efficiency and scale
 * Build a partner-centric approach for creating and updating content that answers the “what’s in it for the partner” question and resolves what’s missing from a partner perspective when delivering customer education
 * Manage training delivery and content development of partner and customer education programs
@@ -48,7 +78,7 @@ The Senior Manager, Professional Education Service is a [grade 9](/handbook/tota
 * Manage relationships with Partner Certified Trainers and community of practice
 Collaborate with Senior leadership to ensure financial and operational goals are met
 
-#### Senior Manager, Professional Education Services Requirements
+#### Senior Manager, Education Delivery Requirements
 
 * Bachelor’s degree in business, management, education or related field.
 * 5+ years building and managing for-profit education businesses, including product management, learning content delivery, training delivery, and certification programs.
@@ -61,8 +91,41 @@ Collaborate with Senior leadership to ensure financial and operational goals are
 * Proven ability to conduct training needs assessments with key stakeholders.
 * Proven ability to develop training curriculum and deliver effective and satisfying learning experiences.
 * Experience with performance management, coaching, and mentoring team members. 
-- You share our [values](/handbook/values/), and work in accordance with those values.
-- Ability to use GitLab
+* Ability to use GitLab
+
+### Senior Director, Education Services
+
+The Senior Director of Global Education for GitLab Academy will be responsible for leading and inspiring a fast-growing team that designs and delivers compelling and impactful learning solutions to GitLab’s fast growing community of DevOps practitioners that includes community users, customers and partners. The ideal candidate will execute on the vision of learning as an effective accelerant to solidify GitLab’s leadership in industry and academia while positioning the organization to meet/exceed business goals.
+
+The Senior Director, Education Services reports to the Senior Director, Global Professional Services.
+
+#### Senior Director, Education Services Job Grade
+
+The Senior Director, Education Services is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Director, Education Services Responsibilities
+
+* Lead the global content and knowledge management strategy for technical training and enablement for GitLab’s product and DevOps practices. 
+* Own the development and delivery of learning experiences for all GitLab products and DevOps  enablement, - creating an impactful suite of ongoing learning experiences using relevant research and a variety of mediums to drive learning goals.
+* Lead and energize a high-performing organization, set a clear vision, and establish a culture of continuous improvement to drive team and company successManage a team of Instructional designers and content producers to deliver timely, relevant, comprehensive and effective curricula for diverse audience profiles and segments.
+* Be responsible for delivering a world class learner experience, including learners' journey, programs and offerings, LMS/LXP systems, processes and policies, support interactions, and digital touchpoints.
+* Partner closely with Marketing to execute on the strategy and brand of ‘GitLab certification’ as synonymous with DevOps expertise.
+* Establish, monitor, and achieve key financial and non-financial performance metrics for the Learning function to ensure the program is delivering to brand, community, marketing, and sales goals.
+* Make GitLab Academy integral to the Marketing, Sales, Engineering, and Customer Success organizations to retain and expand the customer base. 
+* Manage cross-functional interlock and lead strategic and operational interlock with Marketing, Sales, Sales Operations, Engineering, and Customer Success (e.g., marketing and sales messaging, enablement, customer success metrics, etc.).
+* Partner and align effectively with the Channels team to expand the competency, capacity, and capability of the partner ecosystem. 
+* Innovate with blended learning solutions while aligning with GitLab’s overall knowledge and information strategy, including documentation, self-help, and community.
+* Lead the business-level implementation and support of a Learning Management System in coordination with the global, enterprise-wide effort. 
+
+#### Senior Director, Education Services Requirements
+
+* Strong business acumen and prior SaaS Services/Training leadership experience
+* Excellent collaborator and communicator within and across various levels of the organization
+* Proven leadership skills in motivating and inspiring a team 
+* Experience designing, managing blended learning and certification programs
+* Strong balance of strategic and execution skills - Think Big, Start Small, and Act Quickly
+* BA/BS degree required. Advanced degree a plus
+* Minimum of 10-15 years relevant experience
 
 ## Performance Indicators
 
@@ -75,11 +138,11 @@ The next steps for the Professional Services Education Family would be to move t
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 - Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview 
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

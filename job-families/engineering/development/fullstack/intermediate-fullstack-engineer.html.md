@@ -71,7 +71,7 @@ The [Growth sub-department](/handbook/engineering/development/growth/) analyzes 
 
 #### Growth Requirements
 
-* Due to the nature of our tech stack, the volume and complexity of work is weighted more strongly towards backend, rather than frontend. 
+* Due to the nature of our tech stack, the volume and complexity of work is weighted more strongly towards backend, rather than frontend.
 
 ### Protect
 
@@ -88,7 +88,8 @@ The [Protect sub-department](/handbook/engineering/development/protect/) contrib
 
 * [Backend Unit Test Coverage](/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
 * [Frontend Unit Test Coverage](/handbook/engineering/development/performance-indicators/#frontend-unit-test-coverage)
-* [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
+* [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+* [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).

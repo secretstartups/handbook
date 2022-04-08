@@ -27,7 +27,7 @@ The Inside Sales Representative is a [grade 6](/handbook/total-rewards/compensat
 #### Inside Sales Representative Requirements
 
 * A true desire to see customers benefit from the investment they make with you
-* 5+ years of experience with B2B software sales
+* Demonstrated progressive experience with B2B software sales
 * Experience selling into large organizations
 * Interest in GitLab, and open source software
 * Ability to leverage established relationships and proven sales techniques for success
@@ -73,11 +73,11 @@ The Manager, Inside Sales is a [grade 9](https://about.gitlab.com/handbook/total
 * Responsible for all renewals of all contracts and upgrades
 * Work with Federal Channel Manager on collaboration on call campaigns, Quotes on RFQ through distribution, Interacting with sales reps on specific/important accounts to ensure progress and appropriate messaging.
 
-#### Manager, Insides Sales Requirements
+#### Manager, Inside Sales Requirements
  
 * Extends that of the Senior Inside Sales Representative Requirements
 * A true desire to see customers benefit from the investment they make with you
-* 5+ years of experience with B2B software sales
+* Demonstrated progressive experience with B2B software sales
   
 ### Senior Manager, Inside Sales
 
@@ -100,8 +100,8 @@ The Senior Manager, Inside Sales, is a [grade 9](https://about.gitlab.com/handbo
 #### Senior Manager, Inside Sales Requirements
 
 * Extends that of the Manager, Insides Sales Requirements 
-* 5 to 7 years in a Management role
-* 7+ years of experience with B2B software sales
+* Demonstrated progressive experience in a Management role
+* Demonstrated progressive experience with B2B software sales
 * Interest in GitLab, and open source software
 * Excellent negotiation, presentation and closing skills
 * Motivated and committed to engage in disussions and GitLab Issues with cross functional teams to convey the needs of the Public Sector sales team.
@@ -119,14 +119,14 @@ The next steps for the Inside Sales Job Family is to move to the [Sales Manageme
  
 ## Hiring Process
  
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
  
 * Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 * Next, candidates will be invited to schedule a first interview with the Hiring Manager
 * Next, candidates will interview with 2 - 4 Team Members
 * Candidates may be invited to schedule a second interview with our CRO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
  
 ## Compensation
  

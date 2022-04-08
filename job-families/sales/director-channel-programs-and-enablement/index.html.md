@@ -38,6 +38,7 @@ The Director, Channel Programs & Enablement is a [grade 10](/handbook/total-rewa
 * You share our values, and work in accordance with those values.
 * [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 * Ability to use GitLab
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ## Senior Channel Program Manager
 
@@ -62,7 +63,7 @@ The Senior Channel Program Manager is a [grade 7](/handbook/total-rewards/compen
 * Working with your peers, marketing & Sales operations
 
 ### Requirements
-* Bachelor’s degree with 5+ years experience in channel programs.  
+* Bachelor’s degree with demonstrated progressive experience in channel programs.  
 * Experience building and managing a partner program in DevOps space
 * Excellent communication, analytical and organizational skills.
 * Execution & revenue focused
@@ -93,4 +94,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Phone screen with a GitLab Recruiting team member
 2. Video Interview with the Hiring Manager
 3. Team Interviews with 1-4 teammates
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -6,11 +6,9 @@ title: "Team Member Relations"
 ## Levels
 
 ### Team Member Relations Specialist
-
 The Team Member Relations Specialist reports to the Director, Team Member Relations.
 
 #### Team Member Relations Specialist Job Grade
-
 The Team Member Relations Partner is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Team Member Relations Specialist Responsibilities
@@ -35,12 +33,13 @@ The Team Member Relations Partner is a [grade 5](/handbook/total-rewards/compens
 * Ability to use GitLab tools.  
 * Aligns with GitLabs values.  
 
-#### Team Member Relations Partner
+### Career Ladder
+The next step in the job family is Team Member Relations Partner. 
 
-The Team Member Relations Partner reports to the Director, Team Member Relations
+#### Team Member Relations Partner
+The Team Member Relations Partner reports to the Director, Team Member Relations.
 
 #### Team Member Relations Partner Job Grade
-
 The Team Member Relations Partner is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Team Member Relations Partner Responsibilities
@@ -62,12 +61,13 @@ The Team Member Relations Partner is a [grade 6](/handbook/total-rewards/compens
 * Strong project management, change management, and experience driving programs independently.
 * Handles confidential information with care and utmost discretion.
 
-### Senior Team Member Relations Partner
+### Career Ladder
+The next step in the job family is Senior Team Member Relations Partner. 
 
-The Senior Team Member Relations Partner reports to Director, Team Member Relations
+### Senior Team Member Relations Partner
+The Senior Team Member Relations Partner reports to Director, Team Member Relations.
 
 #### Senior Team Member Relations Partner Job Grade
-
 The Senior Team Member Relations Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Team Member Relations Partner Responsibilities
@@ -88,12 +88,13 @@ The Senior Team Member Relations Partner is a [grade 7](/handbook/total-rewards/
 * Ability to execute tasks with attention to detail, reliability, and a relatively quick pace.
 * Ability to interface and partner with stakeholders to achieve and influence results.
 
-### Manager, Team Member Relations
+### Career Ladder
+The next step in the job family is Manager, Team Member Relations. 
 
+### Manager, Team Member Relations
 The Manager, Team Member Relations reports to the Director, Team Member Relations.
 
 #### Manager, Team Member Relations Job Grade
-
 The Manager, Team Member Relations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Team Member Relations Responsibilities
@@ -115,12 +116,13 @@ The Manager, Team Member Relations is a [grade 8](/handbook/total-rewards/compen
 * Strong analytical and data skills and experience using Google Sheets
 * Ability to prioritize and take ownership of projects and strategic goals.  
 
-### Director, Team Member Relations
+### Career Ladder
+The next step in the job family is Director, Team Member Relations. 
 
-The Director, Team Member Relations reports to the VP, People Operations, Technology and Analytics
+### Director, Team Member Relations
+The Director, Team Member Relations reports to the VP, People Operations, Technology and Analytics.
 
 #### Director, Team Member Relations Job Grade
-
 The Director, Team Member Relations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Team Member Relations Responsibilities
@@ -165,7 +167,6 @@ The Director, Team Member Relations is a [grade 10](/handbook/total-rewards/comp
    * Effective partnership with key stakeholders such as People Business Partners, Legal and People Success.  
 
 ## Career Ladder
-
 The next step in the job family is VP, People Operations, or Director, People Business Partner.  
 
 ## Hiring Process

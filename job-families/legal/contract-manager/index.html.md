@@ -69,6 +69,42 @@ The Senior Contract Manager is a [grade 7](/handbook/total-rewards/compensation/
 * Ability to manage internal customer priorities and needs
 * Ability to use GitLab
 
+
+## Manager, Contract Managers
+The Manager, Contract Manager reports to the Sr. Director, Contracts & Legal Operations and is responsible for managing the Contract Managers located globally. They are responsible for the continued growth of the team, as well as, providing leadership in the form of mentoring and creating enablement and training materials for all GitLab Team Members.  
+
+## Job Grade
+
+The Manager, Contract Managers is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+
+* Continue to grow and expand a cohesive contracting team and implement efficient processes in support of our customer sales organization
+* Act as an escalation stakeholder, and approver, for the Contract Managers
+* Oversee and engage on top priority and complex Agreements tied to large value transactions
+* Become a trusted advisor to the Sales Team Members and Leadership
+* Assist with skill and career development for Contract Managers
+* Add information and feedback to Contract Manager Playbooks and other supporting documentation, as well as, empower Contract Managers to do the same
+* Work closely with members of the Legal team to develop and improve applicable standardized forms, processes, and procedures
+* Understand GitLab and GitLab products in order to identify risks, develop solutions, mitigation and negotiation strategies
+* Draft and negotiate a wide range of contracts including services, consulting, marketing, licensing, non-disclosure, data privacy, and other commercial and technology related agreements
+* Create and present training materials for both Contract Managers, and Sales Team Members
+
+
+
+### Requirements
+
+* Minimum of 10+ years of contracts drafting, reviewing and negotiation experience preferrably at a software technology company
+* BA/BS required. JD, paralegal certificate, or equivalent work experience preferred
+* Experience managing team members and fostering positive environment
+* Ability to create and lead enablement presentations
+* Expertise in drafting and negotiating a wide variety of commercial, licensing and other technology-related agreements, including those for large dollar amounts or complex matters
+* Proactive, dynamic and result driven individual with strong attention to detail
+* Outstanding interpersonal skills, the ability to interface effectively with all business functions throughout the organization
+* Superior analytical ability, project management experience, and communication skills
+* Ability to manage internal customer priorities and needs
+* Ability to use GitLab
+
 ## Specialties
 Read more about what a [specialty](/handbook/hiring/#definitions) is at GitLab here.
 
@@ -101,4 +137,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Successful candidates will subsequently be made an offer via email.
 * Successful completion of a background check is required.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

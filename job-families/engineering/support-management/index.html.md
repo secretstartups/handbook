@@ -5,7 +5,7 @@ description: "Support Engineering Management at GitLab isn’t your typical mana
 canonical_path: "/job-families/engineering/support-management/"
 ---
 
-**A brief overview:**
+## A brief overview
 
 GitLab is building an open source, single application for the entire software development lifecycle—from project planning and source code management to CI/CD, monitoring, and security.
 
@@ -21,13 +21,22 @@ At GitLab, we hold that [managers should be technically competent and experience
 
 We want to live in a world where [everyone can contribute](https://about.gitlab.com/handbook/values/#mission), and as a member of the support team there are no barriers to using your skills to improve the experience of our users, our customers and importantly the folks you’d be supporting as a manager.
 
-## Manager, Support Engineering
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
 
-### Job Grade 
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Support Management Roles
+### Manager, Support Engineering
+
+#### Job Grade 
+{:.no_toc}
 
 The Manager, Support Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### What you can expect in a Manager, Support Engineering role at GitLab:
+#### What you can expect in a Manager, Support Engineering role at GitLab:
+{:.no_toc}
 
 As a Manager, Support Engineering, you will be:
 
@@ -47,7 +56,8 @@ As a Manager, Support Engineering, you will be:
 For more details, see our [Support Manager Responsibilities page](https://about.gitlab.com/handbook/support/managers/manager-responsibilities.html).
 
 
-### Projects you might work on:
+#### Projects you might work on:
+{:.no_toc}
 
 Support Managers also work on things that will make your (and the lives of your coworkers) easier. Current and past Support team members have:
 
@@ -58,7 +68,8 @@ Support Managers also work on things that will make your (and the lives of your 
 * Written a [Chrome Extension to route downloads from Zendesk tickets into organized folders](https://gitlab.com/gitlab-com/support/toolbox/zd-dl-router)
 * … and more!
 
-### You should apply if:
+#### You should apply if... 
+{:.no_toc}
 
 * You have an affinity for (and experience with) providing customer support, and making customers happy.
 * You have more than 2 years experience leading Support Engineering teams.
@@ -76,16 +87,21 @@ Support Managers also work on things that will make your (and the lives of your 
 * You’ve got experience leading remote, distributed teams across geographies with a keen focus on employee development and the achievement of desired results.
 * You’ve got extensive experience in leading teams to take ownership and work to manage the entire issue lifecycle, from customer, to development team, to resolution.
 * You’re able to perform complex Linux System Administration tasks.
-* You’ve got experience with web application development using an MVC framework (e.g. Ruby on Rails, Python, Django, PHP, Laravel).
+* You’ve got experience with web application development using an MVC framework e.g. Rails (Ruby), Django (Python), Laravel (PHP).
 * You’ve got experience with Git and CI/CD.
 * Our [values](https://about.gitlab.com/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you.
 
-## Senior Manager, Support Engineering
+### Senior Manager, Support Engineering
+
 Senior Support Managers manage multiple teams and Staff-level individual contributors (ICs) within the Customer Support Department. As a Senior Manager, Support Engineering you will ensure that the managers and/or ICs who report to you, and the engineers they work with have everything they need to deliver world-class support to GitLab customers.
 
-### Job Grade 
+#### Job Grade 
+{:.no_toc}
 
 The Senior Manager, Support Engineering is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### What you can expect in a Senior Support Engineering Manager role at GitLab
+{:.no_toc}
 
 A Senior Manager, Support Engineering will:
 - Hire a world class team of Support Managers by actively seeking and hiring globally distributed talent who are focused on delivering world class customer support
@@ -105,6 +121,8 @@ A Senior Manager, Support Engineering will:
 See also our [Support Manager Responsibilities page](https://about.gitlab.com/handbook/support/managers/manager-responsibilities.html).
 
 #### Requirements
+{:.no_toc}
+
 - Technical credibility: Past experience as a Support Engineer or leading teams thereof
 - Management credibility: Past experience (3 to 5 years) in Support Management
 - Ability to understand, communicate and improve the quality of multiple teams
@@ -113,6 +131,7 @@ See also our [Support Manager Responsibilities page](https://about.gitlab.com/ha
 - Humble, servant leader
 
 #### Nice-to-have Requirements
+{:.no_toc}
 - Be a user of GitLab, or familiar with our company
 - Prior product company experience
 - Prior high-growth startup experience
@@ -121,7 +140,7 @@ See also our [Support Manager Responsibilities page](https://about.gitlab.com/ha
 - Experience working with global teams
 - Values diversity, inclusion and belonging in their leadership style
 
-## Director of Support
+### Director of Support
 
 The Director of Support role extends the Support Engineering Manager Role
 
@@ -136,7 +155,7 @@ The Director of Support role extends the Support Engineering Manager Role
 - Exquisite communication: Regularly achieve consensus amongst departments
 - Represent the company publicly at conferences
 
-## VP of Support
+### VP of Support
 
 The VP of Support role extends the Director of Support Role.
 
@@ -154,7 +173,7 @@ The VP of Support role extends the Director of Support Role.
 - Work cross-functionally with other customer-facing departments to guarantee a great customer experience
 - Represent the company publicly at conferences
 
-## Performance Indicators
+## Support Management Performance Indicators
 
 Support Management have the following job-family performance indicators.
 
@@ -164,7 +183,7 @@ Support Management have the following job-family performance indicators.
 * [Maintain hiring plan and capacity to achieve IC:Manager ratio](/handbook/support/#individual-contributor-to-manager-ratio)
 * [Develop a team of experts](/handbook/support/#increase-capacity--develop-experts)
 
-## Span of Control
+## Span of Control in Support Management Positions
 Support Management roles have the following spans of control:
 - Support Managers: ~10 Intermediate and Senior Support Engineers
 - Senior Support Managers: ~3 Support Managers, 0-2 Staff Support Engineers, ~30 Support Engineers (indirectly)
@@ -180,17 +199,35 @@ The US Federal Support Portal is unique in that it is the first restricted suppo
 If you look forward to the challenges and opportunities and meet the requirements please apply today!
 
 ##### Additional Responsibilities Unique to US Federal Include:
+{:.no_toc}
+
 - Work closely with Public Sector TAM and SALs in order to adapt to the needs of the unique user base
 - Be responsible for maintaining customer confidentiality and data security when working with cases
 
 
 #### Requirements
+{:.no_toc}
 
 In addition to the above requirements for Global Support Managers, you will need:
 
 - Valid proof of US Citizenship
 
-### [What it’s like to work here](https://about.gitlab.com/jobs/faq/#whats-it-like-to-work-at-gitlab) at GitLab:
+### Director of Support Readiness
+
+Director, Support Readiness is a global role responsible for leading a Support Readiness function within the GitLab Customer Support organization.  This role will lead a team of Support Operations managers and individual contributors working closely with Product, Engineering, & Sales teams to ensure that the Customer Support organization is ready to support product releases. This role will manage all aspects of planning and enablement in ensuring that the appropriate Support delivery team is ready to support all existing and new releases across the entire GitLab solution.
+
+This includes overall supportability of the product and Support’s readiness of new releases, which entails development of training plans, assist in building tools as needed as well as preparing and delivering regular Key Reviews.  Working with teams globally, this role will be responsible for enabling the global Support team towards continuous improvement in key Support metrics – Service Levels, SSAT, TTR, staffing model input, etc. 
+
+This role also closely interacts with counterparts in Product, Development, QA, UX, Customer Success and Sales, to clearly understand the upcoming release features and enabling the global delivery teams to ensure customer support has the appropriate knowledge and troubleshooting procedures to minimize time to resolution.
+
+###### Additional Responsibilities for Director of Support Readiness
+{:.no_toc}
+
+- Manage multiple teams and projects affecting consistent global execution
+- Own the support readiness and operations across all products
+
+
+## [What it’s like to work here](https://about.gitlab.com/jobs/faq/#whats-it-like-to-work-at-gitlab) at GitLab
 
 The [culture](https://about.gitlab.com/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLabbers are currently located in over 51 different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe. Some of the [benefits](/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLabbers are fully remote and receive a "no ask, must tell" paid-time-off policy, where we don’t count the number of days you take off annually. You can work incredibly flexible hours, enabled by our [asynchronous approach](https://about.gitlab.com/handbook/communication/) to communication. We’ll also help you set up your [home office environment](https://about.gitlab.com/handbook/spending-company-money/), pay for your membership to a co-working space, and contribute to the [travel costs](https://about.gitlab.com/handbook/incentives/#visiting-grant) associated with meeting other GitLab employees across the world.
 
@@ -198,7 +235,7 @@ Also, every year or so, we’ll invite you to our [Contribute event](https://abo
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 ### All Candidates
 

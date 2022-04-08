@@ -52,7 +52,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule a deep dive interview with a member of the Data Team
 - Next, candidates will be invited to schedule an interview with the Sr. Director of Pricing
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Senior Pricing Analyst
 The Senior Pricing Analyst role reports to the [Sr. Director of Pricing](/job-families/product/pricing/#sr-director-of-pricing).

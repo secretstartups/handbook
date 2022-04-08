@@ -44,7 +44,7 @@ The Recruiter is a [grade 6](/handbook/total-rewards/compensation/compensation-c
 * Outstanding written and verbal communication skills across all levels
 * Willingness to learn and use software tools including Git and GitLab
 * College / University degree in Marketing, Human Resources or related field from an accredited institution preferred
-* Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * Ability to use GitLab
 
 ### Levels
@@ -202,6 +202,36 @@ The Senior Manager, Recruiting is a [grade 9](/handbook/total-rewards/compensati
 * Successful track record of partnering with senior leaders to create and deliver hiring strategies with a high level of attainment to plan
 * Proven ability to effectively influence and communicate cross-functionally to drive results
 
+####  Director
+
+##### Job Grade
+
+The Director, Recruiting is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+##### Responsibilities
+
+* Lead a recruiting team that could include Sr. Managers, Managers, Leads, or Recruiters.
+* Own the recruiting processes across the organization with input from stakeholders to ensure consistency and optimization across all departments.
+* Anticipate recruitment team needs to support the business
+* Mentor, guide, and grow the careers of all team members
+* Assess and predict workloads for the team and effectively load balance to ensure recruiters are able to work efficiently, strategically and bring speed to the business
+* Help to create and implement hiring strategies to achieve an annual hiring plan that emphasizes quality and diversity of hires, process efficiency, strong client management and encourages the sharing of best practices
+* Provide strategic input on the direction of the recruiting team to the Senior Director
+* Collaborate closely with partners such as People Business Partners and Finance to ensure alignment and communication
+
+##### Requirements
+
+* Consistent track record with sourcing, recruiting, and closing extraordinary talent (especially passive)
+* Demonstrated success leading recruiting for a function at large scale in a fast-paced environment
+* Experience executing on hiring plans and recruiting strategy
+* Proven organizational skills with high attention to detail and the ability to prioritize
+* Confidence to learn new technologies (MAC, Google Workspace, GitLab) and translate that learning to others
+* Experience building and defining recruiting pipeline metrics and data
+* Experience and proficiency with Applicant Tracking Systems and other recruiting software (ideally including Greenhouse and LinkedIn Recruiter)
+* Solid analytical skills and ability to work with metrics, numbers, and trends
+* Successful track record of partnering with senior leaders to create and deliver hiring strategies with a high level of attainment to plan
+* Proven ability to effectively influence and communicate cross-functionally to drive results
+
 ## Performance Indicators
 
 * [Hire vs Plan](https://about.gitlab.com/handbook/hiring/metrics/#hires-vs-plan)
@@ -240,7 +270,7 @@ Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is a
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with our Recruiting Manager
 - Then, candidates will be invited to schedule a 30 minute interview with one of our Recruiters
@@ -250,7 +280,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our CEO may choose to conduct a final interview
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](/handbook/hiring).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## Career Ladder
 

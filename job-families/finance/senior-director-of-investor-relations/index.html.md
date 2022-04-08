@@ -1,16 +1,16 @@
 ---
 layout: job_family_page
-title: "Senior Director of Investor Relations"
-description: "The Senior Director of Investor Relations drives the strategy and long-term market positioning of GitLab in the public financial markets."
+title: "Vice President of Investor Relations"
+description: "The Vice President of Investor Relations drives the strategy and long-term market positioning of GitLab in the public financial markets."
 ---
 
-## Senior Director, Investor Relations
+## Vice President, Investor Relations
 
-The Senior Director of Investor Relations drives the strategy and long-term market positioning of GitLab in the public financial markets. The IR leader plays a key role in preparing GitLab to become a multi-billion dollar public company. This position reports to the CFO and works closely with senior leadership across the company including interaction with the executive team. This position will be responsible for developing and executing an effective investor communications strategy, performing financial analysis, and maintaining strong relationships with investors, investment banks and analysts. This role requires a deep understanding of how the IPO process works and will help guide the company on its journey to becoming a publicly traded company. The Director of IR is expected to be deeply immersed in GitLab’s values of transparency and efficiency and has a passionate point of view of how to incorporate those values into GitLab’s investor relations strategy and process.
+The Vice President of Investor Relations drives the strategy and long-term market positioning of GitLab in the public financial markets. The IR leader plays a key role in preparing GitLab to become a multi-billion dollar public company. This position reports to the CFO and works closely with senior leadership across the company including interaction with the executive team. This position will be responsible for developing and executing an effective investor communications strategy, performing financial analysis, and maintaining strong relationships with investors, investment banks and analysts. This role requires a deep understanding of how the IPO process works and will help guide the company on its journey to becoming a publicly traded company. The VP of IR is expected to be deeply immersed in GitLab’s values of transparency and efficiency and has a passionate point of view of how to incorporate those values into GitLab’s investor relations strategy and process.
 
 ### Job Grade 
 
-The Senior Director, Investor Relations is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).\
+The Vice President, Investor Relations is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).\
 
 ### Responsibilities
 
@@ -28,7 +28,7 @@ The Senior Director, Investor Relations is a [grade 11](/handbook/total-rewards/
 
 ### Requirements
 
-1. Seven to ten years relevant experience in Investor Relations and related roles.
+1. Senior level leadership experience in Investor Relations and related roles.
 1. Excellent writing skills for crafting scripts, financial presentations, investor kits, etc.
 1. Confident and strong presentation skills in financial environments and the ability to communicate with sophisticated financial investors.
 1. Strong quantitative and qualitative analytical abilities with attention to detail.
@@ -44,7 +44,5 @@ The Senior Director, Investor Relations is a [grade 11](/handbook/total-rewards/
 1. Investor satisfaction
 1. Volitality benchmark
 
-## Career Ladder
 
-The next step in the Investor Relations job family is to move to a VP level which is not yet defined at GitLab. 
 

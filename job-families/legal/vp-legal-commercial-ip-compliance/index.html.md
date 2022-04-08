@@ -31,7 +31,7 @@ The VP of Commercial, IP and Compliance is a [grade 12](/handbook/total-rewards/
 - Previous experience in a Global Start-up and remote first environment would be ideal.
 - Experience with open source software a plus.
 - Experience with employment law a plus.
-- Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+- Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 - Ability to use GitLab
 
 ## Performance Indicators
@@ -45,7 +45,7 @@ The next step in the VP, Legal job family is not yet defined at GitLab.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * The review process for this role can take a little longer than usual but if in doubt, check in with the Global recruiter at any point
 * Selected candidates will be invited to schedule a 45min [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
@@ -54,4 +54,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Finally, candidates will interview with our CEO.
 * Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

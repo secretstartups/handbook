@@ -24,11 +24,12 @@ The Public Sector Inside Sales Representative is a [grade 6](/handbook/total-rew
 * Work with government contract officers to ensure RFQ’s are responded and closed in a timely manner. This would include working with the Public Sector Inside Sales Manager to determine which partners could bring value if we assign them to run with an account.
 * Work with Channel Managers to team on call campaigns and quotes for RFQs through distribution.
 * Manage Reseller relationships: Quoting, Lead generation, Renewals, Product and price list updates.
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies. 
 
 #### Public Sector Inside Sales Representative Requirements
 
 * A true desire to see customers benefit from the investment they make with you
-* 5+ years of experience with B2B software sales
+* Demonstrated progressive experience with B2B software sales
 * Experience selling into large organizations
 * Interest in GitLab, and open source software
 * Ability to leverage established relationships and proven sales techniques for success
@@ -78,7 +79,7 @@ The Manager, Public Sector Inside Sales is a [grade 9](https://about.gitlab.com/
  
 * Extends that of the Senior Public Sector Inside Sales Representative Requirements
 * A true desire to see customers benefit from the investment they make with you
-* 5+ years of experience with B2B software sales
+* Demonstrated progressive experience with B2B software sales
   
 ### Senior Manager, Public Sector Inside Sales
 
@@ -102,8 +103,8 @@ The Public Sector Senior Inside Sales Manager, is a [grade 9](https://about.gitl
 #### Senior Manager, Public Sector Inside Sales Requirements
 
 * Extends that of the Manager, Public Sector Insides Sales Requirements 
-* 5 to 7 years in a Management role
-* 7+ years of experience with B2B software sales
+* Demonstrated progressive experience in a Management role
+* Demonstrated progressive experience with B2B software sales
 * Interest in GitLab, and open source software
 * Excellent negotiation, presentation and closing skills
 * One year of successful team management at GitLab related closed sales results with GitLab Public Sector clients.
@@ -123,14 +124,14 @@ The next steps for the Public Sector Inside Sales Job Family is to move to the [
  
 ## Hiring Process
  
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
  
 * Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 * Next, candidates will be invited to schedule a first interview with the Hiring Manager
 * Next, candidates will interview with 2 - 4 Team Members
 * Candidates may be invited to schedule a second interview with our CRO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
  
 ## Compensation
  

@@ -84,12 +84,13 @@ The Field Marketing Manager is a [grade 6](/handbook/total-rewards/compensation/
 - A passion and substantial understanding of the developer tools, IT operations tools, and/or IT security markets.
 - Experience with supporting both direct sales and channel sales teams.
 - Travel up to 50%.
+* Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Key Performance Indicators 
 * [10X spend contribution to sales pipeline](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) for region responsible for.
-* 100% SAO contribution in alignment to the FY SAO goals. Linked in the [FMM handbook](/handbook/marketing/revenue-marketing/field-marketing/#roi-tracking-for-field-marketing).
-* Field Marketing plans completed in alignment [with planning schedule](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-planning). 
-* Spending of the regional [Field Marketing budget](/handbook/marketing/revenue-marketing/field-marketing/#the-field-marketing-budget) within 5% variance. 
+* Contribution to the outlined FMM ORKs, in alignment with the [Marketing ORKs](https://about.gitlab.com/company/okrs/#most-recent-okrs).
+* Field Marketing plans completed in alignment [with planning schedule](/handbook/marketing/field-marketing/#field-marketing-planning). 
+* Spending of the regional [Field Marketing budget](/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance. 
 
 ## Senior Field Marketing Manager
 As Field Marketing Managers progress throughout their career at GitLab or we find the need to hire a Field Marketing Manager who has more years of relevant experience, there will be a need for a Senior Field Marketing Manager position with in the Field Marketing Organization. The Senior Field Marketing Manager will report into the Manager of Field Marketing for which region they report into.
@@ -111,6 +112,7 @@ This role includes all of the requirements above, plus:
 - Experience in enterprise solution demand creation and field marketing.
 - Orientation to managing program details.
 - Travel up to 50%.
+* Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Key Performance Indicators 
 This role includes all of the performance indicators of the previous level plus:
@@ -157,6 +159,7 @@ The Manager, Field Marketing is a [grade 8](/handbook/total-rewards/compensation
 - Experience managing direct or cross-functional teams of 3-10 marketers.
 - Experience managing a multi-million dollar marketing budget and working with senior finance and marketing leaders on annual budgeting processes.
 - Demonstrated track record of driving results and staying within a budget.
+* Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 #### AMER Specific Requirements 
 - Past experience managing a team to develop the AMER region. 
@@ -171,8 +174,8 @@ The Manager, Field Marketing is a [grade 8](/handbook/total-rewards/compensation
 ### Key Performance Indicators 
 This role includes all of the performance indicators of the previous level plus:
 * [10X spend contribution to sales pipeline](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) for geo (AMER, EMEA,APAC) responsible for.
-* 100% SAO contribution at the [Large Segment level](/handbook/sales/field-operations/gtm-resources/#segmentation) for geo (AMER, EMEA,APAC) responsible for. 
-* Spending of the regional [Field Marketing budget](/handbook/marketing/revenue-marketing/field-marketing/#the-field-marketing-budget) within 5% variance, for geo (AMER, EMEA,APAC) responsible for. 
+* Contribution to the outlined FMM OKRs, in alignment with the [Marketing OKRs](https://about.gitlab.com/company/okrs/#most-recent-okrs).
+* Spending of the regional [Field Marketing budget](/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance, for geo (AMER, EMEA,APAC) responsible for. 
 
 ### Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
@@ -193,12 +196,13 @@ The Senior Manager, Field Marketing is a [grade 9](/handbook/total-rewards/compe
 ### Responsibilities
 * Establish, allocate, and track budget down to the sub-region
 * Build out process to integrate channel partners into regional campaigns
-*  Plan an integral role in building out and operationalizing the work Field Marketing does to support our growing channel business
+* Plan an integral role in building out and operationalizing the work Field Marketing does to support our growing channel business
 * Play an integral role in building out Field Marketing’s work with cross-functional integrated campaigns
 
 ### Requirements
 * 20+ years of experience
 * Past experience running a team of 10+ direct reports
+* Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Key Performance Indicators 
 This role includes all of the performance indicators of the previous level plus:

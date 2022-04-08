@@ -23,10 +23,10 @@ and [Fullstack Engineering Managers](/job-families/engineering/development/manag
 * Enable [quad planning team](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) [collaboration](/handbook/values/#collaboration) within [product groups](/company/team/structure/#product-groups)
 * Enable [Product](/handbook/product/performance-indicators/), [Quality](/handbook/engineering/quality/performance-indicators/), and [UX](/handbook/engineering/ux/performance-indicators/) performance via solid [stable-counterpart](/handbook/leadership/#stable-counterparts) partnership
 * Ensure psychological safety on your team
-* Generate and implement process improvements
 * Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
 * Draft quarterly [OKRs](/company/okrs/) and [Engineering KPIs](/handbook/engineering/performance-indicators/#key-performance-indicators)
 * Improve product quality, security, and performance
+* Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
 
@@ -53,7 +53,7 @@ and [Fullstack Engineering Managers](/job-families/engineering/development/manag
 * Passionate about open source and developer tools
 * Experience contributing to open source software
 * Experience working with modern frontend frameworks (for example React, Vue.js)
-* Working knowledge of Ruby on Rails and or Golang
+* Working knowledge of Ruby on Rails and/or Golang
 * Domain knowledge relevant to the product stage in which you are looking to join (for example someone with CI/CD experience applying for the Verify and Release team)
 * Be a user of GitLab, or familiar with our company
 * Prior Developer Platform or Tool industry experience
@@ -109,7 +109,7 @@ The  Senior Engineering Manager is a [grade 9](/handbook/total-rewards/compensat
 
 ## Hiring Process
 
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 1. Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 1. Candidates will be invited to schedule a 60 minute first interview with a VP of Development
@@ -120,4 +120,4 @@ Candidates for this position can generally expect the hiring process to follow t
 1. Candidates may be asked to schedule a 50 minute final interview with our CEO
 1. Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

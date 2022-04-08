@@ -93,4 +93,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will be then be invited to schedule a call with our Integrations Engineer
 * Finally, candidates will interview with our VP, IT
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

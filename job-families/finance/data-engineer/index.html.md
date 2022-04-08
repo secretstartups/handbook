@@ -26,7 +26,7 @@ The Data Engineer is a [grade 6](/handbook/total-rewards/compensation/compensati
 * Desire to continually keep up with advancements in data engineering practices
 * Catch bugs and style issues in code reviews
 * Ship small features independently
-* Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks)
+* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * Ability to use GitLab
 
 ### Responsibilities
@@ -101,7 +101,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will then be invited to schedule two separate interviews with two  Peers from the Data team
 * Final stage will be with our Senior Director of Data. 
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Career Ladder
 

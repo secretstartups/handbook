@@ -41,7 +41,7 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 * scripted a [solution to capture the state of a customer’s server](https://gitlab.com/gitlab-com/support/toolbox/gitlabsos) for easier troubleshooting
 * added functionality to [ChatOps](https://docs.gitlab.com/ee/ci/chatops/) to make it easier to identify user accounts on GitLab.com
 * written a [Chrome Extension to route downloads from Zendesk tickets into organized folders](https://gitlab.com/gitlab-com/support/toolbox/zd-dl-router)
-* … done even more!
+* … [done even more](https://gitlab.com/gitlab-com/support/toolbox?sort=latest_activity_desc)!
 
 ## Requirements
 ### You should apply if:
@@ -67,7 +67,7 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 * you have excellent Linux systems administration knowledge (LFCE or RHCE equivalent knowledge).
 
 ### You'll be able to thrive at GitLab
-* you can successfully complete a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+* You can successfully complete of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * you can demonstrate excellent spoken and written English.
 * you have the ability to use GitLab.
 * our [values](https://about.gitlab.com/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you.
@@ -151,7 +151,7 @@ Support Engineers have the following job-family Performance Indicators.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Technical assessment. 
 * 30-minute screening call with a Recruiter.
@@ -162,4 +162,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Reference Checks.
 * Successful candidates will subsequently be made an offer.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

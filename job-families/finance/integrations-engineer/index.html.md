@@ -94,4 +94,4 @@ The next step in the Integration Engineering job family is to move a higher leve
 - Third round interview is with the Senior Director of Enterprise Applications.
 - At final stage candidates will meet with the VP of Information Technology.
 
-- Additional details about our process can be found on our [hiring page](/handbook/hiring).
+- Additional details about our process can be found on our [hiring page](/handbook/hiring/).

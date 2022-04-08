@@ -31,6 +31,7 @@ requirements and responsibilities:
 * Share [our values][values], and work in accordance with those values
 * Ability to thrive in a fully remote organization
 * Ability to use GitLab
+* Comfort and familiarity with our [code review process](/handbook/engineering/workflow/code-review/)
 
 [values]: /handbook/values/
 [collaboration]: /handbook/values/#collaboration
@@ -56,7 +57,7 @@ requirements and responsibilities:
 * Advocate for improvements to product quality, security, and performance
 * Solve technical problems of moderate scope and complexity.
 * Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment.
-* Conduct [Code Review](https://about.gitlab.com/handbook/engineering/workflow/code-review/) within our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html) and ensure community contributions receive a swift response. 
+* Conduct [Code Review](https://about.gitlab.com/handbook/engineering/workflow/code-review/) within our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html) and ensure community contributions receive a swift response.
 * Recognize impediments to our efficiency as a team ("technical debt"), propose and implement solutions
 * Represent GitLab and its values in public communication around specific projects and community contributions.
 * Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
@@ -91,10 +92,13 @@ understanding of Ruby and, Ruby on Rails.
 Backend Engineers have the following job-family performance indicators.
 
 * [Backend Unit Test Coverage](/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
-* [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
+* [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+* [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 
-Engineering Managers have the following job-family performance indicators.
+Engineering Managers have the following job-family performance indicators. Performance indicators for a Manager role usually apply to the team, meaning the manager and their direct reports.
 
+* [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+* [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 * [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
 * [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
 * [Development Department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
@@ -214,7 +218,7 @@ The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/comp
 For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
 
 ## Hiring Process
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 For Individual Contributors:
 
@@ -223,7 +227,7 @@ For Individual Contributors:
 * Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers
 * Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
 * Successful candidates will subsequently be made an offer.
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 For Managers:
 
@@ -416,7 +420,7 @@ making the GitLab project maintainable in the long-term.
 * Experience using Continuous Integration systems (e.g., GitLab CI, Jenkins, Travis).
 * Experience using Docker and containerized architectures (e.g. Kubernetes).
 
-See the description of the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity-team/) for more details.
+See the description of the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) for more details.
 The position also involves working with the community as
 [Merge Request Coach](/job-families/expert/merge-request-coach/), and working together with our
 [Backend Engineers](/job-families/engineering/backend-engineer/) to respond and
@@ -430,6 +434,14 @@ Engineering Productivity Engineers have the following job-family performance ind
 * [Average merge request pipeline duration for GitLab](/handbook/engineering/quality/performance-indicators/#average-merge-request-pipeline-duration-for-gitlab)
 * [Average cost per merge request pipeline for GitLab](/handbook/engineering/quality/performance-indicators/#average-cost-per-merge-request-pipeline-for-gitlab)
 * [Review App deployment success rate for GitLab](/handbook/engineering/quality/performance-indicators/#review-app-deployment-success-rate-for-gitlab)
+
+#### Hiring Process
+
+1. 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters.
+2. 60 minute behavioral interview with the Engineering Manager, Engineering Productivity.
+3. 50 minute behavioral interview with two Quality team members with at least 1 Backend Engineer, Engineering Productivity
+4. 90 minute Ruby-based technical interview. 
+4. 50 minute behavioral interview with the VP of Quality.
 
 ### Memory
 
@@ -512,54 +524,6 @@ Gitaly is a new service in our architecture that handles git and other filesyste
 * Understanding of how to build instrumented, observable software systems.
 * Experience highly-available systems in production environments.
 
-### Meltano
-
-[Meltano](https://meltano.com) is a separate business unit from the rest of GitLab (essentially an internal startup)
-that's building an open source platform for data engineering and analytics
-that lets data teams benefit from DevOps best practices such as version control and CI/CD,
-with a current focus on open source EL(T) leveraging [Singer](https://www.singer.io/) and [dbt](https://www.getdbt.com/).
-
-This position reports to the [General Manager of Meltano](/job-families/engineering/general-manager-meltano/).
-
-#### Responsibilities
-
-* Develop features and other improvements to Meltano and related projects like the [Singer SDK](https://gitlab.com/meltano/singer-sdk)
-* Be a core team member and project maintainer of <https://gitlab.com/meltano/meltano> and related projects under <https://gitlab.com/meltano>:
-  * Triage issues for bugs and feature requests
-  * Review merge requests contributed by the community and assist in getting them over the finish line
-* Provide support to the community in the Meltano Slack workspace
-* Shape roadmap and propose new features based on own understanding of the needs of a data engineer, data team, and/or data consultancy
-* Write documentation, tutorials and other material to educate users on how to use Meltano and related tools to develop robust data pipelines and data projects in general
-* Help spread the word about Meltano in (open source) data communities, like Slack workspaces and (virtual) meetups
-
-#### Requirements
-
-In addition to the [general requirements for Backend Engineers](#requirements):
-
-* Extensive experience with Python
-  * (this role does not require experience with Ruby or Rails)
-* Experience with and passion for data engineering
-* Experience running Singer-based data pipelines in production
-* Experience developing Singer taps and/or targets
-* Proven track record of contributions to Meltano and/or related projects (e.g. Singer SDK, taps)
-
-##### Nice to have
-
-* Experience maintaining an open source project
-* Experience building developer tools: CLIs and/or SDKs
-* Experience in data consulting
-* Experience with Airflow
-* Experience with dbt
-* Experience with Docker and Kubernetes
-* Experience with data validation tools like Great Expectations
-* Experience with data governance
-
-#### Hiring Process
-
-1. 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
-2. 60 minute interview with Meltano General Manager
-3. 60 minute interview with GitLab CEO
-4. Successful candidates will subsequently be made an offer.
 
 ### Database
 
@@ -578,32 +542,6 @@ of PostgreSQL. As such Ruby knowledge is absolutely required and deep PostgreSQL
   such as Sinatra or Hanami
 * Expert-level understanding of relational databases, SQL and query optimization techniques and demonstrated ability to both diagnose and prevent performance problems
 * Significant experience working in a distributed production environment
-
-### Gitter
-
-[Gitter](https://gitter.im) specialists are full-stack JavaScript developers who are able to write JavaScript code that is shared between multiple environments. Gitter uses a JavaScript stack running Node.js on the server, and bundled with webpack on the client. The [iOS](https://gitlab.com/gitlab-org/gitter/gitter-ios-app), [Android](https://gitlab.com/gitlab-org/gitter/gitter-android-app), macOS (Cocoa) and [Linux/Windows (NW.js)](https://gitlab.com/gitlab-org/gitter/desktop/) clients reuse [much of the same codebase](https://gitlab.com/gitlab-org/gitter/webapp) but also require some knowledge of Objective-C, Swift and Java. Gitter uses MongoDB, Redis, and Elasticsearch for backend storage.
-
-#### Requirements
-
-* Strong client-side JavaScript experience
-* Strong production Node.js experience
-* Highly desirable: MongoDB, Elasticsearch, and Redis experience
-* Desirable: Some Java, Objective-C or Swift experience building mobile apps
-* Desirable: DevOps experience, working with Linux, Ansible, AWS or similar products
-
-#### Responsibilities
-
-* Fix prioritized issues from the issue tracker
-* Triage issues (duplicates, clarification, reproduction steps, prioritization)
-* Create high quality frontend and backend code
-* Review community contributions
-* Provide second-level support to the Production Team to ensure that all Gitter production services remain stable
-* Document tribal knowledge, particularly around runbooks and production incident processes
-* Keep an eye on Sentry to find regressions and ensure application errors are addressed
-* Continually improve the quality of Gitter by using discretion of where you think changes are needed
-* Continue to migrate the codebase from old repository locations to GitLab, while open-sourcing as much of it as possible
-* Maintain the iOS, Android, and desktop applications
-* Provide community support for Gitter via [Gitter rooms](https://gitter.im/gitterHQ/gitter), [Twitter](https://twitter.com/gitchat), Zendesk, etc
 
 ### Infrastructure
 
@@ -646,15 +584,14 @@ every GitLab release reaches the public in time.
 ### Scalability
 
 The [Scalability team](/handbook/engineering/infrastructure/team/scalability/) is responsible for optimising GitLab.com
-performance through improving reliability, availability and performance of GitLab individual services and application as a whole.
+performance through improving the reliability, availability and performance of individual GitLab services and the application as a whole.
 
 #### Responsibilities
 
-- Analyse existing, create and maintain new GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective).
-- Resolve problems contributing to missing GitLab.com SLO targets.
-- Find, define and resolve architectural application bottlenecks as observed on GitLab.com.
-- Work with other engineering stakeholders on resolving larger architectural bottlenecks and participate as a representative of GitLab.com.
-- Provide guidance to other engineering stakeholders on scaling considerations.
+- Create, analyze, and maintain GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective) (SLOs).
+- Resolve problems that contribute to missed SLOs.
+- Find, define, and resolve application bottlenecks as observed on GitLab.com.
+- Work closely with embedded Site Reliability Engineers to prepare production changes.
 
 #### Requirements
 
@@ -667,13 +604,9 @@ Candidate should ideally be:
 
 Other qualifications include:
 
-- High proficiency in at least one of the following programming languages, in order of preference:
-  - Ruby.
-  - Go.
-  - Knowledge of other OOP languages is a nice to have.
-- Proficient in one or more of the following:
-  - Knowledge of profiling, and performance testing.
-  - Understanding of basic database principles and optimisation mechanisms.
+- Language expertise. Application contributions are expected in Ruby and the ability to contribute in Go is helpful.
+- Knowledge of profiling, and performance testing.
+- Understanding of basic database principles and optimisation mechanisms.
 
 ### Search
 

@@ -16,7 +16,8 @@ The Frontend Engineering Manager specializes in Frontend Engineering Management 
 * Get involved in solving bugs and delivering small features
 * Foster technical decision making on the team, and make final decisions when necessary
 * Discern engineering metrics and seek to improve them
-* May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/#starting-new-teams) concept
+* May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/starting-new-teams/#team-construction) concept
+* Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 
 ## Requirements
@@ -50,9 +51,10 @@ The Frontend Engineering Manager specializes in Frontend Engineering Management 
 The Frontend Engineering Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Performance Indicators
-Frontend Engineering Managers have the following job-family performance indicators.
+Frontend Engineering Managers have the following job-family performance indicators. Performance indicators for a Manager role usually apply to the team, meaning the manager and their direct reports.
 
-* [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
+* [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+* [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 * [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
 * [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
 * [Development Department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
@@ -62,7 +64,7 @@ Frontend Engineering Managers have the following job-family performance indicato
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Selected candidates will be invited to a 30 minute [screening call](/handbook/hiring/#screening-call) with our Technical Recruiters
 * Next, candidates will be invited to a 60 minute interview with the Hiring Manager.
@@ -71,4 +73,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will then be invited to a 60 minute interview with our Senior Director of Development
 * Successful candidates will subsequently be made an offer
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

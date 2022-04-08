@@ -10,7 +10,7 @@ The Fullstack Engineering Manager specializes in Engineering Management as a man
 The *Fullstack Engineering Manager* role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
-* Manage a [combined team](https://about.gitlab.com/handbook/engineering/#fullstack-teams) of engineers.
+* Manage a [combined team](https://about.gitlab.com/handbook/engineering/starting-new-teams/#fullstack-teams) of engineers.
 * Help your engineers grow their skills and experience
 * Author project plans for epics
 * Run agile project management processes
@@ -25,7 +25,8 @@ The *Fullstack Engineering Manager* role is a [grade 8](/handbook/total-rewards/
 * Foster technical decision making on the team, but make final decisions when necessary
 * Draft quarterly OKRs and [Engineering KPIs](/handbook/business-ops/data-team/metrics/#engineering-kpis)
 * Improve product quality, security, and performance
-* May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/#starting-new-teams) concept
+* May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/starting-new-teams/#team-construction) concept
+* Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
 * Ability to use GitLab
@@ -49,37 +50,44 @@ The *Fullstack Engineering Manager* role is a [grade 8](/handbook/total-rewards/
 * Passionate about open source and developer tools
 
 ## Levels
-* Senior [Frontend](/job-families/engineering/development/frontend/senior/), 
-  [Backend](/job-families/engineering/development/backend/senior/), 
+* Senior [Frontend](/job-families/engineering/development/frontend/senior/),
+  [Backend](/job-families/engineering/development/backend/senior/),
   or [Fullstack](/job-families/engineering/development/fullstack/#job-grade) Engineer
-* Fullstack Engineering Manager 
+* Fullstack Engineering Manager
 * [Senior Engineering Manager](/job-families/engineering/development/management/senior-manager/)
 
 
 ## Performance Indicators
 
-Fullstack Engineering Managers have the following job-family performance indicators.
+Fullstack Engineering Managers have the following job-family performance indicators. Performance indicators for a Manager role usually apply to the team, meaning the manager and their direct reports.
 
-* [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
-* [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
-* [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
-* [Development Department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
-* [Diversity](/handbook/engineering/performance-indicators/#diversity)
-* [Handbook Update Frequency](/handbook/engineering/performance-indicators/#handbook-update-frequency)
-* [Team Member Retention](/handbook/engineering/performance-indicators/#team-member-retention)
-* [Review To Merge Time](/handbook/engineering/development/performance-indicators/#review-to-merge-time-rtmt)
-* [Largest Contentful Paint (LCP)](/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp)
+* [Key Performance Indicators](/handbook/engineering/development/performance-indicators/#key-performance-indicators)
+  * [Past Due Infradev Issues](/handbook/engineering/development/performance-indicators/#past-due-infradev-issues)
+  * [Open MR Review Efficiency (OMRE)](/handbook/engineering/development/performance-indicators/#open-mr-review-efficiency-omre)
+  * [Development Team Member Retention](/handbook/engineering/development/performance-indicators/#development-team-member-retention)
+  * [Development Average Age of Open Positions](/handbook/engineering/development/performance-indicators/#development-average-age-of-open-positions)
+
+* [Regular Performance Indicators](/handbook/engineering/development/performance-indicators/#regular-performance-indicators)
+  * [Development Department MR Rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
+  * [New Hire Average Location Factor](/handbook/engineering/development/performance-indicators/#development-department-new-hire-average-location-factor)
+  * [Development Department MR Rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
+  * [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
+  * [Open To Merge](/handbook/engineering/development/performance-indicators/#open-to-merge)
+  * [Overall MRs By Type](/handbook/engineering/development/performance-indicators/#overall-mrs-by-type)
+
 
 ## Hiring Process
+
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * Next, candidates will be invited to a 60 minute interview with the Hiring Manager.
 * Candidates will then be invited to a 45 minute peer interview with another Engineering Manager
 * Candidates will then be invited to a 45 minute direct report interview
-* Candidates will then be invited to a 60 minute interview with a senior leader in the development department
+* Candidates may then be invited to a 45 minute product manager interview
+* Candidates may then be invited to a 60 minute interview with a senior leader in the development department
 * Successful candidates will subsequently be made an offer
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Specialties
 
@@ -87,8 +95,8 @@ Read more about what a [specialty](/company/team/structure/#specialist) is at Gi
 
 ### Fullstack Engineering Manager, Growth
 
-Engineering Managers in the Growth sub-department own the delivery of features and improvements that aim to scale GitLab usage by connecting users to the existing value that GitLab already delivers. 
-The Growth sub-department teams can include fullstack, backend, and frontend engineers and as such engineering managers in Growth are fullstack managers. 
-The Growth sub-department groups are Activation, Adoption, Conversion, Expansion groups, and Product Intelligence. 
-Fullstack Engineering Managers, Growth lead teams of fullstack engineers that work across the breadth of the GitLab project in order to make the necessary frontend and backend changes to test hypothesis that drive improvement in user metrics. 
+Engineering Managers in the Growth sub-department own the delivery of features and improvements that aim to scale GitLab usage by connecting users to the existing value that GitLab already delivers.
+The Growth sub-department teams can include fullstack, backend, and frontend engineers and as such engineering managers in Growth are fullstack managers.
+The Growth sub-department groups are Activation, Adoption, Conversion, Expansion groups, and Product Intelligence.
+Fullstack Engineering Managers, Growth lead teams of fullstack engineers that work across the breadth of the GitLab project in order to make the necessary frontend and backend changes to test hypothesis that drive improvement in user metrics.
 These teams work closely with their counterparts in the Product team to analyze the entire customer journey from acquisition of a customer, to the flow across multiple GitLab features, and even reactivation of lost users.

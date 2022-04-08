@@ -203,7 +203,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * The next step will be a 30-min meeting to cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.  
 
-* After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20- minutes in duration** and returned **within ten days** of the screening call. In addition to the details below, [this discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of what we're looking for.  
+* After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20-minutes in duration** and returned **within ten days** of the screening call. In addition to the details below, [this discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of what we're looking for.  
 
 > ### Why we ask for a pre-recorded presentation
 > 
@@ -214,7 +214,7 @@ Candidates for this position can expect the hiring process to follow the order b
 > ### Presentation Topics
 > 
 > 1. An introduction: who you are, where you're based, your background, and why you're a UX Researcher.
-> 1. An overview of one *or* two research studies. We want to understand: the size, discipline make-up, and structure of the team you were a part of; the goals of the project; how you approached research;  what you personally did on the project, how you synthesized research data to inform product and design decisions; the final output of your research; the challenges you faced throughout the project; and the meaningful business impact that the research resulted in. 
+> 1. An overview of one *or* two research studies. We want to understand: the size, discipline make-up, and structure of the team you were a part of; the goals of the project; how you approached research; what you personally did on the project, how you synthesized research data to inform product and design decisions; the final output of your research; the challenges you faced throughout the project; and the meaningful business impact that the research resulted in. 
 >
 > ### What we're looking for 
 > 
@@ -226,7 +226,7 @@ Candidates for this position can expect the hiring process to follow the order b
 > ## Some useful resources
 > 
 > - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](https://about.gitlab.com/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation. 
-> - Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](https://about.gitlab.com/handbook/engineering/ux/ux-research/), and our [UX Department's handbook](/handbook/engineering/ux/).
+> - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](https://about.gitlab.com/handbook/engineering/ux/ux-research/), and our [UX Department's handbook](/handbook/engineering/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call. 
 

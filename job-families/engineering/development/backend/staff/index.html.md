@@ -17,7 +17,7 @@ The Staff Backend Engineer is a [grade 8](/handbook/total-rewards/compensation/c
 * Recognize impediments to our efficiency as a team ("technical debt"), propose and implement solutions.
 * Represent GitLab and its values in public communication around specific projects and community contributions.
 * Ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-* Participate in Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues.
+* Participate in either Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues **OR** the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
 * Ability to use GitLab.
@@ -360,35 +360,37 @@ Delivery specialist is an engineer that focuses on improving the engineering rel
 * Identify process bottlenecks and introduce optimizations.
 
 ### Scalability
-The Scalability team is responsible for optimising GitLab.com performance through
-improving reliability, availability and performance of GitLab individual services
-and application as a whole.
+
+The [Scalability team](/handbook/engineering/infrastructure/team/scalability/) is responsible for optimising GitLab.com
+performance through improving the reliability, availability and performance of individual GitLab services and the application as a whole.
 
 #### Responsibilities
-* Analyse existing, create and maintain new GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective).
-* Resolve problems contributing to missing GitLab.com SLO targets.
-* Find, define and resolve architectural application bottlenecks as observed on GitLab.com.
-* Work with other engineering stakeholders on resolving larger architectural
-bottlenecks and participate as a representative of GitLab.com.
+
+- Create, analyze, and maintain GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective) (SLOs).
+- Resolve problems that contribute to missed SLOs.
+- Find, define, and resolve application bottlenecks as observed on GitLab.com.
+- Work with other engineering stakeholders on resolving larger architectural bottlenecks and participate as a representative of GitLab.com.
+- Provide guidance to other engineering stakeholders on scaling considerations.
+- Work closely with embedded Site Reliability Engineers to prepare and perform production changes.
+- Prepare and deliver scaling projects as a Directly Responsible Individual (DRI).
+- Participate in many scaling initiatives concurrently.
+- Enable others to perform systems analysis on scaling problems.
 
 #### Requirements
+
 Candidate should ideally be:
 
-* Expert in Ruby on Rails.
-* Experienced in working on large scale systems.
-* Experienced in application and systems observability.
+- Methodical when troubleshooting and solving problems.
+- Experienced in working on large scale systems.
+- Experienced in application and systems observability.
+- Have working knowledge of one or more of the services used to deliver GitLab.com.
+- Able to articulate systems performance concepts to team members outside of Engineering.
 
 Other qualifications include:
 
-* High proficiency in at least one of the following programming languages, in order of preference:
-  * Ruby.
-  * Go.
-  * Knowledge of other OOP languages is a nice to have.
-* Proficient in one or more of the following:
-  * Methodical troubleshooting and problem solving skills.
-  * Knowledge of profiling, and performance testing.
-  * Self starter.
-  * Understanding of basic database principles and optimisation mechanisms.
+- Language expertise. Application contributions are expected in Ruby and the ability to contribute in Go is helpful.
+- Knowledge of profiling, and performance testing.
+- Understanding of basic database principles and optimisation mechanisms.
 
 ### Search
 Elasticsearch engineers are focused on delivering a first class global search experience throughout GitLab products.  They are experienced Ruby/GoLang developers who focus on implementing core Elasticsearch functions while advising other development teams on best practices (e.g. indexing).
@@ -408,7 +410,8 @@ Elasticsearch engineers are focused on delivering a first class global search ex
 
 ## Performance Indicators
 * [Backend Unit Test Coverage](/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
-* [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
+* [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+* [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 
 ## Hiring Process
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).

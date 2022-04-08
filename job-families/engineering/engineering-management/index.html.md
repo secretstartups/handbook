@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "Engineering Leadership"
+title: "Engineering Leadership - Roles & Responsibilities"
 ---
 
 The Engineering Leadership becomes a cross-discipline management. For example, a Senior Engineering Manager will manage 
@@ -164,6 +164,29 @@ The  Senior Director, Development is a [grade 11](/handbook/total-rewards/compen
 
 * Extends that of the [Director, Development](#director-development) requirements
 
+### Senior Distinguished Engineer
+
+The Senior Distinguished Engineer reports to the [Senior Director, Development](https://about.gitlab.com/job-families/engineering/engineering-management/#senior-director-development) or [Director, Development](https://about.gitlab.com/job-families/engineering/engineering-management/#director-development) of their sub-department.
+
+#### Senior Distinguished Engineer Job Grade
+
+The Senior Distinguished Engineer is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Distinguished Engineer Responsibilities
+
+* The Senior Distinguished Engineer role acts as the individual equivalent of a Senior Director, Engineering
+* Extends that of the [Distinguished Engineer](#distinguished-engineer) responsibilities
+* At this level the Senior Distinguished Engineer's minimal sphere of influence is across multiple sub-departments if not across their entire department
+* _Generate_ technical and process improvements
+* Drive innovation within Engineering
+* Identifies the balance between the immediate and long term impact of technical direction and guides the organisation to execution in this balance
+* Be a technical, architectural, and career development mentor for other backend engineers
+* Author architecture documents for epics, coordinate the interaction between architectural directions across the engineering organization
+
+#### Senior Distinguished Engineer Requirements
+
+* Extends that of the [Distinguished Engineer](#distinguished-engineer) requirements
+
 ### Engineering Fellow
 
 *The Engineering Fellow reports to the [VP of Development](#vp-of-development).
@@ -175,7 +198,7 @@ The Engineering Fellow is a [grade 12](/handbook/total-rewards/compensation/comp
 #### Engineering Fellow Responsibilities
 
 * The Engineering Fellow acts as the individual contributor equivalent of a VP of Engineering.
-* Extends that of the [Distinguished Engineer](#distinguished-engineer) responsibilities
+* Extends that of the [Senior Distinguished Engineer](#senior-distinguished-engineer) responsibilities
 * Advocate for improvements to product quality, security, and performance that impact all of Engineering at GitLab.
 * Solve technical problems of the highest scope and complexity for the entire
   organization.
@@ -234,7 +257,7 @@ For more details on the engineering career ladders, please review the [engineeri
 
 ## Hiring Process
 
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 * Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering
@@ -280,7 +303,7 @@ The Chief Technology Officer is a [grade 12](/handbook/total-rewards/compensatio
 
 #### Chief Technology Officer Hiring Process
 
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 * Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering

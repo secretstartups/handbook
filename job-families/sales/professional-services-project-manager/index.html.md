@@ -28,8 +28,8 @@ The Senior Professional Services Project Manager is a [grade 7](/handbook/total-
 
 - Knowledge of specific industry project management and technical delivery methodologies for software (e.g., Project Management Institute (PMI) methodologies, agile/scrum, and/or software SDLC)
 - Bachelor's degree in engineering, computer science or related field
-- 5+ years of experience working as a project manager on IT-based projects
-- 3+ years experience managing projects with external customers or clients, preferably enterprise customers. Professional Services experience is a plus.
+- Demonstrated progressive experience working as a project manager on IT-based projects
+- Demonstrated progressive experience managing projects with external customers or clients, preferably enterprise customers. Professional Services experience is a plus.
 - Demonstrated ability to motivate the advisor team and individual contributors and mediate conflicts
 - Experience using various project management and/or agile tools
 - Understanding of software development lifecycle, preferably experience in an agile and/or DevOps environment
@@ -39,6 +39,7 @@ The Senior Professional Services Project Manager is a [grade 7](/handbook/total-
 - Willingness to be present on customer sites and to travel up to 20%
 - Demonstrated ability to think strategically about business, products, and technical challenges
 - Ability to use GitLab
+- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ## Performance Indicators
 
@@ -50,7 +51,7 @@ The next steps for a Professional Services Project Manager would be to move to t
 
 ## Hiring Process
 
-Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 - Qualified candidates for the Professional Services Project Manager will receive a short questionnaire.
 - Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with a member of our Recruiting team.

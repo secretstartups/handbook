@@ -12,7 +12,6 @@ The Revenue Accounting Team at Gitlab form part of the Revenue Accounting Group.
 
 The Associate Revenue Accountant will report to the Manager, Revenue Accounting or above. 
 
-
 #### Associate Revenue Accountant Job Grade
 
 The Associate Revenue Accountant is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
@@ -87,10 +86,44 @@ The Senior Revenue Accountant is a [grade 7](/handbook/total-rewards/compensatio
 * International experience preferred.
 * Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision
 
+### Senior Revenue Accountant, Team Lead
+
+The Senior Revenue Accountant, Team Lead will report to the Manager, Revenue Accounting or above.  
+
+#### Senior Revenue Accountant, Team Lead Job Grade
+
+The Senior Revenue Accountant, Team Lead is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). This job is the same grade as the Senior Revenue Accountant.  The Senior Revenue Accountant, Team Lead has responsibilty for supporting other Accountants with first level queries and maintaining approval rights on certain size deals as outlined in our controls. 
+
+#### Senior Revenue Accountant, Team Lead Responsibilities
+
+* Responsible for approving deals up to a specific threshold as outlined in our SOX controls
+* Takes a lead role in the review of customer contracts for proper revenue recognition in accordance with company policy and revenue recognition accounting standards.
+* Researches and documents accounting issues and recommend solutions for complex transactions.
+* Leading contributor in the monthly financial close, ensuring accurate and timely recording of transactions and the completeness of financial statements
+* Works closely and help manage transactions with the billing and deal desk teams and other stakeholders in the business.
+* Takes a lead role in the preparation and review of monthly account reconciliations and journal entries and the financial reporting process.
+* Ensure compliance with internals controls and processes
+* Perform standalone selling price analysis
+* Work on ad hoc projects including implementation of new systems and standards
+* Subject matter expert on revenue and ASC 606.
+* Manages and reviews the work of other members of the team as required by the Manager, Revenue Accounting or above.
+
+#### Senior Revenue Accountant, Team Lead Requirements
+
+* Strong working knowledge of US GAAP principles and financial statements, including ASC 606 and multi-element experience
+* 5-7 years of related accounting experience, public company accounting experience is a plus
+* Flexible to meet changing priorities and the ability to prioritize workload to achieve on time accurate results
+* Ability to support and manage the work of others
+* Experience with Netsuite, Zuora or Revpro considered an advantage
+* Proficient with excel and google sheets
+* International experience preferred.
+* Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision
+* Ability to use GitLab
+* Ability to support and coach other team members as the go-to for first line questions in the Revenue Accounting team
+
 ### Manager, Revenue Accounting
 
 The Manager, Revenue Accounting will report to the Senior Manager, Revenue Accounting or above.
-
 
 #### Manager, Revenue Accounting Job Grade
 

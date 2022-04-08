@@ -33,8 +33,8 @@ The Learning & Development Instructional Designer is responsible for designing a
 * Experience working with a variety of Learning Management and Learning Experience Systems and various virtual meeting management tools such as Zoom is a plus
 * Ability to use GitLab
 * Bachelor’s degree or equivalent experience in Instructional Development, Training Education/Communication is preferred
-* You share our [values](https://about.gitlab.com/handbook/values), and work in accordance with those values
-* Successful completion of a [background check](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks)
+* You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
+* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 
 
 ## Levels
@@ -118,4 +118,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * After that, our CEO may choose to conduct a final interview.
 * As a final step, candidates will be asked to share a sample examples from their Instructional Design portfolio from previous jobs that include eLearning, Live Learning, and Virtual Instructor Led Training
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

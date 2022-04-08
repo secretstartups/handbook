@@ -183,4 +183,4 @@ Qualified candidates will be invited to schedule a 30 minute [screening call](/h
 * Finally, our CMO may choose to conduct a final interview
 * Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -211,10 +211,10 @@ The next step in the Financial Planning and Analysis job family is to move to th
 
 Candidates for these positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the process at any stage of the interview plan.
 
-- Selected candidates will be invited to schedule a 30 minute screening call with our Global Recruiters,
-- Next, candidates will be invited to schedule a 45+ minute interview with the hiring manager,
-- Next, candidates will be invited to complete a take-home case study exercise
-- Next, candidates will be invited to schedule a 45+ minute interview with one or two FP&A team members, a people ops team member, and/or key business partners (if applicable)
-- Next, candidates will be invited to schedule a 45+ minute interview with our VP Finance.
+- Selected candidates will be invited to schedule a 30 minute screening call with our Global Recruiters
+- Candidates will be asked to complete a modeling exercise to support their application from a Technical perspective.  This is a 'take home assessment' completed in the candidates own time. We ask it is returned within 3 working days
+- Next, candidates will be invited to schedule a 45+ minute interview with the hiring manager
+- Next, candidates will be invited to schedule interview/s with one or two FP&A team members, a people ops team member, and/or key business partners (if applicable)
+- At Final stage, candidates will be invited to schedule a 45+ minute interview with our VP Finance.
 
 Additional details about our process can be found on our hiring page.

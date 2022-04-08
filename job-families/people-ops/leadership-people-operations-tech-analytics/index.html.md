@@ -114,4 +114,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule 2 separate 50 minute interviews;  VP of IT and the Chief Financial Officer
 * Finally, candidates may be invited to a 50 minute interview with the CEO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

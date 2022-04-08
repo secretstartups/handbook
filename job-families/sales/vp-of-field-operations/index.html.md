@@ -25,15 +25,16 @@ The VP, Field Operations is a [grade 12](/handbook/total-rewards/compensation/co
  
 ### Requirements
 
-* 10-15 years of experience in a global SAAS sales or sales operations environment.
+* Demonstrated progressive experience in a global SAAS sales or sales operations environment.
 * Demonstrated passion for information and business intelligence; thorough understanding of sales processes and methodologies.
-* Minimum of 10 years experience in Salesforce.com.
+* Demonstrated progressive experience in Salesforce.com.
 * Experience growing within a small start-up. Strong ability to interact and influence effectively with all C-level executives and team members.
 * Ability to work independently with a high degree of accountability, while also able to collaborate cross-functionally (finance, marketing, sales enablement, etc) with exceptional intrapersonal skills.
 * Exceptional written/verbal communication and presentation skills.
 * Analytical and detail oriented, strong project management skills with a drive for results.
 * Proven ability to thrive in a fluid, fast-paced, unpredictable environment.
 * Unquestionable ethics, integrity and business judgment; you share our values, and work in accordance with those values.
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
  
 ### Performance Indicators
 
@@ -47,7 +48,7 @@ The next steps for the VP, Field Operations would be to move to the [Chief Reven
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 - First, the candidate will have a 30 min screening call with a GitLab Recruiters
 - Next, the candidate will have a 30 min interview with the Hiring Manager
@@ -55,4 +56,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, the candidate  will have a 45 min interview with a peer
 - Lastly, the candidate will have a final 45 min interview with the CRO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

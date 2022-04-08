@@ -82,7 +82,7 @@ This manager is expected to manage a small team of ICs, while also contributing 
 
 ## Performance Indicators
 - Number of work delivered weekly
-- [TMAU](url)/[SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau)
+- [TMAU]/[SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau)
 - [SPU](https://about.gitlab.com/handbook/product/performance-indicators/#stages-per-user-spu)
 - [Direct Signup ARR Growth Rate](https://about.gitlab.com/handbook/product/performance-indicators/#direct-signup-arr-growth-rate)
 - [Free to Paid ARR Growth Rate](https://about.gitlab.com/handbook/product/performance-indicators/#free-to-paid-arr-growth-rate)
@@ -91,10 +91,10 @@ This manager is expected to manage a small team of ICs, while also contributing 
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 - Selected candidates will be invited to schedule a 30 min. [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the a Data team Leader.
 - Next, candidates will be invited to interview with 1-4 teammates, including hiring manager.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

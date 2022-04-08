@@ -18,7 +18,7 @@ The VP, Global Enterprise Sales is a [grade 12](/handbook/total-rewards/compensa
 
 ## Requirements
 
-* 15+ years of progressive, global enterprise sales leadership and operations experience within the software / open source / devops industry.
+* Demonstrated progressive progressive, global enterprise sales leadership and operations experience within the software / open source / devops industry.
 * Experience leveraging, building and managing enterprise sales teams globally; proven record of recruiting and enabling top talent.
 * Experience selling to Fortune 500; willing to “roll up the sleeves’ and sell, and help teams close deals when needed.
 * Proven track record of meeting or exceeding performance objectives (revenue targets, pipeline targets, etc.)
@@ -30,6 +30,7 @@ The VP, Global Enterprise Sales is a [grade 12](/handbook/total-rewards/compensa
 * You share our values, and work in accordance with those values.
 * [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#s-group)
 * Ability to use GitLab
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 <%= partial("job-families/sales/performance", :locals => { :roleName => "VP of Enterprise Sales" }) %>
 

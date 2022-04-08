@@ -51,4 +51,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Finally, candidates may be asked to interview with other members of the Tax team
 * Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

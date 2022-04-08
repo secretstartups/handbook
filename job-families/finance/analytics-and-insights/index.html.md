@@ -181,7 +181,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Then, candidates will be invited to schedule four separate interviews; one with the Director of Data for 40 minutes, one with the Director, FP&A and Manager FP&A for 50 minutes, one with the Director, Pricing for 40 minutes and one with the Director, Growth for 40 minutes. 
 - Final candidates will be invited to conduct two-three 40 minute interviews, with one or two e-Group team member(s) and lastly with the CFO.
  
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
  
 ## Career Ladder
 The next step in the Analytics and Insights job family is to move to a senior leader or executive leadership job family of which we do not yet have defined at GitLab.

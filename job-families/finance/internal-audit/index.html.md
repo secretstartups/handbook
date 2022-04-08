@@ -6,6 +6,18 @@ description: "Internal Audit function is responsible to assess the effectiveness
 
 Internal Audit function is responsible to assess the effectiveness of risk management, control and governance processes. Internal Audit will also provide insight and recommendations that can enhance these processes, particularly relating to effectiveness of operations, reliability of financial management and reporting and Compliance with laws and regulations. 
 
+The Internal Audit and SOX function has a career ladder represented below:
+
+| Role                                                | Grade |
+|-----------------------------------------------------|-------|
+| [Internal Auditor](#internal-auditor) <br> [SOX Compliance Analyst](#Internal-Auditor) | 6 |
+| [Sr Internal Auditor](#Senior-Internal-Auditor) <br> [Sr SOX Compliance Analyst](#Senior-SOX-Compliance-Analyst)| 7 |  
+| [Internal Audit and SOX Manager](#internal-audit-and-SOX-Manager) <br> [Manager, Internal Audit](#Manager-Internal-Audit) | 8   
+| [Sr Manager, Internal Audit](#Senior-Manager-Internal-Audit) | 9 |  
+| [Director, Internal Audit](#Director-Internal-Audit) | 10 |
+|[VP, Internal Audit](#Vice-President-Internal-Audit) | 12 |
+
+
 ### Internal Auditor   
 
 The Internal Auditor is responsible for assisting the Internal Audit team in performing tasks such as creating data requests, performing testing of controls, document evidence of the testing, follow up with function owners for pending information requests, as directed.
@@ -125,8 +137,8 @@ Additional details about our process can be found on our [hiring page](https://a
 
 ### Senior SOX Compliance Anaylst
  
-The Senior SOX compliance Analyst is responsible for preparing and implementing a risk-based audit plan to assess, report on, and make suggestions for improving the company’s key operational and finance activities and internal controls. Additionally, the position is responsible for identifying and assisting in documenting existing internal finance and disclosure controls, implementing and documenting new internal controls, and establishing an internal monitoring function to audit the company’s compliance with such internal controls. The position will have a key role in assessing the company’s compliance with the requirements of the Sarbanes-Oxley Act of 2002. The position will be further called on to identify and implement finance department process improvements.
- 
+The Senior SOX compliance Analyst is responsible for preparing and implementing a risk-based audit plan to assess, report on, and make suggestions for improving the company’s key operational and finance activities and internal controls. Additionally, the position is responsible for identifying and assisting in documenting existing internal finance and disclosure controls, implementing and documenting new internal controls, and establishing an internal monitoring function to audit the company’s compliance with such internal controls. The position will have a key role in assessing the company’s compliance with the requirements of the Sarbanes-Oxley Act of 2002. The position will be further called on to identify and implement finance department process improvements. 
+
 The Senior SOX Compliance Anaylst reports to the [Senior Internal Audit Manager](https://about.gitlab.com/job-families/finance/internal-audit/#senior-manager-internal-audit).
  
 #### Job Grade
@@ -180,9 +192,75 @@ Additional details about our process can be found on our [hiring page](https://a
 
 <br>
 
-### Manager, Internal Audit and SOX
+### Internal Audit and SOX Manager
 
-The Manager, Internal Audit and SOX is responsible for preparing and implementing a risk-based audit plan to assess, report on, and make suggestions for improving the company’s key operational and finance activities and internal controls. The position will have a key role in assessing the company’s compliance with the requirements of the Sarbanes-Oxley Act of 2002. The Manager Internal Audit reports to the Senior Internal Audit Manager.
+The Internal Audit and SOX Manager is responsible for preparing and implementing a risk-based SOX audit plan to assess, report on, and make suggestions for improving the company’s key operational and finance activities and internal controls. The position will have a key role in assessing the company’s compliance with the requirements of the Sarbanes-Oxley Act of 2002. This position reports to the Vice President of Internal Audit.  
+
+#### Job Grade
+
+The Internal Audit and SOX Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+Market Justification: This individual will own the program management of Internal Audit and SOX programs. In the market, this type of role is equivalent to a manager level due to the level of management and influence over strategy and execution of large programs with significant impact. Based on market data there are over 100 companies that have this level with an average of two to three incumbents in the role. 
+
+#### Responsibilities
+
+* Plan and manage all aspects of the SOX Program
+* Play a key role in annual and semiannual financial risk assessment in coordination with the Internal Audit team members
+* Create and maintain SOX ready documentation including flow charts, control descriptions, in-scope system listing, SOC-1 reports, etc
+* Coordinate with the control owners to identity and document control changes
+* Coordinate with internal and external auditors and co-sourcing partners for controls testing and process walkthroughs to streamline impact on the business and align test results and yield efficiencies.
+* Lead implementation of a SOX project management tool and maintain the tool going forward
+* Reviewing, assessing, and evaluating reported control deficiencies, root causes, and planned corrective actions in conjunction with business process owners.
+* Recommend continuous improvements related to the Company’s key controls
+* Lead and manage various SOX meetings e.g. SOX working team, SOX Steering Group and other SOX meetings as required
+* Working closely with the IT and Security Compliance teams to ensure IT General Control and documentation and monitoring programs are consistent with SOX requirements.
+* Preparing materials and presenting SOX findings and assertions at SOX Steering Group
+* Continuously improve the SOX program to become more efficient and effective through optimization and automation.
+* Support internal audit projects as and when required
+
+
+
+#### Requirements
+
+* Minimum seven (7) years experience in SOX conducting internal audits, including minimum three (3) years of experience in Information Technology industry in internal / external audit preferred
+* Strong experience in project management, SOX business controls and IT General controls
+* Excellent knowledge of PCAOB and SEC requirements for a public company
+* Audit experience at a public accounting firm is considered as an asset
+* Knowledge of audit methodologies and frameworks and related governance concepts, tools, techniques, and best practices
+* Undergraduate degree in Business, Accounting or Finance
+* Chartered Accountant/ CPA /CIA certification preferred
+* Certified Information Systems Auditor (CISA), or Certified Fraud Examiner (CFE) designations are considered an asset
+* Excellent written and oral communication skills
+* Ability to communicate information in an understandable form to the right parts of the organization
+* Ability to work effectively in a team environment, both within Internal Audit and across other departments
+* Must be able to work in US and International time zones, when required
+* Ability to balance quality of work with speed of execution
+* Ability to use GitLab
+
+#### Performance Indicators
+
+- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
+
+
+#### Hiring Process
+
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/) with one of our Global Recruiters.
+- Next, candidates will be invited to schedule a first interview with our VP, Internal Audit
+
+
+
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+
+<br>
+
+### Manager, Internal Audit
+
+The Manager, Internal Audit and SOX is responsible for managing the Internal Audit and SOX team. Additionally, they prepare and implement a risk-based audit plan to assess, report on, and make suggestions for improving the company’s key operational and finance activities and internal controls. The Manager Internal Audit reports to the Senior Internal Audit Manager.
 
 #### Job Grade
 
@@ -190,12 +268,13 @@ The Manager, Internal Audit is a [grade 8](/handbook/total-rewards/compensation/
 
 #### Responsibilities
 
+* Lead and manage the Internal Audit and SOX analyst team 
 * Primary responsibility for determining, documenting and implementing the Company’s internal audit policies
 * Document financial processes and perform test of controls for SOX compliance and audits
 * Assist with the execution of the internal audit plan and timely completion of assigned audits
 * Assist with enterprise risk management activities
 * Recommend improvements related to the Company’s key controls
-* Work closely with external auditors
+* Work closely with external auditors and Internal Audit and SOX Manager
 * Must be able to work collaboratively with the operational accounting team and business functions
 * Responds to inquiries from the CFO, Controller, and company wide managers regarding financial results, special reporting requests and the like
 * Act as a subject matter expert, working with the business partners in accounting and other functions (e.g., legal, corporate development, stock administration) to identify financial risks associated with new or contemplated transactions and resolve complex accounting issues
@@ -228,29 +307,17 @@ The Manager, Internal Audit is a [grade 8](/handbook/total-rewards/compensation/
 
 #### Career Ladder
 
-The next step in the Manager, Internal Audit job family is to move to the Senior Internal Audit Manager job family.
+The next step in the Manager, Internal Audit job family is to move to the Senior Manager, Internal Audit role.
 
-#### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+### Senior Manager, Internal Audit 
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/) with one of our Global Recruiters.
-- Next, candidates will be invited to schedule a first interview with our Senior Internal Audit Manager
-- Candidates will then be invited to schedule a second round of interview with Principal Accounting Officer
--   Candidates will then be invited to schedule a final round of interview with our CFO.
-
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-
-<br>
-
-### Senior Internal Audit Manager
-
-The Senior Internal Audit Manager is responsible for performing individual internal audit projects, as part of the total internal audit plan. This responsibility includes developing internal audit scope, performing internal audit procedures, and preparing internal audit reports reflecting the results of the work performed. Work performed will include coverage of functional and operating units and focusing on financial, IT and operational processes. Additionally, the senior internal auditor performs follow-up on the status of outstanding internal audit issues. The senior internal auditor may often direct and review the work performed by other internal audit personnel, including resources from the co-sourcing firm.
-The Senior Internal Audit Manager reports to the [Principal Accounting Officer](https://about.gitlab.com/job-families/finance/pao-jf/).
+The Senior Manager, Internal Audit is responsible for performing individual internal audit projects, as part of the total internal audit plan. This responsibility includes developing internal audit scope, performing internal audit procedures, and preparing internal audit reports reflecting the results of the work performed. Work performed will include coverage of functional and operating units and focusing on financial, IT and operational processes. Additionally, the senior internal auditor performs follow-up on the status of outstanding internal audit issues. The senior internal auditor may often direct and review the work performed by other internal audit personnel, including resources from the co-sourcing firm.
+The Senior Manager, Internal Audit reports to the [VP, Internal Audit](#Vice President, Internal Audit).
 
 #### Job Grade
 
-The Senior Internal Audit Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Internal Audit is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -300,15 +367,15 @@ The Senior Internal Audit Manager is a [grade 9](/handbook/total-rewards/compens
 
 #### Career Ladder
 
-The next step in the Senior Internal Audit Manager job family is to move to the [Director, Internal Audit](https://about.gitlab.com/job-families/finance/internal-audit/#director-internal-audit) job family.
+The next step in the Senior Manager, Internal Audit job family is to move to the [Director, Internal Audit](https://about.gitlab.com/job-families/finance/internal-audit/#director-internal-audit) job family.
 
 #### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/) with one of our Global Recruiters.
-- Next, candidates will be invited to schedule a first interview with our Principal Accounting Officer.
-- Candidates will then be invited to schedule a second round of interview with our CFO.
+- Next, candidates will be invited to schedule a first interview with our VP, Internal Audit.
+
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
@@ -393,4 +460,72 @@ Candidates for this position can expect the hiring process to follow the order b
 - Successful candidates will subsequently be made an offer via email.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+
+## Vice President, Internal Audit
+The Vice President, Internal Audit reports directly to the chairman of the audit committee with a dotted line day to day control and administrative reporting relationship with the Chief Finance Officer. The Vice President, Internal Audit will be responsible for overall preparation and execution of a risk-based audit plan to assess, report on, and recommend improvements to the company’s key operational and finance activities and testing of internal controls. Additionally, the position is responsible for the Enterprise Risk Management (ERM) control environment and the initial identifying and assisting in documenting existing internal finance and disclosure controls, implementing and documenting new internal controls, and establishing an internal monitoring function to audit the company’s compliance with such internal controls.  Once documented, ownership for and changing internal control procedures will reside in the owner of the control.
+The ongoing testing and control review, including the ERM environment will be controlled by the Internal audit group.   The position will have a key role in assessing the company’s compliance with the requirements of the Sarbanes-Oxley Act of 2002, along with the PAO organization. The position will be further called on to identify and implement finance department process improvements. Once documented, ownership for and changing internal control procedures will reside in the owner of the control.
+
+### Job Grade
+The Vice President, Internal Audit is a [grade #12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+## Responsibilities
+* Overall responsibility for the Yearly Internal Audit Plan approved by the Audit Committee and quarterly updates and reporting package to the Audit Committee.
+* Initial documentation of GitLab SOX controls, processes, and recommends additional controls where control deficiencies are identified.
+* Is the subject matter expert on controls with GitLab business partners, audit committee, and C-Suite executives.
+* Build and manage a high functioning, distributed team of direct reports for operational and financial risk audits.
+* Manages an intern program to bring on new personnel to train and to fit into the accounting/finance functions.
+* Works with the Legal and Technical Accounting teams to identify related party companies from inquiries from the Board and C-Suite team.
+* Identify, understand, and document processes and procedures surrounding the ERM and internal control areas. Continually monitor and update the assessment of the control environment, keeping abreast of significant control issues, trends and developments.
+* Develop test plans and coordinate the performance of management testing of internal controls required by Sarbanes-Oxley.
+* Identify and assess the implementation of new controls as needed.
+* Responsible for conducting investigations and/or review of areas as directed by the Audit Committee and/or WhistleBlower events or Fraud identification.
+* Prepare and update a comprehensive risk-based audit plan in coordination with the Audit Committee for evaluating and testing the effectiveness of controls in place to manage significant risk exposures, ensure the integrity and reliability of information and financial reporting, safeguard company assets, and comply with laws and regulations.
+* Identify and design anti-fraud criteria and controls.
+* Establish procedures and plan for conducting internal control audits for financial risks or operational efficiency.
+* Report findings to senior management and the company’s audit committee.
+* Understand the requirements of the Sarbanes-Oxley Act of 2002 (and any related SEC pronouncements) and assist in maintaining processes and functions to help ensure compliance with such requirements, working with the PAO organization.
+* Coordinate activities with external auditors to support their audit and review procedures.
+* Participate in disclosure committee meetings.
+* Review finance department business processes and suggest ways to improve such processes.
+Other duties, as directed by the Audit Committee and/or the Chief Financial Officer:
+* Identify and Review Financial Risks within the Company.
+* Develop Audit plans that will be approved by the Audit Committee. 
+* Handle other audits or reviews as directed by the Audit Committee or Chief Financial Officer.
+
+## Requirements
+* Ability to use GitLab
+* Previous management experience; ability to contribute to the career development of staff and a culture of teamwork and adherence to the Culture within GitLab.
+* Comprehensive knowledge of auditing practices, procedures, and principles, sufficient to interpret and analyze complex concepts and apply them in innovative ways. Skills and knowledge should include an extensive understanding of financial, operational, market and credit risk. Should have expert knowledge of generally accepted auditing standards in the US.
+* Capability and desire to evaluate the effectiveness of management in their stewardship of GitLab’s resources and their compliance with established corporate policy and procedures, including corporate governance, code of conduct standards, and business ethics and conduct policy.
+* Creative approaches and solutions necessary to solve complex problems.
+* Strong written and verbal communication skills with experience interacting with and presenting to senior management-level personnel.
+* The candidate must have excellent interpersonal skills and will serve as a member of the senior management team.
+* He/she should be driven to deliver quality results on time, with a high degree of integrity, in a highly ethical and professional manner.
+* The candidate should be self-reliant and have strong initiative as well as possess solid business judgment.
+* He/she must be resourceful and strategic and possess excellent analytical abilities.
+* Able to utilize Best Practices on recommendations and audit findings.
+* Have a mix of public and software industry experience. 
+* CPA and previous experience as an executive.
+
+### Performance Indicators
+* Development of comprehensive audit plans
+* ERM experience
+* Completing tasks and audits timely and efficiently
+* Utilizing Best Practices related to audit findings and recommendations.
+* Approval ratings based on surveys above 80% in the first year, moving to 90% in subsequent years}
+
+### Career Ladder
+The next step in the Vice President Internal Audit job family is to move to a higher level role which is not yet defined at GitLab.
+
+### Hiring Process
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+* Next, candidates will be invited to schedule a 45 minute interview with our PAO
+* Next, candidates will be invited to schedule a 45 minute interview with our CFO.
+* Next, candidates will be invited to schedule a 45 minute interview with our CLO.
+* Next, candidates will be invited to interview with our Audit Partner.
+* Finally, candidates will be invited to interview with the Chairman of the Audit Committee.
+Successful candidates will subsequently be made an offer via phone and email.
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 

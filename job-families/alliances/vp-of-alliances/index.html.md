@@ -23,6 +23,7 @@ The VP of Alliances is a [grade 12](/handbook/total-rewards/compensation/compens
 * Design, develop and execute engagement plans with Alliance key stakeholder while tracking Key Performance Indicators (KPI’s)
 * Coordinate and collaborate with cross-functional organizations within GitLab to include marketing, products, finance, legal, sales, engineering and people operations
 * Manage each stage of the alliance lifecycle and monitor the ROl and risk for both partners
+* 1. Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 
 ## Requirements
 * 6-8 years of senior leadership (VP or C-level) in planning and closing partnership deals valued at over $50M with enterprise technology companies

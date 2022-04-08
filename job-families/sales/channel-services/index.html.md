@@ -26,10 +26,11 @@ The Senior Channel Services Manager is a [grade 7](/handbook/total-rewards/compe
 * Experience building channel services & practices in SaaS/subscription models.
 * Strong presentation and written communications skills. Previous experience enabling partners to deliver services that grow revenue, expand customer footprint and drive renewals.
 * Excellent strategic planning, project management, communication and presentation skills.
-* 7-10 years of working experience in partner management, training, product marketing, professional services, or product management in the high-tech industry
+* Demonstrated progressive working experience in partner management, training, product marketing, professional services, or product management in the high-tech industry
 * BS/BA required or equivalent experience; MBA a plus
 * Experience in the DevOps space a plus
 * Ability to use GitLab
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 
 ## Channel Services Manager
 
@@ -52,7 +53,7 @@ The Channel Services Manager is a [grade 6](/handbook/total-rewards/compensation
 * Must demonstrate the capability to excel within a cross-functional team environment.
 * Strong presentation and written communications skillsPrevious experience enabling partners to deliver services that grow revenue, expand customer footprint and drive renewals.
 * Excellent strategic planning, project management, communication and presentation skills.
-* 7-10 years of working experience in partner management, training, product marketing, professional services, or product management in the high-tech industry
+* Demonstrated progressive working experience in partner management, training, product marketing, professional services, or product management in the high-tech industry
 * BS/BA required or equivalent experience; MBA a plus
 * DevOps experience a plus
 * Ability to use GitLab
@@ -75,4 +76,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Phone screen with a GitLab Recruiting team member
 2. Video Interview with the Hiring Manager
 3. Team Interviews with 1-4 teammates
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

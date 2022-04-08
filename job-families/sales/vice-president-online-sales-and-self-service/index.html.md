@@ -41,6 +41,7 @@ The VP, Online Sales and Self Service is a [grade 12](/handbook/total-rewards/co
 * Polished presentation skills
 * Ability to handle a fast-paced environment and ambitious workload
 * Bachelor degree
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ## Performance Indicators 
 
@@ -66,4 +67,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to scheduled interviews with members of our Fulfillment and Growth teams 
 * Finally, candidates will be asked to interview with our Chief Revenue Officer
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
