@@ -61,19 +61,58 @@ The Senior Backend Engineer is a [grade 7](/handbook/total-rewards/compensation/
 ## Specialties
 Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is at GitLab here.
 
-### Distribution
-The Distribution team closely partners with our greater engineering organization to build, configure and automate GitLab deployments. GitLab's distribution team is tasked with creating a seamless installation and upgrade experience for users across a multitude of platforms.
+### Distribution:Build
 
-Distribution engineering regularly interfaces with broader development teams in supporting newly created features. Notably, our infrastructure team is the distribution team's biggest internal customer, so there is significant team interdependency. The Distribution team is involved with diverse projects and tasks that include assisting community packaging efforts. This is reflected in the job role:
-* Development and maintenance of Cloud Native GitLab deployment tooling and upgrade methods.
-* Support Omnibus GitLab package installations across multiple Linux based Operating Systems.
-* Experience with various Cloud provider deployment methods including AWS Cloudformation, GCP Deployment Manager, Azure Resource Manager.
+The Build team closely partners with our greater engineering organization to build and distribute GitLab services. The Build team is tasked with ensuring the components that make up GitLab are up to date, license compliant, and available for our users’ platforms and architectures. This group manages the build pipelines, researches support for new services, platforms, and architectures, as well as maintains existing ones. We strive to respond efficiently to build failures, security results, and dependency changes in order to ensure a safe reliable product for our users.
+
+Distribution Build engineering regularly interfaces with broader development teams in supporting newly created features. Notably, the Distribution Deploy team is the Build team's biggest internal collaborator, so there is significant team interdependency. The Distribution Build team is involved with diverse projects and tasks that include assisting community packaging efforts.
 
 #### Requirements
+
+* Experience with building Docker images and docker build tooling
+* Extensive Linux experience, comfortable between Debian and RHEL based systems
+* Experience building and packaging archives such as .deb and .rpm
+* Familiar with building and packaging cloud native applications
+* Familiar with multi-stage build systems
+* Experience using Continuous Integration systems (e.g., GitLab CI, Jenkins, Travis).
+
+#### Responsibilities
+
+* Research for the support of new clouds, platforms, architecture, and components
+* Access controls, permissions, and CVE patches
+* Dependency updates
+* License management
+* Submissions to Partners for validations/certifications
+* The install, update, and upgrade pages
+* Build and own the infrastructure used for creating the various installation methods
+* Maintaining infrastructure used in Distribution
+
+### Distribution:Deploy
+
+Deploy team closely partners with our greater engineering organization to configure and automate GitLab deployments.
+Deploy team is tasked with delivering an intuitive, clear, and frictionless installation experience, followed by smooth, seamless upgrade and maintenance processes for deployments of any scale. We strive to deliver ongoing operational behaviors for scaling, little to zero downtime upgrades, and highly reliable experiences for not only instance administrators but their users.
+
+Distribution Deploy engineering regularly interfaces with broader development teams in supporting newly created features.
+Notably, our infrastructure team is the deploy team's biggest internal customer, so there is significant team interdependency.
+The Distribution Deploy team is involved with diverse projects and tasks that include assisting community packaging efforts.
+
+#### Requirements
+
 * Experience with Docker and Kubernetes in production use cases
 * Chef experience (writing complex cookbooks from scratch, custom providers, custom resources, etc.)
 * Extensive Linux experience, comfortable between Debian and RHEL based systems
-* Experience building and packaging archives such as .deb and .rpm
+* Experience running applications at scale in Kubernetes
+* Experience transforming existing applications to cloud native oriented applications
+
+#### Responsibilities
+
+* Initial installation and composability for self-managed installations and GitLab.com
+* Upgrades / Downgrades
+* Scaling deployments
+* Migration between platforms or providers
+* Data lifecycle management
+* Secure configuration & communication
+* Research of clouds and platforms for integration to existing tools
 
 ### Package
 Package engineers are focused on creating and maintaining the dependency management system that extends GitLab to function as a universal package management tool. The Package team is also improving the [Container Registry](https://gitlab.com/gitlab-org/container-registry) and is responsible for items listed under [Package product category](/handbook/product/categories/#package-stage).
@@ -196,15 +235,15 @@ Growth: Analytics and Experimentation Engineers build, maintain, and integrate w
 
 ##### Nice to have
 * Proven experimentation platform development experience
-* Familiarity with third party experimentation tools 
+* Familiarity with third party experimentation tools
 * Experience with Snowplow
 * Frontend experience including HTML, CSS, and JavaScript frameworks (Vue.js preferred).
 
 ### Product Intelligence
-Senior Backend Engineers in the Product Intelligence group play a key role in implementing analytics and data collection tools within the GitLab product in a privacy-focused manner. 
-The group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. 
+Senior Backend Engineers in the Product Intelligence group play a key role in implementing analytics and data collection tools within the GitLab product in a privacy-focused manner.
+The group focuses on providing GitLab's team with data-driven product insights to build a better GitLab.
 
-The Senior Backend Engineer for Product Intelligence extends the Senior Backend Engineer requirements with these additional requirements and responsibilities. 
+The Senior Backend Engineer for Product Intelligence extends the Senior Backend Engineer requirements with these additional requirements and responsibilities.
 
 #### Requirements
 

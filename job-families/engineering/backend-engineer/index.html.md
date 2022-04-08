@@ -242,24 +242,58 @@ For Managers:
 
 ## Specialties
 
-### Distribution
+### Distribution:Build
 
-The Distribution team closely partners with our greater engineering organization to build, configure and automate GitLab deployments.
-GitLab's distribution team is tasked with creating a seamless installation and upgrade experience for users across a multitude of platforms.
+The Build team closely partners with our greater engineering organization to build and distribute GitLab services. The Build team is tasked with ensuring the components that make up GitLab are up to date, license compliant, and available for our users’ platforms and architectures. This group manages the build pipelines, researches support for new services, platforms, and architectures, as well as maintains existing ones. We strive to respond efficiently to build failures, security results, and dependency changes in order to ensure a safe reliable product for our users.
 
-Distribution engineering regularly interfaces with broader development teams in supporting newly created features.
-Notably, our infrastructure team is the distribution team's biggest internal customer, so there is significant team interdependency.
-The Distribution team is involved with diverse projects and tasks that include assisting community packaging efforts.
-This is reflected in the job role:
-* Development and maintenance of Cloud Native GitLab deployment tooling and upgrade methods
-* Support Omnibus GitLab package installations across multiple Linux based Operating Systems
-* Experience with various Cloud provider deployment methods including AWS Cloudformation, GCP Deployment Manager, Azure Resource Manager
+Distribution Build engineering regularly interfaces with broader development teams in supporting newly created features. Notably, the Distribution Deploy team is the Build team's biggest internal collaborator, so there is significant team interdependency. The Distribution Build team is involved with diverse projects and tasks that include assisting community packaging efforts.
 
 #### Requirements
+
+* Experience with building Docker images and docker build tooling
+* Extensive Linux experience, comfortable between Debian and RHEL based systems
+* Experience building and packaging archives such as .deb and .rpm
+* Familiar with building and packaging cloud native applications
+* Familiar with multi-stage build systems
+* Experience using Continuous Integration systems (e.g., GitLab CI, Jenkins, Travis).
+
+#### Responsibilities
+
+* Research for the support of new clouds, platforms, architecture, and components
+* Access controls, permissions, and CVE patches
+* Dependency updates
+* License management
+* Submissions to Partners for validations/certifications
+* The install, update, and upgrade pages
+* Build and own the infrastructure used for creating the various installation methods
+* Maintaining infrastructure used in Distribution
+
+### Distribution:Deploy
+
+The Deploy team closely partners with our greater engineering organization to configure and automate GitLab deployments.
+The Deploy team is tasked with delivering an intuitive, clear, and frictionless installation experience, followed by smooth, seamless upgrade and maintenance processes for deployments of any scale. We strive to deliver ongoing operational behaviors for scaling, little to zero downtime upgrades, and highly reliable experiences for not only instance administrators but their users.
+
+Distribution Deploy engineering regularly interfaces with broader development teams in supporting newly created features.
+Notably, our infrastructure team is the deploy team's biggest internal customer, so there is significant team interdependency.
+The Distribution Deploy team is involved with diverse projects and tasks that include assisting community packaging efforts.
+
+#### Requirements
+
 * Experience with Docker and Kubernetes in production use cases
 * Chef experience (writing complex cookbooks from scratch, custom providers, custom resources, etc.)
 * Extensive Linux experience, comfortable between Debian and RHEL based systems
-* Experience building and packaging archives such as .deb and .rpm
+* Experience running applications at scale in Kubernetes
+* Experience transforming existing applications to cloud native oriented applications
+
+#### Responsibilities
+
+* Initial installation and composability for self-managed installations and GitLab.com
+* Upgrades / Downgrades
+* Scaling deployments
+* Migration between platforms or providers
+* Data lifecycle management
+* Secure configuration & communication
+* Research of clouds and platforms for integration to existing tools
 
 ### Package
 
@@ -440,7 +474,7 @@ Engineering Productivity Engineers have the following job-family performance ind
 1. 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters.
 2. 60 minute behavioral interview with the Engineering Manager, Engineering Productivity.
 3. 50 minute behavioral interview with two Quality team members with at least 1 Backend Engineer, Engineering Productivity
-4. 90 minute Ruby-based technical interview. 
+4. 90 minute Ruby-based technical interview.
 4. 50 minute behavioral interview with the VP of Quality.
 
 ### Memory
