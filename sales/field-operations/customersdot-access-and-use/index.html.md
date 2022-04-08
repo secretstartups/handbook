@@ -35,9 +35,9 @@ It is important to know who received the license for further troubleshooting as 
 
 ### Logging in
 
-To get access, file an access request for customers.gitlab.com ([example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/14359)).
+To get access, file an access request for [customers.gitlab.com/admin/](https://customers.gitlab.com/admin/sign_in) ([example access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/14359)).
 
-Once access is granted, either go to https://customers.gitlab.com/admin/sign_in and click “Sign in with Okta” or go to your Okta App and look for the Customers Portal App.
+Once access is granted, either go to [customers.gitlab.com/admin/](https://customers.gitlab.com/admin/sign_in) and click “Sign in with Okta” or go to your Okta App and look for the Customers Portal App.
 
 ### Available Information in CustomersDot
 
@@ -58,10 +58,12 @@ To see license data in CustomersDot:
    1. User count
    1. Link to Zuora subscription  
 
+This [CustomersDot video tutorial](https://gitlab.edcast.com/insights/card-e7589a95-0229-4d20-9c54-ee84750020df) walks through an example of how to find the license details for a particular customer. 
+
 
 ### Find seat reconciliations for a customer
 
-1. Login to customers.gitlab.com/admin using Okta
+1. Login to [customers.gitlab.com/admin/](https://customers.gitlab.com/admin/sign_in) using Okta
 1. Click on Reconciliations
 1. Search for the customer using the search box. Make sure you are searching for the name as it is in Salesforce.
 1. Any reconciliations for the customer will be returned, and the following information:
@@ -79,7 +81,7 @@ To see license data in CustomersDot:
 
 The following process allows you to view usage data for all servers with a given license installed.
 
-1. Login to customers.gitlab.com/admin using Okta
+1. Login to [customers.gitlab.com/admin/](https://customers.gitlab.com/admin/sign_in) using Okta
 1. Click on Licenses
 1. Search for the customer using the search box. Make sure you are searching for the name as it is in Salesforce.
 1. All licenses for the customer will be returned, use the issued and expiry dates to determine which is the active license.
