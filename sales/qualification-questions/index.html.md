@@ -265,19 +265,16 @@ The key to identifying more GitLab Premium and GitLab Ultimate opportunities is 
 *  If only a group, what is preventing you from bringing on the entire company at this time?
 
 ### Competing/Selling Against GitHub and GitHub Actions
-*  Review the battle card and discovery questions [here](https://about.gitlab.com/devops-tools/github-vs-gitlab/decision-kit/) 
+*  Review the battle card and discovery questions [here](https://about.gitlab.com/devops-tools/github-vs-gitlab/) 
 
 ### Competing/Selling Against Microsoft Azure DevOps
-*  Review the battle card and discovery questions [here](/devops-tools/azure-devops-vs-gitlab/decision-kit/)
+*  Review the battle card and discovery questions [here](/devops-tools/azure-devops-vs-gitlab/)
 
 ### Competing/Selling against Jenkins
-*  Review the battle card and discovery questions [here](/devops-tools/jenkins-vs-gitlab/decision-kit/) 
+*  Review the battle card and discovery questions [here](/devops-tools/jenkins-vs-gitlab/) 
 
 ### Competing/Selling against BitBucket
-*  Review the battle card and discovery questions [here](/devops-tools/bitbucket-vs-gitlab/decision-kit/) 
-
-### Competing/Selling against Checkmarx
-*  Review the battle card and discovery questions [here](https://about.gitlab.com/devops-tools/checkmarx-vs-gitlab/) 
+*  Review the battle card and discovery questions [here](/devops-tools/bitbucket-vs-gitlab/)
 
 ### Customer is Using Jira
 *  How would you describe the current implementation of Jira within your organization?

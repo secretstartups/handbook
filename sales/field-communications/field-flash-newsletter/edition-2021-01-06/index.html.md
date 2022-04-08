@@ -43,11 +43,7 @@ Learn how the U.S. Army Cyber School created secure, collaborative coursework wi
 1. [GitLab Certified DevOps Professional](https://about.gitlab.com/services/education/gitlab-certified-devops-pro/)
 
 ----
-**The Competitive Intelligence team made updates to more than 8 competitive resources last month** in order to keep information updated and comprehensive for your use in conversations with customers and prospects. Some highlights include:
-1. [JFrog Artifactory Analysis](https://about.gitlab.com/devops-tools/jfrog-vs-gitlab/jfrog-artifactory/) - Now provides a more detailed comparison between JFrog and GitLab Package Management.
-1. [GitLab vs. Veracode Page Update](https://about.gitlab.com/devops-tools/ca-veracode-vs-gitlab/) - Added details about GitLab's competitive strengths and weaknesses against Veracode
-1. [GitLab vs. GitHub SAST](https://about.gitlab.com/devops-tools/github-vs-gitlab/devsecops-missing-github-capabilities/) - Added a new table comparing GitHub Code Scanning to GitLab SAST
-1. [GitLab vs. Azure Multistage Pipelines](https://about.gitlab.com/devops-tools/azure-devops-vs-gitlab/multi-stage-pipelines/) - Added a comparison between GitLab and Azure DevOps approach to executing multi-stage pipelines
+**The Competitive Intelligence team made updates to more than 8 competitive resources last month** in order to keep information updated and comprehensive for your use in conversations with customers and prospects. 
 
 [See this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/614) for the full list of updates. Remember that you can find all competitive content on the [DevOps Tools Landscape page](https://about.gitlab.com/devops-tools/).
 
