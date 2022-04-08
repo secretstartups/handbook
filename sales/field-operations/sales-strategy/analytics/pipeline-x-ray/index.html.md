@@ -17,7 +17,11 @@ The X-Ray dashboard provides a forward looking perspective of current and future
 
 ### Access
 
-Please reach out to [@nfiguera](https://gitlab.com/nfiguera) or another member of the SS&A team.
+To comply with the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/), please submit an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) to the Sisense SAFE Enviroment. 
+
+Access to the X-Ray dashboard is automatically awarded to all members of the SAFE Sisense group. 
+
+Please reach out to [@nfiguera](https://gitlab.com/nfiguera) if there are any open questions.
 
 ### Metrics
 
@@ -28,31 +32,40 @@ Please reach out to [@nfiguera](https://gitlab.com/nfiguera) or another member o
 - Open Pipe by Stage 1+, 3+, 4+
 - Coverage by Stage 1+, 3+, 4+
 - Pipeline Generation within Quarter (Net ARR & deal count)
-- Historical (between last 4 to 2 quarters) average of coverage metrics
+- Historical values are based on fitted lines to the last 4 quarters
 
-Most of this metrics are available for current quarter, next quarter and next quarter + 1.
+Most of this metrics are available for current quarter, current quarter + 1 and next quarter + 2.
+
+An example of how to read the dashboard can be found in this introductory deck. 
 
 ### Business Cuts
 
-- User Segment (aligns with VP level)
-- User Region (aligns with RD / ASM level)
+- User Segment (aligns with CRO level)
+- User Region 
+- User Area (aligns with ASM level)
 - Order Type (group into Growth / New)
 - Sales Qualified Source
 
-### Historical coverages
-
-To calculate the coverage metrics we use the [sfdc_opportunity_snapshot_history_xf](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.wk_sales_sfdc_opportunity_snapshot_history_xf) table which contains a copy of the opportunity object by day. 
-
-For each day of Fiscal Quarter, we calculate the coverage metric of previous quarters at the same day. 
+### Coverage calculation
 
 Coverage is calculated at the specific cut level (e.g. Segment / Region) as `Open Pipe Stage X+ / Remainder to Target`.
 
 **Remainder to Target** is calculated as  `Target - Booked Net ARR` for current quarter, and as `Total Booked at end of Quarter - Booked Net ARR` for historical quarters.
 
-### Nuances / Considerations
+#### Nuances / Considerations
 - Coverage to Remainder to Target is only calculated if the remainder is more than 10k USD
 - **Historical Coverages** are calculated as `Open Pipeline with Stage X+ at day Y / Total Booked at end of Quarter`
 - **Historical Win rates** are just the inverse of Historical Coverages as `Win Rate = 1 / Coverage`
+
+### Historical coverages
+
+To calculate the coverage metrics we use the [sfdc_opportunity_snapshot_history_xf](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.wk_sales_sfdc_opportunity_snapshot_history_xf) table which contains a copy of the opportunity object by day. 
+
+For the last 4 fiscal quarters, we calculate the coverage metric of each day and fit a polynomial curve to them. 
+
+![Historical coverages curve fitting](coverage_curve_fitting.jpg "Historical Coverage Curve Fitting")
+
+The resulting coverages curves are used as a baseline against which to compare our QTD coverage (QTD is expected to be above that historical curve).
 
 ### Refresh rates
 
