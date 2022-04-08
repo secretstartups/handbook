@@ -16,11 +16,11 @@ description: "To drive sales success by providing data, reporting, analytics, an
 
 To drive sales success by providing data, reporting, analytics, and actionable insights to leadership across GitLab
 
-### Working with Sales Strategy
+## Working with Sales Strategy
 
 Create an issue in the [analytics project](https://gitlab.com/gitlab-com/sales-team/field-operations/analytics/issues) and use the `Sales Strategy` label
 
-### Team Members
+## Team Members
 
 | Team Member | Role | GitLab Handle |
 | ------ | ------ | ------ | 
@@ -29,19 +29,21 @@ Create an issue in the [analytics project](https://gitlab.com/gitlab-com/sales-t
 | David Mack | GTM Planning & Operations Manager | [@DavidMack](https://gitlab.com/DavidMack) |
 | Noel Figuera | Manager, Sales Analytics | [@nfiguera](https://gitlab.com/nfiguera)  |
 | Alex Cohen | Director GTM Planning & Operations | [@alex.cohen](https://gitlab.com/alex.cohen) | 
-| Michael Arntz | Sales Strategy Manager | [@nfiguera](https://gitlab.com/marntz)  |
-| Matthew Ramirez | Manager, Sales Strategy | [@nfiguera](https://gitlab.com/matthewaramirez)  |
-| Jack Caine | Senior Manager, Sales Strategy | [@nfiguera](https://gitlab.com/jcaine)  |
+| Michael Arntz | Sales Strategy Manager | [@marntz](https://gitlab.com/marntz)  |
+| Matthew Ramirez | Manager, Sales Strategy | [@matthewaramirez](https://gitlab.com/matthewaramirez)  |
+| Jack Caine | Senior Manager, Sales Strategy | [@jcaine](https://gitlab.com/jcaine)  |
 
-### Sales Headcount Change Management Process
+## Sales Headcount Change Management Process
 
 Please find instructions on how to initiate a Sales Headcount change [here](/handbook/sales/field-operations/sales-strategy/sales-headcount)
 
-### Projects
+## Projects
 
 You can find information about specific projects [here](/handbook/sales/field-operations/sales-strategy/projects)
 
-### Reporting & Analytics
+## Sales Analytics
+
+### Data products
 
 The SS&A team is reponsible of maintaining a set of key reports for the Sales organization.
 
@@ -52,6 +54,6 @@ The SS&A team is reponsible of maintaining a set of key reports for the Sales or
 | [SS&A - Pipeline Velocity & Generation](https://app.periscopedata.com/app/gitlab:safe-dashboard/919343/SS&A---Pipeline-Velocity-&-Generation)|  Pipeline and Pacing progression by day of current and previous fiscal quarters | 
 | [SS&A - Pipeline Movement Tracker](https://app.periscopedata.com/app/gitlab:safe-dashboard/919348/SS&A---Pipeline-Movement-Tracker) | Helps to identify root causes of Open Pipeline and Pipeline Generation movements |
 
-### FY22 Field Planning
+## FY22 Field Planning 
 
 Placeholder for the FY22 Planning file
