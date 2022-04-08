@@ -16,10 +16,10 @@ This page details processes and general guidelines specific to the Executive Bus
 ## Executive Business Administrator Team
 
 ### E-Group Member EBA's
-* Cheri Holmes (Chief of Staff) supporting Michael McBride (CRO) on an interim basis
-* xxx supporting Craig Mestel (CMO) and Melissa Smolensky (VP of Corporate Marketing)
+* Alexa Schrauth (Sr. EBA) supporting Michael McBride (CRO) on an interim basis
+* TBH supporting Craig Mestel (CMO) and Melissa Smolensky (VP of Corporate Marketing)
 * Cindy King (Sr. EBA) supporting Brian Robins (CFO) 
-* To Be Hired (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) 
+* TBH (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) 
 * Kristie Thomas (Staff EBA) supporting Sid Sijbrandij (CEO) & Stella Treas (Chief of Staff)
 * Jennifer Garcia (EBA) supporting David DeSanto (VP of Product), Eric Johnson (CTO), and Johnathan Hunt (VP of Security)
 * Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO)
