@@ -5,7 +5,7 @@ title: "Data Engineering"
 
 ## Data Engineer
 
-This role requires an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of strong quality data insights to drive business decisions in all areas of GitLab. Data Engineers are essentially software engineers who have a particular focus on data movement and orchestration.
+The Data Engineer job family requires an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of data insights to support business decisions in all areas of GitLab. Data Engineers are essentially software engineers who have a particular focus on data movement and orchestration.
 
 ### Job Grade
 
@@ -60,6 +60,29 @@ The Senior Data Engineer is a [grade 7](/handbook/total-rewards/compensation/com
 * Great communication: Regularly achieve consensus amongst teams
 * Perform technical interviews
 
+## Staff Data Engineer
+
+The Staff Data Engineer role extends the [Senior Data Engineer](#responsibilities) role.
+
+### Job Grade
+
+The Staff Data Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+Business Justification: The staff level requires deep technical and functional knowledge that contributes to the overall direction and impacts multiple teams, including working directly with external stakeholders. Market data outlines that a significant number of organizations have approximately 3-4 staff level individual contributors. 
+
+### Responsibilities
+
+* All requirements of a Senior Data Engineer
+* Ship large features and foundational improvements with minimal guidance and support from other team members
+* Support other data team members with the shipping of new features by setting direction and providing guidance
+* Solve technical problems of the highest scope and complexity
+* Exert significant influence on the long-range goals
+* Define and extend our internal standards for style, maintenance, and best practices for a high-scale data platform
+* Represent GitLab and its values in public communication around broad initiatives, specific projects, and community contributions
+* Interact with customers and other external stakeholders as a consultant and spokesperson for the work of your team
+* Provide mentorship for all on your team to help them grow in their technical responsibilities
+* Propose ideas to improve the scale, performance, and capabilities of the Data Platform
+
 ## Performance Indicators (PI)
 
 *   [SLO achievement per data source](/handbook/business-ops/metrics/#slo-achievement-per-data-source)
@@ -69,7 +92,8 @@ The Senior Data Engineer is a [grade 7](/handbook/total-rewards/compensation/com
 *   [Mean Time to Repair (MTTR)](/handbook/business-ops/metrics/#mean-time-to-repair-mttr)
 
 ## Hiring Process
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
 
 * Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters
 * Next candidates will be invited to complete an assessment
@@ -81,4 +105,4 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ### Career Ladder
 
-The next step in the Data Engineer job family is to move to the [Data Management](/job-families/finance/manager-data/) job family. 
+The next step in the Data Engineer job family is to move to a Principal Job Level (`WIP`) or into the [Data Management](/job-families/finance/manager-data/) job family. 
