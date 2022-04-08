@@ -508,6 +508,10 @@ These videos walking through the triage process were recorded and uploaded to th
 - [Quality Engineering On-call Rotation and Debugging QA failures](https://youtu.be/zdIEbl_DPHA) ([private video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) on GitLab Unfiltered)
   - Overview of QE on-call rotation process, GitLab deployment process and how to debug failed E2E specs with examples.
 
+## Other references
+
+You can find some [general tips for troubleshooting problems with GitLab end-to-end tests in the development documentation](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/troubleshooting.html).
+
 [quarantining tests]: #quarantining-tests
 [`:flaky`]: #flaky-test
 [`:bug`]: #bug-in-the-application
