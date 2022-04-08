@@ -14,7 +14,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 
 ## Scheduling for Michael McBride, Chief Revenue Officer
 
-* All meeting requests routed through the EBA to the CRO, Cheri Holmes and are scheduled through her
+* All meeting requests routed through the (interim) EBA to the CRO, Alexa Schrauth and are scheduled through her.
 * Prefers “appropriate length” conversations, so short meetings are okay on the calendar.  If a topic only needs 10 mins, book 10 mins instead of 30, etc.
 * Include Meeting Agendas in invites / make sure the team knows to include this with requests for time.
 * Flexible with late evening calls for Asia or Australia - check with him first.
