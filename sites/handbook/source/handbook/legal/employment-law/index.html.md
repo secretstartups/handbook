@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "Employment Law at GitLab"
 ---
 
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
