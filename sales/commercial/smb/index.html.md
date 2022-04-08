@@ -121,7 +121,7 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 
 **During the meeting Account Executive summarizes:**
 
-- Context of what has happened on the oppty so far
+- Context of what has happened on the opportunity so far
 - Who is your point of contact (title, who do they report to, role & responsibility)
 - Why GitLab
 - Initiatives or goals
