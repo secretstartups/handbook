@@ -72,6 +72,20 @@ Clearly set expectations around communication in order to establish and align on
 
 ## Stories from Team Members
 
-As a next iteration, we will be working to gather several stories shared with us by GitLab team members to highlight the importance of cultural awareness. If you would like to add a story, please create a merge request (MR) to iterate upon this section and assign to `@glucchesi` and `@brittanyr`.
+### Discussing Cross-Cultural Communication
+
+Listen to the panel discussion on cross-cultural communication below hosted on 2022-03-23 with GitLab team members.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://youtu.be/XS4H_hVLF7o" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+**Key Session Takeaways**
+
+1. In remote spaces, intentioinality is important to build trust on teams. Ideas on how to do this include adding a social question to team meetings or hosting a social event to share about people's localities.
+1. Assuming positive intent when communicating async can help us recognize and have compassion for other's experiences.
+1. Everyone can be an ally and has a responsibility to check and fix their own biases when collaborating with others
 
 
