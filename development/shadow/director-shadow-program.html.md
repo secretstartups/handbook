@@ -23,6 +23,8 @@ Since then, I have been thinking of doing something similar but smaller in scale
 * Learning opportunities
 * Career development exploration
 
+Blog on one shadow's experiences in the program: [The engineering director shadow experience at GitLab](/blog/2022/04/01/engineering-director-shadow/)
+
 ### For the engineering director
 
 * Learning via reverse mentorship
