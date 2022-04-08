@@ -84,13 +84,11 @@ ssh gprd-psql-archive # opens a psql console on a replica
 
 #### DatabaseLabs
 
-##### Use postgres.ai (currently under evaluation) to work with a thin clone of the database (includes direct psql access to the thin clone)
+##### Use postgres.ai to work with a thin clone of the database (includes direct psql access to the thin clone)
 
-We currently evaluate postgres.ai which gives us the ability to work with a thin clone of the database. This has the benefit of providing a fully isolated read-write database for a single user. Thin clones are inexpensive to create and can be used and destroyed as needed.
+We have access to postgres.ai which gives us the ability to work with a thin clone of the database. This has the benefit of providing a fully isolated read-write database for a single user. Thin clones are inexpensive to create and can be used and destroyed as needed.
 
 With the extended setup, you'll be able to use a psql console on a thin clone, too. This is the most flexible way of working with the database, as this even allows you to e.g. create new tables (e.g. for intermediate results) as needed.
-
-For details on the evaluation, please see [database-team/team-tasks#4](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/47).
 
 #### Query plans and optimization
 
