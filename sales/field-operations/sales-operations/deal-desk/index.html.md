@@ -782,6 +782,36 @@ C.  **If the customer signs a renewal quote, but a true-up is required before th
 
 D.  If you have **multiple quote objects** under one opportunity, the quote you are using **must be marked Primary.**
 
+### Alliance Marketplace Private Offers
+
+Effective Friday, 2022-04-08, Deal Desk manages AWS and GCP Private Offer creation and acceptance. 
+
+#### Process Overview 
+
+- **All Private Offer requests must be made in chatter by tagging @Sales-Support on the related SFDC opportunity.** All Private Offer requests must include the following information:
+  - Customer's AWS or GCP Billing ID
+  - Customer Contact name and email address
+    - Note: This contact must have the necessary permissions to accept the Private Offer in the marketplace
+- After a Private Offer request is made, Deal Desk will review the request and confirm the quote is tagged appropriately for AWS/GCP and confirm the Order Form acceptance section also includes AWS or GCP marketplace language.
+- Deal Desk will then create the private offer and send the offer to the contact identified by the opp owner. Notification emails will be sent to the opp owner to track the offer status.
+- At time of acceptance, an email will be sent to the GitLab Team and Deal Desk will chatter the documentation to close the deal.
+- When the deal is Closed Won, the license key file/subscription details will be automatically sent to the 'Sold To' contact on the GitLab Order Form.
+
+#### Working with Deal Desk vs. Alliance Business Development Managers (ABDMs)
+
+Please note that Deal Desk handles only Private Offer creation, edits to Private Offers, and the acceptance of Private Offers. For any other matters related to Alliances deals, **Sales must work with the appropriate ABDM.** The Alliances team can provide assistance and best practices that are vital to a successful marketplace transaction. 
+
+To reach an ABDM, use the #a_aws_deal_registration or #a_gcp_deal_registration Slack channels.
+
+#### Alliance Deal/Private Offer Resources
+
+- Internal Handbook: 
+  - [Google Cloud Platform](https://gitlab-com.gitlab.io/alliances/alliances-internal/gcp/)
+  - [Amazon Web Services](https://gitlab-com.gitlab.io/alliances/alliances-internal/aws/)
+- Marketplace FAQ
+  - [Google Cloud Private Offers](https://docs.google.com/document/d/1S0k0T12xkXajpHt9uvl3YDA4OSOwS6qB9pHmRKiqCgA/edit#bookmark=id.5hmmfbjqr9xn)
+  - [Amazon Web Services Private Offer](https://docs.google.com/document/d/1S0k0T12xkXajpHt9uvl3YDA4OSOwS6qB9pHmRKiqCgA/edit#bookmark=id.ee7ef9xn6p1k)
+
 ### Opportunity Categorization
 
 The following fields are maintained by Deal Desk to distinguish standard vs. non-standard opportunities:
