@@ -107,7 +107,7 @@ Please reach out to Total Rewards for information on how to use your Income Prot
 
 ## Pension Introduction
 
-GitLab provides and contributes into an Auto-Enrollment personal pension scheme with [Scottish Widows](http://www.scottishwidows.co.uk/retirement/retirement-explained/basics/auto-enrolment/). GitLab is also working with [Oakley Financial](http://www.oakleyfinancial.com/) who are able to provide help and guidance should employees have any questions about the pension scheme. An email and telephone service is available and you can find the details in the [contacts](#contacts) section.
+GitLab provides and contributes into an Auto-Enrollment personal pension scheme with [Scottish Widows](http://www.scottishwidows.co.uk/retirement/retirement-explained/basics/auto-enrolment/). GitLab is also working with [Oakley Financial](https://oakleyifa.com/) who are able to provide help and guidance should employees have any questions about the pension scheme. An email and telephone service is available and you can find the details in the [contacts](#contacts) section.
 
 Please refer to the the [Company Pension Plan FAQ](https://drive.google.com/file/d/1BEADGm7sUbroEkxzGvB-DBIhMIbbLG46/view?usp=sharing) for additional information on the plan. Please note that all eligible team members will be auto-enrolled in the scheme. 
 
