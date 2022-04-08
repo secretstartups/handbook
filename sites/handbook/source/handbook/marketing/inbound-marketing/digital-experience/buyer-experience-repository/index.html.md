@@ -38,6 +38,26 @@ description: >-
 
 See the [Marketing Site Information Architecture Refresh epic](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/82) for single source of truth of pages being migrated to this repository. 
 
+### Requesting Help when the Information Architecture Refresh Impacts your Work
+
+Other keywords that may help folks find this section when searching the handbook:
+
+- Missing content on the marketing website
+- My changes in the website get overwritten
+- Can't find my files anymore
+- Files were moved
+- Information architecture migrated my content
+
+In order to meet the goals of the information architecture refresh and serve the business, the Digital Experience team will need to move existing content, and in some cases, remove existing content.
+
+We will do our best to find a solution that meets the business goals of the migration, and keeps your existing processes intact. We apologize in advance for any inconveniences incurred by this work. We will be doing our best to communicate with stakeholders in advance, but due to the scope of the migration, we may miss appropriate channels from time to time.
+
+If we have moved or removed your content and it's causing problems for you, your team, customers, or other stakeholders, here are steps you can take to escalate these issues to us:
+
+1. First, check the [Buyer Experience repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) and see if you can find corresponding YAML files for your content. The Web IDE editing experience will be the same as it was in the `www-gitlab-com` repository.
+1. If you are unable to find or edit your content, or have additional concerns, please start by opening an issue in the [Buyer Experience issues board](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues?sort=updated_desc&state=opened).
+1. For urgent requests, you can find our team in the `#digital-experience-team` Slack channel. 
+
 # Content Editing Experience 
 
 ### Where Content Exists
