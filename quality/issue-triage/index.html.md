@@ -193,6 +193,11 @@ Some UX-related issues have been identified as impacting our [System Usability S
 
 Additionally, we include UX bugs (identified with *both* the `~UX` `~"type::bug"` labels) in our list of SUS-Impacting issues.
 
+Note: SUS-impacting issues are intended to have an impact on the current product experience rather than on new feature additions. An issue will have the `SUS` label automatically applied if any of the SUS-impacting labels are used. However, there are exceptions: 
+- Issues with the combination `type::feature` and `feature::addition` indicate we are not making a change or improvement to an existing experience.
+- Issues with the `Actionable Insights::Exploration needed` label applied but the issue is not ready to be prioritized and added to the product.
+In these cases, you should replace the `SUS` label with the [`non-SUS`](https://gitlab.com/groups/gitlab-org/-/labels?subscribed=&search=non-sus) label and a severity label is not needed.
+
 #### UX debt
 
 As noted above, issues labeled as `~UX Debt` also have a severity (and additionally [priority](#priority)) label applied *without* an accompanying `~"type::bug"` label. [UX Debt](/handbook/engineering/workflow/#ux-debt) results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems. If you find yourself creating a UX debt issue that is higher than `~severity::3`, please talk to your stage group team about reincorporating that issue into the MVC.
