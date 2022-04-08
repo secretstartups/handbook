@@ -41,11 +41,8 @@ This working group will organize all the domain experts needed, surface critical
 
 ## Direction
 
-We intend to pursue FedRAMP Moderate certification. This is because:
+GitLab is pursuing FedRAMP authorization at the [Moderate Impact Level](https://www.fedramp.gov/understanding-baselines-and-impact-levels/#moderate-impact-level).
+We will evaluate demand for High once we attain Moderate.
 
-* Majority of demand we have seen is for Moderate, and the strong preference of some due to additional customer requirements of High.
-* Consequently starting at low will not unlock much revenue, and would delay our Moderate attainment.
-* Starting at High is a significantly heavier lift, and would delay initial FedRAMP certification.
-* From a comparison standpoint, 80% of SaaS services are Moderate.
-
-Once we have attained Moderate, we can evaluate demand for FedRAMP High.
+Further details of the FedRAMP plan, including anticipated or actual dates, cannot be shared publicly at this time.
+Team members can view details [in the internal handbook](https://internal-handbook.gitlab.io/engineering/fedramp-compliance/).
