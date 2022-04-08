@@ -37,6 +37,9 @@ At GitLab, team members have access to the [Growth and Development benefit](/han
 * A Frontend Engineer seeking a master's in computer science who is on a performance improvement plan or having discussions around underperformance.
 * If the tuition reimbursement budget has been reached, then your request may be denied, even if you meet eligibility requirements.
 
+## Company-directed Learning Opportunities
+
+The Growth and Development policy is meant to further team members' learning and growth. Company-directed learning opportunities, such as mandatory conferences or training that are required to fulfill their job duties, are not within the scope of the Growth and Development policy and should be budgeted for outside the policy. Such expenses will not be deducted from the team member's annual Growth and Development limit and should be paid for by GitLab rather than reimbursed to the team member.
 
 ## How to Apply For Growth and Development Benefits
 
@@ -71,7 +74,7 @@ For Your 4th Trimester applications, please notify Total Rewards that you would 
 
 **If the cost is [$1,000 USD or less](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 
-* Take a screenshot of the issue and follow the [Growth & Development Expensify reimbursement process](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
+* Take a screenshot of the issue and follow the [Growth & Development Expensify reimbursement process](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications). Please make sure the Growth & Development issue matches your Expensify claim amount. Your Expensify claim will be audited against the Growth & Development issue amount. 
 
 **If the cost is [over $1,000 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 * For conferences, workshops, professional memberships, please send the invoice to `growth-development@gitlab` once you have signed up. For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab`. Please see the Growth & Development [table](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
