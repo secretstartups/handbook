@@ -467,6 +467,18 @@ See instructions [here](/handbook/marketing/field-marketing/field-marketing-owne
 
 See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#instructions-for-closing-registration-for-a-workshop).  
 
+#### Adding and Removing Workshop Postings on the Regional Workshop Demo Pages
+
+We market our workshops on both the [GitLab events page](https://about.gitlab.com/events/) and via the below regional workshop/demo pages. The GitLab events page listings require an MR to add new events (see instructions [here](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)) and events will automatically drop off the page once the event date passes. But the regional workshop/demo pages require manual adjustment. When a workshop LP is created by Verticurl, they will add to the appropriate regional workshop/demo page once the LP is approved. When a workshop is completed and the FMC requests that Verticurl closes the LP, Verticurl will also remove the listing from the regional workshop/demo page. These Verticurl to do items are listed in the [Marketo LP issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_mkto_landing_page.md).
+
+- [AMER Workshop/Demo Page](https://page.gitlab.com/events-amer-enterprise.html)
+- [EMEA Workshop/Demo Page](https://page.gitlab.com/events-pd-emea.html)
+- [APAC Workshop/Demo Page](https://page.gitlab.com/events-pd-technical-apac.html)
+
+##### Instructions for Verticurl
+
+Verticurl will follow the instructions in [this video](https://www.youtube.com/embed/Vu3NOuiFwBE) to add and remove postings on the regional workshop demo pages.
+
 # Owned Tactics that Involve Collecting Addresses
 There are times that Field Marketing will run campaigns that involve building a landing page in Marketo in order to collect addresses for shipping swag. Examples of these instances are a 5k run, GitLab-hosted tasting event, direct mail campaigns, etc. When collecting addresses, please follow the below instructions for ensuring PII compliancy.
 
