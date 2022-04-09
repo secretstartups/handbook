@@ -148,21 +148,6 @@ The Company’s Vice President, Internal Audit will communicate to E-group and t
 
 <br>
 
-# Internal Audit Performance Measures
-
-To build and continually improve an effective internal audit function, GitLab establishes, the following key objectives for conducting internal audits, the outcome measures associated with each objective, and the activity measures that drive each outcome measure. A link connects each outcome measure with its corresponding formula and analysis of the formula.
-
-***Position Internal Audit as a change agent to improve controls**  
-1.	Percentage of Desktop procedures documented = Number of Desktop procedures completed / Number of desktop procedures required to be documented 
-1.	Percentage of controls tested = Number of controls tested / Total number of controls
-1.	Percentage of recommendations implemented = number of recommendations implemented / total recommendations x 100
-1.	Percentage of audits completed = Number of audits completed/ Total number of audits
-
-
-## Performance Measures for Accounting and Finance Function Related to Audit
-
-1. *Number of material audit adjustments*: The quarterly number of corrections to the financial statements made by suggestion of GitLab’s external auditors. 
-2. *Percentage of ineffective SOX Controls* : Percentage of controls that fail test of design and operating effectiveness. Percentage of ineffective SOX Controls = (number of ineffective controls / total controls) x 100
 
 
 # Contact the Internal Audit Team
