@@ -30,6 +30,7 @@ Aligning passionate TAMs with customers to ensure their success by...
 As outlined in [this article](https://www.forbes.com/sites/hillennevins/2020/01/21/what-are-your-big-rocks/?sh=191f218fae34), they are our priorities, our mission-critical objectives that we need to solve for in the coming year. We arrived at this list through TAM leadership discussions and final input from individual contributors.
 
 ### Big Rock 1: (Re)Define the TAM Role
+[Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/77) (GitLab Internal-Only)
 
 The goal of the TAM is to drive growth. However, the role of the TAM has become increasingly broad over the past few years, deterring from the growth conversation with customers.  As we have added more to the role (migration & infrastructure guidance, cross-functional escalation ownership, consultative support), the ability to focus as a TAM on growth has become increasingly challenging. 
 
@@ -42,6 +43,7 @@ Key areas of exploration:
 1. Escalation improvements; streamlining
 
 ### Big Rock 2: Expertise in driving CI and DevSecOps adoption & expansion
+[Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/78) (GitLab Internal-Only)
 
 In FY22 we put considerable focus into use case expansion.  The team have developed a well-rounded understanding of the use cases, but have not been given the space needed to become experts in driving any one use case.  In FY23 we will seek to become experts in driving CI and DevSecOps expansion and maturity, knowing these use cases are the key drivers for customer stickiness and growth. 
 
@@ -54,6 +56,7 @@ Key areas of exploration:
 1. Maturity scoring (customer)
 
 ### Big Rock 3: Deepen our customer engagement
+[Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/79) (GitLab Internal-Only)
 
 The TAM relationship with the customer has been architected primarily on engagement with GitLab admins, who are not responsible for platform adoption or business case value.  Due to the TAM being pigeon-holed into these admin conversations, we are often not engaging with the right people in order to ensure excellent customer experience, use case adoption and growth.  In FY23 we will seek to engage the development team leads and key users of the GitLab platform early and often, to ensure consistent growth strategies with our customers. 
 
