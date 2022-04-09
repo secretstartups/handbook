@@ -136,7 +136,6 @@ If you are interested in participating in an active working group, it is general
 * [API Vision](/company/team/structure/working-groups/api-vision/)
 * [Architecture Kickoff](/company/team/structure/working-groups/architecture-kickoff/)
 * [Category Leadership](/company/team/structure/working-groups/category-leadership/)
-* [China Service](/company/team/structure/working-groups/china-service/)
 * [Contribution Efficiency](/company/team/structure/working-groups/contribution-efficiency)
 * [Database Scalability](/company/team/structure/working-groups/database-scalability/)
 * [Demo & Test Data](/company/team/structure/working-groups/demo-test-data/)
@@ -162,6 +161,7 @@ If you are interested in participating in an active working group, it is general
 
 ## Past Working Groups (alphabetic order)
 
+* [China Service](/company/team/structure/working-groups/china-service/)
 * [CI Queue Time Stabilization](/company/team/structure/working-groups/ci-queue-stability/)
 * [Commercial & Licensing](/company/team/structure/working-groups/commercial-licensing/)
 * [Development Metrics](/company/team/structure/working-groups/development-metrics/)
