@@ -24,16 +24,16 @@ canonical_path: "/company/team/structure/working-groups/maint-first/"
 
 ## Business Goal
 
-Transition R&D teams into a steady prioritization state driven by backlog types, automated SLO guidelines & healthy prioritization ratios. Teams to start transition to this state after the completed the burn-down of their Reliability & Security debt backlog (estimate all teams by the end of May). 
+Transition R&D teams into a steady prioritization state driven by backlog types, automated SLO guidelines & healthy prioritization ratios. Teams to start transition to this state after the completed burn-down of their Reliability & Security debt backlog (estimate all teams by the end of May). 
 
-We will start with teams that are not in Engineering Allocations first with a goal of attaining this state for all R&D teams. Activation mechanisms:
-* Teams backlog slates containing overall view of all backlog types.
+Start with teams that are not in Engineering Allocations first with a goal of attaining overall R&D steady state. Activation mechanisms:
+* Teams backlog slates containing view of all backlog types.
   * Security
   * Reliability
   * UX / SUS
   * Bugs
-* Teams merged work type (historical & real time)
-* Stakeholders view of progress and ratio attainment
+* Teams merged work type slate (historical & real time)
+* Stakeholders slate, view of progress and ratio attainment
 * Automation guardrails to enforce hygiene & SLO
 * Handbook team dashboards
 
@@ -50,7 +50,7 @@ We will start with teams that are not in Engineering Allocations first with a go
 1. Handbook work & embed team dashboards in team pages
 1. Bot automation work
 1. Mature error budgets by May 30
-1. Overall Steady-state feature development achieved by June 15 
+1. Set Development department-wide Steady state (tentative June 15)
 1. Other handbook cleanup
 
 
