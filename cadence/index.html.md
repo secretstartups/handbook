@@ -55,6 +55,7 @@ Below are the cadences we have at GitLab:
 - [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters){:data-ga-name="forecast"}{:data-ga-location="body"}
 - [Annual plan](/handbook/finance/financial-planning-and-analysis/#planning-process--gitlab){:data-ga-name="annual plan"}{:data-ga-location="body"}
 - Most of [Direction](/direction/){:data-ga-name="direction"}{:data-ga-location="body"}
+- [Annual Strategy Review](/company/offsite/#recurring-discussion-topics)
 
 ```mermaid
 gantt
