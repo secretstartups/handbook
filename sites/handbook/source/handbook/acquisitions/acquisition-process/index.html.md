@@ -228,3 +228,16 @@ To maintain confidentiality, we follow the following guidelines:
 1. If you're part of an acquisition Slack channel, Google Doc, or other internal GitLab discussion and would like to invite another GitLab team member to one of those, please confirm with the acquisition lead before doing so.
 1. We collect all notes on an acquisition in the main acquisition doc shared on the topic of the acquisition's slack channel. If you must create a new document, make sure it is set to invite-only and add the relevant people manually. That document needs to be kept inside the acquisition G-Drive folder on the Corporate Development Shared Drive.
 1. Everyone involved in the project should use the code name in place of the actual company name in all communication about the deal until it is publicly announced.
+
+## Prioritizing Acquisition Opportunities
+
+Each quarter the Corporate Development team defines a set of [three categories](/handbook/acquisitions/#acquisition-strategy) which are prioritized for that quarter for outbound activity. We commonly refer to them as Quarterly Focus Areas. While this is true especially for our outbound efforts, these categories will be at the center of our overall efforts and focus for that quarter, taking into account inbound prospects as well. 
+
+Although we have our quarterly focus areas, we are open to discussing potentially pursuing an opportunity outside of those. For us to look into an opportunity outside of our quarterly focus areas, it needs to satisfy one, or more, of the following criteria:
+1. Present an outsized revenue potential
+1. Serve as a strategic move (market dynamics etc.)
+1. Fit our [soft-landing framework](https://about.gitlab.com/handbook/acquisitions/#acquisition-approach)
+
+Every opportunity we explore is constantly evaluated against our prioritization as well as our bandwidth (including active engagements).
+
+If you wish to propose an opportunity you believe we should pursue and is outside of our quarterly focus areas, please contact the Corp Dev team with the rationale behind that specific opportunity.
