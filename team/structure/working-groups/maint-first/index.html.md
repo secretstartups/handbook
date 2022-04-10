@@ -2,7 +2,7 @@
 layout: markdown_page
 title: "Maintenance First (to be renamed)"
 description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
-canonical_path: "/company/team/structure/working-groups/steady-prioritization/"
+canonical_path: "/company/team/structure/working-groups/maint-first/"
 ---
 
 ## On this page
@@ -24,20 +24,33 @@ canonical_path: "/company/team/structure/working-groups/steady-prioritization/"
 
 ## Business Goal
 
-Transition R&D teams into a steady prioritization state driven by backlog data, SLO guidelines & healthy prioritization ratios. We would like to transition R&D teams to a healthy and stable prioritization state after the complete burn-down of their Reliability & Security debt backlog (estimate all teams by the end of May). [Type improvements & initial dashboards have been completed prior to the working group.](https://gitlab.com/groups/gitlab-com/-/epics/1799#pre-work-by-april-15th) 
+Transition R&D teams into a steady prioritization state driven by backlog types, automated SLO guidelines & healthy prioritization ratios. Teams to start transition to this state after the completed the burn-down of their Reliability & Security debt backlog (estimate all teams by the end of May). 
 
+We will start with teams that are not in Engineering Allocations first with a goal of attaining this state for all R&D teams. Activation mechanisms:
+* Teams backlog slates containing overall view of all backlog types.
+  * Security
+  * Reliability
+  * UX / SUS
+  * Bugs
+* Teams merged work type (historical & real time)
+* Stakeholders view of progress and ratio attainment
+* Automation guardrails to enforce hygiene & SLO
+* Handbook team dashboards
+
+[Work type improvements & initial dashboards have been completed prior to the working group.](https://gitlab.com/groups/gitlab-com/-/epics/1799#pre-work-by-april-15th) 
 
 
 ### Exit Criteria (0% completed)
 
 1. Company-wide comms by April 30th
-1. Complete stakeholder dashboard views, the backlog of bugs, and maintenance types.
-1. Attain less than 5% undefined MR types 
-1. Transition x% of product group teams into Steady prioritization state
+1. Refine stakeholder dashboard views, bug & maintenance backlog types
+1. Reduce undefined MR types (less than 5%)
+1. Set target x% of product group teams to Steady state
 1. Setup monthly MR type reviews between engineering managers
-1. Move dashboards for teams into their respective handbook pages
-1. Bot automation of auto-scheduling bug & maintenance types 
-1. Set goal of Development department-wide steady prioritization state (60/30/10)
+1. Handbook work & embed team dashboards in team pages
+1. Bot automation work
+1. Mature error budgets by May 30
+1. Overall Steady-state feature development achieved by June 15 
 1. Other handbook cleanup
 
 
@@ -52,6 +65,8 @@ Transition R&D teams into a steady prioritization state driven by backlog data, 
 | Functional Lead       | Mek Stittri                                          | VP of Quality |
 | Functional Lead       | David DeSanto                                        | VP of Product Management |
 | Functional Lead       | Justin Farris                                        | Senior Director of Product Management |
+| Functional Lead       | Farnoosh Seifoddini                                  | Head of Product Operations |
 | Member                | Lily Mai                                             | Staff Engineering Analyst |
 | Member                | Tanya Pazitny                                        | Director of Quality Engineering |
+| Member                | Kyle Wiebers                                         | Engineering Manager, Engineering Productivity |
       
