@@ -228,6 +228,11 @@ Watch this short video for how to add objectives and key results:
   <iframe src="https://www.youtube.com/embed/WdaFFuzSZ4E" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+
+## Ally.io Resources
+* [How to comment on an objective and key result] (https://youtu.be/YajA4xOgdD0)
+* [How to add dependencies] (https://youtu.be/6XzWlNMH440)
+
 ## Maintaining the status of OKRs
 
 Teams should update the Health Status of their KR issues and present them in their [Key Review](/handbook/key-review/){:data-ga-name="key reviews"}{:data-ga-location="body"}.
