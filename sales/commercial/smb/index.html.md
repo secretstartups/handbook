@@ -112,6 +112,7 @@ For suggested email templates for a mid-term call along with renewal calls, refe
 - [CustomersDot Admin](https://customers.gitlab.com/admin/) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
 - [Chorus](/handbook/business-ops/tech-stack/#chorus) - Call/Demo Recording
 - [Periscope](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) - Data Visualization
+- [Bambu](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/social-advocacy-curators/#topics-in-bambu) - Used for [Social Advocacy](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/social-advocacy-curators/#what-is-social-advocacy)
 
 ### Training & Resources
 
