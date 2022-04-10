@@ -179,10 +179,11 @@ If you are the person who owns a topic, you are responsible for:
 There are some topics discussed at every E-group offsite.
 These include:
 1. Reviewing action items from the last offsite
-1. [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (1.5 hrs, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotions"}{:data-ga-location="body"} (as-needed based on number of people, estimate ~10 mins per person)
 1. [Content Discussion](/company/offsite/#content-choice){:data-ga-name="content discussion"}{:data-ga-location="body"} (30 minutes - 1 hour)
 1. Spend prioritization discussion (50 minutes)
+1. [2x per year] [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (1.5 hrs, ~10 mins per function). CEO Shadows and EBAs do not attend this session
+1. [Annual] Strategic planning discussions (~1 day) 
 
 ### Team norms
 
