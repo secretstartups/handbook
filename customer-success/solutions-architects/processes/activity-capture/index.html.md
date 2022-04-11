@@ -30,8 +30,10 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
 
 ### Troops Setup
 
-- Setup your Troops.ai account and connect it to Slack, Salesforce, and your google calendar.
+- Setup your Troops.ai account and connect it to Slack, Salesforce, and your Google Calendar.
     - [Troops Setup Video](https://vimeo.com/401363212)
+    - [Sign up form](https://app.troops.ai/dashboard/account)
+    - To generate a Troops invitation from Slack, use a `/troops` quick action. If it does not recognize your account, it will generate an invitation link to create an account. From there, link your Salesforce and Google Calendar accounts.
 
 ### Logging an Activity
 
