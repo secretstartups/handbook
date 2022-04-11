@@ -58,7 +58,7 @@ Know how to read and interpret the marketing analytics GitLab’s marketing team
 - [Leading Projects](https://www.linkedin.com/learning/leading-projects/project-management-simplified?u=2255073)
 
 ### Marketing Campaigns 
-- [Understand GitLab GTM Plans, Motions and Use Cases](https://about.gitlab.com/handbook/marketing/plan-fy22/)
+- [Understand GitLab GTM Plans, Motions and Use Cases](https://about.gitlab.com/handbook/marketing/plan-fy23/)
 - [What is Demand Generation at GitLab](https://about.gitlab.com/handbook/marketing/demand-generation/)
 - [Email marketing from Tanuki Tech](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/628) 
 - [Demand Generation metrics](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard) [and how to understand the data](https://about.gitlab.com/handbook/marketing/demand-generation/#dashboard-metrics)
@@ -71,11 +71,11 @@ Know how to read and interpret the marketing analytics GitLab’s marketing team
 
 
 ### Operations  
-- [Accruals](https://www.lynda.com/QuickBooks-Pro-tutorials/Differentiating-accrual-from-cash-based-accounting/499/33646-4.html)
-- [Quickbooks Pro](https://www.linkedin.com/learning/quickbooks-pro-2008-essential-training/differentiating-accrual-from-cash-based-accounting?u=2255073)
+- [Accrual vs. cash based accounting](https://www.linkedin.com/learning/quickbooks-pro-2008-essential-training/differentiating-accrual-from-cash-based-accounting?u=2255073) - GitLab runs an accrual based accounting method. 
 
 ### Systems
-- [Allocadia](https://drive.google.com/file/d/1zjl1VATgCZEd4EojWcpcC_9D2kljz92S/view)  
+- [Allocadia training](https://drive.google.com/file/d/1zjl1VATgCZEd4EojWcpcC_9D2kljz92S/view) 
+- [Allocadia handbook page](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/)
 - [Marketo](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/)
 - [PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/)
 - [LeanData](https://about.gitlab.com/handbook/marketing/marketing-operations/leandata/)
