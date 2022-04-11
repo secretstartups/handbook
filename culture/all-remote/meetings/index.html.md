@@ -40,11 +40,22 @@ In many companies, synchronous meetings are used as a mechanism to create consen
 
 This works because of our values, which leads GitLab to hire individuals who enjoy being a manager of one, a point detailed in our [Efficiency value](/handbook/values/#efficiency). Team members are empowered to decide whether a sync meeting is the best use of their time, and [set boundaries](/company/culture/all-remote/mental-health/#be-transparent-about-boundaries) when needed.
 
-You should aim to record all meetings, particularly when key individuals aren't able to join live. This allows team members to catch up on what transpired, adding context to notes that were taken during the meeting. Learn more about recording in Zoom in the [Tips and Tricks section of GitLab's Handbook](/handbook/tools-and-tips/#recording-in-zoom).
+#### Record meetings to encourage async participation
+
+You should aim to record all meetings. This allows team members to catch up on what transpired and adds context to notes that were taken during the meeting. Learn more about recording in Zoom in the [Tips and Tricks section of GitLab's Handbook](/handbook/tools-and-tips/#recording-in-zoom).
+
+#### Managing meeting attendance for team members
+
+At the same time, even GitLab team members may find themselves on one of two extremes. 
+
+1. Some folks may find themselves with **too many meetings** on their calendars. Conference room have attendee caps. Virtual meeting rooms can hold more than a stadium worth of people, so there are no physical constraints around the number of folks who can be invited to a meeting. Help over scheduled folks by proactively marking them as optional if they are not required. This helps them in their prioritization and time management. Also revisit meetings for which you are the [DRI](/handbook/people-group/directly-responsible-individuals/) after each meeting. Can folks be removed from a meeting or meeting series? Or, can then be moved from required to optional? Avoid stale meeting invite lists.
+1. Some folks may find themselves with **few meetings**, so they aren't particularly selective in their attendance. A topical meeting may be an opportunity to connect with team members or feel a sense of belonging, but a participant should choose not to attend a meeting if this is the primary reason for attendance. There are alternatives for [informal communication](/company/culture/all-remote/informal-communication/) that can better address this need. 
+
+Managers can support their direct reports by reviewing the directs' calendars with them on a regular basis to align on which meetings should have in-person attendance.
 
 ### 2. Cancel unnecessary recurring meetings
 
-Recurring meetings are often established as meaningful points along a given a journey. Don't hesitate to cancel them after their purpose has been served. Cancelling meetings isn't an insult to those on the invite list. In fact, ridding multiple calendars of an unneeded meeting is liberating to everyone involved.
+Recurring meetings are often established as meaningful points along a given journey. Don't hesitate to cancel them after their purpose has been served. Cancelling meetings isn't an insult to those on the invite list. In fact, ridding multiple calendars of an unneeded meeting is liberating to everyone involved. At the end of each meeting, the meeting [DRI](/handbook/people-group/directly-responsible-individuals/) should evaluate whether the meeting can be **cancelled** or the meeting cadence or duration can be **reduced**. If there are multiple folks who may have an opinion, this can be an agenda item for discussion at the end of the meeting. 
 
 ### 3. Start on time, end on time
 
@@ -54,7 +65,25 @@ When scheduling a meeting at GitLab, we value people's time and prefer the "spee
 
 ### 4. All meetings must have an agenda
 
-"[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting should have a live doc agenda affixed to the calendar invite. To better understand how GitLab utilizes agenda docs, here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization. [Coffee chats](/culture/all-remote/informal-communication/#coffee-chats) are excluded from this given their function in informal communication. 
+"[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting should have a live doc agenda affixed to the calendar invite at the time that the invite is added to calendars. 
+
+Meeting agendas should be include:
+
+1. A relevant meeting title
+1. Attendees with titles and organization names, if not in the same company
+1. Background Information or context. This should answer:
+  1. What do folks need to know or review in order to meaningfully participate in the meeting or meeting sequence?
+  1. Why is this group gathering? The meeting's desired outcome should be clear.
+1. The date (if multiple meetings on a topic, you can use the same agenda document, but put dates as H1s or H2s in Google Docs for easier navigation)
+1. Questions or details. A place in the agenda where participants can add thoughts either synchronously or asynchronously. 
+
+[Meeting DRIs](/handbook/people-group/directly-responsible-individuals/) should prep the agenda at least 72 hours before the meeting. This helps participants to:
+
+1. Can make informed decisions around whether they should prioritize synchronous participation.
+1. Have adequate time for any required review.
+1. Have adequate time to contribute asynchronously within the agenda.
+
+We've created a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) that you can copy and use in your organization. There is additional guidance and a separate template for [1:1 meetings](/handbook/leadership/1-1/#the-1-1-agenda). [Coffee chats](/culture/all-remote/informal-communication/#coffee-chats) do not require agenda as their function is informal communication. 
 
 ### 5. Document everything live (yes, everything)
 
@@ -123,9 +152,11 @@ Learn more in the [Communication section of GitLab's Handbook](/handbook/communi
 
 ### 10. Say thanks and be creative
 
-At GitLab, we have a dedicated Slack channel [devoted to saying thanks](/handbook/communication/#say-thanks). Kindness is embedded in our [Collaboration](/handbook/values/#collaboration) value, and gratitude is an essential part of our culture. This reinforces what connects us as a [geographically diverse](/company/culture/inclusion/#fully-distributed-and-completely-connected) team.
+At GitLab, we have a dedicated Slack channel [devoted to saying thanks](/handbook/communication/#say-thanks). Kindness is embedded in our [Collaboration](/handbook/values/#collaboration) value, and gratitude is an essential part of our culture. This reinforces what connects us as a [geographically diverse](/company/culture/inclusion/#fully-distributed-and-completely-connected) team. 
 
 A great example of several GitLab's [values](/handbook/values/) being used to generate a creative outcome from a regularly scheduled meeting is detailed on the company blog: ["How we turned a dull weekly all-hands into a podcast"](/blog/2019/06/03/how-we-turned-40-person-meeting-into-a-podcast/)
+
+While we can thanks team members within meetings, we do not thank each other for meeting participation as this is not part of our values and could reward folks attending meetings that they are not required in. This would not support [efficiency](/handbook/values/#efficiency), a GitLab value. 
 
 ## Remote meeting FAQ's
 ### What are the benefits of a remote meeting?
@@ -225,6 +256,18 @@ For context, Sid joined the Zoom call from San Francisco, while the researchers 
 > There are benefits, but they aren't as big as people make them out to be.
 > 
 > The biggest thing is [taking the initiative to interrupt each other](/blog/2019/08/05/tips-for-mastering-video-calls/), as that's harder in a remote setting. At GitLab, we solve that by making sure that questions are in a Google Doc in advance so it's clear who has a question and who to hand the conversation off to. — _GitLab co-founder and CEO Sid Sijbrandij_
+
+### Who should be invited to meetings?
+
+We can use our [DRI framework](/people-group/directly-responsible-individuals/#dri-consulted-informed-dci) to inform who should participate in a meeting. The **DRIs and consulted folks will play key roles within meetings**. A meeting DRI or facilitator owns the meeting. Other DRIs may own specific activities in support of an initiative. Consulted people are those whose opinions are sought, typically subject-matter experts; and with whom there is two-way communication. **Most informed people should not be invited** if there is a more efficient way to engage or cascade information. When informed folks are invited due to needs for immediate alignment or limitations around effectively cascading asynchronously, they should not be added as a recurring participant in a sequence of meetings. 
+
+### How do you enable folks who don't attend meetings in-person to effectively participate?
+
+When agendas are shared at least 72 hours in advance, you can have efficient asynchronous participation. If sticking to the agenda becomes the norm, folks who have thoughts or questions, but choose to prioritize other things above meeting attendance, can have confidence that their thoughts will be considered and their questions will be addressed. Team members can later review recordings and notes. This helps to minimize team members' fear of missing out on key details. 
+
+### How do you create a low meeting culture?
+
+In addition to making it effective and efficient for participants to contribute asynchronously, don't thank people for showing up in meetings. At GitLab [results](/handbook/values/#results) and [efficiency](/handbook/values/#efficiency) are values, participation is not. 
 
 ### How do you keep participants engaged in a remote meeting?
 
