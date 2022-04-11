@@ -25,9 +25,8 @@ You can reach out on slack to the [#product](https://gitlab.slack.com/archives/C
 Another option is using the table below that will help match mentors and interns. If you are interested in participating in an internship, either as a mentor or intern, please fill out your details in the table below. If you see an empty slot for a mentor/intern, feel free to reach out to that person to see if they are available to be your internship match.
 
 | Mentor | Intern | Group | Mentor Timezone | Intern Timezone |
-| -------| -------|------|---------|-------|--------|
-| @ogolowinski| @aciciu | Workspace | IDT | BST |
-
+| -------| -------|------|---------|-------|--------|-----|
+|        |.       |.     |.        |.      |.   |.     |
 ## Coffee Chat with PM internship Alumni
 
   Feel free to schedule a coffee chat with any of the [PM internship Alumni](/handbook/product/internship/index.html#alumni). You can review the list of PM internship below. These chats can be helpful when deciding whether to apply to participate or if you're unable to participate but want to hear about the experience and what alumni have learned during their internship.
@@ -60,3 +59,4 @@ Selection of which track to pursue for the internship should be based on the goa
 | 2021-06-14 | 2021-08-19 | Editor  | Build | @mmacfarlane | Team Lead, Enterprise Sales Development  | Delivered Snippet rendering feature in 14.2 and published accompanying release post. Learned Build track workflow and relationship management between Engineering Manager, Product Designer, and Technical Writer. 
 | 2020-08-05 | 2020-11-01 | Monitor | Validation | @mmacfarlane | Team Lead, Enterprise Sales Development  | Created and presented opportunity canvas to VP and EVP or Product at GitLab. Conducted 8 interviews utilizing UX Research team, Respondent.io, and Dovetail. Create discussion guide for interviews. Learned Validation process from start to finish. |
 | 2020-02-01 | 2020-04-30 | Monitor | Build | @williamchia | Sr. Product Marketing Manager | I got to PM the release of [Status Page](/releases/2020/04/22/gitlab-12-10-released/#status-page). |
+| 2021-10-25 | 2022-03-23 | Workspace | Build | @aciciu | Support Engineer | Learned the PM workflow on how to triage and plan for a release. I collaborated and participated in discussions with engineers, EM and product designer, regarding scheduling. |
