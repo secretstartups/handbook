@@ -228,8 +228,8 @@ Instructions for downloading trial:
 
 ### Ireland
 
-* For general information, you can contact HSELive: 1850 24 1850. If you believe you have COVID-19, it is recommended to call your General Practitioner.
-* Up-to-date information and detailed guidance is available on the [HSE's Coronavirus portal](https://www2.hse.ie/coronavirus/) (also available in [Gaeilge](https://www2.hse.ie/gaeilge/coroinvireas/)).
+* For general information, you can contact HSELive: 1850 24 1850 or visit the [HSE COVID-19 Portal](https://www2.hse.ie/conditions/covid19/). If you believe you have COVID-19, it is recommended to call your General Practitioner if symptoms [get much worse](https://www2.hse.ie/conditions/covid19/symptoms/medical-help-treatment/).
+* Up-to-date information and detailed guidance is available on the [HSE's Coronavirus portal](https://www2.hse.ie/coronavirus/) (also available [as Gaeilge](https://www2.hse.ie/gaeilge/coroinvireas/)).
 
 ### South Africa
 
