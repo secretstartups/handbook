@@ -61,26 +61,23 @@ Access to account and engagement data in Demandbase is dependent on your approva
 ## Journey stages
 {: #journey-stages .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-We use Demandbase journeys to track account progression toward Closed Won in our marketing funnel based on engagement (both anonymous and known-person engagement) of people at the account. The account stages takes into consideration all lead, contact, and anonymous person activity and aggregates that data at the account level. We have set our marketing funnel up to separate accounts with _anonymous engagement_ and accounts with _known-people engagement_. While we are focused on new first order logo acquisition, we still track account journey stage for both prospect account and customer accounts.
+We use Demandbase account journey stages to track account progression toward Closed Won in our marketing funnel based on engagement (both anonymous and known) of people at the account. The account journey stages take into consideration all lead, contact, and anonymous person activity, and roll-up that data to the Salesforce account level.
 
-| Stage | Description |
-| ----- | ----------- |
-| All other accounts | Accounts w no qualification score and have not hit any engagement threshold to qualify for antoher journey stage |
-| Unqualified | Accounts with a qualification score < 70 |
-| Qualified | Accounts with a qualification score of >= 70 |
-| Aware | Accounts that have had at least 1 intent strength = High activity date < 30 days |
-| Engaged w no people | Accounts with > 20 minutes of anonymous engagement and at least 1 engaged person in last 90 days |
-| Engaged w people | Accounts with > 20 minutes of engagement and >= 5 engaged people in last 90 days |
-| Marketing Qualified Account (MQA) | Accounts with a pipeline predict score of >80 OR accounts with > 30 minutes of engagement and >= 5 engaged people in last 90 days |
-| SAO | Accounts with opps in stage 1 |
-| Early Stage Opportunity | Accounts with opps in stage 2-4 |
-| Late Stage Opportunity | Accounts with opps in stage 5-7 |
-| Customer | All current customers closed in last 90 days |
-| Expansion engagement | Customers older than 90 days showing new engagement with us |
-| Connected new- no people | Account connected to a customer older than 90 days that is showing anonymous engagement with us |
-| Connected new- w people | Account connected to a customer older than 90 days that has engaged people with us |
-| Expand- Closed won | Closed won- expand deal in the last 90 days |
-| Disqualified | This stage captures anyone in SFDC that is not a potential customer (integrations, admin accounts etc) |
+| Stage No. | Stage Name | Description |
+| ----- | ----------- | ----------- |
+| 01 | Non-Qualified Accounts | Accounts with a qualification score below 70 and no engagement minutes (in last 3 months) |
+| 02 | Demographic Qualified Account | Accounts with a qualification Score 70+ and engagement minutes (in last 3 mo) >=1 |
+| 03 | Keyword Intent | Intent Strength = High or Med; Activity Date = Last 30 Days |
+| 04 | Anonymously Engaged | Accounts with >= 20 engagement minutes and and <= 1 person engaged |
+| 05 | Engaged with People | Accounts with >=20 minutes of engagement and >= 2 person engaged |
+| 06 | Marketing Qualified Account | Accounts with >100 marketing engagement minutes and >3 engaged people and Pipeline Predict >= 70 |
+| 07 | Opportunity - Stage 0 | Accounts with latest open opp in stage 0 |
+| 08 | SAO - Stage 1 (Pipeline) | Accounts with latest open opp in stage 1 |
+| 09 | Opportunity Stage 2-3 (Pipeline) | Account with open opp in stage 2-3 |
+| 10 | Opportunity Stage 4-7 (Pipeline) | Account with open opp in stage 4-7 |
+| 11 | Customer (Customer) | Existing Closed Won Opportunity |
+| 12 | Former Customer | Accounts who are no longer customers |
+| 13 | Disqualified | Any account that is not a potential customer |
 
 ## Demandbase Lists
 {: #demandbase-lists .gitlab-purple}
