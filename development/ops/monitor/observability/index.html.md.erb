@@ -146,3 +146,17 @@ ClickHouse is also being considered as a backend for:
 1. [GitLab Observability UI Repo](https://gitlab.com/gitlab-org/opstrace/opstrace-ui)
 1. [Blog Post announcement](https://opstrace.com/blog/gitlabobsvervabilityui)
 1. [Community Forum FAQ](https://forum.gitlab.com/t/updates-on-opstrace-integration-into-gitlab-faq/67257)
+
+### Proposed Removal of Cortex
+
+Cortex is a highly scalable timeseries database for Prometheus. Cortex has been part of the Opstrace stack since its founding and the team has invested energy in everything from [scale testing](https://opstrace.com/blog/scaling-200m-series) and developing its [own operator](https://opstrace.com/blog/introducing-a-cortex-operator).
+
+Moving forward, we are proposing to remove Cortex from the stack for several reasons:
+
+1. We want to [invest in ClickHouse](/#technical-architecture) as our sole Observability datastore. We previously implemented a Jaeger Tracing solution backed by ClickHouse and are planning to develop Metrics and Logging solutions as well. We see ClickHouse as a unified datastore capable of managing all our Observability data and this single source will prove easier to manage and scale both for our Observability SaaS but also for self-managed users.
+1. Removing Cortex now and focusing solely on ClickHouse, we can prevent a potentially difficult data migration down the road. Any migration of Production data can be a complex operation and removing Cortex spares our users that difficulty in the future when they need to shift to using a Metrics solution backed by ClickHouse. 
+1. Recently, [Grafana Labs decided to no longer contribute to the Cortex project](https://grafana.com/oss/cortex/) and focus instead on other efforts. This means that the Cortex project will likely see greatly reduced development of new features and bugfixes and the community will begin migrating away from Cortex. 
+
+We would love community input on this proposal: https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/1656
+
+
