@@ -99,7 +99,7 @@ It's never too early to refine an issue, but we should prioritise the issues clo
 
 *side note: we prefer [using Refining over Grooming](/handbook/communication/#top-misused-terms)*
 
-Engineers are expected to allocate approximately 4 hours each milestone to refine and weight issues assigned to them. The purpose of refining an issue is to ensure the problem statement is clear enough to provide a rough effort sizing estimate; the intention is not to provide **solution validation** during refinement.
+The purpose of refining an issue is to ensure the problem statement is clear enough to provide a rough effort sizing estimate; the intention is not to provide **solution validation** during refinement.
 
 Engineering uses the [following handbook guidance for determining weights](#weighting-issues). If any issue needs any additional `~frontend ~backend ~Quality ~UX ~documentation` reviews, they are assigned to the respective individual(s). 
 
@@ -127,6 +127,8 @@ Engineers will:
 1. Unassign themselves from the issue when they are done refining and weighting the issue
 
 #### Weighting Issues
+
+In April 2022, the team began to trial the use of the `needs weight` [board](https://gitlab.com/groups/gitlab-org/-/boards/1486497?label_name[]=group%3A%3Apipeline%20authoring&label_name[]=needs%20weight) that shows issues that `needs weight` for the next milestone. That criteria will be denoted by having a `needs weight` label and the appropriate milestone candidate label applied to it (i.e. `candidate::15.0`). During the first week of the month (i.e May 1-5), team members will review the `needs weight` [board](https://gitlab.com/groups/gitlab-org/-/boards/1486497?label_name[]=group%3A%3Apipeline%20authoring&label_name[]=needs%20weight) and assign themselves to issues. Issues that aren't able to be weighted in one milestone will be evaluated for future milestones. If there is an issue with a higher urgency for weighting, a team member might be directly assigned to the issue for a prioritized review.
 
 We add a `Weight` to issues as a way to estimate the effort needed to complete an issue. We factor in complexity and any additional coordination needed to work on an issue.  We weight issues based on complexity, following the fibonacci sequence:
 
