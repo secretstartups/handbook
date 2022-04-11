@@ -189,23 +189,9 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq/) 
 
 Customer Success has a few standing meetings:
 
-- All CS Team Call - every other Thursday at 7am PST
-- VP of Customer Success Office Hours - every other Thursday at 7am PST
-- CS Skills Exchange - every Wednesday, alternating between 7:30am PST and 11am PST
+- All CS Team Call - Monthly on the first Thursday
+- CS Skills Exchange - every other Wednesday, alternating between 7:30am PST and 11am PST
+- Quarterly Reverse AMA with Sakamoto and Female+ Team Members 
 
 The different groups within CS also have standing meetings, including meetings for the SAs, PS, and TAMs groups, regional groups, and social calls.
 
-### GitLab Release Technical Showcase
-
-Following the latest GitLab release, once a month on the All CS Team Call, we have a few volunteers to discuss and/or demo new features from the most recent release:
-
-| GitLab Release | Feature | Presenter | Role | Region | Recording |
-| -------------- | ------- | --------- | ---- | ------ | --------- |
-| 12.9 | [Dismissing Multiple Vulnerabilities](https://about.gitlab.com/releases/2020/03/22/gitlab-12-9-released/#select-and-dismiss-multiple-vulnerabilities) | Sameer Kamani | Solutions Architect | Public Sector | [Video](https://youtu.be/bmiJ9LkoniA) |
-| 12.9 | [Group Export and Import via API](https://about.gitlab.com/releases/2020/03/22/gitlab-12-9-released/#group-export-and-import-is-available-using-the-api) | Sameer Kamani | Solutions Architect | Public Sector | [Video](https://youtu.be/pJiTSzUi1l4) |
-| 12.9 | [High Availability with Gitaly (alpha)](https://docs.gitlab.com/ee/administration/gitaly/praefect.html) | Sophie Pouliquen | Technical Account Manager | Enterprise East | [Video](https://youtu.be/LfsF8ysExpY) |
-| 13.0 | [Gitaly and Praefect](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/341) | Simon Mansfield and Christiaan Conover | Solutions Architect, Manager, TAM | EMEA and Enterprise East | [Video](https://youtu.be/jp9qY73bn3Q) |
-| 13.0 | [Standalone Vulnerabilities](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/index.html) <br>[Exportable Vulnerabilities Reports](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#export-vulnerabilities-1) <br>[WAF SIEM Integration](https://docs.gitlab.com/ee/user/clusters/applications.html#fluentd) | Chloe Whitestone | Technical Account Manager | Enterprise East | [Video](https://youtu.be/rviHcIW3W44) |
-| 13.0 | [AWS ECS Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/index.html#aws-ecs) | Mark Cesario | Solutions Architect | Enterprise East | [Video](https://youtu.be/ooepeaZqqdQ) |
-| 13.0 | [Terraform Plan View in MR and HTTP Terraform State Backend](https://docs.gitlab.com/ee/user/infrastructure/) | Jamie Reid | Technical Account Manager | Enterprise West | [Video](https://youtu.be/sevdObk5HkM) |
-| 13.1 | [Fail Fast Testing](https://docs.gitlab.com/ee/user/project/merge_requests/fail_fast_testing.html) | Vladimir Ten | Technical Account Manager | Enterprise West | [Video](https://docs.gitlab.com/ee/user/project/merge_requests/fail_fast_testing.html) |
