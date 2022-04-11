@@ -21,9 +21,9 @@ title: Account Planning for Solutions Architects
 - **How to create and edit a Technical Win Plan from Gainsight:**
 * You can create an objective under account plan. Here is a sample Success Plan to use as guidance:
 
-  [Sample Success Plan](https://lucid.app/documents/view/3f6a8cf8-f63a-4649-b797-c540034c3f1e)
+  [Sample Success Plan - Flowchart](https://lucid.app/documents/view/3f6a8cf8-f63a-4649-b797-c540034c3f1e)
   
-  [Creating a Success Plan - Video](https://drive.google.com/file/d/1dLeFXZsU-1ArzQlpeSEcdqCP6u59vJSd/view)
+  [Creating a Technical Win Plan Using Gainsight - Video](https://drive.google.com/file/d/1dLeFXZsU-1ArzQlpeSEcdqCP6u59vJSd/view)
 
 # How does an SA contribute to the Account Planning?
 A rationale describing how an SA can contribute to the Account Planning is documented here in the [Handbook](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
