@@ -55,6 +55,12 @@ It is important to note that Gainsight brings the entire account team onto a sin
 - **What if there is no account plan from the SAL?**
   - The SA together with the SAL will create a Technical Win Plan using Gainsight.
 
+
+# Gainsight Example: How an SA Adds/Update a Success Plan
+**Creating a New Success Plan or Adding a Success Plan to an Existing Customer Entry**
+<div style="position: relative; padding-bottom: 69.76744186046511%; height: 0;"><iframe src="https://lucid.app/documents/embeddedchart/3f6a8cf8-f63a-4649-b797-c540034c3f1e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 # Gainsight Enablement 
 * [Account Planning Handbook Page](/handbook/sales/account-planning/)
 * [Account Planning with Gainsight Overview and Demo](https://www.youtube.com/watch?v=Xhor2IIsCQQ)
