@@ -29,6 +29,7 @@ In an all-remote organization, we want each team member to be a [manager of one]
 1. We value truth seeking over cohesion.
 1. We avoid [meetings](/company/culture/all-remote/meetings/), when possible, because they don't support the asynchronous work flow and are hard to conduct due to timezone differences.
 1. Start meetings on time, be on time yourself, don't ask if everyone is there, and don't punish people that have shown up on time by waiting for people or repeating things for those that come late. When a meeting unblocks a process or decision, don't celebrate that but instead address the question: How can we unblock in the future without needing a meeting?
+1. Be intentional in how you prepare for and participate in meetings. Async communication works best when folks [review their calendars and prepare in advance of meetings](/culture/all-remote/meetings/#how-can-i-prepare-for-a-remote-meeting). 
 1. We give [feedback](/company/culture/all-remote/effective-communication/#feedback-is-a-gift), lots of it. Don't hold back on suggestions for improvements.
 1. [Focus on improvement](/handbook/values/#focus-on-improvement). If you meet external people, always ask what they think we should improve.
 1. Following from [Paul Graham's advice](https://twitter.com/paulg/status/802102152319606784): Strive to make the organization simpler.
