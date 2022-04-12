@@ -319,7 +319,7 @@ When communicating in either Slack `#release-post` or `#X-Y-release-post-prep`, 
 
 Sample post to executive stakeholders for review:
 
-> @Sid @Scott Williamson @Anoop Dawar The 13.6 Release Post has been generated and can be reviewed at https://release-13-6.about.gitlab-review.app/releases/2020/11/22/gitlab-13-6-released/index.html .
+> @Sid @david @Justin Farris The 13.6 Release Post has been generated and can be reviewed at https://release-13-6.about.gitlab-review.app/releases/2020/11/22/gitlab-13-6-released/index.html .
 > 
 > Please share your feedback by <time datetime="18:00">6 pm UTC (1 pm ET / 10 am PT)</time> on Friday November 20 (tomorrow). Thank you for your review!
 > 
