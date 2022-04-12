@@ -72,7 +72,9 @@ Verify and measure at scale:
   - Current: Not measured
 - The prioritization model and dashboard(s) are adopted as an effective replacement to using spreadsheets to manage and track Top ARR drivers.
   - Current: Not measured
-- `x%` increase in unique individuals adding customer links to issues.
+- `20%` increase of feature requests tagged month-over-month or quarter-over-quarter.
+  - Current: Not measured
+- `20%` increase of Sales team members tagging feature requests month-over-month or quarter-over-quarter.
   - Current: Not measured
 - Decrease key customer issues marked as `deliverable` from missing their scheduled milestone by `x%`.
   - Current: Not measured 
