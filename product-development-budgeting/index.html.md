@@ -27,7 +27,7 @@ The pre-planning is done in advance of the budget becoming available so that the
 | VP of PM | Review plans and priorities and ensure that product-wide priorities and global optimizations are accounted for. | 
 | [CTO](https://gitlab.com/edjdev) | Make sure the funding plan encompasses all known things that need to be budgeted from an Engineering perspective (such as not only new hires but comp reviews) | 
 | Product Managers | When a hiring plan is approved, document if previously approved reqs are or are not included |
-| [VP of PM](https://gitlab.com/adawar) |  Provide a (private) video walkthru of the approved hiring plan (as the spreadsheets tend to be hard to understand without an explanation) |
+| [VP of Product](https://gitlab.com/david) |  Provide a (private) video walkthru of the approved hiring plan (as the spreadsheets tend to be hard to understand without an explanation) |
 | Development directors |  The directors will confirm and update the budgeting to ensure it includes proper EM to engineer ratios.  The directors will also collaborate with the leadership from other engineering teams to make sure the plan encompasses proper ratios for UX, SET, SRE, and other stable counterpart roles. |
 
 ## Viewing existing potential investments
