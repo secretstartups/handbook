@@ -127,7 +127,7 @@ This is useful to check if emails have been delivered successfully from our end,
 
 Mailgun does not allow us to check for multiple suppressions on the same domain within it's `Suppressions` section, but we can use another method to find them without asking the customer for a list of email addresses that they suspect are being suppressed. To do so:
 
-1. Log in to [Mailgun](https://app.mailgun.com/app/dashboard) using the `supporteam` credentials in the Support Team vault in 1Password.
+1. Utilize the Mailgun SSO app on your Okta dashboard to log in to [Mailgun](https://app.mailgun.com/app/dashboard).
 1. Click on `Sending` along the left-hand side navigation bar.
 1. Click on `Logs`.
 1. Ensure that `mg.gitlab.com` is set as the domain above the activity graph.
