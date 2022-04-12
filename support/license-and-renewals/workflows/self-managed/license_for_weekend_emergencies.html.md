@@ -6,6 +6,7 @@ category: GitLab Self-Managed licenses
 ---
 
 {:.no_toc}
+
 ----
 
 # Weekend Emergencies - License Request
