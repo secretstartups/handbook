@@ -271,7 +271,7 @@ Please note: the frequency of Group Conversations does not recur on a specific c
 | [Sales & Marketing](/handbook/sales/) | Michael McBride and Craig Mestel | Yes | Twice per quarter |
 | [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter |
 | [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter |
-| [Product](/handbook/product/) | Scott Williamson | Yes | Twice per quarter |
+| [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Every month |
 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Twice per quarter |
 | [Support](/handbook/support/) | Tom Cooney | Yes | Twice per quarter |
 | [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Every other month |
