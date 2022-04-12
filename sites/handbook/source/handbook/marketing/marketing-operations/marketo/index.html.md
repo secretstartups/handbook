@@ -317,34 +317,6 @@ The following segmentations that are approved and live.
 
 </details>
 
-<details>
-<summary>
-[Sub-Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1019A1)
-</summary>
-
-- NA East
-- LATAM
-- NA West
-- ANZ
-- Asia SE
-- Asia Central
-- China
-- Asia South
-- Japan
-- Korea
-- Europe Central
-- Europe East
-- Europe South
-- EMEA
-- Nordics
-- UKI
-- India
-- Africas
-- Benelux
-- France
-- Russia
-
-</details>
 
 <details>
 <summary markdown='span'>

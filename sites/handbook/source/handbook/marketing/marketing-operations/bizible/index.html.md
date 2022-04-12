@@ -35,7 +35,7 @@ The touchpoint generation process answers the question, “How is Bizible going 
 | Type of Interaction                 | Example                                                                                       | Touchpoint Generation Method                                                                                                                                      |
 |-------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Online, on your site(s)             | Form fill                                                                                     | Bizible JavaScript                                                                                                                                                |
-| Offline; Online not on your site(s) | Tradeshows; Content syndication partner delivers a list of Lead who engaged with your content | CRM Campaign membership synced to Bizible, either by setting the Campaign Sync Type directly in the campaign or by setting rules on the Campaigns page in Bizible |
+| Offline; Online not on your site(s) | Tradeshows; BrightTalk Webcasts (for Attended status TPs); Content syndication partner delivers a list of leads who engaged with your content;  | CRM Campaign membership synced to Bizible, by setting the Campaign Sync Type directly in the campaign or by setting rules on the Campaigns page in Bizible. For the Brighttalk Webcasts it's done by the Marketo Programs Integration, through Marketo Program Rules |
 | Sales activity                      | Outbound call by SDR                                                                          | CRM Activity (Task or Event) record synced to Bizible, through logic on the Activities page in Bizible                                                            |
 
 #### Touchpoint Mapping Methods
@@ -44,7 +44,7 @@ The touchpoint mapping process answers the question, “Once this touchpoint’s
 | Type of Interaction                  | Generation Method            | Mapping Method                                                                                                       |
 |--------------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Online, on your site(s)              | Bizible JavaScript           | Through the Online Channels page in Bizible, by referencing UTM values, landing page, and referring page information |
-| Offline; Online, not on your site(s) | CRM Campaign membership sync | Through the Offline Channels page in Bizible, by referencing Campaign Type                                           |
+| Offline; Online, not on your site(s) | CRM Campaign membership sync or through the Marketo Programs Integration, through Marketo Program Rules | Through the Offline Channels page in Bizible, by referencing Campaign Type or the Marketo Program Channel Mapping|                                         |
 | Sales activity                       | CRM Activity sync            | Through the Online Channels page in Bizible, by referencing the Campaign Name assigned on the Activities page        |
 
 
