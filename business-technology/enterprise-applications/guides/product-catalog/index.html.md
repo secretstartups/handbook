@@ -225,7 +225,7 @@ _Completion of all fields is necessary for approvals. Any missing or incomplete 
 <div class="panel-body">
 
 - Once all approvals from Step 2 are obtained, assign the issue to `@andrew_murray` for input in Step 3.
-- Once Revenue/Billing and Tax tasks from Step 3. Finance are complete, assign the Issue to the approvers in Step 4 (`@sfwgitlab`, `@brobins`, `@james_harrison`, `@dhong`, `@mmcb`).
+- Once Revenue/Billing and Tax tasks from Step 3. Finance are complete, assign the Issue to the approvers in Step 4 (`@david`, `@brobins`, `@james_harrison`, `@dhong`, `@mmcb`).
    - Note that it is the Submitters responsibility to ensure all the appropriate approvals are obtained before progressing to Step 5.
 - After approvals are obtained, please add the `BT Finance Systems` label.
    - No assignee changes required.
