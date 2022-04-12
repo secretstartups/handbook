@@ -61,7 +61,7 @@ The Other Informed Team Members lists people who have access to confidential inf
 
 | Function                                | Primary Contact                         | Primary Contact GitLab Handle           | Supporting Contact Name                 | Supporting Contact GitLab Handle        |
 |-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| Executive Group                         | Sid Sijbrandij, Scott Williamson, Eric Johnson, Michael McBride, Todd Barr, Robin Schulman, Brian Robins, Wendy Barnes | @sytses, @sfwgitlab, @edjdev, @mmcb, @tbarr, @rschulman, @brobins, @wendybarnes | Cheri Holmes, Robyn Hartough, Katie Gammon | @cheriholmes, @rhartough, @kgammon | 
+| Executive Group                         | Sid Sijbrandij Eric Johnson, Michael McBride, Todd Barr, Robin Schulman, Brian Robins, Wendy Barnes | @sytses, @edjdev, @mmcb, @tbarr, @rschulman, @brobins, @wendybarnes | Cheri Holmes, Robyn Hartough, Katie Gammon | @cheriholmes, @rhartough, @kgammon | 
 | Internal Comms                          | Simon Liang                             | @sliang2                                |                                         |                                         |
 | IT                                      | Bryan Wise                              | @bryanwise                              | Marc DiSabatino, Peter Kaldis           | @marc_disabatino-admin, @pkaldis        |
 | Engineering - Development               | Christopher Lefelhocz                   | @clefelhocz1                            |                                         |                                         |
