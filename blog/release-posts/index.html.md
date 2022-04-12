@@ -224,7 +224,7 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 
 - Reviewing and supporting overall content quality and accuracy of all content published in the release post
 - Including the Release Post Manager Shadow as much as possible on activities so they learn prior to their rotation
-- Soliciting/collecting votes for the [MVP](#mvp), getting the write-up form the nominator of the winning candidate
+- Soliciting/collecting votes for the [MVP](#mvp), getting the write-up from the nominator of the winning candidate
 - Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
 - Working with the VP of Product Management to identify what to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users)
 - Monitoring the Slack Release Post channel to help answer questions and troubleshoot hurdles
