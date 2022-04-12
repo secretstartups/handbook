@@ -109,7 +109,7 @@ The following approvers are needed for the copy and list size:
      - The Data team is able to pull a list from user table if necessary. Please [create an issue](https://gitlab.com/gitlab-data/analytics/-/issues/new) with the Data team.
 1. If a generic emergency communication the opt-in email list contained in Marketo can be used. 
 1. Seldomly, lists need to be created in Salesforce or Marketo using parameters found within the marketing database.  
-     - Marketo & Salesforce **do not** contain all records within the user table and vice versa
+     - Marketo & Salesforce **do not** contain all records within the user table
 
 ### List considerations
 
@@ -129,11 +129,42 @@ The following approvers are needed for the copy and list size:
 
 
 ## Email platform to use
-The email platform determines many different factors for us.
-- [Marketo](/handbook/marketing/marketing-operations/marketo/): Quickest deployment, but most costly. Will not be used for communications over 20k
+Marketing Operations will decide what the best platform to send will be. The decision is based on many factors, including the ones below.
+- [Marketo](/handbook/marketing/marketing-operations/marketo/): Quickest deployment, but most costly. Can be used for large sends if being sent to customers, but free users should be send via MailJet or Mailgun if the list is over 20k.
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/): Platform for large deployment, marketing can set up and send without engineering help.
 - MailGun: Large lists that need verification. This involves engineering and will add 1 day minimum to send
 
+# Marketing Operations Set-Up
+- Clone from [incident template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/EBP9730A1)
+    - Ensure that processing requests `Do not Route` executable campaign
+    - Mark `Person source` for new leads as `GitLab DataMart`
+    - `Person Status` should be set to `Raw` if Empty
+    - Processing campaign can be set up as a trigger or batch depending on list size
+- Set up reports if not using the email program defaults
+- Follow remaining steps in the incident issue template
+
+## Mops steps and checklist for large sends
+For sends over 100k sending from Marketo, there are several steps to follow to decrease processing time - especially when leads being uploaded are mostly net-new
+1. Check list over to remove any sanctioned countries and/or GitLab email addresses
+1. Identify common processing campaigns to update with list suppression filters. These trigger off of `person created` which will significantly delay processing time and hold up all other Marketo campaign processes (outside of this program)
+     1. [Generic Email Trigger](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC6830A1)
+     1. [OP-Generic Email Address Scoring](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC3441A1ZN)
+     1. [OptOuts after 9.10 - Trigger](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#SC17036A1ZN)
+     1. [01-Compiling Last Event Notes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#SC22700A1ZN)
+     1. [Add to nurture](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MA19A1)
+     1. [Nurture movement](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC21912A1)
+     1. [Spam catcher](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC2929A1)
+1. Set up priority send controller campaign to improve speed of send
+1. If send list is over 250,000, you must update the [smart campaign limits](/handbook/marketing/marketing-operations/marketo/#campaign-limits).
+1. Ensure email is marked operational, otherwise you may need to update [email communication limits](/handbook/marketing/marketing-operations/email-management/#send-frequency)
+1. After send, discuss with legal to delete unneccessary records out of Marketo.
+
+### Common Troubleshooting
+1. Email won't send
+   - Check smart campaign limits, is the send over the limit amount?
+   - If email isn't marked operational, you may have to update email comm limits, or mark the email as operational (if this is the case, make sure to double check your filters)
+1. Email needs to send out faster than 15 minutes
+   - Set up smart campaign to send the email vs using the email program default settings
 
 
 ## Customer update / Announcement emails
