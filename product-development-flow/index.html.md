@@ -376,8 +376,7 @@ you can create an issue or MR, add the current milestone and label `product deve
 
 The Product Operations DRI will ensure the MR gets included in product develoment flow release updates as well as ensuring alignment happens with the following stakeholders if needed:
 
-1. [Chief Product Officer](https://about.gitlab.com/company/team/#sfwgitlab)
-1. [VP of Product Management](https://about.gitlab.com/company/team/#adawar)
+1. [VP of Product](https://about.gitlab.com/company/team/#david)
 1. [VP of UX](https://about.gitlab.com/company/team/#clenneville)
 1. [VP of Development](https://about.gitlab.com/company/team/#clefelhocz1)
 1. [Director of Quality Engineering](https://about.gitlab.com/company/team/#meks)
