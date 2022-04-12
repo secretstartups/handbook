@@ -49,7 +49,7 @@ Here is Bizible's breakdown of how [Touchpoints are generated and mapped](https:
 4. Destination URL will be generated automatically in column N, ready for you to use in your campaign. If you need to shorten your URL, use a tool like [bit.ly](https://bitly.com/). 
 5. Measure success in Sisense. You can track your UTM parameters in your Sisense dashboard under "Integrated Campaign Breakdown" or "Attribution Data" sections. 
 
-### UTM Values
+## UTM Values
 {: #utm-values .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
@@ -62,7 +62,7 @@ Below are some rules (per [PMG advice](https://gitlab.com/gitlab-com/marketing/d
 * Keep your URLs clean, descriptive, non-redundant and easy to read.
 
 #### utm_medium
-{: #utm-medium .gitlab-purple}
+{: #utm-medium}
 <!-- DO NOT CHANGE ANCHOR -->
 
 **Campaign Medium** The medium is the overarching channel bucket like `paidsearch`, `social`, or `sponsorship`. It answers the question of "how did they come to us?". `utm_source` will further categorize the overarching channel. 
@@ -70,13 +70,13 @@ Below are some rules (per [PMG advice](https://gitlab.com/gitlab-com/marketing/d
 You can choose a campaign medium from a provided picklist of values in the URL Builder spreadsheet. If you need a new campaign medium, please check with the Digital Marketing Programs team as new mediums will not automatically be attributed correctly.
 
 #### utm_source
-{: #utm-source .gitlab-purple}
+{: #utm-source}
 <!-- DO NOT CHANGE ANCHOR -->
 
 **Campaign Source** The source-based URL parameter can tell you which website is sending the traffic. The source is a further "slicing" of overall channels. It answers the question of "how did they come to us?" but with more granular details than utm_medium. Examples include `ebook`, `twitter`, or `qrcode`.
 
 #### utm_campaign
-{: #utm-campaign .gitlab-purple}
+{: #utm-campaign}
 <!-- DO NOT CHANGE ANCHOR -->
 
 These are the UTMs (**utm_campaign**) to align to the anchor campaigns (both GTM and sub-campaigns within GTMs). They must be followed as below in order to display in the Demand Gen Dashboard.
@@ -93,7 +93,7 @@ Using proper `utm_campaign` values below will minimize number of manual updates 
 RULE: all utm_campaign must start with one of the overarching campaigns (devopsgtm, singleappci, iacgitops, etc.)
 
 #### utm_content
-{: #utm-content .gitlab-purple}
+{: #utm-content}
 <!-- DO NOT CHANGE ANCHOR -->
 
 **Campaign Content** (`utm_content`) indicates the content offered by the URL. This is being done currently in publisher utms, and will be instrumented in nurture emails through the [intelligent nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836) project.
@@ -101,13 +101,13 @@ RULE: all utm_campaign must start with one of the overarching campaigns (devopsg
 See values in [this googlesheet](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=232997146) in column `utm_content=`. These are continually changed as new content is developed, and therefore new `utm_content` values are added.
 
 #### utm_term 
-{: #utm-term .gitlab-purple}
+{: #utm-term}
 <!-- DO NOT CHANGE ANCHOR -->
 
 **Campaign Term** (`utm_term`) mainly used for tracking ROI on paid keywords in PPC (Pay Per ClicK) campaigns but can also be used to track any keyword or any additional campaign info.
 
 #### utm_budget
-{: #utm-budget .gitlab-purple}
+{: #utm-budget}
 <!-- DO NOT CHANGE ANCHOR -->
 
 **Campaign Budget** (`utm_budget`) indicates which budget is used for the campaign promotion. 
@@ -121,7 +121,7 @@ Values (available as picklist in the UTM builder googlesheet):
 * chnl = Channel Marketing
 
 #### utm_allptnr
-{: #utm-allptnr .gitlab-purple}
+{: #utm-allptnr}
 <!-- DO NOT CHANGE ANCHOR -->
 
 **Alliance Partner** (`utm_allptnr`) indicates which partner is part for the campaign. 
@@ -165,7 +165,7 @@ The UTM parameters are everything that comes after the question mark:
 More examples and different scenarios are covered in [FAQ doc] (https://docs.google.com/document/d/1VaAwSg39sNY4dfth4bTuBDN5UT8UiKijWt6RdzVV4dY/edit?usp=sharing).
 
 ### UTM structure for nurture emails
-{: #utms-nurture-emails .gitlab-purple}
+{: #utms-nurture-emails}
 <!-- DO NOT CHANGE ANCHOR -->
 
 * UTM Medium = `email` (never changes)
@@ -183,7 +183,7 @@ More examples and different scenarios are covered in [FAQ doc] (https://docs.goo
 [Documenting issue of discussion on UTM structure for nurture emails](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1513)
 
 ### UTM structure for paid digital
-{: #utms-paid-digital .gitlab-purple}
+{: #utms-paid-digital}
 <!-- DO NOT CHANGE ANCHOR -->
 
 Our Digital Agency - PMG are using different UTM structure than our standard process. Their UTM parameters include more information:
@@ -204,21 +204,41 @@ In order to retain historical campaign tracking data we will keep existing UTM s
 * utm_allptnr=aws
 
 ### UTM structure for account based marketing
-{: #utms-account-based-marketing .gitlab-purple}
+{: #utms-account-based-marketing}
 <!-- DO NOT CHANGE ANCHOR -->
  
-* UTM Medium = `banner` 
-* UTM Source = `demandbase` 
+#### UTM structure for Demandbase
+{: #utms-abm-demandbase}
+<!-- DO NOT CHANGE ANCHOR -->
+* UTM Medium = `banner`
+* UTM Source = `demandbase`
 * UTM campaign = `campaign short hand` (the campaign that the content aligns to)
   - Limited options; keep consistent with other channels.
-  - UTM content = `shorthand of content` (i.e. `20211028cicdworkshop`)
+  - [See utm_content](/handbook/marketing/utm-strategy/#utm-content) for accepted options.
+  - For ad variations, use shorthand addition (i.e. `-accl1` `-accel2`) to the end of the content option
+  - Example in practice: `utm_content=acceldigtransformation` would add the following for 4 ad variations with different ad copy:
+     - `utm_content=acceldigtransformation-accel2`
+     - `utm_content=acceldigtransformation-accel1`
+     - `utm_content=acceldigtransformation-live2`
+     - `utm_content=acceldigtransformation-live1`
+
+#### UTM structure for LinkedIn (ABM)
+{: #utms-abm-linkedin}
+<!-- DO NOT CHANGE ANCHOR -->
+* UTM Medium = `paidsocial`
+* UTM Source = `linkedin`
+* UTM campaign = `campaign short hand` (the campaign that the content aligns to)
   - Limited options; keep consistent with other channels.
   - [See utm_content](/handbook/marketing/utm-strategy/#utm-content) for accepted options.
-  - Do not use `demandbase` for utm_content.
-* UTM GTM = `overarching GTM`
+  - For ad variations, use shorthand addition (i.e. `-accl1` `-accel2`) to the end of the content option
+  - Example in practice: `utm_content=acceldigtransformation` would add the following for 4 ad variations with different ad copy:
+     - `utm_content=acceldigtransformation-accel2`
+     - `utm_content=acceldigtransformation-accel1`
+     - `utm_content=acceldigtransformation-live2`
+     - `utm_content=acceldigtransformation-live1`
 
 ### UTM structure for partner campaigns
-{: #utms-structure-for-partner-campaigns .gitlab-purple}
+{: #utms-structure-for-partner-campaigns}
 * Most TBD
 * UTM PartnerID = the crm ID of the partner you wish to pass the lead to
 
