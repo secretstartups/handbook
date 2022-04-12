@@ -24,32 +24,55 @@ title: "Workspace Group"
   * Manage:Workspace [#g_manage_workspace_daily](https://gitlab.slack.com/archives/C02J4GTP38A)
 
 
-#### Prioritization
-<%= partial("handbook/engineering/development/dev/manage/prioritization.erb") %>
+#### Capacity Planning & Estimation
 
-#### Organizing the work
+Prior to release kickoff, the Engineering Manager needs to provide the total teams capacity in weight to the Product Manager. Each engineer on the team starts at a baseline weight of capability and is further reduced in capacity based on planned time off including holidays, company events such as [Family and Friends day](/company/family-and-friends-day/) or a team day, on-call shifts, and so on. The end result is a weight estimate that each engineer is reasonably capable of accomplishing, added up amongst all ~"frontend" engineers and ~"backend" engineers separately, and added to the planning issue.
 
-<%= partial("handbook/engineering/development/dev/manage/organizing_work.erb") %>
+In order to more accurately understand what work can be planned for a release without exhausting our team members, we provide weight estimations after a preliminary, surface-level investigation. We recognize that estimations may not be precise! However this is key in ensuring that the capacity planning estimate above is not overwhelming to the team.
 
-#### Estimation
+When estimating development work, please assign an issue the appropriate weight:
 
-<%= partial("handbook/engineering/development/dev/manage/estimation.erb") %>
+| Weight | Description (Engineering) |
+| ------ | ------ |
+| 1 | The simplest possible change. We are confident there will be no side effects. |
+| 2 | A simple change (minimal code changes), where we understand all of the requirements. |
+| 3 | A simple change, but the code footprint is bigger (e.g. lots of different files, or tests affected). The requirements are clear. |
+| 5 | A more complex change that will impact multiple areas of the codebase, there may also be some refactoring involved. Requirements are understood but you feel there are likely to be some gaps along the way. We should challenge ourselves to break this issue in to smaller pieces. |
+
+We do not provide estimates greater than 5 without encouraging iteration, splitting the issue, collaborating on what a lower effort MVC might be, or working with our counterparts to understand the unknowns. 
 
 #### Planning
 
-<%= partial("handbook/engineering/development/dev/manage/planning.erb") %>
+We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline). While meeting this timeline is flexible, a typical planning cycle is suggested to look like:
+
+* At the beginning of each month, Product should have created [a planning issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues?sort=created_date&state=opened&label_name[]=group::workspace&label_name[]=Planning+Issue) for the coming release.
+  * This issue should include an initial plan for the release, along with links to boards that represent the proposed work for the milestone.
+  * Issues without estimates should be investigated by engineering throughout the month so weighting does not need to happen at once. Issues of particular significance to our stage's strategy should be marked with `direction`.
+* By the 12th, all planned issues proposed for the next release should be estimated by engineering (`workflow:ready for development`).
+  * The EM should add any issues that have the potential to slip and their new weight estimates. Issues that we are sure will slip should be automatically rescheduled to the upcoming release in advance.
+  * After estimation, Product should make any needed adjustments to the proposed scope based on estimates. A synchronous meeting to review the final release scope is recommended. At this stage, any issues that the team is committing to delivering should have the ~Deliverable label applied to them.
+  * The EM will then assign those issues to individuals based on their individual capacity, and the release will begin
+
+##### What issues get planned?
+
+Between when the planning issue is created and when it gets finalized, [everyone can contribute](/company/mission/#everyone-can-contribute). [All group members](#group-members) can propose issues to be considered for the upcoming release here. Examples of some things to consider when proposing items would be:
+- Issues you have been trying to get prioritized or make time for in your free time
+- Performance, Application Limit, Reliability, Security, or Infradev issues
+- Bugs that you'd like to see resolved or are starting to pick up in frustration
+- Issues that may have been tentatively scheduled to this release already, for example when a security issue gets scheduled to a future milestone
 
 #### During a release
 
-<%= partial("handbook/engineering/development/dev/manage/release.erb") %>
+ In general, engineering will follow this workflow label cycle for any ~Deliverable issues in the release:
 
-#### Proof-of-concept MRs
-
-<%= partial("handbook/engineering/development/dev/manage/pocs.erb") %>
+1. `workflow::ready for development` - work is ready to begin, but has not yet started
+1. `workflow::in dev` - we are looking at the issue, and are either actively investigating, have began development, or have a draft merge request open
+1. `workflow::in review` - a merge request has been submitted and reviews have been requested
+1. `workflow::verification` - the work has merged, and needs to be verified by the assignee
 
 ### Working on unscheduled issues
 
-<%= partial("handbook/engineering/development/dev/manage/unscheduled_issues.erb") %>
+With the combination of our capacity planning (EM) and estimation (IC) processes above, engineers should have free time to work on ~"Stuff that should just work" or other topics that interest them. If an unscheduled issue should really be prioritized, bring it up in a planning issue or ask your manager to reduce your capacity further.
 
 ### Additional considerations
 
