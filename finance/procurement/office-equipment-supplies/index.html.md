@@ -53,9 +53,6 @@ If you prefer to choose your own office equipment, are not located in the US, an
 #### Suggested Items and Examples
   * If you would like to see some examples or suggested items, please reference our [Amazon list](https://a.co/gtDSu2K). These exact items may not fit your needs or may not be available in your location, but can be used as a guideline for options within our suggested price ranges above.
 
-#### Something else?
-  * No problem! Consider adding it to this list if others can benefit from it.
-
 See also the [Laptop Configuration page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations) before purchasing.
 Please message the `#expense-reporting-inquires` channel if you are unsure what you would like to purchase is reimbursable.
 
