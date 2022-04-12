@@ -33,7 +33,7 @@ The by-the-book schedule for the OKR timeline would be
 [Epic 1696](https://gitlab.com/groups/gitlab-com/-/epics/1696)
    1. **CEO KR:** Achieve first order large SAOs on yearly plan. [Issue 12844](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12844)
    1. **CEO KR:** Increase cloud licensing adoption (measured by % of ARR) for self-hosted customers from 1% to X%. [Issue 12845](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12845)
-   1. **CEO KR:** Complete Project Matterhorn milestones critical for a 2022-06 launch. [Issue 12846](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12846)
+   1. **CEO KR:** Complete Project Matterhorn milestones. [Issue 12846](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12846)
 
 ### 2. CEO: Improve User Engagement
 [Epic 1697](https://gitlab.com/groups/gitlab-com/-/epics/1697)
