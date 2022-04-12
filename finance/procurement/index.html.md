@@ -86,7 +86,8 @@ If purchasing Home Office Equipment and/or Software for your individual work use
 Once you've submitted your New Supplier Form, contact your supplier letting them know that within the next 1-2 days they will be receiving an onboarding request from Coupa. Let them know GitLab is unable to review or sign their contract until they complete this process so their prompt response is needed.
  
 Please note, it takes several hours for Coupa to activate the supplier and be able to submit a request.
-
+</div>
+</div>
 #### If Existing Supplier:
 1. Proceed to Step 2.
 
@@ -123,6 +124,8 @@ To help expedite the review and approval of your purchase request, be prepared t
     - Draft contracts are ok. Make note of any terms and/or pricing still being finalized. 
 - Click "Submit for Approval"
 - Note any progress, status, or considerations for the procurement team to negotiate your contract. i.e. “I asked for a discount from supplier and they gave me 10%, please feel free to negotiate further”.
+</div>
+</div>
 
 ### Step 4: Monitor Progress in Coupa
 1. You can check the status of your requisition at any time by scrolling to the “Approvers” section.
