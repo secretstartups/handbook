@@ -20,7 +20,7 @@ The mission of the data science team is to facilitate **_making better decisions
 
 ## Handbook First
 
-At GitLab we are [Handbook First](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) and promote this concept by ensuring the data science team page remains updated with the most accurate information regarding data science objectives, processes, and projects. We also strive to keep the handbook updated with useful resources and our data science toolset. 
+At GitLab we are [Handbook First](/handbook/handbook-usage/#why-handbook-first) and promote this concept by ensuring the data science team page remains updated with the most accurate information regarding data science objectives, processes, and projects. We also strive to keep the handbook updated with useful resources and our data science toolset. 
 
 ## Learning About Data Science
 
@@ -34,7 +34,7 @@ We hold regular AMAs:
 
 ## Data Science Responsibilities 
 
-Of the [Data Team's Responsibilities](https://about.gitlab.com/handbook/business-technology/data-team/#responsibilities), the Data Science Team is **directly responsible** for:
+Of the [Data Team's Responsibilities](/handbook/business-technology/data-team/#responsibilities), the Data Science Team is **directly responsible** for:
 
 - Delivering _descriptive_, _predictive_, and _prescriptive_ solutions that promote and improve [Gitlab's KPIs](https://about.gitlab.com/company/kpis/)
 - Being a **_Center of Excellence_** for predictive analytics and supporting other teams in their data science endeavors 
@@ -45,17 +45,17 @@ Additionally, the Data Science Team **supports** the following responsibilities:
 - With **Data Leadership**:
   - Scoping and executing a data science strategy that directly impacts business KPIs
   - Broadcasting regular updates about deliverables, ongoing initiatives, and roadmap
-- With the [**Data Platform Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/engineering/):
+- With the [**Data Platform Team**](/handbook/business-technology/data-team/organization/engineering/):
   - Defining and championing data quality best practices and programs for GitLab data systems
   - Deploying data science models, ensuring data quality and integrity, shaping datasets to be compatible with machine learning, and brining new datasets online
   - Creating data science pipelines that work natively with the Gitlab platform and the Data Team tech stack
-- With the [**Data Analytics Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/analytics/):
+- With the [**Data Analytics Team**](/handbook/business-technology/data-team/organization/analytics/):
   - Incorpating data science into analytics initiatives
   - Designing dashboard to enhance the value and impact of the data science models
 
 ## How We Work
 
-The Data Science flywheel is focused on improving business efficiency and KPIs by creating accurate and reliable predictions. This is done in collaboration with [Functional Analytics Center of Excellence](https://about.gitlab.com/handbook/business-technology/data-team/functional-analytics-center-of-excellence/) to ensure the most relevant datasources are utilized, business objectives are met, and results can be quantifiably measured. As business needs change, and as the user-base grows, this flywheel approach will allow the data science team to quickly adapt, iterate, and improve machine learning models.
+The Data Science flywheel is focused on improving business efficiency and KPIs by creating accurate and reliable predictions. This is done in collaboration with [Functional Analytics Center of Excellence](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/) to ensure the most relevant datasources are utilized, business objectives are met, and results can be quantifiably measured. As business needs change, and as the user-base grows, this flywheel approach will allow the data science team to quickly adapt, iterate, and improve machine learning models.
 
 ```mermaid
 graph BT;
@@ -147,38 +147,42 @@ The Data Science Team follows [Cross-Industry standard process for data mining (
 
 <img align="right" src="CRISP-DM_Process_Diagram.png" width="500">
 
-##### Business Understanding 
+1. **Business Understanding**
 
-The first step is to understand the business needs of the stakeholders and the success criteria of the project. This phase includes requirements gathering, stakeholders interviews, project defintion, product user stories, and potential use cases. This phase is closely aligned with GitLab's [OKRs](https://about.gitlab.com/company/okrs/) and company's value - [Iteration](/handbook/values/#iteration)
+    - Includes requirements gathering, stakeholders interviews, project definition, product user stories, and potential use cases in order to estabilish success criteria of the project. 
 
-##### Data Understanding 
+1. **Data Understanding**
 
-Data understanding is closely aligned with business understanding. It requires determining the breadth and scope of existing relevant datasources. In this phase, data scientists work closely with data engineers and data analysts to determine where gaps may exist and to identify any data discrepancies or risks. If there is a need to bring external data, a request should be raised in this phase. 
+    - Requires determining the breadth and scope of existing relevant datasources. Data scientists work closely with data engineers and data analysts to determine where gaps may exist and to identify any data discrepancies or risks. 
 
-##### Data Preparation 
+1. **Data Preparation** 
 
-After defining business needs and data sources, it is time to dive into the data! This phase requires conducting data quality checks and exploratory data analysis (EDA). At this stage, data scientists are developing a greater understanding of data and how different datapoints relate to solving the business need. This will be very useful in the next phase - modeling.
+    - Requires conducting data quality checks and exploratory data analysis (EDA) to develop a greater understanding of data and how different datapoints relate to solving the business need.
 
-##### Modeling 
+1. **Modeling** 
 
-Modeling refers process by which various machine learning techniques are used to find a solution that addresses the business need. This often takes the form of predicting why/when/how future instances of a business outcome will occur (e.g. which customers are likely to churn in the next 6 months?). This is achieved by looking at the complex mathematical relationships between the data and the outcome. Often, this process is referred to as "training the model."
+    - Machine learning techniques are used to find a solution that addresses the business need. This often takes the form of predicting why/when/how future instances of a business outcome will occur.
 
-##### Evaluation 
+1. **Evaluation** 
 
-Performance is generally measured by how _accurate_, _powerful_, and _explainable_ the model is. Findings are presented to the stakeholders for feedback. This phase is strongly aligned with the GitLabs values of [Iteration](/handbook/values/#iteration) Incorporating feedback, data scientists iterate over _Modeling_ and _Evalution_ long as business goal is met.
+    - Performance is generally measured by how _accurate_, _powerful_, and _explainable_ the model is. Findings are presented to the stakeholders for feedback. 
 
-##### Deployment
+1. **Deployment**
 
-Once the model has been approved by the stakeholders, it then gets deployed into the data science production pipeline. This process automatically updates, generates predictions, and monitors the model on a regular cadence.  
+    - Once the model has been approved it then gets deployed into the data science production pipeline. This process automatically updates, generates predictions, and monitors the model on a regular cadence.  
 
+#### The Gitlab approach
+The [Data Science Team approach to model development](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/project_dev_approach/) is centered around Gitlab's value of [iteration](/handbook/values/#iteration) and the CRISP-DM standard. Our process expands on some of the 6 phrase outlined in CRISP-DM in order to best address the needs of our specific business objectives and data infrastructure.
 
 ## Data Science Platform
 
 Our current platform consists of:
-- the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/) for storing raw and normalized source data as well as final model output for consumption by downstream consumers
-- JupyterLab for model training, tuning, and selection
+- the [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/) for storing raw and normalized source data as well as final model output for consumption by downstream consumers
+- [JupyterLab](/handbook/business-technology/data-team/platform/jupyter-guide/) for model training, tuning, and selection
+- [Gitlab](https://gitlab.com/) for collaboration, project versioning, and score code management
+- [Airflow](/handbook/business-technology/data-team/platform/infrastructure/#airflow) for automation and orchestration
 
-Over time we plan to dogfood as many components of the GitLab MLOps Stage as possible, leading to fully automated productionalized pipelines. However,  the [MLOps Stage is currently incubating](https://about.gitlab.com/handbook/engineering/incubation/mlops/) and is not yet ready for our use. Our immediate next step is to automate `Current State Data Flows` using a combination of python and airflow.
+Over time we plan to dogfood as many components of the GitLab MLOps Stage as possible, leading to fully automated productionalized pipelines. However,  the [MLOps Stage is currently incubating](/handbook/engineering/incubation/mlops/) and is not yet ready for our use. Our immediate next step is to automate `Current State Data Flows` using a combination of python and airflow.
 
 ### Current State Data Flows
 
@@ -195,8 +199,11 @@ graph
     F[Enterprise Data Warehouse: Model Output for Consumption]
     D[Salesforce: CRM Use Cases]
     E[Sisense: Inspector and Operations Dashboards]
+    G[Gitlab: Source Code Management]
     A --> |ODBC| B 
-    B --> C
+    B --> G
+    G --> B
+    G --> C
     C --> |JSON| F
     F --> |TSV| D
     F --> |ODBC| E
