@@ -1,0 +1,31 @@
+---
+layout: handbook-page-toc
+title: Product Intelligence FAQ
+---
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## FAQ
+
+### Why can't I find new Snowplow tracking events in my staging environment?
+
+Most SiSense models you can query do not include Snowplow tracking events from the staging environment. This ensures that all events you see are production events, and your dashboards and metrics are not skewed by staging events. Staging Snowplow events can be
+queried from `prod.legacy.snowplow_staging_unnested_events_30` table. Example query:
+
+```
+select *
+from prod.legacy.snowplow_staging_unnested_events_30
+where collector_tstamp >= DATE('2022-03-20')
+order by collector_tstamp desc
+```
+
+### Can I add aggregated metrics that use both Redis and database data sources?
+
+It is not yet possible to add aggregated metrics due to differences in the implementation of the underlying algorithms for each of data sources. [Issue 357577](https://gitlab.com/gitlab-org/gitlab/-/issues/357577) outlines the work required in order to add this feature.
+
+### Where I can find queries used to build Automated Service Ping?
+
+There is an API endpoint, see more details in the [documentation](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
