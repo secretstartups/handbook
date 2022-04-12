@@ -121,7 +121,7 @@ This is a light weight virtual event that can be hosted on GitLabber's personal 
 
 We can track registration, but there is **NO Marketo integration and NO Marketo landing page**, requiring manual list upload to Marketo post event by MOps. For this virtual event type, no Campaigns Team program support pre/post event will be required.
 
-**[Self-service handbook](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/)**
+[Self-service handbook](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/)
 
 This is the same format as a self-service event, except **Campaigns Team** will support 1-2 invitations and follow-up email. 
 
@@ -131,7 +131,7 @@ This is a GitLab-hosted virtual event with `Webcast` type configuration, which *
 * BrighTALK (Campaigns Team): goal is net new customer acquisition, aligned to campaign motions to drive MQLs in target accounts and broader prospect database. No cap to registration, requires registration on BrightTALK.
 * Zoom (Field Marketing): goal is to increase conversion/velocity of MQLs to SAO, and/or SAO to Closed Won, aligned to campaign motions. Capped registration at 1000 attendee, requires registration on Marketo landing page.
 
-[Webcast handbook](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/)
+[Webcast handbook](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/)
 
 #### Webcast Subcategory - Virtual Hands-on Workshops 
 {: #workshops}
@@ -145,11 +145,11 @@ For details regarding Virtual Workshops, please visit the [Field Marketing Page]
 
 ### Virtual Conference
 {: #virtual-conference}
-Please work with the Corporate Marketing Events team on planning these large scale events. [Virtual Conference handbook](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-conference/) This event type is only intended if you need more tracked attendees than is capable with zoom and/ or you need multiple simultaneous tracks. It also allows for a partner expo hall. The tool we have in place allows for a cleaner experience for the end user than switchign between zoom calls. It more mirrors a physical event experience, with a keynote stage, tracks, expo halls and networking options. 
+Please work with the Corporate Marketing Events team on planning these large scale events. [Virtual Conference handbook](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/#virtual-conference) This event type is only intended if you need more tracked attendees than is capable with zoom and/ or you need multiple simultaneous tracks. It also allows for a partner expo hall. The tool we have in place allows for a cleaner experience for the end user than switchign between zoom calls. It more mirrors a physical event experience, with a keynote stage, tracks, expo halls and networking options. 
 
 ### External virtual events
 {: #external}
-Note: these events are not included in the above decision tree as they are not GitLab-hosted events. [External virtual events handbook](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/)
+Note: these events are not included in the above decision tree as they are not GitLab-hosted events. [External virtual events handbook](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/)
 
 * **Sponsored demand gen webcast:** This is webcast hosted on an external partner/vendor platform (e.g: DevOps.com). The partner/vendor is responsible for driving registration, moderating and hosting the webcast on their platform. Mktg-OPs will be responsible for uploading the list to our database and MPMs will be responsible for sending post-event follow-up emails. *[Link to Marketo program template.](https://app-ab13.marketo.com/#PG5523A1)*
 * **Sponsored Virtual Conference:** This is not a webcast but rather a virtual conference where we pay a sponsorship fee to get a virtual booth and sometimes a speaking session slot. Campaigns Team will primarily be responsible for sending the post-event follow-up emails. *[Link to Marketo program template.](https://app-ab13.marketo.com/#ME5121A1)*
