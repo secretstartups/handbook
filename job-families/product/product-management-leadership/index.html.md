@@ -239,7 +239,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * 50 minute interview with CEO
 
 ### Senior Director of Product Monetization
-The Senior Director of Product Monetization reports to the [Chief Product Officer](/job-families/product/evp-of-product/).
+The Senior Director of Product Monetization reports to the [VP of Product](/job-families/product/vp-of-product/).
 
 #### Senior Director of Product Monetization - Job Grade
 
