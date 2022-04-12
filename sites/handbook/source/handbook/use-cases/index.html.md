@@ -35,7 +35,7 @@ I want to manage my entire DevOps lifecycle more efficiently with better outcome
    1. *Deliver Better Products Faster:* More collaboration, working in parallel
    1. *Reduce Security and Compliance Risk:* standardized pipelines for consistent testing, end-to-end common controls, and shared views for visibility across functions.
 
-### **2. Software Delivery Automation** 
+### 2. Software Delivery Automation 
 This is a new term for us and is being better defined. It will include the basics of devops automation: [SCM](handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration), [CI](/handbook/marketing/strategic-marketing/usecase-gtm/ci/), [CD](/handbook/marketing/strategic-marketing/usecase-gtm/cd/).
 
 **Business objectives: We want to increase the quality of my code while decreasing time to delivery** 
