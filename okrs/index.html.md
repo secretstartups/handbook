@@ -83,7 +83,7 @@ OKRs do not replace or supersede core team member responsibilities or performanc
 
 ## Ally.io for OKRs
 
-As of FY23-Q2, the whole company will use a third-party vendor, [Ally.io](https://ally.io/),for OKRs. All team members have access to Ally.io. New team members are automatically imported from BambooHR within a week of their joining. 
+As of FY23-Q2, the whole company will use a third-party vendor, [Ally.io](https://ally.io/), for OKRs. All team members have access to Ally.io. New team members are automatically imported from BambooHR within a week of their joining. 
 
 ### Ally.io is not limited access
 
