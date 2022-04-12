@@ -232,7 +232,7 @@ A template for the status update can be [found here](https://gitlab.com/gl-edito
 Triaging is a team-effort. Every week the EM, PM and UX lead are pinged on the GitLab Triage Issue. This lists a lot of issues that have no weight or details on it. The EM, PM and UX lead should look to triage these ASAP and follow these guidelines:
 
 - All bugs should be looked at by the EM, all feature's should be looked at by the PM and then Engineers/UX should be pinged on those issues as needed.
-- If it's a high priority bug, please assign it to the current or next Milestone right away so we can address it within time. 
+- If it's a high priority bug, please assign it to the current or next Milestone right away so we can address it within time.
 - If the issue seems very specific, or it's something that's probably not being addressed anytime soon please apply the `%"Awaiting further demand"` Milestone.
 - If the issue seems like a duplicate, please look for a similar issue, link them and close the newer one.
 - If the issue fits for a [Backlog Refinement](#backlog-refinement) session, please apply the appropriate label.
@@ -248,7 +248,16 @@ This practice is very important for our team to make sure our backlog is actuall
     - [Improvements Epic][epic-improvements]
     - All issues going into these Epics need to fulfill our general Issue guideline.
 
-Sometimes the issue needs next steps defined, so we use [this Snippet](https://gitlab.com/gl-editor/team/-/snippets/2128804#backlog-refinement-session-update) to define the DRI and the actions that need to be taken next outside of the meeting.
+Sometimes the issue needs next steps defined, so we use [this snippet](https://gitlab.com/gl-editor/team/-/snippets/2128804#backlog-refinement-session-update) to define the DRI and the actions that need to be taken next outside of the meeting.
+
+### 🌉 Planning Guidelines
+
+We use the terms _Architecture Plan_ and _Iteration Plan_ when we think of outcomes to broad high-level issues. An investigative spike should result in an Architecture Plan and an Iteration Plan.
+
+- **Architecture Plan**: A high-level vision of a technical approach that is shown to solve user problems. This plan includes a formulation of specific [quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes) that are important for this use cases (such as performance, usability, or security). It also includes an outline of technical approaches that will satisfy these quality attributes in addition to the functional requirement. A [spike effort](https://en.wikipedia.org/wiki/Spike_(software_development)) should be created to verify and explore the technical approach for an architecture plan. The spike could result in new architectural concerns, resulting in an iteration of the plan.
+- **Iteration Plan**: A plan for how we'll iteratively implement an Architecture Plan or another objective. This can be composed of low-level technical steps, or medium-level slices of use cases. The iteration plan should result in a set of issues (and possible epics) with clearly defined scope and weights.
+
+**Sometimes it takes a time to develop a well fleshed-out iteration plan. In these cases, A "Formulate Iteration Plan" weighted issue can be used.**
 
 ### 📝 Issue Guidelines
 
@@ -295,7 +304,7 @@ It is advised to manually transition issues from one label to another and not us
 In the Create:Editor team we leverage an automatic issue hygiene system via the [triage bot](https://gitlab.com/gitlab-org/quality/triage-ops/-/tree/master/policies/groups/gitlab-org/editor). This helps to ensure issues and label hygieneare respected, currently our rules are:
 
 - If a issue is assigned the "ready for development" label but has no technical labels, they are assigned automatically and a member of the team is pigned to verify the issue.
-- If an issue is asigned the "verification" label a team memeber is pinged and asked to review it so that the issue can be closed. 
+- If an issue is asigned the "verification" label a team memeber is pinged and asked to review it so that the issue can be closed.
 
 ### 🏋️‍♂️ Capacity planning
 
