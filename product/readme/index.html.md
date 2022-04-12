@@ -5,7 +5,6 @@ title: "Product README's"
 
 ## Product README's
 
-- [Scott Williamson's README](scott-williamson.html)
 - [Kevin Chu's README](https://gitlab.com/kbychu/README)
 - [Kenny Johnston's README](https://gitlab.com/kencjohnston/kencjohnston)
 - [Jackie Porter's README](https://gitlab.com/jreporter/read-me#jackie-porters-readmemd)
