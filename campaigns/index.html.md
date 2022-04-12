@@ -18,8 +18,6 @@ The goal of a GitLab integrated campaign is to strategically land a cohesive mes
 
 **[Campaign Managers](/handbook/marketing/demand-generation/campaigns/)** are responsible for the strategizing of integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
 
-**Questions? Please feel free to ask in the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS).**
-
 **Questions? Please feel free to ask in the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-campaigns.**
 
 ### Campaign Core Teams
@@ -35,7 +33,7 @@ A `Campaign Core Team` is led by a [Marketing Campaign Manager](/handbook/market
 * Revenue Programs (Primary)
 * Brand (Primary)
 * Partner Marketing (Primary)
-* Digital Markeitng (Secondary)
+* Digital Marketing (Secondary)
 * SDR Leadership (Secondary)
 * SDR Enablement (Secondary)
 * Corporate Marketing (Liaison for activation)
@@ -402,31 +400,29 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 {: #campaign-steps}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* **Campaign and launch date is determined by Marketing Leadership**
+* **Campaign need/timing determined by Marketing Leadership and Revenue Programs**
 * **Assign:** Campaign Manager is assigned
-* **Assign:** Marketing team leaders assign DRIs from their teams
-* **Meeting:** Campaign Manager organizes campaign kickoff call with early-stage DRIs (Campaign Manager, DMP, PMM, TMM)
-* **Meeting:** Campaign Manager organizes campaign brief call with early-stage DRIs (Campaign Manager, DMP, PMM, TMM)
-* **Plan:** Campaign Manager creates project plan (GANTT chart) with timelines and DRIs
+* **Assign:** Marketing team leads assign DRIs from their teams
+* **Organize:** Campaign Manager creates Slack channel for ongoing async communication
+* **Meeting:** Campaign Manager organizes campaign kickoff call
+* **Plan:** Campaign Manager creates project plan (workback) with timelines and DRIs
 * **Plan:** Campaign Manager creates the epic and related issues, including the due dates and DRIs from project plan
-* **Meeting:** Campaign Manager organizes the bi-weekly 30 minute check-in call to cover milestones met and determine any blockers/at-risk action items
+* **Meeting:** Campaign Manager organizes the core team connect call to cover milestones met and determine any blockers/at-risk action items
 * **Async:** *DRIs are responsible for delivering by their due dates, with timeline adherence being critical due to dependencies for later tasks to be completed by other teams*
 * **Reporting:** Campaign Manager organizes reporting issue with clear DRI to include overall metrics and more detailed drill-in by channel (one month post-launch)
 * **Optimization:** Campaign Manager creates issues for optimizing the landing page, channels, etc. and assigning to relevant DRIs
 
-#### Integrated Campaign Meetings
-{: #meetings}
-<!-- DO NOT CHANGE THIS ANCHOR -->
+[See more in Core Team Communication section >>](/handbook/marketing/campaigns/#core-team-communication)
 
 ## Campaign Manager Epic Creation
 {: #epic-creation .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+***The Campaign Manager of the integrated campaign will create the epic with the following structure - details and links to be added up on creation of documents and timeline defined.***
+
 #### Epic Code
 {: #epic-code}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-
-***The Campaign Manager of the integrated campaign will create the epic with the following structure - details and links to be added up on creation of documents and timeline defined.***
 
 ```
 <!-- Name this epic: Name of Campaign [Integrated Campaign] (i.e. Automated Software Delivery [Integrated Campaign])
