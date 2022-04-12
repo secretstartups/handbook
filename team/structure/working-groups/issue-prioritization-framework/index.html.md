@@ -19,7 +19,7 @@ canonical_path: "/company/team/structure/working-groups/issue-prioritization-fra
 | Target End Date | April 1, 2021   |
 | Slack           | [#wg_issue-prioritization](https://join.slack.com/share/zt-etotbmm9-FzhcHH0BGbw3~D4Xe5rAyg) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1oBWNxBSOJKrh3ubHwN5pI8243vBjJ-Y_Cax17A5abII/edit) (only accessible from within the company) |
-| Docs            | [Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/2086332?label_name[]=wg%3Aprioritization%20framework) |
+| Docs            | [Handbook Page](https://about.gitlabe.com/handbook/product/product-processes/customer-issues-prioritization-framework) |
 | Related Issue   | [Adding context to customer's requests](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/907) |
 | Associated OKRs | [Increase TMAU and Paid TMAU](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team/-/issues/80) |
 
@@ -61,9 +61,9 @@ TL;DR: Once validated, we drive adoption across Product/CS/Sales and collect mea
 
 Scaled pilot (IC PM / TAM focused) measures of success:
 
-- `> 80%` of Product Managers find the prioritization framework an invaluable sensing mechanism as measured by quarterly survey responses.
+- `> 80%` of Product Managers regularly use the dashboards powered by the framework and find the prioritization framework an invaluable sensing mechanism as measured by quarterly survey responses.
   - Current: Not measured
-- `> 80%` of Technical Account Managers report a significant efficiency gain as a result of utilizing the TAM dashboard as measured by quarterly survey responses. 
+- `> 80%` of Technical Account Managers regularly use the dashboards powered by the framework and report a `> 30%` efficiency gain of reporting on customer requested issues as a result of utilizing the TAM dashboard as measured by quarterly survey responses. 
   - Current: Not measured 
 
 Verify and measure at scale:
