@@ -162,6 +162,23 @@ To notify JiHu of an upcoming security release, please simply post a comment in:
 
 ## Product
 
+### Role of the Product DRI
+
+The [Product DRI](#rd-roles) has the following responsibilities:
+
+* Provide product management practice guidance to the JiHu CTO and product counterparts
+* Enable alignment between GitLab Product and JiHu Product
+  * Provide regular updates and raise awareness of GitLab investment themes and roadmap
+  * Disseminate JiHu plans and roadmap with the appropriate party
+* Liaise with JiHu CTO on product data
+* Be the DRI for cross-company development efforts. For example - this [confidential issue](https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/186)
+* Partner with Engineering DRI and Engineering Facilitators to define and maintain processes that ensures the smooth functioning between GitLab and JiHu
+
+#### What Product is not responsible for
+
+* Just like [PMs aren't the arbiters of community contribution](/handbook/product/product-processes/#gitlab-pms-arent-the-arbiters-of-community-contributions), we are not the arbiter of what the JiHu team works on
+* The Product DRI is responsible to collaborate and provide guidance on JiHu product decisions. However, they are not responsible for JiHu product decisions, such as tiering, pricing, or decisions such as upstream and downstream contributions
+
 ### Differentiating Proprietary JiHu Features
 
 We differentiate proprietary features for JiHu distributions by including them in the `/jh` [directory](https://gitlab.com/gitlab-org/gitlab-jh-mirrors/-/tree/main-jh/jh). However, the majority of contributions from JiHu team members should be outside of the `/jh` directory signaling the expectation that most contributions are to GitLab Core and only certain specific features are exclusive to the /jh offering.
