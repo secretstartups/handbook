@@ -15,7 +15,7 @@ title: Development Escalation Process
 **Note**
 {: .panel-heading}
 <div class="panel-body">
-We use [Pagerslack](#bot-pagerslack-usage) as the primary combined with the [spreadsheet](https://tinyurl.com/wtdao82) as a backup for weekday escalations. Weekend escalations rely on the spreadsheet solely.
+We use [Pagerslack](#bot-pagerslack-usage) as the primary combined with a spreadsheet(internal only) as a backup for weekday escalations. Weekend escalations rely on the spreadsheet solely.
 </div>
 </div>
 
@@ -96,13 +96,13 @@ In the event that no BE engineers respond to the bot, Pagerslack will then notif
 1. Try to find someone available from your group
 1. If the search is positive, leave a message in the thread as an acknowledgement that the engineer from your group will be looking into the issue
 
-The [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) will be used as a last resort during weekdays through August 2021, only when the EMs are unable to find anybody. Beginning September 2021, we will remove it completely and fully adopt this process if no escalations to the spreadsheet were made.
+The oncall spreadsheet(internal only) will be used as a last resort during weekdays through August 2021, only when the EMs are unable to find anybody. Beginning September 2021, we will remove it completely and fully adopt this process if no escalations to the spreadsheet were made.
 
 #### Weekends and Holidays (UTC)
 
-Weekend/Holiday oncall will continue to use the existing Oncall process using the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) outlined above.
+Weekend/Holiday oncall will continue to use the existing Oncall process using the oncall spreadsheet(internal only) outlined above.
 
-Holidays will continue to be included in the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing), those holidays include: [Family & Friends days](https://about.gitlab.com/company/family-and-friends-day/), Christmas Day, New Years Eve, New Years Day, and any major holidays that affect multiple timezones.
+Holidays will continue to be included in the oncall spreadsheet(internal only), those holidays include: [Family & Friends days](https://about.gitlab.com/company/family-and-friends-day/), Christmas Day, New Years Eve, New Years Day, and any major holidays that affect multiple timezones.
 
 ##### Escalation
 
@@ -165,7 +165,7 @@ Holidays will continue to be included in the [oncall spreadsheet](https://docs.g
    Most on-call shifts will take place within an engineer's normal working
    hours.
 
-   Scheduling and claiming specific shifts is done on the [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing). More on that below.
+   Scheduling and claiming specific shifts is done on the oncall spreadsheet(internal only). More on that below.
 
 #### Eligibility
 
@@ -178,16 +178,16 @@ Holidays will continue to be included in the [oncall spreadsheet](https://docs.g
      * This would not be an issue in the U.S.
      * At this point we would only be looking into countries where 1) we have legal entities, as those team members are employees or 2) countries where team members are hired as employees through one of our PEO providers. For everyone else, team members are contracted as independent contractors so general employment law would not apply.
 
-   The eligibility is maintained in this [team members list](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=2020389965) and the spreadsheet is refreshed monthly as below:
+   The eligibility is maintained in this team members list(internal only) and the spreadsheet is refreshed monthly as below:
    1. Extract all employees from [team.yml](/company/team/team.yml).
    2. Identify each person's role in column C based on their profile in team.yml, specifically their `role` and/or `departments`.
    3. Filter column C by displaying `Backend/Distribution/Fullstack` engineers only.
 
 #### Nomination
 
-   Engineers normally claim shifts themselves on this [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
+   Engineers normally claim shifts themselves on this oncall spreadsheet(internal only).
    To ensure we get 100% coverage, the schedule is fixed one month in advance.
-   Engineers claim shifts between two and three months in advance. When signing up, fill the cell with your **full name** as it appears in the [team members list](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=2020389965), **Slack display name**, and **phone number with country code**. This same instruction is posted on the header of schedule spreadsheet too.
+   Engineers claim shifts between two and three months in advance. When signing up, fill the cell with your **full name** as it appears in the team members list (internal only), **Slack display name**, and **phone number with country code**. This same instruction is posted on the header of schedule spreadsheet too.
 
    At the start of each month, engineering managers look at the schedule for
    the following month (e.g. on the 1st March, they would be considering the
@@ -207,7 +207,7 @@ Holidays will continue to be included in the [oncall spreadsheet](https://docs.g
    the ones who end up being assigned shifts that nobody else wants to cover,
    so it's best to sign up for shifts early!
 
-   There is additional information regarding weekend shifts, which can be found in ["Additional Notes for Weekend Shifts"](https://drive.google.com/drive/search?q=%22Additional%20Notes%20for%20Weekend%20Shifts%22) under a sub-folder called *Development Escalation Process* in the shared *Engineering* folder on Google Drive.
+   There is additional information regarding weekend shifts, which can be found in "Additional Notes for Weekend Shifts"(internal only) under a sub-folder called *Development Escalation Process* in the shared *Engineering* folder on Google Drive.
 
 #### Relay Handover
    * Since the engineers who are on call may change frequently, responsibility
@@ -262,7 +262,7 @@ The coordinator will:
 1. Coordinate temporary changes or special requests that cannot be
    resolved by engineers themselves.
 1. After assigning unfilled slots and accommodating special requests the coordinator should click **Sync to Calendar > Schedule shifts**.
-   This will schedule shifts in [this calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_vj98gounb5e3jqmkmuvdu5p7k8%40group.calendar.google.com&ctz=Europe%2FWarsaw)
+   This will schedule shifts on the `On-call schedule shifts` calendar
    and if any developer added their email into the spreadsheet, they will be added as guests in the on-call calendar event. Ensure that you have subscribed to the calendar before syncing.
 
 An [Epic of execution tracking](https://gitlab.com/groups/gitlab-com/-/epics/122) was created, where each coordinator is expected to register an issue under this Epic for the month-on-duty to capture activities and send notifications. Here is [an example](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4965).
@@ -270,13 +270,13 @@ An [Epic of execution tracking](https://gitlab.com/groups/gitlab-com/-/epics/122
 #### How-To
 Refer to this [coordinator issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/dev-oncall-monthly-execution.md) for instructions or the steps below. The same template is used for monthly oncall planning and execution issues.
 
-1. Start by finding the least filled shift (Usually this is 00:00 - 04:00 UTC) in [the on-call sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
+1. Start by finding the least filled shift (Usually this is 00:00 - 04:00 UTC) in the oncall spreadsheet(internal only).
 1. Determine the appropriate timezone for this shift (in the case of 00:00 - 04:00 it is +9,+10,+11,+12,+13).
-1. Go to the [team members list sheet](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=1242210014) and filter the "UTC" column by the desired timezones for the shift . Now you have the list of possible people that can take this shift, and please try your best to honor the personal "Preferred Weekend Hours (UTC)" and "Preferred Weekend Day" whenever possible. Alternatively, you can use [this dev-on-call tool](https://gitlab.com/gitlab-com/dev-on-call) to find out people who may take this shift.
+1. Go to the team members list sheet(internal only) and filter the "UTC" column by the desired timezones for the shift . Now you have the list of possible people that can take this shift, and please try your best to honor the personal "Preferred Weekend Hours (UTC)" and "Preferred Weekend Day" whenever possible. Alternatively, you can use [this dev-on-call tool](https://gitlab.com/gitlab-com/dev-on-call) to find out people who may take this shift.
 1. Go to google calendar and start to create a dummy event that is on the day and time of the unclaimed shift . NOTE you will not actually end up creating this event.
 1. Add all of the people that can possibly take the shift to the event as guests.
 1. Go to the "Find a Time" tab in the calendar event to see availabilities of people.
-1. Find a person that is available (preferring people that have taken less than 4 shifts per quarter and few or no shifts overall, based on the [shifts counts sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit#gid=2078444703)). Note people who are on leave or otherwise busy or in interviews, do not schedule them for the shift. It would be fine to ignore events that appeared to be normal team meetings, 1:1, coffee chat as people can always leave a meeting if there is an urgent escalation.
+1. Find a person that is available (preferring people that have taken less than 4 shifts per quarter and few or no shifts overall, based on the shifts counts sheet (internal only)). Note people who are on leave or otherwise busy or in interviews, do not schedule them for the shift. It would be fine to ignore events that appeared to be normal team meetings, 1:1, coffee chat as people can always leave a meeting if there is an urgent escalation.
 1. Assign them to the shift by filling their name in the on-call sheet in Purple font color.
 1. Now since there are likely many days that have this unfilled time slot then update the event date to the next day with this same unfilled time zone. Since it's the same time then the same set of people will be appropriate to take the shift which means you don't need to update the guest list.
 1. Repeat all of the above for all of the unclaimed timezones remembering that you want to solve for one shift (by time range) at a time as it means you will re-use the same guest list to determine availability.
@@ -296,11 +296,11 @@ For those eligible engineers, everyone is encouraged to explore options that wor
 
 With the above alternatives we want to make sure we comply with local labor laws and not surpass the restricted weekly working hours (ranging from 38 to 60 hours) and offer enough rest time for the engineers who sign up on weekend on-call shifts.
 
-If you prefer to work on a preferred weekend day or at other times during the weekend, go to the [Development-Team-BE](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=1815243380) and fill your "Preferred Weekend Hours (UTC)" and/or "Preferred Weekend Day". If you prefer to work one hour later than normal working day, substract 1 from your normal UTC and fill that as "Preferred Weekend Hours (UTC)". The coordinators will take this into account when assigning unfilled slots.
+If you prefer to work on a preferred weekend day or at other times during the weekend, go to the Development-Team-BE spreadsheet (internal only) and fill your "Preferred Weekend Hours (UTC)" and/or "Preferred Weekend Day". If you prefer to work one hour later than normal working day, substract 1 from your normal UTC and fill that as "Preferred Weekend Hours (UTC)". The coordinators will take this into account when assigning unfilled slots.
 
 ### Rotation Schedule
 
-See the [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing). In the future, we could embed a summary of the upcoming
+See the oncall spreadsheet(internal only). In the future, we could embed a summary of the upcoming
 week here.
 
 ## Resources
@@ -331,7 +331,7 @@ Feel free to participate in any incident triaging call if you would like to have
 
 ### Replaying Previous Incidents
 
-Situation Room recordings from previous incidents are available in this [Google Drive folder](https://drive.google.com/drive/u/1/folders/1wtGTU10-sybbCv1LiHIj2AFEbxizlcks) (internal).
+Situation Room recordings from previous incidents are available in internal Google Drive folder.
 
 ### Shadowing A Whole Shift
 
