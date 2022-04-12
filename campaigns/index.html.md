@@ -20,6 +20,55 @@ The goal of a GitLab integrated campaign is to strategically land a cohesive mes
 
 **Questions? Please feel free to ask in the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-campaigns.**
 
+## What is involved in an Integrated Campaign?
+
+An integrated campaign is aligned to key go-to-market motions, decided in collaboration between marketing and sales, and built out by a [campaign core team](/handbook/marketing/campaigns/#campaign-core-teams). A [campaign manager](](/handbook/marketing/demand-generation/campaigns/)) will lead the effort, working closely with the campaign core team, to develop a [campaign bundle](/handbook/marketing/campaigns/#campaign-bundles) that is then used by all teams in marketing for [activation across channels and tactics](/handbook/marketing/campaigns/#campaign-activation), and integrated with revenue programs for a cohesive end-to-end experience for the prospective customer.
+
+### What is in a campaign bundle?
+{: #campaign-bundles}
+
+Think of a **campaign bundle** as the foundational pieces of an integrated campaign. They are used by all teams in marketing and sales to maintain a cohesive message and branding across all tactics and activities aligned to the topical campaign.
+
+_The list below includes recommended items included in a **Campaign Bundle**, which is developed by the Campaign Core Team consisting of Campaigns, Product Marketing, Technical Marketing, Content Marketing, and Digital Marketing.
+
+To see a visual of campaign bundles, which are then leveraged in activation plans, please see [this MURAL](https://app.mural.co/t/gitlab2474/m/gitlab2474/1619125370999/270c2d5df5a535223c053f2dba0d06833f9b92d1?sender=jgragnola2053).
+
+**What is included in a Campaign Bundle?**
+* Target personas
+* Persona-based positioning and messaging
+* Market landscape
+* Product capabilities
+* Content journey (including awareness, consideration, and decision stages)
+* Analyst relations content (if available)
+* Customer references
+* Emails for content in buyer journey
+* Creative for ads, emails, landing pages
+* Alliance partner joint GTM campaigns and activities
+* Channel partner "Instant Campaigns"
+* Outreach sequences/templates
+* SDR enablement
+
+## How are campaign bundles activated?
+{: #campaign-activation}
+
+Campaign bundles are leveraged by all teams in marketing and sales to drive a cohesive full-funnel approach with aligned personas, positioning, messaging, and branding across all touchpoints and conversations.
+
+**Activation activites include:**
+- Webcasts
+- Tech Demos
+- Workshops
+- Regional events
+- Corporate events
+- Community events
+- Owned events (Commit)
+
+**Activation channels include:**
+- Email nurture
+- Paid digital (paid social, GDN, etc.)
+- Social
+- PR
+- Community
+
 ### Campaign Core Teams
 {: #campaign-core-teams}
 
@@ -82,58 +131,22 @@ A `Campaign Core Team` is led by a [Marketing Campaign Manager](/handbook/market
 
 *Because of the global nature of the GitLab team, schedules can be difficult to manage to ensure everyone can attend. For the Kickoff Call, the following team members are to be prioritized for attendance (because they are key contributors to the initial deliverables that are dependencies for other teams).*
 
-### What is in a campaign bundle?
-{: #campaign-bundles}
-
-Think of a **campaign bundle** as the foundational pieces of an integrated campaign. They are used by all teams in marketing and sales to maintain a cohesive message and branding across all tactics and activities aligned to the topical campaign.
-
-_The list below includes recommended items included in a **Campaign Bundle**, which is developed by the Campaign Core Team consisting of Campaigns, Product Marketing, Technical Marketing, Content Marketing, and Digital Marketing.
-
-To see a visual of campaign bundles, which are then leveraged in activation plans, please see [this MURAL](https://app.mural.co/t/gitlab2474/m/gitlab2474/1619125370999/270c2d5df5a535223c053f2dba0d06833f9b92d1?sender=jgragnola2053).
-
-**What is included in a Campaign Bundle?**
-* Target personas
-* Persona-based positioning and messaging
-* Market landscape
-* Product capabilities
-* Content journey (including awareness, consideration, and decision stages)
-* Analyst relations content (if available)
-* Customer references
-* Emails for content in buyer journey
-* Creative for ads, emails, landing pages
-* Alliance partner joint GTM campaigns and activities
-* Channel partner "Instant Campaigns"
-* Outreach sequences/templates
-* SDR enablement
-
-## How are campaign bundles activated?
-{: #campaign-activation}
-
-Campaign bundles are leveraged by all teams in marketing and sales to drive a cohesive full-funnel approach with aligned personas, positioning, messaging, and branding across all touchpoints and conversations.
-
-**Activation activites include:**
-- Webcasts
-- Tech Demos
-- Workshops
-- Regional events
-- Corporate events
-- Community events
-- Owned events (Commit)
-
-**Activation channels include:**
-- Email nurture
-- Paid digital (paid social, GDN, etc.)
-- Social
-- PR
-- Community
-
 ## How do we measure performance??
-{: #campaign-performance}
+{: #campaign-performance .gitlab-purple}
 We leverage multi-touch attribution reporting in Sisense to help us understand which campaigns, activities, and channels drive the best results, with a goal of SAO and Pipeline. We review these metrics at a segment/region breakout level, as well as reviewing overall campaign metrics with the campaign core teams to identify optimization opportunities to maximize results.
 
 Our dashboards are owned and managed by the Marketing Strategy and Performance team. [Learn more in the Bizible Handbook >>](/handbook/marketing/marketing-operations/bizible)
 
-## In Progress and Future Campaigns
+## Campaign terminology
+{: #campaign-terminology}
+
+- **Campaign - When you hear this term used alone, please clarify what type they are referring to (see below). Please speak in specific terms to communicate more clearly.**
+- Integrated Campaign - Organized by marketing campaigns team, collaborating across marketing teams toward a launch date. It incorporates multiple offers and multiple channels.
+- Digital Marketing Campaign - Online marketing efforts organized by the digital marketing programs team to drive engagement, conversions, traffic, or revenue
+- Brand Awareness Campaign - Higher-level print and digital marketing efforts organized by the corporate marketing team. These are focused on brand recognition.
+- Salesforce Campaign - An object within Salesforce that represents different types of offers. These are less-so theoretical and more to capture touchpoints of prospects and customers.
+
+## In Progress and Future Integrated Campaigns
 {: #upcoming-integrated-campaigns .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
