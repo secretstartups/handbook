@@ -124,10 +124,59 @@ The TAM Manager is responsible for developing and delivering a [Quarterly Busine
 
 ## Gainsight/Customer Review in Director/TAM Manager 1:1 Cadence: 
 
-* 1st week: Onboarding Metrics (reported in to E Group 4th week), Success Plans, EBRs
-* 2nd week:Renewals, At Risk Accounts, Red Scorecards
-* 3rd week: Stage Adoption Playbooks, EBR Playbooks
-* 4th week: Renewals, At Risk Accounts, Red Scorecards
+1st week: 
+- Onboarding Metrics, Overdue onboarding (burn-down) EBRs due & completed
+- Development: Personal Growth Plan
+- Recruiting update: open headcount hiring status, quality and pipeline
+- Discussion
+
+2nd week:
+- Success Plan Review (2 SPs)
+- OKR /Big Rock initiatives progress
+- Discussion
+
+3rd week:
+- Adoption/Expansion Playbooks by TAM, Adoption Metrics (TAM Proactive Dashboard) 
+- Recruiting update: open headcount hiring status, quality and pipeline
+- Discussion
+
+4th week: 
+- Renewals, At Risk Accounts, Red Scorecards
+- OKR /Big Rock initiatives progress
+- Discussion
+
+
+
+## Annual Processes
+
+### President's Club Calculations
+
+The following process is that used to calculate the President's Club Performance: 
+
+
+
+#### Nomination Criteria (equally weighted):
+
+1. % Contribution to Net ARR bookings (growth).  The calculation calls for tallying the netARR for closed opps in which the TAM is assigned.  Then dividing that by the ending ARR managed by the TAM.
+1. % of Accounts with EBRs completed
+1. % of Accounts with Green Success Plans (Based on accounts >30 days from onboarding start date)
+1. % of Accounts with Closed-Won Use Case/Stage Adoption Plays (Expansion, Enablement) in past 12 months
+1. Total number of workshops delivered where a workshop is defined as a specifically scheduled event in which the TAM presents enablement content/information.
+
+
+#### Scoring Process for each of the 4 categories:
+1. 1st place: 50 points
+1. 2nd place: 35 points
+1. 3rd place: 15 points
+
+#### Conditions:
+1. No points for anything following top 3 positions unless there are multiple TAMs with 100% (success plans for example), in which case each TAM scoring 100% would receive 50 points
+1. If there are two or more TAMs tying for a position across the other categories, 50 points each for top place
+1. In a smaller team, if a TAM scores 0 for any category, they do not get points in simply defaulting to 3rd place - this TAM/s would score 0 and 1st/2nd place would remain at 50/35 points respectively
+
+
+**Final Tally: Top TAMs per team by points**
+
 
 ## Team Member Performance
 
