@@ -56,7 +56,7 @@ The goals for new first-order MQLs and SAOs are derived from workbacks of sales 
 
 * Jackie Gragnola - Senior Manager, Marketing Campaigns & ABM
 * Megan O'Dowd - Account Based Markeitng Manager, Americas and Public Sector
-* Christina McLeod - Account Based Marketing Manager, EMEA and APAC
+* TBH - Account Based Marketing Manager, APAC and EMEA
 
 ### Responsibilities
 {: #responsibilities}
@@ -227,3 +227,20 @@ The default filter on the dashboard shows digital campaigns only. To show all pa
 If you want to see the performance and metrics for a single campaign you can select a specific campaign code under the **`Campaign Code`** filter. **`Campaign Code`** is the utm_campaign value added to our landing page URLs. Be sure to check your date range when selecting specific campaigns.
 
 Note that refreshing your screen will reset the filters in the dashboard. You can also click **`Reset`** at the top right of the dashboard. If the data has trouble loading or is loading with erros, click **`Refresh Data`** in the menu bar at the top left of the dashboard. For more details on how to navigate the PMG reporting dashboard you can refer to this [issue](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/811#note_714815706).
+
+
+### Drift
+{: #drift}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Drift is a chat platform used by SDRs to engage visitors on select webpages. When a site visitor interacts with the bot they will be taken through a customized series of questions offering the option to view the PathFactory track, chat with an SDR or schedule time to speak with an SDR.
+
+We can create a specific welcome message, playbook, or chat landing page for ABM accounts. More information can be found here. To create any of the above open a [Drift Campaign Issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=Drift_Campaign_Request) for our Marketing Operations team.
+
+
+### Reachdesk
+{: #reachdesk}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+- [Campaign planning form](https://t.sidekickopen84.com/s3t/c/5/f18dQhb0S7kF8bpWvzW1DZxRD59hl3kW7_k2841CXdp3VQ0pvR2Swq73W2dykgq2N21Fh101?te=W3R5hFj4cm2zwW3M664f1JwJkBW41Pyvm43T4N9W3XC0_s3Zt3prW3VGywv366F5gW3K9xWb3VM81QW1pMt-51Q6BcGW1-Ypky24VJRp4ntSp1&si=8000000006035619&pi=7e0db2db-c953-4cc3-ae8b-748774cbaef5) - for any items you would like the project management team to source directly to our warehouses for you. This could be branded swag or any other bespoke goods that are not available on the Marketplace. 
+- [Landing page request form](https://t.sidekickopen84.com/s3t/c/5/f18dQhb0S7kF8bpWvzW1DZxRD59hl3kW7_k2841CXdp3VQ0pvR2Swq73W2dykgq2N21Fh101?te=W3R5hFj4cm2zwW3M664f1JwJkBW41Pyvm43T4N9W3XC1qb45WXkVW2HKC1J1ZqsG0W3GJbqC1X6PNZW1pMt-51Q6BcGW1-Ypky24VJRp4ntSp1&si=8000000006035619&pi=7e0db2db-c953-4cc3-ae8b-748774cbaef5) - this is one link that can be sent to multiple recipients, and the gifts will be automatically fulfilled via this page. 
+- [Help documents](https://t.sidekickopen84.com/s3t/c/5/f18dQhb0S7kF8bpWvzW1DZxRD59hl3kW7_k2841CXdp3VQ0pvR2Swq73W2dykgq2N21Fh101?te=W3R5hFj4cm2zwW3T1lhw49JH8JW1JzBqR45lYLGW3z8m_b3K9cSfW3K72cD43SNGrW3Fdy8c41Y25wW20Ybfx1--tgWW3K6jZw3H8_MV0&si=8000000006035619&pi=7e0db2db-c953-4cc3-ae8b-748774cbaef5) - access to our help document section, anything specific you would like me to provide please do let me know.
