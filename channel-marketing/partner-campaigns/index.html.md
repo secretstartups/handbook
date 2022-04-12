@@ -111,7 +111,7 @@ When a lead/contact is associated to a campaign the following steps occur:
 ## Joint GitLab and Partner Events
 When GitLab and Partners participate in events together, they will share leads. The mural above has a visual workflow of these steps. [Go here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-marketing-campaign-set-up) for Marketo/SFDC campaign set up.
 
-**NOTE:** Phone numbers are required in order for the lead to be passed to Vartopia. Please make sure that field is populated.
+**NOTE:** Phone numbers are required in order for the lead to be passed to Vartopia. If a phone number has not been supplied via the list, Marketo will appended a phone number automatically of `555-555-5555`. 
 
 When a lead/contact is associated to a campaign the following occurs:
 1. Marketo processes the lead based on who sources it. Once finished processing, the lead is synced to SFDC.
