@@ -413,21 +413,23 @@ To add attachments or documents to a candidate's profile, go to their profile an
 
 ### Updating and creating email templates
 
-The Talent Acquisition Team and Site Admins are able to add and adjust email templates. To access the email templates, go to the [configure](https://app2.greenhouse.io/configure) section by clicking the gear at the top right corner, then click "[Email Templates](https://app2.greenhouse.io/account/email_templates)". It is possible to create personal templates that only the user can access under "My Templates", but we strongly recommend all templates be added to the "Organization-Wide Templates" section.
+The Greenhouse Site Admins are able to add and adjust email templates. To access the email templates if you are a Greenhouse Site Admin, go to the [configure](https://app2.greenhouse.io/configure) section by clicking the gear at the top right corner, then click "[Email Templates](https://app2.greenhouse.io/account/email_templates)".
 
-To [edit an existing template](https://support.greenhouse.io/hc/en-us/articles/115004020946-How-to-edit-email-templates), click the pencil icon next to the template, make necessary adjustments, and click "Save" at the bottom of the page.
+To ensure a best-in-class candidate experience with up-to-date branding and communication, the Talent Brand team and Greenhouse Site Admins have reviewed, updated, and published email templates with the word "REVIEWED" included at the end for all stages of recruitment. We strongly recommend leveraging these templates as your primary sources of communication to candidates to create consistency and to foster an amazing candidate experience. While we recognize that you may need to leverage other templates for specific roles that have not received the "REVIEWED" label, please ensure you read over all email templates you plan on sending and confirm that all numbers are up to date, links are accurate and relevant, and that your language is clear and positive.    
 
-To create a new template, click "+ New" to the right of "Organization-Wide Templates".
-- First, add a name for your template that will allow you and your team to recognize what the template is for. Try to keep the name as consistent as possible with other templates (e.g. rejection emails all begin with `Reject` and then the reason why, such as `Reject after no show`).
-- Next, you will need to select an email type, which categorizes the emails so that they appear as options when they are relevant (e.g. so that a interview availability request does not populate when you are trying to reject a candidate). Please review the [available email types and when each appears on Greenhouse's support page](https://support.greenhouse.io/hc/en-us/articles/115002573326-Email-Template-Types).
+If you have specific roles, regions, or processes that you would like to create personalized templates for that are only visible and accessible by you, click "+ New" to the right of "My Templates" and follow the below steps:
+- Add a name for your template that will allow you and your team to recognize what the template is for. Try to keep the name as consistent as possible with other templates (e.g. rejection emails all begin with `Reject` and then the reason why, such as `Reject after no show`).
+- You will need to select an email type, which categorizes the emails so that they appear as options when they are relevant (e.g. so that a interview availability request does not populate when you are trying to reject a candidate). Please review the [available email types and when each appears on Greenhouse's support page](https://support.greenhouse.io/hc/en-us/articles/115002573326-Email-Template-Types).
 - You can add an optional description, but it is typically not needed due to the descriptive template name.
 - You can choose to have the email sent from the sender's email address, the talent acquisition distribution email address, or the no-reply email address, depending on the nature of the email.
 - You can opt to cc specific GitLab team-members and/or the specific recruiter/coordinator for the role that the candidate you are communicating with is in process for.
 - Next, create a subject for the email. You can include tokens (elaborated below) in the subject line in order to customize the subject with the candidate's name, requisition, etc.
 - You can also include attachments to the email.
-- Next, you will see in a blue box the various tokens that are able to be included in your email template. These will vary based on the email type and the available tokens will show up as options when you are creating/editing a template. You can also review the [token glossary](https://support.greenhouse.io/hc/en-us/articles/360007039771-Token-Glossary) to understand what each token means.
+- Next, you will see in a blue box the various tokens that are able to be included in your email template. These will vary based on the email type and the available tokens will show up as options when you are creating/editing a template. You can also review the [token glossary](https://support.greenhouse.io/hc/en-us/articles/360007039771-Token-Glossary) to understand what each token means. 
 - Finally, you will type out the body of your email template, including tokens and formatting as needed.
 - Click save, and your template is ready to be used!
+
+If you have a suggestion for a new or existing REVIEWED email template for the Recruitment team, please submit an [issue](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new) describing the email template you wish to create with the title "Greenhouse Email Template Suggestion" and tag @cchiodo. For reference, all REVIEWED templates are linked [here](https://docs.google.com/document/d/1tAoi3PgqAB-0EouWSqKYB0-dNzAYpvLIO0NRCgFcyqc/edit?usp=sharing). 
 
 ### Updating requisition and offer approval flows
 
