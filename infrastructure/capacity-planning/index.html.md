@@ -65,10 +65,20 @@ The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This
 1. The Tamland report is generated.
    1. In the past, the report was generated on Thursdays to co-incide with an Infrastructure status meeting. The manual processes described below were completed in time for that meeting. 
 1. If Tamland predicts that a resource will exceed its alerting threshold ([as defined in the metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)) within the next 60 days, an alert will be generated. This alert is forwarded to GitLab alerting and a Slack message is generated in [#infra_capacity-planning](https://gitlab.slack.com/archives/C01AHAD2H8W).
-1. An engineer reviews the report looking for upward trends or unexpected trends in the data. 
+1. An engineer reviews the report looking for upward or unexpected trends in the data. 
    1. Not all forecasts are always accurate: a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for example a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate.
 1. If the engineer observes an unexplained trend and there is no existing issue for this problem, they will raise a new incident issue in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker. 
-   1. Some known issues are held in other trackers. These issues can be found with the `GitLab.com Resource Saturation` label. 
+   1. The engineer may be aware of an existing issue in a different tracker relating to this problem. In that case, they should look for the issue, check that the `GitLab.com Resource Saturation` label is applied to that issue, and apply the label if it not there already.
+   1. This causes two sources of truth for capacity issues, and there is an open issue to resolve this. Please see [this issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1630) for further details. 
+
+### Workflow Status Labels
+
+Capacity Planning issues are created without a state. After the initial assessment, one of the following labels should be applied. 
+
+1. `capacity-planning::in-progress` - there is a mitigation in progress for this alert
+1. `capacity-planning::investigation` - this alert requires further active assessment before deciding on a course of action
+1. `capacity-planning::monitor` - we need to wait for time to pass to gather further data on this issue to make a decision on how to proceed
+1. `capacity-planning::verification` - we have completed work on this issue and are  verifying the result
 
 ### Relaying Capacity Incidents to Engineering
 
