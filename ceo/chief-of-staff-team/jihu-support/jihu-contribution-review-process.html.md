@@ -19,9 +19,13 @@ and a [reactive one](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/mas
 
 ## What approvals are required
 
+Upstream merge requests require the same level of review and approval as all merge requests including:
+
 - [Regular code review](https://docs.gitlab.com/ee/development/code_review.html)
 - [Security review](jihu-security-review-process.html)
 - [Database migration review](jihu-database-change-process.html) when applicable
+
+Upstream merge requests may require additional [specific team reviews](https://docs.gitlab.com/ee/development/code_review.html#approval-guidelines) based on changed files. High impact code is identified with [CODEOWNERS](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/CODEOWNERS) rules and required approvals for specific files. For example, if the merge request includes changes related to authentication or authorization, it must be approved by a [Manage:Authentication and Authorization team member](https://about.gitlab.com/company/team/)
 
 ## What to review
 

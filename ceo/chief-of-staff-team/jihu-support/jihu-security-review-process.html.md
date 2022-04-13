@@ -14,8 +14,7 @@ title: JiHu Security Review Process
 In order to make sure that a release with JiHu contributions can be certified, members of the AppSec team
 need to perform a security review of any JiHu contribution and explicitly approve them.  The JiHu team will be contributing code to
 [a number of repositories](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/jihu-support/#projects).
-These contributions should be labeled with the `JiHu contribution` label
-and the AppSec team should additionally receive a ping for each one of these contributions.
+These contributions should be labeled with the `JiHu contribution` label.
 
 ### Who can perform a security review of a JiHu contribution
 
@@ -42,10 +41,18 @@ When performing the security review of a JiHu contribution, the reviewer needs t
     * Look to make sure that the code does not introduce any new vulnerabilities
 1. If the merge request looks acceptable:
     * Apply the `sec-planning::complete` label
-    * Make a comment indicating that everything looks okay from a security perspective
     * Click the 'Approve' button on the merge request
-    * Should the code change after an AppSec team member approved it, the AppSec reviewer should be pinged to give it a quick re-review to make sure everything still looks okay
+    * Approval will be confirmed with an [automated approval comment](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906357637)
 1. If the merge request does not look acceptable at this time and/or introduces new vulnerabilities:
     * Apply the `sec-planning::pending followup` label
-    * If possible, work with the creator to make it secure. Follow the steps above once it looks acceptable 
+    * If possible, work with the creator to make it secure. Follow the steps above once it looks acceptable
     * If inherently unacceptable or a wider discussion is needed, express any concerns and work with the creator and the relevant product and engineering teams to move forward
+
+#### Security final commit approval
+
+AppSec approvals are revoked when subsequent changes are added to the merge requests and requires a re-review from AppSec before merging. The process is as follows:  
+
+1. `~sec-planning::complete` will be revoked when the MR is updated (additional commits or rebase) and the original AppSec approver will have a [request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906360435) to re-review and approve.
+1. Use the [suggested quick action](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906360435) to approve after re-reviewing.
+
+Merging of `gitlab-org/gitlab` `~JiHu contribution` MRs is blocked if the `~sec-planning::complete` label is missing from the merge request, since the the `verify-approvals` job will fail.
