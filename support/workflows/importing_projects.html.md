@@ -78,7 +78,7 @@ Any request should include a comment on the relevant feature request [#223137](h
 
 #### Other Cases
 
-If you're unsure of whether we should perform an import for a specific requester, get input via the #spt_managers Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new). If a manager approves, proceed with the import. Note: Imports by infra require infra manager approval as well.
+If you're unsure of whether we should perform an import for a specific requester, get input via the #spt_managers Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new). If a manager approves, proceed with the import.
 
 ## Stage 2: Offering Import & Preparation
 
