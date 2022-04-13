@@ -45,7 +45,7 @@ As part of embracing the GitLab value of iteration, we plan on monitoring the im
 
 | Tag      | Reason |
 | ----------- | ----------- |
-| cloud-could-selfserve      | Customer has access to Customer Portal and could have self-served       |
+| cloud-could-selfserve      | Customer has access to Customer Portal and could have self-served, for example customers who have an EoA, multi-year or a ramp-up subscription     |
 | cloud-could-not-selfserve   | Customer does not have access to the Customer Portal and therefore support had to provide a legacy/offline license file        |
 | cloud-pre-14.1 | Customer requires legacy/offline license because they are not able to upgrade to 14.1+ |
 | cloud-airgapped | Customer needs legacy/offline license because they must keep their instance offline |
