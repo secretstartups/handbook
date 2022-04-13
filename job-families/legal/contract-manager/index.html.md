@@ -99,6 +99,5 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will then be invited to schedule a 30 minute interview with a member of the Contract Management team.
 * Next candidates will be invited to schedule an interview with a partner from both the Sales and Finance teams.
 * Successful candidates will subsequently be made an offer via email.
-* Successful completion of a background check is required.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).

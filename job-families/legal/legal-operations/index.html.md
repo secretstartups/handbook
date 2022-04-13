@@ -66,7 +66,6 @@ The Director, Contracts and Legal Operations is a [grade 10](/handbook/total-rew
 * Superior analytical ability, project management experience, and communication skills
 * Ability to manage internal customer priorities and needs.
 * Previous experience in a Global Start-up and remote first environment would be ideal.
-* Successful completion of a background check.
 * Ability to use GitLab
 
 #### Director, Contracts and Legal Operations Performance Indicators

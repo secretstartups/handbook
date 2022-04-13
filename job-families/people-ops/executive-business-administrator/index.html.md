@@ -55,7 +55,6 @@ The Executive Business Administrator is a [grade 5](/handbook/total-rewards/comp
 * A sincere willingness to help out
 * Able to work collaboratively with EBA's across the organization
 * An orientation towards team success
-* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * Ability to use GitLab
 
 ### Executive Business Administrator (Intermediate)
@@ -105,7 +104,6 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 * A sincere willingness to help out
 * Able to work collaboratively with EBA's across the organization
 * An orientation towards team success
-* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * Ability to use GitLab
 
 ### Senior Executive Business Administrator

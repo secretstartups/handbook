@@ -39,7 +39,6 @@ The Procurement Operations Analyst is a [grade 5](/handbook/total-rewards/compen
 * Self-motivated with the ability to work both independently and collaboratively
 * Proficient in Google Docs
 * You share our values, and work in accordance with those values
-* Successful completion of a background check
 * Ability to use GitLab
 
 ### Senior Procurement Operations Analyst
@@ -99,7 +98,6 @@ The Procurement Category Manager is a [grade 7](/handbook/total-rewards/compensa
 * Self-motivated with the ability to work both independently and collaboratively
 * Ability to navigate cultural differences and build global but locally relevant solutions 
 * You share our values, and work in accordance with those values
-* Successful completion of a background check
 * Proficient in Google Docs
 * Ability to use GitLab
 

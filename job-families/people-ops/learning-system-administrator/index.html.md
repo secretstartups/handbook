@@ -46,7 +46,6 @@ The Associate Learner Engagement Specialist is a [grade 5](/handbook/total-rewar
 - Exhibit strong data skills and ability to utilize Google Sheets
 - Ability to use, or willingness to learn, GitLab
 - Bachelor’s degree in Training Education or Communication is preferred
-- Successful completion of a background check
 - Experience working with various virtual meeting management tools such as Zoom is a plus
 - 1-2 years related work experience (or equivalent combination of transferable experience and education)
 - Ability to learn new systems quickly, and preferably have experience using GitLab, Zendesk, Discourse, EdCast, or any learning management or learning experience platforms

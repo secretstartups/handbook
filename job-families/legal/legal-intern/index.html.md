@@ -30,7 +30,6 @@ The Legal Intern is a grade 4 (/handbook/total-rewards/compensation/compensation
 * Superior analytical, project management experience, and communication skills
 * Outstanding interpersonal skills, including diplomacy and flexibility, and the ability to interface effectively and engender trust and confidence with with all business functions throughout the organization
 * A curious mind who does not back down from a challenge.
-* Successful completion of a background check
 * Ability to use GitLab
 
 ## Hiring Process
