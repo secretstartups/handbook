@@ -184,16 +184,32 @@ Exceptional community members may be able to participate, as well.
 | 2022-04-11 | 2022-04-15 | [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager  | AVAILABLE - REMOTE |
 | 2022-04-18 | 2022-04-22 | [David Egan](https://gitlab.com/degan) - Sr. Marketing Data Analyst| [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager |
 | 2022-04-25 | 2022-04-29 | [Janis Altherr](https://gitlab.com/janis) - Fullstack Engineer | [David Egan](https://gitlab.com/degan)- Sr. Marketing Data Analyst |
-| 2022-05-02 | 2022-05-06 | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) - Privacy and Product Paralegal | [Janis Altherr](https://gitlab.com/janis) - Fullstack Engineer |
-| 2022-05-09 | 2022-05-13 | [Hannah Sutor](https://gitlab.com/hsutor) - Sr. Product Manager | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) - Privacy and Product Paralegal |
-| 2022-05-16 | 2022-05-20 | [Cristal McClure](https://gitlab.com/cmcclure1) - Sr. FP&A Analyst | [Hannah Sutor](https://gitlab.com/hsutor) - Sr. Product Manager |
-| 2022-05-23 | 2022-05-27 | AVAILABLE - REMOTE | [Cristal McClure](https://gitlab.com/cmcclure1) - Sr. FP&A Analyst |
+| 2022-05-02 | 2022-05-06 | AVAILABLE - REMOTE | [Janis Altherr](https://gitlab.com/janis) - Fullstack Engineer |
+| 2022-05-09 | 2022-05-13 | NO SHADOWS| NO SHADOWS|
+| 2022-05-16 | 2022-05-20 | NO SHADOWS | NO SHADOWS|
+| 2022-05-23 | 2022-05-27 | AVAILABLE - REMOTE |AVAILABLE - REMOTE |
 | 2022-05-30 | 2022-06-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-06-06 | 2022-06-10 | [Vic Brew](https://gitlab.com/vbrew) Inside Sales Representative | AVAILABLE - REMOTE |
-| 2022-06-13 | 2022-06-17 | AVAILABLE - REMOTE | [Vic Brew](https://gitlab.com/vbrew) Inside Sales Representative |
-| 2022-06-20 | 2022-06-24 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-06-06 | 2022-06-10 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-06-13 | 2022-06-17 | NO SHADOWS| NO SHADOWS |
+| 2022-06-20 | 2022-06-24 | NO SHADOWS| NO SHADOWS|
 | 2022-06-27 | 2022-07-01 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-
+| 2022-07-04 | 2022-07-08 | NO SHADOWS | NO SHADOWS|
+| 2022-07-11 | 2022-07-15 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-07-18 | 2022-07-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-07-25 | 2022-07-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-08-01 | 2022-08-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-08-08 | 2022-08-12 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Sr. Product Manager | AVAILABLE - REMOTE |
+| 2022-08-15 | 2022-08-19 | AVAILABLE - REMOTE | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Sr. Product Manager |
+| 2022-08-22 | 2022-08-26 | NO SHADOWS | NO SHADOWS |
+| 2022-08-29 | 2022-09-02 | NO SHADOWS | NO SHADOWS |
+| 2022-09-05 | 2022-09-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-09-12 | 2022-09-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-09-19 | 2022-09-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-09-26 | 2022-09-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-10-03 | 2022-10-07 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-10-10 | 2022-10-14 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-10-17 | 2022-10-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-10-24 | 2022-10-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 
 If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
