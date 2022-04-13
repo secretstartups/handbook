@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
-title: "Maintenance First (to be renamed)"
+title: "Next Prioritization (to be renamed)"
 description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
-canonical_path: "/company/team/structure/working-groups/maint-first/"
+canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 ---
 
 ## On this page
@@ -42,6 +42,7 @@ Start with teams that are not in Engineering Allocations first with a goal of at
 
 ### Exit Criteria (0% completed)
 
+1. Decide on the offical name
 1. Company-wide comms by 2022-04-30
 1. Refine stakeholder dashboard views, bug & maintenance backlog types
 1. Reduce undefined MR types (less than 5%)
