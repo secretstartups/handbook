@@ -25,6 +25,13 @@ Hello! We could not be more excited to have you at GitLab. This page is here to 
 - [Shiloh Riddle, People Experience Associate](https://about.gitlab.com/company/team/#SVBarry)
 - [Beverley Rufener, Manager, People Operations](https://about.gitlab.com/company/team/#brufener)
 
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Onboarding Issues
+
+Are you curious about what onboarding looks like here at GitLab? We currently use our own product to facilitate onboarding through issues. If you have never seen a GitLab issue before, take some time to watch the video below to see what you'll be working out of during your onboarding.
+
+<figure class="video_container">
+  <iframe src="https://www.loom.com/embed/7acd42bc463f48a4a8dca9afa2f9bf27" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Timeline 
 
@@ -47,13 +54,14 @@ After you sign your offer and complete your background check and references, you
 1. The first thing you'll want to do is check your personal email where you will have received an onboarding email from GitLab with directions on how to access Okta, your GitLab email and all other applications. Most of GitLab applications are accessed through Okta so make sure you follow the directions in the email in order. 
 1. Once you accept your GitLab access invites, you'll be able to open up and see your own personalized version of the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md). 
 
-## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Helpful Tools 
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Helpful Resources 
 
 1. [TaNEWki Tips](https://about.gitlab.com/handbook/people-group/general-onboarding/tanewki-tips/) - This page is here to help walk you through what you can expect before and during your first few weeks as a new team member.
 1. [Select and Speak - Text to Speech](https://chrome.google.com/webstore/detail/select-and-speak-text-to/gfjopfpjmkcfgjpogepmdjmcnihfpokn?hl=en)
 1. [Read Aloud: A Text to Speech Voice Reader](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en)
 1. [Rectangle App](https://rectangleapp.com/) - Move and resize windows with ease
 1. [OneTab](https://www.one-tab.com/) - Tab organizer for Chrome, Firefox, Edge, or Safari
+
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Acronym Dictionary 
 
