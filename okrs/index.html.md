@@ -231,9 +231,14 @@ Watch this short video for how to add objectives and key results:
 </figure>
 
 
-## Ally.io Resources
+#### Tips and Tricks
 * [How to comment on an objective and key result](https://youtu.be/YajA4xOgdD0)
-* [How to add dependencies](https://youtu.be/6XzWlNMH440)
+* [How to add dependencies](https://youtu.be/6XzWlNMH440). Dependencies allow a team member to tag any OKR to other OKRs within Ally. This could be used when there is an OKR that requires a component of another OKR to be completed for success. 
+
+## Ally.io Resources
+* Learn the essential features of Ally.io with [Ally.io Software Essentials](https://learn.ally.io/ally-software-essentials) (16 mins) 
+* [Ally Help Center](https://help.ally.io/en/) 
+
 
 ## Maintaining the status of OKRs
 
