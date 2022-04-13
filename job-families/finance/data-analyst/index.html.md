@@ -31,7 +31,6 @@ Read more about this role in the [Data Analytics Handbook Page](/handbook/busine
 * Effective communication and [collaboration](/handbook/values/#collaboration) skills, including clear status updates
 * Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
 * [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills
-* Successful completion of a [background check](/handbook/people-group/code-of-conduct/#background-checks)
 * Prior experience in an analytics role, or equivalent education
 
 ## Levels

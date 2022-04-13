@@ -83,7 +83,6 @@ coworkers, easier. Current and past Support Operations have:
 * An eye for detail and out-of-the-box thinking
 * You share [our values](https://about.gitlab.com/handbook/values/), and work
   in accordance with those values
-* Successful completion of a background check
 * An ability to use GitLab, or a readiness to learn how to fully utilize GitLab
 
 #### Desired Skills

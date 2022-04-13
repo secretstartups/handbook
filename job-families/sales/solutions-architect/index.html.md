@@ -62,7 +62,6 @@ The Solutions Architect is a [grade 6](/handbook/total-rewards/compensation/comp
 * Experience with cloud computing and related technologies and practices
 * Willingness to travel
 * B.Sc. in Computer Science or equivalent experience
-* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * Ability to use GitLab
 * Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
@@ -448,7 +447,6 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 * Experience with waterfall, Agile (SCRUM, Kanban, etc.) and able to discuss workflows for different software development processes
 * Experience with modern development practices strongly preferred, including Kubernetes, Docker, Package Management, Application Security (SAST, DAST), Cloud infrastructure, and serverless
 * Excellent time management and self-organization skills while performing a wide range of tasks and quickly pivoting to respond to higher priorities
-* Successful completion of a background check
 * Ability to use GitLab
 
 ## Performance Indicators

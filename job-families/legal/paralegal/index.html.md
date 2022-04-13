@@ -36,7 +36,6 @@ The Associate Paralegal is a [grade 5](/handbook/total-rewards/compensation/comp
 * Ability to manage internal customer priorities and needs.
 * A curious mind who does not back down from a challenge.
 * Previous experience in a Global Start-up and remote first environment preferred.
-* Successful completion of a background check.
 * Ability to use GitLab.
 
 ## Specialties

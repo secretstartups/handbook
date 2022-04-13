@@ -37,7 +37,6 @@ The Director, Data and Analytics is a [grade 10](/handbook/total-rewards/compens
 1. Must have experience with analytic and data visualization tools such as Periscope.
 1. Share and work in accordance with our values.
 1. Must be able to work in alignment with Americas timezones.
-1. Successful completion of a background check.
 1. Ability to use GitLab
 
 ## Senior Director, Data and Analytics
