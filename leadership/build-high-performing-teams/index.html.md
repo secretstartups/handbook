@@ -64,6 +64,10 @@ Overview of the Drexler-Sibbet Team Performance Mdoel:
 
 ### Stage 1 Orientation - Why am I here?
 
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zsDGaLH3LcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 Why am I here? Team needs to move from complete freedom to a set of “boundaries and constraints” that are needed to operate. The first step is to understand the purpose of the team.
 
 - The first step of orientation is to understand the purpose of the team. Why does the team exist and what is expected of it?
