@@ -232,8 +232,8 @@ Watch this short video for how to add objectives and key results:
 
 
 ## Ally.io Resources
-* [How to comment on an objective and key result] (https://youtu.be/YajA4xOgdD0)
-* [How to add dependencies] (https://youtu.be/6XzWlNMH440)
+* [How to comment on an objective and key result](https://youtu.be/YajA4xOgdD0)
+* [How to add dependencies](https://youtu.be/6XzWlNMH440)
 
 ## Maintaining the status of OKRs
 
