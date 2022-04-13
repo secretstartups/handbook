@@ -66,7 +66,7 @@ According to our [privacy policies](/privacy/), Support will not provide any inf
 
 ### Submitting internal license request extensions and viewing Support Tickets
 
-Sales requests for self managed and GitLab.com subscription extensions are now submitted via Zendesk instead of via an internal GitLab issue. You should now use the [internal requests form](https://gitlab-com.gitlab.io/support/internal-requests-form/) for such requests.  Please note that in order to submit a form you will require a Zendesk 'Light Agent' account, 
+Sales requests for self managed and GitLab.com subscription extensions are now submitted via Zendesk instead of via an internal GitLab issue. You should now use the [internal requests form](https://gitlab-com.gitlab.io/support/internal-requests-form/) for such requests.  Please note that in order to submit a form you will require a Zendesk 'Light Agent' account,
 all GitLab Team Members can request a 'Light Agent' account and this will also enable you to see customer tickets in Zendesk and leave notes for the Support team. These accounts are free.
 
 To request a Light Agent Zendesk account, please send an email to `gitlablightagent.2lba7m@zapiermail.com` - you'll receive an automated reply with the result of your request. **You must send your request from your GitLab Google / Gmail account. No other addresses will work.** The Subject and Body fields of the email can be empty. Once set up, you'll need to wait 24 hours for your account to be assigned Zendesk in Okta. Once Zendesk is assigned, you should be able to [log in](https://gitlab.zendesk.com/agent). If you don't get your account assigned within this period, please reach out to #support-operations in Slack. In most cases, people who don't get access within the 24 hours already had an end-user account which prevents the automation from working as expected.
@@ -220,7 +220,10 @@ By default, [trial licenses do not include support](https://about.gitlab.com/sup
 
 If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, as a member of the Sales team **you can grant temporary support for their trial license**. Please note this is only available for 60 days maximum. After that point, the account will be downgraded back to the standard levels for a trial/prospect.
 
-**Please note**: This only applies to Prospects (i.e. non-customers). Existing customers are not eligible for trial/prospect support, as the purpose of this is for prospects for whom evaluation of support is a criteria in their decision.
+##### Considerations
+
+- This only applies to Prospects (i.e. non-customers). Existing customers are not eligible for trial/prospect support, as the purpose of this is for prospects for whom evaluation of support is a criteria in their decision.
+- Prospects won't be elegible for [emergency support](https://about.gitlab.com/support/#how-to-trigger-emergency-support) or ticket escalations.
 
 You can do this via Salesforce in a few simple steps:
 
@@ -252,9 +255,9 @@ In other cases, a particular user from the account would like to be able to see 
 If you'd like to enable this, please:
 
 1. Ask the customer to submit a Support ticket using the [Support Ops form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001801419) and select `Shared organization requests` in the `Problem type` field.
-1. Once the ticket is created, Support Ops will review and work on the ticket. 
+1. Once the ticket is created, Support Ops will review and work on the ticket.
 
-**Note:** If a customer submits a shared organization request using a different Support form, simply change the form to `Support Ops` and select `Shared organization requests` in the `Problem type` field. Support Ops will then review the ticket and ask any followup questions if necessary. 
+**Note:** If a customer submits a shared organization request using a different Support form, simply change the form to `Support Ops` and select `Shared organization requests` in the `Problem type` field. Support Ops will then review the ticket and ask any followup questions if necessary.
 
 #### My customer needs a report of all the users within their group(s) structure
 
