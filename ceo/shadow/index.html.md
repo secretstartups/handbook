@@ -1127,4 +1127,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2022-02-28 | 2022-03-11 | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) | Senior Reference Program Manager | |
 | 2022-03-07 | 2022-03-18 | [Byron Boots](https://gitlab.com/byronboots) | Senior Security Asssurance Engineer | |
 | 2022-03-14 | 2022-03-25 | [Miles Russell](https://gitlab.com/mdrussell) | Sr. Analytics Engineer |  |
-| 2022-03-21 | 2022-04-01 | [Adam Vesey](https://gitlab.com/avesey) - Sr. Legal Counsel  |  |
+| 2022-03-21 | 2022-04-01 | [Adam Vesey](https://gitlab.com/avesey) | Sr. Legal Counsel |  |
