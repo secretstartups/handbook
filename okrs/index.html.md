@@ -83,7 +83,9 @@ OKRs do not replace or supersede core team member responsibilities or performanc
 
 ## Ally.io for OKRs
 
-As of FY23-Q2, the whole company will use a third-party vendor, [Ally.io](https://ally.io/), for OKRs. All team members have access to Ally.io. New team members are automatically imported from BambooHR within a week of their joining. Access your Ally.io account by going to your Okta dashboard and clicking on your Ally tile or adding it as a tile, if you do not see it as one of your Apps.
+As of FY23-Q2, team members will use a third-party vendor, [Ally.io](https://ally.io/), for OKRs. While GitLab's Plan functionality is great for project management, it currently has limitations around cascading initiatives between teams and aggregated scoring. Ally.io will provide team members with a single source of truth for OKR tracking and reporting. Individuals and teams can still choose to operationalize their OKRs within issues and epics.
+
+All team members have access to Ally.io. New team members are automatically imported from BambooHR within a week of their joining. Access your Ally.io account by going to your Okta dashboard and clicking on your Ally tile or adding it as a tile, if you do not see it as one of your Apps.
 
 ### Ally.io is not limited access
 
