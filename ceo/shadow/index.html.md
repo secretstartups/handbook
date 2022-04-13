@@ -168,18 +168,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2022-01-10 | 2022-01-14 | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
-| 2022-01-18 | 2022-01-21 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical)  |
-| 2022-01-24 | 2022-01-28 | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
-| 2022-01-31 | 2022-02-04 | NO SHADOWS | NO SHADOWS |
-| 2022-02-07 | 2022-02-11 | NO SHADOWS | NO SHADOWS |
-| 2022-02-14 | 2022-02-17 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer |
-| 2022-02-22 | 2022-02-25 | [Jonathan Miller](https://gitlab.com/JonathanMiller) | [Mark Scheuber](https://gitlab.com/mscheuber) (short week due to holiday) |
-| 2022-02-28 | 2022-03-04 | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager | [Jonathan Miller](https://gitlab.com/JonathanMiller) |
-| 2022-03-07 | 2022-03-11 | [Byron Boots](https://gitlab.com/byronboots) - Senior Security Compliance Engineer| [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager|
-| 2022-03-14 | 2022-03-18 | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer | [Byron Boots](https://gitlab.com/byronboots) - Senior Security Compliance Engineer|
-| 2022-03-21 | 2022-03-25 | [Adam Vesey](https://gitlab.com/avesey) - Sr. Legal Counsel  | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer |
-| 2022-03-28 | 2022-04-01 | AVAILABLE - REMOTE | [Adam Vesey](https://gitlab.com/avesey) - Sr. Legal Counsel |
 | 2022-04-04 | 2022-04-08 | E-GROUP OFFSITE - NO SHADOWS | E-GROUP OFFSITE - NO SHADOWS |
 | 2022-04-11 | 2022-04-15 | [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager  | AVAILABLE - REMOTE |
 | 2022-04-18 | 2022-04-22 | [David Egan](https://gitlab.com/degan) - Sr. Marketing Data Analyst| [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager |
@@ -187,9 +175,9 @@ Exceptional community members may be able to participate, as well.
 | 2022-05-02 | 2022-05-06 | AVAILABLE - REMOTE | [Janis Altherr](https://gitlab.com/janis) - Fullstack Engineer |
 | 2022-05-09 | 2022-05-13 | NO SHADOWS| NO SHADOWS|
 | 2022-05-16 | 2022-05-20 | NO SHADOWS | NO SHADOWS|
-| 2022-05-23 | 2022-05-27 | AVAILABLE - REMOTE |AVAILABLE - REMOTE |
-| 2022-05-30 | 2022-06-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-06-06 | 2022-06-10 | [Alexander Turinske](https://gitlab.com/aturinske) - Sr. Frontend Engineer | AVAILABLE - REMOTE |
+| 2022-05-23 | 2022-05-27 | AVAILABLE - REMOTE |AVAILABLE - REMOTE 
+| 2022-05-30 | 2022-06-03 | [Victor Brew](https://gitlab.com/Vbrew) - Pub Sec ISR  | AVAILABLE - REMOTE |
+| 2022-06-06 | 2022-06-10 | [Alexander Turinske](https://gitlab.com/aturinske) - Sr. Frontend Engineer | [Victor Brew](https://gitlab.com/Vbrew) - Pub Sec ISR  |
 | 2022-06-13 | 2022-06-17 | NO SHADOWS| NO SHADOWS |
 | 2022-06-20 | 2022-06-24 | NO SHADOWS| NO SHADOWS|
 | 2022-06-27 | 2022-07-01 | AVAILABLE - REMOTE | [Alexander Turinske](https://gitlab.com/aturinske) - Sr. Frontend Engineer |
@@ -1130,10 +1118,13 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-11-30 | 2021-12-10 | [Amy Qualls](https://gitlab.com/aqualls) | Sr. Technical Writer | |
 | 2021-12-06 | 2021-12-17 | [James Heimbuck](https://gitlab.com/jheimbuck_gl) | Sr. Product Manager | |
 | 2021-12-13<br>2022-01-03 | 2021-12-17<br>2022-01-07 | [Cynthia Ng](https://gitlab.com/cynthia) | Sr. Support Engineer | [CEO Shadow Reflection](https://wp.me/pHQ83-1Id) |
+| 2022-01-10 | 2022-01-21 | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) | |
 | 2022-01-04 | 2022-01-14 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) | Learning & Development Manager | [What I Learned From Shadowing the CEO of GitLab](https://www.linkedin.com/pulse/what-i-learned-from-shadowing-ceo-gitlab-josh-zimmerman/?trackingId=fNh8oCxzT9uxnuQffP%2Fd1A%3D%3D) |
 | 2022-01-18 | 2022-01-28 | [Cesar Saavedra](https://gitlab.com/csaavedra1) | Sr. Technical Marketing Manager | [Being a GitLab CEO Shadow](https://www.linkedin.com/pulse/being-gitlab-ceo-shadow-cesar-saavedra/?trackingId=y6tHk3NjTLyW1yPhu%2Bm7Zw%3D%3D) |
 | 2022-01-24<br>2022-02-14 | 2022-01-28<br>2022-02-17 | [Darby Frey](https://gitlab.com/darbyfrey) | Staff Fullstack Engineer |  |
+| 2022-02-14 | 2022-02-25 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader |  |
 | 2022-02-22 | 2022-03-04 | [Jonathan Miller](https://gitlab.com/JonathanMiller) | FP&A Manager, R&D |  |
 | 2022-02-28 | 2022-03-11 | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) | Senior Reference Program Manager | |
 | 2022-03-07 | 2022-03-18 | [Byron Boots](https://gitlab.com/byronboots) | Senior Security Asssurance Engineer | |
 | 2022-03-14 | 2022-03-25 | [Miles Russell](https://gitlab.com/mdrussell) | Sr. Analytics Engineer |  |
+| 2022-03-21 | 2022-04-01 | [Adam Vesey](https://gitlab.com/avesey) - Sr. Legal Counsel  |  |
