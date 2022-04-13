@@ -550,7 +550,7 @@ _Release automation tools enable faster, higher-quality, more automated software
 
 ----
 
-<big>[Forrester: Value Stream Management - Strong Performer](/analysts/forrester-vsm/)</big><br>
+<big>[Forrester: Value Stream Management - Strong Performer](/blog/2018/08/09/gitlab-strong-performer-vsm/)</big><br>
 _Value stream management provides visibility into project planning, health indicators, and analytics to remove waste and focus on customer value._<br>
 **Value Drivers:** Efficiency, Speed, Risk<br>
 **Differentiators:** Visibility<br>
@@ -560,7 +560,7 @@ _Value stream management provides visibility into project planning, health indic
 
 #### 2017
 
-<big>[Forrester: Continuous Integration Wave - Leader](/analysts/forrester-ci/)</big><br>
+<big>[Forrester: Continuous Integration Wave - Leader](/blog/2017/09/27/gitlab-leader-continuous-integration-forrester-wave/)</big><br>
 _Continuous Integration streamlines and accelerates building and testing developer code, shortening delivery to minutes rather than weeks and months. Continuous Integration also automates compliance tasks and improves auditability._<br>
 **Value Drivers:** Efficiency, Speed, Risk<br>
 **Usecase** CI
