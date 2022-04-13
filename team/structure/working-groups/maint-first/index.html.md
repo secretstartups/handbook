@@ -54,4 +54,5 @@ Transition R&D teams into a steady prioritization state driven by backlog data, 
 | Functional Lead       | Justin Farris                                        | Senior Director of Product Management |
 | Member                | Lily Mai                                             | Staff Engineering Analyst |
 | Member                | Tanya Pazitny                                        | Director of Quality Engineering |
+| Member                | John Hope                                            | Engineering Manager, Plan:Product Planning & Certify |
       
