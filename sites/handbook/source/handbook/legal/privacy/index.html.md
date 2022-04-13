@@ -1,10 +1,9 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Product & Privacy"
+title: "GitLab Privacy"
 description: "This page helps GitLab Team Members understand the privacy practices at GitLab and to facilitate a culture that respects and prioritizes the privacy of our Team Members and users"
 ---
 
-# Privacy
 ## On this page
 
 {:.no_toc .hidden-md .hidden-lg}
@@ -121,21 +120,3 @@ As noted above the DPIA is a confidential document that is only accessible on a 
 3. The Business Owner will then be brought in to assist with additional information, as necessary.
 4. Security will be consulted on current and recommended controls.
 5. Privacy will ensure that all sections are complete and that supporting documentation is attached as appendices.
-
-# Product
-## Marketing
-* Visit the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/), which covers amongst other things [Promotional Games](https://about.gitlab.com/handbook/legal/marketing-collaboration/#promotional-games) and [Media Consent and Model Release Requests](https://about.gitlab.com/handbook/legal/marketing-collaboration/#media-consent-and-model-release). 
-* If the request is not addressed in the Marketing Guide, open a new [General Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template).
-
-## Patent Program
-[GitLab Patent Program](https://about.gitlab.com/handbook/legal/patent-program/)
-
-## Trademark
-* Visit [Brand Resources](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) for information about the usage of GitLab's trademark.
-* [Use of Third-party Trademarks in GitLab](https://about.gitlab.com/handbook/legal/policies/product-third-party-trademarks-guidelines/)
-* [Trademarks Training Materials](https://about.gitlab.com/handbook/legal/trademarks-training-materials/)
-
-## Acceptable Licenses
-* [GitLab Licensing and Compatibility](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) contains a list of acceptable licenses covering third-party components used in development.
-* For Engineering requests related to use of third-party software or questions related to acceptable use of open source licenses, open a [Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues) and include applicable information related to the request.
-* Visit [Open Source at GitLab](https://about.gitlab.com/handbook/engineering/open-source/#using-open-source-libraries) for helpful information including [Acceptable Licenses](https://about.gitlab.com/handbook/engineering/open-source/#acceptable-licenses).
