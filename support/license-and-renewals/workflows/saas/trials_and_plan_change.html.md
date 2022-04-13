@@ -21,20 +21,21 @@ GitLab.com support can assist with trials of other plans. Ask the user to create
 
 > <i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: Soon to be [deprecated](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#mechanizer-notice)
 
-Sales will often request that we extend the duration of GitLab.com trials on behalf of their prospects. These issues will always have the `Trial Extension` label applied to them and the following workflow should be followed to service them.
+Sales will often request through a Zendesk Ticket that we extend the duration of GitLab.com trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User gitlab_support@example.com, with the submitter cc'd on the ticket.  The following workflow should be followed to service them.  
 
-If any fields in the issue description were filled out incorrectly by the submitter apply the `Status::Blocked` label and mention them in the issue asking them to supply any missing information.
+If any fields when opening the ticket were filled out incorrectly,  send a public reply in the ticket asking the submitter to supply the missing information.
 
 > **NOTE**: Due to [customers #973](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973) and [customers #1643](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), these must be done via [mechanizer](../customersdot/mechanizer.html) or [CustomersDot console](../customersdot/customer_console.html). Once those issues are resolved, these requests should be done via CustomersDot admin.
 
-1. Assign yourself to the issue.
+1. Take ownership of the ZD ticket.
 2. Check over the request and ensure that we've been provided enough information to action the request. To do this check that:
-   1. The `GitLab.com Link to Namespace:` field contains a valid GitLab.com link to the namespace that holds the active trial. This should not be a Salesforce link or email address.
-   2. The `Extend Until:` field contains a future date.
+   1. The `Namespace:` field contains a valid GitLab namespace and it that holds the active trial. This should not be a Salesforce link or email address.
+   2. The `Extend the date to:` field contains a future date.
+   3. The `Trial license plan:` field is filled out
 3. Use the [Update GitLab Subscription form](../customersdot/mechanizer.html#update-gitlab-subscription) to process the request.
-   1. This should create a new internal request issue documenting the change action. Link this new issue to the one where the extension was requested.
+   1. This should create a new internal request issue documenting the change action. Reference this new issue to the ZD Ticket where the extension was requested.
    2. If there is an error while taking action, check the internal issue to see what went wrong. Please also locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors.html#searching-sentry) if needed) and file an issue, or comment on an existing one.
-4. If namespace needs to be adjusted manually, then add the `~Console Escalation::Customers` label.
+4. If namespace needs to be adjusted manually, then raise a new internal issue with details and  `~Console Escalation::Customers` label.
 
 ## Applying a trial to a namespace with an active subscription
 
@@ -63,7 +64,7 @@ If the requester still wants to go ahead:
 
 1. Follow the [plan change requests using GitLab.com instructions](#using-gitlabcom-admin).
 1. Add a comment on the ticket that the change has been made with a link to the namespace admin page.
-1. Set an appropriate due date and place the ticket on hold.  The  ticket will reopen on the due date.
+1. Set an appropriate due date and place the ticket on hold.  The  ticket will reopen the ticket on the due date. 
 1. Once the due date has been reached, change the plan back to the original, and **remove** the admin note referencing the change.
 1. In the Zendesk ticket mark the task as 'done', and close the ticket.
 
@@ -93,7 +94,7 @@ graph TD;
 
 Except for downgrading to Free, plan changes on a paid non-trial namespace should be done through a subscription purchase.
 
-If a plan must be modified manually, ensure you have approval from product, development, or a support manager, as manually changing a plan causes data discrepencies and can cause bug issues. Use an internal request issue to track approval, the change made, how the change was made, set yourself as assignee, and a due date to remind yourself to change it back.
+If a plan must be modified manually, ensure you have approval from product, development, or a support manager, as manually changing a plan causes data discrepencies and can cause bug issues. Use an internal ZD ticket to track approval, the change made, how the change was made, set yourself as assignee, and a due date to remind yourself to change it back.
 
 In the case of an emergency, please make the change, and pass the ticket with an internal note to, or create an internal request for, the L&R team to investigate.
 
