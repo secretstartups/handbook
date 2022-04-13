@@ -48,7 +48,7 @@ The `Handover Needed` view has two types of tickets.
 ### Taking action in the `Needs Org / FRT` view
 
 1. Choose a ticket at or near the top of the `Needs Org / FRT` view
-1. Determine the ticket priority and preferred region of support. If the ticket priority is 'High' and preferred region of support is 'All Regions' then follow the [HPAR tickets workflow](/workflows/high-priority-all-regions-tickets-workflow.html) otherwise go to the next step.
+1. Determine the ticket priority and preferred region of support. If the ticket priority is 'High' and preferred region of support is 'All Regions' then follow the [HPAR tickets workflow](/handbook/support/workflows/high-priority-all-regions-tickets-workflow.html) otherwise go to the next step.
 1. Assign it to yourself (this takes it out of the view - see [Why assign first?](#why-assign-first))
 1. Write your reply to the customer
 1. Take next steps depending on the region and the work you completed:
@@ -71,7 +71,7 @@ This macro will un-assign and prompt you to write an internal note summarizing n
 
 This is basically the same as above:
 
-1. Choose a ticket at or near the top of the `Handover Needed` view with preferred region equal to your region
+1. Choose a ticket at or near the top of the `Handover Needed` view with preferred region equal to your region or 'All Regions'. If the ticket priority is 'High' and preferred region of support is 'All Regions' then follow the [HPAR tickets workflow](/handbook/support/workflows/high-priority-all-regions-tickets-workflow.html) otherwise go to the next step.
 1. Assign it to yourself (this takes it out of the view - see [Why assign first?](#why-assign-first))
 1. Write your reply to the customer
 1. Choose one of the following:
