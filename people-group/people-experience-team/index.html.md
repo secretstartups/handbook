@@ -148,6 +148,7 @@ Note: Only the owner of the BambooHR report has power to edit the dates on the r
 * Go to the team member’s Bamboo Profile > click “More” > Onboarding
 * Import from template
 * Go through each of the Onboarding Tasks
+* **Note:** If the team member is a rehire, you will need to delete all the old onboarding tasks before the system will allow you to add the checklist items back on.
 
 #### Audit Personal Tab
 
