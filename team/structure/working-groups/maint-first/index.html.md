@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Next Prioritization (to be renamed)"
+title: "Next Prioritization"
 description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
 canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 ---
@@ -15,7 +15,7 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 
 | Property        | Value      |
 |-----------------|------------|
-| Date Created    | 2022-04-09 |
+| Date Created    | 2022-04-13 |
 | Target End Date | 2022-06-30 |
 | Slack           | [#wg_maint-first](https://gitlab.slack.com/archives/C03AWM7780G) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1wog8bR7jg6SECefx9BGqIa07sFm_sXJPvelVAganYmc/edit#heading=h.pmtw3ocv2aty)  |
@@ -42,7 +42,7 @@ Start with teams that are not in Engineering Allocations first with a goal of at
 
 ### Exit Criteria (0% completed)
 
-1. Decide on the offical name
+1. Ship new name of steady state priorization
 1. Company-wide comms by 2022-04-30
 1. Refine stakeholder dashboard views, bug & maintenance backlog types
 1. Reduce undefined MR types (less than 5%)
