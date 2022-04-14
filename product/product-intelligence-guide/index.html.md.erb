@@ -313,7 +313,9 @@ Also see the [Product Intelligence Guide](/handbook/product/product-intelligence
 
 We now have available [Metric Instrumentation Classes for Service Ping metrics](https://gitlab.com/groups/gitlab-org/-/epics/5547).
 
-This means that we deprecate the usage of [`usage_data.rb`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/usage_data.rb) and for adding new metric we don't need to change this file. When you add or change a Service Ping Metric, you must migrate metrics to instrumentation classes.
+This means that we deprecate the usage of [`usage_data.rb`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/usage_data.rb) and for adding a new metric we do not change this file. When you add or change a Service Ping Metric, you must migrate the metric to instrumentation classes. 
+
+For metrics which are added dynamically, the Product Intelligence team is working to migrate these, see [epic](https://gitlab.com/groups/gitlab-org/-/epics/6140). In the case that a metric from this list is added/removed/changed before Product intelligence team has migrated the metric, the group owning the metric should perform the migration to instrumentation classes during the course of the desired change.
 
 Adding a new metric in Service ping will require adding an instrumentation class and a metric definition, see more in [Metrics Instrumentation guide](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html).
 
