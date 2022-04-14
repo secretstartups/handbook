@@ -176,6 +176,7 @@ Both can be overcome by [checking your internet connection](/company/culture/all
 
 ### How can I prepare for a remote meeting?
 
+1. Review your calendar at least a day in advance of the meeting, so that you are aware of the meeting and what is being discussed. Meetings should not be surprises. When people know what is on their calendars and are aware of related materials, they can make smart decisions around how much time to spend reviewing materials in advance. 
 1. Prepare for your meeting by carefully reading the live doc agenda attached to the calendar invite **before** the meeting. Here's an [example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) of what one might look like. 
 1. Check and [make sure your technology, Internet](/company/culture/all-remote/getting-started/#bolster-your-internet-connection-and-consider-redundancy), and environment are good. 
 1. Don’t be afraid to [ask for help](/company/culture/all-remote/getting-started/#dont-be-afraid-to-ask-for-help) if you need it in order to be fully prepared.
