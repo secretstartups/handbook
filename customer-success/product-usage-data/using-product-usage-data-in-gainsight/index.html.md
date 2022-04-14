@@ -23,42 +23,33 @@ For a richer explanation of the purpose and intended outcomes, see the [Product 
 
 ## Using Product Usage Data in Gainsight 
 
-For a high level overview (7 minutes), see:
+For a high level overview (7 minutes), see `Using Product Usage Data in Gainsight - Introduction` video.
 
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://youtu.be/bny-SoH-MNc" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>  
-<!-- blank line -->
-
-- [Product Usage Data Dashboard](https://www.youtube.com/watch?v=CJ318OGtkb8)
-- [Product Usage Data - video overview](https://youtu.be/5_J9Kfbu5JA)
+- [Using Product Usage Data in Gainsight - Introduction](https://youtu.be/bny-SoH-MNc)
 - [Health Measures and Data Quality](https://www.youtube.com/watch?v=XQCGKL4XF_o)
 
-**Note**: for License Usage, see [License Usage in Gainsight](/handbook/customer-success/product-usage-data/license-utilization/).
-
-For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.com/groups/gitlab-com/-/epics/1247). 
+For the overall 3-year vision, see [Product Usage Data Roadmap](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.p) (internal GitLab document). 
 
 ## Quick Links
 
 
 <div class="flex-row" markdown="0" style="height:80px">
-<a href="https://about.gitlab.com/handbook/customer-success/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data -<br>Operational Data Vision Page</a>
-<a href="https://docs.gitlab.com/ee/development/usage_ping/dictionary.html" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Metrics Dictionary</a>
-<a href="https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data:<br>Gainsight Technical Documentation</a>
-</div>
+<a href="/handbook/customer-success/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data -<br>Operational Data Vision Page</a>
+<a href="https://metrics.gitlab.com/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Metrics Dictionary</a>
+<a href="/handbook/sales/field-operations/sales-systems/license-usage-app/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data:<br>Salesforce License Utilizaton App</a>
 <br>
-<div class="flex-row" markdown="0" style="height:80px">
-<a href="/handbook/product/product-intelligence-guide/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Intelligence Overview</a>
-<a href="https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data -<br> Data Team Handbook</a>
+<a href="/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data -<br> Data Team Handbook</a>
 <a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Use Case Adoption Guide</a>
+<a href="/handbook/sales/field-operations/customer-success-operations/gainsight/using-gainsight-data-in-sfdc/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Using Gainsight Data in Salesforce</a>
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
 <a href="/handbook/customer-success/product-usage-data/license-utilization/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">License Utilization in Gainsight</a>
 <a href="/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Gainsight Scorecard Attributes<br>and Calculations</a>
+<a href="/handbook/customer-success/product-usage-data/freemium-saas-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">SaaS Free/Trial Usage Data</a>
+<br>
 <a href="/handbook/customer-success/product-usage-data/product-usage-data-FAQs" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data FAQs</a>
 </div>
+
 
 <br>
 
