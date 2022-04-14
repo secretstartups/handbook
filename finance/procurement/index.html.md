@@ -128,20 +128,21 @@ To help expedite the review and approval of your purchase request, be prepared t
 </div>
 
 ### Step 4: Monitor Progress in Coupa
-1. You can check the status of your requisition at any time by scrolling to the “Approvers” section.
-1. Common Status Questions:
-- Why is my supplier still onboarding?
-    - If the supplier still has not completed their onboarding, you will see the text “(onboarding)” in red next to the supplier's name in the “cart”
-    - Your request cannot begin the review and approval process until the supplier completes their onboarding 
-    - **TIP:** Procurement will contact the supplier requesting they complete the onboarding process. However, when the business sponsor also requests the suppliers action to complete the onboarding email from Coupa, it expedites response. Remind your supplier that their contract can NOT be reviewed and invoice can’t be paid  until they complete the onboarding process in Coupa
-- What does "Pending Buyer Action" status means?
-    - If your request is “Pending Buyer Action” and the supplier is NOT still onboarding, your req is being reviewed by the procurement team and will respond one of two ways within 1-2 business days:
+You can check the status of your requisition at any time by scrolling to the “Approvers” section.
+
+Common Status Questions:
+1. Why is my supplier still onboarding?
+- If the supplier still has not completed their onboarding, you will see the text “(onboarding)” in red next to the supplier's name in the “cart”
+- Your request cannot begin the review and approval process until the supplier completes their onboarding 
+- **TIP:** Procurement will contact the supplier requesting they complete the onboarding process. However, when the business sponsor also requests the suppliers action to complete the onboarding email from Coupa, it expedites response. Remind your supplier that their contract can NOT be reviewed and invoice can’t be paid  until they complete the onboarding process in Coupa
+1. What does "Pending Buyer Action" status means?
+- If your request is “Pending Buyer Action” and the supplier is NOT still onboarding, your req is being reviewed by the procurement team and will respond one of two ways within 1-2 business days:
         - Requesting additional questions/information about the purchase to you the business requestor, or to the supplier directly.
         - Approve the Coupa Request, which will automatically advance it to the FP&A team for their review and approval.
-- How are Contracts Signed?
-    - Once the Coupa Req is at the “Contract Approval” stage, the procurement team will route the contract to the appropriate signatory according to GitLab’s [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) via Docusign.  
-    - Once signed, the procurement team will route the contract to the supplier for countersignature.
-    - Once the contract is fully executed by both parties, the procurement team will approve the Coupa Request fully approving the Purchase Request and simultaneously releasing the Coupa Purchase Order (PO) to facilitate supplier payment.
+1. How are Contracts Signed?
+- Once the Coupa Req is at the “Contract Approval” stage, the procurement team will route the contract to the appropriate signatory according to GitLab’s [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) via Docusign.  
+- Once signed, the procurement team will route the contract to the supplier for countersignature.
+- Once the contract is fully executed by both parties, the procurement team will approve the Coupa Request fully approving the Purchase Request and simultaneously releasing the Coupa Purchase Order (PO) to facilitate supplier payment.
 
 ### Step 5: Congratulations on your Coupa Purchase Order (PO)!
 1. Once the PO is generated, GitLab has officially placed an order for your purchase!! You may now begin work and/or obtaining the products/services.
