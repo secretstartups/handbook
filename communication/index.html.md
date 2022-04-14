@@ -390,6 +390,12 @@ The items below are not shared with all team members. Limited access is a more s
 
 Some projects require limited access internally due to the confidential or sensitive nature of the project, including but not limited to projects related to the items listed above. Often, in order to maintain the necessary confidentiality of these types of initiatives, we assign a code name for the project. For consistency and to make it easier to identify the genesis of these projects and their organizational affiliations, we've established the following naming conventions.
 
+Project code names can be overused. Code names should never be used for projects that can be public. There are two cases where the project name should be used instead of a name that clearly describes the project. 
+
+1. The work within the project is [material non-public information (MNPI)](/product/product-safe-guidance/#materially-non-public-information). Information is limited access by nature and should not be disclosed in issues, MRs, slack and other communication. Example: "Gotham" was our project name for our IPO. 
+1. The work is not MNPI but should remain [limited access](/handbook/communication/#limited-access) to avoid prematurely sharing information with customers or the wider community. Example: "Tiering" was our project name for End of Availability
+
+Code names should be retired as soon as a project is no longer confidential. 
 | Team                  | Theme                                                                                          |
 | --------------------- | ---------------------------------------------------------------------------------------------- |
 | CEO                   | Pets / Animals                                                                                 |
@@ -1052,6 +1058,7 @@ If a phone number is required, leave this field empty by default. If that is not
 the general number (+1-415-761-1791), but be aware that this number simply guides to a voice message that refers the caller back to contacting us via email.
 
 ## Organization code names
+
 
 - Listed in Google Sheet under 'Organization code names'
 - To make it easier to recognize code names we base them on classic car models.
