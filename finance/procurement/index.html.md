@@ -14,13 +14,13 @@ title: The GitLab Procurement Team
 {:toc}
 
 
-## <i class="far fa-paper-plane" id="biz-tech-icons"></i> What is Procurement?
+## <i class="fas fa-stream" id="biz-tech-icons"></i>  What is Procurement?
 Procurement is the process of selecting vendors, strategic vetting, selection, negotiation of contracts, and the actual purchasing of goods. Procurement acquires all the goods, services, and work that is vital to GitLab.
 
-## <i class="far fa-paper-plane" id="biz-tech-icons"></i> What is the Procurement Process at GitLab?
+## <i class="fas fa-stream" id="biz-tech-icons"></i>  What is the Procurement Process at GitLab?
 Anytime a purchase is being made on behalf of GitLab that does not qualify as a personal expense, or meet the list of exceptions, a Coupa Purchase Request must be approved BEFORE a purchase and/or work can begin.
 
-Exceptions to the PO policy are here and include, but are not limited to, purchases under $5,000 USD.
+[Exceptions to the PO policy](https://about.gitlab.com/handbook/finance/procurement/#-what-are-the-exceptions-to-the-po-policy) include, but are not limited to, purchases under $5,000 USD.
 
 #### Shared Goals
 Procurement is a cross-functional team that supports GitLab as a public company. We have four key objectives monitored in the following ways:
@@ -33,37 +33,37 @@ Procurement is a cross-functional team that supports GitLab as a public company.
 1. Responsible Sourcing and Diversity
     - Monitored via Coupa Supplier Onboarding
 
-## <i class="far fa-paper-plane" id="biz-tech-icons"></i> When do I start the Procurement Process?
-- Before agreeing to any business, legal and/or pricing terms with a supplier.
-    - If you have received a contract from a supplier, tell them you will send to your procurement team to review. Then create a Coupa Purchase Request
-- Immediately when you receive a quote for new and/or recurring business 
+## <i class="fas fa-stream" id="biz-tech-icons"></i> When do I start the Procurement Process?
+- Before agreeing to any business, legal and/or pricing terms with a supplier, whether in conversation or email
+- Immediately when you receive a contract and/or quote for new and/or recurring business 
+    - If you have received a contract from a supplier, tell them you will send to your procurement team for review
 - When you have narrowed down your RFP to the final 1-2 suppliers
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I start the Procurement Process?
-- Create a Purchase Request in Coupa (hot link to below)
+- [Create a Purchase Request in Coupa](https://about.gitlab.com/handbook/finance/procurement/#-how-do-i-create-a-purchase-request-in-coupa)
 - If unsure where to begin, tag the @procurement_team in the #procurement slack channel
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> What are other Services Procurement Supports?
 Includes RFP Templates, scorecards and Vendor Guidelines for doing business with GitLab:
 
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
-     <a href="/handbook/finance/procurement/office-equipment-supplies/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Home office equipment and supplies</a>
+     <a href="/handbook/finance/procurement/office-equipment-supplies/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Home Office and Supplies</a>
   <a href="/handbook/finance/procurement/personal-use-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Individual Use Software</a>
-   <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor selection process</a>  
-   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor guidelines</a>
+   <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor Selection Process</a>  
+   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor Guidelines</a>
    <a href="/handbook/legal/NDA/#" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Non-Disclosure Agreement (NDA)</a>
    <a href="/handbook/finance/procurement/charitable-contributions/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Charitable Contributions</a>
    <a href="/handbook/finance/procurement/trial-agreement/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Demo/Trial Agreements</a>
 </div>
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> When does procurement negotiate my contract and how long does that take?
-- The procurement team negotiates SaaS contracts >$50K, and one-time contracts > $100K. 
-- For best results, plan on the negotiation, review and approval cycle to take 3-4 weeks based on the scope of the request. Large and/or complex contracts can take longer to negotiate and finalize.
+## <i class="fas fa-stream" id="biz-tech-icons"></i>  When does procurement negotiate my contract and how long does that take?
+- The procurement team negotiates SaaS contracts >$25K, and one-time contracts > $100K. 
+- Plan on the negotiation, review and approval cycle to take 3-4 weeks. Large and/or complex contracts can take longer to negotiate and finalize.
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I create a Purchase Request in Coupa?
-If purchasing Home Office Equipment and/or Software for your individual work use <$5K USD, see Other Services Process since a Coupa Purchase Request is not required in those instances.
+If purchasing Home Office Equipment and/or Software for your individual work use <$5K USD, see [Other Services Process](https://about.gitlab.com/handbook/finance/procurement/#-what-are-other-services-procurement-supports) since a Coupa Purchase Request is not required in these instances.
 
-#### Step 1: Obtain Coupa Access
+### Step 1: Obtain Coupa Access
 1. Login to Coupa via your [Okta home page](https://gitlab.okta.com/app/UserHome#).
 1. If you need Coupa access, see [How to access Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa).
 1. Review Coupa training materials:
@@ -83,25 +83,25 @@ If purchasing Home Office Equipment and/or Software for your individual work use
 **New Supplier Tip**
 {: .panel-heading}
 <div class="panel-body">
-Once you've submitted your New Supplier Form, contact your supplier letting them know that within the next 1-2 days they will be receiving an onboarding request from Coupa. Let them know GitLab is unable to review or sign their contract until they complete this process so their prompt response is needed.
+Once you've submitted your New Supplier Form, contact your supplier letting them know they will be receiving an onboarding request from Coupa. Let them know GitLab is unable to review or sign their contract until they complete this process so their prompt response is needed.
  
 Please note, it takes several hours for Coupa to activate the supplier and be able to submit a request.
 </div>
 </div>
 #### If Existing Supplier:
-1. Proceed to Step 2.
+- Proceed to Step 2.
 
 #### If Unsure:
-1. You can [search Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier) for a list of existing suppliers.
+- You can [search Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier) for a list of existing suppliers.
 
 ### Step 3: Create Coupa Requisition
-1. Is this request for a software renewal/add-on? Or for professional services? 
+1. Is this request for a **software renewal/add-on**? Or for **professional services**? 
     - If yes, begin by selecting the appropriate request “Form”, found in the Forms dropdown in the upper right of Coupa.
     - Software renewals and [professional service](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form?) requests that do NOT have this form completed will be rejected, causing delays to your timeline.
     - Once your form is completed, proceed to Cart and complete a request with necessary information.
 1. Do you need a Virtual Card payment method for your supplier?
     - This applies to instances where the supplier only accepts online credit card payments. More info on allowed uses here (link to new Virtual Card page)
-    - If yes, see instructions to request a Virtual Card here. https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/#what-is-virtual-card} 
+    - If yes, see instructions to [request a Virtual Card here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/#what-is-virtual-card) 
     - Once your Virtual Card form is completed, proceed to Cart and complete a request with necessary information.
 1. Create a Coupa Requisition, [instructions here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition).
 
@@ -112,8 +112,8 @@ Please note, it takes several hours for Coupa to activate the supplier and be ab
 To help expedite the review and approval of your purchase request, be prepared to provide the following information in your Coupa Requisition. If you don't know all of this information yet or are wanting support to negotiate that's ok!
 - Whether or not the supplier will have access to red and/or orange data
     - If yes, a [Vendor Security Review](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html) will be completed. The vendor will receive an email communication from ZenGRC requesting information regarding their security protocols.
-    - If yes, the Vendor will need to sign our DPA and SCC’s as mandated by federal mandates.
-**TIP:** To increase speed of approval, send your supplier contact the DPA and SCC’s (ADD LINK) for signature. Also alert them to the email their security contact will receive from ZenGRC to complete ASAP. Please copy procurement@gitlab.com on communication.
+    - If yes, the Vendor will need to sign our [DPA](https://drive.google.com/file/d/12HC2BEuXwxRFiUGAki7-CjmHclHRGwHK/view) and [SCC’s](https://drive.google.com/file/d/1oOgETU0YZrp_JhM88oI57DsLEh1qpvFV/view) as directed by federal and global requirements.
+- **TIP:** To increase speed of approval send your supplier contact the [DPA](https://drive.google.com/file/d/12HC2BEuXwxRFiUGAki7-CjmHclHRGwHK/view) and [SCC’s](https://drive.google.com/file/d/1oOgETU0YZrp_JhM88oI57DsLEh1qpvFV/view) for signature right away. Also alert them the the request from ZenGRC for security completion. Let them know review and approval can't begin without these pieces.
 - All data and systems the vendor will have access to
     - Be as specific as you can about the type of data the vendor and/or system will have access to, and specifics about how they will receive that data.
     - Failure to complete this field will delay the review and approval of your request.
@@ -136,7 +136,7 @@ To help expedite the review and approval of your purchase request, be prepared t
     - **TIP:** Procurement will contact the supplier requesting they complete the onboarding process. However, when the business sponsor also requests the suppliers action to complete the onboarding email from Coupa, it expedites response. Remind your supplier that their contract can NOT be reviewed and invoice can’t be paid  until they complete the onboarding process in Coupa
 - What does "Pending Buyer Action" status means?
     - If your request is “Pending Buyer Action” and the supplier is NOT still onboarding, your req is being reviewed by the procurement team and will respond one of two ways within 1-2 business days:
-        - Requesting additional questions/information about the purchase to process within the Coupa Request.
+        - Requesting additional questions/information about the purchase to you the business requestor, or to the supplier directly.
         - Approve the Coupa Request, which will automatically advance it to the FP&A team for their review and approval.
 - How are Contracts Signed?
     - Once the Coupa Req is at the “Contract Approval” stage, the procurement team will route the contract to the appropriate signatory according to GitLab’s [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) via Docusign.  
@@ -152,33 +152,35 @@ To help expedite the review and approval of your purchase request, be prepared t
     - Failure to follow these instructions will delay payment
     - Invoices uploaded to Coupa by a GitLab team member are not routed for payment.
 1. If your request was new software, [update the tech stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#add-new-system-to-the-tech-stack) after the Coupa PO is approved and the contract signed.
-C1. ongratulations and thank you for following this process to support GitLab as a public company!
+
+Congratulations and thank you for following this process to support GitLab as a public company!
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How long does it take to approve my Coupa Purchase Request?
-As a general rule, plan on **1-2 weeks to approve your Purchase Request for an existing supplier with standard terms, conditions, and low risk.**
+As a general rule, plan on **5-7 Business Days to approve your Purchase Request for an existing supplier with standard terms, conditions, and low risk.**
 
-If your request requires negotiation (hot link above), security review (hot link 
-above), and multiple legal revisions, this can take longer. 
+If your request [requires negotiation](https://about.gitlab.com/handbook/finance/procurement/#-when-does-procurement-negotiate-my-contract-and-how-long-does-that-take), a [vendor security review](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html), and/or multiple legal revisions, this will take longer as noted below. 
 
 Please plan accordingly and open your Coupa Purchase Request allowing the cross-functional teams enough time to complete the review
 
-If your request meets any of the below criteria, add the additional time noted for the activity to the 1 week baseline approval target:
+If your request meets any of the below criteria, add the additional time noted for the activity to the 5-7 day baseline above:
 
 ### New Supplier Onboarding: 1-3+ Days
 - This is entirely dependent upon the suppliers response time. 
 - Once your New Supplier Request form is approved, the supplier receives an email from Coupa requesting banking and tax information to facilitate payment. 
 - The procurement team can not complete this on the suppliers behalf since we do not know this information. If we did it would be a violation of SOX Compliance guidelines.
-- If your supplier isn’t onboarded after 2 days, please contact your supplier directly requesting they do so ASAP since their contract cannot be reviewed or approved until this is completed and cc procurement@gitlab.com
+- If your supplier isn’t onboarded after 2 days, contact your supplier directly requesting they do so ASAP since their contract cannot be reviewed or approved until this is completed. Carbon copy procurement@gitlab.com
 
-In the event two or more of the below activities are required, they can happen in parallel to one another:
+**In the event two or more of the below activities are required, they will happen in parallel to one another:**
 
 ### Negotiation: 1-3 Weeks
 - Required for: SaaS contracts >$25K, and one-time contracts > $100K.  
 - Turn time is based on the level of negotiation required and the suppliers willingness to meet budget and benchmark indicators.
+
 ### Vendor Security Review (VSR): 1-2 Weeks  
 - A [VSR](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html) is required for: All SaaS purchases, and other purchase types where the supplier will have access to orange and/or red data (excluding field marketing events).
 - Turn time is based on the maturity of the suppliers security protocols and supplier response time to the ZenGRC email request.
 - **TIP:** To increase speed of approval, upload any security compliance documentation to the Coupa Request and notify your supplier contact they will be receiving a request from  ZenGRC for completion ASAP.
+
 ### Legal Review: 1-2 Weeks  
 - Multiple redline versions may be required in these situations:
     - Industry standard terms and conditions are not used
