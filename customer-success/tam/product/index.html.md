@@ -100,6 +100,8 @@ If you have followed the [process of commenting on issues](#gitlab-issues) and h
 
 ### Product CAB Feedback
 
+#### TAM Feedback Process 
+
 The Product [Customer Advisory Board](/handbook/marketing/strategic-marketing/customer-reference-program/CAB/) is an important part in making sure our Product team regularly receives feedback from customers, as well as an opportunity for customers to interact with each other. If a TAM has a customer on the CAB, it's worthwhile to stay up to date on what's being discussed in CAB meetings, and the Product team has asked the TAMs to review recordings and/or notes and document any feedback customers may have provided during these meetings. The process is as follows:
 
 1. The Customer Reference Manager (CRM) creates a “CAB TAM Follow up” [issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/new?issue%5Bmilestone_id%5D=) in the CAB project and shares relevant links 
@@ -110,3 +112,15 @@ The Product [Customer Advisory Board](/handbook/marketing/strategic-marketing/cu
 1. The CRM schedules an annual meeting with the TAM and Product teams to review the `~CAB Takeaway` label board 
 
 For more information, join the `cab-shared` and `cab-shared-internal` Slack channels, and review the [proposal slide deck](https://docs.google.com/presentation/d/1LPJazgskhQJnqjBYzRlu5dGDVmUbnvfpzfYrPXqXkRY/edit#slide=id.gf25b6c3b0c_2_0) for managing customer feedback from the Product CAB. To nominate a customer to be a CAB member, please view [the CAB handbook page](https://about.gitlab.com/handbook/marketing/strategic-marketing/customer-reference-program/CAB/#cab-nomination-process).
+
+#### Product Management and Product Monetization Feedback Process
+
+The CAB meetings also produce broader feedback items related to product strategy beyond a specific feature request or bug prioritization request. The process for this is as follows: 
+
+1. The notetakers in each session identify product strategy items  
+1. These items are added to issues and labeled with `CAB Takeaway` and `~CAB Takeaway Qx FY20xx`
+1. The notetakers assign the issues to the relevant product managers and leaders 
+1. These issues will follow a [normal feature request procedure](#gitlab-issues) if they are feature requests 
+1. Product Managers may need to connect with these users they can follow up with TAMs of these accounts to get them scheduled. 
+
+For more information or if you have any questions, join the `cab-shared-internal` Slack channel. 
