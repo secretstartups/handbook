@@ -543,7 +543,7 @@ _Software composition analysis tools evaluate applications to uncover vulnerabil
 
 #### 2018
 
-<big>[Forrester: Continuous Delivery and Release Automation - Contender](/analysts/forrester-cdra/)</big><br>
+<big>[Forrester: Continuous Delivery and Release Automation - Contender](/analysts/forrester-cdra20/)</big><br>
 _Release automation tools enable faster, higher-quality, more automated software delivery through modeling applications, infrastructure, middleware, and their supporting installation processes and dependencies. “GitLab’s release automation is ideal for cloud-native, Kubernetes-centric organizations.”_<br>
 **Value Drivers:** Efficiency, Speed<br>
 **Usecase** CD
