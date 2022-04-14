@@ -53,7 +53,9 @@ At the same time, even GitLab team members may find themselves on one of two ext
 
 Managers can support their direct reports by reviewing the directs' calendars with them on a regular basis to align on which meetings should have in-person attendance.
 
-### 2. Cancel unnecessary recurring meetings
+### 2. Cancel unnecessary meetings
+
+Meetings should not happen if there isn't a clear objective and adequate preparation. In most cases, meetings that should be postponed are cancelled before they begin. At GitLab, roughly 1% of meetings should end within the first minute as it becomes clear that the meeting doesn't have a known meeting outcome, key material required for a productive conversation, or adequate participant preparation. Cancelling a meeting quickly at the start of a meeting is not a failure. It takes leadership to quickly read the situation and make an efficient and timesaving call. 
 
 Recurring meetings are often established as meaningful points along a given journey. Don't hesitate to cancel them after their purpose has been served. Cancelling meetings isn't an insult to those on the invite list. In fact, ridding multiple calendars of an unneeded meeting is liberating to everyone involved. At the end of each meeting, the meeting [DRI](/handbook/people-group/directly-responsible-individuals/) should evaluate whether the meeting can be **cancelled** or the meeting cadence or duration can be **reduced**. If there are multiple folks who may have an opinion, this can be an agenda item for discussion at the end of the meeting. 
 
