@@ -136,7 +136,7 @@ To change a start date after a **GitLab entity** contract has been signed and th
    - Click the edit pencil next to the start date
    - Select the new Start Date
    - Save
-   - In the "Make a Note" section in Greenhouse state the old start date and the new state date
+   - In the "Make a Note" section in Greenhouse state the old start date and the new state date, and tag the person on FP&A (typically the second approver) who approved the offer.
    - Save
 1. Update Entity Payroll Providers (UK, Netherlands) of any changes to the start date via the email templates in Greenhouse.
 1. Update the People Experience Team in Slack Workflow.
