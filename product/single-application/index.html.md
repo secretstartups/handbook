@@ -124,7 +124,7 @@ everything you need available at all times makes for more efficient work.
 blocked no longer requires detective work. It's available everywhere and
 accessible to everyone.
 
-This is highlighted by analyst specified benefits of [Value Stream Delivery Platforms](/analysts/gartner-vsdp20/), of which GitLab is considered a representative vendor.
+This is highlighted by analyst specified benefits of [Value Stream Delivery Platforms](/analysts/gartner-vsdp21/), of which GitLab is considered a representative vendor.
 
 Some additional example benefits include:
 
@@ -342,4 +342,4 @@ use cases.
 
 Continuing apace after Microsoft's 2018 [acquisition of GitHub](https://blogs.microsoft.com/blog/2018/10/26/microsoft-completes-github-acquisition/), the trend to consolidate DevOps companies seems here to stay. In January 2019, [Travis CI was acquired by Idera](https://techcrunch.com/2019/01/23/idera-acquires-travis-ci/), and in February 2019 we saw [Shippable acquired by JFrog](https://techcrunch.com/2019/02/21/jfrog-acquires-shippable-adding-continuous-integration-and-delivery-to-its-devops-platform/). Atlassian and GitHub now both bundle CI/CD with SCM, alongside their ever-growing related suite of products. In January 2020, [CollabNet acquired XebiaLabs to build out their version of a comprehensive DevOps solution](https://xebialabs.com/company/press/collabnet-versionone-and-xebialabs-combine-to-create-integrated-agile-devops-platform/).
 
-It's natural for technology markets go through stages as they mature: when a young technology is first becoming popular, there is an explosion of tools to support it. New technologies have rough edges that make them difficult to use, and early tools tend to center around adoption of the new paradigm. Once the technology matures, consolidation is a natural part of the lifecycle. GitLab is in a fantastic position to be ahead of the curve on consolidation, as we're already considered a representative vendor in this [newly defined market](/analysts/gartner-vsdp20/), but it's a position we need to actively defend as more competitors start to bring legitimately integrated products to market.
+It's natural for technology markets go through stages as they mature: when a young technology is first becoming popular, there is an explosion of tools to support it. New technologies have rough edges that make them difficult to use, and early tools tend to center around adoption of the new paradigm. Once the technology matures, consolidation is a natural part of the lifecycle. GitLab is in a fantastic position to be ahead of the curve on consolidation, as we're already considered a representative vendor in this [newly defined market](/analysts/gartner-vsdp21/), but it's a position we need to actively defend as more competitors start to bring legitimately integrated products to market.
