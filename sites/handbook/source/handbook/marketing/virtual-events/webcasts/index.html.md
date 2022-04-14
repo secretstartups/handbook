@@ -245,6 +245,33 @@ Select and set up your presentation space. Pick a spot with good wifi, and we re
 {: #speaker-before-presentation .no_toc}
 Try to get a good sleep the night before, and, if the presentation is in the morning, wake up early enough to run through your notes at least once. Review our [Positioning FAQ](https://about.gitlab.com/handbook/positioning-faq/), or keep the page handy in case you are asked in the Q&A about how GitLab compares to our competitors.
 
+## Technical Demo Series
+{: #technical-demo-series .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+Technical demos are aligned with the GTM Motions and cover a range of topics relevant to leads in consideration & purchase stages.  
+Demo series run on a weekly cadence as live or pre-recorded sessions on Zoom / BrightTalk Platforms with an option for Q&A. 
+
+**Primary goal:**
+* Accelerate MQL > SAO conversion
+
+### Technical demo landing pages
+{: #technical-demo-landing-pages .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+Technical Demo Series are managed by Marketing Campaign Managers, in collaboration with Technical Marketing Managers who deliver the content. The technical set-up is executed by Campaign Managers and Verticurl agency.
+
+Campaign Managers are responsible to maintaining the following technical demo pages:
+
+- [AMER/EMEA Demo Page](https://page.gitlab.com/technical-demo-series.html)
+- [APAC Demo Page](https://page.gitlab.com/technical-demo-series-apac.html)
+- [APAC Workshop/Demo Page](https://page.gitlab.com/events-pd-technical-apac.html)
+
+Instructions video on adding/removing the technical demos from landing page are available [here](https://www.youtube.com/watch?v=dj9DA7seGuo).
+
+The following landing pages combining technical demos and workshops are being maintained by Field Marketing Managers: 
+
+- [AMER Workshop/Demo Page](https://page.gitlab.com/events-amer-enterprise.html)
+- [EMEA Workshop/Demo Page](https://page.gitlab.com/events-pd-emea.html)
+
 # Logistical Setup
 {: #logistical-setup .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -352,7 +379,8 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 1. Create the webcast program in Marketo by navigating to either the [Webcast program template](https://app-ab13.marketo.com/#ME5512A1) or the correct template from [Workshop program templates folder](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF5975A1)
 1. Right-click the appropriate template, and select "clone"
 1. Next to "Clone To", choose `A campaign folder`.
-1. For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{Webcast Title}_[Region - only if applicable]`. For example, `20170418_MovingToGit`.
+1. (non-technical demos) For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{Webcast Title}_[Region - only if applicable]`. For example, `20170418_MovingToGit`.
+1. (technical demos)  For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{gtmcampaign}_{Webcast Title}_techdemo_[Region - only if applicable]`. For example, `20220324_devopsgtm_BuildingMLApps_techdemo_APAC`.
 1. Under "Folder", choose the appropriate quarter within the  `GitLab-Hosted Campaign Webcasts` or `GitLab-Hosted Workshops` folders.
 1. Click "Create" (note - you will create the SFDC campaign from Marketo in the next step!)
 
@@ -715,6 +743,7 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 * **Confirm Date:** The webcast idea issue (date request issue) must be complete and confirmed before creation of the epic, issues, and workback.
 * **Campaign Webcast Epic:** campaign manager creates webcast epic (using code below)
 * **Related Issues:** campaign manager creates the issues as designated in the GANTT sheet, and associates to the campaign webcast epic
+* **Technical Demo Series** After the epic for a technical demo is created, add it to the appropriate parent epic. This allows us to see all of the related technical demos at a glance. Parent epics can be found [here](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2291) and are denoted with `Top Level Epic` (ex, [Technical Demo Series] DevSecOps Demo (Top Level Epic))
 
 [View the webcast workback timeline GANTT here](https://docs.google.com/spreadsheets/d/1A4c2OodEAsOlN4Ek-rBiLlwkdF0AvX5YBiY4mhkZd-M/edit#gid=666473040)
 
@@ -773,7 +802,8 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 1. Create the webcast program in Marketo by navigating to the [Webcast program template for BrightTalk](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6946A1)
 1. Right-click and select "clone"
 1. Next to "Clone To", choose `A campaign folder`.
-1. For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{Webcast Title}_[Region - only if applicable]`. For example, `20170418_MovingToGit`.
+1. (non-technical demos) For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{Webcast Title}_[Region - only if applicable]`. For example, `20170418_MovingToGit`.
+1. (technical demos)  For "Name", add the MKTO program name (this is also the SFDC campaign name). Use the following format: `YYYYMMDD_{gtmcampaign}_{Webcast Title}_techdemo_[Region - only if applicable]`. For example, `20220324_devopsgtm_BuildingMLApps_techdemo_APAC`.
 1. Under "Folder", choose the appropriate quarter within the  `GitLab-Hosted Campaign Webcasts` folder.
 1. Click "Create" (note - you will create the SFDC campaign from Marketo in the next step!)
 
