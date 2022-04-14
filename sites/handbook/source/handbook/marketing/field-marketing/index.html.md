@@ -477,7 +477,14 @@ We market our workshops on both the [GitLab events page](https://about.gitlab.co
 
 ##### Instructions for Verticurl
 
-Verticurl will follow the instructions in [this video](https://www.youtube.com/embed/Vu3NOuiFwBE) to add and remove postings on the regional workshop demo pages.
+Verticurl will follow the instructions in [this video](https://www.youtube.com/embed/Vu3NOuiFwBE) and in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1788) to add and remove postings on the regional workshop demo pages. Verticurl is only responsible for adding/removing events for the AMER and EMEA pages. The Campaigns Team will manage the APAC pages.
+
+- [AMER Workshop/Demo Page](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7547B2) - Verticurl
+- [EMEA Workshop/Demo Page](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7582A1LA1) - Verticurl
+- [APAC Workshop/Demo Page - General](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7646A1LA1) - Campaigns Team
+- [APAC Workshop/Demo Page - Paid Promotion](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7646A1LA1) - Campaigns Team  
+
+For more information regarding the regional workshop/demo pages, please visit [this handbook page](/handbook/marketing/virtual-events/webcasts/#technical-demo-landing-pages).
 
 # Owned Tactics that Involve Collecting Addresses
 There are times that Field Marketing will run campaigns that involve building a landing page in Marketo in order to collect addresses for shipping swag. Examples of these instances are a 5k run, GitLab-hosted tasting event, direct mail campaigns, etc. When collecting addresses, please follow the below instructions for ensuring PII compliancy.
