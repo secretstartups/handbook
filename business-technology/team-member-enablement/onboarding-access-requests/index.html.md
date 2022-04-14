@@ -353,6 +353,7 @@ DriveStrike collects the following information for GitLab:
 - OS Version & Patch/Update status
 - Disk encryption status
 - Battery Health
+- All nearby WiFi networks, including SSID, signal strength, channel, and MAC address
 
 This light-touch reporting allows us to meet business and compliance needs, while maintaining the privacy of the GitLab team member. This will remain a top consideration throughout the process.
 
