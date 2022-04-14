@@ -141,6 +141,26 @@ Example: CI has ten individual features with one metric per feature and each met
 
 While the product usage health will be summarized, a separate health view will allow users to view each individual component. This allows users to quickly skim overall health and, when applicable, to look into the details to see which features are not being utilized.
 
+### Health scoring for accounts with multiple production instances
+
+#### Problem
+
+When an account has multiple GitLab instances identified as Production, (Instructions on how to [Update Self-Managed Instance Type](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type)) the Product Usage health measure uses the most recently updated instance. That means the Product Usage health measure lacks precision on which instance it scores. Note: this is less than 5% of the time because the vast majority of accounts have a single production instance.
+
+#### Solution
+
+(Video Instructions)[https://youtu.be/N0JUABX88Hg] on how to update instance data in Gainsight to include only one instance in Product Usage health measure.
+
+1. Go to the account C360 and scroll to the Instance and Namespace Details Section. 
+2. Scroll right to see the “Included in Health Measure” column. 
+3. To exclude instances, click the three dots, Edit, and then select “Opt-Out” in the Included in Health Measures section. NOTE: Make sure you select “Opt-Out” rather than null, or the system will overwrite your update. Then click Update.
+4. For the instances you want included in the health score, click on the three dots, Edit, and click “Included in health Score.” Then click Update.
+
+Important to Note: 
+1. Best practice is to only have ONE instance marked as "Included in Health Measure" 
+2. All Production instances are automatically marked "Included in Health Measure" unless they are marked "Opt-Out" 
+3. Select "Opt-Out" rather than null, or the system will overwrite your update.
+
 ## Predictive Analytics
 
 This is not a silver bullet. This will not cure all that ails you. Instead, this methodology is probabilistic and incorporates health measures to correlate the typical journey of “healthy” customers (expand and renew) with “unhealthy” customers (downgrade and churn). For example, a healthy sales pipeline has few pushes (moving the close date) and progressively moves through stages (not stale). Conversely, an opportunity with multiple pushes and stuck in stages for long periods of time is an indicator of risk.
