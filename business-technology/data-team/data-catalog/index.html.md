@@ -112,9 +112,9 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 * [People Metrics Overview](/handbook/business-technology/data-team/data-catalog/people-analytics/)
 * [PTO By Roots (Slack)](/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html)
 * [People Key Metrics](/handbook/business-technology/data-team/data-catalog/people_key_metrics_dashboard/)
-* [People KPI Deck](/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.htm)
+* [People KPI Deck](/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html)
 * [Promotions Report](/handbook/business-technology/data-team/data-catalog/people-analytics/promotions_report.html)
-* [Talent Acquisition Metrics](/handbook/business-ops/data-team/data-catalog/people-analytics/talent-acquisition-metrics.html)
+* [Talent Acquisition Metrics](/handbook/business-ops/data-team/data-catalog/people-analytics/talent_acquisition-metrics.html)
 * [People Metrics - Data Discovery in Sisense Dashboard](https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature)
 
 ### Data Team
