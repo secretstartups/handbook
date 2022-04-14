@@ -173,9 +173,9 @@ A Deal Desk team member will respond to your chatter request with an estimate on
 
 ##### Escalation Path for Case Review
 
-Cases that are urgent, customer impacting, or critical to buisness may be prioritized upon request. If the case has been submitted after Standard Support hours, you may escalated the case for a different regional team to review in the #sales-support Slack channel. You may also tag regional Deal Desk Managers for review and assitance in delegating the case. 
+Cases that are urgent, customer impacting, or critical to business may be prioritized upon request. If the case has been submitted after Standard Support hours, you may escalated the case for a different regional team to review in the #sales-support Slack channel. You may also tag regional Deal Desk Managers for review and assistance in delegating the case.
 
-Cases in this queue must be urgent and business critical. Cases that are routinely escalated out of indiviudal convienience instead of legitimate urgency will be addressed with Sales Management. 
+Cases in this queue must be urgent and business critical. Cases that are routinely escalated out of individual convenience instead of legitimate urgency will be addressed with Sales Management.
 
 ##### Reports To Track Deal Desk SLA 
 
@@ -183,13 +183,13 @@ Cases in this queue must be urgent and business critical. Cases that are routine
 
 #### 2. Regional Support Satisfaction 
 
-All regions will recieve a Quarterly Customer Satisfaction survey at the beginning of each new quarter. Our team aims for a 92% satisfaction rating for their supported region. This survey is a valuable tool to provide feedback on areas of improvement related to the Quote to Cash lifecyle. 
+All regions will receive a Quarterly Customer Satisfaction survey at the beginning of each new quarter. Our team aims for a 92% satisfaction rating for their supported region. This survey is a valuable tool to provide feedback on areas of improvement related to the Quote to Cash lifecyle.
 
-Results from the survey will be used to evaluate team member performance and to idenitify areas for improvement. 
+Results from the survey will be used to evaluate team member performance and to identify areas for improvement.
 
 #### 3. Case Reduction through Proactive Support - Training, Documentation, and System Improvements 
 
-The Deal Desk team will be responsible for taking action on feedback recieved in our Quarterly CSAT survey by improving process related to common quoting errors, opportuntiy bugs, or gaps in process documentation. The goal is to decrease the number of cases and enable the field to complete the standard duties related to quoting without Deal Desk intervention. Deal Desk will always assist in complex or non-standard deals. 
+The Deal Desk team will be responsible for taking action on feedback received in our Quarterly CSAT survey by improving process related to common quoting errors, opportunity bugs, or gaps in process documentation. The goal is to decrease the number of cases and enable the field to complete the standard duties related to quoting without Deal Desk intervention. Deal Desk will always assist in complex or non-standard deals.
 
 In addition, the following reports are used to ensure an evenly balanced workload between team members. Data will be used to identify process gaps, inefficiencies, and trends or common errors in the Quote to Cash lifecycle with the mission to improve these areas.
 
@@ -289,7 +289,7 @@ H.  **Order Form Generation**
 
 This quote type should be only used when **new users are being added to an existing subscription during the current subscription term.** This includes both additional licenses to existing products, and true-ups. This also includes any scenario where the products are being changed during the term - i.e., an upgrade from Premium to Ultimate. Amendment quotes cannot extend a subscription term. 
 
-Amendments to subscriptions must be processed entirely before any changes can be made via additional amendments or a renewal opportunity. This means that the Add On Opportunity should be Closed-Won before submitting a Renewal opportuntiy for approval. 
+Amendments to subscriptions must be processed entirely before any changes can be made via additional amendments or a renewal opportunity. This means that the Add On Opportunity should be Closed-Won before submitting a Renewal opportunity for approval.
 
 **A.  Add-On Quote Creation**
 
@@ -386,7 +386,7 @@ Important: Gaps are not allowed between opps linked to the same subscription ie.
 
 *   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
 
-*   Add any preapproved legal language selections to the order form. Checking the box next ot the language selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
+*   Add any preapproved legal language selections to the order form. Checking the box next to the language selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows:
 
 | Toggle Field                   | Output                                                                                   |
 |--------------------------------|------------------------------------------------------------------------------------------|

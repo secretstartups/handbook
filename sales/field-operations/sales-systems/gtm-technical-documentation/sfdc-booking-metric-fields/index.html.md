@@ -43,7 +43,7 @@ Below is a Data Dictionary and Technical Documentation for our ARR Booking Metri
 
 Business Process this supports: [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
 
-Overview: The goal of this code is populate the Bookings Metrics field on the Opportunity based on data from the Zoura Quote family of objects. If Zuora data is not present then use an estimated Net ARR amount until the deal is quoted. Here is where an Opp will get it's metric data:
+Overview: The goal of this code is populate the Bookings Metrics field on the Opportunity based on data from the Zuora Quote family of objects. If Zuora data is not present then use an estimated Net ARR amount until the deal is quoted. Here is where an Opp will get it's metric data:
 
 | Opportunity Status          | Net ARR Source                          |
 |-----------------------------|-----------------------------------------|
@@ -52,7 +52,7 @@ Overview: The goal of this code is populate the Bookings Metrics field on the Op
 | Web Directs (Current)       | Estimated Net ARR -> EOM Manual Process |
 | [Web Directs (Future)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/911)        | Zuora Quote Data                        |
 
-Inputs: Zuora Quote Data, Opportunity Term and Amunt (If manually morecasted without a quote)
+Inputs: Zuora Quote Data, Opportunity Term and Amount (If manually morecasted without a quote)
 
 Outputs: Populated Net ARR, Amount, Recurring Amount, True Up Amount, ProServ Amount, Other Non-recurring Amounts and Date fields on the related Opportunity.
 
@@ -74,7 +74,7 @@ Tests:
 
 Business Process this supports: [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
 
-Overview: We recieve Zuora Subscription data via the stock Zuora 360 Sync. We then use this data to create renewals, tieing renewals to their related subscription, or if the the Subscription receives a change in ARR, update the related Renewal with that ARR in its basis. The end result is that all of our subscriptions should have a renewal opportunity, and that opportunity's renewal basis is equal to the subscriptions current ARR (until the opp closes).
+Overview: We receive Zuora Subscription data via the stock Zuora 360 Sync. We then use this data to create renewals, tieing renewals to their related subscription, or if the Subscription receives a change in ARR, update the related Renewal with that ARR in its basis. The end result is that all of our subscriptions should have a renewal opportunity, and that opportunity's renewal basis is equal to the subscriptions current ARR (until the opp closes).
 
 Because Zuora Subscriptions in Salesforce do not persist when their version increments, we have created a "wrapper" objected called the Customer Subscription that allows the concept of a subscription to persist through changes.
 
