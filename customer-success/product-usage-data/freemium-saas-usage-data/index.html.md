@@ -17,13 +17,15 @@ description: "How to view and use usage data from freemium and trial SaaS namesp
 
 Empower our internal team with lightweight Free/Trial usage insights in Salesforce.
 
-## Expected Outcomes
+### Expected Outcomes
 
 1. **Identification** of freemium accounts for efficient account targeting
 1. **Insights** into freemium accounts of their current GitLab usage
 1. **Trial visibility** with an understanding of which accounts have an active trial and their usage
 
 ### Using the Data
+
+For more information on general Product Usage Data, see [Using Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/).
 
 ##### Video Overview
 
