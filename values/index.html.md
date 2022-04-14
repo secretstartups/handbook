@@ -63,6 +63,11 @@ _Values are not just things we do but things that actively drive good behaviour.
 1. To **remove** a sub-value from the Handbook page, submit your change through a merge request and explain your reasons in the merge request description.
 1. The GitLab Value Handbook Page owner must approve and merge the request.
 
+#### Mention the specific value
+{:.no_toc}
+
+Most companies have a list of values. In companies without strong values, folks often use generalizations when they refer to values. For example, "not a value add" or "scored well on values during our interview." In companies with strong values, folks name the specific, relevant value as it applies to a given topic or situation. Values are not powerful when they are not individually understood and applied by team members. 
+
 ## 🤝 Collaboration
 {:#collaboration .gitlab-purple}
 
