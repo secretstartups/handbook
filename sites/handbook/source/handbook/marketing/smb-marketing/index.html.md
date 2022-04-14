@@ -14,9 +14,9 @@ SMB Marketing addresses the [SMB Segment](/handbook/sales/field-operations/gtm-r
 
 ### SMB Marketing Team
 
-| PMM | Campaigns | Digital | Content | TMM | PMO |
-| ---- | --- | --- | --- | --- | --- |
-| [Brian Glanz](https://gitlab.com/brianglanz) | [Indre Kryzeviciene](https://gitlab.com/ikryzeviciene),<br>[Shari Rances](https://gitlab.com/srances) | [Zac Badgley](https://gitlab.com/zbadgley) | [Sharon Gaudin](https://gitlab.com/sgaudin) | [William Arias](https://gitlab.com/warias) | [Kimberly Bolton](https://gitlab.com/kbolton1) |
+| PMM | Campaigns | Digital | Content | TMM | Channel | PMO |
+| ---- | --- | --- | --- | --- | --- | --- |
+| [Brian Glanz](https://gitlab.com/brianglanz) | [Indre Kryzeviciene](https://gitlab.com/ikryzeviciene),<br>[Shari Rances](https://gitlab.com/srances) | [Zac Badgley](https://gitlab.com/zbadgley) | [Sharon Gaudin](https://gitlab.com/sgaudin) | [William Arias](https://gitlab.com/warias) | [Karen Pourshadi](https://gitlab.com/kpourshadi) | [Kimberly Bolton](https://gitlab.com/kbolton1) |
 
 Our DRI is [Brian Glanz](https://gitlab.com/brianglanz).
 
