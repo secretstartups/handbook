@@ -128,6 +128,5 @@ A handy App for time keeping is Senzillo's "Speech Timer for Talks".  It is avai
 
 | Start Date | End Date |Shadow Name |
 | ------ | ------ |------ |
-| March 21 | April 1 |
-| April 18 | April 29 |
+| April 19 | April 21 |
 | Q2 TBD | Q2 TBD |
