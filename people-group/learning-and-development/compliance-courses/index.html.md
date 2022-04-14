@@ -25,7 +25,7 @@ GitLab has several compliance courses and resources. Explore the chart below to 
 
 ## WILL Interactive
 
-All team members, regardless of location, are required to take harassment prevention training. All new team members will have a task during their onboarding to complete this training using [Will Interactive's Platform](https://learning.willinteractive.com/) within the first 30 days of hire. Additionally, on all new team members' 6th day with GitLab, they will recieve a Slack message reminder to complete the training. 
+All team members, regardless of location, are required to take harassment prevention training. All new team members will have a task during their onboarding to complete this training using [Will Interactive's Platform](https://learning.willinteractive.com/) within the first 30 days of hire. Additionally, on all new team members' 6th day with GitLab, they will receive a Slack message reminder to complete the training. 
 
 Once you get to that step in your onboarding, please do the following:
 

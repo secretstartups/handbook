@@ -87,7 +87,7 @@ Once the GitLab Team Member Engagement Survey has been closed out, reports will 
 ##### Timeline for Action Planning
 
 - Each E-Group member will in collaboration with their respective People Business Partner (PBP) to identify one or two acton items to initiate coming out of the results review - these will be tracked and managed within CultureAmp moving forward using the [Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework).
-- After action items have been identified at the E-Group level, all managers who recieved an engagement survey result report (AKA: managers with 5+ direct reports who responded to the survey) will also be asked to create an action plan in Culture Amp.
+- After action items have been identified at the E-Group level, all managers who received an engagement survey result report (AKA: managers with 5+ direct reports who responded to the survey) will also be asked to create an action plan in Culture Amp.
 - A manager may choose to align their action planning to their leader or division or they may choose to add a specific and separate action for their team. This will likely depend on the size/structure of the organization.
 
 ##### Using Epics and Issues to Create an Action Plan

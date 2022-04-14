@@ -30,9 +30,9 @@ Departing team members are encouraged to work with their Manager to compile and 
 
 A guideline and template for managers has been provided in the [Communicating Departures Company-Wide](https://about.gitlab.com/handbook/people-group/offboarding/#communicating-departures-company-wide) section of the Offboarding Guidelines which highlights options to add a little color to the announcement e.g. favourite contribution to the handbook in addition to outlining what [information should and should not](https://about.gitlab.com/handbook/people-group/offboarding/#what-do-we-share).
 
-#### When will I recieve access to the Slack Channel `#gitlab-alumni`?
+#### When will I receive access to the Slack Channel `#gitlab-alumni`?
 
-If you are [eligible](/handbook/people-group/offboarding/#gitlab-alumni-program) for the Alumni channel, the People Experience team will submit a Access Request during the offboarding process. A team member will recieve an email within 3 business days after offboarding. 
+If you are [eligible](/handbook/people-group/offboarding/#gitlab-alumni-program) for the Alumni channel, the People Experience team will submit a Access Request during the offboarding process. A team member will receive an email within 3 business days after offboarding. 
 
 #### Is there anything I need to do before my last day?
 

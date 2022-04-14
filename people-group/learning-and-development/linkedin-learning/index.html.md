@@ -147,7 +147,7 @@ Before revoking any LinkedIn Learning license, users will always be notified via
 
 ## Sharing Your LinkedIn Learning Certificate
 
-Once you have completed a course on LinkedIn Learning, you will recieve a certificate. You will have the option to download and/or share it on your LinkedIn Profile. The video below walks thorugh how to do both. 
+Once you have completed a course on LinkedIn Learning, you will receive a certificate. You will have the option to download and/or share it on your LinkedIn Profile. The video below walks thorugh how to do both. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpWhSB-qrF0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -344,9 +344,9 @@ Our integration and configuration was set up in conjunction with our partners fr
 
 ## FAQs 
 
-- I didn't recieve an invite for LinkedIn Learning. What should I do? 
+- I didn't receive an invite for LinkedIn Learning. What should I do? 
    - Please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
-- I recieved an invite for LinkedIn Learning, but can no longer find it. What should I do? 
+- I received an invite for LinkedIn Learning, but can no longer find it. What should I do? 
    - You can search your inbox for the subject `subject line`. If you still can't find the email, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
 - I can't find LinkedIn Learning courses in GitLab Learn. What should I do? 
    - If you cannot access LinkedIn Learning content in GitLab Learn, it is likely because you have not activated a LinkedIn Learning license. First, comfirm that you have activated a LinkedIn Learning license. You can do that by going to [LinkedIn Learning](http://linkedinlearning.com/) to see if you have an account. If you do not have a license or an invite, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 

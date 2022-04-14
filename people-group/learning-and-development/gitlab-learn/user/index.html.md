@@ -169,7 +169,7 @@ Watch the short video recording below to see how the dashboard can help managers
 1. Use the `date` and `assignments` filters in the top right hand corner of the report to set date restrictions
 1. You cannot download data as a CSV or other file type from the Manager Dashboard. If you need this kind of report, work with the L&D team to build a report using EdGraph.
 1. The `Cards Completed` metric on the `Overview` tab will indicate the **total number of times any card was completed** by your team member. For example: if 2 teams members each complete a pathway that has 10 total cards, this metric will show 20 card completions. This count is not useful for understanding how many total courses or trainings are actually completed by your team.
-1. Send a reminder to complete assigned content by clicking the `Assignments` tab. Then click the `Send Reminder` button next to the relevant assignment. Select which members you'd like to recieve the custom reminder. Reminders can be customized for users who have `Not Started` and are `In Progress` on any given assignment
+1. Send a reminder to complete assigned content by clicking the `Assignments` tab. Then click the `Send Reminder` button next to the relevant assignment. Select which members you'd like to receive the custom reminder. Reminders can be customized for users who have `Not Started` and are `In Progress` on any given assignment
 
 #### Metrics overview
 
