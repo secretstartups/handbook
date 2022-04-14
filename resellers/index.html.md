@@ -11,6 +11,9 @@ title: "Channel Partner Handbook"
 
 GitLab Channel Partners are the primary audience for this Handbook page.
 
+**We invite organizations interested in becoming a GitLab Channel Partner to [APPLY NOW](https://partners.gitlab.com/English/register_email.aspx).**
+
+
 ### INTRODUCTION:  GitLab Partner Program Overview
 
 The GitLab Partner Program is a new kind of program.  It’s open to everyone and like our overall company culture, everyone can contribute.  Although we welcome all partners, our program is structured to provide additional rewards for partners that make a commitment and investments in a deeper GitLab relationship.
