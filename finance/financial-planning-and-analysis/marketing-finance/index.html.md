@@ -51,16 +51,10 @@ title: "Marketing Finance"
 The Marketing Variance Review meeting happens once a month to review the actual expenses for the previous month. For example, in the 3rd week of June we will review May's expenses.  
 
 ## Important Dates
-* 2022-02-23: February Forecast Due
-* 2022-02-25: February Invoices loaded into Allocadia (estimated)
-* 2022-03-01: Finalized February AvB file due from Marketing to Finance
-* 2022-03-24: March Forecast Due
-* 2022-03-29: March Invoices loaded into Allocadia (estimated)
-* 2022-04-01: Finalized March AvB file due from Marketing to Finance
 * 2022-04-22: April Forecast Due
+* 2022-04-22: April Invoices loaded into Allocadia - updated daily through 4/28
+* 2022-04-27: Finalized April AvB file due from Marketing to Finance
 * 2022-04-29: Q2 Plan Due
-* 2022-04-27: April Invoices loaded into Allocadia (estimated)
-* 2022-05-02: Finalized April AvB file due from Marketing to Finance
 * 2022-05-24: May Forecast Due
 * 2022-05-29: May Invoices loaded into Allocadia (estimated)
 * 2022-06-01: Finalized May AvB file due from Marketing to Finance
