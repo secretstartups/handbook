@@ -43,21 +43,9 @@ The Senior Professional Services Project Manager is a [grade 7](/handbook/total-
 
 ## Performance Indicators
 
-* [CSAT](/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10 and [Project Margin](/handbook/customer-success/professional-services-engineering/#long-term-profitability-targets ) > 20% for assigned projects
+* 100% focus on acheiveing the global PS revenue target
 
 ## Career Ladder
 
 The next steps for a Professional Services Project Manager would be to move to the [Professional Services Engagment Manager](/job-families/sales/source/job-professional-services-engagement-manager/) Job Family or the [Professional Services Practice Manager](/job-families/sales/professional-services-practice-manager/) Job Family.
 
-## Hiring Process
-
-Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
-
-- Qualified candidates for the Professional Services Project Manager will receive a short questionnaire.
-- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with a member of our Recruiting team.
-- Next, candidates will be invited to schedule a first interview with our Director of Customer Success.
-- For the Professional Services Project Manager role, candidates will be invited to schedule an interview with a Customer Success peer and may be asked to participate in a demo of a live install of GitLab.
-- For the Federal Professional Services Project Manager role, candidates will be invited to schedule interviews with members of the Customer Success team and our Federal Regional Sales Director.
-- Candidates may be invited to schedule an interview with our VP of customer success.
-
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
