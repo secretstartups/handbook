@@ -183,7 +183,8 @@ These include:
 1. [Content Discussion](/company/offsite/#content-choice){:data-ga-name="content discussion"}{:data-ga-location="body"} (30 minutes - 1 hour)
 1. Spend prioritization discussion (50 minutes)
 1. [2x per year] [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (1.5 hrs, ~10 mins per function). CEO Shadows and EBAs do not attend this session
-1. [Annual] Strategic planning discussions (~1 day) 
+1. [2x per year] [CEO Assessment from the Board](/handbook/ceo/chief-of-staff-team/#ceo-performance-evaluation) in Q1 and Q3 (25 minutes)
+1. [Annual] Strategic planning discussions (~1 day)
 
 ### Team norms
 
