@@ -38,9 +38,9 @@ To ensure all statutory annual leave is tracked appropriately, please enter all 
 
 Team members in Brazil, including contractors, are entitled to 120 days of statutory maternity leave.  This leave will run concurrently with GitLab's 16-week [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). Team members are eligible to receive up to 100% of their regular salary, paid by the employer who is later refunded by the government. This leave applies to adoption as well. 
 
-To apply for leave, please enter the dates into PTO by Roots and select the `Parental Leave` option.  The Absence Management team will reach out to you with more information.  
+To apply for leave, please enter the dates into PTO by Roots and select the `Parental Leave` option.  The Absence Management team will reach out to you with more information.
 
-### Statutory Partner/Paternity leave:  
+### Statutory Partner/Paternity leave:
 
 Team Members in Brazil are entitled to up to five days of paid statutory paternity leave.  Team members are also eligible for GitLab's 16-week paid [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave); which run concurrently. 
 
@@ -48,7 +48,7 @@ Team members will receive up to 100% of their regular salary during their statut
 
 Same-sex couples in Brazil may apply to receive full maternity leave benefits beginning on the day the caregiver takes leave from work.
 
-To apply for leave, please enter the dates into PTO by Roots and select the `Parental Leave` option.  The Absence Management team will reach out to you with more information.  
+To apply for leave, please enter the dates into PTO by Roots and select the `Parental Leave` option.  The Absence Management team will reach out to you with more information.
 
 ### Bereavement leave: 
 
@@ -160,7 +160,7 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 #### Other Leave Policies
 * **Adoption Leave:** Adoptive parents are entitled to 4 weeks of leave prior to receiving the child, if the adoptive parents have to reside outside of Denmark to adopt. If the child is adopted in Denmark, and it is necessary to reside where the place child is situation, parents are eligible for one week of leave before the adoption. **In all cases of adoption, one of the adoptive parents is entitled to adoption leave of 14 weeks and the other with to leave with statutory benefits for 2 weeks. The remaining 12 weeks can be split between the adoptive parents.**
 
-* **Care leave(omsorgsdage):** Intended to allow team members to care for a sick child. This is not a statutory requirement, but is common.  
+* **Care leave(omsorgsdage):** Intended to allow team members to care for a sick child. This is not a statutory requirement, but is common.
 
 ## South Africa
 
@@ -186,7 +186,7 @@ Under the Remote Technology scheme, the employer and member both pay **5% each t
     * Fund for the education costs of the surviving children
 * Upon the death of the member, spouse or child, a benefit payment equal to the amount of the Funeral Cover will be made. 
 * The sum assured for this benefit is up to R30,000
-* This benefit is 100% contributed and covered by Remote.    
+* This benefit is 100% contributed and covered by Remote.
 
 ### Disability - Income Continuation Benefit
 
@@ -366,7 +366,7 @@ Below is the information related to Italy's statutory leave policies.  Please no
 
 * **Adoption leave:** upon adoption of a child, employees are entitled to 3 months of maternity or paternity leave and employees are entitled to the same financial benefits of natural children. Parents can also take parental leave in the first three years the child is in the family for same periods and financial benefits. Applies to both parents
 
-* **Work-related Injust leave:**  collective bargaining agreements or individual contracts generally provide for a period paid time off in the caseof work injury. The period is generally between 6 and 12 months and applies for both a single period of sick leave and multiple periods. The employee is entitled to keep their job and receive their salary in proportion to the period set out in the collective bargaining agreement or individual employment contract.
+* **Work-related Injust leave:**  collective bargaining agreements or individual contracts generally provide for a period paid time off in the case of work injury. The period is generally between 6 and 12 months and applies for both a single period of sick leave and multiple periods. The employee is entitled to keep their job and receive their salary in proportion to the period set out in the collective bargaining agreement or individual employment contract.
 
 ## Switzerland
 
@@ -390,10 +390,10 @@ Below is the information related to Switzerland's statutory leave policies.  Ple
 Team members 20 years old and above receive at least four weeks of paid time off per year. Team Members younger than 20 years old are entitled to five weeks. Team members are also entitled to paid time off for public holidays in the canton in which they live.
 
 #### Pregnancy and maternity leave
-Birthing parents in Switzerland are eligible for 14 weeks (98 days) of maternity leave that begins when the child is born.  Team members are prohibited from working for the first 8 weeks after birth.  
+Birthing parents in Switzerland are eligible for 14 weeks (98 days) of maternity leave that begins when the child is born.  Team members are prohibited from working for the first 8 weeks after birth.
 
 #### Maternity Leave Pay
-Team members are eligible for up to 80% of their wages during leave; capped at CHF 196 per day.     
+Team members are eligible for up to 80% of their wages during leave; capped at CHF 196 per day.
     * Employees in the Geneva canton receive 16 weeks. 
 
 Employees must contribute to AHV (social security) for the nine months preceding childbirth and must be actively employed for five months preceding childbirth to be eligible. 
@@ -401,7 +401,8 @@ Employees must contribute to AHV (social security) for the nine months preceding
 If eligible, a team member's leave pay will be supplemented the remaining 20% per GitLab's [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). GitLab's Parental leave will run concurrently with any statutory leave and/or pay entitlements the team member is eligible for.
 
 #### Applying for Maternity Leave in Switzerland
-To initiate your maternity leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).  
+
+To initiate your maternity leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 #### Partner/Paternity leave
 Since 1 January 2021, new fathers can take two weeks of paid paternity leave (14 days’ daily allowance). 
@@ -447,7 +448,7 @@ Employees in Mexico are covered by the Social Security Law, under IMSS who is re
 
 * GitLab offers 30 working days pay (which includes total earnings + taxable allowances + commissions)
 * Paid by December 20th (so the employee can use it for the holiday)
-* Employees with less than one year of service will recieve a pro-rated christmas bonus. 
+* Employees with less than one year of service will receive a pro-rated Christmas bonus.
 
 ### Vacation Bonus (Prima)
 
@@ -485,8 +486,8 @@ Below is the information related to Mexico's statutory leave policies.  Please n
 #### Payroll Process
 ##### Maternity Leave Payment
 * 12 weeks of the team member's Maternity Leave will be paid by the Mexican Social Security Institute (MSSI). 
-* GitLab Parental Leave Pay Calulations: If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), pay will be supplemented up to 100% minus any MSSI payments received for up to 16 weeks of leave. 
-    - For example: if the team member receives  80% of their pay from MSSI payments, Remote will provide the reamining 20% of their pay following the normal payroll calendar.
+* GitLab Parental Leave Pay Calculations: If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), pay will be supplemented up to 100% minus any MSSI payments received for up to 16 weeks of leave.
+    - For example: if the team member receives  80% of their pay from MSSI payments, Remote will provide the remaining 20% of their pay following the normal payroll calendar.
 
 ##### Paternity Leave Payment
 * If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), the team member will receive 100% paid Parental Leave from Remote for up to 16 weeks.
@@ -495,7 +496,8 @@ Below is the information related to Mexico's statutory leave policies.  Please n
 To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 ### Mexico Sick Leave
-Team members unable to work because of a nonwork-related injury or illness and who have made payments into the social security system for the four weeks before the condition developed are eligible for paid sick leave through the Social Security Institute. The benefit, which is 60% of an employee’s regular wage, is paid from the fourth day of the illness for up to 52 weeks and maybe extended for another 52 weeks. 
+
+Team members unable to work because of a nonwork-related injury or illness and who have made payments into the social security system for the four weeks before the condition developed are eligible for paid sick leave through the Social Security Institute. The benefit, which is 60% of an employee’s regular wage, is paid from the fourth day of the illness for up to 52 weeks and maybe extended for another 52 weeks.
 
 ## Hungary
 
@@ -556,7 +558,7 @@ The Austrian Social Security Act General Social Insurance Act (Allgemeines Sozia
 
 ### Medical
 
-GitLab does not plan to offer Private Health Insurance at this time because team members in Austria can access the public Austrian health insurance system. This health insurance scheme covers all the team members and their family members.  
+GitLab does not plan to offer Private Health Insurance at this time because team members in Austria can access the public Austrian health insurance system. This health insurance scheme covers all the team members and their family members.
 
 ### Pension
 
@@ -568,7 +570,7 @@ GitLab does not plan to offer life insurance at this time as team members can ac
 
 ###  Bonus Payment
 
-The salary will be paid paid 14 times a year. This includes 12 months salary and two bonuses. 
+The salary will be paid 14 times a year. This includes 12 months salary and two bonuses.
 
 ### Remote Technology - Austria Leave Policy
 Below is the information related to Austria's statutory leave policies.  Please note that team members hired in Austria are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
@@ -587,7 +589,8 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 
 Mothers and fathers are entitled to parental leave until the child reaches the age of 24 months (maximum), provided the parent in parental leave lives in the same household as the child. The minimum period of the parental leave is two months. The dismissal and termination protection ends four weeks after the end of the parental leave.
 
-During the time of parental leave, and provided the conditions are satisfied, parents are entitled to childcare allowance(Kinderbetreuungsgeld) under the Child Care Payment Act from social security. 
+During the time of parental leave, and provided the conditions are satisfied, parents are entitled to childcare allowance(Kinderbetreuungsgeld) under the Child Care Payment Act from social security.
 
 #### Applying for Parental Leave in Austria
+
 To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. 
