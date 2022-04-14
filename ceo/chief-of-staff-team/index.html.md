@@ -213,7 +213,9 @@ The Staff EBA to the CEO assists the Chairperson to schedule the performance rev
 The results from the Board and E-Group team interviews are summarized (without attribution) by the Chairperson and shared for discussion at the March Board of Directors meeting.
 
 The CoS to the CEO is responsible for a mid-year and an end-of-year update to the Board on the progress made across focus areas. This will come in the form of a progress scorecard.
-For example, if one area of focus is "set 3-year strategy", the CoS to the CEO will evaluate whether the activity is on track or needs attention. The scorecard will be updated with a progress score (on track, needs attention, or at risk) and a high-level summary of relevant key activities.
+For example, if one area of focus is "set 3-year strategy", the CoS to the CEO will evaluate whether the activity is on track or needs attention. The scorecard will be updated with a progress score (on track, needs attention, or at risk) and a high-level summary of relevant key activities. 
+
+Feedback from the Board will be shared and discussed in the Q1 E-Group Offsite. Progress will be discussed in the Q3 E-Group Offsite.
 
 The CoS to the CEO will also assist the CEO in prepping for the CEO's end of year review and areas for focus in the coming year.
 
