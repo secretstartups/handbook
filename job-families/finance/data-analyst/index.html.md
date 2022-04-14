@@ -128,7 +128,7 @@ The requirements of the Senior Data Analyst extend the Data Analyst (Intermediat
 
 * 6+ years experience in an analytics role or equivalent experience/training
 * Fluent in all Data Analysis technologies defined in in the [Data Team Platform](/handbook/business-technology/data-team/platform/)
-* Recognized expert in SQL and Data Visualization
+* Recognized expert in SQL, Data Visualization and Business Intelligence
 * Own and maintain one or more sections of the [Data Catalog](/handbook/business-technology/data-team/data-catalog/)
 * Own and maintain one or more sections of the [Trusted Data Framework](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework)  for a specified Trusted Model
 
@@ -159,7 +159,7 @@ The responsibilities of the Staff Data Analyst extend the Senior Data Analyst ro
 The requirements of the Staff Data Analyst extend the Senior Data Analyst role and include:
 
 * 8+ years experience in an analytics role or equivalent experience/training
-* Fluent in all major technologies in the [Data Team Platform](/handbook/business-technology/data-team/platform/), with a particular emphasis on Data Visualization and modeling
+* Fluent in all major technologies in the [Data Team Platform](/handbook/business-technology/data-team/platform/), with a particular emphasis on Data Visualization, Business Intelligence and Data Modeling
 * Recognized expert in SQL, Sisense, and dbt
 * Influence the Analytics Roadmap for one of the [Data Flywheels](/handbook/business-technology/data-team/direction/#data-flywheels)
 * Own and maintain one or more sections of the [Enterprise Data Platform](/handbook/business-technology/data-team/direction/#a-complete-enterprise-data-platform)
