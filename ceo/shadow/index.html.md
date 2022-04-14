@@ -180,9 +180,9 @@ Exceptional community members may be able to participate, as well.
 | 2022-06-06 | 2022-06-10 | [Alexander Turinske](https://gitlab.com/aturinske) - Sr. Frontend Engineer | [Victor Brew](https://gitlab.com/Vbrew) - Pub Sec ISR  |
 | 2022-06-13 | 2022-06-17 | NO SHADOWS| NO SHADOWS |
 | 2022-06-20 | 2022-06-24 | NO SHADOWS| NO SHADOWS|
-| 2022-06-27 | 2022-07-01 | AVAILABLE - REMOTE | [Alexander Turinske](https://gitlab.com/aturinske) - Sr. Frontend Engineer |
+| 2022-06-27 | 2022-07-01 | [Tiffany Rea](https://gitlab.com/treagitlab) - SET Verify:Pipeline Authoring | [Alexander Turinske](https://gitlab.com/aturinske) - Sr. Frontend Engineer |
 | 2022-07-04 | 2022-07-08 | NO SHADOWS | NO SHADOWS|
-| 2022-07-11 | 2022-07-15 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-07-11 | 2022-07-15 | AVAILABLE - REMOTE | [Tiffany Rea](https://gitlab.com/treagitlab) - SET Verify:Pipeline Authoring |
 | 2022-07-18 | 2022-07-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-07-25 | 2022-07-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-08-01 | 2022-08-05 | NO SHADOWS | NO SHADOWS |
