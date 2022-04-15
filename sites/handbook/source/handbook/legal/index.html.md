@@ -10,78 +10,91 @@ description: "Information regarding the Legal & Corporate Affairs Team"
 - TOC
 {:toc .hidden-md .hidden-lg}
  
-# Welcome to the Legal & Corporate Affairs Handbook
-
-- This handbook focuses on information related to how to engage the team, as well as information regarding GitLab policies and compliance. 
-- We are led by Chief Legal Officer and Corporate Secretary [Robin Schulman](https://ir.gitlab.com/management/robin-schulman)
-
-# Trading Window Status
-GitLab Team Members can view the current trading window status via the [Trading Window Status Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12780) 
-
-## How to Reach Us
-
-#### Anonymous Internal Ethics and Compliance Reporting
-We take employee concerns very seriously and encourage all GitLab Team Members to report any ethics and/or compliance violations by using EthicsPoint. Further details are found on the [People Ops Handbook page](https://about.gitlab.com/handbook/people-group/#how-to-report-violations) and in our [Code of Business Conduct and Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
-
-#### Quick Questions
-For quick questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal & Corporate Affairs Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*. We find this channel best for questions regarding process, who handles what or how to find certain things if the Handbook has not yielded the right result for you after searching. *[`#legal`](https://gitlab.slack.com/archives/legal)* is not a private channel, so your inquiry will be visible to the entire company. One of our Team Members will do their best to answer your question in a timely fashion. **If your request is sales or procurement related, involves legal advice, deliverables, or any discussion of confidential information, please follow the process set forth in the table below.** 
+## Legal and Corporate Affairs Handbook
 
 
-| Type of Request | Process / Information |
-| ------ | ------ |
-| Sales / Customer Related matters (which includes any matter that is, or could potentially be, revenue generating) | [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)|
-| Procurement / Vendor (which includes any matters related to a potential purchase by GitLab) | [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) Procurement will engage legal as necessary <br /><br />Visit the [Procurement Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/) for additional information |
-| Marketing | Visit the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/), which covers amongst other things [Promotional Games](https://about.gitlab.com/handbook/legal/marketing-collaboration/#promotional-games) and [Media Consent and Model Release Requests](https://about.gitlab.com/handbook/legal/marketing-collaboration/#media-consent-and-model-release)<br /><br />If the request is not addressed in the Marketing Guide, open a new [General Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template)|
-| Engineering requests related to use of third-party software; Questions related to acceptable use of open source licenses | Open a [Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues) and include applicable information related to the request<br /><br />Visit [Open Source at GitLab](https://about.gitlab.com/handbook/engineering/open-source/#using-open-source-libraries) for helpful information including [Acceptable Licenses](https://about.gitlab.com/handbook/engineering/open-source/#acceptable-licenses)|
-| *Any Non Engineering, Marketing, Sales or Procurement Request (Corporate, Marketing, Employment or Product & Privacy Questions) | Email: [Legal_Internal@gitlab.com](mailto:legal_internal@gitlab.com) |
-| NDA Request | Follow the [Non-Disclosure Agreement Process](https://about.gitlab.com/handbook/legal/NDA/) |
+## Overview
 
-*To ensure the protection of confidential and privileged information, GitLab Legal is proud to use [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html) for all general requests.
-For more information on Attorney-Client Privilege, see the [General Legal FAQs](https://about.gitlab.com/handbook/legal/#general-legal-faqs) below.  
+Welcome to the Legal and Corporate Affairs Handbook! Use this page to learn more about our team, GitLab policies, and shared processes. Visit the sub-team pages linked below for more detailed information and procedures.
 
-## Policies and Guidelines
-* [Anti-Corruption Policy](https://about.gitlab.com/handbook/legal/anti-corruption-policy/) - this policy provides guidance regarding ethical business conduct, applicable laws, rules, and regulations.
-* [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
-* [Compliance](https://about.gitlab.com/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
-* [Corporate Communications Policy](https://about.gitlab.com/handbook/legal/corporate-communications/) - GitLab's policy for how to handle Company communications. 
-* [Corporate Governance Guidlines](https://ir.gitlab.com/static-files/f108c2c0-2426-4bf5-b1db-054498136c0b) - guidlines to assist the Board of Directors in the exercise of its governance reponsibilities and serve as framework within which the Board of Directors may conduct its business.  
-* [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
-* [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
-* [GitLab Modern Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
-* [Insider Trading Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) - this policy is to promote compliance with insider trading laws.
-* [Guidelines for Use of Third-party IP in External Materials](https://about.gitlab.com/handbook/legal/ip-public-materials-guidelines) - Guidelines relating to the use of third-party intellectual property in external materials.
-* [Merger and Acquisitions Committee Charter](https://drive.google.com/file/d/1_GG0JJ2NUq50djVx-yxwnrRJUhIYhs3D/view?usp=sharing) - Gitlab's Mergers and Acquisitions Committee Charter.
-* [Patent Program](https://about.gitlab.com/handbook/legal/patent-program/)
-* [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
-* [Public Discussion of Competitor Products Guidelines](handbook/legal/competitor-discussion-guidelines)
-* [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
-* [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/) - this Policy formalizes GitLab's procedures for the identification, review, and consideration and approval of any transactions involving the Company and a Related Party. 
-* [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) - information regarding the usage of GitLab's trademark
-* [Use of Third-party Trademarks in GitLab](https://about.gitlab.com/handbook/legal/policies/product-third-party-trademarks-guidelines/) - guidelines concerning the use of third-party trademarks in the GitLab product
-* [Whistleblower Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) - this policy is provided to enable Team Members with guidelines on on how to report any improper activites, or suspected improper activities. 
+**How to Reach Us**
+
+For quick questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal and Corporate Affairs Team in Slack at [#legal](https://gitlab.slack.com/archives/legal). We find this channel best for questions regarding process, who handles what, or how to find certain things if the handbook has not yielded the right result for you after searching. #legal is not a private channel, so your inquiry will be visible to the entire company. One of our Team Members will do their best to answer your question in a timely fashion.
+
+To open a general Legal Issue for questions related to deliverables and non-sensitive information, use [this template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template). See the [Legal Issue Tracker Workflow](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/) for more information.
+
+For sensitive, private, or confidential requests, email [legal@gitlab.com](mailto:legal@gitlab.com).
+
+**Anonymous Internal Ethics and Compliance Reporting**
+
+We take employee concerns very seriously and encourage all GitLab Team Members to report any ethics and/or compliance violations by using [EthicsPoint](https://secure.ethicspoint.com/domain/media/en/gui/74686/index.html). Further details can be found in the [People Group Handbook](https://about.gitlab.com/handbook/people-group/) under [How to Report Violations](https://about.gitlab.com/handbook/people-group/#how-to-report-violations) and in our [Code of Business Conduct and Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
 
 
-_NOTE: The Insider Trading Policy, Mergers and Acquisitions Committee Charter and Whistleblower Policy are only accessible to GitLab Team Members signed into their GitLab Account_
+### Legal and Corporate Affairs Team Functional Groups
 
 
-## Helpful Resources 
+#### [Commercial](https://about.gitlab.com/handbook/legal/customer-negotiations/)
 
-* For information related to compliance, including the Insider Trading Policy & Insider Trading Policy FAQ, and various Designated Insider information please visit the [Compliance Information Handbook Page](https://about.gitlab.com/handbook/legal/publiccompanyresources/) 
-* Compliance trainings for team members are provided by GitLab Legal via [GitLab Learn](https://gitlab.edcast.com/) and [Navex](https://lms.navexglobal.com/topclass5/).
-* [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
-* [Requirements for Closing Deals](https://about.gitlab.com/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
-* [Terms](https://about.gitlab.com/terms/) - legal terms governing the use of GitLab's website, products, and services
-* [Acceptable Licenses](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) - list of acceptable licenses covering third party components used in development
-* [Trademarks training materials](https://about.gitlab.com/handbook/legal/trademarks-training-materials), covering _An Introduction to Trademarks_, _Using Third-party Trademarks_, and _Using the GitLab Trademark_.
-* [Legal Tech Stack](https://docs.google.com/spreadsheets/d/1nLtWVx6mebR7_y2Qv_CcScbVW-ryLVzvcFVgGk2yeRs/edit#gid=686289913)- overview of tools used throughout the GitLab Legal Team. _NOTE: This document is only available to GitLab Legal Team Members_
+The Commercial Legal Team works with our Sales and Partnership Team Members to deliver GitLab software and services. Resources include how to best engage the Commercial Team, as well as assist in efficiently reaching terms with our customers and partners, including negotiating terms and providing business and legal recommendations.
 
-## Processes
-* [Uploading Third Party Contracts to ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
-* [Issue Tracker Workflows](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/)
-* [Privacy Review Process](https://about.gitlab.com/handbook/legal/privacy/#privacy-review-process)
 
-# Code of Business Conduct and Ethics 
-GitLab's Code of Business Conduct and Ethics summarizes the ethical standards for all directors, officers, team members and contractors of GitLab and of its direct and indirect subsidiaries and is a reminder of the seriousness of our commitment to our values. [Please click here to read GitLab's Code of Business Conduct and Ethics in its entirety.](https://drive.google.com/file/d/1lCy0DgMoiRnqX1V_jHpaKFI0kqUzjemI/view?usp=sharing) 
+#### [Corporate](https://about.gitlab.com/handbook/legal/publiccompanyresources/)
+
+The Corporate Team supports the compliance and corporate functions of GitLab, which includes regulatory filings with the U.S. Securities and Exchange Commission, review of internal and external communications with respect to GitLab’s SAFE Framework, review and preparation of board and committee materials, general corporate and governance matters, as well as compliance and corporate governance matters for GitLab’s direct and indirect wholly owned international and domestic subsidiaries. 
+
+
+#### [Corporate Development](https://about.gitlab.com/handbook/acquisitions/)
+
+The Corporate Development team prospects, pursues and integrates acquisitions to accelerate GitLab’s roadmap and offer better tools to customers more quickly. For information about GitLab’s acquisition strategy and approach, visit the Acquisitions Handbook linked above.
+
+
+#### [Employment](https://about.gitlab.com/handbook/legal/employment-law/)
+
+The Employment Legal Team collaborates with GitLab People Group on a broad range of matters across the entire arc of the employment relationship, from recruiting to onboarding, compensation, performance management, leave management, separation, and where necessary, litigation. 
+
+
+#### [Operations](https://about.gitlab.com/handbook/legal/legalops/)
+
+Legal Operations supports Legal & Corporate Affairs processes with a focus on defining and driving initiatives that improve the team’s efficiency and effectiveness. Operations also includes Legal’s [Procurement](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/) function, which reviews purchases made to ensure adequate terms are present for GitLab.
+
+
+#### [Privacy](https://about.gitlab.com/handbook/legal/privacy/), [Product](https://about.gitlab.com/handbook/legal/product/), and Trade Compliance
+
+The Privacy, Product and Trade Compliance team collaborates with all GitLab teams including engineering, security, product, and marketing to provide guidance and direction in a broad range of matters relating to data privacy, open source licensing, intellectual property protection and export compliance. 
+
+
+## GitLab Policies
+
+
+
+* [Anti-Corruption Policy](https://about.gitlab.com/handbook/legal/anti-corruption-policy/)
+* [Anti-Harassment Policy](https://about.gitlab.com/handbook/anti-harassment/)
+* [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d)
+* [Corporate Communication Policy](https://about.gitlab.com/handbook/legal/corporate-communications/)
+* [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/)
+* [GitLab Terms of Service](https://about.gitlab.com/terms/)
+* [Insider Trading Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk)*
+* [Internal Acceptable Use Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/)
+* [Modern Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
+* [Privacy Policy](https://about.gitlab.com/privacy/)
+* [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/)
+* [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
+* [Social Media Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/)
+* [Whistleblower Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk)*
+
+*Only available to GitLab Team Members.
+
+
+## Authorization Matrix
+
+The [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) designates who is authorized to sign legal documents. Only GitLab Team Members with signature authority can execute agreements on behalf of GitLab.
+
+
+## Non-Disclosure Agreements
+
+Follow the [Non-Disclosure Agreement Process](https://about.gitlab.com/handbook/legal/NDA/) to learn how to send an NDA in DocuSign or request an NDA if you do not have DocuSign access.
+
+Note that this process is only for standard GitLab NDAs. In the event a non-standard NDA is needed, follow the steps [here](https://about.gitlab.com/handbook/legal/NDA/#non-standard-nda-requests).
 
 # General Legal FAQs
 
@@ -105,11 +118,7 @@ Attorney-Client and Work Product privileges allow clients to speak freely with t
 
 <details>
  <summary markdown="span">Who do these Privileges apply to at GitLab?</summary>
-There is not one uniform answer that covers all jurisdictions in the U.S. However, most jurisdictions will use at least one of the following tests to see if the individuals involved have privileged communication.
-<br>- The Control Group Test is quite restrictive and only allows for the protection of corporate communications to the corporation's controlling executives and managers. This test cannot be used in federal courts, but is still used in some states.</br>
-<br>- Instead of looking solely at the roles of the employees involved, the Subject Matter Test looks at the subject matter of the employees’ communications. If an employee has been directed by a supervisor to discuss a subject matter that relates to the employees job with an attorney, this may be covered by subject matter privilege.</br>
-<br>- The Upjohn Test is a modified version of the Subject Matter Test requires additional criteria to be met. In addition to the subject matter being relevant to the employee’s duties, the employee must also have awareness and intent concerning the legal advice being sought and/or given.</br>
-<br>- A company’s attorney does not represent an employee individually, but instead represents the interests of the company. A company can waive its privilege at any time, meaning the company could choose to disclose information the attorney received from a covered employee in confidence for use as evidence in a legal proceeding in order to protect the company from liability.</br>
+There is not one uniform answer that covers all jurisdictions in the U.S. However, most jurisdictions will use at least one of the following tests to see if the individuals involved have privileged communication. The Control Group Test is quite restrictive and only allows for the protection of corporate communications to the corporation's controlling executives and managers. This test cannot be used in federal courts, but is still used in some states. Instead of looking solely at the roles of the employees involved, the Subject Matter Test looks at the subject matter of the employees’ communications. If an employee has been directed by a supervisor to discuss a subject matter that relates to the employees job with an attorney, this may be covered by subject matter privilege. The Upjohn Test is a modified version of the Subject Matter Test requires additional criteria to be met. In addition to the subject matter being relevant to the employee’s duties, the employee must also have awareness and intent concerning the legal advice being sought and/or given. A company’s attorney does not represent an employee individually, but instead represents the interests of the company. A company can waive its privilege at any time, meaning the company could choose to disclose information the attorney received from a covered employee in confidence for use as evidence in a legal proceeding in order to protect the company from liability.
 </details>
 
 <details>
