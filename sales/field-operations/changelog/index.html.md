@@ -16,6 +16,14 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q1-FY23
 
+### 2022-04-18 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/109))
+
+**CS Ops: [SaaS Free/Trial Account Data in Salesforce](https://about.gitlab.com/handbook/customer-success/product-usage-data/freemium-saas-usage-data)**
+
+**Sales Ops: [Chorus Support Slack Channel](https://join.slack.com/share/enQtMzM2MTk5MDAyODY3Ni0xNTZkMDE3ZTc5MDkwOWJmZjQ2YjEyNDUzODQxNzJkMmUyMjA1NDNhMWVkNjU4M2IyM2NjNjgwNTAyNTVlZDM3)**
+
+**Sales Ops: [Chorus New UI](https://drive.google.com/file/d/1yjMFfyrTFp3uuTiIsYGmXpbgs2vsdg6c/view?usp=sharing)**
+
 ### 2022-04-04 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/107))
 
 **Sales Ops: [Chorus Scheduler](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2683#proposed-controls)**
