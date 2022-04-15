@@ -210,6 +210,12 @@ To learn more on when to use asynchronous and synchronous communication, example
 ### Ask Me Anything meetings
 
 [Ask Me Anything meetings](/handbook/communication/ask-me-anything/) can be a useful opportunity for team members to meet a new leader, learn more about an existing team member, or gain clarity on a recent change.
+1. Format: AMAs use the whole meeting time for questions from attendees, answered by the host. 
+
+### Fireside Chats
+Fireside chats are informal conversations between a host and a guest. The guest is typically a new leader, board member, or guest speaker. They are a useful opportunity to learn specific information about these individuals and their professional careers and personal interests. Fireside chats allow the audience to learn more about the guests in a casual and approachable setting.
+
+Format: In advance of the call, the host will prepare questions and share them with the guest. During the call, the host will moderate the conversation with the guest, by verbalizing the prepared questions. There is specific amount of time reserved at the end of the agenda for questions from attendees.
 
 ### Smart note-taking in meetings
 
