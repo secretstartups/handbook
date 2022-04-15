@@ -71,22 +71,44 @@ Results are documented in the retrospective issue.
 
 On top of our development roadmap, engineering teams need to respond to additional requests (support, community contributions, security vulnerabilities).
 This increases context switching and depending on the load this can drastically impact our ability to achieve our plan.
-As a result, the Composition Analysis Backend team is actively reserving capacity each iteration to triage and address these requests.
-Each month, an engineer is designated to handle these responsibilities.
+As a result, the Composition Analysis development team is actively reserving capacity each iteration to triage and address these requests.
+Each milestone, an engineer is designated to handle each one of these responsibilities.
 There is no formal designation process yet, volunteers are welcome and rotation is expected.
+Each person is expected to spend 20-30% of their time on their responsibility.
 
-#### Responsibilities
+#### Responsibilities - Security
+
+1. Triage vulnerabilities reported on the projects we maintain and help resolving them depending on their priority. (See [Security vulnerabilities triaging process](#security-vulnerabilities-triaging-process))
+1. Check for new security releases of our dependencies and ensure we use them:
+   1. Upstream scanners (see [Updating an upstream scanner](#updating-an-upstream-scanner))
+   1. Container base images
+   1. Application dependencies
+   1. Programming language
+1. Consider creating or updating any automation or tooling (related to security, maintainership or support!)
+
+#### Responsibilities - Maintainership
+
+1. Triage and work with community contributors to help drive their MRs to completion. (See [Community contributions triaging process](#community-contributions-triaging-process))
+1. Check for new versions of languages or package managers that we support, or deprecation / removal of support for the same and notify Engineering Manager and Product Manager via issue
+1. Check for new versions of our dependencies (not related to security):
+   1. Upstream scanners (see [Updating an upstream scanner](#updating-an-upstream-scanner))
+   1. Container base images
+   1. Application dependencies
+   1. Programming language
+1. Check in on test failures
+1. Consider creating or updating any automation or tooling (related to security, maintainership or support!)
+
+#### Responsibilities - Support
 
 1. Monitor slack channels for questions, support requests, and alerts. While other team members may respond to these requests, the engineer assigned to the reaction rotation is expected to handle them primarily.
     - [#g_secure-composition-analysis](https://gitlab.slack.com/archives/CKWHYU7U2)
     - [#s_secure](https://gitlab.slack.com/archives/C8S0HHM44)
+    - [#sec-section](https://gitlab.slack.com/archives/C02087FTL5V)
     - [#s_secure-alerts](https://gitlab.slack.com/archives/CAU9SFKNU)
-1. Triage vulnerabilities reported on the projects we maintain and help resolving them depending on their priority. (See [Security vulnerabilities triaging process](#security-vulnerabilities-triaging-process))
-1. Triage and work with community contributors to help drive their MRs to completion. (See [Community contributions triaging process](#community-contributions-triaging-process))
 1. Triage bugs and resolve them when given `~priority::1`. (See [Bugs triaging process](#bugs-triaging-process))
 1. Triage infradev issues and resolve them when given `~priority::1`. (See [Infradev triaging process](#infradev-triaging-process))
 
-These items must be triaged continuously throughout the month which means they must be checked multiple times a week.
+These items must be triaged continuously throughout the milestone which means they must be checked multiple times a week.
 
 ### Security vulnerabilities triaging process
 
