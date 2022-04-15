@@ -4,7 +4,7 @@ title: "GitLab API Terms of Use"
 description: "Understand your rights and obligations when using GitLab’s publicly-available APIs"
 ---
 
-# **GitLab API Terms of Use**
+# GitLab API Terms of Use
 
 A. These API Terms of Use (“**API Terms**”) form a binding contract between you and GitLab and explain your rights and obligations when using GitLab’s publicly-available application programming interfaces (the “**GitLab APIs**”).
 
@@ -18,7 +18,7 @@ E. We may revise these API Terms from time to time at our sole discretion. All c
 
 F. In the event of an inconsistency between these API Terms and those of an agreement governing (i) your use of the GitLab Software; or (ii) your partnership with GitLab, the provisions of such other agreement(s) will prevail to the extent of such inconsistency.
 
-## **1. License and Use**
+## 1. License and Use
 
 1.1. Provided that you comply with these API Terms, all documentation relating to the GitLab APIs at [docs.gitlab.com](https://docs.gitlab.com/) and [developer.gitlab.com](http://developer.gitlab.com), and all applicable laws, we grant you a non-exclusive, non-transferable, non-sublicensable, revocable, limited right to access and use the GitLab APIs to: 
         
@@ -56,7 +56,7 @@ F. In the event of an inconsistency between these API Terms and those of an agre
     
 1.4. We reserve the right to terminate your access to the GitLab APIs at any time and at our discretion, if you are, or are suspected of being, in violation of these API Terms.
 
-## **2. Intellectual Property**
+## 2. Intellectual Property
 
 2.1. We own all rights, title, and interest in the GitLab APIs and the GitLab Software. By using the GitLab APIs, you do not acquire ownership of any rights in them, or the content that is accessed through them.
     
@@ -66,21 +66,21 @@ F. In the event of an inconsistency between these API Terms and those of an agre
     
 2.4. Your use of any registered or unregistered GitLab trademarks is subject to the GitLab [Trademark Guidelines](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/trademark-guidelines) and [Branding Standards](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/), as updated from time to time.
 
-## **3. Processing of Personal Data** 
+## 3. Processing of Personal Data
 
 Any personal data processed related to your use of the GitLab APIs will be processed in accordance with GitLab’s [Privacy Policy](https://about.gitlab.com/privacy/). 
 
-## **4. Export**
+## 4. Export
 
 The GitLab APIs are subject to US global trade control laws and regulations, including the U.S. Export Administration Regulations and various sanctions programs administered by the U.S. Office of Foreign Assets Control. You will not, directly or indirectly, export, re-export, release, or make the APIs available for use, in contravention with these laws and regulations.
 
-## **5. Warranty and Indemnification**
+## 5. Warranty and Indemnification
 
 5.1. EXCEPT AS EXPRESSLY STATED HEREIN, ANYTHING PROVIDED IN CONNECTION WITH THESE API TERMS, INCLUDING, WITHOUT LIMITATION, THE GITLAB APIS, IS PROVIDED “AS-IS”, WITHOUT ANY WARRANTIES OF ANY KIND. EACH PARTY DISCLAIMS ANY IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 
 5.2. You will indemnify, defend (at GitLab’s request) and hold harmless GitLab and its affiliates and their respective directors, officers, employees, agents, contractors, end users, and licensees from and against any claims, losses, costs, expenses (including reasonable attorneys' fees), damages or liabilities based on or arising from (a) your Integration and any derivatives / combination of your Integration with the GitLab APIs (b) your relationships or  interactions with any end users, or third-party distributors, of your Integration, or (c) your infringement of GitLab’s or any third party’s intellectual property rights. GitLab may at its own expense participate in the defense and settlement of any claim with its own counsel, and you may not settle a claim without GitLab's prior written consent (not to be unreasonably withheld).
 
-## **6. Limitation of Liability**
+## 6. Limitation of Liability
 
 6.1. WITH THE EXCEPTION OF YOUR (A) INDEMNIFICATION OBLIGATIONS UNDER SECTION 5.2; AND (B) OBLIGATIONS UNDER SECTION 4 (EXPORT), TO THE MAXIMUM EXTENT PERMITTED BY LAW:
     
@@ -88,7 +88,7 @@ The GitLab APIs are subject to US global trade control laws and regulations, inc
         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.1.2. THE TOTAL, CUMULATIVE LIABILITY OF EACH PARTY ARISING OUT OF OR RELATED TO THESE API TERMS OR THE RIGHTS, LICENSES, PRODUCTS OR SERVICES PROVIDED UNDER THESE API TERMS, WHETHER BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, SHALL BE LIMITED TO FIVE HUNDRED U.S. DOLLARS ($500.00).
 
-## **7. Term and Termination**
+## 7. Term and Termination
 
 7.1. These API Terms shall remain in effect until terminated.
     
@@ -103,6 +103,6 @@ The GitLab APIs are subject to US global trade control laws and regulations, inc
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.4.2. The terms of these API Terms that by their nature are intended to continue indefinitely will continue to apply.
 
 
-## **8. Governing Law**
+## 8. Governing Law
 
 These API Terms shall be construed and enforced in accordance with the laws of California, U.S.A., and you and GitLab submit to the jurisdiction of the State and Federal courts in San Francisco, California, without giving effect to any conflicts of laws principles.
