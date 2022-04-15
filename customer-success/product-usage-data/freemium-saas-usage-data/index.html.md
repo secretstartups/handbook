@@ -58,11 +58,18 @@ Below are the fields, descriptions, and best practices for each field. These can
 
 You can view this on the Salesforce Account page, or create a Salesforce report using "Account" as the type.
 
+### About the Data
+
+1. **SaaS only**. This does not include self-managed
+1. **Updated weekly**. The data sync to Salesforce will happen once per week
+1. [**Accuracy of Namespaces deck**](https://docs.google.com/presentation/d/1CctNjyyoiKTY9Ag0nBWqZGpetQ76VRhRjQrsm4DWWTw/edit#slide=id.gcf1e8c1d1f_7_180)
+
 ### Additional Resources
 
 1. [List of all Free/Trial Accounts in SFDC](https://gitlab.my.salesforce.com/00O8X000008QZom)
 1. [SaaS Free/Trial Usage Data Dashboard](https://gitlab.my.salesforce.com/01Z8X000001DgIu)
 1. [Personalized Report for Account Owners](https://gitlab.my.salesforce.com/00O8X000008Qa7o) - This report will allow you to see a complete list of your assigned accounts which have Freemium SaaS usage. Insert your name into the `Account Owner` filter to populate this report. 
+
 
 ### Providing feedback
 
