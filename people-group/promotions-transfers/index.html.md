@@ -80,8 +80,8 @@ Below is the timeline for FY23:
      - Communication: After fully approved in either Greenhouse or HRIS
 - FY23-Q3: 
   - Planning: June 15 to July 1 
-  - Calibrations: July 1 to July 8
-  - Processing: July 11 to August 1
+  - Calibrations: July 1 to July 15
+  - Processing: July 18 to August 1
      - Promotions must be added to HRIS by July 20. 
      - Effective date for promotions: 2022-08-01. 
      - Communication: After fully approved in either Greenhouse or HRIS
