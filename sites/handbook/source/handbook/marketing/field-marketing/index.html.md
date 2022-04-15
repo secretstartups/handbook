@@ -435,10 +435,23 @@ Thank you for your interest in this [insert event type]. This event has conclude
 Thank you for your interest in this [insert event type]. The event has reached capacity and registration is now closed, but GitLab has a number of hands-on events and educational programs scheduled at any given time. Please visit our [events page](https://about.gitlab.com/events/) for more information on upcoming events and dates.
 
 ## Adding a Registrant after Marketo LP is Closed
-If you have closed a Marketo LP because your event has reached capacity but need to add in an important registrant after the fact, please follow the below instructions.
-- FMC to request Verticurl re-open the LP in the LP issue
-- Once the page is open, registrant's info will be added into the form (by FMC or FMM)
-- FMC will request Vertcurl re-close the LP
+If you have closed a Marketo LP because your event has reached capacity but need to add in an important registrant after the fact, please follow the below instructions. 
+
+** Important context: The landing page and form themselves have no bearing on whether or not someone is synced. The sync relies solely on `Program Members` and their statuses. Thus, a person can fill out a form, but if their program member status is never updated to `Registered`, they will never sync over into the webcast in Zoom. Likewise, we can update someone's status to `Registered` without any form every being filled out, and they will still sucessfully sync to Zoom.
+
+1. Navigate to the `Database` tab in Marketo
+1. In the quick find box, type in the person's email and click the magnifying glass to search (If they do not exist, click `NEW` in the upper ribbon and add a `new person`. It will take up to 10 minutes for them to then show in the lead database)
+1. It will take you to a screen with everyone matching your query. Once you find the correct person, click them to highlight.
+1. Once highlighted, you can right click or select `Person Actions` from the upper ribbon
+1. Hover over `Programs` and click on `Change Program Status...`
+1. Search for the program you want to add them to (it should be the main program, not an invite send, etc) and select the status of `Registered`
+     - Check how many people this will affect. It should just be 1 (or the number you highlighted)
+1. Click `RUN NOW` to execute the action
+1. A status box will appear on the top right and tell you when the action finishes processing
+     - Once added as `Registered` scoring will trigger for the registrant
+     - Once the registrant is synced to zoom (within 30 min or so), the registrant will receive a confirmation email automatically from Zoom.
+
+You can use these steps to add anyone to a marketo program.
 
 ## Closing a Marketo LP 
 *These instructions are standard across all campaign types and will close down the entire LP and re-routes visitors to our about.gitlab.com page.*
@@ -451,6 +464,7 @@ If you have closed a Marketo LP because your event has reached capacity but need
 - In the drop down list click `Unapprove` 
 - Click the orange `Unapprove` button in the pop up box
 - Go to your landing page URL and make sure the landing page is no longer active (the site that should pop up is `about.gitlab.com`)
+- Go to the `01a or 01b Registration Flow and deactivate the smart campaign
 
 ## Closing a Marketo LP Form
 These instructions explain how to close a Marketo LP form and how to update the LPs verbiage at the top of the page. The page and the information on it will still be visible to visitors, but there will no longer be a form to fill out for registration.
