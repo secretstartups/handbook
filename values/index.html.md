@@ -66,7 +66,7 @@ _Values are not just things we do but things that actively drive good behaviour.
 #### Mention the specific value
 {:.no_toc}
 
-Most companies have a list of values. In companies without strong values, folks often use generalizations when they refer to values. For example, "not a value add" or "scored well on values during our interview." In companies with strong values, folks name the specific, relevant value as it applies to a given topic or situation. Values are not powerful when they are not individually understood and applied by team members. 
+Most companies have a list of values. In companies without strong values, folks often use generalizations when they refer to values. For example, "not a value add" or "scored well on values during our interview." In companies with strong values, folks name the specific, relevant value as it applies to a given topic or situation. Values are only powerful when they are individually understood and applied by team members. 
 
 ## 🤝 Collaboration
 {:#collaboration .gitlab-purple}
