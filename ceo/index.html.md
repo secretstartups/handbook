@@ -193,6 +193,9 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. Fiscal Year Kickoff. 50 minutes.
 1. Industry Conferences such as: DevOps Enterprise Summit, AWS re:Invent, KubeCon, Linux Summit
 
+## Interviews
+1. Interviews - 50 minutes
+
 ## Pick Your Brain interviews
 
 To schedule a Pick Your Brain interview with me, please see the [EBA handbook page](/handbook/eba/ceo-scheduling/#pick-your-brain-meetings). To watch and read prior Pick Your Brain interviews about all-remote, please see the [Interviews page](/company/culture/all-remote/interviews/).
