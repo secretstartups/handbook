@@ -22,6 +22,20 @@ We are responsible for developing solutions to give customers insights into thre
 
 ## How we work
 
+### Prioritization
+
+We use our [Threat Insights Priorities](https://gitlab.com/gitlab-org/gitlab/-/issues/299275) issue to track what we are doing, and what order to do it in.  Each initiative includes these fields:
+
+1. Name - Description and link to the epic
+1. BE DRI / FE DRI - indicates the backend and frontend [DRIs](/handbook/engineering/development/sec/protect/planning/#epic-engineering-dri) who will be actively involved. 
+1. Status
+   - Not started: No implementation issues should be scheduled. There is likely a Design issue in progress, and there may be issues in planning breakdown. We may have implementation issues if we're planning to start it soon.
+   - Started: The scope of the epic should be locked-down, and we have implementation issues scheduled.
+   - Complete: Epic is code complete and is in production but may be behind a feature flag. The epic may contain open issues; in this case the issues may be moved to a new epic.
+1. Comment - Additional details or capacity needs
+
+Complete items are removed from the table once the code is in production without a feature flag, and a release post, if applicable, has been merged. The epic is closed at this point.
+
 ### Workflow
 
 The Threat Insights group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/).
