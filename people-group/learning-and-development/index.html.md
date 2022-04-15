@@ -11,32 +11,15 @@ title: Learning & Development
 
 ## Team Member Resources
 
-The Learning & Development team has a number of resources to help team members learn new skills. 
+The Learning & Development team has a number of resources to help team members learn new skills. Click on the buttons below to learn more about each opportunity:
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Initiatives </a>
+    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Manager Training</a>
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/" class="btn btn-purple" style="width:200px;margin:5px;">Growth & Development Benefit</a>
     <a href="/handbook/people-group/learning-and-development/career-development/" class="btn btn-purple" style="width:200px;margin:5px;">Career Development & Mobility</a>
   </div>
 </div>
-
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="/handbook/leadership/coaching/" class="btn btn-purple" style="width:200px;margin:5px;">Coaching</a>
-    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Manager Training</a>
-    <a href="/handbook/people-group/learning-and-development/linkedin-learning/" class="btn btn-purple" style="width:200px;margin:5px;">LinkedIn Learning</a>
-  </div>
-</div>
-
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="/handbook/people-group/learning-and-development/gitlab-learn/" class="btn btn-purple" style="width:200px;margin:5px;">GitLab Learn</a>
-    <a href="/handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
-    <a href="/handbook/people-group/learning-and-development/compliance-courses" class="btn btn-purple" style="width:200px;margin:5px;">Compliance Courses</a>
-  </div>
-</div>
-
 
 <div class="flex-row" markdown="0">
   <div>
@@ -48,7 +31,23 @@ The Learning & Development team has a number of resources to help team members l
 
 <div class="flex-row" markdown="0">
   <div>
+    <a href="/handbook/people-group/learning-and-development/gitlab-learn/" class="btn btn-purple" style="width:200px;margin:5px;">GitLab Learn</a>
+    <a href="/handbook/people-group/learning-and-development/linkedin-learning/" class="btn btn-purple" style="width:200px;margin:5px;">LinkedIn Learning</a>
+    <a href="/handbook/people-group/learning-and-development/compliance-courses" class="btn btn-purple" style="width:200px;margin:5px;">Compliance Courses</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
+    <a href="/handbook/leadership/coaching/" class="btn btn-purple" style="width:200px;margin:5px;">Coaching</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
     <a href="/handbook/sales/field-manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Field Manager Development</a>
+    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Initiatives</a>
   </div>
 </div>
 
@@ -102,7 +101,7 @@ _Performance indicators_
 2. Designing, developing, and delivering all training to team members
 
 
-### GitLab Learning Strategy & Roadmap
+## GitLab Learning Strategy & Roadmap
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfTwBDgrL07yg9Zpk08CQ1U52ZpvaYN5qB9YsSphS55-AbRYAmJBeCb0ClN-Cb4-SKKObk8pnTXLhD/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -110,7 +109,7 @@ _Performance indicators_
 
 **Learn more about our [FY22 Roadmap and tracking sheet](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375)**.
 
-### FY23 Learning & Development Calendar
+## FY23 Learning & Development Calendar
 
 <figure class="video_container">
 <iframe src="https://calendar.google.com/calendar/embed?src=c_glhi0qhc8hs9fp4h9id2hc7lfg%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
@@ -118,11 +117,13 @@ _Performance indicators_
 
 **Note: Learning & Development activities are subject to change**
 
-### L&D Organization
+Internally, the GitLab People Group uses a calendar to track cross-funcational efforts. Please see the [People Group Page](/handbook/people-group/#team-calendars) for more information.
+
+## L&D Organization
 
 We are a small team, but we've got a big role to play at GitLab! 
 
-* [Learning and Development Manager](/job-families/people-ops/learning-development/#learning--development-manager): [Josh Zimmerman](/company/team/#Josh_Zimmerman)
+* [Learning and Development Manager](/job-families/people-ops/learning-development/#learning--development-manager): 
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jacie Bandur](/company/team/#jbandur)
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Samantha Lee](/company/team/#slee24)
 * [Instructional Designer](/job-families/people-ops/instructional-designer/): [Irina Grosu](https://about.gitlab.com/company/team/#irinagrosu)
@@ -138,9 +139,30 @@ Email Us: `learning@gitlab.com`
 
 Please take 5 minutes for a survey to [tell us how do you prefer to learn](https://forms.gle/Hafkqygy6LfJxWFw6)!
 
-## FY22 Learning and Development Calendar 
 
-You can view the Learning & Development calendar, as well as other people group team calendars on the [People Group Page](/handbook/people-group/#team-calendars). 
+## Work With Us
+
+To request support from the L&D, please see the process for [how to work with us](/handbook/people-group/learning-and-development/work-with-us). This page outlines issue templates and processes that are managed on our [Learning and Development issue board](https://gitlab.com/gitlab-com/people-group/learning-and-development/-/issues) for support using the following templates:
+
+Our team will review and set the priority for your request based on the scale and impact across the organization. Learning items that will be applied and used across the company will take priority. 
+
+We prioritize requests using this criteria:
+
+*  Evaluate the strategic impact of the learning session
+*  Determine the level of work associated with the learning requirement
+*  Assess the impacted audience groups of the session 
+*  Identify measures of success 
+*  Assess dates of delivery with course schedule and forecast future date
+
+## How we work
+
+### Handbook First Training Content
+
+All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning). One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ### Learning & Development Team Meetings
 
@@ -151,34 +173,7 @@ Overview of the type of meetings the Learning & Development participates in ever
 | 1:1 | Weekly meeting/25 minutes | <br> - 1:1 meeting between direct report and manager of L&D team. <br> - Topics covered include: task management, career development, performance management, blockers, project updates, brainstorming, coaching, etc. <br> - During the meeting, if their is an item that requires broader team collaboration it will be added to the bi-weekly team meeting. |
 | L&D Team Meeting | Every two weeks/40 minutes | <br> - Strategic items that have been brought up during 1:1 meetings that impact the team as a whole. <br> - The meetings will cover items that are strategic in nature that require discussion, brainstorming, collaboration, and synthesis with the team |
 | L&D Quarterly Strategic Meeting | Quarterly/90 minutes to 2 hours | <br> - Review what was acheived in the quarter, what wasn't, and lessons learned <br> - Team members will present plans on what they are focused on for the next quarter <br> - Review team morale, team dynamics, learner satisfaction, long term impact, and alignment with Peope Group goals. |
-
-
-### Handbook First Training Content
-
-All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning). One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
  
-
-## New Learning Content at GitLab
-
-We are always working to create more learning content for our team members. If you have a learning request that you would like the Learning & Development team to develop in partnership with your team, please fill out a `learning-and-development-request` issue template in our [issue tracker](https://gitlab.com/gitlab-com/people-group/learning-and-development/-/issues). Our team will review and set the priority for your request based on the scale and impact across the organization. Learning items that will be applied and used across the company will take priority. 
-
-If you have developed the learning content and would like the Learning & Development team to review, fill out a `learning-and-development-review` issue template in our [issue tracker](https://gitlab.com/gitlab-com/people-group/learning-and-development/-/issues). 
-
-Our team will review and set the priority for your content request or review based on the scale and impact across the organization. Learning items that will be applied and used across the company will take priority. 
-
-### How the L&D team prioritizes requests: 
-*  Evaluate the strategic impact of the learning session
-*  Determine the level of work associated with the learning requirement
-*  Assess the impacted audience groups of the session 
-*  Identify measures of success 
-*  Assess dates of delivery with course schedule and forecast future date
-
-To request support from the L&D, please see the process for [how to work with us](/handbook/people-group/learning-and-development/work-with-us)
-
 ### L&D team sprints
 
 The L&D team uses GitLab issue boards to track priorities, organize collaboration, and set due dates based on three-week sprints.
@@ -210,7 +205,6 @@ Additional planning and notes around the sprint board can be found in [this issu
 - Consider using the `new-initiative` issue template when planning a new learning initiative, engagement program, or program idea
 - Consider using the `content-scoping` issue template when proposing a new pathway, creating a new course, or building any new learning experience
 
-
 ### L&D handbook merge requests
 
 If you want the wider L&D team to be aware of your MR, please apply the `ld-handbook-update` label to the MR. This will trigger a Zapier automation that posts the MR title and link to the #learning-team Slack channel.
@@ -230,7 +224,6 @@ If you are developing content to meet your learning needs or partnering with the
 4. **Engage the Learner** - Adults learn through practice and involvement. Consider using tools to engage learners in a virtual setting like [Mentimeter](https://www.mentimeter.com/) or [Kahoot](https://kahoot.com/business-u/) to stimulate interactivity. Ask the [L&D team](/handbook/people-group/learning-and-development/) for more insight on learning engagement tools. There is a lot you can leverage! 
 
 5. **Implement Blended Learning Course Content** - Give the audience some pre-course work to read and review before the learning session. Use off-the-shelf resources and ensure the content is applicable to what will be covered in the session. Follow up with the audience following the session to gauge how they've applied what they've learned on the job through surveys and questionnaires. 
-
 
 ### Application of Adult Learning Theory
 
@@ -260,11 +253,9 @@ If you are developing training, add learning objectives to the beginning of the 
 - Team members will be able to apply the GROW coaching model framework to coaching sessions with members of their team 
 - After learning about the high-performance team-building model, team members will be able to determine the steps needed to reach high performance.
 
-
 ### 70-20-10 Model for Learning and Development
 
 The L&D team uses a formula to describe the optimal sources of learning at GitLab. It shows that team members obtain 70 percent of the knowledge from job-related experiences, 20 percent from interactions with others, and 10 percent from formal learning events. The model is intended to show that hands-on experience (70 percent) can be one of the most beneficial for team members because it enables them to discover and refine their job-related skills. Team members learn from others (20 percent) through a variety of activities we offer every week. Lastly, the formula holds that only 10 percent of professional development comes from traditional live learning and eLearning events. 
-
 
 ### Instructional Design 101
 
@@ -273,7 +264,6 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-
 
 ### Learning Components - Definitions
 
@@ -287,7 +277,6 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 | Learning Path | A chosen route taken by a learner through a range of learning activities to build knowledge progressivley | Varies |
 
 This terminology is distinct from our Learning Experience Platform, GitLab Learn, which has it's own [glossary of terms](/handbook/people-group/learning-and-development/gitlab-learn/user/#understanding-content-in-gitlab-learn).
-
 
 ### Learning Delivery Methods - Definitions
 
