@@ -372,7 +372,7 @@ If you're running into query time limits consider using a larger warehouse.
 
 #### Warehouse Reporting size change
 
-Currently Sisense is using 2 users `PERISCOPE` & `SISENSE_RESTRICTED_SAFE`, both are using the warehouse `REPORTING`. This warehouse is running almost 24/7, making this the most expensive warehouse inside our Snowflake environment. To minimize the cost, we set the size of the warehouse to `MEDIUM` on peak hours (9.00AM UTC untill 9.00PM UTC on weekdays) and to `SMALL` on non peak hours (all other). Changing the size of the warehouse is done via a scheduled tasks in Snowflake.
+Currently Sisense is using 2 users `PERISCOPE` & `SISENSE_RESTRICTED_SAFE`, both are using the warehouse `REPORTING`. This warehouse is running almost 24/7, making this the most expensive warehouse inside our Snowflake environment. To minimize the cost, we set the size of the warehouse to `MEDIUM` on peak hours (9.00AM UTC untill 9.00PM UTC on weekdays) and to `SMALL` on non peak hours (all other). The warehouse has been set in the roles.yml as standard `SMALL`, so we size up via a task inside Snowflake. Changing the size of the warehouse is done via a scheduled tasks in Snowflake.
 
 ```sql
 CREATE TASK SIZE_DOWN_REPORTING_WAREHOUSE
