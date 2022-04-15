@@ -3,15 +3,19 @@ layout: job_family_page
 title: "Data Engineering"
 ---
 
-## Data Engineer
+The Data Engineer job family is focused on an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of strong quality data insights to drive business decisions in all areas of GitLab. The Data Engineer job family is essentially software engineers who have a particular focus on data movement and orchestration.
 
 The Data Engineer job family requires an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of data insights to support business decisions in all areas of GitLab. Data Engineers are essentially software engineers who have a particular focus on data movement and orchestration.
 
-### Job Grade
+### Data Engineer (Intermediate)
 
-The Data Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Data Engineer (Intermediate) reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
 
-### Requirements
+#### Data Engineer Job Grade
+
+The Data Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Data Engineer (Intermediate) Requirements
 
 * 2+ years hands-on experience deploying production quality code
 * Professional experience using Python, Java, or Scala for data processing (Python preferred)
@@ -28,7 +32,7 @@ The Data Engineer is a [grade 6](/handbook/total-rewards/compensation/compensati
 * Ship small features independently
 * Ability to use GitLab
 
-### Responsibilities
+#### Data Engineer (Intermediate) Responsibilities
 
 * Maintain our data warehouse with timely and quality data
 * Build and maintain data pipelines from internal databases and SaaS applications
@@ -40,17 +44,17 @@ The Data Engineer is a [grade 6](/handbook/total-rewards/compensation/compensati
 * Collaborate with other functions to ensure data needs are addressed
 * This position is always [central](/handbook/business-ops/data-team/#-team-organization) and reports to the Manager, Data
 
-## Senior Data Engineer
+### Senior Data Engineer
 
-The Senior Data Engineer role extends the [Data Engineer](#responsibilities) role.
+The Senior Data Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
 
-### Job Grade
+#### Senior Data Engineer Job Grade
 
 The Senior Data Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Senior Data Engineer Responsibilities
 
-* All requirements of an Intermediate Data Engineer
+* Extends the Data Engineer (Intermediate) responsibilities
 * Understand and implement data engineering best practices
 * Improve, manage, and teach standards for code maintainability and performance in code submitted and reviewed
 * Create smaller merge requests and issues by collaborating with stakeholders to reduce scope and focus on iteration
@@ -58,6 +62,11 @@ The Senior Data Engineer is a [grade 7](/handbook/total-rewards/compensation/com
 * Generate architecture recommendations and the ability to implement them
 * Great communication: Regularly achieve consensus amongst teams
 * Perform technical interviews
+
+#### Senior Data Engineer Requirements
+
+* Extends that of the Data Engineer (Intermediate) requirements
+* Relevant experience for a Senior Data Engineer
 
 ## Staff Data Engineer
 
@@ -82,6 +91,17 @@ Business Justification: The staff level requires deep technical and functional k
 * Provide mentorship for all on your team to help them grow in their technical responsibilities
 * Propose ideas to improve the scale, performance, and capabilities of the Data Platform
 
+## Specialties
+
+### Senior Date Engineer Big Data
+
+#### Requirements
+* All requirements of an Senior Data Engineer
+* Expertise in designing and developing distributed data pipelines using big data technologies on large scale data sets demonstrated with years of proven experience.
+* Has experience with various streaming data concepts, such as Kafka.
+* Can lead full scale Data Lake implementations.
+* Has good understanding of Lambda Architecture.
+
 ## Performance Indicators (PI)
 
 *   [SLO achievement per data source](/handbook/business-ops/metrics/#slo-achievement-per-data-source)
@@ -89,6 +109,10 @@ Business Justification: The staff level requires deep technical and functional k
 *   [Number of days since last environment audit](/handbook/business-ops/metrics/#number-of-days-since-last-environment-audit)
 *   [Mean Time between Failures (MTBF)](/handbook/business-ops/metrics/#mean-time-between-failures-mtbf)
 *   [Mean Time to Repair (MTTR)](/handbook/business-ops/metrics/#mean-time-to-repair-mttr)
+
+### Career Ladder
+
+The next step in the Data Engineer job family is to move to the [Data Management](/job-families/finance/manager-data/) job family. 
 
 ## Hiring Process
 
