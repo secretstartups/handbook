@@ -123,6 +123,10 @@ Please use this step if there are no issues created to capture the failure. If t
 
 Note when viewing a deployment failure from the `#announcements` Slack channel, you will have to click into the pipeline and look at the `Downstream` results to understand if the deployment failure arose from a failure in `Staging-Canary` or if the failure occurred in `Staging`.
 
+Click on the diagram below to visit the announcement issue for more context and view an uncompressed image:
+
+[![Pipeline Reorder](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/images/pipeline_reorder.png "pipeline diagram")](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2280)
+
 ### Review the failure logs
 
 The aim of this step is to understand the failure. The results of the investigation will also let you know what to do about the failure. Update the failure issue with any findings from your review.
