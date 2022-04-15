@@ -69,17 +69,21 @@ graph TD
     A --> B[Engineering Analytics Team]
     B --> BA[Engineering Analyst]
     B --> BB[Engineering Analyst]
-    A --> CA(Quality Engineering teams)
-    CA --> CAA[Software Engineer in Test]
-    CA --> CAB[Software Engineer in Test]
-    CA --> CAC[Software Engineer in Test]
-    A --> D[Engineering Productivity Team]
-    D --> DA[Engineering Productivity Engineer]
-    D --> DB[Engineering Productivity Engineer]
+    A --> C[Contributor Success team]
+    A --> D(Quality Engineering)
+    A --> E[Engineering Productivity Team]
+
+    click A "/handbook/engineering/quality"
+    click B "/handbook/engineering/quality/engineering-analytics"
+    click C "/handbook/engineering/quality/contributor-success"
+    click D "/handbook/engineering/quality/quality-engineering"
+    click E "/handbook/engineering/quality/engineering-productivity"
+    
     style B fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
     style BA fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
     style BB fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
 ```
+
 ## Key Reviews
 Key Reviews are meetings a department has with other GitLab team members to discuss any progress or updates related to KPIs & OKRs with the rest of the organization. More information can be found on the [Key Review Handbook Page](https://about.gitlab.com/handbook/key-review/)
 

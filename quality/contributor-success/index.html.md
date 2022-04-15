@@ -290,19 +290,22 @@ Quality Department Leader.
 ```mermaid
 graph TD
     A[Quality Department]
-    A --> B[Contributor Success Team]
-    B --> BA[Contributor Success Engineer]
-    B --> BB[Contributor Success Engineer]
-    A --> CA(Quality Engineering teams)
-    CA --> CAA[Software Engineer in Test]
-    CA --> CAB[Software Engineer in Test]
-    CA --> CAC[Software Engineer in Test]
-    A --> D[Engineering Productivity Team]
-    D --> DA[Engineering Productivity Engineer]
-    D --> DB[Engineering Productivity Engineer]
-    style B fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
-    style BA fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
-    style BB fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
+    A --> B[Engineering Analytics Team]
+    A --> C[Contributor Success team]
+    C --> CA[Contributor Success Engineer]
+    C --> CB[Contributor Success Engineer]
+    A --> D(Quality Engineering)
+    A --> E[Engineering Productivity Team]
+
+    click A "/handbook/engineering/quality"
+    click B "/handbook/engineering/quality/engineering-analytics"
+    click C "/handbook/engineering/quality/contributor-success"
+    click D "/handbook/engineering/quality/quality-engineering"
+    click E "/handbook/engineering/quality/engineering-productivity"
+
+    style C fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
+    style CA fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
+    style CB fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
 ```
 
 ## Contributor Efficiency Working group
