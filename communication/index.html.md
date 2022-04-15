@@ -396,17 +396,18 @@ Project code names can be overused. Code names should never be used for projects
 1. The work is not MNPI but should remain [limited access](/handbook/communication/#limited-access) to avoid prematurely sharing information with customers or the wider community. Example: "Tiering" was our project name for End of Availability
 
 Code names should be retired as soon as a project is no longer confidential. 
-| Team                  | Theme                                                                                          |
-| --------------------- | ---------------------------------------------------------------------------------------------- |
-| CEO                   | Pets / Animals                                                                                 |
-| Corporate Development | Movie / TV Show characters                                                                     |
-| Engineering           | [Hex color names](https://htmlcolorcodes.com/color-names/)                                     |
-| Finance               | Sports team names                                                                              |
-| Legal                 | TV Shows / Movies                                                                              |
-| Marketing             | One name famous people                                                                         |
-| People                | Trees                                                                                          |
+
+| Team                  | Theme                                |
+| --------------------- | ------------------------------------ |
+| CEO                   | Pets / Animals                       |
+| Corporate Development | Movie / TV Show characters           |
+| Engineering           | [Hex color names](https://htmlcolorcodes.com/color-names/)   |
+| Finance               | Sports team names                    |
+| Legal                 | TV Shows / Movies                    |
+| Marketing             | One name famous people               |
+| People                | Trees                                |
 | Product               | [Famous Mountain Peaks](https://en.wikipedia.org/wiki/List_of_mountain_peaks_by_prominence)    |
-| Sales                 | Car model names                                                                                |
+| Sales                 | Car model names                      |
 
 ## Effective communication competency
 
