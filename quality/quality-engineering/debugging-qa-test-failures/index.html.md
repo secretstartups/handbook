@@ -343,6 +343,8 @@ If the failure is in a `smoke` or a `reliable` test, it will block deployments. 
 
 Please also raise awareness by looping in the appropriate team members from the product group, such as SET or EM. You may also want to post to Quality's Slack channel, `#quality`, depending on the impact of the failure.
 
+If the failure could affect the performance of `GitLab.com` production, or make it unavailable to a specific group of users, you can [declare an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) with `/incident declare` in the `#production` slack channel, this will automatically prevent deployments (if the incident is at least an S2).
+
 ## Following up on test failures
 
 ### Fixing the test
