@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Requisitions and Vacancies"
-description: "Job families and vacancies are different things and can't be used interchangeably. Hopefully this information will help to clarify the differences."
+title: "Requisitions and Openings"
+description: "Job families and openings are different things and can't be used interchangeably. Hopefully this information will help to clarify the differences."
 ---
 
 ## On this page
@@ -14,22 +14,22 @@ description: "Job families and vacancies are different things and can't be used 
 
 ## Definitions
 
-Job families and vacancies are different things and can't be used interchangeably. Hopefully this information will help to clarify the differences.
+Job families and Reqs/Openings are different things and can't be used interchangeably. Hopefully this information will help to clarify the differences.
 
 - A [job family](/job-families) is a permanent item; its content is a superset of all vacancies for the job family, and it is created with a merge request. Since it is permanent please don't include text that becomes outdated when we hire someone, for example: "We are seeking".
-- A [vacancy](/handbook/hiring/vacancies/) is a temporary item posted on Greenhouse; its content is a subset of the job family, and it is created by copying parts of a job family based on an issue.
+- An req or opening is a temporary item posted on Greenhouse; its content is a subset of the job family, and it is created by copying parts of a job family based on an issue.
 
-The term “requisition” (req) is used when referring to an open job. The term “vacancy” is used when referring to its open position(s). For example, an open req could have two vacancies. To note, our Applicant Tracking System (ATS), Greenhouse, uses the term “openings” as opposed to “vacancies.”  Requisitions and vacancies are maintained in Greenhouse based on our [Job Families](/handbook/hiring/job-families). A requisition and a vacancy are temporary in that they’ll only be open until the position is filled, whereas a Job Family is a permanent description that applies to existing Team Member’s with that title. Please don't use “vacancy” and “Job Family” interchangeably. The relevant parts of a Job Family are copy-pasted to Greenhouse to open a vacancy.
+The term “requisition” (req) is used when referring to an open job. The term “opening” is used when referring to its open position(s). For example, an open req could have two openings. Requisitions and openings are maintained in Greenhouse based on our [Job Families](/handbook/hiring/job-families). A requisition and an opening are temporary in that they’ll only be open until the position is filled, whereas a Job Family is a permanent description that applies to existing Team Member’s with that title. Please don't use “opening” and “Job Family” interchangeably. The relevant parts of a Job Family are copy-pasted to Greenhouse to open a req.
 
-We don't use the word "job" to refer to a job family or vacancy because it is ambiguous.
+We don't use the word "job" to refer to a job family or opening because it is ambiguous.
 
-### Vacancy structure
+### Job Opening structure
 
-All vacancies will automatically include the following copy as an introduction:
+All job openings will automatically include the following copy as an introduction:
 
 > GitLab's [DevOps platform](https://about.gitlab.com/solutions/devops-platform/) empowers 100,000+ organizations to deliver software faster and more efficiently. [We are one of the world’s largest all-remote companies](https://about.gitlab.com/company/culture/all-remote/guide/) with 1,400+ team members and [values](https://about.gitlab.com/handbook/values/) that guide a culture where people embrace the belief that [everyone can contribute](https://about.gitlab.com/company/mission/).
 
-This paragraph is pre-populated on our vacancies which means we should avoid re-using this language in the body of the vacancy.
+This paragraph is pre-populated on our job posts which means we should avoid re-using this language in the body of the job post.
 
 ## Specialist versus expert
 
@@ -66,19 +66,7 @@ Please use the same order as in the examples above, a few notes:
 
 We preface a title with "interim" when we're hiring for the position.
 
-### Add a Video
 
-Adding a video to your job family is a great way for people to get to know more about the role, hiring manager, and GitLab.
-Hiring managers, if there's not already a video created for your job family or role, consider recording one. Check out the [job family video issue](https://gitlab.com/gitlab-com/people-group/talent-acquisition/issues/237) for guidance or support, or record your own role-specific video.
-
-Examples:
-1. [Sales Development Representative job family](https://www.youtube.com/watch?v=A4lMjhNfX9s)
-1. [Product Manager job family](https://youtu.be/DVLOyaRbAoM)
-1. [Senior Product Manager, Manage (Analytics) vacancy](https://youtu.be/-BT9-xhk9as)
-1. [All-Remote Integrated Marketing Campaign Manager vacancy](https://youtu.be/BOeXgGu1Vco)
-1. [Senior Product Manager, Create (Gitaly) vacancy](https://youtu.be/5TGixSUXbk0)
-
-Learn more about [uploading to GitLab Unfiltered within the Communication section of the Handbook](/handbook/communication/youtube/). If you're unable to create a video, please add a video about life at GitLab, like [this one](https://youtu.be/V2Z1h_2gLNU).
 
 ## Sourcing Support
 
@@ -99,4 +87,4 @@ The Hiring Manager should always ask their team to suggest referrals for open po
 
 1. You can also set a reminder for a candidate if you anticipate reopening the role at a later date.
 
-1. The Recruiter will close the position in Greenhouse. Please note that upon closing the vacancy this will cancel interviews but not remove them from calendars. It is best to manually delete any inflight interviews before closing the role.
+1. The Recruiter will close the position in Greenhouse. Please note that upon closing the opening this will cancel interviews but not remove them from calendars. It is best to manually delete any inflight interviews before closing the role.
