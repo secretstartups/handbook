@@ -155,27 +155,14 @@ Health score criteria is either manually or automatically applied to determine t
    * Example 1: If all product usage data is missing, then it's entirely reallocated to the other measures (Engagement, ROI, TAM Sentiment...). Heavier weighter measures, such as TAM Sentiment, would receive a bigger allocation because it's already the largest.
    * Example 2: If we're receiving Product Usage Data but Continuous Delivery (CD) is NULL, that will be reallocated among Product Usage Data measures. So CI health would go from, say, 5% to 7%.
 
-##### Enterprise
 
 | Category | Description | Method | Calculation | Weighting |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
-| Engagement | Based on recency of last call/meeting with the customer | Automatic | For `TAM Prioritization = 1` accounts:<br> - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days <br><br>For `TAM Prioritization = 2` accounts:<br> - Green: <= 65 days <br>- Yellow: > 65 days and <= 90 days <br>- Red: > 60 days | 10% |
+| Engagement | Based on recency of last call/meeting with the customer | Automatic | For `TAM Prioritization = 1` accounts:<br> - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days <br><br>For `TAM Prioritization = 2` accounts:<br> - Green: <= 65 days <br>- Yellow: > 65 days and <= 90 days <br>- Red: > 90 days | 10% |
 | ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | For All `TAM Prioritization = 1` accounts AND all TAM-owned accounts that have an open Success Plan:<br> - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with 1+ objectives and no Strategy/Highlight information <br>- Red: No Success Plan or no objectives | 10% |
 | Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month <br>- Yellow: 5-15 tickets/month <br>- Red: \>15 tickets/month | 5% |
 | Support Emergency Tickets | Based on the number of open/closed Priority:Urgent tickets | Automatic | - Yellow: 1+ closed Emergency ticket in the last 7 days<br> - Red: 1+ open Emergency ticket | 0% |
 | [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For all `TAM-owned` accounts:<br> TAM manually determines red/yellow/green | 50% |
-| License Usage | Based on the customer's license usage relative to the customer lifecycle | Automatic | See [license usage](#license-usage-health-table) | 10%  |
-| Product Usage Data | Based on the customer's product usage data (if available) | Automatic | See [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) | 15% |
-
-##### Commercial
-
-| Category | Description | Method | Calculation | Weighting |
-|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Engagement | Based on recency of last call/meeting with the customer | Automatic | For `TAM Prioritization = 1` accounts:<br> - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days <br><br>For `TAM Prioritization = 2` accounts:<br> - Green: <= 65 days <br>- Yellow: > 65 days and <= 90 days <br>- Red: > 60 days | 10% |
-| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | For All `TAM Prioritization = 1` accounts AND all TAM-owned accounts that have an open Success Plan:<br> - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with 1+ objectives and no Strategy/Highlight information <br>- Red: No Success Plan or no objectives | 10% |
-| Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month<br>- Yellow: 5-15 tickets/month<br>- Red: \>15 tickets/month | 5% |
-| Emergency Support Tickets | Based on the number of open/closed Priority:Urgent tickets | Automatic | - Yellow: 1+ closed Emergency ticket in the last 7 days<br> - Red: 1+ open Emergency ticket | 0% |
-| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For `TAM-owned` accounts:<br> TAM manually determines red/yellow/green | 50% |
 | License Usage | Based on the customer's license usage relative to the customer lifecycle | Automatic | See [license usage](#license-usage-health-table) | 10%  |
 | Product Usage Data | Based on the customer's product usage data (if available) | Automatic | See [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) | 15% |
 
