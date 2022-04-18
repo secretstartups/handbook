@@ -275,7 +275,7 @@ NOTE: Discounts are off list price. If GitLab is deeply discounting a large ARR 
 
 *   **Referral Fees** - Referral fees are paid to partners for identifying new GitLab software sales opportunities that are not being resold by a partner. To qualify for a referral fee, partners must enter a referral fee deal registration in the GitLab Partner Portal. Each registration received by GitLab qualifies as a "Qualified Referral," provided that the referral is a GitLab sales opportunity that is new to GitLab, and the customer/prospect is willing to enter into a binding written agreement with GitLab to use our products and services.
     *   Opportunities identified by a Channel Partner but transacted through a Cloud Marketplace qualify for the referral fee.
-    *   All referral deal registrations must be approved by GitLab before becoming eligible for a referral fee. Referral fees are paid out no later than 45 days after the end of each quarter.
+    *   All referral deal registrations must be approved by GitLab before becoming eligible for a referral fee. Referral fees are paid out no later than 45 days after the end of each quarter,  if you have connected with GitLab in Coupa and provided your banking information.
 
 *   **Services Resale** - Partners can earn discounts on partner-sold services delivered by the GitLab Professional Services team. Partners qualify for a program discount on services resale if the services are included on the order of a deal registered opportunity.  Partners are able to resell complete GitLab service offering or include GitLab services as part of their own customer statement of work.
 
@@ -490,7 +490,7 @@ The Services Attached incentive is based on the volume of licensing opportunitie
     *   1: Partners need to email proof of execution (POE) for delivery of services to the customer.  The POE must include customer confirmation of the services and that the services meet/met the guidelines as outlined in the current program guidance (found in the [Partner Portal](https://partners.gitlab.com/)) for the incentive.  The most likely form of POE is a signed SOW outlining work and cost to the customer.   POE must be approved by GitLab Sales.
         *   Email POE to: [partnersupport@gitlab.com](mailto:partnersupport@gitlab.com) 
     *   2: Partners need to submit the [Proof of Execution (POE) form](https://forms.gle/n8xDfkNbbeNKwaG36).
-*   Rebates are paid out no later than 45 days after the end of each quarter. To view the GitLab Services Attach incentive program please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/s/assets) and access the resources in the Program Documents folder in the Asset Library.
+*   Rebates are paid out no later than 45 days after the end of each quarter, if you have connected with GitLab in Coupa and provided your banking information. To view the GitLab Services Attach incentive program please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/s/assets) and access the resources in the Program Documents folder in the Asset Library.
 
 
 #### Quote to Order
@@ -617,7 +617,7 @@ To obtain MDF funding, please complete the following steps prior to any activity
 *   You must submit a payment claim within 30 calendar days of completion of the activity via the MDF Reimbursement Request Form on the GitLab Partner Portal.
 *   Proof of performance as defined above for each activity must be submitted.  Proof of performance must demonstrate that the activity occurred and that GitLab was appropriately represented
 *   International currency: Claims may be paid in local currency upon GitLab’s discretion; currency rates are based on the date GitLab pays the reimbursement.
-*   Once a claim is fully approved and all questions about the claim have been answered, you should expect to receive reimbursement within 45 days.
+*   Once a claim is fully approved and all questions about the claim have been answered, you should expect to receive reimbursement within 45 days if you have connected with GitLab in Coupa and provided your banking information.
 
 If MDF claims are not submitted in the given timeline, you will forfeit the funds.
 
