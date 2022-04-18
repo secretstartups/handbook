@@ -116,7 +116,7 @@ _Notes_:
     - Unfortunately, this is not doable for every single counter. [Redis counters](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#redis-metrics) are NOT SQL-generated counters. They also track actions that are not in the GitLab.com Postgres DB such as page views, or frontend interactions.
     - Therefore, only some metrics can be recreated using the Gitlab.com Postgres replica. That means that for now, we are not able to calculate some of the Paid SaaS xMAU metrics like Monitor SMAU.
 
-\*\*\*: To calculate paid xMAU on Self-Managed we use the `edition` field in the [Service Ping Payload](https://docs.gitlab.com/ee/development/service_ping/index.html#example-service-ping-payload), selecting only service pings with `EEP`, `EES` and `EEU` edition. The edition value is derived from the [plan column in the license table in the licenseDot database at the time the license was generated](https://gitlab.com/gitlab-data/analytics/-/issues/7257#note_464118474). That means that currently we don't exclude EDU/OSS subscriptions from the paid xMAU calculations.
+\*\*\*: To calculate paid xMAU on Self-Managed we use the `edition` field in the [Service Ping Payload](https://docs.gitlab.com/ee/development/service_ping/index.html#example-service-ping-payload), selecting only service pings with `EEP`, `EES` and `EEU` edition. The edition value is derived from the [plan column in the license table in the CustomersDot database at the time the license was generated](https://gitlab.com/gitlab-data/analytics/-/issues/7257#note_464118474). That means that currently we don't exclude EDU/OSS subscriptions from the paid xMAU calculations.
 
 ### Data Sources
 
