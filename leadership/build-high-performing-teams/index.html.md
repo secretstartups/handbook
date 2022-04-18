@@ -329,7 +329,7 @@ The team accomplishes more than it is expected to. The team has taken off and cr
 1. Define what high performance would like for your team. Hold a quarterly retrospective.
 Ask:
     - What would it mean if we are surpassing results?
-    - What would be doing differently that we are doing today?
+    - What would we be doing differently than we are doing today?
     - What can we do better in the future?
 1. Hold team meetings to examine what else is possible.
 Ask:
