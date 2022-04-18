@@ -144,7 +144,7 @@ In addition, the CoS to the CEO helps the CEO in preparing for the CEO's closed 
 
 The CoS to the CEO will also support the CEO in identifying and sharing the top three things learned from customers in the previous quarter.
 
-Designated meeting time will be used to review and make adjustments to the proposal. 
+Designated meeting time will be used to review and make adjustments to the proposal. The CoS to the CEO will coordinate with the EBA to the CEO to ensure that there is a "FYI" on the closed session agenda that links to the prepared material. 
 
 ## OKRs
 
