@@ -143,19 +143,15 @@ The following programs have been contributed by leaders across the organization.
 
 ### Crucial Conversations training 
 
-The Learning and Development team is excited to deliver [Crucial Conversations](/handbook/leadership/crucial-conversations/) training internally to team members. Currently, 2 members of the GitLab L&D team are certified to deliver this training. The team will co-deliver the Crucial Conversations content in a hybrid format, including self-paced learning and live learning practice sessions. Read more program details in the [Learning and Development handbook](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations).
+The Learning and Development team delivers the [Crucial Conversations](/handbook/leadership/crucial-conversations/) training internally to team members. The training is a hybrid format, including self-paced learning and live learning practice sessions. Read more program details in the [Learning and Development handbook](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations/).
 
-Crucial Conversations charges per-learner to deliver this content. Each license costs $295 per license. The following section outlines how the team member G&D benefit can be used to participate in this training.
+Crucial Conversations charges per-learner to deliver this content. Each license costs $273 per license. The following section outlines how the team member G&D benefit can be used to participate in this training.
 
-1. First, please fill out [this Google form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform) to express interest in taking the training. You are **not** committing to the training by filling out this form.
+1. Fill out [this Google form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform) to express interest in taking the training. You are **not** committing to the training by filling out this form.
 1. The L&D team will assess interest/team need and organize cohorts based on this Google form. The team will contact you to confirm your availability before signing you up for a cohort.
-1. The L&D team will open a G&D benefit issue and tag you in the issue. Please ask your manager to comment on the issue with a note saying `approved` to gain manager approval of your participation.
-1. Once approved, L&D will process the purchase of the licenses and distribute to participants by generating an invoice and sending it to GitLab's accounts payable team.
+1. The L&D team will open a G&D benefit issue and tag you in the issue. Please follow instructions in the issue to obtain manager approval.
 
-
-The L&D and Total Rewards teams will collaborate to purchase the course license on your behalf and the cost will count towwards your Growth and Development budget. 
-
-You must complete the Crucial Conversations self-paced training and attend at least 4 live training sessions within 3 months of starting the training. If you do not complete the training in this timeframe, you will be required to pay for the cost of your license.
+The L&D and Total Rewards teams will collaborate to purchase the course license on your behalf and the cost will count towwards your Growth and Development budget. Please plan to complete the Crucial Conversations self-paced training and attend at least 4 live training sessions within 3 months of starting the training.
 
 ### Using your Growth & Development Benefit for a LinkedIn Learning License
 
