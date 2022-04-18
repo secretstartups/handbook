@@ -57,7 +57,7 @@ end of each week with a list of support team contributions merged in the past we
 - [Support Toolbox](https://gitlab.com/gitlab-com/support/toolbox) - Includes tools such as `json_stats` (analyze JSON logs), `strace_parser` (analyze `strace` output), `gitlabsos` (get all logs and other data from customers), etc.
 - [Support Resources](https://gitlab.com/gitlab-com/support/support-resources/#support-resources) - Create test instances
 - [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
-- [CustomersDot admin](https://customers.gitlab.com/admin/) - Where to manage Self-Managed licenses and where customers manage their subscriptions. Also details of all licenses prior to cloud licensing. 
+- [CustomersDot admin](https://customers.gitlab.com/admin/) - Where to manage Self-Managed licenses and where customers manage their subscriptions.
 - [GitLab Regressions](https://regressions.gitlab.io/)
 
 ### External tools

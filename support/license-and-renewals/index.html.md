@@ -220,8 +220,7 @@ The queue should not be used for the following:
 
 ### Issue trackers
 
-| Issue tracker | Use Case |
-| ------------- | -------- |
-| [GitLab Issue Tracker](https://gitlab.com/gitlab-org/gitlab/issues) | Issues related to self-managed or GitLab.com functionality or backend processing  |
-| [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) | Issue is caused specifically by something within the CustomersDot    |
-| [LicenseDot](https://gitlab.com/gitlab-org/license-gitlab-com/issues) | Issue is affecting self-managed license generation or generated licenses |
+| Issue tracker | Use Case                                                                                                                           |
+| ------------- |------------------------------------------------------------------------------------------------------------------------------------|
+| [GitLab Issue Tracker](https://gitlab.com/gitlab-org/gitlab/issues) | Issues related to self-managed or GitLab.com functionality or backend processing                                                   |
+| [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) | Issue is caused specifically by something within the CustomersDot or affecting self-managed license generation, generated licenses |
