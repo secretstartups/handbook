@@ -94,4 +94,30 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule one or more interviews with Business Partners
 * Finally, candidates may be asked to interview with our VP, IT or similar
 
+## Specialties
+
+### Data Science
+
+#### Manager, Data Science Description 
+
+The [Data Science Team](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/) closely partners with various teams across GitLab to facilitate making better decisions faster using predictive analytics.
+
+The job description of this specialization include all of the resposibilities for the **Manager, Data** role. In addition, resposibilities for the specialization include:
+
+* This is a hands-on role and requires significant experience as a Data Science Individual Contributor
+* Define, collaborate, and communicate key influences, levers, and impacts to non-technical audiences
+* Perform exploratory data analysis to understand ecosystems, behavioral trends, and long-term trends
+* Build machine learning models (training, validation, and testing) with appropriate solutions for data reduction, sampling, feature selection, and feature engineering
+
+#### Manager, Data Science Requirements
+
+The job requirements of this specialization include all of the requirements for the **Manager, Data** role. In addition, requirements for the specialization include:
+
+* Ability to make decisions regarding the direction of the project based on amount and quality of data 
+* Experience leading end-to-end data science projects, starting with requirements gathering, to data extraction, to building models and translating outcomes to stakeholders
+* Ability to use Python for analysing, visualising data and building models
+* Assigning tasks across team and advising team members on how to get to expected outcomes including improving performance of models
+* Ability to translate model outcomes to prescriptive, predictive and descriptive solutions and lead others on how to do it
+
+
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
