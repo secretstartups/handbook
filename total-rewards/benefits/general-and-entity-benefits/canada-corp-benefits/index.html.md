@@ -20,7 +20,8 @@ Benefits are administered by Canada Life. The benefits decision discussions are 
 
 GitLab covers **100%** of team member, spouse, dependents, and/or domestic partner premiums for medical, dental, and vision coverage.
 
-Please review the full [policy document](https://drive.google.com/file/d/1UFEPx7LI1kUmOr2BX47ZlRniQip_qewJ/view?usp=sharing) for more information on the benefits being offered.
+Please review the [Employee Booklet](https://drive.google.com/file/d/1QToHbxyoqAx4lz8wnI73OqNuICScE5tk/view?usp=sharing) and full [policy document](https://drive.google.com/file/d/1UFEPx7LI1kUmOr2BX47ZlRniQip_qewJ/view?usp=sharing) for more information on the benefits being offered.
+
 
 ## Group Health Coverage
 
@@ -100,7 +101,7 @@ Effective May 1, 2021 GitLab team members and their dependants enrolled in Canad
 * Definition: 2 years own occupation
 * Offsets: Primary
 * Cost of Living Adjustment: Not included
-* Non-Evidence Maximum: 7,000 (see below for EOI instructions to increase up to 12,500)
+* Non-Evidence Maximum: 10,000 (see below for EOI instructions to increase up to 12,500)
 * Termination: Age 65
 
 ### Evidence of Insurability (EOI)
@@ -137,6 +138,8 @@ Domestic Partner Enrollment: Canada Life uses the first day cohabitating as the 
 In addition to enrollment in the Collage portal, you can also register directly with Canada Life. To register, you can do so by following this [registration link](https://gwl.greatwestlife.com/MyRegistration). This will allow you access to Canada Life’s GroupNet for Plan Members and the ability to download the GroupNet Mobile app on your mobile device. Once registered you will have access to online claims submission, your electronic benefits card, direct deposit of claim payments, view the status of your claims and more. Canada Life has also provided the following [Welcome Packet](https://drive.google.com/file/d/1Fg9LxE-eyLqgDihpw5kUb-4PuDK5AeMa/view?usp=sharing). The [french version of the welcome packet](https://drive.google.com/file/d/1SChNz6Ir6Vyk8scbM-WJR1N8solVmpeE/view?usp=sharing) is also available. 
 
 Learn how to use GroupNet for Plan Members by watching the helpful videos in the following [pdf](https://drive.google.com/file/d/1mrZPMKd17m9cwC1Qnsdq6KyJ2lmfehFe/view?usp=sharing).
+
+New Hires and Current Team Members can book an appointment with a Canada Life Member Guide to help review the plan, coverage, processes and assist with any questions. For more information and a link to book an appointment, please view the [Canada Life Concierge Support Flyer](https://drive.google.com/file/d/1a6AgXQeMhAgZdjRVzfv3tzIn__5zUIv6/view?usp=sharing). 
 
 ### Canada Life User Portal and App 
 
