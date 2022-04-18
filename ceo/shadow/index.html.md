@@ -310,7 +310,7 @@ For meetings:
 1. Publicly advise when people are not following the [communication guidelines](/handbook/communication/) ([see more details below.](/handbook/ceo/shadow/#promote-communication-best-practices)). For example, remind team members to stop screen sharing to encourage communication.
 1. Share [thanks](/handbook/communication/#say-thanks) in the `#thanks` channel in Slack when it comes from a customer or wider community member in a meeting.
 1. Speak up when the [CEO displays flawed behavior](/handbook/ceo/#flaws).
-    - Share an overall Positivity Score in the `#ceo-shadow-private` Slack channel with the CEO immediately following meetings (excluding 1:1s). Scores can range from 1 (the least positive someone could respectfully be) to 10 (the most positive someone could authentically be), focused on the CEO's presence and reactions during the meeting.
+    - Immediately following meetings, score the CEO on overall positivity score in the `Positivity Score` google sheet shared with `ceo-shadow@gitlab.com`. Each shadow should give a score for all meetings attended. Scores can range from 1 (the least positive someone could respectfully be) to 10 (the most positive someone could authentically be), focused on the CEO's presence and reactions during the meeting. At the end of the day, post the score for each meeting to the `#ceo-shadow-private` Slack channel and `@` mention the CEO. 
 
 In-person only:
 
