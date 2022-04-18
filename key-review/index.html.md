@@ -44,17 +44,17 @@ The meetings are also to be livestreamed to GitLab Unfiltered, with the distinct
 
 Functions that have these meetings are:
 
-* Sales & Marketing (Michael McBride & Craig Mestel- function DRIs) scheduled twice per quarter  
-*  Finance (Brian Robins - function DRI) scheduled twice per quarter  
-*  Legal (Robin Schulman - function DRI) scheduled twice per quarter  
-*  People Group (Wendy Barnes - function DRI) scheduled twice per quarter  
-*  Product (David DeSanto - function DRI) scheduled twice per quarter
-*  Infrastructure (Steve Loyd - function DRI) scheduled twice per quarter
-*  Support (Tom Cooney - function DRI) scheduled twice per quarter
-*  Development (Christopher Lefelhocz - function DRI) scheduled 6 times per year
-*  Quality (Mek Stittri - function DRI) scheduled 6 times per year
-*  UX (Christie Lenneville - function DRI) scheduled 6 times per year
-*  Security (Johnathan Hunt - function DRI) scheduled 6 times per year
+1. Sales & Marketing (Michael McBride & Craig Mestel- function DRIs) scheduled twice per quarter  
+1.  Finance (Brian Robins - function DRI) scheduled twice per quarter  
+1.  Legal (Robin Schulman - function DRI) scheduled twice per quarter  
+1.  People Group (Wendy Barnes - function DRI) scheduled twice per quarter  
+1.  Product (David DeSanto - function DRI) scheduled twice per quarter
+1.  Infrastructure (Steve Loyd - function DRI) scheduled twice per quarter
+1.  Support (Tom Cooney - function DRI) scheduled twice per quarter
+1.  Development (Christopher Lefelhocz - function DRI) scheduled 6 times per year
+1.  Quality (Mek Stittri - function DRI) scheduled 6 times per year
+1.  UX (Christie Lenneville - function DRI) scheduled 6 times per year
+1.  Security (Johnathan Hunt - function DRI) scheduled 6 times per year
 
 
 If you would like to be added to a function's Key Review post in [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) on Slack.
