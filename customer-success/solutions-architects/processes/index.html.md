@@ -69,7 +69,7 @@ handbook page.
 - When spending time on a security questionnaire ensure you capture the initial time dedicated via our SA Activity Capture system (troops).
 ## Generating Licenses
 
-- SAs and SALs no longer have access to the LicenseDot tool.
+- SAs and SALs can use CustomersDot application to generate license
 - It is recommended that SAs guide prospective and existing customers wanting to self-evaluate additional features via the GitLab Free trial offering for 30 days 
 - In order to support prospects and customers, refer to the [Internal Support](/handbook/support/internal-support/#regarding-licensing-and-subscriptions) processes handbook page.
 
