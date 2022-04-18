@@ -12,9 +12,8 @@ title: Product Analysis Group
 ## Product Analysis Handbook
 
 The Product Analysis group consists of a team of product analysts. This group reports to the 
-Director of Product, Growth and serves as a specialized analytics team to support product data 
-analysis requests. The primary customer this group serves is Product Managers from various 
-sections/groups.
+Senior Director, Product Monetization and serves as a specialized analytics team to support the 
+product organization and product data-related analysis across GitLab.
 
 Read more about what we do at GitLab on our [Direction](/direction/product-analysis/) page.
 
@@ -22,12 +21,15 @@ Read more about what we do at GitLab on our [Direction](/direction/product-analy
 
 * [Carolyn Braza](/company/team/#cbraza): [Manager, Product Data Analysis](/job-families/product/product-analyst/#manager-product-data-analysis)
 * [Dave Peterson](/company/team/#dpeterson1): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
+* [Matthew Petersen](/company/team/#matthewpetersen): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
 * [Nicole Galang](/company/team/#nicolegalang): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
 * [Neil Raisinghani](/company/team/#nraisinghani): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
-* [Matthew Petersen](/company/team/#matthewpetersen): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
+* [Emma Neuberger](/company/team/#eneuberger): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
 
 As part of the [Research & Development (R&D) Data Fusion Team](/handbook/business-technology/data-team/#data-fusion-teams), 
-the product analysts also work closely with members from the central Data team.
+the product analysts also work closely with members from the central Data team. In addition, 
+the Product Analysis team is part of the [Functional Analytics Center of Excellence (FACE)](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/), 
+along with other functional analytics groups across the GitLab Data Program.
 
 ## Working With Us
 
@@ -77,7 +79,7 @@ We ask that PMs apply a `pm-priority::` label to issues to indicate relative pri
 ### Iteration Planning
 
 Final commitment and prioritization will occur during the iteration planning meeting, which 
-takes places the day before an iteration begins (every other Wednesday). The team will consider 
+takes place the day before an iteration begins (every other Wednesday). The team will consider 
 new and existing issues, along with issues in progress. When selecting issues for the next 
 iteration, the team considers the following:
 
@@ -89,8 +91,7 @@ iteration, the team considers the following:
 #### Issue Priority
 
 The Manager, Product Data Analysis will help prioritize work based on importance and capacity, and 
-will work closely with the Director of Product Growth, Chief Product Officer, and VP, Product 
-Management on trade-offs (if needed).
+will work with the Senior Director, Product Monetization and VP, Product on trade-offs (if needed).
 
 Prioritization labels will be added by the Product Analysis team as a part of triage and 
 planning.
@@ -205,26 +206,25 @@ questions (which could lead to building a self-service solution) and quickly rep
 
 #### Capacity
 
-As the Product Analysis team is still fairly new and small, we expect most PMs to self-serve 
-on analysis and only create Product Analysis issues for critical asks. As the group grows, 
-so will our ability to support additional asks and analyses.
+The Product Analysis team is tasked with supporting the entire product organization, in 
+addition to other product-related data needs across GitLab. As such, team capacity can be 
+limited as we grow towards our [target gearing ratio](/handbook/product/product-analysis/team-processes/#gearing-ratios). 
+However, limited capacity should not stop GitLab team members from [opening issues for Product Analysis](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request), 
+it simply means that lower-priority requests will have to wait until resources are available. 
+As the group grows, so will our ability to turn around requests in a shorter period of time.
 
 ### Office Hours
 
-In order to start supporting more PMs across GitLab, the Product Analysis team is launching an 
-office hours pilot. Office hours will be held every other Wednesday, alternating between <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time> 
-and <time datetime="21:00">9 pm UTC (4 pm ET / 1 pm PT)</time>. While the pilot is intended to enable us to support PMs across the organization, 
-all GitLab team members are welcome to join.
+In order to support more PMs across GitLab, the Product Analysis team offers office hours. 
+Office hours are held every other Wednesday, alternating between <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time> 
+and <time datetime="21:00">9 pm UTC (4 pm ET / 1 pm PT)</time>. While our primary stakeholders 
+are PMs across the organization, all GitLab team members are welcome to join.
 
 The intent of office hours is to give PMs faster access to the team and get support for smaller 
 tasks, brainstorming, and data self-service. More formal requests that answer more complex 
 questions are captured in issues and go through a more rigorous, structured prioritization process.
 
 #### How to Sign Up
-
-This is currently a pilot program. We expect to make adjustments and iterate over time to maximize 
-our level of support.
-{: .alert .alert-info}
 
 The [agenda](https://docs.google.com/document/d/1ZXS-eeZNuRUn7176dZFqsyhIU-DSWYvWuEhogpbTzys/edit#) 
 is first-come, first-served. Walk-ins/drop-ins are always welcome, but if possible, please add 
@@ -347,6 +347,10 @@ office hours.
 the Product Analysis team's asynchronous daily stand-up, powered by [Geekbot](https://geekbot.com/)
 1. [#data](https://gitlab.slack.com/messages/data/) - For general data questions
 1. `@product-analysts` - Notifies the entire Product Analysis team
+1. `@randdanalyticstriage` - Notifies the entire Product Analysis team and the Data 
+team's R&D Fusion group, per the [Enterprise Data Triage Program](/handbook/business-technology/data-team/how-we-work/triage/#enterprise-data-program-triage)
+1. `@functional-data-analysts` - Notifies the entire Product Analysis team and other functional 
+analysts across the GitLab Data Program
 
 ### GitLab Groups
 
