@@ -62,6 +62,15 @@ Below are a few guidelines the team follows in the day-to-day work.
   1. Prioritize bugs for the current milestone. 10% of scheduled work should be focused on bugs 
   1. Schedule bugs for future milestones based on capacity, severity, priority, and relationship to any scheduled work
 
+### Breaking changes process
+
+Before a major milestone starts, we prepare an epic with all the breaking change issues linked. We work to get approvals as usual, but keep the MR in draft to prevent it from merging before the major milestone.
+If an MR is independent, we can have `master` as a target branch. If not, then we can have a sequence of MRs with target branches set to each other.
+As soon as the first one merges, the next will automatically target `master`.
+
+Every MR that was created before the breaking change milestone should have this or similar warning in the description: `:warning: This MR must be kept as draft and cannot be merged until **DATE** :warning:`
+
+
 ### Advanced Global Search Rollout on GitLab.com
 
 The team has been actively working on enabling Elasticsearch powered Advanced Search on GitLab.com. [Based on our analysis](https://gitlab.com/groups/gitlab-org/-/epics/1736), we set our first target to rolling this feature out for all the paid groups on GitLab.com. You can find more details about the timeline and progress in the links below.
