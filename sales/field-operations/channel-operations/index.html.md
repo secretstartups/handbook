@@ -86,7 +86,7 @@ When onboarding a new partner that will be purchasing directly from GitLab, a bi
 When a deal is being transacted via the Channel, and a discount other than the defined Program discounts are being offered, a GitLab quote is ***required***. At a minimum, a [Draft Proposal](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-draft-proposal) needs to be created and provided to the Partner.
 Discounted quotes not in SFDC and sent to a Partner are not permitted within any GEO or Sales Segment. This includes providing product and discounted pricing quote details in an email.  
 
-For ease with quoting, there is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1dTLM8KzEk_cPUrpzwg3o56xX8zM49txF7-XhPeiegXA/edit?usp=sharing) for use by internal GitLab Team Members.
+For ease with quoting, there is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) for use by internal GitLab Team Members.
  
 ### Opportunity Requirements to Request a Quote
 Sales Reps are responsible for quoting all GitLab direct and reseller-direct quotes. For quotes going through distribution, chatter @Partner Help Desk on the opportunity with the following information:
