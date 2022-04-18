@@ -243,7 +243,6 @@ In order to rank accounts each Enterprise Sales rep would update the 'Account Ra
 #### Definitions for Enterprise Account Ranking: 
 
 * **Rank 1** highest priority accounts that require both sales focus, sales development, and marketing support in the next quarter. These are the accounts reviewed in QBR's each quarter by sales and include both Land and Expand accounts. 
-* **Rank 1.5** quarterly ABM nominations: should match all of Rank 1 criteria
 * **Rank 2** accounts that match our ICP and should be a focus for sales and marketing in the current FY but are not a Rank 1 account. Should include both Land and Expand.
 * **Rank 3** don't match our current ICP but are strategic for sales & GitLab in the region. Should include both Land and Expand
 
