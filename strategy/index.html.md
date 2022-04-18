@@ -177,7 +177,11 @@ Legend with links to the relevant metrics:
 
 ## Publicly viewable OKRs and KPIs
 
-To make sure our goals are clearly defined and aligned throughout the organization, we make use of [Objectives and Key Results (OKRs)](/company/okrs/){:data-ga-name="OKRs"}{:data-ga-location="body"} and [Key Performance Indicators (KPIs)](/handbook/ceo/kpis/){:data-ga-name="KPIs"}{:data-ga-location="body"} which are both publicly viewable.
+To make sure our goals are clearly defined and aligned throughout the organization, we make use of [Objectives and Key Results (OKRs)](/company/okrs/){:data-ga-name="OKRs"}{:data-ga-location="body"} and [Key Performance Indicators (KPIs)](/handbook/ceo/kpis/){:data-ga-name="KPIs"}{:data-ga-location="body"} which are both publicly viewable. 
+
+## North Start KPI
+
+Our North Star KPI is [Net ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#net-arr){:data-ga-name="net arr"}{:data-ga-location="body"} vs. plan. While our ARR data is [limited access](/handbook/communication/#limited-access) given that it is [material nonpublic information (MNPI)](/handbook/product/product-safe-guidance/#materially-non-public-information), ARR versus plan is a leading indicator of our likelihood of success in achieving revenue targets. Predictable revenue attainment is critical for continued business success.
 
 ## Plan
 
