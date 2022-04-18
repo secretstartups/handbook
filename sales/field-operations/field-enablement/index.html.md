@@ -190,11 +190,11 @@ Knowledge x Practice = Capability
     - [Allison Gleisner](/company/team/#agleisner) 
 - **[Field Enablement Program Managers](/job-families/sales/program-manager-field-enablement/)**
     - [John Blevins](/company/team/#jblevins608) (Program Manager, Field Onboarding and Continuous Education)
-    - David Hernandez (_coming soon_)(Sr. Program Manager, Field Manager Development)
+    - [David Hernandez](/company/team/#dhernandez26) (Sr. Program Manager, Field Manager Development)
 - **[Field Communications & Content](/job-families/sales/field-communications)**
     - [Monica Gomez](/company/team/#monicaj) (Manager, Field Communications & Content)
     - [Shannon Thompson](/company/team/#shannonthompson) (Field Communications Specialist)
-    - [Andy Brink](/company/team/#andybrink) Program Manager, Sales Content
+    - TBH (Program Manager, Sales Content)
 
 
 </details>
