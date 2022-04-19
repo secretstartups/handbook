@@ -41,6 +41,7 @@ The Learning & Development team has a number of resources to help team members l
   <div>
     <a href="/handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
     <a href="/handbook/leadership/coaching/" class="btn btn-purple" style="width:200px;margin:5px;">Coaching</a>
+    <a href="/handbook/people-group/learning-and-development/learning-initiatives/slack-training/" class="btn btn-purple" style="width:200px;margin:5px;">Slack Training</a>
   </div>
 </div>
 
