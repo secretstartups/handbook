@@ -336,6 +336,18 @@ Support will take the lead on all incoming requests in the queue and only forwar
 
 - In weekly communication with your direct management review the health of your pipeline and update records as needed in real-time. You should know at all times what your pipeline multiplier is and if you need to create more pipeline to have a successful month and quarter. Refer to your team's **Pipeline Generation** checklist documents and the associated SFDC reports associated with keeping activity up to date.
 
+#### Commercial Sales Stages Activities and Exit Criteria
+
+- Pipeline management is key to predictable, scalable revenue attainment and can make the difference between simply hitting your number and overachieving. Proper sales pipeline management helps you allocate your time correctly, increase deal velocity, and increase total deal volume, size, and revenue through accurate forecasting practices.
+- A well-managed sales pipeline requires a clear process with defined activities and exit criteria that serve as a roadmap to getting a deal from discovery to closed won (or qualified out quickly). The following process is specific to the Commercial Sales team and will ensure you have a clean pipeline and accurate forecast. 
+- [Detailed Exit Stage Criteria Google Sheet](https://docs.google.com/spreadsheets/d/1tVtJvfSsmWL2L1vTcJZgARlzC9Qy3Ae7pPqGBH9_KOQ/edit#gid=1399111321)
+- [Exit Criteria at a Glance](https://gitlab.highspot.com/items/6245c14f198094aabf1cfe52?lfrm=srp.0)
+
+![comm-sales-stages-exit-criteria](/handbook/sales/commercial/comm-sales-opp-stages/comm-sales-stages-exit-criteria.png)
+
+- Please read through the [Commercial Sales Opportunity Stages handbook page](https://about.gitlab.com/handbook/sales/commercial/comm-sales-opp-stages/) for more information.
+
+
 #### Web Direct Oppty Management in Salesforce
 
 - Find the report view for all CFQ "current fiscal quarter" Web Direct purchases in your territory "SMB_Web Directs CFQ _name":
