@@ -89,6 +89,8 @@ If you need to report a bug or incident to us, please do so using the bug report
 
 For maintenance and enhancement of existing integrations please submit an issue using the correct [template below](#create-an-issue).
 
+To learn about our processes please visit the [sdlc](./sdlc) page
+
 ### How to engage us
 
 #### Create an issue

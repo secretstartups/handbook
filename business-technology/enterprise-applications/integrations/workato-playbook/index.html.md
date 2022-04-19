@@ -17,7 +17,7 @@ Please join [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) 
 * Get tips and tricks from the integrations team and other Workato users at GitLab
 * Hear about upcoming integrations programs
 
-### How request access?
+### How to request access?
 To get started with Workato, please create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and assign it to @dparker or @karuna16. In the the AR, please include the following details:
 
 - [ ] your orgnizational team
@@ -48,8 +48,23 @@ Once the AR is approved and closed, you'll see the Workato app on your Okta home
   ![workato landing page](workato-landing-page.png)
 
   ![left panel](left-panel-details.png)
+
 </details>
 
+##### Facing issue in Workato Okta App?
+There's a common issue the users face while using the Okta SSO app for logging in any Workato workspace for the first time. On clicking the app, you're often redirected to password input page (as shown in screenshot below)
+
+![workato login](workato-login.png)
+
+Here's a 3-Step process to self troubleshoot the issue, if you dont remember your password or have not set earlier ever:
+
+1. Go to Workato users [signing page](https://app.workato.com/users/sign_in) and click forgot password.
+2. You'll receive password reset e-mail. Click the link to create/change your password.
+3. Use this one to login via Okta workspace app.
+
+_Pro tip_ :zap:  Save this password in 1Password for future reference.
+
+For any other login issue related queries, please use the slack channel [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS)
 
 ### Workato Ramp-up programs
 There are a number of short courses available on the Workato Automation Institution website for all levels of Workato experience - Beginner, Intermediate and Advanced. Select the course that best fits your level of experience with Workato and helps you learn what you need for your project. If you are unsure about which course to pick, contact the integrations team in `#bt-integrations` on Slack.
@@ -120,12 +135,33 @@ While using Workato for building recipes, here are some basic best practices tha
 
 
 ### How do I promote my recipes to production?
-Currently, we're using Workato's `Recipe Lifecycle Management` tool to promote assets from one worksapce to another. This is how you would promote what is built in `dev` to `prod` without needing to recreate it.
+Currently, we're using Workato's `Recipe Lifecycle Management` tool to promote assets from one workspace to another. This is how you can promote what is built in `dev` to `prod` without needing to recreate it.
+
+Also, we're in the process of locking down prod for any dev activities. Soon you won't be able to create or edit recipes in prod. In case, you need to move your recipes, please follow this step-by-step [guide](https://docs.google.com/document/d/1lo0ySrYwBmY0X_AwzJTDxXU5Bv5NWB8lYxoa_bAP-6s/edit?usp=sharing) on how you can create an issue request for prod deployments and assign it to the integration team.
 
 Aside from that, we are actually going to be migrating to Workato Environments soon which further streamlines RBAC and the deployment process so that it's even easier than the `Recipe Lifecycle Management` that we have today. You can read more about it [here](https://www.workato.com/product-hub/democratize-change-management-with-environments/).
 
-#### How to deploy recipes?
-Check out the [video](https://youtu.be/WfehKT5nnGo?t=365) to learn step-by-step how to use `Recipe Lifecycle Management` to promote your recipes and other assets to Production.
+#### How to import and export deployment manifests?
+Check out the [video](https://youtu.be/WfehKT5nnGo?t=365) to learn how to use `Recipe Lifecycle Management` to promote your recipes and other assets to Production.
+
+#### Need help in designing recipes in workato?
+Please reach out to us on [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) Slack channel with your business case and we can help you on design your recipe workflow and what all in Workato are available as an out-of-the-box solution and for what you require custom coding. 
+
+
+<details>
+  <summary markdown="span">Click to understand through a sample use case</summary>
+  Problem statement: Generate monthly invoice email and send it to a group of recipients. The pdf is generated from a template with billing details fetched from google sheets. Also, send slack notification in the channel of invoice circulation. (members of slack channel are same as email recipients group)
+  Solution Proposed: The recipe flow will look something like this:
+
+  ```mermaid
+graph TD
+    A[Scheduled Trigger] -->|1st of every month| B(Source - Google drive connector)
+    B --> |Read data from google sheets| C(Fill in data in Message Template)
+    C --> |message template used in as email template| D(Use gmail connector to send bulk emails)
+    D --> E(Slack connector to send message notification in channel)
+```
+
+</details>
 
 ### Coming soon...
 Join the [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) Slack channel to hear more information about upcoming programs
@@ -133,3 +169,5 @@ Join the [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) Sla
 #### 🚀 Soon to launch:
 - Workato Champion Program
 - Workato CI/CD automation
+- Sample projects or plug-and-play solutions involving common GitLab applications.
+
