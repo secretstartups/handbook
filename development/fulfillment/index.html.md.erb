@@ -80,7 +80,7 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 
 **Technical Writing**
 
-<% fulfillment_tw = %w[sselhorn] %>
+<% fulfillment_tw = %w[fneill] %>
 <% fulfillment_tw_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_tw.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: fulfillment_tw_members }) %>
 
@@ -92,25 +92,25 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 
 ### Enterprise Applications
 
-<% ent_apps = %w[ccnelson dparker mquitevis courtmeddaugh jesssalcido] %>
+<% ent_apps = %w[ccnelson dparker mquitevis jesssalcido] %>
 <% ent_apps_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| ent_apps.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: ent_apps_members }) %>
 
 ### Sales Ops
 
-<% sales_ops = %w[james_harrison jbrennan1 mroark1] %>
+<% sales_ops = %w[james_harrison jbrennan1 cfarris jdbeaumont jrabbits] %>
 <% sales_ops_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales_ops.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: sales_ops_members }) %>
 
 ### Enterprise Sales
 
-<% enterprise_sales = %w[mpyle alliemarconi] %>
+<% enterprise_sales = %w[mpyle] %>
 <% enterprise_sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| enterprise_sales.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: enterprise_sales_members }) %>
 
 ### Commercial Sales
 
-<% commercial_sales = %w[ronell] %>
+<% commercial_sales = %w[ronell alliemarconi kkutob] %>
 <% commercial_sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| commercial_sales.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: commercial_sales_members }) %>
 
@@ -125,6 +125,20 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 <% billing_ar = %w[s_mccauley annapiaseczna] %>
 <% billing_ar_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| billing_ar.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: billing_ar_members }) %>
+
+### Customer Success
+
+<% customer_success = %w[dsakamoto] %>
+<% customer_success_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| customer_success.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: customer_success_members }) %>
+
+### Support Engineering
+
+<% support_engineering = %w[jlyttle] %>
+<% support_engineering_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| support_engineering.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: support_engineering_members }) %>
+
+
 
 ## Project management process
 
