@@ -36,7 +36,7 @@ We hold regular AMAs:
 
 Of the [Data Team's Responsibilities](/handbook/business-technology/data-team/#responsibilities), the Data Science Team is **directly responsible** for:
 
-- Delivering _descriptive_, _predictive_, and _prescriptive_ solutions that promote and improve [Gitlab's KPIs](https://about.gitlab.com/company/kpis/)
+- Delivering _descriptive_, _predictive_, and _prescriptive_ solutions that promote and improve [GitLab's KPIs](https://about.gitlab.com/company/kpis/)
 - Being a **_Center of Excellence_** for predictive analytics and supporting other teams in their data science endeavors 
 - Developing tooling, processes, and best practices for data science and machine learning
 
@@ -48,9 +48,9 @@ Additionally, the Data Science Team **supports** the following responsibilities:
 - With the [**Data Platform Team**](/handbook/business-technology/data-team/organization/engineering/):
   - Defining and championing data quality best practices and programs for GitLab data systems
   - Deploying data science models, ensuring data quality and integrity, shaping datasets to be compatible with machine learning, and brining new datasets online
-  - Creating data science pipelines that work natively with the Gitlab platform and the Data Team tech stack
+  - Creating data science pipelines that work natively with the GitLab platform and the Data Team tech stack
 - With the [**Data Analytics Team**](/handbook/business-technology/data-team/organization/analytics/):
-  - Incorpating data science into analytics initiatives
+  - Incorporating data science into analytics initiatives
   - Designing dashboard to enhance the value and impact of the data science models
 
 ## How We Work
@@ -68,7 +68,7 @@ graph BT;
 
 ## What is Data Science?
 
-Check out this brief overview of what data science is at Gitlab:
+Check out this brief overview of what data science is at GitLab:
 
 <!-- blank line -->
 <figure class="video_container">
@@ -78,7 +78,7 @@ Check out this brief overview of what data science is at Gitlab:
 
 ([Corresponding slides](https://docs.google.com/presentation/d/1Y-V6bZ5w8Ms5yfMiuYCYZs9ald7Q5MxydYhSh9DWwwQ/edit?usp=sharing))
 
-### Data Science Tools at Gitlab
+### Data Science Tools at GitLab
 
 - **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out our [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
 - **[gitlabds python tools](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via [pypi](https://pypi.org/project/gitlabds/) (`pip install gitlabds`), or use as part of the above JupyterLab image.
@@ -88,9 +88,9 @@ Check out this brief overview of what data science is at Gitlab:
 
 - **Algorithm** -  sequence of computer-implementable instructions used to solve specific problem
 - **Classification** - process of predicting a category for each observation. For example, determining if a picture is of a cat or a dog. 
-- **Clustering** - process of finding natural groupings of observations in dataset. Often used for segmenation of users or customers.
+- **Clustering** - process of finding natural groupings of observations in dataset. Often used for segmentation of users or customers.
 - **Data Science (DS)** - interdisciplinary field that uses computer science, statistical techniques and domain expertise to extract insights from data
-- **Feature** - single column in dataset that can be used for analysis, such as country or age. Also refered to as variables or attributes 
+- **Feature** - single column in dataset that can be used for analysis, such as country or age. Also referred to as variables or attributes
 - **Feature Engineering** -  process of selecting, combining and transforming data into features that can be used by machine learning algorithms 
 - **Imputation** - process of replacing missing or incorrect data with statistical "best guesses" of the actual values
 - **Machine Learning (ML)** - use and development of algorithms without being explicitly programmed to determine patterns in data
@@ -106,21 +106,20 @@ Check out this brief overview of what data science is at Gitlab:
 | ----- | -----| -----| ----- | ----- | ----- |
 | [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-expand) (PtE) | Complete | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales | Last update: FY23-Q1, Next update: FY23-Q2 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results), [Epic](https://gitlab.com/groups/gitlab-data/-/epics/340) |
 | [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Viable | Determine which paid accounts are likely to reduce their ARR by > 10% in next 3 months | Customer Success | Last update:  FY23-Q1, Next update: FY23-Q2 |[PtC slide deck](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [PtC Inspector](https://app.periscopedata.com/app/gitlab/990981/PtC-Inspector), [PtC Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/971930/PtC-Results-2021-12-to-2022-02), [Epic](https://gitlab.com/groups/gitlab-data/-/epics/382)|
-| [Namespace Segmentation](https://gitlab.com/gitlab-data/namespace-segmentation) | Viable | Define groups for paid and free SaaS namespaces based on its product usage and impact on conversions | Growth | Started in FY23-Q1 | [Epic](https://gitlab.com/groups/gitlab-data/-/epics/488)
-[Namespace Segmentation slide deck](https://docs.google.com/presentation/d/1HsyzflYcXedBm75A4Wkdp2TdbV5ikcjr8zEZoUzFN2o/edit#slide=id.g122f5829a10_0_143) 
-[Namespace Segmentation Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1014510/Draft:-Namespace-Segmentation) | 
+| [Namespace Segmentation](https://gitlab.com/gitlab-data/namespace-segmentation) | Viable | Define groups for paid and free SaaS namespaces based on its product usage and impact on conversions | Growth | Started in FY23-Q1 | [Epic](https://gitlab.com/groups/gitlab-data/-/epics/488), [Namespace Segmentation slide deck](https://docs.google.com/presentation/d/1HsyzflYcXedBm75A4Wkdp2TdbV5ikcjr8zEZoUzFN2o/edit#slide=id.g122f5829a10_0_143), [Namespace Segmentation Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1014510/Draft:-Namespace-Segmentation) |
 | Trial Conversion | Planned | Identify which trial accounts are likely to become paid accounts | Growth | Start in FY23-Q1 | | 
 | Golden Journey | Planned | Identify optimal paths to increasing platform usage and adoption | Growth |  Start in FY23-Q2 | | 
 | Stage Adoption MRI | Planned | - | | Start in FY23-Q2 | | 
 | Product Usage Event | Planned | - | | Start in FY23-Q3 | |
-| Marketing Lead Scoring | Planned | Identify leads most likely to convert to closed won opportunities | Marketing | Start in FY23-Q4 | |  
-| Expansion Predicted ARR | Unplanned | Predict expansion ARR dollar amount | Sales | | |  
+| Marketing Lead Scoring | Planned | Identify leads most likely to convert to closed won opportunities | Marketing | Start in FY23-Q4 | |
+| Expansion Predicted ARR | Unplanned | Predict expansion ARR dollar amount | Sales | | |
 | Community Sentiment Analysis | Unplanned | - | Product | | | 
 | Feature $ARR Uplift Prediction | Unplanned | Attribute incremental ARR lift based on feature adoption | Product | | | 
 | GitLab MLOps Product Development | Unplanned | - | Product (Taylor) | | | 
 
 ### Maturity
-Maturity of data science projects is similar to the [Gitlab product maturity model](https://about.gitlab.com/direction/maturity/):
+
+Maturity of data science projects is similar to the [GitLab product maturity model](https://about.gitlab.com/direction/maturity/):
 - **Unplanned**: Not implemented, and not yet on our roadmap.
 - **Planned**: Not implemented, but on our roadmap; executive sponsor attached to project.
 - **In Progress**: Plan established, developing model.
@@ -129,8 +128,9 @@ Maturity of data science projects is similar to the [Gitlab product maturity mod
 - **Optimized**: Fine-tuned, fully automated, and self-service; continuous model monitoring and scoring; high adoption within intended organization.
 
 ### Data Sources
+
 | Name | Current Sources | Additional Planned Sources |
-| ------ | ------ | ----- |
+| ----- | ------ | ----- |
 | PtE | Product Usage (6 months): SaaS & Self-Managed - Paid Tiers; Salesforce (Account, Opportunities, Events, Tasks); Zuora (Billing); Bizible (Marketing); Firmographics | Product Usage (12 months): SaaS & Self-Managed - Paid Tiers; Product Stage Usage (12 months): SaaS & Self-Managed - Paid Tiers; ZenDesk (help tickets) |
 | PtC | Product Usage (6 months): SaaS & Self-Managed - Paid Tiers; Product Stage Usage (6 months): SaaS & Self-Managed - Paid Tiers; Salesforce (Account, Opportunities, Events, Tasks); Zuora (Billing); Bizible (Marketing; ZenDesk (help tickets); Firmographics | Product Usage (12 months): SaaS & Self-Managed - Paid Tiers; Product Stage Usage (12 months): SaaS & Self-Managed - Paid Tiers |
 | Namespace Segmentation | Product Usage (9 months): SaaS & Self Managed - Free and Paid Tiers; Product Stage Usage (9 months): SaaS & Self Managed - Free and Paid Tiers; Salesforce (Account); Zuora (Billing); Bizible (Marketing) | Product Usage (12 months): SaaS & Self Managed - Free and Paid Tiers; Product Stage Usage (12 months): SaaS & Self Managed - Free and Paid Tiers |
@@ -150,7 +150,7 @@ The Data Science Team follows [Cross-Industry standard process for data mining (
 
 1. **Business Understanding**
 
-    - Includes requirements gathering, stakeholders interviews, project definition, product user stories, and potential use cases in order to estabilish success criteria of the project. 
+    - Includes requirements gathering, stakeholders interviews, project definition, product user stories, and potential use cases in order to establish success criteria of the project.
 
 1. **Data Understanding**
 
@@ -170,17 +170,18 @@ The Data Science Team follows [Cross-Industry standard process for data mining (
 
 1. **Deployment**
 
-    - Once the model has been approved it then gets deployed into the data science production pipeline. This process automatically updates, generates predictions, and monitors the model on a regular cadence.  
+    - Once the model has been approved it then gets deployed into the data science production pipeline. This process automatically updates, generates predictions, and monitors the model on a regular cadence.
 
-#### The Gitlab approach
-The [Data Science Team approach to model development](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/project_dev_approach/) is centered around Gitlab's value of [iteration](/handbook/values/#iteration) and the CRISP-DM standard. Our process expands on some of the 6 phrase outlined in CRISP-DM in order to best address the needs of our specific business objectives and data infrastructure.
+#### The GitLab approach
+
+The [Data Science Team approach to model development](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/project_dev_approach/) is centered around GitLab's value of [iteration](/handbook/values/#iteration) and the CRISP-DM standard. Our process expands on some of the 6 phrase outlined in CRISP-DM in order to best address the needs of our specific business objectives and data infrastructure.
 
 ## Data Science Platform
 
 Our current platform consists of:
 - the [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/) for storing raw and normalized source data as well as final model output for consumption by downstream consumers
 - [JupyterLab](/handbook/business-technology/data-team/platform/jupyter-guide/) for model training, tuning, and selection
-- [Gitlab](https://gitlab.com/) for collaboration, project versioning, and score code management
+- [GitLab](https://gitlab.com/) for collaboration, project versioning, and score code management
 - [Airflow](/handbook/business-technology/data-team/platform/infrastructure/#airflow) for automation and orchestration
 
 Over time we plan to dogfood as many components of the GitLab MLOps Stage as possible, leading to fully automated productionalized pipelines. However,  the [MLOps Stage is currently incubating](/handbook/engineering/incubation/mlops/) and is not yet ready for our use. Our immediate next step is to automate `Current State Data Flows` using a combination of python and airflow.
@@ -200,8 +201,8 @@ graph
     F[Enterprise Data Warehouse: Model Output for Consumption]
     D[Salesforce: CRM Use Cases]
     E[Sisense: Inspector and Operations Dashboards]
-    G[Gitlab: Source Code Management]
-    A --> |ODBC| B 
+    G[GitLab: Source Code Management]
+    A --> |ODBC| B
     B --> G
     G --> B
     G --> C
@@ -212,6 +213,6 @@ graph
 
 ## Useful Data Science & Machine Learning Resources
 
-- **_Python Data Science Handbook_** by Jake VanderPlas: Great for beginngers looking to learn python and dip their toes into data science.
+- **_Python Data Science Handbook_** by Jake VanderPlas: Great for beginners looking to learn python and dip their toes into data science.
 - **_Python Machine Learning_** by Sebastian Raschka & Vahid Mirjalili: More advanced topics with the assumption of a basic level of python.
-- **_The Elements of Stastical Learning, Data Mining, Inference, and Prediction_** by Trevor Hastie, Robert Tibshirani, & Jerome Friedman: Great deep dive into all the statistics and logic behind many of the commonly used predictive techniques. Can be pretty stats/math heavy at time.
+- **_The Elements of Statistical Learning, Data Mining, Inference, and Prediction_** by Trevor Hastie, Robert Tibshirani, & Jerome Friedman: Great deep dive into all the statistics and logic behind many of the commonly used predictive techniques. Can be pretty stats/math heavy at time.
