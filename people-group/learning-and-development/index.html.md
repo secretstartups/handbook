@@ -15,7 +15,7 @@ The Learning & Development team has a number of resources to help team members l
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Manager Training</a>
+    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Transitioning to a Manager Role</a>
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/" class="btn btn-purple" style="width:200px;margin:5px;">Growth & Development Benefit</a>
     <a href="/handbook/people-group/learning-and-development/career-development/" class="btn btn-purple" style="width:200px;margin:5px;">Career Development & Mobility</a>
   </div>
@@ -49,6 +49,7 @@ The Learning & Development team has a number of resources to help team members l
   <div>
     <a href="/handbook/sales/field-manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Field Manager Development</a>
     <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Initiatives</a>
+    <a href="/handbook/people-group/learning-and-development/manager-development/life-labs-learning" class="btn btn-purple" style="width:200px;margin:5px;">LifeLabs Learning</a>
   </div>
 </div>
 
