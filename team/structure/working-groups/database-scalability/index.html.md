@@ -155,7 +155,7 @@ It is important we settle on specific nomenclature. Currently, there is a fair a
 #### Decompose GitLab's database to improve scalability
 
 1. Epic/Issue: https://gitlab.com/groups/gitlab-org/-/epics/6168
-1. DRI: Craig Gomes
+1. DRI: Nick Nguyen
 
 #### CI/CD Data Model
 
@@ -170,7 +170,7 @@ It is important we settle on specific nomenclature. Currently, there is a fair a
 | Executive Stakeholder                    | Eric Johnson                    | Chief Technology Officer |
 | Functional Lead                          | Kamil Trzciński                 | Distinguished Engineer, Ops and Enablement (Development) |
 | Functional Lead                          | Jose Finotto                    | Staff Database Reliability Engineer (Infrastructure) |
-| Facilitator/DRI                          | Craig Gomes                     | Sr. Engineering Manager, Datastore |
+| Facilitator/DRI                          | Nick Nguyen                     | Sr. Engineering Manager, Datastore |
 | DRI - Ops Section                        | Sam Goldstein                   | Director of Engineering, Ops |
 | DRI - Infrastructure                     | Steve Loyd                      | VP of Infrastructure |
 | Member                                   | Gerardo "Gerir" Lopez-Fernandez | Engineering Fellow, Infrastructure |
