@@ -54,7 +54,7 @@ This page outlines the Quote to Cash process. Topics include account and opportu
 
 1. Click on the Accounts tab in Salesforce.
 2. Click the "New" button.
-3. Select either "Standard" or "Channel" record type. Each record tgype will have a different account layout.
+3. Select either "Standard" or "Channel" record type. Each record type will have a different account layout.
     * "Standard" = all non-reseller/distributor accounts
     * "Channel" - only reseller/distributor accounts (note: sales should not create channel accounts, see point 6)
     * Note: Partners who are also customers must have two separate accounts - one Channel type account, and one Standard type account.
