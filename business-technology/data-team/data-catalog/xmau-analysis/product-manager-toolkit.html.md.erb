@@ -59,13 +59,13 @@ Parameters (use the Google Spreadsheet instead!):
     - If the target it between 0-1, then it's considerd to be the a percentage change from the last value. 
     - If the target is greater than 1, then the target is added as a scalar.
 
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10690032, dashboard: 793297, embed: 'v2') %>">
+Example chart: [Release Management - Estimated Paid GMAU](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690032&udv=0)
 
 #### You can actually do it with any of your metrics
 
-The snippet [td_xmau] could actually be used with any metrics. The embedded chart below is an example that charts the Estimated number of people using our wiki page.
+The snippet [td_xmau] could actually be used with any metrics. The linked chart below is an example that charts the Estimated number of people using our wiki page.
 
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10690032, dashboard: 793297, embed: 'v2') %>">
+Example chart: [wiki action - Estimated PI](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10787341&udv=0)
 
 To build the snippet for your metric, you can go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit?usp=sharing) and select for the column `which xMAU` `PI`.
 
@@ -104,8 +104,6 @@ Then you will be able to get a dataset with the following potential breakdowns:
 
 Example chart: [td_xmau_metrics_recorded_metric_value: Metric Value split by delivery](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10999660&udv=0)
 
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10999660, dashboard: 793297, embed: 'v2') %>">
-
 ### Recorded Monthly Metric Value Change with Total: [td_xmau_metrics_recorded_metric_value_with_total(metrics_path)]
 
 This snippet extends `td_xmau_metrics_recorded_metric_value` with a total line.
@@ -130,9 +128,7 @@ The snippet [td_xmau_metrics_instance_count] shows you how many instances have u
 
 To help you build the snippet, we created [this spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit#gid=1727173902). You will need to just pick a value for each of the dropdowns in column B and then copy the value showed in B6 and put it in a New Chart in SiSense.
 
-Example chart:
-
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10755606, dashboard: 793297, embed: 'v2') %>">
+Example chart: [Number of Instances using CI Pipelines by Edition](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10755606&udv=0)
 
 ### Monthly Metrics Instance Adoption: [td_xmau_metrics_instance_adoption(breakdown, metrics_path)]
 
@@ -180,7 +176,7 @@ You can [find the `metrics_path` used for this snippets as described above](#usa
 Using the [td_xmau_monthly_change_breakdown] you will be able to create a chart that looks like this:
 The snippet allows you to quickly see the number of tracked instances with decreasing, increasing usage or newly added by month.
 
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10768920, dashboard: 793297, embed: 'v2') %>">
+Example chart: [Monthly breakdown change - Issues](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10768920&udv=0)
 
 ## How to show dynamic targets on your widgets?
 

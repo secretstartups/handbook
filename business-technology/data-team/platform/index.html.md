@@ -12,15 +12,27 @@ description: "GitLab Data Team Platform"
 
 {::options parse_block_html="true" /}
 
+{::options parse_block_html="true" /}
+
+<div class="panel panel-gitlab-orange">
+**This is a Controlled Document**
+{: .panel-heading}
+<div class="panel-body">
+
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+
+</div>
+</div>
 ---
 
 ## <i class="fas fa-map-marked-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Quick Links
- 
+
 - [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure/)
-- [Data pipelines](/handbook/business-technology/data-team/platform/pipelines/)
+- [Data Pipelines](/handbook/business-technology/data-team/platform/pipelines/)
 - [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs/)
 - [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide/)
 - [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw/)
+- [Data Pump](/handbook/business-technology/data-team/platform/#data-pump)
 - [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/)
 - [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
 - [Python Guide](/handbook/business-technology/data-team/platform/python-guide/)
@@ -55,7 +67,7 @@ We currently use [Stitch](https://www.stitchdata.com) and [Fivetran](https://fiv
 
 Stitch and Fivetran handle the start of the data pipeline themselves. This means that Airflow does not play a role in the orchestration of the Stitch- and Fivetran schedules.
 
-For source ownership please see [the Tech Stack Applications sheet (internal only).](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0)
+For source ownership please see [the Tech Stack Applications data file.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml)
 
 ### Data Sources
 
@@ -72,10 +84,11 @@ The following table indexes all of the RAW data sources we are loading into the 
 
 | [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO| MNPI | Tier | 
 |------------:|:--------:|:---------:|:--------:|:-------:|:--------:|:--------:|:--------:|
-| Adaptive | Meltano | `tap_adaptive` | | Finance | | Yes | Tier 2 |
+| [Adaptive](https://www.adaptiveplanning.com/) | Meltano | `tap_adaptive` | | Finance | | Yes | Tier 2 |
+| [Adobe / Bizible](https://experienceleague.adobe.com/docs/bizible/using/home.html) | [Airflow](https://airflow.gitlabdata.com/home) | `bizible` | `sensitive` | Marketing | 24h / 36h | No | Tier 2 |
 | [Airflow](https://airflow.apache.org/) | [Stitch](https://www.stitchdata.com/) | `airflow_stitch` | `airflow` |  Data Team | 24h / 24h | No | Tier 3 |
 | [BambooHR](https://www.bamboohr.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `bamboohr` | `sensitive` | People | 12h / 24h | No | Tier 2 |
-| Clearbit | x | x | x | x / x | | No | Tier 3 |
+| [Clearbit](https://clearbit.com/) | x | x | x | x / x | | No | Tier 3 |
 | [CustomersDot](https://customers.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `customers` | Product | 24h / x |  No | Tier 1 |
 | [Demandbase](https://www.demandbase.com/) | [Snowflake task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `demandbase` | `demandbase` | Marketing | 24h / x |  No | Tier 2 |
 | [EdCast](https://www.edcast.com//) | [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/) | `tap_edcast` | `edcast` | People | 24h / x |  No | Tier 3 |
@@ -84,16 +97,16 @@ The following table indexes all of the RAW data sources we are loading into the 
 | GitLab Ops DB | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x |  No | Tier 1 |
 | GitLab Profiler DB | x | x | x | x | x / x |  No |  Tier 3 |
 | [Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/) | [Fivetran](https://fivetran.com/) | `google_analytics_360_fivetran` | `google_analytics_360` | Marketing | 6h / 32h |  No | Tier 2 |
-| [Google Cloud Billing](https://cloud.google.com/support/billing) | x | `gcp_billing` | `gcp_billing` | Engineering | x / x |  No |  Tier 3 |
+| [Google Cloud Billing](https://cloud.google.com/support/billing) | x | `gcp_billing` | `gcp_billing` | Engineering | 24h / x |  No |  Tier 3 |
 | [Graphite API](https://graphite-api.readthedocs.io/en/latest/) | [Airflow](https://airflow.gitlabdata.com/home) | `engineering_extracts` | x | Engineering | 24h / 48h |  No |  Tier 3 |
 | [Greenhouse](https://www.greenhouse.io/) | [Sheetload](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | `greenhouse` | `greenhouse` | People | 24h / 48h |  No | Tier 2 |
 | [Handbook YAML Files](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/gitlab_data_yaml) | [Airflow](https://airflow.gitlabdata.com/home) | `gitlab_data_yaml` | `gitlab_data_yaml` | Multiple | 8h / 24h | No | Tier 2 |
 | [Handbook MR Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/handbook_mrs_extract.py) | [Airflow](https://airflow.gitlabdata.com/home) | `handbook` | `handbook` | Multiple | 24h / 24h | No | Tier 2 | 
 | [Handbook Git Log Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/values_page_extract.py) | [Airflow](https://airflow.gitlabdata.com/home) | `handbook` | `handbook` | Multiple | 1w / 1m |  No | Tier 2 |
-| [LicenseDot](https://license.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/license-gitlab-com/-/blob/master/doc/db_erd.pdf) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `license_db` | `license_db` | Product |  24 h / 48 h |  No | Tier 1 |
+| [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `license_db` | `license_db` | Product |  24 h / 48 h |  No | Tier 1 |
 | [Marketo](https://www.marketo.com/software/marketing-automation/) |  [Fivetran](https://fivetran.com/)  | `marketo` | x | Marketing | 24h / 24h |  No | Tier 2 |
 | [Netsuite](https://www.netsuite.com/portal/home.shtml) | [Fivetran](https://fivetran.com/) | `netsuite_fivetran` | `netsuite` | Finance | 6h / 24h | Yes | Tier 2 |
-| PMG | x | `pmg` | `pmg` | x | x / x | No | Tier 3 |
+| [PMG] (https://www.pmg.com/) | x | `pmg` | `pmg` | x | x / x | No | Tier 3 |
 | [PTO by Roots](https://www.tryroots.io/pto) | [Snowpipe](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `pto` | `gitlab_pto` | Engineering Productivity / People | 7 days / x | No | Tier 3 |
 | [Qualtrics](https://www.qualtrics.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `qualitrics` | `qualtrics` | Marketing | 12h / 48h | No | Tier 2 |
 | [SaaS Service Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | [Airflow](https://airflow.gitlabdata.com/home) | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x |  No | Tier 1 |
@@ -103,10 +116,17 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Thanos](https://thanos-query.ops.gitlab.net/graph)| [Snowflake Task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `prometheus` | `prometheus` | Engineering |  24 h / x |  No | Tier 3 |
 | [Version DB](https://version.gitlab.com/users/sign_in) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `version_db` | `version_db` | Product |  24 h / 48 h | No | Tier 1 |
 | [Xactly](https://www.xactlycorp.com) | [Meltano](https://meltano.com/) | `tap_xactly` | N/A | Sales | 24h / N/A |  Yes | Tier 2 |
-| [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |  No | Tier 2 |
+| [Zendesk](https://www.zendesk.com/) | [Meltano](https://meltano.com/) | `tap_zendesk` | `zendesk` | Support | 6h / 24h |  No | Tier 2 |
+| [Zendesk Community Relations](https://www.zendesk.com/) | [Meltano](https://meltano.com/) | `tap_zendesk_community_relations` | `zendesk_community_relations` | Support | 6h / 24h |  No | Tier 2 |
 | [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |  No |  Tier 3 |
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h | Yes | Tier 1 |
+| [Zuora API Sandbox](https://www.zuora.com) |  [Stitch](https://www.stitchdata.com/) | `zuora_api_sandbox_stitch` | `Legacy` | Finance | - | Yes | Tier 3 |
+| [Zuora Central Sandbox](https://www.zuora.com/) | [Fivetran](https://fivetran.com/dashboard/connectors/zuora_sandbox/zuora_central_sandbox_fivetran) | `zuora_central_sandbox_fivetran` | `zuora_central_sandbox` | Finance Sandbox | -  | Yes | Tier 3 |
 | [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h | Yes | Tier 1 |
+
+##### Source contacts 
+
+See the [source contact spreadsheet](https://docs.google.com/spreadsheets/d/1VKvqyn7wy6HqpWS9T3MdPnE6qbfH2kGPQDFg2qPcp6U/edit) for who to contact if there are any external errors. 
 
 #### Tier definition
 
@@ -129,32 +149,6 @@ Sensitive data is locked down through the security paradigms listed below;
 Sisense will never have access to sensitive data, as Sisense does not have access to any data by default.
 Sisense's access is always explicitly granted.
 
-#### DataSiren
-
-To ensure that the data team has a complete picture of where sensitive data is in the data warehouse, as well as make sure Sisense does not have access to sensitive data, a periodic scan of the data warehouse is made using dbt along with the internally-developed library of tools created as [`datasiren`](https://gitlab.com/gitlab-data/datasiren). This scan is currently executed weekly. The fine-grained results are stored in Snowflake in the `PREP.DATASIREN` schema and are not available in Periscope because of sensitivity reasons.  High-level results have been made available in Periscope, including the simple dashboard found [here](https://app.periscopedata.com/app/gitlab/793578/DataSiren).  
-
-### Qualtrics Mailing List Data Pump / Qualtrics SheetLoad
-
-The Qualtrics mailing list data pump process, also known in code as `Qualtrics SheetLoad`, enables emails to be uploaded to Qualtrics from the data warehouse without having to be downloaded onto a team member's machine first.  This process shares its name with SheetLoad because it looks through Google Sheets for files with names starting with `qualtrics_mailing_list`.  For each of the files it finds with an `id` column as the first column, it uploads that file to Snowflake.  The resulting table is then joined with the GitLab user table to retrieve email addresses.  The result is then uploaded to Qualtrics as a new mailing list.
-
-During the process, the Google Sheet is updated to reflect the process' status.  The first column's name is set to `processing` when the process begins, and then is set to `processed` when the mailing list and contacts have been uploaded to Qualtrics.  Changing the column name informs the requester of the process' status, assists in debugging, and ensures that a mailing list is only created once for each spreadsheet.
-
-The end user experience is described on the [UX Qualtrics page](/handbook/engineering/ux/qualtrics/#distributing-your-survey-to-gitlabcom-users).
-
-#### Debugging
-
-Attempting to reprocess a spreadsheet should usually be the first course of action when a spreadsheet has an error and there is no apparent issue with the request file itself.  Reprocessing has been necessary in the past when new GitLab plan names have been added to the `gitlab_api_formatted_contacts` dbt model, as well as when the Airflow task hangs when processing a file.  This process should only be performed with coordination or under request from the owner of the spreadsheet, to ensure that they are not using any partial mailing list created by the process, as well as not making any additional changes to the spreadsheet.
-
-To reprocess a Qualtrics Mailing List request file:   
-    1. Disable the Qualtrics Sheetload DAG in Airflow.  
-    2. Delete any mailing lists in Qualtrics that have been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the spreadsheet file.  
-    3. Edit cell A1 of the erroring file to be `id`.  
-    4. Enable the Qualtrics Sheetload DAG in Airflow again and let it run, closely monitoring the Airflow task log.  
-
-### Snowplow Infrastructure
-
-Refer to the [Snowplow Infrastructure page](/handbook/business-technology/data-team/platform/snowplow) for more information on our setup.
-
 ### Data Source Overviews
 
 - [Customer Success Dashboards](https://drive.google.com/open?id=1FsgvELNmQ0ADEC1hFEKhWNA1OnH-INOJ)
@@ -164,6 +158,14 @@ Refer to the [Snowplow Infrastructure page](/handbook/business-technology/data-t
     - Note that up until October 2019, the data team referred to the entire **version** data source as "pings". However, usage ping is only one subset of the version data source which is why we now use "version" or "version app" to refer to the version.gitlab.com _data source_ and "usage data" or "usage pings" or "pings" to refer to the [specific usage data feature](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) of the version data source. In the context of Data extraction, when it comes to `Service ping` data ingestion, specific details should be found in the [Service ping](handbook/business-technology/data-team/platform/pipelines/index.html.md/#service-ping) page or in the [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md) page for Service ping
 - [Salesforce](https://youtu.be/KwG3ylzWWWo)
 - [Zendesk](https://drive.google.com/open?id=1oExE1ZM5IkXcq1hJIPouxlXSiafhRRua)
+
+### DataSiren
+
+To ensure that the data team has a complete picture of where sensitive data is in the data warehouse, as well as make sure Sisense does not have access to sensitive data, a periodic scan of the data warehouse is made using dbt along with the internally-developed library of tools created as [`datasiren`](https://gitlab.com/gitlab-data/datasiren). This scan is currently executed weekly. The fine-grained results are stored in Snowflake in the `PREP.DATASIREN` schema and are not available in Periscope because of sensitivity reasons.  High-level results have been made available in Periscope, including the simple dashboard found [here](https://app.periscopedata.com/app/gitlab/793578/DataSiren).  
+
+### Snowplow Infrastructure
+
+Refer to the [Snowplow Infrastructure page](/handbook/business-technology/data-team/platform/snowplow) for more information on our setup.
 
 ## <i class="fas fa-clock fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Orchestration
 
@@ -187,7 +189,6 @@ To get access to snowflake support portal, please follow the below steps.
 - Once done you should receive the acknowledgment mail with the subject `[Request received] Case#` instantly. In case you don't receive the mail resubmit the form. 
 - Post that you will receive confirmation mail within 24 hours on your request with the subject line  `Case# -Self Register - Enable Case access`
 
-
 ### Warehouse Access
 
 To gain access to the data warehouse:
@@ -196,20 +197,6 @@ To gain access to the data warehouse:
 - Do not request a shared account - each account must be tied to a user.
 - We loosely follow the paradigm explained in [this blog post](https://blog.fishtownanalytics.com/how-we-configure-snowflake-fc13f1eb36c4) around permissioning users.
 - When asking to mirror an existing account, please note that access to restricted SAFE data will **not** be provisioned/mirrored (currently provided via `restricted_safe` role). 
-
-#### Accessing SAFE Data
-All SAFE Data are stored in tables within seperate database schemas in Snowflake. Access to 1 table provides access to all SAFE tables. Access to SAFE data requires:
-
-1. Your immediate manager's approval.
-2. Departmental VP (or equivalent) approval.
-3. Approval of the SAFE Dashboard Space Owner defined in the GitLab Dashboard Index.
-
-To gain access to SAFE Data:
-
-1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and provide your needs and intent.
-2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index) header. Approval is needed if it concerns a new Access Request(/issue). 
-3. Once the request is approved, tag the Snowflake [provisioners](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and they will process the request.
-4. After processing is complete you will be able to access SAFE Data (schemas) in Snowflake.
 
 ### Snowflake Permissions Paradigm
 
@@ -330,6 +317,26 @@ Here are the proper steps for deprovisioning existing user:
 
 For more information, watch this [recorded pairing session](https://youtu.be/-vpH0aSeO9c) (must be viewed as GitLab Unfiltered).
 
+#### Logging in and using the correct role
+
+When you apply for a Snowflake account via an AR and get access provisioned it takes until 3.00AM UTC for the change to take effect. This is because we have a script running daily to provision the access in Snowflake. When you can login, you can do this via Okta. After you logged in via Okta, you need to select the right role that is attached to your account. This is by default the same as your account and it follows the convention of your email adres minus `@gitlab.com`. 
+
+When you don’t select the right role in Snowflake, you only see the following Snowflake objects:
+
+![object_list](/handbook/business-technology/data-team/platform/object_list.png)
+
+Selecting the right role can be done via the GUI in the up right corner.
+
+![select_role](/handbook/business-technology/data-team/platform/select_role.png)
+
+1. Click on the arrow
+2. Select Switch Role
+3. Select your role. 
+  
+You can set this to your default by running the following:
+
+`ALTER USER <YOUR_USER_NAME> SET DEFAULT_ROLE = '<YOUR_ROLE>'`
+
 ### Compute Resources
 
 Compute resources in Snowflake are known as "warehouses".
@@ -341,18 +348,50 @@ The names of the warehouse are appended with their size (`analyst_xs` for extra 
 | `admin`              | This is for permission bot and other admin tasks                                                | 10                  |
 | `airflow_testing_l`  | For testing Airflow locally                                                                     | 30                  |
 | `analyst_*`          | These are for Data Analysts to use when querying the database or modeling data                  | 30                  |
+| `datasiren`          | This is used for the Data siren proces                                                          | 30                  |
 | `engineer_*`         | These are for Data Engineers and the Manager to use when querying the database or modeling data | 30                  |
 | `fivetran_warehouse` | This is exclusively for Fivetran to use                                                         | 30                  |
+| `gainsight_xs`       | This is used for gainsight data pump                                                            | 30                  |
 | `gitlab_postgres`    | This is for extraction jobs that pull from GitLab internal Postgres databases                   | 10                  |
 | `grafana`            | This is exclusively for Grafana to use                                                          | 60                  |
 | `loading`            | This is for our Extract and Load jobs                                                           | 60                  |
-| `merge_request_*`    | These are scoped to GitLab CI for dbt jobs within a merge request                               | 60                  |
+| `merge_request_xs`   | These are scoped to GitLab CI for dbt jobs within a merge request                               | 60                  |
+| `merge_request_l`    | These are scoped to GitLab CI for dbt jobs within a merge request                               | 240                 |
+| `merge_request_xl`   | These are scoped to GitLab CI for dbt jobs within a merge request                               | 120                 |
 | `reporting`          | This is for the BI tool for querying. Note that Sisense enforces a 4 minute timeout.            | 30                  |
 | `stitch`             | This is exclusively for Stitch to use                                                           | 30                  |
 | `target_snowflake`   | This is for the Meltano team to test their Snowflake loader                                     | 5                   |
-| `transforming_*`     | These are for production dbt jobs                                                               | 60                  |
+| `transforming_xs`    | These are for production dbt jobs                                                               | 120                 |
+| `transforming_s`     | These are for production dbt jobs                                                               | 120                 |
+| `transforming_l`     | These are for production dbt jobs                                                               | 240                 |
+| `transforming_xl`    | These are for production dbt jobs                                                               | 120                 |
+| `transforming_4xl`   | These are for production dbt jobs                                                               | 60                  |
+| `usage_ping`         | This is used for the service_ping and service_ping_backfill load.                               | 120                 |
 
 If you're running into query time limits consider using a larger warehouse.
+
+#### Warehouse Reporting size change
+
+Currently Sisense is using 2 users `PERISCOPE` & `SISENSE_RESTRICTED_SAFE`, both are using the warehouse `REPORTING`. This warehouse is running almost 24/7, making this the most expensive warehouse inside our Snowflake environment. To minimize the cost, we set the size of the warehouse to `MEDIUM` on peak hours (9.00AM UTC untill 9.00PM UTC on weekdays) and to `SMALL` on non peak hours (all other). The warehouse has been set in the roles.yml as standard `SMALL`, so we size up via a task inside Snowflake. Changing the size of the warehouse is done via a scheduled tasks in Snowflake.
+
+```sql
+CREATE TASK SIZE_DOWN_REPORTING_WAREHOUSE
+  WAREHOUSE = REPORTING
+  SCHEDULE = 'USING CRON 0 21 * * 1-5 UTC'
+  COMMENT = 'Task to size down the Reporting warehouse to SMALL'
+AS
+  ALTER WAREHOUSE REPORTING SET WAREHOUSE_SIZE = SMALL; 
+
+ALTER TASK SIZE_DOWN_REPORTING_WAREHOUSE RESUME;
+
+CREATE TASK SIZE_UP_REPORTING_WAREHOUSE
+  WAREHOUSE = REPORTING
+  SCHEDULE = 'USING CRON 0 9 * * 1-5 UTC'
+  COMMENT = 'Task to size up the Reporting warehouse to Medium'
+AS
+  ALTER WAREHOUSE REPORTING SET WAREHOUSE_SIZE = MEDIUM; 
+
+```
 
 ### Data Storage
 
@@ -591,7 +630,7 @@ The framework is designed to handle execution of any kind of query to perform th
 
 A new yaml file is created which is supposed to do all types of reconciliation (so its not incorporated in the existing yaml extraction manifest). Manifest file combines a group of low volume tables together and a large volume table as individual tasks. Row count test comparisons from Postgres and snowflake are stored in a snowflake table named "PROD"."WORKSPACE_DATA"."PGP_SNOWFLAKE_COUNTS".
 
-## <i class="fa fa-heart" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Data Pump
+## Data Pump
 
 ```mermaid
 graph LR
@@ -622,7 +661,7 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 
 **Step 3:** Create an [issue in the platypus project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/issues/new) using the 'change' issue template so that the Integration team can map and integrate the data into the target application.
 
-### Current Data Pumps
+### Operational Data Pumps
 
 | Model | Target system | RF | MNPI |
 | ----- | ------------- | -- | ---- |
@@ -631,6 +670,32 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 | pump_marketing_premium_to_ultimate | Marketo | 24h | No | 
 | pump_subscription_product_usage | Salesforce | 24h | No |
 | pump_product_usage_free_user_metrics_monthly | Salesforce | 24h | No |
+
+#### Marketing Data Mart to Marketo
+
+The [Email Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart/) is designed to automatically power updates to Marketo to enable creation of structured and targeted communications. 
+
+#### Trusted Data Model to Gainsight
+
+The [Data Model to Gainsight Pump](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) is designed to automatically power updates to Gainsight to enable creation of visualizations, action plans, and strategies for Customer Success to help our customers succeed in their use of GitLab.
+
+#### Qualtrics Mailing List Data Pump / Qualtrics SheetLoad
+
+The Qualtrics mailing list data pump process, also known in code as `Qualtrics SheetLoad`, enables emails to be uploaded to Qualtrics from the data warehouse without having to be downloaded onto a team member's machine first.  This process shares its name with SheetLoad because it looks through Google Sheets for files with names starting with `qualtrics_mailing_list`.  For each of the files it finds with an `id` column as the first column, it uploads that file to Snowflake.  The resulting table is then joined with the GitLab user table to retrieve email addresses.  The result is then uploaded to Qualtrics as a new mailing list.
+
+During the process, the Google Sheet is updated to reflect the process' status.  The first column's name is set to `processing` when the process begins, and then is set to `processed` when the mailing list and contacts have been uploaded to Qualtrics.  Changing the column name informs the requester of the process' status, assists in debugging, and ensures that a mailing list is only created once for each spreadsheet.
+
+The end user experience is described on the [UX Qualtrics page](/handbook/engineering/ux/qualtrics/#distributing-your-survey-to-gitlabcom-users).
+
+##### Debugging to Qualitrics PRocesses
+
+Attempting to reprocess a spreadsheet should usually be the first course of action when a spreadsheet has an error and there is no apparent issue with the request file itself.  Reprocessing has been necessary in the past when new GitLab plan names have been added to the `gitlab_api_formatted_contacts` dbt model, as well as when the Airflow task hangs when processing a file.  This process should only be performed with coordination or under request from the owner of the spreadsheet, to ensure that they are not using any partial mailing list created by the process, as well as not making any additional changes to the spreadsheet.
+
+To reprocess a Qualtrics Mailing List request file:   
+    1. Disable the Qualtrics Sheetload DAG in Airflow.  
+    2. Delete any mailing lists in Qualtrics that have been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the spreadsheet file.  
+    3. Edit cell A1 of the erroring file to be `id`.  
+    4. Enable the Qualtrics Sheetload DAG in Airflow again and let it run, closely monitoring the Airflow task log.  
 
 ## <i class="fas fa-toggle-on" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Data Spigot
 

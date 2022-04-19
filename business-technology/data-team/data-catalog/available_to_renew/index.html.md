@@ -28,7 +28,7 @@ In a subscription business, it is crucial to understand what and how much of our
 
 Additionally, to get the full picture of what is available to renew you must also determine if a subscription is a multi-year deal. If it is a multi-year deal, the subscription will be available to renew at the end of the multi-year term.
 
-The models mentioned below have been designed to do this, pulling together the universe of potential renewal subscriptions at a point in time. The snapshotting models go futher to lock in this data on a given date so we can review how the subscriptions available to renew shift over time compared to the live model.
+The models mentioned below have been designed to do this, pulling together the universe of potential renewal subscriptions at a point in time. The snapshotting models go further to lock in this data on a given date so we can review how the subscriptions available to renew shift over time compared to the live model.
 
 By using historical data, you can then put weights on the amount of money available to renew to do forecasting for future billings or bookings. This model does not fall under the purvue of the Data Team, but is an interesting use case for this particular model.
 

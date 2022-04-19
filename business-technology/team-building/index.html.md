@@ -31,6 +31,8 @@ _**Attendees:**_ Business Technology plus other departments depending on topic
 
 _**Frequency:**_ Quarterly 
 
+_**Upcoming session:**_ 2022-03-18 
+
 _**Attendees:**_ Business Technology
 
 As part of a team who partners with and supports all other departments in a growing start-up, it can become easy for all of us to focus on the priorities and needs that arise every day, month or quarter, leaving documentation and our handbook first approach as a second priority.

@@ -36,6 +36,50 @@ If you are onboarding to GitLab and will be working in the Data Program as an En
 1. Give the issue a descriptive name: `Your Name - Data Onboarding`
 1. Assign the issue to your Manager to add/remove relevant content
 
+## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Proof of Value Guide
+
+The Data Team performs Proof of Value Evaluations (PoVs) for all new technologies we are considering adding to the [Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform) or the broader [Technology stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/). This Guide is intended to help you perform a PoV efficiently and with great results.
+
+### Phase 1: Calculate Value and Define Requirements
+
+1. Establish the Value the technology can provide GitLab. Value can be measured in a variety of ways, ranging from efficiency to increased Sales to reduced compute.
+1. Create a Requirements document to define the business and technical requirements the technology must meet to be successful. Indicate whether each requirement is `Must Have` or `Nice to Have`.  Here is a template we have used for [Data Visualization PoV](https://docs.google.com/spreadsheets/d/19YGQHXb35juGRvJn-p2Xe4nNfctOJ7Ga38B0HcP2no8/edit#gid=361948716) and another we have used for [Product Analytics PoV](https://docs.google.com/spreadsheets/d/1_IQbyRbde-U29v8amTv50nLe23BcUr83v0JYQpuRfP8/edit#gid=1640029289).
+
+### Phase 2: Scoping & Policy Awareness
+
+1. Review the [Procurement New Software Guide](https://about.gitlab.com/handbook/finance/procurement/new-software/) to ensure you understand the lastest procurement process to follow.
+1. Execute an [NDA](https://about.gitlab.com/handbook/legal/NDA/) with each Vendor included in the Evaluation.
+1. Obtain preliminary pricing to help validate established budget. If no existing budget is established, work with the Department lead to determine if the project is feasible. Let's not waste time or energy for projects we can't fund.
+
+### Phase 3: Evaluation Design
+
+Evaluation Design is the most complex part of the PoV.
+
+1. Decide how to test the technology versus defined requirements. Often, successfully testing data technologies requires simulating production workloads and constructing a 'Production Level SAFE Workload' is a key challenge in a Data PoV Project.
+     * No [Red Data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#red) or [Orange Data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#orange) is ever suitable for inclusion in a PoV.
+
+### Phase 4: Procurement
+
+1. Using the Requirements design as a guide, collaborate with the Vendor to create a Statement of Work (SoW).
+     * The Statement of Work should include Success Criteria, Expectations, and a Project Timeline
+     * We do not pay for PoVs and all should be $0 Cost
+1. Along with the SoW, ask the vendor to send you their Master Services Agreement (MSA).
+1. Because request with an amount of $0 is not supported in Coupa, you need to submit the SoW and MSA to Procurement via GitLab in the Procurement [project](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues).
+   - Submit the SoW and MSA to Procurement via Coupa if the PoV amount is not $0, following this [How Do I Submit a Request to Purchase New Software?](https://about.gitlab.com/handbook/finance/procurement/new-software/#how-do-i-submit-a-request-to-purchase-new-software) guide. 
+      - The process to obtain security approvals is supported in Coupa.
+
+### Phase 5: Assessment
+
+1. Create a shared Slack Channel to coordinate the PoV with the Vendor.
+1. Reach out to the vendor for references to schedule a reference Calculate. In a reference call you can:
+    - ask about the experience with the technology.
+    - ask about their lessons learned.
+    - how we can setup for succes.
+
+### Phase 6: Wrap-Up
+
+`To Be Defined`
+
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Guides and Related Resources
 
 | Program Name | Purpose | 

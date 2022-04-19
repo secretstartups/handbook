@@ -218,7 +218,7 @@ We do not have any additional controls in place beyond the existing requirements
 
 ### What will be the change, review, and socialization process for configuration changes to Jamf?
 
-It will be no different than our current process for change management which is outlined here: [/handbook/business-technology/business-technology-change-management/](https://about.gitlab.com/handbook/business-technology/business-technology-change-management/).
+It will be no different than our current process for change management which is outlined here: [/handbook/business-technology/change-management/](https://about.gitlab.com/handbook/business-technology/change-management/).
 
 ### What options does a team member have to protect their home network privacy?
 
@@ -302,18 +302,14 @@ At this time there are no restrictions with regards to software as long as the t
 There will be a Self-Service application that is installed with Jamf and gives each team-member a curated list of applications that they can choose to install. That list currently includes things like:
 
 * 1Password
-* Alfred
-* BBedit
-* Bear
 * Calendly browser extensions
-* Clocker
+* Clockwise browser extensions
 * Firefox
 * Google Chrome
 * Google Drive Stream
 * Grammarly
 * Slack
 * VLC
-* Webex
 * Zoom
 * Zoom browser extensions
 

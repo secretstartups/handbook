@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "WIP Email Marketing Data Mart"
+title: "Email Marketing Data Mart"
 ---
 ## On this page
 
@@ -11,7 +11,6 @@ title: "WIP Email Marketing Data Mart"
 
 ---
 ## Email Marketing Data Mart
-
 
 Over the last year, our team noticed a need for a solution that helped us scale our data requests and our lifecycle marketing tactics.
 
@@ -24,6 +23,7 @@ In partnership with enterprise applications and marketing teams, we have created
 * Help you to use the [TD: Email Marketing Data Mart README](https://docs.google.com/spreadsheets/d/1z0-QQbudAYU3pYS5CrdQMoyLxMipbx0rQzKTjx6AEZo/edit#gid=1701629744) to generate email campaigns.
 * Help you understand the data models used to create the TD: Email Marketing Data Mart.
 * `Coming Soon` Assess your understanding by taking a certification most applicable to your role at GitLab.
+* How to add new fields to the Data Mart and Marketo
 * And overall help everyone contribute!
 
 ### Quick Links
@@ -96,6 +96,7 @@ Data Sources:
 * Salesforce
 * GitLab.com
 * Customers DB
+* Marketo
 
 Entity Relationship Diagram (ERD):
 
@@ -131,6 +132,22 @@ WHERE GROUP_OWNER_OF_SAAS_BRONZE_TIER = TRUE
 </details>
 <br>
 
+<style> #headerformat {
+background-color: #6666c4; color: black; padding: 5px; text-align: center;
+}
+</style>
+<h1 id="headerformat">Adding new columns to DataMart and Pump to Marketo </h1>
+
+The process to add fields to the DataMart and Pump is below. There are several teams and systems involved.
+
+1. [Create an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=new_field) with Marketing Operations team to add a new field to Marketo (and SFDC, if applicable)
+    - If field is existing, you can skip this step.
+1. Marketing Operations creates a changeset in SFDC marketing sandbox and [creates an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) to deploy the changeset. 
+1. Marketing Operations creates a [new issue](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=email_data_mart_pump_new_column) in Data Team project to add a column to the datamart.
+1. Data team triages and asks questions as neeeded.
+    -  If you have the reference SQL snippet, please add to the issue
+1. Data team creates an MR to build column in
+1. Data team [creates an issue](https://gitlab.com/gitlab-com//business-technology/enterprise-apps/integrations/platypus/-/issues/new?issuable_template=Change) to build out the integration in Platypus from the Data Mart to Marketo.
 
 
 <style> #headerformat {
@@ -188,11 +205,13 @@ The [(WIP) Enterprise Dimensional Model Validation Dashboard](https://app.perisc
   * Zuora:
   * GitLab.com
   * Customers DB
+  * Marketo: `@amy.waller`
 * Source System Subject Matter Expert:
   * Salesforce: `@jbrennan1`
   * Zuora:
   * GitLab.com
   * Customers DB
+  * Marketo `@amy.waller`
 * Data Team Subject Matter Expert: `@jeanpeguero` `@jjstark` `@iweeks`
 </details>
 

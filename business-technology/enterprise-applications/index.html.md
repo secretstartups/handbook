@@ -26,7 +26,6 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="/handbook/business-technology/enterprise-applications/bsa/" class="btn btn-purple-inv" style="width:25%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analysts</a>
-  <a href="/handbook/business-technology/it-compliance/" class="btn btn-purple-inv" style="width:25%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">IT Compliance</a>
   <a href="/handbook/business-technology/enterprise-applications/financeops/" class="btn btn-purple-inv" style="width:25%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Operations</a>
   <a href="/handbook/business-technology/enterprise-applications/integrations/" class="btn btn-purple-inv" style="width:25%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrations Engineering</a>
 </div>
@@ -53,9 +52,6 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 
 ### Integrations Engineering
 * Our integration team manages all of the integrations between Enterprise Applications at GitLab.  Focusing on building out failover, redundant and auditable integrations that are constantly monitored. Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/).
-
-### IT Audit and Compliance
-* Focusing on operationalizing and optimizing the Information Technology General Compute Controls (ITGCs) for GitLab.  This is a critical step to supporting our security posture and meeting SOX compliance and becoming a public company. Learn more in our [IT Compliance handbook page](https://about.gitlab.com/handbook/business-technology/it-compliance/).
 
 ### Project Retrospectives
 * We can host your project retrospective. Please open an issue in the [Business Technology tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new)
@@ -147,7 +143,6 @@ We also use labels to identify the responsible group within Enterprise Applicati
 - `BSA` - business systems analysts issue
 - `BT Finance Systems` - finance admin issue
 - `BT Integrations:Kanban` - integrations team issue
-- `IT Compliance` - IT compliance team
 
 # <i class="fas fa-headset" id="biz-tech-icons"></i> Contact Us
 ### Slack Channels

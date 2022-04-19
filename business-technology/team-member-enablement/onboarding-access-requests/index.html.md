@@ -39,9 +39,9 @@ However, we may be able to work out priority or overnight delivery. We will not 
 
 If you are a hiring manager or member of the hiring/recruiting team, you may check the status and content of a new hires order in the [IT Equipment Order Process Project](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/it-equipment-order-processing)
 
-Current Delivery Timelines for Gitlab Hardware
+Estimated Delivery Timelines for Gitlab Hardware
 
-US New Hires - 1-2 weeks (Apple) and 4-6 weeks (Dell)
+US New Hires - 4-6 weeks (Apple M1 Max Model) and 4-6 weeks (Dell)
 Non-US New Hires - 2-3 weeks (Apple) and 6-9 weeks (Dell)
 
 ### Key Performance Indicators
@@ -58,73 +58,65 @@ Your manager will then forward their approval to Accounting for final approval a
 
 Should a laptop not be available to a new GitLab team-member upon their start date, but is pending, interim options include:
 
-    - Using personal non-windows hardware (mac, linux, mobile)
-    - Renting and expensing non-windows hardware
+    - Using personal non-Windows hardware (Mac, Linux, Mobile)
+    - Renting and expensing non-Windows hardware
     - Purchasing and expensing (or returning) a Chromebook
 
 If in the rare case that your laptop arrives damaged or unusable prior to your start date, please reach out to your Candidate Experience Specialist and CC [itops@gitlab.com](mailto:itops@gitlab.com) for next steps on an immediate replacement or repair.
 
 ### Laptop Configurations
 
-GitLab approves the use of Apple and Linux operating systems, Windows is prohibited.
-The prohibition on Microsoft Windows is for the following reasons:
+GitLab approves the use of Linux, and Apple's macOS. Microsoft Windows is prohibited for the following reasons:
 
-- While there has been security issues with all operating systems, due to the popularity of the Windows operating system it is the main platform targeted by attackers with spyware, viruses, and ransomware.
-- macOS is pre-loaded onto Apple hardware.
-    Linux is free.
-    To take advantage of the features in Windows as a business, GitLab would have to purchase Windows Pro licensing as these business features are not available on Windows Home Edition.
+- Due to Microsoft Windows' [dominance in desktop operating systems](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Desktop_and_laptop_computers), Windows is the platform most targetted by spyware, viruses, and ransomware.
+- macOS is preinstalled on Apple computers and Linux is available free of charge. To approve the use of Windows, GitLab would have to purchase Windows Professional licenses, as Windows Home Edition does not satisfy [GitLab's security guidelines](https://about.gitlab.com/handbook/security/).
+
+
     As many purchases of laptops have occurred with employees making the purchases and then being reimbursed by GitLab, a remote employee would typically be making a purchase of a laptop pre-loaded with Windows Home Edition.
 - Windows Home Edition is notoriously [hard to secure](https://www.markloveless.net/blog/2019/1/15/dealing-with-windows-10).
 
-Further information on GitLab authorized operating systems, versions, and exception process is available on the [Approved OS's](/handbook/security/approved_os.html) page.
+Further information on GitLab authorized operating systems, versions, and exception process is available on the [Approved OSs](/handbook/security/approved_os.html) page.
 
 The operating system choices have obviously affected the hardware selection process.
 
-Apple hardware is the common choice for most GitLab team-members, but if you are comfortable using and self-supporting yourself with Linux (Ubuntu usually) you may also choose from the Dell builds below.
+Apple hardware is the common choice among GitLab team members. Team members may also select a Dell Linux laptop if they are familiar with Linux and capable of self-support.
 
 NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased Apple products only. Apple does **not** have an employee discount program for GitLab at this time.
 
 ##### Apple Hardware
 
-- Macbook Pro - 14" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB - **Performance model**
-- Macbook Pro - 16" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB or 1TB/ - **Performance model**
-- MacBook Pro - 16”  / 512 SSD / 32 RAM / i9 or i7 Intel CPU - **Legacy performance model** - Limited supply, we may offer this model depending on availability the new M1 Max model. 
+- Macbook Pro 14" and 16" - M1 Max / 10-Core CPU / 24-core GPU / 32GB Unified memory / 512GB or 1TB storage. **Performance model**
+- MacBook Pro 16” - Intel i7 or i9 / 512 SSD / 32 RAM - **Legacy performance model** - Limited supply; we may offer this model depending on availability the new M1 Max model. 
 - Macbook Pro - 13" / M1 / 16Gb / 512GB - **Standard model**
 
-Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max model. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for. 
+Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for. 
 
 
 ##### Linux Hardware
 
-Please only request a Linux laptop if you have experience with this operating system and its requirements, all others, select a MacBook.
+IT strongly encourages team members to select Macs; please only request a Linux laptop if you are experienced in Linux and capable of self-support.
 {: .alert .alert-info}
 
-We strongly encourage Macs, but we do allow Linux if you are capable of self-support and updates.
+-  \*\* Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, and Digital Production are elibible for Dell Precision Mobile Workstation laptops from the 5500 or 5700 lines. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [16” display / 512 GB SSD / 32 GB of RAM / Intel i9 or i7 CPU](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop).  
+- Everyone else is eligible for laptops from the Dell Latitude 7300 line. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [13” display / 256 GB SSD / 16 GB of RAM / Intel Quad-Core i5 CPU](https://www.dell.com/en-us/work/shop/laptops/13-7300/spd/latitude-13-7300-laptop)
 
--  \*\* For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (Dell/Linux) - The 5500 or 5700 Precision Mobile Workstation lines. Due to supply constraints, individuals may get different models from these lines. IT will work with each person to find an available model: [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU ](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop) 
 
-- Everyone Else (Dell/Linux) - The 7300 Latitude  line. Due to supply constraints, individuals may get different models from this line. IT will work with each person to find an available model: [13” / 256gig SSD / 16gigs RAM / Quad-Core i5 CPU](https://www.dell.com/en-us/work/shop/laptops/13-7300/spd/latitude-13-7300-laptop)
+\*\*NOTE: The maximum price of Linux laptops is not to exceed **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model minimum 14 days, based on your locality, prior to your desired date to receive.
 
-\*\*NOTE: Max price: **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model minimum 14 days, based on your locality, prior to your desired date to receive.
+Our **only approved Linux laptop vendor at this time is Dell**. These laptops generally come pre-loaded with Ubuntu Linux in order to save money on unused Windows licenses. Dell do not currenty sell laptops pre-installed with Linux in Australia and New Zealand; staff will need to install Linux themselves.
 
-For Linux laptops, our **standard laptop provider is Dell** which generally comes pre-loaded with Ubuntu Linux,(to save money by not purchasing a Windows license). Dell in Australia and New Zealand are unable to currrently pre load with Ubuntu Linux, so staff will need to install Linux onto the devices once they've been received.
+Dell is GitLab's exclusive Linux vendor for the following reasons:
 
-The reasons for using Dell for a Linux laptop are as follows:
-
-- There are several manufacturers of laptop systems that offer Linux, but Dell is the only major manufacturer that has done so for years, and it has already worked out shipping issues for all of the countries where GitLab employees live.
-
+- Dell has the longest history of shipping laptops with Linux pre-installed among major manufacturers.
+- Dell is able to ship laptops to all countries in which GitLab employees live.
 - As we move forward with Zero Trust networking solutions, we need to have a stable and unified platform for deployment of software components in the GitLab environment.
     Standardization on a single platform for Linux simplifies this.
+- The current Ubuntu LTS is the preferred Linux platform; Ubuntu LTS has a record of stability and quick patching.
+- Purchasing laptops from a single vendor opens the possibility of corporate discounts.
+- [Dell is a certified Ubuntu vendor](https://certification.ubuntu.com/desktop/models?query=&category=Desktop&category=Laptop&level=&release=18.04+LTS&vendors=Dell) with multiple laptop choices available. They even have their own Ubuntu OEM release of Ubuntu they maintain, and as a result of their effort, the standard Ubuntu 18.04 LTS image natively supports Dell hardware and even firmware updates.
+- To date, all of Dell's major security issues have resulted from the Windows operating system, not their hardware.
 
-- Ubuntu 18.04 LTS is the preferred platform due to both stability and an extremely fast patch cycle - important for security patches.
-
-- There are opportunities for corporate discounts in the future if we can concentrate purchases from a single vendor.
-
-- Dell is a [certified Ubuntu vendor](https://certification.ubuntu.com/desktop/models?query=&category=Desktop&category=Laptop&level=&release=18.04+LTS&vendors=Dell) with plenty of laptop choices available. They even have their own Ubuntu OEM release of Ubuntu they maintain, and as a result of their effort, the standard Ubuntu 18.04 LTS image natively supports Dell hardware and even firmware updates.
-
-- To date, all of Dell's security issues have involved their use of Windows, not their hardware.
-
-Laptops are purchased by IT Ops when a team-member comes on board; the team-member will be sent a form to fill out for ordering.
+Laptops are purchased by IT Ops during a team member's onboarding process; the team-member will be sent a form to fill out for ordering.
 
 ### Laptop Vendor Selection Criteria
 
@@ -160,7 +152,7 @@ However, if a vendor has had potential supply chain issues involving firmware or
 
 To meet compliance needs for the various certifications, programs, and industry regulations, we have to meet criteria including the ability to restrict access to sensitive data to company-issued laptops running company-monitored software.
 In many cases we need to be able to prove this via auditing, including outside auditors.
-Using one vendor for macOS (Apple by default) and one for Linux.
+Using one vendor for macOS (Apple by default) and one for Linux (Dell by default).
 A part of this process will include ensuring systems are patched, and in the Linux case we want to ensure firmware patches are applied.
 Very few hardware vendors not only supply Linux as an operating system but also provide a way to apply patches - including security patches - to firmware via the normal Linux patch process.
 
@@ -239,7 +231,7 @@ You can open an issue in the [Team Member Enablement Issue Tracker](https://gitl
 
 Do not provide the repair center with any credentials to your laptop. If they ask, you can tell them that they're authorized to do a factory reset on the laptop should it be necessary to run diagnostics. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
 
-Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process.
+Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [JAMF for Mac or DriveStrike for Linux](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe).
 
 If, however, the repair is going to be expensive and take weeks to fix and you have no back up laptop, your best option is to replace the laptop.
 
@@ -361,6 +353,7 @@ DriveStrike collects the following information for GitLab:
 - OS Version & Patch/Update status
 - Disk encryption status
 - Battery Health
+- All nearby WiFi networks, including SSID, signal strength, channel, and MAC address
 
 This light-touch reporting allows us to meet business and compliance needs, while maintaining the privacy of the GitLab team member. This will remain a top consideration throughout the process.
 
@@ -439,3 +432,62 @@ Below is a table with the current workflows setup:
   </tr>
 </tbody>
 </table>
+
+
+
+### Google Workspace Deprovisioning
+
+IT Ops has an automated workflow that triggers upon a notification from PeopleOps of a team-member offboarding. This automated workflow is composed of 2 parts that are outlined below. The first part happens within 1 hour of the offboarding. The second part occurs after 90 days of the offboarding. This workflow will send out notifications throughout this 90 day period to let the Former Team member's manager know that the final deadline is approaching.
+
+
+
+#### These are the steps that follow immediately upon termination of a team-member
+
+
+* The former team-member (FTM) is removed from all Google groups
+* The FTM’s manager is setup as a delegate to their Gmail and Google Calendar
+* The FTM’s manager gains editor privileges to all “My Drive” Google Drive Files
+* The FTM’s account is moved to the Former Team Members OU
+* Remove the FTM account from the Global Address List
+* All of the account’s sign in cookies/sessions are cleared and the account password is reset to a random 64 character password 
+* The account’s recovery email is set to null
+* The account’s recovery phone number is set to null
+* The FTM’s auto-response email message is setup.
+ 
+#### These are the steps that follow after the Former Team Member has been gone for 90 days
+
+* All of the former team-member (FTM) aliases are removed
+* Archive of all Google Drive files in the users My Drive that are marked as owner
+* These are saved in the Offboarded Users Drive Archive
+* Each user has their own folder in the following format
+* <emailUsername>_google_drive
+* The FTM’s account is suspended
+* The FTM’s account will be moved to NoGSuiteLicense OU
+* The Google Workspace License is removed from the account
+
+
+
+
+#### The following notifications will be sent out to the FTM’s manager and IT over Slack.
+
+**Immediate Slack notification:**
+
+> Hello `<Manager Firstname>``<Manager Lastname>`, you are receiving this notification to let you know that one of your direct reports `<Firstname>``<LastName>` has been deprovisioned from GitLab’s Google Workspace. In keeping with our standard offboarding policy you will receive a copy of this user’s Google Drive data as well as delegated access to their email and calendar account. This delegate access will remain available to you for 90 days after which the account will be closed, and all data will be archived. Please be sure to copy anything you wish to keep to your own account before this time. For more information about how to access this data please see information in this Handbook page (provide link).
+> 
+> You will receive another notification 30 days before and then a final notification at 1 week before this account is closed. If you have any questions about this process, or need assistance with access the data, please feel free to reach out to the Corp IT team in the #it_help Slack channel.
+
+**30 Days Slack notification**
+
+> Hello `<Manager Firstname>``<Manager Lastname>`, you are receiving this notification to let you know that one of your direct reports `<Firstname>``<LastName>` was deprovisioned from GitLab’s Google Workspace 60 days ago. In keeping with our standard offboarding policy you will continue to have delegated access to their email and calendar account for another 30 days after which the account will be closed, and all data will be archived. Please be sure to copy anything you wish to keep to your own account before this time. For more information about how to access this data please see information in this Handbook page (provide link). 
+> 
+> You will receive another notification at 1 week before this account is closed. If you have any questions about this process, or need assistance with access the data, please feel free to reach out to the Corp IT team in the #it_help Slack channel.
+
+**7 Days Slack notification**
+
+> Hello `<Manager Firstname>``<Manager Lastname>`, you are receiving this notification to let you know that one of your direct reports `<Firstname>``<LastName>` was deprovisioned from GitLab’s Google Workspace 83 days ago. In keeping with our standard offboarding policy you will continue to have delegated access to their email and calendar account for another 7 days after which the account will be closed, and all data will be archived. Please be sure to copy anything you wish to keep to your own account before this time. For more information about how to access this data please see information in this Handbook page (provide link). 
+> 
+> This is the final notification. If you have any questions about this process, or need assistance with access the data, please feel free to reach out to the Corp IT team in the #it_help Slack channel.
+
+**Final Slack notification**
+
+> The Gitlab Google Workspace account for `<Firstname>``<LastName>` has been archived after 90 days as per our standard offboarding policy.

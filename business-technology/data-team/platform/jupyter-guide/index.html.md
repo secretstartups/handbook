@@ -18,11 +18,11 @@ See related [repository](https://gitlab.com/gitlab-data/data-science)
 - Common python DS/ML libraries (pandas, scikit-learn, sci-py, etc.)
 - Natively connected to Snowflake using your dbt credentials. No login required!
 - Git functionality: push and pull to Gitlab repos natively within JupyterLab ([requires ssh credentials](https://docs.gitlab.com/ee/ssh/index.html))
-- Run any python file or notebook on your computer or in a Gitlab repo; the files do not have to be in the docker container
+- Run any python file or notebook on your computer or in a Gitlab repo; the files do not have to be in the data-science container
 - Need a feature you use but don't see? Let us know on [#bt-data-science](https://gitlab.slack.com/archives/C027285JQ4E) and we can add it!
 
 ### Getting Started
-First, you need to install and launch [Docker Desktop](https://www.docker.com/products/docker-desktop) on your local machine.
+First, you need to install and launch [Rancher Desktop](https://rancherdesktop.io/), an open-source container manager, on your local machine.
 
 You have two options when setting up jupyter via the data-science project. Choose from one of the following:
 - **Full install (Recommended)**: Installs all libraries defined by the [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile), **_plus_** a complete anaconda install.
@@ -38,7 +38,7 @@ You have two options when setting up jupyter via the data-science project. Choos
 4. Run `make jupyter-local`
 5. Jupyter should launch automatically. If it does not: 
    1. First make sure that Google Chrome is your default browser (go to "System Preferences", click "General" and choose Google Chrome from dropdown menu in section "Default web browser"). 
-   2. Then, in Chrome, copy paste the url and token found in terminal once the docker image creates. It should look something like `http://127.0.0.1:8888/lab?token=5c7f7da79f4a0968501f087f3c79ee4dd8bd7a63e0f088a8`. The token will change each time you spin up the docker container.
+   2. Then, in Chrome, copy paste the url and token found in terminal once the container creates. It should look something like `http://127.0.0.1:8888/lab?token=5c7f7da79f4a0968501f087f3c79ee4dd8bd7a63e0f088a8`. The token will change each time you spin up the container.
 
 #### Validation of installation
 
@@ -58,7 +58,7 @@ It lists location of your default pip. It should be in ``/Users/{your_user_name}
 
 #### Connecting to Snowflake
 
-1. Make sure you have setup a `{your_user_name}/.dbt/profiles.yml` file which **does not** include your password. You can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as reference
+1. Make sure on your local machine you have setup `/Users/{your_user_name}/.dbt/profiles.yml` file which **does not** include your password. `profiles.yml` must be placed in this directory in your "home" directory otherwise, you will not be able to connect to Snowflake from your local machine. You can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as reference
 1. Run through the [auth_example notebook](https://gitlab.com/gitlab-data/data-science/-/blob/main/examples/auth_example.ipynb) in the repo to confirm that you have configured everything successfully. The first time you run it you will get a browser redirect to authenticate your snowflake credientials via Okta. After that, if you run the notebook again you should be able to query data from Snowflake.  
 1. If you get an error then likely Snowflake is not properly configured on your machine. Please refer to the Snowflake and dbt sections of the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md). It is likely that your .dbt/profiles.yml is not setup correctly.
 
@@ -81,15 +81,14 @@ c.JupyterLabTemplates.template_dirs = ['/Users/{your_user_name}/repos/data-scien
 c.JupyterLabTemplates.include_default = False
 ```
 3. Launch JupyterLab and you should see a new _Template_ icon. Click the icon and select which template you would like to use.
-![alt text](sites/handbook/source/handbook/business-technology/data-team/platform/jupyter-guide/jupyter-screen-shot.png)
+![alt text](jupyter-screen-shot.png)
 
-#### Increasing Docker Memory Allocation
+#### Increasing Container Memory Allocation
 
-By default, docker will allocate 2GB of memory to run containers. This is likely not enough RAM to work with jupyter and python, as data is held in-memory. It is recommended you increase the docker memory allocation to avoid out-of-memory errors.
-1. Open Docker dashboard (on Mac, there should be an icon on the top menu bar).
-1. Click on the gear icon in the upper right to show settings.
-1. Under "Resources" allocate additional memory to be used by Docker. 8GB is recommended but you may have to increase it futher if working with large datasets.
-1. Restart Docker. 
+By default, rancher will allocate a small percentage of your machine's memory to run containers. This is likely not enough RAM to work with jupyter and python, as data is held in-memory. It is recommended you increase the memory allocation to avoid out-of-memory errors.
+1. Open Rancher Desktop (on Mac, there should be an icon on the top menu bar), _Preferences_, then _Kubernetes Settings_
+1. Here you can allocate additional memory and CPUs to be used by your containers. 8GB and 2 CPUS are recommended but you may have to increase it futher if working with large datasets or an intensive multithreaded process.
+1. Click "Restart Kubernetes". 
 
 #### Setting Up Jupyter Extensions
 

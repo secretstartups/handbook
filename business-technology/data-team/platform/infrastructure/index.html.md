@@ -461,6 +461,55 @@ The persistent volume claim for Airflow is defined in the [`persistent_volume.ya
 
 Alternatively, you can update the `persistent_volume.yaml` definition in the project. However, redeploying this _may_ delete the data already in the claim. This has not been tested yet.
 
+### Airflow roles
+
+Currently we have the following (default) roles in airflow:
+
+- `Public`
+- `Viewer`
+- `User`
+- `Op`
+- `Admin`
+
+In the above order, a role gives more permissions in Airflow.
+
+#### Custom roles
+
+On top of the existing default roles, the following custom roles are also implemented.
+
+1. Profile
+1. Analytics_engineer
+
+##### Profile role
+
+In order for non-admin users to update or reset their passwords they need to be given permissions to access their profiles and reset their passwords. This is includes the following permissions and should be granted to all non-admin users.
+
+- `can this form post on ResetMyPasswordView`
+- `can this form get on ResetMyPasswordView`
+- `can this form post on UserInfoEditView`
+- `can this form get on UserInfoEditView`
+- `resetmypassword on UserDBModelView`
+- `can edit on UserDBModelView`
+- `can userinfo on UserDBModelView`
+- `userinfoedit on UserDBModelVie`
+
+
+##### Analytics_engineer role
+
+In order to start a DAG, at least `User` permissions is needed. But in order to change variables, `Op` is needed. Changing variables is needed to perform a full refresh with a selected (set) of models. 
+
+`Op` gives a big set off unnecessary [permissions](https://airflow.apache.org/docs/apache-airflow/stable/security/access-control.html#op) for an Analytics Engineer. Only the following is needed:
+
+- `menu access on Admin`
+- `menu access on Variables`
+- `can read on Variables`
+- `can edit on Variables`
+
+To follow the [Principle of Least Privilege](https://about.gitlab.com/handbook/engineering/security/access-management-policy.html#principle-of-least-privilege) the 4 mentioned permissions are added to a new role: `Analytics_engineer`. 
+
+All Analytics Engineers will have `User` +  `Profile` + `Analytics_engineer` to give them the right permissions in Airflow to execute a DAG.
+
+
 ## Postgres Pipeline 
 
 ### Development
@@ -754,7 +803,7 @@ Then the task was enabled by running `alter task DEMANDBASE_ACCOUNT_LOAD_TASK re
 
 ### Thanos Load Tasks
 
-There is a process setup as part of [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/7713) that pulls thanos metrics daily and writes them to a GCS bucket.
+There is a process setup as part of [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/7713) that pulls thanos metrics daily and writes them to a [GCS bucket called `periodic-queries`](https://console.cloud.google.com/storage/browser/periodic-queries;tab=objects?pli=1&prefix=&forceOnObjectsSortingFiltering=false).
 
 To pull the metrics into Snowflake from GCS, a stage was created:
 
@@ -777,11 +826,22 @@ create or replace task prometheus_load_task
 
 ## Data Refresh
 
-### Stitch-Managed Data
-
 If a full refresh is required due to a failing test leading to an SLO breach, take time to investigate the root cause of the failing test. Make an [incident](/handbook/business-technology/data-team/how-we-work/#incidents) and document any findings before triggering the full refresh. It may also be useful to copy the data to another temporary table to allow the full refresh to continue unimpeded.
 
-For data sources extracted by Stitch (see extraction table [on the platform page](/handbook/business-technology/data-team/platform/#extract-and-load)), the recommended way to do a full refresh is as follows:
+### Stitch-Managed Data
+For data sources extracted by Stitch (see extraction table [on the platform page](/handbook/business-technology/data-team/platform/#extract-and-load)) steps to be taken to refresh data depend on the connection and table settings.
+
+#### Key based replication tables
+
+For Salesforce, where the connection is running key based incremental extractions, the table is best reset using the `reset table` feature under table settings. Simply put, this will truncate the table in `RAW` and reload/refresh all the data with a complete extract. Stitch manages this appropriately such that there is little disruption to the table in `RAW.SALESFORCE_STITCH`
+
+![stitch_reset_table.png](stitch_reset_table.png)
+
+Once reset the table will be refreshed on next run. If the data is needed sooner than that then you can trigger the extraction from Stitch, though this will incure an addition cost for the extra job.
+
+#### Manual refresh of Stitch managed tables
+
+If for some reason it is the case that the Stitch connection cannot handle the table refresh without manual intervention the follow process has worked:
 
 * Ensure the Stitch replication job is not currently running.  Pause the integration so it won't start a run aside from this process.
 * As the STITCH role, clone the target schema so the refresh process does not affect production in any way.  This can be done by running the following SQL and filling in the relevant schema name:
@@ -823,7 +883,7 @@ Use `dbt_full_refresh` DAG to force dbt to rebuild the entire incremental model 
 
 1. In Airflow set up Variable `DBT_MODEL_TO_FULL_REFRESH` with name of model(s) to refresh following [dbt model selection syntax](https://docs.getdbt.com/docs/running-a-dbt-project/command-line-interface/model-selection-syntax/).  For example, to refresh version models, the value would be `sources.version staging.version`.  To refresh gitlab_dotcom models, the value would be `sources.gitlab_dotcom staging.gitlab_dotcom`.
 <br><img src="airflow_variable_setting.png" alt="airflow_variable_setting" width="400"/></br>
-2. By default `dbt_full_refresh` DAG will be running on `TRANSFORMING_XL` warehouse , in order to modify the warehouse size in case of quick full refresh or in case of performance issue, Modify the variable `DBT_WAREHOUSE_FOR_FULL_REFRESH`  to desired warehouse size.
+2. By default `dbt_full_refresh` DAG will be running on `TRANSFORMING_XL` warehouse , in order to modify the warehouse size in case of quick full refresh or in case of performance issue, modify the variable `DBT_WAREHOUSE_FOR_FULL_REFRESH` to desired warehouse size. For the actual list of the actual warehouse's sizes, check [compute-resources](https://about.gitlab.com/handbook/business-technology/data-team/platform/#compute-resources)
 3. Manually trigger DAG to run.
 
 dbt command that is run behind is
@@ -831,6 +891,11 @@ dbt command that is run behind is
 ```
 dbt run --profiles-dir profile --target prod --models DBT_MODEL_TO_FULL_REFRESH --full-refresh
 ```
+
+See the following demo video on how to perform a DBT Full Refresh in Airflow:
+
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/OIBdemRSAiQ"></iframe></figure>
+
 
 ## GitLab Data Utilities
 
@@ -852,6 +917,8 @@ This is a project for centralizing handy functions we use across the team. Proje
 ## Upgrading dbt for production
 
 1. Have an issue ready with key stakeholders alerted as to the timing of the upgrade. Give at least one day notice before moving forward with the upgrade
+1. Check for breaking changes in the [release notes](https://github.com/dbt-labs/dbt-core/releases) and [schema docs](https://schemas.getdbt.com/)
+    * Schemas affect both our handling of dbt data in the trusted data framework as well as in our [deployment of the docs site](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml#L257).
 1. Create a new `dbt-image` version following the instructions in the [Creating New Images](/handbook/business-technology/data-team/platform/infrastructure/#new-images) section
 1. Make an MR to the analytics project and update the following items. See [this MR](https://gitlab.com/gitlab-data/analytics/-/merge_requests/3728/diffs) for an example
   * dbt-image in the following places:

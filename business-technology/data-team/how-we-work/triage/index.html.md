@@ -16,7 +16,7 @@ description: "GitLab Data Triage Guide"
 
 ## <i class="fas fa-users fa-fw color-orange font-awesome" aria-hidden="true"></i>Data Triage
 
-#### Enterprise Data Program Triage (Under Construction)
+#### Enterprise Data Program Triage
 
 GitLab has a robust and vibrant Data Program which includes a Central Data Team and many Functional Analytics Teams. GitLab total team members are growing as well and we need to uplevel our triaging process to keep up with GitLab's growth. 
 
@@ -26,6 +26,8 @@ Steps to uplevel triaging process:
 1. Create Slack Aliases so that GitLab Team members can ping a group of folks to get help with their questions in #data.
 1. Create a Triage Schedule for the Data Program to follow on the Data Program Calendar. Ask for a commitment of one team member, per Business Team, per day to help triage.
 
+### Enterprise Data Triage Groups
+
 | Triage Group Name   | Triage Slack Alias  | Triage Group Members  |  
 | -------------- | ------------------- | -------------------- |
 | Go To Market Analytics Triage | `@GTMAnalyticsTriage` |  Sales Strategy & Analytics Team, Marketing Strategy and Performance Team, Business Insights and Analytics Team, GTM Data Fusion Team |
@@ -33,71 +35,66 @@ Steps to uplevel triaging process:
 | People Analytics Triage | `@PeopleAnalyticsTriage` | People Group Analytics Team, G&A Data Fusion Team |
 | Engineering Analytics Triage | `@EngineeringAnalyticsTriage` | Engineering Analytics Team, G&A Data Fusion Team |
 | Data Platfrom Triage | `@DataPlatformTriage`   | Data Platform Team |
+| Data Collaboration Triage | `@DataCollaborationTriage`   | Data Collaboration Team |
 
- ### Enterprise Data Program Triage Instructions 
+### Enterprise Data GitLab Projects
+
+| Link to GitLab Data Projects |  
+| -------------- |
+| [Data Team](https://gitlab.com/gitlab-data/analytics) |
+| [Sales Strategy and Analytics](https://gitlab.com/gitlab-com/sales-team/field-operations/analytics) |
+| [Marketing Strategy and Performance](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) |
+| [Product Analysis](https://gitlab.com/gitlab-data/product-analytics) |
+| [Business Analytics](https://gitlab.com/gitlab-com/business-analytics) |
+| [Engineering Analytics](https://gitlab.com/gitlab-com/quality/engineering-analytics) |
+| [People Analytics](https://gitlab.com/gitlab-com/people-group/people-operations/people-analytics2) |
+| [Customer Success Operations - Use CSAnalytics label](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations) |
+| [Online Sales and Self-Service](https://gitlab.com/gitlab-com/sales-team/self-service) |
+
+### Enterprise Data Triager 
+
+| Slack Channel Alias| Analytics Team | Sunday | Monday | Tuesday | Wednesday | Thursday |	Friday |
+| ---------     | -----------------    | -------| -------|---------| ----------|----------|--------|
+| `@GTMAnalyticsTriage` | Sales Strategy and Analytics |	|	`@melia` |	|	`@Noel Figuera` 	|	| |
+|	                  | Marketing Strategy and Performance | |		|	`@David Egan` |	|	`@rkohnke`	| |
+|	                  | Business Insights and Analytics |	|	 `@Vikas Agrawal` |	`@Jay Zhang` |	`@Kelly Chen` |	`@charan karthikeyan` |	`@Jay Stemmer` |
+|	                  | GTM Data Fusion |	|	 |	`@Peter Empey` | `@Michelle Cooper`	| 	`@Israel` |	`@Jean Peguero` |
+| `@R&DAnalyticsTriage` |	Product Analysis |	|	 `@Carolyn Braza` | 	`@Dave Peterson` | 	`@Emma Neuberger` |	`@Nicole Galang` |	 `@Neil Raisinghani` |
+|	                  | R&D Data Fusion	|	|	|	| `@Chris Sharp` 	| `@Miles Russell` |	`@Tim Poole` |
+| `@PeopleAnalyticsTriage` | People Analytics	|	|	|	|	| `@Adrian Pérez` | |	
+|	                  | G&A Data Fusion |	|	|	`@Peter Empey` 	| | | |		
+| `@EngineeringAnalyticsTriage` |	Engineering Analytics |		|	 |		| |  `@lily` |	
+|	                  | Engineering Data Fusion |		|	| `@Peter Empey` 	|		|     |     |
+| `@DataPlatformTriage` |	Data Platform | | `@vprakash` (odd week-nrs) or `@Rigerta Demiri` (even week-nrs) | `@Paul Armstrong` | `@Radovan Bacovic` |	`@Lakshmi A` | `@jstark` |
+| `@DataCollaborationTriage` | Data Collaboration |	`@Ken` |	`@Ken` |	`@Trang Nguyen` |	`@Trang Nguyen` 	| | |	
+
+
+### Enterprise Data Program Triage Instructions 
 
 1. GitLab Team members can ping one of the groups above for any questions or help. When not clear, ping a group based on best guess. If a different group was needed, the request or question can always be re-routed.
 1. Triager should review each slack message request in the **#data** that has the triager's assigned Slack alias pinged.
 1. Triager should reply to slack threads by pointing GitLab team member to the appropriate handbook page, visualization, or to other GitLab team members who may know more about the topic. 
 1. Triager should direct GitLab team member to the channel description, which has links to the various Data Program Projects, if the request requires more than 5 minutes of investigative effort from a Data Program team member.
 
-### Data Team Triager
-
-The Data team has implemented the following triage schedule to take advantage of native timezones:
-
-| UTC Day   | Data Analyst / Analytics Engineer      | Data Engineer     |
-| --------- | ----------------- | ----------------- |
-| Sunday    | `@ken_aguilar`  |  no assignment | 
-| Monday    | See below for R&D assignee | `@vedprakash2021` (odd week-nrs) or `@rigerta` (even week-nrs) |
-| Tuesday   | See below for R&D assignee | `@paul_armstrong` |
-| Wednesday | `@michellecooper` | `@rbacovic` |
-| Thursday  | `@ken_aguilar`    | `@laddula` |
-| Friday    | `@jeanpeguero`    | `@jjstark` |
-
-R&D Fusion team triage schedule:
-
-| UTC Day   | R&D Data Analyst / Analytics Engineer | 
-| --------- | ----------------- | 
-| Dec 13-14 | `@chrissharp`    | 
-| Dec 20-21 | `@ttnguyen28`    | 
-| Dec 27-28 | `@snalamaru`    | 
-| Jan 3-4   | `@mdrussell`    |
-| Jan 10-11 | `@chrissharp`    | 
-| Jan 17-18 | `@ttnguyen28`    | 
-| Jan 24-25 | `@snalamaru`    | 
-| Jan 31-Feb 1 | `@mdrussell`    | 
-| Feb 7-8 | `@chrissharp`    | 
-| Feb 14-15 | `@ttnguyen28`    | 
-| Feb 21-22 | `@snalamaru`    | 
-| Feb 28-Mar 1 | `@mdrussell`    | 
-| Mar 7-8 | `@chrissharp`    | 
-| Mar 14-15 | `@ttnguyen28`    | 
-| Mar 21-22 | `@snalamaru`    | 
-| Mar 28-29 | `@mdrussell`    | 
-| Apr 4-5 | `@chrissharp`    | 
-| Apr 11-12 | `@ttnguyen28`    | 
-| Apr 18-19 | `@snalamaru`    | 
-| Apr 25-26 | `@mdrussell`    | 
-
-
 A team member who is off, on vacation, or working on a high priority project is responsible for finding coverage and communicating to the team who is taking over their coverage;
-this should be updated on the [Data Team's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). To avoid putting the _Monday workload_ on the same shoulders every week again, the Data Engineers will will rotate/exchange every now and then triage days in good collaboration on an ad-hoc basis.
+this should be updated on the [Data Program's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). To avoid putting the _Monday workload_ on the same shoulders every week again, the Data Engineers will will rotate/exchange every now and then triage days in good collaboration on an ad-hoc basis.
 
 Having dedicated triagers on the team helps address the bystander affect. The schedule shares clear daily ownership information but is not an on-call position. Through clear ownership, we create room for everyone else on the team to spend most of the day around deep work. The triager is encouraged to plan their day for the kind of work that can be accomplished successfully with this additional demand on time.
 
-Data triagers are the first responders to requests and problems for the Data team.
+Data triagers are the first responders to requests and problems for the Data Program.
 
-- The Data Analyst triager is primarily responsible for responding to GitLab team member Requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data**.
+- The Data Analyst triager is primarily responsible for responding to GitLab team member requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data**.
+- The Functional Analyst triager is primarily responsible for responding to GitLab team member requests via slack in **#data**.
 - The Data Engineer triager is primarily responsible for resolving problems with our data platform, which will either be in the **#analytics-pipelines** slack channel or on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=DE%20Triage%20Errors).
     - During the assigned triage day the Data Engineer should be primarily focused on active issues or the issues on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859).
+- The Analytics Engineer triager is primarily responsbile for resolving `dbt-test` and `dbt-run` errors. Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=DE%20Triage%20Errors). Time permitting and as a secondary responsbility, the Analytics Engineer triager is responsible for responding to GitLab team member requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data** 
 - The Data Analyst and Data Engineer triagers are secondarily responsible for platform problems and GitLab team member requests respectively.
 - For more information on responsibilities of a triager watch the [Data Engineer triage training session video](https://www.youtube.com/watch?v=0eGpgaQgEGg).
 
-Many issues that come into the data team project from other GitLab team members need additional info and/or context in order to be understood, estimated, and prioritized.
-It is the triager's priority to ask those questions and to surface issues sooner, rather than later.
+For issue triaging, the triager should add the appropriate labels to the issue to put the issue into the respective project's workflow. It is not the responsibility of the triager to validate the issue and determine any root causes or solutions. Rather, for the Data Team project for example, the triager should add the appropriate scoped TEAM label (Ex.`Team:GTM`) and the scoped `Workflow::triage` label. From there, those issues are then put into the respective team's workflow.
 
 **Note:**
-The Data Analyst triager
+The Triager:
 
 - is not expected to know the answer to all the questions
 - should cc (mention) other team members who are subject matter experts (SME) or [functional DRIs](/handbook/business-technology/data-team/#-team-organization) for their feedback
@@ -105,9 +102,44 @@ The Data Analyst triager
 
 ### How to Complete Data Triage
 
-Create [an issue in the Data Team project](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=&issuable_template=Data%20Triage). Task and duties are stated in the issue template. 
+The Central Data Team triager will create [an issue in the Data Team project](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=&issuable_template=Data%20Triage). Task and duties are stated in the issue template. 
 
 [Read](/handbook/business-technology/data-team/how-we-work/triage/) the FAQ and common issues.
+
+### Incident
+
+The Data Team follows the [incident definition](/handbook/engineering/infrastructure/incident-managemen) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status. 
+ 
+Service degradation or outages in data can be seen as:
+- Data is not available
+- Data is not correct
+- Data is outdated
+- Data leakage
+ 
+This means the the following events (not extensive), likely are incidents:
+- DBT model failed (and downstream models are skipped)
+- DBT test failure
+- DBT source freshness failure
+- Infrastructural incident (Snowflake not accessible, Sisense not accessible)
+- Data source not available
+- Data pipeline not running
+ 
+#### Severity
+ 
+Depending on the nature and impact of the [incident](/handbook/business-technology/data-team/how-we-work/#incidents) a severity needs to be determined. Currently we don't have a decision matrix in place. To determine the severity, take the following aspects into consideration:
+- In case of a data source or data pipeline incident, check the [Data Source Tier](/handbook/business-technology/data-team/platform/#data-sources).
+- Number of users impacted
+- Impacting Trusted Data models
+ 
+#### Follow up
+ 
+- Incidents are always given immediate attention.
+- Every incident has a DRI assigned. This is not necessarily the triager/creator of the incident. Due to the nature of a-syncronisc working at GitLab, the triager/creator is the DRI until another GitLab Team Member is actively contacted/involved.
+   - The [codeownerfile](https://gitlab.com/gitlab-data/analytics/-/blob/master/CODEOWNERS) is the right future* source to find the right DRI for assigning the incident. * Currently the code ownership is not well defined. As part of FY23-Q1 we are planning to have a more strict ownership.
+- Every raised incident will be communicated in the `#data` Slack channel, followed by a short description, ETA and link to the incident. The right GitLab Team Members are tagged.
+  - A regular (depending on the severity) update is posted in Slack. Sometimes there isn't a new status, don't hesitate to communicate this as well. 
+  - When the incident is solved, an update is posted in Slack
+
 
 ### Triage Bot
 
@@ -216,6 +248,9 @@ Determination matrix: **
 *We are not loading all the tables and columns by default. Thus if new tables or columns are added, we only will load these tables if there is a specific business request. Any change to the current structure that causes a potential break of operation needs to be determined. 
 
 ** Determination matrix is not extensive. Every MR should be checked carefully.  
+ 
+## Triage common issues
+In this section we state down common issues and resolutions
 
 ### GitLab Postgres Database not accessible
 In a scenario when gitlab cloned Postgres database is not accessible, the airflow task log is showing below error. 
@@ -259,7 +294,7 @@ Show less
 
 In a situation when [Service ping](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#service-ping-overview) fail while it generates metrics, we should be informed either via `Trusted data dashboard` or `Airflow` log - generally, the error log is stored in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` table. Follow the instructions from the link [error-handling-for-sql-based-service-ping](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#error-handling-for-sql-based-service-ping) in order to fix the issue.
 
-## Zuora Stitch Integration single or set of table-level reset
+### Zuora Stitch Integration single or set of table-level reset
 It could happen, in any case, to [reset the table](https://www.stitchdata.com/docs/troubleshooting/destinations/destination-loading-error-reference#snowflake-error-reference) in Stitch for the Zuora data pipeline, in order to backfill a table completely (i.e. new columns added to in the source, technical error etc).
 Currently, Zuora Stitch integration does not provide [table level reset](https://www.stitchdata.com/docs/integrations/saas/zuora#zuora-feature-snapshot), and thus we have to perform a reset of all the tables in the integration. This will result in extra costs and risks.
 
@@ -297,8 +332,8 @@ Move the newly loaded data to `ZUORA_STITCH` schema because the new integration 
 #### Step 8:- Drop the new schema 
     DROP SCHEMA "RAW"."ZUORASUBSCRIPTION"  CASCADE ;
 
-### Step 9:- Delete temp Zuora-Subscription integration and enable regular integration
-### Step 10:- Run regular integration and validate
+#### Step 9:- Delete temp Zuora-Subscription integration and enable regular integration
+#### Step 10:- Run regular integration and validate
 This is to ensure that error observed previously to the table is gone and data is getting populated in the table.
 Check on duplicate ids due to 2 different extractors, to ensure the data is getting populated in the table correctly.
 
@@ -306,6 +341,99 @@ Check on duplicate ids due to 2 different extractors, to ensure the data is gett
     group by id
     having count(*) > 1
 **Note** Refer to the [MR](https://gitlab.com/gitlab-data/analytics/-/issues/10065#note_668365681) for more information.
+
+### Source freshness errors 
+
+See the [source contact spreadsheet](https://docs.google.com/spreadsheets/d/1VKvqyn7wy6HqpWS9T3MdPnE6qbfH2kGPQDFg2qPcp6U/edit) for who to contact if there are external errors related to a source. 
+
+### Airflow Task failure
+
+|   |
+| ------------------------- |
+| DAG `gitlab_com_db_extract` <br> Task `gitlab-com-dbt-incremental-source-freshness`  <br> |
+| Background: This extract relies on a copy (replication) database of the GitLab.com environment. Its high likely that this is the root cause of a high replication [lag](https://prometheus-db.gprd.gitlab.net/graph?g0.expr=(pg_replication_lag)%20and%20on(instance)%20(pg_replication_is_replica%7Btype%3D~%22postgres-(archive)%22%7D%20%3D%3D%201)&g0.tab=0&g0.stacked=0&g0.range_input=1w&g1.expr=pg_long_running_transactions_age_in_seconds%7Btype%3D~%22postgres-(archive)%22%7D&g1.tab=0&g1.stacked=0&g1.range_input=6h). |
+| More information of the setup [here](https://gitlab.com/gitlab-data/analytics/-/issues/8283#note_537332709).  |
+| Possible steps, resolution and actions: - Check for replication lag <br> - Pause the DAG if needed <br> - Check for data gaps <br> - Perform backfilling <br> - Reschedule the DAG  |
+| Note: The GitLab.com data source is a very important data source and commonly used. Please inform an update business stakeholders accordingly. |
+
+### Sheetload - Column '#REF!' is not recognised
+
+|   |
+| ------------------------- |
+| DAG `sheetload` <br> Task `dbt-sheetload`  <br> |
+| Background: This is an issue with Google sheets when data is being imported from a second sheet using Google sheets' import function. Occasionally the connections between the sheets stop working and the sheet needs to be refreshed. |
+| More information of the setup [here](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#sheetload).  |
+| Possible steps, resolution and actions: <br> - In general you should just need to open the Google sheet which is failing and confirm the data has been re-populated. <br> - If you do not have access to the sheet contact @gitlab-data/engineers and confirm if anyone else does. |
+
+
+### Model version_usage_data_unpacked stale
+
+When got an error for model `version_usage_data_unpacked` and error looks like:
+```
+[2022-01-26 11:56:32,233] INFO - b'\x1b[33mDatabase Error in model version_usage_data_unpacked (models/legacy/version/xf/version_usage_data_unpacked.sql)\x1b[0m\n'
+[2022-01-26 11:56:32,233] INFO - b' 000904 (42000): SQL compilation error: error line 241 at position 12\n'
+[2022-01-26 11:56:32,233] INFO - b" invalid identifier '{metrics_name}'\n"
+[2022-01-26 11:56:32,233] INFO - b' compiled SQL at target/compiled/gitlab_snowflake/models/legacy/version/xf/version_usage_data_unpacked.sql\n'
+[2022-01-26 11:56:32,234] INFO - b'\n'
+```
+
+The root cause of this issue is when new metrics are introduced in an upstream model - and this model (along with model `version_usage_data_unpacked_intermediate`) try to pivot values to columns. Without full refresh, this will not happen under the pipeline. 
+
+Full refresh required as per instructions from [dbt models full refresh](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#dbt-models-full-refresh).
+
+An example for this failure is the issue: **[#11524](https://gitlab.com/gitlab-data/analytics/-/issues/11524)**
+
+### Zuora Revenue Source and Target Column Mismatch
+
+Sometimes Zuora Revenue source system as part of a certain release modify the source table definition by adding/removing column(In a year once or twice). Whenever this type of change happens it triggers failure in the loading task in DAG `zuora_revenue_load_snow`. 
+
+For example, there was 3 additional column added to table `BI3_RC_POB` which lead to the below error message. 
+```
+[2022-03-21, 13:26:48 UTC] INFO - sqlalchemy.exc.ProgrammingError: (snowflake.connector.errors.ProgrammingError) 100080 (22000): 01a31326-0403-d02c-0000-289d37f10d4e: Number of columns in file (102) does not match that of the corresponding table (99), use file format option error_on_column_count_mismatch=false to ignore this error
+[2022-03-21, 13:26:48 UTC] INFO -   File 'RAW_DB/staging/BI3_RC_POB/BI3_RC_POB_12.csv', line 3, character 1
+[2022-03-21, 13:26:48 UTC] INFO -   Row 1 starts at line 2, column "BI3_RC_POB"[102]
+[2022-03-21, 13:26:48 UTC] INFO -   If you would like to continue loading when an error is encountered, use other values such as 'SKIP_FILE' or 'CONTINUE' for the ON_ERROR option. For more information on loading options, please run 'info loading_data' in a SQL client.
+```
+When this kind of failure happens we need to alter/create or replace the target table and add the additional column to the table definition in RAW.ZUORA_REVENUE schema. It is good to practise creating or replacing because it requires doing the full refresh of the data because of the addition of a new column. 
+
+Below are set of steps that will guide you to resolve this. 
+
+**Step 1:-**  Download the first file from the storage to local to view the additional column. For any file, only the file name and folder name should be modified.
+```
+gsutil cp  gs://zuora_revpro_gitlab/RAW_DB/staging/BI3_RC_POB/BI3_RC_POB_1.csv .
+```
+
+For any other file, only the file name and folder name should be modified. For example table, `BI3_RC_BILL` above command will change to ` gsutil cp gs://zuora_revpro_gitlab/RAW_DB/staging/BI3_RC_BILL/BI3_RC_BILL_1.csv .`
+
+**Step 2:-** Once the file is downloaded look for the header of the file using the below command
+
+```
+head -1 BI3_RC_POB_1.csv 
+```
+
+**Step 3:-** Pull out the current table definition from snowflake using the below query
+```sql
+USE ROLE LOADER;
+USE DATABASE RAW;
+USE SCHEMA ZUORA_REVENUE;
+select get_ddl('table','BI3_RC_POB');
+```
+Prepare the CREATE OR REPLACE TABLE query by comparing the missing column from the header and the table definition and adding them to the new table. The missing column should be at the end and the data type should be varchar. 
+Deploy the modified SQL.
+
+**Note:-** If the table doesn't exist then create the table with all the column named present in header with datatype as Varchar.
+
+**Step 4:-** Move the log file from the process folder to the staging folder of the table. 
+
+```
+gsutil cp gs://zuora_revpro_gitlab/RAW_DB/processed/22-03-2022/BI3_RC_POB/BI3_RC_POB_22-03-2022.log  gs://zuora_revpro_gitlab/RAW_DB/staging/BI3_RC_POB/
+```
+The point to consider in this command is the date in the path and the log file name. If the failure happened on `23-03-2022` then it will become `gs://zuora_revpro_gitlab/RAW_DB/processed/23-03-2022/BI3_RC_POB/BI3_RC_POB_23-03-2022.log` 
+
+Validate in [GCS storage](https://console.cloud.google.com/storage/browser/zuora_revpro_gitlab/RAW_DB/staging?project=gitlab-analysis&pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false) that the log file is present for the respective table.
+
+**Step 5:-** Re-run the task from the airflow by clearing the task.  
+
 
 ## Triage FAQ
 **Is Data Triage 24/7 support or shift where we need to support it for 24 hours?** <br>
@@ -325,29 +453,11 @@ If the pipeline is broken it needs to be fixed, currently we are working on defi
 
 **If I work my normal hours on triage day i.e. till 11 AM of US timeline. What happens when the pipeline breaks post my normal hours and there is a delay in data availability?** <br>
 Yes, the benefit of our presence is that we have a wide overage of hours. If the person who is on Triage is ahead of US timelines, we have an advantage of solving issues timely. The downside is that we have not full coverage that day for US timelines. This is an attention point towards the future. 
- 
-## Triage common issues
-In this section we state down common issues and resolutions
-
-| **Airflow Task failure!** |
-| ------------------------- |
-| DAG `gitlab_com_db_extract` <br> Task `gitlab-com-dbt-incremental-source-freshness`  <br> |
-| Background: This extract relies on a copy (replication) database of the GitLab.com environment. Its high likely that this is the root cause of a high replication [lag](https://prometheus-db.gprd.gitlab.net/graph?g0.expr=(pg_replication_lag)%20and%20on(instance)%20(pg_replication_is_replica%7Btype%3D~%22postgres-(archive)%22%7D%20%3D%3D%201)&g0.tab=0&g0.stacked=0&g0.range_input=1w&g1.expr=pg_long_running_transactions_age_in_seconds%7Btype%3D~%22postgres-(archive)%22%7D&g1.tab=0&g1.stacked=0&g1.range_input=6h). |
-| More information of the setup [here](https://gitlab.com/gitlab-data/analytics/-/issues/8283#note_537332709).  |
-| Possible steps, resolution and actions: - Check for replication lag <br> - Pause the DAG if needed <br> - Check for data gaps <br> - Perform backfilling <br> - Reschedule the DAG  |
-| Note: The GitLab.com data source is a very important data source and commonly used. Please inform an update business stakeholders accordingly. |
-
-| **Sheetload - Column '#REF!' is not recognised** |
-| ------------------------- |
-| DAG `sheetload` <br> Task `dbt-sheetload`  <br> |
-| Background: This is an issue with Google sheets when data is being imported from a second sheet using Google sheets' import function. Occasionally the connections between the sheets stop working and the sheet needs to be refreshed. |
-| More information of the setup [here](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#sheetload).  |
-| Possible steps, resolution and actions: <br> - In general you should just need to open the Google sheet which is failing and confirm the data has been re-populated. <br> - If you do not have access to the sheet contact @gitlab-data/engineers and confirm if anyone else does. |
 
 
-### Useful regex 
+## Useful regex 
 
-##### Match lines where these terms do not exist 
+### Match lines where these terms do not exist 
 
 `^(?!.*(<First term to find>|<Second term to find>)).*$`
 

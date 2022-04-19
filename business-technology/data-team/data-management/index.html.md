@@ -10,14 +10,36 @@ description: "The Data Management Page covers the content around managing, secur
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-##  Welcome to the Data Management Page
+{::options parse_block_html="true" /}
 
-This page covers practices and policies around managing, securing, and governing the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/) and activities related to it. The technical components of the Enterprise Data Platform are listed in the [GitLab Tech Stack](/handbook/business-technology/tech-stack-applications/).
+<div class="panel panel-gitlab-orange">
+**This is a Controlled Document**
+{: .panel-heading}
+<div class="panel-body">
 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
-## Data Security Practices
+</div>
+</div>
+
+##  Purpose
+
+Data Management covers practices and policies around managing, securing, and governing the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/) and activities related to it. The technical components of the Enterprise Data Platform are listed in the [GitLab Tech Stack](/handbook/business-technology/tech-stack-applications/).
+
+## Scope
+
+### Data Security Practices
 
 The Enterprise Data Platform captures, processes, and stores [data collected from many systems](/handbook/business-technology/data-team/platform/#extract-and-load). Not all of this data is of the same importance and we use the [Critical System Tier](/handbook/engineering/security/security-assurance/security-risk/storm-program/critical-systems.html) framework and [Data Classification Standard](/handbook/engineering/security/data-classification-standard.html#security-and-privacy-controls) to help us determine what data is most important and how to best secure it.
+
+## Roles & Responsibilities
+| Role  | Responsibility | 
+| :--- | :--- |
+| GitLab Team Members | Responsible for following the requirements in this procedure |
+| Data Management Team | Responsible for implementing and executing this procedure | 
+| Data Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
+
+## Procedure
 
 ### Sisense
 
@@ -47,7 +69,7 @@ Additional controls include:
 * Every query/user/process is assigned a [pre-defiend Warehouse, or Compute Resource](/handbook/business-technology/data-team/platform/#compute-resources)
 * (Passwords are rotated)[/handbook/business-technology/data-team/platform/#passwords]
 
-## General Data Security Controls
+### General Data Security Controls
 
 * For the purpose of defining Data Controls, the Enterprise Data Platform is a [Tier 1 system](/handbook/engineering/security/security-assurance/security-risk/storm-program/critical-systems.html). 
 * `IMPORTANT`: [Customer Private RED data](/handbook/engineering/security/data-classification-standard.html#red) is prohibited from permanent storage in the Enterprise Data Platform.
@@ -78,7 +100,7 @@ Additional controls include:
 * **Data Warehouse Controls**: The Enterprise Data Warehouse is a Tier 1 System.
 * **Endpoint Devices**: All Endpoints Which Have Access To The Data Warehosue are Classified as Tier 1
 
-## Quarterly Data Health and Security Audit
+### Quarterly Data Health and Security Audit
 
 A **Quarterly Audit** is performed to validate system security, such as ensuring the right people have correct data access configuration and data pipelines are running correctly.
 
@@ -86,20 +108,28 @@ The process is supported by the [Quarterly Data Health and Security issue templa
  
 Here is a sample checklist of activities:
  
-### Snowflake
+#### Snowflake
 - Deactivate off-boarded employees from Snowflake
      - All Snowflake accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boarded. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. 
 - Deactivate any account, that has not logged-in within the past 60 days from the moment of performing an audit, from Snowflake.
      - Any named user Snowflake account that hasn't logged for more than 60 days will be deactivated. After deactivation, the user will be informed. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
      - Validate all user accounts do not have password set.
 
-### Sisense
+#### Sisense
 - Deactivate off-boarded employees from Sisense.
      - All Sisense accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boarded. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. To compare off-boarded employees with the actual users, 2 sources needs to be combined. This is done to extract the list of users from Sisense and load this via sheetload into Snowflake. The queries and details for this proces are in the [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Quarterly%20Data%20Health%20and%20Security%20Audit.md). 
 - Deactivate any account, that has not logged-in within the past 90 days from the moment of performing an audit, from Sisense.
-     - Any Sisense account that hasn't logged for more than 90 days will be deactivated. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
+     - Any Sisense account that hasn't logged-in for more than 90 days will be deactivated. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
+- Deprovision `SAFE Dashboard` Space access after 90 days not logged-in within the past 90 days from the moment of performing an audit.
+     - Any GitLab Team Member with access to the `SAFE Dashboard` Space that hasn't logged-in for more than 90 days will be deprovisioned from the `SAFE Dashboard` Space. If a GitLab team member wants to have access provisioned back again, a new AR needs to be created and all approvals need to be obtained again. 
  
-### Trusted Data
+#### Trusted Data
 - Review all Golden Record TD tests and make sure they're passing.
 - Review Data Siren to confirm known existence of RED data.
 - Generate a report of Business logic changes to the TD: Sales Funnel dashboard in the quarter. Business logic such as adding new dimensions, new facts, new marts, changing joins, adding new calculated fields.
+
+## Exceptions
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/engineering/security/#information-security-policy-exception-management-process).
+
+## References
+* Parent Policy: [Information Security Policy](/handbook/engineering/security/)

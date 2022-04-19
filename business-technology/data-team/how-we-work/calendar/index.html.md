@@ -64,7 +64,7 @@ Because we work in [2-week milestone intervals](/handbook/business-ops/data-team
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
 | 1600/1400/1000/700   | [GTM Fusion Team Meeting](https://docs.google.com/document/d/1VaRo9qJvmG6YAR1pSAoetCqop2c807K6fjL2S9pIxGg/edit?usp=sharing)   |
 | 1700/1500/1100/800   | [Product Fusion Team Meeting](https://docs.google.com/document/d/1cANv4hvrIt2V66yRJztzb_2tuDYOx1ashEzD2G69NbE/edit)        |
-| 1800/1600/1200/900   | [Data Engineering Team Meeting](https://docs.google.com/document/d/1J6yPgnEpr2VXz2LFXNNA4w39UBaibtBrx8qE69H_xQY/edit) |
+| 1600/1400/1000/700   | [Data Platform Team Meeting](https://docs.google.com/document/d/1J6yPgnEpr2VXz2LFXNNA4w39UBaibtBrx8qE69H_xQY/edit) |
 
 **DEMO Meetings**
 

@@ -60,7 +60,7 @@ If in doubt of how to engage or wish to informally ask, simply send a message to
 
 * **DRI:** [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin)
 * **Team Members:** [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)
-* **Stable Counterparts:** [Jeff Burrows (Manager, Security Compliance)](https://about.gitlab.com/company/team/#jburrows001), [Steve Truong (Risk and Field Security)](https://about.gitlab.com/company/team/#sttruong), [Karlia Kue (IT Compliance Manager)](https://about.gitlab.com/company/team/#kxkue)
+* **Stable Counterparts:** [Jeff Burrows (Manager, Security Compliance)](https://about.gitlab.com/company/team/#jburrows001), [Steve Truong (Risk and Field Security)](https://about.gitlab.com/company/team/#sttruong), [Derek Isla (IT Compliance Manager)](https://about.gitlab.com/company/team/#disla)
 * `#gitlab-access-manager` Slack Channel
 * [Handbook Page](/handbook/business-technology/engineering/access-manager)
 * [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/engineering/access-manager/issue-tracker/-/issues)
@@ -143,12 +143,12 @@ You can learn more about Platypus and our capabilities and offerings on our [han
 * [Related - Demo Systems and Training Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/)
 * [Related - Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/)
 * [Related - Infrastructure Standards](https://about.gitlab.com/handbook/infrastructure-standards/)
-* [Related - Infrastructure Security Handbook Page](https://about.gitlab.com/handbook/engineering/security/security-operations/infrastructure-security/)
+* [Related - Infrastructure Security Handbook Page](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/infrastructure-security/)
 * [Related - Infrastructure Security Wiki](https://gitlab.com/groups/gitlab-com/gl-security/security-operations/infrastructure-security/-/wikis/home)
 
 The Business Technology Infrastructure Engineering team ("BT Infrastructure") focuses on the architecture, access management, cost labels and tags, naming conventions, and organizational hierarchy for AWS and GCP infrastructure across the organization, except for the GitLab SaaS realm (where GitLab.com is hosted) that is managed by the [Engineering Infrastructure department](https://about.gitlab.com/handbook/engineering/infrastructure/).
 
-We collaborate closely with the [Infrastructure Security ("InfraSec") team](https://about.gitlab.com/handbook/engineering/security/security-operations/infrastructure-security/) that is responsible for best practices and implementing security policies to mitigate risk.
+We collaborate closely with the [Infrastructure Security ("InfraSec") team](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/infrastructure-security/) that is responsible for best practices and implementing security policies to mitigate risk.
 
 We also provide escalation engineering and triage support for the [Security Incident Response Team ("SIRT")](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/) and [Security RED Team](https://about.gitlab.com/handbook/engineering/security/security-operations/red-team/) when security anomalies, events, or incidents require AWS/GCP subject matter expertise.
 

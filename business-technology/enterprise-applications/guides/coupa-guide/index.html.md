@@ -336,7 +336,16 @@ There are several ways to approve transactions in Coupa:
       - To Approve: Open the requisition or invoice notification, review the information, and approve.
       - To Reject: Open the requisition or invoice notification, review the information, and reject.
 - **Coupa Slack integration**
-   - Coupa has built-in integration with Slack, which provides users with another method for Coupa notifications. Users have to activate the integration to start receiving Slack notifications. Users can choose to receive Slack notifications for the following activities in Coupa: comments, mentions, approvals, and approval reminders. Users can provide approvals and rejections directly from Slack or click on the link embedded in the Slack notification and they will be directed to Coupa where they can take any actions needed. We encourage users to set up Slack notifications by following [Coupa instructions](https://success.coupa.com/Support/Docs/BSM_Platform/Core/Workflow/Notifications/Integrate_Slack) (starting at step **Connect Slack to your Coupa account**) or viewing the Coupa Slack [quick demo](https://www.loom.com/share/188a2df7f1cd4b35a3df9e96db7c05e7). Below is an example of the approval notification in Slack:
+   - Coupa has built-in integration with Slack, which provides users with another method for Coupa notifications. To activate Slack notifications please follow below steps or view the Coupa Slack [quick demo](https://www.loom.com/share/188a2df7f1cd4b35a3df9e96db7c05e7):
+      - Click "Settings" under your name on the top right;
+      - Click "Notifications";
+      - Click button "Add to Slack". New window will pop up. Click "Allow"
+
+   Once Slack notifications are activated you can choose what type of notifications you want to receive via slack.
+   To specify notifications that should be received in slack please go to Settings - Notifications - mark "IM" boxes.
+
+   
+   Below is an example of the approval notification in Slack:
 
  ![coupa-image-27](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa27.png)  
 
@@ -458,21 +467,25 @@ Requesters can take certain actions to manage their orders.
 
 ![coupa-image-16](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa16.png)
 
+<br>
+Click [here](https://drive.google.com/file/d/1q3x_9OiYGQ04NvVEQiZqFCJqBQTOHwg6/view?usp=sharing) for a quick video showing how to request a Purchase Order change for an amount increase.
+
+<br>
+
 Under Activity > Orders, the requestor can click on **Supplier Print View** to print or re-send a Purchase Order to another email address of their choosing.
 {: .alert .alert-info}
 
 ### How to Request a New Supplier
 
 A supplier must exist in Coupa prior to submitting a requisition for that supplier. To complete a New Supplier Request form:
-1. Click on "Request a New Supplier" icon on the Home page; under "Forms and Quick Links" section.
+- Click on "Request a New Supplier" icon on the Home page; under "Forms and Quick Links" section.
 
-![coupa-image-17](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa17.png)
+![coupa-image-29](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa29.png)
 
 
-1. Complete the form details and click "Review".
-   - The approval Workflow will be displayed.
-1. Click "Submit for Approval" to route to the approvers.
-
+- Complete the form details and click the "Review" button (located at the bottom of the page/screen).
+   - Review the information and if any changes need to be made, click the "Edit" button (located at the bottom of the page/screen) to make necessary changes.
+   - If the information is correct, click the "Submit for Approval" button (located at the bottom of the page/screen) to route the request to Approvers. 
 - Once the New Supplier request is approved, an External Supplier Form will be automatically sent to the Supplier to gather additional information.
    - The Supplier must complete the form and submit it back.
 - After supplier submission, the external form will be routed to the Accounts Payable Approval Group for review and approval.
@@ -498,7 +511,7 @@ A supplier must exist in Coupa prior to submitting a requisition for that suppli
 The Professional Services Request form must be filled out **before** creating a requisition for any professional services related purchase. To complete the Professional Services Request form:
 - Click on "Professional Services request" button on the Home page; under "Forms and Quick Links" section.
 
-![coupa-image-21](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa21.png)
+![coupa-image-30](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa30.png)
 
 - Fill out all the form questions and click "Submit".
    - The cart will be automatically updated with the provided answers in the line item.

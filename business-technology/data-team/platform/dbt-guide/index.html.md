@@ -192,6 +192,10 @@ dbt specific:
 - `cycle_logs` - a function we've added to your computer to clear out the dbt logs (not accessible from within the docker container)
 - `make dbt-docs` - a command that will spin up a local container to serve you the `dbt` docs in a web-browser, found at `localhost:8081`
 
+##### SQLFluff linter
+
+We use SQLFluff to enforce [SQL style guide](/handbook/business-technology/data-team/platform/sql-style-guide/) on our code. To have the SQLFluff in the DBT venv you will have to rebuild it. The make prepare-dbt or more specifically the pipenv install from within that command will install the correct version of the tool into the venv. If you have done that and it is not working you can try a direct install of version 0.9.3 using the pip installer. 
+
 ### Configuration for contributing to dbt project
 
 If you're interested in contributing to dbt, here's our recommended way of setting up your local environment to make it easy.
@@ -926,7 +930,7 @@ Steps to follow in order to run the tests you implemented in the data-tests proj
 
   
 1. Push your changes to the remote branch you are working on on the data-tests project
-2. Go to your `analytics` project locally, create a new branch with the same name as the one at `data-tests` & modify the `Makefile` to edit the `DATA_TEST_BRANCH` to macth your branch name on the `data-test` project
+2. Go to your `analytics` project locally, create a new branch (`git checkout -b <branch_name>`) with the same name as the one at `data-tests` & modify the `Makefile` to edit the `DATA_TEST_BRANCH` to match your branch name on the `data-test` project
 3. From the `analytics` project run `make run-dbt`
 4. You should see some logs, which also show the revision data-tests was installed from, where you should see your branch
 5. From where you currently are (which should be the `snowflake-dbt` directory) run the corresponding command for testing your own model

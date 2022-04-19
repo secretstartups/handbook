@@ -28,6 +28,7 @@ Based on these needs, the Data Team is organized in the following way:
 1. **[Data Fusion Teams](/handbook/business-technology/data-team/#data-fusion-teams):** __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions
 1. **[Data Platform & Engineering Team](/handbook/business-technology/data-team/#the-data-platform--engineering-team):** __Center of Excellence__ for data technologies, including owning and operating the Data Stack
 1. **[Data Science Team](/handbook/business-technology/data-team/#the-data-science-team):** __Center of Excellence__ for advanced analytics, including delivery of data science projects to the business
+1. **[Data Collaboration Team](/handbook/business-technology/data-team/#the-data-collaboration-team):** __Center of Excellence__ for business intelligence and data findability
 
 ## Data Fusion Team Organization
 
@@ -58,18 +59,24 @@ classDiagram
 
 | **GTM** | **R&D** | **G&A** |
 | ----- | ----- | ----- |
-| `@iweeks` _Lead/DRI_ | `@mlaanen` _Lead/DRI_  | `@iweeks` _DRI_                 | 
-| `@ken_aguilar`       | `@snalamaru`           | `@pempey` _Lead_                |
-| `@jeanpeguero`       | `@chrissharp`          | `@jjstark` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  |
-| `@michellecooper`       | `@ttnguyen28`           |   |
-| `@tpoole1`    | `@mdrussell`  |                                 |
-| `@paul_armstrong` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts) |`@jeanpeguero ` GTM Fusion Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  | |  
+| `@iweeks` _Lead/DRI_ | `@iweeks` _Lead/DRI_  | `@iweeks` _DRI_                 | 
+| `@jeanpeguero`       | `@snalamaru`           | `@pempey` _Lead_                |
+| `@michellecooper`       | `@chrissharp`          | `@jjstark` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  |
+|`@paul_armstrong` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)| `@tpoole1`           |   |
+|     | `@mdrussell`  |                                 |
 |  |`@rbacovic` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  | |  
 
 ### Data Platform Team Stable Counterpart
 
 Following the GitLab [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts) principles, every **Fusion Team** have a **Data Platform Team** Stable Counterpart assigned. The Data Platform Stable Counterpart divides their time, work and priorities between the Data Platform Team and Fusion Team (general an average of 50% each). The Stable Counterpart is aware of the direction and priorities of the Fusion Team and when needed brought into discussion with the Data Platform Team. I.e. when there is a bigger demand than the Stable Counterpart can handle in the assigned availability or architectural direction needs to change. The Stable Counterpart recognize, flags and address this with the applicable stakeholders (in general the Lead/DRI of the Data Platform Team and the Fusion Team). 
-						
+
+The stable counterpart is expected to participate in the following meetings asynchronously or synchronously. When in doubt, please reach out to the Fusion Team Manager to learn which meetings on the calendar you should participate in. In general, the meetings in scope are as follows: 
+
+1. Data Team <> Business Function syncs. For example, People Analytics <> Data Team, Engineering Analytics <> Data Team, Product Intelligence <> Data Team syncs. 
+1. Data Program Sync meetings where issue prioritization is discussed amongst cross-functional stakeholders. For example, Data Program Support for R&D and Data Program Support for GTM.
+1. Data Fusion Team Milestone Planning Meetings.
+1. Data Fusion Team Meetings.
+				
 ### Data Fusion Team Operations
 
 Critical to successful Data Fusion Teams are the following elements:
@@ -98,7 +105,7 @@ Recruiting great people is critical to our success and we've invested much effor
 
 See [Data Team Internships](/handbook/business-technology/data-team/organization/internships/).
 
-## Data Engineering
+## Data Platform
 
 * [Data Engineering Job Family](https://about.gitlab.com/job-families/finance/data-engineer)
 

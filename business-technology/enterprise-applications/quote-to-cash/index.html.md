@@ -4,6 +4,7 @@ title: "Quote to Cash Documentation"
 description: "Enterprise Appliactions Quote to Cash Documentation"
 ---
 
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
@@ -11,6 +12,8 @@ description: "Enterprise Appliactions Quote to Cash Documentation"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
 
 ## Quote to Cash Introduction
 The quote-to-cash (QTC) process encompasses customer account management, order fulfillment, billing, and accounts receivables functions. The coordination of this process is owned by the Enterprise Applications team and this handbook page is intended to be used as a table of contents for key documentation of this process. Some of the major applications that make up this process are listed below.
@@ -44,8 +47,121 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 * CustomersDot integrates with Zuora to enable self-service purchasing and subscription management
 
 #### NetSuite
-* NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team. 
+* NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team.
 * The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
+
+{::options parse_block_html="true" /}
+
+## Enterprise Systems Architecture
+
+<div class="x-scrollable">
+<div style="width: 1800px;">
+
+```mermaid
+flowchart TD
+    subgraph A[ZUORA]
+        subgraph B[ZUORA-CPQ]
+            I[Product Catalog Management]
+            J[Customer Selling Entity Management]
+            K[OTC Contact Management]
+            L[Quoting Rules]
+        end
+        subgraph C[ZUORA-Billing]
+            M[Product Catalog Management]
+            subgraph N[Account Management]
+                AC[Customer Selling Entity Management]
+                AD[OTC Contact Management]
+            end
+            O[Subscription Management]
+            Q[Payment]
+            P[Invoicing]
+         end
+        subgraph D[ZUORA-Revenue]
+            subgraph R[Revenue Recognition]
+                AE[Standalone Selling Price]
+                AF[Allocation by Obligations/Revenue Streams]
+            end
+        end
+    end
+    subgraph E[NETSUITE]
+        subgraph S[General Ledger]
+            AG[Revenue Recognition]
+            AH[Expense Recognition]
+            AI[Equity Management]
+        end
+        T[Treasury Management]
+        U[Financial Reporting]
+    end
+    subgraph F[TESORIO]
+        V[Customer Dunning Campaigns]
+        W[Accounts Receivable Reporting]
+    end
+    subgraph G[STRIPE]
+        X[Credit Card Verification]
+        Y[Credit Card Payment Processing]
+        Z[Fraud Management]
+    end
+    subgraph H[AVALARA]
+        AA[Tax Rate/Calculations]
+        AB[Tax Remittance]
+    end
+    AJ[Salesforce]
+    AK[CDot]
+    B <--Zuora360--> C
+    C --- D
+    D ---Platypus--> E
+    C ---Platypus--> E
+    C <---> G
+    C <---> H
+    C ----> F
+    AJ ---> B
+    AK ----> C
+A:::gray
+B:::gray
+C:::gray
+D:::gray
+E:::gray
+F:::gray
+G:::gray
+H:::gray
+I:::yellow
+J:::red
+K:::red
+L:::green
+M:::yellow
+N:::gray
+O:::yellow
+P:::yellow
+Q:::yellow
+R:::gray
+S:::gray
+T:::yellow
+U:::yellow
+V:::green
+W:::green
+X:::green
+Y:::green
+Z:::yellow
+AA:::yellow
+AB:::yellow
+AC:::red
+AD:::red
+AE:::yellow
+AF:::yellow
+AG:::yellow
+AH:::yellow
+AI:::yellow
+classDef green fill:#DCFFE5;
+classDef yellow fill:#FFFFDC;
+classDef red fill:#FFDCDC;
+classDef gray fill:#FFFFFF;
+```
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
+
 
 ## Lead to Cash Flow
 
@@ -113,6 +229,16 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 <div class="center">
 <div style="width: 720px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:720px; height:480px" src="https://lucid.app/documents/embeddedchart/09ac03f9-ae40-4bbd-961c-f64bb44f5b4f" id="KWs5ZPs-THoH"></iframe></div>
 </div>
+
+## Entity Relationship Diagrams
+
+- [Zuora Billing](./entity-relationship-diagrams#zuora-billing)
+- [CustomersDot (Customer Portal)](./entity-relationship-diagrams#customersdot-customer-portal)
+- [GitLab](./entity-relationship-diagrams#gitlab)
+
+### Quote to Cash Systems Field Mapping
+
+[This spreadsheet](https://docs.google.com/spreadsheets/d/1D159Osv6JvQtlHm2Bpekn8ADOWUfgcdszf_pewERBy0/edit#gid=769890791) provides a mapping of fields from the data models of Zuora Billing, CustomersDot and GitLab.  This document highlights some of the overlap and dependencies between the systems currently.
 
 ## Contact Us
 ### Slack Channels

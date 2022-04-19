@@ -22,8 +22,8 @@ There are **dedicated** gitlab.com _read_ replica database instances used for da
 graph LR;
 A[GitLab.com-DB-Live] -->|build_destroy_mechanism| B[GitLab.com-DB clone running on  port 25432]
     A --> |wal_files_mechanism| C(Gitlab.com-DB Live Replica)
-    B --> | Data Engineering Pipeline SCD| D(Snowflake_DWH)
-    B --> | Data Engineering Pipeline Incremental| D(Snowflake_DWH)
+    B --> | Data Platform Pipeline SCD| D(Snowflake_DWH)
+    B --> | Data Platform Pipeline Incremental| D(Snowflake_DWH)
 ```
 
  - `GitLab.com-DB clone` will be destroyed at 10:30PM UTC and rebuilt at 11:15PM UTC. This results in an available time window between 00:00AM UTC to 11:30PM UTC to query this database. If data is extracted from this replica outside the window, an error will occur, but it will not result in any data loss.
@@ -129,7 +129,7 @@ Step 6: Load the data using copy into and load this data in RAW.tap_postgres.git
 
 ### GitLab Database Schema Changes and DangerFile
 
-The data engineering team maintains a Dangerfile in the main GitLab project [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/danger/datateam/Dangerfile) with the purpose of alerting the `@gitlab-data/engineers` group about any changes to the gitlab.com source schema definition file. Being notified about source schema changes is essential to avoiding errors in the extraction process from the GitLab.com database since extraction is based on running a series of select statements. The data engineer on triage for any given day is the DRI for investigating schema changes as well as creating issues for any needed action from the data team.
+The Data Platform team maintains a Dangerfile in the main GitLab project [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/danger/datateam/Dangerfile) with the purpose of alerting the `@gitlab-data/engineers` group about any changes to the gitlab.com source schema definition file. Being notified about source schema changes is essential to avoiding errors in the extraction process from the GitLab.com database since extraction is based on running a series of select statements. The data engineer on triage for any given day is the DRI for investigating schema changes as well as creating issues for any needed action from the data team.
 
 ### Trusted data framework tests
 
@@ -222,6 +222,52 @@ The `boneyard` schema is where data can be uploaded from a spreadsheet and it wi
 ### Certificates
 
 If you are adding Certificates to SheetLoad, refer to the instructions in the [People Group page](/handbook/people-group/learning-and-development/certifications/#step-5-add-to-sheetload)
+
+## Zuora API Sandbox
+The API Sandbox is Zuora's "release preview" environment. It is a customer facing, multi-tenant environment that gets code deployed to it before Zuora's production environment. How early code gets deployed depends on the type of release: Major releases are usually deployed a week in advance, whereas minor releases and emergency patches get deployed days, hours or minutes before production. Zuora customers can purchase any number of tenants in this environment for a recurring annual fee.
+
+API Sandbox is co-located in the same data center as the production environment, running on bare metal, but on a smaller footprint, offering less capacity.
+
+The main use cases for API Sandbox include:
+
+Basic implementation configuration and integrations
+- Training
+- Integration testing
+- Regression testing
+- Release preview testing
+
+
+## Zuora Central Sandbox
+Zuora Central Sandbox combines the capability to copy production data along with production-like performance into a single test environment tenant.  While Zuora Central Sandbox always comes with a snapshot of scrubbed production data, it can also be utilized for a brand new implementation in case the production tenant has no data at that time. The use cases of Zuora Central Sandbox includes all that of API Sandbox and more. See the following use cases supported by Zuora Central Sandbox.
+
+Basic implementation configuration and integration
+
+- Training
+- Integration testing
+- Regression testing
+- Performance testing (with guidelines)
+- Pre-production testing
+- User acceptance testing 
+
+Zuora Central Sandbox is hosted on a production-like AWS infrastructure, allowing you to test the API response time, the bill runs and payment runs with production-level data loading. It provides a more realistic view of performance than API Sandbox. While the Zuora Central Sandbox is designed for production-level performance, Zuora recommends you to contact [Zuora Global Support](http://support.zuora.com/) if you plan to test over a certain amount of volume in a 24 hour period in the Zuora Central Sandbox. See [Performance guidelines](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/D_Zuora_Environments/Getting_started_with_Zuora_Central_Sandbox#Performance_guidelines) for the details.
+
+Zuora Central Sandbox vs API Sandbox
+See the contrasts between the use cases of API Sandbox and Zuora Central Sandbox.
+
+|   |API Sandbox	   | Zuora Central Sandbox  |
+|---|---|---|
+| Regression testing  |Yes   |Yes   |
+| Performance testing (with guidelines)  | No  | Yes  |
+| Pre-production testing  | Yes  | Yes  |
+| User acceptance testing   |No   | Yes  |
+|Basic implementation configuration and integration|Yes |Yes |
+|Training |Yes |Yes |
+|Integration testing	|Yes|Yes|
+
+### Zuora Central Sandbox connection 
+In case we get the database refreshed the credentials gets wiped off in source because of which the connectivity between fivetran and zuora central sandbox gets lost.  In order to restore the connection  request for the `client Id` and `client secret`. Once received update the same in Fivetran. 
+
+
 
 ## Zuora Revenue 
 Zuora Revenue is an application where you can automate the complicated revenue management process in compliance with the latest revenue standards (ASC 606 and IFRS 15).
@@ -564,3 +610,44 @@ and they are required to run this in Meltano. More details about `tap-edast` set
 A graphical representation of data flow for `tap-edcast` looks like:
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e6593e1-9be4-41ae-8d28-22c460639ab7" id="1R4EMPLKFtbd"></iframe></div>
+
+
+## ZenDesk
+
+The `ZenDesk` data source uses the [tap-zendesk](https://hub.meltano.com/taps/zendesk) Singer tap and runs on our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L374) schedule at `04:00:00 UTC`.
+
+The streams we currently load are specified on the `meltano.yml` configuration file, under the loader's `select` [section](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L100).
+ 
+
+[Environment variables](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L71) for the `tap-zendesk` are:
+* `$TAP_ZENDESK_EMAIL`
+* `$TAP_ZENDESK_START_DATE`
+* `$TAP_ZENDESK_SUBDOMAIN`
+* `$TAP_ZENDESK_API_TOKEN`
+
+and they are required to run this in Meltano. They are part of the `tap-secrets` secret on k8s. 
+
+The data is then loaded into Snowflake, using the `target-snowflake--edcast` loader, which is our in-house developed loader targetting Snowflake databases. The repo for this loader is located [here](https://gitlab.com/gitlab-data/target-snowflake-edcast).
+
+The final data ends up in Snowflake under the `TAP_ZENDESK` schema. 
+
+
+## ZenDesk Community Relations
+
+Similar to the `ZenDesk` pipeline, the `ZenDesk Community Relations` data source uses the [tap-zendesk](https://hub.meltano.com/taps/zendesk) Singer tap and runs on our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L380) schedule at `05:00:00 UTC`.
+
+Notice how in the configuration, this loader has a different name (`tap-zendesk--community-relations`), but it inherits from the same base loader: `tap-zendesk`.
+
+The streams we currently load are specificed on the `meltano.yml` configuration file, under the `tap_zendesk` loader `select` [section](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L289).
+ 
+
+[Environment variables](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L71) for the `tap-zendesk` are:
+* `$TAP_ZENDESK_COMMUNITY_RELATIONS_EMAIL`
+* `$TAP_ZENDESK_COMMUNITY_RELATIONS_START_DATE`
+* `$TAP_ZENDESK_COMMUNITY_RELATIONS_SUBDOMAIN`
+* `$TAP_ZENDESK_COMMUNITY_RELATIONS_API_TOKEN`
+
+and they are required to run this in Meltano. They are part of the `tap-secrets` secret on k8s. 
+
+The data is then loaded into Snowflake, using the `target-snowflake--edcast` loader.
+The final data ends up in Snowflake under the `TAP_ZENDESK_COMMUNITY_RELATIONS` schema. 

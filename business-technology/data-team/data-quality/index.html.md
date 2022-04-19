@@ -85,6 +85,7 @@ The data on both the Dashboards - [TD: Product Data Quality Scorecard - Overview
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://app.periscopedata.com/app/gitlab/887191/TD:-Product-Data-Quality-Scorecard---Overview-V1.0" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Product Data Quality Scorecard - Overview V1.0</a>
   <a href="https://app.periscopedata.com/app/gitlab/868646/TD:-Product-Data-Quality-Detailed-Dashboard-V1.0" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Product Data Quality Detailed Dashboard V1.0</a>
+  <a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/924978/ML-Draft:-Paying-Account---Service-Data-Inspector" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Service Data Inspector Dashboard</a>
 </div>
 <br><br>
 
@@ -139,3 +140,21 @@ The first iteration has added with a focus on:
 - SQL statements to test the aggregate totals of key fields of key tables  (column value tests)
 - SQL statements to test the existence of key records of key tables  (golden record tests)
 - A wireframe Dashboard to visualize these results in a simple manner
+
+## [Product Usage Metrics Coverage Dashboard](https://app.periscopedata.com/app/gitlab/921541/WIP:-Product-Usage-Metrics-Coverage])
+
+This dashboard captures the percentage of data availability for Product Usage Metrics, based on our [Metrics Dictionary](https://gitlab-org.gitlab.io/growth/product-intelligence/metric-dictionary/) and [Metrics to Snowflake Mapping](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0), which includes:
+
+- A table and graphical visualization representing the Product Usage Metrics, Percentage of Data Availability, Percentage of Missing Values, Data Source, Description, and Performance Indicator Type for both SaaS and Self-Managed
+  - The table provides details to the above fields
+  - The bar chart visualizes metrics by highest percentage of data avaibility to lowest and by data source
+- Description of above fields:
+  - Product Usage Metrics: Metrics relating to product usage such as count of Active User, Merge Requests, DAST Jobs
+  - Percentage of Data Availability: Percentage of how many records capture this data 
+  - Percentage of Missing Values: Percentage of how many records are missing this data 
+  - Data Source: whether the data comes from source such as database, redis, redis_hll, or system
+  - Description: Definition of the metric
+  - Performance Indicator Type Flags: whether the metric IS UMAU/SMAU/GMAU/PAID GMAU. Please refer to the [xMAU Analysis page](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/) for more information
+- Refesh runs on a weekly cadence
+
+

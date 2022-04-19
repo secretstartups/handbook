@@ -48,7 +48,7 @@ The teams which compose the GitLab Data Program include:
 
 * [Customer Success Operational Data Team](/handbook/customer-success/product-usage-data/)
 * [Data Team](/handbook/business-technology/data-team/)
-* [Engineering Analytics](/handbook/engineering/quality/engineering-analytics-team/) 
+* [Engineering Analytics](/handbook/engineering/quality/engineering-analytics/)
 * [Finance Analytics & Insights](/handbook/business-technology/data-team/analytics-and-insights/)
 * [Marketing Strategy and Performance](/handbook/marketing/strategy-performance/)
 * [Marketing Web Analytics](/handbook/marketing/inbound-marketing/search-marketing/analytics/)
@@ -91,16 +91,23 @@ To support stable business workflows and longer-term initiatives, the Data Team 
 
 - The **General & Administrative** Data Fusion Team focuses on organization performance of GitLab teams, including People metrics. The team currently meets with Engineering Analytics on a bi-weekly basis as part of the [Engineering & Data Team Weekly Sync](https://docs.google.com/document/d/1ekImsdsldcYNnNhWkI0pTZldjgRoJDaq6odo2BgKhQM/edit?usp=sharing) and with the People Analytics Team in the [People Analytics <> Data Team Sync.](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTc4aG9qdTZ0ZjN2ZWxrbWI0Z2hvbW4wNWxfMjAyMTA5MTNUMTYzMDAwWiBycGFya2VyQGdpdGxhYi5jb20&tmsrc=rparker%40gitlab.com&scp=ALL)
 
-### The Data Platform & Engineering Team
+### The Data Platform Team
 
-The **[Data Platform & Engineering Team](/handbook/business-technology/data-team/organization/engineering/)** is a critical team within the larger Data Team and focuses on development and operations of [data infrastructure](/handbook/business-technology/data-team/platform/). The Data Platform Team is both a development team and an operations/site reliability team. The team supports all Data Fusion Teams with **available, reliable, and scalable** data compute, processing, and storage. Platform components include the Data Warehouse, New Data Sources, Data Pumps, Data Security, and related new data technology. The Data Platform Team is composed of [Data Engineers](https://about.gitlab.com/job-families/finance/data-engineer/).
+The **[Data Platform Team](/handbook/business-technology/data-team/organization/engineering/)** is a critical team within the larger Data Team and focuses on development and operations of [data infrastructure](/handbook/business-technology/data-team/platform/). The Data Platform Team is both a development team and an operations/site reliability team. The team supports all Data Fusion Teams with **available, reliable, and scalable** data compute, processing, and storage. Platform components include the Data Warehouse, New Data Sources, Data Pumps, Data Security, and related new data technology. The Data Platform Team is composed of [Data Engineers](https://about.gitlab.com/job-families/finance/data-engineer/).
 
 ### The Data Science Team
 
-The [Data Science Team](/handbook/business-technology/data-team/organization/data-science/) is a new team within the larger Data Team and works on projects such as customer propensity to buy and churn predictions, customer clustering and segmentation, product sentiment analysis, and Machine Learning frameworks and processes. The team also focuses on creating standard tooling, processes, and practices for performing advanced analytics in support of all GitLab Teams. As the Data Science program matures, the Data Science Team plans to partner with GitLab’s new [MLOps Group](/handbook/engineering/incubation/mlops) to provide feedback to help improve the product. The Data Science Team’s planned FY22 projects focus on Sales and Customer Adoption:
-- [Propensity to Buy](https://gitlab.com/groups/gitlab-data/-/epics/302)
-- [Churn Prediction](https://en.wikipedia.org/wiki/Customer_attrition)
-- [Customer Segmentation](https://openviewpartners.com/blog/customer-segmentation/)
+The [Data Science Team](/handbook/business-technology/data-team/organization/data-science/) is a new team within the larger Data Team and works on projects such as customer propensity to expand and churn/contractions predictions, customer clustering and segmentation, product sentiment analysis, and Machine Learning frameworks and processes. The team also focuses on creating standard tooling, processes, and practices for performing advanced analytics in support of all GitLab Teams. As the Data Science program matures, the Data Science Team plans to partner with GitLab’s new [MLOps Group](/handbook/engineering/incubation/mlops) to provide feedback to help improve the product. The Data Science Team’s planned FY22 projects focus on Sales and Customer Adoption:
+- [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-expand)
+- [Propensity to Churn/Contract](https://gitlab.com/gitlab-data/propensity-to-contract)
+- [Namespace Segmentation](https://gitlab.com/gitlab-data/namespace-segmentation)
+
+### The Data Collaboration Team
+
+The [Data Collaboration Team](/handbook/business-technology/data-team/organization/data-collaboration/) is a brand new team within the Data Team. Its primary focus is on enabling people across the company work better together using data. This includes finding the right tools that combine self-service capabilities with strong data governance and sharing capabilities, and adding content to the handbook to let people across the company find the right data assets they need for their roles. The first projects lined up for the Data Collaboration Team in FY23 focus on Business Intelligence, Product Analytics, and Data Findability. 
+- [New BI Platform Evaluation and Deployment](https://gitlab.com/groups/gitlab-data/-/epics/470)
+- [Rollout Product Analytics Tool to Growth](https://gitlab.com/groups/gitlab-data/-/epics/514)
+- [Develop Subject Matter Expert Lookup](https://gitlab.com/gitlab-data/functional-analytics-center-of-excellence/-/issues/2)
 
 ### Data Job Families
 
@@ -128,7 +135,7 @@ The job families are designed to support all of the routine activities expected 
 - [#data](https://gitlab.slack.com/messages/data/) is the primary channel for all of GitLab's data and analysis conversations. This is where folks from other teams can link to their issues, ask for help, direction, and get general feedback from members of the Data Team.
 - [#data-daily](https://gitlab.slack.com/messages/data-daily/) is where the Data Team tracks day-to-day productivity, blockers, and fun. Powered by [Geekbot](https://geekbot.com/), it's our asynchronous version of a daily stand-up, and helps keep everyone on the Data Team aligned and informed.
 - [#data-lounge](https://gitlab.slack.com/messages/data-lounge/) is for links to interesting articles, podcasts, blog posts, etc. A good space for casual data conversations that don't necessarily relate to GitLab. Also used for intrateam discussion for the Data Team.
-- [#data-engineering](https://gitlab.slack.com/messages/data-engineering/) is where the GitLab Data Engineering team collaborates.
+- [#data-engineering](https://gitlab.slack.com/messages/data-engineering/) is where the GitLab Data Platform team collaborates.
 - [#bt-data-science](https://gitlab.slack.com/messages/bt-data-science/) is where the GitLab Data Science team collaborates. 
 - [#data-onboarding](https://gitlab.slack.com/archives/C01NMHHR9PB)is where the data team helps data people onboard into the program and system.
 - [#business-technology](https://gitlab.slack.com/messages/business-technology/) is where the Data Team coordinates with Business Technology in order to support scaling, and where all Business Technology-related conversations occur.
@@ -179,7 +186,7 @@ You can tag the Data Team in GitLab using:
 - [How The Data Team Works](/handbook/business-technology/data-team/how-we-work/)
     - [Calendar](/handbook/business-technology/data-team/how-we-work/calendar/)
     - [Data Analytics Team](/handbook/business-technology/data-team/organization/analytics/)
-    - [Data Engineering Team](/handbook/business-technology/data-team/organization/engineering/)
+    - [Data Platform Team](/handbook/business-technology/data-team/organization/engineering/)
     - [Data Science Team](/handbook/business-technology/data-team/organization/data-science)
     - [Data Team Principles](/handbook/business-technology/data-team/principles/)
     - [Data Management](/handbook/business-technology/data-team/data-management/)

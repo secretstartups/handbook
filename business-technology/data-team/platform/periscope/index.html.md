@@ -56,7 +56,7 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 - [Getting Started - Self Service Dashboards](https://dtdocs.sisense.com/topic/getting-connected)
 - [GitLab's Sisense Project](https://gitlab.com/gitlab-data/periscope)
 - [GitLab's Sisense Editor Training](https://drive.google.com/file/d/15tm_zomS2Ny6NdWiUNJlZ0_73THDiDww/view?usp=sharing) (GitLab Internal)
-- [Sisense Data Community](https://support.sisense.com/hc/en-us/community/topics/360001558233-Sisense-for-Cloud-Data-Teams)
+- [Sisense Data Community](https://community.sisense.com)
 - [Sisense Plotly Templates](https://github.com/Periscope-Services/plotly-templates/tree/periscope/master)
 
 ## Accessing Sisense
@@ -69,7 +69,7 @@ Everyone at GitLab has View-only access to [Sisense](https://app.periscopedata.c
 - [Sisense Training](https://drive.google.com/file/d/1FS5llpZlfvlFyYL-4kpP3YUgI98c_rKB/view?usp=sharing) (GitLab Internal)
 - [Sisense Editor Training](https://drive.google.com/file/d/15tm_zomS2Ny6NdWiUNJlZ0_73THDiDww/view?usp=sharing) (GitLab Internal)
 - [Sisense Data Onboarding: Creating and Analyzing Charts/Dashboards](https://www.youtube.com/watch?v=F4FwRcKb95w&feature=youtu.be)
-- [Sisense Community](https://support.sisense.com/hc/en-us/community/topics/360001558233-Sisense-for-Cloud-Data-Teams)
+- [Sisense Community](https://community.sisense.com)
 
 ## <i class="fas fa-chart-pie fa-fw icon-color font-awesome" aria-hidden="true"></i>Self-Service Dashboard Development
 
@@ -362,6 +362,15 @@ All users have View-only access privileges via Okta.
 To upgrade a user, in the Sisense UI, navigate to the **Roles and Policies** section. Then add the user to the relevant group (Admin/Editor) and their Division (e.g. Marketing, Product, etc.) or Department (e.g. UX, Security, etc.).
 
 Users will inherit the highest access from any group they are in. This is why all functions are by default View-only.
+
+#### User not availabile in Sisense
+
+There are 2 reasons why you could not find the user in Sisense.
+
+1. The user never logged in to Sisense
+1. The user is removed from Sisense because of inactive usage as part of the [Quarterly Data Health and Security Audit](handbook/business-technology/data-team/data-management/#quarterly-data-health-and-security-audit).
+
+The user will always exist in the Google Group. So in order to get the account in Sisense, the user needs to perform a (initial) login to Sisense. With that action, the user is created in Sisense (in the GitLab Space) and you can change the account (add to another Space or grant Editor privileges).
 
 ## New Dashboard Creation and Review Workflow
 

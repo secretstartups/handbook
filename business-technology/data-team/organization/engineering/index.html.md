@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Data Engineering Handbook"
-description: "GitLab Data Engineering Team Handbook"
+title: "Data Platform Handbook"
+description: "GitLab Data Platform Team Handbook"
 ---
 
 ## On this page
@@ -14,23 +14,20 @@ description: "GitLab Data Engineering Team Handbook"
 
 ---
 
-# Data Engineering at GitLab
+# Data Platform at GitLab
 
-The mission of the Data Engineering team is to build a secure and trusted data platform that makes it possible for **everyone to be an analyst** so that our _only_ limitations are the data or analysts themselves. We do this **by means of our [GitLab values](/handbook/values/)** and our **[Data Team Principles](/handbook/business-technology/data-team/#data-team-principles)**
+The mission of the Data Platform team is to build a secure and trusted data platform that makes it possible for **everyone to be an analyst** so that our _only_ limitations are the data or analysts themselves. We do this **by means of our [GitLab values](/handbook/values/)** and our **[Data Team Principles](/handbook/business-technology/data-team/#data-team-principles)**
 
-## Data Engineering Responsibilities
+## Data Platform Responsibilities
 
-Of the [Data Team's Responsibilities](/handbook/business-technology/data-team/#responsibilities) the Data Engineering team is directly responsible for:
+Of the [Data Team's Responsibilities](/handbook/business-technology/data-team/#responsibilities) the Data Platform team is directly responsible for:
 
-- Building and maintaining the company's central Enterprise Data Warehouse to support Reporting, Analysis, Dimensional Modeling, and Data Development for all GitLab teams
 - Integrating new data sources to enable analysis of subject areas, activities, and processes
-- Building and maintaining an Enterprise Dimensional Model to enable Single Source of Truth results
-- Developing Data Management features such as master data, reference data, data quality, data catalog, and data publishing
-- Providing Self-Service Data capabilities to help everyone leverage data and analytics
-- Help to define and champion Data Quality practices and programs for GitLab data systems
-- Providing customizable Data Services, including Data Modeling, Data Quality, and Data Integration
+- Keeping the data sources running per established [Service Level Objectives and Tiers](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-sources)
+- Expanding the scalability of pipelines and processes to meet growing data volumes
+- Evaluating new technologies to help make our platform more scalable and efficient
 
-## Handbook First on the Data Engineering Team
+## Handbook First on the Data Platform Team
 
 At GitLab we are [Handbook First](/handbook/handbook-usage/#why-handbook-first). Any changes to our codebase or process should have a handbook MR created before the work is started or concurrently with the MR to change the code.
 
@@ -38,13 +35,13 @@ For example: If we are adding a data source, we would first create the merge req
 
 ---
 
-## Data Engineering Team Roles
+## Data Platform Team Roles
 
-In order to efficiently operate as a team we designate and assign the following responsibilities to members of the Data Engineering team. These assignments are not permanent, but do create a Directly Responsible Individual on the team for these responsibilities. The assigned Engineer is responsible for both maintenance and iterative improvement over these responsibilities.
+In order to efficiently operate as a team we designate and assign the following responsibilities to members of the Data Platform team. These assignments are not permanent, but do create a Directly Responsible Individual on the team for these responsibilities. The assigned Engineer is responsible for both maintenance and iterative improvement over these responsibilities.
 
 ### Production Operations
 
-Production operations is always our [top standing priority](/handbook/business-technology/data-team/how-we-work/#standing-priorities) on the Data Engineering team and includes all technical operations that support or affect our production environment and the SLOs it supports. This includes, but is not limited to monitoring, testing, deployment, code reviews, and DevOps generally.
+Production operations is always our [top standing priority](/handbook/business-technology/data-team/how-we-work/#standing-priorities) on the Data Platform team and includes all technical operations that support or affect our production environment and the SLOs it supports. This includes, but is not limited to monitoring, testing, deployment, code reviews, and DevOps generally.
 
 ### Project Management and Planning
 
@@ -52,7 +49,7 @@ The Engineer assigned the Project Management and Planning responsibility oversee
 
 ### User Experience
 
-This engineer is responsible for the usability of our data platform. As stated in the Data Engineering mission, we are building the platform for everyone. The assigned Engineer proactively finds and solutions around our data platform with special mind to those experiences that are the most difficult to use.
+This engineer is responsible for the usability of our data platform. As stated in the Data Platform mission, we are building the platform for everyone. The assigned Engineer proactively finds and solutions around our data platform with special mind to those experiences that are the most difficult to use.
 
 ### Security, Compliance & Privacy
 
