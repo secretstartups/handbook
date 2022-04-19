@@ -22,7 +22,7 @@ Potential reasons this might occur:
 1. It's the first time user has submitted a ticket.
 1. The user is writing from a domain name that doesn't match what we have in ZD
   (for example, using a personal email address for a work-related issue).
-1. The user or organization has a no subscription or a trial subscription.
+1. The user or organization has no subscription or a trial subscription.
 
 ### Determining if this workflow applies
 
