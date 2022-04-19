@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM Segment: Named"
+title: "TAM Segment: Named*"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -12,12 +12,12 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ---
 
-⚠️ This information is under active development and iteration. This page will be updated on an ongoing basis as the named team continues to grow and scale.
+⚠️ * This information is under active development and iteration, including but not limited to the name of the team, `Named`. This page will be updated on an ongoing basis as the team continues to grow and scale.
 {: .alert .alert-warning}
 
 ## Overview
 
-Definition: Named TAM on the account, product usage data-based success goals per account, programmatic enablement.
+Definition: Named* (temporary designation) TAM on the account, product usage data-based success goals per account, programmatic enablement.
 
 ## Engagement Model
 
