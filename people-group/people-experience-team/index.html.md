@@ -25,6 +25,8 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 | Date    | Reason |
 |------------------- | --------------|
 | 2022-04-18 | Easter Holiday
+| 2022-05-27 | Family & Friends Day  |
+| 2022-06-24 | Family & Friends Day  |
 
 
 **PEA Reminder: When updating no onboarding days, tag `@gitlab-com/gl-ces` in the MR for awareness. Also remember to put `No Onboarding Day` on the People Group calendar.**
