@@ -77,7 +77,6 @@ lack of observability and insight into this app.
 ### Engineering (Fulfillment)
 
 - [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com)
-- [LicenseDot](https://gitlab.com/gitlab-org/license-gitlab-com)
 - [gitlab-org&3602](https://gitlab.com/groups/gitlab-org/-/epics/3602): GitLab <> Customers, License, Zuora Integration
 
 ### Enterprise Apps

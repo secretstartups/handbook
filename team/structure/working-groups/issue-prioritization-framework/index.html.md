@@ -19,7 +19,7 @@ canonical_path: "/company/team/structure/working-groups/issue-prioritization-fra
 | Target End Date | April 1, 2021   |
 | Slack           | [#wg_issue-prioritization](https://join.slack.com/share/zt-etotbmm9-FzhcHH0BGbw3~D4Xe5rAyg) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1oBWNxBSOJKrh3ubHwN5pI8243vBjJ-Y_Cax17A5abII/edit) (only accessible from within the company) |
-| Docs            | [Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/2086332?label_name[]=wg%3Aprioritization%20framework) |
+| Docs            | [Handbook Page](https://about.gitlabe.com/handbook/product/product-processes/customer-issues-prioritization-framework) |
 | Related Issue   | [Adding context to customer's requests](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/907) |
 | Associated OKRs | [Increase TMAU and Paid TMAU](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team/-/issues/80) |
 
@@ -41,24 +41,43 @@ canonical_path: "/company/team/structure/working-groups/issue-prioritization-fra
 
  (✅ Done, ✏️ In-progress)
 
-##### Step 1: [Determine a viable model](https://gitlab.com/gitlab-com/Product/-/issues/1457) `=> 90%`
+#### Step 1: [Determine a viable model](https://gitlab.com/gitlab-com/Product/-/issues/1457) `=> 90%`
 
 - ✅  `Cost of Delay / Duration` will serve as the primary model to run a pilot against.
 - ✅  We've determined how to assign monetary value for issues with links to SFDC.
 - ✏️ [Determine model inputs for issues that do not have SFDC links](https://gitlab.com/gitlab-com/Product/-/issues/1639).
 - ✅ [Define TAM inputs](https://gitlab.com/gitlab-com/Product/-/issues/1635).
 
-##### Step 2: [Implement & validate model](https://gitlab.com/gitlab-com/Product/-/issues/1563) `=> 100%`
+#### Step 2: [Implement & validate model](https://gitlab.com/gitlab-com/Product/-/issues/1563) `=> 100%`
 
 - ✅ Design initial pilot and break down into tasks and DRIs.
 - ✅ Identify a DRI that can complete the data related tasks.
 - ✅ [Implement pilot](https://gitlab.com/gitlab-com/Product/-/issues/1563).
 - ✅ Assess results and outcomes. If pass, move to Step 3. If fail, exit WG or cycle back to Step 1.
 
-##### Step 3: [Verify at scale and measure outcomes](https://gitlab.com/gitlab-com/Product/-/issues/3546) `=> 15%`
+#### Step 3: [Verify at scale and measure outcomes](https://gitlab.com/gitlab-com/Product/-/issues/3546) `=> 15%`
 
-- ✏️ TL;DR: Once validated, we drive adoption across Product/CS/Sales and collect measurements to confirm that this model is producing the desired business outcomes. If not, decide to go back to Step 1 or Exit.
-- This will be populated with specific tasks once we are further along with step 2. 
+TL;DR: Once validated, we drive adoption across Product/CS/Sales and collect measurements to confirm that this model is producing the desired business outcomes. If not, decide to go back to Step 1 or Exit.
+
+Scaled pilot (IC PM / TAM focused) measures of success:
+
+- `> 80%` of Product Managers regularly use the dashboards powered by the framework and find the prioritization framework an invaluable sensing mechanism as measured by quarterly survey responses.
+  - Current: Not measured
+- `> 80%` of Technical Account Managers regularly use the dashboards powered by the framework and report a `> 30%` efficiency gain of reporting on customer requested issues as a result of utilizing the TAM dashboard as measured by quarterly survey responses. 
+  - Current: Not measured 
+
+Verify and measure at scale:
+
+- Improve lead time for the top 25% of customer requested issues from `x` to `y`.
+  - Current: Not measured
+- The prioritization model and dashboard(s) are adopted as an effective replacement to using spreadsheets to manage and track Top ARR drivers.
+  - Current: Not measured
+- `20%` increase of feature requests tagged month-over-month or quarter-over-quarter.
+  - Current: Not measured
+- `20%` increase of Sales team members tagging feature requests month-over-month or quarter-over-quarter.
+  - Current: Not measured
+- Decrease key customer issues marked as `deliverable` from missing their scheduled milestone by `x%`.
+  - Current: Not measured 
 
 ## Roles and Responsibilities
 

@@ -70,4 +70,6 @@ Start with teams that are not in Engineering Allocations first with a goal of at
 | Member                | Lily Mai                                             | Staff Engineering Analyst |
 | Member                | Tanya Pazitny                                        | Director of Quality Engineering |
 | Member                | Kyle Wiebers                                         | Engineering Manager, Engineering Productivity |
+| Member                | John Hope                                            | Engineering Manager, Plan:Product Planning & Certify |
+| Member                | Matt Wilson                                          | Senior Product Manager, Secure |
       
