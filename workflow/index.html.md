@@ -757,7 +757,7 @@ The [Performance Refinement issue board](https://gitlab.com/groups/gitlab-org/-/
 1. To nominate issues to the board:
    1. Assign [a performance severity](/handbook/engineering/quality/issue-triage/#severity) on the issue to help asses the priority assignment for the refinement session.
    1. Ensure that the issue clearly explains the problem, the (potential) impact on GitLab.com's availability, and ideally, clearly defines a proposed solution to the problem.
-   1. Use the label `performance-refinement`.
+   1. Use the label `bug::performance`.
 1. For the issues under the **Open** column:
    1. An engineering manager will be assigned if either the `Milestone` or the label `workflow::ready for development` is missing.
    1. Engineering manager brings assigned issue(s) to the Product Manager for prioritization and planning.
