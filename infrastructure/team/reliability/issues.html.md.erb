@@ -87,10 +87,10 @@ Issues should always fall in to one of the following states, as defined by the f
   - Issues that exist specifically to document a conversation
    - Example: [Discussion: Should we recreate our zonal/regional clusters differently](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15192)
 3. `workflow-infra::Ready` - Applied after the issues has been triaged by an SRE or Engineering Manager within the Reliability Team.  Ensure the following questions are answered and labeled before marking an issue as `workflow-infra::Ready`:
-  - Project or General issue?
-      - Either `work::general` for anything that does not require project resources or `work::project` for anything that does.
-  - Priority as defined by the prioritization matrix?
-      - P1, P2, P3, P4, or P5 based on the prioritization matrix.
+  - Is this issue a Project or a General issue?
+      - Apply `work::general` if the issue can reasonably be completed by a single SRE in less than 5 days.  Apply `work::project` for anything that would take longer.
+  - What is the priority of the issue as defined by the [prioritization matrix](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#issue-priority)?
+      - `~Reliability::P1`, `~Reliability::P2`, `~Reliability::P3`, `~Reliability::P4`, or `~Reliability::P5` based on the prioritization matrix.
 4. `workflow-infra::In Progress` - This label should be applied _only_ after the issue has a Reliability Team member as an assignee.  This label is meant to represent only work that is actively in progress and not to indicate that an issue will be worked on in the future.
 5. `workflow-infra::Done` - This label is applied only when the issue has been closed.
 
@@ -107,6 +107,14 @@ The [issue board for Reliability](https://gitlab.com/gitlab-com/gl-infra/reliabi
  - When faced with  multiple issues of the same priority level:
    - prioritize small issues ahead of large ones.
    - prioritize older issues over new.
+
+## Issue Triage: Step-by-step
+1. Locate issues that need to be triaged using [this view](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues?sort=updated_desc&state=opened&label_name[]=workflow-infra::Triage) which shows `workflow-infra::Triage` tickets lists most recently updated issues first.
+2. Choose the first issue in the list and ask the following questions:
+    1. Can the issue be potentially be completed by a single SRE in less than 5 working days?  If so, add the `work::general` label.  If the scope of work is larger add the `work::project` label.
+    2. What is the priority of the issue?  Read the issue and assign a priority as defined by [our process](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#issue-priority).  Once priority has been determined, add the appropriate [priority label](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#priority).  NOTE: Prioritized issues are reviewed by Reliability Leadership multiple times a week, so it is OK if an issue is prioritized incorrectly.
+3. Add the `workflow-infra::Ready` label.  This indicates that the issue has been through the prioritization process and is ready to be looked at by an engineer.
+4. Return the `workflow-infra::Triage` [list view](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues?sort=updated_desc&state=opened&label_name[]=workflow-infra::Triage), select the next issue in the list and put it through the same process.
 
 ## Reliability Issue Performance Indicators
 
