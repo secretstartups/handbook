@@ -98,6 +98,7 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
 | [**Miguel Duque**](https://about.gitlab.com/company/team/#mduque-ext) | Frontend Engineer (Contract) | - Email: [mduque-ext@gitlab.com](mailto:mduque-ext@gitlab.com)<br>- GitLab: [@mduque-ext](https://gitlab.com/mduque-ext)<br>-  Slack: @Miguel Duque |
 | [**Dennis Charukulvanich**](https://about.gitlab.com/company/team/#dennischarukulvanich) | Digital Experience Analyst | - Email: [dcharukulvanich@gitlab.com](mailto:dcharukulvanich@gitlab.com)<br>- GitLab: [@dennischarukulvanich](https://gitlab.com/dennischarukulvanich)<br>-  Slack: @Dennis Charukulvanich |
 | [**Margareth Mañunga**](https://about.gitlab.com/company/team/#mmanunga-ext) | Frontend Engineer (Contract) | - Email: [mmanunga-ext@gitlab.com](mailto:mmanunga-ext@gitlab.com)<br>- GitLab: [@mmanunga-ext](https://gitlab.com/mmanunga-ext)<br>-  Slack: @Margareth Mañunga  |
+| [**Gabriela Herrera**](https://about.gitlab.com/company/team/#gherrera-ext) | Frontend Engineer (Contract) | - Email: [gherrera-ext@gitlab.com](mailto:gherrera-ext@gitlab.com)<br>- GitLab: [@gherrera-ext](https://gitlab.com/gherrera-ext)<br>-  Slack: @gherrera-ext  |
 
 ## Metrics
 
