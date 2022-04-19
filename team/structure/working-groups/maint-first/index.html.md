@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Next Prioritization"
+title: "Next Prioritization (to be renamed)"
 description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
 canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 ---
