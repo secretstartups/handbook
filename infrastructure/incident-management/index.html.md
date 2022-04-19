@@ -99,7 +99,7 @@ These status updates are used to:
 1. If wider user impact has been established during an S1 or S2 incident, as EOC you have the authority - without requiring further permission - to [Block Users](docs.gitlab.com/ee/user/admin_area/moderate_users.html#block-a-user) as needed in order to mitigate the incident. Make sure to follow [Support guidelines regarding `Admin Notes`](../../../support/workflows/admin_note.html#adding-the-note), leaving a note that contains a link to the incident, and any further notes explaining why the user is being blocked.
     1. If users are blocked, then further follow-up will be required. This can either take place during the incident, or after it has been mitigated, depending on time-constraints.
         1. If the activity on the account is considered [abusive](../../security/security-operations/trustandsafety/#what-is-abuse), report the user to [Trust and Safety](../../security/security-operations/trustandsafety/#-contact-us) so that the account can be permanently blocked and cleaned-up. Depending on the nature of the event, the EOC may also consider reaching out to the SIRT team.
-        1. If not, [open a ticket for the support team](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Contact%20Request) to reach out to the user, explaining why we had to block their account temporarily.
+        1. If not, [open a related confidential incident issue and assign it to CMOC](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data) to reach out to the user, explaining why we had to block their account temporarily.
         1. If the EOC is unable to determine whether the user's traffic was malicious or not, please engage the [SIRT](../../security/security-operations/sirt/) team to carry out an investigation.
 
 #### Engineer on Call (EOC) Responsibilities
@@ -491,6 +491,10 @@ The CMOC is responsible for ensuring this label is set for all incidents involvi
 | ----------------------- | ----------- |
 | `~Incident-Comms::Status-Page` | Incident communication included use of the public [GitLab Status Page](https://status.gitlab.com/) |
 | `~Incident-Comms::Private` | Incident communication was limited to fewer customers or otherwise was only directly communicated to impacted customers (not via the GitLab Status Page) |
+| `~Contact Request` | Applied to issues where it is requested that Support contact a user or customer |
+| `~Contact Request::Awaiting Contact` |  Support has yet to contact the user(s) in question in this issue. |
+| `~Contact Request::Contacted` | Support has contacted the user(s) in question and is awaiting confirmation from Production. |
+| `~CMOC Required` | Marks issues that require a CMOC involvement. |
 
 #### "Needs" labeling
 
@@ -539,10 +543,9 @@ In the case where we mark an incident as a duplicate, we should issue the follow
 
 There are [related issue links] on the incident template that should be used to create related issues from an incident.
 
-- Support contact request: All requests to the support team engage customers.
 - Corrective action: Creates a new corrective action in the reliability tracker.
 - Investigation followup: Investigation follow-ups for any root cause investigation, analysis or tracking an alert silence that will be done after the incident is resolved
-- Confidential issue: For transparency, we prefer to keep incident issues public. If there is confidential information associated with an issue use this template to create a new issue using the confidential template.
+- Confidential / Support contact: For transparency, we prefer to keep incident issues public. If there is confidential information associated with an issue use this template to create a new issue using the confidential template. Use this template to create requests to the support team engage customers (aka Contact Request).
 - QA investigation: To engage the QA team for a failing test, or missing coverage for an issue that was found in any environment.
 - Infradev: For engaging development for any incident related improvement.
 
