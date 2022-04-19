@@ -24,13 +24,13 @@ Prior to starting the req creation process, a Hiring Manager should follow the s
 
 For the Product and Engineering backfill or transfer process, see this [handbook page](https://about.gitlab.com/handbook/engineering/#rd-backfill--transfer-process). 
 
-### Adding Vacancies to the Hiring Plan (DRI: Hiring Manager)
+### Adding Openings to the Hiring Plan (DRI: Hiring Manager)
 
-The Hiring Manager carries the responsibility to ensure that vacancies in Greenhouse align to what’s included in GitLab Hiring Plan. Therefore, the Hiring Manager, Finance, and Talent Acquisition can stay aligned on what’s in plan, so that they can track towards their predetermined hiring targets. If you are looking to add or make changes to the GitLab Hiring Plan, please visit the [Finance section of the handbook](/handbook/finance/).
+The Hiring Manager carries the responsibility to ensure that openings in Greenhouse align to what’s included in GitLab Hiring Plan. Therefore, the Hiring Manager, Finance, and Talent Acquisition can stay aligned on what’s in plan, so that they can track towards their predetermined hiring targets. If you are looking to add or make changes to the GitLab Hiring Plan, please visit the [Finance section of the handbook](/handbook/finance/).
 
 ### Create or Review the Job Family (DRI: Hiring Manager)
 
-Once the vacancy is approved, the Hiring Manager will review the position description in the `/job-families` folder and update it, if needed. If there is no existing job family, follow the steps to [create a new job family](/handbook/hiring/job-families/#job-families). A compensation benchmark for the role should be set by working with the Compensation & Benefits team.
+Once the req is approved, the Hiring Manager will review the position description in the `/job-families` folder and update it, if needed. If there is no existing job family, follow the steps to [create a new job family](/handbook/hiring/job-families/#job-families). A compensation benchmark for the role should be set by working with the Compensation & Benefits team.
 
 ### Opening Vacancies in Greenhouse (DRI: Recruiter)
 
@@ -43,10 +43,10 @@ For positions that are included in the GitLab Hiring Plan, the Recruiter will cr
 1. Once you've selected a template to copy, the first screen will ask for **Basic Job Info**.
 1. The `Internal Job Name` is only viewable within Greenhouse, and the `External Job Name` is what appears on the jobs page. Enter in the requisition's title in these fields, including _Specialty_, if applicable. These two fields should almost always be the same, but if you have questions, please reach out to the Compensation & Benefits Team.
     - If only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
-1. `Department` is the department this role will fall under. Always choose a department and **not** a division (e.g. for a Security Engineer vacancy, choose **Security** within the `Engineering` division, and do **not** choose `Engineering`). If you are unsure of what department to choose, reach out to the Compensation & Benefits team.
-1. If a requisition can be located anywhere GitLab hires, check `Anywhere` next to `Office`. If a vacancy is dedicated to a certain region or time zone, uncheck the `Anywhere` box and select any of the predetermined regions or time zones. If a region or time zone is not shown in the list, please reach out to the [Recruiting Ops Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new). In addition to the region or time zone you've selected, it's recommended to also choose `Remote` so that it's clear to applicants that the vacancy is both located in a particular area but also still remote.
+1. `Department` is the department this role will fall under. Always choose a department and **not** a division (e.g. for a Security Engineer opening, choose **Security** within the `Engineering` division, and do **not** choose `Engineering`). If you are unsure of what department to choose, reach out to the Compensation & Benefits team.
+1. If a requisition can be located anywhere GitLab hires, check `Anywhere` next to `Office`. If an opening is dedicated to a certain region or time zone, uncheck the `Anywhere` box and select any of the predetermined regions or time zones. If a region or time zone is not shown in the list, please reach out to the [Recruiting Ops Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new). In addition to the region or time zone you've selected, it's recommended to also choose `Remote` so that it's clear to applicants that the opening is both located in a particular area but also still remote.
 1. Click `Generate IDs` to create a requisition ID
-1. Under `Employment Type`, select if your vacancy is a _Full-Time_, _Part-Time_, _Intern_, or _Contract_ role. We strongly advise offering both full-time and part-time options for most requisitions. Please note that _Contract_ refers to a true consultant, who works on short-term projects. This is seldom used.
+1. Under `Employment Type`, select if your opening is a _Full-Time_, _Part-Time_, _Intern_, or _Contract_ role. We strongly advise offering both full-time and part-time options for most requisitions. Please note that _Contract_ refers to a true consultant, who works on short-term projects. This is seldom used.
 1. `Salary` will be input by the Total Rewards Team. The salary can be found in the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/), which is available to all team members and advanced candidates.
     - Take the `benchmark x level x 0.45` for the low end and `benchmark x level x 0.8` on the high end.
     - For roles not in the compensation calculator: Leave blank if not known. The Total Rewards team will edit as the first level of approval. The Total Rewards will pull survey data in San Francisco for this role then apply the same formula for `0.45` on the low end and `0.8` on the high end.
@@ -66,10 +66,10 @@ For positions that are included in the GitLab Hiring Plan, the Recruiter will cr
 1. Click `This looks good, NEXT` at the right of your screen.
 1. The `Interview Plan`, is where you'll craft the hiring process and scorecards for each step in the process. The interview plan may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ. The Recruiter will update the interview plan after the Kick-off Session.
 1. Click `This looks good, NEXT` at the right.
-1. The `Hiring Team` is where you select who will be working on this vacancy and what access they should have.
+1. The `Hiring Team` is where you select who will be working on this opening and what access they should have.
     - Scroll to the `Who's responsible for this job?` to assign the Hiring Managers, [Recruiter(s)](/handbook/hiring/recruiting-alignment/), Coordinator(s) and Sourcer(s). Everyone who will be involved in interviewing may not be known until after the Kick-off Session. The Recruiter will update the Hiring Team after the Kick-off Session.
 1. Click `This looks good, NEXT` at the right.
-1. Approvals section is where you can add any notes here for the vacancy where it says `Leave a note`.
+1. Approvals section is where you can add any notes here for the opening where it says `Leave a note`.
     - If you were unable to determine the compensation information tag the Compensation and Benefits team in the Approval Notes section with an @ mention.
     - @ mention the Hiring Manager, Recruiter, Sourcer, Sourcing Manager, and People Business Partner (PBP) so they know the REQ has been submiotted for approval.
 1. Click `This looks good, NEXT` at the right.
@@ -108,7 +108,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiter will cr
     - Stage Transitions:
     - N/A
 1. Scroll to the bottom of the page and click `Request Approval`.
-1. You'll be redirected to the vacancy in Greenhouse, where you can review the vacancy, make any changes, or make any updates.
+1. You'll be redirected to the opening in Greenhouse, where you can review the opening, make any changes, or make any updates.
 
 #### Kick-Off Issue
 
@@ -126,7 +126,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiter will cr
 
 #### Post the job internally
 
-1. Create or update the `Job Post` under `Job Setup`, which will hold the vacancy description. Next to the name of the vacancy, click the pencil icon to edit the job post.
+1. Create or update the `Job Post` under `Job Setup`, which will hold the opening description. Next to the name of the opening, click the pencil icon to edit the job post.
 To view the full job description, view our handbook (insert job family url). The compensation calculator can be found through [this url](/handbook/total-rewards/compensation/compensation-calculator/calculator/).
 Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
     - `Job Name` - if only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
@@ -148,7 +148,7 @@ Additional details about our process can be found on our [hiring page](/handbook
     - Uncheck `Include 'Apply with SEEK' button`
 1. Click `Save`.
 1. If there is an _External Job Post_, please **delete** it by clicking the ellipsis (`•••`), then `Delete`.
-1. Click the red button to publish the vacancy to our internal job board.
+1. Click the red button to publish the opening to our internal job board.
 1. After publishing, announce on Slack in `#new-vacancies` for team members to apply or send in referrals. 
 
 ```
@@ -198,11 +198,11 @@ If you are applying rules to reject candidates based on visa sponsorship needs i
 #### Update the Interview Plan
 
 1. Update the `Interview Plan` after the Kick-off Session.
-1. Every vacancy should have an `Get to Know Us` stage. This is also known as Application Review by the Greenhouse Milestone.
+1. Every opening should have an `Get to Know Us` stage. This is also known as Application Review by the Greenhouse Milestone.
 1. Some vacancies have an `Assessment` as the second stage in the process.
-    - If your vacancy requires an assessment but there is no assessment stage already added, scroll to the bottom of the page and click `Add a Stage`.
-    - From there, you can either click `Copy from another job?` at the bottom of the pop-up and select a vacancy you know has an assessment. Click on `Assessment`, then `Add`.
-    - If you're not sure of another vacancy that has an assessment, you can scroll to the bottom of the pre-populated list and select `Take Home Test`, then `Add`.
+    - If your opening requires an assessment but there is no assessment stage already added, scroll to the bottom of the page and click `Add a Stage`.
+    - From there, you can either click `Copy from another job?` at the bottom of the pop-up and select an opening you know has an assessment. Click on `Assessment`, then `Add`.
+    - If you're not sure of another opening that has an assessment, you can scroll to the bottom of the pre-populated list and select `Take Home Test`, then `Add`.
     - Once added, hover over the new stage and click the pencil next to the stage name and change the text from `Take Home Test` to `Assessment`. Then hover over the second `Take Home Test` on the right of the stage and change the text again.
     - The assessment stage **must** be added using one of the two methods above, or it will not work properly. If you have any questions about this, please reach out to the talent acquisition operations team.
     - Once your assessment stage is created, or if it is already included, click `Edit` in the stage. You'll then want to select any attributes you want the grader of the assessment to focus on. This will typically be more technical in nature, but select whatever seems appropriate.
@@ -221,10 +221,10 @@ If you are applying rules to reject candidates based on visa sponsorship needs i
 1. For each interview, click `Edit`.
     - Select the appropriate attributes to focus on in that interview.
     - To the right of `Interview Prep`, choose how long the interview should take (e.g. 30 minutes, 45 minutes, 50 minutes, etc.).
-    - Include the purpose of the call and questions the interviewer should ask. You can copy this over from another vacancy if applicable.
+    - Include the purpose of the call and questions the interviewer should ask. You can copy this over from another opening if applicable.
     - Under `Custom Questions`, be sure that there is a `Full Notes` custom question in addition to the interview specific questions.
     - To add additional questions, click `Add Custom Question`, title it `Full Notes`, choose `Text` as the answer type, and click `Add Custom Question`.
-    - Choose default interviewers. If you have multiple team members that can interview, feel free to input all of their names, and the CES will choose one interviewer when scheduling the interview. This gives visibility to everyone who is trained and ready to perform interviews for this vacancy.
+    - Choose default interviewers. If you have multiple team members that can interview, feel free to input all of their names, and the CES will choose one interviewer when scheduling the interview. This gives visibility to everyone who is trained and ready to perform interviews for this opening.
     - The two `Additional Settings` should both be checked.
     - Click `Save`.
 1. Some teams prefer to have the hiring manager stage broken out separate from `Team Interview` stage and in that case, a stage labeled `Hiring Manager Interview` should be added. To add a new interview in a stage, hover over the stage and click `Add Interview`, then you can copy over an interview from another job or create a new one. You can also move the interviews around within the stage and change the interview names. `Executive Interview` are included in this stage. Depending on the level of the role the executive interviews may be conducted at the end or at any point in the team interview stage. You can customize as needed, including selecting attributes, adding custom questions, setting the interview length and selecting a default interviewer.
@@ -241,7 +241,7 @@ If you are applying rules to reject candidates based on visa sponsorship needs i
 #### Update the Hiring Team
 
 1. Update the `Hiring Team` after the Kick-off Session.
-1. The Hiring Team is where you select who will be working on this vacancy and what access they should have.
+1. The Hiring Team is where you select who will be working on this opening and what access they should have.
     - Scroll to the `Who's responsible for this job?` to assign the Hiring Managers, [Recruiter(s)](/handbook/hiring/recruiting-alignment/), Coordinator(s) and Sourcer(s).
     - Scroll to the `Who can see this job?` section to set permissions to the team members who will need access. Search for someone's name click the pencil and select the correct access level from the drop-down.
     - Search for every person who will be in the hiring process, whether they will be grading assessment, reviewing new applications, or performing interviews.
@@ -333,7 +333,7 @@ Recruiters should unselect or leave unselected the option in Greenhouse to "publ
 
 ### Publishing Vacancies on External Job Boards
 
-Sometimes we need to post vacancies on specialist job boards to attract talent. The budget for this will come from the Department with the open vacancy, and department leaders will need to approve the neccessary budget.   
+Sometimes we need to post vacancies on specialist job boards to attract talent. The budget for this will come from the Department with the open Req, and department leaders will need to approve the neccessary budget.   
 
 ## Evergreen Requisitions 
 
