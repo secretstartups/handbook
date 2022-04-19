@@ -62,13 +62,13 @@ This syncs the new hires to Guardian and is fully automated. Every day we check 
 
 Note that if a team member is added as a last minute hire (in this case defined as with less then 7 days to their start date), the team member will not be picked up by the sync. However a People Experience Associate can run the following command in Slack so that a new team member upload file is created to Guardian:
 
-`/pops run uploadtoi9 <ID_IN_BambooHR_URL>`
+`/pops run uploadtoi9 <BHR_EMPLOYEE_ID>`
 
 ### Update hires
 
 This syncs updates to Guardian. If a change happens in hire date, legal entity or the team member's name, this change needs to be reflected on Guardian as well. This one needs to be triggered by a People Experience Associate by running the following Slack command:
 
-`/pops run reuploadtoi9 <ID_IN_BambooHR_URL>`
+`/pops run reuploadtoi9 <BHR_EMPLOYEE_ID>`
 
 This will trigger a pipeline that fetches the team member on BambooHR. A file with the following naming convention is created: `02_employee_update_mmddyyhhmmss.csv`. The same fields as for new hires are added to this file. Once done, the file is uploaded to Guardian where they process it.
 
@@ -76,7 +76,7 @@ This will trigger a pipeline that fetches the team member on BambooHR. A file wi
 
 This syncs rehires to Guardian. A rehire is defined as a team member who has a previous I-9 record in Guardian that was terminated and the employee is being rehired. This one needs to be triggered by a People Experience Associate by running the following Slack command:
 
-`/pops run rehirei9 <ID_IN_BambooHR_URL>`
+`/pops run rehirei9 <BHR_EMPLOYEE_ID>`
 
 This will trigger a pipeline that fetches the team member on BambooHR. A file with the following naming convention is created: `03_employee_rehire_mmddyyhhmmss.csv`. The same fields as for new hires are added to this file except that there is also a column `rehire` added where the value is set to `yes`. Once done, the file is uploaded to Guardian where they process it.
 
@@ -86,7 +86,7 @@ If an I-9 is not on record in Guardian then you will need to run New Hire Pops c
 The onboarding issue creation is a semi-automated process. Meaning that it needs to be triggered by a People Experience Associate to be started. The way they trigger this is by using a Slack command:
 
 ```
-/pops run onboarding <id_in_BambooHR_URL>
+/pops run onboarding <BHR_EMPLOYEE_ID>
 ```
 
 The onboarding issue will be automatically assigned to the People Experience Associate
