@@ -193,6 +193,14 @@ Working in a truly global team means it's quite possible that nobody else works 
 
 It can be a great way to learn about a new place that you may not know about and is a great source of conversation topics for coffee chats.
 
+<div class="center">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Didn’t have enough room for all the postcards so I had to buy another board to create an extension! <a href="https://twitter.com/hashtag/gitlab?src=hash&amp;ref_src=twsrc%5Etfw">#gitlab</a> <a href="https://twitter.com/hashtag/postcrossing?src=hash&amp;ref_src=twsrc%5Etfw">#postcrossing</a> <a href="https://t.co/VoeeMzLdiG">pic.twitter.com/VoeeMzLdiG</a></p>&mdash; Cynthia &quot;Arty&quot; Ng (@TheRealArty) <a href="https://twitter.com/TheRealArty/status/1420903891764342786?ref_src=twsrc%5Etfw">July 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sending out 30+ picture postcards to my <a href="https://twitter.com/gitlab?ref_src=twsrc%5Etfw">@gitlab</a> friends from 12 different countries today ❤️ <a href="https://t.co/0rPHmBVaTa">pic.twitter.com/0rPHmBVaTa</a></p>&mdash; Manoj 🌈 (@manoj_g33k) <a href="https://twitter.com/manoj_g33k/status/1379339796447784961?ref_src=twsrc%5Etfw">April 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
 ## Coffee chats
 
 <!-- blank line -->
