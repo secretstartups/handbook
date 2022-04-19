@@ -18,6 +18,7 @@ description: "This page is an overview of the processes each party of the search
    - [Evergreen Requisitions](handbook/source/handbook/hiring/talent-acquisition-framework/evergreen-requisitions/)
    - [Hiring Manager Processes](/handbook/hiring/talent-acquisition-framework/hiring-manager/)
    - [How to Complete a Contract - CES Process](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/)
+   - [Internal Hiring Process](/handbook/hiring/talent-acquisition-framework/internal-hiring-process/)
    - [People Technology & Insights Processes](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights)
    - [Req Creation Process](/handbook/hiring/talent-acquisition-framework/req-creation/)
    - [Req Overview Processes](/handbook/hiring/talent-acquisition-framework/req-overview/)
