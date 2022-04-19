@@ -96,10 +96,10 @@ The [Pipeline Execution Workflow board](https://gitlab.com/groups/gitlab-org/-/b
 Our planning timeline follows the [GitLab Product Development timeline](/handbook/engineering/workflow/#product-development-timeline).
 
 * By the **4th** of each month:
-  * The PM will move any issues they are considering for the next milestone into `workflow::planning breakdown`.
+  * The [`~needs weight` board](https://gitlab.com/groups/gitlab-org/-/boards/4178322?not%5Bmilestone_title%5D=Started&label_name%5B%5D=group%3A%3Apipeline%20execution&label_name%5B%5D=needs%20weight) should be updated by the PM for all issues being considered for the next milestone that need weight and apply the `workflow::planning breakdown` label.
+  * Based on capacity, engineers will assign themselves to `~needs weight` issues to apply weight.
   * The PM will assign or update `Verify::P*` labels for the refined issues.
   * The EM will move any `technical debt` issues they are considering for the next milestone into `workflow::planning breakdown`.
-  * The EM will assign issues needing weight to engineers for refinement.
 * By the **13th** of each month:
   * Engineers will refine the assigned issues and move them to `workflow::ready for development`.
   * The EM and PM will update the milestone on issues in `workflow::ready for development` based on the team's capacity for the upcoming milestone and move issues into their respective milestones.
