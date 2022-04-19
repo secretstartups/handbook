@@ -17,7 +17,7 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 |-----------------|------------|
 | Date Created    | 2022-04-13 |
 | Target End Date | 2022-06-30 |
-| Slack           | [#wg_maint-first](https://gitlab.slack.com/archives/C03AWM7780G) |
+| Slack           | [#wg_next-prioritization](https://gitlab.slack.com/archives/C03AWM7780G) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1wog8bR7jg6SECefx9BGqIa07sFm_sXJPvelVAganYmc/edit#heading=h.pmtw3ocv2aty)  |
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/epic_boards/20810) |
 | Epic            | [Link](https://gitlab.com/groups/gitlab-com/-/epics/1799) |
