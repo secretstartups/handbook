@@ -262,13 +262,19 @@ To align our education and enablement with our product, each of the topics below
 ##### Advanced Level
 - [Consul Associate Certification](https://www.hashicorp.com/certification/consul-associate)
 
+## O'Reilly Content Library 
 
+In order to facilitate an environment of learning and development, the Customer Success Team has access to the O’Reilly Learning Platform, which is integrated into [GitLab Learn]((https://gitlab.edcast.com/log_in?auto_sso=true)).  This content library contains thousands of books, videos and live learning courses to assist team members’ with professional development and staying up-to-date with changing technology trends. Additionally, code sandboxes are included within the O’Reilly platform that team members’s can utilize to practice new skills or hone existing ones.
+
+To get started, here is a quick tour of what the O’Reilly Learning Platform can provide to our team, please check out this [short introductory video](https://www.loom.com/share/fca91ca4e127494fb5f4130b85eaa9ea).
+
+If you do not already have a login are outside of the customer success organization, please let the Corproate Learning and Development Team know you are interested. You can also purchase a single licesne with the GitLab pricing by contacting Jason Baca at jbaca@oreilly.com. 
 
 ## Additional Resources
 
 - [Field Enablement Handbook Page](/handbook/sales/field-operations/field-enablement/)
 - [ Field Certification Handbook Page](/handbook/sales/training/field-certification/)
 - [Sales Training](/handbook/sales/training/)
-- [O'Reilly](https://learning.oreilly.com/home/). Contact your manager for a license.
 - [Communities of Practice](/handbook/customer-success/initiatives/communities-of-practice.html)
 - [Learn at GitLab](https://about.gitlab.com/learn/)
+- [GitLab Releases](https://about.gitlab.com/releases/)
