@@ -46,15 +46,9 @@ The [EBA to the CEO](https://about.gitlab.com/handbook/eba/#executive-business-a
 1. The CoS to the CEO will manage time within the meeting
 
 ## Agenda structure
-1. The agenda for each E-Group Weekly has three sections:
-   1. Topics for discussion: items that require allocated time during the meeting
-   1. FYIs: items that don't need any discussion time and can be reviewed async
-   1. Department updates: a **brief** overview of key business happenings within the department. If an E-Group member has an update that will take **over one minute** or require team input, discussion items should instead be added to the "topics for discussion" section. In department updates, it is especially important to share:
-      1. Items not otherwise covered in [Key Reviews](/handbook/key-review/) or [Group Conversations](/handbook/group-conversations/)--or items in these that deserve an additional spotlight
-      1. Changes or updates that impact the business as a whole
-      1. Activities that are of cross-functional interest
-      1. Notable progress or lack of progress against goals
-1. Each "Topics for discussion" agenda item should clearly state the objective for the topic. For example:
-   1. Inform about upcoming announcement
-   1. Get feedback on a proposal
-   1. Make a decision on the Contribute location
+The agenda for each E-Group Weekly has a single section for each meeting. Each agenda item should [include a tag](/handbook/leadership/1-1/suggested-agenda-format/#hallway). Three of the most often used tags are:
+1. FYI: informational, no action needed
+1. TODO: may not require significant discussion time, but there is an ask for all or a subset of E-Group team members
+1. DISCUSS: cover in this meeting
+
+The CoST to the CEO will order agenda topics. FYIs and TODOs will usually appear at the start of a meeting.
