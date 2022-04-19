@@ -11,15 +11,27 @@ description: How to send notices out to GitLab.com users and customers to inform
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Overview
+## Overview of the process
 
-At times the CMOC will be asked to send notices to GitLab SaaS users or customers to inform them of actions that we have taken (or will be taking) on namespaces or projects under their control. These notices are sent in the form of Zendesk tickets. The tickets will always be sent to users with `Owner` level permissions in the namespace or project in question.
 
-Most contact requests will involve contacting all of the owners of only one project or only a few specific users. However, some may involve contacting all of the owners of multiple projects.
+At times the [Support team will be asked to send notices](../internal-support/#gitlab-changes-and-contacting-users) to GitLab SaaS users or customers to inform them of actions that we have taken (or will be taking) on namespaces or projects under their control. 
 
-If you're tasked with contacting the owners of a project and know that there's only one, feel free to look up their email address using your admin account or [ChatOps](https://about.gitlab.com/handbook/support/workflows/chatops.html#user).
+This workflow describes how to fulfill different types of contact requests and the helpful tools you can use in the process.
 
-This workflow describes how to fulfill different types of contact requests and the tools used for each.
+* Support team can be asked to contact users **during an incident**. Such requests are filed by infra team [using `confidential_incident_data` issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data) in [production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/) issue tracker. These must be fulfilled by CMOC during the shift.
+* Contact requests that are **not tied to an incident** are submitted as an [internal-request](internal_requests.html) using [`Contact Request` template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Contact%20Request). These can be performed by anyone with Admin access to GitLab.com. CMOC participation is not obligatory. 
+
+## How to send notices
+
+You should send these notices in the form of Zendesk tickets. Always send these tickets to users with `Owner` level permissions in the namespace or project in question.
+
+Most contact requests will involve contacting all of the owners of only one project or only a few specific users. If you're tasked with contacting the owners of a project and know that there's only one, feel free to look up their email address using your admin account or [ChatOps](chatops.html#user).
+
+However, some contact requests may involve contacting all of the owners of multiple projects. Use various [tools](#tools) provided in this workflow to help you compose the list of email addresses to send tickets to.
+
+Make sure to [add an admin note](admin_note.html) on a user/group we took action on. This will ensure that we can track a block/change reason if a user reaches out to us using a different channel. 
+
+There are various [macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/tree/master/macros/active/Support/SaaS/Notices) in the `Support::SaaS::Notices` section can be used as a template when only a few users need to be contacted.
 
 ## Tools
 
@@ -41,10 +53,6 @@ The results will be created as `namespace-contacts.csv` in the same directory th
 ### Customer Ticket Generator
 
 The [Customer Ticket Generator](https://gitlab-com.gitlab.io/support/support-ops/forms/customer-ticket-generator/) is a form that can be used to send multiple tickets out at once. Once the form is submitted, an issue will be created in the [customer ticket generator tracker](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator) where a member of SupportOps will then run it. This can also be used in conjunction with the [Email Grab Script](#email-grab-script), whose output can be provided as the CSV for the form.
-
-### Zendesk Macros
-
-There are various [macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/tree/master/macros/active/Support/SaaS/Notices) in the `Support::SaaS::Notices` section can be used as a template when only a few users need to be contacted.
 
 ## MailChimp Notices
 

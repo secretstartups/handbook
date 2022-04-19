@@ -82,26 +82,30 @@ You cannot send public replies to customers with a Light Agent account - if you 
 | Schedule Upgrade Assistance Call | **Global organizations:** [Open a case](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#global-support) in the global support portal. <br> **Public Sector organizations:** [Open a case](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#us-federal-support) in the U.S. Federal support portal |
 | Who is on-call for Self-Managed Support? | Run `/chatops run oncall support` in [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
 | Who is on-call for GitLab.com CMOC? | Run `/chatops run oncall cmoc` in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
-| Contact a GitLab.com User | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template.  |
 | Excessive reCaptcha on GitLab.com | While it's happening, post in [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) and link to the issue/MR in question to be added to the allowlist. |
 | Report complaints about support that you received from a client or prospect | [Open an issue](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect%20Feedback) using the `Indirect Feedback` template. |
 
 ### GitLab changes and contacting users
 
-When you believe changes to GitLab will have a high impact on users and/or create numerous inbound tickets,
-we encourage you to contact Support so that the team can be prepared.
+You can request Support to contact GitLab.com users on your behalf. 
 
-Additionally, you can request support to contact GitLab.com users on your behalf.
+Here are some cases when you can request us to contact users:
 
-Common use cases include:
-
-- single user blocked by infra or security
-- changes that have occurred or upcoming
+- you believe the planned production changes to GitLab will have a high impact on users and/or create numerous inbound tickets
+- you need to inform customers of an urgent Security related issue 
+- you've blocked a user on GitLab.com
+- you need to interview a specific account because they are exhibiting atypical usage patterns or behaviors
+- there are important project/group affecting changes
+- there are GitLab.com account problems
 
 | Request    | What To Do                                                   | Where to ask questions |
 | ---------- | ------------------------------------------------------------ | ---------------------- |
+| Contact a user during an incident | [Open a confidential infra issue, assign it to the current CMOC](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data), use `confidential_incident_data` template | #support_gitlab-com |
 | Contact a single user | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template | #support_gitlab-com |
 | Prepare Support for changes (with or without contacting select users) | [Open a Support Readiness issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Readiness) | #spt_managers |
+| I need to reach out to many users | Fill out the [customer ticket generator form](https://gitlab-com.gitlab.io/support/support-ops/forms/customer-ticket-generator/). This will create a structured issue that Support Ops will use to bulk create the requested tickets.  | #support_operations | 
+
+**Please note**: This is not for marketing or sales related contact. This channel is only for communication with users regarding important items that might affect their usage of GitLab SaaS.
 
 ### GitLab.com Namespaces
 
@@ -194,23 +198,6 @@ If *none* of these above are options for your case, open a [billable members int
 Please see the dedicated [Support Escalations](/handbook/support/internal-support/support-escalations.html) page.
 
 ---
-
-### Contacting customers via tickets
-
-At times, you may need to reach out to one or more users about
-GitLab SaaS. Some examples might be:
-
-* An urgent Security related issue
-* Important project/group affecting changes
-* Account problems
-* Questionable user behavior
-
-| Request | What to do |
-|---------|------------|
-| I need to reach out to a single user | Use the information at [Contacting a User](../workflows/cmoc_workflows.html#contacting-a-user). This will guide you on how to make the request. |
-| I need to reach out to many users | Fill out the [customer ticket generator form](https://gitlab-com.gitlab.io/support/support-ops/forms/customer-ticket-generator/). This will create a structured issue that Support Ops will use to bulk create the requested tickets.  |
-
-**Please note**: This is not for marketing or sales related contact. This channel is only for communication with users regarding important items that might affect their usage of GitLab SaaS.
 
 ### Other
 

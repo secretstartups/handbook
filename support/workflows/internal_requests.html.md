@@ -72,9 +72,9 @@ GitLab team members can create this request for their own use or on behalf of th
 
 ## Contact Request
 
-GitLab team members, primarily infra, will use this template to request Support to contact a user on their behalf. If requested to do this via Slack, open an issue on behalf of the requestor.
+GitLab team members will use this template to request Support to contact a user on their behalf. 
 
-The requestor should contact the [CMOC](/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces) to fulfill the request, as the CMOC has the ability to look up user email-addresses.
+Usually, these are assigned to [CMOC](/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces), but can also be completed by anyone with admin-level access to GitLab.com. `Admin Escalation` label is applied and everyone with admin access is supposed to be subscribed and working on such issues.
 
 See the [Sending notices workflow](/handbook/support/workflows/sending_notices.html) for complete instructions on how to contact users.
 
