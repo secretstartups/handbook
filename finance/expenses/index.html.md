@@ -416,62 +416,6 @@ But we should not make cuts in reaction to the need to reduce spend; that would 
 Instead, we should do the hard work of identifying positions and costs that are not contributing to our goals.
 Even if this causes a bit more disruption in the short term, it will help us ensure we stay a great place to work for the people who are here.
 
-### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Renting Cars
-
-#### US and Canada
-
-##### Third Party Liability
-
-Purchase the liability insurance that is excess of the standard inclusion of State minimum coverage in the rental agreement at the rental agency. GitLab’s insurance policy provides liability insurance for rental cars while conducting company business, but it may be excess over any underlying liability coverage through the driver or credit card company used to purchase the rental.
-
-Purchase the liability offered at the rental counter if there are foreign employees renting autos in the US or Canada. While workers' compensation would protect an injured US employee, other passengers may have the right to sue. To ensure that GitLab has protection when a foreign employee invites another person into the car we recommend the purchase of this insurance when offered at the rental counter.
-
-##### Physical Damage - Collision Damage Waiver
-
-**Do Not** purchase the Collision Damage Waiver offered at the rental counter. GitLab purchases coverage for damage to rented vehicles.
-If travel to Mexico is required, **purchase** the liability insurance for Mexico offered at the rental counter. You should verify that the rental agreement clearly states that the vehicle may be driven into Mexico and liability coverage will apply.
-
-#### Countries other than the US and Canada
-
-##### Third Party Liability
-
-Purchase the liability insurance offered at the rental counter when traveling outside the US and Canada. Automobile Bodily Injury and Property Damage Liability insurance are required by law in almost every country. Please verify this coverage is included with the rental agreement.
-
-##### Physical Damage - Collision Damage Waiver
-
-Purchase the Collision Damage Waiver or Physical Damage Coverage offered by the rental agency when traveling outside the US and Canada.
-
-In the event of an accident resulting in damage to the rental car, the foreign rental agency will charge the credit card used to make the reservation with an estimated amount of repair costs if insurance is not purchased. If this happens, GitLab does not purchase Foreign Corporate Hired Auto Physical Damage Coverage to reimburse for damages.
-
-
-## <i class="far fa-flag" id="biz-tech-icons"></i>  Non-reimbursable Expenses
-
-As we ask team members to [spend company money like its your own](/handbook/values/#spend-company-money-like-its-your-own), we try not to micromanage spending. Our spending sub-value is the foundation of our expense philosophy, and we've found that the vast majority of team members exercise thoughtful judgement in purchasing. That said, we've had some questionable purchases. Some examples of purchases that have felt incongruent with the spirit of our spending sub-value include:
-
-1. Costume for the party at the end of Contribute
-1. Boarding expense for animals while traveling
-1. A $1700 office chair
-1. A llama rental for a team event
-1. Meals during the Contribute when team members opt out of the company provided meal option
-1. Cellphones and accessories
-1. Travel-related expenses for family members of GitLab employees
-1. Fitness equipment (treadmill, etc..) and gym membership
-1. Meals from co-working day(s)
-1. Home office decor (picture frames, hanging plants, area rugs, lamps, book shelves)
-1. Meals or beverages while attending co-working space
-1. Treadmill Desks
-1. Portable Air Conditioners
-1. Home Power Generators
-1. [Individual subscriptions ex. Krisp, Apple Music](#individual-subscriptions)
-1. Extended protection/warranty
-
-You should proactively engage your manager if you plan to make a work purchase that is outside of what would be considered standard by an average team member. Please [say why, not just what](/handbook/values/#say-why-not-just-what) when you are explaining what you are purchasing and why.
-
-
-## <i class="far fa-flag" id="biz-tech-icons"></i> Independent Contractors
-
-In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute-related on their invoices, prior to submitting to the Company.
-
 ## Expense Reimbursement for Terminated Team Members
 
 If a team member whom you managed has left GitLab and comes to you with final expenses that are valid for reimbursement, please verify that they were not already processed in Expensify and then contact Accounts Payable. You must submit valid receipts and a completed copy of the [Expense Reimbursement template](https://docs.google.com/spreadsheets/d/1D0kWlqol7jBjqn7yDY6uc7UCWSIcUmiF/edit?usp=sharing&ouid=108533621432009168804&rtpof=true&sd=true) along with your approval. Please note that we may also ask the terminated team member to provide valid banking details in order to process the payment to them. 
