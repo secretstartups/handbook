@@ -62,7 +62,7 @@ Start with teams that are not in Engineering Allocations first with a goal of at
 | Executive Sponsor     | Eric Johnson                                         | CTO                                                        |
 | Facilitator           | Wayne Haber                                          | Director of Engineering                                    |
 | Functional Lead       | Christopher Lefelhocz                                | VP of Development                                          | 
-| Functional Lead       | Christie Lenneville                                  | VP of UX  |
+| Functional Lead       | Valerie Karnes                                  | Director of Product Design |
 | Functional Lead       | Mek Stittri                                          | VP of Quality |
 | Functional Lead       | David DeSanto                                        | VP of Product Management |
 | Functional Lead       | Justin Farris                                        | Senior Director of Product Management |
