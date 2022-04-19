@@ -83,3 +83,4 @@ The GitLab Learning & Development runs a quarterly [manager enablement program](
 * [Coping successfully with your transition, Lynda.com](https://www.lynda.com/Business-Skills-tutorials/Coping-successfully-your-transition/119004/132715-4.html)
 * [Are You A First-Time Manager? Here Are 5 Essential Tips for Success!, Inc.com](https://www.inc.com/melissa-lamson/5-success-strategies-for-first-time-managers.html)
 * [Use This Tactic To Avoid Burnout As A New Manager, American Management Association](https://playbook.amanet.org/training-articles-avoid-burnout-new-manager/)
+
