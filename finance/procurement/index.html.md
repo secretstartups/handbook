@@ -182,12 +182,40 @@ If your request meets any of the below criteria, add the additional time noted f
 - Turn time is based on the maturity of the suppliers security protocols and supplier response time to the ZenGRC email request.
 - **TIP:** To increase speed of approval, upload any security compliance documentation to the Coupa Request and notify your supplier contact they will be receiving a request from  ZenGRC for completion ASAP.
 
-### Legal Review: 1-2 Weeks  
-- Multiple redline versions may be required in these situations:
-    - Industry standard terms and conditions are not used
-    - The agreement is a large agreement with a new supplier
-    - The supplier is not quick to agree to GitLab's requirements of doing business
-- Turn time is based on complexity and the suppliers willingness to agree to fair and reasonable terms for GitLab.
+### Legal Review: 3 Days - 3+ Weeks  
+ _Note: The amount of time for review, and to reach execution, is based on the details below. Use these SLA's as guidelines, noting that each contract review process is unique and if additional terms, requirements, and/or risks are identified the timeline for completion may be extended_
+
+- **Existing Vendors: 3-5 Days**
+    - If new terms, and/or risks are introduced or required, this may take longer.
+    - Any delays from the supplier, will delay final approvals.
+- **New Vendors: 1-3+ weeks**
+    - If vendor doesn't readily accept the GitLab standard terms, additional rounds of red-lines and negotiations may be required, extending this SLA.
+    - Whenever possible, the legal team hopes to achieve red-lines--to be provided back to the vendor--no later than five (5) business days after being assigned.
+
+**Types of Vendors**
+- Net New:
+    - These require the most amount of time as GitLab will be establishing (for the first time) terms and conditions which will govern the use of the products and/or services being procured.     
+    - Negotiations can vary from 1 week to multiple months based on the level of detail and modifications required to reach executable terms. 
+
+- Renew / Upsell: 
+   - These generally require much less time as existing terms are in place which will underline the products and/or services being offered. 
+   - That being said, in the event GitLab where to add a new product and/or service (from an existing Vendor) additional cycles may be required in order to create amendment(s) to the existing agreement. 
+
+- One-time Transaction: 
+   - These generally require much less time as existing terms are in place which will underline the products and/or services being offered. 
+
+**Types of Agreements (generally broken into three (3) categories)**
+- Software (SaaS & On-Prem): Requires the most rigorous review to ensure the rights and obligations placed upon GitLab are, (i) reasonable given the Software being provided, and (ii) align with GitLab contracting and industry standards. 
+
+- Professional Services / Training: Requires detailed review to ensure intellectual property ownership aligns with our intentions, as well as, reasonable obligations being placed upon GitLab. 
+
+- Marketing / Events: Generally, requires the least amount of time to review as the obligations are standardized given the event in question and program provided. Details regarding events may include negotiations with regards to Force Majeure, cancellation (including penalty), and ensuring the terms of the Agreement align with those of the requesting GitLab Team Members.  
+
+**Additional Details**
+- As discussed above, the turnaround time for the review of an Agreement is contingent on many factors. The goal of the legal team is to review and provide red-lines as thoroughly and promptly as possible. 
+
+- The ability for GitLab to process and work efficiently through an agreement negotiation relies on the vendor, and vendor counsel, to respond promptly to GitLab red-lines and comments. 
+
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> What if I have an Urgent Request?
 If you are unable to plan and have a legitimate reason to escalate a purchase request, follow the process below.
