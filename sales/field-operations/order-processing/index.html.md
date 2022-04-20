@@ -671,15 +671,15 @@ If you are a quote approver and will be out of office for any duration of time, 
 1. Tag Sales-Support in chatter to notify the Deal Desk team that you will be out of office and need quote approvals to be rerouted during your absence. Please tag the individual to whom quotes should be rerouted, along with the dates that you will be out of office.
 1. Navigate to your personal settings in SFDC. At the top right corner of your screen, Click on your name. In the drop down, click "My Settings".
 1. Enter Approver Settings in the Quick Find box, then select Approver Settings. No results? Enter Personal Information in the Quick Find box, then select Personal Information.
-     1.  Assign your Delegated Approver (the individual to whom your quotes sould be rerouted).
+     1.  Assign your Delegated Approver (the individual to whom your quotes should be rerouted).
      1.  Verify with your Delegated Approver that they have set their [SFDC Approval Settings](https://help.salesforce.com/articleView?id=approvals_change_approval_user_pref.htm&type=5) to "If I am an approver" or "Delegated Approver".
 
-Note: If you are a Delegated Approver and are not recieving approval emails, contact sales-support for assitance.     
+Note: If you are a Delegated Approver and are not receiving approval emails, contact sales-support for assistance.
 
 
 #### Approving Multiple Product Tiers on One Quote
 
-If a quote has mutiple product tier skus (ex. Premium AND Ultimate), **this requires additional approvals prior to booking the opportunity**.  
+If a quote has multiple product tier SKUs (ex. Premium AND Ultimate), **this requires additional approvals prior to booking the opportunity**.
 
 1. All orders with mixed SKUs must be reviewed by revenue accounting for a fair value analysis prior to being sent to Zuora. Request approval via chatter.
 1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. ARR, iACV, PCV, etc).
@@ -1038,7 +1038,7 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
 1. When IBM has closed the deal, an IBM contact will send order details to IBMdealreg@gitlab.com. The Alliance Operations team monitors this email alias.
 2. Navigate to the opportunity, create a contact with the following information:
   - Name: IBM Ecosystem Project Office
-  - For Email, Phone, Mailing Adress, see [example contact](https://gitlab.my.salesforce.com/0034M000021U7bK).
+  - For Email, Phone, Mailing Address, see [example contact](https://gitlab.my.salesforce.com/0034M000021U7bK).
   - Region: NORAM, Sub-Region: US East
 3. Create a quote per standard practice, and enter the following information:
   - Invoice Owner = IBM OEM (Alliance Partner)
@@ -1079,8 +1079,8 @@ A copy of the Distributor PO to GitLab must be attached to the opportunity. The 
 1. The Distributor PO should be signed. 
 2. Period of Performance (POP) dates should align with the existing subscription (if applicable).
 3. The Distributor PO DOES NOT NEED TO REFERENCE THE GITLAB QUOTE NUMBER. 
-5. The Distributor Sold To contact must match the contact used on the Quote Object of the opportunity. The Sold To Contact can be Listed at the top of the PO **OR** in the Additional Information Section. ISRs will confirm the correct Sold To if necessary. 
-7. Distributor's have pre approved Payement terms and do not require additional approval provided the PO does not deviate from standard contract terms.
+5. The Distributor Sold To contact must match the contact used on the Quote Object of the opportunity. The Sold To Contact can be listed at the top of the PO **OR** in the Additional Information Section. ISRs will confirm the correct Sold To if necessary.
+7. Distributor's have pre approved Payment terms and do not require additional approval provided the PO does not deviate from standard contract terms.
 
 After the ISR or Account manager confirms the Distributor PO is correct, a quote object will be created on the opportunity to match the Distributor PO to GitLab.
 
@@ -1180,8 +1180,8 @@ Customer procurement cycles can take time. A start date on a quote may be in the
 
 **Renewal Opportunity**
 
-1. Renewal opportunties where the Start Date < 2 weeks in the past will be booked as is, without additional confirmation or intervention from the sales team. 
-2. Renewal opportuntiies where the Start Date is > 2 weeks in the past will require a chatter confirmation from the sales team confirming that the customer has had support/access to these users since the Start Date. Deal Desk will tag the opportunity owner directly to confirm the Start Date prior to booking. 
+1. Renewal opportunities where the Start Date < 2 weeks in the past will be booked as is, without additional confirmation or intervention from the sales team.
+2. Renewal opportunities where the Start Date is > 2 weeks in the past will require a chatter confirmation from the sales team confirming that the customer has had support/access to these users since the Start Date. Deal Desk will tag the opportunity owner directly to confirm the Start Date prior to booking.
 3. The opportunity must meet all booking requirements and is still subject to the Bookings Policy.  
 
 
@@ -1286,7 +1286,7 @@ To view the status of an opportunity after it has been submitted for approval, *
 *  **Deal Desk Approval:** If Deal Desk approves the opportunity based on the criteria above, the “Approval Status” field will update to “Deal Desk Approved.” The opportunity will remain in stage “7- Closing,” but will route to the Billing team for Finance approval.
 *  **Deal Desk Rejection:** If Deal Desk rejects the opportunity based on the criteria above, the “Approval Status” field will update to “Rejected” and the opportunity will unlock. The opportunity will revert to stage “6- Awaiting Signature.” A rejection email will be sent to the Sales Rep with rejection comments and/or instructions. After taking the appropriate action(s) outlined in the rejection comments, the Sales Rep should re-submit the opportunity for approval.
 * **Finance Approval**: Once Deal Desk has reviewed and approved the transaction, Finance will review. If the opportunity is approved by Finance, the stage will update to “Closed Won” and the deal is officially booked. An approval email will be sent to the opportunity owner and Slack message will appear in the “wins” channel and the "wins-key-deals" channel where applicable.
-*  **Finance Rejection:** Once Deal Desk has reviewed and approved the transaction, Finance may reject the opportunity. If Finance rejects the opportunity, the stage will remain in “7- Closing” and both the Sales Rep and Deal Desk Analyst will receive an alert email containing the rejection reason. The Sales Rep should work with the Deal Desk Analyst to rectify the issues that led to Finance rejection. Once the issues are resolved, the Deal Desk Analyst will approve the deal once more to submit it to Finance for final approval.       
+*  **Finance Rejection:** Once Deal Desk has reviewed and approved the transaction, Finance may reject the opportunity. If Finance rejects the opportunity, the stage will remain in “7- Closing” and both the Sales Rep and Deal Desk Analyst will receive an alert email containing the rejection reason. The Sales Rep should work with the Deal Desk Analyst to rectify the issues that led to Finance rejection. Once the issues are resolved, the Deal Desk Analyst will approve the deal once more to submit it to Finance for final approval.
 
 <details>
 <summary markdown="span"><b>Deal Desk Approval Process</b></summary>
@@ -1379,11 +1379,11 @@ Notes on License Timing:
 - SaaS:
   - For SaaS deals, the entitlement will be provisioned and made available to the customer on the Quote Start Date.
 
-Licensing emails sent to customers are captured and stored in Salesforce as an Activity against the Contact record. This activity will also be related to the Account record, and can be found under "Acitivity History" list on the Account level.
+Licensing emails sent to customers are captured and stored in Salesforce as an Activity against the Contact record. This activity will also be related to the Account record, and can be found under "Activity History" list on the Account level.
 
 Look for Task title: `Email: Your GitLab License File`
 
-#### My customer didn't recieve the License File! Help!
+#### My customer didn't receive the License File! Help!
 
 Check out our [License Troubleshooting page](/handbook/business-ops/business_systems/portal/troubleshooting)
 
