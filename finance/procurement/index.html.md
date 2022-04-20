@@ -89,7 +89,7 @@ Please note, it takes several hours for Coupa to activate the supplier and be ab
 </div>
 </div>
 #### If Existing Supplier:
-- Proceed to Step 2.
+- Proceed to Step 3.
 
 #### If Unsure:
 - You can [search Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier) for a list of existing suppliers.
