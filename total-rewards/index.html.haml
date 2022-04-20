@@ -50,7 +50,7 @@ extra_css:
             %li Julie Samson - Total Rewards Analyst
             %li Morgan Wilkins - Senior Total Rewards Analyst
             %li Raisha Kole - Senior Benefits Program Manager
-            %li Shiloh Barry - Total Rewards Coordinator
+            %li Sandra Choi - Global Compensation Partner
 
           For feedback or questions relating to compensation, benefits and equity, you can reach out to us via:
 
@@ -72,6 +72,6 @@ extra_css:
       .row
         .col-md-6.col-md-offset-3
           .content-section
-            %div.text-center.total-rewards-subtitle Summary of Events for FY 2022:
+            %div.text-center.total-rewards-subtitle Summary of Events for FY 2023:
             - calendar = data.people_group.calendar.find { |cal| cal['team'] == 'Total Rewards'}
             = partial "includes/people-operations/team_calendar", locals: {calendar: calendar}
