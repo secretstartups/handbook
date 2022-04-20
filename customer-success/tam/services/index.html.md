@@ -44,7 +44,7 @@ There are various services a Technical Account Manager will provide to ensure th
 ### Support
 
 - Upgrade planning (in partnership with Support)
-  - Review [Live Upgrade Assistance page](/support/scheduling-live-upgrade-assistance.html#how-do-i-schedule-live-upgrade-assistance) with customers when upgrading to ensure a plan is in place(including rollback strategy) and Support have enough preparation time to be available to help.
+  - Review [Upgrade Assistance page](/support/scheduling-upgrade-assistance.html#how-do-i-schedule-upgrade-assistance) with customers when upgrading to ensure a plan is in place(including rollback strategy) and Support have enough preparation time to be available to help.
 - [Infrastructure upgrade coordination](/handbook/customer-success/tam/services/infrastructure-upgrade/)
 - Launch best practices
 - Advocate on support escalations

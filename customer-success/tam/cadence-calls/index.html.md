@@ -167,7 +167,7 @@ These are suggestions that can be used at any time on customer calls.
 - Discuss if their users have any feedback, pain points, or blockers
 - Ask if there is anything the TAM can assist on towards resolution (feature requests, support tickets, etc.)
 - Ask about any gaps in or outdated information in Gainsight (watch an [8 minute video](https://youtu.be/yk95b6u26So) for recommendations!)
-- If self-managed, review their current version, planned upgrades, and if they need [Live Upgrade Assistance](/support/scheduling-live-upgrade-assistance.html#how-do-i-schedule-live-upgrade-assistance)
+- If self-managed, review their current version, planned upgrades, and if they need [Upgrade Assistance](/support/scheduling-upgrade-assistance.html#how-do-i-schedule-upgrade-assistance)
 - If self-managed, review if there are any planned, upcoming, or ongoing deployment changes (e.g. Geo, HA, etc.) and ensure they are familiar with support
 - If self-managed, iscuss their backup/recovery plans and if they have recently tested restoring from a backup
 - If self-managed, discuss if they have [signups enabled](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html)
