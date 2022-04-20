@@ -33,7 +33,7 @@ They work closely with GitLab’s Data team to enable new data capabilities that
 * Working knowledge of HTML.
 * Able to thrive in a fully remote organization.
 * Able to use GitLab.
-* BS degree in Computer Science, Finance, Accounting or Economics
+
 
 ### Nice to haves
 * Experience in a peak performance organization
