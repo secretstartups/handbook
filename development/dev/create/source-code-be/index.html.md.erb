@@ -12,7 +12,7 @@ description: The Create:Source Code BE team is responsible for all backend aspec
 
 The Create:Source Code BE team focuses on GitLab's suite of Source Code Management (SCM) tools and is responsible for all backend aspects of the product categories that fall under the [Source Code group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle]. 
 
-We interface with the Gitaly and Code Review teams, and work closely with the [Create:Source Code Frontend team](../../create-source-code-fe/index.html). The features we work with are listed on the [Features by Group Page](https://about.gitlab.com/handbook/product/categories/features/#createsource-code-group).
+We interface with the Gitaly and Code Review teams, and work closely with the [Create:Source Code Frontend team](../../create-source-code-fe/index.html). The features we work with are listed on the [Features by Group Page](https://about.gitlab.com/handbook/product/categories/features/#createsource-code-group) and technical documentation can be found on the [Create: Source Code Backend](https://docs.gitlab.com/ee/development/backend/create_source_code_be/index.html) technical reference page.
 
 [group]: /handbook/product/categories/#source-code-group
 [stage]: /handbook/product/categories/#create-stage
@@ -64,11 +64,7 @@ For more urgent items, feel free to use `#g_create_source_code` on Slack.
 
 Weekly calls between the Product Manager and Engineering Managers (frontend and backend) are listed in the "Source Code Group" calendar. Everyone is welcome to join and these calls are used to discuss any roadblocks, concerns, status updates, deliverables, or other thoughts that impact the group. 
 
-Every 2 weeks (in the middle of a release), a mid-milestone check-in occurs, to report on the current status of `~"Deliverable"`s. Monthly calls occurs under the same calendar where the entire group is encouraged to join, in order to highlight accomplishments/improvements, discuss future iterations, review retrospective concerns and action items, and any other general items that impact the group.
-
 #### Issue refinement
-
-To ensure we are living our iteration value consistenly, we should be intentional in asking ourselves: "is this in the smallest possible form it could be?". To that end engineers, designer, EMs, and PM should work together to find the smallest feature set that delivers value to users and can be used to elicit feedback for future iterations. Once a feasible issue plan comes together. Let's consider the following steps for best results:
 
 1. Once we have validated the problem, product, UX, and engineering will collaborate to propose a solution and decide on what's technically feasible. The proposed solution will be shared with users to validate it solves the problem.
 1. Once we have confirmed the proposed solution is viable, we will move to break it down as much as possible. When issues are ready for this stage, PM will mark issues with `workflow::refinement` label to signal next step.
@@ -99,7 +95,7 @@ Application Security will be involved in our workflow at the same time that [kic
 
 ### Triage Process
 
-The weekly Triage Report is generated automatically by the [GitLab bot](https://gitlab.com/gitlab-bot) and this report is reviewed by the EM and Staff Engineer. Here is [an example](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/2700) of a previous report.
+The weekly Triage Report is generated automatically by the [GitLab bot](https://gitlab.com/gitlab-bot) and this report is reviewed by the EM. Here is [an example](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/2700) of a previous report.
 
 The Triage Report can be quite long, and it important to deal with it efficiently. An effective way to approach it is:
 
@@ -145,10 +141,6 @@ Each month a planning issue is created by the PM, using the [Source code templat
 The [Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/2822491?milestone_title=14.1&label_name%5B%5D=group%3A%3Asource%20code) is created for each release by the PM, and is a curated list of issues by category. The EM requests engineers to allocate weights to all issues on this board via the [Needs weight issue](https://gitlab.com/gitlab-org/create-stage/-/issues/12837)
 
 #### Needs Weight issue
-
-> If you haven't read the code, you haven't investigated deeply enough
->
-> -- <cite>Nick Thomas</cite>
 
 A list of candidate issues for the release will be distributed to team members in a Needs Weight issue [_example_](https://gitlab.com/gitlab-org/create-stage/-/issues/12797) to "weight" or estimate the capacity needed to complete the work. The EM attempts to limit each team member to 4-5 issues, and the estimates should be timeboxed to \~4 hours. If an issue can't be weighted in this window, it requires a research spike.
 See [Weighting Issues](#weighting-issues) for more details on how weights are allocated.
@@ -279,34 +271,7 @@ Emails get sent to each individual contributor on the team, as well as the Appli
 
 ##### Kickoff emails
 
-The Kick-off emails are sent manually by the EM, and use this template:
-
-```
-Hi _team member_,
-
-For 14.1, you are available 90% of the time, so your weight budget is 9.
-
-This is due to: Family and Friends Day 2021-06-25 and OOO 2021-06-24.
-
-These are the issues you're being assigned, please speak up if they
-are unreasonable (blocked, too large, etc):
-
-- Mirrors won't download new LFS files
-https://gitlab.com/gitlab-org/gitlab/-/issues/331364
-
-_list each issue here_
-
-Here is the build board for the group:
-
-https://gitlab.com/groups/gitlab-org/-/boards/363876?label_name%5B%5D=group::source%20code&label_name%5B%5D=Deliverable&label_name%5B%5D=backend&milestone_title=14.1
-
-Many thanks for all of your efforts,
-
-Sean
-
-```
-
-#### Follow-up issues
+The Kick-off emails are sent manually by the EM
 
 You will begin to collect follow-up issues when you've worked on something in a release but have tasks leftover, such as technical debt, feature flag rollouts or removals, or non-blocking work for the issue. For these, you can address them in at least 2 ways:
 * Add an appropriate future milestone to the follow-up issue(s) with a weight and good description on the importance of working this issue
