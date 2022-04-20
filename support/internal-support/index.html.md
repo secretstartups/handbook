@@ -79,7 +79,7 @@ You cannot send public replies to customers with a Light Agent account - if you 
 
 | Request    | What To Do                                                   |
 | ---------- | ------------------------------------------------------------ |
-| Schedule Upgrade Assistance Call | **Global organizations:** [Open a case](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#global-support) in the global support portal. <br> **Public Sector organizations:** [Open a case](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#us-federal-support) in the U.S. Federal support portal |
+| Schedule Upgrade Assistance Call | **Global organizations:** [Open a case](https://about.gitlab.com/support/scheduling-upgrade-assistance.html#global-support) in the global support portal. <br> **Public Sector organizations:** [Open a case](https://about.gitlab.com/support/scheduling-upgrade-assistance.html#us-federal-support) in the U.S. Federal support portal |
 | Who is on-call for Self-Managed Support? | Run `/chatops run oncall support` in [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
 | Who is on-call for GitLab.com CMOC? | Run `/chatops run oncall cmoc` in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
 | Excessive reCaptcha on GitLab.com | While it's happening, post in [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) and link to the issue/MR in question to be added to the allowlist. |

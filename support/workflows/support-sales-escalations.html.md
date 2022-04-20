@@ -34,7 +34,7 @@ Since TAMs are assigned based on [certain criteria](/handbook/customer-success/t
 |--|--|--|
 |Make TAM aware of Emergency and/or High Priority tickets|Zendesk: cc @TAM, Slack: @mention TAM|Ticket Workflow: All queues|
 |Involve TAM if a customer requested an escalation on the ticket|Zendesk: cc @TAM, Slack: @mention TAM|Ticket Workflow: All queues|
-|Involve TAM if a customer files a ticket requesting [live upgrade assistance](/handbook/support/workflows/live-upgrade-assistance.html#the-process) but there is no corresponding internal issue|Zendesk: cc @TAM, Slack: @mention TAM|Ticket Workflow: Self Managed|
+|Involve TAM if a customer files a ticket requesting [upgrade assistance](/handbook/support/workflows/upgrade-assistance.html#the-process) but there is no corresponding internal issue|Zendesk: cc @TAM, Slack: @mention TAM|Ticket Workflow: Self Managed|
 |Involve TAM if we identify a need for training a user from customer’s end, or, if customer requests for it directly|Zendesk: cc @TAM, Slack: @mention TAM|Ticket Workflow: All queues|
 |Make TAM aware of tickets which require managing customer relationship due to expectations mismatch|Zendesk: cc @TAM Slack: @mention TAM|Ticket Workflow: All queues|
 |[Add a customer to an organization](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#adding-a-customer-to-an-organization-all-zendesk-users)|Slack: #account-management|Needs Org Workflow|

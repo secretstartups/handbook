@@ -24,8 +24,8 @@ As part of [GitLab Support on-call](/handbook/support/on-call/), Support Manager
 1. Ensuring customer emergencies are [handled promptly and accurately](#handling-customer-emergencies-and-incidents), [according to SLAs](https://about.gitlab.com/support/)
 1. [Handling customer-related escalations](#mechanics-of-handling-escalations) during business hours according to the [support escalation definitions of urgency](/handbook/support/internal-support/support-escalations.html#definition-of-urgency)
 1. Acting as a [notification point for security incidents](#act-as-a-notification-point-for-security-incidents)
-1. Providing direction and assistance with regards to [Live Upgrade Assistance Requests](#provide-assistance-with-live-upgrade-assistance-requests) initiated during the shift
-1. Help ensure new tickets don't breach by keeping an eye on the `Needs Org / FRT` view. Ping your region in `#support_team-chat` if tickets are building up to remind people to take new tickets. See [Meeting our FRT SLA](/handbook/support/workflows/meeting-frt-sla.html) for details of how we meet our FRT SLA.
+2. Providing direction and assistance with regards to [Upgrade Assistance Requests](#provide-assistance-with-upgrade-assistance-requests) initiated during the shift
+3. Help ensure new tickets don't breach by keeping an eye on the `Needs Org / FRT` view. Ping your region in `#support_team-chat` if tickets are building up to remind people to take new tickets. See [Meeting our FRT SLA](/handbook/support/workflows/meeting-frt-sla.html) for details of how we meet our FRT SLA.
 
 ## Handling customer emergencies and incidents
 
@@ -91,18 +91,18 @@ When an escalation is resolved:
 
 When GitLab experiences a [security incident](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows.html).
 
-## Provide assistance with Live Upgrade Assistance Requests
+## Provide assistance with Upgrade Assistance Requests
 
-[Live upgrade assistance requests](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) are currently triaged by engineers as part of the [Working on Tickets](/handbook/support/workflows/working-on-tickets.html) but in some cases the triaging agent(s) may need assistance from Support management.
+[Upgrade assistance requests](https://about.gitlab.com/support/scheduling-upgrade-assistance.html) are currently triaged by engineers as part of the [Working on Tickets](/handbook/support/workflows/working-on-tickets.html) but in some cases the triaging agent(s) may need assistance from Support management.
 
 #### Example situations and potential solutions
 
-- User requesting Live Upgrade Assistance outside of [GitLab Support Hours](/support/#definitions-of-gitlab-global-support-hours)
+- User requesting Upgrade Assistance outside of [GitLab Support Hours](/support/#definitions-of-gitlab-global-support-hours)
    - Reach out to your reports to determine whether any individuals would be open to shifting their working hours to accommodate the day/time being requested
    - Work with the end user to reschedule for another date/time that is more amenable to support staffing
-- User has provided insufficient [scheduling notice](/support/scheduling-live-upgrade-assistance.html#how-far-in-advance-must-i-open-a-support-request-to-request-live-upgrade-assistance)
+- User has provided insufficient [scheduling notice](/support/scheduling-upgrade-assistance.html#how-far-in-advance-must-i-open-a-support-request-to-request-upgrade-assistance)
    - Evaluate whether the scope of the upgrade may allow for an expedited review within the original timeframe (ie. single minor version upgrade on single node omnibus)
-   - Work with the end user to reschedule or advise them that we may be able to perform a review of their plans but may not be able to schedule a live session with an engineer
+   - Work with the end user to reschedule or advise them that we may be able to perform a review of their plans but may not be able to schedule a session with an engineer
 - Last minute change in assignee availability
    - Work with available team members to determine if the upgrade assistance can be transferred to a new engineer and communicate the change(s) to the end user for awareness
 
