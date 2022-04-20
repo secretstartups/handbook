@@ -64,7 +64,7 @@ To comply with GDPR and similar privacy laws, all team members with a Recorder l
 
 ## Why is My Meeting "Livestreamed"?
 
-(https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/live-on-zoom.png)
+![live-on-zoom](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/live-on-zoom.png)
 
 - The banner "Live on Zoom with Chorus.ai" is controlled and set by Zoom, therefore neither Chorus nor GitLab can make changes to the text.
     - This banner means that your meeting is being actively recorded by Chorus.ai and will be stored within the Chorus.ai platform for a period of 90 days, in accordance with GitLab's data retention policy for Chorus.ai.
