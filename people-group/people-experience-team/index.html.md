@@ -413,8 +413,8 @@ THe first day of the month, the People Experience Associate in the assigned rota
 **note** If need be, please adjust the dates by editing the report. 
 - View the employees listed.
 - Go to each team members profile, then to documents, then go to either employee uploads or contracts folder. Check for the letter.
-- If a letter has been uploaded, there is nothing further you will need to do.
-- If there is not a letter, please reach out to the team member to have them upload the letter. 
+- If a letter has been uploaded, move it to the Background Check folder within the Contracts & Changes folder.
+- If there is no letter, please reach out to the team member to have them upload the letter. Once you receive confirmation that it has been uploaded, move it to the Background Check folder within the Contracts & Changes folder.
 
 #### Deleting Team Member Data from Letter of Employment Rotation
 
