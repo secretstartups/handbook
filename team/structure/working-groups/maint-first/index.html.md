@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Next Prioritization (to be renamed)"
+title: "Next Prioritization"
 description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
 canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 ---
@@ -24,9 +24,8 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 
 ## Business Goal
 
-Transition R&D teams into a steady prioritization state driven by backlog types, automated SLO guidelines & healthy prioritization ratios. Teams to start transition to this state after the complete burn-down of their Reliability & Security debt backlog (estimate all teams by the end of May). 
+Transition R&D teams immediately to this new model driven by backlog types, automated SLO guidelines & healthy prioritization ratios. This should not wait until complete burn-down of their Reliability & Security debt backlog (estimate all teams by the end of May). But we should expect maintenance to be high in this new model, until we reach that steady state.
 
-Start with teams that are not in Engineering Allocations first with a goal of attaining overall R&D steady state. Activation mechanisms:
 * Teams backlog slates containing view of all backlog types.
   * Security
   * Reliability
