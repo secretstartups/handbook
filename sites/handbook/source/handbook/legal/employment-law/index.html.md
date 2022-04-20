@@ -41,6 +41,7 @@ Below are some common employment topics where Legal is asked to provide input. T
 
 ### During Hire
 **Contract review.** Legal should be asked to review negotiated contracts that seek to change standard terms.
+ - Standard contract terms are audited on a semi-annual basis. A contract audit issue will be opened to review the terms and gather input from appropriate teams across the organization. These issues will be opened on January 1 for implementation on June 30 and on July 1 for implemenation on December 31. To suggest a change to an entity contract template, please leave a comment in the current contract audit issue found in the `People Operations` project and titled  Semi-Annual `Global Employment Contract Review YYYY-January or June`.
 
 **Scalable Employment Solutions.** As GitLab expands our international presence through new entities and other employment solutions, the Legal Employment team, along with Tax and People Operations, helps develop strategy and ensure legal compliance.
 
