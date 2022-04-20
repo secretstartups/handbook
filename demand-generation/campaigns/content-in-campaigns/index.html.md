@@ -189,11 +189,13 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 **Required Issues:**
 * [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493)
+* [ ] :dart: Not an issue, but an action item for content owner: Add to HighSpot
 * [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Content & Campaigns
 * [ ] [Nurture Emaily Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture) - Content, Lifecycle & Campaigns
 * [ ] 🧨 Not an issue, but an action item for content owner: upload to Pathfactory
 * [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
 * [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
+* [ ] [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) - Multiple Teams
 
 <details>
 <summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
