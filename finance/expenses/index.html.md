@@ -317,7 +317,7 @@ No problem, and consider adding it to this list if others can benefit as well.
     Accounts payable uses Tipalti to drive payment to the above policies. As part of onboarding, an invitation to the Tipalti portal will be sent. Please sign up and onboard only banking information, no tax information is needed. If set up of the personal Tipalti account is not completed in a timely manner, this may result in a delay of expense payment.
 1. If you are a team member with a company credit card, your company credit card charges will automatically be fed to a new Expensify report each month. Please attach receipts for all expenses (per the Expense Policy, see below) within 1 business days after the end of the month. These amounts will not be reimbursed to you but Expensify provides a platform for documenting your charges correctly.
 
-### Reimbursement Timelines:
+### Reimbursement Payout Timelines:
 #### SafeGuard
 
 The list of SafeGuard countries can be found [here](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity)
@@ -332,18 +332,18 @@ The list of Global Upside & Remote countries can be found [here](https://about.g
 
 #### iiPay
 
-* All Individual contractors or C2C, with exception of Nigeria will be reimbursed by iiPay by the 22nd of each month.  All expense reports must be approved by the manager and the Accounts Payable team by the 8th of each month to be included in the current month payment.  For contractor with C2C status, be sure to contact Payroll team via email at `nonuspayroll@gitlab.com` and `expenses@gitlab.com` if you need to set up a separate bank for your expense reimbursement.
+* All Individual contractors or C2C, with exception of Nigeria will be reimbursed by iiPay by the 22nd of each month.  All expense reports must be approved by the manager and the Accounts Payable team by the 8th of each month to be included in the current month payment.  For contractors with C2C status, be sure to contact the Payroll team via email at `nonuspayroll@gitlab.com` and `expenses@gitlab.com` if you need to set up a separate bank for your expense reimbursement.
 
 #### Legal entities:
-* Expense reports for GitLab Ltd (UK) must be approved by the manager and the Accounts Payable team on or before the 13th of each month in order for the reimbursement to be include in the current month payroll.
+* Expense reports for GitLab Ltd (UK) must be approved by the manager and the Accounts Payable team on or before the 13th of each month in order for the reimbursement to be included in the current month payroll.
 * Expense reports for GitLab Canada Corp must be approved by the manager and the Accounts Payable team before the 1st day of each payroll period.  Please see [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ECkI_Z8R82j1eipJEEybXjO-EDtzw4TuhJPOnHypDho/edit#gid=0) for the payroll cut off date.
-* Expense reports for GitLab France S.A.S must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current months Payroll.
-* Expenses reports for GitLab Korea Limited must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current months Payroll.
-* Expense reports for Singapore PTE. LTD. must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current months Payroll.
-* Expense reports for GitLab BV Finland must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current months Payroll.
+* Expense reports for GitLab France S.A.S must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current month's Payroll.
+* Expenses reports for GitLab Korea Limited must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current month's Payroll.
+* Expense reports for Singapore PTE. LTD. must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current month's Payroll.
+* Expense reports for GitLab BV Finland must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current month's Payroll.
 * Expense reports for GitLab BV (Belgium and Netherlands), GitLab GmbH (Germany), GitLab PTY Ltd (Australia and New Zealand), GitLab GK (Japan), and GitLab LTD (Ireland) are reimbursed via GitLab AP within 10 business days from the approval date by their manager and the Accounts Payable team.
 * Expense reports for GitLab Inc, GitLab Inc Billable, and GitLab Federal reimbursed via Expensify, within 5 business days after the final approval is completed by AP or Montpac.
-    - The team member's bank about must be set up in Expensify in order for payment to complete. If you are unsure how to set up your bank please reference the FAQ document linked at the top of this page.
+    - The team member's bank account must be set up in Expensify in order for payment to complete. If you are unsure how to set up your bank please reference the FAQ document linked at the top of this page.
 
 #### Nigeria
 
@@ -361,50 +361,14 @@ The list of CXC countries can be found [here](https://about.gitlab.com/handbook/
 These instructions apply if a team member is unable to purchase required items, for whatever reason.
 
 1. A request is sent to Payroll explaining the reason for the advance. uspayroll@gitlab.com or nonuspayroll@gitlab.com
-2. [Expense reimbursement temaplate](https://docs.google.com/spreadsheets/d/1D0kWlqol7jBjqn7yDY6uc7UCWSIcUmiF/edit?usp=sharing&ouid=108533621432009168804&rtpof=true&sd=true) is filled out and returned to Payroll.
+2. [Expense reimbursement template](https://docs.google.com/spreadsheets/d/1D0kWlqol7jBjqn7yDY6uc7UCWSIcUmiF/edit?usp=sharing&ouid=108533621432009168804&rtpof=true&sd=true) is filled out and returned to Payroll.
     1. Must include the correct entity, currency, VAT, valid receipts and banking details for payment.
-3. Payroll reviews and apprvoes/rejects. 
+3. Payroll reviews and approves/rejects. 
     1. If approved, they forward the report to the VP, Corporate Controller, or Principal Accounting Officer to request approval for reimbursement. 
-4. Once approve, payroll forwards the approval and reimbursement request to AP. 
-    1. the request must include valid banking details for the individual to receive payment.
+4. Once approved, payroll forwards the approval and reimbursement request to AP. 
+    1. The request must include valid banking details for the individual to receive payment.
 5. AP will do their best to pay the reimbursement within 1 week, depending on the date submitted. 
     1. Note that AP completed payments on Thursdays unless otherwise instructed for month and quarter end timelines.
-
-
-### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Reimbursements
-
-The company will reimburse for the following expenses if you need it for work or use it mainly for business, and local law allows us to pay for it without incurring taxes:
-1. Mileage is reimbursed according to local law: [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates), [rate per km in the Netherlands](http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/auto_en_vervoer/auto_van_de_onderneming/autokosten/u_rijdt_in_uw_eigen_auto), or [rate in Belgium](https://fedweb.belgium.be/nl/verloning_en_voordelen/vergoedingen/vergoeding-voor-reiskosten). Add a screenshot of a map to the expense in Expensify indicating the mileage.
-1. Internet connection subscription.
-	* For team members outside the Netherlands: follow normal expense report process.
-	* For team members in the Netherlands: fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at `people-exp@gitlab.com`. The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts".
-  * This is a taxable expense for GitLab Ltd. team members assuming that the internet connection is used partially for personal use as well as business use.
-1. VPN service subscription. Please read [Why We Don't Have A Corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn), and check out our [Personal VPN page](/handbook/tools-and-tips/personal-vpn/) regarding usage at GitLab.
-1. Mobile subscription, we commonly pay for that if you call a lot as a salesperson or executive, or if your position requires participation in an on-call rotation. For on-call, you may expense the cost of your mobile phone service for the month when you begin your on-call rotation. This is limited to your service cost itself, not any costs relating to the phone device, to a personal hotspot device or to services for other people on your phone plan. You may include additional data charges in your expense report as we understand you may have plans outside of your normal workspace while you're on-call. 
-1. Telephone land line (uncommon, except for positions that require a lot of phone calls)
-1. Skype/Google Hangouts calling credit (uncommon, since we mostly use [internet-based services such as Zoom](/blog/2019/08/05/tips-for-mastering-video-calls/))
-1. Laptops, insurance and repairs
-    1. The [IT Ops](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) page outlines laptop purchasing for new hires and for repairs and EOL for existing employees.
-    1. Laptops paid for by the company are property of GitLab and need to be reported with serial numbers, make, model, screen size and processor to IT Ops by adding it to this form: [GitLab laptop information](https://docs.google.com/forms/d/e/1FAIpQLSeUOlP11qeLdLZHTI62CFr7MSHAoI_1M6CRpnUA6fegkEKCOQ/viewform) for proper [asset tracking](/handbook/finance/accounting/#fixed-asset-register-and-asset-tracking). Since these items are company property, you do not need to buy insurance or an extended warranty for them unless it is company policy to do so (for example, at the moment we do not purchase Apple Care or extended warranties). You do need to report any loss following [Lost or Stolen Procedures](/handbook/people-group/acceptable-use-policy/#lost-or-stolen-procedures) or damage to IT Ops as soon as it occurs.
-    1.  **Repairs to company issued equipment.**
-        * If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and submit for reimbursement in Expensify.
-        * Please get approval from your Manager if your equipment appears to be damaged, defective, or in need of repair. Business Operations can advise on next steps to ensure you have the proper equipment to work.
-        * For loaner laptops: Do not hesitate when expensing a loaner laptop while your primary laptop is being repaired. Use your best judgment identifying a local vendor. Please check out our [laptop repair](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptop-repair) page for more info.
-1. English lessons. At GitLab the lingua franca is [US English](/handbook/communication/#american-english), when English is not your native language it can limit you in expressing yourself.
-
-
-## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Travel and Expense Guidelines
-
-### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Travel
-
-1. If you are taller than 1.95m or 6'5", you can upgrade to Economy Plus. There is no dollar restriction on this since it will be hard to fit in economy with that height.
-1. For flights longer than 8 hours, you can expense:
-    - Up to the first [$300 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Business Class on flights longer than 8 hours if you are taller than 1.95m or 6'5".
-    - Up to the first [$100 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Economy Plus (no height restriction) on flights longer than 8 hours.
-1. GitLab does not cover expenses for significant others or family members for travel or immigration. This includes travel and visas for GitLab events.
-    - There are other things that [the company will not reimburse](/handbook/finance/accounting/#8-employee-reimbursements---expensify), such as dog boarding.
-
-For additional Company Travel related questions, please refer to our [Travel Handbook](/handbook/travel/#booking-travel-through-tripactions-) regarding booking travel through TripActions.
 
 ### Spend reduction
 
