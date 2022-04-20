@@ -126,6 +126,14 @@ In this instance, please:
 1. Fill out an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request)
 1. You will receive an email invite when a license next becomes available. Generally a couple of licenses are freed up each week.
 
+If a license is required urgently or during periods of high demand, the [Growth & Development benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) can be used to expense one.
+
+## Revoking LinkedIn Learning licenses
+
+Due to the limited number of licenses available for team members, the Learning & Development team may periodically revoke licenses from inactive user accounts (Usually accounts that haven't been active in over 6 months). This allows for the licenses to be redistributed to team members who may be able to better utilise them.
+
+Before revoking any LinkedIn Learning license, users will always be notified via email and given the opportunity to log in to their account, which will signal that they would like to retain their license for the time being.
+
 ## Searching for LinkedIn Learning Courses
 
 1. Open [GitLab Learn](https://gitlab.edcast.com/)
