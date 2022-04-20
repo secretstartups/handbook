@@ -291,6 +291,17 @@ While GitLab uses Zoom as the primary video platform for communications,  others
 * MS Teams
 * Skype
 
+## A Conversation with Sid on Meeting preparation and efficiency
+
+<!-- blank line -->
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/nn1Mjh7j-1I" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<!-- blank line -->
+In the above [video interview](https://www.youtube.com/watch?v=nn1Mjh7j-1I) between GitLab co-founder and CEO [Sid Sijbrandij](https://twitter.com/sytses) and [CEO Shadow Nikki Silverberg](https://gitlab.com/nikkiroth), the two talk through how Sid prepares for and operates in a full day of meetings. Sid also talks through how he uses the points above to make meetings at GitLab and his day efficient.
+
 ## GitLab Knowledge Assessment: All-Remote Meetings
 
 Complete all knowledge assessments in the [Remote Work Foundation certification](/company/culture/all-remote/remote-certification/) to receive the [Remote Foundations Badge in GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-remote-foundations-badge). If you have questions, please reach out to our [Learning & Development team](/handbook/people-group/learning-and-development/) at `learning@gitlab.com`.
