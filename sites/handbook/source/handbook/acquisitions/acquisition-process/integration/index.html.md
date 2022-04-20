@@ -42,10 +42,16 @@ The DRI for the integration stage is the Sr. Dir. Corporate Development. This wi
     1. Acquisition lead (Corp. Dev. champion)
     1. Main engineer leading the integration efforts from the acquired company
 
-### People integration
+### People Integration
 
-1. 3 months after the new team members have joined GitLab, the [acquisition team member survey](https://gitlab.com/gitlab-com/people-group/people-business-partners/-/issues/35) should be sent by the People Ops Specialist through CultureAmp.
-2. For any internal team members that wish to transition to/apply for roles on acquired teams, hiring managers should be particularly diligent about reviewing context and information pertaining to the acquisition details, charter, milestones, goals, etc. Acquired teams, particularly in early stages, can operate differently than a typical team at GitLab in that the first 6-12 months (or more) of work given that the milestones and directions are pre-defined as part of the acquisition agreement. We want to ensure full transparency is maintained with team members who transition in an effort to set them up for success. 
+During the first 12 months after the team members join GitLab, the People Ops team will administer two pulse surveys to check-in on the team integration. 
+
+1. _3 months_ after the new team members have joined GitLab, the [Acquisition Integration Survey](https://gitlab.com/gitlab-com/people-group/people-business-partners/-/issues/35) should be sent.
+1. _9 months_ after the new team members have joined GitLab (6 months after the first survey), a second pulse Acquisition Integration Survey should be sent.
+
+#### Internal Transfers
+
+For any internal team members that wish to transition to/apply for roles on acquired teams, hiring managers should be particularly diligent about reviewing context and information pertaining to the acquisition details, charter, milestones, goals, etc. Acquired teams, particularly in early stages, can operate differently than a typical team at GitLab in that the first 6-12 months (or more) of work given that the milestones and directions are pre-defined as part of the acquisition agreement. We want to ensure full transparency is maintained with team members who transition in an effort to set them up for success. 
 
 ### Field enablement
 
