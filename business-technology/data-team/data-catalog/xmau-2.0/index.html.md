@@ -18,7 +18,7 @@ description: "xMAU is a single term to capture the various levels at which we ca
 
 xMAU is a single term to capture the various levels at which we capture Monthly Active Usage (MAU). xMAU encompasses Action (AMAU), Group (GMAU), Stage (SMAU), and Combined (CMAU, duplicated user count), and Total (UMAU, unique user count). In order to provide a useful single metric for product groups which maps well to product-wide Key Performance indicators, each xMAU metric cascades upwards in the order noted above.
 
-xMAU metrics are derived from Service Ping (Self-Managed instance-level granularity) and GitLab.com (SaaS namespace-level granularity). This Analytics Workflow enables the analysis of each level of xMAU metric across various segments of customers sets the foundation for reporting on [Reported, Estimated, and Projected](https://internal-handbook.gitlab.io/product/performance-indicators/#three-versions-of-xmau) metrics.
+xMAU metrics are derived from Service Ping (Self-Managed instance-level granularity) and GitLab.com (SaaS namespace-level granularity). This Analytics Workflow enables the analysis of each level of xMAU metric across various segments of customers sets the foundation for reporting on [Reported, Estimated, and Projected](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#three-versions-of-xmau) metrics.
 
 **The goal of this page:**
   
@@ -52,17 +52,17 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;
 
 ### Key Metrics, KPIs, and PIs
 
-Explanations for the metrics below can be found on [the Product Team Performance Indicator page](https://internal-handbook.gitlab.io/product/performance-indicators/#structure):
-- **[Action Monthly Active Users (AMAU)](https://internal-handbook.gitlab.io/product/performance-indicators/#structure)**
-- **[Group Monthly Active Users (GMAU)](https://internal-handbook.gitlab.io/product/performance-indicators/#group-monthly-active-users-gmau)**
-- **[Stage Monthly Active Users (SMAU)](https://internal-handbook.gitlab.io/product/performance-indicators/#stage-monthly-active-users-smau)**
-- **[Section Monthly Active Users (Section MAU)](https://internal-handbook.gitlab.io/product/performance-indicators/#structure)**
-- **[Section Total Monthly Active Users (Section CMAU)](https://internal-handbook.gitlab.io/product/performance-indicators/#structure)**
-- **[Combined Monthly Active Users (CMAU)](https://internal-handbook.gitlab.io/product/performance-indicators/#structure)**
-- **[Unique Monthly Active Users (UMAU)](https://internal-handbook.gitlab.io/product/performance-indicators/#unique-monthly-active-users-umau)**
+Explanations for the metrics below can be found on [the Product Team Performance Indicator page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#structure):
+- **[Action Monthly Active Users (AMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#structure)**
+- **[Group Monthly Active Users (GMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#group-monthly-active-users-gmau)**
+- **[Stage Monthly Active Users (SMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#stage-monthly-active-users-smau)**
+- **[Section Monthly Active Users (Section MAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#structure)**
+- **[Section Total Monthly Active Users (Section CMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#structure)**
+- **[Combined Monthly Active Users (CMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#structure)**
+- **[Unique Monthly Active Users (UMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#unique-monthly-active-users-umau)**
 
 Each metric has three different versions (Recorded, Estimated, Projected), explained on
-  - [the Product Team Performance Indicator page](https://internal-handbook.gitlab.io/product/performance-indicators/#three-versions-of-xmau)
+  - [the Product Team Performance Indicator page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#three-versions-of-xmau)
   - [the Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/#recorded-and-calculated-data)
 
 #### How xMAU are calculated ? [Review this section for updating]
@@ -93,7 +93,7 @@ For paid SaaS xMAU, we use the last 28 days of the calendar month. More about th
 
 ##### Paid xMAU Definition
 
-Each of these above metrics will be calculated for xMAU and paid xMAU. Paid xMAU is currently defined as Monthly Active Users who "roll up to a paid instance for Self-Managed via Service Ping data _or_ a paid namespace for SaaS via GitLab.com Postgres Database Imports in a 28 day rolling period". (See [Paid Stage Monthly Active Users - Paid SMAU](https://internal-handbook.gitlab.io/product/performance-indicators/#paid-stage-monthly-active-users-paid-smau) as an example.)
+Each of these above metrics will be calculated for xMAU and paid xMAU. Paid xMAU is currently defined as Monthly Active Users who "roll up to a paid instance for Self-Managed via Service Ping data _or_ a paid namespace for SaaS via GitLab.com Postgres Database Imports in a 28 day rolling period". (See [Paid Stage Monthly Active Users - Paid SMAU](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#paid-stage-monthly-active-users-paid-smau) as an example.)
 
 Since GitLab Business functions currently do not have a standardized way to identified which namespaces or instances belong to an OSS, EDU, internal projects, or other subscriptions that have a paid plan type but do not contribute ARR, the current implementation of xMAU include users associated with these subscriptions as "paid".
 
