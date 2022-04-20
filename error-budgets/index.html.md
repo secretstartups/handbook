@@ -282,6 +282,7 @@ explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/39
 
 - [Error Budget AMA](https://docs.google.com/presentation/d/1yYnLlTN8KOYNHww91nJgnbFK7l2xf3Cy1mRvUAxHa08/edit)
 - [Understanding Stage Level Error Budget Dashboards](https://docs.gitlab.com/ee/development/stage_group_observability/#error-budget)
+- [Setting up recurring Slack updates](https://gitlab.com/gitlab-com/gl-infra/scalability/-/snippets/2299544)
 
 [strategy]: /direction/#3-year-strategy
 [product strategy]: /direction/enablement/dotcom/
