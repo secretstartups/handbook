@@ -6,34 +6,29 @@ description: "Learn more about working with Lauren Barker"
 
 ## Lauren Barker README
 
-Fullstack Engineer, Marketing
+I'm [Lauren Barker](https://about.gitlab.com/company/team/#laurenbarker), Acting Engineering Manager for Digital Experience. I lead by creating inclusive environments that empower teams to exceed their goals. I do this with strategic collaboration, communication, and a dose of humor. [I'm currently working on these projects](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/3289410?iteration_id=Current&assignee_username=laurenbarker).
 
-## Related pages
-* [Team Page](https://about.gitlab.com/company/team/#laurenbarker)
-* [gitlab.com/laurenbarker](https://gitlab.com/laurenbarker)
-* [linkedin.com/in/weblbdesigns/](https://www.linkedin.com/in/weblbdesigns/)
+### How I work
 
-## Current work
+#### I work daily on building and maintaining trust
 
-[Lauren is currently working on these projects](https://bit.ly/2ZmrkgF).
+Trusting people and being able to be trusted is crucial to a happy and productive work environment for everyone and it takes continuous work. 
 
-## About Me
+#### My focus as a manager
 
-- 🤙 I'm born and raised on the Central Coast of California.
-- 🏄 Surfing and the ocean is where I feel at home.
-- ❤️ I love design and development.
-- 📖 I'm a lifelong learner who values knowledge.
-- 🍸 Coffee, beer, or wine please.
+- The role of the IC is deep focus on difficult technical tasks.
+- My role as a Manager is to focus on the big picture, filter the noise, to work with Marketing and help prepare the work as achievable pieces, then remove any roadblocks so scheduled work can be merged.
+- Together, we deliver GitLab's marketing digital experience.
 
-### Books 
+#### 1:1s
 
-These are books that have made an impact on me along with a great book on baking bread =)
+1:1s with my team are the most important part of my day.
 
-- The Importance of Living, Lin Yutang
-- The Prophet, Kahlil Gibran
-- Beard on Bread, James Beard
+Team 1:1s are a meeting where I listen to your concerns and ideas, and strive to take immediate follow-up actions. I am happy for you to completely drive this meeting.
 
-### Myers-Briggs Personality type:
+To keep notes, we have an ongoing Google document and for topic inspiration, we have an optional template.
+
+#### Myers-Briggs Personality type:
 
 🔗[**“The Protagonist”** (ENFJ-A/ENFJ-T)](https://www.16personalities.com/articles/assertive-protagonist-enfj-a-vs-turbulent-protagonist-enfj-t)
 
@@ -49,7 +44,36 @@ Tactics: **54% Judging**
 
 Identity: **57% Assertive**
 
+### The Fun Stuff
 
-## Conclusion
+#### Coffee chats
 
-Life is short, make it a blast!
+I'm a huge fan of Coffee Chats, they are an important part of the culture when a company is all remote. I have a personal target of 1 Coffee Chat a week with someone not who is not on my direct team.
+
+Please don't hesitate to schedule one with me!
+
+#### Books 
+
+These are books that have made an impact on me along with a great book on baking bread =)
+
+- The Importance of Living, Lin Yutang
+- The Prophet, Kahlil Gibran
+- Tao Te Ching, Lao Tzu
+- Beard on Bread, James Beard
+
+#### Bits of Info
+
+- 🤙 I'm born and raised on the Central Coast of California.
+- 🏄 Surfing and the ocean is where I feel at home.
+- 🛶 I race outrigger canoes with [Pale Kai](https://www.palekai.org/). 
+- ❤️ I love design and development.
+- 📖 I'm a lifelong learner who values knowledge and teamwork.
+- 🍸 Coffee or wine please.
+
+
+### How to reach me
+In order of my own preferences, but please use whatever channel suits you best:
+
+GitLab TODOs `@laurenbarker`
+Slack `Lauren Barker`
+Email `lbarker@gitlab.com`
