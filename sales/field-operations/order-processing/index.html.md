@@ -587,8 +587,9 @@ If an opportunity meets the criteria listed above, but does not have a Professio
 **Summary: Waived True-Ups require executive approvals and may negatively impact Net ARR.**
 
 1. Waived True-Ups require written VP, CRO, and PAO/CFO approval, per the [approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.dccvx02huo2y). Approvals should be sought in SFDC Chatter on the related Opportunity.
-2. After approval is obtained, Sales should tag @Sales-Support to request that Deal Desk apply a $0 True-Up SKU, for the quantity of seats being waived, to the quote.
-3. Upon adding the $0 True-Up SKU to the quote and providing an Order Form, Deal Desk will notify @Revenue of the waiver in SFDC chatter.
+2. After approval is obtained, Sales should create the appropriate opportunity and quote. Typically, true up waivers are required after renewal, and thus require an Add-On opportunity as well as an amend subscription quote. It's important that the true up SKU be added to the same subscription that requires the true ups. On the quote, Sales should apply the appropriate true up SKU and quantity approved to be waived, and proceed enter a 100% discount. After saving the quote, Sales should tag @Sales-Support to override the quote approval requirement after approvals have been obtained in chatter. 
+3. Like all GitLab deals, waived true up orders must meet booking requirements as described [here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements). In most cases, that means that the customer must sign a $0 Order Form, or issue a $0 PO.
+3. Upon booking the true up waiver opportunity, Order Management will notify @Revenue of the waiver in SFDC chatter.
 4. After being notified, the Revenue team will review the case, and will calculate the amount of the ARR allocation. The Revenue team will then add it to the ARR Allocations Tracker.
 5. After calculating the ARR allocation, the Revenue team will communicate the impact in Chatter. This ARR allocation will be communicated wtihin 3-5 days of the initial notification to the Revenue Team.
 6. When the ARR allocation is communicated in Chatter, Deal Desk will adjust the Net ARR and Booked ARR of the opportunity in accordance with the ARR allocation provided by the Revenue Team.
