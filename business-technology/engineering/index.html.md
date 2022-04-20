@@ -150,7 +150,7 @@ The Business Technology Infrastructure Engineering team ("BT Infrastructure") fo
 
 We collaborate closely with the [Infrastructure Security ("InfraSec") team](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/infrastructure-security/) that is responsible for best practices and implementing security policies to mitigate risk.
 
-We also provide escalation engineering and triage support for the [Security Incident Response Team ("SIRT")](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/) and [Security RED Team](https://about.gitlab.com/handbook/engineering/security/security-operations/red-team/) when security anomalies, events, or incidents require AWS/GCP subject matter expertise.
+We also provide escalation engineering and triage support for the [Security Incident Response Team ("SIRT")](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/) and [Security Red Team](https://about.gitlab.com/handbook/engineering/security/threat-management/red-team/) when security anomalies, events, or incidents require AWS/GCP subject matter expertise.
 
 In FY20-Q4, we launched the Demo Systems for the Customer Success department to have a shared sandbox environment for demonstration and training class purposes. You can learn more on the [demo systems handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/).
 
