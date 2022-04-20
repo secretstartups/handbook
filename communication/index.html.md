@@ -1605,4 +1605,4 @@ Anyone can test their knowledge on GitLab Communication. To obtain a certificate
 
 ## Crisis Process
 
-GitLab has a specific process to follow in crisis situations to ensure effective communications. Details can be found in the [internal handbook](https://internal-handbook.gitlab.io/crisis-process).
+GitLab has a specific process to follow in crisis situations to ensure effective communications. Details can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/company/crisis-process).
