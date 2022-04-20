@@ -154,6 +154,8 @@ GitLab division README pages are linked below for context. Reading other READMEs
     1. If your [division](/company/team/structure/) _already_ has a page to host READMEs (see above), follow the guidelines to [add a new page](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-a-new-page) within that directory (e.g. [Darren M.](https://gitlab.com/dmurph), a member of the marketing team, would add a new directory and page within `/handbook/marketing/readmes`, creating `/handbook/marketing/readmes/dmurph`)
     1. If your [division](/company/team/structure/) does not yet have a holding page for READMEs, follow the guidelines to [add a new page](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-a-new-page) (`readmes`) within your division's handbook section _first_, then create your username directory within `readmes`.
 
+Alternatively you can create your README [dogfooding](/handbook/values/#dogfooding) GitLab's README profile customization feature. Follow [documentation](https://docs.gitlab.com/ee/user/profile/#add-details-to-your-profile-with-a-readme) on how to add details to your GitLab profile with a README. Do not forget to add your profile's link to you division's holding page.
+
 ### Advertising Your README
 
 Once your README is created, consider adding a link to it from following places:
