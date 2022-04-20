@@ -14,7 +14,7 @@ description: "GitLab has adopted Force Management's Command of the Message custo
 
 ## Overview
 
-GitLab has adopted and operationalized Force Management's Command of the Message value-based sales messaging methodology. Due to IP constraints, we have migrated content from this page to GitLab's internal Handbook. GitLab team members may access additional content and resources on the [Command of the Message Internal GitLab Handbook page](https://internal-handbook.gitlab.io/sales/command-of-the-message/) (note: if you are a GitLab team member and cannot access the internal Handbook, please sign into the GitLab Internal Handbook app via [Okta](https://gitlab.okta.com/)).
+GitLab has adopted and operationalized Force Management's Command of the Message value-based sales messaging methodology. Due to IP constraints, we have migrated content from this page to GitLab's internal Handbook. GitLab team members may access additional content and resources on the [Command of the Message Internal GitLab Handbook page](https://internal-handbook.gitlab.io/handbook/sales/command-of-the-message/) (note: if you are a GitLab team member and cannot access the internal Handbook, please sign into the GitLab Internal Handbook app via [Okta](https://gitlab.okta.com/)).
 
 ## Customer Value Drivers
 

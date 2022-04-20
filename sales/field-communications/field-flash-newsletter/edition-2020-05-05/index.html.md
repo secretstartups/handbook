@@ -108,7 +108,7 @@ Note that all in-person regional events are still tentative due to risks surroun
 
 ### Enablement Corner 🧠
 The GitLab Value Framework v1.1 is now available! This includes updates based on your feedback of [Command of the Message](/handbook/sales/command-of-the-message/). Have feedback you'd like to share for future iterations? Follow these steps.
-- [Check out a summary of what's changed -->](https://internal-handbook.gitlab.io/sales/command-of-the-message/value-framework-iteration/#version-11-may-2020) (internal only)
+- [Check out a summary of what's changed -->](https://internal-handbook.gitlab.io/handbook/sales/command-of-the-message/value-framework-iteration/#version-11-may-2020) (internal only)
 - [Download the latest version -->](https://docs.google.com/document/d/1LKYY7kJPKUhzfYnBWNdrigpYpEtxFKxbvyAEUF1nwqY/edit?usp=sharing)
 
 Learn the top 10 reasons organizations should not start with GitLab Starter in this 10-minute video from Haydn Mackay and Saumya Upadhyaya. [Watch the video -->](https://www.youtube.com/watch?v=Np8MyDorw5U&feature=youtu.be)

@@ -116,7 +116,7 @@ _Validate the pain points & determine how these pain points attach to the Custom
 - [Metrics/ROI](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/) conversation started
 - Review how GitLab will be implemented and by who, opening a discussion about GitLab and/or partner [professional services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/#selling-gitlab-professional-services) where appropriate
 - Introduce [partner/channel](https://docs.google.com/document/d/18xqRRCkIXlR7r4BvBQnK9n9zE70q-KPga-lVHhVw4n4/edit) where appropriate
-- [Competitive differentiation](https://internal-handbook.gitlab.io/sales/command-of-the-message/#gitlab-differentiators) 
+- [Competitive differentiation](https://internal-handbook.gitlab.io/handbook/sales/command-of-the-message/#gitlab-differentiators) 
 - Provide [proof points](https://about.gitlab.com/handbook/sales/command-of-the-message/proof-points/), [case studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93), and [competitive info](https://about.gitlab.com/handbook/marketing/strategic-marketing/competitive/#competitive-intelligence-at-gitlab) (defensible differentiators)
 - Create a [GitLab maturity/adoption](https://about.gitlab.com/handbook/product/product-principles/#multi-feature-usage-adoption-journey) roadmap with customer 
 - [Multi-thread](https://about.gitlab.com/handbook/sales/playbook/discovery/#lack-of-multi-threading) across the customer org

@@ -32,7 +32,7 @@ description: "Successful management includes onboarding, reviewing Command Plans
 ## Opportunity Coaching
 
 *  Check out the [Opportunity Consults Handbook page](/handbook/sales/command-of-the-message/opportunity-consults)
-*  Regularly leverage the Command of the Message and MEDDPPICC [Sales Manager Materials](https://internal-handbook.gitlab.io/sales/command-of-the-message/sales-manager-materials/) (internal only).
+*  Regularly leverage the Command of the Message and MEDDPPICC [Sales Manager Materials](https://internal-handbook.gitlab.io/handbook/sales/command-of-the-message/sales-manager-materials/) (internal only).
 
 ## Strategic Coaching
 

@@ -50,7 +50,7 @@ Conduct effective, ongoing discovery to:
 
 Don't start a negotiation if you are not the buyer's first choice. With a thorough understanding of your customer's needs, be sure to:
 
-- Effectively articulate how GitLab will address the customer's requirements (leverage [these core resources](https://internal-handbook.gitlab.io/sales/command-of-the-message/#resources-core-content)) (internal only)
+- Effectively articulate how GitLab will address the customer's requirements (leverage [these core resources](https://internal-handbook.gitlab.io/handbook/sales/command-of-the-message/#resources-core-content)) (internal only)
 - Successfully connect the dots between technical metrics and the business value that GitLab delivers (see [Demystifying the Metrics Conversation](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/)), and
 - Share relevant [proof points](/handbook/sales/command-of-the-message/proof-points/) that highlight how and why GitLab can deliver against the customer's requirements better than any other option(s) available
 
