@@ -38,6 +38,23 @@ If you are reporting a problem or have suggestions, changes, or similar, please 
 On the [Channel Operations Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/2552402?&label_name[]=Channel%20Ops), each column represents a type of request (feature request, alliances, data & reporting, etc.). When you submit a request to the Channel Operations board, the team will assign the issue and add the corresponding tags. The Channel Operations Board also uses progress tags on issues to show the status of open issues. Each issue is updated regularly with notes and progress tags and should be checked before reaching out to the team for status updates. 
  
 To open an issue with Channel Operations and select [New Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues).
+
+[**Utilizing Issue Templates:**](https://docs.google.com/presentation/d/13E7WITgquG-oqnvTwP_aIh4zdqbMnRjB1NCZEX7Xc1U/edit#slide=id.g20a53d489f_0_213) In an effort to have a standard way of taking in requests from the cross-functional teams and help **guide users** through providing the right information to diagnose issues, the Channel Operations team has created issue templates.
+
+**How to get started**
+
+
+**1. Create New Issue** 
+
+When you create a new issue, you get the option to "Choose a template" 
+
+**2. Chose a template** 
+
+Once a template has been selected, the description box will be populated with the content of the template ready for completion.
+
+**3. Before you submit**
+
+Please ensure your issue is **unassigned** as our team will be assigning issues based on the team bandwidth.
  
 
 ## Communicating with the Channel Teams via Slack
