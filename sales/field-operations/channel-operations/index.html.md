@@ -520,7 +520,30 @@ If there are any questions, please reach out to the **#channel-programs-ops** Sl
  
  ## SFDC Channel Manager Activity Tracker
 
-The Channel Managers use a [tracking system](https://docs.google.com/presentation/d/1fPJutBp85WPNqf3ErQEk7Xp2042UPupTjmSLUMOmXnE/edit?usp=sharing) in Salesforce to record their sales and marketing activities. This tracker allows them to extract data for sales analysis and goal setting (QBRs, OKRs, Business Plans, 1:1s). In addition, it enables the creation of [activity frameworks](https://docs.google.com/presentation/d/15rCXjsOj6r6BFYqWMgST5WB6R_XWJiIqYq2eppUoeDw/edit?usp=sharing) to set engagement standards and further develop relationships with GitLab’s partners. This activity tracker is available to all Channel Managers. 
+The Channel Managers use a [tracking system](https://docs.google.com/presentation/d/1fPJutBp85WPNqf3ErQEk7Xp2042UPupTjmSLUMOmXnE/edit?usp=sharing) in Salesforce to record their sales and marketing activities. This tracker allows them to extract data for sales analysis and goal setting (QBRs, OKRs, [Business Plans](https://docs.google.com/presentation/d/1lSXI1cnJQkv5RFwTEO2-J1FNTs0ykp25WA-orJj-Fok/edit#slide=id.g29a70c6c35_0_68), 1:1s). In addition, it enables the creation of [activity frameworks](https://docs.google.com/presentation/d/15rCXjsOj6r6BFYqWMgST5WB6R_XWJiIqYq2eppUoeDw/edit?usp=sharing) to set engagement standards and further develop relationships with GitLab’s partners. This activity tracker is available to all Channel Managers. 
+
+## Business Plans
+
+ The business plans are created in Salesforce and our partners can access the content through the partner portal (view only access)
+
+ How to get started: 
+
+ 1. Watch the [training and video](https://docs.google.com/document/d/19iEM3ZMcBOkZVwnBmiJX8fcHdp50AJVfmbwhYUzfcLs/edit) and understand the Business Planning Module. 
+ 2. Identify who from your partner contacts should have access to the plan on the partner portal. 
+ 3. Create a new plan for your FY23 Select Partners in Salesforce.
+
+**Note:** use the following format for the Business Plan Name field:
+*Partner name, Fiscal year, Business Plan e.g. BoxBoat FY23 Business Plan*
+
+**Note:** if you are creating a Business Plan for a Pubsec partner, please include “Pubsec” after partner name e.g. BoxBoat (Pubsec) FY23 Business Plan
+
+4. Please submit your contacts in the [Business Plan Sheet](https://docs.google.com/spreadsheets/d/1dL805MUQF8xJcbB7d_-wHyTM62euB9I6hVsAOW_CekE/edit#gid=1093608913)  for the Channel Operations team to grant them access.
+5. Review status with Select Partner during QBR’s
+
+**Feedback:** You can submit your feedback on the second tab of the [Business Plan Sheet](https://docs.google.com/spreadsheets/d/1dL805MUQF8xJcbB7d_-wHyTM62euB9I6hVsAOW_CekE/edit#gid=1093608913)
+
+**Channel Ops DRI:** Aura Villalobos or post questions in #channel-programs-ops.
+
 
  
 ## Alliances and OEMs
