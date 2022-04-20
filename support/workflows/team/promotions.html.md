@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Promotions
+title: Working on a promotion
 category: Support Team
 description: Process for submitting a promotions request
 ---
@@ -34,5 +34,7 @@ The promotion document template can be found in the
 [Pillars section of the Promotions and Transfers handbook page](/handbook/people-group/promotions-transfers/#pillars).
 
 Business Results and Business Justifications section should closely align with
-the expected competencies for the role as laid out in the
-[Support Career Framework](/handbook/engineering/career-development/matrix/engineering/support/).
+the expected competencies for the role as laid out in:
+
+- The [GitLab Job Frameworks](/company/team/structure/#job-frameworks).
+- The [Support Career Framework](/handbook/engineering/career-development/matrix/engineering/support/).
