@@ -55,6 +55,8 @@ Make a real effort to de-stress during your on-call shift. After being on-call, 
 
 When you're in a call, you do **not** need to provide _immediate_ answers. You're allowed to pause for a few minutes for researching, asking for help, etc. Make sure to communicate -- let the the other folks on the call know what you're doing. Example: "I need a few minutes to work through the code here and make sense of it".
 
+If you've had a long week with multiple pages from PagerDuty or particularly long calls, consider asking someone to cover a day or some portion of a day so you can get some rest.
+
 ## How Support On-call works
 
 ### Schedule and escalation policy
