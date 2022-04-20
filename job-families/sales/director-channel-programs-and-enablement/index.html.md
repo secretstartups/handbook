@@ -83,7 +83,7 @@ The Senior Director, Channel Programs & Enablement is a [grade 11](/handbook/tot
 ### Requirements
 
 ### Performance Indicators
-[Sales KPI's](/handbook/ceo/kpis/#sales-kpis)
+[Sales KPI's](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#kpi-summary)
 
 ## Career Ladder
 

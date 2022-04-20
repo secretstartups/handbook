@@ -45,13 +45,13 @@ The VP, Online Sales and Self Service is a [grade 12](/handbook/total-rewards/co
 
 ## Performance Indicators 
 
-* As with all roles in the Sales department the VP of Enterprise Sales participates in the [Sales KPIs](/company/kpis/#sales-kpis).
+* As with all roles in the Sales department the VP of Enterprise Sales participates in the [Sales KPIs](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#kpi-summary).
 * Specific to this role:
-    * [CAC Ratio](/handbook/sales/performance-indicators/#cac-ratio) (target: Monthly target set by Finance) 
-    * [Percent of Ramped Reps at or Above Quota](/handbook/sales/performance-indicators/#percent-of-ramped-reps-at-or-above-quota) (target: greater than 55%) 
-    * [Percent of Ramping Reps at or Above 70% of Quota](/handbook/sales/performance-indicators/#percent-of-ramping-reps-at-or-above-70-of-quota) (target: greater than 70%) 
-    * [Churn and Contraction / ATR](/handbook/sales/performance-indicators/#churn-and-contraction-atr) (target: Quarterly target set by Sales & Finance) 
-    * [ARPU](/handbook/sales/performance-indicators/#arpu) (target: 1.5% increase per month) 
+    * [CAC Ratio](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#cac-ratio) (target: Monthly target set by Finance) 
+    * [Percent of Ramped Reps at or Above Quota](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#percent-of-ramped-reps-at-or-above-quota) (target: greater than 55%) 
+    * [Percent of Ramping Reps at or Above 70% of Quota](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#percent-of-ramping-reps-at-or-above-70-of-quota) (target: greater than 70%) 
+    * [Churn and Contraction / ATR](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#churn-and-contraction-atr) (target: Quarterly target set by Sales & Finance) 
+    * [ARPU](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#arpu) (target: 1.5% increase per month) 
 
 ## Career Ladder
 

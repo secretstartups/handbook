@@ -65,7 +65,7 @@ Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is a
 ### Go To Market (GTM)
 
 ### Performance Indicators
-[Sales KPI's](/handbook/ceo/kpis/#sales-kpis)
+[Sales KPI's](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#kpi-summary)
 
 ## Career Ladder
 

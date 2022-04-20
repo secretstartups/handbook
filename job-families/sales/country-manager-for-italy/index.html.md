@@ -65,7 +65,7 @@ The Country Sales Manager for Italy is a [grade 9](/handbook/total-rewards/compe
 
 ## Performance Indicators
 
-* [Sales KPIs](https://internal-handbook.gitlab.io/company/KPIs/#sales-kpis)
+* [Sales KPIs](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#kpi-summary)
 
 ## Career Ladder
 
