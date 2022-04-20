@@ -267,6 +267,21 @@ Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is a
 - Experience recruiting for executive level roles and all other roles within Engineering
 - Experience partnering with leaders within Engineering
 
+### Executive Search
+
+- Own Director and above level searches across GitLab
+
+#### Responsibilities
+
+- Own Director and above level searches including sourcing, assessing, and hiring.
+- Act as a business partner with Senior Leadership related to hiring leaders across all Divisions. 
+- Collaborate with other Recruiting leadership peers 
+
+#### Requirements
+
+- Experience recruiting for executive level roles across all functions
+- Experience partnering with senior leadesrhip on hiring needs
+
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
