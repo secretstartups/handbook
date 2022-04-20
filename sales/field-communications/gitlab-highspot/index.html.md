@@ -392,37 +392,9 @@ See recordings for internal, GitLab-specific Highspot trainings below:
 
 ### GitLab Highspot Best Practices
 
-#### Including content in more than one spot 
-Some content might fit in more than one spot. When this happens, you should bookmark content into an additional spot(s). **Avoid uploading the same piece of content multiple times, as this will make version control difficult.** 
+#### Uploading Content 101 
 
-It is likely that this scenario will happen most often with the Customer-Facing Content spot, as content that fits under Marketing could also fit under Customer-Facing Content. Always default to adding the content within the primary spot first and then bookmark into Customer-Facing Content. In this scenario, you'd add the link/file to `Marketing` and then bookmark to `Customer-Facing Content`.
-
-![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_AddBookmark.png)
-
-#### Validation Rules 
-There are three validation rules set in GitLab's Highspot instance. Each piece of content must include: 
-1. An expiration date - A built-in checkpoint to maintain the quality of content in Highspot (see [Content expiration 101](/handbook/sales/field-communications/gitlab-highspot/#content-expiration-101) for more details)
-1. A description - Whether one sentence or a full paragraph, a description will help make content more discoverable by users when searching for key words 
-1. At least one list - Content should be tagged to at least one list (but preferably more) to help increase discoverability
-
-If one of these validation rules is broken, you will see a `Validates Policy` flag. Upon clicking on the flag, a message will appear with more details on which validation rule has been broken. Content owners can easily filter down to content that is in violation of the validation rules by using the `Flags` list in the spot and filtering down by `Violates Policy`. 
-
-A piece of content that has this flag will still be visible in Highspot for users to see. The flag is more of a visual cue to help content owners maintain Highspot best-practices.
-
-![Screenshot_ViolatesPolicyFlag](/handbook/sales/field-communications/gitlab-highspot/images/Example_ViolatesPolicyFlag.png)
-
-![Screenshot_ValidationRuleMessage](/handbook/sales/field-communications/gitlab-highspot/images/Example_ValidationRuleMessage.png)
-
-#### Content expiration 101
-Highspot includes the ability to "schedule" content. This allows you to set an expiration date for content. **We should set an expiration date on almost ALL pieces of content**, as it provides an opportunity to review that content on a regular basis and ensure that it is still relevant, the lists are still accurate, etc. If we don't set content to expire, we run the risk of letting outdated/inaccurate content exist on Highspot, compromising the efficacy of the resources. 
-
-The only exception to this would be links or files that you know will not change. (Which is unlikely, even URLs for handbook pages can change.)
-
-The recommendation is to set a piece of content to expire one year from the upload date. Note that Highspot will automatically assign an expiration date of one year out when uploading content. 
-
-When a piece of content does expire, it will not be deleted. Instead, it will be moved into an Archived folder. All spot owners will receive a notification and can easily reset the content expiration date with the click of a button. 
-
-![Screenshot_ScheduleContent](/handbook/sales/field-communications/gitlab-highspot/images/Example_ScheduleContent.png)
+[Watch this video](https://youtu.be/0q4jaPkYYKQ) for a ~5 minute demo on how to upload content into Highspot. See the guidance below for more detailed instructions and considerations.
 
 #### Links from Google Drive
 Highspot offers the ability to link files directly from GitLab's Google Drive. **When adding a piece of content from Google Drive, you should *always* add the file directly from Drive versus add the link** – i.e. select the + button --> Add Files --> From Cloud Services (Google Drive) vs. + --> Add Link. This will allow Highspot to keep that piece of content up-to-date as changes are made to the Google Drive file. 
@@ -466,3 +438,35 @@ If you are unsure about whether a piece of content is fit to be external, please
 
 ![Screenshot_DriveAutoUpdate](/handbook/sales/field-communications/gitlab-highspot/images/Example_InternalContentPermissions.png)
 
+#### Content expiration 101
+Highspot includes the ability to "schedule" content. This allows you to set an expiration date for content. **We should set an expiration date on almost ALL pieces of content**, as it provides an opportunity to review that content on a regular basis and ensure that it is still relevant, the lists are still accurate, etc. If we don't set content to expire, we run the risk of letting outdated/inaccurate content exist on Highspot, compromising the efficacy of the resources. 
+
+The only exception to this would be links or files that you know will not change. (Which is unlikely, even URLs for handbook pages can change.)
+
+The recommendation is to set a piece of content to expire one year from the upload date. Note that Highspot will automatically assign an expiration date of one year out when uploading content. 
+
+When a piece of content does expire, it will not be deleted. Instead, it will be moved into an Archived folder. All spot owners will receive a notification and can easily reset the content expiration date with the click of a button. 
+
+![Screenshot_ScheduleContent](/handbook/sales/field-communications/gitlab-highspot/images/Example_ScheduleContent.png)
+
+#### Validation Rules 
+There are three validation rules set in GitLab's Highspot instance. Each piece of content must include: 
+1. An expiration date - A built-in checkpoint to maintain the quality of content in Highspot (see [Content expiration 101](/handbook/sales/field-communications/gitlab-highspot/#content-expiration-101) for more details)
+1. A description - Whether one sentence or a full paragraph, a description will help make content more discoverable by users when searching for key words 
+1. At least one list - Content should be tagged to at least one list (but preferably more) to help increase discoverability
+
+If one of these validation rules is broken, you will see a `Validates Policy` flag. Upon clicking on the flag, a message will appear with more details on which validation rule has been broken. Content owners can easily filter down to content that is in violation of the validation rules by using the `Flags` list in the spot and filtering down by `Violates Policy`. 
+
+A piece of content that has this flag will still be visible in Highspot for users to see. The flag is more of a visual cue to help content owners maintain Highspot best-practices.
+
+![Screenshot_ViolatesPolicyFlag](/handbook/sales/field-communications/gitlab-highspot/images/Example_ViolatesPolicyFlag.png)
+
+![Screenshot_ValidationRuleMessage](/handbook/sales/field-communications/gitlab-highspot/images/Example_ValidationRuleMessage.png)
+
+
+#### Including content in more than one spot 
+Some content might fit in more than one spot. When this happens, you should bookmark content into an additional spot(s). **Avoid uploading the same piece of content multiple times, as this will make version control difficult.** 
+
+It is likely that this scenario will happen most often with the Customer-Facing Content spot, as content that fits under Marketing could also fit under Customer-Facing Content. Always default to adding the content within the primary spot first and then bookmark into Customer-Facing Content. In this scenario, you'd add the link/file to `Marketing` and then bookmark to `Customer-Facing Content`.
+
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_AddBookmark.png)
