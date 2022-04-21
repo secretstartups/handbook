@@ -124,7 +124,7 @@ They require some environment variables to be set prior running the command:
 | AWS S3 Object Storage | AWS_S3_KEY_ID       | AWS credentials                      |
 | AWS S3 Object Storage | AWS_S3_ACCESS_KEY   | AWS credentials                      |
 | AWS S3 Object Storage | AWS_S3_BUCKET_NAME  | Name of the bucket set in AWS        |
-| GCP Object Storage    | GCS_BUCKET_NAME     | Name of the bucket set in AWS        |
+| GCP Object Storage    | GCS_BUCKET_NAME     | Name of the bucket set in GCS        |
 | GCP Object Storage    | GOOGLE_JSON_KEY     | JSON key credential                  |
 | GCP Object Storage    | GOOGLE_CLIENT_EMAIL | Email address of the service account |
 | GCP Object Storage    | GOOGLE_PROJECT      | GCP project name                     |
@@ -154,6 +154,29 @@ This composes two scenarios by setting up a GitLab instance that has both an Obj
 * Run the command: `GITLAB_TLS_CERTIFICATE=$(cat /path/to/certificate.crt) gitlab-qa Test::Integration::RegistryTLS EE --omnibus-config object_storage`
 
 Note: the command above uses the option `--omnibus-config object_storage` which can be adjusted to `--omnibus-config object_storage_aws` or `--omnibus-config object_storage_gcp` depending on the Object Storage provided for setup.
+
+#### CDN Scenario - Run the Registry with a Google CDN enabled
+
+This is a [single scenario](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/lib/gitlab/qa/scenario/test/integration/registry_with_cdn.rb) but it configures the Registry to be insecure, borrowing some of the configuration in the simple Insecure Registry scenario.
+To run this scenario ensure that the following credentials are set:
+
+| Scenario              | Variable                    | Description                          |
+|-----------------------|-----------------------------|--------------------------------------|
+| Registry with a CDN   | GOOGLE_CDN_SIGNURL_KEY      | private key used for signing URLs   |
+| Registry with a CDN   | GOOGLE_CDN_SIGNURL_KEY_NAME | name of the key used for signing URLs    |
+| Registry with a CDN   | GOOGLE_CDN_LB               | where the Google CDN load balancer is listening |
+| Registry with a CDN   | GCS_CDN_BUCKET_NAME         | Name of the bucket set in GCS            |
+| Registry with a CDN   | GOOGLE_CDN_JSON_KEY         | JSON key credential                      |
+
+* Run the command (with all the above variables set): `GOOGLE_CDN_LB=... GOOGLE_CDN_SIGNURL_KEY= ... gitlab-qa Test::Integration::RegistryWithCDN EE`
+
+**Which resources it uses and where are they?**
+
+This test setup uses a GCS bucket (separated from the bucket used for GCS Object Storage tests), a Load Balancer with a static IP and
+a backend bucket mapped to the CDN-enabled GCS bucket. These resources currently run on GCP `gitlab-qa-resources`.
+The `ipfilteredby` is set to `none` by default in this test, meaning all downloads are being redirected to the CDN.
+
+Note: Staging, PreProd, and Production use `ipfilteredby` set to `gcp`. This confirms and covers two possible scenarios of `ipfilteredby`.
 
 #### Scenario - Run Dependency Proxy tests
 
