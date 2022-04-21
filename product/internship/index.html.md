@@ -25,8 +25,9 @@ You can reach out on slack to the [#product](https://gitlab.slack.com/archives/C
 Another option is using the table below that will help match mentors and interns. If you are interested in participating in an internship, either as a mentor or intern, please fill out your details in the table below. If you see an empty slot for a mentor/intern, feel free to reach out to that person to see if they are available to be your internship match.
 
 | Mentor | Intern | Group | Mentor Timezone | Intern Timezone |
-| -------| -------|------|---------|-------|--------|-----|
-|        |.       |.     |.        |.      |.   |.     |
+| ------ | ------ | ----- | --------------- | --------------- |
+|        |        |       |                 |                 |
+
 ## Coffee Chat with PM internship Alumni
 
   Feel free to schedule a coffee chat with any of the [PM internship Alumni](/handbook/product/internship/index.html#alumni). You can review the list of PM internship below. These chats can be helpful when deciding whether to apply to participate or if you're unable to participate but want to hear about the experience and what alumni have learned during their internship.
