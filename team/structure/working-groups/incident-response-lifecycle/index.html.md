@@ -1,8 +1,18 @@
+---
+layout: markdown_page
+title: "Incident Response Lifecycle"
+description: "The Incident Response Lifecyle working group is intended to document a shared incident response protocol and knowledgebase."
+canonical_path: "/company/team/structure/working-groups/incident-response-lifecycle/"
+---
+
 ## On this page
 {:.no_toc}
 
 - TOC
 {:toc}
+
+## Attributes
+
 
 ## Attributes
 
