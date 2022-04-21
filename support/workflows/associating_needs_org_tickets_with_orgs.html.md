@@ -174,15 +174,22 @@ You can search for organizations using the ZD search (see screenshot below).
 
 ### Adding a customer to an organization
 
-Follow these steps after [identifying the user as a customer](#identifying-customers)
-and verifying their proof of entitlement.
+#### Prerequisites
 
-To associate a user with an organization:
+Before you can associate a user with an organisation, please ensure that you have:
+
+[ ] [identified the user as a customer](#identifying-customers)
+[ ] verified their proof of entitlement
+
+If these conditions are not fulfilled, please ping their AM/TAM in the `#account-management` _before_ adding the user.
+
+#### Add the user to the organization
+
+When the prerequisites above are complete, 
 
 1. Verify that the customer exists in SFDC, and remember that if you don't have access
    to SFDC, there are other ways to [look up customer account details](https://about.gitlab.com/handbook/support/workflows/looking_up_customer_account_details.html#looking-up-customer-account-details).
-   If they do not exist in SFDC, please ping their AM/TAM in the `#account-management`
-   Slack channel to ask them to add the customer as a contact in SFDC.
+   If they do not exist in SFDC, use the SFDC app in Zendesk to add the user to SFDC
 1. Click on the user's name in ZD ticket.
 1. In the "Org" field type the organization name.
 1. Select the appropriate organization.
