@@ -44,7 +44,7 @@ The meetings are also to be livestreamed to GitLab Unfiltered, with the distinct
 
 Functions that have these meetings are:
 
-1. Sales & Marketing (Michael McBride & Craig Mestel- function DRIs) scheduled twice per quarter  
+1. Sales & Marketing (Michael McBride & Ashley Kramer - function DRIs) scheduled twice per quarter  
 1.  Finance (Brian Robins - function DRI) scheduled twice per quarter  
 1.  Legal (Robin Schulman - function DRI) scheduled twice per quarter  
 1.  People Group (Wendy Barnes - function DRI) scheduled twice per quarter  
