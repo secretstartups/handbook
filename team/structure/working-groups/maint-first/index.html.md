@@ -28,9 +28,9 @@ Transition R&D teams quickly to this new model driven by backlog types, automate
 
 Benefits include:
 
-* A healthier balance of work types (features, maintenance items, bugs)
-* Improved transparency for stakeholders
-* Ability to respond quicker to changing needs
+* In order to have a healthier balance of work by type (features, maintenance items, bugs), we will set goals on these ratios and track on a per team basis
+* In order to improve transparency for stakeholders, we will publish dashboards where the trends and details can be tracked over time
+* In order to respond more quickly to changing needs, we will use this process to better stay ahead of maintenance work rather using the `engineering allocation` process which generally addresses maintenance work retroactively rather than proactively.
 
 More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Zo-Fdq3yVtk-q-uJrKe_03iF9jB1XQWqQb4/edit#slide=id.geebc38ecb3_0_261).
 
@@ -66,4 +66,4 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Member                | Kyle Wiebers                                         | Engineering Manager, Engineering Productivity |
 | Member                | John Hope                                            | Engineering Manager, Plan:Product Planning & Certify |
 | Member                | Matt Wilson                                          | Senior Product Manager, Secure |
-      
+
