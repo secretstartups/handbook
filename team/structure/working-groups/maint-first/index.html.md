@@ -71,4 +71,5 @@ Transition R&D teams immediately to this new model driven by backlog types, auto
 | Member                | Kyle Wiebers                                         | Engineering Manager, Engineering Productivity |
 | Member                | John Hope                                            | Engineering Manager, Plan:Product Planning & Certify |
 | Member                | Matt Wilson                                          | Senior Product Manager, Secure |
+| Member                | Neil McCorrison                                      | Frontend Engineering Manager, Secure |
       
