@@ -22,22 +22,17 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4199535?label_name[]=wg_maint-first) |
 | Epic            | [Link](https://gitlab.com/groups/gitlab-com/-/epics/1799) |
 
-## Business Goal
+## Business Goals
 
-Transition R&D teams immediately to this new model driven by backlog types, automated SLO guidelines & healthy prioritization ratios. This should not wait until complete burn-down of their Reliability & Security debt backlog (estimate all teams by the end of May). But we should expect maintenance to be high in this new model, until we reach that steady state.
+Transition R&D teams quickly to this new model driven by backlog types, automated SLO guidelines, and balanced prioritization ratios. This should not wait until complete burn-down of their Reliability & Security debt backlog (estimate all teams by the end of May). However, we should expect maintenance to be high in this new model, until we reach that steady state.
 
-* Teams backlog slates containing view of all backlog types.
-  * Security
-  * Reliability
-  * UX / SUS
-  * Bugs
-* Teams merged work type slate (historical & real time)
-* Stakeholders slate, view of progress and ratio attainment
-* Automation guardrails to enforce hygiene & SLO
-* Handbook team dashboards
+Benefits include:
 
-[Work type improvements & initial dashboards have been completed prior to the working group.](https://gitlab.com/groups/gitlab-com/-/epics/1799#pre-work-by-april-15th) 
+* A healthier balance of work types (features, maintenance items, bugs)
+* Improved transparency for stakeholders
+* Ability to respond quicker to changing needs
 
+More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Zo-Fdq3yVtk-q-uJrKe_03iF9jB1XQWqQb4/edit#slide=id.geebc38ecb3_0_261).
 
 ### Exit Criteria (0% completed)
 
@@ -61,7 +56,7 @@ Transition R&D teams immediately to this new model driven by backlog types, auto
 | Executive Sponsor     | Eric Johnson                                         | CTO                                                        |
 | Facilitator           | Wayne Haber                                          | Director of Engineering                                    |
 | Functional Lead       | Christopher Lefelhocz                                | VP of Development                                          | 
-| Functional Lead       | Valerie Karnes                                  | Director of Product Design |
+| Functional Lead       | Valerie Karnes                                       | Director of Product Design |
 | Functional Lead       | Mek Stittri                                          | VP of Quality |
 | Functional Lead       | David DeSanto                                        | VP of Product Management |
 | Functional Lead       | Justin Farris                                        | Senior Director of Product Management |
