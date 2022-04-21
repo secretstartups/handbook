@@ -62,36 +62,40 @@ At GitLab, we promote on a quarterly cadence. This means that there is **one eff
 | [Calibration](/handbook/people-group/promotions-transfers/#calibration) | The calibration exercise is an opportunity for leaders (sync or async) to review projected promotions on a quarterly basis. This is an opportunity to create visbility and ensure consistency in who we are promoting and why. |
 | [Processing](/handbook/people-group/promotions-transfers/#process-hris-greenhouse-or-compaas) | The final stage once promotions are defined, is to determine where to process the promotion to finalize (this will take place via BambooHR, Compaas, or Greenhouse). 
 
+**Managers do not need to submit promotions that are part of calibration via BambooHR. This will be uploaded and processed by the People Operations team.** The exception to this rule are promotions that are submitted as [exceptions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#quarterly-promotion-cadence-exceptions) and not part of the quarterly cycle and timeline outlined below.
+
 Below is the timeline for FY23: 
 
 - FY23-Q1:
   - Planning: December 15 to January 5
   - Calibrations: January 5 to January 15 
-  - Processing: January 15 to February 1 
-     - Promotions must be added to Compaas by January 20. 
+  - Processing: January 15 to February 1 (Promotions must be added to Compaas by January 20)
      - Effective date for promotions: 2022-02-01. 
      - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicated 1:1 with individuals, updates can be posted publicly in [#team-member-updates](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process).
+     
 - FY23-Q2: 
   - Planning: March 15 to April 1
   - Calibrations: April 1 to April 15
-  - Processing: April 15 to May 1 
-     - Promotions must be added to HRIS by April 20. 
+  - Processing: April 15 to May 1 (promotions must be added to HRIS by April 20)
      - Effective date for promotions: 2022-05-01. 
      - Communication: After fully approved in either Greenhouse or HRIS
+     - After communicated 1:1 with individuals **on or after 2022-05-01**, updates can be posted publicly in [#team-member-updates](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process). Managers should _not_ communicate until promotions are effective in BambooHR.
+
 - FY23-Q3: 
   - Planning: June 15 to July 1 
   - Calibrations: July 1 to July 15
-  - Processing: July 18 to August 1
-     - Promotions must be added to HRIS by July 20. 
+  - Processing: July 18 to August 1 ((promotions must be added to HRIS by July 20))
      - Effective date for promotions: 2022-08-01. 
      - Communication: After fully approved in either Greenhouse or HRIS
+     - After communicated 1:1 with individuals **on or after 2022-08-01**, updates can be posted publicly in [#team-member-updates](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process). Managers should _not_ communicate until promotions are effective in BambooHR.
+
 - FY23-Q4:
   - Planning: September 15 to September 30
   - Calibrations: October 3 to October 10 
-  - Processing: October 10 to November 1 
-     - Promotions must be added to HRIS by October 20. 
+  - Processing: October 10 to November 1 (promotions must be added to HRIS by October 20)
      - Effective date for promotions: 2022-11-01. 
      - Communication: After fully approved in either Greenhouse or HRIS
+     - - After communicated 1:1 with individuals **on or after 2022-011-01**, updates can be posted publicly in [#team-member-updates](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process). Managers should _not_ communicate until promotions are effective in BambooHR.
 
 _Please note that the Calibration timeline for Senior Director+ promotions will differ slightly from the timelines indicated above, as Senior Director+ promotions are calibrated at the [quarterly E-group offiste](https://about.gitlab.com/company/offsite/#schedule)._
 
