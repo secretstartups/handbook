@@ -211,19 +211,9 @@ Feel free to check local second-hand/free markets when looking for equipment, es
 
 If you are able to find hidden gems in these markets, please go ahead and make the purchase. In order to expense these types of purchases, we ask that you take a screenshot or photo of the sale listing and any fund transfers or conversations between yourself and the seller on price and delivery costs. 
 
-### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Team Manager Flower and Gift Purchases
-
-Managers are able to send Gifts and Flowers on behalf of their team members in acknowledgment of significant life events such as the birth of a little one; well wishes ahead of surgery, or the loss of a loved one.
-
-The event in question must pertain to a GitLab Team Member or the immediate family of a GitLab Team Member and will be allocated to the respective team members departmental budget - the spend range for significant life events is **$75 to $125**.
-
-Managers can facilitate the ordering of Flowers or Gifts for delivery, but please note that you are unable to send restaurant gift cards at this time. In an instance where you would like to extend the offer of a meal or food delivery service, this will need to be expensed by the recipient for reimbursement.
-
-When expensing Team member gifts please use the tag FY22_EmployeeGiftsFlowers.
-
 ### Team Building Budget
 
-In FY23, each eGroup member has been allocated $50 per team member per quarter for FY23-Q1 to FY23-Q3 for team building events. For FY23-Q3 each eGroup member may determine if they wish to use their team building allocation at Contribute or for a different team building event. There is not additional team building budget for Contribute above the $50 per team member. In FY23-Q4 there is an additional budget of $100 per team member. More to come in the section below as we get closer to FY23-Q4.
+In FY23, each eGroup member has been allocated $50 per team member per quarter for FY23-Q1 to FY23-Q3 for team building events. For FY23-Q3 each eGroup member may determine if they wish to use their team building allocation at Contribute or for a different team building event. There is no additional team building budget for Contribute above the $50 per team member. In FY23-Q4 there is an additional budget of $100 per team member. More to come in the section below as we get closer to FY23-Q4.
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Year-end Holiday Party Budget
 
@@ -233,15 +223,6 @@ GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per 
 
 Currently Suspended
 
-### Something else?
-
-No problem, and consider adding it to this list if others can benefit as well.
-
-1. Customer/Partner Facing Events
-    * Gala/Black Tie Events: Tuxedo or Gown Rental, $150-$225 USD per event.
-    * The event must be customer specific and the invitation must state black tie only.
-
-
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Approving Expense Reports
 
 1. All expense reports are approved by the team members direct manager or their designated approver when they are out of the office.
@@ -250,7 +231,7 @@ No problem, and consider adding it to this list if others can benefit as well.
     - Click on the report name in the body of the email
     - Review each expense for the correct amount of the receipt and the report
     - Check for customers or project name if applicable under Tag
-    - We required a receipt for any expense greater than $75 or a $5 cash USD or equivalent to local currency purchase (except for Billable policy)
+    - We required a receipt for any expense greater than $75
     - Select [Approve and Forward] option and Expensify pre-populated the email address. Note, Expensify is updating their coding to address a small glitch in this field. If it is empty, please send it to **Montpac** ([gitlab-expensify-mp@montpac.com](mailto:gitlab-expensify-mp@montpac.com))
     - **Important** - please do not use [Final Approval] because Expensify will not send the email notification for payment approval and it will delay the reimbursement process
     - Manager can delegate the approval process during PTO:
@@ -259,63 +240,6 @@ No problem, and consider adding it to this list if others can benefit as well.
     - Vacation Delegate
     - Enter the email address of the backup approval
     - All expense question(s) can be addressed by emailing `expenses@gitlab.com`.
-1. **Expenses Reports approval deadline**
-    - Australia, Germany, New Zealand, Netherlands, United States, New Zealand, Ireland, Japan - After approval completion by manager and Accounts Payable.
-    - United Kingdom - All expense reports must be approved by the manager and Accounts Payable no later than the 14th of each month. Team members - please be sure to submit your report(s) a couple days before the due date so your manager and Accounts Payable have enough time for approval.
-    - Canada - All expense reports must be approved by manager and Accounts Payable before 1st day of each payroll period.
-    - All non-US contractors - All expense reports must be approved by manager and Accounts Payable no later than the 8th of each month. Team members - please be sure to submit your report(s) a couple days before the due date.
-1. The team member will make a list of requested items and prices, noting if they are out of the budget range listed in the [Expenses handbook section](/handbook/finance/expenses/) (if applicable), and send it to their manager for approval. We ask that only one list be sent, versus multiple lists.
-1. The team member's manager will send the approved (or edited) list to Accounting ([nonuspayroll@gitlab.com](mailto:nonuspayroll@gitlab.com) OR [uspayroll@gitlab.com](mailto:uspayroll@gitlab.com), and CC [expenses@gitlab.com](mailto:expenses@gitlab.com)) for final approval and dispensation.
-1. Once approved, Payroll will send the team member an invoice template to fill out with the approved items, prices and the team member's bank information.
-1. The approved final amount will be sent to the team member's bank and they can then purchase their approved items.
-1. Receipts should be submitted to [expenses@gitlab.com](mailto:expenses@gitlab.com) after the purchases have been made.
-- Expense reports must be submitted in Expensify by team members, approved by their managers, and final approved by Accounts Payable team on or before the 7th of each month to ensure it is included in the current months payroll
-- GitLab Payroll will send the approved expense amount to CXC EMEA payroll to include with the monthly salary
-- Team members must include the approved expense amount on their monthly invoice as well
-- Please include your expenses along with receipts on your monthly salary invoice.
-- Expense reports for GitLab Ltd (UK) must be approved by the manager and the Accounts Payable team on or before the 14th of each month in order for the reimbursement to be include in the current month payroll.
-- Expense reports for GitLab Canada Corp must be approved by the manager and the Accounts Payable team before the 1st day of each payroll period. Please see [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ECkI_Z8R82j1eipJEEybXjO-EDtzw4TuhJPOnHypDho/edit#gid=0) for the payroll cut off date.
-- Expense reports for GitLab France S.A.S must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current months Payroll.
-- Expenses reports for GitLab Korea Limited must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current months Payroll.
-- Expense reports for Singapore PTE. LTD. must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current months Payroll.
-- Expense reports for GitLab BV (Belgium and Netherlands), GitLab GmbH (Germany), GitLab PTY Ltd (Australia and New Zealand), GitLab GK (Japan), and GitLab LTD (Ireland) are reimbursed via GitLab AP within 10 business days from the approval date by their manager and the Accounts Payable team.
-- Expense reports for GitLab Inc, GitLab Inc Billable, and GitLab Federal reimbursed via Expensify, and AP will final approve the report within 5 business days after the approval from their manager.
-- All Individual contractors or C2C, with exception of Nigeria will be reimbursed by iiPay by the 22nd of each month. All expense reports must be approved by the manager and the Accounts Payable team by the 8th of each month to be include in the current month payment. For contractor with C2C status, be sure to contact Payroll team via email at [nonuspayroll@gitlab.com](mailto:nonuspayroll@gitlab.com) and [expenses@gitlab.com](mailto:expenses@gitlab.com) if you need to set up a separate bank for your expense reimbursement.
-- Team members must submit their expenses through Expensify. All expense reports must be submitted and approved by manager and Montpac or the Accounts Payable team by the 7th of the month to include in the current month payment.
-- Expensify
-- Safeguard in-house expense reimbursement
-- GitLab payroll send the expense approval to Safeguard after the team member's manager approved the report
-- Team members send the original receipts to Safeguard
-1. Effective 2019-07-01, all expense reports must be submitted to your manager for approval prior to being sent to Montpac, and Accounts Payable for approval and reimbursement.
-1. If you are a team member from Nigeria, please submit your expense in your salary invoice (a template can be found [here](/handbook/finance/#invoice-template-and-where-to-send)) with receipts attached to [nonuspayroll@gitlab.com](mailto:nonuspayroll@gitlab.com). Please note, this is a temporary solution while we are transition over to a PEO.
-1. If you are a team member and incurred an expense charged in a currency different from the one you use to submit your invoices, use the conversion rates specified in the [global compensation section of the handbook](/handbook/total-rewards/compensation/#exchange-rates). If the expense currency doesn’t exist in that list, refer to the conversion rates in [oanda](https://www.oanda.com/currency/converter/). Make sure to set the expense date in the currency converter form.
-1. GitLab uses Expensify to facilitate the reimbursement of your expenses. As part of onboarding you will receive an invitation by email to join GitLab's account. Please set up your account by following the instructions in the invitation.
-    - If you are a team member in Spain or France, please submit your expenses through Safeguard in-house expense reimbursement management system and also submit them through Expensify. Accounts Payable will review, approve, and send the approval of your expense reports in Expensify to your gitlab email address. You will need to forward the approval email to Safeguard enable for them to process your expense reimbursement via payroll.
-    - If you are new to Expensify and would like a brief review, please see [Getting Started](https://community.expensify.com/discussion/7703/getting-started-video)
-    - For step by step instructions on creating, submitting, and closing a report please see [Create, Submit, Close](https://docs.expensify.com/en/articles/2921-report-actions-create-submit-and-close)
-    - For US team members, the approved expense amount will be deposited into your account a few days after the report has been approved by Accounts Payable.
-    - For Australia, New Zealand, Belgium, Germany, Netherlands, Ireland, and Japan AP will process the approved report on Friday. The payment will be deposited into your account no later than three business days the following week.
-    Accounts payable uses Tipalti to drive payment to the above policies. As part of onboarding, an invitation to the Tipalti portal will be sent. Please sign up and onboard only banking information, no tax information is needed. If set up of the personal Tipalti account is not completed in a timely manner, this may result in a delay of expense payment.
-    - For all team members being paid by Safeguard, Remote, Global Upside, CXC, iiPay, or Vistra, the approved expense amount will be deposited in your account with your monthly salary.
-1. If you are a team member with a company credit card, your company credit card charges will automatically be fed to a new Expensify report each month. Please attach receipts for all expenses (per the Expense Policy, see below) within 1 business days after the end of the month. These amounts will not be reimbursed to you but Expensify provides a platform for documenting your charges correctly.
-
-
-## Expense Reimbursement
-
-### Reimbursement process:
-1. All expense reports must be submitted to your manager for approval prior to being sent to Montpac, and/or Accounts Payable for final approval and reimbursement.
-1. If you are a team member from Nigeria, please submit your expense in your salary invoice (a template can be found [here](/handbook/finance/#invoice-template-and-where-to-send)) with receipts attached to <nonuspayroll@gitlab.com>.  Please note, this is a temporary solution while we are transition over to a PEO.
-1. If you are a team member and incurred an expense charged in a currency different from the one you use to submit your invoices, use the conversion rates specified in the [global compensation section of the handbook](/handbook/total-rewards/compensation/#exchange-rates). If the expense currency doesn’t exist in that list, refer to the conversion rates in [oanda](https://www.oanda.com/currency/converter/). Make sure to set the expense date in the currency converter form.
-1. GitLab uses Expensify to facilitate the reimbursement of your expenses. As part of onboarding you will receive an invitation by email to join GitLab's account. Please set up your account by following the instructions in the invitation.
-   * If you are a team member in Spain, please submit your expenses through Safeguard in-house expense reimbursement management system and also submit them through Expensify.  Accounts Payable will review, approve, and send the approval of your expense reports in Expensify to your gitlab email address.  You will need to forward the approval email to Safeguard enable for them to process your expense reimbursement via payroll.
-    * If you are new to Expensify and would like a brief review, please see [Getting Started](https://community.expensify.com/discussion/7703/getting-started-video)
-   * For step by step instructions on creating, submitting, and closing a report please see [Create, Submit, Close](https://docs.expensify.com/en/articles/2921-report-actions-create-submit-and-close)
-   * For all team members being paid by Safeguard, Remote, Global Upside, CXC, iiPay, or Vistra, the approved expense amount will be deposited in your account with your monthly salary.
-   * For Ireland team members: AP will process all reports approved by EOD Tuesday for payment each Thursday via manual bank wire.
-   * For US team members: the approved expense amount will be deposited into your account a few days after the report has been final approved.
-   * For PTY LTD, GmbH, BV, and GK entity team members:  AP will process all reports approved by EOD Tuesday for payment each Thursday via Tipalti
-    Accounts payable uses Tipalti to drive payment to the above policies. As part of onboarding, an invitation to the Tipalti portal will be sent. Please sign up and onboard only banking information, no tax information is needed. If set up of the personal Tipalti account is not completed in a timely manner, this may result in a delay of expense payment.
-1. If you are a team member with a company credit card, your company credit card charges will automatically be fed to a new Expensify report each month. Please attach receipts for all expenses (per the Expense Policy, see below) within 1 business days after the end of the month. These amounts will not be reimbursed to you but Expensify provides a platform for documenting your charges correctly.
 
 ### Reimbursement Payout Timelines:
 #### SafeGuard
@@ -337,10 +261,10 @@ The list of Global Upside & Remote countries can be found [here](https://about.g
 #### Legal entities:
 * Expense reports for GitLab Ltd (UK) must be approved by the manager and the Accounts Payable team on or before the 13th of each month in order for the reimbursement to be included in the current month payroll.
 * Expense reports for GitLab Canada Corp must be approved by the manager and the Accounts Payable team before the 1st day of each payroll period.  Please see [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ECkI_Z8R82j1eipJEEybXjO-EDtzw4TuhJPOnHypDho/edit#gid=0) for the payroll cut off date.
-* Expense reports for GitLab France S.A.S must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current month's Payroll.
-* Expenses reports for GitLab Korea Limited must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current month's Payroll.
-* Expense reports for Singapore PTE. LTD. must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current month's Payroll.
-* Expense reports for GitLab BV Finland must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current month's Payroll.
+* Expense reports for GitLab France S.A.S must be approved by the Manager and the Accounts Payable team on or before the 7th of each month in order for the reimbursement to be included in the current month's Payroll.
+* Expenses reports for GitLab Korea Limited must be approved by the Manager and the Accounts Payable team on or before the 7th of each month in order for the reimbursement to be included in the current month's Payroll.
+* Expense reports for Singapore PTE. LTD. must be approved by the Manager and the Accounts Payable team on or before the 7th of each month in order for the reimbursement to be included in the current month's Payroll.
+* Expense reports for GitLab BV Finland must be approved by the Manager and the Accounts Payable team on or before the 7th of each month in order for the reimbursement to be included in the current month's Payroll.
 * Expense reports for GitLab BV (Belgium and Netherlands), GitLab GmbH (Germany), GitLab PTY Ltd (Australia and New Zealand), GitLab GK (Japan), and GitLab LTD (Ireland) are reimbursed via GitLab AP within 10 business days from the approval date by their manager and the Accounts Payable team.
 * Expense reports for GitLab Inc, GitLab Inc Billable, and GitLab Federal reimbursed via Expensify, within 5 business days after the final approval is completed by AP or Montpac.
     - The team member's bank account must be set up in Expensify in order for payment to complete. If you are unsure how to set up your bank please reference the FAQ document linked at the top of this page.
