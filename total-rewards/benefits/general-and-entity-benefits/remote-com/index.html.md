@@ -26,6 +26,7 @@ All of the benefits listed below are administered and managed by [Remote](https:
 Remote will offer healthcare through Omint all hired from April 2022 onwards. Team members have the option to add dependents to the healthcare plan at an additional cost. 
 
 ### Remote - Brazil  Statutory Leave policies
+Below is the information related to Brazil's statutory leave policies.  Please note that team members hired in Brazil are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
 ### Annual leave: 
 
@@ -43,7 +44,7 @@ To apply for leave, please enter the dates into PTO by Roots and select the `Par
 
 Team Members in Brazil are entitled to up to five days of paid statutory paternity leave.  Team members are also eligible for GitLab's 16-week paid [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave); which run concurrently. 
 
-Team members will receive up to 100% of their regular salary during their statutory Paternity Leave.  If eligible, GitLab will continue a team member's salary up to 100% of their regular salary for the full 16 weeks of leave. 
+Team members will receive up to 100% of their regular salary during their statutory Paternity Leave.  If eligible, team members will receive up to 100% of their regular salary for the full 16 weeks of leave. 
 
 Same-sex couples in Brazil may apply to receive full maternity leave benefits beginning on the day the caregiver takes leave from work.
 
@@ -60,6 +61,11 @@ Please enter the dates in PTO by Roots and select the `Bereavement` option.
 Team Members in Brazil are entitled to three consecutive days of paid leave when they get married.  Team members needing more time away should refer to our [PTO policy](/handbook/paid-time-off/).
 
 Please enter the time away in PTO by Roots and select the `Vacation` option.
+
+### Statutory Sick Leave:
+In the event a team member in Brazil is unable to work due to illness, their pay will be supplemented up to 100% of their base salary until the 15th day of absence. After the 16th day of absence, team members are eligible to receive compensation paid by the Social Security Authorities.  
+
+To ensure all statutory sick leave is tracked appropriately, please email the Absence Management Team (leaves@gitlab.com) to report your leave.  Then enter the dates into PTO by Roots by selecting the `Out Sick` option.
 
 ## Denmark
 
@@ -81,6 +87,7 @@ GitLab does not plan to offer life insurance at this time as team members can ac
 
 
 ### Remote - Denmark Statutory Leave Policies
+Below is the information related to Denmark's statutory leave policies.  Please note that team members hired in Denmark are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
 #### Holiday Leave
 
@@ -102,7 +109,7 @@ As an employee, you can receive maternity benefits if you meet these three condi
 
 **Payment Denmark automatically receives the information about your employment and hours from your employer.**
 
-During maternity leave (after childbirth), birthing parents will receive 50% of their salary from the State. However, employer and employee can agree to full pay entitlement. 
+During maternity leave (after childbirth), birthing parents will receive 50% of their salary from the State. However, Remote and the employee can agree to full pay entitlement. 
 
 The allowance during parental leave is calculated as an amount per week. The amount depends on how much you work. The maximum amount per week is DKK 4.460 (2021). 
 
@@ -113,7 +120,7 @@ The allowance during parental leave is calculated as an amount per week. The amo
 #### Applying for Maternity Leave Pay
 
 **If you receive pay during the leave**
-If you receive pay during the leave, your employer will be paid the maternity allowance in the meantime. It's called reimbursement. You can only apply for maternity benefit yourself when the salary stops.
+If you receive pay during the leave, reimbursement will be sought by your employer. You can only apply for maternity benefit yourself when the salary stops.
 
 Your employer must notify Udbetaling Danmark when the salary stops. They can do this at the earliest on your first day without pay. As soon as your employer has given notice, you will automatically receive a letter requesting maternity benefits.
 
@@ -134,11 +141,15 @@ If you have not received the letter shortly after you have gone on leave, you mu
 
 To help you plan for your leave, click on [Calculating your Maternity Leave](https://www.borger.dk/Handlingsside?selfserviceId=9afd00f4-efd1-448f-94b9-6d66fd95d505&referringPageId=a2a65391-2201-4d47-ad25-2b0e0a343fad&type=DK).
 
+Please submit the dates of your leave in PTO by Roots by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.
+
 #### Paternity Leave 
 Fathers are entitled to 2 weeks of paternity leave before the birth and 14 weeks after. There is no statutory right to salary, but the father may receive leave benefits from Danish authorities.
 
 #### Paternity Leave Payment
 * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave for up to 16 weeks. GitLab's Parental leave will run concurrently with any statutory leave and/or pay entitlements the team member is eligible for.
+
+Please submit the dates of your leave in PTO by Roots by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.
 
 #### Parental leave
 Parents are entitled to 32 weeks leave with a possibility to extend to a maximum of 46 weeks. Leave pay is due for 32 weeks given relevant conditions are met.
@@ -196,10 +207,13 @@ Under the Remote Technology scheme, the employer and member both pay **5% each t
 For more details on benefits managed by Discovery: [Remote Technology Employee Benefits](https://gitlab.com/gitlab-com/www-gitlab-com/uploads/bfd6b16936b7cfaccc8fe0992bd7271f/ZA_Remote_Technology.pdf)
 
 ### Parental Leave
+Below is the information related to South Africa's statutory leave policies.  Please note that team members hired in South Africa are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
 To initiate your parental leave, submit the dates via PTO by Roots under the Parental Leave category. This will prompt the Absence Management team to process your leave. You can find out more information about our Parental Leave policy on the [general benefits page](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
-If you are eligible to receive parental leave from GitLab, your payments will be made up of payments from UIF and the rest from GitLab. Once you send your parental leave notification in PTO by Roots, the Absence Management team will notify Remote. Remote will then get in touch with you to explain the UIF payment claim process. 
+If you are eligible to for GitLab's parental leave, your payments will be made up of payments from UIF and then supplemented up to 100%. 
+
+Please submit the dates of your leave in PTO by Roots by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.  Once you send your parental leave notification in PTO by Roots, the Absence Management team will notify Remote. Remote will then get in touch with you to explain the UIF payment claim process. 
 
 
 ## Spain
@@ -221,6 +235,7 @@ All of the benefits listed below are administered and managed by [Remote](https:
 GitLab currently has no plans to offer Life Insurance, Private Medical cover, or a private pension due to the government cover in Spain. The [GitLab Life Insurance plan](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
 
 ### Statutory Leave Policies
+Below is the information related to Spain's statutory leave policies.  Please note that team members hired in Spain are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
 #### Holiday Leave
 
@@ -255,6 +270,8 @@ If you don’t meet this requirement, you can still get your maternity leave and
 
 To help plan your leave click: [How Much Exactly Will You Get Paid On Leave](https://balcellsgroup.com/maternity-leave-spain/#How_much_exactly_will_you_get_paid_during_maternity_leave).
 
+Please enter the dates of your leave in PTO by Roots by selecting the `Parental leave` option.  The Absence Management team will contact you with more information.
+
 #### Unpaid Maternity Leave
 Excedencia sin sueldo offers the right to take extended leave from work for up to a maximum of three years in total for a mother to care for her children and still return to the same employer. You can request that your exact post be held for a maximum of one year, after which you may be offered a similar post for up to 2 years.
 
@@ -264,6 +281,8 @@ During this absence you will still be recognized as contributing to the social s
 Team Members in Spain are eligible for 16 weeks of Paternity leave.  The first six weeks must be taken immediately and consecutively after the child’s birth, whereas the other 10 weeks can be taken non-consecutively during the first 12 months of the baby’s life, which can be extended by one week per child in the case of a multiple birth. An extra week’s leave can also be applied for if the baby is born with a disability or health problems. If the baby is premature or has to be hospitalized for longer than seven days, leave can be extended for up to an additional 13 weeks.
 
 This leave must be taken in batches of one week as a minimum, but the weeks can be split over time if desired. The father is also entitled to take unpaid childcare leave until the child is three years old.
+
+Please enter the dates of your leave in PTO by Roots by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.
 
 #### Paternity Leave Payments
 As long as the father has correctly paid his social security contributions—for a minimum of 180 working days within the past seven years or 360 total days in his entire professional life — 100% of his salary will be covered (as long as payment does not exceed 4070.10 EUR). 
@@ -301,9 +320,12 @@ Team members also have the option to select Remotes Safety Wings premium medical
 * Pension and Life Insurance - As part of Remote payroll, mandatory contributions are made towards social security funds. Remote currently does not offer a supplementary pension but will be reviewing this in the upcoming year. The [GitLab Life Insurance plan](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
 
 ### Statutory Leave Policies
+Below is the information related to Italy's statutory leave policies.  Please note that team members hired in Italy are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
 #### Holiday leave
 All full-time workers are legally entitled to a minimum of four week's paid holiday leave a year. In addition, full-time workers have 12 public holidays a year. Individual contracts can provide for a longer period of holiday entitlement and holidays cannot be replaced by a payment in lieu. Amount of holiday leave also depends on the national collective agreement that the employment contract is under.
+
+To ensure all holiday leave is tracked accurately, please enter all holiday leave requests in PTO by Roots by selecting the `Vacation` option.
 
 #### Pregnancy & Maternity leave
 In Italy, maternity leave is compulsory and women must take up to two months off from work before her due date and three months off after the baby's birth. In certain scenarios, women may ask their employers for more time off before the baby's due date if her pregnancy is considered at risk and if her workplace puts her health or her baby's in danger. In some instances, women can request to work up to one month before her due date with the approval of her doctor and employer. However, this means that she will have to take a total of four months off after the birth of her child
@@ -348,9 +370,10 @@ As part of the social security obligations, for its part, the employer pays:
 * Pension plan: [AXA Basisvorsorge AG J25](https://docs.google.com/document/d/1OlFzuWWJQfw5wOEr6hq0yGM4JoNoxjZTzKIFct2FlEQ/edit), per retirement credits
 
 ### Statutory Leave Policies
+Below is the information related to Switzerland's statutory leave policies.  Please note that team members hired in Switzerland are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
 #### Paid Time Off
-Employees 20 years old and above receive at least four weeks of paid time off per year. Employees younger than 20 years old are entitled to five weeks. Employees are also entitled to paid time off for public holidays in the canton in which they live.
+Team members 20 years old and above receive at least four weeks of paid time off per year. Team Members younger than 20 years old are entitled to five weeks. Team members are also entitled to paid time off for public holidays in the canton in which they live.
 
 #### Pregnancy and maternity leave
 Birthing parents in Switzerland are eligible for 14 weeks (98 days) of maternity leave that begins when the child is born.  Team members are prohibited from working for the first 8 weeks after birth.  
@@ -364,7 +387,7 @@ Employees must contribute to AHV (social security) for the nine months preceding
 If eligible, a team member's leave pay will be supplemented the remaining 20% per GitLab's [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). GitLab's Parental leave will run concurrently with any statutory leave and/or pay entitlements the team member is eligible for.
 
 #### Applying for Maternity Leave in Switzerland
-To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).  
+To initiate your maternity leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).  
 
 #### Partner/Paternity leave
 Since 1 January 2021, new fathers can take two weeks of paid paternity leave (14 days’ daily allowance). 
@@ -375,6 +398,8 @@ If eligible, team members can take up to 16 weeks of time away (in total) per Gi
 Paternity allowance amounts to 80% of earnings up to a maximum of CHF 196 per day. Cantonal provisions, personnel regulations, and collective employment contracts may provide for more generous solutions.
 
 If eligible, a team member's leave pay will be supplemented the remaining 20% per GitLab's [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). GitLab's Parental leave will run concurrently with any statutory leave and/or pay entitlements the team member is eligible for.
+
+To initiate your paternity leave, please enter the dates of your leave into PTO by Roots by selecting the `Parental Leave` option at least 30 days prior to the start of your leave.
 
 #### Sick leave
 
@@ -433,7 +458,8 @@ The vacation premium is an additional cash benefit given to employees for use on
 * It can be paid right away when the vacation is taken, or as a lump sum upon completing one year of service (or employment ends). It is the employer’s choice which method to use.
 * Unused leave must also be paid when employment ends (in other words, the employee does not ‘forfeit’ unused vacation time)
 
-### Mexico Parental Leave
+### Mexico Statutory Leave Policies
+Below is the information related to Mexico's statutory leave policies.  Please note that team members hired in Mexico are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
 #### Statutory Leave Entitlement 
 **Maternity Leave:** 
@@ -445,16 +471,16 @@ The vacation premium is an additional cash benefit given to employees for use on
 #### Payroll Process
 ##### Maternity Leave Payment
 * 12 weeks of the team member's Maternity Leave will be paid by the Mexican Social Security Institute (MSSI). 
-* GitLab Parental Leave Pay Calulations: If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay up to 100% minus any MSSI payments received for up to 16 weeks of leave. 
-    - For example: if the team member receives  80% of their pay from MSSI payments, GitLab will provide the reamining 20% of their pay following our normal payroll calendar.
+* GitLab Parental Leave Pay Calulations: If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), pay will be supplemented up to 100% minus any MSSI payments received for up to 16 weeks of leave. 
+    - For example: if the team member receives  80% of their pay from MSSI payments, Remote will provide the reamining 20% of their pay following the normal payroll calendar.
+
 ##### Paternity Leave Payment
-* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), the team member will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), the team member will receive 100% paid Parental Leave from Remote for up to 16 weeks.
 
 #### Applying for Parental Leave in Mexico
 To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 ### Mexico Sick Leave
-
 Team members unable to work because of a nonwork-related injury or illness and who have made payments into the social security system for the four weeks before the condition developed are eligible for paid sick leave through the Social Security Institute. The benefit, which is 60% of an employee’s regular wage, is paid from the fourth day of the illness for up to 52 weeks and maybe extended for another 52 weeks. 
 
 ## Hungary
@@ -475,7 +501,8 @@ GitLab does not plan to offer pension benefit at this time as the Hungarian pens
 
 GitLab does not plan to offer life insurance at this time as team members can access the benefits from [Social insurance system](https://tcs.allamkincstar.gov.hu/) if they get ill, injured or have a disability.
 
-### Hungary Parental Leave
+### Hungary Statutory Leave Policies:
+Below is the information related to Hungary's statutory leave policies.  Please note that team members hired in Hungary are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
 #### Statutory General Entitlement:
 
@@ -497,13 +524,15 @@ Team members can take unpaid leave to care for their child until the child reach
 ##### Maternity Leave Payment
 
 * The team member will receive Pregnancy and Confinement Benefit (CSED) at a rate of 70% of their salary for 24 weeks.
-* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement up to 100% pay (minus any CSED benefits received) for up to 16 weeks. 
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), pay will be supplemented up to 100% pay (minus any CSED benefits received) for up to 16 weeks. 
 
 ##### Paternity Leave Payment
 
-* The team member will receive payment from the Hungarian State Treasury for 5 days of their leave.
-* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the State payments to ensure the team member receives 100% pay for up to 16 weeks. 
+* Teamm members will receive payment from the Hungarian State Treasury for 5 days of their leave.
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), pay will be supplemented up to 100% pay (minus State Treasury benefits) for up to 16 weeks. 
 
+#### Applying for Parental Leave in Hungary
+To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. 
 
 ## Austria
 
@@ -528,6 +557,7 @@ GitLab does not plan to offer life insurance at this time as team members can ac
 The salary will be paid paid 14 times a year. This includes 12 months salary and two bonuses. 
 
 ### Remote Technology - Austria Leave Policy
+Below is the information related to Austria's statutory leave policies.  Please note that team members hired in Austria are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
 ### Austria Parental Leave
 
@@ -536,8 +566,14 @@ The salary will be paid paid 14 times a year. This includes 12 months salary and
 The statutory entitlement for maternity leave (Mutterschaftsurlaub) is 16 weeks. The leave must start **8 weeks prior to the scheduled delivery date**. 
 * For high-risk births, leave after the birth can be extended to 12 weeks. 
 
+#### Applying for Maternity Leave in Austria
+To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. 
+
 ##### Statutory Parental Leave
 
 Mothers and fathers are entitled to parental leave until the child reaches the age of 24 months (maximum), provided the parent in parental leave lives in the same household as the child. The minimum period of the parental leave is two months. The dismissal and termination protection ends four weeks after the end of the parental leave.
 
 During the time of parental leave, and provided the conditions are satisfied, parents are entitled to childcare allowance(Kinderbetreuungsgeld) under the Child Care Payment Act from social security. 
+
+#### Applying for Parental Leave in Austria
+To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. 
