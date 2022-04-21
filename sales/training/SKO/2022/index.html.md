@@ -11,7 +11,7 @@ description: "GitLab Sales Kickoff 2022"
 {:toc .hidden-md .hidden-lg}
 
 # Overview
-GitLab SKO 2022 will take place virtually from March 15-17, 2022. The virtual event will consist of three half-days offered in two time zone options to accommodate our team members around the world. To learn more about the event, see the [Field Team FAQ document](https://docs.google.com/document/d/1OTRQjtWs-8sAnZG_ITQwNn0B2bZ6ed6sqhDEWKlimqE/edit#). 
+GitLab SKO 2022 took place virtually from March 15-17, 2022. The virtual event consisted of three half-days offered in two time zone options to accommodate our team members around the world. To learn more about the event, see the [Field Team FAQ document](https://docs.google.com/document/d/1OTRQjtWs-8sAnZG_ITQwNn0B2bZ6ed6sqhDEWKlimqE/edit#). 
 
 ## SKO 2022 Event Promo Video
 
@@ -19,8 +19,8 @@ GitLab SKO 2022 will take place virtually from March 15-17, 2022. The virtual ev
   <iframe src="https://player.vimeo.com/video/673286284?h=4d4bf9f431&color=fc6d26" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-# Coming Soon 
-Links to videos (all GitLab internal-only) will be added below within 1-2 weeks following our live virtual Sales Kickoff event. Videos can also be found in the [Sales Kickoff 2022 channel in EdCast](https://gitlab.edcast.com/channel/sales-kickoff-sko-2022) (GitLab internal-only).
+# Watch Again
+**All recordings from SKO 2022 can be found [in Highspot](https://gitlab.highspot.com/spots/615dd82071cff4c4b2bcbc32?list=615de3de145718c4b165e083)**. If you do not have Highspot access, you can also find the recordings in the [Sales Kickoff 2022 channel in EdCast](https://gitlab.edcast.com/channel/sales-kickoff-sko-2022) (GitLab internal-only).
 
 # SKO 2022 Day 1 Sessions
 
