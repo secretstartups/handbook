@@ -171,6 +171,20 @@ When a team member is requested for review, it is good practice for them to post
 
 Digital Experience code request reviews should include the [merge request checklist](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Checklist-Basic.md) as referenced on the [reviewing merge requests](/handbook/marketing/inbound-marketing/digital-experience/website/merge-requests/) handbook page. Merge requests involving a URL redirect should also include the [redirect checklist](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Redirect-Checklist.md).
 
+### Production Change Lock (PCL)
+
+Similar to [the engineering department](/handbook/engineering/infrastructure/change-management/#production-change-lock-pcl), we sometimes temporarily halt production changes to [the Buyer Experience repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) when team availability is reduced, or we expect atypical user behavior (such as during high-visibility public events).
+
+Risks of making a production environment change during these periods includes immediate customer impact and/or reduced engineering team availability in case an incident occurs. Therefore, we have introduced a mechanism called Production Change Lock (PCL). We are listing the events here so that teams are aware of the PCL periods.
+
+The following dates are currently scheduled PCLs. Times for the dates below begin at 09:00 UTC and end the next day at 09:00 UTC.
+
+| Dates | Reason |
+| --- | --- |
+| 2022-04-26 to 2022-04-28 | GitLab brand refresh |
+
+During PCL periods, merge requests and deployments can only be made by senior team members, managers, and levels of management above our team.
+
 ### Figma Process
 
 - [How we use Figma](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/figma/)
