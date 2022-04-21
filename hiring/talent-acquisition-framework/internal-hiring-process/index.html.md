@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: "Internal Hiring Process"
+description: "This page discusses the Internal Hiring Process"
+---
+
 ## Internal Hiring Process
 
 ## Team Member Responsibilities
