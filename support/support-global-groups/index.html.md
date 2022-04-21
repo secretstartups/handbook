@@ -44,6 +44,12 @@ as a strong foundation for success as the Support Team continues to scale.
     regions
   - each group has a representative blend of tenure and skill level
   - product expertise is distributed reasonably between the groups
+  - the groups are all named after trees from around the world:
+    - [Baobab](groups/baobab)
+    - [Ginkgo](groups/ginkgo)
+    - [Kapok](groups/kapok)
+    - [Maple](groups/maple)
+    - [Pine](groups/pine)
 
 #### Zendesk
 
