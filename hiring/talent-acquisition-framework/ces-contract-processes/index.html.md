@@ -185,9 +185,6 @@ To change a start date after a **PEO** contract has been signed and the new team
 1. Update BambooHR to reflect the new start date.
    - Sign into Bamboo HR
    - Search of the new team member's name
-   - Click on the Job tab under the name and title
-   - Update the hire date to reflect the adjusted date
-   - Save Changes
    - Click on the Documents tab under the name and title
    - Upload
    - Choose File(s)
