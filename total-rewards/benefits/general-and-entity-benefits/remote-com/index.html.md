@@ -301,11 +301,22 @@ Team members also have the option to select Remotes Safety Wings premium medical
 * Pension and Life Insurance - As part of Remote payroll, mandatory contributions are made towards social security funds. Remote currently does not offer a supplementary pension but will be reviewing this in the upcoming year. The [GitLab Life Insurance plan](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
 
 ### Statutory Leave Policies
+Below is the information related to Italy's statutory leave policies.  Please note that team members hired in Italy are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
 #### Holiday leave
-All full-time workers are legally entitled to a minimum of four week's paid holiday leave a year. In addition, full-time workers have 12 public holidays a year. Individual contracts can provide for a longer period of holiday entitlement and holidays cannot be replaced by a payment in lieu. Amount of holiday leave also depends on the national collective agreement that the employment contract is under.
+All full-time workers are legally entitled to a minimum of four week's paid holiday leave a year. In addition, full-time workers have 12 public holidays a year. Individual contracts can provide for a longer period of holiday entitlement and holidays cannot be replaced by a payment in lieu. Amount of holiday leave also depends on the national collective agreement that the employment contract is under. 
+
+Based on the NCLA applied by Remote ROL every employee has right to:
+32 hours per year of Ex Festività
+0 hours per year of ROL, with seniority < 2 years
+36 hours per year of ROL, with seniority > 2 years, but < 4 years
+72 hours per year of ROL, with seniority > 4 years
+
+When submitting holiday leave via PTO roots team members must add a comment on which type of leave they are taking, EG: "Ex Festiva" this will then be submitted to & processed by Remote accordingly. 
 
 #### Pregnancy & Maternity leave
+Below is the information related to Italy's statutory leave policies.  Please note that team members hired in Italy are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
+
 In Italy, maternity leave is compulsory and women must take up to two months off from work before her due date and three months off after the baby's birth. In certain scenarios, women may ask their employers for more time off before the baby's due date if her pregnancy is considered at risk and if her workplace puts her health or her baby's in danger. In some instances, women can request to work up to one month before her due date with the approval of her doctor and employer. However, this means that she will have to take a total of four months off after the birth of her child
 
 #### Maternity Leave Payments
@@ -317,6 +328,8 @@ If eligible, a team member's first 16 weeks of leave will be supplemented the re
 To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 #### Paternity Leave
+Below is the information related to Italy's statutory leave policies.  Please note that team members hired in Italy are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
+
 Fathers are also obligated to take a seven-day paid leave of absence from work during the five months of maternity leave. The mother has the option to extend the father's paternal leave if she transfers one of her maternity days to him.
 
 If eligible, team members can take up to 16 weeks of time away (in total) per GitLab's [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).  GitLab's Parental leave will run concurrently with any statutory leave and/or pay entitlements the team member is eligible for.
@@ -328,6 +341,8 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 In addition to maternity and paternity leave, parents can take extended unpaid parental leave for up to 10 months. For a mother this can be up to 6 months in addition to the maternity leave.  Parental leave allowance is significantly less than maternity leave allowance; only 30% of one's wages, and is paid through the INPS.
 
 #### Other leave policies
+Below is the information related to Italy's statutory leave policies.  Please note that team members hired in Italy are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
+
 * **Adoption leave:** upon adoption of a child, employees are entitled to 3 months of maternity or paternity leave and employees are entitled to the same financial benefits of natural children. Parents can also take parental leave in the first three years the child is in the family for same periods and financial benefits. Applies to both parents
 
 * **Work-related Injust leave:**  collective bargaining agreements or individual contracts generally provide for a period paid time off in the caseof work injury. The period is generally between 6 and 12 months and applies for both a single period of sick leave and multiple periods. The employee is entitled to keep their job and receive their salary in proportion to the period set out in the collective bargaining agreement or individual employment contract.
