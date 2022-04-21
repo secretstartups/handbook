@@ -13,10 +13,6 @@ title: "Platypus Integrations Wiki"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Platypus Developer Wiki
-
-This is the Platypus developer wiki, if you're looking for more general information about Platypus or the integrations team, head to our [handbook section](/handbook/business-technology/enterprise-applications/integrations).
-
 ## Table of Contents
 
 _Pages that don't have links have not been constructed yet. Know something about Platypus and want to help out? Please submit a page update._
