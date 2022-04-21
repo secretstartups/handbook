@@ -14,7 +14,7 @@ title: "Enterprise Applications Integrations"
 {:toc .hidden-md .hidden-lg}
 
 ## Enterprise Applications Integrations
-##### Quick links
+#### Quick links
 
 1. [Milestone board](https://gitlab.com/groups/gitlab-com/-/boards/1937586){:target="_blank"}
 1. [Integrations Work tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues){:target="_blank"}
@@ -22,6 +22,14 @@ title: "Enterprise Applications Integrations"
 1. [Workato Playbook](./workato-playbook){:target="_blank"}
 1. [Change Management](./change-management){:target="_blank"}
 1. [Platypus Integrations Wiki](./wiki){:target="_blank"}
+
+#### Quick Reference: Integration Docs
+- [Product Qualified Leads](./wiki/integrations-list/product-qualified-leads-integration)
+- [Zuora Revenue to Netsuite](./wiki/integrations-list/zuora-revenue-to-netsuite)
+- [Zuora CICD](./wiki/integrations-list/zuora-ci-cd)
+- [Distributor (Disty) Orders API](./wiki/integrations-list/distributor-api)
+- [Marketing Data Pump field mapping change checklist](./wiki/integrations-list/marketing-data-pump-field-mapping-change-checklist)
+- [Zuora-CI-CD: code changes info](./wiki/integrations-list/zuora-ci-cd-code-changes-info)
 
 ## How we work
 To learn about our processes please visit the [How We Work](./how-we-work) page
