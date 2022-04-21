@@ -54,7 +54,7 @@ Code Units:
 
 ## Landed Addressable Market (LAM)
  
-**Business Process this supports:** [Landed Addressable Market (LAM)](https://internal-handbook.gitlab.io/handbook/sales/LAM/)
+**Business Process this supports:** [Landed Addressable Market (LAM)](https://internal-handbook.gitlab.io/handbook/sales/lam/)
  
 **Overview:** LAM is a measure of how much more expansion or growth we can achieve with the customers we already have. This value is calculated in Salesforce daily based on several inputs.
 
