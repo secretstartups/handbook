@@ -4,85 +4,77 @@ title: "Site Reliability Engineer"
 description: "Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other GitLab production systems running smoothly."
 ---
 
-Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other GitLab production
-systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound
-engineering principles, operational discipline, and mature automation to our environments and the GitLab codebase.
-We specialize in systems, whether it be networking, the Linux kernel, or some more specific interest in scaling,
-algorithms, or distributed systems.
+Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other GitLab production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our operating environments and the GitLab codebase.
 
-GitLab.com is a unique site and it brings unique challenges–it’s the biggest GitLab instance in existence. In fact,
-it’s one of the largest single-tenancy open-source SaaS sites on the internet. The experience of our team feeds back
-into other engineering groups within the company, as well as to GitLab customers running self-managed installations.
+SREs specialize in systems (operating systems, storage subsystems, networking), while implementing best practices for availability, reliability and scalability, with varied interests in algorithms and distributed systems.
+
+GitLab.com is a unique site and brings with it unique challenges: it is the largest GitLab instance in existence (and in fact, one of the largest single-tenancy open-source SaaS sites on the Internet). The team's experience feeds back into other Engineering groups within the company, as well as to GitLab customers running self-managed installations.
 
 ## As an SRE you will:
 
-* Be on a PagerDuty rotation to respond to GitLab.com availability incidents and
-  provide support for service engineers with customer incidents.
+* Be on an on-call (PagerDuty) rotation to respond to incidents that impact GitLab.com availability, and provide support for service engineers with customer incidents.
 * Use your on-call shift to prevent incidents from ever happening.
-* Run our infrastructure with Chef, Terraform and Kubernetes.
-* Make monitoring and alerting alert on symptoms and not on outages.
-* [Document every action](https://gitlab.com/gitlab-com/runbooks) so your findings turn into repeatable actions–and then into automation.
+* Run our infrastructure with Chef, Ansible, Terraform, GitLab CI/CD, and Kubernetes.
+* Build monitoring that alerts on symptoms rather than on outages.
+* [Document every action](https://gitlab.com/gitlab-com/runbooks) so your findings turn into repeatable actions and then into automation.
 * Use the GitLab product to run GitLab.com as a first resort and improve the product as much as possible
-* Improve the deployment process to make it as boring as possible.
-* Design, build and maintain core infrastructure pieces that allow GitLab scaling to support hundred of thousands of concurrent users.
+* Improve operational processes (such as deployments and upgrades) to make them as [boring](https://about.gitlab.com/handbook/values/#boring-solutions) as possible.
+* Design, build and maintain core infrastructure that enables GitLab scaling to support hundreds of thousands of concurrent users.
 * Debug production issues across services and levels of the stack.
 * Plan the growth of GitLab's infrastructure.
 
 ## You may be a fit to this role if you have some of these inclinations:
 
-* Think about systems - edge cases, failure modes, behaviors, specific implementations.
+* Think about systems: edge cases, failure modes, behaviors, specific implementations.
 * Know your way around Linux and the Unix Shell.
-* Know what is the use of config management systems like Chef (the one we use)
-* Have strong programming skills - Ruby and/or Go
+* Know what is the use of configuration management systems like Chef and Ansible.
+* Have strong programming skills: Shell, and Ruby and/or Go.
 * Have an urge to collaborate and communicate asynchronously.
 * Have an urge to document all the things so you don't need to learn the same thing twice.
 * Have an enthusiastic, go-for-it attitude. When you see something broken, you can't help but fix it.
-* Have an urge for delivering quickly and iterating fast.
-* Share our [values](/handbook/values/), and work in accordance with those
-  values.
+* Have an urge for delivering quickly and effectively, and iterating fast.
+* Share our [values](/handbook/values/), and work in accordance with those values.
 * Have experience with Nginx, HAProxy, Docker, Kubernetes, Terraform, or similar technologies
 * Ability to use GitLab
 
 ## Projects you could work on:
 
-* Coding infrastructure automation with [Chef](https://gitlab.com/gitlab-cookbooks/) and Terraform
-* Improving our [Prometheus Monitoring](https://gitlab.com/gitlab-cookbooks/gitlab-prometheus) or building new [Metrics](https://gitlab.com/gitlab-org/gitlab-monitor)
+* Coding infrastructure automation with [Chef](https://gitlab.com/gitlab-cookbooks/), Ansible, Terraform, and GitLab CI/CD
+* Improving our [Prometheus Monitoring](https://gitlab.com/gitlab-cookbooks/gitlab-prometheus) or building new [metrics](https://gitlab.com/gitlab-org/gitlab-monitor)
 * Helping [release managers](/handbook/engineering/#release-managers) deploy and fix new versions of GitLab-EE.
 * Plan, prepare for, and execute the [migration of GitLab.com](/handbook/engineering/infrastructure/production/architecture/#infra-proposed-cloud-native) from virtual machines running on Google Cloud to cloud-native container-based deployments with Kubernetes using Google Kubernetes Engine.
 * Develop a relationship with a [product group](/handbook/product/categories/), define their SLAs, share GitLab.com data on those SLAs and improve their reliability
 
 # Leveling of Site Reliability Engineering at GitLab
 
-## Areas of expertise/contribution for Leveling
+## Areas of expertise/contribution for leveling
 
-### Technical:
-* Use Chef and Ansible to efficiently manage our infrastructure
-* Implement "Infrastructure as Code" using Terraform and GitLab CI/CD for automation
-* Load balancing the application including Proxies and CDN
-* Kubernetes and containerizing our system
-* Administer a high-availability PostgreSQL cluster.
-* Monitoring and Metrics in Prometheus, Grafana and integrations with Slack/PagerDuty
-* Logging infrastructure
-* Backend storage management and scaling
-* Disaster Recovery and High Availability strategy
-* Contributing to code in GitLab
+### Technical
+* Configuration management: use Chef and Ansible to effectively manage our infrastructure
+* Infrastructure as code: use Terraform and GitLab CI/CD for automation, containerize our environments (Kubernetes), and leverage cloud technologies to meet our goals
+* Systems: manage, configure and troubleshoot operating system issues, storage (block and object), networking (VPCs, proxies and CDNs), and administer high-availability PostgreSQL and Redis clusters
+* Monitoring and instrumentation: implement metrics in Prometheus, Grafana, log management and related system, and Slack/PagerDuty integrations
+* Engineering practices: availability, reliability and scalability, as well as disaster recovery
+* Use and contribute to code to GitLab
+* Work in a variety of languages: Shell, Ruby, GoLang, Python
 
-### Execution:
-* Team organization and planning
-* Issue, Epic, OKR leadership and completion
+### Execution
+* Planning: familiary with agile methodolodies; use epics, issues to drive projects
+* Organization: workload organization, OKR leadership
+* Management: a [manager of one](https://about.gitlab.com/handbook/values/#managers-of-one), able to self-organize and report asynchronously 
 
-### Collaboration and Communication:
-* Creating blog posts
-* Completing Root Cause Analysis (RCA) investigations
-* Contributions to handbook, runbooks, general documentation
-* Leading and contributing to designs for issues, epics, okrs
-* Improving team practices in handoffs of work and incidents
+### Collaboration and Communication
+* Leading and contributing to scope and designs for issues, epics, and OKRs
+* Contributing to the [Handbook](https://about.gitlab.com/handbook/), create and update [runbooks](https://gitlab.com/gitlab-com/runbooks) and [general documentation](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs), and write [blog posts](https://about.gitlab.com/blog/categories/engineering/)
+* Completing Root Cause Analysis (RCA) investigations and perform readiness reviews
+* Improving team practices through code reviews, handoffs of work and incidents
 
 ### Influence and Maturity
-* Involvement in hiring process - reviewing questionnaires, involved in interviews, qualifying candidates
-* Knowledge sharing, mentoring
-* Accountability, Self awareness, handling conflict in the team and receiving feedback
+* Involvement in hiring process: contributing and reviewing questionnaires, qualifying candidates, interviewing.
+* Knowledge sharing, mentoring.
+* Self-awareness, handling conflict in the team, and providing and receiving feedback
 * Maintaining good relationships with other engineering teams in GitLab that help improve the product
+* Accountability: willing to proactively step in and do the right thing while providing candid and constructive feedback
 
 ## Levels for Site Reliability Engineer
 
@@ -92,24 +84,40 @@ into other engineering groups within the company, as well as to GitLab customers
 
 The Site Reliability Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-Technical:
-1. General knowledge of 4 of the areas of technical expertise with deep knowledge in 1 area
-1. Working knowledge of GitLab Product, including deeper knowledge of groups which may be part of stable counterpart assignments
+##### Technical
 
-Execution:
+1. General knowledge of 4 technical expertise areas, with deep knowledge in 1 area
+   1. Chef (basic syntax, recipes, cookbooks) and Ansible (basic syntax, tasks, playbooks)
+   1. Terraform basic syntax and GitLab CI/CD configuration, pipelines, jobs
+   1. Cloud resources provisioning and configuration through CLI/API
+   1. Kubernetes basic understanding, CLI, service re-provisioning
+   1. Provisiong and setup metric in Prometheus, Thanos, and Graphana, alerts and silences
+   1. Provision and setup logs and queries for general questions
+   1. Operating system (Linux) configuration, package management, startup and troubleshooting
+   1. Block and object storage configuration
+   1. Netwotking VPCs, proxies and CDNs
+
+1. Working knowledge of GitLab product, including deeper knowledge in areas of [stages and groups](https://about.gitlab.com/handbook/product/categories/#hierarchy) which may be part of stable counterpart assignments
+
+##### Execution
+
 1. Provides emergency response either by being on-call or by reacting to symptoms according to monitoring and escalation when needed
-1. Proposes ideas and solutions within the infrastructure team to reduce the workload by automation.
-1. Plan, design and execute solutions within infrastructure team to reach specific goals agreed within the team.
-1. Plan and execute configuration change operations both at the application and the infrastructure level.
+1. Proposes ideas and solutions within the Infrastructure Department to reduce the workload through automation.
+1. Plan, design and execute solutions within Infrastructure Department to reach specific goals agreed within the team.
+1. Plan and execute configuration change operations both at the application and the infrastructure levels.
 1. Actively looks for opportunities to improve the availability and performance of the system by applying the learnings from monitoring and observation
 
-Collaboration and Communication:
-1. Improves documentation all around, either in application documentation, or in runbooks, explaining the why, not stopping with the what.
-1. For stable counterpart assignments, act as a reliability champion.
+##### Collaboration and Communication
 
-Influence and Maturity
-1. Shares the learnings publicly, either by creating issues that provide context for anyone to understand it or by writing blog posts.
+1. Self-organize through issues and epics
+1. Improves documentation all around, either in application documentation, or in runbooks, explaining the why, not stopping with the what.
+1. Root cause analysis and corrective actions
+
+##### Influence and Maturity
+
+1. Shares the learnings publicly through issues, runbooks, documentation and blog posts.
 1. Contributes to the hiring process in review questionnaires or being part of the interview team to qualify SRE candidates
+1. For stable counterpart assignments, act as a reliability champion.
 
 ### Senior Site Reliability Engineer
 
@@ -117,27 +125,41 @@ Influence and Maturity
 
 The Senior Site Reliability Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-Are experienced Site Reliability Engineers who meet the following criteria
+Are Site Reliability Engineers who meet the following criteria:
 
-Technical:
-1. Deep knowledge in 2 areas of expertise and general knowledge of all areas of expertise. Capable of mentoring Interns and Intermediate SREs in all areas and other SRE in their area of deep knowledge.
-1. Working knowledge of GitLab Product, including deep knowledge of groups which may be part of stable counterpart assignments.
+##### Technical
+
+1. General knowledge of most technical expertise areas, with deep knowledge in 2.
+   1. Advanced Chef (syntax, recipes, cookbooks) and Ansible (syntax, tasks, playbooks)
+   1. Advanced Terraform syntax and GitLab CI/CD configuration, pipelines, jobs
+   1. Advanced knowledge of cloud services
+   1. Kubernetes: cluster provisioning and new services
+   1. Prometheus, Thanos, and Graphana: service catalog metrics and recording rules for alerts
+   1. Log shipping pipelines and incident debugging visualizations
+   1. Operating system (Linux) configuration, package management, startup and troubleshooting
+   1. Block and object storage configuration and debugging
+
+1. Working knowledge of overall GitLab Product, including deep knowledge of groups which may be part of stable counterpart assignments.
 1. Contributes improvements to the GitLab codebase to resolve issues.
 
-Execution:
-1. Identifies significant projects that result in substantial cost savings or revenue.
-1. Identifies changes for the product architecture from the reliability, performance and availability perspective with a data driven approach.
+##### Execution
+
+1. Identifies significant projects that result in substantial improvements in reliability, cost savings and/or revenue.
+1. Identifies changes for the product architecture from the reliability, performance and availability perspectives with a data driven approach.
 1. Influences the product roadmap and works with engineering and product counterparts to influence improved resiliency and reliability of the Gitlab product.
 1. Proactively work on the efficiency and capacity planning to set clear requirements and reduce the system resources usage to make GitLab cheaper to run for all our customers.
 1. Identify parts of the system that do not scale, provides immediate palliative measures and drives long term resolution of these incidents.
 1. Identify Service Level Indicators (SLIs) that will align the team to meet the availability and latency objectives.
 
-Collaboration and Communication:
-1. Know a domain really well and radiate that knowledge through recorded demos, discussions in [DNA](/handbook/engineering/infrastructure/#design-and-automation-dna) meetings, or [Incident Reviews](/handbook/engineering/infrastructure/incident-review/).
+##### Collaboration and Communication:
+
+1. Leads initiatives and problem definition and scoping, design, and planning through epics and blueprints.
+1. Deep domain knowledge and radiation that knowledge through recorded demos, technical presentations, discussions, and [Incident Reviews](/handbook/engineering/infrastructure/incident-review/).
 1. Perform and run blameless RCAs on incidents and outages aggressively looking for answers that will prevent the incident from ever happening again.
 1. For stable counterpart assignments, maintain awareness and actively influence stage group plans and priorities through participation in stage group meetings and async discussions. Act as a champion for reliability.
 
-Influence and Maturity:
+##### Influence and Maturity:
+
 1. Set an example for team of SREs with positive and inclusive leadership and discussion on work.
 1. Show ownership of a major part of the infrastructure.
 1. Trusted to de-escalate conflicts inside the team.
@@ -150,25 +172,29 @@ The Staff Site Reliability Engineer is a [grade 8](/handbook/total-rewards/compe
 
 Are Senior Production SREs who meet the following criteria:
 
-Technical:
+##### Technical
+
 1. Able to create innovative solutions that push GitLab's technical abilities ahead of the curve
 1. Deep knowledge of GitLab and 4 areas of expertise. Knowledge of each area of expertise enough to mentor and guide other team members in those areas.
 1. Contributes to GitLab codebase to resolve issues and add new functionality
 1. Collaborates with stable counterpart teams to contribute to future architecture and influence roadmap.
 
-Execution:
+##### Execution
+
 1. Strives for automation either by coding it or by leading and influencing developers to build systems that are easy to run in production.
 1. Measure the risk of introduced features to plan ahead and improve the infrastructure.
 1. Proposes and drives architectural changes that affect the whole company to solve scaling and performance problems.
 1. Directly participates in contributing to and influencing the future direction of stable counterpart groups towards a more resilient and reliable GitLab product.
 1. Lead significant project work for OKR level team goals.
 
-Communication and Collaboration:
+##### Communication and Collaboration
+
 1. Works with engineers across the whole company influencing design to create features that will work well with SaaS and self hosted platforms.
 1. Runs RCAs and epic level planning meetings to get meaningful work scheduled into the plan.
 1. Lead the organization in identifying trends, drawing conclusion from problems we face, and establishing the actions needed to resolve these issues within forums such as engineering allocations.
 
-Influence and Maturity:
+##### Influence and Maturity
+
 1. Writes in-depth documentation that shares knowledge and radiates GitLab technical strengths
 1. Has a high level of self awareness
 1. Trusted to de-escalate conflicts inside and outside the team
@@ -221,7 +247,7 @@ SRE's with Environment Automation specialization primarily focus on provisioning
 Further career progression is available as a Principle Engineer, [Distinguished Engineer](https://about.gitlab.com/job-families/engineering/distinguished-engineer/#infrastructure) and then an [Engineering Fellow](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-fellow/).
 
 Individual Contributors in SRE roles can also move to roles in the [Engineering Management - Infrastructure](/job-families/engineering/infrastructure/engineering-management/) job family.
-  
+
 
 ## Performance Indicators
 
