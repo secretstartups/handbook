@@ -21,23 +21,22 @@
 1. Support [results](https://about.gitlab.com/handbook/values/#results) by building our clients' confidence in Gitlab's ability to quickly resolve and communicate incidents when they occur
 1. Align Incident Management activities and priorities with those of the business
 1. Prepare materials for the creation of training modules for the Engineer Department on the Incident Management Process at Gitlab
-
- 
-
+1. Highlight dogfooding opportunities
 
 ## Exit Criteria
 
 1. Single source of truth documenting incident response management that will be applicable to all areas of Engineering and teams who provide Incident Response 
-  * Each functional area of Engineering will develop their own Incident management requirements for identifying and reacting to service outages or security threats.
-  
-2. Create comprehensive knowledge base for Gitlab team members to help them understand how incident response teams implement the IR  process
-
+   * Each functional area of Engineering will develop their own Incident management requirements for identifying and reacting to service outages or security threats.
+2. Create a comprehensive knowledge base for Gitlab team members to help them understand how incident response teams implement the IR process
 
 ## Outcome
 
-
+1. Help teams across GitLab lower MTTR
 
 ## Other Investigations
+
+1. Improvements in feedback and learnings from Incident to build resiliance
+1. Service Catalog
 
 ### What do other companies do?
 
