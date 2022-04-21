@@ -66,4 +66,4 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Member                | Kyle Wiebers                                         | Engineering Manager, Engineering Productivity |
 | Member                | John Hope                                            | Engineering Manager, Plan:Product Planning & Certify |
 | Member                | Matt Wilson                                          | Senior Product Manager, Secure |
-
+| Member                | Neil McCorrison                                      | Frontend Engineering Manager, Secure |
