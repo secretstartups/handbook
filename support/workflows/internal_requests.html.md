@@ -95,18 +95,19 @@ See [internal wiki page](https://gitlab.com/gitlab-com/support/internal-requests
 
 ## GitLab.com Console Escalation
 
-This is a generic template used to request an engineer with GitLab.com console access to take action.
+This is a [generic template](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/GitLab.com%20Console%20Escalation.md) used to request an engineer with GitLab.com console access to take action.
 
 Common issues include the following when the UI and API methods are not working:
 
-- Deletion of projects, groups, cluster integrations, container registries, etc.
+- Deletion of projects, groups, cluster integrations, container registry images, etc.
 - Deletion of uploads or attachments containing sensitive information, until [gitlab#16229](https://gitlab.com/gitlab-org/gitlab/-/issues/16229) (or similar) is implemented.
-- User account changes
-- Group namespace changes
-- Project export
+- User account confirmation retrigger
+- [Project export](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/GitLab.com%20Console%20Export%20Request.md)
+
+Rarely, console escalations will also be used to workaround lack of a feature where Support can complete actions that would be highly inconvenient to customers, such as batch updating SAML identities until [gitlab#227841](https://gitlab.com/gitlab-org/gitlab/-/issues/227841) is implemented.
 
 Console escalation requests can also serve a purpose when further information (unavailable through the UI or API) is needed to understand the root cause of a problem. This may be because we are not sufficiently logging in Kibana/Sentry, we're unable to replicate an issue, or the creation of an issue may not be the appropriate action needed to resolve a customer problem. Collaborate with console enabled engineers and product teams to solve these types of problems.
 
 Engineers with console access should search for similar previous requests, look for the relevant function in the code, or work with another engineer to resolve each request. Common or custom functions can be found in the [support runbooks](https://gitlab.com/gitlab-com/support/runbooks/).
 
-Any request requiring disk access requires an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues).
+Any request requiring disk access, which cannot be done via rails console, requires an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues).
