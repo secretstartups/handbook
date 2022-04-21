@@ -221,7 +221,8 @@ You can find the Home Tab by visiting `Apps` in the menu bar within Slack, and s
 
 -It should be noted that the sync between PTO by Roots and BambooHR will only take place after an PTO event has taken place. BambooHR cannot see scheduled/future PTO events.  
 
-* The **Vacation** OOO type in PTO by Roots syncs to **Employee Accruals** in the team member's Time Off tab in BambooHR.
+* The **Vacation** OOO type in PTO by Roots syncs to **Employee Accruals** in the team member's Time Off tab in BambooHR. 
+* The **Public Service / Volunteer** OOO type in PTO by Roots syncs to **Employee Accruals** in the team member's Time Off tab in BambooHR. 
 * The **Out Sick** OOO type in PTO by Roots syncs to **Sick Time** in the team member's Time Off tab in BambooHR.
 * The **Parental Leave** OOO type in PTO by Roots syncs to **Parental Leave** in the team member's Time Off tab in BambooHR.
 * The **Public Holiday**, **Bereavement**, **Mandatory Civilian Service**, and **Family and Friends Day** OOO types in PTO by Roots **do not sync** to BambooHR.
