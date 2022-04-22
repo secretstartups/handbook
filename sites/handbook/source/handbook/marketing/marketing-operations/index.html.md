@@ -104,8 +104,6 @@ If an emergency communication needs to be send out, Marketing Ops will need to a
 
 ## <i class="fas fa-tasks" id="biz-tech-icons"></i> How We Work
 
-**Our Motto:** _If it isn't an Issue, it isn't OUR issue!_
-
 <div class="flex-row" markdown="0">
   <div>
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Operations project</a>
@@ -114,28 +112,22 @@ If an emergency communication needs to be send out, Marketing Ops will need to a
 
 ### Issue Boards
 
-1. [MktgOps Priority (issues by priority)](https://gitlab.com/groups/gitlab-com/-/boards/2626681)
-1. [MktgOps Status (issues by status)](https://gitlab.com/groups/gitlab-com/-/boards/2629676)
 1. [MktgOps Team (issues by team member)](https://gitlab.com/groups/gitlab-com/-/boards/2629685)
 
 ### Issues
 
-The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to your business partner to see if there is already a related issue that you can add your comments to. If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
+The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue or for small checks and questions, use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to your business partner to see if there is already a related issue that you can add your comments to. If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
 
 With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies. 
 
 Please do not reopen issues that have been closed in a previous milestone. If you find that you have additional questions about a closed issue, comment in the issue and ping the marketing ops DRI who worked the issue. The DRI within our team will determine whether an issue needs to be reopened and pulled into a current milestone. 
 
-### Weights
-
-To help prioritize issues and scope work in our milestones, we've adopted GitLab [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html#issue-weight) to our issues. By adding a weight to our issues, our team will have a better idea of how much time, value or complexity a given issue has or costs. For the numbering formula, we are using the traditional Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21. Anything marked `21` or above may be promoted to an epic. 
+. 
 
 ### OKRs
-To track progress on and provide visibility to team OKRs each quarter, Marketing Operations creates a [parent epic](https://gitlab.com/groups/gitlab-com/-/epics/1597) to organize our team-wide work. Issues added to an OKR-related epic utilize [health statuses](#health-status). We use [OKR Labels](/handbook/marketing/marketing-operations/#labeling) to help organize issues.
+To track progress on and provide visibility to team OKRs each quarter, Marketing Operations creates a [parent epic](https://gitlab.com/groups/gitlab-com/-/epics/1597) to organize our team-wide work. We use [OKR Labels](/handbook/marketing/marketing-operations/#labeling) to help organize issues.
 
-### Health Status
 
-To indicate status of issues related to [OKRs](https://about.gitlab.com/company/okrs/), we've adopted [GitLab health status](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#health-status). By adding health status to issues tied to OKRs, you can quickly see whether an OKR-related epic is on track to complete within a quarter based on the health status of the issues tied to it.
 
 ### Epics
 
@@ -157,9 +149,10 @@ Categories
 
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
-- `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Terminus`, `ZoomInfo`, `Smartling`, `Vimeo`, `OneTrust`, `Typeform`, `iconik`, `Backblaze`: used to highlight one of our tech stack tools
+- `Marketo`, `Bizible`, `Demandbase`, `Drift`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`,  `ZoomInfo`, `Smartling`, `OneTrust`, `On24`: used to highlight one of our tech stack tools
 - `MktgOps - bug`: A bug issue to be addressed or identified by MktgOps
 - `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
+- `MktgOps-Support`: Internal label used by MktgOps team to track non-issue work and support
 - `MktgOps-Future Feature`: Something to consider for a future project as time allows. Timeframe: As time allows
 
 </details>
@@ -169,40 +162,27 @@ Categories
 Priorities
 </summary>
 
-- `MktgOps-Priority::Top Priority`: Issue that is related to a breaking change, OKR focus, any other prioritized project by MktgOps leadership. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
-- `MktgOps-Priority:: High Priority`: Issue has a specific action item for MktgOps to be completed as it is an OKR. Timeframe: Within weeks
-- `MktgOps-Priority::Med Priority`: Issue is a feature to help the team. Timeframe: Within months
-- `MktgOps-Priority::Low Priority`: Issue has a specific action item for MktgOps that would be helpful, but can be pushed for other issues. Timeframe: Within months.
+- `MktgOpsPriority::High`: Issue that is related to a breaking change, OKR focus, any other prioritized project by MktgOps leadership. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
+- `MktgOpsPriority::Medium`: Issue has a specific action item for MktgOps to be completed as it is an OKR. Timeframe: Within weeks
+- `MktgOpsPriority::Low`: Issue is a feature to help the team or a specific action item for MktgOps that would be helpful, but can be pushed for other issues.Timeframe: Within months
 
 </details>
 
-<details>
-<summary markdown='span'>
-Urgency
-</summary>
-
-- `MktgOps-Urgency::P0`: System down, core business function down, or potential loss of mission critical data. Timeframe: Immediate action needed. Pull into active milestone.
-- `MktgOps-Urgency::P1`: Major feature or workflow is not working. Timeframe: Action within days. Pull into active milestone.
-- `MktgOps-Urgency::P2`: Requires attention, but normal workflow is not impacted or there is a workaround. Timeframe: Action within next milestone.
-- `MktgOps-Urgency::P3`: Requires attention, but normal workflow is not impacted. Minor, low urgency. Timeframe: Future action needed, not priority or urgent.
-- `MktgOps-Urgency::P4`: Small bug, nice to have fixed, but not impacting workflow. Timeframe: Future action needed, not priority or urgent.
-
-</details>
 
 <details>
 <summary markdown='span'>
 Stage
 </summary>
 
-- `MktgOps::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps (except for List Uploads); no real discussion on the issue; generally unassigned
-- `MktgOps::1 - Planning`: Issues assigned to a MktgOps team member and are currently being planned but are not being actively worked on yet.
-- `MktgOps::2 - Scoping`: Marketing Operations related issues that are currently being scoped and weighted
-- `MktgOps::3 - On Deck`: Issues that have been scoped and will be added to an upcoming milestone.
-- `MktgOps::4 - In Process`: Issues that are actively being worked on in the current two-week milestone.
-- `MktgOps::5 - UAT`: Issues that MktgOps has completed its required tasks for and is ready for User Acceptance Testing/review and approval by the Requester/Approver.
-- `MktgOps::6 - On Hold`: Issue that is not within existing scope of MktgOps current focus, or another department as deprioritized. May be a precursor to being closed out. May also be on hold waiting for an internal team member or other task before completing. 
-- `MktgOps::7 - Blocked`: Issue is blocked and no other actions can be taken by MktgOps. Waiting for someone else/another team to complete an action item before being able to proceed. May also be blocked due to external party such as a vendor to complete an action before closing.
-- `MktgOps::8 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed.
+- `MktgOps::00: Triage`: General label for any issue that needs MktgOps attention, request for work and/or involvement
+- `MktgOps::01: Needs More Information`: Issues awaiting for information from the requester, needs more clarity in requirements, no milestone, and not assigned to MktgOps team member yet
+- `MktgOps::02: Ready for Assignment `: Issues that are acknowledged (in review), gathering requirements, no milestone, and not assigned to MktgOps team membe
+- `MktgOps::03: Assigned`: Issues that are ready to move forward, slotted to a milestone (not current), and assigned to MktgOps team member's queue
+- `MktgOps::04: In Progress`: Issues that are in the current milestone, assigned to MktgOps team member, and are actively being worked
+- `MktgOps::05: Business Owner Review`: Issues in current milestone that are near the finish line, needs to be reviewed and demoed to the business owner(s) to sign-off
+- `MktgOps::06: Ready to Deploy`: Issues in current milestones, sign-off(s) given by business owner, ready to be deployed by MktgOps team member
+- `MktgOps::07: Blocked`: Issue is blocked and no other actions can be taken by MktgOps. Waiting for someone else/another team to complete an action item before being able to proceed. May also be blocked due to external party such as a vendor to complete an action before closing.
+- `MktgOps::08: Completed`: MktgOps has completed their task on this issue although the issue may not be closed.
 
 </details>
 
@@ -296,7 +276,6 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - [Bizzabo](/handbook/marketing/marketing-operations/bizzabo)
 - [Backblaze](/handbook/marketing/marketing-operations/backblaze)
 - Disqus
-- Eventbrite
 - Figma
 - Frame.io
 - Google Adwords
@@ -305,11 +284,11 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - Google Tag Manager
 - Hotjar
 - [iconik](/handbook/marketing/marketing-operations/iconik)
-- Keyhole
 - LaunchDarkly
 - [LogRocket](/handbook/marketing/marketing-operations/logrocket)
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - [OneTrust](/handbook/marketing/marketing-operations/onetrust)
+- [On24](/handbook/marketing/marketing-operations/on24)
 - [Rev](/handbook/marketing/marketing-operations/rev)
 - SEMrush
 - Sitebulb
@@ -344,6 +323,7 @@ For budgetary reasons, Marketing Operations will be performing quarterly, and fo
   - ZoomInfo
   - Linkedin Sales Navigator
   - PathFactory
+  - On24
 - Tools included under the bi-quaterly guidelines, Q1 and Q3
   - Terminus (formerly Sigstr)
   - Drift
@@ -381,7 +361,7 @@ Invoices submitted to Coupa will be routed for approval. Details regarding this 
 
 ## Lead Scoring, Lead Lifecycle, and MQL Criteria
 
-A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 100 points accumulated, based on demographic/firmographic and/or behavioral information. The `Person Score` is comprised of various actions and/or profile data that are weighted with positive or negative point values. `Person Score` is one of the indicators used by LeanData to determine whether a lead needs to be assigned. Details about this process can be found on the [LeanData page](https://about.gitlab.com/handbook/marketing/marketing-operations/leandata/#lead-routing-workflow). You can find more details about the scoring model on the [Marketo Page](/handbook/marketing/marketing-operations/marketo/#scoring-model)
+A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 100 points accumulated, based on demographic/firmographic and/or behavioral information. The `Person Score` is comprised of various actions and/or profile data that are weighted with positive or negative point values. You can find more details about the scoring model on the [Marketo Page](/handbook/marketing/marketing-operations/marketo/#scoring-model)
 
 ## Campaigns and Programs
 

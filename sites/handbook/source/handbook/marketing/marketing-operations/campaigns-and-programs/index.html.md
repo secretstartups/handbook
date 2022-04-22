@@ -359,8 +359,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 
 ##### Hybrid Marketo Templates
 
-- Conference - `Hybrid template`: [YYYYMMDD_Conference_EventType_Template](https://app-ab13.marketo.com/#ME5100A1)
-- Conference Speaking Session - `Hybrid template`: [YYYYMMDD_SpeakingSession_EventType_No Registration_Template](https://app-ab13.marketo.com/#ME5092A1)
+
 - Executive Roundtables - `Hybrid template`: [YYYYMMDD_ExecutiveRoundtable_Topic_Region_EventType_template](https://app-ab13.marketo.com/#ME6028A1)
 - Owned Event - `Hybrid template`: [YYYYMMDD_OwnedEvent_EventType_Template](https://app-ab13.marketo.com/#ME4722A1)
     - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector).
@@ -374,7 +373,8 @@ If this is to set up a program that involves a channel partner, you must also fo
    - Jenkins [YYYYMMDD_VirtualWorkshop_Jenkins_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1) 
 
 ##### Other Tactic Marketo Templates
-
+- Conference - `Virtual`: [YYYYMMDD_Conference_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5100A1)
+- Conference - `In person`: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-in-person-conferences)
 - Content Syndicaton: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
 - Direct Mail: [YYYYMMDD_DirectMail_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5392A1)
     - Direct Mail not needing a Marketo Program: [skip to specific setup detais here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-direct-mail-campaigns)
@@ -482,6 +482,52 @@ Using an integration from Allocadia > Marketo, Marketo > SFDC, the information y
 Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - `Budgeted Cost` in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign. The initial Plan Cost in the campaign needs 1 night to synch. The campaign meta data is a one time synch, where as the Actual Cost in Campaign (which is run off of the Campaign Tag to be Created field in Allocadia), synchs every nightly. **Please Note:** `Budgeted Cost` in SFDC pulls from your plan number, not your forecast number from Allocadia. If you do not have a plan cost in Allocadia then `Budgeted Cost` in SFDC will remain blank. If this is the case, you will want to add in your `Budgeted Cost` manually into your SFDC campaign. If cost is $0 list `$1` in the `Budgeted Cost` field. There needs to be at least a $1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
+
+## Steps to Setup in-person Conferences
+
+### Step 1: [Clone this program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5100A1)
+
+- Use format `YYYYMMDD_Conference_EventType`
+
+### Step 2: Sync to Salesforce
+
+- At the program main screen in Marketo, where it says `Salesforce Sync` with "not set", click on "not set"
+    - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
+    - If you are a user of Allocadia, you will need to add the Allocadia ID sub-category ID to the `Description` field. 
+    - Click "Save"
+
+### Step 3: Update Marketo tokens
+
+- Update all tokens as they feed the email and interesting moments
+   - You do not need to update `Request` tokens if there are no meetings being set up for the conference
+
+### Step 4: Activate Marketo smart campaign
+- `00 Send Sales-Driven Invite` can be turned on and scheduled to send on a reoccuring basis if sales and XDRs are going to be inviting people to the conference. Sales will add someone to the campaign in SFDC, and that person will be added to the email send invite. There is a separate email for sales invites listed in the `email` folder
+- `01 Processing` smart campaign triggers when people are uploaded to lists after the conference. You can keep this off, but must be turned on during list upload.
+- `02 Add as Marketing Invited` should only be used if XDRs are planning to follow up and drive attendance to the event. This should be scheduled AFTER the first email invite is scheduled to send. It will update everyone who had the email invite sent to them as `Marketing Invited`. They will be updated in the campaign and visible in SFDC. **Do not use this unless there is planned event drivers**
+- `03 Interesting Moments` should be turned on before any lists are uploaded.
+- In the `01 Downloaded` smart campaign, the "Smart List" should be listening for `Added to List > Vendor List`. This list is under the Asset folder in the program. It will contain all of the members that were uploaded who downloaded the content.
+
+### Step 4a. Meeting Request Processing
+These steps are not yet configured. If you are planning to do this for your next event, please create an issue with the Marketing Operations team.
+
+### Step 5: Update the Salesforce campaign
+
+- Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
+    - Change the `Campaign Owner` to your name
+    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
+    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
+    - Update the event epic
+    - Update the description
+    - Update `Start Date` to the date of launch
+    - Update `End Date`
+    - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
+    - Update `Region` and `Subregion` if you have the data available
+    - Click Save
+- Add the Marketo program link and SFDC campaign link to the epic.
+- If the program is being ran by Digital Marketing, add the SFDC campaign under the parent campaign `Demand Gen Pulishers/Sponsorships`  
+
+**If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign---using-allocadia).**  
 
 ## Steps to Setup Content Syndication in Marketo and SFDC
 
@@ -618,17 +664,16 @@ Follow all of the set up steps [above](/handbook/marketing/marketing-operations/
    - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
    - When token is updated, you can turn on. No changes are necessary for the Flow.
    - Do not turn on if you are not utilizing HopIn registration pages
-1. `01b. Push Registrants to HopIn from Marketo` is used if you are utilizng a Marketo landing page to capture registration for the HopIn Event. Do not turn on if you are **only** utilizing HopIn registration pages
-     - Before you start with the smart campaign, you need to make sure you update the copy for the registration confirmation email named `Hopin - Confirm`. First, update all tokens on the program and then fill in the missing pieces of the email itself. The button needs to contain the Magic Link, do not change this.
-     - Next, you need to update the program token of `Ticket Integration Code` this field is already on the form, but must be updated to match the specific code in HopIn.
-        - Find your Ticket Integration Code in Hopin by selecting an event, and going to the Tickets page of your event dashboard. There will be a code for each of the ticket types you have. Keep this handy for the next step.
+1. `01b. Push Registrants from Marketo to Hopin` is used if you are utilizng a Marketo form to capture registration for the HopIn Event. Do not turn on if you are **only** utilizing HopIn registration pages
+     - Before you start with the smart campaign, you need to make sure you update the copy for the registration confirmation email named `Hopin - Confirm`. First, update all tokens on the program and then fill in the missing pieces of the email itself. You'll need to add `{{member.hopin join link}}`` as the CTA to the email. That will contain the link specific to each person to join the event.
+     - Next, you need to update the program token of `Ticket Integration Code` this field is already on the form, but must be updated to match the specific ticket code in HopIn.
+        - Find your Ticket Integration Code in Hopin by selecting an event, and going to the Tickets page of your event dashboard. Copy the URL of the ticket name you want to use, and strip out everything but the number at the end.
      - If you are only registering for a single ticket, all you need to do is update the token, but if you have multiple ticket options, you will need to create a select dropdown in the form that holds the Integration Codes as stored values - ([ask Mops to do this for you](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#form_request)).
     - No changes are necessary for the campaign flow. The flow will request a Webhook, which will push the registrant into HopIn, as well as send registrant a registration confirmation email. 
     - The landing page template is already set up to have this form.
-    - Before you turn on, make sure you have updated tokens in the email `Hopin - Confirm`, as this will automatically send the `Magic Link` for the registrant to confirm their registration.
+    - Before you turn on, make sure you have updated tokens in the email `Hopin - Confirm`, as this will automatically send the `Magic Link / Join Link` for the registrant to confirm their registration.
         - The magic link is automatically created by the webhook, do not update that field.
     - Turn on `01b. Push Registrants to HopIn from Marketo`. Then test by registering on that landing page. After 2 minutes, you will recieve an email asking to confirm your registration, click the link and follow prompts on the HopIn page. Once confirmed, you will receive an email from HopIn saying it was successful. You can also look into the `attendees` section in HopIn and make sure your test is there too - once you see it, you can `remove` your test lead from the list and go live with the landing page.
-    - Check Registration error smartlist periodically to catch anyone being created incorrectly (see sectioin below)
 1. `02 Attended Hopin` is used to track attendees of the event - it will not track individual sessions, only overall attendance.
    - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. In the Smartlist, Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
    - When token is updated, you can turn on. No changes are necessary for the Flow.
@@ -657,6 +702,18 @@ We have listeners set up in Marketo listening certain parameters. Please check t
 | AWS	                                   | awspartner                      ||
 | PubSec                                   | amer-pubsec                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG7588A1)|
 | DevOps GTM                               | devopsgtm                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8342A1)|
+
+
+If this form is in a different language, make sure that the Linkedin Form has that language in the form name (as spelled below). We currently support:
+- Japanese
+- Italian
+- French
+- Spanish
+- Korean
+- German
+- Portuguese
+
+When someone fills out these forms, they will be automatically added to the [Language Segmentation](/handbook/marketing/marketing-operations/marketo/#segmentations) allowing them to receive messages in their local language.
 
 
 ### Step 1: [Clone this Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6911A1)
@@ -693,7 +750,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
    - Available parameters are [listed above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only), or create new if not listed.
 - Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the campaign Flow
 - Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
-- All linkedin programs with your form prefix will now flow through this campaign
+- All Linkedin programs with your form prefix will now flow through this campaign
 
 ### Step 5: Update this Handbook page
 - Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a `yes` and a link to the parameter and campaign you have set up.

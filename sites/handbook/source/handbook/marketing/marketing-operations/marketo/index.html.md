@@ -127,6 +127,13 @@ dataLayer.push(
   {}, 'eventTimeout' : 3000
 });
 ```
+### Product data in Marketo
+
+Data and engineering teams have developed integrations to bring data related to in-product customer and trial usage to Marketo. 
+
+1. [Marketing Contact Datamart & Pump](https://internal-handbook.gitlab.io/marketing-operations/product-data/#marketing-datamart-pump-and-pql-information-email-marketing-data-mart)
+
+2. [SaaS Trial & Handshakes](https://internal-handbook.gitlab.io/marketing-operations/product-data/#saas-trials--handraise) 
 
 ### Campaign Limits
 
