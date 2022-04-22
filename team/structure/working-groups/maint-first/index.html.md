@@ -28,7 +28,7 @@ The engineering allocation process often addresses maintenance work retroactivel
 
 As a result of this, it is critical that we create a healthier balance of work by type (features, maintenance items, bugs) delivered across R&D, improve transparency for R&D and GTM stakeholders, and be prepared to respond quickly to changing needs.
 
-In order to do so, we will transition R&D teams quickly to a new prioritization model driven by backlog types, automated SLO guidelines, and balanced prioritization ratios.  We should expect maintenance to be high in this new model until we reach steady state, as all teans work to complete remaining engineering allocations while they also complete their burn-down of their current reliability and security debt backlog.
+In order to do so, we will transition R&D teams quickly to a new prioritization model driven by backlog types, automated SLO guidelines, and balanced prioritization ratios.  We should expect maintenance to be high in this new model until we reach steady-state, as all teams work to complete remaining engineering allocations while they also complete their burn-down of their current reliability and security debt backlog.
 
 Benefits include:
 
