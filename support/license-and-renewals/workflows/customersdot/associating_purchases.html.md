@@ -13,7 +13,10 @@ Sometimes a customer may ask that a colleague be given the ability to manage a
 subscription. This can be accomplished provided they also have a CustomersDot
 account.
 
-**Add subscription management contact workflow**
+This process would also apply for requests to send a license to a different email
+than the one used on the purchasing account.
+
+## Add subscription management contact workflow
 
 Before we add subscription management contact, we need **one** of the following, once the above requirements have been met:
 
@@ -31,7 +34,7 @@ Once we have received one of the above, we can proceed to change/add a subscript
 1. Locate the proper accounts in the CustomersDot and navigate to the `Edit` page
 1. Copy the `Zuora ID` and `Salesforce Account ID` from the existing account to the new account and select `Save`
 
-**Contact Change Workflow**
+## Contact Change Workflow
 
 If the customer requests to change a contact, we should ask for the same subscription information as mentioned in the **Add subscription management contact workflow** above. Then confirm with the customer which of the cases below matches their goal:
 
