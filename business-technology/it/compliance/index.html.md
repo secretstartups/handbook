@@ -12,7 +12,7 @@ description: "This handbook page provides information about how the IT Complianc
 
 ## Overview
 
-This is a placeholder for the next iteration of the IT Compliance team's handbook page as part of our department's new information architecture. 
+This is a placeholder for the next iteration of the IT Compliance team's handbook page as part of our department's new information architecture.
 
 In the interim, please visit the following handbook pages:
 
@@ -36,5 +36,5 @@ In the interim, please visit the following handbook pages:
         * [Security Logging](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/security-logging)
     * [Security Threat Management Sub-department](https://about.gitlab.com/handbook/engineering/security/threat-management)
         * [Red Team](https://about.gitlab.com/handbook/engineering/security/threat-management/red-team)
-        * [Security Research](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/security-research/)
+        * [Security Research](https://about.gitlab.com/handbook/engineering/security/threat-management/security-research/)
  [Team Member Enablement](/handbook/business-technology/team-member-enablement/) handbook page.
