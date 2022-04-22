@@ -23,7 +23,7 @@ We communicate respectfully and professionally at all times.
 
 1. **Assume [Positive Intent](/handbook/values/#collaboration).** Always begin with a position of positivity and grace.
 1. **Kindness Matters.** You are looking at a screen, but you are really talking to a person. If you wouldn't say it to a person's face, do not send it to them in a text message.
-1. **Express Your Thoughts.** We live in different locations and often have very different perspectives. We want to know your thoughts, opinions, and feelings on things.
+1. **Express Your Thoughts Responsibly and Inclusively.** We live in different locations and often have very different perspectives. We want to know your thoughts, opinions, and feelings on things. We also ask you to consider the guidelines around communicating potentially sensitive topics.
 1. **Own It.** If you say it or type it, own it. If it hurts the company or an individual, even unintentionally, we encourage you to look at things from other points of view and apologize easily.
 1. **Be a Role Model of our [Values](/handbook/values/).**
 1. **Feedback is Essential.** It is difficult to know what is appropriate in every one of our team members 60+ countries. We encourage team members to give feedback and receive feedback in a considerate way.
@@ -36,6 +36,47 @@ Embracing asynchronous communication and learning to use it effectively requires
 ## Everyone is a moderator
 
 If you see something that concerns you in Slack, Issues, Merge Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss.
+
+## Communicating Potentially Sensistive Topics 
+
+As GitLab matures, we want to continue to foster discussion while evolving our communication guidelines so that topics that are potentially sensitive are discussed in appropriate forums. This is particularly relevant as team members heavily leverage async modes of communication including merge requests, issues and epics, and in Slack communication. 
+
+Words have impact long after they are written, and even when you're communicating internally, the manner in which you speak with one another should be viewed through an external lens.  For additional information, please review our [Giudelines for ecommunicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/).
+
+This guidance supplements and overlaps with [GitLab's SAFE Framework](/handbook/legal/safe-framework/), the guidance on the use of [the internal handbook](/handbook/handbook-usage/#the-internal-handbook) and the additional guidance on this page. We ask our team members to consider the factors below in their communication. 
+
+### Examples of Potentially Sensitive Topics
+
+1. Team member data (individual performance, start dates, departures)
+1. Violations, or potential violations, of policies and/or local rules and regulations
+1. Customer or partner information (logos, trademarks, spend)
+1. Material nonpublic information
+
+The above examples overlap with the [GitLab's SAFE Framework](/handbook/legal/safe-framework/) examples. We recommend you to further review that page for more information and context. 
+
+### What are the risks? 
+
+1. **Legal risk:** These are the risks that arise from regulations and laws that govern GitLab or the market in which it operates. This includes content that would compromise a GitLab team member, customer, or user's personal data and/or privacy. 
+1. **PR risk:** Remember that anything you document could ultimately be shared/viewed externally. 
+1. **Morale risk:** Raising sensitive topics that may be misinterpreted without the opportunity to ask clarifying questions can create risk to team culture and/or morale. 
+
+We encourage communicating risks to GitLab, its team members, or customers in a synchronous 1:1 setting.
+
+### Determining Which Communication Forum To Use
+
+The table below outlines an overview of different communication forums at GitLab, and considerations team members should think through related to potentially sensitive topics when determining which forum to leverage.
+
+| Communication Forum | When To Utilize |
+| ---------- | ---------- |
+| Use [the internal Handbook](/handbook/handbook-usage/#the-internal-handbook) aligned with the guidelines | When you want to share information between team members when it is [internal-only](handbook/communication/#internal), including [not public](/handbook/communication/#not-public) and not [limited access](/handbook/communication/#limited-access) |
+| External MR/issue (not confidential) | For discussion and collaboration when there is no risk suspected or identified (directly or later) and it doesn't fall into [not public](/handbook/communication/#not-public) category |
+| Internal MR/ confidential issue | For discussion and collaboration when there is no risk suspected or identified but adhering to things that are [internal-only](/handbook/communication/#internal), [not public](/handbook/communication/#not-public), SAFE Framework/General Communication Guidelines |
+| Your Manager, DRI and/or Legal | For discussion and collaboration when in doubt about potential risk and you want to review if there’s a potential risk |
+| DRI | For discussion and collaboration when there's a risk suspected or identified, communicate directly with the DRI verbally via Zoom. Example of issues where Limited Access applies or it covers a change to People Process/policy |
+| People Group (your People Business Partner or Team Member Relations) |  For discussion and collaboration when there's a risk suspected or identified, a policy violation, and/or it's a private matter |
+| [GitLab's Whistleblower policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) | For flagging a situation that is a violation as set out in the policy. |
+
+When in doubt, you can reach out to your People Business Partner and/or your  leadership team  directly.
 
 ## External communication
 
