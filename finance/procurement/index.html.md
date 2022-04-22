@@ -157,15 +157,15 @@ Common Status Questions:
 Congratulations and thank you for following this process to support GitLab as a public company!
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How long does it take to approve my Coupa Purchase Request?
-As a general rule, plan on **5-7 Business Days to approve your Purchase Request for an existing supplier with standard terms, conditions, and low risk.**
+As a general rule, plan on **5 Business Days** to approve your Purchase Request for an **existing supplier with standard terms, conditions, and low risk.**
 
-If your request [requires negotiation](https://about.gitlab.com/handbook/finance/procurement/#-when-does-procurement-negotiate-my-contract-and-how-long-does-that-take), a [vendor security review](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html), and/or multiple legal revisions, this will take longer as noted below. 
+If your request [requires negotiation](https://about.gitlab.com/handbook/finance/procurement/#-when-does-procurement-negotiate-my-contract-and-how-long-does-that-take), a [vendor security review](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html), and/or legal revisions, this will take longer as noted below. 
 
 Please plan accordingly and open your Coupa Purchase Request allowing the cross-functional teams enough time to complete the review
 
-If your request meets any of the below criteria, add the additional time noted for the activity to the 5-7 day baseline above:
+If your request meets any of the below criteria, add the additional time noted for the activity to the 5 day baseline above:
 
-### New Supplier Onboarding: 1-3+ Days
+### New Supplier Onboarding: 2-3+ Days
 - This is entirely dependent upon the suppliers response time. 
 - Once your New Supplier Request form is approved, the supplier receives an email from Coupa requesting banking and tax information to facilitate payment. 
 - The procurement team can not complete this on the suppliers behalf since we do not know this information. If we did it would be a violation of SOX Compliance guidelines.
@@ -174,12 +174,13 @@ If your request meets any of the below criteria, add the additional time noted f
 **In the event two or more of the below activities are required, they will happen in parallel to one another:**
 
 ### Negotiation: 1-3 Weeks
-- Required for: SaaS contracts >$25K, and one-time contracts > $100K.  
+- Required for: SaaS contracts >$25K, and one-time contracts >$100K.  
 - Turn time is based on the level of negotiation required and the suppliers willingness to meet budget and benchmark indicators.
 
-### Vendor Security Review (VSR): 1-2 Weeks  
+### Vendor Security Review (VSR): 4-7 Days 
+- This activity cannot begin until **after** the supplier completes the security questionairre and supplies their security documentation. Oftentimes, it can take a week for the supplier to respond and complete the requested materials. The SLA begins once that is completed.
+- Time before this activity can begin, is entirely dependent upon the suppliers response time and maturity of security protocols.
 - A [VSR](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html) is required for: All SaaS purchases, and other purchase types where the supplier will have access to orange and/or red data (excluding field marketing events).
-- Turn time is based on the maturity of the suppliers security protocols and supplier response time to the ZenGRC email request.
 - **TIP:** To increase speed of approval, upload any security compliance documentation to the Coupa Request and notify your supplier contact they will be receiving a request from  ZenGRC for completion ASAP.
 
 ### Legal Review: 3 Days - 3+ Weeks  
