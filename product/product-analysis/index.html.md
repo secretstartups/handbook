@@ -361,6 +361,7 @@ analysts across the GitLab Data Program
 * [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
 * [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
 * [Team Processes](/handbook/product/product-analysis/team-processes/)
+* [WIP - Crash Course Resources for Product Analysts and Other Curious Team Members](/handbook/product/product-analysis/crash-course/)
 
 ## Other helpful resources & links
 
