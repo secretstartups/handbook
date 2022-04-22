@@ -493,16 +493,29 @@ Job information changes are anything that requires an update to the team member'
 ## Department Transfers
 
 If you are interested in a vacancy, regardless of level, outside your department or general career progression, you can apply for a transfer through [Greenhouse](https://boards.greenhouse.io/gitlab) or the internal job board, link found on the #new-vacancies Slack channel.
- We have no minimum time in role requirements for transfers at GitLab.
+
+Please undertand the following eligibility guidelines that need to be met to be able to proceed with an opportunity here at GitLab:
+
+* Guidelines for performance eligibility:
+   * Team members who are assessed at a Performing or Exceeding Performance level during Talent Assessment are eligible to be considered for another role
+   * Team members whose Performance is assessed as Developing or are actively undergoing written performance management, may not be eligible. These situations require manager and/or PBP approval to proceed.
+   * Team members that have not had a Talent Assessment require manager and/or PBP approval to proceed
+   * Time in role eligibility will be 6 months in current role. Exceptions to this:
+* Job Family specialty changes 
+   * Business Impact  (revenue-dependencies, interim role to perm)
+   * Business driven transfers (example of realignments)
+   * SDR/BDR 12 month in role
 
 **If and when you decide to officially apply for an internal position, please make sure your current manager is aware. Your official application is signaled by you applying to the open role or reaching out to the talent acquisition team. Informal conversations about the role do not require a team member to inform their manager. If you have concerns about communicating your interest in an internal role to your manager, please reach out to your People Business Partner.**
+
+For more information please visit our [Internal Hiring Process](/handbook/hiring/talent-acquisition-framework/internal-hiring-process/) handbook page.
 
 ### For Internal Applicants
 
 #### Different Job Family
 
 - If you are interested in a transfer, simply submit an application for the new position. If you are not sure the new role is a good fit, schedule time with the hiring manager to learn more information about the role and the skills needed. If after that conversation you are interested in pursuing the internal opportunity, it is recommended that you inform your current manager of your intent to interview for a new role. While you do not need their permission to apply to the new role, we encourage you to be transparent with them. Most will appreciate that transparency since it's generally better than learning about your move from someone reaching out to them as a reference check. You can also use this as an opportunity to discuss the feedback that would be given to the potential new manager were they to seek it regarding your performance from your current and/or past managers. We understand that the desire to transfer may be related to various factors. If the factor is a desire NOT to work with your current manager, this can be a difficult conversation to have and shouldn't prevent you from pursuing a new role at GitLab.
-- Transfers must go through the application process for the new position by applying on the [jobs page](https://gitlab.greenhouse.io/internal_job_board). The team member may go through the entire interview process outlined on the vacancy description. Common exceptions to the standard interview process are behavioral or "values alignment" stages. The Recruiter will document the reason behind alterations to the standard interview plan in the team member's Greenhouse profile.  If you have any questions about the role or the process, please reach out to your Department or Division's [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). In all cases, the applicable People Business Partner should be informed via email, before a transfer is confirmed.
+- Transfers must go through the application process for the new position by applying on the [jobs page](https://gitlab.greenhouse.io/internal_job_board). The team member may go through the entire interview process outlined on the vacancy description. Common exceptions to the standard interview process are behavioral or "values alignment" stages. The Recruiter will document the reason behind alterations to the standard interview plan in the team member's Greenhouse profile.  If you have any questions about the role or the process, please reach out to your Department or Division's [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) and/or please visit our [Internal Hiring Process](/handbook/hiring/talent-acquisition-framework/internal-hiring-process/) handbook page. In all cases, the applicable People Business Partner should be informed via email, before a transfer is confirmed.
 - In the case of transfers, it is expected and required that the gaining manager will check with internal references at GitLab limited to the previous and current managers; please do not conduct internal reference checks with peers or direct reports. For questions or exceptions, please engage your recruiter and people business partner.
 - It is recommended (but not required) that the applicant, current manager, or gaining manager create a private Slack channel to help coordinate the transfer. Invite anyone who will be involved such as the relevant managers, directors, people business partners, finance business partners, and recruiters for the current team and gaining team.
 - If the current manager needs to backfill the role in Engineering they should follow [this process](/handbook/engineering/#rd-new-headcount-ghpid-request-backfill--transfer-process). For other divisions they should work with their department leader, recruiter, and the Finance Business Partner to confirm that a backfill is available. When the transfer is confirmed, current manager should work with recruiter and Finance Partner to obtain a [GHP ID](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth) for the backfill and open the role in Greenhouse.
