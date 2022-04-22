@@ -252,20 +252,6 @@ You don't have to wait for people to provide input, if you did ask them.
 We believe in permissionless innovation—you don't need to involve people, but everyone can contribute.
 This is core to how we [iterate](/handbook/values/#iteration), since we want smaller teams moving quickly rather than large teams achieving consensus slowly.
 
-##### Collaboration is not playing politics
-{:.no_toc}
-We don't want people to play politics at GitLab.
-One way to spot when this is happening is when people discussing a proposal focus overly on whose proposal it is.
-This is a manifestation of the [Belief Bias](https://twitter.com/g_s_bhogal/status/1225561210139049984?), where we judge an argument’s strength not by how strongly it supports the conclusion but by how strongly *we* support the conclusion.
-Proposals should be weighed on their merits and not on who proposed them.
-The other thing to observe is whether people are being promoted based on others liking them or having a lot of alliances.
-We want people to be promoted based on their results.
-We do value collaboration, but that's different than being promoted just because people like you.
-
-<figure class="video_container">
-    <iframe src="https://www.youtube.com/embed/vEk9z5vumB8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 ##### Collaboration Competency
 {:#collaboration-competency .no_toc}
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
@@ -1353,6 +1339,30 @@ From our values we excluded some behaviors that are obvious; we call them our *p
 1. Act in the best interest of the company, our team members, our customers, users, and investors.
 1. Act in accordance with the law.
 1. Don't show favoritism as [it breeds resentment, destroys employee morale, and creates disincentives for good performance](https://www.employmentlawfirms.com/resources/employment/discrimination/laws-preventing-favoritism-in-the-workplace). Seek out ways to be fair to everyone.
+
+## Playing politics is counter to GitLab values
+
+We don't want people to play politics at GitLab.
+
+An example of politics is people discussing a proposal and being overly focused on whose proposal it is.
+This is a manifestation of the [Belief Bias](https://twitter.com/g_s_bhogal/status/1225561210139049984?), where we judge an argument’s strength not by how strongly it supports the conclusion but by how strongly *we* support the conclusion.
+Proposals should be weighed on their merits and not on who proposed them.
+Another example is people being promoted based on others liking them or having a lot of alliances. We want people to be promoted based on their results. We value collaboration, but that's different from being promoted just because people like you.
+
+Below are some attributes of political and non-political work environments. GitLab plans maintain a non-political one. 
+
+| Political environment | Non-political environment |
+| ------ | ------ |
+| Values are weaponized and used out of their intended context | Team members utilize values with a positive intent |
+| Team members are driven by self-interest | Team members are driven by company interest |
+| Team members work in silos | Team members optimize globally  |
+| People have territorial behaviors | People have [short toes](/handbook/values/#short-toes) |
+| People have unhealthy alliances with backroom conversations | People have good intent and actively collaborate with folks |
+| Information is intentionally withheld | Information is shared early (often WIP) and at the same time with all interested parties  |
+
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/embed/vEk9z5vumB8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ## What is not a value
 
