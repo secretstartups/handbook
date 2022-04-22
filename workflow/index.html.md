@@ -410,7 +410,7 @@ We have the following deadlines:
 - On `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
 - By month `M, 17th`:
   - Completed `m` issues with docs have been merged into master.
-  - Feature flags should be flipped from default off to default on after verification to be in the `m` release. See [feature flags](https://docs.gitlab.com/ee/development/feature_flags/process.html).
+  - Feature flags should be flipped from default off to default on after verification to be in the `m` release. See [feature flags](https://about.gitlab.com/handbook/product-development-flow/feature-flag-lifecycle/#including-a-feature-behind-feature-flag-in-the-final-release).
   - Merging by the 17th **does not guarantee** that the feature will be in the `m` release. See [release timelines](/handbook/engineering/releases/#timelines).
   - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contribution-instructions) merged for all relevant issues.
   - By end of the day, milestone `m` is expired.
