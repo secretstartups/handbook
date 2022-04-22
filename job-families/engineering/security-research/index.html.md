@@ -66,14 +66,40 @@ The role is a [grade 8](/handbook/total-rewards/compensation/compensation-calcul
 * Passion for participation in the security community, demonstrated through published research and community involvement.
 * Have experience leading technical objectives in cross-functional teams
 
+### Principal Security Research Engineer
+This position reports to the [Senior Security Manager, Security Research](#senior-security-manager-security-research) role at GitLab.
+
+#### Principal Security Research Engineer Job Grade
+The role is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Principal Security Research Engineer Responsibilities
+* Conduct and lead security research projects across multiple functional areas.
+* Solve technical problems of the highest scope, complexity, and ambiguity.
+* Assist in developing team and sub-department roadmap.
+* Lead integration of security research results into relevant engineering and business functions.
+* Collaborate and makes proposals across several teams on cross-functional security initiatives.
+* Look for innovation opportunities between several teams with a willingness to experiment and to boldly confront problems of large complexity and scope.
+* Guides conversations to remove blockers and encourage collaboration across teams.
+* Teach, mentor, grow, and provide advice to other domain experts, individual contributors, across several teams in their sub-department.
+* Write public blog posts and represent GitLab in the wider security community.
+* Participate in candidate interviews during hiring process.
+
+#### Principal Security Research Engineer Requirements
+* Includes all Staff level requirements listed.
+* Demonstrated deep technical expertise in multiple security areas.
+* Demonstrated ability to enact change cross-functionally through efficiency, inclusion, and iteration.
+* Knowledge of current and emerging security technologies that affect the business.
+* Knowledge of current and emerging security threats that affect the business.
+* Passion for participation in the security community, demonstrated through published research and community involvement.
+
 ### Distinguished Security Research Engineer
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-engineering--research) role at GitLab.
+This position reports to the [Threat Management Director](/job-families/engineering/security-leadership/) role at GitLab.
 
 #### Distinguished Security Research Engineer Job Grade
 The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Distinguished Security Research Engineer Responsibilities
-* Includes all [Staff level responsibilities listed](#staff-security-research-engineer-responsibilities).
+* Includes all [Principal level responsibilities listed](#principal-security-research-engineer-responsibilities).
 * Conduct security research across multiple functional areas within the Engineering department.
 * Take lead role in decision making for GitLab security requirements in area(s) of expertise.
 * Evangelize successful adoption and use of tooling, technologies, and security solutions.
@@ -84,7 +110,7 @@ The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calcu
 * Work in a leveraged manner influencing other organizations and teams across GitLab with security research approaches and a focus on problem solving.
 
 #### Distinguished Security Research Engineer Requirements
-* Includes all [Staff level requirements listed](#staff-security-research-engineer-requirements).
+* Includes all [Principal level requirements listed](#principal-security-research-engineer-requirements).
 * Expected 10+ years previous experience on a Security team, including Security Research, and 4+ years in lead position, or relevant education.
 * Creative thinker and problem solver, able to distill complex problems down to actionable items with boring solutions.
 * Deep and broad knowledge of current and emerging security technologies that affect the business.
