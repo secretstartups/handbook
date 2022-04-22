@@ -24,13 +24,17 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 
 ## Business Goals
 
-Transition R&D teams quickly to this new model driven by backlog types, automated SLO guidelines, and balanced prioritization ratios. This should not wait until complete burn-down of their Reliability & Security debt backlog (estimate all teams by the end of May). However, we should expect maintenance to be high in this new model, until we reach that steady state.
+The engineering allocation process often addresses maintenance work retroactively rather than proactively.  This leads to unpredictabiltiy and puts us at higher risk of customer facing incidents.
+
+As a result of this, it is critical that we create a healthier balance of work by type (features, maintenance items, bugs) delivered across R&D, improve transparency for R&D and GTM stakeholders, and be prepared to respond quickly to changing needs.
+
+In order to do so, we will transition R&D teams quickly to a new prioritization model driven by backlog types, automated SLO guidelines, and balanced prioritization ratios.  We should expect maintenance to be high in this new model until we reach steady state, as all teans work to complete remaining engineering allocations while they also complete their burn-down of their current reliability and security debt backlog.
 
 Benefits include:
 
-* In order to have a healthier balance of work by type (features, maintenance items, bugs), we will set goals on these ratios and track on a per team basis
+* In order to have a healthier balance of work by type (features, maintenance items, bugs), we will set goals on these ratios and track on a per team and per sub-department basis
 * In order to improve transparency for stakeholders, we will publish dashboards where the trends and details can be tracked over time
-* In order to respond more quickly to changing needs, we will use this process to better stay ahead of maintenance work rather using the `engineering allocation` process which generally addresses maintenance work retroactively rather than proactively.
+* In order to respond more quickly to changing needs, we will use this process to better stay ahead of maintenance work rather using the `engineering allocation` process which often addresses maintenance work retroactively rather than proactively.
 
 More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Zo-Fdq3yVtk-q-uJrKe_03iF9jB1XQWqQb4/edit#slide=id.geebc38ecb3_0_261).
 
