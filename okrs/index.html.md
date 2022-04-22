@@ -200,9 +200,9 @@ Top level CEO KRs will appear in the handbook. OKRs have numbers attached to the
 
 Functional leaders are responsible for updating the their objectives and KRs in Ally before each [Key Review](/handbook/key-review/#automated-kpi-slides){:data-ga-name="key reviews"}{:data-ga-location="body"}.
 
+## How to Use Ally.io
 
 #### Objectives
-
 The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKR section of the handbook"}{:data-ga-location="body"}. 
 To add new objectives in Ally.io, follow the steps below:
 1. In Ally.io, click the add objective button. A dialogue box will open to allow you to enter key information.
@@ -214,7 +214,6 @@ To add new objectives in Ally.io, follow the steps below:
 1. Click create and the objective will be added.
 
 #### Key Results
-
 Each [Objective](#objectives) will contain one or more Key Result issues. 
 To add new key results in Ally.io, follow the steps below:
 1. Find the objective that you created and want to add a key result. 
@@ -230,12 +229,25 @@ Watch this video for how to add objectives and key results and align them with C
   <iframe src="https://www.youtube.com/embed/HAQ6cXNAOEM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+#### Building Ally.io Dashboards
+Once OKRs are loaded into Ally, you can build dashboards and reports for different views of the OKRs and their progress. Below are examples of dashboards for a [whole company view](https://app.ally.io/teams/40502/objectives?tab=5&selected_dashboard_id=11941) and a [Manager or Functional Leader](https://app.ally.io/teams/40502/objectives?tab=5&selected_dashboard_id=12234). These examples can be cloned using the steps in this video: [How to clone and move a dashboard](https://youtu.be/Eb4nS7UKOkQ)
+
+Example Dashboards:
+  
+![Whole Company Dashboard](sites/uncategorized/source/company/okrs/Companywide Dashboard.png. "Image Title")
+
+![Manager or Functional Leader Dashboard](sites/uncategorized/source/company/okrs/Manager or Functional Lead Dashboard.png "Image Title")
+
+##### Dashboard Resources
+* This short video (3 min) from Ally provides an overview of how to build a dashboard [Configuring Team Dashboards](https://www.loom.com/share/fb73cef1335d435bb04ab9a574005cc6)
+* Ally.io has [Dashboard templates](https://help.ally.io/en/articles/5468985-review-dashboard-templates#h_06d3fcc4d5) that can be used for reviews of real-time OKR data. 
+* There is also an option to [customize review dashboards](https://help.ally.io/en/articles/4362767-customize-review-dashboard) to fit Team’s specific needs. 
 
 #### Tips and Tricks
 * [How to comment on an objective and key result](https://youtu.be/YajA4xOgdD0)
 * [How to add dependencies](https://youtu.be/6XzWlNMH440). Dependencies allow a team member to tag any OKR to other OKRs within Ally. This could be used when there is an OKR that requires a component of another OKR to be completed for success. 
 
-## Ally.io Resources
+#### Ally.io Resources
 * Learn the essential features of Ally.io with [Ally.io Software Essentials](https://learn.ally.io/ally-software-essentials) (16 mins) 
 * [Ally Help Center](https://help.ally.io/en/) 
 
