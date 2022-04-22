@@ -132,7 +132,7 @@ Passed the [Production Readiness Review](https://gitlab.com/gitlab-com/gl-infra/
 
 A breaking change may occur when you intentionally plan to change or remove functionality. Breaking changes can sometimes result from the addition of new features. It is the responsibility of the PM and EM for a category to carefully consider the risk and impact of introducing a breaking change as they can cause severe disruption to customers.
 
-If you have determined that you are introducing a breaking change, you must notify the user community and customers. This means including a deprecation notice in the monthly release post as soon as possible and following the process outlined below for deprecations and removals.
+If you are introducing a breaking change, you must notify the user community and customers through a deprecation notice in the monthly release post as soon as possible. Follow the [process outlined below for deprecations and removals](#process-for-deprecating-and-removing-a-feature).
 
 #### Examples of breaking changes
 
@@ -176,12 +176,11 @@ Deprecating and removing a feature needs to follow a specific process because it
 1. Make sure the deprecation has an issue leveraging the [deprecation issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Deprecations.md). 
     - Leveraging this template to create a deprecation issue is required because it serves as the SSOT/communication cross-functionally and across other stable counterparts, such as TAMs and Marketing, who need awareness of upcoming removals.
 1. Identify if deprecating the feature creates a [breaking change](#breaking-change). If so, you will need to wait until a XX.0 major release for removal. (Consider providing a notice as much in advance as you can - especially for features that have large impact.)
-1. Begin announcing it as a deprecation following [guidance on the release post handbook page](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) so it will be included in the relevant release post
+1. Review the overall workflow for announcing Deprecations and Removals [here](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) and follow guidance to [announce the deprecation in GitLab Docs the release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations).
 1. Potentially mention it in the [Kickoff Videos](https://about.gitlab.com/handbook/product/product-processes/#kickoff-meetings). 
 1. Engage the support team to discuss support procedures for deprecated features and update the [Statement of Support](https://about.gitlab.com/support/statement-of-support.html) as necessary
 1. Label the feature accordingly in documentation and the application
 1. Remove the feature from marketing pages
-1. Announce the deprecaton in the [Release Post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations)
 
 **Milestone of Removal:**
 
