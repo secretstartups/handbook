@@ -2,7 +2,7 @@
 layout: markdown_page
 title: "Next Prioritization"
 description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
-canonical_path: "/company/team/structure/working-groups/next-prioritization/"
+canonical_path: "/company/team/structure/working-groups/maint-first/"
 ---
 
 ## On this page
