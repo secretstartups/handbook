@@ -405,7 +405,7 @@ This can cause the following problems:
 1. The more layers of management there are, the further the distance from the average individual to the customer.
 
 Each one of the problems above has a specific solution:
-1. We address this by prioritizing [our results value in our value hierarchy](/handbook/values/#hierarchy) and by [not playing politics](/handbook/values/#collaboration-is-not-playing-politics).
+1. We address this by prioritizing [our results value in our value hierarchy](/handbook/values/#hierarchy) and by [not playing politics](/handbook/values/#playing-politics-is-counter-to-gitlab-values).
 1. Drive praise downward in the organization. When something is a success, attribute that success to the DRI. It can be as easy as telling someone they did a good job.
 1. Focus disproportionately on the best performers by explicitly identifying the high performance. Leaders need to judge whether investment can help bring someone up to a higher level. If an investment of time adds value to the team member, the team, and the organization, invest in the team member. A meritocracy means that we invest in folks who are performing.
 1. Raises should not be spread evenly (there should be variability and dispersion).
