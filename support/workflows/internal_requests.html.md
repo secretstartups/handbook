@@ -80,14 +80,20 @@ See the [Sending notices workflow](/handbook/support/workflows/sending_notices.h
 
 ## Repo Size Limit Increases
 
-Should a user request a temporary extension of the size limit of their repository the following workflow should be used if that extension is granted.
+At times, users require an increase to the size limit of their repository as a workaround for a bug issue. In these cases:
 
 1. Open an issue in the **[internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/issues)** issue tracker using the `Repo Size Limit` issue template.
+    - If you do not have GitLab.com admin access, add the `Admin escalation` label. If needed, post in the `#support_gitlab-com` Slack channel for attention on it.
+1. If a request is a workaround to a bug issue:
+    - Use current size + small buffer (2-5 GB) for the exception size.
+    - Set a due date for reverting, up to 1 week from current date.
+    - If a longer exception time is required, add the `Manager Approval::Required` label, and post in the `#spt_managers` channel to request approval.
+    - Make sure to comment on (or create) a bug issue to help future users and prevent further tickets.
 1. Apply the `Status::On Hold` label and set the due date to when it should be reverted.
 1. Using your GitLab.com admin account navigate to the project in question while appending **/edit** to the URL. For example, if the project in question is located at **https://gitlab.com/group/subgroup/project/** you would navigate to **https://gitlab.com/group/subgroup/project/edit**.
 1. Enter a new value in the **Repository size limit (MB)** field.
 1. Click **Save changes**.
-1. Revert the size limit back to the default on the specified due date.
+1. On the specified due date, revert the size limit back to the default by removing the value.
 
 ## Pipeline Quota Reset
 
