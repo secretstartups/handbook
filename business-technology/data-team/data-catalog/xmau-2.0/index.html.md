@@ -122,7 +122,7 @@ _Notes_:
 
 Based on the explanations above, the 2 main data sources we are using are:
 
-- Service Ping Data Source (version app)
+- Service Ping Data Source (Version App)
 - Gitlab.com Data Source (Gitlab.com Postgres Table)
 
 ### Data marts [Update this section with a glossary of the new xMAU 2.0 data marts with links to dbt]
@@ -137,6 +137,13 @@ We have built a suite of datamarts that allow users to explore our different pro
 | [Mart_Usage_Instance_Daily](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_usage_instance_daily)    | Event Name, Event Date, Instance ID | Gitlab.com Postgres Table |
 | [Mart_Usage_Event_Plan_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_usage_event_plan_monthly) | Reporting Month, Plan ID at Event Date, Event Name |   Gitlab.com Postgres Table    |
 | [Mart_xMAU_Metric_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_xmau_metric_monthly)  | Reporting Month, User Group, Section Name, Stage Name, Group Name  |  Gitlab.com Postgres Table    |
+| [Mart_Service_Ping_Instance_Metric](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance) | Service Ping Instance ID, Metrics Path|   Version App    |
+| [Mart_Service_Ping_Instance_Metric_7_Day](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_7_day) | Service Ping Instance ID, Metrics Path|   Version App    |
+| [Mart_Service_Ping_Instance_Metric_28_Day](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_28_day#code) | Service Ping Instance ID, Metrics Path|   Version App    |
+| [Mart_Service_Ping_Instance_Metric_All_Time](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_all_time) | Service Ping Instance ID, Metrics Path|   Version App    |
+| [Rpt_Service_Ping_Instance_Metric_Adoption_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_service_ping_instance_metric_adoption_monthly) | Reporting Month, Metrics Path, Estimation Grain|   Version App    |
+| [Rpt_Service_Ping_Instance_Metric_Estimated_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_service_ping_instance_metric_estimated_monthly) | Reporting Month, Metrics Path, Estimation Grain, Ping Edition Product Tier, Service Ping Delivery Type|   Version App    |
+
 
 
 
@@ -265,7 +272,7 @@ One of our goals is to create a 1 model that easily provides all the data needed
 | [Simple Diagram](https://lucid.app/lucidchart/fb925529-e173-428d-831b-4d5982ceac3d/edit?existing=1&token=6730b4fc5d12a5d4176bf0609f58a9229dfe8a82-eml%3Djoshua%2540amplifycp.com%26ts%3D1646680888%26uid%3D166775925&docId=fb925529-e173-428d-831b-4d5982ceac3d&shared=true&invitationId=inv_624938c6-a573-49a8-869f-17252bae59fa&page=E3zTdB7RQ2at#) | Bring in Each Event Source at the grain it exists. Aggregate and merge the data into each level. Any datasource can be scaled and merged in at the corect level. This diagram shows the high level layout of our event data and how it moves through the different schemas, not the final layout of marts |
 | [Mart Event Source](https://lucid.app/lucidchart/fb925529-e173-428d-831b-4d5982ceac3d/edit?existing=1&token=6730b4fc5d12a5d4176bf0609f58a9229dfe8a82-eml%3Djoshua%2540amplifycp.com%26ts%3D1646680888%26uid%3D166775925&docId=fb925529-e173-428d-831b-4d5982ceac3d&shared=true&invitationId=inv_624938c6-a573-49a8-869f-17252bae59fa&page=lUeQ29Mck~2E#) | Bring in Each Event Source at the grain it exists to an atomic FACT table. All marts downstream represent different aggregations of this atomic level table (ex by namespace, plan, month, etc.) Meant to show the actual flow of data from source all the way through to the COMMON_MART schema |
 | [WIP: Event Data Source Mapping](https://docs.google.com/spreadsheets/d/15I-8uqbAnxQ4lO_uhSmdWlfunh9xm4O_n-QNtJA9A_w/edit#gid=0) |  Event Usage data is captured to provide analytics on how the product is being used.  There are 3 basic types of Event data.  Click level data is captured as the user clicks through the system for navigation and utilizing the product. Event (Snapshot) data is captured from the Application with whatever the Event values are at the time of the capture. Service Ping data is captured at an aggregated level for Instance or Namespace.  This matrix shows how the data is captured and brought into the Data Warehouse. |
-[WIP: Amplify ERD Design](https://lucid.app/lucidchart/3a42e56a-028e-45d7-b2ca-5ef489bafd32/edit?invitationId=inv_e0a19114-45d5-4a78-9123-dc3b8991d826&page=O.TAVTjR034b#) | WIP |
+[Amplify ERD Design](https://lucid.app/lucidchart/3a42e56a-028e-45d7-b2ca-5ef489bafd32/edit?invitationId=inv_e0a19114-45d5-4a78-9123-dc3b8991d826&page=O.TAVTjR034b#) | The Amplify ERD showcases the relationships between the fct_service_ping_instance and the relatable dimensional models that surround product usage data. |
 
 
 
