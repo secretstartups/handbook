@@ -65,24 +65,26 @@ The Manager, SEC reports to the Director, SEC.
 * Relevant years of Big 4 public accounting experience, +industry experience 
 * Ability to use GitLab
 
-### Director, SEC & SOX
+### Director, Record to Report
 
-The Director, SEC & SOX reports to the [Corporate Controller](https://about.gitlab.com/job-families/finance/corporate-controller/#director-corporate-controller).
+The Director, Record to Report reports to the [Corporate Controller](https://about.gitlab.com/job-families/finance/corporate-controller/#director-corporate-controller).
 
-#### Director, SEC & SOX Job Grade
+#### Director, Record to Report
 
-The Director, SEC & SOX is a [grade #10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Record to Report is a [grade #10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director, SEC & SOX Responsibilities
+#### Director, Record to Report Responsibilities
 
-- Responsible for SOX review of compliance to controls for monthly/quarterly/yearly controls. The position will review the tests completed by the Internal Audit team and drive necessary changes as required by the Accounting team. 
-- Responsible for the integrity and accuracy of GitLab monthly and quarterly financial filings as if it were a public company.
+- Responsible for collecting, processing and delivering relevant, timely and accurate information used for providing strategic, financial and operational feedback to understand how GitLab is performing
+- Includes responsibility for SOX review of compliance to controls for monthly/quarterly/yearly controls. The position will review the tests completed by the Internal Audit team and drive necessary changes as required by the Accounting team. 
+- Responsible for leading the GL Accounting team
+- Responsible for the integrity and accuracy of GitLab monthly and quarterly financial filings 
 - Oversight and participation in planning, drafting and other activities that facilitate the efficient completion of those filings. 
 - Such activities include: (i) planning the quarterly drafting and review cycle; (ii) leading quarterly meetings with senior management; (iii) developing an in-depth understanding and analysis of significant transactions to assess their impact for SEC disclosure purposes; and (iv) monitoring the activities of all accounting standard setting bodies to ensure timely identification of emerging accounting pronouncements to ensure compliance with all GAAP and disclosure requirements.
 - Partners closely with the Technical Accounting side of the team, occasionally participating in technical accounting analysis of significant or unusual transactions, or recently issued accounting updates.
 - Interacts regularly with external auditors, Legal and Investor Relations, with routine exposure to the CFO and Audit Committee.
 
-#### Director, SEC & SOX Requirements
+#### Director, Record to Report Requirements
 
 - Relevant work experience with a Bachelor’s Degree or at least 8 years of work experience 
 - An advanced degree with an active CPA license is preferred
