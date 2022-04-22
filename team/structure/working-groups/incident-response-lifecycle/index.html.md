@@ -35,7 +35,7 @@ canonical_path: "/company/team/structure/working-groups/incident-response-lifecy
 
 ## Exit Criteria
 
-1. Single source of truth documenting incident response management that will be applicable to all areas of Engineering and teams who provide Incident Response 
+1. Single source of truth documenting incident response management that will be applicable to all areas of Engineering and teams who provide Incident Response
    * Each functional area of Engineering will develop their own Incident management requirements for identifying and reacting to service outages or security threats.
 2. Create a comprehensive knowledge base for Gitlab team members to help them understand how incident response teams implement the IR process
 
@@ -59,18 +59,18 @@ canonical_path: "/company/team/structure/working-groups/incident-response-lifecy
 
 ### How is IR done today?
 
-1. SIRT 
-   * [Incident Response Guidance](https://about.gitlab.com/handbook/engineering/security/vulnerability_management/incident-response-guidance.html)
+1. SIRT
+   * [Incident Response Guidance](https://about.gitlab.com/handbook/engineering/security/threat-management/vulnerability-management/incident-response-guidance.html)
    * [Engaging Security Engineer On-Call](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html)
    * [GitLab SIRT On-Call Guide](https://about.gitlab.com/handbook/engineering/security/secops-oncall.html)
-1. [On-call](https://about.gitlab.com/handbook/on-call/) 
+1. [On-call](https://about.gitlab.com/handbook/on-call/)
 1. Reliability
    * [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
 1. Support
    * [How to Perform CMOC Duties](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html)
    * [Contacting Customers](https://about.gitlab.com/handbook/support/internal-support/#contacting-customers-via-tickets)
    * [Sending Notices](https://about.gitlab.com/handbook/support/workflows/sending_notices.html) (small number of users)
-   * [Customer Ticket Generator](https://about.gitlab.com/handbook/support/support-ops/workflows/customer-ticket-generator.html) (large number of users) 
+   * [Customer Ticket Generator](https://about.gitlab.com/handbook/support/support-ops/workflows/customer-ticket-generator.html) (large number of users)
 
 ### Noted issues
 
@@ -97,15 +97,15 @@ canonical_path: "/company/team/structure/working-groups/incident-response-lifecy
 
 ### Actors
 
-* Reliability Engineers 
-* SIRT Engineers 
+* Reliability Engineers
+* SIRT Engineers
 * Development Team
 * Quality Team
 * Support Team
 
 
 ### General
-* As a GitLab team member who can raise an incident, I know how incident can be initiated 
+* As a GitLab team member who can raise an incident, I know how incident can be initiated
 * As a GitLab team member who can raise an incident, I have a general understanding  about incident severity levels
 * As a GitLab team member who can raise an incident, I understand the high level process of Incident Management and its importance to the business
 * As a GitLab team member who can raise an incident, I can contact the right team via dedicated slack channel.
@@ -114,15 +114,15 @@ canonical_path: "/company/team/structure/working-groups/incident-response-lifecy
 
 
 #### SIRT Engineer
-* As a SIRT Engineer I know how to pull relevant resources from other teams  when I need assistance 
-* As a SIRT Engineer I can easily categorized the incident 
-* As a SIRT Engineer I can identify triggers and indicators 
-* As a SIRT Engineer I know where to document the incident details  
-* As a SIRT Engineer I know when to transitions from Incident identification, to mitigation, to remediation, and post to incident activities 
+* As a SIRT Engineer I know how to pull relevant resources from other teams  when I need assistance
+* As a SIRT Engineer I can easily categorized the incident
+* As a SIRT Engineer I can identify triggers and indicators
+* As a SIRT Engineer I know where to document the incident details
+* As a SIRT Engineer I know when to transitions from Incident identification, to mitigation, to remediation, and post to incident activities
 * As a SIRT Engineer I can follow a reporting process to handoff incidents, or provide updates to Management
 
 
-#### Reliability Engineers 
+#### Reliability Engineers
 * As a Reliability Engineer, I know how to level an incident in a manner that is consistent across the org
 * As a Reliability Engineer, I know how to engage the other roles during an incident
 * As a Reliability Engineer, I know when to transition from Incident identification, to mitigation to resolution and post-incident activities
@@ -132,7 +132,7 @@ canonical_path: "/company/team/structure/working-groups/incident-response-lifecy
 
 * As a leader in Development who is part of the Incident Manager rotation, I am clear on the role's responsibilities and how the role supports the Incident Management process.
 
-#### Quality Teams 
+#### Quality Teams
 
 #### Support Team
 
@@ -143,4 +143,3 @@ canonical_path: "/company/team/structure/working-groups/incident-response-lifecy
 * As a Support Engineer, I know how notify the stakeholders
 * As a Support Engineer, I know how to find related tickets in Zendesk and the GitLab issue tracker to help access the impact of an incident
 * As a Support Engineer, I know how to contact users if their usage of GitLab SaaS was restricted due to an incident
-
