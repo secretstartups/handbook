@@ -212,3 +212,227 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 /label ~"Analyst Relations" ~"Gated Content" ~"mktg-demandgen" ~"dg-campaigns" ~"mktg-status::wip"
 ```
+
+## Adding new content to the Resources page
+{: #add-to-resources-page .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+*Note from `@jgragnola`: [open issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1030) to investigate how to leverage Pathfactory to automatically tap into all content for a better user experience and more efficient process on the GitLab side.*
+1. Begin a new MR from [the resources yml](https://gitlab.com/gitlab-com/www-gitlab-com/edit/master/data/resources.yml)
+2. Use the code below to add a new entry with the relevant variables
+3. Add commit message `Add [resource name] to Resources page`, rename your target branch, leave "start a new merge request with these changes" and click "Commit Changes"
+5. Assign the merge request to yourself
+6. When you've tested the MR in the review app and all looks correct (remember to test the filtering!), assign to `@jgragnola`
+7. Comment to `@jgragnola` that the MR is ready to merge
+
+*Note: For ungated journeys, the URL drives to the PF asset/track, instead of a landing page.*
+
+**Code:**
+```
+- title: 'Add name of resource - shorten if necessary'
+  url: 
+  image: /images/resources/security.png
+  type: 'eBook'
+  topics:
+    - 
+    - 
+  solutions:
+    - 
+    - 
+  teaser: 'Add a teaser that relates to the contents of the resource'
+```
+**Example:**
+```
+- title: '10 Steps Every CISO Should Take to Secure Next-Gen Software'
+  url: /resources/ebook-ciso-secure-software/
+  image: /images/resources/security.png
+  type: 'eBook'
+  topics:
+    - DevSecOps
+    - Security
+  solutions:
+    - Security and quality
+  teaser: 'Learn the three shifts of next-gen software and how they impact security.'
+```
+
+**IMAGES to choose from (select one):**
+*[Shortcuts to Images Folder](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/resources)
+* `/images/resources/cloud-native.png`
+* `/images/resources/code-review.png`
+* `/images/resources/continuous-integration.png`
+* `/images/resources/devops.png`
+* `/images/resources/git.png`
+* `/images/resources/gitlab.png`
+* `/images/resources/security.png`
+* `/images/resources/software-development.png`
+* `/images/resources/resources-gitops.png`
+
+**TOPICS to choose from (add all that apply):**
+
+*Note from @jgragnola: let's see if we can align this with topics in Pathfactory for efficiency (if we don't go the route of Pathfactory explore page).*
+
+* Agile
+* CD
+* CI
+* Cloud Native
+* DevOps
+* DevSecOps
+* Git
+* GitLab
+* Public Sector
+* Security
+* Single Applicaton
+* Software Development
+* Toolchain
+
+## How to extend analyst asseets
+{: #extend-analyst-assets .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+At times, we will extend the rights to an asset if it is heavily used by sales or performing in campaigns. In that case the decision is indicated in the [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst).
+
+Follow the steps outlined [in the Pathfactory Content Library Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#replacing-or-updating-the-verson-of-an-asset-after-initial-upload). 
+
+## How to retire analyst assets when they expire
+{: #retire-analyst-assets .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) will be opened by the Analyst Relations DRi for each analyst asset, and related to the overarching Epic (with due date for when the asset is set to expire). When the decision is made to expire the asset, the teams involved will check off their respective action items in the issue.
+
+### Retire Marketo landing page
+{: #retire-marketo-page}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+**First you will remove the form from the page and add a "no longer available" message**
+* In the Marketo program, click "edit" on the Registration Page
+* On right rail under "Variables" (below "Elements"), find `2column Visibility` and switch to "Hidden" 
+* On right rail under "Variables" (below "Elements"), find `2column Sidebar` and switch to "No Sidebar" 
+* On right rail under "Variables" (below "Elements"), find `flex1 Visibility` and switch to "Visible"
+* In flex1 section, double-click then click to edit in HTML > add the code below into the section and save
+* Approve Landing Page and test live. You should no longer be able to see the form or paragraph text, and only see the notice about resource no longer being available. 
+
+```
+<h1>This resource is no longer available.</h1>
+<p>Thank you for your interest in this resource, but it is no longer available for download. <a href="https://about.gitlab.com/analysts/" target="_blank" id="">Click here to visit our industry analysts page to view other reports and best practices!</a></p>
+```
+
+### Remove from Intelligent Nurture
+{: #remove-intelligent-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Please follow the process outlined in the [Emails/Nurture Handbook](/handbook/marketing/demand-generation/campaigns/emails-nurture).
+
+### Remove from Pathfactory
+{: #remove-intelligent-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Please follow the process outlined in the [Pathfactory Handbook](/handbook/marketing/marketing-operations/pathfactory/content-library/#removing-an-asset-from-the-library).
+
+### Marketo automation and setup for gated landing page
+{: #steps-gated-landing-pages}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+**!!! REMINDER: We are using ungated content journeys via Pathfactory. This process should only be used for specific scenarios, and used sparingly.**
+
+[Watch the video tutorial >](https://www.youtube.com/watch?v=RrmDCZPh1nw)
+
+:exclamation: Dependencies: delivery of final asset, completion of final landing page copy, and final asset added to pathfactory and placed in a track must be complete before setting up the Marketo program.
+
+**The TL;DR of what you'll do:**
+* Create Marketo program, tokens, and SFDC campaign sync
+* Edit registration page and thank you page URLs
+* Activate smart campaign(s)
+* Update SFDC campaign
+* Test live registration page and flows
+* Add new content to the Resources page (separate issue)
+
+#### Create Marketo program, tokens, and SFDC campaign sync
+{: #steps-gated-mkto-sfdc}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+  * Clone the [Marketo Gated Content Template](https://app-ab13.marketo.com/#PG5111A1) and name new program using naming convention (YYYY_Type_AssetName, i.e. 2020_report_GarnterVOC_ARO)
+  * Create SFDC program (Program Summary > `Salesforce campaign sync` > click "not set" and choose "Create New" from dropdown) - leave the name as auto-populates, and add the epic url to the description and "Save"
+  * Update Marketo tokens (Program Summary > "My Tokens" tab)
+    * `{{my.bullet1}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
+    * `{{my.bullet2}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
+    * `{{my.bullet3}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
+    * `{{my.bullet4}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
+    * `{{my.contentDescription}}`	- 2-3 sentences with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679), this will show up in page previews on social and be used in Pathfactory description.
+    * `{{my.contentDownloadURL}}` - skip updating in initial registration page setup (update during on-demand switch), Pathfactory link WITHOUT the `https://` NOR the email tracking part (`lb_email=`)
+      * Example of correct link to include: `learn.gitlab.com/gartner-voc-aro/gartner-voc-aro` - the code in the Marketo template assets will create the URL `https://learn.gitlab.com/gartner-voc-aro/gartner-voc-aro?lb_email={{lead.email address}}&{{my.utm}}`
+      * Note that both parts of this url include custom URL slugs which should be incorporated into all pathfactory links for simplicity of tracking paramaeters
+    * `{{my.contentEpicURL}}` - no longer used in automation, but helpful for reference
+    * `{{my.contentSubtitle}}` - content subtitle to display to viewer (throughout landing page, emails, etc.)
+    * `{{my.contentTitle}}`	- content title to display to viewer (throughout landing page, emails, interesting moments, etc.), with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
+    * `{{my.contentType}}`	- content type to display to viewer (throughout landing page, emails, interesting moments, etc.)
+    * `{{my.contentTypeSFDC}}` - pick from following list (critical to avoid Marketo > SFDC sync errors): whitepaper, report, video, eBook, general
+    * `{{my.emailConfirmationButtonCopy}}`	- leave as `Download`  (but can be updated if needed)
+    * `{{my.formButtonCopy}}`	- leave as `Download  now` (but can be updated if needed)
+    * `{{my.formHeader}}`	- leave as `Free Instant Download:` (but can be updated if needed)
+    * `{{my.formSubhead}}`	- form subhead (not currently used for gated content landing page to try to keep form shorter)
+    * `{{my.heroImage}}` - image to display above landing page form ([options in Marketo here](https://app-ab13.marketo.com/#FI0A1ZN9784))
+    * `{{my.introParagraph}}`	- intro paragraph to be used in landing page and nurture email, with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
+    * `{{my.mpm owner email address}}` - no longer used in automation, but helpful to know who to go to about setup
+    * `{{my.or}}` - leave as `?` (but can be updated to `&` if during Pathfactory upload, the custom URL slugs were not applied to both the asset and the track). If this is not correctly applied and there are multiple `?` question marks in the URL, it will break. [WATCH THE VIDEO EXPLAINER](https://www.youtube.com/watch?v=VHgR33cNeJg)
+    * `{{my.pdfVersion}}`	- this should be the GitLab repo link (for safety backup if Pathfactory were to go down)
+    * `{{my.socialImage}}`	- image that would be presented in social, slack, etc. preview when the URL is shared, this image is provided by design/social, leave the default unless presented with webcast specific image.
+    * `{{my.utm}}` - this should match the aligned campaign utm
+    * `{{my.valueStatement}}` token with the short value statement on what the viewer gains from the webcast, this ties into the follow up emails and must meet the max/min requirements of the [character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
+
+#### Edit registration page and thank you page URLs
+{: #steps-gated-registration-page}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+  * Right click the landing page object > "URL Tools" > "Edit URL Settings"
+  * Input new Registration Page URL (format: `resources-type-name-of-asset`, i.e. `resources-ebook-ci-best-practices`)
+  * Input new Thank You Page URL (format: `resources-type-name-of-asset-thank-you`, i.e. `resources-ebook-ci-best-practices-thank-you`)
+  * For both, leave `"Throw away" existing url` selected and click save
+
+#### Edit "resulting page" from the form submit
+{: #steps-gated-resulting-page}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+  * The cloned program will automatically reference the Marketo program template Thank You Page
+  * Right click the registration landign page > "Edit Draft"
+  * On the right rail of the edit mode, under `Elements` right click on the `Form Custom` element and click "Edit"
+  * Next to `Follow-up page`, clear out the automatic reference to the template, and start to type in your program name - the approved thank you page should show up. Choose your thank you page
+  * Click "Swap" button at the bottom
+  * At top left of page, click `Landing Page Actions` > "Approve and Close"
+
+#### Activate smart campaign(s)
+{: #steps-gated-activate-smart-campaigns}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+  * Click to `01 Downloaded Content` smart campaign
+  * Smart List: *it's all set!* For your first few, feel free to check that it references the program landing page (it should do this automatically)
+  * Flow: it's all set! For your first few, feel free to review the flows (but they are all using tokens, so it should be ready to go automatically)
+  * Schedule tab: click "Activate" (note: the settings should be that "each person can run through the flow once every 7 days" - this is to avoid bots resubmitting repeatedly)
+
+#### Update SFDC campaign
+{: #steps-gated-update-sfdc}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+  * Navigate to [https://gitlab.my.salesforce.com/701?fcf=00B61000004NY3B&page=1&rolodexIndex=-1] campaigns in Salesforce
+  * `Campaign Owner` should be the campaign creator
+  * `Active` field should be checked
+  * `Description ` must include the epic url, best practice to include the registration page URL
+  * `Start Date` should be date of launch
+  * `End Date` should be one year later
+  * `Budgeted Cost` is required, if cost is $0 list `1` in the `Budgeted Cost` field - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation. 
+  * `Bizible Touchpoints Enabled` leave this blank (because this would be an online touchpoint)
+
+#### Test live registration page and flows
+{: #steps-gated-testing}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+  * Click to the landing page object and click "View Approved Page"
+  * Final QA of all copy
+  * Submit the form
+  * Final QA that the form submit brings you to the thank you page
+  * Final QA that the link on the thank you page sends to Pathfactory **with** the tracking for the email address (`&lb_email=[email submitted in form]`)
+  * Check that you received the follow up email
+  * Final QA of confirmation email copy
+  * Final QA that the confirmation email link sends to Pathfactory with the tracking for the email address  (`&lb_email=[email submitted in form]`)
+
+## Potential backup process
+{: #retire-marketo-page .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+To be completed by the content owner if Pathfactory access is granted. If no access, please open an issue in Campaigns team based on epic category above.
+
+**Add to /downloads/ repository** (only available and recommended for assets under 2 MB size)
+
+*The purpose of this step is to make it possible to flip the autoresponder if Pathfactory were to have an outtage, at which point, we would still have the PDF version available in Marketo for a quick turnaround.*
+1. Save the pdf to your computer with naming convention `[asset-type]-short-name-asset`, ex: `ebook-agile-delivery-models`
+1. Navigate to the (de-indexed) [`resource/download`](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/uncategorized/source/resources) directory
+1. Where it says `www-gitlab-com / sites / marketing / source / resources / +`, click the plus drop down and select "Upload File"
+1. Upload the file you've saved to your computer with the naming convention above
+1. For commit message, add `Upload [Asset Type]: [Asset Name]`, check box for "create new merge request", name your merge request, and click "Upload file"
+1. Add description to MR, complete the author checklist, assign to `@jgragnola` and click "Submit Merge Request"
+1. In your Marketo program, for the `pdfVersion` My Token, add the naming convention above which will be available when the MR is merged. (the token should look like `https://about.gitlab.com/resources/downloads/add-file-name-here.pdf`)
