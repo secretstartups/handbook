@@ -31,7 +31,7 @@ Meetings are scheduled as: Sales & Marketing, G&A, Product (twice per quarter); 
 ## Scheduling
 The Sr. EBA to the CFO is the scheduling DRI for the Monthly Key Reviews and will schedule no more than 2 Key Reviews on a given day. The Key Review meeting invitations will utilize that review's functional DRI's Zoom account, always be set to record, and set the Sr. EBA to the CFO and the functional DRI's corresponding EBA as co-hosts.  
 
-A Key Review should not be cancelled; permission to cancel or make changes to the Key Review schedule must be requested in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel, tagging the CFO for approcal and the Sr. EBA to the CFO for awareness. If the CFO is not available, the CEO will make the decision. All changes to the Key Review schedule and/or invites have to be posted in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
+A Key Review should not be cancelled; permission to cancel or make changes to the Key Review schedule must be requested in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel, tagging the CFO for approval and the Sr. EBA to the CFO for awareness. If the CFO is not available, the CEO will make the decision. All changes to the Key Review schedule and/or invites have to be posted in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 
 Each month's Key Review schedule will be posted in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel on the first Monday of each month (if that Monday falls on a holiday it will be posted on the next business day).
 
@@ -39,12 +39,12 @@ Each month's Key Review schedule will be posted in the [#key-review](https://git
 
 Required invites are the CEO, the CFO, and the function head.
 Optional attendees are all other members of [the e-group](/company/team/structure/#e-group), Directs Group, and Chief of Staff to the CEO Group. Cross-Functional Initiatives DRIs are also invited to all meetings.
-The meetings are open to all team members who are interested.
+The meetings are open to all team members who are interested with their direct managers approval.  
 The meetings are also to be livestreamed to GitLab Unfiltered, with the distinction of being streamed as Private or Public, depending on the department.
 
 Functions that have these meetings are:
 
-1. Sales & Marketing (Michael McBride & Ashley Kramer - function DRIs) scheduled twice per quarter  
+1.  Sales & Marketing (Michael McBride & Ashley Kramer - function DRIs) scheduled twice per quarter  
 1.  Finance (Brian Robins - function DRI) scheduled twice per quarter  
 1.  Legal (Robin Schulman - function DRI) scheduled twice per quarter  
 1.  People Group (Wendy Barnes - function DRI) scheduled twice per quarter  
