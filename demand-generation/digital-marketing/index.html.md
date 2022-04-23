@@ -19,7 +19,7 @@ The Digital Marketing team generates new prospects through paid channels by buil
 
 ### Team
  
-- [Matt Nguyen](https://gitlab.com/mnguyen4) - Manager, Digital Marketing
+- [Ashley Kramer](https://gitlab.com/ashleykramer) - Manager, Digital Marketing
 - [Leslie Stinson](https://gitlab.com/lstinson) - Digital Marketing Manager
 - [Zac Badgley](https://gitlab.com/zbadgley) - Digital Marketing Manager
 

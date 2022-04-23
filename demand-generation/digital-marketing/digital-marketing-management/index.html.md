@@ -344,7 +344,7 @@ Because GitLab is now a publicly traded company, our finances are required to be
    * Landing Page URL(s)
    * Campaign/Finance tag
    * If you would like guidance from the DMP around certain items, please make a comment within the issue.
-* Assign to both Matt Nguyen and Leslie Stinson
+* Assign to both Ashley Kramer and Leslie Stinson
 * Digital Marketing will then create an issue for our digital agency PMG.
    * Only Digital Marketing can create issues within Digital Advertising (our project for PMG).
    * Digital Marketing will liaise between the campaign owner and the agency within separate issues so wires are not crossed.
