@@ -36,6 +36,9 @@ Say 👋 in the [SMB Marketing Slack channel](https://gitlab.slack.com/archives/
 #### FY23 plan and progress
 [This presentation documents the SMB Marketing FY23 plan and progress](https://docs.google.com/presentation/d/1viHGo1frmUOu-Oc3afgI2UouHBk9BZhYe4qzF7IQFbw/edit?usp=sharing).
 
+#### Monthly sync of SMB Sales and SMB Marketing
+We share additional status reports in our monthly sync with SMB Sales, when we review deliverables and results, actuals to targets, and upcoming initiatives. [Notes and recordings are open to GitLab Team Members](https://docs.google.com/document/d/1jkHbEb0OHaie7UgDrC8JntpYCNXF-bcot0Ew4pcAHIM/edit?usp=sharing).
+
 #### Weekly status report
 The SMB Marketing weekly status report is published in our [team Slack channel](https://gitlab.slack.com/archives/C02U0386T5Y) and [in this FY23 archive](https://docs.google.com/document/d/1qQ6Cs-33ijxOnWp1rjdahJDP43vD1isnDrzWCeOT30c/edit?usp=sharing).
 
