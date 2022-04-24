@@ -178,10 +178,10 @@ You can search for organizations using the ZD search (see screenshot below).
 
 Before you can associate a user with an organisation, please ensure that you have:
 
-[ ] [identified the user as a customer](#identifying-customers)
-[ ] verified their proof of entitlement
+1. [identified the user as a customer](#identifying-customers)
+1. verified their proof of entitlement
 
-If these conditions are not fulfilled, please ping their AM/TAM in the `#account-management` _before_ adding the user.
+If these conditions are not fulfilled, ping their AM/TAM in the `#account-management` _before_ adding the user.
 
 #### Add the user to the organization
 
