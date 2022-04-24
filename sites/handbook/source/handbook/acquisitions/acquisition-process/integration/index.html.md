@@ -41,6 +41,7 @@ The DRI for the integration stage is the Sr. Dir. Corporate Development. This wi
     1. Product and engineering champions
     1. Acquisition lead (Corp. Dev. champion)
     1. Main engineer leading the integration efforts from the acquired company
+1. Changes to milestones - integration milestones are subject to changes as we work towards accomplishing them. As these milestones may have contractual obligations and impact wider product vision ambitions, **any and all** changes to milestone language have to be approved by the three deal champions: corp dev, product and engineering. Small changes may be addressed async but in general it is preferred to discuss changes over the Monthly check-in call.
 
 ### People integration
 
