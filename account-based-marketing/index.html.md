@@ -32,17 +32,27 @@ The goals for new first-order MQLs and SAOs are derived from workbacks of sales 
 
 - **North Star Metric:** MQA, SAO from New First Order Key Accounts
 - **Supporting Metrics:** Demandbase campaign metrics
+
+## FY23 Plans
+
+To see an overview of the FY23 ABM Plan, GitLab team members can search Google Drive for `ABM FY23 Plan`.
+
 ### OKRs
 {: #okrs}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **OKRs = Objective + Key Result**
 
+#### FY23-Q2 OKRs (https://gitlab.com/groups/gitlab-com/marketing/-/epics/2825)
+
+- [Update ICP in Demandbase in collaboration with Product Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2827)
+- [Deliver X SAO from Key Account List](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2826)
+
 #### FY23-Q1 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2602))
 
 - [Update Key Account Account List in Collaboration with Sales](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2604)
-- [Update Ideal Customer Profile and Demandbase Foundations](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2669)
-- [Execute multi-channel ABM campaigns to drive SAOs out of FAL](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2668)
+- [Update Demandbase Foundations](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2669)
+- [Define approach for integrated ABM campaigns between Marketing, SDR and Sales](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2668)
 
 #### FY22-Q4 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/-/epics/1654))
 
@@ -114,7 +124,6 @@ In between bi-weekly Campaigns Team Connect calls:
 * [Overall ABM Prioritization](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536730?label_name[]=ABM)
 * [Current Milestone Prioritization](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?scope=all&label_name[]=ABM&assignee_username=megan_odowd)
    - [Megan's Current Milestone Priorities](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?scope=all&label_name[]=ABM&assignee_username=megan_odowd)
-   - [Christina's Current Milestone Priorities](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?scope=all&label_name[]=ABM&assignee_username=cmcleod516) 
 
 ### Labels
 {: #labels}
@@ -134,9 +143,9 @@ In between bi-weekly Campaigns Team Connect calls:
 {: #team-labels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* `mktg-intmktg`: DRI is in Integrated Marketing team
-* `abm`: DRI is in ABM team
-* `abm-request`: Issue requesting ABM team support (did not originate from DRI team)
+* `ABM`: DRI is in ABM team
+* `linkedin`: any issues that are related to LinkedIn ABM campaigns
+* `demandbase`: any issues that are related to Demandbase ABM campaigns
 
 #### Status labels
 {: #intake-labels}
@@ -149,22 +158,6 @@ In between bi-weekly Campaigns Team Connect calls:
 - `mktg-status::plan`: this is used for work that is in an earlier stage of planning and a specific request has not been made
     - This will likely be used mainly by ABM team members on issues that are not high priority but there is a desire to capture the idea/notes.
 
-<!-- Not including Until triage able to be handled
-### Turnaround Time and SLAs
-{: #slas}
-
-⏱ **The SLA (Service Level Agreement) is dependent on the type of request (noted in the issue) and begins when all details (including 100% final copy) is provided in the request issue.**
-- Tip: Submit issues with full "Submitter Details" complete
-- **Copy must be 100% final in order to be triaged.** This includes final edits for copy, grammar, sentence structure and readability, as well as review by relevant stakeholders (such as managers, product mktg, content mktg, sales, etc).
-- The issue requester is responsible for ensuring that appropriate `mktg-status` labels are applied to the issue (issue templates have the tags built in to assist).
-
-**The due date applied when the issue is submitted is not final.** The [workback calculator](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029) is a guideline to assist your project planning, however if details are not provided in the issue 5 business days prior by requestor, the issue timeline will be at risk and likely to be pushed out.
-  - If an issue due date is prior to the SLA (based on date "submitter details" were complete), the due date will be changed to meet the SLA timeline (5 BD from date of final details submitted)
-  - For example, if the issue is submitted Januarry 1, with a due date of Januaruy 15, BUT details are not submitted until Oct 14, THEN the issue due date will be moved to January 21 by the triage manager.
-  - The manager of ABM team and assignee are the ONLY individuals allowed to adjust due dates upon triage.
-  - 🙏 Please **do not** ask ABM team members to complete work in a shorter timeline as this is disruptive to their milestone, and their priority is to plan, implement, and optimize ABM campaigns and tactics. They will manage their milestones appropriately and pull in work as bandwidth allows, and based on the SLA.
-  -->
-
 ### Issue Templates
 {: #issue-templates}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -173,25 +166,39 @@ We ask that teams request work using the following issue templates in the ABM pr
 
 Note on timelines: Requests will be committed to as bandwidth permits.
 
-* [Milestone Planning](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_milestoneplan) - opened by ABM manager and due prior to start of new milestone
-* [WIP Issue](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_wip) - opened throughout a milestone for issues being committed to current milestone
-* [Demandbase Campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Demandbase_Campaign) - opened by ABM team when new Demandbase campaign being defined (new audience and scope)
-* [Reporting](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Reporting) - opened by ABM team to complete specific reporting and analysis
-* [Sigstr Campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Sigstr_Campaign) - opened by AMB team to create ABM Sigstr campaign
-* [1:1 ABM Account Campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Account_Campaign_Tracking_Issue) - opened by ABM team when 1:1 ABM strategy confirmed for an account
-* [Patfhactory Track](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Campaign_Pathfactory_Track) - opened by ABM team when new Pathfactory track is needed; when possible, use existing PF tracks
-* [Patfhactory ExploreHub Page](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Pathfactory_ExploreHub_Page) - opened by ABM team when new Pathfactory ExploreHub Page is needed
-* [Direct Mail](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Direct_Mail_Template) - opened by ABM team for Direct Mail campaigns
+**ABM Team Issues:**
+* [abm-milestoneplan](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm-milestoneplan) - opened by ABM manager and due prior to start of new milestone
+* [abm-wip-issue](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm-wip-issue) - opened by ABM team for issues being committed to in current milestone
+* [abm-plan-issue](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm-plan-issue) - opened by ABM team for issues in a future milestone
+* [abm-analysis](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm-analysis) - opened by ABM team to complete specific reporting and analysis
+* [tier1-plan](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=tier1-plan) - opened by ABM team when 1:1 ABM strategy confirmed for an account
+* [abm-qbr-takeaways](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm-qbr-takeaways) - opened by ABM team for QBRs
+* [finance-accruals](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=finance-accruals) - opened by ABM team manager in prep for end of quarter accruals process
+
+**Demandbase Issues:**
+* [demandbase-campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=demandbase-campaign) - opened by ABM team when new Demandbase campaign being defined (new audience and scope)
+* [demandbase-campaign-analysis](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=demandbase-campaign-analysis)
+* [demandbase-bug](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=demandbase-bug)
+* [demandbase-icp](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=demandbase-icp)
+* [demandbase-keyword-set](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=demandbase-keyword-set)
+
+**LinkedIn Issues:**
+* [linkedin-campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=linkedin-campaign)
+
+**Other Tactics:**
+* [sigstr-campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=sigstr-campaign) - opened by AMB team to create ABM Sigstr campaign
+* [direct-mail](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=direct-mail) - opened by ABM team for Direct Mail campaigns
+* [content-syndication](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=content-syndication) - opened by ABM team for Content Syndication campaigns
+* [pathfactory-track](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=pathfactory-track) - opened by ABM team when new Pathfactory track is needed; when possible, use existing PF tracks
+* [pathfactory-explorehub](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=pathfactory-explorehub) - opened by ABM team when new Pathfactory ExploreHub Page is needed
 
 ## Budgeting
 {: #budgeting .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The Senior Manager, Marketing Campaigns and ABM managest the budget in Allocadia.
+The Senior Manager, Marketing Campaigns and ABM manages the budget in Allocadia.
 
-Timeline
-* T-X days before start of quarter: Planned budget added to Allocadia
-* T-3 days from end of month: Accruals due to Finance
+[See budget-related Allocadia timelines here](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates)
 
 ## Integrations
 {: #integrations .gitlab-purple}
