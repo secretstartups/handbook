@@ -1646,3 +1646,7 @@ Anyone can test their knowledge on GitLab Communication. To obtain a certificate
 ## Crisis Process
 
 GitLab has a specific process to follow in crisis situations to ensure effective communications. Details can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/company/crisis-process).
+
+## Avoid using Git in Project Names
+
+Avoid using _Git_ in internal and external compnay related programs. While GitLab started as a source control platform, we have become [The DevOps Platform](https://about.gitlab.com/solutions/devops-platform/).
