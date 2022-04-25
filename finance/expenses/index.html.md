@@ -70,36 +70,7 @@ At a minimum, information about the items/products purchased and the total purch
 
 Sometimes expenses get rejected by our third party accounting team (Montpac). Before following the steps below, please ensure your purchases are not identified in our [list of non-reimbursable expenses.](/handbook/finance/expenses/#--non-reimbursable-expenses). An expense might get rejected if it is more than 20% higher than the guideline price listed in our [office equipment and supplies](/handbook/finance/procurement/office-equipment-supplies/) handbook page.
 
-
-## Expense Category and Policy
-
-| Expense Category | Policy |
-| ------ | ------ |
-| **AirFare** | All airfares which are not submitted through TripActions can be reimbursed. Employees must purchase economy tickets, unless the employee has physical limitations and the upgrade is approved by their manager. GitLab does not cover expenses for significant others or family members. |
-| **Car Rental** | All car rentals which are not submitted through TripActions can be reimbursed. Up to full sized car allowable. **Third Party Liability** - purchase the liability insurance that is excess of the standard inclusion of State minimum coverage in the rental agreement at the rental agency. GitLab’s insurance policy provides liability insurance for rental cars while conducting company business, but it may be excess over any underlying liability coverage through the driver or credit card company used to purchase the rental. Purchase the liability offered at the rental counter if there are foreign employees renting autos in the US or Canada. While workers' compensation would protect an injured US employee, other passengers may have the right to sue. To ensure that GitLab has protection when a foreign employee invites another person into the car we recommend the purchase of this insurance when offered at the rental counter. **Physical Damage/Collision Damage Waiver** - `DO NOT` purchase the Collision Damage Waiver offered at the rental counter. GitLab purchases coverage for damage to rented vehicles. If travel to Mexico is required, purchase the liability insurance for Mexico offered at the rental counter. You should verify that the rental agreement clearly states that the vehicle may be driven into Mexico and liability coverage will apply. **Countries other than the US and Canada**: **Third Party Liability** - purchase the liability insurance offered at the rental counter when traveling outside the US and Canada. Automobile Bodily Injury and Property Damage Liability insurance are required by law in almost every country. Please verify this coverage is included with the rental agreement. **Physical Damage/Collision Damage Waiver** - purchase the Collision Damage Waiver or Physical Damage Coverage offered by the rental agency when traveling outside the US and Canada. In the event of an accident resulting in damage to the rental car, the foreign rental agency will charge the credit card used to make the reservation with an estimated amount of repair costs if insurance is not purchased. If this happens, GitLab does not purchase Foreign Corporate Hired Auto Physical Damage Coverage to reimburse for damages. |
-| **Co Working Space** | Reimbursable up to $700 USD. Must be pre-approved by Manager and Finance (email `expenses@gitlab.com`) before expensing. No contracts are allowed to be under the GitLab name and it must be under team members. Gitlab will not cover security deposits or advance payments for co-working space. The co-working space must be submitted monthly in the month it pertains to. |
-| **Company Functions** | Reimbursable costs that are allowed are set in advance by GitLab management and are specific to each event. |
-| **Conferences** | All costs associated with attending a conference to represent GitLab are reimbursable and a completed [Growth and Development form](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) will need to be attached to the expense report upon submission. |
-| **Gifts for Significant Life Events** | The event in question must pertain to a GitLab team member or the immediate family of a GitLab team member and will be allocated to the respective team members departmental budget-the spend range for significant life events is $75 to $125 USD. |
-| **Hotel** | All hotel bills which are not submitted through TripActions can be reimbursed. Dry cleaning is allowable if the stay is over 3 days. Room service is allowable as a meal for ex. breakfast/lunch/dinner. Meals are to be segregated from the hotel bill and tagged under “Meals Company Provided” Category. Parking must be segregated and tagged under “Transportation”. Movies, mini bars are not allowed as a claim. |
-| **Travel Incidentals** | Acceptable travel incidental costs include dry cleaning, hotel taxes, hotel resort fees, internet charges, and office centers. Dry cleaning is only permitted if the stay is over 3 days. |
-| **Internet** | All monthly internet bills are reimbursable, but GitLab will not reimburse for any initial setup/change fees. |
-| **Laptops** | All laptops are purchased through GitLab unless an employee is in a region where GitLab cannot deliver a laptop. Team member laptops can be refreshed after three years of employment. If a team member needs a replacement laptop due to damage, they must reach out to IT via an issue before purchasing a new one. [Laptop handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptops) for your reference. |
-| **Marketing Events** | It is used for making small reimbursable purchases for marketing events which are under $2,500 USD and which cannot be paid by Corporate Credit Card or through the Procurement Process (Coupa). |
-| **Meals with Clients** | Team members should use their discretion while claiming meals with clients. |
-| **Meals: Company Provided** | To be used for team activities and food/beverages associated with travel. $100 USD per day cap during travel. |
-| **Mileage** | Per KM or Mile rate based on location of travel. |
-| **Office Equipment and Supplies** | Follow [office equipment and supplies matrix](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/) provided by Procurement Team. |
-| **Phone** | $200 monthly threshold for employees whose phones are vital to their position. Cell Phone equipment, accessories, and family plans are not reimbursable. |
-| **Postage/Shipping** | Postage/shipping/custom charges related to the sending and or receiving of work documentation, or special packages can be reimbursed. |
-| **Professional dues, membership fees** | All costs associated with professional dues and membership fees are reimbursable and a completed [Growth and Development form](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) will need to be attached to the expense report upon submission. |
-| **Software** | All software subscriptions are not reimbursable.  Team members that would like to purchase software will need to go through the Procurement process to get it paid through Coupa Virtual Card.  The process is noted [here](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/). |
-| **Team Building** | To be used for team activities and food/beverages associated with special team events. Amount allowed is dependent on their department budget for the year. |
-| **Training/Tuition** | All costs associated with training or tuition are reimbursable and a completed [Growth and Development form](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) will need to be attached to the expense report upon submission. |
-| **Transportation/Parking** | Parking, Tolls, Taxi, Uber pertaining to travel to/from GitLab events, clients, or conferences is acceptable. |
-
-
-### Approved Categories for Reimbursement
+### Additional Details of Expense Policy
 
 The company will reimburse for the following expenses if you need it for work or use it mainly for business, and local law allows us to pay for it without incurring taxes:
 
@@ -125,23 +96,6 @@ The company will reimburse for the following expenses if you need it for work or
     - For loaner laptops: Do not hesitate when expensing a loaner laptop while your primary laptop is being repaired. Use your best judgment identifying a local vendor. Please check out our [laptop repair](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptop-repair) page for more info.
 1. English lessons. At GitLab the lingua franca is [US English](/handbook/communication/#american-english), when English is not your native language it can limit you in expressing yourself.
 
-### Co-Working or external office space
-
-If working from home is not practical you may submit for reimbursement for the cost of a co-working or external office space. This can include non-traditional spaces that require a recurring (full-time monthly) membership as long as you average at least ~4 working days per month at the space. If flexible membership options exist in the form of daily passes or hourly packages, then these can be expensed as well, as long as the prorated cost per month does not exceed that of a recurring membership subscription. For instance, if both the monthly subscription and a hypothetical 10-day pass is $200 USD, then you can only expense one such pass each month.
-
-Any agreement must be between the team member and the co-working space (i.e. GitLab will not sign or appear on the agreement). All expenses must be submitted through the normal expense procedure. The Company will not be responsible for the deposit, and therefore will not reimburse for the upfront deposit. This will solely be the responsibility of the employee. In addition, the company will not be responsible for any expense that relates to office space subsequent to the termination of service between GitLab and the team member.
-
-If you are asked to pre pay for several months, or even the full year, you can only submit expenses monthly. Therefore you would take the total cost paid and divide by the number of months that you prepaid and expense that amount each month. Example: prepay 6 months at a total cost of $600. 600/6 = 100. So you would expense 100 each month via Expensify using the same invoice copy until you were fully reimbursed for that period. Unfortunately we cannot reimburse for prepayments that span multiple months in 1 lump sum.
-
-There is no set limit for co-working space fees per month. We ask that you do your diligence and assure that you are selecting an economic option that will be suitable for your needs and also a reasonable cost for your location.
-
-### Work-related online courses and professional development certifications
-
-GitLab team members are allotted [$10,000 USD](https://www1.oanda.com/currency/converter/) per calendar year to spend on one or multiple training courses. Follow the process for submitting a [Growth and Development Reimbursement](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit). 
-1. Expenses related to reimbursement of tuition will be capped at $1,000 USD within Expensify. Anything over $1,000 USD must go through payroll for reimbursement. 
-1. Team members must attach a screenshot of the G&D issue when submitting a expense report for tuition as well as their pass/fail grade report. 
-1. Please select the "Training" category option. 
-
 ### Domain Name Registration and Maintenance Policy
 
 #### Scope and Purpose
@@ -161,50 +115,6 @@ Domain names are key assets in GitLab's intellectual property portfolio. Central
 #### Transfer of existing GitLab-related Domain Names
 - All GitLab-related Domain Names currently registered in the name of team members, or registered with unapproved registrars, should be transferred to GitLab using the process outlined in the [dns-domain-transfer-request issue template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=dns_domain_transfer_request) as soon as possible.
 - Expense reports submitted by team members for expenses incurred on or after `2022-08-01` in maintaining registrations of GitLab-related Domain Names in the name of team members, or with unapproved registrars, will be rejected.
-
-## Expense Reimbursement
-
-## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Office Equipment and Supplies
-
-The company will reimburse for these [office equipment and supplies](/handbook/finance/procurement/office-equipment-supplies/) if they <b>assist you in achieving greater business [results](/handbook/values/#results)</b>, and local law allows us to pay for items without incurring payroll taxes. Please keep in mind that any purchase (other than a laptop) that will cost GitLab $1000 USD per item (or over) will require prior approval from your Manager and Accounting.
-
-### Setting up a home office for the first time?
-
-Take inspiration from our [all-remote page covering key considerations for a comfortable, ergonomic workspace](/company/culture/all-remote/workspace/). You can also consult the `#questions` and `#remote` channels in Slack for recommendations from other GitLab team members.
-
-When you evaluate the value of greater results relative to the cost of an item, we encourage you to [spend company money like its your own](/handbook/values/#spend-company-money-like-its-your-own). This means weighing the cost of a dollar spent to the value that it brings to the business, just as you would assess a personal dollar that you spend against the relative benefit that it brings you.
-
-When reimbursing through Expensify please select "reimbursable" for the portion which GitLab will be covering, and add a note explaining the receipt difference.
-
-- Please note Expensify cannot sync "non-reimbursable" line items, **only reimbursable line items are to be entered in Expensify**.
-
-Team members should not use a Corporate Credit Card to purchase office equipment for their personal workspace. All office equipment purchases for a team member's personal workspace should be made on a personal credit card and expensed.
-
-For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) policy and procedure.
-
-### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Software
-
-1. We do not issue Microsoft Office 365 licenses, as GitLab uses Google Workspace
-([Docs](/handbook/communication/#google-docs), Slides, Sheets, etc.) instead.
-1. For security related software, refer to the security page for [laptop and desktop
-configuration](/handbook/security/#laptop-or-desktop-system-configuration).
-1. We do not currently issue Docker Desktop licenses (for more information see [team-member-enablement#1787](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/1787)). For most team members the [alternatives documented on the Tools and Tips page](/handbook/tools-and-tips/mac#docker-desktop) may suffice. If you need an exception, please see the exception section on the same page
-
-#### Individual Subscriptions
-
-GitLab does not reimburse individual software subscriptions (e.g. Apple Music, Krisp, etc.). Software subscriptions should be set up through the [company procurement process](/handbook/finance/procurement/), or by [creating an access request for an existing company subscription](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
-
-##### Subscription Exceptions
-
-Certain types of individual subscriptions are reimbursable, such as VPN service. If you are uncertain whether a particular service is reimbursable, please contact Finance by emailing `expenses@gitlab.com`.
-
-If you need a short-term or individual software subscription, or a single-pay software license, please reach out to Finance by emailing `expenses@gitlab.com` to discuss options before acquiring the software.
-
-## Other
-
-1. Business cards ordered from Moo as per the [instructions](https://about.gitlab.com/handbook/people-group/frequent-requests/#business-cards) provided by the People Experience team.
-_Urgent Business cards needed for day of start can be requested by emailing people-exp@gitlab.com. As a last resort, Moo does offer 3 to 4 Day Express service._
-1. Work-related books.
 
 ### Transport/Delivery of Second Hand and Free Procurements
 Feel free to check local second-hand/free markets when looking for equipment, especially furniture such as desks and chairs. GitLab will reimburse the cost of any transport and delivery services you need to procure the item(s) provided the total cost is reasonable based on the table in the [Office Equipment and supplies page](/handbook/finance/procurement/office-equipment-supplies/#home-office-equipment-and-supplies), factoring in any local pricing adjustments.
