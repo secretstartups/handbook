@@ -364,7 +364,7 @@ The following fields are pushed from Gainsight to their associated Salesforce fi
 
 </details>
 
-To see the complete list of fields and objects that are synced back from Gainsight to Salesforce, see [Using Gainsight Data in SFDC](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/using-gainsight-data-in-sfdc/).
+To see the complete list of fields and objects that are synced back from Gainsight to Salesforce, see [Using Gainsight Data in SFDC](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/).
 
 ## Gainsight rules engine
 
