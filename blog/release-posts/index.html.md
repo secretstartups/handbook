@@ -54,9 +54,7 @@ At a high level, the Release post schedule is:
 
 - The [Release Post Process Kickoff Tasks](https://gitlab.com/gitlab-com/www-gitlab-com/-/pipeline_schedules) pipeline runs which will trigger `bin/rake release_post:start`
 - This task creates the branches, MRs, and issues necessary to run the Release Post process
-  - If issues arise with this pipeline, contact Product Operations `@brhea`
-  - If `@brhea` is unavailable, work with your Tech Advisor to run `bin/rake release_post:start` to kickoff the XX-Y Release Post, or
-  - Follow the steps to [manually create the release post branch and required directories/files](https://about.gitlab.com/handbook/marketing/blog/release-posts/manual-release-post-kickoff/)
+- The MRs and issues will be assigned to the release post manager using the content in [release_post_managers.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_post_managers.yml)
 
 ### 1st to 10th
 
@@ -239,11 +237,17 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 - Alerting Product Operations of significant issues or hurdles that may compromise the release post
 - Supporting on tasks specific to [major releases](#major-releases) if collaborators reach out
 
-**Note:** In the following sections we refer to the GitLab version as X.Y
-and the date of the release as YYYY/MM/22. You should replace those values
-with the current version and date. The day will always be the 22nd, so no need
-to change that.
-{:.alert .alert-info}
+### How to get started
+
+Make sure you have [Maintainer](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) access to project https://gitlab.com/gitlab-com/www-gitlab-com/. If you need access, model your request after [this confidential issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/10031).
+
+[An automated task will](#schedule) create the branches, MRs, and issues necessary to run the Release Post process, including making the appropriate assignments and mentions based on the [Release Post Manager schedule](https://about.gitlab.com/handbook/marketing/blog/release-posts/managers/).
+
+If you have not been assigned to a Release Post X.Y MR by the end of the day on the 1st:
+
+  - Reach out to Product Operations `@brhea` in Slack #release-post
+  - If `@brhea` is unavailable, work with your Technical Advisor to run [`bundle exec rake release_post:start`](#release-post-branch-creation-rake-task) to kickoff the X-Y Release Post, or
+  - Follow these steps to [manually create the release post branch and required directories/files](https://about.gitlab.com/handbook/marketing/blog/release-posts/manual-release-post-kickoff/)
 
 ### Local dev environment setup to run content assembly script
 
@@ -1617,11 +1621,8 @@ Sometimes, the height of the secondary features content will be much longer in t
 
 ### Release post branch creation Rake task
 
-The release post branch can be created with the
-[`release:monthly` Rake task](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/1d5b6127115ad8a0addecba54aa1cb14df024495/Rakefile#L71-182)
-that automates most of the things that are needed for the release post merge request.
-
-When you run `bundle exec rake release:monthly`, the following things happen:
+The release post branch and most of the related directories, files, issues, and MRs are automatically created when [`release:start` Rake task](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/lib/tasks/release_post.rake) automatically runs on the 1st of the month. 
+If the script fails to run or there are pipeline issues, you can run `bundle exec rake release:start` yourself to make the following things happen:
 
 1. You are asked for the GitLab version (for example, 13.10), and the release
    post date in ISO format (for example 2021-03-22). The script then reads those
@@ -1647,8 +1648,18 @@ When you run `bundle exec rake release:monthly`, the following things happen:
    if you want to re-run the script.
 1. The [MVP template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/mvp.yml)
    is used to create the MVP file (`data/release_posts/X_Y/mvp.yml`).
-1. All the new and changed files are committed, and you are instructed to push
-   the branch to GitLab in order to create the merge request.
+1. The [performance improvement](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml) sample file is used to create the performance improvement MR using this [MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md).
+1. The [bugs](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml) sample file is used to create the bugs MR using this [MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md).
+1. The [usability improvements](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/usability_improvements.yml) sample file is used to create the usability improvements MR using this [MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md).
+1. The retro issue is generated and assigned using the [Release-Post-Retrospective template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/Release-Post-Retrospective.md)
+1. The script performs a find and replace to update the following values in all of the MRs and Issues above using content from `data/release_post_managers.yml`:
+
+- `@release_post_manager`: `manager`
+- `@tw_lead`: `structural_check`
+- `@tech_advisor`: `technical_advisor`
+- `@pmm_lead`: `messaging`
+
+1. The script performs a find and replace to update occurrences of `X-Y`, `X_Y`, `YYYY`, `MM`, `DD`, `_MILESTONE_` with the appropriate values based on the current date and milestone.
 
 ### Release post item generator
 

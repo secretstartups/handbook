@@ -62,3 +62,11 @@ a new file to the `data/release_posts/unreleased/` folder called release-post-ux
    [`release-post-ux-improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/usability_improvements.yml).
 1. On the `release-X-Y-performance-improvements` branch, add
 a new file to the `data/release_posts/unreleased/` folder called performance_improvements.yml and populate it with the content of    [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml).
+
+## Create Retrospective Issue
+
+1. Create a release post retrospective issue by using the [Release post retrospective template](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/.gitlab/issue_templates/Release-Post-Retrospective.md), and use `Release Post X.Y Retrospective` as a title.
+1. Add the appropriate milestone to the issue.
+1. Assign yourself to the issue.
+
+**Note:** After you have created the release post MR and all the related files, refer to the checklist in the MR for each action that you need to take and the due dates of each action. Keep in mind the MRs for usability improvements, bugs, and performance improvements have their own checklists to be completed, including a task for the Release Post Manager to merge these MR by the 17th prior to final content assembly.
