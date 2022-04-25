@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
-title: "Development Maintainers"
+title: "Maintainership"
 description: "Improve the Development Department Maintainership to be sustainable for the next 5 years"
-canonical_path: "/company/team/structure/working-groups/development-maintainers/"
+canonical_path: "/company/team/structure/working-groups/maintainership/"
 ---
 
 ## On this page
