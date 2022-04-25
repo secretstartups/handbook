@@ -119,7 +119,7 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 
 ## Dashboards
 
-* [People Metrics Overview](/handbook/business-technology/data-team/data-catalog/people-analytics/)
+* [People Analytics Overview](/handbook/people-group/people-ops-tech-analytics/people-analytics/)
 * [PTO By Roots (Slack)](/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html)
 * [People Key Metrics](/handbook/business-technology/data-team/data-catalog/people_key_metrics_dashboard/)
 * [People KPI Deck](/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html)
