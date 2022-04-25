@@ -76,7 +76,7 @@ The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This
 Capacity Planning issues are created without a state. After the initial assessment, one of the following labels should be applied. 
 
 1. `capacity-planning::in-progress` - there is a mitigation in progress for this alert
-1. `capacity-planning::investigation` - this alert requires further active assessment before deciding on a course of action
+1. `capacity-planning::investigate` - this alert requires further active assessment before deciding on a course of action
 1. `capacity-planning::monitor` - we need to wait for time to pass to gather further data on this issue to make a decision on how to proceed
 1. `capacity-planning::verification` - we have completed work on this issue and are  verifying the result
 
