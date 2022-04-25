@@ -1649,4 +1649,4 @@ GitLab has a specific process to follow in crisis situations to ensure effective
 
 ## Avoid using Git in Project Names
 
-Avoid using _Git_ in internal and external company related programs. While GitLab started as a source control platform, we have become [The DevOps Platform](https://about.gitlab.com/solutions/devops-platform/).
+Avoid using _Git_ in the naming of internal and external company related programs. Referencing Git creates an inaccurate perception that GitLab has a narrow focus. While GitLab started as a source control platform, it has become [The DevOps Platform](https://about.gitlab.com/solutions/devops-platform/). 
