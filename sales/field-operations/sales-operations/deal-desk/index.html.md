@@ -344,7 +344,9 @@ Amendments to subscriptions must be processed entirely before any changes can be
         *   In the case of reseller deals, please obtain the approvals in Chatter based on the approval matrix.
     *   **Order Form Manual Edits**
         *   Please note that Sales reps may only generate PDF versions of the Order Form. If you require special wording or other manual edits, please make the request by tagging @Sales-Support in chatter.
-  ######    **Explanation to the prorata calculation of add-on order forms:** - [Explanation with screenshot of example order form](https://docs.google.com/presentation/d/1HV4jYVP4yITm0FyhGbDPGmb6f-ebI0Fh480cLfw7u9M/edit#slide=id.ga42daef6d7_0_0)
+
+
+###### **Explanation to the prorata calculation of add-on order forms:** - [Explanation with screenshot of example order form](https://docs.google.com/presentation/d/1HV4jYVP4yITm0FyhGbDPGmb6f-ebI0Fh480cLfw7u9M/edit#slide=id.ga42daef6d7_0_0)
 
     *   On add-on/amendment order forms the amounts are prorated based on calendar days as per the following example (adding 10 users to existing subscription)
     *   Annual fee for 10 add-on users: 10 users x $228 = $2,280.00
@@ -354,7 +356,7 @@ Amendments to subscriptions must be processed entirely before any changes can be
 
 
 
- #### **B.  Upgrade or Switch Products During the Subscription Term**
+#### **B.  Upgrade or Switch Products During the Subscription Term**
 *   Create an “Amend Subscription” quote by following the steps in Section 2 (A) above.
     *   The **Start Date** should be the date of the product exchange. 
     *   On the **Edit Products and Charges** page, select “Add Products” and wait for the next page to load.
