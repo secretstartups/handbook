@@ -12,7 +12,7 @@ description: "Information and protocols related to GitLab promotions and transfe
 
 ## Introduction
 
-Devloping talent internally is a key component of our success at GitLab, and our promotion process is built to support that development in alignment with our [values](https://about.gitlab.com/handbook/values/). Team members have two main avenues to pursue career advancement at GitLab: 1) Via our promotion process, and 2) By applying and interviewing for open positions that are approved in our headcount plan (transfers). 
+Developing talent internally is a key component of our success at GitLab, and our promotion process is built to support that development in alignment with our [values](https://about.gitlab.com/handbook/values/). Team members have two main avenues to pursue career advancement at GitLab: 1) Via our promotion process, and 2) By applying and interviewing for open positions that are approved in our headcount plan (transfers). 
 
 Promotions are reviewed and approved once per quarter to support a consistent, predictable, and fair process. We leverage public (to GitLab) promotion documents where we outline the business results, increasing job scope, and values alignment that a team member demonstrates which support their promotion. The People Business Partner and leadership team are responsible for calibrating promotion nominations aligned with the timeline below. 
 
