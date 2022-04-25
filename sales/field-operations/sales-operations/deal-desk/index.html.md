@@ -291,7 +291,7 @@ This quote type should be only used when **new users are being added to an exist
 
 Amendments to subscriptions must be processed entirely before any changes can be made via additional amendments or a renewal opportunity. This means that the Add On Opportunity should be Closed-Won before submitting a Renewal opportunity for approval.
 
-**A.  Add-On Quote Creation**
+#### **A.  Add-On Quote Creation**
 
 *   Create the Add-on opportunity on the latest closed won annual opp (Renewal or New Business) that is related to that subscription (use the "New Add On Opportunity" button)
 *   Open the Add-On opportunity and click the **“New Quote”** button.
@@ -338,8 +338,17 @@ Amendments to subscriptions must be processed entirely before any changes can be
         *   In the case of reseller deals, please obtain the approvals in Chatter based on the approval matrix.
     *   **Order Form Manual Edits**
         *   Please note that Sales reps may only generate PDF versions of the Order Form. If you require special wording or other manual edits, please make the request by tagging @Sales-Support in chatter.
+  ######    **Explanation to the prorata calculation of add-on order forms:** - [Explanation with screenshot of example order form](https://docs.google.com/presentation/d/1HV4jYVP4yITm0FyhGbDPGmb6f-ebI0Fh480cLfw7u9M/edit#slide=id.ga42daef6d7_0_0)
 
-**B.  Upgrade or Switch Products During the Subscription Term**
+    *   On add-on/amendment order forms the amounts are prorated based on calendar days as per the following example (adding 10 users to existing subscription)
+    *   Annual fee for 10 add-on users: 10 users x $228 = $2,280.00
+    *   Number of calendar days of the add-on period: 177 days (7 Apr 2022 - 1 Oct 2022 in this example)
+    *   Prorated fee calculation: ($2,280.00 / 365 days) x 177 days = $1,105.64
+     
+
+
+
+ #### **B.  Upgrade or Switch Products During the Subscription Term**
 *   Create an “Amend Subscription” quote by following the steps in Section 2 (A) above.
     *   The **Start Date** should be the date of the product exchange. 
     *   On the **Edit Products and Charges** page, select “Add Products” and wait for the next page to load.
