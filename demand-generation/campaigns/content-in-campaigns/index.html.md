@@ -206,7 +206,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/indbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
 * [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
-* [ ] Notify Sales Comms about new report available - AR
+* [ ] [Field Announcement Request Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=field-announcement-request) (see [handbook entry](https://about.gitlab.com/handbook/sales/field-communications/#requesting-field-announcements) for more detail) - AR
 
 </details>
 
