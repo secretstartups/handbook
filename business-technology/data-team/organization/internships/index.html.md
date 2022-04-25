@@ -96,7 +96,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 | Quarter | Openings | Filled | Remaining Openings |
 | :---: | :---:  | :---: | :---: |
 | [FY23Q1](https://gitlab.com/groups/gitlab-data/-/epics/499) | 1 | 1 | 0 |
-| FY23Q2 | TBD | TBD | TBD |
+| [FY23Q2](https://gitlab.com/groups/gitlab-data/-/epics/427) | 2 | 2 | 0 |
 | FY23Q3 | TBD | TBD | TBD |
 | FY23Q4 | TBD | TBD | TBD |
 
@@ -123,7 +123,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 | Quarter | Openings | Filled | Remaining Openings |
 | :---: | :---:  | :---: | :---: |
 | [FY23Q1](https://gitlab.com/groups/gitlab-data/-/epics/499) | 2 | 2 | 0 |
-| FY23Q2 | TBD | TBD | TBD |
+| [FY23Q2](https://gitlab.com/groups/gitlab-data/-/epics/427) | 2 | 2 | 0 |
 | FY23Q3 | TBD | TBD | TBD |
 | FY23Q4 | TBD | TBD | TBD |
 
@@ -144,6 +144,30 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 - Nice to have
      - Understanding of CRISP-DM framework
      - Understanding of software industry
+
+### Data Engineering Internship for Learning
+
+#### Openings
+
+| Quarter | Openings | Filled | Remaining Openings |
+| :---: | :---:  | :---: | :---: |
+| FY23Q1 | 0 | 0 | 0 |
+| [FY23Q2](https://gitlab.com/groups/gitlab-data/-/epics/427) | 0 | 0 | 0 |
+| FY23Q3 | TBD | TBD | TBD |
+| FY23Q4 | TBD | TBD | TBD |
+
+#### Requirements
+
+- Familiarity with and Interest in the [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer/) job family 
+- BS or MS in data-related fields (statistics, computer science, engineering), but self-learners are also welcome to apply
+- Positive and solution-oriented mindset
+- Comfort working in a highly agile, intensely iterative environment
+- Self-motivated and self-managing, with task organizational skills
+- Working knowledge of SQL
+- Nice to have
+     - Understanding of software industry
+     - Prior experience in a Data Role
+     - Experience designing and managing projects
 
 ### Data Analyst Internship for Learning
 
