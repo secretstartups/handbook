@@ -255,16 +255,20 @@ C.  Provide Quote, Account, and Subscription Term Details and click “Next.”
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
 
 *   **Select “Sold To” and “Bill To” contacts.** Note that the “Sold To” contact will receive the EULA or License file via email. Note: Each contact record must have a complete address, if the address is not fully populated, you will need to update this before you can proceed with the quote. 
-*   For **Channel deals,** populate the “Invoice Owner” and "Invoice Owner Contact" fields. For **Direct Deals** leave "Invoice Owner" and "Invoice Owner Contact" blank. 
-    *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany.
-    *   If an "Invoice Owner" does not auto-populate in the drop down, this means that a Billing Account does not yet exist for the partner. Chatter `@Billing-ops` on the Partner account and ask for a Billing account to be created. 
+*   For **Channel deals,** populate the “Invoice Owner”, "Invoice Owner Contact" and "Resale Partner" fields. For **Direct Deals** leave "Invoice Owner", "Invoice Owner Contact" and "Resale Partner" blank. 
+    *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany. The Billing Account on the Partner Account lists the contact associated with that account, so that contact should be used as the Invoice Owner Contact. If that contact does not exist on the Partner Account as a Contact Record yet, you may need to create it.
+    *   If an "Invoice Owner" does not auto-populate in the drop down, this means that a Billing Account does not yet exist for the partner. Chatter `@Billing-ops` and the Partner Account Owner listed on the Partner Account Record and ask for a Billing Account to be created. 
+    *   The "Resale Partner" field should be populated with the Partner Account of the Reseller transacting (please note a partner may have both a Customer and Partner Account Record, the Partner Account must be selected. Check the “Account Record Type” field on an account to identify whether it is Customer or Partner account.).
+
 *   Populate **“Initial Term”** in months. (i.e. for a two-year deal, enter “24”). For standard deals, "Initial Term" should always match the SKU that you are quoting (i.e. Premium - 2 Year = Initial Term 24 Months). 
 *   If the customer or reseller is based in the EU, enter the “VAT ID” number. This is required to book the order. 
 
 *   Note: Non-standard payment terms (Net 30 = standard) should be reflected on the quote object, and will require approval per the approval matrix.
 
 D.  Select **“Add Base Products”** from the drop-down menu on the “Edit Products and Charges” page. Select the correct product and click Next.
+
 E.  Enter the product quantity, and adjust the discount or effective price as needed. Click Submit.
+*   For **Channel deals**, see this [cheat sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit#heading=h.9e3o7yaxw8mu) to confirm correct discounts to apply. Partner discounts must be added in addition to any customer discounts and required approvals must be received by submitting the quote in the system, per the quote approval matrix. If there are no customer discounts and standard partner program discounts are used, additional quote approvals will not be required. Chatter `@Partner Operations` for questions.
 
 F.  **Add Annual Payments** to a order form by:
 * Checking "Annual Payments" checkbox on Quote Detail Page
@@ -323,14 +327,16 @@ Amendments to subscriptions must be processed entirely before any changes can be
     *   The **End Date** will automatically be set to co-terminate with the existing subscription.
     *   The **Initial Term** is automatically updated to reflect the initial term of the original New Business or Renewal subscription which is being amended by this quote.**Please do not override the automatically populated Initial Term on Amend Subscription quote objects**  (i.e. if you’re amending the quote halfway through a 12 month term, the Initial Term should be 12, not 6.)
     *   The **GitLab Entity** must be the same as it was on the initial deal you’re amending.
-    *   For **Reseller deals,** populate the “Invoice Owner” and “Invoice Owner Contact” fields.
-        *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany.
-        *   ** We cannot change route to market through an Amendment quote**. If the original order was sold Direct, all subsequent amendments must also be Direct. If it was initially sold through a Partner, all amendments must go through the same partner for the duration of the subscription. 
+    *   For **Channel deals,** populate the “Invoice Owner”, “Invoice Owner Contact” and "Resale Partner" fields. For **Direct Deals** leave "Invoice Owner", "Invoice Owner Contact" and "Resale Partner" blank. 
+        *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany. The Billing Account on the Partner Account lists the contact associated with that account, so that contact should be used as the Invoice Owner Contact. If that contact does not exist on the Partner Account as a Contact Record yet, you may need to create it.
+        *   If an "Invoice Owner" does not auto-populate in the drop down, this means that a Billing Account does not yet exist for the partner. Chatter `@Billing-ops` and the Partner Account Owner listed on the Partner Account Record and ask for a Billing Account to be created. 
+        *   The "Resale Partner" field should be populated with the Partner Account of the Reseller transacting (please note a partner may have both a Customer and Partner Account Record, the Partner Account must be selected. Check the “Account Record Type” field on an account to identify whether it is Customer or Partner account.).
+        *   **We cannot change route to market through an Amendment quote**. If the original order was sold Direct, all subsequent amendments must also be Direct. If it was initially sold through a Partner, all amendments must go through the same partner for the duration of the subscription. 
     *   If the customer or reseller is based in the EU, enter the “VAT ID” number. This is required to book the order.
     *   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date”** field should be populated with the date of the MSA’s signature. In addition, select the **“EXISTING MSA”** quote template.
     *   Note: Non-standard payment terms (Net 30 = standard) should be reflected on the quote object, and will require approval per the approval matrix.
 *   Under the **Edit Products and Charges** page, increase the existing license quantity to reach your total - i.e. enter the new total license count. This page will show all currently licensed products (marked “Original”), but the Order Form that generates will only show the added quantity and amount for the pro-rated period. 
-*   **To add users to the existing subscription at a different price**, the new user licenses should be added as a separate product line. 
+*   **To add users to the existing subscription at a different price or discount**, the new user licenses should be added as a separate product line. 
 *   **True-Ups:** NOTE: The true-up SKU does not add users to the license - it's simply a retroactive one time charge. If you are conducting a quarterly or semi annual true-up for a customer with our former percentage-based fee schedule, do not use the true-up SKU unless the true-up is in conjunction with their renewal and the customer will be renewing for less users. Instead, you should add users using an appropriately priced subscription product SKU. If you are quoting true-up users, click “Add Products” and wait for the next page to load. Then, click “Select” and choose “Add Add-On Products.” Select True-Up and click Next. Edit the quantity and effective price. Click “Submit.”
 *   **Order Form Generation**
     *   If no discounts or special terms are requested, click “Generate PDF.”
@@ -408,13 +414,19 @@ Important: Gaps are not allowed between opps linked to the same subscription ie.
     *   The **End Date** will automatically be determined by the Renewal Term.
     *   Populate **“Renewal Term”** in months. (i.e. for a two-year renewal, enter “24”)
     *   Select the proper **GitLab Entity.**
-    *   For **Reseller** deals, populate the **“Invoice Owner”** and **“Invoice Owner Contact”** fields.
-        *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany.
+    *   For **Channel deals**, populate the “Invoice Owner”, “Invoice Owner Contact” and "Resale Partner" fields. For **Direct Deals** leave "Invoice Owner", "Invoice Owner Contact" and "Resale Partner" blank. 
+        *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany. The Billing Account on the Partner Account lists the contact associated with that account, so that contact should be used as the Invoice Owner Contact. If that contact does not exist on the Partner Account as a Contact Record yet, you may need to create it.
+        *   If an "Invoice Owner" does not auto-populate in the drop down, this means that a Billing Account does not yet exist for the partner. Chatter `@Billing-ops` and the Partner Account Owner listed on the Partner Account Record and ask for a Billing Account to be created. 
+        *   The "Resale Partner" field should be populated with the Partner Account of the Reseller transacting (please note a partner may have both a Customer and Partner Account Record, the Partner Account must be selected. Check the “Account Record Type” field on an account to identify whether it is Customer or Partner account.).
     *   If the customer or reseller is based in the EU, enter the **“VAT ID”** number. This is required to book the order.
     *   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date”** field should be populated with the date of the MSA’s signature. In addition, select the **“EXISTING MSA” quote template.**
     *   Note: Non-standard payment terms (Net 30 = standard) should be reflected on the quote object, and will require approval per the approval matrix.
 *   Click Next, to enter the Products and Charges page.
     *   Note: The product lines from the Initial Term are already listed and will be marked “Original.” You may add new products, update the quantity on the original license, or remove the existing license. To add users to an existing license at a different price, the new user licenses should be added on a new product line.
+    *   For **Channel renewals**, please refer to this [cheat sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit#heading=h.9e3o7yaxw8mu) to help identify what discounts and product lines to add for a renewal. Quote approvals may be triggered due to system limitations. 
+        *   Partner discounts must be added in addition to any customer discounts and required approvals must be received by submitting the quote in the system, per the quote approval matrix. 
+        *   If you have questions about Channel discounts when building a quote, chatter `@Partner Operations` for help.
+
 
 **B.   **Add Annual Payments** to a order form by:
 * Checking "Annual Payments" checkbox on Quote Detail Page
