@@ -13,22 +13,31 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 - - -
 
+## Background:
+Escalations can take at least two different forms:
+
+1.  Account Escalation.  This occurs when the customer expresses or a GitLab team member identifies that a customer is facing a challenging situation that may or may not relate to a specific support ticket.  
+
+2.  Support Ticket Escalation.  This occurs when an open support ticket is deemed moving too slowly. 
+
+The purpose of this handbook entry is to describe the process for account escalations.  Please see the [support team escalation page](https://about.gitlab.com/handbook/support/internal-support/support-escalations.html#requesting-an-escalation) for details on how to request a support ticket escalation. 
+
 ## Objective
 
-Define the process for managing account escalations and define framework for communications, activities and expectations for customer escalations.
+Define the process for managing account escalations and define a framework for communications, activities, and expectations for customer escalations.
 
 ## Scope
 
-This addresses critical and high escalations for Enterprise customers. This can also apply to Commercial or SMB customers if there is a strategic partnership or relationship. This can also be leveraged for issues that affect a broad number of customers though the customer engagement model will differ. Any GitLab team-member can escalate an account on behalf of the customer.
+This process addresses critical and high escalations for Strategic customers. This process can also apply to other segments if a strategic partnership or relationship exists. Any GitLab team member can escalate an account on behalf of the customer.
 
 ## Definitions of Severity Levels
 
 | Severity Level | Description | Cadence | Levels of Involvement |
 | -------------- | ----------- | ------- | --------------------- |
-| Critical | Major issue(s) significantly impact customer's ability to deploy and/or use a solution, risking loss of and/or use a solution, risking loss of customer, and/or significant risk to the relationship and brand. | Daily | VP of Sales, Product, CRO, CEO, VP of Customer Success |
-| High | Major issue(s) significantly impact a customer's ability to deploy and/or use a solution, risking current adoption, future growth on the account, and damage to the relationship. | Multiple times per week | VP of Sales, Product, CRO, CEO, VP of Customer Success |
-| Medium | Issue(s) impact a customer's ability to deploy and/or use the product, risking current adoption, and renewal. | Weekly to Bi-weekly | VP of Sales, VP of Customer Success |
-| Low | Issue(s) impacting a customer's ability to deploy and/or use the product, risking customer value realization, timeline, customer satisfaction, and adoption levels. | Standard Communication | Director of Customer Success, Account Manager |
+| Critical | Major issue(s) significantly impact customers' ability to deploy or use a solution, risk loss of or use of a solution, risk loss of a customer, or significant risk to the relationship and brand. | Daily | VP of Sales, Product, CRO, CEO, VP of Customer Success |
+| High | Major issue(s) significantly impact a customer's ability to deploy or use a solution, risking current adoption, future growth on the account, and damage to the relationship. | Multiple times per week | VP of Sales, Product, CRO, CEO, VP of Customer Success |
+| Medium | Issue(s) impact a customer's ability to deploy or use the product, risking current adoption and renewal. | Weekly to Bi-weekly | VP of Sales, VP of Customer Success |
+| Low | Issue(s) impacting a customer's ability to deploy or use the product, risking customer value realization, timeline, customer satisfaction, and adoption levels. | Standard Communication | Director of Customer Success, Account Manager |
 
 - Cadence refers to the cadence of internal and external meetings and communications to the customer.
 - Level of involvement defines scope of internal communication and awareness. Others can be included based on the type of issues involved.
@@ -73,7 +82,7 @@ At the beginning of the escalation, the DRI must be determined - the DRI owns th
 - Support Engineering should inform the TAM of the escalation if a TAM is assigned.
 - The TAM is responsible for managing any account-related issues (e.g., delayed response, open actions, non-compliance installation or product use, etc.).
 
-## Initiating, Managing, and Closing an Escalation
+## Initiating, Managing and Closing an Escalation
 
 The following steps are to be taken by the escalation DRI:
 
@@ -97,7 +106,7 @@ For Critical and High-Level escalations, create an escalation document using the
 
 - DRI owns the functions as outlined here
 - Escalation document kept updated with minimum daily updates
-- Daily Slack updates are posted to the designated customer escalation channel (see escalation doc for format)
+- **Daily Slack updates are posted to the designated customer escalation channel (see escalation doc for format)**
 
 ### Closing the Escalation
 
@@ -111,6 +120,11 @@ For Critical and High-Level escalations, create an escalation document using the
   - Update the escalation document with the resolution
   - Archive the temporary Slack channel
   - Update the customer's TAM Sentiment in Gainsight to reflect the new state of the account.
+
+## TAM Manager's role in Escalations
+The TAM Manager's responsibility is to ensure that the TAM is familiar with the above process and is actively managing the escalation, including the Slack Channel updates and the management of the escalation doc. 
+
+When a customer is in an escalated state, the path to resolution must continue to move forward, with both the internal stakeholders and the customer clear on current actions and next steps. The TAM manager is responsible for ensuring that this forward-motion and clear alignment is present and for stepping in and driving action or alignment where necessary. 
 
 ## Support Engineering's role in Escalations
 
