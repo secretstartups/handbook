@@ -40,7 +40,7 @@ For the overall 3-year vision, see [Product Usage Data Roadmap](https://docs.goo
 <br>
 <a href="/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data -<br> Data Team Handbook</a>
 <a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Use Case Adoption Guide</a>
-<a href="/handbook/sales/field-operations/customer-success-operations/gainsight/using-gainsight-data-in-sfdc/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Using Gainsight Data in Salesforce</a>
+<a href="/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Using Gainsight Data in Salesforce</a>
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
 <a href="/handbook/customer-success/product-usage-data/license-utilization/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">License Utilization in Gainsight</a>
@@ -86,7 +86,7 @@ For specifics on Use Cases and their health methodology, see [Use Case Adoption]
 
 ## Using Gainsight Data in Salesforce
 
-A variety of product usage data points are pushed back from Gainsight to Salesforce. To see a complete list of customer health related fields that are synced back from Gainsight to Salesforce, please review [Customer Health](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/using-gainsight-data-in-sfdc/#customer-health) within the [Using Gainsight Data in SFDC](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/using-gainsight-data-in-sfdc/) page.
+A variety of product usage data points are pushed back from Gainsight to Salesforce. To see a complete list of customer health related fields that are synced back from Gainsight to Salesforce, please review [Customer Health](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/#customer-health) within the [Using Gainsight Data in SFDC](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/) page.
 
 <br>
 
