@@ -492,28 +492,12 @@ On this new Guided Selling "True Ups" screen, you must select the appropriate Tr
 
 #### Co-Terming
 
-Co-terming is when a customer wants to align two or more **separate subscriptions** with different end dates. Co-Terming is not the same as an Amendment quote (adding and prorating users for an **existing subscription**).
+There are 2 types of co-terming:
+1. **Automatic/Same Subscription:** Creating a co-termed Amendment quote to an existing subscription. The Amendment quote will have the same start date as the related existing subscription by default.
+2.  **Manual/Separate Subscriptions:** Customer needs a separate new subscription with the same end date as their existing subscription. In order to create a new co-termed subscription you will need to use the monthly sku and also set the start date of the new subscription quote in line with the existing subscription (currently there is no option to create new subscription for a calendar day based prorated period but month based only). For example if the existing subscription runs from 15 Feb 2022 to 15 Feb 2023 and they need another subscription with the same end date but as of April, you would create a new subscription quote with 15 Apr 2022 start date, set the the initial term to 10 months and select the monthly product instead of the standard annual one. When creating a new subscription for period < 12 months in order to co-term it with an existing, no approvals are need for a shorter subscription term as per the approval matrix.
 
 
-Ex). Customer has 2 separate subscriptions for Premium.
 
-* Subscription 1 = 100 seats, expiring 2018-06-30
-* Subscription 2 = 50 seats, expiring 2018-12-31
-
-The most likely scenario is to co-term into the subscription ending last:
-
-* On the renewal opportunity for subscription 1, create an amendment quote for subscription 2;
-* The start date for the amendment will be 2018-07-01;
-* Add 100 seats to the existing 50 and close as usual;
-
-The other scenario is co-terming into the subscription ending first:
-
-This requires two steps: first combining the subscriptions, then cancelling the leftover one.
-
-* Create a new opportunity, with a quote amending subscription 1;
-* The start date will remain unchanged, e.g. 2018-04-01;
-* Add 50 seats to the existing 100 and close as usual;
-* Once closed, create a new opportunity to cancel subscription 2 on the day before the start date of the previous quote e.g. 2018-03-31;
 
 #### Quoting Guide: Starter/Bronze End of Availability + Tier Re-naming
 
