@@ -250,7 +250,7 @@ The Senior Backend Engineer for Product Intelligence extends the Senior Backend 
 ##### Nice to have
 * Proven database development experience with SQL.
 * Postgres database experience with replication, backup, indexing, and partitioning.
-* DevOps experience working with and configuring infrastructure (GCP, GKE, GCS, IAM).
+* DevOps experience working with and configuring infrastructure (GCP/AWS, GKE, GCS, IAM).
 * Experience with dbt, or other related data engineering tools.
 * Experience with Snowflake and Snowpipe.
 * Experience with Snowplow collector.
