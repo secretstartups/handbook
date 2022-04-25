@@ -47,7 +47,7 @@ users of self-managed installations.
 
 ![Gitlab.com deployment process](gitlab-com-pipeline.png)
 
-GitLab.com receives updates multiple times a day with new deployment branches currently created at 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00 and 21:00 UTC from
+GitLab.com receives updates multiple times a day with new deployment branches currently created at 00:00, 03:00, 06:00, 09:00, 11:00, 14:00, 17:00 and 20:00 UTC from
 Monday through Friday.
 
 Once a new branch is created, only commits that pass the CI tests are eligible for deployments ("green build"). This means that if specs are failing in
