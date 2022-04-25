@@ -35,6 +35,19 @@ Our objective is to change our processes and culture to have an organization whi
 * Improvements in onboarding maintainers at our new scale
 * Have some fun
 
+## Tracking Progress
+
+Progress will be tracked on the Working Group [issue board](https://gitlab.com/groups/gitlab-com/-/boards/4208478?label_name[]=WorkingGroup%3A%3AMaintainership) using the following labels:
+
+- ~"workflow::In dev" 
+   - The issue is currently in progress and actively being worked on
+- ~"workflow::In review" 
+   - The issue is currently being reviewed by broader Engineering Team
+- ~"workflow::blocked" 
+   - The issue is blocked by another issue.  Please refer to the blocking issue.
+- ~"workflow::production" 
+   - The issue has been completed and should be closed.
+
 ### Exit Criteria (0% completed)
 
 
