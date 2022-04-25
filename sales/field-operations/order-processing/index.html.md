@@ -1246,7 +1246,7 @@ Note: If an exception is granted and the PO is not received within 10 days, on t
 
 When you have reviewed [all opportunity requirements](/handbook/business-ops/order-processing/#my-customer-signed-the-order-form-now-what) and have met all necessary booking requirements, please submit the opportunity for approval.
 
-1.  **To submit the opportunity for approval and closure, the Sales Rep should click on the “Submit for Approval” button on the opportunity level.**
+1.  **To submit the opportunity for approval and closure, the Sales Rep should set the opportunity stage to 6-Awaiting Signature and afterwards click on the “Submit for Approval” button on the opportunity level.**
     *  The opportunity page will then display “edit” mode. Click Save.
 1. At this time, no further action is required from the Account Team. You will be notified by the Order Management team if further information is needed or if the opp is missing required information.
 
