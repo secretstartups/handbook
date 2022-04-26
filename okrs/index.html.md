@@ -116,7 +116,7 @@ Should you need to reschedule, please @ mention the EBA to the CEO in the `#eba-
 
 The CoS to the CEO creates a Google Doc for E-Group alignment and shares initial suggestions with the CEO. The CEO and CoS to the CEO discuss and modify these initial suggestions. This document is shared with E-Group in the [E-Group Weekly](/handbook/e-group-weekly/) that is **five weeks** before the start of the coming quarter. E-Group is encouraged to offer feedback in the E-Group Weekly, directly within the Google Doc, or in meetings with the CEO or CoST.
 
-**Four Mondays** before the staret of the quarter, the CoS to the CEO will add the CEO OKRs to Ally.io. The CoS to the CEO will then post the Ally.io link in the #okrs Slack channel and @ mention the CEO. After the CEO confirms the post and makes any edits, the CoS to the CEO will @ mention e-group and exec-admins on the Slack thread.
+**Four Mondays** before the start of the quarter, the CoS to the CEO will add the CEO OKRs to Ally.io. The CoS to the CEO will then post the Ally.io link in the #okrs Slack channel and @ mention the CEO. After the CEO confirms the post and makes any edits, the CoS to the CEO will @ mention e-group and exec-admins on the Slack thread.
 
 CEO OKRs may continue to be refined in the lead up to the coming quarter.
 
