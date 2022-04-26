@@ -145,7 +145,6 @@ distribution of work that would create a different prioritized list.
    - docs updates
    - issue creation or contributions
    - training
-   - ...
 1. Help on tickets outside of FlexiPods and assigned to other groups
 
 #### Maximizing group success
