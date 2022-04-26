@@ -148,7 +148,7 @@ If you are interested in participating in an active working group, it is general
 * [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
 * [Issue Prioritization Framework](/company/team/structure/working-groups/issue-prioritization-framework/)
 * [Learning Experience](/company/team/structure/working-groups/learning-experience/)
-* [Next Prioritization](/company/team/structure/working-groups/next-prioritization)
+* [Next Prioritization](/company/team/structure/working-groups/maint-first/)
 * [Merge Request Report Widgets](/company/team/structure/working-groups/merge-request-report-widgets/)
 * [MLOps](/company/team/structure/working-groups/mlops/)
 * [Multi-Large](/company/team/structure/working-groups/multi-large/)
