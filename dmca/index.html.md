@@ -6,7 +6,9 @@ title: DMCA Policy
 # DMCA (Digital Millennium Copyright Act) takedown request requirements 
 
 We take the intellectual property rights of others seriously and require that our Users do the same. The Digital Millennium Copyright Act (DMCA) established a process for addressing claims of copyright infringement. If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim that a third party is infringing that material on or through GitLab's services, please send a notice that meets the minimum requirements of the DMCA, to `dmca@gitlab.com`, and we will take appropriate action:
+
 ## DMCA notice requirements 
+
 1. A description of the copyrighted work that you claim is being infringed;
 2. A description of the material you claim is infringing and that you want removed or access to which you want disabled and the URL or other location of that material;
 3. Your name, title (if acting as an agent), address, telephone number, and email address;
@@ -16,7 +18,7 @@ We take the intellectual property rights of others seriously and require that ou
 
 Submissions under this DMCA Policy should be sent to dmca@gitlab.com
 
-We will review your submission and take whatever action we deem appropriate under the DMCA, including removal of the challenged content from the website.  Further more, we may, in appropriate circumstances, disable or terminate the accounts of users as indicated in the [DMCA Workflow](/handbook/engineering/security/security-operations/trustandsafety/dmca-removal-requests.html).
+We will review your submission and take whatever action we deem appropriate under the DMCA, including removal of the challenged content from the website.  Further more, we may, in appropriate circumstances, disable or terminate the accounts of users as indicated in the DMCA Workflow.
 
 ## DMCA Counter Notice requirements
 
@@ -29,7 +31,19 @@ If it is not possible to come to an agreement with the reporting copyright owner
 5. **Consent to service of process:** A statement that you will accept service of process from the person who provided the original notification or an agent of such person.
 6. **Signature:** An electronic or physical signature of the owner of the copyright or a person authorized to act on the owner's behalf.
 
-# Other Disputes 
+## Trademark takedown request requirements 
+
+If you’re sure you want to report content on GitLab that you believe infringes your trademark, please provide the following information:
+
+1. Details of the original trademark (and a description if it's a logo).
+1. A list of the countries in which the trademark is registered.
+1. The registration number(s) of the trademark.
+1. A scanned copy of the trademark registration certificate(s) or screenshot of the registration on the website or database of the applicable national intellectual property office(s).
+1. A declaration of the following statement: "By submitting this notice, I state that I have a good-faith belief that the reported use, in the manner that I have complained of, is not authorised by the intellectual property rights owner, its agent or the law; that the information contained in this notice is accurate; and, under penalty of perjury, that I am authorised to act on behalf of the owner of the intellectual property rights at issue".
+
+You can send this information to dmca@gitlab.com, you should receive an automated confirmation of receipt. 
+
+# Namespaces and other disputes 
 
 Disputes regarding namespaces, ownership and trademarks are not governed by DMCA. These disputes must be resolved by the parties involved. GitLab will never act as arbitrators or intermediaries in these disputes and will not take any action without the appropriate legal orders.
 
