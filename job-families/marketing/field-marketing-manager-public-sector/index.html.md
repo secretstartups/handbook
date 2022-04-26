@@ -28,6 +28,12 @@ The Public Sector Field Marketing Manager has the same requirements as other [Fi
 - Successful track record working with US Public Sector sales team, distributors, and channel partners.
 - Knowledge of state & local, Civilian, DoD, and Intelligence Community agencies and ability to translate this into a cohesive marketing plan for the Public Sector.
 
+### Staff level Requirements for US Public Sector 
+- Act as a senior leader to build and co-drive the overall strategy for the US Public Sector business with the PMM PubSec lead. 
+- Drive collaboration amongst the team members within the marketing organization who support the US Public Sector business in alignment to overall strategy. 
+- Drive ROI check in amongst the team members within the marketing organization who support the US Public Sector business in alignment to overall strategy. 
+- Be an active participant in the GitLab Federal LLC board. Presenting at board meetings and collaborating with board members as well as being an advocate for other marketing team members supporting the US Public Sector to have visibility to the board. 
+
 ## Career Ladder
 
 The next step for individual contributors is to move to the Manager of role listed in the Field Marketing page](/job-families/marketing/#manager-field-marketing) or laterally to the [Account Based Marketing Manager](/job-families/marketing/account-based-marketing-manager/) job family.
