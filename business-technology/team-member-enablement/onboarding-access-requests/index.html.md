@@ -9,9 +9,37 @@ title: "GitLab onboarding and machine management"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
+<div class="panel panel-gitlab-orange">
+**This is a Controlled Document**
+{: .panel-heading}
+<div class="panel-body">
+
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+
+</div>
+</div>
+
+# Purpose
+
 ## GitLab Onboarding
 
 The GitLab IT team is here to help you through any onboarding struggles you might be dealing with. We have a weekly [IT Onboarding Q&A](https://calendar.google.com/calendar/r/eventedit/M3VpajRiNTdmYXM3ZnViZDI1MGVnaHFvdTRfMjAyMDA1MDVUMTYwMDAwWiBtZGlzYWJhdGlub0BnaXRsYWIuY29t) for GitLab new hires to join and discuss any technical issues or concerns they are having during onboarding. Please also refer to [The guide to remote onboarding](https://about.gitlab.com/company/culture/all-remote/onboarding/) for additional onboarding guidance.
+
+# Scope
+
+At GitLab, we use centralized laptop management for company-issued laptops. If you are in possession of a company-issued laptop, the details below apply to you. However, not all endpoint management technologies GitLab deploys will be required for Apple, Linux, and Windows laptops. Some technologies may be specific to the hardware platform or operating system. 
+
+# Roles & Responsibilities
+
+| Role | Responsibility | 
+|-----------|-----------|
+| GitLab Team Members | Responsible for following the requirements in this procedure |
+| Business Technology | Responsible for implementing and executing this procedure | 
+| Business Technology Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
+
+# Procedure
 
 ## Laptops
 
@@ -22,7 +50,7 @@ This email will include a link to the Notebook Order Form where the new team mem
 
 Team members that live in these countries can be serviced via the IT Laptop Ordering Process:
 
-USA, Canada, Japan, Mexico, all of the EU, Russia, Thailand, China, India (Apple only), Philippines, Australia, and New Zealand.
+USA, Canada, Japan, Mexico, all of the EU,Thailand, China, India (Apple only), Philippines, Australia, and New Zealand.
 
 Please note that we are adding supported countries to this list as we discover our ability to order in them.
 You can test this by going to order a MacBook Pro (or Dell) from the regional Apple store, and seeing if they let you customize a build or alternately refer you to local retailers.
@@ -367,7 +395,7 @@ If you are retaining your laptop/receiving a new laptop upgrade we will need to 
 
 ### Slack Emoji Workflow
 
-In an effort to improve efficiency and promote self service while using Slack. Our team has creating an Emoji workflow in Slack that will send automated messages based on a specific emojis reaction.
+In an effort to improve efficiency and promote self service while using Slack. Our team has created an Emoji workflow in Slack that will send automated messages based on a specific emojis reaction.
 
 The idea is that if a user posts a question in the IT-Help slack channel, an IT technician or anyone in GitLab can react with an emoji and send a message that has helpful information.
 
@@ -491,3 +519,9 @@ IT Ops has an automated workflow that triggers upon a notification from PeopleOp
 **Final Slack notification**
 
 > The Gitlab Google Workspace account for `<Firstname>``<LastName>` has been archived after 90 days as per our standard offboarding policy.
+
+# Exceptions
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/engineering/security/#information-security-policy-exception-management-process).
+
+# References
+* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
