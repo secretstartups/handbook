@@ -179,7 +179,8 @@ Flexipods is one example of cross-group collaboration, some others are:
 
 ## FAQ
 
-Please see the [FAQ page](/handbook/support/support-global-groups/sgg-faq.html)
+For answers to the most common questions about SGG, please review the
+[SGG FAQ](/handbook/support/support-global-groups/sgg-faq.html) page.
 
 ## Training Plan for launch May 2022
 
