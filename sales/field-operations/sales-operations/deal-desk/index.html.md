@@ -346,7 +346,7 @@ Amendments to subscriptions must be processed entirely before any changes can be
         *   Please note that Sales reps may only generate PDF versions of the Order Form. If you require special wording or other manual edits, please make the request by tagging @Sales-Support in chatter.
 
 
-###### **Explanation to the prorata calculation of add-on order forms:** - [Explanation with screenshot of example order form](https://docs.google.com/presentation/d/1HV4jYVP4yITm0FyhGbDPGmb6f-ebI0Fh480cLfw7u9M/edit#slide=id.ga42daef6d7_0_0)
+##### Explanation to the prorata calculation of add-on order forms: - [Explanation with screenshot of example order form](https://docs.google.com/presentation/d/1HV4jYVP4yITm0FyhGbDPGmb6f-ebI0Fh480cLfw7u9M/edit#slide=id.ga42daef6d7_0_0)
 
     *   On add-on/amendment order forms the amounts are prorated based on calendar days as per the following example (adding 10 users to existing subscription)
     *   Annual fee for 10 add-on users: 10 users x $228 = $2,280.00
