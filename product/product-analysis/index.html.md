@@ -345,7 +345,8 @@ office hours.
 1. [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) - For Growth-related data questions
 1. [#g_product_analysis_daily](https://gitlab.slack.com/messages/g_product_analysis_daily/) - For 
 the Product Analysis team's asynchronous daily stand-up, powered by [Geekbot](https://geekbot.com/)
-1. [#data](https://gitlab.slack.com/messages/data/) - For general data questions
+1. [#data](https://gitlab.slack.com/messages/data/) - For any type of data question, including 
+those related to product and/or the Product Analysis team
 1. `@product-analysts` - Notifies the entire Product Analysis team
 1. `@randdanalyticstriage` - Notifies the entire Product Analysis team and the Data 
 team's R&D Fusion group, per the [Enterprise Data Triage Program](/handbook/business-technology/data-team/how-we-work/triage/#enterprise-data-program-triage)
@@ -355,6 +356,11 @@ analysts across the GitLab Data Program
 ### GitLab Groups
 
 1. `@gitlab-org/growth/data-analysts` - Notifies the entire Product Analysis team
+
+### YouTube Playlist
+
+1. [Product Analysis](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp32_hlHkH-wysq5seWicwL) - 
+Recordings from office hours, analysis/read-outs, etc
 
 ## Product Analysis Handbook Contents
 
