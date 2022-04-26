@@ -329,6 +329,40 @@ The Director, Infrastructure is a [grade 10](/handbook/total-rewards/compensatio
 - Significant open source contributions
 - Experience with global teams
 
+### Senior Director, Infrastructure
+
+The Senior Director, Infrastructure leads one or more compartments within Infrastructure. They are experienced with operating large and growing organizations through change and building effective teams of leaders to deliver on higher level company results. They are effective in achieving long-term results by establishing clear vision and appropriate performance indicators. Those in a Senior Director, Infrastructure role will identify iterations of organizational structure which support GitLab growth targets and optimal evolution in our DevOps effectiveness. This role is a senior influencer who models the behaviors we want to see in our teams and contributes to great results.
+
+#### Senior Director, Infrastructure Job Grade
+
+The Senior Director, Infrastructure is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Director, Infrastructure Responsibilities
+
+- Establish and lead the direction for core SaaS and Infrastructure related cross-company initiatives such as Reliability Engineering practices, the architecture of platform services, or programs such as Incident Management
+- Lead the evolution of the individual Infrastructure compartment direction
+- Coordination with their leadership team on effective changes in team structure to meet new needs and accomodate overall growth
+- Recruit and hire other effective leaders to take on key roles within Infrastructure
+- Own the delivery of results for some Infrastructure department-level Performance Indicators
+- Coordinate the creation, and lead the execution of Key Result efforts within their teams
+- Collaborate across Engineering and Product to achieve quarterly project objectives and other longer-term initiatives
+- Own the responsibility and results delivery for all DRI assignments within the scope of their leadership team
+
+#### Senior Director, Infrastructure Requirements
+
+- Experience organizing, growing, and evolving an organization to meet the changing requirements of growth and/or customer need
+- Experience leading through multiple levels of management and in global organizations
+- Excellent recruiter capable of attracting top talent
+- Experience with consumer-level scale systems and Software as a Service (SaaS) product delivery
+- Experience fostering a results-oriented organization
+- Enterprise software company experience
+- Approach challenges with a growth mindset
+
+### Nice-to-haves
+
+- Prior remote work experience
+- Significant open source contributions
+
 ### VP of Infrastructure
 
 The VP of Infrastructure manages multiple teams that work on GitLab.com and contribute to our on-premise product. They see their teams as their products. They are capable of managing multiple teams and projects at the same time. They are expert recruiters of DBREs, SREs, Backend and Frontend Engineers, and managers. They can also grow the existing talent on their teams. Like all GitLab Engineering Directors, this role is a senior influencer that models the behaviors we want to see in our teams and holds others accountable when necessary. And they create the collaborative and productive environment in which SREs and SRE managers do their work and succeed.
