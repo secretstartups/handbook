@@ -351,7 +351,31 @@ For more information please review the handook page regarding the [Leave during 
 
 _To be documented_ 
 
-## Communicating Departures Company-Wide
+## Communicating Departures 
+
+Depending on the team members’ role, timing of communication may vary (e.g. direct team, key stakeholders, etc.), and managers have discretion to determine who should be informed most immediately. The typical order followed for communicating departures is:
+
+### 1. Inform Direct Team
+
+The "direct team" is typically the team member's peers within their immediate team (I.E. reporting to the same manager and/or in the same functional group, etc.) and is typically a relatively small group of people. 
+
+In most cases, team members communicate their departures to their direct team, though messaging should be cross-checked with their manager for consistency. 
+
+### 2. Inform Key Stakeholders
+
+Key stakeholder communication can be done through 1:1 notifications, and/or by posting the update in team-specific channels for general awareness. Key stakeholders are individuals that departing team members work very closely with (typically in their day-to-day work) that will feel the impact of the team member's departure in their work. Managers of key stakeholders should also be looped into communication to ensure awareness. 
+
+It is essential that key stakeholders are looped in to offboardings to:
+* Communicate go forward plans
+* Ensure business continuity and transparency
+
+Departures should be communicated with stakeholders as soon as possible, with a maximum timeframe of 2 business days after the team member's departure. 
+
+Where possible and appropriate, we also encourage managers to work with departing team members to align on transitions plans to transition as much of the departing team members' work as possible before their departure. 
+
+In most cases, managers communicate team member departures to key stakeholders. 
+
+### 3. Announce In #team-member-updates
 
 As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md), GitLab does not provide any context around why people are leaving when they do.
 However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can work with their manager on sharing a company-wide message about their departure. 
@@ -379,6 +403,10 @@ Silence is unpleasant. It's unpleasant because we are human, which means that we
 Is it _more_ unpleasant in a remote setting? Probably not.
 When people are all in the same office building, they can "kinda sorta" know what may be coming because of the grapevine, the water cooler, and so on. When the news hits it might be less of a shock - only because of unprofessional behavior in the first place.
 But at larger companies with multiple office buildings, departures will tend to come as more of a surprise and with less context (at least to the people in other buildings).
+
+### 4. Inform The Department
+
+Managers should consider cross-posting the message in #team-member-updates to inform the wider Department of the departing team member. 
 
 ## What Do We Share?
 
