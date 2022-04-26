@@ -12,9 +12,10 @@ title: "Static Analysis Group"
 
 ## Static Analysis
 
-The Static Analysis group at GitLab is charged with developing solutions which perform [Static Analysis Software Testing (SAST)](/direction/secure/static-analysis/sast/),
-
-and [Secret Detection](/direction/secure/static-analysis/secret-detection/) for customer software repositories.
+The Static Analysis group at GitLab is charged with developing the following solutions for customer software repositories:
+- [Static Application Security Testing (SAST)](/direction/secure/static-analysis/sast/)
+- [Secret Detection](/direction/secure/static-analysis/secret-detection/)
+- [Code Quality](/direction/secure/static-analysis/code_quality/)
 
 ## Common Links
 
@@ -62,15 +63,21 @@ As is the case throughout GitLab, the Static Analysis group works on a monthly p
 However, GitLab milestones start in the second half of each month, which has made a planning cadence organized around weeks in a milestone somewhat difficult to understand as there are many
 edge cases which are at odds with the Gregorian calendar. Rather than trying to work out week numbers in a milestone, we describe our planning cadence based upon weeks in a month.
 
+Work in a calendar month is mixed between the **Current milestone** (which will be released on the 22nd of the month) and the **Next milestone** (which will be released on the 22nd of the following month).
+
 #### Week 1
 
-- Milestone release issue created and assigned out.
+- **Current milestone:** Engineering Manager creates milestone [release issue](/handbook/engineering/development/secure/release_process.html), with assignments for individual updates.
   - Expected outcome: Engineers will complete designated tasks within 2 weeks.
+- **Next milestone:** Product Manager creates a draft [planning issue](#planning-issues) for the upcoming milestone.
+  - Group members and stable counterparts asynchronously add suggested items or problem areas that could be included in the milestone; see [planning issue format](#planning-issue-format) for details.
+  - Product Manager and others engage in issue comments.
 
 #### Week 2
 
-- Draft planning issue created
-  - Single DRI assigned for each prioritized theme.
+- **Next milestone:** Product Manager finalizes priorities; group finalizes understanding of scope.
+  - Product Manager edits issue description to reflect priorities.
+  - Engineering Manager assigns a single DRI to each prioritized theme.
   - DRI works with Engineering Manager and Staff Engineer to discern the following:
     - Do you understand the business capabilities requested?
       - Are they clearly articulated in the issue description?
@@ -84,21 +91,44 @@ edge cases which are at odds with the Gregorian calendar. Rather than trying to 
   - Theme design completed.
   - Engineering team for each theme declared.
   - Issues created or collected.
+- **Current milestone:** Product Manager creates [release post](/handbook/marketing/blog/release-posts/) items based on customer-facing improvements that we expect to ship before the release date (the 22nd of the month). At a minimum, one release post item details all notable updates from the release issue created in [Week 1](#week-1).
 
 #### Week 3
 
-- Issues in prioritized theme refined by declared engineering team.
+- **Next milestone:** Issues in prioritized theme refined by declared engineering team.
 
 #### Week 4
 
-- Retrospective conversation held on the just-completed milestone.
+- **Current milestone:** Retrospective conversation held on the just-completed milestone.
 - MoSCoW session held to review oldest issues still open.
   - Are the opportunities they describe still relevant?
 
 ### Planning issues
 
-We use planning issues to articulate the epics which should be our top priorities in each release. This practice means we can interpret epics to be the features we're being asked to deliver and
-are given the freedom to break down those epics according to our best judgment.
+We use planning issues to articulate the themes which should be our top priorities in each release.
+Themes may include epics or issues.
+
+Product development is a team effort and everyone can contribute.
+We interpret prioritized themes as what we're being asked to deliver; we use the entire group's strengths to break down and refine those themes into implementable solutions.
+
+The planning issue serves multiple purposes:
+ - Within the group and stable counterparts, the issue helps us identify and agree on the scope of work we seek to execute in the next milestone.
+ - Outside the group, the issue communicates our priorities and what might be delivered during the milestone.
+   - Note: although we seek to deliver on our plans, the planning issue is not itself a _promise_ to deliver a given issue by a certain time.
+
+#### Planning issue format
+
+The planning issue includes:
+- Prioritized product themes (DRI: Product Manager)
+  - Themes are written in priority order, with the most important priority first.
+- Technical writing priorities (DRI: Technical Writing stable counterpart)
+- Quality priorities (DRI: Quality stable counterpart)
+- Planning priorities (DRI: Product Manager)
+  - This section covers forward-looking tasks that we plan to work on during the current milestone, for better visibility and awareness across the team.
+  - These tasks will generally be completed by Product Management, UX Design, or others not already covered in other sections.
+
+Anyone can update the issue to add links, context, or information like DRI assignments, but the DRI for a section should be consulted if a meaningful change is to be made.
+For instance, the Product Manager should be part of any decision to reorder priorities, and the Technical Writer should be part of any decision to add technical writing scope.
 
 #### How we interact with planning issues
 
