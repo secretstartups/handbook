@@ -18,7 +18,7 @@ Everything on this page, assumes the team member is already present in BambooHR.
 
 # Onboarding
 
-Note: this section only discusses items in the onboarding where People Engineering was involved. You can read more about onboarding at GitLab on [this handbook page](/handbook/people-group/general-onboarding/)
+Note: this section only discusses items in the onboarding where People Engineering was involved. You can read more about onboarding at GitLab on [this handbook page](/handbook/people-group/people-operations/General-onboarding/)
 
 ## Timeline Flow
 
@@ -55,7 +55,7 @@ Note: this only looks at team members with "United States" as their listed count
 This syncs the new hires to Guardian and is fully automated. Every day we check which team members have a start date in 7 days. If there are team members, we create a file with the following naming convention: `01_employee_add_mmddyyhhmmss.csv`. For every eligible team member the following information is added to the file:
 
 - hire date: the date they start working at GitLab
-- employee id: the unique employee ID that has been assigned to them in BambooHR (not to be confused with the ID of the user in BambooHR)
+- employee number: the unique employee number that has been assigned to them in BambooHR (not to be confused with the ID of the user in BambooHR)
 - legal entity: either `GitLab Inc` or `GitLab Federal LLC`. This depends on what is filled in on the `location` field in BambooHR.
 - first and last name
 - personal email address
@@ -99,7 +99,7 @@ file. It will be included by default in the onboarding issue.
 The job then grabs various details of the incoming team member, like country of
 residence, entity through which they are hired, division, department, job title
 etc. For each of these details, it checks for the existence of a task file in
-the [`onboarding_tasks` folder](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/master/.gitlab/issue_templates/onboarding_tasks)
+the [`onboarding_tasks` folder](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/.gitlab/issue_templates/onboarding_tasks)
 of the `employment` project. These tasks files are of the format
 `country_<country name>.md`, `entity_<entity name>.md`, `division_<division name>.md`,
 `department_<department name>.md`, `role_<exact job title>.md`, etc. If such a file is found, it includes
@@ -150,7 +150,7 @@ Our team members are expected to update their BambooHR profile on their first da
 
 ## Onboarding Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/master/email_templates) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-exp@domain`.
+This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/email_templates) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-exp@domain`.
 
 Every day we run 3 scheduled pipelines. They are each set up for a specific region:
 
@@ -171,6 +171,31 @@ We fetch some other data besides the region as well:
 - their name
 
 This data is used to populate the email that we then send to them. The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-exp@domain` as nobody monitors replies to `onboarding@`. The email address is strictly used for automation.
+
+#### Manual Onboarding E-Mail
+If for some reason the e-mail could not be sent, we have added functionality for a People Experience Associate to be able to manually send this by running a Slack command.
+
+```/pops run onboardingemail <EMPLOYEE_NUMBER>```
+
+This  triggers the following flow:
+```mermaid
+graph TD
+    A[./pops run onboardingemail BHR_ID] -->B(Finds the open onboarding issue)
+    B --> C(Finds the BHR profile from the onboarding issue description)
+    C --> D(Sends the e-mail to the team member)
+```
+
+### Updating Email Template
+
+If changes are required to the onboarding email template, follow these steps to update them:
+
+- Browse to the MJML [page](https://mjml.io/try-it-live/)
+- Open the MJML template [template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/email_templates/onboarding_email.mjml)
+- Copy and paste the template file of your choice into MJML website on the left
+- Make the relevant changes and then select `View HTML` on the top left hand side of the website.
+- Copy the HTML version to the HTML template.
+- Copy and pasted the MJML version from the browser to the MJML template.
+- Submit Merge Request like normal with the updates.
 
 ## Swag Email
 
@@ -252,7 +277,7 @@ The merge request is assigned to the People Experience Team and they set it to m
 In case team members did not fill in the required data, we won't be able to sync them. A People Experience Associate
 can later on sync them with the following Slack command:
 
-`/pops run teampageindividual <bamboo_id>`.
+`/pops run teampageindividual <EMPLOYEE_NUMBER>`.
 
 This will spin up a pipeline and fetch the details. Note that if the team member was synced already, it will abort the sync.
 
@@ -338,7 +363,7 @@ The email address used to send the email is `peoplespecialists@domain` and is se
 
 ## Probation Ending Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/probation_ending_manager.md)
+This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/probation_ending_manager.md)
 that is sent when a probation period is about to end for a team member. The email is sent to the team member's manager and CC'd to `people-exp@domain`
 
 Every day at 9 AM UTC we run a scheduled pipeline. This pipeline will fetch all the eligible team members. An eligible team
@@ -352,7 +377,7 @@ monitors replies to `onboarding@domain`. The email address is strictly used for 
 
 ## Netherlands Contract Ending Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md) that is sent to the team member's manager two months before the team member's contract end. The email is cc'd to `peopleops@domain` and the relevant People Business Partner.
+This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md) that is sent to the team member's manager two months before the team member's contract end. The email is cc'd to `peopleops@domain` and the relevant People Business Partner.
 
 Every day at 9 AM UTC we run a scheduled pipeline. This pipeline will fetch all the eligible team members. An eligible team
 member means:
@@ -361,3 +386,12 @@ member means:
 - and who's temporary contract ends in two months.
 
 The email address used to send the email is `peoplespecialists@domain` and is set with a `reply-to: peopleops@domain` as nobody monitors replies to `peoplespecialists@domain`. The email address is strictly used for automation.
+
+### Fallback
+If for some reason the automation fails and we are unable to send the renewal contract, a People Experience Associate can run:
+
+```
+/pops run netherlandsrenewalcontract <EMPLOYEE_NUMBER>
+```
+
+To send the renewal contract e-mail accordingly.

@@ -8,7 +8,7 @@ description: Information on Slack People Connect bot created by the People Engin
 {:.no_toc}
 
 - TOC
-  {:toc}
+{:toc}
 
 # People Connect Bot
 
@@ -17,7 +17,7 @@ to setup the connection between Slack and GitLab Service Desk for the People Exp
 
 Although the bot can technically be added to any channel, code-wise the bot is setup to only read the messages from:
 
-- the public #people-connect channel
+- the public [`#people-connect`](https://gitlab.slack.com/archives/C02360SQQFR) channel
 - the DM channel one start with the bot.
 
 Every time someone adds a new message to this channel or in the DM, the bot will pick this up and create a new issue on the private GitLab People Connect project. This project is also set up to use Service Desk with a specific email.

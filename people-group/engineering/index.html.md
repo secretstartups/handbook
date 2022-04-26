@@ -24,26 +24,45 @@ Responsibilities include (but are not limited to):
 - Integrations to assure SSoT
 - Manage the code that runs the [Employment Bot](https://gitlab.com/employment-bot)
 
+### Quick Links
+Quick navigation to some of our other pages.
+
+| **Page** | **Description** |
+|---|---|
+| [Career Mobility](/handbook/people-group/engineering/career-mobility) | Our automation flow on how we streamile on processes. |
+| [Employment Issues](/handbook/people-group/engineering/employment-issues) | Information regarding our onboarding and offboarding issue automations. |
+| [GH <=> BHR Sync](/handbook/people-group/engineering/gh-bhr-sync) | Our automation for syncing Greenhouse candidates to our HRIS system. |
+| [Nominator Bot](/handbook/people-group/engineering/nominatorbot) | Information regarding our custom Slack app, how to use it, FAQ's, and engineer guides. |
+| [Offboarding](/handbook/people-group/engineering/offboarding) | Our `offboarding` automation flow and everything you may need to know regarding this. |
+| [Onboarding](/handbook/people-group/engineering/onboarding) | Our `onboarding` automation flow and everything you may need to know regarding this. |
+| [People Connect Bot](/handbook/people-group/engineering/people-connect-bot) | Information regarding our custom Slack app for our Service Desk integration. |
+| [Internal Handbook](/handbook/people-group/engineering/pops-internal-handbook) | Our People Group Engineering internal handbook. |
+| [Slack Integrations](/handbook/people-group/engineering/slack-integrations) | Information on some of our slack integrations like birthday announcments, PTO, etc. |
+| [Miscellaneous](/handbook/people-group/engineering/miscellaneous) | Some extra information regarding PTO, sensitive data, accruals, and more. |
+
 ### Working with us
 
 If you'd like to request engineering assistance with an issue, bug fixes, urgent requests related to People Group processes
 or tools ([like BambooHR](/handbook/people-group/#using-bamboohr)) or anything relating to People Group Engineering, please start by
-[creating an issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/new)
-in the People Group Engineering project. All issues are reviewed and prioritised to a specific [milestone](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/milestones). If you require general support with MR's, kindly collaborate with all of GitLab team members in #mr-buddies in slack.
+[creating an issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/new)
+in the People Group Engineering project. All issues are reviewed and prioritised to a specific team through our [kanban board](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/boards/2641488). If you require general support with MR's, kindly collaborate with all of GitLab team members in [`#mr-buddies`](https://gitlab.slack.com/archives/CLM8K5LF4) in slack.
+
+If you are looking for help regarding general inquiries such as: payroll, paid time off, benefits, etc. Please reach out to our People Connect team in their slack channel, [`#people-connect`](https://gitlab.slack.com/archives/C02360SQQFR).
 
 ### Report bugs
 
 If you want to report bugs about existing integrations, you can use any of the following templates:
 - [Bug with a /pops command](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/issues/new?issuable_template=bug_pops_command)
-- [Bug with the Greenhouse <> BambooHR sync](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/issues/new?issuable_template=bug_with_greenhouse_bamboo_sync)
+- [Bug with the Greenhouse <> BambooHR sync](https://gitlab.com/gitlab-com/people-group/peopleops-eng/conservatory/-/issues/new?issuable_template=bug_with_sync)
+- [Bug with Nominations](https://gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot/-/issues/new?issuable_template=general_bug)
 
 #### Urgent attention
 
-We have monitoring setup in case some of our applications are no longer accessible. This is the case for the [compensation calculator](https://comp-calculator.gitlab.net/), the [nominator bot](https://nominatorbot.gitlab.net/) and the [assessment tool](https://assessment.gitlab.net/). This will trigger text messages to the People Group Engineer(s). If you need our immediate attention, feel free to use our #people-connect-eng Slack channel. Avoid pinging people directly unless there is a real urgency to the matter.
+We have monitoring setup in case some of our applications are no longer accessible. This is the case for **all** of our integrations. This will trigger notifications to the People Group Engineer(s). If you need our immediate attention, feel free to use our [`#peopleops-eng`](https://gitlab.slack.com/archives/CNDBF4DFT) Slack channel. Avoid pinging people directly unless there is a real urgency to the matter.
 
 ### Our workflow
 
-The [People Group Engineering board](https://gitlab.com/gitlab-com/people-group/people-operations-engineering/-/boards/1312849)
+The [People Group Engineering board](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/boards/2641488)
 serves as the single source of truth on the engineering team's priorities. Issues follow a linear sequence, with a `Workflow::`
 label indicating an issue's current status:
 
@@ -74,9 +93,9 @@ set to having new tickets being triaged within 7 working days. Everyone in the P
 
 - check if everything in the template is filled in, if not ask the author to fill it in and add the label `Workflow::Waiting`
 - check if we have any follow up questions for the creator, if we do, ping the author of the issue and ask them the questions, add the label `Workflow::Waiting`
-- determine the project labels (for example `~p-compensation-calculator`, `~p-assessment-tool`, etc)
+- determine the project labels (for example `~p-compensation-calculator`, `~p-employment-automation`, etc)
 - determine the priority label (see [priorities](https://about.gitlab.com/handbook/people-group/engineering/#priorities))
-- determine the team label `PopsEng::Team::People Success`, `PopsEng::Team::People Operations`, etc). You can also find a GitLab board, with the issues sorted by team [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/boards/3107533).
+- determine the team label `PopsEng::Team::Tech`, `PopsEng::Team::Engineering`, etc). You can also find a GitLab board, with the issues sorted by team [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/boards/3107533).
 - determine if it is a new project `~PopsEng::New Project` or a bug `~PopsEng::Bug` or an addition to an existing project or integration `~PopsEng::Addition`
 - when we have all the information needed to start working on the ticket, label it with either `Workflow::Ready for Development` or `Workflow::Next Up`
 
@@ -98,8 +117,8 @@ With that knowledge in mind we determine the priority of a ticket, with the foll
 | --------------               | ---------- |-----------------             | ---------------          |-----------------------                |
 | p1 (`~PopsEng::Priority::1`) | yes        | Any                          | daily, weekly or monthly | n/a                                   |
 | p1 (`~PopsEng::Priority::1`) | no         | OKR progression              | n/a                      | n/a                                   |
-| p2 (`~PopsEng::Priority::2`) | no         | Company                      | daily, weekly            | comp calc, nom bot or assessment tool |
-| p3 (`~PopsEng::Priority::3`) | no         | Division, Department or Team | daily, weekly            | nom bot or assessment tool            |
+| p2 (`~PopsEng::Priority::2`) | no         | Company                      | daily, weekly            | comp calc, nom bot, or conservatory |
+| p3 (`~PopsEng::Priority::3`) | no         | Division, Department or Team | daily, weekly            | nom bot or conservatory            |
 | p4 (`~PopsEng::Priority::4`) | no         | Any                          | daily, weekly          | n/a                                   |
 | p5 (`~PopsEng::Priority::5`) | no         | Any                          | monthly, yearly        | n/a                                   |
 
@@ -156,7 +175,7 @@ We've build several automations and tools to support our People Group. In the fo
 
 For all automations we use 2 main sources:
 -  BambooHR: their database acts as the single source of truth for everything related to the team
-member. We make use of a [fork](https://gitlab.com/gitlab-com/people-ops/bamboozled/) from the
+member. We make use of a [fork](https://gitlab.com/gitlab-com/people-group/peopleops-eng/bamboozled/) from the
 [Bamboozled](https://github.com/Skookum/bamboozled) Ruby gem, and interact with BambooHR using a
  bot user with limited access to employee details.
  - Greenhouse: this is our single source of truth for everything related to candidates (so before
