@@ -150,6 +150,10 @@ We follow the [iteration process](/handbook/engineering/principles/#iteration) o
 
 We estimate issues async following the [estimation process](/handbook/engineering/development/growth/#estimation) outlined by the Growth sub-department. Our aim is to provide an initial estimate (weight) for all issues scheduled for an upcoming milestone. 
 
+All available Product Intelligence engineers should add estimation to the unweighted issues.
+
+For `~frontend`issues Frontend Enginners should add estimations. For `~backend` isssues Backend Engineers should add estimations.
+
 * [gitlab-org](https://gitlab.com/groups/gitlab-org/-/issues?sort=created_date&state=opened&label_name[]=group::product+intelligence&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
 * [gitlab-services](https://gitlab.com/groups/gitlab-services/-/issues?sort=created_date&state=opened&label_name[]=group::product+intelligence&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
 
@@ -163,6 +167,7 @@ Issues estimation examples
 | 5 | [Spike Service Ping health dashboard](https://gitlab.com/gitlab-org/gitlab/-/issues/346431),<br />[Remove `deprecated` metric status ](https://gitlab.com/gitlab-org/gitlab/-/issues/340847) |
 | 8 | [Dispatch Snowplow events from their event definitions](https://gitlab.com/gitlab-org/gitlab/-/issues/346751),<br />[Add metrics yml files for usage data metrics definition ](https://gitlab.com/gitlab-org/gitlab/-/issues/270107) |
 | 13| [Create Snowplow monitoring framework](https://gitlab.com/gitlab-org/gitlab/-/issues/331103),<br />[Enable batch counting for some individual queries](https://gitlab.com/gitlab-org/gitlab/-/issues/208923) |
+| ? | For issues where don't know how to estimate |
 
 #### Estimation template
 
@@ -302,7 +307,7 @@ This Phase does not include time for complex technical proposals. They will be w
 1. PM: will ping engineering team on Planning Issue asking for Technical Debt candidates.
 1. PM: invites engineering to breakdown issues planned.
 1. Engineers: bring up Technical Debt candidates.
-1. EM: adds a note for the async estimation.
+1. EM: adds a note for `@gitlab-org/growth/product-intelligence` group for the async estimation.
 1. Engineers: add weight and reasoning to the issues using the following [template](#estimation-template).
 1. EM: reads through the estimates, checks for major differences, asks for another round of estimation if required.
 1. EM: adds the average or maximum weight estimated. 
