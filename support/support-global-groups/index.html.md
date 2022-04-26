@@ -73,9 +73,7 @@ as a strong foundation for success as the Support Team continues to scale.
 
 #### Slack
 
-- Each group has its own Slack channel
-  - Naming scheme: each name is a type of tree
-  - Naming format: each name is in the format `spt_gg_[group name]`
+- Each group has its own Slack channel named `spt_gg_[group name]`
 - Each Slack channel is public
 - Pinned to each Slack channel are:
   - a link to this page
