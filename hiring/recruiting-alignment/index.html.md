@@ -49,11 +49,10 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | Talent Acquisition         | Rob Allen |
 | Talent Brand and Enablement | Devin Rogozinski |
 | Talent Acquisition (Sales) | Jake Foster|
-| Talent Acquisition (Marketing) | Kelly Murdock |
+| Talent Acquisition (Marketing) | Jake Foster |
 | Talent Acquisition (G&A) | Jake Foster |
 | Talent Acquisition (R&D) | Ursela Knezevic |
 | Candidate Experience & Enablement | Marissa Ferber |
-| Strategic Programs | Kelly Murdock |
 | Inbound Sourcing | Chris Cruz |
 
 ## Talent Acquisition Platform Directly Responsible Individual
