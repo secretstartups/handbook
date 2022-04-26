@@ -31,8 +31,6 @@ Expense reports are to be submitted at least once a month and must be submitted 
 
 The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and [subsidiary assignment](https://about.gitlab.com/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure). Check with Payroll if you are unsure about either of these.
 
-For general information and guidelines regarding the company expense policy, check out the section of our team handbook on [Spending Company Money](/handbook/spending-company-money). Managers and the Accounts Payable team will review expenses for compliance with the company travel policy. The CEO will review selected escalations at least annually.
-
 Team members should also consider the terms and conditions of their respective contractor agreements when submitting invoices to the company.
 
 Team members are reimbursed on different schedules depending on their location. Please see the reimbursement process below to find the listing of reimbursement dates based on your location or employment status.
@@ -42,7 +40,7 @@ Team members are reimbursed on different schedules depending on their location. 
 1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/). **NOTE** - If you are a Corporate Credit Card holder, please refer to the [Corporate Credit Card page](https://about.gitlab.com/handbook/finance/accounts-payable/corp-credit-cards/) for specific instructions and thresholds.
 1. Itemized receipts are required for all business related expenses that are greater than $75 USD or equivalent to local currency.
 1. Expenses should be submitted within 90 days of purchase, spend, or invoice due date. This helps the company to better manage our budget and ensures accurate month-end reporting.
-   - If your purchase requires that you pre-pay for services, such as quarterly or yearly payments, you must split the cost monthly and only submit 1 month (or 1 payment) at a time for reimbursement.
+   - If your purchase requires that you prepay for services, such as quarterly or yearly payments, you must split the cost monthly and only submit 1 month (or 1 payment) at a time for reimbursement.
    - If you are required to pay 250 every 3 months, divide the total cost by the # of months and that is what you submit each month.
    - You can use the same invoice copy each month.
 1. Expense report items should clearly state if the spend includes amounts for clients / non-team members. Tax requirements in certain countries require us to account for client spend differently.
@@ -52,56 +50,13 @@ Team members are reimbursed on different schedules depending on their location. 
 1. Gift cards are not accepted as a form of payment for business expenses.
 1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date.
    - Please note we do not reimburse late fees, initial set up, or equipment costs.
-## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Redacting Personal Information from Receipts - A Caution
-
-As the expense tool does not require your personal information in order to process the reimbursement, we encourage you to redact your personal information before uploading receipts to protect your privacy. Managers should relay this caution to your team members, but we will no longer deny the expense report if receipt images contain personal information.
-
-Consider redacting this information:
-
-- Your shipping and billing address(es)
-- Your credit card information
-- Your full name
-- Any other data that is personal to you that should not want publicly known
-
-At a minimum, information about the items/products purchased and the total purchase amount should be visible so managers can validate the expense reimbursement amount requested along with the actual items and total purchase price.
-
-
-### Rejected Expenses
-
-Sometimes expenses get rejected by our third party accounting team (Montpac). Before following the steps below, please ensure your purchases are not identified in our [list of non-reimbursable expenses.](/handbook/finance/expenses/#--non-reimbursable-expenses). An expense might get rejected if it is more than 20% higher than the guideline price listed in our [office equipment and supplies](/handbook/finance/procurement/office-equipment-supplies/) handbook page.
-
-### Additional Details of Expense Policy
-
-The company will reimburse for the following expenses if you need it for work or use it mainly for business, and local law allows us to pay for it without incurring taxes:
-
-1. Mileage is reimbursed according to local law: [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates), [rate per km in the Netherlands](http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/auto_en_vervoer/auto_van_de_onderneming/autokosten/u_rijdt_in_uw_eigen_auto), or [rate in Belgium](https://fedweb.belgium.be/nl/verloning_en_voordelen/vergoedingen/vergoeding-voor-reiskosten). Add a screenshot of a map to the expense in Expensify indicating the mileage.
-1. Internet connection subscription.
-    - For team members outside the Netherlands: follow normal expense report process.
-    - For team members in the Netherlands: if you have not already completed the form as part of onboarding with our Netherlands payroll provider, fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at [people-exp@gitlab.com](mailto:people-exp@gitlab.com). The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts".
-        - **Important** This is the process to be followed for compliance reasons for Internet expenses for the Netherlands. Please do not expense your Internet costs via Expensify - these will be rejected.
-        - If your address changes or the amount changes, please send a new form to the People Experience team, along with the invoice/letter for processing.
-    - This is a taxable expense for GitLab Ltd. team members assuming that the internet connection is used partially for personal use as well as business use.
-    - Please expense internet costs monthly, reflecting current charges only (even if you pay by a different cadence).
-1. VPN service subscription. Please read [Why We Don't Have A Corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn), and check out our [Personal VPN page](/handbook/tools-and-tips/personal-vpn/) regarding usage at GitLab.
-1. Mobile subscription, we commonly pay for phones if you use it frequently as a salesperson or executive, or if your position requires participation in an on-call rotation. For on-call, you may expense the cost of your mobile phone service for the month when you begin your on-call rotation. This is limited to your service cost itself, not any costs relating to the phone device, to a personal hotspot device or to services for other people on your phone plan. You may include additional data charges in your expense report as we understand you may have plans outside of your normal workspace while you're on-call.
-1. Telephone land line (uncommon, except for positions that require a lot of phone calls)
-1. Skype/Google Hangouts calling credit (uncommon, since we mostly use [internet-based services such as Zoom](/blog/2019/08/05/tips-for-mastering-video-calls/))
-1. Co-working or rented office space if your are unable to work from your home. The are more details in the next section titled ["Co-Working or external office space"](https://about.gitlab.com/handbook/finance/expenses/#co-working-or-external-office-space)
-1. Laptops, insurance and repairs
-    1. The [IT Ops](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) page outlines laptop purchasing for new hires and for repairs and EOL for existing employees.
-    1. Laptops paid for by the company are property of GitLab and need to be reported with serial numbers, make, model, screen size and processor to IT Ops by adding it to this form: [GitLab laptop information](https://docs.google.com/forms/d/e/1FAIpQLSeUOlP11qeLdLZHTI62CFr7MSHAoI_1M6CRpnUA6fegkEKCOQ/viewform) for proper [asset tracking](/handbook/finance/accounting/#fixed-asset-register-and-asset-tracking). Since these items are company property, you do not need to buy insurance or an extended warranty for them unless it is company policy to do so (for example, at the moment we do not purchase Apple Care or extended warranties). You do need to report any loss following [Lost or Stolen Procedures](/handbook/people-group/acceptable-use-policy/#lost-or-stolen-procedures) or damage to IT Ops as soon as it occurs.
-    1. **Repairs to company issued equipment.**
-    - If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and expensed. The category to use in Expensify is 'Laptop'.
-    - Please get approval from your Manager if your equipment appears to be damaged, defective, or in need of repair. Business Operations can advise on next steps to ensure you have the proper equipment to work.
-    - For loaner laptops: Do not hesitate when expensing a loaner laptop while your primary laptop is being repaired. Use your best judgment identifying a local vendor. Please check out our [laptop repair](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptop-repair) page for more info.
-1. English lessons. At GitLab the lingua franca is [US English](/handbook/communication/#american-english), when English is not your native language it can limit you in expressing yourself.
 
 ### Domain Name Registration and Maintenance Policy
 
 #### Scope and Purpose
 This policy applies to all GitLab team members registering, or maintaining a registration for, GitLab-related Domain Names, including GitLab-related Domain Names registered or used for sandbox or testing purposes.
 
-Domain names are key assets in GitLab's intellectual property portfolio. Centralising the registration and maintainence of domain names under the Infrastructure Shared Services group using GitLab's approved domain name registrar helps us track and protect these valuable assets.
+Domain names are key assets in GitLab's intellectual property portfolio. Centralizing the registration and maintainance of domain names under the Infrastructure Shared Services group using GitLab's approved domain name registrar helps us track and protect these valuable assets.
 
 "**GitLab-related Domain Names**" when used in this policy means any domain name:
    - registered or used for any purpose related to a team member's role at GitLab;
@@ -204,7 +159,7 @@ These instructions apply if a team member is unable to purchase required items, 
 5. AP will do their best to pay the reimbursement within 1 week, depending on the date submitted. 
     1. Note that AP completed payments on Thursdays unless otherwise instructed for month and quarter end timelines.
 
-### Spend reduction
+## Spend reduction
 
 When reducing spend, we'll not take the easy route of (temporarily) reducing discretionary spending.
 Discretionary spending includes expenses like travel, conferences, gifts, bonuses, merit pay increases and Contributes.
@@ -218,6 +173,10 @@ Even if this causes a bit more disruption in the short term, it will help us ens
 
 If a team member whom you managed has left GitLab and comes to you with final expenses that are valid for reimbursement, please verify that they were not already processed in Expensify and then contact Accounts Payable. You must submit valid receipts and a completed copy of the [Expense Reimbursement template](https://docs.google.com/spreadsheets/d/1D0kWlqol7jBjqn7yDY6uc7UCWSIcUmiF/edit?usp=sharing&ouid=108533621432009168804&rtpof=true&sd=true) along with your approval. Please note that we may also ask the terminated team member to provide valid banking details in order to process the payment to them. 
 AP will do their best to process and pay the reimbursement to the individual within 1 week.
+
+## Rejected Expenses
+
+Sometimes expenses get rejected by our third party accounting team (Montpac). Please ensure the expenses you are asking to reimburse are covered in this policy before purchasing. For example, an expense might get rejected if it is more than 20% higher than the guideline price listed in our [office equipment and supplies](/handbook/finance/procurement/office-equipment-supplies/) handbook page.
 
 - - -
 
