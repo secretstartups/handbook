@@ -198,48 +198,17 @@ Specifically, this means our work is prioritized in the following order:
  * Then, lastly, picking from the top of the `workflow::ready for development` for development column
 
 The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
+#### Monthly issue progress update
 
-#### Weekly Issue Progress Updates
+We use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status) to indicate the probability that an issue will ship in the assigned milestone.
+On the last week of the milestone the DRI ([directly responsible individual](/handbook/people-group/directly-responsible-individuals/)) should update the health status for any open issue they are assigned to, with the following options 
 
-In order to keep our stakeholders informed of work in progress, we provide updates to issues either by updating the issue's **health status** and/or adding an **async issue update**.
-
-##### Issue Health Status
-
-We use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status) to indicate probability that an issue will ship in the assigned milestone.
-When a DRI ([directly responsible individual](/handbook/people-group/directly-responsible-individuals/)) picks up an issue to work on, they should add the appropriate health status.
-This status is also updated by the DRI as soon as they recognize the probability has changed.
-
-The following are definitions of the health status options:
-
-- `No Status` – If the status is left blank, we are unsure on the likelihood of an issue shipping. This is usually only before an issue has been picked up.
 - `On Track` - The issue has no current blockers, and is likely to be completed in the current milestone.
 - `Needs Attention` - This signals that the DRI of the issue requires collaboration it might impact planned delivery.
 - `At Risk` - The issue is **unlikely** to be completed in the current milestone and will probably miss the release due dates.
 
-Health Statuses can also be used in conjuntion with milestone board to communicate a variety of statuses. Here are some situations and how health status 
-and workflow labels can work together to communicate information on the probability of an issue shipping. They are written in the perspective of the DRI.
-
-| Current Issue Status | `workflow::` label | Health status     | Description  |
-|----------------------|--------------------|-------------------|--------------|
-| Unassigned           | `ready for dev`    | `On track`        | I have not picked this issue yet, but I believe it **will** make it. |
-| Unassigned           | `blocked`          | None              | I have not picked this issue yet because it's blocked. |
-| Unassigned           | `ready for dev`    | None              | I have not picked this issue yet, and I **don't know** if it will make it. |
-| Assigned             | `in dev`           | None              | I am currently working on this issue, there are no blockers, but I have **no idea** if it will make it in the milestone. |
-| Assigned             | `in dev`           | `On track`        | I am currently working on this issue, there are no blockers, but I believe it **will** make it in the milestone. |
-| Assigned             | `in dev`           | `At risk`         | I am currently working on this issue, there are no blockers, but I believe it will **not** make it in the milestone. |
-| Assigned             | `in dev`           | `Needs attention` | I am currently working on this issue and I need someone to help me out. |
-| Assigned             | `in review`        | `On track`        | This issue is done and is being reviewed. I believe it **will** make it in the milestone. |
-| Assigned             | `in review`        | `On track`        | This issue is done and its being reviewed. I **don't know** if it will make it in the milestone. |
-
-**Notes on health status:**
-
-1. When an engineer picks up an issue at the start of an iteration, they might not have enough information to make a prediction on the likelihood of 
-their work making a milestone. For this reason, they might decide to not assign a status until they understand more. 
-1. If the health was `No status` and becomes `On Track`, the DRI could provide a comment as to why they now think it will make the milestone. This would ensure this update
-is seen by interested parties of the issue.
-1. If the health status changes from `On Track` to `Needs attention` or `At Risk`, we recommend that the DRI add a short comment stating the reason for the change in an [issue status update](#issue-status-updates).
-
-##### Issue status updates
+Please note that if an issue happens to roll over to the next milestone, the DRI should clear the health status once the next iteration begins to ensure the health status is accurate.
+#### Issue status updates
 
 When the DRI is actively working on an issue  (workflow status is `workflow::in dev`, `workflow::in review` or `workflow::verification` in the current milestone), they will add a comment into the issue with a status update, detailing:
 - the updated issue health status
@@ -257,34 +226,10 @@ There are several benefits to this approach:
 
 Expectations for DRIs when providing updates for work in progress:
 
-- Status updates are provided once per week, barring special circumstances (e.g. PTO)
+- Status updates are provided once per month, barring special circumstances (e.g. PTO)
 - Ideally updates are made at a logical part of a DRI's workflow to minimize disruption, and not necessarily at the same time/day each week
   - Generally when there is a logical time to leave an update, such as a _change in issue health status_, that is the best time to do so
   - Can be used to present some technical findings or information relevant to other stakeholders
-
-##### Tracking Inactive Issues
-
-As a general rule, any issues being actively worked on have one of the following workflow labels:
-
-- `workflow::in dev`
-- `workflow::in review`
-- `workflow::verification`
-- `workflow::production` (upon **closing** the issue)
-
-The Health Status of these issues should be updated to:
-
-1. `Needs Attention` - on the `1st` of the month.
-1. `At Risk` - on the `8th` of the month.
-
-EMs are responsible for manually updating the Health Status of [any inactive issues in the iteration for the milestone](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline%20authoring&milestone_title=%23upcoming&not%5Blabel_name%5D%5B%5D=workflow%3A%3Acanary&not%5Blabel_name%5D%5B%5D=workflow%3A%3Ain+dev&not%5Blabel_name%5D%5B%5D=workflow%3A%3Ain+review&not%5Blabel_name%5D%5B%5D=workflow%3A%3Aproduction&not%5Blabel_name%5D%5B%5D=workflow%3A%3Astaging&not%5Blabel_name%5D%5B%5D=workflow%3A%3Averification&page=2&scope=all&state=opened) accordingly.
-
-The health status should be enough to know the general status of an issue.
-If you need more information on what tasks remain, you can check the implementation plan.
-Every engineering implementation issue needs an implementation plan in the description.
-It is a list or a table that outlines all the steps required to complete the feature.
-The engineer assigned to the issue is responsible for creating this plan and keeping it up to date.
-Here is [an example of one an **implementation plan** in an issue](https://gitlab.com/gitlab-org/gitlab/-/issues/296547#implementation-breakdown).
-
 #### Issues in `workflow::design`
 
 The [product development workflow labels](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary) are the SSOT for the status of the issue as it relates to the product development workflow.
