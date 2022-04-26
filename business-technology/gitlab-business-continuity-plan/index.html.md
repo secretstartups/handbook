@@ -9,29 +9,52 @@ title: "Business Continuity Plan"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## GitLab Business Continuity Plan (BCP) Context
+{::options parse_block_html="true" /}
 
+<div class="panel panel-gitlab-orange">
+**This is a Controlled Document**
+{: .panel-heading}
+<div class="panel-body">
+
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+
+</div>
+</div>
+
+## Purpose 
+Business Continuity Plan is the process involved in creating a system of prevention and recovery from potential threats to GitLab. The plan ensures that personnel and assets are protected and are able to function quickly in the event of a disaster.
+
+## Scope
 GitLab, by its remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters. Additionally, to ensure BCP procedures are planned and documented appropriately, data from the [Business Impact Analysis](/handbook/engineering/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) is utilized as part of business continuity planning. The BCP works in conjunction with the [Disaster Recovery Plan (DRP)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md). 
 
-## BCP for Remote Workers
+## Roles & Responsibilities
+| Role | Responsibility | 
+|-----------|-----------|
+| GitLab Team Members | Responsible for following the requirements in this procedure |
+| Business Technology | Responsible for implementing and executing this procedure | 
+| Business Technology Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
+
+## Procedure
+
+### BCP for Remote Workers
 
 In case of an all-remote company like GitLab, it is sufficient to have simple contingency plans in the form of service-level agreements with companies that host our data and services. The advantage of an all-remote workforce like GitLab is that if there are clusters of people or systems that are unavailable, the rest of the company will continue to operate normally.
 
 The exception to this would be a scenario of a single point of failure, (for example, if one of the Engineering heads who should sign off on triggering the plan is unavailable due to a disaster). In this case we would need an alternate plan in place that covers how to get in contact with the person or people affected by the disaster and trigger this business continuity plan.
 
-## Recovery Time Objective (RTO) and Recovery Point Objective (RPO)
+### Recovery Time Objective (RTO) and Recovery Point Objective (RPO)
 
 RTO and RPO are two of the most important parameters of a Business Continuity Plan. These are objectives to guide GitLab Infrastructure team in choosing the optimal data backup plan. The RTO/RPO provides the basis for identifying and analyzing viable strategies for inclusion in the business continuity plan. Viable strategy options include any which would enable resumption of a business process in a time frame within the RPO/RTO.
 
-### What is a Recovery Point Objective?
+#### What is a Recovery Point Objective?
 
 Recovery Point Objective (RPO) is the interval of time that might pass during a disruption before the quantity of data lost during that period exceeds the Business Continuity Plan’s maximum allowable threshold.
 
-### What is a Recovery Time Objective?
+#### What is a Recovery Time Objective?
 
 The Recovery Time Objective (RTO) is the duration of time a service level or business process must be restored after a disaster, in order to avoid risks associated with a break in continuity.
 
-## What triggers the Business Continuity Plan
+### What triggers the Business Continuity Plan
 
 For a business continuity plan to be effective, it needs to be triggered as soon as possible; too early or late can reduce its efficacy. Key decision points to consider when a BCP has to be triggered or invoked are given below:
 
@@ -40,11 +63,11 @@ For a business continuity plan to be effective, it needs to be triggered as soon
 - When the recovery of an incident is uncertain, a decision must be made to invoke the business continuity plan if the disruption cannot be resolved within the specified [incident recovery timelines](/handbook/engineering/security/sec-incident-response.html)
 - When resolution of an incident with critical customers, depending on their service-level agreements is delayed, then the BC plan must be triggered
 
-## Data Continuity System
+### Data Continuity System
 
 This section provides details about the production environment that must be available for GitLab.com to run effectively:
 
-GitLab.com is hosted on Google cloud platform, customers.gitlab.com is in Azure and license.gitlab.com is in AWS. Since Customers and Licenses are hosted on different providers, they are unlikely to be unavailable when/if GitLab.com is down; the converse of this can also be true.
+Both GitLab.com and customers.gitlab.com are hosted on Google cloud platform.
 
 **Priority::1: Outage would have immediate impact on GitLab customer/user operations**
 
@@ -79,7 +102,7 @@ Disruption of service from TripActions or internal chat tool (Slack).
 - When TripActions is down, team members can use their own travel booking tool and expense it to GitLab with reason for exception
 - When Slack is down, team members can use Zoom Chat as [outlined here](https://about.gitlab.com/handbook/communication/#slack-is-down).
 
-## Communication Plan and Role Assignments
+### Communication Plan and Role Assignments
 
 When it comes to a disaster, communication is of the essence. A plan is essential because it puts all team-members on the same page and clearly outlines all communication. Documents should all have updated team-member contact information and team-members should understand exactly what their role is, in the days following the triggering of the BC plan. Assignments like setting up workstations, assessing damage, redirecting phones and other tasks will need assignments if you don’t have some sort of technical resource to help you sort through everything.
 
@@ -87,11 +110,11 @@ Each GitLab team should be trained and ready to deploy in the event of a disrupt
 
 More details on this will be covered in the `BC plan - roles & responsibilities section which is in development`.
 
-## Backup check
+### Backup check
 
 [Make sure that backups are performed daily](/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html), and include running an additional full local backup on all servers and data in the Business Continuity preparation plan. Run them as far in advance as possible tp ensure that they’re backed up to a location that will not be impacted by the disaster. [Alternate storage provisioning](/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html).
 
-## Distribute and Verify the Plan / Approval from Senior management
+### Distribute and Verify the Plan / Approval from Senior management
 
 - GitLab documentation related to all procedure and guidelines detailing the Business Continuity and Disaster Recovery must be reviewed, updated, and formally approved by [GitLab leadership](/handbook/leadership/)
 - After developing basic guidelines, this plan will be distributed as a work in progress to the core team
@@ -100,24 +123,24 @@ More details on this will be covered in the `BC plan - roles & responsibilities 
 - GitLab team members must be asked to confirm their current details, such as phone numbers and emergency contacts on an annual basis
 - Managers or team leads will share the relevant parts of the plan to all GitLab team members based on their role and department, and verify that they know what to do in the event of an emergency
 
-## Vendor communication and service restoration plan
+### Vendor communication and service restoration plan
 
 A plan cannot be successful without restoring customer confidence. As a final step, ensure that there is a detailed vendor communication plan as part of the Business continuity preparation plan. This plan will check for all the systems and services to ensure normal operations have resumed as intended once the damage is repaired in the area. Also, include the section to check with the main service providers on restoration and access.
 
-# Business Continuity Test
+## Business Continuity Test
 
 After formalizing the business continuity plan, or BCP,  the next important step is to test the plan. Testing verifies the effectiveness of the plan, trains plan participants on what to do in a real scenario, and identifies areas where the plan needs to be strengthened. A test of the plan review, has to be conducted at least annually.
 
 GitLab's first test of the business continuity plan was performed in April 2020 and tests will be conducted at least annually or when significant business changes occur.
 
-## Why Business continuity testing is important
+### Why Business continuity testing is important
 
 - To ensure that the current backup facilities and procedures are feasible and compatible to achieve the determined RTO.  Can backup systems withstand a cyberattack.
 - To confirm that your continuity objectives are met (RTO and RPO). Accordingly provide training to the team managers and team members.
 - To evaluate the company’s response to various kinds of disruptive events .. Emergency communication strategy, is it functioning as expected. - How quickly can everyone be informed about an incident.
 - To identify areas in the plan that need modification. Improve systems and processes based on test findings. And accordingly maintain and update the BC plan
 
-## Testing the plan
+### Testing the plan
 
 Testing can present a lot of challenges. It requires investing time and resources. With that in mind, to start with, it may make more sense to conduct a tabletop test at a conference room, rather than involving the entire organization in a full-blown drill.
 Also an initial "dry run" of the plan can be performed, by conducting a structured walk-through test of the approved BC plan. The initial testing is done in sections and after normal business hours to minimize disruptions.
@@ -126,7 +149,7 @@ Based on the gaps and weaknesses learnt from the testing, underlying problems sh
 The various types of tests that can be conducted include: checklist tests, simulation tests, parallel tests, and full interruption tests
 Not testing the plan, will put both the business and customer confidence at risk.
 
-## Business Continuity Plan Testing Scenarios
+### Business Continuity Plan Testing Scenarios
 
 There are several types of tests, such as a plan review, a tabletop test, or a simulation test, which was detailed in the previous section.
 Some testing scenarios that can be performed, are given below:
@@ -152,3 +175,12 @@ Some testing scenarios that can be performed, are given below:
     - Being able to communicate during a disaster or an emergency is crucial. Yet, the most disruptive events can leave with no traditional means of staying in contact.
     - For these scenarios, the BC plan needs to outline the actions to be taken. An alternate mode of communication should be tested for its reliability and efficiency, for a company like GitLab which has team members all around the globe.
     - Regular updates to all GitLab team members contact information, so that all of them can receive timely notifications thus streamlining the disaster scenario process.
+
+## Exceptions
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/engineering/security/#information-security-policy-exception-management-process).
+
+## References
+
+* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
+* [Business Impact Analysis](/handbook/engineering/security/security-assurance/security-risk/storm-program/business-impact-analysis.html)
+* [Disaster Recovery Plan (DRP)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md)
