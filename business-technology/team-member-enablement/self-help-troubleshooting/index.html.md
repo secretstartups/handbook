@@ -203,6 +203,8 @@ We use JAMF to wipe laptops when you're either getting a new laptop, sending it 
 
 After we have initiated the wipe from our end. You will need to reinstall macOS so your computer can boot properly. Please follow the below instructions.
 
+**Before you reinstall, DNS changes on your router can affect the connection to the Apple Servers. If you do have issues getting into recovery, or are stuck with selecting your network, please try defaulting back to your original DNS to fix this issue**
+
 1. Start up from macOS Recovery
 To start up from macOS Recovery, turn on your Mac and immediately press `Command + R` on your keyboard. Release the keys when you see an Apple logo or Spinning Globe.
 
