@@ -20,15 +20,23 @@ Demandbase is a targeting and personalization platform that we use to reach our 
 
 **[Demandbase One Engagement Platform and Add-On Solution Overview](https://support.demandbase.com/hc/en-us/articles/360051362791-Demandbase-One-Solutions-Overview#h_01EN6561V0XRYQSCXZTKRBTR52)**
 
-Who has access to Demandbase? This is outlined in the MOps
+### Access to Demandbase
+{: #demandbase-access}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+The following teams have role-based access to Demandbase:
+- Account Based Marketing
+- Marketing Campaigns
+- Digital Marketing
+- Field Marketing
+- Sales Development
 
 ### Demandbase Product Modules
 {: #demandbase-product-offerings}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 Below are the Demandbase product modules we have access to.
-- :white_check_mark:  [Demandbased Engagement Platform](https://support.demandbase.com/hc/en-us/articles/360051362791-Demandbase-One-Solutions-Overview#h_01EN6561V0XRYQSCXZTKRBTR52): Leverages leading AI-driven data and applications along with strong integrations with CRM and MAS to create one comprehensive platform that provides proprietary, first and third-party data (including Demandbase Intent), account scoring and prioritization, account-based measurement, orchestration, and delivery of account-based insights personalized for individual sales reps.
-- :white_check_mark:  [Demandbase Advertising Cloud](https://support.demandbase.com/hc/en-us/articles/360051362791-Demandbase-One-Solutions-Overview#h_01EN65696QVZR2NZQWS2Q9ECY2): Enables us to serve ads to the buying committee within target accounts to increase web engagement and account penetration, to drive more pipeline and revenue.
-- :white_check_mark:  [Demandbase Personalization](https://support.demandbase.com/hc/en-us/articles/360051362791-Demandbase-One-Solutions-Overview#h_01EN656FAFETVPVHHKX5JC0EHM): Allows us to segment your account and people lists for different criteria, like intent, and provide a unique website experience for that list.
+- [Demandbased Engagement Platform](https://support.demandbase.com/hc/en-us/articles/360051362791-Demandbase-One-Solutions-Overview#h_01EN6561V0XRYQSCXZTKRBTR52): Leverages leading AI-driven data and applications along with strong integrations with CRM and MAS to create one comprehensive platform that provides proprietary, first and third-party data (including Demandbase Intent), account scoring and prioritization, account-based measurement, orchestration, and delivery of account-based insights personalized for individual sales reps.
+- [Demandbase Advertising Cloud](https://support.demandbase.com/hc/en-us/articles/360051362791-Demandbase-One-Solutions-Overview#h_01EN65696QVZR2NZQWS2Q9ECY2): Enables us to serve ads to the buying committee within target accounts to increase web engagement and account penetration, to drive more pipeline and revenue.
+- [Demandbase Personalization](https://support.demandbase.com/hc/en-us/articles/360051362791-Demandbase-One-Solutions-Overview#h_01EN656FAFETVPVHHKX5JC0EHM): Allows us to segment your account and people lists for different criteria, like intent, and provide a unique website experience for that list.
 
 ### Glossary of Demandbase Terms
 {: #glossary}
@@ -42,21 +50,6 @@ Bookmark the [Demandbase Glossary](https://support.demandbase.com/hc/en-us/artic
 * [Demandbase training portal](https://training.demandbase.com/)
    - For **Demandbase certification**, go to the training portal > `Enroll in Certifications` > `Demandbase Solutions Certificate`
 * [Getting started with Demandbase self-service targeting](https://support.demandbase.com/hc/en-us/sections/360009465252-Getting-Started-with-Self-Serve-Targeting)
-
-### Access to Demandbase
-{: #demandbase-access}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-The following teams have role-based access to Demandbase:
-- Account Based Marketing
-- Marketing Campaigns
-- Digital Marketing
-- Field Marketing
-- Sales Development
-
-### Public Sector data in Demandbase
-{: #demandbase-pubsec-data}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Access to account and engagement data in Demandbase is dependent on your approval for access to PubLic Sector data in SFDC.  This is managed through your assigned view in Demandbase, which is controlled by a script that looks for that level of access based on the `Pub Sec Owner?` field (API: Pub_Sec_Owner__c) in SFDC. The script looks for any `view` in Demandbase that has `Public Sector` in the title.
 
 ## Journey stages
 {: #journey-stages .gitlab-purple}
@@ -78,6 +71,96 @@ We use Demandbase account journey stages to track account progression toward Clo
 | 11 | Customer (Customer) | Existing Closed Won Opportunity |
 | 12 | Former Customer | Accounts who are no longer customers |
 | 13 | Disqualified | Any account that is not a potential customer |
+
+## Intent Strength Scoring
+{: #intent-scoring .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Accounts will be given an intent ranking for a keyword or set of keywords in the form of HIGH, MEDIUM, LOW. This tells us that account’s intent strength for the keyword or set of keywords. Demandbase looks into how many people associated with a company are searching for a keyword or keyword set and then gives it a ranking based on the number of people researching compared to the size of the company. For example,  if a company has 10 employees and 4 people are researching a given topic, that would be considered HIGH. However, if a company has 200 employees, that would be considered MEDIUM. 
+
+### Keyword Sets
+Keywords are words or phrases that we expect interested accounts our our ideal customers (ICP) to research. For example, at GitLab, we would include keywords such as "DevOps, continuous integration, CI/CD, software development, etc" 
+
+## Account Scoring in Demandbase
+{: #account-scoring .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Demandbase One has two different scoring models. `Qualification Score` quantifies the likelihood of an account ever becoming a customer, and `Pipeline Predict` quantifies the likelihood of an account becoming an opportunity in the next 30 days. Currently, the model looks at all closed won in the past 12 months but it is on the Demandbase roadmap to create multiple scoring models, allowing us to create segment account scoring.
+
+## Qualification Score
+{: #qualification-score .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Our _Qualification Score_ is built based on our past won deals and how closely a prospect matches that criteria. _Qualification Score_ scores all accounts in the platform between 0-100% and does not change often.
+
+## Pipeline Predict
+{: #pipeline-predict .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Pipeline predict measures an accounts propensity to buy in the next 30 days eg accounts that are likely to become an open opportunity. This score changes often because it is based on both an account's qualification score and their buying signals (intent, interactions with sales, etc). The score ranges from 0 – 100%.
+
+### How scoring criteria is matched to an account
+{: #account-scoring-criteria-matching}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Demandbase has a 1:1 account match between Demandbase:SFDC so you will often see multiple accounts listed with the same name. This is because there are multiple child accounts associated with a single domain.
+
+For scoring purposes, any KNOWN person's engagement (leads and contacts) will be assigned to the account that they are associated with in SFDC.
+
+UKNOWN person data (intent, keyword search etc by folks who have not filled out a form or identified themselves to GitLab) will be assigned to the account in SFDC with the most contacts. Often, this will not be the parent account so it is important to take that into consideration when looking at intent data for specific accounts.
+
+### Data for Accounts with a Hierarchy in SFDC
+{: #data-hierarchy-accounts}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+**How can I see all data for a company if we have multiple accounts in SFDC and Demandbase?**
+
+**Option 1: Account List by Company Name**
+
+Create an `account list` with filter for `Company Name` = [company name as appears in SFDC]
+
+**Option 2: Account List by SFDC Account ID**
+
+Create an `account list` with filter for `SFDC account ID` = [all account IDs in the company hierarchy]
+
+### Public Sector data in Demandbase
+{: #demandbase-pubsec-data}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Access to account and engagement data in Demandbase is dependent on your approval for access to PubLic Sector data in SFDC.  This is managed through your assigned view in Demandbase, which is controlled by a script that looks for that level of access based on the `Pub Sec Owner?` field (API: Pub_Sec_Owner__c) in SFDC. The script looks for any `view` in Demandbase that has `Public Sector` in the title.
+
+#### Account Scoring Criteria
+{: #account-scoring-criteria}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+| Category | Description |  |
+| -------- | ----------- |
+| Qualification score | matches our ICP |  |
+| Website visitors | how many people are visiting our website from the company |  |
+| DB Intent | onsite and offsite search from the company |  |
+| Inbox data | interactions with Sales |  |
+| CRM data (Salesforce) | meetings, demos, IQM |  |
+| MAS data (Marketo) | interactions with our marketing campaigns |  |
+| Advertising activity | engagement with our Demandbase campaigns |  |
+
+## Engagement Minutes
+{: #engagement-minutes .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+_Engagement Minutes_ track the amount of time an account spends with GitLab. This allows us to aggregate all of the interactions an account, and all leads and contacts associated with that account, have with us. Being able to combine all of these interactions allows us to better predict who is likely to become a customer. One engagement minute does not equate to an actual minute of time, it is better to think about this as a point system. Similar to lead scoring, each action a prospect at an account takes is given a score or point. For example, a person starting a trial will be given 50 points vs a person who fills out a form for a gated peice of content would get 5 points. All engagement minutes (points) are aggregated to the account level, giving the account an overall engagement minute score.  
+
+As ABM is only focused on mid-market and large/enterprise accounts, we consider an account engaged if they have at least 20 points and at least 2 engaged people. A person is considered engaged if they have any engagement minute activity over the last 90 Days. 
+
+| Engagement Type | Description |  
+| --------------- | ----------- |
+| Website visits | both known and anonymous website visitors |  
+| Marketing Automation (Marketo) | Email opens, event attendance, content downloads, etc. |  
+| Salesforce | Activities, tasks, and campaign membership |  
+| Email/Calendar | human interactions including email and meetings with Sales |  
+
+## Weighting
+{: #weighting}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+A person will receive an increase in engagement scoring based on their title.
+
+| Title | Weighting |  
+| ----- | --------- |
+| Manager | 100% |  
+| Director | 125% |  
+| VP | 125% |  
+| CXO | 150% |  
+| All others | 100% |  
 
 ## Demandbase Lists
 {: #demandbase-lists .gitlab-purple}
@@ -177,82 +260,6 @@ We have a set of `selectors` (fields) in Demandbase that are SSOT for building l
 
 Keep in mind, `special` selectors and are not able to be favorited. These include `member of` selectors and `relationship` selectors as these are not mapped to a data field in SFDC, Marketo or Demandbase.
 
-## Account Scoring in Demandbase
-{: #account-scoring .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Demandbase One has two different scoring models. `Qualification Score` quantifies the likelihood of an account ever becoming a customer, and `Pipeline Predict` quantifies the likelihood of an account becoming an opportunity in the next 30 days. Currently, the model looks at all closed won in the past 12 months but it is on the Demandbase roadmap to create multiple scoring models, allowing us to create segment account scoring.
-
-### How scoring criteria is matched to an account
-{: #account-scoring-criteria-matching}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Demandbase has a 1:1 account match between Demandbase:SFDC so you will often see multiple accounts listed with the same name. This is because there are multiple child accounts associated with a single domain.
-
-For scoring purposes, any KNOWN person's engagement (leads and contacts) will be assigned to the account that they are associated with in SFDC.
-
-UKNOWN person data (intent, keyword search etc by folks who have not filled out a form or identified themselves to GitLab) will be assigned to the account in SFDC with the most contacts. Often, this will not be the parent account so it is important to take that into consideration when looking at intent data for specific accounts.
-
-### Data for Accounts with a Hierarchy in SFDC
-{: #data-hierarchy-accounts}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-**How can I see all data for a company if we have multiple accounts in SFDC and Demandbase?**
-
-**Option 1: Account List by Company Name**
-
-Create an `account list` with filter for `Company Name` = [company name as appears in SFDC]
-
-**Option 2: Account List by SFDC Account ID**
-
-Create an `account list` with filter for `SFDC account ID` = [all account IDs in the company hierarchy]
-
-## Qualification Score
-{: #qualification-score .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Our _Qualification Score_ is built based on our past won deals and how closely a prospect matches that criteria. _Qualification Score_ scores all accounts in the platform between 0-100% and does not change often.
-
-## Pipeline Predict
-{: #pipeline-predict .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Pipeline predict measures an accounts propensity to buy in the next 30 days eg accounts that are likely to become an open opportunity. This score changes often because it is based on both an account's qualification score and their buying signals (intent, interactions with sales, etc). The score ranges from 0 – 100%.
-
-#### Account Scoring Criteria
-{: #account-scoring-criteria}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-| Category | Description |  |
-| -------- | ----------- |
-| Qualification score | matches our ICP |  |
-| Website visitors | how many people are visiting our website from the company |  |
-| DB Intent | onsite and offsite search from the company |  |
-| Inbox data | interactions with Sales |  |
-| CRM data (Salesforce) | meetings, demos, IQM |  |
-| MAS data (Marketo) | interactions with our marketing campaigns |  |
-| Advertising activity | engagement with our Demandbase campaigns |  |
-
-## Engagement Minutes
-{: #engagement-minutes .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-_Engagement Minutes_ track the amount of time an account spends with GitLab. This allows us to aggregate all of the interactions an account, and all leads and contacts associated with that account, have with us. Being able to combine all of these interactions allows us to better predict who is likely to become a customer.
-
-| Engagement Type | Description |  |
-| --------------- | ----------- |
-| Website visits | both known and anonymous website visitors |  |
-| Marketing Automation (Marketo) | Email opens, event attendance, content downloads, etc. |  |
-| Salesforce | Activities, tasks, and campaign membership |  |
-| Email/Calendar | human interactions including email and meetings with Sales |  |
-
-## Weighting
-{: #weighting}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-A person will receive an increase in engagement scoring based on their title.
-
-| Title | Weighting |  |
-| ----- | --------- |
-| Manager | 100% |  |
-| Director | 125% |  |
-| VP | 125% |  |
-| CXO | 150% |  |
-| All others | 100% |  |
-
-
 ## Demandbase Advertising
 {: #demandbase-advertising .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -289,10 +296,27 @@ If you would like to target named accounts with paid display ads, create an issu
 - **Visited:** 30-35% 
 - **Lift:** 25% 
 - **CTR:** 0.02-0.04% 
+- **Interacted:** 25-30%
 
 Since Demandbase is an ABM-oriented DSP, it self-optimizes for on-site engagement rather than traditional display metrics like CTR. We can check engagement metrics after two weeks, once the campaign has stabilized from initial launch, similar to learning phases in paid social.
 
 Budget pacing is spread out based on campaign duration, but can rise or dip based on inventory. It will ultimately hit the budget with no overages in the end.
+
+### ABM Metrics
+{: #abm-metrics}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+- **Lifted Accounts**: Percentage of the target accounts that have more engagement (page views) during the campaign(s) compared to the baseline period of 30-days prior to the start of the campaign(s). Baseline page view counts are normalized for campaign length in calculating this metric.
+- **Page Views:** Total page views on your website during the campaign(s)
+- **% increase in Page Views:** Percent change in page views during the campaign(s), compared to baseline period of the 30 days preceding the start of the campaign. *Note: Baseline page view counts are normalized for campaign length in calculating this metric.
+- **Account Performance by Stage:**
+    - **Total Accounts:** The total number of accounts being targeted
+    - **Reach:** he total number of accounts that have been served at least one impression
+    - **Visited:** The total number of accounts that have been on site during the campaign(s)
+    - **Clicked:** The total number of accounts from which clicks have been generated during the campaign(s)
+    - **Engaged:** The total number of targeted accounts that have had three or more unique sessions within a 30-day period.
+    - **Converted:** TBD
+    - **Opportunity:** The total number of accounts with at least one new CRM opportunity created during the campaign(s)
+    - **Won:** The total number of accounts with at least one CRM opportunity that has progressed to Closed/Won during the campaign(s)
 
 ### Display Ad Specs
 {: #display-ad-specs}
@@ -378,21 +402,6 @@ Our Demandbase instance already has a report for each opportunity stage. This le
 1. Select the audience you want to see the data for from the 'primary audience' dropdown.
 1. To narrow the audience by opp stage, check the box 'Filter results by Opportunity Report' and select the opp stage from the dropdown.
 
-### ABM Metrics
-{: #abm-metrics}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-- **Lifted Accounts**: Percentage of the target accounts that have more engagement (page views) during the campaign(s) compared to the baseline period of 30-days prior to the start of the campaign(s). Baseline page view counts are normalized for campaign length in calculating this metric.
-- **Page Views:** Total page views on your website during the campaign(s)
-- **% increase in Page Views:** Percent change in page views during the campaign(s), compared to baseline period of the 30 days preceding the start of the campaign. *Note: Baseline page view counts are normalized for campaign length in calculating this metric.
-- **Account Performance by Stage:**
-    - **Total Accounts:** The total number of accounts being targeted
-    - **Reach:** he total number of accounts that have been served at least one impression
-    - **Visited:** The total number of accounts that have been on site during the campaign(s)
-    - **Clicked:** The total number of accounts from which clicks have been generated during the campaign(s)
-    - **Engaged:** The total number of targeted accounts that have had three or more unique sessions within a 30-day period.
-    - **Converted:** TBD
-    - **Opportunity:** The total number of accounts with at least one new CRM opportunity created during the campaign(s)
-    - **Won:** The total number of accounts with at least one CRM opportunity that has progressed to Closed/Won during the campaign(s)
 
 ### Demandbase Site Analytics
 {: #site-analytics}
