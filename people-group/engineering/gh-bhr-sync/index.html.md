@@ -110,17 +110,9 @@ this applicant. Currently these candidates will need to be synced manually.
 ### Progress
 
 Currently the sync went through two iterations and has replaced most (but not all) manual work for the People Experience and Total Rewards teams.
-Open issues can be found [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=f-gh-bhr-sync).
-If you want to add another field to the sync, feel free to [create a new issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/new).
+Open issues can be found [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=p-hiring-exception-tool).
+If you want to add another field to the sync, feel free to [create a new issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/new?issuable_template=Engineering_Request).
 
 ### Missing Team Member
 
-In case a hire wasn't synced, the People Experience team can execute the following
-Slack command:
-
-```
-/pops run syncnewhire <id_in_greenhouse>
-```
-
-This will sync this person as it is described aboved. You can find the team member's ID in Greenhouse by looking at the URL for the member in Greenhouse. It is an 11-digit number listed between /people/ and the ? symbol. It is recommended that you
-also create a [GitLab issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/issues/new?issuable_template=bug_with_greenhouse_bamboo_sync) so the team can investigate what went wrong.
+In case a hire wasn't synced an alert will be sent to the [`#peopleops-alerts`](https://gitlab.slack.com/archives/CLTBQ9XC7) Slack channel, in which a People Group Engineer will be able to manually re-sync the new team member after correcting malformed fields.
