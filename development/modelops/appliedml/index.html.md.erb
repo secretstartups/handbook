@@ -36,6 +36,8 @@ The following people are permanent members of the Applied ML Group:
 | Who | Role | 
 | --- | --- |
 | [Alexander Chueshev](https://about.gitlab.com/company/team/#achueshev) | Senior backend engineer |
+| [Bruno Cardoso](https://about.gitlab.com/company/team) | Senior backend engineer |
+| [Tan Le](https://about.gitlab.com/company/team) | Senior Fullstack engineer |
 | [Monmayuri Ray](https://about.gitlab.com/company/team/#mon) | Engineering Manager |
 | [Taylor McCaslin](https://about.gitlab.com/company/team/#tmccaslin) | Principal Product Manager |
 
@@ -62,7 +64,7 @@ We use an epic roadmap to track epic progress on a quarterly basis.
 
 ### Issue boards
 
-We use a [team specific issue board](https://gitlab.com/groups/gitlab-org/-/boards/2841258?scope=all&label_name[]=group%3A%3Aapplied%20ml) to track issue progress on a daily basis. Issue boards are our single source of truth for the status of our work. Issue boards should be viewed at the highest group level for visibility into all nested projects in a group.
+We use a [team specific issue board](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/review-recommender/-/boards/3537332?label_name[]=applied%20ml%3A%3Areviewer-recommender&label_name[]=devops%3A%3AModelOps&label_name[]=group%3A%3Aapplied%20ml) to track issue progress on a daily basis. Issue boards are our single source of truth for the status of our work. Issue boards should be viewed at the highest group level for visibility into all nested projects in a group. Currently as the team is working on Suggested Reviewer as a feature we have a single board.
 
 
 ### Iteration
@@ -94,7 +96,7 @@ We do this to encourage our team to be more async in collaboration and to allow 
 
 ### Milestone Planning and Timeline
 
-Our team follows the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/).
+Our team follows the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/). Here is a our [Milestone progress for Suggested Reviewer](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/review-recommender/-/boards/4228790)
 
 ### Issue labels
 
@@ -123,4 +125,25 @@ Our group holds synchronous meetings to gain additional clarity and alignment on
 We have a weekly team meeting at 8am Pacific on Thursdays.
 
 Meetings will be in the [`Applied ML Group` playlist in GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp5fbMFUOKl-uroknEjofJ3)
+
+### Technical Architecture
+
+The team primary codes in python and as part of Ml workflows we build pipelines starting from dataops to mlops. Most of our models our trained using GPU enabled runners and the framework would depend on the use-case. As part of the ML architecture here are the following tools we also use
+
+- Google Data Flow
+- Pub/Sub
+- Google PostGres
+
+We are always exploring new tools and frameworks to optimize the ML workflow . Currently we here are things we are exploring
+
+- Clickhouse Datastore to store Model data for Applied ML
+- Pytorch as a framework
+- Opensource tools for Model Monitoring and Observability
+
+### Demos
+
+We periodically showcase demos and if there is any specefic demo on Machine learning that would be beneficial we would love to hear from you . Here is a list 
+
+- [CI/CD for Machine-learning](https://www.youtube.com/watch?v=7mUgGFgab4E)
+- [Suggested Reviewer MLOPS pipeline using Gitlab]
 
