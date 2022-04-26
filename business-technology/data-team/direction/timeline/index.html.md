@@ -35,7 +35,13 @@ _Help GitLab Make Better Decisions, Faster_
 ### FY23-Q1
 
 - [FY23-Q1 Objectives and Planning Drumbeat](https://gitlab.com/gitlab-data/managers/-/issues/278) 
-- [FY23-Q1 Release Roundup]()
+- [FY23-Q1 Report Card](https://gitlab.com/gitlab-data/analytics/-/issues/12534)
+
+### FY23-Q2
+
+- [FY23-Q2 Objectives and Planning Drumbeat](https://gitlab.com/groups/gitlab-data/-/epics/502)
+- [FY23-Q2 Data Team Internship Program - FY23Q2 Cohort](https://gitlab.com/groups/gitlab-data/-/epics/523)
+- [FY23-Q2 Release Roundup]()
 
 --- 
 
