@@ -75,7 +75,7 @@ This list has been pre-approved so if any team-member needs access to these syst
 | ZenDesk (non US Federal instance | Customer Support - Incident Management              | [Light Agent](/handbook/support/internal-support/#viewing-support-tickets) |
 | ZenGRC                           | Governance, Risk, and Compliance tool               | ZenGRC `Reader` role (higher level privileges require an access request)   |
 | Zoom                             | For video conferencing / meetings                   | Pro                                                                        |
-
+| Authomize                        | User Access Review tool                             | Reviewer                                                                   |
 ## Role Entitlements for a specific job
 
 The goal of baseline and role-based entitlements is to increase security while reducing access management complexity by moving towards role-based access control. The basic idea is that if we configure all of our systems for access based on the specific job families that require access to each system, then as we scale we can simply add new GitLab team-members to these pre-defined groups and system-level access will be granted automatically.
