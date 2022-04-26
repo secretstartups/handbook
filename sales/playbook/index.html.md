@@ -15,17 +15,18 @@ description: "The Enterprise Sales department at GitLab focuses on delivering ma
 ## Overview 
 Welcome to the Enterprise Sales handbook page!
 
-The Enterprise Sales department is part of [GitLab Sales](https://about.gitlab.com/handbook/sales/#welcome-to-the-sales-team-homepage). The sales field in Enterprise is made up of [Strategic Account Leaders (SALs)](https://about.gitlab.com/job-families/sales/strategic-account-leader/) who work across functions deliver maximum value to strategic and large prospects and customers throughout their entire journey with GitLab.
+The Enterprise Sales department is part of [GitLab Sales](https://about.gitlab.com/handbook/sales/#welcome-to-the-sales-team-homepage). The sales field in Enterprise is made up of [Strategic Account Leaders (SALs)](https://about.gitlab.com/job-families/sales/strategic-account-leader/) who work across functions deliver maximum value to strategic and large prospects and customers throughout their entire journey with GitLab. When thinking about 'what good looks like' in this department, refer to your [job family](https://about.gitlab.com/job-families), the [field competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/), and our [GitLab values](https://about.gitlab.com/handbook/values/).
 
 Besides this page, there are a few bookmarks you’ll want to set that will be your main sources of truth during your everyday work. These are:
 
 - **[The GitLab Sales handbook page](https://about.gitlab.com/handbook/sales/#welcome-to-the-sales-team-homepage):** This page serves as our home base. From here, you can find a wealth of resources that are relevant to the entire sales field. Whether you’re looking for sales order processing info, or wondering how to get executive support, this is where you’ll find what you need.
-- **[Field Slack Channels](https://about.gitlab.com/handbook/sales/sales-google-groups/#field-slack-channels):** View and join these Slack channels based on your role and team to stay connected with your peers.
+- **[Field Slack Channels](https://about.gitlab.com/handbook/sales/sales-google-groups/#field-slack-channels):** View and join these Slack channels based on your role and team to stay connected with your peers. 
+  - This page will also show you support channels to help you work across teams to progress deals. When working across teams, some common channels to favorite are: **#sales-support, #channel-services, #competition, #legal, #customer-references, and #vp-ent-sales.**
 - **[The SAL learning hub](https://gitlab.edcast.com/channel/strategic-account-leaders):** You’ll receive access to EdCast during your first week of onboarding. Follow the this learning channel in EdCast to see all training relevant to your role in one place. The SAL learning hub includes training and refresher courses on our sales methodology, tools, and sales skills. 
 - **[Highspot](https://gitlab.highspot.com/spots/615dd82071cff4c4b2bcbc32?list=616f308990bdabb28621ca57&overview=true):** You’ll receive access to Highspot in Okta during your first week of onboarding. It’s where all sales content is stored - whether you’re looking for competitive intelligence, solution selling guidance, templates to use in proposals, or the latest marketing assets - it’s all there.
 
 ## The SAL playbook
-[The SAL playbook](https://docs.google.com/presentation/d/1S-8Jvr-NcMAEjqB5j0i53WZg4aEtTGTicCpWbZ9JaNk/edit#slide=id.g10c6ab6d93e_0_318) is how a typical, high-performing SAL runs their business on an annual, quarterly, monthly, and weekly basis. Use it as a guide to understand the basics of what key activities and collaboration points are required for things to run smoothly in your territory. This includes collaborating with your deal team.
+[The SAL playbook](https://docs.google.com/presentation/d/1S-8Jvr-NcMAEjqB5j0i53WZg4aEtTGTicCpWbZ9JaNk/edit#slide=id.g10c6ab6d93e_0_318) is how a typical, high-performing SAL runs their business on an annual, quarterly, monthly, and weekly basis. Use it as a guide to understand the basics of what key activities and collaboration points are required for things to run smoothly in your territory. This includes collaborating with your deal team. This playbook aligns directly to [the manager version used by Area Sales Managers in Enterprise Sales](https://about.gitlab.com/handbook/sales/manager-operating-rhythm/enterprise-sales/).
 
 #### Sales planning
 Every Strategic Account Leader in Enterprise Sales should have a plan for how they're approaching their patch. The first step is to [create a sales territory plan](https://about.gitlab.com/handbook/sales/territory-planning/#overview): a collaborative, workable plan for targeting the right customers and implementing goals for income and consistent sales growth over time. It’s usually done annually and updated throughout the year. Your MVP territory plan will help you prioritize your accounts and is then followed by creating [account plans](https://about.gitlab.com/handbook/sales/account-planning/) for those accounts. View resources and training in the [SAL Learning Hub](https://gitlab.edcast.com/channel/strategic-account-leaders).
@@ -35,21 +36,17 @@ Every Strategic Account Leader in Enterprise Sales should have a plan for how th
 
 **The Enterprise Sales Stages Criteria** defines activities and exit criteria for each stage and serves as a roadmap for moving a deal from discovery to closed won (or qualified out quickly). The following process is specific to the Enterprise Sales team.
 
-- [View Enterprise Sales Stages in detail in this Google spreadsheet](https://docs.google.com/spreadsheets/d/1slLr20a_HwfZD81I1InfS57PFlmWapzc586VDI6nmiw/edit?usp=sharing)
+- [View Enterprise Sales Stages, criteria, and resources in this Google spreadsheet](https://docs.google.com/spreadsheets/d/1slLr20a_HwfZD81I1InfS57PFlmWapzc586VDI6nmiw/edit?usp=sharing)
 - [View the Enterprise Sales Cheat Sheet: Exit Criteria in Highspot](https://gitlab.highspot.com/items/62266b479e2aa4ee0f014f79)
 - [View general sales opportunity stages](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages) 
 
 **How to use it:** As you move a deal through the pipeline, the Enterprise Sales Stage criteria defines activities and exit criteria for each stage and serves as a roadmap to getting a deal from discovery to closed won (or qualified out quickly). Use it to help you validate your opportunity and forecast it correctly. This guidance gives definitions for each stage, tells you who might be involved on your team, what activities are typically done in each stage, and what is required before you can move it further in the pipeline.
 
-#### Additional resources for pipeline management
-The below table shows major strategic resources that can help you be successful during each milestone of a deal - from prospecting to transitioning to a the post-sales team. For operational resources, head to the general sales page up top. For commonly used sales assets like marketing plays and pitch decks, head to the [marketing resources handbook page](https://about.gitlab.com/handbook/marketing/strategic-marketing/sales-resources/).
+**Plus, resources for pipeline management:**
+At the bottom of each stage in the detailed spreadsheet, you'll also see major strategic resources that can help you be successful during each milestone of a deal - from prospecting to transitioning to a the post-sales team. For operational resources, head to the general sales page up top. For commonly used sales assets like marketing plays and pitch decks, head to the [marketing resources handbook page](https://about.gitlab.com/handbook/marketing/strategic-marketing/sales-resources/).
 
 
-| Educate & Engage<br>(Sales Stages 0-3) | Facilitate the Opportunity<br>(Sales Stages 3-4) | Deal Closure<br>(Sales Stages 5-6) | Retain and Expand<br>(Growth) |
-| ------ | ------ | ------ | ------ |
-| * [Prospecting](/handbook/sales/prospecting/)<br> * [Discovery](/handbook/sales/playbook/discovery/)<br> * [Articulate Value](https://about.gitlab.com/handbook/sales/command-of-the-message/) | * [Position to Win](https://about.gitlab.com/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/#step-2-scoping)<br> * [Technical Evaluation](https://about.gitlab.com/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/#step-3-technical-evaluation)<br> * [Customer-Centric Proposal](https://about.gitlab.com/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/#12-creating-the-customer-deck-phase-1) | * Mutual Close Plan<br> * [Negotiate to Close](/handbook/sales/negotiate-to-close/)<br> * [Order Processing](/handbook/sales/field-operations/order-processing/) | * [Account Transition](/handbook/customer-success/pre-sales-post-sales-transition/)<br> * [Customer Onboarding](/handbook/customer-success/tam/onboarding/) |
-
-#### Keeping your pipeline healthy
+## Keeping your pipeline healthy
 *Also view the below guidance on the [Sales Prospecting](/handbook/sales/prospecting/) handbook page.*
 
 Generally, surprises - whether in the form of sudden, major deals or sudden, major losses - are a bad thing. We have to strive to create predictable results. At first, this seems like trying to predict the vast unknown. But if you have a strong strategy in place for your pipeline, you’ll be able to see exactly how your year will turn out well before it happens. This means better, more reliable forecasts and less stress for you on whether you’ll meet that target.
