@@ -35,6 +35,16 @@ The policy may renew automaticallly at the end of each policy year. If renewed, 
 
 The health insurance allowance is treated like any other income or allowance under Revenue Commissioners rules. Your normal tax rate including other statutory deductions will apply. You will be liable for Benefit in kind on your health insurance premium, for more information please read [here](https://www.revenue.ie/en/personal-tax-credits-reliefs-and-exemptions/health-and-age/medical-insurance-premiums/index.aspx). 
 
+## Eye Exams
+Team members in Ireland are entitled to regular eye and eyesight exams under the [Safety, Health, and Welfare at Work Regulations 2007](https://www.irishstatutebook.ie/eli/2007/si/299/made/en/print#partii-chapv). GitLab will reimburse team members for the cost of the exams. If an eye exam determines that a team member needs glasses solely and exclusively for VDU (visual display unit i.e. computer screen) use, GitLab will reimburse towards the cost of a basic pair of frames and lenses (i.e. not designer frames) up to 140 Euro.
+
+The team member needs to provide documentation (a prescription) from the optician that confirms if the lenses are specifically required for reading a display screen only and not required for general day to day use.
+
+If you are enrolled in the VHI Medical plan, please submit any eligible claims through the plan first, any out of pocket cost not covered by the plan can be reimbursed up to the max amount in accordance to the Vision policy
+
+Please submit your receipts via expensify and prescription to Total Rewards.
+
+
 ## Pension
 
 GitLab offers a private pension plan via a defined contribution scheme. Orca Financial is an Irish owned Financial Services company to help with the administration of the pension on behalf of GitLab. The pension provider is **Aviva**. Aviva allows for transfers into the plan and can set up an AVC pension for any members that wish to contribute above the minimum required contribution.
