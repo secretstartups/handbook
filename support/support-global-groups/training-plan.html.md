@@ -14,10 +14,11 @@ description: Support Global Groups Training Plan
 **Slack group** `#spt_gg_questions`
 
 #### Where to ask questions?
-**Slack group** `#spt_gg_questions` DRIs will be checking in here regularly, to help answer any questions
-**SGG Q&A** Recorded meetings the week before launch, held in every region
-**SGG Office Hours** Will be held twice in each region the week before launch, and weekly for 2 more weeks
-**DRIs** Everyone is welcome to reach out directly to their friendly DRIs (see above)
+
+- **Slack group** `#spt_gg_questions` DRIs will be checking in here regularly, to help answer any questions
+- **SGG Q&A** Recorded meetings the week before launch, held in every region
+- **SGG Office Hours** Will be held twice in each region the week before launch, and weekly for 2 more weeks
+- **DRIs** Everyone is welcome to reach out directly to their friendly DRIs (see above)
 
 ### Week 0-1 (week before launch), April 25th - April 29th
 By now, all team members have been added to the Slack channel for their Support Global Group.
