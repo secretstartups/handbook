@@ -16,7 +16,7 @@ Due to the continuted iterations and customizations of each role's Sales Compens
 ### FY22 New Logo Target Accounts
 Booking a deal with a New Logo may entitle the Participant to be eligible for additional commission(s) based upon the Participant’s Individual Plan. Below are details on the New Logo Accounts that qualify as well as the process to request Accounts to be added to the New Logo Target Account list:
 
-**Reporting**: The full list of elgibile New Logo Target Accounts can be found on this SFDC report: https://gitlab.my.salesforce.com/00O4M000004aiGV
+**Reporting**: The full list of eligible New Logo Target Accounts can be found on this (private link) [SFDC report](https://gitlab.my.salesforce.com/00O4M000004aiGV)
 
 **Process to Request Accounts to be Added to the New Logo Target Accounts List**
 1. Check the aforementioned report to verify that the Account is not already on the eligibility list
