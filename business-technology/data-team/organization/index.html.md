@@ -39,32 +39,83 @@ classDiagram
    GTM <|-- Platform
         GTM : + Business Partner Data Champion
         GTM : + Function Analyst
-        GTM : + Data Analyst
         GTM : + Analytics Engineer
     R_and_D <|-- Platform
         R_and_D : + Business Partner Data Champion
         R_and_D : + Function Analyst
-        R_and_D : + Data Analyst
         R_and_D : + Analytics Engineer
     G_and_A <|-- Platform
         G_and_A : + Business Partner Data Champion
         G_and_A : + Function Analyst
-        G_and_A : + Data Analyst
         G_and_A : + Analytics Engineer
-    Platform : +Analytics Engineer
+    Financial_Analytics <|-- Platform
+        Financial_Analytics : + Business Partner Data Champion
+        Financial_Analytics : + Function Analyst
+        Financial_Analytics : + Analytics Engineer
+    Engineering_Analytics <|-- Platform
+        Engineering_Analytics : + Business Partner Data Champion
+        Engineering_Analytics : + Function Analyst
+        Engineering_Analytics : + Analytics Engineer
+    Enterprise_Data_COE <|-- Platform
+        Enterprise_Data_COE : + Business Partner Data Champion
+        Enterprise_Data_COE : + Function Analyst
+        Enterprise_Data_COE : + Analytics Engineer
     Platform : +Data Engineer
   ```
 
 ### Fusion Team Assignments
 
-| **GTM** | **R&D** | **G&A** |
-| ----- | ----- | ----- |
-| `@iweeks` _Lead/DRI_ | `@iweeks` _Lead/DRI_  | `@iweeks` _DRI_                 | 
-| `@jeanpeguero`       | `@snalamaru`           | `@pempey` _Lead_                |
-| `@michellecooper`       | `@chrissharp`          | `@jjstark` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  |
-|`@paul_armstrong` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)| `@tpoole1`           |   |
-|     | `@mdrussell`  |                                 |
-|  |`@rbacovic` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  | |  
+| Data Fusion Team Name | Data Champion Team | Data Champion Name | Manager, Data | Lead Analytics Engineer | Function Analyst(s) | Analytics Engineer(s) | Data Engineer(s) |
+| --------------------- | ------------------ | ------------------ | ------------- | ----------------------- | ---------------- | --------------------- | ---------------- |
+| **Research and Development Data Fusion** | **Product Analysis** | `@cbraza` | `@iweeks` | `@chrissharp` | `@cbraza` `@eneuberger` `@nicolegalang` `@dpeterson1` `@nraisinghani` `@matthewpetersen` | `@chrissharp` `@tpoole1` `@mdrussell` | `@rbacovic ` |
+|                          | **Customer Success**  | `@jdbeaumont` |           |      `@mdrussell`      |  `@cankney` `@bbutterfield`  |                          |
+| **Go to Market Data Fusion** | **Sales Strategy and Analytics** | `@mvilain` | `@iweeks` | `@michellecooper` | `@nfiguera` `@mvilain` | `@jeanpeguero` `@pempey` | `@paul_armstrong` `@Rigerta` |
+|                          | **Marketing Strategy and Performance**  | `@jahye1` |           |                   | `@rkohnke` `@degan` |                           |                          |
+|                          | **Online Sales and Self-Service**  | `@alex_martin` |           |                   | `@mfleisher` |                          |                          |
+|                          | **Business Insights**              | `@statimatla`  |     |         | `@jstemmer1` `@kchen6` `@kkarthikeyan` |                    |                          |
+| **Financial Analytics Data Fusion** | **Corporate Finance** | `@james.shen` | `@iweeks`  | `@michellecooper` | `None` | `@jeanpeguero` | `@paul_armstrong` |
+|                                 | **Sales Finance**            | `@fkurniadi`               |                   |  |  `@ofalken`    |                   |                |
+|                                 | **Business Insights**        | `@statimatla`     |                   |   |  `@vagrawalg` `@zzhang7`    |                   |                |
+| **Engineering Analytics Data Fusion** | **Engineering Analytics** | `@meks` | `@iweeks`  | `@pempey` | `@lmai1` | `@pempey` |  `@jjstark`   |
+| **General and Administrative Data Fusion** | **People Analytics** | `@aperez349` | `@iweeks`  | `@pempey` | `@aperez349` | `@pempey` |  `@Rigerta`   |
+| **Enterprise Data Center of Excellence** | **All Data Fusion Teams** | `All Data Fusion Leads and Champions ` | `@iweeks`  |  `@snalamaru` | `All Function Analysts` |  `@snalamaru` `@tpoole1` | `TBD`   |
+
+The Data Fusion Team has several leadership roles on the team. These leaders live the GitLab `Collaboration` value and achieve great `Results` while doing so. The Manager, Data, Data Champion, and Lead Analytics Engineer provide leadership, mentoring, and guidance to the Data Fusion Team.
+
+### Manager, Data
+
+In support of the Data Fusion Team, the Manager, Data fulfills the below responsibilities from the [Senior Manager, Data](https://about.gitlab.com/job-families/finance/manager-data/#senior-manager-data) Job Responsibilites:
+
+1. Works with the Director, Data and Data Champions to envision and draft Quarterly Objectives, driven by requirements gathered from multiple business partners.
+1. Monitor, measure, and improve key aspects of the Data Fusion Teams.
+1. Regularly meet with business partners to understand and solve for data needs.
+1. Serve as a Maintainer on the Data Team Project. Provide final review, feedback, and approval of Merge Requests submitted by the Data Fusion Teams.
+1. Work closely with the Enterprise Data Fusion team to develop and evangelize Dimensional Modeling adoption and best practices.
+
+### Data Champion
+
+In support of the Data Fusion Team, the Data Champion is the `DRI for Data` within a Functional Analytics Team. The Data Champion fulfills the below responsibilities from the [Data Champion Program](https://about.gitlab.com/handbook/business-technology/data-team/direction/data-champion/) in Data Fusion:
+
+1. Develop a Data Success Plan in coordination with the Data Team.
+1. Serve as Data DRI for their functional team, capturing all Data requests, including Data Quality problems.
+1. Prioritize and stack-rank Data Issues and Epics, ensuring the Data Issue Board remains up-to-date.
+1. Communicate priorities to the Data Team through the Issue Board.
+1. Develop a Data handbook page geared to their functional team audience, such as Data For Product Managers.
+1. Regularly communicate and cascade data news and practices.
+1. Helps to improve Data Quality in source systems.
+1. Watch changes in source systems and help incorporate necessary updates in the Enterprise Data Warehouse.
+
+### Lead Analytics Engineer
+
+In support of the Data Fusion Team, the Lead Analytics Engineer fulfills the below responsibilities from the [Senior Analytics Engineer](https://about.gitlab.com/job-families/finance/analytics-engineer/#senior-analytics-engineer-responsibilities) Job Responsibilites:
+
+1. Own one or more stakeholder relationship in Go To Market, Research & Development, General & Administrative, Financial Analytics, or Engineering Analytics business functions.
+1. Co-DRI of Key Results along with the Manager, Data.
+1. Lead [work breakdown](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/#work-breakdowns) sessions for OKRs. Incorporate the Data Champion and other required team members in the work breakdown sessions.
+1. Lead bi-weekly [milestone planning](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/#bi-weekly-milestone-planning) sessions for the assigned Fusion Team. Work with Data Champions to prioritze `P3-Other` issues. The target state is for the Fusion team to spend 75% of their time working on `OKR` issues and 25% of their time working on `Other` issues. The OKRs are set by the Manager, Data and the Director, Data. Any changes to these priorities will be coordinated by Data Management.
+1. Review the weekly stand-up and provide support as needed to unblock team members and answer questions.
+1. Update the Rolly Bot Epic description section for the Key Results that the Lead AE is Co-DRI off. 
+1. Keep Fusion Team boards updated on a bi-weekly cadence aligning to the Planning Drumbeat cadence.
 
 ### Data Platform Team Stable Counterpart
 
@@ -76,7 +127,7 @@ The stable counterpart is expected to participate in the following meetings asyn
 1. Data Program Sync meetings where issue prioritization is discussed amongst cross-functional stakeholders. For example, Data Program Support for R&D and Data Program Support for GTM.
 1. Data Fusion Team Milestone Planning Meetings.
 1. Data Fusion Team Meetings.
-				
+
 ### Data Fusion Team Operations
 
 Critical to successful Data Fusion Teams are the following elements:
@@ -87,10 +138,20 @@ Critical to successful Data Fusion Teams are the following elements:
 
 We encourage our stakeholders to follow along with our issue boards to understand the scope of work:
 
-1. [GTM](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AGTM)
-2. [R&D](https://gitlab.com/gitlab-data/analytics/-/boards/3544389?label_name[]=Team%3A%3AR%26D)
-3. G&A: [People](https://gitlab.com/groups/gitlab-data/-/boards/1435002?&label_name[]=People), Engineering Analytics `coming soon`
-4. [Platform](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AData+Platform)
+| Data Fusion Team Name | Data Champion Team Name | Priority 1-Ops Board | Priority 2-OKRs Board | Priority 3-Other Board | 
+| --------------------- | ----------------------- | -------------------- | --------------------- | ---------------------- | 
+| **Research and Development Data Fusion** |  **Product Analytis**    |  |                       |                        |
+|                                          | **Customer Success**  |     |                       |                        |  
+| **Go to Market Data Fusion** | **Sales Strategy and Analytics** |      |                       |                        |
+|                              | **Marketing Strategy and Performance**  |           |           |                        |  
+|                              | **Online Sales and Self-Service**  |    |                       |                        |           
+|                              | **Business Insights**              |    |                       |                        |     
+| **Financial Analytics Data Fusion** | **Corporate Finance** |          |                       |                        | 
+|                                 | **Sales Finance**            |       |                       |                        |
+|                                 | **Business Insights**        |       |                       |                        |         
+| **Engineering Analytics Data Fusion** | **Engineering Analytics** |    |                       |                        | 
+| **General and Administrative Data Fusion** | **People Analytics** |    |                       |                        | 
+| **Enterprise Data Center of Excellence** | **All Data Fusion Teams** | |                       |                        | 
 
 # Data Program Recruiting
 
