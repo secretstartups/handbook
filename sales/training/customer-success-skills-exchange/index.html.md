@@ -51,7 +51,6 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 | 2021-08-18 | **[Group Conversation: Demo Repo](https://youtu.be/3j8ypg7TX64)**            |    Private            |
 | 2021-08-04 | **[Creating and Deploying a Helm Chart with CICD](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/131)**   |  Public    |
 | 2021-07-14 | **[How to Introduce PS with Ease](https://youtu.be/JU3aXg7Hry0)** | Private |
-| 2021-06-16 | **[Container Host Security - Getting Started with Falco](https://youtu.be/LtQrLXzFc8E)** |   Public              |
 | 2021-05-19 | **[Enablement Roundtable - Completed OKR's](https://youtu.be/m6w4mVhA2GY)** |    Private          |
 | 2021-05-04 | **[Incident Management](https://youtu.be/iEepe2uy1uM)** |   Public          |
 | 2021-04-21 | **[GitLab's GraphQL API](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)**       | Public        |
