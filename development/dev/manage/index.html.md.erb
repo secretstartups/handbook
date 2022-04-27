@@ -33,11 +33,11 @@ In GitLab issues, questions should start by @ mentioning the relevant Product Ma
 We use an [issue board](https://gitlab.com/gl-talent-acquisition/req-intake/-/boards/3479556?scope=all&label_name[]=devops%3A%3Amanage) to track open Development positions within the Manage stage.
 
 1. When a new position is identified and approved, the hiring manager ("HM") will create a kickoff issue within the [req-intake project](https://gitlab.com/gl-talent-acquisition/req-intake) and assign it to themselves. This may result in duplicated kickoff issues if there are multiple hires approved. Due dates will be updated for the target hiring date so it's transparent when we are behind, and by how much.
-1. New positions require a Greenhouse ID ("GHID") from Finance. If your position is still waiting on a GHID, use the ~"HM::Awaiting Greenhouse ID" label. If you already have the GHID for your position, add it to the issue description.
+1. New positions require a Greenhouse ID ("GHID") from Finance. If your position is still waiting on a GHID, use the `~"HM::Needs Greenhouse ID"` label. If you already have the GHID for your position, add it to the issue description.
 1. Before a position can be opened in Greenhouse, your recruiter will need some initial information about this position which is gathered inside a kickoff issue. You can fill this information out at any time between creation and receiving the GHID.
-1. Sometimes there is a delay between completing the kickoff issue and creating the position in Greenhouse, while you and your recruiter align on requirements. Use the ~"HM::Completed Kickoff Issue" label to signify that the position is ready to go live in Greenhouse, and reassign it to the recruiter DRI.
-1. When the position is accepting candidates in Greenhouse and the hiring process begins (sourcing candidates, reviewing resumes, scheduling interviews), update the label with ~"HM::Interviewing". More granular information, such as the number of screening calls or technical/behavioral interviews scheduled, can be reported weekly in 1-1's or using the issue. While many people are involved in this process, hiring managers are still the DRI for a successful hire.
-1. Once you have selected a candidate for the position, you can use the ~"HM::Pending Offer" label to indicate the Justification and Offer process has been started.
+1. Sometimes there is a delay between completing the kickoff issue and creating the position in Greenhouse, while you and your recruiter align on requirements. Use the `~"HM::Completed Kickoff Issue"` label to signify that the position is ready to go live in Greenhouse, and reassign it to the recruiter DRI.
+1. When the position is accepting candidates in Greenhouse and the hiring process begins (sourcing candidates, reviewing resumes, scheduling interviews), update the label with `~"HM::Interviewing"`. More granular information, such as the number of screening calls or technical/behavioral interviews scheduled, can be reported weekly in 1-1's or using the issue. While many people are involved in this process, hiring managers are still the DRI for a successful hire.
+1. Once you have selected a candidate for the position, you can use the `~"HM::Pending Offer"` label to indicate the Justification and Offer process has been started.
 1. If you become blocked at any point during this process (unable to get the GHID, waiting too long between stages, etc), use the ~"blocked" label and add a note to the issue about the problem you're experiencing.
 
 ### DRIs & SLOs
@@ -65,14 +65,12 @@ From here, we can pull in additional help to resolve the escalation and archive 
 
 **_Reminder_**: Please do not use a candidate's full name in a public Slack channel.
 
-
 ## Direction
 
 The direction and strategy for Manage is documented on [https://about.gitlab.com/direction/manage/](https://about.gitlab.com/direction/manage/). This page (and the category direction
 pages under the "Categories" header) is the single source of truth on where we're going and why.
 * Direction pages should be reviewed regularly by Product. When updating these pages, please CC the relevant group to keep your teammates informed.
 * Product should make sure that their groups understand the direction and have an opportunity to contribute to it. Consider a monthly direction AMA for your group to field questions.
-
 
 ## Career Development
 
@@ -81,6 +79,7 @@ pages under the "Categories" header) is the single source of truth on where we'r
 It can be hard to understand how you're doing in your role, because feedback can come off as formal (annual reviews, 360 surveys, career development conversations, goal check-ins) or casual (in Slack channels, 1-1's, MR reviews, team meetings.) We receive various kinds of feedback regularly and through different formats, so the type of feedback you're receiving is not always clear. In order to be more intentional about the types of feedback given, here is a classification chart based on [three types of feedback](https://forimpact.org/three-types-feedback/#:~:text=%E2%80%9CFeedback%20comes%20in%20three%20forms,about%20relationship%20and%20human%20connection.):
 
 | Label | Meaning | Example |
+|---|---|---|
 | **(appreciation)** | I want to thank you for doing this, and please do more of it in the future | "I did not expect that you would have created a working group, because you've done so, our whole team will benefit from the results."
 | **(coaching)** | I'm trying to help you improve a behavior you are already exhibiting or change a behavior that you currently have | "The reports that you give me are very helpful, and in the future we can schedule them for the first of the month to be more consistent."
 | **(evaluation)** | Tells you where you stand according to existing standards or expectations | "My expectation was that our decision would be transparent. Since it was not, our team has forgotten the decision, so we must be sure and meet that expectation next time." |
@@ -89,37 +88,46 @@ It can be hard to understand how you're doing in your role, because feedback can
 
 This section lists relevant experience areas for individual contributors interested in the management track, new engineering managers, or existing engineering managers who may be lacking opportunities. This list can be used to identify opportunities in these areas.
 
-
-<details>
+<details markdown=1>
 <summary>Expert hiring manager</summary>
 
 ## Expert hiring manager
+
 - Experience with behavioral interviews
 - Screening candidates for your team
 - Identifying cultural answers or clarifying vague answers
 - Identifying a headcount need in advance
+
 </details>
-<details>
+
+<details markdown=1>
 <summary>Performance management</summary>
 
 ## Performance management
+
 - Crucial conversations
 - Performance improvement plans
 - Coaching on improvement areas
 - Giving feedback
 - Identifying underperformance
+
 </details>
-<details>
+
+<details markdown=1>
 <summary>Communicating company decisions</summary>
 
 ## Communicating company decisions
+
 - Annual review, calibration sessions, compensation discussions
 - Motivating team members on opportunities that come with negatives (borrow requests, engineering allocations, feature change locks)
+
 </details>
-<details>
+
+<details markdown=1>
 <summary>Product area</summary>
 
 ## Product area
+
 - Triage reports
 - Define and monitor productivity metrics, take action if necessary
 - Collaborative planning
@@ -127,35 +135,45 @@ This section lists relevant experience areas for individual contributors interes
 - Leading an incident in your area
 - Proposing and driving a borrow request (reactive) 
 - Shared OKRs and delivery
+
 </details>
-<details>
+
+<details markdown=1>
 <summary>Team success</summary>
 
 ## Team success
+
 - Career growth development leading to promotions, mentors, technical interviews, maintainers
 - Setting goals based on 360 feedback and career aspirations
 - Smooth onboarding process
 - Frequent and transparent handbook updates
 - Identifying performance indicators for the team
 - Becoming a mentor
+
 </details>
-<details>
+
+<details markdown=1>
 <summary>Achieving consensus</summary>
 
 ## Achieving consensus
+
 - Facilitating a working group
 - Participating in stage, sub-department, skip level, and/or engineering manager discussions
 - Coordinating the dev on-call
 - Experience with being Incident Manager On-Call ([IMOC](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities))
 - Collaboration with the full product group [quad planning](/handbook/engineering/quality/quality-engineering/quad-planning/)
+
 </details>
-<details>
+
+<details markdown=1>
 <summary>Personal growth</summary>
 
 ## Personal growth
+
 - Receiving feedback
 - Continued learning, identifying new growth opportunities, and building a personal growth plan
 - Seeking a mentor
+
 </details>
 
 ## Meetings
@@ -173,7 +191,6 @@ Agenda documents and recordings can be placed in the [shared Google drive](https
 
 All meetings should have an agenda prepared at least 12 hours in advance. If this is not the case, you are not obligated to attend the meeting. Consider meetings canceled if they do not have an agenda by the start time of the meeting.
 
-
 ## Shared calendars
 
 1. Manage: Important Dates - Use this calendar for stage-wide reminders (OKR due dates, promotion cycles, talent assessment timelines, regular holiday preparations)
@@ -186,14 +203,11 @@ All meetings should have an agenda prepared at least 12 hours in advance. If thi
     * Scroll to the "Share with specific people" section of the settings area. Click "Add people" and add the new member with "Make changes and manage sharing".
   * For a more detailed walkthrough, have a look at a quick [video walkthrough](https://www.youtube.com/watch?v=TmcPuuljf1w)
 
-
-
 ## Dashboards
 
 - [Stage Development Metrics](https://app.periscopedata.com/app/gitlab/855124/Manage:Development-Metrics)
 - [Customer priorities](https://app.periscopedata.com/app/gitlab/882533/Dev:-Manage-Customer-Priorities)
 - [Performance indicator overview](/handbook/engineering/metrics/dev/manage/)
-
 
 ## Links and resources
 {: #links}
