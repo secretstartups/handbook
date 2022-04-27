@@ -1856,11 +1856,13 @@ please make sure to specify them in the title, add the correct [category](../#ca
 
 [Video walkthrough of the process](https://youtu.be/GxKooIAknM8)
 
-**What's New will be initiated on the 20th, finalized on the 21st, and typically merged 2 to 4 hours AFTER the release post is live on the 22nd. The exact timing of the merge depends on the availability of a `maintainer` to merge it**
+**"What's new" can be seen by clicking on the `?` icon in the navigation menu of GitLab and choosing "What's new."**
 
-1. The release post manager will identify 3-7 release post items to be featured in the "What's new" menu item each release as part of the their final review.
-    - "What's new" can be seen by clicking on the `?` icon in the navigation menu of GitLab and choosing "What's new."
-    - The selected items can but do not have to align with the primary features of the release post.
+The What's New MR will be initiated by the Release Post Manager on the 20th, finalized on the 21st, and typically get merged by a `maintainer`  2 to 4 hours AFTER the release post is live on the 22nd. The exact timing of the merge depends on the availability of a `maintainer` to merge it**
+
+1. On the 20th, the Release Post Manager creates the What's new MR. 
+2. The RPM will pull all of the final/approved primary items in the release post to feature in  "What's new" 
+    - The selected items can but do not have to align with the primary features of the release post. If the RPM feels comfortable making a unique selection, they may do so. 
     - It is recommended to strive for a balance of features available to both free and paid users. If we only include Ultimate features, non-Ultimate users may stop engaging.
 1. The release post manager will create a new MR in the `gitlab.com/gitlab-org/gitlab` project
    1. Use this [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/whats_new/templates/YYYYMMDD0001_XX_YY.yml) to create a new file in the `gitlab/data/whats_new` directory.
@@ -1874,6 +1876,7 @@ please make sure to specify them in the title, add the correct [category](../#ca
    1. Before committing the MR, check that the YAML is valid in a validator like https://jsonformatter.org/yaml-validator 
 1. Add labels  ~"documentation" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for.
 1. Apply the affiliated release `milestone` (it's ok if it says "expired") and labels `whats new` and `release post`.
+1. On the 20th, when the MR is ready for review, assign to Product Operations DRIs `@fseifoddni` `@brhea` and VP Product `@david` as Reviewers and `@mention` them in the MR to complete their review by the 21st. 
 1. After the release post is live and you have verified the images load locally in GDK by pulling down the What's New branch, have the MR reviewed following our standard [code review process](https://docs.gitlab.com/ee/development/code_review.html) and have it merged by a `maintainer`. It is recommended to communicate directly to the maintainer that the MR is time sensitive to avoid unecessary delays. 
 
 **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display.** After the release post is live, but before merging, the branch should be checked out and the content checked in GDK to make sure that all images are displaying, links are accurate, and that the What's New items are part of the final release post. Only once those are confirmed should the MR be merged. Typically this means the What's New content will be live on the 23rd or 24th, depending on maintainer reviews.
