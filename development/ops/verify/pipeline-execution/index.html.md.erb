@@ -347,56 +347,52 @@ You can also search all Feature Flags through Sam's great [tool here](https://sa
 
 ### Collaboration with UX and Engineering
 
-To create a high-quality product that is functional and useful – Engineering, PM and Product Designer need to work closely together, combine methodologies, and often connect throughout the product development. Product Management and Product Designers aim to work 3 months in advance of Engineering proposals to ensure the problem definition and solution has been adequately validated prior to building. 
+To create a high-quality product that is functional and useful – Engineering, PM and Product Designer work closely together, combine methodologies, and often connect throughout the product development process. They use `workflow::design` to discuss possible complexities, challenges, and uncover blockers around the proposed solution. 
 
 Product Designers play a critical role in the product development of user-facing issues. They collaborate with the Engineering and the Product Manager to design the user experience for the features. Once the design solution is proposed, agreed and validated, the Engineering [DRI](/handbook/people-group/directly-responsible-individuals/) is assigned to implement that design and functionality during the milestone for which the issue is planned.
 
-Product Designer, PM, and Engineering use `workflow::design` to discuss possible complexities, challenges, and uncover blockers around the proposed solution. To avoid blocking reviews later in the product development flow, the Product Designer, PM, and Engineering should work collaboratively throughout the feature design and development process to check-in often, so that the UX approval on merge requests is not required.
-
-#### UX Scorecards 
-
-A top priority for us is usability, and one way to effectively measure our [JTBDs](/handbook/engineering/development/ops/verify/pipeline-execution/jtbd/) is with periodic [UX Scorecards](/handbook/engineering/ux/ux-scorecards/). For especially technical tasks requiring infrastructure support such as a functional cluster or provisioned environment with a gitlab-ci.yml file Product Design and the Product Manager may work with Engineering Manager and Quality stable counterparts to craft a project based on the scenarios to test to the JTBDs. Some guidelines for working together in this case: 
-
-- Be sure to schedule _at least_ a full milestone in advance, so there is enough lead time for the stable counterparts
-- Create an overall epic and add issues for task tracking for infrastructure creation
-- Schedule a kick off or record a walkthrough of the scenarios for everyone to have a shared understanding of the JTBD that users are being evaluated against
-
-We are also working on building a library of precreated tasks for contribution from the engineering team in [CI Sample Projects group](https://gitlab.com/ci-sample-projects). These will be prioritized in the milestone and will help avoid having too much overhead from UX Scorecards and Category Maturity Scorecards in the future.
+Following the [code review guidelines](https://docs.gitlab.com/ee/development/code_review.html#approval-guidelines) means that we should ensure all MRs with user facing changes are reviewed by a product designer. UX reviews should follow [the designer review guidelines](/handbook/engineering/ux/product-designer/mr-reviews/) as closely as possible to reduce the impact on velocity while maintaining quality.
 
 #### Inclusive Development
 
-Our process of planning and development relies heavily on overcommunication rather than any approval gates or automated notification mechanisms. We adhere to the proactive mindset and responsibility of everyone involved to make sure every step in the process is as transparent as it can be.
-
-For both planning and building this means direct, cross-functional, and other relevant stakeholders are included early into the process. This makes sure everyone is able to contribute to the best of their capabilities at the right time in the process. This can include, but is not limited to, GitLab objects, Slack, meetings, and daily standups.
+Our process of planning and development relies heavily on overcommunication rather than any approval gates or automated notification mechanisms. We adhere to the proactive mindset and responsibility of everyone involved to make sure every step in the process is as transparent as it can be. For both planning and building this means direct, cross-functional, and other relevant stakeholders are included early into the process. This ensures everyone is able to contribute to the best of their capabilities, and at the right time in the process. This can include, but is not limited to, GitLab objects, Slack, meetings, and daily stand-ups.
 
 Some practical examples of this are:
-- When you open up or begin working on an epic, issue, or merge request consider if all stakeholders are aware of this or should be updated. If unsure, error on the side of updating rather than keeping silent.
+- When you open up or begin working on an epic, issue, or merge request, consider if all stakeholders are aware of this or should be updated. If unsure, error on the side of updating rather than keeping silent.
 - When making significant progress make sure this is seen by the relevant stakeholders even if you don't require immediate feedback by mentioning them rather than relying on automated email notifications. Make their involvement explicit.
 
-For issues related to Merge Request experience, make sure to keep [the Code Review group](/handbook/product/categories/#code-review-group) in the loop to avoid any technical or UX debt from occurring. Refer to the [collaboration on merge requests experience](/handbook/product/cross-stage-features/merge-requests/) page to learn more about the collaboration framework.
+Note: For issues related to Merge Request experience, always keep [the Code Review group](/handbook/product/categories/#code-review-group) in the loop to avoid any technical or UX debt from occurring. Refer to the [collaboration on merge requests experience](/handbook/product/cross-stage-features/merge-requests/) page to learn more about the collaboration framework.
 
 Note: A good practice when only wanting to inform rather than requesting a direct action from the mentioned stakeholders is to put `FYI` directly following the @mention handle.
 
+#### UX Scorecards 
+
+A top priority for us is usability, and one way to effectively evaluate our [JTBDs](/handbook/engineering/development/ops/verify/pipeline-execution/jtbd/) is with periodic [UX Scorecards](/handbook/engineering/ux/ux-scorecards/). For technical tasks that require infrastructure support, such as a functional cluster or provisioned environment with a `.gitlab-ci.yml` file, the Product Designer and the Product Manager can work with the Engineering Manager and Quality stable counterparts to craft a project based on the scenarios to test for the JTBDs. Some guidelines for working together in this case: 
+
+- Be sure to schedule _at least_ a full milestone in advance, so there is enough lead time for the stable counterparts
+- Create an overall epic and add issues for task tracking for infrastructure creation
+- Schedule a kick off or record a walkthrough of the scenarios for everyone to have a shared understanding of the JTBD that are being evaluated
+
+We are also working on maintaining a library of precreated tasks for contribution from the engineering team in the [CI Sample Projects group](https://gitlab.com/ci-sample-projects). These will help avoid having too much overhead from UX Scorecards and Category Maturity Scorecards in the future.
+
 #### Breaking down issues for iteration
 
-We suggest using the below steps to reach the best results in the shortest time:
+We follow the steps below to achieve the best results in the shortest time:
 
-* Once, through user research, we have identified a user need and have generated some ideas to meet that need, Product Designer drives the process of moving those ideas into solution prototypes involving PM and Engineering Team early and often.
-    * The [UX Definition of Done](/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/continuous-integration/index.html#ci-ux-dod-objectives) can be applied in order to better break down design work and give counterparts better insight into which steps in the design workflow need to be completed before the MVC can move to the development phase.
-* We take those prototypes through user testing to validate they are solving the original problem.
-* Engineers, Product Designer, EM and PM may compare and contrast multiple possible solutions to decide which one to work on first based on the scope of the solutions and experience of the team.
-* When a solution is validated with users - it is time to break the big solution down into smaller issues involving the whole team (PM, Engineers, Product Designer, QA and Technical Writer).
-* Engineers, Product Designer, EM and PM are expected to work closely together to find the most technically feasible and smallest feature set to deliver value to early customers and provide feedback for future product development. Check out [iteration strategies](#iteration-strategies) for help.
+1. After user research or customer feedback identifies a user need, and has generated some ideas to meet that need, the Product Designer drives the process of moving those ideas into design proposals involving the PM and the Engineering Team early and often. The [UX Definition of Done](/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/continuous-integration/index.html#ci-ux-dod-objectives) can be referenced to give counterparts better insight into which steps in the design workflow need to be completed before the MVC can move to the development phase.
+1. Depending on our confidence in the proposed solution, we may take those prototypes through user testing to validate if they would solve the original problem.
+1. Engineers, the Product Designer, EM and PM can compare and contrast multiple possible engineering approaches to decide which one to work on first based on the scope of the solutions and experience of the team.
+1. When a solution is validated and the team has a clear understanding of the effort required, it is time to break the big solution down into smaller issues. This is usually done in the `workflow::planning breakdown` phase and the whole team (PM, Engineers, Product Designer, QA, and Technical Writer) is involved in the process. They work closely together to find the most technically feasible and smallest feature set to deliver value to early customers and provide feedback for future product development. Check out [iteration strategies](#iteration-strategies) for help.
 
 We aim to design broadly for an epic or full feature at least one milestone ahead of time and then break the big solution into smaller issues to pick up in the next milestones.
 Suppose working one milestone ahead to design the big solution is not possible. In that case, Engineering and Product Designer will define the first most technically feasible and smallest feature set ([MVC](/handbook/values/#minimal-viable-change-mvc)) to satisfy early customers that will be implemented in the same milestone.
 
-#### Reviewing Merge Requests
+#### Avoiding crunch times between UX, Product and Engineering
 
-In the past, we did not require UX reviews on MRs in Pipeline Execution in order to increase velocity.
-A lot has changed since this was introduced so we're making steps to re-align ourselves with the [code review guidelines](https://docs.gitlab.com/ee/development/code_review.html#approval-guidelines) and ensuring all MRs with user facing changes are reviewed by a product designer.
-
-UX reviews should follow [the guidelines](/handbook/engineering/ux/product-designer/mr-reviews/) as closely as possible to reduce the impact on velocity whilst maintaining quality.
+* Ideally, Product Management and Product Designers aim to work 3 months in advance of Engineering proposals to ensure the problem definition and solution has been adequately validated prior to building. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts.
+* the Product Designer, PM, and Engineering use the [Design phase](/handbook/product-development-flow/#validation-phase-3-design) in the Validation track to talk about complexities and discuss challenges and uncover blockers. Once we are all in agreement, we can move it to the [Solution Validation phase](/handbook/product-development-flow/#validation-phase-4-solution-validation).
+* If it is taking more than a week to understand and investigate the technical feasibility for the design solution, update the workflow label to `~workflow::blocked` and change the assignee to engineering DRIs until the technical discussion is resolved. If the discussion is expected to go on longer, reducing the chances of the design solution being delivered in the intended milestone, consider creating [a spike issue](/handbook/engineering/development/ops/verify/pipeline-execution/#spikes) for the discussion that blocks the current issue. 
+* Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](/handbook/product-development-flow/#build-track) to avoid unplanned changes.
 
 #### Collaborating with the Wider Community on Community Merge Requests
 
@@ -408,12 +404,7 @@ The Engineering DRI works with the Product Designer throughout the `workflow:in 
 
 If we find that solutions are consistently not matching the agreed upon design, we will hold a retrospective with the DRI, designer, and product manager to discuss where the gaps in communication are so that we can improve. It may be necessary to begin requiring a UX approval for merge requests on certain issues to help the Engineering DRI meet the requirements.
 
-#### Avoiding crunch times between UX and Engineering
 
-* Ideally, the Product Manager works 3 months ahead of time with a Product Designer to validate the problem and work on the solution. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts.
-* Product Designer, PM, and Engineering use the [Design phase](/handbook/product-development-flow/#validation-phase-3-design) in the Validation track to talk about complexities and discuss challenges and uncover blockers. Once we are all in agreement, we can move it to the [Solution Validation phase](/handbook/product-development-flow/#validation-phase-4-solution-validation).
-* If it is taking more than a week to understand and investigate the technical feasibility for the design solution, update the workflow label to `~workflow::blocked` and change the assignee to engineering DRIs until the technical discussion is resolved. If the discussion is expected to go on further, risking the chances of the design solution to be delivered in the intended milestone, consider creating [a spike issue](/handbook/engineering/development/ops/verify/pipeline-execution/#spikes) for the discussion that blocks the current issue. 
-* Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](/handbook/product-development-flow/#build-track) to avoid unplanned changes.
 
 ### Collaborating with other Product Groups at GitLab
 
