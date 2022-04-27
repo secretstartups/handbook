@@ -59,8 +59,7 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Handbook updates to describe new process and deprecate engineering allocation process | TBD | Not started | TBD | TBD |
 | Refine stakeholder dashboard views, bug & maintenance backlog types | TBD | Not Started | Mek Stittri | TBD | 
 | Setup monthly MR type reviews between engineering managers | TBD | Started | Mek Stittri | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
-| Refine stakeholder dashboard views, bug & maintenance backlog types | TBD | Mek Stittri | TBD | 
-| Setup monthly MR type reviews between engineering managers | TBD | Mek Stittri | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
+| Refine stakeholder dashboard views, bug & maintenance backlog types | TBD | Not Started | Mek Stittri | TBD | 
 | Reduce undefined MR types to less than 5% | TBD | In process | Christopher Lefelhocz | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
 | 100% of teams migrated to new process | 6/15 | In process (5% : 2 out of ~39) | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
 | Do a restrospective and close working group | 6/22 | Not started | Wayne Haber | TBD |
