@@ -74,13 +74,40 @@ See the [At Risk Customers Dashboard](https://gitlab.gainsightcloud.com/v1/ui/gs
 
 ### At-Risk Process
 
-<br>
+TAMs can use Red, Yellow, and Green to reflect their sentiment of a customer's contraction or churn risk. Below is a brief explanation about how to think about colors in the At-Risk process. Links provide more detailed information.
 
-![GitLab At-Risk Customer Process](images/at-risk-process.jpeg)
+- [Green](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#green) - Healthy customer, no risk of contraction or churn. No risk follow-up required.
+- [Yellow](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#yellow) - Some low risk, or some admin hygiene needed. No risk follow-up required.
+- Yellow with Requires Triage - Higher level of risk, including product risk. Indicates that TAM has started corrective actions on an account and follow - up from team members outside of the TAM group is needed, but it is not red yet.
+- [Red](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#red) - High risk of contraction or churn. Indicates that At-Risk Process is required.
 
-When a TAM has determined an account is red, then:
+
+![GitLab At-Risk Customer Process](images/TAM_AtRisk_Customer_Process.jpeg)
+
+#### When a TAM has determined an account is red:
 
 1. **Log Timeline: Risk Update**: log `Risk Update` Timeline post marking TAM Sentiment as Red and any context for the at-risk account
+1. **Create CTA**:
+   1. Immediate: TAM will create an `At-Risk` CTA to track the high level risks, OR
+   1. Overnight: Gainsight will auto create the `At-Risk` CTA overnight for the TAM
+1. **Update CTA**: TAM to update Risk Type and Risk Reason dropdown fields
+1. **Monthly Timeline Update: Risk Update**: TAM logs a `Risk Update` Timeline post. Update CTA as necessary
+1. **At-Risk Conclusion**:
+   1. Customer is won back:
+      1. Log Timeline `Risk Update` type for TAM Sentiment as Green and final notes
+      1. Change customer Lifecycle Stage to Adopting
+      1. Close out CTA with success criteria (Closed-Won, win reasons)
+   1. Customer is lost:
+      1. Log Timeline `Risk Update` type with final update
+      1. Change customer Lifecycle Stage to: Will Churn for a churning customer and Adopting for downgrade customer
+      1. Close out CTA with success criteria (Closed-Lost, loss reasons)
+
+This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
+
+
+#### When a TAM has determined an account is yellow and requires triage:
+
+1. **Log Timeline: Risk Update**: log `Risk Update` Timeline post marking TAM Sentiment as Yellow and any context for the at-risk account, and checks the `Requires Triage` box. 
 1. **Create CTA**:
    1. Immediate: TAM will create an `At-Risk` CTA to track the high level risks, OR
    1. Overnight: Gainsight will auto create the `At-Risk` CTA overnight for the TAM

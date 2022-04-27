@@ -65,7 +65,7 @@ Customer is very likely to renew and/or expand with no known or assumed risk of 
 - Leveraging support services as defined by creation of tickets (1-5 tickets per month)
 - Interest in providing feedback and engaging with GitLab through other programs and events (e.g., Commit, CAB)
 
-### Yellow
+### Yellow & Yellow "Needs Triage"
 
 Potential risk or significant lack of information leading to uncertainty. Indicates challenges to overcome, with a lower risk of churn or downsell. Customer's experience: engagement, adoption and/or experiences are lower than expected, risking GitLab's ability to deliver customer value and outcomes and/or drive future revenue growth. Examples:
 
@@ -78,6 +78,8 @@ Potential risk or significant lack of information leading to uncertainty. Indica
 - Not leveraging technical support services or has a large number of cases and/or high severity cases (6-15 tickets per month, or no ticket(s) opened after being advised by the TAM that Support is the best path to resolution for an issue(s))
 - Poor experiences with Support, Professional Services or another part of GitLab
 - Working with a single contact at a company (single-threaded).
+
+There might be well understood reasons within the account team why a customer is flagged as Yellow within the current phase of the customer lifecycle. If the TAM decides that corrective actions and follow up from team members outside of the TAM group is required the TAM must follow the [At-Risk Customer Process](https://about.gitlab.com/handbook/customer-success/tam/renewals/#at-risk-process) and flag the account as Yellow "Requires Triage".
 
 ### Red
 
@@ -177,26 +179,8 @@ Health score criteria is either manually or automatically applied to determine t
 
 #### At-Risk CTA
 
-For a process overview, see [At Risk Customer Video](https://www.youtube.com/watch?v=MQqfL3WT1zo).
+For process overview and steps, see [At Risk Process](https://about.gitlab.com/handbook/customer-success/tam/renewals/#at-risk-process).
 
-##### Opening an At-Risk CTA:
-
-When an account's health status changes to something other than [Green](#green), it may warrant creating a [Gainsight CTA](/handbook/customer-success/tam/gainsight/#ctas). The following criteria determine the creation of the At-Risk CTA:
-
-- [Red](#red): The TAM will create a At-Risk CTA
-- [Yellow](#yellow): the TAM will determine whether the CTA should be created, based on the [severity of the risk](#yellow).
-
-To manually create the At-Risk CTA, perform the following steps:
-
-- Within the account, go to the Cockpit.
-- Create a new CTA, and select "Risk" as the type.
-- Choose the At-Risk playbook.
-
-Automatic At-Risk CTA creation is triggered by the Gainsight rule `CTA - Create At-Risk CTA when health becomes Red` the next day if a At-Risk CTA and/or playbook has not yet been created.
-
-##### Closing an At-Risk CTA:
-
-When an At-Risk issue/risk situation is resolved, or once the customer renews and is past any immediate risk of further downsell, the At-Risk CTA can be closed.  The CTA is kept open until this time so that the average time can be tracked to better understand patterns around time-to-resolution on customer health risk scenarios.
 
 ### GitLab Account Triage Project
 
