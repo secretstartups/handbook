@@ -41,6 +41,7 @@ End-point management is used to protect the corporate network when accessed via 
 At GitLab, we plan to use centralized laptop management for company-issued laptops. If you are in possession of a company-issued laptop, the details below apply to you. However, not all endpoint management technologies GitLab deploys will be required for Apple, Linux, and Windows laptops. Some technologies may be specific to the hardware platform or operating system. Please review the details of each technology for more information and details. 
 
 ## Roles & Responsibilities
+
 | Role | Responsibility | 
 |-----------|-----------|
 | GitLab Team Members | Responsible for following the requirements in this procedure |
