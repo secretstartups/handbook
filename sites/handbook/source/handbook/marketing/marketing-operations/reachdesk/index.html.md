@@ -20,6 +20,14 @@ description: "Reachdesk is a direct mail provider that we use for sales and mark
 Reachdesk is a direct mail campaign used to land and accelerate deals to fuel pipeline progression using personalized gifts.
 Contact: Customer Success Manager - Aoife Sweeney - aoife@reachdesk.com
 
+### Video Walk Through
+Please watch the video walk through showcasing how to fully utilize ReachDesk's capabilities. 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1ym8v0tQ9aHCQRfRP_sV7JSBXIETmC8X8/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ### Reporting and Dashboard
 Utilise the **Insight** tab on the platform. Customised reports can be created upon request, on a monthly/biweekly basis. Please send email to aoife@reachdesk.com
 
