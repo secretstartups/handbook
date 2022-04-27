@@ -60,7 +60,7 @@ description: Support Global Groups FAQ
    what they need at any later time.
 
 5. When should information or a discussion in a group Slack channel be moved to
-   a channel such as `#spt_self-managed` or `#spt_gitlab-com` that has a broader
+   a channel such as `#support_self-managed` or `#support_gitlab-com` that has a broader
    audience?
    
    The decision is largely up to the person who started the discussion.

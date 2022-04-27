@@ -134,7 +134,7 @@ distribution of work that would create a different prioritized list.
    appropriately
 1. Help on tickets assigned to others in your group by:
    1. posting an internal note with relevant helpful information, OR
-   1. answering questions from the asignee in your group Slack channel, OR
+   1. answering questions from the assignee in your group Slack channel, OR
    1. asking the assignee if they'd like to pair on the ticket, OR
    1. responding directly to the customer, **preferably only if a response
       is needed urgently AND the assignee is unavailable to work the ticket**
