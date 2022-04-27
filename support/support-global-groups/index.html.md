@@ -71,6 +71,84 @@ as a strong foundation for success as the Support Team continues to scale.
    [support-team.yaml](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml)
    file
 
+##### Bulk editing SGG values in Zendesk
+
+On occasion, you might need to locate tickets that are assigned to you within
+forms using SGG that are not in your group. To do this, the best way is to
+[search in Zendesk](https://about.gitlab.com/handbook/support/support-ops/training/searching-in-zendesk.html)
+and then bulk edit the tickets.
+
+The quick links to the queries you would want to use are:
+
+* [Pine](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_pine%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
+* [Ginkgo](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_ginkgo%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
+* [Maple](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_maple%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
+* [Baobok](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_baobok%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
+* [Kapok](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_kapok%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
+
+The raw query string you would use for this is:
+
+```
+assignee:me -custom_field_4414446722578:NAME status<closed -form:"Support Ops" -form:"GitLab Incidents" -form:"L&R" -form:"Emergencies"
+```
+
+Replacing `NAME` with your group's tag (see [below](#zendesk-group-tags)).
+
+So the search query for those in the Maple group would be:
+
+```
+assignee:me -custom_field_4414446722578:ticket_group_maple status<closed -form:"Support Ops" -form:"GitLab Incidents" -form:"L&R" -form:"Emergencies"
+```
+
+A quick breakdown of the parts of the query:
+
+* `assignee:me` = specifies you are looking for items assigned to yourself
+* `-custom_field_4414446722578:ticket_group_NAME` = specifices you are looking
+  for items that do not have a SGG backend value of your group
+* `status<closed` = specifies you are looking for items that have a status lower
+  than closed (new open pending on-hold solved)
+* `-form:"Support Ops"` = specifies you are looking for items where the form is
+  not Support Ops
+* `-form:"GitLab Incidents"` = specifies you are looking for items where the
+  form is not GitLab Incidents
+* `-form:"L&R"` = specifies you are looking for items where the form is not L&R
+* `-form:"Emergencies"` = specifies you are looking for items where the form is
+  not Emergencies
+
+Once you have the list of tickets, you will want to bulk edit them. To do this,
+click the checkbox on the top-left side of the search results (it can be a bit
+hard to see, but it is to the left of the ID column). After doing so, click the
+blue `Edit x tickets` button on the right side of the page (`x` will be the
+number of tickets). On the popup modal that appears, locate the SGG ticket field
+on the left side (should be towards the top of the list). Click in the dropdown
+for it and select your group's name. After doing so, click black `Submit`
+button. This will then process a background job to update the tickets. You'll
+know that is done when a notification popup appears in the top-right of the
+page.
+
+If there are any issues doing so, Zendesk will let you know the tickets that
+could not be bulk edited. You should try to edit these one at a time to see the
+actual problem updating the ticket. If you are unsure what to do to resolve
+that, please ask in the
+[#support_operations](https://gitlab.slack.com/archives/C018ZGZAMPD) Slack
+channel for assistance.
+
+To see this process in action, we have created the following video for you:
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/QzphCSSY_0A" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+##### Zendesk Group Tags
+
+| Group Name | Tag to use            |
+|------------|-----------------------|
+| Baobok     | `ticket_group_baobok` |
+| Ginkgo     | `ticket_group_ginkgo` |
+| Kapok      | `ticket_group_kapok`  |
+| Maple      | `ticket_group_maple`  |
+| Pine       | `ticket_group_pine`   |
+
 #### Slack
 
 - Each group has its own Slack channel named `spt_gg_[group name]`
