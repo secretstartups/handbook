@@ -208,8 +208,6 @@ To align our education and enablement with our product, each of the topics below
 ##### Intermediate Level
 - [Container Scanning Feature Docs](https://docs.gitlab.com/ee/user/application_security/container_scanning/)
 - [Security Orchestration Feature Doc](https://docs.gitlab.com/ee/user/application_security/threat_monitoring/#configuring-network-policy-alerts)
-- [Container Host Security Feature Docs](https://docs.gitlab.com/ee/user/project/clusters/protect/container_host_security/index.html)
-- [Container Network Security Feature Docs](https://docs.gitlab.com/ee/user/project/clusters/protect/container_network_security/index.html)
 
 
 
