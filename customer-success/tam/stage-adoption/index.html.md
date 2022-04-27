@@ -152,8 +152,6 @@ Usage Discovery Questions:
 ## Protect
 
 - [Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/)
-- [Container Host Security Monitoring](https://docs.gitlab.com/ee/user/clusters/applications.html#install-falco-using-gitlab-cicd)
-- [Container Network Security](https://docs.gitlab.com/ee/user/clusters/applications.html#install-cilium-using-gitlab-cicd)
 - [Security Orchestration](https://about.gitlab.com/direction/protect/security_orchestration/)
 
 
