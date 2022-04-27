@@ -891,7 +891,7 @@ _Note: You can copy and paste the template below to use it in your own signature
 <span style="font-family: serif;font-size: small;display: block;">John Doe</span>
 <span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
 
-<img src="https://lh3.googleusercontent.com/lFQxFbGYJpI6e_oQkEJ6WVDr-9RAmCZgV7_vgKs8zLJzIsSDF13zot8wtdMqFvBq8OH6jPiv6kwszHf5r_YrSNoXKRdSb42dsyyw7oOSSan1Nuq8ud2AtaD4yBwM-1xtYAb7IMFz" width="98" height="37">
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" width="98" height="37">
 
 #### Filters
 
