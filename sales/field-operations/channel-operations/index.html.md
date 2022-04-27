@@ -200,7 +200,7 @@ The process to request the [legal team’s involvement in partner contracts](htt
 - **Number 3**
   - Deal is transacting thru the channel but it was sourced by either a GitLab AE or SDR
 - ***Exception***
-  - AE or SDR creates an opportunity prior to a valid Partner Sourced Deal Reg being submitted and approved. *The Channel Manager needs to escalate for an exception by adding a chatter message on the applicable opportunity and tagging Colleen Farris. 
+  - AE or SDR creates an opportunity prior to a valid Partner Sourced Deal Reg being submitted and approved. *If the Deal Registration is approved the opportinity will automatically update SQS = Channel Generated when the approved Deal Registration has been approved and linked. 
  
 ### Default Logic
 1. If `Partner Sourced Deal Reg = True` and no opportunity exists, then `Initial Source = CQL` > `SQS = Channel Generated`
