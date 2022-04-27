@@ -91,6 +91,7 @@ The following approvers are needed for the copy and list size:
  - Legal (copy only)
  - Marketing Operations Manager
  - Appropriate field teams driven by the scope of customers receiving the communication (SAL/AE, SA, TAM, Professional Services)
+ - Support, if there is any call to action in the communication to contact support
 
 
 5. **Email Ready to Deploy**
