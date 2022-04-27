@@ -85,10 +85,10 @@ The Staff Fullstack Engineer is a [grade 8](/handbook/total-rewards/compensation
 Candidates for this speciality can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Selected candidates will be invited to schedule a 25 minute [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
-* Next, candidates will be invited to schedule a 80 minute technical and fit interview with the Hiring Manager on the [Strategy and Operations team](/job-families/chief-executive-officer/strategy-and-operations/)
-* Next, candidates will be invited to schedule a 80 minute interview with one of our Fullstack Engineers
-* Next, candidates will be invited to schedule a 50 minute interviews with the Chief of Staff to the CEO
-* Next, candidates may be invited to schedule a 25 minute behavioral interview with the CEO
+* Next, candidates will be invited to schedule a 50 minute technical and fit interview with the Hiring Manager on the [Strategy and Operations team](/job-families/chief-executive-officer/strategy-and-operations/)
+* Next, candidates will be invited to schedule a 25 minute interview with one of our Fullstack Engineers or Engineering Managers
+* Next, candidates will be invited to schedule a 25 minute interview with one of our Engineering Managers
+* Finally, candidates will be invited to schedule a 50 minute interviews with the Chief of Staff to the CEO
 
 ## Relevant links
 
