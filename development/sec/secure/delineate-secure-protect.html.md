@@ -45,16 +45,6 @@ Allows user to view detail of vulnerability and manage it.
 * Engineering sub-department: Secure
 
 
-###	Threat Monitoring
-
-Displays statistics and other related information on container security enabled features such as container network security (CNS).
-
-* [Example](https://gitlab.com/gitlab-org/protect/demos/container-network-policy-alerts/-/threat_monitoring)
-* Product Manager: Sam White
-* Primary Development Group: [Protect:Container Security](/handbook/product/categories/#container-security-group)
-* Engineering sub-department: Protect
-
-
 ###	Pipeline Security Tab
 
 Secure: Composition Analysis, Displays vulnerability findings for a specific pipeline.
