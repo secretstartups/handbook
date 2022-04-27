@@ -81,8 +81,9 @@ description: Support Global Groups FAQ
    study?
 
    When a Support Engineer is working on a training module, they should feel
-   free to assign to themselves any tickets they find in any group's view that
-   will help them in meeting their training requirements.
+   free to assign to themselves any unassigned tickets they find in any
+   group's view that will help them in meeting their training requirements.
+   They should at that time change the `SGG` field to have their group’s name.
     
 1. Are SEs allowed to bring their expertise where it is needed, even outside
    of their group?
