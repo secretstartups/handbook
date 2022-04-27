@@ -15,14 +15,14 @@ description: "GitLab's Corporate Financial Planning and Analysis"
 - Please see the [team FP&A page](/finance/financial-planning-and-analysis) for our mission, objectives, and key processes.
 - If you'd like to collaborate with Corporate FP&A, tag the **@corp-finance-team group** in the [#fpanda](https://gitlab.slack.com/archives/CLT54CDFE) channel or the channel where your team directly collaborates with FP&A
 
-## Accounting Partnership
-- The FP&A team and Accounting collaborate to set deadlines as part of our monthly and quarterly close process. This enables a timely close and delivery of key information to  EVPs/department heads around variance, forecast, and/or guidance. For the monthly FP&A close timeline, refer here[TO INSERT LINK of close timeline in handbook]. 
+### Accounting Partnership
+- The FP&A team and Accounting collaborate to set deadlines as part of our monthly and quarterly close process. This enables a timely close and delivery of key information to  EVPs/department heads around variance, forecast, and/or guidance. For the monthly FP&A close timeline, refer [here](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#monthly-fpa-close-timeline)
 	- We collaborate in Gitlab issues to align on the close timeline each quarter. An example of this is the Q1-FY23 Close Timeline found [here](https://gitlab.com/gitlab-com/Finance-Division/accounting-team/accounting-project/-/issues/371).  
 	- Every two weeks on Thursday, Accounting & FP&A have a sync to connect on close dates. Further, this is a meeting to discuss open items, questions, and process improvements.
 - During close, Accounting leads daily close meetings where the status of close and any open items are provided. Summaries are shared at Slack channel [#month-end-close-and-gl-team](https://gitlab.slack.com/archives/C02JHRNENE7).
 - FBPs obtain a report with open invoices/POs from the Accounting team which is updated daily. The FBPs drive obtaining the required approvals and invoices from their respective business partners. Specific questions on entries are shared directly in the [#fpa-ap-gl-collaboration](https://gitlab.slack.com/archives/C017VQ3G7V4) Slack channel to increase transparency between FP&A and AP/GL teams.
 
-## Tax Partnership
+### Tax Partnership
 We collaborate with tax to review actual tax expenses, forecast tax provision for planning and guidance, and to understand the tax implications of future scenarios such as changes in tax laws or tax structure. We collaborate in the Slack channel [#tax-and-fpa](https://gitlab.slack.com/archives/G01NBBBS6MT)
 
 - Q1-FY23 example of timeline:
@@ -40,29 +40,29 @@ We collaborate with tax to review actual tax expenses, forecast tax provision fo
 		- **2022-04-18**: FP&A locks forecast and shares with Tax a full GAAP PTI forecast, including the forecasts for the non-GAAP entity-level P&L, stock-based compensation expense, and other GLs including depreciation, amortization, capital additions, etc.
 - Close timelines can be found in Gitab Issues created by the Accounting team to increase transparency and efficiency across teams as part of close. The Q1-FY23 close timeline can be found at the issue here.
 
-## Revenue Accounting Partnerships
+### Revenue Accounting Partnerships
 - We collaborate with the Revenue team to review actuals as part of our revenue variance process performed each month and quarter-end, understand the impact on our revenue forecast as it relates to changes in the revenue waterfall, changes in the business, new accounting standards, or other process improvements.
 - We meet each month to review actuals and collaborate in the Slack channel [#revenue-and-fpa](https://gitlab.slack.com/archives/C023FA20RNG)
 
-## SEC reporting & Internal Audit Partnership
+### SEC reporting & Internal Audit Partnership
 - We collaborate with SEC reporting & SOX compliance (SEC & SOX) teams to publish Quarterly and Annual Earning materials, and to ensure all materials are in compliance with SOX. 
 - We receive stock-based compensation (SBC) and Weighted Average Share Outstanding (WASO) information from the SEC team for SBC and WASO quarterly forecasts.
 - We meet monthly to align expectations and discuss process issues and/or improvements. 
 - We use [#earnings_call_comms](https://slack.com/app_redirect?channel=C02K1RD8TAR) and [#fpa_sec_reporting](https://gitlab.slack.com/archives/C02C9DF6SMB) for collaboration & communications related to earnings materials.
 
-## Investor Relations Partnership
+### Investor Relations Partnership
 - We collaborate with the IR team to publish Quarterly and Annual Earning materials.
 - We use [#earnings_call_comms](https://slack.com/app_redirect?channel=C02K1RD8TAR) to collaborate & communicate.
 
-## Business Technology Partnership
+### Business Technology Partnership
 - We support BT team for Adaptive/Netsuite integration to ensure data accuracy between two systems and to meet compliance requirements. Integration is expected to be fully transitioned to the BT team by the end of Q2 FY23.
 - We meet quarterly to align expectations & discuss transition plans. We use [#financesystems_help](https://slack.com/app_redirect?channel=C013MP2SY49) for communications, and track requests & progress through [GitLab issues](https://gitlab.com/gitlab-com/business-ops/financeops/finance-systems/-/issues/new).
 
-## Data and Analytics Partnership
+### Data and Analytics Partnership
 - We work with the Data team to build out new dashboards and tables in Sisense as the SSOT for key metrics. Our collaboration ranges from creating different cuts of data significant to our business leaders to building out new connections between existing source data.
 - For any new project or new question as it relates to an existing project, we open an issue with Data team and slack the [#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A) channel to inform the team on a new issue.
 
-## Talent & Total Rewards Partnership
+### Talent & Total Rewards Partnership
 - We collaborate with Total Rewards to align on budget and actuals for the Annual Compensation Review, promotions and benefits programs. We analyze scenarios in alignment with their team’s strategic programs and benefits roadmap.  We collaborate in the Slack channel #fpa-total-rewards and have a weekly recurring meeting. 
 - More details on how the [Compensation Program Budget](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) is determined can be found in the total rewards handbook. 
 - As part of the annual planning process, FP&A helps to draft the next year’s executive/director bonus plan structure as it relates to key performance metrics, payouts structure, acceleration milestones, etc. The Chief Financial Officer and the Chief People Officer will approve the bonus structure prior to Compensation Committee review. The deliverable for the Compensation Committee is a slide deck illustrating payment structure, milestone, and attainment various scenarios.
@@ -70,8 +70,9 @@ We collaborate with tax to review actual tax expenses, forecast tax provision fo
 - We assist Total Rewards with modeling for equity, including sizing equity pool sizes for the Employee Stock Purchase Plan and Equity Compensation.
 - We collaborate regarding the above via the **#fpa-totalrewards** Slack channel.
 
-## Key Processes
-- Quarterly & Monthly Cycle (incl. close, variance, forecast, guidance) (TO UPDATE LINKS)
-- Plan
-- Long Range Outlook
-- Headcount
+### Key Processes
+- [Quarterly & Monthly Cycle (incl. close, variance, forecast, guidance)](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#quarterly--monthly-cycle-incl-close-variance-forecast-guidance)
+- [Plan](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#plan)
+- [Long Range Outlook](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#long-range-outlook)
+- [Headcount](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth)
+- [Adaptive Insights](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#adaptive-planning)
