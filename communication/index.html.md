@@ -37,11 +37,11 @@ Embracing asynchronous communication and learning to use it effectively requires
 
 If you see something that concerns you in Slack, Issues, Merge Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss.
 
-## Communicating Potentially Sensistive Topics 
+## Communicating Potentially Sensitive Topics 
 
 As GitLab matures, we want to continue to foster discussion while evolving our communication guidelines so that topics that are potentially sensitive are discussed in appropriate forums. This is particularly relevant as team members heavily leverage async modes of communication including merge requests, issues and epics, and in Slack communication. 
 
-Words have impact long after they are written, and even when you're communicating internally, the manner in which you speak with one another should be viewed through an external lens.  For additional information, please review our [Giudelines for ecommunicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/).
+Words have impact long after they are written, and even when you're communicating internally, the manner in which you speak with one another should be viewed through an external lens.  For additional information, please review our [Guidelines for communicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/).
 
 This guidance supplements and overlaps with [GitLab's SAFE Framework](/handbook/legal/safe-framework/), the guidance on the use of [the internal handbook](/handbook/handbook-usage/#the-internal-handbook) and the additional guidance on this page. We ask our team members to consider the factors below in their communication. 
 
