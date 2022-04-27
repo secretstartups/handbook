@@ -50,15 +50,15 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 
 ### Implementation plan
 
-| Task | Due date | Status | DRI | Issue link |
+| Task | Due date | Status | DRI | Issue link(s) |
 | --- | --- | --- | --- | --- | 
-| Poll and decide on new workgroup name | 3/27 | In process | Michael Oliver | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274) |
-| Company wide-announcement and schedule AMA sessions | 4/2 | Planned | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13302) |
-| Update dashboards and associated handbook pages for all teams | TBD | In process | Mek Stittri | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) |
-| Complete bot automation work | TBD | In process |  Mek Stittri | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) |
+| Poll and decide on new workgroup name | 5/2 | In process | Michael Oliver | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274) |
+| Company wide-announcement and schedule AMA sessions | 5/4 | In process | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13302) |
+| Update dashboards and associated handbook pages for all teams | TBD | In process | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) |
+| Complete bot automation work | TBD | In process |  Kyle Wiebers | [Issue 5](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) and [Issue 6](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
 | Handbook updates to describe new process and deprecate engineering allocation process | TBD | Not started | TBD | TBD |
 | Refine stakeholder dashboard views, bug & maintenance backlog types | TBD | Not Started | Mek Stittri | TBD | 
-| Setup monthly MR type reviews between engineering managers | TBD | Started | Mek Stittri | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
+| Setup monthly MR type reviews between engineering managers | TBD | Not Started | Mek Stittri | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
 | Refine stakeholder dashboard views, bug & maintenance backlog types | TBD | Not Started | Mek Stittri | TBD | 
 | Reduce undefined MR types to less than 5% | TBD | In process | Christopher Lefelhocz | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
 | 100% of teams migrated to new process | 6/15 | In process (5% : 2 out of ~39) | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
