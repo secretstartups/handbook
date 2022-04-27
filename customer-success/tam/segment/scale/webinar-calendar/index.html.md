@@ -35,6 +35,13 @@ Come learn about what CI/CD is and how it can benefit your team. We will cover a
  
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_UP5_Yts-Q2qdI_O0cblb7g)
 
+### Accelerating time to value with GitLab Professional Services
+#### May 19th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
+
+GitLab professional Services can help you adopt key features faster, driving business value and earning a competitive edge in the marketplace. Learn how these services can help your company achieve its ambitious goals!
+ 
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_4-vNXXiHQ1yTbIiOqaKL9A)
+
 ### Advanced CI/CD 
 #### May 24th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
