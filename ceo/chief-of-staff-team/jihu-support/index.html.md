@@ -162,7 +162,13 @@ To notify JiHu of an upcoming security release, please simply post a comment in:
 
 ### Consulting Process
 
-JiHu benefits from GitLab expertise, particularly around operating GitLab as a SaaS product. Until we can predictably plan for sustained collaboration and engagement between GitLab and JiHu on well-defined topics, GitLab may choose to charge JiHu for consulting on any items that require engagement beyond a quick response on Slack. This way, GitLab can safeguard against unplanned work and incentivize JiHu to build their domain expertise & be more specific in the help they request. This is also agreed upon in GitLab's Technical Services Agreement with JiHu.
+JiHu benefits from GitLab expertise, particularly around operating GitLab as a SaaS product. GitLab may charge JiHu for consulting on items that require engagement beyond a quick response on Slack. This way, GitLab can safeguard against unplanned work while JiHu builds its domain expertise. This is also agreed upon in GitLab's [Technical Services Agreement with JiHu - Internal](https://drive.google.com/file/d/19HXz1xxCS-BlDwMFUquw1Vl06SQ16Mgc/view).
+
+#### Topics not in scope for consulting
+
+- Reviewing MRs
+- Roadmap alignment
+- Management collaboration
 
 ## Product
 
