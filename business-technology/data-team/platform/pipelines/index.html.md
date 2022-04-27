@@ -223,6 +223,29 @@ The `boneyard` schema is where data can be uploaded from a spreadsheet and it wi
 
 If you are adding Certificates to SheetLoad, refer to the instructions in the [People Group page](/handbook/people-group/learning-and-development/certifications/#step-5-add-to-sheetload)
 
+## Prometheus / Thanos (Periodic Queries)
+
+We have one solution in place for extracting data from our Thanos instance, which is managed my the Infrastructure team, into snowflake. There is a service set up in CI Pipeline that runs in `ops.gitlab.net` called [Periodic Quries](https://gitlab.com/gitlab-com/runbooks/blob/d3b03bd2aff20865ba0ae3f96c9d38e3209b4e15/periodic-thanos-queries/README.md) that queries thanos and loads json files into a [GCS Bucket with the same name](https://console.cloud.google.com/storage/browser/periodic-queries)
+
+To pull the metrics into Snowflake from GCS, a stage was created:
+
+```sql
+CREATE STAGE "RAW"."PROMETHEUS".periodic_queries 
+STORAGE_INTEGRATION = GCS_INTEGRATION URL = 'gcs://periodic-queries/';
+```
+
+A Snowflake task was then setup to load the new data files in daily:
+
+```sql
+create or replace task prometheus_load_task
+       WAREHOUSE = LOADING
+       SCHEDULE = '1440 minute'
+       AS 
+    copy into raw.prometheus.periodic_queries (jsontext, uploaded_at)
+    from (select $1, current_timestamp() as uploaded_at from @raw.prometheus.periodic_queries)
+    file_format=(type='json');
+```
+
 ## Zuora API Sandbox
 The API Sandbox is Zuora's "release preview" environment. It is a customer facing, multi-tenant environment that gets code deployed to it before Zuora's production environment. How early code gets deployed depends on the type of release: Major releases are usually deployed a week in advance, whereas minor releases and emergency patches get deployed days, hours or minutes before production. Zuora customers can purchase any number of tenants in this environment for a recurring annual fee.
 

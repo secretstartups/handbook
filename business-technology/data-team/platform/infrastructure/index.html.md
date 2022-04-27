@@ -801,28 +801,6 @@ copy into raw.demandbase.account (jsontext, uploaded_at)
 
 Then the task was enabled by running `alter task DEMANDBASE_ACCOUNT_LOAD_TASK resume;`.  Each task continues to run daily and loads any new files from GCS into the Snowflake `raw.demandbase` schema.
 
-### Thanos Load Tasks
-
-There is a process setup as part of [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/7713) that pulls thanos metrics daily and writes them to a [GCS bucket called `periodic-queries`](https://console.cloud.google.com/storage/browser/periodic-queries;tab=objects?pli=1&prefix=&forceOnObjectsSortingFiltering=false).
-
-To pull the metrics into Snowflake from GCS, a stage was created:
-
-```sql
-CREATE STAGE "RAW"."PROMETHEUS".periodic_queries 
-STORAGE_INTEGRATION = GCS_INTEGRATION URL = 'gcs://periodic-queries/';
-```
-
-A Snowflake task was then setup to load the new data files in daily:
-
-```sql
-create or replace task prometheus_load_task
-       WAREHOUSE = LOADING
-       SCHEDULE = '1440 minute'
-       AS 
-    copy into raw.prometheus.periodic_queries (jsontext, uploaded_at)
-    from (select $1, current_timestamp() as uploaded_at from @raw.prometheus.periodic_queries)
-    file_format=(type='json');
-```
 
 ## Data Refresh
 
