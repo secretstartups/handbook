@@ -74,7 +74,7 @@ Internal reviewers for these languages that will review via Smartling:
 | French | @pgascouvaillancourt |
 | Portuguese (Brazilian) | @lvieiradossantos, @ricardoamarilla |
 | Spanish (LATAM) | @lisvinueza, @jaime, @ricardoamarilla |
-| Italian | @agulina |
+| Italian | @Valelomby @agulina |
 
 Please follow the below process for requesting a review but please do so at the same time of opening the Smartling job:
 
