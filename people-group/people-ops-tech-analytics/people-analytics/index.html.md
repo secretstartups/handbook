@@ -15,7 +15,7 @@ description: "GitLab People Analytics Team Handbook Page"
 
 The study of people at work! Human Resource departments (the [People Group](/handbook/people-group/) here at GitLab) everywhere are flipping their approach to organizational behavior. Instead of only using experience, opinions, or intuition to make decisions they are leveraging the power of data for decision making processes.
 
-According to [AIHR](https://www.aihr.com/blog/people-analytics/):
+According to [AIHR](https://www.aihr.com/blog/people-analytics/) (Academy to Innovate HR):
 
 > People analytics is the practice of collecting and applying organizational, people, and talent data to improve critical business outcomes. It enables HR departments to develop data-driven insights to make decisions on talent, workforce processes and turn them into actionable insights to improve performance of an organization. 
 
@@ -24,7 +24,7 @@ According to [AIHR](https://www.aihr.com/blog/people-analytics/):
 There are many benefits to practicing People Analytics within organizations. While not exhaustive, below is a list of _just some_ of those benefits to us here at GitLab.
 
 - Build a more streamlined talent acquisition process that helps GitLab build a strong and diverse team, as well as provides candidates going through the process a well-crafted experience.
-- Drive teams to constantly be improving the experience of GitLab team members, and we mean it when we say "Everyone can contribute." We want individuals to thrive in their careers here and using engagement surveys and KPIs to drive our team goal we put people at the forefront.
+- Drive teams to constantly be improving the experience of GitLab team members. We want individuals to thrive in their careers here and by using engagement surveys and KPIs to drive our team goals, we put people at the forefront.
 - Tie in the other data! Whether it be sales data, engineering data, etc., connecting the dots between performance and outcomes is very beneficial for the overall health of the organization. We want to understand how we can help team members grow in their journey and help leaders understand the impact of their work.
 
 ## People Analytics Team
@@ -47,8 +47,8 @@ Main objectives of the People Analytics Team:
 - People data in the warehouse should be for reporting general People information “up and out” in the organization.
 - Always know the roles and users that have access to the data from “cradle to grave” to understand the risk.
 - Only what is needed for reporting should be brought into the data warehouse and leave other potentially sensitive data in the operational tools.
-- Anonymize sensitive data that is used in metirc calculations and reporting to reduce risk whenever possible.
-- Please submit using the issue templates in the [People Analytics project](https://gitlab.com/gitlab-com/people-group/people-operations/people-analytics2/-/issues/new)
+- Anonymize sensitive data that is used in metric calculations and reporting to reduce risk whenever possible.
+- Please submit requests and ideas using the issue templates in the [People Analytics project](https://gitlab.com/gitlab-com/people-group/people-operations/people-analytics2/).
 
 ## People Data Sources
 
