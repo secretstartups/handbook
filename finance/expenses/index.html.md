@@ -11,10 +11,6 @@ title: Expenses
 {:toc .hidden-md .hidden-lg}
 
 
-**The Expenses page is currently being updated to better serve GitLab Team Members.  Please refer to this [Expense Report Quick Reference Guide and FAQs](https://docs.google.com/document/d/1F5YmkJCOu5vNRbVdgVf1CaXdqgo8VDk1-MGLKcBkOAI/edit) page while we work on the updates.**
-{: .alert .alert-danger}
-
-
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Introduction
 
 Welcome to the Expenses page! You should be able to find answers to most of your questions here. If you can't find what you are looking for, then:
@@ -35,7 +31,7 @@ Team members should also consider the terms and conditions of their respective c
 
 Team members are reimbursed on different schedules depending on their location. Please see the reimbursement process below to find the listing of reimbursement dates based on your location or employment status.
 
-## Expense Policy Summary
+## <i class="far fa-flag" id="biz-tech-icons"></i> Expense Policy Summary
 
 1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/). **NOTE** - If you are a Corporate Credit Card holder, please refer to the [Corporate Credit Card page](https://about.gitlab.com/handbook/finance/accounts-payable/corp-credit-cards/) for specific instructions and thresholds.
 1. Itemized receipts are required for all business related expenses that are greater than $75 USD or equivalent to local currency.
@@ -50,6 +46,9 @@ Team members are reimbursed on different schedules depending on their location. 
 1. Gift cards are not accepted as a form of payment for business expenses.
 1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date.
    - Please note we do not reimburse late fees, initial set up, or equipment costs.
+
+#### <i class="fa-solid fa-arrow-right"></i> [**Approved List of Expenses**](https://docs.google.com/document/d/1UIbpeEzGQ0kmv9uI47xP8hRfDpGnwxvIeUpR66j_Ox8/edit?usp=sharing)
+
 
 ### Domain Name Registration and Maintenance Policy
 
