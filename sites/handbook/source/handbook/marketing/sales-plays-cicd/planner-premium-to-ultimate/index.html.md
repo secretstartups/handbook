@@ -133,9 +133,8 @@ Which GitLab stages/feature make up this sales play:
    * License Compliance - identify the presence of new software licenses included in your project and track project dependencies. Approve or deny the inclusion of a specific license.
    * Coverage-guided Fuzz testing API Fuzz testing - surface security and logic flaws not identified as known vulnerabilities.
 * Security Dashboard - visualize security status for projects.
-* Security Alerts - runtime alerts from Container Network Security cand Container Host Security
 * Vulnerability Management
-* Security Approvals in Merge Requests (available in Premium)
+* Security Approvals in Merge Requests
 
 Ultimate also includes priority support (4 business hour support), live upgrade assistance, and a Technical Account Manager who will work with you to achieve your strategic objectives and gain maximum value from your investment in GitLab.
 
