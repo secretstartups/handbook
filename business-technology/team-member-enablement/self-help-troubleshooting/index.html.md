@@ -12,9 +12,36 @@ description: "Frequently asked questions for GitLab team members regarding 2FA, 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
+<div class="panel panel-gitlab-orange">
+**This is a Controlled Document**
+{: .panel-heading}
+<div class="panel-body">
+
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+
+</div>
+</div>
+
+## Purpose
+
 Please read through this page to find the most common questions GitLab team members encounter. If you cannot find an answer to your question, please find more information on how to contact us at the bottom of the page. If the team has provided you with an answer that isn't listed here, please submit an MR to add it!
 
-## <i class="fas fa-question-circle" id="biz-tech-icons"></i> Frequently asked questions
+## Scope
+
+### <i class="fas fa-question-circle" id="biz-tech-icons"></i> Frequently asked questions
+
+
+## Roles & Responsibilities
+
+| Role | Responsibility | 
+|-----------|-----------|
+| GitLab Team Members | Responsible for following the requirements in this procedure |
+| Business Technology | Responsible for implementing and executing this procedure | 
+| Business Technology Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
+
+## Procedure
 
 ### Getting a new phone or need to reset your 2FA for GitLab and other tools
 
@@ -263,3 +290,9 @@ As a distributed team, we have support around the clock with team members in Nor
 High volumes of issues being triaged can dictate the delay in response within that window. If the issue is extremely time sensitive and warrants escalation, use judgement on whether or not it can wait until ‘business hours’.
 Escalated issues should be made through the #it_help slack channel.
 All other request should have an issue created.
+
+## Exceptions
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/engineering/security/#information-security-policy-exception-management-process).
+
+## References
+* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
