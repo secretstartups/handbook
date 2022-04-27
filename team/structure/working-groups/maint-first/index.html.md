@@ -36,21 +36,34 @@ Benefits include:
 * In order to improve transparency for stakeholders, we will publish dashboards where the trends and details can be tracked over time
 * In order to respond more quickly to changing needs, we will use this process to better stay ahead of maintenance work rather using the `engineering allocation` process which often addresses maintenance work retroactively rather than proactively.
 
+Prioritization DRIs:
+
+All prioritization will be done via quad planning (collaboration between product, development, UX, quality) with a DRI to be responsible for the decisions based on each work type:
+
+* Feature - Product manager
+* Maintenance - Development manager
+* Bug - Quality manager (by bug severity)
+
+
 More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Zo-Fdq3yVtk-q-uJrKe_03iF9jB1XQWqQb4/edit#slide=id.geebc38ecb3_0_261).
 
-### Exit Criteria (0% completed)
 
-1. Ship new name of steady state priorization
-1. Company-wide comms by 2022-04-30
-1. Refine stakeholder dashboard views, bug & maintenance backlog types
-1. Reduce undefined MR types (less than 5%)
-1. Set target x% of product group teams to Steady state
-1. Setup monthly MR type reviews between engineering managers
-1. Handbook work & embed team dashboards in team pages
-1. Bot automation work
-1. Mature error budgets by 2022-05-30
-1. Set goal for Development department-wide Steady state (tentative 2022-06-15)
-1. Other handbook cleanup
+### Implementation plan
+
+| Task | Due date | Status | DRI | Issue link |
+| --- | --- | --- | --- | --- | 
+| Poll and decide on new workgroup name | 3/27 | In process | Michael Oliver | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274) |
+| Company wide-announcement and schedule AMA sessions | 4/2 | Planned | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13302) |
+| Update dashboards and associated handbook pages for all teams | TBD | In process | Mek Stittri | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) |
+| Complete bot automation work | TBD | In process |  Mek Stittri | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) |
+| Handbook updates to describe new process and deprecate engineering allocation process | TBD | Not started | TBD | TBD |
+| Refine stakeholder dashboard views, bug & maintenance backlog types | TBD | Not Started | Mek Stittri | TBD | 
+| Setup monthly MR type reviews between engineering managers | TBD | Started | Mek Stittri | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
+| Refine stakeholder dashboard views, bug & maintenance backlog types | TBD | Mek Stittri | TBD | 
+| Setup monthly MR type reviews between engineering managers | TBD | Mek Stittri | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
+| Reduce undefined MR types to less than 5% | TBD | In process | Christopher Lefelhocz | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
+| 100% of teams migrated to new process | 6/15 | In process (5% : 2 out of ~39) | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
+| Do a restrospective and close working group | 6/22 | Not started | Wayne Haber | TBD |
 
 
 ### Roles and Responsibilities
