@@ -13,7 +13,7 @@ title: "Digital Marketing Programs"
 {: #agency}
 
 ### Who is PMG?
-The [GitLab Digital Marketing team](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/) works directly with our digital agency PMG to execute all paid digital campaigns. PMG fees are a percentage of the paid digital advertising spend, so total budgets will include the effective spend + PMG fee. For GitLab digital initiatives, PMG contributions & activities include:
+The [GitLab Digital Marketing team](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/) works directly with our digital agency PMG to execute all paid digital campaigns. PMG fees are a percentage of the paid digital advertising spend, so total budgets will include the effective spend + PMG fee. For GitLab digital initiatives, PMG contributions & activities include:
 - Working closely with GitLab on quarterly and monthly media planning for primarily top and middle funnel paid digital strategy that aligns with GitLab pipeline goals.
 - Building and executing campaign launches once all materials and direction are received from the GitLab side.
 - Strategically & competitively bidding and negotiating for efficient ad units and sponsorship programs.
@@ -201,11 +201,13 @@ PMG provides pulse checks & tracking toward KPIs more frequently for ancillary c
 {: #external-campaigns}
 **Intake Process**
 
-1. GitLab submits a [campaign request issue](https://gitlab.com/gitlab-com/marketing/digital-advertising/-/blob/master/.gitlab/issue_templates/campaign_request.md) for PMG containing all required campaign materials, as well as a detailed description explaining the purpose and goal for this event or new initiative.
-2. PMG reviews the request and forecasts an optimal campaign budget based on target audience size and average costs & conversion rates.
-3. PMG generates ad copy builds & mockups.
-4. GitLab approves campaign plan & final materials.
-5. PMG launches (or schedules a later launch) and records the new campaign in the Field, ABM, and Corporate Marketing campaign log for each quarter (9 campaign launch limit).
+1. All departments outside of Digital/Demand Generation must first go through the [Coupa Purchase Order process](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#po-process) in order to start the intake process with PMG.
+   * Please see PMG's Statement of Work template and sample SOWs [here](https://drive.google.com/drive/u/1/folders/1HPq7enmJYNkIbVJG7G_IkSNR_YWOlxC0).
+2. GitLab submits a [campaign request issue](https://gitlab.com/gitlab-com/marketing/digital-advertising/-/blob/master/.gitlab/issue_templates/campaign_request.md) for PMG containing all required campaign materials, as well as a detailed description explaining the purpose and goal for this event or new initiative.
+3. PMG reviews the request and forecasts an optimal campaign budget based on target audience size and average costs & conversion rates.
+4. PMG generates ad copy builds & mockups.
+5. GitLab approves campaign plan & final materials.
+6. PMG launches (or schedules a later launch) and records the new campaign in the Field, ABM, and Corporate Marketing campaign log for each quarter (9 campaign launch limit).
 
 **Optimization**
 
@@ -268,7 +270,7 @@ GitLab uses Sisense to track backend data such as MQLs and SAOs. GitLab shares t
 ### Accruals
 {: #accruals}
 
-Accruals are submitted to GitLab three business days before the end of the current month. In addition to the actual current monthly spend at the time accruals are due, PMG also includes estimated acrruals based on the forecasted average daily spend. Final accruals are then calculated based on effective media spend and PMG tech & agency fees. Note: fees change depending on the media spend tier.
+Accruals are submitted to GitLab 3 business days before the end of the current month. In addition to the actual current monthly spend at the time accruals are due, PMG also includes estimated acrruals based on the forecasted average daily spend. Digital Marketing must verify accruals 4-5 business days before the end of the month, making sure all Allocadia IDs/Coupa POs are correct and estimated spends are within range. Final accruals are then calculated based on effective media spend and PMG tech & agency fees. Note: fees change depending on the media spend tier.
 
 ### Billing
 {: #billing}
