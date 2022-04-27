@@ -198,11 +198,11 @@ _You need to continually update your Command Plan with every interaction with an
 
 Navigate to your opportunity and hit the Command Plan button. Enter in the information / questions in the fields.
 
-**For deals over $5k AMOUNT but less than $10k ARR**
+**For deals over $5k AMOUNT but less than $10k ARR (SMB) or $10k AMOUNT but less than $20k AMOUNT (MM)**
 
 - Opportunity Overview
 
-**For deals over $10k ARR**
+**For deals over $10k ARR (SMB) or $20k (MM)**
 
 All of the above and:
 
