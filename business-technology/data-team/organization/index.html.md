@@ -69,6 +69,7 @@ classDiagram
 | --------------------- | ------------------ | ------------------ | ------------- | ----------------------- | ---------------- | --------------------- | ---------------- |
 | **Research and Development Data Fusion** | **Product Analysis** | `@cbraza` | `@iweeks` | `@chrissharp` | `@cbraza` `@eneuberger` `@nicolegalang` `@dpeterson1` `@nraisinghani` `@matthewpetersen` | `@chrissharp` `@tpoole1` `@mdrussell` | `@rbacovic ` |
 |                          | **Customer Success**  | `@jdbeaumont` |           |      `@mdrussell`      |  `@cankney` `@bbutterfield`  |                          |
+|                          | **Business Insights**              | `@statimatla`  |     |         | `@jstemmer1` `@kchen6` `@kkarthikeyan` | 
 | **Go to Market Data Fusion** | **Sales Strategy and Analytics** | `@mvilain` | `@iweeks` | `@michellecooper` | `@nfiguera` `@mvilain` | `@jeanpeguero` `@pempey` | `@paul_armstrong` `@Rigerta` |
 |                          | **Marketing Strategy and Performance**  | `@jahye1` |           |                   | `@rkohnke` `@degan` |                           |                          |
 |                          | **Online Sales and Self-Service**  | `@alex_martin` |           |                   | `@mfleisher` |                          |                          |
