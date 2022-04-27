@@ -16,7 +16,7 @@ title: "Change Management"
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
 
 </div>
 </div>
@@ -54,6 +54,11 @@ To open the change incident management issue from Slack issue the following slas
 ```
 
 Creating the Change issue from Slack will automatically fill in some fields in the description.
+
+## Aborting a Change
+
+In the case a change is rolled back or if it will not be completed apply the `change::aborted` label and close the issue.
+A new change should be declared if the change is retried on a later date.
 
 ## Change Criticalities
 
