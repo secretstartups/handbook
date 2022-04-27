@@ -175,8 +175,9 @@ The Director, Technical Writing is a [grade 10](/handbook/total-rewards/compensa
 * Screening call with a recruiter.
 * Interview with Technical Writer. The interviewer will spend time learning about the experiences and challenges you've had as a manager, along with the documentation-related tooling you are comfortable with, and how you've addressed various content usability considerations.
 * Interview with Technical Writing Manager. The interviewer will spend time learning how you think about a tech writing team within an organization, ways of ensuring the team is well-positioned to produce content that has a substantial impact on the user experience, and specific examples of large content initiatives.
+* Interview with Senior Manager of Tech Writing. 
 * Interview with VP of UX. The interviewer will spend time learning about the experience you have as a manager, what types of teams you have led, your management style, how you define strategy, your approach to content usability and improvement, how you've handled difficult situations, and how you've helped mentor technical writers. Be prepared to talk about your work and technical abilities, too.
-* Interview with the VP of Engineering. The interviewer will spend time learning about your leadership experience, management style, and what is driving you to want to join GitLab.
+
 
 ## Career Ladder
 
