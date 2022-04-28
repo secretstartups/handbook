@@ -10,7 +10,7 @@ description: Support Global Groups Training Plan
 
 ### General
 **DRIs** Mike Dunninger, Jane Gianoutsos, Tine Sørensen    
-**Launch date** Monday May 2nd, 2022    
+**Launch date** Sunday May 1st, 2022 at 2100 UTC    
 **Slack group** `#spt_gg_questions`
 
 #### Where to ask questions?
