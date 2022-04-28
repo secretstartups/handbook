@@ -331,13 +331,18 @@ To cultivate engagement from the wider community, do not weigh an issue accordin
 
 Team members should add any [planned time off](/handbook/paid-time-off/#paid-time-off) in the ["PTO by Roots"](https://gitlab.slack.com/archives/D019WTM2F99) slack app, so that the Engineering Manager can use the proper number of days off during capacity planning.
 
-### Merge Request Types Dashboard
+### Dashboards
+#### Cross-functional Backlog
+(<a href="https://app.periscopedata.com/app/gitlab/1000952/Interdepartment-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+We also track our backlog of issues, including past due security and infradev issues, and total open SUS-impacting issues and bugs.
 
+<%= partial "handbook/engineering/metrics/partials/interdepartment_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for('quality', "group", "Editor") } %>
+
+#### Merged Merge Request Types
+(<a href="https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail" target="_blank">Sisense↗</a>)
 MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
 
 <%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for('quality', "group", "Editor") } %>
-
-More detail is available on our [metrics page](https://about.gitlab.com/handbook/engineering/metrics/dev/create/editor/).
 
 ## 👏 Communication
 
