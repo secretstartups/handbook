@@ -93,8 +93,6 @@ You can use the `support-resources` project to manually create resources in a GC
 
 **Warning:** You may also have access to the `gitlab-internal` and `gitlab-support` GCP projects. It's strongly recommended that you make use of the `support-resources` project or the GitLab Sandbox Cloud, instead of creating new resources in these projects.
 
-We also have a `support-openshift` project created for the purpose of creating OpenShift clusters for testing the [GitLab Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) and [GitLab Runner Operator](https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator). Reach out to your Support Team colleagues in the [#support-testing Slack Channel](https://gitlab.slack.com/archives/C0167JB9E02) for more details on using this project for shared OpenShift testing.
-
 **Note:** Please remember to shut down any manually created that you are no longer using.
 
 #### GCP GKE Kubernetes Cluster
@@ -109,7 +107,7 @@ Please use the `support-resources` GCP project or your [GitLab Sandbox Cloud](ht
 
 1. Ensure you have selected your own project at the top of [GCC](ttps://console.cloud.google.com).
 1. Open the navigation menu at the top of [GCP](ttps://console.cloud.google.com)
-1. Select **Kubernetes Engine > Create Cluster** from the dashboard. 
+1. Select **Kubernetes Engine > Create Cluster** from the dashboard.
 1. Enter a name, select a zone, and choose the default static master version unless you have a specific reason to use an alternative version.  It's important to use a server version that will [match your kubectl client version](https://kubernetes.io/docs/tasks/tools/install-kubectl/#before-you-begin).
 
 All of the remaining options can be left as their default settings unless you have a need to add customization to your cluster.  Of note, the Maximum Pods per Node option [directly correlates with the CIDR assignment](https://cloud.google.com/kubernetes-engine/docs/how-to/flexible-pod-cidr?_ga=2.246280516.-1734733517.1581009580) of your node(s).
