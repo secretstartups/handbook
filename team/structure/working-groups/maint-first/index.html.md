@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Next Prioritization"
+title: "Cross-Functional Prioritization"
 description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
 canonical_path: "/company/team/structure/working-groups/maint-first/"
 ---
@@ -17,7 +17,7 @@ canonical_path: "/company/team/structure/working-groups/maint-first/"
 |-----------------|------------|
 | Date Created    | 2022-04-13 |
 | Target End Date | 2022-06-30 |
-| Slack           | [#wg_next-prioritization](https://gitlab.slack.com/archives/C03AWM7780G) |
+| Slack           | [#wg_cross-functional-prioritization](https://gitlab.slack.com/archives/C03AWM7780G) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1wog8bR7jg6SECefx9BGqIa07sFm_sXJPvelVAganYmc/edit#heading=h.pmtw3ocv2aty)  |
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4199535?label_name[]=wg_maint-first) |
 | Epic            | [Link](https://gitlab.com/groups/gitlab-com/-/epics/1799) |
@@ -52,7 +52,7 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 
 | Task | Due date | Status | DRI | Issue link(s) |
 | --- | --- | --- | --- | --- | 
-| Poll and decide on new workgroup name | 5/2 | In process | Michael Oliver | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274) |
+| Poll and decide on new workgroup name | 5/2 | Complete | Michael Oliver | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274) |
 | Company wide-announcement and schedule AMA sessions | 5/4 | In process | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13302) |
 | Update dashboards and associated handbook pages for all teams | TBD | In process | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) |
 | Complete bot automation work | TBD | In process |  Kyle Wiebers | [Issue 5](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) and [Issue 6](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
