@@ -323,6 +323,7 @@ Chances are that if you work at GitLab, you have great friends and peers who wou
 We encourage and support [diversity](/handbook/values/) and [frugality](/handbook/values/) on our team and in our hiring practices, so we will offer the following referral bonuses once the new team member has been with the company for 3 months. We will award the highest cumulative dollar amount as outlined below:
 * [$500](/handbook/total-rewards/compensation/#exchange-rates) base referral bonus for a new hire.
 * [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a [Location factor](/handbook/total-rewards/compensation/compensation-calculator/calculator/) less than 0.65.
+  * When the director factor (0.7) is used instead of the location factor, this add-on referral does not apply regardless of the candidate's location factor.
 * In case of a new hire in ENTR, PubSec, SMB, MM, eCommerce, Channel-Indirect or Channel-Program, [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus is applicable only if the [Sales Regional Factor](/handbook/total-rewards/compensation/#sales-compensation) is less than 0.65.
 * [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](/culture/inclusion/#examples-of-select-underrepresented-groups).
 
@@ -331,6 +332,12 @@ The following is an *example* of a cumulative Referral Bonus:
 * With a location factor of 0.6: + $1,000
 * Who self-identifies as Native American/Native: + $1,500
 * Cumulative referral bonus to the referring team member: **$3,000**
+
+Another example when the director factor is used instead of a location factor:
+* Hire a referred Director of Engineering: $500
+* With a location factor of 0.6, but a director factor of 0.7: + $0
+* Who self-identifies as Native American/Native: + $1,500
+* Cumulative referral bonus to the referring team member: **$2,000**
 
 #### How to make a referral
 
