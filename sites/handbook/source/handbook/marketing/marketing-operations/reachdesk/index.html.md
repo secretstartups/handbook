@@ -16,15 +16,15 @@ description: "Reachdesk is a direct mail provider that we use for sales and mark
 
 # Disclaimer: This page is WIP! 
 
-# About ReachDesk
+# About Reachdesk
 Reachdesk is a direct mail campaign used to land and accelerate deals to fuel pipeline progression using personalized gifts.
 Contact: Customer Success Manager - Aoife Sweeney - aoife@reachdesk.com
 
 ### Video Walk Through
-Please watch the video walk through showcasing how to fully utilize ReachDesk's capabilities. 
+Please watch the video walk through showcasing how to fully utilize Reachdesk's capabilities. 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1ym8v0tQ9aHCQRfRP_sV7JSBXIETmC8X8/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+ <iframe src="https://drive.google.com/file/d/1ym8v0tQ9aHCQRfRP_sV7JSBXIETmC8X8/preview" width="640" height="480" allow="autoplay"></iframe>
 </figure>
 <!-- blank line -->
 
@@ -34,7 +34,7 @@ Utilise the **Insight** tab on the platform. Customised reports can be created u
 ## How to use 
  
 # Building Campaigns
-### Creating ReachDesk Campaigns
+### Creating Reachdesk Campaigns
 First off click **New Campaign**. You can then select one of four options:
 1. Bundle - using items from our warehouses (currently UK and EU warehouse)
 1. E- Gift cards and reward Pass - sending e-gift cards, can choose from a vast selection, region specific. It is recommended to include min 3 types of cards
