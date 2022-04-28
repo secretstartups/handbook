@@ -149,20 +149,33 @@ To review the Compensation Benchmark process please refer to the [New Roles Crea
 #### Benchmark Adjustment
 
 As stated in [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) we want to recruit and retain people who meet our requirements.
-If more than 20% of the people do not accept our offers stating compensation as a reason this is an indication we're not offering a competitive rate.
-In this case the Total Rewards team can review the compensation. During this review, we do not look to target at a certain percentile, but instead look at market rates and declined candidate offers when adjusting. A business case should be presented to the compensation group after approval from the Total Rewards team in a google sheet with market data, candidate expectations, an impact to the current team; and in a google doc outlining the problem statement, likely cause, what the department has already tried, and an overall proposal which clarifies the budgetary impact.
+If any one, or a combination of, the following statistics is met, a benchmark review can be requested to address any concerns around the benchmark:
 
-If we change our [SF benchmark](#benchmark-adjustment) for a job family without changing the requirements, we change the compensation both for existing team members and new hires. If the SF benchmark is changed together with the requirements this review might happen at the time of the change or in our yearly cycle.
+* A job requisition is open for longer than 100 days
+* A minimum of 4 **qualified** candidates reject an offer extended by GitLab, or withdraw from the hiring process, due to a reason of compensation for an open requisition
+  * Non qualified candidates who do not move forward in the hiring process, would not count towards this minimum as this would not be a reason of compensation, but more about competency or other qualifying reasons. We would still want to collect this data as an input for a compensation analysis on candidate expectations. 
+* The Recruitment Declines and Withdrawals template is compiled with at least 10 rows of significant/qualified candidate data, including equity information. 
+  * It is important to ensure when we discuss compensation we have an idea of the candidate's expectations of total rewards which is inclusive of cash and equity for compensation. 
+* A voluntary departure rate of 12% or more by current GitLab team members in any given department due to the reason of compensation. 
 
-Sometimes the requirements of a job family change. Usually this means the requirements become more restrictive as the complexity of our project and services demands more--or more specific--experience. This is different from a market adjustment because the market has not necessarily changed. This means that everyone on that benchmark does not get an automatic raise.
+**Summary of the process:**
+Once data has been collected, the Total Rewards team will review the compensation expectations. During this review, we will look at survey data and candidate expectations (specifically declines due to compensation) to recommend an adjustment to our SF benchmark and target percentile for the role. Total Rewards will coordinate with FP&A and the department leader to draft a business case to be presented to the egroup leader. The business case would include:
+  * A google sheet with market data, candidate expectations, and impact to the current team.
+  * A google doc outlining the problem statement, what the department has already tried, and an overall proposal which clarifies the budgetary impact.
 
-However, we want everyone who works at GitLab prior to a role requirement change to the have the same opportunity as new hires. They and their manager can then immediately begin technical and career development using the new role requirements. Promotions against this new criteria can also be requested on their own cadence.
-
-It's not necessary, but it's easier for the organization to digest a benchmark change resulting from changes in a job's requirements if the name of the role changes as well. Two examples are:
-
-* Production Engineer -> Site Reliability Engineer (SRE)
-* Developer -> Backend Engineer
-* UX Designer -> Product Designer
+**Please see the following for a full summary of the benchmark review process:**
+1. The recruitment team member should compile significant data in the Recruitment Declines and Withdrawals Template for a specific job and conclude that a benchmark review is needed due to recruiting challenges related to compensation reasons/expectations. Significant data is defined as 10 rows of qualified candidates. 
+1. The recruitment team member should discuss challenges and concerns with the hiring team and/or manager and agree that a benchmark review is necessary. 
+1. The hiring manager/team should include the PBP and Department Head (Director/VP), and other People Group team members as appropriate, in a discussion to obtain initial approval by Department Head for benchmark review to ensure a willingness to make budget trade offs if a benchmark review results in a recommendation for a higher adjustment. 
+1. After receiving Department Head approval, the hiring manager should send an email to the Total Rewards team (total-rewards@gitlab.com) and copy the PBP, with the Recruitment Declines and Withdrawals file, along with the business case, confirmation of Department Head approval, and proposal or expectations of adjustment. 
+1. The Total Rewards team will review the email and perform an analysis of the benchmark in question if it is agreed that a review is warranted. If it is not warranted, the Total Rewards team will go back to the hiring manager and PBP to discuss further. 
+1. The Total Rewards team will summarize and review the results of the benchmark review with the hiring manager and PBP, and propose a recommendation and next steps for the benchmark adjustment, including reaching out to Finance for budgetary impact. 
+1. The Hiring Manager should discuss the results to the Department Head, ensuring approval to move forward with the final recommendation.
+1. Once the Department Head has approved, the FP&A team will review and approve and discuss any tradeoffs needed for the department. 
+1. The Department Head would escalate the business case for approval to the EGroup Leader after approval from the Total Rewards and FP&A team. 
+1. After approval from the EGroup Leader, the Department Head and PBP review and prepare adjustments and communications. 
+1. The Total Rewards team will update the [Compensation Calculator](https://comp-calculator.gitlab.net/users/sign_in) and all other appropriate documentation
+1. If applicable, team members are notified of a pay adjustment and related information. 
 
 ### Job Codes
 
