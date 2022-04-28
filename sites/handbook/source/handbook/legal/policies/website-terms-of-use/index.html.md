@@ -3,6 +3,7 @@ layout: handbook-page-toc
 title: "GitLab Website Terms of Use"
 description: "These terms ..."
 ---
+Last updated: 28 April 2022
 
 ## Website Terms of Use
 
@@ -31,11 +32,13 @@ These Website Terms of Use (the “Agreement”) govern all use of the GitLab.co
 
 - Distributing harmful or offensive Content that is defamatory, obscene, abusive, an invasion of privacy or harassing;
 
-- The distribution of malicious/commercial spam; or
+- The distribution of malicious/commercial spam;
 
-- Violating the security or integrity of any computer, network or communications system.
+- Violating the security or integrity of any computer, network or communications system;
 
-- Using the Website to mine or demonstrate proof-of-work for a cryptocurrency or blockchain.
+- Using the Website to mine or demonstrate proof-of-work for a cryptocurrency or blockchain; or
+
+- Using any process or device (automated or otherwise) to retrieve, index, "data mine", "scrape", or in any way reproduce the presentation of this website or its Content, unless otherwise permitted under applicable content licensing permissions.
 
 #### 4. DMCA and Privacy Policies
 **4.1.** As GitLab asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that Content located on or linked to the Website violates your copyright, you are encouraged to notify GitLab in accordance with our [DMCA policy](https://about.gitlab.com/handbook/dmca/).
