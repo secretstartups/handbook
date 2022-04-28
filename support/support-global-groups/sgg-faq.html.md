@@ -16,7 +16,7 @@ description: Support Global Groups FAQ
 
 ### Siloing
 
-1. Within SGG, how can we detect trends and do problem management?
+#### 1. Within SGG, how can we detect trends and do problem management?
 
    Take advantage of the facts that group views in SGG are globally visible and
    that broad collaboration is encouraged (Crush Sessions, Pairing, Senior Help
@@ -25,7 +25,7 @@ description: Support Global Groups FAQ
    similar situations that have already been reported. As FlexiPods become more
    widespread, they will provide an excellent space for trend detection as well.
 
-2. How does SGG impact people’s sense of belonging to a single global team?
+#### 2. How does SGG impact people’s sense of belonging to a single global team?
 
    It can have that undesired impact if we are not diligent at encouraging and
    enabling various opportunities for collaborating outside of a group. A few
@@ -34,8 +34,7 @@ description: Support Global Groups FAQ
    2. Create SGG Office Hours to share tips and tricks between groups
    3. Set up regular coffee chats for yourself with colleagues outside of your group
 
-3. Does having per-group Slack channels make it harder to find unanswered
-   questions where an SE still needs help?
+#### 3. Does having per-group Slack channels make it harder to find unanswered questions where an SE still needs help?
 
    The reason for having the group channels is to make it easier to get
    answers when you post a question in Slack. Before SGG, asking a question in
@@ -49,8 +48,7 @@ description: Support Global Groups FAQ
    amount of time seek help in other channels or through mechanisms such as
    FlexiPods.
     
-4. Does having per-group Slack channels make it harder to find existing
-   answers in Slack?
+#### 4. Does having per-group Slack channels make it harder to find existing answers in Slack?
 
    This can happen. However, given that Slack purges older posts continuously,
    we shouldn’t be storing answers to ticket-related technical questions in
@@ -59,9 +57,7 @@ description: Support Global Groups FAQ
    itself. That will allow others to search through ticket history to find
    what they need at any later time.
 
-5. When should information or a discussion in a group Slack channel be moved to
-   a channel such as `#support_self-managed` or `#support_gitlab-com` that has a broader
-   audience?
+#### 5. When should information or a discussion in a group Slack channel be moved to a channel such as `#support_self-managed` or `#support_gitlab-com` that has a broader audience?
    
    The decision is largely up to the person who started the discussion.
    Some questions helpful to making a good decision are:
@@ -77,16 +73,14 @@ description: Support Global Groups FAQ
 
 ### Tickets in other groups
 
-1. Within SGG, how can SEs find and take tickets related to their topic of
-   study?
+#### 1. Within SGG, how can SEs find and take tickets related to their topic of study?
 
    When a Support Engineer is working on a training module, they should feel
    free to assign to themselves any unassigned tickets they find in any
    group's view that will help them in meeting their training requirements.
    They should at that time change the `SGG` field to have their group’s name.
     
-1. Are SEs allowed to bring their expertise where it is needed, even outside
-   of their group?
+#### 2. Are SEs allowed to bring their expertise where it is needed, even outside of their group?
 
    Yes! Go where your knowledge is needed. Pair with the ticket assignee. Or
    add notes to their tickets to suggest solutions or next steps. If it makes
@@ -97,7 +91,7 @@ description: Support Global Groups FAQ
 
 ## Group Administration
 
-1. How are the number and size of groups determined?
+### 1. How are the number and size of groups determined?
    We based the trial groups’ size on external studies of what range of group
    sizes is most effective, and settled on 14-15 as that would allow for six
    comparably-sized groups in a global deployment. After the trials, feedback
@@ -112,7 +106,7 @@ description: Support Global Groups FAQ
       their groups. Adding one or two more people to each region of each group
       mitigates that problem at least a little.
     
-1. What are the criteria for forming groups?
+### 2. What are the criteria for forming groups?
    1. Within each region, we determined each group’s membership by distributing
       as evenly as we could the following:
       1. Area of focus (SaaS vs. SM)
@@ -127,7 +121,7 @@ description: Support Global Groups FAQ
    1. We did not take into account other special roles, such as Support Stable
       Counterparts
 
-1. Is membership in a particular group permanent?
+### 3. Is membership in a particular group permanent?
 
    Groups are intended to build camaraderie, comfort, a support system, and
    psychological safety. To do that, they should be as stable as possible over
@@ -140,7 +134,7 @@ description: Support Global Groups FAQ
 
 ## Success Measurements
 
-1. What is SGG trying to improve? (What is the purpose of SGG?)
+### 1. What is SGG trying to improve? (What is the purpose of SGG?)
    The essence of the move to SGG was that we wanted to take our team members
    out of a poorly defined system that didn’t support them well and put them
    into a new system that would. Feedback from the Support Engineers who
@@ -157,7 +151,7 @@ description: Support Global Groups FAQ
    to settle in to the new system and then to learn how to take full advantage
    of it to improve our KPIs such as FRT, SSAT, and TTR.
 
-1. Will FRT baselines or monitoring change?
+### 2. Will FRT baselines or monitoring change?
    Initially we will keep the FRT baselines unchanged. With everybody in SGG
    instead of just ⅓ of the global team (as was the case during the trial),
    there should be sufficient flow of new tickets into each group to allow
@@ -168,7 +162,7 @@ description: Support Global Groups FAQ
    some may want to distribute the work within their group in a different way,
    and that could drive other changes to FRT measurement.
 
-1. What happens if our FRT SLA achievement goes down?
+### 3. What happens if our FRT SLA achievement goes down?
    The entire Support Leadership Team (VP through managers) will continue to
    monitor all of our KPIs, as always. When and if we detect a trend in the
    wrong direction for any of them, we will follow our normal process, which
@@ -179,7 +173,7 @@ description: Support Global Groups FAQ
 
 ## Organization and Leadership
 
-1. What is the manager’s role with respect to SGG?
+### 1. What is the manager’s role with respect to SGG?
    - Managers are available to work with any group that reaches out with
      questions, concerns, requests for guidance, requests for help, etc.
    - Managers are encouraged to stay aware of group activity by watching the
@@ -187,7 +181,7 @@ description: Support Global Groups FAQ
    - Managers work primarily with their own team members to understand
      challenges and growth opportunities, to provide coaching and guidance, etc.
 
-1. Why are managers not assigned to specific groups within the SGG system?
+### 2. Why are managers not assigned to specific groups within the SGG system?
 
    If we were to assign managers to groups, we would either need to make each
    group a manager’s team, replacing their current team, or use matrix
@@ -211,8 +205,7 @@ description: Support Global Groups FAQ
    observe the different successes, struggles and organization of each group and
    get a bigger picture of how we’re doing.
 
-1. Without manager assignment to groups, how will we gain global alignment for
-   future initiatives and changes?
+### 3. Without manager assignment to groups, how will we gain global alignment for future initiatives and changes?
 
    Nothing really changes with respect to gaining global alignment. Managers
    will discuss initiatives and changes with their team members in 1:1s, or team
@@ -221,8 +214,7 @@ description: Support Global Groups FAQ
    discuss these things with any or all groups. So it may actually be easier to
    gain global alignment in SGG than it was prior to SGG.
 
-1. What happens if a group is not making progress on organizing itself,
-   especially given that no manager will be assigned to them?
+### 4. What happens if a group is not making progress on organizing itself, especially given that no manager will be assigned to them?
 
    We encourage groups to reach out for help when they are struggling with
    anything, including self-organization. They can ask one or more particular
@@ -233,8 +225,7 @@ description: Support Global Groups FAQ
    Managers might also observe a group struggling with something, and reach out
    proactively to ask if they would like some help.
  
-1. Will managers be providing guidance and assistance to groups in
-   self-organizing? If so, how?
+### 5. Will managers be providing guidance and assistance to groups in self-organizing? If so, how?
 
    Yes, managers will provide both guidance and assistance beginning perhaps 2
    weeks after the rollout. During the first few weeks, we want the groups to
@@ -243,9 +234,57 @@ description: Support Global Groups FAQ
    and documenting how the management team can best contribute when groups are
    ready to undertake self-organizing.
 
+### 6. What are the roles of Senior and Staff SEs in SGG?
+
+Senior SEs are assigned to a group, just as Intermediate SEs are. Seniors’ first
+priority is the success of their group, with an emphasis as usual on assisting
+other SEs, sharing knowledge, and being leaders. They also look beyond their
+group to other groups and Support as a whole, with the same emphasis.
+
+Staff SEs are not assigned to any group, and work as they did prior to the SGG
+rollout.
+
+### 7. How do the L&R and USFed SEs fit within SGG?
+
+- USFed SEs work as part of the USFed team, which operates in many ways like
+  an SGG group. They have their own ticket view. They organize internally. They
+  collaborate with other groups. One major difference is that this group
+  operates only in the AMER region.
+
+- 100% L&R SEs work as part of the global L&R Team, which also operates
+  similarly to an SGG group. They have their own ticket view. They organize
+  internally. They have team members in all regions. However, they collaborate
+  more with the Fulfillment teams than with the rest of Support.
+  
+  *NOTE: SEs who have a partial L&R focus do work within an SGG group for their
+  SaaS and SM responsibilities.*
+
+### 8. How does SGG fit into the onboarding process for new SEs?
+
+The new hire onboarding issue contains Support-specific steps for assigning
+the new hire to a group and for configuring systems such as Zendesk with
+the assignment information. These steps begin during the pre-start-date section
+of the issue so that the chosen group can participate in welcoming the new team
+member from day one. The group becomes an immediate source of information,
+support and psychological safety as the new team member slowly integrates into
+GitLab and the global Support Team.
+
+The regional SGG DRIs are responsible for assigning new team members to groups.
+The DRIs incorporate many factors such as skills, skill levels, areas of focus,
+representation and so on, into maintaining a balance across the groups as they
+assign new team members. When a new group is needed in order to make room for a
+new team member, the group will be formed with a mix of experienced and new SEs.
+
+In selecting an onboarding buddy for the new team member, the hiring manager is
+free to choose any appropriate person either in or out of the assigned group.
+If the onboarding buddy is in the assigned group, that may provide some extra
+comfort to the new person in getting to know their group. And if the onboarding
+buddy is in another group, that may help the new person to connect more quickly
+with the rest of Support.
+
 ## Tickets and Views
 
-1. Will SEs respond to other SEs’ tickets?
+### 1. Will SEs respond to other SEs’ tickets?
 
    An important part of SGG is increasing collaboration on tickets, and that’s
    why all of a group’s tickets are visible in the group view and all SEs are
@@ -259,8 +298,7 @@ description: Support Global Groups FAQ
    available to send a response, then any other SE who can help should consider
    doing so.
 
-1. If there are no tickets in my group view that are within my Area of Focus (SM
-   or SaaS), what should I do?
+### 2. If there are no tickets in my group view that are within my Area of Focus (SM or SaaS), what should I do?
 
    One of the benefits of SGG is that it provides a more supportive environment,
    your small group, for taking risks and growing. So when this situation
@@ -270,8 +308,7 @@ description: Support Global Groups FAQ
    you need it! For other choices, see the Prioritizing work topic on the SGG
    main page.
 
-1. What should a group do if all of its SaaS or SM people are absent or
-   dedicated to non-ticket work?
+### 3. What should a group do if all of its SaaS or SM people are absent or dedicated to non-ticket work?
 
    First, remember that each group is represented in all 3 regions. It’s pretty
    unlikely that all 3 regions of a group would be completely absent all of its
@@ -285,6 +322,17 @@ description: Support Global Groups FAQ
    coordinating or at least dealing with planned absences. At a minimum, if the
    group agrees on a single way to keep all of its members informed as to
    upcoming and current absences, then there won’t be any unpleasant surprises.
+
+### 4. Will Suppport FlexiPods work with SGG?
+
+   Yes! These two systems provide different ways of dividing up the ticket
+   work, with FlexiPods based on subject matter expertise and SGG based on the
+   benefits of small group settings. Put together, they will allow SEs to focus
+   first on their group's success and then on helping with or learning about
+   their specific areas of interest. For additional important details about
+   working within both of these systems simultaneously, please see the
+   [Prioritizing work](https://about.gitlab.com/handbook/support/support-global-groups/#prioritizing-work)
+   topic on the SGG main handbook page.
    
 ## Still Uncategorized
 
@@ -309,12 +357,3 @@ description: Support Global Groups FAQ
   they may already have knowledge of the ticket and because they are very
   likely to respond to the request. Finally, as before, the manager may reach
   out to the rest of Support if more help is needed.
-
-### How do the L&R and USFed SEs fit within SGG?
-
-- USFed SEs work as part of the USFed team, which operates in many ways like
-  an SGG group.
-- 100% L&R SEs work as part of the global L&R Team, which also operates
-  similarly to an SGG group. SEs who have a partial L&R focus do work within
-  an SGG group for their SaaS and SM responsibilities.
-
