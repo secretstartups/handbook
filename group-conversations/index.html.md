@@ -259,34 +259,40 @@ Additional links which may be useful when preparing to moderate a call include:
 
 ## Schedule & DRI
 
+The Group Conversation schedule is set quarterly. The schedule is finalized the week before the start of each quarter by the EBA to the CEO. 
+
+The Scheduling DRI for each GC is responsible for ensuring the GC Zoom is setup correctly, set to record to the cloud automatically, and that there is a specified person for livestreaming. If someone other than the EBA is livestreaming, the EBA will add that individual as an alternate host to the meeting via zoom. For details on how to successfully livestream, please see the [considerations for livestreams](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#considerations-for-livestreams) in the handbook. 
+
 There is a [rotating schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing) with each Department having a conversation on a regular interval.
 We usually do not have Group Conversations or Company calls during the last two weeks of December. We also tend to cancel these during [Contribute](https://about.gitlab.com/events/gitlab-contribute/).
 
 On 2022-02, we'll move our Group Conversations to make **Group Conversations for groups without a Key Review optional**. [Functions with Key Reviews](/handbook/key-review/#invitees) will continue to have Group Conversations within 10 days following their Key Review.  
 
-Please note: the frequency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Portfolio Marketing GC could happen every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews are optional, and these can be swapped with other groups without Key Reviews, or scheduled during an open day that is available as noted on the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing).
+Please note: the frequency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Portfolio Marketing GC could happen every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews are optional, and these can be swapped with other groups without Key Reviews, or scheduled during an open day that is available as noted on the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing). 
 
-| Group Conversation | DRI | Key Review? | GC Frequency |
-| ------------------ | --- | ----------- | ------------ |
-| [Sales & Marketing](/handbook/sales/) | Michael McBride and Craig Mestel | Yes | Twice per quarter |
-| [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter |
-| [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter |
-| [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Every month |
-| [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Twice per quarter |
-| [Support](/handbook/support/) | Tom Cooney | Yes | Twice per quarter |
-| [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Every other month |
-| [UX](/handbook/engineering/ux/) | Christie Lenneville | Yes | Every other month |
-| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month |
-| [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month |
-| [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month |
-| [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Cindy Blake | No | Optional |
-| [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | Darren Murph | No | Optional |
-| [Digital Experience](/handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No | Optional |
-| [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Adam Mittner | No | Optional |
-| [UX Research](/handbook/engineering/ux/ux-research/) | Adam Smolinski | No | Optional |
-| [Community Relations](/handbook/marketing/community-relations/) | David Planella | No | Optional |
-| [Sales Development](/handbook/marketing/revenue-marketing/) | Jean-Baptiste Larramendy | No | Optional |
-| [Alliances](/handbook/alliances/) | Nima Badiey | No | Optional |
+If your GC is optional and you need to move the date, please work with your department's EBA to either trade or schedule an AMA in place of your GC. 
+
+| Group Conversation | DRI | Key Review? | GC Frequency | Alternate Hosts | Scheduling DRI |
+| ------------------ | --- | ----------- | ------------ | --------------- | -------------- |
+| [Sales & Marketing](/handbook/sales/) | Michael McBride and Craig Mestel | Yes | Twice per quarter | | @Aschrauth | 
+| [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter | | @ckgitlab | 
+| [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter | | TBH: EBA to CPO | 
+| [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Every month | | @jennifergarcia20| 
+| [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Twice per quarter | | TBH: EBA to Engineering | 
+| [Support](/handbook/support/) | Tom Cooney | Yes | Twice per quarter | @lbot @lyle @vparsons| TBH: EBA to Engineering | 
+| [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Every other month | | TBH: EBA to Engineering | 
+| [UX](/handbook/engineering/ux/) | Christie Lenneville | Yes | Every other month | | TBH: EBA to Engineering | 
+| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | TBH: EBA to Engineering | 
+| [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month | | TBH: EBA to Engineering | 
+| [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | @kristie.thomas |
+| [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Cindy Blake | No | Optional | | TBH: EBA to CMSO | 
+| [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | Darren Murph | No | Optional | | TBH: EBA to CMSO | 
+| [Digital Experience](/handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No | Optional | | TBH: EBA to CMSO | 
+| [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Adam Mittner | No | Optional | | TBH: EBA to CMSO | 
+| [UX Research](/handbook/engineering/ux/ux-research/) | Adam Smolinski | No | Optional | | TBH: EBA to Engineering | 
+| [Community Relations](/handbook/marketing/community-relations/) | David Planella | No | Optional | | TBH: EBA to CMSO | 
+| [Sales Development](/handbook/marketing/revenue-marketing/) | Jean-Baptiste Larramendy | No | Optional | | TBH: EBA to CMSO | 
+| [Alliances](/handbook/alliances/) | Nima Badiey | No | Optional | | @danadpelton |
 
 
 ## Examples of Past Group Conversations
