@@ -463,7 +463,7 @@ To demote one of your direct reports, a manager should follow the following step
 
 ## Job Information Change in BambooHR
 
-Job information changes are anything that requires an update to the team member's profile in BambooHR that is not compensation related. The current manager is the person who needs to submit all job information change requests (including requests to change team member's manager).
+Job information changes are anything that requires an update to the team member's profile in BambooHR that is not compensation related. The current manager is the person who needs to submit all job information change requests (including requests to change team member's manager). These changes need to get requested through BambooHR to have an approval trail for compliance reasons.
 
 **Process for the current manager:**
 
