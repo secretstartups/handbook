@@ -24,7 +24,7 @@ canonical_path: "/company/team/structure/working-groups/maint-first/"
 
 ## Business Goals
 
-The engineering allocation process often addresses maintenance work retroactively rather than proactively.  This leads to unpredictabiltiy and puts us at higher risk of customer facing incidents.
+The engineering allocation process often addresses maintenance work retroactively rather than proactively.  This leads to unpredictability and puts us at a higher risk of customer-facing incidents.
 
 As a result of this, it is critical that we create a healthier balance of work by type (features, maintenance items, bugs) delivered across R&D, improve transparency for R&D and GTM stakeholders, and be prepared to respond quickly to changing needs.
 
