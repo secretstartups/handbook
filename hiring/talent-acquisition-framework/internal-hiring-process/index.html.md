@@ -45,9 +45,10 @@ description: "This page discusses the Internal Hiring Process"
 * Please follow the scheduling process for executive scheduling 
 * Recruiters will notify CES via Greenhouse once a [Letter of Adjustment (LOA)](/handbook/people-group/promotions-transfers/#letter-of-adjustment) is ready to be sent. 
 
-## People Connect Responsibilities
+## People Operations Responsibilities
 
-* People connect will handle all eligibility checks for team members applying for an internal opportunity. * People Connect by emailing people-connect@gitlab.com with the following subject line “Eligibility Check for internal team member”. In the body of the email please include the team member name and the link to their Greenhouse application.
+* People Connect will handle all eligibility checks for team members applying for an internal opportunity.  
+* Engage People Connect by emailing peopleops@gitlab.com with the following subject line “Eligibility Check for Internal Team Member”. In the body of the email please include the team member name and the link to their Greenhouse application.
 * People Connect will notify the Recruiter that the eligibility check is completed via the private notes in Greenhouse. They will also include the appropriate PBP on CC.
 Ensure you have met your department specific eligibility requirements:
    * Guidelines for performance eligibility:
