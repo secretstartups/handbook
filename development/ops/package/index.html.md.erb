@@ -112,6 +112,18 @@ These dashboards are all internal and can be only accessed by GitLab Team member
 - [Package: Costs](https://app.periscopedata.com/app/gitlab/1011032/Package:-Costs) (SiSense)
 - [Package customer adoption](https://app.periscopedata.com/app/gitlab/877343/Package-customer-adoption) (SiSense)
 
+#### Cross-functional Backlog
+(<a href="https://app.periscopedata.com/app/gitlab/1000952/Interdepartment-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+We also track our backlog of issues, including past due security and infradev issues, and total open SUS-impacting issues and bugs.
+
+<%= partial "handbook/engineering/metrics/partials/interdepartment_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for('quality', "group", "Package") } %>
+
+#### Merged Merge Request Types
+(<a href="https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail" target="_blank">Sisense↗</a>)
+MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
+
+<%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for('quality', "group", "Package") } %>
+
 #### Error Budget
 
 The Package Group uses the [Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-detail-package/stage-groups-package-group-error-budget-detail?from=now-7d&to=now&var-PROMETHEUS_DS=Global&var-environment=gprd&var-stage=main&var-controller=All&var-action=All&orgId=1) to measure our budget usage on a weekly basis. The [Package::Package error budget peformance indicator](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#packagepackage---error-budget-for-gitlabcom) is tracked and updated weekly.
