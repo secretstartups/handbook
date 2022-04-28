@@ -183,8 +183,15 @@ This avoids the rush to provide documentation that often accompanies the release
 [feature flag template]: https://docs.gitlab.com/ee/development/documentation/feature_flags.html#features-disabled-by-default
 [documentation should be updated]: https://docs.gitlab.com/ee/development/documentation/feature_flags.html#features-that-became-enabled-by-default
 
-### Merge Request Types Dashboard
+### Dashboards
+#### Cross-functional Backlog
+(<a href="https://app.periscopedata.com/app/gitlab/1000952/Interdepartment-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+We also track our backlog of issues, including past due security and infradev issues, and total open SUS-impacting issues and bugs.
 
+<%= partial "handbook/engineering/metrics/partials/interdepartment_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for('quality', "group", "Product Planning") } %>
+
+#### Merged Merge Request Types
+(<a href="https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail" target="_blank">Sisense↗</a>)
 MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
 
 <%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for('quality', "group", "Product Planning") } %>
