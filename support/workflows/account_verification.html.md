@@ -38,6 +38,10 @@ If a user cannot make use of self-serve methods (lost their account recovery cod
 
 If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
 
+#### Note
+
+For security purposes, support will not process 2FA resets for users who are added to a paid subscription for the express purpose of having 2FA disabled on their account.
+
 ### Conditions for 2FA Reset Consideration
 
 In order for a SaaS user to be a candidate for the [workflow](#workflow), one of the following is true:
