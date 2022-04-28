@@ -159,15 +159,15 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 - A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
 - A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance.
 
-### **SuperSonics Billing and Subscription Management Experience**
+### **Billing and Subscription Management ("SuperSonics")**
 
-GitLab's Cloud Licensing experience allows for the activation and provisioning of Quarterly Subscription Reconciliation and Auto-Renewals, which apply to both SaaS and Self-Managed Subscription plans. In addition, the new Cloud Licensing experience introduces Operational Data. 
+GitLab's Cloud Licensing experience allows for the activation and provisioning of Quarterly Subscription Reconciliation and Auto-Renewals, which apply to both SaaS and Self-Managed Subscription plans. In addition, the Cloud Licensing experience introduces Operational Data. 
 
-#### SuperSonics Eligibility
+#### Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Data: Eligibility
 
-Starting 2021-08-02, the SuperSonics Billing and Subscription Management Experience applies to all eligible new customers and any eligible existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted into the new terms. To determine whether your customer is eligible for Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Data, review the [Availability Matrix](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloud-licensing/#availability-matrix) and read the [Customer Availability Summary Table](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#bookmark=id.jb012t7kd93k) section of the [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#). Please direct any questions regarding SuperSonics eligibility to the #pnp-changes-field-questions Slack channel.
+The SuperSonics Billing and Subscription Management Experience applies to all eligible new customers and any eligible existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted into the new terms. To determine whether your customer is eligible for Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Data, review the [Availability Matrix](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloud-licensing/#availability-matrix) and read the [Customer Availability Summary Table](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#bookmark=id.jb012t7kd93k) section of the [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#). Please direct any questions regarding SuperSonics eligibility to the #pnp-changes-field-questions Slack channel.
 
-#### SuperSonics and Sales Assisted Transactions
+#### Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Data: Sales Assisted Transactions
 
 New fields have been added to the Quote object to support SuperSonics Functionality. These fields will appear on two sections of the quote object. 
 
@@ -198,7 +198,7 @@ The fields in this section enable contractual opt-outs for each SuperSonics feat
 | [Cloud Lic] Add Auto-Renewal Opt-Out | (Checkbox) Opts customer out of Auto-Renewal |
 | [Cloud Lic] Add Operational Data Opt Out | (Checkbox) Opts customer out of Operational Data |
 
-#### How To Opt-Out of SuperSonics Features
+#### How To Opt-Out of Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Data
 
 During the Sales process, a customer who would not otherwise be exempt from Auto-Renewal, Quarterly Subscription Reconciliation, and/or Operational Data may request to disable one or more of these features. Every opt-out will require approvals, as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). If an opt-out is requested and approved, upon Closed Won the related feature will be disabled for the subscription in question.
 
@@ -209,7 +209,7 @@ During the Sales process, a customer who would not otherwise be exempt from Auto
 3. Once approved, generate a PDF. That PDF will include legal language in the "Notes" section that opts the customer out of the applicable SuperSonics Feature.   
   - Any subsequent Add-Ons will maintain the contractual opt-out.
 
-#### How To Temporarily Pause SuperSonics Features 
+#### How To Temporarily Pause Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Data:
 
 During the Sales process, there may be a need for Sales to "pause" an upcoming Auto-Renewal or Quarterly Subscription Reconciliation while negotiating with the customer. Every pause will require approvals, as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). If a pause is requested and approved, that feature will be temporarily disabled for the subscription in question until the next transaction occurs. 
 
@@ -219,7 +219,7 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
   - Example: "@Sales-Support I'd like to request that Auto-Renewal be paused for this subscription. I'm working with the customer on an upsell, and I'd like to ensure we do not auto-renew the subscription at the current user count if negotiations do not end before the renewal date. Please let me know if you have any questions. Thank you!"
 3. If approved, Deal Desk will navigate to the Customer Subscription object in SFDC to temporarily disable the related feature. The feature will remain disabled until the next transaction occurs, at which time it will revert to its previous state.
 
-#### SuperSonics: Frequently Asked Questions
+#### Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Data: Frequently Asked Questions
 
 1. **I'm working on a deal. How can I tell if SuperSonics features apply to that deal?**
   - First, create a quote. After you've saved your quote, check the [Zuora Fields](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). If you see "Yes" next to "Turn On Auto-Renewal", "Turn On Quarterly Reconciliation", or "Turn On Operational Data", then that feature applies to your customer. If you see "No" next to these fields, SuperSonics features do not apply to your customer, and Legal opt-out language will be automatically populated on the Order Form.

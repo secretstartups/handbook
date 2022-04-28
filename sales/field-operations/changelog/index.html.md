@@ -160,7 +160,7 @@ Customer Programs: [Launched Customer Webinar Invite - Advanced CI/CD with large
 
 [Partner Program and System Changes](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/49)
 
-[FY22 Billing and Subscription Management Experience Improvements (Project Super Sonics) - Sales Order Processing Handbook Page Updates](/handbook/sales/field-operations/order-processing/#supersonics-billing-and-subscription-management-experience)
+[FY22 Billing and Subscription Management Experience Improvements (Project Super Sonics) - Sales Order Processing Handbook Page Updates](/handbook/sales/field-operations/order-processing/)
 
 [Deal Desk Smart Templates](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/32)
 

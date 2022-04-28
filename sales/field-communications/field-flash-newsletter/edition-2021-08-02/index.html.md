@@ -20,7 +20,7 @@ In this month's [Field Flash](/handbook/sales/field-communications/field-flash-n
 The improvements to our billing and subscription management experience (Project Super Sonics) are now effective for all new customers and any existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted-in to the new terms. Please review the below resources to get up-to-speed on the announcement details and answer customer questions. 
 
 1. **[Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#):** For a helpful summary and in-depth details of the changes.
-1. **[Sales Order Processing page](/handbook/sales/field-operations/order-processing/#supersonics-billing-and-subscription-management-experience):** For details about changes to Sales-Assisted transactions.
+1. **[Sales Order Processing page](/handbook/sales/field-operations/order-processing/):** For details about changes to Sales-Assisted transactions.
 1. **[Customer Blog](https://about.gitlab.com/blog/2021/07/20/improved-billing-and-subscription-management/):** For more information on what we have communicated to customers. 
 1. **[Objection Handling Deck](https://docs.google.com/presentation/d/1sL0is4oK6tt4nlBK7yfHp-wQbhzkb3VqzE4CzPR6KwA/edit#slide=id.g29a70c6c35_0_68):** For guidance on responding to anticipated questions. 
 1. **[Customer Experience Overview](https://youtu.be/mi87qITnzyI) and [Rep Flow Overview](https://www.youtube.com/watch?v=SPl0HFCr9pg) videos:** For insight into updated processes and experience for both you and your customers. 
