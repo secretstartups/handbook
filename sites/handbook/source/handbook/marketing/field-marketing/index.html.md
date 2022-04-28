@@ -171,7 +171,7 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#conference-in-person)
 
 ## Conference (Virtual)
-* [Tactic Details](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-sponsored-virtual-conference)
+* [Tactic Details](/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#conference)
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Sponsored_Virtual_Conference)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#conference-virtual)
@@ -194,7 +194,7 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#direct-mail)
 
 ## Executive Roundtable (In-Person, Virtual or Hybrid)
-* [Tactic Details](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-executive-roundtable)
+* [Tactic Details](/handbook/marketing/virtual-events/external-virtual-events/#executive-roundtables)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#executive-roundtables)
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Executive_Roundtable)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#executive-roundtable)
@@ -212,7 +212,7 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Epic Code (with promotion)](/handbook/marketing/field-marketing/field-marketing-epics/#self-service-with-promotion)
 
 ## Sponsored Webcast
-* [Tactic Details](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-sponsored-webcast)
+* [Tactic Details](/handbook/marketing/virtual-events/external-virtual-events/#sponsored-webinars)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#sponsored-webcast)
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Sponsored_Webcast)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#sponsored-webcast)
@@ -224,7 +224,7 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#survey)
 
 ## Vendor Arranged Meetings (In-Person, Virtual or Hybrid)
-* [Tactic Details](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-vendor-arranged-meetings)
+* [Tactic Details](/handbook/marketing/virtual-events/external-virtual-events/#vendor-arranged-meetings)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#vendor-arranged-meetings)
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Vendor_Arranged_Meetings)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#vendor-arranged-meetings)
