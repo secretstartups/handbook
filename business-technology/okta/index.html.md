@@ -75,34 +75,45 @@ Firstly, review the [1Password Guidelines](/handbook/security/#1password-guideli
 Then head to `#it_help` in Slack and ask for a temporary password to be issued.
 You will be issued a temporary password at which point you can reset your access.
 
-### I changed my phone and now can't do MFA, what do I do?
+## I need to reconfigure Okta 2FA/MFA! What do I do?
 
-No worries! You can easily reset your own MFA code for Okta if you did not wipe/return your old phone yet.
 
-Firstly, sign into your Okta webpage by going to [gitlab.okta.com](https://gitlab.okta.com) use your email, password, and the MFA code on your old phone.
+### I still have my old phone and its not wiped
 
-Once you're on the Okta webpage click on your name and then click settings.
+Great! Firstly sign into your Okta account by going to [gitlab.okta.com](https://gitlab.okta.com) use your email, password, and the 2FA code on your old phone.
+
+Once you're on the Okta webpage click on your name in the top right corner and then click settings.
 
 <div style="text-align:center;">
-  <img src="/handbook/business-technology/Okta-settings.png" alt="Okta Settings" width="500"/>
+  <img src="/handbook/business-technology/Top-right-settings.png" alt="Okta Settings" width="500"/>
 </div>
 <br>
 
-Scroll down until you see "Extra Verification", once you're there click "remove" to disable that specific MFA and then click setup to configure the new MFA code on your new phone.
+In the settings page, press the edit profile button. You may be promted for your Okta password and 2FA (On old device)
 
 <div style="text-align:center;">
-  <img src="/handbook/business-technology/Okta-2FA.png" alt="Okta 2FA" width="700"/>
+  <img src="/handbook/business-technology/Edit-profile-button.png" alt="Edit Profile" width="500"/>
 </div>
 <br>
 
+Scroll down until you see "Extra Verification", once you're there click "remove" to disable that specific 2FA and then click setup to configure the new 2FA code on your new phone.
+
+<div style="text-align:center;">
+  <img src="/handbook/business-technology/Extra-verification-Okta.png" alt="Okta 2FA" width="700"/>
+</div>
+<br>
+
+### I don't have my old phone but have a Yubikey
 
 If you wiped and returned your old mobile device you could use a [Yubikey](https://www.yubico.com/products/) as another form of authentication (if you have one set one up). Use that to access your settings page and follow the steps above to reset your Okta MFA.
 
-Lost all your MFA Factors?
-Head to `#it_help` in Slack and ask for a MFA Reset.
-Once your Factors have been reset, please set up at least two MFA factors (Yubikey or Google Authenticator, see [this video](https://youtu.be/9UyKml_aO3s)).
+### Lost access to all your 2FA/MFA?
 
-### Managing Okta Access Using Google Groups
+- Head to `#it_help` in Slack and ask for a 2FA Reset.
+- Once Okta 2FA is reset please reconfigure it by logging into your Okta account and scanning the QR code presented using Okta Verify app on your phone
+
+
+## Managing Okta Access Using Google Groups
 
 The GitLab Team Member Enablement team has created a new process for Owners and Provisioners to manage access to Okta applications. If you are listed as an Owner/Provisioner for an application in the [tech stack](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=1906611965) you will be using the method below to add users to a Google group, which will then sync this group to Okta and assign the application to users. This process was created to empower business application owners to effect Access Requests which require Okta application assignment.
 
