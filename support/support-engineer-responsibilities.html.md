@@ -11,6 +11,15 @@ description: The motto of this page is to help us know how to carry out our resp
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## PLEASE READ THIS FIRST
+
+At the beginning of May in 2022 we are introducing a new system to the global
+GitLab Support Team called Support Global Groups (SGG). If you find any conflicts
+between this page and the
+[Support Global Groups handbook pages](/handbook/support/support-global-groups/),
+consider the latter to be the single source of truth. Changes to this page to
+align the information here with the SGG pages will be introduced very soon.
+
 ## Introduction
 
 1. This page is an extension of the [Support Engineer job family](https://about.gitlab.com/job-families/engineering/support-engineer/) page.
