@@ -19,19 +19,22 @@ twitter_creator: '@gitlab'
 <!-- DO NOT CHANGE THIS ANCHOR -->
 The First Order Key Account List consists of Enterprise and Mid-Market **New First Order Logo** accounts that are identified by Sales as key accounts to land in FY23. With a set number of key accounts per rep, we will have a smaller, focused list to drive integrated ABM tactics against in FY23.
 
-This list is being updated in FY22 Q1 - **[See Epic Here >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2604)**
+Accounts fall into two tiers: Tier 1 ("white glove") has a highly integrated and high-touch approach, leveraging data and anecdotal insight from Marketing, SDR, and Sales to drive strategy. Tier 2 ("scaled ABM") groups accounts based on intent, vertical, and other factors to drive a cohesive message to the key accounts.
 
-If you have any questions, please feel free to direct them to `@jgragnola` in the [#abmteam slack channel](https://gitlab.slack.com/archives/CFBT2HSEB).
+This list was updated in FY23 Q1 - **[See epic here for reference >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2604)** If you have any questions, please feel free to direct them to `@jgragnola` in the [#abmteam slack channel](https://gitlab.slack.com/archives/CFBT2HSEB).
 
 ## First Order Key Account List FY23
 {: #fo-key-accounts .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The MVC 1 First Order Key Accounts List will be facilitated by Jackie Gragnola, _Senior Manager, ABM and Marketing Campaigns_, and Emilie Rodriguez, _Sr. Program Manager, Field Enablement_ with a goal completion date of Friday, April 8, 2022. **[See Epic Here >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2604)**
+You can reference the ABM Key Account List using te `ABM Tier` field in Salesforce as the single source of truth (SSoT). Please read the sections below to understand Tier 1 vs. Tier 2.
 
-The list will be determined by Sales Reps and Sales Leadership, aligned to two tiers:
-* Tier 1 (1:1 ABM strategy aka "white glove")
-* Tier 2 (1:many ABM strategy aka "scaled ABM")
+* [SSoT Salesforce List](https://gitlab.my.salesforce.com/00O8X000008QgVD)
+* [SSoT Demandbase List]()
+
+The list will be determined by Sales Reps and Sales Leadership:
+* [Tier 1 (1:1 ABM strategy aka "white glove")](/handbook/marketing/account-based-marketing/key-account-lists/#fo-key-accounts-tier-1)
+* [Tier 2 (1:many ABM strategy aka "scaled ABM")](/handbook/marketing/account-based-marketing/key-account-lists/#fo-key-accounts-tier-2)
 
 ### Why two tiers?
 {: #fo-key-accounts-tiers}

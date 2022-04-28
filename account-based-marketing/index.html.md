@@ -18,20 +18,20 @@ twitter_creator: '@gitlab'
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-To be added
+The Account Based Marketing Team is responsible for the strategy and implementation of Account Based Marketing campaigns and tactics to drive pipeline from a key accounts list (developed in collaboration with Sales and Marketing). We approach ABM strategy with a data-driven approach, continually testing and evaluating success of campaigns and tactics, connecting closely throughout the process across marketing, sales, and SDR teams for a fully integrated approach.
 
 ### Goals
 {: #goals}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The goals for new first-order MQLs and SAOs are derived from workbacks of sales pipeline projections. These differ by segment and geo, and can be discussed internally. Attainment of these goals is a collaborative effort across ABM, Campaigns, Field Marketing, Sales, SDR, and Digital.
+The goals for new first-order key account SAOs are derived from workbacks of sales pipeline projections and total accounts in the key account list. Attainment of these goals is a collaborative effort across ABM, Campaigns, Field Marketing, Sales, SDR, and Digital.
 
 ### Key Metrics
 {: #key-metrics}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- **North Star Metric:** MQA, SAO from New First Order Key Accounts
-- **Supporting Metrics:** Demandbase campaign metrics
+- **North Star Metric:** Sales Accepted Opportunities (SAO) from New First Order Key Accounts
+- **Supporting Metrics:** Markenting Qualified Accounts (MQA), individual paid channel and campaign metrics
 
 ## FY23 Plans
 
@@ -46,7 +46,7 @@ To see an overview of the FY23 ABM Plan, GitLab team members can search Google D
 #### FY23-Q2 OKRs (https://gitlab.com/groups/gitlab-com/marketing/-/epics/2825)
 
 - [Update ICP in Demandbase in collaboration with Product Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2827)
-- [Deliver X SAO from Key Account List](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2826)
+- [Deliver 90 SAOs from Key Account List](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2826)
 
 #### FY23-Q1 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2602))
 
@@ -72,38 +72,34 @@ To see an overview of the FY23 ABM Plan, GitLab team members can search Google D
 {: #responsibilities}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- Developing (in partnership with sales and marketing) and maintaining our [ideal customer profile (ICP)](/handbook/marketing/revenue-marketing/account-based-strategy/#ideal-customer-profile)
-- Maintenance of GitLab's [key account lists](/handbook/marketing/revenue-marketing/account-based-strategy/#focus-account-lists) in collaboration with Sales
-- [Account based marketing (ABM)](/handbook/marketing/revenue-marketing/account-based-strategy/#account-based-marketing-abm) campaigns and tactics
-- [Demandbase](/handbook/marketing/revenue-marketing/account-based-strategy/#demandbase)
-    - platform management
-    - enablement
-    - account scoring
-    - account-based engagement
-    - campaign orchestration
+[See Account Based Marketing Job Family](https://about.gitlab.com/job-families/marketing/account-based-marketing-manager/)
+
+- Strategize, execute, and optimize a data-driven ABM strategy to achieve sales goals
+- Develop and deploy multi-channel ABM campaigns, including crafting strategy, aligning internal teams, and project managing execution
+- Apply an experimentation mindset to ABM campaigns to drive, test, learn, and optimize
+- Iterate and optimize campaigns based on data and analysis of ABM campaigns and tactics
+- Collaborate with ABM leadership team (sales and marketing interlock) to select key accounts
+- Deliver account research and analysis to drive ABM strategies
 
 ## Communication
 {: #communication .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-In line with GitLab's overall [communication guidelines](https://about.gitlab.com/handbook/communication/), campaign managers work through MRs first and issues second (in order to preserve documentation), and our slack channel [#marketing_programs](https://gitlab.slack.com/archives/CCWUCP4MS) is used for team updated and quick questions.
+In line with GitLab's overall [communication guidelines](https://about.gitlab.com/handbook/communication/), ABM managers work through MRs first and issues second (in order to preserve documentation), and our slack channel [#abmteam](https://gitlab.slack.com/archives/CFBT2HSEB) is used for team updated and quick questions.
 
-The [#demand-gen](https://gitlab.slack.com/archives/CJFB4T7EX) channel is used for weekly check-ins and interaction with the larger demand generation team.
+The [#integrated-marketing](https://gitlab.slack.com/archives/C02AHJ999BN) channel is used for interaction with the larger Integrated Marketing team, and the [#im-hangout](https://gitlab.slack.com/archives/C01C8AQ625D) channel is used for weekly check-ins and connecting on a personal level.
 
-In between bi-weekly Campaigns Team Connect calls:
+In between bi-weekly ABM Team calls:
 * **Updates** should be added to MRs when possible
-   - Add to #marketing_programs Slack
-   - Begin with `UPDATE: <brief description>` (i.e. `UPDATE: Marketo segmentation live for sales segment`)
+   - Add to #abmteam Slack
    - Include link to MR (preferred) or issue
-* **Topics** that need input should be added as an MR when possible, with issues as a secondary option, and pinged in Slack with `DISCUSS`
-   - Add to #marketing_programs Slack
-   - Begin with `DISCUSS: <brief description>` (i.e. `DISCUSS: Marketing tool champions`)
+* **Topics** that need input should be added as an MR when possible, with issues as a secondary option, and pinged in Slack.
+   - Add to #abmteam Slack
    - Include link to MR (preferred) or issue
 
 ## Project Management
 {: #project-management .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-
 
 ### Prioiritization
 {: #prioritization-boards}
