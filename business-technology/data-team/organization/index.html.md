@@ -56,10 +56,10 @@ classDiagram
         Engineering_Analytics : + Business Partner Data Champion
         Engineering_Analytics : + Function Analyst
         Engineering_Analytics : + Analytics Engineer
-    Enterprise_Data_COE <|-- Platform
-        Enterprise_Data_COE : + Business Partner Data Champion
-        Enterprise_Data_COE : + Function Analyst
-        Enterprise_Data_COE : + Analytics Engineer
+    Enterprise_Data <|-- Platform
+        Enterprise_Data : + Business Partner Data Champion
+        Enterprise_Data : + Function Analyst
+        Enterprise_Data : + Analytics Engineer
     Platform : +Data Engineer
   ```
 
@@ -79,7 +79,7 @@ classDiagram
 |                                 | **Business Insights**        | `@statimatla`     |                   |   |  `@vagrawalg` `@zzhang7`    |                   |                |
 | **Engineering Analytics Data Fusion** | **Engineering Analytics** | `@meks` | `@iweeks`  | `@pempey` | `@lmai1` | `@pempey` |  `@jjstark`   |
 | **General and Administrative Data Fusion** | **People Analytics** | `@aperez349` | `@iweeks`  | `@pempey` | `@aperez349` | `@pempey` |  `@Rigerta`   |
-| **Enterprise Data Center of Excellence** | **All Data Fusion Teams** | `All Data Fusion Leads and Champions ` | `@iweeks`  |  `@snalamaru` | `All Function Analysts` |  `@snalamaru` `@tpoole1` | `TBD`   |
+| **Enterprise Data Fusion** | **All Data Fusion Teams** | `All Data Fusion Leads and Champions ` | `@iweeks`  |  `@snalamaru` | `All Function Analysts` |  `@snalamaru` `@tpoole1` | `TBD`   |
 
 The Data Fusion Team has several leadership roles on the team. These leaders live the GitLab `Collaboration` value and achieve great `Results` while doing so. The Manager, Data, Data Champion, and Lead Analytics Engineer provide leadership, mentoring, and guidance to the Data Fusion Team.
 
