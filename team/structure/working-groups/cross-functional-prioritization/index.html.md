@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Cross-Functional Prioritization"
+title: "Next Prioritization"
 description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
 canonical_path: "/company/team/structure/working-groups/maint-first/"
 ---
@@ -17,12 +17,12 @@ canonical_path: "/company/team/structure/working-groups/maint-first/"
 |-----------------|------------|
 | Date Created    | 2022-04-13 |
 | Target End Date | 2022-06-30 |
-| Slack           | [#wg_cross-functional-prioritization](https://gitlab.slack.com/archives/C03AWM7780G) |
+| Slack           | [#wg_next-prioritization](https://gitlab.slack.com/archives/C03AWM7780G) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1wog8bR7jg6SECefx9BGqIa07sFm_sXJPvelVAganYmc/edit#heading=h.pmtw3ocv2aty)  |
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4199535?label_name[]=wg_maint-first) |
 | Epic            | [Link](https://gitlab.com/groups/gitlab-com/-/epics/1799) |
 
-## Business Goals
+## Business Goals of the cross-functional prioritization process
 
 The engineering allocation process often addresses maintenance work retroactively rather than proactively.  This leads to unpredictability and puts us at a higher risk of customer-facing incidents.
 
