@@ -48,6 +48,20 @@ If the user account is a free account or personal subscription add the `account-
 
 An issue in our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project *will be created* for invalid requests, however all invalid requests will have `Invalid request received` in the title of the issue, and are scheduled to automatically close. No action is required for these issues.
 
+If the user submitted multipe deletion requests, apply the `/duplicate` marker to the extra one(s) and respond with the following before closing closing the issue:
+
+<details>
+  <summary markdown="span">Request Closed - Duplicate </summary>
+
+  <p>Greetings,</p>
+
+  <p>It looks like you have submitted multiple requests for the same purpose. </p>
+
+  <p>I'm closing this issue in favour of #123, and we will continue processing your request on the other issue.
+
+  <p>Regards,</p>
+</details>
+
 ## Example Requests
 
 Examples of personal requests that you may receive (based on the request type) are below.
