@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM Segment: Named*"
+title: "TAM Segment: Mid-Touch"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -12,16 +12,16 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ---
 
-⚠️ * This information is under active development and iteration, including but not limited to the name of the team, `Named`. This page will be updated on an ongoing basis as the team continues to grow and scale.
+⚠️ * This information is under active development and iteration. This page will be updated on an ongoing basis as the team continues to grow and scale.
 {: .alert .alert-warning}
 
 ## Overview
 
-Definition: Named* (temporary designation) TAM on the account, product usage data-based success goals per account, programmatic enablement.
+Definition: TAM on the account, product usage data-based success goals per account, programmatic enablement.
 
 ## Engagement Model
 
-![Named Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_TAM.png)
+![Mid-Touch Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_TAM.png)
 
 
 
@@ -74,7 +74,7 @@ Expansion is primarily driven by the SAL or AE in this segment, though a key dri
 
 ## Rhythm of Business
 
-While the motions in the [rhythm of business](https://about.gitlab.com/handbook/customer-success/tam/rhythm/) will remain the same as the Strategic segment, the [Named](/handbook/customer-success/tam/segment/named/) TAM team will have a slightly different approach to their workflow and books of business.
+While the motions in the [rhythm of business](https://about.gitlab.com/handbook/customer-success/tam/rhythm/) will remain the same as the Strategic segment, the Mid-Touch TAM team will have a slightly different approach to their workflow and books of business.
 
 A breakdown of what their expected tasks and hours spent for each can be found below, including a breakdown of those hours at a weekly, monthly, quarterly, and yearly perspective.
 

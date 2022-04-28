@@ -27,5 +27,5 @@ Segment criteria are [defined in the Technical Account Manager wiki](https://git
 
 [<button class="btn btn-primary" type="button">Digital Touch</button>](digital/)
 [<button class="btn btn-primary" type="button">Scale</button>](scale/)
-[<button class="btn btn-primary" type="button">Named</button>](named/)
+[<button class="btn btn-primary" type="button">Mid-Touch</button>](mid-touch/)
 [<button class="btn btn-primary" type="button">Strategic</button>](strategic/)
