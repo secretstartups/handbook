@@ -14,7 +14,7 @@ title: JiHu Security Review Process
 In order to make sure that a release with JiHu contributions can be certified, members of the AppSec team
 need to perform a security review of any JiHu contribution and explicitly approve them.  The JiHu team will be contributing code to
 [a number of repositories](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/jihu-support/#projects).
-These contributions should be labeled with the `JiHu contribution` label.
+These contributions will be [auto labeled](./jihu-contribution-review-process.html#jihu-contribution-identification) with the `JiHu contribution` label.
 
 ### Who can perform a security review of a JiHu contribution
 
@@ -35,7 +35,6 @@ the AppSec engineer on [Triage (mentions and issues) Rotation](./triage-rotation
 When performing the security review of a JiHu contribution, the reviewer needs to:
 
 1. [Add themselves as a reviewer](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html#reviewer)
-1. Double check that the merge request is properly labeled as a `JiHu contribution` and apply it if it is missing
 1. Perform a security review of the merge request
     * Make any comments or ask any clarifications necessary to complete the review
     * Look to make sure that the code does not introduce any new vulnerabilities

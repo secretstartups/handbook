@@ -9,13 +9,11 @@ title: JiHu Contribution Review Process
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## What qualifies as a JiHu contribution
+## JiHu contribution identification
 
-- Any contributions from [JiHu team members](https://gitlab.com/groups/gitlab-jh/jh-team/-/group_members?with_inherited_permissions=exclude)
-
-There is automation to apply `JiHu contribution` label to those qualified
-merge requests as a [scheduled policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-jihu-contribution.yml)
-and a [reactive one](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/jihu_contribution.rb).
+Contributions from [JiHu team members](https://gitlab.com/groups/gitlab-jh/jh-team/-/group_members?with_inherited_permissions=exclude) are labeled with `JiHu contribution` label via:
+* [Event driven automation](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/jihu_contribution.rb)
+* [Scheduled automation](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-jihu-contribution.yml) as backup. 
 
 ## What approvals are required
 
