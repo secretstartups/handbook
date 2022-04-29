@@ -60,8 +60,8 @@ If the review request relates to a video not yet produced, review and approval i
 #### Two-track process
 
 This process is divided into two tracks - follow the track which applies to your situation:
-- To obtain legal review of a single piece of material, follow [Track 1: Single material legal review process](about.gitlab.com/handbook/legal/materials-legal-review-process/#track-1-single-material-legal-review-process).
-- To obtain legal review of multiple pieces of material, follow [Track 2: Multiple materials legal review process](about.gitlab.com/handbook/legal/materials-legal-review-process/#track-2-single-material-legal-review-process).
+- To obtain legal review of a single piece of material, follow [Track 1: Single material legal review process](./#track-1-single-material-legal-review-process).
+- To obtain legal review of multiple pieces of material, follow [Track 2: Multiple materials legal review process](./#track-2-multiple-materials-legal-review-process).
 
 ----
 ### Track 1 Single material legal review process
@@ -69,9 +69,6 @@ This process is divided into two tracks - follow the track which applies to your
 Follow this process to obtain legal review of a **single piece of material**. A slide deck, script, and video for one presentation are considered a single piece of material.
 
 1. If a **confidential** working issue for the material already exists, make a comment in that issue using the following template. The template is written in markdown - paste it into a new comment and fill in the blanks.
-
-<details>
-<summary>Single material legal review comment template</summary>
 
 ```
 ### Materials to be reviewed
@@ -91,9 +88,7 @@ Follow this process to obtain legal review of a **single piece of material**. A 
 <!-- State the due date for review, and indicate this as the due date of the issue below, noting that the Legal & Corporate Affairs Team requires at least two business days to complete a review. -->
 ```
 
-</details>
-
-2. If no working issue already exists, complete the [single material legal review issue template](gitlab/issue_templates/track-1-single-material-review-issue-template.md), following the instructions in the template.
+2. If no working issue already exists, complete the [single material legal review issue template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=single-material-legal-review), following the instructions in the template.
 
 3. Note that:
    * To obtain the review appropriate to your proposed use, you must tag the correct Legal & Corporate Affairs Team members in the issue description ([`@hloeffert`](gitlab.com/hloeffert) for internal materials, and [`@hloeffert`](gitlab.com/hloeffert) and [`@LeeFalc`](gitlab.com/LeeFalc) for external materials). IP review is not required for materials created for internal use, only SAFE review is required. Internal use and external use are [defined here](#external-vs-internal-use).
@@ -119,7 +114,7 @@ Follow this process to obtain legal review of a **single piece of material**. A 
 
 Follow this process to obtain legal review of **multiple pieces of material** with a related purpose, like several slide decks being prepared for one event.
 
-1. Complete the [multiple materials review issue template](gitlab/issue_templates/new-legal-review-for-multiple-materials-template.md), following the instructions in the template. Note that:
+1. Complete the [multiple materials review issue template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=multiple-materials-legal-review), following the instructions in the template. Note that:
    * IP review is not required for materials created for [internal use](#external-vs-internal-use), only SAFE review is required;
    * For a given related purpose (like an event), only one multiple materials review issue needs to be created;
    * For multiple materials legal review requests involving five or fewer pieces of material, legal aims to complete the review within 5 business days of submission; and
