@@ -103,7 +103,7 @@ assignee:me -custom_field_4414446722578:ticket_group_maple status<closed -form:"
 A quick breakdown of the parts of the query:
 
 * `assignee:me` = specifies you are looking for items assigned to yourself
-* `-custom_field_4414446722578:ticket_group_NAME` = specifices you are looking
+* `-custom_field_4414446722578:ticket_group_NAME` = specifies you are looking
   for items that do not have a SGG backend value of your group
 * `status<closed` = specifies you are looking for items that have a status lower
   than closed (new open pending on-hold solved)
