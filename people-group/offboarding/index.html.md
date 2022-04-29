@@ -104,7 +104,7 @@ The People Experience Associates complete a weekly audit of all offboarding issu
 
 Once all tasks have been completed, the People Experience Associate will close the offboarding issue and mark as completed in the offboarding tracker.
 
-All offboarding tasks by all Departments need to be completed within 5 days of the offboarding due date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Okta, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications](/handbook/business-ops/tech-stack-applications/) handbook page.
+All offboarding tasks by all Departments need to be completed within 5 days of the offboarding due date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications](/handbook/business-ops/tech-stack-applications/) handbook page.
     - **Important** When submitting the form please ensure to use PST format, even applicable to team members located in EMEA and APAC regions. See the below as a guide or alternatively [this conversion chart](https://24timezones.com/difference/amsterdam/pacific): For Example, If a team member is located in Japan their offboarding issue will be created at 04:00 PM their regional time (APAC, EMEA, AMER) or 12pm their regional time on Friday. on their last day of employment.
 1. **PBP**: The PBP will also inform the team member that they will receive an invitation in the next 48 hours (After Offboarding form has been submitted) from CultureAmp to complete an exit survey. 
 1. **PBP**: PBP will forward the resignation email to the People Experience team at `people-exp@gitlab.com`, the People Operations Specialist team email inbox `peopleops@gitlab.com`, as well as to the payroll lead. The PBP will indicate the last day, reason for resignation, and rehire eligibility in the email. 
@@ -272,8 +272,6 @@ This form is located in the Offboarding Channel shortcuts.
 1. **People Operations** (Experience & Specialists): If the offboarding is requested on the same day as the termination date, ensure the time of the offboarding creation on the spreadsheet is after the time submitted. You may need to adjust it to ensure the automation picks up the entry. For example: An offboarding form is submitted at 5:00 pm PST - the offboarding creation time should be no earlier than 5:00pm PST. 
 1. Terminate the team member in BambooHR 
 1. Fill in Exit Impact 
-1. Intiate the Okta import 
-   -Okta entitlements are driven based on BambooHR status. Therefore to remove the user in Okta, the best way to set off that workflow is to force an Import from BambooHR into Okta. To do this, log into the Okta dashboard and select Admin in the upper-right hand side of the page. Once on the Okta Admin dashboard, select Applications, search and select BambooHR Admin, go to the Import tab and click the Import Now button. This will force an import, and you should see a message that a user has been removed after processing completes. (This will not be the case if the team member is placed on Garden Leave).
 
 ## Critical Points During Offboarding Call
 {: #offboarding-points}

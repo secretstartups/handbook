@@ -64,7 +64,7 @@ Should the offboarding fall on a day when the People Experience Team is [unavail
 
 ### Creating the Offboarding Issue
 
-Offboarding issues are now created [automatically](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#scheduled-offboarding-issue-creation) using the data from the People Exp / Ops Tracker which is provided by the People Business Partner when submitting the form. **It is essential that the date and time inserted in the tracker is accurate as this will be the time in which the employment bot will open the offboarding issue**
+Offboarding issues are created [automatically](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#scheduled-offboarding-issue-creation) using the data from the People Exp / Ops Tracker which is provided by the People Business Partner when submitting the form. **It is essential that the date and time inserted in the tracker is accurate as this will be the time in which the employment bot will open the offboarding issue**
 
 The relevant People Experience Associate will be pinged in Slack once the offboarding issue is created, and automatically assign the People Experience Associate. The ping will include a link to the new offboarding issue.
 
@@ -132,7 +132,7 @@ The People Experience Associates in the relevant rotation will complete a weekly
 
 Once all tasks have been completed, the People Experience Associate will close the offboarding issue and mark as completed in the offboarding tracker.
 
-All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Okta, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](/handbook/business-ops/tech-stack-applications/).
+All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](/handbook/business-ops/tech-stack-applications/).
 
 To ensure a successful completion of the offboarding issue, it is important that all tasks are checked off, whether the system/tool is applicable to the offboarding team member or not. Checking the box indicates one of the following:
 
