@@ -57,8 +57,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 1. GitLab Singapore Pte. LTD. Team members receive their salary on the last business day of the month unless it falls on a holiday then it will be the business day before, team members will be able to access their payslip on Global Upsides [Egnyte Platform](https://globalupside.egnyte.com/navigate/folder/). New hires will receive an invite to their email.
 1. GitLab IT BV team members that are employed through GitLab's co-employer PE0:
    - Global Upside: India, Costa Rica, Denmark, Chile & Kenya will get their salary wired by the last day of the month. Philippines have 2 check dates: the 15th and last day of the month, respectively. Latvia will be paid on the 25th of each month (unless it falls on a holiday).
-   Global Upside will send payslips electronically through their HR portal. New hires will receive an invite to their email.
-   - Safeguard: Switzerland are paid monthly and on the 25th of each month, Italy and Spain the 26th of each month. Payslips are provided electronically by Safeguard.
+   - Global Upside will send payslips electronically through their HR portal. New hires will receive an invite to their email.
    - Remote.com will get their salary wired on the 25th of the month. Remote.com will send payslips electronically through their HR portal.
 1. Contractors through CXC Global will get paid by the 25th of each month.
 1. All other contractors under GitLab IT BV will get paid by the 22nd of the month by iiPay and remittance advice will send to their gitlab email address.
@@ -314,13 +313,6 @@ Team members from the above countries will get paid through CXC Global on or aro
 
 ## PEO - Employee:
 
-#### SafeGuard
-
-- Brazil
-- Switzerland
-
-The internal deadline for changes is the 8th of each month, Payroll will send by the 10th of each month.  Payroll will submit commission, bonus, salary adjust, expense reimbursement to SafeGuard via a password encrypted template.  SafeGuard will issue an invoice for each country no later than the 16th of each month.  Payroll Specialist will review and submit the invoice for payment with AP.
-
 #### Global Upside
 
 - India
@@ -343,6 +335,8 @@ Payroll changes will be sent by the 10th of the month.  Global Upside will send 
 - Spain
 - Italy
 - Switzerland
+- Brazil
+- Sweden
 
 Payroll changes will be sent to Remote every 10th of the month. Payroll changes includes changes on member's information, bonus, commission, expense etc. Remote will provide the  payroll report along with the invoices. Once reviewed and approved, Payroll will forward the invoices to the Accounts Payable team. Paydate is the 25th of each month (unless any unforeseen banking issue then please allow 1 or 2 days before the last day of the month).
 
@@ -365,8 +359,7 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab Singapore PTE. LTD. [Payroll Calendar](https://docs.google.com/spreadsheets/d/14KbKndyJlLozRmrsYaD2Fppb5oAK5q7LBHBFfO_Vw2w/edit#gid=1419993369)
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
     - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece, Czech Republic, Slovenia, Serbia) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1jMNufDqXDjfWM2khvg3xNQvipBsb8Eyy6I6JNaJl6mE/edit#gid=794676582)
-    -  SafeGuard ([Italy](https://docs.google.com/spreadsheets/d/1ahBB2aXRwo3V6woKQ-WRzuDFVCu2jkja3zS4zPwSG3I/edit#gid=2113229619), [Spain](https://docs.google.com/spreadsheets/d/1ahBB2aXRwo3V6woKQ-WRzuDFVCu2jkja3zS4zPwSG3I/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1ahBB2aXRwo3V6woKQ-WRzuDFVCu2jkja3zS4zPwSG3I/edit#gid=1979351390), [Brazil](https://docs.google.com/spreadsheets/d/1ahBB2aXRwo3V6woKQ-WRzuDFVCu2jkja3zS4zPwSG3I/edit#gid=1366369546)) Payroll Calendar
-    -  Remote.com (South Africa,Mexico,Austria, Hungary) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Wf7CX82i1JS0DzWbHUbuw-y_qs9x6-rR5BsZEV-k1a8/edit#gid=1631376385)
+    -  Remote.com (South Africa,Mexico,Austria, Hungary, Brazil, Sweden, Denmark, Italy & Spain) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Wf7CX82i1JS0DzWbHUbuw-y_qs9x6-rR5BsZEV-k1a8/edit#gid=1631376385)
     - Global Upside ([India](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=0), [Philippines](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=150092461), [Costa Rica](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=897287889), [Denmark](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1890543679), [Kenya](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=401149860), [Chile](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1322253138), [Latvia](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1213208098) ) Payroll Calendar
 
 ## Performance Indicators
