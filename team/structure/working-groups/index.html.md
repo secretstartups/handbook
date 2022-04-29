@@ -156,6 +156,7 @@ If you are interested in participating in an active working group, it is general
 * [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
 * [Product Career Development Framework](/company/team/structure/working-groups/product-career-development-framework/)
 * [Purchasing Reliability](/company/team/structure/working-groups/purchasing-reliability/)
+* [Rate Limit Architecture](/company/team/structure/working-groups/rate-limit-architecture/)
 * [SOX PMO](/company/team/structure/working-groups/sox/)
 * [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
 * [Webpack (Frontend build tooling)](/company/team/structure/working-groups/webpack)
