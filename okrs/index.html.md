@@ -223,11 +223,28 @@ To add new key results in Ally.io, follow the steps below:
 1. Add the outcome for the key results, outcome can either be measures in % or numeric. 
 1. Click create and the key results will appear under the corresponding objective. 
 
-Watch this video for how to add objectives and key results and align them with CEO OKRs: 
+Watch this video for how to add objectives and key results and align them with CEO OKRs(at the 3:00 minute mark): 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/HAQ6cXNAOEM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+#### How to Align Team OKRs to the CEO OKRs
+Once team OKRs have been added to Ally.io, they can then be aligned to relevant CEO key results. Team OKRs should align to a CEO key result when it contributes to the progress of that key results. If you want to align a function level KR to a related CEO objective for visibility, but the function level objective does not related to a specific CEO KR, follow the additional steps to ensure the contributions don't count as progress toward an unrelated KR. 
+
+Follow the steps below to align team OKRs to the CEO OKRs: 
+1. Hover over the objective or key result you want to align, and click the three dots for more actions. 
+1. Select 'Edit Alignment". 
+1. In the search bar, search for the CEO key result for alignment.
+Note: All of the CEO OKRs start with the preface CEO.
+1. Hover over the key result you want to align to and click “Align” then “Done”.
+1. Your objective or key result is now aligned to the CEO key result. 
+
+Follow these next steps to manage contribution:
+1. Back on the CEO page, hover over the objective you need to manage the contribution for, and click the three dots for more actions. 
+1. Select 'Manage Contribution.'
+1. Hover over the contribution number for the key results that was added, and change it to 0%.
+1. Click 'Save' 
 
 #### Building Ally.io Dashboards
 Once OKRs are loaded into Ally, you can build dashboards and reports for different views of the OKRs and their progress. Below are examples of dashboards for a [whole company view](https://app.ally.io/teams/40502/objectives?tab=5&selected_dashboard_id=11941) and a [Manager or Functional Leader](https://app.ally.io/teams/40502/objectives?tab=5&selected_dashboard_id=12234). These examples can be cloned using the steps in this video: [How to clone and move a dashboard](https://youtu.be/Eb4nS7UKOkQ)
@@ -245,7 +262,7 @@ Example Dashboards:
 
 #### Tips and Tricks
 * [How to comment on an objective and key result](https://youtu.be/YajA4xOgdD0)
-* [How to add dependencies](https://youtu.be/6XzWlNMH440). Dependencies allow a team member to tag any OKR to other OKRs within Ally. This could be used when there is an OKR that requires a component of another OKR to be completed for success. 
+* [How to add dependencies](https://youtu.be/6XzWlNMH440). Dependencies allow a team member to tag any OKR to other OKRs within Ally. This could be used when there is an OKR that requires a component of another OKR to be completed for success.
 
 #### Ally.io Resources
 * Learn the essential features of Ally.io with [Ally.io Software Essentials](https://learn.ally.io/ally-software-essentials) (16 mins) 
