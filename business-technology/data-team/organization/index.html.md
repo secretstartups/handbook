@@ -141,7 +141,7 @@ We encourage our stakeholders to follow along with our issue boards to understan
 
 | Data Fusion Team Name | Data Champion Team Name | Priority 1-Ops Board | Priority 2-OKRs Board | Priority 3-Other Board | 
 | --------------------- | ----------------------- | -------------------- | --------------------- | ---------------------- | 
-| **Research and Development Data Fusion** |  **Product Analytis**    |  |                       |                        |
+| **Research and Development Data Fusion** |  **Product Analysis**  | [Product Analysis - P1:Ops](https://gitlab.com/gitlab-data/analytics/-/boards/3884681?label_name[]=Champion%3A%3AProduct%20Analysis&label_name[]=Priority%3A%3A1-Ops)  | [Product Analysis - P2:OKR](https://gitlab.com/gitlab-data/analytics/-/boards/3884681?label_name[]=Champion%3A%3AProduct%20Analysis&label_name[]=Priority%3A%3A2-OKRs) | [Product Analysis - P3:Other](https://gitlab.com/gitlab-data/analytics/-/boards/3884681?label_name[]=Champion%3A%3AProduct%20Analysis&label_name[]=Priority%3A%3A3-Other) |
 |                                          | **Customer Success**  |     |                       |                        |  
 | **Go to Market Data Fusion** | **Sales Strategy and Analytics** |      |                       |                        |
 |                              | **Marketing Strategy and Performance**  |           |           |                        |  
