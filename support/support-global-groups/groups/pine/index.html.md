@@ -4,8 +4,8 @@ title: Home Page for Support's Pine Group
 description: Home Page for Support's Pine Group
 ---
 
-<!-- Search for all occurences of NAME and replace them with the group's name.
-     Search for all occurences of URL HERE and replace them with the appropriate url -->
+<!-- Search for all occurrences of NAME and replace them with the group's name.
+     Search for all occurrences of URL HERE and replace them with the appropriate url -->
 
 # Welcome to the home page of the Pine group
 
