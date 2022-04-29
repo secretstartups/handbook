@@ -75,10 +75,12 @@ description: Support Global Groups FAQ
 
 #### 1. Within SGG, how can SEs find and take tickets related to their topic of study?
 
-   When a Support Engineer is working on a training module, they should feel
-   free to assign to themselves any unassigned tickets they find in any
-   group's view that will help them in meeting their training requirements.
-   They should at that time change the `SGG` field to have their group’s name.
+   When a Support Engineer is working on a training module, they might need
+   to look through other groups' views to find enough relevant tickets to meet
+   the training requirements. They should feel free to assign to themselves
+   any of those tickets that are at that time unassigned. When taking a ticket
+   in this way, the Support Engineer should also select their group's name
+   from the `SGG` field dropdown.
     
 #### 2. Are SEs allowed to bring their expertise where it is needed, even outside of their group?
 
@@ -170,6 +172,15 @@ description: Support Global Groups FAQ
    and propose improvement plans. If at any point such a working group
    determines that the root cause of the problem is the SGG system itself, we
    will discuss options for different ways of working.
+
+### 4. What are the actual success measures for SGG, and are they being compared with measures from before SGG?
+
+During the SGG Trials, we had measures and goals specific to the trial so that
+we could use those to help us determine the value of SGG. Now that SGG is
+deployed for all of GitLab Support, the **only** measures and goals are those of
+the Global Support Team. And we will make decisions to change direction based
+not on whether we're more or less successful than we were before SGG, but on
+whether we're successful in meeting our SLA and other goals.
 
 ## Organization and Leadership
 
@@ -334,26 +345,27 @@ with the rest of Support.
    [Prioritizing work](https://about.gitlab.com/handbook/support/support-global-groups/#prioritizing-work)
    topic on the SGG main handbook page.
    
-## Still Uncategorized
+## Urgent Situations
 
-### How are emergencies and escalations handled within SGG?
+### 1. How are emergencies handled within SGG?
 
-#### Emergencies
+We handle emergencies within SGG very much as we did previously. When an
+emergency ticket arrives the on-call engineer is paged. The ticket will not
+automatically get assigned to a group. The SE who takes assignment of the
+ticket should also assign the ticket to their group. Regardless of the group
+assignment, the SE should seek help from any and all people with the skills or
+knowledge needed to progress and solve the ticket.
 
-- We handle emergencies within SGG very much as we did previously. When an
-  emergency ticket arrives the on-call engineer is paged. The ticket will not
-  automatically get assigned to a group. The SE who takes assignment of the
-  ticket should also assign the ticket to their group. Regardless of the group
-  assignment, the SE should seek help from any and all people with the skills
-  or knowledge needed to progress and solve the ticket.
+### 2. How are escalations handled within SGG?
 
-#### Escalations
-
-- We handle escalations within SGG very much as we did previously. The
-  Manager-On-Call will in general reach out first to the assigned SE to
-  communicate the details of the escalation and to determine whether the SE is
-  available and able to give the ticket the needed attention. If they are not,
-  the manager is encouraged to seek help from the SE's group both because
-  they may already have knowledge of the ticket and because they are very
-  likely to respond to the request. Finally, as before, the manager may reach
-  out to the rest of Support if more help is needed.
+We handle escalations within SGG very much as we did previously. The
+Manager-On-Call will in general reach out first to the assigned SE to
+communicate the details of the escalation and to determine whether the SE is
+available and able to give the ticket the needed attention. If they are not,
+the manager is encouraged to seek help from the SE's group both because they
+might already have knowledge of the ticket and because they are very likely to
+respond to the request. As a last step, as before, the manager might reach out
+to the rest of Support if more help is needed. Finally, and perhaps most
+important of all, managers are expected to use their best judgment in taking
+the steps that they feel are most relevant to resolving the escalation quickly
+and efficiently.

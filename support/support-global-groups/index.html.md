@@ -61,7 +61,7 @@ participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
   - there is a separate distribution for SaaS and SM tickets - if there are 5
     groups then each group will get 1/5 of the SaaS tickets and 1/5 of the SM
     tickets
-- Each group works out of a single Zendesk view, named `SGG: [group name]`
+- Each group works primarily out of a single Zendesk view, named `SGG: [group name]`
   - the view shows only the tickets that were distributed to the group
   - the view shows all non-solved, non-pending tickets for the group
   - the view is grouped by ticket stage to support prioritization of FRTs
@@ -76,8 +76,8 @@ participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
 
 ##### Bulk editing SGG values in Zendesk
 
-On occasion, you might need to locate tickets that are assigned to you within
-forms using SGG that are not in your group. To do this, the best way is to
+On occasion, you might need to locate tickets that are assigned to you and not
+to your group. To do this, the best way is to
 [search in Zendesk](https://about.gitlab.com/handbook/support/support-ops/training/searching-in-zendesk.html)
 and then bulk edit the tickets.
 
@@ -92,10 +92,10 @@ The quick links to the queries you would want to use are:
 The raw query string you would use for this is:
 
 ```
-assignee:me -custom_field_4414446722578:NAME status<closed -form:"Support Ops" -form:"GitLab Incidents" -form:"L&R" -form:"Emergencies"
+assignee:me -custom_field_4414446722578:GROUP_TAG status<closed -form:"Support Ops" -form:"GitLab Incidents" -form:"L&R" -form:"Emergencies"
 ```
 
-Replacing `NAME` with your group's tag (see [below](#zendesk-group-tags)).
+Replacing `GROUP_TAG` with your group's tag (see [below](#zendesk-group-tags)).
 
 So the search query for those in the Maple group would be:
 
@@ -105,11 +105,11 @@ assignee:me -custom_field_4414446722578:ticket_group_maple status<closed -form:"
 
 A quick breakdown of the parts of the query:
 
-* `assignee:me` = specifies you are looking for items assigned to yourself
+* `assignee:me` = specifies you are looking for items assigned to you
 * `-custom_field_4414446722578:ticket_group_NAME` = specifies you are looking
-  for items that do not have a SGG backend value of your group
+  for items not assigned to your group
 * `status<closed` = specifies you are looking for items that have a status lower
-  than closed (new open pending on-hold solved)
+  than closed (new, open, pending, on-hold, solved)
 * `-form:"Support Ops"` = specifies you are looking for items where the form is
   not Support Ops
 * `-form:"GitLab Incidents"` = specifies you are looking for items where the
@@ -124,15 +124,15 @@ hard to see, but it is to the left of the ID column). After doing so, click the
 blue `Edit x tickets` button on the right side of the page (`x` will be the
 number of tickets). On the popup modal that appears, locate the SGG ticket field
 on the left side (should be towards the top of the list). Click in the dropdown
-for it and select your group's name. After doing so, click black `Submit`
+for it and select your group's name. After doing so, click the black `Submit`
 button. This will then process a background job to update the tickets. You'll
-know that is done when a notification popup appears in the top-right of the
+know it is done when a notification popup appears in the top right part of the
 page.
 
-If there are any issues doing so, Zendesk will let you know the tickets that
-could not be bulk edited. You should try to edit these one at a time to see the
+If there are any issues with the bulk edit, Zendesk will let you know which
+tickets were not edited. You should try to edit these one at a time to see the
 actual problem updating the ticket. If you are unsure what to do to resolve
-that, please ask in the
+the problem, please ask in the
 [#support_operations](https://gitlab.slack.com/archives/C018ZGZAMPD) Slack
 channel for assistance.
 
@@ -171,8 +171,13 @@ group. <<<<<<<<**
 
 ---
 
-#### Success for a group means:
+#### "Success of their group" means:
 
+- Achieving our [target](https://about.gitlab.com/handbook/support/performance-indicators/#service-level-agreement-sla)
+  of delivering a meaningful first response on tickets assigned to the group
+  within SLA at least 95% of the time
+- Delivering timely and meaningful updates on all tickets assigned to the
+  group, resulting in high quality resolutions
 - Working together to fulfill the group's responsibility to manage and resolve
   well all tickets that are assigned to the group. This includes things like:
   - monitoring the view and distributing the tickets
@@ -180,11 +185,6 @@ group. <<<<<<<<**
   - reaching out to managers or other groups when help is needed to fulfill
     this responsibility
   - collectively taking responsibility for escalated tickets within the group
-- Achieving our [target](https://about.gitlab.com/handbook/support/performance-indicators/#service-level-agreement-sla)
-  of delivering a meaningful first response on tickets
-  assigned to the group within SLA at least 95% of the time
-- Delivering timely and meaningful updates on all tickets assigned to the
-  group, resulting in high quality resolutions
 - All group members participating on a daily basis in supporting the rest of
   the group by sharing knowledge, assisting on tickets, and contributing to
   group process development and improvement
