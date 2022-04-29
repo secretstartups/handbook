@@ -31,7 +31,7 @@ You can find the Command Plan button in the `Opportunity Detail` section of the 
 This section consists of 5 mandatory fields:
 1. **Why Now?** - _What is the compelling event? Why does the customer need to make the purchase now including both qualitative and quantitative implications?_
 1. **Primary Value Driver** - _What is the primary business problem that the customer is trying to solve (even if GitLab didn't exist) that is causing the economic buyer to allocate discretionary funds to solve?_
-1. **Solution** - _What is the primary GitLab solution (Automate Software Delivery, Continuous Software Security Assurance, Software Compliance, or DevOps Platform) that best aligns with the problem the customer wants to solve?"
+1. **Solution** - _What is the primary GitLab solution (Automate Software Delivery, Continuous Software Security Assurance, Software Compliance, or DevOps Platform) that best aligns with the problem the customer wants to solve?_
 1. **Primary Capability** - _What is the primary capability that the customer is pursuing to achieve the above value driver(s)?_
 1. **Why GitLab?** - _Why is the customer choosing GitLab over the competition? What are GitLab's key differentiators from the customer's perspective?_
 1. **Why Do Anything At All?** - _What are the negative consequences if the customer does nothing? What happens if the customer doesn’t do this deal on the forecasted timeline?_
