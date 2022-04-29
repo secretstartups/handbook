@@ -53,16 +53,12 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 
 | #  | Start Date | Completed Date | DRI        | Criteria |
 | -- | ------     | ------         | ------     | ------   |
-| 1  |  2022-04-22       | TBD            | @m_gill | [Collect input and suggestions from active maintainers and ensure there is strong representation of maintainers within this working group's membership.](https://gitlab.com/groups/gitlab-com/-/epics/1809) | 
-| 2  |  TBD       | TBD            | Unassigned | Capability to measure availability of maintainers and management processes to address needs of maintainers. |
-| 3  |  TBD       | TBD            | Unassigned | Audit of the repo set for is_part_of_product to determine gaps in coverage with plan to address them. |
-| 4  |  TBD       | TBD            | Unassigned | Increase in the current number of maintainers and roadmap of growth in maintainership. |
-| 5  |  TBD       | TBD            | Unassigned | Review of Maintainer duties/requirements with agreed changes implemented. |
-| 6  |  TBD       | TBD            | Unassigned | Review of current job roles and when maintainership becomes a job requirement with agreed changes implemented. |
-| 7  |  TBD       | TBD            | Unassigned | Review of trainee process and maintainer acceptance with agreed changes implemented. |
-| 8  |  TBD       | TBD            | Unassigned | Review of [trainee mentorship pilot](/handbook/engineering/workflow/code-review/#trainee-maintainer-mentorship-pilot-program) and agreed upon next steps implemented. |
-| 9  |  TBD       | TBD            | Unassigned | Organization wide communications plan and execution for this effort. |
-| 10 |  TBD       | TBD            | Unassigned | Other handbook cleanup |
+| 1  |  TBD       | TBD            | Unassigned | [Create an implementation plan to remedy gaps in Maintainership coverage](https://gitlab.com/groups/gitlab-com/-/epics/1817)| 
+| 2  |  TBD       | TBD            | @mwoolf | [Develop metrics to provide more transparency into the health of the Maintainership program](https://gitlab.com/groups/gitlab-com/-/epics/1816) |
+| 3  |  TBD       | TBD            | Unassigned | [Update expected behaviors and responsibilities for Engineers and Maintainers](https://gitlab.com/groups/gitlab-com/-/epics/1815) |
+| 4  |  TBD       | TBD            | @alexives | [Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) |
+| 5  |  TBD       | TBD            | Unassigned | [Develop and implement a communication plan for Maintainership changes](https://gitlab.com/groups/gitlab-com/-/epics/1813) |
+
 
 ### Roles and Responsibilities
 
