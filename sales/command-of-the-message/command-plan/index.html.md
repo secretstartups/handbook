@@ -20,7 +20,7 @@ The Command Plan consists of the below 3 sections. The Opportunity Overview sect
 1. [**MEDDPPICC**](/handbook/sales/command-of-the-message/command-plan/#meddppicc)
 1. [**Close Plan Details**](/handbook/sales/command-of-the-message/command-plan/#close-plan-details)
 
-At the enterprise account level, the Command Plan is owned by the [Strategic Account Leader](/job-families/sales/strategic-account-leader/), who creates the plan and updates the contents accordingly. It is used as a living pre-sales document, and its objectives are converted into [Gainsight Success Plan objectives](/handbook/customer-success/tam/success-plans/#objectives) at the time of [account onboarding](/handbook/customer-success/tam/onboarding/).
+At the enterprise account level, the Command Plan is owned by the [Strategic Account Leader](/job-families/sales/strategic-account-leader/) who creates the plan and updates the contents accordingly. It is used as a living pre-sales document, and its objectives are converted into [Gainsight Success Plan objectives](/handbook/customer-success/tam/success-plans/#objectives) at the time of [account onboarding](/handbook/customer-success/tam/onboarding/).
 
 You can find the Command Plan button in the `Opportunity Detail` section of the Salesforce opportunity object (see image below) or in Clari. Please note that Command Plans are capped at 5000 characters in Salesforce to encourage sales team members to be crisp and succinct. To do so, the Command Plan should focus on future-looking plans and remove details that are no longer relevant to the current close plan. For information you'd like to remove from the Command Plan but keep for historical purposes, please add that information as a new activity record on the opportunity.
 
@@ -31,7 +31,8 @@ You can find the Command Plan button in the `Opportunity Detail` section of the 
 This section consists of 5 mandatory fields:
 1. **Why Now?** - _What is the compelling event? Why does the customer need to make the purchase now including both qualitative and quantitative implications?_
 1. **Primary Value Driver** - _What is the primary business problem that the customer is trying to solve (even if GitLab didn't exist) that is causing the economic buyer to allocate discretionary funds to solve?_
-1. **Use Case(s)** - _What is the use case(s) that the customer is pursuing to achieve the above value driver(s)?_
+1. **Solution** - _What is the primary GitLab solution (Automate Software Delivery, Continuous Software Security Assurance, Software Compliance, or DevOps Platform) that best aligns with the problem the customer wants to solve?"
+1. **Primary Capability** - _What is the primary capability that the customer is pursuing to achieve the above value driver(s)?_
 1. **Why GitLab?** - _Why is the customer choosing GitLab over the competition? What are GitLab's key differentiators from the customer's perspective?_
 1. **Why Do Anything At All?** - _What are the negative consequences if the customer does nothing? What happens if the customer doesn’t do this deal on the forecasted timeline?_
 
