@@ -183,6 +183,7 @@ These include:
     1. To encourage an efficient meeting, we will cap the amount of time that we spend in voicing support for a candidate unless it is to address a question or concern raised. The conversation will end after 5 minutes. If an E-Group Member wants to document support for a candidate or highlight something positive about a candidate who has unanimous promotion support after the 5 minute mark, they can write a comment in the agenda and note that it is a "[won't verbalize]" item.
 1. [Content Discussion](/company/offsite/#content-choice){:data-ga-name="content discussion"}{:data-ga-location="body"} (30 minutes - 1 hour)
 1. Spend prioritization discussion (50 minutes)
+1. Review of Top Annual Cross-Functional Initiatives. [Top 12 Cross-Functional Initiatives in FY23](/company/team/structure/working-groups/#12-cross-functional-initiatives) (80 minutes)
 1. [2x per year] [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (1.5 hrs, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 1. [2x per year] [CEO Assessment from the Board](/handbook/ceo/chief-of-staff-team/#ceo-performance-evaluation) in Q1 and Q3 (25 minutes)
 1. [Annual] Strategic planning discussions (~1 day)
