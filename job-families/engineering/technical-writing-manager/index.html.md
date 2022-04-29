@@ -51,9 +51,9 @@ The Technical Writing Manager is a [grade 8](/handbook/total-rewards/compensatio
 
 * Screening call with a recruiter.
 * Interview with Technical Writer. The interviewer will spend time learning about understand your management style, your approach to writing work, your experience with docs-as-code workflows, and your technical abilities.
-* Interview with an Engineering or Product Manager. The interviewer will spend time learning about your management experience, the type of teams you have led, and your management style.  Be prepared to talk about your approach to writing work, your experience with docs-as-code workflows, and your technical abilities, too.
 * Interview with Technical Writing Manager. The peer interviewer will spend time learning about your managerial experience, your experience with docs-as-code workflows, how you define strategy, how you work with cross-functional partners, how you handle conflict, and how you have dealt with difficult situations in the past.
-* Interview with Senior Manager, Technical Writing. The interviewer will spend time learning about your management style, past experiences, and career goals. 
+* Interview with Senior Manager, Technical Writing. The interviewer will spend time learning about your management style, past experiences, and career goals.
+* Interview with a VP of UX. The interviewer will spend time learning about your leadership experience, management style, and why you want to join GitLab. 
 
 
 ## Senior Manager, Technical Writing
