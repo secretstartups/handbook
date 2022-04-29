@@ -46,6 +46,7 @@ The following are already developed, have been given to multiple customers and a
 * **GitOps with GitLab** _(for teams looking to use GitLab for Infrastructure as Code)_ - Goes over what is GitOps, how it is more than just Infrastructure as Code, what are the benefits, and how to get started with GitLab
 * **GitLab Administration** _(for GitLab Admins of self-managed instances)_ - Goes over GitLab components and architecture, installs, upgrades, admin area of the UI, common CLI commands, and back-ups
 * **Permissions & Access with GitLab** _(for GitLab Admins of self-managed instances)_ - Goes over permission access at the Group, Subgroup, Project, and Member levels, and discusses how to effectively tie access in with supported authentication protocols for on and offboarding
+* **Adminstration on GitLab SaaS**_(for GitLab Admins on GitLab.com)_ - Goes over permissions, access, visibility, licensing, SaaS vs. Self Hosted, audit events and streaming, support, user activity, the future of GitLab Workspace, and all things that help admin roles using SaaS do their jobs
 
 If you have additional sessions you want to contribute, please follow these instructions:
 - Save the template deck to the [Lunch and Learns Google Drive folder](https://drive.google.com/drive/folders/1NnDsqoc-KRdy7hF1jbo6H_59FwzpiKUc) (eventually these will move to Highspot as our single source of truth)
