@@ -5,36 +5,53 @@ title: "Authorization Matrix"
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-For instruction on how to get approval to purchase goods or services see our [Procure to Pay Process](/handbook/finance/procurement/).
-For instruction on how to get Sales contracts countersigned, please our [order processing - obtaining signatures process](/handbook/business-ops/order-processing/#obtain-signatures).
 
-For procedural guidlines, please see our [Authorization Policy](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix-policy). 
+# When is Approval Required to Approve or Sign an Agreement or Contract
+Any time GitLab is bound to terms and conditions, and/or, required to: 
+- Pay an individual (or vendor); 
+- Provide services / software;
+- Click-through terms and conditions to gain access to a tool or resource; or 
+- Carry out any specific activites (e.g., keep information confidential).
 
-## Signing Legal Documents
+Team Members must follow the applicable process to ensure all terms and obligations are reviewed and approved by specific stakeholders. 
 
-The table below designates team members that are authorized to sign legal documents, with the exception of NDAs covering a physical visit of another organization.
-When working with legal agreements with vendors, consultants, and so forth, bear in mind the [signature authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) and the [Authorization Policy](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix-policy).
-If you need to obtain approval for a vendor contract, please create a confidential issue in the finance issue tracker using our [Contract Approval Workflow](/handbook/finance/procurement/).
+General examples include:
+- The purchasing of any software and/or professional services to be used by a GiLab Team Member to carry out an activity at GitLab;
+- The sale of any GitLab software and/or professional services;
+- Employment, contracting or subcontract agreements; and/or
+- Contracts/Agreements which bind GitLab to obligations without the necessity of payment, for example: Evaluation/Trial Agreements and Non-Disclosure Agreements
 
-For all other documents that need to be signed, filled out, sent, or retrieved electronically, please do your best to fill out the form using the handbook and [wiki](https://gitlab.com/gitlab-com/finance/wikis/company-information) then e-mail it to `legal@` with the following information:
+ALL AGREEMENTS TO BE EXECUTED MUST INCLUDE THE GITLAB LEGAL STAMP INDICATING IT HAS BEEN REVIEWED AND APPROVED BY THE APPLICABLE LEGAL TEAM MEMBERS PRIOR TO SIGNING BY AN AUTHORIZED GITLAB TEAM MEMBER PER THE AUTHORIZATION MATRIX. ANY REQUEST FOR SIGNATURE WITHOUT A LEGAL STAMP WILL BE REJECTED.
 
-1. Names and email addresses of those who need to sign the document.
-1. Any contractual information that needs to be included in the document.
-1. Deadline (or preferred timeline) by which you need the document prepared (i.e. staged in [DocuSign](https://www.docusign.com) for relevant signatures)
-1. Include a link to the relevant issue in the body of the DocuSign email message.
-1. If the vendor insists on sending the document via electronic issue please provide them a link to include in the request.
-1. Names and email addresses of those who need to be cc-ed on the signed document.
 
-The process that Legal will follow is:
+# Processes to Request Agreements / Contracts for GitLab to Enter Into 
+## Procurement 
+Any time a Team Member is requesting (or potentially requesting) to purchase any software, services, or any other offering(s) from a third party, the procurement process must be followed. For full details on the procurement process please see the [Procurement Handbook](https://about.gitlab.com/handbook/finance/procurement/). 
 
-1. Review the document and prepare as requested.
-1. Have the requestor check the prepared document, AND obtain approval from the CFO or CEO (such approval may be explicit in the email thread that was sent to `legal@`, in which case a second approval is not needed unless there have been significant edits to the document).
-1. Requestor shall stage the document for signing in DocuSign and cc (at minimum) `legal@`.
-1. Once signed:
-   a. For customer contracts, the Requestor needs to attach the document to the applicable Contracts Object in Salesforce, and fill out all applicable fields in the Contracts Object.
-   b. For vendor agreements, Requestor will [file the document in ContractWorks](/handbook/legal/vendor-contract-filing-process/).
+As part of the procurement process, all purchases by GitLab will be reviewed by Finance, Security, IT & Legal. 
 
-## Authorization Matrix
+ANY PURCHASE THAT DOES NOT FOLLOW THE PROCUREMENT PROCESS WILL BE SUBJECT TO REJECTION AND GITLAB WILL NOT RENDER PAYMENT.
+
+## Revenue (Customer & Partner Requests) 
+With respect to any Customer or Partner Agreements, please follow the processes stated in the [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)
+
+## NDA Requests
+Follow the process located at the [NDA Handbook Page](https://about.gitlab.com/handbook/legal/NDA/)
+
+## All Other Requests
+If you have a request that doesn't align to those above, please feel free to contact _#legal_ in Slack for guidance on which process to follow.  
+
+ 
+# Signing Legal Documents
+
+The table below designates team members that are authorized to sign legal documents, **provided that the Agreement has been reviewed and approved by GitLab Legal as evidenced by the GitLab Legal Stamp.** All Team Members with signatory authority should review the [signature authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) to ensure they have the applicable signing authority for the document they are being requested to sign. 
+
+Those with signatory authority **should not sign any Agreement** unless there is a GitLab Legal Stamp.
+
+For general procedural guidelines, please see our [Authorization Policy](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix-policy).
+
+
+# Authorization Matrix
 
 _(All Functional Approvals require approval from previous tiers in hierarchy - Example: A CEO approval must also be approved by the exec team member prior to the CEO)_
 
@@ -517,7 +534,7 @@ This authorization matrix policy (“**_Policy_**”) is to provide procedural g
 
 ## Policy Scope 
 
-* All contracts and other agreements entered into on behalf of the Company.  Contracts and other documents including, without limitation, all agreements, non-disclosure agreements, licenses, leases, promissory notes, instruments, assignments, powers of attorney, terms and conditions, memoranda of understanding, letters of intent, settlements, releases, waivers, renewals, amendments, or modifications to existing contracts, claims, disputes, representations, and other similar documents and commitments. For additional information on signing legal documents please see the  [Signing Legal Documents ](https://about.gitlab.com/handbook/finance/authorization-matrix/#signing-legal-documents)section of the handbook. 
+* All contracts and other agreements entered into on behalf of the Company.  Contracts and other documents including, without limitation, all agreements, non-disclosure agreements, licenses, leases, promissory notes, instruments, assignments, powers of attorney, terms and conditions, memoranda of understanding, letters of intent, settlements, releases, waivers, renewals, amendments, or modifications to existing contracts, claims, disputes, representations, and other similar documents and commitments. For additional information on signing legal documents please see the  [Signing Legal Documents Information](https://about.gitlab.com/handbook/finance/authorization-matrix/#when-is-Approval-Required-to-Approve-or-Sign-an-Agreement-or-Contract)section of the handbook. 
 * All contracts must be in writing. Oral contracts are not authorized regardless of whether there is a monetary exchange.
 * The Policy applies to all team members who seek to approve or execute a contract or other transaction on behalf of the Company. 
 * All team members must follow the procedures and comply with the requirements of this Policy with respect to:
