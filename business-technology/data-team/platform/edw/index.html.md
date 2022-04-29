@@ -171,6 +171,8 @@ The Dimensional Model is meant to be simple to use and designed for the user. Di
 
 ## Schemas
 
+The `Common` schemas contain the Enterprise Dimensional Model. Each schema has a specific purpose in the Archtiecture as described below. 
+
 #### Common Prep
 
 The Common Prep Schema has 6 primary use cases at this time. The use cases are as follows:
@@ -191,6 +193,40 @@ In order to keep the `COMMON_PREP` schema streamlined and without unnecessary re
 1. Prefer to not filter records out of the Prep Model in the `COMMON_PREP` schema. This allows it to be the SSOT Prep model for the lineage where additional dimensional and reporting models can be built downstream from it either in a `DIM`, `FACT`, `MART`, `MAPPING`, `BDG` or `REPORT` table. Prefer to start filtering out data in the `COMMON` schema and subsequent downstream models. Filtering out data in the `COMMON_PREP` schema renders the Prep model not useful to build models in the `COMMON` schema that would require the data that was filtered out too early in the `COMMON_PREP` schema.
 
 1. Prefer to not make a model in the `COMMON_PREP` schema that is only for the sake of following the same pattern of having Prep models. For example, if a dimension table is built in the `COMMON` schema and is only built by doing a `SELECT *` from the table in the `COMMON_PREP` schema, then it may be the case that the Prep model is not needed and we can build that model directly in the `COMMON` schema. 
+
+#### Common
+
+The Common schema is where all of the facts and dimensions that compose the Enterprise Dimensional Model are stored. The Common schema contains a variety of different types of dimensions and facts that create multiple star schemas. The models in this schema are robust and provide the basis for analyzing GitLab's businesses processes. The `Common Mart` schema contains materializations of the star schemas stored in the `Common` schema that provide the Analyst and BI Developer with easy to use and query data marts. What follows is a summary of the different types of facts and dimensions that are available in the Common Schema.
+
+##### Conformed Dimensions
+
+Conformed Dimensions serve as the basis for a series of interlocking stars.
+
+1. A conformed dimension is a dimension that has the same meaning to every fact with which it relates to. Different subject areas share conformed dimensions. 
+1. Conformed dimensions allow facts and measures to be categorized and described in the same way across multiple fact tables and/or data marts, ensuring consistent analytical reporting and reusability. Allows each subject areas to be analyzed on its own and in conjuntion with related with related areas. This cross-area analysis will not work if the dimensions are slightly different in each subject area.
+1. A classic example of a conformed dimension is the [dim_date](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_date) model that is used across various fact tables/Subject areas such as ARR [fct_mrr](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_mrr) and Salesforce Opportunities [fct_crm_opportunity_daily_snapshot](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_crm_opportunity_daily_snapshot). Other examples of conformed dimensions include [dim_crm_account](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_crm_account) and [dim_subscription](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_subscription).
+1. Kimball refers to the set of conformed dimensions as the conformance bus.
+1. Resuse of Common Dimensions allows for reports that combine subject areas.
+
+##### Local Dimensions
+
+Local dimensions serve as the basis for analyzing one star.
+
+1. These dimensions have not been conformed across multiple subject areas and they cannot be shared by a series of interlocking stars in the same way that a conformed dimension could. 
+1. These local dimensions can be useful if we do not want to store the attributes on the single fact table as degenerate dimensions. In that case, we can promote those dimensional attributes to a stand-alone, local dimension table. 
+1. An example is [dim_instances](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_instances) that contains statistical data for instances from Service ping and is specifically used in Product Usage models like [mart_monthly_product_usage](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_monthly_product_usage).
+
+##### Core Facts
+
+Facts are the things being measured in a process. The terms `measurement` or `metric` are often used instead of fact. The Core Facts are modeled at the atomic grain. They do not filter out any data and include all the measures that have been generated from the process the Core Fact table is describing. Core Fact tables are identified by the absence of the `_derived` suffix at the end of the table name while the derived facts are identified by a `_derived` suffix at the end of the table name. This naming convention is new and not all Core Fact tables will have this naming convention at this time. Overtime, all of these Core Fact tables will be updated to align to the standard naming convention.
+
+##### Derived Facts
+
+Derived Facts are built on top of the Core Facts. The Derived Fact directly references the Core Fact thereby creating an auditable, traceable lineage. These Derived Fact tables are identified by a `_derived` suffix at the end of the table name. There are several use cases for building a Derived Fact table:
+
+1. Filter a large, Core Fact table into smaller pieces that provide for an enhanced querying and analysis experience for Data Analytics Professionals. For example, we may have a large event table and one Business Analytics team may only need to query 10% of that data on a regular basis. Creating a Derived Fact table that essentially describes a sub-process within the larger business process the event table is measuring provides for an optimized querying experience.
+1. Precompute and aggregate commonly used aggregations of data. This is particular useful with semi-additive and non-additive measurements. For example, semi-additive metrics such as ratios cannot be summed across different aggregation grains and it is necessary to recompute the ratio at each grain. In this case, creating a Derived Fact would help insure that all Analysts and BI Developers get the same answer for the ratio analysis. Another example is with measures that are semi-additive balances such as ARR, Retention, or a Balance Sheet account balance. In those cases, creating Derived Facts that precompute answers at the required grains would help insure that all Analysts and BI Developers get the same answer for the analyses.
+1. Create `Drill Across Facts` that connect two or more facts together through Conformed Dimensions and store as a Derived Fact table. In this process, separate select statments are issued to each fact in the project and includes the Conformed Dimensions the facts have in Common. The results are combined using a Full Outer Join on the Conformed Dimensions included in the select statement results.  
 
 #### Common Mart
 
