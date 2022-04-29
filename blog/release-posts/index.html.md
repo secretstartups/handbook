@@ -211,7 +211,8 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 
 - Completing all the tasks assigned to the Release Post manager in the Release Post MR template
      - Reminder: If you cannot perform any of the release post manager tasks between the 15th and the 22nd of the month as defined in the [monthly MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), it is recommended you sign up for another release post. In the case that schedule/circumstances changes after you'd already signed up for the release post, please consult with Product Operations on how to best manage the situation. 
-- Working with VP of Product Management to identify features to highlight in the introduction
+- Working with VP of Product to identify the top feature to highlight on the release post page
+- Creating the What's New MR and working with the VP of Product to identify what to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users)
 - Sending out reminders about upcoming due dates
 - Merging the release post MR on the 22nd and ensuring the release post page goes live
 - Collecting feedback in the release post retrospective issue during the release post not just for your own challenges, but other team members chanllenges as they pop on Slack and other places
@@ -220,11 +221,11 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 
 ### Other key tasks:
 
+- Running a weekly sync or async standup with the release post team (sync standup required for major releases)
 - Reviewing and supporting overall content quality and accuracy of all content published in the release post
 - Including the Release Post Manager Shadow as much as possible on activities so they learn prior to their rotation
 - Soliciting/collecting votes for the [MVP](#mvp), getting the write-up from the nominator of the winning candidate
 - Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
-- Working with the VP of Product Management to identify what to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users)
 - Monitoring the Slack Release Post channel to help answer questions and troubleshoot hurdles
 - Pinging the PMs and others as needed in Slack or MRs to help resolve feedback
 - Making sure the release post is **ready to merge two days before the 22nd**
