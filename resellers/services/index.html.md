@@ -326,7 +326,7 @@ Each Certification track offers unique benefits that help partners better prepar
    <td colspan="4" >
 
 
-   GitLab Open and Select partners have access to the proposal-based <a href="https://about.gitlab.com/handbook/resellers/#the-marketing-development-funds-mdf-program">GitLab Marketing Development Funds (MDF) Program</a>, which provides funding support for eligible marketing and partner enablement activities. Select partners who are also GitLab Certified Service Partners will have the highest visibility in the market. 
+   GitLab Select partners have access to the proposal-based <a href="https://about.gitlab.com/handbook/resellers/#the-marketing-development-funds-mdf-program">GitLab Marketing Development Funds (MDF) Program</a>, which provides funding support for eligible marketing and partner enablement activities. Select partners who are also GitLab Certified Service Partners will have the highest visibility in the market. 
    </td>
   </tr>
   <tr>
@@ -340,7 +340,7 @@ Each Certification track offers unique benefits that help partners better prepar
    </td>
   </tr>
   <tr>
-   <td colspan="3" >MDF is available to help partners promote service offerings.
+   <td colspan="3" >MDF is available to help partners promote service offerings. Available to Select Partners only.
    </td>
   </tr>
   <tr>
