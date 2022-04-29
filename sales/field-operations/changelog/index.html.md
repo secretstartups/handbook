@@ -14,6 +14,16 @@ The Field Operations Changelog keeps a running log of Field Ops changes related 
 
 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
 
+## Q2-FY23
+
+### 2022-05-02 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/111))
+
+
+**Sales Ops: [Quarterly Review - Account & Opp Ownership Updates](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2914)**
+
+**Deal Desk | Order Management: [Quarterly CSAT Survey](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#2-regional-support-satisfaction)**
+
+
 ## Q1-FY23
 
 ### 2022-04-18 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/109))
