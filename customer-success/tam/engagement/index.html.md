@@ -112,7 +112,7 @@ We have [role-play scenarios to practice identifying and gaining access to the d
 
 ## Customer Prioritization
 
-GitLab uses a customer prioritization model and [associated metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/) based on their customer segment (Strategic, Named, Scale) to focus the TAM's efforts where they will have maximum value and impact. 
+GitLab uses a customer prioritization model and [associated metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/) based on their customer segment (Strategic, Mid-Touch, Scale) to focus the TAM's efforts where they will have maximum value and impact. 
 
 On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1 or 2, with 1 being the highest. A new TAM-assigned customer coming on to GitLab will default to Pr1 until their onboarding enablement is complete. Pr3 is solely for unmanaged child accounts, and Pr4 is only for our digital customers and not for the TAM-assigned segment, with the exception of the Public Sector that is trialing a TAM-assigned digital customer. Priority definitions vary by TAM segment.
 
@@ -204,9 +204,9 @@ Examples of when an exception may be appropriate include:
 
 In order to make an exception, the TAM or SAL should discuss the details with the members of the [account team](/handbook/customer-success/account-team/#enterprise) and their respective managers. Exceptions will be addressed to the regional Sales Management team and documented in Gainsight.
 
-### Named Accounts
+### Mid-Touch Accounts
 
-The Named segment aims to have no more than 20% of a TAM's book of business to be Priority 1 at any given time.
+The Mid-Touch segment aims to have no more than 20% of a TAM's book of business to be Priority 1 at any given time.
 
 For a customer to be a Priority 1, they must meet at least one of the following parameters:
 - User growth and/or uptier within the next 6 months (must have a corresponding Salesforce opportunity)
