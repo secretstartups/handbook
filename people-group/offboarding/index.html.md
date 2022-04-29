@@ -121,6 +121,7 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
 - Regrettable Offboardings:
 
 The People Specialist will review the team members calendar and add an exit interview event to their calendar. The invite will include a message about how this interview is optional. A brief training on how to start and conduct exit interviews can be found [here](https://docs.google.com/presentation/d/1QCd6QLKcgCEzncJ2zdeDsnA6zlWFAmZre69Q1LKycJ0/edit?usp=sharing) (internal only)
+
       * An offboarding email will be sent [automatically](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#voluntary-offboarding-email) to the team member once the offboarding form has been submitted. 
       * The assigned People Specialist will then send out the Exit Survey via Culture Amp (using the Exit Survey template in Culture Amp) and communicate with the departing team member to mention that they would like to schedule a non-mandatory exit interview, to occur during the team member's notice period.
       * To send the Exit Survey, log into Culture Amp and click on `Surveys` from the top menu bar. Select `Exit Survey` and select the `start` exit button - this will allow the People Specialist to assign the survey to the departing team member.
@@ -130,6 +131,7 @@ The People Specialist will review the team members calendar and add an exit inte
       * Once the exit interview has been completed and all notes entered, the assigned People Specialist will ping the PBP in the `#pbp-peopleops` Slack channel to confirm that the notes have been added and that the Exit Interview has been completed. This ping will occur within 48 hours of the exit interview.
 
 - Non Regrettable Offboardings:
+
  * Unless otherwise directed to follow the Regrettable offboarding process, an offboarding email will be sent [automatically](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#voluntary-offboarding-email) to the team member once the offboarding form has been submitted. 
 
 1. **Experience**: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Offboarders will see issues being created automatically at the latest 4:00pm local regional time, at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.** 
