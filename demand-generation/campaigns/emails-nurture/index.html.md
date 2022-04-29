@@ -136,6 +136,18 @@ To be updated and documented upon revamp of nurture engine and database nurutrin
 - [Epic for overall nurture strategy - no lead left behind](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
 --->
 
+### Marketo Email Journey
+{: #email-journey}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+What happens to Marketo when a contact is a member of a program equal to True.
+Marketo within the engagement programs will try to send the number 1 email of the stream. If the contact does not comply with the requirements, Marketo will try to send the mail number 2 and so on until only 2 things happen: 1 – that the mail is sent or 2 – that no mail is sent from the stream and the contact becomes exhausted.
+In the image below there is an explicit way on how Marketo “plays” with the send controller of 2 different emails on the same day.
+![Marketo-Journey](/uploads/668ae822065318dc3ebc6c8910a70a77/Screen_Shot_2022-04-28_at_8.56.57_AM.png)
+The ONLY way for a contact to advance from one stream to another is when it generates enough interaction and its scoring increases enough to move it from RAW to INQ from INQ to MQL or from MQL to SAO.
+ 
+Also the only way for a contact who already has exhausted status to change status is to continue adding new content in the streams.
+ 
+Which would lead us to the next solution. Once the contacts fall into exhausted status they should be moved to a list of "Non-Responders" and then moved to a specific Nurture to increase interaction with the company.
 
 
 #### Trial nurture
