@@ -1135,3 +1135,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2022-03-14 | 2022-03-25 | [Miles Russell](https://gitlab.com/mdrussell) | Sr. Analytics Engineer |  |
 | 2022-03-21 | 2022-04-01 | [Adam Vesey](https://gitlab.com/avesey) | Sr. Legal Counsel |  |
 | 2022-04-11 | 2022-04-22 | [Nikki Silverberg](https://gitlab.com/nikkiroth) | Sr. Marketing Operations Manager | [Interview with Sid: Meeting Preparation and Efficiency](http://www.youtube.com/watch?v=nn1Mjh7j-1I) |
+| 2022-04-18 | 2022-04-29 | [David Egan](https://gitlab.com/degan) | Senior Data Analyst, Marketing	 | |
