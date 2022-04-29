@@ -27,6 +27,9 @@ that happiness comes greater energy, more and better innovation, greater
 efficiency, and better results for our customers and our company. We see SGG
 as a strong foundation for success as the Support Team continues to scale.
 
+For a little more of an introduction to SGG, please see this 9-minute
+[video](https://youtu.be/BvYiQkNJOno) created by four Support Engineers who
+participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
