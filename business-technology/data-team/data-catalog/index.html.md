@@ -81,6 +81,7 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 * [SaaS Service Ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/)
 * [SaaS Product Events](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
 * [CI Runner Activity](/handbook/business-technology/data-team/data-catalog/ci-runner-activity/) 
+* [Namespace Data](/handbook/business-technology/data-team/data-catalog/namespace/) 
 
 ## Analytics Projects
 
