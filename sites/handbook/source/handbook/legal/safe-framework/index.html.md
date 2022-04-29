@@ -21,7 +21,7 @@ Also, consistent with our [CREDIT](https://about.gitlab.com/handbook/values/) va
 
 By contributing, Team Members will help GitLab continue to keep our [CREDIT](https://about.gitlab.com/handbook/values/#credit) values front and center while making sure we continue to prioritize [Transparency](https://about.gitlab.com/handbook/values/#transparency). If you have any questions, please ask them in the[ #safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
 
-
+For all materials requiring legal review, refer to the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process).
 
 ### **WHAT IS SAFE?**
 
