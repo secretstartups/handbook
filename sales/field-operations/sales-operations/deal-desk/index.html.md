@@ -61,7 +61,9 @@ The Deal Desk team's mission is to streamline the opportunity management process
 
 #### Regional Support
 
-The Deal Desk team is located around the world and will be available during standard business hours within most regions. We operate under a Regional Support Model, meaning, each region (EMEA/APAC/AMER) will receive support from a dedicated regional team of Deal Desk Specialists and Analysts.
+The Deal Desk team is located around the world and will be available during standard business hours within most regions. We operate under a Regional Support Model, meaning, each region (EMEA/APAC/AMER) will receive support from a dedicated regional team of Deal Desk Specialists and Analysts. 
+
+For Alliances & Private Offer Creation, this process is supported by one team member globally, with managers trained as back ups for escalation points. For all Alliances deals, each region will be supported by a dedicated Deal Desk Analyst who specializes in Alliances, based out of AMER (Pacific Time). 
 
 During holidays, or when team members are on PTO, individuals located in a different regional may step in to support and ensure appropriate coverage. This is reserved for End of Month/End of Quarter, or other times when the team is short-staffed.
 
@@ -81,9 +83,11 @@ As of 2022-02-01, the Deal Desk team is structured as follows:
 
 **AMER Team:**
 - Manager, Deal Desk (AMER)
+  - Deal Desk Analyst, Alliances (Global)
   - Deal Desk Specialist (AMER)
   - Deal Desk Specialist (AMER)
-  - OPEN REQ: Deal Desk Specialist (AMER)
+  - Deal Desk Specialist (AMER)
+  
 
 **EMEA/APAC TEAM:**
 - Manager, Deal Desk (EMEA/APAC)
@@ -155,6 +159,8 @@ The SLAs below are applicable (especially for contract resets and ramp deals) if
 |----- | ----- | ------| 
 | Basic Quote Assistance | 6 Hours | 8 Hours | 
 | Ramp Deal | 6 Hours | 24 hours |
+| Alliances, General Support | 8 Hours | 48 Hours | 
+| Alliances, Private Offer Creation | 24 Hours | 48 Hours | 
 | Flat Renewal | 6 Hours | 24 Hours |
 | IACV/ARR Review | 6 Hours | 24 Hours |
 | Contract Reset / Co-Term | 6 Hours | 24 Hours | 
