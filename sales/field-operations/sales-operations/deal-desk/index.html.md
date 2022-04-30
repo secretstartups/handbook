@@ -526,8 +526,6 @@ There are 2 types of co-terming:
 2.  **Manual/Separate Subscriptions:** Customer needs a separate new subscription with the same end date as their existing subscription. In order to create a new co-termed subscription you will need to use the monthly sku and also set the start date of the new subscription quote in line with the existing subscription (currently there is no option to create new subscription for a calendar day based prorated period but month based only). For example if the existing subscription runs from 15 Feb 2022 to 15 Feb 2023 and they need another subscription with the same end date but as of April, you would create a new subscription quote with 15 Apr 2022 start date, set the the initial term to 10 months and select the monthly product instead of the standard annual one. When creating a new subscription for period < 12 months in order to co-term it with an existing, no approvals are need for a shorter subscription term as per the approval matrix.
 
 
-
-
 #### Quoting Guide: Starter/Bronze End of Availability + Tier Re-naming
 
 **As of 2021-01-26, the following changes have been made to the quoting process in relation to the end of availability of Starter/Bronze:**
@@ -657,6 +655,23 @@ On the main contract reset opportunity, populate the "Opportunity Category" fiel
 All Contract Reset opportunities will be classified as a "Renewal" and will be subect to ARR Basis, which will impact overall Net ARR depending on the scenario. 
 
 For more information on ARR calculation for Contract Resets, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-contract-resets).
+
+
+#### Concurrent Subscriptions 
+
+Concurrent Subscriptions are two unique subscriptions (instances) for Self Managed and SaaS issued for the purpose of supporting a large customer migration over an extended period. **This does not allow the customer to use Self Managed and SaaS on the same instance.** 
+
+Approvals for this deal strucutre will follow the [standard approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.f8920bj8v6l9).
+
+** Deal Structure Requirements** 
+- The Start Date and End Date must align on both subscriptions, if the Self Managed and SaaS instance are created / booked at the same time. 
+- If the customer is adding a migration mid term, the End Date of the added subscription must align with the existing subscription. (Ex. Self Managed 1 Year. The customer adds a SaaS instance mid way through the term to support migration efforts. The start date of the Self Managed Subscription is 01-01-2000 to 12-31-2000. The SaaS instance term dates should be 06-01-2000 to 12-31-2000.)
+- SKU type is subject to our standard bookign requirements - SKU term must match the Initial Term, unless the deal includes Annual Payments. 
+- Custom Legal Langauge is required on all order forms dictating the terms and purpose of the migration. 
+- The Sold To and Bill To Contact for Self Managed and SaaS can be the same person. The subscriptions can be attached to the same billing account. 
+- Each subscription (Self Managed / SaaS) will be booked on separate opportunities / separate quotes within SFDC. A consolidated order form will be provided to the customer for convieninece. 
+
+Deal Desk will work closely with Sales, Legal, and Revenue to ensure all booking requirements are met. Please work directly with Deal Desk to structure this deal accurately. Please tag sales support early in the deal negotiation. 
 
 #### Multi-Year Deals
 
