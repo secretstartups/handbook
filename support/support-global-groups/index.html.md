@@ -86,7 +86,7 @@ The quick links to the queries you would want to use are:
 * [Pine](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_pine%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
 * [Ginkgo](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_ginkgo%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
 * [Maple](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_maple%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
-* [Baobok](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_baobok%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
+* [Baobab](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_baobab%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
 * [Kapok](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_kapok%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
 
 The raw query string you would use for this is:
@@ -146,7 +146,7 @@ To see this process in action, we have created the following video for you:
 
 | Group Name | Tag to use            |
 |------------|-----------------------|
-| Baobok     | `ticket_group_baobok` |
+| Baobab     | `ticket_group_baobab` |
 | Ginkgo     | `ticket_group_ginkgo` |
 | Kapok      | `ticket_group_kapok`  |
 | Maple      | `ticket_group_maple`  |
