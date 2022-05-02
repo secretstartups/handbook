@@ -499,11 +499,13 @@ Before pinging the release post manager, ask yourself if your content absolutely
 
 - Ping the Release Post Manager (RPM) in `#release-post` to request adding a late addition for the release post, and wait for the RPM to give confirmation to proceed. The release post manager will do their best to accommodate the request, but it is not guaranteed.
 - If the RPM approves the late addition, then PM and RPM will proceed by:
-   - PM closes their original release post item MR, and PM or release post manager creates a new yaml file for the content block as a direct commit on the release post `release-X-Y` branch. PM notifies release post manager to review.
+   - PM edits the release post item MR and updates the target branch to be on the release post `release-X-Y` branch. 
+   - PM moves the RPI yml file and images from `/data/release_posts/unreleased` to `/data/release_posts/x_y/`.
+   - PM moves any images from `/source/images/unreleased` to `/source/images/x_y/`
+   - PM Ensure that the `image_url` field in the release post yml file points to the image file under `/source/images/x_y/`.
+   - PM [rebases](https://docs.gitlab.com/ee/topics/git/git_rebase.html#rebase-from-the-gitlab-ui) the release post item MR on top of `master`.
+   - PM notifies release post manager to review.
 - If the feature is primary and you had not previously added it to `features.yml`, you will need to create a second MR, branched from `master` to add the feature to `features.yml`. (`features.yml` should be merged to `master`, not the release post branch).
-- The release post yml file should be placed in `/data/release_posts/x_y/` on the `release X-Y` branch.
-- If the feature has an image it should be placed in `/source/images/x_y/` on the `release X-Y` branch.
-- Ensure that the `image_url` field in the release post yml file points to the image file under `/source/images/x_y/`.
 
 ### Process for removing merged content blocks
 
