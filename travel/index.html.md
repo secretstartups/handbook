@@ -249,9 +249,6 @@ The COVID-19 Travel Working Group is comprised of the Covid Response Committee t
 
 Meeting Schedule:
 
-1. 2022-02-17
-1. 2022-03-17
-1. 2022-04-21
 1. 2022-05-19
 1. 2022-06-16
 1. 2022-07-21
