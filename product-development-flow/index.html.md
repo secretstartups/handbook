@@ -12,7 +12,6 @@ title: Product Development Flow
 
 _To see a list of the latest updates to this page, visit [product development flow releases](/handbook/product-development-flow/releases)_
 
-
 ## Overview & philosophy
 
 GitLab's product mission is to consistently create products and experiences that users love and
@@ -368,13 +367,12 @@ After launch, the Product Manager and Product Designer should pay close attentio
 ## Editing this page
 
 All merge requests to this page require informing Product Operations prior to merging. To make updates such as grammatical
-fixes and typos, you can create an MR and tag in the [Product Operations DRI](https://about.gitlab.com/company/team/#fseifoddini)
-for reference, and then merge. There's no need to wait for feedback on these types of updates prior to merging.
+fixes and typos, you can create an MR and assign Product Operations DRIs `@fseifoddini` and `@brhea` as Reviewers for reference, and then merge. There's no need to wait for feedback on these types of updates prior to merging.
 
 For updates that affect the overall phases by modifying core definitions, workflow labels or other cross-functionally utilized processes,
-you can create an issue or MR, add the current milestone and label `product development flow`, and assign it to the [Product Operations DRI](https://about.gitlab.com/company/team/#fseifoddini) for review, collaboration and iteration.
+you can create an issue or MR, add the current milestone and labels `product development flow`, `product operations`, `prodops:release`and assign it to Product Operations DRIs`@fseifoddini` and `@brhea` as Reviewers for collaboration and approval.
 
-The Product Operations DRI will ensure the MR gets included in product develoment flow release updates as well as ensuring alignment happens with the following stakeholders if needed:
+The Product Operations DRIs will ensure the MR gets included in product develoment flow release updates as well as ensuring alignment happens with the following stakeholders if needed:
 
 1. [VP of Product](https://about.gitlab.com/company/team/#david)
 1. [VP of UX](https://about.gitlab.com/company/team/#clenneville)
