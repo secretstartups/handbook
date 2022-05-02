@@ -1466,7 +1466,7 @@ Yerbo is a mental well-being tool that helps teams track burnout and monitor ris
 
 1x per week, the app sends a message to users and asks them to complete a 2-minute self reflective survey. Answers are aggregated over time and display in a personal dashboard where team members can view their potential risk of burnout and take action to improve. Learn more about how the app works by watching [this video](https://yerbo.wistia.com/medias/pbuaibuxfz). Below is a screenshot of the in-app dashboard view.
 
-![yerbo dashboard view](/sites/handbook/source/handbook/communication/yerbo-dashboard.png)
+![yerbo dashboard view](handbook/communication/yerbo-dashboard.png)
 
 Read more about how GitLab combats [burnout, isolation, and anxiety in an all-remote workplace](/company/culture/all-remote/mental-health/).
 
