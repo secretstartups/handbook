@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/ecommerce/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | 2022-01-24 |
-| Target End Date | 2022-03-18 |
+| Target End Date | 2022-05-30 |
 | Slack           | [#wg-ecommerce-motion](https://gitlab.slack.com/archives/C03012Y7UHH) (only accessible from within the company) |
 | Google Doc      | [Ecommerce Motion Working Group Agenda](https://docs.google.com/document/d/1FoUek4p2ELwuQT4IY-nQof4ft2udG2Ks_jFQiIrn7is/edit#heading=h.hhbpi9bc829) (only accessible from within the company) |
 
@@ -45,6 +45,7 @@ _we've identified some prerequisites that must be complete before pursuing a rec
 
 1. Identification and prioritization of all prerequisites on appropriate team roadmaps (WG will not cover delivery/execution)
 1. Recommendation on how to deliver long-term objectives, including assessment on build vs buy.
+1. Propose and Open additional roles to execute on ecommerce integration work
 
 ## Timeline
 
@@ -101,13 +102,13 @@ Stakeholders with business requirements or domain expertise who will provide inp
 | Contributor | Jerome Z Ng | Sr Engineering Manager, Fulfillment |
 | Contributor | Omar Fernandez | Interim Director of Product, Fulfillment | 
 | Contributor | Jerome Ng | Sr Engineering Manager, Fulfillment |
+| Contributor | Mark Quitevis | Sr Business Systems Analyst |
 | Collaborator | Tatyana Golubeva | Principal PM, Purchase |
 | Collaborator | Emily Sybrant | Product Designer, Purchase |
 | Collaborator | James Lopez | Backend Engineering Manager, Fulfillment:License |
 | Collaborator | Tyler Amos | Staff Backend Engineer, Fulfillment:License |
 | Collaborator | Hila Qu | Director of Product, Growth |
 | Collaborator | Christopher Nelson | Sr Director, Enterprise Applications |
-| Collaborator | Mark Quitevis | Sr Business Systems Analyst |
 | Collaborator | Jessica Salcido | Finance Systems Administrator |
 | Collaborator | Daniel Parker | Senior Integrations Engineer, Business Technology |
 | Collaborator | Sarah McCauley | Finance |
