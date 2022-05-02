@@ -52,7 +52,7 @@ This Working Group has the following goals:
 | Member | Quang-Minh Nguyen | Senior Backend Engineer, Scalability |
 | Member | Liam McAndrew | Engineering Manager, Scalability |
 | Member | Markus Koller | Senior Backend Engineer, Integrations |
-| Member | | |
+| Member | Grant Hickman | Sr Product Manager, Integrations |
 
 ### Proposed Schedule
 
