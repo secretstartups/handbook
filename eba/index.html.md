@@ -17,19 +17,21 @@ This page details processes and general guidelines specific to the Executive Bus
 
 ### E-Group Member EBA's
 * Alexa Schrauth (Sr. EBA) supporting Michael McBride (CRO) on an interim basis
-* TBH supporting Craig Mestel (CMO) and Melissa Smolensky (VP of Corporate Marketing)
+* Jeanette McCarthy (Sr. EBA) supporting Ashley Kramer (CMSO) 
 * Cindy King (Sr. EBA) supporting Brian Robins (CFO) 
-* TBH (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) 
+* Stephanie Kusmirek (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) 
 * Kristie Thomas (Staff EBA) supporting Sid Sijbrandij (CEO) & Stella Treas (Chief of Staff)
-* Jennifer Garcia (EBA) supporting David DeSanto (VP of Product), Eric Johnson (CTO), and Johnathan Hunt (VP of Security)
+* Marisa Carlson (Sr. EBA) supporting Eric Johnson (CTO), and Johnathan Hunt (VP of Security)
 * Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO)
+* Jennifer Garcia (EBA) supporting David DeSanto (VP of Product)
 
 
 ### All-Directs EBA's 
 * Dana Pelton (Sr. EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and Nima Badiey (VP of Alliances)
 * Victoria Reinhardt (Sr. EBA) supporting David Sakamoto (VP of Customer Success), Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales)
-* Cindy King (Sr. EBA) supporting Dale Brown (Principal Accounting Officer), Bryan Wise (VP, Information Technology), Jim Gladen (VP, Tax) on an interim basis
 * Lauren Lopez (EBA) supporting Eliran Mesika (Sr. Director of Corporate Development), Emily Plotkin (Director - Legal, Employment), Lynsey Sayers (Sr. Director - Legal, Privacy & Product), Matt Taylor (Director - Legal, Commercial), Rashmi Chachra (Director - Legal & Corporate Affairs, Corporate) and Robert Nalen (Sr. Director, Contracts & Legal Operations)
+* Anita Mall (EBA) supporting Craig Mestel (VP Finance and Business Technology), Dale Brown (Principal Accounting Officer), Jim Gladen (VP, Tax) 
+
 
 
 ## Contact us
