@@ -55,8 +55,8 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Poll and decide on new workgroup name | 5/2 | Complete | Michael Oliver | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274) |
 | Company wide-announcement and schedule AMA sessions | 5/4 | In process | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13302) |
 | Update dashboards and associated handbook pages for all teams | TBD | In process | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) |
-| Complete bot automation work | TBD | In process |  Kyle Wiebers | [Issue 5](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) and [Issue 6](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
-| Handbook updates to describe new process and deprecate engineering allocation process | TBD | Not started | TBD | TBD |
+| Complete bot automation work | TBD | In process | Kyle Wiebers | [Issue 5](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) and [Issue 6](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
+| Handbook updates to describe new process and deprecate engineering allocation process | TBD | Not started | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
 | Setup monthly MR type reviews between engineering managers | TBD | Not Started | Mek Stittri | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
 | Refine stakeholder dashboard views, bug & maintenance backlog types | TBD | Not Started | Mek Stittri | TBD | 
 | Reduce undefined MR types to less than 5% | TBD | In process | Christopher Lefelhocz | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
