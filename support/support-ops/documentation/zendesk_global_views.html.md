@@ -54,38 +54,41 @@ For more information on managing Zendesk via the various GitLab projects, please
 | Name | Position | Visibile to |
 |-------|:--------:|-------------|
 | [My Assigned Tickets](https://gitlab.zendesk.com/agent/admin/views/360062369834) | 1 | Shared |
-| [Needs Org / FRT](https://gitlab.zendesk.com/agent/admin/views/360076150200) | 8 | Support AMER<br>Support EMEA<br>Support APAC |
-| [Handover Needed (AMER)](https://gitlab.zendesk.com/agent/admin/views/360076150240) | 16 | Support AMER |
-| [Handover Needed (APAC)](https://gitlab.zendesk.com/agent/admin/views/360076150260) | 17 | Support APAC |
-| [Handover Needed (EMEA)](https://gitlab.zendesk.com/agent/admin/views/360076150280) | 18 | Support EMEA |
-| [SaaS Account](https://gitlab.zendesk.com/agent/admin/views/360050768099) | 34 | Support AMER<br>Support APAC<br>Support EMEA<br>Support Focus: SaaS Account |
-| [Free user tickets](https://gitlab.zendesk.com/agent/admin/views/360038103100) | 35 | Support AMER<br>Support APAC<br>Support EMEA |
-| [Needs Collaboration](https://gitlab.zendesk.com/agent/admin/views/360080204660) | 36 | Support AMER<br>Support EMEA<br>Support APAC |
-| [L&R](https://gitlab.zendesk.com/agent/admin/views/360038103700) | 37 | Support Focus: L&R |
-| [Instance Management](https://gitlab.zendesk.com/agent/admin/views/360076285119) | 39 | Support Focus: Instance Management |
-| [Secure](https://gitlab.zendesk.com/agent/admin/views/360075979580) | 40 | Support Focus: Secure |
-| [Managing Group/Project](https://gitlab.zendesk.com/agent/admin/views/360076285179) | 41 | Support Focus: Managing Group / Project |
-| [GitLab Features](https://gitlab.zendesk.com/agent/admin/views/360075979680) | 42 | Support Focus: GitLab Features |
-| [Authentication/Authorization](https://gitlab.zendesk.com/agent/admin/views/360075979720) | 43 | Support Focus: Authentication and Authorization |
-| [CI/CD](https://gitlab.zendesk.com/agent/admin/views/360076285299) | 44 | Support Focus: CI/CD |
-| [GitLab Incidents](https://gitlab.zendesk.com/agent/admin/views/360073862640) | 45 | Support Focus: CMOC |
-| [Other](https://gitlab.zendesk.com/agent/admin/views/360075979760) | 46 | Support Focus: Other |
-| [Support Operations](https://gitlab.zendesk.com/agent/admin/views/360076456699) | 47 | Support Ops |
-| [All new with SLA](https://gitlab.zendesk.com/agent/admin/views/360075980400) | 48 | Support Managers |
-| [All open with SLA](https://gitlab.zendesk.com/agent/admin/views/360075980520) | 50 | Support Managers |
-| [Escalated/feedback tickets](https://gitlab.zendesk.com/agent/admin/views/360076456719) | 51 | Support Managers |
-| [Professional Services - Triage](https://gitlab.zendesk.com/agent/admin/views/360069758560) | 54 | Professional Services Group |
-| [Professional Services - Paid](https://gitlab.zendesk.com/agent/admin/views/360034420040) | 55 | Professional Services Group |
-| [Professional Services - Free](https://gitlab.zendesk.com/agent/admin/views/360069758360) | 56 | Professional Services Group |
-| [Billing](https://gitlab.zendesk.com/agent/admin/views/360076283979) | 57 | Billing |
-| [Accounts Receivables](https://gitlab.zendesk.com/agent/admin/views/360038103780) | 58 | Accounts Receivable |
-| [Partner Support](https://gitlab.zendesk.com/agent/admin/views/4561143846044) | 59 | Partner Support |
-| [New](https://gitlab.zendesk.com/agent/admin/views/360050766519) | 60 | General |
-| [Open](https://gitlab.zendesk.com/agent/admin/views/360050851560) | 61 | General |
-| [Pending](https://gitlab.zendesk.com/agent/admin/views/66715947) | 62 | General |
-| [On-Hold](https://gitlab.zendesk.com/agent/admin/views/86000057) | 63 | General |
-| [Solved](https://gitlab.zendesk.com/agent/admin/views/360050766879) | 64 | General |
-| [Closed](https://gitlab.zendesk.com/agent/admin/views/360051670340) | 65 | General |
+| [Needs Org](https://gitlab.zendesk.com/agent/admin/views/360076150200) | 2 | Support AMER<br>Support APAC<br>Support EMEA |
+| [Support Operations](https://gitlab.zendesk.com/agent/admin/views/360076456699) | 6 | Support Operations |
+| [SGG: Unsorted SaaS](https://gitlab.zendesk.com/agent/admin/views/4427372366994) | 7 | Support Operations |
+| [SGG: Unsorted SM](https://gitlab.zendesk.com/agent/admin/views/4427372846482) | 8 | Support Operations |
+| [SGG: Baobab](https://gitlab.zendesk.com/agent/admin/views/4758170657436) | 9 | Support AMER<br>Support APAC<br>Support EMEA |
+| [SGG: Ginkgo](https://gitlab.zendesk.com/agent/admin/views/4427381797394) | 10 | Support AMER<br>Support APAC<br>Support EMEA |
+| [SGG: Kapok](https://gitlab.zendesk.com/agent/admin/views/4758108678044) | 11 | Support AMER<br>Support APAC<br>Support EMEA |
+| [SGG: Maple](https://gitlab.zendesk.com/agent/admin/views/4427390627218) | 12 | Support AMER<br>Support APAC<br>Support EMEA |
+| [SGG: Pine](https://gitlab.zendesk.com/agent/admin/views/4427373603474) | 13 | Support AMER<br>Support APAC<br>Support EMEA |
+| [Needs Collaboration](https://gitlab.zendesk.com/agent/admin/views/360080204660) | 16 | Support AMER<br>Support APAC<br>Support EMEA |
+| [L&R](https://gitlab.zendesk.com/agent/admin/views/360038103700) | 17 | Support Focus: L&R |
+| [GitLab Incidents](https://gitlab.zendesk.com/agent/admin/views/360073862640) | 18 | Support Focus: CMOC |
+| [Instance Management](https://gitlab.zendesk.com/agent/admin/views/360076285119) | 19 | Support Focus: Instance Management |
+| [Secure](https://gitlab.zendesk.com/agent/admin/views/360075979580) | 20 | Support Focus: Secure |
+| [Managing Group/Project](https://gitlab.zendesk.com/agent/admin/views/360076285179) | 21 | Support Focus: Managing Group / Project |
+| [GitLab Features](https://gitlab.zendesk.com/agent/admin/views/360075979680) | 22 | Support Focus: GitLab Features |
+| [Authentication/Authorization](https://gitlab.zendesk.com/agent/admin/views/360075979720) | 23 | Support Focus: Authentication and Authorization |
+| [CI/CD](https://gitlab.zendesk.com/agent/admin/views/360076285299) | 24 | Support Focus: CI/CD |
+| [Other](https://gitlab.zendesk.com/agent/admin/views/360075979760) | 25 | Support Focus: Other |
+| [All new with SLA](https://gitlab.zendesk.com/agent/admin/views/360075980400) | 26 | Support Managers |
+| [All open with SLA](https://gitlab.zendesk.com/agent/admin/views/360075980520) | 27 | Support Managers |
+| [Escalated/feedback tickets](https://gitlab.zendesk.com/agent/admin/views/360076456719) | 28 | Support Managers |
+| [China Comms](https://gitlab.zendesk.com/agent/admin/views/360073361819) | 29 | China Comms Group |
+| [Professional Services - Triage](https://gitlab.zendesk.com/agent/admin/views/360069758560) | 30 | Professional Services Group |
+| [Professional Services - Paid](https://gitlab.zendesk.com/agent/admin/views/360034420040) | 31 | Professional Services Group |
+| [Professional Services - Free](https://gitlab.zendesk.com/agent/admin/views/360069758360) | 32 | Professional Services Group |
+| [Billing](https://gitlab.zendesk.com/agent/admin/views/360076283979) | 33 | Billing |
+| [Accounts Receivables](https://gitlab.zendesk.com/agent/admin/views/360038103780) | 34 | Accounts Receivables |
+| [Partner Support](https://gitlab.zendesk.com/agent/admin/views/4561143846044) | 35 | Partner Support |
+| [New](https://gitlab.zendesk.com/agent/admin/views/360050766519) | 36 | General |
+| [Open](https://gitlab.zendesk.com/agent/admin/views/360050851560) | 37 | General |
+| [Pending](https://gitlab.zendesk.com/agent/admin/views/66715947) | 38 | General |
+| [On-Hold](https://gitlab.zendesk.com/agent/admin/views/86000057) | 39 | General |
+| [Solved](https://gitlab.zendesk.com/agent/admin/views/360050766879) | 40 | General |
+| [Closed](https://gitlab.zendesk.com/agent/admin/views/360051670340) | 41 | General |
 
 ## Moving tickets between views
 
