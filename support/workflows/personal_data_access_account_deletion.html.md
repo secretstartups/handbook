@@ -57,7 +57,7 @@ If the user submitted multipe deletion requests, apply the `/duplicate` marker t
 
   <p>It looks like you have submitted multiple requests for the same purpose. </p>
 
-  <p>I'm closing this issue in favour of #123, and we will continue processing your request on the other issue.
+  <p>I'm closing this issue in favour of #123, and we will continue processing your request on the other issue.</p>
 
   <p>Regards,</p>
 </details>
