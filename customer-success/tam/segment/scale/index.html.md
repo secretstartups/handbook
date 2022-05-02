@@ -72,4 +72,8 @@ Expansion is primarily driven by the SAL or AE in this segment, though a key dri
 
 ### Scale TAM Role & Responsibilities 
 
-For an overview of our Scale team-specific responsibilities, please reference our Job Family: [Scale TAM Responsibilities & Requirements](https://about.gitlab.com/job-families/sales/technical-account-manager/#scale)
+A core responsiblity for Scale TAMs is engaging with the customer base in targeted one-to-one interactions. As a result, the following expectations for weekly customer engagements have been established for Scale TAMs. These metrics keep in mind the importance of focusing on interacting with customers live, while also allowing time to prepare for and follow up with customers after these interactions:  
+
+- 15 customer calls per week (3 per day)
+
+For an additional overview of our Scale team-specific responsibilities, please reference our Job Family: [Scale TAM Responsibilities & Requirements](https://about.gitlab.com/job-families/sales/technical-account-manager/#scale)
