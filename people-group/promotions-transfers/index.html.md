@@ -418,7 +418,7 @@ When the interim period comes to a close, one of two outcomes can occur:
 - The manager should submit a [job information change request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) in BambooHR to revert the team member's job title.
 - Not successfully completing the interim period _does not_ mean the team member can not move into a similar role in the future
 
-Irrespective of the outcome, when the interim period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/total-rewards/compensation/#submitting) for the team member.
+Irrespective of the outcome, when the interim period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/total-rewards/compensation/#submitting) for the team member. Please ensure that the full bonus calculation is laid out in a comment of the bonus submission. 
 
 ### Acting
 
