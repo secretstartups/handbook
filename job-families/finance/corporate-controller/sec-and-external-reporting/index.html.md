@@ -83,6 +83,14 @@ The Director, Record to Report is a [grade #10](/handbook/total-rewards/compensa
 - Such activities include: (i) planning the quarterly drafting and review cycle; (ii) leading quarterly meetings with senior management; (iii) developing an in-depth understanding and analysis of significant transactions to assess their impact for SEC disclosure purposes; and (iv) monitoring the activities of all accounting standard setting bodies to ensure timely identification of emerging accounting pronouncements to ensure compliance with all GAAP and disclosure requirements.
 - Partners closely with the Technical Accounting side of the team, occasionally participating in technical accounting analysis of significant or unusual transactions, or recently issued accounting updates.
 - Interacts regularly with external auditors, Legal and Investor Relations, with routine exposure to the CFO and Audit Committee.
+- Lead the monthly and quarterly close & reporting process, including owning the preparation of balance sheet reporting, monthly account reconciliation and supplemental data requests
+- Drive financial integrity while completing consistent and effective policies and procedures
+- Supervise month end financial close activities and year end reporting
+- Collaborate with FP&A, Stock-Admin, Treasury, Legal and Corporate Tax on strategic projects and process improvements. Involvement will require strong problem solving, communication, presentation skills and analytical skills
+- Lead efforts related to system changes and/or implementations impacting team
+- Ensure processing efficiencies utilizing innovative technical and processing solutions
+- Serve as liaison with internal and external audit regarding audit management and issue remediation
+- Develop and assist in automating accounting processes, analysis techniques and reporting functionality
 
 #### Director, Record to Report Requirements
 
