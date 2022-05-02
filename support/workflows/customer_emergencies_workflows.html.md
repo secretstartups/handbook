@@ -93,7 +93,7 @@ Taking an emergency call isn't significantly different from a normal call outsid
 - You (likely) won't have much forewarning about the subject of the call
 - The desired end state is a functioning system
 
-Try to find a colleague to join the call with you. A second person on the call can take notes, search for solutions, and raise additional help in Slack. They can also discuss and confirm ideas with you in Slack.
+Try to find a colleague to join the call with you. A second person on the call can take notes, search for solutions, raise additional help in Slack, and take on the role of co-host in the event of system or network-related issues. They can also discuss and confirm ideas with you in Slack.
 
 During the call, try to establish a rapport with the customer; empathize with their situation, and set a collaborative tone.
 
