@@ -33,6 +33,8 @@ If you have an announcement or update that you'd like to communicate to the fiel
 
 Once you have identified the tier of your update/announcement and necessary communication components, please open up an issue using [the request process below](/handbook/sales/field-communications/#requesting-field-announcements). 
 
+For all material requiring legal review, please refer to the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process)
+
 ## Tier 1 Update
 This update is both highly-urgent and selling-related. It likely includes a knowledge and/or skill gap that needs to be addressed in the field. 
 
