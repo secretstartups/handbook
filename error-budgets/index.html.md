@@ -197,6 +197,8 @@ Our current contract is 99.95% availability and a 20 minute monthly error budget
 | Manage:Import | 99.85% | To allow time for the group to make architectural design changes that better align with our sidekiq apdex goals, as detailed in [this Merge Request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/96050). | 30th April 2022 |
 | Global Search | 1 hour/month (99.80%) | The metrics and SLI needed are not in a complete state. The change to incomplete from complete was determined after [removing portions of the metrics that did not report errors](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1500).  The team is moving forward with work to add tracking in order to move back to a completed state. https://gitlab.com/groups/gitlab-org/search-team/-/epics/3 | The end of FY23 Q1 (2022-04-30) |
 
+**Exceptions**
+
 Temporary exceptions are granted as a means to allow different stakeholders to fulfill higher priority business needs, if it is estimated that the granted exception is not creating additional risk to GitLab.com reliability. Note that _exceptions_ are different from [Custom Targets](/handbook/engineering/error-budgets/custom-targets/index.html), which set properties on endpoints defining acceptable performance.
 
 Valid reasons for an exception are:
@@ -205,15 +207,31 @@ Valid reasons for an exception are:
 1. Work for improving the error budget is scoped out and fully planned, but the work is not currently funded. The stakeholders are in the process of securing the funding, and the Error Budget will be regularly spent until the additional funds are secured.
 1. Temporarily, the highest priority is to achieve a significant business goal, and the reliability of GitLab.com is not directly affected. The group is likely to regularly spend the Error Budget while they are focused on this other priority.
 
+**Instructions for Requesting an Exception**
+
 To request an exception, open an MR and add the stage group to the table above. In the description, supply the following details:
 
 1. Clear description of the problem that is the cause of the budget spend
 1. Relevant resources showing that the work is scoped out
 1. Target date when the exception must be revisited
 
-Include the summarised form of the above details in the table above.
+**Additional Guidance**
 
-Assign the MR for approval to:
+1. Document the work to be done using Epics and Issues
+1. Add detailed descriptions to the Epics and Issues to ensure the work is clearly scoped out.
+1. Add a start date and due date to the Epic so that it is transparent how long it will take to complete the work.
+1. Add milestones to the issues so it is transparent when the work will be planned.
+
+Provide answers to the following questions:
+
+1. What portion of your team's budget is due to this exception? If you were to remove the offending endpoints covered by this exception would your error budget become green?
+1. What is the main contributor to your team's error budget spend? Is that the response time?
+1. What does success look like at the closure of referenced epic?
+
+
+Follow the guidance and instructions above to expedite the approval process.
+
+**Assign the MR for approval to:**
 
 1. Director of Product or above (of the affected stage group)
     * They are responsible for ensuring that the business need is met, and will need to communicate the change up and down the chain of reporting.
