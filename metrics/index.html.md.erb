@@ -195,9 +195,33 @@ Large efforts will occasionally undergo a spike to identify & research technical
    - A spike to update dependencies, upgrade versions of underlying libraries should be classified as `~"maintenance::dependency"` and `~"type::maintenance"`
 1. If the spike will result in multiple types of work, choose the type that is of the majority of the resulting work (e.g. more than half). 
 
-### Legacy types
+### Additional guidance
 
-#### `~"backstage"` go-forward guidance
+#### `~"Community contribution"`
+
+`~"Community contribution"` was intended to track community contributions as a top-level type, but it's now only a facet label and a merge request should always get a proper type label set in addition.
+
+Community contributions are welcome in all areas of GitLab, so any type label can be set on `~"Community contribution"` merge requests.
+
+#### `~"security"`
+
+`~"security"` was intended to track security-related merge requests as a top-level type, but it's now only a facet label and a merge request should always get a proper type label set in addition.
+
+This guidance may be helpful if you are wondering the go-forward type label based on your use case for applying `~"security"`:
+
+- `~"type::feature"` for new security features that aren't fixing an existing vulnerability
+- `~"type::bug"` for any other security changes
+
+#### `~"documentation"`
+
+`~"documentation"` was intended to track documentation-only merge requests as a top-level type, but it's now only a facet label and a merge request should always get a proper type label set in addition.
+
+This guidance may be helpful if you are wondering the go-forward type label based on your use case for applying `~"documentation"`:
+
+- `~"type::feature"` for new feature documentation (this type would usually be already set on merge requests that introduce a new feature)
+- `~"type::maintenance"` for any other documentation changes
+
+#### `~"backstage"`
 
 `~"backstage"` was intended to be changes that were done to keep product development running smoothly. Over time, `~"backstage"` was also being used for pre-feature work and has become unclear and confusing. `~"backstage"` was deprecated as part of <https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/488>. This will be removed with <https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/483>.
 
@@ -209,32 +233,8 @@ This guidance may be helpful if you are wondering the go-forward type label base
 - `~"type::feature"`
   - and `~"feature::addition"` for all changes related to the release of a new feature
   - and `~"feature::enhancement"` for user-facing improvements that refine the initial MVC to make it more useful and usable.
-- `~"tooling::workflow"` for changes to engineering workflows such as `~"Danger bot"`, `~"static analysis"`, release tooling, Docs tooling changes
-- `~"tooling::pipelines"` for changes to project pipeline configurations
-
-#### `~"Community contribution"` go-forward guidance
-
-`~"Community contribution"` was intended to track community contributions as a top-level type, but it's now only a facet label and a merge request should always get a proper type label set in addition.
-
-Community contributions are welcome in all areas of GitLab, so any type label can be set on `~"Community contribution"` merge requests.
-
-#### `~"security"` go-forward guidance
-
-`~"security"` was intended to track security-related merge requests as a top-level type, but it's now only a facet label and a merge request should always get a proper type label set in addition.
-
-This guidance may be helpful if you are wondering the go-forward type label based on your use case for applying `~"security"`:
-
-- `~"type::feature"` for new security features that aren't fixing an existing vulnerability
-- `~"type::bug"` for any other security changes
-
-#### `~"documentation"` go-forward guidance
-
-`~"documentation"` was intended to track documentation-only merge requests as a top-level type, but it's now only a facet label and a merge request should always get a proper type label set in addition.
-
-This guidance may be helpful if you are wondering the go-forward type label based on your use case for applying `~"documentation"`:
-
-- `~"type::feature"` for new feature documentation (this type would usually be already set on merge requests that introduce a new feature)
-- `~"type::maintenance"` for any other documentation changes
+- `~"maintenance::workflow"` for changes to engineering workflows such as `~"Danger bot"`, `~"static analysis"`, release tooling, Docs tooling changes
+- `~"maintenance::pipelines"` for changes to project pipeline configurations
 
 ### Stage and Group labels
 
