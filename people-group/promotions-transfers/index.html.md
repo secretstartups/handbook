@@ -294,7 +294,7 @@ When reviewing compensation for a transfer in Greenhouse, the Total Rewards team
 2. **Promotional Transfer (different or same job family, higher grade)**: We recommend a 5-10% increase (aligned to the promotional expected increase) and/or the difference in the benchmark for the transfer to a higher grade. 
 3. **Other Transfer types**: There are other transfers that can be reviewed on a case by case basis. For example, if someone is transferring to a lower grade in a different or same job family, compensation may be adjusted down to ensure alignment to market rates for the role. Please tag the Total Rewards team in Greenhouse to conduct a review. 
 
-### Submit a Promotion request in BambooHR as a manager
+### Submit a Promotion / Job Change request in BambooHR as a manager
 
 - Login to BambooHR.
 - Select the team member you would like to adjust.
