@@ -55,6 +55,8 @@ The deploy to the Geo secondary node happens indirectly. One of the final steps 
 
 The staging environment does not have the data (repositories, LFS Objects, uploads, etc.) on the file system for every project in the database. To avoid a lot of false-positive errors and a waste of resources trying to resync failed registries over and over again, we decided to enable [selective sync](https://docs.gitlab.com/ee/administration/geo/replication/configuration.html#selective-synchronization) at the group level. We currently replicate the `gitlab-org` group.
 
+There may be some existing replication/verification problems on staging, we aim to track all of them in the [Geo Staging Maintenance epic](https://gitlab.com/groups/gitlab-org/-/epics/5094).
+
 #### Monitoring
 
 - [Grafana - Geo Primary insights](https://dashboards.gitlab.net/d/WO9bDCnmz/geo-primary-insights?orgId=1&refresh=10s&var-environment=gstg&var-prometheus=prometheus-01-inf-gstg&var-app_prometheus=prometheus-app-01-inf-gstg&var-interval=1h)
