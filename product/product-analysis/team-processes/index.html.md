@@ -15,6 +15,8 @@ title: Team Processes
 
 All issues must have the following:
 
+* `Team::Product Analysis` label
+  * This is the label used to identify and track the team's work
 * `product analysis` label
 * Workflow label (ex: `workflow::1 - triage`)
 * Priority label (ex: `pa-priority::2`)

@@ -41,9 +41,9 @@ You can see our current iteration [here](https://gitlab.com/groups/gitlab-data/-
 ### Issue Intake
 
 For all product analysis requests, please create an issue in the [GitLab Data Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues), 
-apply the `product analysis` label, and follow the guidelines below.
+apply the `Team::Product Analysis` and `product analysis` labels, and follow the guidelines below.
 
-All data issues with the `product analysis` label will appear on the [Product Analysis board](https://gitlab.com/groups/gitlab-data/-/boards/2959103).
+All data issues with the `Team::Product Analysis` label will appear on the [Product Analysis board](https://gitlab.com/groups/gitlab-data/-/boards/2959103).
 
 #### Issue Templates
 
