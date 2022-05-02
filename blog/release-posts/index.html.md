@@ -59,7 +59,7 @@ At a high level, the Release post schedule is:
 ### 1st to 10th
 
 - **PMs** contribute MRs for their content blocks:
-  - [Features (top, primary, secondary) and Upgrades](#instructions) are contributed as release post item MRs targeting the release post branch
+  - [Features and Upgrades](#instructions) are contributed as release post item MRs targeting the release post branch
   - Primary items are added to `features.yml`
   - Recurring content blocks for Omnibus, GitLab Runner, and Mattermost are added by the area owner
   - Uncategorized items can be included as [extras](#extras)
@@ -378,7 +378,7 @@ It is recommended for the Release Post Manager to review all content for quality
 
 ### Release post intro content
 
-The introduction content of the release post (found in `YYYY-MM-DD-gitlab-X-Y-released.html.md`)  is templated to be standard across all release posts, and should not be modified without approval from the Product Operations DRI. This file is linked at the top of the release post MR for reference and ease of editing. The release post manager will tag in the VP of Product Management to choose features to highlight in the introduction and to also designate a top feature.
+The introduction content of the release post (found in `YYYY-MM-DD-gitlab-X-Y-released.html.md`)  is templated to be standard across all release posts, and should not be modified without approval from the Product Operations DRI. This file is linked at the top of the release post MR for reference and ease of editing. The release post manager will work with the VP of Product to make sure all primary items are approved and a top feature is designated.
 
 ## PM Contributors
 
@@ -415,7 +415,7 @@ Note: The generator will not create an MR for a confidential issue. To add a rel
 - Use the [Release Post Item template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
 - Content should be one YAML file added to `data/release_posts/unreleased/` on the `master` branch
   - See `data/release_posts/unreleased/samples/` for format and sample content
-  - Note that the structure needs to be preserved, like `features:` then `top:`, then the feature content
+  - Note that the structure needs to be preserved, like `features:` then `primary:`, then the feature content
   - Images should be placed in `/source/images/unreleased/`
 - Update the `data/features.yml` (if applicable) to include your feature and commit the changes as part of the same merge request
 - Complete the PM checklist included in the [Release Post Item MR template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md), which includes but not limited to these tasks:
@@ -1007,18 +1007,10 @@ The most relevant features of the release are included in the post by [product m
 
 #### Top feature
 
-_**Note**: If you would like a feature to be considered for a `top` feature, create the release post MR with the feature as `primary` and reach out to the VP of Product Management and the Release Post Manager on Slack at #release-post to let them know you would like your feature to be considered. The VP of PM is the DRI for selecting the `top` feature and will make their choice from all `primary` features in the release._
 
 The top feature of the release is mentioned right after the MVP section, prior to other primary features. An image or video and documentation links are required. The [TW lead](#tw-lead) will pay close attention to the content of this item, as it is the "headline" feature for the release and it's especially important to get it right.
 
-To identify the [Top feature](#top-feature), look for `top` directly beneath `features` in the RP `.yml` file:
-
-```yaml
-features:
-  top:
-```
-
-If you wish to promote a primary feature to a top feature. Edit the features `.yml` file and change the word `primary` to `top`. In the MR where you have edited the file, ping the release post manager to let them know about this change.
+If you would like a feature to be considered for a `top` feature, reach out to the VP of Product and the Release Post Manager on Slack in #release-post by the 15th of the month. Let them know which feature you want considered by linking to the release post item MR. The release post manager will provide the VPP with a list of all `primary` features in the current release and make a recommendation for the `top` feature. The VPP will make their selection, or if no feedback is provided, the release post manager will choose the `top` feature.
 
 #### Primary features
 
@@ -1155,7 +1147,7 @@ _"Docs or it didn't happen!"_
 #### Illustration (images, videos)
 
 - `image_url`: link to the image which illustrates that feature.
-Required for primary features, optional for secondary features and top feature.
+Required for top and primary features, optional for secondary features.
 - `image_noshadow: true`: if an image (`image_url`) already has shadow
 the entry `image_noshadow` will remove the shadow applied with CSS by default. Optional.
 - `video`: when present, overrides the image and displays the linked video instead. See the [Videos](#videos)
