@@ -19,12 +19,216 @@ description: "Contributor Success Team"
 
 The goal of the team is to increase the technical improvements and efficiency of our contribution process to sustain our ambition of [1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
 
+### FY23 Direction
+
+In FY23 we will be focused on growing the number of unique new monthly
+contributors, reducing OCMA and increasing MRARR. This will increase development
+velocity without requiring additional engineering resources. Parallel to this
+we'll increase observability of community contributed value through improving
+the business intelligence around it. This will allow us to create some
+predictability through foreshadowing. These efforts are cross-functional and
+require working together with Marketing and Product Development.
+
+This accounts for 70 - 80% of the workload. The remaining 20 - 30% is ad-hoc
+work. The ad-hoc work is eclectic and ranges from supporting customers on
+contributions, supporting various open source initiatives and supporting the
+Engineering Productivity team.
+
+#### Unique New Monthly Contributors
+
+1. Minimize reliance on human interaction
+1. Reduce volatility through introducing automations that drive contributions
+   forward automatically
+1. Capitalize on untapped potential - MRs that are active but not merged at the
+   end of every single MR
+1. Invest into attracting more new contributors
+
+#### Community Contributed Value Observability
+
+1. Introduce measurement points in various places in the contribution pipeline
+1. Collect objective and subjective feedback from contributors about the process
+1. Create insight into actual community contribution pipeline size
+1. Standardize contribution MRARR valuation
+1. Categorize contribution and measure value per type
+
+#### Community Metrics Foreshadowing
+
+1. Predict community metric trends
+1. Empower teams to react to negative trends before they actualize
+1. Define ambitious targets for FY24
+
+#### OCMA
+
+1. Minimize reliance on human factors that contribute to a large standard deviation
+1. Support Engineering Productivity in driving OCMA down
+
+## Team Responsibilities
+
+* Carry out Engineering open source outreach efforts.
+* Improve GitLab's Contribution Efficiency and Merge Request Coaching process.
+* Engineering representative that can ride along with the evangelist and program manager.
+* Organize community contributors into [community teams](team-structure.html) and ensure their success.
+* Provide guidance to community contributors on technical and non-technical aspects.
+* Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
+* Improve community recognition system and awards in collaboration with Community Relations team.
+* Nominate impactful community contributors and contributions for recognition.
+* Contribute as an MR Coach in one or more MR Coach specialties.
+* Provide guidance and coaching to team members on technical contributions, product architecture, and other areas.
+* Be a point of escalation for community contributors and identify GitLab DRIs to resolve blockers
+* Participate in GitLab's overall open source outreach events and processes.
+* Collaborate closely with our Marketing counterparts and Core team.
+
+## OKRs
+
+Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current and previous quarter OKRs, it updates automatically as the quarter progresses.
+
+### Current quarter
+
+<iframe src="https://app.ally.io/public/TQRmKHpOC7NoZb7" class="dashboard-embed" height="1600" width="100%" style="border:none;"> </iframe>
+
+### Previous quarter
+
+<iframe src="https://app.ally.io/public/e0izWt13OqmGHuO" class="dashboard-embed" height="1600" width="100%" style="border:none;"> </iframe>
+
+## Performance Indicators
+
+We have the following Performance Indicators
+
+#### [Unique Wider Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
+
+- Target: increase to be greater than 200 per month by FY23Q4
+- Activities:
+  - Partnership with Community Relations and Technical Marketing team.
+  - Hold community office hours
+  - Hold hackathons
+  - Allow running of QA tests from forks
+  - Shorten the CI runtime for community contributions (in forks)
+
+#### [Open Community MR Age](/handbook/engineering/quality/performance-indicators/#open-community-mr-age)
+
+- Target: decrease to lower than 30 days by FY23Q4
+- Activities:
+  - Shorten CI time
+  - Improve Community Contribution automation
+  - Enable running QA tests on forks
+  - Increase number of coaches
+  - Partner with Engineering Productivity to provide feedback to improve contribution tooling (currently GDK).      
+
+#### [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)
+
+- Target: increase to 400M MR$ by FY23Q4
+- Activities:
+  - Reach out to top tier enterprise customers
+  - Help take-on inactive customer contribution to completion & merge
+  - Partner with TAMs to enlist and facilitate contribution from customers
+  - Launch contribution materials targeting large enterprises
+  - Partner with Community relations team (David P)
+  - Maintain a list of known contributors with a mapping to their accounts and the accounts ARR contribution as input to this KPI  
+
+#### [Community Coaches per Month](/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)
+
+- Target: increase to be greater than 50 per month by FY23Q3
+- Activities:
+  - Work with Development Department (Christopher L, VP of Development) for volunteers.
+  - Work with UX Department (Christie L, VP of UX) Christie for volunteers.
+  - Refresh MR coaches as “Community coaches” so non-code review work can be encouraged (design, etc)
+  - Launch training materials for coaches
+
+#### [Community Contribution MRs as Features per Month](/handbook/engineering/quality/performance-indicators/#community-contribution-mrs-added-as-features-per-month)
+
+- Target: increase to 30% by FY23Q2
+- Activities:
+  - Encourage features at Community relations hackathons.
+  - Published list of feature issues with Marketing team.
+
+##  How to reach us
+
+### Chat with us
+
+Contributor Succss team use these Slack channels:
+
+- [#g_contributor-success](https://gitlab.slack.com/archives/C02R0NE6P6C): Our team slack channel
+- [#wg_contribution-efficiency](https://gitlab.slack.com/archives/C0223D98HHC): For our standup with the Community Relations team
+- [#mrarr-wins](https://gitlab.slack.com/archives/C01NTMN6U0P): For announcing new MRARR merge wins
+- [#quality](https://gitlab.slack.com/archives/C3JJET4Q6): For discussions intra-department in Quality
+
+### File an issue
+
+File an issue to work with us: [in our task project](https://gitlab.com/gitlab-com/quality/contributor-success) 
+
+## Project Management
+
+This team has the following immediate work items planned.
+
+* [Contribution Efficiency Improvements Epic](https://gitlab.com/groups/gitlab-com/-/epics/1619)
+* [Increasing MRARR through internal partnerships](https://gitlab.com/groups/gitlab-com/-/epics/1225)
+
+## Working with community contributions
+
+### Wider community MR triage reports
+
+We have 2 triage process for the new merge requests from the wider community created under [gitlab-org](https://gitlab.com/groups/gitlab-org) 
+* [Newly created Community contribution merge requests triage](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage).
+* [In-active community merge requests requiring attention](/handbook/engineering/quality/triage-operations/#community-merge-requests-requiring-attention) 
+
+#### Contribution labels
+
+- `~"Community contribution"` label is automatically applied by the [GitLab Bot](https://gitlab.com/gitlab-bot) to MRs submitted by wider community members. 
+  * You can see the list of MRs in [gitLab-org list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name[]=Community+contribution) 
+  * [Learn more about the cadence and conditions for this automation](/handbook/engineering/quality/triage-operations/#community-contributions).
+- `1st contribution` is added to first-time contributions. Every time a contributor is opening a merge request to a GitLab namespace for the first time, the label "~1st contribution" is automatically applied to the merge request.
+  - You can see the list of MRs in [gitlab-org list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=1st+contribution) 
+  - [First-time contributors](/handbook/marketing/community-relations/code-contributor-program/#first-time-contributors) are also awarded a gift as our way to say thanks.
+
+### Merge Request Coaches
+
+[Merge Request Coaches](/job-families/expert/merge-request-coach/) are available to help contributors with their MRs. This includes: 
+- Identifying reviewers for the MR
+- Answering questions from contributors, 
+- Educating contributors on the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria), 
+- Or  completing the MR if the contributor is unresponsive or unable to complete.
+  - If committed by MR coach, `coach will finish` label will be added and creating a follow-up MR. 
+  - Contributors can mention the coaches in their MRs by typing `@gitlab-org/coaches`.
+
+Merge Request Coaches can be found in: 
+- [List of current Merge Request Coaches](resources/merge-request-coach-lifecycle.html#current-merge-request-coaches)
+- The [team page](/company/team/) by selecting `Merge Request Coach` in the department filter.
+
+There is also the `#mr-coaching` channel in GitLab Slack if GitLab team members have any questions related to community contributions.
+
+More information on Merge Request Coaches (including how to become a Merge Request Coach) can be found in the [MR coach lifecycle page](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html).
+
+### DCO and CLA Guidance
+
+All external contributions to GitLab are subject to the [GitLab DCO or CLA](/community/contribute/dco-cla/), depending on where the contribution is made and on whose behalf.
+
+Instructions for corporate contributors to enter into an overarching Corporate CLA covering all contributions made on their behalf are set out on the [DCO-CLA page](/community/contribute/dco-cla/#need-a-corporate-cla-covering-all-contributors-on-behalf-of-your-organization). 
+
+## Recognizing contributors 
+
+We work with the Community Relations team, to [recognize contributors](/handbook/marketing/community-relations/code-contributor-program/#recognition-for-contributors) 
+
+A nomination process is also avalilable to [nominate a contributor](handbook/marketing/community-relations/code-contributor-program/community-appreciation/)
+
+## Contributor Efficiency Working group
+
+There's a working group with members from Quality and Community Relations that
+aims to streamline and improve contributor efficiency. It implements key
+business iterations that results in substantial and sustained increases to
+community contributors & contributions.
+
+- Handbook page - <https://about.gitlab.com/company/team/structure/working-groups/contribution-efficiency/>
+- Agenda - <https://docs.google.com/document/d/1AOgqaslnq-WI1ICSZ1NzSnALf1Va4D5qAD191icAoSI/edit#>
+
+## Code Contributor User Journey
+
+The code contributor user journey is documented in the handbook - [User Journey](./user-journey.html)
+
 ## Strategy
 
 We will be executing in 4 key areas in support of the company's broader [dual-flywheels](/company/strategy/#dual-flywheels) strategy to attain more contributions. The 4 key areas together are the building blocks of our contributor & contribution 10x acceleration strategy. 
 
 ```mermaid
-
 flowchart LR
   subgraph moreContributions["More Contributions"]
     contributorIncrease["Contributor Increase"]
@@ -50,9 +254,7 @@ flowchart LR
   click increaseValue "./#increase-contribution-value" _self
   click expandOutreach "./#expand-outreach" _self
   click scaleCommunity "./#scale-the-community" _self
-
  ```
-
 
 ### Improve Contribution Velocity
 
@@ -128,7 +330,6 @@ Increase awareness with content and events to drive large amounts of contributor
 
 #### Community office hours
 
-
 * **Why:** We need to scale office hour calls that have traditionally been a unique opportunity for product groups to provide support, guidance to code contributors as well as gather feedback.
 * **Epic:** TBD
 * **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
@@ -160,164 +361,3 @@ Leverage the full-time customer contributor model and create wider community tea
 * **Why:** To surface contribution opportunities tailored to tech professions, implement frontend, backend, UX, Test and etc specialization in contribution types and MR coaches. This also allows a more aligned interaction between contributor and MR coaches of the same specialization.
 * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/10](https://gitlab.com/groups/gitlab-com/quality/-/epics/10)
 * **DRI:** Contributor Success team (Engineering)
-
-## Performance Indicator Goals
-
-We aim to increase the focus on our community contributions. Below is a timeline on how we will measure and track this goal.
-
-- **[Unique Wider Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)**
-    - Target: increase to be greater than 200 per month by FY23Q4
-    - Activities:
-        - Partnership with Community Relations and Technical Marketing team.
-        - Hold community office hours
-        - Hold hackathons
-        - Allow running of QA tests from forks
-        - Shorten the CI runtime for community contributions (in forks)
-- **[Open Community MR Age](/handbook/engineering/quality/performance-indicators/#open-community-mr-age)**
-    - Target: decrease to lower than 30 days by FY23Q4
-    - Activities:
-        - Shorten CI time
-        - Improve Community Contribution automation
-        - Enable running QA tests on forks
-        - Increase number of coaches
-        - Partner with Engineering Productivity to provide feedback to improve contribution tooling (currently GDK).        
-- **[MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)**
-    - Target: increase to 400M MR$ by FY23Q4
-    - Activities:
-        - Reach out to top tier enterprise customers
-        - Partner with TAMs to enlist and facilitate contribution from paid customers
-        - Launch contribution materials targeting large enterprises
-        - Partner with Community relations team (David P)
-        - Maintain a list of known contributors with a mapping to their accounts and the accounts ARR contribution as input to this KPI        
-- **[Community Coaches per Month](/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)**
-    - Target: increase to be greater than 50 per month by FY23Q3
-    - Activities:
-      - Work with Development Department (Christopher L, VP of Development) for volunteers.
-      - Work with UX Department (Christie L, VP of UX) Christie for volunteers.
-      - Refresh MR coaches as “Community coaches” so non-code review work can be encouraged (design, etc)
-      - Launch training materials for coaches
-- **[Community Contribution MRs as Features per Month](/handbook/engineering/quality/performance-indicators/#community-contribution-mrs-added-as-features-per-month)**
-    - Target: increase to 30% by FY23Q2
-    - Activities:
-        - Encourage features at Community relations hackathons.
-        - Published list of feature issues with Marketing team.
-
-### FY23 Direction
-
-In FY23 we will be focused on growing the number of unique new monthly
-contributors, reducing OCMA and increasing MRARR. This will increase development
-velocity without requiring additional engineering resources. Parallel to this
-we'll increase observability of community contributed value through improving
-the business intelligence around it. This will allow us to create some
-predictability through foreshadowing. These efforts are cross-functional and
-require working together with Marketing and Product Development.
-
-This accounts for 70 - 80% of the workload. The remaining 20 - 30% is ad-hoc
-work. The ad-hoc work is eclectic and ranges from supporting customers on
-contributions, supporting various open source initiatives and supporting the
-Engineering Productivity team.
-
-#### Unique New Monthly Contributors
-
-1. Minimize reliance on human interaction
-1. Reduce volatility through introducing automations that drive contributions
-   forward automatically
-1. Capitalize on untapped potential - MRs that are active but not merged at the
-   end of every single MR
-1. Invest into attracting more new contributors
-
-#### Community Contributed Value Observability
-
-1. Introduce measurement points in various places in the contribution pipeline
-1. Collect objective and subjective feedback from contributors about the process
-1. Create insight into actual community contribution pipeline size
-1. Standardize contribution MRARR valuation
-1. Categorize contribution and measure value per type
-
-#### Community Metrics Foreshadowing
-
-1. Predict community metric trends
-1. Empower teams to react to negative trends before they actualize
-1. Define ambitious targets for FY24
-
-#### OCMA
-
-1. Minimize reliance on human factors that contribute to a large standard deviation
-1. Support Engineering Productivity in driving OCMA down
-
-## Team Responsibilities
-
-* Carry out Engineering open source outreach efforts.
-* Improve GitLab's Contribution Efficiency and Merge Request Coaching process.
-* Engineering representative that can ride along with the evangelist and program manager.
-* Organize community contributors into [community teams](team-structure.html) and ensure their success.
-* Provide guidance to community contributors on technical and non-technical aspects.
-* Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
-* Improve community recognition system and awards in collaboration with Community Relations team.
-* Nominate impactful community contributors and contributions for recognition.
-* Contribute as an MR Coach in one or more MR Coach specialties.
-* Provide guidance and coaching to team members on technical contributions, product architecture, and other areas.
-* Be a point of escalation for community contributors and identify GitLab DRIs to resolve blockers
-* Participate in GitLab's overall open source outreach events and processes.
-* Collaborate closely with our Marketing counterparts and Core team.
-
-## OKRs
-
-Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current and previous quarter OKRs, it updates automatically as the quarter progresses.
-
-### Current quarter
-
-<iframe src="https://app.ally.io/public/TQRmKHpOC7NoZb7" class="dashboard-embed" height="1600" width="100%" style="border:none;"> </iframe>
-
-### Previous quarter
-<!-- uncomment after FY23Q2 starts
-<iframe src="https://app.ally.io/public/e0izWt13OqmGHuO" class="dashboard-embed" height="1600" width="100%" style="border:none;"> </iframe>
---> 
-
-## Project Management
-
-This team has the following immediate work items planned.
-
-* [Contribution Efficiency Improvements Epic](https://gitlab.com/groups/gitlab-com/-/epics/1619)
-* [Increasing MRARR through internal partnerships](https://gitlab.com/groups/gitlab-com/-/epics/1225)
-
-## Team Structure
-
-This new team resides under the Quality Department operating as a team of
-Full-stack engineers, led by an Engineering Manager reporting to the
-Quality Department Leader.
-
-```mermaid
-graph TD
-    A[Quality Department]
-    A --> B[Engineering Analytics Team]
-    A --> C[Contributor Success team]
-    C --> CA[Contributor Success Engineer]
-    C --> CB[Contributor Success Engineer]
-    A --> D(Quality Engineering)
-    A --> E[Engineering Productivity Team]
-
-    click A "/handbook/engineering/quality"
-    click B "/handbook/engineering/quality/engineering-analytics"
-    click C "/handbook/engineering/quality/contributor-success"
-    click D "/handbook/engineering/quality/quality-engineering"
-    click E "/handbook/engineering/quality/engineering-productivity"
-
-    style C fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
-    style CA fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
-    style CB fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
-```
-
-## Contributor Efficiency Working group
-
-There's a working group with members from Quality and Community Relations that
-aims to streamline and improve contributor efficiency. It implements key
-business iterations that results in substantial and sustained increases to
-community contributors & contributions.
-
-- Handbook page - <https://about.gitlab.com/company/team/structure/working-groups/contribution-efficiency/>
-- Agenda - <https://docs.google.com/document/d/1AOgqaslnq-WI1ICSZ1NzSnALf1Va4D5qAD191icAoSI/edit#>
-
-## Code Contributor User Journey
-
-The code contributor user journey is documented in the handbook - [User Journey](./user-journey.html)
