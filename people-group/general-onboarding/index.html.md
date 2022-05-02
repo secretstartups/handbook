@@ -43,7 +43,7 @@ This call occurs every two weeks on Thursday at two times to account for timezon
 Please note that this call will take a place a week or two before your actual start date.
 
 ### Agenda
-General Topics Coveraged
+General Topics Covered
 
 - Introductions
 - Review the onboarding process on Day 1
