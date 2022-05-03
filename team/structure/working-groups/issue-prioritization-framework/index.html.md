@@ -59,25 +59,30 @@ canonical_path: "/company/team/structure/working-groups/issue-prioritization-fra
 
 TL;DR: Once validated, we drive adoption across Product/CS/Sales and collect measurements to confirm that this model is producing the desired business outcomes. If not, decide to go back to Step 1 or Exit.
 
+Limited pilot (select IC PMs):
+
+- 100% of stages participating in the pilot.
+  - Current: `0 / 15`
+- Process for mapping issues/epics to themes and product investments is finalized, documented, and has the support of Product, Sales, and Customer Success. 
+  - Current: `No`
+
 Scaled pilot (IC PM / TAM focused) measures of success:
 
 - `> 80%` of Product Managers regularly use the dashboards powered by the framework and find the prioritization framework an invaluable sensing mechanism as measured by quarterly survey responses.
-  - Current: Not measured
+  - Current: N/A
 - `> 80%` of Technical Account Managers regularly use the dashboards powered by the framework and report a `> 30%` efficiency gain of reporting on customer requested issues as a result of utilizing the TAM dashboard as measured by quarterly survey responses. 
-  - Current: Not measured 
+  - Current: N/A
 
 Verify and measure at scale:
 
 - Improve lead time for the top 25% of customer requested issues from `x` to `y`.
-  - Current: Not measured
+  - Current: N/A
 - The prioritization model and dashboard(s) are adopted as an effective replacement to using spreadsheets to manage and track Top ARR drivers.
-  - Current: Not measured
+  - Current: N/A
 - `20%` increase of feature requests tagged month-over-month or quarter-over-quarter.
-  - Current: Not measured
+  - Current: N/A
 - `20%` increase of Sales team members tagging feature requests month-over-month or quarter-over-quarter.
-  - Current: Not measured
-- Decrease key customer issues marked as `deliverable` from missing their scheduled milestone by `x%`.
-  - Current: Not measured 
+  - Current: N/A
 
 ## Roles and Responsibilities
 
@@ -91,7 +96,6 @@ Verify and measure at scale:
 | Member                | Patrick Harlan           | Manager, Technical Account Managers (Commercial) |
 | Member                | Sophie Pouliquen         | Senior Techical Account Manager |
 | Member                | Martin Brümmer         | Senior Techical Account Manager |
-| Member                | Nick Post                | Senior Product Designer, Interim Product Manager (Manage: Analytics) |
 | Member                | Mek Stittri              | Director of Quality Engineering |
 | Member                | Kyle Wiebers             | Engineering Manager, Engineering Productivity |
 | Member                | Farnoosh Seifoddini      | Product Operations |
