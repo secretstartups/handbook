@@ -180,15 +180,28 @@ Please add any feedback on the gitlab.com content (including requests for additi
 | Lead          | State   | Person State              |           |          |
 | Lead          | Owner   | Lead Owner                |           |          |
 
-### Google Analytics [PLACEHOLDER]
+### Google Analytics 360 DB
 
-| Object        | Field   | SoT Field API Name   | Table | Approver/Owner |
-|---------------|---------|---------------------------|-----------|----------|
-| Lead          | Segment | Owner/User Segment        |           |          |
-| Lead          | Geo     | Owner/User Geo            |           |          |
-| Lead          | Region  | Owner/User Region         |           |          |
-| Lead          | Country | Person Country            |           |          |
-| Lead          | State   | Person State              |           |          |
-| Lead          | Owner   | Lead Owner                |           |          |
+| Object    | Field                 | SoT Field API Name                                       | Table                                                                                                                                       |
+| --------- | --------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| dimension | Client ID             | client\_id                                               | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| dimension | Session Date          | session\_date                                            | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| dimension | Source                | traffic\_source                                          | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| dimension | Medium                | traffic\_source\_medium                                  | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| dimension | Device Category       | device\_category                                         | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| dimension | Country               | geo\_network\_country                                    | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| dimension | Event Category        | event\_category                                          | [ga360\_session\_hit](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session_hit)                            |
+| dimension | Event Action          | event\_action                                            | [ga360\_session\_hit](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session_hit)                            |
+| dimension | Event Label           | event\_label                                             | [ga360\_session\_hit](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session_hit)                            |
+| dimension | Page                  | page\_path                                               | [ga360\_session\_hit](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session_hit)                            |
+| dimension | Hostname              | host\_name                                               | [ga360\_session\_hit](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session_hit)                            |
+| dimension | Custom Dimension      | dimension\_index                                         | [ga360\_session\_custom\_dimension](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session_custom_dimension) |
+| metric    | Sessions              | count distinct (visit\_id, visitor\_id)                  | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| metric    | Bounce Rate           | count (where total\_pageviews = 1) / sessions            | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| metric    | Avg. Session Duration | total\_time\_on\_site / sessions                         | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| metric    | Users                 | count(client\_id)                                        | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| metric    | New Users             | count distinct (client\_id) where total\_new\_visits = 1 | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| metric    | Pageviews             | sum(total\_pageviews)                                    | [ga360\_session](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session)                                     |
+| metric    | Total Events          | count(hit\_type like 'EVENT')                            | [ga360\_session\_hit](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.ga360_session_hit)                            |
 
 ### Coming in V2: Marketo, Snowplow
