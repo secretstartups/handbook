@@ -107,7 +107,16 @@ Please reach out to Total Rewards for information on how to use your Income Prot
 
 ## Pension Introduction
 
-GitLab provides and contributes into an Auto-Enrollment personal pension scheme with [Scottish Widows](http://www.scottishwidows.co.uk/retirement/retirement-explained/basics/auto-enrolment/). GitLab is also working with [Oakley Financial](https://oakleyifa.com/) who are able to provide help and guidance should employees have any questions about the pension scheme. An email and telephone service is available and you can find the details in the [contacts](#contacts) section.
+GitLab provides and contributes into an Auto-Enrollment personal pension scheme with [Scottish Widows](http://www.scottishwidows.co.uk/retirement/retirement-explained/basics/auto-enrolment/)
+
+Willis Towers Watson act as employee benefit advisers to the GitLab GPPP and although cannot provide you with financial advice are available to explain the details of the GitLab GPPP and answer any questions you may have.
+
+Willis Towers Watson
+
+- Friars Street, Ipswich IP1 1TA
+- Geoff Wilson, Associate Director
+- Direct Line: 01473 229011
+- E-mail: Geoff.wilson@willistowerswatson.com
 
 Please refer to the the [Company Pension Plan FAQ](https://drive.google.com/file/d/1BEADGm7sUbroEkxzGvB-DBIhMIbbLG46/view?usp=sharing) for additional information on the plan. Please note that all eligible team members will be auto-enrolled in the scheme. 
 
@@ -201,7 +210,18 @@ If you decide to opt out of the scheme you can do this within one month of the e
 
 ### Contacts
 
-You can contact Scottish Widows or Oakley Financial directly using the contact details in this [pdf](https://drive.google.com/file/d/1e38np_Q8_s9Ty5JdbXTiMFXYVPTa20UQ/view?usp=sharing).
+You can find all the information on the pension scheme including FAQS, understanding your pension, Investment Choices and Tools and Calculators at:
+
+Scottish Widows:
+- [www.scottishwidows.co.uk/gppae](www.scottishwidows.co.uk/gppae)
+- (t)0345 755 6557
+
+You can also reach out to Willis Tower Watson to explain the details of the GitLab GPPP and answer any questions you may have.
+
+- Friars Street, Ipswich IP1 1TA
+- Geoff Wilson, Associate Director
+- Direct Line: 01473 229011
+- E-mail: Geoff.wilson@willistowerswatson.com
 
 ### Re-joining
 
