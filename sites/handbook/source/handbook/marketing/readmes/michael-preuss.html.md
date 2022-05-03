@@ -12,17 +12,16 @@ description: "Learn more about working with Michael Preuss"
 
 ## Michael Preuss’ README
 
-Hi 👋 my name is Michael Preuss. My last name is pronounced like Rolls Royce ... Royce ... Proyce ... Preuss. I know, it's German 🤷‍♂️ I'm the Director, Digital Experience at GitLab.
+Hi 👋 my name is Michael Preuss. My last name is pronounced like Rolls Royce ... Royce ... Proyce ... Preuss. I know, it's German 🤷‍♂️ I'm the [Director, Digital Experience](https://about.gitlab.com/job-families/marketing/digital-experience/#director-of-digital-experience) at GitLab.
 
 - [GitLab Handle](https://gitlab.com/mpreuss22)
 - [Team Page](https://about.gitlab.com/company/team/#mpreuss22)
 - [LinkedIn](https://www.linkedin.com/in/michaelapreuss/)
-- [My Website](http://assemblydigital.com/)
 
 ## About Me
 
 - 🤙 I'm born and raised on the West Coast
-- 🇨🇦 I live on Bowen Island in BC
+- 🇨🇦 I live in North Vancouver, BC
 - 🔮 A psychic predicted I'd work in digital
 - ❤️ I love what I do
 - 📖 I'm a lifelong learner with a growth mindset
@@ -35,6 +34,7 @@ Hi 👋 my name is Michael Preuss. My last name is pronounced like Rolls Royce .
 - 🏀 I roll deep with NBA knowledge
 - 🏎 I support the Scuderia
 - 🚴‍♂️ I ride my bike as much as I can (which fluctuates wildly!)
+- 🏃🏼‍♂️ I've started running, it's not fun
 
 ### Myers-Briggs Personality type:
 
