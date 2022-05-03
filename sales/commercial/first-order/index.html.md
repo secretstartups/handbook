@@ -53,7 +53,44 @@ We uphold GitLab brand integrity though our outreach, and we collaborate to ensu
 
 ## Working Cross-Functionally
 ### Field Marketing
-### BDR Team
+
+Collaboration with Field Marketing helps to speed up outbound efforts by changing cold engagements into warmer contacts and help to speed up conversations for pipeline building. 
+
+1. Understand who is the Field Marketing Manager that is responsible for the events in your region 
+1. Join the Bi-weekly Field Marketing calls where the Field Marketing Manager gives updates about the upcoming events in your territory. If you’re not aware who this is, reach out to your team members that can add you to these calls
+1. Participate in events - Remote or In-Person. This is a great way to make yourself a trusted face for GitLab in your territory community. Be proactive yourself in participation. The more you participate the more Field Marketing will include you. You can even become a speaker if you have aspirations to do this.
+1. Be on top of events that Field Marketing organizes which are tailored for Executives. These events give you a door into directly speaking with decision makers. 
+1. Use events for prospecting purposes. When you know there is an event coming up that is of interest to your contact at a target account - provide value and drive attendance to the event. 
+1. Field Marketing is also there to help to organize prospect specific events (Lunch and Learn sessions). Reach out to the Territory Field Marketing Manager to discuss how to schedule this
+1. Work closely together with your BDR / SDR who are the ones that follow up on the leads that participated in events. Make sure to explain which leads are important for you to get a priority follow up
+
+### SDR/BDR Team
+
+The BDR and SDR team are responsible for pre-qualifying leads and setting meetings (IQM’s) for the First Order team. [BDR’s](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#sales-development-representatives-sdrs---inbound-focused)  are focused on outbound while [SDR’s](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#sales-development-representatives-sdrs---inbound-focused) are responsible for the inbound lead flow. It’s important to understand how to collaborate with both teams: 
+
+#### BDR's
+
+1. Get yourself familiar with the [outbound responsibilities](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#outbound-workflow) of the BDR team and their way of working
+1. Set up time with your aligned BDR and discuss expectations before starting to work together. Discuss how the BDR can help you succeed and understand how you can help the BDR to succeed. 
+1. Schedule a weekly or bi-weekly cadence with your BDR to strategize outbound efforts for your territory. During this meeting discuss: 
+    *  Which accounts to go after and why. Select X number of accounts that match with what BDR’s are expected to go after per week
+    *  Strategy to go into these accounts. Which persona’s to target and which messaging to use. Discuss an approach before reaching out
+    *  What has been uncovered about the accounts during the outbound efforts 
+    *  What are the next steps we’re going to take based on the gathered information? 
+    *  Results: How many IQM’s booked last week / last 2 weeks or what kind of golden information has been uncovered? 
+1. First Order reps and BDR’s are both going outbound into accounts. Make sure it’s always visible to both parties who work which accounts. This is [the report](https://www.google.com/url?q=https://gitlab.my.salesforce.com/00O4M000004aiUw?dbw%3D1&sa=D&source=docs&ust=1651508616369703&usg=AOvVaw3BUuFQ4ju9byXYL_MoRsow) BDR’s use to track the accounts they actively work on. For First Order we currently track this in a spreadsheet you can create yourself
+1. Make sure both parties always check historical outbound efforts done in an account to prevent spamming outreach before reaching out 
+1. Understand that the way of working from the BDR organization is different from the First Order cadence but both align on call heavy outreach. BDR’s have different outreach sequences in place than the First Order team but both heavily focus on calls
+1. Consistency is key. Make sure you meet with your BDR and discuss results, progress strategy every week or bi-weekly. From there set the next steps. 
+
+### SDR's 
+
+1. Get yourself familiar with the [inbound responsibilities](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#bdr-and-sdr-inbound-workflow--process) of the SDR team and their way of working
+1. FO AEs are not meant to be working leads. This is why it is critical to be aware of incoming leads your SDRs are receiving for your territory and work effectively and together to drive conversations with leads
+2. The SDR team works round-robin which means you will work with all the SDR’s in your region. It’s recommended to set up a coffee chat with all of them so you know which SDR’s you’re going to collaborate with
+3. SDR’s don’t have visibility into accounts that are important to you. That’s why it’s recommended to create visibility into the leads that are coming in for your own territory. 
+4. If there is an incoming lead that is part of a high priority account chatter the assigned SDR on Salesforce to pick up the lead with high priority. You can ask the SDR Manager of your region to share a report that shows all incoming leads per Quarter and add filters to the report so it is set for only your territory. Team members or FO Manager can help with this
+
 ### Channel
 
 Working with local partners can speed up your sales cycles, increase the overall ARR of your opportunity and help you tackle language barriers.
@@ -81,8 +118,17 @@ Working with local partners can speed up your sales cycles, increase the overall
 1. [Program Discount Details](https://docs.google.com/document/d/1lMQHlSMEJQCH1HJnr-MdeVozZ9HJI0oVPmfbPWbJkyw/edit) 
 1. [Channel Sales HB Page](https://docs.google.com/document/d/18xqRRCkIXlR7r4BvBQnK9n9zE70q-KPga-lVHhVw4n4/edit) 
 
-
 ### Alliances
+
+The Alliances team can assist with connecting you to the Alliance Partner sales and technical counterparts to accelerate conversations in prospect accounts. 
+
+1. Get yourself familiar with the [Alliances](https://gitlab-com.gitlab.io/alliances/alliances-internal/) team, what they do and how they can help
+1. Select a list of your top 10 accounts where you know they are using one of our Alliances Partners 
+1. Schedule time with the Alliances Manager in your region and bring up that you’d like to be introduced to the Partner representative from the 10 selected accounts. To get in contact with the right Alliances Manager post a new message to the #alliances Slack channel with a brief description of the request. The alliance team member(s) managing the partnership will follow-up with next steps
+1. The Alliances Manager is responsible for bringing you in contact with the dedicated customer teams from the Partner (AWS, GCP etc) and set up the meetings 
+1. Leverage Alliances help you to break into new accounts where there is already a warm relationship with the Alliances Partner who can help to warm introduce you to the right people in the company 
+1. Make sure you understand what the benefit for the Alliances Partner is to introduce you. Always make sure you understand how we can help them and the customer and align your GitLab proposal to this.
+
 ### MM-Named/ Territory 
 ### CS
 
