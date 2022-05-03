@@ -39,7 +39,7 @@ Email: info@zorgvandezaak.nl
 
 ## Pension
 
-State pension (AOW) is standard and will be paid out at retirement age. Starting January 1, 2021, GitLab will offer a private pension plan through [Brand New Day](https://new.brandnewday.nl/) for all team members over the age of 21 employed via a GitLab BV Netherlands employment contract. The pension plan will be a Defined Contribution Agreement with a flat rate of 5.00% of the pension base. The GitLab team member will contribute 2%, with the employer (GitLab) contributing 3%. The pension base equals the pensionable salary less the state pension offset. For additional training, Brand New Day has provided [video](https://drive.google.com/drive/folders/1qjCicb0JxnCmG5i4l3Hv5CEs5q8mOuXX?usp=sharing) explanations on how the pension plan works. 
+State pension (AOW) is standard and will be paid out at retirement age. Starting January 1, 2021, GitLab will offer a private pension plan through [ASR](asr.nl/doenpensioen)(formerly Brand New Day) for all team members over the age of 21 employed via a GitLab BV Netherlands employment contract. The pension plan will be a Defined Contribution Agreement with a flat rate of 5.00% of the pension base. The GitLab team member will contribute 2%, with the employer (GitLab) contributing 3%. The pension base equals the pensionable salary less the state pension offset. For additional training, ASR has provided [video](https://drive.google.com/drive/folders/1qjCicb0JxnCmG5i4l3Hv5CEs5q8mOuXX?usp=sharing) explanations on how the pension plan works. 
 
 **Pension Plan Summary:**
 * Pension: The Pension plan is designed for team members to build up an invested pension fund that they cash in to purchase a retirement
@@ -53,10 +53,11 @@ work, this portion of the plan continues to pay part or all of the pension contr
 * Extra Death Benefits: Team members with a partner have the option of insuring an extra partner's pension upon their death prior to the retirement date. The following [doc](https://drive.google.com/file/d/1NGD1MNEqYI-acKECh7xNR73su_c-xesK/view?usp=sharing) outlines additional information on how the voluntary ANW-gap pension works. 
 
 **Individual value transfer:**
-A team member can have the pension value accrued at a former employer transferred to Brand New Day. An individual value transfer must be requested from Brand New Day within six months of joining the scheme. Once this is complete, the years of service at any former employers count towards Death Benefits. 
+A team member can have the pension value accrued at a former employer transferred to ASR. An individual value transfer must be requested from ASR within six months of joining the scheme. Once this is complete, the years of service at any former employers count towards Death Benefits.
 
 **Investment Profile:**
-Team members choose their own investment profile: neutral, defensive or offensive or their own mix of equities and bonds, within the limits set by Brand New Day. Furthermore, you can choose to put all the contributions in a savings fund.
+Team members choose their own investment profile: neutral, defensive or offensive or their own mix of equities and bonds, within the limits set by ASR. Furthermore, you can choose to put all the contributions in a savings fund.
+
 
 ## Life Insurance
 
