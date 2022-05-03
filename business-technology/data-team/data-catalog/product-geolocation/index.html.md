@@ -181,7 +181,7 @@ GROUP BY 1,2
 
 ### DBT Solution
 
-- In order to avoid large joins between tables and the IP-address-to-geolocation mapping consisting of less-than/greater-than join clauses, IP addresses are incrementally mapped to geolocations separate from other models as implemented originally in [this merge request](https://gitlab.com/gitlab-data/analytics/-/merge_requests/3413).
+- In order to avoid large joins between tables and the IP-address-to-geolocation mapping consisting of less-than/greater-than join clauses, IP addresses are incrementally mapped to geolocations separate from other models as implemented originally in [this merge request (internal link)](https://gitlab.com/gitlab-data/analytics/-/merge_requests/3413).
 
 - This approach also gives us the ability to obscure IP addresses in Sisense but still preserving the ability to match IP addresses across different database tables.
 

@@ -22,7 +22,7 @@ title: "Data Team Direction"
 In November-2021 we held several cross-team sessions to help align on the GitLab data strategy for FY23. Parcipants included Growth, Finance, Marketing, Sales Stragy, and Customer Success.
 
 - [Strategy Worksheet](https://docs.google.com/spreadsheets/d/11fkA6hAGcZGrVj7Ho2LIzHk9JGukG-x77KbC9Unsj0Q/edit#gid=0)
-- [Project Team Issue](https://gitlab.com/gitlab-data/analytics/-/issues/10588) 
+- [Project Team Issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/10588) 
 
 ## Strategy
 

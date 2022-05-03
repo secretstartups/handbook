@@ -132,7 +132,7 @@ We use dbt for all transformations in the warehouse. [We require tests on all ne
 
 ## [Data Pipeline Health Dashboard](https://app.periscopedata.com/app/gitlab/715938/Data-Pipeline-Health-Dashboard])
 
-See [issue](https://gitlab.com/gitlab-data/analytics/-/issues/4808)
+See [issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/4808)
 
 The first iteration has added with a focus on:
 

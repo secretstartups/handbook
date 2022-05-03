@@ -66,7 +66,7 @@ This section is used only when we need to do a backfill for a table that has bel
 - The data in the table is missing for a date or date range for which catch-up has already been completed. 
 - If dropping the table and reloading will breach the SLO.
 
-In the above case, we can use this approach to pull the data and load it to the snowflake target table. It has been done for one of the table in this [issue](https://gitlab.com/gitlab-data/analytics/-/merge_requests/5003)
+In the above case, we can use this approach to pull the data and load it to the snowflake target table. It has been done for one of the table in this [issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/merge_requests/5003)
 
 Below is the step to be followed for the same. 
 
@@ -195,7 +195,7 @@ If you want to import a Google Sheet or CSV into the warehouse, please [make an 
 ### Considerations
 {: #mind-about-sheetload}
 
-SheetLoad should primarily be used for data whose canonical source is a spreadsheet - i.e. Sales quotas. If there is a source of this data that is not a spreadsheet, you should at least [make an issue for a new data source](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=New%20Data%20Source) to get the data pulled automatically. However, if the spreadsheet is the SSOT for this data, then SheetLoad is the appropriate mechanism for getting it into the warehouse.
+SheetLoad should primarily be used for data whose canonical source is a spreadsheet - i.e. Sales quotas. If there is a source of this data that is not a spreadsheet, you should at least [make an issue for a new data source (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=New%20Data%20Source) to get the data pulled automatically. However, if the spreadsheet is the SSOT for this data, then SheetLoad is the appropriate mechanism for getting it into the warehouse.
 
 ### Loading into Snowflake
 
@@ -250,8 +250,8 @@ Current Metrics Available
 
 | Name | Topic Link | Source Issue |
 |------|------------|--------------|
-| `stage_group_error_budget_availability` | [stage-group-error-budgets.queries.jsonnet](https://gitlab.com/gitlab-com/runbooks/-/blob/master/periodic-thanos-queries/stage-group-error-budgets.queries.jsonnet) | [#7713](https://gitlab.com/gitlab-data/analytics/-/issues/7713) |
-| `total_haproxy_bytes_out` | [daily-haproxy-bytes.queries.jsonnet](https://gitlab.com/gitlab-com/runbooks/-/blob/master/periodic-thanos-queries/daily-haproxy-bytes.queries.jsonnet) | [#11584](https://gitlab.com/gitlab-data/analytics/-/issues/11584) |
+| `stage_group_error_budget_availability` | [stage-group-error-budgets.queries.jsonnet](https://gitlab.com/gitlab-com/runbooks/-/blob/master/periodic-thanos-queries/stage-group-error-budgets.queries.jsonnet) | [#7713 (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/7713) |
+| `total_haproxy_bytes_out` | [daily-haproxy-bytes.queries.jsonnet](https://gitlab.com/gitlab-com/runbooks/-/blob/master/periodic-thanos-queries/daily-haproxy-bytes.queries.jsonnet) | [#11584 (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/11584) |
 
 ## Zuora API Sandbox
 The API Sandbox is Zuora's "release preview" environment. It is a customer facing, multi-tenant environment that gets code deployed to it before Zuora's production environment. How early code gets deployed depends on the type of release: Major releases are usually deployed a week in advance, whereas minor releases and emergency patches get deployed days, hours or minutes before production. Zuora customers can purchase any number of tenants in this environment for a recurring annual fee.
@@ -553,7 +553,7 @@ Zoominfo sends inbound files to Gitlab via Snowflake data share. Shared database
 
 ## Adaptive
  
-Adaptive has been implemented as part of this [issue](https://gitlab.com/gitlab-data/analytics/-/issues/6237). The tap is reponsible for 100% sync for every refresh and executed via Meltano via the TAP-ADAPTIVE. 
+Adaptive has been implemented as part of this [issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/6237). The tap is reponsible for 100% sync for every refresh and executed via Meltano via the TAP-ADAPTIVE. 
  
 Below is the list of the relevant endpoints in Adaptive. The end points available and more information around the end point is present [here](https://adaptiveplanning.doc.workday.com/r/DG7oXjCPB6kIw6Th6awNUg/r2Yl8CztW98XTEeX1vKtgQ)
  

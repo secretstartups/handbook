@@ -37,7 +37,7 @@ Web Traffic Analysis helps to gain insights about visitors and their behavior on
 
 ### Data Caveats and Constraints
 - Number of users (Nbr of users) will always have approx 0.1-0.2% discrepancy between BigQuery and Google Analytics 360 UI. This is because Google Analytics shows an approximation for users, Big Query is exact.
-- When reporting on hit level data (e.g.: pageviews), you need to link `google_analytics_360.session_hit` table to `analytics.ga360_session_xf` in order to filter by session_date, as there it is currently not available on hit level data (this is WIP in [this](https://gitlab.com/gitlab-data/analytics/-/issues/7098) issue)
+- When reporting on hit level data (e.g.: pageviews), you need to link `google_analytics_360.session_hit` table to `analytics.ga360_session_xf` in order to filter by session_date, as there it is currently not available on hit level data (this is WIP in [this (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/7098) issue)
 
 ### Data Security Classification 
 

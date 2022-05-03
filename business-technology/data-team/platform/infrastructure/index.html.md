@@ -284,7 +284,7 @@ to the container from the `/.kube/config` file.
 
 To correct this error all you need to do is edit your `/.kube/config` and update the command path parameter to where it will be in the container: `/usr/lib/google-cloud-sdk/bin/gcloud`
 That file gets updated everytime you install the SDK or run this command: `gcloud container clusters get-credentials data-ops`.
-See related [issue](https://gitlab.com/gitlab-data/analytics/-/issues/5012) for more info
+See related [issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/5012) for more info
 
 ### Project variables
 
@@ -340,7 +340,7 @@ The following variables are set at the job level depending on the running enviro
 Sometimes things break and it's not clear what's happening. Here are some common things to check.
 
 - Check the status of [GitLab.com](https://status.gitlab.com/) and [Google Cloud](https://status.cloud.google.com/)
-- Review if there were recent merge requests to the [`analytics`](https://gitlab.com/gitlab-data/analytics/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged) or [`data-image`](https://gitlab.com/gitlab-data/data-tests/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged) projects
+- Review if there were recent merge requests to the [`analytics` (internal link)](https://gitlab.com/gitlab-data/analytics/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged) or [`data-image`](https://gitlab.com/gitlab-data/data-tests/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged) projects
 - Review the [Container Logs](https://console.cloud.google.com/logs/query?project=gitlab-analysis&query=%0A)
 - [GKE Dashboard](https://console.cloud.google.com/monitoring/dashboards?project=gitlab-analysis) - Useful for understanding the current state
 - [GCP Error Reporting](https://console.cloud.google.com/errors?time=P1D&order=COUNT_DESC&resolution=OPEN&resolution=ACKNOWLEDGED&project=gitlab-analysis) - This can be very useful for determining what errors are happening in Airflow and across the project
@@ -352,7 +352,7 @@ Sometimes things break and it's not clear what's happening. Here are some common
 ##### Semi-common Problems
 
 * Logs are filled with `<task> had an event of type Pending` and the task never starts
-  * Potentially caused by k8s being unable to pull the container from the registry. See [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/6779) for a recent incident
+  * Potentially caused by k8s being unable to pull the container from the registry. See [this issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/6779) for a recent incident
   * Potentially caused by running out of resources in GKE
 
 #### Connecting to the Kubernetes Airflow Cluster:
@@ -736,7 +736,7 @@ The tasks are being monitored with a dbt test that makes sure each task has ran 
 
 ### PTO by Roots Snowpipe
 
-As described in [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/5786), there is a process maintained by the people group that periodically queries the PTO by Roots API and dumps the results into a JSON file in the `gitlab-pto` GCS bucket.  This bucket is in the `gitlab-analysis` GCP project.  
+As described in [this issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/5786), there is a process maintained by the people group that periodically queries the PTO by Roots API and dumps the results into a JSON file in the `gitlab-pto` GCS bucket.  This bucket is in the `gitlab-analysis` GCP project.  
 
 To load this data into Snowflake, a Snowpipe for GCS was configured using this [Snowflake documentation](https://docs.snowflake.com/en/user-guide/data-load-snowpipe-auto-gcs.html).  A GCP pubsub topic named `gitlab-pto-snowpipe` was configured to receive a new message whenever a new file was written to the `gitlab-pto` bucket.  A GCP Pub/Sub subscription named `gitlab-pto-snowpipe` with delivery type `Pull` was created to subscribe to the `gitlab-pto-snowpipe` topic.
 
@@ -777,7 +777,7 @@ select SYSTEM$PIPE_STATUS('gitlab_pto');
 
 ### Demandbase Load Tasks
 
-The Demandbase data load was implemented as part of [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/7657).  Demandbase data is loaded daily, by Demandbase, in parquet format into a GCS bucket owned by Demandbase named `datastream-hosted-gitlab-3750`.  GitLab's Snowflake-GCS integration service account was granted permission to read and list files within this bucket to load data from Demandbase into Snowflake.
+The Demandbase data load was implemented as part of [this issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/7657).  Demandbase data is loaded daily, by Demandbase, in parquet format into a GCS bucket owned by Demandbase named `datastream-hosted-gitlab-3750`.  GitLab's Snowflake-GCS integration service account was granted permission to read and list files within this bucket to load data from Demandbase into Snowflake.
 
 A Snowflake stage was created to interface with the Demandbase data:
 
@@ -898,7 +898,7 @@ This is a project for centralizing handy functions we use across the team. Proje
 1. Check for breaking changes in the [release notes](https://github.com/dbt-labs/dbt-core/releases) and [schema docs](https://schemas.getdbt.com/)
     * Schemas affect both our handling of dbt data in the trusted data framework as well as in our [deployment of the docs site](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml#L257).
 1. Create a new `dbt-image` version following the instructions in the [Creating New Images](/handbook/business-technology/data-team/platform/infrastructure/#new-images) section
-1. Make an MR to the analytics project and update the following items. See [this MR](https://gitlab.com/gitlab-data/analytics/-/merge_requests/3728/diffs) for an example
+1. Make an MR to the analytics project and update the following items. See [this MR (internal link)](https://gitlab.com/gitlab-data/analytics/-/merge_requests/3728/diffs) for an example
   * dbt-image in the following places:
     * airflow_utils.py
     * dbt_project.yml
