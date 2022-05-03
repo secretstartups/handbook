@@ -20,7 +20,7 @@ title: "Sales Quick Start (SQS) Workshop"
 
 ## Sales Quick Start In-Person Workshop Agenda
 
-This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjdhrpyi9vB81kvdJ4H-66F8ghv-h_-_bGw/edit?usp=sharing) contains the most up to date agenda for our in-person Sales Quick Start Workshop. Please check the tabs at the bottom of this document to see each day's agenda. This agenda is subject to change based on the individual needs of the class and the availability of SMEs, but we will make every effort to surface those changes in this document.
+This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7JEydEIkUeGZ16nQuLxNgD6RXEM2zEgws/edit?usp=sharing) contains the most up to date agenda for our in-person Sales Quick Start Workshop. Please check the tabs at the bottom of this document to see each day's agenda. This agenda is subject to change based on the individual needs of the class and the availability of SMEs, but we will make every effort to surface those changes in this document.
 
 
 ## Sales Quick Start Remote Agenda:
@@ -53,6 +53,24 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 
 ### SQS 25 - June 2022
 
-* Workshop schedule TBD. 
+* Workshop times quoted are United States Eastern Daylight Time (Atlanta, Georgia) (UTC -4)
 
+| DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
+| ------ | ------ | ------ | ------ | ------ |
+|June 7, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement  |
+|June 15, 2022 | 11:00a ET | 12:20p ET | Essential Questions Exercise | Field Enablement  |
+|June 15, 2022 | 12:30p ET | 1:50p ET | Value Card Exercise | Field Enablement |
+|June 16, 2022 | 11:00a ET | 12:20p ET | Discovery Question Exercise | Field Enablement  |
+|June 16, 2022 | 12:30p ET | 1:50p ET | Differentiator Exercise | Field Enablement  |
+|June 17, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
+|June 17, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
+|June 20, 2022 | 11:00a ET | 11:30a ET | Field Security |  Field Security Team   |
+|June 20, 2022 | 12:30p ET | 1:20p ET | Intro to Competition | Competitive Intelligence  |
+|June 20, 2022 | 1:30p ET | 2:20p ET | Alliances | Alliances Team  |
+|June 21, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services | Professional Services Team    |
+|June 21, 2022 | 12:00p ET | 12:50p ET | Discovery Call 1 | Mock Customers  |
+|June 22, 2022 | 12:00p ET | 12:40p ET | Legal / Deal Desk | Legal & Deal Desk Team |
+|June 22, 2022 | 1:00p ET | 1:50p ET | Discovery Call 2 | Mock Customers |
+|June 23, 2022 | 11:00a ET | 11:50a ET | Channels |  Channel Team   |
+|June 23, 2022 | 1:00p ET | 1:50p ET | Discovery Call 3 | Mock Customers |
 
