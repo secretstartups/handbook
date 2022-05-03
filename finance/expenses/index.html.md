@@ -31,6 +31,7 @@ Team members should also consider the terms and conditions of their respective c
 
 Team members are reimbursed on different schedules depending on their location. Please see the reimbursement process below to find the listing of reimbursement dates based on your location or employment status.
 
+
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Expense Policy Summary
 
 1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/). **NOTE** - If you are a Corporate Credit Card holder, please refer to the [Corporate Credit Card page](https://about.gitlab.com/handbook/finance/accounts-payable/corp-credit-cards/) for specific instructions and thresholds.
@@ -47,7 +48,8 @@ Team members are reimbursed on different schedules depending on their location. 
 1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date.
    - Please note we do not reimburse late fees, initial set up, or equipment costs.
 
-#### <i class="fa-solid fa-arrow-right"></i> [**Approved List of Expenses**](https://docs.google.com/document/d/1UIbpeEzGQ0kmv9uI47xP8hRfDpGnwxvIeUpR66j_Ox8/edit?usp=sharing)
+
+### <i class="fas fa-bullseye" id="biz-tech-icons"></i> [**Approved List of Expenses**](https://docs.google.com/document/d/1UIbpeEzGQ0kmv9uI47xP8hRfDpGnwxvIeUpR66j_Ox8/edit?usp=sharing)
 
 
 ### Domain Name Registration and Maintenance Policy
@@ -86,6 +88,7 @@ GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per 
 ### Virtual Meal with GitLab Team member(s)
 
 Currently Suspended
+
 
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Approving Expense Reports
 
