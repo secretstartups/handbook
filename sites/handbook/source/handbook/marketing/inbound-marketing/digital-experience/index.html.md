@@ -18,7 +18,7 @@ description: >-
 
 *Why we exist*
 
-We take a customer centric approach to educating Buyers on how GitLab’s DevOps Platform solves their problems.
+We take a customer-centric approach to educating Buyers on how GitLab, The One DevOps Platform, solves their problems.
 
 
 ### Vision
@@ -41,19 +41,20 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
 
 ### Strategy
 
-1. **Experimentation:** Good ideas come from everywhere
+1. **Buyer Experience:** Shift to a buyer obsessed, customer centric organization
+    - Understand our buyer’s journey & optimize for each segment
+    - Optimize path to purchase funnel for each segment
+2. **Personalization:** Right content/right segment/right time
+    - Increase access to data sources
+    - Persistent data layer to build a one to many relationship
+3. **Experimentation:** Good ideas come from everywhere
     - Anyone can propose A/B tests
     - Proven A/B test winners go live
     - Results documented to reduce re-testing known saves
-2. **Listening:** Voice of Buyer program including:
+4. **Listening:** Voice of Buyer program including:
     - Add feedback tab to core parts of Marketing site
     - Monthly reporting on signals and trends
-3. **Personalization:** Right content/right segment/right time
-    - Increase access to data sources
-    - Persistent data layer to build a one to many relationship
-4. **Buyer Experience:** Shift to a buyer obsessed, customer centric organization
-    - Understand our buyer’s journey & optimize for each segment
-    - Optimize path to purchase funnel for each segment
+
 
 ### Principles
 
@@ -78,37 +79,19 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
     1. **Experimentation** We’re driven by experimentation and judge success with data.
     2. **Incremental** We take large tasks and break them down into multiple iterative deliverables.
 
-## Team
+## Groups, Metrics & Team Members
 
-| Team Member | Role | Contact Info |
-| ----------- | ---- | ------------ |
-| [**Michael Preuss**](/company/team/#mpreuss22) | Director, Digital Experience | - Email: [mpreuss@gitlab.com](mailto:mpreuss@gitlab.com)<br>- GitLab: [@mpreuss22](https://gitlab.com/mpreuss22)<br>- Slack: @mpreuss22<br>- ReadMe: [michael-preuss](/handbook/marketing/readmes/michael-preuss.html) |
-| [**Justin Vetter**](https://about.gitlab.com/company/team/#justin.vetter) | Engineering Manager | - Email: [jvetter@gitlab.com](mailto:jvetter@gitlab.com)<br>- GitLab: [@justin.vetter](https://gitlab.com/justin.vetter)<br>-  Slack: @Justin Vetter |
-| [**Lauren Barker**](/company/team/#laurenbarker) | Acting Engineering Manager | - Email: [lbarker@gitlab.com](mailto:lbarker@gitlab.com)<br>- GitLab: [@laurenbarker](https://gitlab.com/laurenbarker)<br>- Slack: @lbarker<br>- ReadMe: [lauren-barker](/handbook/marketing/readmes/lauren-barker.html) |
-| [**Tyler Williams**](https://about.gitlab.com/company/team/#tywilliams) | Senior Fullstack Engineer | - Email: [tywilliams@gitlab.com](mailto:tywilliams@gitlab.com)<br>- GitLab: [@tywilliams](https://gitlab.com/tywilliams)<br>- Slack: @Tyler Williams<br>- ReadMe: [tyler-williams](/handbook/marketing/readmes/tyler-williams.html) |
-| [**Mateo Penagos**](https://about.gitlab.com/company/team/#mpenagos-ext) | Senior Fullstack Engineer (Contract) | - GitLab: [@mpenagos-ext](https://gitlab.com/mpenagos-ext)<br>- Slack: @Mateo Penagos |
-| [**John Arias**](https://about.gitlab.com/company/team/#jariasc-ext) | Senior Fullstack Engineer (Contract) | - Email: [jariasc-ext@gitlab.com](mailto:jariasc-ext@gitlab.com)<br>- GitLab: [@jariasc-ext](https://gitlab.com/jariasc-ext)<br>- Slack: @John Arias |
-| [**Jessica Halloran**](https://gitlab.com/jhalloran) | Senior Product Designer (UX) | - GitLab: [@jhalloran](https://gitlab.com/jhalloran)<br>- Slack: @jhalloran |
-| [**Tina Lise Ng**](https://about.gitlab.com/company/team/#tng) | Product Designer (UX) | - GitLab: [@Tinaliseng](https://gitlab.com/Tinaliseng)<br>- Slack: @Tina Lise Ng |
-| [**Carrie Tsang**](https://gitlab.com/ctsang-ext) | Product Designer (Contract) | - Email: [ctsang-ext@gitlab.com](mailto:ctsang-ext@gitlab.com)<br>-  Slack: @ctsang-ext |
-| [**Nathan Dubord**](https://about.gitlab.com/company/team/#ndubord) | Senior Frontend Engineer | - Email: [ndubord@gitlab.com](mailto:ndubord@gitlab.com)<br>- GitLab: [@ndubord](https://gitlab.com/ndubord)<br>- Slack: @Nathan Dubord<br>- ReadMe: [nathan-dubord](/handbook/marketing/readmes/nathan-dubord.html) |
-| [**Laura Duggan**](https://about.gitlab.com/company/team/#lduggan) | Frontend Engineer | - Email: [lduggan@gitlab.com](mailto:lduggan@gitlab.com)<br>- GitLab: [@lduggan](https://gitlab.com/lduggan)<br>- Slack: @Laura Duggan<br>- ReadMe: [laura-duggan](/handbook/marketing/readmes/laura-duggan.html) |
-| [**Javier Garcia**](https://about.gitlab.com/company/team/#jgarc) | Frontend Engineer | - Email: [jgarcia@gitlab.com](mailto:jgarcia@gitlab.com)<br>- GitLab: [@jgarc](https://gitlab.com/jgarc257)<br>- Slack: @Javi |
-| [**Megan Filo**](https://about.gitlab.com/company/team/#meganfilo) | Frontend Engineer | - Email: [mfilo@gitlab.com](mailto:mfilo@gitlab.com)<br>- GitLab: [@meganfilo](https://gitlab.com/meganfilo)<br>- Slack: @Megan Filo<br>- ReadMe: [megan-filo](https://gitlab.com/meganfilo/meganfilo/-/blob/main/README.md) |
-| [**Miguel Duque**](https://about.gitlab.com/company/team/#mduque-ext) | Frontend Engineer (Contract) | - Email: [mduque-ext@gitlab.com](mailto:mduque-ext@gitlab.com)<br>- GitLab: [@mduque-ext](https://gitlab.com/mduque-ext)<br>-  Slack: @Miguel Duque |
-| [**Dennis Charukulvanich**](https://about.gitlab.com/company/team/#dennischarukulvanich) | Digital Experience Analyst | - Email: [dcharukulvanich@gitlab.com](mailto:dcharukulvanich@gitlab.com)<br>- GitLab: [@dennischarukulvanich](https://gitlab.com/dennischarukulvanich)<br>-  Slack: @Dennis Charukulvanich |
-| [**Margareth Mañunga**](https://about.gitlab.com/company/team/#mmanunga-ext) | Frontend Engineer (Contract) | - Email: [mmanunga-ext@gitlab.com](mailto:mmanunga-ext@gitlab.com)<br>- GitLab: [@mmanunga-ext](https://gitlab.com/mmanunga-ext)<br>-  Slack: @Margareth Mañunga  |
-| [**Gabriela Herrera**](https://about.gitlab.com/company/team/#gherrera-ext) | Frontend Engineer (Contract) | - Email: [gherrera-ext@gitlab.com](mailto:gherrera-ext@gitlab.com)<br>- GitLab: [@gherrera-ext](https://gitlab.com/gherrera-ext)<br>-  Slack: @gherrera-ext  |
+| Search, Nav, Support Group                                                                                                                                                                                                                                                                                                                                           | Product Marketing Group                                                                                                                                                                                                                                                                                                                                            | Conversion Group                                                                                                                                                                                                                                                                                                                                                                                      | Corporate Marketing Group                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Focus**<br>Awareness & Consideration<br><br>- Navigation<br>- Footer<br>- Search Bar & Results<br>- No Search Results<br>- 404 page<br>- Support<br>- Get Help<br>- Sales<br>- Analysts<br>- Update<br>- AB Testing                                                                                                                                          | **Focus**<br>Consideration & Evaluation<br><br>- Features<br>- Solutions<br>- Use Cases<br>- Get Started<br>- DevOps Lifecycle<br>- Customer Case Studies<br>- Blog<br>- Lightning Strikes<br>- AB Testing                                                                                                                                                   | **Focus**<br>Conversion & Purchase<br><br>- Homepage<br>- Pricing<br>- Why GitLab<br>- Install<br>- Demo<br>- Ecommerce / No Touch<br>- Path to purchase<br>- User/Buyer Journeys<br>- 3rd Party Marketplace<br>- AB Testing                                                                                                                                                                     | **Focus**<br>Loyalty & Advocacy<br><br>- Partners<br>- Events<br>- Jobs<br>- Learn<br>- Community<br>- All Remote<br>- Company                                                                             |
+| **Metrics**<br>Increased engagement<br><br>- Lower bounce rate<br>- Increased pages/session<br>- Increased time on site                                                                                                                                                                                                                                        | **Metrics**<br>Click through from focus pages to:<br><br>- Pricing Page<br>- Free Trial                                                                                                                                                                                                                                                                      | **Metrics**<br>Conversion rate past key pages:<br><br>- Pricing Page<br>- Free Trial                                                                                                                                                                                                                                                                                                             | **Metrics**<br>Increased engagement<br><br>- Lower bounce rate<br>- Increased pages/session<br>- Increased time on site                                                                                    |
+| **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi)                                                                                                                                                                                                                                                                                      | **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi)                                                                                                                                                                                                                                                                                    | **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi)                                                                                                                                                                                                                                                                                                                        | **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi)                                                                                                                                  |
+| **Engineering Manager**<br>- [Lauren Barker](https://gitlab.com/laurenbarker), [ReadMe](/handbook/marketing/readmes/lauren-barker.html)                                                                                                                                                     | **Engineering Manager**<br>- [Justin Vetter](https://gitlab.com/justin.vetter)                                                                                                                                                                                                                                                                           | **Engineering Manager**<br>- [Justin Vetter](https://gitlab.com/justin.vetter)                                                                                                                                                                                                                                                                                                               | **Engineering Manager**<br>- [Lauren Barker](https://gitlab.com/laurenbarker), [ReadMe](/handbook/marketing/readmes/lauren-barker.html) |
+| **Product Design**<br>- [Carrie Tsang](https://gitlab.com/ctsang-ext)                                                                                                                                                                                                                                                                                      | **Product Design**<br>- [Tina Lise Ng](https://gitlab.com/Tinaliseng)                                                                                                                                                                                                                                                                                    | **Product Design**<br>- [Jess Halloran](https://gitlab.com/jhalloran)                                                                                                                                                                                                                                                                                                                        | **Product Design**<br>- [Jess Halloran](https://gitlab.com/jhalloran)<br>- [Tina Lise Ng](https://gitlab.com/Tinaliseng)                                                                                                                 |
+| **Engineering**<br>- [Laura Duggan](https://gitlab.com/lduggan) (Lead), [ReadMe](/handbook/marketing/readmes/laura-duggan.html)<br>- [Miracle Banks](https://gitlab.com/miracle-banks)<br>- [Miguel Duque](https://gitlab.com/mduque-ext)<br>- [John Arias](https://gitlab.com/jariasc-ext) | **Engineering**<br>- [Nathan Dubord](https://gitlab.com/ndubord) (Lead), [ReadMe](/handbook/marketing/readmes/nathan-dubord.html)<br>- [Javi Garcia](https://gitlab.com/jgarc)<br>- [Marg Mañunga](https://gitlab.com/mmanunga-ext)<br>- [Mateo Penagos](https://gitlab.com/mpenagos-ext) | **Engineering**<br>- [Tyler Williams](https://gitlab.com/tywilliams) (Lead), [ReadMe](/handbook/marketing/readmes/tyler-williams.html)<br>- [Megan Filo](https://gitlab.com/meganfilo), [ReadMe](https://gitlab.com/meganfilo/meganfilo/-/blob/main/README.md)<br>- [Gaby Herrera](https://gitlab.com/gherrera-ext)<br>- TBH | **Engineering**<br>- TBH<br>- TBH<br>- TBH<br>- TBH                                                                                                                                                    |
+| **Analyst**<br>- [Dennis Charukulvanich](https://gitlab.com/dennischarukulvanich)                                                                                                                                                                                                                                                                          | **Analyst**<br>- [Dennis Charukulvanich](https://gitlab.com/dennischarukulvanich)                                                                                                                                                                                                                                                                        | **Analyst**<br>- [Dennis Charukulvanich](https://gitlab.com/dennischarukulvanich)                                                                                                                                                                                                                                                                                                            | **Analyst**<br>- [Dennis Charukulvanich](https://gitlab.com/dennischarukulvanich)                                                                                                                      |
+| **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                                 | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                               | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                                                                   | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)             |
 
-## Metrics
-
-### North Star Metric
-
-**Metric**: Conversion (past the [Pricing Page](https://about.gitlab.com/pricing/))
-
-### Supporting Metrics
-
-There are many other digital marketing metrics we track for the Marking Site. These include pageviews, unique visitors, time on site, and conversion metrics for key funnels. These detailed metrics are leading indicators for the health of our North Start metric, and are internal to GitLab.
 
 ## Scope
 
@@ -120,7 +103,7 @@ We collaboratively define OKRs as a team with cross functional partners in advan
 
 ### Current Quarterly Plan
 
-[FY23Q1 Digital Experience Quarterly Plan & OKRs](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/85)
+[FY23Q2 Digital Experience Quarterly Plan & OKRs](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/107)
 
 # Our Process
 
@@ -269,8 +252,9 @@ We love collaborating on work that drives our North Star and supporting metrics.
 
 <details>
     <summary>Previous <b>Quarterly Plans & OKRs</b></summary>
-    <li><a href="https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/385">FY22Q3 Digital Experience Quarterly Plan & OKRs</a></li>
+    <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/85">FY23Q1 Digital Experience Quarterly Plan & OKRs</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/3">FY22Q4 Digital Experience Quarterly Plan & OKRs</a></li>    
+    <li><a href="https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/385">FY22Q3 Digital Experience Quarterly Plan & OKRs</a></li>
 </details>
 <details>
     <summary>Content Wireframe Instructions</summary>
