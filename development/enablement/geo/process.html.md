@@ -238,6 +238,10 @@ Expectations:
 
 | Month     | Name |
 | -------   | ---- |
+| **2022**  |      |
+| July      | [`@cat`](https://gitlab.com/cat) |
+| June      | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
+| May       | [`@mkozono`](https://gitlab.com/mkozono) |
 | April     | @ibaum |
 | March     | @cat |
 | February  | @dbalexandre |

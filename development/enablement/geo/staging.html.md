@@ -99,6 +99,9 @@ The main goals for this rotation:
 | Month     | Name             |
 | -----     | ------           |
 | **2022**  | |
+| July      | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
+| June      | [`@mkozono`](https://gitlab.com/mkozono) |
+| May       | [`@cat`](https://gitlab.com/cat) |
 | April     | [`@mkozono`](https://gitlab.com/mkozono) |
 | March     | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
 | February  | [`@cat`](https://gitlab.com/cat) |
