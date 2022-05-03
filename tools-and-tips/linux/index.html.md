@@ -77,9 +77,11 @@ To summarize our install process to meet GitLab standards, we will go the follow
 
 ### Alternate Installation
 
-In some cases the "recovery" process when trying to encrypt the hard drive has failed for other team members, in other cases they decided they wanted to use a more recent version of the Ubuntu operating system than what the Dell Ubuntu version is. Either way, you can follow these steps. **These steps assume you have the "Backup" USB drive created during the Initital Installation instructions.**
+In some cases the "recovery" process when trying to encrypt the hard drive has failed for other team members, in other cases they decided they wanted to use a more recent version of the Ubuntu operating system than what the Dell Ubuntu version is. Either way, you can follow these steps. **These steps assume you have the "Backup" USB drive created during the Initial Installation instructions.**
 
-You will need a copy of vanilla Ubuntu copied onto a UEFI bootable USB drive (labeled "Ubuntu", and this will be a fairly straight-forward Ubuntu install. The instructions assume Ubuntu 18.04 LTS, although you can do the same with a later version, including non-LTS versions.
+If you must configure a fresh Ubuntu install on the Dell yourself, you may not be able to perform any steps involving the "Backup" USB drive. In this case, ignore these steps, but all other instructions remain applicable.
+
+You will need a copy of vanilla Ubuntu copied onto a UEFI bootable USB drive (labeled "Ubuntu", and this will be a fairly straight-forward Ubuntu install. The instructions assume Ubuntu 18.04 or 20.04 LTS, although you can do the same with a later version, including non-LTS versions.
 
 * Insert the USB drive labeled "Ubuntu" into the USB port and boot. Press F12 when you see the Dell logo. You will reach a boot screen which lists the following (if you do not reach the boot screen, try restarting again and hitting F12 quickly and repeatedly after the logo appears). Select your UEFI-compatible USB drive. This is important: If you do not use a UEFI USB device for your initial load, it could trick your install process into a non-UEFI style installation, rendering your laptop unbootable.
 * Once booted up, select Install Ubuntu.
@@ -155,10 +157,10 @@ This has reported to work with latest versions of the Nvidia drivers (as of Dec 
   required no matter what realm of work you are in:
   * `gcc`
   * `git`
-  * `libereadline-dev`
   * `libssl-dev`
   * `make`
   * `zlib1g-dev`
+  * `libereadline-dev` # Prior to Ubuntu 20.04
 * Abide by our [security practices](/handbook/security/):
 
 ## Production engineering
