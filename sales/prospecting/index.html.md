@@ -49,7 +49,13 @@ Work with your [Sales Development Representative (SDR)](https://about.gitlab.com
 - **Engagement data:** Target prospects that have recently engaged with GitLab marketing activity or website content multiple times.
 - **Intent data:** Target accounts that have demonstrated interest in a competitor and relevant industry trends.
 
-**Next, plan your approach and sequence with your team.** Have regular pipeline generation reviews and meetings (whether async or live) with your SDR and wider team to get input and advice on your approach.
+**Next, plan your approach and sequence with your team.** Have regular pipeline generation reviews and meetings (whether async or live) with your sales development team members and wider team to get input and advice on your approach.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/hnUUThsr9Us" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 Work with your SDR to:
 - Decide which format of approach is best (email, linkedin, phone), and what your cadence will be: 
@@ -96,7 +102,7 @@ Holding hurts our prospective customers because while they’re sitting there, t
 - [Most common customer use cases handbook page](https://about.gitlab.com/handbook/use-cases/)
 
 #### Training
-- [Keys to Successful Sales Pipeline Generation course](https://gitlab.edcast.com/insights/ECL-58b1b175-7c10-485e-a47c-fe29636943d2) (GitLab Learn - EdCast, 30 minutes)
+- [Pipeline Generation at GitLab](https://gitlab.edcast.com/pathways/pipeline-generation-at-gitlab) (GitLab Learn - EdCast, 35 minutes)
 - [Effective discovery course](https://gitlab.edcast.com/insights/ECL-c0a6e34d-a997-4200-b0d9-65e3305e3761) (GitLab Learn - EdCast, 40 minutes)
 - [Demystifying the metrics conversation](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#embrace-your-role-as-the-trusted-advisor) (Nico Ochoa video, 10 minutes)
 - [Pipeline Generation - Leading with Insights](https://www.youtube.com/watch?v=fNiGq5uOxgo) (GitLab Unfiltered, Nov 2019, 10 minutes)
