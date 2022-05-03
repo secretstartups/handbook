@@ -114,7 +114,7 @@ The Director, Certification Brand role is a [grade 10](https://about.gitlab.com/
 * A bias for action for developing awesome marketing assets (website, videos, success stories, blogs, print collateral).
 * Experience working in a fast-paced and highly cross-functional organization.
 
-## Performanc Indicators
+## Performance Indicators
 
 * The number of sign-ups to the certification program 
 * Measuring the social sharing of the certification program 
