@@ -202,7 +202,11 @@ Each Intermediate Support Engineer should generally be prioritizing their daily
 work according to the following list. Interviews, training, special assignments
 and other time-bound commitments are examples of good temporary exceptions to
 these priorities. Your group might also determine a different workflow or
-distribution of work that would create a different prioritized list. 
+distribution of work that would create a different prioritized list.
+
+You should think of this list as a tool for helping you to make decisions. When
+there are multiple things to be done, these priorities should guide you toward
+deciding which of them to do first.
 
 1. Handle emergencies if you are the Support Engineer On-Call or incidents if
    you are the CMOC.
