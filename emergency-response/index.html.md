@@ -32,7 +32,7 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 * **Alerting email team as soon as possible that there may be a send (even if it does not move forward)**
 * Providing FINAL email, landing page, form copy, autoresponder copy, etc.
     * NOTE: The addition of each item will increase scope and potentially delay announcement
-* [Requesting target list](https://gitlab.com/gitlab-data/analytics/-/issues/new) from Data Team
+* [Requesting target list (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new) from Data Team
 * Creating epic and corresponding issues
       * Creating Epic - [Template here](/handbook/marketing/emergency-response/#customer-comms-epic-issues)
       * Creating [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)
@@ -75,7 +75,7 @@ This is the process to follow when there is an announcement that is an emergency
 - Add Due Date (or best guess)
 - Include googlesheet of copy document, even if it is blank. Use [this template](https://docs.google.com/document/d/1J_prQ8rXRqEcPWxKd1YH4ANGP5UjMPoAfnjpY8ty0XE/edit)
 - Include approx size of the list - this will determine what email platform we will use and helps immensely in our planning. Over estimate when you are unsure.
-- If you are requesting a list, create an [issue](https://gitlab.com/gitlab-data/analytics/-/issues/new) with the data team and relate it to the issue you just created. 
+- If you are requesting a list, create an [issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new) with the data team and relate it to the issue you just created. 
 - Include any custom fields you need created for `mail-merge` in the email. Include field max lengths needed, or best guess. Mktops will determine if they can use an existing field or not.
 - Note if the links should not be trackable. (For Security alert types only)
 
@@ -107,7 +107,7 @@ The following approvers are needed for the copy and list size:
 ## Lists 
 
 1. For most emergency communications the requesting team should be providing a list as a Google Sheet in the issue request. 
-     - The Data team is able to pull a list from user table if necessary. Please [create an issue](https://gitlab.com/gitlab-data/analytics/-/issues/new) with the Data team.
+     - The Data team is able to pull a list from user table if necessary. Please [create an issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new) with the Data team.
 1. If a generic emergency communication the opt-in email list contained in Marketo can be used. 
 1. Seldomly, lists need to be created in Salesforce or Marketo using parameters found within the marketing database.  
      - Marketo & Salesforce **do not** contain all records within the user table
@@ -239,7 +239,7 @@ The requestor (Security, TAM, etc.) will follow the process below to create the 
    - [ ] If list greater than 50k, most likely deploy with MailGun
 
 ### :books: Issues for requestor to create (shortcuts below)
-* [ ] [Request target list issue](https://gitlab.com/gitlab-data/analytics/-/issues/new) (Data Download Request template) - requestor open, Data Team DRI
+* [ ] [Request target list issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new) (Data Download Request template) - requestor open, Data Team DRI
 * [ ] [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications) - requestor open, MOps DRI
   - the email issue is blocked until requestor provides final copy
 * [ ] If landing page required: [Landing Page request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request) (optional, will increase scope and delay timeline) - requestor open, MOps DRI
