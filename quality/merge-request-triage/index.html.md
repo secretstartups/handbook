@@ -108,7 +108,7 @@ The inactive merge request policy was created to enable GitLab teams to focus ef
 
 1. Merge Requests without human interaction for more than 28 days are labeled as [~idle](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=idle)
     1. Idle Merge Reqeusts appear in the [weekly community contributions report](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/quality/community-contribution-mr-report.yml) which the [Contributor Success team](https://about.gitlab.com/handbook/engineering/quality/contributor-success/) monitors.
-    1. The [Contributor Success team](https://about.gitlab.com/handbook/engineering/quality/contributor-success/) will attempt to move these Merge Reqeusts forward.
+    1. The [Contributor Success team](https://about.gitlab.com/handbook/engineering/quality/contributor-success/) will attempt to move these Merge Requests forward.
 1. Merge Requests without human interaction for more than than 120 days are labeled as [~stale](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=stale)
     1. Once a Merge Request becomes stale, an Engineering Manager is pinged to decide if a GitLab team member will pick up the work on it or close the Merge Request.
 
