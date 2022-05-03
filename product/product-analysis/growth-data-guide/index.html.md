@@ -700,4 +700,4 @@ _This section will include a list of tips for dealing with data._
 
 ## Adding to this page
 
-Feel free to submit any questions, comments, or suggestions to the [issue associated with upcoming additions](https://gitlab.com/gitlab-data/analytics/-/issues/9110) to this page.
+Feel free to submit any questions, comments, or suggestions to the [issue associated with upcoming additions (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/9110) to this page.
