@@ -57,7 +57,7 @@ For a more extensive resource, see [GTM Product Analytics: Status, Gaps and the 
 
 ##### Step 3: [Deploy Product Analytics across entire GTM Motion](https://gitlab.com/groups/gitlab-com/-/epics/1013) `=> 40%`
 
-- ✅ [Deploy from Sisense to Salesforce and Gainsight](https://gitlab.com/gitlab-data/analytics/-/issues/6666)
+- ✅ [Deploy from Sisense to Salesforce and Gainsight (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/6666)
 - ✏️ Automate basic metrics for Create, Verify, and Secure within Salesforce and Gainsight to track and drive adoption and expansion
 - ✏️ [Enable GTM teams with best practices](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1092)
 
