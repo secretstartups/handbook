@@ -38,7 +38,7 @@ Here are some steps you can take to get started optimizing your profile.
 - Write a headline that creatively explains your role or passion.
 
 **2. Use a banner image**
-- Your banner image is a great way to visually associate yourself with GitLab or a subject matter area you're passionate about. You can find several GitLab-branded banners in the [corporate marketing repository](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/social-media/profile-assets/png/assets/_general/gitlab-linkedin-banner-general-2200x748.png).
+- Your banner image is a great way to visually associate yourself with GitLab or a subject matter area you're passionate about. You can find several GitLab-branded banners in the [corporate marketing repository](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/social-media/profile-assets/png/assets/_general/gitlab-linkedin-banner-general-2200x748.png) or at the [talent brand & engagement repository](https://gitlab.com/gitlab-com/people-group/talent-brand-and-engagement/-/tree/master/Social%20Media%20banners)
 
 **3. Write a summary**
 - Your summary should mirror your personal elevator pitch. It should tell people who you are and what you're passionate about.
