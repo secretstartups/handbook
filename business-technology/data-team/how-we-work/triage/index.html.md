@@ -340,7 +340,7 @@ Check on duplicate ids due to 2 different extractors, to ensure the data is gett
     select id, count(*) from "RAW"."ZUORA_STITCH"."SUBSCRIPTION"
     group by id
     having count(*) > 1
-**Note** Refer to the [MR](https://gitlab.com/gitlab-data/analytics/-/issues/10065#note_668365681) for more information.
+**Note** Refer to the [MR (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/10065#note_668365681) for more information.
 
 ### Source freshness errors 
 
@@ -352,7 +352,7 @@ See the [source contact spreadsheet](https://docs.google.com/spreadsheets/d/1VKv
 | ------------------------- |
 | DAG `gitlab_com_db_extract` <br> Task `gitlab-com-dbt-incremental-source-freshness`  <br> |
 | Background: This extract relies on a copy (replication) database of the GitLab.com environment. Its high likely that this is the root cause of a high replication [lag](https://prometheus-db.gprd.gitlab.net/graph?g0.expr=(pg_replication_lag)%20and%20on(instance)%20(pg_replication_is_replica%7Btype%3D~%22postgres-(archive)%22%7D%20%3D%3D%201)&g0.tab=0&g0.stacked=0&g0.range_input=1w&g1.expr=pg_long_running_transactions_age_in_seconds%7Btype%3D~%22postgres-(archive)%22%7D&g1.tab=0&g1.stacked=0&g1.range_input=6h). |
-| More information of the setup [here](https://gitlab.com/gitlab-data/analytics/-/issues/8283#note_537332709).  |
+| More information of the setup [here (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/8283#note_537332709).  |
 | Possible steps, resolution and actions: - Check for replication lag <br> - Pause the DAG if needed <br> - Check for data gaps <br> - Perform backfilling <br> - Reschedule the DAG  |
 | Note: The GitLab.com data source is a very important data source and commonly used. Please inform an update business stakeholders accordingly. |
 
@@ -381,7 +381,7 @@ The root cause of this issue is when new metrics are introduced in an upstream m
 
 Full refresh required as per instructions from [dbt models full refresh](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#dbt-models-full-refresh).
 
-An example for this failure is the issue: **[#11524](https://gitlab.com/gitlab-data/analytics/-/issues/11524)**
+An example for this failure is the issue: **[#11524 (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/11524)**
 
 ### Zuora Revenue Source and Target Column Mismatch
 
@@ -437,7 +437,7 @@ Validate in [GCS storage](https://console.cloud.google.com/storage/browser/zuora
 
 ## Triage FAQ
 **Is Data Triage 24/7 support or shift where we need to support it for 24 hours?** <br>
-We need to work in our normal working hour perform the list of task mentioned for the triage day in the [Triage Template](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=Data%20Triage&issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
+We need to work in our normal working hour perform the list of task mentioned for the triage day in the [Triage Template (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=Data%20Triage&issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
 
 **If any issue is found do we directly jump to fix it in production or take it as part of the incident and solve it within the defined time?** <br>
 On the Triage day the data team member present will look for all the failures, questions or errors in:
@@ -446,7 +446,7 @@ On the Triage day the data team member present will look for all the failures, q
 - The TDF dashboard in [Sisense](https://app.periscopedata.com/app/gitlab/756199/Trusted-Data-Dashboard)
 
 It includes all the failures since the last person did sign off and will create an issue for all the failures since then till the person signs off.
-If any data pipeline has broken and there is expected to be a delay in getting data loaded or refreshed. The concerned team has to be notified using the [Triage Template](https://gitlab.com/gitlab-data/analytics/-/issues/new?
+If any data pipeline has broken and there is expected to be a delay in getting data loaded or refreshed. The concerned team has to be notified using the [Triage Template (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new?
 
 **Is there ETA for a different kind of issue?** <br>
 If the pipeline is broken it needs to be fixed, currently we are working on defining SLO's for our data assets. For our data extraction pipelines, there is a comprehensive overview [here](/handbook/business-ops/data-team/platform/#extract-and-load/).

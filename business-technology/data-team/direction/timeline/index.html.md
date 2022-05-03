@@ -35,7 +35,7 @@ _Help GitLab Make Better Decisions, Faster_
 ### FY23-Q1
 
 - [FY23-Q1 Objectives and Planning Drumbeat](https://gitlab.com/gitlab-data/managers/-/issues/278) 
-- [FY23-Q1 Report Card](https://gitlab.com/gitlab-data/analytics/-/issues/12534)
+- [FY23-Q1 Report Card (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/12534)
 
 ### FY23-Q2
 
@@ -63,18 +63,18 @@ Our FY22 Direction was to accelerate the development of Trusted Data platform co
 With [GitLab's IPO on 2021-10-14](https://ir.gitlab.com/), FY22-Q3 turned out to be an incredible quarter for all of GitLab. But business carries on and the Data Team delivered several important projects over the quarter, including a new Solutions Architect Dashboard and new Working Group Issue-Prioritization Dashboard for [Customer Success ](/handbook/business-technology/data-team/data-catalog/#customer-success), advancements to [SAFE Data Controls](/handbook/business-technology/data-team/platform/safe-data/#accessing-a-safe-dashboard) for the entire company, new [Xactly](https://www.xactlycorp.com/) and [Marketo](https://www.marketo.com/) data for Finance and Marketing, respectively, and our first Data Science predictive model with [Propensity to Expand](/handbook/business-technology/data-team/organization/data-science/#projects) for Sales Strategy. A very solid quarter all around!
 
 - [FY22-Q3 Objectives](https://gitlab.com/gitlab-data/managers/-/issues/260)
-- [FY22-Q3 Release Roundup](https://gitlab.com/gitlab-data/analytics/-/issues/10090)
+- [FY22-Q3 Release Roundup (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/10090)
 - [FY22-Q3 Report Card](https://gitlab.com/gitlab-data/managers/-/issues/274)
-- [FY22-Q3 Handbook Jamboree](https://gitlab.com/gitlab-data/analytics/-/issues/9868)
-- [FY22-Q3 Data Team Handbook Updates](https://gitlab.com/gitlab-data/analytics/-/issues/9868)
-- [FY22-Q3 Release Roundup](https://gitlab.com/gitlab-data/analytics/-/issues/10090)
+- [FY22-Q3 Handbook Jamboree (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/9868)
+- [FY22-Q3 Data Team Handbook Updates (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/9868)
+- [FY22-Q3 Release Roundup (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/10090)
 
 ### FY22-Q2
 
-FY22-Q2 carried forward and completed several multi-quarter initiatives begun in FY22-Q1, including  adding SaaS Usage Data for Gainsight, shipping a new Company Metrics Dashboard, upgrading Data Access controls across the tech stack, and expanding the GTM Hub. The team continued to build-out GTM components of the Trusted Data Models and the investment in the area started to pay off, with increases in efficiency for Dashboard development and analysis as a result of using standard design patterns. A few additional improvements: rollout of the [Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning/), a [Handbook Jamboree](https://gitlab.com/gitlab-data/analytics/-/issues/9441), 3 [Data 3P Parties](https://docs.google.com/document/d/1cUtE75rbXzLCLpq3SDQS3TtsNTEmAAES6UJoZGoP0-Y/edit#heading=h.qq9lf68vhd66) (Pizza, Pet Peeves, and Predictions), and formalizing [Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) approaches.
+FY22-Q2 carried forward and completed several multi-quarter initiatives begun in FY22-Q1, including  adding SaaS Usage Data for Gainsight, shipping a new Company Metrics Dashboard, upgrading Data Access controls across the tech stack, and expanding the GTM Hub. The team continued to build-out GTM components of the Trusted Data Models and the investment in the area started to pay off, with increases in efficiency for Dashboard development and analysis as a result of using standard design patterns. A few additional improvements: rollout of the [Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning/), a [Handbook Jamboree (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/9441), 3 [Data 3P Parties](https://docs.google.com/document/d/1cUtE75rbXzLCLpq3SDQS3TtsNTEmAAES6UJoZGoP0-Y/edit#heading=h.qq9lf68vhd66) (Pizza, Pet Peeves, and Predictions), and formalizing [Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) approaches.
 
 - [FY22-Q2 Objectives](https://gitlab.com/gitlab-data/managers/-/issues/249)
-- [FY22-Q2 Data Team Handbook Updates](https://gitlab.com/gitlab-data/analytics/-/issues/8600)
+- [FY22-Q2 Data Team Handbook Updates (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/8600)
 - [FY22-Q2 Retrospective](https://gitlab.com/gitlab-data/managers/-/issues/262)
 - [FY22-Q2 Release Roundup](https://gitlab.com/gitlab-data/managers/-/issues/276)
 
@@ -85,7 +85,7 @@ FY22-Q1 was a very important quarter for the Data Team because the team complete
 - [FY22-Q1 Objectives](https://gitlab.com/gitlab-data/managers/-/issues/248) 
 - [FY22-Q1 Retrospective](https://gitlab.com/gitlab-data/managers/-/issues/259)
 - [FY22-Q1 Report Card](https://gitlab.com/gitlab-data/managers/-/issues/258)
-- [FY22-Q1 Handbook Jamboree](https://gitlab.com/gitlab-data/analytics/-/issues/8281)
+- [FY22-Q1 Handbook Jamboree (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/8281)
 - [FY22-Q1 Release Roundup](https://gitlab.com/gitlab-data/managers/-/issues/275)
 
 ---

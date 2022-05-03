@@ -34,9 +34,9 @@ From a Data Platform perspective, the solution delivers:
 
 Finally, this is the long-term automated solution for several ad-hoc issues completed over the past year, including:
 
-- [Pull customer & user data by Country](https://gitlab.com/gitlab-data/analytics/-/issues/3614)
-- [Country User Data](https://gitlab.com/gitlab-data/analytics/-/issues/4991)
-- [Upload GeoLite2 Free Database with Sheetload](https://gitlab.com/gitlab-data/analytics/-/issues/3621)
+- [Pull customer & user data by Country (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/3614)
+- [Country User Data (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/4991)
+- [Upload GeoLite2 Free Database with Sheetload (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/3621)
 
 ### Knowledge Assessment & Certificates
 
