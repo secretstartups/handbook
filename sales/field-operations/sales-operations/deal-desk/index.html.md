@@ -823,6 +823,7 @@ Effective Friday, 2022-04-08, Deal Desk manages AWS and GCP Private Offer creati
 - After a Private Offer request is made, Deal Desk will review the request and confirm the quote is tagged appropriately for AWS/GCP and confirm the Order Form acceptance section also includes AWS or GCP marketplace language.
 - Deal Desk will then create the private offer and send the offer to the contact identified by the opp owner. Notification emails will be sent to the opp owner to track the offer status.
 - At time of acceptance, an email will be sent to the GitLab Team and Deal Desk will chatter the documentation to close the deal.
+- The AWS deals do not need to be signed.
 - When the deal is Closed Won, the license key file/subscription details will be automatically sent to the 'Sold To' contact on the GitLab Order Form.
 
 #### Working with Deal Desk vs. Alliance Business Development Managers (ABDMs)
