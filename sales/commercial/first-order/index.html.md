@@ -141,5 +141,21 @@ The Alliances team can assist with connecting you to the Alliance Partner sales 
 ### Definition of what counts as a logo
 
 ## Frequently Asked Questions (FAQ)
-
+1. Which departments does the FO team work most closely with and who are the main contacts?
+1. Which internal meetings and slack channels are important to attend/follow? 
+1. What accounts can MM FO work (FO vs. Territory) and what counts as a new logo? 
+1. How many opportunities are at least expected to be created each month? 
+1. What does the handoff process post sale look like? 
+1. Who is responsible to response to incoming leads? 
+1. Which leads can be worked by the FO AE? 
+1. What accounts should be worked by the BDR team? 
+1. What if a client purchases seats online after talking to the AE? 
+1. How do I create a quote? 
+1. Where can I find sales material like customer deck, case studies etc.?
+1. Why do we record calls? 
+1. What's important to know about accurate forcasting? 
+(Red/Green, close date convention)  
+1. What is the most efficient way of prospecting? What tools are being used to find potential clients?
+1. What are good call notes / next steps? 
+1. How does Gitlab handle discount requests? What is the guidline? 
 
