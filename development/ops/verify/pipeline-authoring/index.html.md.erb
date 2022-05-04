@@ -169,19 +169,36 @@ We aim to achieve key outcomes in each phase in order to de-risk subsequent phas
 
 Development moves through [workflow states](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary) as follows:
 
- 1. `workflow::validation backlog`
- 1. `workflow::problem validation`
- 1. `workflow::ready for design` 
- 1. `workflow::design` 
- 1. `workflow::solution validation`
- 1. `workflow::planning breakdown` 
- 1. `workflow::ready for development`
- 1. `workflow::in dev`
- 1. `workflow::blocked` (as necessary)
- 1. `workflow::in review`
- 1. `workflow::verification`
- 1. `workflow::production`
- 1. `Closed`
+```mermaid
+flowchart LR
+ vb(Validation backlog)
+ pv(Problem validation)
+ rdn(Ready for design)
+ d(Design)
+ sv(Solution validation)
+ pb(Planning breakdown)
+ rdv(Ready for development)
+ id(In dev)
+ ir(In review)
+ v(Verification)
+ c[Closed]
+ b(Blocked)
+
+subgraph Design
+vb --> pv --> rdn --> d --> sv
+end
+
+subgraph Engineering
+id --> ir --> v --> c
+end
+
+subgraph Scheduling
+pb --> rdv
+pb <--> b <--> rdv
+end
+
+Design <--> Scheduling <--> Engineering
+```
 
 We use workflow labels to efficiently communicate an issue's state. Using these labels enables collaboration across teams and communicates an issue's current state. The DRIs throughout each phase of the workflow are responsible for keeping the workflow labels up-to-date.
 
