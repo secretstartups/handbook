@@ -898,7 +898,7 @@ The event cards section of the file will look something like this:
 - **icon:** Can be either `/nuxt-images/icons/slp-webcast.svg` or `/nuxt-images/icons/slp-calendar.svg`.
 - **aos_{value}**: These are used for the card animations - please don't edit.
 
-After making your edits, please tag an Engineer on the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/#team) as a `Reviewer`. For further assistance, feel free to post a question in the #digital-experience-team slack channel. 
+After making your edits, please tag an Engineer on the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/digital-experience/#team) as a `Reviewer`. For further assistance, feel free to post a question in the #digital-experience-team slack channel. 
 
 
 ## GitLab Government User Group Program  
