@@ -74,4 +74,5 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | Member                | Dennis Tang | Engineering Manager, Manage:Compliance |
 | Member                | Nick Nguyen | Senior Engineering Manager, Datastores |
 | Member                | Kyle Wiebers | Engineering Manager, Engineering Productivity | 
-| Member                | Darva Satcher | Senior Engineering Manager, Create / Ecosystem Stage | 
+| Member                | Darva Satcher | Senior Engineering Manager, Create / Ecosystem Stage |
+| Member                | Ezekiel Kigbo | Senior Frontend Engineer, Manage:Optimize |
