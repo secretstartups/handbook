@@ -170,6 +170,7 @@ The following articulates where collaboration and customer management is owned:
    1. [**Ultimate Feature Exploration Checklist**](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/.gitlab/issue_templates/ultimate_features.md): Issue template that can be made into an issue in a customer's account management project. To be shared with the customer if they want to learn more about GitLab Ultimate features.
 1. [**Google Drive**](https://drive.google.com/drive/u/0/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U): Internal. Used to capture call notes and other customer related documents.
 1. [**Chorus**](/handbook/business-ops/tech-stack/#chorus): Internal. Used to record Zoom calls.
+   1. [**Using Calendly with Chorus**](/handbook/customer-success/tam/calendly/): Instructions on Calendy set up with Chorus. 
 1. [**Gainsight**](/handbook/customer-success/tam/gainsight/): Internal. Used to track customer health score, logging [customer activity](/handbook/customer-success/tam/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
 1. [**Issue Prioritization Dashboard**](/handbook/customer-success/tam/issue-prioritization/): Internal. Used to track customer requested issues.
 
