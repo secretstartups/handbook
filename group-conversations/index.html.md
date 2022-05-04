@@ -287,7 +287,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | @kristie.thomas |
 | [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Cindy Blake | No | Optional | | TBH: EBA to CMSO | 
 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | Darren Murph | No | Optional | | TBH: EBA to CMSO | 
-| [Digital Experience](/handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No | Optional | | TBH: EBA to CMSO | 
+| [Digital Experience](/handbook/marketing/digital-experience/) | Michael Preuss | No | Optional | | TBH: EBA to CMSO | 
 | [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Adam Mittner | No | Optional | | TBH: EBA to CMSO | 
 | [UX Research](/handbook/engineering/ux/ux-research/) | Adam Smolinski | No | Optional | | TBH: EBA to Engineering | 
 | [Community Relations](/handbook/marketing/community-relations/) | David Planella | No | Optional | | TBH: EBA to CMSO | 
