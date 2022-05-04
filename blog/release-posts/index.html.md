@@ -1322,7 +1322,7 @@ This video walkthrough will help you understand the difference between deprecati
 
 #### Deprecations
 
-_To be added by Product Managers or Engineering Managers and merged by Technical Writers._
+_To be added by Product Managers or Engineering Managers and merged by Technical Writers at least 3 milestones ahead of the planned removal date. For example, if the intended removal milestone is `15.0`, given the following release schedule: `14.8, 14.9, 14.10, 15.0` – `14.8` is the third milestone preceding intended removal._
 
 All deprecations will be published by milestone in [GitLab Docs](https://docs.gitlab.com/ee/update/deprecations.html) via the workflow outlined below. Deprecations are not listed individually on the release post page.
 
@@ -1365,7 +1365,7 @@ Watch the video below to better understand how to create deprecation entries:
 
 #### Removals
 
-_To be added by Product Managers or Engineering Managers and merged by Technical Writers._
+_To be added by Product Managers or Engineering Managers and merged by Technical Writers during the milestone in which the removal will happen. To reduce confusion for customers, removal announcements should not be merged into Docs until the code removal has happened in the product._
 
 Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward-compatible and breaking changes are recommended for a major release, whereas backward-compatible changes can be introduced in a minor release.
 
