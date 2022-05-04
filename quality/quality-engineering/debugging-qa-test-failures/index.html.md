@@ -407,37 +407,35 @@ To quarantine a test:
 
 To be sure that the test is quarantined quickly, ask in the `#quality` Slack channel for someone to review and merge the merge request, rather than assigning it directly.
 
-Here is an [example quarantine merge request](https://gitlab.com/gitlab-org/gitlab/merge_requests/23334/diffs).
+Here is an [example quarantine merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/83575/diffs).
 
 #### Quarantined Test Types
 
 If a test is placed under quarantine, it is important to specify _why_. By specifying a quarantine type we can see
 quickly the reason for the quarantine.
 
-The report accepts custom quarantine types, but we follow the below guidelines for the most commonly
-recurring reasons.
+The report only accepts the quarantine types in the below guidelines.
 
-| Quarantine Type | Requires `:issue`? | Description |
-| --------------- | :--------------: | ----------- |
-| [`:flaky`] | Yes | This test fails intermittently |
-| [`:bug`] | Yes | This test is failing due to an _actual bug_ in the application |
-| `:waiting_on` | Yes | This test is quarantined temporarily due to an issue or MR that is a prerequisite for this test to pass |
-| `:investigating` | No | This test is a `:flaky` test but it might be blocking other MRs and so should be quarantined while it's under investigation |
-| [`:stale`] | No | This test is outdated due to a feature change in the application and must be updated to fit the new changes |
+| Quarantine Type | Description |
+| --------------- | ----------- |
+| [`:flaky`] | This test fails intermittently |
+| [`:bug`] | This test is failing due to an _actual bug_ in the application |
+| [`:stale`] | This test is outdated due to a feature change in the application and must be updated to fit the new changes |
+| `:broken` | This test is failing because of a change to the test code or framework |
+| `:waiting_on` | This test is quarantined temporarily due to an issue or MR that is a prerequisite for this test to pass |
+| `:investigating` | This test is a `:flaky` test but it might be blocking other MRs and so should be quarantined while it's under investigation |
+| `:test_environment` | This test is failing due to problems with the test environment and will not be fixed within 24 hours |
 
-> **Note** Be sure to attach an `issue` to the quarantine metadata if there is a related issue or merge request
-> for maximum visibility
+> **Note**: Be sure to attach an `issue` to the quarantine metadata. We use this issue for tracking the average age of the quarantined tests.
 
 #### Examples
 
 ``` ruby
-it 'is flaky', quarantine: 'https://gitlab.com/gitlab-org/gitlab/issues/12345'
 it 'is flaky', quarantine: { issue: 'https://gitlab.com/gitlab-org/gitlab/issues/12345', type: :flaky }
 it 'is due to a bug', quarantine: {
                         issue: 'https://gitlab.com/gitlab-org/gitlab/issues/12345',
                         type: :bug
                       }
-it 'is being worked on', quarantine: { type: :investigating }
 context 'when these tests rely on another MR', quarantine: {
                                                  type: :waiting_on,
                                                  issue: 'https://gitlab.com/gitlab-org/gitlab/merge_requests/12345'
@@ -451,7 +449,7 @@ to the test being quarantined.
 
 ```ruby
 # Good
-RSpec.describe 'Plan', :smoke, quarantine: 'https://gitlab.com/gitlab-org/gitlab/issues/12345' do
+RSpec.describe 'Plan', :smoke, quarantine: { issue: 'https://gitlab.com/gitlab-org/gitlab/issues/12345', type: :flaky } do
   describe 'Feature' do
     before(:context) do
       # This before(:context) block will only be executed in smoke quarantine jobs
@@ -461,7 +459,7 @@ end
 
 # Bad
 RSpec.describe 'Plan', :smoke do
-  describe 'Feature', quarantine: 'https://gitlab.com/gitlab-org/gitlab/issues/12345' do
+  describe 'Feature', quarantine: { issue: 'https://gitlab.com/gitlab-org/gitlab/issues/12345', type: :flaky } do
     before(:context) do
       # This before(:context) block could be mistakenly executed in quarantine jobs that _don't_ have the smoke tag
     end
