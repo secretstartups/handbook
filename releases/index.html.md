@@ -357,6 +357,19 @@ Depending on the bug details, follow one of the following processes:
 - For [high severity bugs affecting self-managed users][process-patch-release]. If the bug has been found close to the 22nd of the month please also alert the Release Managers in [#releases]. 
 - For [high severity bugs affecting GitLab.com](https://about.gitlab.com/handbook/engineering/releases/#gitlabcom-releases)
 
+### How can I revert a security merge request?
+
+Once a security merge request has been merged, it's not advisable to revert it for multiple reasons:
+
+1. Reverting requires rolling back a security fix, compromising the integrity of GitLab.com and self-managed instances
+1. Reverting without making another fix into the release risks disclosing the vulnerability to the public when we make the release.
+   For high severity vulnerabilities, this is unacceptable
+1. Security releases are performed in a restricted time constraint, reverting a security merge request requires another fix to be
+   prepared in time to avoid impacting the security release timeframe 
+
+If a security vulnerability introduced a bug, in most cases, the appropriate path forward is to fix the issue in the canonical repository (after the security release has been published).
+
+If a security vulnerability introduced a high severity bug, engage with AppSec and release managers to coordinate next steps. 
 
 ___________
 
