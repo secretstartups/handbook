@@ -19,13 +19,23 @@ description: "Continuous education webcast series for GitLab sales team members"
 ## Upcoming Training
 To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Spring 2022 Lineup**
+**Summer 2022 Lineup**
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Apr 14 | TBD | TBD |
-| Apr 21 | *No session during the last two weeks of the quarter* | N/A |
-| Apr 28 | *No session during the last two weeks of the quarter* | N/A |
+| May 5 | AWS Alliances: New AWS Marketplace listing and upcoming Credit Promotion | TBD |
+| May 12 | TBD | TBD  |
+| May 19 | 15.0 Release | Cindy B.  |
+| May 26 | ROI Calculators | Cindy B.  |
+| Jun 2 | Q2 FY23 Channel Update | TBD  |
+| Jun 9 | TBD | TBD  |
+| Jun 16 | TBD | TBD  |
+| Jun 23 | TBD | TBD  |
+| Jun 30 | Q2 FY23 Customer References Update | TBD  |
+| Jul 7 | TBD | TBD  |
+| Jul 14 | Storage and Transfer Data Limits Update | TBD  |
+| Jul 21 | *No session during the last two weeks of the quarter* | N/A |
+| Jul 28 | *No session during the last two weeks of the quarter* | N/A |
                                                                                                                                    
 ## Past Sessions
 <details>
