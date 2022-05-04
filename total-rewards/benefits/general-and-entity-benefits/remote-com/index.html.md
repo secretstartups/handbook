@@ -73,7 +73,8 @@ All of the benefits listed below are administered and managed by [Remote](https:
 
 ### Medical
 
-GitLab does not plan to offer Private Health Insurance at this time because team members in Denmark can access the [public healthcare system](https://www.healthcaredenmark.dk/). This healthcare system covers all the team members and their family members.
+Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $113. 
+Team members in Denmark can also access the [public healthcare system](https://www.healthcaredenmark.dk/). This healthcare system covers all the team members and their family members.
 
 ### Pension
 
@@ -83,9 +84,6 @@ Remote will directly contribute to a Group Pension Plan (Soderberg & Partners). 
 ### Life Insurance
 
 GitLab does not plan to offer life insurance at this time as team members can access the benefits from Social insurance system if they get ill, injured or have a disability. The [GitLab Life Insurance plan](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
-
-
-
 ### Remote - Denmark Statutory Leave Policies
 Below is the information related to Denmark's statutory leave policies.  Please note that team members hired in Denmark are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
@@ -161,6 +159,46 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 * **Adoption Leave:** Adoptive parents are entitled to 4 weeks of leave prior to receiving the child, if the adoptive parents have to reside outside of Denmark to adopt. If the child is adopted in Denmark, and it is necessary to reside where the place child is situation, parents are eligible for one week of leave before the adoption. **In all cases of adoption, one of the adoptive parents is entitled to adoption leave of 14 weeks and the other with to leave with statutory benefits for 2 weeks. The remaining 12 weeks can be split between the adoptive parents.**
 
 * **Care leave(omsorgsdage):** Intended to allow team members to care for a sick child. This is not a statutory requirement, but is common.
+
+## Sweden
+
+All of the benefits listed below are administered and managed by [Remote](https://remote.com/country-explorer/sweden)
+
+### Healthcare
+
+Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $113. 
+
+### Pension
+
+The Swedish Pension is with Nordnet Hållbar/SPP
+
+This plan has required enrollment for all employees. There is no opt-out option.
+
+_Contribution rates are:_
+
+* On Pensionable Salary between 0 and 7.5 x the Income Base Amount (IBA*) = 4.5% On Pensionable Salary between 7.5 and 30 x the IBA = 30% No contributions are payable on Pensionable Salary above 30 x the IBA.
+* The company pays all the contributions and no contributions are required from employees.
+* Pensionable salary is defined as Basic Salary only.
+* Membership of the pension scheme is open to employees aged 18 to 65.
+
+### Life Insurance
+
+Mandatory TGL life insurance is provided via Bliwa Livförsäkring. Lump sum benefit: the basic amount is SEK 285,600 (6 x Price Base Amount – PBA*) upon death before age 55, or after age 55 if there are children under age 17. It decreases for death above age 55, to 1 times PBA between age 64 and age 65.
+
+### Remote - Sweden Statutory Leave Policies
+Below is information related to Sweden's statutory leave policies.  Please note that team members hired in Sweden are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
+
+### Holiday Leave
+Part-time and full-time employees are entitled to 25 days of paid time off per year. Employers are required to enforce the use of their employees’ vacation time. Employees may roll over vacation days for up to five years, but employers should not let employees fail to take time off.
+
+### Sick Leave
+Employers in Sweden must compensate employees at 80% of their salary for the first 14 days of sick leave. For any sick leave beyond 14 days, employees must apply for long-term illness benefits with the Swedish Social Insurance Office.
+
+### Parental (föräldraledighet) Leave
+Sweden's Parental (föräldraledighet) Leave affords parents 480 days of leave; 390 of these days paid at a rate of 80% of your salary up to a capped limited of 1006 SEK a day.  If you have twins, you are eligible for an additional 180 days.  Parents are encouraged to split these days equally between them.  However, it is possible for one parent to take up to 390 days of the 480 days. To do this the other parent has to ‘transfer’ these days to the other parent. 
+
+#### Eligibility
+As long as you are a legal resident of Sweden you are entitled to the basic parental leave payment which is 250 SEK a day. To claim your benefit and find out how much you are entitled to, employees should contact your local branch of Försäkringskassan.
 
 ## South Africa
 
