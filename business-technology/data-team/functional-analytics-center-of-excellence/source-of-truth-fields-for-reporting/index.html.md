@@ -85,6 +85,7 @@ hesitate to reach out to other analysts for help.
 
 **Other resources**
 
+* [Definitive Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/)
 * [gitlab.com database table information](https://gitlab.com/gitlab-org/gitlab/-/tree/master/db/docs)
   * Soon to be added to the metrics dictionary (Epic [here](https://gitlab.com/groups/gitlab-org/-/epics/7919))
 * [Epic related to setup_for_company data](https://gitlab.com/groups/gitlab-org/-/epics/6487)
