@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
 title: "Lyle Kozloff's README"
-description: "Personal readme page for Lyle Kozloff, Senior Support Engineering Manager, GitLab"
-job: "Senior Support Engineering Manager (Americas West)"
+description: "Personal readme page for Lyle Kozloff, Director, Support Engineering, Global Readiness, GitLab"
+job: "Director of Support, Global Readiness"
 ---
 ### My Job
 My job is to clear obstacles, set context, and build process. In general: to make your (work)
