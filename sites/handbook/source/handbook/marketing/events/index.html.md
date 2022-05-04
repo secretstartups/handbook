@@ -797,7 +797,7 @@ If you need more information about our exact involment in an specific event plea
 Save event images and headers here: Save images for featured events [here](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/events)
 
 
-If you don't have merge permissions, or if you're having trouble with the pipeline, you can assign an [Engineer on the Digital Experience team](/handbook/marketing/inbound-marketing/digital-experience/#team) (commonly, `@lduggan`) to be a **Reviewer** on the MR, or post in #digital-experience-team on slack. 
+If you don't have merge permissions, or if you're having trouble with the pipeline, you can assign an [Engineer on the Digital Experience team](/handbook/marketing/digital-experience/) (commonly, `@lduggan`) to be a **Reviewer** on the MR, or post in #digital-experience-team on slack. 
 
 ### Details to be included (all of which are mandatory in order for your MR to pass the build):
 
