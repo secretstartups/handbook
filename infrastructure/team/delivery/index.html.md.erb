@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Delivery Team"
-description: "The Delivery Team enables GitLab Engineering to deliver features in a safe, scalable and efficient fashion to both GitLab.com and self-managed customers."
+title: "Delivery Group"
+description: "The Delivery Group enables GitLab Engineering to deliver features in a safe, scalable and efficient fashion to both GitLab.com and self-managed customers."
 ---
 
 ## On this page
@@ -23,20 +23,20 @@ description: "The Delivery Team enables GitLab Engineering to deliver features i
 
 ## Mission
 
-The Delivery Team enables GitLab Engineering to deliver features in a
+The Delivery Group enables GitLab Engineering to deliver features in a
 **safe**, **scalable** and **efficient** fashion to both GitLab.com and self-managed customers.
-The team ensures that GitLab's monthly, security, and patch releases are deployed to GitLab.com and
+The group ensures that GitLab's monthly, security, and patch releases are deployed to GitLab.com and
 publicly released in a timely fashion.
 
 ## Vision
 
-By its own nature, the Delivery team is a backstage, non-user feature facing team whose product
+By its own nature, the Delivery group is a backstage, non-user feature facing team whose product
 and output has a direct impact on Infrastructure's primary goals of **availability**, **reliability**,
 **performance**, and **scalability** of all of GitLab's user-facing services as well as self-managed
-customers. The team creates the workflows, frameworks, architecture and automation for Engineering teams
+customers. The group creates the workflows, frameworks, architecture and automation for Engineering teams
 to see their work reach production effectively and efficiently.
 
-The Delivery team is focused on our [CI/CD blueprint](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/ci-cd/index.md)
+The Delivery group is focused on our [CI/CD blueprint](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/ci-cd/index.md)
 by driving the necessary changes in our software development processes and workflows, as well as
 infrastructure changes, to embrace the benefits of CI/CD.
 
@@ -63,7 +63,7 @@ infrastructure changes, to embrace the benefits of CI/CD.
 
 ## Strategy
 
-The Delivery team significantly contributes to [the Platforms Infrastructure department direction for FY23](/handbook/engineering/infrastructure/platforms/#fy23-direction) in the following ways:
+The Delivery Group significantly contributes to [the Platforms Infrastructure department direction for FY23](/handbook/engineering/infrastructure/platforms/#fy23-direction) in the following ways:
 
 1. [Achieve 50% growth year-on-year in engagement surveys results compared to FY22](/handbook/engineering/infrastructure/platforms/#1-achieve-50-growth-year-on-year-in-engagement-surveys-results-compared-to-fy22)
   * By the end of Q1FY23: Mature and align the Delivery hiring process with the overall Platform process
@@ -80,7 +80,7 @@ The Delivery team significantly contributes to [the Platforms Infrastructure dep
 
 ## Top-level Responsibilities
 
-The team regularly works on the following tasks, in the order of priority:
+The group regularly works on the following tasks, in the order of priority:
 
 1. Ensuring continuous delivery of GitLab application software to GitLab SaaS.(e.g. [GitLab SaaS auto-deploy](https://gitlab.com/groups/gitlab-org/release/-/epics/13))
 1. Coordination and preparation of GitLab releases for self-managed users for the monthly patch and security releases.
@@ -90,9 +90,19 @@ The team regularly works on the following tasks, in the order of priority:
 1. Minimizing the use of custom tooling by building or enhancing features within GitLab (e.g. [Create a Changelog feature](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/351)).
 1. Support other teams' needs related to software delivery on GitLab SaaS (e.g. [New Container Registry deployment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/412)).
 
-## Team
+## Teams
 
-Each member of the Delivery team is part of this vision:
+The Delivery Group is composed of two teams: `Delivery:Orchestration` and `Delivery:System`.
+
+### Delivery:Orchestration
+
+The primary goal of the Orchestration team is to provide functionality to enable stage groups to adopt self-serve deployments and releases.
+
+### Delivery:System
+
+The primary goal of the System team is to provide a flexible and stable deployment platform onto which the application can be effectively and efficiently deployed.
+
+Each member of the Delivery group is part of this vision:
 
 * Each team member is able to work on all team projects
 * The team is able to reach a conclusion independently all the time, consensus most of the time
@@ -101,9 +111,13 @@ Each member of the Delivery team is part of this vision:
 
 ### Team Members
 
-The following people are members of the Delivery Team:
+The following people are members of the Delivery:Orchestration Team:
 
-<%= direct_team(manager_role: 'Engineering Manager, Delivery')%>
+<%= direct_team(manager_slug: 'amyphillips')%>
+
+The following people are members of the Delivery:System Team:
+
+<%= direct_team(manager_slug: 'mbursi')%>
 
 ## Team counterparts
 
@@ -113,8 +127,8 @@ The following members of other functional teams are our stable counterparts:
 
 ## Performance indicators
 
-Delivery team contributes to [Engineering function performance indicators] through [Infrastructure department performance indicators].
-The team's main performance indicator is [**M**ean **T**ime **T**o **P**roduction][MTTP] (MTTP), which serves to show how quickly a change introduced through a Merge Request
+Delivery group contributes to [Engineering function performance indicators] through [Infrastructure department performance indicators].
+The group's main performance indicator is [**M**ean **T**ime **T**o **P**roduction][MTTP] (MTTP), which serves to show how quickly a change introduced through a Merge Request
 is reaching production environment (GitLab.com).
 At the moment of writing, the target for this PI is defined in this [key result][KI lower MTTP] epic.
 
@@ -124,7 +138,7 @@ MTTP is further broken down into charts and tables at the [Delivery Team Perform
 
 ### Project Management
 
-The Delivery team work is tracked through number of epics, issues, and issue boards.
+The Delivery group work is tracked through a number of epics, issues, and issue boards.
 
 Epics and issue boards are complementary to each other, and we always strive to have a 1-1 mapping between a working epic and an issue board.
 Epics describe the work and allows for general discussions, while the issue board is there to describe order of progress in any given epic.
@@ -161,7 +175,7 @@ Each working epic should be accompanied by an issue board. Issue boards should b
 
 ### Labels
 
-The canonical issue tracker for the Delivery team is at [gl-infra/delivery][issue tracker]. Issues are automatically labeled if no labels are applied using the [triage ops] project.
+The canonical issue tracker for the Delivery group is at [gl-infra/delivery][issue tracker]. Issues are automatically labeled if no labels are applied using the [triage ops] project.
 The default labels defined in the [labeling library](https://gitlab.com/gitlab-com/gl-infra/triage-ops/-/blob/master/lib/delivery/default_labeling.rb).
 
 By default, an issue needs to have a:
@@ -172,7 +186,7 @@ By default, an issue needs to have a:
 
 #### Workflow
 
-The Delivery team leverages scoped `workflow-infra` labels to track different stages of work.
+The Delivery group leverages scoped `workflow-infra` labels to track different stages of work.
 
 On the [Planning board] problems are discussed and scoped so that we have enough information to prioritise and implement the solution.
 
@@ -217,7 +231,7 @@ Label `workflow-infra::Done` is applied to signify completion of work, but its s
 
 #### Priority Labels
 
-The Delivery team uses priority labels to indicate order under which work is next to be picked up. Meaning attached to priorities can be seen below:
+The Delivery group uses priority labels to indicate order under which work is next to be picked up. Meaning attached to priorities can be seen below:
 
 | Priority level  | Definition |
 | --------------- | ---------- |
@@ -226,7 +240,7 @@ The Delivery team uses priority labels to indicate order under which work is nex
 | Delivery::P3 | Issue should be completed once other urgent work is done. |
 | Delivery::P4 | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. Issue might be completed in future or work completely abandoned. |
 
-The team uses priority labels differently to the [general issue triage priority definition](/handbook/engineering/quality/issue-triage/#priority) in order to avoid ambiguity that comes with difference in timelines between Stage teams and Infrastructure teams. We have different timelines (release brings different expectations for Delivery), different DRI's (no PM for Delivery), and different importance (Blocked release means that no one can ship anything).
+The group uses priority labels differently to the [general issue triage priority definition](/handbook/engineering/quality/issue-triage/#priority) in order to avoid ambiguity that comes with difference in timelines between Stage teams and Infrastructure teams. We have different timelines (release brings different expectations for Delivery), different DRI's (no PM for Delivery), and different importance (Blocked release means that no one can ship anything).
 
 #### Other Labels
 
@@ -241,14 +255,14 @@ Project labels are defined as needed, but they are required unless the issue des
 
 ### Choosing something to work on
 
-The Delivery team generally has working epics assigned to specific owners who are responsible for bringing tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to.
+The Delivery group generally has working epics assigned to specific owners who are responsible for bringing tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to.
 If you want to work on something outside of your current project, feel free to contribute to any of the mid to lower priority labeled issues.
 
 ## Project demos
 
-As part of the project, we might decide to organize project demo's. The decision on creating a demo depends on the expected longevity of the project, but also on the complexity of it.
+As part of the project, we might decide to organize project demos. The decision on creating a demo depends on the expected longevity of the project, but also on the complexity of it.
 
-The purpose of the demo is to ensure that everyone who participates in the project has a way of sharing their findings and challenges they might be encountering outside of the regular async workflow. The demo's do not have presentations attached to it, and they require no prior preparation.
+The purpose of the demo is to ensure that everyone who participates in the project has a way of sharing their findings and challenges they might have encountered outside of the regular async workflow. The demos do not have presentations attached to them, and they require no prior preparation.
 The demoer shouldn't feel like they have to excuse themselves for being unprepared, and expect that their explanation without faults. In fact, if what is being demoed is showing off no weaknesses, we might have not cut scope in time.
 
 It is encouraged to show and discuss:
@@ -260,7 +274,7 @@ It is encouraged to show and discuss:
 
 ### Team training
 
-Every Delivery team member is responsible for sharing skills either through creating a training session for the rest of the team, or through paired work.
+Every Delivery group member is responsible for sharing skills either through creating a training session for the rest of the group or through paired work.
 See the page on [team training] for details.
 
 ## History
