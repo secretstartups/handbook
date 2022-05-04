@@ -15,7 +15,7 @@ This README is designed to give you a bit of background information on me.
 
 ## About me
 
-Hi! :wave: I started with GitLab in December, 2021 as a [Support Engineer](https://about.gitlab.com/job-families/engineering/support-engineer/) for the APAC region. 
+Hi! I started with GitLab in December, 2021 as a [Support Engineer](https://about.gitlab.com/job-families/engineering/support-engineer/) for the APAC region. 
 I live near [Sydney, Australia](https://en.wikipedia.org/wiki/Sydney) 🇦🇺  and my primary operating hours are [8 AM to 4 PM (Australian Eastern)](https://www.timeanddate.com/worldclock/australia/sydney).
 
 ## Coffee Chat topics
@@ -64,9 +64,11 @@ I come from a bare-metal, server hosting industry. This means a lot of my experi
 I have experience with a variety of networking concepts, particularly lower levels of the OSI model. When in doubt, remember: [It was DNS](https://www.reddit.com/r/sysadmin/comments/4oj7pv/network_solutions_haiku/d4czk91/?context=3). I enjoy the idea of "Self-Hosting" so I use docker to run a variety of services at home, running things like NextCloud, Pi-Hole and of course GitLab! 
 
 ## WFH Setup
+
 | Item | Brand |
 | ------ | ------ |
 | Web Camera | [Logitech C920 HD PRO WEBCAM](https://www.logitech.com/en-au/products/webcams/c920-pro-hd-webcam.960-000770.html) |
 | Microphone | [Audio-Technica AT2005USB](https://audio-technica.com.au/available-now-at2005usb-home-recording-podcasting-live-performance/) |
 | Chair | [AK Racing K7](https://ak-racing.com.au/products/akracing-k7012-gaming-chair-black-blue) |
 | Monitor | [Kogan 34" 144Hz Ultrawide](https://www.kogan.com/au/buy/kogan-34-wqhd-curved-219-ultrawide-144hz-hdr-gaming-monitor-3440-x-1440/) |
+| Headphones | [Sony Noise Cancelling WH1000XM4](https://www.sony.com.au/electronics/headband-headphones/wh-1000xm4)
