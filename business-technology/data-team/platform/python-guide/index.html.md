@@ -25,10 +25,10 @@ The main motivation to have comprehensive and useful Python guidelines is to ens
 ### Technology Standardisation 
 **Starting in Jan 2022** all new custom python extracts should adhere to the [**Singer standard**](https://www.singer.io/).
 
-#### High-level guidelines
+### High-level guidelines
 This section brings details on a high level of how to follow the best practices regarding `Python` code. Following recommendations, will ensure we are able to fully understand the advantage of high code quality and leverage our code base. 
 
-##### Zen of Python
+#### Zen of Python
 
 It is difficult to resist writing a python guide without mentioning the `Zen of Python`, a cornerstone for ensuring the code quality on a high level.
 It is a helpful mental exercise when you want to write outstanding Python without overlooking basic ideas.
@@ -61,7 +61,7 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 
-##### PEP 8
+#### PEP 8
 
 `PEP` stands for Python Enhancement Proposal, and there are several of them. A `PEP` is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.
 As per definition:
@@ -80,7 +80,7 @@ As per definition:
 
 Among many other things, it is vital to underscore the need to have a clean, clear and consistent code in order to be able to maintain and scale the codebase. 
 
-##### GitLab Zen of Python
+#### GitLab Zen of Python
 
 As a supplement of the `Zen of Python`, we had an intention to underscore a couple of more viewpoints to ensure and keep our code base in a good shape. This is half a joke, half a truth, but provides good general overview for the high standards we want to leverage.
 Here is our `GitLab Zen of Python` proposal:
@@ -96,14 +96,14 @@ Probably a couple more of them are count:
 * Favor a modular code style over script-like approach
 * Prefer using a virtual environment over existing interpreter
 
-#### Specific guidelines
+### Specific guidelines
 With a good framework definition on the high level of using the proper architectural approach for designing and structuring the `Python` code, now it is time to do a deep dive and leverage details should make the difference between good and the outstanding code.  
 
-##### Idioms
+#### Idioms
 A programming idiom, put simply, is nothing else but a way to write code. Idiomatic Python code is often referred to as being `Pythonic`. Although there is usually one — and preferably not only one — obvious way to do it. The way to write idiomatic Python code can be non-obvious to Python beginners. 
 So, good idioms must be consciously acquired.
 
-##### Explicit code
+#### Explicit code
 
 While _(almost)_ any kind of magic is possible with Python, the most explicit and straightforward manner is preferred. Keep it simple and smart.
 ```python
@@ -116,7 +116,7 @@ def foo(*args):
 def bar(x, y):
     return {'x': x, 'y': y}
 ```
-##### Function arguments
+#### Function arguments
 
 Arguments can be passed to routines in four different ways: 
 1. `Positional arguments` - for instance, `foo(message, recipient)`
@@ -128,7 +128,7 @@ It is up to the engineer writing the function to determine which arguments are p
 * easy to read (the name and arguments need no explanations)
 * easy to change (adding a new keyword argument does not break other parts of the code)
 
-##### Returning values
+#### Returning values
 
 When a function grows in complexity, it is not uncommon to use multiple return statements inside the function’s body. 
 However, in order to keep a clear intent and sustainable readability, it is preferable to avoid returning meaningful values from many output points in the body.
@@ -162,7 +162,7 @@ def bar(a, b, c):
     return res
 ```
 
-##### Unpacking
+#### Unpacking
 
 If you know the length of a list or tuple, you can assign names to its elements with unpacking. For example, since `enumerate()` will provide a tuple of two elements for each item in list:
 ```python
@@ -224,10 +224,10 @@ c = 3
 d = 4
 ```
 
-##### Conventions
+#### Conventions
 This section should expose effective techniques to deal with conventions and how to integrate them into your toolbox.
 
-###### Check if a variable equals a constant
+##### Check if a variable equals a constant
 It is not needed to explicitly compare a value to True, or None, or 0 – you can just add it to the if statement. See Truth Value Testing for a list of what is considered false.
 ```python
 ## Bad!
@@ -258,7 +258,7 @@ else:
     print('The list is empty.')
 ```
 
-###### String concatenation
+##### String concatenation
 
 There are many ways to do string concatenation. Here is just a short exercise on how to do that in an efficient way.
 ```python
@@ -300,7 +300,7 @@ print(f"{string1} {int1}")
 
 See why it is better to use placeholders instead of simple string concatenation (ie. `a + b`).
 
-###### Short Ways to Manipulate Lists
+##### Short Ways to Manipulate Lists
 
 * `List comprehensions` provides a powerful, concise way to work with lists.
 * `Generator expressions` follows almost the same syntax as list comprehensions but returns a generator instead of a list. This is crucial to remember: performance and memory matter, and it is a great consideration to understand the leverage of using generators where it is appropriate.
@@ -317,7 +317,7 @@ bar = max((student.id, student.name) for student in graduates)
 
 > **Note:** performance and memory resources matter!
 
-###### Comprehensions
+##### Comprehensions
 Comprehensions in Python provide us with a short and concise way to construct new sequences _(such as lists, set, dictionary etc.)_ using sequences which have been already defined. Python supports the following 4 types of comprehensions:
 
 * `List` Comprehensions
@@ -331,9 +331,9 @@ Comprehensions are the great example of `Pythonic` way of thinking, as provides 
 ```python
 output_list = [output_exp for var in input_list if (var satisfies this condition)]
 ```
-> Note: nested comprehensions are allowed as well, but it is not best practice to have more than 2 comprehensions in one statement.
+> **Note:** nested comprehensions are allowed as well, but it is not best practice to have more than 2 comprehensions in one statement.
 
-###### Filtering an iterables
+##### Filtering an iterables
 
 There are plenty of ways to filter an iterables. Let see some of them and how they fit in a high coding standards.
 ```python
@@ -373,7 +373,7 @@ filtered_values = [value for value in sequence if dummy_filter(value)]
 ```
 As an alternative, `map` | `filter` | `reduce` functions can be used for this purpose. Handy link is [**Map, Filter and Reduce**](https://book.pythontips.com/en/latest/map_filter.html)
 
-###### Modifying the values in a list
+##### Modifying the values in a list
 
 Remember that assignment never creates a new object. If two or more variables refer to the same list, changing one of them changes them all.
 ```python
@@ -420,7 +420,7 @@ for i, item in enumerate(foo):
 
 > **Note:** The `enumerate()` function has better readability than handling a counter manually. Moreover, it is better optimized for iterators.
 
-###### Read From a File
+##### Read From a File
 
 Always good advice is to use `context manager` over value assigning when loading data from a file. This approach will automatically close a file for you.
 ```python
@@ -437,7 +437,7 @@ with open('file.txt') as f:
 # This approach will close a file for you
 ```
 
-###### Line Continuations/Line Length
+##### Line Continuations/Line Length
 When a logical line of code is longer than the accepted limit, you need to split it over multiple physical lines. The Python interpreter will join consecutive lines if the last character of the line is a backslash. This is helpful in some cases, but should usually be avoided because of its fragility: a white space added to the end of the line, after the backslash, will break the code and may have unexpected results
 ```python
 ## Bad!
@@ -488,7 +488,7 @@ def bar(input_number:int) -> int:
     else: 
          return res ** 2
 ```
-###### Type Hints
+##### Type Hints
 
 All function signatures should contain type hints, including for the return type, even if it is `None`. 
 This is good documentation and can also be used with [`mypy`](http://mypy-lang.org/) for type checking and error checking.
@@ -519,7 +519,8 @@ def bar(some_str: str) -> None:
     print(some_str)
     return
 ```
-###### Import Order
+
+##### Import Order
 
 Imports should follow the [PEP8](https://www.python.org/dev/peps/pep-0008/#imports) rules and furthermore should be ordered with any `import ...` statements coming before `from .... import ...`
 
@@ -551,7 +552,7 @@ from another_local_module import something
 
 Also, linters should help you with this issue: `mypy`, `flake8`, `pylint`. 
 
-###### Docstrings
+##### Docstrings
 * Docstrings should be used in every single file.
 * Docstrings should be used in every single function. Since we are using type hints in the function signature there is no requirement to describe each parameter.
 * Docstrings should use triple double-quotes and use complete sentences with punctuation.
@@ -722,7 +723,7 @@ Output:
 [12, 42]
 ```
 
-> Note: Handy link for this topic: [Python gotchas](https://docs.python-guide.org/writing/gotchas/)
+> **Note:** Handy link for this topic: [Python gotchas](https://docs.python-guide.org/writing/gotchas/)
 
 ##### Linting
 
@@ -775,7 +776,7 @@ while maximum_backoff_sec > (2 ** n):
         print('Caught this error: ' + repr(key_error))
 ```
 
-##### Folder structure for new extracts
+#### Folder structure for new extracts
 
 * All client specific logic should be stored in `/extract` folder, any API Clients which may be reused should be stored in `/orchestration` folder under the `/analytics` repo
 * Pipeline specific operations should be stored in /extract.
@@ -829,7 +830,7 @@ def test_example_failed():
 # test.py::test_example_failed FAILED
 ```
 
-###### Using Pytest Fixtures
+##### Using Pytest Fixtures
 
 `pytest` fixtures are a way of providing data, configs or state setup to tests. Fixtures are functions that can return a wide range of values, especially for repeatable tasks and config items. Each test functions that depend on a fixture must explicitly accept that fixture as an argument along with decorator `@pytest.fixture`.
 ```python
@@ -945,6 +946,7 @@ def test_slowest():
     assert 1 == 1
 ```
 * Calling `pytest`:
+
 ```bash
 ╰─$ pytest test.py --durations=1
 = test session starts =
@@ -981,6 +983,12 @@ Nice to check, explore and considering:
 * [`yapf`](https://github.com/google/yapf)
 * [`autopep8`](https://pypi.org/project/autopep8/)
 * [`HowDOI`](https://github.com/gleitz/howdoi) - good tool for a quick search.
+
+
+#### Tools for automating our coding quality standards
+
+For automating code quality and testing, we are using our own product [GitLab CI/CD pipeline](https://docs.gitlab.com/ee/ci/pipelines/). 
+Details of pipelines we use for python should be found on the page [CI jobs (Python)](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#-python).
 
 #### When not to use Python
 

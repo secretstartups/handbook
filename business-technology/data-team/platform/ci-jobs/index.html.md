@@ -253,10 +253,43 @@ Runs snapshots. This jobs runs against the clone of `RAW`. Requires the `clone_r
 Runs specified model tests with the variable `DBT_MODELS`
 
 ### 🐍 Python
-
+ 
 These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml).
 
-There are several jobs that only appear when `.py` files have changed. All of them will run automatically on each new commit where `.py` files are present. Otherwise they are unavailable to run. Other jobs are:
+There are several jobs that only appear when `.py` files have changed. All of them will run automatically on each new commit where `.py` files are present.
+
+Pipelines running automatically are:
+
+#### ⚫python_black
+
+We handle python code formatting using the [`black`](https://github.com/psf/black) library. The pipeline checks the entire `/analytics` repo (all `*.py` files). 
+
+#### ✏️python_mypy
+
+We use the [`mypy`](https://mypy.readthedocs.io/en/stable/) library to check code correctness. The pipeline checks the entire `/analytics` repo (all `*.py` files). 
+
+#### 🗒️python_pylint
+
+We use the [`pylint`](https://pylint.pycqa.org/en/latest/) library and check code linting for Python files. The pipeline checks only **changed** Python files (`*.py`) in `/analytics` repo. 
+
+#### 🌽python_flake8
+
+We use the [`flake8`](https://flake8.pycqa.org/en/latest/) library and check code linting for Python files. The pipeline checks only **changed** Python files (`*.py`) in `/analytics` repo. 
+
+#### 🦅python_vulture
+
+We use the [`vulture`](https://pypi.org/project/vulture/0.5/) library and check unused for Python files. `Vulture` finds unused classes, functions and variables in your code. This helps you cleanup and find errors in your programs.
+The pipeline checks only **changed** Python files (`*.py`) in `/analytics` repo. 
+
+#### 🤔python_complexity
+
+We use the [`xenon`](https://pypi.org/project/xenon/) library and check code complexity for Python files. The pipeline checks the entire `/analytics` repo (all `*.py` files). 
+
+#### ✅python_pytest
+
+We ensure code quality by running the [`pytest`](https://docs.pytest.org/en/7.1.x/contents.html) library and test cases in `/analytics` repo. The pipeline all test files in the entire `/analytics` repo (all `*.py` files contains `pytest` library). 
+
+Manually running pipelines are:
 
 #### 🧊⚙permifrost_run
 
@@ -268,7 +301,7 @@ Must be run at least once before any changes to `permissions/snowflake/roles.yml
 
 Runs the `spec-test` cli of [Permifrost](https://gitlab.com/gitlab-data/permifrost/) to verify changes have been correctly configured in the database. 
 
-#### yaml_validation
+#### 📁 yaml_validation
 
 Triggered when there is a change to `permissions/snowflake/roles.yml`. Validates that the YAML is correctly formatted.
 
