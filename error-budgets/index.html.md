@@ -308,7 +308,7 @@ explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/39
 [performance]: /handbook/engineering/infrastructure/performance-indicators/#gitlabcom-performance
 [SLA methodology]: /handbook/engineering/monitoring/#gitlabcom-service-level-availability
 [embracing risk]: https://landing.google.com/sre/sre-book/chapters/embracing-risk/#id-AnCDFmtB
-[velocity]: /handbook/engineering/principles/#the-importance-of-velocity
+[velocity]: /handbook/engineering/development/principles/#the-importance-of-velocity
 [motivation]: https://landing.google.com/sre/sre-book/chapters/embracing-risk/#id-na2u1S2SKi1
 [infradev]: /handbook/engineering/workflow/index.html#availability-and-performance-refinement
 [architecture]: /handbook/engineering/architecture/workflow/
@@ -324,4 +324,4 @@ explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/39
 [corrective action]: /handbook/engineering/infrastructure/incident-review/#incident-review-issue-creation-and-ownership
 [security vulnerabilities]: /handbook/engineering/security/threat-management/vulnerability-management/#vulnerability-management-overview
 [engineering allocation]: /handbook/engineering/#engineering-allocation
-[engineering prioritization]: /handbook/engineering/principles/#prioritizing-technical-decisions
+[engineering prioritization]: /handbook/engineering/development/principles/#prioritizing-technical-decisions
