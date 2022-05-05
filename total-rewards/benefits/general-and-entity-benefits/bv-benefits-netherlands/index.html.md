@@ -127,12 +127,12 @@ Adoptive and foster parents of children under 8 years old will be eligible for u
   - Team members who have a child 8 years old or younger and are qualified for parental leave, are entitled to take [unpaid parental leave](https://www.rijksoverheid.nl/onderwerpen/ouderschapsverlof/vraag-en-antwoord/recht-op-ouderschapsverlof). The amount of leave may not exceed 26 times the number of hours the team member works in one week. 
 
 #### Effective 2022-08-02 
-Parents will be eligible for up to 9 weeks of partial payment through the UWV.  Parents are eligible for paid leave within the child's first year after birth.*  
+Parents will be eligible for up to [9 weeks of partial payment through the UWV](https://www.rijksoverheid.nl/onderwerpen/ouderschapsverlof/invoering-van-2-maanden-betaald-ouderschapsverlof).  Parents are eligible for paid leave within the child's first year after birth.*  
 
 *Eligibility:*  Parents must be working (be employed) at the time and not yet have taken the full right of parental leave (26 times the weekly work hours).
  - Employees working for GitLab that have a child under the age of 1 at the start of this new law, will also be eligible for this benefit.
 
-*Pay Calculations:* The UWV will pay 50% of the daily wage (up to 50% of the maximum daily wage).  GitLab will to apply for the benefit with the UWV.  (More information to come)
+*Pay Calculations:* The UWV will pay 70% of the daily wage (up to 70% of the maximum daily wage).  GitLab will to apply for the benefit with the UWV.  (More information to come)
 
 ### Other Leave Types
 * Short-term Care Leave
