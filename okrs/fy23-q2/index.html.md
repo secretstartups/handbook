@@ -44,7 +44,7 @@ Ally.io is the source of truth for CEO OKRs: https://app.ally.io/teams/40502/obj
 
 ### 3. CEO: Leadership Development
 1. **CEO KR:** Document MECC in the handbook. Use MECC handbook content to create a self-certified free course that can be used by non-team-members as well. Certify 1,000 team members.
-1. **CEO KR:** Have 90% of managers complete a working in the GitLab way training.
+1. **CEO KR:** Do a cost/benefit analysis for offering the right to migrate to 3 more countries (Germany / UK / US ?)
 1. **CEO KR:** Launch Get Togethers with 80% of team members attending and achieve 80% team member approval for new engagement plan captured in the upcoming employee survey.
 
 
