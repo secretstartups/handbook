@@ -30,13 +30,13 @@ publicly released in a timely fashion.
 
 ## Vision
 
-By its own nature, the Delivery group is a backstage, non-user feature facing team whose product
+By its own nature, the Delivery Group is a backstage, non-user feature facing team whose product
 and output has a direct impact on Infrastructure's primary goals of **availability**, **reliability**,
 **performance**, and **scalability** of all of GitLab's user-facing services as well as self-managed
 customers. The group creates the workflows, frameworks, architecture and automation for Engineering teams
 to see their work reach production effectively and efficiently.
 
-The Delivery group is focused on our [CI/CD blueprint](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/ci-cd/index.md)
+The Delivery Group is focused on our [CI/CD blueprint](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/ci-cd/index.md)
 by driving the necessary changes in our software development processes and workflows, as well as
 infrastructure changes, to embrace the benefits of CI/CD.
 
@@ -96,13 +96,13 @@ The Delivery Group is composed of two teams: `Delivery:Orchestration` and `Deliv
 
 ### Delivery:Orchestration
 
-The primary goal of the Orchestration team is to provide functionality to enable stage groups to adopt self-serve deployments and releases.
+The primary goal of the Orchestration Team is to provide functionality to enable stage groups to adopt self-serve deployments and releases.
 
 ### Delivery:System
 
-The primary goal of the System team is to provide a flexible and stable deployment platform onto which the application can be effectively and efficiently deployed.
+The primary goal of the System Team is to provide a flexible and stable deployment platform onto which the application can be effectively and efficiently deployed.
 
-Each member of the Delivery group is part of this vision:
+Each member of the Delivery Group is part of this vision:
 
 * Each team member is able to work on all team projects
 * The team is able to reach a conclusion independently all the time, consensus most of the time
@@ -123,11 +123,11 @@ The following people are members of the Delivery:System Team:
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Delivery/, direct_manager_role: 'Engineering Manager, Delivery') %>
+<%= stable_counterparts(role_regexp: /[,&] Delivery/) %>
 
 ## Performance indicators
 
-Delivery group contributes to [Engineering function performance indicators] through [Infrastructure department performance indicators].
+Delivery Group contributes to [Engineering function performance indicators] through [Infrastructure department performance indicators].
 The group's main performance indicator is [**M**ean **T**ime **T**o **P**roduction][MTTP] (MTTP), which serves to show how quickly a change introduced through a Merge Request
 is reaching production environment (GitLab.com).
 At the moment of writing, the target for this PI is defined in this [key result][KI lower MTTP] epic.
@@ -138,7 +138,7 @@ MTTP is further broken down into charts and tables at the [Delivery Team Perform
 
 ### Project Management
 
-The Delivery group work is tracked through a number of epics, issues, and issue boards.
+The Delivery Group work is tracked through a number of epics, issues, and issue boards.
 
 Epics and issue boards are complementary to each other, and we always strive to have a 1-1 mapping between a working epic and an issue board.
 Epics describe the work and allows for general discussions, while the issue board is there to describe order of progress in any given epic.
@@ -175,7 +175,7 @@ Each working epic should be accompanied by an issue board. Issue boards should b
 
 ### Labels
 
-The canonical issue tracker for the Delivery group is at [gl-infra/delivery][issue tracker]. Issues are automatically labeled if no labels are applied using the [triage ops] project.
+The canonical issue tracker for the Delivery Group is at [gl-infra/delivery][issue tracker]. Issues are automatically labeled if no labels are applied using the [triage ops] project.
 The default labels defined in the [labeling library](https://gitlab.com/gitlab-com/gl-infra/triage-ops/-/blob/master/lib/delivery/default_labeling.rb).
 
 By default, an issue needs to have a:
@@ -186,7 +186,7 @@ By default, an issue needs to have a:
 
 #### Workflow
 
-The Delivery group leverages scoped `workflow-infra` labels to track different stages of work.
+The Delivery Group leverages scoped `workflow-infra` labels to track different stages of work.
 
 On the [Planning board] problems are discussed and scoped so that we have enough information to prioritise and implement the solution.
 
@@ -231,7 +231,7 @@ Label `workflow-infra::Done` is applied to signify completion of work, but its s
 
 #### Priority Labels
 
-The Delivery group uses priority labels to indicate order under which work is next to be picked up. Meaning attached to priorities can be seen below:
+The Delivery Group uses priority labels to indicate order under which work is next to be picked up. Meaning attached to priorities can be seen below:
 
 | Priority level  | Definition |
 | --------------- | ---------- |
@@ -255,7 +255,7 @@ Project labels are defined as needed, but they are required unless the issue des
 
 ### Choosing something to work on
 
-The Delivery group generally has working epics assigned to specific owners who are responsible for bringing tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to.
+The Delivery Group generally has working epics assigned to specific owners who are responsible for bringing tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to.
 If you want to work on something outside of your current project, feel free to contribute to any of the mid to lower priority labeled issues.
 
 ## Project demos
@@ -274,12 +274,12 @@ It is encouraged to show and discuss:
 
 ### Team training
 
-Every Delivery group member is responsible for sharing skills either through creating a training session for the rest of the group or through paired work.
+Every Delivery Group member is responsible for sharing skills either through creating a training session for the rest of the group or through paired work.
 See the page on [team training] for details.
 
 ## History
 
-The Delivery team officially [came into existence on 2018-10-23](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/15348/). This was the culmination of a larger alignment that was happening throughout that year, exposed by the need to streamline releases for self-managed users and creating a better experience for GitLab.com users.
+The Delivery Team officially [came into existence on 2018-10-23](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/15348/). This was the culmination of a larger alignment that was happening throughout that year, exposed by the need to streamline releases for self-managed users and creating a better experience for GitLab.com users.
 
 All throughout GitLab's existence, Release Management had been a monthly rotating role served by developers. The idea behind it was to keep developers close to the whole lifecycle of the software they create, and ensure that they automate their work. This worked well until the number of application changes, and developer tasks grew too large for anyone to handle as a secondary task. The event that indicated the need for a change was a near miss event near the end of 2017, when the first Release Candidate was deployed to GitLab.com just 2 days before the 22nd. That whole month was riddled with challenges, from release managers struggling to deliver their day to day development tasks and RM tasks, to multiple unsuccessful deployments to GitLab.com. Most importantly, this was a first indication that the company was growing and that the processes that worked previously, might need to change to accommodate the larger growth that was planned.
 
