@@ -12,6 +12,93 @@ title: Getting started with Product Intelligence
 
 ## Event/metric instrumentation
 
+### Service Ping
+
+Service Ping consists of two kinds of data:
+
+- **Counters**: Track how often a certain event happened over time, such as how many CI/CD pipelines have run. They are monotonic and always trend up.
+- **Observations**: Facts collected from one or more GitLab instances and can carry arbitrary data. There are no general guidelines for how to collect those, due to the individual nature of that data. An example of this data would be an instance's database version.
+
+The next step after deciding on the new metrics' data type is choosing the metric counter type.
+
+#### 1. Metric counter types
+
+The metric counter type depends on the type of data to be tracked:
+
+- **Database metric** - used for tracking data kept in the database, for example - count of Issues existing on given instance.
+- **Redis metric** - used for tracking events that are not kept in the database, for example - count of how many times the search bar has been used.
+- **RedisHLL metric** - used for tracking events that are not kept in the database and should only be incremented for unique values (usually - unique users), for example - a count of how many different users used the search bar.
+- **Generic metric** - used for other types of metrics, for example - an instance's database version. **Observations** type of data will always have a **Generic metric** counter type.
+
+After determining the metric counter type, it's time to implement the counter incrementing!
+
+#### 2. Adding the counter incrementation logic
+
+This step can be skipped for **Database metrics** and **Generic metrics**. These metrics do not need separate counter incrementation logic because they grab the data straight from GitLab's database/config.
+
+##### Redis counter implementation
+
+For Redis counters, we offer a frontend API described [in the Service Ping guide](https://docs.gitlab.com/ee/development/service_ping/implement.html#usagedata-api), and a JavaScript/Vue helper for using this API.
+
+##### RedisHLL counter implementation
+
+To add a RedisHLL counter you must add the event definition and then implement the counter incrementation.
+
+To define a new event, you must add a `yml` file to the [`known_events` folder](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/usage_data_counters/known_events). See [Add new events](https://docs.gitlab.com/ee/development/service_ping/implement.html#add-new-events) for detailed information about defining events.
+
+For RedisHLL counters, you can implement the counter incrementation logic in multiple ways.
+
+In the backend you can implement the counter incrementation logic in:
+
+  - The controller, using the `RedisTracking` module.
+  - The api, using the `increment_unique_values` method.
+  - Other services, using the `track_usage_event` method.
+
+In the frontend you can implement the counter incrementation logic in the `POST /usage_data/increment_unique_users` API endpoint and its JavaScript/Vue helper.
+
+The tracking methods' implementation is described in detail in the point `2` of [the Service Ping guide](https://docs.gitlab.com/ee/development/service_ping/implement.html#redis-hll-counters).
+
+
+#### 3. Instrumentation class
+
+Now that the events are being recorded, the next step is adding an instrumentation class that will define how they are counted.
+The instrumentation class implementation will depend on the metrics counter type.
+
+##### Database metric
+
+See [Database metrics](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#database-metrics) for a definition of the database metrics instrumentation class.
+
+##### Redis metric
+
+Redis metrics typically don't require adding an instrumentation class - instead, they reuse the already defined `RedisMetric` class. A new instrumentation class only needs to be added if we need to define [the metric's availability](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#availability-restrained-redis-metrics).
+
+##### RedisHLL metric
+
+RedisHLL metrics typically don't require adding an instrumentation class - instead, they reuse the already defined `RedisHLLMetric` class. A new instrumentation class only needs to be added if we need to define [the metric's availability](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#availability-restrained-redis-hyperloglog-metrics).
+
+##### Generic metric
+
+See [Generic metrics](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#generic-metrics) for a definition of the generic metrics instrumentation class.
+
+#### 4. Adding the event to Service Ping payload & Metrics Dictionary
+
+Now that the events have an instrumentation class defined, the next step is adding them to the Service Ping data payload and to the [Metrics Dictionary](https://metrics.gitlab.com/). Both of these goals can be achieved by adding a single YML event configuration file.
+
+See [Metrics Definition and validation](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html#metrics-definition-and-validation) for the instructions to add the YML event configuration file .
+
+The **instrumentation class**, defined in the previous step of this guide, should be used as the value for the `instrumentation_class` YAML attribute of the newly created config file.
+
+### Snowplow
+
+There are multiple ways of implementing Snowplow tracking, depending on the framework used. However, regardless of the framework used, the events need to have at least two main attributes defined: their `action` and `category`. The values that these (and other) attributes should take are explained with examples in the [event taxonomy guide](https://docs.gitlab.com/ee/development/snowplow/index.html#structured-event-taxonomy). It's also possible to see the structure of existing events in the [Metrics Dictionary](https://metrics.gitlab.com/snowplow).
+The way in which those properties are passed to `Snowplow` depends on framework used.
+
+The framework options with their respective guides are:
+- [Data-track html attribute](https://docs.gitlab.com/ee/development/snowplow/implementation.html#implement-data-attribute-tracking) - this is the default tracking method for frontend events. If you need more customization than this method of tracking has to offer, you can implement the tracking using one of the following guides:
+  - [Vue](https://docs.gitlab.com/ee/development/snowplow/implementation.html#implement-vue-component-tracking)
+  - [Raw JavaScript](https://docs.gitlab.com/ee/development/snowplow/implementation.html#implement-raw-javascript-tracking)
+- [Ruby](https://docs.gitlab.com/ee/development/snowplow/implementation.html#implement-ruby-backend-tracking) - used for tracking events on backend
+
 ## How to validate your code
 
 ## When to create a Data team issue
