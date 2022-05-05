@@ -65,7 +65,7 @@ Steps to uplevel triaging process:
 |	                  | G&A Data Fusion |	|	|	`@Peter Empey` 	| | | |		
 | `@EngineeringAnalyticsTriage` |	Engineering Analytics |		|	 |		| |  `@lily` |	
 |	                  | Engineering Data Fusion |		|	| `@Peter Empey` 	|		|     |     |
-| `@DataPlatformTriage` |	Data Platform | | `@vprakash` (odd week-nrs) or `@Rigerta Demiri` (even week-nrs) | `@Paul Armstrong` | `@Radovan Bacovic` |	`@Lakshmi A` | `@jstark` |
+| `@DataPlatformTriage` |	Data Platform | | `@vprakash`| `@Paul Armstrong` | `@Radovan Bacovic` |	`@Rigerta Demiri` | `@jstark` |
 | `@DataCollaborationTriage` | Data Collaboration |	`@Ken` |	`@Ken` |	`@Trang Nguyen` |	`@Trang Nguyen` 	| | |	
 
 
