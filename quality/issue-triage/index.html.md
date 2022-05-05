@@ -199,7 +199,7 @@ Some UX-related issues are identified as impacting our [System Usability Scale (
 |-|-|-|
 | `~severity::1` | `~priority::1` only | within 60 days |
 | `~severity::2` | `~priority::1` or  `~priority::2` | within 120 days |
-| `~severity::3` | `~priority::1`, or `~priority::2`, or `~priority::3 | No SLA set today |
+| `~severity::3` | `~priority::1`, or `~priority::2`, or `~priority::3` | No SLA set today |
 | `~severity::4` | `~priority::1`, or `~priority::2`, or `~priority::3`, or `~priority::4` | No SLA set today  |
 
 **Note:** The above delivery timeframes only apply for new UX bugs filed after 2022-03-22. All UX bugs file prior to this date need to be reevaluated for the correct delivery timeframe.
