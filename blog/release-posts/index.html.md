@@ -837,12 +837,7 @@ While the author of the deprecations or removal MR is responsible for creating t
 Updating the docs:
 
 1. From the command line, navigate to your local clone of the [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab) project, and check out the MR's branch.
-1. Compile the deprecation or removals doc with the appropriate command:
-  - `bin/rake gitlab:docs:compile_deprecations`
-  - `bin/rake gitlab:docs:compile_removals`
-1. If needed, you can verify the docs are up to date with:
-  - `bin/rake gitlab:docs:check_deprecations`
-  - `bin/rake gitlab:docs:check_removals`
+1. [Compile the deprecation or removals documentation](https://docs.gitlab.com/ee/development/deprecation_guidelines/#update-the-deprecations-and-removals-documentation).
 1. Commit the updated docs and push the changes.
 1. Set the MR to merge when the pipeline succeeds (or merge if the pipeline is already complete).
 
