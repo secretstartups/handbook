@@ -382,6 +382,19 @@ If a team member has been referred, the People Connect team will review team mem
 2. Talent Acquisition Manager will notify People Connect by Slack or email, the first of the month that aligns with the referral new hire's 3 month employment at GitLab.
 3. People Connect will follow [steps outlined above](/handbook/incentives/#document-a-future-bonus-in-bamboohr)
 
+### Get Together Grant
+
+Start your quarter off by getting to know someone new at GitLab, or meeting someone in person for the first time! During the first month of every quarter in Feb, May, Aug, and Nov, we invite team members to use a Get Together Grant to meet up with a team member either in person or virtually. To take part in the grant, check out the following details:
+
+1. Each team member can expense up to $50 each quarter on a meal, activity, or ground transportation to spend time with a GitLab team member in-person. Or, up to $25 each quarter for a virtual Get Together on a remote activity, remote coffees or remote meals (yes, this means you can have a real coffee for your remote coffee chat).
+1. To use the grant, get together with a team member and expense up to $50 for in-person meet-ups or $25 for virtual meet-ups in Expensify by selecting the Get Together Grant category in the dropdown the first month of every quarter (Feb, May, Aug, and Nov) and writing whether your get together was live or virtual in the line items. The expense report must be submitted within 1 month of the Get Together.
+_Please note, Get Together expenses that are submitted outside of these months will not be approved and any amount over the allotted $50 per person for in-person and $25 per person for remote get togethers will not be approved. Limit one Get Together Grant per person the first month of each quarter._
+1. Once you participate in a Get Together with another team member, share your experience and few pictures for a chance to be featured in social by submitting [this form](https://forms.gle/Z3CLPFAQGcAbwzN26). 
+
+**Group Get Togethers**
+
+In areas where many GitLab team members live, stay tuned in Slack and on this page for planned events where we'll invite all GitLab team members in that area to join together in person. For team members who participate in Group Get Togethers, individual Get Togethers live or remote will not be available in the month the Group Get Together takes place.  
+
 ### Visiting Grant
 
 As we continue to prioritize the health and safety of our team members, GitLab is temporarily suspending the Visiting Grant program  until further notice.  We continue to monitor the situation and will update this information and the [travel policy](/handbook/travel/#travel-guidance-covid-19) accordingly.
