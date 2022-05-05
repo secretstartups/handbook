@@ -19,10 +19,10 @@ upcoming events, and ask questions.
 
 ## Schedule
 
-| Weekday | Region | Meeting Name |
-| :-----: | :----: | :----------: |
-| Tuesday | APAC | Support Team Call |
-| Thursday | EMEA | Support Team Call |
+| Weekday  | Region | Meeting Name             | Agenda |
+| :------: | :----: | :----------------------: | :----: |
+| Tuesday  | APAC   | Support Team Call (APAC) | [Google Doc](https://docs.google.com/document/d/1jwj5g0BIq3kTepw2-ZD9VSETs7Isf6YDHGzmYxmTt50/edit#) |
+| Thursday | EMEA   | Support Team call (EMEA) | [Google Doc](https://docs.google.com/document/d/1oyi9BtoaNwZE99KNHC-9HiYX7g2bCLu986kjzJL9dO4/edit#) | 
 
 The regions listed above are the regions for which each call may be the most
 convenient, but all are welcome on any call. Every call is recorded and notes
