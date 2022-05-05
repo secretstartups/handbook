@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| May 5 | AWS Alliances: New AWS Marketplace listing and upcoming Credit Promotion | TBD |
 | May 12 | TBD | TBD  |
 | May 19 | 15.0 Release | Cindy B.  |
 | May 26 | ROI Calculators | Cindy B.  |
@@ -44,6 +43,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-05-05 | **[AWS Alliances: New AWS Marketplace listing and upcoming Credit Promotion](https://youtu.be/JPP58JHObw8)** | Private |
 | 2022-04-07 | **[Solution Selling: Compliance](https://youtu.be/sGSZlxGciiE)** | Private |
 | 2022-03-31 | **[Cloud Licensing Update](https://youtu.be/A5IOhI-QPXY)** | Private |
 | 2022-03-24 | **[Q1 FY23 Customer References Update](https://youtu.be/X_RpwfJDuxE)** | Private |
