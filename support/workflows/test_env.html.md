@@ -148,14 +148,11 @@ If you wish to test resources using a real domain name (instead of an IP address
 
 ### Install Docker
 
+If you'd like to use [Docker Desktop for Mac](https://www.docker.com/get-started) a subscription is required for business use. Please review the [Docker Desktop handbook page](https://about.gitlab.com/handbook/tools-and-tips/mac/#docker-desktop) to find more information on how to obtain a license as well as a list of recommended alternatives.
 
-If you'd like to use [Docker Desktop for Mac](https://www.docker.com/get-started) a subscription is required for business use. We're discussing how to handle this in [an internal issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/1787), including [some alternatives](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/1787#alternatives). 
-
-In the mean time, consider using a Cloud or local VM with [Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux) for testing
-Docker environments.
+In the mean time, consider using a Cloud or local VM with [Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux) for testing Docker environments.
 
 Note that on Macs with M1 / Apple Silicon, running GitLab in Docker is not working properly for now. Check out [UTM](#utm-free--opensource---compatible-with-apple-silicon) below as an alternative for a local setup on your M1 Mac.
-
 
 ### Install Docker Machine
 
