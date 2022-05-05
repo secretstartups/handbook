@@ -257,6 +257,12 @@ Please follow the process outlined under [meeting request requirements](/handboo
 I'm always willing to record [video content](https://www.youtube.com/watch?v=Y310ksxsUoQ) for conferences I'm unable to attend.
 Email [my EBA](/handbook/eba/#executive-business-administrator-team) to coordinate the recording.
 
+## Favorite Beverages 
+Often when attending an event, the organizers will reach out to see if I want a certain snack or drink. If possible, I would prefer:
+
+1. Non-Carbonated Celsius. For example: [Celsius Raspberry Acai Green Tea](https://www.amazon.com/CELSIUS-Raspberry-Green-Non-Carbonated-Fitness/dp/B007R8XGKY/)
+
+
 ## Home Office Setup
 People regularly ask what I use for my home office setup. Below is a list of the items I use:
 - Microphone: [Shure MV7](https://www.shure.com/en-US/products/microphones/mv7)
