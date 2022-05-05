@@ -3,6 +3,7 @@ layout: handbook-page-toc
 title: 'Zendesk Global SLA Policies'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global SLA policies'
+noindex: true
 ---
 
 ## On this page

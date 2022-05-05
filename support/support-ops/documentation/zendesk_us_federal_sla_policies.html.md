@@ -3,6 +3,7 @@ layout: handbook-page-toc
 title: 'Zendesk US Federal SLA Policies'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk Federal SLA policies'
+noindex: true
 ---
 
 ## On this page
