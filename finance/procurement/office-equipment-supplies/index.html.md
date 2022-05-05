@@ -19,14 +19,20 @@ title: Home Office Equipment and Supplies
 
 Prior to your start date, you will [work with GitLab IT to acquire a laptop](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptops). For US team members, along with being able to order your laptop through GitLab, you will also have the option to order several other pieces of office hardware at the same time, such as monitor, keyboard, mouse, charger, webcam, laptop stand, adapter, and ergonomic desk & chair. You are not required to procure these items through GitLab, but, if these items fit your needs, we suggest choosing from our preselected catalogue because this is an easy option and will be billed directly to GitLab.
 
-If you prefer to choose your own office equipment, are not located in the US, and/or cannot find some items that you may need in the catalogue, please reference the following list of common items for your home office at GitLab. It is uncommon to need all of the items listed below. Read [GitLab's guide to a productive home office or remote workspace](/company/culture/all-remote/workspace/), and use your best judgement and buy them as you need them.
+If you prefer to choose your own office equipment, are not located in the US, and/or cannot find some items that you may need in the catalogue, please reference the [Price guide for common home office items](#price-guide-for-common-home-office-items) at GitLab. It is uncommon to need all of the items listed in the guide. Read [GitLab's guide to a productive home office or remote workspace](/company/culture/all-remote/workspace/), and use your best judgement and buy them as you need them.
 
 #### Expensing hardware and supplies outside of the US
 
-**The prices in the table below can serve as reference for team members as you look into purchasing new equipment. As an all-remote global company, prices might vary per region depending on taxes, tariffs and other factors. When making a spend above $100 USD, we encourage team members to look into 2 or 3 different providers and compare prices before acquiring new equipment.** 
+The prices in the table below can serve as reference for team members as you look into purchasing new equipment. Prices might vary per region depending on taxes, tariffs and other factors. When making a purchase above 100 USD, we encourage team members to look into 2 or 3 different providers and compare prices before acquiring new equipment. 
 
-**For non-US team members: if the product cost is higher in your location, confirm that an equivalent product in the United States would be close to the guideline price in the table below. In the event there are additional taxes or other fees in your region, please note this cost increase when submitting an expense report to ensure an efficient and speedy approval and reimbursement from our third party accounting team.**
+For non-US team members: if the product cost is higher in your location, confirm that an equivalent product in the United States would be close to the guideline price in the table below. In the event there are additional taxes or other fees in your region, please note this cost increase when submitting an expense report to ensure an efficient and speedy approval and reimbursement from our third party accounting team.
 
+#### Expense constraints
+
+1. If the item you want to purchase is not in the [Price guide for common home office items](#price-guide-for-common-home-office-items), it is not reimbursable.
+1. If the item you want to purchase is over the amount in the [price guide](#price-guide-for-common-home-office-items), we will allow up to 20% over the price if you have exercised due diligence in finding the best price. If the purchase is over the 20% threshold, you can ONLY expense the price guide amount plus 20%, and then pay the remaining balance personally.
+
+#### Price guide for common home office items
 
 | Item                                             | Price Guide in USD (for purchases in the USA)     | Importance | Why                                                                                                                                                                                                                                                                                 |
 |--------------------------------------------------|--------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

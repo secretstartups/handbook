@@ -47,9 +47,7 @@ Team members are reimbursed on different schedules depending on their location. 
 1. Gift cards are not accepted as a form of payment for business expenses.
 1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date.
    - Please note we do not reimburse late fees, initial set up, or equipment costs.
-
-
-### <i class="fas fa-bullseye" id="biz-tech-icons"></i> [**Approved List of Expenses**](https://docs.google.com/document/d/1UIbpeEzGQ0kmv9uI47xP8hRfDpGnwxvIeUpR66j_Ox8/edit?usp=sharing)
+1. **Reimbursements will only be issued for items on the [Approved List of Expenses](https://docs.google.com/document/d/1UIbpeEzGQ0kmv9uI47xP8hRfDpGnwxvIeUpR66j_Ox8/edit?usp=sharing)**
 
 
 ### Domain Name Registration and Maintenance Policy
