@@ -27,13 +27,25 @@ The by-the-book schedule for the OKR timeline would be
 | 0  | 2022-05-02 | CoS to the CEO updates OKR page for current quarter to be active and includes CEO level OKRs with consideration to what is public and non-public |
 
 
+
 ## OKRs
+Ally.io is the source of truth for CEO OKRs: https://app.ally.io/teams/40502/objectives?tab=0&time_period_id=155985&viewId=210525. Since Ally.io is an internal only tool, public facing CEO OKRs are copied from Ally.io into the public handbook. 
 
-### 1. CEO 
+### 1. CEO: Increase ARR 
+1. **CEO KR:** Meet MQL and FO SAO goals.
+1. **CEO KR:** Deliver final Matterhorn strategy and Zuora orders and ramps work in preparation for launch.
+1. **CEO KR:** Increase new weekly Self-Managed activations using Cloud Licensing from 20-30% (current) to 80%+ (post-delivery) by delivering Strict Cloud Licensing.
+1. **CEO KR:** Convert two features into Registration Features. Instrument them for measuring signup and conversion. Make a timeline for all features not on the pricing page.
 
-### 2. CEO
+### 2. CEO: Improve User Engagement
+1. **CEO KR:** 150 active contributors per month in the quarter.
+1. **CEO KR:** Implement user certification Beta with 300 beta users.
+1. **CEO KR:** Achieve internal support SLA goals for a list of marquee customers, have recordings of internal fireside chats with 2 GitLab customers viewed by 50% of team members, and have 50 team members outside of the Support Team work on support tickets.
 
-### 3. CEO
+### 3. CEO: Leadership Development
+1. **CEO KR:** Document MECC in the handbook. Use MECC handbook content to create a self-certified free course that can be used by non-team-members as well. Certify 1,000 team members.
+1. **CEO KR:** Have 90% of managers complete a working in the GitLab way training.
+1. **CEO KR:** Launch Get Togethers with 80% of team members attending and achieve 80% team member approval for new engagement plan captured in the upcoming employee survey.
 
 
 
