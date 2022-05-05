@@ -944,12 +944,23 @@ To run the `zuora_revenue_revenue_contract_line_source` rowcount tests, we can u
 > :warning:  Please note, whenever you make changes to the underlying tests in the data-tests project, you need to push those changes to the remote and re-run steps 3-5,  to start a dbt container with the latest changes from your branch.   
 
 
-#### Trusted Data Dashboard
+#### Trusted Data Operations Dashboard
 
-The Trusted Data Dashboard is used to quickly evaluate the health of the Data Warehouse. The most important data is presented in a simple business-friendly way with clear color-coded content for test PASS or FAIL status.
+The Trusted Data Operations Dashboard is used to quickly evaluate the health of the Data Warehouse. The most important data is presented in a simple business-friendly way with clear color-coded content for test PASS or FAIL status.
 
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/09d9881e-f5ac-474c-b5a3-cc21b2b96d33??embed=true" height="700"> </iframe>
 
+#### Trusted Data Health Dashboard
+
+Trusted data health dashboard gives business partners a high level overview of health status if the data in the Snowflake Data-warehouse could be trusted or not. This is defined based on criteria such as if quality checks are met, date until data is refreshed and if the data is up to date. Health Status in the dashboard is presented separately for Data extraction (RAW data layer) and Data transformation (Prod data layer) with a  PASS, FAIL, WARNING status and color coded accordingly to give business partners better insights into status of the data.
+ 
+##### Data extraction (RAW data layer)
+Data extraction is loading data from the source system to Snowflake data warehouse in the RAW data layer.
+ 
+##### Data transformation (Prod data layer)
+Data transformation is downstream transformation via dbt for Dimensions, Facts, Marts and reports models.
+
+<iframe class="dashboard-embed" src="https://app.periscopedata.com/app/gitlab/891891/WIP-TD:-Trusted-Data-Health-Dashboard" height="700"> </iframe>
 
 ### Snapshots
 {: #snapshots}
