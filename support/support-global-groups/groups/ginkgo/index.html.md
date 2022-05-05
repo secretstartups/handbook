@@ -24,3 +24,20 @@ Introductory text, logos, or whatever the group wants here
 
 ## Ginkgo workflows and processes
 
+#### Daily Crush Sessions
+
+EMEA/AMER friendly crush sessions are held every weekday from 14:30 to 15:30 UTC.
+
+**Goal**:
+ 
+Clear out FRTs and NRTs as a group. FRT taking priority.
+
+**Guidelines**:
+ 
+Unassigned tickets will be assigned based on a round robin of the attendants, their support region, and current capacity. The standard [Working on Tickets](../../../workflows/working-on-tickets.html) workflow still applies. 
+
+These are just guidelines. Someone overloaded may opt out of the round robin and remain in the crush session to assist.
+
+**Location**:
+
+These meetings will be held in the Gingko Collab Room, which can be found in the bookmarks of Our Slack Channel, [#spt_gg_ginkgo](https://gitlab.slack.com/archives/C0354N9B14G).
