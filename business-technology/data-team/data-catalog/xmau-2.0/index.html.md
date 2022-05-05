@@ -125,11 +125,11 @@ Based on the explanations above, the 2 main data sources we are using are:
 - Service Ping Data Source (Version App)
 - Gitlab.com Data Source (Gitlab.com Postgres Table)
 
-### Data marts [Update this section with a glossary of the new xMAU 2.0 data marts with links to dbt]
+### Data marts/rpts [Update this section with a glossary of the new xMAU 2.0 data marts with links to dbt]
 
 We have built a suite of datamarts that allow users to explore our different product data sources.
 
-|   Data Mart Name   | Grain         | Source              |
+|   Data Mart/Rpt Name   | Grain         | Source              |
 |--------------|--------------|-----------------------------|
 | [Mart_Usage_Event](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_usage_event)   | Event | Gitlab.com Postgres Table |
 | [Mart_Usage_Event_Daily](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_usage_event_daily) | Event Name, Event Date, User ID, Namespace ID|   Gitlab.com Postgres Table     |
@@ -137,14 +137,17 @@ We have built a suite of datamarts that allow users to explore our different pro
 | [Mart_Usage_Instance_Daily](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_usage_instance_daily)    | Event Name, Event Date, Instance ID | Gitlab.com Postgres Table |
 | [Mart_Usage_Event_Plan_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_usage_event_plan_monthly) | Reporting Month, Plan ID at Event Date, Event Name |   Gitlab.com Postgres Table    |
 | [Mart_xMAU_Metric_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_xmau_metric_monthly)  | Reporting Month, User Group, Section Name, Stage Name, Group Name  |  Gitlab.com Postgres Table    |
-| [Mart_Service_Ping_Instance_Metric](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance) | Service Ping Instance ID, Metrics Path|   Version App    |
-| [Mart_Service_Ping_Instance_Metric_7_Day](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_7_day) | Service Ping Instance ID, Metrics Path|   Version App    |
-| [Mart_Service_Ping_Instance_Metric_28_Day](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_28_day#code) | Service Ping Instance ID, Metrics Path|   Version App    |
-| [Mart_Service_Ping_Instance_Metric_All_Time](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_all_time) | Service Ping Instance ID, Metrics Path|   Version App    |
-| [Rpt_Service_Ping_Instance_Metric_Adoption_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_service_ping_instance_metric_adoption_monthly) | Reporting Month, Metrics Path, Estimation Grain|   Version App    |
-| [Rpt_Service_Ping_Instance_Metric_Estimated_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_service_ping_instance_metric_estimated_monthly) | Reporting Month, Metrics Path, Estimation Grain, Ping Edition Product Tier, Service Ping Delivery Type|   Version App    |
-
-
+| [Mart_Ping_Instance_Metric](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance) | Service Ping Instance ID, Metrics Path|   Version App    |
+| [Mart_Ping_Instance_Metric_7_Day](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_7_day) | Service Ping Instance ID, Metrics Path|   Version App    |
+| [Mart_Ping_Instance_Metric_28_Day](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_28_day#code) | Service Ping Instance ID, Metrics Path|   Version App    |
+| [Mart_Ping_Instance_Metric_All_Time](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_all_time) | Service Ping Instance ID, Metrics Path|   Version App    |
+| [Rpt_Ping_Counter_Statistics](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_counter_statistics) | Ping Edition, Metrics Path|   Version App    |
+| [Rpt_Ping_Instance_Subscription_Opt_In_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_instance_metric_adoption_subscription_metric_monthly) | Reporting Month, Metrics Path, Estimation Grain|   Version App    |
+| [Rpt_Ping_Instance_Subscription_Metric_Opt_In_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_instance_subcription_metric_opt_in_monthly) | Ping Created At Month, Metrics Path|   Version App    |
+| [Rpt_Ping_Instance_Metric_Adoption_Subscription_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_instance_metric_adoption_subscription_monthly) | Reporting Month, Metrics Path, Estimation Grain|   Version App    |
+| [Rpt_Ping_Instance_Metric_Adoption_Subscription_Metric_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_instance_metric_adoption_subscription_metric_monthly) | Reporting Month, Metrics Path, Estimation Grain|   Version App    |
+| [Rpt_Ping_Instance_Metric_Adoption_Monthly_All](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_instance_metric_adoption_monthly_all) | Reporting Month, Metrics Path, Estimation Grain|   Version App    |
+| [Rpt_Ping_Instance_Metric_Estimated_Monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_instance_metric_estimated_monthly) | Reporting Month, Metrics Path, Estimation Grain, Ping Edition Product Tier, Service Ping Delivery Type|   Version App    |
 
 
 #### Mart Service Ping Data [Update this section to reference the new SSOT model for this use case]
