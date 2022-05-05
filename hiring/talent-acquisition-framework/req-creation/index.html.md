@@ -322,6 +322,18 @@ With some recent changes to the way greenhouse connects with LinkedIn, we're now
 
 If you run into problems, you can reach out to the #talent-brand channel for support.
 
+### How jobs are categorized on our careers site job board
+
+Greenhouse data is fed into our custom jobs page located at [about.gitlab.com/jobs/all-jobs](about.gitlab.com/jobs/all-jobs).
+
+Each department in Greenhouse has a specific department ID associated with it. Those department ID's can be found in our [Greenhouse API feed](https://boards-api.greenhouse.io/v1/boards/gitlab/departments).
+
+Specific departments are coded to show up in various categories, this is defined in the openings.js file that can be found in the folder source / javascripts / openings.js.
+
+When new departments are created, we will need to add those to the openings.js file so that they appear correctly on our job board.
+
+If new categories are needed on the [about.gitlab.com/jobs/all-jobs](about.gitlab.com/jobs/all-jobs) job board we also need to update that index file.
+
 
 ### Publishing jobs to Indeed and Glassdoor
 
