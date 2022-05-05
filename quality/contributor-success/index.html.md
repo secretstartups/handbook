@@ -163,13 +163,42 @@ This team has the following immediate work items planned.
 * [Contribution Efficiency Improvements Epic](https://gitlab.com/groups/gitlab-com/-/epics/1619)
 * [Increasing MRARR through internal partnerships](https://gitlab.com/groups/gitlab-com/-/epics/1225)
 
+## Automations owned by the team
+
+Triage automations are handled by the [Triage Ops project](https://gitlab.com/gitlab-org/quality/triage-ops/). Please see the project documentation on instructions how to create new or edit existing automations.
+
+### Reports
+
+1. [Weekly community contribution report](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/quality/community-contribution-mr-report.yml)
+  - A weekly report on community MRs that are actionable
+1. [Newly created Community contribution merge requests triage](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage)
+
+
+### Reactive processors
+
+1. [Pingpong label remover](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/remove_pingpong_label_on_author_activity.rb)
+  - Removes the 🏓 label from community MRs in which a community contributor responded
+1. [Idle/Stale label remover](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/remove_idle_labels_on_activity.rb)
+  - Removes the `idle`/`stale` labels from MRs in which there is human activity
+1. [Code Review Experience Feedback](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/code_review_experience_feedback.rb)
+1. [Code Review Experience Slack](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/code_review_experience_slack.rb)
+1. [Request review command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/command_request_review.rb)
+1. [Merge Request help command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/merge_request_help.rb)
+1. [Community Contribution doc](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/doc_community_contribution.rb)
+1. [Hackathon labeler](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/hackathon_label.rb)
+1. [Reactive labeler](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/reactive_labeler.rb)
+  - Allows users to add labels to the MR via the bot
+1. [Community contribution thank you note](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/thank_community_contribution.rb)
+1. [UX Community contribution comment](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/ux_community_contribution.rb)
+
 ## Working with community contributions
 
 ### Wider community MR triage reports
 
 We have 2 triage process for the new merge requests from the wider community created under [gitlab-org](https://gitlab.com/groups/gitlab-org) 
 * [Newly created Community contribution merge requests triage](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage).
-* [In-active community merge requests requiring attention](/handbook/engineering/quality/triage-operations/#community-merge-requests-requiring-attention) 
+* [In-active community merge requests requiring attention](/handbook/engineering/quality/triage-operations/#community-merge-requests-requiring-attention)
+    * You can find a list of steps on how to nudge them in the [report template](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/quality/community-contribution-mr-report.yml#L10). 
 
 #### Contribution labels
 
@@ -197,6 +226,11 @@ Merge Request Coaches can be found in:
 There is also the `#mr-coaching` channel in GitLab Slack if GitLab team members have any questions related to community contributions.
 
 More information on Merge Request Coaches (including how to become a Merge Request Coach) can be found in the [MR coach lifecycle page](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html).
+
+### Creating educational materials
+
+1. [Gitpod with GDK - Introduction (video)](https://www.youtube.com/watch?v=OzgGP5tT4bo)
+1. [Gitpod with GDK - Setup  (video)](https://www.youtube.com/watch?v=6VNm36wdXnI)
 
 ### DCO and CLA Guidance
 
