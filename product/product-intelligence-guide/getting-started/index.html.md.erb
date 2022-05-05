@@ -10,6 +10,45 @@ title: Getting started with Product Intelligence
 
 ## Choosing the right tool
 
+There are two main tools that we use for tracking users data: [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) and [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html).
+Here are the main differences between these two tools:
+
+### Type of data
+- Snowplow collects events which are interactions with the application, such as the date and time of visit, and the feature and functionality that has been clicked on or used.
+- Service Ping reports only cumulative counts of things (ex. [count.epics](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_all/20210216181206_epics.yml) and [analytics_unique_visits.p_analytics_repo](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_all/20210216174856_p_analytics_repo.yml) and settings/instance information (eg. [database.version](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/settings/20210216175609_version.yml) and [container_registry_enabled](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/settings/20210204124858_container_registry_enabled.yml)).
+
+### Cadence
+- Snowplow events are collected and sent to the data warehouse as they occur.
+- Service Ping is collected from individual self-managed instances via an automated process weekly according to a [random distribution](https://gitlab.com/gitlab-org/gitlab/-/issues/352457#note_839039786) schedule, whereas SaaS Service Ping is collected weekly in a single payload via a [manual process](https://gitlab.com/groups/gitlab-org/-/epics/6000).
+
+### Scope
+- Snowplow event collection is currently only available in SaaS.
+- Service Ping is available for both self-managed and SaaS.
+- Snowplow can collect events for both frontend and backend activities, while Service Ping only offers access to backend data.
+
+### Availability
+- When new Service Ping metrics are instrumented, only self-managed instances which have upgraded to the GitLab version in which the metric instrumentation is available will start reporting applicable data.
+- When new Snowplow events are instrumented, data will begin flowing to the data warehouse immediately once the code is deployed to GitLab.
+
+### Analysis
+- Snowplow events can be parsed downstream by `namespace_id`, `project_id` and/or [pseudonyminized](https://gitlab.com/gitlab-org/gitlab/-/issues/343965) `user_id`
+- Google Analytics ID and Snowplow ID are mapped which allow downstream analytics of ([pseudonyminized](https://gitlab.com/gitlab-org/gitlab/-/issues/343965)) user journeys inside and outside the product. ([issue reference](https://gitlab.com/gitlab-org/gitlab/-/issues/335067))
+- Self-managed Service Ping product usage data can be tied to customers, but SaaS Service Ping data cannot currently be tied to the customer/namespace level.
+- Snowplow's data is enriched with browser-specific metadata: for example, name of the used browser, user timezone, page url.
+- Snowplow automatically records all `page view` events on GitLab.
+
+### Example use cases for Service Ping
+
+- track how many different labels exist on given GitLab instance *(it cannot be tracked with Snowplow, because it is not an **event**. With Snowplow, we would be able to track - for example - how many times has the label creation event happened)*
+- track whether a GitLab instance has the Gravatar feature enabled *(it cannot be tracked with Snowplow, because it is not an **event** - it's a metric specific for a given instance)*
+
+### Example use cases for Snowplow
+
+- track how many users entered the `Issue board` page *(Snowplow already records all page views - there's no need for adding an additional Service Ping metric for that)*
+- track how many times have users clicked the "new issue" button *(clicking a button is a frontend-only event - it cannot be tracked with Service Ping)*
+- track how many users entered the `Pricing` page after checking the `Partners` page *(Snowplow is able to track [user journey](https://about.gitlab.com/handbook/product/product-intelligence-guide/#example-user-journey))*
+- track how many users are viewing the handbook in Firefox *(Snowplow events include browser metadata - in Service Ping, we don't have access to that data)*
+
 ## Event/metric instrumentation
 
 ### Service Ping
