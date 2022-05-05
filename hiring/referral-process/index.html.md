@@ -51,6 +51,7 @@ All GitLab team members are eligible for the [Referral Bonus](/handbook/incentiv
 * If the Referring Team Member is a part of the **Hiring Team** for the referred vacancy.
     * e.g. a *Recruiter* or *Hiring Manager*.
         * If the situation allows, a Hiring Team Member (**excluding** the *Recruiter* and *Hiring Manager*) can recuse themselves from interviewing the Referral.
+* If the Referring Team Member is a part of the Talent Acquisition team they are not eligible given the nature of their position is to engage candidates.
 * If the Referring Team Member would manage the Referral directly.
 * If there's a perceived conflict of interest.
 * If the Referring Team Member is at the VP level [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) or the [Executive Group](https://about.gitlab.com/company/team/structure/#executives).
