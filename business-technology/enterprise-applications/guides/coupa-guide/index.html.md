@@ -145,7 +145,7 @@ For Field Marketing Dept Only - please refer to the [Field Marketing Handbook - 
 
 - Complete the form with the following information:
 
-![coupa-image-5](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa5.png)
+![coupa-image-5b](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa5b.png)
 
 - a) Item Description _(required)_<br>
 - b) Choose if Amt (amount) or Qty (quantity)_(required)_<br>
@@ -153,21 +153,25 @@ For Field Marketing Dept Only - please refer to the [Field Marketing Handbook - 
    - Quantity should be selected for an item-based requisition and Receiving of goods will be required.
    - When Professional Services are bought together with a software, they should be added in different lines (since they will fall under different commodities). Software purchases are usually based in the amount and not the quantity.
 - c) Supplier _(required)_<br>
-   - The supplier has to be onboarded into Coupa in order to be displayed in this dropdown. Check the _[How to Request a New Supplier](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier)_ section for more information.
+   - **The supplier has to be onboarded into Coupa in order to be displayed in this dropdown.** Check the _[How to Request a New Supplier](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier)_ section for more information.
 - d) Commodity _(required)_<br>
 - e) Unit Price _(required)_<br>
 - f) Currency _(required)_<br>
-- g) Qty _(required if Qty-based)_<br>
-- h) UOM _(required if Qty-based)_<br>
+- g) Qty _(required if Qty based)_<br>
+- h) UOM _(required if Qty based)_<br>
 - i) Need by _(optional)_<br>
 - j) Supplier Part Number _(optional)_<br>
 - k) Manufacturer Name _(optional)_<br>
 - l) Manufacturer Part Number _(optional)_<br>
-- m) Service Start Date _(required)_<br>
-- n) Service End Date _(required)_<br>
-- o) Payment Structure _(optional)_<br>
-- p) Attachments _(optional)_<br>
-- q) Write Multiple Request _(tick this box if you will create multiple lines)_<br><br>
+- m) Is this a prepaid? _(optional) - if yes, check the box and review the [Coupa Prepaid Automation Process](/handbook/business-technology/enterprise-applications/guides/coupa-prepaid/) for more details on completing the request. <br>
+- n) Amortization Schedule _(if prepaid box is checked, then required)_<br>
+- o) Service Start Date _(required)_<br>
+- p) Service End Date _(required)_<br>
+- q) Allocadia ID _(optional)_<br>
+- r) Payment Structure _(optional)_<br>
+- s) Requested Virtual Card Supplier _(optional)_ <br>
+- t) Attachments _(optional)_<br>
+- u) Write Multiple Request _(check the box if you will create multiple lines)_<br><br>
 - Click "Add to Cart" once completed.
 - Review your cart by clicking on the "Cart" button at the top of the page.
    - All the cart details will be displayed and the requestor can review and/or edit the details as required. (This is the Purchase Request form that will be flipped into an Order when approved).
