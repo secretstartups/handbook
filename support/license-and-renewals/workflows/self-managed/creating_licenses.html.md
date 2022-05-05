@@ -55,7 +55,7 @@ When an existing license isn't available to duplicate, use the [create new licen
 
 ### Create a new license
 
-To create a new license, click `Add new License` then follow the process listed below for creating a [Legacy License](create-a-legacy-license) or [Offline Cloud License](#create-an-offline-cloud-license).
+To create a new license, click `Add new License` then follow the process listed below for creating a [Legacy License](#create-a-legacy-license) or [Offline Cloud License](#create-an-offline-cloud-license).
 
 **Note:**
 - Depending on the selected license type, different fields are required. Please see the required fields section
