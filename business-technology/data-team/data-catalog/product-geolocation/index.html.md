@@ -102,10 +102,7 @@ The Product Geolocation Dashboard is built using the `usage_ping_mart` data mode
   - To understand what tables were accounted for in creating the usage_ping_mart, check out the Service Ping Mart Entity Relationship Diagram.
     - By understanding the ERD, you can understand how different data sources join and modify the model to suit your need.
 
-
-
-
-  ### Entity Relationship Diagrams
+### Entity Relationship Diagrams
 
 | Diagram/Entity                                                                                        | Grain         | Purpose                                                    | Keywords |
 | ----------------------------------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------- |
