@@ -15,7 +15,7 @@ GitLab consists of many subprojects. A curated list of GitLab projects can be fo
 
 When creating a new project, please follow these steps:
 
-1. Read and familiarize yourself with our stance on [Dogfooding](/handbook/engineering/principles/#dogfooding). Be aware that as part of a product development organization that builds a tool for people like us, that our default is to add features and tooling to the GitLab project. This is still true when the effort to do so is 2-5x. Despite this, if you still feel you need to create a project outside of GitLab, you must follow this process to [document the decision](/handbook/product/product-processes/#dogfooding-process)
+1. Read and familiarize yourself with our stance on [Dogfooding](/handbook/engineering/development/principles/#dogfooding). Be aware that as part of a product development organization that builds a tool for people like us, that our default is to add features and tooling to the GitLab project. This is still true when the effort to do so is 2-5x. Despite this, if you still feel you need to create a project outside of GitLab, you must follow this process to [document the decision](/handbook/product/product-processes/#dogfooding-process)
 1. Please avoid creating projects directly at the top-level/root namespaces unless necessary (E.g. `gitlab-org/NEW_PROJECT`). Doing so creates context and permission inheritance complications. Ensure that the project is under a subgroup of:
    * [`gitlab-org`](https://gitlab.com/gitlab-org) for anything related to the application.
    * [`gitlab-com`](https://gitlab.com/gitlab-com) for anything strictly company related.
