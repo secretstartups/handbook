@@ -20,9 +20,13 @@ The goal of a GitLab integrated campaign is to strategically land a cohesive mes
 
 **Questions? Please feel free to ask in the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-campaigns.**
 
+Below is a visual of the integrated campaigns (live, in progress, and scheduled) and how they connect to activation in regions and across segments. [See the full visual here](https://drive.google.com/file/d/16yxJe497spO4oXDj8EMCButP0D5bZiW5/view?usp=sharing) - GitLab Team Members Only
+
+
+
 ## What is involved in an Integrated Campaign?
 
-An integrated campaign is aligned to key go-to-market motions, decided in collaboration between marketing and sales, and built out by a [campaign core team](/handbook/marketing/campaigns/#campaign-core-teams). A [campaign manager](](/handbook/marketing/demand-generation/campaigns/)) will lead the effort, working closely with the campaign core team, to develop a [campaign bundle](/handbook/marketing/campaigns/#campaign-bundles) that is then used by all teams in marketing for [activation across channels and tactics](/handbook/marketing/campaigns/#campaign-activation), and integrated with revenue programs for a cohesive end-to-end experience for the prospective customer.
+An integrated campaign is aligned to key go-to-market motions, decided in collaboration between marketing and sales, and built out by a [campaign core team](/handbook/marketing/campaigns/#campaign-core-teams). A [campaign manager](/handbook/marketing/demand-generation/campaigns/) will lead the effort, working closely with the campaign core team, to develop a [campaign bundle](/handbook/marketing/campaigns/#campaign-bundles) that is then used by all teams in marketing for [activation across channels and tactics](/handbook/marketing/campaigns/#campaign-activation), and integrated with revenue programs for a cohesive end-to-end experience for the prospective customer.
 
 ### What is in a campaign bundle?
 {: #campaign-bundles}
@@ -154,29 +158,49 @@ Our dashboards are owned and managed by the Marketing Strategy and Performance t
 * **[View FY22 Integrated Campaigns and GTM Motions here >>](https://about.gitlab.com/handbook/marketing/plan-fy22/)**
 * **[See FY21 Integrated Camapigns here >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/749)**
 
+### 🚀 Automated Software Delivery (Solution Campaign)
+{: #cicd}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+**Campaign Manager DRI: TBD (Backfill for Jenny)**
+
+**Launched: 2020-04-27 and continually optimized**
+
+* [Campaign Brief](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#memo-campaign-brief)
+* [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#busts_in_silhouette-campaign-core-team)
+* [Current/Planned Content and Events](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#fy23-new-planned-content-events)
+* [Epic in GitLab](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850)
+
 ## Active Integrated Campaigns
 {: #active-integrated-campaigns .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 The below global integrated campaigns are continally optimized by the Marketing Campaigns team, in collaboration wit Digtial Marketing, Technical Marketing, Product Marketing, and beyond. These campaign bundles are leveraged by all teams in Marketing to apply cohesive and consistent messaging and approach across all marketing channels and tactics.
 
-### 🚀 CI
-{: #ci-use-case}
+### 🚀 CI/CD (Capability Campaign)
+{: #cicd}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Campaign Manager DRI: Agnes Oetama**
+**Campaign Manager DRI: TBD (Backfill for Jenny)**
 
 **Launched: 2020-04-27 and continually optimized**
 
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741)
-* [Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/)
-* [Campaign Review 2021-09-09](https://docs.google.com/presentation/d/1TG7SAHUub3BqclJg4nawDARecOOaQ4NpMaxDnXWWtF8/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
-* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/873)
-* [Live landing page](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/)
-* [Slack](https://gitlab.slack.com/archives/CVDQL20BA)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df8y)
+* [Campaign Brief](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#memo-campaign-brief)
+* [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#busts_in_silhouette-campaign-core-team)
+* [Current/Planned Content and Events](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#fy23-new-planned-content-events)
+* [Epic in GitLab](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850)
+* [Handbook: CI Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/)
+* [Handbook: CD Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/cd/)
+* [Handbook: CI Message House](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/message-house/)
+* [Handbook: CD Message House](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/cd/message-house/)
+* [Website: CI Solution Page](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+* [Website: CI Solution Page](https://about.gitlab.com/stages-devops-lifecycle/continuous-delivery/)
+* [2022-04-07 CI/CD Campaign Review Deck](https://docs.google.com/presentation/d/1mqYScmF1bjON0PsjfurmsChcVdCkMsjkDvTK5YyOlIQ/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
+* [2021-09-09 CI/CD Campaign Review Deck](https://docs.google.com/presentation/d/1TG7SAHUub3BqclJg4nawDARecOOaQ4NpMaxDnXWWtF8/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
+* Slack: [#gtm-cicd](https://gitlab.slack.com/archives/CVDQL20BA)
+* Campaign UTM = `singleappci`
 
-### 🚀 DevOp Platform
+### 🚀 DevOp Platform (Capability Campaign)
 {: #devops-platform}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -184,13 +208,19 @@ The below global integrated campaigns are continally optimized by the Marketing 
 
 **Launched: 2020-04-28 and continually optimized**
 
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1822)
-* [Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
-* [Campaign Review 2021-10-28](https://docs.google.com/presentation/d/1yGif0bLL2xiC_fFUVzM4eSRcU9g-aOkqpPVAElby1KY/edit#slide=id.gaf9c1b1f24_0_0) - GitLab Team Members Only
-* [Slack](https://gitlab.slack.com/archives/C01NLEXE34L)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df8y)
+* [Campaign Brief](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#memo-campaign-brief)
+* [Current/Planned Content and Events](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#fy23-new-planned-content-events)
+* [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#busts_in_silhouette-campaign-core-team)
+* [Epic in GitLab](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858)
+* [Handbook: DevOps Platform Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
+* [Handbook: DevOps Platform Message House](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/message-house/)
+* [Website: DevOps Platform Solution Page](https://about.gitlab.com/solutions/devops-platform/)
+* [2022-04-05 DevOps Platform Campaign Review Deck](https://docs.google.com/presentation/d/1SaUSVSMr2vviMtZ6B30ld-or1bd4TuUjMn0EPFWT1QU/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
+* [2022-10-28 DevOps Platform Campaign Review Deck](https://docs.google.com/presentation/d/1yGif0bLL2xiC_fFUVzM4eSRcU9g-aOkqpPVAElby1KY/edit#slide=id.gaf9c1b1f24_0_0) - GitLab Team Members Only
+* Slack: [#gtm-devops-platform](https://gitlab.slack.com/archives/C01NLEXE34L)
+* Campaign UTM: `devopsgtm`
 
-### 🚀 DevSecOps
+### 🚀 DevSecOps (Capability Campaign)
 {: #devsecops-use-case}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -206,7 +236,7 @@ The below global integrated campaigns are continally optimized by the Marketing 
 * [Slack](https://gitlab.slack.com/archives/CV8GZ63GR)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df4w?srPos=0&srKp=701)
 
-### 🚀 GitOps
+### 🚀 GitOps (Capability Campaign)
 {: #gitops-use-case}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -221,33 +251,6 @@ The below global integrated campaigns are continally optimized by the Marketing 
 * [Slack](https://gitlab.slack.com/archives/C0119FNPA84)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dgJ9)
 
-### 🚀 Version Control & Collaboration (VC&C)
-{: #vcc-use-case}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**Campaign Manager DRI: Jenny Tiemann**
-
-**Launched: 2020-06-09 and continually optimized**
-
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/742)
-* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/927)
-* [Live landing page](hhttps://about.gitlab.com/why/simplify-collaboration-with-version-control/)
-* [Slack](https://gitlab.slack.com/archives/CVB3AKJNA)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfsw)
-
-### 🚀 Competitive campaign 3.0
-{: #competitive-campaign-3}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**Campaign Manager DRI: Agnes Oetama**
-
-**Launched (Original): 2020-11-16 and continually optimized**
-
-* [Parent epic with tactical issues](https://gitlab.com/groups/gitlab-com/-/epics/1029)
-* [Live landing page - Manager Persona](https://about.gitlab.com/blog/2019/11/26/migrating-from-jenkins/)
-* [Live landing page - Practitioner Persona](https://page.gitlab.com/gitlabci-vs-jenkins-demo.html)
-* [SFDC Campaign - Manager >>](https://gitlab.my.salesforce.com/7014M000001ll99?srPos=0&srKp=701)
-* [SFDC Campaign - Practitioner >>](https://gitlab.my.salesforce.com/7014M000001dlvz?srPos=0&srKp=701)
 
 ### 🚀 France CI Localized
 {: #ci-france-localized}
@@ -282,6 +285,34 @@ The below global integrated campaigns are continally optimized by the Marketing 
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 The below were campaigns run historically, and aligned to overall GTM. They have since been retired in order to run new global campaigns aigned to updated GTM strategies between Sales and Marketing.
+
+### 🌄 Version Control & Collaboration (VC&C)
+{: #vcc-use-case}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+**Campaign Manager DRI: Jenny Tiemann**
+
+**Launched: 2020-06-09 and continually optimized**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/742)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/927)
+* [Live landing page](hhttps://about.gitlab.com/why/simplify-collaboration-with-version-control/)
+* [Slack](https://gitlab.slack.com/archives/CVB3AKJNA)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfsw)
+
+### 🌄 Competitive campaign 3.0
+{: #competitive-campaign-3}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+**Campaign Manager DRI: Agnes Oetama**
+
+**Launched (Original): 2020-11-16 and continually optimized**
+
+* [Parent epic with tactical issues](https://gitlab.com/groups/gitlab-com/-/epics/1029)
+* [Live landing page - Manager Persona](https://about.gitlab.com/blog/2019/11/26/migrating-from-jenkins/)
+* [Live landing page - Practitioner Persona](https://page.gitlab.com/gitlabci-vs-jenkins-demo.html)
+* [SFDC Campaign - Manager >>](https://gitlab.my.salesforce.com/7014M000001ll99?srPos=0&srKp=701)
+* [SFDC Campaign - Practitioner >>](https://gitlab.my.salesforce.com/7014M000001dlvz?srPos=0&srKp=701)
 
 ### 🌄 Increase operational efficiencies
 {: #increase-operational-efficiencies}
@@ -443,21 +474,30 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 #### :calendar: [Campaign Execution Timeline >>]() - `to be added once created by Campaign Manager`
 #### :mega: [Slack Channel >>]() `to be added once created by Campaign Manager`
 
-## Team
-* Campaigns (DRI): [name] @[handle] 
-* Product Marketing: 
-* Technical Marketing: 
-* Content Marketing: 
-* Digital Marketing: 
-* Brand: 
-* Revenue Programs: 
-* Partner Marketing: 
-* SDR Leadership: 
-* SDR Enablement: 
-* Field Marketing (Liaison): 
-* Corporate Marketing (Liaison): 
+## :busts_in_silhouette: Campaign Core Team
+| Primary Stakeholder | Name | Contact |
+| ------ | ------ | ------ |
+| Campaigns (DRI) | ? | @? |
+| Product Marketing | ? | @? |
+| Technical Marketing | ? | @? |
+| Content Marketing | ? | @? |
+| Revenue Programs | ? | @? |
+| Brand | ? | @? |
+| Partner Marketing (Partner) | ? | @? |
+| Partner Marketing (Alliance) | ? | @? |
+
+| Secondary Stakeholder | Name | Contact |
+| ------ | ------ | ------ |
+| Digital Marketing | ? | @? |
+| SDR Leadership | ? | @?  |
+| SDR Enablement | ? | @? |
+| Corporate Marketing (Liaison) | ? | @? |
+| Field Marketing (Liaison) | ? | @? |
 
 ## :memo: Campaign Brief
+### Campaign Focus Reasoning
+`to be added`
+
 ### Business Objectives
 `to be added`
 
@@ -474,25 +514,30 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 - `to be added`
 - `to be added`
 
-### Aligned Content & Planned Events
+### New Planned Content & Events
 * `To be added`
 * `To be added`
+
+### Existing Content & Videos/Recordings
+* Needs to be added
 
 ### Marketing Channel Mix
-`to be added upon discussion with activation teams (digital markeitng, lifecycle marketing, ABM, SDR, etc.)`
-* [ ] Email Marketing
-* [ ] Paid Ads (SEM)
-* [ ] Paid Social
-* [ ] Demandbase (Key Accounts)
+`to be added upon discussion with activation teams (digital marketing, lifecycle marketing, ABM, SDR, etc.)`
+
+Note that regional and global activation can ebb and flow in these always-on campaigns. The campaigns team and digital marketing continually review campaign performance to invest $$ (aligned to regional pipeline goals) based on campaigns and channels that are performing.
+
+Organic: 
+* [ ] Email
+* [ ] Organic Social (LinkedIn, Facebook, Twitter)
+* [ ] Site Merchandising
+* [ ] Podcast (audio)
+* [ ] YouTube (video)
 * [ ] Outreach Emails
 
-## 🔗 UTM for tracking URLs
-* Overall utm_campaign - `tbd`, i.e. **`utm_campaign=`** [determine UTM with Campaigns & Digital Marketing]
-* [Read more aobut UTM Strategy](https://about.gitlab.com/handbook/marketing/utm-stratey)
-
-## ⚡ Quick Links
-* [Marketo Program]()
-* [SFDC]()
+Paid Media:
+* [ ] Paid Social (LinkedIn, Facebook, Twitter) _any other channels to consider? where is our audience hanging out?_
+* [ ] Paid Search (Google Ads)
+* [ ] Demandbase (Key Accounts)
 
 /label ~"dg-campaigns" ~"mktg-demandgen" ~"Content Marketing" ~"Digital Marketing Programs" ~"Product Marketing" ~mktg-website ~design ~"Social Media" ~"Portfolio Marketing" ~"mktg-status::wip"
 ```
