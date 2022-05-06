@@ -55,7 +55,34 @@ Key features of this call include:
 
 ### Selection Criteria - FY23-Q1
 
-In total, 12 team members from across the Field organization will be recognized. The categories by segment for FY23-Q1 winners will be added here once decided on by CRO LT. 
+In total, 12 team members from across the Field organization will be recognized. The categories by segment for FY23-Q1 include:
+
+**Enterprise Sales**
+1. The Land with Vision, Expand with Purpose Award
+1. Sales Hiring Pro Award
+1. The Renewal Results Award
+
+**Commercial Sales**
+1. The R7 Results Delivery Award
+1. FY23-Q1 COMM Rookie Award
+
+**Customer Success**
+1. The Top Delivery Team Results Award
+1. The SA Customer Results Award
+1. The T(e)AM Expansion Award
+
+**Channel** 
+1. The Partner Collaboration Award
+1. Commercial Excellence Award
+   1. Note: Will rotate COMM and ENT quarterly
+
+**Alliances**
+1. Alliances Peak Results Award
+
+**Field Operations**
+1. FOPS MVP
+
+You can see a full description of each award [in this spreadsheet](https://docs.google.com/spreadsheets/d/1TTz-DjIt3HqEErwjyh7ssPk9eeuzZH_JRzPea-y2k4Q/edit#gid=1782016599).
 
 Considerations include: 
 1. Categories are reevaluated by CRO leadership and Field Operations every quarter and changed if deemed necessary. 
