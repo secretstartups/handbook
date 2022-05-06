@@ -271,7 +271,7 @@ Example Dashboards:
 
 ## Maintaining the status of OKRs
 
-Teams should update the Health Status of their KR issues and present them in their [Key Review](/handbook/key-review/){:data-ga-name="key reviews"}{:data-ga-location="body"}.
+Teams should update the Health Status of their key results in Ally.io within the first five business days of every month and present the most recent update in the [Key Review](/handbook/key-review/) that immediately follows the Ally.io update. If a key result is off track, it should be clear why. The notes should be updated or there should be a link to an issue, an epic, or another source for details.
 When presenting the status of OKRs, we use the following terms to denote the status of a key result:
 1. On track - the DRI is confident the key result will be achieved.
 1. Needs attention - the DRI believes there is some risk the key result will be achieved. Elevated attention is required in order for the key result to be achieved.
@@ -301,7 +301,7 @@ Please update scores in addition to status in Key Result Meetings.
 ## Everyone can contribute
 
 Everyone is welcome to a suggestion to improve any OKR.
-To update please make a merge request and post a link to the MR in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO. If commenting on a functional objective or KR, comment directly in the epic or issue.
+To update please make a merge request and post a link to the MR in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO. If commenting on a functional objective or KR, comment directly on the OKR in Ally.io.
 
 ## OKR resources:
 * [With Goals, FAST beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/)
