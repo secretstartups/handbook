@@ -9,9 +9,9 @@ get merged into GitLab.
 
 ## Responsibilities
 
-* Triage merge requests labeled `~"Community contribution"` according to the [Wider Community Merge Request Triage policy](/handbook/engineering/quality/merge-request-triage).
+* Triage merge requests labeled [`~"Community contribution"`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name[]=Community%20contribution) according to the [Wider Community Merge Request Triage policy](/handbook/engineering/quality/merge-request-triage).
 * Close merge requests that we don't want, with a clear explanation on the
-  reasons why, so that people don't feel discouraged.
+  reasons why, so that people don't feel discouraged but incentivized that they can make a difference next time.
 * Help contributors to get their merge requests to meet the
   [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria).
 * Act on the merge requests assigned to you on the daily [newly created community contribution merge requests triage report](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage).
