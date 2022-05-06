@@ -84,7 +84,7 @@ Review the progam timeline below for the next iteration of this program which wi
 | 2022-01-21  | Pairing of mentor relationships complete and communicated to applicants | |
 | 2022-01-24 to 2022-02-04 | Mentor/Mentee pre-program coffee chats | |
 | 2022-02-2 and 2022-02-3 | [Initial program Kickoff meeting](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#program-structure) | [Meeting Agenda](https://docs.google.com/document/d/1a6G7wqcfZTtEbMzsN0sdf-s7-GKIE6H2s0J_-XdFduM/edit) |
-| 2022-06 | End of program celebration | Exact date TBD |
+| 2022-06-15 | End of program celebration | [Meeting Agenda](https://docs.google.com/document/d/1Iek-_2v72z-9Y593g5iCAy0tw2FYyGriLnJch9oCPHM/edit?usp=sharing) |
 
 
 ## Being a Mentor
