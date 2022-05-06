@@ -62,6 +62,9 @@ The [central data team](https://about.gitlab.com/handbook/business-technology/da
 - Read our [meeting notes](https://docs.google.com/document/d/1fQ8zO1t4q_YkwatAlfSleFIG5iugQhx3pOiTxqCs4kk/edit?usp=sharing) and watch meeting recordings [access required]
 
 
+## Resources and Projects
+- [Source of Truth Fields for Reporting](https://about.gitlab.com/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/): WIP reference page for analysts, the output of Q1FY23 FACE quarterly project
+
 
 
 
