@@ -183,7 +183,7 @@ Please refer to our [infradev process](https://about.gitlab.com/handbook/enginee
 
 ### Maintenance triaging process
 
-To help our Product Manager prioritizng maintenance issues, the engineering team assigns them a [priority label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority).
+To help our Product Manager prioritize maintenance issues, the engineering team assigns them a [priority label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority).
 
 1. Leverage the [Maintenance issues board](https://gitlab.com/groups/gitlab-org/-/boards/2168528?label_name[]=group%3A%3Acomposition%20analysis&label_name[]=type%3A%3Amaintenance).
 1. For each open issue that has no Priority label ("Open" column), shortly investigate the issue (< 1h) and comment with your findings. Make sure the correct sub-category label is applied per our [Work type clasification](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification) (e.g. `~maintenance::refactor`).
