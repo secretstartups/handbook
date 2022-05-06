@@ -186,11 +186,9 @@ The [Product DRI](#rd-roles) has the following responsibilities:
 
 ### Product Manager responsibilities
 
-JiHu contributions are similar to community contributions. The difference is they are higher in volume and frequency. GitLab also has more opportunities to directly influence the contributions.
+JiHu contributions are similar to community contributions. The difference is they are higher in volume and frequency. As JiHu ramps up in the GitLab codebase, they are also eager to build understanding and learn where and how they might contribute to GitLab. Product Managers can share their public directions and work with the JiHu team to help JiHu become self-sufficient and efficient.
 
-As JiHu ramps up in the GitLab codebase, they are eager to build understanding and learn where and how they might contribute to GitLab. Product Managers are encouraged to share their directions and work with the JiHu team on their product areas.
-
-At times, product managers are asked to provide feedback or directly respond to proposals from JiHu. GitLab PMs should help facilitate collaboration between engineers and enable JiHu to be efficient. This means if there's misalignment on product direction, call that out early so JiHu doesn't spend time working on things GitLab doesn't intend to merge. Instead, empower them to work on things that will further GitLab's roadmap.
+At times, product managers are asked to provide feedback or directly respond to specific proposals from JiHu. GitLab PMs should help facilitate collaboration between GitLab engineers and the JiHu team. This means if there's misalignment on product direction, call that out early so JiHu doesn't spend time working on things GitLab doesn't intend to merge.
 
 If product managers need help connecting with JiHu counterparts, ping the [Product DRI](#rd-roles) in [#jihu-product](https://gitlab.slack.com/archives/C01S8CFF7HR).
 
