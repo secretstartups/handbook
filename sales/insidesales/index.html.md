@@ -29,8 +29,10 @@ The mission of the Inside Sales department is to create valuable experiences for
 
 | Goals              | Behaviors              |
 | ------------------ | ---------------------- |
-| **1. Drive growth ARR for renewals with <$50k in ARR Basis** |  - Manage Renewals and Growth opportunities associated with <$50k Renewals |
-| **2. Maintain & improve renewal rate** | - Work closely with SALs, ASMs, CAMs, and TAMs to ensure on-time renewals. Work closely with channel partners, deal desk, internal teams and develop a process to stay 90 - 180 days ahead of all renewals |
+| **1. Manage & grow renewals with < or equal to $50k in ARR Basis** | Collaborate closely with SALs, ASMs, and regional sales teams to build account plans to retain, grow, and upgrade customers. Work with customers and partners to get 90-120 days ahead of all renewals. Conduct Renewal health checks to review current usage and potential for growth or upgrades. Support customers and partners with license procurement and fulfillment. |
+| **2. Drive nARR with upgrades and add-ons for growth opportunities with <$50k in ARR Basis** |  Support SALs and the field sales team with strategic growth including add-on and upgrade opportunities, assist with account planning, discovery, qualification, quoting & paper process, internal approvals, partner management, as well as licensing and fulfillment |
+| **3. Maintain & improve renewal rate** | Work closely with SALs, ASMs, CAMs, and TAMs to ensure on-time renewals. Work closely with channel partners, deal desk, internal teams and develop a process to stay 90 - 180 days ahead of all renewals |
+
 ## ISR Alignment
 
 After completing onboarding, Inside Sales representitives are assigned a territory by _region_ or a defined set of _Account Territories_. Current Enterprise ISR territory assignments can be found on the [GitLab Sales Territories page](https://about.gitlab.com/handbook/sales/territories/).
