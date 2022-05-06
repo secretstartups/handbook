@@ -344,6 +344,23 @@ with the rest of Support.
    working within both of these systems simultaneously, please see the
    [Prioritizing work](https://about.gitlab.com/handbook/support/support-global-groups/#prioritizing-work)
    topic on the SGG main handbook page.
+
+### 5. How should I handle a new ticket in which the customer has indicated a preferred region other than my own?
+
+If the next ticket in your group's view is set for another region, and you want
+to send the first response, please do it! And until your group agrees on a
+different process for this type of situation, please use this one:
+
+1. Assign yourself the ticket and send out a full first response.
+1. In the first response ask the customer if they want to keep working with you,
+   knowing that your work hours may not overlap much, or if they want to have
+   an SE in the preferred region take the ticket forward.
+1. If the customer is happy to work with you, then you're all set!
+1. If not, then ask in [your group's Slack channel](./index.html/#slack) for
+   an SE in the target region to take ownership of the ticket. Please be sure
+   that you've documented the ticket well, or that you chat with the new owner,
+   or both during the handover process. In other words, please do a "warm
+   transfer."
    
 ## Urgent Situations
 
