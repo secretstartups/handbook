@@ -39,14 +39,7 @@ When pairing over video chat, be sure you only pair with engineers that have acc
 
 ### Following up
 
-The US Federal Support instance does not use a mechanism that automatically solves a case after a set period of time. Instead, agents will follow up periodically with the end users to determine if the support case has reached a mutually satisfied state that allows resolution of the case. When following up with a user it may be important to consider addressing the following key points:
-
-- Let them know what action we're taking, whether solving it out or just following up
-- Summarize how long it's been since we've last heard from them
-- Reiterate to the user what information we were looking for in order to progress the case
-- Assure the user that if they do need further assistance:
-    - We're here waiting for their reply
-    - If solving: that their reply will reopen the case or create a follow-up
+The US Federal team has implemented an automated follow up system that checks in with the submitter of a case when the case has been in a `pending` state for 7 days. After 14 consecutive days in a pending state with no replies from the submitter the case will automatically move to a `solved` state.
 
 ##### Extending the follow up time
 
