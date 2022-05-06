@@ -288,11 +288,13 @@ _Important: Employment contracts cannot be backdated. If a team member requests 
 If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab.
 
 If they have been hired in Greenhouse and exported to BambooHR, Enablement will need to follow these steps:
-1. Unhire the candidate in Greenhouse if the req is still open. If the req is closed, Recruiting Ops will need to be brought in to unhire.
-1. Reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.
+1. Unhire the candidate in Greenhouse if the req is still open. If the req is closed, Enablement will need to be brought in to unhire.
+1. Ask the Recruiter to reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.  
 1. Cancel any scheduled emails in Greenhouse.
 1. Tag the VP, People Operations in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the VP, People Operations) can remove the profile, this is why this step is so important.
-1.  If they were hired via a PEO, inform the contact person at the PEO of this change immediately, ideally before onboarding starts.
+1. If they were hired via a PEO, inform the contact person at the PEO of this change immediately, ideally before onboarding starts. If they are in a country that uses outside payroll, we will need to inform the payroll company as well. 
+1. Message IT in the #people-exp_ces channel to let them know to cancel any equipment orders.
+1. If the Recruiter has not already tagged the FP&A approver in the Greenhouse notes, please tag them to let them know that the candidate has withdrawn.
 
 ## Letter of Adjustment
 
