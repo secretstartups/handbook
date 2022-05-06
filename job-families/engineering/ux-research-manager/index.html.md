@@ -80,7 +80,9 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 > - Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](https://about.gitlab.com/handbook/engineering/ux/ux-research/), and our [UX Department's handbook](/handbook/engineering/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call. 
-- The following steps would be scheduled after a successful review of your case studies. 
+
+##### The following steps would be scheduled after a successful review of your case studies: 
+
 - Interview with a UX Researcher. In this interview, the interviewer will spend a lot of time trying to understand the experiences and challenges you've had as a manager, specific details of any initiatives you've led, the problems you were trying to solve, and the outcomes of these initiatives. Do be prepared to talk about your work and research experience, too.
 - Interview with a Product Design Manager. The interviewer will also want to understand how you work with cross-functional partners, how you've handled conflict, and how you've dealt with difficult situations in the past.
 - Interview with a UX Research Director. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, your ways of ensuring the team is well-positioned to produce research studies that have a strong impact on product strategy, what types of teams you have led, and your management style.  This interviewer will also want to know how you think about the place of user research within an organization, understand how you define strategy and vision, and understand the size and scope of teams you've managed throughout your career.
