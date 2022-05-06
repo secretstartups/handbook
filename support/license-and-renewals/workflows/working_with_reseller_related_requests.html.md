@@ -25,6 +25,16 @@ Check if a subscription was purchased through reseller by locating the `Invoice 
 
 Note:  Sometimes you can also see Partners section in the end-user's SFDC account.
 
+### Requests to update end-user contact information
+
+**Important:** Do not send a license file to the reseller partner.
+
+If a reseller partner needs to have the end-user contact details updated (who should receive the license), you have the following options:
+
+- Have the current Sold-To contact file a support ticket with us, following the workflow [Add subscription management contact workflow](../customersdot/associating_purchases.html#add-subscription-management-contact-workflow)
+- The reseller partner may attach a copy of the invoice in order to request the contact change on the end-user's behalf
+
+
 ### Handling reseller customers' requests for direct renewal
 
 To assist a customer who requests to renew their subscription directly with GitLab instead of through their reseller, follow the [working with sales workflow](./working_with_sales.html) and ensure you mention that the customer first had a Reseller purchase. Sales Support will correct the account details in CustomersDot afterwards.
