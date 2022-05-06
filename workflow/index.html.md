@@ -414,8 +414,8 @@ We have the following deadlines:
   - Merging by the 17th **does not guarantee** that the feature will be in the `m` release. See [release timelines](/handbook/engineering/releases/#timelines).
   - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contribution-instructions) merged for all relevant issues.
   - By end of the day, milestone `m` is expired.
-- On or around `M, 19th`:
-  - [Group Retrospectives](/handbook/engineering/management/team-retrospectives/) should happen so they can inform the [public retrospective summary and discussion](#retrospective)
+- On or around `M, 21st`:
+  - [Group Retrospective issues](/handbook/engineering/management/team-retrospectives/) are updated with shipped and missed deliverables and team-members are tagged in the discussion. 
 - On `M, 19th`, or `M, 20th`, or `M, 21st`:
   - [Milestone Cleanup](#milestone-cleanup) runs on the schedule at [Milestone cleanup schedule](#milestone-cleanup-schedule)
 - On month `M, 22nd`: **Release Day** 🚀
@@ -425,13 +425,11 @@ We have the following deadlines:
   - The patch release process for milestone `m` starts. This includes regular and security patch releases.
   - All unfinished `m` issues and merge requests are automatically moved to milestone `m+1`, with the exception of `~security` issues.
 - On `M, 24th`: Moderator opens the [Retrospective planning and execution issue](#retrospective).
-- Between `M, 24th` to `M+1, 3rd`: Participants complete the [Retrospective planning and execution issue](#retrospective), add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
+- Between `M, 24th` to `M+1, 3rd`: Assignees of [Group Retrospective issues](#retrospective) summarize the discussion, ensure corrective actions are taken and a DRI is assigned to each. Actions related to participation in [section-based Retrospective Summaries](#retrospective-summary-experiment-in-fy22-q4) are taken.
 - On or around `M, 26th`:
   - [Product plans](/handbook/product/product-processes/#managing-your-product-direction) are to update to reflecting previous and current releases, including category epics and direction pages.
 - On or around `M, 28th`:
   - Non-critical security patches are  [released](../security/index.html#security-releases).
-- On `M+1, 4th`: Moderator records the [Retrospective Summary](#retrospective-summary) video and announces the video and discussion topics.
-- On `M+1, 6th:` [Retrospective Discussion](#retrospective) is held.
 
 Refer to [release post content reviews](/handbook/marketing/blog/release-posts/#content-reviews) for additional deadlines.
 
@@ -467,7 +465,7 @@ Each retrospective consist of three parts:
 **Timeline**
 
 - `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
-- `M, 19th`: Group Retrospectives should be held.
+- `M, 21st`: Group Retrospectives should be held.
 - `M, 24th`: Moderator opens the Retrospective planning and execution issue and communicates a reminder in R&D quad slack channels.
 - `M, 24th` to `M+1, 3rd`: Participants complete the Retrospective planning and execution issue, add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
 - `M+1, 4th`: Moderator records the Retrospective Summary video and announces the video and discussion topics.
