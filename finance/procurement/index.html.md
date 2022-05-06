@@ -22,6 +22,10 @@ Anytime a purchase is being made on behalf of GitLab that does not qualify as a 
 
 [Exceptions to the PO policy](https://about.gitlab.com/handbook/finance/procurement/#-what-are-the-exceptions-to-the-po-policy) include, but are not limited to, purchases under $5,000 USD.
 
+<a href="https://docs.google.com/presentation/d/1p4TVSjwa79zbVs-7iDZ3_YrR8WQgB7jC7ZC_iKyUq3Y/edit#slide=id.g127b84edaab_0_0"><img src="process.png" alt="Procurement process"></a>
+
+
+
 #### Shared Goals
 Procurement is a cross-functional team that supports GitLab as a public company. We have four key objectives monitored in the following ways:
 1. Risk Management and Compliance
