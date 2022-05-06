@@ -122,6 +122,8 @@ We currently focus on security findings with these severity levels:
 
 An exception is made for `Container scanning` findings - we focus only on findings with `Critical` severity.
 
+Please utilize all the time you have set aside. if you complete all the ones at Critical and High please continue to triage - we want to address all findings but we are working in a risk based order.
+
 #### Triaging vulnerabilities
 
 We use the Vulnerability Report with filters to focus on items matching [our policy](#security-policy) and reported on the relevant projects.
@@ -129,7 +131,7 @@ We use the Vulnerability Report with filters to focus on items matching [our pol
 1. [Analyzers Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&severity=HIGH&severity=CRITICAL&projectId=18446184&projectId=17987891&projectId=17450826&projectId=15369510&projectId=13150952&projectId=9450197&projectId=9450195&projectId=9450192&projectId=9396716&projectId=9358979&projectId=6126012)
 1. [Upstream scanners Vulnerability Report][Upstream scanners Vulnerability Report]
 
-For each "Detected" item, investigate and either [dismiss it](#dismissing-a-vulnerability) or [create an issue](#creating-security-issues). When the vulnerability is impacting a dependency (software library, system library, base image, etc,), the possibility of an upgrade should be evaluated first. Investigate the issue only when the upgrade is not straightforward.
+For each "Detected" item, investigate and either [dismiss it](#dismissing-a-vulnerability) or confirm it and [create an issue](#creating-security-issues) for discussion. When the vulnerability is impacting a dependency (software library, system library, base image, etc,), the possibility of an upgrade should be evaluated first. Investigate the issue only when the upgrade is not straightforward.
 
 If necessary, escalate to our [Application Security team](/handbook/engineering/security/security-engineering-and-research/application-security/) to establish whether there's indeed a threat.
 
@@ -140,11 +142,31 @@ For vulnerabilities discovered in upstream scanners, an issue must be created in
 When there is no doubt a vulnerability is a false-positive, it can be "Dismissed".
 When doing so, make sure to comment on the vulnerability status change to explain why.
 
+##### Low risk findings that can be dismissed
+
+Because of both the way severity is generically set in CVSS and automated scanners do not have all context for an application, many findings which may be high risk in other environments or scenarios are low risk for our users. The containers ingest code from a user project and that user has developer access, and the containers are ephemeral and related to a specific pipeline.
+
+In some other cases, a finding is related to an upstream dependency or Operating System and there is no fix available and no fix planned. Please be sure to mark this issues using the labels; blocked or blocked upstream.
+
+When an issue is both blocked for a few releases and low risk you may dismiss the finding with a note as to the reasoning. If there is an open issue notify the Application Security team with your specific reasoning and close the issue (if applicable). In the future we will specifically want to tag everything related to these findings as won't fix or blocked when they are being closed, for now that is only available on issues and not findings.
+
+The following class of container scan vulnerabilities can be considered low risk:
+  - Many kernel-related findings will be at a decrease of risk and hence severity because of the way our process works with temporary containers with limited inputs which are developer-controlled.
+  - Issues related to a software stack that will not apply to the analyzer e.g GUI related issues, issues in Bluetooth drivers, browser-related issues which require browser running in non-headless mode, etc.
+  - S3 or S4 findings with complex exploit method or limited risk which have no fix available, or the upstream has stated there are no plans to release a patch.
+  - Denial of Service (of the container/analyzer) as these containers run in ephemeral pipelines, are automatically stopped once a timeout is reached, and are accepting in code from users who already have developer access. This as a result is not an expansion of the risk profile.
+  - Random number generator issues (where the numbers are not random) as we don't use random numbers for security purposes from the containers. (At the time this was last updated these were true, please use your knowledge of our analyzers or ask if unsure)"
+
+  __To add items to the list above discuss repeatable finding patterns with Application Security, get approval from a leader in the security section, and add to this list.__
+
 #### Creating Security issues
 
 Unfortunately, creating a security issue can't be done yet via the "create issue" button from the vulnerability page or security dashboard as this only works when creating an issue in the same project where the error was reported and we've disabled the embedded issue tracker in our projects.
+
 Instead, in our workflow we open all our issues in [the main GitLab project](https://gitlab.com/gitlab-org/gitlab/issues).
+
 As a workaround, you can copy and paste the content of the vulnerability page (this keeps markdown formatting!). Please also follow our Security guidelines about [creating new security issues](/handbook/engineering/security/#creating-new-security-issues).
+
 You can leverage quick actions to add the necessary labels.
 
     /confidential
