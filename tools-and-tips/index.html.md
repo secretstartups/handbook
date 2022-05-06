@@ -771,7 +771,7 @@ Add as many time zone world clock as you wish by going to Settings -> World Cloc
 
 Check `Display secondary time zone` and select Coordinated Universal Time (UTC). This enables team members to standardize on a single time zone in communicating when meetings take place.
 
-![Google Calendar - Time Zone](/images/handbook/tools-and-tips/google-calendar-tinmezone.png)
+![Google Calendar - Time Zone](/images/handbook/tools-and-tips/google-calendar-timezone.png)
 
 ### Google Cloud Platform
 
