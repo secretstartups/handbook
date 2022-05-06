@@ -24,7 +24,7 @@ We expect that people will use the style presented in this guide during there de
 
 The previous style guide used a mixed indentation style that the linter does not support so every model will likely fail the first time it is checked. The intention is that models will be updated to the new style as they are worked on normally as not all of the rules can automatically enforced (such as explicit column aliasing). The intention of working updating them in the course of other development is to keep the changes manageable.
 
-### SLQFluff
+### SQLFluff
 
 SQLFLuff is a SQL linter that works with templating tools like dbt. We use it to define the basic structure and style of the SQL that we write and move the review of that structure and style into the hands of the authors. SQLFluff is included within the dbt development environment and it uses the dbt templating engine during the linting process. It can be used with the following command:
 
