@@ -19,7 +19,9 @@ See related [repository](https://gitlab.com/gitlab-data/data-science)
 - Natively connected to Snowflake using your dbt credentials. No login required!
 - Git functionality: push and pull to Gitlab repos natively within JupyterLab ([requires ssh credentials](https://docs.gitlab.com/ee/ssh/index.html))
 - Run any python file or notebook on your computer or in a Gitlab repo; the files do not have to be in the data-science container
+- Linting python code using [black](https://pypi.org/project/black/)
 - Need a feature you use but don't see? Let us know on [#bt-data-science](https://gitlab.slack.com/archives/C027285JQ4E) and we can add it!
+
 
 ### Getting Started
 First, you need to install and launch [Rancher Desktop](https://rancherdesktop.io/), an open-source container manager, on your local machine.
@@ -55,6 +57,14 @@ And command
 ``which pip``
 
 It lists location of your default pip. It should be in ``/Users/{your_user_name}/anaconda3/bin/pip``
+
+#### Linting the repository
+
+Included in the environment setup are all of the libraries needed to lint Jupyter notebooks in the repository. After completing the above setup instructions run: 
+```
+make lint
+```
+From the root of the data science repo, this will find and correct and issues according to the Black format. 
 
 #### Connecting to Snowflake
 
