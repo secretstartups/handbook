@@ -43,10 +43,11 @@ Upstream merge requests may require additional [specific team reviews](https://d
 1. JiHu author submits upstream merge request in draft
 1. JiHu author's manager is mentioned in the merge request description
 1. JiHu team will conduct a peer-review
-1. Merge request is set to 'ready' state when the JiHu peer review is complete.
+1. Once JiHu team peer review is complete. JiHu R&D manager will add `LGTM` or `Looks good` comment in the MR. 
+1. Merge request is then set to 'ready' state by JiHu team.
 1. JiHu author will request a review using `@gitlab-bot request_review` to identify and work on merging the MR with a merge request coach
 1. The MR goes through our documented review process which includes:
-  1. [Code review by domain experts](#what-approvals-are-required)
-  1. Review from owners of specific code files. JiHu merge request author is responsible to mention team members from list of require approvals in the MR Approvals widget. Currently for the following area:
-    1. Authentication related code
-  1. [GitLab Security Review](jihu-security-review-process.html#security-review-workflow-for-jihu-contributions), which will be triggered automatically.
+    1. [Code review by domain experts](#what-approvals-are-required)
+    1. Review from owners of specific code files. JiHu merge request author is responsible to mention team members from list of require approvals in the MR Approvals widget. Currently for the following area:
+        1. Authentication related code
+    1. [GitLab Security Review](jihu-security-review-process.html#security-review-workflow-for-jihu-contributions), which will be triggered automatically.
