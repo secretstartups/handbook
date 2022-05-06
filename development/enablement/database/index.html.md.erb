@@ -150,3 +150,17 @@ We document our insights, road maps and other relevant material in this section.
 * [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline)
 * [YouTube: Database Team Playlist](https://www.youtube.com/watch?v=BqwsRDpknfg&list=PL05JrBw4t0KoxfN-uO2YfvQUabp2kdUYT)
 * [YouTube: Database Office Hours Playlist](https://www.youtube.com/watch?v=p3ful2h8H-c&list=PL05JrBw4t0Kp-kqXeiF7fF7cFYaKtdqXM)
+
+## Dashboards
+
+### Cross-functional Backlog
+(<a href="https://app.periscopedata.com/app/gitlab/1000952/Interdepartment-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+We also track our backlog of issues, including past due security and infradev issues, and total open SUS-impacting issues and bugs.
+
+<%= partial "handbook/engineering/metrics/partials/interdepartment_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for('quality', "group", "Database") } %>
+
+### Merged Merge Request Types
+(<a href="https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail" target="_blank">Sisense↗</a>)
+MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
+
+<%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for('quality', "group", "Database") } %>
