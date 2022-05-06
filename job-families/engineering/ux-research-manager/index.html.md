@@ -54,7 +54,7 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 #### Interview Process
 
 - [Screening call](/handbook/hiring/#screening-call) with a recruiter. In this call we will discuss your experience, understand what you are looking for in a UX Research leadership role, talk about your work and approach to user research, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
-- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **~20-minutes in duration** and returned **within ten days** of the screening call. In addition to the details below, [this discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of what we're looking for.  
+- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **~20-minutes in duration** and returned **within ten days** of the screening call.  
 
 > ### Why we ask for a pre-recorded presentation
 > 
@@ -64,13 +64,12 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 > 
 > ### Presentation Topics
 > 
-> 1. An introduction: who you are, where you're based, your background, and why you're a UX Researcher.
-> 1. An overview of two case studies. One should be an overview of a high-impact individual project. The second should be something management related. This could be a story on how you overcame some kind of challenge, a process you introduced that had a lot of impact, or how you coached an employee to success. We want to understand: the size, discipline make-up, and structure of the team you were a part of; the goals of the project; what you personally did on the project, the challenges you faced throughout the project; and the meaningful business impact that the research resulted in. We also want to understand how you approached research;  how you synthesized research data to inform product and design decisions; and the final output of your research in the research-focused case study.  
+> 1. An introduction: who you are, where you're based, your background, and why you're a UX Research Manager.
+> 1. An overview of two case studies. One (1) should be an overview of a high-impact individual project. We want to understand how you approached research;  how you synthesized research data to inform product and design decisions; and the final output of your research in the research-focused case study.  The second (2) should be something related to your people management experiences. We want to understand your management style & why you decided to become a people manager. We'd also like to understand the details of a project you've led as a Manager. This could be a story on how you overcame some kind of challenge, a process you introduced that had a lot of impact, or how you coached an employee to success. We want to understand: the size, discipline make-up, and structure of the team you were a part of; the goals of the project; what you personally did on the project, the challenges you faced throughout the project; and the meaningful business impact that the research resulted in. 
 >
 > ### What we're looking for 
 > 
-> - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call being completed. 
-> - Ideally, a study you present should be relevant to the work you'd expect do at GitLab. This could be because the study involved research into the [persona(s)](/handbook/marketing/strategic-marketing/roles-personas/#user-personas) you'd study at GitLab, the study related to the DevOps or Developer tooling industry, is a study that went across multiple methods, or was a study that would be considered complex in nature. 
+> - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call being completed.  
 > - You share the recording using either a [private Youtube link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), a [Google Drive link](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en), or a [Loom link](https://www.loom.com/). 
 >   
 > 
@@ -80,7 +79,9 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 > - Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](https://about.gitlab.com/handbook/engineering/ux/ux-research/), and our [UX Department's handbook](/handbook/engineering/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call. 
-- The following steps would be scheduled after a successful review of your case studies. 
+
+##### The following steps would be scheduled after a successful review of your case studies:
+
 - Interview with a UX Researcher. In this interview, the interviewer will spend a lot of time trying to understand the experiences and challenges you've had as a manager, specific details of any initiatives you've led, the problems you were trying to solve, and the outcomes of these initiatives. Do be prepared to talk about your work and research experience, too.
 - Interview with a Product Design Manager. The interviewer will also want to understand how you work with cross-functional partners, how you've handled conflict, and how you've dealt with difficult situations in the past.
 - Interview with a UX Research Director. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, your ways of ensuring the team is well-positioned to produce research studies that have a strong impact on product strategy, what types of teams you have led, and your management style.  This interviewer will also want to know how you think about the place of user research within an organization, understand how you define strategy and vision, and understand the size and scope of teams you've managed throughout your career.
