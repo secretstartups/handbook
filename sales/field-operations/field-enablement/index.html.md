@@ -81,6 +81,7 @@ Design and deliver effective enablement solutions that grow field team members' 
 
 You can find a read-out of Field Enablement team results by quarter – including overall team achievements, progress against OKRs and program-specific key accomplishments and results – in the Field Enablement Quarterly Readout decks below: 
 
+- [FY23-Q1 Field Enablement Results Readout](https://docs.google.com/presentation/d/1pQFvcCjWXi7UVLV5fiJpuffvYB4GP6BhWYaj6SXGF54/edit?usp=sharing) (GitLab internal only)
 - [FY22-Q4 Field Enablement Results Readout](https://docs.google.com/presentation/d/1qwSx76vJzj5ETDclrIc7Asm4_zcp2tKTAO3jutf4IO0/edit?usp=sharing) (GitLab internal only)
 - [FY22-Q3 Field Enablement Results Readout](https://docs.google.com/presentation/d/1Cq2KcEsWehAGG_VaWCVyrXOliv0V8xf5pFWmcdjZ09k/edit?usp=sharing) (GitLab internal only)
 - [FY22-Q2 Field Enablement Results Readout](https://docs.google.com/presentation/d/1xVt4_1tl_8CgPNAexo4ycq5xWmb6nXEC7WUEBJv3oWw/edit?usp=sharing) (GitLab internal only)
@@ -195,7 +196,8 @@ Knowledge x Practice = Capability
     - [Monica Gomez](/company/team/#monicaj) (Manager, Field Communications & Content)
     - [Shannon Thompson](/company/team/#shannonthompson) (Field Communications Specialist)
     - TBH (Program Manager, Sales Content)
-
+- **[Senior Field Events Manager](/job-families/marketing/corporate-events/#senior-corporate-events-manager)
+    - TBH 
 
 </details>
 
