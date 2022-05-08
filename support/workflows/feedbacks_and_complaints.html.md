@@ -14,9 +14,11 @@ description: "Support Engineering workflow for receiving and responding to custo
 
 ### Overview
 
-After 24 hours of marking the ticket as solved a survey is sent to our customers, where they can rate the level of support they received.
+24 hours after a ticket is mark as solved, a satisfaction survey will be
+automatically sent to the customer.
 
-Use the following workflow when a customer submits feedback and/or complaints.
+Use the following workflow when a customer submits feedback or complaints
+in some other way.
 
 ### Workflow
 
@@ -35,6 +37,28 @@ For feature proposals, guide the customer on how to create the issues in [GitLab
 ### Refunds
 
 If a customer requests a refund, please follow the [Handling Refund Requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds) workflow.
+
+### Customer Feedback submitted in the ticket instead of in the feedback form
+
+A customer always has the option to submit feedback about their support
+experience via the
+[customer feedback form](https://gitlab-com.gitlab.io/support/customer-feedback/).
+The link to this form is included in the signature of all outgoing replies from
+Support Engineers in Zendesk.
+
+Sometimes a customer may provide feedback via the ticket directly. To ensure
+this feedback is captured, please create an issue in the Customer Feedback
+project using the
+[Indirect Feedback template](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect%20Feedback)
+and copy the feedback into the new issue. The
+[SSAT Reviewing Manager](https://gitlab.pagerduty.com/schedules#P9UIIDY)
+will be assigned to the issue and they will review the feedback and take
+appropriate action.
+
+In the meantime, you should continue to assist the customer with their queries
+and address their feedback if appropriate. If you are unsure on how to proceed,
+pleaes ask for help in the
+[#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) Slack channel.
 
 ### Venting
 
