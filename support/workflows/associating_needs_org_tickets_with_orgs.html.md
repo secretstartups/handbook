@@ -166,11 +166,17 @@ If you cannot identify a user as a customer, prospect, or trial, [mark them as a
 While often they match, the organization name a customer provides will not always match what's in ZD.
 
 Since [the ZD organization information is synced from the SFDC Account](/handbook/support/support-ops/responsibilities.html#account---organization-sync-from-salesforce),
-if you're unsure, [looking up the account in Salesforce](looking_up_customer_account_details.html#within-salesforce) for the org name.
+if you're unsure, [look up the account in Salesforce](looking_up_customer_account_details.html#within-salesforce) for the org name.
 
 You can search for organizations using the ZD search (see screenshot below).
 
 ![Selecting an organization in ZD](/images/handbook/support/zendesk_needs_org-finding-org.png)
+
+**If you find the correct organization in Salesforce, and it does not exist in
+ZD, please do not create the organization directly in ZD.** See the
+[Zendesk Global Organizations](../support-ops/documentation/zendesk_global_organizations.html)
+page to learn how we create organizations in ZD. Please reach out to our
+Support Ops Team for help with this situation.
 
 ### Adding a customer to an organization
 
