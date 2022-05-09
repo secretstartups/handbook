@@ -62,16 +62,20 @@ The Director, Global Content is a [grade 10](/handbook/total-rewards/compensatio
 
 * Extends that of the Senior Manager, Global Content
 * Lead the global content team to achieve production and website traffic growth results
-* Define strategy and execution plans for Content Marketing in support of overall Inbound Marketing and * Marketing Department goals and OKRs
+* Define strategy and execution plans for Content Marketing in support of overall Marketing OKRs
+* Develop overall content narrative to become a top destination for DevOps practioners 
+* Measure and report on content marketing strategy 
+* Develop strong, competitive and measurable SEO plans that fall in line with overall content marketing objectives 
 * Recruit, develop and retain world class talent to scale with the company's growth
-* You share our values, and work in accordance with those values
+* Push the team to try different content marketing tactics and distribution efforts to measure effectiveness
+* Share our values, and work in accordance with those values
 * BONUS: A passion and strong understanding of the industry and our mission
 
 #### Director, Global Content Requirements
 
 * Extends that of the Senior Manager, Global Content 
-* 2+ years experience leading a content marketing team
-* 5+ years experience in content marketing at an enterprise software company
+* Past experience leading a content marketing team
+* Experience leading content marketing at an enterprise software company
 * Experience leading teams of writers
 * Experience marketing highly technical products to the developer audience
 * Experience defining the high-level strategy
