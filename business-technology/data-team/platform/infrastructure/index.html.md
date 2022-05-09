@@ -650,10 +650,14 @@ Example for updating the runner version or group token
 helm list --namespace gitlab-data
 helm get values --namespace gitlab-data gitlab-runner
 helm get values --namespace gitlab-data gitlab-runner > values.yaml
+```
+Update the runnerRegistrationToken in `values.yaml` found at https://gitlab.com/groups/gitlab-data/-/runner when you click 'Register Group Runner'
+
+```
 helm repo add gitlab https://charts.gitlab.io
 helm repo update
 helm delete --namespace gitlab-data gitlab-runner
-helm install --namespace gitlab-data --name gitlab-runner -f values.yaml gitlab/gitlab-runner
+helm install --namespace gitlab-data gitlab-runner -f values.yaml gitlab/gitlab-runner
 ```
 
 Our YAML configuration is as follows:
@@ -679,7 +683,7 @@ rbac:
     - gitlab-runner
   serviceAccountName: gitlab-data-gitlab-runner
 resources: {}
-runnerRegistrationToken: <token found in https://gitlab.com/groups/gitlab-data/-/settings/ci_cd>
+runnerRegistrationToken: <token found in https://gitlab.com/groups/gitlab-data/-/runner when you click 'Register Group Runner> 
 runners:
   builds: {}
   cache: {}
