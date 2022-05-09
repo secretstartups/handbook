@@ -58,9 +58,10 @@ participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
 
 - Inbound support tickets are automatically distributed in a round-robin
   fashion to the groups
-  - there is a separate distribution for SaaS and SM tickets - if there are 5
-    groups then each group will get 1/5 of the SaaS tickets and 1/5 of the SM
+  - there is a separate distribution for SaaS, Saas-Account, Free-user and SM tickets - if there are 5
+    groups then each group will get 1/5 of the SaaS tickets, 1/5 of the SaaS-Account tickets, 1/5 of the Free-user tickets, and 1/5 of the SM
     tickets
+  - any supported ticket is routed via SGG except: L&R tickets, GitLab Incidents tickets and Emergencies tickets
 - Each group works primarily out of a single Zendesk view, named `SGG: [group name]`
   - the view shows only the tickets that were distributed to the group
   - the view shows all non-solved, non-pending tickets for the group
