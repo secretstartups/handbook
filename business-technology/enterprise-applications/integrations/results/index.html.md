@@ -71,7 +71,7 @@ title: "Integrations Engineering Results"
 {::options parse_block_html="true" /}
 
 <div id="hours-saved-container">
-<p id="hours-saved" saved="75">-</p>
+<p id="hours-saved" saved="78">-</p>
 <p class="text-center text-5xl text-bigger">Work-hours saved <br/> per month</p>
 </div>
 
@@ -101,6 +101,25 @@ This is a running list of applications we have enabled SSO for. All of this work
 **Work-hours saved per month:** 25
 
 ## Projects
+
+### FY2022 - Q3
+
+#### Product Qualified Leads real-time API
+
+**Synopsis:**
+
+The development of an API where the product team can send leads from the product which will reliably map and deliver those leads to Marketo.
+
+**Impacted team(s):**
+
+- Marketing Ops
+- Data
+- Business Technology
+
+**Value Realised**:
+- Greater ability to run targeted marketing campaigns
+- Allow us to realize more revenue by reaching out to leads
+
 
 ### FY2022 - Q2
 
@@ -148,6 +167,18 @@ The Fulfillment engineering team introduced a read-only role to the License App 
 ---
 
 ### FY2022 - Q1
+
+#### Billing Invoice PDF Downloader
+
+**Synopsis:**
+
+Every month the automation pulls all PDF invoices from Zuora for the UK and DE entities and compiles them into a Zip file on Google Drive to save the Billing team time and effort at the end of the month.
+
+**Impacted team(s):**
+
+- Accounts Receivable
+
+**Work-hours saved per month:** 3
 
 #### BambooHR > Navex Global
 
