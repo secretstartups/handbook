@@ -23,8 +23,12 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| 2022-05-04 | **Tabnine Integration Overview** | Prasad Bopardikar |
-
+| 2022-05-18 | TBD | TBD |
+| 2022-06-01 | TBD | TBD | 
+| 2022-06-11 | TBD | TBD | 
+| 2022-06-29 | DORA | Cesar Saavedra | 
+| 2022-07-13 | Turning Customers into Contributors | Brendan O'Leary | 
+| 2022-07-27 | Cloud Native GitLab Stack Overflow Data Analysis | William Arias | 
 
 ## Past Sessions
 <details>
@@ -32,6 +36,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2022-05-04 | **[Tabnine Integration Overview](https://youtu.be/eO6GruDlz8s)** | Public |
 | 2022-04-20 | **[GitLab Agent for Kubernetes and CI/CD tunnel with generic impersonation](https://youtu.be/NysUlIUx434)** |  Public |
 | 2022-04-06 | **[App Modernization with Google Cloud Platform](https://youtu.be/LoLaHUUHk1k)** | Public |
 | 2022-03-30 | **[Alliances Solution Index](https://youtu.be/sKl-pUNqHC4)** | Public |
