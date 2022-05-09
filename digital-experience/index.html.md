@@ -209,6 +209,12 @@ By allowing our team members to contribute to the health of our repository for a
 
 Digital Experience will dedicate one week or 8.33% per quarter to work on projects that improve the health of the `www-gitlab-com` repository, the developer experience, or tackle larger tech debt projects. These are projects that can not be completed in a single repository health day and require a higher degree of effort.
 
+### Data Studio Dashboard
+
+The Digital Experience team utilizes [Data Studio](https://datastudio.google.com/reporting/c47c1759-6d08-4f9b-aae3-3f6b4a3f8d0e/page/PUsnC), a dashboarding tool that visualizes data from Google Analytics, to monitor metrics related to web traffic, engagements, conversions, and site health over time. Team members can interact with the dashboard accordingly by changing the data range, filter by device type or traffic source, or drill-down certain reports with a secondary dimension. A detailed walk-through video of the dashboard is available [here](https://www.youtube.com/watch?v=z-JgjKfltoE). 
+
+To make a change request to the dashboard, please submit an issue to the [Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues) project with the `dex::analytics` label. 
+
 # Contact Us
 
 ### Slack Group
