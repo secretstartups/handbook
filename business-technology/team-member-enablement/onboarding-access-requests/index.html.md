@@ -125,11 +125,11 @@ Most roles that require higher performance machines are approved for a 14" or 16
 IT strongly encourages team members to select Macs; please only request a Linux laptop if you are experienced in Linux and capable of self-support.
 {: .alert .alert-info}
 
--  \*\* Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, and Digital Production are elibible for Dell Precision Mobile Workstation laptops from the 5500 or 5700 lines. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [16” display / 512 GB SSD / 32 GB of RAM / Intel i9 or i7 CPU](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop).  
-- Everyone else is eligible for laptops from the Dell Latitude 7300 line. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [13” display / 256 GB SSD / 16 GB of RAM / Intel Quad-Core i5 CPU](https://www.dell.com/en-us/work/shop/laptops/13-7300/spd/latitude-13-7300-laptop)
+-  \*\* Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, and Digital Production are elibible for Dell Precision Mobile Workstation laptops from the 5500 or 5700 lines. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [15.6” display / 512 GB SSD / 32 GB of RAM / Intel i9 or i7 CPU](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop).  
+- Everyone else is eligible for laptops from the Dell Latitude 7300 line. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [13.3” display / 256 GB SSD / 16 GB of RAM / Intel Quad-Core i5 CPU](https://www.dell.com/en-uk/work/shop/laptop-computers-for-businesses/latitude-7300-business-laptop/spd/latitude-13-7300-laptop)
 
 
-\*\*NOTE: The maximum price of Linux laptops is not to exceed **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model minimum 14 days, based on your locality, prior to your desired date to receive.
+\*\*NOTE: The maximum price of Linux laptops is not to exceed **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model a minimum of 14 days, based on your locality, prior to your desired date to receive.
 
 Our **only approved Linux laptop vendor at this time is Dell**. These laptops generally come pre-loaded with Ubuntu Linux in order to save money on unused Windows licenses. Dell do not currenty sell laptops pre-installed with Linux in Australia and New Zealand; staff will need to install Linux themselves.
 
@@ -384,6 +384,7 @@ DriveStrike collects the following information for GitLab:
 - All nearby WiFi networks, including SSID, signal strength, channel, and MAC address
 
 This light-touch reporting allows us to meet business and compliance needs, while maintaining the privacy of the GitLab team member. This will remain a top consideration throughout the process.
+
 
 **Drivestrike Installation Process**
 
