@@ -66,12 +66,15 @@ According to our [privacy policies](/privacy/), Support will not provide any inf
 
 ### Submitting internal license request extensions and viewing Support Tickets
 
-Sales requests for self managed and GitLab.com subscription extensions are now submitted via Zendesk instead of via an internal GitLab issue. You should now use the [internal requests form](https://gitlab-com.gitlab.io/support/internal-requests-form/) for such requests.  Please note that in order to submit a form you will require a Zendesk 'Light Agent' account,
-all GitLab Team Members can request a 'Light Agent' account and this will also enable you to see customer tickets in Zendesk and leave notes for the Support team. These accounts are free.
+Sales requests for self managed and GitLab.com subscription extensions are now submitted via Zendesk instead of via an internal GitLab issue. You should now use the [internal requests form](https://gitlab-com.gitlab.io/support/internal-requests-form/) for such requests. Please note that submitting the form requires a Zendesk 'Light Agent' account, which all GitLab team members can request. The account also enables team members to see customer tickets in Zendesk and leave notes for the Support team. These accounts are free.
 
-To request a Light Agent Zendesk account, please send an email to `gitlablightagent.2lba7m@zapiermail.com` - you'll receive an automated reply with the result of your request. **You must send your request from your GitLab Google / Gmail account. No other addresses will work.** The Subject and Body fields of the email can be empty. Once set up, you'll need to wait 24 hours for your account to be assigned Zendesk in Okta. Once Zendesk is assigned, you should be able to [log in](https://gitlab.zendesk.com/agent). If you don't get your account assigned within this period, please reach out to #support-operations in Slack. In most cases, people who don't get access within the 24 hours already had an end-user account which prevents the automation from working as expected.
+#### Requesting a ZenDesk 'Light Agent' account
 
-You cannot send public replies to customers with a Light Agent account - if you need to do this, please submit a [new Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for a paid full agent account. If needed, you can [read more information](https://www.zendesk.com/company/collaboration-add-on-additional-features/) on Light Agent accounts from Zendesk.
+To request a 'Light Agent' Zendesk account, please send an email to `gitlablightagent.2lba7m@zapiermail.com`. **You must send your request from your GitLab Google / Gmail account. No other addresses will work.** The Subject and Body fields of the email can be empty.
+
+You'll receive an automated reply with the result of your request. Once set up, you'll need to wait 24 hours for your account to be assigned Zendesk in Okta. Once Zendesk is assigned, you should be able to [log in](https://gitlab.zendesk.com/agent). If tour account isn't assigned within this period, please reach out to `#support-operations` in Slack. In most cases, people who don't receive access within 24 hours already had an end-user account, which prevents the automation from working as expected.
+
+Note that you cannot send public replies to customers with a Light Agent account. If you need to do this, please submit a [new Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for a paid full agent account. If needed, you can [read more information](https://www.zendesk.com/company/collaboration-add-on-additional-features/) on Light Agent accounts from Zendesk.
 
 ## Common Requests
 
