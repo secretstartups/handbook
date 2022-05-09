@@ -19,11 +19,42 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 **Not an emergency?** For important planned customer communications, please use [the customer update/announcement process](/handbook/marketing/emergency-response/#customer-comms-email), to enable teams to work together and plan without the urgency of an emergency request.
 
 **As soon as an emergency communication is recognized, the Requesting team MUST:**
-1. Create an **[incident communication request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)** (built to auto label and assign to the correct people)
-1. Notify in the #mktgops Slack channel
-1. If there is not a timely response in Slack, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
+1. Create an **[incident communication request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)** 
+1. Review the S1 coverage matrix below and assign the issue and tag the coverage owner closest available per their timezone hin the  #mktgops Slack channel.
+1. If there is not a timely response in Slack, please review the coverage owners' Slack profile and send them a quick call or text. If no timely response, tag @mktg-ops within the  #mktgops Slack channel or use escalation path below.
 1. In the template the requesting team will include details including CTA, email body, send date and **provide link to Google sheet containing list**. 
 1. If security, make sure to follow [instructions](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#roles-and-responsibilities-in-a-security-incident)
+
+### Coverage Matrix
+
+Please review the coverage owner closest available per their timezone when deciding who to reach out to. 
+
+ MOPs Team Coverage                          | PT / ET Time Available                 | Coverage Owner: Monday - Friday | Backup: Monday - Friday | Coverage Owner GEO Time |
+|---------------------------------------------|-------------------------------|---------------------------|-------------------------|-------------------|
+| UTC (Emea Working)                          | 11pm - 3am PT / 2am - 6am ET  | Mihai Conteanu            | Gillian Murphy          | 9am - 1pm EET     |
+| UTC (EMEA Working)                          | 3am - 7am PT / 6am - 10am ET  | Gillian Murphy            | Mihai Conteanu          | 11am - 3pm UK     |
+| UTC (Amer-Morning)                          | 7am - 11am PT / 10am - 2pm ET | Jameson Burton            | Nikki Silverberg        | 10am - 2pm ET     |
+| UTC (Amer-Afternoon)                        | 11am - 3pm PT / 2pm - 6pm ET  | Jameson Burton            | Nikki Silverberg        | 11am - 3pm PT     |
+| UTC (Amer-Evening)                          | 3pm - 6pm PT / 6pm - 9pm ET   | Amy Waller                | Nikki Silverberg        | 3pm - 6pm PT      |
+
+
+**Typical Team Timezones:**
+* Amy: PST Pacific Standard Time UTC:-8:00 
+* David: PST Pacific Standard Time UTC:-8:00
+* Nikki: MST Mountain Time UTC:-7:00
+* Jameson: EST Eastern Standard Time UTC: -5:00
+* Gillian: GMT Greenwich Mean Time UTC: +1:00
+* Mihai: EET Eastern European Time UTC: +2:00
+
+[Timezone Converter](https://dateful.com/time-zone-converter)
+
+**Escalation Path:**
+* Manager (Amy Waller)
+* Manager (Beth Peterson)
+* Director (David Brown)
+* If still no response, #marketing-campaigns team can help
+
+For Marketing Operations - When OOO/PTO please add this to the backup team members calendar for awareness.
 
 ## Roles and responsibilities
 
