@@ -152,6 +152,8 @@ Also to be considered:
 
 Besides creating the deck, there are a few other items to consider to ensure your EBR will go as smoothly as possible.
 
+1. It is highly encouraged to review and even build your deck with your champions to protect you and the customer from surprises. This co-creation process builds trust and creates a much more impactful EBR through collaboration. The collaboration enables the champion to add their major topics and contribute to the goals-based content as they will always be much closer to their objectives and outcomes.
+1. Create a dedicated SLACK thread in the specific internal customer channel with the GitLab team members attending 1hr before the EBR, to share the deck, call notes draft and remind them that taking notes is critical to capture the customer input / goals / key topics. 
 1. Ask someone else who will be on the call (e.g. your manager) to take notes and create a Google doc for notes in the customer folder. Having a dedicated notetaker ensures that you're able to effectively lead the conversation as well as focus on your content instead of switching between windows.
 1. There are usually specific product areas that customers have special interest in, and having the Product Manager for that area on the call can be incredibly valuable. Once you've scheduled the EBR and determined which PM would be most appropriate, reach out to the PM to ask if they are available and willing to join the presentation with an overview of recently delivered product functionality, as well as what features will be coming within the next year. Also set expectations for the time commitment expected from them; for example, 15 or 30 minutes at the end of the EBR. Once you've confirmed their availability, add them to the calendar invite and share your deck with them and add a dedicated section of the deck for them to add slides to. Make sure you follow up 48 hours in advance of the EBR if they haven't added their content.
 
@@ -176,3 +178,29 @@ This is a list of example impact questions the TAM can use throughout the EBR to
 To create the content for the EBR, please review the [EBR Template](https://docs.google.com/presentation/d/1Ubfsa7GgU7XEtr0IuPDaDA9s5dkm64u26T0Me08WP68/edit).  Note this template is aimed at EBRs 60-90 minutes in length, and the account team may want to consider adding or removing elements depending on most relevant content and time allotted. Please watch the [EBR interview](https://www.youtube.com/watch?v=luxIdKtGB_s&ab_channel=GitLabUnfiltered) for a walkthrough of the three major components of an EBR and tips & tricks on successful delivery!
 
 There are also several examples EBR decks and past recordings linked in the [Chorus Playlist](https://chorus.ai/playlists/741604) (Internal Only Link) and [EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing) (Internal Only Link) for TAMs and other GitLab team members to review and take inspiration from (please keep all customer-specific content confidential).
+
+### EBR Tips / Learnings 
+
+The following tips / learnings should further help TAMs when planning, executing EBRs with their customers.
+
+1. Try to plan multiple EBRs in a short timeframe like 6 in a single quarter. This constant focus on the EBRs will help you to:
+     - Grow your confidence in preparing and most of all executing EBRs.
+     - Build your perfect EBR templates (deck, emails, issue in collaboration project), specifically for your region / language.
+     - Find your personal messaging & flow within the deck/slides, which makes the EBR feel even more personal/partnership like for the customer.
+1. When moderating and executing an EBR, simply keep the focus on forward looking discussions (90%), (10% retrospective). 
+     - Let the customer and their team speak as much as possible. This is driving the discussions which you want to have in an EBR.
+1. After the EBR is over, immediately try to set up a quick 10min Zoom call with the GitLab Team members who joined the EBR to:
+     - Ask for feedback on what went well and what can be improved in next EBR. Document this in the notes for later reference.
+     - Align on the key topics, which have been communicated / discussed with the customer. 
+1. Record the EBR via Zoom. Make sure you ask the audience / customer for their permission before starting to record. 
+     - In your gdoc notes document, add a marker / agenda point at the top, to ask for permission to record. 
+     - Having all of the EBRs recorded as video, makes it a breeze to review yourself in a quiet part of the day and further iterate on things which you can do better the next time.
+1. Communicate the ask for an EBR as early as possible. 
+     - Expect that the date will slip by several weeks, as management attendance is hard to coordinate.
+1. Even when you prepared the EBR and scheduled it:
+     - Expect that it gets cancelled again. This is normal, and all your hard work was still worth it. You will be able to leverage the learnings sooner than you think
+ 
+
+
+
+
