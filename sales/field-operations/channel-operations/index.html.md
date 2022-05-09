@@ -24,7 +24,6 @@ New partner program changes are effective on August 15, 2021. Please visit the [
 ## Meet the Team
 ### Who We Are
 - Colleen Farris - Director, Channel Operations
-- Emily Murphy - Manager, Alliance Operations
 - Niles Jamshaid - Manager, Partner Operations
 - Dennis Zeissner - Partner Operations Analyst
 - Aura Villalobos - Partner Operations Analyst
@@ -86,27 +85,20 @@ All [**Partner Co-Sell**](https://about.gitlab.com/handbook/sales/field-operatio
 Partner Sourced Deal Registration logic needs to match `Sales Qualified Source = Channel Generated` on the opportunity.  
 
 For more information: [Deal Registration Program Overview](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).
- 
- 
-### Transacting Through Distribution
-As of May 3, 2021, all partners in India must transact through our distribution partner, Redington. 
-For the US and EMEA, we encourage Open Partners to purchase through Distribution, but it is not a requirement.  
-
-All US PubSec deals are transacted through Carahsoft or Immix (GSA only). 
-
 
 ### Billing Contacts in Partner Accounts
 When onboarding a new partner that will be purchasing directly from GitLab, a billing account must be created. Upon being notified of a new partner, the Channel Manager should ensure there is a contact created within the account that represents the partner's account's payable contact information. Chatter '@billing-ops' on the account record, provide the accounts payable contact information, and ask for a billing account to be set up. Partner accounts that will transact via distribution do not need a billing account set up. More information on billing accounts can be found on the [Billing Operations Handbook Page](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/).
- 
  
 ### Quoting Requirements for Channel Deals
 When a deal is being transacted via the Channel, and a discount other than the defined Program discounts are being offered, a GitLab quote is ***required***. At a minimum, a [Draft Proposal](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-draft-proposal) needs to be created and provided to the Partner.
 Discounted quotes not in SFDC and sent to a Partner are not permitted within any GEO or Sales Segment. This includes providing product and discounted pricing quote details in an email.  
 
-For ease with quoting, there is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) for use by internal GitLab Team Members.
+For ease with quoting, there is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) for use by internal GitLab Team Members. 
+
+Channel-specific quoting instructions can be found in the [Deal Desk Quote Configuration handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes).
  
 ### Opportunity Requirements to Request a Quote
-Sales Reps are responsible for quoting all GitLab direct and reseller-direct quotes. For quotes going through distribution, chatter @Partner Help Desk on the opportunity with the following information:
+Sales Reps are responsible for quoting all GitLab direct and reseller-direct quotes. For quotes going through distribution, please review "Transacting Through Distribution" and "Internal Distributor Quote Requests" below, then Chatter @Partner Operations on the opportunity with the following information:
 - For opportunities that include a Partner Sourced Deal Registration, this registration [must be linked to the opportunity](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-resale-opportunities) before requesting a quote
 - Sold-To Contact: the email address the license will be sent to at the customer account
 - Invoice Owner: The distributor processing the deal. If there’s no distributor on the deal, Channel Managers or Sales Representatives should be processing the quote
@@ -115,6 +107,33 @@ Sales Reps are responsible for quoting all GitLab direct and reseller-direct quo
 - Product information: Premium or Ultimate, Self-Managed or SaaS, Number of seats, number of years
 - Verified Discounts, especially if there are additional sales discounts outside of programmatic discounts
 - For Renewals: Screenshot or other verification for true-ups
+
+### Transacting Through Distribution
+*   All US PubSec deals are transacted through Carahsoft (gitlab@carahsoft.com) or Immix (GSA only).
+*   Open track Commercial partners in AMER are encouraged to transact through our AMER distributor Arrow ECS at gitlabteam@arrow.com.
+*   Open track partners in EMEA are required to transact through our EMEA distributor Amazic at gitlab@amazic.com.
+*   All partners in India are required to transact through our India distributor Redington at gitlab@redington.co.in.
+*   Most Select track partners do not transact through distributors. If a Select partner requests a quote, you can provide a Reseller quote directly to the reseller per the [Deal Desk handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). However, Select partners can transact through a distributor if they choose. Sometimes it helps them with currency exchange rates.
+
+Distributors are equipped to self-quote new business or other order types without receiving an official GitLab quote, as long as partner discounts are confirmed to them. So, there may be times, especially in multiple bid scenarios, where you may not be aware of all the partners bidding on an opportunity if they haven’t submitted a Deal Registration, until we receive a PO.
+
+If a reseller requests a quote from a distributor via the aliases above, the distributor will contact partnerorderops@gitlab.com to request an official quote and Partner Operations will generate the quote for the distributor to generate their official PO to place an order.
+
+#### Internal Distributor Quote Requests 
+If you are working with an Open partner and need a distributor quote sent, please email the [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) and opportunity link to partnerorderops@gitlab.com.
+
+*   Partner Operations will generate a quote with the required distributor information, ensuring standard partner program discounts are applied for both distributor and reseller, and send the quote to the correct distributor with the Opportunity Owner copied. 
+*   Partner Operations will make any updates necessary to the quote prior to processing.
+    *   If any discounts are required above standard reseller and distributor discounts, approvals will need to be received beforehand or documented and the quote will need to be submitted for system quote approvals.
+    *   If renewal, Partner Operations will request an admin dashboard screenshot to confirm any true-ups prior to processing.
+*   Once the Distributor PO is received, Partner Operations will confirm that all the information on the PO matches the GitLab quote and they will attach the PO to the opportunity. 
+    *   If the PO and quote do not match, they will update the quote accordingly after confirming the correct information.
+*   Partner Operations will Chatter the Opportunity Owner to request that the opportunity be submitted for processing.
+*   The Opportunity Owner should then click the “Submit for Approval” button on the opportunity and fill in the required information.
+*   Partner Operations will monitor the opportunity to ensure the opportunity is Closed-Won.
+*   Once the opportunity is Closed-Won, Partner Operations will notify the Distributor that the order has been fully processed.
+
+
  
 ## SFDC Field Definitions
 ### Section I: Partner Sourced Deal Registration
