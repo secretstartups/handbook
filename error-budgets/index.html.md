@@ -28,7 +28,7 @@ Future iterations of our error budgets will seek to further develop the importan
 
 ## What are the components of error budgets?
 
-Error Budgets first depend on establishing an SLO (Service Level Objective). SLOs are made up of an objective, and SLI (Service Level Indicator), and a timeframe.
+Error Budgets first depend on establishing an SLO (Service Level Objective). SLOs are made up of an objective, a SLI (Service Level Indicator), and a timeframe.
 - **Objective**: The desired level of succcess, noted as a percentage
 - **SLI**: an evaluation used to distinguish number of failed events
 - **Timeframe**: enforcing a recency bias to the SLI
@@ -44,7 +44,7 @@ The Error Budget is then 1 - Objective of the SLO, in this case (1 - .9995 = .00
 
 While the above example shows the SLI as a latency measurement, it is important to note that other measurements (such as % errors) are also good elements to use for SLIs.
 
-GitLab's current implementation of Error Budgets is only using some of the above sophistication of SLOs and Error Budgets, but as we continue with the roadmap we look to incorporate more into our approach. Additionally, it is expected that the practices of SLOs and Error Budgets evolve to have **_both_** the objective and the SLI vary (appropriately) based on the criticality of the service as well as the resiliency of other services and components which depend on it.
+GitLab's current implementation of Error Budgets is only using some of the above sophistication of SLOs and Error Budgets, but we expect to increase the sophistication in the future. It is expected that the practices of SLOs and Error Budgets evolve to have **_both_** the objective and the SLI vary (appropriately) based on the criticality of the service as well as the resiliency of other services and components which depend on it.
 
 ## Which types of errors are included?
 
@@ -102,9 +102,9 @@ We elected to use the 28 day period to match Product reporting methods.
 
 The budget is set on the SaaS platform and is shared between stage and infrastructure teams. Service Level Availability calculation methodology is covered in details at [the GitLab.com SLA page][SLA methodology].
 
-This includes all Rails Controllers, API Endpoints, Sidekiq workers, and other SLIs defined in the service catalog. This is attributed to groups by defining a feature category. Documentation about feature categorisation is available in the [developer guide](https://docs.gitlab.com/ee/development/feature_categorization/index.html#feature-categorization).
+This includes all Rails Controllers, API Endpoints, Sidekiq workers, and other SLIs defined in the service catalog. This is attributed to groups by defining a feature category. Documentation about feature categorization is available in the [developer guide](https://docs.gitlab.com/ee/development/feature_categorization/index.html#feature-categorization).
 
-This budget does not take into account the number or complexity of the features owned by a team, existing product priorities, or the team size.
+The number or complexity of features owned by a team, existing product priorities, or the team size does not influence the budget. 
 
 ## Budget spend announcements
 
