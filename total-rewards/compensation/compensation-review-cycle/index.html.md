@@ -355,7 +355,7 @@ Each team member who receives an update during the Annual Compensation Review cy
 
 ##### Total Rewards Statement Details  
 1. Total Direct Compensation: The total direct compensation is the sum of your annualized salary, bonus, and equity value vesting in FY23. Value vesting in FY23 is different than the total value of the grant, please review the equity table for additional details. 
-2. Cash Compensation: Outlining the compenents of cash compensation, the subsequent increase, and why the increase took place. 
+2. Cash Compensation: Outlining the compenents of cash compensation, the subsequent increase, and why the increase took place. Note: If applicable, the % increase is rounded up (example of a 7,5% increase will show as 8% increase). For communication around Compensation increases we would recommend to check out [this page](/handbook/leadership/compensation-review-conversations/#compensation-communication-recommendations). 
 3. Equity Compensation in USD: The equity compensation table outlines the equity holdings team members have already been granted along with the total value of the new grants in FY23. Please note that we use a specific conversion price in the letter that is subject to change based on market fluctuations. 
 4. General Benefits: details on benefits available or used in CY21 for team members. 
 5. Entity-Specific Benefits: This is the cost of benefits paid by GitLab in CY21 for team members employed via an entity. This box would not appear on the PEO or contractor statements. 
