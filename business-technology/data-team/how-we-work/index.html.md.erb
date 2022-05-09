@@ -22,6 +22,7 @@ description: "GitLab Data Team Workflow"
 - [Triage](/handbook/business-technology/data-team/how-we-work/triage/)
 - [Data Team Onboarding](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md)
 - [Data Team Programs](/handbook/business-technology/data-team/programs/#data-programs)
+- [Weekly Roll Up with Rolly Bot](/handbook/business-technology/data-team/how-we-work/#weekly-roll-up-reporting)
 
 ## Working With The Data Team
 
@@ -97,6 +98,7 @@ The calculator below is based on the following [Value Calculator](https://docs.g
 Our planning process is called the [Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning) and it encompasses Quarterly Planning and [Milestone Planning](/handbook/business-technology/data-team/how-we-work/planning/#milestone-planning). The Planning Drumbeat is one of the most important activities the Data Team performs because it helps us align our work with the broader company, while remaining agile enough to manage shifting business priorities.
 
 #### Weekly Roll Up Reporting
+
 Business Technology developed [Rolly Bot](https://about.gitlab.com/handbook/business-technology/how-we-work/rolly/) to automate the creation and dissemination of weekly status updates. By using their tool, the Data Team is able to send out regular updates about their OKRs via email and Slack with minimal time commitments from team members. One roll up is generated for the Data Fusion team and a second is created for the Data Platform team.
 
 Process:
@@ -104,6 +106,8 @@ Process:
 2. Add the appropriate Label to each epic 
     - Data Platform Team: `Data-Platform-weekly-rollup`
     - Data Fusion Team: `Data-Fusion-weekly-rollup`
+    - Data Science Team: `Data-Science-weekly-rollup`
+    - Data Collaboration Team: `Data-Collaboration-weekly-rollup`
 3. Add the following text in each Epic description, filling in the details for each KR:
     ```
     <!-- Status Start -->
@@ -254,7 +258,6 @@ _Ideally_, your workflow should be as follows:
     - Note that assigning someone an MR means action is required from them.
     - If `Draft:` is still in the title of the MR, then the Maintainer will assign the MR back to the author to confirm that the MR is ready for merge.
 
-
 Other tips:
 
 1. The Merge Request Workflow provides clear expectations; however, there is some wiggle room and freedom around certain steps as follows.
@@ -264,7 +267,6 @@ Other tips:
 1. Reviewers should have 48 hours to complete a review, so plan ahead with the end of the milestone.
 1. When possible, questions/problems should be discussed with your reviewer before submitting the MR for review. Particularly for large changes, review time is the least efficient time to have to make meaningful changes to code, because you’ve already done most of the work!
 1. Consider bringing the latest commits from the primary branch so the MR is caught up. You can do this quickly by typing `/rebase` into a comment and GitLab will make this happen automatically, barring any merge conflicts.
-
 
 ##### KPI Development Workflow
 
@@ -307,6 +309,7 @@ There are multiple reasons to perform deletions. I.e:
 To address observations and requests, and ensure that deletion will take place in a controlled manner, open an issue with the [Cleanup Old Tech](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Cleanup%20Old%20Tech.md) template.
 
 #### State down in the issue the scope of deletion
+
 Write down what will be deleted and where possible link to existings issues. 
 
 #### Calculate a Risk score
