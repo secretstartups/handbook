@@ -157,6 +157,10 @@ If any one, or a combination of, the following statistics is met, a benchmark re
 * The Recruitment Declines and Withdrawals template is compiled with at least 10 rows of significant/qualified candidate data, including equity information. 
   * It is important to ensure when we discuss compensation we have an idea of the candidate's expectations of total rewards which is inclusive of cash and equity for compensation. 
 * A voluntary departure rate of 12% or more by current GitLab team members in any given department due to the reason of compensation. 
+* Evidence of leading indicators of increased compensation, for example: 
+   * Increased recruiter reachouts to a specific department or role. 
+   * Government policy announcements related to a specific business sector.  
+   * Engagement Survey Results. 
 
 **Summary of the process:**
 Once data has been collected, the Total Rewards team will review the compensation expectations. During this review, we will look at survey data and candidate expectations (specifically declines due to compensation) to recommend an adjustment to our SF benchmark and target percentile for the role. Total Rewards will coordinate with FP&A and the department leader to draft a business case to be presented to the egroup leader. The business case would include:
