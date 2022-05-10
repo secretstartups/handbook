@@ -180,38 +180,69 @@ Additional resources on how to be an ally:
 Straight for Equality](https://ctb.ku.edu/en/table-of-contents/culture/cultural-competence/be-an-ally/main)
 * [Guide to Allyship](http://www.guidetoallyship.com/#the-work-of-allyship)
 
-## TMRG LEADERS
+## TMRG Leads
 
-### Required of all TMRG leaders:
-* Manager support to commit the time and to use this leadership role as a professional development opportunity
+### Selection Criteria:
+
+* The team member must be performing in their role and not part of any performance management process as confirmed by the People Group. 
+* Must be a full-time GitLab team member. This includes PEO and full-time contractor team members. 
+* At least 6-month tenure at GitLab
+* Ideally already an active TMRG member if the TMRG already exists
+* Approval from your direct manager, support to commit the time and to use this leadership role as a professional development opportunity
 * A minimum one-year commitment in the role but understanding this may change to less and can be more.
-* Must be a full-time GitLab team members.
 
-### Qualities of an TMRG leader:
+### Selection Process
+
+* The DIB Team will announce a vacancies for TMRG leadership in the appropriate slack channels
+* The nomination process will stay open for two weeks from the original slack message
+* A team member will nominate themselves for a lead role by completing the [TMRG Lead Nomination Issue template](TBC)
+* The DIB team will consult with existing TMRG members, Leads, The People Team, Executive Sponsors and Managers to decide who will take the leadership position. This is to ensure the best person for the TMRG program is selected and diversity of departments, geography and URGs are properly represented. 
+
+
+### Qualities of a TMRG leader:
 * Interest, passion and time to devote their time to the TMRG
 * Possesses facilitation, team-building, and collaboration skills
 * Has a desire to build a presence for the TMRG within GitLab
 
 ## Roles Within the Group
-Group Members - At GitLab we all contribute!  Everyone has an opportunity to lead and provide feedback within the group.
 
-**Executive Sponsor** (optional but recommended)  - An executive GitLab team member who is responsible and accountable for strategic support of the group
-Share accountability for the success of the DIB group
-Participate as an active member of the DIB group
-Share information about the DIB group activities with other leaders
-Provide insight and guidance to DIB group as needed
-Partner with TMRG leads on issues, concerns, and resource needs of the community
-May provide additional budget
+#### Team Member Resource Group Members 
 
-**Lead** - A GitLab team member who is responsible and accountable for strategic direction and operations of the TMRG
-* Operational lead of the TMRG
-* Meets w/ DIB Manager as needed but otherwise quarterly.  This may be more often as a new TMRG is forming to consult with DIB Manager for planning and execution.
-* Responsible for submitting annual and or quarterly plans (Note: Format to be provided by DIB Manager)
-* Along with Co-lead, serves as contact for any team, department, or other GitLab team member requesting partnership or education with the TMRG
+ At GitLab we all contribute!  Everyone has an opportunity to lead and provide feedback within the group.
 
-**Co-Lead** - A GitLab team member who supports the Lead in the strategy and operations of the TMRG
-* Serve as contact in the absence of the Lead
-* Along with Lead, serves as contact for any team, department, or other GitLab team member requesting partnership with the TMRG
+#### Executive Sponsor 
+
+An executive GitLab team member who is responsible and accountable for strategic support of the group
+
+* Share accountability for the success of the TMRG
+* Participate as an active member of the TMRG
+* Share information about the TMRG activities with other leaders
+* Provide insight and guidance to the TMRG as needed
+* Partner with TMRG leads on issues, concerns, and resource needs of the community
+* May provide additional budget
+
+#### TMRG Lead 
+
+A GitLab team member or team members who are responsible and accountable for strategic direction and operations of the TMRG.
+
+**Responsibilities**
+* Operational lead/leaders of the TMRG
+* Meets with the DIB team on a regular basis
+* Responsible for submitting annual and/or quarterly strategy for the TMRG
+* Work with business leaders on the success of DIB and the TMRG at GitLab
+* Facilitate TMRG meetings both async and sync ensuring inclusivity across geographical regions
+* Serve as contact for any team, department, or other GitLab team member requesting partnership or education with the TMRG
+
+**Accountabilities**
+
+These accountabilities are important factors in ensuring that the TMRG maintains TMRG Status. The DIB team may: remove TMRG Leads if they are not achieving the accoutabilities, remove the TMRG status or change the status of the TMRG to a TMDG
+
+* Ensuring that the TMRG has a structured plan. Detailed quarterly and a high-level annual plan. These plans should be submitted and discussed with the DIB Team.
+* Delivery on the TMRG Plan 
+* Managing the TMRG budget, including tracking TMRG budget spend. This will ensure we know how to allocate future budgets.
+* Engaging and growing the TMRG members
+
+
 
 ### Optional roles
 While not required, we recommend establishing other leadership positions to ensure that the responsibilities of the Lead and Co-Lead remain realistic and success is achievable for the TMRG. Here are some example roles we recommend for each TMRG that reflect the 4 elements of focus listed above:
@@ -226,18 +257,22 @@ Leader of Talent Acquisition/Retention: Promoting, growing, and developing the T
 
 Treasurer: managing the budget of the TMRG, working on necessary approvals internally and looking at the ROI of any events that take place.
 
+### TMRG Working Groups
+The idea for TMRG Working Groups was born in the Women's TMRG where they had many ideas but individuals were not able to make the time commitment to becoming sub-committee leads but were able to commit short periods to individual projects. 
 
-### How TMRG leaders are selected
-The election process should follow GitLab’s fiscal year calendar to ensure the roles are aligned to our strategy. Smaller or recently forming TMRGs may choose not to have a formal election if membership can easily determine leadership.
+**How it works:**
+- The TMRG will create issues for projects they wish to complete within a quarter within the TMRG Project. 
+- Either via Slack, Regular Synchoronous Meetings or another method of communication. Release the projects to TMRG Members inviting participants to help on the project. 
+- The project should elect a leader for the duration of the project. Who will act as a DRI of ensuring that it is completed in a timely fashion and assign tasks to the other members of the project.
+- Once the project is done, the group will disband and are free to participate in a new working group or simply move back to being an active member of the TMRG 
 
-It is important to monitor the TMRGs size to recognize when it has grown too large for an informal election process. Larger TMRGs (50 members or more) should use a formal selection process with nominations of some kind, summaries of each candidate’s qualifications shared with TMRG members, votes taken on a set date, and vetting process etc as a suggestion but not required.
+### TMRG leader term of service
+TMRG leaders to commit at least one year to their leadership role, with the option for less if a situation arises which means they are no longer able to perform the role.
 
-
-### TMRG leader terms of service
-TMRG leaders are suggested to commit at least one year to their leadership role, with the option for less if a situation arises or more if the TMRG members at large would like.  This can also be set up as a rotation of 6 months as well.  The TMRG can decide.
+In January of each year, a selection process should be undertaken to allow other team members the opportunity to nominate themselves to lead the TMRG. If no one wishes to nominate themselves the existing leaders will automatically be invited back to lead the TMRG providing they still meet the selection criteria. 
 
 ### TMRG leader succession
-Leadership succession is critical to sustaining TMRGs and keeping leaders energized. Ideally outgoing leaders will have and overlap with incoming new leaders by acting as advisors to ensure a seamless transition.
+Leadership succession is critical to sustaining TMRGs and keeping leaders energized. Ideally, outgoing leaders will have and overlap with incoming new leaders by acting as advisors to ensure a seamless transition.
 
 Research suggests developing the next generation of leaders for your TMRGs by looking for members who have taken smaller roles in heading up committees or organizing events; speak with them about their interests and encourage them to take on more visible roles within the TMRG.
 
