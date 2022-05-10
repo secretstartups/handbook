@@ -49,6 +49,7 @@ This Working Group has the following goals:
 | Functional Lead | | |
 | Functional Lead | | |
 | Member | Grzegorz Bizon | Principal Engineer, Verify |
+| Member | Fabio Pitino   | Staff Backend Engineer, Verify |
 | Member | Quang-Minh Nguyen | Senior Backend Engineer, Scalability |
 | Member | Liam McAndrew | Engineering Manager, Scalability |
 | Member | Markus Koller | Senior Backend Engineer, Integrations |
