@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Sec Sub-department
+title: Sec Section
 description: >-
-  The Sec Sub-department is composed of development teams working on Secure,
+  The Sec Section is composed of development teams working on Secure
   and Protect features of the GitLab DevOps Platform.
 ---
 
@@ -40,6 +40,32 @@ Product direction can be found on the [Sec Section Product Direction](/direction
 - [#sec-section](https://gitlab.slack.com/archives/C02087FTL5V) - Sec Section discussions spanning the Protect, and Secure stages.
 - [#sec-growth-modelops-people-leaders](https://gitlab.slack.com/archives/C033F69CQCB) - Engineering people leaders in Sec, Growth, and ModelOps.
 - [🔒sec-growth-modelops-leadership-confidential](https://gitlab.slack.com/archives/GKWF00Y3E) - Private channel for engineering people leaders in Sec, Growth, and ModelOps.
+
+## Planning in the Section
+
+In the vast majority of cases, work is scoped to individual groups within the section. However, there are times when the section needs to design
+and execute solutions as a coordinated Section or risk creating poor and non-cohesive user experiences.
+
+These initiatives will be orchestrated through epics and issues. Initiatives with the following labels are deemed to fall in this category of work.
+
+- [`~section::sec` and `~group::not owned`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_asc&state=opened&label_name%5B%5D=section%3A%3Asec&label_name%5B%5D=group%3A%3Anot_owned); or
+- [`all Sec groups`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_asc&state=opened&label_name%5B%5D=all%20Sec%20groups)
+
+### Process for planning section-wide initiatives
+
+At least once per milestone, Senior Engineering Managers in the section will do the following:
+
+- In partnership with Product Management, initiatives 6 months or older will be evaluated to determine if they're still relevant.
+- New initiatives will be triaged, checking their requirements for understandability and completeness. Further, the group most impacted will be identified.
+  - In situations where most impacted group is not clear, the Architectural Council will be engaged to help discern which group that might be.
+- Group most impacted will be declared DRI for that initiative and are expected to:
+  - Produce a high-level implementation plan that will scale for the whole problem.
+  - Create implementation issues that are broken down by feature category. 
+    - The original high-level implementation plan will be included, or at least directly linked, in the created issues.
+    - Original issue where implementation plan was debated and created will also be linked to the generated issues.
+  - Distribute implementation issues to the relevant groups.
+
+Generated issues will be worked through normal prioritization processes as they are distributed to individual groups.
 
 ## Councils and Chapters
 
