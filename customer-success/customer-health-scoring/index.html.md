@@ -144,7 +144,7 @@ While the product usage health will be summarized, a separate health view will a
 ### Health scoring for accounts with multiple production instances
 
 #### Problem
-
+ 
 When an account has multiple GitLab instances identified as Production, (Instructions on how to [Update Self-Managed Instance Type](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type)) the Product Usage health measure uses the most recently updated instance. That means the Product Usage health measure lacks precision on which instance it scores. Note: this is less than 5% of the time because the vast majority of accounts have a single production instance.
 
 #### Solution
