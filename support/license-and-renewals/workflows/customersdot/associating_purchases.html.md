@@ -22,7 +22,7 @@ Before we add subscription management contact, we need **one** of the following,
 
 1. Approval from the existing contact
 1. Prior subscription contract
-1. Recent invoice (last 12 months)
+1. Recent GitLab invoice (last 12 months) (Option not available for customers who purchased through a reseller)
 1. Copy of last loaded license (Self-Managed only)
 
 **NOTE:** We do not accept vouches from Account Owners as proof of a customer's association to a subscription.
