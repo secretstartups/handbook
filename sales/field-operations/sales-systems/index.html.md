@@ -355,15 +355,45 @@ We have begun the journey of further leveraging our own GitLab tool by creating 
 
 Our own pipeline is based on the great work done by @mayanktahil and @francispotter: [the SFDC CI/CD templates](https://gitlab.com/sfdx/sfdx-project-template).  If you are interested in more information about this project and want to see it in action, check out [Salesforce Development with GitLab](https://www.youtube.com/watch?v=Z1JSIFLdIB4) and [Accelerate DevOps with GitLab and Salesforce](https://www.youtube.com/watch?v=tylPp9QlLu4)
 
-Our own version of this CI/CD template can be found [here](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/SysIssue1851-AddStarterPipeline/.gitlab-ci.yml).  This template cuts out the capabilities to use Scratch Orgs, and limits deployments only to ApexClasses, ApexTriggers, ApexPage, and ApexComponents stored in the Sales Systems source.  
+With this comes some change, as we are now more stricly enforcing [compliance controls](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/guidance/compliance.html) by limiting manual changes into the STAGING org.  
 
-The pipeline first performs a validation check which occurs whenever the branch related to a Merge Request is updated via a new check-in.  This check validates the code compiles and can be executed with all unit tests in the sandbox environment denoted as STAGING.  
+Effective 2/16/2022, the following methods are the only approved way to deploy to STAGING.
 
-If the validation fails, the pipeline will spit out the errors as individual line items in the output of the job.  The MR will then be blocked from merging until this validation check succeeds.
+- Via inbound change sets from another GitLab owned sandbox
+- Via vendor package installs or upgrades
+- Automatic deployments via our CI/CD pipeline
 
-If the validation succeeds, the pipeline allows for the manual deployment to the STAGING environment.  
+### Our CI/CD template
 
-All channges to ApexClasses, ApexTriggers, ApexPage, and ApexComponents stored in the Sales Systems source will now be managed directly from source.  To better support this effort and prepare for the next steps, we will also be limiting manual changes to the STAGING environment and managing changes completely via inbound change sets from other orgs.
+Our own version of this CI/CD template can be found [here](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/.gitlab-ci.yml).  It is a simplified version, to allow us to [iterate](https://about.gitlab.com/handbook/values/#iteration). 
+
+This template removes the capabilities to use [Scratch Orgs](https://developer.salesforce.com/docs/atlas.en-us.234.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_scratch_orgs.htm) in favor of using an [Org-based deployment model](https://trailhead.salesforce.com/content/learn/modules/org-development-model).  The model used by this CI/CD file has a single environment configured, denoted as 'STAGING'.  The deployment script also limits deployments only to ApexClasses, ApexTriggers, ApexPage, and ApexComponents stored in the root source directory.  
+
+The pipeline performs the following action:
+
+- Whenever a commit is made to a branch related to a Merge Request, install the SFDX CLI on a runner and execute the sfdx force:source:deploy method to perform a validation deployment against STAGING. 
+- This validation deployment will compile all ApexClass, ApexTrigger, ApexComponent, and ApexPage objects found in the new commit source branch.  
+- If the compile succeeds, all unit tests in the SANDBOX org will be executed to confirm all unit tests are passing.
+- If the compile or unit tests fails, the pipeline will spit out the errors as individual line items in the output of the job.  
+    - The MR will then be blocked from merging.
+- If the compile succeeds and unit tests pass, the MR will be cleared for merging after code review is complete.
+    - The pipeline will also allow for the user to trigger a deployment of the source code to the STAGING environment.
+    - This is a manual process for now (see [What's next?](#whats-next)) and will be triggered by the person who is merging the MR once the merge has completed.
+        - The team decided to leave this step manual so that we have flexibility on deployments in case multiple MRs were being merged simultaneously.
+        - In this scenario, we will only deploy the last MR as it will have the final complete 'master' branch will all previous MRs merged.    
+
+### Benefits of the pipeline
+
+- All channges to ApexClasses, ApexTriggers, ApexPage, and ApexComponents stored in the Sales Systems source will now be managed directly from source, rather than having to be managed manually through change sets or via manual deploys.
+- We reduce the number of manual changes to the STAGING environment, limiting potential conflicts and issues creeping into production.
+- We can leverage [the power of GitLab Analytics](https://docs.gitlab.com/ee/user/analytics/) to better understand how we can better run our team!
 
 ### What's next?
-We are beginning to explore using [Sandbox Source Tracking](https://developer.salesforce.com/blogs/2021/01/learn-moar-with-spring-21-sandbox-source-tracking), a feature Salesforce released last year to enable easy export of configuration changes from a developer environment into source control. This will enable our admins to track complex changes to their developer orgs and easily check these into source control.  Once we do so, we can automate validation of these changes using our expanded pipeline, which we hope will speed up our pace of delivery.
+
+We are beginning to explore using [Sandbox Source Tracking](https://developer.salesforce.com/blogs/2021/01/learn-moar-with-spring-21-sandbox-source-tracking), a feature Salesforce released last year to enable easy export of configuration changes from a developer environment into source control. 
+
+This tool will enable our admins to track complex changes to their developer orgs and easily check these into source control.  
+
+Once we do so, we can expand our pipeline to include these objects in our pipeline in STAGING.  This will allow us to validate administrative changes such as field renames, picklist value changes, validation rules, workflow, or flows, and deploy them quickly to STAGING.  As this removes the manual step for admins to build change sets from their environments into STAGING, it will save them time to focus on other things.
+
+After this, our next goal will be to see if we want to start automating deployments to STAGING once an MR is merged.  This will only save us a click, but is an important step for us as a team to become comfortable with using the process of automated deployments into our STAGING environment.
