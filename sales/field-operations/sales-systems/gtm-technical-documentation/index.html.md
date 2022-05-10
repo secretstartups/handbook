@@ -98,7 +98,7 @@ Code Units:
 | LAM:Aggregate Annual Ultimate Seat Price | LAM_Aggregate_Annual_Ultimate_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
 | LAM: Aggregate Annual Starter Seat Price | LAM_Aggregate_Annual_Starter_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
 | LAM: Aggregate Annual Premium Seat Price | LAM_Aggregate_Annual_Premium_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
-| LAM: Acct Below Cut Line            | LAM_Acct_Below_Cut_Line_Form__c | Formula | SFDC |
+| LAM: Acct Below Land Line            | LAM_Acct_Below_Cut_Line_Form__c | Formula | SFDC |
 | CARR (Acct Family)                  | CARR_Acct_Family__c | Formula | SFDC |
 | CMRR (Acct Family)                  | CMRR_All_Child_Accounts__c | Currency | AccountJob_SetParentLAMFields |
 | Ultimate license count              | Ultimate_License_Count__c | Number | AccountJob |
