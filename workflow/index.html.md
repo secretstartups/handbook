@@ -232,7 +232,7 @@ Next, merge the merge request:
 
 ### Broken `master` mirrors
 
-[`#master-broken-mirrors`](https://gitlab.slack.com/archives/C01PK38VAN8) was created to remove duplicative notifications from the `#master-broken` channel which provides a space for [Release Managers](https://about.gitlab.com/community/release-managers/) and the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/) to monitor failures for the following projects:
+[`#master-broken-mirrors`](https://gitlab.slack.com/archives/C01PK38VAN8) was created to remove duplicative notifications from the `#master-broken` channel which provides a space for [Release Managers](https://about.gitlab.com/community/release-managers/) and the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) to monitor failures for the following projects:
 
 - <https://gitlab.com/gitlab-org/security/gitlab>
 - <https://dev.gitlab.org/gitlab/gitlab-ee>
@@ -410,7 +410,7 @@ We have the following deadlines:
 - On `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
 - By month `M, 17th`:
   - Completed `m` issues with docs have been merged into master.
-  - Feature flags should be flipped from default off to default on after verification to be in the `m` release. See [feature flags](https://about.gitlab.com/handbook/product-development-flow/feature-flag-lifecycle/#including-a-feature-behind-feature-flag-in-the-final-release).
+  - Feature flags should be flipped from default off to default on after verification to be in the `m` release. See [feature flags](/handbook/product-development-flow/feature-flag-lifecycle/#including-a-feature-behind-feature-flag-in-the-final-release).
   - Merging by the 17th **does not guarantee** that the feature will be in the `m` release. See [release timelines](/handbook/engineering/releases/#timelines).
   - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contribution-instructions) merged for all relevant issues.
   - By end of the day, milestone `m` is expired.
@@ -454,13 +454,13 @@ The notes are available in a publicly-accessible [Google doc](https://docs.googl
 
 ## Retrospective
 
-The purpose of our retrospective is to help each Product Group, and the entire [R&D cost center](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#by-cost-center---where-departments-report) at GitLab learn and improve as much as possible from every monthly release.
+The purpose of our retrospective is to help each Product Group, and the entire [R&D cost center](/handbook/finance/financial-planning-and-analysis/#by-cost-center---where-departments-report) at GitLab learn and improve as much as possible from every monthly release.
 
 Each retrospective consist of three parts:
 
-- [Group Retrospectives](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/): retrospectives held by individual [Product Groups](/company/team/structure/#product-groups)
-- [Retrospective Summary](https://about.gitlab.com/handbook/engineering/workflow/#retrospective-summary): a short pre-recorded video which summarizes the learnings across all group retrospectives
-- [Retrospective Discussion](https://about.gitlab.com/handbook/engineering/workflow/#retrospective-discussion): a 25 minute live discussion diving into retrospective discussion topics]
+- [Group Retrospectives](/handbook/engineering/management/team-retrospectives/): retrospectives held by individual [Product Groups](/company/team/structure/#product-groups)
+- [Retrospective Summary](/handbook/engineering/workflow/#retrospective-summary): a short pre-recorded video which summarizes the learnings across all group retrospectives
+- [Retrospective Discussion](/handbook/engineering/workflow/#retrospective-discussion): a 25 minute live discussion diving into retrospective discussion topics
 
 **Timeline**
 
@@ -510,8 +510,8 @@ The Retrospective Summary is a short pre-recorded video which summarizes the lea
 Once all Group Retrospectives are completed, each team inputs their learnings into a single publicly-accessible [retro doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). The  moderator then pre-records a video of the highlights. This video is then announced in the Retrospective planning and execution issue along with the #whats-happening-at-gitlab slack channel. In line with our value of [transparency](/handbook/values/#transparency), we also post this video to our public [GitLab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
 
 **Steps for participants**
-1. Please host your Group Retrospective following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).
-1. After the Group Retrospective is complete, please choose a subset some of your most interesting learnings to share company-wide in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).  Please try to group by these by our [CREDIT values](https://about.gitlab.com/handbook/values/).
+1. Please host your Group Retrospective following the guidelines outlined in the [handbook](/handbook/engineering/management/team-retrospectives/).
+1. After the Group Retrospective is complete, please choose a subset some of your most interesting learnings to share company-wide in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).  Please try to group by these by our [CREDIT values](/handbook/values/).
 1. In the retro doc, if there is a learning that you would like to explicitly highlight, please add the text **highlight** at the beginning of the text. The moderator will highlight this along with other learnings listed in the retro doc when they create the pre-recorded video.
 1. If there are improvement tasks for your team from the previous retrospective, please provide an update on them in the retro doc. They will be verbalized during the Retrospective Discussion.
 1. If there are improvement tasks for your team in the current retrospective, please add them in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit). They will be verbalized during the Retrospective Discussion.
@@ -568,9 +568,9 @@ This is needed for a single owner to be aware of the bigger picture technical de
 
 The Moderator for the Retrospective Summary is chosen on a quarterly basis.  For FY22 we have selected 4 moderators from across Engineering and Product.  The moderators are:
 
-- Q1: [Sam Goldstein](https://about.gitlab.com/company/team/#sgoldstein)
-- Q2: [Tanya Pazitny](https://about.gitlab.com/company/team/#tpazitny)
-- Q3: [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston)
+- Q1: [Sam Goldstein](/company/team/#sgoldstein)
+- Q2: [Tanya Pazitny](/company/team/#tpazitny)
+- Q3: [Kenny Johnston](/company/team/#kencjohnston)
 - Q4: [Section Based Retro Experiment](/handbook/engineering/workflow/#retrospective-summary-experiment-in-fy22-q4)
 
 ## Retrospective Summary Experiment in FY22 Q4
@@ -645,7 +645,7 @@ Milestones are closed when the Delivery team no longer needs to create a backpor
 
 ## Kickoff and Retrospective Public Stream Instructions
 
-Both the monthly kickoff and retrospective meetings are publicly streamed to the [GitLab Unfiltered YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber). The [EBA](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/) for Engineering is the [moderator](/handbook/group-conversations/#moderator) and responsible for initiating the Public Stream or designating another moderator if EBA is unable to attend.
+Both the monthly kickoff and retrospective meetings are publicly streamed to the [GitLab Unfiltered YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber). The [EBA](/job-families/people-ops/executive-business-administrator/) for Engineering is the [moderator](/handbook/group-conversations/#moderator) and responsible for initiating the Public Stream or designating another moderator if EBA is unable to attend.
 
 
 ## Use Group Labels and Group Milestones
@@ -693,7 +693,7 @@ UI polish issues are visual improvements to the existing user interface, touchin
 
 ## Monitor Merge Request Trends
 
-Open merge requests sometimes become idle (not updated by a human in more than a month). Once a month, engineering managers will receive an [`Merge requests requiring attention triage issue`](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#group-level-merge-requests-that-may-need-attention) that includes all (non-WIP/Draft) MRs for their group and use it to determine if any action should be taken (such as nudging the author/reviewer/maintainer). This assists in getting merge requests merged in a reasonable amount of time which we track with the [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt) and [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma) performance indicators.
+Open merge requests sometimes become idle (not updated by a human in more than a month). Once a month, engineering managers will receive an [`Merge requests requiring attention triage issue`](/handbook/engineering/quality/triage-operations/#group-level-merge-requests-that-may-need-attention) that includes all (non-WIP/Draft) MRs for their group and use it to determine if any action should be taken (such as nudging the author/reviewer/maintainer). This assists in getting merge requests merged in a reasonable amount of time which we track with the [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt) and [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma) performance indicators.
 
 Open merge requests may also have other properties that indicate that the engineering manager should research them and potentially take action to improve efficiency. One key property is the number of threads, which, when high, may indicate a need to update the plan for the MR or that a synchronous discussion should be considered. Another property is the number of pipelines, which, when high, may indicate a need to revisit the plan for the MR. These metrics are not yet included in an automatically created a triage issue. However, they are available in a [Sisense dashboard](https://app.periscopedata.com/app/gitlab/663398/Merge-requests-that-may-warrant-attention). Engineering managers are encouraged to check this dashboard for their group periodically (once or twice a month) in the interim.
 
@@ -809,13 +809,13 @@ Issues are nominated to the board through the inclusion of the label `infradev` 
 
 Issues with `~infradev ~severity::1 ~priority::1 ~production request` labels applied require immediate resolution.
 
-`~infradev` issues requiring a ~"breaking change" should not exist.  If a current `~infradev` issue requires a breaking change then it should split into two issues.  The first issue should be the immediate `~infradev` work that can be done under current SLOs.  The second issue should be  ~"breaking change" work that needs to be completed at the next major release in accordance with [handbook guidance](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features). Agreement from development DRI as well as the infrastructure DRI should be documented on the issue. 
+`~infradev` issues requiring a ~"breaking change" should not exist.  If a current `~infradev` issue requires a breaking change then it should split into two issues.  The first issue should be the immediate `~infradev` work that can be done under current SLOs.  The second issue should be  ~"breaking change" work that needs to be completed at the next major release in accordance with [handbook guidance](/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features). Agreement from development DRI as well as the infrastructure DRI should be documented on the issue. 
 
 Additionally, an automated status report is generated in the [gitlab-org/infradev-reports](https://gitlab.com/gitlab-org/infradev-reports/-/issues) issue tracker. A new report is opened weekly, and updated regularly. The report categorizes each infradev issue according to several criteria, and can help with the triage and priorization process.
 
 ### A Guide to Creating Effective Infradev Issues
 
-Triage of infradev Issues is desired to occur asynchronously. There is also a section of the [Weekly GitLab SaaS meeting](https://about.gitlab.com/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) which aims to address anything requiring synchronous discussion or which hasn't been triaged. This meeting has time constraints and many of the participants may not have a detailed understanding of the problems being presented. For maximum efficiency, please ensure the following, so that your infradev issues can gain maximum traction.
+Triage of infradev Issues is desired to occur asynchronously. There is also a section of the [Weekly GitLab SaaS meeting](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) which aims to address anything requiring synchronous discussion or which hasn't been triaged. This meeting has time constraints and many of the participants may not have a detailed understanding of the problems being presented. For maximum efficiency, please ensure the following, so that your infradev issues can gain maximum traction.
 
 
 1. **Clearly state the scope of the problem, and how it affects GitLab.com**. Examples could include:
