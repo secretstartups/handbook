@@ -110,6 +110,18 @@ If you're not sure who is your Sourcing Partner, please visit our [Talent Acquis
 We welcome knowledge sharing within the team and use #sourcing-hacks Slack channel for market and industry updates and would appreciate your contributions.
 If you'd like to tag the Sourcing team in an issue or merge request, you can use the `@gl-sourcing` handle.
 
+## Inbound Sourcing
+Inbound Sourcing is a specialized sourcing team that focuses on the inbound applicant channels: Applied, [Referrals](/handbook/hiring/referral-process/), and [Internal](/handbook/people-group/promotions-transfers/). Inbound Sourcing's primary task is ensuring that applications are processed in a timely manner.  
+
+### Inbound Sourcing & Recruiter Collaboration
+* Inbound Sourcing requires an open and updated [kick off issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/issues) with, at minimum, the following information: required experience; preferred experience; example job titles; relevant companies; and geographic limitation (if applicable). 
+* After a kick off issue is created, tag the [appropriate inbound sourcer](/handbook/hiring/recruiting-alignment/#inbound-sourcing-alignment) to begin support.
+
+### Inbound Applicant Processing by Channel
+* **Applied**: Inbound sourcing will process applications by either A) Rejecting unqualified applications B) Advancing qualified applications to *Qualified* stage for Recruiter/Hiring Manager review or C) Contacting the applicant to inform them of more relevant positions, which they may be interested in. 
+* **Referral**: Inbound Sourcing will inform the appropriate recruiter of any pending referrals awaiting review after 5 business days. 
+* **Internal**: Inbound Sourcing will inform the appropriate recruiter of any pending internal applicants awaiting review after 3 business days. 
+
 ## Sourcing Sessions
 Sourcing Session is a required step of the talent acquisition process for every role at GitLab.
 These sessions help us to ensure that we look for outbound talent and leverage our sourcing effort
