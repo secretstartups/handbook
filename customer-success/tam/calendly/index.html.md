@@ -28,15 +28,15 @@ To start, login to calendly.com and [edit your event details](https://help.calen
     -   Visit [Learn How to Use Chorus.ai](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#chorus-scheduler) for instructions on how to create a Static Link from Chorus Scheduler.
     -   To create/view the Static Link
         -   Link your [Zoom PMI](https://support.zoom.us/hc/en-us/articles/203276937-Using-Personal-Meeting-ID-PMI-) in the Chorus Scheduler Settings (one time only)   
-        -   Then create a test event on your Google calendar, click Add video conferencing, select Chorus Meeting. You will then be able to view the Chorus Go static link (Domain: go.chrous.ai).
-        -   ![](/handbook/source/handbook/customer-success/tam/calendly/grab-static-chorus-go-link.png)
+        -   Then create a test event on your Google calendar, click Add video conferencing, select Chorus Meeting. You will then be able to view the Chorus Go static link (Domain: go.chorus.ai).
+        -   ![static-chorus-go-link](grab-static-chorus-go-link.png)
     
 
-    -   Next, add the go.chrous.ai link to your calendly event configuration Location field.  
-        -   Note: Anyone booking through your calendly would use the same location link when booking an event instead of an automatically generated unique meeting ID per meeting. Please make sure your Zoom Personal Meeting follows GitLab’s best practices on [privacy and security](https://about.gitlab.com/handbook/tools-and-tips/zoom/#a-note-on-privacy-and-security).
+    -   Next, add the go.chorus.ai link to your calendly event configuration Location field.  
+        -   *Imporant Note*: Anyone booking through your calendly would use the same location link when booking an event instead of an automatically generated unique meeting ID per meeting. Please make sure your Zoom Personal Meeting follows GitLab’s best practices on [privacy and security](https://about.gitlab.com/handbook/tools-and-tips/zoom/#a-note-on-privacy-and-security).
     
         -   Make sure to select display location only after confirmation
-        -   ![](/handbook/source/handbook/customer-success/tam/calendly/calendly-location-chorus-go.jpeg)
+        -   ![calendly-location](calendly-location-chorus-go.jpeg)
     
 
 -   *Description/Instructions* (add the following recommended text)
