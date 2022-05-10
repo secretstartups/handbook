@@ -104,7 +104,7 @@ There is currently [no ability to downgrade a subscription from a self-service p
 Plan downgrades should only be done at renewal. However, if the customer purchased the wrong plan as a new subscription, send
 the request to the AR team by selecting the `Accounts Receivable` macro and ask that the incorrect purchase be cancelled so that a new subscription can be purchased on the Premium plan. 
 
-If a SaaS Ulimtate customer would like to renew for a Premium plan, advise them to purchase a Premium subscription and link their group to the new subscription. Ensure that they have set their Ulitmate subscription to expire/cancel on the end date.
+If a SaaS Ultimate customer would like to renew for a Premium plan, advise them to purchase a Premium subscription and link their group to the new subscription. Ensure that they have set their Ultimate subscription to expire/cancel on the end date.
 
 If a Self-managed Ultimate customer would like to renew for a Premium plan, refer them to Sales for assistance.
 
