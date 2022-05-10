@@ -1643,6 +1643,6 @@ See the [YouTube page](/handbook/marketing/marketing-operations/youtube/) for op
 
 Anyone can test their knowledge on GitLab Communication. To obtain a certificate, you will need to complete this [knowledge assessment](https://gitlab.edcast.com/pathways/ECL-b01718a2-192c-4e0c-9852-31115b1e054f) and earn at least an 80%. Once the quiz has been passed, you will receive an email with your certificate that you can share on your personal LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
 
-## Crisis Process
+## Daily Sync Escalation Process
 
-GitLab has a specific process to follow in crisis situations to ensure effective communications. Details can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/company/crisis-process).
+GitLab has a specific process to follow in situations that require fast and coordinated escalation to ensure effective communications. Details can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/company/daily-sync-escalation-process).
