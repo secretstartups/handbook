@@ -49,6 +49,16 @@ Team members are reimbursed on different schedules depending on their location. 
    - Please note we do not reimburse late fees, initial set up, or equipment costs.
 1. **Reimbursements will only be issued for items on the [Approved List of Expenses](https://docs.google.com/document/d/1UIbpeEzGQ0kmv9uI47xP8hRfDpGnwxvIeUpR66j_Ox8/edit?usp=sharing)**
 
+## Redacting Personal Information from Receipts - A Caution
+
+As the expense tool does not require your personal information in order to process the reimbursement, we encourage you to redact your personal information before uploading receipts to protect your privacy. Managers should relay this caution to your team members, but we will no longer deny the expense report if receipt images contain personal information.
+Consider redacting this information:
+  - Your shipping and billing address(es)
+  - Your credit card information
+  - Your full name
+  - Any other data that is personal to you that should not want publicly known. Security team noted that there's technical security vulnerability with  Expensify's infrastructure where the storage they used for their receipts was publicly available.
+
+At a minimum, information about the items/products purchased and the total purchase amount should be visible so managers can validate the expense reimbursement amount requested along with the actual items and total purchase price.
 
 ### Domain Name Registration and Maintenance Policy
 
@@ -83,9 +93,9 @@ In FY23, each eGroup member has been allocated $50 per team member per quarter f
 
 GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. More guidance to come as we get closer to FY23-Q4.
 
-### Virtual Meal with GitLab Team member(s)
+### Get Together/Virtual Meal with GitLab Team member(s)
 
-Currently Suspended
+Please refer to our [Incentives at Gitlab Handbook Page](https://about.gitlab.com/handbook/incentives/#get-together-grant)
 
 
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Approving Expense Reports
