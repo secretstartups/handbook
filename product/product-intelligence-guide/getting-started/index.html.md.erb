@@ -144,9 +144,35 @@ The framework options with their respective guides are:
 
 ## When to create a Product Data Analysts issue
 
-## How to verify your data
+## How to verify tracked data
 
-## Build a dashboard
+After the new code has been pushed to production, it's time to verify the tracked data. Depending on the tool used, the data's [cadence](handbook/product/product-intelligence-guide/getting-started#cadence) and [availability](handbook/product/product-intelligence-guide/getting-started#availability) will vary.
+
+### Service Ping data availability
+
+New Service Ping data will only be collected from instances running the newly added code. This means that most likely, the first piece of data that you will be able to verify will come from the GitLab SaaS instance. For the first Service Ping containing deployed changes to appear in Sisense, you will need to wait this much time:
+  - For the data from Gitlab SaaS instance, the data should appear in, at most, 10 days from the time the code changes have been deployed to production.
+  - For the data from self-managed instances, the timing depends on the release cycle. Check more in-depth information about the data availability in the [Product Intelligence guide](https://about.gitlab.com/handbook/product/product-intelligence-guide/#3-data-availability).
+
+### Snowplow data availability
+
+New Snowplow data will start getting collected right after the new changes are deployed to production. However, since the data needs to get processed by database pipelines, you may need to wait [24 hours](https://about.gitlab.com/handbook/business-technology/data-team/platform/#extract-and-load) for it to make its way to Sisense.
+
+### Accessing the data in Sisense
+
+To access the data in Sisense, you will need to create a dashboard with a chart containing the new metric data.
+
+We have this process (for the Service Ping case) illustrated in [a video](https://www.youtube.com/watch?v=n4o65ivta48).
+This is what needs to be done:
+
+1. Create a testing dashboard in Sisense ([example dashboard](https://app.periscopedata.com/app/gitlab/904191/Alina's-testing-dashboard)). In case you don't have permissions to create a Dashboard, you will need to create an Access Request like [this one](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/13238).
+1. Add a new chart to the dashboard by clicking the `New chart` button.
+1. Build the SQL query.
+  - If you added a Service Ping event, you can go to the [Metrics dictionary](https://metrics.gitlab.com/), find your new metric and click the "copy query to clipboard" button.
+  - If you added a Snowplow event, you can use one of the [example queries](https://docs.gitlab.com/ee/development/snowplow/#reference-sql) by modifying their `event_action`/`event_label` parameters.
+1. Insert the query into the `SQL` field of the new chart and click "Run SQL".
+1. Your data should now be visible in Sisense.
+
 
 ## Quick Links
 
