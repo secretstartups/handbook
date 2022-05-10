@@ -128,7 +128,7 @@ Please utilize all the time you have set aside. if you complete all the ones at 
 
 We use the Vulnerability Report with filters to focus on items matching [our policy](#security-policy) and reported on the relevant projects.
 
-1. [Analyzers Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&severity=HIGH&severity=CRITICAL&projectId=18446184&projectId=17987891&projectId=17450826&projectId=15369510&projectId=13150952&projectId=9450197&projectId=9450195&projectId=9450192&projectId=9396716&projectId=9358979&projectId=6126012)
+1. [Analyzers Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=6126012&projectId=9450192&projectId=9450195&projectId=9450197&projectId=13150952&projectId=15369510&projectId=17450826&projectId=18446184)
 1. [Upstream scanners Vulnerability Report][Upstream scanners Vulnerability Report]
 
 For each "Detected" item, investigate and either [dismiss it](#dismissing-a-vulnerability) or confirm it and [create an issue](#creating-security-issues) for discussion. When the vulnerability is impacting a dependency (software library, system library, base image, etc,), the possibility of an upgrade should be evaluated first. Investigate the issue only when the upgrade is not straightforward.
@@ -225,8 +225,8 @@ The Composition Analysis group maintains several projects to provide our scannin
 - [gemnasium-maven analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-maven)
 - [gemnasium-maven-plugin](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-maven-plugin)
 - [gemnasium-gradle-plugin](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-gradle-plugin)
-- **Deprecated** [bundler-audit analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/bundler-audit)
-- **Deprecated** [Retire.js analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/retire.js)
+- **Removed** [bundler-audit analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/bundler-audit)
+- **Removed** [Retire.js analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/retire.js)
 - **Internal only** [gitlab-depscan](https://gitlab.com/gitlab-org/security-products/gitlab-depscan)
 
 Additional notes:
@@ -245,8 +245,6 @@ As some of our analyzers rely on open source software, we include them in our se
 To do so, we mirror their repository and execute our security scans on them:
 
 - [license-finder](https://gitlab.com/gitlab-org/security-products/dependencies/license-finder)
-- [bundler-audit](https://gitlab.com/gitlab-org/security-products/dependencies/bundler-audit)
-- [retire.js](https://gitlab.com/gitlab-org/security-products/dependencies/retire.js)
 
 The vulnerabilities reported on the currently used version of the scanner are automatically reported in [the group level Vulnerability Report][Upstream scanners Vulnerability Report] and triaged as part of our [security vulnerabilities triaging process](#security-vulnerabilities-triaging-process).
 
@@ -291,4 +289,4 @@ We are currently in the process of reviewing our error budget and identifying wh
 As part of FY21-Q4 OKRs, we've started tracking and monitoring the Largest Contentful Paint for our web pages. The results can be viewed on [this Grafana dashboard](https://dashboards.gitlab.net/d/sftijGFMz/sitespeed-lcp-leaderboard?from=now-90d&orgId=1&to=now&var-browser=chrome&var-connectivity=cable&var-domains=gitlab_com&var-function=median&var-namespace=sitespeed_io&var-pages=Secure_Dependency_List&var-pages=Secure_License_Compliance&var-pages=Secure_Security_Configuration&var-path=desktop).
 
 
-[Upstream scanners Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&severity=HIGH&severity=CRITICAL&projectId=25588419&projectId=25586931&projectId=25584602
+[Upstream scanners Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=25586931
