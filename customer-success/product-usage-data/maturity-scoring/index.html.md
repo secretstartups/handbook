@@ -22,10 +22,9 @@ By looking at the maturity scores, the TAM will gain an understanding of the cus
 
 ### CI Maturity Scoring
 
-The following primary and ancillary metrics are used to determine a customer's CI Maturity Score. 
-
+The following primary and ancillary metrics are used to determine a customer's CI Maturity Score: 
 <br>
-![CI Maturity Scoring](/handbook/customer-success/product-usage-data/maturity-scoring/ci-maturity-scoring.png)
+![CI Maturity Scoring](https://lucid.app/publicSegments/view/14463ed0-bdf2-47a1-998b-40a6bdba9986/image.png)
 <br>
 [Adoption Guide Reference Link](/handbook/marketing/strategic-marketing/usecase-gtm/ci/#adoption-guide)
 
