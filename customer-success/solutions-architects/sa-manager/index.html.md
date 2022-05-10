@@ -75,6 +75,26 @@ SA Managers should encourage and lead team member's proactively to discuss [indi
 #### One-on-Ones
 As part of reviewing and supporting the team activities, SA Managers should meet with each team member weekly. This is imporant to build rapport and trust between manager and team member. With this is mind, SA Managers should add topics to the agenda and encourage team members to contributre to the agenda as well. One-on-Ones can be a great place to check on team member's health and workload, identify needs of individual team members, review top deals, and provide feedback and coaching. One-on-One meetings with direct team members should also follow the GitLab guidance outline [here](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/#notetaking-and-structure-during-the-meeting) and document discussions.
 
+#### Quarterly Sit Downs (QSDs)
+Given that the role of the Solutions Architect can vary in roles and responsibilities it can be valuable to ensure that there are consistent avenues for continuous feedback throughout the year. The quarterly sit down (QSD) aims to provide feedback in a way that is informal, comprehensive, and provocative.  That is to say that the sit downs force both the SA Manager and Solutions Architect to hear the other's perspective and identify misalignment between the manager and individual contributor. 
+
+The quarterly sit down (QSD) structure ([template](https://docs.google.com/document/d/15mkysv8qbpmG1-ULlMn-nBjPeUEjf5zuvSS_aBgtI-g/edit#)) gives both the manager and direct report a chance to independently craft responses on behalf of the direct report and is aligned to the following areas:
+
+- Key Accomplishments within the last quarter
+- Review of the previous quarter's goals (relying on last quarter's QSD)
+- Top 5 Goals for the next quarter
+- Strengths
+- Areas to Develop
+- What my manager can do to support me
+
+This is to be done on a quarterly basis and aims to bring better alignment and more visibility between the direct report and manager. 
+
+Each section is to be used to capture what the Direct Report and the Manager have perceived as the Direct Report’s accomplishments, goals, etc… with the intent of sharing these section by section during the QSD. Each area will be read aloud (no screen sharing) which gives the recipient a chance to listen and write down what they hear. Neither is to see the others’ sheet until after the meeting is finished. This conversation format helps surface differences in perception or disagreements and opens useful conversations about future priorities or areas of growth.
+
+At the conclusion of the Quarterly Sit Down, it is valuable to review the gaps between each list and then share the document out in a read-only format with each other.
+
+At the next Quarterly Sit Down, it is important to review the goals section from the previous Quarterly Sit Down.
+
 ### Team Assessment
 Twice a year, SA Managers should conduct a team assessment to: 
 - Identify at Risk and High Potential Team Members
