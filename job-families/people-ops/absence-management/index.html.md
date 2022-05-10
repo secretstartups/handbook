@@ -9,7 +9,7 @@ title: "Absence Management"
 The Absence Management Specialist reports into the Absence Management Manager.
 
 ### Absence Management Specialist Job Grade
-The SAbsence Management Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Absence Management Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Absence Management Specialist Responsibilities
 
