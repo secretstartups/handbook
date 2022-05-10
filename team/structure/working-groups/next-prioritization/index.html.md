@@ -82,3 +82,4 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Member                | John Hope                                            | Engineering Manager, Plan:Product Planning & Certify |
 | Member                | Matt Wilson                                          | Senior Product Manager, Secure |
 | Member                | Neil McCorrison                                      | Frontend Engineering Manager, Secure |
+| Member                | Donald Cook                                          | Engineering Manager, Plan:Project Management |
