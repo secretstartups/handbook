@@ -54,7 +54,7 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 #### Interview Process
 
 - [Screening call](/handbook/hiring/#screening-call) with a recruiter. In this call we will discuss your experience, understand what you are looking for in a UX Research leadership role, talk about your work and approach to user research, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
-- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **~20-minutes in duration** and returned **within ten days** of the screening call. In addition to the details below, [this discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of what we're looking for.  
+- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **~20-minutes in duration** and returned **within ten days** of the screening call.  
 
 > ### Why we ask for a pre-recorded presentation
 > 
@@ -64,17 +64,16 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 > 
 > ### Presentation Topics
 > 
-> 1. An introduction: who you are, where you're based, your background, and why you're a UX Researcher.
-> 1. An overview of two case studies. One should be an overview of a high-impact individual project. The second should be something management related. This could be a story on how you overcame some kind of challenge, a process you introduced that had a lot of impact, or how you coached an employee to success. We want to understand: the size, discipline make-up, and structure of the team you were a part of; the goals of the project; what you personally did on the project, the challenges you faced throughout the project; and the meaningful business impact that the research resulted in. We also want to understand how you approached research;  how you synthesized research data to inform product and design decisions; and the final output of your research in the research-focused case study.  
+> 1. An introduction: who you are, where you're based, your background, and why you're a UX Research Manager.
+> 1. An overview of two case studies. One (1) should be an overview of a high-impact individual project. We want to understand how you approached the research questions, how you synthesized research data to inform product and design decisions, the challenges you faced along the way, and the impact your research had.  The second (2) should be something related to your people management experiences. We want to understand your management style & why you decided to become a people manager. We'd also like to understand the details of a project you've led as a Manager. This could be a story on how you overcame some kind of challenge, a process you introduced that had a lot of impact, or how you coached an employee to success. We want to understand: the size, discipline make-up, and structure of the team you were a part of; the goals of the project; what you personally did on the project, the challenges you faced throughout the project; and the meaningful business impact that the research resulted in. 
 >
 > ### What we're looking for 
 > 
-> - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call being completed. 
-> - Ideally, a study you present should be relevant to the work you'd expect do at GitLab. This could be because the study involved research into the [persona(s)](/handbook/marketing/strategic-marketing/roles-personas/#user-personas) you'd study at GitLab, the study related to the DevOps or Developer tooling industry, is a study that went across multiple methods, or was a study that would be considered complex in nature. 
+> - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call being completed.  
 > - You share the recording using either a [private Youtube link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), a [Google Drive link](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en), or a [Loom link](https://www.loom.com/). 
 >   
 > 
-> ## Some useful resources
+> ### Some useful resources
 > 
 > - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](https://about.gitlab.com/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation. 
 > - Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](https://about.gitlab.com/handbook/engineering/ux/ux-research/), and our [UX Department's handbook](/handbook/engineering/ux/).
