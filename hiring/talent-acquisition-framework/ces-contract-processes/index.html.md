@@ -204,12 +204,13 @@ In rare cases, we may rescind our offer before a candidate signs the contract. W
 ### How to Resend a Contract After Being Marked as Hired
 
 There are certain times when a contract needs to get resent to the candidate after they have been hired into the system, should that happen. Follow the steps below:
-1. If the req is already closed, tag the talent acquisition operations team in the greenhouse profile explaining the situation and that the req needs to be reopened to resend a contract.
-1. Unhire the candidate in Greenhouse.
+1. If the req is already closed, tag the Enablement team in the greenhouse profile explaining the situation and that the req needs to be reopened to resend a contract.
+1. Unhire the candidate in Greenhouse. (If the position is Closed, Enablement will need to assist with this step).
 1. Resend the correct contract and follow standard steps for doing this.
-1. Once you receive the contract back, **before** marking the candidate as hired in Greenhouse. You will need to ping the Sr. People Operations Director in the `#people-group-confidential` asking for the BambooHR profile be deleted due to having to resend a contract and not wanting a duplicate profile. Provide the BambooHR link in the message.
+1. Once you receive the contract back, **before** marking the candidate as hired in Greenhouse. You will need to ping the Sr. People Operations Director in the `#people-group-confidential` asking for the BambooHR profile be deleted due to having to resend a contract and not wanting a duplicate profile. Provide the BambooHR link in the message. If the employee already works here, we cannot do this step. Please discuss an alerternative with the People Experience team.
 1. Once they confirms the profile is deleted, proceed with marking the candidate as hired in Greenhouse and closing out the req again.
-1. If a People Experience Specialist was involved, make sure you ping them and let them know the contract has been updated and the new BambooHR profile has been created.
+1. If a new profile was not created, upload the new contract to their BambooHR profile.
+1. Ping the People Experience team and let them know the contract has been updated and the new BambooHR profile has been created. 
 
 For Talent Acquisition Enablement:
 1. Once notified by the CES team, copy the Job Approval Chain and add it to the Approval Details Notes section. Include the names of the approvers, the dates approved, and the reason as to why the requisition is being re-opened. Tag the Finance Business Partner, CES, and Recruiter in this note.
@@ -285,13 +286,13 @@ _Important: Employment contracts cannot be backdated. If a team member requests 
 * Once siged by both parties, the contract should be uploaded to the team members BambooHR profile in the `Contracts & Changes` section.
 
 ### How to Unhire a Candidate After Contract is Signed
-If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab.
+If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab. Please note that the steps below are assuming that the person will not be working for GitLab; if you are hoping to just amend their offer after they've been marked as hried, please view the Resend process above. 
 
 If they have been hired in Greenhouse and exported to BambooHR, Enablement will need to follow these steps:
 1. Unhire the candidate in Greenhouse if the req is still open. If the req is closed, Enablement will need to be brought in to unhire.
 1. Ask the Recruiter to reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.  
 1. Cancel any scheduled emails in Greenhouse.
-1. Tag the VP, People Operations in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the VP, People Operations) can remove the profile, this is why this step is so important.
+1. Tag the VP, People Operations in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the VP, People Operations) can remove the profile, this is why this step is so important. 
 1. If they were hired via a PEO, inform the contact person at the PEO of this change immediately, ideally before onboarding starts. If they are in a country that uses outside payroll, we will need to inform the payroll company as well. 
 1. Message IT in the #people-exp_ces channel to let them know to cancel any equipment orders.
 1. If the Recruiter has not already tagged the FP&A approver in the Greenhouse notes, please tag them to let them know that the candidate has withdrawn.
