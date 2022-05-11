@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Functional Analytics Center of Excellence"
+title: "Source of Truth Fields for Reporting"
 description: "The FACE is a cross-functional group of functional analytics teams that aim to make our teams more efficient by solving and validating shared data questions which results in cohesive measurement approaches across teams."
 ---
 
