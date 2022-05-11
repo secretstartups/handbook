@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Global Search Team
+title: Global Search Group
 description: "The Global Search team is focused on bringing world class search functionality to GitLab.com and self-managed instances."
 ---
 ## On this page
@@ -11,17 +11,16 @@ description: "The Global Search team is focused on bringing world class search f
 
 ## Vision
 
-The Global Search team is focused on bringing world class search functionality to GitLab.com and self-managed instances.
-
+The Global Search Group focuses on bringing world class search functionality to GitLab.com and self-managed instances.
 ## Mission
 
-The team will be responsible for improving and expanding upon our current global search implementations using Elasticsearch, PostgreSQL, and Gitaly. Areas of responsibility will include global search functionality, UI, ingestion mechanisms, optimal indexing, administrative tools and installation mechanisms for self-managed installations.
+The group is responsible for improving and expanding upon our current global search implementations using Elasticsearch, PostgreSQL, and Gitaly. Areas of responsibility will include global search functionality, UI, ingestion mechanisms, optimal indexing, administrative tools, and installation mechanisms for self-managed installations.
 
-This team doesn't own custom searches for specific features, such as the "filter bar" on issues which is part of the [Issue Tracking](https://about.gitlab.com/direction/plan/issue_tracking/) category owned by the [Project Management group](/handbook/product/categories/#project-management-group).
+This team doesn't own custom searches for specific features, such as the "filter bar" on issues which is part of the [Issue Tracking](https://about.gitlab.com/direction/plan/issue_tracking/) category owned by the [Project Management group](https://about.gitlab.com/handbook/product/categories/#project-management-group).
 
 ## Team Members
 
-The following people are permanent members of the Global Search Team:
+The following team members are permanent members of the Global Search Group:
 
 <%= direct_team(manager_slug: 'cliu', role_regexp: /Global Search|Enablement/) %>
 
@@ -33,51 +32,49 @@ The following members of other functional teams are our stable counterparts:
 
 ## Meetings
 
-Whenever possible, we prefer to communicate asynchronously using issues, merge requests, and Slack. However, face-to-face meetings are useful to establish personal connection and to address items that would be more efficiently discussed synchronously such as blockers.
+Whenever possible, we prefer to communicate asynchronously using issues, merge requests, and Slack. However, face-to-face meetings are useful for establishing a personal connection and addressing items that would be more efficiently discussed synchronously, such as blockers.
 
-- The Global Search Team meets weekly on Tuesdays alternately at 14:30 UTC and 21:30 UTC.
+- The Global Search Group meets weekly on Tuesdays alternately at 14:30 UTC and 21:30 UTC.
+- The Global Search Group also has an Open Discussion Hour on Thursdays at 14:30 UTC
 
 ## Work
 
-We follow the general workflow and principles defined in [Product Development Flow](/handbook/product-development-flow/) and [Engineering Workflow](/handbook/engineering/workflow/). To bring an issue to our attention please create an issue in the relevant project. Add the `~"group::global search"` label along with any other relevant labels. If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/search/#stable-counterparts) section above.
+We follow the general workflow and principles defined in [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/) and [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/). To bring an issue to our attention, please create an issue in the relevant project. Add the `~"group::global search"` label and any other suitable labels. If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](https://about.gitlab.com/handbook/engineering/development/enablement/search/#stable-counterparts) section above.
 
 Below are a few guidelines the team follows in the day-to-day work.
 
-- We use asynchronous communication with each other and with other GitLab teams most of the time via GitLab, Slack, Google Docs, etc.
-- We have weekly team meetings, 1-on-1 meetings and virtual happy hours via Zoom to discuss various topics and to create team bonding.
-- We encourage all backend engineers in our team to get a review of their changes by someone else in our team. It's great for knowledge sharing.
-
-* We organize our tasks under Epics and Issues. Product Manager and Engineering Manager go through backlog at the planning phase of each release and put issues into next one or two milestones. The issues on the [milestone board](https://gitlab.com/groups/gitlab-org/-/boards/1339901?label_name[]=group%3A%3Aglobal%20search) are sorted based on priority. The higher priority issues are put on the top.
-* We apply `Deliverable` label to the issues that we intend to close in a milestone before the milestone starts. We review these issues in the middle of the milestone, usually the first week of each month. We will remove the `Deliverable` label from issues that are not likely to make into the release.
-* We work with the UX team for features that need their design input by labeling the issues with a UX workflow label and adding the corresponding UX team counterpart as assignee. We use `workflow::problem validation` and `workflow::solution` validation for user research, and `workflow::design` for UI design and prototyping. Once the design is finished, `workflow::ready for development` label will be added as an indicator that development can start. For minor UX/UI changes, we contact our UX counterpart or the UX manager to request a review for fast iterations.
-* We work with Quality team for issues that require input from testing perspective by labeling the issues with `workflow::planning breakdown` and adding the SET counterpart as assignee. Once SET reviews the issue, they acknowledge back with label [`quad-planning::complete-action` or `quad-planning::complete-no-action`](/handbook/product-development-flow/#build-phase-1-plan)
-* We work with Technical Writing team for issues that need documentation change by labeling the issues with `documentation` and adding our counterpart in Technical Writing team as assignee. Our technical writer helps us update the corresponding document. The documentation change normally happens together with code change.
-* We work with our stable counterpart in Security team for issues that need input from security perspective. We suggest to use team planning issue, for example [this one](https://gitlab.com/gitlab-org/search-team/team-tasks/-/issues/17), for communication.
-* We work with Support Engineering team by collaborating on issues directly. We invite our counterpart in Support Engineering team in our team meeting every month to have direct communication.
-* When team members are ready for their next tasks, they will pick the issue from the top of milestone board and become the issue owner by assigning the issue to themselves. The issue owner will be responsible for finding the solution of the issue. They can find a solution by a Merge Request. They can also break down the issue into smaller sub issues if it makes sense to take an iterative approach.
-* Prior to going out of office for an extended period of time, assign items still in review to the Engineering Manager. The Engineering Manager can reassign as needed.
-* Whenever a team member reviews the work of an author that is out of office for an extended period of time, they are welcome to complete the changes requested if they deem themselves comfortable with the remainder of the work.
-* We review and prioritize bugs every week. It is common for bugs to represent the problem without identifying the impact. Because the Product Management and QA share the responsibility of assessing every bug for priority and severity and details. Severity uses an approximation of the Risk Matrix to identify potential risk and frequency. Priority is based on total impact over time. Occasionally, something of a lower priority/ severity will be added to a milestone when it has a relationship to work currently scheduled.
-  1. Review all new bugs for content, priority, severity, and milestones
-  1. Review any bugs missing priority or severity
-  1. Prioritize bugs for the current milestone. 10% of scheduled work should be focused on bugs 
-  1. Schedule bugs for future milestones based on capacity, severity, priority, and relationship to any scheduled work
+* We use asynchronous communication with each other and with other GitLab teams via GitLab, Slack, Google Docs, etc.
+* We have weekly team meetings, 1-on-1 meetings, and virtual happy hours via Zoom to discuss various topics and create team bonding.
+* We encourage all backend engineers in our team to have their changes reviewed by someone else in our group. It's great for knowledge sharing.
+* We organize our tasks under Epics and Issues. The Product Manager and Engineering Manager go through the backlog at the planning phase of each release and put issues into the next one or two milestones. The issues on the [milestone board](https://gitlab.com/groups/gitlab-org/-/boards/1339901?label_name[]=group%3A%3Aglobal%20search) are sorted based on priority. The higher priority issues are placed on the top.
+* We apply the Deliverable label to the issues that we intend to close in a milestone  before the milestone starts. We review these issues in the middle of the milestone,  usually the first week of each month. We will remove the Deliverable label from the issues that are not likely to make it into the release. 
+* We work with the UX team for features that need their design input by labeling the issues with a UX workflow label and adding the corresponding UX team counterpart as the assignee. We use `workflow::problem validation` and `workflow::solution` validation for user research and `workflow::design` for UI design and prototyping. Once the design is finished, `workflow::ready for development` label will be added as an indicator that development can start. For minor UX/UI changes, we contact our UX counterpart or the UX manager to request a review for fast iterations.
+* We work with the Quality team for issues that require input from a testing perspective by labeling the issues with `workflow::planning breakdown` and adding the SET counterpart as an assignee. Once SET reviews the issue, they acknowledge back with the label [`quad-planning::complete-action` or `quad-planning::complete-no-action`](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan)
+* We work with the Technical Writing team for issues that need documentation change by labeling the issues with <code>documentation</code> and adding our counterpart in the Technical Writing team as assignee. Our technical writer helps us update the corresponding document. The documentation change normally happens together with the code change.
+* We work with our stable counterpart in the Security team for issues that need input from a security perspective. We suggest using team planning issues, for example, [this one](https://gitlab.com/gitlab-org/search-team/team-tasks/-/issues/17), for communication.
+* We work with the Support Engineering team by collaborating on issues directly. We invite our counterpart in the Support Engineering team to our team meeting every month to have direct communication.
+* When team members are ready for their next tasks, they will pick the issue from the top of the milestone board and become the issue owner by assigning the issue to themselves. The issue owner will be responsible for finding the solution to the issue. They can find a solution by a Merge Request. They can also break down the issue into smaller sub-issues if it makes sense to take an iterative approach.
+* Before going out of office for an extended time, assign items still in review to the Engineering Manager. The Engineering Manager can reassign as needed.
+* Whenever a team member reviews an author's work that is out of office for an extended time, they are welcome to complete the changes requested if they deem themselves comfortable with the remainder of the work.
+* We review and prioritize bugs every week. It is common for bugs to represent the problem without identifying the impact. Because the Product Management and QA share the responsibility of assessing every bug for priority, severity, and details. Severity uses an approximation of the Risk Matrix to identify potential risk and frequency. Priority is based on total impact over time. Occasionally, something of a lower priority/ severity will be added to a milestone when it relates to work currently scheduled.
+    1. Review all new bugs for content, priority, severity, and milestones
+    1. Review any bugs missing priority or severity
+    1. Prioritize bugs for the current milestone. 10% of scheduled work should be focused on bugs
+    1. Schedule bugs for future milestones based on capacity, severity, priority, and relationship to any scheduled work
 
 ### Breaking changes process
 
-Before a major milestone starts, we prepare an epic with all the breaking change issues linked. We work to get approvals as usual, but keep the MR in draft to prevent it from merging before the major milestone.
-If an MR is independent, we can have `master` as a target branch. If not, then we can have a sequence of MRs with target branches set to each other.
-As soon as the first one merges, the next will automatically target `master`.
+Before a major milestone starts, we prepare an epic with all the breaking change issues linked. As usual, we work to get approvals but keep the MR in draft to prevent it from merging before the major milestone. If an MR is independent, we can have the `master` as a target branch. If not, we can have a sequence of MRs with target branches set to each other. As soon as the first one merges, the next will automatically target `master`.
 
-Every MR that was created before the breaking change milestone should have this or similar warning in the description: `:warning: This MR must be kept as draft and cannot be merged until **DATE** :warning:`
+Every MR that was created before the breaking change milestone should have this or a similar warning in the description: `:warning: This MR must be kept as a draft and cannot be merged until **DATE** :warning:`
 
 
 ### Advanced Global Search Rollout on GitLab.com
 
-The team has been actively working on enabling Elasticsearch powered Advanced Search on GitLab.com. [Based on our analysis](https://gitlab.com/groups/gitlab-org/-/epics/1736), we set our first target to rolling this feature out for all the paid groups on GitLab.com. You can find more details about the timeline and progress in the links below.
+The team has been actively working on enabling Elasticsearch powered Advanced Search on GitLab.com. [Based on our analysis](https://gitlab.com/groups/gitlab-org/-/epics/1736), we set our first target to roll this feature out for all the paid groups on GitLab.com. You can find more details about the timeline and progress in the links below.
 
-- [Plan of Advanced. Search Rollout on GitLab.com](https://gitlab.com/groups/gitlab-com/-/epics/649)
-- [Steps and Enhancements of Advanced Search Rollout on GitLab.com](./es-rollout-timeline.html)
+* [Plan of Advanced. Search Rollout on GitLab.com](https://gitlab.com/groups/gitlab-com/-/epics/649)
+* [Steps and Enhancements of Advanced Search Rollout on GitLab.com](https://about.gitlab.com/handbook/engineering/development/enablement/search/es-rollout-timeline.html)
 
 ### Severity Labels for Search Issues (`~advanced search`, `~global search`)
 
@@ -86,16 +83,15 @@ The team has been actively working on enabling Elasticsearch powered Advanced Se
 | Time until inserted record is recallable | Above 15 minutes | Between 15 and 10 minutes | Between 10 and 5 minutes | Between 3 and 5 minutes|
 
 The two types of operations we detail severity metrics for above are:
-- Recall Record, Global: This is the time it takes to recall a record using a globally scoped search of GitLab.com. Records could be entities such as: projects, users, groups, etc.
-- Time until inserted record is recallable: This is the elapsed time between adding a new record and having that new record be recallable via a search. This process depends on many underlying technologies such as the [Go indexer](https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer), [Sidekiq queues](https://docs.gitlab.com/ee/development/elasticsearch.html#how-does-it-work), and the Elasticsearch database.
+* Recall Record, Global: This is the time it takes to recall a record using a globally scoped search of GitLab.com. Records could be entities such as projects, users, groups, etc.
+* Time until inserted record is recallable: This is the elapsed time between adding a new record and having that new record be recallable via a search. This process depends on many underlying technologies such as the [Go indexer](https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer), [Sidekiq queues](https://docs.gitlab.com/ee/development/elasticsearch.html#how-does-it-work), and the Elasticsearch database.
 
 ### Weighting for Search Issues
 
-We use the Fibonacci rating system to assign weights to Search issues. Below are a few guidelines when assigning issue weight:
-
+We use the Fibonacci rating system to assign weights to Search issues. Below are a few guidelines when setting issue weight:
 * Issues that include `~backend` and `~frontend` work should have the weights added for a total weight representative of the work effort.
 * Spike issues are assigned a weight to help timebox the effort.
-* Bugs will not be assigned a weight.
+* Bugs will not be given a weight.
 * Any issue weighted over 5 should be broken down into smaller iterative steps if the issue does not contain `~backend` and `~frontend` work.
 
 | Weight | Description |
@@ -108,11 +104,11 @@ We use the Fibonacci rating system to assign weights to Search issues. Below are
 
 ### Oncall escalation coverage
 
-As the Global Search Team requires special domain knowledge, such as Elasticsearch, we borrow team members with this domain knowledge from other teams to cover the oncall escalation when we are under staffing especially during the holiday seasons. In general, we will follow the [dev oncall](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) process. The Elasticsearch domain experts, which can be identified by domain_expertise on their profile, may be contacted when SRE and dev oncall engineers cannot resolve the production incidents. We don't expect the domain experts to work outside of their normal working hours. In case of emergency, we will follow the set of rules and best practices outlined in our [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) handbook. In order to assist team members to catch up the latest development status and resolve potential incidents, we have created a [Global Search Incident Management document](https://gitlab.com/gitlab-org/search-team/training-materials/-/tree/main/2021-12-14-production-incident-management) as a reference.
+As the Global Search Team requires special domain knowledge, such as Elasticsearch, we borrow team members with this domain knowledge from other groups to cover the on-call escalation when we are understaffing, especially during the holiday seasons. In general, we will follow the [dev](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) on-call process. The Elasticsearch domain experts, identified by domain_expertise on their profile, may be contacted when SRE and dev on-call engineers cannot resolve the production incidents. We don't expect the domain experts to work outside their normal working hours. In case of emergency, we will follow the rules and best practices outlined in our [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) handbook. To assist team members in catching up on the latest development status and resolving potential incidents, we have created a [Global Search Incident Management document](https://gitlab.com/gitlab-org/search-team/training-materials/-/tree/main/2021-12-14-production-incident-management) as a reference.
 
-#### Onboard domain experts from other teams to cover production incident escalation
+#### Onboard domain experts from other groups to cover production incident escalation
 
-When onboarding domain experts from other teams to help cover production incident escalation, we may consider the following actions:
+When onboarding domain experts from other groups to help cover production incident escalation, we may consider the following actions:
 
 * Suggest the team member add `elasticsearch` as their `domain_expertise` in their team member profile
 * Add the team member to the Slack group global-search-team which can be used by SREs and other on-call engineers to contact in case of emergency
@@ -140,8 +136,8 @@ We utilize the Jobs to be Done (JTBD) framework to better understand our custome
 
 ### Documentations
 
-- [GitLab ElasticSearch Knowledge page](https://docs.gitlab.com/ee/development/elasticsearch.html)
-- [GitLab ElasticSearch Integration](https://docs.gitlab.com/ee/integration/elasticsearch.html)
+- [GitLab Elasticsearch Knowledge page](https://docs.gitlab.com/ee/development/elasticsearch.html)
+- [GitLab Elasticsearch Integration](https://docs.gitlab.com/ee/integration/elasticsearch.html)
 - [GDK Elasticsearch Setup Instructions](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/elasticsearch.md)
 
 ### Blog Posts
