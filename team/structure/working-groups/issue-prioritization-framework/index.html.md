@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/issue-prioritization-fra
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | August 6, 2020  |
-| Target End Date | April 1, 2021   |
+| Target End Date | Dec 30, 2022   |
 | Slack           | [#wg_issue-prioritization](https://join.slack.com/share/zt-etotbmm9-FzhcHH0BGbw3~D4Xe5rAyg) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1oBWNxBSOJKrh3ubHwN5pI8243vBjJ-Y_Cax17A5abII/edit) (only accessible from within the company) |
 | Docs            | [Handbook Page](https://about.gitlabe.com/handbook/product/product-processes/customer-issues-prioritization-framework) |
