@@ -48,6 +48,14 @@ MR Type labels help us report what we're working on to industry analysts in a wa
 
 <%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for('quality', "group", "Threat Insights") } %>
 
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="300" src="<%= signed_periscope_url({ dashboard: 1020520, embed: 'v2', filters: [{name: filter_type_for("quality", "group"), value: filter_value_for('quality', "group", "Threat Insights") }], visible: ["team_group", "stage","development_section"], data_ts: Date.today.to_time.to_i }) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
 ### Workflow
 
 The Threat Insights group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/).
