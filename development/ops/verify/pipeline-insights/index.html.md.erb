@@ -71,7 +71,7 @@ The following people are permanent members of the Verify:Pipeline Insights group
 To find our stable counterparts look at the Pipeline Insights [product category listing](https://about.gitlab.com/handbook/product/categories/#pipeline-Insights-group).
 
 ## JTBD
-You can view and contribute to our current list of JTBD and job statements [here](/handbook/engineering/development/ops/verify/pipeline-Insights/JTBD/#jobs-to-be-done).
+You can view and contribute to our current list of JTBD and job statements [here](/handbook/engineering/development/ops/verify/pipeline-insights/JTBD/#jobs-to-be-done).
 
 ## Technologies
 Like most GitLab backend teams we spend a lot of time working in Rails on the main [GitLab app](https://gitlab.com/gitlab-org/gitlab). Familiarity with Docker and Kubernetes is also useful on our team.
@@ -109,9 +109,28 @@ Also known as the [Three Amigos](https://www.agilealliance.org/glossary/three-am
 We use a [release planning issue](https://gitlab.com/gitlab-org/ci-cd/pipeline-insights-group/-/issues/new?issuable_template=ReleasePlan) to plan our release-level priorities over each milestone. This issue is used to highlight deliverables, capacity, team member holidays, and more. This allows team members and managers to see at a high-level what we are planning on accomplishing for each release, and serves as a central location for collecting information.
 
 #### Issue weighting and refinement
-Before issues can be moved from the Planning Breakdown stage into the Ready for Development stage, they must have a weight applied. We use [this table](https://about.gitlab.com/handbook/engineering/development/dev/create/source-code-be/#weights) to decide what weight an issue should have. We follow an asynchronous refinement process in lieu of a synchronous refinement meeting. This helps us be more Inclusive and work more asynchronously. Engineers should take time each week to review the issues that are in [Planning Breakdown](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group::pipeline+insights&label_name%5B%5D=workflow%3A%3Aplanning+breakdown&scope=all&sort=milestone&state=opened&utf8=%E2%9C%93) for the next milestone and see what they can do to better refine and weight those issues.
+Before issues can be moved from the `workflow::planning breakdown` status into the  `workflow::ready for development` status, they must have a weight greater than 0 applied to the issue. 
+The Product Manager (PM) and Engineering Manager (EM) will use milestone planning issues to identify issues that need to be weighed in advance of the target milestone.
+We would like to give engineers one full milestone to refine and weight the issues.
+The EM assigns issues to engineers to add a weight. An issue weight is determined based on the complexity in the following criteria:
+- Code change - How difficult is it to make the required code changes?
+- Interaction and dependency on other teams - How much interaction with other teams are needed?
+- Path to production - What needs to be done to get the code changes safely in production (e.g feature flag, backward compatibility, etc)?
+- Performance impact - What it takes to maintain high performance in the system?
 
-The Product Manager and Engineering Manager will use milestone planning issues to identify issues that need to be weighed in advance of the target milestone. We would like to give engineers one full milestone to refine and weight the issues. 
+Based on these criteria, an issue can have one of the following weights:
+
+| Weight | Description  |
+| --- | --- |
+| 1: Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required.<br><br>Examples are documentation updates, simple regressions, and other bugs that have already been investigated and discussed and can be fixed with a few lines of code, or technical debt that we know exactly how to address, but just haven't found time for yet. |
+| 2: Small | The problem is well understood and a solution is outlined, but a little bit of extra investigation will probably still be required to realize the solution. Few surprises are expected, if any, and no coordination with other teams or people is required.<br><br>Examples are simple features, like a new API endpoint to expose existing data or functionality, or regular bugs or performance issues where some investigation has already taken place. |
+| 1: Trivial | Issues that are very well understood. The exact solution is already known and straight forward. The scope of change is very isolated. <br><br>Examples are documentation updates, simple regressions, and bugs or technical debt that can be fixed with a few lines of code. |
+| 2: Small | Issues that are well understood and have an outlined solution. No surprises are expected. No coordination with other teams or people is required.<br><br>Examples are simple features, like a new API endpoint to expose existing data or functionality, or regular bugs or performance issues. |
+| 3: Medium | Issues that are well understood and have an outlined solution. These issues require external team involvement or coordination to be released, such as a feature flag.<br><br>Examples are regular features, potentially with a backend and frontend component, or most bugs or performance issues. |
+| 5: Large | Issues that are known to be complex. A solution has been outlined. There are many major edge cases that need to be catered for. Surprises are expected. Extensive coordination with other teams is required. Careful release process needs to be considered. These issues may have potential for adverse performance impact or catastrophic failures. They may also involve more one components (backend, frontend, gitaly, workhorse, runner, etc) or changes the interaction between the components.<br><br>Examples are issues that changes API contracts requiring backward compatibility, requires multiple feature flags to be safely released. It could also be issues where the team does not have any existing expertise or knowledge, or require changes in components that the team does not usually work on. |
+| 8: Unknown | An issue that is weight 8 will not be scheduled and instead should be investigated further in order to be broken down into smaller issues<br><br>Examples are bugs that are not well understood or easily replicated, bugs or features that do not have a suggested solution. |
+
+If the weight of an issue cannot be determined within an hour, create a separate [investigation issue](/handbook/engineering/development/ops/verify/pipeline-insights/#technical-investigation) for an in-depth investigation.
 
 #### Design issues and SSOT
 There may be times in which an issue requires a new design proposal. When those issues are also labeled as `~direction` items we create a separate design issue for them for the Product Designer to work through. The reason for this is to be as accurate as possible in displaying on the [Upcoming Releases page](https://about.gitlab.com/upcoming-releases/) when the feature will be implemented.
