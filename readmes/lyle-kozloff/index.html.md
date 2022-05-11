@@ -160,4 +160,6 @@ Strictly following my own system, I should say "2"... but I think it's more easi
 ### Other
 - My expectations are sometimes expressed softly. If there is any doubt about whether
 something I say is an expectation, a suggestion or an idea please ask.
+- Please feel free to correct me in public channels if I'm wrong about something. I appreciate opportunities to model 
+humility and my commitment to being a life-long learner.
 
