@@ -56,7 +56,18 @@ As a part of Sales Onboarding, each new Americas Sales team member is allowed to
 
 ## Role-Based Onboarding 
 
-After completing SQS, field team members will be added to their respective role-based learning path. For more information, please refer to the role-specific onboarding handbook page below. 
+To accelerate ramp time and to support the GitLab values of results, iteration and efficiency, we have optimized the field onboarding program to provide new team members with the core information and essential competencies paired with the day-to-day skills that they need to be successful in their individual role. Learning is combined with specialized on the job training and a more robust shadowing program to ensure that new team members can contextualize and apply what they are learning throughout the entire onboarding journey. 
+
+The onboarding program includes individual role-based learning journeys for AEs, SALs, SAs, TAMs, CAMs, ABDMs and ISRs. Each role-based learning journey is designed based on the unique needs of each segment and includes the following milestones: 
+
+* Month 1: Understand role and GitLab product (SQS & Pre-work)
+* Month 2: Meet customers
+* Month 3: Become customer-ready certified
+* Month 4: Close first deals
+* Month 5 and Beyond: Continue to develop intermediate and advanced skills
+
+These role-based learning journeys are based on the existing role-based certifications and will enable us to deliver the relevant “just in time” information and training that team members can apply immediately.
+
 
 - Enterprise Strategic Account Leader - [Enterprise Sales: What every SAL needs to know (30-60-90 days)](https://gitlab.edcast.com/journey/sal-post-onboarding-sal) 
 - Commercial Account Executive - [Commercial Sales - Onboarding Journey](https://gitlab.edcast.com/journey/commercial-sales-onboarding-journey)
@@ -64,8 +75,8 @@ After completing SQS, field team members will be added to their respective role-
 - Technical Account Manager - [Technical Account Manager (TAM) Onboarding](https://gitlab.edcast.com/journey/technical-account-manager-tam-onboarding) 
 - Inside Sales - [Inside Sales: Onboarding Learner Journey](https://gitlab.edcast.com/journey/isr-post-onboarding-isr)
 - Sales Development - [Tanuki Tech](https://gitlab.edcast.com/channel/sdr)
+- Channel - [Channel Sales Onboarding Journey](https://gitlab.edcast.com/journey/channel-sales-on-boarding)
 - Professional Services Engineer - coming soon
-- Channel - coming soon
 - Alliances - coming soon
 
 
