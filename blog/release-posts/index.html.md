@@ -51,13 +51,13 @@ Release posts follow a process outlined here, and the templates that are used to
 
 At a high level, the Release post schedule is:
 
-### On the 1st
+### On the 3rd
 
 - The [Release Post Process Kickoff Tasks](https://gitlab.com/gitlab-com/www-gitlab-com/-/pipeline_schedules) pipeline runs which will trigger `bin/rake release_post:start`
 - This task creates the branches, MRs, and issues necessary to run the Release Post process
 - The MRs and issues will be assigned to the release post manager using the content in [release_post_managers.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_post_managers.yml)
 
-### 1st to 10th
+### 3rd to 10th
 
 - **PMs** contribute MRs for their content blocks:
   - [Features and Upgrades](#instructions) are contributed as release post item MRs targeting the release post branch
@@ -215,7 +215,7 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 - Merging the release post MR on the 22nd and ensuring the release post page goes live
 - Collecting feedback in the release post retrospective issue during the release post not just for your own challenges, but other team members chanllenges as they pop on Slack and other places
   - Doing a sync retro with the Technical Writer, the Technical Advisor, the Release Post Manager Shadow, and the Product Operations DRI sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve the process and update the handbook/MRs
-  - Making sure all the action of the retroscpective issue are completed and the issue closed before the next release post cycle beings on or around the 1st
+  - Making sure all the action of the retroscpective issue are completed and the issue closed before the next [release post automation task runs on the 3rd](#release-post-branch-creation-rake-task)
 
 ### Other key tasks
 
@@ -242,7 +242,7 @@ Make sure you have [Maintainer](https://docs.gitlab.com/ee/user/permissions.html
 
 [An automated task will](#schedule) create the branches, MRs, and issues necessary to run the Release Post process, including making the appropriate assignments and mentions based on the [Release Post Manager schedule](https://about.gitlab.com/handbook/marketing/blog/release-posts/managers/).
 
-If you have not been assigned to a Release Post X.Y MR by the end of the day on the 1st:
+If you have not been assigned to a Release Post X.Y MR by the end of the day on the 3rd:
 
 - Reach out to Product Operations `@brhea` in Slack #release-post
 - If `@brhea` is unavailable, work with your Technical Advisor to run [`bundle exec rake release_post:start`](#release-post-branch-creation-rake-task) to kickoff the X-Y Release Post, or
@@ -1614,7 +1614,7 @@ Sometimes, the height of the secondary features content will be much longer in t
 
 ### Release post branch creation Rake task
 
-The release post branch and most of the related directories, files, issues, and MRs are automatically created when [`release:start` Rake task](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/lib/tasks/release_post.rake) automatically runs on the 1st of the month.
+The release post branch and most of the related directories, files, issues, and MRs are automatically created when [`release:start` Rake task](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/lib/tasks/release_post.rake) automatically runs on the 3rd of the month.
 If the script fails to run or there are pipeline issues, you can run `bundle exec rake release:start` yourself to make the following things happen:
 
 1. You are asked for the GitLab version (for example, 13.10), and the release
