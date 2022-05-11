@@ -92,6 +92,7 @@ Using proper `utm_campaign` values below will minimize number of manual updates 
 * vccusecase = VC&C Campaigns (retired)
 * competegh = OctoCat Competitive
 * cdusecase = CD Campaign
+* autosd = Automated Software Delivery Solutions Campaign
 
 RULE: all utm_campaign must start with one of the overarching campaigns (devopsgtm, singleappci, iacgitops, etc.)
 
