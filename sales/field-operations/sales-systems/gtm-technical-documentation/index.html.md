@@ -423,6 +423,7 @@ Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePA
      - If a lookup field is changed from a User to Null/Empty then ALL splits for that User Role on the Opportunity are deleted, and there will be not splits for that Team Role on the Opportunity
      - If a split is needed for any of these roles the split needs to be created manually by an approved user
   - `Technical Account Manager` Special Use Cases
+     - This use case is in the process of being deprecated as the Team migrates to utilizing the Stamped TAM Team Process
      - When the `Technical Account Manager` field on the Opportunity is populated a split for 100% is created for whoever is added into the Technical Account Manager lookup
         - The population of the `Technical Account Manager` is currently handled automatically, OpportunityClass.maintainTamTeamLookup, as they are only to be stamped onto Opportunities when the Opportunity is a Growth Opportunity
      - If a split is needed for a Technical Account Manager the split needs to be created manually by an approved user
@@ -537,6 +538,29 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 ## SA Team Stamping
  
 Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#heading=h.327gn0f9tf3c) for details.
+
+## TAM Team Stamping
+
+**Business Process this supports:** This process supports our TAM Team Tracking Alignment and Compensation. See the business handbook section [here](/customer-success/tam/services/#parent-child-accounts-and-business-units). 
+
+**Relevant fields**
+- User Object:
+   - `[Comp] TAM Team` (`TAM_Team__c`)
+- Account Object:
+   - `Technical Account Manager` (`Technical_Account_Manager_LU__c`)
+- Opportunity Object:
+   - `[Comp] TAM Team` (`Comp_TAM_Team__c`)
+
+**Overview:** 
+- On Opportunity creation and closure the TAM Team of the user in the Technical Account Manager on the Opportunities related account is stamped onto the Opportunity in either of the following cases
+   - If the TAM Team of the user in the lookup field is `Scale`
+   - If the Order Type on the Opportunity is one of the following: `2. New - Connected`, `3. Growth`, `4. Contraction`, `5. Churn - Partial`, `6. Churn - Final`
+
+**Logic Locations:**
+- OpportunityClass.stampTAMTeam
+- OpportunityClassTests.stampTAMTeam
+- OpportunityTrigger
+
  
 ## GitLab Admin Contact Required
  
