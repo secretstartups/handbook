@@ -134,6 +134,17 @@ Some dedicated Slack channels:
 
 ## Processes
 
+### Acronyms 
+
+- Engineers: All the Engineers of the Configure team
+- Engineering: Engineers and the Engineering Manager
+- EM: Engineering Manager
+- PM: Product Manager
+- FE: Frontend Engineer
+- BE: Backend Engineer
+- UX: User Experience Designer
+- TW: Technical Writer
+
 ### Problem validation and vision setting
 
 The product manager practices [continuous interviewing](https://medium.com/@ttorres/continuous-interviewing-the-key-to-successful-product-teams-6bf63bfc1936). Continuous interviewing is not organized around any specific problem, but rather, it is a means to continuously learn from our users to uncover insights that can be applied towards product discovery. These interviews follow the same script most of the time, with the potential focus shifting as warranted when digging deeper into specific aspects of the user's problem.
@@ -154,11 +165,11 @@ When ready the artifact should be shared with the team in the team Slack channel
 
 Opportunities emerge through continuous interviews and other research activities. Problem validation issues are used to track the understanding of the problem in detail and to present on opportunity in more detail to the whole team and the wider community in an async way. Thus a problem validation issue is used to describe the uncovered problem in detail with necessary requirements, so that the PD and engineers can understand the problem from the issue only, to drive a go / no-go decision by the team, and to present the problem to product leadership in the form of a RICE score if necessary. If the described problem is worth solving, the issue might be promoted into an epic or follow up epics/issues might be created from its core takeaways.
 
-Vision setting at the product category level is driven by the product manager, and is primarily worked on by the PM and the PD with engineering involvement whenever necessary. Once the problem space is deeply understood, the vision of what we want to achieve is defined using all of the learnings gained from the continuous interviews. Visions are captured in stage and category direction pages. Visions for specific features are also defined in the corresponding epics.
+Vision setting at the product category level is driven by the product manager and is primarily worked on by the PM and the PD with engineering involvement whenever necessary. Once the problem space is deeply understood, the vision of what we want to achieve is defined using all of the learnings gained from the continuous interviews and other problem validation methods. Visions are captured in stage and category direction pages. Visions for specific features are also defined in the corresponding epics.
 
 #### Finding customers to interview
 
-We want to build solutions for real users and customers. As a result, it is paramount to regularly speak with them in order to learn about the goals they're trying to achieve (JTBD), their needs (requirements), and the context of when they might reach out or look for a solution such as ours. The following is a non-exhaustive list of approaches to find customers open to a call:
+We want to build solutions for real users and customers. As a result, it is paramount to regularly speak with them in order to learn about the goals they're trying to achieve (Jobs To Be Done), their needs (requirements), and the context of when they might reach out or look for a solution such as ours. The following is a non-exhaustive list of approaches to finding customers open to a call:
 
 - Reply to users who are active in issues (create, comment, vote)
 - Follow related topics on medium, twitter, HN, and reach out to authors writing about our product areas
@@ -170,9 +181,7 @@ We want to build solutions for real users and customers. As a result, it is para
 
 ### Issue refinement
 
-Refinement in the Configure group happens by focusing on a few issues every week. These issues are being prepared for discussion in the week before with the active involvement of the PM, UX and EM. Based only on the description of the issue, the EM decides if the issue has enough context to invite the development team to discuss it during the next week. We aim to propose two issues by end of day every Friday, so people with any time zone can start their week by looking at the "to be discussed" issues.
-
-The `~configure::discussion-candidate` and the `~configure::discussion` labels are used to mark issues that are currently being prepared for discussion or are currently being discussed, respectively.
+Refinement in the Configure group happens by a continuous refining process, with a deeper focus on a few issues every week. These issues are being prepared for discussion in the week before with the active involvement of the PM, UX, and EM. Based only on the description of the issue, the EM decides if the issue has enough context to invite the development team to discuss it during the next week.
 
 ### Planning
 
@@ -195,9 +204,8 @@ This time will be used to:
 1. Ask questions
 1. Break issue into smaller parts
 1. Assess whether a single issue will have several iterations
-1. Create a first technical plan
+1. Create a first technical plan or invites one engineer to help create it
 1. Categorize the issues using these labels: ~"Backend", ~"Documentation", ~"Frontend", ~"UX"
-1. Add issue weight
 
 This Phase does not include time for complex technical proposals. They will be worked on in the "Development Phase" of the milestone.
 
@@ -207,13 +215,12 @@ This Phase does not include time for complex technical proposals. They will be w
 1. PM: Milestone planning issue gets created
   We utilize a planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/configure/general/-/issues/167)
 1. PM: Creates short video about milestone goals/plans
-1. PM: Orders the open issue board by priority
-1. PM: invites engineering to breakdown issues with candidate label on [Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/2395842) (in Open column)
+1. PM: Moves and order issues of interest into the `~"workflow::refinement"` list of the [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure) 
+1. PM or EM: invites engineering and UX to refine issues with `~"workflow::refinement"` label on [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure)
 1. EM: reviews issues
-1. EM: weight issues
-1. EM: break down issues by posting a rough technical plan on each issue that has a weight bigger than 2.
+1. Engineering: weight issues
+1. Engineering: break down issues by posting a rough technical plan on each issue that has a weight bigger than 2.
 1. EM: coordinate with FE & BE work.
-1. EM: self-organize sync calls to discuss issues in depth.
 1. EM: link related and blocked issues
 1. Engineering: communicate which issues are unlikely to ship during the current Milestone
 
@@ -228,13 +235,11 @@ This Phase does not include time for complex technical proposals. They will be w
 **Tasks**:
 1. PM: Orders the `ready for development` issues by priority (by the 8th)
 1. Engineering: Capacity planning for Milestone
-  Engineering: Update capacity section of planning issue
-1. Engineering: Sync review of `ready for development` issues
-  Engineering: Considering total Milestone weight or weight per available Engineer
-1. EM: adds the `~"Deliverable"` and `~"Stretch"` label to all relevant issues
+1. Engineering: Async review of `ready for development` issues considering total Milestone weight or weight per available Engineer
+1. EM: adds the `~"Deliverable"` label to all relevant issues
 
 **Definition of done**:
-1. List of `~"Deliverable"` and `~"Stretch"` issues with Milestone assigned (15th)
+1. List of issues with Milestone assigned (15th)
   Should match capacity
 
 ##### 3. Development Phase:
@@ -242,9 +247,10 @@ This Phase does not include time for complex technical proposals. They will be w
 - **Timeline**: 18th - 17th of Month N+1.
 - **Tasks**:
 1. PM or EM: reschedules `~"Deliverable"` issues if they will miss.
-1. Engineers: work on the `~"Deliverable"` and `~"Stretch"` issues.
+1. Engineers: work on the milestone issues with `~"Deliverable"` issues as a priority.
 1. Engineers: can pick issues that are `~"workflow::ready for development"` and unassigned then label them with `~"workflow::in dev"`.
     Issues get assigned once an engineer starts working on it
+1. Engineers: Properly assign `~"workflow::in-review"` and  `~"workflow::verification"` to MRs and Issues
 1. Engineers: communicate if `~"Deliverable"` is unlikely to ship during current Milestone
 1. Engineers: complete task, merge, verify its been deployed and working, then close issue
 
@@ -268,7 +274,7 @@ For each milestone, we take on one PR/MR that we want to ship in the provider, a
 
 ### Scheduling
 
-The issues scheduled for a milestone can be tracked at [the Configure development board](https://gitlab.com/groups/gitlab-org/-/boards/2327100?milestone_title=13.11&&label_name[]=group%3A%3Aconfigure).
+The issues scheduled for a milestone can be tracked at [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure).
 
 #### Feature development
 
@@ -339,7 +345,7 @@ Currently the apdex threshold has a cuttoff of 1 second. Several of our endpoint
 
 ## Async Issue Updates
 
-In order to optimize async collaboration we leverage issue updates to share progress completed on a specific issue or epic.
+In order to optimize async collaboration we recomend using issue updates to share progress completed on a specific issue or epic.
 Weekly updates on progress and status will be added to the issues as a comment. A weekly update may be skipped if there was no progress. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. A weekly async update should be added to epics, providing an overview of the progress across related issues.
 
 The status comment should include what percentage complete the work is, the confidence of the person that their estimate is correct and, notes on what was done and/or if review has started. It could be good to include whether this is a front end or back end update if there are multiple people working on it. Finally, for each MR associated, please include an entry for each.
