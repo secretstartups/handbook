@@ -651,7 +651,7 @@ helm list --namespace gitlab-data
 helm get values --namespace gitlab-data gitlab-runner
 helm get values --namespace gitlab-data gitlab-runner > values.yaml
 ```
-Update the runnerRegistrationToken in `values.yaml` found at https://gitlab.com/groups/gitlab-data/-/runner when you click 'Register Group Runner'
+Update the runnerRegistrationToken in `values.yaml` found at [gitlab.com/groups/gitlab-data/-/runners](https://gitlab.com/groups/gitlab-data/-/runners) when you click 'Register Group Runner'
 
 ```
 helm repo add gitlab https://charts.gitlab.io
