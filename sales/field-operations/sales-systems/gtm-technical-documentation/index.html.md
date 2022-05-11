@@ -428,7 +428,7 @@ Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePA
         - The population of the `Technical Account Manager` is currently handled automatically, OpportunityClass.maintainTamTeamLookup, as they are only to be stamped onto Opportunities when the Opportunity is a Growth Opportunity
      - If a split is needed for a Technical Account Manager the split needs to be created manually by an approved user
   - `Channel Manager` Special Use Cases
-     - When the corresponding lookup field on the Opportunity is populated a 100% split it creates. Because of the workflow of Channel Managers it is likely that a lot of these splits will end up being incorrectly updated to the Opportunity Owner instead of staying with the Channel Manager (See the general automation notes for more details). To work around this, when an opportunity moves from Open to Closed any Channel Manager splits are cleared and reinserted for the user that is in the Channel Manager lookup field at the time of close.
+     - More detail coming soon!
  
 **Split Validation**
   - `OpportunityClass.checkAndConfirmSplitPercentages`
@@ -524,15 +524,10 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 **Business Process this supports:** This automation maintains the correct Channel Manager on Opportunities. This is important for tracking which Channel Manager gets compensated on which Opportunity.
  
 **Overview:**
-  - Currently there are a handful of automations that maintain the Channel Manager on Opportunity records.
-     - When a Deal Registration is associated with an Opportunity the Channel Manager on the Deal registration is stamped onto the Opportunity. This also happens when creating the Opportunity from the Deal registration. This is handled through our managed package, Vartopia.
-     - When a Deal Registration has its Channel Manager updated, the new Channel Manager is stamped onto the Opportunity in the Channel Manager field. This is to accommodate for scenarios with Pub Sec Accounts. Instead of having two Channel accounts in SFDC have only one and update the channel manager on the Deal Registration when it is a Pub Sector Deal Registration.
-     - `This Class/Automation` When the Channel Manager on an account is updated. Find all open Opportunities where that Partner Account is the same as the account with the owner change and the Old Account Owner is stamped as the `Channel Manager` on the Opportunity and update the `Channel Manager` to the new Owner of the Partner Account.
- 
+  - Currently the process that stamps Channel Managers on on Opportunity records is being updated more details are coming soon
  
 **Logic Locations:**
-  - [AccountClass.maintainChannelManagerOpenOpps](###) - Link Pending Code Merge
-  - [AccountClassTest.maintainChannelManagerOpenOpps](###) - Link Pending Code Merge
+  - Coming soon!
  
  
 ## SA Team Stamping
