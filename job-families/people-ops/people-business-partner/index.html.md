@@ -15,11 +15,12 @@ The Associate People Business Partner is a [grade 5](/handbook/total-rewards/com
 
 * Forms effective relationships with the client groups and consults with line management, providing People guidance when appropriate. Typically supports front line managers through director-level; may support VP depending on organizational structure.
 * Analyzes trends and metrics in partnership with the People Ops group to develop solutions, programs, and opportunities for learning.
-* Manages and resolves basic employee relations issues. Escalates to more senior PBPs and/or Legal when needed.
+* May engage with Team Member Relations on basic employee relations issues to provide context, create a plan in conjunction with Team Member Relations, and keep managers apprised of the status as needed. 
 * Maintains knowledge of legal requirements related to day-to-day management of team members, reducing legal risks and ensuring regulatory compliance.
 * Works closely with management and team members to improve work relationships, build morale, and increase productivity and retention.
 * Partners with team members globally to ensure a vibrant and effective workplace.
 * Provides guidance and input on division restructures, workforce planning and succession planning.
+* Executes on company-wide Talent Programs within their client group, including Annual Talent Assessment and Compensation Reviews. 
 
 ### Requirements
 
@@ -44,11 +45,12 @@ The People Business Partner is a [grade 6](/handbook/total-rewards/compensation/
 
 * Forms effective relationships with the client groups and consults with line management, providing People guidance when appropriate. Typically supports front line managers through director-level; may support VP/EVP depending on organizational structure.
 * Analyzes trends and metrics in partnership with the People Ops group to develop solutions, programs, and opportunities for learning.
-* Manages and resolves employee relations issues. Conducts effective, thorough and objective investigations. Escalates to more senior PBPs and/or Legal when needed.
+* Partners with Team Member Relations to manage employee relations issues. May participate or inform plan for effective, thorough and objective investigations within their aligned departments. Analyzes and surfaces related trends within their client group.
 * Maintains knowledge of legal requirements related to day-to-day management of employees, reducing legal risks and ensuring regulatory compliance. Escalates cases as needed to more senior level PBPs; partners with the Legal department as needed/required.
 * Works closely with management and team members to improve work relationships, build morale, and increase productivity and retention.
 * Partners with colleagues globally to ensure a vibrant and effective workplace.
 * Provides guidance and input on business unit restructures, workforce planning and succession planning.
+* Executes on company-wide Talent Programs within their client group, including Annual Talent Assessment and Compensation Reviews.
 
 ### Requirements
 
@@ -71,14 +73,16 @@ The Senior People Business Partner is a [grade 7](/handbook/total-rewards/compen
 
 ### Responsibilities
 
-* Provides support and feedback to client groups, and consults with managers at all levels in areas of performance management, management training and coaching, organizational development, and employee relations. Typically supports 1 or more VPs across a function; may support a more senior executive based on organizational structure.
+* Provides support and feedback to client groups, and consults with managers at all levels in areas of talent strategy, including management training and coaching, team member engagement programs, organizational development, and employee relations. Typically supports 1 or more VPs across a function; may support a more senior executive based on organizational structure.
 * Identifies great talent, internally and externally, who will raise the bar across GitLab.  Mentors others both in the client group and in the People team.
 * Quickly identifies business needs; develops and presents solutions to senior leaders to help drive results in the organization.
 * Demonstrates ownership to develop and drive People programs and processes from start to finish that align with GitLab goals and values. Deliver meaningful results to the client group/s concise and timely.
-* Manages and resolves complex employee relations issues. Conducts effective, thorough and objective investigations. Maintains in-depth knowledge of legal requirements. Escalates and engages Director PBP, CPO or Legal as needed.
+* Leads client group to maintain a high bar for performance by reviewing trends in management of underperformance. Based on insights from Team Member Relations, keeps senior leadership apprised of performance management trends and hot spots. May be more hands on with TMR for complex or senior level performance issues or investigations.
 * Analyzes trends and metrics in partnership with the People team to develop solutions, programs and policies. Raises concerns/trends to the PBP team, CPO and Legal as needed.
 * Works closely with management and team members to improve work relationships, build morale, and increase productivity and retention.
 * Provides guidance and input on business unit restructures, workforce planning and succession planning to support the business strategy.
+* Participate in driving iterations related to company-wide Talent Programs based on feedback from client group. 
+* Executes on company-wide Talent Programs within their client group, including Annual Talent Assessment and Compensation Reviews.
 
 ### Requirements
 
@@ -106,7 +110,7 @@ This job may be an individual contributor or a manager of people, but the title 
 
 ### Responsibilities
 
-* Provides support and feedback to client groups, and consults with managers at all levels in areas of performance management, management training and coaching, organizational development, and employee relations. Typically supports multiple VPs across a function; likely supports a more senior executive based on organizational structure.
+* Provides support and feedback to client groups, and consults with managers at all levels in areas of talent strategy, management training and coaching, team member engagement programs, organizational development, and employee relations. Typically supports multiple VPs across a function; likely supports a more senior executive based on organizational structure.
 * Identifies great talent, internally and externally, who will raise the bar across GitLab. Mentors others both in the client group and in the People team.
 * Uses data to identify trends related to talent in the business and coupled with a deep understanding of business needs for their client group; develops and presents solutions to senior leaders to help drive results in the organization.
 * Develops and drives People programs and processes from start to finish that align with GitLab goals and values. Deliver meaningful results to the client group with ongoing improvements that take into account both the client group and broader GitLab impact. 
@@ -114,6 +118,8 @@ This job may be an individual contributor or a manager of people, but the title 
 * Analyzes trends and metrics in partnership with the People team to develop solutions, programs and policies. Raises concerns/trends to the PBP team, CPO and Legal as needed.
 * Partners with client group leadership team and relevant People groups to drive a talent strategy focused on engagement and retention of top talent. Works with Total Rewards and Talent and Engagement to ensure key trends and retention levers are addressed and used effectively.  
 * Provides guidance and input on business unit restructures, workforce planning and succession planning to support the business strategy.
+* Own specific iterations related to company-wide Talent Programs based on feedback from their client group and PBP team. 
+* Executes on company-wide Talent Programs within their lines of business, including Annual Talent Assessment and Compensation Reviews.
 
 
 ### Requirements
@@ -142,12 +148,15 @@ The Director People Business Partner is a [grade 10](/handbook/total-rewards/com
 * Forms effective relationships with the client groups and consults with executive level management, providing People guidance when appropriate. Typically supports at least one C-level executive, as well as multiple VPs.
 * Mentors, coaches and provides feedback to managers at all levels; also mentors other People team members.
 * Identifies great talent, internally and externally, who will raise the bar on the team.
-* Analyzes trends and metrics in partnership with the People Operations group to develop solutions, programs, and opportunities for learning.
-* Manages and resolves complex and escalated employee relations issues. Conducts effective, thorough and objective investigations.
+* Analyzes trends and metrics in partnership with the People Operations and DIB groups to develop solutions, programs, and opportunities for growth.
+* Leads client group to maintain a high bar for performance by reviewing trends in management of underperformance. Based on insights from Team Member Relations, keeps senior leadership apprised of performance management trends and hot spots. May be more hands on with TMR for complex or senior level performance issues or investigations.
 * Maintains in-depth knowledge of legal requirements related to day-to-day management of team members, reducing legal risks and ensuring regulatory compliance. Partners with the legal department as needed.
 * Works closely with management and team members globally to improve work relationships, build morale, and increase productivity and retention.
 * Provides guidance and input on business unit restructures, workforce planning and succession planning to support the business strategy.
 * Identifies learning needs for business units and individual executive coaching needs. Participates in evaluation and monitoring of learning solutions to ensure success. Follows up to ensure learning and development objectives are met.
+* Lead iterations to company-wide Talent Programs based on feedback from aligned departments, PBP team, L&D, and other stakeholders. 
+* Executes on company-wide Talent Programs within their lines of business, including Annual Talent Assessment and Compensation Reviews.
+* Support e-group level talent discussions in partnership with CPO
 
 ### Requirements
 
