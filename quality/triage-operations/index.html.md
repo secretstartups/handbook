@@ -335,7 +335,7 @@ Bugs which have a severity 1 or severity 2 label without a priority label will b
 
 When milestone is present on an issue but there is not an assignee. The milestone being present indicates the product team has reviewed and scheduled the issue. This encourages open source contributions for planned features.
 
-Issues with the `~workflow::blocked`, `~workflow::design`, `~workflow::planning breakdown`, `~workflow::refinement` or `~workflow::verification` labels are excluded from this rule.
+Issues with the `~workflow::blocked`, `~workflow::refinement`, `~workflow::validation backlog`, `~workflow::problem validation`, `~workflow::solution validation`, `~workflow::planning breakdown`, `~workflow::design`, `~workflow::verification`, `~fuzzing::api`, `~fuzzing::coverage` labels are excluded from this rule.
 
 * Automation Condition: Issues with a milestone but no assignee.
 * Automation Action:
