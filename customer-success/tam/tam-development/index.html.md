@@ -15,9 +15,10 @@ As a Technical Account Manager, it is essential to understand what resources are
 
 ## Key handbook sections, roadmaps and L&D platforms for enablement:
 1. [TAM Planned Enablement Roadmap for H1 FY23](https://docs.google.com/presentation/d/1HCoPkdjucC7nUaJl5eNzj3VNCWFdQ3nWvUNiMv2tcDU/edit#slide=id.g1117eedd645_0_172)
+1. [TAM Enablement Corner](https://docs.google.com/document/d/1xyaxc37iCDtfeabo2NXCRV31pNOdvieXoVDxJw_aXoM/edit) (updated Quarterly with Key Dates and TAM required actions)
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfxhniPy9BWx7I4e9VZrZmWlYLAijmVP5whTGYbCOBCVE5aQk9Bh9sZcI3zlN8pCmQmTNRhpFLNxSq/embed?start=false&loop=false&delayms=3000&slide=id.g1117eedd645_0_172" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfxhniPy9BWx7I4e9VZrZmWlYLAijmVP5whTGYbCOBCVE5aQk9Bh9sZcI3zlN8pCmQmTNRhpFLNxSq/embed?start=false&loop=false&delayms=3000&slide=id.g1261b75bbf6_1_2" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 1. [Customer Success Education & Enablement (All-CS)](/handbook/customer-success/education-enablement/)
