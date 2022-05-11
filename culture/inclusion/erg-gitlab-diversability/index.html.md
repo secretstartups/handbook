@@ -25,7 +25,7 @@ First, we work with teams to intentionally consider how changes and experiences 
 Also, we act as a support group. Whether it's async in Slack or live during a meeting or panel conversation, we'll present members of our community, both from inside and outside of GitLab, to transparently discuss their experiences. Not just how they cope, but how they thrive.
 
 ## Leads
-* [Melody Maradiaga](https://about.gitlab.com/company/team/#mmaradiaga)
+* [Kaitlyn Chappell](https://about.gitlab.com/company/team/#kchappell)
 * Co-Lead [Wil Spillane](https://about.gitlab.com/company/team/#wspillane)
 
 ## Executive Sponsor
