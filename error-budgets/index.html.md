@@ -250,7 +250,7 @@ Improvement` and the `group::` label so they can be tracked in reports.
 | Product Management | [Maintaining the Spend of the Error Budget](https://app.periscopedata.com/app/gitlab/891029/Error-Budgets-Overview) | 20 minutes over 28 days (equivalent to 99.95% availability) | Complete - In Sisense |
 | Infrastructure | [Setting the Error Budget Minutes and Availability Target](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability) | 99.95% (20 minutes over 28 days Error Budget) | Complete - In Grafana |
 
-* For groups with engineering allocations, the responsibility to maintain the spend of error budget is with the development team instead of the product management team.
+* For groups with [engineering allocations](https://about.gitlab.com/handbook/engineering/#engineering-allocation), the responsibility to maintain the spend of error budget is with the development team instead of the product management team.
 
 # Current State and Future Intent
 
