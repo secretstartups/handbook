@@ -40,6 +40,12 @@ A merge request is considered partially triaged when it has a:
 
 The Partial triage is completed by [Merge Request Coaches](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html) via the [newly created Community contribution merge requests](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage) triage report.
 
+For MRs related to issues, the Partial Triage can be completed by using the following quick action and confirming proper metadata:
+
+```shell
+/copy_metadata <issue link>
+```
+
 ### Complete Triage
 
 The Complete Triage is divided into 3 subcategories depending on the community merge request state.
