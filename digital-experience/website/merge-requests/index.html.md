@@ -61,7 +61,7 @@ In our continuous integration environment, people with merge permissions are the
 * [Diversity, Inclusion, and Belonging checklist](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/#diversity-inclusion-and-belonging)
 * [Marketing writing style guide](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
 * [Marketing naming conventions](/handbook/marketing/digital-experience/website/#naming-conventions).
-* [Marketing tone of voice](/handbook/marketing/corporate-marketing/#tone-of-voice-1)
+* [Marketing tone of voice](https://design.gitlab.com/brand/overview/#tone-of-voice)
 * [Brand Guidelines](/handbook/marketing/corporate-marketing/brand-activation/brand-standards/).
 
 ## Review if relevant
@@ -198,7 +198,7 @@ We use javascript extensively throughout the website. Before updating a library,
 * [GitLab Engineering's code review handbook](/handbook/engineering/workflow/code-review/).
 * [Marketing writing style guide](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
 * [Marketing naming conventions](/handbook/marketing/digital-experience/website/#naming-conventions).
-* [Marketing tone of voice](/handbook/marketing/corporate-marketing/#tone-of-voice-1)
+* [Marketing tone of voice](https://design.gitlab.com/brand/overview/#tone-of-voice)
 * [Brand Guidelines](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines).
 
 ### Gotchas within the GitLab interface
