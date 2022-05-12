@@ -158,6 +158,9 @@ File an issue to work with us: [in our task project](https://gitlab.com/gitlab-c
 
 ## Project Management
 
+* Our [team project](https://gitlab.com/gitlab-com/quality/contributor-success) is our single source of truth for all tasks & backlog.
+* Epics that contain cross-functional work across multiple departments can be created at the `gitlab-com` [level](https://gitlab.com/groups/gitlab-com/-/epics?state=opened&page=1&sort=start_date_desc).
+
 This team has the following immediate work items planned.
 
 * [Contribution Efficiency Improvements Epic](https://gitlab.com/groups/gitlab-com/-/epics/1619)
