@@ -22,6 +22,9 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 - [Youtube channel with significant amounts of information, interviews, and personal experiences relating to ADHD](https://www.youtube.com/c/HowtoADHD)
 
 - [The Autistic Life Resources Store](https://www.theautistic.life/shop?Collection=Worksheets)
+- Join the [#neurodiversity](https://gitlab.slack.com/archives/CQRDJ0TLN) Slack Channel for support & community with other GitLab Team Members or to learn more about the experiences of others
+- Join the [#bodydouble_friends](https://gitlab.slack.com/archives/C03EX45QPGB) Slack Channel to find others to participate in a ["body-doubling"](https://healthyadhd.com/body-doubling-for-adhd/) virtual work session that can help you begin projects or tasks with the support of another person as a "virtual-anchor" and accountability buddy. Use this channel to request a body double session with another GitLab Team Member which aligns with our value of [collaboration](https://about.gitlab.com/handbook/values/#collaboration) and [diversity, inclusion, and belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion). 
+- Join the [#neurodiverse-coffee-chat](https://gitlab.slack.com/archives/C01LPT0LGVC) Slack Channel to get paired for a coffee chat with others in the Neurodiverse GitLab Community
 
 ## Do you want to disclose or not?
  
