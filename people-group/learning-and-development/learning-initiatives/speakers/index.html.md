@@ -20,6 +20,15 @@ The L&D team hosts quarterly Learning Speaker Series open to all team members. T
 
 ### Past Learning Speaker Series calls
 
+### FY23 Q2 Series: Collaborating with Compassion
+
+| Date | Session Title + Link |
+| ----- | ----- |
+| 2022-05-11 | [Mental Health Awareness Month Discussion with Britt Turpack](https://youtu.be/K0JA0t7xtrc) + [8 Minute Meditation](https://youtu.be/5QOAUbto2rg) |
+| ----- | ----- |
+| ----- | ----- |
+| ----- | ----- |
+
 ### FY23 Q1 Series: All-Remote Communication
 
 This series included a mix of 5 internal and external speakers. The session recordings and topics can be found below. You can also find all recordings collected together on this [GitLab Unfiltered YouTube Channel Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqIkyb73z690h7l2nULHOnh).
