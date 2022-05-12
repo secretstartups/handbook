@@ -16,7 +16,7 @@ Litmus is email marketing software used primarily by marketing campaign managers
 
 ## Access
 
-Access is limited based on the current pricing plan. Only 5 `Admin` and `Full` users provisioned to the account at a time. `Read-Only` users are unlimited.
+Access is limited based on the current pricing plan. Only 3 `Admin` and `Full` users provisioned to the account at a time. `Read-Only` users are unlimited.
 
 ## Roles
 

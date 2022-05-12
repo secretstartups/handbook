@@ -172,7 +172,7 @@ In order to assure proper attribution of `MQL Scoring` and `Last Interesting Mom
 1. Once the Marketo --> Salesforce sync has completed, use the [Upload checking template - do not erase](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004tTvd) lead view to check data has been applied correctly, scoring has occurred and leads have routed. Note that routing will only occur if the adequate `MQL Score` has been met. Plug the `campaign tag`, or Marketo program name, into the lead view's `campaign name` field to view leads as a list
 1. Ensure the number of leads present in the Salesforce campaign matches the total number of leads from the original spreadsheet
 1. Announce the upload in either the `event_list_upload` or `pub-sector-isr` Slack channels, depending on the campaign's intended `Sub-Region`. Include `Region` labels for private sector posts 
-1. After verified completion of all tasks, remove ~"List Upload: Ready" label and notify in the issue of upload completion. Add ~"Lead Data::Active" label. Adjust the "MktgOps" label and apply a milestone
+1. After verified completion of all tasks, remove ~"List Upload: Ready" label and notify in the issue of upload completion. Adjust the "MktgOps" label and apply a milestone
 1. Close list upload issue 
 
 #### Operational uploads
@@ -361,10 +361,6 @@ Please **do not** make any changes to the programs, campaigns or related workflo
 1. In left side menu, navigate to `Tags` and select the appropriate tag for that list
 1. Copy the **Outreach** URL and paste into the List Import issue.  
 1. Repeat steps above for each list in the issue. -->
-
-### About Long-term Lead Data Storage
-
-Included on the `event-list-upload` issue template is the `Lead Data: Active` scoped label. This label will be used as of July 2020 to track leads' personal data that we have stored in G Drive, likely from the aforementioned list imports. After a soon-to-be-determined amount of time, MktgOps will be required to find the lead data and remove it from G Drive. Once the data has been removed from G Drive, the scoped label will be changed to the `Lead Data: Inactive` label to signal that lead data now lives in Salesforce only. During the transition period, MktgOps will need to proactively add the `Lead Data: Active` label to list import issues where it does not appear.
 
 ### Trusted vs Non-Trusted Imports
 In Marketo there is a an option to choose trusted or non-trusted sources. Non-trusted sources are for list uploads that we are not confident in the data points given to us. For example, if we are loading a list with inferred country data from IP, we do not want it to overwrite our current location data that is more accurate. Blocking updates allows for a field to be updated if blank, but will not overwrite a field that already has a value.

@@ -116,13 +116,14 @@ If an emergency communication needs to be send out, Marketing Ops will need to a
 
 ### Issues
 
-The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue or for small checks and questions, use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to your business partner to see if there is already a related issue that you can add your comments to. If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
+The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue or for small checks and questions, use the `~MktgOps::0 - To Be Triaged` label anywhere within the GitLab repo. 
+
+ If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
 
 With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies. 
 
 Please do not reopen issues that have been closed in a previous milestone. If you find that you have additional questions about a closed issue, comment in the issue and ping the marketing ops DRI who worked the issue. The DRI within our team will determine whether an issue needs to be reopened and pulled into a current milestone. 
 
-. 
 
 ### OKRs
 To track progress on and provide visibility to team OKRs each quarter, Marketing Operations creates a [parent epic](https://gitlab.com/groups/gitlab-com/-/epics/1597) to organize our team-wide work. We use [OKR Labels](/handbook/marketing/marketing-operations/#labeling) to help organize issues.
@@ -147,6 +148,7 @@ We use labels for four purposes:
 Categories
 </summary>
 
+- `MktgOps/Systems-Request`: Used on issues that require Sales Systems support
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
 - `Marketo`, `Bizible`, `Demandbase`, `Drift`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`,  `ZoomInfo`, `Smartling`, `OneTrust`, `On24`: used to highlight one of our tech stack tools
@@ -273,7 +275,7 @@ Integrated with Salesforce
 Other tools directly used by Marketing and maintained by Marketing Operations
 </summary>
 
-- [Bizzabo](/handbook/marketing/marketing-operations/bizzabo)
+
 - [Backblaze](/handbook/marketing/marketing-operations/backblaze)
 - Disqus
 - Figma
@@ -282,7 +284,6 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - Google Analytics
 - Google Search Console
 - Google Tag Manager
-- Hotjar
 - [iconik](/handbook/marketing/marketing-operations/iconik)
 - LaunchDarkly
 - [LogRocket](/handbook/marketing/marketing-operations/logrocket)

@@ -178,6 +178,7 @@ This is for an activity that our partner is executing utilizing MDF Funds. We tr
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
 | Member | default starting position for all records |  |
+| Sales Nominated | status for when leads have been sales nominated for the program |  |
 | Responded | Attended event or campaign |Yes|
 
 #### Self-Service Virtual Event

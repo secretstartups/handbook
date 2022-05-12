@@ -409,6 +409,8 @@ The Field Marketing and Marketing Campaigns teams use targeted email lists as a 
 #### List Exports
 If you need a list export, please fill out an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request). 
 
+A few users have permissions to export, they should follow proper data management procedures and avoid downloading PII for data analysis.
+
 
 
 ## Marketo Sales Insight
