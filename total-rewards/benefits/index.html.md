@@ -68,6 +68,6 @@ We do not have specific budgets around benefit costs, but instead look to increa
 
 ## Knowledge Assessment
 
-You can test your knowledge on our benefits by taking the [GitLab Benefits Knowledge Assessment](https://docs.google.com/forms/d/e/1FAIpQLSekATud1Pzq6tHfX8bqXXu9kvMwLpUxOfoHWhD-GmSsSfEVeQ/viewform) quiz.
+You can test your knowledge on our benefits by taking the [GitLab Benefits Knowledge Assessment](https://docs.google.com/forms/d/e/1FAIpQLSekATud1Pzq6tHfX8bqXXu9kvMwLpUxOfoHWhD-GmSsSfEVeQ/viewform) quiz. For [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#job-grades) 10+ please select `Executive` for the `My Role Is` question on the form.
 
 If you have questions about benefits or the content in the Knowledge Assessment, please reach out to the [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group) team. If the quiz is not working or you have not received your certificate after passing the Knowledge Assessment, please reach out to the [Learning & Development](/handbook/people-group/learning-and-development/#how-to-communicate-with-us) team.
