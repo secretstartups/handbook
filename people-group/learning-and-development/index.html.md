@@ -245,7 +245,7 @@ If you are developing training, add learning objectives to the beginning of the 
 
 **Steps to creating learning objectives:** 
 1. Identify the level of knowledge necessary to achieve the aim of the training. Use [Bloom's Taxonomy](https://tips.uark.edu/using-blooms-taxonomy/) to assist with writing practical learning objectives. 
-2. Select an [action verb](https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf). 
+2. Select an [action verb](https://www.bumc.bu.edu/cme/files/2012/07/13-Tips-for-writing-objectives.doc). 
 3. Create your very own objective
 4. Check your objective. Make sure it includes these four pieces: audience, behavior, condition, and degree of mastery
 5. Repeat these steps for each objective
