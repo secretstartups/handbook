@@ -14,7 +14,7 @@ description: >-
 
 GitLab's Marketing Site (about.gitlab.com) is led by the [Digital Experience Team](/handbook/marketing/digital-experience) and anyone can contribute.
 
-The [DRI](/handbook/people-group/directly-responsible-individuals/) for the the Marketing Site is [Michael Preuss](https://gitlab.com/mpreuss22), and internal GitLab team members can drop questions in Slack at #digital-experience-team
+The [DRI](/handbook/people-group/directly-responsible-individuals/) for the Marketing Site is [Michael Preuss](https://gitlab.com/mpreuss22), and internal GitLab team members can drop questions in Slack at #digital-experience-team
 
 This documentation refers to GitLab Website pages that live in the [`www-gitlab-com` repository](https://gitlab.com/gitlab-com/www-gitlab-com). The Digital Experience team is migrating GitLab's Marketing Site to the <a href="/handbook/marketing/digital-experience/buyer-experience-repository/">Buyer Experience Repository</a></li>.
 

@@ -95,7 +95,7 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
 
 ## Scope
 
-GitLab's digital marketing platform, or simply the “Marketing Site" refers to `https://about.gitlab.com` with the exception of the the [handbook](/handbook/).
+GitLab's digital marketing platform, or simply the “Marketing Site" refers to `https://about.gitlab.com` with the exception of the [handbook](/handbook/).
 
 # OKRs
 
