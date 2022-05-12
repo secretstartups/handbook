@@ -95,7 +95,7 @@ Note: "Merging code by the 17th [does not guarantee](https://about.gitlab.com/ha
 - **Release Post Manager** merges recurring MRs for usability, performance improvements and bug fixes
 
 - **TW Reviewers** merge deprecation MRs
-  
+
 Note: MRs added after the 17th should target the `release-x-y` branch, not `master`
 {: .note}
 
@@ -1810,7 +1810,37 @@ If you have trouble running the rake task, you can check the following troublesh
 - Update your gems by running `bundle install`.
 - Your bundler version could be out of date, so you can try running `gem install bundler:2.1.4`.
 
----
+### Resolve merge conflicts in deprecations.md and removals.md
+
+If you rebase the branch of a deprecations or removals MR, there might be multiple merge conflicts in the `removals.md`. Do not resolve individual
+merge conflicts from your IDE. Instead, use the removals rake task to update the file and resolve the merge conflicts.
+
+To resolve merge conflicts:
+
+1. In a branch of a checkout of the `gitlab-org/gitlab` project, run the deprecations or removals Rake task:
+
+   ```sh
+   # For deprecations
+   bin/rake gitlab:docs:compile_deprecations
+
+   # For removals
+   bin/rake gitlab:docs:compile_removals
+   ```
+
+1. Stage your changes:
+
+  ```sh
+  git add .
+   ```
+
+1. Continue the rebase:
+
+  ```sh
+  git rebase --continue
+   ```
+
+If you get merge conflicts after you continue the rebase, it's possible that `deprecations.md` or `removals.md` is still out of date with
+the latest changes in the `yml`. If this occurs, complete the steps again until you clear the merge conflict.
 
 ### Release post merge request template
 
