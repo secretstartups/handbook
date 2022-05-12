@@ -115,7 +115,7 @@ Issue weight is an estimate of how much time is required to complete the tasks i
 
 - When an issue is opened for the Enterprise App team with the appropriate [labels](/handbook/business-technology/how-we-work/#labels), a team member must be assigned.
 - The assignee works with all parties involved in the issue to recommend a weight.
-- After the issue is closed, the assignee who helped coordinating the the work can update the weight to reflect the actual effort if different from the original weight.
+- After the issue is closed, the assignee who helped coordinate the work can update the weight to reflect the actual effort if different from the original weight.
     They should provide a reason and mention it in the Enterprise Applications Sync or in the [Enterprise Applications wiki](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/enterprise-applications-sync/-/wikis/Enterprise-Applications-weekly-sync) to help us improve our weighting accuracy going forward.
 
 **Guidelines**

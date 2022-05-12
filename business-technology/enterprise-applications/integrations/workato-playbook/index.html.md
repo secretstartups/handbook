@@ -18,7 +18,7 @@ Please join [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) 
 * Hear about upcoming integrations programs
 
 ### How to request access?
-To get started with Workato, please create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and assign it to @dparker or @karuna16. In the the AR, please include the following details:
+To get started with Workato, please create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and assign it to @dparker or @karuna16. In the AR, please include the following details:
 
 - [ ] your orgnizational team
 - [ ] Workato environment - dev, test or prod.

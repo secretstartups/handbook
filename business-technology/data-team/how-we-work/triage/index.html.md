@@ -116,7 +116,7 @@ Service degradation or outages in data can be seen as:
 - Data is outdated
 - Data leakage
  
-This means the the following events (not extensive), likely are incidents:
+This means the following events (not extensive) are likely to be incidents:
 - DBT model failed (and downstream models are skipped)
 - DBT test failure
 - DBT source freshness failure
