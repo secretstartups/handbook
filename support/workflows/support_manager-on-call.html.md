@@ -69,6 +69,7 @@ Some steps of escalation management are handled by bots and auto-responders. The
 1. Assess the ticket, and the business case behind the escalation (triage).
    - Questions to the escalation initiator can be put in Slack (synchronous) or in the escalation Issue (asynchronous).
 1. If you need input or help from engineers, initiate a new thread in `#support_gitlab-com`, `#support_self-managed` or `#support_licensing-subscription`. Then return to the thread in `#support_escalations` and comment that all **technical** ticket-related discussion is happening in the ticket (or in the new thread). This helps ensure all technical discussion stays in one channel/thread.
+   - When seeking an engineer to act as the DRI or otherwise move the ticket forward, it is best to identify a Support Engineer who is not on-call or already working on an escalated ticket. This helps to ensure that the engineer who assists with the escalation has enough bandwidth to prioritize the escalated ticket. 
 1. [Resolve the escalation thread](#resolving-an-escalation).
 
 ### Rejecting an escalation request
