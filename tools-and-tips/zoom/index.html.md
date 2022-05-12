@@ -542,3 +542,18 @@ To make it easy to set up Zoom sessions for your calendar events, enable the [Go
 This adds a dropdown option right inside of Google Calendar to add Zoom to the event.
 When users view the event, they will see specially formatted Zoom details that includes the link to the meeting, and a clickable phone number if they are dialing in.
 The add-on will also follow your preferences in your Zoom account for [using your personal link or a unique link](#using-your-personal-link-versus-a-uniquerandom-link).
+
+### Create a Persistent Zoom Room
+
+If you find yourself wanting to have a persistent Zoom "Room" for shared use by
+anybody on your team at any time, do this:
+
+1. Login to the Zoom website
+1. Go to the Meetings section
+1. Click "Schedule a Meeting"
+   1. Enter the desired topic (title)
+   1. Click "Recurring meeting"
+   1. Under "Recurrence", select "No Fixed Time"
+   1. In the options area, be sure to select "Allow participants to join anytime"
+   1. Click "Save"
+1. Share the link to the room with your intended users
