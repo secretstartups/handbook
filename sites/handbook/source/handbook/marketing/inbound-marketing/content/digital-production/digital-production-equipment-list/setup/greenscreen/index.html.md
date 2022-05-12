@@ -75,7 +75,7 @@ _A capture card that allows you to connect your camera via HDMI to your computer
       
 ##### What To Look For 
 - SIDE PANELS: Soft, evenly distributed light on the green screen, with no significant difference in brightness over the portion that will be viewable on camera. 
-- FRONT PANEL: Even light on your subject without casting a shadow behind onto the green screen (keeping the the light raised high will help). Diffusion is highly recommended, or the light could be directed at the ceiling without diffusion. 
+- FRONT PANEL: Even light on your subject without casting a shadow behind onto the green screen (keeping the light raised high will help). Diffusion is highly recommended, or the light could be directed at the ceiling without diffusion. 
 
 
 --------
