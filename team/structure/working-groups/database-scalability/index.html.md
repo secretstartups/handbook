@@ -44,13 +44,22 @@ canonical_path: "/company/team/structure/working-groups/database-scalability/"
 
 ### Exit Criteria
 
-The charter of this working group is to produce a set of blueprints, design and initial implementation for scaling the database backend storage.
+The charter of this working group is to produce a set of blueprints, design and initial implementation for scaling the database backend storage. These exit criteria will set us on a path to achieve the following high-level goals:
 
 * Accomodate 10M daily-active users (DAU) on GitLab.com
 * Do not allow a problem with any given data store to affect all users
 * Minimize or eliminate complexity for our self-managed use-case
 
 These entail access, separation, synchronization, and lifecycle management considerations for various use-cases (see [Scaling patterns](#scaling-patterns) below).
+
+| #  | Start Date | Completed Date | Criteria |
+| -- | ------     | ------         | ------   |
+| 1  | 2021-03-25 | 2021-06-02     | Blueprints for database scaling patterns ([read-mostly](https://gitlab.com/gitlab-org/gitlab/-/issues/326037), [time-decay](https://gitlab.com/gitlab-org/gitlab/-/issues/326035), [sharding](https://gitlab.com/gitlab-org/gitlab/-/issues/326222))|
+| 2  | 2021-04-21 | 2021-06-03     | [Horizontal sharding evaluation and proof of concept](https://gitlab.com/groups/gitlab-org/-/epics/5838) |
+| 3  | 2021-04-26 | 2021-06-10     | [Decomposition (vertical sharding) evaluation and proof of concept](https://gitlab.com/groups/gitlab-org/-/epics/5883) |
+| 4  | 2021-06-11 |                | [Rollout decomposed CI database on gitlab.com](https://gitlab.com/groups/gitlab-org/-/epics/6168) |
+| 5  |            |                | Working group closing tasks, communications, cleanup |
+
 
 ### Overview
 
