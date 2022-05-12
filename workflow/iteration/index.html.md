@@ -36,7 +36,7 @@ Developers sometimes think of Horizontal slicing as the only option to create sm
 
 ### Vertical slicing
 
-1. When doing this you should ensure the the overall merge request size will remain within acceptable review range.
+1. When doing this you should ensure the overall merge request size will remain within acceptable review range.
 1. Works well when each layer of the stack is fairly dependent on another and seeing them together will help reviewers.
 1. Works well when each part is succinct and rely on one another.
 1. Avoid if each layer of the stack will require complex change that spans over multiple merge requests as it can get hard to follow. If this is the case, you should still try to break down the [MVC](/handbook/product/product-processes/#crafting-an-mvc) further, but if that is not feasible then horizontal slicing may be a better approach.
