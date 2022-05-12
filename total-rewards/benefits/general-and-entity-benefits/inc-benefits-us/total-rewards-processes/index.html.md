@@ -21,7 +21,7 @@ description: "Total Rewards Processes & Audits for US benefits."
 DRI: Automated by PlanSource
 
 1. Employee elects Voluntary Life & Ad&D plans in PlanSource.
-1. If required, PlanSource routes the employee to the Cigna website to fill out the the Evidence of Insurance directly.
+1. If required, PlanSource routes the employee to the Cigna website to fill out the Evidence of Insurance directly.
 1. The Employee fills out the Evidence of Insurability and completes enrollment. 
 1. Cigna/NY York Life rejects/approves the request and automatacally updates the election amount on PlanSource. 
 
