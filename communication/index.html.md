@@ -1195,7 +1195,7 @@ Simple Language is important both when we're speaking to other team members and 
 
 Be sure to use Simple Language in written communications as well.
 Our handbook, website, docs, marketing materials, and candidate or customer emails should be clear, concise, and effective.
-Corporate marketing maintains guidelines on [GitLab's tone of voice](/handbook/marketing/corporate-marketing/#tone-of-voice-1).
+Corporate marketing maintains guidelines on [GitLab's tone of voice](https://design.gitlab.com/brand/overview#tone-of-voice).
 
 | Instead of...                       | Try...                                        |
 | ----------------------------------- | --------------------------------------------- |
