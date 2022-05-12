@@ -20,7 +20,7 @@ This part of the handbook is for the blog editorial team. If this isn't you, you
 - [Blog handbook](/handbook/marketing/blog/)
 - [GitLab Unfiltered blog handbook](/handbook/marketing/blog/unfiltered/)
 - [Brand personality](/handbook/marketing/corporate-marketing/#brand-personality)
-and [tone of voice guidelines](/handbook/marketing/corporate-marketing/#tone-of-voice)
+and [tone of voice guidelines](https://design.gitlab.com/brand/overview/#tone-of-voice)
 
 ## Goal: Grow our audience, engage readers, and convert readers into subscribers
 
@@ -548,7 +548,7 @@ may use the acronym or initialism instead.
 > source contributions to other projects.
 
 Below are some common acronyms and initialisms we use which don't need to be
-defined first (but use sparingly, see [Tone of voice](/handbook/marketing/corporate-marketing/#tone-of-voice) above):
+defined first (but use sparingly, see [Tone of Voice](https://design.gitlab.com/brand/overview/#tone-of-voice)):
 
 - AFAIK - as far as I know
 - ICYMI - in case you missed it (for social only)
@@ -699,7 +699,7 @@ The exception to that would be when quoting from an event that was obviously in 
 
 #### Referring to interviewees
 
-For blog posts, prefer referring to interviewees by their first names as this is less formal and more in keeping with our [tone of voice](/handbook/marketing/corporate-marketing/#tone-of-voice).
+For blog posts, prefer referring to interviewees by their first names as this is less formal and more in keeping with our [tone of voice](https://design.gitlab.com/brand/overview/#tone-of-voice).
 
 ### Voice
 
