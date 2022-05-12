@@ -200,7 +200,7 @@ Exceptional community members may be able to participate, as well.
 | 2022-10-24 | 2022-10-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 
-If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
+If you have questions regarding the planned rotation schedule, please ping the [Chief of Staff to the CEO](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/). The CoS to the CEO to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
 ## Preparing for the Program
 
@@ -215,7 +215,7 @@ If you have questions regarding the planned rotation schedule, please ping the [
 
 ### What to wear
 
-You **do not need to dress formally**; business casual clothes are appropriate. For example, Sid wears a button-up with jeans most days. GitLab shirts are acceptable when there aren't any external meetings. Review Sid's calendar to check if there are formal occasions - this may require different clothing. If unsure, please ask the Executive Business Administrator (EBA) in the `#ceo-shadow` Slack channel
+You **do not need to dress formally**; business casual clothes are appropriate. For example, Sid wears a button-up with jeans most days. GitLab shirts are acceptable when there aren't any external meetings. Review Sid's calendar to check if there are formal occasions - this may require different clothing. If unsure, please ask the CoS to the CEO in the `#ceo-shadow` Slack channel
 Make sure to bring comfortable shoes with you to Mission Control any time there are meetings in the city. Wear whatever you are comfortable in, keeping in mind that Sid prefers to walk, even if his calendar says Uber.
 
 ### Pre-Program Tasks
