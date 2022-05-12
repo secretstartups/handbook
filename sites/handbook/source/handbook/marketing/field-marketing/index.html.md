@@ -126,8 +126,8 @@ Find out more on the social media page[here](/handbook/marketing/corporate-marke
 
 ## Digital Tactics
 
-- To run plays where we are targeting a specific geography or where we would like to propose content syndication, we work through our Digital Marketing Programs team. Please create an issue utilizing DMPs [Paid Digital Request Issue Template](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/new?issuable_template=paid-digital-request) if you'd like them to do work for you.
-- To run plays where we are targeting a specific list of accounts, we work with our ABM team utilizing [this issue template](https://gitlab.com/gitlab-com/marketing/account-based-marketing/-/blob/master/.gitlab/issue_templates/Demandbase_Campaign_Request_Template.md).
+- To run plays where we are targeting a specific geography or where we would like to propose content syndication, we work through our Digital Marketing Programs team. Please create an issue utilizing DMPs [Paid Digital Request Issue Template](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) if you'd like them to do work for you.
+- To run plays where we are targeting a specific list of accounts, we utilize [Demandbase](/handbook/marketing/account-based-marketing/demandbase/).
 
 ### Working with PMG
 
@@ -138,16 +138,7 @@ Please ensure you are using our UTM tracker (look up `Google Analytics Campaign 
 
 ## Individual Tactics
 
-Remember, an account-centric micro-campaign consists of at least 2 different account-centric tactics. If you are planning an individual tactic (account-centric or not), follow the below steps. Refer to the information provided in [Steps for the Creation and Organization of Micro-Campaign Epics & Issues](/handbook/marketing/field-marketing/#steps-for-the-creation-and-organization-of-micro-campaign-epics--issues), for _how_ to create the issues & epics if needed.
-
-1. Open tactic issue (see [here](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status) for issue links)
-1. Open tactic epic (see [here](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status) for epic code)
-1. Create relevant sub-issues (from links in the epic), assign DRIs and due dates
-
-Reminder for what needs to be included before moving from PLAN to WIP:
-
-- Agreement on SLAs and scope between other teams involved in selected tactics - [SLA workback doc](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280)
-- Completion of all fields in the `Event Details` and `FMC Checklist` sections of the issue, as well as completed line item in Allocadia
+Remember, an account-centric micro-campaign consists of at least 2 different account-centric tactics. If you are planning an individual tactic, follow the [plan to WIP process](/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip). Refer to the information provided in [Steps for the Creation and Organization of Micro-Campaign Epics & Issues](/handbook/marketing/field-marketing/#steps-for-the-creation-and-organization-of-micro-campaign-epics--issues), for _how_ to create the issues & epics if needed.
 
 ### Examples of Individual Tactics
 
@@ -199,6 +190,12 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Executive_Roundtable)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#executive-roundtable)
 
+## Hands-on Workshop (In-Person, Virtual or Hybrid)
+* [Tactic Details](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/)
+* [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#workshop)
+* [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Virtual_Workshop_Template)
+* [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#virtual-hands-on-workshops)
+
 ## Owned Event (In-Person, Virtual or Hybrid)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#owned-event)
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Owned_Event_Template)
@@ -228,12 +225,6 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#vendor-arranged-meetings)
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Vendor_Arranged_Meetings)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#vendor-arranged-meetings)
-
-## Virtual Hands-on Workshop
-* [Tactic Details](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/)
-* [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#workshop)
-* [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Virtual_Workshop_Template)
-* [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#virtual-hands-on-workshops)
 
 ## Webcast
 * [Tactic Details](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/)
@@ -405,7 +396,7 @@ When an event is rescheduled or cancelled, the FMC is responsible for updating t
 
 ## Rescheduling or Cancelling a Self-Service Event
 
-Please see process [here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#rescheduling-self-service-virtual-events-with-or-without-promotion) for rescheduling and [here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#cancelling-for-self-service-virtual-events-with-or-without-promotion) for cancelling.
+Please see process [here](/handbook/marketing/virtual-events/self-service-virtual-events/#rescheduling-self-service-virtual-events-with-or-without-promotion) for rescheduling and [here](/handbook/marketing/virtual-events/self-service-virtual-events/#cancelling-for-self-service-virtual-events-with-or-without-promotion) for cancelling.
 
 ## Rescheduling or Cancelling a Webast or Workshop
 
@@ -413,7 +404,7 @@ Please see process [here](/handbook/marketing/field-marketing/field-marketing-ow
 
 ## Rescheduling or Cancelling a Sponsored Virtual Event
 
-Please see process [here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#rescheduling-external-virtual-events) for rescheduling and [here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#cancelling-external-virtual-events) for cancelling.
+Please see process [here](/handbook/marketing/virtual-events/#calendar-rescheduled-external-virtual-event) for rescheduling and [here](/handbook/marketing/virtual-events/#calendar-canceled-external-virtual-event) for cancelling.
 
 # Process to Close Marketo Landing Pages and Landing Page Forms
 
@@ -577,14 +568,6 @@ DG Receiving Dept - #GIT476 (FM)
 24100 Broad Street   
 Carson, CA 90745  
 
-### AMER Sales Welcome Swag Kits
-
-New AMER sales team members will be provided the [AMER Sales Welcome Swag Kit Order Form](https://docs.google.com/forms/d/1MDEnjM-K-ootOzf2SBT-8KQWYjN4bedZu4ActvFrYds/edit) in their Google Classroom training module. Please take note of the approved sales teams listed in the form to make sure you are eligible for a kit and please limit to one kit per person. New orders are placed once a week and order confirmations, as well as shipping confirmations, will be sent out by our swag vendor, Nadel. For any questions please contact `@krogel`.
-
-### AMER Sales Swag Requests
-
-Please utilize the [Printfection Sales Swag](https://get.printfection.com/dcdzm/6508378270) link. This link is for GitLab internal use only and you must log in with your @gitlab.com address. If you are a new user enter your @gitLab.com address in the login page and follow the instructions to set up your account.
-
 ## EMEA Field Marketing Swag
 
 The EMEA Field Marketing team utilises [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/#project-management) to source, fulfill, ship and store (European adn Uk warehouses) swag branded swag items.  We also utilise vendor [Ten&One](https://www.tenandone.com) who can source swag items and who also currently store all EMEA event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics.
@@ -617,13 +600,10 @@ The Field Marketing team utilizes the Field Marketing Fedex Account for shipping
 
 We sometimes work with third party vendors and use other tools for outreach, event production etc. Below is a list of whom we work with currently and the [FM vendor evaluation epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/441) that tracks whom we have evaluated/worked with in the past.
 
-- Emissary.io - in an effort to help sales gain account intelligence
-- Banzai - to supplement event recruiting
 - [Thnks](https://www.thnks.com/how-it-works/) - platform to send gifts to recipients with the option to accept gift or donate to charity
     - There is a service fee on each order which sits around 16% (for example, a $50 giftcard will cost us $60 to send via Thnks)
     - `@krogel` has admin access and can request to add others as users, please reach out to be added or for more info on using this tool
     - Example Thnks [here](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1380#package-swag-and-event-assets)
-- Printfection - used for direct mail giveaways, see more details [here](/handbook/marketing/field-marketing/#printfection-direct-mail-giveaways)
 - [Jack Nadel](https://jacknadel.exhibitors-handbook.com/) - our AMER swag vendor who provides swag sourcing, warehousing and distribution, see more details [here](/handbook/marketing/events/#amer-field-marketing-swag)
 
 # Sourcing New Field Marketing Vendors
@@ -652,18 +632,18 @@ Once you feel confident that you have chosen the right 3rd party vendor, now is 
 
 # Software Vendor/Product Approval Process
 
-1. FMM and FMC to review the [Procurement Handbook Page](/handbook/finance/procurement/#when-should-i-contact-procurement) so you are familiar with the procurement process and lead times. Allow [60-90 days](/handbook/finance/procurement/#when-should-i-contact-procurement) for processing all reviews, approvals and contract negotiations. Note that if the overall cost of the product is over $100k, 2-3 comparison bids are required.
-1. FMM to open a [Field Marketing Issue](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status) and detail out the justification for the potential new vendor/product. Include any presentations, slides and demos that have been provided to help explain the product. Tag your regional manager in the issue to review and discuss. Approval must be received to move forward. Make sure to attach all of the following issues to your main Field Marketing Issue for easy access.
+1. FMM and FMC to review the [Procurement Handbook Page](/handbook/finance/procurement/#when-should-i-contact-procurement) so you are familiar with the procurement process and lead times. Please be aware of the [SLAs](/handbook/finance/procurement/#-how-long-does-it-take-to-approve-my-coupa-purchase-request) for processing all reviews, approvals and contract negotiations. Note that if the overall cost of the product is over $100k, 2-3 comparison bids are required.
+1. FMM to open a Field Marketing issue and detail out the justification for the potential new vendor/product. Include any presentations, slides and demos that have been provided to help explain the product. Tag your regional manager in the issue to review and discuss. Approval must be received to move forward. Make sure to attach all of the following issues to your main Field Marketing Issue for easy access.
 1. FMM to open a [Contract Request](/handbook/marketing/field-marketing/#field-marketing-contract-requests) issue and assign to the regional FMC.
     - SLA for FMC to complete the Contract Request issue is 3 business days from the date all needed info is filled out by the FMM in the Contract Request issue. FMM to leave a note if turnaround is urgent (FMCs have been averaging 1-2 business days currently).
-1. FMC to process an NDA with the vendor, specified in the [Prior to Contacting Procurement](/handbook/finance/procurement/prior-to-contacting-procurement/) instructions in the Handbook. This NDA will be required in your Software Vendor Contract Request Issue.
+1. FMC to process an NDA with the vendor, specified in the [Prior to Contacting Procurement](/handbook/finance/procurement/prior-to-contacting-procurement/) instructions in the Handbook. Remember to attached your executed NDA when opening your Coupa requisition in the steps below.
 1. If you're requesting a new tool, FMM to open a [Marketing Ops Eval](/handbook/marketing/marketing-operations/#requesting-a-new-tool) issue. Marketing Ops will help evaluate the product and will assist in the procurement process. They will also help you determine if an integration is required with any products in our current tech stack and if so, which team will be the DRI for the integration.
-1. If you're requesting a new tool, FMC to open a [Software Vendor Contract Request](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) and follow the instructions. Please note that you can open this issue even before a contract has been provided. This template details the following approvals:
+1. FMC to check to see if the vendor is [already in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier). If not, the FMC will submit a [new supplier request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier). The Coupa requisition cannot be opened until the vendor is in Coupa. 
+1. FMC to follow [these instructions](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) for opening a Coupa requisition. Please note that you can submit the Coupa requisition even before a contract has been provided. This template details the following approvals:
     - NDA requirement
     - Privacy review (if applicable)
     - Security review
     - Tech stack request (for new software purchases)
-1. If you're requesting a new tool, once the Software Vendor Contract Request has been approved by all teams and the contract has been fully executed, FMC to proceed with invoice processing.
 1. If you're requesting a new tool, and if the new product requires integration with any of our existing products (SFDC, Marketo, Outreach, etc.) FMC to open an integration request issue with the appropriate team (see step above where the Marketing Ops team will help determine). Integration will not begin until all approvals are final and the contract has been fully executed, but opening the integration issue early will give the appropriate team advance notice for planning.
 
 # AMER Field Marketing Event Venue Tracking
@@ -674,7 +654,7 @@ The below epic is for tracking venues we would like to utilize for future events
 
 # Field Marketing Contract Requests
 
-In Field Marketing, the FMCs manage all [Procurement Issues](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/tree/master/.gitlab/issue_templates) or [Coupa requisitions](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) for their regions. For contracts or invoices ready to submit for approval, the FMM will open an issue utilizing the [`Contract_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Contract_Request) template and follow the instructions to provide important details required before assigning to the regional FMC. SLA for FMC to complete the Contract Request issue is 3 business days from the date all needed info is filled out by the FMM in the Contract Request issue. FMM to leave a note if turnaround is urgent (FMCs have been averaging 1-2 business days currently).
+In Field Marketing, the FMCs manage all [Coupa requisitions](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) for their regions. For contracts or invoices ready to submit for approval, the FMM will open an issue utilizing the [`Contract_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Contract_Request) template and follow the instructions to provide important details required before assigning to the regional FMC. SLA for FMC to complete the Contract Request issue is 3 business days from the date all needed info is filled out by the FMM in the Contract Request issue. FMM to leave a note if turnaround is urgent (FMCs have been averaging 1-2 business days currently).
 
 # Corporate Memberships Owned by GitLab Field Marketing
 
@@ -764,7 +744,7 @@ By the 15th of the 3rd month of the quarter, the Director of Field Marketing wil
 By the 15th of the 3rd month of the quarter, the Director of Field Marketing will open a FMM issue outlining the Field Marketing campigns that align per GTM Motion for the upcoming quarter. This is done using the Partner Drill in Report - which is found in the Allocadia Insights --> 2. Pipeline --> Quarterly Drill in Details ALL (3rd Tab).  The issues will then be associated with each GTMs epic and the issues will be shared in the various GTM motion Slack channels. 
 
 ### Asks into Digital Campaigns 
-Details on how Field Marketing shares quarterly plans with the Digital team can be [found here](/handbook/marketing/revenue-marketing/#digital-campaigns). 
+Details on how Field Marketing shares quarterly plans with the Digital team can be [found here](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/). 
 
 ### Asks into Portfolio Marketing 
 By the 15th of the 3rd month of the quarter, all asks for the Portfolio Marketing team for the upcoming quarter should be opened up for their review. Following their process outlined here. It's the responsibility of each FMM to ensure their asks are in by this time. The ~Field Marketing label must be added to the request in order for the PM team to review. We will use[this list](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues?label_name%5B%5D=Field+Marketing&label_name%5B%5D=sm_request&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93) to review. 
@@ -813,11 +793,11 @@ Note: The Channel Partner Enablement team is the DRI to make sure each Select Pa
 Select Partner marketing activities can be:
 - Fully funded by FMM budget
 - Funded jointly by FMM budget and Select Partner
-- Funded jointly by FMM, GitLab MDF (see [MDF process](/handbook/marketing/channel-marketing/)) and Select Partner
+- Funded jointly by FMM, GitLab MDF (see [MDF process](/handbook/marketing/channel-marketing/#requesting-mdf-funds)) and Select Partner
 
 ### CAM/Partner Initiated (MDF Funded)
 
-As outlined in the [Channel Handbook - [MDF section](/handbook/resellers/#the-market-development-funds-mdf-program)](https://about.gitlab.com/handbook/marketing/channel-marketing/), GitLab Select partners have access to the proposal-based GitLab Marketing Development Funds (MDF) Program.
+As outlined in the [Channel Handbook - [MDF section](/handbook/marketing/channel-marketing/#requesting-mdf-funds)), GitLab Select partners have access to the proposal-based GitLab Marketing Development Funds (MDF) Program.
 
 The DRI for budget tracking and ROI measurement will be the Channel Marketing team with Field Marketing being the DRI for the 3rd step in the approval of the MDF proposal within their respective region.
 
@@ -922,7 +902,7 @@ To provide opportunities for discussion, education and community building for in
 1. Contributing: Continue to support the growth and transformation of DevOps within the technical community
 
 ### Code of Conduct
-To ensure a positive experience we will adhere to the GitLab code of conduct [found here](https://about.gitlab.com/community/contribute/code-of-conduct/)
+To ensure a positive experience we will adhere to the GitLab code of conduct [found here](/community/contribute/code-of-conduct/)
 
 ### Boilerplate Verbiage
 Join us as we build a community of GitLab users within Government and Education where peers can share best practices, connect with public sector GitLab Team members and collaborate on how to best serve the public sector.
@@ -946,10 +926,7 @@ We are committed to providing opportunities for discussion, education and commun
 
 ### Imagery
  - Branding should remain consistent across the entire User Group program leveraging marketing approved Tanuki graphics.  
-   - Approved GitLab Government User Group Tanuki can be found [here](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/gitlab-brand-files/gitlab-logo-files/user-group-program-tanuki).  
-   - See template for a custom design request [here](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issue%5Bmilestone_id%5D=#). 
-      - Project: Corporate Marketing 
-      - Template: request-design-general
+   - Press kit for Tanuki designs can be found [here](https://about.gitlab.com/press/press-kit/)
 
 ### Hashtags and Social Media Promotion
  - The following hashtags should be used when promoting on social platforms: 
@@ -1336,30 +1313,17 @@ At times, Field Marketers may want to create a SPIF (sales performance incentive
 - [Marketing Operations](/handbook/marketing/marketing-operations/)
 - [Sales Development](/handbook/marketing/revenue-marketing/sdr/)
 - [3rd party Marketo Agency](/handbook/marketing/demand-generation/campaigns/agency-verticurl/)
-- [Links GitLab Field Marketers find useful](https://docs.google.com/spreadsheets/d/1gjJghF8Va-G0lYWsDaYXKG7JPtADLS2Jhrh8IVHkizQ/edit?ts=5d249a33#gid=1748424259&range=A1)
 - [Field Marketing onboarding videos](https://drive.google.com/open?id=1m8ReMIiymMTqqk5PJAG7u_IG-Q5pkusV) - NOTE - these are also in the Field Marketing Onboarding issue that is kept in the [Marketing onboarding project](https://gitlab.com/gitlab-com/marketing/onboarding#onboarding)
 
 # Account Based Marketing
 
-Account based marketing is separate but sits next to field marketing. For info on account based marketing, please head over to the [ABM page](/handbook/marketing/revenue-marketing/account-based-strategy/account-based-marketing/).
+Account based marketing is separate but sits next to field marketing. For info on account based marketing, please head over to the [ABM page](/handbook/marketing/account-based-marketing/).
 
 ## FMM DB1 Use Cases and set up
-Can be found on the [DemandBase1 Handbook page.](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/#field-marketing-use-cases-within-db1)
+Can be found on the [DemandBase1 Handbook page.](/handbook/marketing/account-based-marketing/demandbase/)
 
 # Field Marketing during COVID-19 Pandemic
 The health and safety of our team members continue to be a top priority.  If you are a Marketer who is planning on attending an event, please follow instructions listed in our [Policy & Guidelines](https://about.gitlab.com/handbook/travel/#policy-and-guidelines) section. 
-
-## In-Person Event Changes Due to COVID-19
-
-### Owned Event Turned Virtual
-
-- FMM to notify MPM as soon as possible - this process takes considerable time to deconstruct existing setup and begin setting up as virtual
-- MPM to follow [this process](/handbook/marketing/events/#when-owned-offline-events-turn-to-virtual-owned-events)
-
-### Field Event Turned Virtual
-
-- FMM to notify MPM as soon as possible - this process takes considerable time to deconstruct existing setup and begin setting up as virtual
-- MPM to follow [this process](/handbook/marketing/events/#when-offline-field-events--conferences-turn-to-virtual)
 
 # Deprecated handbook content
 We feel like this info is too good to delete, and while we currently aren't using either the tool that is descirbed or the process, we just aren't ready to delete.....its like that sweater you just can't seem to get rid of in case you may need it one day... 
