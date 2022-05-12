@@ -100,7 +100,7 @@ Our current localization capabilities are limited due to resources and bandwidth
 
 ### Translating content for campaigns
 
-Localized campaigns currently follow the the [integrated campaign process](/handbook/marketing/campaigns/#campaign-planning). The Content Marketing team is responsible for content localization for integrated campaigns. Content marketers are responsible for campaigns that fall within their subject area domain:
+Localized campaigns currently follow the [integrated campaign process](/handbook/marketing/campaigns/#campaign-planning). The Content Marketing team is responsible for content localization for integrated campaigns. Content marketers are responsible for campaigns that fall within their subject area domain:
 
 | Use Case | DRI |
 | -------- | --- |
