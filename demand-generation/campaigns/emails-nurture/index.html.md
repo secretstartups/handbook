@@ -183,7 +183,7 @@ UTMs
 {: #gtm-motion-nurtures}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The following are active GTM motion nurture programs, which each contain content streams for awareness, consideration, and decision/purchase stages. They send bi-weekly with the date of deployment included in each bullet. The Prespriptive Buyers Journey Nurtures have separate tracks for Practitioners and for Managers. They are designed so that they send the the right content at the right time to the right persona (aligning with to stage of the buyers journey).
+The following are active GTM motion nurture programs, which each contain content streams for awareness, consideration, and decision/purchase stages. They send bi-weekly with the date of deployment included in each bullet. The Prespriptive Buyers Journey Nurtures have separate tracks for Practitioners and for Managers. They are designed so that they send the right content at the right time to the right persona (aligning with to stage of the buyers journey).
 
 - [CI Use Case Prespriptive Buyers Journey Nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/809) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP7537B2), sends on Wednesdays)
     - [French CI Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/752) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5239A1), sends on Thursdays)
