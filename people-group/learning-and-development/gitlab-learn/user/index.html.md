@@ -56,7 +56,7 @@ Below is a [first time login training video](https://www.youtube.com/watch?v=uE-
 
 GitLab Learn first time login steps:
 
-1. GitLab team members should choose `LogIn with GitLab Team Members SSO` via Okta. Non-team members should choose `LogIn with Email and Password`.
+1. GitLab team members should choose `GitLab Internal Team Member SSO` via Okta. Non-team members should choose `Login using your credentials`, and use an email address to sign up or log in.
 1. Enter your first and last name
 1. Upload a profile photo. This step is optional at this phase of the sign on process and can be uploaded/edited within the platform at a later date
 1. Click `Next Step`
