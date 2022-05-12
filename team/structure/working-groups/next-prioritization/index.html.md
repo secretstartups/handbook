@@ -47,6 +47,20 @@ All prioritization will be done via quad planning (collaboration between product
 
 More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Zo-Fdq3yVtk-q-uJrKe_03iF9jB1XQWqQb4/edit#slide=id.geebc38ecb3_0_261).
 
+### Exit criteria
+
+* All groups have dashboards that they use to analyze merged MR ratio of features, maintenance, bugs and undefined.
+* All groups are reviewing the dashboards and discussing it periodically (monthly?). They compare against the 60% feature, 30% maintenance, 10% bugs, and <=5% undefined. If not there, discuss why and what makes sense for the team. It is *not* an exit criteria that every team achieves those ratios.
+* All sections review the dashboards at the section level (quarterly?).
+* VP Eng, VP Prod, VP UX, VP Quality, and CTO review the dashboards at the company level (quarterly?).
+* Starting with the 15.1 release at the earliest, 15.2 at the latest:
+  * Product continues to prioritize feature issues.
+  * Development transitions to being the DRI to prioritize maintenance issues.
+  * Quality transitions to being the DRI for bugs.
+  * Product, in consultation with UX, Development, and Quality is the DRI for milestone planning. 
+* Automation exists to streamline the process.
+* Handbook is updated to reflect the new process.
+* Execute on mulit-modal communication plan.
 
 ### Implementation plan
 
