@@ -91,6 +91,17 @@ description: Support Global Groups FAQ
    should help with this as well, making it easier for others to find you, and
    for you to find tickets where your skills are needed.
 
+#### 3. How do I move a ticket to a different group?
+
+To move a ticket to a different group, all you need to do is set the value of
+the `SGG` field to the name of the target group. **It doesn't matter whether
+the assignee is in the target group, and it doesn't matter whether the assignee
+field value looks like `SGG: groupname/username` or
+`Support regionname/username`.**
+
+If you have a need to find all of your tickets that are not assigned to your
+group, see [Bulk editing SGG values](bulk-editing-sgg-values.html).
+
 ## Group Administration
 
 ### 1. How are the number and size of groups determined?
@@ -247,10 +258,10 @@ whether we're successful in meeting our SLA and other goals.
 
 ### 6. What are the roles of Senior and Staff SEs in SGG?
 
-Senior SEs are assigned to a group, just as Intermediate SEs are. Seniors’ first
-priority is the success of their group, with an emphasis as usual on assisting
-other SEs, sharing knowledge, and being leaders. They also look beyond their
-group to other groups and Support as a whole, with the same emphasis.
+Senior SEs are assigned to a group, just as Intermediate SEs are. A senior's
+first priority is the success of their group, with an emphasis as usual on
+assisting other SEs, sharing knowledge, and being leaders. They also look beyond
+their group to other groups and Support as a whole, with the same emphasis.
 
 Staff SEs are not assigned to any group, and work as they did prior to the SGG
 rollout.
@@ -295,7 +306,7 @@ with the rest of Support.
 
 ## Tickets and Views
 
-### 1. Will SEs respond to other SEs’ tickets?
+### 1. Should SEs respond to other SEs’ tickets?
 
    An important part of SGG is increasing collaboration on tickets, and that’s
    why all of a group’s tickets are visible in the group view and all SEs are
@@ -307,7 +318,8 @@ with the rest of Support.
    the ticket. However, if the next response is due, either according to the SLA
    clock or to an expectation set in the ticket, and the assignee is not
    available to send a response, then any other SE who can help should consider
-   doing so.
+   doing so. In this situation, be sure that your next steps align with the
+   history of the ticket and the assignee's action plan.
 
 ### 2. If there are no tickets in my group view that are within my Area of Focus (SM or SaaS), what should I do?
 
@@ -344,23 +356,6 @@ with the rest of Support.
    working within both of these systems simultaneously, please see the
    [Prioritizing work](https://about.gitlab.com/handbook/support/support-global-groups/#prioritizing-work)
    topic on the SGG main handbook page.
-
-### 5. How should I handle a new ticket in which the customer has indicated a preferred region other than my own?
-
-If the next ticket in your group's view is set for another region, and you want
-to send the first response, please do it! And until your group agrees on a
-different process for this type of situation, please use this one:
-
-1. Assign yourself the ticket and send out a full first response.
-1. In the first response ask the customer if they want to keep working with you,
-   knowing that your work hours may not overlap much, or if they want to have
-   an SE in the preferred region take the ticket forward.
-1. If the customer is happy to work with you, then you're all set!
-1. If not, then ask in [your group's Slack channel](./index.html/#slack) for
-   an SE in the target region to take ownership of the ticket. Please be sure
-   that you've documented the ticket well, or that you chat with the new owner,
-   or both during the handover process. In other words, please do a "warm
-   transfer."
    
 ## Urgent Situations
 
