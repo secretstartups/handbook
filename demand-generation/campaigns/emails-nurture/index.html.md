@@ -399,6 +399,18 @@ Target list issue templates are an interim solution while foundational work is b
 
 **What to do with DemandBase Lists:** In the Marketo smartlist, add filter for either `Account ID (18) ` or `Email Address` (depending on what is provided in the DemandBase target list export that the requester has submited) and paste the list of Account IDs or Email Address from the DemandBase target list export.
 
+### Active lists 
+{: #Active-Lists}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+To assist in building email target lists, MktgOps has developed a series of Marketo smart lists that can be used to determine how active a lead is based on specific time increments. Call on these smart lists to get the most up to date active user list for your email sends. The smart lists are located in the Database section of Marketo. They are:
+
+* [01 Active List 30 days](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52980708A1)
+* [02 Active List 60 days](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52980709A1)
+* [03 Active List 90 days](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52980710A1)
+* [04 Active List 6 months days](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52979300A1)
+* [05 Active List 12 months](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52980711A1)
+* [06 Active List 18 months](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52980712A1)
+
 #### Email Request Issue Template
 {: #email-request-issue}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -522,6 +534,8 @@ The approval table below applies to non-Marketing emails.
 ### Email KPI's that matters
 {: #email-kpis-that-matters}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+
+To view current benchmarks in Marketo, go to the [Email Insights Tab](https://ab-ee-api.marketo.com/).
 
 **Delivery Rate:**
 
