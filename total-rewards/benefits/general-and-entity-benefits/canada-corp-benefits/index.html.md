@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Gitlab Canada Corp"
+title: "GitLab Canada Corp"
 description: "GitLab Canada Corp benefits specific to Canada based team members."
 ---
 
@@ -309,21 +309,21 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 * Up to 28 weeks in a 52-week period to provide care or support to certain family members and other [qualifying individuals](https://www.ontario.ca/document/your-guide-employment-standards-act-0/family-medical-leave#section-0) who have a serious medical condition with a significant risk of death.
 * Team Members should select `Out Sick` in PTO by Roots.  
 
-**Critical Illness Leave** _Team members who have been employed with Gitlab for six consecutive months_ 
+**Critical Illness Leave** _Team members who have been employed with GitLab for six consecutive months_
 * Up to 37 weeks within a 52-week period of leave in relation to a critically ill minor child
 * Up to 17 weeks within a 52-week period in relation to a critically ill adult. 
 * The team member must submit a [medical certificate](https://www.labour.gov.on.ca/english/es/pdf/medcert_2019_1.pdf). 
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Child Death Leave** _Team members who have been employed with Gitlab for at least six consecutive months_  
+**Child Death Leave** _Team members who have been employed with GitLab for at least six consecutive months_
 * Up to 104 weeks of leave with respect to the death of a child. Team members who take time away from work because of a crime-related death of a child may apply for a [Federal Income Support Grant](https://www.canada.ca/en/employment-social-development/programs/federal-income-support-parents-murdered-missing-children.html).
 * Team Members should select `Bereavement` in PTO by Roots. 
 
-**Crime-related child disappearance leave** _Team members who have been employed with Gitlab for at least six consecutive months_ 
+**Crime-related child disappearance leave** _Team members who have been employed with GitLab for at least six consecutive months_
 * Up to 104 weeks of leave with respect to the crime-related disappearance of a child. Team members who take time away from work because of a crime-related death of a child may apply for a [Federal Income Support Grant](https://www.canada.ca/en/employment-social-development/programs/federal-income-support-parents-murdered-missing-children.html).
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Domestic or sexual violence leave** _Team members who have been employed with Gitlab for at least 13 consecutive weeks_ 
+**Domestic or sexual violence leave** _Team members who have been employed with GitLab for at least 13 consecutive weeks_
 * 10 days and 15 weeks of domestic or sexual violence leave each calendar year. The first 5 days of leave are paid. 
 * Team Members should select `Out Sick` in PTO by Roots.
 
@@ -331,12 +331,12 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 * Team members are entitled to take this leave for [specified reasons](https://www.ontario.ca/document/your-guide-employment-standards-act-0/infectious-disease-emergency-leave#section-7)  related to a designated infectious disease. The only disease for which infectious disease emergency leave may be taken as of 2021-03-09 is COVID-19. 
 * Team Members should select `Out Sick` in PTO by Roots.
  
-**Organ Donor Leave** _Team members who have been employed with Gitlab for at least 13 weeks_ 
+**Organ Donor Leave** _Team members who have been employed with GitLab for at least 13 weeks_
 * Up to to 13 weeks of [organ donor leave](https://www.ontario.ca/document/your-guide-employment-standards-act-0/organ-donor-leave) for the purpose of undergoing surgery to donate all or part of certain organs to a person. 
 * This leave may be extended an additional 13 weeks for a maximum of 26 weeks.
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Reservist Leave** _Reservists who have been employed with Gitlab for at least six consecutive months_ 
+**Reservist Leave** _Reservists who have been employed with GitLab for at least six consecutive months_
 * Unpaid leave for the time necessary to engage in an international operation or an operation within Canada to deal with an emergency or its aftermath. This includes pre-deployment and post-deployment activities when applicable. 
 * Team Members should select `Mandatory Civilian Service` in PTO by Roots.
 
@@ -369,7 +369,7 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 * 1 day of unpaid leave for the marriage or civil union of a parent, child, sibling, or child of spouse.
 * Team Members should select `Vacation` in PTO by Roots.
 
-**Parental or family obligations** _Team members who have been employed with Gitlab for at least 3 months_
+**Parental or family obligations** _Team members who have been employed with GitLab for at least 3 months_
 * 10 days per year; team members are entitled to pay for the first 2 days.
 * Up to 16 weeks in one 12-month period to care for a loved one due to a serious accident or serious illness
 * Up to 27 weeks in one 12-month period if the critically ill person suffers from a life-threatening illness
@@ -401,7 +401,7 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 * Workers who must be absent from work as a result of domestic or sexual violence are entitled to an unpaid absence of up to 26 weeks over a 12-month period.
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Non-work related accident or illness** _Team members who have been employed with Gitlab for at least 3 consecutive months_
+**Non-work related accident or illness** _Team members who have been employed with GitLab for at least 3 consecutive months_
 * 2 paid days per calendar year (which do not roll over) and up to 26 weeks over a 12-month period for the following reasons: 
   * Sickness or accident that is not related to their work and which renders them unable to work.
   * Family obligations relating to care, health, or education of child or spouse’s child.
@@ -429,7 +429,7 @@ More information on these leave entitlements can be found on the [Government of 
 * 5 days of paid leave, 5 days of unpaid leave, and 15 weeks of additional unpaid leave, if necessary. This leave also applies to parents of a child or dependent impacted by this kind of violence.
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Personal illness or injury leave** _Team members who have been employed with Gitlab for at least 90 days_
+**Personal illness or injury leave** _Team members who have been employed with GitLab for at least 90 days_
 * Up to 3 days of unpaid leave each year. 
 * Team Members should select `Out Sick` in PTO by Roots.
 
@@ -485,15 +485,15 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 
 More information about these leave types can be found on the [Government of Alberta website](https://www.alberta.ca/job-protected-leaves.aspx).
 
-**Bereavement Leave** _Team members who have been employed with Gitlab for at least 90 days_
+**Bereavement Leave** _Team members who have been employed with GitLab for at least 90 days_
 * 3 days of unpaid leave per year for the death of a [family member](https://www.alberta.ca/bereavement-leave.aspx)
 * Team Members should select `Bereavement` in PTO by Roots.
 
-**Citizenship Ceremony Leave** _Team members who have been employed with Gitlab for at least 90 days_
+**Citizenship Ceremony Leave** _Team members who have been employed with GitLab for at least 90 days_
 * Up to a half-day of unpaid leave to attend citizenship ceremony
 * Team Members should select `Public Service / Volunteer` in PTO by Roots.
 
-**Compassionate Care Leave** _Team members who have been employed with Gitlab for at least 90 days_
+**Compassionate Care Leave** _Team members who have been employed with GitLab for at least 90 days_
 * Up to 27 weeks of unpaid leave to give care or support to a gravely ill [family member](https://www.alberta.ca/compassionate-care-leave.aspx#jumplinks-2) with a significant risk of dying within 26 weeks. 
 * Team members must submit a medical certificate to the Absence Management team at `leaves@gitlab.com`
 * Team members may also be eligible for [Employment Insurance](https://www.canada.ca/en/services/benefits/ei/caregiving.html)
@@ -503,31 +503,31 @@ More information about these leave types can be found on the [Government of Albe
 * 14 days of unpaid leave for team members who are in quarantine due to COVID-19
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Critical Illness of a Child Leave** _Team members who have been employed with Gitlab for at least 90 days_
+**Critical Illness of a Child Leave** _Team members who have been employed with GitLab for at least 90 days_
 * Up to 36 weeks for the critical illness of the team member's child.
 * Team members may be eligible for Employment Insurance.
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Death or disappearance of a child leave** _Team members who have been employed with Gitlab for 90 days_
+**Death or disappearance of a child leave** _Team members who have been employed with GitLab for 90 days_
 * Up to 52 weeks if the child has disappeared
 * Up to 104 weeks if the child has died as the probable result of a crime
 * Team Members should select `Bereavement` in PTO by Roots.
 
-**Domestic Violence Leave** _Team members who have been employed with Gitlab for at least 90 days_
+**Domestic Violence Leave** _Team members who have been employed with GitLab for at least 90 days_
 * Up to 10 days of unpaid leave each calendar year. This does not carry over if unused.
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Long-term illness and injury leave** _Team members who have been employed with Gitlab for at least 90 days_
+**Long-term illness and injury leave** _Team members who have been employed with GitLab for at least 90 days_
 * Up to 16 weeks of unpaid leave. 
 * Team members may be eligible for Employment Insurance.
 * Team members must submit a medical certificate issued by a nurse practitioner or physician stating the estimated duration of leave.
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Personal and family responsibility leave** _Team members who have been employed with Gitlab for 90 days_
+**Personal and family responsibility leave** _Team members who have been employed with GitLab for 90 days_
 * Up to 5 days each calendar year to care for their own health or to meet family responsibilities in relation to a [family member](https://www.alberta.ca/personal-family-responsibility-leave.aspx#jumplinks-2). This does not carry over to the following year if unused.
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Reservist Leave** _Team members who have been employed with Gitlab for at least 26 consecutive weeks_
+**Reservist Leave** _Team members who have been employed with GitLab for at least 26 consecutive weeks_
 * Up to 20 days each calendar year for annual training
 * As long as necessary to accommodate the period of service required for [international or domestic deployment](https://www.alberta.ca/reservist-leave.aspx#jumplinks-2).
 * Team Members should select `Mandatory Civilian Service` in PTO by Roots.
@@ -544,23 +544,23 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 
 More information can be found on the [Government of Manitoba website](https://www.gov.mb.ca/labour/standards/doc,unpaid-leave,factsheet.html).
 
-**Family Leave** _Team members who have been employed with Gitlab for at least 30 days_
+**Family Leave** _Team members who have been employed with GitLab for at least 30 days_
 * 3 days of unpaid leave for a team member to deal with family responsibilities or personal illness.
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Bereavement Leave** _Team members who have been employed with Gitlab for at least 30 days_
+**Bereavement Leave** _Team members who have been employed with GitLab for at least 30 days_
 * 3 days of unpaid leave for a team member to deal with the death of a family member
 * Team Members should select `Bereavement` in PTO by Roots.
 
-**Compassionate Care Leave** _Team members who have been employed with Gitlab for at least 90 days_
+**Compassionate Care Leave** _Team members who have been employed with GitLab for at least 90 days_
 * 28 weeks of unpaid leave for a team member to care for a seriously  ill family member
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Long-term Leave for Serious Illness or Injury** _Team members who have been employed with Gitlab for at least 90 days_
+**Long-term Leave for Serious Illness or Injury** _Team members who have been employed with GitLab for at least 90 days_
 * 17 weeks of unpaid leave for team members who have a long-term serious illness or injury.
 * Team Members should select `Out Sick` in PTO by Roots.
 
-**Interpersonal Violence Leave** _Team members who have been employed with Gitlab for at least 90 days_
+**Interpersonal Violence Leave** _Team members who have been employed with GitLab for at least 90 days_
 * 10 days and 17 weeks of unpaid leave for a team member to address a situation of violence in the home. Team members are entitled to pay for the first 5 days.
 * Team Members should select `Out Sick` in PTO by Roots.
 
@@ -568,16 +568,16 @@ More information can be found on the [Government of Manitoba website](https://ww
 * 4 hours of unpaid leave for a new Canadian to receive their certificate of citizenship.
 * Team Members should select `Public Service/Volunteer` in PTO by Roots.
 
-**Leave Related to the Death or Disappearance of a Child** _Team members who have been employed with Gitlab for at least 30 days_
+**Leave Related to the Death or Disappearance of a Child** _Team members who have been employed with GitLab for at least 30 days_
 * Up to 52 weeks for parents dealing with the disappearance of a child
 * Up to 104 weeks for parents dealing with the death of a child  as the result of a crime
 * Team Members should select `Bereavement` in PTO by Roots.
 
-**Reservist Leave** _Team members who have been employed with Gitlab for at least 3 months_
+**Reservist Leave** _Team members who have been employed with GitLab for at least 3 months_
 * Unpaid leave for the duration of their deployment or service.
 * Team Members should select `Mandatory Civilian Service` in PTO by Roots.
 
-**Organ Donation Leave** _Team members who have been employed with Gitlab for at least 30 days_
+**Organ Donation Leave** _Team members who have been employed with GitLab for at least 30 days_
 * 13 weeks of unpaid leave for a team member to donate an organ or tissue.
 * Team Members should select `Out Sick` in PTO by Roots.
 
