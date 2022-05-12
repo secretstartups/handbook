@@ -513,11 +513,11 @@ The following is intended as a guide for Opportunity Owners who need to submit a
 
 Prior to generating a standard (non-draft) quote to deliver to a client or prospect in Word or PDF format, any non-standard elements (discounts, unique payment terms, and other items found in the matrix) must be approved. The following steps outline the process for how to correctly submit a quote for approval. This approval flow follows the criteria in [our approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0) for approvers. Please review this matrix so you are aware of all the scenarios as well as any potential fields that you may have to fill out on the quote.
 
-1.  Navigate to the quote that you would like to submit for approval. Ensure that all of the relvant information is filled out on the quote.
+1.  Navigate to the quote that you would like to submit for approval. Ensure that all of the relevant information is filled out on the quote.
 1.  Make sure to include the `Submitter Comments` on the quote before you submit for discount and terms approval. Please provide as much detail as to why you are requesting discounts or other terms that require approval.
 1.  You will be able to see who the required approvers are on the quote prior to submitting the quote and why they are required.
-1.  Once you are sure that the quote has the correct info on it click the the `Submit for Approval` button on the quote screen.
-1.  Your quote has now been submitted for approval. If it needs any approvals you can monitor who needs to approve it on the quote in the section `Required Quote Approvals`
+1.  Once you are sure that the quote has the correct info on it, click the `Submit for Approval` button on the quote screen.
+1.  Your quote has now been submitted for approval. If it needs any approvals, you can monitor who needs to approve it on the quote in the section `Required Quote Approvals`.
 
 **Contractual Discounts**
 
