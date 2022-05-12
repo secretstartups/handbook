@@ -31,7 +31,7 @@ description: >-
 
 **Course Content Summary** (approx. 3 hours to complete)
 - Introduction to GitLab culture and product
-- Introduction the the DevOps Landscape
+- Introduction to the DevOps Landscape
 - Understanding GitLab Customers
 - GitLab Portfolio Deep Dive
 - Best Practices in Selling GitLab
