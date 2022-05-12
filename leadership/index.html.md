@@ -257,6 +257,13 @@ The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sib
 1. High Performance - Wow! The team is accomplishing more than it expected. The team has taken off, creativity is fostered and goals are surpassed.
 1. Renewal - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future.
 
+### Manager M-Team Groups
+
+M-teams are management support groups made up of 3 to 6 managers who are in timezones that allow for sync meetings among members. M-teams should set up a regular meeting on a cadence agreed by the members with the agenda being "what's challenging this week?". Decide who will facilitate and each person will get a chance to have their challenge discussed in the meeting. When it's your turn, you talk a little about what you're struggling with. M-groups agree to a level of [confidentiality](https://3plusinternational.com/2017/10/confidentiality-and-the-potential-loss-of-trust/) so that group members are willing to be vulnerable; vulnerability leads to trust and better outcomes for the group. 
+
+If you're interested in starting or joining an m-team meeting, reach out to other managers in the [#managers](https://gitlab.slack.com/archives/C5Z55R5J5) Slack channel.
+
+
 ## Articles
 
 1. [Carta's Manager’s FAQ](https://readthink.com/a-managers-faq-35858a229f84)
