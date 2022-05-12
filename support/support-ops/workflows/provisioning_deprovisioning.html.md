@@ -113,7 +113,7 @@ output
 </blockquote>
 </details>
 
-## Provisioning in Zendesk Global
+## Provisioning in Zendesk US Federal
 
 ### Agents for Zendesk US Federal
 
