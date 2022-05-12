@@ -124,7 +124,7 @@ Through storyboarding we look at the end to end content journey and outline the 
 ### How to use the storyboard template
 {: #storyboard-how-to}
 
-The first step to creating a full-funnel content journey is to storyboard the narrative. The audience you are targeting the the main character of the narrative and the content you create is the plot.  Use the following story arc as a guideline for creating the narrative:
+The first step to creating a full-funnel content journey is to storyboard the narrative. The audience you are targeting is the main character of the narrative, and the content you create is the plot. Use the following story arc as a guideline for creating the narrative:
 
 #### Story Arc Guide
 {: #story-arc-guide}
