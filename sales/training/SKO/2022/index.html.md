@@ -113,3 +113,6 @@ GitLab SKO 2022 took place virtually from March 15-17, 2022. The virtual event c
 | ------ | ------ | ------ |
 | Integrated Marketing Goals | N/A | [video link](https://gitlab.edcast.com/insights/fmm) |
 
+# SKO 2022 Wrap Up
+* [SKO 2022 Wrap Up presentation](https://docs.google.com/presentation/d/1OXMLf3k6YlJSOhQ6qBANNBVXEyumm3sUyB09b0IEFsI/edit?usp=sharing) (public)
+

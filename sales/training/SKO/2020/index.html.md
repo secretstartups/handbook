@@ -49,7 +49,7 @@ In February 2020, the entire sales organization and their supporting teams gathe
 
 
 # SKO 2020 Wrap Up
-* [SKO Wrap Up presentation](https://docs.google.com/presentation/d/1MwJRWCGl-U2qic_h3xHQxGDCUf1s0R23aKEIrXqcXW0/edit?usp=sharing) (public)
+* [SKO 2020 Wrap Up presentation](https://docs.google.com/presentation/d/1MwJRWCGl-U2qic_h3xHQxGDCUf1s0R23aKEIrXqcXW0/edit?usp=sharing) (public)
 * [GitLab FY21 Sales Kickoff Wrap Up and Survey Results](https://youtu.be/_q9M9_nwNy4) video (public) 
 
 # GitLab Infomercial
