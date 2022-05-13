@@ -124,6 +124,10 @@ If you meet these requirements, kindly read our [Relocation](https://about.gitla
 
 If you do not meet one or more of the above requirements, please file a request with your manager and indicate clearly which requirements you meet and which ones you do not meet. All situations will be reviewed on a case by case basis. If you receive full manager approval, please forward that approval to peopleops @gitlab.com at the start of the process. **Manager approval to proceed does not ensure that you will be approved to relocate and immigrate.**
 
+#### Resources
+
+Here is a [document written by a GitLab team member](https://docs.google.com/document/d/1t5-jMIrWBxOJSka42uzPIPUnTLtRObbcQ6qBvTpjYI4/edit?usp=sharing) (internal only) detailing their immigration experience to the Netherlands.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/w_CRpuPwO0o" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
