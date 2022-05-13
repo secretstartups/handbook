@@ -21,31 +21,36 @@ description: "GitLab Data Team MR responsibilities"
 All GitLab data team members can, and are encouraged to, perform code review on merge requests of colleagues and community contributors.
 If you want to review merge requests, you can wait until someone assigns you one, but you are also more than welcome to browse the list of open merge requests and leave any feedback or questions you may have.
 
-Note that while all team members can review all merge requests, the ability to _accept_ merge requests is restricted to maintainers.
+Note that while all team members can review all merge requests, the ability to _accept_ merge requests is restricted to codeowners.
 
-The responsibility of a Reviewer is
+The responsibility of a reviewer is
 
-- to review the technical implementation
-- to ensure the code achieves the business goals
-- to check the data quality of the data models created
+- to review the technical implementation,
+- to ensure the code achieves the business goals,
+- to check the data quality of the data models created.
 
-#### Codeowner
+### Codeowner
 
-Code ownership is a [feature of GitLab](https://gitlab.com/help/user/project/code_owners) that links a project member to specific folders and files in a project. It is meant to answer the questions "who can I ask about this code?" and "who should review changes to this code?".
+Code ownership is a [feature of GitLab](https://gitlab.com/help/user/project/code_owners) that links a project member to specific folders and files in a project. It is meant to answer the questions "who can I ask about this code?" and "who should review changes to this code?".  The goal is to assign 2 or 3 GitLab Team Members (max 4) to a set of folders and files (if possible).
+With not assigning a big group of people to basically all of our code, we hope to define better ownership and drive better code reviews.
 
-Becoming a code owner is part of the journey to becoming a project maintainer. If you are the sole creator of a file, say a new dbt model set, you will be the de facto code owner for those files. If you wish to expand your ownership purview, follow these steps:
+A code owner:
 
+- is the first contact person to answer questions regarding the code,
+- carries the ownership of the quality of the code,
+- carries the ownership of the results that the code produces,
+- performs MR reviews and accepts merge requests.
+
+#### How to become a codeowner
 1. Create an MR to the [CODEOWNERS file](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) with the ownership change you wish to make
-1. Work with the other code owners that already cover the area you wish to join to pair with them on at least 5 MRs that alter the code you wish to be responsible for
-    - The MRs should not reflect only small changes to the code base, but also architectural ones and ones that create a fully functioning addition. It may take more than 5 MRs for this criteria to be reached
-    - You will be the primary reviewer for all MR's assigned to the code owner
-    - You will review the MR's as if you had the power to merge
-    - Once you feel the MR is ready and you would have merged it, assign it to the code owner and comment that you would have merged the MR
-    - The code owner will do a follow up review if necessary and either merge the MR or assign it to a maintainer for you
-    - Document the MR in the original MR you created
-1. Once the 5 MR threshold has been reached, the code owner will work with the applicant's manager to make a decision
-1. If denied, close the MR and work with your manager for a period of no less than 3 months before applying again
-1. If approved, assign the MR to a maintainer to merge. You will automatically be added to the Code Owner approval list once merged
+   - Explain in the MR body why they are ready to take on that responsibility.
+   - Use specific examples of recent MR reviews that they have performed. MRs that introduce very simple changes are good, but should not be the only source of reviews.
+1. Work with the other code owners that already cover the area you wish to join.
+
+Requirements that should be taken into consideration to become a codeowner:
+- You should have an advanced understanding of the particular subject area.
+- The MRs you've written consistently make it through reviewer and maintainer review without significant required changes.
+- The MRs you've reviewed consistently make it through maintainer review without significant additionally required changes.
 
 ### Maintainer
 
@@ -55,8 +60,9 @@ Every data team project has at least one maintainer, but most have multiple, and
 
 The responsibility of a Maintainer is to ensure that
 
-- Data team processes are followed
-- Final review on the MR
+- Data team processes are followed,
+- the MR is not conflichting with the broader Data Team architecture, procedures and processes,
+- final review on the MR.
 
 #### How to become a data team maintainer
 
@@ -64,6 +70,7 @@ We have guidelines for maintainership, but no concrete rules.
 Maintainers should have an advanced understanding of the GitLab Data projects codebases.
 Prior to applying for maintainership of a project, a person should gain a good feel for the codebase, expertise in one or more domains, and deep understanding of our coding standards. You're probably ready to become a maintainer when both of these statements feel true:
 
+1. You are already a codeowner in multiple subject areas
 1. The MRs you've reviewed consistently make it through maintainer review without significant additionally required changes
 1. The MRs you've created consistently make it through reviewer and maintainer review without significant required changes
 
@@ -74,28 +81,14 @@ If those subjective requirements are satisfied, this is the process to add yours
     - Explain why you are ready to take on the maintainer responsibility
     - Explain the scope of your maintainership (entire project, dbt, python, etc.)
     - Recent MR's that you have created and reviewed that you believe show your readiness
-1. Once the issue is created, tag a maintainer who you'd like to be paired with for a formal review
-1. The maintainer will have you pair with them on at least 10 merge requests
-    - The MRs should show a diversity of scope, including architectural changes as well as complete, fully functioning feature releases with changes across many files and directories.
-    - You will be the primary reviewer for these 10 MRs
-    - You will review the MR's as if you had the power to merge
-    - Once you feel the MR is ready and you would have merged it, assign it to the maintainer and comment that you would have merged the MR
-    - The maintainer will do a follow up review if necessary and merge the MR for you
-    - Document the MR in the issue you created
-1. Once the 10 MR threshold has been reached, the maintainer will work with the applicant's manager to make a decision
+1. Once the issue is created, tag all other maintainers
 1. If denied, close the issue and work with your manager for a period of no less than 3 months before applying again
 1. If approved, create a MR to add the maintainership to your team page entry
 1. Assign the MR to your manager and mention the existing maintainers of the relevant project (Infrastructure, Analytics, etc) and area (dbt, Airflow, etc.).
-1. If the existing maintainers of the relevant group e.g., dbt, do not have significant objections, and if at least half of them agree that the reviewer is indeed ready, we've got ourselves a new maintainer!
+1. If the existing maintainers do not have significant objections we've got ourselves a new maintainer!
 1. An owner of the project will increase your privilege on the project
 
 ### Merge Request Workflow
 
-The Data team operates as one team between the Data Analytics team and the Data Platform team. Therefore, we expect for each MR that there are at least three people involved. See the below scenarios:
-
-1. DA authors, DA reviews, DE Maintainer merges
-1. DE authors, DA reviews, Maintainer merges
-1. DE authors, DE reviews, Maintainer merges
-
-Since the Data Platform team is responsible for the Data platform, every MR request should include a Data Engineer.
+Every MR follows the applicable MR template. When a MR is ready for review, assign a code owner for review. When a code owner approves the MR, the MR can be merged by a maintainer. This could be the same person if the code owner is also a maintainer. If not, a maintainer is tagged in the MR, asking for final review and merge. 
  
