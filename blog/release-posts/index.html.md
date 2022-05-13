@@ -1812,12 +1812,12 @@ If you have trouble running the rake task, you can check the following troublesh
 
 ### Resolve merge conflicts in deprecations.md and removals.md
 
-If you rebase the branch of a deprecations or removals MR, there might be multiple merge conflicts in the `removals.md`. Do not resolve individual
+If you rebase the branch of a deprecations or removals MR, there might be multiple merge conflicts in the `deprecations.md` or `removals.md`. Do not resolve individual
 merge conflicts from your IDE. Instead, use the removals rake task to update the file and resolve the merge conflicts.
 
 To resolve merge conflicts:
 
-1. In a branch of a checkout of the `gitlab-org/gitlab` project, run the deprecations or removals Rake task:
+1. In the branch you checked out in the `gitlab-org/gitlab` project, run the deprecations or removals Rake task:
 
    ```sh
    # For deprecations
@@ -1829,14 +1829,14 @@ To resolve merge conflicts:
 
 1. Stage your changes:
 
-  ```sh
-  git add .
+   ```sh
+   git add .
    ```
 
 1. Continue the rebase:
 
-  ```sh
-  git rebase --continue
+   ```sh
+   git rebase --continue
    ```
 
 If you get merge conflicts after you continue the rebase, it's possible that `deprecations.md` or `removals.md` is still out of date with
