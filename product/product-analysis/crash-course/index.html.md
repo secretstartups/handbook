@@ -650,8 +650,8 @@ _Short description of Secure Stage_
 
 ##### Top dashboards referenced by this team
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+[Dynamic Analysis Metrics](https://app.periscopedata.com/app/gitlab/703762/WIP:-Dynamic-Analysis-metrics)
+_PIs and metrics for the Secure:Dynamic Analysis Group_
 
 [Link to a dashboard]()
 _Group specification if applicable, brief description of dashboard and how it's used_
