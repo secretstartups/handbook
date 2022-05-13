@@ -291,6 +291,10 @@ There are set locations options in Greenhouse to make this possible. Recruiters 
 
 If you have a job that needs to show up in a different subset of countries, you can choose the most appropriate location tag and manually adjust the countries where that job shows up by following the instructions under the "Publishing jobs to LinkedIn" section.
 
+### Adding additional job posting rules for LinkedIn postings
+
+If you need additional rules set for a job post or set of posts on LinkedIn you can assign your own rules by (following these steps)[https://www.linkedin.com/help/recruiter/answer/a413382].
+
 
 ### Publishing jobs to LinkedIn
 
