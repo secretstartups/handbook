@@ -68,35 +68,39 @@ So let's chat about some of the common challenges for neurodivergent people in t
 
 #### Personalisation 
 
-* Personalisation of communication & management styles 
+##### Personalisation of communication & management styles 
 
 The key to becoming a workplace that is built for all team members is to ensure that how you operate with all team members is from a personal perspective. It is easy to have one way of doing things, whether that is how you communicate with colleagues, manage team members, how you deliver feedback and much more. 
 
 Unfortunately, those modes are not going to work for everyone, each person has different needs and this is especially true for neurodivergent team members. As we saw, there are several potential challenges that neurodivergent people can face. To combat those challenges we should be asking questions of all team members regardless of whether they are neurodiverse when we are working closely with them or managing them. We do this so those team members who do not want to disclose they have a neurodiversity, people who are undiagnosed and more generally trying to make a workplace that is inclusive so all team members can thrive. Some examples could be. 
 
-    1. What is your preferred work, learning & communication style? 
+**1. What is your preferred work, learning & communication style?**
 
 Answers could be for example: 
-    * Written information over verbal/video
-    * Structured work weeks and clear goals 
-    * Clear agendas and no surprise meetings 
-    * I am direct and to the point. 
-    * I tend to talk to think and can go on tangents. I am open to being told that I am running off-topic. 
 
-    2. How do you like to receive feedback on your performance both constructive and positive?
-Answers could be for example: 
-    1. I like to receive feedback written and then have a discussion about it.
-    2. I like to receive all feedback verbally first and then discuss in real-time. 
+* Written information over verbal/video
+* Structured work weeks and clear goals 
+* Clear agendas and no surprise meetings 
+* I am direct and to the point. 
+* I tend to talk to think and can go on tangents. I am open to being told that I am running off-topic. 
 
-You can also challenge yourself to ensure you are being clear about your intentions to ensure your intentions are not missed. Some team members may thrive in heated discussions and debates and not need assurances afterwards. Some team members could be in the exact same conversation but find it very stressful. Do not assume everyone's emotional response in a meeting or situation is the same. For example, you could assure all team members by saying something like
+**2. How do you like to receive feedback on your performance both constructive and positive?**
 
-    * I wanted to let everyone know that we have great actions to move forward and I know that debates like this can be stressful. I would like to remind everyone of our sub-value to disagree, commit and disagree. We are good to move forward, thank you everyone for the discussion. 
+Answers could be for example:
+
+* I like to receive feedback written and then have a discussion about it.
+* I like to receive all feedback verbally first and then discuss in real-time. 
+
+You can also challenge yourself to ensure you are being clear about your intentions to ensure your intentions are not missed. Some team members may thrive in heated discussions and debates and not need assurances afterwards. Some team members could be in the exact same conversation but find it very stressful. Do not assume everyone's emotional response in a meeting or situation is the same. For example, you could assure all team members by saying something like:
+
+* I wanted to let everyone know that we have great actions to move forward and I know that debates like this can be stressful.
+* I would like to remind everyone of our sub-value to disagree, commit and disagree. We are good to move forward, thank you everyone for the discussion. 
     
 Servant leadership is very important when building an environment where neurodiversity can thrive and is described in the handbook as one of the important things in being a remote manager. It is also important when thinking about how to cultivate an inclusive environment. You will have to adjust your management style for all your team members to ensure that you set all team members up for success. Asking the questions above will allow you to apply the principles of servant leadership more effectively such as building trust, operating with empathy, growing team members and actively listening. 
 
 #### Bias & Perception
 
-**Challenging your bias & perceptions**
+##### Challenging your bias & perceptions
 
 If you haven’t already read through our handbook page on unconscious bias and also read or taken the psychological safety short course. Everyone has bias and it is about recognising and challenging your bias which can inform your perceptions.
 
@@ -104,7 +108,7 @@ People who are neurodivergent can miss social cues or not provide certain social
 
 #### Our Team Members 
 
-, you will read real transcripts from team members who are Neurodivergent, talking about their experience, how they work at GitLab and some of the accommodations they have made in the workplace. You will see how each individual is different and there isn't a one size fits all approach. I'd like to thank all the participants for their openness and vulnerability which will no doubt help GitLab Team Members understand the intricacies of neurodiversity. 
+You will read real transcripts from team members who are Neurodivergent, talking about their experience, how they work at GitLab and some of the accommodations they have made in the workplace. You will see how each individual is different and there isn't a one size fits all approach. I'd like to thank all the participants for their openness and vulnerability which will no doubt help GitLab Team Members understand the intricacies of neurodiversity. 
 
 [Kaitlyn Chappell](https://docs.google.com/document/d/14IXQimwsBqf8ppI3mtmDE2Ts9yhxqUCYAOKQgXRLlhE/edit?usp=sharing)
 
