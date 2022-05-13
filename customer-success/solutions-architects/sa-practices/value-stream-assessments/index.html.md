@@ -74,6 +74,17 @@ Focusing on the goals and benefits listed above, the time required to complete a
 
 ### Prepare
 
+#### VSA Tracking Issue
+
+The **very first step** when considering a Value Stream Assessment is to notify the VSA team of the intent, and provide as much information as possible regarding the prospect/customer. To do so:
+
+- Please create a new issue in [value stream assessment project] (https://gitlab.com/gitlab-com/customer-success/value-stream-assessment)
+- Use the template labeled `request_value_stream_assessment`
+
+This gives the VSA team at GitLab the ability to both track the progress of the VSA and allocate team members to the effort, a key requirement for the next preparation steps.
+
+#### Internal Preparation Meeting
+
 It is extremely important to have an internal preparation meeting(can be async) prior to pitching VSA to the customer. The goal of the meeting is to be able to discuss:
 - The opportunity (should include SFDC link)
 - The key players & their roles
@@ -83,11 +94,6 @@ It is extremely important to have an internal preparation meeting(can be async) 
 - Pick key slides to deliver to customer
 - Pick key discovery questions to be asked during pitch & customer planning session
 - Important chorus recordings to review
-
-The account team should share as much info as possible regarding the above questions using the steps below :
-
-- Please create a new issue in [value stream assessment project] (https://gitlab.com/gitlab-com/customer-success/value-stream-assessment)
-- Use the template labeled request_value_stream_assessment
 
 ### Pitch
 
