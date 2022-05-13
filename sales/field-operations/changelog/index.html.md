@@ -16,12 +16,15 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q2-FY23
 
+
 ### 2022-05-02 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/111))
 
 
 **Sales Ops: [Quarterly Review - Account & Opp Ownership Updates](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2914)**
 
-**Deal Desk | Order Management: [Quarterly CSAT Survey](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#2-regional-support-satisfaction)**
+**Sales Ops: [Forecasting Updates in Clari](https://internal-handbook.gitlab.io/sales/sales-forecasting/)**
+
+**Deal Desk & Order Management: [Quarterly CSAT Survey](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#2-regional-support-satisfaction)**
 
 
 ## Q1-FY23
