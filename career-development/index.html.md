@@ -97,7 +97,7 @@ An [Acting Manager](/handbook/people-group/promotions-transfers/#acting) is some
 
 When a team member is pursuing a people manager role (Level Manager+) long term we apply an interim period in the following instances:
 
-| Current level      | Desired level  | Previous Management experience (6+ months) | Application of interim period |
+| Current level      | Desired level  | Previous Management experience (3+ months) | Application of interim period |
 |--------------------|----------------|--------------------------------------------|-------------------------------|
 | Senior             | Manager        | No                                         | Yes                           |
 |                    |                | Yes                                        | Yes                           |
@@ -108,7 +108,7 @@ When a team member is pursuing a people manager role (Level Manager+) long term 
 | Manager/Sr Manager | Director       | No (managing managers)                     | Yes                           |
 |                    |                | Yes (managing managers)                    | No                            |
 
-_Note that `previous management experience` can be management experience in a previous organization, or management experience at GitLab. ["Acting"](/handbook/people-group/promotions-transfers/#acting) role management experience at GitLab can also count towards the 6 month threshold._
+_Note that `previous management experience` can be management experience in a previous organization, or management experience at GitLab. ["Acting"](/handbook/people-group/promotions-transfers/#acting) role management experience at GitLab can also count towards the 3 month threshold if that acting role was similar in scope and influence as the interim period would have been as evaluated by the hiring manager._
 
 ##### Exceptions
 
