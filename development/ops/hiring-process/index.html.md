@@ -28,6 +28,7 @@ The process for Ops is a mix of the current [hiring manager (HM) tasks](/handboo
 1.  Create a separate kickoff issue for each req you are hiring (each unique GHID).  For identical roles, one kickoff issue can just be a link to another, but having a separate issue for each req is valuable for tracking purposes.
 1. Include label ~section::ops to the kickoff issue so we can track in [this board](https://gitlab.com/gl-talent-acquisition/req-intake/-/boards/3516477?label_name[]=section%3A%3Aops) (confidential) and use it as the single source of truth (SSOT)
 1. [Complete Kickoff](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-2hm-complete-kick-off)
+1. Add the new vacancy to the handbook https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/vacancy
 
 ### Step 3. Setup job in Greenhouse
 1. Work with TA to [open the vacancy in Greenhouse](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse-dri-recruiter)
