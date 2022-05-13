@@ -645,6 +645,8 @@ See [Working with Professional Services](/handbook/customer-success/professional
 
 ##### Steps for creating a Professional Services opportunity in SFDC
 
+_Here is [a video](https://drive.google.com/file/d/142csIZyrzIfSJOSJkIAK6d9c1JwTO_Rq/view?usp=sharing) explaining the below process._
+
 1. Navigate to the _original_ OPPORTUNITY (this will become the "parent" opp).
 1. Click the "New PS Opportunity" button and fill out the following:
     - OPPORTUNITY Name = will already be set correctly; do not change
@@ -658,7 +660,7 @@ See [Working with Professional Services](/handbook/customer-success/professional
     - Professional Services Description, Project Scope, Task Schedule and Key Assumption fields = these will push to the Statement of Work when a PDF is generated from Zuora.
     - Verify the `Professional Services` OPPORTUNITY has the _original_ OPPORTUNITY in the `Parent Opportunity` field. If this is not a validation rule error will occur while attempting to save the OPPORTUNITY.
 1. Click `Save`
-1. To create a quote, see the ['Creating Accounts, Contacts, Opportunities and Quotes'](/handbook/sales/#creating-accounts-contacts-opportunities-and-quotes-in-salesforce) and begin with Step 4. Here is a [video](https://drive.google.com/file/d/142csIZyrzIfSJOSJkIAK6d9c1JwTO_Rq/view?usp=sharing) that hightlights the process.
+1. To create a quote, see the [Creating Quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-professional-services) Deal Desk page. 
 
 #### How to Share an Opportunity
 1.  On the Opportunity record in SFDC that you want to share, navigate to the `Opportunity Teams` section and click the `Add` button.
