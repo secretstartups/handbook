@@ -652,7 +652,7 @@ When initiating a project the Channel Team needs to be engaged in each part of t
 Diagram 1:
 
 
-<div align= "center"><img src="/images/resellers/project-charlies-angels.png" width="" alt="Channel Program Engagement Process" title="image_tooltip"></div>
+<div align= "center"><img src="/images/channel-program-ops/project-charlies-angels.png" width="" alt="Channel Program Engagement Process" title="image_tooltip"></div>
 
 <br>Once approved we are ready to begin with engagement with Partner Marketing, Partner Enablement, and the [Partner Communication process](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-communications).
 
@@ -725,7 +725,7 @@ Table 1:
 
 ## **Partner Enablement Tools**
 The Channel Programs and Enablement team is responsible for the maintence and management of enablement tools used to support the GitLab Partner ecosystem. The three main tools that we use are: Highspot, ImParnter(Partner Portal), and EdCast. Please reference the chart below to determine where an enablement asset should reside. 
-<div align= "center"><img src="sites/handbook/source/handbook/sales/channel/images/Partner-Enablement-Tools.png" width="" alt="Partner Enablement Tools" title="image_tooltip"></div>
+<div align= "center"><img src="/images/channel-program-ops/Partner-Enablement-Tools.png" width="" alt="Partner Enablement Tools" title="image_tooltip"></div>
 
 ## **Partner Communications**
  
