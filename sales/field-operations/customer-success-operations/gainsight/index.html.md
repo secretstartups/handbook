@@ -118,6 +118,14 @@ Below are the Gainsight bundles (permission sets) and relevant access categories
 
 </details>
 
+### Page Layouts
+C360 page layouts allow us to hide or display different C360 views to users in Gainsight. We currently have three main page layouts:
+- Default Layout: The default layout for TAMs and non-SALs. The TAM field is displayed but not editable.
+- TAM Edit Layout: An exact copy of the default layout except the TAM field is editable.
+   - This is assigned to users where the `TAM Edit?` field on the User object = Yes
+- Account planning: Layout specifically for Sales/SALs for account planning.
+   - This is assigned to users where the `Page Layout` field on the User object = Account Planning
+
 ## Data permissions
 
 The purpose of data permissions is to give users access to specific records rather than sections of Gainsight, which is what bundle permissions do. We use data permissions to protect PubSec data.
