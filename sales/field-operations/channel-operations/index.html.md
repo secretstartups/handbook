@@ -23,10 +23,11 @@ New partner program changes are effective on August 15, 2021. Please visit the [
  
 ## Meet the Team
 ### Who We Are
-- Colleen Farris - Director, Channel Operations
+- Colleen Farris - Senior Director, Channel and Alliance Operations
 - Niles Jamshaid - Manager, Partner Operations
 - Dennis Zeissner - Partner Operations Analyst
 - Aura Villalobos - Partner Operations Analyst
+- Nick Scala - Director, Channel Operations
 - Bhano Pippala - Channel Operations Specialist
 
 ### How to Contact Us
