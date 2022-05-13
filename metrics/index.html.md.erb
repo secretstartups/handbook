@@ -170,7 +170,7 @@ The 3 types (Bug, Feature & Maintenance) is key to our report to industry analys
   - `~"bug::availability"`: Defects related to GitLab SaaS availability
   - `~"bug::vulnerability"`: Defects related to Security Vulnerabilities
   - `~"bug::mobile"`: Defects encountered on Mobile Devices
-1. `~"type::feature"`: Effort to deliver new and improve existing GitLab features. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
+1. `~"type::feature"`: Effort to deliver new features, feature changes & improvements. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
   - `~"feature::addition"`: The first MVC that gives GitLab users a foundation of new capabilities that were previously unavailable. Includes [good user value, usability, and tests](/blog/2021/12/01/dont-confuse-these-twelve-shortcuts-with-iteration/). For example, these issues together helped create the first MVC for our Reviewer feature: [Create a Reviewers sidebar widget](https://gitlab.com/gitlab-org/gitlab/-/issues/237921), [Show which reviewers have commented on an MR](https://gitlab.com/gitlab-org/gitlab/-/issues/10294), [Add reviewers to MR form](https://gitlab.com/gitlab-org/gitlab/-/issues/216054), [Increase MR counter on navbar when user is designated as reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/255102)
   - `~"feature::enhancement"`: Subsequent user-facing improvements that refine the initial MVC by adding additional capabilities that make it more useful. Includes [good user value, usability, and tests](/blog/2021/12/01/dont-confuse-these-twelve-shortcuts-with-iteration/). For example, these issues enhance the existing Reviewer feature: [Show MRs where user is designated as a Reviewer on the MR list page](https://gitlab.com/gitlab-org/gitlab/-/issues/237922), [Display which approval rules match a given reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/233736), [Add Reviewers quick action](https://gitlab.com/gitlab-org/gitlab/-/issues/241244)
   - `~"feature::consolidation"`: Merging a feature into an existing feature for simplification. For example, [Workspace project: (Consolidate Groups and Projects)](https://gitlab.com/groups/gitlab-org/-/epics/6473) and [Combine Top Navigation Menu](https://gitlab.com/groups/gitlab-org/-/epics/5645) are good examples of such work.
@@ -185,6 +185,8 @@ The 3 types (Bug, Feature & Maintenance) is key to our report to industry analys
 
 If these labels are missing, it will be tracked in the `undefined` bucket instead.
 The Engineering Manager for each team is ultimately responsible for ensuring that these labels are set correctly.
+
+Classifying work types may require context. All work to deliver a feature with security, performance and quality meeting the [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#mr-merge) should be classified as feature work. For example if you are anticipating the performance needs of a feature and implement an application limit as part of the introduction of that feature it should be classified as `feature:addition`. If you discovered an issue scaling an existing feature and implemented an application limit that issue would likely start as a bug and the associated MR would be classified as `bug:performance`.
 
 ### Spike work
 
