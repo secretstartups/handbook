@@ -33,7 +33,7 @@ This video covers:
 
 [This video](https://youtu.be/aQl001ka3Y4) walks you through moving the location of a handbook page. There is a 1 min delay, so recommend starting the video at 1:03 for efficient viewing. We have seen that it may take over 24 hours for the move to completely take place, so even after the pipeline passes, you may still have an instance where the origial link AND the new link both still work. 
 
-Keep in mind that if you have links throught the handbook that link to your old page, you will need to update those links so you don't receive a 400 error. 
+Keep in mind that if there are links throughout the handbook that link to the old page, you will need to update those links so people don't receive a 400 error when clicking on those links.
 
 You may also request a redirect. That process is [outlined here](/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect). 
 
