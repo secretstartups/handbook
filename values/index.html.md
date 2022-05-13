@@ -422,7 +422,7 @@ It's important that we keep our focus on action, and don't fall into the trap of
 Everything can be questioned, but as long as a decision is in place, we expect people to commit to executing it. Any past decisions and guidelines are open to questioning as long as you act in accordance with them until they are changed. This is [a common principle](https://ryanestis.com/leadership/disagree-and-commit-to-get-things-done/).
 Every decision can be changed;
 our [best decision was one that changed an earlier one](https://youtu.be/4BIsON95fl8?t=2034).
-In a manager-report circumstance, usually the report is the DRI.
+In a manager-report circumstance, usually the report is the directly responsible individual (DRI).
 The manager may disagree with the final decision, but they still commit to the decision of the DRI.
 
 In a group setting, participants may disagree with a proposal but not articulate their views for one reason or another. As a result, everyone loses out on their feedback. [Dissent](https://en.wikipedia.org/wiki/Dissent) is expression of that disagreement. However, it can be difficult and even socially expensive.
