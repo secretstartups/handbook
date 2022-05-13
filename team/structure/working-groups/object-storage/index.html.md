@@ -131,7 +131,7 @@ The overarching goal should be to define improvements that can be made with the 
     - [Requirements for a the new Object Storage architecture](https://gitlab.com/gitlab-org/gitlab/-/issues/345256)
     - [Proposal: unified blob storage](https://gitlab.com/gitlab-org/gitlab/-/issues/356035)
     - [Object Storage: storing attachments without carrierwave](https://gitlab.com/gitlab-org/gitlab/-/issues/348959)
-- Prototype individual aspects of it by exploring both new technology such as ActiveStorage, or by reworking
+- Prototype individual aspects of the proposed architecture by exploring both new technology such as ActiveStorage, or by reworking
   existing code.
     - [Document and refactor Workhorse upload routines](https://gitlab.com/gitlab-org/gitlab/-/issues/351657)
     - [POC: single authorization endpoint](https://gitlab.com/gitlab-org/gitlab/-/issues/351650)
