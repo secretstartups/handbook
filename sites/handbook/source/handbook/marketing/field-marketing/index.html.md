@@ -507,7 +507,6 @@ Please note that due to PII compliancy, addresses collected in Marketo landing p
 - FMM and FMC to follow the [Process for Issues Moving from Plan to WIP](/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip).
 - FMC to add all copy deadlines or link the write copy issue to main event issue under the `Copy Deadline` section.
 - FMM to update Copy Document file with copy and keep the Copy Document linked in the epic. Sample Copy Templates in the [Event Support Folder](https://drive.google.com/drive/folders/1S-4PVueBj7FPAE9fB-IKz_Bbuz17rPtH).
-- When a follow up email is requested, FMC to update the [ISR/SDR FM Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/ISR_SDR_FMTemplate.md) by linking the follow up email issue in the `Follow up: planned from Field Marketing` section.
 - Once FMM completes copy, they will update the [FM copy issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) that copy has been completed and ping the FMC.
 - One (1) business day before copy is due, FMC to ping FMM in [FM copy issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) with copy reminder.
 - FMC will make sure copy has been provided or continue to remind the FMM, if needed.
