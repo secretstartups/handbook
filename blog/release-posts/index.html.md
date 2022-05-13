@@ -24,7 +24,7 @@ Release posts follow a process outlined here, and the templates that are used to
 ### Related pages
 
 - [GitLab the product](https://about.gitlab.com/handbook/product/gitlab-the-product/#gitlab-the-product)
-- [General guidance on deprecations, remvoals and breaking changes](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features)
+- [General guidance on deprecations, removals and breaking changes](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features)
 - [Release Post volunteer schedule](managers/)
 - [Security and monthly releases](/releases/categories/releases/)
 - [Features per release](/releases/)
@@ -213,9 +213,9 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 - Creating the What's New MR and working with the VP of Product to identify what to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users)
 - Sending out reminders about upcoming due dates
 - Merging the release post MR on the 22nd and ensuring the release post page goes live
-- Collecting feedback in the release post retrospective issue during the release post not just for your own challenges, but other team members chanllenges as they pop on Slack and other places
+- Collecting feedback in the release post retrospective issue during the release post not just for your own challenges, but other team members challenges as they pop on Slack and other places
   - Doing a sync retro with the Technical Writer, the Technical Advisor, the Release Post Manager Shadow, and the Product Operations DRI sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve the process and update the handbook/MRs
-  - Making sure all the action of the retroscpective issue are completed and the issue closed before the next [release post automation task runs on the 3rd](#release-post-branch-creation-rake-task)
+  - Making sure all the action of the retrospective issue are completed and the issue closed before the next [release post automation task runs on the 3rd](#release-post-branch-creation-rake-task)
 
 ### Other key tasks
 
@@ -253,7 +253,7 @@ If you have not been assigned to a Release Post X.Y MR by the end of the day on 
 **Note**: You should not use the default system installed Ruby but should install a Ruby version manager like [RVM](https://rvm.io/rubies/installing), [Rbenv](https://github.com/rbenv/rbenv#installing-ruby-versions), or [asdf](https://github.com/asdf-vm/asdf-ruby) to manage your Ruby installation. See handbook guidance on [installing a Ruby version manager](https://about.gitlab.com/handbook/git-page-update/) and other requirements. Reach out for help if needed.
 {:.alert .alert-info}
 
-Prior to running the content assembly script (described in the next section), the release post manager should confirm their local dev environment is running a current version of Ruby and its dependencies are updated. Doing this early on in the process is recommended as, sometimes, updates to the www-gitlab-com project or the content assembly script could cause your Ruby version or Ruby libraries (gems) to be outdated. If unknown errors arise during this verifcation, reach out to [the release post DRI](https://gitlab.com/fseifoddini) for advisement.
+Prior to running the content assembly script (described in the next section), the release post manager should confirm their local dev environment is running a current version of Ruby and its dependencies are updated. Doing this early on in the process is recommended as, sometimes, updates to the www-gitlab-com project or the content assembly script could cause your Ruby version or Ruby libraries (gems) to be outdated. If unknown errors arise during this verification, reach out to [the release post DRI](https://gitlab.com/fseifoddini) for advisement.
 
 1. Open a terminal window and run `./bin/doctor` and follow the prompts to resolve any errors. See also [demo video](https://youtu.be/zYK1JA8VMbI) of the doctor script.
 1. Once Ruby and all dependencies are updated, then you can proceed with content assembly of the release post.
@@ -310,7 +310,7 @@ Sometimes `bin/release-post-assemble` may fail if there is a Ruby version update
 
 The release post manager, the Technical Advisor, the Product Operations DRI, the Technical Writer, and PMM Lead will need to communicate about topics that are related to the release post but not relevant to the broader team, these chats should occur in Slack `#X-Y-release-post-prep` channel in Slack, to minimize distractions and unnecessary notifications for the broader team in Slack #release-post.
 
-The release post manager posts in Slack channels most frequently with reminders. As such, if the release post manager is seeking guidance on how to phrase certain posts, it's recommended to scroll to the appropximate date that post would have been made by the previous release post manager in the relevant Slack channel. However, here are some best practices and an example:
+The release post manager posts in Slack channels most frequently with reminders. As such, if the release post manager is seeking guidance on how to phrase certain posts, it's recommended to scroll to the approximate date that post would have been made by the previous release post manager in the relevant Slack channel. However, here are some best practices and an example:
 
 - Make a clear, descriptive statement of what's being shared and why
 - If you need someone to take an action, say so explicitly and tag that person
@@ -362,7 +362,7 @@ After the Review App for the release post has been generated, the Release Post M
 
 It is the Release Post Manager's responsibility to make sure all content is completed by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
 
-**NOTE:** To the extent possible, we strive to use [GitLab's Community Code Review Guidlines](https://docs.gitlab.com/ee/development/code_review.html#getting-your-merge-request-reviewed-approved-and-merged) when performing Release Post content review.
+**NOTE:** To the extent possible, we strive to use [GitLab's Community Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html#getting-your-merge-request-reviewed-approved-and-merged) when performing Release Post content review.
 
 #### What RPM should look for when reviewing content blocks
 
@@ -642,7 +642,7 @@ The TW Lead is responsible for a final review of:
 - [Frontmatter check](#frontmatter)
 - [Bugs](#bugs-mr)
 - [Performance improvements](#performance-improvements-mr)
-- [Usablity improvements](#usability-improvements-mr)
+- [Usability improvements](#usability-improvements-mr)
 - [MVP check](#mvp-entry)
 - Verifying the deprecations and removals sections in the release post link to GitLab the corresponding pages in GitLab Docs.
 - [Releasing the next version of the documentation](#versioned-documentation-release)
@@ -896,7 +896,7 @@ What we have seen with previous challenges during the Release Post Assembly stag
 - Consider running ./bin/doctor and review the output
 - Reference the [list of previous problems](#possible-script-errors-with-corrective-actions)
 
-Following your best judgement with the resolution of the incdient, record the diagnosis and the steps taken to resolve so that we can improve the release post process and our preparedness. Deposit this info in a new issue or as part of the current release post retrospective.
+Following your best judgement with the resolution of the incident, record the diagnosis and the steps taken to resolve so that we can improve the release post process and our preparedness. Deposit this info in a new issue or as part of the current release post retrospective.
 
 ## Getting help during the Release Post Deployment
 
@@ -924,7 +924,7 @@ Due to the time-sensitive nature of both key Release Post actions, assembly and 
 
 ### The Role of the Technical Advisor
 
-The introduction of the technical advisor role is meant to be a coordinating role responding to blockers that occur along the way. They may work alone or in tadem with other volunteers to resolve the blocker as they see fit. They are also responsible for clearing the blocker, assembly of others, delegating response tasks including engaging in dev escalation.
+The introduction of the technical advisor role is meant to be a coordinating role responding to blockers that occur along the way. They may work alone or in tandem with other volunteers to resolve the blocker as they see fit. They are also responsible for clearing the blocker, assembly of others, delegating response tasks including engaging in dev escalation.
 
 ### Ownership, Positive Control, and Intent
 
@@ -1179,7 +1179,7 @@ It is a required field.
   - [`monitor`](/stages-devops-lifecycle/monitor/)
   - [`secure`](/stages-devops-lifecycle/secure/)
   - [`protect`](/stages-devops-lifecycle/protect/)
-  - [`enablement`](/handbook/product/categories/#enablement-stage).
+  - [`enablement`](/handbook/product/categories/#enablement-stage)
 
 The stages display as an icon next to the product tiers' badges linking
 to the stage webpage using a regex:
@@ -1901,6 +1901,6 @@ The What's New MR will be initiated by the Release Post Manager on the 20th, fin
 1. Add labels  ~"documentation" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for.
 1. Apply the affiliated release `milestone` (it's ok if it says "expired") and labels `whats new` and `release post`.
 1. On the 20th, when the MR is ready for review, assign to Product Operations DRIs `@fseifoddni` `@brhea` and VP Product `@david` as Reviewers and `@mention` them in the MR to complete their review by the 21st.
-1. After the release post is live and you have verified the images load locally in GDK by pulling down the What's New branch, have the MR reviewed following our standard [code review process](https://docs.gitlab.com/ee/development/code_review.html) and have it merged by a `maintainer`. It is recommended to communicate directly to the maintainer that the MR is time sensitive to avoid unecessary delays.
+1. After the release post is live and you have verified the images load locally in GDK by pulling down the What's New branch, have the MR reviewed following our standard [code review process](https://docs.gitlab.com/ee/development/code_review.html) and have it merged by a `maintainer`. It is recommended to communicate directly to the maintainer that the MR is time sensitive to avoid unnecessary delays.
 
 **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display.** After the release post is live, but before merging, the branch should be checked out and the content checked in GDK to make sure that all images are displaying, links are accurate, and that the What's New items are part of the final release post. Only once those are confirmed should the MR be merged. Typically this means the What's New content will be live on the 23rd or 24th, depending on maintainer reviews.
