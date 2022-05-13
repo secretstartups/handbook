@@ -675,17 +675,28 @@ We have created [tools and tips for managing your time off](/handbook/paid-time-
 
 #### GitLab Team Meetings Calendar
 
-The GitLab Team Meetings Calendar is available to all team members and can be found in your calendars list.
+The GitLab Team Meetings Calendar is available to all team members and can be found in your calendars list after it's added. To add the GitLab Team Meetings Calendar to your list of calendars:
+
+1. Go to [your calendar](https://calendar.google.com/)
+1. Scroll the left sidebar down to `Other calendars`
+1. Press on `+`
+1. Select `Subscribe to calendar`
+1. Enter in the search field `gitlab.com_6ekbk8ffqnkus3qpj9o26rqejg@group.calendar.google.com` and then press enter on your keyboard
+
+Please reach out to a People Experience Associate if you have any questions. NOTE: Please do NOT remove any meetings from this calendar or any other shared calendars, as it removes the event from everyone's calendar.
+
 You can find the details for the Company Calls, Group Conversations, 101s, and other teams' meetings here, so you can attend a different team's meeting and ask questions, learn about what they're working on, and get to know the rest of the GitLab Departments and teams.
+
 These meetings are open to everyone in GitLab.
+
 If you are creating a new team meeting, please copy it to the GitLab Team Meetings calendar, and reach out to the People Experience team by pinging `@people_exp` in the `#people-connect` Slack channel with any questions or requests.
 Please reach out to the People Experience team for any requests and changes to the GitLab Team Meetings calendar.
 
 To add an event to this calendar:
 
-1. Create your calendar invite.
-1. Add your zoom link.
-1. Add agenda.
+1. Create your calendar invite
+1. Add your zoom link
+1. Add agenda
 1. Under Add Guests, add `Gitlab Team Meetings` in addition to anyone else you want invited (if you want the entire company invited please use everyone@)
 
 #### Managing invite responses
