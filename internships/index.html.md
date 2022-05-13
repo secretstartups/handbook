@@ -57,10 +57,16 @@ The process for opening an intern requisition would be as follows:
 1. Before hiring, during the internship, and when potentially transitioning to full-time the DRI (manager) is responsible for aligning communication with the stakeholders.
 
 ## Candidate qualifying criteria
+### Required
 The following criteria are considered required for candidates to be eligible for Engineering Internship positions:
-1. Contributor to open source projects
+1. First job in the tech industry, new graduate, or returning to the workforce
 1. Available full-time during the internship
 1. Able and willing to acclimate to, and operate in, an [all-remote environment](/company/culture/all-remote/getting-started/)
+
+### Nice to have
+Preference given to candidates with proven experience 
+1. Contributing to open source projects
+1. Working with the GitLab product as a user or contributor
 
 As an example of an intern position in our job families please review the [Software Engineering Intern job family](/job-families/engineering/software-engineer-intern/) for further details.
 
