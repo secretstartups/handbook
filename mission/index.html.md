@@ -59,7 +59,7 @@ Our mission guides our path, and we live our [values](/handbook/values/){:data-g
 
 Everyone can contribute to digital products with GitLab, to GitLab itself, and to our organization.
 There are three ways you can Contribute,
-1.   [Everyone can contribute with GitLab](/company/strategy/#contribute-with-gitlab){:data-ga-name="contribute with gitlab"}{:data-ga-location="body"}
+1.   [Everyone can contribute with GitLab](/company/mission/#contribute-with-gitlab){:data-ga-name="contribute with gitlab"}{:data-ga-location="body"}
 1.   [Everyone can contribute to GitLab, the application](/company/mission/#contribute-to-gitlab-application){:data-ga-name="contribute with the application"}{:data-ga-location="body"}
 1.   [Everyone can contribute to GitLab, the company](/company/mission/#contribute-to-gitlab-company){:data-ga-name="contribute with the company"}{:data-ga-location="body"}
 
