@@ -77,19 +77,38 @@ Steps to uplevel triaging process:
 1. Triager should direct GitLab team member to the channel description, which has links to the various Data Program Projects, if the request requires more than 5 minutes of investigative effort from a Data Program team member.
 
 A team member who is off, on vacation, or working on a high priority project is responsible for finding coverage and communicating to the team who is taking over their coverage;
-this should be updated on the [Data Program's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). To avoid putting the _Monday workload_ on the same shoulders every week again, the Data Engineers will will rotate/exchange every now and then triage days in good collaboration on an ad-hoc basis.
+this should be updated on the [Data Program's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). To avoid putting the _Monday workload_ on the same shoulders every week again, the Data Platform Team will rotate/exchange every now and then triage days in good collaboration on an ad-hoc basis.
 
 Having dedicated triagers on the team helps address the bystander affect. The schedule shares clear daily ownership information but is not an on-call position. Through clear ownership, we create room for everyone else on the team to spend most of the day around deep work. The triager is encouraged to plan their day for the kind of work that can be accomplished successfully with this additional demand on time.
+
+#### Triage responsibilites 
 
 Data triagers are the first responders to requests and problems for the Data Program.
 
 - The Data Analyst triager is primarily responsible for responding to GitLab team member requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data**.
 - The Functional Analyst triager is primarily responsible for responding to GitLab team member requests via slack in **#data**.
-- The Data Engineer triager is primarily responsible for resolving problems with our data platform, which will either be in the **#analytics-pipelines** slack channel or on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=DE%20Triage%20Errors).
+- The Data Engineer triager is primarily responsible for resolving problems with our data platform, which will either be in the **#data-pipelines** slack channel or on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Triage%20Errors%20DE).
     - During the assigned triage day the Data Engineer should be primarily focused on active issues or the issues on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859).
-- The Analytics Engineer triager is primarily responsbile for resolving `dbt-test` and `dbt-run` errors. Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=DE%20Triage%20Errors). Time permitting and as a secondary responsbility, the Analytics Engineer triager is responsible for responding to GitLab team member requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data** 
-- The Data Analyst and Data Engineer triagers are secondarily responsible for platform problems and GitLab team member requests respectively.
+- The Analytics Engineer triager is primarily responsbile for resolving `dbt-test` and `dbt-run` errors. Issues created from these errors should use the [AE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Triage%20Errors%20AE).
 - For more information on responsibilities of a triager watch the [Data Engineer triage training session video](https://www.youtube.com/watch?v=0eGpgaQgEGg).
+
+```
+Data Analysts
+- Respond to #data questions and assign to right Triage group
+- Respond to new unassigned issues in our project and assign to the right team
+
+Data Engineers:
+- Respond to Data infrastructural incidents
+- Respond to broken data pipelines
+- Respond to data freshness issues
+- Respond to broken dags (except for dbt issues, see next)
+
+Analytics Engineers:
+- Respond to errors in dbt models
+- Respond to dbt test failures
+```
+
+### How to Complete Data Triage
 
 For issue triaging, the triager should add the appropriate labels to the issue to put the issue into the respective project's workflow. It is not the responsibility of the triager to validate the issue and determine any root causes or solutions. Rather, for the Data Team project for example, the triager should add the appropriate scoped TEAM label (Ex.`Team:GTM`) and the scoped `Workflow::triage` label. From there, those issues are then put into the respective team's workflow.
 
@@ -100,15 +119,13 @@ The Triager:
 - should cc (mention) other team members who are subject matter experts (SME) or [functional DRIs](/handbook/business-technology/data-team/#-team-organization) for their feedback
 - should document any issues stumbled upon and help to disseminate knowledge amongst all team members
 
-### How to Complete Data Triage
-
 The Central Data Team triager will create [an issue in the Data Team project](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=&issuable_template=Data%20Triage). Task and duties are stated in the issue template. 
 
 [Read](/handbook/business-technology/data-team/how-we-work/triage/) the FAQ and common issues.
 
 ### Incident
 
-The Data Team follows the [incident definition](/handbook/engineering/infrastructure/incident-managemen) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status. 
+The Data Team follows the [incident definition](/handbook/engineering/infrastructure/incident-management) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status. 
  
 Service degradation or outages in data can be seen as:
 - Data is not available
