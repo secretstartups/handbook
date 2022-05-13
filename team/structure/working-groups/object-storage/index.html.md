@@ -148,6 +148,37 @@ The overarching goal should be to define improvements that can be made with the 
 - Implement all proposed solutions.
 - Be a permanent custodian for or oversee Object Storage development in the future.
 
+## Outcome
+
+At the beginning of this working group, we had three main areas of
+improvement: consolidating object storage files into a single bucket,
+reducing code complexity, and removing local storage.
+
+However, it took us very little time to figure out that the biggest
+challenge for the working group members was understanding the current
+implementation and being able to speak a common language.
+
+The working group led an effort to collect and categorize all the
+usages of object storage in the product with the result of building a
+shared understanding of the problem, producing a renewed [Uploads
+Development Guide](https://docs.gitlab.com/ee/development/uploads/), and
+removing features such as Pseudonomyzer and background uploads.
+
+Consolidating object storage files into a single bucket and removing
+local storage support were assessed by the working group as excellent
+ways to reduce code complexity and simplify the product installation
+and maintenance. However, those topics require more significant
+cross-department decisions that do not fit the working group's
+scope. As a first iteration, the working group members addressed how
+to reduce code complexity by focussing on technological challenges.
+
+The creation of the [scalability frameworks
+team](/handbook/engineering/infrastructure/team/scalability/#scalabilityframeworks)
+during this working group execution provided a perfect partner to give
+continuity to this effort.  Epic
+[gitlab-com/gl-infra&733](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/733)
+describes the current roadmap.
+
 ## Roles and responsibilities
 
 The functional leads will be responsible for:
