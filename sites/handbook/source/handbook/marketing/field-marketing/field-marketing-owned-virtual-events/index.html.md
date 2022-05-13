@@ -51,7 +51,7 @@ Note that Virtual Workshops involve two SLA options outlined below. Please make 
 
 - **Existing Content Workshops (-32 business day [SLA](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280))** - These workshops utilize the material from the current workshops that have already been created. For these workshops, you will be re-utilizing all the existing content with either no content changes or *very* minor content adjustments (example - change of title from Advanced CI/CD Workshop to Advanced CI/CD Workshop for the PubSec).  
 
-- **New Content Workshops (-45 business day [SLA](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280))** - These workshops are brand new and involve creating all new content. Please visit [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#proposing-new-virtual-workshops) below for more information.  
+- **New Content Workshops (-45 business day [SLA](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280))** - These workshops are brand new and involve creating all new content. Please visit [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#proposing-new-workshops) below for more information.  
 
 ### [Webcasts](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1)
 
@@ -63,13 +63,13 @@ Please note that all Webcasts are considered webcasts with new content, which me
 
 ## Hosted on Hopin
 
-### [Virtual Conference - Self-Hosted](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-conference/)
+### [Virtual Conference - Self-Hosted](/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences)
 
 Please work with the Corporate Marketing Events team on planning these large scale events. This event type is only intended if you need more tracked attendees than is capable with Zoom and/or you need multiple simultaneous tracks. It also allows for a partner expo hall. The tool we have in place allows for a cleaner experience for the end user than switching between Zoom calls. It more mirrors a physical event experience with a keynote stage, tracks, expo halls and networking options.
 
 # Additional Virtual Event Details
 
-For more information on Virtual Event type comparisons, promotion, Zoom capabilities, participant engagement, etc. please visit the Virtual Events page [HERE](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/).
+For more information on Virtual Event type comparisons, promotion, Zoom capabilities, participant engagement, etc. please visit the Virtual Events page [HERE](/handbook/marketing/virtual-events/).
 
 # Closed Captioning
 
@@ -206,7 +206,7 @@ This training video includes Zoom configuration setup instructions, as well as M
   - For more details, review the Zoom Help Center page [here](https://support.zoom.us/hc/en-us/articles/203686335-Customizing-webinar-email-settings).
 13. *Optional* **HEADER IMAGE**: If applicable, click on branding and update the header.
 14. *Optional* **POLLING**: If applicable, add polling questions to the webcast or workshop by following the instructions in the video below. You do not need to make the polling question answers anonymous. Canned questions (utilized for webcasts only) are not added to Zoom but can be added to the Day Of Agenda so all presenters/moderators have access.
-15. **WATCH ATTENDEE MAX**: Make sure to regularly monitor the registration counts (webcast capacity [listed here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#zoom-capabilities) and workshop capacities [listed here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-registration-caps-and-closing-registration). If your workshop or webcast capacity is reached, please follow the instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-registration-caps-and-closing-registration) to close registration.
+15. **WATCH ATTENDEE MAX**: Make sure to regularly monitor the registration counts (webcast capacity is 1,000 attendees) and workshop capacities [listed here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-registration-caps-and-closing-registration). If your workshop or webcast capacity is reached, please follow the instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-registration-caps-and-closing-registration) to close registration.
 
 **Adding poll questions to a webcast**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QIrRcUIYEwo?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -467,13 +467,7 @@ Note: do not schedule the emails until you have completed the "on demand switch"
 
 ### Adding On-Demand Webcast to the Resources Page
 If you would like your on-demand webcast to be hosted on the [Resources page](https://about.gitlab.com/resources/) please see below.
-* Follow [these instructions](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#add-new-content-to-the-resources-page) to add your webcast to the Resources page.
-  * For the `solutions` field please reference the drop down list at the top of the [Resources page](https://about.gitlab.com/resources/) and only utilize those options when filling in the field.
-  * The `URL` will be the landing page URL for the webcast.
-
-## Multiple Timeslot Webcast 
-
-This process is currently in transition but for more details, please visit [this page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#multiple-timeslot-webcast).  
+* Follow [these instructions](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/#add-to-resources-page) to add your webcast to the Resources page.
 
 ## Rescheduling a Webcast
 **DRI: FMM and FMC**  
@@ -688,7 +682,7 @@ In order to cap registration, we remove the registration form on the Landing Pag
 1. Identify if a workshop is currently planned that might support your needs. [Click here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar) to view calendar of scheduled events.
 1. Work with Customer Success team (SAs) to identify the lead instructors/presenters. You must have your lead instructor identified at this time and work together to select a date.  
 1. Once a date has been confirmed, Lead SA must coordinate with the Demo Systems Engineer (Jeff Martin) to obtain the demo environment redemption code and discuss SLAs to ensure demo meets code requirements.
-1. If the audience is account centric, if you are not doing paid social media, or need your own workshop due to your account goals, consider [Self-Service without Promotion](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#logistical-set-up). Sales can run on their own, or with field marketing. If not, then it would qualify as a Webcast. [Click here for virtual events decision tree for more information.](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-decision-tree)   
+1. If the audience is account centric, if you are not doing paid social media, or need your own workshop due to your account goals, consider [Self-Service without Promotion](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#self-service-with-or-without-promotion-1). Sales can run on their own, or with field marketing. If not, then it would qualify as a Webcast. [Click here for virtual events decision tree for more information.](/handbook/marketing/virtual-events/#decision-tree)   
 1. Work with the Sales Team to identify who your Moderator (MC) will be; recommend this be one of your SALs. Moderator will set the tone for the workshop as well as introduce presenters throughout the event and announce poll questions/answers.
 1. Create a [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_zoom_license_date)
    - The date reservation request must be submitted no less than 32 business days prior to event date for existing copy and content and 45 days prior to the event date for new copy and content.  
@@ -700,9 +694,8 @@ In order to cap registration, we remove the registration form on the Landing Pag
 1. FMC and FMM will assign the due dates for their appropriate sub-issues according to the [SLA workback schedule](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280)
 1. Once Verticurl creates the landing page, they will ping the FMM to review. Once the landing page is live, the FMM will ping the FMC to add the workshop to the GitLab Events Page utilizing this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents). FMC also to make sure the landing page is linked in the epic. 
 1. FMM to create the [Template for Certification of Completion](https://drive.google.com/drive/u/0/folders/1D9ReKCU7dhbHbkLotKgh4D7dZZ9m2IHS)   
-1. Note about Optional Issues:
-   - [Account Based Marketing Request for Demand Base Display Ads](https://gitlab.com/gitlab-com/marketing/account-based-marketing/-/issues/new#) - If you select this option (template linked in Workshop epic code), you will need to work with Sales Teams to decide who your target audience is before completing the request to ABM Team. Ads need to be created by design and handed to Demandbase for launch of the campaign. Note the time to launch estimate specified in this issue does not include the SLA for design.    
-   - For workshop design requests, you have the option of opening a [Marketing Design Request](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-design-general) or utilizing [Canva](https://www.canva.com/design/DAD-xgXwnrk/8irvi2Qv08B1riRCt7EEoQ/view?utm_conte
+1. Note about Optional Issues:  
+   - For workshop design requests, you have the option of opening a [Marketing Design Request](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general) or utilizing [Canva](https://www.canva.com/design/DAD-xgXwnrk/8irvi2Qv08B1riRCt7EEoQ/view?utm_conte
 nt=DAD-xgXwnrk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) in a self-serve capacity (see [below](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#canva) for Canva instructions and templates).    
 1. Review Marketing Copy Doc - Update copy for landing page, emails, update the times, dates, redemption code in the 1-week reminder emails. Note that changes to the landing page or email copy will require the 45 day SLA noted above for new copy/content.
    - If new content: Work with Presenters/Instructors to create presentation slides, labs, demos, as well as copy for landing page and emails. 
@@ -710,7 +703,7 @@ nt=DAD-xgXwnrk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&m
 1. FMM DRI to work together on developing the script for MC within the Dry Run document utilizing the [Dry Run Template](https://docs.google.com/document/d/1DzNkJnwlVOB1vw4yvgXtIxtddfw_x4u7WC9xAqSVEHM/edit?ts=5f2414fd). 
    - FMM also needs to compile Presenter’s Bio’s to include in the script for MC to announce as a brief introduction during the workshop before they begin their portion. 
    - For more details, please review the [Workshop Dry Run and Q&A Section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#workshop-dry-run-and-qa) below.
-1. FMM to fill out [Dry Run Template](https://docs.google.com/document/d/1DzNkJnwlVOB1vw4yvgXtIxtddfw_x4u7WC9xAqSVEHM/edit?ts=5f2414fd) with roles/responsibilities/quick links and more. 
+1. FMM to fill out [Dry Run Template](https://docs.google.com/document/d/1ePmUc0ZUgO4aip8i3hjkROh2hKIO3WuQ7h0aSl0IsZA/edit) with roles/responsibilities/quick links and more. 
 1. FMM will need to create the [Intro and Transition Slidedeck](https://docs.google.com/presentation/d/19BD2fZ2fN1AcvWo-Xf9bEL8AR8R6sYxY1s2aA6gfEF4/edit) and Lead SA to create remaining Workshop slides and update content in the Workshop Google drive [here](https://drive.google.com/drive/folders/1qAymFTiXFEk-lRSNreIhaZ6Z62fdo_y2). 
 1.  Update/Create Post event survey questions and google form.  [Click here for an Example](https://docs.google.com/forms/d/e/1FAIpQLScI7ZTGup36lPyj3U-DpaLeev6yHcqahkUOFZ8Z9SrYBLkSIA/viewform)  
 1. Create/Review polling questions for the event in the [Prepare for Webcast Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) the FMC has opened. Reference the parent epic for suggestions/previous polling questions/when to launch and more. Once you have your polling questions finalized, ping the FMC in the issue to let them know.
@@ -934,9 +927,9 @@ prize to. Option to CC the SAL who is tied to the account to allow them visibili
 
 Normal FM close process: Send follow-up email, gather recap information from the team and close the issue.
 
-## Proposing New Virtual Workshops
+## Proposing New Workshops
 
-If you have a new workshop idea/topic, you can build out a Parent Epic for that workshop utilizing the epic code below. Please note that the first time you set up the new workshop, it will run as a -45 SLA with all new content. If you decide you would like to repeat the workshop in the future, you will need to work with the Campaign Management team to build out the new workshop’s backend templates in Marketo. You would also then need to add all finalized details and link to the new workshop throughout these handbook instructions, as well add the new workshop details to the [FM Virtual Workshop Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/Virtual_Workshop_Template.md).
+If you have a new workshop idea/topic, you can build out a Parent Epic for that workshop utilizing the epic code below. Please note that the first time you set up the new workshop, it will run as a -45 SLA with all new content. If you decide you would like to repeat the workshop in the future, you will need to work with the Campaign Management team to build out the new workshop’s backend templates in Marketo. You would also then need to add all finalized details and link to the new workshop throughout these handbook instructions, as well add the new workshop details to the [FM Workshop Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Virtual_Workshop_Template).
 
 ```
 
@@ -1050,13 +1043,13 @@ For details on this process, please reference [this section](/handbook/marketing
 
 **DRI: FMM & FMC**    
 
-## [Best Practices](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#best-practices)
+## [Best Practices](/handbook/marketing/virtual-events/self-service-virtual-events/#best-practices)
 
-## [Promotion Guidelines](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#self-service-virtual-event-promotion-guide)
+## [Promotion Guidelines](/handbook/marketing/virtual-events/self-service-virtual-events/#self-service-virtual-event-promotion-guide)
 
 **DRI: FMM**  
 
-## [Logistical Setup](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#logistical-set-up)  
+## [Logistical Setup](/handbook/marketing/virtual-events/self-service-virtual-events/#logistical-set-up)  
 
 **DRI: FMM**  
 
@@ -1068,15 +1061,15 @@ For details on this process, please reference [this section](/handbook/marketing
 - If you plan on sending a Marketo reminder email to attendees, you do not need to set up the reminder email in Zoom.
 In order for your FMC to triage your Marketo LP issues, you **must** have your Zoom event set up in advance and link your URL in the FMC Checklist section of your FM issue. 
 
-## [During the Event](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#during-the-event)
+## [During the Event](/handbook/marketing/virtual-events/self-service-virtual-events/#during-the-event)
 
 **DRI: FMM**  
 
-## [Post Event](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#post-event)
+## [Post Event](/handbook/marketing/virtual-events/self-service-virtual-events/#post-event)
 
 **DRI: FMM**  
 
-## [Results](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#results)
+## [Results](/handbook/marketing/virtual-events/self-service-virtual-events/#results)
 
 ## Self-Service Capacity
 
@@ -1108,11 +1101,11 @@ Please reach out to your Verticurl rep to shut down the landing page, or if you 
 - The FMC will also re-open the sales nominated issue and request Verticurl shut down the sales-nominated daily sends.
 - There is no need to remove the event listing from the events page. Having a sold out event listed could create more excitement over the event and encourage future attendees to register for events sooner.
 
-## [Rescheduling Self-Service Events](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#rescheduling-self-service-virtual-events-with-or-without-promotion)
+## [Rescheduling Self-Service Events](/handbook/marketing/virtual-events/self-service-virtual-events/#rescheduling-self-service-virtual-events-with-or-without-promotion)
 
 **DRI: FMM & FMC**  
 
-## [Cancelling Self-Service Events](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#cancelling-for-self-service-virtual-events-with-or-without-promotion)
+## [Cancelling Self-Service Events](/handbook/marketing/virtual-events/self-service-virtual-events/#cancelling-for-self-service-virtual-events-with-or-without-promotion)
 
 **DRI: FMM & FMC**  
 
