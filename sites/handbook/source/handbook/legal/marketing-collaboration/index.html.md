@@ -61,6 +61,24 @@ Marketing owns GitLab's [Brand Guidelines](https://about.gitlab.com/handbook/mar
    1. [Contact GitLab Legal](https://about.gitlab.com/handbook/legal/#how-to-reach-us) to obtain approval for any **modifcations** the third party requests to the Authorization.
    1. Assign the Authorization for countersignature via DocuSign to an appropriate GitLab team member identified in the [Signature Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix).
 
+### Third party infringement of GitLab trademarks 
+
+**For GitLab Team Members Only:**
+
+If we suspect that a third party is making unauthorized use of the term **GitLab**, or any other GitLab trademark, the process below should be followed:
+
+1. Open a confidential [legal issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template), providing details of the infringement, and including a link to the infringing material.
+2. The Legal and Corporate Affairs team will review the request, and assess if the use constitutes infringement, or is covered by a [fair use exemption](https://about.gitlab.com/handbook/legal/policies/product-third-party-trademarks-guidelines/#fair-use-of-third-party-trademarks). If no infringement is identified, the issue should be updated with the outcome of the review, and closed.
+3. If infringement is identified, the Legal and Corporate Affairs team will contact the relevant party (e.g. website/platform operator or content manager) to request that the infringement be stopped.
+4. The Legal and Corporate Affairs will then record the complaint information on the internal tracker [here](https://docs.google.com/spreadsheets/d/1pKy3bWGxY-qGtn_K5DT3FqWSdYcGRMEjor1J64iqztU/edit#gid=0), and update the legal issue with the outcome of the complaint.
+
+**Some examples of unauthorized use may be found in:**
+
+* **Third party marketing materials or product names:** Unauthorized use in a way that infers that GitLab endorses or sponsors the publisher of the marketing material. 
+* **Browser ads (title or copy):** These uses can be reported by the Legal and Corporate Affairs team to the relevant browser operator (e.g. [Google](https://services.google.com/inquiry/aw_tmcomplaint), [Bing](https://about.ads.microsoft.com/en-us/resources/policies/trademark-misuse))
+
+If you’re not a GitLab team member, please share any reports of suspected infringement with us at intellectualproperty@gitlab.com.
+
 ### Using Third-party Trademarks
 Any use of third-party trademarks should be covered by a Trademark Use Agreement. Various Marketing teams manage these agreements, requesting help from Legal team contract managers only when terms need to be negotiated. If you would like to use a 3rd party logo, please work with the appropriate Marketing team to ensure there is a trademark use agreement in place or to request such an agreement. 
 
