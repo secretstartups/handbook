@@ -55,7 +55,7 @@ Accounts are assigned at point of sale by the TAM Manager when a new Account in 
 
 When an Account meets the critera, the following will happen:
 
-- The TAM or their manager assigns the TAM by adding their name in to the Gainsight (or Salesforce) `TAM` field
+- The TAM Manager assigns the TAM by populating the `TAM Name` field on the C360 account page in Gainsight (only managers have the ability to edit this field)
 - Once the field has been updated with the TAM name, Gainsight will fire the onboarding playbook
 - **If** the account meets the above criteria and the TAM is not assigned, Gainsight will fire a CTA (call to action) for the TAM manager asking them to assign the account.  Gainsight will then 'listen' for the TAM field to be populated and will fire the onboarding playbook once the field has been updated with the TAM name
 
