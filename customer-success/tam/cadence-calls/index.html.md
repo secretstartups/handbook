@@ -42,7 +42,7 @@ The following items are to be covered/completed in your initial cadence call wit
 - [ ] Agree on enablement sessions
   - [ ] New Strategic Customers: Discuss the [Intro to GitLab and the Intro to CI/CD enablement sessions](/handbook/customer-success/tam/workshops/) in your first cadence call
   - [ ] Existing Strategic Customers: Discuss other [enablement sessions](/handbook/customer-success/tam/workshops/) in-line with their desired use cases and potential expansion opportunities (it can be helpful to start discussing future sessions/topics right after one is delivered and it's fresh in their mind)
-  - [ ] Named & Scale Customers: Share the landing page (TBA) for upcoming webinars, and encourage them to sign up for the Intro to GitLab and the Intro to CI/CD webinars at a minimum
+  - [ ] Named & Scale Customers: Share the [landing page for upcoming webinars](/handbook/customer-success/tam/segment/scale/webinar-calendar/), and encourage them to sign up for the Intro to GitLab and the Intro to CI/CD webinars at a minimum
 - [ ] If self-managed, discuss architecture:
   - [ ] Discuss monthly releases & inquire about frequency of their planned upgrades, letting them know about our [maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html)
   - [ ] Inform customer about our [reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) and that these are the only supported architectures
