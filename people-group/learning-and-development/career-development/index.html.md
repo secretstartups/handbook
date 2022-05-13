@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Career Development and Mobility
-description: "It is the lifelong process of managing learning, work, leisure and transitions in order to move toward a personally determined and evolving preferred future."
+description: "Resources and direction for career development and mobility for all GitLab team members."
 ---
 
 ## On this page
@@ -14,21 +14,19 @@ description: "It is the lifelong process of managing learning, work, leisure and
 
 Career development is the lifelong process of managing learning, work, leisure and transitions to move toward a personally determined and evolving preferred future.
 
-On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
+Watch and listen below to this 18 minute career development discussion with Eric Johnson, CTO at GitLab
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/hYahDZ9nIWA" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-## Key Career Resources for Team Members
-
-Check out some of the key programs offered for team members to grow their career at GitLab.
+## Resources for Team Members
 
 <div class="flex-row" markdown="0">
   <div>
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit" class="btn btn-purple" style="width:250px;margin:5px;"> Growth and Development Benefit </a>
     <a href="/handbook/people-group/learning-and-development/career-development/#tracking-your-career-development" class="btn btn-purple" style="width:200px;margin:5px;">Goal Tracking Resources</a>
-         <a href="/handbook/people-group/learning-and-development/career-development/ic-development" class="btn btn-purple" style="width:200px;margin:5px;">Programs for Individual Contributors</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/ic-development" class="btn btn-purple" style="width:250px;margin:5px;">Programs for Individual Contributors</a>
   </div>
 </div>
 
@@ -47,7 +45,7 @@ Check out some of the key programs offered for team members to grow their career
   </div>
 </div>
 
-## Connecting Career Development to Wellbeing
+### Connecting Career Development to Wellbeing
 
 Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://www.skylyte.com/) about the connection between wellbeing, purpose, and our career growth.
 
@@ -59,28 +57,22 @@ Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://
 
 ## Roles and Responsibilities
 
-**Team Member Owned**
- 1. Take charge of your own development and career
- 1. Close the skill gap for current and future positions
- 1. Seize development and stretch opportunities
- 1. Remember there are no promises or guarantees of a promotion
+Review the responsibilities of career development broken down by team member, manager, and the company:
 
-**Manager Facilitated**
-1. Take time with team members to discuss their career aspirations
-1. Listen and provide feedback, ideas and contacts
-1. Make choices to support their development
+| Role | Responsibilities |
+| -------- | --------------- |
+| Team Member Owned | <ol><li>Take charge of your own development and career</li><li>Close the skill gap for current and future positions<li><li>Seize development and stretch opportunities<li><li>Remember there are no promises or guarantees of a promotion<li></ol> |
+| Manager Facilitated| <ol><li>Take time with team members to discuss their career aspirations</li><li>Listen and provide feedback, ideas and contacts</li><li>Make choices to support their development</li></ol> |
+| GitLab Supported | <ol><li>Communicate future direction and skills requirements</li><li>Provide information and tools when applicable</li><li>Communicate internal opportunities</li></ol> |
 
-**GitLab Supported**
-1. Communicate future direction and skills requirements
-1. Provide information and tools when applicable
-1. Communicate internal opportunities
+### 70-20-10 Rule for Development
 
-**70-20-10 Rule for Development**
 1. 70% of your development should come from on-the-job and action learning.  This can include development experiences like managing a project, serving on a cross-functional team, taking on a new task, job shadowing, job rotation, etc.
 1. 20% of your development should come from interactions with others.  This includes having a mentor, being a mentor, coaching, participating in communities of practice, serving as a leader in your organization, etc.
 1. 10% of your development should come from training, including classes, seminars, webinars, podcasts, reading, conferences, etc. Here is an example of the Enablement stage's process for applying for the [professional development budget](/handbook/engineering/development/enablement/processes/budget_approval.html).
 
-**Additional Questions to Think About:**
+### Additional Questions to Think About
+
 1. Do you have any overused strengths or underdeveloped skills that might cause your career to stall or derail?
 1. Considering feedback from others, are you perceived to have the skills required for the business needs of the future? If not, how could you shape that perception in a favorable direction?
 1. How can you leverage your current skills and talents for your future aspirations?
@@ -248,7 +240,6 @@ In August 2021 we held a Career Development Skill of the Month. All items are li
 #### Week 5
 
 1. [Career Development with Sherrod Patching](https://gitlab.edcast.com/pathways/career-development-with-sherrod-patching)
-
 
 ## Tracking your Career Development
 
