@@ -35,7 +35,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [**Marketo Program**]()
 
 ## Key Details for Speaking Session 
-*If your speaking session will be tracked separately and requires a child SFDC campaign and separate Marketo program from your parent campaign for the event, FMC to specify details below.*
+*If your speaking session will be tracked separately and requires a child SFDC campaign and separate Marketo program from your parent campaign for the event, FMC to specify details below. Also remember to create separate speaking session sub-issues as needed (example - if tracking separately, there should be a lead list issue for the conference and a spearate lead list issue for the speaking session, both referencing their respective Marketo programs).*
 
 * **Campaign Type:** Speaking Session
 * **Official Speaking Session Name/Title of Talk:** 
@@ -78,7 +78,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [**Marketo Program**]()
 
 ## Key Details for Speaking Session 
-*If your speaking session will be tracked separately and requires a child SFDC campaign and separate Marketo program from your parent campaign for the event, FMC to specify details below.*
+*If your speaking session will be tracked separately and requires a child SFDC campaign and separate Marketo program from your parent campaign for the event, FMC to specify details below. Also remember to create separate speaking session sub-issues as needed (example - if tracking separately, there should be a lead list issue for the conference and a spearate lead list issue for the speaking session, both referencing their respective Marketo programs).*
 
 * **Campaign Type:** Speaking Session
 * **Official Speaking Session Name/Title of Talk:** 
@@ -119,7 +119,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [**Marketo Program**]()
 
 ## Key Details for Speaking Session 
-*If your speaking session will be tracked separately and requires a child SFDC campaign and separate Marketo program from your parent campaign for the event, FMC to specify details below.*
+*If your speaking session will be tracked separately and requires a child SFDC campaign and separate Marketo program from your parent campaign for the event, FMC to specify details below. Also remember to create separate speaking session sub-issues as needed (example - if tracking separately, there should be a lead list issue for the conference and a spearate lead list issue for the speaking session, both referencing their respective Marketo programs).*
 
 * **Campaign Type:** Speaking Session
 * **Official Speaking Session Name/Title of Talk:** 
@@ -458,7 +458,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 
 ## [Copy Document]() - [template](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit)
 
-## [Dry Run Agenda]() - [template](https://docs.google.com/document/d/1DzNkJnwlVOB1vw4yvgXtIxtddfw_x4u7WC9xAqSVEHM/edit?ts=5f6162ea#)
+## [Dry Run Agenda]() - [template](https://docs.google.com/document/d/1ePmUc0ZUgO4aip8i3hjkROh2hKIO3WuQ7h0aSl0IsZA/edit)
 
 ## [Landing Page]() - `to be added when live` 
 
