@@ -131,9 +131,21 @@ The `TAM Portfolio` Dashboard is used to help highlight and review each client, 
 ### Strategic Accounts
 
 Priority definitions are as follows:
-1. Pr1: TAM-led onboarding, monthly cadence call (as minimum), full TAM-led customer lifecycle
-1. Pr2: 60 day call cadence, EBR, renewal touch point
-1. Pr3: Non-managed child accounts only
+1. **Priority 1**: 
+    1. [TAM-led onboarding](/handbook/customer-success/tam/onboarding/)
+    1. Biweekly check-in call 
+    1. Yearly [EBR](/handbook/customer-success/tam/ebr/) (as minimum)
+    1. Active [Account Growth Plan](/handbook/customer-success/tam/account-growth/)
+    1. 1 active Stage Enablement playbook on customer's current use case
+    1. 1 active [Stage Expansion](/handbook/customer-success/tam/stage-enablement-and-expansion/) playbook into new stage
+    1. 2 [TAM led workshops](https://about.gitlab.com/handbook/customer-success/tam/workshops/) per year
+1. **Priority 2**: 
+    1. [TAM-led onboarding](/handbook/customer-success/tam/onboarding/)
+    1. Monthly check-in call 
+    1. Yearly [EBR](/handbook/customer-success/tam/ebr/) (as minimum)
+    1. Renewal touch point no less than 3 months prior to renewal
+    1. Customer attends 2 [Scale Webinars](https://about.gitlab.com/handbook/customer-success/tam/segment/scale/webinar-calendar/) per year
+1. Priority 3: Non-managed child accounts only
 
 TAM-assigned customers are segmented into two priority tiers: `Priority 1 (P1)` and `Priority 2 (P2)`. We use a series of "yes/no" parameters to evaluate a customer's prioritization, based on the key aspects of a TAM's responsibilities and value to the customer. There may be rare use of a `Priority 3 (P3)` tier, wherein an account is a child account that is not actively managed outside of its parent account but is still within the Strategic segment.
 
