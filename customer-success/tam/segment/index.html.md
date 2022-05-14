@@ -12,9 +12,6 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ---
 
-⚠️ Placeholder while we build out the landing page and segment pages.
-{: .alert .alert-warning}
-
 ## Overview
 
 The Technical Account Manager organization is distributed across different customer segments, based on customer size and Annual Recurring Revenue.
