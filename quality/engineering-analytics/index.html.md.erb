@@ -69,6 +69,7 @@ graph TD
     A --> B[Engineering Analytics Team]
     B --> BA[Engineering Analyst]
     B --> BB[Engineering Analyst]
+    B --> BC[Engineering Analyst]
     A --> C[Contributor Success team]
     A --> D(Quality Engineering)
     A --> E[Engineering Productivity Team]
@@ -177,23 +178,29 @@ These weights are used to estimate analyst time needed to fulfill a request by 1
 | 8 | 2 weeks | introducing new metric based from data source that doesn't currently exist in data warehouse|
 
 
-### Labels
+### Communicating Priority & Status
 
-#### Workflow labels
-The Engineering Analytics team uses scoped workflow labels to track different stages of issue on the board. This is also used to clearly communicate to stakeholders the status of each requests.
+#### Status
+The Engineering Analytics team uses scoped status labels to track different stages of issues on the board. This is also used to clearly communicate to stakeholders the status of each requests.
 
-| Label State | Description |
+| Status | Description |
 | ----------- | ----------- |
-| ![Triaging](img/label-triaging.png) | Issue has been ackowledged and we are working through scoping how much work is required to complete the request |
-| ![Scoped](img/label-scoped.png) | Request has been clarified & amount of work required to fulfill request has been identified.|
-| ![In Progress](img/label-in-progress.png) | Issue is actively being worked on |
-| ![Waiting](img/label-waiting.png) | Team is waiting for dependency to complete work to continue progress, or work has been de-prioritized|
-| ![In Review](img/label-in-review.png) | Issue has been completed & work is under review by stakeholder|
+| `~"eng-analytics::triaging"` | Issue has been ackowledged and we are working through scoping how much work is required to complete the request |
+| `~"eng-analytics::scoped"` | Request has been clarified & amount of work required to fulfill request has been identified.|
+| `~"eng-analytics::in-progress"` | Issue is actively being worked on |
+| `~"eng-analytics::waiting"` | Team is waiting for dependency to complete work to continue progress, or work has been de-prioritized. Issue will also have blocking dependency linked. |
+| `~"eng-analytics::in-review"` | Issue has been completed & work is under review by stakeholder|
 
-#### Prioritization Labels
-Right now we use a simple indicator of re-using the Priority 1 label if there is a high priority request that needs to be completed ASAP, or by the next key meeting.
+### Priority 
 
-![Priority Label](img/priority-1.png) 
+Work is prioritized using table below. Work type is stacked ranked within each priority.
+
+| Priority | Work | Remark |
+| -------- | ---- | ---- |
+| `~"priority::1"` | Urgent Key Review requests <br> [Free User Efficiency Rapid Action](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/7) <br> Passedthrough OKRs <br> Hiring & Onboarding | |
+| `~"priority::2"` | Non passthrough OKRs <br> Walk-up request from Engineering | We have capacity to take this on, OKRs will be prioritized first. |
+| `~"priority::3"` | New Data Sources <br> Walk-up request outside of Engineering | We do not have capacity to take this on at the moment | 
+| `~"priority::4"` | Nice to have Improvements |  We do not have capacity to take this on at the moment | 
 
 
 ### How to Engage with Us
