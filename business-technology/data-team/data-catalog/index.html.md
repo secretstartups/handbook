@@ -29,6 +29,17 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 
 - **Transformation**: [dbt](https://www.getdbt.com/) is used for all in transformations. See our [dbt guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/) for more details on why and how we use this tool. All dbt code is stored in our [Analytics Project](https://about.gitlab.com/handbook/business-technology/data-team/platform/#folder-structure-in-analytics-project).
 
+
+## Snowflake Dimensional Models
+
+### Product 
+
+* [Namespace Analyis Guide](/handbook/business-technology/data-team/data-catalog/namespace/) 
+* [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
+* [SaaS Product Events](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
+* [CI Runner Activity](/handbook/business-technology/data-team/data-catalog/ci-runner-activity/) 
+
+
 ## Sisense Dashboards
 
 [Sisense](https://about.gitlab.com/handbook/business-technology/data-team/platform/periscope/) is our enterprise standard BI tool. See how Sisense is being used with the [Sisense Usage Overview](https://app.periscopedata.com/app/gitlab/410320/Periscope-Usage!-%F0%9F%93%88?) dashboard.
