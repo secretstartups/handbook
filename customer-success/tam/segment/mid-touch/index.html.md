@@ -48,7 +48,7 @@ Onboarding and enablement for this cohort is primarily through webinar cohorts, 
 
 Onboarding:
 
-1. Time to first engage: within 14 days
+1. Time to first engagement: within 14 days
 1. Time to 1st Value: within 30 days
 1. Time to Onboard: within 45 days
 1. Attendance in onboarding webinars of at least 50% of net-new customers
