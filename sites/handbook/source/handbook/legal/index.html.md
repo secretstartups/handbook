@@ -57,7 +57,7 @@ The Employment Legal Team collaborates with GitLab People Group on a broad range
 
 Legal Operations supports Legal & Corporate Affairs processes with a focus on defining and driving initiatives that improve the team’s efficiency and effectiveness. Operations also includes Legal’s [Procurement](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/) function, which reviews purchases made to ensure adequate terms are present for GitLab.
 
-#### [Privacy](https://about.gitlab.com/handbook/legal/privacy/), [Product](https://about.gitlab.com/handbook/legal/product/), and Trade Compliance
+#### [Privacy](https://about.gitlab.com/handbook/legal/privacy/), [Product](https://about.gitlab.com/handbook/legal/product/), and [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/)
 
 The Privacy, Product and Trade Compliance team collaborates with all GitLab teams including engineering, security, product, and marketing to provide guidance and direction in a broad range of matters relating to data privacy, open source licensing, intellectual property protection and export compliance. 
 
