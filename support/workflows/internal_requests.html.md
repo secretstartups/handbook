@@ -68,7 +68,7 @@ Sales team members will typically open this on behalf of their prospects in orde
 
 ## Inactive Namespace Request
 
-GitLab team members can create this request for their own use or on behalf of their customers. See [Name Squatting Policy](namesquatting_policy.html).
+GitLab team members can create this request for their own use. Customers can submit a support ticket. See [Name Squatting Policy](namesquatting_policy.html).
 
 ## Contact Request
 
