@@ -202,6 +202,10 @@ Please see the dedicated [Support Escalations](/handbook/support/internal-suppor
 
 ---
 
+### I want to make a change to a setting in the GitLab.com Admin interface
+
+The Infrastructure team is the admin of GitLab.com, and any changes to product tuneables go through the [change request workflow](/handbook/engineering/infrastructure/change-management/#change-request-workflows).
+
 ### Other
 
 #### Trials and Prospect Support
