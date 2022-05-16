@@ -21,7 +21,10 @@ The role of field marketing is to support marketing messages at a regional level
     - Engaging with existing customers
     - New growth opportunities
 - Demand
-    - Education
+    - Unique inquiries 
+    - Influence of [sales accepted opportunties](/handbook/marketing/revenue-marketing/sdr/#common-sales-development-org-terms-and-definitions) 
+    - Influence of sales pipeline 
+    - Both direct and channel driven 
 - Market Intelligence
     - Test out new messaging or positioning 
 
@@ -72,45 +75,15 @@ Being the marketing experts for the region, GitLab Field Marketers are also resp
 ### ReachDesk
 Go to the [Reachdesk page](/handbook/marketing/marketing-operations/reachdesk) for instructions on campaign set up. (WIP)
 
-### Printfection Direct Mail Giveaways
-
-The below steps can be followed to set up and run a giveaway campaign using Printfection for field marketing. If you come across any steps that you can’t follow in Printfection, post in the [#swag Slack channel](https://app.slack.com/client/T02592416/C66R8N98F) so a Community Advocate can update your permissions levels.
-
-1. Register and send the items you will be using to Printfection by following [these steps](/handbook/marketing/corporate-marketing/merchandise-handling/#send-items-to-printfection-warehouse)
-1. Bundle your items together by creating a [Giveaway Kit](https://help.printfection.com/hc/en-us/articles/360006335613-How-to-start-a-new-kit) in Printfection
-    - The picture of the Giveaway Kit is what the customer will see. If you’d like a different image to show than what Printfection puts together as a preview, be sure to provide this to the support team
-    - Select Standard packaging or choose to create a custom box (a new custom box will incur additional expenses). If you’d like to use already created custom packaging (such as the GitLab branded Poly Mailers), check with the advocates in the #swag slack channel to make sure it’s okay for you to use
-1. Set up a [Giveaway Campaign](/handbook/marketing/corporate-marketing/merchandise-handling/#create-a-new-giveaway-campaign)
-    - [Add the kit](https://help.printfection.com/hc/en-us/articles/360026589734-Using-kits-in-Giveaway-campaigns) you created as an item in the Giveaway Campaign
-    - The name of the giveaway campaign will be visible to the customer
-    - Change from Paused to Running when you’re ready to run the campaign
-1. Add a Printfection code column to your event spreadsheet with your leads. Copy over unique codes (generated above in the Printfection Giveaway Campaign) to assign a code to each lead
-1. Work with your MPM to set up the Printfection URL & unique codes in your email copy (if desired, steps 5-7 are only relevant if sending a Marketo email rather than individually distributing the redemption links):
-    - Place the Giveaway Campaign URL in your email copy (found on the Overview tab of the campaign in Printfection)
-    - A custom Marketo field will be used to append the unique Printfection codes to the URL for each lead (example of how it works [here](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1195#note_325404319)) and to place the code under the URL
-1. Complete list upload prior to the email send date (example list upload [here](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/2343))
-1. Work with your MPM to determine post redemption email needs. The options are follow up email and an automated confirmation email. The confirmation email triggers upon redemption of codes, the follow up email is sent at one time to a group of recipients. If an automated confirmation email is needed, define what status in SFDC should trigger the follow up email
-using the Direct Mail campaign status progressions. (for example, when a person's campaign status changes to `Queued` it could trigger a confirmation email and when the status changes to `Shipped` the SDRs will begin follow up sequence (example [here](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1195#follow-up-planned-from-field-marketing-fmc))
-1. Once all above steps are complete, the Giveaway Campaign is ready to run. Make sure the Giveaway is changed from Paused to Running if you did not do this already in Step 3
-1. When the campaign is running, monitor Redemptions, Shipping, and Costs under the Giveaway Campaign Overview in Printfection
-    - Update redemptions/shipments in event spreadsheet if needed to notify SDRs (add additional columns to track)
-    - Update SFDC status for leads once they redeem a code or item is shipped, depending on what was decided in Step 7
-1. When a campaign is over and you no longer need the items in Printfection, follow [these steps](/handbook/marketing/corporate-marketing/merchandise-handling/#removing-products-from-printfection) to remove items from Printfection. If inventory is not yet 0, you will need to ship the items back to yourself/desired recipient before archiving. Until this is done, $25/month will still be charged per item. If relevant, the MPM must be instructed as to when the printfection codes are no longer needed on person records. This will signal that the MPM can now run a batch smart campaign to remove the printfection codes from the person records, thus freeing up the custom field for use in the future.
-
-**Fees Involved:**
-
-- Cost of the items you are using in the giveaway
-- Fulfillment and shipping fees for each order placed once the giveaway is running (there is a Cost Estimate under campaign settings but please note actuals have ended up higher than their estimate so far) These will be on a Printfection invoice, more details to come on the invoice process.
-- $25/month per item stocked in Printfection. This will not hit your field marketing Allocadia ID, but is an overall cost to GitLab to consider and be mindful of (noted in Step 12 [here](/handbook/marketing/corporate-marketing/merchandise-handling/#creating-the-send-order)
-
 ### Linkedin events Feature - FMM team access
 
 #### About
 The Field marketing team can use the GitLab Brand LinkedIn channel to create events. The LinkedIn Events feature provides members with an easy way to create and join professional Events that interest them, such as meetups, online workshops, seminars, and more.
 
 #### Successful usage
-##### [Click to view the field marketing Linkedin admin for events quick training video](https://www.youtube.com/watch?v=VxVxdjeRkps)
+##### [Field Marketing Linkedin admin for events quick training video](https://www.youtube.com/watch?v=VxVxdjeRkps)
 - The Field Marekting LinkedIn events admin can create, edit and maintain the events listings on the GitLab LinkedIn page. Please message the field marketing team in the #fieldmarketing Slack channel to request the admin to create an event.
+
 ###### Field Marketing admins who will respond to your request: 
 * Kira Aubrey - AMER 
 * Helena Dixon - EMEA 
@@ -685,6 +658,15 @@ In Field Marketing, the FMCs manage all [Coupa requisitions](/handbook/business-
 To find out what upcoming events GitLab will be involved in please visit our [Events Page](/events/).
 
 For details on how we handle events please visit the [GitLab Event Information](/handbook/marketing/events/) page.
+
+## Marketing SSOT calendar 
+
+## Google Calendar links 
+If you prefer to see the events in an actual calendar view please refer to the following: 
+* [External virtual events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
+* [GitLab hosted Zoom webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [GitLab Hosted Self-Service Virtual Events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [In person Events and Sponsorship](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9laWN2b3VkcHBjdTQ3bG5xdTFwOTlvNjU2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 # Suggesting an Event or Tactic
 
@@ -1326,6 +1308,44 @@ The health and safety of our team members continue to be a top priority.  If you
 
 # Deprecated handbook content
 We feel like this info is too good to delete, and while we currently aren't using either the tool that is descirbed or the process, we just aren't ready to delete.....its like that sweater you just can't seem to get rid of in case you may need it one day... 
+
+## Printfection Direct Mail Giveaways
+
+<details markdown="1">
+
+<summary>We will be deprecating usage of Printfection and will use Reachdesk or our selected swag vendor for direct mail. Expand below to see details regarding Printfection</summary>
+
+
+The below steps can be followed to set up and run a giveaway campaign using Printfection for field marketing. If you come across any steps that you can’t follow in Printfection, post in the [#swag Slack channel](https://app.slack.com/client/T02592416/C66R8N98F) so a Community Advocate can update your permissions levels.
+
+1. Register and send the items you will be using to Printfection by following [these steps](/handbook/marketing/corporate-marketing/merchandise-handling/#send-items-to-printfection-warehouse)
+1. Bundle your items together by creating a [Giveaway Kit](https://help.printfection.com/hc/en-us/articles/360006335613-How-to-start-a-new-kit) in Printfection
+    - The picture of the Giveaway Kit is what the customer will see. If you’d like a different image to show than what Printfection puts together as a preview, be sure to provide this to the support team
+    - Select Standard packaging or choose to create a custom box (a new custom box will incur additional expenses). If you’d like to use already created custom packaging (such as the GitLab branded Poly Mailers), check with the advocates in the #swag slack channel to make sure it’s okay for you to use
+1. Set up a [Giveaway Campaign](/handbook/marketing/corporate-marketing/merchandise-handling/#create-a-new-giveaway-campaign)
+    - [Add the kit](https://help.printfection.com/hc/en-us/articles/360026589734-Using-kits-in-Giveaway-campaigns) you created as an item in the Giveaway Campaign
+    - The name of the giveaway campaign will be visible to the customer
+    - Change from Paused to Running when you’re ready to run the campaign
+1. Add a Printfection code column to your event spreadsheet with your leads. Copy over unique codes (generated above in the Printfection Giveaway Campaign) to assign a code to each lead
+1. Work with your MPM to set up the Printfection URL & unique codes in your email copy (if desired, steps 5-7 are only relevant if sending a Marketo email rather than individually distributing the redemption links):
+    - Place the Giveaway Campaign URL in your email copy (found on the Overview tab of the campaign in Printfection)
+    - A custom Marketo field will be used to append the unique Printfection codes to the URL for each lead (example of how it works [here](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1195#note_325404319)) and to place the code under the URL
+1. Complete list upload prior to the email send date (example list upload [here](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/2343))
+1. Work with your MPM to determine post redemption email needs. The options are follow up email and an automated confirmation email. The confirmation email triggers upon redemption of codes, the follow up email is sent at one time to a group of recipients. If an automated confirmation email is needed, define what status in SFDC should trigger the follow up email
+using the Direct Mail campaign status progressions. (for example, when a person's campaign status changes to `Queued` it could trigger a confirmation email and when the status changes to `Shipped` the SDRs will begin follow up sequence (example [here](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1195#follow-up-planned-from-field-marketing-fmc))
+1. Once all above steps are complete, the Giveaway Campaign is ready to run. Make sure the Giveaway is changed from Paused to Running if you did not do this already in Step 3
+1. When the campaign is running, monitor Redemptions, Shipping, and Costs under the Giveaway Campaign Overview in Printfection
+    - Update redemptions/shipments in event spreadsheet if needed to notify SDRs (add additional columns to track)
+    - Update SFDC status for leads once they redeem a code or item is shipped, depending on what was decided in Step 7
+1. When a campaign is over and you no longer need the items in Printfection, follow [these steps](/handbook/marketing/corporate-marketing/merchandise-handling/#removing-products-from-printfection) to remove items from Printfection. If inventory is not yet 0, you will need to ship the items back to yourself/desired recipient before archiving. Until this is done, $25/month will still be charged per item. If relevant, the MPM must be instructed as to when the printfection codes are no longer needed on person records. This will signal that the MPM can now run a batch smart campaign to remove the printfection codes from the person records, thus freeing up the custom field for use in the future.
+
+**Fees Involved:**
+
+- Cost of the items you are using in the giveaway
+- Fulfillment and shipping fees for each order placed once the giveaway is running (there is a Cost Estimate under campaign settings but please note actuals have ended up higher than their estimate so far) These will be on a Printfection invoice, more details to come on the invoice process.
+- $25/month per item stocked in Printfection. This will not hit your field marketing Allocadia ID, but is an overall cost to GitLab to consider and be mindful of (noted in Step 12 [here](/handbook/marketing/corporate-marketing/merchandise-handling/#creating-the-send-order)
+
+</details>
 
 ## Account-Centric Micro-Campaign
 
