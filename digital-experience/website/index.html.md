@@ -409,7 +409,6 @@ group is [`group::distribution`](https://gitlab.com/groups/gitlab-org/-/labels?u
 - `uxr`: the User Experience Researcher
 - `sets`: a list of Software Engineers in Test
 - `tech_writer`: the Technical Writer
-- `tw_backup`: the "backup" Technical Writer
 - `appsec_engineer`: the Application Security Engineer
 - `be_team_tag`: the "tag" being used in the `department` field in `team.yml` for Backend Engineers on this team
 - `fe_team_tag`: the "tag" being used in the `department` field in `team.yml` for Frontend Engineers on this team
