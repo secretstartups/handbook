@@ -28,12 +28,18 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 
 * [Metrics dictionary](https://metrics.gitlab.com/) contains metrics and events collected in Service Ping and Snowplow. For more information visit the dedicated [Product Intelligence Guide](/handbook/product/product-intelligence-guide/#metrics-dictionary).
 
-## Learn about analytics relevant product stage topics grouped by section.
+* [Features by Group handbook page](/handbook/product/categories/features/#planproject-management-group) contains a tabular breakdown of features included in each Stage Group by Core, Premium or Ultimate categories. 
+
+* [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) contains CMAU, SMAU, and GMAU charts for each section, stage, and group.
+
+## Learn about analytics relevant product stage topics grouped by Section
+
+_Why are these groupings called 'Stages'? At GitLab, we build a product that supports every **stage** of the DevOps Lifecycle._ 
 
 ### Dev Section
 
 #### Manage Stage
-_Short description of Manage Stage_
+_This Stage helps teams manage their software delivery lifecycle with metrics and value stream insight in order to streamline and increase their delivery velocity. Insights, authentication, audits, compliance, user management, group & sub-group management, and project management._
 
 <details markdown="1"><summary>Click to expand</summary>
 
@@ -46,6 +52,9 @@ _Overall Manage stage pinned dashboards for easy access_
 [Manage : Compliance](https://app.periscopedata.com/app/gitlab/663045/Manage:-Compliance-Dashboard)
 _Dashboard frequently used by the Compliance Group_
 
+[Manage : Optimize Feature Usage](https://app.periscopedata.com/app/gitlab/779829/Manage:Optimize-Feature-Usage)
+_Dashboard frequently used by the Optimize Group_
+
 
 ##### Important data documentation
 
@@ -56,25 +65,6 @@ FROM table
 WHERE field = stage_name
 ;
 ```
-_SMAU_
-
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_GMAU_
-
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_Other_
 
 ##### Helpful user research and demos
 
@@ -98,29 +88,38 @@ _Describe why this handbook page is helpful for product analysts_
 
 ##### Slack channels
 
-**#slack-channel**
-_Description_
+**#s_manage**
 
-##### Team heirarchy
+##### Team members
 
-[Link to team heirarchy]()
+[Handbook page to find Manage team members to collaborate with](/handbook/product/categories/#manage-stage)
 
 </details>
 
 #### Plan Stage
-_Short description of Plan Stage_
+_Enable teams to effectively plan and execute work in a single application. This stage enables portfolio planning and management through epics, groups (programs), milestones, etc. to organize and track progress_
 
 <details markdown="1"><summary>Click to expand</summary>
+
 ##### Top dashboards referenced by this team
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+[Plan xMAU (monthly)](https://app.periscopedata.com/app/gitlab/775807/Plan-xMAU-(monthly))
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+_Overall Plan Stage xMAU dashboard_
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+_Most Group PMs on Plan utilize the Centralized SMAU/GMAU dashboard_
+
+[Plan stage .com events](https://app.periscopedata.com/app/gitlab/654183/Plan-stage-.com-events)
+
+_Analyses dealing with Snowplow events tables_
+
+[Say Do Ratios](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios)
+
+_Primarily engineering analytics utilized for Plan Stage decision making_
+
+[Plan stage capacity planning](https://app.periscopedata.com/app/gitlab/587512/Plan-stage-capacity-planning)
+
+_Primarily engineering analytics utilized for Plan Stage decision making_
 
 ##### Important data documentation
 
@@ -131,54 +130,37 @@ FROM table
 WHERE field = stage_name
 ;
 ```
-_SMAU_
 
-``` sql
+##### Helpful video resources
 
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_GMAU_
+[Plan Stage YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KoceqcTneOVmAzhEp6NinY0)
 
-``` sql
+##### What the Plan Stage team is working on
 
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_Other_
+[Link to 1 Year Plan](https://about.gitlab.com/direction/plan/#1-year-plan)
 
-##### Helpful user research and demos
+_A great handbook page to skim to understand the roadmap and focus for Plan_
 
-[Link to user research or demos]()
-_Group specification if applicable, brief description of youtube channel linked or specific singular video resource_
+##### Performance indicators
 
-##### Product roadmap link
+[Link to performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/dev-section/)
 
-[Link to product roadmap]()
-_Resource to understand the long-term goals for this team_
-
-##### OKRs
-
-[Link to OKRs handbook page]()
-_Resource to understand the current OKRs for this team_
+_Resource to understand the Performance Indicators for the Dev Section - Page can be searched by Stage and Group_
 
 ##### Key handbook pages
 
-[Link to helpful handbook page]()
-_Describe why this handbook page is helpful for product analysts_
+[Main Plan page](https://about.gitlab.com/handbook/product/categories/plan/)
+
+[Plan direction page](https://about.gitlab.com/direction/plan/)
+
 
 ##### Slack channels
 
-**#slack-channel**
-_Description_
+**#s_plan**
 
-##### Team heirarchy
+##### Team members
 
-[Link to team heirarchy]()
+[Handbook page to find Plan team members to collaborate with](/handbook/product/categories/#plan-stage)
 
 </details>
 
@@ -330,9 +312,9 @@ _Describe why this handbook page is helpful for product analysts_
 **#slack-channel**
 _Description_
 
-##### Team heirarchy
+##### Team members
 
-[Link to team heirarchy]()
+[Handbook page to find Verify team members to collaborate with](/handbook/product/categories/#verify-stage)
 
 </details>
 
@@ -407,7 +389,9 @@ _GitLab Docs are awesome!_
 
 ##### Team heirarchy
 
-[List of team members to contact if needed](/handbook/engineering/development/ops/package/#team-members)
+[Handbook page to find Package team members to collaborate with](/handbook/product/categories/#package-stage)
+
+[List of Package team members and their stable counterparts to contact if needed](/handbook/engineering/development/ops/package/#team-members)
 
 </details>
 
@@ -481,9 +465,9 @@ _Describe why this handbook page is helpful for product analysts_
 **#slack-channel**
 _Description_
 
-##### Team heirarchy
+##### Team members
 
-[Link to team heirarchy]()
+[Handbook page to find Release team members to collaborate with](/handbook/product/categories/#release-stage)
 
 </details>
 
@@ -557,9 +541,9 @@ _Describe why this handbook page is helpful for product analysts_
 **#slack-channel**
 _Description_
 
-##### Team heirarchy
+##### Team members
 
-[Link to team heirarchy]()
+[Handbook page to find Create team members to collaborate with](/handbook/product/categories/#configure-stage)
 
 
 </details>
@@ -634,9 +618,9 @@ _Describe why this handbook page is helpful for product analysts_
 **#slack-channel**
 _Description_
 
-##### Team heirarchy
+##### Team members
 
-[Link to team heirarchy]()
+[Handbook page to find Monitor team members to collaborate with](/handbook/product/categories/#monitor-stage)
 
 </details>
 
@@ -713,9 +697,9 @@ _Describe why this handbook page is helpful for product analysts_
 **#slack-channel**
 _Description_
 
-##### Team heirarchy
+##### Team members
 
-[Link to team heirarchy]()
+[Handbook page to find Secure team members to collaborate with](/handbook/product/categories/#secure-stage)
 
 </details>
 
@@ -790,8 +774,8 @@ _Describe why this handbook page is helpful for product analysts_
 **#slack-channel**
 _Description_
 
-##### Team heirarchy
+##### Team members
 
-[Link to team heirarchy]()
+[Handbook page to find Protect team members to collaborate with](/handbook/product/categories/#protect-stage)
 
 </details>
