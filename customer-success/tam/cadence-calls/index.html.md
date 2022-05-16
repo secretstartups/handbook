@@ -23,6 +23,7 @@ Cadence calls are an important aspect of TAM engagement to continue to understan
 - **Strategic Enterprise**: Cadence calls should be weekly during onboarding and at least once per month otherwise, considering specific customer needs and stage in customer lifecycle.
 - **Strategic Commercial**: Cadence calls should be weekly during onboarding and at least once per quarter otherwise, considering specific customer needs and stage in customer lifecycle.
 - **Named**: Cadence calls should be weekly during onboarding (first month of purchase) and at least once per quarter otherwise. Frequency of cadence calls may vary due to [prioritization](/handbook/customer-success/tam/engagement/#named-accounts) or customer needs.
+- **Scale**: Cadence calls are not scheduled on an ongoing basis for Scale TAM customers. Calls with customers are offered programmatically based on the key points defined in the [Scale TAM customer lifecycle](/handbook/customer-success/tam/segment/scale/#customer-lifecycle).
 
 Cadence calls should be [captured in Gainsight](/handbook/customer-success/tam/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
 
@@ -65,7 +66,7 @@ The following items are to be covered/completed in your initial cadence call wit
   - Leave room for the customer to bring up unplanned topics or questions
 - Recap & Next Steps 
 
-The collaboration project template includes a [meeting agenda issue template](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/.gitlab/issue_templates/Meeting%20Agenda.md) that is structured to follow this format.
+The collaboration project template includes a [meeting agenda issue template](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/.gitlab/issue_templates/Meeting%20Agenda.md) that is structured to follow this format. (Note: Scale TAM customers do not receive/use a collaboration project)
 
 The topics and the naming of the cadence call (when you send an invite to the customer) are also an important part of the TAM engagement. The following names for the cadence call have been used with success and are recommended - ordered by popularity:
 
