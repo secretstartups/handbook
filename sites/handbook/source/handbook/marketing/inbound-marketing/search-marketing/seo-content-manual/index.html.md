@@ -59,7 +59,6 @@ Creating valuable content means not just publicizing useful and attractive infor
 - A H1 tag (with keyword target)
 - At least 2 H2 tags (with keyword target or keyword variants)
 - Placement of the target keyword as close to the beginning of the first sentence on the first paragraph as possible.
-- The primary [keyword density](https://blog.alexa.com/keyword-density/) within the copy is about 2% (guideline, not a rule).
 - Metadata that matches the intent of the page content, including title tag, meta description and keywords properly placed
 - Inclusion of semantic terms where possible
 - Links to other related content (internal/external)
