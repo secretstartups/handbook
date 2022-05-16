@@ -33,8 +33,9 @@ Data Management covers practices and policies around managing, securing, and gov
 The Enterprise Data Platform captures, processes, and stores [data collected from many systems](/handbook/business-technology/data-team/platform/#extract-and-load). Not all of this data is of the same importance and we use the [Critical System Tier](/handbook/engineering/security/security-assurance/security-risk/storm-program/critical-systems.html) framework and [Data Classification Standard](/handbook/engineering/security/data-classification-standard.html#security-and-privacy-controls) to help us determine what data is most important and how to best secure it.
 
 ## Roles & Responsibilities
+
 | Role  | Responsibility | 
-| :--- | :--- |
+| :-- | :-- |
 | GitLab Team Members | Responsible for following the requirements in this procedure |
 | Data Management Team | Responsible for implementing and executing this procedure | 
 | Data Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
