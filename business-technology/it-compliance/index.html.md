@@ -75,4 +75,8 @@ IT Compliance works closely with our Security Compliance team to ensure that Git
 
 IT Compliance works closely with our internal business partners for all Enterprise Application Change Management. More information can be found in our [Business Technology Change Management](/handbook/business-technology/change-management/) handbook page. 
 
+#### IT Security and Compliance Tools
+
+IT Security and Compliance have some tools at our disposal in order to help the company maintain a SAFE and Secure. These tools include a VPN Solution NordLayer and a Google Drive security tool called Nira. Please follow the link above for more information about these tools. If you have any questions about these tools, please reach out in the `#business-technology` Slack channel. 
+
 
