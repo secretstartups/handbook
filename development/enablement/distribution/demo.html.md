@@ -11,7 +11,9 @@ title: "Distribution Team Demo"
 
 ## Weekly Demo ##
 
-Each Distribution team engineer is expected to present a demo related to an issue that was recently resolved, or a significant milestone in a long running epic.
+Distribution team members present demos related to work they've accomplished (or are developing) and share context. Special guests from outside the team also occasionally present to raise awareness and answer questions on specific subjects.
+
+[Demo recordings](https://www.youtube.com/playlist?list=PL05JrBw4t0KrPasGZcEUoHHIYdUtzpfA4) are publicly available on YouTube to spread knowledge, technologies and solutions the team creates.
 
 ### Goals ###
 The goals of our demos are to:
