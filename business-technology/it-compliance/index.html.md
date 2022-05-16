@@ -44,7 +44,7 @@ The IT Audit and Compliance function at GitLab is here to ensure as a company we
 
 ## How we work
 
-Our [IT Compliance](https://gitlab.com/groups/gitlab-com/-/boards/1802558?label_name[]=IT%20Compliance) and [IT Security](https://gitlab.com/groups/gitlab-com/-/boards/3481285) boards are where some of our work can be tracked. If you need help with anything or have any questions, you can add our label `IT Compliance` or `IT Security` to the issue. If you are unsure of who you need to engage, IT Compliance or IT Security, please tag `@gitlab-com/business-technology/it-compliance` and someone will assist. You can also find us hanging around in the `#business-technology` slack channel. 
+Our [IT Compliance](https://gitlab.com/groups/gitlab-com/-/boards/1802558?label_name[]=IT%20Compliance) and [IT Security](https://gitlab.com/groups/gitlab-com/-/boards/3481285) boards are where some of our work can be tracked. If you need help with anything or have any questions, you can add our label `IT Compliance` or `IT Security` to the issue. If you are unsure of who you need to engage, IT Compliance or IT Security, please tag `@gitlab-com/business-technology/it-compliance` and someone will assist. You can also find us hanging around in the `#it_compliance_security_help` slack channel. 
 
 ## What we do
 
