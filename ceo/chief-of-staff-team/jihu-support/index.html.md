@@ -135,12 +135,12 @@ Please refer to [JiHu Contribution Review Process](./jihu-contribution-review-pr
 Contributions in projects that have proprietary and upstream contributions will use the following guidelines to have a streamlined review.
 
 1. The `gitlab-jh` Engineering team will open two MRs:
-   1. JH MR with all changes on <https://jihulab.com/gitlab-cn/gitlab>
-   1. Inc MR with all non-`jh/` changes against the default branch in `gitlab-org/gitlab`
-1. The GitLab Inc MR will be reviewed by the `gitlab-org/gitlab` team members
+   1. JH MR with all changes on <https://jihulab.com/gitlab-cn/gitlab>.
+   1. Inc MR with all non-`jh/` changes against the default branch in `gitlab-org/gitlab`.
+1. The GitLab Inc MR will be reviewed by the `gitlab-org/gitlab` team members. Reviewers should follow the [guidelines for reviewing JiHu (JH) Edition related merge requests](https://docs.gitlab.com/ee/development/jh_features_review.html).
 1. After merging, the updates will be mirrored to <https://jihulab.com/gitlab-cn/gitlab> via pull mirroring and synced to the `main-jh` `https://jihulab.com/gitlab-cn/gitlab` branch with a [code sync](https://jihulab.com/gitlab-cn/code-sync).
 1. The `gitlab-jh` Engineering team will remove all non-`jh/` changes from the JH MR.
-1. The `gitlab-jh` Engineering team will review and merge the JH MR against the `gitlab-jh/gitlab` default branch
+1. The `gitlab-jh` Engineering team will review and merge the JH MR against the `gitlab-jh/gitlab` default branch.
 
 ![](gitlab-jh-mr-process.png)
 
