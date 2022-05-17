@@ -36,7 +36,7 @@ This is important and may be a hard thing for team members to undertake.  Howeve
 - Team member is unable to work in the start of their day, but instead starts work later and finishes later to manage their results/responsibilities. 
 - Team member is able to shift the days they work due to additional support at home and works for example a flexible schedule of Wednesday-Sunday, Sunday to Thursday or Saturday to Wednesday.
 - Team member is unable to work full-time due to home priorities, but is able to commit to a a reduced schedule. *(Note: There may be options based on local laws where a team member can go to a reduce work schedule and pay)*
-- Team member is unable to work and would like to request a [leave of absence](/handbook/paid-time-off/#unpaid-leave-of-absence).  Eligibility and details for leaves of absenses will vary based on local laws. 
+- Team member is unable to work and would like to request a [leave of absence](/handbook/people-policies/leave-of-absence/).  Eligibility and details for leaves of absenses will vary based on local laws. 
 
 **Here is a [COVID-19 Impact Self-Evaluation](https://docs.google.com/document/d/10gxjLqW62jZF5ksp9AhEsIoNpm093IlxgfqhzfisvZE/edit#heading=h.5ahg1o4v53q7) template that you can optionally use to help guide your conversations.**
 
@@ -46,62 +46,11 @@ Communication and collaboration is key to any relationship, particularly the wor
 
 We want to make sure that team members are doing the things necessary to take care of themselves. Please review the [COVID-19 resources](/handbook/total-rewards/benefits/covid-19/#resources-for-covid-19) content in the handbook and reach out to the [Employee Assistance Program: Modern Health](/handbook/total-rewards/benefits/modern-health/) as you see fit. We also want to encourage team members to continue to utilize our [PTO policy](/handbook/paid-time-off/) and take time off as needed.  We recognize that most team member's travel and vacation plans have altered dramatically during COVID, but a ["staycation"](https://www.merriam-webster.com/dictionary/staycation) and logging off from work is still strongly encouraged. Just work with your manager to make sure the appropriate coverage is available.
 
-
 ## COVID-19 Medical Leave Policy
 
-GitLab has long believed in ["family and friends first”](/handbook/values/#family-and-friends-first-work-second) and we realize that our team members may require some additional time away from work in the event they or a dependent family member are directly affected by COVID-19. In order to best support our team members who find themselves or family member(s) directly affected by COVID-19, GitLab has created this COVID-19 Medical Leave Policy to allow for leave time explicitly and guaranteed.
+GitLab has long believed in ["family and friends first”](/handbook/values/#family-and-friends-first-work-second) and we realize that our team members may require time away from work in the event they or a dependent family member are directly affected by COVID-19. If you or a family member is diagnosed with COVID, please contact the Absence Management Team (leaves@gitlab.com) to discuss your needs.  You may be eligible for statutory COVID leave in your [country](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits), and the Absence Management team will assist with determining eligibility under these statutory leave policies. 
 
-GitLab team members directly affected by COVID-19 who need to take leave for one of the two reasons set forth below are eligible to take up to 12 weeks of leave with full pay after utilizing our [Sick Leave policy](https://about.gitlab.com/handbook/paid-time-off/#sick-time---taking-and-reporting). In the event that the sick leave provided under your local law is more generous than this GitLab COVID-19 Policy, your local law will supersede this policy.
-1. The team member has received a confirmed medical diagnosis of COVID-19 from a licensed healthcare provider.
-1. The team member is caring for a [dependent family member](/handbook/total-rewards/benefits/covid-19/#faq-for-covid-19-medical-leave-policy) who has received a confirmed medical diagnosis of COVID-19 from a licensed healthcare provider.
-
-You do not have to physically see your physician for this confirmation. If telehealth services are available, we highly encourage you to utilize those in line with your community’s regulations around physical distancing, quarantine and self isolation.
-
-The ability to request COVID-19 Leave will run through April 30, 2022. That means, any requests for COVID-19 Leave must be made prior to April 30, 2022, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on April 30, 2022 for 4 weeks, the end date for their COVID-19 Leave would be in May 28, 2022.
-
-As the situation around COVID-19 continues to evolve, GitLab will continue to revisit this policy before the 25th of the month and may adjust it accordingly.
-
-### How to apply for COVID-19 Leave
-
-We encourage team members to only take the time they need to recover in accordance with the recommendation of your licensed healthcare provider. The maximum amount of time posted under this COVID-19 Leave Policy is 12 weeks, but medically, you may need less.
-
-For some, our [Paid Time Off Policy](/handbook/paid-time-off/) of 25 consecutive calendar days will be suitable. Please keep your manager informed of any upcoming Paid Time Off. You are in no way obligated to release a personal medical diagnosis of COVID-19 to your manager.
-
-If you meet the criteria set forth above and find that you need additional sick leave time past the 25 consecutive calendar days allowed under our Paid Time Off Policy, please follow these steps to apply for COVID-19 Leave:
-* On or before day 20 of your Paid Time Off,  please email leaves@gitlab.com with the following to request COVID-19 Leave:
-  * Start date of your Paid Time Off
-  * Start date of your COVID-19 Leave (this will be the 26th day after your Paid Time Off began)
-  * Anticipated end date of your COVID-19 Leave
-  * A note from a licensed healthcare professional confirming the leave for yourself or a dependent family member which you will be caring for and the start and end dates of your COVID-19 Leave (which should be consistent with the anticipated dates you are providing within your request). The Sr. Absence Management Partner will not ask for test results.
-* The Sr. Absence Management Partner will review the documents provided and communicate directly with the team member regarding any additional information needed (if necessary) and the result.
-* If approved, the Sr. Absence Management Partner will notify the PBP of the group and manager of the start and end dates of the COVID-19 Leave. They will not specify to your PBP or manager the reason for the leave.
-* The Sr. Absence Management Partner will notify payroll of the leave dates.
-* Stock Vesting, bonus payments, and benefits will not be affected by this leave during the 12 week time period.
-* The Sr. Absence Management Partner will follow up with the team member on a weekly basis to see how the team member is doing. If needed and in accordance with applicable law, they will request additional documentation around inability to work due to COVID-19.
-* The Sr. Absence Management Partner will confidentially file all ongoing documentation of inability to work through the weekly check ins.
-
-### FAQ for COVID-19 Medical Leave Policy
-
-* Does this cover leave to care for children under the age of 18 who are home because their school or childcare is unavailable due to COVID-19?
-  * No. We are reviewing the various legislation being passed in different jurisdictions and determining whether other forms of leave may be necessary to accommodate.
-* Can the leave be intermittent (e.g., 4 hours/day or 3 days/week)
-  * No. If, as this situation evolves and it is determined that recovery may allow work on an intermittent basis, the Total Rewards team will review and consider adjusting the policy as needed.
-* Will this policy apply across all of GitLab or just U.S.?  
-  * This policy is intended to apply globally.  Local laws or internal policies governing local jurisdictions that provide broader protections for team members will supersede this policy.
-* How does this leave interact with other leave policies provided by GitLab?
-  * As previously noted, local leave laws or policies will supersede this policy.  Additionally, the [Military Leave](/handbook/people-policies/leave-of-absence/#military-leave) policy will govern military specific leave needs.
-* How does this policy work in conjunction with my 25 days of unlimited PTO?
-  * This policy grants up to twelve weeks additional leave after you have used your initial 25 days PTO.  For many people, you will not need to use all of the 12 weeks to recover.
-* What if I can’t get tested for COVID-19?
-  * The Sr. Absence Management Partner needs a note from your health care provider certifying that you cannot work because you or a dependent family member you care for has been diagnosed (either via test or presumptively) with COVID-19.  They do not require you to provide testing results. You do not have to physically see your physician for this confirmation. If telehealth services are available, we highly encourage you to utilize those in line with your community’s regulations around physical distancing and self isolation.
-* Will anyone at GitLab know that I am sick? How will my privacy be respected?
-  * Your privacy and any documentation will be kept private (it will not be shared with your manager or anyone on your team) and only shared with the Sr. Absence Management Partner as needed to process your leave. Your manager and your team will have to be informed that you are on leave as you will not be available for work as normal, but will not provide the reason for the leave.
-* What is a “dependent family member?”
-  * A dependent family member is someone who you are directly responsible for as a caregiver. Examples can be: a spouse or significant other, dependent child; parent, sibling, etc
-* What if I am on a commission plan?
-  * If applicable, commissions are paid according to your applicable commission plan while on COVID-19 related leave based on the prior six months of performance with a cap at 100% of plan. On the day you return from leave and going forward, your commissions will be based on current performance only.
-* What is the last day to apply for COVID-19 Leave?
-  * The ability to request COVID-19 Leave will run through April 30, 2022. That means, any requests for COVID-19 Leave must be made prior to April 30, 2022, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on April 29, 2022 for 4 weeks, the end date for their COVID-19 Leave would be May 27, 2022. As the situation around COVID-19 continues to evolve, GitLab will continue to revisit this policy before the 25th of the month and may adjust it accordingly.
+If you are not eligible for statutory COVID leave in your country, GitLab has adapted it's [Sick Time policy](/handbook/paid-time-off/#sick-time---taking-and-reporting) to include COVID diagnosis' for both yourself and your family member(s). Once approved please enter your time away in PTO by Roots by selecting the `Out Sick` option. 
 
 ## Expensing the COVID-19 Vaccine 
 
