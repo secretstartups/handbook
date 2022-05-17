@@ -310,6 +310,26 @@ When an internal transition is taking place and the start date for that LOA is a
 
 If a team member goes through a promotion through BambooHR versus Greenhouse, a [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) is prepared by the Total Rewards team as listed on their handbook page.
 
+CES: Follow the instructions below on how to create and send a letter of adjustment. 
+
+1. Confirm that the start date is either on the 1st or 16th of the month. This is for payroll purposes and does not need to be on a business day. 
+1. The signatory is Director, Total Rewards, Brittany Rhodes. 
+1. Next, Click Generate 
+1. Select Letter of adjustment template in Greenhouse:
+- Letter of Adjustment w/ OTE
+- Letter of Adjustment w/ no OTE 
+1. Click on Send through Docusign 
+1. You will be redirected to DocuSign.
+1. On the top left of the screen, click where it says the candidate's name, then click "Edit Recipients". Change the order of recipients to reflect the following order:
+- #1 is Director, Total Rewards (needs to sign)
+- #1 Hiring Manager (receives a copy)
+- #2 Candidate (needs to sign)
+- #3 People Ops (receives a copy)
+- #3 Nitin Upadhyay (receives a copy)
+- This ensures that the contract goes to the GitLab signatory to sign first, as well as the recruiter for a Cc and once signed by them it will go to the People Experience for an update of records. 
+1. Then click "Done".
+1. When LOA is signed, ensure that you merge profiles before Hiring into BambooHR to avoid creating duplicate profile
+
 ## Rehires
 
 In the event that a former team member is rehired with the company, they will still go through the normal interviewing process. Once the contract is signed, the CES needs to notify the People Experience team and the Total Rewards team as soon as possible that a former team member has been rehired in the private people-exp_ces Slack channel.
