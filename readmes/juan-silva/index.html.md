@@ -4,6 +4,12 @@ title: "Juan Silva's README"
 job: "Fullstack Engineering Manager - Geo"
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 # Juan Silva @ GitLab
 
 (a.k.a my Manager README Doc)
