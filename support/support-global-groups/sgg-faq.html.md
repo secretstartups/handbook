@@ -356,6 +356,18 @@ with the rest of Support.
    working within both of these systems simultaneously, please see the
    [Prioritizing work](https://about.gitlab.com/handbook/support/support-global-groups/#prioritizing-work)
    topic on the SGG main handbook page.
+
+### 5. How should I reach out to a customer Support Focus Slack group?
+
+   Some customers have an associated Slack group of SEs who have particular
+   familiarity with their environment and who are available to provide
+   assistance with tickets that require specific insight. The Slack group names
+   follow the format `@spt_focus-<customer>`. The process for reaching out to a
+   focus group does not change with the implementation of SGG. To reach out to
+   a focus group, post a message to `#support_self-managed` pinging the group.
+   Please note that the focus groups are intended to provide guidance to an SE
+   handling a complex or sensitive ticket. They are not expected to own or
+   manage every ticket from their associated customer.
    
 ## Urgent Situations
 
