@@ -210,30 +210,8 @@ The Infrastructure team is the admin of GitLab.com, and any changes to product t
 
 #### Trials and Prospect Support
 
-By default, [trial licenses do not include support](https://about.gitlab.com/support/#trials-support).
-
-If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, as a member of the Sales team **you can grant temporary support for their trial license**. Please note this is only available for 60 days maximum. After that point, the account will be downgraded back to the standard levels for a trial/prospect.
-
-##### Considerations
-
-- This only applies to Prospects (i.e. non-customers). Existing customers are not eligible for trial/prospect support, as the purpose of this is for prospects for whom evaluation of support is a criteria in their decision.
-- Prospects won't be elegible for [emergency support](https://about.gitlab.com/support/#how-to-trigger-emergency-support) or ticket escalations.
-
-You can do this via Salesforce in a few simple steps:
-
-1. Browse to the organization's Salesforce record, locate the field titled `Manual Support Upgrade` and add a check mark.
-1. Add a contact record in Salesforce for each person in the organization who you want to be able to submit and work support tickets.
-1. Instruct your prospect to [open a new case](https://support.gitlab.com/hc/en-us/requests/new) via the web support portal and after selecting the reason for reaching out (whether self-managed or SaaS) be sure to ask that they select `Sales assisted trial` as their subscription level from the relevant dropdown menu.
-
-#### Important Additional Notes
-
-{:.no_toc}
-
-1. There is no need to contact the Support team - selecting `Manual Support Upgrade` will mean your prospect's tickets automatically get the correct SLA.
-1. Please wait for at least two hours after enabling the support upgrade before submitting a ticket to allow Salesforce and Zendesk to synchronize.
-1. Prospects who have been granted a temporary support upgrade receive [Priority Support SLAs](/support/#priority-support).
-1. Although the Support and Sales teams regularly review the list of prospects who have been granted a temporary support upgrade to ensure only active prospects are selected, **please uncheck the `Manual Support Upgrade` field when the trial ends.**.
-1. We are working with Sales Operations to put a limit on the maximum number of `Manual Support Upgrades`. This page will be updated when that work is completed.
+For information relating to priority prospects, please see
+[Priority Prospects](../priority_prospects).
 
 #### My customer is having trouble applying their GitLab.com subscription
 
