@@ -50,6 +50,10 @@ The following members of other functional teams are our stable counterparts:
 
 <%= stable_counterparts(role_regexp: /[,&] Verify(?!:)|Pipeline Authoring/, direct_manager_role: 'Backend Engineering Manager, Verify:Pipeline Authoring & Acting Backend Engineering, Verify:Pipeline Execution', other_manager_roles: ['Frontend Engineering Manager, Verify']) %>
 
+## Dashboards 
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Pipeline Authoring" } %>
+
 ## How We Work
 
 ### Iterations
