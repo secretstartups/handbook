@@ -15,7 +15,7 @@ title: "Frontend Group"
 * [Create](/handbook/engineering/frontend/create/)
 * [Manage](/handbook/engineering/frontend/manage/)
 * [Monitor](/handbook/engineering/frontend/monitor/)
-* [Plan](/handbook/engineering/development/dev/fe-plan/)
+* [Plan](/handbook/engineering/development/dev/plan/plan-fe/)
 * [Secure](/handbook/engineering/development/secure/)
 * [Verify and Release](/handbook/engineering/frontend/verify-release/)
 
