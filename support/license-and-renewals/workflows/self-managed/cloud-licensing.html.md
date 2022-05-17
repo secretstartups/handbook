@@ -9,18 +9,30 @@ category: GitLab Self-Managed licenses
 
 ----
 
-## Overview of Cloud Licensing
+## Cloud Licensing Overview
+In order to further encourage Cloud Licensing, the Strict Cloud Licensing project will include several iterations to encourage customers to use Cloud License activation codes rather than a Legacy License file to activate their self-managed instances. The following [GitLab internal licensing terms page](https://internal-handbook.gitlab.io/handbook/product/fulfillment/definitions/#licensing-terms) provides a technical definition of the current three types of licenses (Cloud Licensing, Offline and Legacy) associated with Cloud Licensing.
 
-From April 2022, in order to further encourage Cloud Licensing, self-managed customers will no longer receive a GitLab license file attached to their activation email. Instead, customers will now only receive a Cloud License activation code. The following [GitLab internal licensing terms page](https://internal-handbook.gitlab.io/handbook/product/fulfillment/definitions/#licensing-terms) provides a technical definition of the current three types of licenses (Cloud Licensing, Offline and Legacy) associated with Cloud Licensing.
+## Strict Cloud Licensing
 
-### Cloud Licensing Exemption
+**Effective April 2022:** In order to further encourage Cloud Licensing, self-managed customers will no longer receive a GitLab license file attached to their activation email. Instead, customers will now only receive a Cloud License activation code. If the customer does not want to use Cloud Licensing, they can receive a Legacy License file using the following methods:
+1. Direct Customers: login to Customers Portal and download the Legacy License file.
+2. Channel Customers: create a support ticket. The customer's license can be accessed via Customers Portal in the licenses section. The license should be generated with the end-user email address and emailed to the customer directly after creation. Unless the circumstances require, we should not send the licenses to any GitLab employee. Exceptions may include air-gapped installs or other situations where the customer cannot receive the license via the email. 
 
-Cloud Licensing will be enabled automatically by default as detailed in the [Strict Cloud Licensing roll out plan](https://gitlab.com/gitlab-org/gitlab/-/issues/351682) for all customers, with the exception of those purchasing an OSS, EDU or Start-Up product.
+**Effective June 2022:** Cloud Licensing will be enabled automatically by default as detailed in the [Strict Cloud Licensing roll out plan](https://gitlab.com/gitlab-org/gitlab/-/issues/351682) for all customers (except OSS, EDU or Start-Up products). Customers will no longer have the ability to download a license file from Customers Portal. In addition, Offline licenses will now be available to allow customers with air-gapped or offline instances to receive the benefits of Cloud Licensing. In order to receive a Legacy License or Offline License, customers will need to follow the below outlined process.
 
-Customers who cannot activate with Cloud Licensing will need to obtain either an Offline Cloud License or a Legacy License. The process for this is that the customer will need to contact their Sales Account Manager and request a Cloud Licensing exemption. This request must then be approved by a Sales VP.
+## Cloud Licensing Exemptions
 
-For a customer exemption to be put in place, the following flag "Cloud Licensing" in [CustomersDot's Admin](https://customers.gitlab.com/admin) under:
- "admin/customer/<CUSTOMER_ID>/zuora_subscriptions" needs to be set to either "Offline" or "No", as shown in the screenshot below.
+### Pre-Sale Exemption (Sales)
+
+Customers who cannot activate with Cloud Licensing will need to obtain either an Offline Cloud License or a Legacy License. The process for this is that the customer will need to contact their Sales Account Manager and request a Cloud Licensing exemption. 
+By default, the `TurnOnCloudLicensing__c` flag in SFDC will be set to `Yes` on every quote during the sales cycle. If the Sales Rep wants to opt the customer out, they can update this field to `Offline` or `No`. If this occurs, approval is required via the standard SFDC approval processes by a Sales VP. Once the quote is finalized AND approved, the quote is synced to Zuora, which in turn creates and activates the subscription. In this scenario, the customer will receive their activation email with their license file attached and will also have the ability to download the license file from the [GitLab Customers portal](https://customers.gitlab.com/customers/sign_in).
+
+### Post-Sale Exemptions (Support)
+
+The above defined sales-initiated exemption process should be used for all customers. However, if an emergency situation arises where a Legacy License or Offline License is requested by a customer after they have already received a Cloud License activation email, and the sales account manager is unable or unavailable to exempt the customer, then a support engineer should request that a support manager approves the exemption request. 
+
+If approved, the support engineer will need to first update the `Cloud Licensing` flag within [CustomersDot's Admin](https://customers.gitlab.com/admin).
+Under "admin/customer/<CUSTOMER_ID>/zuora_subscriptions", the flag needs to be set to either "Offline" or "No", as shown in the screenshot below.
 
 ![Zuora](/images/support/ZuoraImage.png)
 
@@ -32,22 +44,9 @@ The matrix below defines the impact of setting the `Cloud Licensing` flag value 
 | Offline | Eligible | Eligible | Not Eligible | 
 | No  | Eligible | Eligible | Eligible |
 
-#### Emergency Legacy License generation
-
-The above defined sales-initiated exemption process should be used for all customers, however if an emergency situation arises where a Legacy License is required by a customer and the sales account manager is unable or unavailable to exempt the customer, then a support engineer should request that a support manager approves the exemption request. In scenarios such as this, the support engineer should ensure that the `Cloud Licensing Flag` is set to `No` before updating the subscription. 
-
-Next they should then generate the license manually as detailed in [Creating a Legacy License File](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#create-a-legacy-license)
+Once updated, the support engineer should then generate the license manually as detailed in [Creating a Legacy License File](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#create-a-legacy-license).
 
 
-## Direct Customers
-Customers who are not purchasing through a channel partner will be able to access their license file from within the Customer Portal if the "Cloud Licensing" flag is set to "Offline" or "No".
 
 
-## Channel Customers
-Currently channel customers do not have access to the Customer Portal. Instead, they will be directed to submit a Support ticket to receive a license file.
 
-The customer's license can be accessed via CustomerDot in the licenses section. The license should then be emailed to the customer directly after creation. Unless the circumstances require, we should not send the licenses to any GitLab employee. Exceptions may include air-gapped installs or other situations where the customer cannot receive the license via the email.
-
-Note that a license should always be generated with the end-user email address. A license should not be generated with reseller or GitLab team member details if the license is for a customer.
-
-Please note that from [Iteration 4 of the roll out plan](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/526) channel customers will be also included as part of the Cloud Licensing roll out and any exemption requests should follow the above outlined guidelines.  
