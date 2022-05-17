@@ -131,7 +131,7 @@ as [velocity is more important than predictability](/handbook/engineering/develo
 
 ### Capacity planning documentation from other teams
 
-* [Plan:Project Management BE Team Capacity Planning](/handbook/engineering/development/dev/plan-project-management-be/#capacity-planning)
+* [Plan:Project Management BE Team Capacity Planning](/handbook/engineering/development/dev/plan/plan-project-management-be/#capacity-planning)
 * [Create: Source Code BE Team Weights](/handbook/engineering/development/dev/create/source-code-be/#weights)
 * [Geo Team Weights](/handbook/engineering/development/enablement/geo/process.html#weights)
 * [Enablement:Memory](/handbook/engineering/development/enablement/memory/)
