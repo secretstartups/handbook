@@ -626,7 +626,7 @@ We do not offer the webcast recording on demand.  However, we do provide a link 
 #### Workshop Registration Caps and Closing Registration
 **DRI: FMC and FMM**  
 
-The GitLab demo environment can currently support up to 200 users at one time, however, capacities per workshop are highly dependent on content and how many SAs will be supporting the event. The FMM is to work with the Lead SA to determine the maximum capacity and number of SAs for each workshop. Below are baseline estimates to optimize attendee experience.   
+The GitLab demo environment can currently support up to 250 users at one time, however, capacities per workshop are highly dependent on content and how many SAs will be supporting the event. The FMM is to work with the Lead SA to determine the maximum capacity and number of SAs for each workshop. Below are baseline estimates to optimize attendee experience.   
 
 | Workshop                   | Capacity (accounting for 40-50% workshop attendance rate) | Minimum Number of SAs
 |----------------------------|--------------------------------------------------| ------------------------
