@@ -159,13 +159,10 @@ The following parameters are considered when determining customer prioritization
 
 | Parameter                                                                     | Yes                                                                                                 | No                                                                                                               |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| [**LAM**](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) | High degree of confidence, or explicit evidence, of greater than 10%                                | Uncertain about LAM, or know for sure it is less than 10%                                                        |
-| **Growth in the next 6 months**                                               | Open growth opportunity in Salesforce, and/or explicitly stated intent from the customer for growth | Uncertain about growth in the given timeframe, or the customer has clearly said they have no growth in that time |
-| **Open tier upgrade**                                                         | Upgrade opportunity is open in Salesforce and actively being discussed with the customer            | No open opportunity in Salesforce, and/or no active upgrade discussion with the customer                         |
-| **Current/upcoming stage adoption**                                           | Actively working with the customer on planning or implementation                                    | Nothing actively being worked on, or only discussed as a future initiative                                       |
-| **Current/upcoming infrastructure change**                                    | Actively working with the customer on planning or implementation                                    | Nothing actively being worked on, or only discussed as a future initiative                                       |
+| **Open tier upgrade in the next 3 months**                                                         | Upgrade opportunity is open in Salesforce and actively being discussed with the customer            | No open opportunity in Salesforce, and/or no active upgrade discussion with the customer                         |
 | **Contraction or Churn risk**                                    | Account in Triage process                                    | No contraction or churn risk identified                                      |
-| **Customer lifecycle stage**                                    | Customer in onboarding                                    | Onboarding completed successfully                                      |
+| **Onboarding**                                    | Within first 60 days of onboarding                                    | Not in onboarding phase                                      |
+| **ARR limit**                                    | Within ARR limits for P1                                    | Not within ARR limits for P1 phase                                      |
 
 ##### Prioritization model
 
@@ -175,17 +172,15 @@ Using the defined parameters and guidance on how to know whether they are applic
 Online Mermaid editor: https://mermaid-js.github.io/mermaid-live-editor
 <-->
 ```mermaid
-graph TD;
-  upgrade[Open up-tier opp closing in next 6 months]-- Yes -->p1;
-  upgrade-- No -->stage;
-  stage[Stage adoption this quarter requiring >2hrs TAM time per week]-- Yes -->p1;
-  stage-- No --> infra;
-  infra[Infra change this quarter requiring >2hrs TAM time per week]-- Yes -->p1;
-  infra-- No -->churnrisk;
+graph TD
+  uptier[Open tier upgrade in the next 3 months]-- Yes -->p1;
+  uptier-- No -->churnrisk;
   churnrisk[At risk of contraction or churn]-- Yes -->p1;
   churnrisk-- No -->onboarding;
-  onboarding[First 30-45 days of onboarding]-- Yes -->p1;
-  onboarding-- No -->p1exception;
+  onboarding[First 60 days of onboarding]-- Yes -->p1;
+  onboarding-- No -->ARR;
+  ARR[Within P1 ARR limits]-- Yes -->p1;
+  ARR-- No -->p1exception;
   p1exception["P1 exception*"]-- Yes -->p1;
   p1exception-- No -->p2;
   p1((Priority 1));
@@ -193,6 +188,8 @@ graph TD;
   p2exception["P2 exception*"]-- Yes -->p2;
   p2{{Priority 2}};
 ```
+
+A [working spreadsheet](https://docs.google.com/spreadsheets/d/12n3EvB_KpJJp_cz_bfKIhMWoQkjZcLlzggc7xN6De6k/edit#gid=438918120) was created to help determine customer priority.
 
 _* Please see [priority exceptions](#priority-exceptions) for details._
 
