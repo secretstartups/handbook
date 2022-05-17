@@ -94,7 +94,7 @@ Key practices to consider during any meeting are listed below.
 
 ### Communicating with media and industry analysts
 
-GitLab employees and contractors are not authorized to speak with the media or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
+GitLab team members are not authorized to speak with the media or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
 
 For more, please visit the [Corporate Communications handbook section](/handbook/marketing/corporate-marketing/#corporate-communications-and-pr-public-relations).
 
