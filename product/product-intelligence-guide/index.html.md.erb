@@ -90,40 +90,7 @@ A user signups for a free GitLab.com account and creates a group and/or project 
 
 ## Which Tooling To Use
 
-![Collection Framework Visual](collection_framework.png)
-
-✅ Available, 🔄 In Progress, 📅 Planned, ✖️ Not Planned
-
-
-### Snowplow
-
-Snowplow is an enterprise-grade marketing and product analytics platform which helps track the way
-users engage with our website and application.
-
-Snowplow consists of two components:
-
-- [Snowplow JS](https://github.com/snowplow/snowplow/wiki/javascript-tracker) tracks client-side
-events.
-- [Snowplow Ruby](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/ruby-tracker/) tracks server-side events.
-
-For more details, read the [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html) guide.
-
-### Service Ping
-
-Service Ping is a method for GitLab Inc to collect usage data on a GitLab instance. Service Ping is primarily composed of row counts for different tables in the instance’s database. By comparing these counts month over month (or week over week), we can get a rough sense for how an instance is using the different features within the product. This high-level data is used to help our product, support, and sales teams.
-
-With the exception of name and email of the license contact associated with customer instances, service ping does not collect personally identifiable (PII) data about the instances users. Service ping simply increments a number when a code path is executed in the application. It can function without any understanding of who users are.
-
-- Reporting level: We can report at an **aggregate** user level (by instance), using Service Ping but not on an **individual** user level.
-- Reporting time period: Our reporting time periods varies by segment. For example, on Self-Managed Users, we can report all time counts and 28 day counts in Service Ping.
-
-
-For more details, read the [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) guide.
-
-### Database import
-
-Database imports are full imports of data into GitLab's data warehouse. For GitLab.com, the PostgreSQL database is loaded into Snowflake data warehouse every 6 hours. For more details, see the [data team handbook](/handbook/business-ops/data-team/platform/#extract-and-load).
-
+Check the [Getting started with Product Intelligence](/handbook/product/product-intelligence-guide/getting-started/). 
 
 ## Metrics Dictionary
 
