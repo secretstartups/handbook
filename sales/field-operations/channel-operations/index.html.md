@@ -54,6 +54,19 @@ Once a template has been selected, the description box will be populated with th
 **3. Before you submit**
 
 Please ensure your issue is **unassigned** as our team will be assigning issues based on the team bandwidth.
+
+
+**Issue Templates Video**
+{: .panel-heading}
+ 
+<div class="panel-body">
+<figure class="video_container">
+ <video controls="true" allowfullscreen="true" poster="/images/default-blog-image.png">
+   <source src="html5-Issue.Templates.mp4" type="video/mp4">
+ </video>
+</figure>
+</div>
+
  
 
 ## Communicating with the Channel Teams via Slack
