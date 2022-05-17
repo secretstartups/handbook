@@ -77,7 +77,7 @@ Content to cover in each Key Review:
 1. Key Metrics Update (5% of review time)
 
 Important notes:
-1. Before every Key Review, the OKRs should be updated by the functional DRI by updating the Health Status of their KR issues as detailed in [Maintaining the status of OKRs](https://about.gitlab.com/company/okrs/#maintaining-the-status-of-okrs)
+1. Before every Key Review, the OKRs should be updated by the functional DRI by updating the Health Status of their KRs in Ally.io as detailed in [Maintaining the status of OKRs](https://about.gitlab.com/company/okrs/#maintaining-the-status-of-okrs)
 1. A document will be linked from the calendar invite for participants to log questions or comments for discussion and to any additional track decisions & action items.
 1. Every department KPI should be covered. This can be in the presentation and/or links to the handbook.
 1. [Top 12 cross-functional initiatives](/company/team/structure/working-groups/#12-cross-functional-initiatives) should be covered in the sessions that map to the E-Group sponsor. Related issues and epics should be updated in advance of the meeting.
