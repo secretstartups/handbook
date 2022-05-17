@@ -1,3 +1,16 @@
+---
+layout: handbook-page-toc
+title: "NordLayer"
+description: "NordLayer End User Setup Guide"
+---
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## NordLayer Setup Guide and Basic Troubleshooting
 
 To request NordLayer, please reach out in the #it_compliance_security_help Slack channel for a license and provisioning. As long as we have licenses left, you will receive a signup email with a link to activate your account. Once activated, you will be redirected to a NordLayer landing page with a link to download the application. Follow the installation instructions and prompts. If you run into any installation issues or questions, Nordlayer has support available to us via [Help Center Chat](https://help.nordlayer.com/). You can also reach out in the #it_compliance_security_help Slack channel.

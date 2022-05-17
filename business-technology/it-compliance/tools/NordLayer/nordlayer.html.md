@@ -1,3 +1,16 @@
+---
+layout: handbook-page-toc
+title: "Nordlayer"
+description: "What is NordLayer?"
+---
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ####What Is NordLayer?
 NordLayer is our supported VPN (Virtual Private Network) platform for GitLab Team Members. VPN solutions have numerous benefits for organizational security—it is a technology that provides secure internet connections for remote users accessing company resources. VPNs also establish data encryption that conceals ongoing data transactions. A VPN can encrypt data traffic, separate it from public Wi-Fi, and secure remote access to corporate assets even from unprotected networks.
 
