@@ -17,35 +17,13 @@ Release posts are [blog posts](/releases/categories/releases/) that announce cha
 
 Release posts follow a process outlined here, and the templates that are used to create them also highlight what needs to be done, by whom, and when those items are due.
 
-**Note:** We're evolving our release post process! You can view and share feedback on the latest direction by viewing [Scaling the release post](https://docs.google.com/presentation/d/1_Osx3FrDxT4aqjl-Kc9QXgp30z0Pl1k4tBCv0DlZYkk/edit).
+_Note:_ We're evolving our release post process! You can view and share feedback on the latest direction by viewing [Scaling the release post](https://docs.google.com/presentation/d/1_Osx3FrDxT4aqjl-Kc9QXgp30z0Pl1k4tBCv0DlZYkk/edit).
+{:.note}
 
 ## Quick Links
 
-### Related pages
-
-- [GitLab the product](https://about.gitlab.com/handbook/product/gitlab-the-product/#gitlab-the-product)
-- [General guidance on deprecations, removals and breaking changes](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features)
-- [Release Post volunteer schedule](managers/)
-- [Security and monthly releases](/releases/categories/releases/)
-- [Features per release](/releases/)
-- [GitLab CE and GitLab EE changelog](https://gitlab.com/gitlab-org/gitlab/-/blob/master/CHANGELOG.md)
-- [Release managers](/community/release-managers/)
-
-### Templates
-
-- [Monthly release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md)
-- [Release post item MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
-- [Deprecation issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Deprecations.md)
-- [Deprecation MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md)
-- [Removal MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Removals.md)
-- [Release post bug, usability and performance improvements MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md)
-- [MVP issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/release-post-mvp-nominations.md)
-- [Release Post retrospective issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/Release-Post-Retrospective.md)
-- [YML content block samples](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples)
-- [Patch release template](https://gitlab.com/gitlab-org/release-tools/-/blob/master/templates/patch_release_blog_template.html.md.erb)
-- [Security release template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/security_release_blog_template.html.md)
-
----
+- [Frequently used templates](/handbook/marketing/blog/release-posts/#templates)
+- [Helpful reference pages](/handbook/marketing/blog/release-posts/#pages)
 
 ## Schedule
 
@@ -53,48 +31,40 @@ At a high level, the Release post schedule is:
 
 ### On the 3rd
 
-- The [Release Post Process Kickoff Tasks](https://gitlab.com/gitlab-com/www-gitlab-com/-/pipeline_schedules) pipeline runs which will trigger `bin/rake release_post:start`
+- The [Release Post Process Kickoff Tasks](https://gitlab.com/gitlab-com/www-gitlab-com/-/pipeline_schedules) pipeline triggers `bin/rake release_post:start`
 - This task creates the branches, MRs, and issues necessary to run the Release Post process
 - The MRs and issues will be assigned to the release post manager using the content in [release_post_managers.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_post_managers.yml)
 
 ### 3rd to 10th
 
-- **PMs** contribute MRs for their content blocks:
+- **PMs** contribute MRs for their [content blocks](#pm-contributors)
   - [Features and Upgrades](#instructions) are contributed as release post item MRs targeting the release post branch
   - Primary items are added to `features.yml`
   - Recurring content blocks for Omnibus, GitLab Runner, and Mattermost are added by the area owner
   - Uncategorized items can be included as [extras](#extras)
-
-- **EMs and PMs** announce deprecations and removals:
-  - [Deprecations and Removals](#deprecations-removals-and-breaking-changes) are added to the GitLab Docs
+- **EMs and PMs** announce [deprecations and removals](#deprecations-removals-and-breaking-changes)
 
 ### By the 15th
 
 - **EMs, PMs, and PDs** contribute MRs for [Usability, Performance Improvements, and Bug Fixes](#usability-improvements-performance-improvements-and-bug-fixes)
-
-For items that are feature flagged, it is recommended they are `enabled by default` by this date to ensure inclusion into self-managed release. Deprecation and removal MRs are assigned to TWs for final review and merge.
-{: .note}
+- **EMs and PMs** make sure items that are feature flagged are `enabled by default` to ensure inclusion into the self-managed release.
+- Deprecation and removal MRs are assigned to TWs for final review and merge.
 
 ### By the 16th
 
-- **TWs** finish review of Features, Deprecations, Removals, Upgrades, and Extras
+- **TW Reviewers** finish review of Features, Deprecations, Removals, Upgrades, and Extras
 - **TW Lead** reviews usability, bugs and performance improvement MRs
-
-Optional: PMMs, Product Designers, and PM Leader contribute to reviews
-{: .note}
+- **PMMs, Product Designers, and PM Leaders** do optional reviews of release post item MRs
 
 ### By the 17th
 
 - **EMs**:
   - Merge feature release post item MRs if the underlying code was merged _before_ the 17th
-  - Or if manually verified to be in the release (check the release stable branch)
+  - Merge feature release post item MRs if manually verified to be in the release
 
-Note: "Merging code by the 17th [does not guarantee](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) that the feature will be in the milestone release."
-{: .note}
+- **Release Post Manager** merges usability, performance improvements, and bug fixes MRs
 
-- **Release Post Manager** merges recurring MRs for usability, performance improvements and bug fixes
-
-- **TW Reviewers** merge deprecation MRs
+- **TW Reviewers** merge deprecation and removal MRs
 
 Note: MRs added after the 17th should target the `release-x-y` branch, not `master`
 {: .note}
@@ -114,7 +84,7 @@ Note: MRs added after the 17th should target the `release-x-y` branch, not `mast
 Note: The 18th - 20th can fall on vacations, weekends, or holidays. PMs should designate who to respond to time-sensitive inquiries should they be unreachable. Release Post Managers are empowered to make decisions and [display bias for action](https://about.gitlab.com/handbook/values/#bias-for-action) if they haven't received a response by EOD on the 20th.
 {: .note}
 
-### On the 22nd of Month
+### On the 22nd
 
 - **Release team** publishes the latest package
 - After the package is released, the **Release Post Manager** publishes the release post to master
@@ -1275,6 +1245,8 @@ _To be added by Engineering Managers, Product Managers and Product Designers._
 
 The Release Post manager will post notifications and share reminders to collect contributions for usability improvements, performance improvements, and bugs. Engineering Managers can contribute to performance improvements and both Engineering Managers and Product Managers can contribute to bug fixes. Both Product Managers and Product Designers can contribute to usability improvements.
 
+For items that are feature flagged, it is recommended they are `enabled by default` by the 15th to ensure inclusion into the self-managed release.
+
 ### Omnibus improvements
 
 _To be added by the Distribution Product Manager._
@@ -1904,3 +1876,29 @@ The What's New MR will be initiated by the Release Post Manager on the 20th, fin
 1. After the release post is live and you have verified the images load locally in GDK by pulling down the What's New branch, have the MR reviewed following our standard [code review process](https://docs.gitlab.com/ee/development/code_review.html) and have it merged by a `maintainer`. It is recommended to communicate directly to the maintainer that the MR is time sensitive to avoid unnecessary delays.
 
 **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display.** After the release post is live, but before merging, the branch should be checked out and the content checked in GDK to make sure that all images are displaying, links are accurate, and that the What's New items are part of the final release post. Only once those are confirmed should the MR be merged. Typically this means the What's New content will be live on the 23rd or 24th, depending on maintainer reviews.
+
+## Related
+
+### Pages
+
+- [GitLab the product](https://about.gitlab.com/handbook/product/gitlab-the-product/#gitlab-the-product)
+- [General guidance on deprecations, remvoals and breaking changes](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features)
+- [Release Post volunteer schedule](managers/)
+- [Security and monthly releases](/releases/categories/releases/)
+- [Features per release](/releases/)
+- [GitLab CE and GitLab EE changelog](https://gitlab.com/gitlab-org/gitlab/-/blob/master/CHANGELOG.md)
+- [Release managers](/community/release-managers/)
+
+### Templates
+
+- [Monthly release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md)
+- [Release post item MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
+- [Deprecation issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Deprecations.md)
+- [Deprecation MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md)
+- [Removal MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Removals.md)
+- [Release post bug, usability and performance improvements MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md)
+- [MVP issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/release-post-mvp-nominations.md)
+- [Release Post retrospective issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/Release-Post-Retrospective.md)
+- [YML content block samples](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples)
+- [Patch release template](https://gitlab.com/gitlab-org/release-tools/-/blob/master/templates/patch_release_blog_template.html.md.erb)
+- [Security release template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/security_release_blog_template.html.md)
