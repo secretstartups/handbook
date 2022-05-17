@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: “Mario Mora's README"
+title: "Mario Mora's README"
 description: "Personal readme page for Mario Mora, Support Engineer, GitLab"
 job: "Support Engineer"
 ---
