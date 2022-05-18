@@ -23,15 +23,15 @@ Sign up for the Slack training by completing [this Google form](https://docs.goo
 As of 2022-02-09:
 
 1. 93.7% of learners would recommend this training to other team members
-1. 75% of learners agree that their confidence in successfully using Slack at GitLab increased after completing this training.
-1. 75% of learners agree that the training helped them feel empowered with knowledge and resources needed to to speak up for GitLab values and correct usage of Slack.
 1. 81% of learners discovered at least 1 new strategy or best practice for using Slack at GitLab
+1. 75% of learners agree that their confidence in successfully using Slack at GitLab increased after completing this training
+1. 75% of learners agree that the training helped them feel empowered with knowledge and resources needed to speak up for GitLab values and correct usage of Slack
 
 **What learners are saying:**
 
-`This training was great and I'm glad I was able to participate! If this training is not already part of onboarding for new team members, it should be considered.`
+>This training was great and I'm glad I was able to participate! If this training is not already part of onboarding for new team members, it should be considered.
 
-`It was a great refresher for me!`
+>It was a great refresher for me!
 
 ### Is this training right for me?
 
@@ -43,7 +43,7 @@ This training is built for:
 This training is **not** built for:
 
 1. Super experts in Slack: the training is focused on Slack basics and their connection to GitLab values.
-1. Learners looking for advanced used of Slack commands and automations (follow along with planning for[Slack Training 2.0](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/356) for more advanced resources)
+1. Learners looking for advanced used of Slack commands and automations (follow along with planning for [Slack Training 2.0](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/356) for more advanced resources)
 
 
 ## Learning Objectives
@@ -69,9 +69,9 @@ If you meet these requirements, please use [this Google form](https://docs.googl
 
 Here's what to expect in the Slack training:
 
-1. After signing up, you'll be added to a training cohort Slack group and the [#slack-training Slack channel](https://app.slack.com/client/T02592416/C02MX7LTXK9/thread/G018JT50VH7-1641496150.005700). The current goal is to run at least one cohort per month.
+1. After signing up, you'll be added to a training cohort Slack group and the [#slack-training](https://app.slack.com/client/T02592416/C02MX7LTXK9) Slack channel. The current goal is to run at least one cohort per month.
 1. The training will run for 10 business days
-1. Each day, you'll get one Slack group ping with your daily task instructions, posted publically to the [#slack-training channel](https://app.slack.com/client/T02592416/C02MX7LTXK9/thread/G018JT50VH7-1641496150.005700)
+1. Each day, you'll get one Slack group ping with your daily task instructions, posted publicly to the [#slack-training channel](https://app.slack.com/client/T02592416/C02MX7LTXK9/thread/G018JT50VH7-1641496150.005700)
 1. Messages will be scheduled by the L&D team and are triggered to send at 3pm UTC
 
 ### Topics Covered
@@ -113,5 +113,5 @@ The following topics will be prioritized in future iterations of this training:
 
 ## Questions
 
-Reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) with any questions.
+Reach out in the [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack channel with any questions.
 
