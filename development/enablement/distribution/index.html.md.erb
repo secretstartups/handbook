@@ -12,13 +12,20 @@ description: "The primary user persona for Distribution is the system administra
 
 ## Overview
 
-The primary user persona for Distribution is the system administrator responsible for managing a GitLab instance. The team goals are to make it as easy as possible to deploy, scale, upgrade, and fine tune a GitLab instance on a range of on-prem and cloud platforms.
+The Distribution team is composed of two subgroups: **Distribution:Build** and **Distribution:Deploy**
 
-Target deployments are anything from a single node deployment for evaluating GitLab all the way through to the 50K user reference architecture and beyond. The ultimate goal is to ensure the end user has a high-speed experience when using GitLab with no downtime or disruptions.
+Build team is focused on producing artifacts including system packages, container images, and related components like marketplace listings along with tooling required to create and maintain them.
 
-The Omnibus package and Helm Chart are the primary deployment methods that Distribution focuses on.
+Deploy team is focused on installation and upgrade mechanisms to ensure smooth deployments. This includes system integration, scripting, templating, and related configuration management tooling.
 
-The Distribution team is comprised of two groups, Distribution:Build and Distribution:Deploy.
+In addition to [product deliverables](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Adistribution&label_name%5B%5D=Deliverable&milestone_title=Any), both groups review a large number of MR's authored outside the team. These include dependency and security updates along with configuration controls and other bundled components like PostgreSQL, Consul, Patroni.
+
+## Target Consumers
+The primary user persona for Distribution are system administrators who are responsible for managing GitLab instances. Team goals are to make it as easy as possible to deploy, upgrade and configure GitLab on a range of on-prem and cloud platforms at a variety of scales.
+
+Deployments include everything from single node deployments for evaluating GitLab all the way through the 50K user reference architecture and beyond. The primary goal is to ensure end users have a high-speed, low-friction experience when managing GitLab with limited downtime or sevice disruptions.
+
+Omnibus packages, Helm Charts and Operators are primary deployment methods Distribution currently supports.
 
 ### Distribution Build
 
@@ -59,11 +66,11 @@ Distribution team vision is shown below, and not limited to:
 
 * GitLab has an official installation method on all major platforms and architectures.
 * GitLab offers official one click installation method on all major cloud platforms.
-* Part of official repositories for any Kubernetes package repository.
+* GitLab is able to automatically upgrade itself safely and reliably.
+* Official repositories for any Kubernetes package repository.
+* GitLab runs equally well on both high and low resource systems (such as Raspberry Pi).
 * GitLab.com is running using the official installation methods.
-* GitLab runs on low resources systems such as Raspberry Pi.
 * All GitLab features are installed and configured by default.
-* GitLab is able to automatically upgrade itself.
 * Installation interface to set up and configure GitLab.
 * Any GitLab installation is able to report installation/upgrade errors automatically.
 * Setting up GitLab in HA configuration is automated and simple.
@@ -72,14 +79,13 @@ Distribution team vision is shown below, and not limited to:
 
 ### Team
 
-* Team has official certifications for frequently used platforms.
-* Each team member is able to work on all team projects.
-* Team is able to reach a conclusion independently all the time, consensus most of the time.
+* Each team member is able to work on all team projects along with the ability to focus on specific technologies.
 * Each team member is a part of a hiring panel aimed to hire better than the best in the team.
+* Team creates documenation to increase knowledge and awareness to support a self-service model.
+* Team is able to reach a conclusion independently all the time, consensus most of the time.
+* Team has official certifications for frequently used technologies and platforms.
 * On-boarding and off-boarding is efficient.
 * Career development paths are clear.
-* Team creates a database of knowledge through documentation, [training sessions](training.html) and
-outreach.
 
 ## Mission
 
@@ -87,11 +93,11 @@ Distribution ensures the experience of installing and maintaining GitLab is easy
 
 ### Distribution:Build Charter
 
-The focus for the Build group of the Distribution team is to ensure the components that make up GitLab are tested, up to date, license compliant, and available for our users’ platforms and architectures. This group manages the build pipelines, researches support for new services, platforms, and architectures, as well as maintains existing ones. We strive to respond efficiently to build failures, security results, and dependency changes in order to ensure a safe reliable product for our users.
+Build team focus is ensuring GitLab components are tested, current, license compliant, and available for our users’ platforms and architectures. This group manages the build pipelines, researches support for new services, platforms, and architectures, as well as maintains existing ones. We strive to respond efficiently to build failures, security results, and dependency changes in order to ensure a safe reliable product for our users.
 
 ### Distribution:Deploy Charter
 
-The focus for the Deploy group of the Distribution team surrounds configuration, deployment, and operation of GitLab as a whole product. The goal is to deliver an intuitive, clear, and frictionless installation experience, followed by smooth, seamless upgrade and maintenance processes for deployments of any scale. We strive to deliver ongoing operational behaviors for scaling, little to zero downtime upgrades, and highly reliable experiences for not only instance administrators but their users.
+Deploy team focus is configuration, deployment, and operation of GitLab as a whole product. The goal is to deliver an intuitive, clear, and frictionless installation experience, followed by smooth, seamless upgrade and maintenance processes for deployments of any scale. We strive to deliver ongoing operational behaviors for scaling, little to zero downtime upgrades, and highly reliable experiences for not only instance administrators but their users.
 
 ## Goals
 
@@ -135,7 +141,6 @@ In addition to the [separate responsibilities](#overview) for Build and Deploy. 
 1. A cloud native installation method.
    - Installation using the Helm charts is able to scale easily with the increased demand.
 1. [Triaging issues](triage.html) and [Reviewing Merge Requests](merge_requests.html) in all owned [projects](#all-projects).
-1. Creating [training sessions](training.html).
 1. Providing regular [demonstrations](demo.html) of recent solutions or works in progress
 
 ## Team objectives
