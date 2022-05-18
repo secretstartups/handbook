@@ -80,7 +80,7 @@ It's important for team members (both PMG and GitLab) update assignees, mileston
 [PMG Milestones](https://gitlab.com/gitlab-com/marketing/digital-advertising/-/milestones) contain issues based on one week iterations, from Mondays to the following Sunday. Issue owners will add to the current week's milestone (`DG-PMG: [Monday date] - [following Sunday date]`) or the next week's milestone (`DG-PMG: [next Monday date] - [following Sunday date]`) depending on priority and if the issue requires immediate action. The `DG-PMG: Backlog` milestone contains issues that are either not ready to be actioned on or currently blocked, as well as issues that are technically completed but still open for monitoring. The `DG-PMG: Backlog Follow Up` milestone contains issues that have been moved out of general backlog and are ready for follow up analysis.
 
 
-[PMG Triage Board](https://gitlab.com/gitlab-com/marketing/digital-advertising/-/boards/2521687) is assembled to track issues within the the current & next week milestones. Layering on the `todo:pmg` and `todo:gitlab` labels will display which issues are currently being handled by which team. Each week, the Digital Marketing team and PMG meet to review the current status for each issue & iniative within these milestones.
+[PMG Triage Board](https://gitlab.com/gitlab-com/marketing/digital-advertising/-/boards/2521687) is assembled to track issues within the current & next week milestones. Layering on the `todo:pmg` and `todo:gitlab` labels will display which issues are currently being handled by which team. Each week, the Digital Marketing team and PMG meet to review the current status for each issue & initiative within these milestones.
 
 ### Email & Slack
 
