@@ -87,7 +87,7 @@ Please follow the below process for requesting a review but please do so at the 
 
 ### Priority Countries
 
-Annually we prioritize countries that we believe offer the most opportunity for GitLab. A listing of those countries and our expected level of investment are tracked in an internal document called: [Priority Country Analysis](https://docs.google.com/spreadsheets/d/1eRrtRPdNSQjtvDrEvPJ_klfqKAatnLIzDjvShXhnSr8/edit?usp=sharing). 
+Annually we prioritize countries that we believe offer the most opportunity for GitLab. A listing of those countries and our expected level of investment are tracked in an internal document called: [Priority Country Analysis](https://docs.google.com/spreadsheets/d/14GOJvADjS7R-zonQvx3ejiCgJGsCks3U0IbjwiFChRQ/edit#gid=2086431214&range=A1:L1). 
 
 Our current localization capabilities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our integrated campaign strategy. Additionally, we are enabling our field marketing teams to get lightweight translations that don't require internal development or design resources.
 
