@@ -100,6 +100,13 @@ Video of how this works tbd.
 1. If there are notes added to the `Last Event Notes` column, add the `SFDC campaign name` to the column titled `Last Event SFDC Campaign Name` for each lead that has notes. If there are no notes for that lead, do not add anything to either column. This column is used to automatically move notes to the `Qualification Notes` field found on lead and contact pages in Salesforce. That field is not overridden like the `Last Event Notes` field and it's where we can keep the notes for much longer.
 1. MktgOps reserves the right to remove irrelevant notes from the spreadsheet. Only upload important notes and please make sure they are cohesive.
 
+##### Notes at the record level 
+We strive to gather as many notes as possible about each person who stops by the GitLab booth and talks with us. In an effort to speed up our list upload process, when notes are present, the campaign member status should ALWAYS be `Follow Up Requested`. The FMM no longer needs to read through the notes and make a judgement call on the status. If there are notes, campaign member status should ALWAYS be `Follow Up Requested`. 
+
+With a record marked as `Follow Up Requested`, this will score the record with 100pts, as [noted here](/handbook/marketing/marketing-operations/marketo/#behavior-scoring), which will then in turn show up in the [Sales Dev's team P1 (Priority 1) view](/handbook/marketing/revenue-marketing/sdr/#bdr-event-promotion-and-sales-dev-org-follow-up). The Sales Dev team is happy to have potential unrelevant records routed to them in an effort to speed up the records getting to them. 
+
+Its also super important that if there are notes, the notes are clear to someone who both was onsite and those who were not. Think to yourself, if someone was not there onsite, will they know what action to take as a result of these notes? 
+
 #### Required Data and Recommended Data
 
 - For all uploads, there is mandatory data required for a successful upload. At a minimum, the following data must appear on the spreadsheet and **without this data an upload can be refused by MktgOps**:
