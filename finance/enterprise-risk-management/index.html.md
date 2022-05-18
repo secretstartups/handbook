@@ -21,7 +21,7 @@ GitLab’s ERM program is designed to assess operational, strategic, financial a
 
 Enterprise risks will be evaluated using three common risk assessment criteria:
 - **Likelihood** - The probability that a risk event may materialize
-- **Impact** - An estimate of the potential losses or the the negative strategic, financial, operational or compliance effects of a risk event and 
+- **Impact** - An estimate of the potential losses or the negative strategic, financial, operational or compliance effects of a risk event and
 - **Velocity** - The speed at which a risk event were to impact GitLab or a measure used to identify  how fast a risk event can impact GitLab. This is the time that passes between the occurrence of an event and the point at which GitLab first feels its effects.
 
 ## Roles and Responsibilities
