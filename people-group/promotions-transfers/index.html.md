@@ -539,7 +539,7 @@ If you are interested in another position within your department and the manager
 
 - Present your proposition to your manager with a google doc.
 - If the vacancy is advertised on the [jobs page](/jobs/), to be considered, you must submit an application. If there is no vacancy posting, one must be created and shared in the #new-vacancies channel so that everyone has the opportunity to apply and be considered.
-- The manager will asses the function requirements; each level should be defined in the vacancy description.
+- The manager will assess the function requirements; each level should be defined in the vacancy description.
 - If approved, your manager will need to obtain approval from their manager, through the chain of command to the CEO.
 - [Compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#stock-options) will be reevaluated to ensure it adheres to the compensation calculator. Don't send the proposal to the CEO until this part is included.
 - If the team member is transferred, the manager will announce in the `#team-member-update` Slack channel and begin any additional onboarding or offboarding necessary.
