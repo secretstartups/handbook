@@ -338,4 +338,4 @@ This will display either `Do Not Sell My Data` button or `Cookie Settings` butto
 
 ### Cookie List Script
 
-These two methods initlize the the OneTrust Publisher SDK. The `initializeOneTrustPublishersSDK` method fetches all of the resources configured in geolocation rules, templates, and vendors. The `loadPreferenceCenter` method is used to load the banner or preference center. By passing in true, the preference center will always load. By passing in false, banner will be displayed for initial consent and re-consent.
+These two methods initialize the OneTrust Publisher SDK. The `initializeOneTrustPublishersSDK` method fetches all of the resources configured in geolocation rules, templates, and vendors. The `loadPreferenceCenter` method is used to load the banner or preference center. By passing in `true`, the preference center will always load. By passing in `false`, the banner will be displayed for initial consent and re-consent.
