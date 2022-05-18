@@ -34,7 +34,7 @@ Steps to uplevel triaging process:
 | R&D Analytics Triage | `@R&DAnalyticsTriage` | Product Analysis Team, R&D Data Fusion Team |
 | People Analytics Triage | `@PeopleAnalyticsTriage` | People Group Analytics Team, G&A Data Fusion Team |
 | Engineering Analytics Triage | `@EngineeringAnalyticsTriage` | Engineering Analytics Team, G&A Data Fusion Team |
-| Data Platfrom Triage | `@DataPlatformTriage`   | Data Platform Team |
+| Data Platform Triage | `@DataPlatformTriage`   | Data Platform Team |
 | Data Collaboration Triage | `@DataCollaborationTriage`   | Data Collaboration Team |
 
 ### Enterprise Data GitLab Projects
@@ -89,7 +89,7 @@ Data triagers are the first responders to requests and problems for the Data Pro
 - The Functional Analyst triager is primarily responsible for responding to GitLab team member requests via slack in **#data**.
 - The Data Engineer triager is primarily responsible for resolving problems with our data platform, which will either be in the **#data-pipelines** slack channel or on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Triage%20Errors%20DE).
     - During the assigned triage day the Data Engineer should be primarily focused on active issues or the issues on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859).
-- The Analytics Engineer triager is primarily responsbile for resolving `dbt-test` and `dbt-run` errors. Issues created from these errors should use the [AE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Triage%20Errors%20AE).
+- The Analytics Engineer triager is primarily responsible for resolving `dbt-test` and `dbt-run` errors. Issues created from these errors should use the [AE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Triage%20Errors%20AE).
 - For more information on responsibilities of a triager watch the [Data Engineer triage training session video](https://www.youtube.com/watch?v=0eGpgaQgEGg).
 
 ```
@@ -151,7 +151,7 @@ Depending on the nature and impact of the [incident](/handbook/business-technolo
 #### Follow up
  
 - Incidents are always given immediate attention.
-- Every incident has a DRI assigned. This is not necessarily the triager/creator of the incident. Due to the nature of a-syncronisc working at GitLab, the triager/creator is the DRI until another GitLab Team Member is actively contacted/involved.
+- Every incident has a DRI assigned. This is not necessarily the triager/creator of the incident. Due to the nature of asynchronous working at GitLab, the triager/creator is the DRI until another GitLab Team Member is actively contacted/involved.
    - The [codeownerfile](https://gitlab.com/gitlab-data/analytics/-/blob/master/CODEOWNERS) is the right future* source to find the right DRI for assigning the incident. * Currently the code ownership is not well defined. As part of FY23-Q1 we are planning to have a more strict ownership.
 - Every raised incident will be communicated in the `#data` Slack channel, followed by a short description, ETA and link to the incident. The right GitLab Team Members are tagged.
   - A regular (depending on the severity) update is posted in Slack. Sometimes there isn't a new status, don't hesitate to communicate this as well. 
@@ -184,7 +184,7 @@ A triage roundup will take place at the end of every milestone by the data leade
 A label `Data Warehouse::Impact Check` is added by the Danger Bot as call to action for the data team. 
 - On triage, the Triager will [check](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name[]=Data%20Warehouse%3A%3AImpact%20Check) for MRs with label `Data Warehouse::Impact Check`.
 
-The following actions are perfored by Data Team Triager:
+The following actions are performed by Data Team Triager:
 - Every merge request (`MR`) will be judged
    - If `MR` contains the label `group::product intelligence` along with `Data Warehouse::Impact Check`, there are a couple of checks that need to do:   
       - Because a new metric is added or the existing one is altered, the `Data team` should ensure the change will not break the `Service ping` extraction process 
@@ -195,7 +195,7 @@ The following actions are perfored by Data Team Triager:
       - A new issue is opened in the `GitLab Data Team project`, assigned to the correct DRI and linked to the original MR. 
       - Impact will be determined in the issue.
       - Any MRs will be created to overcome loading issues, downstream dbt processing and Sisense usage.
-      - According to the Merge of the GitLab.com MR, merge will be plannend.
+      - According to the Merge of the GitLab.com MR, merge will be planned.
    - If the `MR` does not contains the label `group::product intelligence` and it concerns changes to `SQL` structure:
       - Check if it will break the operation / data pipeline, following the Determination matrix below.
 
@@ -206,7 +206,7 @@ The following actions are perfored by Data Team Triager:
       - A new issue is opened in the `GitLab Data Team project`, assigned to the correct DRI and linked to the original MR. 
       - Impact will be determined in the issue.
       - Any MRs will be created to overcome loading issues, downstream dbt processing and Sisense usage.
-      - According to the Merge of the GitLab.com MR, merge will be plannend.
+      - According to the Merge of the GitLab.com MR, merge will be planned.
       - All stakeholders will be informed.
 
 
