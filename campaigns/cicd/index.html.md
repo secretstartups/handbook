@@ -61,7 +61,7 @@ Always On Lead Generation:
 * **Ideal state:**
   - Dev and Ops are empowered to work better together, no more "throwing things over the proverbial wall"
   - Improved visiblity and communication, gain faster feedback and integrate smaller code changes frequently (with less risk of build-breaking changes)
-  - Increase release velocity and ship more reliable code, faster time to market and more reliable builds = value into the the hands of customer sooner with higher degree of confidence
+  - Increase release velocity and ship more reliable code, faster time to market and more reliable builds = value into the hands of customer sooner with higher degree of confidence
   - Improve overall quality of the application due to increased test coverage and frequency of automated test execution, which enables preventing bugs from shipping
 * **How GitLab helps:**
   - Delivering better products/software faster - Validated, secure code gets to production faster and lovable features get into the hands of customers sooner. Happy customers, higher confidence, and more revenue! 
@@ -88,7 +88,7 @@ Always On Lead Generation:
 * **Ideal state:**
   - Dev and Ops are empowered to work better together, no more "throwing things over the proverbial wall"
   - Improved visiblity and communication, gain faster feedback and integrate smaller code changes frequently (with less risk of build-breaking changes)
-  - Increase release velocity and ship more reliable code, faster time to market and more reliable builds = value into the the hands of customer sooner with higher degree of confidence
+  - Increase release velocity and ship more reliable code, faster time to market and more reliable builds = value into the hands of customer sooner with higher degree of confidence
   - Improve overall quality of the application due to increased test coverage and frequency of automated test execution, which enables preventing bugs from shipping
 * **How GitLab helps:**
   - Delivering better products/software faster - Validated, secure code gets to production faster and lovable features get into the hands of customers sooner. Happy customers, higher confidence, and more revenue! 
