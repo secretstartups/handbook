@@ -11,6 +11,14 @@ title: "Okta FAQs"
 
 Below are frequently asked questions about Okta and GitLab's implementation of it. If you have an additional question that is not listed here, please add it to our [Okta FAQ doc](https://docs.google.com/document/d/1fRiWDmZd3BNu7dkr40h0eAWtE1KW5TifPRYXXUKh2a0/) and we'll improve this list.
 
+## How do I use Okta to log into an application?
+
+1. Visit [gitlab.okta.com](https://gitlab.okta.com) and you'll see a list of applications available to you.
+2. Search for the application you want to log into and then click on it.
+3. This will open a new tab and should automatically log you in.
+
+_If you are having issues logging into an application with Okta SSO, please post in the `#it_help` channel in Slack. Please include a screenshot of the error that you're seeing._
+
 ## How will Okta support GitLab's account creation?
 
 The activation workflow is triggered by the creation of account within Bamboo HR.
@@ -218,3 +226,4 @@ There is capacity to do this, but further research is needed to understand the a
 ## For those of us who used our GitLab personal account when we were onboarded, what happens to my GitLab account when I am off-boarded? Does Okta change anything about this, or any policy changes around accounts that might make it important for me to use a company account name?
 
 We do not remove GitLab accounts currently for off-boarding, currently we remove users from GitLab groups. When offboarding happens, your Okta account and related accounts are Deactivated or Suspended.
+
