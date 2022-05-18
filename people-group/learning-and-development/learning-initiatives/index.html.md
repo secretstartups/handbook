@@ -160,7 +160,7 @@ During the Call:
 After the Call:  
 
 1. Determine if L&D can create bite-sized videos with the content. Post bite-sized and long-form video on YouTube Unfiltered channel
-1. Update Unfiltered page with more information after the Live Stream. See the the description in this [example video](https://www.youtube.com/watch?v=_okcPC9YucA).
+1. Update Unfiltered page with more information after the Live Stream. See the description in this [example video](https://www.youtube.com/watch?v=_okcPC9YucA).
 1. Edit the live stream thumbnail with a [Title Page](https://docs.google.com/presentation/d/13Pj3bxYK6FFSsiMx2vOAcsB0C6ctl_1lqFH6E5MtgGE/edit#slide=id.gb1c2c2e157_0_115) for each topic. Here is [the template](https://docs.google.com/presentation/d/13Pj3bxYK6FFSsiMx2vOAcsB0C6ctl_1lqFH6E5MtgGE/edit#slide=id.gb1c2c2e157_0_115) for the videos. Write out a new title, screenshot the image, and update thumbnail. 
 1. Embed video on the related Handbook page.
 1. Edit page with new content, create sub-page, send MR in the CEO channel with a proposal for an interactive handbook discussion.
