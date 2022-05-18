@@ -405,7 +405,7 @@ To update a candidate source, go to the candidate's profile and, underneath the 
 
 To update a candidate's personal details, go to the candidate's profile and click "Edit Profile" on the top right. You'll be able to change the candidate's name, current company, current title, tags, phone numbers, email addresses, social media accounts, websites, address, and education details. You can also go to the "Details" tab of their profile and click "Edit" next to "Info" as these fields are connected.
 
-To add a candidate's pronouns in a visible location, navigate to the the Headline section under the candidate's name and email on their Greenhouse profile. Click the pencil next to "Add a Headline", enter the pronouns and click save. This allows any interviewer to see the pronouns.
+To add a candidate's pronouns in a visible location, navigate to the Headline section under the candidate's name and email on their Greenhouse profile. Click the pencil next to "Add a Headline", enter the pronouns and click save. This allows any interviewer to see the pronouns.
 
 To update a candidate's assigned recruiter and coordinator, go to the candidate's profile and go to the "Details" tab, then scroll down to where it says "Source & Responsibility". Click the pencil icon that will appear when hovering over either the recruiter or coordinator, then update accordingly. (This can also be done in bulk if needed using the bulk actions button on the candidates page.) You can update their source in the "Source & Responsibility" section as well.
 
