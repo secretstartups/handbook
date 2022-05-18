@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/rate-limit-architecture/
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | 2022-04-27 |
-| Target End Date | 2021-05-25 |
+| Target End Date | 2022-05-30 |
 | Slack           | #wg_rate_limit_architecture (only accessible from within the company) |
 | Google Doc      | Agenda (TBA) (only accessible from within the company) |
 
