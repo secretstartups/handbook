@@ -64,15 +64,31 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 
 | Working Group Role    | Person                                               | Title                                                      |
 |-----------------------|------------------------------------------------------|------------------------------------------------------------|
-| Executive Sponsor     | Christopher Lefelhocz                                | VP of Development                                          |
-| Facilitator           | Michelle Gill                                          | Senior Engineering Manager, Manage                                   |
-| Functional Lead (Enablement)      | Alex Ives                              | Engineering Manager, Database                                   | 
-| Functional Lead (Fulfillment)      | Jerome Ng                                            | Senior Manager of Fulfillment | 
-| Functional Lead (Ops)      | Sam Goldstein                                        | Director of Ops |
-| Functional Lead (Dev)      | Max Woolf                                 | Senior Backend Engineer, Manage:Compliance  |
-| Functional Lead (Sec, ModelOps, Growth)      | Thomas Woodham                                   | Sr. Engineering Manager, Secure Analyzers | 
-| Member                | Dennis Tang | Engineering Manager, Manage:Compliance |
-| Member                | Nick Nguyen | Senior Engineering Manager, Datastores |
-| Member                | Kyle Wiebers | Engineering Manager, Engineering Productivity | 
-| Member                | Darva Satcher | Senior Engineering Manager, Create / Ecosystem Stage |
-| Member                | Ezekiel Kigbo | Senior Frontend Engineer, Manage:Optimize |
+| Executive Sponsor     					| Christopher Lefelhocz                  | VP of Development    |                                     
+| Facilitator           					| Michelle Gill                          | Senior Engineering Manager, Manage   |                              
+| Functional Lead (Enablement)      		| Alex Ives                              | Engineering Manager, Database     |                            
+| Functional Lead (Fulfillment)      		| Jerome Ng                              | Senior Manager of Fulfillment |
+| Functional Lead (Ops)      				| Sam Goldstein                          | Director of Ops |
+| Functional Lead (Dev)      				| Max Woolf                              | Senior Backend Engineer, Manage:Compliance |
+| Functional Lead (Sec, ModelOps, Growth)   | Thomas Woodham                         | Sr. Engineering Manager, Secure Analyzers | 
+| Functional Lead (Maintainer - Frontend)         | Natalia Tepluhina | Staff Frontend Engineer |
+| Functional Lead (Non-Maintainer - Backend)      | Manoj M J | Senior Backend Engineer |
+| Functional Lead (Trainee - Registry DB)		  | Steve Abrams | Intermediate Backend Engineer |
+| Functional Lead (Maintainer - Workhorse, Shell) | Robert May | Senior Backend Engineer |
+| Functional Lead (Maintainer - Frontend)         | Ezekiel Kigbo | Senior Frontend Engineer |
+| Functional Lead (Maintainer - Omnibus)          | Balasankar C       | Senior Backend Engineer |
+| Functional Lead (Maintainer - CNG, Operator)    | Mitchell Nielson | Intermediate Backend Engineer |
+| Member            | Sean McGivern       		 | Staff Backend    |
+| Member            | Allen Cook    			 | Senior Backend   |
+| Member            | Terri Chu        			 | Senior Backend   |
+| Member            | Doug Stull      	   		 | Staff Fullstack  |
+| Member            | Enrique Alcántara      	 | Senior Frontend  |
+| Member            | Pavel Shutsin        		 | Senior Backend   |
+| Member            | Sincheol Kim    			 | Senior Backend   |
+| Member            | Michał Zając       		 | Senior Backend   |
+| Member            | Douglas Barbosa Alexandre  | Staff Backend    |
+| Member 		     | Paul Gascou-Vaillancourt   | Senior Frontend,   |
+| Member            | Dennis Tang 				 | Engineering Manager, Manage:Compliance |
+| Member            | Nick Nguyen 				 | Senior Engineering Manager, Datastores |
+| Member            | Kyle Wiebers 				 | Engineering Manager, Engineering Productivity | 
+| Member            | Darva Satcher 		     | Senior Engineering Manager, Create / Ecosystem Stage |
