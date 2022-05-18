@@ -22,13 +22,14 @@ A service is considered available when:
 1. The Apdex score of the service is _above_ its Service Level Objective ([SLO]),
 1. *AND* The error rate is _below_ its Service Level Objective ([SLO]).
 
-An example of available `web` service; within a 1 minute window period:
-* At least 95% of requests have a latency within their "satisfactory" threshold
+An example of available `web` service; within a 5 minute period:
+
+* At least 90% of requests have a latency within their "satisfactory" threshold
 * AND, less than 0.5% of requests return a 5XX error status response.
 
-A service is unavailable, if, for one minute:
+A service is unavailable, if, for 5 minutes:
 
-* Less than 95% of requests have a latency within their "satisfactory" threshold
+* Less than 90% of requests have a latency within their "satisfactory" threshold
 * **OR**, more than 0.5% of requests return a 5XX error status response.
 
 In other words, a service needs to simultaneously meet both of its SLO targets in order to be considered available. If either target is not met, the service is considered unavailable.
@@ -57,10 +58,11 @@ More details on definitions of outage, and degradation are on the [incident-mana
 
 | **Year Month** | **Availability** | **Comments** |
 | ---- | ----------- | ---- |
-| 2022 April | TBD |  |
-| 2022 March | 99.77% |  |
-| 2022 February | 99.73% |  |
-| 2022 January | 99.91% |  |
+| 2022 May | TBD |  |
+| 2022 April | 99.98% |  |
+| 2022 March | 99.91% |  |
+| 2022 February | 99.87% |  |
+| 2022 January | 99.95% |  |
 | 2021 December | 99.96% |  |
 | 2021 November | 99.71% |  |
 | 2021 October | 99.98% |  |
@@ -164,14 +166,6 @@ The dashboards for stage groups are at a very early stage. All contributions are
 * [GitLab Web Status](https://dashboards.gitlab.net/d/pb3fvC7mk/gitlab-web-status): front end perspective of GitLab. Useful to understand how GitLab.com looks from the user perspective. Use this graph to quickly troubleshoot what part of GitLab is slow.
 * [GitLab Git Status](https://dashboards.gitlab.net/dashboard/db/gitlab-git-status): front end perspective of GitLab ssh access.
 
-#### Public Whitebox Monitoring
-
-* [Fleet overview](https://dashboards.gitlab.com/dashboard/db/fleet-overview): useful to see the fleet status from the inside of GitLab.com. Use this graph to quickly see if the workers or the database are under heavy load, and to check load balancer bandwidth.
-* [PostgreSQL Overview](https://dashboards.gitlab.com/dashboard/db/postgresql-overview): useful to understand how is the database behaving in depth. Use this graph to review if we have spikes of exclusive locks, active or idle in transaction processes
-* [PostgreSQL Queries](https://dashboards.gitlab.com/dashboard/db/postgresql-queries) use this dashboard to understand if we have blocked or slow queries, dead tuples, etc.
-* [Storage Stats](https://dashboards.gitlab.com/dashboard/db/storage-stats) use this dashboard to understand storage use and performance.
-* [Cloudflare traffic overview](https://dashboards.gitlab.com/d/sPqgMv9Zk/cloudflare-traffic-overview): use this dashboard to understand cloudflare traffic
-* [Logging](https://dashboards.gitlab.com/d/USVj3qHmk/logging): use this dashboard to understand how Fluentd, StackDriver and PubSub are performing.
 
 #### Private Whitebox Monitor
 
