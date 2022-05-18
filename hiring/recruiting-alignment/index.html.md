@@ -23,12 +23,12 @@ description: "This page is an overview of the search team alignment and the tale
 | Marketing, SDR Global | Tony Tsiras | Tony Tsiras| Davie Soomalelagi |
 | G&A, Finance, People, CEO | Maria Gore | Alina Moise | Davie Soomalelagi |
 | G&A, Accounting, Legal | Rachelle Druffel | Alina Moise | Davie Soomalelagi |
-| Development | Mark Deubel, Riley Smith, Sara Currie | Zsuzsanna Kovacs and Susan Hill | Michelle Jubrey (temporary) |
-| Quality | Rupert Douglas   | Zsuzsanna Kovacs | Davie Soomalelagi (temporary) |
+| Development | Mark Deubel, Riley Smith, Sara Currie, Dielle Kuffel | Zsuzsanna Kovacs and Susan Hill | Michelle Jubrey (temporary) |
+| Quality | Rupert Douglas, Matt Angell   | Zsuzsanna Kovacs | Davie Soomalelagi (temporary) |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  | Davie Soomalelagi (temporary) |
 | Support | Joanna Michniewicz  |  Joanna Michniewicz | Michelle Jubrey |
 | Security | Nicky Kunstman |  Zsuzsanna Kovacs | Michelle Jubrey |
-| Incubation | Rupert Douglas  |  Zsuzsanna Kovacs | Davie Soomalelagi (temporary) |
+| Incubation | Matt Angell  |  Zsuzsanna Kovacs | Davie Soomalelagi (temporary) |
 | Infrastructure   | Josh Barker  | Susan Hill | Michelle Jubrey |
 | Product Management  | Matt Allen | Chris Cruz | Michelle Jubrey |
 
