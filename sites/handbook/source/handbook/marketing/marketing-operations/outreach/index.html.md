@@ -161,7 +161,7 @@ In EMEA, we have purchased a number of phone numbers for the XDRs to use while o
 
 If you need a phone number, please open an issue and we can purchase one if approved. Keep in mind that we can mostly only buy phone numbers in countries where we have an entity.  
 
-### Outreach Engagement Panel & Sequence Attribtution
+### Outreach Engagement Panel & Sequence Attribution
 Custom fields from Outreach that sync into SFDC for understanding engagement status in Outreach. 
 
 |Field Name|Description|SFDC Object|
