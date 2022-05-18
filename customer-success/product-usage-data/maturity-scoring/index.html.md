@@ -28,13 +28,23 @@ The following primary and ancillary metrics are used to determine a customer's C
 <br>
 [Adoption Guide Reference Link](/handbook/marketing/strategic-marketing/usecase-gtm/ci/#adoption-guide)
 
+#### Resources
+
+- [Use Case Maturity Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1lawzRG6yOCTYl2CK9zAaBCUFU6UiSZz65eMiQxRGhLI/edit#gid=1882408673) (internal only)
+- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/1Zn5gyUrBRgA1fyprVuoA24FKiH_3fpT5KuL5vK6GcuE/edit#slide=id.g110af81e0a3_0_215) (internal only)
+    - In order to generate the slides shown in the video above - this [Google sheet](https://docs.google.com/spreadsheets/d/1wPrQRS9XGJek4oWcZPe9QeaFne9scbJVZYuvEioE2GI/edit#gid=1737266116) can help. 
+        - Instructions on using the sheet can be found in this [internal video](https://youtu.be/oWuX_jtLnLI)
+- [Value Statements for CI Maturity Score](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/delivery-automation/#customer-adoption-and-value)
+    - This should help guide the conversation around how CI maturity is measured and how to improve adoption.
+
+#### Additional TAM Enablement 
 In this (internal) video a fellow TAM walks you through:
-- how the CI maturity score is calculated 
-- template slides to showcase a customer's maturity
-- key conversation drivers such as:
-  - how the customer is currently progressing on their path to CI maturity
-  - how the customer compares with other similar customer's in the industry 
-  - key areas of focus on the adoption journey 
+- How the CI maturity score is calculated 
+- Template slides to showcase a customer's maturity
+- Key conversation drivers such as:
+  - How the customer is currently progressing on their path to CI maturity
+  - How the customer compares with other similar customer's in the industry 
+  - Key areas of focus on the adoption journey
 
 <!-- blank line -->
 <figure class="video_container">
@@ -42,16 +52,7 @@ In this (internal) video a fellow TAM walks you through:
 </figure>  
 <!-- blank line -->
 
-#### Resources
-
-- [Use Case Maturity Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1lawzRG6yOCTYl2CK9zAaBCUFU6UiSZz65eMiQxRGhLI/edit#gid=1882408673) (internal only)
-- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/1Zn5gyUrBRgA1fyprVuoA24FKiH_3fpT5KuL5vK6GcuE/edit#slide=id.g110af81e0a3_0_215) (internal only)
-    - In order to generate the slides shown in the video above - this [Google sheet](https://docs.google.com/spreadsheets/d/1wPrQRS9XGJek4oWcZPe9QeaFne9scbJVZYuvEioE2GI/edit#gid=1737266116) can help. 
-        - Instructions on using the sheet can be found in this [internal video](https://youtu.be/oWuX_jtLnLI)
-
-#### Additional TAM Enablement 
-
 - CI Maturity Scoring Walk-thru 
     - [Session 1](https://youtu.be/E4IMgFWGkNM) (internal only)
     - [Session 2](https://chorus.ai/meeting/E4F00AFC0C4A4036A7AC370653A50112?) (internal only)
-
+    - [Value Statements for CI Maturity](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/delivery-automation/#customer-adoption-and-value)
