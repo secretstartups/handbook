@@ -77,7 +77,7 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | Functional Lead (Maintainer - Workhorse, Shell) | Robert May | Senior Backend Engineer |
 | Functional Lead (Maintainer - Frontend)         | Ezekiel Kigbo | Senior Frontend Engineer |
 | Functional Lead (Maintainer - Omnibus)          | Balasankar C       | Senior Backend Engineer |
-| Functional Lead (Maintainer - CNG, Operator)    | Mitchell Nielson | Intermediate Backend Engineer |
+| Functional Lead (Maintainer - CNG, Operator)    | Mitchell Nielsen | Senior Backend Engineer |
 | Member            | Sean McGivern       		 | Staff Backend    |
 | Member            | Allen Cook    			 | Senior Backend   |
 | Member            | Terri Chu        			 | Senior Backend   |
