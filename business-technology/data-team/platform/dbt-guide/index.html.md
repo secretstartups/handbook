@@ -383,7 +383,9 @@ graph LR
 
 In some cases, there are columns whose raw values should not be exposed. This includes things like customer emails and names. There are legitimate reasons to need this data however, and the following is how we secure this data while still making it available to those with a legitimate need to know.
 
-For a given model, the source format is followed as above. There is no hashing of columns in the source model. This should be treated the same as the raw data in terms of security and access.
+##### Static Masking
+
+For a given model using static masking, the source format is followed as above. There is no hashing of columns in the source model. This should be treated the same as the raw data in terms of security and access.
 
 Sensitive columns are documented in the `schema.yml` file using the `meta` key and setting `sensitive` equal to `true`. An example is as follows.
 
@@ -412,6 +414,71 @@ In the sensitive model, the dbt macro [`nohash_sensitive_columns`](https://dbt.g
 All hashing includes a [salt](https://en.wikipedia.org/wiki/Salt_(cryptography)) as well. These are specified via environment variables. There are different salts depending on the type of data. These are defined in the [`get_salt` macro](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.get_salt) and are also set when using the dbt container for local development.
 
 In general, team members should not be permitted to see the salt used in the query string within the Snowflake UI.  In table models this goal is met by using the [Snowflake built-in `ENCRYPT` function](https://docs.snowflake.com/en/sql-reference/functions/encrypt.html). For models materialized into views, the `ENCRYPT` function seems to not work. Instead, a workaround using secure views is utilized.  A secure view limits DDL viewing to the owner only, thus limiting visibility of the hash.  To create a secure view, set `secure` equal to true in the [model configuration](/handbook/business-technology/data-team/platform/dbt-guide/#model-configuration). A view that utilizes the hashing functionality as described, but is not configured as a secure view, will likely not be queryable.
+
+##### Dynamic Masking
+
+When the sensitive data needs to be known by some users but not all then dynamic masking can be applied.
+
+Sensitive columns to be masked dynamically are documented in the `schema.yml` file using the `meta` key and setting `masking_policy` equal to one of the Data Masking Roles found in the `roles.yml` file. An example is as follows.
+
+```yaml
+  - name: sfdc_contact_source
+    description: Source model for SFDC Contacts
+    columns:
+         - name: contact_id
+           tests:
+              - not_null
+              - unique
+         - name: contact_email
+           meta:
+              masking_policy: general_data_masking
+         - name: contact_name
+           meta:
+              masking_policy: general_data_masking
+```
+
+A `post-hook` running the macro `mask_model` will need to be configured for any model that will need dynamic masking applied.
+
+The `mask_model` macro will first retrieve all of the columns of the given model that have a `masking_policy` identified. That information is passed to an other macro, `apply_masking_policy`, witch orchestrates the creation and application of Snowflake [masking policies](https://docs.snowflake.com/en/sql-reference/sql/create-masking-policy.html#create-masking-policy) for the given columns.
+
+The first step of the `apply_masking_policy` is to get the data type of the columns to be masked as the polices are data type dependant.  This is done with a query to the data base `information_schema` table with the follwoing query:
+
+```sql
+SELECT
+  t.table_catalog,
+  t.table_schema,
+  t.table_name,
+  t.table_type,
+  c.column_name,
+  c.data_type
+FROM "{{ database }}".information_schema.tables t
+INNER JOIN "{{ database }}".information_schema.columns c
+  ON c.table_schema = t.table_schema
+  AND c.table_name = t.table_name
+WHERE t.table_catalog =  '{{ database.upper() }}' 
+  AND t.table_type IN ('BASE TABLE', 'VIEW')
+  AND t.table_schema = '{{ schema.upper() }}' 
+  AND t.table_name = '{{ alias.upper() }}' 
+ORDER BY t.table_schema,
+  t.table_name;
+```
+
+Where the `database`, `schema`, and `alias` are passed to the macro at the time it is called.
+
+With the qualified column name and the data type, masking policies are created for a given database, schema, and data type for the specified masking policy.  And once the policies have been created they are applied to the identified columns.
+
+It should be noted that permissions are based on an allow list of roles. Meaning permission has to be granted to see the unmasked data at query time:
+
+```sql
+CREATE OR REPLACE MASKING POLICY "{{ database }}".{{ schema }}.{{ policy }}_{{ data_type }} AS (val {{ data_type }}) 
+  RETURNS {{ data_type }} ->
+      CASE 
+        WHEN CURRENT_ROLE() IN ('transformer','loader') THEN val  -- Set for specific roles that should always have access
+        WHEN IS_ROLE_IN_SESSION('{{ policy }}') THEN val -- Set for the user to inherit access bases on there roles
+        ELSE {{ mask }} 
+      END; 
+```
+Only one policy can be applied to a column so users that need access will have to have the permissions granted using the applied masking role.
 
 #### Staging
 

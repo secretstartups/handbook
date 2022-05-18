@@ -245,6 +245,12 @@ This role grants access to the raw Zuora data coming from Stitch, and also to th
 When a user needs access to Zuora data, granting the `zuora` role to that user's user role is the easiest solution.
 If for some reason access to the object role doesn't make sense, individual privileges can be granted at the granularity of a table.
 
+#### Masking Roles
+
+Masking Roles manage how users interact with masked data. Masking is applied at the column level and which columns are masked is the decision of the source system owner.  Masking is applied to a column in a `schema.yml` file within the dbt code base.  As some users will need access to unmasked data the masking role allows for permissions to the unmasked data to be granted on a functional or object role level.  For example if the masking role of `people_data_masking` is applied to the column `locality` then the functional role of `analyst_people` can be set as a member of the `people_masking` role to allow the analysts to see unmasked people data.
+
+When a masking policy is created, it is created based on the masking roles and only one masking policy can be applied to a column.
+
 #### Examples
 
 This is an example role hierarchy for an Data Analyst, Core:
@@ -467,6 +473,20 @@ The source of truth for this is in the [`dbt_project.yml` configuration file](ht
 #### Static
 
 For data warehouse use cases that require us to store data for our users without updating it automatically with dbt we use the `STATIC` database. This also allows for analysts and other users to create their own data resources (tables, views, temporary tables). There is a sensitive schema for sensitive data within the static database. If your use case for static requires the use or storage of sensitive data please create an issue for the data engineers.
+
+### Data Masking
+
+We use data masking obfuscate private or sensitive information with our data warehouse.  Masking can be applied in a dynamic or static manner depending on the particular data needs.  Masking can be applied at the request of the data source system owner or at discretion of the Data Team.  As our current data masking methods are applied procedurally using dbt they can only be applied in the `PREP` and `PROD` database.  If masking is required in the `RAW` database alternant methods of masking should be investigated.
+
+#### Static Masking
+
+Static data masking is applied during the transformation of the data and the masked result is materialized into the table or view.  This will mask the data for all users regardless of role or access permission.  This is accomplished in the code with tools such as the `hash_sensitive_columns` [macro](https://gitlab.com/gitlab-data/analytics/-/blob/48e7ef194be084b13d8091d3c97ca2c4ca89cf6d/transform/snowflake-dbt/macros/sensitive/hash_sensitive_columns.sql) within dbt.
+
+
+#### Dynamic Masking
+
+Dynamic masking is applied at quey run time based on assigned policies and user roles using the [Dynamic Data Masking](https://docs.snowflake.com/en/user-guide/security-column-ddm-use.html) capabilities of Snowflake.  Dynamic masking allows for data to be unmasked for selected users wile masked for all other users.  This is accomplished by creating masking policies that are then applied to the column at the time of table or view creation.  Masking policies are maintained within the data warehouse source code repository.
+
 
 ### Timezones
 
