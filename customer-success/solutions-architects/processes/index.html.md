@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Solutions Architect Processes
+title: Solutions Architects Processes
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -10,7 +10,7 @@ title: Solutions Architect Processes
 
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices/) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays/) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources/) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development/) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations/) - [**Processes**](/handbook/customer-success/solutions-architects/processes/) - [**Education and Enablement**](/handbook/customer-success/education-enablement/)
 
-# Solutions Architect Processes
+# Solutions Architects Processes
 {:.no_toc}
 
 ## SA Process Maps
@@ -147,7 +147,7 @@ Prior to any technical discovery and demo preparation, the SA should be provided
 - Is there a business plan or sales approach defined?
 - What next steps are we hoping to drive from the next call?
 
-The Solutions Architect, in order to tailor conversations and demos to demonstrate value as well as address current problem areas, will want to understand the following information, and may request further technical discovery prior to any demo:
+The Solutions Architects, in order to tailor conversations and demos to demonstrate value as well as address current problem areas, will want to understand the following information, and may request further technical discovery prior to any demo:
 
 1. **Outcome:**
 
@@ -171,7 +171,7 @@ The Solutions Architect, in order to tailor conversations and demos to demonstra
 - What collaboration or governance opportunities exist?
 - What security or compliance inefficiencies exist?
 
-## Solution Architect Engagement Models
+## Solutions Architects Engagement Models
 
 ### U.S. Strategic Account Engagement Model
 
