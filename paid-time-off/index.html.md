@@ -256,7 +256,7 @@ If you receive an error message **"Uh-oh! It doesn't look like you have access t
      - Select `Account Settings`
      - Select Email and follow the sets to change your email address.
    - Update your BambooHR email by logging into BambooHR - selecting the personal tab and scroll to the bottom. Update the Work Email field with the correct email address.
-1. Once these two emails match, it will take a few hours for the the sync to catch up to the change.
+1. Once these two emails match, it will take a few hours for the sync to catch up to the change.
 1. If these two are the same, please reach out in the `#people-connect` channel.
 
 
