@@ -44,6 +44,7 @@ Check out our team of Engagement Managers on our [team page](https://about.gitla
 - [Selling Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)
 - [Professional Services Offering Framework](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/framework/)
 - [Services Calculator](https://services-calculator.gitlab.io)
+- [GitLab Engagement Manager Accreditation Courses](https://gitlab.edcast.com/pathways/engagement-manager-accreditation)
 
 ## Engagement Manager - Processes
 
