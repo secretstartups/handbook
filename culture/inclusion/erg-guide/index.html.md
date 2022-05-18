@@ -17,7 +17,7 @@ On this page you will be provided an overview of what is needed to start and sus
 ## Definition of the TMG - Team Member Groups
 TMRGs are voluntary, team member-led groups focused on fostering diversity, inclusion and belonging within GitLab. These groups help team members build stronger internal and external connections; offer social, educational, and outreach activities; create development opportunities for future leaders; and increase engagement among team members.
 
-Team Member **Resource Group** provide support for an Underpresented group
+Team Member **Resource Group** provide support for an underrepresented group
 - The purpose for this type of TMRG is to develop and elevate that underrepresented group within Gitlab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging. 
 
 Team Member **Discussion Group** that is for the purposes of discussions and/or allyship 
