@@ -37,22 +37,23 @@ This looks to all users who ran merge requests in the last 28 days / Licenses So
 CI is considered both an initial purchase reason or, in the case of SCM, an expansionary use case (one after the initial purchase intent has been solved). 
 Adoption timeline: 1 months after license purchase
 
-|                    | **Red** | **Yellow** | **Green** |
-| ------------------ | ------- | ---------- | --------  |
-| SMAU Verify / Licenses Sold | <20%    | 20-25%     | \>=25%    |
+|  | **Red** | **Yellow** | **Green** |
+|---|---|---|---|
+| CI Pipelines Utilization (CI Pipelines - User L28 / Licenses Sold) | <25% | 25% - 50% | 50%+ |
+| Deployments Per User L28 (Deployments L28D (event) / Licenses Sold) | <3 | 4 - 7 | 8+ |
+| Deployments Utilization (Deployments - User L28D / Licenses Sold) | <5% | 5% - 12% | 12%+ |
 
-This looks to all users who ran ci_pipelines in the last 28 days / Licenses Sold.
 
 ### DevSecOps
 
-For customers on Ultimate, we want to measure their effectiveness and usage with Ultimate-level functionality. 
-Adoption timeline: 1 months after license purchase
+These DevSecOps metrics are available for all customers. Adoption timeline: 1 months after license purchase
 
-|                             | **Product Tier**   | **Red**  | **Yellow** | **Green** |
-| --------------------------- | ------------------ | -------- | ---------- | --------  |
-| SMAU Secure / Licenses Sold  | Ultimate | <15%     | 15-20%  | \>=20%     |
+|  | **Red** | **Yellow** | **Green** |
+|---|---|---|---|
+| Secure Scanner Utilization (Secure Scanners - Users L28D / Licenses Sold) | ≤5% | >5% - 20% | >20% |
+| Container Scanning Jobs Utilization (Container Scanning Jobs - User L28D / Licenses Sold) | ≤3% | >3% - 10% | >10% |
+| Secret Detection Jobs Utilization (Secret Detection Jobs - User L28D / Licenses Sold) | ≤6% | >6% - 20% | >20% |
 
-This looks to all users who ran any Secure scan in the last 28 days / Licenses Sold.
 
 ### Continuous Delivery (CD)
 
