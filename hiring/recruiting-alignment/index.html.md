@@ -8,27 +8,34 @@ description: "This page is an overview of the search team alignment and the tale
 
 | Department                    | Recruiter       | Sourcer     | Candidate Experience Specialist    |
 |--------------------------|-----------------|-----------------|-------------------------------------|
-| Executive          | Rich Kahn   | Chriz Cruz | Ale Ayala |
-| Enterprise Sales, NA | Kevin Rodrigues & Jill Hind |  N/A | Hannah Stewart |
-| Enterprise Sales, EMEA | Debbie Harris & Kanwal Matharu |  TBH | Lerato Thipe |
+| Executive          | Rich Kahn   | Chriz Cruz | Davie Soomalelagi  |
+| Enterprise Sales, NA | Kevin Rodrigues |  N/A | Sruthy Menon |
+| Enterprise Sales, NA | Jill Hind |  N/A | Sruthy Menon |
+| Enterprise Sales, EMEA | Debbie Harris |  TBH | Lerato Thipe |
 | Enterprise Sales, APAC | Debbie Harris |  TBH | Lerato Thipe |
-| Commercial Sales,	AMER | Marcus Carter & Shannan Farmer | TBH  | Hannah Stewart |
+| Commercial Sales,	AMER | Marcus Carter | TBH  | Davie Soomalelagi |
+| Commercial Sales,	AMER | Hannah Stewart | TBH  | Sruthy Menon |
 | Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH | Lerato Thipe |
-| Channel Sales, Global | Debbie Harris & Kanwal Matharu | TBH | Lerato Thipe |
-| Field Operations,	Global | Kelsey Hart | Loredana Iluca | Hannah Stewart |
+| Channel Sales, Global | Kanwal Matharu | TBH | Lerato Thipe |
+| Channel Sales, Global | Debbie Harris | TBH | Lerato Thipe |
+| Field Operations,	Global | Kelsey Hart | Loredana Iluca | Sruthy Menon |
 | Customer Success, EMEA | Joanna Muttiah | Loredana Iluca | Lerato Thipe |
 | Customer Success, APAC | Joanna Muttiah | Loredana Iluca | Lerato Thipe |
-| Customer Success, NA | Barbara Dinoff | Loredana Iluca | Hannah Stewart |
+| Customer Success, NA | Barbara Dinoff | Loredana Iluca | Sruthy Menon |
 | Marketing, Global | Steph Sarff   | Alina Moise | Davie Soomalelagi |
-| Marketing, SDR Global | Tony Tsiras | Tony Tsiras| Davie Soomalelagi |
-| G&A, Finance, People, CEO | Maria Gore | Alina Moise | Davie Soomalelagi |
+| Marketing, SDR Global | Tony Tsiras | Tony Tsiras| Alice Crosbie |
+| G&A, Finance, People, CEO | Maria Gore | Alina Moise | Alice Crosbie |
 | G&A, Accounting, Legal | Rachelle Druffel | Alina Moise | Davie Soomalelagi |
-| Development | Mark Deubel, Riley Smith, Sara Currie, Dielle Kuffel | Zsuzsanna Kovacs and Susan Hill | Michelle Jubrey (temporary) |
-| Quality | Rupert Douglas, Matt Angell   | Zsuzsanna Kovacs | Davie Soomalelagi (temporary) |
-| UX  | Rupert Douglas   | Zsuzsanna Kovacs  | Davie Soomalelagi (temporary) |
-| Support | Joanna Michniewicz  |  Joanna Michniewicz | Michelle Jubrey |
+| Development | Mark Deubel| Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
+| Development | Riley Smith | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
+| Development | Sara Currie | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
+| Development | Dielle Kuffel | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
+| Quality | Rupert Douglas| Zsuzsanna Kovacs | Guido Rolli |
+| Quality | Matt Angell   | Zsuzsanna Kovacs | Alice Crosbie |
+| UX  | Rupert Douglas   | Zsuzsanna Kovacs  | Guido Rolli |
+| Support | Joanna Michniewicz  |  Joanna Michniewicz | Alice Crosbie |
 | Security | Nicky Kunstman |  Zsuzsanna Kovacs | Michelle Jubrey |
-| Incubation | Matt Angell  |  Zsuzsanna Kovacs | Davie Soomalelagi (temporary) |
+| Incubation | Matt Angell  |  Zsuzsanna Kovacs | Alice Crosbie |
 | Infrastructure   | Josh Barker  | Susan Hill | Michelle Jubrey |
 | Product Management  | Matt Allen | Chris Cruz | Michelle Jubrey |
 
