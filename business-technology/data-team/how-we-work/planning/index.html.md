@@ -111,7 +111,7 @@ graph TD
 
 All Epics are part of the [GitLab Data Group](https://gitlab.com/groups/gitlab-data/) and are marked `Confidential` and all related Issues are stored in the [GitLab Data Analytics project](https://gitlab.com/gitlab-data/analytics).
 
-1. Head the the current Fiscal Year's `Data Team Objectives, Newsletters, and Report Cards` Epic.
+1. Head the current Fiscal Year's `Data Team Objectives, Newsletters, and Report Cards` Epic.
 1. From the Fiscal Year parent epic, create a new child **Fiscal Quarter Epic** 
     - [ ] Create a title in the format `DRAFT: FYxx-Qx Data Team Objectives and Planning Drumbeat`
     - [ ] An example title is `DRAFT: FY23-Q1 Data Team Objectives and Planning Drumbeat`

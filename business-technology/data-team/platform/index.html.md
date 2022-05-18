@@ -310,7 +310,7 @@ Here are the proper steps for provisioning a new user and user role:
 Here are the proper steps for deprovisioning existing user:
 
 - Snowflake deprovision should be done via an offboarding issue or access request issue.
-- Make sure we have an issue in the the GitLab Data Team project linking the original source request with the `Deprovisioning` label applied.
+- Make sure we have an issue in the GitLab Data Team project linking the original source request with the `Deprovisioning` label applied.
 - Login to Snowflake and switch to `securityadmin` role
     - All roles should be under `securityadmin` ownership.
 - Copy the [`user_deprovision.sql`](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/user_deprovision.sql) script and replace the USER_NAME. The reason for not removing and leaving the user in snowflake and setting disabled = TRUE is to have a record of when the user lost access.
