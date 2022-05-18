@@ -116,4 +116,4 @@ So an example product object might look like this:
 }
 ```
 
-This specification was derived from the the work [Empirical Path put together](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/uploads/f252fc80f1dd6799d19e4d57d6b4c239/Gitlab_GTM_DataLayer_Spec.pdf).
+This specification was derived from the work [Empirical Path put together](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/uploads/f252fc80f1dd6799d19e4d57d6b4c239/Gitlab_GTM_DataLayer_Spec.pdf).
