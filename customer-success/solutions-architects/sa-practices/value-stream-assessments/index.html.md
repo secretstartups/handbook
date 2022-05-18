@@ -20,7 +20,7 @@ Where applicable, GitLab account teams should assist prospects and customers by 
 ## Process
 
 1. [Qualify the Opportunity for a value stream assessment](#qualify)
-1. [Educate potential participants and obtain commitment to the exercise](#education-and-commitment)
+1. [Educate potential participants and obtain commitment to the workshop](#education-and-commitment)
 1. [Prepare for the Value Stream Workshop](#prepare)
 1. [Initial customer pitch](#pitch)
 1. [Plan the Value Stream Workshop](#planning-meeting-with-customer)
@@ -53,9 +53,9 @@ The scope of a value stream assessment should always be clearly defined. A clear
 
 ### Education and Commitment
 
-A successful Value Stream Assessment requires a commitment to the exercise by the software delivery stakeholders and the personnel experienced with the various processes that constitute their value stream. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful VSA. Educate the prospect or customer on the benefits, process details, and the required commitment. Leverage the [Value Stream Assessment Pitch Deck](https://docs.google.com/presentation/d/1R8RMrXDIaP9Mz3P0_xcevjDQROtvVpSwtEBJgxdsNbw/edit?usp=sharing) by customizing it for the prospect or customer to assist with this step.
+A successful Value Stream Assessment requires a commitment to the workshop by the software delivery stakeholders and the personnel experienced with the various processes that constitute their value stream. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful VSA. Educate the prospect or customer on the benefits, process details, and the required commitment. Leverage the [Value Stream Assessment Pitch Deck](https://docs.google.com/presentation/d/1R8RMrXDIaP9Mz3P0_xcevjDQROtvVpSwtEBJgxdsNbw/edit?usp=sharing) by customizing it for the prospect or customer to assist with this step.
 
-_While a Value Stream Assessment is an advanced discovery exercise, it's expected that initial [opportunity discovery](/handbook/sales/playbook/discovery/) and [technical discovery](/handbook/customer-success/solutions-architects/processes/technical-discovery/) have been conducted._
+_While a Value Stream Assessment is an advanced discovery workshop, it's expected that initial [opportunity discovery](/handbook/sales/playbook/discovery/) and [technical discovery](/handbook/customer-success/solutions-architects/processes/technical-discovery/) have been conducted._
 
 #### Key Benefits
 
@@ -66,11 +66,11 @@ _While a Value Stream Assessment is an advanced discovery exercise, it's expecte
     - Understand the return on investment of a value delivery platform
     - Promote collaboration amongst traditionally siloed functions within the DevSecOps lifecycle
 
-After the prospect or customer understands the process and its benefits, confirm commitment from the stakeholders and exercise participants by scheduling the facilitated exercise and/or interviews. Estimate the duration of the assessment and set the expectation that the documented value stream, recommendations, and readout will be delivered.
+After the prospect or customer understands the process and its benefits, confirm commitment from the stakeholders and workshop participants by scheduling the facilitated workshop and/or interviews. Estimate the duration of the assessment and set the expectation that the documented value stream, recommendations, and readout will be delivered.
 
 #### What is The Required Time Commitment?
 
-Focusing on the goals and benefits listed above, the time required to complete a minimally viable value stream assessment will vary from organization to organization. It is an anti-goal for the exercise to require exhaustive discussion and research. Depending on the availability and commitment of the various value stream participants and stakeholders, the practice could take as little as 4 hours to complete or up to 15 hours spread out through multiple sessions over multiple days.
+Focusing on the goals and benefits listed above, the time required to complete a minimally viable value stream assessment will vary from organization to organization. The workshop should NOT require exhaustive discussion and research. Depending on the availability and commitment of the various value stream participants and stakeholders, the practice could take as little as 4 hours to complete or up to 15 hours spread out through multiple sessions over multiple days.
 
 ### Prepare
 
@@ -99,8 +99,8 @@ It is extremely important to have an internal preparation meeting(can be async) 
 
 The initial customer pitch allows us to pitch value stream assesment to our key stakeholders & get their buy in. The customer pitch should include:
 - What is VSA?
-- What does a VSA exercise entail?
-- Who are the key participants of the VSA exercise.
+- What does a VSA workshop entail?
+- Who are the key participants of the VSA workshop?
 - What are some of the expected outcomes of VSA for them?
 
 It is important to identify a project or few projects as next step for the planning meeting with customer.
