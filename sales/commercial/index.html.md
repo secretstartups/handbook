@@ -172,14 +172,7 @@ A recording Chorus license is mandatory for all Commercial Account Executives. O
 
 ### Mandatory steps required to record calls
 
-Laws around recording differ from states to state and country to country. Therefore, it is required that every Account Executive take the steps below on _every_ customer call. The Account Executive is responsible for ensuring the steps below are followed.
-
-1. Introduce GitLab Notetaker and clearly explain what it is and why it is there. Example: "You may have noticed GitLab Notetaker here. This is recording the call for training and verification. I can share the recording with you if you want. If you are OK being recorded, please say so verbally and give a thumbs up. If you're not, I can remove it from the meeting."
-1. If the customer requests that they are not recorded, you must remove GitLab Notetaker immediately and verbally confirm you have done so.
-1. If the customer verbally and visually agrees to being recorded, you can continue.
-1. If you are due to be on a call and cannot make it, you **must** inform the customer that Chorus will be in the call and that they should remove Notetaker when you decline the invite.
-
-Failure to follow the above is not acceptable in any situation.
+Follow instructions for using [Chorus Scheduler](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#chorus-scheduler)
 
 ## [Opportunity Consults](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) and Lightweight Deal Review (LDR) Process
 
