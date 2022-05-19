@@ -407,16 +407,16 @@ _Once a team member successfully completes the interview process and is selected
 
 When the interim period comes to a close, one of two outcomes can occur:
 
-1. The team member successfully completes the interim period aligned with [the success criteria](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) and moves into the interim role permanently.
+- The team member successfully completes the interim period aligned with [the success criteria](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) and moves into the interim role permanently.
 
-- As a general guideline, the interim period should last no _less_ than 30 days, and no _more_ than 4 months .
-- The hiring manager should submit a formal offer through Greenhouse including the promotion document to make the change official. The accomplishments leading up to the interim and during the interim can be used for the promotion document.
+  - As a general guideline, the interim period should last no _less_ than 30 days, and no _more_ than 4 months .
+  - The hiring manager should submit a formal offer through Greenhouse including the promotion document to make the change official. The accomplishments leading up to the interim and during the interim can be used for the promotion document.
 
-1. The team member does not complete the interim period successful or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period.
+- The team member does not complete the interim period successful or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period.
 
-- A feedback session between the team member and hiring manager should take place, so it is clear to the team member why the interim period was not successful.
-- The manager should submit a [job information change request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) in BambooHR to revert the team member's job title.
-- Not successfully completing the interim period _does not_ mean the team member can not move into a similar role in the future
+  - A feedback session between the team member and hiring manager should take place, so it is clear to the team member why the interim period was not successful.
+  - The manager should submit a [job information change request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) in BambooHR to revert the team member's job title.
+  - Not successfully completing the interim period _does not_ mean the team member can not move into a similar role in the future
 
 Irrespective of the outcome, when the interim period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/total-rewards/compensation/#submitting) for the team member. Please ensure that the full bonus calculation is laid out in a comment of the bonus submission. 
 
