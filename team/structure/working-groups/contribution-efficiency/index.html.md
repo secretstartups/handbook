@@ -25,19 +25,14 @@ canonical_path: "/company/team/structure/working-groups/contribution-efficiency/
 
 Implement key business iterations that results in substantial and sustained increases to community contributors & contributions
 
-### Exit Criteria (10% completed)
+### Exit Criteria (30% completed)
 
-1. Implement 5 experiments aimed at increasing community contributors and document results broadly 
-   1. Decreasing community MR Review time
-   1. Create additional retention recognition 
-   1. Education sector outreach 
-   1. Hackathon continuation 
-   1. Outreach effort
-1. Improve upon contribution process based on successful experiment, optimize into our day-to-day operations 
-1. Delivery key joint strategy of increasing community contributors & contributions and hold company-wide AMA
+1. Implement 3 experiments aimed at increasing community contributors
+   1. Decreasing community MR Review time => Reduced Open Community MR age and review time in FY23Q1 
+   1. Create additional retention recognition => Experimented with rewarding 
+   1. Addition Outreach effort => Experimented with frontend themed months
+1. Delivery key joint strategy of increasing community contributors => Strategy is complete
 1. Setup first iteration of community cohort team 
-1. Create additional mechanisms for community and enterprise team members to participate & contribute
-1. Add 2 more awards to community to add on to release MVP
 1. Deliver 3 key iterations to our contribution guidelines 
 1. Fully implement MR Coach specialties (Development, Test, Docs & etc)
 1. Experiment with defining contributor specialties based on MR coaches 
@@ -54,5 +49,4 @@ Implement key business iterations that results in substantial and sustained incr
 | Functional Lead       | [Christos Bacharakis](https://gitlab.com/cbacharakis)| Senior Code Contributor Program Manager                    |
 | Member                | [Rémy Coutable](https://gitlab.com/rymai)            | Staff Backend Engineer, Engineering Productivity           |
 | Member                | [Tanya Pazitny](https://gitlab.com/tpazitny)         | Director of Quality Engineering                            |
-| Member                | [Matija Čupić](https://gitlab.com/matteeyah)         | Fullstack Engineer, Contributor Success                    |
 | Member                | [Marshall Cottrell](https://gitlab.com/marshall007)  | Principal, Strategy and Operations (Technical)             |           
