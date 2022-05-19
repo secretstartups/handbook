@@ -100,7 +100,7 @@ For all department folders they will follow this convention:
 - Expects the **directory name** to start with `department_`.
 - Expects `department_name` to be lowercase, and spaces replaced with `_` underscores.
 
-For the majority of departments this will be the case, although we must note that these **can differ** from what your department is actually called. For example, **Public Sector** would be referred to as `department_pub_sec`.
+For the majority of departments this will be the case, although we must note that these **can differ** from what your department is actually called. For example, **Public Sector** would be referred to as `department_pubsec`.
 
 If you are unsure of what your departments name in BambooHR is, please [open an issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/new?issuable_template=Employment%20Templates) in the [People Group Engineering project](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/) and we will get back to you with the name and location of the templates for the desired role.
 
