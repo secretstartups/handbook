@@ -75,10 +75,10 @@ These are typically [Corrective Actions or other followup items](https://about.g
 SLO tracking. They will be scheduled through either of the above paths, by EM
 and/or PM polling these dashboards:
 
-- Dashboard for [Out of SLO Infradev issues]: https://gitlab.okta.com/app/periscopedata/exk3fzi3sc0TkcYSj357/sso/saml
+- Dashboard for [Out of SLO Infradev issues](https://gitlab.okta.com/app/periscopedata/exk3fzi3sc0TkcYSj357/sso/saml)
 - [All Infradev issues](https://app.periscopedata.com/app/gitlab/899982/InfraDev?widget=12327718&udv=0) (sort by team)
 
-### Working with product
+## Working with product
 
 A weekly call is held between the product manager and engineering manager,
 which is listed in the "Gitaly Team" calendar. Everyone is welcome to join and
@@ -105,19 +105,22 @@ The Gitaly consumers are:
 
 [#g_create_gitaly_consumers]: https://gitlab.slack.com/archives/g_create_gitaly_consumers
 
-### Capacity planning
-
-<%= partial("handbook/engineering/development/dev/create/capacity_planning.erb") %>
-
 ### Retrospectives
 
 At the beginning of each release, the Gitaly EM will create a retrospective issue
 to collect discussion items during the release. The first weekly Gitaly meeting
 after the 18th that issue will be used to discuss what was brought up.
 
-Additionally, a weekly review is conducted by the Geekbot Slack integration. Each
-member of the `#gitaly-standup` channel on Slack will be prompted to fill out the
-weekly retrospective to review what you've learned and what can be improved.
+## Metrics
+
+### Useful links
+
+* [Actual pending Infradev issues](https://app.periscopedata.com/app/gitlab/899982/InfraDev?widget=12327718&udv=0) (sort by group, focus on gitaly)
+* [Error budget](https://dashboards.gitlab.net/d/stage-groups-detail-gitaly/stage-groups-gitaly-group-error-budget-detail?orgId=1)
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Gitaly" } %>
+
+## Team development
 
 ### Onboarding
 
