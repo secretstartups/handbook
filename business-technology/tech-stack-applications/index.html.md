@@ -9,13 +9,13 @@ extra_js:
 
 ## Definition and access
 
-The Tech Stack is a list of all the technology that GitLab currently uses to support the business. The Tech Stack lists systems/applications/tools used by all departments and details the business purpose/description, the owners, the provisioners, the teams that access the tool and other details.
+The Tech Stack is a list of all the technology that GitLab currently uses to support the business. The Tech Stack lists systems/applications/tools/data used by all departments and details the business purpose/description, the owners, the provisioners, the teams that access the tool and other details.
 
-The Tech Stack single source of truth is the [tech stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml).
+- The Tech Stack single source of truth is the **[Tech Stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml).**
+- An overview of the Tech Stack is accessible in the [Tech Stack handbook page](/handbook/business-technology/tech-stack/), which is derived from the yml file as well.
+- The [Tech Stack Data and Integrations Index](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) contains links to integrations, dashboards, and data used by Tech Stack Applications.
 
 The historical spreadsheets (deprecated on 2020-10-16 and 2021-03-03) can be found [here](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0). Both are protected in case they are needed in future audits. Only Editors of the file (currently the BSAs and Team Member Enablement team) can unhide and unprotect the spreadsheets in case it is needed.
-
-An overview of the tech stack is accessible in the [Tech Stack handbook page](/handbook/business-technology/tech-stack/), which is derived from the yml file as well.
 
 ## Tech Stack Support Hierarchy
 
@@ -31,6 +31,7 @@ Business and technical owners will remain the point of contact for provisioning 
 - **Provisioner/Deprovisioner**: People in charge of granting and removing team member access to a tool. At least two provisioners/deprovisioners should be named for every tool in the handbook. Provisioners can be contacted as a group in Slack using the `@provisioners` handle and in GitLab using the `@tech-stack-provisioner` handle.
 
 ## Tech Stack Updates
+
 _**We recommend using the Web IDE for Tech Stack Updates as we have a [JSON Schema](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/schemas/tech_stack.schema.json) that will automatically validate your changes.**_
 
 There are three main reasons you would want to change our Tech Stack:
@@ -117,6 +118,7 @@ Submit MR and select the template `tech-stack-new-system.md`. Fill out all the i
 The Legal, IT Compliance, Internal Audit and Business Systems team will be automatically cc'd in the MR when you use the correct template. These teams will review and update the MR by filling out the missing fields relevant to their teams. Once it is all done, the Business Systems Analysts will merge.
 
 ### **Update Tech Stack Information**
+
 _**We recommend using the Web IDE for Tech Stack Updates as we have a [JSON Schema](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/schemas/tech_stack.schema.json) that will automatically validate your changes.**_
 
 To update any system information listed in the Tech Stack, you must start a merge request in the [tech stack yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). Please use the `tech-stack-update.md` template when submitting your MR and follow the instructions in the template. Ensure to update the information following the instructions in the [Tech Stack Data section](/handbook/business-technology/tech-stack-applications/#what-data-lives-in-the-tech-stack).
@@ -132,9 +134,11 @@ Occasionally systems listed in our tech stack will be deprecated. If a system is
 Please review our [Access Requests handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) to find more information on how to request access to systems. Choose the right template for your use case and follow the instructions.
 
 ### Support
+
 Are you experiencing issues with an application/system? Visit our [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and under `Group Owner/Slack Channel`, you can find out what Slack channel you need to reach out to request support.
 
 ### Procurement
+
 Do you want to procure a new application/system? Visit the [Procurement handbook page](/handbook/finance/procurement/) to find out more information on how to get started. Only applications which go through this process can be added to the tech stack.
 
 ### Updating the offboarding template

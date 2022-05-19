@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Tech Stack - Applications"
-description: "Index of all applications we manage and important links to important data, integrations, and dashboards."
+title: "Tech Stack - Data and Integrations"
+description: "Index of the Data and Integrations used by applications in the Tech Stack."
 ---
 
 {::options parse_block_html="true" /}
