@@ -108,13 +108,6 @@ Please follow the best practice process and use the [trip note template](https:/
 - Fosters GitLab’s values of collaboration and results
 - The Give Back Project gives team members the opportunity to be exposed to problems on the team today and will allow the team to look back and see how we addressed shortcomings in the past
 
-#### How does the Give Back Project differ from the Center of Excellence?
-
-- The COE is assigned while the Give Back is self-selected
-- During team QBRs in February 2019, it was determined that there were certain aspects that made selling at GitLab difficult. Those aspects were divided into categories and those categories were assigned to different team members to become experts at, forming the Center of Excellence
-- The COE has already been determined by the team as areas where the team needs improvements while the value of a team member’s Give Back Project needs to be realized
-- A Give Back Project can be working on a portion of the COE
-
 #### How to properly document a Give Back Project
 
 - Give Back Projects are described and worked by team members in the [Commercial Sales issue tracker](https://gitlab.com/gitlab-com/sales-team/commercial-sales/issues?label_name%5B%5D=Give+Back+Project)
@@ -161,6 +154,51 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
     - Exception to command plan: for channel managed opportunities we may not have access - put `Channel-Managed` in the opportunity title
     - ([training session here](https://youtu.be/zN_0J6syxmM) and [training deck here](https://bit.ly/2WNlzbZ))
 1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-pipeline-activity) [video](https://youtu.be/o5gm7_5321w)
+
+### Account Ranking
+
+It is a requirement for the Commercial Sales Team to tier their accounts using the fields on the Account Object. This helps prioritize the accounts to go after when prospecting for new or expansion. Please see below definitions specific to SMB and Mid-Market AEs.
+
+#### Ranking Training and Definitions
+
+[Commercial Sales: Account Ranking Training Clippet](https://youtu.be/M-5OhlYxmFI)
+
+#### SMB Account Executive Definitions for Account Ranking
+
+- Rank 1: Top 10 Accounts with new business or upselling possibility within the next 12 months
+- Rank 1.5: Future opportunities that we should not lose track of as there is a sales opportunity here with no timeline
+- Rank 2: Believe there is an opportunity, but will take additional work before opening and beginning a sales cycle
+- Rank 3: Greenfield, SDR attention - perhaps a drip campaign
+- SMB AE must have potential user field filled in on the account object for Rank 1, and 1.5
+- SMB AE must have the notes section filled in on why an account is Rank 2 or 3
+
+#### Mid-Market Account Executive Definitions for Account Ranking
+
+- Rank 1: Accounts that I am working to maximize their Net ARR this fiscal year.
+- Rank 1.5 The subset of Rank 2 that is best and trending toward being future Rank 1s.
+- Rank 2 Accounts that I am working to grow and I speak with them at least once a month.
+- Rank 3 Accounts that I keep informed about GitLab and DevOps monthly.
+
+### Close Date Conventions
+
+<span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross Net ARR Best Case, Gross Net ARR Commit, and Net 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
+
+1. <span class="colour" style="color:rgb(0, 0, 0)">The close date should always be in the month that you believe it has the most likely chance of closing (with only one exception as dictated below).</span>
+1. <span class="colour" style="color:rgb(0, 0, 0)">At **all times** the Net ARR amount should reflect your best estimate of the actual amount that the opportunity will have on it when it closes in the month reflected in the close date. There are no exceptions other than returning from an onsite visit, even if you have not spoken with the account. If you get a new opp you should quickly assess the account and, given your experience, make an educated guess on what amount the company will transact at.</span>
+1. <span class="colour" style="color:rgb(0, 0, 0)">The Stage represents where you believe the customer is in their buying process, not only the specific steps they have taken with you.</span>
+
+<span class="colour" style="color: rgb(0, 0, 0);">The three close dates:</span>
+
+1. <span class="colour" style="color:rgb(0, 0, 0)">Last day of the month it will close in **only if you have a compelling event defined**</span>
+1. <span class="colour" style="color:rgb(0, 0, 0)">The actual day the opportunity will close when the quote goes out for signature. It will appear past due if we don’t get the signature back and pushes to the Friday of the week it should close.  Renewals default to this convention</span>
+1. <span class="colour" style="color:rgb(0, 0, 0)">First day of the following month, no compelling event defined </span>
+    1. <span class="colour" style="color:rgb(0, 0, 0)">Placing the close date on the first day of the month is a temporary status of **up to 48 hours** during which time the AE would work directly with their Champion / Economic Buyer to confirm the compelling event and client timeline.  Once determined, the AE would move the close date to the last day of the month of actual closing.    </span>
+    1. <span class="colour" style="color:rgb(0, 0, 0)">This close date carries a window of roughly 60 days of when you think it will come in</span>
+
+**Example**: It's April 23rd, a new business Mid-Market opportunity is identified for a company at 410 employees and growing at an unknown rate (unclear due to being an agency). The company completed their evaluation with a trial ending this month, there are defined problems initially trying to solve, with some people who have used GitLab before.
+
+- Question for AE and self, what % chance of the purchase occurring in April, May, or June?
+    - 90% April, 10% May
 
 ## Chorus recordings
 
@@ -371,27 +409,6 @@ GitLab.com Trials & Subscription Management
 
 - Access [the CustomersDot](https://customers.gitlab.com/admin/customer) to provide changes to a user, group, or subscription.
 
-#### Close Date Conventions
-
-<span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross Net ARR Best Case, Gross Net ARR Commit, and Net 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
-
-1. <span class="colour" style="color:rgb(0, 0, 0)">The close date should always be in the month that you believe it has the most likely chance of closing (with only one exception as dictated below).</span>
-1. <span class="colour" style="color:rgb(0, 0, 0)">At **all times** the Net ARR amount should reflect your best estimate of the actual amount that the opportunity will have on it when it closes in the month reflected in the close date. There are no exceptions other than returning from an onsite visit, even if you have not spoken with the account. If you get a new opp you should quickly assess the account and, given your experience, make an educated guess on what amount the company will transact at.</span>
-1. <span class="colour" style="color:rgb(0, 0, 0)">The Stage represents where you believe the customer is in their buying process, not only the specific steps they have taken with you.</span>
-
-<span class="colour" style="color: rgb(0, 0, 0);">The three close dates:</span>
-
-1. <span class="colour" style="color:rgb(0, 0, 0)">Last day of the month it will close in **only if you have a compelling event defined**</span>
-1. <span class="colour" style="color:rgb(0, 0, 0)">The actual day the opportunity will close when the quote goes out for signature. It will appear past due if we don’t get the signature back and pushes to the Friday of the week it should close.  Renewals default to this convention</span>
-1. <span class="colour" style="color:rgb(0, 0, 0)">First day of the following month, no compelling event defined </span>
-    1. <span class="colour" style="color:rgb(0, 0, 0)">Placing the close date on the first day of the month is a temporary status of **up to 48 hours** during which time the AE would work directly with their Champion / Economic Buyer to confirm the compelling event and client timeline.  Once determined, the AE would move the close date to the last day of the month of actual closing.    </span>
-    1. <span class="colour" style="color:rgb(0, 0, 0)">This close date carries a window of roughly 60 days of when you think it will come in</span>
-
-**Example**: It's April 23rd, a new business Mid-Market opportunity is identified for a company at 410 employees and growing at an unknown rate (unclear due to being an agency). The company completed their evaluation with a trial ending this month, there are defined problems initially trying to solve, with some people who have used GitLab before.
-
-- Question for AE and self, what % chance of the purchase occurring in April, May, or June?
-    - 90% April, 10% May
-
 #### Troubleshooting & How-To Resources for Licensing & Subscription Management
 
 Detailed instructions on how to handle problems with licenses and subscriptions can be found in [these instructions and resources.](/handbook/business-ops/enterprise-applications/portal/troubleshooting/)
@@ -502,32 +519,6 @@ Note: If an AE suspects that the employee count or potential user count is not a
 1. The automation for new accounts in the system means accounts with under 500 employees but over 100 potential users will be routed to territory and left there unless they have no activity at the quarter change over.
 1. If it is found out that an AE intentionally ignores rules number 1 or 2 more than twice in a fiscal year disciplinary action is likely to be taken.
 
-
-
-## Account Ranking
-
-It is a requirement for the Commercial Sales Team to tier their accounts using the fields on the Account Object. This helps prioritize the accounts to go after when prospecting for new or expansion. Please see below definitions specific to SMB and Mid-Market AEs.
-
-### Ranking Training and Definitions
-
-[Commercial Sales: Account Ranking Training Clippet](https://youtu.be/M-5OhlYxmFI)
-
-#### Small Business Account Executive Definitions for Account Ranking
-
-- Rank 1: Top 10 Accounts with new business or upselling possibility within the next 12 months
-- Rank 1.5: Future opportunities that we should not lose track of as there is a sales opportunity here with no timeline
-- Rank 2: Believe there is an opportunity, but will take additional work before opening and beginning a sales cycle
-- Rank 3: Greenfield, SDR attention - perhaps a drip campaign
-- SMB AE must have potential user field filled in on the account object for Rank 1, and 1.5
-- SMB AE must have the notes section filled in on why an account is Rank 2 or 3
-
-#### Mid-Market Account Executive Definitions for Account Ranking
-
-- Rank 1: Accounts that I am working to maximize their Net ARR this fiscal year.
-- Rank 1.5 The subset of Rank 2 that is best and trending toward being future Rank 1s.
-- Rank 2 Accounts that I am working to grow and I speak with them at least once a month.
-- Rank 3 Accounts that I keep informed about GitLab and DevOps monthly.
-
 ## Co-Selling
 
 Co-selling is the responsibility of both the Account Executive and their Area Sales Manager to join sales calls together. This is to ensure the best client/prospect experience, along with jointly finding the highest potential within that account.
@@ -575,48 +566,6 @@ GitLab has a mature Partner network with good coverage of GitLab-trained Sales a
 - Slack [#channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) or reach out to your Channel Account Manager with any questions or requests for assistance. The channel is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can.
 - List of [GitLab-trained OPEN and SELECT channel partners](https://help.salesforce.com/articleView?id=reports_schedule.htm&type=5)
 - Channel Partner Finder **[Here](https://partners.gitlab.com/English/directory/)
-
-## Center of Excellence
-
-The Center of Excellence (COE) in the Commercial Sales context refers to the team's research and development of a particular focus area to drive new initiatives and improvements across the organization.
-
-Why call it Center of Excellence?
-
-- We have challenges we are uniquely positioned to focus on
-- We aren’t the Directly Responsible Individual (DRI) but it is a challenge to get this prioritized
-- This is our current platform for collaboration
-
-How?
-
-1. Choose one of the active Topics currently available below. Refer to the team list to see what is unassigned. Note, to take a topic you do not have to be a Subject Matter Expert (SME) in the area or DRI as they may belong to a different Department.
-1. Pick an achievable set of commitments and nail it. These should be forecastable and not something too aspirational for the timeframe
-1. Decide for yourself if you want that same topic for 3 or 6 months
-1. Start with the problem related to your subject that you think needs to be solved
-
-#### Commercial COE Topics
-
-Here are the past active topics for individual team members on COE alignment. This center in its first iteration started with the team's QBR in 2019.
-
-- **Communication and Collaboration**
-Support on communication and tools to stay better connected as a remote Commercial Sales organization
-- **CustomersDot**
-Improvements to our [CustomersDot](https://customers.gitlab.com)
-- **Customer Advisory Board**
-Capturing direct feedback for interaction and organizing customers selected
-- **Feedback Loop**
-Improvements to feedback channels to document structured data for all customer interactions
-- **Hosted gitlab.com**
-Ramping new customers and users on gitlab.com, our hosted product offering
-- **KISS enablement**
-Keep it simple. Focus on process including managing tasks, training GitLab, and new release features
-- **Marketing campaigns**
-- **Sales content/collateral**
-- **Sales process - SDR**
-Improvements to the SDR to AE collaboration process
-- **Services**
-Improvements to the Professional Services offering
-- **Ultimate**
-Improvements to the full pitch including [Why Ultimate](/pricing/ultimate/)
 
 ## Mid-Market Key Accounts First Order
 
