@@ -29,7 +29,7 @@ By default, the `TurnOnCloudLicensing__c` flag in SFDC will be set to `Yes` on e
 
 ### Post-Sale Exemptions (Support)
 
-The above defined sales-initiated exemption process should be used for all customers. However, if an emergency situation arises where a Legacy License or Offline License is requested by a customer after they have already received a Cloud License activation email, and the sales account manager is unable or unavailable to exempt the customer, then a support engineer should request that a support manager approves the exemption request. 
+The above defined sales-initiated exemption process should be used for all customers. If a situation arises where a Legacy License or Offline License is requested by a customer from Support after they have already received a Cloud License activation email, Support should engage the sales account manager to follow the above approval process to provide this customer with the requested license. If an emergency situation occurs where the customer requires access during the approval process, a support engineer should provide the customer with a trial license until approval is received. Once approved, the correct license type can be issued to the customer.
 
 If approved, the support engineer will need to first update the `Cloud Licensing` flag within [CustomersDot's Admin](https://customers.gitlab.com/admin).
 Under "admin/customer/<CUSTOMER_ID>/zuora_subscriptions", the flag needs to be set to either "Offline" or "No", as shown in the screenshot below.
