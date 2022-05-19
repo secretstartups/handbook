@@ -9,10 +9,10 @@ description: " _add high level description of job family_ "
 
 This role report to Director or Senior Director, International Accounting
 
-### Manager, Accounting, Global Consolidation & Reporting Job Grade
+#### Manager, Accounting, Global Consolidation & Reporting Job Grade
 Manager, Accounting, Global Consolidation & Reporting is a grade [9].
 
-### Manager, Accounting, Global Consolidation & Reporting Responsibilities
+#### Manager, Accounting, Global Consolidation & Reporting Responsibilities
 
 - Will be directly responsible for all aspects of accounting for our international subsidiaries, intercompany transactions and consolidations
 - Will Lead process improvement initiatives in Financial Close, Consolidation and Reporting areas and provide recommendations based on Financial Close & Consolidations leading practices
@@ -26,10 +26,10 @@ Manager, Accounting, Global Consolidation & Reporting is a grade [9].
 - Implements new accounting policies and ensures those policies are communicated to team as well as the business
 - Guides and partners with cross-functional teams to develop and implement approved changes
 - Prepares and/or reviews reports supporting internal and external audits
-- - Works with internal and external audit as needed
-Mentors, guides, and develops employees through orientation, training, establishment of goals, communication of policies and rules, and constructive discipline; Strengthens morale and motivation
+- Works with internal and external audit as needed
+- Mentors, guides, and develops employees through orientation, training, establishment of goals, communication of policies and rules, and constructive discipline; Strengthens morale and motivation
 
-### Manager, Accounting, Global Consolidation & Reporting Responsibilities Accounting Requirements
+#### Manager, Accounting, Global Consolidation & Reporting Responsibilities Accounting Requirements
 - 7+ years of progressive growth in financial management roles in high growth companies, Software/SaaS industry experience is preferred
 - 2+ years in a finance international role, leading various finance operations functions
 - Knowledge of Netsuite is required
@@ -37,7 +37,7 @@ Mentors, guides, and develops employees through orientation, training, establish
 - Leadership at GitLab
 - Ability to use GitLab
 
-### Manager, Accounting, Global Consolidation & Reporting Performance Indicators
+#### Manager, Accounting, Global Consolidation & Reporting Performance Indicators
 - Stat audit status
 - Efficiencies in the process with automation
 - Clean intercompany balances
