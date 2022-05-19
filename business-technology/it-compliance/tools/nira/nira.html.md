@@ -11,7 +11,26 @@ description: "What is Nira?"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-#### Nira Information to be included here
+## What is Nira?
+
+**"Our mission is to make collaboration safe and secure for everyone. The sheer volume of company information that's spread across countless cloud applpications makes it more challenging than ever to keep information safe and secure."** -- [Nira](https://nira.com/about/)
+
+_That's why the creators of Nira built this tool from the ground up to help businesses like ours protect company information from unauthorized access through complete visibility, management, and control._
 
 
-Page under construction. This page should include information about Nira, why we chose Nira, and what Nira does and doesn't do.
+"Nira’s real-time access control system provides complete visibility of internal and external access to company documents. Companies get a single source of truth combining metadata from multiple APIs to provide one place to manage access for every document that employees touch. Nira currently works with Google Workplace with more integrations coming in the near future." -- [Nira](https://nira.com/about/)
+
+
+## Who is Nira For?
+
+"Nira is used by administrators of cloud applications, typically IT and Information Security teams. Customers include companies of all sizes from hundreds to thousands of employees. Nira's largest customers have many millions of documents in their Google Workspace." -- [Nira](https://nira.com/about/)
+
+
+## How Secure is Nira?
+
+"We take the security of your data seriously. Nira has achieved its SOC 2 Type 2 certification and is audited annually. Security is our highest priority and is an integral part of how we operate." -- [Nira](https://nira.com/about/)
+
+
+## Why Nira?
+
+We chose Nira because of the easy to navigate interface, alerting mechanisms, flexible dashboards, and ease of use. This helps our teams respond to incidents, assist with offboarding, and help keep our Drive files secure. 
