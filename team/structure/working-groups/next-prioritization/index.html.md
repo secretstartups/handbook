@@ -66,14 +66,14 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 
 | Task | Due date | Status | DRI | Issue link(s) |
 | --- | --- | --- | --- | --- | 
-| Poll and decide on new workgroup name | 5/2 | Complete | Michael Oliver | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274) |
-| Company wide-announcement and schedule AMA sessions | 5/4 | Complete | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13302) |
+| Poll and decide on new workgroup name | May 2 | Complete | Michael Oliver | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274) |
+| Company wide-announcement and schedule AMA sessions | May 4 | Complete | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13302) |
 | Update dashboards and associated handbook pages for all teams | May 26 | 80% | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) |
 | Automate merge request type reminders  | May 30  | In process | Kyle Wiebers | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) |
 | Auto-schedule S1 Bugs | June 7 | In process | Tanya Pazitny | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
-| Handbook updates to describe new process and deprecate engineering allocation process | TBD | Started | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
+| Handbook updates to describe new process and deprecate engineering allocation process | May 26 | Started | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
 | Setup monthly MR type reviews between engineering managers, sub-department leads, and engineering overall trends | TBD | Not Started | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
-| Refine stakeholder dashboard views, bug & maintenance backlog types | TBD | In process | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13321) | 
+| Refine stakeholder dashboard views, bug & maintenance backlog types | May 19 | Complete | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13321) | 
 | Reduce undefined MR types to less than 5% | TBD | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
 | 100% of teams migrated to new process | 6/15 | In process (5% : 2 out of ~39) | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
 | Do a restrospective and close working group | 6/22 | Not started | Wayne Haber | TBD |
