@@ -22,13 +22,17 @@ Small and Medium Size Business Account Executives "SMB AE" act as Account Execut
 ##### General
 
 - **Main SMB Channel** = [`#smb`](https://app.slack.com/client/T02592416/CH4KPGS87)
-- **Commercial Sales Group** = [`commercial_global_all`](https://app.slack.com/client/T02592416/GG3M02L75)
+- **Commercial Sales Group** = [`#commercial_global_all`](https://app.slack.com/client/T02592416/GG3M02L75)
 - **Main Sales Channel** = [`#sales`](https://app.slack.com/client/T02592416/C02NE5PQM)
 
 ##### Team Channels
 
 - **EMEA + APAC** = [`#international-smb`](https://app.slack.com/client/T02592416/CN84VB75H)
 - **AMER** = [`#smb-amer`](https://app.slack.com/client/T02592416/GN43QNUL9)
+- **First Order** = [`#smb-pipeline-generation`](https://gitlab.slack.com/archives/C02EMQGJR53)
+- **Pooled** = [`#smb-pooled-ae`](https://gitlab.slack.com/archives/C036C3W83U1)
+- **Expand** = [`#smb-fye-ae`](https://gitlab.slack.com/archives/C03C8DYNGN5)
+- **Named** = [`#smb-named-ae`](https://gitlab.slack.com/archives/C031DRBRXEW)
 
 ##### SMB Support
 
