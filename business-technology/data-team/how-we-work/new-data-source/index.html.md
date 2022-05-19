@@ -57,6 +57,21 @@ All details regarding the new data source will be flashed out, with the goal of 
 #### Data scope
 Based on the requirements, the data points that need to be extracted (i.e. which tables) will be determined. A total data scope must be given.
  
+##### Data minimisation
+In the Data Platform we adopt the principle of data minimisation when extracting data, which means we only extract data that is needed to fulfill the scope/need. We do this for the following reasons:
+- Less data is using less resources, reducing pressure on source systems, pipelines and our data platform.
+- Less data means less maintenance, if a data source changes and we don't extract that particular data(set), we likely don't need to do anything.
+ 
+This is all in the spirit of GitLabs value of efficiency.
+ 
+Data minimisation is applied on the following levels:
+- Data sources. We only extract data sources that are needed.
+- Tables. We only extract the tables within an extraction that are needed.
+- Columns. We only extract the columns in the tables that are needed.
+ 
+Data minimisation is not applied on the following levels:
+- Rows. We don't apply filtering on rows by default, unless there is a good reason (technical or functional). This is to avoid confusion about which data our data consumers are actually seeing.
+
 #### Extraction solution
 The Data Team has different instruments available to extract data out of source systems (randomly ordered):
  
