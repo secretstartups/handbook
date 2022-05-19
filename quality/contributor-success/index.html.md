@@ -179,20 +179,28 @@ Triage automations are handled by the [Triage Ops project](https://gitlab.com/gi
 
 ### Reactive processors
 
-1. [Pingpong label remover](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/remove_pingpong_label_on_author_activity.rb)
-  - Removes the 🏓 label from community MRs in which a community contributor responded
-1. [Idle/Stale label remover](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/remove_idle_labels_on_activity.rb)
-  - Removes the `idle`/`stale` labels from MRs in which there is human activity
-1. [Code Review Experience Feedback](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/code_review_experience_feedback.rb)
-1. [Code Review Experience Slack](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/code_review_experience_slack.rb)
-1. [Request review command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/command_request_review.rb)
-1. [Merge Request help command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/merge_request_help.rb)
-1. [Community Contribution doc](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/doc_community_contribution.rb)
-1. [Hackathon labeler](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/hackathon_label.rb)
-1. [Reactive labeler](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/reactive_labeler.rb)
-  - Allows users to add labels to the MR via the bot
-1. [Community contribution thank you note](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/thank_community_contribution.rb)
-1. [UX Community contribution comment](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/ux_community_contribution.rb)
+1. [Community contribution thank you note](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/thank_contribution.rb)
+  - Posts a "Thank you" note on MRs opened by a wider community author, adds the `Community contribution` label, and assigns the MR to its author.
+1. [Automated review request for doc contributions](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_doc.rb)
+  - Asks a relevant Technical Writer (based on the changes' mapped from the `CODEOWNERS` file) to review non-draft MRs (happens only once).
+1. [Automated review request for UX contributions](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_ux.rb)
+  - Posts a Slack message in the `#ux-community-contributions` Slack channel (internal) to ask a UX reviewer to review non-draft MRs, when the `UX` label is set in an MR (happens only once), and let the author know about the Slack ping.
+1. [Reactive `help` command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_help.rb)
+  - Allows MR author to request help. Currently, it pings a random MR coach. Available once per MR per day.
+1. [Reactive `request_review` command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_request_review.rb)
+  - Allows MR author to request a review. Currently, it pings a random MR coach. Available once per MR per day.
+1. [Reactive `label` command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_label.rb)
+  - Allows users to add specific labels (currently only `type::` and `group::` labels) to the MR. Available 60 times per author per hour.
+1. [Pingpong label remover](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/remove_pingpong_label_on_author_activity.rb)
+  - Removes the 🏓 label from community MRs in which a community contributor responded.
+1. [Idle/Stale label remover](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/remove_idle_labels_on_activity.rb)
+  - Removes the `idle`/`stale` labels from MRs in which there is human activity.
+1. [Code Review Experience Feedback](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/code_review_experience_feedback.rb)
+  - Asks MR author about their contributing experience after their is merged or closed.
+1. [Reactive `feedback` command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_feedback.rb)
+  - Allows MR author to give feedback. The feedback is posted in the `#mr-feedback` Slack channel (internal).
+1. [Hackathon labeler](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/hackathon_label.rb)
+  - Adds the `Hackathon` label on `Community contribution` MRs opened during the Hackathon dates.
 
 ## Working with community contributions
 
