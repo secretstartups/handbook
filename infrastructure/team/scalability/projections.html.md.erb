@@ -1,0 +1,73 @@
+---
+layout: handbook-page-toc
+title: "Scalability:Projections Team"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+## Projections
+
+This team focuses on forecasting & projection systems that enable development engineering to understand
+system growth (planned and unplanned) for their areas of responsibility. Error Budgets and Stage Group Dashboards
+are examples of successful projects that have provided development teams information about how their code runs on GitLab.com.
+
+We use metrics to gather data to inform our decisions. We contribute to the observability of the system by maintaining
+metrics that concern saturation and improving observability tools that we can use to help us understand how the system
+responds to load.
+
+## Team Members
+
+The following people are members of the Scalability:Projections team:
+
+<%= direct_team(manager_slug: 'rachel-nienaber')%>
+
+## Team Responsibilities
+
+We are responsible for Capacity Planning and Error Budgets.
+
+### Capacity Planning
+
+We maintain and improve the Capacity Planning process that is described [in the Infrastructure Handbook](https://about.gitlab.com/handbook/engineering/infrastructure/capacity-planning/).
+
+Issues are kept in the [capacity planning issue tracker](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues). Where
+an issue is needed to improve metrics to support this process, we raise an issue in the [Scalability group tracker](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues) with
+the label of `Saturation Metrics`.
+
+The responsibility for reviewing Tamland reports rotates between team members. This rotation is currently ad-hoc as
+we continue to get comfortable with ownership of this process.
+
+The goal of this process is to predict and prevent saturation incidents on GitLab.com.
+
+### Error Budgets
+
+We maintain the Error Budgets process that is described [in the Engineering Handbook](https://about.gitlab.com/handbook/engineering/error-budgets/).
+
+Issues are kept in the [Scalability group tracker](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues) with
+the label of `Category::Error Budgets`.
+
+We maintain the metrics used to generate the Error Budgets and we ensure that the reports are published on time.
+
+We advocate for improving the SLOs for Stage Groups and we provide support to help them achieve this. Providing the Stage Groups
+with data about how their feature categories operate on GitLab.com enables them to make good choices about how to efficiently
+improve the reliability, availability and performance of their feature categories.
+
+## Indicators
+
+The Scalability group is an owner of several performance indicators that roll up to the Infrastructure department indicators:
+
+1. [Service Maturity model][service maturity model] which covers GitLab.com's production services.
+1. The forecasting [project named Tamland][tamland] which generates and displays [utilization and saturation reports][tamland reports]
+
+These are combined to enable us to better prioritize team projects.
+
+An overly simplified example of how these indicators might be used, in no particular order:
+
+* Service Maturity - provides detail on how trustworthy the data we received from observability stack in relation to the service; the lower the level the more focus we need to improve the service observability
+* Tamland reports - Provides a forecast for a specific service
+
+Between these different signals, we have a relatively (im)precise view into the past, present and future to help us prioritise scaling needs for GitLab.com.
+
+[service maturity model]: /handbook/engineering/infrastructure/service-maturity-model/
+[tamland]: https://gitlab.com/gitlab-com/gl-infra/tamland/
+[tamland reports]: https://gitlab-com.gitlab.io/gl-infra/tamland/saturation.html
