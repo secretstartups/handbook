@@ -77,3 +77,7 @@ A core responsiblity for Scale TAMs is engaging with the customer base in target
 - 15 customer calls per week (3 per day)
 
 For an additional overview of our Scale team-specific responsibilities, please reference our Job Family: [Scale TAM Responsibilities & Requirements](https://about.gitlab.com/job-families/sales/technical-account-manager/#scale)
+
+### Additional Resources
+
+Check out the "[How GitLab Scaled Customer Value For Long Tail Customers](https://www.valuize.co/all-resources/gitlab-scale-strategy-webinar/)" webinar with Sherrod Patching, Head of Global TAM (Customer Success) at GitLab, and Ross Fulton, Founder & CEO at Valuize. This discussion is about how GitLab built its scale strategy through a programmatic, data-driven approach and various methods of driving value throughout the customer journey.
