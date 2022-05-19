@@ -274,12 +274,24 @@ We then create a merge request on `www-gitlab-com` project so it can be merged.
 
 The merge request is assigned to the People Experience Team and they set it to merge when the pipeline succeeds.
 
+### Possible Errors and Fixes
+
+In the event we run into errors with the Team Page sync, we have some backup plans in place.
+
 In case team members did not fill in the required data, we won't be able to sync them. A People Experience Associate
 can later on sync them with the following Slack command:
 
 `/pops run teampageindividual <EMPLOYEE_NUMBER>`.
 
 This will spin up a pipeline and fetch the details. Note that if the team member was synced already, it will abort the sync.
+
+If the **entire** group of team members was missed, in the event of a failed pipeline or another error, a People Experience Associate can re-run the sync by using the following Slack command:
+
+`/pops run teampageweek <YYYY-MM-DD>`
+
+Please ensure the date format is correct as this should follow, `YYYY-MM-DD` format, for example `2022-05-17`.
+
+This will trigger a new pipeline and fetch the new team members of the provided week and create a new merge request adding them to the Team page.
 
 ## Sync to Modern Health
 [Modern Health](/handbook/total-rewards/benefits/modern-health) needs a weekly update about all our active
