@@ -283,12 +283,22 @@ At the first R/G meeting of the following period, the leadership team will submi
 
 ## SMB Account Executives
 
-SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/sales/field-operations/gtm-resources/) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. These GitLab team members are responsible for working new business in their [territory](/handbook/sales/territories/) as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions. [Please read through the SMB handbook page for more information](/handbook/sales/commercial/smb/).
+SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/sales/field-operations/gtm-resources/) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. 
+
+### SMB Roles
+SMB Account Executives are designated into one of the following pod positions:
+1. First Order
+1. Pooled
+1. Expand
+1. Named 
+
+SMB Account Executives in First Order will assist prospects in their evaluation through the first buying process. Depending on the account, the other three roles will be the customer's primary point of contact for any renewal and expansion discussions.  Collectively the team is responsible for working new business in their [territory](/handbook/sales/territories/) as well as handling the customer journey for new and existing customers. 
+
+Please read below and through the [SMB handbook page for more information](/handbook/sales/commercial/smb/).
 
 ### Critical Salesforce reports to follow and bookmark
 
 - [SMB AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXCS)
-- [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
 - [SMB APAC/EMEA Required 7](https://gitlab.my.salesforce.com/01Z4M000000oWyL)
 - [SMB APAC/EMEA 1:1 Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXKq)
 
