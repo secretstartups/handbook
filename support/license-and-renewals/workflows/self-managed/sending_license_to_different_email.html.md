@@ -15,6 +15,8 @@ We currently do not send paid licenses out to any email other than the one used 
 
 Once the account is changed, the license can be re-sent (or obtained by the new account owner).
 
+An exemption can be made for a temporary license to be sent to a different email address. To make such a request the customer's TAM or Account Manager should submit a [internal license request](https://gitlab-com.gitlab.io/support/internal-requests-form/)
+
 **Note**
 
 We cannot bypass doing this based on internal requests. It must be done via a customer submitted ticket.
