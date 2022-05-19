@@ -180,7 +180,7 @@ Instructions for configuring access through bastions are found in the [bastion r
 
 ### Secrets Management
 
-GitLab utilizes two different secret management approaches, GKMS for machine in side of Google Cloud Provider, and Chef Encrypted Data Bags for all other host secrets.
+GitLab utilizes two different secret management approaches, GKMS for Google Cloud Platform (GCP) services, and Chef Encrypted Data Bags for all other host secrets.
 
 #### GKMS Secrets
 
