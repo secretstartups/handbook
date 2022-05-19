@@ -17,7 +17,7 @@ twitter_creator: '@gitlab'
 <!-- DO NOT CHANGE ANCHOR -->
 The purpose of this handbook page is to outline how our UTM strategy drives insightful dashboards in Sisense. You may learn how to use the UTM builder, and why it is critical that we use this consistent process across all marketing channels for consistent and useful reporting.
 
-Everyone can contribute - See something you'd like to discuss or iterate on? Start an MR and post it in [#campaign-reporting](https://gitlab.slack.com/archives/CSBDEH2DQ) slack channel.
+Everyone can contribute - See something you'd like to discuss or iterate on? Start an MR and post it in [#mktg-strat-perf](hhttps://gitlab.slack.com/archives/C01HTAYQBM5) slack channel.
 
 ## UTMs and Sisense dashboards
 {: #utms-sisense .gitlab-purple}
@@ -36,13 +36,12 @@ Here is Bizible's breakdown of how [Touchpoints are generated and mapped](https:
 | Offline; Online, not on your site(s) | CRM Campaign membership sync | Through the Offline Channels page in Bizible, by referencing Campaign Type                                           |
 | Sales activity                       | CRM Activity sync            | Through the Online Channels page in Bizible, by referencing the Campaign Name assigned on the Activities page        |
 
-**[Demand Gen Dashboard in Sisense](https://app.periscopedata.com/app/gitlab:safe-dashboard/919221/Demand-Gen-Dashboard):** provides an overview of demand gen campaigns performance, measured by the key performance indicators (KPIs): Inquiries, MQLs, and SDR Accepted. These metrics are based on Bizible touchpoints data, while Opportunities, Total IACV$, SAO, Pipeline IACV$, Won Deals count, and Won IACV$ metrics are pulled using the [Linear Bizible Attribution Touchpoints model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#linear-attribution).
 
 ## UTM link builder process
 {: #utm-builder .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-**[UTM builder googlesheet with formulas](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=1052439774)** should be used to setup a tracking URL for your campaign. The process involves the following steps:
+**[UTM builder googlesheet with formulas](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=1052439774)** should be used to setup a tracking URL for your campaign. [Here is a video overview](https://youtu.be/WRSIZ84027g) of the spreadsheet. The process involves the following steps:
 1. Open the [Tracking URL Builder](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=1052439774)
 2. Add in your page URL in the first column
 3. Fill in each attribute of your UTM parameter, including `utm_source`, `utm_medium`, `utm_campaign`, `utm_content`, `utm_budget`. If some of these UTM parameters are irrelevant to your campaign, keep them blank or remove from the final URL.
