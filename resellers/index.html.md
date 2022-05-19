@@ -315,7 +315,7 @@ The GitLab NFR (Not-for-Resale) Program offers qualified GitLab partners access 
 Request your license by logging in to the [Partner Portal](https://www.partners.gitlab.com), click the "Services" tab and the NFR Request form will be the first Quick Link.
 
 
-*   Partners can receive either Self-Managed or SaaS NFR licenses at the Ultimate level for a 12 month period.
+*   Partners can receive one Self-Managed and one SaaS NFR license at the Ultimate level for a 12 month period.
     *   Select partners can request a license for up to 25 users - additional licenses may be available with business justification.
     *   Open partners can request a license for up to 10 users
 *   Please allow 2 business days for processing your request. 
