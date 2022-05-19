@@ -77,6 +77,12 @@ includes:
 - Removing the pet picture in case the team member had any
 - Update the CODEOWNERS file: change to the manager or remove if the manager is already a codeowner for that file
 
+In the event that the merge request has become out of date and the `/rebase` quick action isn't working a People Experience Associate can follow these steps to regenerate the MR:
+
+1. Close the MR that is out of date, and ensure to delete the branch that this was created on.
+1. Run `/pops run offboardteampage <EMPLOYEE_NUMBER>` to re-trigger the automation.
+1. Verify that the MR has been opened.
+
 ### Remove from Guardian
 
 When a team member leaves GitLab they also need to be _terminated_ on Guardian. We have a daily check for offboarded team members. Every day we check if there are any new offboarding issues created for the day before. For those, we check if the team member is located in the United States. If there are matches, we create a file with the following naming convention: `04_employee_termination_mmddyyhhmmss.csv` and add the users employee id and their end date to the file. This is then uploaded to Guardian so they can process it.
