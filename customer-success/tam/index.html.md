@@ -180,7 +180,7 @@ As a Technical Account Manager, it is important to be continuously learning more
 
 ## SFDC useful reports 
 
-### Tracking opportunities for your assigned SALs
+### Tracking opportunities for your assigned Strategic Account Leader (SALs)
 
 To ensure that opportunities are listed with the correct Order Type, [this Salesforce report](https://gitlab.my.salesforce.com/00O4M000004agfP) shows you all of the opportunities that have closed, or are soon to close, with your SALs. Tracking Order Type is important since TAM team quota and compensation depend on this. Please reference the latest [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/) information to know what is counted.
 
