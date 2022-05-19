@@ -73,7 +73,7 @@ All of the benefits listed below are administered and managed by [Remote](https:
 
 ### Medical
 
-Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $113. 
+Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $106.50 (for partner), $85.20 (children under 18). 
 Team members in Denmark can also access the [public healthcare system](https://www.healthcaredenmark.dk/). This healthcare system covers all the team members and their family members.
 
 ### Pension
@@ -545,7 +545,7 @@ The Hungarian Social Security Act has employer and team member contributions to 
 
 ### Medical
 
-GitLab does not plan to offer Private Health Insurance at this time because team members in Hungary can access the public health system for free or at a lower cost through the Hungarian state healthcare system. This system is funded by the National Health Insurance Fund.
+Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $106.50 (for partner), $85.20 (children under 18).
 
 ### Pension
 
