@@ -659,7 +659,7 @@ To find out what upcoming events GitLab will be involved in please visit our [Ev
 
 For details on how we handle events please visit the [GitLab Event Information](/handbook/marketing/events/) page.
 
-## Marketing SSOT calendar 
+## [Marketing SSOT calendar](/handbook/marketing/#fy22-calendar) 
 
 ## Google Calendar links 
 If you prefer to see the events in an actual calendar view please refer to the following: 
@@ -1301,7 +1301,7 @@ At times, Field Marketers may want to create a SPIF (sales performance incentive
 Account based marketing is separate but sits next to field marketing. For info on account based marketing, please head over to the [ABM page](/handbook/marketing/account-based-marketing/).
 
 ## FMM DB1 Use Cases and set up
-Can be found on the [DemandBase1 Handbook page.](/handbook/marketing/account-based-marketing/demandbase/)
+Can be found on the [DemandBase1 Handbook page.](/handbook/marketing/account-based-marketing/demandbase/#field-marketing-use-cases)
 
 # Field Marketing during COVID-19 Pandemic
 The health and safety of our team members continue to be a top priority.  If you are a Marketer who is planning on attending an event, please follow instructions listed in our [Policy & Guidelines](https://about.gitlab.com/handbook/travel/#policy-and-guidelines) section. 
