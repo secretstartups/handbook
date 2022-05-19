@@ -140,6 +140,10 @@ The following programs have been contributed by leaders across the organization.
 | Engineering Managers/Directors | [PlatoHQ](https://www.platohq.com/) | Leadership mentorship for engineering teams |
 | Finance/Accounting | Licenses and CPE Credits | Program Examples: Certified public accountant, Certified financial analyst, Certified management accountant, Enrolled agent, Certified internal auditor, Certified fraud examiner, Chartered global management accountant, Certified Payroll Professional, Fundamental Payroll Certification |
 | Development and Product | [Certified Agile Leadership](https://www.scrumalliance.org/get-certified/agile-leadership/certified-agile-leadership) | `Scrum Alliance certified agilists who teach Certified Agile Leadership demonstrate years of real-world experience and success coaching agile teams and supporting agile transformations.` |
+| Security | [Defcon Conference](https://defcon.org/) | Our security department has a history of meeting yearly at this conference. Attendence is optional. Lodging, food, and ticket costs will be covered under the growth & development benefit.  Airfare may be covered by our travel budget - check with your manager. |
+| Security | [Defcon Trainings](https://defcon.org/) | Two-day courses that are held immediately following the normal Defcon conference. |
+| Security | [Black Hat Trainings](https://www.blackhat.com/trainings/) | Two to four-day courses held on a schedule not connected to the yearly conference. |
+| Security | [SANS Trainings](https://www.sans.org/) | Remote and in-person trainings and certifications. |
 
 ### Crucial Conversations training 
 
