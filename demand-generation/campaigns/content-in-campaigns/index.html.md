@@ -107,9 +107,11 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 **Required Issues:**
 * [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493)
-* [ ] [Asset Copy Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=content-resource-request) - Content
+* [ ] Asset Copy Issue (open based on which team is content owner)
+   * [Content Asset Copy Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=content-resource-request) - Content
+   * [PMM Asset Copy Issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new) - PMM (no issue template)
 * [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Content & Campaigns
-* [ ] [Nurture Emaily Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture) - Content, Lifecycle & Campaigns
+* [ ] [Nurture Email Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture) - Content, Lifecycle & Campaigns
 * [ ] [Asset Design Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=design-request-content-resource) - Digital Design
 * [ ] 🧨 Not an issue, but an action item for content owner: upload to Pathfactory
 * [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
@@ -191,7 +193,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493)
 * [ ] :dart: Not an issue, but an action item for content owner: Add to HighSpot
 * [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Content & Campaigns
-* [ ] [Nurture Emaily Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture) - Content, Lifecycle & Campaigns
+* [ ] [Nurture Email Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture) - Content, Lifecycle & Campaigns
 * [ ] 🧨 Not an issue, but an action item for content owner: upload to Pathfactory
 * [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
 * [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
