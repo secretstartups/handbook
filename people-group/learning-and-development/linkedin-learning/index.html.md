@@ -27,37 +27,6 @@ Finding courses and skills to learn just got easier with access to LinkedIn Lear
 
 You can take time to learn about something that will help you in your current role. You can learn about things that can help you in a future role (maybe you are an aspiring manager). You can learn more to improve current skills or learn entirely new skills. You can also take time to learn about things that are fun or interesting for you like graphic design, drawing, or mindfulness. 
 
-### Walk and Learn
-
-With the LinkedIn Learning app, team members can download audio-only versions of courses and take learning on the go. We piloted a new initiative during the month of April 2021 encouraging team members to take learning with them while they walk. 
-
-#### Why should you try a Walk and Learn?
-
-1. Some team members might feel like their weeks are too busy to build in time for learning, or that professional development falls off their priority list. We hope this initiative helps team members think creatively about how they can make time for learning
-1. Auditory learners might feel that LinkedIn Learning isn't a good fit for them, since courses are often created with video. The `audio-only` download option can help remove the added distraction of video and let learners focus just on listening
-
-#### Walk and Learn Goals
-
-1. 20 team members will complete 1 walk and learn session and post in the #walk-and-learn Slack channel during the month of April 2021
-1. Average time spent on LinkedIn Learning by team members in April will reach 1.4 hour target
-
-#### Here's how you can participate:
-
-1. Join the [#walk-and-learn Slack channel](https://app.slack.com/client/T02592416/C01T24NNZ4G)
-1. Browse courses on the app, or check out [recommended learning paths for all team members](/handbook/people-group/learning-and-development/linkedin-learning/#recommended-learning-paths) and [skill of the month](/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month) outlined on this page
-1. Download the `audio-only` version of the course you want to listen to
-1. Get walking! Aim to take 2 walks per week when you tune into your LinkedIn Learning course. Use the `:walking:` emoji in your Slack status with the status `Going on a #walk-and-learn!` to let people know you're participating in the initiative!
-1. If you'd like, post a photo of your walk or a screenshot or link of the course you're listening to in the channel
-
-#### How can I participate if I can't walk?
-
-No problem! The goal of this initiative is to combine learning with something that makes you feel recharged and reenergized. If you aren't able to walk or are looking for another option to participate, check out these additional ways you can integrate learning into your daily practice!
-
-- Stretch and Learn: Take learning with you to your mat! Try some light stretches while you listen to the course audio out loud. We suggest using your phone speaker or Bluetooth headphones for this as traditional cords headphones might get in the way.
-- Get Outside and Learn: Find a chair, bench, grass, or any comfy spot to sit outside while you listen to a course. Just getting outside into some fresh air and changing the scenery from your desk can help you feel refreshed and recharged while you're learning
-- Move another way: If walking is challenging and you prefer to bike, roll, run, pool walk, etc - make that your movement and bring the audio learning with you!
-
-
 ## Recommended Learning Paths
 
 We have outlined recommended LinkedIn Learning paths for different roles at GitLab. We also have a [Recommended LinkedIn Learning Courses](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses) channel in GitLab Learn to showcase popular and recommended courses among GitLab Team Members. These links will take you to GitLab Learn and if you decide to take the course it will open a new tab for the course in LinkedIn Learning. This is not an exhaustive list, but it is a good start if you are new to using the tool. 
@@ -133,6 +102,8 @@ If a license is required urgently or during periods of high demand, the [Growth 
 Due to the limited number of licenses available for team members, the Learning & Development team may periodically revoke licenses from inactive user accounts (Usually accounts that haven't been active in over 6 months). This allows for the licenses to be redistributed to team members who may be able to better utilise them.
 
 Before revoking any LinkedIn Learning license, users will always be notified via email and given the opportunity to log in to their account, which will signal that they would like to retain their license for the time being.
+
+The revoking and redistribution of licenses can only be processed by LinkedIn Learning admins. If you no longer need your license and would like to give it up to be utilised by another team member, please let us know in the #learninganddevelopment slack channel.
 
 ## Searching for LinkedIn Learning Courses
 
@@ -231,12 +202,6 @@ You can share collections with groups or with all team members by going through 
 1. Click "Send" 
 
 If you are on the L&D Team, you can watch a [video walkthrough](https://drive.google.com/drive/folders/186oiYAHEQV9QLXqocBnmTsPl-MhygDvW) of the deprovisioning process. 
-
-## User access process with the EdCast
-
-All GitLab Learn users will be able to access free content on LinkedIn Learning. 
-
-If you have activated a LinkedIn Learning license, you will also be able to access the paid content on LinkedIn Learning. You can find LinkedIn Learning courses by going to GitLab Learn and utilizing the search bar at the top to search for a topic or skill. 
 
 ## Sub Admins
 
