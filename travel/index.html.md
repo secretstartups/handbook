@@ -114,7 +114,7 @@ Please read through these FAQ **entirely**.
 1. Will we be able to use personal credit cards to pay for trips booked through TripActions?
     - Yes, you can add and maintain personal credit cards in your user profile under the "Payments & Clubs" tab. Once a personal credit card has been added, you can select this payment method at time of booking. **Please note that TripActions allows team members the ability to book "Personal Trips". If/When selecting a "Personal Trip", any "Corporate" payment method will not be available for use.**
 1. Are we requiring all travel to be booked through this portal? Or is it still the same as before eg. book based on what works best in options and price?
-    - No, we are still booking based on what works best in options and price.
+    - We desire Team Members to book with TripActions, as it assists in our negotiations and tracking of where team members are.  We will not deny reimbursement of business flights booked outside TripActions, but we do desire all flights to be booked through TripActions.  By booking with TripActions, we can bundle flight and hotel bookings, prompting increased discounts to GitLab.
 1. Is there documentation on how to erase our account with NextTravel?
     - The Business Operations Team and Security Team are actively working on deleting PII data in NexTravel.
 1. I’d like to know if I can seamlessly integrate with booking personal travel as well - e.g. if I can book for my partner and I to be sat next to each other, for example, or that we are stopping in Canada first, etc.
