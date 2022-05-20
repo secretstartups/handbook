@@ -141,6 +141,10 @@ We have the following Performance Indicators
   - Encourage features at Community relations hackathons.
   - Published list of feature issues with Marketing team.
 
+## Team Members
+
+<%= direct_team(manager_role: 'Director, Contributor Success') %>
+
 ##  How to reach us
 
 ### Chat with us
@@ -176,7 +180,6 @@ Triage automations are handled by the [Triage Ops project](https://gitlab.com/gi
   - A weekly report on community MRs that are actionable
 1. [Newly created Community contribution merge requests triage](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage)
 
-
 ### Reactive processors
 
 1. [Pingpong label remover](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/remove_pingpong_label_on_author_activity.rb)
@@ -205,25 +208,25 @@ We have 2 triage process for the new merge requests from the wider community cre
 
 #### Contribution labels
 
-- `~"Community contribution"` label is automatically applied by the [GitLab Bot](https://gitlab.com/gitlab-bot) to MRs submitted by wider community members. 
-  * You can see the list of MRs in [gitLab-org list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name[]=Community+contribution) 
+- The `Community contribution` label is automatically applied by the [GitLab Bot](https://gitlab.com/gitlab-bot) to MRs submitted by wider community members. 
+  * You can see the list of MRs in [`gitLab-org` list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name[]=Community+contribution).
   * [Learn more about the cadence and conditions for this automation](/handbook/engineering/quality/triage-operations/#community-contributions).
-- `1st contribution` is added to first-time contributions. Every time a contributor is opening a merge request to a GitLab namespace for the first time, the label "~1st contribution" is automatically applied to the merge request.
-  - You can see the list of MRs in [gitlab-org list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=1st+contribution) 
+- The `1st contribution` label is added to first-time contributions. Every time a contributor is opening a merge request under the `gitlab-org` namespace for the first time, the label `1st contribution` is automatically applied to the merge request.
+  - You can see the list of MRs in [`gitlab-org` list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=1st+contribution).
   - [First-time contributors](/handbook/marketing/community-relations/code-contributor-program/#first-time-contributors) are also awarded a gift as our way to say thanks.
 
 ### Merge Request Coaches
 
 [Merge Request Coaches](/job-families/expert/merge-request-coach/) are available to help contributors with their MRs. This includes: 
-- Identifying reviewers for the MR
-- Answering questions from contributors, 
-- Educating contributors on the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria), 
-- Or  completing the MR if the contributor is unresponsive or unable to complete.
-  - If committed by MR coach, `coach will finish` label will be added and creating a follow-up MR. 
+- Identifying reviewers for the MR.
+- Answering questions from contributors.
+- Educating contributors on the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria).
+- Or completing the MR if the contributor is unresponsive or unable to complete.
+  - In that case, the `coach will finish` label will be added to the MR and the coach will either directly push new commits to the MR, or re-create a new MR with the original changes. 
   - Contributors can mention the coaches in their MRs by typing `@gitlab-org/coaches`.
 
 Merge Request Coaches can be found in: 
-- [List of current Merge Request Coaches](resources/merge-request-coach-lifecycle.html#current-merge-request-coaches)
+- [List of current Merge Request Coaches](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html#current-merge-request-coaches)
 - The [team page](/company/team/) by selecting `Merge Request Coach` in the department filter.
 
 There is also the `#mr-coaching` channel in GitLab Slack if GitLab team members have any questions related to community contributions.
