@@ -133,6 +133,10 @@ For details on tagging and tracking incidents, please see [Tracking Incidents](t
 
 Whether related to an ongoing incident or not, Infrastructure or Security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [Sending Notices](sending_notices.html) workflow to action these requests.
 
+### How to page the CMOC?
+
+You can page the CMOC even after incident creation. To engage the CMOC please follow the steps outlined in [How to engage the CMOC?](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#how-to-engage-the-cmoc) handbook section.
+
 ## Incident Management
 
 As the CMOC you'll guide the incident through the following three stages.
