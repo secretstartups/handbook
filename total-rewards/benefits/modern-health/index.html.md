@@ -67,8 +67,10 @@ The platform is currently available in English and Spanish. If English or Spanis
 
 * Am I eligible? All GitLab team members are eligible for Modern Health.
 * How do I register?
-  * Download the Modern Health app in the [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.modernhealth.modernhealth) or [App Store (iOS)](https://itunes.apple.com/us/app/modern-health/id1445843859?ls=1&mt=8).
-  * After your download is complete, select “Join Now” from the welcome page of the mobile app.  
+
+You can register via the Modern Health Mobile App or on your Desktop Browser: 
+
+  * Visit [my.joinmodernhealth.com](my.joinmodernhealth.com) on your desktop browser or download the Modern Health app in the [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.modernhealth.modernhealth) or [App Store (iOS)](https://itunes.apple.com/us/app/modern-health/id1445843859?ls=1&mt=8) & select "Join Now".
   * Use the first and last name you have on file with GitLab.
   * Verify using your company email.
   * Enter your GitLab email and the password of your choice. (Reminder that you must register with your GitLab email, but you can change your Modern Health account email to your personal email in Settings upon registration.)
