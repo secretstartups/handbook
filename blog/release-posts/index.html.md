@@ -24,6 +24,7 @@ _Note:_ We're evolving our release post process! You can view and share feedback
 
 - [Frequently used templates](/handbook/marketing/blog/release-posts/#templates)
 - [Helpful reference pages](/handbook/marketing/blog/release-posts/#pages)
+- [Release post scheduling](/handbook/marketing/blog/release-posts/managers/)
 
 ## Schedule
 
