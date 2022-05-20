@@ -29,7 +29,7 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 
 Please review the coverage owner closest available per their timezone when deciding who to reach out to. 
 
- MOPs Team Coverage                          | PT / ET Time Available                 | Coverage Owner: Monday - Friday | Backup: Monday - Friday | Coverage Owner GEO Time |
+| MOPs Team Coverage                          | PT / ET Time Available                 | Coverage Owner: Monday - Friday | Backup: Monday - Friday | Coverage Owner GEO Time |
 |---------------------------------------------|-------------------------------|---------------------------|-------------------------|-------------------|
 | UTC (Emea Working)                          | 11pm - 3am PT / 2am - 6am ET  | Mihai Conteanu            | Gillian Murphy          | 9am - 1pm EET     |
 | UTC (EMEA Working)                          | 3am - 7am PT / 6am - 10am ET  | Gillian Murphy            | Mihai Conteanu          | 11am - 3pm UK     |
@@ -62,7 +62,7 @@ For Marketing Operations - When OOO/PTO please add this to the backup team membe
 
 * **Alerting email team as soon as possible that there may be a send (even if it does not move forward)**
 * Providing FINAL email, landing page, form copy, autoresponder copy, etc.
-    * NOTE: The addition of each item will increase scope and potentially delay announcement
+     * NOTE: The addition of each item will increase scope and potentially delay announcement
 * [Requesting target list (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new) from Data Team
 * Creating epic and corresponding issues
       * Creating Epic - [Template here](/handbook/marketing/emergency-response/#customer-comms-epic-issues)
@@ -106,9 +106,9 @@ This is the process to follow when there is an announcement that is an emergency
 - Add Due Date (or best guess)
 - Include googlesheet of copy document, even if it is blank. Use [this template](https://docs.google.com/document/d/1J_prQ8rXRqEcPWxKd1YH4ANGP5UjMPoAfnjpY8ty0XE/edit)
 - Include approx size of the list - this will determine what email platform we will use and helps immensely in our planning. Over estimate when you are unsure.
-- If you are requesting a list, create an [issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new) with the data team and relate it to the issue you just created. 
+- If you are requesting a list, create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new?issuable_template=list-request) with the Marketing Strategy team and relate it to the issue you just created. 
 - Include any custom fields you need created for `mail-merge` in the email. Include field max lengths needed, or best guess. Mktops will determine if they can use an existing field or not.
-- Note if the links should not be trackable. (For Security alert types only)
+- Note if the links should not be trackable.
 
 3. **Issue in Process**
 - Marketing team will work closely with you to develop a communication plan and cadence. Please continue to addinformation as you receive it and over communicate with us via slack/issue.
@@ -138,8 +138,8 @@ The following approvers are needed for the copy and list size:
 ## Lists 
 
 1. For most emergency communications the requesting team should be providing a list as a Google Sheet in the issue request. 
-     - The Data team is able to pull a list from user table if necessary. Please [create an issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new) with the Data team.
-1. If a generic emergency communication the opt-in email list contained in Marketo can be used. 
+     - The Marketing Strategy and Perfomance team is able to pull a list from user table if necessary. Please [create an issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new?issuable_template=list-request) with them.
+1. General security alerts already have a distro list built in marketo.
 1. Seldomly, lists need to be created in Salesforce or Marketo using parameters found within the marketing database.  
      - Marketo & Salesforce **do not** contain all records within the user table
 
@@ -161,7 +161,7 @@ The following approvers are needed for the copy and list size:
 
 
 ## Email platform to use
-Marketing Operations will decide what the best platform to send will be. The decision is based on many factors, including the ones below.
+Marketing Operations will decide what the best email platform to send from will be. The decision is based on many factors, including the ones below.
 - [Marketo](/handbook/marketing/marketing-operations/marketo/): Quickest deployment, but most costly. Can be used for large sends if being sent to customers, but free users should be send via MailJet or Mailgun if the list is over 20k.
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/): Platform for large deployment, marketing can set up and send without engineering help.
 - MailGun: Large lists that need verification. This involves engineering and will add 1 day minimum to send
