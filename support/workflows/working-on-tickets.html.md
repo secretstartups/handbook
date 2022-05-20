@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Working on Tickets
 category: Handling tickets
-description: How to resolve users' problems by solving tickets on a daily basis. Covers the Support Process, Zendesk views, assignment, escalation
+description: How to find, select, assign and begin work on support tickets
 ---
 
 ## On this page
@@ -10,6 +10,17 @@ description: How to resolve users' problems by solving tickets on a daily basis.
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Introduction
+
+The focus of this page is to be a guide for Support Engineers in
+[finding](#views-to-use-in-our-sgg-system),
+[selecting](#selecting-tickets), [assigning](#assigning-tickets) and
+[beginning work](#providing-a-first-response-to-a-ticket) on support tickets.
+For information about working on tickets successfully in the Support Global
+Groups environment, please read the
+[SE Responsibilities and Priorities](../support-global-groups/index.html.md/#se-responsibilities-and-priorities)
+topic on the main Support Global Groups page.
 
 ## Views to use in our SGG system
 
@@ -31,20 +42,20 @@ Through that process you may:
 1. Select a new, unassigned ticket in your group's view
 
    There are no special considerations here. Proceed to
-   [ticket assignment](#ticket-assignment)
+   [ticket assignment](#assigning-tickets)
 
 1. Select a new, unassigned ticket in another group's view
 
    In this situation, follow the guidance in the SGG FAQ to
    [move the ticket to your group](../support-global-groups/sgg-faq.html/#3-how-do-i-move-a-ticket-to-a-different-group)
-   before proceeding to [ticket assignment](#ticket-assignment)
+   before proceeding to [ticket assignment](#assigning-tickets)
 
 1. Select an in-progress ticket assigned to someone else
 
    In this situation, proceed according to the guidance in our SGG FAQ about
    [responding to other SEs’ tickets](../support-global-groups/sgg-faq.html#1-should-ses-respond-to-other-ses-tickets).
 
-## Ticket assignment
+## Assigning tickets
 
 When you begin work on a new ticket, as your first step please assign the ticket
 to yourself. In the SGG environment, that shouldn't stop anybody from
@@ -54,6 +65,8 @@ move on to another new ticket.
 
 *NOTE: The SLA clock continues to run until you've sent a public response to
 the user!*
+
+### Managing the size of your My Assigned Tickets view
 
 As you're working on tickets each day, be aware of the number of tickets in your
 `My Assigned Tickets` view, and of their statuses and needs, so that you can
@@ -67,6 +80,8 @@ in their
 view, others might comfortably maintain closer to twenty tickets. Each person
 will need to find the right ticket load for themself.
 
+### Helping with a first response without taking assignment
+
 You might at times know that you can provide a good response on a specific new
 ticket, and yet not have room to assign it to yourself. Since **every response
 should be part of a ticket that is assigned to somebody**, please place an
@@ -74,12 +89,40 @@ internal note describing what your first response would be. You might consider
 then looking for another person in your group who can take the ticket, and even
 offering to pair with them.
 
-You might also at times feel prepared to provide a good first response and yet
+### Taking a ticket when you know only the first response
+
+You might at times feel prepared to provide a good first response and yet
 not prepared to keep the ticket progressing. When that happens, remember you
 have your group, and in fact the whole global team, ready to help you drive the
 ticket to a great resolution. You're never alone. So go ahead and accept the
 challenge! Assign the ticket to yourself, send out your first response, and
 seek help as soon as you need it. 
+
+### Assigning a ticket with a different preferred region
+
+In SGG, if you've found a new (no first response yet) ticket in your group's
+view that you would like to work, you should feel free to work it regardless
+of its `Preferred region` setting. Please assign yourself the ticket and
+provide a substantive first response as usual. The one extra thing you should do
+is determine whether to keep the ticket or to do a "warm transfer" to **a member
+of your group** who is in the preferred region.
+
+1. If you're confident that your first response will result in the ticket being
+   solved, then keep it.
+1. Otherwise:
+   1. Include a message in your first response informing the customer
+      that you work in a region different from theirs and that it is their
+      choice whether to continue to work with you or to have you transfer their
+      ticket to a support engineer in their region.
+   1. If the customer requests a transfer:
+      1. Be sure the ticket is well-documented, including any thoughts you have
+         regarding next steps.
+      1. Ask in your group's Slack channel for one of the SEs in the target
+         region to assign the ticket to themself, to notify the customer of the
+         transfer and to continue the ticket work where you left off.
+      1. **Until another SE has taken assignment, keep the ticket assigned to
+           yourself and continue to work with the customer.** Be sure to notify
+           the customer that you're working on the transfer.
 
 ## Providing a first response to a ticket
 
@@ -87,7 +130,8 @@ It's always a good idea when beginning work on a ticket to perform a few routine
 steps that can help you to provide a good solution that meets the customer's
 needs, and that might save you and the customer time and effort as well.
 
-1. **If you take none of the other steps described in this topic, take this one. It is the one most likely to get you very quickly on the right path.**
+1. **If you take none of the other steps described in this topic, take this one.
+   It is the one most likely to get you very quickly on the right path.**
    
    Confirm with the customer your understanding of their situation, needs, and
    problem to be solved or question to be answered.
@@ -109,12 +153,52 @@ needs, and that might save you and the customer time and effort as well.
    require you to take specific actions. The note might guide you in how or
    where to communicate with the customer, or provide you with special handling
    instructions, and so on.
+1. If the **ticket priority** does not match our
+   [Definitions of Support Impact](/support/#definitions-of-support-impact),
+   inform the customer of the mismatch, suggest the appropriate priority, and
+   work to get their agreement. Please consider using the macro
+   [General::Changed priority](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Changed%20priority.yaml).
+1. If you feel that the ticket has the potential to become an emergency, notify
+   the engineer on-call that an emergency might be coming.
+1. If you feel that you will need a good amount of time to prepare your first
+   response, or if the SLA is about to breach, send an initial and more brief
+   response as follows:
+    1. Ask any clarifying questions you might have
+    1. Explain in brief detail what work you will be doing and by when you will
+       update them next. Choose a time that aligns reasonably with the urgency
+       of the customer's situation, with your commitments on other tickets, and
+       with the actual amount of work you will need to do before responding.
+       Be prepared that the customer might respond with a request for you to
+       shorten the timeframe. Take a look at this 4-minute video about the
+       [SLA Clock](https://www.youtube.com/watch?v=CVue_aHcGlc&list=PL05JrBw4t0Kq13oaMq0DCl2gUz_g1u29o&index=30)
+       for further guidance on this workflow.
+    1. Submit the ticket as `Open`
+    1. Please consider using the
+       ['Due Date'](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker) and
+       ['Reminder'](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-reminders-app)
+       apps.
 
 ## FAQ
 
 ### 1. How many new tickets should I pick up each day?
 
-   See [Meeting FRT SLA](/handbook/support/workflows/meeting-frt-sla.html).
+Each week, each Intermediate Support Engineer should aim at least to meet
+and preferably to exceed the
+appropriate baseline from the following list for the number of first responses:
+
+- **Self-managed focus: 6 tickets**
+- **SaaS focus: 10 tickets, including "SaaS account" tickets**
+- **L&R focus: 15 tickets**
+
+These numbers are based on our current ticket volume, number of SEs and average
+PTO (15%). We will continue to monitor ticket volume and number of SEs to make
+sure the above guidelines are accurate. We need everyone to contribute on days they
+are available, which will result in us exceeding our goal.
+
+#### What if I can't meet baseline?
+
+There will be times when you may be leading an escalation or otherwise working through challenging tickets and you cannot take on new ticket assignment. This is okay! The key is to make sure you have coordinated with your group and collaborated with your Manager so they are aware of the risks to our team.
+
 
 ### 2. What can I do when I'm stuck and I really need help?
 
