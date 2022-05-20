@@ -69,4 +69,11 @@ The Salesforce knowledge base has [a resource](https://help.salesforce.com/artic
    - [SAML Single Sign-On Settings](https://gitlab.my.salesforce.com/0LE4M0000004J63)
       - To update the certificate here update the certificate in the `Request Signing Certificate` picklist. (Do not upload the Salesforce Created Certificate into the file `Identity Provider Certificate`)
    - [Identity Provider](https://gitlab.my.salesforce.com/setup/secur/idp/IdpPage.apexp)
-      - To update the certificate here update the certificate in the `Label` picklist 
+      - To update the certificate here update the certificate in the `Label` picklist
+
+### Critical SFDC Permissions
+| Critical Permission   | Systems Administrator | Sales Operations | All Other Profiles | Permission Set Assigned to Individuals |
+|-----------------------|-----------------------|------------------|--------------------|----------------------------------------|
+| Deploy Change Sets    | Yes                   | No               | No                 | No                                     |
+| Customize Application | Yes                   | Yes              | No                 | No                                     |
+| Manage Users          | Yes                   | Yes              | No                 | [Yes](https://gitlab.my.salesforce.com/005?id=0PS4M00000113lT&isUserEntityOverride=1&SetupNode=PermSets)                                    |
