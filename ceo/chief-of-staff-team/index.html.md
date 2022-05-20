@@ -28,7 +28,7 @@ Complement the CEO through being the cross-functional linchpin for GitLab when i
 * [Team READMEs](/handbook/ceo/chief-of-staff-team/readmes/)
 
 ## Contact Us
-* [chief-of-staff-team](https://gitlab.slack.com/archives/CN7MPDZF0/p1568035351000200) on Slack (GitLab Team Members only)
+* [#ceo-chief-of-staff-team](https://gitlab.slack.com/archives/CN7MPDZF0/p1568035351000200) on Slack (GitLab Team Members only)
 
 ## Kinds of projects CoST to the CEO works on
 {:#what-projects-does-the-cost-work-on}
