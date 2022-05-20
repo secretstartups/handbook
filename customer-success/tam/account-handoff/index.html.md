@@ -31,7 +31,7 @@ The first step once you are aware of a handoff is for the new TAM to open an [CT
 - New TAM: Turn on watch notifications for the collaboration project
 - Old TAM: Introduce new team on next cadence call (schedule one if there is not one upcoming)
 - Old TAM: Send follow up email to the customer with the new TAM's contact information
-- Old TAM: Assign the account (and relevant child accounts) to the new TAM in Gainsight
+- New TAM Manager: Assign the account (and relevant child accounts) to the new TAM in Gainsight
 - Old TAM: Assign any open CTAs and the success plan (and its objectives/tasks) to the new TAM
 - Old TAM: Delete the cadence call calendar events (if created internally); or, if the events were created by the customer, reach out to ask that the customer invites the new TAM to the events directly
 - New TAM: Create and send out a new invite for cadence calls, to ensure there is no disruption, as some customers' internal systems do not cooperate with Google Calendar
