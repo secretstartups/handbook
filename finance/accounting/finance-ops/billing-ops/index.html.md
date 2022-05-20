@@ -31,7 +31,7 @@ Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/fi
 - [Sarah McCauley](https://about.gitlab.com/company/team/#s_mccauley) - Director, Billing & Accounts Receivable
 - [Anna Piaseczna](https://about.gitlab.com/company/team/#annapiaseczna) - Manager, Billing
 - [Karen McKinney](https://about.gitlab.com/company/team/#k.mckinney) - Billing Operations Specialist
-- [Kinga Polgardi](https://about.gitlab.com/company/team/#KingaPolgardi) - Billing Operations Specialist
+- [Kinga Polgardi](https://about.gitlab.com/company/team/#KingaPolgardi) - Senior Billing Operations Specialist
 - [Ausha Saptouw](https://about.gitlab.com/company/team/#aushas) - Billing Operations Specialist
 - [Laura Robins](https://about.gitlab.com/company/team/#LauraRobins) - Billing Operations Specialist
 - [Christian Willis](https://about.gitlab.com/company/team/#christianwillis) - Senior Billing Operations Specialist
