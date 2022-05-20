@@ -30,6 +30,8 @@ Please see additional information on the 2022 US Benefit Plans:
 
 * Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits. Please review the [2022 Annual Rights and Notices](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing).
 
+* GitLab offers Mental Wellnesss Services through [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
+
 **Illinois Team Members:** In accordance to the Illinois Consumer Coverage Disclosure Act, please find the [2022 Coverage Summary](https://drive.google.com/file/d/1TpmjxTN15sauveW5VqN3D18gP1YwoOgi/view?usp=sharing) for the essential health benefits available to you. See the [HDHP](https://drive.google.com/file/d/1zAQExWPX3Bm131RdZQaFqMY-K1RdfMlR/view?usp=sharing), [PPO](https://drive.google.com/file/d/1O9LW50Wa7Dq6C9SRoEiCR422XK-0_2ZB/view?usp=sharing), and [EPO](https://drive.google.com/file/d/1tHFEoBDaI1O4yluL9U-X7RBWG8JZOdOS/view?usp=sharing) Summary Plan Descriptions for reference. 
 
 ## 2021 Plan Year
@@ -182,6 +184,11 @@ _2022 Rates_: The following costs are monthly rates which would be deducted from
 | Family                   | $0  | $426 | $416 |
 
 Note: For the **HSA**, GitLab will contribute $100 per month. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level.  
+
+##### Cigna Emotional Well-Being Virtual Support
+
+Enrolled Cigna members can find in-network mental health providers by logging in to their mycigna.com account, selecting "connect now" under "My Health Team". For more information on virtual support please see the the [Emotional Well-Being Virtual Support flyer](https://drive.google.com/file/d/12-4LPGTPPsw4rBH7l-BBz_dbr3nPwHRm/view?usp=sharing). 
+
 
 ##### Cigna Infertility Services
  
