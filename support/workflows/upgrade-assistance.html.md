@@ -14,9 +14,8 @@ subcategory: Upgrade Assistance
 
 ### Overview
 
-The GitLab support team is here to help. As a part of our [Priority Support](/support/index.html#priority-support)
-we offer [Upgrade Assistance](/support/scheduling-upgrade-assistance.html). That is, we'll host a screen share
-session to help you through the process and ensure there aren't any surprises.
+As a part of our [Priority Support](/support/index.html#priority-support),
+GitLab Support offer [Upgrade Assistance](/support/scheduling-upgrade-assistance.html). That is, we'll review upgrade and rollback plans, providing feedback and suggestions to the customer to help ensure a smooth upgrade. **Optionally**, we can host a 30-minute screen share with the customer to answer any final questions and run a final review of their overall plan.
 
 In addition to the upgrade assistance, it is important for GitLab Support to ensure
 the customer's plan for the upgrade is accurate and fully supported by GitLab in
@@ -37,12 +36,11 @@ If the customer has not provided a plan, or it lacks the detail we need to suppo
     - The engineer may opt to use the `Upgrade Request Missing Info` macro in Zendesk to help the user understand that we cannot proceed with scheduling
 until we have the necessary information to review.
 1. (Optional) When the required information has been collected, the assignee can reach out to any of the folks with an `Upgrade` or `Upgrade Assistance` focus on the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) page to pair or offer insight asynchronously.
-2. Once all the required information has been confirmed and reviewed and the engineer is ready to schedule the call the engineer (performing the upgrade) should send a personal one time use Calendly link for a 30 minute meeting with a 7 day lead time.
-    - There is a Calendly event template that is available, navigate to your [event types](https://calendly.com/event_types/user/me), select the downward arrow next to `+ New Event Type` and select `Upgrade Assistance - 30 Minute Kick off session`. This event type has a 7 day lead time built in.
-    - In the event the user has indicated they would like a weekend upgrade and/or the available times in the individual engineer's calendly link are not favorable for their upgrade timeframe the engineer should reach out in the [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) Slack channel and `@` their manager for visibility. The managers would then be responsible to find another engineer who has availability for the requested date/time.
-    - If the reviewing engineer does need to hand off the ticket they **must** sync up with the engineer who will be performing the assistance to ensure proper handoff.
-3. Once the user has scheduled the upgrade the ticket assignee should put the ticket in an `on-hold` state while waiting to begin the upgrade assistance session. The ticket owner should also notify the on-call engineer who is scheduled during the upgrade window in Slack and add them as a CC or follower to the ticket.
-4. Post call, the Engineer will comment on the ticket with a post-mortem of sorts. This should detail any issues that occurred or comments that might be relevant for the TAM, the customer, or Support.
+2. Once all the required information has been confirmed and reviewed, the ticket owner should notify via Slack the on-call engineer and manager who are scheduled during the upgrade window and add them as a CC or follower to the ticket.
+3. If the customer requests to have the optional 30-minute call for a final review, send a personal one time use Calendly link for a 30 minute meeting at least 2-3 days in advance of when the customer plans to upgrade their GitLab instance.
+    - If the reviewing engineer needs to hand off the ticket, they **must** sync up with the engineer who will be performing the final review to ensure proper handoff.
+3. Once the user has scheduled the upgrade, the ticket assignee should put the ticket in an `on-hold` state until the customer has confirmed that the upgrade has been successfully completed. 
+4. Post upgrade, the Engineer will comment on the ticket with a post-mortem (if necessary). This should detail any issues that occurred or comments that might be relevant for the TAM, the customer, or Support.
 
 #### What to do if issues occur during the course of upgrade assistance
 
@@ -59,7 +57,5 @@ is poorly planned or likely to cause production downtime. We should encourage
 the user to reschedule the window so we can allow for more time to test out
 changes and ensure a smooth upgrade.
 
-In cases where we decline to perform upgrade assistance, we still
-allow for the use of emergency support. In cases where emergency support is
-utilized, often the best answer will be to rollback to the last working GitLab
+In cases where emergency support is utilized, often the best answer will be to rollback to the last working GitLab
 version.
