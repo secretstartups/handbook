@@ -16,6 +16,8 @@ Email database management is a core responsibility for MktgOps. Ensuring GitLab 
 
 Email creation and email nurture programs are managed by the Campaigns Team. To learn more about GitLab email communication or request an email, please see the [Emails/Nurture Handbook](/handbook/marketing/demand-generation/campaigns/emails-nurture/) in the demand generation section of the handbook.
 
+All emails sent should be updated in the [FY23 All-Marketing SSOT Calendar](/handbook/marketing/#marketing-calendar-inputs)
+
 
 ### Email Communication Policy
 
@@ -42,6 +44,8 @@ Each form will have the appropriate opt-in language specifid. However, to check 
 We have a Marketo enforced limit on how many emails a single address can recieve per day and week. The limits are 1/day and 3/week. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold, **unless** the email is marked as `operational`. However, emails marked as `operational` will still be sent.
 
 The email limits are not set in campaign templates, however, if your email is set to send to more than 20,000 people, you must include a filter for `Not Sent Email in last 2 Days`.
+
+Please reference and use the [All-Marketing SSOT Calendar](/handbook/marketing/#marketing-calendar-inputs) to see other sends happening around the same time.
 
 ## How to Unsubscribe
 If a person asks a team member to remove them from email marketing from GitLab, the team member can take a few different steps stated below. If a person unsubscribes, they may still receive [operational emails](/handbook/marketing/marketing-operations/email-management/#operational--bypass-unsubscribe) related to their account.

@@ -84,6 +84,7 @@ This is when a package or piece of mail is sent out.
 | Member Status | Definition | Success | E-gift Card or Physical Gift |
 | ------------- | ---------- | ------- | ------------ |
 | No Action | Default starting position for all records |  | Not applicable |
+| Sales Nominated | Sales indicated record to receive triggered event email sent by Marketing |  | Not applicable |
 | Processed | Physical gift shipping request is being processed  |  | Physical |
 | Sent | Email with e-gift card has been sent to recipient |  | E-gift card |
 | Opened | The prospect has opened the Reachdesk offer emailed to them |  | E-gift card |
@@ -104,6 +105,7 @@ This is used for campaigns that can either be organised through a 3rd party vend
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
 | No Action | default starting position for all records |  |
+| Sales Nominated | Sales indicated record to receive triggered event email sent by Marketing |  |
 | Waitlist | Holding state if registration is full will be moved to `Registered` if space opens |  |
 | Registered | Registered for the event |  |
 | No Show | Registered, but did not attend the event |  |
@@ -239,6 +241,7 @@ A survey that we or a 3rd party sends out. Tracks respondents and new leads we r
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
 | Member | default starting position for all records |  |
+| Sales Nominated | Sales indicated record to receive triggered event email sent by Marketing |  |
 | Invited | Was invited, but did not participate in survey |  |
 | Filled-out Survey | Filled out survey | Yes |
 | Follow Up Requested | Filled out survey and requested to be contacted by sales | Yes |
@@ -503,11 +506,11 @@ Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campa
    - You do not need to update `Request` tokens if there are no meetings being set up for the conference
 
 ### Step 4: Activate Marketo smart campaign
-- `00 Send Sales-Driven Invite` can be turned on and scheduled to send on a reoccuring basis if sales and XDRs are going to be inviting people to the conference. Sales will add someone to the campaign in SFDC, and that person will be added to the email send invite. There is a separate email for sales invites listed in the `email` folder
+- `00 Send Sales-Driven Invite` (optional) can be turned on and scheduled to send on a reoccuring basis if sales and XDRs are going to be inviting people to the conference. This is not required on all campaigns, and Verticurl will activate after building the Sales-Driven email. After scheduling, Sales can add someone to the campaign in SFDC and that person will be automatically sent an email invite. There is a separate email for sales invites listed in the `email` folder
 - `01 Processing` smart campaign triggers when people are uploaded to lists after the conference. You can keep this off, but must be turned on during list upload.
 - `02 Add as Marketing Invited` should only be used if XDRs are planning to follow up and drive attendance to the event. This should be scheduled AFTER the first email invite is scheduled to send. It will update everyone who had the email invite sent to them as `Marketing Invited`. They will be updated in the campaign and visible in SFDC. **Do not use this unless there is planned event drivers**
 - `03 Interesting Moments` should be turned on before any lists are uploaded.
-- In the `01 Downloaded` smart campaign, the "Smart List" should be listening for `Added to List > Vendor List`. This list is under the Asset folder in the program. It will contain all of the members that were uploaded who downloaded the content.
+
 
 ### Step 4a. Meeting Request Processing
 These steps are not yet configured. If you are planning to do this for your next event, please create an issue with the Marketing Operations team.
