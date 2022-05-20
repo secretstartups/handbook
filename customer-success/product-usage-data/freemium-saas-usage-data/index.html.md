@@ -62,7 +62,8 @@ You can view this on the Salesforce Account page, or create a Salesforce report 
 
 1. [List of all Free/Trial Accounts in SFDC](https://gitlab.my.salesforce.com/00O8X000008QZom)
 1. [SaaS Free/Trial Usage Data Dashboard](https://gitlab.my.salesforce.com/01Z8X000001DgIu)
-1. [Personalized Report for Account Owners](https://gitlab.my.salesforce.com/00O8X000008Qa7o) - This report will allow you to see a complete list of your assigned accounts which have Freemium SaaS usage. Insert your name into the `Account Owner` filter to populate this report. 
+1. [Personalized Report for Account Owners](https://gitlab.my.salesforce.com/00O8X000008Qa7o) - This report will allow you to see a complete list of your assigned accounts which have Freemium SaaS usage, using an automated filter which should work for most Salesforce users. Please review and edit the date range if the report is lacking data. 
+1. [Personalized Report for Account Owners](https://gitlab.my.salesforce.com/00O8X000008QaTa) - You can use this report if the one above does not populate for your user profile.  This report will allow you to see a complete list of your assigned accounts which have Freemium SaaS usage by manually inserting your name into the `Account Owner` filter. Please review and edit the date range if the report is lacking data. 
 
 ### Reporting data quality issues
 
