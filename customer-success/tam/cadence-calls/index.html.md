@@ -22,7 +22,7 @@ Cadence calls are an important aspect of TAM engagement to continue to understan
 
 - **Strategic Enterprise**: Cadence calls should be weekly during onboarding and at least once per month otherwise, considering specific customer needs and stage in customer lifecycle.
 - **Strategic Commercial**: Cadence calls should be weekly during onboarding and at least once per quarter otherwise, considering specific customer needs and stage in customer lifecycle.
-- **Named**: Cadence calls should be weekly during onboarding (first month of purchase) and at least once per quarter otherwise. Frequency of cadence calls may vary due to [prioritization](/handbook/customer-success/tam/engagement/#named-accounts) or customer needs.
+- **Mid-Touch**: Cadence calls should be weekly during onboarding (first month of purchase) and at least once per quarter otherwise. Frequency of cadence calls may vary due to [prioritization](/handbook/customer-success/tam/engagement/#named-accounts) or customer needs.
 - **Scale**: Cadence calls are not scheduled on an ongoing basis for Scale TAM customers. Calls with customers are offered programmatically based on the key points defined in the [Scale TAM customer lifecycle](/handbook/customer-success/tam/segment/scale/#customer-lifecycle).
 
 Cadence calls should be [captured in Gainsight](/handbook/customer-success/tam/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
@@ -34,29 +34,6 @@ An effective cadence call involves more than just the call itself. There are sev
 ### Preparation for the call
 
 Leading up to a cadence call, the TAM should prepare a meeting agenda. This is the foundation of an effective call, and should be collaborated on by all attendees. The agenda should be made available to everyone at least a few days in advance of the call.
-
-#### Tasklist for the first cadence call
-
-The following items are to be covered/completed in your initial cadence call with a customer:
-
-- [ ] Identify purchase reasons, use cases, best practices, and training needs
-- [ ] Agree on enablement sessions
-  - [ ] New Strategic Customers: Discuss the [Intro to GitLab and the Intro to CI/CD enablement sessions](/handbook/customer-success/tam/workshops/) in your first cadence call
-  - [ ] Existing Strategic Customers: Discuss other [enablement sessions](/handbook/customer-success/tam/workshops/) in-line with their desired use cases and potential expansion opportunities (it can be helpful to start discussing future sessions/topics right after one is delivered and it's fresh in their mind)
-  - [ ] Named & Scale Customers: Share the [landing page for upcoming webinars](/handbook/customer-success/tam/segment/scale/webinar-calendar/), and encourage them to sign up for the Intro to GitLab and the Intro to CI/CD webinars at a minimum
-- [ ] If self-managed, discuss architecture:
-  - [ ] Discuss monthly releases & inquire about frequency of their planned upgrades, letting them know about our [maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html)
-  - [ ] Inform customer about our [reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) and that these are the only supported architectures
-      - [ ] Inquire about current and projected user count to ensure the architecture allows for future growth and is the appropriate scale
-  - [ ] Inform customer about the [GitLab Performance Tool](https://gitlab.com/gitlab-org/quality/performance)
-  - [ ] Inform customer about our [support offerings for scaled architectures](https://about.gitlab.com/support/#definition-of-scaled-architecture)
-  - [ ] Ask customer to provide an architecture diagram and upload to collaboration project
-  - [ ] Ensure customer has [Backup/Restore](https://docs.gitlab.com/ee/raketasks/backup_restore.html) and Disaster Recovery plans in place
-- [ ] If SaaS:
-  - [ ] Share [Status](https://status.gitlab.com/) and [Communications Preferences](https://about.gitlab.com/company/preference-center/) pages with customer
-  - [ ] Subscribe the GitLab Admin to Status page updates
-
---- 
 
 #### Recommended details to include in the agenda include:
 
@@ -76,6 +53,45 @@ The topics and the naming of the cadence call (when you send an invite to the cu
 
 By developing an agenda and doing advance preparation for the meeting, the TAM (and the rest of the [account team](/handbook/customer-success/account-team/)) will be ready with relevant questions and information for the customer.
 
+#### Tasklist for the first cadence call
+
+The following items are to be covered/completed in your initial cadence call with a customer:
+
+- Have introductions between the account team and the customer
+- Identify purchase reasons and primary use cases
+- Identify training needs and agree on enablement sessions
+  - New Strategic Customers: Discuss the [Intro to GitLab and the Intro to CI/CD enablement sessions](/handbook/customer-success/tam/workshops/) in your first cadence call
+  - Existing Strategic Customers: Discuss other [enablement sessions](/handbook/customer-success/tam/workshops/) in-line with their desired use cases and potential expansion opportunities (it can be helpful to start discussing future sessions/topics right after one is delivered and it's fresh in their mind)
+  - Mid-Touch & Scale Customers: Share the [landing page for upcoming webinars](/handbook/customer-success/tam/segment/scale/webinar-calendar/), and encourage them to sign up for the Intro to GitLab and the Intro to CI/CD webinars at a minimum
+- Share our [support offerings](https://about.gitlab.com/support/)
+- If the customer is on a SaaS subscription:
+  - Share [Status](https://status.gitlab.com/) and [Communications Preferences](https://about.gitlab.com/company/preference-center/) pages with customer
+  - Subscribe the GitLab Admin to Status page updates
+- Set up recurring cadence calls (Strategic and Mid-Touch only)
+
+#### Prep for ongoing cadence calls
+
+After the initial call, you will have subsequent cadence calls, each of which you will need to prep for and ensure is an impactful and successful meeting. 
+
+Prior to the call, review the following items:
+- Success plan objectives and progress
+- Open CTAs
+- Last timeline entry/notes doc to ensure follow-up items were closed out and if not, follow up on them during the next call
+- Renewal date to be aware of upcoming renewal
+- License utilization - if it is lower and the customer is in the second half of their annual contract, discuss the trends around this and expected behavior; if it is above or close to their purchased amount, ensure they are aware and loop in your SAL/AE
+- Use case scoring, identifying areas where the customer is not green - discuss one or two on the call and include the value of adoption these areas and suggest enablement opportunities
+
+With every customer call, always be sure to have an agenda prepared and share it with the customer in advance.
+
+Additionally, there may be specific items that are worthwhile to discuss about their self-managed subscription on a regular basis:
+- Discuss monthly releases & inquire about frequency of their planned upgrades, letting them know about our [maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html)
+- Inform customer about our [reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) and that these are the only supported architectures
+  - Inquire about current and projected user count to ensure the architecture allows for future growth and is the appropriate scale
+- Inform customer about the [GitLab Performance Tool](https://gitlab.com/gitlab-org/quality/performance)
+- Inform customer about our [support offerings for scaled architectures](https://about.gitlab.com/support/#definition-of-scaled-architecture)
+- Ask customer to provide an architecture diagram and upload to collaboration project
+- Ensure customer has [Backup/Restore](https://docs.gitlab.com/ee/raketasks/backup_restore.html) and Disaster Recovery plans in place
+
 ### Conducting the call
 
 If the TAM has sufficiently prepared, the call itself should be a comfortable and valuable experience for everyone involved. The TAM should be prepared to conduct the meeting according to the agenda and cover all of the listed discussion points. This is our chance to help the customer make forward progress on their objectives by sharing our expertise and answering their questions!
@@ -94,27 +110,32 @@ Before you end the call, take a few minutes to summarize the highlights of what 
 
 **If there are no action items or follow-ups that come from a cadence call, the call was not effective.** At minimum, the TAM should send a follow-up email or create a follow-up issue for the participants covering the summary information that was discussed at the end of the call, answer any questions that were posed during the call, and make sure everyone knows what the action items from the call were.
 
-When crafting your emails to customers, follow the below recommended guidelines to ensure a positive experience.
+#### Review and update account details
 
-1. Strive to send your follow up email as soon as possible, or within one business day of your call. If it will take longer than that, set expectations with your customers upfront and keep them posted on progress (even if there isn't any).
+After a call, there are a few items to review and update to ensure the content from the call isn't lost and you maintain a positive relationship with the customer.
+
+- Log the Timeline entry
+- Update health score
+- Update Success Plan as needed
+- Update CTAs as needed
+- Follow up on any action items (questions, feature requests, escalations, etc.)
+- Send a follow up to the customer
+
+It's a good idea to start creating the agenda for the _next_ cadence call at this point, while the call that just ended is fresh in mind.
+
+#### Follow up
+
+When crafting your follow up messages to customers, follow the below recommended guidelines to ensure a positive experience.
+
+1. Strive to send your follow up email or open the follow up issue as soon as possible, or within one business day of your call. If it will take longer than that, set expectations with your customers upfront and keep them posted on progress (even if there isn't any).
 1. Address every action item, and if you don't have an update yet, let them know that you're working on it and an estimated turnaround time.
-1. Keep your email as succinct as possible, as customers probably don't want to read lengthy emails.
+1. Keep your email/issue as succinct as possible, as customers probably don't want to read lengthy emails.
 1. Share links whenever possible, however:
   1. Try to include the full link and not hyperlink on words, so that the customer knows what they're about to click on.
   1. Include a short summary of what the link contains so they understand why it's valuable to them before they click on it.
 1. Often, we ask questions posed in customer calls to other GitLab team members. Don't copy & paste exactly your conversation; edit it to make sure it flows and makes sense to the customer and only contains the information they need.
-1. Proofread! Before clicking send, always re-read your emails (aloud if that helps!) to ensure it makes sense and doesn't have any errors. Remember customers don't always have as much context as we do, so read it from their perspective.
+1. Proofread! Before clicking send, always re-read your emails (aloud if that helps) to ensure it makes sense and doesn't have any errors. Remember customers don't always have as much context as we do, so read it from their perspective.
 1. Make sure you [BCC Salesforce](https://about.gitlab.com/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce) on your emails. For important emails, you can also [BCC Gainsight](https://about.gitlab.com/handbook/customer-success/tam/gainsight/timeline/#bccing-emails), but this is not recommended for all emails as it can make the Timeline noisy.
-
-After every cadence call, the TAM (and the rest of the [account team](/handbook/customer-success/account-team/) as applicable) should review and update:
-
-- [Meeting notes](#cadence-call-notes)
-- [Gainsight timeline entry](/handbook/customer-success/tam/gainsight/timeline/#how-to-log-activities-in-timeline)
-- The customer [success plan](/handbook/customer-success/tam/success-plans/)
-- Feature requests discussed
-- Support ticket assistance requested
-
-It's a good idea to start creating the agenda for the _next_ cadence call at this point, while the call that just ended is fresh in mind.
 
 ## Cadence Call Notes
 
