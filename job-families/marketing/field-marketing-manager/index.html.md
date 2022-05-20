@@ -166,6 +166,7 @@ The Manager, Field Marketing is a [grade 8](/handbook/total-rewards/compensation
 
 #### APAC Specific Requirements 
 - Past experience managing a team to develop the APAC region.
+- Player/coach - both leading a  team and executing Field Marketing campaigns in region.
 
 #### EMEA Specific Requirements 
 - Past experience managing a team to develop the EMEA region.
