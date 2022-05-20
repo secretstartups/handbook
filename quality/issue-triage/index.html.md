@@ -191,7 +191,7 @@ We encourage performance improvements to be broken down. Improve where we can an
 ### UX
 
 #### SUS-impacting
-Some UX-related issues are identified as impacting our [System Usability Scale (SUS) score](/handbook/engineering/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](/company/strategy/#three-year-strategy). We identify SUS-impacting issues with at least one of the labels listed in the [Total open SUS-impacting issues by severity](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/#total-open-sus-impacting-issues-by-severity) UX KPI. If one of these labels is applied, the tracking label `"~SUS"` will automatically be added. These issues can have a severity label applied *with* or *without* an accompanying `~"type::bug"` label. For issues with `type::bug`, they follow the [severity](/handbook/engineering/quality/issue-triage/#severity) and [SLOs](/handbook/engineering/quality/issue-triage/#severity-slos) for `type::bug` issues. Issues without `type::bug` are without SLO.
+Some UX-related issues are identified as impacting our [System Usability Scale (SUS) score](/handbook/engineering/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](/company/strategy/#three-year-strategy). We identify SUS-impacting issues with at least one of the labels listed in the [Total open SUS-impacting issues by severity](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/#total-open-sus-impacting-issues-by-severity) UX KPI. If one of these labels is applied, the tracking label `"~SUS::Impacting"` will automatically be added. These issues can have a severity label applied *with* or *without* an accompanying `~"type::bug"` label. For issues with `type::bug`, they follow the [severity](/handbook/engineering/quality/issue-triage/#severity) and [SLOs](/handbook/engineering/quality/issue-triage/#severity-slos) for `type::bug` issues. Issues without `type::bug` are without SLO.
 
 ##### SUS-Impacting non-`type::bug` Severity 
 
@@ -207,10 +207,10 @@ Some UX-related issues are identified as impacting our [System Usability Scale (
 
 Additionally, we include UX bugs (identified with *both* the `~UX` `~"type::bug"` labels) in our list of SUS-Impacting issues.
 
-Note: SUS-impacting issues are intended to have an impact on the current product experience rather than on new feature additions. An issue will have the `SUS` label automatically applied if any of the SUS-impacting labels are used. However, there are exceptions: 
+Note: SUS-impacting issues are intended to have an impact on the current product experience rather than on new feature additions. An issue will have the `SUS::Impacting` label automatically applied if any of the SUS-impacting labels are used. However, there are exceptions: 
 - Issues with the combination `type::feature` and `feature::addition` indicate we are not making a change or improvement to an existing experience.
 - Issues with the `Actionable Insights::Exploration needed` label applied but the issue is not ready to be prioritized and added to the product.
-In these cases, you should replace the `SUS` label with the [`non-SUS`](https://gitlab.com/groups/gitlab-org/-/labels?subscribed=&search=non-sus) label and a severity label is not needed.
+In these cases, you should replace the `SUS::Impacting` label with the [`SUS::Non-impacting`](https://gitlab.com/groups/gitlab-org/-/labels?subscribed=&search=sus) label and a severity label is not needed.
 
 #### UX debt
 
