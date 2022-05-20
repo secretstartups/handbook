@@ -54,6 +54,7 @@ Then choose from below the appropriate resource that can help unblock you. [Esca
     - APAC/AMER or EMEA/AMER crush sessions
     - APAC or EMEA crush / collaboration sessions
     - Senior Support Office Hours (varying times)
+* Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions.html) (like a crush session, but to help 1 or 2 groups with FRTs)
 * If in doubt, ping your manager (or the manager on-call) for guidance. Your manager (or any manager) can help determine next steps. Note that in most cases, either the present team is unable to help (beyond expertise), or at capacity. Please do not let this deter you from asking for help any time you need it.
 
 ### Quick Links and Resources
