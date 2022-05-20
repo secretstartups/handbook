@@ -19,8 +19,11 @@ This process applies to:
 * External materials which quote, or are written in the name of, a member of the [GitLab Executive Group](/company/team/e-group/) (eGroup), including such materials prepared for speaking engagements at non-GitLab events, interviews, press releases, and guest content bylined by a member of the eGroup; and
 * Internal materials which quote, or are written in the name of, a member of eGroup, including GitLab Assembly materials, GitLab newsletters, manager newsletters, company wide Slack messages.
 
+The Legal & Corporate Affairs team will triage materials submitted for review, and escalate to other team members up to and including the Chief Legal Officer, as appropriate.
+
 This process does **not** apply to:
 
+* Agreements of any kind.
 * [AMAs](/handbook/communication/ask-me-anything/), [Key Review](/handbook/key-review/) meetings, and [Group Conversations](/handbook/group-conversations/) streamed or published [publicly](/handbook/marketing/marketing-operations/youtube/#visibility) to GitLab Unfiltered. However, these recordings should not be streamed or published if they contain confidential information;
 * External or internal handbook updates;
 * GitLab issues or merge requests;
