@@ -381,6 +381,11 @@ Update the new schedule time by hitting on the _Reschedule Maintenance_ button *
 ### Sending Updates About Maintenance Events
 {:.no_toc}
 
+> **Note About Automated Maintenance Events**: On the Maintenance Event page you may see `Automation: Running`  with red text in parentehsis next to it reading `(Disable)`.
+Once `(Disable)` has been clicked and subsequently disabled it cannot be re-enabled. 
+In order to `Post Update` and `Finish Maintenance` the automated Maintenance Event must be `(Disable)`.
+After being disabled all future updates to this Maintenance Event must be manual updates from that point forward.
+
 To send an update about a maintenance event, such as a reminder, go to the _Maintenances_ tab in Status.io and select the one that needs an update. On the maintenance's information page, make note of whether automatic email reminders are set to go out. If yes, make sure not to send email broadcasts for your update in order to avoid sending duplicate reminders to subscribers. Once ready to update, select the _Post Update Without Starting_ button.
 
 ![Post Update Without Starting](/images/support/cmoc_post_without_rescheduling.png){: .shadow}
