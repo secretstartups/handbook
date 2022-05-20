@@ -57,18 +57,19 @@ Filter by one or multiple of the following:
 {: #internal-content .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 The below process should be used for all new content (ebooks, guides, whitepapers, etc.). Creating the epic and related issues is the responsibility of the **Content Owner** (i.e. Content Marketing, Analyst Relations) to make sure that when the content is ready, the teams involved in putting into Pathfactory (MOps) and the teams involved in activating (Campaigns, Digital, ABM) are able to take action immediately.
+
 #### Epic code and issues - Internal GitLab Content
 {: #epic-issues-internal-content}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-🏷️ **Label statuses:**
-* **status:plan**: content is in a brainstormed status, not yet approved and no DRI assigned
-* **status:wip**: content is approved, with launch date determined and DRI assigned
+##### [Watch this video overview of the process >>](https://youtu.be/RbQ8Hr6DuQo)
 
-1. **Internal Content Epics:** `Content Marketing` creates epic (using code below) and associates to campaign epic
-1. **Related Issues:** `Content Marketing` creates the issues as designated in the epic code, and associates to the content epic
+If you have any questions on this process, please contact `@jgragnola` in the [#marketing-campaigns](https://gitlab.slack.com/archives/CCWUCP4MS) Slack channel. This process has been iterated since 2018 for efficiency and to fit all teams' project management practices, and is meant to continually updated as needed!
 
-As a guide in developing timeline, please view the workback timeline calculator [here](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
+1. **Internal Content Epics:** Content Owner (usually `Content Marketing` or `Product Marketing` creates epic (using code below) and associates to campaign epic
+1. **Related Issues:** Content Owner (usually `Content Marketing` or `Product Marketing` creates the issues as designated in the epic code, and associates to the content epic
+
+:calendar: As a guide in developing timeline, please view the **[workback timeline calculator](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)*
 
 ```
 <!-- NAME EPIC: [type] <Name of Asset> (ex. [eBook] A beginner's guide to GitOps) -->
@@ -80,7 +81,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 ## Pathfactory link: (add when live)
 
 #### :key: Key Details
-* **Content Marketing DRI:**  
+* **Content Owner:**  
 * **Official Content Name:** 
 * **Official Content Type:** 
 * **Primary Campaign:** 
@@ -144,9 +145,9 @@ All external content should be planned in advance of purchase with `at least a 3
 {: #epic-issues-external-content}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-🏷️ **Label statuses:**
-* **status:plan**: content is in discussion status, not yet approved/purchased
-* **status:wip**: content is approved/purchased, with launch/delivery date determined and DRI assigned
+##### [Watch this video overview of the process >>](https://youtu.be/RbQ8Hr6DuQo)
+
+If you have any questions on this process, please contact `@jgragnola` in the [#marketing-campaigns](https://gitlab.slack.com/archives/CCWUCP4MS) Slack channel. This process has been iterated since 2018 for efficiency and to fit all teams' project management practices, and is meant to continually updated as needed!
 
 1. **External Content Epics:** `Content Owner (i.e. AR, Digital, etc.)` creates epic (using code below) and associates to primary GTM Motion epic
 1. **Related Issues:** `Content Owner (i.e. AR, Digital, etc.)` creates the issues as designated in the epic code, and associates to the external content epic
@@ -163,7 +164,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 ## [Pathfactory link]() - `to be added when live`
 
 #### :key: Key Details
-* **External Content (i.e. AR) DRI:**  
+* **Content Owner (i.e. AR) DRI:**  
 * **Official Content Name:** 
 * **Official Content Type:** 
 * **Primary Campaign:** 
@@ -203,8 +204,8 @@ As a guide in developing timeline, please view the workback timeline calculator 
 <summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
 
 * [ ] [Analyst Report Commentary Page Issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=AR-Commentary-Page) - Analyst Relations
-* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
-* [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Social
+* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing (DO NOT OPEN FOR ANALYST CONTENT)
+* [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Social (DO NOT OPEN FOR ANALYST CONTENT)
 * [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/indbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
 * [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
@@ -320,7 +321,7 @@ An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/
 Please follow the process outlined in the [Emails/Nurture Handbook](/handbook/marketing/demand-generation/campaigns/emails-nurture).
 
 ### Remove from Pathfactory
-{: #remove-intelligent-nurture}
+{: #remove-pathfactory}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 Please follow the process outlined in the [Pathfactory Handbook](/handbook/marketing/marketing-operations/pathfactory/content-library/#removing-an-asset-from-the-library).
 
@@ -366,9 +367,7 @@ Please follow the process outlined in the [Pathfactory Handbook](/handbook/marke
     * `{{my.formSubhead}}`	- form subhead (not currently used for gated content landing page to try to keep form shorter)
     * `{{my.heroImage}}` - image to display above landing page form ([options in Marketo here](https://app-ab13.marketo.com/#FI0A1ZN9784))
     * `{{my.introParagraph}}`	- intro paragraph to be used in landing page and nurture email, with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
-    * `{{my.mpm owner email address}}` - no longer used in automation, but helpful to know who to go to about setup
     * `{{my.or}}` - leave as `?` (but can be updated to `&` if during Pathfactory upload, the custom URL slugs were not applied to both the asset and the track). If this is not correctly applied and there are multiple `?` question marks in the URL, it will break. [WATCH THE VIDEO EXPLAINER](https://www.youtube.com/watch?v=VHgR33cNeJg)
-    * `{{my.pdfVersion}}`	- this should be the GitLab repo link (for safety backup if Pathfactory were to go down)
     * `{{my.socialImage}}`	- image that would be presented in social, slack, etc. preview when the URL is shared, this image is provided by design/social, leave the default unless presented with webcast specific image.
     * `{{my.utm}}` - this should match the aligned campaign utm
     * `{{my.valueStatement}}` token with the short value statement on what the viewer gains from the webcast, this ties into the follow up emails and must meet the max/min requirements of the [character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
