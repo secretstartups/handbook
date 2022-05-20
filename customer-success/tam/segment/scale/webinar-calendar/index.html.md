@@ -29,14 +29,14 @@ Expand your CI/CD knowledge while we cover advanced topics that will accelerate 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_aWj_kz5XSY6rJg5gU82Sww)
 
 ### Introducción a GitLab
-### May 24th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
+#### May 24th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
 
 ¿Estas comenzando con GitLab? Te invitamos a este webinar, donde revisaremos qué es GitLab, cómo lo beneficia y el flujo de trabajo recomendado para permitirle aprovechar al máximo la plataforma.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_cp7RI389RpScOixaSe1wyA)
 
 ### Introducción a CI/CD con GitLab
-### May 26th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
+#### May 26th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
 
 Ven y conoce qué es CI/CD y cómo puede beneficiar a tu equipo/organización. Cubriremos una descripción general de CI/CD y cómo se ve en GitLab. También cubriremos cómo comenzar con su primer pipeline de CI/CD en GitLab y los conceptos básicos de los GitLab Runners.
 
