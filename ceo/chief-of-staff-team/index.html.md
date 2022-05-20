@@ -28,7 +28,7 @@ Complement the CEO through being the cross-functional linchpin for GitLab when i
 * [Team READMEs](/handbook/ceo/chief-of-staff-team/readmes/)
 
 ## Contact Us
-* [#ceo-chief-of-staff-team](https://gitlab.slack.com/archives/CN7MPDZF0/p1568035351000200) on Slack (GitLab Team Members only)
+* [`#ceo-chief-of-staff-team`][CoST-Slack] on Slack (GitLab Team Members only)
 
 ## Kinds of projects CoST to the CEO works on
 {:#what-projects-does-the-cost-work-on}
@@ -59,7 +59,7 @@ Examples of a cross-functional project:
 #### Under-resourced
 
 As GitLab grows, projects will come up that are important but are under-resourced.
-The Chief of Staff to the CEO Team should be known for its ability to become 80% effective on any subject quickly.
+The Chief of Staff Team to the CEO should be known for its ability to become 80% effective on any subject quickly.
 They are generalists at their core and, while they bring special skills to the table, they are meant to be able to address important problems as they come up.
 A member of the CoST to the CEO might help source candidates for a strategic hire, fix grammatical errors in the handbook, and build a financial model all in the same day based on what is important or top of mind for the CEO at a given point.
 The goal of the team is not to do the work of other teams, but to help address work that those teams may not have the bandwidth to address but are important to the organization and/or the CEO.
@@ -123,7 +123,7 @@ We work from the bottom up in agendas unless told to prioritize otherwise.
 
 ### Prioritization 
 
-Since the team has limited capacity to lean into everything that it may want or be asked to, it is thoughtful about team and individual capacity. Members of the Chief of Staff will be expected to manage both directed and leadership (largely self-directed) work. You can find definitions and examples of directed and leadership work on the [CoS to the CEO handbook page](/job-families/chief-executive-officer/chief-of-staff/#responsibilities).  
+Since the team has limited capacity to lean into everything that it may want or be asked to, it is thoughtful about team and individual capacity. Members of the Chief of Staff Team to the CEO will be expected to manage both directed and leadership (largely self-directed) work. You can find definitions and examples of directed and leadership work on the [CoS to the CEO handbook page](/job-families/chief-executive-officer/chief-of-staff/#responsibilities).  
 
 When newly initiated, self-directed, leadership work entails a significant time commitment (>20% capacity for more than a week), the work being done should be flagged to the CoST to the CEO in a 1:1 or team meeting. This work should stay on the 1:1 agenda between the CoS to the CEO and the team member for the duration of the activity. If needed, activities may be reprioritized based on top demands and priorities. 
 
@@ -187,7 +187,7 @@ The GCs are stored in the "CEO Evangelism" folder on Google Drive.
 * Update with timely announcements, e.g. E-Group Offsite updates, anything shared in Company FYI recently, any great wins.
 * If there aren't any timely announcements, take this opportunity to remind folks about some of the key features of our [Communication](/handbook/communication/) guidelines, including our Top Misused Terms, MECEFU, or Why we track public Slack messages.
 * Review the [recent CEO Shadow MRs](https://gitlab.com/dashboard/merge_requests?scope=all&utf8=✓&state=all&label_name[]=ceo-shadow) and the CoST to the CEO agenda for anything that could be added to the "Top of Mind" section.
-* Ping the two current and two former [CEO Shadows](https://about.gitlab.com/handbook/ceo/shadow/)in #ceo-shadow with the deck and request that they each add 1 slide based on their observations, topics that stood out or would be good to highlight at the company level from their shadow rotation.
+* Ping the two current and two former [CEO Shadows](https://about.gitlab.com/handbook/ceo/shadow/) in [`#ceo-shadow`](https://app.slack.com/client/T02592416/CHA5X1F5E) with the deck and request that they each add 1 slide based on their observations, topics that stood out or would be good to highlight at the company level from their shadow rotation.
 
 Be sure that slides are prepared with enough notice for the CEO to record a video and for it to be shared at least 24 hours in advance of the Group Conversation.
 
@@ -241,11 +241,11 @@ The CEO chooses to run a Contribute Challenge in advance of some [Contributes](/
 
 ## Program managing [JiHu](https://about.gitlab.com/pricing/faq-jihu/)
 
-A member of the Chief of Staff to the CEO team is the DRI within GitLab for the success of GitLab's partnership with JiHu. Coordination with JiHu requires engagement from multiple functions within GitLab. The CoS to the CEO team ensures that the appropriate folks are engaged at the right times and that GitLab provides appropriate support to this separate entity.
+A member of the Chief of Staff Team to the CEO is the DRI within GitLab for the success of GitLab's partnership with JiHu. Coordination with JiHu requires engagement from multiple functions within GitLab. The CoS to the CEO team ensures that the appropriate folks are engaged at the right times and that GitLab provides appropriate support to this separate entity.
 
-# Maintaining the handbook
+## Maintaining the handbook
 
-As of FY23, the Chief of Staff to the CEO Team is [responsible for the GitLab handbook](/handbook/content-websites-responsibility/). This includes maintaining infrastructure and ensuring usability of both the internal and public handbooks.  
+As of FY23, the Chief of Staff Team to the CEO is [responsible for the GitLab handbook](/handbook/content-websites-responsibility/). This includes maintaining infrastructure and ensuring usability of both the internal and public handbooks.  
 
 ## Dates to Keep Track of
 
@@ -268,9 +268,9 @@ This is not the single source of truth (SSOT) for these dates and is meant only 
 
 ## Chief of Staff Shadow
 
-The Chief of Staff to the CEO may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS to the CEO Shadow can participate. Interested team members can share their interest with the Chief of Staff to the CEO in the #chief-of-staff-team channel. The CoST to the CEO will follow up with you to understand what you are looking to get out of the experience and review projects that may be a good match. If there is not an existing project, you will be kept in mind for future opportunities.
+The Chief of Staff to the CEO may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS to the CEO Shadow can participate. Interested team members can share their interest with the Chief of Staff to the CEO in the [`#ceo-chief-of-staff-team`][CoST-Slack] channel. The CoST to the CEO will follow up with you to understand what you are looking to get out of the experience and review projects that may be a good match. If there is not an existing project, you will be kept in mind for future opportunities.
 
-Once a project or initiative to Shadow has been identified and the team member decides to participate, the team member should open a merge request to add their name to the below table. The MR should be shared through slack in `#chief-of-staff-team` for review and merge.
+Once a project or initiative to Shadow has been identified and the team member decides to participate, the team member should open a merge request to add their name to the below table. The MR should be shared through slack in [`#ceo-chief-of-staff-team`][CoST-Slack] for review and merge.
 
 |  Start Date | End Date | First & Last Name | GitLab Handle |
 | --- | --- | --- | --- |
@@ -294,8 +294,8 @@ Once a project or initiative to Shadow has been identified and the team member d
 ## Team updates and showcasing team work
 Since the CoST to the CEO is working on many different projects at a given time, folks often struggle to understand the team's mission or contributions. To address this, we:
 
-1. Share a monthly newsletter in the #whats-happening-at-gitlab Slack channel and cross-post to the #ceo Slack channel
-1. Do a quarterly AMA or GC that showcases the CoST to the CEO, an initative driven by someone on the CoST, or a CoST member
+1. Share a monthly newsletter in the [`#whats-happening-at-gitlab`](https://app.slack.com/client/T02592416/C0259241C) Slack channel and cross-post to the [`#ceo`](https://app.slack.com/client/T02592416/C3MAZRM8W) Slack channel
+1. Do a quarterly AMA or GC that showcases the CoST to the CEO, an initative driven by someone on the CoST
 1. Starting in FY23, we plan to have an annual roadshow in which we stop by other teams or ask other team members to attend some of our meetings
 
 ## Organizational pulse
@@ -323,3 +323,5 @@ We are evaluating different ways to measure our success as a team. These include
 * [Better CoS to the CEO: Decision Making](https://medium.com/@robdickins/better-cos-decision-making-5d97d14152e3)
 * [Becoming a Chief of Staff with Brian Rumao](https://www.linkedin.com/learning/become-a-chief-of-staff-with-brian-rumao)
 * [HBR: The Case for a Chief of Staff](https://hbr.org/2020/05/the-case-for-a-chief-of-staff)
+
+[CoST-Slack]: https://app.slack.com/client/T02592416/CN7MPDZF0
