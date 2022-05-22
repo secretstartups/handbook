@@ -7,6 +7,39 @@ The Data Engineer job family is focused on an analytical and business-oriented m
 
 The Data Engineer job family requires an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of data insights to support business decisions in all areas of GitLab. Data Engineers are essentially software engineers who have a particular focus on data movement and orchestration.
 
+### Data Engineer (Junior)
+
+The Data Engineer (Junior) reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+
+#### Data Engineer Job Grade
+
+The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Data Engineer (Junior) Requirements
+
+* Experience using Python, Java, or Scala for data processing (Python preferred)
+* Knowledge of and experience with data-related Python packages
+* Good understanding of SQL and analytical data warehouses
+* Share and work in accordance with [our values](/handbook/values/)
+* Constantly improve product quality, security, and performance
+* Desire to continually keep up with advancements in data engineering practices
+* Collaborate with team members to identify requirements, define successful outcomes, and deliver trusted results
+* Catch bugs and style issues in code reviews
+* Ship small features independently
+* Ability to use GitLab
+
+#### Data Engineer (Junior) Responsibilities
+
+* Maintain our [data platform](/handbook/business-technology/data-team/platform/) with timely and quality data
+* Build and maintain data pipelines from internal databases and SaaS applications
+* Create and maintain systems documentation
+* Write maintainable, performant code
+* Implement the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
+* Plan and execute system expansion as needed to support the company's growth and analytic needs
+* Collaborate with [Analytics Engineers](https://about.gitlab.com/job-families/finance/analytics-engineer/) and [Data Analysts](https://about.gitlab.com/job-families/finance/data-analyst/) to drive efficiencies for their work
+* Collaborate with other functions to ensure data needs are addressed
+* This position is always [central](/handbook/business-ops/data-team/#-team-organization) and reports to the Manager, Data
+
 ### Data Engineer (Intermediate)
 
 The Data Engineer (Intermediate) reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
