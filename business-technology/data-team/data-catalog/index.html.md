@@ -30,15 +30,18 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 - **Transformation**: [dbt](https://www.getdbt.com/) is used for all in transformations. See our [dbt guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/) for more details on why and how we use this tool. All dbt code is stored in our [Analytics Project](https://about.gitlab.com/handbook/business-technology/data-team/platform/#folder-structure-in-analytics-project).
 
 
+## Definitive Guides
+
+* [Definitive Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/) 
+* [Definitive Guide to Self-Managed Analyis](/handbook/business-technology/data-team/data-catalog/self-managed/) 
+
 ## Snowflake Dimensional Models
 
 ### Product 
 
-* [Namespace Analyis Guide](/handbook/business-technology/data-team/data-catalog/namespace/) 
 * [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
 * [SaaS Product Events](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
 * [CI Runner Activity](/handbook/business-technology/data-team/data-catalog/ci-runner-activity/) 
-
 
 ## Sisense Dashboards
 
