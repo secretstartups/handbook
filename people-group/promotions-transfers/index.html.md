@@ -281,7 +281,7 @@ At GitLab, we ensure that promotions are impactful from the compensation perspec
 
 - When a team member is promoted from one level to the next in the same job family, it is typical to be brought between the minimum and median of the compensation range.
 - The Total Rewards Team typically recommends a 5%-10% increase as part of the promotion to cash compensation. Additional equity is fixed based on [stock options for promotions](/handbook/stock-options/#promotions).
-    - Benchmarking data relays that typically [4-8% of your population will be promoted](https://www.shrm.org/ResourcesAndTools/business-solutions/Documents/Human-Capital-Report-All-Industries-All-FTEs.pdf) annually with an average of a [9.3% increase to base salary](https://www.worldatwork.org/docs/research-and-surveys/survey-brief-promotional-guidelines-2016.pdf).
+    - Benchmarking data relays that typically [4-8% of your population will be promoted](https://www.shrm.org/ResourcesAndTools/business-solutions/Documents/Human-Capital-Report-All-Industries-All-FTEs.pdf) annually with an average of a [9.3% increase to base salary](https://worldatwork.org/media/CDN/resources/salary-budget-survey/SBS2021-22_TopLevelData_Participants-FNL.pdf).
 - Any promotions with the following conditions will require additional justification to the Total Rewards team and executive approver. Please add the business justification as a comment in the BambooHR request.
     1. An increase of more than 10%
     1. The promotion exceeds the range in the compensation calculator (would be paid over the top end of the compensation range).
