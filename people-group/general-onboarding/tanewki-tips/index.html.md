@@ -191,7 +191,7 @@ A: You have 30 days from your start date to enroll in benefits. Even if you enro
 ### Stock 
 **Q: When will I receive access to Schwab?**
 
-A: Once the board approves your grant, you will receive an email to create your account in Schwab and accept your grants.
+A: Once the board approves your grant, you will receive an email to create your account in Schwab and accept your grants. Depending on your start date, the email might arrive a few months after your first day.
 
 **Q: Is the value of the restricted stock anchored to the share price at the time I signed the contract?**
 
