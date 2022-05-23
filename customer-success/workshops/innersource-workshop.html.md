@@ -24,7 +24,7 @@ This workshop is intended to provide enablement for new or existing customers th
 *Note*: You can combine the two sessions into one if you don't have a different audience. When we were trialing this playbook, we had sr. leadership/sponsors for the first session and practitioners in the second session. 
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=ZS1mCpBHXaI" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/ZS1mCpBHXaI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ## Discovery Questions
