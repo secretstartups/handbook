@@ -557,3 +557,16 @@ anybody on your team at any time, do this:
    1. In the options area, be sure to select "Allow participants to join anytime"
    1. Click "Save"
 1. Share the link to the room with your intended users
+
+### Settings for smaller meetings
+
+If you have a smaller meeting (4 or fewer participants) and want to allow for quicker starts, you could change the settings on a per meeting basis to remove the waiting room, or default audio to on (can be overridden by participants local settings). To quickly do this, you can:
+
+1. Install the [Zoom Scheduler](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle) Chrome Extension
+1. When creating a meeting, click on `Make it a Zoom Meeting`
+1. Uncheck `Waiting Room`
+1. Ensure Host and Participant Video is `On`
+1. Ensure `Mute participants upon entry` is **unchecked**
+1. Click `Continue`
+
+This should allow for a bit more of a seamless transition into beginning a smaller meeting. The defaults for larger meetings are still what's documented above.
