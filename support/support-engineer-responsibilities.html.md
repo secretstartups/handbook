@@ -24,7 +24,7 @@ description: A detailed listing of the responsibilities of Support Engineers in 
 1. The '**What does success look like?**' subsections help encourage consistent contributions across our global team. They're not hard targets that must be met. They're to help you know how and where to contribute to succeed in your role.
 1. **Performance measurement for annual reviews and promotions are separate activities to the core responsibilities described here.**
      1. The People Group is responsible for the [GitLab annual review process](/handbook/people-group/360-feedback/).
-     1. Read about [Support Engineer Career Path](support-engineer-career-path.html) for further resources on promotions, and understanding the role at different levels.
+     1. Read about [Support Engineer Career Path](/handbook/support/support-engineer-career-path.html) for further resources on promotions, and understanding the role at different levels.
 1. Support Engineering has [team level performance indicators](/handbook/support/#how-we-measure-our-performance). Successfully carrying out the responsibilities on this page will, directly or indirectly, help improve our KPIs. All team-level KPIs are, in turn, related to GitLab's company-level [Objectives and Key Results](https://about.gitlab.com/company/okrs/).
 
 ## Support Engineer Areas of Focus
@@ -68,7 +68,7 @@ Support Engineer:
 
 As a customer support team, we are responsible for being available to support
 our customers according to the terms of their contract with us. Although
-[asynchronous work and communication](https://about.gitlab.com/handbook/values/#bias-towards-asynchronous-communication)
+[asynchronous work and communication](/handbook/values/#bias-towards-asynchronous-communication)
 are preferred within GitLab overall, in Support Engineering there is always
 a business need to have enough people available at any given moment to deliver
 support. Therefore it is each Support Engineer's responsibility to coordinate
@@ -78,7 +78,7 @@ availability for ticket work with their group.
 ### 2. Work with your group to meet our FRT SLA target
 
 **Our goal, as stated on the
-[Support Performance Indicators page](./performance-indicators/#service-level-agreement-sla),
+[Support Performance Indicators page](/handbook/support/performance-indicators/#service-level-agreement-sla),
 is to provide a substantive (meaningful, helpful) first response within the time
 period specified by the
 [Service Level Agreement](https://about.gitlab.com/support/#gitlab-support-service-levels)
@@ -92,7 +92,7 @@ and so all of Support, to meet that goal. How?
    you, will be monitoring the group's view throughout each day, taking tickets
    as they can, and calling out to the rest of the group when there are new
    tickets that others could take.
-1. See our [Working on Tickets page](../workflows/working-on-tickets.html) for
+1. See our [Working on Tickets page](/handbook/support/workflows/working-on-tickets.html) for
    guidance on finding and selecting tickets on which to work, assigning
    tickets, and providing a first response.
 1. Watch your group's view for tickets showing up in the `Needs org` section
@@ -102,14 +102,14 @@ and so all of Support, to meet that goal. How?
    If you are a Senior Support Engineer, put a higher priority on helping others
    in your group to make a first response, than on taking tickets of your own.
    _Please note that this section is about helping your own group. As can be seen
-   in [Prioritizing work](../support-global-groups/#prioritizing-work), all SEs
+   in [Prioritizing work](/handbook/support/support-global-groups/#prioritizing-work), all SEs
    are encourage to help people in any group._
 
 #### Processing 'Needs org' tickets (triaging)
 
-Everyone is responsible for [Triaging tickets](./workflows/ticket_triage.html) to make sure they have:
+Everyone is responsible for [Triaging tickets](/handbook/support/workflows/ticket_triage.html) to make sure they have:
 
-1. [An associated organization](./workflows/associating_needs_org_tickets_with_orgs.html)
+1. [An associated organization](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html)
 1. The correct ticket form (such as `SaaS`, if they're asking for
    GitLab.com support).
 
@@ -117,7 +117,7 @@ Everyone is responsible for [Triaging tickets](./workflows/ticket_triage.html) t
     organization associated yet. Hence, it is recommended to associate the user
     with the correct organization **first**. Then change the form to the most
     relevant form type and fill in additional metadata where possible.*
-1. [The correct priority](./workflows/setting_ticket_priority.html#setting-ticket-priority)
+1. [The correct priority](/handbook/support/workflows/setting_ticket_priority.html#setting-ticket-priority)
 1. The correct 'Problem Type'
 
 ### 3. Maintain good progress through to resolution on all of your assigned tickets
@@ -137,7 +137,7 @@ Here are a few tips for maintaining good progress:
    will need to be addressed in additional tickets and that your focus will
    remain on the original problem or question
 1. As soon as you're unclear on what your next steps should be, seek help.
-   See our [How to get help](./workflows/how_to_get_help.html) page for
+   See our [How to get help](/handbook/support/workflows/how_to_get_help.html) page for
    details
 1. If you are unsure of what message to deliver to the customer, or how to
    word the message to achieve a positive impact, seek help in the
@@ -191,10 +191,10 @@ managing calls.
 Collaboration is one of GitLab's values, and helping others with their tickets
 offers you a daily opportunity to live that value. When all higher priority
 items are under control (see
-[Prioritizing work](../support-global-groups/index.html.md/#prioritizing-work)),
+[Prioritizing work](/handbook/support/support-global-groups/index.html/#prioritizing-work)),
 please find tickets in your group's view and in the `Needs Collaboration` view
 on which you feel you can help. See the
-[Support Global Groups FAQ page](support-global-groups/sgg-faq.html) for topics
+[Support Global Groups FAQ page](/handbook/support/support-global-groups/sgg-faq.html) for topics
 about how to help other SEs:
 
 
@@ -202,7 +202,7 @@ about how to help other SEs:
 
 Success will look like a healthy balance between solving your assigned support
 tickets and helping your group to be successful. For the group success, see the
-[criteria on the main SGG page](./support-global-groups/#success-of-their-group-means).
+[criteria on the main SGG page](/handbook/support/support-global-groups/#success-of-their-group-means).
 For your individual ticket work, you and your manager should begin with the
 following two criteria, the first quantitative and the second qualitative:
 
@@ -229,7 +229,7 @@ shows the current values.
    - We believe in quality, not quantity. More is not necessarily better. GitLab
      gives you freedom to choose and trusts you to use good judgment in
      exercising that freedom as you make daily decisions about
-     [Prioritizing work](../support-global-groups/index.html.md/#prioritizing-work).
+     [Prioritizing work](/handbook/support/support-global-groups/index.html/#prioritizing-work).
 
 ## Participate in on-call rotations to coordinate and resolve emergencies (Occasionally)
 
@@ -266,7 +266,7 @@ Be sure to highlight notable incidents in your 1:1 notes doc.
 | Level        | How it might look |
 | ------------ | ----------------- |
 | Intermediate | Aim for two pairing sessions per week |
-| Senior       | [Aim for one pairing or help session per day](https://about.gitlab.com/handbook/support/engineering/mentorship.html) |
+| Senior       | [Aim for one pairing or help session per day](/handbook/support/engineering/mentorship.html) |
 
 ## Create and update issues for bugs and feature requests (Weekly)
 

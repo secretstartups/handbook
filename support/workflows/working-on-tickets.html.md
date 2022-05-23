@@ -19,7 +19,7 @@ The focus of this page is to be a guide for Support Engineers in
 [beginning work](#providing-a-first-response-to-a-ticket) on support tickets.
 For information about working on tickets successfully in the Support Global
 Groups environment, please read the
-[SE Responsibilities and Priorities](/handbook/support/support-global-groups/index.html.md/#se-responsibilities-and-priorities)
+[SE Responsibilities and Priorities](/handbook/support/support-global-groups/index.html/#se-responsibilities-and-priorities)
 topic on the main Support Global Groups page.
 
 ## Views to use in our SGG system
