@@ -45,7 +45,7 @@ title: Advanced Global Search Rollout on GitLab.com
   - Started the work of scaling indexing jobs by [utilizing Elasticsearch Bulk Import API and Redis sorted set](https://gitlab.com/gitlab-org/gitlab/-/issues/34086).
 
 - 2020-02-04:
-  - [Re-enabled the Gitlab’s own gitlab-org and gitlab-com groups.](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1608)
+  - [Re-enabled the GitLab’s own gitlab-org and gitlab-com groups.](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1608)
   - [Enabled the first customer.](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1626)
 
 - 2020-02-09 ~ 2020-03-05:

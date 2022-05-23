@@ -1,4 +1,4 @@
-We measure the value we contribute by using Performance Indicators (PI), which we define and use to track progress. The current [PI for the Continuous Integration group](/handbook/product/ops-section-performance-indicators/#verify-ci-verify-runner-count-of-pipelines-triggered-by-unique-users) is the `number of unique users who trigger ci_pipelines`. For more details, please check out the [Product Team Performance Indicators](/handbook/product/performance-indicators/#regular-performance-indicators). To view the latest Verify stage ci_pipeline data see our [Sisense Dashboard](https://app.periscopedata.com/app/gitlab/538594/Verify-Stage-Dashboard).
+We measure the value we contribute by using Performance Indicators (PI), which we define and use to track progress. The current [PI for the Pipeline Authoring group](/handbook/product/ops-section-performance-indicators/#verify-ci-verify-runner-count-of-pipelines-triggered-by-unique-users) is the `number of unique users who trigger ci_pipelines`. For more details, please check out the [Product Team Performance Indicators](/handbook/product/performance-indicators/#regular-performance-indicators). To view the latest Verify stage ci_pipeline data see our [Sisense Dashboard](https://app.periscopedata.com/app/gitlab/538594/Verify-Stage-Dashboard).
 
 ### Usage Funnel
 
@@ -8,7 +8,7 @@ Based on the AARRR framework (Acquisition, Activation, Retention, Revenue, Refer
 classDiagram
   Acquistion --|> Activation
     Acquistion: Awareness - Are users aware of CI pipelines?
-    Acquistion: Measurement (Total count of CI Docs page views)
+    Acquistion: Measurement (Total count of users in GitLab Projects with access to `git write` or "SCM Users")
   Activation --|> Retention
     Activation: Use - Are users creating CI configurations/pipelines?
     Activation: Measurement (Total count of projects with .gitlab-ci.yml files)

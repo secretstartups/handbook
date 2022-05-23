@@ -22,7 +22,7 @@ GitLab CI runner manager is responsible for creating build machines for package
 builds.  This node configuration is managed by
 [cookbook-gitlab-runner](https://gitlab.com/gitlab-cookbooks/cookbook-wrapper-gitlab-runner).
 Configuration values are stored in the vault named the same as the node,
-[see example](https://ops.gitlab.net/gitlab-cookbooks/chef-repo/-/blob/a62742886ed1dec291d66df3508e37163431538d/roles/build-trigger-runner-manager-gitlab-org.json#L37).
+[see example](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a62742886ed1dec291d66df3508e37163431538d/roles/build-trigger-runner-manager-gitlab-org.json#L37).
 
 Currently, the version of GitLab CI runner is locked. We aim to be close to the
 current version of runner in order to get the fixes that we need without getting
@@ -38,55 +38,54 @@ types of pipelines. Both these machines are in GCP project
 1. build-runners.gitlab.org:
 1. build-trigger-runner-manager.gitlab.org
 
-#### build-runners.gitlab.org
+#### build-runners-gitlab-org
 
 This runner manager manages the machines used for building and publishing
 official GitLab CE and EE packages. It is locked to the [omnibus-gitlab](https://dev.gitlab.org/gitlab/omnibus-gitlab/)
-and [gitlab-omnibus-builder](https://dev.gitlab.org/cookbooks/gitlab-omnibus-builder/) projects in dev.gitlab.org.
+and [`cookbooks/gitlab-omnibus-builder`](https://dev.gitlab.org/cookbooks/gitlab-omnibus-builder/) projects in dev.gitlab.org.
+
+Its configuration can be found in the [private `gitlab-com/gl-infra/chef-repo` project](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/master/roles/build-runners-gitlab-org.json).
 
 It spins up the following types of machines:
 
-1. x86_64 machines for building packages. They are `n1-highcpu-32` machines with 60GB
-   SSD disks, spawned inside GCP using `google` docker-machine driver.
+1. [`x86_64` machines for building packages](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-runners-gitlab-org.json#L63-106).
+   They are `n1-highcpu-32` machines with 80GB SSD disks, spawned inside GCP using `google` docker-machine driver.
 
-1. Arm64 marchines for building packages. They are `m6g.2xlarge` machines with 50GB SSD
-   disks, spawed inside AWS using `amazonec2` docker-machine driver.
+1. [`arm64-builder-dev-gitlab` for building Docker images for ARM and RPi](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-runners-gitlab-org.json#L149-183).
+   They are `m6g.2xlarge` machines with 80GB solid state disks spawned inside AWS using the `amazonec2` docker-machine driver. This is used in <https://dev.gitlab.org/cookbooks/gitlab-omnibus-builder>.
 
-1. `package-promotion` machines for uploading packages. Since they are only used
-   to upload packages, they are scaled down to save costs. They are
-   `n1-standard-2` machines, spawned inside GCP using `google` docker-machine
-   driver.
+1. [`arm64-runners-manager-dev-gitlab` for building ARM and RPi packages](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-runners-gitlab-org.json#L184-226).
+   They are `m6g.2xlarge` machines with 80GB solid state disks spawned inside AWS using the `amazonec2` docker-machine driver.
 
-1. ARM machines for building Raspberry Pi packages. They are `C1` machines
-   spawned inside Scaleway using `scaleway` docker-machine driver.
-   [See the specific documentation for ARM support information][arm].
+1. [`package-promotion` machines for uploading packages](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-runners-gitlab-org.json#L107-148).
+   Since they are only used to upload packages, they are scaled down to save costs. They are `n2d-standard-2` machines, spawned inside GCP using `google` docker-machine driver.
 
-#### build-trigger-runner-manager.gitlab.org
+#### build-trigger-runner-manager-gitlab-org
 
 This runner manager manages the machines used for building packages as part of
 triggered pipeline used by developers to test their changes.
 
+Its configuration can be found in the [private `gitlab-com/gl-infra/chef-repo` project](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/master/roles/build-trigger-runner-manager-gitlab-org.json).
+
 It spins up the following types of machines:
 
-1. x84_64 machines for building packages. They are `n1-highcpu-32` machines with 50GB
-   SSD disks, spawned inside GCP using `google` docker-machine driver.
+1. [`x84_64` machines for building packages](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-trigger-runner-manager-gitlab-org.json#L95-139)
+   in the [`gitlab-org/omnibus-gitlab-mirror`](https://gitlab.com/gitlab-org/omnibus-gitlab-mirror) project.
+   They are `n1-highcpu-32` machines with 80GB SSD disks, spawned inside GCP using `google` docker-machine driver.
 
-1. Arm64 machines for building arm64 builder images. They are `m6g.2xlarge` machines with 50GB SSD
-   disks, spawed inside AWS using `amazonec2` docker-machine driver.
+1. [ARM64 machines for buidling arm64 and Raspberry Pi builder images](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-trigger-runner-manager-gitlab-org.json#L140-174).
+   They are `m6g.2xlarge` machines with 80GB solid state disks spawned inside AWS using the `amazonec2` docker-machine driver.
 
-1. `qa-builder` machines for creating qa test images. They are `n1-standard-2` machines
-   with 50GB disks, spawned inside GCP using `google` docker-machine driver.
-
-1. ARM machines for building Raspberry Pi builder images. They are `C1` machines
-   spawned inside Scaleway using `scaleway` docker-machine driver.
-   [See the specific documentation for ARM support information][arm].
+1. [`qa-builder` machines for running end-to-end tests](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-trigger-runner-manager-gitlab-org.json#L54-94)
+   in the [`gitlab-org/gitlab-qa`](https://gitlab.com/gitlab-org/gitlab-qa) and [`gitlab-org/gitlab-qa-mirror`](https://gitlab.com/gitlab-org/gitlab-qa-mirror) projects.
+   They are `n2d-standard-2` machines with 50GB disks, spawned inside GCP using `google` docker-machine driver.
 
 ### Maintenance tasks
 
 **Requirements:**
 
 - Access to the node
-- Access to merge into master on the [ops chef repo](https://ops.gitlab.net/gitlab-cookbooks/chef-repo)
+- Access to merge into master on the [ops chef repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo)
 - Some tasks need access to a Chef Vault admin. At minimum, contact the Engineering Manager,
   Distribution for help.
 
@@ -147,5 +146,3 @@ are:
       ```
 
       will remove all machines that do not have `Running` state.
-
-[arm]: /handbook/engineering/development/enablement/distribution/maintenance/arm.html

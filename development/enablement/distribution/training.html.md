@@ -62,7 +62,7 @@ training other team members.
 - DIS006 [GitLab QA project](https://youtu.be/Ym159ATYN_g)
 - DIS007 [Let's Encrypt with the omnibus-gitlab package](https://youtu.be/Ac7uAED1Qzk)
 - DIS008 [GitLab Helm Chart Operator](https://youtu.be/suP5vnhBYf8)
-- [Contributor introduction to Omnibus-Gitlab](https://www.youtube.com/watch?v=mCec7g6Ml70)
+- [Contributor introduction to Omnibus-GitLab](https://www.youtube.com/watch?v=mCec7g6Ml70)
 
 ### FAQ
 

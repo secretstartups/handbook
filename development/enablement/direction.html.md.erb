@@ -9,7 +9,7 @@ title: Enablement Sub-department Direction
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page outlines the rolling fiscal year direction of the Enablement sub-department. Current edition is for FY21.
+This page outlines the rolling fiscal year direction of the Enablement sub-department. Current edition is for FY22.
 
 ## Where We Are
 
@@ -30,34 +30,38 @@ Active Instances (self managed): [Sisense](https://app.periscopedata.com/app/git
 Installations With Geo Nodes: [Sisense](https://app.periscopedata.com/app/gitlab/500159/Geo?widget=6471869&udv=0)
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 6471869, dashboard: 500159, embed: 'v2') %>">
 
-Installations With Advanced Search Enabled (self managed): [Sisense](https://app.periscopedata.com/app/gitlab/596072/Enablement:-Search-Metrics?widget=7800022&udv=0)
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 7800022, dashboard: 596072, embed: 'v2') %>">
+Advanced Search GMAU: [Sisense](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=10039216)
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10039216, dashboard: 758607, embed: 'v2') %>">
 
-SaaS Advanced Search Volume: [Sisense](https://app.periscopedata.com/app/gitlab/596072/Enablement:-Search-Metrics?widget=7801166&udv=0)
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 7801166, dashboard: 596072, embed: 'v2') %>">
+Monthly MR Rate: [Sisense](https://app.periscopedata.com/app/gitlab/576886/New-Enablement-Section-Overview-Dashboard?widget=10282856&udv=0). Goal of Narrow MR Rate - 8 MRs/person/month
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10282856, dashboard: 576886, embed: 'v2') %>">
 
-Monthly MR Rate: [Sisense](https://app.periscopedata.com/app/gitlab/576886/New-Enablement-Section-Overview-Dashboard?widget=9009393&udv=0). Goal of Member MR Rate - 8 MRs/person/month
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 9009393, dashboard: 576886, embed: 'v2') %>">
-
-MR Review To Merge Time: [Sisense](https://app.periscopedata.com/app/gitlab/576886/New-Enablement-Section-Overview-Dashboard?widget=9031364&udv=0). Goal of Review To Merge Time - 4 days
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 9031364, dashboard: 576886, embed: 'v2') %>">
+MR Review To Merge Time: [Sisense](https://app.periscopedata.com/app/gitlab/576886/New-Enablement-Section-Overview-Dashboard?widget=10305092&udv=0). Goal of Review To Merge Time - 4 days
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10305092, dashboard: 576886, embed: 'v2') %>">
 
 ### Great Team
-The Enablement sub-department is young and dynamic, consisting of 34 people at present, among whom 15 new hires and 5 internal engineers were added in 2019 and 2020. Although young, the team indeed hosts domain expertise in every group. With that being said, the Enablement sub-department has been actively navigating best practices in delivering company goals and values, while building out a diverse, engaged, efficient, and productive team.
+The Enablement sub-department consists of 31 people at present, where each group hosts unique domain expertise in the engineering division.
 
 Some statistics of the team:
 * Women engineers: 2
-* Distinguished and Staff Engineers: 7 (24%)
+* Distinguished and Staff Engineers: 7 (27%)
 * Maintainers:
-   * About 70% of our engineers are senior and above, while 38% of our engineers are maintainers of a kind. 
-   * Backend: 5
-   * Database: 2
+   * About 73% of our engineers are senior and above, while 50% of our engineers are maintainers of some kind. 
+   * Backend: 6
+   * Database: 3
    * Distribution: 4
    * Frontend: 0
 * Maintainer Trainees:
-   * Backend: 5
-   * Database: 3
+   * Backend: 4
+   * Database: 1
    * Frontend: 1
+   * Distribution: 1
+* Subject Domains:
+   * Deploy and configure GitLab via both VM (Omnibus) and Cloud Native (Helm Chart, OpenShift) methods
+   * Disaster recovery, backup/restore, replication
+   * Advanced Search based on Elasticsearch
+   * PostgreSQL Database
+   * Performance tuning and memory optimization
 
 ## Where We Want To Be In One Year
 
@@ -66,23 +70,18 @@ Some statistics of the team:
 Refer to the [product direction one year plan](https://about.gitlab.com/direction/enablement/#one-year-plan).
 
 #### Gaps
-Below are identified key areas of improvements for the remainder of FY21.
-1. PG 12 is not yet supported.
-1. Orchestrator maturity is Minimal.
+Below are identified key areas of improvements for the remainder of FY22.
 1. Cloud Native deployment needs a leap.
-   1. Helm Chart maturity is Viable.
-   1. OpenShift support maturity is Planned.
-1. Disaster Recovery maturity is Minimal but needs to be Complete to win large deals.
-1. Geo Replication needs to be transparent to users to increase adoption and impact.
-1. Advanced Search scalability and performance can be improved.
-   1. Initial index and re-index time and stability.
-   1. Search performance.
-1. Advanced search results relevancy, rank, and UX.
+   1. Helm Chart maturity is Viable, with Complete scheduled for FY22 Q1.
+   1. OpenShift support development began in FY21-Q3 with an MVP planned in FY22-Q1.
+1. Disaster Recovery maturity is Viable but needs to be Complete to win large deals.
+1. Backup and restore functionality is only minimally supported.
+1. Global search results relevancy, ranking, UX, and performance can be improved.
 1. Performance, scalability, and memory footprint.
    1. API endpoint performance bottlenecks and memory footprints.
    1. Performance product analytics of self-managed.
-   1. Continued database query performance improvements through impact analysis and targeted improvements
-   1. Reduction in database size and growth rate
+   1. Continued database query performance improvements through impact analysis and targeted improvements.
+   1. Reduction in database size and growth rate.
    1. Database index size growth.
    1. Run GitLab on Raspberry Pi smoothly.
 
@@ -90,13 +89,12 @@ Below are identified key areas of improvements for the remainder of FY21.
 #### Goals
 1. A Diversity, Inclusion and Belonging environment.
 1. All team members are motivated and engaged.
-1. Effective Iteration with a goal of Member MR Rate = 8~10.
+1. Effective iteration with a goal of narrow MR rate = 7~8.
 1. High Efficiency with a goal of Review to Merge Time meeting the goal of Development department.
 1. Strong servant leadership team.
 
 #### Gaps
 1. There are only 2 women engineers on the team and no woman leadership members.
-1. There could be more resources for career development.
 1. Team can benefit from additional maintainers, especially domain expert maintainers.
 1. MR rate is below Development average, which means there may be still room to improve iteration.
 
@@ -105,21 +103,19 @@ Below are identified key areas of improvements for the remainder of FY21.
 ### Product
 Key areas to work on:
 1. [Support PG 12](https://gitlab.com/groups/gitlab-org/-/epics/2184).
-1. [Bring Orchestrator to Alpha](https://gitlab.com/groups/gitlab-org/-/epics/4018).
 1. Level up CNG support.
-   1. Helm Chart: [Complete](https://gitlab.com/groups/gitlab-org/-/epics/2260), [Loveable](https://gitlab.com/gitlab-org/charts/gitlab/issues/1658).
-   1. [POC of OpenShift Operator](https://gitlab.com/gitlab-org/gl-openshift/gitlab-operator/-/issues/2).
-1. Bring [Disaster Recovery to Viable](https://gitlab.com/groups/gitlab-org/-/epics/1507), then move onto [Complete](https://gitlab.com/groups/gitlab-org/-/epics/3574).
-1. [Improve Advanced Search operational maturity](https://gitlab.com/groups/gitlab-org/-/epics/2132). 
-1. Advanced Search results optimization.
-   1. [Improve and optimize Recall](https://gitlab.com/groups/gitlab-org/-/epics/3203).
-   1. [UX enhancements](https://gitlab.com/groups/gitlab-org/-/epics/1505).
+   1. Helm chart: [Complete](https://gitlab.com/groups/gitlab-org/-/epics/2260), [Loveable](https://gitlab.com/gitlab-org/charts/gitlab/issues/1658).
+   1. [Support deploying GitLab on OpenShift MVP](https://gitlab.com/groups/gitlab-org/-/epics/3444).
+1. Bring [Disaster Recovery to Complete](https://gitlab.com/groups/gitlab-org/-/epics/3574).
+1. Advanced search results optimization.
+   1. (Tech debt) [Improve and optimize Recall](https://gitlab.com/groups/gitlab-org/-/epics/3203).
+   1. (Tech debt) [UX enhancements](https://gitlab.com/groups/gitlab-org/-/epics/1505).
 1. More improvements of performance, scalability, and related instrumentation.
-   1. Continue [database partitioning](https://gitlab.com/groups/gitlab-org/-/epics/2023).
-   1. Control [database index growth](https://gitlab.com/groups/gitlab-org/-/epics/3989).
-   1. [Reduce total size and growth of GitLab.com's PostgreSQL database](https://gitlab.com/groups/gitlab-com/-/epics/374).
-   1. Improve [product analytics of operational performance metrics](https://gitlab.com/groups/gitlab-org/-/epics/3209).
-   1. [Running GitLab in a memory constrained environment](https://gitlab.com/groups/gitlab-org/-/epics/448).
+   1. (Tech debt) [Address Primary Key overflow risk for tables with an integer PK](https://gitlab.com/groups/gitlab-org/-/epics/4785)
+   1. (Tech debt) Control [database index growth](https://gitlab.com/groups/gitlab-org/-/epics/3989).
+   1. (Tech debt) [Running GitLab in a memory constrained environment](https://gitlab.com/groups/gitlab-org/-/epics/448).
+1. Build developer tools to improve efficiency and increase velocity.
+   1. (Tech debt) [Provide developers with access to production-like data](https://gitlab.com/groups/gitlab-org/database-team/-/epics/3).
 
 ### Great Team
 Key areas to work on with possible actions to consider:
@@ -131,7 +127,6 @@ Key areas to work on with possible actions to consider:
    1. [Apprenticeship program](/handbook/engineering/career-development/#apprenticeships).
    1. Knowledge sharing, e.g. maintaining a list of technical knowledge base that is friendly for async learning.
    1. [Hackathon](https://gitlab.com/gitlab-org/gitlab/-/issues/229965).
-   1. Self innovation time (TBD).
 1. Leadership.
    1. Continue to foster a DIB environment.
    1. Build leadership reserves at all levels to remove single point of failure and provide career growth opportunities.
@@ -140,13 +135,13 @@ Key areas to work on with possible actions to consider:
    1. Knowledge sharing of tactics for breaking tasks down effectively.
    1. Encouraging team members to attend Iteration Office Hours.
 1. Add more maintainers.
-   1. Fill the maintainer gaps on team, especially Database and Frontend maintainers.
+   1. Fill the maintainer gaps on team, especially Cloud Native and Frontend maintainers.
    1. Encourage maintainers to become experts across multiple domains.
 
 ### Additional Information
 
 Below are the running roadmaps of each group, which is not necessarily constrained by fiscal year:
-1. [Advanced Search roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aglobal%20search&label_name[]=Roadmap).
+1. [Global Search roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aglobal%20search&label_name[]=Roadmap).
 1. [Database roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Roadmap&label_name[]=group%3A%3Adatabase).
 1. [Distribution roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Adistribution).
 1. [Geo roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Ageo).

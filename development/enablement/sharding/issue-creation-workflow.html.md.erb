@@ -1,0 +1,37 @@
+---
+layout: handbook-page-toc
+title: Sharding Group - Issue Creation Workflow
+description: "A simple description and diagram describing our issue creation workflow"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+This diagram describes our issue creation workflow.
+
+```mermaid
+
+graph TD
+    Create[Create Issue] --> is_group{Will<br>Group::Sharding<br>own this issue};
+    is_group -->|Yes| group_sharding[label group::sharding];
+    is_group -->|No| is_infra{Assigned to<br>infrastructure?};
+    is_infra -->|No| other_group[label appropriate group];
+    is_infra -->|Yes| at_mention_kenn[mention kwanyangu];
+    at_mention_kenn -->ci-decomposition
+    group_sharding --> active[label sharding::active]
+    active --> ci-decomposition
+    other_group --> ci-decomposition
+    ci-decomposition --> ci-decomposition_phase[label ci-decomposition::phaseX]
+    ci-decomposition_phase --> milestone[add appropriate milestone]
+    milestone --> priority[add priority/severity labels]
+    priority --> epic[add to appropriate epic]
+    classDef default fill:#fca326,color:#fff;
+```
+Notes
+- Assign Priority/Severity based on the desired [Time To Resolve SLO](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) 
+- Adding `sharding::active` will make the issue visible on the [Sharding build board](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Asharding&label_name[]=sharding%3A%3Aactive)

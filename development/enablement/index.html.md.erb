@@ -19,38 +19,41 @@ Offer enterprise-grade operational experience of GitLab products from streamline
 Enablement focuses on improving our capabilities and metrics in the following areas:
 
  * [Database](/handbook/engineering/development/enablement/database/)
- * [Distribution](/handbook/engineering/development/enablement/distribution/)
+ * [Distribution:Build](/handbook/engineering/development/enablement/distribution/#distribution-build)
+ * [Distribution:Deploy](/handbook/engineering/development/enablement/distribution/#distribution-deploy)
  * [Geo](/handbook/engineering/development/enablement/geo/)
  * [Memory](/handbook/engineering/development/enablement/memory/)
  * [Global Search](/handbook/engineering/development/enablement/search/)
+ * [Sharding](/handbook/engineering/development/enablement/sharding/)
 
-## Fiscal Year 2021 Direction
- * Grow feature maturity to improve enterprise experience and readiness
- * Build and enhance features and integrations to increase market penetration
- * Solidify foundation for smooth operations and high availability to continue to scale and improve our SaaS offering
+## Fiscal Year 2023 Direction
+ * Significantly improve the scalability of database by completing the CI decomposition and continuing to the next phase of sharding, as well as making robust database foundations and tooling
+ * Improve enterprise experience by growing feature maturity in areas such as CNG and Geo
+ * Expand market opportunities by building and enhancing features such as Code Search
 
  For more details, refer to the [Enablement Sub-department Direction](/handbook/engineering/development/enablement/direction.html).
 
-## Sub-department Members
-
-The following people are permanent members of the Enablement Sub-department:
-
 <%
-departments = ['Database', 'Distribution', 'Geo' , 'Memory', 'Global Search']
-interim_manager_departments = ['Fulfillment']
-department_regexp = /(#{Regexp.union(departments)})/
-%>
+  departments = [
+    { name: 'Database', manager: 'alexives' },
+    { name: 'Distribution:Build', manager: 'david-mountney' },
+    { name: 'Distribution:Deploy', manager: 'eng-manager-distribution' },
+    { name: 'Geo', manager: 'fullstack-engineering-manager-geo' },
+    { name: 'Global Search', manager: 'cliu', regexp: /Global Search/ },
+    { name: 'Memory', manager: 'cliu', regexp: /Memory/ },
+    { name: 'Sharding', manager: 'backend-engineering-manager-sharding' },
 
-<%=  direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Enablement') %>
+ ]
+ department_regexp = /(#{Regexp.union(departments.map{ |d| d[:name] })})/
+%>
 
 ## All Team Members
 
 The following people are permanent members of teams that belong to the Enablement Sub-department:
 
 <% departments.each do |dep| %>
-### <%= dep %>
-  <% manager_role = interim_manager_departments.include?(dep) ? "Backend Engineering Manager, #{dep} (Interim)" : "Backend Engineering Manager, #{dep}" %>
-  <%= direct_team(manager_role: manager_role) %>
+### <%= dep[:name] %>
+  <%= direct_team(manager_slug: dep[:manager], role_regexp: dep[:regexp]) %>
 <% end %>
 
 ## Business Continuity - Coverage and Escalation
@@ -60,10 +63,11 @@ The following table shows who will provide cover if one or more of the Enablemen
 | Team Member     | Issues/MRs Backup        | People Management Backup    | Escalation   |
 | -----           | -----                    | -----                 | -----        |
 | Chun Du         | Christopher Lefelhocz    | Christopher Lefelhocz | Eric Johnson |
-| Craig Gomes     | Kamil Trzcinski (Memory), Andreas Brandl (DB)    | Changzheng Liu        | Chun Du      |
-| Changzheng Liu  | Dylan Griffith           | Craig Gomes           | Chun Du      |
-| Steven Wilson   | DJ Mountney              | Nick Nguyen           | Chun Du      |
-| Nick Nguyen     | Douglas Alexandre        | Steven Wilson         | Chun Du      |
+| Nick Nguyen     | Kamil Trzcinski (Sharding), Mike Kozono (Geo)  | Changzheng Liu, Alex Ives        | Chun Du      |
+| Changzheng Liu  | Dmitry Gruzd (Global Search), Matthias Käppler (Memory)             | Nick Nguyen           | Chun Du      |
+| Alex Ives      | Andreas Brandl      | Nick Nguyen         | Chun Du      |
+| Steven Wilson   | Jason Plum               | DJ Mountney           | Chun Du      |
+| DJ Mountney     | Steven Wilson            | Steven Wilson         | Chun Du      |
 
 If an Engineer is unavailable the person providing `Issues/MRs` coverage will reassign open issues and merge requests to another engineer, preferably in the same [group](#all-team-members).
 
@@ -76,18 +80,20 @@ as well as a general guide to Enablement Engineering continuity in the event of 
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Enablement/, direct_manager_role: 'Director of Engineering, Enablement') %>
+<%= stable_counterparts(role_regexp: /[,&] Enablement|Enablement:/, direct_manager_role: 'Director of Engineering, Enablement') %>
 
 ## How We Work
 
 ### Professional Development
 1. Conference, meetup, and training: To request budget for these career development events, please refer to [budget application for professional development](./processes/budget_approval.html).
-2. Career development plan: It is recommended that the manager and the individual collaboratively develop a career development plan and discuss progress via career talks regularly. Here is an [Enablement sub-department career development plan template](https://docs.google.com/document/d/1LEyTuJIcdGeMuiqBojiLTHHdc1oQonSlOhPqUTTnSkQ/edit#heading=h.sw0a6mizbgaq).
-3. Promotion: An individual is ready for promotion when both the individual and the manager reach consensus that the individual is performing job competencies at the next level of career ladder according to the [Engineering Career Framework](/handbook/engineering/career-development/career-matrix.html).
-   * Managers, when proposing a promotion for your team member use the [PeopleOps promotion document template](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#).
+2. Promotion: An individual is ready for promotion when both the individual and the manager reach consensus that the individual is performing job competencies at the next level of career ladder according to the [Engineering Career Framework](/handbook/engineering/career-development/matrix/engineering/).
+   * Managers, when proposing a promotion for your team member use the [People Group promotion document template](https://docs.google.com/document/d/1nDkYGK2yhe8pD-lnMGmEF-Cf0IlGgVOznjXMq9FxGiQ/edit).
+   * Promotion cycle occurs quarterly according to the [People Group process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotions-process--timeline) and timeline.
+   * In addition to the formal People Group promotion document which is eventually shared company wide, Development also requires a separate "areas of improvement" document that is only shared with leadership and the team member.
+   * Supporting documents including the People Group justification and "areas of improvement" are typically due a month ahead of the published schedule [aligned with the `Planning` dates in this timeline](/handbook/people-group/promotions-transfers/#promotion-process--timeline) to allow for peer review among Senior Managers and Directors ahead of formal calibration sessions.
 
 ### Combined Team
-Based on the scale of frontend engineering in Enablement sub-department, the [Combined Team](/handbook/engineering/#combined-teams) model is being experimented where both Frontend and Backend Engineers report to a single Engineering Manager. It's believed that the combined team model enables higher efficiency for the situation of Enablement and the experiment is subject to continuous review. The team will return to functional model by establishing a dedicated frontend engineering team when the frontend engineering team reaches the manager to individual contributor ratio guideline.
+Based on the scale of frontend engineering in Enablement sub-department, the [Combined Team](/handbook/engineering/starting-new-teams/#fullstack-teams) model is being experimented where both Frontend and Backend Engineers report to a single Engineering Manager. It's believed that the combined team model enables higher efficiency for the situation of Enablement and the experiment is subject to continuous review. The team will return to functional model by establishing a dedicated frontend engineering team when the frontend engineering team reaches the manager to individual contributor ratio guideline.
 
 ### Dogfood Roadmap in Planning
 To enhance the overview of team direction, all Enablement development teams use Epics to organize projects and dogfood the [Roadmap](https://docs.gitlab.com/ee/user/group/roadmap/index.html) feature to communicate short- and mid-term product development roadmap, although each team customizes their usage such as applying specific labels. Examples:
@@ -121,8 +127,7 @@ The Enablement teams leverage the following software or SaaS services to deliver
 | -----    | -----       | -----   | -----      | -----         | -----    |
 | packagecloud.io | [https://packagecloud.io/](https://packagecloud.io/) | Annual | March 30th | Distribution | Existing vendor, [last renewal issue](https://gitlab.com/gitlab-com/finance/-/issues/2304)  |
 | dependencies.io | [https://www.dropseed.io/](https://www.dropseed.io/ ) | Annual | November 1st | Distribution | Existing vendor, [last renewal issue](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/514) |
-| scaleway        | [https://www.scaleway.com/en/](https://www.scaleway.com/en/) | Monthly | End of Month | Distribution | Existing vendor |
-| postgres.ai     | [https://postgres.ai/](https://postgres.ai/)     | Trial  | TBD          | Database     | Existing vendor, [request issue](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/47) |
+| postgres.ai     | [https://postgres.ai/](https://postgres.ai/)     | Annual  | May 28th          | Database     | Existing vendor, [last renewal issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/676) |
 
 
 ## Common Links

@@ -1,0 +1,220 @@
+---
+layout: handbook-page-toc
+title: Fulfillment Utilization Team
+description: "The Utilization Team of the Fulfillment Sub-department at GitLab"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+The Utilization Team often works at the interface between GitLab Core and Fulfillment applications. This includes components in the [Utilization category](/handbook/product/product-categories/#utilization-group) like consumables management (storage, CI minutes, seats, etc.), usage reporting, and usage notifications. Our customers use GitLab SaaS, GitLab self-managed, and internal tooling.
+
+## Vision
+
+For more details about the product vision for Fulfillment, see our [Fulfillment](/direction/fulfillment/) page.
+
+The Utilization group manages the [Utilization category](/handbook/product/product-categories/#utilization-group).
+
+## Team members
+
+<%= direct_team(manager_role: 'Fullstack Engineering Manager, Fulfillment:Utilization', role_regexp: /[,&] Fulfillment/) %>
+
+## Stable counterparts
+
+<%= stable_counterparts(role_regexp: /[,&] Fulfillment/, direct_manager_role: 'Fullstack Engineering Manager, Fulfillment:Utilization') %>
+
+## How we work
+
+### Sync Meetings
+
+We try to [work async](https://about.gitlab.com/company/culture/all-remote/asynchronous/) as much as possible. However, there are occasions where synchronous communication might be better suited for the task. Our Weekly Team Sync meeting is one of those occasions where we can celebrate wins, collaborate quickly over a number of issues, and generally have some face-time in an all-remote environment.
+
+#### Times and Timezones
+
+The Utilization group is spread across at least [4 different timezones](https://leipert-projects.gitlab.io/better-team-page/timezones/?search=reports_to%3AChaseSouthard).
+
+The Utilization Team meets weekly on Tuesdays alternating each week between at 9:30 AM (6:30 AM PT // 2:30 PM UTC) and ~~4:00 PM US Eastern Time (1:00 PM PT // 9:00 PM UTC // Wednesday 10 AM NZT)~~ to accommodate teammates in their timezones via Zoom.
+
+#### Recording Meetings
+
+Using the `[REC]` meeting prefix, the meeting is automatically uploaded into the [GitLab Videos Recorded folder in Google Drive](https://drive.google.com/drive/u/0/folders/0APOeuCQrsm4KUk9PVA) on an hourly basis via a scheduled pipeline. All teammates are set as alternate hosts and should be able to record the meeting is the Engineering Manager is not present. The recording link will be placed into the agenda after the recording is available.
+
+#### Meeting Preparation
+
+All team members are encouraged to add topics to the [weekly agenda](https://docs.google.com/document/d/10Fdt-tx1_G1NFoAPv6wU5BeEQeXsPq1UZXkIPfuF3Vk/edit?usp=sharing) async. In the unlikely event that the agenda is empty, we'll cancel the meeting.
+
+### Async Updates
+
+#### Engineers
+
+Engineers are responsible for providing async issue updates on active, assigned issues when progress is made. Following the [template and guidance](https://about.gitlab.com/handbook/engineering/development/fulfillment/#weekly-async-issue-updates) for async updates for the entire Fulfillment Sub-department, updates should be made at least weekly. These updates help keep collaborators, stakeholders, and community contributors informed on the progress of an issue.
+
+#### Engineering Manager
+
+##### Milestones
+
+The Engineering Manager will report before the end of each week on milestone progress in the current milestone planning issue on the following topics:
+
+```
+**Total Weight Closed** XX
+
+**Total Weight Open** XX (XX in dev)
+
+**Deliverable Weight Closed** XX
+
+**Deliverable Weight Open** X (XX in dev;  X blocked)
+
+**Blocked Issues** X issue(s) (X weight) link, description
+```
+
+##### OKRs
+
+The Engineering Manager will report on the progress of [OKRs](https://about.gitlab.com/company/okrs/) every two weeks as a comment in relevant issues and in the Ally reporting tool.
+
+Current OKRs: [FY22-Q3](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/269)
+
+Past OKRs:
+- [FY22-Q2](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11255)
+- [FY22-Q1](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10680)
+
+### Taking Time Off (PTO)
+
+It is important to [take time off](https://about.gitlab.com/handbook/paid-time-off/#paid-time-off) so that you can rest, reset, avoid burnout, take care of loved ones, etc. You are encouraged to take time for yourself or your family following our sub-value of [Friends and Family First, work second](https://about.gitlab.com/handbook/values/#family-and-friends-first-work-second).
+
+When going out of office, please be sure to [clearly communicate](https://about.gitlab.com/handbook/paid-time-off/#communicating-your-time-off) your availability with other people. The following steps are required when submitting a PTO notification.
+
+1. In [PTO by Roots](https://about.gitlab.com/handbook/paid-time-off/#pto-by-roots), select a role as your backup during your PTO. Please assign the team slack channel #g_utilization as your backup to help distribute the workload. Consider if your current work in progress requires a substitute DRI and assign a single person for those specific issues.
+
+1. Add the Fulfillment Shared Calendar to your PTO by Roots settings so your PTO events are visible to everyone in the team. The calendar ID is: `gitlab.com_7199q584haas4tgeuk9qnd48nc@group.calendar.google.com` Read more about [PTO](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) in the handbook.
+
+1. Update your GitLab.com status with your out of office dates by clicking on your profile picture and selecting "Edit Status." For Example: `OOO Back on yyyy-mm-dd` Adding `OOO` to your status message will keep you from appearing in the [reviewer roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette).
+
+## Milestone Planning
+
+### Key dates
+
+| Date | Event |
+| ------ | ------ | ------ |
+| 10th |**PM** creates a Planning Issue and pings the EM(s) in the Planning Issue for review & preliminary weighting.<br><br> **EM and PM** calculate capacity, add to Planning Issue.|
+| 10th-14th |**EM** & **ICs** add weights to issues in the backend and frontend build boards.|
+| 15th | **PM** adds ~Deliverable labels to issues.|
+| 17th |Last day of milestone<br><br> **PM** adjusts current and upcoming issues to reflect slippage from the current milestone. ~Deliverable labels are adjusted as necessary.|
+| Team Sync Closest to the Next Milestone | **PM** reviews the upcoming milestone plan with the team. |
+| 18th | Milestone begins |
+| 22nd | Release |
+
+##### If a non-working day
+
+- The release date is **always** on the 22nd
+- Milestone start becomes the next working day
+- Other dates become the previous working day
+
+### Current Milestone
+
+- [14.7 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/357)
+
+### Upcoming Milestones
+
+- [14.8 Planning Issue](#) - TBD
+
+### Past Milestones
+
+- [13.6 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/116)
+- [13.7 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/133)
+- [13.8 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/139)
+- [13.9 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/149)
+- [13.10 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/157)
+- [13.11 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/187)
+- [13.12 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/199)
+- [14.0 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/220)
+- [14.1 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/240)
+- [14.2 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/275)
+- [14.3 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/290)
+- [14.4 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/314)
+- [14.5 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/333)
+- [14.6 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/343)
+
+### Estimation
+
+#### Features
+
+For feature work, we follow the [estimation rubric](https://about.gitlab.com/handbook/engineering/development/fulfillment/#estimation) provided on the Fulfillment handbook page that matches a description to a weight mostly along complexity and breadth of change required.
+
+#### Spikes
+
+We use spikes to produce a design document or similar artifact that is useful for planning out feature work. This can simply be, but not limited to, an issue containing a summary of the discussions on the topic, answers to questions from the spike description, links to any PoC MRs produced, a roadmap or other detailed outline.
+
+Estimating the effort required for a Spike is not as clearly set or easily defined as feature work because the complexity can't be accurately estimated. Take into consideration the following criteria when adding a weight to spike issue.
+
+- scope
+- duration (time box)
+- outcome / deliverable / artifact production
+
+Follow the same Fibbonacci scale used for feature work from 1 (low, quick, easy) to 5 (large, lengthy, difficult). Historically, we have not estimated [spikes](https://gitlab.com/dashboard/issues?scope=all&state=closed&label_name[]=group%3A%3Autilization&label_name[]=spike) higher than 5.
+
+## Triage
+
+The following lists are links to Sentry and other tools where we proactively identify and triage Utilization problems. Proactive triage will not only provide for a more secure and robust application, but also provide for a better user experience especially as we iterate on features, reveal features from behind a feature flag, or introduce a refactoring. It leans into our Bias for Action sub-value and raises our awareness of application performance.
+
+### Potential list of places to check
+
+| Subject | Link | Notes |
+| - | - | - |
+| CustomersDot syncing | [Sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/?query=is%3Aunresolved+UpdateGitlabPlanInfoWorker) | `UpdateGitlabPlanInfoWorker` class is used to sync data between CustomersDot and GitLab |
+| GitLab Subscriptions | [Sentry](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+subscription) | Results could be refined by controller, e.g. `SubscriptionsController` |
+| Billing errors | [Sentry](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+billing) | Results could be further refined by controller, e.g. `Groups::BillingsController`, `Projects::BillingsController` |
+| Rails logs | [Kibana](https://log.gprd.gitlab.net/goto/c97cd8d278b9cae18c8588c85a82a2d6) | Utilization feature category Rails logs for the last 7 days |
+| Sidekiq logs | [Kibana](https://log.gprd.gitlab.net/goto/7fe39288bc23a368ddbec6ed369c3ab2) | Utilization feature category Sidekiq logs for the last 7 days |
+| Billable Member API | [Grafana dashboard](https://dashboards.gitlab.net/d/api-rails-controller/api-rails-controller?orgId=1) | - |
+| CustomersDot Bug Issues | [Issues](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues?label_name[]=type::bug&label_name%5B%5D=group%3A%3Autilization&scope=all&sort=created_date&state=opened) | - |
+| GitLab Bug Issues | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name[]=type::bug&label_name%5B%5D=group%3A%3Autilization&scope=all&sort=created_date&state=opened) | - |
+
+### Creating an issue direct from Sentry
+
+There's a way in sentry to create an issue for any error you find.
+
+e.g. https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/2505559/?query=is%3Aunresolved%20UpdateGitlabPlanInfoWorker
+
+See links in the right sidebar:
+
+![](./sentry_issue_creator.png)
+
+Although both links look the same, the first link is for creating an issue _in the security repo_, the **second should be for the project** (CustomersDot/GitLab) accordingly.
+
+## Iteration
+
+[Iteration](https://about.gitlab.com/handbook/values/#iteration) powers Efficiency and is the key that unlocks Results, but it's also really difficult to internalize and practice. Following the [development department's key metrics](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-department-mr-rate-inherited) we strive to deliver small and focused MRs.
+
+### Exemplary Iteration Attempts
+
+- [Epic GitLab.com Billable Members List](https://gitlab.com/groups/gitlab-org/-/epics/4547)
+  - https://gitlab.com/gitlab-org/gitlab/-/issues/321560
+  - https://gitlab.com/gitlab-org/gitlab/-/issues/324658
+  - https://gitlab.com/gitlab-org/gitlab/-/issues/325412
+  - https://gitlab.com/gitlab-org/gitlab/-/issues/321560#note_543385756
+- [Epic Expired SaaS subscriptions should revert to free plan](https://gitlab.com/groups/gitlab-org/-/epics/4627)
+- [Expired subscriptions](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3112#note_596972724)
+
+### Iteration Retrospectives
+
+Following a similar process to Milestone Retrospectives, we employ [Iteration Retrospectives](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/82623) on a quarterly basis.
+
+#### [May 2021](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/234)
+
+**Key Takeaways**
+
+- Look for blockers as natural boundaries for issue/epic breakdown
+- Intentionally cut scope to ensure deliverability. Try to cut scope as early as possible.
+- Lean into using [the Refinement Template](https://about.gitlab.com/handbook/engineering/development/fulfillment/#estimation-template) for estimations.
+- Remember to find reviewers/maintainers with domain knowledge and compatible timezones for maximum efficiency - See also [MR review guidelines](https://docs.gitlab.com/ee/development/code_review.html#domain-experts)
+- Share your proof of concept solutions with others to get feedback early on solutions
+- Consider acceptable partial solutions - cover the majority case; defer the edge cases for the next iteration if possible
+
+## Performance Indicators
+
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Utilization" } %>

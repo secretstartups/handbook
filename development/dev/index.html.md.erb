@@ -21,51 +21,54 @@ We thrive for ownership of the things that we built by having a clear view on it
 The Dev sub-department is taking care of the first part of the DevSecOps Lifecycle with the following 3 stages and the specific groups:
 
 1. [Manage](/handbook/product/categories/#manage-stage)
-  * [Manage:Access BE](/handbook/engineering/development/dev/manage/)
+  * [Manage:Authentication and Authorization BE](/handbook/engineering/development/dev/manage/)
   * [Manage:Compliance BE](/handbook/engineering/development/dev/manage/)
   * [Manage:Import BE](/handbook/engineering/development/dev/manage/)
   * [Manage:Optimize BE](/handbook/engineering/development/dev/manage/)
+  * [Manage:Workspace](/handbook/engineering/development/dev/manage/)
   * [Manage FE](/handbook/engineering/development/dev/manage/)
 1. [Plan](/handbook/product/categories/#plan-stage)
-  * [Plan:Project Management BE](/handbook/engineering/development/dev/plan-project-management-be/)
-  * [Plan:Product Planning & Plan:Certify BE](/handbook/engineering/development/dev/plan-product-planning-certify-be/)
-  * [Plan FE](/handbook/engineering/development/dev/fe-plan/)
+  * [Plan:Project Management](/handbook/engineering/development/dev/plan-project-management/)
+  * [Plan:Product Planning & Plan:Certify](/handbook/engineering/development/dev/plan-product-planning-certify-be/)
 1. [Create](/handbook/product/categories/#create-stage)
-  * [Create: Source Code BE](/handbook/engineering/development/dev/create-source-code-be/)
+  * [Create: Source Code BE](/handbook/engineering/development/dev/create/source-code-be/)
   * [Create: Source Code FE](/handbook/engineering/development/dev/create-source-code-fe/)
   * [Create: Code Review BE](/handbook/engineering/development/dev/create-code-review-be/)
   * [Create: Code Review FE](/handbook/engineering/development/dev/create-code-review-fe/)
   * [Create: Editor](/handbook/engineering/development/dev/create-editor/)
   * [Create Frontend](/handbook/engineering/development/dev/fe-create/)
   * [Gitaly](/handbook/engineering/development/dev/gitaly/)
-  * [Ecosystem](/handbook/engineering/development/dev/ecosystem/)
-  * [Ecosystem BE](/handbook/engineering/development/dev/ecosystem/ecosystem-be/)
+1. [Ecosystem](/handbook/product/categories/#ecosystem-stage)
+  * [Ecosystem: Foundations](/handbook/engineering/development/dev/ecosystem/foundations/)
+  * [Ecosystem: Integrations](/handbook/engineering/development/dev/ecosystem/integrations/)
 
 ## Who we are
 
 ### Manage
 
-#### Manage:Access & Manage:Import
-<%= direct_team(manager_role: 'Backend Engineering Manager, Manage:Access & Manage:Import') %>
+#### Manage:Authentication and Authorization
+<%= direct_team(manager_role: 'Acting Engineering Manager, Manage:Authentication and Authorization') %>
 
-#### Manage:Compliance & Manage:Optimize
-<%= direct_team(manager_role: 'Backend Engineering Manager, Manage, Manage:Compliance & Manage:Optimize') %>
+#### Manage:Compliance
+<%= direct_team(manager_role: 'Engineering Manager, Manage:Compliance') %>
 
-#### Manage Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Manage:Access & Manage:Compliance & Manage:Import') %>
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Manage:Optimize') %>
+#### Manage:Import
+<%= direct_team(manager_role: 'Engineering Manager, Manage:Import') %>
+
+#### Manage:Optimize
+<%= direct_team(manager_role: 'Acting Engineering Manager, Manage:Optimize') %>
+
+#### Manage:Workspace
+<%= direct_team(manager_role: 'Interim Engineering Manager, Manage:Workspace') %>
 
 
 ### Plan
 
 #### Plan:Project Management
-<%= direct_team(manager_role: 'Backend Engineering Manager, Plan:Project Management') %>
+<%= direct_team(manager_role: 'Engineering Manager, Plan:Project Management') %>
 
 #### Plan:Product Planning
 <%= direct_team(manager_role: 'Backend Engineering Manager, Plan:Product Planning') %>
-
-#### Plan Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Plan') %>
 
 ### Create
 
@@ -76,19 +79,19 @@ The Dev sub-department is taking care of the first part of the DevSecOps Lifecyc
 <%= direct_team(manager_role: 'Backend Engineering Manager, Create:Code Review') %>
 
 #### Create:Editor
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Knowledge & Create:Editor') %>
+<%= direct_team(manager_role: 'Engineering Manager, Create:Editor') %>
 
 #### Create:Static Site Editor
 <%= direct_team(manager_role: 'Backend Engineering Manager, Create:Static Site Editor') %>
 
 #### Create:Source Code Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Delivery & Scalability') %>
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability', role_regexp: /(?!Code Review)Source Code/) %>
 
 #### Create:Code Review Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Code Review') %>
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability', role_regexp: /(?!Source Code)Code Review/) %>
 
 #### Gitaly
-<%= direct_team(manager_role: 'Backend Engineering Manager, Gitaly') %>
+<%= direct_team(manager_slug: 'tim-z', role_regexp: /Gitaly/) %>
 
 #### Ecosystem Backend
 
@@ -96,7 +99,7 @@ The Dev sub-department is taking care of the first part of the DevSecOps Lifecyc
 
 #### Ecosystem Frontend
 
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Ecosystem') %>
+<%= direct_team(manager_role: 'Engineering Manager, Ecosystem') %>
 
 ## Stable Counterparts
 
@@ -104,11 +107,33 @@ The following members of other functional teams are our stable counterparts:
 
 <%= stable_counterparts(role_regexp: /[,&] Dev/, direct_manager_role: 'Director of Engineering, Dev') %>
 
+## How we work
+
+### Error Budgets
+
+[Error budgets](/handbook/engineering/error-budgets/) are one of the Dev sub-department/section's performance indicators. They're vital in determining how reliable services within Dev are over any given timeframe. The budget is spent any time user-facing services experience a percentage of errors or latency breaching their defined thresholds. We track our error budgets using [Grafana dashboards](https://dashboards.gitlab.net/d/stage-groups-detail-compliance/stage-groups-compliance-group-error-budget-detail?orgId=1&from=now-7d&to=now&search=open&folder=current).
+
+Engineering Managers in Dev focus on the **7-day timeframe** of their error budget. An example dashboard can be found [here](https://dashboards.gitlab.net/d/stage-groups-detail-compliance/stage-groups-compliance-group-error-budget-detail?orgId=1&from=now-7d&to=now).
+
+#### Reporting your groups error budget, reliability, and security status
+
+Every week, engineering leaders meet to discuss topics including the error budgets across the entire Engineering Division.
+
+Dev engineering leaders use [this Google document](https://docs.google.com/document/d/1Bef644PX8C5zq1CrbNwcg7SoAxUY2WyOKyXVwXlbMmk/edit) to track our error budget status week-over-week, which are then reported on in these meetings by senior leadership.
+
+Engineering Managers are advised to report up to their managers, or self-report the status of their group on Monday's using the above document to ensure we have an accurate weekly snapshot of the sub-department's error budget status, outstanding reliability issue status, and past due security issues.
+
+#### Automating a weekly check-in on your error budget
+
+One way that groups can keep error budgets in mind is by automating a weekly reminder in Slack to check on their error budget.
+
+A [Slack workflow](https://gitlab.com/gitlab-com/gl-infra/scalability/-/snippets/2299544) can be created that allows any member of the team to provide a quick update on the current error budget status.
+
 ## Common Links
 
  * Issue Tracker
  * Slack Channels
-    * #engineering_dev
+    * #sd_dev_engineering
     * #s_manage
     * #s_plan
     * #s_create

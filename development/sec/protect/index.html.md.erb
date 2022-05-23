@@ -1,0 +1,83 @@
+---
+layout: handbook-page-toc
+title: Protect sub-department
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+The Protect engineering sub-department is responsible for the [Protect Stage](/handbook/product/categories/#protect-stage) of the product.
+
+
+## Vision
+
+Protect our users' applications, services, and infrastructure from the ever-evolving threat landscape.
+
+## Sub-department development people leaders
+
+
+<%=
+departments = ['Protect']
+department_regexp = /(#{Regexp.union(departments)})/
+
+direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Sec')
+%>
+
+### Backend
+<%=  direct_team(role_regexp: /Engineer(.*)Protect:Container Security/, manager_slug: 'thiagofigueiro') %>
+
+### Frontend
+<%=  direct_team(role_regexp: /Engineer(.*)Protect:Container Security/, manager_slug: 'nmccorrison') %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Protect/, direct_manager_role: nil, other_manager_roles: ['Frontend Engineering Manager, Secure:Threat Insights, Protect:Container Security', 'Backend Engineering Manager, Secure:Threat Insights, Protect:Container Security', 'Director of Engineering, Sec']) %>
+
+## Open-source projects
+
+The Protect uses and [contributes](https://gitlab.com/gitlab-org/protect/general/-/blob/master/README.md#outgoing-mrs) to a number of open source projects including:
+* [Kubernetes](https://kubernetes.io/)
+* [Trivy](https://github.com/aquasecurity/trivy)
+* [Grype](https://github.com/anchore/grype)
+
+
+## Skills
+
+Because we have a wide range of domains to cover, it requires a lot of different expertise and skills:
+
+| Technology skills  | Areas of interest         |
+| -------------------|---------------------------|
+| Ruby on Rails      | Backend development       |
+| Go                 | Backend development       |
+| Vue, Vuex          | Frontend development      |
+| GraphQL            | _Various_                 |
+| SQL (PostgreSQL)   | _Various_                 |
+| Docker/Kubernetes  | Threat Detection          |
+
+
+## Engineering Refinement & Planning
+
+We are constantly iterating on our [planning process](./planning/) as a team. To maximize our velocity and meet our deliverables, we follow a [refinement process for all issues](./planning/#refinement).
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Container Security" } %>
+
+### Product Documentation Links
+
+* [Security Dashboard](https://docs.gitlab.com/ee/user/application_security/security_dashboard/)
+* [Vulnerability Pages](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/)
+* [Security scanner integration](https://docs.gitlab.com/ee/development/integrations/secure.html)
+* [Secure and Protect terminology](https://docs.gitlab.com/ee/user/application_security/terminology/)
+
+### Slack
+
+* [Stage #s_protect](https://gitlab.slack.com/archives/s_protect)
+* [Group #g_protect_container_security](https://gitlab.slack.com/archives/CU9V380HW)
+
+### Technical Documentation Links
+
+* [End-to-end tests](https://gitlab.com/gitlab-org/gitlab/blob/master/qa/qa/specs/features/ee/browser_ui/10_protect)

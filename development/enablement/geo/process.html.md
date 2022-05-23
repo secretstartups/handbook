@@ -214,8 +214,8 @@ If any issue is weighted above a 3, we should ask ourselves if it can be further
 Every month, a Geo engineer is assigned to be the DRI for triaging issues labeled as `bug`. A different backend engineer is assigned to triage rotation each month and we schedule monthly shifts 3 to 6 months in advance.
 
 Process summary:
-1. Every week, the Engineering Manager assigns the automated triage issue to the triage DRI.
-1. The DRI will examine issues that do not yet have a `severity` applied yet. We have a [bug triage board](https://gitlab.com/groups/gitlab-org/-/boards/1077712?label_name[]=bug&label_name[]=group%3A%3Ageo) for easier viewing of bugs without `severity`. 
+1. Every week, the Engineering Manager assigns the automated triage issue to the triage DRI. The Due Date is set to the Monday of the following week, the DRI is expected to close the issue with the quick update: how many bugs were triaged, if one fixed any themself, and if there are any awaiting feedback.
+1. The DRI will examine the issues in the `Bug Section` that do not yet have a [severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) applied yet. We have a [bug triage board](https://gitlab.com/groups/gitlab-org/-/boards/1077712) for easier viewing of bugs without [severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity).
 1. For a given issue, the DRI will:
     1. Determine if the bug is easily reproducible. If more information is required, follow up with the issue author. If the issue does not fall under the Geo team's domain, ping the EM of the appropriate team or ask for Quality team's help by mentioning `@gitlab-org/issue-triage` in the comments.
         1. If you are awaiting feedback from an issue author, assign yourself and apply the `awaiting feedback` label.
@@ -226,12 +226,38 @@ Process summary:
         1. Severity of 1 or 2.
     1. If the bug requires further investigation or implementing the fix will require significant effort, the DRI should:
         1. Determine whether a workaround for the issue exists and document it.
-        1. Apply a `severity` label based on the impact of the bug and feasibility of any workarounds.
+        1. Apply a [severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) label based on the impact of the bug and feasibility of any workarounds.
         1. Apply the `workflow::scheduling` label so that the PM and EM can decide whether to schedule the issue or put in the `Backlog`.
+1. At the end of the month, the triage DRI will schedule a hand off meeting with the next triage DRI to cover any ongoing issues and any strategies for dealing with the backlog of issues.
 
 Expectations:
 - The DRI should spend 3-5 hours per week on triage/verification and a maximum of 20% work time (about 1 day per week) on resolving bugs.
 - If the DRI is unable to perform triage responsibilities due to PTO, they are expected to find a backup or notify the EM to find a backup.
+
+#### Bug Triage Schedule
+
+| Month     | Name |
+| -------   | ---- |
+| **2022**  |      |
+| July      | [`@cat`](https://gitlab.com/cat) |
+| June      | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
+| May       | [`@mkozono`](https://gitlab.com/mkozono) |
+| April     | @ibaum |
+| March     | @cat |
+| February  | @dbalexandre |
+| January   | @mkozono |
+| **2021**  |      |
+| December  | @dbalexandre |
+| November  | @vsizov |
+| October   | @ibaum |
+| September | @aakriti.gupta |
+| August    | @vsizov |
+| July      | @mkozono |
+| June      | @dbalexandre |
+| May       | @mkozono |
+| April     | @dbalexandre |
+| March     | @mkozono |
+| February  | @alexives |
 
 ## Retrospectives
 

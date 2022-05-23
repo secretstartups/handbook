@@ -1,0 +1,42 @@
+#### Code Review
+
+Access works on components of the application that have a far-reaching impact. Because only a simple change can cause widespread support tickets and/or production incidents, there is less room for error which requires us to take these extra steps:
+
+1. Access merge requests will be assigned to another Access engineer for first review in order to build more institutional knowledge across the team
+1. Access merge requests will include a comment that needs answered before merging, "Should this be behind a feature flag?" This is an effort to remind engineers about feature flag usage, but also to challenge reasoning as to why changes do not need to be behind a feature flag.
+1. Merge requests that are specific to Linear Namespaces will require a feature flag with gradual rollouts, either by grouping the work behind a single flag or by using multiple flags
+
+
+#### Security Rota
+
+The Access group are responsible for several product categories that attract a significant amount of scrutiny from a security perspective. An outcome of this is that we see a higher number of new security issues being created compared to other groups, which over time has caused the security backlog to grow. To help tackle the backlog, from milestone 13.3, we will assign 2 Backend Engineers per milestone to a security rota.
+
+The goal of this new process is to achieve more consistent progress in [burning through the backlog](https://app.periscopedata.com/app/gitlab/695525/Manage::Access-Backend-Overview). Historically we have focussed on solving high severity (severity::1/severity::2) issues, while trying to maintain a pragmatic balance with other concerns in the team - but this hasn't been effective in reducing the overall backlog. By dedicating capacity each milestone we can separate the planning of security issues from the main milestone goals, with the aim of introducing a more optimal process.
+
+Engineers who are part of the rota should work from [this board](https://gitlab.com/groups/gitlab-org/-/boards/1816615).
+
+| Release | Start Date | First Engineer | Second Engineer |
+|---:|---|---|---|
+| 13.3 | 17th July 2020 | [mksionek](https://gitlab.com/mksionek) | [dblessing](https://gitlab.com/dblessing) |
+| 13.4 | 17th August 2020 | [ifarkas](https://gitlab.com/ifarkas) | [manojmj](https://gitlab.com/manojmj)  |
+| 13.5 | ~28th September 2020 | [alexpooley](https://gitlab.com/alexpooley) | - |
+| 13.6 | ~26th October 2020 | [ifarkas](https://gitlab.com/ifarkas) | [manojmj](https://gitlab.com/manojmj) |
+| 13.7 | ~23rd November 2020 | [mksionek](https://gitlab.com/mksionek) | [sarcila](https://gitlab.com/sarcila) |
+| 14.0 | ~23rd May 2021 | [mksionek](https://gitlab.com/mksionek) | [dblessing](https://gitlab.com/dblessing) |
+| 14.1 | ~23rd June 2021 | [mksionek](https://gitlab.com/mksionek) | [dblessing](https://gitlab.com/dblessing) |
+| 14.2 | ~23rd July 2021 | [mksionek](https://gitlab.com/mksionek) | [dblessing](https://gitlab.com/dblessing) |
+| 14.3 | ~23rd August 2021 | | [serenafang](https://gitlab.com/serenafang) | [dblessing](https://gitlab.com/dblessing) |
+| 14.4 | ~23rd September 2021 | | [serenafang](https://gitlab.com/serenafang) |
+
+More information about security rota can be found [here](/handbook/engineering/development/dev/manage/security-rota/).
+
+#### Refinement
+
+To help with milestone planning, we encourage asynchronously weighing issues to help get them `ready for development`.
+
+1. Engineering Managers will review the refinement board (see links below) on a weekly basis.
+1. Each Engineer is assigned a few issues per week from the board to be weighed as per the [estimation](#estimation) process. Where possible, the people closest to the problem will be assigned.
+1. The Engineer assesses issue to determine if it is `workflow:ready for development` or not. Clarifying questions are asked on the issue. Product Manager adjusts description and scope as needed. This process may take a few days and the objective is to have an issue defined well enough to be estimated.
+1. Once all questions are answered and the issue description is updated, Engineering assigns a weight to the issue.
+1. To encourage collaboration, the Engineer will pick someone else from the team (at random) to review the discussion.
+1. If the reviewer is happy with the weight and scope they will set the `workflow:ready for development` label. Alternatively they should raise their concerns in the issue. If the proposal is changed, the issue description should be updated.

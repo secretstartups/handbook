@@ -11,45 +11,80 @@ title: Development Department
 
 ## Vision
 
-A world class development team of software engineers and managers who make our customers happy when using our product(s).   Our products should contain broad rich features, high availaiblity, high quality, fast performance, trustworthy security, and reliable operation.
+A world class development team of software engineers and managers who make our customers happy when using our product(s). Our products should contain broad rich features, high availability, high quality, fast performance, trustworthy security, and reliable operation.
 
 ## Mission
 
-The development department strives to deliver MRs fast.  MR delivery is a reflection of:
-* providing new product requirements
-* resolution of customer issues/bugs
-* fixing security problems
-* increasing availability, quality, and reliability
-* fostering open source community contributions
-* Improving user experience
-* fostering best agile practices for fast iterations
+The development department strives to deliver MRs fast. MR delivery is a reflection of:
+
+- providing new product requirements
+- resolution of customer issues/bugs
+- fixing security problems
+- increasing availability, quality, and reliability
+- fostering open source community contributions
+- Improving user experience
+- fostering best agile practices for fast iterations
 
 The department also focuses on career development and process to make this a preferred destination for high performing software engineers.
 
-We use data to make decisions.  If data doesn't exist we use anecdotal information.  If anecdotal information isn't available we use first principles.
+We use data to make decisions. If data doesn't exist we use anecdotal information. If anecdotal information isn't available we use first principles.
+
+## FY23 Direction
+
+FY23 begins much like FY22 with much ambition.   During FY22, the Development department focused on reliability/security, team, SUS and product.  In reliaiblity and security, we added Engineering Allocations and FCL processes to support the improvements.  We have improved the number of past due issues in both categories and continue to focus here to reduce further.  We have grown the team by a small amount during FY22 while keeping up with attrition.   We have set ourselves up for further growth in FY23.   We have begun to make further investment in improvements in SUS via component migrations.   Lastly, we have improved the product using normal product management and development processes.  Customers want to see these improvements as well as improvements in reliaiblity and security.
+
+As we have set ourselves at the end of FY22, FY23 will focus on growth, reliaiblity/security, efficiency, SUS improvements, support of top12 cross-functional initiatives and product.   
+
+### Growth
+
+This year the team will grow more than in FY22.   We have hiring goals which look to increase the department by over 20%.  We are expected to make hires such that we meet our hiring goals while not going over.  We have begun focus here by additional support via our recruiting team and more closely tracking the pipelines.  Each sub-department will set goals for their teams to hire based on planned headcount increases.  This will increase our investment in existing and new areas.  
+
+### Reliability and Security
+
+As in late FY22, we will continue to focus on reliability and security challenges in scaling our product.  We have focused on past due issues in both these areas.  Currently our goal is to reduce these areas to 0 where possible which means we are keeping up with security and reliability challenges.  For Q1 our goal will be to reduce past due infradev issues to below 2 and past due security issues to below 50.  These targets will continue to be lowered in later quarters.  
+
+### Efficiency
+
+As part of FY23, we want to see our team grow and continue to improve our efficiency.  We have seen a recent dip in our MR Rate for the organization.  We will work on improving this and training our new hires on what it means to be iterative.  Our goal is to improve from our currently levels back to 8 MRs per development team member.  
+
+### SUS improvements
+
+User experience is a continued focus area for FY23 working on the accomplishments of FY22. We support this effort both in the product development as well as in our architecture. This includes continued conversion of [Pajamas components](https://about.gitlab.com/handbook/engineering/ux/pajamas-design-system/) in order to continue to improve performance experienced by users. We have moved to a cadence of completing X issues per quarter.  Q1 our goal is 300 and this will continue throughout the year.  In parallel we will work on a SUS issues burndown.   We are starting with the goal of resolving all S1s in Q1.  We will continue this work into subesequent quarters on reduction in all severities.
+
+### Top 12 Cross-functional initiatives
+
+The development team is one of the larger departments in the company and in our role of product development we impact a large number of cross-organizational efforts.  We are involved in at 8 of the 12 top-12 cross-functional initiatives for FY23.  We will support these initiatives both there direct OKR efforts as well as normal product process support.   Our goal is to balance these initiatives along normal prioritization to attempt to make them all successful in the timeframes requested.  
+
+### Product
+
+Lastly, we will continue our strong partnership with Product to make GitLab the best, most complete DevSecOps platform on the planet. While we continue adding features to the product we must also work to identify technical debt and bring it to the prioritization discussion. We expect that Engineering managers are already addressing technical debt that is group specific with their Product Manager. 
+
+### Live our diversity value along geographic lines
+
+As part of the feedback from our CultureAmp survey, we heard that we need to focus on more geo diverse behaviors.  As a company we need to offset theatre focus which can happen due to some geographies being higher represented in the company.  We have started an OKR initiative to address this and will consider it in the coming quarters of the year.  
+
+## Organizational responsibilities
 
 The development team is responsible for developing products in the following categories:
 
-* [Dev](/handbook/engineering/development/dev/)
-* [Enablement](/handbook/engineering/development/enablement/)
-* [Fulfillment](/handbook/engineering/development/fulfillment/)
-* [Growth](/handbook/engineering/development/growth/)
-* [Ops](/handbook/engineering/development/ops/)
-* [Secure](/handbook/engineering/development/secure/)
-* [Threat Management](/handbook/engineering/development/threat-management/)
-
+- [Dev](/handbook/engineering/development/dev/)
+- [Sec](/handbook/engineering/development/sec/)
+- [Ops](/handbook/engineering/development/ops/)
+- [Enablement](/handbook/engineering/development/enablement/)
+- [Fulfillment](/handbook/engineering/development/fulfillment/)
+- [Growth](/handbook/engineering/development/growth/)
+- [ModelOps : Applied ML](/handbook/engineering/development/modelops/appliedml/)
 
 ## Team Members
 
 The following people are permanent members of the Development Department:
 
 <%
-departments = ['Verify', 'Package', 'Release', 'Protect', 'Dev' , 'Enablement', 'Fulfillment', 'Growth', 'Ops', 'Secure', 'Fellow']
+departments = ['Verify', 'Package', 'Release', 'Dev' , 'Enablement', 'Fulfillment', 'Growth', 'Ops', 'Sec', 'Fellow']
 department_regexp = /(#{Regexp.union(departments)})/
 %>
 
 <%=  direct_team(role_regexp: department_regexp, manager_role: 'VP of Development') %>
-
 
 ## Stable Counterparts
 
@@ -87,14 +122,103 @@ This is the stack-up of our engineers, by level.
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
 
+## Development-Specific People Processes
+
+### Promotion Process
+
+Aligned with the [company-wide promotion cadence](/handbook/people-group/promotions-transfers/#promotions-process--timeline), Development utilizes a quarterly process to collect, validate, approve, review all promotion proposals prior to them being added via the company-wide [process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process). The goal of this quarterly promotion projection and review is to:
+
+- Promote the right people at the right time
+- Maintain a high bar for promotions
+- Ensure predictability and intentionality with promotions
+- Ensure alignment with overall company [promotion rate](/handbook/people-group/people-success-performance-indicators/#promotion-rate)
+- Add another layer of review to reduce bias in the promotion process
+
+Development adheres to the company-wide quarterly timeline outlined [here](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotions-process--timeline) as our SSOT.
+
+**The Development Department has an additional formal step built in to our promotion process beyond what the company is currently adhering to through our peer review process**. Ahead of the commencement of the [Calibration](/handbook/people-group/promotions-transfers/#calibration) stage of our process, all promotion documents should be peer reviewed by a Senior Manager or Director. The due date to complete the peer review is _before_ the scheduled Calibration session. 
+
+FY'23 Calibration sessions:
+1. FY23-Q1: January 13, 2021
+2. FY23-Q2: April 7, 2022
+
+Calibration session attendees are the following team members: Senior Managers, Directors, Sr. Directors, VP, and Development's aligned People Business Partner. Leaders are welcome to conduct Calibration sessions prior to the scheduled sessions above with their sub-departments as well (though this is not a requirement). 
+
+We use a [peer review process](/handbook/engineering/development/promotion-process/) to collaborate on proposed promtions.
+
+### Talent Assessment Process
+
+Company-wide guidelines on the Talent Assessment can be found [here](https://about.gitlab.com/handbook/people-group/talent-assessment/#timeline). The company timeline for the process remains SSOT, the guidelines are below are meant to:
+
+- Provide additional check points and due dates built into the company-wide timeline for Development specifically (as one of the larger departments at GitLab)
+- Guidance on department-specific calibration section structure (attendees, leveling, etc.) 
+- Outline our strategy in terms of who we will be calibrating in the Development Department
+
+#### Who Are We Calibrating?
+
+We will be reviewing outliers for Performance/Growth and anyone identified as Key Talent for calibration this cycle. Formal calibration will take place at the Senior Manager, Director, and VP levels. The thought process around who qualifies as an "outlier" for Performance and Growth [is outlined here](/handbook/people-group/talent-assessment/#who-do-i-calibrate). 
+
+Calibration and assesment are two different steps in the process. The assessment phase is the process of assessing each team member to determine their Performance and Growth, whereas the calibration phase (occurring after initial assessments are made) is when management calibrates across the stage/org/level/etc. to discuss and align on assessments. Every team member should be assessed and have supporting points to justify those assessments - but to make calibration sessions more focsued and scalable, we focus on [outliers](/handbook/people-group/talent-assessment/#who-do-i-calibrate). 
+
+For Development specifically, we will calibrate anyone in [Boxes, 1, 2, 3, 7, 8, 9](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix) aligned with [company-wide guidelines](/handbook/people-group/talent-assessment/#who-do-i-calibrate). It's important to note that while these will be our focus areas for calibration sessions, managers should feel free to raise any team member's assessment up for discussions if they have any questions or concerns. Calibrating outliers is not a limitation, but rather a structural adjustment to ensure this process is scalable and focused. 
+
+_Note: If individual teams want to calibrate every individual, they have the ability to do this/organize/structure separately, but the due dates remain in place across the department to ensure we have enough time to review and calibrate at the various levels in the company._
+
+#### How To Assess Acting/Interim
+
+For team members who have assumed an [Acting or an Interim role](/handbook/people-group/promotions-transfers/#interim-and-acting-roles), we will assess team members aligned with their *permanent positions* (I.E. not the Acting or Interim position). 
+
+As the Talent Assessment impacts compensation, and Acting/Interim periods are not permanent, in the instance that a team member does not end up moving into the Acting/Interim role permanently, we would not want to have their compensation impacted by a temporary position.
+
+#### Pre-Calibration Prep Work
+
+In addition to the [calibration session pre work](https://about.gitlab.com/handbook/people-group/talent-assessment/#calibration-session-guidelines) on the Talent Assessment page, we ask that you review the following guidelines:
+
+1. Performance and Growth assessments need to be completed and added to the session agenda doc at least 3 business days before the live calibration session. 
+Each individual should have at least 3 supporting points for the assessment under each pillar (Performance and Growth) added to the agenda doc to help support the “why” behind the assessment. 
+
+1. Key Talent assessment need to be completed and added to the session agenda doc at least 3 business days before the live calibration session. 
+If an individual is indicated as key talent, an explanation should be added to indicate how this individual qualifies as key talent against our [key talent definition](/handbook/people-group/talent-assessment/#key-talent). Reminder that the bar for key talent is set high, and that key talent makes up roughtly ~10% of the entire population. In Development, we will be assessing Key Talent from the Senior Manager level and above [aligned with guidelines](/handbook/people-group/talent-assessment/#process-to-determine-key-talent), meaning that while *everyone in the organization is eligible to be identified as Key Talent*, Senior Managers+ will be assessing and making these initial nominations. The rationale behind this decision is that is important to have a holistic view of all team members when determining who meets the key talent criteria, which is why we require a certain scope when assessing key talent in the organization. 
+
+1. Every session attendee should review the Performance/Growth assessments and Key Talent overviews for outliers asynchronously ahead of the session to be prepared for live discussion/calibration. 
+
+**Important**: Be sure to reference our [Resources](https://about.gitlab.com/handbook/people-group/talent-assessment/#resources) for different templates and material to help with the assessment and calibration processes. In particular, we ask that all managers leverage the [Talent Assessment Calibration Spreadsheet template provided](https://about.gitlab.com/handbook/people-group/talent-assessment/#resources) to ensure a consistent format for Performance/Growth assessment calibration and finalizing assessments so we have a format that is compatible with uploading directly to BambooHR to minimize error. Note that this sheet also includes a couple of columns for Key Talent assessment and nominations. Given that not all levels of management assess Key Talent, this will not apply for all people managers. If Key Talent is not assessed at your level, feel free to simply remove these columns.
+
+#### Calibration Session Structure
+
+We will calibrate by level within the Development department as a whole to ensure we have consistency and visibility across sub-departments. 
+
+| Session Number | Attendees | Calibration Level Focus | Session Date | Timezone Alignment | Duration |
+| --------------- | ----------------- |----------------- |----------------- |----------------- |----------------- |
+| Session 1  | Senior Managers+ (people managers only) + PBP | Intermediate level outliers | 2021-11-10 | EMEA/Americas | 1.5 hours |
+| Session 2  | Senior Managers+ (people managers only) + PBP | Intermediate level outliers | 2021-11-10 | APAC/Americas | 1 hour |
+| Session 3 | Senior Managers+ (people managers only) + PBP | Senior level outliers | 2021-11-12 | EMEA/Americas | 2 hours |
+| Session 4 | Senior Managers+ (people managers only) + PBP | Senior level outliers | 2021-11-15 | APAC/Americas | 2 hours |
+| Session 5 | Senior Managers+ (people managers only) + PBP | Senior level outliers | 2021-11-18 | EMEA/Americas | 1 hour |
+| Session 6 | Senior Managers+ (people managers only) + PBP | Staff/EM/Principal/Distinguished level outliers | 2021-11-18 | EMEA/Americas | 1.5 hours
+| Session 7 | Senior Managers+ (people managers only) + PBP | Staff/EM/Principal/Distinguished level outliers | 2021-11-18 | APAC/Americas | 1.5 hours
+| Session 8 | Director+ (people managers only) + PBP | Calibrate Senior Manager level outliers | 2021-11-19 | EMEA/Americas |1 hour |
+| Session 9 | VP and PBP | Calibrate Director/Senior Director and Engineering Fellow level outliers | 2021-11-29 | Americas | 1.5 hours |
+
+
+### Timeline 
+
+Below are level-specific calibration due dates for the Development Department. 
+
+- 2021-11-09: Engineering Manager calibration at the team level with their leadership team (Senior Managers and/or Directors) complete (_Note: This is not part of the formal process and is optional, but it is recommended to ensure that Senior Managers+ are prepared for future calibration sessions_) 
+- 2021-11-16: Senior Manager level calibration finalized (sessions 1-7 above)
+- 2021-11-19: Director level calibration finalized (session 8 above)
+- 2021-11-29: VP level calibration finalized (session 9 above)
+
 ## How We Work
 
 ### Onboarding
+
 Welcome to GitLab! We are excited for you to join us.
 Here are some curated resources to get you started:
 
-* [Joining as an Engineer](/handbook/developer-onboarding/)
-* [Joining as an Engineering Manager](/handbook/engineering/development/onboarding/manager/)
+- [Joining as an Engineer](/handbook/developer-onboarding/)
+- [Joining as an Engineering Manager](/handbook/engineering/development/onboarding/manager/)
 
 ### Cross Functional Collaboration
 
@@ -106,67 +230,85 @@ We do this to ensure that the team responsible for that area of the code base is
 
 #### Architectural Collaboration
 
-At times when cross-functional, or cross-departmental architectural collaboration is needed, the [GitLab Architecute Evolution Workflow](/handbook/engineering/architecture/) should be followed.
+At times when cross-functional, or cross-departmental architectural collaboration is needed, the [GitLab Architecute Evolution Workflow](/handbook/engineering/architecture/) should be followed. 
+
+#### Decisions requiring approvals
+
+At GitLab we value [freedom and responsibility over rigidity](/handbook/values/#freedom-and-responsibility-over-rigidity). However, there are some technical decisions that will require approval before moving forward. Those scenarios are outlined in our [required approvals](/handbook/engineering/development/required-approvals.html) section.
 
 ### Development Headcount planning
 
-Development's headcount planning follows the Engineering [headcount planning](/handbook/engineering/#headcount-planning) and [long term profitability targets](/handbook/engineering/#long-term-profitability-targets).  Development headcount is a percentage of overall engineering headcount.  For FY20, the headcount size is 271 or ~58% of overall engineering headcount.
+Development's headcount planning follows the Engineering [headcount planning](/handbook/engineering/#headcount-planning) and [long term profitability targets](/handbook/engineering/#long-term-profitability-targets). Development headcount is a percentage of overall engineering headcount. For FY20, the headcount size is 271 or ~58% of overall engineering headcount.
 
-We follow normal span of control both for our managers and directors of [4 to 10](/company/team/structure/#management-group).  Our sub-departments and teams match as closely as we can to the [Product Hierarchy](/handbook/product/categories/#hierarchy) to best map 1:1 to [Product Managers](/handbook/product/).
+We follow normal span of control both for our managers and directors of [4 to 10](/company/team/structure/#management-group). Our sub-departments and teams match as closely as we can to the [Product Hierarchy](/handbook/product/categories/#hierarchy) to best map 1:1 to [Product Managers](/handbook/product/).
+
+### Development Staff Meeting
+
+While we try to work as much as possible async, the Development department leadership does meet synchronously on a cadence of weekly. This meeting coordinates initiatives, communicates relevant information, discusses more difficult decisions, and provides feedback on how we are progressing as an organization. As part of this meeting, we discuss our culture of reliability monthly. This was part of the agenda spawned from an initiative we took up in August of 2021. We want to make sure we keep the organization healthy when thinking about reliability in every part of our work. 
 
 ### Daily Duties for Engineering Directors
 
-The following is a non exhaustive list of daily duties for engineering directors, while some items are only applicable at certain time, though.
-* Review engineering metrics
-  * [Development Department Performance Indicators](/handbook/engineering/development/performance-indicators/)
-  * Sub-department Performance Indicators
-     * [Dev](/handbook/engineering/development/performance-indicators/dev/)
-     * [Enablement](/handbook/engineering/development/performance-indicators/enablement/)
-     * [Fulfillment](/handbook/engineering/development/performance-indicators/fulfillment/)
-     * [Growth](/handbook/engineering/development/performance-indicators/growth/)
-     * [Ops](/handbook/engineering/development/performance-indicators/ops/)
-     * [Secure](/handbook/engineering/development/performance-indicators/secure/)
-     * [Threat management](/handbook/engineering/development/performance-indicators/threat-management/)
-* Review hiring dashboards
-* Personal todo list
-* Personal GitLab board(s) if any
-* [Working groups](/company/team/structure/working-groups/) that the director drives or participates in
-  * Action items in agenda documents
-  * Issue boards
-  * Slack channel
-* [Performance refinement](/handbook/engineering/workflow/#performance-refinement)
-  * Follow up open questions and ensure appropriate handling of issues with regard to priority and severity
-  * [Agenda document](https://docs.google.com/document/d/1icG6yrW2oebXz8iXvgfM5JjtMqpsDBCn1v3_VO2ghS0/edit#)
-  * [Performance board](https://gitlab.com/groups/gitlab-org/-/boards/1233204)
-* [Infrastructure Development Escalations](/handbook/engineering/workflow/#infradev)
-  * Triage new issues, enhance Issue details and ensure appropriate handling based on priority and severity
-  * Sync discussions for infradev Issues are part of the [GitLab SaaS Weekly Meeting](https://about.gitlab.com/handbook/engineering/infrastructure/#gitlab-saas-infrastructure)
-  * [Agenda document](https://docs.google.com/document/d/1fLQQBKt0mShmTk_mJ-BmBM6OFjal63-AH7yKSbMg6_s/edit#)
-  * [Infradev board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev)
-* Follow active [Engineering Rapid Action(s)](#rapid-action-issue) that the director sponsors
-  * Standup/status update document
-  * Issue board
-* Holiday Emergency Contact Rotations
+This section applies to those who report to the VP of Development
 
-#### Holiday Coverage of Year 2020
-The schedule below covers the period from 2020-12-18 to 2021-01-04. To reach the emergency contacts, please send Slack as well as Text(when possible) messages for timely responses. The phone numbers can be found in Slack profiles.
+The following is a non exhaustive list of daily duties for engineering directors, while some items are only applicable at certain time, though.
+
+1. Review engineering metrics
+    1. [Development Department Performance Indicators](/handbook/engineering/development/performance-indicators/)
+    1. Sub-department Performance Indicators
+    1. [Dev](/handbook/engineering/development/performance-indicators/dev/)
+    1. [Enablement](/handbook/engineering/development/performance-indicators/enablement/)
+    1. [Fulfillment](/handbook/engineering/development/performance-indicators/fulfillment/)
+    1. [Growth](/handbook/engineering/development/performance-indicators/growth/)
+    1. [Ops](/handbook/engineering/development/performance-indicators/ops/)
+    1. [Secure](/handbook/engineering/development/performance-indicators/secure/)
+    1. [Protect](/handbook/engineering/development/performance-indicators/protect/)
+1. Review hiring dashboards
+1. Personal todo list
+1. Personal GitLab board(s) if any
+1. [Working groups](/company/team/structure/working-groups/) that the director drives or participates in
+    1. Action items in agenda documents
+    1. Issue boards
+    1. Slack channel
+1. [Infradev triage](/handbook/engineering/workflow/#infradev)
+    1. Follow up open questions and ensure appropriate handling of issues with regard to priority and severity
+    1. [Agenda document](https://docs.google.com/document/d/1wMokFji42Jw4ImfoiQG6dSkHFIWmLVj5Kz6bO3mF948/edit)
+    1. [Infradev board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name%5B%5D=infradev)
+1. [Performance refinement](/handbook/engineering/workflow/#performance-refinement)
+    1. Follow up open questions and ensure appropriate handling of issues with regard to priority and severity
+    1. [Agenda document](https://docs.google.com/document/d/1icG6yrW2oebXz8iXvgfM5JjtMqpsDBCn1v3_VO2ghS0/edit#)
+    1. [Performance board](https://gitlab.com/groups/gitlab-org/-/boards/1233204)
+1. [Infrastructure Development Escalations](/handbook/engineering/workflow/#infradev)
+    1. Triage new issues, enhance Issue details and ensure appropriate handling based on priority and severity
+    1. Sync discussions for infradev Issues are part of the [GitLab SaaS Weekly Meeting](https://about.gitlab.com/handbook/engineering/infrastructure/#gitlab-saas-infrastructure)
+    1. [Agenda document](https://docs.google.com/document/d/1fLQQBKt0mShmTk_mJ-BmBM6OFjal63-AH7yKSbMg6_s/edit#)
+    1. [Infradev board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name%5B%5D=infradev)
+1. Follow active [Engineering Global Prioritization(s)](#global-prioritization) that the director sponsors
+    1. Standup/status update document
+    1. Issue board
+1. Holiday Emergency Contact Rotations
+1. [Review and approve security approvals](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12296) for the GitLab project when required and informing the security engineering team when a security risk is accepted rather than being resolved prior to approval.
+
+#### Holiday Coverage of Year 2021
+The schedule below covers the period from 2021-12-20 to 2022-01-03. To reach the emergency contacts, please send Slack as well as Text(when possible) messages for timely responses. The phone numbers can be found in Slack profiles.
 
 | Name | Time Zone | Available Dates |
 | :--- | :-------: | :-------------: |
-| Chun Du | PST - GMT-8 (Portland, OR) | December 18, 24 - 27, January 4 |
-| @dcroft | PST - GMT-8 (San Diego, CA) | December 18th - 23rd, December 29th - January 3rd |
-| Bartek Marnane | AEDT - GMT+11 (Sydney, AU) | December 19-23, 28-January 3rd |
-| Christopher Lefelhocz | GMT-6 (Central timezone) | December 19-23, 28-January 3rd |
-| Wayne Haber | GMT-5 (Eastern US timezone) | December 27-January 3 |
-| Sam Goldstein | GMT-8 (Portland, OR) | December 18-19, 26-January 3rd |
-| Tim Zallmann | GMT+1 (Vienna, Austria) | December 21-22, 28 - January 3rd |
-|      |           |                 |
+| Chun Du | GMT-8 (Portland, OR) | December 20 - January 3 |
+| Craig Gomes | GMT-8 (Portland, OR) | December 20 - January 3 |
+| Sam Goldstein | GMT-8 (Portland, OR) | December 20 - January 3 |
+| Wayne Haber | GMT-5 (NYC) | January 3 |
+| Todd Stadelhofer | GMT-8 (Portland, OR) | December 27 - January 3 |
+| Christopher Lefelhocz | GMT-6 (San Antonio, TX) | 2021-12-20 - 2021-12-22, 2021-12-25 - 2021-12-29, 2022-01-02 |
+| Darva Satcher | GMT-5 | December 24,27,31 |
+| Phil Calder | GMT+13 (Wellington, New Zealand) | December 20 - December 23 |
+| Tim Zallmann | GMT+1 (Vienna, Austria) | December 20 - December 23 |
 
 ### Developing and Tracking OKRs
 
 In general, OKRs flow top-down and align to the company and upper level organization goals.
 
 #### Managers and Directors
+
 For managers and directors, please refer to a good [walk-through example of OKR format](/company/okrs/#example-developments-approach-to-okrs) for developing team OKRs. Consider stubbing out OKRs early in the last month of the current quarter, and get the OKRs in shape (e.g. fleshing out details and making them [SMART](https://en.wikipedia.org/wiki/SMART_criteria)) no later than the end of the current quarter.
 
 It is recommended to assess progress **weekly**.
@@ -186,8 +328,28 @@ Below are tips for developing individual's OKRs:
 1. Follow the same progress assessment instructions above.
 
 #### Examples
+
 1. [Engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7253)
 1. [Development](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7148)
+
+## Engineering Allocations and Tracking
+
+[Engineering Allocation](https://about.gitlab.com/handbook/engineering/#engineering-allocation) require us to track goals with more diligence and thought.  We need confidence that we’re making correct decisions and executing well to these initiatives. As such, you will see us reviewing these more closely than other initiatives.  We will meet on a cadence to review these initiatives and request additional reporting to support the process.  Possible requests for additional data:
+
+1. [Demos](https://about.gitlab.com/handbook/engineering/demos/)
+1. [GitLab Roadmaps](https://docs.gitlab.com/ee/user/group/roadmap/)
+1. [Gitlab Architecture Workflow](https://about.gitlab.com/handbook/engineering/architecture/workflow/)
+1. <span class="colour" style="color: rgb(0, 0, 0);">Dogfooding of features we think may be useful</span>
+
+We will hold Engineering Allocation Checkpoints on a cadence.  The recommended cadence is weekly.
+
+#### Roadmaps for Engineering Allocations
+
+We track Engineering Allocation [roadmaps](https://gitlab.com/groups/gitlab-org/-/roadmap?state=opened&sort=end_date_asc&label_name%5B%5D=Engineering+Allocation).  To use this effectively, roadmaps must have correct dates for their epic and weights assigned to issues.  If a team does not normally use weights, then assign each issue a weight of 1 (all issues are equal).  
+
+#### Team allocation measurement
+
+Each team needs to demonstrate how there allocation is being used.  This is done to verify we are not over/under investing for a given initaitive.  This can be done via assignment (people assigned to work) and/or issues assigned.  We will track [issues and MRs](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11340) and see as a percentage how that compares to the overall teams work.  
 
 ### Ownership of Shared Services and Components
 
@@ -198,124 +360,71 @@ The GitLab application is built on top of many shared services and components, s
 There are a few available models to choose from so that the flexibility is maximized to streamline what works best for a specific shared service and component.
 
 1. Centralized with Specific Team
-   1. A single group owns the backlog of a specific shared service including new feature requests, bug fixes, and technical debt. There may or may not be a counterpart Product Manager.
-   1. The single group is a specific team, meaning there is an engineering manager and all domain owner individuals reside in this team. The DRI is the engineering manager.
-   1. This single group is expected to collaborate closely and regularly in grooming and planning backlog.
-   1. This model may require consensus from the Product Management counterpart.
-   1. This model may fit a subject domain that experiences active development.
+    1. A single group owns the backlog of a specific shared service including new feature requests, bug fixes, and technical debt. There may or may not be a counterpart Product Manager.
+    1. The single group is a specific team, meaning there is an engineering manager and all domain owner individuals reside in this team. The DRI is the engineering manager.
+    1. This single group is expected to collaborate closely and regularly in grooming and planning backlog.
+    1. This model may require consensus from the Product Management counterpart.
+    1. This model may fit a subject domain that experiences active development.
 1. Centralized with Virtual Team
-   1. A single group owns the backlog of a specific shared service including new feature requests, bug fixes, and technical debt. There may or may not be a counterpart Product Manager.
-   1. The single group is a virtual team, meaning it consists of engineers from various engineering teams, for example maintainers or subject matter experts. Typically there isn't an engineering manager for this virtual team. The DRI is an appointed person in the group who may not necessarily be an engineering manager.
-   1. This single group is expected to collaborate closely and regularly in grooming and planning backlog.
-   1. This model may fit a subject domain that's in maintenance mode.
+    1. A single group owns the backlog of a specific shared service including new feature requests, bug fixes, and technical debt. There may or may not be a counterpart Product Manager.
+    1. The single group is a virtual team, meaning it consists of engineers from various engineering teams, for example maintainers or subject matter experts. Typically there isn't an engineering manager for this virtual team. The DRI is an appointed person in the group who may not necessarily be an engineering manager.
+    1. This single group is expected to collaborate closely and regularly in grooming and planning backlog.
+    1. This model may fit a subject domain that's in maintenance mode.
 1. Collectives
-   1. Collectives consist of individuals from existing teams who voluntarily rally around a shared interest or responsibility, but unlike Working Groups may exist in perpetuity. The shared interest could be a specific technology or system. Collective members feel a collective responsiblity to weakly own, improve upon or otherwise steer the subject they govern.
-   1. This is a weaker form of the Virtual Team but introduces more structure than a fully decentralized model. It can be appropriate when some form of ownership is desirable where the subject has cross-cutting impact and wide reach and cannot clearly be allocated to any specific team.
-   1. Collectives do not have product or engineering managers, they are fully self-governed.
-   1. Members of the Collective sync regularly and keep each other informed about the shared interest. Problem areas are identified and formalized in the Collective, but are not logged into a Collective backlog. Instead a DRI is assigned who should put the task forward to the team with the greatest need for the problem to be resolved. This is to ensure that work is distributed fairly and that there are no two backlogs that compete with each other for priorities.
-   1. Collectives work best when they consist of a diverse set of individuals from different areas of product and engineering. They double as knowledge sharing hubs where information is exchanged from across teams in the Collective first, and then carried back by the individuals to their specific teams.
+    1. Collectives consist of individuals from existing teams who voluntarily rally around a shared interest or responsibility, but unlike Working Groups may exist in perpetuity. The shared interest could be a specific technology or system. Collective members feel a collective responsibility to weakly own, improve upon or otherwise steer the subject they govern.
+    1. This is a weaker form of the Virtual Team but introduces more structure than a fully decentralized model. It can be appropriate when some form of ownership is desirable where the subject has cross-cutting impact and wide reach and cannot clearly be allocated to any specific team.
+    1. Collectives do not have product or engineering managers, they are fully self-governed.
+    1. Members of the Collective sync regularly and keep each other informed about the shared interest. Problem areas are identified and formalized in the Collective, but are not logged into a Collective backlog. Instead a DRI is assigned who should put the task forward to the team with the greatest need for the problem to be resolved. This is to ensure that work is distributed fairly and that there are no two backlogs that compete with each other for priorities.
+    1. Collectives work best when they consist of a diverse set of individuals from different areas of product and engineering. They double as knowledge sharing hubs where information is exchanged from across teams in the Collective first, and then carried back by the individuals to their specific teams.
 1. Decentralized
-   1. The team who implements specific functions or utilizes certain features of the shared services is responsible for their changes from local development environment to production deployment to continued maintenance post-deployment. There is not a development-wide single DRI who owns a portion or the entirety of a shared service.
-   1. A specialty team may exist for specific subject domains, however their role is to enable scalability, availability, and performance by building a solid foundation and great tools for testing and troubleshooting for other engineering teams, while they are not responsible for gating every single change in the subject domain.
+    1. The team who implements specific functions or utilizes certain features of the shared services is responsible for their changes from local development environment to production deployment to continued maintenance post-deployment. There is not a development-wide single DRI who owns a portion or the entirety of a shared service.
+    1. A specialty team may exist for specific subject domains, however their role is to enable scalability, availability, and performance by building a solid foundation and great tools for testing and troubleshooting for other engineering teams, while they are not responsible for gating every single change in the subject domain.
 
 #### Shared Services and Components
 
 The shared services and components below are extracted from the GitLab [product documentation](https://docs.gitlab.com/ee/development/architecture.html).
 
-| Service or Component | Sub-Component | Ownership Model | DRI (Centralized Only) |  Ownership Group (Centralized Only) | Additional Notes |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| Alertmanager |  |  |  |  |  |
-| Certmanager |  |  |  |  |  |
+| Service or Component | Sub-Component | Ownership Model | DRI (Centralized Only) | Ownership Group (Centralized Only) | Additional Notes |
+| -------------------- | ------------- | --------------- | ---------------------- | ---------------------------------- | ---------------- |
+| Alertmanager |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
+| Certmanager |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
 | Consul |  |  |  |  |  |
-| Container Registry |  | Centralized with Specific Team | @jhampton | Package |  |
+| Container Registry |  | Centralized with Specific Team | @dcroft | Package |  |
 | Email - Inbound |  |  |  |  |  |
 | Email - Outbound |  |  |  |  |  |
 | GitLab K8S Agent |  | Centralized with Specific Team | @nicholasklick | Configure |  |
-| GitLab Pages |  | Centralized with Specific Team | @nicolewilliams | Release |  |
+| GitLab Pages |  | Centralized with Specific Team | David O'Regan @oregand | Editor |  |
 | GitLab Rails |  | Decentralized |  |  | DRI for each controller is determined by the feature category specified in the class. [app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/controllers) and [ee/app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/controllers) |
-| GitLab Shell |  |  |  |  |  |
-| HAproxy |  | Centralized with Specific Team | @brentnewton | [Infrastructure](/handbook/engineering/infrastructure/) |  |
-| Jaeger |  | Centralized with Specific Team | @AnthonySandoval | Infrastructure:Observability | Observability team made the [initial implementation/deployment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/210). |
-| LFS |  |  |  |  |  |
-| Load Balancer |  |  |  |  |  |
-| Logrotate |  |  |  |  |  |
-| Mattermost |  |  |  |  |  |
-| MinIO |  |  |  |  |  |
-| NFS |  |  |  |  |  |
+| GitLab Shell |  | Centralized with Specific Team | @sean_carroll | [Create:Source Code](https://about.gitlab.com/handbook/engineering/development/dev/create/source-code-be/) | [Reference](/handbook/product/categories/#source-code-group-1) |
+| HAproxy |  | Centralized with Specific Team | @sloyd | [Infrastructure](/handbook/engineering/infrastructure/) |  |
+| Jaeger |  | Centralized with Specific Team | @sloyd | Infrastructure:Observability | Observability team made the [initial implementation/deployment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/210). |
+| LFS |  | Centralized with Specific Team | @sean_carroll | [Create:Source Code](https://about.gitlab.com/handbook/engineering/development/dev/create/source-code-be/) |  |
+| Logrotate |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
+| Mattermost |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
+| MinIO |  | Decentralized |  |  | Some issues can be broken down into group-specific issues. Some issues may need more work identifying user or developer impact in order to find a DRI. |
 | NGINX |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
-| Object Storage |  |  |  |  |  |
+| Object Storage |  | Decentralized |  |  | Some issues can be broken down into group-specific issues. Some issues may need more work identifying user or developer impact in order to find a DRI. |
 | Patroni | General except Geo secondary clusters | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
-| | Geo secondary standby clusters | Centralized with Specific Team | @nhxnguyen | [Geo](/handbook/engineering/development/enablement/geo/) |  |
+|  | Geo secondary standby clusters | Centralized with Specific Team | @nhxnguyen | [Geo](/handbook/engineering/development/enablement/geo/) |  |
 | PgBouncer |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
-| PostgreSQL | PostgreSQL Framework and Tooling |  Centralized with Specific Team  | @Craig Gomes | [Database](/handbook/engineering/development/enablement/database/) | Specific to the development portion of PostgreSQL, such as the fundamental architecture, testing utilities, and other productivity tooling |
-| | GitLab Product Features |  Decentralized  | | | Examples like feature specific schema changes and/or performance tuning, etc. |
-| Prometheus |  |  |  |  |  |
-| Puma |  |  |  |  |  |
-| Redis |  |  |  |  |  |
-| Sentry |  |  |  |  |  |
+| PostgreSQL | PostgreSQL Framework and Tooling | Centralized with Specific Team | @alexives | [Database](/handbook/engineering/development/enablement/database/) | Specific to the development portion of PostgreSQL, such as the fundamental architecture, testing utilities, and other productivity tooling |
+|  | GitLab Product Features | Decentralized |  |  | Examples like feature specific schema changes and/or performance tuning, etc. |
+| Prometheus |  | Decentralized |  |  | Each group maintains their own metrics.  |
+| Puma |  | Centralized with Specific Team | @changzhengliu | [Memory](/handbook/engineering/development/enablement/memory/) |  |
+| Redis |  | Decentralized |  |  | DRI is similar to Sidekiq which is determined by the feature category specified in the class. [app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/workers) and [ee/app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/workers) |
+| Sentry |  | Decentralized |  |  | DRI is similar to GitLab Rails which is determined by the feature category specified in the class. [app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/controllers) and [ee/app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/controllers) |
 | Sidekiq |  | Decentralized |  |  | DRI for each worker is determined by the feature category specified in the class. [app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/workers) and [ee/app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/workers) |
-| Workhorse |  | Centralized with Specific Team | Sean Carroll | Create: Source Code BE  | Team does not work on most Workhorse features and has reduced development capacity |
+| Workhorse |  | Centralized with Specific Team | @sean_carroll | [Create:Source Code](https://about.gitlab.com/handbook/engineering/development/dev/create/source-code-be/) |  |
 
 ## Learning Resources
 
-### Secure coding best practices
-
-It is important that all developers are aware of [secure coding best practices](/handbook/engineering/security/secure-coding-training.html) and refresh this knowledge periodically.  This is tracked via [Secure Coding Training Guidelines](secure-coding/).
-
-### Ruby on Rails Performance Training
-
-The materials from an earlier Ruby on Rails performance workshop can be found on [internally shared Google drive](https://drive.google.com/drive/search?q=in:0ACCfBKgYFjLvUk9PVA).
-
-#### Video Sessions
-
-| Day | Topics | Video Links |
-| --- | --- | --- |
-| Session - Day 1 | Intro and overview | [Monday](https://drive.google.com/drive/search?q=title:%22day%201%20session%22%20parent:15EaLvFMexoJu7pHQQdTDuInhFRk_lOLq) [Wednesday](https://drive.google.com/drive/search?q=title:%22day%201%20session%22%20parent:1dJ08oeWdff4BpcrlVjuRQIPARYXE-LGY) |
-| Session - Day 2 | Tools | [Monday](https://drive.google.com/drive/search?q=title:%22day%202%20session%22%20parent:15EaLvFMexoJu7pHQQdTDuInhFRk_lOLq) [Wednesday](https://drive.google.com/drive/search?q=title:%22day%202%20session%22%20parent:1dJ08oeWdff4BpcrlVjuRQIPARYXE-LGY) |
-| Session - Day 3 | SQL and N+1 Troubleshooting | [Monday](https://drive.google.com/drive/search?q=title:%22day%203%20session%22%20parent:15EaLvFMexoJu7pHQQdTDuInhFRk_lOLq) [Wednesday](https://drive.google.com/drive/search?q=title:%22day%203%20session%22%20parent:1dJ08oeWdff4BpcrlVjuRQIPARYXE-LGY)|
-| Session - Day 4 | Queueing Theory | [Monday](https://drive.google.com/drive/search?q=title:%22day%204%20session%22%20parent:15EaLvFMexoJu7pHQQdTDuInhFRk_lOLq) [Wednesday](https://drive.google.com/drive/search?q=title:%22day%204%20session%22%20parent:1dJ08oeWdff4BpcrlVjuRQIPARYXE-LGY) |
-
-### Database
-
-Here is the information of a PostgreSQL query optimization bot at GitLab - Joe: [Blueprint](/handbook/engineering/infrastructure/library/database/postgres/query-optimization-bot/blueprint/) and [Design](/handbook/engineering/infrastructure/library/database/postgres/query-optimization-bot/design/).
-
-### Frontend
-
-#### Frontend Masters
-
-[Frontend Masters](https://frontendmasters.com) allows you to advance your skills with in-depth, modern frontend engineering courses.
-
-GitLab has an account with Frontend Masters and team members can gain access to it by creating an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and select the best option for your situation ([single user](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), [bulk user](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Bulk_Access_Request), etc.) and, once approved by your manager, assign to the Access Request Provisioner listed in the [Tech Stack](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0) for this system. Once your access has been provisioned, you will receive an email to activate your account.
-
-You can also join the [#frontendmasters](https://gitlab.slack.com/archives/C0151MXP6JH) Slack channel for course recommendations and discussion.
-
-### GraphQL
-
-We use GraphQL alongside our REST API at GitLab and are increasingly adding new features to the GraphQL API over time.
-
-The GraphQL API can be added to by anyone, including [community members](/handbook/development/contributing). We have a group of self-selected team members who are willing to help with any GraphQL questions you may have. You can get in touch with them by mentioning `@gitlab-org/graphql-experts` in any GitLab issue or merge request.
-
-You can read more information about GraphQL at GitLab here:
-- [Getting started with GitLab GraphQL API](https://docs.gitlab.com/ee/api/graphql/getting_started.html)
-- [GraphQL frontend guide](https://docs.gitlab.com/ee/development/fe_guide/graphql.html)
-- [GraphQL API style guide](https://docs.gitlab.com/ee/development/api_graphql_styleguide.html)
-- [Introduction to GraphQL (graphql.org)](https://graphql.org/learn/)
-
-We also run GraphQL office hours, which is a place where GitLab team members can ask questions and chat amongst peers about GraphQL at GitLab.
-
-These meetings are currently run on a **weekly** cadence, alternating between timezones.
-
-| Time in UTC | Organisers |
-| --- | --- |
-| +4:30 | [@ntepluhina](https://gitlab.com/ntepluhina) |
-| +16:30 | [@seanarnold](https://gitlab.com/seanarnold), [@cablett](https://gitlab.com/cablett) |
-
+For a list of resources and information on our GitLab Learn channel for Development, consult [this page](/handbook/engineering/development/training/).
 
 ## Continuous Delivery, Infrastructure and Quality Collaboration
 
 In late June 2019, we moved from a monthly release cadence to a more continuous
-delivery model.  This has led to us changing from issues being
-concentrated during the deployment to a more constant flow.  With the adoption
+delivery model. This has led to us changing from issues being
+concentrated during the deployment to a more constant flow. With the adoption
 of continuous delivery, there is an organizational mismatch in cadence between
 changes that are regularly introduced in the environment and the monthly
 development cadence.
@@ -328,53 +437,94 @@ and quality.
 Refinement will happen on a weekly basis and involve a member of infrastructure,
 quality, product management, and development.
 
-### Rapid Action Issue
+### Global Prioritization
 
-Rapid Action, as the name implies, is the process we use when a critical situation arises needing immediate attention from various stakeholders.  When the situation is identified as a potential Rapid Action the following guidance is recommended.
+Execution of a Global prioritization can take many forms.  This is worked with both Product and Engineering Leadership engaged.  Either party can activate a proposal in this area.  The options available and when to use them are the following:
 
-* Create an issue or epic labeled with `rapid action`
-* Identify the stakeholders involved and cc them on the issue/epic
-* Create a doc using [this](https://docs.google.com/document/d/1ZIJvWgo2W4Tw3mmXs_WDJK5Di-zfANtgYgiTZ5Afdyc/edit) template to track the progress of the rapid action
-on a daily basis
-* (Optional) create a slack room dedicated to this rapid action
-* In the document and tracking issue list the context, stakeholders and exit criteria
-
-It is recommended that daily progress is updated in the agenda.  Once the exit criteria has been met, remove the `rapid action` label,  close the rapid action issue and prepend the agenda document with "Closed" or "Deprecated" to indicate its status.
+* [Rapid action](https://about.gitlab.com/handbook/product/product-processes/#rapid-action) - use when reassignment isn't necessary, the epic can have several issues assigned to multiple teams
+* [Borrow](https://about.gitlab.com/handbook/product/product-processes/#borrow) - use when a temporary assignment to a team is required to help resolve an issue/epic
+* [Realignment](https://about.gitlab.com/handbook/people-group/promotions-transfers/#realignment-of-team-members-impacting-multiple-teams) - use when a permanent assignment to a team is required to resolve ongoing challenges
 
 ### Email alias and roll-up
+
 1. Available email alias (a.k.a. Google group):
-
-   Managers, Directors, VP's teams: each alias includes everyone in the respective organization.
-
+Managers, Directors, VP's teams: each alias includes everyone in the respective organization.
 1. Naming convention:
-
-   team@gitlab.com, examples below -
-   * Managers: configure-be@gitlab.com includes all the engineers reporting to the Configure backend engineering manager.
-   * Directors: ops-section@gitlab.com includes all the engineers and managers reporting to the director of engineering, Ops.
-   * VP of Development: development@gitlab.com includes all engineers, managers, and directors reporting to the VP of Development.
-
+team@gitlab.com, examples below -
+    - Managers: configure-be@gitlab.com includes all the engineers reporting to the Configure backend engineering manager.
+    - Directors: ops-section@gitlab.com includes all the engineers and managers reporting to the director of engineering, Ops.
+    - VP of Development: development@gitlab.com includes all engineers, managers, and directors reporting to the VP of Development.
 1. Roll up:
+Teams roll up by the org chart hierarchy -
+    - Engineering managers' aliases are included in respective Sub-department aliases
+    - Sub-department aliases are included in Development alias
 
-   Teams roll up by the org chart hierarchy -
-   * Engineering managers' aliases are included in respective Sub-department aliases
-   * Sub-department aliases are included in Development alias
+### Development Escalation Process
 
-### Development Escalation Process ###
-* [General information](./processes/Infra-Dev-Escalation/)
-* [Process outline](./processes/Infra-Dev-Escalation/process.html)
+- [General information](./processes/Infra-Dev-Escalation/)
+- [Process outline](./processes/Infra-Dev-Escalation/process.html)
+
+### Reducing the impact of far-reaching work
+
+Because our teams are working in separate groups within a single application, there is a high potential for our changes to impact other groups or the application as a whole.  We have to be cautious not to inadvertently impact overall system quality but also availability, reliability, performance, and security.
+
+An example would be a change to user authentication or login, which might impact seemingly unrelated services, such as project management or viewing an issue.
+
+Far-reaching work is work that has wide-ranging, diffuse implications, and includes changes to areas which will:
+1. be utilized by a high percentage of users
+1. impact entire services
+1. touch multiple areas of the application
+1. potentially have legal, security, or compliance consequences
+1. potentially impact revenue
+
+If your group, product area, feature, or merge request fits within one of the descriptions above, you must seek to understand your impact and how to reduce it. When releasing far-reaching work, use a [rollout plan](/handbook/engineering/development/processes/rollout-plans). You might additionally need to consider creating a one-off process for those types of changes, such as:
+- [Creating a rollout plan procedure](/handbook/engineering/development/processes/rollout-plans)
+   - Consider how to reduce the risk in your rollout plan
+   - Document how to monitor the rollout while in progress
+   - Describe the metrics you will use to determine the success of the rollout
+   - Account for different states of data during rollout, such as cached data or data that was in a previously valid state
+- Requiring feature flag usage ([example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/88298))
+- Changing a recommended process to a required process for this change, such as a domain expert review
+- Requesting manual testing of the work before approval
+
+##### Identified areas
+
+Some areas have already been identified that meet the definition above, and may consider altered approaches in their work:
+
+| Area             | Reason                      | Special workflows (if any) |
+| ---------------- | --------------------------- | -------------------------  |
+| Database migrations, tooling, complex queries, metrics | impact to entire application<br/><br/>The database is a critical component where any severe degradation or outage leads to an S1 incident. | [Documentation](https://docs.gitlab.com/ee/development/database_review.html#general-process) |
+| Sidekiq changes (adding or removing workers, renaming queues, changing arguments, changing profile of work required)  | impact to multiple services<br/><br/>Sidekiq shards run groups of workers based on their profile of work, eg memory-bound. If a worker fails poorly, it has the potential to halt all work on that shard. | [Documentation](https://docs.gitlab.com/ee/development/sidekiq_style_guide.html#sidekiq-compatibility-across-updates) |
+| Redis changes    | impact to multiple services<br/><br/>Redis instances are responsible for sets of data that are not grouped by feature category. If one set of data is misconfigured, that Redis instance may fail.  |                            |
+| Protected Branches, CODEOWNERS, MR Approvals, Gitaly interface | high percentage of traffic share |       |
+| Package product areas            | high percentage of traffic share |       |
+| Gitaly product areas             | high percentage of traffic share |       |
+| Pipeline Execution product areas | high percentage of traffic share  | [Documentation](https://docs.gitlab.com/ee/development/contributing/verify/) |
+| Authentication and Authorization product areas    | touch multiple areas of the application    | [Documentation](/handbook/engineering/development/dev/manage/authentication-and-authorization#code-review) |
+| Workspace product areas | touch multiple areas of the application    |      |
+| Compliance product areas | potentially have legal, security, or compliance consequences | |
+| [Specific fulfillment product areas](/handbook/engineering/development/fulfillment/#revenue-impacting-changes) | potentially impact revenue | |
+| Runtime language updates | impacts to multiple services | [Ruby Upgrade Guidelines](https://docs.gitlab.com/ee/development/ruby_upgrade.html#ruby-upgrade-guidelines) |
+| Application framework updates | impacts to multiple services | [Rails Upgrade Guidelines](https://docs.gitlab.com/ee/development/rails_update.html) |
+
+## ClickHouse Datastore usage
+
+[ClickHouse usage by Monitor:Observability group](/handbook/engineering/development/ops/monitor/observability/#clickhouse-datastore)
+
 
 ## Books
 
-Note: books in this section [can be expensed](/handbook/spending-company-money).
+Note: books in this section [can be expensed](/handbook/spending-company-money/).
 
-Interested in reading this as part of a group? We occassionally self-organize [book
-clubs](/handbook/leadership/book-clubs/) around these books and those listed on our [Leadership page](/handbook/leadership/#books).
+Interested in reading this as part of a group? We occasionally self-organize [book](/handbook/leadership/book-clubs/)
+clubs around these books and those listed on our [Leadership page](/handbook/leadership/#books).
 
 1. [The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009/)
-2. [Software Engineering at Google](https://gitlab.com/gitlab-com/book-clubs/-/issues/10)
+1. [Software Engineering at Google](https://gitlab.com/gitlab-com/book-clubs/-/issues/10)
 
 ## Common Links
 
 * [Development department board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1008667?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Development%20Department)
 * [Current OKR's](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1008667?scope=all&utf8=✓&state=opened&label_name[]=Development%20Department&label_name[]=OKR)
 * Slack channel [#development](https://gitlab.slack.com/messages/C02PF508L)
+* [Manager Notes](/handbook/engineering/development/managers/)

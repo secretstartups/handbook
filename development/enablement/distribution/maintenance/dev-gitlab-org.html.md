@@ -43,7 +43,7 @@ on this server is operational.
 * Access to the node
 
 * Depending on whether the task requires permanent changes to
-  `/etc/gitlab/gitlab.rb`, access to the [Chef repo](https://ops.gitlab.net/gitlab-cookbooks/chef-repo/).
+  `/etc/gitlab/gitlab.rb`, access to the [Chef repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo/).
   If you do not have access to this repository, make sure you create
   [an issue in Infrastructure issue tracker](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
   and label it `access request`.

@@ -1,0 +1,295 @@
+---
+layout: handbook-page-toc
+title: "Create:Code Review BE Team"
+description: The Create:Code Review BE team is responsible for all backend aspects of the product categories that fall under the Code Review group of the Create stage.
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+The Create:Code Review BE team is responsible for all backend aspects of the product categories that fall under the [Code Review group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
+
+[group]: /handbook/product/categories/#code-review-group
+[stage]: /handbook/product/categories/#create-stage
+[lifecycle]: /handbook/product/categories/#devops-stages
+
+## Group Members
+
+The following people are permanent members of the Create:Code Review Group:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Create:Code Review') %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] (Create(?!:)|Create:Code Review)/, direct_manager_role: 'Backend Engineering Manager, Create:Code Review') %>
+
+## Metrics
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Code Review" } %>
+
+## Team OKRs
+
+Objectives and Key Results (OKRs) help align our team towards what really matters. These happen quarterly, align up through the stage, and are based on [company OKRs](/company/okrs/) and the [engineering OKR process](/handbook/engineering/#engineering-okr-process). We check in on the status of our progress routinely throughout the quarter - usually on a weekly basis, but at least on a monthly basis, to determine whether we are on track or need to pivot in order to accomplish or change these goals. At the end of the quarter, we do a [final scoring](/company/okrs/#scoring-okrs) which includes a [retrospective](/handbook/engineering/#okr-retrospection) on how the quarter went according to these OKRs. Individuals within the team, with the exception of Staff Engineers, are not required to have their own OKRs, but it is strongly encouraged in order to provide an overarching direction for the quarter and realize the impact we are making on the company as a whole. In some cases, it may also make sense to assign a key result directly to an individual in order to have a [DRI](/handbook/people-group/directly-responsible-individuals/).
+
+Example template with questions to ask yourself:
+
+- **Objective:** How are you going to move X forward? _("Become a hero by improving efficiency")_
+  - **KR:** If you have met your objective, what will the outcome be? _("Mean Time to Resolve is reduced from 5 days to 2 days")_
+  - **KR:** How will I accomplish this objective? _("Automate monitoring alerts so we don't have to check dashboards")_
+  - **KR:** Why will this KR matter? _("Team efficiency improves by 5%")_
+
+[For a list of current and past OKRs for our team, use this link.](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acode%20review&label_name[]=OKR&label_name[]=backend)
+
+### Current OKRs
+
+<iframe src="https://app.ally.io/public/Gh0xkABgovvjjGV" class="dashboard-embed" height="1050" width="100%" style="border:none;"> </iframe>
+
+## How We Work
+
+See the [work section](/handbook/engineering/development/dev/create/code-review/#work) of the main Code Review page.
+
+### Working with our team
+As stewards for some of the more high profile features - Merge Request pages, Approval Rules, etc - we receive a large number of inquires and requests for assistance or information about them, as well as the dependent features that it encompasses. We welcome them, as issues or Slack inquires, and we strive to be responsive to these, in the interest of [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) and [Results](https://about.gitlab.com/handbook/values/#results), but we also must balance the value of [Efficiency](https://about.gitlab.com/handbook/values/#efficiency).
+
+Our target is to respond to incoming requests within 2 working days, although we will frequently respond more quickly, depending on team member availability, experience, and workload.
+
+### Meeting Schedule
+
+[Team members](/handbook/engineering/development/dev/create-code-review-be/#team-members) meet monthly and are encouraged to join in order to to interact with peers, solve technical challenges, and discuss freely with each other. You can check for the next meeting on the [Code Review Group calendar](https://calendar.google.com/calendar/embed?src=c_bt3jpkj6afr7321vpg9ra1191s%40group.calendar.google.com&ctz=America%2FChicago).
+
+#### Team building
+
+Every 1st and 15th of the month a question/activity will be posted in the code-review-backend slack channel to enable the team to have a more relaxed interaction with each other. Currently, in the team, it is impossible to get everyone on a synchronous call and while the team days work well, they are at the create stage level. This team-building exercise is aimed more specifically at the [Code Review Backend Team](/handbook/engineering/development/dev/create-code-review-be/#team-members).
+
+Some examples would be:
+- Ice breaker style question: What is your favourite food to cook? (maybe share photos too), What was your favourite holiday and why?
+- ‘Gif battle’: where we would have a topic, for example (cutest animal, most insane dance move) and we would each post our top GIF
+- Share a photo: where we each share a photo that we took during the week
+
+### Capacity planning
+
+<%= partial("handbook/engineering/development/dev/create/capacity_planning.erb") %>
+
+#### Availability
+
+Approximately 5-10 business days before the start of a new release, the EM will begin determining how "available" the team will be. Some of the things that will be taken into account when determining availability are:
+
+* Upcoming training
+* Upcoming time off / holidays
+* Upcoming on-call slots
+* Potential time spent on another teams deliverables
+
+Availability is a percentage calculated by _(work days available / work days in release) * 100_.
+
+All individual contributors start with a "weight budget" of 10, meaning they are capable (based on historical data) of completing a maximum number of issues worth 10 weight points total (IE: 2 issues which are weighted at 5 and 5, or 10 issues weighted at 1 each, etc.) Then, based on their availability percentage, weight budgets are reduced individually. For example, if you are 80% available, your weight budget becomes 8.
+
+Product will prioritize issues based on the teams total weight budget. Our [planning rotation](#planning-rotation) will help assign weights to issues that product intends on prioritizing, to help gauge the amount of work prioritized versus the amount we can handle prior to a kickoff.
+
+#### Kickoff emails
+
+Once availability has been determined, weights have been assigned, and the PM/EM finalize a list of prioritized issues for the upcoming release, kickoff emails will be sent. The intent of this email is to notify you of the work we intend to assign for the upcoming release. This email will be sent before the release begins. The kickoff email will include:
+
+* Your availability, weight budget, and how it was calculated
+* A list of the issues you will most probably be assigned as an individual
+* A reasoning behind why you have been assigned more than your weight budget, if applicable
+* A list of the issues the team is working on that are deemed "note-worthy," in case you'd like to offer help on those issues as time allows
+
+Emails get sent to each individual contributor on the team, as well as the Application Security counterpart, in order to give a heads-up about the upcoming issues in the milestone and what the assignments will be.
+
+#### Planning
+
+> If you haven't read the code, you haven't investigated deeply enough
+>
+> -- <cite>Nick Thomas</cite>
+
+To assign weights to issues in a future milestone, on every 4th of the development month (or the next working day if it falls on a holiday or weekend), BE engineers look at the list of issues that are set for next milestone. These are assigned by the engineering manager. To weight issues, before the 15th of the month, they should:
+
+1. See if there is already a discussed backend solution/plan or none yet.
+1. If the discussed backend solution/plan isn't that clear, clarify it.
+1. If there's no solution/plan yet, devise one. Doesn't need to be a detailed solution/plan. Feel free to ask other people to pick their brains.
+1. If there's a need to collaborate with stable counterpart to devise a solution/plan, add a comment and tag relevant counterparts.
+1. Give issue a weight if there's none yet or update if the existing weight isn't appropriate anymore. Leave a comment why a certain weight is given.
+1. It's strongly encouraged to spend no more than 2 hours per issue. Give it your best guess and move on if you run out of time.
+1. Label the issue as ~"workflow::ready for development".
+1. Unassign yourself or keep it assigned if you want to work on the issue.
+
+#### Follow-up issues
+
+You will begin to collect follow-up issues when you've worked on something in a release but have tasks leftover, such as technical debt, feature flag rollouts or removals, or non-blocking work for the issue. For these, you can address them in at least 2 ways:
+* Add an appropriate future milestone to the follow-up issue(s) with a weight and good description on the importance of working this issue
+* Add the issue(s) to the relevant [planning issue](https://gitlab.com/gitlab-org/create-stage/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acode%20review&search=planning)
+
+You should generally take on follow-up work that is part of our [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), preferably in the same milestone as the original work, or the one immediately following. If this represents a substantial amount of work, bring it to your manager's attention, as it may affect scheduling decisions.
+
+If there are many follow-up issues, consider creating an epic.
+
+#### Backend and Frontend issues
+
+Many issues require work on both the backend and frontend, but the weight of that work may not be the same. Since an issue can only have a single weight set on it, we use scoped labels instead when this is the case: `~backend-weight::<number>` and `~frontend-weight::<number>`.
+
+### What to work on
+
+<%= partial("handbook/engineering/development/dev/create/what_to_work_on.erb", locals: { group: "Code Review", slack_channel: 'g_create_code-review' }) %>
+
+[issue board]: https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=group::code%20review&label_name[]=backend
+[assignment board]: https://gitlab.com/groups/gitlab-org/-/boards/2142016
+
+### Deep Dives
+
+<%= partial("handbook/engineering/development/dev/create/deep_dives.erb") %>
+
+### Performance Monitoring
+
+The Create:Code Review BE team is responsible for keeping some API endpoints and
+controller actions performant (e.g. below our target speed index).
+
+There are Grafana and Kibana dashboards available that the team can check to
+ensure we are meeting these targets.
+
+Here are the Kibana dashboards that give a quick overview on how they perform:
+
+- [Create::Code Review Controller Actions](https://log.gprd.gitlab.net/app/visualize#/edit/f21d2820-8643-11eb-966b-2361593353f9?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-7d%2Cto%3Anow))) (internal only)
+- [Create::Code Review: API Endpoints](https://log.gprd.gitlab.net/app/visualize#/edit/89f9a6f0-8644-11eb-a990-d72c312ff8e9?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-7d%2Cto%3Anow))) (internal only)
+- [Create::Code Review: Sidekiq Workers](https://log.gprd.gitlab.net/goto/b73a4a65e136eeedfa00b404a009e31f) (internal only)
+
+These tables are filtered by the endpoints and controller actions that the group
+handles and sorted by P90 (slowest first) for the last 7 days by default.
+
+The [Grafana dashboard](https://dashboards.gitlab.net/d/stage-groups-code_review/stage-groups-group-dashboard-create-code-review?orgId=1)
+shows more specific details about each actions and endpoints.
+
+To see the specific details for certain actions/endpoints, it can be filtered
+by `action` and/or `controller`.
+
+#### Issue identification process
+
+1. Every week we check the kibana and grafana dashboards as per the calendar invite
+2. If we identfiy an endpoint or worker that meets our severity criteria we create an issue (if not created already) and label it based on our severity and priority criteria
+   * If an issue is already created, check whether the severity/priority needs to be updated
+3. This issue should contain as much information on why it is the severity/priority as logs are often held for only 7 days
+4. Using a [specific performance issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/2621072) we can keep track of our current issues and they will be prioritized accordingly during planning
+
+##### Severity Criteria
+
+The severity of an issue helps determine the urgency and communication required for issues identified. More details can be found [in the handbook](/handbook/engineering/quality/issue-triage/#severity)
+
+P90 Latency follows [existing ~performance criteria](/handbook/engineering/quality/issue-triage/#severity)
+
+###### S4
+* P90 Latency > 500 ms
+* P90 #SQL queries > 100 queries
+* Error rate > 0
+
+###### S3
+* P90 Latency > 1000 ms
+* P90 #SQL queries > 200 queries
+* Error rate > 0.05
+
+###### S2
+* P90 Latency > 2000 ms
+* P90 #SQL queries > 400 queries
+* Error rate > 0.1
+
+###### S1
+* P90 Latency > 9000 ms
+* P90 #SQL queries > 1800 queries
+* Error rate > 0.2
+
+
+##### Priority Criteria
+
+The priority label is used to indicate the importance and guide the scheduling of the issue. More details can be found [in the handbook](/handbook/engineering/quality/issue-triage/#priority)
+
+###### P4
+* S3/4
+* RPS > 0
+
+###### P3
+* S3/4
+* RPS > 2
+
+###### P2
+* S1/2
+* RPS > 0
+
+###### P1
+* S1/2
+* RPS > 2
+
+##### Calendar Invites
+
+There are calendar invites that act as a reminder for backend team members
+to check these dashboards weekly on Monday:
+
+- APAC: Check performance dashboards - set on Monday 12AM UTC
+- AMER: Check performance dashboards - set on Monday 4PM UTC
+
+All backend team members are invited to appropriate calendar invites. This
+does not necessarily mean that we only need to take a look at them at those
+specific times.
+
+If a team member sees that an action or endpoint does not meet our target,
+they should create a performance issue if there's no existing one. If there's
+an existing one, team member can either update the issue, investigate or work
+on the issue (if they have spare time).
+
+### Service Level Objectives Monitoring
+
+We take proactive steps to avoid having reported bugs to go past the target duration defined in [Severity SLOs](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity-slos).
+
+When issues are not clearly visible, it is more likely they can slip out of our hands. By paying attention to our issues regularly, investigating, and scheduling them to be addressed in our upcoming releases if they require development, we often find that some of them can be closed by as duplicates or no longer an issue. This helps us to keep our velocity in responding to new issues high.
+
+The [Bug Triage Board](https://gitlab.com/groups/gitlab-org/-/boards/2546239) can be used to browse them together in one board.
+
+Generally, the engineering manager is responsible for monitoring this board and triaging issues, but this task can be delegated to a developer temporarily or permanently if we have a volunteer.
+
+#### Responsibilities of Issue Triage
+
+- Do a weekly review of the triage board and make sure these issues are investigated by assigning them to developers or performing the investigation
+- Coordinate with Product Manager to get those issues assigned to milestones so that they can be worked on in timely manner
+- Check issues in each column in the order of severity. `~missed-SLO` -> `~approaching-SLO` -> `~severity::1` -> `~severity::2` -> `~severity::3` -> `~severity::4`
+- Ensure the severity label is accurate based on the problem investigated
+- Our aim is getting to 0 issues in `~missed-SLO` column eventually and handle issues well before they get labeled as `~missed-SLO` and `~approaching-SLO`
+
+## Career development
+
+<%= partial("handbook/engineering/development/dev/create/career_development.erb", locals: { group: "Code Review" }) %>
+
+### Feedback
+
+It can be hard to understand how you're doing in your role, because feedback can come off as formal (annual reviews, 360 surveys, career development conversations, goal check-ins) or casual (in Slack channels, 1-1's, MR reviews, team meetings.) We receive various kinds of feedback regularly and through different formats, so the type of feedback you're receiving is not always clear. In order to be more intentional about the types of feedback given, here is a classification chart based on [three types of feedback](https://forimpact.org/three-types-feedback/#:~:text=%E2%80%9CFeedback%20comes%20in%20three%20forms,about%20relationship%20and%20human%20connection.):
+
+| Label | Meaning | Example |
+| **(appreciation)** | I want to thank you for doing this, and please do more of it in the future | "I did not expect that you would have created a working group, because you've done so, our whole team will benefit from the results."
+| **(coaching)** | I'm trying to help you improve a behavior you are already exhibiting or change a behavior that you currently have | "The reports that you give me are very helpful, and in the future we can schedule them for the first of the month to be more consistent."
+| **(evaluation)** | Tells you where you stand according to existing standards or expectations | "My expectation was that our decision would be transparent. Since it was not, our team has forgotten the decision, so we must be sure and meet that expectation next time." |
+
+### Training and Development Opportunities
+
+This is a list of commonly requested training and some additional resources:
+
+1. [The Database maintainer template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/trainee-database-maintainer.md) centralizes training related to being not just a maintainer, but all the resources for a reviewer as well.
+1. [The Golang training template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/golang_training.md) offers resources related to learning Go.
+1. [The feature flag training template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/feature-flag-training.md) will help get you started in understanding how to use feature flags at GitLab, as well as monitor the performance of your work.
+1. [There are 2 YouTube playlists](/handbook/engineering/monitoring/#related-videos) that cover our monitoring and visualization tools. More resources are available [in the handbook](/handbook/engineering/monitoring/) in terms of Grafana, Kibana, Prometheus, Sentry, and Sitespeed.io.
+1. [There is a DIB training template](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/diversity-inclusion-belonging-training-template.md) that utilizes internal resources and LinkedIn Learning, as well as an additional [DIB certification course](https://gitlab.edcast.com/journey/dib-training-certification) which is offered directly from GitLab.
+1. [The "transitioning to a manager" page](/handbook/people-group/learning-and-development/manager-development/) and related training issue helps provide an idea of what management is like at GitLab.
+1. [Rails performance materials](https://gitlab.com/gitlab-org/memory-team/team-tasks/-/issues/35) (internal only) are available from a workshop that was done at GitLab.
+
+#### Additional resources
+
+- [Create Stage Professional Development](/handbook/engineering/development/dev/create/#professional-development)
+- [GitLab Learn](https://gitlab.edcast.com/)
+- [Live learning sessions](/handbook/people-group/learning-and-development/#learning-sessions)
+- [Learning and Development - Learning Initiatves](/handbook/people-group/learning-and-development/learning-initiatives/)
+- [Compliance courses](/handbook/people-group/learning-and-development/compliance-courses/)
+- [Growth and Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/)
+
+## Hiring
+
+Check out our [jobs page](/jobs/) for current openings.

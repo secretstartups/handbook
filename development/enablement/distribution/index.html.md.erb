@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Distribution"
+description: "The primary user persona for Distribution is the system administrator responsible for managing a GitLab instance. The team goals are to make it as easy as possible to deploy, scale, upgrade, and fine tune a GitLab instance on a range of on-prem and cloud platforms."
 ---
 
 ## On this page
@@ -10,15 +11,52 @@ title: "Distribution"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-The primary user persona for Distribution is the system administrator responsible for managing a GitLab instance. The team goals are to make it as easy as possible to deploy, scale, upgrade, and fine tune a GitLab instance on a range of on-prem and cloud platforms.
 
-Target deployments are anything from a single node deployment for evaluating GitLab all the way through to the 50K user reference architecture and beyond. The ultimate goal is to ensure the end user has a high-speed experience when using GitLab with no downtime or disruptions.
+The Distribution team is composed of two subgroups: **Distribution:Build** and **Distribution:Deploy**
 
-The Omnibus package and Helm Chart are the primary deployment methods that Distribution focuses on. In FY21, the team will:
-* Automate the deployment of large-scale architectures that include High Availability and/or Geo
-* Move the cloud-native install from Viable to Lovable maturity level
-* Enhance the install, upgrade and next steps experience
-* Update major components such as PostgresSQL and other HA-related tooling
+Build team is focused on producing artifacts including system packages, container images, and related components like marketplace listings along with tooling required to create and maintain them.
+
+Deploy team is focused on installation and upgrade mechanisms to ensure smooth deployments. This includes system integration, scripting, templating, and related configuration management tooling.
+
+In addition to [product deliverables](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Adistribution&label_name%5B%5D=Deliverable&milestone_title=Any), both groups review a large number of MR's authored outside the team. These include dependency and security updates along with configuration controls and other bundled components like PostgreSQL, Consul, Patroni.
+
+## Target Consumers
+The primary user persona for Distribution are system administrators who are responsible for managing GitLab instances. Team goals are to make it as easy as possible to deploy, upgrade and configure GitLab on a range of on-prem and cloud platforms at a variety of scales.
+
+Deployments include everything from single node deployments for evaluating GitLab all the way through the 50K user reference architecture and beyond. The primary goal is to ensure end users have a high-speed, low-friction experience when managing GitLab with limited downtime or sevice disruptions.
+
+Omnibus packages, Helm Charts and Operators are primary deployment methods Distribution currently supports.
+
+### Distribution Build
+
+[Team](#distribution-build-team)    |
+[Charter](#distributionbuild-charter)
+
+Responsibilities:
+
+- Research for the support of new clouds, platforms, architecture, and components
+- Access controls, permissions, and CVE patches
+- Dependency updates
+- License management
+- Submissions to Partners for validations/certifications
+- The [install](/install/), [update](/update/), and [upgrade](/upgrade/) pages
+- Build and own the infrastructure used for creating the various installation methods
+- [Maintaining infrastructure](#infrastructure-and-maintenance) used in Distribution
+
+### Distribution Deploy
+
+[Team](#distribution-deploy-team)    |
+[Charter](#distributiondeploy-charter)
+
+Responsibilities:
+
+- Initial installation and composability for self-managed installations and GitLab.com
+- Upgrades / Downgrades
+- Scaling deployments
+- Migration between platforms or providers
+- Data lifecycle management
+- Secure configuration & communication
+- Research of clouds and platforms for integration to existing tools
 
 ## Vision
 
@@ -28,11 +66,11 @@ Distribution team vision is shown below, and not limited to:
 
 * GitLab has an official installation method on all major platforms and architectures.
 * GitLab offers official one click installation method on all major cloud platforms.
-* Part of official repositories for any Kubernetes package repository.
+* GitLab is able to automatically upgrade itself safely and reliably.
+* Official repositories for any Kubernetes package repository.
+* GitLab runs equally well on both high and low resource systems (such as Raspberry Pi).
 * GitLab.com is running using the official installation methods.
-* GitLab runs on low resources systems such as Raspberry Pi.
 * All GitLab features are installed and configured by default.
-* GitLab is able to automatically upgrade itself.
 * Installation interface to set up and configure GitLab.
 * Any GitLab installation is able to report installation/upgrade errors automatically.
 * Setting up GitLab in HA configuration is automated and simple.
@@ -41,18 +79,25 @@ Distribution team vision is shown below, and not limited to:
 
 ### Team
 
-* Team has official certifications for frequently used platforms.
-* Each team member is able to work on all team projects.
-* Team is able to reach a conclusion independently all the time, consensus most of the time.
+* Each team member is able to work on all team projects along with the ability to focus on specific technologies.
 * Each team member is a part of a hiring panel aimed to hire better than the best in the team.
+* Team creates documenation to increase knowledge and awareness to support a self-service model.
+* Team is able to reach a conclusion independently all the time, consensus most of the time.
+* Team has official certifications for frequently used technologies and platforms.
 * On-boarding and off-boarding is efficient.
 * Career development paths are clear.
-* Team creates a database of knowledge through documentation, [training sessions](training.html) and
-outreach.
 
 ## Mission
 
 Distribution ensures the experience of installing and maintaining GitLab is easy and safe for everyone. It is Distribution team's task to think about the widest variety of installation/update use-cases and provide a solution that will satisfy most needs. Distribution is there to provide the best possible experience for a user that is a novice but also a veteran when it comes to installing and maintaining software.
+
+### Distribution:Build Charter
+
+Build team focus is ensuring GitLab components are tested, current, license compliant, and available for our users’ platforms and architectures. This group manages the build pipelines, researches support for new services, platforms, and architectures, as well as maintains existing ones. We strive to respond efficiently to build failures, security results, and dependency changes in order to ensure a safe reliable product for our users.
+
+### Distribution:Deploy Charter
+
+Deploy team focus is configuration, deployment, and operation of GitLab as a whole product. The goal is to deliver an intuitive, clear, and frictionless installation experience, followed by smooth, seamless upgrade and maintenance processes for deployments of any scale. We strive to deliver ongoing operational behaviors for scaling, little to zero downtime upgrades, and highly reliable experiences for not only instance administrators but their users.
 
 ## Goals
 
@@ -64,15 +109,23 @@ Reduce average days behind latest version
 
 ## Team members
 
-The following people are members of the Distribution Team:
+### Distribution Build Team
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Distribution', role_regexp: /(Distribution|Cloud Native) Engineer/) %>
+The following people are members of the Distribution:Build Team:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Distribution:Build') %>
+
+### Distribution Deploy Team
+
+The following people are members of the Distribution:Deploy Team:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Distribution:Deploy') %>
 
 ### Stable counterparts
 
 The following members of other functional teams are our [stable counterparts](/company/team/structure/#stage-groups):
 
-<%= stable_counterparts(role_regexp: /[,&] Distribution/, direct_manager_role: 'Backend Engineering Manager, Distribution') %>
+<%= stable_counterparts(role_regexp: /Enablement.*Distribution/, direct_manager_role: 'Backend Engineering Manager, Distribution') %>
 
 ## Common links
 
@@ -81,82 +134,56 @@ The following members of other functional teams are our [stable counterparts](/c
 
 ## Team responsibility
 
-Distribution team is responsible for:
+In addition to the [separate responsibilities](#overview) for Build and Deploy. The Distribution team as a whole is responsible for:
 
-1. The [install](/install/), [update](/update/), and [upgrade](/upgrade/) pages.
 1. The omnibus-gitlab installation package.
-  * Installation using package is simple, quick, secure and protects the data integrity.
+   - Installation using package is simple, quick, secure and protects the data integrity.
 1. A cloud native installation method.
-  * Installation using the Helm charts is able to scale easily with the increased demand.
-1. Build and own the infrastructure used for creating the various installation methods.
-  * Provision and maintain GitLab CI runners used for making above mentioned installation methods.
-1. Ensure that GitLab can be installed for self-managed installations and GitLab.com.
-1. [Maintaining infrastructure](#infrastructure-and-maintenance) used for work.
-1. [Triaging issues](triage.html) and [Reviewing Merge Requests](merge_requests.html) in all owned [projects](#projects).
-1. Creating [training sessions](training.html).
+   - Installation using the Helm charts is able to scale easily with the increased demand.
+1. [Triaging issues](triage.html) and [Reviewing Merge Requests](merge_requests.html) in all owned [projects](#all-projects).
 1. Providing regular [demonstrations](demo.html) of recent solutions or works in progress
 
 ## Team objectives
 
 Based on team responsibilities, the following objectives apply:
 
-* Installation pages need to be complete, correct, easy, helpful, and attractive.
-  Even if team's primary skill is not design and UX, team can maintain the pages
-  with the help of teams that have this skill as their primary.
-* The omnibus-gitlab installation package and the cloud native installation method
-  should allow a beginner to install GitLab quickly, correctly and completely.
-  Required configuration should be minimal, and it is
-  Distribution team's responsibility to automate as much of this configuration as possible for the user.
-* The omnibus-gitlab installation package and the cloud native installation method
-  should be sufficiently configurable to allow an advanced user a way of setting up a more complex
-  GitLab architecture.
-* The above two goals might sound opposing, however they are not. A compromise can be made
-  between these two goals without increasing the project maintenance cost for the Distribution team.
-  We optimize for the best initial installation experience and then expand to further complexity.
-* Distribution team has to verify each change that is introduced in each user facing project.
-  This is done by creating feature and end-to-end integration tests. When a feature/fix cannot be tested easily
-  with automated tests, confirm the change **manually**. If the person introducing the change
-  is a Distribution team member, they are responsible and are required to sign off the change.
-  Otherwise, it is the reviewers task to verify and sign off on the change.
-* Distribution team welcomes any contribution to any of the projects. Ultimately, it is up to the team
-  to decide if the contribution should be accepted. We need to weigh in on how the change affects
-  the whole picture, not only what is shown in the diff. This is especially the case when a contribution is changing behaviour.
-  If the change is a change in behaviour in one of the upstream components, we need to include team responsible for that component to submit their opinion.
-  If we are responsible for certain functionality, we need to consider how the change impacts functionality in all use cases. Then, if the maintenance
-  burden increases more than the change is worth or if it changes exiting functionality, we can consider rejecting the contribution.
-* Nightly builds are installed on dev.gitlab.org using one of the official artifacts of Distribution team. Purpose of this exercise is to have a
-  production level instance using the installation method that most of the rest of the community will be using.
-* Triaging issue tracker is a task that allows us to keep on the pulse of the changes we make. By being in contact with users and customers,
-  we can maintain visibility into most frequently reported bugs or requested features. Not everything reported will be resolved, however
-  _all_ of the reports should be triaged. This also applies to mentions in GitLab CE/EE repositories on issues with `Distribution` and `group::distribution` label.
-* Every Distribution team member is responsible for creating a training session for the rest of the team.
-  See the page on [team training](training.html) for details.
-* GitLab.com is last on this list, but is first in importance. When team that manages GitLab.com creates an issue, the item should
-  be raised up directly to the team Engineering Manager and Product Manager. While these issues are important, we don't necessarily need
-  to provide a complete solution right away, but we need to work with the other team on providing a path forward with their request.
+- Distribution:Build
+  - Installation pages need to be complete, correct, easy, helpful, and attractive. Even if team's primary skill is not design and UX, team can maintain the pages with the help of teams that have this skill as their primary.
+  - Nightly builds are installed on dev.gitlab.org using one of the official artifacts of the Distribution Build team. Purpose of this exercise is to have a production level instance using one of the installation methods that the community will be using.
+- Distribution:Deploy
+  - The omnibus-gitlab installation package and the cloud native installation method should allow a beginner to install GitLab quickly, correctly and completely. Required configuration should be minimal, and it is the Distribution Deploy team's responsibility to automate as much of this configuration as possible for the user.
+  - The omnibus-gitlab installation package and the cloud native installation method should be sufficiently configurable to allow an advanced user a way of setting up a more complex GitLab architecture.
+  - The above two goals might sound opposing, however they are not. A compromise can be made between these two goals without increasing the project maintenance cost for the Distribution team. We optimize for the best initial installation experience and then expand to further complexity.
+- Distribution Common Objectives
+  - Triaging issue tracker is a task that allows us to keep on the pulse of the changes we make. By being in contact with users and customers, we can maintain visibility into most frequently reported bugs or requested features. Not everything reported will be resolved, however _all_ of the reports should be triaged. This also applies to mentions in GitLab CE/EE repositories on issues with `Distribution` and `group::distribution` label.
+  - Every Distribution team member is responsible for creating a training session for the rest of the team. See the page on [team training](training.html) for details.
+  - When the team that manages GitLab.com creates an issue, the item should be raised up directly to the team Engineering Manager and Product Manager. While these issues are important, we don't necessarily need to provide a complete solution right away, but we need to work with the other team on providing a path forward with their request.
 
 ## Primary Projects
 
 [omnibus-gitlab](https://gitlab.com/gitlab-org/omnibus-gitlab) - This project creates platform-specific, self-contained GitLab packages and images for self-managed consumption in cloud environments and on-premisis hosting.
 
+[Cloud Native GitLab](https://gitlab.com/gitlab-org/build/CNG) provides cloud native containers to deploy GitLab. These containers may be deployed and managed via Helm using [GitLab Charts](https://gitlab.com/gitlab-org/charts/gitlab) or [GitLab Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) on Kubernetes, OpenShift, and Kubernetes compatible container platforms.
+
 ### Omnibus GitLab project's product outputs
 
 ```mermaid
 graph TD
-  subgraph code
+  subgraph Code
   OG --> PKG
   PKG --> DOI
   PKG --> AMI
-  PKG -.-> GOR
   end
 
-  subgraph deploy
+  subgraph Deploy
   DOI --> DOK
   DOK --> DOC
   AMI --> AWS
-  GOR --> GCP
-  GOR -.-> |Future|AWS
-  GOR -.-> |Future|VMW
+  PKG -.-> GET
+  GET --> GCP
+  GET --> AZURE
+  GET -.-> |Future|AWS
+  GET -.-> |Future|VMW
   end
 
   OG[Omnibus GitLab]
@@ -165,29 +192,26 @@ graph TD
   DOK(Docker)
   DOC(Docker Compose)
   AMI[Amazon Machine Image]
-  GOR[GitLab Orchestrator]
+  GET[GitLab Environment Toolkit]
   AWS(AWS)
   GCP(Google Cloud Platform)
   VMW(VMWare)
+  AZURE(Azure)
 ```
-
-## Cloud Native
-
-GitLab's cloud native solutions span a collection of image, Helm chart and Operator projects to deploy and manage GitLab on container platforms including Kubernetes and OpenShift.
 
 ### Cloud Native GitLab project's product outputs
 
 ```mermaid
 graph TD
-  subgraph code
+  subgraph Code
   CNG --> HC
-  HC -.- |PoC|GOP
   CNG --> GOP
+  HC --> GOP
   end
 
   subgraph Deploy
-  GOP --> OS
   GOP --> K8s
+  GOP --> OS
   CNG --> DC
   HC --> K8s
   end
@@ -206,19 +230,46 @@ graph TD
 | Name | Location | Description |
 | -------- | -------- |
 | Omnibus GitLab | [gitlab-org/omnibus-gitlab](https://gitlab.com/gitlab-org/omnibus-gitlab) | Build Omnibus packages with HA support for LTS versions of all major Linux operating systems such as Ubuntu, Debian, CentOS/RHEL, OpenSUSE, SLES |
-| GitLab Orchestrator | [gitlab-org/gitlab-orchestrator](https://gitlab.com/gitlab-org/gitlab-orchestrator) | Orchestrator provides an automated, repeatable method to install multi-node GitLab using Terraform and Ansible to deploy and manage Omnibus based environments. |
 | Docker All in one GitLab image | [gitlab-org/omnibus-gitlab/docker](https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master/docker) | Build Docker images for GitLab CE/EE based on the omnibus-gitlab package |
 | GitLab Helm Chart | [gitlab-org/charts/gitlab](https://gitlab.com/gitlab-org/charts/gitlab) | Cloud Native GitLab Helm Charts |
 | Docker images for GitLab Helm Chart | [gitlab-org/build/CNG](https://gitlab.com/gitlab-org/build/CNG) | Individual images used by GitLab Helm Charts |
-| GitLab Helm Chart operator | [gitlab-org/charts/components/gitlab-operator](https://gitlab.com/gitlab-org/charts/components/gitlab-operator/) | Support project for GitLab Helm Charts, performing various tasks such as zero downtime upgrade |
-| GitLab OpenShift operator | [gitlab-org/gl-openshift/gitlab-operator](https://gitlab.com/gitlab-org/gl-openshift/gitlab-operator/) | The GitLab operator creates and manages GitLab instances/deployments in a container platform such as Openshift or Kubernetes. It will run an any environment that provides native Kubernetes resources including deployments, statefulsets, services, ingress/openshift routes, persistent volume claims, persistent volumes, etc. |
+| GitLab Operator | [gitlab-org/cloud-native/gitlab-operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) | The GitLab operator creates and manages GitLab instances/deployments in a container platform such as Openshift or Kubernetes. It will run an any environment that provides native Kubernetes resources including deployments, statefulsets, services, ingress/openshift routes, persistent volume claims, persistent volumes, etc. |
 | Kubernetes Helm Charts index | [charts/charts.gitlab.io](https://gitlab.com/charts/charts.gitlab.io) | Helm charts repository index |
 | AWS images | [AWS marketplace](https://aws.amazon.com/marketplace/pp/B071RFCJZK?qid=1493819387811&sr=0-1&ref_=srh_res_product_title) | AWS image based on the omnibus-gitlab package |
 | GitLab provisioner | [gitlab-org/distribution/gitlab-provisioner](https://gitlab.com/gitlab-org/distribution/gitlab-provisioner) | Creates a GitLab HA installation using Ansible and Terraform |
+| Reference Architecture Tester | [gitlab-org/distribution/reference-architecture-tester](https://gitlab.com/gitlab-org/distribution/reference-architecture-tester) | Spins up reference architecture based GitLab deployments using [GET](https://gitlab.com/gitlab-org/gitlab-environment-toolkit) and runs QA against them |
 | GitLab Terraform configuration | [gitlab-terraform](https://gitlab.com/gitlab-terraform) | Terraform configuration for various cloud providers |
 | Omnibus GitLab Builder | [GitLab Omnibus Builder](https://gitlab.com/gitlab-org/gitlab-omnibus-builder) | Create environment containing build dependencies for the omnibus-gitlab package |
 | Upgrade time metrics | [Upgrade time metrics page on GL Pages](https://gitlab-org.gitlab.io/omnibus-gitlab/upgrade-metrics.html) | Stores the result of calculation of time needed for upgrade between versions in chart form. Backed by Google sheets. Hosted using GL Pages |
 | Licenses of bundled dependencies | [Licenses page on GL Pages](http://gitlab-org.gitlab.io/omnibus-gitlab/licenses.html)  | Webpage listing the bundled dependencies in each package along with their license.
+
+## Working with the community
+
+The install and upgrade process is one of the first features that systems administrators experience when working with GitLab.
+As a result, the projects managed by the Distribution team have a high level of engagement by the user-base. The GitLab
+community is made up of more than just code contributors; users logging issues and feature requests are constantly pushing
+us forward and helping create a better experience.
+
+In Distribution we strive for the following in our public projects:
+
+1. Uphold our [Community Code of Conduct](/community/contribute/code-of-conduct/).
+1. Enable [GitLab's mission that everyone can contribute.](https://about.gitlab.com/company/mission/#mission).
+1. Show our work in [public](#public-by-default).
+1. [Recognize and thank](https://about.gitlab.com/handbook/marketing/community-relations/code-contributor-program/#recognition-for-contributors) contributors for their work.
+1. Respect contributors donated time by providing [timely review](https://about.gitlab.com/handbook/engineering/workflow/code-review/#first-response-slo).
+
+### Working with Open Source communities
+
+The [open core of GitLab](https://about.gitlab.com/company/stewardship) is built on top of thousands of open source
+dependencies. These dependencies and their communities are important to the [GitLab strategy](https://about.gitlab.com/company/strategy/#flywheel-with-two-turbos),
+and working with these dependencies is an essential part of the projects the Distribution team maintains.
+
+In Distribution we strive to:
+
+1. Consider the impact of our work on the open source communities that we benefit from.
+1. Promote the importance of these open source communities within GitLab.
+1. Raise issue with any decision that goes against our [stewardship promises](https://about.gitlab.com/company/stewardship/#promises).
+1. Find opportunities to [contribute back the changes we make](https://about.gitlab.com/handbook/engineering/open-source/#using-forks-in-your-code).
 
 ## Public by default
 
@@ -238,7 +289,9 @@ If you need to submit a sensitive issue, please use confidential issues.
 If you are unsure whether something needs to remain private, check with the team Engineering Manager.
 
 ## YouTube Playlists
+
 The team regularly publishes demos, discussions and meetings to these playlists:
+
 * [Distribution Team Demos](https://www.youtube.com/playlist?list=PL05JrBw4t0KrPasGZcEUoHHIYdUtzpfA4) (Public) More on [team demos](demo.html).
 * [Distribution Team Discussions](https://www.youtube.com/playlist?list=PL05JrBw4t0KotcsilVcbCc1NBXUmWqEWy) (Mostly public, but some private content)
 * [Distribution Team Meetings](https://www.youtube.com/playlist?list=PL05JrBw4t0KoigLGkdYj9x2erU2NC24ij) (Private)
@@ -259,7 +312,7 @@ using the appropriate issue template in the same issue tracker.
 ## Work Resources
 
 General resources available to developers are listed in the
-[Engineering handbook](/handbook/engineering/#resources).
+[Sandbox cloud page](/handbook/infrastructure-standards/realms/sandbox/).
 
 In the Distribution team specifically, everyone should have access to the
 following resources:
@@ -270,6 +323,7 @@ following resources:
    - `omnibus-build-runners`
 - AWS build infrastructure
    - [GitLabTop account](https://gitlab-top.signin.aws.amazon.com/console)
+   - `cloud-native` EKS cluster for CI (requires a maintainer to [grant access](https://stackoverflow.com/questions/59987859/kubectl-error-you-must-be-logged-in-to-the-server-unauthorized/59991446#59991446))
 
 If you don't have access to any of these resources, create an
 [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues) and
@@ -280,13 +334,44 @@ assign it to your manager for approval.
 As part of the team responsibilities, team owns maintenance of infrastructure
 used for day to day work.
 For list of nodes and description of the maintenance tasks, see the
-[infastructure and maintenance](./maintenance) page.
+[infastructure and maintenance](/handbook/engineering/development/enablement/distribution/maintenance/) page.
 
 ## Team workflows
 
 General [engineering workflow](/handbook/engineering/workflow/) applies
 to the Distribution team. Since Distribution is working across multiple projects, our team workflow
-is further explained and summarised on the [Distribution workflow page](workflow.html).
+is further explained and summarized on the [Distribution workflow page](workflow.html).
+
+### Further reading
+
+The following important areas of the GitLab Handbook impact how we work and are worth reading.
+
+* [Distribution workflow page](workflow.html)
+* [General engineering workflow page](/handbook/engineering/workflow/)
+* [How to reinforce our values](/handbook/values/#how-do-we-reinforce-our-values)
+* [Continue to serve smaller users](/handbook/leadership/biggest-risks/#serve-smaller-users)
+* [Promises to our Open Source community](/company/stewardship/#promises)
+* [How to follow our Product Principles](/handbook/product/product-principles/#how-we-follow-our-principles)
+* [Principles of our company strategy](/company/strategy/#principles)
+* [Effective & Responsible Communication Guidelines](/handbook/communication/#effective--responsible-communication-guidelines)
+
+## Work/life harmony
+
+Working [all-remote](https://about.gitlab.com/company/culture/all-remote/) and [asynchronous first](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
+offer flexibility in how team members approach their workday. Team members must make choices on how best to balance work time with other areas of life.
+
+For new team members, the following resources provide examples on how to focus their time:
+
+- [How team members approach their day](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/907)
+- Blog post: [A day in life of a remote worker](https://about.gitlab.com/blog/2019/06/18/day-in-the-life-remote-worker/)
+- The option of a [non-linear workday](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/)
+- GitLab handbook: [Work/life Harmony](https://about.gitlab.com/company/culture/all-remote/people/#worklife-harmony)
+
+The following GitLab Handbook areas are key in maintaining a healthy work/life balance.
+
+- [Family and Friends First, work second](https://about.gitlab.com/handbook/values/#family-and-friends-first-work-second)
+- [Combating burnout, isolation, and anxiety in the remote workplace](https://about.gitlab.com/company/culture/all-remote/mental-health/)
+- [Recognizing Burnout](https://about.gitlab.com/handbook/paid-time-off/#recognizing-burnout)
 
 ## How to work with Distribution
 
@@ -299,15 +384,16 @@ inevitable and can happen, we should strive to avoid them.
 We expect every team to reach out to the Distribution team before scheduling a feature
 in an upcoming release in the following cases:
 
-* The change requires a new or an update on a gem with native extensions.
-* The change requires a new or updated external software dependency.
-  * Also when the external dependency has its own external dependencies.
-* The change adds, modifies, or removes files that should be managed by
-omnibus-gitlab. For example:
-  * The change introduces new directories in the package.
-  * The change introduces new files in previously not defined locations
-* The change requires a new configuration file.
-* The change requires a change in a previously established configuration.
+- Reach out to Distribution Build when:
+  - The change requires a new or an update on a gem with native extensions.
+  - The change requires a new or updated external software dependency.
+    - Also when the external dependency has its own external dependencies.
+- Reach out to Distribution Deploy when:
+  - The change adds, modifies, or removes files that should be managed by omnibus-gitlab. For example:
+    - The change introduces new directories in the package.
+    - The change introduces new files in previously not defined locations
+  - The change requires a new configuration file.
+  - The change requires a change in a previously established configuration.
 
 To sum up the above list:
 
@@ -324,6 +410,20 @@ your feature/change might not be shipped within the release.
 If you have any doubt whether your change will have an impact on the Distribution team,
 don't hesitate to ping us in your issue and we'll gladly help.
 
+### Requesting a new component or replacing a component
+
+Create a [Deliverables Request](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/new?issuable_template=Architectural-Deliverables-Request)
+in the Distribution team [issue tracker].
+
+### Requesting feedback on a feature change
+
+For requesting feedback you can ping `@gitlab-org/distribution` in your issue or merge request.
+
+When looking for a Distribution reviewer for a merge request you should use the process outlined in our
+[merge request workflow](merge_requests.html#workflow) for [projects owned by the Distribution team](#all-projects). For
+changes that need Distribution review outside those projects, please ping `@gitlab-org/distribution` in the merge
+request.
+
 ## Engaging Distribution for expertise in support
 
 There are occasions where the experise of the Distribution team may be needed in
@@ -339,4 +439,9 @@ days before action is needed to ensure the team has time to prepare.
 
 ## Trivia
 
-How did Distribution get its name? We iterated, as always. "Distribution" was chosen as better than "Install" when renaming the "Build" team, [live on an AMA](https://www.youtube.com/watch?v=gSyAFN6LPHU) with our CEO Sid.
+How did Distribution get its name? We iterated, as always. "Distribution" was chosen as better than "Install" when renaming the original "Build" team, [live on an AMA](https://www.youtube.com/watch?v=gSyAFN6LPHU) with our CEO Sid. Since then we have [iterated further](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/936) in order to grow the team, and now have subgroups for "Build" and "Deploy".
+
+## Dashboards
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Distribution" } %>
+

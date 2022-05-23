@@ -1,7 +1,0 @@
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="550" src="<%= signed_periscope_url({ dashboard: 736036, embed: 'v2', filters: [{name: filter_type, value: filter_value }], visible: ["development_section", "team_group", "stage"]  }) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>

@@ -13,8 +13,7 @@ title: "Create:Gitaly Team"
 
 The Gitaly team is responsible for building and maintaining systems to ensure
 that the git data storage tier of GitLab instances, and _GitLab.com in particular_,
-is fast. Gitaly migrated GitLab.com away from NFS, and is now working on a
-highly available Git storage layer.
+is reliable, secure and fast. For more information about Gitaly, see our [Direction](https://about.gitlab.com/direction/create/gitaly/) page.
 
 ## Mission
 
@@ -24,7 +23,7 @@ Provide a durable, performant, and reliable Git storage layer for GitLab.
 
 The following people are permanent members of the Gitaly Team:
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Gitaly') %>
+<%= direct_team(manager_slug: 'tim-z', role_regexp: /Gitaly/) %>
 
 ## Stable Counterparts
 
@@ -32,31 +31,79 @@ The following members of other functional teams are our stable counterparts:
 
 <%= stable_counterparts(role_regexp: /[&,] Create:Gitaly/, direct_manager_role: 'Backend Engineering Manager, Gitaly') %>
 
-## How we work
+## How to contact the team
 
-In general, we use the standard GitLab [engineering workflow]. To get in touch
-with the Create:Gitaly team, it's best to create an issue on the [Gitaly issue tracker]
-and add the `~"group::gitaly"` label, along with any other appropriate labels.
-Then, feel free to ping the relevant Product Manager and/or Engineering Manager
-as listed above.
+### Urgent issues and outages
 
-For more urgent items, feel free to use [#g_create_gitaly] on Slack.
+Gitaly team members do not carry pagers, but we live around the world and there's a good chance that someone is available during their working hours. There is no coverage for weekends; instead, we strive to empower incident responders to mitigate any circumstance.
 
-[engineering workflow]: /handbook/engineering/workflow/
+These issues relate to ongoing production outages or similar. They interrupt our process used to [schedule work] and get attention as soon as possible.
+Please only interrupt us sparingly, in these cases:
+- [Severity 1 or 2](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) issues, where you believe that Gitaly team has _immediately actionable_ work to do
+- Ongoing incidents where no mitigation exists that would tide us over until the next business day.
+
+**Getting attention on an urgent, interrupting issue**
+
+- If there's no issue filed yet, file one in the [Gitaly issue tracker] (remember that Security incidents and those containing customer details should be Confidential).
+- Tag Engineering Manager and Product manager (listed above) as well as `@gl-gitaly` (the [whole team](https://gitlab.com/groups/gl-gitaly/-/group_members)) on the issue.
+- Post on [#g_create_gitaly] on Slack, mention the issue, and tag EM and PM again.
+- The issue will be attended to by the first available staff member during their working hours, who will assign it to themselves, and explicitly hand it off by reassigning to the next person should this be necessary.
+
+### Customer issues
+
+Please file an issue [here](https://gitlab.com/gitlab-org/gitaly/-/issues/new?issuable_template=Support%20Request). Post it on [#g_create_gitaly] for more immediate visibility.
+
+### Normal priority requests
+
+We use the standard [engineering workflow] to [schedule work]. To get Gitaly team
+work on something, it's best to create an issue on the [Gitaly issue tracker]
+and add the `~"group::gitaly"` and `~"workflow::problem validation"` labels,
+along with any other appropriate labels.  Then, feel free to tag the relevant
+Product Manager and/or Engineering Manager as listed above.
+
+For information requests and other quick one-offs, feel free to use [#g_create_gitaly] on Slack to get attention on the issue.
+
+[schedule work]: https://gitlab.com/gitlab-org/gitaly/-/issues/4095
+[engineering workflow]: https://about.gitlab.com/handbook/product-development-flow/#workflow-summary
 [Gitaly issue tracker]: https://gitlab.com/gitlab-org/gitaly/issues
+[Gitaly ongoing work issue board]: https://gitlab.com/groups/gitlab-org/-/boards/1140874?label_name%5B%5D=group%3A%3Agitaly&milestone_title=Upcoming
 [#g_create_gitaly]: https://gitlab.slack.com/archives/g_create_gitaly
 
-### Working with product
+### Issues with `Infradev` labels
+
+These are typically [Corrective Actions or other followup items](https://about.gitlab.com/handbook/engineering/workflow/#infradev) that have strict
+SLO tracking. They will be scheduled through either of the above paths, by EM
+and/or PM polling these dashboards:
+
+- Dashboard for [Out of SLO Infradev issues](https://gitlab.okta.com/app/periscopedata/exk3fzi3sc0TkcYSj357/sso/saml)
+- [All Infradev issues](https://app.periscopedata.com/app/gitlab/899982/InfraDev?widget=12327718&udv=0) (sort by team)
+
+## Working with product
 
 A weekly call is held between the product manager and engineering manager,
 which is listed in the "Gitaly Team" calendar. Everyone is welcome to join and
 these calls are used to discuss any roadblocks, concerns, status updates,
 deliverables, or other thoughts that impact the group.
 
+### Gitaly consumers
 
-### Capacity planning
+To have a constant communication flow about planned changes, updates and maybe
+breaking changes we have the [#g_create_gitaly_consumers] Slack channel. In the
+channel we will provide updates for all teams using the service but also ask
+for assistance to provide feedback and insights about planned changes or improvements.
 
-<%= partial("handbook/engineering/development/dev/create/capacity_planning.erb") %>
+To support this pro-active communication additionally there is also an individual
+counterpart on the consumer side to help with research in the codebases and
+coordination with all the teams consuming Gitaly. The DRI on Consumer side is Igor Drozdov.
+
+The Gitaly consumers are:
+
+* [GitLab Rails](https://gitlab.com/gitlab-org/gitlab)
+* [GitLab Shell](https://gitlab.com/gitlab-org/gitlab-shell)
+* [GitLab Workhorse](https://gitlab.com/gitlab-org/gitlab/tree/master/workhorse)
+* [GitLab Elasticsearch Indexer](https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer)
+
+[#g_create_gitaly_consumers]: https://gitlab.slack.com/archives/g_create_gitaly_consumers
 
 ### Retrospectives
 
@@ -64,9 +111,16 @@ At the beginning of each release, the Gitaly EM will create a retrospective issu
 to collect discussion items during the release. The first weekly Gitaly meeting
 after the 18th that issue will be used to discuss what was brought up.
 
-Additionally, a weekly review is conducted by the Geekbot Slack integration. Each
-member of the `#gitaly-standup` channel on Slack will be prompted to fill out the
-weekly retrospective to review what you've learned and what can be improved.
+## Metrics
+
+### Useful links
+
+* [Actual pending Infradev issues](https://app.periscopedata.com/app/gitlab/899982/InfraDev?widget=12327718&udv=0) (sort by group, focus on gitaly)
+* [Error budget](https://dashboards.gitlab.net/d/stage-groups-detail-gitaly/stage-groups-gitaly-group-error-budget-detail?orgId=1)
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Gitaly" } %>
+
+## Team development
 
 ### Onboarding
 

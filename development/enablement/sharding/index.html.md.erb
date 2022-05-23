@@ -1,0 +1,117 @@
+---
+layout: handbook-page-toc
+title: Sharding Group
+description: "The Sharding Group is the direct outcome of applying our value of Iteration to the direction of the Database Scalability Working Group."
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+The Sharding Group is the direct outcome of applying our value of [Iteration](https://about.gitlab.com/handbook/values/#iteration) to the direction of the [Database Scalability Working Group](https://about.gitlab.com/company/team/structure/working-groups/database-scalability/). There are multiple proposals and ideas on increasing database scalability through different sharding implementations. The charter of this group is to explore some of these ideas, quickly iterate on them and validate proposals to provide a solution for scaling our database to accommodate 10 Million Daily Active Users (DAU) of GitLab.com, and lead the efforts to eventually implement the first iteration (MVC) of a sharded database that works with GitLab application at scale. As we iterate on these ideas, the list of potential outcomes includes:
+1. Incremental steps towards a larger sharding solution
+1. Defining work for various groups to implement sharding for their stage
+1. Blueprints for next steps as we expand the sharding implementations
+1. Case studies on why a proposal will not work
+1. The first iteration (MVC) of a sharded PostgreSQL database that works with the GitLab application
+
+As we brainstorm and iterate on sharding proposals, we will provide implementation details, prototypes, metrics, demos and documentation to support our hypotheses and outcomes.
+
+## Goals
+
+The executive summary goals for the Sharding Group include
+ 
+- Accomodate 10M daily-active users (DAU) on GitLab.com
+- Do not allow a problem with any given data store to affect all users
+- Minimize or eliminate complexity for our self-managed use-case
+
+## Team Members
+
+The following people are permanent members of the Sharding Group:
+
+<%= direct_team(manager_slug: 'backend-engineering-manager-sharding') %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+<table>
+<thead>
+<tr>
+<th>Person</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fabian Zimmer</td>
+<td><a href="/job-families/product/product-manager/">Principal Product Manager, Geo</a></td>
+</tr>
+</tbody>
+</table>
+
+## Team IC Gearing
+**Exception Ratio**: 1 Distinguished Engineer, multiple Staff Engineers : Team
+
+**Justification**: The Sharding team was formed exclusively to implement a sharding solution to solve our database limitations as outlined by the [Database Scalability Working Group](https://about.gitlab.com/company/team/structure/working-groups/database-scalability/). The project requires in-depth knowledge of PostgreSQL as well as into the application itself. To borrow some phrasing from the working group: _we recognize this problem cannot be solved to meet our needs and requirements if we limit ourselves to the database: we must consider careful changes in the application to make it a reality_. With that being said, the DRI had to be selective to ensure a small team of can achieve the above requirements to cover every corner of our database and codebase. All candidates were selected based on the required skills profile for the success of the project, to make the best mix and match by covering a spectrum of interests with a minimal group. There have also been multiple Staff engineers borrowed from other teams at various times to execute on these goals.
+
+## Meetings
+Where we can we follow the GitLab values and communicate asynchronously.  However, there have a few important recurring meetings.  Please reach out to the [#g_sharding](https://gitlab.slack.com/archives/C01TQ838Y3T) Slack channel if you'd like to be invited.
+
+With the globally distributed nature of this team, it is unlikely that we will have a synchronous meeting where everyone will attend. When we have synchronous meetings we will record the meetings and share written summaries with the links to the recordings. Currently we have the following recurring meeting scheduled.
+
+- Alternating Wednesdays 
+  - Sharding Group Sync (EMEA/AMER) 1:00PM UTC (6:OOAM PDT)
+  - Sharding Group Sync (APAC/AMER) 10:00PM UTC (2:00PM PDT)
+- Weekly Monday/Wednesday - Sharding Group Sync (APAC/EMEA) 8:30AM UTC (2:30AM PDT)
+
+## Work
+We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines.  To bring an issue to our attention please add the `~"group::sharding"` label along with any other relevant labels.  If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/sharding/#stable-counterparts) section above.
+- Issue Creation Workflow - our issue creation workflow can be viewed [here](./issue-creation-workflow.html)
+
+### Boards
+
+- [Sharding: Build](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Asharding) for issues assigned specifically to `~"group::sharding"`
+  - We are following a model similar to the process described in the [Geo Build Board - A short tour](https://www.youtube.com/watch?v=rZW0ou4u-dw&list=PL05JrBw4t0KoY_6FXXVgj7wPE9ZDS4cOw&index=6)
+- [Database Scalability Working Group ](https://gitlab.com/groups/gitlab-org/-/boards/2502942?label_name[]=wg_database-scalability) for issues related to database scalability efforts that span multiple teams
+- [Group::Sharding Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?state=opened&sort=end_date_asc&label_name%5B%5D=group%3A%3Asharding)
+
+### Working Agreement
+
+There are a few factors influencing some of our working agreements here. First, there is a lot of excitement about the goals and expected outcomes of this team. We are working on a really difficult problem, we have lofty expectations as to what we can deliver and many different potential solutions to investigate. Because of the critical nature of what we are going to deliver we need to be able to consistently and concisely describe our current efforts. Second, we are a newly formed team and we need to be explicit about how we work together to ensure success.
+
+Currently we are asking team members to update their issues with:
+- Epic Start Date and Due Date entries - this will allow us to dogfood our [roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?state=opened&sort=end_date_asc&label_name%5B%5D=group%3A%3Asharding) functionality within GitLab
+- Add `~sharding::active` to issues that we know we will be working on in the near future. This helps us to keep our [Sharding: Build](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Asharding) tidy, especially the Open and Closed columns
+
+We can continue to iterate on our working agreement as a team to ensure that we are a successful team and exceed expectations.
+
+### Demos
+
+It is expected that we share progress early and often by creating recorded demos. There will be specific requests for demonstration topics, but unscheduled demonstrations are welcome too. When recording a demo it does not need to be polished or perfect. Guidelines below:
+
+- Keep it simple, it doesn't need to be polished
+- For planned demos, open an issue to discuss the topics to be demonstrated with the team. Planned demos would include end of milestone or major functionality
+- For ad hoc, spur of the moment or other interesting discoveries that you would like to demo, just create it and announce in Slack
+- Demonstrate functionality, even if incomplete and only working locally
+- Record the demo and upload to the [Sharding Group](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr_xKd1sBqZ5ap_MJnniixO) playlist on GitLab Unfiltered
+- Announce the recording availablity to the #g_sharding slack channel
+
+We should be aiming for sharing demos on a weekly basis.
+
+### Proofs of Concept
+
+There will be many opportunities for us to undertake proofs of concept (POC). When we do, we agree to timebox the POC to 4 weeks and ideally to line up with milestone boundaries. When we need to make exceptions to this agreement we will employ [multimodal communication](/handbook/communication/#multimodal-communication) to ensure all stakeholders are properly apprised. 
+
+### Implementation Plans
+
+In the early phases of our work we will create implementation plans for review. As we create these implementation plans we will list them below.
+
+- [Migrate CI Tables To New Database Plan](./migrate-ci-tables-to-new-database-plan.html)
+
+## Dashboards
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Sharding" } %>

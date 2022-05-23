@@ -34,7 +34,7 @@ We've started to address this through manual invocations of [pg_repack](https://
 
 We came to realize that addressing index bloat is something we need to automate. This allows us to address this problem in a higher frequency, with no manual efforts and ultimately we maintain a healthy state of index bloat over time.
 
-We also expect larger self-hosted installations of GitLab to suffer from this problem. Therefore, we developed a reindexing feature that ships with GitLab. Currently, this is being rolled out to GitLab.com and once proven successful, the feature will be available and enabled in GitLab by default.
+We also expect larger self-managed installations of GitLab to suffer from this problem. Therefore, we developed a reindexing feature that ships with GitLab. Currently, this is being rolled out to GitLab.com and once proven successful, the feature will be available and enabled in GitLab by default.
 
 The reindexing implementation is based on the fact that a [majority of index bloat stems from regular (non unique) btree indexes](https://gitlab.com/gitlab-com/gl-infra/readiness/-/tree/master/library/database/postgres/bloat/#index-analysis). Those can be recreated relatively easily, without risk of prolonged locking situations:
 

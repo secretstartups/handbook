@@ -1,19 +1,15 @@
 We have a [metrics dashboard][dashboard] intended to
 track against some of the [Development Department KPIs][kpis], particularly
 those around merge request creation and acceptance. From that dashboard, the
-following charts show [MR Rate] and
-[Mean time to merge (MTTM)] respectively.
+following chart shows [MR Rate].
 
-<%= team_mr_rate_chart(team_id: 'plan_portfolio_management_be', html_options: { width: '49.7%', height: '300' }) %>
-<%= team_mean_time_to_merge_chart(team_id: 'plan_portfolio_management_be', html_options: { width: '49.7%', height: '300' }) %>
+<%= tag(:embed, src: signed_periscope_url(dashboard: 681347, chart: 9159032, embed: 'v2', filters: [{ name: 'team_group' , value: ['product planning', 'certify'] }, { name: 'technology_group' , value: 'backend' }]), width: '100%', height: '300') %>
 
+The following chart shows the MR Rate of the Dev section as a whole, for the
+identification of trends:
 
-The following chart shows a breakdown of MRs by category (omitting Security, for
-now). Totals may vary slightly from overall throughput as some MRs may have more
-than one throughput label.
-<%= team_mr_categories_chart(team_id: 'plan_portfolio_management_be') %>
+<%= tag(:embed, src: signed_periscope_url(dashboard: 681347, chart: 9159032, embed: 'v2', filters: [{ name: 'sub_department' , value: 'dev' }]), width: '100%', height: '300') %>
 
-[dashboard]: https://app.periscopedata.com/app/gitlab/570334/Universal-Engineering-Team-Metrics-Dashboard
+[dashboard]: https://app.periscopedata.com/app/gitlab/681347/Development-Embedded-Dashboard
 [kpis]: /handbook/business-ops/data-team/metrics/#development-department-kpis
-[MR Rate]: /handbook/engineering/development/performance-indicators/#mr-rate
-[Mean time to merge (MTTM)]: /handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm
+[MR Rate]: /handbook/engineering/performance-indicators/#engineering-mr-rate

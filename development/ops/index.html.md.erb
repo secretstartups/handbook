@@ -1,6 +1,9 @@
 ---
 layout: handbook-page-toc
 title: Ops Sub-department
+description: >-
+  The Ops Sub-department is composed of development teams working on Verify,
+  Package, Release, Configure, and Monitor features of GitLab DevOps Platform.
 ---
 
 ## On this page
@@ -9,129 +12,166 @@ title: Ops Sub-department
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-
 ![Ops Overview](/images/direction/ops/ops-overview.png)
-
 <!-- source: https://docs.google.com/presentation/d/1606LcicYP-QKMjHHzTEvZSrx5qkW9LpHiKQUWlggdEk/edit#slide=id.g82767e51d3_1_0 -->
-
-The Ops Sub-department is composed of development teams working on Verify Package, Release, Configure, and Monitor features of GitLab DevOps Platform.
+The Ops Sub-department is composed of development teams working on Verify, Package, Release, Configure, and Monitor features of GitLab DevOps Platform.
 
 ## Teams and Handbook Pages
 
 The following teams comprise the sub-department:
 
-* Verify stage - [handbook](/handbook/engineering/development/ops/verify/)
-    * Continuous Integration - [handbook](/handbook/engineering/development/ops/verify/continuous-integration/), [jtbd](/handbook/engineering/development/ops/verify/continuous-integration/jtbd/)
-    * Pipeline Authoring - [handbook](/handbook/engineering/development/ops/verify/pipeline-authoring/), jtbd
-    * Testing - [handbook](/handbook/engineering/development/ops/verify/testing/), [jtbd](/handbook/engineering/development/ops/verify/testing/JTBD/)
-    * Runner - [handbook](/handbook/engineering/development/ops/verify/runner/), jtbd
-* Package stage - [handbook](/handbook/engineering/development/ops/package/)
-    * Package - [handbook](/handbook/engineering/development/ops/package/), [jtbd](/handbook/engineering/development/ops/package/jtbd/)
-* Release stage
-    * Release - [handbook](/handbook/engineering/development/ops/release/), [jtbd](/handbook/engineering/development/ops/release/jtbd/)
-* Configure stage
-    * Configure - [handbook](/handbook/engineering/development/ops/configure/)
-* Monitor stage - [handbook](/handbook/engineering/development/ops/monitor/)
-    * Monitor - [handbook](/handbook/engineering/development/ops/monitor/monitor), [jtbd](/handbook/engineering/development/ops/monitor/monitor/jtbd/)
+- Verify stage - [handbook](/handbook/engineering/development/ops/verify/)
+    - Pipeline Execution - [handbook](/handbook/engineering/development/ops/verify/pipeline-execution/), [jtbd](/handbook/engineering/development/ops/verify/pipeline-execution/jtbd/)
+    - Pipeline Authoring - [handbook](/handbook/engineering/development/ops/verify/pipeline-authoring/), jtbd
+    - Pipeline Insights - [handbook](/handbook/engineering/development/ops/verify/pipeline-insights/), [jtbd](/handbook/engineering/development/ops/verify/pipeline-insights/JTBD/)
+    - Runner - [handbook](/handbook/engineering/development/ops/verify/runner/), jtbd
+- Package stage - [handbook](/handbook/engineering/development/ops/package/)
+    - Package - [handbook](/handbook/engineering/development/ops/package/), [jtbd](/handbook/engineering/development/ops/package/jtbd/)
+- Release stage
+    - Release - [handbook](/handbook/engineering/development/ops/release/), [jtbd](/handbook/engineering/development/ops/release/jtbd/)
+- Configure stage
+    - Configure - [handbook](/handbook/engineering/development/ops/configure/), jtbd
+- Monitor stage - [handbook](/handbook/engineering/development/ops/monitor/)
+    - Monitor:Respond - [handbook](/handbook/engineering/development/ops/monitor/respond/), [jtbd](/handbook/engineering/development/ops/monitor/monitor/jtbd/)
+    - Monitor:Observability - [handbook](/handbook/engineering/development/ops/monitor/observability/), jtbd
 
 ## Product Direction
 
-Product direction can be found on the [Ops Section Product Direction](/direction/ops) handbook page.
-
+Product direction can be found on the [Ops Section Product Direction](/direction/ops/) handbook page.
 
 ## Performance Indicators
 
-Peformance Indicator dashboards relevant to the Sub-department.
-
-* [Ops Sub-department Performance Indicators ](/handbook/engineering/development/performance-indicators/ops/)
-* [Ops Sub-department Metrics](https://app.periscopedata.com/app/gitlab/694012/Ops-Sub-department-Metrics)
-* [CI/CD Section Metrics](https://app.periscopedata.com/app/gitlab/556687/CI-CD-Section-Metrics)
-* [Development Department and Sub-department MR Metrics](https://app.periscopedata.com/app/gitlab/533956/Development-Department-and-Sub-department-MR-Metrics)
-* [WIP Team Dashboard (filter to Ops)](https://app.periscopedata.com/app/gitlab/681347/WIP:-Team-Dashboard)
-
-## Communications
-
-### Slack channels
-
-* [#ops-section](https://gitlab.slack.com/archives/CKW6KLB8F) - Ops Section discussions spanning the Verify, Package, Release, Configure, and Monitor Stages
-* [#doe-ops](https://gitlab.slack.com/archives/CT9CM1VDJ) - Channel for GitLab's Director of Engineering, Ops
+- [Ops Sub-department Performance Indicators](/handbook/engineering/metrics/ops/)
+- [Error Budgets](/handbook/engineering/error-budgets/) as Performance Indicators for stage groups
 
 
-### Meetings
+## Slack channels
+
+- [#ops-section](https://gitlab.slack.com/archives/CKW6KLB8F) - Ops Section discussions spanning the Verify, Package, Release, Configure, and Monitor Stages
+- [#ops_staff_plus](https://gitlab.slack.com/archives/C0305PJB9JR) - Foster collaboration and technical leadership within Ops section
+- [#doe-ops](https://gitlab.slack.com/archives/CT9CM1VDJ) - Channel for GitLab's Director of Engineering, Ops
+- [🔒ops-staff-confidential](#private) - Channel for reviewing Ops promotion docs or sharing other confidential information.  Please use #doe-ops or #ops-section for topics that don’t require confidentiality.
+
+## Meetings
 
 Ops Sub-department regular meetings
 
 | Meeting | Invitees (open to anyone) | DRI | Purpose | Cadence (duration) | Notes |
-|---------|---------------------------|---------|---------|---------|-------|
-| Staff | Direct Report + People Business Partner | Sam Goldstein | discuss group initiatives and announcements | weekly (25 mins) | |
+| ------- | ------------------------- | --- | ------- | ------------------ | ----- |
+| Staff | EMs, Staff+ Engineers, People Business Partner | Sam Goldstein | discuss group initiatives and announcements | weekly (async) | We are [experimenting with conducting this meeting async](#async-ops-sub-department-staff-meeting). |
 | Skip-Level | Skip level EMs and ICs + People Business Partner | Sam Goldstein | roundtable discussion / opportunity to build connections across the group | monthly |  |
-| CI/CD staff | Sr. Managers + Managers from CI/CD | TBD | discuss group initiatives and announcements | bi-weekly (alternates with 2 below) (25 mins) | |
-| Continuous Integration staff | Sr. Manager Verify + Managers | Darby Frey | discuss group initiatives and announcements | bi-weekly (25 mins) | |
-| Continuous Delivery staff | Sr. Manager Continuous Delivery + Managers | Dan Croft | discuss group initiatives and announcements | bi-weekly (50 mins) | |
-| CI/CD management retrospective | All managers + quality manager | Dan Croft | retrospect on previous milestone | monthly (50 mins) | Any manager can invite people to this meeting |
-| Ops Engineering Demos| All engineering team members | Darby Frey | Engineering focused demonstrations of code and achievements | monthly (50 mins) | APAC and EMEA timezones, a person is selected to coordinate the demonstrations for each month |
+| Continuous Integration staff | Sr. Manager Verify + Managers | Cheryl Li | discuss group initiatives and announcements | bi-weekly (25 mins) |  |
+| Continuous Delivery staff | Sr. Manager Continuous Delivery + Managers | Dan Croft | discuss group initiatives and announcements | bi-weekly (25 min / 50 mins) | 25 mins one week, 50 the next. People looking to learn about management can attend the 25 minute meeting. |
+| Ops Engineering Showcase (formerly demos) | All engineering team members | Mark Nuzzo | Engineering-focused showcase of code and achievements | monthly (50 mins) | Mark Nuzzo coordinates the region [showcases](https://gitlab.com/groups/gitlab-com/-/epics/1157) for each month |
+| Ops promotion reviews | Director, Sr. Managers, Managers | Sam Goldstein | Discussion and calibration on promotion documents for the quarter | Quarterly | We'll discuss an decide if we want to do this monthly and whether we want a post calibration meeting as well. |
+| Observability Weekly Sync | Product, Development, and Community leads for Observability integration and launch | Sam Goldstein | Efficiently communicate weekly activities across functions (e.g. Product, Development, Community Relations).  Create clear understanding of what we intend to accomplish this week. | Weekly (25 min) | [Agenda](https://docs.google.com/document/d/17fYO-rIpD3B3n9YaNMEorcxkgMjskLIEdBfvtTMpZbY/edit#) |
+| Ops Hiring Manager Sync | Hiring managers | Sam Goldstein | Support hiring manager efforts.  Updates and tracking of hiring activity.  Tricks and tips for effective hiring. | Weekly (25 min) | [Agenda](https://docs.google.com/document/d/1jl407WpUkPx9wc_ZQHGn77CywMURL9NS7ONWoLpGGds/edit) |
 
-### Planning Processes
+### Async Ops Sub-department Staff Meeting
+
+The weekly Ops Staff meeting follows this async format:
+
+1. _each Friday_ - Director of Ops:
+    1. Update [agenda doc](https://docs.google.com/document/d/16Swf5ZdnuUSvVOqbm9jCdKM8DrNsgAcb8LgG9OMOFho/edit) with relevant topics
+    1. Respond to questions or items added by team members
+1. _each Tuesday_ - Reminder is posted in #doe-ops slack channel:
+    1. Review agenda doc
+    1. Add additional items, questions, and content
+
+### Ops Engineering Showcase
+
+Each month there are two showcase sessions organized for both APAC and AMER/EMEA timezones. These sessions are organized as opportunities for engineers to show off the things they've been working on. These sessions are each organized via a planning issue linked in the epic below. Sessions are recorded and uploaded to YouTube as well.
+
+[Ops Engineering Showcase Epic](https://gitlab.com/groups/gitlab-com/-/epics/1157)
+
+### Recordings 
+
+| Year | Month | AMEA | APAC | Async videos |
+| ------ | ------ | ------ | ------ | ------ |
+| 2022 | June | | | |
+| 2022 | May | [Video](https://www.youtube.com/watch?v=imi4MvUTqko) | No showcases | |
+| 2022 | April | [Video](https://www.youtube.com/watch?v=cReKa3IvFTw) | [Video](https://youtu.be/cikmJS_CqqE)| |
+| 2022 | March | [Video](https://youtu.be/4qmxGUh5GX0) | No showcases | |
+| 2022 | February | [Video](https://youtu.be/HIT4UMwsf9U) | No showcases |  |
+| 2022 | January | [Video](https://www.youtube.com/watch?v=ta-PXbO3zLY) | No showcases | [Jobs UI Refactor](https://www.youtube.com/watch?v=lJfjjbcEcFQ) |
+| 2021 | December | [Video](https://youtu.be/rXHJHjEJZIk) | No showcases | |
+| 2021 | November | [Video](https://youtu.be/bg-Dv9F_Sq4) | No showcases | |
+| 2021 | October | [Video](https://www.youtube.com/watch?v=MOKr_4_0Rnc) | [Video](https://www.youtube.com/watch?v=60sLF3phB7g) | |
+| 2020 | November | [Video](https://youtu.be/gkddYCRYdSk) | [Video](https://youtu.be/_nbAJODHyTs) | |
+| 2020 | October | [Video](https://youtu.be/Abg5rCqRDVE) | Skipped | |
+| 2020 | September | [Video](https://www.youtube.com/watch?v=hjHg_aG7Wr0) | [Video](https://www.youtube.com/watch?v=LUIdfAQf1B0) | |
+| 2020 | August | [Video](https://www.youtube.com/watch?v=H47juOWB2F8) | [Video](https://www.youtube.com/watch?v=RABnrVmios0) | |
+
+## Planning Processes
 
 Planning processes followed by teams in the Sub-department:
 
-* [General Ops Sub-department Planning Process](/handbook/engineering/development/ops/general-planning.html)
+- [General Ops Sub-department Planning Process](/handbook/engineering/development/ops/general-planning.html)
 
-### Ops Engineering Demos
+## Ops Promotion Process
 
-Each month there are two demos sessions organized for both APAC and EMEA timezones. These sessions are organized as opportunities for engineers to show off the things they've been working on. These sessions are each organized via a planning issue linked in the epic below. Sessions are recorded and uploaded to YouTube as well.
+### Promotion Document Reviews
 
-[Ops Engineering Demos Epic](https://gitlab.com/groups/gitlab-com/-/epics/1157)
+1. Team Member and Manager work together to create promotion document.
+1. Promotion document is shared with Ops Sub-Department managers in #ops-staff-confidential channel (private to Ops Managers, Senior Managers, Director) to receive feedback on the document content and how it calibrates with others in the Sub-Department.  This can be done early and often.
+1. Manager requests another Manager in the Sub-Department review and approve the document.
+1. Manager requests Senior Manager in the Sub-Department review and approve the document.
+1. Manager requests Director add Team Member to list of Sub-Department planned promotions.  If the team member cannot be added Director will provide feedback to Manager as to why.
+1. Director presents promotion doc at Development Department quarterly promotion review meeting.  If the promotion is not approved Director will provide feedback to Manager as to why.
 
-##### Recordings
+### Quarterly Promotion Review Meeting
 
-| Month     | AMEA | APAC |
-|-----------|------|------|
-|   2020    |      |      |
-| August    | [Video](https://www.youtube.com/watch?v=H47juOWB2F8) | [Video](https://www.youtube.com/watch?v=RABnrVmios0) |
-| September | [Video](https://www.youtube.com/watch?v=hjHg_aG7Wr0) | [Video](https://www.youtube.com/watch?v=LUIdfAQf1B0) |
-| October   | [Video](https://youtu.be/Abg5rCqRDVE) | Skipped |
-| November  | [Video](https://youtu.be/gkddYCRYdSk) | [Video](https://youtu.be/_nbAJODHyTs) |
-| December  |       |      |
+Ops Managers, Sr. Managers, and Directors meet in the last month of each quarter to:
 
-## Celebrations
+1. Review promotion projections for each group.  Managers add a list of their direct reports who they anticipate will be ready for promotion in the next 3 quarters to the meeting agenda.  *Note these lists may change and are not a guarantee a team member will be promoted in a specific quarter.  The lists are used for planning purposes, to help us anticipate the number of team members approaching promotion, budget impact, and to support calibration across the group.*
+These lists should include:
+    1. Team Member name
+    1. Targeted promotion quarter
+    1. Link to promotion doc 
+    1. Whether the doc has received any Ops Manager or Ops Senior Manager approvals. 
+1. Review Ops team member promotion docs planned to be presented at Development Department quarterly promotion review meeting.
 
-### 2020 Ops Sub-department Year End Holiday Celebration
+## Ops Hiring process
 
-To celebrate the holiday season and recognize the many incredible things we have accomplished this year, we will be organizing a combination of swag and virtual events within the Ops Sub-Dept.
+We have limited capacity in the recruiting team so hiring managers are experimenting with the [Ops Hiring process](/handbook/engineering/development/ops/hiring-process/).  We also hold a weekly hiring manager sync meeting (see Meetings section).
 
-The e-group has allocated a $45 per person budget which engineering managers are responsible for spending based on their number of direct reports. 
-Expenses against the $45/person target can be submitted for reimbursement via Expensify.  Expenses should be incurred in December or January so they don’t roll over into FY22.
+## Objectives & Key Results (OKRs)
 
-#### Year End Holiday Celebration Swag and Virtual Events
+### Planning schedule
 
-| Description | Organizer | Details |
-|-------------|-----------|---------|
-| Verify Team Hoodies | @darbyfrey | https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10205 |
-| Monitor Team Hoodies | @crystalpoole |  [monitor#53](https://gitlab.com/gitlab-org/monitor/monitor/-/issues/53) |
-| Ops Section Among Us Tournament | @crystalpoole | https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10269 |
+| OKR Schedule | Task |
+| :----------- | :--- |
+| 5 weeks before | OKR kickoff.  Quick sync to review schedule and expectations. Director Ops and direct reports. |
+| 4 weeks before | Next Quarter OKR Planning - Initial Review Session - Director, SEMs, EMs - Review CEO, CTO, CProjO and VP Development OKR drafts |
+| 3 weeks before | Next Quarter OKR Planning - 50 minute Director/SEM OKR review meeting. Ops Directors+, Sr. EMs, Group PMs propose OKRs for their groups in Working Drafts ([existing document](https://docs.google.com/document/d/1Auon_HTohhEdJiCJdXg_e8uHOHZapGmTSU5YPb58Chg/edit#) (internal)) |
+| 2 weeks before | Next Quarter OKR Planning - 50 minute SEM/EM meeting for Verify and CD compartment.  EMs propose OKRs for their groups via issues linked from review meeting doc. |
+| 1 week before | OKRs are moved into Ally. Directors, SEMs, EMs document how to achieve following guidance in https://about.gitlab.com/company/okrs/#documenting-how-to-achieve |
+| 1 week before | OKRs and how to achieve docs are shared by DRIs in #doe-ops and other appropriate slack channels. |
+| 1st week of quarter | Ops Sub-Dept OKR AMA.  25 minute kickoff meeting to discuss OKRs and answer questions. |
 
-### June 2020 Ops Sub-department Virtual Pizza Party
+### Creating OKRs
 
-The Ops Sub-department is holding a Virtual Pizza Party to celebrate our collective achievements in May.  Specifically these include:
+- Target a 70% completion rate for OKRs so that we are setting goals ambitiously. They should be challenging enough that [accomplishing 100% is a stretch goal,since GitLab considers OKRs to be stretch goals by default](https://about.gitlab.com/company/okrs/#okrs-are-stretch-goals-by-default).
+- If your OKRs are associated with any specific types of issues, consider reviewing the [prioritization framework](https://about.gitlab.com/handbook/product/product-processes/#prioritization), and align with your team on your OKRs priority relative to one another (for example, OKRs with issues with "forced prioritization") and be clear on planning of the associated work over the quarter.
+- Ensure Key Results (KRs) are measurable, by specifying a number (% or unit) as the target. Be clear on the starting number, and the expected end result (e.g. `from x to y`).
+- Ideally create no more than 9 KRs per quarter, ideally with approximately 3 KR per objective. 
 
-1. Shipped a ton of awesome features and improvements including:
-      1. Terraform State Backend
-      1. Terraform Plan summary in MRs
-      1. Rolled out a GitLab Metric Dashboard as GitLab.com's new official SLA dashboard
-      1. Shipped variables in Metric Dashboards and a bunch of other dashboard improvements
-      1. Brought Alert Management from planned to minimal in one milestone
-      1. Multiple Status Page improvements, such as the /publish feature
-1. A [significant increase in MRs](https://app.periscopedata.com/app/gitlab/533956/Development-Department-and-Sub-department-MR-Metrics?widget=7009931&udv=0).  We merged 405 MRs, a 38% increase over the previous all time high of 292!
+### Tracking and completing OKRs
 
-These are impressive results and we will take a moment to celebrate everyone's hard work contributing to them.
+- DRIs are expected to score OKRs on a regular basis, at least monthly, if possible.
+- At the end of the quarter, DRIs can add a retrospective as a comment to reflect on the progress of their KR, in the following format:
 
-Members of the Ops Sub-department and their stable counterparts can expense up to $25 in the month of June for pizza (or food items of your choice).  We will also hold several Pizza Party meetings where team members can (optionally) enjoy their pizza with their colleagues and a slack channel where team members can (optionally) share photos of themselves celebrating.  Expenses must be incurred in the month of June 2020 and should be submitted through the normal expense process, with a description of June 2020 Ops Sub-department Virtual Pizza Party.
+```
+**Good**
+- Things that went well...
 
-#### Virtual Pizza Party Slack channel
+**Bad**
+- Things that didn't go so well...
 
-The slack channel [#ops-virtual-pizza-party-celebration](https://join.slack.com/share/zt-f7fhemhc-aG8oXIt92yNTFZ135x5y_Q) is created for you to (optionally) share photos with your teammates of you celebrating May's accomplishments.
+**Try**
+- What might you do differently next time?
+```
 
-#### Virtual Pizza Party Zoom Calls
+## Weekly Updates
 
-Pizza Party meetings where team members can (optionally) enjoy their pizza with their collegues.
+Some teams within Ops create weekly updates to communicate their progress. To receive notifications for weekly status issues, you can subscribe to the `~OpsSection::Weekly-Update` label in both the [gitlab-org](https://gitlab.com/groups/gitlab-org/-/labels?subscribed=&search=opssection) and [ops-sub-department](https://gitlab.com/groups/gitlab-com/ops-sub-department/-/labels?subscribed=&search=opssection) groups.

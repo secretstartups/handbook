@@ -1,0 +1,71 @@
+---
+layout: handbook-page-toc
+title: Secure, Threat Insights
+description: "The Threat Insights group at GitLab is charged with developing solutions to enable customers to manage their security risks effectively and efficiently."
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Threat Insights
+
+We are responsible for developing solutions to give customers insights into threats and enable them to manage their security risks effectively and efficiently.
+
+## Common Links
+
+* Slack channel: #g_secure_threat_insights
+* Slack alias: @threat_insights_be
+* Google groups: eng-dev-secure-threat-insights-members@gitlab.com
+
+## How we work
+
+### Prioritization
+
+We use our [Threat Insights Priorities](https://gitlab.com/gitlab-org/gitlab/-/issues/299275) issue to track what we are doing, and what order to do it in.  Each initiative includes these fields:
+
+1. Name - Description and link to the epic
+1. BE DRI / FE DRI - indicates the backend and frontend [DRIs](/handbook/engineering/development/sec/protect/planning/#epic-engineering-dri) who will be actively involved. 
+1. Status
+   - Not started: No implementation issues should be scheduled. There is likely a Design issue in progress, and there may be issues in planning breakdown. We may have implementation issues if we're planning to start it soon.
+   - Started: The scope of the epic should be locked-down, and we have implementation issues scheduled.
+   - Complete: Epic is code complete and is in production but may be behind a feature flag. The epic may contain open issues; in this case the issues may be moved to a new epic.
+1. Comment - Additional details or capacity needs
+
+Complete items are removed from the table once the code is in production without a feature flag, and a release post, if applicable, has been merged. The epic is closed at this point.
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Threat Insights" } %>
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="300" src="<%= signed_periscope_url({ dashboard: 1020520, embed: 'v2', filters: [{name: filter_type_for("quality", "group"), value: filter_value_for('quality', "group", "Threat Insights") }], visible: ["team_group", "stage","development_section"], data_ts: Date.today.to_time.to_i }) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+### Workflow
+
+The Threat Insights group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/).
+Additional information about how we operate can be found on the [Protect Planning page](/handbook/engineering/development/protect/planning/).
+
+### Issue Boards
+
+* [Threat Insights Delivery Board](https://gitlab.com/groups/gitlab-org/-/boards/1754666?scope=all&utf8=%E2%9C%93&milestone_title=%23started&label_name[]=group%3A%3Athreat%20insights)
+   * Primary board for engineers from which engineers can work. It's stripped down to only include the workflow labels we use when delivering software.
+
+* [Threat Insights Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1420734?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Athreat%20insights)
+   * Milestone-centric board primarily used by product management to gauge work in current and upcoming milestones.
+
+## Monitoring
+
+- [Stage Group dashboad on Grafana](https://dashboards.gitlab.net/d/stage-groups-threat_insights/stage-groups-group-dashboard-secure-threat-insights?orgId=1)
+
+### Community Contributions
+The Threat Insights grop welcomes community contributions. Any community contribution should get prompt feedback from one of the Threat Insights engineers. All engineers on the team are responsible for working with community contributions. If a team member does not have time to review a community contribution, please tag the Engineering Manager, so that they can assign the community contribution to another team member.
+
+### Largest Contentful Paint (LCP) 
+
+As part of FY22-Q1 OKRs, we've started tracking and monitoring the Largest Contentful Paint for our web pages. The results can be viewed on [this Grafana dashboard](https://dashboards.gitlab.net/d/sftijGFMz/sitespeed-lcp-leaderboard?from=now-90d&orgId=1&to=now&refresh=30s&var-namespace=sitespeed_io&var-path=desktop&var-domains=gitlab_com&var-pages=Secure_Instance_Dashboard_Settings&var-pages=Secure_Instance_Security_Dashboard&var-pages=Secure_Instance_Vulnerability_Report&var-pages=Secure_Group_Security_Dashboard&var-pages=Secure_Group_Vulnerability_Report&var-pages=Secure_Project_Security_Dashboard&var-pages=Secure_Project_Vulnerability_Report&var-pages=Secure_Standalone_Vulnerability&var-browser=chrome&var-connectivity=cable&var-function=median).

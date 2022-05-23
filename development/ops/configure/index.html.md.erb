@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Configure Group
+description: "The Configure group is responsible configure stage of the DevOps lifecycle."
 ---
 
 ## On this page
@@ -22,13 +23,13 @@ overall vision.
 The Configure group is responsible for developing Ops-focused features of GitLab
 that relate to the "Configuration" and "Operations" stages of the DevOps
 lifecycle. These refer to the configuration of infrastructure, and the running
-of applications deployed via GitLab. 
+of applications deployed via GitLab.
 
-Our mission is to make the everyday work of the Platform Engineer more pleasant and enable Software 
+Our mission is to make the everyday work of the Platform Engineer more pleasant and enable Software
 Developers and Application Operators to deploy to company infrastructures without barriers.
 
 This team is currently building out more features for our Kubernetes integration,
-including the [Auto DevOps](/product/auto-devops/) feature set, and making it easier for
+including the [Auto DevOps](/stages-devops-lifecycle/auto-devops/) feature set, and making it easier for
 GitLab users to make the most of Kubernetes and DevOps best practices.
 
 As per the [product categories](/handbook/product/categories/), this team
@@ -54,20 +55,20 @@ We break down this metric into input metrics by product category and might come 
 ``` mermaid
 classDiagram
   Acquistion --|> Activation
-	Acquistion : Are users aware of the product or feature set?
-	Acquistion: Measurement (Count of Operations/Kubernetes docs views)
+	Acquistion: Are users aware of the product or feature set?
+	Acquistion: Count of Operations/Kubernetes docs views
   Activation --|> Retention
-	Activation : Are users applying the feature?
-	Activation: Measurement (Count of the number of the registered Kubernetes Agents with valid tokens)
+	Activation: Are users applying the feature?
+	Activation: Count of the number of the registered Kubernetes Agents with valid tokens
   Retention --|> Revenue
-	Retention : Are users applying the feature over time?
-	Retention: Measurement (Count of the number of GitOps synchronization operations)
+	Retention: Are users applying the feature over time?
+	Retention: Count of the number of GitOps synchronization operations
   Revenue --|> Referral
-	Revenue : Are users paying for the features?
-	Revenue: Measurement (# of paying users that have installed an agent / Total users that have installed an agent.)
+	Revenue: Are users paying for the features?
+	Revenue: Number of paying users that have installed an agent / Total users that have installed an agent.
   Referral --|> Acquistion
-	Referral : Are users encouraging others to use the feature?
-	Referral: Measurement (Count of pageviews on Kubernetes cluster documentation coming from referrals)
+	Referral: Are users encouraging others to use the feature?
+	Referral: Count of pageviews on Kubernetes cluster documentation coming from referrals
 ```
 
 #### AARRR for Infrastructure as Code
@@ -82,74 +83,202 @@ The following graph shows the metrics defined for Terraform reports. We want to 
 ``` mermaid
 classDiagram
   Acquistion --|> Activation
-	Acquistion : Are users aware of the product or feature set?
-	Acquistion: Measurement (Count of pageview on Infrastructure as Code documentation)
+	Acquistion: Potential users to use our IaC features
+	Acquistion: Count of new projects with HCL code
   Activation --|> Retention
-	Activation : Are users applying the feature?
-	Activation: Measurement (Number of projects with Terraform reports in the last month)
+	Activation: Are users applying the feature?
+	Activation: Number of projects with Terraform reports in the last month
   Retention --|> Revenue
-	Retention : Are users applying the feature over time?
-	Retention: Measurement (Number of Terraform reports generated in the last month)
+	Retention: Are users applying the feature over time?
+	Retention: Number of Terraform reports generated in the last month
   Revenue --|> Referral
-	Revenue : Are users paying for the features?
-	Revenue: Measurement ((# of paying users that have Terraform reports / Total users that have have Terraform reports.))
+	Revenue: Are users paying for the features?
+	Revenue: Number of paying users that have Terraform reports / Total users that have have Terraform reports.
   Referral --|> Acquistion
-	Referral : Are users encouraging others to use the feature?
-	Referral: Measurement (Count of pageviews on Infrastructure as Code documentation coming from referrals)
+	Referral: Are users encouraging others to use the feature?
+	Referral: Count of pageviews on Infrastructure as Code documentation coming from referrals
 ```
+
+### Contribution to GitLab
+
+At GitLab we build a single application for the whole DevOps lifecycle. The Configure group contributes to this vision at two levels. Similarly to other groups, if the usage of our features increases (measured by Stage Monthly Active Users), then more people and organisations benefit from GitLab's offerings in our area. Moreover, we own a special product category, Auto DevOps. Through Auto DevOps, we aim to enable the usage of features in every DevOps stage, thus driving business critical metrics, like Stages per User and Stages per Organisation.
 
 ## Team Members
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Configure') %>
+<%= direct_team(manager_slug: 'nicolo-maria-mezzopera') %>
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Configure/, direct_manager_role: 'Backend Engineering Manager, Configure') %>
+<%= stable_counterparts(role_regexp: /[,&] Configure/, manager_slug: 'nicolo-maria-mezzopera') %>
 
 ## Common Links
 
-- [Issue Board](https://gitlab.com/groups/gitlab-org/-/boards/1223426?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Aorchestration)
-- [Slack Team Channel](https://gitlab.slack.com/archives/s_configure)
-- [Slack Standup Channel](https://gitlab.slack.com/archives/s_configure_standup)
+- [Development Board](https://gitlab.com/groups/gitlab-org/-/boards/2327100?milestone_title=13.11&&label_name[]=group%3A%3Aconfigure)
+- [Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/2395842)
+- [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?state=opened&sort=end_date_asc&label_name%5B%5D=group%3A%3Aconfigure&label_name%5B%5D=Roadmap)
 - [How we structure our day](https://gitlab.com/gl-retrospectives/configure/issues/17)
+- [General Slack channel](https://gitlab.slack.com/archives/s_configure)
+- [Standup Slack channel](https://gitlab.slack.com/archives/s_configure_standup)
+- [Social Slack channel](https://gitlab.slack.com/archives/s_configure_social)
 
 Some dedicated Slack channels:
 
-* Kubernetes Agent: `f_kubernetes_agent`
-* Secrets management: `f_secrets_management`
-* Vault integration: `f_vault_integration_secrets_mgmt`
+* Agent for Kubernetes: [`f_agent_for_kubernetes`](https://gitlab.slack.com/archives/f_agent_for_kubernetes)
+* Secrets management: [`f_secrets_management`](https://gitlab.slack.com/archives/f_secrets_management)
+* Vault integration: [`f_vault_integration_secrets_mgmt`](https://gitlab.slack.com/archives/f_vault_integration_secrets_mgmt)
+* Terraform backend: [`f_terraform_backend`](https://gitlab.slack.com/archives/f_terraform_backend)
+* [Terraform provider](https://github.com/gitlabhq/terraform-provider-gitlab): [`terraform-provider`](https://gitlab.slack.com/archives/terraform-provider)
+* Auto DevOps: [`f_autodevops`](https://gitlab.slack.com/archives/f_autodevops)
+
+## Insights
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Configure" } %>
 
 ## Processes
 
+### Acronyms 
+
+- Engineers: All the Engineers of the Configure team
+- Engineering: Engineers and the Engineering Manager
+- EM: Engineering Manager
+- PM: Product Manager
+- FE: Frontend Engineer
+- BE: Backend Engineer
+- UX: User Experience Designer
+- TW: Technical Writer
+
+### Problem validation and vision setting
+
+The product manager practices [continuous interviewing](https://medium.com/@ttorres/continuous-interviewing-the-key-to-successful-product-teams-6bf63bfc1936). Continuous interviewing is not organized around any specific problem, but rather, it is a means to continuously learn from our users to uncover insights that can be applied towards product discovery. These interviews follow the same script most of the time, with the potential focus shifting as warranted when digging deeper into specific aspects of the user's problem.
+
+All the interviews are open to all the team members. The PM notifies the team in the group slack channel about upcoming interviews. All the team members are encouraged to take part in the interviews from time to time to have a first-hand experience listening to customer problems.
+
+With the customer's consent, the interviews are recorded and added to [Dovetail](https://dovetailapp.com/projects/22141897-42eb-4a96-8038-4c0467c7c58b/data/b/5cf7e46b-aca3-405e-ae39-8ee1304115a6) where the notes/transcript are tagged for future reference.
+
+Sometimes, another tool (e.g. spreadsheet) is used to build an [opportunity solution tree](https://www.producttalk.org/2016/08/opportunity-solution-tree/). In this case, opportunities and interview summaries are recorded in both Dovetail and the opportunity solution tree.
+
+The PM and PD are expected to share an interview summary with the team after every interview. The format for this is up to them. Some recommended forms are:
+* Create a summary slide in Google Slides
+* Write a paragraph or two summary
+* Create a video discussion between the PM and PD about the opportunity tree or
+* Share a Dovetail tagged page
+
+When ready the artifact should be shared with the team in the team Slack channel #s_configure and in the [always-open issue](https://gitlab.com/gitlab-com/user-interviews/-/issues/23)
+
+Opportunities emerge through continuous interviews and other research activities. Problem validation issues are used to track the understanding of the problem in detail and to present on opportunity in more detail to the whole team and the wider community in an async way. Thus a problem validation issue is used to describe the uncovered problem in detail with necessary requirements, so that the PD and engineers can understand the problem from the issue only, to drive a go / no-go decision by the team, and to present the problem to product leadership in the form of a RICE score if necessary. If the described problem is worth solving, the issue might be promoted into an epic or follow up epics/issues might be created from its core takeaways.
+
+Vision setting at the product category level is driven by the product manager and is primarily worked on by the PM and the PD with engineering involvement whenever necessary. Once the problem space is deeply understood, the vision of what we want to achieve is defined using all of the learnings gained from the continuous interviews and other problem validation methods. Visions are captured in stage and category direction pages. Visions for specific features are also defined in the corresponding epics.
+
+#### Finding customers to interview
+
+We want to build solutions for real users and customers. As a result, it is paramount to regularly speak with them in order to learn about the goals they're trying to achieve (Jobs To Be Done), their needs (requirements), and the context of when they might reach out or look for a solution such as ours. The following is a non-exhaustive list of approaches to finding customers open to a call:
+
+- Reply to users who are active in issues (create, comment, vote)
+- Follow related topics on medium, twitter, HN, and reach out to authors writing about our product areas
+- Continuously communicate to sales that we open to customer calls, but make it clear that these are customer interviews, not sales calls
+- Additional resources for [participant recruitment](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/recruiting-participants/)
 ### Roadmap
 
-We review our roadmap on a monthly basis. The roadmap is [maintained in Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1603196180832/a0fbe8a5eb174a4b5dda15b44728ecbc7a4b377d).
+[Our roadmap is maintained within GitLab](https://gitlab.com/groups/gitlab-org/-/roadmap?state=opened&sort=end_date_asc&label_name%5B%5D=group%3A%3Aconfigure&label_name%5B%5D=Roadmap).
 
 ### Issue refinement
 
-Refinement in the Configure group happens by focusing on a few issues every week. These issues are being prepared for discussion in the week before with the active involvement of the PM, UX and EM. Based only on the description of the issue, the EM decides if the issue has enough context to invite the development team to discuss it during the next week. We aim to propose two issues by end of day every Friday, so people with any time zone can start their week by looking at the "to be discussed" issues.
-
-The `~configure::discussion-candidate` and the `~cconfigure::discussion` labels are used to mark issues that are currently being prepared for discussion or are currently being discussed, respectively.
+Refinement in the Configure group happens by a continuous refining process, with a deeper focus on a few issues every week. These issues are being prepared for discussion in the week before with the active involvement of the PM, UX, and EM. Based only on the description of the issue, the EM decides if the issue has enough context to invite the development team to discuss it during the next week.
 
 ### Planning
 
-We use planning issues to work out the planning for the next milestone asynchronously.
+#### Milestone Planning and Timeline
 
-1. The PM opens up a new milestone planning issue at the start of every milestone, and lists the issues that we should be working on in priority order.
-1. All stakeholders (PM, UX, Engineering) are invited to collaborate on the planning for the next milestone.
-1. The Engineering Managers review the issues to determine whether there will be sufficient capacity to deal with all the issues listed.
-1. EMs also add bugs to the milestone that should be worked, based on Priority and Severity labels.
+Our team mostly follows the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/).
 
-Example planning issue: [https://gitlab.com/gitlab-org/configure/general/issues/6](https://gitlab.com/gitlab-org/configure/general/issues/6)
+##### Overview
+
+| Phase           | Time (Deadline)                     |
+|-----------------|--------------------------|
+| Breakdown Phase | 2nd to last week before the 16th of the Month (6th) |
+| Planning Phase  | Last week before the 15th of the Month (15th) |
+| Development Phase   | 18th - 17th of Month N+1 (18th) |
+
+##### 1. Breakdown Phase (DRI: EM)
+
+This time will be used to:
+1. Review issue description for understanding and thoroughness
+1. Ask questions
+1. Break issue into smaller parts
+1. Assess whether a single issue will have several iterations
+1. Create a first technical plan or invites one engineer to help create it
+1. Categorize the issues using these labels: ~"Backend", ~"Documentation", ~"Frontend", ~"UX"
+
+This Phase does not include time for complex technical proposals. They will be worked on in the "Development Phase" of the milestone.
+
+**Timeline**: Ends on the 6th of the month. Planning breakdown happens continuously.
+
+**Tasks**:
+1. PM: Milestone planning issue gets created
+  We utilize a planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/configure/general/-/issues/167)
+1. PM: Creates short video about milestone goals/plans
+1. PM: Moves and order issues of interest into the `~"workflow::refinement"` list of the [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure) 
+1. PM or EM: invites engineering and UX to refine issues with `~"workflow::refinement"` label on [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure)
+1. EM: reviews issues
+1. Engineering: weight issues
+1. Engineering: break down issues by posting a rough technical plan on each issue that has a weight bigger than 2.
+1. EM: coordinate with FE & BE work.
+1. EM: link related and blocked issues
+1. Engineering: communicate which issues are unlikely to ship during the current Milestone
+
+**Definition of done**
+1. Engineering completes issue refinement, all issues are weighted & have a rough technical plan if weight is above 2.
+1. Engineering updates issue label to `~"workflow::ready for development"`
+
+##### 2. Planning Phase
+
+**Timeline**: Starts on the 6th, ends on the 15th of the Month
+
+**Tasks**:
+1. PM: Orders the `ready for development` issues by priority (by the 8th)
+1. Engineering: Capacity planning for Milestone
+1. Engineering: Async review of `ready for development` issues considering total Milestone weight or weight per available Engineer
+1. EM: adds the `~"Deliverable"` label to all relevant issues
+
+**Definition of done**:
+1. List of issues with Milestone assigned (15th)
+  Should match capacity
+
+##### 3. Development Phase:
+
+- **Timeline**: 18th - 17th of Month N+1.
+- **Tasks**:
+1. PM or EM: reschedules `~"Deliverable"` issues if they will miss.
+1. Engineers: work on the milestone issues with `~"Deliverable"` issues as a priority.
+1. Engineers: can pick issues that are `~"workflow::ready for development"` and unassigned then label them with `~"workflow::in dev"`.
+    Issues get assigned once an engineer starts working on it
+1. Engineers: Properly assign `~"workflow::in-review"` and  `~"workflow::verification"` to MRs and Issues
+1. Engineers: communicate if `~"Deliverable"` is unlikely to ship during current Milestone
+1. Engineers: complete task, merge, verify its been deployed and working, then close issue
+
+#### Weights
+
+The weights we use are:
+
+| Weight | Description  |
+| --- | --- | --- |
+| 1: Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required.<br><br>Examples are documentation updates, simple regressions, and other bugs that have already been investigated and discussed and can be fixed with a few lines of code, or technical debt that we know exactly how to address, but just haven't found time for yet. [Example Issue](https://gitlab.com/gitlab-org/terraform-images/-/issues/49) |
+| 2: Small | The problem is well understood and a solution is outlined, but a little bit of extra investigation will probably still be required to realize the solution. Few surprises are expected, if any, and no coordination with other teams or people is required.<br><br>Examples are simple features, like a new API endpoint to expose existing data or functionality, or regular bugs or performance issues where some investigation has already taken place. [Example Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/341836)|
+| 3: Medium | Features that are well understood and relatively straightforward. A solution will be outlined, and most edge cases will be considered, but some extra investigation will be required to realize the solution. Some surprises are expected, and coordination with other teams or people may be required.<br><br>Bugs that are relatively poorly understood and may not yet have a suggested solution. Significant investigation will definitely be required, but the expectation is that once the problem is found, a solution should be relatively straightforward.<br><br>Examples are regular features, potentially with a backend and frontend component, or most bugs or performance issues. [Example issue](https://gitlab.com/gitlab-org/gitlab/-/issues/340357)|
+| 5: Large | Features that are well understood, but known to be hard. A solution will be outlined, and major edge cases will be considered, but extra investigation will definitely be required to realize the solution. Many surprises are expected, and coordination with other teams or people is likely required.<br><br>Bugs that are very poorly understood, and will not have a suggested solution. Significant investigation will be required, and once the problem is found, a solution may not be straightforward.<br><br>Examples are large features with a backend and frontend component, or bugs or performance issues that have seen some initial investigation but have not yet been reproduced or otherwise "figured out". [Example issue](https://gitlab.com/gitlab-org/gitlab/-/issues/321102)|
+
+Anything 5 or larger should be broken down these should not be `ready for development`. We would likely turn a 5 into an epic or into a research and implementation issue.
 
 #### GitLab Terraform Provider
 
-The GitLab Terraform Provider is managed by the Configure team. We are working together with the community and are supporting other GitLab departments to add new functionalities to the provider. Work planned on the provider is part of the planning issue.
+The [GitLab Terraform Provider](/handbook/engineering/projects/#terraform-provider-gitlab) is managed by the Configure team. We are working together with the community and are supporting other GitLab departments to add new functionalities to the provider. Work planned on the provider is part of the planning issue.
 For each milestone, we take on one PR/MR that we want to ship in the provider, and we collect a list of PRs and issues where we see active community work to support. Each month a dedicated engineer or the EM works on delivering the listed items.
 
 ### Scheduling
+
+The issues scheduled for a milestone can be tracked at [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure).
 
 #### Feature development
 
@@ -166,14 +295,16 @@ Our goal is to move towards a continuous delivery model so the team completes ta
 
 In addition to the self-scheduling of feature development, the manager will from time to time assign bugs, or other work deemed important, directly to a team member.
 
-#### Iteration
+#### Organizing our backlog
 
-We rely heavily on iteration as part of our workflow and aim to deliver the smallest possible MVC in the shortest period of time.
+We rely heavily on Epics to organize our backlog. Almost all our feature development is described in an Epic, we consider a feature to be shipped when all the issues in its epic got closed. Together with this epics based workflow, we use issues as development task delivered by a single engineer. Even breaking down epics into multiple issues, an issue might contain multiple MRs.
+
+To provide the connection from the issue to the epic, we use the [Task template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Task%20for%20Configure%20group.md) whenever possible.
 
 We use the following practices to enhance iteration on our team:
 
 - Promoting large issues to epics and isolating specific pieces into separate issues
-- Delivering issues behind a feature flag to maximize throughput
+- Delivering issues behind a feature flag to maximize merge request rate
 - Develop quick POCs to vet functionality and brainstorm product/market fit
 - README driven development
 
@@ -186,36 +317,89 @@ Team members should use their best judgment to determine whether to assign the f
 - Does the MR require a lot of dev environment setup that team members outside the Configure stage are likely to not have?
 - Is the MR part of a larger effort for which a specific team member already has all the context?
 
-### Backend & Frontend Issue Collaboration
+## Quality Processes
 
-Our team follows the GitLab [workflow guidelines for working in teams](/handbook/engineering/workflow/#working-in-teams).
+Maintaining a high standard of quality is a critical factor to delivering winning products.
 
-Given a reasonably sized issue requiring UX, frontend and backend work, the preferred way to collaborate on the issue is as follow:
+Within the Configure team we use the following processes and best practices to ensure high quality.
 
-1. Once an issue is labeled `workflow::ready for development`, backend is usually able to start working on the issue.
-    1. This is a good time to discuss and clarify interdependency between backend and frontend.
-1. Backend and frontend will work on the issue in separated branches.
-    1. Each will submit their own MR for review.
-    1. Frontend and backend will put the feature behind a feature flag.
-1. Once both MRs have been merged, a third MR will be opened to integrate the work where backend and frontend will collaborate to:
-    1. Remove the feature flag.
-    1. Add documentation.
-    1. Implement e2e tests for the feature.
+1. We ensure each MR is accompanied with meaningful unit tests and integration tests.
+1. For each major feature we develop and maintain End to End tests that run nightly and confirm no regressions have been introduced to critical paths.
+1. On a weekly basis, we review our [Triage report](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#triage-reports) for bugs and regressions and take the appropriate action.
+1. We review the [quality dashboard](https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard) each milestone to track our long term progress at improving quality.
 
-The above is a guideline and clear communication should be preferred over process to ensure the best collaboration strategy on an issue. For example on smaller issues, or where the frontend component of the work is minor, it may be feasible to work on the same branch.
+## Error Budget
+
+Our target availability is 99.95%
+
+### Process
+
+The Configure Error Budget encompasses a wide set of product areas including: AutoDevops, IaC, Kubernetes Management, Cluster cost management, Serverless, Secrets Management, ChatOps, and Runbooks. Though a number of these areas are not under active development we still consider the entire group as part of our budget.
+
+On a monthly basis the EM will review the [Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-configure/stage-groups-group-dashboard-configure-configure?orgId=1) using the following process.
+
+Under "Budget spend attribution":
+
+1. Determine slow endpoints under the "apdex" violation type. Look in "Kibana: Kibana Rails logs" to discover what any new slow endpoints could be. Identify each one and create a issue.
+2. For the "error" violation type, use the "Kibana: Kibana Rails failed request logs" to determine new errors that could be impacting the error budget. Identify each one and create a issue.
+
+### Considerations
+
+Currently the apdex threshold has a cuttoff of 1 second. Several of our endpoints used to manage Terraform State regularly require 1-3 seconds to complete their operations. We have determined this is an acceptable response time. As a result our Error Budget is overwhelmingly impacted by this limitation and the issue is [being discussed by the Infrastructure team](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/525), with the goal of allowing teams to customize acceptable response times per endpoint. Until we can set a customized value for those endpoints our error budget will not be reflective of reality.
+
+## Async Issue Updates
+
+In order to optimize async collaboration we recomend using issue updates to share progress completed on a specific issue or epic.
+Weekly updates on progress and status will be added to the issues as a comment. A weekly update may be skipped if there was no progress. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. A weekly async update should be added to epics, providing an overview of the progress across related issues.
+
+The status comment should include what percentage complete the work is, the confidence of the person that their estimate is correct and, notes on what was done and/or if review has started. It could be good to include whether this is a front end or back end update if there are multiple people working on it. Finally, for each MR associated, please include an entry for each.
+
+Examples:
+```
+## Async status update
+
+Complete: 80%
+Confidence: 90%
+Notes: expecting to go into review tomorrow
+Concern: ~backend
+```
+
+```
+Issue status: 20% complete, 75% confident
+
+MR statuses:
+!11111 - 80% complete, 99% confident - docs update - need to add one more section
+!21212 - 10% complete, 70% confident - api update - database migrations created, working on creating the rest of the functionality next
+```
+
+## Career Development and Promotions
+
+We want every team member to be advancing in their Career Development.
+
+We follow the Engineering Department [Career Development Framework](https://about.gitlab.com/handbook/engineering/career-development/).
+
+As part of the framework we engage in the following process:
+
+1. Quarterly career development conversations
+1. Regular self-evaluation within a Career matrix
+1. Complete a coaching template if available
+  - Candidates for Senior Engineer should complete this [coaching template](https://docs.google.com/document/d/1k0FgVXiGvnmeS9OkCo_WYNh4XROZ6J3z-tlNmdpRpkk/edit?usp=sharing) first as a starting point.
+1. Review the Development [department expected competencies](https://about.gitlab.com/handbook/engineering/career-development/matrix/engineering/development/)
+1. Once 30% of next-level expected competencies are met, a Promotional document is assembled based on evidence within the Career matrix
+1. Once a Promotional document is ready, it is submitted.
 
 ## How to work with us
 
 ### How to contribute to Auto DevOps
 
-Read our [specific GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/blob/master/doc/howto/auto_devops.md)
-instructions
-on how to develop features for Auto DevOps.
+Read our [specific GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/tree/master/doc/howto/kubernetes)
+instructions as well as our [handbook entry](/handbook/engineering/development/ops/configure/autodevops/)
+on what existing testing does and how to develop features for Auto DevOps.
 
 ### Useful links for contributing to Auto DevOps
 
-- [Tips and Troubleshooting](https://gitlab.com/gitlab-org/gitlab-development-kit/blob/master/doc/howto/auto_devops/tips_and_troubleshooting.md)
-- [Useful Commands](https://gitlab.com/gitlab-org/gitlab-development-kit/blob/master/doc/howto/auto_devops/useful_commands.md)
-- [How to work with slow connections](https://gitlab.com/gitlab-org/gitlab-development-kit/blob/master/doc/howto/auto_devops/tips_and_troubleshooting.md#qa)
+- [Tips and Troubleshooting](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/kubernetes/tips_and_troubleshooting.md)
+- [Useful Commands](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/kubernetes/useful_commands.md)
+- [How to work with slow connections](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/kubernetes/tips_and_troubleshooting.md#qa)
 - [Enabling premium features for development purposes](https://license.gitlab.com/users/sign_in)
 - [Thanos query for complete Auto DevOps pipelines](https://thanos-query.ops.gitlab.net/graph?g0.range_input=2d&g0.max_source_resolution=0s&g0.expr=sum(increase(auto_devops_pipelines_completed_total%7Benv%3D%22gprd%22%7D%5B6h%5D))%20by%20(status)&g0.tab=0)

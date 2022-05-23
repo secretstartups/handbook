@@ -1,7 +1,6 @@
 ---
 layout: handbook-page-toc
 title: "Distribution Team Infrastructure and Maintenance"
-description: "Overview of the nodes and tasks which the Distribution Team are responsble to maintain."
 ---
 
 ## On this page
@@ -27,16 +26,16 @@ As part of the team tasks, team has responsibility towards the following nodes/t
   by various CI jobs for building and publishing packages. Details of the node
   as well as the maintenance tasks can be found in [the build machines specific docs](./build-machines.html)
 
-* `packages.gitlab.com`: This is a package server that is used by Distribution
-  team to ship GitLab CE and EE omnibus-gitlab packages, and by Verify team to
-  ship gitlab-runner packages to the users.  GitLab CE and EE packages are built
-  via our CI pipeline on `dev.gitlab.org`.
+* `packages.gitlab.com`: This is a self-hosted package server managed by
+  GitLab Infrastructure team. It's used by Distribution team to ship GitLab CE and EE
+  omnibus-gitlab packages along with Verify team to ship gitlab-runner packages 
+  to users. GitLab CE and EE packages are built via our CI pipeline on `dev.gitlab.org`.
 
-
-* Distribution uses the package server as a tool and doesn't have any
-  maintenance tasks associated with it. Package server is currently deployed on
-  our own infrastructure, from an omnibus type package. In case Production team
-  requires help the team should do a best effort to help trough any issues.
+  - _Distribution uses the package server as a tool and doesn't have any
+  maintenance tasks associated with it. The package server is currently deployed
+  on our own infrastructure from a package provided by Packagecloud.io. If the
+  Infrastructure team requires help, Distribution team should provde a best effort
+  to resolve issues._
 
 * Keeping SSH public keys `gitlab.com` and `dev.gitlab.org` up-to-date: The CI
   configuration of **omnibus-gitlab** uses public SSH keys of these servers

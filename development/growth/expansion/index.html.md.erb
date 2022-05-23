@@ -13,15 +13,55 @@ description: "The Growth:Expansion group works on feature enhancements and growt
 ## Vision
 
 The Expansion Group is part of the [Growth Sub-department]
-and works directly on the [Product Direction for Expansion](/direction/expansion/).
+and works with our product counterparts on [Growth priorities](/direction/growth/#growth-kpi).
 The engineering effort consists of developing and running growth experiments on [GitLab.com](https://www.gitlab.com/), adding and enhancing features, and improving the quality of our code across multiple GitLab projects. We track the delivery of both [Deliverables] and [Growth-Deliverables].
 
-See [What's keeping us busy](https://about.gitlab.com/direction/expansion/#whats-keeping-us-busy)
+See [What's next](/direction/growth/#3-whats-next-growth-group-issue-boards)
 
 * I have a question. Who do I ask?
 
 Questions should start by @ mentioning the Product Manager for the [Expansion group](/handbook/product/categories/#expansion-group)
 or creating a new issue in the Growth Product [Expansion issues] list.
+
+## Mission
+
+The Growth:Expansion Group works on product priorities and [growth deliverables](https://about.gitlab.com/handbook/product/growth/#growth-deliverables)
+with our [Growth product managers](/handbook/product/growth/)
+and contributes to Growth initiatives including the [Registration Flow](https://gitlab.com/groups/gitlab-org/-/epics/4745) 
+and [Continuous onboarding](https://gitlab.com/groups/gitlab-org/-/epics/4817).
+
+## Team Members
+
+The following people are permanent members of the Growth:Expansion team:
+
+<%= direct_team(manager_role: 'Fullstack Engineering Manager, Growth:Conversion and Expansion', role_regexp: /(Growth:Expansion)/) %>
+
+### Group members
+
+We work directly with the following team members in the Growth:Expansion group:
+
+<%=
+other_manager_roles = ['Director of Engineering for Growth, Sec, and ModelOps','Senior Engineering Manager, Growth']
+direct_managers_role = 'Fullstack Engineering Manager, Growth:Conversion and Expansion'
+roles_regexp = /Expansion/
+
+stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
+%>
+
+### UX
+The Growth UX team has a [handbook page](/handbook/product/growth/) which includes [Growth specific workflows](/handbook/product/growth/#product-designer-assignments).
+
+## Functional Counterparts
+
+We collaborate with our colleagues in the Growth Sub-department teams:
+
+* [Activation](/handbook/engineering/development/growth/activation/)
+* [Adoption](/handbook/engineering/development/growth/adoption/)
+* [Conversion](/handbook/engineering/development/growth/conversion/)
+<!-- * [Expansion](/handbook/engineering/development/growth/expansion/) -->
+* [Product Intelligence](/handbook/engineering/development/growth/product-intelligence/)
+
+As well as the wider Growth Sub-department [stable counterparts](/handbook/engineering/development/growth/#stable-counterparts).
 
 ## How we work
 
@@ -37,7 +77,9 @@ Prioritization is a collaboration between Product, UX, Data, and Engineering.
 
 * We use the [ICE framework](/direction/growth/#growth-ideation-and-prioritization) for experiments.
 * We use [Priority](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels)
-and [Severity](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) labels for bugs.
+  and [Severity](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) labels for bugs.
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Expansion" } %>
 
 ### Workflow
 
@@ -70,56 +112,24 @@ The above boards can be filtered by milestone to provide additional context arou
 For example a `priority::3` security issue ([due within 90 days](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues))
 will be added to one of the next 3 milestones by the Engineering team during the `workflow::scheduling` stage to ensure that SLA is met.
 
-### UX
-The Growth UX team has a [handbook page](/handbook/engineering/ux/stage-group-ux-strategy/growth/) which includes [Growth specific workflows](/handbook/engineering/ux/stage-group-ux-strategy/growth/#how-we-work).
-
-## Team Members
-
-The following people are permanent members of the Growth:Expansion team:
-
-<%= direct_team(manager_role: 'Backend Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion', role_regexp: /(Growth:Expansion)/) %>
-
-### Group members
-
-We work directly with the following people in the Growth:Expansion group:
-
-<%=
-other_manager_roles = ['Director of Engineering, Growth']
-direct_managers_role = 'Backend Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion'
-roles_regexp = /Expansion/
-
-stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
-%>
-
-## Functional Counterparts
-
-We collaborate with our colleagues in the Growth Sub-department teams:
-
-* [Activation](/handbook/engineering/development/growth/activation/)
-* [Adoption](/handbook/engineering/development/growth/adoption/)
-* [Conversion](/handbook/engineering/development/growth/conversion/)
-<!-- * [Expansion](/handbook/engineering/development/growth/expansion/) -->
-* [Product Intelligence](/handbook/engineering/development/growth/product-intelligence/)
-
-As well as the wider Growth Sub-department [stable counterparts](/handbook/engineering/development/growth/#stable-counterparts).
-
-## Expansion Links
-* `#g_expansion` in [Slack](https://gitlab.slack.com/archives/g_expansion) (GitLab internal)
-* [Expansion issues]
-
 ## Common Links
 
+* `#g_expansion` in [Slack](https://gitlab.slack.com/archives/g_expansion) (GitLab internal)
+* [Expansion issues]
 * [Growth Sub-department]
-* [Growth issue board]
-* [Growth issue list]
+* [Growth issues board]
 * `#s_growth` in [Slack](https://gitlab.slack.com/archives/s_growth) (GitLab internal)
-* [Growth meetings and agendas] (GitLab internal)
+* [Growth engineering metrics]
+* [Growth opportunities]
+* [Growth meetings and agendas]
+* [GitLab values]
 
 [Expansion issues]: https://gitlab.com/gitlab-org/growth/product/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aexpansion
 
 [Growth Sub-department]: /handbook/engineering/development/growth/
 [Growth issue board]: https://gitlab.com/groups/gitlab-org/-/boards/1158847
 [Growth issue list]: https://gitlab.com/groups/gitlab-org/growth/-/issues
+[Growth engineering metrics]: /handbook/engineering/metrics/growth/
 [Growth meetings and agendas]: https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Weekly%22
 
 [Planning]: https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion
