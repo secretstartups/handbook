@@ -129,3 +129,12 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Calendar color coding: Confirmed meetings Dark green, E-group meetings light green, Important meetings NOT to be moved are in red, Personal meetings in Flamingo (Pink).
 * Do not schedule over DNB/Focus Time blocks without consulting the EBA of the People Group.
 Scheduling should ideally be kept between 9:00 am and 6:00 pm Pacific Standard time
+
+## Scheduling for David DeSanto, VP Product 
+* All meeting requests should go through the EBA for Product, Jennifer Garcia
+* 1:1's with direct reports should occur weekly unless scheduling conflicts
+* Meetings before 9:00am CT and after 6:00pm CT need to be confirmed prior to scheduling
+* Biweekly Product Meeting and Weekly Product Leadership meetings cannot be scheduled over
+* David will allocate "Focus Time" blocks for work time based on upcoming priorities, please check with EBA before scheduling over these blocks
+* Reminders at -2 weeks, -1 week and -2 days should be put on the calendar for the following events: OKR, Group Conversations (Product), Board of Director meetings, Monthly Key Reviews, Monthly Top ARR Drivers Reviews, and Performance Indicator Reviws.
+* 1:1's should always be rescheduled instead of cancelled unless unavoidable due to OOO/PTO schedules
