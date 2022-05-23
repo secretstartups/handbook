@@ -484,6 +484,13 @@ Please note that due to PII compliancy, addresses collected in Marketo landing p
 - One (1) business day before copy is due, FMC to ping FMM in [FM copy issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) with copy reminder.
 - FMC will make sure copy has been provided or continue to remind the FMM, if needed.
 
+# Lead List Deadline Process
+
+- FMC to create the [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) issue during the [plan to WIP process](/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip)
+- FMC to assign a due date of 2 business days post-event
+- One (1) business day after the issue is due, FMC to ping the FMM in the list clean and upload issue to remind them leads are due
+- FMC will make sure leads have been provided or continue to remind the FMM, if needed
+
 # FMM Localization Process
 
 We do follow the global direction to translate content for [P0 and P1 priority countries](/handbook/marketing/localization/#priority-countries). For translating requests for P0 and P1 countries, work with our content team [following this process](/handbook/marketing/localization/#translating-content-for-campaigns).
