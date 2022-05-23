@@ -5,8 +5,6 @@ title: "Data Engineering"
 
 The Data Engineer job family is focused on an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of strong quality data insights to drive business decisions in all areas of GitLab. The Data Engineer job family is essentially software engineers who have a particular focus on data movement and orchestration.
 
-The Data Engineer job family requires an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of data insights to support business decisions in all areas of GitLab. Data Engineers are essentially software engineers who have a particular focus on data movement and orchestration.
-
 ### Data Engineer (Junior)
 
 The Data Engineer (Junior) reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
