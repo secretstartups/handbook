@@ -54,7 +54,7 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | #  | Start Date | Completed Date | DRI        | Criteria |
 | -- | ------     | ------         | ------     | ------   |
 | 1  |  TBD       | TBD            | Unassigned | [Create an implementation plan to remedy gaps in Maintainership coverage](https://gitlab.com/groups/gitlab-com/-/epics/1817)| 
-| 2  |  TBD       | TBD            | @mwoolf | [Develop metrics to provide more transparency into the health of the Maintainership program](https://gitlab.com/groups/gitlab-com/-/epics/1816) |
+| 2  |  2022-04-26       | TBD            | @mwoolf | [Develop metrics to provide more transparency into the health of the Maintainership program](https://gitlab.com/groups/gitlab-com/-/epics/1816) |
 | 3  |  TBD       | TBD            | @robotmay_gitlab | [Update expected behaviors and responsibilities for Engineers and Maintainers](https://gitlab.com/groups/gitlab-com/-/epics/1815) |
 | 4  |  TBD       | TBD            | @alexives | [Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) |
 | 5  |  TBD       | TBD            | @sabrams | [Develop and implement a communication plan for Maintainership changes](https://gitlab.com/groups/gitlab-com/-/epics/1813) |
