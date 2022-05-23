@@ -19,7 +19,7 @@ The focus of this page is to be a guide for Support Engineers in
 [beginning work](#providing-a-first-response-to-a-ticket) on support tickets.
 For information about working on tickets successfully in the Support Global
 Groups environment, please read the
-[SE Responsibilities and Priorities](../support-global-groups/index.html.md/#se-responsibilities-and-priorities)
+[SE Responsibilities and Priorities](/handbook/support/support-global-groups/index.html.md/#se-responsibilities-and-priorities)
 topic on the main Support Global Groups page.
 
 ## Views to use in our SGG system
@@ -31,12 +31,12 @@ The views within Zendesk are arranged as follows:
 | [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) | Use this view to manage all of your assigned tickets that are not yet in a `Closed` state. |
 | [Needs Org](https://gitlab.zendesk.com/agent/filters/360076150200) | This view shows all new tickets that will not get assigned to an SGG group and that do not have an organization associated with them. |
 | SGG: [group name] | You'll see an alphabetical list of group views here. Each view shows all the non-solved, non-pending tickets for its group. |
-| [Needs Collaboration](https://gitlab.zendesk.com/agent/filters/360080204660) | This view shows all tickets on which the assignee is asking for help. See the [How to get help workflow](./how-to-get-help.html#how-to-get-help-workflow) for details. |
+| [Needs Collaboration](https://gitlab.zendesk.com/agent/filters/360080204660) | This view shows all tickets on which the assignee is asking for help. See the [How to get help workflow](/handbook/support/workflows/how-to-get-help.html) for details. |
 
 ## Selecting tickets
 
 Support Engineers should make decisions about what to work on based on the SGG
-description of [prioritizing work](../support-global-groups/#prioritizing-work).
+description of [prioritizing work](/handbook/support/support-global-groups/#prioritizing-work).
 Through that process you may:
 
 1. Select a new, unassigned ticket in your group's view
@@ -47,13 +47,13 @@ Through that process you may:
 1. Select a new, unassigned ticket in another group's view
 
    In this situation, follow the guidance in the SGG FAQ to
-   [move the ticket to your group](../support-global-groups/sgg-faq.html/#3-how-do-i-move-a-ticket-to-a-different-group)
+   [move the ticket to your group](/handbook/support/support-global-groups/sgg-faq.html/#3-how-do-i-move-a-ticket-to-a-different-group)
    before proceeding to [ticket assignment](#assigning-tickets)
 
 1. Select an in-progress ticket assigned to someone else
 
    In this situation, proceed according to the guidance in our SGG FAQ about
-   [responding to other SEs’ tickets](../support-global-groups/sgg-faq.html#1-should-ses-respond-to-other-ses-tickets).
+   [responding to other SEs’ tickets](/handbook/support/support-global-groups/sgg-faq.html#1-should-ses-respond-to-other-ses-tickets).
 
 ## Assigning tickets
 
@@ -73,7 +73,7 @@ As you're working on tickets each day, be aware of the number of tickets in your
 decide whether you have the right number of tickets. There's no specific number.
 Aim to take as many tickets as you can while maintaining customer happiness and
 good progress toward resolution on each, **and** having some amount of time to
-meet [other responsibilities](../support-global-groups/#se-responsibilities-and-priorities).
+meet [other responsibilities](/handbook/support/support-global-groups/#se-responsibilities-and-priorities).
 While some people might maintain three to ten open, pending and on-hold tickets
 in their
 [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834)
@@ -174,23 +174,22 @@ needs, and that might save you and the customer time and effort as well.
        for further guidance on this workflow.
     1. Submit the ticket as `Open`
     1. Please consider using the
-       ['Due Date'](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker) and
-       ['Reminder'](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-reminders-app)
+       ['Due Date'](/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker) and
+       ['Reminder'](/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-reminders-app)
        apps.
 
 ## FAQ
 
-### 1. How many new tickets should I pick up each day?
+### 1. How many new tickets should I pick up each week?
 
-Each week, each Intermediate Support Engineer should aim at least to meet
-and preferably to exceed the
-appropriate baseline from the following list for the number of first responses:
+Each week, each Intermediate Support Engineer should aim at least to meet, and preferably to exceed, [the
+appropriate baseline](/handbook/support/support-engineer-responsibilities.html#ticket-baseline) from the following list for the number of first responses:
 
 - **Self-managed focus: 6 tickets**
 - **SaaS focus: 10 tickets, including "SaaS account" tickets**
 - **L&R focus: 15 tickets**
 
-These numbers are based on our current ticket volume, number of SEs and average
+These numbers are based on ticket volume, number of SEs, and average
 PTO (15%). We will continue to monitor ticket volume and number of SEs to make
 sure the above guidelines are accurate. We need everyone to contribute on days they
 are available, which will result in us exceeding our goal.
@@ -202,13 +201,13 @@ There will be times when you may be leading an escalation or otherwise working t
 
 ### 2. What can I do when I'm stuck and I really need help?
 
-   Follow the [how to get help workflow](https://about.gitlab.com/handbook/support/workflows/how-to-get-help.html)
+   Follow the [how to get help workflow](/handbook/support/workflows/how-to-get-help.html)
    for guidance on this. Reach out to a manager for guidance if you are still
    stuck.
 
 ### 3. I'm going to be absent, what do I do with my assigned tickets?
 
-   Please see the [Support Team Member Time Off page](../support-time-off.html)
+   Please see the [Support Team Member Time Off page](/handbook/support/support-time-off.html)
    for a full description of this situation.
 
 ### 4. May I reassign a ticket to someone else?
@@ -216,7 +215,7 @@ There will be times when you may be leading an escalation or otherwise working t
    There are some situations in which it is appropriate to reassign a ticket:
 
    1. If you'll be absent, follow the guidance given on the
-      [Support Team Member Time Off page](../support-time-off.html).
+      [Support Team Member Time Off page](/handbook/support/support-time-off.html).
    1. If you've determined that specific expertise outside your own is required
       to resolve the ticket, pair with an expert so that you can get the ticket
       resolved and learn in the process. If that person determines that they
