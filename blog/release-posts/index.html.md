@@ -81,7 +81,7 @@ Note: MRs added after the 17th should target the `release-x-y` branch, not `mast
 - **Release Post Manager and Technical Writer** perform final reviews
   - Changes after <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time> on the 18th will be done via the `release-X-Y` branch and are subject to approval by the Release Post Manager.
   - The TW Lead verifies the deprecations and removals links in the release post
-
+  - RPM create a [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users) MR
 Note: The 18th - 20th can fall on vacations, weekends, or holidays. PMs should designate who to respond to time-sensitive inquiries should they be unreachable. Release Post Managers are empowered to make decisions and [display bias for action](https://about.gitlab.com/handbook/values/#bias-for-action) if they haven't received a response by EOD on the 20th.
 {: .note}
 
