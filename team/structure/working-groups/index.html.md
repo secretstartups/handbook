@@ -40,10 +40,10 @@ Topics covered include:
 This is the **person ultimately responsible for the success of the Working Group**. Assembles the working group, identifies interdependencies, manages supporting individuals toward project success, and ensures that results and escalations are appropriately communicated.This person also plays the facilitator role. A facilitator is responsible for running meetings and supporting the operational efficiency and success of a working group.
 
 * Makes sure that team objectives and success measurement is known and understood by team members and key stakeholders.
-* Identifies interdepencies and risks to then ensure that team members are proactively aligning with others and prioritizing necessary risk mitigations.
+* Identifies interdependencies and risks to then ensure that team members are proactively aligning with others and prioritizing necessary risk mitigations.
 * Clearly manages different project workstreams and proactively communicates expectations for specific working group team members. For example, if you know that an initiative will eventually involve customer communications, the Working Group DRI should ensure that the group has appropriate representation from the Customer Success Team and that the representative is clear on asks for both the team and the individual within the coming weeks and quarters. 
 * Assigns any actions, initiatives, or outstanding questions to a workstream [DRI](/handbook/people-group/directly-responsible-individuals/) to investigate further. This ensures accountability and prevents overwhelming any single member or the Working Group DRI. 
-* Evaluates opportuities to work in a way that better reflects GitLab values. Examples:
+* Evaluates opportunities to work in a way that better reflects GitLab values. Examples:
    * Suggests more [efficient](https://about.gitlab.com/handbook/values/#efficiency) ways to get to the same outcome
    * Considers how decisions or milestones can be unbundled, so we can work more [iteratively](https://about.gitlab.com/handbook/values/#iteration)
 * Escalates when scope is changing, the project is at risk, or greatership engagement is required.
@@ -136,10 +136,10 @@ If you are interested in participating in an active working group, it is general
 * [API Vision](/company/team/structure/working-groups/api-vision/)
 * [Architecture Kickoff](/company/team/structure/working-groups/architecture-kickoff/)
 * [Category Leadership](/company/team/structure/working-groups/category-leadership/)
+* [Continuous Scanning](/company/team/structure/working-groups/continuous-scanning/)
 * [Contribution Efficiency](/company/team/structure/working-groups/contribution-efficiency)
 * [Database Scalability](/company/team/structure/working-groups/database-scalability/)
 * [Demo & Test Data](/company/team/structure/working-groups/demo-test-data/)
-* [Maintainership](/company/team/structure/working-groups/maintainership/)
 * [Ecommerce Motion](/company/team/structure/working-groups/ecommerce)
 * [Event Stream](/company/team/structure/working-groups/event-stream/)
 * [Expense Management](/company/team/structure/working-groups/expense-management/)
@@ -148,10 +148,11 @@ If you are interested in participating in an active working group, it is general
 * [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
 * [Issue Prioritization Framework](/company/team/structure/working-groups/issue-prioritization-framework/)
 * [Learning Experience](/company/team/structure/working-groups/learning-experience/)
-* [Next Prioritization](/company/team/structure/working-groups/next-prioritization/)
+* [Maintainership](/company/team/structure/working-groups/maintainership/)
 * [Merge Request Report Widgets](/company/team/structure/working-groups/merge-request-report-widgets/)
 * [MLOps](/company/team/structure/working-groups/mlops/)
 * [Multi-Large](/company/team/structure/working-groups/multi-large/)
+* [Next Prioritization](/company/team/structure/working-groups/next-prioritization/)
 * [Object Storage](/company/team/structure/working-groups/object-storage/)
 * [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
 * [Product Career Development Framework](/company/team/structure/working-groups/product-career-development-framework/)
