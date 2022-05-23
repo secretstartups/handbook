@@ -123,7 +123,7 @@ If there is not confidence that the activities will be complete and the customer
 
 ##### Revenue Release T&M Projects
 
-For T&M projects, revenue is released at each month end. Project hours are submitted weekly via the the time sheet function in Mavenlink.  The PSE or PM submits time against the project, and the Project PM or Lead approves on a weekly basis.  Each month end, the PC pulls a report of all approved time sheets and provides the consolidated report to Finance to review and release the revenue
+For T&M projects, revenue is released at each month end. Project hours are submitted weekly via the time sheet function in Mavenlink. The PSE or PM submits time against the project, and the Project PM or Lead approves on a weekly basis. Each month end, the PC pulls a report of all approved time sheets and provides the consolidated report to Finance to review and release the revenue.
 
 ##### Revenue Release FP Projects
 

@@ -209,7 +209,7 @@ The process which we will go through, at a high level, is as follows:
 The final meeting as part of the Value Stream Assessment process is the findings and next steps presentation (though it's called a presentation, it's expected to be a two-way discussion). The high level topics of this meeting are:
 
 1. Summary of planning outcomes; what process was to be mapped and what target goals were created
-1. Summary of the the current state mapping (with VSM diagram)
+1. Summary of the current state mapping (with VSM diagram)
 1. Summary of the proposed future state mapping (with VSM diagram)
 1. Highlight the key differences, expected process and business benefits
 1. Walkthrough and gain agreement for the transformation plan

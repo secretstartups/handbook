@@ -100,7 +100,7 @@ If the command doesn’t work, continue with the next section.
 ### Register a GitLab Runner to your instnace
 
 1. From your GitLab instance, navigate to **Menu** > **Admin** > **Overview** > **Runners**.
-2. Note the the section **Register the runner with this URL**. We would ordinarily register the runner using the instance URL. However, because we did not configure DNS during installation, we will instead register using the instance IP address.
+2. Note the section **Register the runner with this URL**. We would ordinarily register the runner using the instance URL. However, because we did not configure DNS during installation, we will instead register using the instance IP address.
 3. Run the appropriate command(s) for your OS:
     * In a **Linux** terminal:
 
