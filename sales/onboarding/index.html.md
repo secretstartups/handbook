@@ -22,6 +22,7 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 ## Key SQS Details
 
 *  [Target Roles](https://about.gitlab.com/handbook/sales/onboarding/target-roles/)
+*  [Learning Objectives](https://about.gitlab.com/handbook/sales/onboarding/sqs-learning-objectives/) 
 *  [Sales Onboarding Process](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/onboarding-process/)
 *  [Sales & Customer Success Quick Start Learning Path](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/)
 *  [SQS Workshop](https://about.gitlab.com/handbook/sales/onboarding/SQS-workshop/)
@@ -31,14 +32,16 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
-| May 11 - May 19, 2022  | AMER / EMEA | Virtual | [SQS 24 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1379) | 
-| June 2022  | AMER / EMEA | Virtual | [SQS 25 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1454) | 
+| June 15 - 23, 2022  | AMER / EMEA | Virtual | [SQS 25 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1454) | 
+| July 2022  | AMER / EMEA | Virtual | SQS 26  | 
+
 
 
 ## Past Sales Quick Start (SQS) Workshops
 
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
+| May 11 - May 19, 2022  | AMER / EMEA | Virtual | [SQS 24 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1379) | 
 | Apr 13 - Apr 21, 2022 | AMER / EMEA | Virtual | [SQS 23 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1301) | 
 | Mar 9 - Mar 18, 2022 | AMER / EMEA | Virtual | [SQS 22 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1259) | 
 | Feb 16 - Feb 25, 2022 | AMER / EMEA | Virtual | [SQS 21 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1191) |  
@@ -66,8 +69,15 @@ The onboarding program includes individual role-based learning journeys for AEs,
 * Month 4: Close first deals
 * Month 5 and Beyond: Continue to develop intermediate and advanced skills
 
-These role-based learning journeys are based on the existing role-based certifications and will enable us to deliver the relevant “just in time” information and training that team members can apply immediately.
+### Learning Journeys 
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUZzM8uy4aE4huFZ0eC1x_qI31obWQYjHxTtaDkOcz1nm_8QHg1Dr3Jlzq_AvHRAyK8tlGnYdzOy9Q/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+GitLab's role-based learning journeys are based on milestones and enable us to deliver relevant information and training over the first several months at GitLab.
+
+### How To Get Started 
+
+Click on a link below to begin your role based journey. 
 
 - Enterprise Strategic Account Leader - [Enterprise Sales: What every SAL needs to know (30-60-90 days)](https://gitlab.edcast.com/journey/sal-post-onboarding-sal) 
 - Commercial Account Executive - [Commercial Sales - Onboarding Journey](https://gitlab.edcast.com/journey/commercial-sales-onboarding-journey)
