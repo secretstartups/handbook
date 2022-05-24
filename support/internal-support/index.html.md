@@ -118,37 +118,59 @@ Here are some cases when you can request us to contact users:
 | ---------- | ------------------------------------------------------------ |
 | Claim Inactive GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Name%20Squatting%20Request) using the `Name Squatting Request` template.
 
-### Trial Extensions and Plans
+### Trial and Grace Period Extensions
+All requests for trials and grace period extensions should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
+A list of available options and the common trial and extension scenarios for when to use each option when filing a request is detailed in the following table. 
 
 > **NOTE**: Support will not start a trial. If one is needed, *have the user initiate a normal trial first*.
 > **NOTE**: Sales Manager approval is required on the ticket for any extensions requested greater than 30 days.
 > **NOTE**: Support will only handle a single license or subscription request via a single ticket. If a provided license does not work or you require a further extension then please submit a new ticket. All internal L&R tickets need to have a 1 to 1 relationship with the generated license or subscription for reporting reasons.
 
-| Request    | What To Do                                                   |
+| Option     | Example Use Case                                             |
 | ---------- | ------------------------------------------------------------ |
-| Extend GitLab.com Trial | File a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). |
-| Extend Self-Managed Trial or Grace Period <br> Issue Temporary License or Key |File a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). |
-| Change GitLab.com Trial to a different plan type| [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template. |
-| Activate Shared Runners for a Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Activate%20Trial%20Runners) using the `Activate Trial Runners` template. |
+| **SaaS Trial Related** | |
+| Extend a SaaS trial | Use this when the customer's namespace is on a trial that is active/expired. A trial extension of more than 30days will need manager approval |
+| Modify an existing SaaS trial| Use this when you want to make changes to the plan of a currently active trial. The number of users for GitLab.com trials are not restricted  |
+| **Self-Managed Trial Related** | |
+| Extend an existing Self-managed trial | Use this when the customer is on a trial that is (almost) expired. A trial extension of 30 days or more requires approval from a Sales Manager |
+| Modify an existing Self-managed trial | Use this when you want to make changes to the number of users and/or the plan of a currently active trial |
+| Problems starting a new Self-managed trial | Use this when the customer has no recent trial or subscription, and is not able to request the trial themselves online. A trial extension of 30 days or more requires approval from a Sales Manager |
+| **SaaS Subscription Related (for paid customers only)** | |
+| Extend an (almost) expired subscription | Use this when the customer has a subscription with and their grace period is (almost) expired. An extension of 30 days or more requires approval from a Sales Manager |
+| **Self-Managed License Related (for paid customers only)** | |
+| Extend an (almost) expired subscription | Use this when the customer has a license and their grace period is (almost) expired. An extension of 30 days or more requires approval from a Sales Manager |
 
-Grace period extensions are also treated similarly to trial extensions for self-managed. For GitLab.com, the customer should start a trial once their subscription has expired. To request these, create a trial extension issue for GitLab.com or submit a ZD request for self-managed, and update the title or add a description accordingly to indicate that it is an existing customer.
+Grace period extensions are also treated similarly to trial extensions for both SelfManaged and GitLab.com SaaS. 
+To request these, file a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/)
+with the correct option as highlighted in the table above.
 
 Please consider the following:
 
 1. A previous trial needs to exist for the customer. If no trial was created at any point a trial can be created by the customer the following day as the plan expires.
-1. We can provide grace period extensions as long as the current plan is not ongoing, in other words, if the plan expires on the 15th, we can increase the grace period starting the next day. please plan accordingly.
+1. We can provide grace period extensions as long as the current plan is not ongoing. In other words, if the plan expires on the 15th, we can increase the grace period starting the next day (16th). please plan accordingly.
 
 ### Regarding Licensing and Subscriptions
+All internal requests regarding licensing and subscriptions should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
+A list of common scenarios and the appropriate option are detailed in the following table. 
 
-| Request    | What To Do                                                 |
+| Option     | Example Use Case                                             |
 | ---------- | ------------------------------------------------------------ |
-| Assistance with SaaS Subscription Issue:<br> - For GitLab.com, or converting from Self-managed to SaaS.<br> - Includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace. | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=SaaS%20Subscription%20Issue) using the `SaaS Subscription Issue` template. |
+| **SaaS Subscription Related (for paid customers only)** | |
+| Billing Entity change | |
+| Investigate incorrect subscription info | Assistance with SaaS Subscription Issue:<br> - For GitLab.com, or converting from Self-managed to SaaS.<br> - Includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace. |
+| SaaS NFR license request | Ensure the group on GitLab.com has started a trial, then use this option to request a GitLab.com NFR license. |
+| **Self-Managed License Related (for paid customers only)** | |
+| Customer did not receive the license | Use this to request a license to be resent to the contact in the license **only**. |
+| Customer needs the license resent to a new person | Support cannot send a license to a different contact without specific authorization from one of the existing subscription contacts as shown in CustomersDot. Please read [this page](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email.html) before continuing. |
+| Multi-year license needs to be generated | Use this to request the next year's license for a multi-year subscription to be created. **Make sure to check with the customer if they exceeded their seat usage before opening this request.** Support cannot waive true-ups or change anything in SFDC. We cannot create a license until you have checked and amended their subscription as needed. |
+| Self-managed NFR license request | Use this to request a Self-Managed NFR license |
+| **Other** | |
+| Order Management | Ensure you include a summary of the action requested in the context field. |
+| Hacker One Reporter License | Request a license for a HackerOne reporter |
+| Wider Community License | Request for a license for a wider community contributor |
+| Other (nothing else fits the request) | Only use when no other choice is applicable. If a Support Engineer determines your request does correspond to an existing form-option, you will need to re-submit your request using the correct form. |
 | Assistance with License Issue:<br> - For GitLab Self-managed, or converting from SaaS to Self-managed.<br> - Includes problems with: did not receive license, multi-year licenses, account ownership. | **Global organizations:** File a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). <br> **Public Sector organizations:** For confidential license issues, GitLab team members can [open a case with US Federal Support](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001803151). <br> <sup> **Note**: This form is not publicly listed and is for internal GitLab team member use only.</sup> |
-| Send/Resend EULA | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=EULA) using the `EULA` template.
-| GitLab.com Billable Members List | Until [#27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) or [#35454](https://gitlab.com/gitlab-org/gitlab/-/issues/35454) is implemented, [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=billable%20members) using the `Billable Members` template. |
 | Request for a license as a GitLab Team Member | [Open an Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) using the `GitLab_Team_Member_License_request` template |
-| Request a license for a HackerOne reporter | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=HackerOne%20Reporter%20License%20Request) using the `HackerOne Reporter License Request` template |
-| Request for a license for a wider community contributor | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Wider%20Community%20Contributor%20License%20Request) using the `Wider Community Contributor License Request` template |
 
 #### GitLab.com Billable Members List
 
