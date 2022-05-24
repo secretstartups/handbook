@@ -65,6 +65,21 @@ The People Ops or IT Ops teams can force end a meeting by logging into Zoom with
 
 _Sign up for your default Zoom Pro account in Okta. All team members should have a Zoom Pro account by default. Before diving into sections below, please ensure that you're logged into your GitLab account within your Zoom app._
 
+### Sign into Zoom for the first time via Okta
+
+Please ensure you can login Zoom using Okta
+
+1. Go to https://gitlab.okta.com/
+1. Click on the `Zoom SSO` tile
+
+### Install the Zoom app (on your Mac)
+
+1. Open the `Self Service` app
+1. Scroll down for the Zoom choices in the `Browse` section, or search for `Zoom` using the search box
+   1. On an Apple Silicon Mac (e.g. M1/M1 Pro/M1 Max) click `Install` on `Zoom M1`
+   1. On an Intel Mac click `Install` on `Zoom Intel`
+1. Open the Zoom app and sign in
+
 ### How to test audio and video in Zoom
 
 Before using Zoom for the first time, it is recommended to [test your audio]( https://support.zoom.us/hc/en-us/articles/201362283-Testing-Computer-or-Device-Audio) as well as [test your video](https://support.zoom.us/hc/en-us/articles/201362313-How-Do-I-Test-My-Video-).
