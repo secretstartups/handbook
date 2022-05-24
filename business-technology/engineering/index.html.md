@@ -60,7 +60,7 @@ If in doubt of how to engage or wish to informally ask, simply send a message to
 
 * **DRI:** [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin)
 * **Team Members:** [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)
-* **Stable Counterparts:** [Jeff Burrows (Manager, Security Compliance)](https://about.gitlab.com/company/team/#jburrows001), [Ty Dilbeck (Risk and Field Security)](https://about.gitlab.com/company/team/#tdilbeck), [Derek Isla (IT Compliance Manager)](https://about.gitlab.com/company/team/#disla)
+* **Stable Counterparts:** [Jeff Burrows (Manager, Security Compliance)](https://about.gitlab.com/company/team/#jburrows001), [Ty Dilbeck (Risk and Field Security)](https://about.gitlab.com/company/team/#tdilbeck), [Derek Isla (IT Compliance Manager)](https://about.gitlab.com/company/team/#disla), [Greg Alfaro (Application Security)](https://about.gitlab.com/company/team/#galfaro2)
 * `#gitlab-access-manager` Slack Channel
 * [Handbook Page](/handbook/business-technology/engineering/access-manager)
 * [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/engineering/access-manager/issue-tracker/-/issues)
@@ -118,7 +118,8 @@ It is important to distinguish that Access Manager automates the provisioning pr
   * [Justin Stark (Staff Data Engineer)](https://about.gitlab.com/company/team/#jjstark)
   * [Robyn Hartough (Senior EBA, CLO)](https://about.gitlab.com/company/team/#rhartough)
   * [Bronwyn Barnett (Paralegal, Privacy Reviews)](https://about.gitlab.com/company/team/#bronwynbarnett)
-  * [Dominic Couture (Senior Security Engineer, Application Security)](https://about.gitlab.com/company/team/#dcouture)
+  * [Dominic Couture (Staff Security Engineer, Application Security)](https://about.gitlab.com/company/team/#dcouture)
+
 * `#bt-integrations` Slack Channel
 * [Handbook Page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/)
 * [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work)
@@ -166,6 +167,7 @@ For additional guidance or questions, please ask in `#infra-access-requests` or 
 
 * **DRI:** [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)
 * **Team Members:** [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin), [Marcus Whitaker](https://about.gitlab.com/company/team/#mwhitaker), [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy)
+* **Stable Counterpart:** [Greg Alfaro (Application Security)](https://about.gitlab.com/company/team/#galfaro2)
 * [Handbook Page](/handbook/business-technology/engineering/operations)
 * [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/engineering/operations/issue-tracker)
 * [Project Repositories](https://gitlab.com/gitlab-com/business-technology/engineering/operations)
