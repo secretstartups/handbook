@@ -9,6 +9,7 @@ title: "Customer & Partner Fireside Chat"
 - TOC
 {:toc}
  
+
  ## What is a fireside chat? 
 
 Fireside chats are less formal than an interview but more structured than a typical GitLab [AMA](https://about.gitlab.com/handbook/communication/ask-me-anything/). The fireside chat series with key customers is meant to be informal yet structured chats between a moderator and their guest. In this scenario, the guest is a current GitLab customer or partner and the moderator is a member of E-Group or Senior Leadership. 
@@ -28,7 +29,7 @@ The VP of Customer Success and CoS to CRO aim to coordinate at least one 50-minu
 Led by the VP of Customer Success, the CS team will work with their functional EBA, Account Team, and Customer Reference team nominate existing Customers and/or Partners. The team should aim to identify customers and partners who have a unique story to tell, solved a challenging problem with GitLab or have a topic to discuss that would benefit both the Customer/Partner and broader GitLab team. 
 
 The process to nominiate a customer or partner for a fireside side chat: 
-1. TBD 
+1. TBD by VP of CS
 1. TBD   
 1. TBD 
 
