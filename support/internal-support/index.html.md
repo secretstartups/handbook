@@ -119,7 +119,7 @@ Here are some cases when you can request us to contact users:
 ### Trial Extensions and Plans
 
 > **NOTE**: Support will not start a trial. If one is needed, *have the user initiate a normal trial first*.
-
+> **NOTE**: Sales Manager approval is required on the ticket for any extensions requested greater than 30 days.
 > **NOTE**: Support will only handle a single license or subscription request via a single ticket. If a provided license does not work or you require a further extension then please submit a new ticket. All internal L&R tickets need to have a 1 to 1 relationship with the generated license or subscription for reporting reasons.
 
 | Request    | What To Do                                                   |
