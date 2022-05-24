@@ -63,7 +63,7 @@ The People Ops or IT Ops teams can force end a meeting by logging into Zoom with
 
 ## Zoom Setup
 
-_Sign up for your default Zoom Pro account in Okta. All team members should have a Zoom Pro account by default._
+_Sign up for your default Zoom Pro account in Okta. All team members should have a Zoom Pro account by default. Before diving into sections below, please ensure that you're logged into your GitLab account within your Zoom app._
 
 ### How to test audio and video in Zoom
 
