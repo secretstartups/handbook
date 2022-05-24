@@ -414,7 +414,7 @@ Here is an [example quarantine merge request](https://gitlab.com/gitlab-org/gitl
 If a test is placed under quarantine, it is important to specify _why_. By specifying a quarantine type we can see
 quickly the reason for the quarantine.
 
-The report only accepts the quarantine types in the below guidelines.
+The report accepts the quarantine types below:
 
 | Quarantine Type | Description |
 | --------------- | ----------- |
