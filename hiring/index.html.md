@@ -22,7 +22,6 @@ description: "Landing page for many of the handbook pages the talent acquisition
 - [Overview of Job Families](/handbook/hiring/job-families)
 - [Job Offers and Post-Interview Processes](/handbook/hiring/offers/)
 - [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
-- [Preferred Companies to Recruit from](/handbook/hiring/preferred-companies/)
 - [Principles](/handbook/hiring/principles/)
 - [Talent Acquisition Alignment](/handbook/hiring/recruiting-alignment/)
 - [Talent Acquisition Metrics Process](/handbook/hiring/metrics/)
