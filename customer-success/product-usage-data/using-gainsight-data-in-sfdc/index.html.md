@@ -93,9 +93,9 @@ For more information on general Product Usage Data, see [Using Product Usage Dat
 ## Customer Subscriptions
 | Field Name | Description | Reference |
 |:---|:---|:---|
-| [GS] Time to First_10 | The # of days to reach 10% license utilization| |
-| [GS] Time to First_50 | The # of days to reach 50% license utilization | |
-| [GS] Time to First_80 | The # of days to reach 80% license utilization | |
-| [GS] Time to First_SCM | The # of days for a healthy % of users to deploy SCM as defined in the handbook || [GS] Time_to_First_CI | The # of days for a healthy % of users to deploy CI as defined in the handbook| |
-[GS] Time to First CI | The # of days for a healthy % of users to deploy CI as defined in the handbook| |
-| [GS] Time to First DSC | The # of days for a healthy % of users to deploy DevSecOps as defined in the handbook | |
+| `[GS] Time to First 10` | The # of days to reach 10% license utilization| [Link](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#license-usage-health-table) |
+| `[GS] Time to First 50` | The # of days to reach 50% license utilization | [Link](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#license-usage-health-table) |
+| `[GS] Time to First 80` | The # of days to reach 80% license utilization | [Link](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#license-usage-health-table) |
+| `[GS] Time to First CI` | The # of days for a healthy % of users to deploy CI as defined in the handbook| [Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#continuous-integration-ci) |
+| `[GS] Time to First SCM` | The # of days for a healthy % of users to deploy SCM as defined in the handbook| [Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#source-code-management-scm) |
+| `[GS] Time to First DSC` | The # of days for a healthy % of users to deploy DevSecOps as defined in the handbook | [Link](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#devsecops) |
