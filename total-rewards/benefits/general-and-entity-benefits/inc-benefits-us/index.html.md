@@ -617,7 +617,7 @@ All FMLA entitled leave will run concurrently with any State specific leave or p
 Any medical related absence (for yourself or a family member) requiring you to be away from work for 5 or more calendar days (either continuously or non-continuous but related to the same condition) must be reported to leaves@gitlab.com. You will be contacted within 24-48 business hours (whenever possible) and provided with information regarding your request.  If approved, please submit your time away via PTO by Roots request utilizing the `Out Sick` option.
 
 ### Payroll Processing During FMLA
-GitLab's extended 25-day PTO policy, and/or sick leave pay (including COVID leave) will run concurrently with FMLA.  If a team member's own leave extends beyond 25 days, and they are not eligible for other sick pay benefits, the team member must email a completed [Short-Term Disability application](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view) to leaves@gitlab.com no later than the 18th day of leave.  After the team member exhausts their 25 days of PTO, Cigna will pay 66.67% of the team member's weekly wages, and GitLab will provide the remaining 33.33% following our normal payroll calendar.
+The Absence Management team will review the team members eligibility for Short-Term Disability benefits, State pay benefits, and/or GitLab's Sick Time policy, and will communicate how the team member can expect to receive their pay while on leave.
 
 ### Admin Steps
 **Initial Leave Request:**
@@ -671,26 +671,39 @@ GitLab's extended 25-day PTO policy, and/or sick leave pay (including COVID leav
 ## Parental Leave
 ### Apply For Parental Leave in the US
  
-1. Notify the Absence Management team at `leaves@gitlab.com` of intention to take parental leave at least 30 days in advance, or as soon as reasonable by entering the dates in PTO Roots via Slack.
-2. For a birthing parent (maternity leave), fill out the [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) and [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) and email the completed forms to `leaves@gitlab.com`.
-     - The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will disperse those funds to the team member. The intention of this form is to keep payroll consistent for the team member via GitLab payroll vs needing to offset disability payments from Cigna. GitLab may need to offset any state related payments if applicable.
-     - Please see the Short-Term Disability claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance) as well as specifics on how to fill out the Leave Request Form.
-1. The Absence team will send the team member an email with how payments will be processed and advise any differences in pay.
-1. The Absence team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Payroll team via the Payroll Changes google sheet.
-1. The team member will notify leaves@gitlab.com on their first day back to work.
-1. The Absence team will get a notification once the claim is closed.
-1. TODO Outline process to return the team member to work
+1. Submit your Parental Leave request in PTO by Roots by selecting the `Parental Leave` option at least 30 days in advance.
+2. The Absence Management team will contact you within 48hrs of receiving your initial request for Parental Leave and provide you with information related to GitLab's Parental Leave policy, the Family Medical Leave Act (FMLA), and other [State leave](/handbook/people-policies/leave-of-absence/us/#state-specific-leaves) and/or pay programs (if eligible).
+3. Birthing parents will also receive an application for [Short Term Disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance) benefits and an [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) form.  
+     - The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will disperse those funds to the team member. The intention of this is to keep payroll consistent for the team member and reducing the number of sources for pay while on leave. GitLab will continue to offset any state related payments if applicable.
+     - Please see the Short-Term Disability claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance).
+4. Team Members will need to review and email all completed documents to leaves@gitlab.com by the deadlines given.
+
+### Absence Management Team Administrative Processing During Parental Leave
+1. Enter details of the team member and the dates of their Parental Leave request in the current year tab on the "Parental Leave Log" Google sheet on the drive.
+2. Review the team members eligibility for FMLA and other State Leave/Pay programs.
+3. US Non-Birthing Team Members:  Confirm receipt of request via confirmation e-mail template and include the team members FMLA Notice of Eligibility & Rights and Responsibilities, and other required State Leave and Pay notices as attachments. 
+    - PTO by Roots will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually.
+4. US Birthing Parents Only: Confirm receipt of request via confirmation e-mail template and include the team members FMLA Notice of Eligibility & Rights and Responsibilities, medical certificate, Short-Term Disability application, Assignment of Benefits forms, and other required State Leave and Pay program notices.
+5. Add a note to Column L stating the due dates for these forms to be returned to the Absence Management Team.
+6. Confirm via email how the team members payments will be processed and complete a Parental Leave Pay Schedule report if the team member is eligible for State pay benefits.
+7. When completed documents are returned review for approval under FMLA and/or State Leave, email Assignment of Benefits form and employer completed portion of the STD application to Cigna, and upload all documents received into the team member's BambooHR 'Leaves and Attestations" folder.
+8. Email the team members applicable FMLA Designation Notice and explain how many hours of eligible leave time (both FMLA, State, and Parental Leacvce) will be used per the dates they requested.
+9. Add the team member's leave information on the "Top Up Pay" tab in the Parental Leave Log google sheet.
+10. Do a weekly audit of parental leave return dates. If a team member hasn't sent an e-mail within 3 days of returning, send them the return to work e-mail, copying the manager in.
+11. If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
+12. If the dates in PTO by Roots change, update the BambooHR status accordingly, and begin again at Step 8.
  
 ### Payroll Processing During Parental Leave
+**Non-Birthing Parent Pay**
+Non-Birthing parents are not eligible to receive Short-Term Disability pay during Parental Leave, so if the team member is not eligible for State Paid Family Leave, they will receive 100% of their regular salary from GitLab following our normal bi-monthly pay cycle.  
+
+If a non-birthing parent is eligible for State paid benefits, the Absence Management team will calculate their pay minus these benefits on the Top Up Pay tab, and report those wages via the Pay Changes report at least 7 days before payday.
  
-**Non-Birthing Person Leave**
-Non-Birthing Person leave is not covered under Short-Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay." Non-Birthing person leave is also offset for any state eligible payments.
- 
-**Birthing Person Leave**
-For Birthing Person leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll, Short-term Disability (STD), and state leave pay (where applicable).
- 
-Parental leave is inclusive of public holidays that occur during within the start and end date of parental leave. GitLab will receive the Short-Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. The Absence Management team will notify payroll of the "leave with pay" status using the start and end date of parental leave. The Absence Management team will also notify payroll of any state related payments which may need to be offset.
- 
+**Birthing Parent Pay**
+Unless a Birthing Parents is eligible for State paid disability benefits and/or State paid family leave beneits, they will continue to receive 100% of their regular salary from GitLab following our normal bi-monthly pay cycle.
+
+If a birthing parent is eligible for State paid benefits, the Absence Management team will calculate their pay minus these benefits on the Top Up Pay tab, and report those wages via the Pay Changes report at least 7 days before payday.
+
 ## State-Specific Allowed Leaves
  
 To learn more about State-specific leave laws, please visit the [US Leaves of Absence page](/handbook/people-policies/leave-of-absence/us/)/
