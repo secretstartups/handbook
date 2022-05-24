@@ -207,6 +207,61 @@ Triage automations are handled by the [Triage Ops project](https://gitlab.com/gi
 
 ## Working with community contributions
 
+### Wider community workflow automations
+
+```mermaid
+
+graph LR
+    classDef triageOpsClass fill:#f9f,stroke:#333,stroke-width:4px;
+
+    MR_INITIAL([Wider Community Merge request])
+    MR_OPENED[MR is opened]
+    MR_UPDATED[MR is updated]
+    MR_MERGED[MR is merged]
+    MR_CLOSED[MR is closed]
+    MR_AUTHOR_NOTE[MR author posts a note]
+    AUTOMATED_THANK(["'Thank you' note posted,<br/> ~'Community contribution' added"])
+    AUTOMATED_DOC_REVIEW{"Does the MR touches documentation files?"}
+    AUTOMATED_DOC_REVIEWER_REQUEST(["A technical writer is asked to review"])
+    AUTOMATED_UX_REVIEW{"Does the MR has the ~UX label?"}
+    AUTOMATED_UX_REVIEWER_REQUEST(["A message is posted in the `#ux-community-contributions` Slack channel"])
+    AUTOMATED_FEEDBACK_REQUEST(["A note asking for feedback is posted"])
+    AUTOMATED_HACKATHON_LABEL{Is the MR opened during a Hackathon?}
+    AUTOMATED_HACKATHON_LABEL_ADDITION(["The ~Hackathon label is added"])
+    WHAT_NOTE{What note is it?}
+    WORKFLOW_IN_DEV_LABEL{"Does the MR has the ~'workflow::in dev' label?"}
+    AUTOMATED_REMOVAL_OF_WORKFLOW_IN_DEV_LABEL(["Removes the ~'workflow::in dev' label"])
+    
+    AUTOMATED_LABEL_COMMAND_REPLY(["Quick action note posted to add the requested label"])
+    AUTOMATED_HELP_COMMAND_REPLY(["Note posted asking MR coach to help"])
+    AUTOMATED_REVIEW_COMMAND_REPLY(["Note posted asking MR coach to review or reassign"])
+    AUTOMATED_FEEDBACK_COMMAND_REPLY(["A message is posted in the `#mr-feedback` Slack channel"])
+
+    MR_INITIAL --> MR_OPENED & MR_UPDATED & MR_MERGED & MR_CLOSED & MR_AUTHOR_NOTE
+
+    MR_OPENED -.-> AUTOMATED_THANK
+    MR_OPENED & MR_UPDATED --> AUTOMATED_DOC_REVIEW & AUTOMATED_UX_REVIEW & AUTOMATED_HACKATHON_LABEL
+    MR_MERGED & MR_CLOSED --> AUTOMATED_FEEDBACK_REQUEST
+    MR_AUTHOR_NOTE --> WHAT_NOTE & WORKFLOW_IN_DEV_LABEL
+
+    AUTOMATED_DOC_REVIEW -->|Yes| AUTOMATED_DOC_REVIEWER_REQUEST
+    AUTOMATED_UX_REVIEW -->|Yes| AUTOMATED_UX_REVIEWER_REQUEST
+    AUTOMATED_HACKATHON_LABEL -->|Yes| AUTOMATED_HACKATHON_LABEL_ADDITION
+
+    WHAT_NOTE -.->|"@gitlab-bot label ..."| AUTOMATED_LABEL_COMMAND_REPLY
+    WHAT_NOTE -.->|"@gitlab-bot help"| AUTOMATED_HELP_COMMAND_REPLY
+    WHAT_NOTE -.->|"@gitlab-bot request_review"| AUTOMATED_REVIEW_COMMAND_REPLY
+    WHAT_NOTE -.->|"@gitlab-bot feedback"| AUTOMATED_FEEDBACK_COMMAND_REPLY
+
+    WORKFLOW_IN_DEV_LABEL -.->|Yes| AUTOMATED_REMOVAL_OF_WORKFLOW_IN_DEV_LABEL
+
+    class AUTOMATED_THANK,AUTOMATED_LABEL_COMMAND_REPLY,AUTOMATED_HELP_COMMAND_REPLY triageOpsClass;
+    class AUTOMATED_REVIEW_COMMAND_REPLY,AUTOMATED_FEEDBACK_REQUEST,AUTOMATED_DOC_REVIEW triageOpsClass;
+    class AUTOMATED_UX_REVIEW,AUTOMATED_DOC_REVIEWER_REQUEST,AUTOMATED_UX_REVIEWER_REQUEST triageOpsClass;
+    class AUTOMATED_FEEDBACK_COMMAND_REPLY,AUTOMATED_HACKATHON_LABEL,AUTOMATED_HACKATHON_LABEL_ADDITION triageOpsClass;
+    class WHAT_NOTE,WORKFLOW_IN_DEV_LABEL,AUTOMATED_REMOVAL_OF_WORKFLOW_IN_DEV_LABEL triageOpsClass;
+```
+
 ### Wider community MR triage reports
 
 We have 2 triage process for the new merge requests from the wider community created under [gitlab-org](https://gitlab.com/groups/gitlab-org) 
