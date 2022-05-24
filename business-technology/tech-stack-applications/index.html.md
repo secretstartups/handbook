@@ -13,7 +13,7 @@ The Tech Stack is a list of all the technology that GitLab currently uses to sup
 
 - The Tech Stack single source of truth is the **[Tech Stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml).**
 - An overview of the Tech Stack is accessible in the [Tech Stack handbook page](/handbook/business-technology/tech-stack/), which is derived from the yml file as well.
-- The [Tech Stack Data and Integrations Index](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) contains links to integrations, dashboards, and data used by Tech Stack Applications.
+- The [Tech Stack Data and Integrations Index](/handbook/business-technology/tech-stack-applications/data-and-integrations/) contains links to integrations, dashboards, and data used by Tech Stack Applications.
 
 The historical spreadsheets (deprecated on 2020-10-16 and 2021-03-03) can be found [here](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0). Both are protected in case they are needed in future audits. Only Editors of the file (currently the BSAs and Team Member Enablement team) can unhide and unprotect the spreadsheets in case it is needed.
 
@@ -75,6 +75,7 @@ Please ensure that whenever you update the tech stack, you follow the instructio
 *  **Unknown: If information is unknown, please don't leave the field empty, type `null` instead.
 
 ### **Add new system to the tech stack**
+
 _**We recommend using the Web IDE for Tech Stack Updates as we have a [JSON Schema](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/schemas/tech_stack.schema.json) that will automatically validate your changes.**_
 
 To add a new system to the tech stack, you must start a merge request in the [tech stack yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and follow the steps below.
