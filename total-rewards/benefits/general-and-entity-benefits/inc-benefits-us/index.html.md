@@ -415,26 +415,29 @@ GitLab offers company paid basic life and accidental death and dismemberment (AD
 ### Group Long-Term and Short-Term Disability Insurance
  
 GitLab provides, at no cost to our Inc and Federal team members, a policy through Cigna that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500.
- 
+
+Short-term disability insurance has a 7-calendar day waiting period before payments begin. While the team member is receiving short-term disability pay (66.7% of regular salary), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefits coverage (medical, dental, vision, etc.) and vesting will continue for the time the team member is receiving short-term disability pay. 
+
 **GitLab Process for Disability Claim**
  
-1. If a team member will be unable to work due to disability as defined by the applicable short term disability plan for less than 25 calendar days, no action is needed and the absence will be categorized under [paid time off](/handbook/paid-time-off/).
-1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days. If they will not be able to return, they should inform the Absence Management team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Absence Management team a completed [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing). While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
+1. Team Members unable to work due to disability, as defined by the applicable short term disability plan, should contact the Absence Management team (leaves@gitlab.com) as soon as possible.  See [Sick Time reporting proceedures in the US](/handbook/paid-time-off/#sick-time-procedures---usa).  
+1. The Absence Management team will complete the Employer portion of the the [Short-Term disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) application and email the completed portion along with the [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) form (Parental Leave only).
+1. The Absence Management team will provide the team member with  a Leave Pay Schedule report illustrating how they will receive payments from Cigna and GitLab during their leave. 
 1. At the end of the maximum benefit period for short-term disability of 12 weeks, the team member will determine whether they are able to return back to work.
-   * If the team member intends to return on or before the end of the 12 weeks, they should email leaves@gitlab.com a Return to Work authorization from their doctor stating that they are able to return to work and listing any accommodations needed, if applicable, before their return date. The Absence Management team should request this a week before the team member's anticipated return to work date if not already provided by the team member.
+   * If the team member intends to return on or before the end of the 12 weeks, they should email leaves@gitlab.com a Return to Work authorization form from their physician stating that they are able to return to work and listing any accommodations needed, if applicable, at least 5 calendar days before their return date. The Absence Management team will request this at least 5 business days before the team member's anticipated return to work date if not already provided by the team member.
    * If the team member is unable to return, the team member will be moved to unpaid leave and will have the option to continue their benefits by electing [COBRA coverage](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf). The team member will be eligible to apply for long-term disability at this time.
  
 **Short-Term Disability Claim Process via Cigna**
  
-1. Team member will submit the [Short-Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form by email to the Absence Management team at `leaves@gitlab.com`. 
-     - Page 3 includes the Employee portion of the form as well as the Doctor Certification. This page can be sent directly to Cigna (using the mail or fax number at the top of the form) or this page can be returned to GitLab and we can send to Cigna all at once. This is completely at the preference of the team member or the requirement from the Doctor.
-2. The Absence Management team will complete the employer portion of the Short-Term Disability form and send to Cigna via email: `dallasfco.intake2@cigna.com`
-3. The Absence Management team will notify the team member of submission of claim and provided next steps.
-4. Cigna Claims Process:  
+1. Team member will submit the Claimant portion of the [Short-Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) application and remit to their physician to complete the rest. 
+     - The completed application can be sent directly to Cigna (using the mail or fax number at the top of the form) or can be returned to the Absence Management team and will be submitted on the team member's behalf. 
+     - This is completely at the preference of the team member or the requirement from the Doctor, but the team member should confirm the choice with the Absence Management team.
+2. If the team member opts to send the form directly to Cigna, the Absence Management team will email the completed employer portion of the Short-Term Disability form to Cigna via email: `dallasfco.intake2@cigna.com`.
+3. Cigna Claims Process:  
      - Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed. 
      - The claims team will also contact the Absence Management team to confirm eligibility and verify job responsibilities, if needed. 
      - Cigna claims team will immediately begin reviewing the information available to make a decision. Cigna may also contact the team members attending physician, if needed, once Cigna has the team members authorization to do so. 
-     - If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Absence Management team will also receive a notification of the denial.
+     - If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Absence Management team will also receive a notification of the denial and process any pay owed to the team member.
      - If approved, communication is sent to the Absence Management team and claim status reports with approval date and estimated return-to-work date is provided.  
 5. The Absence Management team will process the approval or denial and file all related paperwork in BambooHR. 
  
