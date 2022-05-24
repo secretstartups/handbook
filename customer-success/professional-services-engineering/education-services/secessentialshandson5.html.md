@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Security Essentials<br/>Hands-On Guide: Lab 5"
-description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
+title: "GitLab Security Essentials - Hands-On Guide: Lab 5"
+description: "This hands-on guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
 {:.no_toc}
 
@@ -11,27 +11,29 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 This lab demonstrates coverage-guided fuzz testing, which looks for bugs in a single function in your code. Web API fuzz testing works similarly, but is not covered here.
 
 
-### A. Fuzz-testing overview
+### A. Fuzz testing overview
 
-Coverage-guided fuzz testing tries to cause unexpected behaviors in your code. Any unexpected exceptions or crashes could indicate bugs or potential security issues that may need to be addressed. Fuzz testing often catches problems that other QA processes miss.
+Fuzz testing tries to cause unexpected behaviors in your code. Any unexpected exceptions or crashes could indicate bugs or potential security issues that may need to be addressed. Fuzz testing often catches problems that other QA processes miss.
 
 A fuzz test sends data to a function in your code. It uses program instrumentation to trace which lines of your code are exercised by that input, and uses this information to make informed decisions about how to mutate future inputs in order to exercise as much of the function's code as possible.
 
 You must define a separate CI/CD pipeline job for each function you want to fuzz test. That said, if the function in your code-under-test calls other functions, the fuzz test will catch problems that occur anywhere in the call stack. In this lab you'll fuzz test just 1 function.
 
-Here's a high-level description of the fuzz testing workflow:
+Here's a high-level description of the fuzz testing workflow in GitLab:
 
-1. A CI/CD job runs the fuzz engine. The fuzz engine generates data and sends it to the fuzz target. The fuzz target sends that data to the code-under-test. The collection of all data sent to the fuzz target is called a "corpus."
-1. If the code-under-test processes the data successfully (i.e., without throwing unexpected errors or crashing), the fuzz engine tracks which lines of the code-under-test were exercised by that input. Then it generates mutatations of the data in the corpus to exercise different parts of the code-under-test. It sends that new, mutated input to the fuzz engine, repeating the cycle.
-1. If any input data ever causes an unexpected error or crash in the code-under-test, that problem is sent back to the fuzz target, which passes it to the fuzz engine, which reports it to the CI/CD pipeline as a potential bug in the code-under-test.
+1. A CI/CD job runs `gitlab-cov-fuzz`, a GitLab commandline utility, which in turn, runs a fuzzer. The fuzzer generates data and sends it to the fuzz target. The fuzz target sends that data to the code-under-test. The collection of all data sent to the fuzz target is called a "corpus."
+1. If the code-under-test processes the data successfully (i.e., without throwing unexpected errors or crashing), the fuzzer tracks which lines of the code-under-test were exercised by that input. The fuzzer then generates mutatations of the data in the corpus to exercise different parts of the code-under-test. It sends that new, mutated input to the fuzz target, repeating the cycle.
+1. If any input data causes an unexpected error or crash in the code-under-test, that problem is sent back to the fuzzer, which reports it to the `gitlab-cov-fuzz` utility, which passes it to the CI/CD pipeline as a potential bug in the code-under-test. That problem then appears in the GitLab GUI, under the **Security** tab on the pipeline details page.  
 
 Here's a picture of the same workflow:
 
 ```mermaid
 flowchart TD
-    A(CI/CD job) <-- send command to run fuzz engine,<br/>return info on unhandled exceptions or crashes --> B(Fuzz Engine) 
-    B <-- send data,<br/>return coverage info and info on unhandled exceptions or crashes --> C(Fuzz Target) 
-    C <-- send data,<br/>return coverage info and info on unhandled exceptions or crashes --> D(Code-Under-Test)
+    A(CI/CD job) <--send command to start job<br> return info on unhandled exceptions/crashes--> B(gitlab-cov-fuzz)
+    B <-- send command to run fuzzing<br>return info and unhandled exceptions/crashes --> C(Fuzzer) 
+    C -- send data--> D(Fuzz Target) 
+    D -- send data--> E(Code-Under-Test)
+    E -- return coverage info and info on unhandled exceptions or crashes --> C
 ```
 
 
