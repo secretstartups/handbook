@@ -137,7 +137,7 @@ Here are a few tips for maintaining good progress:
    will need to be addressed in additional tickets and that your focus will
    remain on the original problem or question
 1. As soon as you're unclear on what your next steps should be, seek help.
-   See our [How to get help](/handbook/support/workflows/how_to_get_help.html) page for
+   See our [How to get help](/handbook/support/workflows/how-to-get-help.html) page for
    details
 1. If you are unsure of what message to deliver to the customer, or how to
    word the message to achieve a positive impact, seek help in the
