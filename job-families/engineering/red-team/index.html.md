@@ -61,6 +61,7 @@ The Senior Red Team Engineer is a [grade 7](/handbook/total-rewards/compensation
 * Help identify new Red Team Operations
 * Perform "read outs" of completed Red Team Operations
 * Collaborate closely with defensive and infrastructure teams
+* Participate in candidate interviews during the hiring process
 
 #### Senior Red Team Engineer Requirements
 * Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent and 5+ years of professional experience in cyber security or related field
@@ -92,6 +93,35 @@ The Staff Red Team Engineer is a [grade 8](/handbook/total-rewards/compensation/
 * Can convey technical information in writing at an expert level
 * Profound knowledge of exploit techniques, and common TTPs 
 * Senior knowledge of one or more programming or scripting languages
+* Extensive knowledge of offensive cloud security and common vulnerabilities
+
+### Principal Red Team Engineer
+This position reports to the [Senior Manager, Threat Management](/job-families/engineering/security-leadership/#senior-manager-security).
+
+#### Principal Red Team Engineer Job Grade
+The Principal Red Team Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Principal Red Team Engineer Responsibilities
+* Extends Staff Red Team Engineer responsibilities, plus;
+* Solve technical problems of the highest scope, complexity, and ambiguity
+* Guide conversations to remove blockers and encourage collaboration across teams
+* Assist in developing the team and sub-department roadmap and maturity model
+* Teach, mentor, grow, and provide advice to domain experts and individual contributors across the organization
+* Actively pursue the improvement of field applicable knowledge and skills through learning and development opportunities as well as research and experimentation
+* Work with industry peers to discuss Red Team strategies, bringing that knowledge back to GitLab to propose improvements to our own people/process/technologies
+* Maintain an up-to-date understanding of industry offerings from vendors. Create proposals to implement tooling, if and when it makes sense
+* Regularly communicate with the wider GitLab community, via blogs, public speaking, or other methods
+
+#### Principal Red Team Engineer Requirements
+* Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent and 8+ years of professional experience in cyber security or related field
+* Proven technical task management experience
+* Experience working remotely on a widely distributed team
+* Can convey technical information in writing at an expert level
+* Profound knowledge of exploit techniques, and common TTPs 
+* Expert knowledge of one or more programming languages including architectural design, tooling, and cloud infrastructure usage
+* Extensive knowledge of offensive cloud security and common vulnerabilities
+* Passion for participation in the security community, demonstrated through published research and community involvement
+* Deep knowledge of the current and emerging security threats that are specifically applicable to the business
 
 ### Manager, Red Team 
 This position reports to the [Senior Manager, Red Team ](#senior-manager-red-team).
@@ -168,12 +198,12 @@ The Security Incident Response Team Senior Manager is a [9](/handbook/total-rewa
   graph LR;
   sec:se(Red Team Engineer)-->sec:sse(Senior Red Team Engineer);
   sec:sse(Senior Red Team Engineer)-->sec:stse(Staff Red Team Engineer);
-  sec:stse(Staff Red Team Engineer)-->sec:dse(Distinguished Red Team Engineer);
+  sec:stse(Staff Red Team Engineer)-->sec:dse(Principal Red Team Engineer);
   sec:sse(Senior Red Team Engineer)-->sec:sem(Red Team Manager);
-  sec:sem(Red Team Manager)-->sec:sesm(Red Team Senior Manager);
-  sec:sesm(Red Team Senior Manager)-->sec:ds(Director of Security Operations);
+  sec:sem(Red Team Manager)-->sec:sesm(Senior Security Manager, Threat Management);
+  sec:sesm(Senior Security Manager, Threat Management)-->sec:ds(Director of Threat Management);
 ```
-For details on the Security organization leadership roles, to include the Security Operations Director and VP of Security, see the Security Leadership page.
+For details on the Security organization leadership roles, to include the Director of Threat Management and VP of Security, see the Security Leadership page.
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
