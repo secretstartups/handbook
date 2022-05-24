@@ -89,3 +89,13 @@ For more information on general Product Usage Data, see [Using Product Usage Dat
 | Program Emails | Some of the Program Emails can be found cataloged within the Account Page > Activity History section in SFDC. There you can see the log of the Email Subject Line & see the `Assigned to` field = “Gainsight Integration” |  |  
 | Survey Results | These surveys are used to measure customer loyalty, satisfaction, and enthusiasm with GitLab and can act as an early warning system about a customer’s adoption.  | [Link](https://about.gitlab.com/handbook/customer-success/tam/gainsight/c360-overview/nps-csat-scores/#customer-npscsat-surveys)  |  
 | Timeline Activities  | The Timeline view in Gainsight gives us a chronological overview of our activities with the customer. It's a valuable tool to see our interactions and progression on success efforts over time. | [Link](https://about.gitlab.com/handbook/customer-success/tam/gainsight/timeline/#how-to-log-activities-in-timeline)  |  
+
+## Customer Subscriptions
+| Field Name | Description | Reference |
+|:---|:---|:---|
+| [GS] Time to First_10 | The # of days to reach 10% license utilization| |
+| [GS] Time to First_50 | The # of days to reach 50% license utilization | |
+| [GS] Time to First_80 | The # of days to reach 80% license utilization | |
+| [GS] Time to First_SCM | The # of days for a healthy % of users to deploy SCM as defined in the handbook || [GS] Time_to_First_CI | The # of days for a healthy % of users to deploy CI as defined in the handbook| |
+[GS] Time to First CI | The # of days for a healthy % of users to deploy CI as defined in the handbook| |
+| [GS] Time to First DSC | The # of days for a healthy % of users to deploy DevSecOps as defined in the handbook | |
