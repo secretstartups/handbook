@@ -188,3 +188,42 @@ Login to [Salesforce](https://gitlab.my.salesforce.com/00T4M00002KWYXx?srPos=24&
 - Great Note: “Send an email to Anthony (our #1 champion at XYZ Corp) next Tuesday morning at 10 his time to confirm he got sign off from Ryan on Premium: ‘Anthony, did you have a chance to present the ROI slide we created? I’d love to hear feedback on those numbers…’” [RO note: the statement in single quotes should actually be written in your next steps so that you could cut and paste it into and email verbatim.]
 
 **This Sales Team takes great notes!**
+
+
+# Commercial sales account health check process
+## Objective
+To build and maintain positive relationships with customers at every stage of their GitLab journey.  Positive customer relations help you connect with your customers on a much more personal level. When you connect with the target audience, you are much more likely to understand their requirements, resolve their problems, and create a sense of mutual understanding.
+## Goal
+Understand the importance of customer health checks to create lasting relationships with GitLab customers.  This reduces churn and increases expanded opportunities.
+## Lifecycle stages & engagement
+**First order (Pre-Sale-Day 1)**: The objective is to prepare the customer for a successful customer journey with GitLab, meaning they can achieve their business outcomes with a great experience. This includes evaluating our products for their needs, clearly defining their buying process and determining the timeline of key milestones to ensure a seamless handoff. 
+
+**Implementation (Day 1-Day 90)**: This is a very important step in the customer lifecycle.  During the implementation stage the customer is evaluating their needs and how GitLab is going to ensure they meet those needs.  There may be learning opportunities that present themselves, so multiple touches will take place to ensure we provide support to move them into the adoption stage.  
+- Schedule first meeting w/customer within 7 days of first order. Invite appropriate CS/TAM partners based on scope. 
+- On first call review notes from FO process on what they want to accomplish w/GL over the subscription period and in what order
+- Define goals for first 30 days of license (get users added, first project setup, migrate repos, etc)
+- Schedule appropriate follow up calls for technical teams based on requirements
+- Schedule & Complete 30 day check-in to ensure customer is on track to first value/first adoption
+- Assess customer needs based on 30 day check in and schedule appropriate follow up calls w/internal/partner resources to ensure full adoption/value by 90th day based on customers initial use case
+
+**Adoption (Day 90-270)**: The objective is to support our customer's utilization of the GitLab solution to address the customer's original purchase intent (i.e., use case(s) and capabilities, licenses). 
+- Day 90 Call - review implementation phase and confirm adoption was successful, schedule appropriate follow ups as necessary. Review key milestones from initial purchase and assess if on track based on business progress or if anything has changed. Schedule appropriate follow up calls to position additional GitLab features/services based on milestones
+- Milestone calls to review achievements and present additional GitLab features ideally 90 days before needed to give customers enough time to eval, trial and decide.  Ensure that all email/phone communications are supported by marketing insights or customer content housed in [Highspot](https://gitlab--highspot.na208.visual.force.com/apex/HighspotPage?sfdc.tabName=01r4M00000113UQ)
+- Schedule first renewal meeting for renewal phase
+
+**Renewal (Day 270-365)**:  At this stage in the customer journey, there is full application of GitLab products and development is underway.  The objective in this stage is to enable the customer to get additional value from the platform and stay current on project timelines.  
+- Day 270 call - conduct initial renewal meeting. Review key stats - GL license utilization, company sentiment, product utilization, additional areas would like to evaluate (ultimate or services) and proposed user count/tier for upcoming renewal
+     - Use the renewal call checklist/deck provided to conduct initial renewal call: [EBR Template](https://about.gitlab.com/handbook/customer-success/tam/ebr/#impact-questions)
+- Schedule follow up calls accordingly based on initial renewal call to allow customer time to eval additional features, get user count, procurement or legal processes worked out
+- Day 365 successful renewal
+
+<em>SFDC Reports to assist: [Customer Health Check Dashboard](https://gitlab.my.salesforce.com/01Z4M000000soRR) 
+
+For more specific step by step processes, see below for links to individual roles and responsibilities.
+[SMB First Order ]
+[SMB Pooled]
+[SMB First Year Expand]
+[SMB Named]
+[MM Territory](https://about.gitlab.com/handbook/sales/commercial/#customer-journey-1)
+[MM Named](https://about.gitlab.com/handbook/sales/commercial/#customer-journey-1)
+
