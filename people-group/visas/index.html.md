@@ -124,6 +124,10 @@ If you meet these requirements, kindly read our [Relocation](https://about.gitla
 
 If you do not meet one or more of the above requirements, please file a request with your manager and indicate clearly which requirements you meet and which ones you do not meet. All situations will be reviewed on a case by case basis. If you receive full manager approval, please forward that approval to peopleops @gitlab.com at the start of the process. **Manager approval to proceed does not ensure that you will be approved to relocate and immigrate.**
 
+#### Transferring a partner visa to a highly skilled migrant visa
+
+Someone already in the Netherlands on a partner visa can be transferred to their own highly skilled migrant visa in order to not be dependent anymore. The process will take about 4-6 weeks if they are already in the Netherlands and don’t have to wait for an entry sticker or have to go for appointments to get registered. This is subject to above eligibility criteria and approvals. Please email peopleops@ gitlab.com if you have any questions or to start this process.
+
 #### Resources
 
 Here is a [document written by a GitLab team member](https://docs.google.com/document/d/1t5-jMIrWBxOJSka42uzPIPUnTLtRObbcQ6qBvTpjYI4/edit?usp=sharing) (internal only) detailing their immigration experience to the Netherlands.
