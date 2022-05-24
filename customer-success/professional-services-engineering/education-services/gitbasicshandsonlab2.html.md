@@ -154,7 +154,7 @@ In this lab you will practice cloning a repository; creating, using, and merging
 
 1. Commit the staged file.
    ```bash
-   git commit -m "added a line to README.md"
+   git commit -m "Add a line to README.md"
    ```
    You have now created a snapshot of the file that you can refer to later, if needed.
 1. Make sure the staging area is empty again.
@@ -184,7 +184,7 @@ In this lab you will practice cloning a repository; creating, using, and merging
    ```
 1. Commit the staged file.
    ```bash
-   git commit -m "modified README.md"
+   git commit -m "Modify README.md"
    ``` 
 1. See a description of the commit you just made.
    ```bash
