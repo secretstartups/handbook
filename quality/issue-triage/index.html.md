@@ -23,7 +23,7 @@ We define two levels of triage.
 
 ### Partial Triage
 
-An issue is considered partially triaged when:
+An issue is considered partially triaged when all of the following criteria are met:
 
 - Issue has a [type label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) applied.
   - (For `~"type::bug"` and `~"UX Debt"`) It has a [severity label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) applied.
@@ -32,10 +32,11 @@ An issue is considered partially triaged when:
 
 ### Complete Triage
 
-An issue is considered completely triaged when:
+An issue is considered completely triaged when all of the following criteria are met:
 
-- (For `~"type::bug"` and `~"UX Debt"`) It has a [priority label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) applied.
+- It is partially triaged.
 - It has a milestone set.
+- (For `~"type::bug"` and `~"UX Debt"`) It has a [priority label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) applied.
 
 ## Priority
 
