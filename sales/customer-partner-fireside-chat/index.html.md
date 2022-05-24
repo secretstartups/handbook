@@ -10,7 +10,7 @@ title: "Customer & Partner Fireside Chat"
 {:toc}
  
 
- ## What is a fireside chat? 
+## What is a fireside chat? 
 
 Fireside chats are less formal than an interview but more structured than a typical GitLab [AMA](https://about.gitlab.com/handbook/communication/ask-me-anything/). The fireside chat series with key customers is meant to be informal yet structured chats between a moderator and their guest. In this scenario, the guest is a current GitLab customer or partner and the moderator is a member of E-Group or Senior Leadership. 
 
