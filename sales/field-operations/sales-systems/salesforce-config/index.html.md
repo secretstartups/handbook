@@ -72,8 +72,9 @@ The Salesforce knowledge base has [a resource](https://help.salesforce.com/artic
       - To update the certificate here update the certificate in the `Label` picklist
 
 ### Critical SFDC Permissions
+
 | Critical Permission   | Systems Administrator | Sales Operations | All Other Profiles | Permission Set Assigned to Individuals |
 |-----------------------|-----------------------|------------------|--------------------|----------------------------------------|
 | Deploy Change Sets    | Yes                   | No               | No                 | No                                     |
 | Customize Application | Yes                   | Yes              | No                 | No                                     |
-| Manage Users          | Yes                   | Yes              | No                 | [Yes](https://gitlab.my.salesforce.com/005?id=0PS4M00000113lT&isUserEntityOverride=1&SetupNode=PermSets)                                    |
+| Manage Users          | Yes                   | Yes              | No                 | [Yes](https://gitlab.my.salesforce.com/005?id=0PS4M00000113lT&isUserEntityOverride=1&SetupNode=PermSets)|
