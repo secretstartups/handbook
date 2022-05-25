@@ -32,6 +32,8 @@ This workflow applies if ZD displays `No organization` for a ticket.
 
 ## Overall Flow
 
+You can watch a [short walkthrough video](https://drive.google.com/file/d/1asRtFbqeNJha3d6hIq9PAw_1-95WMaoj/view?usp=sharing) (internal) which covers straightforward cases.
+
 See also the
 
 - [triage page](ticket_triage.html) on assigning the correct form, and
