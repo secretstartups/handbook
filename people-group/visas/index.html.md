@@ -156,7 +156,7 @@ You can apply for an EU Blue Card from the Foreigner’s Office in Germany.  Dep
 
 1. Set up a visa appointment for employment purposes from the German embassy or consulate
 2. Collect the required documents: your local German embassy will provide a list of required documents which usually includes an employment agreement, validation of academic qualififications, and travel health insurance. 
-3. Once you have arrived in Germany you will need to register for residence and obtain either [Public](https://visaguide.world/international-health-insurance/germany/list-of-health-insurance-providers-in-germany/)] or private health insurance.
+3. Once you have arrived in Germany you will need to register for residence and obtain either [Public](https://visaguide.world/international-health-insurance/germany/list-of-health-insurance-providers-in-germany/) or private health insurance.
 4. On the date of your appointment, you will be asked to submit your Visa application, provide the visa documents and pay a processing fee.  You may also be asked to participate in an interview.  Please note:  This is only an appointment for an entry visa for employment.  You will still need to apply for the Blue Card after arriving in Germany.  
 5. Wait for a decision (can take 1 to 3 months for the entry visa).
 6. Travel to Germany: If your visa application is approved, you will receive a visa, allowing you to enter Germany.  
@@ -183,6 +183,10 @@ More detailed links on the process:
 - [Schengenvisainfo.com/EU-Blue-Card](https://www.schengenvisainfo.com/eu-blue-card/germany/)
 - [Germany-visa.org](https://www.germany-visa.org/immigration-residence-permit/eu-blue-card-germany/)
 - [EU Immigration portal](https://ec.europa.eu/immigration/blue-card/essential-information_en#:~:text=How%20long%20can%20I%20work,which%20has%20issued%20the%20card.)
+
+#### Changing Employer 
+
+If there is a change in employer within Germany and the blue card has been held for less than two years then you will need to apply to the immigration service in Germany (LEA). If it has been held for more than two years you are free to change employer without needing to amend the blue card, but the new employment contract must still meet the required threshold for eligibility. 
 
 
 
