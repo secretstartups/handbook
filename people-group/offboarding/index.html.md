@@ -65,11 +65,11 @@ The form includes the following fields all of which will guide the People Experi
 
 When completing the form in instances of Voluntary Offboarding i.e. as a result of Team Member Resignation, the People Business Partner along with the Manager of the departing Team Member will need to give consideration to whether the offboarding could be considered Regrettable or Non-Regrettable - the explainations below should be used to guide the outcome:
 
-**Regrettable Offboarding**
+#### Regrettable Offboarding
 - Departure has a significant negative impact on the Company / Customer(s) / Project(s) / Team.
 - Team Member was a good and consistent performer both in terms of results and behaviours i.e. upholding the GitLab Values.
 
-**Non-Regrettable Offboarding**
+#### Non-Regrettable Offboarding
 - Departure has a minimal impact on the Company / Customer(s) / Project(s) / Team.
 - Team Member has not been meeting expectations due to Conduct / Culture (Values) Misalignment / Performance Concerns.
 
