@@ -15,7 +15,7 @@ While our team loves making learning and development content for the rest of the
 
 The content should be accessible at no cost but anything requiring payment [can be reimbursed following the GitLab Growth and Development policy](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/).
 
-## New Learning and Development Team Memebers 
+## New Learning and Development Team Members 
 
 All new Learning and Development (L&D) team members complete our [team onboarding issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/new-learning-and-development-team-member.md) in addition to the company onboarding issue to get more familiarized with our team and L&D at GitLab.  
 
