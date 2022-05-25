@@ -76,8 +76,11 @@ Once those are done, they should:
 The approval process to follow is:
 
 1. The MR will remain open for 5 working days.
-If **more than half** of the existing maintainers of the relevant engineering group (e.g. backend) approve the MR,
-**and** there are no blocking concerns raised during this period, we've got ourselves a new maintainer!
+   1. For a maintainer category that consists of 10 or fewer maintainers, if **more than half** of the existing maintainers of the relevant engineering group (e.g. backend) approve the MR,
+**and** there are no blocking concerns raised during this period; we've got a new maintainer!
+   1. For a maintainer category that consists of 11 or more maintainers, if 5 existing maintainers of the relevant engineering group (e.g. backend) approve the MR,
+**and** there are no blocking concerns raised during this period; we've got a new maintainer!
+   1. Maintainers should consider being an approver only if they can support the approval with multiple examples of the trainee's skills, likely from MRs they reviewed together.
 1. If the MR does not have enough approvals after this period, **and** no blocking concerns, then the manager
 should mention the existing maintainers again in a new comment as well as in the relevant Slack channel (e.g. `#backend`) and keep the MR open for 5 more working days.
 1. After the extra period, any missing feedback from a maintainer should be counted as a neutral response and the manager can merge the MR given no blocking concerns were raised!
