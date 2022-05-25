@@ -99,6 +99,81 @@ A Finding's Location Fingerprint is a text value that is unique for each locatio
 Each Secure product defines this according to their type of Attack Surface, for example, SAST will incorporate file path
 and line number.
 
+### Package managers and package types
+
+#### Package managers
+
+A Package manager is a system that manages your project dependencies.
+
+The package manager provides a method to install new dependencies (also referred to as "packages"), manage where packages are stored on your file system, and offer capabilities for you to publish your own packages.
+
+#### Package types
+
+Each package manager, platform, type, or ecosystem has its own conventions and protocols to identify, locate, and provision software packages.
+
+The following table is a non-exhaustive list of some of the package managers and types referenced in GitLab documentation and software tools.
+
+<table class="package-managers-and-types">
+  <thead>
+    <tr>
+      <th>Package Type</th>
+      <th>Package Manager</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>gem</td>
+      <td><a href="https://bundler.io/">bundler</a></td>
+    </tr>
+    <tr>
+      <td>packagist</td>
+      <td><a href="https://getcomposer.org/">composer</a></td>
+    </tr>
+    <tr>
+      <td>conan</td>
+      <td><a href="https://conan.io/">conan</a></td>
+    </tr>
+    <tr>
+      <td>go</td>
+      <td><a href="https://go.dev/blog/using-go-modules">go</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3">maven</td>
+      <td><a href="https://gradle.org/">gradle</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://maven.apache.org/">maven</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.scala-sbt.org">sbt</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2">npm</td>
+      <td><a href="https://www.npmjs.com">npm</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://classic.yarnpkg.com/en">yarn</a></td>
+    </tr>
+    <tr>
+      <td>nuget</td>
+      <td><a href="https://www.nuget.org/">nuget</a></td>
+    </tr>
+    <tr>
+      <td rowspan="4">pypi</td>
+      <td><a href="https://setuptools.pypa.io/en/latest/">setuptools</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://pip.pypa.io/en/stable">pip</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://pipenv.pypa.io/en/latest">Pipenv</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://python-poetry.org/">Poetry</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ### Pipeline Security Tab
 
 A page that displays Findings discovered in the associated CI Pipeline.
@@ -113,7 +188,7 @@ This will occur in the future, some of the related backlog items are [automatica
 
 An irreversible action that is done to filter out target(s) before analysis occurs. This is usually provided to allow the user to reduce scope and noise as well as speed up the analysis. This should not be done if a record is needed as we currently do not store anything related to the skipped/excluded code or assets.
 
-Examples: `DS_EXCLUDED_PATHS` should `Exclude files and directories from the scan based on the paths provided.` 
+Examples: `DS_EXCLUDED_PATHS` should `Exclude files and directories from the scan based on the paths provided.`
 
 ### Primary Identifier
 
