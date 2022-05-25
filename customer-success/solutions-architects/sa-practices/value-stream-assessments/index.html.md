@@ -219,7 +219,7 @@ The final meeting as part of the Value Stream Assessment process is the findings
 
 ### VSA Overview
 
-This course provides an overview of how GitLab account teams should assist prospects and customers by providing a lightweight assessment of their value stream. The course outlines the approaches, tools, and artifacts used to conduct a value stream assessment for our prospects and customers.
+This course provides an overview of how GitLab account teams should assist prospects and customers by providing an assessment of their value stream. The course outlines the approaches, tools, and artifacts used to conduct a value stream assessment for our prospects and customers.
 
 - [EdCast Pathway](https://gitlab.edcast.com/pathways/vsa-overview)
 
