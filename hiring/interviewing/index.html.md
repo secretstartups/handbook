@@ -235,10 +235,6 @@ If the manager has a question about compensation, please ping the People Ops Ana
 
 </details>
 
-## Candidate Experience
-
-We [recorded a training](https://www.youtube.com/embed/ng_VQseo5vo) on the subject of Candidate Experience.
-
 ## How We Conduct Remote Interviews on a Global Scale
 
 <details open><summary>How We Work During Holidays
