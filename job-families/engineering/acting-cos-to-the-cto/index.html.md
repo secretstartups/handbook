@@ -9,28 +9,39 @@ canonical_path: "/job-families/engineering/acting-cos-to-the-cto/"
 This role will help enable communication, collaboration, strategy execution, and special projects across the CTO organization. The responsibilities include both directed work that will mostly be triggered by a direction from the CTO, as well as leadership work that is self-directed and includes inputs and priorities from the CTO leadership team. This individual will work in close partnership with the CTO to drive programs and execute and monitor our business strategy. The role requires a sharp, critical thinker who can solve business issues and communicate effectively.  
 
 ### Responsibilities
-- Create a structure for the CTO to improve visibility and accountability with their direct reports 
-- Manage weekly executive staff meetings, including (but not limited to) setting the agenda and providing insights and analysis to inform strategic conversations. Document and communicate decisions and action items from meetings. Ensure follow-up and closure of action items to increase accountability.
-- Act as a sounding board to the CTO for new ideas and initiatives.
+
+#### Projects
+
+- Organize and determine a program for a potential CTO Staff Offsite (virtual or on-site) in the last month of your term.
 - Initiate and guide the CTO team OKR process according to the [OKR schedule](https://about.gitlab.com/company/okrs/#schedule/) (in partnership with the Chief of Staff to the CEO).
 - Manage, track, and moderate OKRs for Engineering to ensure CTO Staff remains on track, and know their attention points throughout the quarter.
 - Lead the retrospection of the previous quarter OKRs in the first month of your term.
-- Support the creation of investor updates, pitch decks, speeches, conference submissions, and presentations on behalf of the CTO.
-- Effectively triage escalations. Our teams often rely heavily on quick root-cause analyses and fast information sharing. Time-sensitive escalations may include driving cross-functional conversations to get to the bottom of complex issues that have become a business blocker or helping ensure a fast turnaround for specific prospects and customer needs.
-- Maintain and foster a close partnership, collaborating effectively with the CEO’s Chief of Staff on strategic initiatives.
-- Conduct weekly 1:1 meetings with your manager and your peers (CTO Staff/Direct reports).
-- Curate the Engineering Week-in-Review each Friday, ensuring the content is relevant.
 - Record one [Day in the Life of (DITLO) video interview](/handbook/engineering/#day-in-the-life-of-ditlo-videos) with a user and share it across Engineering
-- Organize and determine a program for a potential CTO Staff Offsite (virtual or on-site) in the last month of your term.
 - Drive future special projects, such as past examples like
     - The [Volunteer Coaching Program for URGs](https://about.gitlab.com/handbook/engineering/volunteer-coaches-for-urgs/)
     - The vendor selection and implementation of the [Ally OKR system](/handbook/engineering/#allyio-for-okrs)
-- Participate in all Engineering Division Key Review meetings by asking clarifying and strategic questions.
-- Improve the quality of Engineering Handbook content.
-- Collaborate with the [CTO Executive Business Administrator](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/#executive-business-administrator-intermediate/) on logistics, agenda/time management and administration. 
-- Consult and partner with People Business partners on strategic People-related initiatives, challenges, and goals.
-- Provide feedback on the rotation process before exiting.
 
+#### Communication
+
+- Manage weekly executive staff meetings, including (but not limited to) setting the agenda and providing insights and analysis to inform strategic conversations. Document and communicate decisions and action items from meetings. Ensure follow-up and closure of action items to increase accountability.
+- Conduct weekly 1:1 meetings with your manager and your peers (CTO Staff/Direct reports).
+- Participate in all Engineering Division Key Review meetings by asking clarifying and strategic questions.
+- Curate the Engineering Week-in-Review each Friday, ensuring the content is relevant.
+- Effectively triage escalations. Our teams often rely heavily on quick root-cause analyses and fast information sharing. Time-sensitive escalations may include driving cross-functional conversations to get to the bottom of complex issues that have become a business blocker or helping ensure a fast turnaround for specific prospects and customer needs.
+
+#### Collaboration
+
+- Act as a sounding board to the CTO for new ideas and initiatives.
+- Maintain and foster a close partnership, collaborating effectively with the CEO’s Chief of Staff on strategic initiatives.
+- Consult and partner with People Business partners on strategic People-related initiatives, challenges, and goals.
+- Create a structure for the CTO to improve visibility and accountability with their direct reports 
+
+#### Logistics
+
+- Improve the quality of Engineering Handbook content.
+- Support the creation of investor updates, pitch decks, speeches, conference submissions, and presentations on behalf of the CTO.
+- Collaborate with the [CTO Executive Business Administrator](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/#executive-business-administrator-intermediate/) on logistics, agenda/time management and administration. 
+- Provide feedback on the rotation process before exiting.
 
 ### Requirements
 - Capacity to become a senior leader at GitLab 
