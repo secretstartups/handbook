@@ -133,3 +133,56 @@ Here is a [document written by a GitLab team member](https://docs.google.com/doc
 </figure>
 
 Sid and Marin discuss the history of GitLab's right to immigrate to the Netherlands.
+
+## EU Blue Card Germany
+
+GitLab may be able to offer employment agreements to selected highly skilled candidates seeking employment in Germany, who apply for a German EU Blue card.
+
+Please note: GitLab does not cover any costs for the application nor does it guarantee the issuance of the EU Blue card.  The employment agreement offered includes the condition that the candidate will hold the sufficient right to work and if a Blue card is required that they will be able to obtain the Blue Card.  If the Blue Card is denied, the employment agreement would be rescinded. 
+
+The EU Blue Card Germany, is a German residence permit for highly skilled workers. You can apply for a German Blue Card if you:
+- are from a non-EU country
+- hold a recognised academic and professional qualification
+- have at least 5 years of relevant work experience
+- are offered a qualified position meeting the [minimum salary requirements](https://www.schengenvisainfo.com/eu-blue-card/germany/). Please note the salary requirements are subject to change each year.
+
+### Application process
+
+You can apply for an EU Blue Card from the Foreigner’s Office in Germany.  Depending on your current location you may need to obtain an entry visa from your most local German embassy. 
+
+1. Set up a visa appointment for employment purposes from the German embassy or consulate
+2. Collect the required documents: your local German embassy will provide a list of required documents which usually includes an employment agreement, validation of academic qualififications, and travel health insurance. 
+3. Once you have arrived in Germany you will need to register for residence and obtain either [Public](https://visaguide.world/international-health-insurance/germany/list-of-health-insurance-providers-in-germany/)] or private health insurance.
+4. On the date of your appointment, you will be asked to submit your Visa application, provide the visa documents and pay a processing fee.  You may also be asked to participate in an interview.  Please note:  This is only an appointment for an entry visa for employment.  You will still need to apply for the Blue Card after arriving in Germany.  
+5. Wait for a decision (can take 1 to 3 months for the entry visa).
+6. Travel to Germany: If your visa application is approved, you will receive a visa, allowing you to enter Germany.  
+7.  Register your [Germany residence](https://www.bmi.bund.de/EN/topics/administrative-reform/registration/registration-node.html#:~:text=Anyone%20who%20moves%20into%20a,the%20person%20providing%20the%20residence.) which you will you need to enroll for [health insurance](https://visaguide.world/international-health-insurance/germany/) (You can choose private or Public), and open a bank account. 
+8. Once you have your residence, health insurance and bank account submit your EU Blue Card application at the Ausländerbehörde (German Foreigner’s Authority).
+
+#### Applying for the Blue card when you are already in Germany
+
+If you are already in Germany, and you are offered a position that makes you eligible for a Blue Card, you can apply at the local Ausländerbehörde (German Foreigner’s Authority). You must start the process at least six weeks before your current residence permit expires.
+
+#### Germany Blue card required documents
+
+- Valid passport
+- 35mm x 45mm biometric picture
+- Employment agreement
+- Application of residence permit
+- Declaration on the employment relationship. This is required if you need further approval by the Federal Employment Agency.
+- Your residence registration in Germany. When you enter Germany, you have to register your address within the first two weeks. Submit the certificate of registration as proof that you primarily live in Germany
+- Academic qualification, or if required recognition of the qualification by the Central Office for Foreign Education (ZAB)
+- Proof of health insurance (if Public submit your electronic health card along with a confirmation of health insurance, if Private submit the certificate from the insurance company along with proof you have paid your contributions
+
+
+More detailed links on the process:
+- [Schengenvisainfo.com/EU-Blue-Card](https://www.schengenvisainfo.com/eu-blue-card/germany/)
+- [Germany-visa.org](https://www.germany-visa.org/immigration-residence-permit/eu-blue-card-germany/)
+- [EU Immigration portal](https://ec.europa.eu/immigration/blue-card/essential-information_en#:~:text=How%20long%20can%20I%20work,which%20has%20issued%20the%20card.)
+
+
+
+
+
+
+
