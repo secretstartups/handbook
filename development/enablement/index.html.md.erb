@@ -24,7 +24,7 @@ Enablement focuses on improving our capabilities and metrics in the following ar
  * [Geo](/handbook/engineering/development/enablement/geo/)
  * [Memory](/handbook/engineering/development/enablement/memory/)
  * [Global Search](/handbook/engineering/development/enablement/search/)
- * [Sharding](/handbook/engineering/development/enablement/sharding/)
+ * [Pods (formerly Sharding)](/handbook/engineering/development/enablement/sharding/)
 
 ## Fiscal Year 2023 Direction
  * Significantly improve the scalability of database by completing the CI decomposition and continuing to the next phase of sharding, as well as making robust database foundations and tooling
@@ -41,7 +41,7 @@ Enablement focuses on improving our capabilities and metrics in the following ar
     { name: 'Geo', manager: 'fullstack-engineering-manager-geo' },
     { name: 'Global Search', manager: 'cliu', regexp: /Global Search/ },
     { name: 'Memory', manager: 'cliu', regexp: /Memory/ },
-    { name: 'Sharding', manager: 'backend-engineering-manager-sharding' },
+    { name: 'Pods (formerly Sharding)', manager: 'backend-engineering-manager-sharding' },
 
  ]
  department_regexp = /(#{Regexp.union(departments.map{ |d| d[:name] })})/
@@ -63,9 +63,9 @@ The following table shows who will provide cover if one or more of the Enablemen
 | Team Member     | Issues/MRs Backup        | People Management Backup    | Escalation   |
 | -----           | -----                    | -----                 | -----        |
 | Chun Du         | Christopher Lefelhocz    | Christopher Lefelhocz | Eric Johnson |
-| Nick Nguyen     | Kamil Trzcinski (Sharding), Mike Kozono (Geo)  | Changzheng Liu, Alex Ives        | Chun Du      |
+| Nick Nguyen     | Kamil Trzcinski (Pods/Decomposition) | Changzheng Liu, Alex Ives        | Chun Du      |
 | Changzheng Liu  | Dmitry Gruzd (Global Search), Matthias Käppler (Memory)             | Nick Nguyen           | Chun Du      |
-| Alex Ives      | Andreas Brandl      | Nick Nguyen         | Chun Du      |
+| Alex Ives       | Andreas Brandl           | Nick Nguyen           | Chun Du      |
 | Steven Wilson   | Jason Plum               | DJ Mountney           | Chun Du      |
 | DJ Mountney     | Steven Wilson            | Steven Wilson         | Chun Du      |
 
