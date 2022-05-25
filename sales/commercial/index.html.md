@@ -346,6 +346,9 @@ Please read below and through the [SMB handbook page for more information](/hand
 - [Licensing/Subscription Management](/handbook/sales/commercial/#licensingsubscription-management)
 - [Troubleshooting Resource for Licensing/Subscription Management](/handbook/sales/commercial/#troubleshooting--how-to-resources-for-licensing--subscription-management)
 - [Quotes / Sales Order Processing](/handbook/sales/commercial/#quotes--sales-order-processing)
+- [Customer Health Check Process](https://about.gitlab.com/handbook/sales/commercial/enablement/#commercial-sales-account-health-check-process)
+- [Gainsight Data in SFDC Definitions](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/)
+
 
 ### Inbound Queue Management
 
@@ -467,6 +470,9 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 - [Licensing/Subscription Management](/handbook/sales/commercial/#licensingsubscription-management)
 - [Troubleshooting Resource for Licensing/Subscription Management](/handbook/business-ops/enterprise-applications/portal/troubleshooting/)
 - [Quotes / Sales Order Processing](/handbook/sales/commercial/#quotes--sales-order-processing)
+- [Customer Health Check Process](https://about.gitlab.com/handbook/sales/commercial/enablement/#commercial-sales-account-health-check-process)
+- [Gainsight Data in SFDC Definitions](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/)
+
 
 ## Account Ownership Rules of Engagement for Commercial Sales
 
