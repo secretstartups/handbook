@@ -9,6 +9,10 @@ title: Crash Course for Product Stage Resources
 - TOC
 {:toc}
 
+## Important Note
+
+This page is In-Progress. Content for each Stage will be included by the end of Q2 2022. Follow along with [Epic #529](https://gitlab.com/groups/gitlab-data/-/epics/529). Contributions of any kind are more than welcome. Each Product Stage has its own Issue where comments are encouraged.  
+
 ## Objectives for this page
 
 This page is intended to provide a crash course style overview of the most important Product Analytics related resources for each product Stage.
@@ -34,29 +38,28 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 
 ## Learn about analytics relevant product stage topics grouped by Section
 
-_Why are these groupings called 'Stages'? At GitLab, we build a product that supports every **stage** of the DevOps Lifecycle._ 
+Why are these groupings called 'Stages'? At GitLab, we build a product that supports every **stage** of the DevOps Lifecycle.
 
 ### Dev Section
 
 #### Manage Stage
-_This Stage helps teams manage their software delivery lifecycle with metrics and value stream insight in order to streamline and increase their delivery velocity. Insights, authentication, audits, compliance, user management, group & sub-group management, and project management._
+This Stage helps teams manage their software delivery lifecycle with metrics and value stream insight in order to streamline and increase their delivery velocity. Insights, authentication, audits, compliance, user management, group & sub-group management, and project management.
 
 <details markdown="1"><summary>Click to expand</summary>
 
 
-##### Top dashboards referenced by this team
+**Top dashboards referenced by this team**
 
-[Manage Stage Sisense Topics Page](https://app.periscopedata.com/app/gitlab/topic/Manage-Stage/ab937816bcd24c9291ceb7b6c5e30c49)
-_Overall Manage stage pinned dashboards for easy access_
+* [Centralized SMAU/GMAU](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)  Overall SMAU/GMAU dashboard primarily utilized by the Import Group
 
-[Manage : Compliance](https://app.periscopedata.com/app/gitlab/663045/Manage:-Compliance-Dashboard)
-_Dashboard frequently used by the Compliance Group_
+* [Manage Stage Sisense Topics Page](https://app.periscopedata.com/app/gitlab/topic/Manage-Stage/ab937816bcd24c9291ceb7b6c5e30c49)  Overall Manage stage pinned dashboards for easy access
 
-[Manage : Optimize Feature Usage](https://app.periscopedata.com/app/gitlab/779829/Manage:Optimize-Feature-Usage)
-_Dashboard frequently used by the Optimize Group_
+* [Manage : Compliance](https://app.periscopedata.com/app/gitlab/663045/Manage:-Compliance-Dashboard)  Dashboard frequently used by the Compliance Group
+
+* [Manage : Optimize Feature Usage](https://app.periscopedata.com/app/gitlab/779829/Manage:Optimize-Feature-Usage)  Dashboard frequently used by the Optimize Group
 
 
-##### Important data documentation
+**Important data documentation**
 
 ``` sql
 
@@ -66,62 +69,66 @@ WHERE field = stage_name
 ;
 ```
 
-##### Helpful user research and demos
+**Helpful video resources**
 
-[Link to user research or demos]()
-_Group specification if applicable, brief description of youtube channel linked or specific singular video resource_
+[Manage:Optimize YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KopcuINFaWBEHYlaDnbDxpl)
 
-##### Product roadmap link
+Team meetings, AMAs, etc. for the Manage:Optimize Group
 
-[Link to product roadmap]()
-_Resource to understand the long-term goals for this team_
+[Manage:Access YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0Kot4GcDlWPsZOM8YgncnPUi)
 
-##### OKRs
+Team meetings, AMAs, etc. for the Manage:Access Group
 
-[Link to OKRs handbook page]()
-_Resource to understand the current OKRs for this team_
+[Manage:Workspace YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-9cR2cz4uxUIfVYtB4Gq8)
 
-##### Key handbook pages
+Team meetings, AMAs, etc. for the Manage:Workspace Group
 
-[Link to helpful handbook page]()
-_Describe why this handbook page is helpful for product analysts_
+**Product direction**
 
-##### Slack channels
+[Problems to Solve from Product Direction Page](https://about.gitlab.com/direction/manage/#problems-to-solve)
+
+The Problems to Solve section of Manage's Product Direction Page is the most condensed documentation to understand Manage's big picture focus quickly.
+
+**Performance indicators**
+
+[Metrics from Product Direction Page](https://about.gitlab.com/direction/manage/#metrics)
+
+This link breaks down the performance indicators for each Manage Group clearly and links out to the Internal Handbook PI page. 
+
+**Key handbook pages**
+
+[Manage Direction Page](https://about.gitlab.com/direction/manage/)
+
+[Main Manage Stage Page](https://about.gitlab.com/handbook/engineering/development/dev/manage/)
+
+**Slack channels**
 
 **#s_manage**
 
-##### Team members
+**Team members**
 
 [Handbook page to find Manage team members to collaborate with](/handbook/product/categories/#manage-stage)
 
 </details>
 
 #### Plan Stage
-_Enable teams to effectively plan and execute work in a single application. This stage enables portfolio planning and management through epics, groups (programs), milestones, etc. to organize and track progress_
+Enable teams to effectively plan and execute work in a single application. This stage enables portfolio planning and management through epics, groups (programs), milestones, etc. to organize and track progress
 
 <details markdown="1"><summary>Click to expand</summary>
 
-##### Top dashboards referenced by this team
+**Top dashboards referenced by this team**
 
-[Plan xMAU (monthly)](https://app.periscopedata.com/app/gitlab/775807/Plan-xMAU-(monthly))
+* [Plan xMAU (monthly)](https://app.periscopedata.com/app/gitlab/775807/Plan-xMAU-(monthly))  Overall Plan Stage xMAU dashboard
 
-_Overall Plan Stage xMAU dashboard_
+* [Centralized SMAU/GMAU](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)  Most Group PMs on Plan utilize the Centralized SMAU/GMAU dashboard
 
-_Most Group PMs on Plan utilize the Centralized SMAU/GMAU dashboard_
+* [Plan stage .com events](https://app.periscopedata.com/app/gitlab/654183/Plan-stage-.com-events)  Analyses dealing with Snowplow events tables
 
-[Plan stage .com events](https://app.periscopedata.com/app/gitlab/654183/Plan-stage-.com-events)
+* [Say Do Ratios](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios)  Primarily engineering analytics utilized for Plan Stage decision making
 
-_Analyses dealing with Snowplow events tables_
+* [Plan stage capacity planning](https://app.periscopedata.com/app/gitlab/587512/Plan-stage-capacity-planning)  Primarily engineering analytics utilized for Plan Stage decision making
 
-[Say Do Ratios](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios)
-
-_Primarily engineering analytics utilized for Plan Stage decision making_
-
-[Plan stage capacity planning](https://app.periscopedata.com/app/gitlab/587512/Plan-stage-capacity-planning)
-
-_Primarily engineering analytics utilized for Plan Stage decision making_
-
-##### Important data documentation
+**Important data documentation**
 
 ``` sql
 
@@ -131,69 +138,59 @@ WHERE field = stage_name
 ;
 ```
 
-##### Helpful video resources
+**Helpful video resources**
 
 [Plan Stage YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KoceqcTneOVmAzhEp6NinY0)
 
-##### What the Plan Stage team is working on
+**What the Plan Stage team is working on**
 
 [Link to 1 Year Plan](https://about.gitlab.com/direction/plan/#1-year-plan)
 
-_A great handbook page to skim to understand the roadmap and focus for Plan_
+A great handbook page to skim to understand the roadmap and focus for Plan
 
-##### Performance indicators
+**Performance indicators**
 
 [Link to performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/dev-section/)
 
-_Resource to understand the Performance Indicators for the Dev Section - Page can be searched by Stage and Group_
+Resource to understand the Performance Indicators for the Dev Section - Page can be searched by Stage and Group
 
-##### Key handbook pages
+**Key handbook pages**
 
 [Main Plan page](https://about.gitlab.com/handbook/product/categories/plan/)
 
 [Plan direction page](https://about.gitlab.com/direction/plan/)
 
 
-##### Slack channels
+**Slack channels**
 
 **#s_plan**
 
-##### Team members
+**Team members**
 
 [Handbook page to find Plan team members to collaborate with](/handbook/product/categories/#plan-stage)
 
 </details>
 
 #### Create Stage
-_Create provides tools that support the beginning of the DevOps Life Cycle. Source Code management, Code Review, Wiki, Web IDE, etc._
+Create provides tools that support the beginning of the DevOps Life Cycle. Source Code management, Code Review, Wiki, Web IDE, etc.
 
 [Start on the GitLab website page](https://about.gitlab.com/features/?stage=create) dedicated to Create to get an understanding of features included in this Stage. 
 
 <details markdown="1"><summary>Click to expand</summary>
 
-##### Top dashboards referenced by this team
+**Top dashboards referenced by this team**
 
-* [Create - Code Review Topics page](https://app.periscopedata.com/app/gitlab/topic/Create---Code-Review/abb4786159ef4aa7abad4da4c21b0871)
+* [Create - Code Review Topics page](https://app.periscopedata.com/app/gitlab/topic/Create---Code-Review/abb4786159ef4aa7abad4da4c21b0871)  Create : Code Review group specific pinned dashboards for easy access
 
-_Create : Code Review group specific pinned dashboards for easy access_
+* [Code Review MAU Metrics](https://app.periscopedata.com/app/gitlab/786738/Code-Review-MAU-Metrics)  Used frequently by Create : Code Review Group
 
-* [Code Review MAU Metrics](https://app.periscopedata.com/app/gitlab/786738/Code-Review-MAU-Metrics)
+* [Editor Extension Category MAU Metrics](https://app.periscopedata.com/app/gitlab/825329/Editor-Extension-Category-MAU-Metrics)  Used frequently by Create : Code Review Group
 
-_Used frequently by Create : Code Review Group_
+* [Performance indicators internal handbook page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/dev-section/)  The Create : Gitaly Group primarily uses the Performance Indicators Internal Handbook Page to guide decisions
 
-* [Editor Extension Category MAU Metrics](https://app.periscopedata.com/app/gitlab/825329/Editor-Extension-Category-MAU-Metrics)
+* [Handbook page containing engineering analytics dashboards](https://about.gitlab.com/handbook/engineering/development/dev/create/engineering-managers/dashboards/)  Used by Create Stage Engineering Managers
 
-_Used frequently by Create : Code Review Group_
-
-* [Performance indicators internal handbook page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/dev-section/)
-
-_The Create : Gitaly Group primarily uses the Performance Indicators Internal Handbook Page to guide decisions_
-
-* [Handbook page containing engineering analytics dashboards](https://about.gitlab.com/handbook/engineering/development/dev/create/engineering-managers/dashboards/)
-
-_Used by Create Stage Engineering Managers_
-
-##### Important data documentation
+**Important data documentation**
 
 ``` sql
 
@@ -203,38 +200,39 @@ WHERE field = stage_name
 ;
 ```
 
-##### Helpful video resources
-_Must be logged into GitLab Unfiltered account_
+**Helpful video resources**
+
+Must be logged into GitLab Unfiltered account
 
 [Create Stage YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrJEKqwt57ljmbkOuVwaR0d)
 
 [Create Stage UX YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrUvA91eFQedd6zrvH0_kGY)
 
-##### Product roadmap link
+**Product roadmap link**
 
 [Link to product direction / vision](/handbook/engineering/development/dev/create/#vision)
 
-_Resource to understand the goals for this team_
+Resource to understand the goals for this team
 
-##### Performance indicators
+**Performance indicators**
 
 [Link to performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/dev-section/)
 
-_Resource to understand the Performance Indicators for the Dev Section - Page can be searched by Stage and Group_
+Resource to understand the Performance Indicators for the Dev Section - Page can be searched by Stage and Group
 
-##### Key handbook pages
+**Key handbook pages**
 
 [Primary Create Stage handbook page](/handbook/engineering/development/dev/create/)
 
-_Contains helpful information about how Create operates and current team members_
+Contains helpful information about how Create operates and current team members
 
-##### Slack channels
+**Slack channels**
 
 **#s_create** 
 
 **#s_create_pm**
 
-##### Team members
+**Team members**
 
 [Handbook page to find Create team members to collaborate with](/handbook/product/categories/#create-stage)
 
@@ -243,22 +241,20 @@ _Contains helpful information about how Create operates and current team members
 ### Ops Section
 
 #### Verify Stage
-_Short description of Verify Stage_
+Short description of Verify Stage
 
 <details markdown="1"><summary>Click to expand</summary>
 
-##### Top dashboards referenced by this team
+**Top dashboards referenced by this team**
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-##### Important data documentation
+
+**Important data documentation**
 
 ``` sql
 
@@ -267,81 +263,62 @@ FROM table
 WHERE field = stage_name
 ;
 ```
-_SMAU_
 
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_GMAU_
-
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_Other_
-
-##### Helpful user research and demos
+**Helpful video resources**
 
 [Link to user research or demos]()
-_Group specification if applicable, brief description of youtube channel linked or specific singular video resource_
+Group specification if applicable, brief description of youtube channel linked or specific singular video resource
 
-##### Product roadmap link
+**Product roadmap link**
 
 [Link to product roadmap]()
-_Resource to understand the long-term goals for this team_
+Resource to understand the long-term goals for this team
 
-##### OKRs
+**Performance indicators**
 
 [Link to OKRs handbook page]()
-_Resource to understand the current OKRs for this team_
+Resource to understand the current OKRs for this team
 
-##### Key handbook pages
+**Key handbook pages**
 
 [Link to helpful handbook page]()
-_Describe why this handbook page is helpful for product analysts_
+Describe why this handbook page is helpful for product analysts
 
-##### Slack Channels
+**Slack channels**
 
 **#slack-channel**
-_Description_
+Description
 
-##### Team members
+**Team members**
 
 [Handbook page to find Verify team members to collaborate with](/handbook/product/categories/#verify-stage)
 
 </details>
 
 #### Package Stage
-_The Package team works on the package and container registries._
+The Package team works on the package and container registries.
 
 <details markdown="1"><summary>Click to expand</summary>
 
-##### Top dashboards referenced by this team
+**Top dashboards referenced by this team**
 
 * [Package GitLab.com Stage Activity](https://app.periscopedata.com/app/gitlab/527857/Package-GitLab.com-Stage-Activity-Dashboard)
 
-_Primarily time series analyses for Package features on GitLab.com_
+Primarily time series analyses for Package features on GitLab.com
 
 * [Package: User Adoption and Growth](https://app.periscopedata.com/app/gitlab/805350/Package:-User-Adoption-and-Growth)
 
-_Primarily time series analyses including both SaaS and SM usage of Package features_
+Primarily time series analyses including both SaaS and SM usage of Package features
 
 * [Package customer adoption](https://app.periscopedata.com/app/gitlab/877343/Package-customer-adoption)
 
-_Customer specific data tables regarding specific Package feature usage_
+Customer specific data tables regarding specific Package feature usage
 
 * [Package: Costs](https://app.periscopedata.com/app/gitlab/1011032/Package:-Costs)
 
-_WIP dashboard analyzing GCP costs associated with general 'registry' costs. There are outstanding questions about GCP tables that may impact these analyses in the future._
+WIP dashboard analyzing GCP costs associated with general 'registry' costs. There are outstanding questions about GCP tables that may impact these analyses in the future.
 
-##### Important data documentation
+**Important data documentation**
 
 ``` sql
 
@@ -351,43 +328,43 @@ FROM table
 ```
 
 
-##### Helpful user research and demos
+**Helpful video resources**
 
 [User Interviews YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KpxCv3B5S-6LFCpBB6NCnga)
 
-_General and feature specific user interviews for the Package team_
+General and feature specific user interviews for the Package team
 
 [Demos and Speedruns](/handbook/engineering/development/ops/package/#demos--speedruns)
 
-_Package Handbook section with feature and roadmap demos_
+Package Handbook section with feature and roadmap demos
 
-##### Product roadmap link
+**Product roadmap link**
 
 [Link to product roadmap](/handbook/engineering/development/ops/package/#roadmap)
 
-_Resource to understand the long-term goals for this team_
+Resource to understand the long-term goals for this team
 
-##### OKRs
+**OKRs**
 
 [Link to OKRs handbook page](/handbook/engineering/development/ops/package/#okrs)
 
-_Resource to understand the current OKRs for this team_
+Resource to understand the current OKRs for this team
 
-##### Key documentation
+**Key documentation**
 
 [Main Package Team Handbook Page](/handbook/engineering/development/ops/package)
 
-_It can be helpful to search for specific topics on the Package team's main page_
+It can be helpful to search for specific topics on the Package team's main page
 
 [GitLab Docs Package Page](https://docs.gitlab.com/ee/administration/packages/)
 
-_GitLab Docs are awesome!_
+GitLab Docs are awesome!
 
-##### Slack channels
+**Slack channels**
 
 **#s_package** 
 
-##### Team heirarchy
+**Team members**
 
 [Handbook page to find Package team members to collaborate with](/handbook/product/categories/#package-stage)
 
@@ -396,22 +373,20 @@ _GitLab Docs are awesome!_
 </details>
 
 #### Release Stage
-_Short description of Release Stage_
+Short description of Release Stage
 
 <details markdown="1"><summary>Click to expand</summary>
 
-##### Top dashboards referenced by this team
+**Top dashboards referenced by this team**
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-##### Important data documentation
+
+**Important data documentation**
 
 ``` sql
 
@@ -420,128 +395,33 @@ FROM table
 WHERE field = stage_name
 ;
 ```
-_SMAU_
 
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_GMAU_
-
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_Other_
-
-##### Helpful user research and demos
+**Helpful video resources**
 
 [Link to user research or demos]()
-_Group specification if applicable, brief description of youtube channel linked or specific singular video resource_
+Group specification if applicable, brief description of youtube channel linked or specific singular video resource
 
-##### Product roadmap link
-
-[Link to product roadmap]()
-_Resource to understand the long-term goals for this team_
-
-##### OKRs
-
-[Link to OKRs handbook page]()
-_Resource to understand the current OKRs for this team_
-
-##### Key handbook pages
-
-[Link to helpful handbook page]()
-_Describe why this handbook page is helpful for product analysts_
-
-##### Slack Channels
-
-**#slack-channel**
-_Description_
-
-##### Team members
-
-[Handbook page to find Release team members to collaborate with](/handbook/product/categories/#release-stage)
-
-</details>
-
-#### Configure Stage
-_Short description of Configure Stage_
-
-<details markdown="1"><summary>Click to expand</summary>
-
-##### Top dashboards referenced by this team
-
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
-
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
-
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
-
-##### Important data documentation
-
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_SMAU_
-
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_GMAU_
-
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_Other_
-
-##### Helpful user research and demos
-
-[Link to user research or demos]()
-_Group specification if applicable, brief description of youtube channel linked or specific singular video resource_
-
-##### Product roadmap link
+**Product roadmap link**
 
 [Link to product roadmap]()
-_Resource to understand the long-term goals for this team_
+Resource to understand the long-term goals for this team
 
-##### OKRs
+**Performance indicators**
 
 [Link to OKRs handbook page]()
-_Resource to understand the current OKRs for this team_
+Resource to understand the current OKRs for this team
 
-##### Key handbook pages
+**Key handbook pages**
 
 [Link to helpful handbook page]()
-_Describe why this handbook page is helpful for product analysts_
+Describe why this handbook page is helpful for product analysts
 
-##### Slack Channels
+**Slack channels**
 
 **#slack-channel**
-_Description_
+Description
 
-##### Team members
+**Team members**
 
 [Handbook page to find Create team members to collaborate with](/handbook/product/categories/#configure-stage)
 
@@ -549,22 +429,20 @@ _Description_
 </details>
 
 #### Monitor Stage
-_Short description of Monitor Stage_
+Short description of Monitor Stage
 
 <details markdown="1"><summary>Click to expand</summary>
 
-##### Top dashboards referenced by this team
+**Top dashboards referenced by this team**
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-##### Important data documentation
+
+**Important data documentation**
 
 ``` sql
 
@@ -573,52 +451,33 @@ FROM table
 WHERE field = stage_name
 ;
 ```
-_SMAU_
 
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_GMAU_
-
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_Other_
-
-##### Helpful user research and demos
+**Helpful video resources**
 
 [Link to user research or demos]()
-_Group specification if applicable, brief description of youtube channel linked or specific singular video resource_
+Group specification if applicable, brief description of youtube channel linked or specific singular video resource
 
-##### Product roadmap link
+**Product roadmap link**
 
 [Link to product roadmap]()
-_Resource to understand the long-term goals for this team_
+Resource to understand the long-term goals for this team
 
-##### OKRs
+**Performance indicators**
 
 [Link to OKRs handbook page]()
-_Resource to understand the current OKRs for this team_
+Resource to understand the current OKRs for this team
 
-##### Key handbook pages
+**Key handbook pages**
 
 [Link to helpful handbook page]()
-_Describe why this handbook page is helpful for product analysts_
+Describe why this handbook page is helpful for product analysts
 
-##### Slack Channels
+**Slack channels**
 
 **#slack-channel**
-_Description_
+Description
 
-##### Team members
+**Team members**
 
 [Handbook page to find Monitor team members to collaborate with](/handbook/product/categories/#monitor-stage)
 
@@ -628,31 +487,25 @@ _Description_
 
 
 #### Secure Stage
-_Short description of Secure Stage_
+Short description of Secure Stage
 
 <details markdown="1"><summary>Click to expand</summary>
 
-##### Top dashboards referenced by this team
+**Top dashboards referenced by this team**
 
-[Dynamic Analysis Metrics](https://app.periscopedata.com/app/gitlab/703762/WIP:-Dynamic-Analysis-metrics)
-_PIs and metrics for the Secure:Dynamic Analysis Group_
+* [Dynamic Analysis Metrics](https://app.periscopedata.com/app/gitlab/703762/WIP:-Dynamic-Analysis-metrics)
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+PIs and metrics for the Secure:Dynamic Analysis Group
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]()
 
-##### Important data documentation
+Group specification if applicable, brief description of dashboard and how it's used
 
-``` sql
+* [Link to a dashboard]()
 
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_SMAU_
+Group specification if applicable, brief description of dashboard and how it's used
+
+**Important data documentation**
 
 ``` sql
 
@@ -661,43 +514,33 @@ FROM table
 WHERE field = stage_name
 ;
 ```
-_GMAU_
 
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_Other_
-
-##### Helpful user research and demos
+**Helpful video resources**
 
 [Link to user research or demos]()
-_Group specification if applicable, brief description of youtube channel linked or specific singular video resource_
+Group specification if applicable, brief description of youtube channel linked or specific singular video resource
 
-##### Product roadmap link
+**Product roadmap link**
 
 [Link to product roadmap]()
-_Resource to understand the long-term goals for this team_
+Resource to understand the long-term goals for this team
 
-##### OKRs
+**Performance indicators**
 
 [Link to OKRs handbook page]()
-_Resource to understand the current OKRs for this team_
+Resource to understand the current OKRs for this team
 
-##### Key handbook pages
+**Key handbook pages**
 
 [Link to helpful handbook page]()
-_Describe why this handbook page is helpful for product analysts_
+Describe why this handbook page is helpful for product analysts
 
-##### Slack Channels
+**Slack channels**
 
 **#slack-channel**
-_Description_
+Description
 
-##### Team members
+**Team members**
 
 [Handbook page to find Secure team members to collaborate with](/handbook/product/categories/#secure-stage)
 
@@ -705,22 +548,20 @@ _Description_
 
 
 #### Protect Stage
-_Short description of Protect Stage_
+Short description of Protect Stage
 
 <details markdown="1"><summary>Click to expand</summary>
 
-##### Top dashboards referenced by this team
+**Top dashboards referenced by this team**
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-[Link to a dashboard]()
-_Group specification if applicable, brief description of dashboard and how it's used_
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
 
-##### Important data documentation
+
+**Important data documentation**
 
 ``` sql
 
@@ -729,53 +570,93 @@ FROM table
 WHERE field = stage_name
 ;
 ```
-_SMAU_
 
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_GMAU_
-
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-_Other_
-
-##### Helpful user research and demos
+**Helpful video resources**
 
 [Link to user research or demos]()
-_Group specification if applicable, brief description of youtube channel linked or specific singular video resource_
+Group specification if applicable, brief description of youtube channel linked or specific singular video resource
 
-##### Product roadmap link
+**Product roadmap link**
 
 [Link to product roadmap]()
-_Resource to understand the long-term goals for this team_
+Resource to understand the long-term goals for this team
 
-##### OKRs
+**Performance indicators**
 
 [Link to OKRs handbook page]()
-_Resource to understand the current OKRs for this team_
+Resource to understand the current OKRs for this team
 
-##### Key handbook pages
+**Key handbook pages**
 
 [Link to helpful handbook page]()
-_Describe why this handbook page is helpful for product analysts_
+Describe why this handbook page is helpful for product analysts
 
-##### Slack Channels
+**Slack channels**
 
 **#slack-channel**
-_Description_
+Description
 
-##### Team members
+**Team members**
 
 [Handbook page to find Protect team members to collaborate with](/handbook/product/categories/#protect-stage)
 
 </details>
+
+### Enablement Section
+
+
+#### Enablement Stage
+Short description of Enablement Stage
+
+<details markdown="1"><summary>Click to expand</summary>
+
+**Top dashboards referenced by this team**
+
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+
+
+**Important data documentation**
+
+``` sql
+
+SELECT * 
+FROM table
+WHERE field = stage_name
+;
+```
+
+**Helpful video resources**
+
+[Link to user research or demos]()
+Group specification if applicable, brief description of youtube channel linked or specific singular video resource
+
+**Product roadmap link**
+
+[Link to product roadmap]()
+Resource to understand the long-term goals for this team
+
+**Performance indicators**
+
+[Link to OKRs handbook page]()
+Resource to understand the current OKRs for this team
+
+**Key handbook pages**
+
+[Link to helpful handbook page]()
+Describe why this handbook page is helpful for product analysts
+
+**Slack channels**
+
+**#slack-channel**
+Description
+
+**Team members**
+
+[Handbook page to find Secure team members to collaborate with](/handbook/product/categories/#secure-stage)
+
+</details>
+
