@@ -155,6 +155,7 @@ Download a translated job from the Documents project
  - `Languages in file names` - adds the locale code at the end of the file name
  - `Subfolders for languages and languages in file names` 
 1. Click `Confirm`.
+1. If you used DTP for design, you will download your files from the `Job Attachments` section in the sidebar of the job.
 
 </details>
 
@@ -239,6 +240,7 @@ The `DTP` workflow in Smartling will format your file to support the new transla
     * Source IDML File
     * Source PDF.
 1. In the "Attachment Description" field, enter the name of the asset and indicate that it is the artwork files. Click `Upload`.
+1. After the job is complete, you will download your files from the `Job Attachments` section in the sidebar of the Job.
 
 
 ## Attachments
