@@ -41,7 +41,7 @@ Before beginning this lab and all later labs, you can optionally disable any sca
 You’ll enable Dependency Scanning by including a GitLab-provided template in your CI/CD configuration file. You can do this manually, or you can use the GitLab GUI to make a merge request that does it for you. Since you used the manual technique to enable SAST, Secret Detection, and DAST in the last lab, use the GUI to enable Dependency Scanning in this lab.
 
 1. Navigate to **Security & Compliance > Configuration**.
-1. In the **Dependency Scanning** row, select **Configure via Merge Request**. This does 3 things:
+1. In the **Dependency Scanning** pane, select **Configure with a merge request**. This does 3 things:
     1. Creates a new branch
     2. Adds a commit to the branch which edits your CI/CD configuration file to enable Dependency Scanning
     3. Redirects you to a page for creating an MR for that branch
@@ -72,9 +72,9 @@ You configure Dependency Scanning by setting variables in your CI/CD configurati
 1. In the left navigation pane, select **Security & Compliance > Vulnerability Report**.
 1. In the **Scanner** filter, select **Dependency Scanning**. Notice how many security vulnerabilities Dependency Scanning found in the 2017 Keras code.
 1. Select the description of any vulnerability with **High** severity to learn more about it.
-1. Your team decides not to fix this problem, so go to the **Status** dropdown in the top right of the page, select **Dismiss**, and select **Change status**.
-1. Return to the Vulnerability Report, change the **Scanner** filter back to **Dependency Scanning**, and select the description of another **High** vulnerability.
-1. Review the vulnerability information, but this time change its **Status** to **Confirm**.
+1. Your team decides not to fix this problem. Stay on the details page for the vulnerability you clicked on in the previous step, go to the **Status** dropdown in the top right of the page, select **Dismiss**, and select **Change status**.
+1. Return to the Vulnerability Report, change the **Scanner** filter back to **Dependency Scanning**, and select the description of another vulnerability with **High** severity.
+1. Review the vulnerability's information by clicking on its entry. Change its **Status** to **Confirm**.
 1. On the vulnerability details page you’re already on, select **Create issue** at the bottom right so you can track the vulnerability remediation work.
 1. Assign the ticket to yourself and select **Create issue**.
 1. Return to the Vulnerability Report. Notice that the vulnerability you just created an issue for has a link to that issue in the **Activity** column.

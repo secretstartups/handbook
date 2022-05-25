@@ -10,7 +10,8 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 ### A. Setup
 
 1. Return to the **Security Labs** project you used in previous labs.
-1. **OPTIONAL:** Follow the instructions at the start of [Lab 2](secessentialshandson2.html) for speeding up your pipeline by disabling scanners that you enabled in previous labs.
+1. **OPTIONAL:** Follow the instructions at the start of [Lab 2](secessentialshandson2.html) for speeding up your pipeline by disabling scanners that you enabled in previous labs. 
+1. **OPTIONAL:** Disable the **build-and-push-docker-image** job you added in the previous lab, since it takes some time to run.
 
 
 ### B. Unblock License Compliance for your project
@@ -49,11 +50,11 @@ The training environment for instructor-led classes blocks License Compliance fo
 Normally you would approve or deny each of the licenses for your project's dependencies, but in this lab you'll manage just 3 of them.
 
 1. Select **Manage licenses**.
-1. Select **Add a license**.
+1. Select **Add license policy**.
 1. In the **License name** dropdown, select `MIT License`. There are several licenses with similar names, so be sure to pick the right one.
 1. Select the **Allow** radio button.
 1. Select **Submit**.
-1. Select **Add a license**.
+1. Select **Add license policy**.
 1. In the **License name** dropdown, select `Apache License 2.0`. Make sure not to accidentally select a different license with a similar name.
 1. Select the **Deny** radio button.
 1. Select **Submit**.
