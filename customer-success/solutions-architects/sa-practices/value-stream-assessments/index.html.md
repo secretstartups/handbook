@@ -215,6 +215,14 @@ The final meeting as part of the Value Stream Assessment process is the findings
 1. Walkthrough and gain agreement for the transformation plan
 1. Define next steps and suggest a review date
 
+## Training and Enablement
+
+### VSA Overview
+
+This course provides an overview of how GitLab account teams should assist prospects and customers by providing a lightweight assessment of their value stream. The course outlines the approaches, tools, and artifacts used to conduct a value stream assessment for our prospects and customers.
+
+- [EdCast Pathway](https://gitlab.edcast.com/pathways/vsa-overview)
+
 ## How to Contribute
 
 In the spirit of collaboration and iteration, please help to continuously improve this framework. Ways to contribute include:
