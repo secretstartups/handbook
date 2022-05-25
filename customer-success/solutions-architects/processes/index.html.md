@@ -111,11 +111,27 @@ The entire cross-functional team should help in the preparation of the QBR conte
 
 Solution Architects may participate in initial qualifying meetings (IQM's) or allow the SDR and SAL/AE to manage the initial call and utilize information gained during it for additional preparation. Teams can handle this on a case by case basis.
 
-When reaching out to engage SAs during opportunity qualification and discovery, technical evaluations, please provide the below information. This will enable the SAs to execute an efficient and relevant discovery, ensuring our prospects' / customers' optimal experience. The SAs reserve the right to decline the meeting if the below information is missing/not provided after being asked & if the correct personas are not engaged. We will review the exceptions on a case-by-case basis in case the below information is not provided and/or not qualified.
+Once objectives and expectations have been established following the  [command of the message discovery](https://internal-handbook.gitlab.io/handbook/sales/command-of-the-message/), we suggest a recommended review as an account team of information gathered. This will help us determine if qualification criterias have been met to proceed with further technical discovery or that the account requires further discovery of their outcomes. Solutions Architects oftentimes will have a unique perspective in a given opportunity and it is vital that this information is distilled and shared out, preferably through the command plan, to the rest of the account team.  
 
-- Please provide active SFDC opportunity ID
-- Any additional opportunity information (i.e. company overview and background, initiatives, pain points, personas, etc.)
-- The successful outcome of the meeting
+The perceived size of a given opportunity is not always reflective of the amount of effort that an SA ought to put into a given customer.  The requirements listed below are aimed at:
+
+- Providing the SA to interface with as many opportunities as possible, by ensuring the proper preparation has been done prior to meeting with the customer
+- Giving every customer increased confidence in the value they perceive through meeting with the SA and having them validate their plans
+- Leveraging SAs exposure to opportunities to give SAs the autonomy to invest appropriate levels of time where they see the most amount of investment needed
+- Reduce the onset of SFDC Opportunity confusion due to the lack of information provided or lack of in-depth knowledge within the varied technical domain(s) presented
+
+When reaching out to engage SAs during opportunity qualification, discovery, and technical evaluations, please provide the below information. This will enable the SAs to accelerate execution, enable success, and promote consistent and quality opportunity outcomes aligned to the varied Sales roles and adopted strategies. The SAs reserve the right to decline the meeting if the below information is missing/not provided after being asked & if the correct personas are not engaged. We will review the exceptions on a case-by-case basis in case the below information is not provided and/or not qualified.
+
+- Please provide active SFDC opportunity ID 
+- Please provide link to the the associated and completed Command Plan
+    - Ensure the Why Now?, Identified Pain, and Champion have been captured
+- Any additional opportunity information (i.e. company overview and background, initiatives, desired outcomes, personas, etc.)
+- Ensure that any scheduled or planned customer meetings have been discussed with the SA before customer engagement
+  - What are we attempting to accomplish within the scheduled meeting? 
+  - Are the objectives clear and understandable? 
+  - Have expecatations been managed and cleary discussed? 
+
+_Poorly positioned opportunities where the SAs has been engaged at the wrong time or without enough context will lead to SA burnout, stalled or prolonged sales cycles, and misalignment with the customers needs. It is critical that SAs are engaged when the Command Plan is leveraged, specifically the Why Now/Identify Pain are in sentence format._
 
 Solution Architects should participate in [technical discovery](#technical-discovery-and-demo-preparation) after lead qualification is complete and in other activities during the sales process that lead to a technical win, e.g.
 
@@ -139,15 +155,7 @@ Further details can be found here: (https://about.gitlab.com/handbook/customer-s
 
 #### Technical Discovery and Demo Preparation
 
-Prior to any technical discovery and demo preparation, the SA should be provided with the following information about the current opportunity:
-
-- Share any existing notes about the opportunity
-- Key players and personas
-- Other relevant information shaping an engagement
-- Is there a business plan or sales approach defined?
-- What next steps are we hoping to drive from the next call?
-
-The Solutions Architects, in order to tailor conversations and demos to demonstrate value as well as address current problem areas, will want to understand the following information, and may request further technical discovery prior to any demo:
+The Solutions Architect, in order to tailor conversations and demos to demonstrate value as well as address current problem areas, will want to understand the following information, and may request further technical discovery() prior to any demo:
 
 1. **Outcome:**
 
@@ -171,7 +179,11 @@ The Solutions Architects, in order to tailor conversations and demos to demonstr
 - What collaboration or governance opportunities exist?
 - What security or compliance inefficiencies exist?
 
-## Solutions Architects Engagement Models
+_Qualification criteria typically involves both Business requirements and Technical Functional/Non-Functional requirements *(i.e, Functional requirements explain how the system must work, while non functional requirements explain how the system should perform._ 
+
+Once a technical discovery has been completed, SA will work within the account team to solidify a path forward (will the customer proceed with a purchase, trial, proof of value?) and idenitfy the corresponding metrics that will be used to determine the success of the evaluation.
+
+## Solution Architect Engagement Models
 
 ### U.S. Strategic Account Engagement Model
 
