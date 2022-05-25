@@ -143,7 +143,8 @@ In an effort to avoid manually adding the issues we are working on with Verticur
 1. **Verticurl**: Verticurl DRI makes any necessary corrections. If no corrections needed and approval provided by reviewer, Verticurl DRI sets the email to send (time for send to be determined in issue comments) and adds the `FMM-Verticurl::scheduled` label.
 1. **Verticurl**: Verticurl checks that email was sent, confirms in comments (tagging issue requester).
 1. **GitLab**: Once email is confirmed sent by Verticurl in step above, FMC closes issue.
-1. Field Marketing will be working through post event reporting with the Verticurl team. Details on that process will be forthcoming.
+1. **GitLab** Post event reporting. To Request a full Marketo Recap reporting from Verticurl please  request in the Follow Up email sub issue. 
+1. **Verticurl FMC** Once a report is complete please add a link to the main issue into the Planning & Recap Spreeedsheet section.
 
 ### EMail Send Times
 {: #email-send-times}
@@ -156,12 +157,12 @@ When working with Verticurl, we must specify a specific time we would like the e
 
 Should a requested send time be missed, Verticurl can take the liberty to schedule the send within 8 hours of the original ask. If the send time window goes beyond the 8 hour time frame, then Verticurl must get approval from sender to move to a different time. As an example, if the send time was scheduled for 6 AM ET, and for ever reason, the send time did not get scheduled for 6 AM ET, Verticurl can make the decision when to send the email if its between 6:01 AM ET - 2:01 PM ET on the same day of the send.
 
-## EMEA FMC Coordinator 
+## EMEA/APAC FMC Coordinator 
 The EMEA Field Marketing team has contracted for XYZ hours with Verticurl to augment their FMC duties as that team grows. 
 
 The FMC resources can be found [here](/handbook/marketing/demand-generation/campaigns/agency-verticurl/#team). 
 
-FMC DRI - Helena Dixon. 
+EMEA FMC DRI - Helena Dixon. 
 
 Verticurl FMC 
 1. Priya - @priya_sridhar  `mohanapriya.thangavel@verticurl.com` 
@@ -169,20 +170,27 @@ Verticurl FMC
 ### Vericurl FMC Duties 
 1. Verticurl FMC reviews Field Marketing Issues
 1. Verticurl FMC creates the epic and sub-issues 
+1. Verticurl FMC follows up on sub-issues
+1. Verticurl FMC provides detailed post event Marketo reports
 
 
 ### FMC Triage Steps
 1. **GitLab**: FMM moves the Field Marekting issue to `mktg-status::wip`. The Event details and FMC Checklist must be filled out in full and line item complete in Allocadia to an issue to WIP).
-1. **GitLab**: FMM pings the FMC in the FIeld Marketing issue to request epic and sub issue creation.
-1. **GitLab**: EMEA FMC reviews Field Marekting Issue, confirms the campaign tag or Allocadia ID has been created and adds in the allocadia line item to the event details.
-1. **GitLab**: EMEA FMC adds the label `FMM-Verticurl::wip` to the Field Markeitng Issue and `@helenadixon` will assign issue to a Verticurl FMC DRI (Directly Responsible Individual)
-1. **Verticurl**: Verticurl FMC reviews Field Marketing Issue espcially that the FMC Checklist is complete
+1. **GitLab**: FMM pings the FMC in the Field Marketing issue to request epic and sub issue creation.
+1. **GitLab**: EMEA/APAC FMC reviews Field Marekting Issue, confirms the campaign tag and Allocadia ID has been created and adds in the allocadia line item to the event details.
+1. **GitLab**: EMEA/APAC FMC adds the label `FMM-Verticurl::wip` to the Field Markeitng Issue, provides instructions on what is required and EMEA/APAC FMC will assign issue to a Verticurl FMC DRI (Directly Responsible Individual) 
+1. **Verticurl**: Verticurl FMC reviews Field Marketing Issue espcially that the FMC Checklist is complete. If information is incomplete the Verticurl FMC will message the FM DRI to clarify and to provide the missing information before they proceed
 1. **Verticurl**: Verticurl FMC creates the epic and sub-issues utilizing this [list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)  
 1. **Verticurl**: Verticurl FMC adds the event to the appropriate events calendar. All events should be added to the [internal calendar](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar)
 1. **Verticurl**: Verticurl FMC creates the Marketo program and SFDC campaign utilizing the Program Tracking sub-issue previously created
 1. **Verticurl**: Verticurl FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
 1. **Verticurl**: Verticurl FMC pings the EMEA FMC once all sub-issues are created.
 1. **GitLab**: EMEA FMC will change label `FMM-Verticrul::review` to the Field Marketing Issue
+1. **Verticurl**: to follow up on sub-issues to remind the FMM DRI to complete tasks, example, if an invite email needs to be sent or copy created.
+
+### Post Event Reporting
+1. **GitLab** Post event reporting. To Request a full Marketo Recap reporting from Verticurl please  request in the Follow Up email sub issue. 
+1. **Verticurl** Once a report is complete please add a link to the main issue into the Planning & Recap Spreeedsheet section.
 
 
 
