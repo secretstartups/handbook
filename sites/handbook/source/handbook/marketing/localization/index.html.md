@@ -67,13 +67,13 @@ Internal reviewers for these languages that will review via Smartling:
 
 | Language | Reviewers |
 | -------- | --------- |
-| German | @KSetschin |
+| German | @KSetschin, @JulianBede, @jkunzmann, @ddornseiff, @mbrandner1 |
 | Russian | @KSetschin, @V_Rusin, @dzalbo, @igor.drozdov |
-| Japanese | @toshitakaito, @emorita, @yuki_murakami, @Tea_Tatsuki, @mueda1 |
-| Korean | @taehohyun, @iyoo |
+| Japanese | @toshitakaito, @yuki_murakami, @Tea_Tatsuki, @mueda1, @skawaguchi1, @Yohanesses |
+| Korean | @taehohyun, @iyoo, @kko4, @Yohanesses |
 | French | @pgascouvaillancourt |
-| Portuguese (Brazilian) | @lvieiradossantos, @ricardoamarilla |
-| Spanish (LATAM) | @lisvinueza, @jaime, @ricardoamarilla |
+| Portuguese (Brazilian) | @lvieiradossantos, @ricardoamarilla, @lvieiradossantos |
+| Spanish (LATAM) | @jaime, @ricardoamarilla, @lvieiradossantos |
 | Italian | @Valelomby @agulina |
 
 Please follow the below process for requesting a review but please do so at the same time of opening the Smartling job:
@@ -100,20 +100,20 @@ Our current localization capabilities are limited due to resources and bandwidth
 
 ### Translating content for campaigns
 
-Localized campaigns currently follow the [integrated campaign process](/handbook/marketing/campaigns/#campaign-planning). The Content Marketing team is responsible for content localization for integrated campaigns. Content marketers are responsible for campaigns that fall within their subject area domain:
+Localized campaigns currently follow the [integrated campaign process](/handbook/marketing/campaigns/#campaign-planning). The Integrated Marketing team is responsible for content localization for integrated campaigns. Content marketers are responsible for campaigns that fall within their subject area domain:
 
 | Use Case | DRI |
 | -------- | --- |
-| VCC | Suri Patel |
+| VCC | TBD |
 | CI | TBD|
 | DevSecOps | TBD |
 | Simplify DevOps/DevOps platform | TBD |
-| GitOps | Suri Patel |
+| GitOps | TBD |
 | CD | TBD |
-| Agile | Suri Patel |
+| Agile | TBD |
 | Cloud Native | TBD |
 
-After a content asset or webpage has been translated, be sure to add it to the [Localization Resources](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) spreadsheet. If edit access, isn't available, send the content addition to @bmatturro to update.
+If an asset has been designed using Smartling's DTP service, be sure to upload the localized design files to the [translations folder](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/publications/_translations) for our internal design team.
 
 ### Language preference 
 
