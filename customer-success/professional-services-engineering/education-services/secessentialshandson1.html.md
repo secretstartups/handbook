@@ -14,7 +14,7 @@ In this lab you’ll enable SAST, Secret Detection, and DAST scans for a GitLab 
 
 ### A. Create a project
 
-You'll create a project from a template, so it' pre-populated with various files that will be useful for this and later labs.
+You'll create a project from a template, so it's pre-populated with various files that will be useful for this and later labs.
 
 1. In the top navigation bar, select **Menu > Groups > Your groups**.
     + If you are in an instructor-led class, expand the arrow to the left of the **Training Users** group. Expand the arrow to the left of your session’s subgroup. Open the subgroup called **My Test Group - \<USERNAME\>**.
