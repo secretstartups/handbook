@@ -474,21 +474,21 @@ Naming convention for reports and dashboards will leverage sequence of periods (
 
 ## Opportunities
 
-### Criteria for Sales Accepted Opportunity (SAO)
+### Criteria for Inbound Sales Accepted Opportunity (SAO)
 
-The following criteria are **required** for all SAOs:
+The following criteria are **required** for inbound SAOs:
 1. An Opportunity is deemed a Sales Accepted Opportunity (SAO) when the Opportunity is moved from Stage `0-Pending Acceptance` to `1-Discovery` by the Strategic Account Leader. 
-1. BDRs/SDRs do not input the Net ARR $ value, the Sales Opportunity owners do.
+1. SDRs do not input the Net ARR $ value, the Sales Opportunity owners do.
 1. Required field settings to identify an SAO are:
      - The "SDR Sales Accepted Date" is defined
      - The "Is EDU/OSS Opportunity flag" is 'N'
      - Stage <> `10-Duplicate`
 
-The following criteria is required for a BDR or SDR to submit an opportunity to sales:
+The following criteria is required for a SDR to submit an opportunity to sales:
 
 **Authority**
 The prospect being met is directly involved in a project or team related to the potential purchase of GitLab within this buying group, either as an evaluator, decision maker, technical buyer, or *influencer.
-*If the “influencer” is not directly involved (i.e. is related to a "decision maker" in another group/division or someone who is not directly tied to the opportunity at hand) the BDR/SDR will continue to own the opportunity and will seek to set-up the next meeting with a key contact in the buying group (leaving 0-pending status until date/referral is confirmed), updating the current opportunity with the new directly-involved point of contact in the buying group once it's acquired.
+*If the “influencer” is not directly involved (i.e. is related to a "decision maker" in another group/division or someone who is not directly tied to the opportunity at hand) the SDR will continue to own the opportunity and will seek to set-up the next meeting with a key contact in the buying group (leaving 0-pending status until date/referral is confirmed), updating the current opportunity with the new directly-involved point of contact in the buying group once it's acquired.
 
 **Initiative**
 An initiative the company is working on has been identified and GitLab can potentially help the initiative.
@@ -503,14 +503,14 @@ The following fields have been obtained:
 
 **Timing**
 After the initial qualifying meeting with the account leader/executive, there must be a tangible next step scheduled with the prospect that is set to occur within a *60 day timeframe.
-(*If next step isn’t within a 60 day timeframe, the opportunity remains in stage 0 and in BDR/SDR ownership to nurture until the next step is actualized.)
+(*If next step isn’t within a 60 day timeframe, the opportunity remains in stage 0 and in SDR ownership to nurture until the next step is actualized.)
 
 _**Sales Development best practice:**_
 Ask prospect about their environment, what they develop software for etc. to try build a picture of the company and how we will be able to help them.
 Share relevant resources with the point of contact.
 Add other potential influencers/buyers from that company into our database and the Outreach cadence in an effort to build more momentum within that organization.
 
-_**Before the IQM with the account leader/executive, the BDR/SDR will also aim to gather:**_
+_**Before the IQM with the account leader/executive, the SDR will also aim to gather:**_
 
 - SaaS vs. Self Hosted
 - Potential Future Seats in the Buying Group
@@ -519,7 +519,49 @@ _**Before the IQM with the account leader/executive, the BDR/SDR will also aim t
 _**Post IQM:**_
 Opportunities in `1-Discovery` stage are accepted and owned by the account leader/executive.
 The account leader/executive is responsible for the progression, activities, engaging other resources, and converting this early engagement to a mutual win.
-The Sales account leader/excutive is responsible for taking the next step within 60 days, or reverting the opportunity back to BDR/SDR ownership or disqualifying the SAO if ultimately there is no opportunity.
+The Sales account leader/excutive is responsible for taking the next step within 60 days, or reverting the opportunity back to SDR ownership or disqualifying the SAO if ultimately there is no opportunity.
+Managers should be able to use the 'NEXT STEP DATE' field to determine if the IQM has taken place but opportunity has not been moved to new stage.
+Opportunities should be moved to new stage within 48 hours of IQM.
+
+### Criteria for Outbound Sales Accepted Opportunity (SAO)
+
+The following criteria are **required** for outbound SAOs:
+1. An Opportunity is deemed a Sales Accepted Opportunity (SAO) when the Opportunity is moved from Stage `0-Pending Acceptance` to `1-Discovery` by the Strategic Account Leader. 
+1. BDRs do not input the Net ARR $ value, the Sales Opportunity owners do.
+1. Required field settings to identify an SAO are:
+     - The "SDR Sales Accepted Date" is defined
+     - The "Is EDU/OSS Opportunity flag" is 'N'
+     - Stage <> `10-Duplicate`
+
+The following criteria is required for a BDR to submit an outbound opportunity to sales:
+
+**Internal Decision-Making Unit and Procurement Process**
+The prospect should be able to indicate a clear path to the decision maker, and to be able to identify other evaluators, technical buyer, or influencer in the decision making unit.
+
+**Identified Need**
+An identified need in the company that is either actively worked on or not, identified by either a business problem (i.e too many tools), strategic direction or modernization interest (impetus to change).
+
+**Fit**
+The following fields have been obtained:
+
+- Current DevOps or software development lifecycle tools (from conversation or credible data source)
+- Expected entry point use case (e.g. SCM or CI)
+- Potential seats of the first opportunity (if this is a new account or buying group)
+
+_**Before the IQM with the account leader/executive, the BDR will also aim to gather:**_
+
+- SaaS vs. Self Hosted
+- Potential Future Seats in the Buying Group
+- Total Seats Available Estimate at the company
+
+These should be an approximation based on research and not necessarily verified.
+
+[Outbound BDR SAO Notes - Template](https://docs.google.com/document/d/1m5YBOCc--M1Iq5-SEEd2OUWDjYyc6VJ3xTsDEEqisUQ/edit)
+
+_**Post IQM:**_
+Opportunities in `1-Discovery` stage are accepted and owned by the account leader/executive.
+The account leader/executive is responsible for the progression, activities, engaging other resources, and converting this early engagement to a mutual win.
+The Sales account leader/excutive is responsible for taking the next step within 60 days, or reverting the opportunity back to BDR ownership or disqualifying the SAO if ultimately there is no opportunity.
 Managers should be able to use the 'NEXT STEP DATE' field to determine if the IQM has taken place but opportunity has not been moved to new stage.
 Opportunities should be moved to new stage within 48 hours of IQM.
 
