@@ -60,10 +60,14 @@ GitLab team members are encouraged to use this method of reporting incidents if 
 
 **NB:** "Resolved" in PagerDuty does not mean the underlying issue has been resolved.
 
-#### EOC vs. IM
+#### Deciding Whether to Initiate Status Page Communications: EOC vs. IM
 {:.no_toc}
 
-In later sections of this workflow it's called out that at times you should be asking the [Incident Manager (IM)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) assigned to the incident for permission to move it between stages (open, monitoring, resolved). On the rare occasion that an incident does not have an Incident Manager, the [Engineer On Call (EOC)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) assumes those responsibilities and you may ask them instead.
+The Incident Manager (IM) is the DRI for the decision of whether to initiate public communications via the Status Page. When joining an incident as the CMOC you should inquire as to whether communications are currently required.
+
+In later sections of this workflow it's called out that at times you should be asking the [Incident Manager (IM)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) assigned to the incident for permission to move it between stages (open, monitoring, resolved). 
+
+On the rare occasion that an incident does not have an Incident Manager, the [Engineer On Call (EOC)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) assumes these responsibilities and you may ask them instead.
 
 #### Reviewing Past Incidents
 {:.no_toc}
