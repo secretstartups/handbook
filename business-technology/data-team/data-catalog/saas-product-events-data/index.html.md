@@ -28,13 +28,13 @@ The versatility of this table allows business stakeholders to perform a large ar
 
 ### ERD and Data flows and table description:
 
-The Data Team maintains these fact tables that can be used to :
+The Data Team maintains these prep and fact tables at the base of the SaaS product event data lineage:
 
-- [fct_event_400](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event_400): fact table at the event-level grain. That means you will find in this table one row per event, an event being for example a issue created or a ci_pipeline started. This fact table contains only events that happened only in the last 400 days. 
-- fct_daily_event_400: Table that will be implemented soon, progress [can be tracked in this issue](https://gitlab.com/gitlab-data/analytics/-/issues/9795)
-- fct_daily_xmau_400: Table that will be implemented soon, progress [can be tracked in this issue](https://gitlab.com/gitlab-data/analytics/-/issues/9795)
+- [prep_event_all](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_event_all): A view of all prep_event partitions at the event-level grain. That means you will find in this table one row per event, an event being for example a issue created or a ci_pipeline started. 
+- [fct_event](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_event): A table at the event level which contains flags on whether events are included in xMAU figures. Contains foreign keys to easily join to DIM tables or other FCT/MART tables for additional detail and discovery. This model contains all historical data and therefore is loaded incrementally to avoid query timeouts.
+- [downstream lineage here](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_event?g_v=1&g_i=fct_event%2B)
 
-Under the hood, all these models are created through [this dbt model named prep_event](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_event).
+Under the hood, all these models are created through [this dbt model named prep_event](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_event).
 
 `prep_event` model creates a monthly partitioned table. Looking at Snowflake you can see one schema per month:
 
@@ -42,18 +42,11 @@ So that means we have one `prep_event` table per month. In dbt, you can see that
 
 In the query, you also see the `WHERE` statement that limits the data to a monthly subset of data.
 
-Here is an ERD of the `prep_event` tables:
-
-<figure style="width: 640px; height: 480px; margin: 10px; position: relative;">
-<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/9893320a-3dc1-4585-b292-c7b3d02c2bea" id="ZEN0ht8-IFF2">
-</iframe>
-</figure>
-
-The list of events currently tracked in these tables [is available here](https://app.periscopedata.com/app/gitlab/897425/fct_event-workflow?widget=12279318&udv=0). Some new events can be added fairly easily, please see documentation below.
+The list of events currently tracked in these tables [is available here](https://app.periscopedata.com/app/gitlab/1032417/Events-included-in-fct_event?widget=14683254&udv=0). Some new events can be added fairly easily, please see documentation below.
 
 #### How to add new events to this table ?
 
-The whole table complexity is included in the `prep_event` table (dbt documentation available [here](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_events))
+The whole table complexity is included in the `prep_event` table (dbt documentation available [here](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_event))
 
 This model is a bit long and aggregates/unions data coming from a lot of different tables. Nevertheless, adding a new event is a rather easy operation to perform. Here are the steps to follow:
 
@@ -113,6 +106,7 @@ The JSON will look like that:
     "ultimate_parent_namespace_column_name": column containing the ultimate parent namespace ID, you should refer to dbt to get this info,
     "project_column_name": column containing the ID of the project, you should refer to dbt to get this info,
     "primary_key": primary key of the CTE
+    "stage_name": the name of the stage of the DevOps Lifecycle this event belongs to e.g. 'secure', 'monitor'
   }
 ```
 
