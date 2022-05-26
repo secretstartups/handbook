@@ -70,7 +70,7 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Company wide-announcement and schedule AMA sessions | May 4 | Complete | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13302) |
 | Add dashboards to handbook pages for all stage groups | May 26 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) |
 | Add dashboards to handbook pages for all sub-departments | May 30 | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13448) |
-| Automate merge request type reminders  | May 30  | In process | Kyle Wiebers | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) |
+| Automate merge request type reminders  | June 8  | In process | Kyle Wiebers | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) |
 | Auto-schedule S1 Bugs | June 7 | In process | Tanya Pazitny | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
 | Handbook updates to describe new process and deprecate engineering allocation process | May 26 | Started | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
 | Setup monthly MR type reviews between engineering managers, sub-department leads, and engineering overall trends | June 2 | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
