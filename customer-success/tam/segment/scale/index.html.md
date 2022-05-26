@@ -25,7 +25,7 @@ Scale TAMs driving programmatic enablement and targeted customer engagement acro
 
 The diagram below outlines the customer lifecycle for our Scale Customers:
 
-![Customer Lifecycle Journey Scale TAM](/images/handbook/customer-success/Customer_Lifecycle_Journey_Scale_Tam.png)
+![Customer Lifecycle Journey Scale TAM](/images/handbook/customer-success/customer_lifecycle_journey_with_metrics_-_scale_tam.png)
 
 ## Motions
 
