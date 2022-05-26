@@ -68,8 +68,8 @@ The workflow applies to all cases where account verification is required.
 Because an ownership-verification ticket is a matter of record, the ticket must be simple, accurate, and tightly focused on the access issue. 
 
 1. Do not allow the customer to bring up unrelated topics.
-1. Do not add requested CCs to the ticket. Remove any CCs that get added (for example, as a result of email updates to the ticket).
-    1. Exception: the Owner or top-level group owner may be CCed when [Owner vouch](#authenticating-an-owner-vouch) is required.
+1. Do not add requested CCs to the ticket. Remove any CCs that get added, except:
+    1. Exception: Owners of the top-level group may be CCed as required.
 
 ### Sending Challenges
 
