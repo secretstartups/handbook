@@ -127,6 +127,9 @@ Having crucial conversations via a Zoom call might be more difficult than having
      - `Has this problem happened before?`
      - `What is the most pressing issue to address?`
      - `Is what is pressing for me the same thing that is pressing for others in the discussion?`
+1. Historical messages in tools like GitLab and Slack might help you gather information about the tone and communication patterns of people you're having crucial conversations with. 
+1. Transparency in GitLab projects, Slack statuses, and Google Calendar gives us a picture into what projects our remote team members are working on. We can use this as a tool to help fill our own pool of meaning and have a deeper understanding for the workload that our peers have.
+1. Give team members who are uncomfortable verbalizing in a group on call the option to ask someone to `please verbalize`. While GitLab issues and Slack may be more comfortable areas for them to contribute, decisions do get made on Zoom calls. Encourage team members to add their input in the agenda doc or Zoom comments section with `please verbalize` in parentheses. The lead for the call should then verbalize their input to the larger group, so it becomes part of the discussion. This can help create a safe space for their ideas to be shared.
 
 ## What GitLab Managers Say about Crucial Conversations
 
