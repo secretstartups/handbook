@@ -539,6 +539,8 @@ Should the PEA find any abuse of the link, they will need to report to the Manag
 
 The PEA in the rotation should review the onboarding tracker and send [email invitations](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/tanewki_welcome_call.md) to new hires for the Ta'NEW'ki welcome call 2 weeks before their start date, if applicable.
 
+Once a day, the PEA will review the [Google Form RSVP Responses](https://docs.google.com/spreadsheets/d/1PYxWM5JBvHcGK6yQ_HHcbLraAOnlzvJGgC1JSI48LZs/edit?resourcekey#gid=1801243759) to see if any new responses have come in. If they have, you'll add the email address to the selected TaNewKi call to provide those incoming team members with an invite on their calendar. 
+
 ### Regeling Internet Thuis form
 
 Part of the onboarding process with HR Savvy, new team members based in the Netherlands will complete the Regeling Internet Thuis form. If this is not completed, the team member will send an email to people-exp@gitlab.com with the Regeling Internet Thuis form and respective invoice. The People Experience team will then forward this form to the payroll provider in the Netherlands via email. The contact information can be found in the People Ops 1Password vault, under "Payroll Contacts".
