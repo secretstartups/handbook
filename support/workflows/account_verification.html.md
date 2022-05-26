@@ -63,11 +63,19 @@ While Support typically identifies users by their membership in a paid namespace
 
 The workflow applies to all cases where account verification is required.
 
+### Keeping the Ticket Simple and Accurate
+
+Because an ownership-verification ticket is a matter of record, the ticket must be simple, accurate, and tightly focused on the access issue. 
+
+1. Do not allow the customer to bring up unrelated topics.
+1. Do not add requested CCs to the ticket. Remove any CCs that get added (for example, as a result of email updates to the ticket).
+    1. Exception: the Owner or top-level group owner may be CCed when [Owner vouch](#authenticating-an-owner-vouch) is required.
+
 ### Sending Challenges
 
 If you need a basis for a response where you send the challenges, or in a 2FA ticket, if the user has not answered the challenges, use the `Support::SaaS::2FA::2FA Challenges` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103721068).
 
-## Evaluating Challenge Answers
+### Evaluating Challenge Answers
 
 > **Note**: In case the user sends back very minimal information and it's clear it's not sufficient or the answers are vague, reply asking for more information immediately after their response. You can provide some additional guidance, such as "please provide the exact date and time of the commit, not just an approximate one".
 
@@ -123,7 +131,7 @@ This section is typically done by the peer reviewer. If needed, the peer reviewe
 
 ## Large Customers
 
-For customers who are large enough to have an account management project, a different workflow can be configured for them that will allow Support to more easily disable 2FA for any of their users that require it. Before this process can be used, a GitLab team member from either Customer Success or Sales must perform a few setup steps. If a customer requests this workflow, please refer them to either of those individuals.
+For customers who are large enough to have an account management project, a different workflow can be configured for them that will allow Support to more easily disable 2FA for any of their users that require it. Before this process can be used, a GitLab team member from either Customer Success or Sales must perform a few setup steps (described below). If a customer requests this workflow, please refer them to either of those individuals.
 
 ### Setup (For CS & Sales)
 
