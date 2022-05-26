@@ -64,7 +64,7 @@ This is an example template you can use to introduce yourself to a new team memb
 >
 >This welcome email is one of my first onboarding buddy tasks. It is sent to your personal email address because your GitLab email is meant to be accessible to you starting on your first day only. Also, sometimes a new hire may have questions that they would feel more comfortable asking their onboarding buddy versus their manager or recruiter. Other than this instance and thread, I will not send you any other messages to your personal email address, as we truly believe in a healthy work/life balance at GitLab!
 >
->On the morning of your first day, whenever you wish to start (there is no required start time!), you will find a welcome email from GitLab in your personal email inbox. It should have been sent around 3am Pacific time. Please check your spam folder if you don't see it right away. The email will start:
+>On the morning of your first day, whenever you wish to start (there is no required start time!), you will find a welcome email from GitLab in your personal email inbox. It should have been sent around 6am local time in your country. Please check your spam folder if you don't see it right away. The email will start:
 >
 >_Hi {Name},_
 >
