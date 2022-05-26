@@ -72,7 +72,7 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Add dashboards to handbook pages for all sub-departments | May 30 | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13448) |
 | Automate merge request type reminders  | June 8  | In process | Kyle Wiebers | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) |
 | Auto-schedule S1 Bugs | June 7 | In process | Tanya Pazitny | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
-| Handbook updates to describe new process and deprecate engineering allocation process | May 26 | Started | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
+| Handbook updates to describe new process and deprecate engineering allocation process | June 6 | Started | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
 | Setup monthly MR type reviews between engineering managers, sub-department leads, and engineering overall trends | June 2 | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
 | Refine stakeholder dashboard views, bug & maintenance backlog types | May 19 | Complete | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13321) | 
 | Reduce undefined MR types to less than 5% | June 2 | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
