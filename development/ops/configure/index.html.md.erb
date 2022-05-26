@@ -146,7 +146,7 @@ Some dedicated Slack channels:
 - PM: Product Manager
 - FE: Frontend Engineer
 - BE: Backend Engineer
-- UX: User Experience Designer
+- UX/PD: User Experience Designer
 - TW: Technical Writer
 
 ### Problem validation and vision setting
@@ -185,8 +185,34 @@ We want to build solutions for real users and customers. As a result, it is para
 
 ### Issue refinement
 
-Refinement in the Configure group happens by a continuous refining process, with a deeper focus on a few issues every week. These issues are being prepared for discussion in the week before with the active involvement of the PM, UX, and EM. Based only on the description of the issue, the EM decides if the issue has enough context to invite the development team to discuss it during the next week.
+Refinement in the Configure group happens by a continuous process, with a deeper focus on a few issues every week. Every week a team member is selected as the refinement DRI, who is responsible for refining **5** issues from the `~"workflow::refinement"` list in the [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure). 
 
+Refining means: 
+- Add missing details to issue description if needed, add a weight, formulate a technical plan if not clear and label the issue `~"workflow::ready for development"`
+- OR Determine there is not enough information or too much uncertainty and label `~"workflow::solution validation"`
+- It’s expected that most refinements need conversations with Product Manager, Product Designer, or Engineering Manager.
+- Pulling in other Engineers when necessary is encouraged
+#### Refinement Guidelines
+
+- Identify and resolve outstanding questions or discussions.
+    - Does the issue has a clear, updated, and confirmed design associated?
+    - Does the issue contains all the data necessary to start implementation?
+- Identify missing dependencies.
+    - Is the issue dependant on any other issue in the milestone, or the dependency is explicitly communicated, noted in the description and the issue is linked?
+    - The GraphQL API or the REST API contains all the data necessary to implement the UI?
+    - The GraphQL API or the REST API implements all the necessary filters, sorting, and pagination to implement the UX?
+    - The GraphQL API or the REST API contains all the necessary mutation/actions to implement the UX?
+- Raise any questions, concerns or alternative approaches.
+    - Could this issue be resolved in different ways?
+     - What is the biggest risk? 
+- Involve stable counterparts.
+    - The impact on QA and Feature test of this issue is clear, and if necessary, a stable counterpart is involved?
+    - The impact on security of this issue is clear, and if necessary, a stable counterpart is involved?
+- Outline an implementation plan.
+    - What is the smallest thing possible to do?
+    - Should we use a feature flag?
+- Assign labels. 
+- Assign a weight to the issue according to [weighting guidelines](/handbook/engineering/development/ops/configure/#weights).
 ### Planning
 
 #### Milestone Planning and Timeline
@@ -220,8 +246,7 @@ This Phase does not include time for complex technical proposals. They will be w
   We utilize a planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/configure/general/-/issues/167)
 1. PM: Creates short video about milestone goals/plans
 1. PM: Moves and order issues of interest into the `~"workflow::refinement"` list of the [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure) 
-1. PM or EM: invites engineering and UX to refine issues with `~"workflow::refinement"` label on [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure)
-1. EM: reviews issues
+1. Refinement DRI: invites (or directly refines) engineering and Product Designer to refine issues with `~"workflow::refinement"` label on [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure)
 1. Engineering: weight issues
 1. Engineering: break down issues by posting a rough technical plan on each issue that has a weight bigger than 2.
 1. EM: coordinate with FE & BE work.

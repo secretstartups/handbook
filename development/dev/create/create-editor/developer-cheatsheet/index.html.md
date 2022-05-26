@@ -183,6 +183,15 @@ Assuming branch is named `branch` and upstream is named `master`:
 
 - [Expanding Issue/MR Threads for Searching](https://gitlab.com/gitlab-org/gitlab/issues/38235)
 
+## Settings && Navigation Development
+
+Currently our sidebar implementation lives in:
+
+- `lib/sidebars/`
+- `ee/lib/sidebars/`
+- `spec/lib/sidebars/`
+
+When you need to edit, delete or insert a new sidebar field, you will be working inside these files. The base menu class lives in `lib/sidebars/menu.rb` and all other menu items inherit it. If you need different behavior for a menu item, you can override this base class in your implementation. More information [about the full implementation](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/68441) is available.
 ## New habits
 
 Though the [contributor and development docs](https://docs.gitlab.com/ee/development/) are the single source of truth, there are some additional habits that may be worth developing when you're new to the code contribution process.
