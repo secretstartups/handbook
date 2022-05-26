@@ -274,26 +274,53 @@ If your GC is optional and you need to move the date, please work with your depa
 
 | Group Conversation | DRI | Key Review? | GC Frequency | Alternate Hosts | Scheduling DRI |
 | ------------------ | --- | ----------- | ------------ | --------------- | -------------- |
-| [Sales & Marketing](/handbook/sales/) | Michael McBride and Craig Mestel | Yes | Twice per quarter | | @Aschrauth | 
-| [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter | | @ckgitlab | 
-| [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter | | TBH: EBA to CPO | 
-| [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Every month | | @jennifergarcia20| 
-| [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Twice per quarter | | TBH: EBA to Engineering | 
-| [Support](/handbook/support/) | Tom Cooney | Yes | Twice per quarter | @lbot @lyle @vparsons| TBH: EBA to Engineering | 
-| [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Every other month | | TBH: EBA to Engineering | 
-| [UX](/handbook/engineering/ux/) | Christie Lenneville | Yes | Every other month | | TBH: EBA to Engineering | 
-| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | TBH: EBA to Engineering | 
-| [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month | | TBH: EBA to Engineering | 
-| [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | @kristie.thomas |
-| [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Cindy Blake | No | Optional | | TBH: EBA to CMSO | 
-| [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | Darren Murph | No | Optional | | TBH: EBA to CMSO | 
-| [Digital Experience](/handbook/marketing/digital-experience/) | Michael Preuss | No | Optional | | TBH: EBA to CMSO | 
-| [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Adam Mittner | No | Optional | | TBH: EBA to CMSO | 
-| [UX Research](/handbook/engineering/ux/ux-research/) | Adam Smolinski | No | Optional | | TBH: EBA to Engineering | 
-| [Community Relations](/handbook/marketing/community-relations/) | David Planella | No | Optional | | TBH: EBA to CMSO | 
-| [Sales Development](/handbook/marketing/revenue-marketing/) | Jean-Baptiste Larramendy | No | Optional | | TBH: EBA to CMSO | 
-| [Alliances](/handbook/alliances/) | Nima Badiey | No | Optional | | @danadpelton |
+| [Marketing](/handbook/sales/) | Ashley Kramer | Yes | Twice per quarter | | EBA to CMSO| 
+| [Sales](/handbook/sales/) | Sales VPs | Yes (GTM Key Review shared with Marketing) | Monthly - rotates between VP of Commercial, VP of Enterprise, VP of Channel & VP of Customer Success | | EBAs in Sales | 
+| [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter | | EBAs in Finance| 
+| [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter | | EBA to CPO | 
+| [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Twice per quarter | | EBA to VP, Product | 
+| [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Twice per quarter | | EBA to Engineering | 
+| [Support](/handbook/support/) | Tom Cooney | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering | 
+| [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Every other month| | EBA to Engineering | 
+| [UX](/handbook/engineering/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering | 
+| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering | 
+| [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month | | EBA to Engineering | 
+| [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | EBA to CEO|
+| [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Cindy Blake | No | Quarterly| |  EBA to CMSO | 
+| [Digital Experience](/handbook/marketing/digital-experience/) | Michael Preuss | No | Quarterly | | EBA to CMSO | 
+| [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Adam Mittner |No | Quarterly| | EBA to CMSO | 
+| [UX Research](/handbook/engineering/ux/ux-research/) | Adam Smolinski | No | Quarterly | | EBA to Engineering | 
+| [Community Relations](/handbook/marketing/community-relations/) | John Coghlan | No | Quarterly| | EBA to CMSO | 
+| [Sales Development](/handbook/marketing/revenue-marketing/) | Jean-Baptiste Larramendy | No | Quarterly - Beginning of each quarter| | EBA to CMSO | 
+| [Alliances](/handbook/alliances/) | Nima Badiey | No | Quarterly | | EBA to VP of Alliances |
 
+| AMAs | DRI |  AMA Frequency | Alternate Hosts | Scheduling DRI |
+| ------------------ | --- | ------------ | --------------- | -------------- |
+| AMA with Sid Sijbrandij (CEO) | EBA to CEO| Every other month | N/A | EBA to CEO | 
+|    | | | | 
+
+## FY23 Q2 & Q3 Schedule
+
+| Date | GC or AMA| DRI| Key Review Date? |
+|-----------|-----|--------|--------|
+| Tuesday May 24 | ModelOps | Taylor McCaslin | N/A|
+| Wednesday May 25 | AMA with Sid Sijbrandij | EBA to CEO | N/A|
+| Thursday May 26 | Release and Configure Product Stage | Viktor Nagy| N/A|
+| Tuesday May 31 | Decomposition AMA | Nick Nguyen & Fabian Zimmer| N/A|
+| Wednesday June 1 | Quality | Quality Leadership| 2022-05-31|
+| Thursday June 2 | Customer Fireside Chat | Sherrod Patching | N/A|
+| Tuesday June 7 | People | People Leadership | 2022-05-26|
+| Wednesday June 8 | Development| Development Leadership| 2022-05-31|
+| Thursday June 9 | Community Relations |John Coghlan | N/A|
+| Tuesday June 14 | Finance | | 2022-05-24|
+| Wednesday June 15 | Product| | 2022-06-09|
+| Thursday June 16 | CRO (Sakamoto)| | Key Review Date|
+| Tuesday June 21 | TBD| | Key Review Date|
+| Wednesday June 22 | TBD | | Key Review Date|
+| Thursday June 23 | TBD | | Key Review Date|
+| Tuesday June 28 | DRI| | Key Review Date|
+| Wednesday June 29 | DRI| | Key Review Date|
+| Thursday June 30 | DRI| | Key Review Date|
 
 ## Examples of Past Group Conversations
 
