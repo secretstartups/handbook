@@ -21,13 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### May 2022
 
-### Introducción a CI/CD con GitLab
-#### May 26th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
-
-Ven y conoce qué es CI/CD y cómo puede beneficiar a tu equipo/organización. Cubriremos una descripción general de CI/CD y cómo se ve en GitLab. También cubriremos cómo comenzar con su primer pipeline de CI/CD en GitLab y los conceptos básicos de los GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_ztNbL4O3RSmBQjZSyYTQJg)
-
 ### DevSecOps/Compliance 
 #### May 31st, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
