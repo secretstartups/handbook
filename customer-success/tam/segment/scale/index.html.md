@@ -31,13 +31,13 @@ The diagram below outlines the customer lifecycle for our Scale Customers:
 
 ### Align
 
-This cohort is enabled primarily through shared content and one-to-many webinars. The primary focus for one-to-one interactions will put all first-year customers on a path for success through removing barriers in the first few months of their onboarding and adoption. Our secondary focus is around engaging with specific at-risk customers throughout the customer journey. 
+This cohort is enabled primarily through shared content and one-to-many webinars. See our [TAM Webinar Calendar](https://about.gitlab.com/handbook/customer-success/tam/segment/scale/webinar-calendar/) for upcoming events. The primary focus for one-to-one interactions will put all first-year customers on a path for success through removing barriers in the first few months of their onboarding and adoption. Our secondary focus is around engaging with specific at-risk customers throughout the customer journey. 
 
 A key metric we will use to systematically identify at-risk customers will be license utilization. For example, customers who haven't reached 75% license utilization and are past the six-month mark in their license will be triggered to Scale TAMs to engage. 
 
 ### Enable
 
-Onboarding and enablement for this customer segment are primarily through one-to-many webinar sessions. In addition, a personal TAM reach-out occurs on day 14 to ensure the customer is on-track for success. A Scale TAM's goal with any one-to-one customer interaction is to put the customer on a path for success and ensure they know their ongoing resources (support team, blog, learning resources, etc.) 
+Onboarding and enablement for this customer segment are primarily through one-to-many webinar sessions. In addition, a personal TAM reach-out occurs on day 21 to ensure the customer is on-track for success. A Scale TAM's goal with any one-to-one customer interaction is to put the customer on a path for success and ensure they know their ongoing resources (support team, blog, learning resources, etc.) 
 
 A Scale TAM's engagement with any one customer will be limited in total customer interactions, most often to two or three. Additional targeted customer reach-outs for triggered events such as missed time-to-first-value poor onboarding NPS scores may occur throughout the customer lifecycle.
 
@@ -47,7 +47,7 @@ Onboarding:
 
 1. Net-new customer attendance in onboarding webinars
 1. Time to First Value
-1. % 14 day calls completed
+1. % 21 day calls completed
 1. Onboarding NPS & CSAT scores
 1. License utilization
 
