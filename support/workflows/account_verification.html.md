@@ -58,6 +58,7 @@ While Support typically identifies users by their membership in a paid namespace
 1. Primary email of the account must match the company domain.
 1. User must still prove account ownership following the [workflow](#workflow).
    - Include the paid namespace when determining the data classification level.
+1. If the user is classed as an [Enterprise user](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#enterprise-users) the user or an owner of the paid group raises the ticket.
 
 ## Workflow
 
