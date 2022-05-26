@@ -279,7 +279,7 @@ for SEO, and it appears underneath the title of your post on the post itself and
 
 #### Tags
 
-These are included to help readers find similar posts if they are interested in a particular subject. Tags appear at the bottom of each blog post, and clicking on a tag takes you to [/blog/tags](/blog/tags.html) where you can view all tagged posts and browse by tag.
+These are included to help readers find similar posts if they are interested in a particular subject. Tags appear at the top of each blog post, and clicking on a tag takes you to [/blog/tags](/blog/tags.html) where you can view all tagged posts and browse by tag.
 
 You can include as many tags as you like, separated by commas. Please only include tags from the following list, and note that they are case sensitive. 
 
@@ -314,6 +314,7 @@ You can include as many tags as you like, separated by commas. Please only inclu
 - open source
 - patch releases
 - performance
+- product 
 - production
 - releases
 - remote work
