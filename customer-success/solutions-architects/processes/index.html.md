@@ -38,6 +38,8 @@ To following process maps are best viewed in full screen.  Please note that many
 
 Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture/) page.
 
+We have a [standard meeting notes document](https://docs.google.com/document/d/1TlG1ZDKtd3YcV_yZg9YxQ52HRxNCpYXJLyDblxBz-vU/edit?usp=sharing) that is formatted to enable the activity capture in Troops which should be utilised for each customer engagement 
+
 ## Engaging Professional Services
 
 Follow the process detailed in the [Working with Professional Services](/handbook/customer-success/professional-services-engineering/working-with/#for-sales-reps-and-sas-how-to-order-professional-services)
