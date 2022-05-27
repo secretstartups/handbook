@@ -326,6 +326,18 @@ There's no goal for this area. You can see how you're doing by using the 'Handbo
 
 There's no goal for this area. The aim is to make sure you are aware of and utilizing the information and resources that will help you stay on top of major recent changes in GitLab and the team.
 
+### Help prepare for product changes (optional)
+
+As an extension of [keeping up to date on GitLab](#keep-up-to-date-on-gitlab-and-support), you're always invited to help prepare the team for changes. Occasionally, and always with every major release, there may be deprecations or breaking changes which the Support team needs to prepare for.
+
+For major releases, typically a manager will organize the [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) to review the planned changes. 
+
+Between major releases, product or development may request our assistance [to contact specific users](/handbook/support/internal-support/#gitlab-changes-and-contacting-users), which are handled by a [group of volunteers within Support](https://gitlab.com/groups/gitlab-com/support/readiness/-/group_members?with_inherited_permissions=exclude). 
+
+Each month, Support also organizes a [Release Review Party](https://drive.google.com/drive/u/0/search?q=Release%20Review%20-%20Support%20Team) (GitLab Internal only) to go over, demonstrate, and talk about new features or changes.
+
+If you wish to participate in any of these activities, please discuss it with your manager, or the Director of Support, Global Readiness.
+
 ## Develop your skills through learning and training (Weekly)
 
 We are committed to helping you develop your skills through continuous learning. You can complete [modules in the Support Training project](https://gitlab.com/gitlab-com/support/support-training).
