@@ -226,7 +226,7 @@ Steps:
 * Obtain approval for the overall plan and expected impact from:
   * Director of SRE, Infrastructure
   * VP of Infrastructure
-  * VP of Support
+  * Director of Support, Global Readiness
 * 1 month before the change at least (if possible):
     * Ask our TAMs in our #customer-success channel about their preferences on how to communicate this change to our main customers:
         * Make sure that our main customers TAMs are included in this "ping". If we need to get the list of our Marquee customers, it is [here](https://gitlab.com/gitlab-com/gl-infra/marquee-account-alerts/-/blob/master/marquee-accounts.yml).
