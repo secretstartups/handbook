@@ -249,7 +249,6 @@ The COVID-19 Travel Working Group is comprised of the Covid Response Committee t
 
 Meeting Schedule:
 
-1. 2022-05-19
 1. 2022-06-16
 1. 2022-07-21
 1. 2022-08-18
@@ -266,7 +265,9 @@ If you have a question or feedback related to the working group, please post in 
 
 Where can GitLab Team Members Travel? While some areas of the world have decreased cases of Covid-19, some are increasing. Team Members must refer to the [CDC website](https://covid.cdc.gov/covid-data-tracker/#global-counts-rates)) to ensure that both locations (traveling from and to) are safe locations in which to travel.
 
-Required of/by Team Members Prior to Traveling:
+### Required of/by Team Members Prior to Traveling:
+
+This section has been updated as of 2022-05-26
 
 As of 2022-03-21, fully vaccinated and boosted team members (as defined by [CDC Guidance](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)) who want to travel for any business reason can do so without seeking prior approval from the COVID-19 Travel Working Group.  With COVID-19 cases decreasing around the world, we've made the data-driven decision to re-open team member travel.  We will continue to evaluate the best way to reinstate our [Visiting Grant program](https://about.gitlab.com/handbook/incentives/#visiting-grant), but at this time, this program continues to be on hold.  
 
@@ -276,14 +277,32 @@ While obtaining COVID-19-specific approval before travel is no longer needed, yo
  
 As a reminder, business travel is still voluntary. Please only travel if you feel comfortable doing so while abiding by local regulations and requirements. 
  
-The COVID-19 Travel Working Group meets monthly and will reconvene on 2022-04-21 to re-evaluate our travel policy and the risk of COVID-19. As always, the safety of our team members, partners, and customers is our top priority. 
+The COVID-19 Travel Working Group will re-evaluate our travel policy at least monthly to assess the risk of COVID-19. As always, the safety of our team members, partners, and customers is our top priority. 
  
 - At this time, all business travel requires pre-approval by your manager, and only fully vaccinated and boosted team members may travel for business if their request is approved. Except where an exemption or accommodation may apply, non-vaccinated team members are currently not allowed to travel. 
 - Business travel requests should be made for any mode of travel (including personal vehicles for local travel and local public transportation) where team members will be meeting co-workers, customers and/or partners in person.
 - By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status. GitLab is not requiring vaccination confirmation at this time to travel.
 - Vaccinated team members must wear a mask that meets CDC or WHO guidelines during travel to their destination(s), and must continue to follow mask requirements meeting CDC/WHO guidelines or local, venue or client requirements, whichever is most strict.
 - All international travelers must follow each country's guidelines governing entry and re-entry. If COVID-19 testing is required to travel, GitLab will reimburse team members for required testing costs.
-- At this time, there is no change to the [Visiting Grant program](https://about.gitlab.com/handbook/incentives/#visiting-grant) and it remains suspended.  
+- At this time, there is no change to the [Visiting Grant program](https://about.gitlab.com/handbook/incentives/#visiting-grant) and it remains suspended. 
+
+### For In-Person GitLab Events:
+
+If a meeting/meet-up includes 5 or more GitLab Team Members meeting in person, please follow these protocols:
+
+### Covid-19 Testing:  
+All GitLab attendees must test for COVID-19 prior to travel, and again each day of the event prior to meeting with team members.  
+
+### Positive Test Result:  
+If a Team Member tests positive for COVID-19, they are to refrain from meeting with others and must contact the facilitator of the meeting, and/or the venue contact, and notify teammemberrelations@gitlab.com via email. The team member may be required to quarantine until testing negative for COVID-19 which could take 7-10+ days.  Quarantine and isolation rules differ by country and that's where Team Member Relations can help determine next steps.  
+
+If the team member is required to quarantine based on their location, and the team member is local to the event and traveled to the event by car, they may return and quarantine from home.  If they are not local and traveled to the event via plane or other public transportation, they will be required to follow applicable laws regarding quarantining, which may include being required to quarantine at the venue or location and may not be allowed to return home until testing negative.  For additional context and information about quarantining and isolating, please see the CDC Website [Quarantine and Isolating](https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html.)   
+
+### Notification of Positive Test Result:  
+If a participant at an event that you attend tests positive for COVID-19, please notify teammemberrelations@gitlab.com via email.  Please provide the name of the event, the dates, the location, and attendees.  We prefer for the team member who tested positive to report the test result to teammemberrelations.com directly but if you are aware of someone who has tested positive, you too can report that you aware of a positive test to teammemberrelations@gitlab.com.  We will work to determine attendees and notification requirements based on local regulations, and to ensure that team members are alerted to the potential exposure to COVID-19.  However, if multiple positive COVID-19 cases are detected at the same event, the notification may be limited to the first occurrence only.  You should take any precautions you feel comfortable taking (for example, continue testing after the event for several days, isolate, watch for symptoms and if symptoms develop, follow your doctors orders, etc.)
+
+### Masking Indoors:  
+While we do not have a mask requirement in place, we do highly encourage GitLab travelers to wear a mask indoors during meetings/events and while traveling.  
 
 General recommendations/precautions:
 
