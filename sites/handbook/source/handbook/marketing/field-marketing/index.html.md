@@ -7,7 +7,7 @@ description: "The role of Field Marketing at GitLab is to work closely with sale
 ## On this page
 
 {:.no_toc .hidden-md .hidden-lg}
-
+ 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
@@ -650,8 +650,9 @@ In Field Marketing, the FMCs manage all [Coupa requisitions](/handbook/business-
 | [AMER East-Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1105137?&label_name[]=East%20-%20Central) | Ginny Reib | `@GReib` |
 | [AMER West-PacNorWest](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Matthew Macfarlane | `@mmacfarlane` |
 | [AMER West - NorCal/SoCal/Rockies](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) |  Lisa Rom | `@lrom`  |
-| [AMER Public Sector](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Helen Ortel & Kira Aubrey | `@Hortel` & `@KiraAubrey` |
-| [APAC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933488?&label_name[]=APAC) | Pete Huynh | `@Phuynh` |
+| [AMER Public Sector](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Kira Aubrey | `@Hortel` & `@KiraAubrey` |
+| [APAC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933488?&label_name[]=APAC) | TBH | `TBH` |
+| Japan - link WIP | Shu Kawaguchi | `@skawaguchi1` |
 | [EMEA Southern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426531?&label_name[]=Southern%20Europe) | Juliette Francon | `@juliette.frcn` | [#emea_southern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQ6FG8ETY) |
  [EMEA MEA](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426540?&label_name[]=MEA) | Juliette Francon | `@juliette.frcn` | [#emea_southern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQ6FG8ETY) |
 | [EMEA Northern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1438252?scope=all&utf8=%E2%9C%93&label_name[]=Northern%20Europe&label_name[]=EMEA) | Elena Sheveleva | `@Lena333` |[#emea_northern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQGV58A90) |
@@ -754,13 +755,14 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 
 | Region | FMM | CAM |
 | ------ | ------ | -------------- |
-| AMER East NE & SE | Ginny Reib | Sergio Cortes |
-| AMER East-Central | Ginny Reib | Sergio Cortes |
+| AMER East NE & SE | Ginny Reib | TBH |
+| AMER East-Central | Ginny Reib | TBH |
 | AMER West-PacNorWest | Matthew Macfarlane | Jen Bailey |
 | AMER West - NorCal/SoCal/Rockies | Lisa Rom | Jen Bailey |
-| AMER Public Sector | Helen Ortel & Kira Aubrey | Chris Novello|
-| APAC | Pete Huynh | Amelia Seow |
-| EMEA Southern Europe | Juliette Francon | Ilaria Pazienza |
+| AMER Public Sector | Kira Aubrey | Chris Novello|
+| APAC | TBH | Dirk de Vos |
+| APAC - Japan | Shu Kawaguchi |  |
+| EMEA Southern Europe | Juliette Francon | Tristan Ouin |
 | EMEA MEA | Juliette Francon | Matthew Coughlan |
 | EMEA Northern Europe | Elena Sheveleva | Kevin Franklin |
 | EMEA UK/I | Elena Sheveleva | Kevin Franklin |
