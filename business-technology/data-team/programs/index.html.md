@@ -88,7 +88,7 @@ Evaluation Design is the most complex part of the PoV.
 | [Data for Finance](/handbook/business-technology/data-team/programs/data-for-finance/) | Information to help Financial Analysts |
 | [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/) | Information to help Product Managers |
 | [Data for Product Analysis](/handbook/product/product-analysis/) | Information to help Product Analysts |
-| [Product Intelligence Group](/handbook/engineering/development/growth/product-intelligence/) | Information covering the Product Intelligence team |
+| [Product Intelligence Group](/handbook/engineering/development/analytics/product-intelligence/) | Information covering the Product Intelligence team |
 | [Data for Marketing Analysts](/handbook/marketing/inbound-marketing/search-marketing/analytics/) | Information to help Marketing Analysts |
 | [Data for Sales Analysts](/handbook/sales/field-operations/sales-strategy/) | Information to help Sales Analysts |
 | [Data Triage](/handbook/business-technology/data-team/how-we-work/triage/) | Daily process to ensure the data platform remains available for analytics. |

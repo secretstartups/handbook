@@ -42,7 +42,7 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, sla
 |	[Growth](/direction/growth/)	|	Hila, Sam	|	#s-growth-data	|		|		|	X (x-functional series)	|		|
 |	[Product Analysis](/handbook/product/product-analysis/)	|	Carolyn	|	#data	|		|		|	X (x-functional series)	|		|
 |	Engineering	|		|		|		|		|		|		|
-|	[Product Intelligence](/handbook/engineering/development/growth/product-intelligence)	|	Amanda, Alina	|	#g_product_intelligence	|		|	X	|	X (x-functional series)	|		|
+|	[Product Intelligence](/handbook/engineering/development/analytics/product-intelligence)	|	Amanda, Alina	|	#g_product_intelligence	|		|	X	|	X (x-functional series)	|		|
 |	[Engineering Analytics](/handbook/engineering/quality/engineering-analytics/)	|	Mek, Lily	|	#eng-data-kpi	|		|	X	|		|		|
 |	People	|		|		|		|		|		|		|
 |	[People - Operations, Technology, & Analytics](/handbook/people-group/people-ops-tech-analytics/)	|	Adrian	|	#data-people-projects	|	X	|		|		|		|
