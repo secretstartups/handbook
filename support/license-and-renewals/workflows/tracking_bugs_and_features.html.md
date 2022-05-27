@@ -23,7 +23,7 @@ Workflow for Notice Board:
 1. If the issue is on the board, go to it and log your ticket number in the `Examples` section of the issue description (if applicable).
 1. Look at how the issue is prioritised on the Notice Board and move it up or down the list depending on what priority you think it should have.
 1. Copy the issue link and paste it into the `Gitlab issues` field on the ticket.
-1. If the issue is not on the Notice Board, then proceed to the section below "Creating a Bug or Feature Request"
+1. If the issue is not on the Notice Board, then proceed to the section below [Creating a Bug or Feature Request](#creating-a-bug-or-feature-request)
 
 When a bug is resolved or a feature has been implemented, you can:
 
@@ -36,15 +36,15 @@ When a bug is resolved or a feature has been implemented, you can:
 The workflow for submitting a new bug or feature request is as follows.
 
 1. Search the [Fulfillment Issues](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues) project and check if there is an existing matching issue.
-1. If there is an existing issue, then add a link to the Zendesk ticket or internal issue so that we can continue track the impact of the issue, also ensure to include with any relevant information which will help with prioritisation. 
+1. If there is an existing issue, then add a link to the Zendesk ticket or internal issue so that we can continue track the impact of the issue, also ensure to include any relevant information which will help with prioritisation. 
 1. If there is no pre-existing issue then create a new request by clicking on the following [Issue Link](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new?issue&issuable_template=intake) and completing all of the relevant fields.
 1. Add the appropriate label to the issue
-   - If the issue has been identified by support add the label ~"Support Efficiency"
-   - If the issue is impacting a customer's ability to use the GitLab licensing functionality successfully then add the label ~"Customer::Impact" and ~"UX" 
-   - If the issue is impacting L&R supports ability to serve our customers then add the label ~"Support::Impact"
-   - For [Group Provision Issues](https://about.gitlab.com/direction/fulfillment/#provision-group) add the label ~"group::provision"
-   - For [Group utilization Issues](https://about.gitlab.com/direction/fulfillment/#utilization) add the label ~"group::utilization"
-   - For [Group Purchase Issues](https://about.gitlab.com/direction/fulfillment/#purchase) add the label ~"group::billing and subscription management"
+   - If the issue has been identified by support add the label "Support Efficiency"
+   - If the issue is impacting a customer's ability to use the GitLab licensing functionality successfully then add the label "Customer::Impact" and "UX" 
+   - If the issue is impacting L&R supports ability to serve our customers then add the label "Support::Impact"
+   - For [Group Provision Issues](https://about.gitlab.com/direction/fulfillment/#provision-group) add the label "Group::Provision"
+   - For [Group utilization Issues](https://about.gitlab.com/direction/fulfillment/#utilization) add the label "Group::Utilization"
+   - For [Group Purchase Issues](https://about.gitlab.com/direction/fulfillment/#purchase) add the label "Group::Billing and subscription management"
 1. If you believe a high priorty issue is not getting adequate traction then please make [Omar Fernandez](https://gitlab.com/ofernandez2) and [John Lyttle](https://gitlab.com/jlyttle) aware.
 
 
