@@ -32,16 +32,38 @@ title: "Data Team Direction - Timeline"
 
 _Help GitLab Make Better Decisions, Faster_
 
-### FY23-Q1
+Our FY23 Direction is based around 3 areas of business improvement:
+
+1. **GTM Acceleration**
+     - New Data Science propensity models to increase expansion, reduce contraction, and eliminate churn.
+     - More efficient and collaborative Global Data Program through Data on GitLab.
+     - Trusted Level 2 Data Models for Customer Journey Analytics.
+1. **Better Product and More Efficient R&D**
+     - Reliable, stable, and auditable Monthly Active User analytics with Trusted Data Models.
+     - Product Analytics Tools to help Product understand, plan, and act faster.
+     - Data Science on GitLab MLOps.
+1. **Billion Dollar Self-Service Platform**
+     - Multi-Terabyte Big Data DataOps to power a $1 Billion dollar company.
+     - End-to-end Self-Service through easy-to-use Data Visualization tools, data models, and solution recipes.
+
+### [FY23 Data Team Objectives, Newsletters, and Report Cards](https://gitlab.com/groups/gitlab-data/-/epics/427)
+
+#### FY23-Q1
 
 - [FY23-Q1 Objectives and Planning Drumbeat](https://gitlab.com/gitlab-data/managers/-/issues/278) 
-- [FY23-Q1 Report Card (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/12534)
+- [FY23-Q1 Report Card](https://gitlab.com/gitlab-data/analytics/-/issues/12534)
+- Launched [Data Team Internship for Learning program](/handbook/business-technology/data-team/organization/internships) and [FY23-Q1 Data Team Internship Cohort](https://gitlab.com/groups/gitlab-data/-/epics/499)
 
-### FY23-Q2
+#### FY23-Q2
 
 - [FY23-Q2 Objectives and Planning Drumbeat](https://gitlab.com/groups/gitlab-data/-/epics/502)
-- [FY23-Q2 Data Team Internship Program - FY23Q2 Cohort](https://gitlab.com/groups/gitlab-data/-/epics/523)
+- [FY23-Q2 Data Team Internship Cohort](https://gitlab.com/groups/gitlab-data/-/epics/523)
+- Completed [Data Observability Evaluation](/handbook/business-technology/data-team/direction/#data-observability)
 - [FY23-Q2 Release Roundup]()
+
+#### FY23-Q3
+
+- [FY23-Q3 Objectives and Planning Drumbeat](https://gitlab.com/groups/gitlab-data/-/epics/588)
 
 --- 
 
