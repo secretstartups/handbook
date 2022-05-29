@@ -16,6 +16,17 @@ need to perform a security review of any JiHu contribution and explicitly approv
 [a number of repositories](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/jihu-support/#projects).
 These contributions will be [auto labeled](./jihu-contribution-review-process.html#jihu-contribution-identification) with the `JiHu contribution` label.
 
+
+```mermaid
+graph TD
+    A[JiHu Contribution Opened] -->|First merge request review approval| B(AppSec approval requested)
+    B --> C["AppSec approves with MR approval and ~sec-planning::complete"]
+    C --> D[Automated commit AppSec approval comment]
+    D ---> E{Merge requests is updated}
+    E -->|Yes| B
+    E -->|No| F[Merge request can be merged]
+```
+
 ### Who can perform a security review of a JiHu contribution
 
 Any member of the AppSec or Federal AppSec team is eligible to perform a security review of a JiHu contribution.
@@ -49,7 +60,7 @@ When performing the security review of a JiHu contribution, the reviewer needs t
 
 #### Security final commit approval
 
-AppSec approvals are revoked when subsequent changes are added to the merge requests and requires a re-review from AppSec before merging. The process is as follows:  
+AppSec approvals are revoked when subsequent changes are added to the merge requests and requires a re-review from AppSec before merging. The process is as follows:
 
 1. `~sec-planning::complete` will be revoked when the MR is updated (additional commits or rebase) and the original AppSec approver will have a [request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906360435) to re-review and approve.
 1. Use the [suggested quick action](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906360435) to approve after re-reviewing.
