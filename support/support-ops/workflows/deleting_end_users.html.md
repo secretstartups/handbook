@@ -26,7 +26,7 @@ This can be done using the
 macro.
 
 If the user wants full account deletion, you would instead want to use the 
-[Account Deletion - Zendesk](https://about.gitlab.com/handbook/support/workflows/account_deletion.html#zendesk)
+[Account Deletion - Zendesk](https://about.gitlab.com/handbook/support/workflows/personal_data_access_account_deletion.html#zendesk)
 workflow.
 
 If the user wants only the support account deleted, an issue should be made to
