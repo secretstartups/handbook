@@ -195,9 +195,7 @@ Knowledge x Practice = Capability
 - **[Field Communications & Content](/job-families/sales/field-communications)**
     - [Monica Gomez](/company/team/#monicaj) (Manager, Field Communications & Content)
     - [Shannon Thompson](/company/team/#shannonthompson) (Field Communications Specialist)
-    - Alexis Bryson (Program Manager, Sales Content)
-- **[Senior Field Events Manager](/job-families/marketing/corporate-events/#senior-corporate-events-manager)
-    - Amelia Zaglul 
+    - Alexis Bryson (Senior Program Manager, Sales Content)
 
 </details>
 
