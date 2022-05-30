@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Conversica"
-description: "This page is a dedicated resource for the Conversica tool."
+title: "Conversica Dedicated Resource"
+description: "This page is a dedicated resource for the Conversica tool that help enterprise marketing, sales, customer success, and finance teams attract, acquire and grow customers at scale."
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
