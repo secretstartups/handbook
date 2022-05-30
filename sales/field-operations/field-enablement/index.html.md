@@ -185,8 +185,8 @@ Knowledge x Practice = Capability
     - [Misty Martin-Zimmerman](/company/team/#mzimmers) (Sr. Program Manager, Commercial Sales Enablement (AMER))
     - [Cristian Enache](https://about.gitlab.com/company/team/#cenache) (Program Manager, Commercial Sales Enablement (EMEA & APAC))
     - [Blair Fraser](/company/team/#bfraser) (Sr. Program Manager, Partner Enablement)
-    - [Thabo Bopape](/company/team/#tbopape) (Sr. Program Manager, Solution Architect and Technical Enablement)
     - [Pallavi Daliparthi](/company/team/#pdaliparthi) (Sr. Program Manager, Technical Account Manager Enablement)
+    - TBH (Sr. Program Manager, Solution Architect Enablement)
 - **[Director, Revenue Programs](https://about.gitlab.com/job-families/sales/revenue-programs/#director-revenue-programs)**
     - [Allison Gleisner](/company/team/#agleisner) 
 - **[Field Enablement Program Managers](/job-families/sales/program-manager-field-enablement/)**
@@ -195,9 +195,9 @@ Knowledge x Practice = Capability
 - **[Field Communications & Content](/job-families/sales/field-communications)**
     - [Monica Gomez](/company/team/#monicaj) (Manager, Field Communications & Content)
     - [Shannon Thompson](/company/team/#shannonthompson) (Field Communications Specialist)
-    - TBH (Program Manager, Sales Content)
+    - Alexis Bryson (Program Manager, Sales Content)
 - **[Senior Field Events Manager](/job-families/marketing/corporate-events/#senior-corporate-events-manager)
-    - TBH 
+    - Amelia Zaglul 
 
 </details>
 
