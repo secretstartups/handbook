@@ -118,24 +118,66 @@ for more details.
 	  <iframe src="https://www.youtube.com/embed/X9V_w8hsM8E" frameborder="0"  allowfullscreen="true"> </iframe>
 </figure>
 
-## Exit criteria
+## Exit criteria (100%)
 
 The overarching goal should be to define improvements that can be made with the Object Storage implementation
 , and make informed implementation proposals through the work of this group. As such we intend to:
 
 - Document the status quo of Object Storage and classify its use by feature vertical and integration patterns,
   since we know there to be drift between features.
-- Outline a path forward by designing a new simplified architecture for Object Storage.
-- Identify high-level steps we need to take for that architecture to be realized.
-- Prototype individual aspects of it by exploring both new technology such as ActiveStorage, or by reworking
+    - [Categorize existing object storage buckets](https://gitlab.com/gitlab-org/gitlab/-/issues/345282)
+    - [Describe the current state of Object Storage implementation](https://gitlab.com/gitlab-org/gitlab/-/issues/351213)
+- Outline a path forward by designing a new simplified architecture for Object Storage. Identify high-level steps we need to take for that architecture to be realized.
+    - [Requirements for a the new Object Storage architecture](https://gitlab.com/gitlab-org/gitlab/-/issues/345256)
+    - [Proposal: unified blob storage](https://gitlab.com/gitlab-org/gitlab/-/issues/356035)
+    - [Object Storage: storing attachments without carrierwave](https://gitlab.com/gitlab-org/gitlab/-/issues/348959)
+- Prototype individual aspects of the proposed architecture by exploring both new technology such as ActiveStorage, or by reworking
   existing code.
+    - [Document and refactor Workhorse upload routines](https://gitlab.com/gitlab-org/gitlab/-/issues/351657)
+    - [POC: single authorization endpoint](https://gitlab.com/gitlab-org/gitlab/-/issues/351650)
+    - [POC: ActiveStorage experiment](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/79012)
 - Identify features and configuration that should be deprecated to reduce the maintenance complexity.
+    - [Deprecate background upload](https://gitlab.com/gitlab-org/gitlab/-/issues/26600)
+    - [Object Storage: remove background upload](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/734)
+    - [Evaluate deprecation and removal of the Pseudonymizer](https://gitlab.com/gitlab-org/gitlab/-/issues/348400)
+    - [Deprecate and remove Pseudonymizer](https://gitlab.com/gitlab-org/gitlab/-/issues/219952)
 
 ## Out of scope
 
 - Make final decisions on proposed solutions.
 - Implement all proposed solutions.
 - Be a permanent custodian for or oversee Object Storage development in the future.
+
+## Outcome
+
+At the beginning of this working group, we had three main areas of
+improvement: consolidating object storage files into a single bucket,
+reducing code complexity, and removing local storage.
+
+However, it took us very little time to figure out that the biggest
+challenge for the working group members was understanding the current
+implementation and being able to speak a common language.
+
+The working group led an effort to collect and categorize all the
+usages of object storage in the product with the result of building a
+shared understanding of the problem, producing a renewed [Uploads
+Development Guide](https://docs.gitlab.com/ee/development/uploads/), and
+removing features such as Pseudonomyzer and background uploads.
+
+Consolidating object storage files into a single bucket and removing
+local storage support were assessed by the working group as excellent
+ways to reduce code complexity and simplify the product installation
+and maintenance. However, those topics require more significant
+cross-department decisions that do not fit the working group's
+scope. As a first iteration, the working group members addressed how
+to reduce code complexity by focussing on technological challenges.
+
+The creation of the [scalability frameworks
+team](/handbook/engineering/infrastructure/team/scalability/#scalabilityframeworks)
+during this working group execution provided a perfect partner to give
+continuity to this effort.  Epic
+[gitlab-com/gl-infra&733](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/733)
+describes the current roadmap.
 
 ## Roles and responsibilities
 
