@@ -127,7 +127,8 @@ As the moderator for the CS Skills Exchnage, you are responsible for identifying
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/b3b5a76a-03bb-4aa2-8ae3-4155f9bbe097" id="iY1k92X_sooG"></iframe></div>
 
-#### Webinar Moderator Responsibilities**
+#### Webinar Moderator Responsibilities
+
 
 **Prior to Webinar**
 
@@ -136,13 +137,14 @@ As the moderator for the CS Skills Exchnage, you are responsible for identifying
 
 Sample Accouncement:
 
-Hey Team! 
+> Hey Team! 
 
-Please join us for tomorrow's, < Insert Date>,  CS Skills Exchange at 10:30 AM US EST with <Name of Presenter> discussing <Copy of the session’s summary>
+> Please join us for tomorrow's, < Insert Date>,  CS Skills Exchange at 10:30 AM US EST with <Name of Presenter> discussing <Copy of the session’s summary>
 
-We hope to see you there! 
+> We hope to see you there! 
 
-**During Webinar**
+
+**During the Webinar**
 
 The moderator for each webinar should serve as the host of the call and overall wingperson for the presenter. The moderator monitors chat to raise questions to the presenter and searches for links that are mentioned on the call to make sure they get linked in the handbook page for the training.  
 
@@ -159,18 +161,19 @@ The moderator for each webinar should serve as the host of the call and overall 
 * Monitor the time. If the presentation goes longer than 20 minutes, interrupt to remind the speaker that we are at 20 minutes and we want to leave time for Q&A.
 * After the session, upload the video to  the [YouTube Unfiltered channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A). 
 
-** After the Webinar**
+
+**After the Webinar**
 
 * Upload the video to the [CS Skills Exchnage playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) in YouTubeUnfiltered
 * Post a announcement in the #ustomer-success Slack channel, and link to the YouTube video.
 
 Sample Announcement:
 
-Hey Team,  
+> Hey Team,  
 
-If you missed yesterday's CS Skills Exchange session  with <Presenter> discussing < Summary of session>, the recording is now live on YouTube!
+> If you missed yesterday's CS Skills Exchange session  with <Presenter> discussing < Summary of session>, the recording is now live on YouTube!
 
-You can find links to all previously recorded sessions on the [handbook page](https://about.gitlab.com/handbook/sales/training/customer-success-skills-exchange/#customer-success-skills-exchange-sessions) and see the team Q&A in the session [notes document](https://docs.google.com/document/d/1kchnm55N8zx8tBBsxilWadGqBndhvb5d4eG9LsSS6DA/edit?usp=sharing).
+> You can find links to all previously recorded sessions on the [handbook page](https://about.gitlab.com/handbook/sales/training/customer-success-skills-exchange/#customer-success-skills-exchange-sessions) and see the team Q&A in the session [notes document](https://docs.google.com/document/d/1kchnm55N8zx8tBBsxilWadGqBndhvb5d4eG9LsSS6DA/edit?usp=sharing).
 
-I hope y'all have a great day!
+> I hope y'all have a great day!
 
