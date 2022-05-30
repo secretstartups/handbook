@@ -38,6 +38,7 @@ The workflow for submitting a new bug or feature request is as follows.
 1. Search the [Fulfillment Issues](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues) project and check if there is an existing matching issue.
 1. If there is an existing issue, then add a link to the Zendesk ticket or internal issue so that we can continue track the impact of the issue, also ensure to include any relevant information which will help with prioritisation. 
 1. If there is no pre-existing issue then create a new request by clicking on the following [Issue Link](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new?issue&issuable_template=intake) and completing all of the relevant fields.
+1. For general guidance on adding comments and required labels for issues, please see the [Working with issues workflow](../../workflows/working-with-issues.html#adding-comments-on-existing-issues).
 1. Add the appropriate label to the issue
    - If the issue has been identified by support add the label "Support Efficiency"
    - If the issue is impacting a customer's ability to use the GitLab licensing functionality successfully then add the label "Customer::Impact" and "UX" 

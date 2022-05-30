@@ -61,6 +61,8 @@ Optional, but highly recommended:
 - [Stage](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#stage-labels)
 - `~Reproduced on GitLab.com` if applicable
 
+For L&R related issues, please see the [specific guidance on Fulfillment issues](../license-and-renewals/workflows/tracking_bugs_and_features.html).
+
 ## Escalate New and Existing Issues
 
 The Support team can directly ping the PM on the issue or in the #product Slack channel (see [DevOps Stages](/handbook/product/categories/#devops-stages)) in case this may help with communication. Comments might include asking for an update on behalf of the customer, or discussing the severity or priority especially if it needs to be increased.
