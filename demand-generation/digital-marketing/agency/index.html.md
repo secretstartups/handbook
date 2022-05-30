@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Digital Marketing Programs"
+title: "GitLab PMG Team"
+description: "The GitLab Digital Marketing team works directly with our digital agency PMG to execute all paid digital campaigns."
 ---
 
 ## On this page

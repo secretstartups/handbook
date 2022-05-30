@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Digital Marketing Programs"
+description: "The Digital Marketing team generates new prospects through paid channels by building & managing digital marketing campaigns, testing incremental changes for conversion rate improvement, and tracking campaign performance."
 ---
 
 ## On this page
