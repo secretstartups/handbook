@@ -355,6 +355,7 @@ The names of the warehouse are appended with their size (`analyst_xs` for extra 
 | `airflow_testing_l`  | For testing Airflow locally                                                                     | 30                  |
 | `analyst_*`          | These are for Data Analysts to use when querying the database or modeling data                  | 30                  |
 | `datasiren`          | This is used for the Data siren proces                                                          | 30                  |
+| `dev_x`              | This is used for development purposes, to be used when using the Snowflake UI and in CI-pipelines | 120               |
 | `engineer_*`         | These are for Data Engineers and the Manager to use when querying the database or modeling data | 30                  |
 | `fivetran_warehouse` | This is exclusively for Fivetran to use                                                         | 30                  |
 | `gainsight_xs`       | This is used for gainsight data pump                                                            | 30                  |
@@ -374,7 +375,7 @@ The names of the warehouse are appended with their size (`analyst_xs` for extra 
 | `transforming_4xl`   | These are for production dbt jobs                                                               | 60                  |
 | `usage_ping`         | This is used for the service_ping and service_ping_backfill load.                               | 120                 |
 
-If you're running into query time limits consider using a larger warehouse.
+If you're running into query time limits please check your query for optimisation. A bad performing query in development will result in a bad performing query in production, having impact on a daily basis.
 
 #### Warehouse Reporting size change
 
