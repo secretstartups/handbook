@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
-title: "Distinguished Engineer, Infrastructure"
+title: "Distinguished Engineer, Infrastructure - Job Family"
+description: "Distinguished Engineers are recognized experts in multiple technology domains within GitLab, and represent the senior technical leadership within their organization and throughout the company at large."
 ---
 
 # Distinguished Engineer Infrastructure
