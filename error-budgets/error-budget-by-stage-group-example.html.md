@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Engineering Error Budgets"
+title: "Engineering Error Budgets for Stage Groups"
+description: "Engineering Error Budget by stage groups example." 
 ---
 
 ## On this page
