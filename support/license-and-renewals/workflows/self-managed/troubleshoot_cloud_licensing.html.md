@@ -20,7 +20,7 @@ Customer was opted into cloud licensing because of a [bug](https://gitlab.com/gi
     1. Removing the current cloud license by asking the customer to run these commands via [rails console](https://docs.gitlab.com/ee/administration/operations/rails_console.html): `l = License.find 123` and then `l.destroy`. You need to provide the license number for the first command. You can find this number in the URL of the cloud license in the customersdot license menu (example: https://customers.gitlab.com/admin/license/123123123)
     1. Once the license has been removed, the customer should have the ability to upload a standard license file on their instance. 
 1. **If yes**, proceed with:
-    1. [Switching the new subscription to cloud license features](how-to-switch-a-subscription-to-cloud-license-features)
+    1. [Switching the new subscription to cloud license features](#how-to-switch-a-subscription-to-cloud-license-features)
     1. Removing the current cloud license by asking the customer to run these commands via [rails console](https://docs.gitlab.com/ee/administration/operations/rails_console.html): `l = License.find 123` and then `l.destroy`. You need to provide the license number for the first command. You can find this number in the URL of the cloud license in the customersdot license menu (example: https://customers.gitlab.com/admin/license/123123123)
     1. Once the license has been removed, the customer should be able to input the new activation code that was generated and emailed to them when you switched the subscription to cloud features.
     1. [See example ticket where customer did want to be on cloud licensing](https://gitlab.zendesk.com/agent/tickets/236163)
