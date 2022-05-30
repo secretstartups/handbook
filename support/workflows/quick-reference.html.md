@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Support Quick Reference
-description: "Quick reference guide for GitLab Support workflows"
+title: SaaS Tier for Support Quick Reference
+description: "Quick reference for Support to determine tier requirement for SaaS Account and other common requests"
 ---
 
 ## On this page
@@ -10,24 +10,26 @@ description: "Quick reference guide for GitLab Support workflows"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Tools Used by Request Type
+## SaaS tier requirement for SaaS Account and common requests
 
-The following table contains links to the various tools you may need to use in order to follow the workflows above.
+Unpaid users get limited support [as outlined in the statement of support](/support/statement-of-support/#free-users).
+Most of the requests are related to user accounts through the "SaaS Account" ticket form.
 
-| Request               | [Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) | [API Username Lookup](https://gitlab.com/api/v4/users?search=emal@email.com) | [GitLab.com Admin](https://gitlab.com/admin/users?utf8=%E2%9C%93&search_query=email@example.com) | [CustomersDot - Admin](https://customers.gitlab.com/admin/) | [Mailgun](https://app.mailgun.com/app/logs/mg.gitlab.com?date_from=2018-11-08T00%3A00%3A00.000Z&date_to=2018-11-14T23%3A59%3A59.999Z&sort=datetime%3Adesc) |
-| ------- |:------:|:------:|:------:|:------:|:------:|
-| 2FA | X | X | X |   |   |
-| Password Reset |   | X | X |   | X |
-| Invoice Request |   |   |   | X |   |
-| Change Credit Card |   |   |   | X |   |
-| Cancel Trial |   |    |   | X |   |
-| Cancel + Refund |   |    |   | X |   |
-| Dormant Username |   | X | X |   |   |
-| Blocked by Security |   |   |   |   |   |
-|                     |   |   |   |   |   |
+The following table is meant to be a helpful quick reference.
+However, the source of truth in order:
 
-#### Tools Tips
+- [Public Support page](/support/#gitlabcom-specific-support-policies)
+- [Statement of support page](/support/statement-of-support/#free-users)
+- [Individual workflows](index.html#gitlab-com)
 
-* [API Username Lookup](https://gitlab.com/api/v4/users?search=emal@email.com): Use in Firefox for an easier to read, parsed output
-* [CustomersDot - Admin](https://customers.gitlab.com/admin/): Shared login, password in vault.
-* [Mailgun](https://app.mailgun.com/app/logs/mg.gitlab.com): Shared login, password in vault. Make sure you switch the log view to `mg.gitlab.com`
+| Request type  | Available to Unpaid users | Notes |
+| ------- | ------- |------- |
+| [2FA](account_verification.html#self-service-2fa-removal) | [No](/support/#account-recovery-and-2fa-resets) | See [gitlab&3783](https://gitlab.com/groups/gitlab-org/-/epics/3783) |
+| [Account Blocked](reinstating-blocked-accounts.html) | Yes |  |
+| [Data Restoration](restore_requests.html) | [No](/support/#restoration-of-deleted-data) | See [gitlab#357175](https://gitlab.com/gitlab-org/gitlab/-/issues/357175) |
+| [Email release](account_changes.html#releasing-an-email-address) | Yes | See [gitlab#352514](https://gitlab.com/gitlab-org/gitlab/-/issues/352514) |
+| [Email typo](confirmation_emails.html#typo-fix) | No | See [gitlab#325525](https://gitlab.com/gitlab-org/gitlab/-/issues/325525) & [gitlab#350498](https://gitlab.com/gitlab-org/gitlab/-/issues/350498) |
+| [Emails not received](confirmation_emails.html#removing-a-suppression-in-zendesk) | Yes | See also [gitlab#16311](https://gitlab.com/gitlab-org/gitlab/-/issues/16311) |
+| [Log request](log_requests.html) | [Only if GitLab initiated](/support/statement-of-support/#free-users) |  |
+| [Namesquat release](namesquatting_policy.html) | [No](/support/#name-squatting-policy) |  |
+| Trial Cancellation | No | See [customers#3470](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3470) |

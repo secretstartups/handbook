@@ -36,7 +36,7 @@ Requester must be a Group Owner of a pre-existing paid namespace.
 
 ### Free Users
 
-Free users can make requests about IP Blocks/rate-limiting only and an IP address must be supplied.
+Free users should reference [GitLab.com rate limits documentation](https://docs.gitlab.com/ee/user/gitlab_com/#gitlabcom-specific-rate-limits). Support will provide information [when GitLab initiates contact due to an incident](/support/statement-of-support/#free-users).
 
 ## What we can provide
 
@@ -67,7 +67,7 @@ Any [PII](https://about.gitlab.com/handbook/support/workflows/pii_removal_reques
 - The password protected file should be attached to the ZenDesk ticket, and the password needs to be sent separately through your email account directly to the customer's email address.
 - Once the customer had successfully received and opened the files you should delete the pulled data from your computer and the email from your mailbox.
 
-In case you need to share the data pull results internally, such as in an internal issue, upload the files to Google Drive, such as the [Support Ticket Attachments folder](https://drive.google.com/drive/folders/1RpCb_li2RTYsE8GnVFExCux3QpZ2i0TD) (internal).  
+In case you need to share the data pull results internally, such as in an internal issue, upload the files to Google Drive, such as the [Support Ticket Attachments folder](https://drive.google.com/drive/folders/1RpCb_li2RTYsE8GnVFExCux3QpZ2i0TD) (internal).
 
 ## Examples
 
