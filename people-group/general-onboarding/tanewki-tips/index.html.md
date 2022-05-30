@@ -85,6 +85,12 @@ As point 36 on our [communication handbook page](https://about.gitlab.com/handbo
 | SIRT | Security Incident Response Team |
 | TMRG | [Team Member Resource Group](https://about.gitlab.com/company/culture/inclusion/#tmrgs---team-member-resource-groups) |
 
+**Engineering Related Acronyms**
+
+| Acronym| Word/Saying/Title | 
+|:---------------|:---------------|
+| MWPS | Merge When Pipeline Succeeds | 
+
 **People Group Related Acronyms**
 
 | Acronym| Word/Saying/Title | 
