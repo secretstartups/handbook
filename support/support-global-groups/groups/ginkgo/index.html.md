@@ -31,13 +31,16 @@ EMEA/AMER friendly crush sessions are held every weekday from 14:30 to 15:30 UTC
 
 **Goal**:
  
-Clear out FRTs and NRTs as a group. FRT taking priority.
+Meet as a group and work toward our [Definition of Success](../index.html.md#success-of-their-group-means).
 
 **Guidelines**:
- 
+
+Crush Sessions are usually a good opportunity to "crush" the FRT/NRT queues by working on tickets using a top down approach. E.g., the group picks up the next ticket closest to a breach and works together to drive it toward a resolution.
+Crush Sessions are **not** meant as a substitute for monitoring our FRT/NRT queues throughout the day. Tickets can and certainly will breach between crush sessions if we don't monitor our queues during our respective work hours. 
+
 Unassigned tickets will be assigned based on a round robin of the attendants, their support region, and current capacity. The standard [Working on Tickets](../../../workflows/working-on-tickets.html) workflow still applies. 
 
-These are just guidelines. Someone overloaded may opt out of the round robin and remain in the crush session to assist.
+_**These are just guidelines**_. If you feel overloaded, you should opt out of the round robin and remain in the crush session to assist. Let your colleagues know as you join the Crush Session, e.g., "I can't take on tickets today, but I'd love to help with internal comments and the like."
 
 **Location**:
 
