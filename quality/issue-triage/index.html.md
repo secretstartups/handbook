@@ -40,14 +40,18 @@ An issue is considered completely triaged when all of the following criteria are
 
 ## Priority
 
-The priority label is used to indicate the importance and guide the scheduling of the issue. Priority labels are expected to be adjusted by the Product Manager based on the circumstances of the market, product direction, IACV impact, number of impacted users and capacity of the team.
+The priority label is used to indicate the importance and guide the scheduling of the issue. Priority labels are expected to be set based on the circumstances of the market, product direction, IACV impact, number of impacted users and capacity of the team. [DRIs](/handbook/people-group/directly-responsible-individuals/) for prioritization are based on work type:
+
+* Feature - Product Manager (PM)
+* Maintenance - Engineering Manager (EM)
+* Bug - Quality Engineering Manager (QEM)
 
 | Priority | Importance | Intention | DRI |
 | -------- | ---------- | --------- | --- |
-| `~priority::1` | Urgent | We will address this as soon as possible regardless of the limit on our team capacity. Our target resolution time is 30 days.                 | PM of that product group |
-| `~priority::2` | High   | We will address this soon and will provide capacity from our team for it in the next few releases. This will likely get resolved in 60-90 days. | PM of that product group |
-| `~priority::3` | Medium | We want to address this but may have other higher priority items. No timeline designated.                                  | PM of that product group |
-| `~priority::4` | Low    | We don't have visibility when this will be addressed. No timeline designated.                                          | PM of that product group |
+| `~priority::1` | Urgent | We will address this as soon as possible regardless of the limit on our team capacity. Our target resolution time is 30 days.                 | PM, EM, or QEM of that product group, based on work type |
+| `~priority::2` | High   | We will address this soon and will provide capacity from our team for it in the next few releases. This will likely get resolved in 60-90 days. | PM, EM, or QEM of that product group, based on work type |
+| `~priority::3` | Medium | We want to address this but may have other higher priority items. No timeline designated.                                  | PM, EM, or QEM of that product group, based on work type |
+| `~priority::4` | Low    | We don't have visibility when this will be addressed. No timeline designated.                                          | PM, EM, or QEM of that product group, based on work type |
 
 ## Severity
 
@@ -102,7 +106,7 @@ If a issue seems to fall between two severity labels, assign it to the higher se
 
 ### Availability
 
-Issues with `~availability` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~"type::bug"`. 
+Issues with `~availability` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~"type::bug"`.
 
 For the purposes of [Incident Management](/handbook/engineering/infrastructure/incident-management/), incident issue severities are chosen based on the `availability` severity matrix below.
 
@@ -194,7 +198,7 @@ We encourage performance improvements to be broken down. Improve where we can an
 #### SUS-impacting
 Some UX-related issues are identified as impacting our [System Usability Scale (SUS) score](/handbook/engineering/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](/company/strategy/#three-year-strategy). We identify SUS-impacting issues with at least one of the labels listed in the [Total open SUS-impacting issues by severity](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/#total-open-sus-impacting-issues-by-severity) UX KPI. If one of these labels is applied, the tracking label `"~SUS::Impacting"` will automatically be added. These issues can have a severity label applied *with* or *without* an accompanying `~"type::bug"` label. For issues with `type::bug`, they follow the [severity](/handbook/engineering/quality/issue-triage/#severity) and [SLOs](/handbook/engineering/quality/issue-triage/#severity-slos) for `type::bug` issues. Issues without `type::bug` are without SLO.
 
-##### SUS-Impacting non-`type::bug` Severity 
+##### SUS-Impacting non-`type::bug` Severity
 
 | `SUS` issue severity without `type::bug` label | Allowed priorities | Recommended delivery |
 |-|-|-|
