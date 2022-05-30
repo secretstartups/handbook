@@ -268,6 +268,31 @@ To get started, here is a quick tour of what the O’Reilly Learning Platform ca
 
 If you do not already have a login are outside of the customer success organization, please let the Corproate Learning and Development Team know you are interested. You can also purchase a single licesne with the GitLab pricing by contacting Jason Baca at jbaca@oreilly.com. 
 
+### O'Reilly Answer Slack Bot 
+
+As part of GitLab's O'Reilly subscrition, team members have access to the O'Reilly Answer Slack Bot. To get started, in Slack, just type /oreilly-answers followed by your tech question. It’s that simple. 
+
+For example:
+- /oreilly-answers How do I fine-tune a model?
+- O’Reilly Answers will respond to your question with highly relevant snippets of content right within Slack.
+
+**More Answers**
+
+Use the “More Answers” button to flip through the suggested answers. O'Reilly will show a maximum of 8 possible answers and you’ll be taken back to the first answer when you get to the end.
+
+**Full Text**
+
+To read the full text of an answer in context click the “Full Text” button and you’ll be taken directly to that snippet of content within the O’Reilly Learning platform.
+
+**Share Answers**
+
+To share a helpful answer with others in Slack click the “Post” button and the answer you selected will be posted to the channel where you asked the question.
+
+If you want to share an answer in a private channel you’ll need to invite the O’Reilly Answers app to the channel first. Simply type: /invite @O’Reilly Answers
+
+If you want to share an answer in a direct message you’ll need to create a group message and include O’Reilly Answers in the group. You can add O’Reilly Answers the same way you would add another person.
+
+
 ## Additional Resources
 
 - [Field Enablement Handbook Page](/handbook/sales/field-operations/field-enablement/)
