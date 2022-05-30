@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| May 26 | ROI Calculators | Cindy B.  |
+| May 26 |  |   |
 | Jun 2 | Q2 FY23 Channel Update | TBD  |
 | Jun 9 | TBD | TBD  |
 | Jun 16 | TBD | TBD  |
