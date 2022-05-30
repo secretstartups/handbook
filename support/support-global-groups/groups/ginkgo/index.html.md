@@ -19,7 +19,8 @@ Introductory text, logos, or whatever the group wants here
 
 ## Ginkgo resources
 
-- Our Slack Channel: [spt_gg_ginkgo](https://gitlab.slack.com/archives/C0354N9B14G)
+- Our Slack Channel: [#spt_gg_ginkgo](https://gitlab.slack.com/archives/C0354N9B14G)
+  - As a member of the Ginkgo group, consider [changing your notifications settings](#slack-notifications) to allow for better collaboration.
 - Our Team: [Ginkgo Members](https://gitlab-com.gitlab.io/support/team/sgg.html?search=ginkgo)
 
 ## Ginkgo workflows and processes
@@ -41,3 +42,12 @@ These are just guidelines. Someone overloaded may opt out of the round robin and
 **Location**:
 
 These meetings will be held in the Gingko Collab Room, which can be found in the bookmarks of Our Slack Channel, [#spt_gg_ginkgo](https://gitlab.slack.com/archives/C0354N9B14G).
+
+#### Slack notifications
+
+To update your notification settings on Slack:
+1. In Slack, right click on our channel [#spt_gg_ginkgo](https://gitlab.slack.com/archives/C0354N9B14G)
+2. Choose **Change notifications**
+3. Change **Send a notification for** to **All new messages**
+4. Save Changes
+
