@@ -648,6 +648,7 @@ irb(main):749:0>  container_registry_storage_usage('some-group') ; nil
 ### Manually changing attributes
 
 When changing attributes on a specific order manually, please keep in mind that most attributes are tied to the purchase of a subscription.
+After any changes, remember that you need to sync the changes to GitLab.com.
 
 For a purchase, these are the only attributes you should be editing:
 
