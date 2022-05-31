@@ -409,7 +409,7 @@ To create the contract:
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract). See steps 10-12.
 
-## Preparing Employment Agreements for GitLab team-members employed via Global Upside
+## Preparing Employment Agreements for GitLab team members employed via Global Upside
 
 GitLab is working in partnership with [Global Upside](https://globalupside.com) for employing GitLab team-members located in:
 - India
@@ -481,7 +481,7 @@ To create the contract:
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 
 
-## Employment Agreements for GitLab team-members in China
+## Employment Agreements for GitLab team members in China
 
 GitLab is working in partnership with [CIIC](http://www.ciicsh.com/ciicsh/ywsy/index.html) to employ GitLab team-members located in China. Signed agreements between GitLab and CIIC are required to employ any new hire. Therefore, there will be a lead time of approximately three weeks prior to starting. As soon as it becomes clear that an offer to a candidate is going to be made, People Ops will reach out to CIIC to begin the process. The process for preparing the agreements between all parties is as follows:
 
@@ -508,39 +508,23 @@ GitLab is working in partnership with [CIIC](http://www.ciicsh.com/ciicsh/ywsy/i
 
 Once the Labor Contract has been signed by both CIIC and the new hire the individual can now commence their work with GitLab.
 
-## Employment Agreements for GitLab team-members in Germany
+## Employment Agreements for GitLab team members in Germany
 
 Please note, due to German labor law, the stock options are not included in the contract template and are not to be listed on the contract. If the candidate asks specifically for this information to be listed on the contract, please seek guidance from the CES Team Lead and/or Legal. 
 
-It is important that the start date for German new hires is far enough out that we are able to mail the contract out for wet signature. If there is a candidate that is able to start within 2 weeks, the electronic DocuSign can suffice as an intent to sign the contract, however, the contract should be sent out with a reasonable amount of time before the start date to ensure it is signed and sent back in a timely manner. 
+German contracts require Qualified Electronic Signature (QES), which is a feature now available to People Team members in DocuSign. To send a contract with QES, select "edit recipients" in DocuSign when editing your contract, select "customize", and choose "select signature type". Select IDNow - EU Qualified. You should select this for **both** signatories. Do not select this for anyone who is CC'ed.
 
-A wet signature is required for German employment agreements the following process must be followed:
+This additional step will require signatories to present government issued identification to the IDNow team when signing their contract. 
 
-1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring/).
-1. Ensure the start date is a either a Monday OR the 1st or 16th of the month. 
-1. The Candidate Experience Specialist sends the new team member the GreenHouse email template: German Contract Step 1.
-1. The Candidate Experience Specialist generates the German Contract form out of GreenHouse and stages for signature though GreenHouse and DocuSign. The Talent Acquisition Manager or the Senior Director of People Success (as listed on the signatory chart above) signs the German Contract.
-1. The Candidate Experience Specialist saves the unsigned contract to be used in a future step. It may require a manual edit to remove the signature tokens.
-1. Once the DocuSign contract is signed you may hire the candidate and send the Welcome Email in Greenhouse.
-1. Using the Greenhouse email template "German Contract to Mail" the Candidate Experience Specialist emails the unsigned contract to a Talent Acquisition Manager, or the Talent Acquisition Director or CPO as backup. Be sure to attach the unsigned contract to that email.
-   Information that will auto populate in the email includes;
-   * German Power of Attorney (POA) document (Google Drive: Employee and Contractor Templates and Staging => German Contracts)
-   * new team member's name
-   * new team member's name address
-1. The CES will then add the candidates name to the [Germany Contracts Tracker](https://docs.google.com/spreadsheets/d/1AQLbzI1S9m8rftWaQMDl5p8YKXufpaeJtVFzumH0scw/edit?usp=sharing). 
-1. The Talent Acquisition Manager or the VP of Talent Acquisition will print two copies of the unsigned contract, sign and then send them to the new team member by postal service or FedEx (details of the fedex account can be found in 1Password => Secretarial Vault => Fedex).
-1. Once the documents have been sent, the Talent Acquisition Manager will notify the CES team or the CES team member will follow up with the Talent Acquisition manager.
-1. The Candidate Experience Specialist should set a Greenhouse reminder for 1 week time to follow-up with the new team member if they have not received an update.
-1. When the new team member has emailed stating they received and signed the paper version, the Candidate Experience Specialist will email them back the GreenHouse email template German Contract Step 2.
-1. Once the law firm has received the contract they will scan and email a copy to People Operations Specialist to file in BambooHR.
+If you cannot find the QES option on your DocuSign, you may need to switch your open account. Select your name in the upper right corner of DocuSign. If it says the account is "GitLab Main", switch your access to your PeopleOps account. If you do not see another account, please check with Enablement. 
 
-## Employment Agreements for GitLab team-members in Japan
+## Employment Agreements for GitLab team members in Japan
 
 GitLab has an entity in Japan (GitLab GK) and use the GitLab GK contracts in this location. All team members in this location are employees.
 
 Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 
-## Employment Agreements for GitLab team-members located everywhere else (IT BV contractor agreements)
+## Employment Agreements for GitLab team members located everywhere else (IT BV contractor agreements)
 
 1. Review the [Hiring Status](/handbook/people-group/employment-solutions/#country-hiring-guidelines) of the location you are working with. If the location has not been evaluated yet, we issue a IT BV contractor agreement.
 1. If the candidate would like to use their own entity for the contractor agreement update the offer details with the Contractor Name and Address. You will use the IT BV Contractor Agreement - C2C in these cases.
