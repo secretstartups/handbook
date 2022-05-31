@@ -217,18 +217,36 @@ Additional responsibility that Delivery SRE's are tasked with is ensuring shorte
 ### Scalability
 
 SRE's with Scalability specialization focus primarily on the application side of GitLab running on GitLab.com, through improving
-the architecture as GitLab.com continues growing. They have a strong development background (expected to
-continuously contribute to GitLab codebases), and have a good grasp on observability and systems operations.
+the architecture as GitLab.com continues growing. They work to provide data to development teams to enable them to prioritize 
+reliability and performance improvements through application changes and improved use of the infrastructure resources
+available on GitLab.com.
+
+They have a strong development background (expected to continuously contribute to GitLab codebases), and have a good grasp of 
+observability and systems operations.
+
+SREs in Scalability operate on a long-term horizon. We aim to prevent future large S1 incidents by making sure that we have
+a system that can scale to meet demand. 
 
 #### Responsibilities
 
 1. Analyse existing, create and maintain new GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective).
-1. Define, improve, and engage in adapting architectural application bottlenecks as observed on GitLab.com.
-1. Troubleshoot, evaluate and resolve operational challenges contributing to defined SLO's.
-1. Work with other engineering stakeholders on resolving larger architectural bottlenecks and participate through GitLab.com point of view.
-1. Work in close collaboration with software development teams to shape the future roadmap and establish strong operational readiness across teams.
-1. Scale systems through automation, improving change velocity and reliability.
-1. Leverage technical skills to partner with team members and be comfortable diving into a problem as needed.
+2. Troubleshoot, evaluate and resolve operational challenges contributing to defined SLOs.
+3. Define, improve, and engage in adapting architectural application bottlenecks as observed on GitLab.com.
+4. Work with other engineering stakeholders on resolving larger architectural bottlenecks and participate through GitLab.com point of view.
+5. Work in close collaboration with software development teams to consult on scaling concerns. 
+6. Contribute to the future roadmap of software development teams and establish strong operational readiness across teams.
+7. Scale systems through automation, improving change velocity and reliability.
+8. Leverage technical skills to partner with team members and be comfortable diving into a problem as needed.
+9. Work to enable other teams to scale through automation, knowledge-sharing, and self-service activities.
+
+In each of these responsibilities, we focus on the long-term mindset required to harden our systems for growth. 
+
+#### On-call Alignment
+
+SREs in Scalability are expected to be part of the on-call rotation. 
+
+Further details about Scalability SRE's involvement with incidents is available on 
+the [team handbook page](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#engagement-with-incidents).
 
 ### Environment Automation
 
