@@ -25,7 +25,7 @@ The Learning & Development team has a number of resources to help team members l
   <div>
     <a href="/handbook/people-group/learning-and-development/manager-challenge/" class="btn btn-purple" style="width:200px;margin:5px;">Manager Challenge</a>
     <a href="/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/" class="btn btn-purple" style="width:200px;margin:5px;">Leadership Chats</a>
-    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">New Manager Resources</a>
+    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Initiatives</a>
   </div>
 </div>
 
@@ -48,7 +48,7 @@ The Learning & Development team has a number of resources to help team members l
 <div class="flex-row" markdown="0">
   <div>
     <a href="/handbook/sales/field-manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Field Manager Development</a>
-    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Initiatives</a>
+    <a href="/handbook/people-group/learning-and-development/self-paced-learning/" class="btn btn-purple" style="width:200px;margin:5px;">Self Paced Learning</a>
     <a href="/handbook/leadership/life-labs-learning/" class="btn btn-purple" style="width:200px;margin:5px;">LifeLabs Learning</a>
   </div>
 </div>
@@ -125,10 +125,9 @@ Internally, the GitLab People Group uses a calendar to track cross-funcational e
 
 We are a small team, but we've got a big role to play at GitLab! 
 
-* [Learning and Development Manager](/job-families/people-ops/learning-development/#learning--development-manager): 
+* [Learning and Development Director](/job-families/people-ops/learning-development/#learning--development-manager): [Satu Salminen](/company/team/#ssalminen)
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jacie Bandur](/company/team/#jbandur)
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Samantha Lee](/company/team/#slee24)
-* [Instructional Designer](/job-families/people-ops/instructional-designer/): [Irina Grosu](https://about.gitlab.com/company/team/#irinagrosu)
 * [Learning System Administrator](/job-families/people-ops/learning-system-administrator/): [Jamie Allen](https://about.gitlab.com/company/team/#jallen16)
 
 ## Contact Us
