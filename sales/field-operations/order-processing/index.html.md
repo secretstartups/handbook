@@ -214,6 +214,7 @@ The below process applies to any existing customers with an active subscription 
 **Opportunity Creation:**
 - On the date the reconciliation email is sent to the customer warning them of the planned QSR, an open Opportunity is created in Salesforce with the title: "[Account Name] - QSR - [Effective Date]"
   - Amount = Invoice Amount
+  - Net ARR = Estimated Based on Invoice Amount
   - Stage = 2-Scoping
   - Close Date = Date of planned closure (7 days from opportunity creation)
 
@@ -254,6 +255,8 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
   - Please open a [Legal Request](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) case to discuss potential edits to the language with the Legal Team.   
 4. **How can I tell if Auto-Renewal or Quarterly Subscription Reconciliation are enabled on a subscription?**
   - Navigate to the SFDC Account, and click on the "Subscriptions" related list. Select the subscription in question, and review the "Auto-Renewal" and "Quarterly Reconciliation" fields. If these are marked "Yes," then these processes apply to the subscription. If these fields are marked "No" or are blank, these processes will not occur for this subscription.
+5. **A QSR opportunity was opened automatically, but my customer was never charged, and the opportunity never closed. What do I do?**
+  - In most cases, if a QSR opportunity is opened but is not closed within 14 days after creation, that means the QSR failed and the opportunity should be closed as duplicate.
 
 #### Resources
 
