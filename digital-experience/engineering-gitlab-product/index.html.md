@@ -47,3 +47,12 @@ Complete the Snowplow onboarding tasks
 
   4. [Use the login credentials found here and learn more GDK commands](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/gdk_commands.md)
   5. [Read how to use GDK documentation](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/index.md)
+
+### Slack Channels
+
+Here are some slack channels to ask for help:
+
+* [#gdk](https://gitlab.slack.com/archives/C2Z9A056E) 
+* [#backend](https://gitlab.slack.com/archives/C8HG8D9MY) 
+* [#development](https://gitlab.slack.com/archives/C02PF508L)
+* [#frontend](https://gitlab.slack.com/archives/C0GQHHPGW)
