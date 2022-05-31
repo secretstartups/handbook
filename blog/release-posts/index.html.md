@@ -959,21 +959,28 @@ Should you prefer to continue to contribute to an issue under active development
 
 The Release Post Manager will solicit MVP nominations via an [MVP Issue](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md#L45) and [instructions in the Release Post MR](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md#L246).
 
-The Release Post Manager will choose an MVP from the nominations and conversation. They should not wait for consensus. There can only be one MVP.
+#### Process and eligibility
 
-The MVP will be prized with a gift from GitLab, usually a swag pack. :)
+- The Release Post Manager will choose an MVP based on feedback in the MVP Issue.
+- They should not wait for consensus.
+- There can only be one MVP per release post.
+- A contributor is eligible to be MVP once per two major release cycles. For example, if they are MVP during any 13.\* milestone, they cannot be an MVP during any 14.\* milestone.
+- The MVP will receive a GitLab swag pack in celebration of their contribution.
 
-**Important**: the MVP section should briefly describe what the feature is about,
-link to the GitLab profile of the MVP, and link to the issue, MR, issue board, or
-epic that introduced the change that awarded by the MVP.
-If it is a major feature, it must be accompanied by a content block with a more
-detailed description linked from the MVP section. The MVP feature, as well as
-any other feature, regardless of who shipped it, must be documented and linked
-to the docs.
+#### MVP content block
+
+The MVP section should contain:
+
+- A brief description of the feature.
+- A link to the GitLab profile of the MVP.
+- A link to the issue, MR, issue board, or epic that introduced the change by the MVP.
+
+If it is a major feature, it must be accompanied by:
+
+- A `top`, `primary`, or `secondary` feature content block.
+- A link to the the content block from the MVP section.
+- A link to any relevant documentation.
 {:.alert .alert-warning}
-
-**Important**: Remember to update `data/mvps.yml` with the new MVP.
-{:.alert .alert-info}
 
 ### Features
 
