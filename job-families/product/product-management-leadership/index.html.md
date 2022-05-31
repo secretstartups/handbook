@@ -189,6 +189,9 @@ The Senior Director of Product Management, Ops is the PM DRI for the Ops parts o
 [DevOps lifecycle](/handbook/product/categories/#ops-section)
 (e.g. Monitor, Configure, Verify, Package, and Release) and reports to the VP of Product.
 
+##### Monetization & Operations
+The Senior Director of Product Management, Monetization & Operations is the PM DRI for [Fulfillment](https://about.gitlab.com/handbook/product/categories/#fulfillment-section), Pricing, [Product Operations](https://about.gitlab.com/handbook/product/product-operations/), and [Product Analysis](https://about.gitlab.com/handbook/product/product-analysis/) and reports to the VP of Product.
+
 #### Senior Director of Product Management - Hiring Process
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. 
 
