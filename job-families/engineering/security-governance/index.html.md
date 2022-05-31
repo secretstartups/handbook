@@ -5,10 +5,10 @@ description: "Security Governance professionals at GitLab focus on our security 
 extra_js:
 - libs/mermaid.min.js
 ---
-As members of GitLab's [Security Assurance sub department](/handbook/engineering/security/security-assurance/security-assurance.html), it is the goal of the [Security Governance](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/Governance/) function to: 
+As members of GitLab's [Security Assurance sub department](/handbook/engineering/security/security-assurance/), it is the goal of the [Security Governance](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/Governance/) function to: 
 
 * Provide oversight and coordination of security policies, procedures, metrics and internally facing training
-* Ensure security documentation upholds Gitlab's security governance framework through monitoring of the regualtory and compliance landscapes applicable to GitLab and our stakeholders. 
+* Ensure security documentation upholds Gitlab's security governance framework through monitoring of the regulatory and compliance landscapes applicable to GitLab and our stakeholders. 
 * Administer and monitor Security Assurance technologies
 
 Security Governance professionals at GitLab focus on oversight of our security assurance programs and are proficient in all things regulatory. They have a tight partnership with the externally facing Field Security team, are comfortable operating within our transparent assurance programs and understand how security works with cloud-native technology stacks.
@@ -16,7 +16,7 @@ Security Governance professionals at GitLab focus on oversight of our security a
 ## Responsibilities
 * Professionally handle communications with internal and external stakeholders
 * Maintain up-to-date knowledge of GitLab's product, environment, systems and architecture
-* Educate internal stakeholders on GitLab's Security practicies through formal and informational trainings, handbook improvements and security awareness campaigns 
+* Educate internal stakeholders on GitLab's Security practices through formal and informational trainings, handbook improvements and security awareness campaigns 
 * Gather and report on established metrics within the Security Assurance programs
 
 ## Requirements
@@ -80,7 +80,7 @@ The {Manager, Governance and Field Security} is a [grade 8](/handbook/total-rewa
 * Hold regular 1:1s with team members
 * Build a strong, collaborative partnership with Security, Training, Legal, Infrastructure, Sales and Product teams
 * Manage a robust governance program, to include oversight of security policies, security training and awareness programs
-* Manage a robust field security program, to include oversight of security RFP databases, customer assurance and security evangilization activites
+* Manage a robust field security program, to include oversight of security RFP databases, customer assurance and security evangelization activities
 * Assess and promote customer concerns, industry trends and changing regulatory requirements and appropriately adjust the scope to accommodate these changes
 * Oversee deployment and promote continuous improvement of Security Assurance technologies, automations and integrations
 * Present a minimum of 3 external facing engagements per annum, ex: Commit, SKO, conferences, guest speaking engagements, blog posts, whitepapers
@@ -115,6 +115,27 @@ The {Senior Manager, Governance and Field Security} is a [grade 9](/handbook/tot
 * Outstanding communication skills, including verbal, written, and presentation skills to a variety of stakeholders
 * Expert knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
 
+## Specialties
+### Security Automation - Security Assurance Operations
+This role is interconnected with GitLab's [Security Automation team](https://about.gitlab.com/job-families/engineering/security-engineer/#security-automation), this specialty is explicitly focused on the development and automation of Security Assurance processes and controls. 
+
+#### Security Automation - Security Assurance Operations Requirements
+* Previous experience on or supporting Security Governance, Risk, Compliance or Field Security teams.
+* Scripting/coding experience with one or more languages - Python, Ruby, and/or Golang experience a plus
+* Experience operating with GRC applications (ex: ZenGRC, ServiceNow, AuditBoard)
+
+#### Security Automation - Security Assurance Operations Responsibilities
+* Collaborate with Security Assurance stakeholders on their automation roadmap, understand their operational processes and assist with developing technical solutions to scale critical business operations
+* Design, engineer, deploy, and maintain custom automation products
+* Participate in end-to-end activities related to implementation planning including assessments, integrations, enhancements, and maintenance with various systems
+* Onboard, configure and maintain third party applications and integrations to those applications
+* Automate and monitor Key Performance Indicators and metrics for the Security Assurance sub-department
+* Collaborate with Product and Engineering in influencing product roadmaps related to security and compliance
+* Identify and deploy dogfooding opportunities associated with the deployment and use of the GitLab product
+* Collaborate with stakeholders to develop and report upon a visible project plan
+* Escalate issues and competing priorities with the potential to impact delivery
+* Clearly document the result of automation activities for training and scalable use
+
 ## Segment
 ### Security Leadership
 For details on the Security organization leadership roles, to include the Security Assurance Director and VP of Security, see the Security Leadership page.
@@ -134,8 +155,8 @@ For details on the Security organization leadership roles, to include the Securi
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 50-minute interviews with the hiring manager, 
-* Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security orgnaization,
+* Next, candidates will be invited to schedule a 50-minute interview with the hiring manager, 
+* Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security organization,
 * Finally, candidates will be invited to schedule a 25-minute interview with the Director, Security Assurance.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
