@@ -71,33 +71,9 @@ If in doubt of how to engage or wish to informally ask, simply send a message to
 * [Google Drive Folder with Slide Decks](https://drive.google.com/drive/folders/1qY4KCTAM26VEmUPPcKFS8EdK1p3McxU_)
 * [Development Roadmap](https://drive.google.com/drive/folders/1W1861aFWo8XBoBYbI95FbRX6zDS2bsAr)
 
-### Background Context
-
 The Access Manager Engineering team focuses on Identity and Access Management (IAM) and Role-Based Access Control (RBAC) automation for all of [GitLab's tech stack applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/).
 
-In FY21-Q4, we launched the [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/), powered by [HackyStack](https://gitlab.com/hackystack/hackystack-portal) to automate the provisioning of AWS acccounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
-
-In FY22-Q3, we launched the initial technical discovery and custom development prototype of GitLab Access Manager (codename "Project FastPass") that will eventually replace access request issues and manual provisioning with a streamlined custom web UI and API integration with all of our tech stack applications for user and role provisioning. It is expected that the first phase of GitLab Access Manager will launch in late FY22, and we are considering releasing Access Manager as an open source tool in the future.
-
-### Current State
-
-You can track the real-time progress in the [Project FastPass Issue Tracker](https://gitlab.com/gitlab-com/business-technology/engineering/access-manager/issue-tracker/-/issues).
-
-The GitLab Access Manager documentation draft is available at [https://docs.access.gitlabenvironment.cloud](https://docs.access.gitlabenvironment.cloud) for internal education and security compliance review. 
-
-The application is in the early stages of design and development and does not have a live preview of functioning version yet.
-
-### Future State
-
-Access Manager is a custom full stack application built by the GitLab Business Technology team ("IT") that provides a user interface ("UI") for team members, managers, access approvers, audit reviewers, and IT administrators to centrally approve and manage role-based access to the directory of tech stack applications ("SaaS providers").
-
-Access Manager has back-end automation that uses the API for each SaaS provider to automate user account and role provisioning (after approval) and has scheduled deprovisioning of user accounts based on expiration or offboarding date.
-
-There are several additional features for streamlining access/audit reviews and compliance reporting using the UI, API, or CSV exports.
-
-In other words, the functionality of the application focuses on the automation and auditability of the lifecycle of Identity and Access Management ("IAM") and Role Based Access Control ("RBAC") for team members and our tech stack applications.
-
-It is important to distinguish that Access Manager automates the provisioning process for SaaS Provider systems behind the scenes, and users still use Okta as our single sign-on identity provider. For SaaS Providers that do not support Okta authentication, Access Manager uses the API to provision a local authentication username and password that is automatically deprovisioned when the team member access expires or is offboarded.
+See the [Access Manager Handbook Page](/handbook/it/access-manager) to learn more.
 
 ## Enterprise Applications and Integrations Engineering
 

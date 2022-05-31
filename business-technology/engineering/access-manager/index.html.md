@@ -11,3 +11,5 @@ description: "The Business Technology Engineering team develops custom applicati
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+This page has moved to [/handbook/it/access-manager](/handbook/it/access-manager).

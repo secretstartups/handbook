@@ -17,5 +17,5 @@ This is a placeholder for the next iteration of the IT Engineering Access Manage
 In the interim, please visit the following links:
 * [Access Management Policy](/handbook/engineering/security/access-management-policy.html)
 * [Access Requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues)
-* [Business Technology Engineering - Access Manager](/handbook/business-technology/engineering/#access-manager-engineering)
+* [Access Manager](/handbook/it/access-manager)
 * [Okta](/handbook/business-technology/okta)
