@@ -157,7 +157,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | ---------- | ------------------------------------------------------------ |
 | **SaaS Subscription Related (for paid customers only)** | |
 | Billing Entity change | |
-| Investigate incorrect subscription info | Assistance with SaaS Subscription Issue:<br> - For GitLab.com, or converting from Self-managed to SaaS.<br> - Includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace. |
+| Investigate incorrect subscription info | Assistance with SaaS Subscription Issue:<br> - For GitLab.com, or converting from Self-managed to SaaS.<br> - Includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace, and current seat usage counts. |
 | SaaS NFR license request | Ensure the group on GitLab.com has started a trial, then use this option to request a GitLab.com NFR license. |
 | **Self-Managed License Related (for paid customers only)** | |
 | Customer did not receive the license | Use this to request a license to be resent to the contact in the license **only**. |
@@ -187,36 +187,20 @@ Here are some options to get basic seat count information:
 3. Info from 2 plus *Seats in Subscription*, *Max Seats Used*, and *Start Date*
     - [Customers portal admin](https://customers.gitlab.com/admin/customer) (requires access via Okta)
 
-##### Options for customer
-
-> **Note:** The public facing version of this information is on the [Licensing and subscription FAQ page](https://about.gitlab.com/pricing/licensing-faq/#how-can-i-get-a-list-of-billable-users-for-my-plan).
-
-Customers can get their subscription information and a list of users using a seat on their group's **Billing** page (under the group **Settings**) .
-
-Alternative methods:
-
-1. [Billable members API endpoint](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group)
-1. [glgl tool's rollcall script](https://gitlab.com/gitlab-com/support/toolbox/glgl) which will provide the subgroup or project where a user has been added.
-*Note:* This project has been archived and will no longer be updated.
-
-If none of those options work and a report detailing which users are a part of the group is required, the request **MUST** be made directly by the customer through the [Support Portal](https://support.gitlab.com).
-
-The Support Engineer working the ticket will:
-
-1. Authenticate their identity by asking them to perform an action (such as create a Snippet with specific text).
-1. Generate the report.
-1. Password protect the report and send it along in the ticket.
-1. Send the password in a separate email.
-
-##### Billable members internal request
-
-If *none* of these above are options for your case, open a [billable members internal request issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=billable%20members) with the `Billable members` template.
+If none of the above self-serve options work, file a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/)
+with the `Other` option providing the Group URL and any additional context.
 
 > **Note:** Support will only provide you with a screenshot of the billing page's subscription info. This includes:
 
 - Plan, and if it is a trial
 - Seats in subscription, currently in use, max used, owed
 - Subscription Start and End dates
+
+##### Self-serve options for customers
+
+> **Note:** The public facing version of this information is on the [Licensing and subscription FAQ page](https://about.gitlab.com/pricing/licensing-faq/#how-can-i-get-a-list-of-billable-users-for-my-plan).
+
+Customers can get their subscription information and a list of users using a seat on their group's **Billing** page (under the group **Settings**) or by using the [Billable members API endpoint](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group)
 
 ---
 
