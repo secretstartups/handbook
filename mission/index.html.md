@@ -35,7 +35,7 @@ It is GitLab's mission to make it so that **everyone can contribute**.
 When **everyone can contribute**, users become contributors and we greatly
 increase the rate of innovation.
 
-## Big Hairy Audacious Goal
+## Big Hairy Audacious Goal (BHAG)
 
 Our [BHAG](https://www.jimcollins.com/concepts/bhag.html) over
 [the next 30 years](/company/cadence/#mission){:data-ga-name="next 30 years"}{:data-ga-location="body"}
