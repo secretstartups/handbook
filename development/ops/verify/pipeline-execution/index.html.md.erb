@@ -208,14 +208,14 @@ When DRIs select issues, they will assign themselves to the issue and also add t
 
 #### Working Right to Left to reduce WIP
 
-Each member of the team can choose which issues to work on during a milestone by assigning the issue to themselves.  When the milestone is well underway and we find ourselves looking for work, we default to working **right to left** on the **issue board** by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion.
+Each member of the team can choose which issues to work on during a milestone by assigning the issue to themselves.  When the milestone is well underway and we find ourselves looking for work, we default to working **right to left** on the **issue board** by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion. Additionally, prior to picking up the next issue from the top of the `workflow::ready for development` column, team members should check the [`~needs weight` board](https://gitlab.com/groups/gitlab-org/-/boards/4178322?label_name[]=group%3A%3Apipeline%20execution&label_name[]=needs%20weight) to ensure everything in the current milestone has been weighted.
 
 Specifically, this means our work is prioritized in the following order:
  * Any verification on code that is in `workflow::verification` or `workflow::production`
  * Conducting code reviews on issues that are `workflow::in review`
  * Unblocking anyone in `workflow::blocked` or `workflow::in dev` if applicable
+ * Check the [`~needs weight` board](https://gitlab.com/groups/gitlab-org/-/boards/4178322?label_name[]=group%3A%3Apipeline%20execution&label_name[]=needs%20weight) for any issues needing to be weighted in current milestone.
  * Then, picking from the top of the `workflow::ready for development` column
- * Lastly, if there are no issues left in `workflow::ready for development`, picking from the top of the `workflow::planning breakdown` column to get a headstart on refinement for the next milestone
 
 The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
 
