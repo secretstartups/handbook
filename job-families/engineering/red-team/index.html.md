@@ -1,30 +1,44 @@
 ---
 layout: job_family_page
 title: "Red Team Roles"
-description: "As members of GitLab's Security Operations sub department, the Red Team emulates real world adversary activities in order to better our enterprise and product security."
+description: "GitLab's internal Red Team conducts security exercises that emulate real-world threats. We do this to help assess and improve the effectiveness of the people, processes, and technologies used to keep our organization secure."
 extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Operations sub department](/handbook/engineering/security/operations/), the [Red Team](/handbook/engineering/security/operations/red-team/) emulates real world adversary activities in order to better our enterprise and product security. This team requires thinking like an attacker while understanding the various levels of defensive technologies and their effectiveness. Creativity is key. Our Red Team develops in depth attack plans that focus on compromising GitLab, test existing defenses or assist in building new defenses based on real world attack data. The Red Team does not do penetration testing or vulnerability assessments, we conduct real world attack operations against live targets. To sum it up -- you need to be someone that is a true hacker at heart while understanding the various defensive techniques that make your job harder.
+As members of GitLab's [Threat Management sub department](/handbook/engineering/security/threat-management/), the [Red Team](/handbook/engineering/security/threat-management/red-team/) conducts security exercises that emulate real-world threats. We do this to help assess and improve the effectiveness of the people, processes, and technologies used to keep our organization secure.
+
+The Red Team does not perform penetration tests, and the work we do is not focused on delivering a list of vulnerabilities in a specific application or service. Instead, we emulate the real-world tactics, techniques, and procedures (TTPs) of threats that are most relevant to our organization.
+
+GitLab's environment is very different than traditional organizations, and attacking it takes creativity. There are no wireless corporate networks to sniff, there is no Active Directory to roast, and you won't find a single hash being passed. To be successful on our Red Team, you must be able to adapt traditional attack techniques to an all-remote, all-cloud, and SaaS-based environment.
+
+Our Red Team works **together** with our Blue Team. Even when planning attacks, we are collaborating to make these attacks more difficult to succeed. Our ultimate goal is never to successfully attack a system, but instead to help ensure our organization is prepared when that attack becomes a reality.
 
 ## Responsibilities
-* Understanding of GitLab’s products and how they work
-* Utilize Threat Modeling methodologies to identify threats and shape Red Team operations
-* Understanding of Mitre’s ATT&CK Framework
-* Focus on designing, researching, and executing real world attacks on GitLab infrastructure and products
-* Incorporate current security trends, advisories, publications, and academic research
-* Report on the Red Team engagements providing an in-depth analysis of the security issues identified
-* Collaborate with defensive and infrastructure teams to improve defenses
-* Identify complex security vulnerabilities and build exploits
-* Publish blog posts and present talks at security conferences
-* Contribute to GitLab products by testing and proposing new features
+* Maintain a deep understanding of GitLab's product offerings, how they work, and how they could be attacked or abused
+* Propose, plan, and execute [Red Team operations](https://about.gitlab.com/handbook/engineering/security/threat-management/red-team/#red-team-operations) based on realistic threats to the organization
+* Automate attack techniques, creating custom tooling for specific operations and contributing to general-purpose open source tools
+* Write detailed reports covering the goals and outcomes of Red Team operations, including significant observations and recommendations
+* Collaborate with GitLab's [Security Incident Response Team (SIRT)](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/) to improve detection and response capabilities
+* Collaborate with GitLab's [Infrastructure Security Team](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/infrastructure-security/) to propose defensive improvements to cloud environments
+* Collaborate across multiple product teams to propose enhancements and additions to GitLab's SaaS and self-hosted offerings
+* Collaborate with non-technical teams to propose process and policy enhancements and additions
+* Stay informed on current security trends, advisories, publications, and academic research that is relevant our organization
 
 ## Requirements
 * Ability to use GitLab
-* Experience with designing and implement processes and tools to identify gaps in GitLab's security posture
-* Technical knowledge of systems in a multi-tenant, cloud environment
-* Proficiency to communicate over a text-based medium (Slack, GitLab Issues, Email) and can succinctly document technical details.
+* Understanding of the MITRE ATT&CK framework
+* Ability to automate tasks by writing basic scripts/programs - we often use Python and Go
+* Ability to read and understand multiple programming languages, especially Ruby and Go
+* Command-line experience with Linux-based operating systems
+* Experience exploiting vulnerabilities in at least two of the following areas:
+  * Web applications
+  * Cloud environments (GCP / AWS)
+  * Linux and/or MacOS workstations
+  * Software supply chain
+* Basic hands-on experience with at least one of the major cloud providers (GCP, AWS, Azure)
+* An adversarial mindset - you must be able to put yourself in the mind of the attacker
+* Excellent and professional communication skills (written and verbal) with an ability to articulate complex topics in a clear and concise manner
 
 ## Levels
 
@@ -35,18 +49,10 @@ This position reports to the [Manager, Red Team](#manager-red-team).
 The Red Team Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Red Team Engineer (Intermediate) Responsibilities
-* Participate in threat modeling sessions on various aspects of our infrastructure and products
-* Participate in performing Red Team Operations
-* Contribute to Red Team open source projects and internal tooling efforts
-* Publish Red Team Tech Notes outlining attack techniques and other technical concepts
+* Includes [base-level responsibilities](#responsibilities).
 
 #### Red Team Engineer (Intermediate) Requirements
-* Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent and 3+ years of professional experience in cyber security or related field
-* Proven technical task management experience
-* Experience working remotely on a widely distributed team
-* Can convey technical information in writing at an intermediate level
-* Intermediate knowledge of exploit techniques, and common TTPs 
-* Intermediate knowledge of one or more programming or scripting languages
+* Includes [base-level requirements](#requirements).
 
 ### Senior Red Team Engineer
 This position reports to the [Manager, Red Team](#manager-red-team).
