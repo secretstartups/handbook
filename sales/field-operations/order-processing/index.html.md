@@ -198,6 +198,30 @@ The fields in this section enable contractual opt-outs for each SuperSonics feat
 | [Cloud Lic] Add Auto-Renewal Opt-Out | (Checkbox) Opts customer out of Auto-Renewal |
 | [Cloud Lic] Add Operational Data Opt Out | (Checkbox) Opts customer out of Operational Data |
 
+#### Quarterly Subscription Reconciliation (QSR): How It Works
+
+The below process applies to any existing customers with an active subscription who have QSR enabled, and who exceed their billable user count during the subscription term.
+
+**Criteria:**
+- Existing customer has an active subscription with QSR enabled.
+- Customer exceeds their subscription amount (Max Users > Seats in Subscription) at any point during the quarter. This amount is "locked in" as the overage quantity for the quarter, "previewed" as invoice amount in Zuora, and stored in the CustomersDot database.
+
+**Timeline:**
+- A reconciliation occurs at the end of the first, second, and third quarter of the customer's subscription.
+  - For SaaS, group owners receive an email on the reconciliation date. The email communicates the overage seat quantity and expected invoice amount.
+  - For Self-Managed, administrators receive an email six days after the reconciliation date. This email communicates the overage seat quantity and expected invoice amount. 
+
+**Opportunity Creation:**
+- On the date the reconciliation email is sent to the customer warning them of the planned QSR, an open Opportunity is created in Salesforce with the title: "[Account Name] - QSR - [Effective Date]"
+  - Amount = Invoice Amount
+  - Stage = 2-Scoping
+  - Close Date = Date of planned closure (7 days from opportunity creation)
+
+**Opportunity Closure:**
+- 7 days after opportunity creation,  we perform the reconciliation by committing an amendment to the subscription in Zuora and generating an invoice which is sent to the customer. At this time, in Salesforce:
+  - The oppportunity becomes Closed Won automatically
+  - The night after the opportunity becomes Closed Won, a nightly job will run to create the underlying quote and populate opportunity data fields accurately. 
+
 #### How To Opt-Out of Auto-Renewal, Quarterly Subscription Reconciliation, and Operational Data
 
 During the Sales process, a customer who would not otherwise be exempt from Auto-Renewal, Quarterly Subscription Reconciliation, and/or Operational Data may request to disable one or more of these features. Every opt-out will require approvals, as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). If an opt-out is requested and approved, upon Closed Won the related feature will be disabled for the subscription in question.
