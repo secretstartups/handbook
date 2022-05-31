@@ -543,31 +543,81 @@ Visit the [Partner Applicant/Partner Portal FAQ](https://docs.google.com/documen
  
  
 ## Channel Partner Price Files
-GitLab will provide Channel Price Files for distributors and direct resellers approximately 30 days before intended changes. **Only Channel Managers should be sharing Channel Price Files.**
-The following price files are provided by Channel Ops:
-- Distribution Price Files for Resale Opportunities, including reseller and distributor discounts for the main program.
-- Public Sector Price Files for Resale Opportunities, including reseller and distributor discounts for the main program.
-- Partner (Direct Reseller) Price Files for Resale Opportunities, including reseller discounts for the main program.
-- List Price File with no discounts.
- 
- 
-### Locating and Sharing Channel Price Files
- 
-Price Files can be found [in this folder](https://drive.google.com/drive/folders/1pouTUH1BHNQjKt-lNsIEu5IQppIRinbg?usp=sharing).
- 
-When sharing a Channel Price File with a partner (either a distributor or reseller), please do NOT share the folder or file location. To share a document, please either copy it into your own google drive and update the permissions accordingly when you share a link, or attach a downloaded copy to an email to a partner. No partners should be given access to this folder. Only Channel Managers should be sharing Channel Price Files.
+The following price files are provided by Channel Ops in Google Sheet, Excel, and PDF format:
+- **Distribution Price Files** for Resale Opportunities, including reseller and distributor discounts for the main program.
+- **Public Sector Price Files** for Resale Opportunities, including reseller and distributor discounts for the main program.
+- **Partner (Direct Reseller) Price Files** for Resale Opportunities, including reseller discounts for the main program.
+- **List Price File** with no discounts.
+
+### How to Access the Price Files (Partners)
+
+Distributor and Reseller partners can access the [Partner Portal](https://partners.gitlab.com/English/) for the current GitLab Price File. If you have any issues accessing the Partner Portal, please contact the Partner Help Desk team at [partnersupport@gmail.com](mailto:partnersupport@gmail.com).
+
+### How to Access and Share the Price Files (GitLab Team Member)
+
+Price Files can be found [in this folder](https://drive.google.com/drive/folders/1pouTUH1BHNQjKt-lNsIEu5IQppIRinbg).
+
+**Only Channel Managers should be sharing Channel Price Files. **When sharing a Channel Price File with a partner (either a distributor or reseller), please do NOT share the folder or file location. To share a document, please either copy it into your own google drive and update the permissions accordingly when you share a link, or download a copy and email to a partner. No partners should be given access to this folder. 
  
 ### Naming Conventions and Which File to Use
  
-Within the Price List Folder, there are other folders. For the current active price file, always use the one with the most recent date that has not passed yet. The folder name will also say "ACTIVE" at the front of it.
- 
-![12-Price_File_Folders](/handbook/sales/field-operations/channel-operations/images/12-Price_File_Folders.png)
- 
-![13-Price_File_List](/handbook/sales/field-operations/channel-operations/images/13-Price_File_List.png)
- 
-If there are any questions, please reach out to the **#channel-programs-ops** Slack channel.
- 
- ## SFDC Channel Manager Activity Tracker
+Within the Price List Folder, there are other folders. For the current active price file, always use the one with the most recent date that has not passed yet. The folder name will also say [ACTIVE] at the front of it. 
+
+For example: 
+If there are three folders within the Price List Folder. One is dated two months ago, and one is dated for one month in the future. The one dated two months ago says [ACTIVE] in front of the file name. 
+
+The file dated two months ago is the one currently in use with our partners. For current questions and quoting purposes, this is the file that should be used. 
+
+The file dated one month in the future is the file that should be provided to partners (especially distributors) to set up their systems. It will go into effect on the date in the file name. 
+
+If there are any questions, please reach out to the #channel-programs-ops Slack channel. 
+
+## Price File Update Process
+
+At the beginning of the [second month of every quarter](https://about.gitlab.com/handbook/finance/#fiscal-year), Channel Operations will create an issue and reach out to product and professional services (PS) departments to collect information on any new changes, additions, or discontinuations of part numbers. It is the **responsibility of the product/PS departments** to provide any and all information about SKUs that will be active on the first date of the next quarter. 
+
+Once the price book is updated, Channel Operations will tag the product and professional services team to check to make sure the information is up-to-date before publishing. The due date for this approval is five (5) business days before the end of the second month of a given quarter.*
+
+The following departments/people will be tagged for gathering this information:
+
+* **Professional Services** - Bryan May 
+* **Channel Services** - Boughty Canton
+* **Product/Finance** -  Mark Quitevis 
+
+The following departments/people will be tagged for FYI/Additional Input:
+
+* **Partner Operations:** Colleen Farris, Nick Scala, Niles Jamshaid
+* **Channel Programs**: Evon Collett, Kim Yaegar
+* **Deal Desk**: Jesse Rabbits
+* **PubSec Channel**: Pilar Meija
+
+After all product approvals are complete, Channel Operations will request approval in the same issue from the following Channel Teams/Individuals:
+
+* **Channel & Alliances**: Colleen Farris
+* **Programs:** Ed Cepulis
+* **Public Sector**: Chris Novello
+
+***For updates to core GitLab products (Ultimate and Premium), exceptions will be made. **Please reach out to the #channel-programs-ops Slack channel for assistance. 
+
+### Internal Price File Communications
+
+Channel Operations will post a message on the slack channel #channel-fyi to share the updated Price Files and call out any major changes. 
+
+### External Price File Communications
+
+Updated Price Files will be uploaded to the Partner Portal approximately 30 days before the upcoming fiscal quarter. 
+The following contacts will provide updated Price Files directly to distributors and work with the distributor to ensure any applicable contract vehicles are updated (e.g., Public Sector contracts):
+
+- Commercial - David Forsch
+- Public Sector - Pilar Meija 
+
+### Channel Operations SKU/Price Change Tracker
+
+The Channel Operations team maintains an internal SKU/Price Change tracker to keep the channel teams updated on product launches and pricing changes. This is not meant to replace the responsibility of the above departments to communicate any SKU or pricing changes.
+
+
+
+## SFDC Channel Manager Activity Tracker
 
 The Channel Managers use a [tracking system](https://docs.google.com/presentation/d/1fPJutBp85WPNqf3ErQEk7Xp2042UPupTjmSLUMOmXnE/edit?usp=sharing) in Salesforce to record their sales and marketing activities. This tracker allows them to extract data for sales analysis and goal setting (QBRs, OKRs, [Business Plans](https://docs.google.com/presentation/d/1lSXI1cnJQkv5RFwTEO2-J1FNTs0ykp25WA-orJj-Fok/edit#slide=id.g29a70c6c35_0_68), 1:1s). In addition, it enables the creation of [activity frameworks](https://docs.google.com/presentation/d/15rCXjsOj6r6BFYqWMgST5WB6R_XWJiIqYq2eppUoeDw/edit?usp=sharing) to set engagement standards and further develop relationships with GitLab’s partners. This activity tracker is available to all Channel Managers. 
 
