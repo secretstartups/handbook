@@ -94,20 +94,13 @@ If you need a werkgeversverklaring, be sure to reach out to `people-connect@gitl
 
 Business cards can be ordered through Moo. Please let People Experience team know if you have not received access to your account on Moo by the end of your first week with GitLab. Place the order using your own payment and add it to your expense report. If you need any assistance, let a People Experience team know.
 
-Once you are logged in, follow these steps to create your cards:
+Once you are logged in, follow the steps listed in this [document](https://drive.google.com/file/d/1yQXnTkjAX3FyfhHBOnGAMAjyj7H2gRj_/view?usp=sharing) to create your cards.
 
-1. Select your currency in the upper right corner to ensure that your shipment is sent from the correct location.
-1. Select the "+" sign in the upper right corner of your screen. (If you don't see the "+" sign then go to [this URL](https://www.moo.com/mbs/products/business-cards)).
-1. Select "Business Cards".
-1. Select your template (one has the Twitter & Tanuki symbol and cannot be removed, and one is free of those symbols).
-1. Enter your information into the card.
-1. Please remember to choose rounded corners.
-1. Add the card to your cart and order! We ask for a default of 50 cards unless you are meeting with customers regularly.
-1. Add the cards to your expense report under 'office supplies'.
+You can access Moo via the Okta tile - this may redirect you to the UK website. If you need to be redirected to the main website, please go to this [URL](https://www.moo.com/mbs/products/business-cards) - be sure to enter the main platform by clicking on `Account` in the upper right corner if the + sign is unavailable.
 
 ### Business Cards - India
 
-Since MOO ships business cards from outside India via DHL, DHL is mandatorily required to perform "Know Your Customer" (KYC) checks before delivery.
+Since Moo ships business cards from outside India via DHL, DHL is mandatorily required to perform "Know Your Customer" (KYC) checks before delivery.
 If you are a team member residing in India, please consider using the following tips while ordering business cards from MOO.
 
 - Avoid filling in the "Company name" field when checking out your order to prevent the shipment being sent in the company's name instead of your name. It is only necessary to fill the "First Name" and "Last Name" fields.
@@ -118,8 +111,8 @@ If you are a team member residing in India, please consider using the following 
 
 ### Business Cards-Special Characters
 -If you are a team member who needs business cards with special characters, please reach out to the People Experience Team (people-connect@gitlab.com)and indicate how you would like the layout to look like.
--The People Experience Coordinator will inform the Moo team to make the template available on Moo. This takes 24-48 hours
--Once the template is available, the People Experience Coordinator will advice you and you can proceed and place your order.
+-The People Experience Associate will inform the Moo team to make the template available on Moo. This takes 24-48 hours
+-Once the template is available, the People Experience Associate will let you know and you can proceed to place your order.
 
 ## Japan Daycare Eligibility Documentation
 
