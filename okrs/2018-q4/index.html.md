@@ -43,7 +43,7 @@ canonical_path: "/company/okrs/2018-q4/"
 * CFO: Use data to drive business decisions
   * Director of Business Operations: Create scope for User Journey that is documented and mapped to key data sources. *50%*
   * Director of Business Operations: Top of funnel process and metrics defined and aligned with bottom of funnel. *70%*
-    * Data & Analytics: Able to define and calculate Customer Count, MRR and ARR by Customer, Churn by Cohort, Reason for Churn *75%* - Some metrics still require [review](https://about.gitlab.com/handbook/business-technology/data-team/data-quality/)
+    * Data & Analytics: Able to define and calculate Customer Count, MRR and ARR by Customer, Churn by Cohort, Reason for Churn *75%* - Some metrics still require [review](/handbook/business-technology/data-team/data-quality/)
   * Director of Business Operations: Looker Explores generated for Customer Support, PeopleOps, GitLab.com Event Data, Marketing Data *100%*
     * Data & Analytics: Single Data Lake for all raw and transformed company data - migration to Snowflake complete with DevOps workflow in place, GitLab.com production data extracted and modelled *75%*
     * Data & Analytics: Configuration and Business processes documented with integrity tests that sync back with upstream source (SFDC), dbt docs deployed *100%*
@@ -98,7 +98,7 @@ canonical_path: "/company/okrs/2018-q4/"
       * Spend no more than 15 point of our [error budget]: 0/15
       * Merge smaller changes more frequently: &gt; 4 average MRs merged per week: 7 average (90 MRs over 12 weeks)(100%)
     * [Philippe Lafoucrière](https://about.gitlab.com/company/team/#plafoucriere):
-      * Benchmark 3 new security tools for integration in the [Security Products](https://about.gitlab.com/handbook/engineering/development/secure/#security_products): No security tool was benchmarked (0%)
+      * Benchmark 3 new security tools for integration in the [Security Products](/handbook/engineering/development/sec/secure/#security_products): No security tool was benchmarked (0%)
       * One CFP (Call For Proposals) accepted for a Tech conference: "Enable BeyondCorp for your organization with Cloud Identity" at [Google Next](https://cloud.withgoogle.com/next18/sf) (100%)
     * Monitor:
       * Spend no more than 15 point of our [error budget] : 0/15
