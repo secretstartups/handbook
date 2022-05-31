@@ -126,7 +126,7 @@ The following programs have been contributed by leaders across the organization.
 
 | Department | Program | Notes |
 | ----- | ----- | ----- | 
-| Any | [Crucial Conversations](https://www.vitalsmarts.com/crucial-conversations-training/) | `Crucial Conversations skills represent the standard in effective communication and the marker of high-performance individuals and organizations everywhere.` |
+| Any | [Crucial Conversations](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations/) | `Crucial Conversations skills represent the standard in effective communication and the marker of high-performance individuals and organizations everywhere.` |
 | Any | [MIT Cultural Awareness for Global Business](https://professionalprograms.mit.edu/online-program-in-cultural-awareness-for-global-business/) | `help professionals improve their intercultural and global leadership skills so that they can succeed in today’s multicultural business environments.` |
 | Any | [MIT Leadership and Innovation](https://professionalprograms.mit.edu/online-program-leadership-and-innovation/) | `MIT Professional Education has created the online Leadership & Innovation program, which merges the development of leadership skills with the vision needed to address innovation processes in organizations.` |
 | Any | [MIT Professional Certification Program in Digital Transformation](https://professionalprograms.mit.edu/professional-certificate-in-digital-transformation/) | `designed reskilling and upskilling solutions, to help organizations build a culture of continuous education providing their employees with the knowledge and skills needed for the 4th Industrial Revolution.` |
