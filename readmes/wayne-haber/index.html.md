@@ -12,7 +12,7 @@ job: "Engineering Director"
 
 ### Wayne Haber README
 
-I’m the director of engineering for the [growth sub-department](https://about.gitlab.com/handbook/engineering/development/growth/), [sec sub-department](https://about.gitlab.com/handbook/engineering/development/secure/)  and the [ModelOps group](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/).  I am also a SME for security at the company.
+I’m the director of engineering for the [growth sub-department](/handbook/engineering/development/growth/), [sec sub-department](/handbook/engineering/development/sec/secure/)  and the [ModelOps group](/handbook/engineering/development/modelops/appliedml/).  I am also a SME for security at the company.
 
 Links about Wayne:
 * [GitLab](https://gitlab.com/whaber)
@@ -24,7 +24,7 @@ I’m a veteran of three successful startups (including GitLab) and have experie
 
 ### How to collaborate with Wayne
 
-* I subscribe to [servant-leadership](https://en.wikipedia.org/wiki/Servant_leadership) 
+* I subscribe to [servant-leadership](https://en.wikipedia.org/wiki/Servant_leadership)
 * Learning is very important to me.  I read approximately one book a week and aspire to take one online class (Udemy or LinkedIn learning) every month or so.
 * I subscribe to the philosophy of “saying what you are going to do and doing what you say”.
 * I am an advocate of remote-work due to it being highly effective (on many levels) for both the company and for the individual.
@@ -47,7 +47,7 @@ I’m a veteran of three successful startups (including GitLab) and have experie
   * Tag me in merge request
   * Tag me in issue
   * Tag me in a message in a Slack channel
-  * Send me a 1:1 message in Slack 
+  * Send me a 1:1 message in Slack
   * Send me an email
 * Since we are successful at being the most transparent company in the world, I prefer communications to be public whenever possible. However, this sometimes does not come naturally to me as my experience before GitLab was at a security company where confidentiality was of the utmost importance.
 * I prefer that when possible, all recorded meetings should be made public on GitLab Unfiltered.  I am often pleasantly surprised by how this can increase collaboration both inside and outside the team.
@@ -55,7 +55,7 @@ I’m a veteran of three successful startups (including GitLab) and have experie
 
 ### Zoom
 
-* I am working on interrupting people less, slowing down my pace, and pausing more often.  This is to increase the clarity of what I am communicating while also increasing my emotional intelligence.  I am getting realtime feedback on this via system called [Poised](https://www.poised.com/).  In particular, rather than interrupting a speaker when I have something to say, I am trying to indicate that via non-verbal communication via video.  
+* I am working on interrupting people less, slowing down my pace, and pausing more often.  This is to increase the clarity of what I am communicating while also increasing my emotional intelligence.  I am getting realtime feedback on this via system called [Poised](https://www.poised.com/).  In particular, rather than interrupting a speaker when I have something to say, I am trying to indicate that via non-verbal communication via video.
 * When on video, I will sometimes use the Zoom emoji feature rather than interupting the speaker to express my feedback on something.
 * If I don't have my video feed on, it is likely because I am listening but multitasking (working on something, doing something at home, etc) and I don't want those other activities to be distracting to the meeting attendees.
 
