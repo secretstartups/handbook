@@ -107,7 +107,7 @@ Our planning timeline follows the [GitLab Product Development timeline](/handboo
 * By the **13th** of each month:
   * Engineers will refine the assigned issues and move them to `workflow::ready for development`.
   * The EM and PM will update the milestone on issues in `workflow::ready for development` based on the team's capacity for the upcoming milestone and move issues into their respective milestones.
-  * The EM will assign the `Deliverable` label to as many `Verify::P1` issues in `workflow::ready for development` as the team has capacity for.
+  * The EM will assign the `Deliverable` label to as many issues in `workflow::ready for development` as the team has capacity for.
 
 #### How Engineering Refines Issues
 
@@ -161,6 +161,16 @@ If an issue requires a feature flag rollout plan, consider increasing the weight
 ### Release Plans
 
 To encourage more transparency and collaboration amongst the team and additionally align on the [Release Posts](/handbook/marketing/blog/release-posts/) we publish at the end of each milestone, we will be creating a separate issue to highlight a **Feature flag roll out plan** for each feature being released starting in 13.2, based on the [issue template for feature flag roll outs](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20Flag%20Roll%20Out.md). The engineer who implements the feature will be responsible for creating this separate issue to highlight the details of when and how the feature flag will be toggled, and subsequently link this issue to their feature issue.  The product manager will tag this issue as a blocker to their release post, so that everyone is aligned on the release plan of the feature.
+
+#### Prioritization of issues
+
+The team makes use of `Verify::P*` labels to indicate priority order of issues in addition to a stack rank in many areas. Currently these labels are applied as follows.
+
+| Priority Label | Reason for applying |
+| ---- | ---- |
+| `Verify::P1` | Our current focus is on reliability and stability of the GitLab.com platform. As such we use this label for any issues that have a category in the top 3 [Prioritization Framework](https://about.gitlab.com/handbook/product/product-processes/#prioritization) table. |
+| `Verify::P2` | After ensuring we are meeting our SLOs we are focused on delivering customer value and moving maturity of our categories forward. Issues with a `type::feature` and `direction` may be have this label applied. Not all `customer` issues will have this label in a milestone. |
+| `Verify::P3` | Bugs or maintenance work that are not a `Verify::P1`, such as lower priority product initiatives, or research issues for upcoming large initiatives, etc. may be included in this category. |
 
 ### Workflow
 
