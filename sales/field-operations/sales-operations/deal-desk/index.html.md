@@ -451,7 +451,7 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 *   When prompted **select “New Subscription for this Billing account,”** and select the appropriate subscription. 
     *   Note: If there are multiple billing accounts or subscriptions available, and you are unable to determine which to choose, please ask @Sales-Support via Chatter.
 *   Fill out the necessary information on the quote per the instruction under the **New Subscription Quote** section above. 
-    *   **Note: The Start Date must be the renewal date.** 
+    *   **Note: The Start Date can be later than the original renewal date only if customer has lost access after the renewal grace period. Otherwise no subscription gap is allowed.** 
 *   Select a Quote Template
 
 | Template                            | Use For                                                                                                  |
