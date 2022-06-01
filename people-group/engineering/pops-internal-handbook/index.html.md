@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "People Group Engineering"
+title: "People Operations Internal Handbook"
 description: "Information about the limited access internal handbook People Operations has."
 ---
 
