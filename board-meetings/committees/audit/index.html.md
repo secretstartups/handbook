@@ -127,17 +127,6 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 |15 |Other Topics                                         |As needed |     |    |     |     |  X  |
 
 
-#### People Division
-
-|#|Topics                                                        | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
-|:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---: |
-| 1 | Global staffing update                                           | Annual|       |   X   |       |       |      |
-| 2 | Team assessment, shared service plan and succession planning     | Annual|       |   X   |       |       |      |
-| 3 | EEO audits                                                       | Annual|       |   X   |       |       |      |
-| 4 | Payroll, Compensation and hiring                                 | Annual|       |   X   |       |       |      |
-| 5 | Organization Overview                                            | Annual|       |   X   |       |       |      |
-| 6 |Other Topics                                         |As needed |     |    |     |     |  X  |
-
 
 #### Legal, Risk and Compliance
 
