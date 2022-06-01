@@ -83,6 +83,7 @@ These are changes with high impact or high risk. If a change is going to cause d
 #### Approval
 
 1. Ensure there is Due Date set on the issue and to the [GitLab Production](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com) calendar.
+1. Changes which include downtime must be pre-communicated to users. Follow the guidance for [Communicating a change that requires downtime](/handbook/engineering/infrastructure/change-management/#communicating-a-change-that-requires-downtime-maintenance-window)
 1. All the database changes related should have a review by a DBRE.
 1. Have the change approved by Infrastructure management at the Sr. Manager level or above.
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
@@ -104,10 +105,12 @@ These are changes that are not expected to cause downtime, but which still carry
 1. IaC changes to production Virtual Machines outside of Kubernetes when there is a decrease.
 1. Major changes to alerting routing or integrations.
 1. Any procedural invocation such as a SQL script, a ruby script module, a rake task which is performed on a production console server, either using `gitlab-rails` or `gitlab-rake` should be considered as a Criticality 2 change.
+1. Any procedure involving changes of certificate authorities.
 
 #### Approval
 
 1. Ensure there is a Due Date to the issue and an event to the [GitLab Production](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com) calendar.
+1. Changes which include downtime must be pre-communicated to users. Follow the guidance for [Communicating a change that requires downtime](/handbook/engineering/infrastructure/change-management/#communicating-a-change-that-requires-downtime-maintenance-window)
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
 1. All the database changes related should have a review by a DBRE.
 1. Have the change approved by Infrastructure management at the manager level or above.
