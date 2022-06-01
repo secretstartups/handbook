@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Platypus Integrations Platform"
+description: "Platypus provides us with a repeatable way to ensure we're building robust, well-tested, secure, and compliant integrations at GitLab."
 ---
 
 {::options parse_block_html="true" /}
