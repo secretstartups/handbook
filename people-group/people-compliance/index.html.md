@@ -93,12 +93,6 @@ This PI encompasses the 100% accuracy of personal information held in our HRIS f
 
 * [HRIS Compliance](/handbook/people-group/people-compliance/hris-compliance/)
 
-#### [Onboarding Issue Audits](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
-
-This PI encompasses the 100% implementation of quarterly audits for onboarding issues and their related closure rates.
-
-* [People Compliance Audits](/handbook/people-group/people-compliance/people-compliance-audits/)
-
 <details markdown="1">
 
 <summary>Meet the People Compliance team</summary>
