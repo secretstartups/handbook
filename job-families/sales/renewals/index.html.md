@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
-title: Renewals
+title: Renewals Job Family
+description: The Renewals job family delivers to an essential moment in the customer journey, ensuring we can continue to deliver value and business outcomes through customer retention.
 ---
 The Renewals job family delivers to an essential moment in the customer journey, ensuring we can continue to deliver value and business outcomes through customer retention. In collaboration with sales, channel partners, customer success, and sales operations, this team will focus on successfully renewing customer contracts while providing a seamless customer experience. 
 
