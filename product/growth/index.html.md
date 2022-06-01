@@ -97,18 +97,6 @@ In addition to the weekly Growth meeting, Growth team members participate in the
     1. Goals: Growth / Application Security stable counterparts monthly discussion
     1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20section%20and%20appsec%22)
 
-
-### Growth Deliverables
-
-A growth deliverable should be a released feature or a launched effort that is expected to directly impact KPIs and improve external or internal customer experiences.
-
-We will use the label `~Growth-Deliverable` to differentiate this from a typical product deliverable. A "Growth-Deliverable" should be:
-
-- Able to stand on its own (can be potentially released/launched on its own)
-- Expected to directly impact KPI or improve internal/external user experience on its own
-- Typically should be a product change, but can include emails etc. if it meet 1) AND 2)
-- Growth deliverables can also be UX research or data analysis if these are large in scope and require a significant amount of effort from the Product Manager, OR if they provide valuable insight for growth experiments.
-
 ## How Growth launches experiments 
 
 Since the Growth section is among the first groups to launch product experiments and A/B testing, we summarized the current tooling and process in the list of guides and documentation below to help other teams interested in experimentation to get started faster.  
