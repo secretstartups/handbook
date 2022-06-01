@@ -473,8 +473,9 @@ The following is a list of all statutory annual vacation entitlements by entity 
     * Contractors do not have statutory vacation requirements, but are eligible for our No Ask Time Off Policy.
 1. GitLab GmbH (Germany)
     * Employees are entitled to at least 20 vacation days. The days will accrue from the start date. In general, employees must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the employee was unable to take the holiday due to operational or personal reasons.
-1. GitLab New Zealand
-    * Employees are entitled to a minimum of four weeks’ annual holidays per year.Annual leave does not expire and can be carried over each year, but GitLab may set expectations on how much annual leave employees may accumulate and may require employees to take entitled leave with 14 days notice
+1. GitLab PTY (Australia & New Zealand)
+    * Employees are entitled to a minimum of four weeks’ annual holidays per year. Annual leave does not expire and can be carried over each year.   
+    * New Zealand Only:  GitLab may set expectations on how much annual leave employees may accumulate and may require employees to take entitled leave with 14 days notice.
 1. GitLab GK (Japan)
     * An employee who has been continuously employed for six months and whose attendance has been at least 80% of the total number of working days during that period, is entitled to a minimum of ten days’ annual paid leave on the day after completing six months of employment. The entitlement increases by one day per year for the following two years and by two days per year thereafter, up to a maximum of 20 days per year. Unused annual paid leave expires after two years if not used. Companies are not required to purchase out unused annual paid leave when employees leave companies unless otherwise provided in the work rules or employment contracts.
 1. GitLab Inc. (USA)
