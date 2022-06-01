@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "IT Security"
+title: "IT Compliance Team"
 description: "This handbook page provides information about how the IT Compliance team works."
 ---
 

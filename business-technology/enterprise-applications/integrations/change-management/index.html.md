@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Enterprise Applications Team"
-description: "The Enterprise Applications Team implements and supports specialized applications that support our business processes within GitLab."
+title: "Integrations Change Management"
+description: "The integrations change management process is an extension of the Business Technology Change Management process which is tailored to the SDLC of the integrations team."
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />

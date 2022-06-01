@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Enterprise Applications Integrations"
+title: "Workato Playbook"
 ---
 
 {::options parse_block_html="true" /}
