@@ -39,7 +39,7 @@ The FP&A Analyst is a [grade 6](/handbook/total-rewards/compensation/compensatio
 #### FP&A Analyst (Intermediate) Responsibilities
 
 - Business Partnership: Support Senior Financial Analysts and Managers regarding business strategy, go to market, functional strategy, spending initiatives, ad hoc financial analysis and monthly, quarterly and annual planning. Begins to build relationships with select cross-functional partners.
-- Financial Modeling: Build, mMaintain and improve financial models to plan, measure and forecast the business. Models are easily audited and used by overs for areas of average complexity.
+- Financial Modeling: Build, maintain and improve financial models to plan, measure and forecast the business. Models are easily audited and used by overs for areas of average complexity.
 - Planning and Financial Analysis: Participate in annual planning, long-term planning, rolling forecast and variance process.
 - Data Analysis: Produce KPI reporting and root cause trends in KPIs. Prepare insights for variance and Key Reviews.
 - Project Management: Run small sized projects that improve our ability to make better data driven insights or make the company more efficient.
