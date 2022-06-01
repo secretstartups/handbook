@@ -97,6 +97,8 @@ In order to help remove bias, Interviewers (unlike Hiring Managers) are **not** 
 
 You can set up reminders in Greenhouse by going to your [account settings](https://app2.greenhouse.io/myinfo) and turning on `Daily interview reminder email` which will email you each morning with a list of your interviews for the day. You can also [connect your Slack account](https://support.greenhouse.io/hc/en-us/articles/207344866-I-use-Slack-How-do-I-set-up-the-integration-to-receive-notifications-directly-in-Slack-) to your Greenhouse account and receive reminders after the interview is over if your scorecard is still due, as well as other notifications depending on your settings.
 
+You can also set up notifications to be delivered to your Slack by clicking on your name > `account settings`. From there, connect your Slack account and set @mentions as well as any job-specific notifications.
+
 ### Searching candidates
 
 Since we have a great pool of talent within our ATS, Greenhouse enables the Hiring Teams to search for specific attributes of candidates. To search for keywords, go to the candidates tab at the top of the Greenhouse website, use the search bar on the lefthand sidebar to input your keywords, and enable to option `Full Text Search`.
@@ -179,7 +181,7 @@ Below is a list of the various access levels, by team, and what they generally e
                 * This by-pass is **only** permitted if the requisition was already fully approved.
             1. Adding or removing *Recruiting Agencies* and *Agency Recruiters*.
 - Any user on a Hiring Team that is expected to interview candidates or review applications should be assigned permissions for **only** the vacancies where their participation is expected.
-- All other users should be assigned `Basic` permissions.
+- All other users should be assigned `Basic` permissions and can see interview kits when interviewing any candidate.
 
 There are a few other permission levels in Greenhouse that are not frequently used:
 - `Job Admin: Standard`: grants default `Job Admin` permissions, plus the ability to advance or reject candidates.
@@ -261,7 +263,8 @@ Once you have the permissions to send emails on someone else's behalf, when you 
 
 ### Changing jobs
 
-If a candidate applies for a job but is a better fit for another job, they will need to be added to a new job. There are a few options to do this. To start, go to the candidate profile and click `Add or Transfer Candidate's Jobs` at the bottom right. From there, you can either add a new job to the candidate profile, which will keep all data within the original job and start a clean slate for the new job. Alternatively, you can also transfer the candidate data to the new job, but this should be done with caution, as it will not transfer any scheduled (i.e. not completed and submitted) interviews or scorecards, and it will remove the candidate from any reports about the original job. Admins are also able to remove a job and its history from a candidate profile, which should be done only when absolutely necessary.
+If a candidate applies for a job but is a better fit for another job, they will need to be added to a new job. There are a few options to do this. To start, go to the candidate profile and click `Add or Transfer Candidate's Jobs` at the bottom right. From there, you can either add a new job to the candidate profile, which will keep all data within the original job and start a clean slate for the new job. You should choose this option when you will be taking the candidate through a brand new hiring process from start to finish, and do not want previous interview details to appear on the new job. 
+Alternatively, you can also transfer the candidate data to the new job, which should be used when a the positions are the same or they will be continuing their current interview process and scorecards into the new role. It should also be used in the case of Evergreen positions. Please exercise caution during this process, because while scorecards will transfer, scheduled interviews will not. If a scorecard has not been submitted, it will also not transfer and will be lost. Transferring will remove the candidate from any reports about the original job. Admins are also able to remove a job and its history from a candidate profile, which should be done only when absolutely necessary.
 
 ### Auto-tags
 
@@ -286,21 +289,7 @@ Here's how to see if it's been sent and, if applicable, how to send it:
 
 ### Scheduling interviews with Greenhouse
 
-The Talent Acquisition Team will schedule most interviews, which is a three-step process.
-
-To schedule an interview, first make sure to move the candidate to the correct stage (Screening, Team Interview, Executive Interview, etc.), then request the candidate's availability by pressing the `Request Availability` button when viewing the stage. It is recommended that you modify the email with the general work hours of the Interviewer for smoother scheduling. You are also able to provide suggested times that the Interviewer is available by quickly pulling up their calendar within Greenhouse and selecting times. If you need to re-request availability (for rescheduling, scheduling a new interview in the same stage, etc.), click where it now says one of "Requested", "Received", or "Confirmation Sent" and choose "Request Availability". The button to request availability will now re-appear.
-
-Once the candidate provides their availability, you will receive an email and can schedule the interview by clicking the "Schedule Interview" button on the candidate's profile next to the appropriate interview stage. Choose the Interviewer and click the "Find Times" button at the top right, and find a free spot on the Interviewer's calendar (making sure it is within their working hours). Note both the candidate's and Interviewer's timezone for easier scheduling. DO NOT change the calendar's timezone from the drop-down view. Greenhouse will show the available times of the interviewee in white on the calendar. If you do not find a suitable time on the first day, you can change days by clicking the arrows near the current day. Note that Greenhouse **does not** currently update timezones once you change days, so you will need to reselect the timezone again even if it looks like it is selected in the timezone bar. When scheduling, be sure to not schedule more than 3 interviews per day for an Interviewer. If you are not able to see their calendar, you can either check the "Interview Calendar" in Google Calendar to view if they have any other interviews that day or reach out to the Interviewer to confirm. The only exception to not scheduling more than three interviews per day is if you are scheduling screening calls for a recruiter.
-
-When sending out the calendar invites to the Interviewers, the Talent Acquisition Team will include a link to a Zoom room for *all* Interviewers under the "location" field, which will follow this format: `https://gitlab.zoom.us/my/gitlab.firstnamelastname` (e.g. Joe Smith's would be: `https://gitlab.zoom.us/my/gitlab.joesmith`). This room will be each Interviewer's consistent location for their interviews, and the naming convention is standard across GitLab for anyone with a Pro Zoom account. All interviews will be conducted via Zoom to maintain a streamlined hiring process. To create a personal Zoom Room for someone, please follow the [instructions in the handbook](/handbook/tools-and-tips/zoom/#making-a-customized-personal-link).
-
-Once a time is selected, you'll need to send the candidate an interview confirmation. You can do so by clicking the "Send Interview Confirmation" button, which will bring up an email template. Note that the timezone defaults to your timezone even on the candidate's side. Therefore, it is recommended to either do the conversion for the candidate to avoid confusion or highlight that it is in your timezone, not necessarily theirs. There are [timezone tools](https://www.worldtimebuddy.com/) you can use for timezone conversions. Be sure to update the template to the correct Zoom room for the Interviewer, and always select the `Include calendar files` button below the email and then click `Send Email`.
-
-Please be sure to include the role for both the Interviewer and the interviewee so that each side is aware of who they will be speaking with. When sending out the calendar invite to the interview, the role the candidate is interviewing for should automatically populate in the title, but be sure to double check. When sending the interview confirmation email to the candidate, be sure to include the title of the person they will be meeting with, as this is not automatic.
-
-At this time, it is not possible to bulk schedule candidates; however, it is helpful to filter the candidates under `Pipeline Tasks` > `To be scheduled` so you can see everyone who needs to be scheduled on the page and easily scroll through them.
-
-Scheduling [executive interviews](/handbook/hiring/talent-acquisition-framework/coordinator/index.html#executive-interview-scheduling) varies slightly for collecting and confirming interview times and typically involves the executive's Executive Assistant.
+The [Candidate Experience Specialist team](/handbook/hiring/talent-acquisition-framework/coordinator/#framework-coord) handles all interview scheduling once a candidate has passed the "screening" stage. 
 
 #### Important scheduling and interview notes
 
@@ -308,16 +297,6 @@ Scheduling [executive interviews](/handbook/hiring/talent-acquisition-framework/
 * Make sure that a candidate is in the proper stage to schedule when scheduling.
 * If you cannot attend the interview, please let the Talent Acquisition Team know so they can reschedule. **Simply declining the interview does not effectively notify the Talent Acquisition Team.** The Talent Acquisition Team should first cancel the currently scheduled interview through either Greenhouse or Google Calendar (specifically the `Interview Calendar`) before creating the new one to avoid any confusion.
 * All outgoing emails and scheduling must be done through Greenhouse. Scheduling details, emails, and communication between team members can be viewed in the activity feed of a candidate.
-* Timezones can be tricky with Greenhouse. Always double check timezones before sending confirmations, noting that all interview confirmations and the time shown on the candidate's profile is in your own timezone.
-* You can find a candidate's timezone by viewing their application.
-* To ensure that someone else (another candidate, for example) does not join your video call without your permission, log into your Zoom account online.
-  1. In the top right corner, select your profile icon, then select your account name.
-  1. In the left sidebar, select **Settings**.
-  1. In the **Security** section, toggle on the **Waiting Room** option.
-  1. In the left sidebar, select **Meetings**.
-  1. Select the **Personal Room** tab, then select **Edit**.
-  1. Scroll to **Security** and select **Waiting Room**.
-  1. Select **Save**.
 
 #### Scheduling Timed Assessments
 
