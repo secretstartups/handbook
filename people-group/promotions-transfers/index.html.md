@@ -506,7 +506,7 @@ Please undertand the following eligibility guidelines that need to be met to be 
    * Business driven transfers (example of realignments)
    * SDR/BDR 12 month in role
 
-**If and when you decide to officially apply for an internal position, please make sure your current manager is aware. Your official application is signaled by you applying to the open role or reaching out to the talent acquisition team. Informal conversations about the role do not require a team member to inform their manager. If you have concerns about communicating your interest in an internal role to your manager, please reach out to your People Business Partner.**
+**Please note that internal applicants are required to speak with their current manager or People Business Partner prior to application submission. An official application is signaled by a team member applying to the open role or reaching out to the talent acquisition team. Informal conversations about the role do not require a team member to inform their manager. If you have concerns about communicating your interest in an internal role to your manager, please reach out to your People Business Partner.**
 
 For more information please visit our [Internal Hiring Process](/handbook/hiring/talent-acquisition-framework/internal-hiring-process/) handbook page.
 
