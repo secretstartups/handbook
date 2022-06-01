@@ -68,6 +68,7 @@ Recommendations to explore this path:
 - Read about the [Staff Support Engineer role criteria](/job-families/engineering/support-engineer/#staff-support-engineer).
 - Read about the [Staff level competencies and framework requirements](/handbook/engineering/career-development/matrix/engineering/staff/).
 - Watch [this discussion about becoming a Staff engineer](https://www.youtube.com/watch?v=dN4LyA4nDg0).
+- Watch or listen to the [Group AMA - Being/Becoming a Staff Support Engineer - 2022-05-26 ](https://www.youtube.com/watch?v=68jzHfG8SwU).
 
 Considerations when building your path:
 
