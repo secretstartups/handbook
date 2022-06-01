@@ -394,6 +394,8 @@ _Please note, Get Together expenses that are submitted outside of these months w
 
 **Group Get Togethers**
 
+Please review the latest [Covid-19 guidance for in-person GitLab events that include more than 5 attendees](https://about.gitlab.com/handbook/travel/#for-in-person-gitlab-events) before planning a Group Get Together.
+
 In areas where many GitLab team members live, stay tuned in Slack and on this page for planned events where we'll invite all GitLab team members in that area to join together in person. For team members who participate in Group Get Togethers, individual Get Togethers live or remote will not be available in the month the Group Get Together takes place.  
 
 ### Visiting Grant
