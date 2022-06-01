@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "Software Engineer in Test"
+title: "Software Engineer in Test Job Family"
 description: "Software Engineers in Test at GitLab help grow our test automation efforts across the entire GitLab ecosystem."
 ---
 
