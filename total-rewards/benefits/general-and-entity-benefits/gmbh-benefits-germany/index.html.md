@@ -66,10 +66,9 @@ In case a woman takes parental leave subsequently to the child’s birth, the pe
 
 **Parental Leave Payment**
 
-- Eligible team members may receive government-funded Parental Leave Pay (Basiselterngeld, EltengeldPlus or Partnerschaftsbonus. Parents are generally entitled to a monthly parental allowance paid by the German state for the maximum of in total 14 months. The allowance is granted for the time between the child’s birth and completion of the 14th month of life. The total amount of parental allowance months can be split up between the parents or taken by only one parent. The allowance’s amount is 67% of the income from employment before childbirth, but at least EUR 300 and a maximum of EUR 1,800. There is no entitlement to parental allowance in the case of foster children. Team members can find further information on parental leave benefits via the [Federal Ministry for Family Affairs, Senior Citizens, Women and Youth](https://www.elterngeld-digital.de/ams/Elterngeld).
-- If [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement your pay to ensure you receive 100% pay for up to 16 weeks of your leave.
-- Please notify leaves@gitlab.com what state benefit you will be applying for and how much you will be receiving.
-    - The Absence Management team will then notify payroll to process the difference.
+- Eligible team members may choose to receive government-funded Parental Leave Pay (Basiselterngeld, ElterngeldPlus or Partnerschaftsbonus). Please note:  Any benefits received will be reduced due to the payments received by GitLab.  If a team member chooses to apply for ElterngeldPlus they should notify leaves@gitlab.com, otherwise GitLab will provide 100% of their wages for up to 16 weeks. 
+    - Parents are generally entitled to a monthly parental allowance paid by the German state for the maximum of in total 14 months. The allowance is granted for the time between the child’s birth and completion of the 14th month of life. 
+    - The total amount of parental allowance months can be split up between the parents or taken by only one parent. The allowance’s amount is 67% of the income from employment before childbirth, but at least EUR 300 and a maximum of EUR 1,800. There is no entitlement to parental allowance in the case of foster children. Team members can find further information on parental leave benefits via the [Federal Ministry for Family Affairs, Senior Citizens, Women and Youth](https://www.elterngeld-digital.de/ams/Elterngeld).
 
 **Applying for Parental Leave in Germany**
 
