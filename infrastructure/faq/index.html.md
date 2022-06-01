@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Frequently Asked Questions"
+title: "Infrastructure Department Frequently Asked Questions"
 ---
 
 ## On this page
