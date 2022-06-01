@@ -52,6 +52,17 @@ This method involves running a single ZSH script which will complete all of the 
 ### Troubleshooting
 * The script failed mid-execution, what do I do now?
   * You can try and run it again, it's built to be run repeatedly if necessary.
+* The script may fail with an error such as `command not found: brew` and/or `command not found: asdf` even after re-runs. In that case, please enter the following commands to correct:
+  ```bash
+  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ${HOME}/.zprofile
+  eval "$(/opt/homebrew/bin/brew shellenv)"
+  ```
+* The script may fail with an error indicating `yarn not found` even after re-runs. In that case, please enter the following commands to correct from the `www-gitlab-com` repo which was checked out:
+  ```bash
+  nversion=$(cat .tool-versions | grep nodejs | cut -d " " -f 2)
+  asdf install nodejs $nversion
+  asdf global nodejs $nversion
+  ```
 * I ran this script a while back, do I need to run it again?
   * You can run it again, there's no harm in doing so and it will update to the correct versions of all your dependencies as well which might be useful to solve problems.
 * My handbook is broken
