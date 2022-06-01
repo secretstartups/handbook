@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Learning Initiatives
-description: "The Learning & Development team is rolling out learning programs to enable a culture of curiosity and continual learning."
+title: Mini and Extended Challenges
+description: "Learning opportunities that utilitze a combination of GitLab issues, live learning sessions, and Slack to organize a group of learners around a specific topic."
 ---
 
 ## On this page
