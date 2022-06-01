@@ -121,7 +121,7 @@ group. <<<<<<<<**
 
 #### Prioritizing work
 
-Each Intermediate Support Engineer should generally be prioritizing their daily
+Each Intermediate and Senior Support Engineer should generally be prioritizing their daily
 work according to the following list. Interviews, training, special assignments
 and other time-bound commitments are examples of good temporary exceptions to
 these priorities. Your group might also determine a different workflow or
