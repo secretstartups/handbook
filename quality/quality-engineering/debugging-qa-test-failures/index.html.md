@@ -313,6 +313,7 @@ The failure is due to flakiness in the test itself.
 
 - Include your findings in a note in the issue about the failure.
 - Apply the `~"failure::flaky-test"` label.
+- Add the test to our [Test Reliability: Improve test design](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1330) tracking issue to identify areas of improvement that can help prevent future flakiness.
 
 Flakiness can be caused by a myriad of problems. Examples of underlying problems
 that have caused us flakiness include:
@@ -333,6 +334,8 @@ The failure is due external factors outside the scope of the test. This could be
 
 - Include your findings in a note in the issue about the failure.
 - Apply the `~"failure::test-environment"` label.
+- Identify the general category of improvement and add the failure issue to the approprite `Test Reliability` issue listed within the [Improve test environment reliability and reduce flaky/transient test failures](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1309) tracking issue.
+  - Endeavor to create an appropriate action item (issue or MR) to help resolve the reliability issue as indicated in the tracking issues.
 
 A job may fail due to infrastructure or orchestration issues that are not related to any specific test. In some cases these issues will fail a job before tests are ever executed. Some examples of non-test related failures include:
 
