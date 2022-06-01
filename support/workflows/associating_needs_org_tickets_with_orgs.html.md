@@ -184,7 +184,7 @@ Support Ops Team for help with this situation.
 
 #### Prerequisites
 
-Before you can associate a user with an organisation, please ensure that you have:
+Before you can associate a user with an organization, please ensure that you have:
 
 1. [identified the user as a customer](#identifying-customers)
 1. verified their proof of entitlement
@@ -293,4 +293,4 @@ Note: Proof of entitlement strictly includes primary email address associated fo
 
 ## AWS Marketplace purchases
 
-For customers who have purchased through the AWS marketplace, their license is a 5 user Premium License under the company name of "AWS Marketplace AMI".  This exists as an org in Zendesk, so customers proving entitlement with this license can be associated with the Zendesk organisation "AWS AMI Purchasers". This will apply the appropriate support entitlement tags.
+For customers who have purchased through the AWS marketplace, their license is a 5 user Premium License under the company name of "AWS Marketplace AMI".  This exists as an org in Zendesk, so customers proving entitlement with this license can be associated with the Zendesk organization "AWS AMI Purchasers". This will apply the appropriate support entitlement tags.
