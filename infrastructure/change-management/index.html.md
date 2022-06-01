@@ -86,7 +86,8 @@ These are changes with high impact or high risk. If a change is going to cause d
 1. Changes which include downtime must be pre-communicated to users. Follow the guidance for [Communicating a change that requires downtime](/handbook/engineering/infrastructure/change-management/#communicating-a-change-that-requires-downtime-maintenance-window)
 1. All the database changes related should have a review by a DBRE.
 1. Have the change approved by Infrastructure management at the Sr. Manager level or above.
-1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
+1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them. 
+(The source is pagerduty, if you don't have access try [getting assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance))
 1. Announce the start of the plan execution in the `#production` Slack channel and obtain a written approval from the EOC in both the issue and in Slack using the `@sre-oncall` alias.
 1. Join The "Situation Room" zoom channel with the EOC and obtain verbal approval to start the plan execution.
 
@@ -112,6 +113,7 @@ These are changes that are not expected to cause downtime, but which still carry
 1. Ensure there is a Due Date to the issue and an event to the [GitLab Production](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com) calendar.
 1. Changes which include downtime must be pre-communicated to users. Follow the guidance for [Communicating a change that requires downtime](/handbook/engineering/infrastructure/change-management/#communicating-a-change-that-requires-downtime-maintenance-window)
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
+(The source is pagerduty, if you don't have access try [getting assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance))
 1. All the database changes related should have a review by a DBRE.
 1. Have the change approved by Infrastructure management at the manager level or above.
 1. Announce the start of the plan execution in the `#production` Slack channel and obtain a written approval from the EOC in both the issue and in Slack.
