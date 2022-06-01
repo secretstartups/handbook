@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Product
+title: Product - Interpreting Release Dates
+description: One of GitLab's core values is Transparency. We do this to make collaboration easier and do this by default.
 ---
 
 ## Overview
