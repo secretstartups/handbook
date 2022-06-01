@@ -16,6 +16,9 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q2-FY23
 
+### 2022-05-31 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/128))
+
+**Sales Ops: [Update to Chorus Playlist Approval Process](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2930)**
 
 ### 2022-05-02 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/111))
 
