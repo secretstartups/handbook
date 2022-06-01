@@ -127,21 +127,27 @@ We encourage everyone to fully step away from work on their days off but underst
 
 ### Sick Time - Taking and Reporting
 
-In keeping with our values of [CREDIT](/handbook/values/), we have crafted the following protocol around sick time for all GitLab team members.
+Sick time refers to the time away a team member needs to recover from illness, or to care for a close family member recovering from illness. Sick time may be used for preventative reasons like a doctor’s appointment, or for reoccuring appointments (i.e chemotherapy, chiropratic visits, or pre-natal care). Eligible family members includes but may not be limited to: parent(s), child(ren), spouse, domestic partner, grandparent(s), grandchild(ren), or sibling(s). 
+
+In keeping with our values of [CREDIT](/handbook/values/), we have crafted the following protocols around GitLab's global sick time policy available to all GitLab team members.  Team members may be eligible for their own country's [Sick Time Policies](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) and should review eligiblilty under these policies as they may offer more time away or have different reporting procedures.  We understand team members experience situations when they need continuous time away from work (5 days or more) to care for themselves or a family member, or situations when they just need a few days (less than 5), GitLab's Sick Time policy is applicable in both situations.  
 
 #### Sick Time Procedures - All Team Members
 
-If you or a loved one is ill, we want you to take care of yourself or your loved one(s). To facilitate this, you should take sick time when you need it. Sick time is meant to be used when you are ill, or to care for family members including your parent(s), child(ren), spouse, registered domestic partner, grandparent(s), grandchild(ren), or sibling(s).
+**Continuous Time Away (in excess of 5 days or more), or Non-Continuous if related to the same illness:**
 
-Sick time refers to the time away a team member needs to recover from illness, or care for a close family member recovering from illness. Sick time may be used for preventative reasons like a doctor’s appointment, or for reoccuring appointments needed when recovering from an illness (i.e chemotherapy, chiropratic visits, or pre-natal care).
+Whenever allowed by law, GitLab's Sick Time Policy will supplement a team member's pay up to 100% of their regular salary for up to 25 days of continous absences, and run concurrently with any statutory Sick Leave policies team members are eligible for.  Eligibility is calculated on a rolling 12-month period, and only pertains to continuous absences when team members need to be away from work for 5 or more continuous days or non-continuous if related to the same illness.  
 
-You still need to report when you take sick time, by entering the dates as an `Out Sick` type of OOO event in [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) via Slack. Once entered in PTO by Roots, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems as needed.
+**Non-Continuous Absences or absences less than 5 continuous days:**
 
-If you need sick leave for more than 5 consecutive calendar days, or 5 non-continuous days related to the same illness, please follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
+If you or a loved one is ill, we want you to take care of yourself or your loved one(s). To facilitate this, you should take sick time when you need it, but you still need to report when you take sick time by entering the dates as an `Out Sick` type of OOO event in [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) via Slack. Once entered in PTO by Roots, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems if needed.
+
+If you end up needing sick leave for more than 5 consecutive calendar days, or 5 non-continuous calendar days related to the same illness, please follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
 
 #### Sick Time Procedures - USA
 
-Employees of GitLab Inc. are eligible for our Sick Time policy; which will run concurrently with any State or FMLA leave entitlement.  Team Members may experience a qualifying condition under FMLA after 3 days of continuous or non-continuous absences (if related to the same condition). Team Members may notify GitLab as of the 3rd day of their absence, but are required to notify GitLab no later than the 5th consecutive/non-consecutive absence. Team Members are under no obligation to reveal details to their manager directly, but they are required to report any absence of 5 days or more to the Absence Management Team [leaves@gitlab.com]. 
+In the United States, if you are missing more than 3 calendar days of work due to a serious medical condition or to care for a family member with a serious medical condition, your time away will be reviewed to determine if it qualifies as leave under the Family Medical Leave Act (FMLA) and/or any concurrent state sick leave statutes.  Employees of GitLab Inc. are eligible for our Sick Time policy; which will run concurrently with any State or FMLA leave entitlement, but must report their absence as early as the 3rd day but no later than the 5th day of absence. Team Members are under no obligation to reveal details to their manager directly, but they do need to report their absence to the Absence Management team [leaves@gitlab.com]. 
+
+* Please be aware that certain states in the US require you to notify your employer of the need for a medical leave prior to your first day of leave whenever possible. To ensure timely reporting and prevent any delays in your pay, please follow the instructions listed in the [Family Medical Leave Act](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#family-medical-leave-act) handbook section to report your time away. 
 
 Sick time does not get paid out in case of termination, nor does it reduce your final paycheck in case of a negative balance.
 
@@ -160,7 +166,9 @@ Employees of GitLab B.V. have further rights and responsibilities regarding sick
 
 #### Doctor's Note
 
-Please be aware that certain countries require a doctor's note or similar type of proper documentation for your sick time. To add a Doctor's note to BambooHR, please upload it to the employee uploads folder and let the Absence Management Team [leaves@gitlab.com] know that you have added it.
+Please be aware that certain countries require a doctor's note or similar type of proper documentation for your sick time. Please review your employment contract or your [country's](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) Sick Time policy to determine what documentation may be needed.
+
+To add a Doctor's note to BambooHR, please upload it to the employee uploads folder and let the Absence Management team (leaves@gitlab.com) know that you have added it. 
 
 ## Communicating Illness-Related Leave
 
