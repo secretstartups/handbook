@@ -65,7 +65,7 @@ If you book Hotels and/or Cars through TripActions, the costs will need to be ch
 
 **Trains**
 
-If you book Trains through TripActions, business related bookings can be added to the GitLab invoice and **no credit card is needed**.
+If you book Trains through TripActions, business related bookings should be, upon receipt of manager's approval, paid upfront and expensed through expensify**.
 
 **Personal Bookings**
 
