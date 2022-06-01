@@ -148,6 +148,12 @@ The invite email is send to their `GitLab` email address which they will get acc
 ## Enable self-service
 Our team members are expected to update their BambooHR profile on their first day at GitLab. To be able to do that they need to have `self-service` access level enable on BambooHR. We run a scheduled pipeline every day that enables this for team members starting the following day.
 
+In the event we failed to enable a particular team members account, a PEA can run the following command:
+
+```/pops run activateselfservice <EMPLOYEE_NUMBER>```
+
+This will attempt to enable the Self Service feature of their BambooHR profile.
+
 ## Onboarding Email
 
 This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/email_templates) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-exp@domain`.
