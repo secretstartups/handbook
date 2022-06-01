@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
-title: Integrated Marketing
+title: Integrated Marketing Job Family
+description: "Learn more about Integrated Marketing job family levels, roles and responsibilities."
 ---
 
 ## Levels
