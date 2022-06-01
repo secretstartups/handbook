@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Platypus Integrations Platform"
+title: "Using the Platypus API"
+description: "The Platypus API is a HTTP REST API. It is made up of various submodules which house various integration sources and data from different systems."
 ---
 
 {::options parse_block_html="true" /}

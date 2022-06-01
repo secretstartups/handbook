@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Talent Acquisition Metrics"
+title: "Talent Acquisition Metrics Dashboard"
 
 ---
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
