@@ -157,7 +157,7 @@ In certain circumstances we will need to close a users request without processin
 
 ###### Request Submitted Directly
 
-If a request is received because the requestor submitted it directly to the Personal Account Requests Service Desk email address rather than using [the form](https://support.gitlab.io/account-deletion/), close the issue and inform the requestor with the following snippet to open a new request through the form so that we can assist them. You can check if the request was sent via email by looking at the top of the issue. If it says `Created x time ago by <user_email> via GitLab Support Bot`, then it was submitted directly to the Personal Account Requests Service Desk email. Requests submitted using the form will have `techsupport@gitlab.com` as the issue creator. Example: `Created x time ago by techsupport@gitlab.com (reply to: <user_email>) via GitLab Support Bot`.
+If a request is received because the requestor submitted it directly to the Personal Account Requests Service Desk email address rather than using [the form](https://support.gitlab.io/account-deletion/), close the issue and inform the requestor with the following snippet to open a new request through the form so that we can assist them. You can check if the request was sent via email by looking at (1) the first reply of the issue as being the challenge questions (initial auto-checks passed) and (2) the section in the description that shows us what their form entries were (under "Form entries:"). 
 
 If the request is spam, please apply the label `Invalid Request::Spam` and close the issue.
 
