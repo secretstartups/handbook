@@ -16,20 +16,21 @@ description: "Learn more about the Product Career Development Framework Working 
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | April 21, 2021 |
-| Target End Date | May 31, 2021 |
+| Target End Date | January 31,2023 |
 | Slack           | [#wg_product-cdf](https://join.slack.com/share/zt-pg3dw504-aLrkdftFZ9xrqHEGqgqQMw) (only accessible by GitLab team members) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1a0baXkNsfDuDwcJ5IxNlLekCmFzElMGnmTmVAfQYV8o/edit?usp=sharing) (only accessible by GitLab team members) |
-| Docs            | TBD |
+| Docs            | [Framework Handbook Page](https://about.gitlab.com/handbook/product/product-manager-role/FY22-product-cdf/) |
 | Issues    | [Issue List](https://gitlab.com/gitlab-com/Product/-/issues?label_name[]=wg%3Aproduct-cdf) / [Issue Board](https://gitlab.com/gitlab-com/Product/-/boards/2778676?&label_name[]=wg%3Aproduct-cdf) |
 | Label           | `~wg-product-cdf` |
-| Associated KPIs/OKRs | TBD |
+| Associated KPIs/OKRs | Promotion Rate and Retention |
 | GitLab group for working group| `@wg-product-cdf |
 
 
 ## Business Goals
 
-1. Deliver a revised [Product Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework) for Individual Contributor roles in Product based on new competencies by 2021-12-31. 
-1. Conduct AMAs and training with Product Organization on new CDFs for use in FY22-Q4 Career Conversations. 
+1. Deliver a revised [Product Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework) for Individual Contributor roles in Product based on new competencies by 2022-06-20. 
+1. Conduct AMAs and training with Product Organization on new CDFs for optional use in a  FY23-Q3 Career Conversations. 
+1. Conduct AMAs and training with Product Organization on new CDFs for broad use in FY23-Q4 Career Conversations. 
 
 ### Protocols and Processes
 
@@ -51,17 +52,16 @@ description: "Learn more about the Product Career Development Framework Working 
 
 | Working Group Role    | Person                | Title                          |
 |-----------------------|-----------------------|--------------------------------|
-| Executive Sponsor     | Anoop Dawar | VP, Product Management |
-| Facilitator           | Jackie Porter | Group Manager, Product |
-| Contributor           | Farnoosh Seifoddini | Principal PM, Product Operations|
-| Functional Lead       | Hila Qu |  Director of Product, Growth |
+| Executive Sponsor     | David DeSanto | VP, Product |
+| Facilitator           | Jackie Porter | Director of Product, Verify & Package |
+| Facilitator           | Farnoosh Seifoddini | Group Product Manager, Product Operations|
+| Functional Lead       | Kenny Johnston|  Senior Director of Product, Ops & Analytics |
 | Functional Lead       | Joshua Lambert | Director of Product, Enablement |
-| Functional Lead       | David DeSanto  | Senior Director of Product, Dev & Sec |
+| Functional Lead       | Hillary Benson | Director of Product, Sec & ModelOps|
+| Functional Lead       | Justin Farris | Sr Director, Product Monetization |
 | Reviewer              | Gabe Weaver | Senior Product Manager |
 | Reviewer              | Sam Kerr | Principal PM|
-| Reviewer              | Michael Karampalas | Principal PM |
-| Reviewer              | Taylor McCaslin | Principal PM, Secure|
-| Reviewer              | Christen Dybenko | Senior Product Manager|
+| Reviewer              | Taylor McCaslin | Principal PM, ModelOps|
 | Reviewer              | Viktor Nagy | Senior Product Manager|
 | Reviewer              | Keith Chung | Senior Director, Pricing |
 
