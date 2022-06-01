@@ -63,11 +63,11 @@ The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This
 ### Reviewing Tamland Data
 
 1. The Tamland report is generated.
-   1. In the past, the report was generated on Thursdays to co-incide with an Infrastructure status meeting. The manual processes described below were completed in time for that meeting. 
 1. If Tamland predicts that a resource will exceed its alerting threshold ([as defined in the metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)) within the next 60 days, an alert will be generated. This alert is forwarded to GitLab alerting and a Slack message is generated in [#infra_capacity-planning](https://gitlab.slack.com/archives/C01AHAD2H8W).
-1. An engineer reviews the report looking for upward or unexpected trends in the data. 
-   1. Not all forecasts are always accurate: a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for example a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate.
-1. If the engineer observes an unexplained trend and there is no existing issue in the Capacity Planning tracker for this problem, they will raise a new incident issue in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker. 
+1. An issue is created for every alert.
+1. On a weekly basis, an engineer reviews all open issues in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker.
+   1. Not all forecasts are always accurate: a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for example a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate and if the issue requires investigation.
+1. If the engineer observes an unexplained trend they will note down their findings and find an appropriate DRI to investigate further and remediate.
    1. These issues can be the catalyst for other issues to be created in the `gitlab-org/gitlab` tracker by the stage groups for further investigation. These issues must be connected to the capacity planning issues as related issues.
 1. Any issue concerning resource saturation or capacity planning in any tracker should have the `GitLab.com Resource Saturation` label applied.
 
@@ -75,9 +75,9 @@ The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This
 
 Capacity Planning issues are created without a state. After the initial assessment, one of the following labels should be applied. 
 
-1. `capacity-planning::in-progress` - there is a mitigation in progress for this alert
 1. `capacity-planning::investigate` - this alert requires further active assessment before deciding on a course of action
 1. `capacity-planning::monitor` - we need to wait for time to pass to gather further data on this issue to make a decision on how to proceed
+1. `capacity-planning::in-progress` - there is a mitigation in progress for this alert
 1. `capacity-planning::verification` - we have completed work on this issue and are  verifying the result
 
 ### Relaying Capacity Incidents to Engineering
