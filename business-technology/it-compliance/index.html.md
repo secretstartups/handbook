@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "IT Security and Compliance"
-description: "IT Security and Compliance"
+description: "IT Security and Compliance works collaboratively with multiple functional teams throughout the GitLab organization."
 ---
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
