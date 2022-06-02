@@ -57,17 +57,15 @@ Please ensure your issue is **unassigned** as our team will be assigning issues 
 
 
 **Issue Templates Video**
-{: .panel-heading}
- 
-<div class="panel-body">
-<figure class="video_container">
- <video controls="true" allowfullscreen="true" poster="/images/default-blog-image.png">
-   <source src="html5-Issue.Templates.mp4" type="video/mp4">
- </video>
-</figure>
-</div>
 
- 
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/1FpmT3G2Hz4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
 
 ## Communicating with the Channel Teams via Slack
 
