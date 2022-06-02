@@ -316,9 +316,11 @@ Request your license by logging in to the [Partner Portal](https://www.partners.
 
 
 *   Partners can receive one Self-Managed and one SaaS NFR license at the Ultimate level for a 12 month period.
-    *   Select partners can request a license for up to 25 users - additional licenses may be available with business justification.
+    *   Select partners can request a license for up to 25 users - additional licenses may be available with business justification*.
     *   Open partners can request a license for up to 10 users
 *   Please allow 2 business days for processing your request. 
+
+*The Partner Help Desk manages all NFR requests that fall within the NFR program rules. Any requests outside the program need to be requested, managed, and tracked through the account manager.
 
 **NFR Program Eligibility**
 
