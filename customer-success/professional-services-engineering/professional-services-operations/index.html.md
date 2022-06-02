@@ -128,7 +128,7 @@ For T&M projects, revenue is released at each month end. Project hours are submi
 ##### Revenue Release FP Projects
 
 For FP projects, revenue is released when customer acceptance is received or passive acceptance has passed as it pertains to the project SOW language.
-The PM sends out the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink
+The PM sends out the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink.  When counting the passive acceptance days, day 1 would be the date the notifiation is sent, from the date sent then business days is calculated for the passive acceptance.
 *  Update Sign Off Sent, when email request is sent
 *  Update Sign Off received, when acceptance is received or Passive Acceptance is reached and add the PDF email of acceptance to the Milestone
 *  Update if Passive Acceptance has been utilized for sign off
