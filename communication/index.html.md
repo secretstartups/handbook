@@ -266,6 +266,8 @@ While a designated person may be the primary person responsible for note-taking 
 
 Use discretion in taking notes if sensitive topics are being discussed. For example, do not takes notes on [not-public information](/handbook/communication/#not-public) if the agenda may be available to an audience who should not be privy to this information.
 
+In a conversation, a person may ask for folks to stop taking notes. When this happens, note-taking should stop for the duration of the discussion unless there is verbal confirmation that note-taking should resume. When you suspect that note-taking should resume, but it has not been verbally confirmed, please ask for the confirmation before typing. 
+
 If you have any questions about what may or may not be a sensitive topic, please refer to our SAFE Framework or reach out via the `#safe` Slack channel
 
 ### Posting in #company-fyi
