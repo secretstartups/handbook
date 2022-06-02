@@ -16,7 +16,7 @@ There are groups of channels that can help with various areas of GitLab.  This p
 
 ## Search
 
-Search for channels using either the `Search GitLab` toolbar, using a channel name with the `#channel-name` format, **or** go the the left sidebar, click on `More` and then `Channel browser`.
+Search for channels using either the `Search GitLab` toolbar, using a channel name with the `#channel-name` format, **or** go the left sidebar, click on `More` and then `Channel browser`.
 
 ## Channels
 

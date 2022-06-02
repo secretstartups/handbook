@@ -37,11 +37,11 @@ Embracing asynchronous communication and learning to use it effectively requires
 
 If you see something that concerns you in Slack, Issues, Merge Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss.
 
-## Communicating Potentially Sensistive Topics 
+## Communicating Potentially Sensitive Topics 
 
 As GitLab matures, we want to continue to foster discussion while evolving our communication guidelines so that topics that are potentially sensitive are discussed in appropriate forums. This is particularly relevant as team members heavily leverage async modes of communication including merge requests, issues and epics, and in Slack communication. 
 
-Words have impact long after they are written, and even when you're communicating internally, the manner in which you speak with one another should be viewed through an external lens.  For additional information, please review our [Giudelines for ecommunicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/).
+Words have impact long after they are written, and even when you're communicating internally, the manner in which you speak with one another should be viewed through an external lens.  For additional information, please review our [Guidelines for communicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/).
 
 This guidance supplements and overlaps with [GitLab's SAFE Framework](/handbook/legal/safe-framework/), the guidance on the use of [the internal handbook](/handbook/handbook-usage/#the-internal-handbook) and the additional guidance on this page. We ask our team members to consider the factors below in their communication. 
 
@@ -94,7 +94,7 @@ Key practices to consider during any meeting are listed below.
 
 ### Communicating with media and industry analysts
 
-GitLab employees and contractors are not authorized to speak with the media or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
+GitLab team members are not authorized to speak with the media or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
 
 For more, please visit the [Corporate Communications handbook section](/handbook/marketing/corporate-marketing/#corporate-communications-and-pr-public-relations).
 
@@ -391,7 +391,7 @@ Some things are **internal**, available internally but not externally. In instan
 
 The following items are internal:
 
-1. Security and [abuse](/handbook/engineering/security/security-operations/trustandsafety/#what-is-abuse) vulnerabilities are not public since they would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security and abuse implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
+1. Security and abuse vulnerabilities are not public since they would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security and abuse implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
 1. Financial information, including revenue and costs for the company, is confidential because we are a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
    - The specific [IACV](/handbook/sales/sales-term-glossary/arr-in-practice/) of an opportunity
    - Total monthly cash inflow/outflow for GitLab.com
@@ -529,7 +529,7 @@ In informal acknowledgement scenarios, such as on Slack or on issue comments, it
 
 ## Presentations
 
-1. All presentations are made in Google Slides using [our templates](/handbook/tools-and-tips/#updating-your-slide-deck-theme).
+1. All presentations are made in Google Slides using [our templates](/handbook/tools-and-tips/#updating-your-existing-slide-deck-theme).
 1. Please allow anyone at GitLab to edit the presentation (preferred) or at least comment on the presentation.
 1. If the content can be public use File > Publish to the web > Publish to get a URL and paste that in the speaker notes of the first slide (commonly the title slide).
 1. The title of every slide should be the message you want the audience to take away, not the subject matter. So use 'Our revenue more than doubled' instead of 'Revenue growth'.
@@ -659,7 +659,7 @@ At GitLab, social calls are considered an important way to foster culture while 
 
 These calls happen three times a month at varying times to ensure that team members in all timezones are able to take part. We currently have one open or random topic room along with three topic specific ones based on the most popular channels within Slack i.e. `#gaming`, `#fitlab` and `#intheparenthood` which team members need not be a part of to join in.
 
-Previously social calls never had a set agenda however participants are now encouraged to document discussion points or questions in the relevant Google Doc - this is to ensure those considering attending have an overview of what to expect along with offering those who were unable to attend an opportunity to scroll back review points of interest.
+Previously social calls never had a set agenda however participants are now encouraged to document discussion points or questions in the relevant Google Doc - this is to ensure those considering attending have an overview of what to expect along with offering those who were unable to attend an opportunity to scroll back and review points of interest.
 
 The use of a document also serves to ensure that everyone gets a chance to contribute to the conversation.
 
@@ -1195,7 +1195,7 @@ Simple Language is important both when we're speaking to other team members and 
 
 Be sure to use Simple Language in written communications as well.
 Our handbook, website, docs, marketing materials, and candidate or customer emails should be clear, concise, and effective.
-Corporate marketing maintains guidelines on [GitLab's tone of voice](/handbook/marketing/corporate-marketing/#tone-of-voice-1).
+Corporate marketing maintains guidelines on [GitLab's tone of voice](https://design.gitlab.com/brand/overview#tone-of-voice).
 
 | Instead of...                       | Try...                                        |
 | ----------------------------------- | --------------------------------------------- |
@@ -1466,7 +1466,7 @@ Yerbo is a mental well-being tool that helps teams track burnout and monitor ris
 
 1x per week, the app sends a message to users and asks them to complete a 2-minute self reflective survey. Answers are aggregated over time and display in a personal dashboard where team members can view their potential risk of burnout and take action to improve. Learn more about how the app works by watching [this video](https://yerbo.wistia.com/medias/pbuaibuxfz). Below is a screenshot of the in-app dashboard view.
 
-![yerbo dashboard view](/sites/handbook/source/handbook/communication/yerbo-dashboard.png)
+![yerbo dashboard view](handbook/communication/yerbo-dashboard.png)
 
 Read more about how GitLab combats [burnout, isolation, and anxiety in an all-remote workplace](/company/culture/all-remote/mental-health/).
 
@@ -1643,7 +1643,7 @@ See the [YouTube page](/handbook/marketing/marketing-operations/youtube/) for op
 
 Anyone can test their knowledge on GitLab Communication. To obtain a certificate, you will need to complete this [knowledge assessment](https://gitlab.edcast.com/pathways/ECL-b01718a2-192c-4e0c-9852-31115b1e054f) and earn at least an 80%. Once the quiz has been passed, you will receive an email with your certificate that you can share on your personal LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
 
-## Crisis Process
+## Daily Sync Escalation Process
 
 GitLab has a specific process to follow in crisis situations to ensure effective communications. Details can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/company/crisis-process).
 

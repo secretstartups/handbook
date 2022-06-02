@@ -69,7 +69,7 @@ It is near impossible to be an effective facilitator while also being a particip
 
 Before facilitating a session, all facilitators will complete the following steps: 
 1. Complete the [Linkedin Learning Facilitator Training](https://www.linkedin.com/learning/meeting-facilitation/)
-1. Complete the [LinkedIn Learning Empathy Training] (https://www.linkedin.com/learning/communicating-with-empathy/empathy-as-a-path-to-productive-conversations?u=2255073)
+1. Complete the [LinkedIn Learning Empathy Training](https://www.linkedin.com/learning/communicating-with-empathy/empathy-as-a-path-to-productive-conversations?u=2255073)
 1. Watch the purpose of Reverse AMA's Video (too come)
 1. Shadow a current faciliator when they are running and AMA
 1. Be shadowed by a current facilitator in your first AMA 
@@ -110,7 +110,7 @@ When scheduling an AMA, be mindful of timezones.  Generally it is best to have t
 
 Once a Reverse AMA takes place, a 15-30 minutes debrief meeting should be scheduled immediately following to ensure there is a timely discussion and DRIs are assigned to all actions. 
 
-Immediately should be within the week or following the Reverse AMA for best practices.  Understanding there are time zones and schedules to consider.  When possible scheduling the debrief ahead of time for immediately following the the Reverse AMA would be an effective approach.  The debrief template includes the DRI and target to complete and should be updated accordingly.
+Immediately should be within the week or following the Reverse AMA for best practices.  Understanding there are time zones and schedules to consider.  When possible scheduling the debrief ahead of time for immediately following the Reverse AMA would be an effective approach.  The debrief template includes the DRI and target to complete and should be updated accordingly.
 
 The debrief should include the People Business Partner, AMA Facilitator and DIB team member.  There are times where the Debrief is scheduled with the E-group leader however this is optional and as needed.
 
