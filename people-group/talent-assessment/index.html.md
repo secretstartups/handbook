@@ -360,34 +360,6 @@ The Performance/Growth Matrix typically takes 4-6 weeks to complete from beginni
 1. Performance and Growth results are communicated to team members. Managers can leverage [this template](https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit#) for communication. 
 1. Annual Compensation review kicks off after Talent Assessment
 
-## Mid-Year Check In
-
-It is recommended (but not required) that managers have discussions on [Performance](https://about.gitlab.com/handbook/people-group/talent-assessment/#what-is-performance) and [Growth](https://about.gitlab.com/handbook/people-group/talent-assessment/#what-is-growth) with their team members early Q3 prior to the formal assessment in Q4. Benefits to having this second dedicated discussion are:
-
-* To align 
-* To provide a space for questions/clarification ahead of the formal assessment 
-* To receive feedback from the team member on their own performance/growth 
-* To provide feedback to the team member on their performance/growth
-* To check in on progress from previous career discussions and goals
-* To become more familiar and comfortable with discussing performance and growth
-
-*Please document the mid-year discussion.* While the mid year assessment is not "formal" in the sense that it will not be the final assessment utilized to inform the annual compensation review and there will not be calibration sessions, it is important to capture what was discussed, feedback, and points addressed to help inform future discussions and assessments. This conversation can be documented in your 1:1 document, or alternatively, you may leverage [this template](https://docs.google.com/document/d/1ulyuazZpNAFnoOFDITo4fUHLDAX_bKhr242uG9x4yPE/edit#heading=h.j3xr5kqp6s24). 
-
-#### Timeline
-
-Mid-year conversations should be complete and documented by October 3, 2022 at the latest. Managers have a couple of options in terms of timeline and when to conduct these conversations:
-
-1. Conduct a single conversation on Performance/Growth/and 360 feedback results aligned with the [360 feedback cycle timeline](/handbook/people-group/360-feedback/#timeline-fy22)
-1. Conduct two separate conversations (one of Performance/Growth, and another on 360 feedback results after [reports come out](/handbook/people-group/360-feedback/#timeline-fy22)). If this option is chosen, 360 feedback results should be considered and reviewed to incorporate into Performance/Growth documentation after the fact to ensure we do not lose this data point. 
-
-There will be a Manager training session on Performance and Growth delivered by PBPs on  **TBD (APAC/Americas) and TBD (EMEA/Americas)**. "Growth" was previously referred to as "Potential". Training will be provided as we will be implementing "Growth" assessments company-wide this year.
-
-_Note: Not all division chose to participate in the 360 feedback cycle for FY32. This is completely fine, and we recommend that Performance/Growth conversations are conducted regardless leveraging other feedback and data points pertaining to Performance and Growth._
-
-1. **2022-08-XX (APAC/Americas) and 2022-08-XX (EMEA/Americas)**: Manager training on Performance and Growth delivered by PBPs _(Note: "Growth" was previously referred to as "Potential". Training will be provided as we will be implementing "Growth" assessments company-wide this year.)_
-1. **2022-08-XX - 2022-09-XX**: Managers begin compiling any relevant data points/information to help facilitate the Performance/Growth and 360 feedback conversation with team members. Team members should also consider and reflect upon their own Performance and Growth ahead of the session.
-1. **2022-09-XX**: 360 reports become available for divisions that chose to participate. 
-1. **2022-09-XX - 2021-10-XX:** Manager and team members scheduling a synchronous discussion to discuss and document performance, growth, and 360 feedback results. 
 
 ## Communication 
 
@@ -599,6 +571,76 @@ The Performance/Growth Factor is one of the factors considered in the [Annual Co
     *  You should continue to move forward with communicating their performance factor to them and use the meeting as an opportunity to reinforce the expectations of meeting the goals highlighted in the plan.
 * **My team member has recently been promoted - but we assessed the Performance/Growth prior to the promotion. How do I communicate that to the team member?**
     *  The timing of a promotion can sometimes coincide with the Talent Assessment. It's important to discuss with the team member whether the talent assessment was based on the previous or new role. Being promoted recognizes high performance both in terms of increased scope/responsibility, and monetarily through compensation increase; therefore a **promotion "resets" the performance/growth factor evaluation** if the team member was assessed prior to the promotion. With the promotion, the job responsibilities and scope can change significantly; therefore a new assessment should be made at the next talent assessment period. We recommend you review the responsibilities of the new role and identify focus points for growth in the new role. 
+
+## Mid-Year Check In
+
+Great managers share [feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/) with team members year-round in 1:1 meetings and ad-hoc. A dedicated Mid-Year check-in is a useful tool to support a  holistic discussion between team member and manager about how things are going as we approach the second half of the fiscal year. During the Mid-Year check in, we assess how things are going from both the team member and managers' points of view, and share feedback to help inform performance and development plans. Leaning into where things are going well, as well as uncovering blind spots or improvement areas early are the keys to delivering great results. A Mid-Year check in complements weekly, on-going feedback, so we recommend documenting your discussion in your 1:1 doc to support frequent updates on action items and development goals.  
+
+Goals of the Mid-Year check in are:
+
+* To provide a dedicated space for questions/clarification about performance and growth opportunities at GitLab
+* Team members share a cumulative self assessment of their performance against expectations and progress on development goals   
+* Managers respond, and provide their own cumulative update to the team member on how things are going. This should build on the regular performance feedback they should be delivering weekly in 1:1s and ensure no surprises at the end of the year review.
+
+#### Eligibility
+
+To participate in the mid-year check in we recommend that team members have at least 3 months of tenure so accomplishments and improvement areas are able to be clearly outlined with examples. As our mid-year review kicks off on June 6, 2022, team members hired _on or before March 6, 2022 would be eligible to participate_. 
+
+#### Process 
+
+Recommended process for our FY'23 Q2 cycle will be as follows:
+
+1. _Team Member Led: Team member provides a self-assessment on thier own performance in their [1:1 document](https://about.gitlab.com/handbook/leadership/1-1/)_
+
+Team members can leverage their 1:1 document and should reflect on their achievements, strengths, and opportunity areas since the last formal Talent Assessment in FY'22 Q4. It is the team member’s responsibility to provide the self-assessment and bring it to the conversation with their manager to discuss and align. Documenting in the 1:1 agenda ensures the material is available to come back to throughout the rest of the year.  
+
+A recommended agenda for the Mid-Year check-in 1:1 is as follows:
+
+- **Achievements**
+
+List your 3 most significant achievements since the last formal [Talent Assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/), aligned with the job responsibilities and expectations of the role. This can include significant impact to the department or company, customer-impact, community-impacting, etc. Feedback can also be included in this section if applicable.
+
+- **Strengths & Opportunities in Role**
+
+In this area the goal is to determine 2-3 strengths and 2-3 opportunity areas in accordance with your role, job family, and [job framework](https://about.gitlab.com/company/team/structure/#job-frameworks). Include examples when necessary to provide clarity or context.  Ensure there are actionable takeaways.
+        - Strengths
+        - Opportunity Areas
+
+- **Support Needed**
+
+A place to outline any support needed from your manager for your ongoing success and development at GitLab.
+
+- **Manager Feedback**
+
+Managers will provide additional feedback or response to the self-assessment outlined above. Managers should be sure to reference the Achievements (3) and Roles & Responsibilities (Strengths and Opportunities) outlined by the team member above, and to any additional thoughts or feedback (2-3 points).
+
+- **Next Steps**
+
+A space for the team member and manager to document any relevant next steps stemming from this conversation. This could be a full [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) or a couple of key actions or development opportunities for the individual. 
+
+2. _Manager Feedback: Team members let their manager know when they have provided their self-assessment overview in their [1:1 document](https://about.gitlab.com/handbook/leadership/1-1/)_
+
+Team members should share their Mid-Year Check In document with their manager at least one week prior to the live discussion to ensure managers have time to review the content, and to add in their own feedback in the `Manager Feedback` section.
+
+3. _Live Discussion_
+
+Team members and managers use a dedicated 1:1 to discuss the Mid Year check in.
+
+4. _Align on actions/next steps_
+
+Team member and manager align on action items stemming from the conversation to best support team member development and alignment to their goals. You are encourage to leverage our [Career Development and Mobility](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) handbook page for ideas and inspiration. 
+
+#### Timeline
+
+Mid-Year Check In launch: 
+- June 8, 2022
+
+Mid-Year Check In end:
+- July 22, 2022
+
+We have intentionally provided a longer timeline to ensure different business group priorities are accommodated. 
+
+
  
 ## Succession Planning
 
