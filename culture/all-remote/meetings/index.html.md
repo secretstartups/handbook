@@ -280,6 +280,7 @@ In addition to making it effective and efficient for participants to contribute 
 1. Don't be discouraged by interruptions. Sometimes, there is a lag on a remote call.
 1. Speak up as soon as you notice something is not working.
 1. Start and end your calls on time. 
+1. Give attendees the option to ask someone else to `please verbalize` for them if they aren't comfortable speaking up.
 
 For more tips, visit the [GitLab video call communication guide](/handbook/communication/#video-calls).
 
