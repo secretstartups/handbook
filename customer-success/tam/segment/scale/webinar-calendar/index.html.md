@@ -22,7 +22,7 @@ If you know someone who might be interested in attending, feel free to share the
 ### June 2022
 
 ### GitLab Administration on SaaS
-#### June 6th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
+#### June 7th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
 Learn how to manage groups, projects, permissions, and more as you embark on your journey as an Owner in GitLab SaaS. In this session, you will learn what you can and cannot control and customize on the SaaS platform, and come out a SME in administration.
  
