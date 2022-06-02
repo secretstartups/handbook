@@ -296,7 +296,7 @@ Description
 </details>
 
 #### Package Stage
-The Package team works on the package and container registries.
+The Package team works on the package and container registries, as well as the Dependency Proxy.
 
 <details markdown="1"><summary>Click to expand</summary>
 
@@ -316,7 +316,11 @@ Customer specific data tables regarding specific Package feature usage
 
 * [Package: Costs](https://app.periscopedata.com/app/gitlab/1011032/Package:-Costs)
 
-WIP dashboard analyzing GCP costs associated with general 'registry' costs. There are outstanding questions about GCP tables that may impact these analyses in the future.
+Dashboard analyzing GCP costs associated with Package features. 
+
+* [Package:-UI-Data](https://app.periscopedata.com/app/gitlab/1033908/Package:-UI-Data)
+
+Dashboard measuring user interaction with the GitLab.com user interface.
 
 **Important data documentation**
 
