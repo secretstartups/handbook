@@ -17,7 +17,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ## Overview
 
-The Strategic segment focuses on planning, enablement, expansion for our largest customers, as defined by our [segment criteria](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/Segments).
+The Strategic segment focuses on planning, enablement, expansion for our largest customers, as defined by our [segment criteria](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/TAM-Segments).
 
 Iteration 1 - Strategic TAM Customer Lifecycle Journey
 

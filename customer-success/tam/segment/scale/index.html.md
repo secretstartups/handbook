@@ -19,7 +19,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 Definition: The Scale TAM team is a new team being established at GitLab in FY23, a key tenant in our customer success strategy to align with our [company strategy around establishing and expanding our customer-centric approach and focus](https://about.gitlab.com/company/strategy/#3-customer-centricity). 
 
-Scale TAMs driving programmatic enablement and targeted customer engagement across the longtail customer base. [For the ARR thresholds for the Scale customer segment please reference this Wiki page](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/Segments)(GitLab Internal)
+Scale TAMs driving programmatic enablement and targeted customer engagement across the longtail customer base. [For the ARR thresholds for the Scale customer segment please reference this Wiki page](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/TAM-Segments) (GitLab Internal)
 
 ## Customer lifecycle
 

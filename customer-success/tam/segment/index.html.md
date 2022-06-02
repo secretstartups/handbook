@@ -18,7 +18,7 @@ The Technical Account Manager organization is distributed across different custo
 
 ## Segment criteria
 
-Segment criteria are [defined in the Technical Account Manager wiki](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/Segments).
+Segment criteria are [defined in the Technical Account Manager wiki](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/TAM-Segments).
 
 ## Segments
 
