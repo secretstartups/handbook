@@ -22,7 +22,7 @@ As we continue to increase and magnify customer centricity at GitLab, E-Group an
 
 ## Cadence
 
-The VP of Customer Success and CoS to CRO aim to coordinate at least one 50-minute Fireside Chat per quarter based on the customer and partner’s availability.
+The VP of Customer Success and CoS to CRO aim to coordinate at least one 50-minute Fireside Chat per month based on the customer and partner’s availability.
 
 ## Customer and Partner Selection Process
 
@@ -70,14 +70,7 @@ The structure and agenda of the fireside chat will be largely dependent on the c
 
 The moderator will lead the curation of the agenda, by modifying questions in advance and synchronizing with the customer or partner. 
 
-A sample agenda looks like this: 
-
-1. Introductions (5 min or less) 
-1. Moderator: Question 1 (5 min) 
-1. Moderator: Question 2 (5 min) 
-1. Moderator: Question 3 (5 min) 
-1. Open Q&A (15 min) 
-1. Closing & Thank You (2 min) 
+[Agenda Template](https://docs.google.com/document/d/1UB7UlnqHUZedeYB_J_syXuoIaTFHl5nrk0Id42uo2SU/edit?usp=sharing). Please make a copy of this as a starting point. If you have questions on the template, please ping the CoS to the CRO in #customer-centricity. 
 
 The moderator should plan to have at least 2-3 questions ready to help start the discussion and may choose to alter the questions based on the customer/partner's response. The moderator may choose to sync with the account team, or executive account sponsor to learn more about their guest or solicit feedback from key stakeholders on the agenda.  
 
