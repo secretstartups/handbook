@@ -166,7 +166,7 @@ There is a process for [updating the list](/handbook/business-ops/data-team/kpi-
 ## General Group Conversation
 
 [Group Conversations (GCs)](/handbook/group-conversations/) are updates on different parts of the company every 6 weeks.
-The CoS to the CEO team prepares the General GC slides for the CEO.
+The CoST to the CEO prepares the General GC slides for the CEO.
 During the General GC, they help facilitate the flow and ask team members to verbalize.
 The CEO gives a General GC that covers the whole of the company.
 The CEO's GC slides usually cover:
@@ -196,8 +196,7 @@ Be sure that slides are prepared with enough notice for the CEO to record a vide
 The executives get together every quarter for the [e-group offsite](/company/offsite/).
 The CoS to the CEO plays an important [role](/company/offsite/#roles).
 It's [3 to 4 days long](/company/offsite/#schedule) with a CEO Skips meeting within the following days.
-[There is a content discussion](/company/offsite/#content-choice).
-There are [recurring content discussions](/company/offsite/#recurring-discussion-topics).
+There are [recurring discussion topics](/company/offsite/#recurring-discussion-topics) as well as a [discussion on content](/company/offsite/#content-choice) chosen by the CEO.
 
 ## CEO Performance Evaluation
 
@@ -237,11 +236,11 @@ There is an issue to also [add DRIs and review the mitigations](https://gitlab.c
 
 ## Supporting Contribute Challenge
 
-The CEO chooses to run a Contribute Challenge in advance of some [Contributes](/events/gitlab-contribute/). The Challenge is shared at least two weeks in advance of Contribute. As an example, the 2020 Challenge encouraged team members to [beautify docs](https://gitlab.com/groups/gitlab-org/-/epics/3063). The CoST to the CEO team is responsible for collaborating with the CEO to create and introduce the challenge. The CEO is responsible for identifying a prize for team members, but the CoST should ensure that a prize is identified and support the CEO in this if needed.
+The CEO chooses to run a Contribute Challenge in advance of some [Contributes](/events/gitlab-contribute/). The Challenge is shared at least two weeks in advance of Contribute. As an example, the 2020 Challenge encouraged team members to [beautify docs](https://gitlab.com/groups/gitlab-org/-/epics/3063). The CoST to the CEO is responsible for collaborating with the CEO to create and introduce the challenge. The CEO is responsible for identifying a prize for team members, but the CoST should ensure that a prize is identified and support the CEO in this if needed.
 
 ## Program managing [JiHu](https://about.gitlab.com/pricing/faq-jihu/)
 
-A member of the Chief of Staff Team to the CEO is the DRI within GitLab for the success of GitLab's partnership with JiHu. Coordination with JiHu requires engagement from multiple functions within GitLab. The CoS to the CEO team ensures that the appropriate folks are engaged at the right times and that GitLab provides appropriate support to this separate entity.
+A member of the Chief of Staff Team to the CEO is the DRI within GitLab for the success of GitLab's partnership with JiHu. Coordination with JiHu requires engagement from multiple functions within GitLab. The CoST to the CEO ensures that the appropriate folks are engaged at the right times and that GitLab provides appropriate support to this separate entity.
 
 ## Maintaining the handbook
 
