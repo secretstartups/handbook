@@ -538,7 +538,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 ### Alberta
 * [Workers Compensation Act](https://www.wcb.ab.ca/assets/pdfs/employers/123_english.pdf)
-* [Employment Standards Code](https://www.alberta.ca/assets/documents/es-general-online-poster.pdf)
+* [Employment Standards Code](https://open.alberta.ca/dataset/4ce53d11-040d-400e-834c-12ae33fbe3e4/resource/6975615e-5a45-4355-8f91-249947c8b89b/download/es-general-online-poster.pdf)
 
 ### Manitoba 
 * [Safe Work Manitoba](https://www.safemanitoba.com/Page%20Related%20Documents/resources/BR_EveryonesResponsibilityLong_15SWMB.pdf)
