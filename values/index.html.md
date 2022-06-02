@@ -1364,6 +1364,14 @@ Below are some attributes of political and non-political work environments. GitL
     <iframe src="https://www.youtube.com/embed/vEk9z5vumB8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+## Values make choices
+
+Values make and clarify choices. A well-chosen value has a defensible opposite. Apple, for example, values secrecy over transparency and product perfection over iteration. They are successful building around our counter values &mdash; although the result is a very different company.
+
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/embed/xGN_LQT0n9A" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## What is not a value
 
 - [All-remote](/company/culture/all-remote/) isn't a value. It is something we do because it helps to [practice our values](/company/culture/all-remote/values/) of transparency, efficiency, results, and diversity, inclusion & belonging.
