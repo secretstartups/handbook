@@ -873,14 +873,6 @@ Switch to your GitLab account.
 Use these [GitLab branded form templates](https://drive.google.com/open?id=0BxrZ6azkqZ1bVDl1TTZuelFOb1k) when creating internal or external surveys or forms.
 Make a copy of the form and only edit the copy; do not edit the template itself.
 
-### Google Hangouts
-
-Computers with older CPUs (pre-2016/Skylake) may be missing hardware acceleration for [VP9](https://en.wikipedia.org/wiki/VP9#Hardware_encoding.2Fdecoding_support).
-In Chrome, this can cause excessive CPU due to use of the codec.
-On macOS switching to Safari or using [h264ify](https://github.com/erkserkserks/h264ify) ([Chrome Web Store](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal)) solves this since it will use h264 that is hardware accelerated.
-
-To check the status of acceleration on Chrome, see the "Video Encode" option in about://gpu (type the address about://gpu directly into the browsers address bar as the hyperlink will not work).
-
 ### Google Mail (Gmail)
 
 #### Auto-advance
