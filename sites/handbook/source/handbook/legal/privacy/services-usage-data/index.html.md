@@ -13,7 +13,7 @@ To achieve the foregoing, GitLab wishes to collect information about how the fea
 ## How is the data collected?
 **SaaS** software will automatically log information about interactions with the application, such as the date and time of visit, and the feature and functionality that has been clicked on or used. <br>
 
-**Self-Managed** software (Community Edition and Enterprise) information about usage from each Self-managed instance is collected through a technology called Service Ping (previously known as Usage Ping). Service Ping sends a payload containing data to GitLab. Only aggregates of usage data for each instance is sent to GitLab. You can view the exact payload of the Service Ping in the administration panel in GitLab.
+**Self-Managed** software (Community Edition and Enterprise) information about usage from each Self-managed instance is collected through a technology called Service Ping (previously known as Usage Ping). Service Ping sends a payload containing data to GitLab. Only aggregates of usage data for each instance is sent to GitLab. You can view the exact payload of the Service Ping in the administration panel in GitLab. For air-gapped or offline customers who activated with an offline Cloud License, data can be manually downloaded to a .csv file and emailed to GitLab. 
 
 ## Categories of Data Collected
 ### Subscription Data
