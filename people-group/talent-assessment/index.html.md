@@ -584,7 +584,7 @@ Goals of the Mid-Year check in are:
 
 #### Eligibility
 
-To participate in the mid-year check in we recommend that team members have at least 3 months of tenure so accomplishments and improvement areas are able to be clearly outlined with examples. As our mid-year review kicks off on June 6, 2022, team members hired _on or before March 6, 2022 would be eligible to participate_. 
+To participate in the mid-year check in we recommend that team members have at least 3 months of tenure so accomplishments and improvement areas are able to be clearly outlined with examples. As our mid-year review kicks off on 2022-06-08, team members hired _on or before March 6, 2022 would be eligible to participate_. 
 
 #### Process 
 
@@ -633,10 +633,10 @@ Team member and manager align on action items stemming from the conversation to 
 #### Timeline
 
 Mid-Year Check In launch: 
-- June 8, 2022
+- 2022-06-08
 
 Mid-Year Check In end:
-- July 22, 2022
+- 2022-07-22
 
 We have intentionally provided a longer timeline to ensure different business group priorities are accommodated. 
 
