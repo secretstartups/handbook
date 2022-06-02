@@ -10,7 +10,7 @@ title: Product Development Flow
 {:toc .hidden-md .hidden-lg}
 
 
-_To see a list of the latest updates to this page, visit [product development flow releases](/handbook/product-development-flow/releases)_
+Please follow this [guidance](#contributing-to-this-page) on how to contribute this page. To see a list of the latest updates to this page, visit [product development flow releases](/handbook/product-development-flow/releases)
 
 ## Overview & philosophy
 
@@ -26,7 +26,7 @@ This page is an evolving description of how we expect our cross-functional devel
 
 Feature development is expected to pass through all phases to achieve specified outcomes, while the rest of the workflow should be considered as a set of best practices, tools, and recommendations. We realize there are unique cases in which certain product improvements may not need to flow through all the phases. We trust product managers to use their best judgement with alignment from their design and engineering team. The goal of this page is to support teams in their workflows by highlighting the necessary **outcomes** to target in each phase as well as sharing strategies/tactics, **activities**, teams can employ to achieve these  outcomes. Additionally, this page aims to clarify the _minimal_ set of required actions, such as labels, needed across all phases to keep the product system efficient in terms of tracking, searching and cross-functional collaboration. To maintain clarity and avoid confusion, we do not list optional actions on this page but teams may choose to employ additional actions, such as labels for planning, even if they are not mentioned on this page.
 
-As teams leverage the product development flow, they may find that certain strategies/tactics are serving their teams well toward success. Therefore, we welcome MRs to this page, so we can create a robust playbook of options to build valuable features for customers. All team members are encouraged to follow the [change process](#editing-this-page) for this page to share their best practices.
+As teams leverage the product development flow, they may find that certain strategies/tactics are serving their teams well toward success. Therefore, we welcome MRs to this page, so we can create a robust playbook of options to build valuable features for customers. All team members are encouraged to follow the [change process](#contributing-to-this-page) for this page to share their best practices.
 
 ### Measuring Success
 
@@ -364,15 +364,15 @@ After launch, the Product Manager and Product Designer should pay close attentio
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Measure Quantitative Impact**: Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. [Set up dashboards in Sisense](/handbook/business-ops/data-team/platform/periscope/) and review the performance and engagement of your change. | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting. <br/>- Review [AMAU, GMAU, and SMAU dashboards](https://about.gitlab.com/handbook/product/performance-indicators/#key-performance-indicators) to understand if the new feature or improvement has impacted core metrics. <br/>- Consider running a Category Maturity Scorecard evaluation. | Product Manager |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Take action on Learnings**: After you understand the qualitative and quantitative impact, you can take action on your learnings by creating new issues or updating existing open issues with more information. | - Open new issues or revise existing open issues for [follow-on iterations](/handbook/product/product-processes/#iteration-strategies) and improvements. <br/>- Ensure you've captured feedback in issues or as updates to your direction pages. <br/>- If applicable, update your category maturity score and timeline. <br/>- Share learnings with your group and stage. <br/>- Consider sharing learnings with the broader team. <br/>- Coordinate with your [PMM](https://about.gitlab.com/job-families/marketing/product-marketing-manager/) to understand if there are any relevant Go-To-Market motions you should consider updating. <br/> - Update experiment follow-up issue with results and specific next steps. <br/>- Potentially create issues or MRs for updates to the documentation site, to provide useful information in advance of potential product updates related to learnings. | Product Manager |
 
-## Editing this page
+## Contributing to this page
 
 All merge requests to this page require informing Product Operations prior to merging. To make updates such as grammatical
 fixes and typos, you can create an MR and assign Product Operations DRIs `@fseifoddini` and `@brhea` as Reviewers for reference, and then merge. There's no need to wait for feedback on these types of updates prior to merging.
 
 For updates that affect the overall phases by modifying core definitions, workflow labels or other cross-functionally utilized processes,
-you can create an issue or MR, add the current milestone and labels `product development flow`, `product operations`, `prodops:release`and assign it to Product Operations DRIs`@fseifoddini` and `@brhea` as Reviewers for collaboration and approval.
+you can create an issue or MR, add the current milestone and labels `product development flow`, `product operations`, `prodops:release`and assign it to Product Operations DRI`@fseifoddini`  as Reviewer for collaboration and approval.
 
-The Product Operations DRIs will ensure the MR gets included in product develoment flow release updates as well as ensuring alignment happens with the following stakeholders if needed:
+The Product Operations DRI will ensure the MR gets included in product develoment flow release updates as well as ensuring alignment happens with the following stakeholders if needed:
 
 1. [VP of Product](https://about.gitlab.com/company/team/#david)
 1. [VP of UX](https://about.gitlab.com/company/team/#clenneville)
@@ -380,4 +380,6 @@ The Product Operations DRIs will ensure the MR gets included in product develome
 1. [Director of Quality Engineering](https://about.gitlab.com/company/team/#meks)
 1. [Product Leadership Team](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure)
 
-In some cases, when significant changes to the product development flow are needed, affecting multiple teams and/or function workflows, Product Operations may create [a draft page](https://about.gitlab.com/handbook/product-development-flow/product-development-flow-draft.html) and/or a [working group ](https://about.gitlab.com/company/team/structure/working-groups/) for multiple iterations prior to pushing changes to this page, to minimize disruption and distraction during product development.
+In some cases, when significant changes to the product development flow are needed, affecting multiple teams and/or function workflows, Product Operations may request [a draft page](https://about.gitlab.com/handbook/product-development-flow/product-development-flow-draft.html) and/or a [working group ](https://about.gitlab.com/company/team/structure/working-groups/) for multiple iterations prior to pushing changes to this framework, to minimize disruption and distraction during product development.
+
+
