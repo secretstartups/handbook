@@ -32,7 +32,7 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 
 | Name | Company/Role | GitLab Handle | Email Address |
 | ---- | ------------ | ------------- | ------------- |
-| Ashwinraj Maniraj | Verticurl, Client Success Manager | @ashwin.raj | `ashwinraj.maniraj@verticurl.com` |
+| Manoj Kumar | Verticurl, Client Success Manager | @ManoSiv | `manojkumar.sivalingam@verticurl.com` |
 | Priya | Verticurl, Campaigns Team Consultant | @priya_sridhar | `mohanapriya.thangavel@verticurl.com` |
 | Viswanath R | Verticurl, Project Management | @? | `Viswanath.R@verticurl.com` |
 | Jitha Asokan | Verticurl, FMM/ABM resource | @jitha.asokan | `jitha.asokan@verticurl.com` |
