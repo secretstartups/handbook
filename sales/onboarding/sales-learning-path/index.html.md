@@ -154,16 +154,16 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ### 6. Sales Process
 *  **Command of the Message Intro Course (Assignment - 2 Hours - 10 Points - Pre Work)**
-   - Please complete the [Command of the Message](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1447979) learning path.
+   - Please complete the [Command of the Message](https://gitlab.edcast.com/pathways/sales-quick-start/cards/8577947) learning path.
    - Time to complete is approximately 1.5 hours
 *  **MEDDPPICC Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)**
-   - Please sign in to [MEDDPPICC](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459983) learning path and complete the MEDDPPICC full eLearning course.
+   - Please sign in to [MEDDPPICC](https://gitlab.edcast.com/pathways/sales-quick-start/cards/8577939) learning path and complete the MEDDPPICC full eLearning course.
    - Time to complete is approximately 1.5 hours
 *  **GitLab Value Framework (Material - Sales Collateral - 35 Minutes)**
    - The GitLab [value framework](https://internal-handbook.gitlab.io/handbook/sales/command-of-the-message/#resources-core-content) (internal only) is one of the most useful tools available for salespeople. Take a look to understand our value drivers, how to uncover customer needs, and how to articulate value and differentiation. A [framework summary](https://internal-handbook.gitlab.io/handbook/sales/command-of-the-message/#resources-core-content) (internal only) is also avaliable for quick reference.
 * **Seller Deficit Disorder (Material - Sales Collateral - 15 Minutes - Pre Work)**
    - Please read this [short document](https://drive.google.com/file/d/1heCPCI9bT1sc05Xj0hrp8BJrlzMc8VEc/view?usp=sharing) by Force Management to prepare for the Command of the Message training in Sales Quick Start.
-*  **[Co-Selling with Partners](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1316397) (Course - 30 Minutes - Pre Work)**
+*  **[Co-Selling with Partners](https://gitlab.edcast.com/pathways/sales-quick-start/cards/9239742) (Course - 30 Minutes - Pre Work)**
 *  **Social Selling 101 ( Material - Video - 20 Minutes)**
    - Social selling is the art of using social networks to find, connect with, and nurture your customers and prospects. Watch the [video](https://www.youtube.com/watch?v=w-C4jts-zUw) and use this [guide](https://drive.google.com/open?id=1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A&authuser=0) to learn how to make a profile that will resonate with your prospects.
 *  **[QUESTION: Business Development](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470149) (Assignment - 15 Minutes - 10 Points - Pre Work)**
@@ -177,7 +177,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 <details>
 <summary markdown="span">7. Our Competition</summary> 
 
-### 7. [Our Competition](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1462204)
+### 7. [Our Competition](https://gitlab.edcast.com/pathways/sales-quick-start/cards/8577854)
 *  **The Industry In Which GitLab Competes (Material - Video - 11 Minutes)**
    - Sid Sijbrandij, CEO of GitLab, discusses the overall industry where GitLab competes.
    - [You Tube - The Industry GitLab Competes In](https://www.youtube.com/watch?v=qQ0CL3J08lI)
