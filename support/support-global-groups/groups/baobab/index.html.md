@@ -21,5 +21,6 @@ Introductory text, logos, or whatever the group wants here
 
 - Our Slack Channel: [spt_gg_baobab](https://gitlab.slack.com/archives/C03C9DU3ED8)
 - Our Team: [Baobab Members](https://gitlab-com.gitlab.io/support/team/sgg.html?search=baobab)
+- How to pronounce "baobab": https://www.powbab.com/blogs/news/12638601-how-do-you-pronounce-baobab-tree
 
 ## Baobab workflows and processes
