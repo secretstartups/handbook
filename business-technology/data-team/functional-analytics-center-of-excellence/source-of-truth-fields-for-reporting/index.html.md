@@ -14,11 +14,14 @@ description: "The FACE is a cross-functional group of functional analytics teams
 
 ## FACE: Source of Truth Fields for Reporting
 
-Below is a series of tables containing the standard fields to use when pulling data from various systems.
+**What is this?** Below is a series of tables containing the standard fields to use when pulling data from various systems.
+
+**Why was this created?** To document source of truth data fields and institutional knowledged known by the different functional analytics teams. This will allow us to go into any dashboard or data table and easily understand which fields are trusted sources of truth.
 
 🚧  This page is currently a work in progress. 🚧 
 
 ### Salesforce dot com
+Point of contact: Robert Kohnke, David Egan, Melia Vilain
 
 | Object        | Field   | SoT Field API Name   | Table | Approver/Owner |
 |---------------|---------|---------------------------|-----------|----------|
@@ -40,6 +43,7 @@ Below is a series of tables containing the standard fields to use when pulling d
 | User | Role ||||
 
 ### Gitlab.com db
+Point of contact: Carolyn Braza
 
 | Object | Field | Table | Description | Notes for Analysis |
 | --- | --- | --- | --- | --- |
@@ -97,6 +101,7 @@ Please add any feedback on the gitlab.com content (including requests for additi
 [this issue](https://gitlab.com/gitlab-data/product-analytics/-/issues/423).
 
 ### Customers DB
+Point of contact: Max Fleisher
 
 | Object        | Field   | SoT Field API Name   | Table | Description | Responsible Team | 
 |---------------|---------|---------------------------|-----------|----------|----------|
@@ -115,6 +120,7 @@ Please add any feedback on the gitlab.com content (including requests for additi
 | Leads | Customer comments on hand raise | COMMENT_CAPTURE | [prod.restricted_safe_legacy.customers_db_leads](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.customers_db_leads) | ||
 
 ### Zuora [WIP]
+Point of contact: Max Fleisher
 
 |Object                |Field                                        |Table                                                                                                                                                                                                                         |Description                                                                                                                                                                                                                             |Responsible Team|
 |----------------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
@@ -139,6 +145,7 @@ Please add any feedback on the gitlab.com content (including requests for additi
 
 
 ### Person [WIP]
+Point of contact: Max Fleisher
 
 | Object        | Field   | SoT Field API Name   | Table | Description | Responsible Team |
 |---------------|---------|---------------------------|-----------|----------|----------|
@@ -171,6 +178,7 @@ Please add any feedback on the gitlab.com content (including requests for additi
 
 
 ### Bizible [PLACEHOLDER]
+Point of contact: Robert Kohnke, David Egan
 
 | Object        | Field   | SoT Field API Name   | Table | Approver/Owner |
 |---------------|---------|---------------------------|-----------|----------|
@@ -182,6 +190,7 @@ Please add any feedback on the gitlab.com content (including requests for additi
 | Lead          | Owner   | Lead Owner                |           |          |
 
 ### Google Analytics 360 DB
+Point of contact: Dennis Charukulvanich
 
 | Object    | Field                 | SoT Field API Name                                       | Table                                                                                                                                       |
 | --------- | --------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
