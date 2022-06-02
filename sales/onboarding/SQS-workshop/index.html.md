@@ -26,31 +26,6 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 ## Sales Quick Start Remote Agenda:
 
 
-
-### SQS 24 - May 2022
-
-* Workshop times quoted are United States Eastern Daylight Time (Atlanta, Georgia) (UTC -4)
-
-| DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
-| ------ | ------ | ------ | ------ | ------ |
-|May 5, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement  |
-|May 11, 2022 | 11:00a ET | 12:20p ET | Essential Questions Exercise | Field Enablement  |
-|May 11, 2022 | 12:30p ET | 1:50p ET | Value Card Exercise | Field Enablement |
-|May 12, 2022 | 11:00a ET | 12:20p ET | Discovery Question Exercise | Field Enablement  |
-|May 12, 2022 | 12:30p ET | 1:50p ET | Differentiator Exercise | Field Enablement  |
-|May 13, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
-|May 13, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
-|May 16, 2022 | 11:00a ET | 11:30a ET | Field Security |  Field Security Team   |
-|May 16, 2022 | 12:30p ET | 1:20p ET | Intro to Competition | Competitive Intelligence  |
-|May 16, 2022 | 1:30p ET | 2:20p ET | Alliances | Alliances Team  |
-|May 17, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services | Professional Services Team    |
-|May 17, 2022 | 12:00p ET | 12:50p ET | Discovery Call 1 | Mock Customers  |
-|May 18, 2022 | 12:00p ET | 12:40p ET | Legal / Deal Desk | Legal & Deal Desk Team |
-|May 18, 2022 | 1:00p ET | 1:50p ET | Discovery Call 2 | Mock Customers |
-|May 19, 2022 | 11:00a ET | 11:50a ET | Channels |  Channel Team   |
-|May 19, 2022 | 1:00p ET | 1:50p ET | Discovery Call 3 | Mock Customers |
-
-
 ### SQS 25 - June 2022
 
 * Workshop times quoted are United States Eastern Daylight Time (Atlanta, Georgia) (UTC -4)
@@ -65,12 +40,38 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 |June 17, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
 |June 17, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
 |June 20, 2022 | 11:00a ET | 11:30a ET | Field Security |  Field Security Team   |
-|June 20, 2022 | 12:30p ET | 1:20p ET | Intro to Competition | Competitive Intelligence  |
-|June 20, 2022 | 1:30p ET | 2:20p ET | Alliances | Alliances Team  |
+|June 20, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
 |June 21, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services | Professional Services Team    |
 |June 21, 2022 | 12:00p ET | 12:50p ET | Discovery Call 1 | Mock Customers  |
-|June 22, 2022 | 12:00p ET | 12:40p ET | Legal / Deal Desk | Legal & Deal Desk Team |
-|June 22, 2022 | 1:00p ET | 1:50p ET | Discovery Call 2 | Mock Customers |
+|June 22, 2022 | 11:00a ET | 11:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
+|June 22, 2022 | 12:00p ET | 12:50p ET | Discovery Call 2 | Mock Customers |
 |June 23, 2022 | 11:00a ET | 11:50a ET | Channels |  Channel Team   |
-|June 23, 2022 | 1:00p ET | 1:50p ET | Discovery Call 3 | Mock Customers |
+|June 23, 2022 | 12:30p ET | 1:20p ET | Discovery Call 3 | Mock Customers |
+|June 24, 2022 | 12:00p ET | 1:00p ET | Intro to Competition | Competitive Intelligence  |
+
+
+
+### SQS 26 - July 2022
+
+* Workshop times quoted are United States Eastern Daylight Time (Atlanta, Georgia) (UTC -4)
+
+| DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
+| ------ | ------ | ------ | ------ | ------ |
+|July 5, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement  |
+|July 13, 2022 | 11:00a ET | 12:20p ET | Essential Questions Exercise | Field Enablement  |
+|July 13, 2022 | 12:30p ET | 1:50p ET | Value Card Exercise | Field Enablement |
+|July 14, 2022 | 11:00a ET | 12:20p ET | Discovery Question Exercise | Field Enablement  |
+|July 14, 2022 | 12:30p ET | 1:50p ET | Differentiator Exercise | Field Enablement  |
+|July 15, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
+|July 15, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
+|July 18, 2022 | 11:00a ET | 11:30a ET | Field Security |  Field Security Team   |
+|July 18, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
+|July 19, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services | Professional Services Team    |
+|July 19, 2022 | 12:00p ET | 12:50p ET | Discovery Call 1 | Mock Customers  |
+|July 20, 2022 | 11:00a ET | 11:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
+|July 20, 2022 | 12:00p ET | 12:50p ET | Discovery Call 2 | Mock Customers |
+|July 21, 2022 | 11:00a ET | 11:50a ET | Channels |  Channel Team   |
+|July 21, 2022 | 12:30p ET | 1:20p ET | Discovery Call 3 | Mock Customers |
+|July 22, 2022 | 12:00p ET | 1:00p ET | Intro to Competition | Competitive Intelligence  |
+
 
