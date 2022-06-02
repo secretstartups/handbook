@@ -82,6 +82,15 @@ Responsible for the [Geo](https://about.gitlab.com/handbook/product/categories/#
 * Previous experience with self-managed products and their lifecycle operations
 * Strong communications skills and ability to work cross-functionally, as these groups affect many parts of GitLab
 
+##### ModelOps
+Responsible for leading the team of PMs who manage the [ModelOps stage groups](https://about.gitlab.com/handbook/product/categories/#modelops-stage). This stage leader sets the vision and direction for how to empower GitLab users to leverage data science as part of their DevOps program—both by enabling users to build and run data science workloads, as well as by enriching existing GitLab product functionality with capabilities powered by machine learning. This individual will lead an expansion of GitLab’s [core personas](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/#personas) to address the needs of data science teams and will work cross-functionality with [other GitLab stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) in leveraging machine learning to deepen our [core differentiators](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/#top-3-gitlab-differentiators). This individual will be responsible for developing new revenue-generating products as well as enhancing existing products used by millions of users across the world.
+
+**Requirements**
+* Knowledge of how to operationalize the lifecycle management of data science workloads, including data ingestion and ETL, feature engineering, development environment setup, CI/CD integration, model versioning, testing, and production deployment
+* Familiarity with the technical differences and operational requirements of various AI disciplines (e.g. supervised and unsupervised machine learning, deep learning, natural language processing, neural networks, etc.)
+* Deep understanding of the production pain points of data science products
+* Prior experience with data science products and use cases
+
 #### Group Manager, Product (GMP) - Hiring Process
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. 
 
