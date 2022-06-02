@@ -655,6 +655,12 @@ For a purchase, these are the only attributes you should be editing:
 - `gl_namespace_id`
 - `gl_namespace_name`
 
+Very occasionally, due to known issues ([Billing Entity Changes](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-change-of-entity), [Customer Contact Changes](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#contact-change-workflow)), you may need to change:  
+
+- `customer_id`
+
+**Note:** Updating `customer_id` should only be done when you are absolutely certain you are changing it to the correct value.  Ask your colleagues in [slack](https://gitlab.slack.com/archives/C018C623KBJ) if you aren't sure.
+
 For a trial (`trial` is set to `true`), because it's not tied to a subscription, additional attributes that can be updated:
 
 - `start_date`
