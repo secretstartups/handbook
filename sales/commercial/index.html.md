@@ -632,6 +632,45 @@ combined), a handoff email can be used.
 
 **Note 2:** If a First Order account is deemed to have low potential (fewer than 100 total users), it should be assigned to a Mid-Market Territory Account Executive. If in question, the First Order AE should involve their ASM, Regional Director, and VP of Commercial to determine if the account should be assigned to a Mid-Market First Order AE or a Mid-Market Named AE.
 
+## Commercial Leadership Development Pilot Program
+This pilot program is for Commercial team members interested in learning more about Sales management and building foundational leadership skills.
+
+This program is designed to give team members:
+1. Exposure to leadership topics and development of foundational leadership skills
+1. Leadership frameworks that they can modify and apply to their teams
+1. Experience with the expectations of a sales leader and how that differs from an individual contributor role
+1. Opportunity to network with peers and other cross functional stakeholders
+
+The program will run for a total of **8** weeks;  each week focusing on a new topic. See the proposed topics by week for the pilot program:
+
+| Week | Topic | Description |
+| ---------- | ----- | --------|
+| 1 | Leading People | Primary differences between being an individual contributor and a leader, establishing a V2MOM for your newly created team, building an inclusive culture, situational leadership, coaching model, establishing expectations for success and the cadence of events to drive consistent results on a daily, weekly, monthly, quarterly and annual basis
+| 2 | Running Effective 1 on 1s | Core components for every meeting, how to capture and provide feedback from activities during the week, building consistency in performance through consistent accountability in one on one.
+| 3 | A Leaders Responsibility on Sales Calls| Structure of an effective pre-call meeting, what roles a leader should focus on during the sales call, expected follow up for coaching and delivering results
+| 4 | Running Effective Team Meetings | Key components to a great team meeting - recognition, training, results, pipeline creation and current events. How to structure a meeting to bring energy and ensure AEs leave with clear expectations for the week ahead
+| 5 | Coaching and Providing Feedback | Utilizing different coaching frameworks based on situational need - GROW, SBI, Skill/Will Coaching Model. An HR partner’s perspective on key professional items that may arise and how to handle them
+| 6 | Forecasting & Managing Metrics |Understanding what leading and lagging indicators to measure. Implementing programs based on the trends identified in metrics to ensure consistent, positive results. Learning how to forecast effectively and the role Red/Green plays in being a great coach and manager
+| 7 | Recruiting and Interviewing | How Diversity, Inclusion and Belonging is essential to building a world class team. A recruiter’s point of view on how to attract top talent. Review and discuss our Commercial interview methodology. Discuss what questions and activities ensure our interview process is inclusive and legal
+| 8 |Components of an Effective Pipe Generation Campaign| Review the primary reasons consistent pipe gen campaigns are needed for sustainable growth. Key components of an effective pipeline campaign. How to launch, reinforce, measure and recognize for effective results.
+
+#### Expectations of Participants
+
+* Time Committment: A total of ~40 hours of dedicated time during the quarter between synchronous meetings and asynchronous work.
+
+The GitLab Commercial departnment expects from all Team members to uphold the highest standards of moral and ethical behavior in harmony with GitLab’s CREDIT values. Engaging or promoting activities that are inconsistent with GitLab’s values is not acceptable. It is expected that Team members who are enrolled will uphold both stated and inferred values of working at Gitlab. Items include but are not limited to: 
+- Good collaboration with other team members
+- Assuming positive intent
+- Continuing to deliver results in the team member’s current position
+- Being inclusive during class discussions, accepting alternate views as alternate, not right or wrong, to foster belonging for other team members
+
+Additionally, it is our expectation that if participating in the program, team members will make their best effort to attend meetings and learning activities. If they are unable to attend, participants should give the facilitator as much advance notice as possible. If participants are not present in the course, they will be removed from the program.
+
+**Who is eligible to participate?**
+Any Commercial team member that is in good performance standing (not currently on a performance or behavioral warning). We will be selecting 12 participants for this first cohort. It is our itention that this program continue after the first pilot program to continue to give Commercial team members a chance to grow their skills. 
+
+
+
 ## Other Related Pages
 
 - [Commercial Sales - Customer Success](/handbook/customer-success/comm-sales/)
