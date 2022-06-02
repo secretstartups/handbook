@@ -49,7 +49,9 @@ Travel guidance on COVID-19 can be [found here](/handbook/travel/#travel-guidanc
 
 ## Suggesting an Event
 
-To determine who would handle the event, please refer to our [events decision tree](https://docs.google.com/spreadsheets/d/1aWsmsksPfOlX1t6TeqPkh5EQXergt7qjHAjGTxU27as/edit#gid=0). If it is not clear who should own an event based on the decision tree, please email `events@gitlab.com`.
+To determine who would handle the event, please refer to our [events decision tree](https://docs.google.com/spreadsheets/d/1aWsmsksPfOlX1t6TeqPkh5EQXergt7qjHAjGTxU27as/edit#gid=0). If it is not clear who should own an event based on the decision tree, please email `events@gitlab.com`. 
+
+*Note: If a GitLab team member receives an inbound request for sponsorship, please direct the requestor to this section of the handbook so that person can determine the best course of action.*
 
 Please _only request_ event support/sponsorship if your proposed event fits the following criteria:
 
@@ -59,13 +61,12 @@ Please _only request_ event support/sponsorship if your proposed event fits the 
 
 If your event fits the criteria above and you would like support from marketing, create an issue in the appropriate marketing project.
 
-- [**Community Relations**](https://gitlab.com/gitlab-com/marketing/community-relations/evangelist-program/general/issues/new?issuable_template=sponsorship-request)
-  - `For Corporate Event DRIs:` If you are the DRI for the event see below for "event execution" for next steps once you have opened and completed issue template. We are using Epics as the SSOT for the event over Meta Issues.
-- [**Corporate Events**](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Corporate-Event-Request) - use the "Event-Request" template
+- [**Community Relations**] - We are unable to support inbound requests for sponsorship of community events for the remainder of FY23. 
+- [**Corporate Events**](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Event_Sponsored_Corporate_Events) - use the "Event-Request" template
 - **Field Marketing**
   `Please Note:` _These requests will be reviewed by the appropriate regional Field Marketing Manager. Even if the event is free or low-cost, all requests must be approved by Field Marketing prior to any commitment to ensure the event or tactic aligns to the marketing strategy, meets SAO objectives and Field Marketing can properly execute to maximize GitLab’s future success._ - To suggest a Field Marketing event (in-person or virtual) or other tactic for review, please open an [`Event_Tactic_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Event_Tactic_Request) issue and follow the instructions.
 
-Be sure you review the issue template and provide all necessary information that is asked of you in the issue. We especially need goals/ reason to attend.
+Be sure you review the issue template and provide all necessary information that is asked of you in the issue. 
 
 ## Event Execution
 
