@@ -145,6 +145,11 @@ group, see [Bulk editing SGG values](bulk-editing-sgg-values.html).
    their manager, and the manager will work to facilitate the move if they
    agree with it.
 
+### 4. If I get promoted will I need to switch groups?
+
+   At the moment, we foresee that promotions and hiring will influence group changes.
+   The way groups will be evolved is to be determined as folks are promoted and new hires join.
+
 ## Success Measurements
 
 ### 1. What is SGG trying to improve? (What is the purpose of SGG?)
