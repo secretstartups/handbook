@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Merging or splitting licence/subscription requests
+title: Merging or splitting license/subscription requests
 category: General
-description: This is a guide on how to handle requests to merge or split subscription(s).
+description: This is a guide on how to handle requests to merge or split licenses or subscription(s).
 ---
 
 - TOC
