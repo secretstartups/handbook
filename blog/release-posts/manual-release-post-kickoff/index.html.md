@@ -15,7 +15,6 @@ If the automated pipeline fails, the manual steps below can be done either local
 1. On `release-X-Y` branch, create the release post data directory, to which features and other data will be added:
    1. Create a new directory `X_Y` in the `data/release_posts` directory.
    1. Copy [`data/release_posts/unreleased/samples/mvp.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/mvp.yml) into `data/release_posts/X_Y/mvp.yml`.
-1. On the release-X-Y branch, edit `sites/uncategorized/source/includes/home/ten-oh-announcement.html.haml` changing all the GitLab version numbers and URLs referencing the release post to reflect the current one. Leave the announcement description as is, as you (the Release Post Manager) will change this later in the process.
 
 {:.alert .alert-info .text-center}
 
