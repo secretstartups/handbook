@@ -190,99 +190,111 @@ Triage automations are handled by the [Triage Ops project](https://gitlab.com/gi
 ### Reports
 
 1. [Weekly community contribution report](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/quality/community-contribution-mr-report.yml)
-  - A weekly report on community MRs that are actionable
+    * A weekly report on community MRs that are actionable
 1. [Newly created Community contribution merge requests triage](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage)
+1. [Community merge requests requiring attention](/handbook/engineering/quality/triage-operations/#community-merge-requests-requiring-attention)
+    * You can find a list of steps on how to nudge them in the [report template](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/quality/community-contribution-mr-report.yml#L10). 
 
 ### Reactive processors
 
 1. [Community contribution thank you note](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/thank_contribution.rb)
-  - Posts a "Thank you" note on MRs opened by a wider community author, adds the `Community contribution` label, and assigns the MR to its author.
+
+   - Conditions:
+      - MR was opened
+      - Author is from the wider community under the `gitlab-org` group, or the `gitlab-com/www-gitlab-com` project
+   - Actions:
+      - Posts a "Thank you" note
+      - Adds `~"Community contribution"` and `~"workflow::in dev"`
+      - Assigns the MR to its author
+1. [Automated review request](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_generic.rb)
+
+   - Conditions:
+      - `~"workflow::ready for review"` was added
+      - Author is from the wider community under the `gitlab-org` group
+   - Actions:
+      - Pings and assigns (as reviewer) a random MR coach for review
+   - Rate limiting: once per MR per day
 1. [Automated review request for doc contributions](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_doc.rb)
-  - Asks a relevant Technical Writer (based on the changes' mapped from the `CODEOWNERS` file) to review non-draft MRs (happens only once).
+
+   - Conditions:
+      - `~"workflow::ready for review"` was added
+      - Author is from the wider community under the `gitlab-org` group
+      - MR has documentation changes
+      - No existing note asking for documentation review
+   - Actions:
+      - Asks a relevant Technical Writer (based on the changes' mapped from the `CODEOWNERS` file) to review
 1. [Automated review request for UX contributions](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_ux.rb)
-  - Posts a Slack message in the `#ux-community-contributions` Slack channel (internal) to ask a UX reviewer to review non-draft MRs, when the `UX` label is set in an MR (happens only once), and let the author know about the Slack ping.
+
+   - Conditions:
+      - `~"workflow::ready for review"` was added
+      - Author is from the wider community under the `gitlab-org` group
+      - `~UX` is set
+      - No existing note asking for UX review
+   - Actions:
+      - Posts a Slack message in the `#ux-community-contributions` Slack channel (internal) to ask a UX reviewer to review non-draft MRs
+      - Posts a note to let the author know about the Slack ping
 1. [Reactive `help` command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_help.rb)
-  - Allows MR author to request help. Currently, it pings a random MR coach. Available once per MR per day.
-1. [Reactive `request_review` command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_request_review.rb)
-  - Allows MR author to request a review. Currently, it pings a random MR coach. Available once per MR per day.
+
+   - Conditions:
+      - MR note starts with `@gitlab-bot help`
+      - Note author is from the wider community under the `gitlab-org` group
+   - Actions:
+      - Pings and assigns (as reviewer) a random MR coach for help
+   - Rate limiting: once per MR per day
+1. [Reactive `ready` command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_request_review.rb) (deprecated)
+
+   - Conditions:
+      - MR note starts with `@gitlab-bot ready`, `@gitlab-bot review`, or `@gitlab-bot request_review`
+      - Note author is from the wider community under the `gitlab-org` group
+   - Actions:
+      - Adds `~"workflow::ready for review"` to the MR
+   - Rate limiting: once per MR per day
 1. [Reactive `label` command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_label.rb)
-  - Allows users to add specific labels (currently only `type::` and `group::` labels) to the MR. Available 60 times per author per hour.
-1. [Pingpong label remover](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/remove_pingpong_label_on_author_activity.rb)
-  - Removes the 🏓 label from community MRs in which a community contributor responded.
+
+   - Conditions:
+      - MR note starts with `@gitlab-bot label ~"label-name"` where `label-name` matches `group::*`, `type::*` or is `~"workflow::in dev"` or `~"workflow::ready for review"`
+      - Note author is from the wider community under the `gitlab-org` group
+      - Note author is the same as the MR author
+   - Actions:
+      - Posts a quick action to add the requested label
+   - Rate limiting: 60 times per author per hour
 1. [Idle/Stale label remover](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/remove_idle_labels_on_activity.rb)
-  - Removes the `idle`/`stale` labels from MRs in which there is human activity.
+
+   - Conditions:
+      - MR note
+      - Note author is from the wider community under the `gitlab-org` group
+      - `~idle` or `~stale` are set, or author pushed changes to the MR
+   - Actions:
+      - Removes `~idle` and `~stale`
 1. [Code Review Experience Feedback](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/code_review_experience_feedback.rb)
-  - Asks MR author about their contributing experience after their is merged or closed.
+
+   - Conditions:
+      - MR was merged or closed
+      - MR author is from the wider community under the `gitlab-org` or `gitlab-com` group
+      - No existing note asking for feedback
+   - Actions:
+      - Posts a note to ask MR author about their contributing experience
 1. [Reactive `feedback` command](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_feedback.rb)
-  - Allows MR author to give feedback. The feedback is posted in the `#mr-feedback` Slack channel (internal).
+
+   - Conditions:
+      - MR note starts with `@gitlab-bot feedback`
+      - Note author is from the wider community under the `gitlab-org` group
+      - Note author is the same as the MR author
+   - Actions:
+      - Posts a Slack message in the `#mr-feedback` Slack channel (internal) pointing to the contributor feedback note
 1. [Hackathon labeler](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/hackathon_label.rb)
-  - Adds the `Hackathon` label on `Community contribution` MRs opened during the Hackathon dates.
+
+   - Conditions:
+      - MR was opened or updated during the Hackathon dates
+      - MR author is from the wider community under the `gitlab-org` or `gitlab-com` group
+      - No existing note mentioning the Hackathon
+   - Actions:
+      - Posts a note mentioning the Hackathon
+      - Adds the `~Hackathon` label
 
 ## Working with community contributions
 
-### Wider community workflow automations
-
-```mermaid
-
-graph LR
-    classDef triageOpsClass fill:#f9f,stroke:#333,stroke-width:4px;
-
-    MR_INITIAL([Wider Community Merge request])
-    MR_OPENED[MR is opened]
-    MR_UPDATED[MR is updated]
-    MR_MERGED[MR is merged]
-    MR_CLOSED[MR is closed]
-    MR_AUTHOR_NOTE[MR author posts a note]
-    AUTOMATED_THANK(["'Thank you' note posted,<br/> ~'Community contribution' added"])
-    AUTOMATED_DOC_REVIEW{"Does the MR touches documentation files?"}
-    AUTOMATED_DOC_REVIEWER_REQUEST(["A technical writer is asked to review"])
-    AUTOMATED_UX_REVIEW{"Does the MR has the ~UX label?"}
-    AUTOMATED_UX_REVIEWER_REQUEST(["A message is posted in the `#ux-community-contributions` Slack channel"])
-    AUTOMATED_FEEDBACK_REQUEST(["A note asking for feedback is posted"])
-    AUTOMATED_HACKATHON_LABEL{Is the MR opened during a Hackathon?}
-    AUTOMATED_HACKATHON_LABEL_ADDITION(["The ~Hackathon label is added"])
-    WHAT_NOTE{What note is it?}
-    WORKFLOW_IN_DEV_LABEL{"Does the MR has the ~'workflow::in dev' label?"}
-    AUTOMATED_REMOVAL_OF_WORKFLOW_IN_DEV_LABEL(["Removes the ~'workflow::in dev' label"])
-    
-    AUTOMATED_LABEL_COMMAND_REPLY(["Quick action note posted to add the requested label"])
-    AUTOMATED_HELP_COMMAND_REPLY(["Note posted asking MR coach to help"])
-    AUTOMATED_REVIEW_COMMAND_REPLY(["Note posted asking MR coach to review or reassign"])
-    AUTOMATED_FEEDBACK_COMMAND_REPLY(["A message is posted in the `#mr-feedback` Slack channel"])
-
-    MR_INITIAL --> MR_OPENED & MR_UPDATED & MR_MERGED & MR_CLOSED & MR_AUTHOR_NOTE
-
-    MR_OPENED -.-> AUTOMATED_THANK
-    MR_OPENED & MR_UPDATED --> AUTOMATED_DOC_REVIEW & AUTOMATED_UX_REVIEW & AUTOMATED_HACKATHON_LABEL
-    MR_MERGED & MR_CLOSED --> AUTOMATED_FEEDBACK_REQUEST
-    MR_AUTHOR_NOTE --> WHAT_NOTE & WORKFLOW_IN_DEV_LABEL
-
-    AUTOMATED_DOC_REVIEW -->|Yes| AUTOMATED_DOC_REVIEWER_REQUEST
-    AUTOMATED_UX_REVIEW -->|Yes| AUTOMATED_UX_REVIEWER_REQUEST
-    AUTOMATED_HACKATHON_LABEL -->|Yes| AUTOMATED_HACKATHON_LABEL_ADDITION
-
-    WHAT_NOTE -.->|"@gitlab-bot label ..."| AUTOMATED_LABEL_COMMAND_REPLY
-    WHAT_NOTE -.->|"@gitlab-bot help"| AUTOMATED_HELP_COMMAND_REPLY
-    WHAT_NOTE -.->|"@gitlab-bot request_review"| AUTOMATED_REVIEW_COMMAND_REPLY
-    WHAT_NOTE -.->|"@gitlab-bot feedback"| AUTOMATED_FEEDBACK_COMMAND_REPLY
-
-    WORKFLOW_IN_DEV_LABEL -.->|Yes| AUTOMATED_REMOVAL_OF_WORKFLOW_IN_DEV_LABEL
-
-    class AUTOMATED_THANK,AUTOMATED_LABEL_COMMAND_REPLY,AUTOMATED_HELP_COMMAND_REPLY triageOpsClass;
-    class AUTOMATED_REVIEW_COMMAND_REPLY,AUTOMATED_FEEDBACK_REQUEST,AUTOMATED_DOC_REVIEW triageOpsClass;
-    class AUTOMATED_UX_REVIEW,AUTOMATED_DOC_REVIEWER_REQUEST,AUTOMATED_UX_REVIEWER_REQUEST triageOpsClass;
-    class AUTOMATED_FEEDBACK_COMMAND_REPLY,AUTOMATED_HACKATHON_LABEL,AUTOMATED_HACKATHON_LABEL_ADDITION triageOpsClass;
-    class WHAT_NOTE,WORKFLOW_IN_DEV_LABEL,AUTOMATED_REMOVAL_OF_WORKFLOW_IN_DEV_LABEL triageOpsClass;
-```
-
-### Wider community MR triage reports
-
-We have 2 triage process for the new merge requests from the wider community created under [gitlab-org](https://gitlab.com/groups/gitlab-org) 
-* [Newly created Community contribution merge requests triage](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage).
-* [In-active community merge requests requiring attention](/handbook/engineering/quality/triage-operations/#community-merge-requests-requiring-attention)
-    * You can find a list of steps on how to nudge them in the [report template](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/quality/community-contribution-mr-report.yml#L10). 
-
-#### Contribution labels
+### Community contribution labels
 
 - The `Community contribution` label is automatically applied by the [GitLab Bot](https://gitlab.com/gitlab-bot) to MRs submitted by wider community members. 
   * You can see the list of MRs in [`gitLab-org` list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name[]=Community+contribution).
@@ -290,6 +302,68 @@ We have 2 triage process for the new merge requests from the wider community cre
 - The `1st contribution` label is added to first-time contributions. Every time a contributor is opening a merge request under the `gitlab-org` namespace for the first time, the label `1st contribution` is automatically applied to the merge request.
   - You can see the list of MRs in [`gitlab-org` list of merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=1st+contribution).
   - [First-time contributors](/handbook/marketing/community-relations/code-contributor-program/#first-time-contributors) are also awarded a gift as our way to say thanks.
+
+### Community merge request workflow automations
+
+Community merge requests are MRs opened by a person that's not a member of the [`gitlab-org`](https://gitlab.com/-/ide/project/gitlab-org) nor [`gitlab-com`](https://gitlab.com/-/ide/project/gitlab-com) groups.
+
+```mermaid
+graph LR
+    classDef triageOpsClass fill:#FC6D26,stroke:#333,stroke-width:3px;
+
+    MR_INITIAL(["Wider Community Merge request<br />(author is not a member of `gitlab-org`)"])
+    MR_OPENED[MR is opened]
+    MR_UPDATED[MR is updated]
+    MR_MERGED[MR is merged]
+    MR_CLOSED[MR is closed]
+    MR_AUTHOR_NOTE[MR author posts a note]
+    ANYONE_NOTE[Anyone posts a note]
+    AUTOMATED_THANK(["1. 'Thank you' note posted<br/>2. Adds ~'Community contribution'<br />3. Adds ~'workflow::in dev'<br />4. MR assigned to author"])
+    WORKFLOW_READY_FOR_REVIEW_LABEL{"~'workflow::ready for review'<br />was added?"}
+    AUTOMATED_REVIEWER_REQUEST_GENERIC(["1. Post note asking MR coach<br />to review or reassign<br />2. MR coach assigned for review<br />3. Removes Draft status if present"])
+    AUTOMATED_REVIEW_DOC{"Does the MR touches<br/>documentation files?"}
+    AUTOMATED_REVIEWER_REQUEST_DOC(["A technical writer<br />is asked to review"])
+    AUTOMATED_REVIEW_UX{"Does the MR has<br />the ~UX label?"}
+    AUTOMATED_REVIEWER_REQUEST_UX(["A message is posted in the<br />`#ux-community-contributions`<br />Slack channel"])
+    AUTOMATED_FEEDBACK_REQUEST(["Post a note asking<br />for feedback"])
+    AUTOMATED_HACKATHON_LABEL{Is a Hackathon currently running?}
+    AUTOMATED_HACKATHON_LABEL_ADDITION(["The ~Hackathon label is added"])
+    WHAT_AUTHOR_NOTE{What note is it?}
+    WHAT_ANYONE_NOTE{What note is it?}
+    
+    AUTOMATED_LABEL_COMMAND_REPLY(["Quick action note posted<br />to add the requested label"])
+    AUTOMATED_HELP_COMMAND_REPLY(["Ping and assign<br />an MR coach"])
+    AUTOMATED_REVIEW_COMMAND_REPLY(["Add ~'workflow::ready for review'"])
+    AUTOMATED_FEEDBACK_COMMAND_REPLY(["A message is posted in the<br />`#mr-feedback` Slack channel"])
+
+    MR_INITIAL -.-> MR_OPENED & MR_UPDATED & MR_MERGED & MR_CLOSED & MR_AUTHOR_NOTE & ANYONE_NOTE
+
+    MR_OPENED ----> AUTOMATED_THANK
+    MR_UPDATED -.-> WORKFLOW_READY_FOR_REVIEW_LABEL
+    MR_OPENED & MR_UPDATED -.-> AUTOMATED_HACKATHON_LABEL
+    MR_MERGED & MR_CLOSED ----> AUTOMATED_FEEDBACK_REQUEST
+    MR_AUTHOR_NOTE -.-> WHAT_AUTHOR_NOTE
+    ANYONE_NOTE -.-> WHAT_ANYONE_NOTE
+
+    WORKFLOW_READY_FOR_REVIEW_LABEL ---> |Yes| AUTOMATED_REVIEWER_REQUEST_GENERIC
+    WORKFLOW_READY_FOR_REVIEW_LABEL -.-> |Yes| AUTOMATED_REVIEW_DOC & AUTOMATED_REVIEW_UX
+    AUTOMATED_REVIEW_DOC -->|Yes| AUTOMATED_REVIEWER_REQUEST_DOC
+    AUTOMATED_REVIEW_UX -->|Yes| AUTOMATED_REVIEWER_REQUEST_UX
+    AUTOMATED_HACKATHON_LABEL --->|Yes| AUTOMATED_HACKATHON_LABEL_ADDITION
+
+    WHAT_AUTHOR_NOTE --->|"@gitlab-bot label ..."| AUTOMATED_LABEL_COMMAND_REPLY
+    WHAT_AUTHOR_NOTE --->|"@gitlab-bot feedback"| AUTOMATED_FEEDBACK_COMMAND_REPLY
+
+    WHAT_ANYONE_NOTE --->|"@gitlab-bot help"| AUTOMATED_HELP_COMMAND_REPLY
+    WHAT_ANYONE_NOTE --->|"@gitlab-bot ready"| AUTOMATED_REVIEW_COMMAND_REPLY
+
+    class AUTOMATED_THANK,AUTOMATED_LABEL_COMMAND_REPLY,AUTOMATED_HELP_COMMAND_REPLY triageOpsClass;
+    class AUTOMATED_REVIEW_COMMAND_REPLY,AUTOMATED_FEEDBACK_REQUEST,AUTOMATED_REVIEW_DOC triageOpsClass;
+    class AUTOMATED_REVIEW_UX,AUTOMATED_REVIEWER_REQUEST_DOC,AUTOMATED_REVIEWER_REQUEST_UX triageOpsClass;
+    class AUTOMATED_FEEDBACK_COMMAND_REPLY,AUTOMATED_HACKATHON_LABEL triageOpsClass;
+    class AUTOMATED_HACKATHON_LABEL_ADDITION,WHAT_AUTHOR_NOTE,WHAT_ANYONE_NOTE triageOpsClass;
+    class WORKFLOW_READY_FOR_REVIEW_LABEL,AUTOMATED_REVIEWER_REQUEST_GENERIC triageOpsClass;
+```
 
 ### Merge Request Coaches
 
