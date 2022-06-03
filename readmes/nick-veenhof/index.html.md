@@ -33,8 +33,7 @@ Here's a bunch of topics I'll be happy to talk about:
 * Apache Solr / Lucene
 * Google Cloud Platform
 * Large scale linux deployments/production cloud systems
-* Mautic
-* Gitlab
+* GitLab
 * Google Sheet scripting
 * OSX little tools to make life easier
 * Gmail tips & tricks
