@@ -103,6 +103,7 @@ Success plans can have multiple objectives, though each needs to reflect a key b
 - **Playbook**: If the objective is for Stage Adoption, choose the corresponding playbook (or customize your own!)
 - **Success Criteria**: Indicate what will need to happen for this objective to be considered successful (you can log Activity updates to capture progress)
 - **Comments**: Share any info that might be relevant to the objective (e.g. potential blockers, architecture details, or other important details worth mentioning)
+- **Summary of Outcome**: Provide a brief summary of the outcome of the objective (e.g what changed, what was the impact, what actions were performed). Note: this field is required before the objective can be closed
 
 Objectives should be actionable, and Gainsight provides a way to create milestones as part of the objective, called tasks. A task in Gainsight is equivalent to a milestone in GitLab's historical success plan terminology. In short, the objective is the goal and the tasks are the key milestones to getting there (similar to Objectives and Key Results).
 
