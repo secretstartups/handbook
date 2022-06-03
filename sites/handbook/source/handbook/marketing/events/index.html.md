@@ -61,7 +61,7 @@ Please _only request_ event support/sponsorship if your proposed event fits the 
 
 If your event fits the criteria above and you would like support from marketing, create an issue in the appropriate marketing project.
 
-- [**Community Relations**] - We are unable to support inbound requests for sponsorship of community events for the remainder of FY23. 
+- **Community Relations** - We are unable to support inbound requests for sponsorship of community events for the remainder of FY23. 
 - [**Corporate Events**](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Event_Sponsored_Corporate_Events) - use the "Event-Request" template
 - **Field Marketing**
   `Please Note:` _These requests will be reviewed by the appropriate regional Field Marketing Manager. Even if the event is free or low-cost, all requests must be approved by Field Marketing prior to any commitment to ensure the event or tactic aligns to the marketing strategy, meets SAO objectives and Field Marketing can properly execute to maximize GitLab’s future success._ - To suggest a Field Marketing event (in-person or virtual) or other tactic for review, please open an [`Event_Tactic_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Event_Tactic_Request) issue and follow the instructions.
