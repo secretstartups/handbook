@@ -70,3 +70,4 @@ If it is decided that an Event Stream should be implemented, our exit criteria s
 | Member             | Bartek Marnane     | VP, Incubation Engineering                      |
 | Member             | Roger Ostrander    | Senior Security Engineer, Trust & Safety        |
 | Member             | Shawn Sichak       | Senior Security Engineer, Trust & Safety        |
+| Member             | Chad Woolley       | Senior Backend Engineer, Create::Editor         |
