@@ -15,8 +15,8 @@ canonical_path: "/company/team/structure/working-groups/demo-test-data/"
 
 | Property        | Value           |
 |-----------------|-----------------|
-| Date Created    | Jan 19 2021 |
-| Target End Date | March 24 2022  |
+| Date Created    | Jan 19 2022 |
+| Target End Date | July 24 2022  |
 | Slack           | [#wg_demo-test-data](https://gitlab.slack.com/archives/C02M7GX1SBE) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1XmTGP1pNBDaC6LduW8rygYBdd8BrS5el2zjGvI7Dtyc/edit#heading=h.epyavtxljcb2) |
 | Task Board      | [Board](https://gitlab.com/gitlab-org/gitlab/-/boards/3766722) |
@@ -43,11 +43,10 @@ We will benefit from tooling efficiency together and broaden visiblity of demo d
 | Working Group Role    | Person                 | Title                             |
 |-----------------------|------------------------|-----------------------------------|
 | Facilitator           | Grant Young            | Staff Software Engineer in Test   |
-| Functional Lead       | Mark Fletcher          | Engineering Productivity Engineer |
-| Functional Lead       | Marcellus Thabo Bopape | Senior Technical Enablement Program Manager |
 | Stakeholder           | Tim Poffenbarger       | Senior Manager, Solutions Architects |
 | Stakeholder           | Tanya Pazitny          | Director of Quality               |
 | Executive Sponsor     | Mek Stittri            | VP of Quality                     |
+| Member                | Marshall Cottrell.     | Principal, Strategy and Operations (Technical) |   
 | Member                | Vincy Wilson           | Quality Engineering Manager       |
 | Member                | Tim Zallmann           | Senior Director of Engineering    |
 | Member                | Mark Wood              | Senior Product Manager            |
