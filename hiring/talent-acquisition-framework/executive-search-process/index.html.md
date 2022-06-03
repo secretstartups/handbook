@@ -4,7 +4,7 @@ title: "Executive Search Process"
 description: "This page provides an overview on the executive search process"
 ---
 
-## Executive Search Process
+## Executive Search Process (E-Group Only)
 
 ## Stakeholders & DRI’s
 
