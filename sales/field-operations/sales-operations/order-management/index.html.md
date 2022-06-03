@@ -143,6 +143,10 @@ Our team aims for an Approval Accuracy of 95% or greater. Meaning, of all opport
 
 Order Management Specialists will be responsible for taking action on feedback received in Quarterly CSAT surveys, as well as improving processes related to common opportunity rejections, whether it be through documentation, training, or system improvements. The goal is to reduce time to approval, improve efficiency and maintain a high level of accuracy for all approvals. 
 
+### Key Performance Indicators: Results
+
+To review quarterly KPI results, see: [Deal Desk & Order Management KPI - Results](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/Deal-Desk-Order-Mgmt-KPIs/)
+
 ### Opportunity Approval Process
 
 Order Management reviews every Sales Assisted opportunity prior to booking. All opportunities must meet our standard opportunity booking requirements. An opportunity will be rejected if it is missing components necessary for booking. 
