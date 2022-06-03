@@ -13,7 +13,7 @@ The Tech Stack is a list of all the technology that GitLab currently uses to sup
 
 - The Tech Stack single source of truth is the **[Tech Stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml).**
 - An overview of the Tech Stack is accessible in the [Tech Stack handbook page](/handbook/business-technology/tech-stack/), which is derived from the yml file as well.
-- The [Tech Stack Data and Integrations Index](/handbook/business-technology/tech-stack-applications/data-and-integrations/) contains links to integrations, dashboards, and data used by Tech Stack Applications.
+- Many applications have a [Tech Stack Guide](#tech-stack-guide) to help you understand how the app is used and implemented
 
 The historical spreadsheets (deprecated on 2020-10-16 and 2021-03-03) can be found [here](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0). Both are protected in case they are needed in future audits. Only Editors of the file (currently the BSAs and Team Member Enablement team) can unhide and unprotect the spreadsheets in case it is needed.
 
@@ -107,7 +107,8 @@ Copy the content below and please add your system to the stack in its appropriat
   employee_or_customer_facing_app:
   notes: null
   saas: null
-  handbook_link:
+  handbook_link: null
+  external_link:
   google_group:
 ```
 
