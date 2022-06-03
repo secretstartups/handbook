@@ -56,17 +56,33 @@ Additionally, the Data Collaboration Team **supports** the following responsibil
 
 ### Data Analytics Tools
 
-*Coming soon*
+- [Sisense for Cloud Data Teams](https://app.periscopedata.com/)
+- [Snowflake](http://gitlab.snowflakecomputing.com)
+- [Google Data Studio](http://datastudio.google.com)
+- [Google Sheets](http://sheets.google.com)
 
 ## Key Projects
 
 - [New BI Platform Evaluation and Deployment](https://gitlab.com/groups/gitlab-data/-/epics/470)
 - [Rollout Product Analytics Tool to Growth](https://gitlab.com/groups/gitlab-data/-/epics/514)
-- [Develop Subject Matter Expert Lookup](https://gitlab.com/gitlab-data/functional-analytics-center-of-excellence/-/issues/2)
+- [Data Hub](https://gitlab.com/gitlab-data/functional-analytics-center-of-excellence/-/issues/2)
 
 ### Project Structure 
 
 *Coming soon*
+
+
+### Data Assets Findability
+
+BI Dashboards hub pages per functional area:
+- [Go To Market Analytics Hub](https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0)
+- [Marketing Analytics Hub](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/969815/Marketing-Analytics-Hub)
+
+Handbook pages:
+- [FACE Single Source of Truth Reporting](https://about.gitlab.com/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/)
+- [Data Collaboration Hub *(in progress)*](https://about.gitlab.com/handbook/business-technology/data-team/data-program-collaboration-hub/)
+- [Data Catalog *(to be updated)*](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/)
+- [Tech Stack - Data and Integrations](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/data-and-integrations/)
 
 ### Current State of Business Intelligence
 
@@ -84,6 +100,8 @@ What is missing from all these solutions is a governed way to enable data analyt
 - The lack of robust granular access controls results in increased overhead to enforce the principle of least privilige, like the need to create our [SAFE intermediate space](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/#what-is-safe-data) due to the lack of row and column level permissions.
 - The lack of robust data governance capabilities in the platforms we use for analytics purposes could result in different numbers being displayed for the same metrics.
 - The lack of world class data vizualisation options results in less useable dashboards, as many data vizualization [best practices](https://www.perceptualedge.com/articles/Whitepapers/Communicating_Numbers.pdf) can't always be implemented in our current toolset.
+
+[Current Usage of Sisense CDT](https://app.periscopedata.com/app/gitlab/410320/Periscope-Usage!-📈)
 
 
 ### Current State of Product Analytics
