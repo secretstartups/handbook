@@ -23,4 +23,7 @@ If you need to request access for any of the following tools, please refer to an
 
 <%= kramdown(stack.description) if stack.description %>
 
+<% if stack.handbook_link %>
+**Handbook Guide:** <%= stack.handbook_link %>
+<% end %>
 <% end %>
