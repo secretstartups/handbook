@@ -211,7 +211,7 @@ The Deal Desk team will be responsible for taking action on feedback received in
 
 To review quarterly KPI results, see: [Deal Desk & Order Management KPI - Results](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/Deal-Desk-Order-Mgmt-KPIs/)
 
-#### Proactive Opportunity Review
+### Proactive Opportunity Review
 
 In an effort to proactively prevent common order issues (especially those that would require a customer to resign our order form) the Deal Desk team will conduct a manual review of all opps that meet the following criteria: 
 
