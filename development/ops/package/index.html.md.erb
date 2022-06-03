@@ -152,7 +152,7 @@ The GitLab Container and Package Registry currently handle hundreds of millions 
 
 ### Roles and responsibilities
 
-Our team emphasises ownership by people who have the information required. This means, for example, in the event of some discussion about UX considerations, our Product Designer will have ownership. When we're building features, the Product Manager owns the decision on whether this is a feature that meets our customer needs. Our Product Developers own the technical solutions being implemented.
+Our team emphasises ownership by people who have the information required. This means, for example, in the event of some discussion about UX considerations, our Product Designer will have ownership. When we're building features, the Product Manager owns the decision on whether this is a feature that meets our customer needs. Our Engineers own the technical solutions being implemented.
 
 The process of making sure that there are issues to evaluate and break down is the responsibility of our Product Manager. It is the responsibility of the engineering team to evaluate each issue and make sure it's ready for development (using the `workflow::ready for development` label). It is the responsibility of our Product Designer to evaluate user experience and score our product maturity based on user research. This process will take some time to complete each time we achieve a new maturity stage. [MR Rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate) will be used as an objective measure of our efficiency, not of alignment with our customer's needs or our organizational goals.
 
@@ -261,30 +261,73 @@ For things like bugs or issues with many unknowns, the confidence can help commu
 
 ### Workflow
 
-Our Product Manager owns the problem validation backlog and problem validation process as outlined in the [Product Development Workflow](/handbook/product-development-flow/). Our Product Designer then owns the [solution validation](/handbook/product-development-flow/#validation-phase-3-solution-validation) process. You can view all items and their current state in the [Package: Validation Track](https://gitlab.com/groups/gitlab-org/-/boards/1397751?&label_name[]=group%3A%3Apackage) issue board.
+We generally follow the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
 
-At the end of this process, the issues will be ready for the [build track](/handbook/product-development-flow/#build-track) which is owned by the Product Developers and lives in the [Package:Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1284221?label_name[]=group%3A%3Apackage) issue board.
+1. `workflow::problem validation` - needs clarity on the problem to solve. Our Product Manager owns the problem validation backlog and problem validation process as outlined in the [Product Development Workflow](/handbook/product-development-flow/).
+1. `workflow::design` - needs a clear proposal (and mockups for any visual aspects).
+1. `workflow::solution validation` - designs need to be evaluated by customers, and/or other GitLab team members for usability and feasibility. Our Product Designer then owns the [solution validation](/handbook/product-development-flow/#validation-phase-3-solution-validation) process. You can view all items and their current state in the [Package: Validation Track](https://gitlab.com/groups/gitlab-org/-/boards/1397751?&label_name[]=group%3A%3Apackage) issue board.
+1. `workflow::refinement` - needs a weight estimate and clarification to ensure an issue is ready for development. At the end of this process, the issues will be ready for the [build track](/handbook/product-development-flow/#build-track) which is owned by the Engineers and lives in the [Package:Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1284221?label_name[]=group%3A%3Apackage) issue board.
+1. `workflow::ready for development`
+1. `workflow::in dev`
+1. `workflow::in review`
+1. `workflow::verification` - code is merged and pending verification by the DRI engineer.
+1. `workflow::staging` - code is in staging and has been verified.
+1. `workflow::production` - code is in production and has been verified. Ideally, when an issue is closed, it has this label.
 
-Once an issue receives the `workflow::scheduling` label, engineers will give the issue a [weight](#issue-weighting), identify any gaps in the description moving the issue eventually to the `workflow::ready for development` state (with the matching label).
+The Product Manager owns the process of populating the current milestone work following the [prioritization guidelines](/handbook/product/product-processes/#prioritization). Engineers are empowered, once the planned work has been exhausted, to prioritize issues that will deliver customer value preferring smaller issues over larger ones.
 
-Our Product Manager and Engineering Manager will ensure that the `package:active` label is applied to sufficient issues for the team to have work items. Product Developers are empowered to move items into this state as well.
-
-The Product Manager owns the process of populating the current milestone with feature work. This feature work will take priority but, will be limited to 3 to 4 items per milestone. Product Developers are empowered, once feature work has been exhausted, to prioritise customer value issues that will quickly deliver customer value preferring smaller issues over larger ones.
-
-Issues that we're actually expecting to work on will have the `package:active` label added to them at which point they'll appear in the Package:Workflow board. As product developers begin working on the issue, they'll assign the `workflow::in dev` label.
+Issues that we're expecting to work on in the milestone will have the `workflow::ready for development` label added to them. Once labeled, they'll appear in the [Package:Workflow board](https://gitlab.com/groups/gitlab-org/-/boards/1284221?label_name[]=group%3A%3Apackage). As engineers begin working on the issue, they'll assign the `workflow::in dev` label.
 
 #### Milestone Planning
 
-Our Product Manager, Product Designer, and Engineering Manager develop a plan for upcoming milestones. The issues are labeled and assigned to the milestone. The Product Manager creates an issue for milestone planning that includes the priorities for the milestone. Product Developers review the milestone planning issue, ask questions, raise concerns and weigh each issue. The result of this process is a finalized milestone. Our milestone planning issues can be found in our [Milestone Planning Epic](https://gitlab.com/groups/gitlab-org/-/epics/3591).
+- Our Product Manager, Product Designer, and Engineering Manager develop a plan for upcoming milestones. 
+- The PM creates an issue for milestone planning that includes the goals, priorities and work for the milestone. The milestone planning issues can be found in our [Milestone Planning Epic](https://gitlab.com/groups/gitlab-org/-/epics/3591).
+- Everyone can contribute and collaborate in the milestone issue to propose work, raise concerns and clarify topics.  
+- To identify work and their priority, issues are assigned to the milestone and labelled as `Package:P1` or `Package:P2` according to their priority. Our prioritization model can be found below in the section [Priorities](/handbook/engineering/development/ops/package/#milestone-priorities).
+- Before commiting to the work for the milestone, engineers perform [refinement](/handbook/engineering/development/ops/package/#refinement) and confirm all issues are ready for development.
+- We commit to the `Package:P1` work in the milestone by having an engineer add the `workflow::ready for development` label and then having the engineering manager add the `Deliverable` label. We measure our predictability and commitments with [Say/Do ratios](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios).  
+
+#### Refinement
+
+After we complete problem and solution validation, the next step is refinement, where engineers break down requirements and present a high-level design and feasible estimated solution. 
+
+During refinement, engineers can create more issues if necessary. A single engineer can do the refinement. They can ask other team members for a review or seek input to understand the domain knowledge better when in doubt. 
+
+Issues needing refinement get the label `workflow::refinement` and are added to the milestone planning issue by the Product Manager. At the end of refinement, engineers apply the label `workflow::ready for development`.
+
+
+Guidelines:
+
+- Identify and resolve outstanding questions or discussions.
+    - Does the issue has a clear, updated, and confirmed design associated?
+    - Does the issue contains all the data necessary to start implementation?
+- Identify missing dependencies.
+    - Is the issue dependent on any other issue in the milestone, or the dependency is explicitly communicated, noted in the description and the issue is linked?
+    - The GraphQL API or the REST API contains all the data necessary to implement the UI?
+    - The GraphQL API or the REST API implements all the necessary filters, sorting, and pagination to implement the UX?
+    - The GraphQL API or the REST API contains all the necessary mutation/actions to implement the UX?
+- Raise any questions, concerns, or alternative approaches.
+    - Could this issue be resolved in different ways?
+    - What is the biggest risk? 
+- Involve stable counterparts.
+    - The impact on QA and Feature tests of this issue is clear and, if necessary, the SET stable counterpart is involved in reviewing them?
+    - The impact on security of this issue is clear, and if necessary, a stable counterpart is involved?
+- Outline an implementation plan.
+    - What is the smallest thing possible to do?
+    - Should we use a feature flag?
+- Assign labels. 
+- Assign a weight to the issue according to [weighting guidelines](/handbook/engineering/development/ops/package/#issue-weighting).
+
 
 #### Milestone Priorities
 
-Throughout the workflow, issues should be addressed in the following priority order:
-1. Sustaining work: Based on the [product prioritization framework](https://about.gitlab.com/handbook/product/product-processes/#prioritization), `security`, `bug::vulnerability`, `availability`, `infradev`, `Corrective Action`, and `ci-decomposition::phase*` issues will be at the top of our [Package:Milestones Board](https://gitlab.com/groups/gitlab-org/-/boards/1196366?label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage)
+Throughout the [workflow](/handbook/engineering/development/ops/package/#workflow), issues should be addressed in the following priority order:
+
+1. Sustaining work: Based on the [product prioritization framework](/handbook/product/product-processes/#prioritization), `bug::vulnerability`, `availability`, `infradev`, `Corrective Action`, and `ci-decomposition::phase*` issues will be at the top of our [Package:Milestones Board](https://gitlab.com/groups/gitlab-org/-/boards/1196366?label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage).
 1. `Package:P1` label: Used to identify high priority issues that should be committed to in a given milestone or scheduled in an upcoming milestone.
 1. `Community Contribution` label: When in the milestone planning, this identifies community contributions we committed to delivering in a given milestone.
 1. `Package:P2` label: Used to stretch goals for a given milestone.
-1. `workflow::scheduling` label: These are issues that require [weighting](#issue-weighting), feedback, and scheduling before being moved to `workflow::ready for development`
+1. `workflow::refinement` label: These are issues that require [weighting](#issue-weighting), feedback, and scheduling before being moved to `workflow::ready for development`.
 
 ##### Issue Weighting
 
