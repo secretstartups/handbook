@@ -14,6 +14,15 @@ description: "Reference entry to create new Tech Stack Guides."
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Approach
+
+The goal of this page is to describe how to document an application in the GitLab technology stack -- we're calling this application document a `Tech Stack Guide`. An application's Tech Stack Guide should live with the functional business owner of the technology. Our SSOT will be the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and will populate key portions of the page. However, other sections of the page can be populated that are not included in the YAML file as needed to ensure that the documentation is complete such as Data Model, Integrations, Key Reports/Dashboards.
+
+Here's how to think about the relationship between the Tech Stack YAML nd the Tech Stack Guide:
+- The Tech Stack YAML is a registry of all apps GitLab owns or operates (the What)
+- A Tech Stack Guide covers the business and technical workflows (the Why and How) of each Tech Stack app 
+- The `handbook_link` key/property in the YAML links to the corresponding Tech Stack Guide(s)
+
 ## Template
 
 ### Tech Stack Application OR Module Name
