@@ -77,6 +77,7 @@ As point 36 on our [communication handbook page](https://about.gitlab.com/handbo
 | E-Group | Executive Group |
 | EBA | Executive Business Administrator | 
 | IPO | Initial Public Offering | 
+| LGTM | Looks good to (me/merge)! |
 | KPIs| Key Performance Indicators |
 | MR | Merge Request  | 
 | MVC| [Minimum Viable Change](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc) (not related to Model-View-Controller)|
