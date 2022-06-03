@@ -12,9 +12,9 @@ description: "Describes the role and responsibilities for CMOC rotation in Suppo
 
 ## Introduction
 
-As the [Communications Manager on Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) it's your job to be the voice of GitLab to our users and stakeholders during an incident. To do this effectively you'll use a combination of [our status page](https://status.gitlab.com/) (powered by [Status.io](https://status.io)), Slack, Zendesk, and GitLab itself. The CMOC rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call).
+As the GitLab.com Incident [Communications Manager on Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) it's your job to be the voice of GitLab to our users and stakeholders during an incident. To do this effectively you'll use a combination of [our status page](https://status.gitlab.com/) (powered by [Status.io](https://status.io)), Slack, Zendesk, and GitLab itself. The CMOC rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call).
 
-Our Slack bot [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) provides a command (`/incident post-statuspage`) to quickly spin up an incident on [Status.io](https://status.io). From there, the basics of how to update and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. This document covers how GitLab specifically uses Status.io to perform those tasks. 
+Our Slack bot [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) provides a command (`/incident post-statuspage`) to quickly spin up an incident on [Status.io](https://status.io). From there, the basics of how to update and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. This document covers how GitLab specifically uses Status.io to perform those tasks.
 
 ### CMOC Performance Indicators
 {:.no_toc}
@@ -65,7 +65,7 @@ GitLab team members are encouraged to use this method of reporting incidents if 
 
 The Incident Manager (IM) is the DRI for the decision of whether to initiate public communications via the Status Page. When joining an incident as the CMOC you should inquire as to whether communications are currently required.
 
-In later sections of this workflow it's called out that at times you should be asking the [Incident Manager (IM)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) assigned to the incident for permission to move it between stages (open, monitoring, resolved). 
+In later sections of this workflow it's called out that at times you should be asking the [Incident Manager (IM)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) assigned to the incident for permission to move it between stages (open, monitoring, resolved).
 
 On the rare occasion that an incident does not have an Incident Manager, the [Engineer On Call (EOC)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) assumes these responsibilities and you may ask them instead.
 
@@ -266,9 +266,9 @@ We mark the PagerDuty page as [resolved](#pagerduty-status-definitions) once eve
 
 ### **Stage 2: Updating Incidents**
 
-To publicly communicate attention and progress incidents should be updated according to the [frequency of incident updates table](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates) unless you communicate otherwise. 
+To publicly communicate attention and progress incidents should be updated according to the [frequency of incident updates table](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates) unless you communicate otherwise.
 
-To update an active incident, click the incidents icon from the dashboard. 
+To update an active incident, click the incidents icon from the dashboard.
 
 ![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png){: .shadow}
 
@@ -386,7 +386,7 @@ Update the new schedule time by hitting on the _Reschedule Maintenance_ button *
 {:.no_toc}
 
 > **Note About Automated Maintenance Events**: On the Maintenance Event page you may see `Automation: Running`  with red text in parentehsis next to it reading `(Disable)`.
-Once `(Disable)` has been clicked and subsequently disabled it cannot be re-enabled. 
+Once `(Disable)` has been clicked and subsequently disabled it cannot be re-enabled.
 In order to `Post Update` and `Finish Maintenance` the automated Maintenance Event must be `(Disable)`.
 After being disabled all future updates to this Maintenance Event must be manual updates from that point forward.
 
