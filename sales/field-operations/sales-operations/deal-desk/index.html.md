@@ -193,6 +193,16 @@ All regions will receive a Quarterly Customer Satisfaction survey at the beginni
 
 Results from the survey will be used to evaluate team member performance and to identify areas for improvement.
 
+**Measuring Regional Support Satisfaction:**
+* A positive satisfaction rating is determined by measuring the ratio of positive responses to the question: "How would you describe the level of support you received from Deal Desk during Q1?" 
+* Available responses include:
+  * Excellent
+  * Good
+  * Neutral
+  * Poor
+  * Very Poor
+* Satisfaction rating is determined by the percentage of Excellent, Good, and Neutral responses, as compared to the total number of responses. The outcome in percentage form is the Regional Support Satisfaction rating. 
+
 #### 3. Case Reduction through Proactive Support - Training, Documentation, and System Improvements 
 
 The Deal Desk team will be responsible for taking action on feedback received in our Quarterly CSAT survey by improving process related to common quoting errors, opportunity bugs, or gaps in process documentation. The goal is to decrease the number of cases and enable the field to complete the standard duties related to quoting without Deal Desk intervention. Deal Desk will always assist in complex or non-standard deals.
