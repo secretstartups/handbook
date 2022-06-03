@@ -1,0 +1,82 @@
+---
+layout: handbook-page-toc
+title: "Tech Stack Guide - Golden Refence"
+description: "Reference entry to create new Tech Stack Guides."
+---
+
+{::options parse_block_html="true" /}
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Template
+
+### Tech Stack Application OR Module Name
+
+Tech Stack Details extracted directly from the tech_stack.yml file.
+
+#### Implementation
+
+Information about how the app was implemented, including links to GitLab epics and issues.
+
+#### System Diagram
+
+Include a [Mermaid Diagram(s)](https://mermaid-js.github.io/docs/mermaid-live-editor-beta/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0NocmlzdG1hc10gLS0-fEdldCBtb25leXwgQihHbyBzaG9wcGluZylcbiAgICBCIC0tPiBDe0xldCBtZSB0aGlua31cbiAgICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICAgIEMgLS0-fFR3b3wgRVtpUGhvbmVdXG4gICAgQyAtLT58VGhyZWV8IEZbZmE6ZmEtY2FyIENhcl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ) illustrating how the module is deployed, any relevant data flows, and integrations with other apps.
+
+#### Data Model
+
+Include a [Mermaid ER diagram](https://mermaid-js.github.io/docs/mermaid-live-editor-beta/#/edit/eyJjb2RlIjoiZXJEaWFncmFtXG4gICAgICAgICAgQ1VTVE9NRVIgfXwuLnx7IERFTElWRVJZLUFERFJFU1MgOiBoYXNcbiAgICAgICAgICBDVVNUT01FUiB8fC0tb3sgT1JERVIgOiBwbGFjZXNcbiAgICAgICAgICBDVVNUT01FUiB8fC0tb3sgSU5WT0lDRSA6IFwibGlhYmxlIGZvclwiXG4gICAgICAgICAgREVMSVZFUlktQUREUkVTUyB8fC0tb3sgT1JERVIgOiByZWNlaXZlc1xuICAgICAgICAgIElOVk9JQ0UgfHwtLXx7IE9SREVSIDogY292ZXJzXG4gICAgICAgICAgT1JERVIgfHwtLXx7IE9SREVSLUlURU0gOiBpbmNsdWRlc1xuICAgICAgICAgIFBST0RVQ1QtQ0FURUdPUlkgfHwtLXx7IFBST0RVQ1QgOiBjb250YWluc1xuICAgICAgICAgIFBST0RVQ1QgfHwtLW97IE9SREVSLUlURU0gOiBcIm9yZGVyZWQgaW5cIlxuICAgICAgICAgICAgIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0) with the most important Data Objects defined. 
+
+#### Integrations
+
+List the integrations between this app and other tech stack apps or systems. Include links to additional material if available, including development project, code, diagrams, and issues.
+
+#### Key Reports / Dashboards
+
+List the important reports and dashboards used to operate the application, including links where available.
+
+## Example Entry
+
+### Thought Industries Learning Management System
+
+The Tech Stack single source of truth is the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and contains more detail about this app.
+
+<% data.tech_stack.each do |stack| %>
+<% if stack.title == "Thought Industries LMS" %>
+- **Description:** <%= stack.description %>
+- **Provisioner:** <%= stack.provisioner %>
+- **Deprovisioner:** <%= stack.deprovisioner %>
+- **Okta Enabled:** <%= stack.need_move_to_okta %>
+- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
+<% end %>
+<% end %>
+
+#### Implementation
+
+The LMS implementation is [organized into multiple phases](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/390#project-scope).
+
+#### System Diagram
+
+The Thought Industries LMS Implementation is a SaaS app and is not integrated with other GitLab systems.
+
+```mermaid
+graph TD
+GC[GitLab Customer] -->|user authentication| LMS[LMS]
+```
+
+#### Key Reports / Dashboards
+
+All Dashboards and Reports are a part of LMS itself. No separate Sisense reports are available or planned.
+
+#### Data Model
+
+The Data Model is not available and LMS is a closed system.
+
+#### Integrations
+
+The Thought Industries LMS Implementation is a stand-alone SaaS app and is not integrated with other GitLab apps.

@@ -50,7 +50,7 @@ Please ensure that whenever you update the tech stack, you follow the instructio
 | title | Text | The name of the system you are adding to the tech stack. Please enter the full and correct brand name associated with the tool. Example: "[Zendesk](https://www.zendesk.com/), not ZenDesk."  | MR Author and contributors |
 | team_member_baseline_entitlement | Boolean* | A baseline entitlement is a system that **ALL** GitLab Team Members get access to. Example: "Zoom". Most systems in our Tech Stack are not baseline entitlements. | MR Author and contributors |
 | subprocessor | Boolean* or Unknown** | Decided upon by the legal team. This information can be found in the tool's privacy review issue. A subprocessor is a tool that has or potentially will have access to or process Service Data (which may contain Personal Data).|Legal and Security teams|
-| description | Text | Business Purpose of the system. Please add links to handbook pages or websites that can provide people with more information on what the system is used for. Example: "[ContractWorks](https://www.contractworks.com/) is a contract managing software. [This process](/handbook/legal/vendor-contract-filing-process/) is used to file contract or related vendor documents after they are fully executed." | MR Author and contributors |
+| description | Text/Markdown | Business Purpose of the system. Please add links to handbook pages or websites that can provide people with more information on what the system is used for. Example: "[ContractWorks](https://www.contractworks.com/) is a contract managing software. [This process](/handbook/legal/vendor-contract-filing-process/) is used to file contract or related vendor documents after they are fully executed." | MR Author and contributors |
 | access_to | Text | Define which individuals or teams need access to this system. Example: Strategic Marketing and Product Managers | MR Author and contributors |
 | provisioner | Text in single quotes, GitLab Username | Add the username of the people in charge of provisioning access to this system, separated by commas. We require at least 2 people to be listed as provisioners of a tool. Example: '`@username`, `@username1`'  | MR Author and contributors |
 | deprovisioner | Text in single quotes, GitLab Username | Add the username of the people in charge of removing access to this system, separated by commas. We require at least 2 people to be listed as deprovisioners of a tool. Team members can serve as both provisioners and deprovisioners of a tool. Example: '`@username`, `@username1`'  | MR Author and contributors |
@@ -61,14 +61,15 @@ Please ensure that whenever you update the tech stack, you follow the instructio
 | data_classification | Text (Red, Orange, Yellow, Green) or Unknown** | Decided upon by the Security team, please leave as `null` while this process is completed. More information on [Data Classification Standards](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html).| IT Compliance Team |
 | integration_method | Text (SWA, SAML, other) or Unknown** | Login method used to access the system. It can be [SWA](https://help.okta.com/en/prod/Content/Topics/Apps/Apps_Overview_of_Managing_Apps_and_SSO.htm), [SAML](https://support.okta.com/help/s/article/Beginner-s-Guide-to-SAML?language=en_US) or other such as direct access (email and password login).  | MR Author and contributors |
 | need_move_to_okta | Text or Unknown** | EMPTY | MR Author and contributors |
-|critical_systems_tier|Text or Unknown**|This field classifies the system based on GitLab's [Critical System Tier Definitions](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/storm-program/critical-systems.html). It is typically decided on by the Risk & Field Security and IT Compliance. **NOTE:** Beginning in FY22, GitLab began iterating on the Critical System Tiering Methodology. As part of this work, a Business Impact Analysis is being performed across the tech stack. Upon the completion of this work, all critical system tiers will be updated in accordance with the new methodology. Until then, please see tiering information for systems that have been reviewed on this [Google Sheet](https://docs.google.com/spreadsheets/d/1v6E48v2PujZJArSyZq1f3xvJ7wmwkUBZ8xSuKkBecfA/edit#gid=2108888748) (team members only).|Risk & Field Security, IT Compliance|
+|critical_systems_tier|Text or Unknown**|This field classifies the system based on GitLab's [Critical System Tier Definitions](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/storm-program/critical-systems.html). It is typically decided on by the Risk & Field Security and IT Compliance. **NOTE:** Beginning in FY22, GitLab began iterating on the Critical System Tiering Methodology. As part of this work, a Business Impact Analysis is being performed across the tech stack. Upon the completion of this work, all critical system tiers will be updated in accordance with the new methodology. Until then, please see tiering information for systems that have been reviewed on this [Google Sheet](https://docs.google.com/spreadsheets/d/1v6E48v2PujZJArSyZq1f3xvJ7wmwkUBZ8xSuKkBecfA/edit#gid=2108888748) (team members only).| Risk & Field Security, IT Compliance|
 | compliance_scope | Text | Comma separated list of the system's compliance scope: (e.g. SOX, SOC2, PCI). Decided upon by the Internal Audit and Security Compliance Teams, please leave as null while this process is completed. | Internal Audit and Security Compliance Teams |
 | collected_data | Text or Unknown**  | Data that is collected by the tool | MR Author and contributors |
 | processing_customer_data | Text or Unknown**  | Decided upon by the Legal team, please leave as `null` while this process is completed.| Legal team |
 | employee_or_customer_facing_app | Text (employee, customer) | If access is limited to GitLab team members, then please add the `employee` word. If access can be granted to external parties, then add `customer` | MR Author and contributors |
-| notes | Text or Unknown** | Additional relevant information about the system that is not captured in any other field. | Optional, MR Author and contributors |
+| notes | Text or Unknown** | Additional relevant information about the system that is not captured in any other field. Examples include the GitLab Epic for implementation and rollout. | Optional, MR Author and contributors |
 | saas | Boolean* or Unknown** | Is the tool a Software as a Service (SaaS) tool? | Optional, MR Author and contributors |
-| handbook_link | Text or Unknown** | Link to handbook page that includes more information about the system/application | Optional, MR Author and contributors |
+| handbook_link | Text/Markdown or Unknown** | Link to the `Tech Stack Guide` handbook page that includes function and system information.  Example: "The Finance handbook contains the [ContractWorks Tech Stack Guide](https://www.contractworks.com/)." | Optional, MR Author and contributors |
+| external_link | Text/Markdown or Unknown** | Link to the app's primary website. Example: "[ContractWorks](https://www.contractworks.com/)" | Optional, MR Author and contributors |
 | google_group | Text or Unknown** | Google group being used to manage access to the systems through Okta | Optional, MR Author and contributors |
 
 *  *For Booleans, you need to type out either `true` or `false`.
@@ -134,13 +135,28 @@ Occasionally systems listed in our tech stack will be deprecated. If a system is
 
 Please review our [Access Requests handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) to find more information on how to request access to systems. Choose the right template for your use case and follow the instructions.
 
+### Procurement
+
+Do you want to procure a new application/system? Visit the [Procurement handbook page](/handbook/finance/procurement/) to find out more information on how to get started. Only applications which go through this process can be added to the tech stack.
+
 ### Support
 
 Are you experiencing issues with an application/system? Visit our [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and under `Group Owner/Slack Channel`, you can find out what Slack channel you need to reach out to request support.
 
-### Procurement
+### Tech Stack Guide
 
-Do you want to procure a new application/system? Visit the [Procurement handbook page](/handbook/finance/procurement/) to find out more information on how to get started. Only applications which go through this process can be added to the tech stack.
+Every application should have a [Tech Stack Guide](/handbook/business-technology/tech-stack-guide/) handbook page to help everyone understand how the app is used, administered, and integrated with other systems. The audience of each Tech Stack Guide is anyone who needs to use the app, extend it, work with it, or understand how it fits into the rest of the GitLab Tech Stack ecosystem. Creation and maintenance of each Guide is a team effort and requires collaboration between the business system owner, technical owner, and others involved in implementation and operations.
+
+ The [Tech Stack Guide Reference](/handbook/business-technology/tech-stack-guide/) provides a template and example.
+
+Key sections of each Tech Stack Guide include:
+- operational guides (how to perform various functional activities in the app)
+- an operational guide (how to perform various activities in the app)
+- key reports
+- key data objects
+- system and data flow diagrams
+- tech stack integrations
+- administrative actions
 
 ### Updating the offboarding template
 
