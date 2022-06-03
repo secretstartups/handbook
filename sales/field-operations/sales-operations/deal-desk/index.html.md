@@ -207,9 +207,9 @@ Results from the survey will be used to evaluate team member performance and to 
 
 The Deal Desk team will be responsible for taking action on feedback received in our Quarterly CSAT survey by improving process related to common quoting errors, opportunity bugs, or gaps in process documentation. The goal is to decrease the number of cases and enable the field to complete the standard duties related to quoting without Deal Desk intervention. Deal Desk will always assist in complex or non-standard deals.
 
-In addition, the following reports are used to ensure an evenly balanced workload between team members. Data will be used to identify process gaps, inefficiencies, and trends or common errors in the Quote to Cash lifecycle with the mission to improve these areas.
+### Key Performance Indicators: Results
 
-(LIST REPORTS USED TO TRACK GENERAL VOLUME AND WORKLOAD)
+To review quarterly KPI results, see: [Deal Desk & Order Management KPI - Results](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/Deal-Desk-Order-Mgmt-KPIs/)
 
 #### Proactive Opportunity Review
 
