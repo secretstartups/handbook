@@ -123,9 +123,19 @@ Please review our Sales Order Processing page for Opportunity Booking Requiremen
 
 #### 2. Regional Support Satisfaction 
 
-All regions will receive a Quarterly Customer Satisfaction survey at the beginning of each new quarter. Our team aims for a 92% satisfaction rating for their supported region. This survey is a value tool to provide feedback on areas of improvement related to the Opportunity Approval Process. 
+All regions will receive a Quarterly Customer Satisfaction survey at the beginning of each new quarter. Our team aims for a 92% satisfaction rating for their supported region. This survey is a valuable tool to provide feedback on areas of improvement related to the Quote to Cash lifecyle.
 
-Results from the survey will be used to evaluate team member performance and to identify areas for improvement. 
+Results from the survey will be used to evaluate team member performance and to identify areas for improvement.
+
+**Measuring Regional Support Satisfaction:**
+* A positive satisfaction rating is determined by measuring the ratio of positive responses to the question: "How would you describe the level of support you received from Deal Desk during Q1?"
+* Available responses include:
+  * Excellent
+  * Good
+  * Neutral
+  * Poor
+  * Very Poor
+* Satisfaction rating is determined by the percentage of Excellent, Good, and Neutral responses, as compared to the total number of responses. The outcome in percentage form is the Regional Support Satisfaction rating. 
 
 #### 3. Opportunity Approval Accuracy and Efficiency 
 
