@@ -1,10 +1,10 @@
 ---
 layout: job_family_page
 title: Revenue Accounting
-description: "The Revenue Accounting Team at Gitlab form part of the Revenue Accounting Group. The Revenue Accounting Team is responsible for Worldwide Revenue Assurance & Accounting."
+description: "The Revenue Accounting Team at Gitlab forms part of the Revenue Organization. The Revenue Accounting Team is responsible for Worldwide Revenue Accounting."
 ---
 
-The Revenue Accounting Team at Gitlab form part of the Revenue Accounting Group. The Revenue Accounting Team is responsible for Worldwide Revenue Assurance & Accounting. 
+The Revenue Accounting Team at Gitlab forms part of the Revenue Organization. The Revenue Accounting Team is responsible for Worldwide Revenue Accounting. 
 
 ## Revenue Accounting Team Levels
 
@@ -19,11 +19,10 @@ The Associate Revenue Accountant is a [grade 5](/handbook/total-rewards/compensa
 #### Associate Revenue Accountant Responsibilities 
 
 * Learn and apply ASC 606 and company revenue recognition policies. 
-* Assist in the review of customer contracts for proper revenue recognition in accordance with company policy and revenue recognition accounting standards. 
-* Assist in the research and documentation of accounting issues.  
+* Assist in the review of customer contracts for proper revenue recognition in accordance with company policy and revenue recognition accounting standards.  
 * Assist with monthly balance sheet account reconciliations and journal entries for month end close. 
-* Assist in standalone selling price analysis. 
-* Work on ad hoc projects as required. 
+* Assist with revenue team projects and process improvements. 
+* Assist with correct application of internal controls. 
 
 #### Associate Revenue Accountant Requirements
 
@@ -45,12 +44,11 @@ The Revenue Accountant is a [grade 6](/handbook/total-rewards/compensation/compe
 
 #### Revenue Accountant Responsibilities
 
+* Apply ASC 606 and company revenue recognition policies. 
 * Review of customer contracts for proper revenue recognition in accordance with company policy and revenue recognition accounting standards. 
-* Research and document accounting issues and recommend solutions as needed. 
 * Prepare monthly balance sheet account reconciliations and journal entries and contribute to the month end close process. 
-* Perform standalone selling price analysis. 
-* Ensure compliance with internals controls and processes
-* Work on ad hoc projects as required. 
+* Work on revenue team projects and process improvements. 
+* Ensure correct application of internal controls. 
 
 #### Revenue Accountant Requirements
 
@@ -68,13 +66,13 @@ The Senior Revenue Accountant is a [grade 7](/handbook/total-rewards/compensatio
 
 #### Senior Revenue Accountant Responsibilities
 
+* Apply ASC 606 and company revenue recognition policies. 
 * Review and summarize customer contracts for proper revenue recognition in accordance with company policy and revenue recognition accounting standards
 * Key contributor in the monthly financial close, ensuring accurate and timely recording of transactions and the completeness of financial statements
-* Work closely and help manage transactions with the billing and deal desk teams
-* Perform standalone selling price
-* Work on ad hoc projects including implementation of new systems and standards
+* Work on revenue team projects and process improvements. 
+* Ensure correct application of internal controls. 
 * Work towards becoming a subject matter expert on revenue and ASC 606. 
-* Support training and review of junior team members. 
+* Supports and trains junior team members as required by the Manager, Revenue Accounting or above.
 
 #### Senior Revenue Accountant Requirements
 
@@ -92,21 +90,19 @@ The Senior Revenue Accountant, Team Lead will report to the Manager, Revenue Acc
 
 #### Senior Revenue Accountant, Team Lead Job Grade
 
-The Senior Revenue Accountant, Team Lead is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). This job is the same grade as the Senior Revenue Accountant.  The Senior Revenue Accountant, Team Lead has responsibilty for supporting other Accountants with first level queries and maintaining approval rights on certain size deals as outlined in our controls. 
+The Senior Revenue Accountant, Team Lead is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). This job is the same grade as the Senior Revenue Accountant.  The Senior Revenue Accountant, Team Lead has responsibilty for supporting, training and reviewing the work of team members. 
 
 #### Senior Revenue Accountant, Team Lead Responsibilities
 
-* Responsible for approving deals up to a specific threshold as outlined in our SOX controls
+* Apply ASC 606 and company revenue recognition policies. 
 * Takes a lead role in the review of customer contracts for proper revenue recognition in accordance with company policy and revenue recognition accounting standards.
-* Researches and documents accounting issues and recommend solutions for complex transactions.
 * Leading contributor in the monthly financial close, ensuring accurate and timely recording of transactions and the completeness of financial statements
-* Works closely and help manage transactions with the billing and deal desk teams and other stakeholders in the business.
+* Works closely and help manage complex transactions with the billing and deal desk teams and other stakeholders in the business.
 * Takes a lead role in the preparation and review of monthly account reconciliations and journal entries and the financial reporting process.
-* Ensure compliance with internals controls and processes
-* Perform standalone selling price analysis
-* Work on ad hoc projects including implementation of new systems and standards
+* Work on with revenue team projects, process improvements. 
+* Ensure correct application of internal controls.
 * Subject matter expert on revenue and ASC 606.
-* Manages and reviews the work of other members of the team as required by the Manager, Revenue Accounting or above.
+* Supports, trains and reviews the work of other members of the team as required by the Manager, Revenue Accounting or above.
 
 #### Senior Revenue Accountant, Team Lead Requirements
 
@@ -131,17 +127,16 @@ The Manager, Revenue Accounting is a [grade 8](/handbook/total-rewards/compensat
 
 #### Manager, Revenue Accounting Responsibilities
 
-* Review and approve deal review packs in accordance with review thresholds.
-* Lead the research and documentation of accounting issues and recommend solutions for the most complex transactions as needed
+* Review and approve customer contract review packs in accordance with review thresholds.
 * Lead the monthly financial close, ensuring accurate and timely recording of transactions and the completeness of financial statements
-* Work closely with billing, legal and sales on structuring of contracts 
+* Work closely with legal, sales and other stakeholders on structuring of contracts and non standard deal approvals
+* Takes a leading role on management and collaboration of complex transactions with the billing and deal desk teams and other stakeholders in the business.
 * Review month end balance sheet account reconciliations and journal entries and contribute to the financial reporting process
-* Analysis of standalone selling price
-* Work on special revenue projects including implementation of new systems and standards
-* Report on and analyze revenue results
-* Identify and develop best practices and process improvements
-* Guide and manage the revenue team
-* Liaison with External auditors, present significant item updates, supporting documentation for the quarterly reviews and year-end audits
+* Manage revenue team projects and process improvements. 
+* Manages application of internal controls.
+* Identify and develop best practices and process improvements.
+* Guides and manages the revenue team
+* Liaises with External auditors, present significant item updates, supporting documentation for the quarterly reviews and year-end audits
 
 #### Manager, Revenue Accounting Requirements
 
@@ -162,22 +157,19 @@ The Senior Manager, Revenuer Accouting is a [grade 9](/handbook/total-rewards/co
 
 #### Senior Manager, Revenue Accounting Responsibilities
 
-* Review and approve deal review packs in accordance with review thresholds.
-* Review and summarize customer contracts for proper revenue recognition in accordance with company policy and revenue recognition accounting standards
-* Take the leading role in the research and documentation of accounting issues and recommend solutions for the most complex transactions as needed
+* Leads the revenue contract review process. 
+* Review and approve customer contract reviews for proper revenue recognition in accordance with company policy and revenue recognition accounting standards
+* Takes a leading role in collaboration with legal, sales and other stakeholders on structuring of contracts and non standard deal approvals
 * Take the leading role in the monthly financial close, ensuring accurate and timely recording of transactions and the completeness of financial statements
-* Work closely with billing, legal and sales on structuring of contracts 
-Review month end balance sheet account reconciliations and journal entries and contribute to the financial reporting process
-* Ensure compliance with internals controls and processes
-* Analysis of standalone selling price
-* Work on special revenue projects including implementation of new systems and standards
-* Report on, analyze and provide commentary on revenue results
+* Takes a leading role on management and collaboration of complex transactions with the billing and deal desk teams and other stakeholders in the business.
+* Reviews and approves month end balance sheet account reconciliations and journal entries and contribute to the financial reporting process
+* Manage revenue team projects and process improvements.
+* Manages application of internal controls.
+* Work on special revenue projects including implementation of new systems and standards.
 * Identify and develop best practices and process improvements
 * Guide, manage and mentor the revenue team
-* Ensure all team member are adequately trained and managed
-Subject matter expert and trusted business advisor on revenue and ASC 606
-* Liaison with External auditors, present significant item updates, supporting documentation for the quarterly reviews and year-end audits
-* Support the ongoing revenue automation process, and work with IT to prioritize further potential system enhancements and development projects related to revenue
+* Subject matter expert and trusted business advisor on revenue and ASC 606
+* Liaise with External auditors, present significant item updates, supporting documentation for the quarterly reviews and year-end audits
 
 #### Senior Manager, Revenue Accouting Requirements
 
@@ -206,7 +198,7 @@ The Director, Revenue Accounting is a [grade 10](/handbook/total-rewards/compens
 
 #### Director, Revenue Accounting Responsibilities
 
-* Guide, mentor and manage the world-wide revenue, billing and commission teams
+* Guide, mentor and manage the world-wide revenue organization, which includes the revenue accounting, revenue gpo, billing and accounts receivable teams. 
 * Matrix management capabilities to communicate with and educate finance and non-finance personnel on revenue accounting guidance, Gitlab specific policies and procedures as well as inputs on structuring of customer arrangements
 * Review customer arrangements for proper revenue recognition in accordance with company policy and revenue recognition accounting standards
 * Ensure the integrity of the world-wide license, support, service and training revenue and assist in new product offerings that may be developed over time
@@ -239,7 +231,7 @@ The Senior Director, Revenue Accounting is a [grade 11](/handbook/total-rewards/
 
 #### Senior Director, Revenue Accouting Responsibilities
 
-* Guide, mentor and manage the world-wide revenue, billing and commission teams
+* Guide, mentor and manage the world-wide revenue organization, which includes the revenue accounting, revenue gpo, billing and accounts receivable teams. 
 * Trusted advisor to the business on commercial and go to market decisions
 * Drive continuous scalability, automation and efficiency 
 * Matrix management capabilities to communicate with and educate finance and non-finance personnel on revenue accounting guidance, Gitlab specific policies and procedures as well as inputs on structuring of customer arrangements
