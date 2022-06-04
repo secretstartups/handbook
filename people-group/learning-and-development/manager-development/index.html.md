@@ -32,7 +32,7 @@ By doing too much of the team’s work yourself, you may deprive team members of
 
 For example, a team member has a project but has no idea where to start, so they ask you for help. 
 
-You could show them how you would start it, but that could lead to a long-term dependency. Your team may internalize that they should always ask you before starting something. Instead, try telling them that they should comment an issue with five ideas by 10 a.m. the next day, and you will respond with your comments/suggestions by 10 a.m. the following day. This may be the same amount of work for you at first, but over time it will shift. Your team will begin to take smaller steps on their own, and allow you more time to focus on providing guidance and course correction.
+You could show them how you would start it, but that could lead to a long-term dependency. Your team may internalize that they should always ask you before starting something. Instead, try telling them that they should comment an issue with five ideas by 10 a.m. the next day, and you will respond with your comments/suggestions by 10 a.m. the following day. This may be the same amount of work for you at first, but over time it will shift. Your team will begin to take smaller steps on their own, and allow you more time to focus on providing guidance and course correction. By taking this approach, you will help your team learn how to best prioritize and plan their work, which will help them to successfully execute their goals. 
 
 #### Navigating the complexity of managing your former peers
 
@@ -40,7 +40,7 @@ If you have been promoted to a manager role, a second challenge you might face i
 
 The key to making this transition smooth is to be inclusive and communicate with your team and external collaborators. During your first few weeks as a new manager, try to identify a few small decisions you can make fairly quickly, but defer bigger ones until you’ve been in the role longer and have time to gather input from everyone. For example, set up a new schedule and agenda for team meetings, this is a small change but it clearly establishes your role as manager. 
 
-Also, in the first few weeks, take actions that establish your credibility and indicate how you’ll work as a manager. One of the best ways is to meet with your team, as a group and individually, and share with them your management style or review your Manager [README](/handbook/leadership/#your-individual-readme).
+Also, in the first few weeks, take actions that establish your credibility and indicate how you’ll work as a manager. One of the best ways is to meet with your team, as a group and individually, and share with them your management style or review your Manager [README](/handbook/leadership/#your-individual-readme). Meeting with the team will help you to identify their motivators so that you can start working with the team to create more informed individual and team goals.
 
 During this type of transition, it’s easy to become overly focused on your former peers. Don’t forget to build relationships with your new leader and schedule coffee chats with other stakeholders across the organization.
 
