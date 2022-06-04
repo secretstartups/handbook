@@ -18,19 +18,19 @@ defined on our [team structure page](/company/team/structure/).
 In an all-remote organization, we want each team member to be a [manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one). A [manager of one](/handbook/values/#managers-of-one) is an attribute associated with our [Efficiency value](/handbook/values/#efficiency). To be successful at GitLab, team members need to develop their daily priorities to achieve goals. Managers of one set the tone for their work, assign items and determine what needs to get done. No matter what role you serve, self-leadership is an essential skill needed to be successful as a manager of one.
 
 1. At GitLab, leadership is requested from everyone, whether an individual contributor or member of the leadership team.
-1. As a leader, GitLab team members will follow your behavior, so always do the right thing.
+1. As a leader, GitLab team members will follow your behavior, so always do the right thing. Lead by example with effort. 
 1. Everyone who joins GitLab should consider themselves ambassadors of our [values](/handbook/values/) and protectors of our [culture](/company/culture/).
 1. Behavior should be consistent inside and outside the company. We do the right thing outside the company, too.
 1. GitLab respects your judgment of what is best for you, since you know yourself best. If you have a better opportunity somewhere else don't stay at GitLab out of a sense of loyalty to the company.
 1. In tough times people will put in their best effort when they are doing it for each other.
-1. We work [asynchronously](/company/culture/all-remote/management/#asynchronous). Lead by example and make sure people understand that [things need to be written down in issues as they happen](/company/culture/all-remote/self-service/#paying-it-forward).
+1. We work [asynchronously](/company/culture/all-remote/management/#asynchronous). Lead by example and make sure people understand that [things need to be written down in issues as they happen](/company/culture/all-remote/self-service/#paying-it-forward). Hold your team accountable with documentation. 
 1. We are not a democratic or consensus driven company. People are encouraged to give their comments and opinions, but in the end [one person decides](/handbook/people-group/directly-responsible-individuals/) the matter after they have listened to all the feedback.
 1. It is encouraged to disagree and have constructive debates but please [argue intelligently](https://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/).
 1. We value truth seeking over cohesion.
 1. We avoid [meetings](/company/culture/all-remote/meetings/), when possible, because they don't support the asynchronous work flow and are hard to conduct due to timezone differences.
 1. Start meetings on time, be on time yourself, don't ask if everyone is there, and don't punish people that have shown up on time by waiting for people or repeating things for those that come late. When a meeting unblocks a process or decision, don't celebrate that but instead address the question: How can we unblock in the future without needing a meeting?
 1. Be intentional in how you prepare for and participate in meetings. Async communication works best when folks [review their calendars and prepare in advance of meetings](/culture/all-remote/meetings/#how-can-i-prepare-for-a-remote-meeting). 
-1. We give [feedback](/company/culture/all-remote/effective-communication/#feedback-is-a-gift), lots of it. Don't hold back on suggestions for improvements.
+1. We give [feedback](/company/culture/all-remote/effective-communication/#feedback-is-a-gift), lots of it. Don't hold back on suggestions for improvements, this helps us grow. Take pride in helping others through feedback.
 1. [Focus on improvement](/handbook/values/#focus-on-improvement). If you meet external people, always ask what they think we should improve.
 1. Following from [Paul Graham's advice](https://twitter.com/paulg/status/802102152319606784): Strive to make the organization simpler.
 1. Saying something to the effect of "as you might have heard", "unless you've been living in a cage you know", "as everyone knows", or "as you might know" is toxic. The people that know don't need it to be said. The people that don't know feel like they missed something and might be afraid to ask about the context.
