@@ -109,7 +109,7 @@ When it comes down to, it the best managers or leaders — the ones that team me
 
 #### Attract, engage and retain top talent
 
-A managers's job is not to just drive to OKRs and performance.  It is also to attract, engage and retain top talent team members and maximize their contribution to the group, department or division.  If you are interested in your team members aspirations and success, you will attract top talent because people will want to work for you.  Once you get great team members on board, you will need a plan to get them and keep them engaged. Career development can be and should be one of the ways you as a manager invest your time and energy to help drive engagement, performance and results.
+A managers's job is not to just drive to OKRs and performance.  It is also to attract, engage and retain top talent team members and maximize their contribution to the group, department or division.  If you are interested in your team members aspirations, success and what motivates them, you will attract top talent because people will want to work for you.  Once you get great team members on board, you will need a plan to get them and keep them engaged. Career development can be and should be one of the ways you as a manager invest your time and energy to help drive engagement, performance and results.
 
 ### Preparing for a team member's performance and development conversation
 
@@ -180,6 +180,7 @@ Below are several recommended articles regarding career development conversation
 * [Career Development Mentoring Benefits](https://www.insala.com/blog/benefits-of-career-development-mentoring)
 * [Why Employee Development is Important, Neglected and can Cost You Talent](https://www.forbes.com/sites/victorlipman/2013/01/29/why-development-planning-is-important-neglected-and-can-cost-you-young-talent/#22df1a8a6f63)
 [* If You're Not Helping People Develop, You're Not Management Material](https://hbr.org/2014/01/if-youre-not-helping-people-develop-youre-not-management-material)
+* [Bolt's Developing Your Team Playbook](https://conscious.org/playbook/developing-your-team/)
 
 
 ## Key Points
@@ -270,7 +271,7 @@ It’s important to listen and gather feedback from the team member about how th
 * What do you like most about your job?
 * What do you like least about your job?
 * How would you describe a great day at work?
-* What keeps you here at GitLab?
+* What motivates you to stay at GitLab?
 * What would make you consider leaving GitLab?
 * If you could change one thing about your job, team or company, what would it be?
 * What can I do to support you?
