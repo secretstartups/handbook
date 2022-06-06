@@ -861,7 +861,7 @@ featured:
 
 ## Email Process for Events
 
-[Please see Emails & Nurture handbook page for in-depth details on email marketing](/handbook/marketing/demand-generation/campaigns/emails-nurture)
+[Please see Emails & Nurture handbook page for in-depth details on email marketing](/handbook/marketing/lifecycle-marketing/emails-nurture)
 
 ## Speaking at events
 
