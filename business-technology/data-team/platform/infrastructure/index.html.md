@@ -16,8 +16,10 @@ title: "Data Infrastructure"
 [Airflow](https://airflow.gitlabdata.com){:.btn .btn-purple-inv}
 [Data Image Project](https://gitlab.com/gitlab-data/data-image){:.btn .btn-purple-inv}
 [GitLab Data Utils Project](https://gitlab.com/gitlab-data/gitlab-data-utils/){:.btn .btn-purple-inv}
-[Python Guide](/handbook/business-technology/data-team/platform/python-guide){:.btn .btn-purple-inv}
 [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab){:.btn .btn-purple-inv}
+[Monte Carlo](/handbook/business-technology/data-team/platform/monte-carlo){:.btn .btn-purple-inv}
+[Python Guide](/handbook/business-technology/data-team/platform/python-guide){:.btn .btn-purple-inv}
+[Snowflake Guiode](/handbook/business-technology/data-team/platform/snowflake){:.btn .btn-purple-inv}
 
 ## System Diagram
 
@@ -89,7 +91,8 @@ Execute command `kubectl apply -f name_space_testing.yaml` from the folder `airf
 
 To validate the list of namespace created/present  use `kubectl get namespace`.
 
-### Create kube secret 
+### Create kube secret
+
 After creating the namespace, create the airflow secret in both the namespace `default` and `testing`.
 For the creation of secrets in `default` namespace use [kube_secret_default.yaml](https://gitlab.com/gitlab-data/data-image/-/blob/master/airflow_image/manifests/kube_secret_default.yaml) Execute below command `kubectl create -f kube_secret_default.yaml` from the directory `airflow_image/manifests`
 Below output you should receive.
@@ -811,6 +814,7 @@ Then the task was enabled by running `alter task DEMANDBASE_ACCOUNT_LOAD_TASK re
 If a full refresh is required due to a failing test leading to an SLO breach, take time to investigate the root cause of the failing test. Make an [incident](/handbook/business-technology/data-team/how-we-work/#incidents) and document any findings before triggering the full refresh. It may also be useful to copy the data to another temporary table to allow the full refresh to continue unimpeded.
 
 ### Stitch-Managed Data
+
 For data sources extracted by Stitch (see extraction table [on the platform page](/handbook/business-technology/data-team/platform/#extract-and-load)) steps to be taken to refresh data depend on the connection and table settings.
 
 #### Key based replication tables
