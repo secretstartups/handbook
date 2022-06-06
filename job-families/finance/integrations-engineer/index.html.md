@@ -72,6 +72,32 @@ The Senior Integrations Engineer shares the same responsibilities outlined above
 - Experience with SaaS products
 - Experience using GitLab/Git
 
+## Manager, Integrations Engineering
+
+The Manager, Integration Engineering reports to the [Sr. Director, Enterprise Applications](https://about.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
+
+## Job Grade 
+
+The Manager, Integration Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+## Manager, Integration Engineering Responsibilities
+- Extends that of the Integration Engineering responsibilities.
+- Business Partnership: Influences outcomes in cross-functional settings often.
+- Owns relationships with partners while providing advice and guidance.
+-Team Leadership: Can manage a team to deliver results by dividing and balancing work between employees ensuring that results meet Enterprise Applications standards.
+- Project Management: Run and deliver on key components of large complex projects that improve our ability to make better data-driven insights or make the company more efficient.
+- Communication: Target audience basic influence to Directors, Sr Directors, Functional VPs, and CFO.
+- Mentorship: As a manager you mentor other team members in technical delivery, process analysis, and improvement.
+- Autonomy: Delivers and effectively prioritizes projects assigned with clear scope
+
+## Manager, Integration Engineering Requirements
+- Extends that of the Integration Engineer requirements.
+- Communication: Demonstrated an ability to influence business stakeholders.
+- Experience as owning a portion of system delivery for business function as a Business Technology partner.
+- 5-7 years of experience in an integration engineering or full stack engineer role ideally with an enterprise SaaS software model company.
+
+
+
 ## Performance Indicators
 
 - [Evaluating System or Process Efficiency](/handbook/business-ops/metrics/#evaluating-system-or-process-efficiency)
