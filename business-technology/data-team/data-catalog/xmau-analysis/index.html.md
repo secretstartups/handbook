@@ -436,3 +436,7 @@ System Owners
   - Salesforce: `TBD`
   - Zuora: `TBD`
   - dbt/Data Models: [R&D Data Fusion team](/handbook/business-technology/data-team/#data-fusion-teams)
+
+### Feedback
+
+Please add feedback to [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/13007)
