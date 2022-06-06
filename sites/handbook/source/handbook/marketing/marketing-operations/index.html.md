@@ -30,18 +30,20 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 
 
-| Person | Role | Focus |
-| ------ | ------ | ------ |
-| [Christine Lee](https://gitlab.com/christinelee) | Interim Marketing Ops & Strategy Lead| |
+| Person | Role |
+| ------ | ------ |
+| [Ray Leihe](https://gitlab.com/Leihe268) | VP, Marketing Strategy and Platforms|
 | [David Brown](https://gitlab.com/davidbrown1) | [Director, Marketing Operations](https://about.gitlab.com/job-families/marketing/director-marketing-operations/) | |
-| [Amy Waller](https://gitlab.com/amy.waller) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) | Awareness & Acquisition |
-| [Beth Peterson](https://gitlab.com/bethpeterson) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) | Conversion & Retention |
-| [Nikki Roth](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | Campaigns, Content |
-| [Gillian Murphy](https://gitlab.com/gillmurphy) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Content, Localization, and SDRs |
-| [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Associate](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | Digital, Operations |
-| [Robert Rosu](https://gitlab.com/RobRosu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Data |
-| [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Content, Campaigns |
-| [Evan Mathis](https://gitlab.com/emathis) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | Conversion & Retention |
+| [Amy Waller](https://gitlab.com/amy.waller) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
+| [Beth Peterson](https://gitlab.com/bethpeterson) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
+| [Nikki Roth](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Gillian Murphy](https://gitlab.com/gillmurphy) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Jenny Tiemann](https://gitlab.com/jennyt) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Salina Tran](https://gitlab.com/stran5 | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Associate](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
+| [Robert Rosu](https://gitlab.com/RobRosu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
+| [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
+| [Evan Mathis](https://gitlab.com/emathis) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
 
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 
@@ -341,6 +343,34 @@ The communication plan applies to tools like Zoominfo and Outreach and is create
 | Monthly Zoominfo/Outreach License Gsheet Update | [GSheet](https://docs.google.com/spreadsheets/d/1jiWuht9gm2GHYpFX24609Ko4K8EEqxp-WI88y2yO2MI/edit#gid=1723653236) | Zoominfo/Outreach owner will update the License Gsheet on a monthly basis. Sales leadership will have access to the GSheet. | Rob Rosu / Gillian Murphy |
 | 5 Licenses Remaining Notification (Zoominfo/Outreach) | In #sdrleadership_mktgops slack channel | When we’re down to 5 Zoominfo/Outreach licenses remaining, a notification will be sent to sales leadership via the #sdrleadership_mktgops slack channel. | Rob Rosu / Gillian Murphy |
 | Quarterly Sales Reps Hiring Plan Update | [SSOT SDR SFDC Hierarchy of Roles](https://docs.google.com/spreadsheets/d/1egLt1RfVNRcGckYkgtkOwdcOqDjdsfcJCsrRiwzxPLY/edit#gid=0) | Sales leadership will update the Sales Rep Hiring plan on a quarterly basis. | Ramona Elliott | 
+
+### Working with Sales Systems for New Fields and/or Permission Set Updates
+
+The MktgOps team frequently works with the [Sales Systems team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sales-systems-charter) to deploy new/updated fields and permission sets. See the below information regarding the process for working with Sales Systems for these changes and SLAs we adhere to.
+
+Video: [Marketing Salesforce.com Sandbox Training](https://www.youtube.com/watch?v=tTaepVgxoe8)
+
+If a field needs to be created in Marketo AND SFDC, you must create in SFDC first and add it to the Marketo User Permission set. **Use [documentation for Marketo](https://developers.marketo.com/rest-api/lead-database/fields/field-types/) for field types. For updating a permission set only, see step 1.B. 
+
+| **Steps** | **Owner** | **SLAs** |
+|----------------------------------------------- | ------------- | ------------- | 	
+| 1.A Create the new field builds within the marketing sandbox and create the changeset. Document SLA for testing/approving in sandbox.<br><br>1.B **OR to update permission set only**, identity this within the [systems issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) and add note to add to Marketo Permission set. This is a separate part of the process that will bypass prompting to change set steps below and Systems will have a 72 hour SLA to complete. Once done, confirm field in Marketo. Suggest a weight 1 in the issue comment and tag David Brown, Jack Brennan, and Sheela Viswanathan. David to flag the issue in the prior Slack channel.| MktgOps | - 72-hour SLA to deploy permission set updates<br><br>- 1-week SLA to deploy new/updated fields |
+| 2. Create a [systems issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) explaining the context of the field builds/changes and to promote changeset. Add notes above about pagelayout, etc. Add note to add to Marketo Permission set (Systems does not promote  permission sets in their change sets and will take place after Salesforce field is created).<br><br>Suggest a weight 1 in the issue comment and tag David Brown, Jack Brennan, and Sheela Viswanathan. David to flag the issue in the prior Slack channel. | MktgOps |    |
+| 3. Promote the change set in the marketing sandbox to staging | Sales Systems |  |
+| 4. Push the change set to staging sandbox first & then push the same to Production Sandbox | Sales Systems |		|	
+| 5. Systems team member will deploy the change set in production assuming no errors/challenges within sandbox. | Sales Systems |		|	
+| 6. Update the issue & close out | Sales Systems |	|
+| 7.  Once done, confirm the field in Marketo/Salesforce| MktgOps |	|
+
+**SLAs when working with Sales Systems:**
+
+- 72-hours to deploy permission set updates once Sales System issue is created
+- 1-week to deploy new/updated field once Sales System issue is created (assuming cut and dry request)
+
+**Other helpful links:**
+
+- [Steps to getting help from Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#steps-to-getting-help-from-sales-systems)
+- [Sales Systems Charter](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sales-systems-charter)
 
 ## <i class="fas fa-receipt" id="biz-tech-icons"></i> Marketing Expense Tracking
 

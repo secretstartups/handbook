@@ -458,6 +458,9 @@ We use external forms (added by External URL or Custom HTML generated from Marke
     - With no custom URL: `https://learn.gitlab.com/c/gcn-dev-sec-ops-how-?x=XOIXTl&lb_email=` (`x=XOIXTl` = content track ID)
     - With custom URL: `https://learn.gitlab.com/cicd/cloud-ci-tools-matur?lb_email={{lead.Email Address}}`
 
+**Hiding Top Navigation When Adding Pages from the Marketing Site to a Track**
+1. Add `?menu=hide` to the end of the asset's source URL. For example, `https://about.gitlab.com/blog/2021/04/28/devops-platform-supply-chain-attacks/?menu=hide`
+
 *Note: for simplicity in tracking, we strongly urge you to use a custom URL slug on all tracks. [Video regarding custom URL slugs](https://www.youtube.com/watch?v=VHgR33cNeJg)
 
 ## Custom Query Strings

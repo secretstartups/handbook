@@ -369,6 +369,16 @@ Complete list of priority countries as seen [here](https://docs.google.com/sprea
 
 </details>
 
+<details>
+<summary markdown='span'>
+[Sales Territories](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1026A1)
+</summary>
+
+- Currently available for US Public Sector only
+- List of available segments can be found in [this doc](https://docs.google.com/spreadsheets/d/1UAD3JKqe5y-NJBPB5CbjmN5Wq1OObzh_vsLqbuGk9dk/edit#gid=0)
+
+</details>
+
 ### Other Field Documentation and Definitions
 
 <details>
