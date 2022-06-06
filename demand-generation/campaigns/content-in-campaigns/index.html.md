@@ -53,7 +53,7 @@ Filter by one or multiple of the following:
 * **Key metric to analyze: Engagement Time**
    - *"Why not total views?"* Engagement time is a better indicator of content effectiveness than views, which can be a self-fulfilling prophesy; the more views, the more it is used, the more it continues to climb in comparison to other content. 
 
-## Internal Content (i.e. eBooks, Guides)
+## Internally-Created Content (i.e. eBooks, Guides)
 {: #internal-content .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 The below process should be used for all new content (ebooks, guides, whitepapers, etc.). Creating the epic and related issues is the responsibility of the **Content Owner** (i.e. Content Marketing, Analyst Relations) to make sure that when the content is ready, the teams involved in putting into Pathfactory (MOps) and the teams involved in activating (Campaigns, Digital, ABM) are able to take action immediately.
@@ -66,8 +66,8 @@ The below process should be used for all new content (ebooks, guides, whitepaper
 
 If you have any questions on this process, please contact `@jgragnola` in the [#marketing-campaigns](https://gitlab.slack.com/archives/CCWUCP4MS) Slack channel. This process has been iterated since 2018 for efficiency and to fit all teams' project management practices, and is meant to continually updated as needed!
 
-1. **Internal Content Epics:** Content Owner (usually `Content Marketing` or `Product Marketing` creates epic (using code below) and associates to campaign epic
-1. **Related Issues:** Content Owner (usually `Content Marketing` or `Product Marketing` creates the issues as designated in the epic code, and associates to the content epic
+1. **Internally-Created Content Epics:** `Campaign Manager` aligned to the integrated campaign creates epic (using code below) and associates to campaign epic
+1. **Related Issues:** `Campaign Manager` aligned to the integrated campaign creates the issues as designated in the epic code, and associates to the content epic
 
 :calendar: As a guide in developing timeline, please view the **[workback timeline calculator](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)*
 
@@ -81,7 +81,8 @@ If you have any questions on this process, please contact `@jgragnola` in the [#
 ## Pathfactory link: (add when live)
 
 #### :key: Key Details
-* **Content Owner:**  
+* **Content Owner:** 
+* **Campaign Manager:**
 * **Official Content Name:** 
 * **Official Content Type:** 
 * **Primary Campaign:** 
@@ -132,7 +133,7 @@ If you have any questions on this process, please contact `@jgragnola` in the [#
 /label ~"Content Marketing" ~"Gated Content" ~"mktg-demandgen" ~"dg-campaigns" ~"mktg-status::wip"
 ```
 
-## External Content (i.e. Analyst Relations)
+## Externally-Created Content (i.e. Analyst Relations)
 {: #external-content .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 External content can be sourced from Analyst Relations, partners, and other vendors with whom we work. Some examples would be vendor comparisons (i.e. Gartner/Forrester) or industry/market analyses (i.e. DevOps Institute).
