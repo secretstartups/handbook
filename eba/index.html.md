@@ -19,7 +19,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Alexa Schrauth (Sr. EBA) supporting Michael McBride (CRO) on an interim basis
 * Jeanette McCarthy (Sr. EBA) supporting Ashley Kramer (CMSO) 
 * Cindy King (Sr. EBA) supporting Brian Robins (CFO) 
-* Stephanie Kusmirek (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) 
+* Stephanie Kusmirek (Sr. EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition), Sherida McMullan (VP, Diversity, Inclusion and Belonging) 
 * Kristie Thomas (Staff EBA) supporting Sid Sijbrandij (CEO) & Stella Treas (Chief of Staff)
 * Marisa Carlson (Sr. EBA) supporting Eric Johnson (CTO), and Johnathan Hunt (VP of Security)
 * Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO)
