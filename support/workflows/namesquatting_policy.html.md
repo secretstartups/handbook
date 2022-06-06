@@ -56,7 +56,7 @@ If after one week there has been no response, apply the [`Support::SaaS::Name Sq
 
 After two weeks, the ticket will be **automatically marked as open and an email sent to the assigned engineer**.
 
-If the namespace owner makes no response, follow the [Request successful](#request-successful) steps.
+If the namespace owner has made no response, follow the [Request successful](#request-successful) steps.
 
 ### Request successful
 
