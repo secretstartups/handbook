@@ -79,6 +79,21 @@ is a sub-value of Results.
    having a hard time finding them. Please do not let this deter you from
    asking for help any time you need it.
 
+### How to Use GitLab.com to Formally Request Help from the GitLab Ops Development Team
+
+Starting from June 16th the Support Team and the `Ops Section` of the Development Group are running a pilot project. See [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4276) for details of the pilot. The aim is to provide a formal and accountable workflow process for Support Engineers to request assistance from the [Ops Section](https://about.gitlab.com/handbook/product/categories/ops/) for any technical issues which they are currently unable to progress.
+
+The steps for submitting a help request are as follows:
+
+1. Go to the [Section Ops Request for Help Repository](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help)
+1. In the [ReadMe](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/-/blob/main/README.md) (displayed on the project page):
+   1. Read the [Support Engineer User Guidance](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help#support-engineer-user-guidance) section and follow the steps outlined.
+   2. Read the [Development groups and their corresponding templates](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help#development-groups-with-their-corresponding-templates-and-labels) section and use the Handbook links provided if you are unsure as to which `Ops` Section Sub Group and corresponding template you should use.
+1. Submit a new issue to the project using the template you've identified.
+   - The issue will be automatically assigned to the relevant developers for triaging
+1. If you encounter any problems, such as obtaining a timely response from development, then please make the Engineering Manager and [John Lyttle](https://gitlab.com/jlyttle) aware. You can identify the relevant Engineering Manager by checking the Development Group Handbook Page from the [list of Ops Section handbook links](https://gitlab.com/gitlab-com/section-ops-request-for-help#development-groups-with-their-corresponding-templates-and-labels).
+
+
 ### Quick Links and Resources
 - [Needs Collaboration view](https://gitlab.zendesk.com/agent/filters/360080204660) in ZenDesk.
 - Create a Support [pairing session issue](https://gitlab.com/gitlab-com/support/support-pairing).
