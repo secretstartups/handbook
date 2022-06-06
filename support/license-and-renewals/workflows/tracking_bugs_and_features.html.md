@@ -35,9 +35,13 @@ When a bug is resolved or a feature has been implemented, you can:
 
 The workflow for submitting a new bug or feature request is as follows.
 
-1. Search the [Fulfillment Issues](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues) project and check if there is an existing matching issue.
+1. Search [Fulfillment Meta](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues) and [GitLab.org Fulfillment Section](https://gitlab.com/gitlab-org/gitlab/-/issues/?state=opened&label_name%5B%5D=section%3A%3Afulfillment) and check if there is an existing matching issue.
 1. If there is an existing issue, then add a link to the Zendesk ticket or internal issue so that we can continue track the impact of the issue, also ensure to include any relevant information which will help with prioritisation. 
-1. If there is no pre-existing issue then create a new request by clicking on the following [Issue Link](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new?issue&issuable_template=intake) and completing all of the relevant fields.
+1. If there is no pre-existing issue then:
+   1. For a new bug, open an issue in the relevant project using the following templates: 
+      1. [customers.gitlab.com (including /Admin)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/new?issue&issuable_template=Bug)
+      1. [GitLab product issues](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issue&issuable_template=Bug)
+   1. For a new feature or tooling request, create a new [Fulfillment meta intake request](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new?issue&issuable_template=intake) and complete all of the relevant fields. A Fulfillment PM will review the request and, if accepted for work, move the request to the relevant team and trackers. 
 1. For general guidance on adding comments and required labels for issues, please see the [Working with issues workflow](../../workflows/working-with-issues.html#adding-comments-on-existing-issues).
 1. Add the appropriate label to the issue
    - If the issue has been identified by support add the label "Support Efficiency"
