@@ -1305,7 +1305,7 @@ At times, Field Marketers may want to create a SPIF (sales performance incentive
 - [Events at GitLab](/handbook/marketing/events/)
 - [Marketing Operations](/handbook/marketing/marketing-operations/)
 - [Sales Development](/handbook/marketing/revenue-marketing/sdr/)
-- [3rd party Marketo Agency](/handbook/marketing/demand-generation/campaigns/agency-verticurl/)
+- [3rd party Marketo Agency](/handbook/marketing/lifecycle-marketing/agency-verticurl/)
 - [Field Marketing onboarding videos](https://drive.google.com/open?id=1m8ReMIiymMTqqk5PJAG7u_IG-Q5pkusV) - NOTE - these are also in the Field Marketing Onboarding issue that is kept in the [Marketing onboarding project](https://gitlab.com/gitlab-com/marketing/onboarding#onboarding)
 
 # Account Based Marketing
