@@ -15,7 +15,7 @@ description: "Solutions Architects (SA) are the trusted advisors to GitLab prosp
 
 To drive our customers' success through technical and business consultation. 
 
-While using technical and domain-specific expertise, Solutions Architects strive to become trusted advisors to our prospects, customers, and partners. Solutions Architects have the following primary objectives:
+While using technical and domain-specific expertise, Solutions Architects strive to become [trusted advisors](/handbook/customer-success/solutions-architects/#trusted-advisors) to our prospects, customers, and partners. Solutions Architects have the following primary objectives:
 
 - Gain a deep technical understanding of our customers biggest challenges, the impacts they have on their business, and collaborate as a strategic partner when determining the most effective solutions
 
@@ -61,6 +61,18 @@ See the [Solutions Architect role description](/job-families/sales/solutions-arc
 - [SA Manager Process](/handbook/customer-success/solutions-architects/sa-manager/)
 
 The Field and Alliance/Channels SA Management (referred as SA management going forward) around the globe collaborates around unique requirements, identifies improvements in the go-to-market approaches and focussed on prioritises on strategies to address the market's requirements. The SA management is aligned in the interest of technical matters to address exisiting needs raised by customers and priotise on innovative requirements. The SA management will collaborate with product teams to achieve required outcomes.  
+
+## Trusted Advisors
+
+Being a Trusted Advisor is referencing a role/skill that a person takes on when working with customers to solve their business problem.
+
+> **Building Trust (Trusted Advisor)**:  
+> Connects with key stakeholders on both a personal and professional level and shows up as a credible and reliable champion for customers. Effectively positions GitLab as a partner to the customer rather than just another vendor with a focus on following through on commitments and delivering results.
+>
+> --<cite> [Solution Focus Field Competency](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/#solution-focus)
+
+For more information and development see the "Trusted Advisor Skill Development", [Community of Practice](https://about.gitlab.com/handbook/customer-success/initiatives/communities-of-practice.html#active-communities-of-practice)
+
 
 ## Changing the Solutions Architects Handbook Content
 
