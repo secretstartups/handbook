@@ -70,9 +70,15 @@ After your access request as been approved, team members should follow these ste
 
 ### FAQs:
    
-- **How many exams can I take?**
-- Every license and unique registration code include 2 free exams. Depending on license rotation between team members, you may get a license without any exams. This is more likely to occur in Q3 and Q4 as the year comes to an end. Additional exams can be purchased using your Growth and Development beenfit for a 25% off discount. 
+**How many exams can I take?**
+
+Every license and unique registration code include 2 free exams. Depending on license rotation between team members, you may get a license without any exams. This is more likely to occur in Q3 and Q4 as the year comes to an end. Additional exams can be purchased using your Growth and Development beenfit for a 25% off discount. 
 
         
-- **I'm not sure if I did something wrong but how do I actually access the courses? I signed up with my GitLab email address, used the redemption code - But when I go to view the catalog all the courses still show the full amount and the certification code only works for the exam itself and not the course.**
-- Please send an email to `mcampbell@linuxfoundation.org` with your name and email address, cc'd `jallen@gitlab.com` for the email. This should not be the case but Linux can have a look at their ID and make sure their access was triggered properly.
+**I'm not sure if I did something wrong but how do I actually access the courses? I signed up with my GitLab email address, used the redemption code - But when I go to view the catalog all the courses still show the full amount and the certification code only works for the exam itself and not the course.**
+
+Please send an email to `mcampbell@linuxfoundation.org` with your name and email address, cc'd `jallen@gitlab.com` for the email. This should not be the case but Linux can have a look at their ID and make sure their access was triggered properly.
+
+**Can I get both a company O'Reilly and Linux Foundation License?**
+
+Due to limited licenses, we ask that team members use one license at a time from either O'Reilly or Linux Foundation. If team members are intereted in both, the L&D team can work with them to develop a plan to rotate licenses over a series of quarters to ensure team members have time to access courses in both platforms.
