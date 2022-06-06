@@ -162,14 +162,14 @@ Our dashboards are owned and managed by the Marketing Strategy and Performance t
 {: #cicd}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Campaign Manager DRI: TBD (Backfill for Jenny)**
+**Campaign Manager DRI: Shari Rances**
 
-**Launched: 2020-04-27 and continually optimized**
+**Launch date: 2022-06-30**
 
-* [Campaign Brief](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#memo-campaign-brief)
-* [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#busts_in_silhouette-campaign-core-team)
-* [Current/Planned Content and Events](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#fy23-new-planned-content-events)
-* [Epic in GitLab](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850)
+* [Campaign Brief](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2790#memo-campaign-brief)
+* [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2790#busts_in_silhouette-campaign-core-team)
+* [Current/Planned Content and Events](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2790#new-planned-content-planned-events)
+* [Epic in GitLab](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2790)
 
 ## Active Integrated Campaigns
 {: #active-integrated-campaigns .gitlab-purple}
@@ -181,7 +181,7 @@ The below global integrated campaigns are continally optimized by the Marketing 
 {: #cicd}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Campaign Manager DRI: TBD (Backfill for Jenny)**
+**Campaign Manager DRI : Eirini Pan (interim until Jenny T backfill hired)**
 
 **Launched: 2020-04-27 and continually optimized**
 
@@ -224,7 +224,7 @@ The below global integrated campaigns are continally optimized by the Marketing 
 {: #devsecops-use-case}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Campaign Manager DRI: Agnes Oetama**
+**Campaign Manager DRI: Shari Rances**
 
 **Launched: 2020-04-29 and continually optimized**
 
@@ -452,6 +452,7 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 * **Plan:** Campaign Manager creates project plan (workback) with timelines and DRIs
 * **Plan:** Campaign Manager creates the epic and related issues, including the due dates and DRIs from project plan
 * **Meeting:** Campaign Manager organizes the core team connect call to cover milestones met and determine any blockers/at-risk action items
+* **Meeting (optional):** Campaign manager seeks budget from VP of Product Marketing if we need to engage external agencies to help build out additional content/design assets for the campaign 
 * **Async:** *DRIs are responsible for delivering by their due dates, with timeline adherence being critical due to dependencies for later tasks to be completed by other teams*
 * **Reporting:** Campaign Manager organizes reporting issue with clear DRI to include overall metrics and more detailed drill-in by channel (one month post-launch)
 * **Optimization:** Campaign Manager creates issues for optimizing the landing page, channels, etc. and assigning to relevant DRIs
