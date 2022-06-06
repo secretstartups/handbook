@@ -319,7 +319,7 @@ An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/
 ### Remove from Intelligent Nurture
 {: #remove-intelligent-nurture}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Please follow the process outlined in the [Emails/Nurture Handbook](/handbook/marketing/demand-generation/campaigns/emails-nurture).
+Please follow the process outlined in the [Emails/Nurture Handbook](/handbook/marketing/lifecycle-marketing/emails-nurture).
 
 ### Remove from Pathfactory
 {: #remove-pathfactory}
