@@ -27,15 +27,15 @@ and for [specific instructions on how to do an appropriate level of investigatio
 #### Triage, record, and unblock failures
 
 - The Saturday before the new rotation begins, the handover bot will create an issue in the [pipeline-triage](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/) project.
-- The handover bot also assigns the triage issue created to the Primary and Secondary DRIs for the upcoming week, according to the schedule below.
+- The handover bot also assigns the triage issue created to the DRIs for the upcoming week, according to the schedule below.
 - During the scheduled dates, the support tasks related to the test runs become the Directly Responsible Individual's ([DRI]'s) highest priority.
 - Reporting and analyzing the End to End test failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines takes priority over [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines), [GitLab FOSS `master`](https://gitlab.com/gitlab-org/gitlab-foss/pipelines),and [Nightly](https://gitlab.com/gitlab-org/quality/nightly/pipelines). Note this also takes priority over fixing tests.
-- If there is a time constraint, the DRI should report and analyze the failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines just enough to determine if it is an application or an infrastructure problem, and [escalate as appropriate](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html). All the reported failures in those pipelines should be treated as ~priority::1/~severity::1 until it's determined that they're not. That means they should be investigated ASAP, ideally within 2 hours of the report. If the DRI will not be able to do so, they should delegate any investigation they're unable to complete to the Secondary. If the Secondary is not available or will also not be able to complete the investigations, solicit help in the #quality slack channel.
+- If there is a time constraint, the DRI should report and analyze the failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines just enough to determine if it is an application or an infrastructure problem, and [escalate as appropriate](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html). All the reported failures in those pipelines should be treated as ~priority::1/~severity::1 until it's determined that they're not. That means they should be investigated ASAP, ideally within 2 hours of the report. If the DRI will not be able to do so, they should delegate any investigation they're unable to complete to the DRI from the following week. If neither DRI is available or will be able to complete the investigations, solicit help in the #quality slack channel.
 - Consider [blocking the release by creating an incident](https://about.gitlab.com/handbook/engineering/releases/#i-found-a-regression-in-the-qa-issue-what-do-i-do-next) if new ~severity::1 regressions are found in non-reliable/smoke specs.
-- It is important that all other failure investigations are completed in a timely manner, ideally within 24 hours of the report. If the DRI is unable to investigate all the reported failures on [all the pipelines](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines) on time, they should delegate the remaining work to the Secondary. If the Secondary is not available, solicit help in the #quality slack channel.
+- It is important that all other failure investigations are completed in a timely manner, ideally within 24 hours of the report. If the DRI is unable to investigate all the reported failures on [all the pipelines](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines) on time, they should solicit help in the #quality slack channel.
 - Cross-cutting issues such as https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/530 are triaged by the on call DRI to determine the next action. Other team-members should notify the DRI if they come across such an issue. The DRI can inform the rest of the department via the #quality channel, if necessary.
 - Everyone in the Quality department should support the on-call DRI and be available to jump on a zoom call or offer help if needed.
-- Every day the APAC/EMEA/AMER Primary DRI summarizes the failures found for that day in the triage issue like [this](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/45#note_408358615). This serves as an asynchronous handoff to the DRI in the other timezone.
+- Every day the APAC/EMEA/AMER DRI summarizes the failures found for that day in the triage issue like [this](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/45#note_408358615). This serves as an asynchronous handoff to the DRI in the other timezone.
 - The DRI can make use of the [dri gem](https://gitlab.com/gitlab-org/quality/dri) to automate reporting handoff and surface useful triage information, such as newly created failures or feature flags enabled by environment.
 - Be aware that failing reliable and smoke specs in staging/canary will block the deployer pipeline and may be treated as production incidents.
 
@@ -76,23 +76,23 @@ July 2022 - October 2022
 | 2022-10-17     | Carlo Catimbang    | Alex Lyubenkov   | Chloe Liu         |
 | 2022-10-24     | Erick Banks (AMER) | Nailia Iskhakova | Sean Gregory      |
 
-### Responsibilities of the DRI and Secondary for scheduled pipelines
+### Responsibilities of the DRI for scheduled pipelines
 
 - The DRI does the [triage](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#steps-for-debugging-qa-pipeline-test-failures) and they let the counterpart SET know of the failure.
 - The DRI makes the call whether to fix or quarantine the test.
 - The DRI reviews any [automated quarantine MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name[]=QA&search=%5BQUARANTINE%5D) and [automated dequarantine MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name[]=QA&search=%5BDEQUARANTINE%5D) and decides whether to merge or close.
-- The fix/quarantine MR should be reviewed by either the Secondary or the counterpart SET (based on whoever is available). If both of them are not available immediately, then any other SET can review the MR. In any case, both the Secondary and the counterpart SET are always CC-ed in all communications.
+- The fix/quarantine MR should be reviewed by the counterpart SET. If the counterpart SET is not available immediately or if there is no counterpart SET, then any other SET can review the MR. In any case, the counterpart SET is always CC-ed in all communications.
 - The DRI should periodically take a look at [the list of unassigned quarantined issues](https://gitlab.com/gitlab-org/gitlab/issues?state=opened&label_name%5B%5D=QA&label_name[]=type::bug) and work on them.
-- If the DRI is not available during their scheduled dates (for more than 2 days), they can swap their schedule with another team member. If the DRI's unavailability during schedule is less than 2 days, the Secondary can help with the tasks.
+- If the DRI is not available during their scheduled dates (for more than 2 days), they can swap their schedule with another team member. If the DRI's unavailability during schedule is less than 2 days, the DRI in the same timezone the following week can cover.
 
-### Responsibilities of the DRI and Secondary for deployment pipelines
+### Responsibilities of the DRI for deployment pipelines
 
 - The DRI helps the delivery team debug test failures that are affecting the release process.
-- The Secondary fills in when the DRI is not available.
+- The DRI in the same timezone for the following week fills in when the DRI is not available.
 
 ### New hire on-call shadowing
 
-To help a new hire prepare for their first on-call rotation, they should spend a few days during their first rotation as Secondary DRI shadowing the Primary DRI. When the new hire is Primary DRI the following week, their Secondary DRI should pair with the new hire for a couple of days to answer questions and help triage/debug test failures.
+To help a new hire prepare for their first on-call rotation, they should spend a few days before their first rotation shadowing the DRI. When the new hire is DRI, the DRI from the following week should pair with the new hire for a couple of days to answer questions and help triage/debug test failures.
 
 ## Quality Department incident management on-call rotation
 
