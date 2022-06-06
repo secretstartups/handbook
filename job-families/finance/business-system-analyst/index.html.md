@@ -17,7 +17,7 @@ The Business Systems job family at GitLab is in charge of designing, delivering,
 
 ### Requirements
 
-* 3-5 years experience in an administrative role
+* 3-5 years experience in a systems administrative role or business function
 * Excellent written and spoken communication
 * The ability to absorb abstract and complex problems and then communicate these problems clearly and concisely to others
 * Patience, kindness and empathy
@@ -54,7 +54,7 @@ The Business System Analyst is a [grade 6](/handbook/total-rewards/compensation/
 * Develop business requirements, write the business case, define business logic, create optimization and monitoring strategies and work with the implementation teams to communicate and develop solutions
 * Work with cross-functional business teams to facilitate alignment around project issues and define best practice business processes
 * Assist with Business Process Mapping and gap analysis, project scoping, planning, and scheduling
-* Be a communication focal point providing coordination for IT/Business Systems projects
+* Be a communication focal point providing coordination for IT/Enterprise Applications projects
 * Understand system capabilities and business requirements, and drive standard & scalable solutions. Anticipate risks and mitigating them before they become serious.
 * Identify opportunities to increase efficiency and productivity within the context of the overall business strategy
 * Document work using the GitLab’s standards, methods and tools
@@ -74,7 +74,7 @@ The Business System Analyst is a [grade 6](/handbook/total-rewards/compensation/
 ### Nice to have
 
 * Be able to write basic - medium complexity SQL queries
-* Familiarity with customer lifecycle tools and how they integrate: Marketo, Zuora, Salesforce, Zendesk
+* Familiarity with customer lifecycle tools and how they integrate: Marketo, Zuora, Salesforce, Zendesk, NetSuite, Coupa
 * A love of open source
 * Experience with SaaS products
 * Experience using GitLab/Git
@@ -101,9 +101,44 @@ All the responsibilities of a Business Systems Analyst, plus:
 All the requirements of a Business Systems Analyst, plus:
 
 * Proven track record of improving operational efficiency
-* 10 years experience, demonstrating consistent advancement or development, with at least half in related roles
+* 4 -7  years experience, demonstrating consistent advancement or development, with at least half in related roles
 * Over three years in a high-growth technology company, working hands on with our tech stack at our stage in operational maturity
 * Ability and desire to grow and coach less tenured team-members
+
+
+### Director of Business Process Automation
+
+#### Job Grade
+
+The Director of Business Process Automation is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+All the responsibilities of a Business Systems Analyst at previous levels, plus:
+
+* Develop trusted advisor partnerships with leaders in the key business areas of Finance, Product, Sales, and HR including Chief Accounting Officer, VP Controller, Sr Director of Revenue, Sr Director of Product Monetization, Sr Director of Sales Operations, Director of Sales Systems
+* Partner with business and technology teams to evaluate and prioritize projects, determine efficiency gains, and sequence delivery
+* Work cross-functionally with business stakeholders to define business projects that gain process efficiencies across multiple processes (i.e. Reduce close time, reduce clicks in the quote to order process, drive automation in order to invoice, etc)
+* Own the delivery of key projects and programs that help the broader business drive efficiencies
+* Measure and manage the output of your team’s work
+* Identify and drive improvements to processes and policies across business processes 
+* Set the vision, hire, build, coach, and manage a highly productive team; set priorities and goals for the team. 
+* Be a culture definer and evolver of GitLab Values
+
+
+#### Requirements
+All the requirements of a Business Systems Analyst at previous levels, plus:
+
+* Proven track record of improving operational efficiency
+* Expert at influencing business stakeholders, with proven success serving as a trusted advisor
+* Demonstrated ability to excel in a fast-paced environment
+* Demonstrated ability to bring frameworks and processes to ambiguity 
+* Team player with exceptional work ethic
+* Intellectual curiosity with rigorous attention to detail and passion for problem-solving
+* 10 years experience, demonstrating consistent advancement or development, with at least half in related roles
+* Over three years in a high-growth technology company, working hands-on with our tech stack at our stage in operational maturity
+* Ability and desire to grow and coach less tenured team-members
+
+
 
 ## Performance Indicators (PI)
 
@@ -111,9 +146,6 @@ All the requirements of a Business Systems Analyst, plus:
 *  [Average Issues](/handbook/business-ops/metrics/#average-issues)
 *  [Average Merge Requests](/handbook/business-ops/metrics/#average-merge-request)
 
-## Career Ladder
-
-The next step in the Business Systems job family is a management role which is not yet defined at GitLab
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
