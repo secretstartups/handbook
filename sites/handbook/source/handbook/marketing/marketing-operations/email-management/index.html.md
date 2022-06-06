@@ -14,7 +14,7 @@ description: "Email database management is a core responsibility for MktgOps. En
 
 Email database management is a core responsibility for MktgOps. Ensuring GitLab is following email best practices, in compliance with Global spam laws and overall health of active database are all priorities.
 
-Email creation and email nurture programs are managed by the Campaigns Team. To learn more about GitLab email communication or request an email, please see the [Emails/Nurture Handbook](/handbook/marketing/demand-generation/campaigns/emails-nurture/) in the demand generation section of the handbook.
+Email creation and email nurture programs are managed by the Campaigns Team. To learn more about GitLab email communication or request an email, please see the [Emails/Nurture Handbook](/handbook/marketing/lifecycle-marketing/emails-nurture/) in the demand generation section of the handbook.
 
 All emails sent should be updated in the [FY23 All-Marketing SSOT Calendar](/handbook/marketing/#marketing-calendar-inputs)
 
@@ -69,7 +69,7 @@ These are transactional emails, almost always to our user base, that provide ver
 It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned or notified, so we are communicating to a very specific focused list. The email platform the send will come from will be determined by a few different factors, but mainly list size. If you need to request an email like this, use this the `incident_communications` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) and reference [this section](/handbook/marketing/marketing-operations/#pagerduty-and-emergency-comms).
 
 **Newsletter**
-The newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/demand-generation/campaigns/emails-nurture/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
+The newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/lifecycle-marketing/emails-nurture/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
 
 **Security Releases**
 Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.
