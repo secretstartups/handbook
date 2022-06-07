@@ -21,5 +21,8 @@ When we first approached the idea of a simple VPN for those times that our emplo
 #### Do I have to use Nordlayer?
 The use of Nordlayer is optional for Team Members. However it is recommended for Team Members that often work on guest networks in a public setting. That could be at a coworking location, an airport, a coffee shop or on a guest network at a customers office. Some members may already have sourced their own VPN solution for these scenarios and we would recommend that they move to Nordlayer when convenient.
 
-If you have any questions related to Nordlayer or would like to request a license, please reach out in the #it_compliance_security_help Slack channel.
+If you have any questions related to Nordlayer please reach out in the #it_compliance_security_help Slack channel.
+
+#### How Do I Request a License?
+Please open an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and add the label ~"IT Security::Needs Review". 
 
