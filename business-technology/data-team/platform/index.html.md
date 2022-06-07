@@ -346,25 +346,18 @@ You can set this to your default by running the following:
 ### Compute Resources
 
 Compute resources in Snowflake are known as "warehouses".
-To better track and monitor our credit consumption, we have created several warehouses depending on who is accessing the warehouse.
-The names of the warehouse are appended with their size (`analyst_xs` for extra small)
+To use our credit consumption effectively, we try to minimize the amount of warehouses. For development purposes (executing dbt jobs locally, running MR pipelines and querying in Snowflake) we use the `dev_x` warehouse. The names of the warehouse are appended with their size (`dev_xs` for extra small).
 
 | warehouse            | purpose                                                                                         | max query (minutes) |
 | -------------------- | ----------------------------------------------------------------------------------------------- | ------------------- |
 | `admin`              | This is for permission bot and other admin tasks                                                | 10                  |
-| `airflow_testing_l`  | For testing Airflow locally                                                                     | 30                  |
-| `analyst_*`          | These are for Data Analysts to use when querying the database or modeling data                  | 30                  |
 | `datasiren`          | This is used for the Data siren proces                                                          | 30                  |
 | `dev_x`              | This is used for development purposes, to be used when using the Snowflake UI and in CI-pipelines | 120               |
-| `engineer_*`         | These are for Data Engineers and the Manager to use when querying the database or modeling data | 30                  |
 | `fivetran_warehouse` | This is exclusively for Fivetran to use                                                         | 30                  |
 | `gainsight_xs`       | This is used for gainsight data pump                                                            | 30                  |
 | `gitlab_postgres`    | This is for extraction jobs that pull from GitLab internal Postgres databases                   | 10                  |
 | `grafana`            | This is exclusively for Grafana to use                                                          | 60                  |
 | `loading`            | This is for our Extract and Load jobs                                                           | 60                  |
-| `merge_request_xs`   | These are scoped to GitLab CI for dbt jobs within a merge request                               | 60                  |
-| `merge_request_l`    | These are scoped to GitLab CI for dbt jobs within a merge request                               | 240                 |
-| `merge_request_xl`   | These are scoped to GitLab CI for dbt jobs within a merge request                               | 120                 |
 | `reporting`          | This is for the BI tool for querying. Note that Sisense enforces a 4 minute timeout.            | 30                  |
 | `stitch`             | This is exclusively for Stitch to use                                                           | 30                  |
 | `target_snowflake`   | This is for the Meltano team to test their Snowflake loader                                     | 5                   |
@@ -375,7 +368,13 @@ The names of the warehouse are appended with their size (`analyst_xs` for extra 
 | `transforming_4xl`   | These are for production dbt jobs                                                               | 60                  |
 | `usage_ping`         | This is used for the service_ping and service_ping_backfill load.                               | 120                 |
 
-If you're running into query time limits please check your query for optimisation. A bad performing query in development will result in a bad performing query in production, having impact on a daily basis.
+If you're running into query time limits please check your query for optimisation. A bad performing query in development will result in a bad performing query in production, having impact on a daily basis. Please **always** use the right (size) warehouse. Ground rules of using/selecting a warehouse:
+
+- Warehouses are set as t-shirt sizes. Larger warehouses are more costly for GitLab
+- Consider using a running warehouse
+   - If you resume a paused warehouse, there is a initial start cost
+   - Every warehouse suspends after a set period, but when idle (time between query result and the suspend time), we still consume snowflake credits
+   - In general we don't spend more money if we run concurrent queries.
 
 #### Warehouse Reporting size change
 
