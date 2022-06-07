@@ -392,9 +392,11 @@ _Please note, Get Together expenses that are submitted outside of these months w
   1. Team members can plan, pay for, and expense a Get Together in an eligible month (Feb, May, Aug, and Nov) for an activity or expense that allows them to get together with another team member later in that quarter.
 1. Once you participate in a Get Together with another team member, share your experience and few pictures for a chance to be featured in social by submitting [this form](https://forms.gle/Z3CLPFAQGcAbwzN26). 
 
-**Group Get Togethers**
+*Group Get Togethers*
 
 In areas where many GitLab team members live, stay tuned in Slack and on this page for planned events where we'll invite all GitLab team members in that area to join together in person. For team members who participate in Group Get Togethers, individual Get Togethers live or remote will not be available in the month the Group Get Together takes place.  
+
+For more questions about Get Together Grants, please review the [FAQ](https://docs.google.com/document/d/1gt67EQKBoumA3ihTLecwjI4Haen9UImbFMumqKKegL4/edit).
 
 ### Visiting Grant
 
