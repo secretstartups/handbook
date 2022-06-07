@@ -70,7 +70,6 @@ Fullstack Engineering Managers have the following job-family performance indicat
 * [Regular Performance Indicators](/handbook/engineering/development/performance-indicators/#regular-performance-indicators)
   * [Development Department MR Rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
   * [New Hire Average Location Factor](/handbook/engineering/development/performance-indicators/#development-department-new-hire-average-location-factor)
-  * [Development Department MR Rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
   * [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
   * [Open To Merge](/handbook/engineering/development/performance-indicators/#open-to-merge)
   * [Overall MRs By Type](/handbook/engineering/development/performance-indicators/#overall-mrs-by-type)
