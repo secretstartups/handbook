@@ -18,19 +18,19 @@ description: "The FACE is a cross-functional group of functional analytics teams
 {: .alert .alert-success}
 
 ## Context
-The [central data team](https://about.gitlab.com/handbook/business-technology/data-team/) serves as the hub for all of our [“spoke” functional analytical teams](https://about.gitlab.com/handbook/business-technology/data-team/#how-data-works-at-gitlab); however, we have an opportunity to establish spokes between the spokes. Enter: the creation of the functional analytics center of excellence (FACE).
+The [central data team](/handbook/business-technology/data-team/) serves as the hub for all of our [“spoke” functional analytical teams](/handbook/business-technology/data-team/#how-data-works-at-gitlab); however, we have an opportunity to establish spokes between the spokes. Enter: the creation of the functional analytics center of excellence (FACE).
 
 ## FACE Teams: what functional analytics teams are participating?
 
 |  **Team Name** | **Lead(s)** | 
 | :--------------- | :----------------- |
-| [Product Analytics](https://about.gitlab.com/handbook/product/product-analysis/) | Carolyn Braza 
-| [Business Analytics & Insights](https://about.gitlab.com/handbook/business-technology/data-team/analytics-and-insights/) | Sindhu Tatimatla 
-| Marketing Analytics | Jerome Ahye 
-| [Self-Service & Online Sales](https://about.gitlab.com/handbook/sales/self-service/) | Alex Martin 
-| [Sales Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) | Melia Vilain & Noel Figuera 
-| Customer Success Analytics | Michael Arntz 
-| Digital Experience | Dennis Charukulvanich  
+| [Product Data Insights](/handbook/product/product-analysis/) | Carolyn Braza |
+| [Business Analytics & Insights](/handbook/business-technology/data-team/analytics-and-insights/) | Sindhu Tatimatla |
+| Marketing Analytics | Jerome Ahye |
+| [Self-Service & Online Sales](/handbook/sales/self-service/) | Alex Martin |
+| [Sales Analytics](/handbook/sales/field-operations/sales-strategy/) | Melia Vilain & Noel Figuera |
+| Customer Success Analytics | Michael Arntz |
+| Digital Experience | Dennis Charukulvanich  |
 | People Analytics | Adrian Perez |
 | Central Data Team | Marcus Laanen |
 
@@ -63,7 +63,7 @@ The [central data team](https://about.gitlab.com/handbook/business-technology/da
 
 
 ## Resources and Projects
-- [Source of Truth Fields for Reporting](https://about.gitlab.com/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/): WIP reference page for analysts, the output of Q1FY23 FACE quarterly project
+- [Source of Truth Fields for Reporting](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/): WIP reference page for analysts, the output of Q1FY23 FACE quarterly project
 
 
 
