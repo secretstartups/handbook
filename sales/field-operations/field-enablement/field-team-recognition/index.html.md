@@ -48,7 +48,7 @@ The Quarterly Achiever's Chat recognizes Field team members who have excelled in
 Quarterly Achievers Chats span three quarters: Q1, Q2 and Q3 each year. We do not have Quarterly Achievers criteria/winners for Q4, as award/recognition efforts for Q4 are wrapped into Sales Kickoff (SKO) Awards.
 
 Key features of this call include: 
-1. 25-minute call
+1. 50-minute call
 1. Held within first month of new quarter
 1. CEO and CRO attendance required
 1. Not recorded 
