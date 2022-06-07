@@ -14,19 +14,12 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ## Upcoming Webinars
 
-We’d like to invite you to our free upcoming webinars during the month of May.
+We’d like to invite you to our free upcoming webinars during the month of June.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
 
 
 ### June 2022
-
-### GitLab Administration on SaaS
-#### June 7th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-Learn how to manage groups, projects, permissions, and more as you embark on your journey as an Owner in GitLab SaaS. In this session, you will learn what you can and cannot control and customize on the SaaS platform, and come out a SME in administration.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_3xY05EQVTGipHEBVAkqmMQ)
 
 ### Intro to GitLab
 #### June 9th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
