@@ -14,16 +14,21 @@ description: "This page highlights quarterly KPI results for the Global Deal Des
 
 ## Executive Summary 
 
-This page highlights Quarterly KPI results for the Deal Desk and Order Management team.  
+This section highlights the current health status of each KPI based on the results of the most recently completed fiscal quarter.
 
-| **KPI**                                                                                                                                                                                 | **Health** | **Status** |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|
-| [Deal Desk Case SLA](/handbook/sales/field-operations/sales-operations/deal-desk/#1-deal-desk--case-slas)                                                                               |            |            |
-| [Deal Desk Support Satisfaction](/handbook/sales/field-operations/sales-operations/deal-desk/#2-regional-support-satisfaction)                                                          |            |            |
-| [Q2C Efficiency Improvements](/handbook/sales/field-operations/sales-operations/deal-desk/#3-case-reduction-through-proactive-support---training-documentation-and-system-improvements) |            |            |
-| [Opportunity Approval SLA](/handbook/sales/field-operations/sales-operations/order-management/#1-standard-opportunity-approval-sla)                                                     |            |            |
-| [Opportunity Approval Accuracy](/handbook/sales/field-operations/sales-operations/order-management/#3-opportunity-approval-accuracy-and-efficiency)                                     |            |            |
-| [Regional Support Satisfaction](/handbook/sales/field-operations/sales-operations/order-management/#2-regional-support-satisfaction)                                                    |            |            |
+**Definitions:**
+- Green: KPI target met or exceeded
+- Yellow: KPI target not exceeded; KPI target missed by 10% or less
+- Red: KPI target not exceeded; KPI target missed by more than 10%   
+
+| **KPI**                                                                                                                                                                                 | **Current Health Status** |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| [Deal Desk Case SLA](/handbook/sales/field-operations/sales-operations/deal-desk/#1-deal-desk--case-slas)                                                                               |      Green      |
+| [Deal Desk Support Satisfaction](/handbook/sales/field-operations/sales-operations/deal-desk/#2-regional-support-satisfaction)                                                          |      Green      |
+| [Opportunity Approval SLA](/handbook/sales/field-operations/sales-operations/order-management/#1-standard-opportunity-approval-sla)                                                     |      Green      |
+| [Opportunity Approval Accuracy](/handbook/sales/field-operations/sales-operations/order-management/#3-opportunity-approval-accuracy-and-efficiency)                                     |      Green      |
+| [Regional Support Satisfaction](/handbook/sales/field-operations/sales-operations/order-management/#2-regional-support-satisfaction)                                                    |      Yellow       |
+
 
 ### Key Performance Indicators 
 
@@ -32,7 +37,7 @@ Order Management KPIs are outlined on the [Order Management handbook page](handb
 
 ### FY23 Results 
 
-#### Q1FY23 Results*
+#### Q1FY23 Results
 
 | **Deal Desk KPIs**                       | **Target** | **Actual (AVG)** | **Total Record Count** | 
 |------------------------------------------|------------|------------------|------------------|
@@ -53,7 +58,7 @@ Order Management KPIs are outlined on the [Order Management handbook page](handb
 | **Regional Support Satisfaction**                                |      92%     |      91.89%      | 34/37 positive responses |
 | Measured via [Q1FY23 CSAT Survey](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/220)                           |              |                  |  |
 
-*All results are global. For region-specific results, review the [Q1FY23 Global Deal Desk | Order Management KPI Results Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/229).
+*All results are global. For region-specific results, review the [Q1FY23 Global Deal Desk Order Management KPI Results Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/229).
 
 #### Q2FY23
 
