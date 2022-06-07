@@ -33,7 +33,7 @@ _GitLab encourages team members to use Nira to ensure good digital hygiene aroun
 
 ## Seeing more details about an item
 
-- _Once you login to Nira, you will see a list of all the documents, shared drives, and folders you won. If you'd like to see specific details about an individual item, take the steps below:_
+- _Once you login to Nira, you will see a list of all the documents, shared drives, and folders you own. If you'd like to see specific details about an individual item, take the steps below:_
 
 1. For any item you’d like more details about, click on the item **name**. 
 1. A panel will appear on the right side of the interface.
@@ -64,19 +64,16 @@ _GitLab encourages team members to use Nira to ensure good digital hygiene aroun
 
 
 
-## How to change many itesm at once
+## How to change many items at once
 
 - _Actions such as changing the link type, transferring ownership, removing a collaborator, and deleting an item can be taken on more than one item at once in bulk, see steps below:_
 
 1. To change many items at once, select more than one item or select all items by clicking the square to the left of the Name column.
 1. Four bulk actions can be taken: change link type, transfer ownership, remove collaborator, and delete.
 
-<div style="text-align:center;">
-  <img src="/handbook/source/handbook/business-technology/it-compliance/tools/images/change_multiple.png" alt="Change Multiple" width="500"/>
-</div>
-<br>
+![image.png](./image.png)
 
-1. A confirmation dialogue will display upon clicking any of the actions. The dialogue enables you to change settings and confirm the action you will be taking.
+3. A confirmation dialogue will display upon clicking any of the actions. The dialogue enables you to change settings and confirm the action you will be taking.
 
 
 
@@ -123,10 +120,7 @@ _GitLab encourages team members to use Nira to ensure good digital hygiene aroun
     1. If you want to search for multiple keywords at once, type the keyword and hit submit.
     1. If you want to search for titles with multiple keywords in them, add the word AND in capital letters between the keywords. For example, Agreement AND Confidential.
 
-<div style="text-align:center;">
-  <img src="/handbook/source/handbook/business-technology/it-compliance/tools/images/find_documents.png" alt="Find Documents width="500"/>
-</div>
-<br>
+![image-1.png](./image-1.png)
 
 
 ## How to delete old documents using Nira
@@ -170,10 +164,7 @@ _GitLab encourages team members to use Nira to ensure good digital hygiene aroun
 
 - _The “Protect access” area is where you can review all Google Workspace items you own and make changes to them as well as search and filter. Definitions of the various sections and filters are listed below:_
 
-<div style="text-align:center;">
-  <img src="/handbook/source/handbook/business-technology/it-compliance/tools/images/protect_access.png" alt="Protect Access" width="500"/>
-</div>
-<br>
+![image-2.png](./image-2.png)
 
 #### All items: 
 - Displays all the documents, folders, and shared drives you own.
@@ -196,19 +187,16 @@ _GitLab encourages team members to use Nira to ensure good digital hygiene aroun
 
 - _Filters in Nira allow you to adjust the criteria for displaying the items you see. Definitions of the filters are listed below:_
 
-<div style="text-align:center;">
-  <img src="/handbook/source/handbook/business-technology/it-compliance/tools/images/filter_areas.png" alt="Filter Areas" width="500"/>
-</div>
-<br>
+![image-3.png](./image-3.png)
 
 #### Shared with Internal:
 - This filter shows you which of your documents have been shared with internal employees.
 
 #### Shared with Outside:
-- This filter shows you which of your documents have been shared with a personal email account such as Gmail or Yahoo.
+- This filter shows you which of your documents have been shared with an outside domain such as a partner or vendor.
 
 #### Shared with Personal:
-- This filter shows you which of your documents have been shared with an outside domain.
+- This filter shows you which of your documents have been shared with a personal email account such as Gmail, Hotmail, Yahoo, and other free email providers.
 
 #### Link type:
 - This filter allows you to see which of your items have a Restricted, Company, Public, or Outside link.
