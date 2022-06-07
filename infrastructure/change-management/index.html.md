@@ -62,7 +62,7 @@ A new change should be declared if the change is retried on a later date.
 
 ## Change Criticalities
 
-`C1` and `C2` changes that are labeled `change::in-progress` will block deploys, feature flag changes, and potentially other operations.  Take particular care to have good time estimates for such operations, and ideally have points/controls where they can be safely stopped if they unexpectedly run unacceptably long.
+`C1` and `C2` change requests will automatically have the labels, `~blocks deploys` and `~blocks feature-flags` applied.  When these critical change requests are labeled `change::in-progress`, they will block deploys, feature flag changes, and potentially other operations.  Take particular care to have good time estimates for such operations, and ideally have points/controls where they can be safely stopped if they unexpectedly run unacceptably long.  Remove the `~blocks deploys` and/or `~blocks feature-flags` if the proposed change will not be negatively impacted by said operations.
 
 In particular for long running Rails console tasks, it *may* be acceptable to initiate them as a `C2` for approvals/awareness and then downgrade to a C3 while running.  However consider carefully the implications of long running code over multiple deployments and the risks of mismatched code/data storage over time; such a label downgrade should ideally have at least 2 sets of eyes (SREs/devs) assess the code being exercised for safety, and management approval is recommended for visibility.
 
@@ -134,7 +134,7 @@ These are changes with either no or very-low risk of negative impact, but where 
 #### Approval
 
 1. Add a Due Date to the issue.
-1. Ensure that the plan is reviewed by someone else in Reliabilty.
+1. Ensure that the plan is reviewed by someone else in Reliability.
 
 ### Criticality 4
 
@@ -163,7 +163,7 @@ UTC is the standard time zone used in talking about the scheduled time for all t
 
 When scheduling your change, keep the impact of the change in mind and consider the following questions:
 
-1. Are there other C1/C2 changes occuring around the same time?
+1. Are there other C1/C2 changes occurring around the same time?
 1. Does the change being conducted contain a planned failover or other high-risk component, where the risk to customers can be reduced by executing the change in a low-traffic period?
 1. As the DRI for the change, are you able to supervise the change, and communicate its status to the EOC, for an agreed upon period of time after the change?
 1. Is the change being conducted at a time conducive to recovering (i.e. rollback of the change) from any issues arising from the change?
@@ -281,7 +281,7 @@ quickly turned off, their use is encouraged whenever appropriate.
 However, as the company and the number of developers working with feature flags continues to grow, it becomes important to manage risk associated with
 these changes too. Developers follow the process defined in the [developers documentation for feature flags](https://docs.gitlab.com/ee/development/feature_flags/controls.html#rolling-out-changes).
 
-On any given day, dozens of feature flag changes may occur. Many of these are trivial, allowing low risk changes -- sometimes just changes to UI appearance -- to be tested. However, some feature flag changes can have a major impact on the operation of GitLab.com, negatively affecting our **service level agreements**. This in turn can have a financial and reputational risk for the company. Without clear communication between the application developers toggling features and the engineer-on-call (EOC), it can be difficult for the EOC to assess which feature flag toggles are high risk and which are not.
+On any given day, dozens of feature flag changes may occur. Many of these are trivial, allowing low risk changes -- sometimes just changes to UI appearance -- to be tested. However, some feature flag changes can have a major impact on the operation of GitLab.com, negatively affecting our **service level agreements**. This in turn can have a negative impact to the reputation and financial well being for the company. Without clear communication between the application developers toggling features and the engineer-on-call (EOC), it can be difficult for the EOC to assess which feature flag toggles are high risk and which are not.
 
 Additionally, during an incident investigation, knowing which high-risk features have recently been enabled, and documentation on how to assess their operation, is important.
 
