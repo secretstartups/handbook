@@ -88,7 +88,7 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 
 * [TD: Product Geolocation](/handbook/business-technology/data-team/data-catalog/product-geolocation/)
 * [TD: Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing/)
-* [TD: Service Data Inspector](handbook/source/handbook/business-technology/data-team/data-catalog/service-data-inspector/)
+* [TD: Service Data Inspector](handbook/business-technology/data-team/data-catalog/service-data-inspector/)
 
 ## Data Models and Processes
 
