@@ -24,3 +24,26 @@ Introductory text, logos, or whatever the group wants here
 
 ## Maple workflows and processes
 
+### Using the Maple Zoom Room
+
+If you use the Maple Zoom Room, please [start a huddle](https://slack.com/help/articles/4402059015315-Use-huddles-in-Slack) in Slack
+at the same time (don't forget to mute your microphone in Slack).
+
+This serves as a visual indicator in Slack so other team members know that an active call is in progress in the Maple Zoom Room without
+anyone sending a mass ping out, and it also encourages others to join the call.
+
+Once the call has ended in the Maple Zoom Room, don't forget to end the Slack huddle.
+
+![sgg-huddle](images/sgg-huddle.png)
+
+### Maple Hour
+
+The **Maple Hour** is a call where Maple team members can meet to discuss assigned tickets, work through 
+the FRT/NRT queues or to have a social call. These are very similar to a crush call in nature.
+
+These calls can be scheduled or requested as required - but everyone is welcome, regardless of global group
+or region.
+
+Scheduled Maple Hours:
+
+- APAC Maple Hour every Friday at 04:00 UTC
