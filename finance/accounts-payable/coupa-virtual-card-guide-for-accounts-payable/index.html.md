@@ -33,18 +33,22 @@ There are several different scenarios for Virtual Cards:
 **Scenario B** - AP will need to create a new Supplier Payment Account (SPA) type for the Supplier. See below steps to create the Virtual Card SPA.
 - Step 1. When the requisition arrives in the AP **To Do** queue, create a new Supplier Payment Account.
 
-![apvcard-image-1](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard1.png)
-<br>
-- Step 2. You will be prompted to enter your 2FA. 
-- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for #6 (last two fields) leave blank for Company set defaults.**
 
-![apvcard-image-4](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard4.png)
+![apvcard1](apvcard1.png)
 
 <br>
-- Step 4. Click **Create**. The new SPA request will then be routed to **Internal SPA Approval Group** for approval.
+
+- Step 2. You will be prompted to enter your 2FA. <br>
+- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for Step 6 (last two fields) leave blank for Company set defaults OR enter number of days for Virtual Card to be valid.**
+
+![apvcard4](apvcard4.png)
+
+<br>
+
+- Step 4. Click **Create**. The new SPA request will then be routed to **Internal SPA Approval Group** for approval. <br>
 - Step 5. After the new SPA status = Active, AP will edit the requisition to update the Supplier Name (in the **Cart Items** section) from **Virtual Card** to the **actual Supplier's Name**, which is listed in the Requested Virtual Card Supplier field.
 
-![apvcard-image-3](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard3.png)
+![apvcard3](apvcard3.png)
 <br>
 - Step 6. Approve the requisition.
 
@@ -70,9 +74,9 @@ AP will be tagged on the requisition requesting the permanent Virtual Card SPA s
 <br>   
 
 **Scenario C**: follow steps 1 - 2 as above **Scenario B**.
-- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for #7 (last two fields) leave blank for Company set defaults.**
+- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for Step 7 (last two fields) leave blank for Company set defaults OR enter number of days for Virtual Card to be valid.**
 
-![apvcard-image-5](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard5.png)
+![apvcard5](apvcard5.png)
 <br>
 
 <div class="panel panel-danger">
