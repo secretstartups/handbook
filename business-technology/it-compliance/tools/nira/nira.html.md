@@ -13,7 +13,7 @@ description: "What is Nira?"
 
 ## What is Nira?
 
-**"Our mission is to make collaboration safe and secure for everyone. The sheer volume of company information that's spread across countless cloud applpications makes it more challenging than ever to keep information safe and secure."** -- [Nira](https://nira.com/about/)
+**"Our mission is to make collaboration safe and secure for everyone. The sheer volume of company information that's spread across countless cloud applications makes it more challenging than ever to keep information safe and secure."** -- [Nira](https://nira.com/about/)
 
 _That's why the creators of Nira built this tool from the ground up to help businesses like ours protect company information from unauthorized access through complete visibility, management, and control._
 
@@ -28,7 +28,7 @@ _That's why the creators of Nira built this tool from the ground up to help busi
 
 ## How Secure is Nira?
 
-"We take the security of your data seriously. Nira has achieved its SOC 2 Type 2 certification and is audited annually. Security is our highest priority and is an integral part of how we operate." -- [Nira](https://nira.com/about/)
+"We take the security of your data seriously. Nira has also attained its International Organization for Standardization’s (ISO) 27001 certification. Nira has achieved its SOC 2 Type 2 certification and is audited annually. Security is our highest priority and is an integral part of how we operate." -- [Nira](https://nira.com/about/)
 
 
 ## Why Nira?
