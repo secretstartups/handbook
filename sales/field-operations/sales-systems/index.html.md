@@ -326,7 +326,7 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 1. Open an issue listing out all of the fields that we are investigating to deprecate. Be sure to include the field name, field API name and the object that the field is associated with in a table in the description of the issue.  Add the `technical debt` label to the issue.
 2. Alert the data team to the upcoming field deprecation by tagging them on the issue.
 3. Alert all relevant partner teams (Marketing Ops, Sales Ops, Finance Ops etc.) as needed
-4. Prepend `[DEPRECATE]` to the beginning of the field name. If the field name cannot accommodate a field name that long copy and paste the original name into the description, trim unnecessary characters from the name and try again. For this reason `[DELEETE]` is also acceptable to prepend to the field name. 
+4. Prepend `[DEPRECATE]` to the beginning of the field name. If the field name cannot accommodate a field name that long copy and paste the original name into the description, trim unnecessary characters from the name and try again. For this reason `[DELETE]` is also acceptable to prepend to the field name. 
 5. In Visual Studio Code, pull from master and perform a scan for each of the API names in the issue. If the field is used, investigate if the code can be updated as to not include this field. 
 6. If code is updated in the previous step prepare a merge request and relate it to the issue.
 7. If your sandbox is out of date, [work with the Systems team to refresh it](/handbook/sales/field-operations/sales-systems/#sandbox-refreshes) so that any recent edits are included in the next step.
