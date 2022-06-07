@@ -215,7 +215,7 @@ The below process applies to any existing customers with an active subscription 
 - On the date the reconciliation email is sent to the customer warning them of the planned QSR, an open Opportunity is created in Salesforce with the title: "[Account Name] - QSR - [Effective Date]"
   - Amount = Invoice Amount
   - Net ARR = Estimated Based on Invoice Amount
-  - Stage = 2-Scoping
+  - Stage = 6-Awaiting Signature
   - Close Date = Date of planned closure (7 days from opportunity creation)
 
 **Opportunity Closure:**
