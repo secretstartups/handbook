@@ -13,13 +13,13 @@ description: Software Compliance POV Scope and Acceptance
 
 ## Compliance POV Scope and Acceptance
 {:.no_toc}
-When the SA has confirmed with the prospect or the existng customer especially a businesses in a regulated industry for a Software Compliance solution, the scope of the POV will focus on securing the software supply chain and simplifying the compliance with common industry regulations while at the same time speeding the software velocity.
+When the SA has confirmed with the prospect or the existng customer especially businesses in the regulated industry for a Software Compliance solution, the scope of the POV will focus on securing the software supply chain and simplifying the compliance with common industry regulations while at the same time speeding the software velocity.
 
 The key capabilities to validate to the value are
-- Compliance framework
-- Required Pipeline
-- Compliance Dashboard
-- Compliance Workflow
+- Compliance Framework
+- Compliance Workflow Automation
+- Compliance Dashboard and Audit Event
+- Software Supply Chain Security
 
 ### Input to the POV
 
@@ -38,7 +38,7 @@ The key capabilities to validate to the value are
 
 It may overlap with some of the key acceptance in DevSecOps, but more focused on standard compliance and auditibility. 
 
-If this is the key scope for the POV, reach out to the strategic field team to review the top drivers and regulatory requirements or deadtime, and define the right scope and execution steps for the POV with the acceptance.
+If this is the key scope for the POV, reach out to the strategic field team to review the top drivers and regulatory requirements or deadline, and define the right scope and execution steps for the POV with the acceptance.
 
 ### Other POV Scope and Acceptance
 
