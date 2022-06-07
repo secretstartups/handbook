@@ -47,3 +47,4 @@ or region.
 Scheduled Maple Hours:
 
 - APAC Maple Hour every Friday at 04:00 UTC
+- AMER Maple Hour every Tuesday and Thursdays at 04:00 UTC
