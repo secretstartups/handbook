@@ -326,7 +326,7 @@ We encourage and support [diversity](/handbook/values/) and [frugality](/handboo
 
 The following is an *example* of a cumulative Referral Bonus:
 * Hire a referred Sales Development Representative: $1,500
-* Who self-identifies as Native American/Native: + $1,500
+* Who self-identifies as a member of a ["select underrepresented group"](/culture/inclusion/#examples-of-select-underrepresented-groups): + $1,500
 * Cumulative referral bonus to the referring team member: **$3,000**
 
 #### How to make a referral
