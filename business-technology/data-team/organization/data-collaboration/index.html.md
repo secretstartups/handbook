@@ -37,8 +37,8 @@ Of the [Data Team's Responsibilities](https://about.gitlab.com/handbook/business
 - Initial triage and traffic management of data issues
 - Evaluation and selection of new BI platforms
 - Future administration of Product Analytics platforms
-- Being a **_Center of Excellence_** for business intelligence and data vizualization
-- Create a catalog for data assets, improving the findability of data
+- Being a **_Center of Excellence_** for business intelligence and data visualization
+- Create a directory for data assets and resources for improving the findability of data
 
 Additionally, the Data Collaboration Team **supports** the following responsibilities:
 
@@ -74,16 +74,16 @@ Currently, analysts and knowledge workers in the company have a few options to a
 
 | Solution | Good for | Limitations | 
 | ------ | ------ | ----- |
-|[Sisense for Cloud Data Teams](https://about.gitlab.com/handbook/business-technology/data-team/platform/periscope/) | Heavy SQL users to create data vizualizations | Difficult to use for non-SQL users, limited filtering capabilities, no data modeling capabilities| 
-| [Google Data Studio](https://about.gitlab.com/handbook/business-technology/data-team/platform/#google-data-studio)| Integrations well with other Google products | Limited data modeling and data vizualisation capabilities, limited access to data | 
+|[Sisense for Cloud Data Teams](https://about.gitlab.com/handbook/business-technology/data-team/platform/periscope/) | Heavy SQL users to create data visualizations | Difficult to use for non-SQL users, limited filtering capabilities, no data modeling capabilities| 
+| [Google Data Studio](https://about.gitlab.com/handbook/business-technology/data-team/platform/#google-data-studio)| Integrations well with other Google products | Limited data modeling and data visualization capabilities, limited access to data | 
 | Google Sheets | Easy to use | Limited in how much data it can handle | 
 | Solutions specific to business functions, including Gainsight, Salesforce, Google Analytics, etc. | Solves for business function specific use cases | Can't solve for other use cases outside of its primary domain | 
 
-What is missing from all these solutions is a governed way to enable data analytics across the company. None of the platforms currently in use have robust granular access controls, robust data modeling and data governance capabilities, or world class data vizualisation capabilities. Furthermore, these platforms only enable a subset of out entire team member base to be proficient analyzing data. This impacts us in the following ways:
+What is missing from all these solutions is a governed way to enable data analytics across the company. None of the platforms currently in use have robust granular access controls, robust data modeling and data governance capabilities, or world class data visualization capabilities. Furthermore, these platforms only enable a subset of out entire team member base to be proficient analyzing data. This impacts us in the following ways:
 - Instead of democratizing data analytics, most data analytics work is put on specific team members who face an ever growing backlog of issues and risk becoming bottle necks. 
 - The lack of robust granular access controls results in increased overhead to enforce the principle of least privilige, like the need to create our [SAFE intermediate space](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/#what-is-safe-data) due to the lack of row and column level permissions.
 - The lack of robust data governance capabilities in the platforms we use for analytics purposes could result in different numbers being displayed for the same metrics.
-- The lack of world class data vizualisation options results in less useable dashboards, as many data vizualization [best practices](https://www.perceptualedge.com/articles/Whitepapers/Communicating_Numbers.pdf) can't always be implemented in our current toolset.
+- The lack of world class data visualization options results in less useable dashboards, as many data visualization [best practices](https://www.perceptualedge.com/articles/Whitepapers/Communicating_Numbers.pdf) can't always be implemented in our current toolset.
 
 
 ### Current State of Product Analytics
@@ -92,6 +92,20 @@ What is missing from all these solutions is a governed way to enable data analyt
 
 
 ### Future State of Business Intelligence
+
+**Vision**
+
+To be more successful in harnessing data analytics for better business insights, at least 50% of our survey respondents would like a platform that offers the following, all of which are not currently available in Sisense CDT:
+- More dashboarding / visualization choices 
+- Self-service capability (no coding required) 
+- More intuitiveness / easy to use
+- Faster performance / scalability
+- Better look and feel
+- Drag-and-drop data visualization
+
+The ability to build dashboards quickly based on curated, secured, centralized data models is foundational to our goal in growing data services across GitLab. These capabilities will allow us to serve more stakeholders and seamlessly manage our data processes, so that our reporting is consistent for many organizations within the company. Sisense CDT shines where the only needs are to quickly connect to one data source and build visualizations based on SQL queries, but this structure prevents us from being able to manage metrics and logic effectively or enable less technical users with access to the level of reporting that a BI platform can provide.   
+
+**Pilot Implementation**
 
 *Coming soon*
 
@@ -103,8 +117,8 @@ What is missing from all these solutions is a governed way to enable data analyt
 
 ## Useful Resources
 
-### Slack Channels
-
+### Slack Group Name & Channels
+- @datacollaborationtriage: Group name for tagging in Slack 
 - [#bt-data-collaboration](https://gitlab.slack.com/archives/C036ADU4EH3): Internal Data Collaboration Team
 - [#bt-data-new-bi-tool-evaluation](https://gitlab.slack.com/archives/C02S5SBRMR9): New BI Tool Evaluation
 - [#product-analytics-platform](https://gitlab.slack.com/archives/C022RCEPK9V) - New Product Analytics tools
