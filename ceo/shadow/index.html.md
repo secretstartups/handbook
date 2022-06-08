@@ -185,8 +185,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-07-11 | 2022-07-15 | AVAILABLE - REMOTE | [Tiffany Rea](https://gitlab.com/treagitlab) - SET Verify:Pipeline Authoring |
 | 2022-07-18 | 2022-07-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-07-25 | 2022-07-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-08-01 | 2022-08-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-08-08 | 2022-08-12 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Sr. Product Manager | AVAILABLE - REMOTE |
+| 2022-08-01 | 2022-08-05 | [Collette Short](https://gitlab.com/cshorty) | AVAILABLE - REMOTE |
+| 2022-08-08 | 2022-08-12 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Sr. Product Manager | [Collette Short](https://gitlab.com/cshorty) |
 | 2022-08-15 | 2022-08-19 | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Sr. Product Manager |
 | 2022-08-22 | 2022-08-26 | NO SHADOWS | NO SHADOWS |
 | 2022-08-29 | 2022-09-02 | NO SHADOWS | NO SHADOWS |
