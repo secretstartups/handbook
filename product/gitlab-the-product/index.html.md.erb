@@ -152,22 +152,33 @@ Deprecating and removing a feature needs to follow a specific process because it
 
 #### Definitions
 
+##### Deprecation
+
+- Feature not recommended for use.
+- Development restricted to Priority 1 / Severity 1 bug fixes.
+- Will be removed in a future major release.
+- Begins after a deprecation announcement outlining an end-of-support date.
+- Ends after the end-of-support date or removal date has passed.
+  
+##### End of Support
+
+- Feature usage strongly discouraged.
+- No support or fixes provided.
+- No longer tested internally.
+- Will be removed in a future major release.
+- Begins after an end-of-support date has passed.
+- Ends after all relevant code has been removed.
+
+##### Removal
+
+- Feature usage impossible.
+- Happens in a major release in line with our [semantic versioning policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning).
+- Begins after removal date has passed.
+
 ##### Breaking change
 
 - Change in one part of a software system that causes a disruption to a customer's workflows or tasks
 - Requires action from customer to ensure continuity of function
-
-##### Deprecation
-- Will be removed at a specified point in the future
-- Still available with new installations, works as is, but documentation mentions deprecated state
-- No longer receives new features and active development
-- Customer support is available but does not include proactive fixes or functionality enhancements
-- We provide fixes for critical bugs, security issues and regressions
-
-##### Removal
-
-- No longer available in the latest version of the product
-- No longer supported 
 
 #### Process for deprecating and removing a feature
 
