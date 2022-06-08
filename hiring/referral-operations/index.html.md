@@ -21,11 +21,15 @@ During the onboarding process, a People Experience Associate will complete the f
 1. Ensure that the current team member is eligible for a referral based upon the [requirements](/handbook/hiring/referral-process/#referral-bonus-eligibility).
 2. Review when the referral was submitted in Greenhouse
     * `Job` > `Application Review` > `Applied On YYYY-MMM-DD`
+    * Our current referral bonus amounts as of **2022-06-01** are listed [here](/handbook/incentives/#referral-bonuses).
     * If the referral was submitted **on or before 2020-04-09**, then the following referral amounts apply:
         * $1,000 base referral bonus for a new hire.
         * $500 supplemental referral bonus for a hire from a Location factor less than 0.65.
         * $1,000 supplemental referral bonus for a hire from an underrepresented group.
-    * If the referral was submitted **after 2020-04-10**, then refer to the bonus amounts listed [here](/handbook/incentives/#referral-bonuses).
+    * If the referral was submitted **after 2020-04-10** and **before 2022-06-01**, then refer to the bonus amounts would have been:
+        * $500 base referral bonus for a new hire.
+        * $1,000 supplemental referral bonus for a hire from a Location factor less than 0.65.
+        * $1,500 supplemental referral bonus for a hire from an underrepresented group. 
 3. Add a note in the new team member's BambooHR profile with the name of their referrer.
 4. Open the Current Team Members BHR profile
     * `Job` tab > `Bonus` table > `Add Bonus`
@@ -74,6 +78,8 @@ Per the current [Referral Submission Process](/handbook/hiring/referral-process/
 1. **Close** the Issue.
 
 #### How to Respond to Referral Update Requests
+
+Our Inbound Sourcing team runs point on responding to questions related to referrals in the #talent-acquisition slack channel and ensures that the referrer is credited as the source of a referred candidate.
 
 The Talent Acquisition Team uses the [GitLab Service Desk](/stages-devops-lifecycle/service-desk/) to track incoming emails to the `referral@gitlab` email. These emails will, in turn, show up as `Issues`.
 
