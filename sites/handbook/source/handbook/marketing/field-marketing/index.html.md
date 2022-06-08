@@ -730,16 +730,28 @@ Within two days of the FMM plan being [locked by Finance](/handbook/finance/fina
 If any dates change after the upload has happened the FMC will make the date update within the [marketing calendar](/handbook/marketing/#marketing-calendar). 
 
 ### Channel plans 
-By the 15th of the 3rd month of the quarter, the Director of Field Marketing will open a FMM issue outlining the Field Marketing led Channel campigns for the upcoming quarter. This is done using the Partner Drill in Report - which is found in the Allocadia Insights --> 2. Pipeline --> Partners Drill in (4th Tab).  The Director of Channel Marketing will be tagged for an FYI. 
-
-### Plans by GTM Motion 
-By the 15th of the 3rd month of the quarter, the Director of Field Marketing will open a FMM issue outlining the Field Marketing campigns that align per GTM Motion for the upcoming quarter. This is done using the Partner Drill in Report - which is found in the Allocadia Insights --> 2. Pipeline --> Quarterly Drill in Details ALL (3rd Tab).  The issues will then be associated with each GTMs epic and the issues will be shared in the various GTM motion Slack channels. 
+All plans with the various channel partners can be found within the [marketing calendar](/handbook/marketing/#marketing-calendar). 
 
 ### Asks into Digital Campaigns 
 Details on how Field Marketing shares quarterly plans with the Digital team can be [found here](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/). 
 
-### Asks into Portfolio Marketing 
-By the 15th of the 3rd month of the quarter, all asks for the Portfolio Marketing team for the upcoming quarter should be opened up for their review. Following their process outlined here. It's the responsibility of each FMM to ensure their asks are in by this time. The ~Field Marketing label must be added to the request in order for the PM team to review. We will use[this list](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues?label_name%5B%5D=Field+Marketing&label_name%5B%5D=sm_request&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93) to review. 
+### Asks into Product Marketing 
+By the 15th of the 3rd month of the quarter, all asks for the Portfolio Marketing team for the upcoming quarter should be opened up for their review. Following their process outlined here. It's the responsibility of each FMM to ensure their asks are in by this time. The ~Field Marketing label must be added to the request in order for the PM team to review. We will use [this list](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues?label_name%5B%5D=Field+Marketing&label_name%5B%5D=sm_request&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93) to review. 
+
+#### Asks into the Customer Reference team 
+After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Director of Market Strategy & Insights. The regional FMMs as well as the regional customer reference manager should also be invited to this meeting. During this meeting, the team will review asks into the [Customer reference team](/handbook/marketing/strategic-marketing/customer-reference-program/) and agree on asks for the quarter.  
+
+You will note in Allocadia in the details panel if you need a customer speaker. [Video walk through](https://youtu.be/VYwBXmpJrDg) (you must be logged into GitLab Unfiltered to view.)
+
+### Asks into BDR org 
+After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Regional Manager of BDR and Director, Sales Dev Operations. The regional FMMs as well as the regional managers should also be invited to this meeting. During this meeting, the team will review asks into the BDR org. Further details on this process can be [found here.](/handbook/marketing/revenue-marketing/sdr/#approvals-required) 
+
+You will note in Allocadia in the details panel if you need BDR support. [Video walk through](https://youtu.be/VYwBXmpJrDg) (you must be logged into GitLab Unfiltered to view.)
+
+### Asks into the SA org 
+After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Regional Manager of SAs. The regional FMMs as well as the regional managers should also be invited to this meeting. During this meeting, the team will review asks into the SA org. 
+
+You will note in Allocadia in the details panel if you need SA support. [Video walk through](https://youtu.be/VYwBXmpJrDg) (you must be logged into GitLab Unfiltered to view.)
 
 # Field Marketing/Channel Marketing Engagement and GTM Strategy
 
