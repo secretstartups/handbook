@@ -19,13 +19,13 @@ Small and Medium Size Business Account Executives "SMB AE" act as Account Execut
 
 ### Reaching the SMB team (internally)
 
-##### General
+#### General
 
 - **Main SMB Channel** = [`#smb`](https://app.slack.com/client/T02592416/CH4KPGS87)
 - **Commercial Sales Group** = [`#commercial_global_all`](https://app.slack.com/client/T02592416/GG3M02L75)
 - **Main Sales Channel** = [`#sales`](https://app.slack.com/client/T02592416/C02NE5PQM)
 
-##### Team Channels
+#### Team Channels
 
 - **EMEA + APAC** = [`#international-smb`](https://app.slack.com/client/T02592416/CN84VB75H)
 - **AMER** = [`#smb-amer`](https://app.slack.com/client/T02592416/GN43QNUL9)
@@ -34,42 +34,31 @@ Small and Medium Size Business Account Executives "SMB AE" act as Account Execut
 - **Expand** = [`#smb-fye-ae`](https://gitlab.slack.com/archives/C03C8DYNGN5)
 - **Named** = [`#smb-named-ae`](https://gitlab.slack.com/archives/C031DRBRXEW)
 
-##### SMB Support
+#### SMB Support
 
 - **SMB Training Support** = [`#smb_training_support`](https://app.slack.com/client/T02592416/CKYLWKGJU)
 - **Sales Support** = [`#sales-support`](http://app.slack.com/client/T02592416/CNLBL40H4/thread/CKYLWKGJU)
 - **Questions** = [`#questions`](http://app.slack.com/client/T02592416/C0AR2KW4B)
 
-##### Closed deals
+#### Closed deals
 
 - **Celebrate Closed Deals** = [`#win-key-deals`](https://app.slack.com/client/T02592416/CGWPJQJ07)
 
 ### Onboarding
 
-The goal of [onboarding](/handbook/sales/commercial/enablement) in all of this is to ensure that you feel confident and comfortable to hit the ground running. Our hope is that along this journey you are not only gaining the tactical skills needed to complete your job, but that you form connections with colleagues, gain a strong understanding of the GitLab culture, and begin to develop industry knowledge.
-
-### Required 7
-
-All team members from Commercial Sales are expected to implement the [Required 7](/handbook/sales/commercial/#required-7) into their sales process. None of the 7 should be missing at any time. The Required 7 will help to stay on top of your territory, deliver what is promised to the prospect / customer and have quality meetings.
-
-### SMB Processes
-
-#### Territories and Account Owners
-
-Overview of the divided territories and owners for `SMB segment`. This territory page also shows Account owners for the other segments (`Mid Market` and `Strategic`)
-
-- [EMEA](/handbook/sales/territories/)
-- [AMER](/handbook/sales/territories/)
-- [APAC](/handbook/sales/territories/)
-- Follow the [rules of engagement (ROE)](/handbook/sales/commercial/#account-ownership-rules-of-engagement-for-commercial-sales) when an account is wrongly routed into your name
+The goal of [onboarding](/handbook/sales/commercial/enablement) in all of this is to ensure that you feel confident and comfortable to hit the ground running. Our hope is that along this journey you are not only gaining the tactical skills needed to complete your job, but that you form connections with colleagues, gain a strong understanding of the GitLab culture, and begin to develop industry knowledge. This section highlights some areas to consider. 
 
 #### Team Dashboards
 
 These Dasboards are used to keep track on team performance globally as well as per region.
 
-- [Global](https://gitlab.my.salesforce.com/01Z4M000000skkt)
-- [EMEA & APAC](https://gitlab.my.salesforce.com/01Z4M000000oWy)
-- [NORAM](https://gitlab.my.salesforce.com/01Z4M000000slTA)
+- [AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXCS)
+- [AMER East](https://gitlab.my.salesforce.com/01Z4M000000oYNK)
+- [AMER West](https://gitlab.my.salesforce.com/01Z4M000000oYLE)
+
+#### Required 7
+
+All team members from Commercial Sales are expected to implement the [Required 7](/handbook/sales/commercial/#required-7). None of the 7 should be missing at any time. The Required 7 will help to stay on top of your territory, deliver what is promised to the prospect / customer and have quality meetings.
 
 #### Call Preps
 
@@ -83,30 +72,34 @@ Though not mandatory, call preps are a great way to gain a different perspective
 
 One initiative as an SMB AE is to be connecting with as many current customers as possible to support them in finding ways to utilize more of GitLab. Every time you hold an initial call with a client to discuss entering into a sales cycle for either uptiering, or increasing user count please include "qual" or "qualification" into the subject line of your logged activity. We should also be submitting "qual" or "qualification during our first IQM (Initial Qualifying Meeting) with all prospects.
 
-#### True Ups
+#### True Ups and Reconciliation
 
-True-ups are conversations that often come to the table with customers during renewal conversations. It's important to get yourself familiar with the term, how true-ups work - and how the SMB team is handling true-up conversations:
+True-ups are conversations that often come to the table with customers during renewal conversations. It's important to get yourself familiar with the term, how true-ups work - and how the SMB team is handling true-up conversations.
 
 - [True Up Policy](/company/pricing/#true-up-pricing)
-- [What Causes True Ups?](/handbook/business-ops/business_systems/portal/troubleshooting/#user-counts-true-ups-add-ons-users-over-license)
 - [How To Find True Ups](https://about.gitlab.com/pricing/licensing-faq/#what-does-users-over-license-mean)
 - [Licensing and Subscription Troubleshooting](/handbook/support/license-and-renewals/workflows/license_troubleshooting.html#licensing)
-- If you still have questions about a specific true up case, please write in the [`#smb_training_support`](https://app.slack.com/client/T02592416/CKYLWKGJU) channel for further assistance
 
-### Solutions Architect & Technical Account Manager Rules of Engagement
+Additionally, [quarterly subscription reconciliations](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/quarterly_subscription_reconciliations.html) should also be understood related to customer billing.
 
-- Follow the [Commercial Sales standards](/handbook/customer-success/comm-sales/#additional-engagement-guidelines-for-sales) for engaging a Technical Account Manager or Solution Architect into the conversation with a customer or prospect.
-- If limited on resources, encourage clients to submit questions to the following communities:
-    - Community Forum: https://forum.gitlab.com/
-    - Reddit: https://www.reddit.com/r/gitlab/
+### Account Planning Lifecycle
 
-#### Renewals & Account Management (WIP)
+The GitLab usage phases are broken down into the following:
 
-For suggested email templates for a mid-term call along with renewal calls, reference the latest in the **SMB Email Templates** shared document.
+- Implementation: 12-9 months left
+- Adoption 9-6 months left
+- Expansion 6-3 months left
+- Renewal less than 3 months left
+
+Customer success planning should be broken into three categories based off the previous renewal or last transaction:
+
+- Flat: same tier, same or less users
+- Expanded: same tier, more users
+- Uptier: moving from Starter to Premium, Starter to Ultimate, Premium to Ultimate, or from Free to a paid tier. 
 
 ### Tools
 
-- [ZenDesk](/handbook/support/workflows/zendesk-overview.html) - Ticketing system
+- [ZenDesk](https://about.gitlab.com/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) - Ticketing system
 - [Version GitLab](https://version.gitlab.com/users/sign_in)- Customer Product Usage
 - [Outreach](/handbook/marketing/marketing-operations/outreach/) - Email Sequencing
 - Salesforce - Customer Relationship Management
@@ -122,7 +115,7 @@ For suggested email templates for a mid-term call along with renewal calls, refe
 
 #### Opportunity Consults
 
-Opportunity Consults are weekly meetings that promote continued learning. This meeting is open to all commercial teams and is more of a framework for any sales person to leverage. Come to the meeting with a specific opportunity and let your teammates help you get creative with your opportunities.
+[Opportunity Consults](https://about.gitlab.com/handbook/sales/commercial/#opportunity-consults-ocf-and-lightweight-deal-review-ldr-process) regulary are a part of top deal review meetings, 1:1s, or individual sessions. They are open to all commercial teams as a framework for any sales person to leverage. Get the most out of these sessions with specific examples and let your teammates help you get creative with your opportunities. An example structure is below. 
 
 **During the meeting Account Executive summarizes:**
 
@@ -139,14 +132,13 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 
 **Meeting etiquette**
 
-1. Be Respectful, though challenging
-1. Be confrontational, though constructive
+1. Be respectful
+1. Be constructive
 1. Be curious, and ask the question behind the question
-1. Be committed
+1. Be committed to challenge any gaps and bring solutions
 1. Everyone is encouraged to contribute
-1. Everyone must present
 
-#### Previous training sessions
+#### Previous training sessions and recommendations
 
 - [Closing in difficult times](https://docs.google.com/presentation/d/1K5i4WeyruXD3EUXUhHxVM8UDJjrtQyZyQ1zYDV0RSXQ/edit?usp=sharing) (video [here](https://youtu.be/IwacdXWe37k))
 - [Forecasting 101](https://docs.google.com/presentation/d/1r-J5Ya9DLtzxIkq0rqJou5c4vKBZkcL_y2zspEnAbaQ/edit?usp=sharing)
@@ -157,23 +149,18 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 - [Expanding webstore customers](https://docs.google.com/presentation/d/1xPCEV8XCEkN493Jfz6DtbKGTV_t72FdkRPZX-RZbEwI/edit?usp=sharing)
 - [Account management: starting the relationship](https://docs.google.com/presentation/d/1ZvxdJEZIH8Cr7U2R_rF9gGlh_CjzUHyAz69ljo3zhTg/edit?usp=sharing) (video [here](https://youtu.be/GbET3hZrajk))
 - [Upselling Premium & Ultimate](https://docs.google.com/presentation/d/1u93b2TC3NDXQI1Ej8wKFOacBbfzra4wAgz5A2q2Ny_A/edit?usp=sharing) (video [here](https://youtu.be/XcTi8lWWnnI))
-
-### Resources
-
+* [Our Pricing Model](https://about.gitlab.com/company/pricing/)
+* [Process for Agreement Terms Negotiations](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
 - [Recommended books for SMB team](https://docs.google.com/document/d/19KOw5A84uUvKLBI9zdspbGpP4t3OOqsQLLKj6eTBjFw/edit)
-- [International G-drive with recordings of team meetings / trainings](https://drive.google.com/drive/folders/0ADQKNz5y48VuUk9PVA)
+
+### Solutions Architect & Technical Account Manager Rules of Engagement
+
+- Follow the [Commercial Sales standards](/handbook/customer-success/comm-sales/#additional-engagement-guidelines-for-sales) for engaging a Technical Account Manager or Solution Architect into the conversation with a customer or prospect.
+- If limited on resources, encourage clients to submit questions to the following communities:
+    - Community Forum: https://forum.gitlab.com/
+    - Reddit: https://www.reddit.com/r/gitlab/
 
 ### Compensation
-
-- The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/) attainment. All [iACV](/handbook/sales/sales-term-glossary/arr-in-practice) goes toward the global _shared quota_ retirement.
-- The global SMB team is paid on [gross IACV](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/).
-- Because SMB AEs operate as individual contributors toward a shared quota, [collaboration](/handbook/values/#collaboration) is key. One teammate's success is everyone's success.
-
-#### [Payment Schedule](/handbook/finance/payroll/#pay-date):
-
-- AMER: [commissions](/handbook/sales/commissions/) based on prior month attainment are paid on the 2nd payroll cycle the following month.
-- EMEA & APAC: commission payout dates are specific to the country of residency.
-- you can find your adjusted payout statement and submit inquiries via [CaptivateIQ](https://www.captivateiq.com/).
 
 Any further questions related to SMB Compensation can be directed to the slack channel #total-rewards or your direct manager.
 
