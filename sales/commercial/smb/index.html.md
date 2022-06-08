@@ -99,17 +99,18 @@ Customer success planning should be broken into three categories based off the p
 
 ### Tools
 
-- [ZenDesk](https://about.gitlab.com/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) - Ticketing system
-- [Version GitLab](https://version.gitlab.com/users/sign_in)- Customer Product Usage
-- [Outreach](/handbook/marketing/marketing-operations/outreach/) - Email Sequencing
-- Salesforce - Customer Relationship Management
-- [LinkedIn Sales Navigator](https://docs.google.com/document/d/1UF69ieck4AdHadzgPmZ5X1GBs3085JhlYaMowLj0AOg/edit) - Social Selling
-- Xactly - Commission Calculator
+- [Bambu](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/social-advocacy-curators/#topics-in-bambu) - Used for [Social Advocacy](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/social-advocacy-curators/#what-is-social-advocacy)
+- [Chorus](/handbook/business-ops/tech-stack/#chorus) - Call/Demo Recording
 - [Clari](/handbook/sales/forecasting/) - Forecasting
 - [CustomersDot Admin](https://customers.gitlab.com/admin/) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
-- [Chorus](/handbook/business-ops/tech-stack/#chorus) - Call/Demo Recording
+- [LinkedIn Sales Navigator](https://docs.google.com/document/d/1UF69ieck4AdHadzgPmZ5X1GBs3085JhlYaMowLj0AOg/edit) - Social Selling
+- [Outreach](/handbook/marketing/marketing-operations/outreach/) - Email Sequencing
 - [Periscope](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) - Data Visualization
-- [Bambu](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/social-advocacy-curators/#topics-in-bambu) - Used for [Social Advocacy](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/social-advocacy-curators/#what-is-social-advocacy)
+- Salesforce - Customer Relationship Management
+- [Scratchpad](https://scratchpad.com/) - Editing tool for Salesforce
+- [Version GitLab](https://version.gitlab.com/users/sign_in)- Customer Product Usage
+- Xactly - Commission Calculator
+- [ZenDesk](https://about.gitlab.com/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) - Ticketing system
 
 ### Training & Resources
 
