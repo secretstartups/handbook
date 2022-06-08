@@ -81,7 +81,7 @@ is a sub-value of Results.
 
 ### How to Use GitLab.com to Formally Request Help from the GitLab Ops Development Team
 
-Starting from June 16th the Support Team and the `Ops Section` of the Development Group are running a pilot project. See [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4276) for details of the pilot. The aim is to provide a formal and accountable workflow process for Support Engineers to request assistance from the [Ops Section](https://about.gitlab.com/handbook/product/categories/ops/) for any technical issues which they are currently unable to progress.
+Starting from `2022-06-13` the Support Team and the `Ops Section` of the Development Group are running a pilot project. See [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4276) for details of the pilot. The aim is to provide a formal and accountable workflow process for Support Engineers to request assistance from the [Ops Section](https://about.gitlab.com/handbook/product/categories/ops/) for any technical issues which they are currently unable to progress. Please note that Slack may still be used for asking the Ops Development Group simple or brief questions, however issues are now the preferred approach if the question requires any research or collaboration involving this Development team.
 
 The steps for submitting a help request are as follows:
 
