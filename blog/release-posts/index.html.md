@@ -1613,7 +1613,7 @@ If the script fails to run or there are pipeline issues, you can run `bundle exe
 1. The [intro](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/uncategorized/source/releases/posts)
    is created by using the template under
    `doc/templates/blog/monthly_release_blog_template.html.md`. It replaces the
-   stub X.Y values with the version you provided in the first step.
+   stub X.Y values with the version you provided in the first step and adds the author name and handle.
 1. The data directory for the release is created under `data/release_posts/X_Y/`.
    If it exists, the script stops and exits. You'll need to delete this directory
    if you want to re-run the script.

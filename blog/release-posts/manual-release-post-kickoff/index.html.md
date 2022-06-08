@@ -12,6 +12,9 @@ If the automated pipeline fails, the manual steps below can be done either local
 1. On `release-X-Y` branch, create the blog post file, containing the introduction and the blog post frontmatter information:
    1. In `sites/uncategorized/source/releases/posts/` directory, add a new file called `YYYY-MM-22-gitlab-X-Y-released.html.md` by copying the
       [monthly release blog template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md).
+   1. Add the release number to `sites/uncategorized/source/releases/posts/YYYY-MM-22-gitlab-X-Y-release.html.md` on line 36 and make sure to remove the backticks.
+   1. Add your name as the author to `sites/uncategorized/source/releases/posts/YYYY-MM-22-gitlab-X-Y-release.html.md` on lines 3 and 4
+   1. Update the "which includes our `YY` release kickoff video" line replacing the `YY` (including removing the backticks) to reference the **next** release in `sites/uncategorized/source/releases/posts/YYYY-MM-22-gitlab-X-Y-release.html.md` on line 41
 1. On `release-X-Y` branch, create the release post data directory, to which features and other data will be added:
    1. Create a new directory `X_Y` in the `data/release_posts` directory.
    1. Copy [`data/release_posts/unreleased/samples/mvp.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/mvp.yml) into `data/release_posts/X_Y/mvp.yml`.
