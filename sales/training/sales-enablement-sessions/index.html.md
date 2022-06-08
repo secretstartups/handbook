@@ -23,9 +23,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Jun 9 | Alliance Technology Partner Ecosystem Enablement | Mike L.  |
-| Jun 16 | TBD | TBD  |
-| Jun 23 | TBD | TBD  |
+| Jun 16 | Cloud Licensing Update | Courtney M.  |
+| Jun 23 | Alliance Technology Partner Ecosystem Enablement | Mike L.  |
 | Jun 30 | Q2 FY23 Customer References Update | TBD  |
 | Jul 7 | TBD | TBD  |
 | Jul 14 | Storage and Transfer Data Limits Update | TBD  |
