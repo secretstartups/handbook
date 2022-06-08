@@ -47,3 +47,44 @@ The GitLab Professional Education Services team currently provides the following
 #### Related Project and Issues
 - [Professional Education Services Project Issues List](https://gitlab.com/gitlab-com/sales-team/professional-services/education-services/issues)
 - [EdCast LXP/Marketplace User Instructions](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/implementation/bootcamp/)
+
+
+### Tech Stack Guide - Thought Industries Learning Management System
+
+The Tech Stack single source of truth is the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and contains more detail about this app.
+
+<% data.tech_stack.each do |stack| %>
+<% if stack.title == "Thought Industries LMS" %>
+- **Description:** <%= stack.description %>
+- **Provisioner:** <%= stack.provisioner %>
+- **Deprovisioner:** <%= stack.deprovisioner %>
+- **Okta Enabled:** <%= stack.need_move_to_okta %>
+- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
+<% end %>
+<% end %>
+
+#### Implementation
+
+The LMS implementation is [organized into multiple phases](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/390#project-scope).
+
+#### System Diagram
+
+The Thought Industries LMS Implementation is a SaaS app and is not integrated with other GitLab systems.
+
+```mermaid
+graph TD
+GC[GitLab Customer] -->|user authentication| LMS[LMS]
+```
+
+#### Data Model
+
+The Data Model is not available and LMS is a closed system.
+
+#### Integrations
+
+The Thought Industries LMS Implementation is a stand-alone SaaS app and is not integrated with other GitLab apps.
+
+#### Key Reports / Dashboards
+
+All Dashboards and Reports are a part of LMS itself. No separate Sisense reports are available or planned.
+
