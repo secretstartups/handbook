@@ -62,14 +62,20 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. GitLab encourages team members to volunteer within their community to take care of others. Consider taking time in support of causes that matter to you and support your personal commitment to GitLab's values such as diversity, inclusion and belonging.
 1. GitLab also encourages you to use your leave for jury duty, bereavement leave, or other needs. You are not expected to work during this time off, but we recommend following the guidance under [Communicating Your Time Off](#communicating-your-time-off) when these situations arise.
 1. GitLab also encourages you to take time off to vote, volunteer at the polls or volunteer in your community.
-1. If you decide to work on a holiday and then take another day off in lieu of the actual holiday date, we ask that you choose Public Holiday as a PTO category, and in the section `What is this OOO for?` please clarify that this day is taken in lieu of the actual holiday date.
-
-   ![picture-of-pto-ninja-OOO-request](/handbook/paid-time-off/pto_ninja_OOO.png)
-
 1. It's important to take PTO while you have something you *want* to do, rather than waiting until you *need* the time off.
 1. Please note that we still **help** clients during official days off, unless they are official days off in both the Netherlands and the U.S. For any particular day, we try to always have people working from countries that aren't observing an official holiday. If you need to work during an official day off in your country, you should take a different day off in return.
 1. Please also remember to turn on your out of office message and include the contact details of a co-worker in case anything urgent or critical comes into your inbox while you're away. If you have to respond to an incident while on-call outside of your regular working hours, you should feel free to take off some time the following day to recover and be well-rested. If you feel pressured to _not_ take time off to rest, refer to this part of the handbook and explain that you had to handle an incident.
 1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `leaves@gitlab.com` with your specific request and the Absence Management Team will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-roots-events). Events can only be changed after the PTO by Roots event has completed itself.
+
+### Holidays
+1. In addition, we encourage all team members to take time off for holidays they observe. GitLab embraces asynchronous communications, so calls can be recorded and watched later. No one should ever be expected to attend calls on days they are not working or on official public holidays. For a listing of official holidays by country, follow these steps:
+    1. Go to the [timeanddate.com site](https://www.timeanddate.com/holidays/)
+    1. Select your country of residence
+    1. Change the dropdown from 'All holidays and national observances' to 'Official holidays' 
+
+2. If you decide to work on a holiday and then take another day off in lieu of the actual holiday date, we ask that you choose Public Holiday as a PTO category, and in the section `What is this OOO for?` please clarify that this day is taken in lieu of the actual holiday date.
+
+   ![picture-of-pto-ninja-OOO-request](/handbook/paid-time-off/pto_ninja_OOO.png)
 
 ### Communicating Your Time Off
 
@@ -191,9 +197,11 @@ Team members may request an unpaid leave of absence by working with their manage
 * At anytime during the unpaid leave the team member receives a payroll payment, they are to immediately notify their manager and Peopleops via email. Any funds paid in error are subject to repayment.
 * Once the team member has a confirmed return to work date, they should communicate that date in advance to their manager and to the team member relations team to reinstate pay.
 
-### Communicating with team members while they are on a leave of absence
+### Admin Steps:
+* Once an unpaid personal leave request has been approved, the Absence Management team will update Bamboohr and inform Payroll.  
+* Once the team member has a confirmed their return to work date, the Absence Management team will notify the team member's manager, update BambooHR (if applicable) and notify payroll, benefits and stock admin to reinstate benefits.
 
-For team members who are on paid or unpaid leave of absence like [parental leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#sts=Parental%20Leave), [short or long-term disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), or [other approved leaves](https://about.gitlab.com/handbook/paid-time-off/#unpaid-leave-of-absence) there is no expectation that work would be accomplished during this time. Team members should use their approved paid or unpaid leave as an opportunity to focus on their health and well being. For managers it is important that you do not reach out to team members and ask them to complete work while on an approved leave of absence. An occasional quick call for a simple question is acceptable but these should be infrequent and simple requests that can be answered during that conversation.
+For team members who are on paid or unpaid leave of absence like [parental leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), [short or long-term disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), or [other approved leaves](/handbook/paid-time-off/#unpaid-leave-of-absence) there is no expectation that work would be accomplished during this time. Team members should use their approved paid or unpaid leave as an opportunity to focus on their health and well being. For managers it is important that you do not reach out to team members and ask them to complete work while on an approved leave of absence. An occasional quick call for a simple question is acceptable but these should be infrequent and simple requests that can be answered during that conversation.
 
 We do understand that during extended periods of time off team members may still want to feel connected. We encourage team members at their discretion to maintain a social connection with their peers and team members. This is completely up to the team member on leave on how or if they want to remain connected while on leave of absence.
 
