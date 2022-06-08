@@ -16,6 +16,8 @@ description: Basic process on troubleshooting Service Desk within GitLab.com.
 
 Users can experience various issues while utilizing [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html). This guide walks through troubleshooting when an email does not generate a Service Desk issue.
 
+See also, the [Service Desk runbook doc](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/service_desk).
+
 ### Troubleshooting Steps
 
 1. When an issue related to Service Desk is received, reply with the [`Support::SaaS::Service Desk Issues First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Service%20Desk%20Issues%20First%20Response.yaml) Zendesk macro to rule out any known issues.
