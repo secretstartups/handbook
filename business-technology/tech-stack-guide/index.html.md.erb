@@ -51,50 +51,13 @@ List the integrations between this app and other tech stack apps or systems. Inc
 
 List the important reports and dashboards used to operate the application, including links where available.
 
-## Tech Stack Guide Example #1
+## Tech Stack Guide Example #1: [Thought Industries Learning Management System](/handbook/customer-success/professional-services-engineering/education-services/#tech-stack-guide---thought-industries-learning-management-system)
 
-### Thought Industries Learning Management System
+Important Notes:
+1. This Tech Stack Guide lives in the [GitLab Professional Education Services](/handbook/customer-success/professional-services-engineering/education-services) handbook because Professional Services are the business owners of the app
+2. The `handbook_link` key in the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) for Thought Industries Learning Management System references the Tech Stack Guide
 
-The Tech Stack single source of truth is the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and contains more detail about this app.
-
-<% data.tech_stack.each do |stack| %>
-<% if stack.title == "Thought Industries LMS" %>
-- **Description:** <%= stack.description %>
-- **Provisioner:** <%= stack.provisioner %>
-- **Deprovisioner:** <%= stack.deprovisioner %>
-- **Okta Enabled:** <%= stack.need_move_to_okta %>
-- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
-<% end %>
-<% end %>
-
-#### Implementation
-
-The LMS implementation is [organized into multiple phases](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/390#project-scope).
-
-#### System Diagram
-
-The Thought Industries LMS Implementation is a SaaS app and is not integrated with other GitLab systems.
-
-```mermaid
-graph TD
-GC[GitLab Customer] -->|user authentication| LMS[LMS]
-```
-
-#### Key Reports / Dashboards
-
-All Dashboards and Reports are a part of LMS itself. No separate Sisense reports are available or planned.
-
-#### Data Model
-
-The Data Model is not available and LMS is a closed system.
-
-#### Integrations
-
-The Thought Industries LMS Implementation is a stand-alone SaaS app and is not integrated with other GitLab apps.
-
-## Tech Stack Guide Example #2
-
-### Zuora Billing
+## Tech Stack Guide Example #2: Zuora Billing
 
 The Tech Stack single source of truth is the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and contains more detail about this app.
 
