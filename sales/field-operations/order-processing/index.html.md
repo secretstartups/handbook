@@ -1413,7 +1413,7 @@ Look for Task title: `Email: Your GitLab License File`
 
 #### My customer didn't receive the License File! Help!
 
-Check out our [License Troubleshooting page](/handbook/business-ops/business_systems/portal/troubleshooting)
+Check out our [License & Renewal Workflows page](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/)
 
 On this page you can find answers to some of the most common questions/errors:
 
