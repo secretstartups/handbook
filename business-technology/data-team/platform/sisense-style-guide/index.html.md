@@ -30,7 +30,16 @@ description: "SiSense Style Guide"
 
 ### Standard Color Pallete
 
-SiSense charts use the standard GitLab color pallete.
+SiSense charts use the standard GitLab color pallete. To confirm you're using the recommended color pallette, take the following steps: 
+1. Hover over a chart
+1. Click on the pencil (`Edit Chart`) icon
+1. On the right pane, confirm that the `Color Theme` is set to `Dashboard Theme (GitLab Theme)`
+1. If not, click on the theme to bring up a dropdown menu. Select a different theme if needed.
+1. If you made a change, click on the `Save` button on the top right of the screen. If you didn't make a change, click on the `Cancel` button instead.
+
+Scenarios where you might deviate from using the standard color pallette:
+- use colors for specific signal functions (e.g. green & red to denote positive or negative)
+- account for [color blindness](https://www.getfeedback.com/resources/ux/how-to-design-for-color-blindness/)
 
 ### Rounding
 
@@ -45,6 +54,8 @@ To round or not to round? Know your audience. Present numbers suitable for your 
 - At $10,000 and above, each `000` is replaced with a k; example $10k instead of $10,000.
 - At $1,000,000 and above, each `000,000` is replaced with a m; example $10m instead of $10,000,000.
 
+For any numeric values of a 1000 million or more, be mindful of international differences in the [definition of billion](https://pages.ucsd.edu/~dkjordan/cgi-bin/moreabout.pl?tyimuh=bignum).
+
 ### Data and Time 
 
 Fiscal Dates should be extracted from the DIM_DATE dimension table.
@@ -53,7 +64,7 @@ Date formats must adhere to the [GitLab Writing Style Guidelines](https://about.
 - Dates are yyyy-mm-dd
 - Time is presented as a 24 hour clock using UTC
 - Fiscal Quarter is Qn, example Q1
-- Fiscal Year is FYyy, example FY21
+- Fiscal Year is FYyy, example FY21. 2021 would denote the calendar year.
 - Fiscal Year and Quarter is FYyy-Qn, example FY21-Q2 
 
 ### Recorded and Calculated Data
