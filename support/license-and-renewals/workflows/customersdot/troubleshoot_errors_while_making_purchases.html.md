@@ -13,7 +13,7 @@ description: Troubleshooting guide on errors on CustomersDot
 
 ### Overview
 
-This guide for troubleshooting for error on [CustomersDot](https://customers.gitlab.com/customers/sign_in).
+This guide is for troubleshooting errors on [CustomersDot](https://customers.gitlab.com/customers/sign_in).
 
 ### Error about an address or credit card
 
