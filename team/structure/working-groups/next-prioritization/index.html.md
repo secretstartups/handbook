@@ -76,9 +76,13 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Setup monthly MR type reviews between engineering managers, sub-department leads, and engineering overall trends | June 2 | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
 | Refine stakeholder dashboard views, bug & maintenance backlog types | May 19 | Complete | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13321) | 
 | Reduce undefined MR types to less than 5% | June 2 | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
-| 100% of teams migrated to new process | 6/15 | In process (5% : 2 out of ~39) | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
-| Do a restrospective and close working group | 6/22 | Not started | Wayne Haber | TBD |
+| 100% of teams using the new processes | 7/4 | TBD | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
+| Do a restrospective and close working group | 7/11 | Not started | Wayne Haber | TBD |
 
+### Rollout
+
+* Jun 17 - all teams have reviewed (sync or async per team preference) the dashboard to discuss if the ratios are what they expect and if not think about potential actions to take
+* Jul 4 - DRIs have changed for maintenance to development engineering manager and for bugs to quality stable counterpart
 
 ### Roles and Responsibilities
 
