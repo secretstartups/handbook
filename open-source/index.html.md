@@ -19,6 +19,11 @@ The purpose of this page is to document how a GitLab employee can:
 - Contribute to a third-party open source project on behalf of GitLab
 - Use a third-party open source code in a GitLab's project
 
+## Growth Strategy
+
+As an open source project, we want to stay healthy and be open for growth, but also ready to accomodate a 10x factor of
+our community. In order to achieve that, we've [outlined a strategy](growth-strategy.html) that is a collaboration between multiple departments.
+
 ## General notes
 - [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95)
 - [PIAA](/handbook/people-group/contracts-probation-periods/#piaa-proprietary-information-and-assignment-agreement) 
