@@ -405,7 +405,35 @@ Here's an [example]([Fulfillment Demos](https://www.youtube.com/playlist?list=PL
 
 ### Quality
 
-GitLab's Quality is everyone's responsibility. The [SETs](/handbook/engineering/quality/#stable-counterparts) embedded within Fulfillment section follow the [Quality Engineering Departments's principles](https://about.gitlab.com/handbook/engineering/quality/#our-principles) primarily to ensure that everyone is aware of product quality.
+GitLab's Quality is everyone's responsibility. The [SETs](/handbook/engineering/quality/#stable-counterparts) embedded within Fulfillment section follow the [Quality Engineering Department's principles](https://about.gitlab.com/handbook/engineering/quality/#our-principles) primarily to ensure that everyone is aware of product quality.
+
+#### End-to-end tests - how, when and why to write them
+
+End-to-end tests (often referred to as e2e tests) cover full or partial flows that the end-user will go through. Detailed information on testing levels can be found [here](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html).
+
+Some examples of these flows:
+
+- Purchasing a SaaS subscription for a namespace on Gitlab.com.
+- Purchasing a new subscription for a self-managed Gitlab instance.
+
+Since these tests are not fast and more prone to being flaky, prioritization of what to cover with end-to-end tests and what to delegate to lower level tests must be considered.
+
+Fulfillment tests reside both in the [GitLab Project](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa/qa/specs/features/ee/browser_ui/11_fulfillment) and the [CustomersDot Project](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/main/qa), use the following guide to determine which project to use when writing the tests:
+
+- Choose CustomersDot if the test will require opening and performing actions in the CustomersDot portal, otherwise GitLab will be the correct project.
+- In the future, it is planned that CustomersDot will become just a backend service and UI end-to-end tests will reside only in GitLab.
+
+#### GitLab
+
+The GitLab end-to-end testing guide can be found [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/testing_guide/end_to_end/beginners_guide.md)
+
+Planned & automated Fulfillment test cases in the GitLab project can be found [here](https://gitlab.com/gitlab-org/gitlab/-/quality/test_cases?state=opened&sort=created_desc&page=1&label_name%5B%5D=devops%3A%3Afulfillment).
+
+#### CustomersDot
+
+The CustomersDot end-to-end beginners guide can be found [here](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/qa/doc/beginners_guide.md).
+
+Planned/automated test cases in the CustomersDot project can be found [here](https://gitlab.com/gitlab-org/customers-gitlab-com/-/quality/test_cases).
 
 ### Testing
 
