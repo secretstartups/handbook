@@ -38,7 +38,7 @@ The availability score for a service is then calculated as the percentage of tim
 
 For example, if service becomes unavailable for a 10 minute period, the availability score will be:
 
-* 99.90% for the week (1 430 minutes of availability out of 1 440 minutes in a week)
+* 99.90% for the week (10 070 minutes of availability out of 10 080 minutes in a week)
 * 99.97% for the month (43 190 minutes of availability out of 43 200 minutes in the month)
 
 Finally, the availability metric for GitLab.com is calculated as a weighted average availability over the following services ([weights](https://gitlab.com/gitlab-com/runbooks/blob/master/services/service-catalog.yml) in brackets):
