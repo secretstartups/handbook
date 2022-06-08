@@ -39,8 +39,8 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, sla
 |	Sales - Support	|		|	no dedicated channel	|		|		|		|		|
 |	Sales - Field Operations	|		|	no dedicated channel	|		|		|		|		|
 |	[Product](/handbook/product/)	|		|		|		|		|		|		|
-|	[Growth](/direction/growth/)	|	Hila, Sam	|	#s-growth-data	|		|		|	X (x-functional series)	|		|
-|	[Product Analysis](/handbook/product/product-analysis/)	|	Carolyn	|	#data	|		|		|	X (x-functional series)	|		|
+|	[Growth](/direction/growth/)	|	Sam	|	#s_growth_data	|		|		|	X (x-functional series)	|		|
+|	[Product Data Insights](/handbook/product/product-analysis/)	|	Carolyn	|	#data	|	X (Wed/Thurs)	|	X (Office Hours)	|	X (x-functional series)	|		|
 |	Engineering	|		|		|		|		|		|		|
 |	[Product Intelligence](/handbook/engineering/development/analytics/product-intelligence)	|	Amanda, Alina	|	#g_product_intelligence	|		|	X	|	X (x-functional series)	|		|
 |	[Engineering Analytics](/handbook/engineering/quality/engineering-analytics/)	|	Mek, Lily	|	#eng-data-kpi	|		|	X	|		|		|
@@ -64,3 +64,4 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, sla
 |	Data GTM Fusion	|	N/A	|	#data-gtm-projects	|	X (Tues)	|		|		|		|
 |	Data G&A Fusion	|	N/A	|	no dedicated channel	|		|		|		|		|
 |	Data Collaboration	|	Carolyn, Noel, Melia, Jerome, Lily	|	#bt-data-collaboration	|	X (Tues)	|		|		|		|
+|	[Functional Analytics Center of Excellence (FACE)](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/)	|	Alex, Sindhu, Jerome, Melia, Noel, Michael, Dennis, Adrian, Marcus, Carolyn	|	#functional_analytics_center_of_excellence	|		|	X (Thurs)	|		|		|
