@@ -89,24 +89,14 @@ You can find a read-out of Field Enablement team results by quarter – includin
 
 ## Handbook-First Approach to GitLab Learning and Development Materials
 
-Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (CEO)
-<!-- blank line -->
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/oXTZQpICxeE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-<!-- blank line -->
-
-### Key Discussion Points
-- Our [Mission](/company/mission/#mission) is that Everyone Can Contribute, and our most important value is [Results](/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our Learning Materials.
+- Our [Mission](/company/mission/#mission) is that Everyone Can Contribute, and our most important value is [Results](/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our learning materials.
 - We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/mission/#mission).
 - There are benefits to keeping our e-learning material [handbook-first](/handbook/handbook-usage/#why-handbook-first):
     - Folks who have already completed a formal training through an e-learning platform may want to return to the materials
     - Those who never go through the formal platform may also benefit from the materials
     - The handbook continues to be the SSOT, with the e-learning platform leveraging handbook materials through screenshots, embeds, and more
 
-Learn how Field Enablement takes a [Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/).
+Learn how the GitLab Corporate Learning & Development team takes a [Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/).
 
 ## Six Critical Questions
 
@@ -175,7 +165,7 @@ Knowledge x Practice = Capability
 <summary markdown="span">6. Who must do what?</summary>
 
 - **[Sr. Director, Field Enablement](/job-families/sales/director-of-field-enablement/#senior-director-field-enablement)**
-    - [David Somers](/company/team/#dcsomers)
+    - TBH
 - **[Manager, Field Enablement](/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
     - [Kelley Shirazi](/company/team/#kelley-shirazi) (Manager, Sales Enablement)
     - [Kris Reynolds](/company/team/#kreynolds1) (Sr. Manager, Customer Success Enablement)
