@@ -51,7 +51,7 @@ We will look at scheduling future dates pending the global COVID-19 situation. B
 1. A twentieth Family and Friends day was held on `2022-02-25`.
 1. A twenty-first Family and Friends day was held on `2022-03-25`.
 1. A twenty-second Family and Friends day was held on `2022-04-11`.
-1. A twenty-third Family and Friends day was held on '2022-05-27'. 
+1. A twenty-third Family and Friends day was held on `2022-05-27`. 
 
 ## FAQ about Family and Friends Day
 
