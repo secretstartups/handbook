@@ -17,6 +17,10 @@ to the instance in order to "extend" a trial.
 Requests for Grace period extensions, Temporary keys, Temporary extensions, Temporary licenses, 
 and Trial extensions all require generating of a Trial License.
 
+Sales will often request through a [Zendesk Ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) that we extend the duration of Self-Managed trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User gitlab_support@example.com, with the submitter cc'd on the ticket. The following workflow should be followed to service them.
+
+If any fields when opening the ticket were filled out incorrectly, send a public reply in the ticket asking the submitter to supply the missing information.
+
 > **NOTE**: Non-trial licenses are required to match an existing subscription and these licenses 
 generally have a span of 1 year. There is an 
 [ongoing discussion](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3817) on
