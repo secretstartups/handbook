@@ -232,7 +232,7 @@ Triage automations are handled by the [Triage Ops project](https://gitlab.com/gi
       - `~"workflow::ready for review"` was added
       - Author is from the wider community under the `gitlab-org` group
    - Actions:
-      - Pings and assigns (as reviewer) a random MR coach for review
+      - Removes the "Draft" status if present
    - Rate limiting: once per MR per day
 1. [Automated review request for doc contributions](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_doc.rb)
 
@@ -340,7 +340,7 @@ graph LR
     ANYONE_NOTE[Anyone posts a note]
     AUTOMATED_THANK(["1. 'Thank you' note posted<br/>2. Adds ~'Community contribution'<br />3. Adds ~'workflow::in dev'<br />4. MR assigned to author"])
     WORKFLOW_READY_FOR_REVIEW_LABEL{"~'workflow::ready for review'<br />was added?"}
-    AUTOMATED_REVIEWER_REQUEST_GENERIC(["1. Post note asking MR coach<br />to review or reassign<br />2. MR coach assigned for review<br />3. Removes Draft status if present"])
+    AUTOMATED_REVIEWER_REQUEST_GENERIC(["Remove Draft status if present"])
     AUTOMATED_REVIEW_DOC{"Does the MR touches<br/>documentation files?"}
     AUTOMATED_REVIEWER_REQUEST_DOC(["A technical writer<br />is asked to review"])
     AUTOMATED_REVIEW_UX{"Does the MR has<br />the ~UX label?"}
