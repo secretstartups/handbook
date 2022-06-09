@@ -38,7 +38,7 @@ For feature proposals, guide the customer on how to create the issues in [GitLab
 
 If a customer requests a refund, please follow the [Handling Refund Requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds) workflow.
 
-### Customer Feedback submitted in the ticket instead of in the feedback form
+### Customer Feedback submitted in the ticket, or feedback provided indirectly to a Sales or TAM team member
 
 A customer always has the option to submit feedback about their support
 experience via the
@@ -46,7 +46,7 @@ experience via the
 The link to this form is included in the signature of all outgoing replies from
 Support Engineers in Zendesk.
 
-Sometimes a customer may provide feedback via the ticket directly. To ensure
+Sometimes a customer may provide feedback via the ticket directly, or they may provide the feedback to their TAM or Sales contact. To ensure
 this feedback is captured, please create an issue in the Customer Feedback
 project using the
 [Indirect Feedback template](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect%20Feedback)
