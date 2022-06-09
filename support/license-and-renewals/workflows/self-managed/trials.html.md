@@ -38,12 +38,15 @@ We are allowed to issue trial licenses because they:
 For trial license requests where the `Expiry Date` is more than 30 calendar days from the Start date, a **Sales Manager** approval is required. When asking for approval, also consider the time between waiting for approval and the license period.
    - For example, if the requested trial license is for 33 days, and the wait time for approval could be up to 5 days. By the time the approval is given, perhaps the request doesn't need an Approval in the first place.
    - Ask the requestor to CC a manager for approval and set the ticket status to `On Hold`.
-> If you notice several recent requests for temporary keys, consult with a support manager on how to proceed.
+> If you notice several recent requests for temporary keys to the same customer, consult with a support manager on how to proceed.
 
 ### How to create a trial license
 
 To create a new trial license, follow these steps:
 
+
+
+1. Open the expired or soon to expire license and select `Duplicate License`
 1. Set the `License type` to `Legacy License`.
 1. Delete the contents of `Customer` field if present.
 1. Delete the contents of `Zuora subscription ID` field if present.
