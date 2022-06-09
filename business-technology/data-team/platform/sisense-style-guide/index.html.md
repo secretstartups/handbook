@@ -98,6 +98,4 @@ Python modules help with maintaining reusable, quality and clean code in a singl
 
 To start / modify a custom python module start a MR in the [periscope/master branch of the Sisense project](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master). You can see the available custom modules in Sisense at any point at the left side menu of the Create Chart page.
 
-![custom_modules](./custom_modules.png)
-
 Official documentation on Custom Modules can be found [HERE](https://dtdocs.sisense.com/article/custom-modules).
