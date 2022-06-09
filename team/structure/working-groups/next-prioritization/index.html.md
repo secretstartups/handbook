@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/maint-first/"
 | Property        | Value      |
 |-----------------|------------|
 | Date Created    | 2022-04-13 |
-| Target End Date | 2022-06-30 |
+| Target End Date | 2022-07-18 |
 | Slack           | [#wg_next-prioritization](https://gitlab.slack.com/archives/C03AWM7780G) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1wog8bR7jg6SECefx9BGqIa07sFm_sXJPvelVAganYmc/edit#heading=h.pmtw3ocv2aty)  |
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4199535?label_name[]=wg-next-prioritization) |
@@ -47,6 +47,13 @@ All prioritization will be done via quad planning (collaboration between product
 
 More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Zo-Fdq3yVtk-q-uJrKe_03iF9jB1XQWqQb4/edit#slide=id.geebc38ecb3_0_261).
 
+### Handbook pages that document the new processes
+
+- [Cross functional prioritization](https://about.gitlab.com/handbook/product-development-flow/cross-functional-prioritization.html)
+- [Cross functional dashboard reviews](https://about.gitlab.com/handbook/product-development-flow/cross-functional-dashboard-reviews.html)
+- [Engineering work prioritization](https://about.gitlab.com/handbook/engineering/development/#work-prioritization)
+
+
 ### Exit criteria
 
 * All groups have dashboards that they use to analyze merged MR ratio of features, maintenance, bugs and undefined.
@@ -69,11 +76,11 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Poll and decide on new workgroup name | May 2 | Complete | Michael Oliver | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274) |
 | Company wide-announcement and schedule AMA sessions | May 4 | Complete | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13302) |
 | Add dashboards to handbook pages for all stage groups | May 26 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) |
-| Add dashboards to handbook pages for all sub-departments | May 30 | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13448) |
+| Add dashboards to handbook pages for all sub-departments | May 30 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13448) |
 | Automate merge request type reminders  | June 3 | Complete | Kyle Wiebers | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) |
-| Auto-schedule S1 Bugs | June 7 | In process | Tanya Pazitny | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
-| Handbook updates to describe new process and deprecate engineering allocation process | June 6 | Started | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
-| Setup monthly MR type reviews between engineering managers, sub-department leads, and engineering overall trends | June 2 | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
+| Auto-schedule S1 Bugs | June 7 | _Due date will be updated_ | Tanya Pazitny | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
+| Handbook updates to describe new process and deprecate engineering allocation process | June 6 | Complete | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
+| Setup monthly MR type reviews between engineering managers, sub-department leads, and engineering overall trends | June 2 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
 | Refine stakeholder dashboard views, bug & maintenance backlog types | May 19 | Complete | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13321) | 
 | Reduce undefined MR types to less than 5% | June 2 | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
 | 100% of teams using the new processes | 7/4 | TBD | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
