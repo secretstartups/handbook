@@ -2,6 +2,82 @@
 layout: job_family_page
 title: "Global Education Services"
 --- 
+### Lab Curriculum Developer, Education Services
+The Lab Curriciulum Developer is responsible for performing functions such as evaluation, testing, debugging and implementation of applications programs supporting the education services and certification programs and operations. Other functions include analyze, install, modify and support operating systems, databases, virtual machines, and any other software. The Lab Curriculum Developer also plans, conducts and directs the analysis of problems with the education systems solutions. This job family reports to the [Senior Manager of Education Curriculum Development](/job-families/sales/professional-services-education-services/).
+
+#### Responsibilities
+* Deploy and manage business critical applications in cloud infrastructure like Amazon Web Services (AWS) and Google Cloud Platform (GCP) in conjunction with Instruqt
+* Collaborate with engineering and security teams to coordinate on IT policies
+* Build virtual machines that meet the requirements for lab activities for certification courses and education content 
+* Develop and maintain documentation for supported applications, processes, and training material to internal employees and IT staff
+* Work with the Sr. Manager of Education Curriculum Development to automate processes for accesss, invitations, and use of the lab systems
+* Develop tooling and processes to facilitate end-user asset management, provisioning and tracking
+* Participate in general IT operations and user support
+* Build and maintain cross-functional relationships with internal teams to drive initiatives
+* Plan and implement systems automation as required for better efficiency
+* Oversee and provide operations support including account management, workflow, log analysis, troubleshooting and service optimization
+* Assist in ongoing evaluation and management of current vendor relationships for our lab systems
+* Develop system-monitoring and support automation to enhance and scale the quality of support
+
+#### Requirements
+* Experience administering SaaS applications like Okta, Google Workspace, Slack, Zoom
+* Knowledge of configuration management tools like Ansible, Chef, or Terraform
+* Hands-on experience supporting Linux and Mac
+* Hands-on experience working in GCP and AWS environments
+* Developing automation workflows and integrations for repetitive or manual tasks
+* Experience working with CI/CD tools and Git
+* Ability to use GitLab
+* Ability to use automated lab environments like Instruqt, Strigo, or similar platforms
+
+#### Levels
+
+### Lab Curriculum Developer (Intermediate)
+
+#### Job Grade
+The Lab Curriculum Developer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+The Lab Curriculum Developer shares the same responsibilities outlined above.
+
+#### Requirements
+The Lab Curriculum Developer position has all the same requirements as the ones outlined above plus the following:
+
+* 5+ years of experience in IT in a high growth Software as a service (SaaS) environment
+* 3+ years of experience in user support in a cloud-first modern IT environment
+* Experience with Instruqt and building automated virtual machines for learning 
+* Experience with managing auto-scaling functionalities for a large user base
+* Knowledge of identity and access management for all primary cloud providers (GCP, AWS)
+* Knowledge in one of the following scripting languages - Python or SQL
+* Knowledge of container and microservice technologies
+
+### Senior Lab Curriculum Developer
+
+#### Senior Lab Curriculum Developer Job Grade
+The Senior Lab Curriculum Developer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Lab Curriculum Developer Responsibilities
+The Senior Lab Curriculum Developer has all the same responsibilities as the intermediate position plus the following:
+
+* Provide senior level technical guidance and serve as an escalation point for education, content and Security teams
+* Provide senior level direction to the Education Services team, assist with mentoring and providing technical guidance to more junior staff members
+* Work on and manage all phases of systems administration for lab systems including definition, design, implementation, and testing of new service rollouts
+* Define, communicate and manage the execution of infrastructure strategy, standards and roadmaps based on the current state and short and long term needs of the enterprise
+* Participate in the Global IT planning process and ensure architectural designs and principles are incorporated in enterprise implementation to ensure lab platforms stay up to date with GitLab's technology vision
+* Evaluate existing or emerging technologies to consider factors such as cost, security, compatibility and usability
+* Establish strong relationships with key technology stakeholders and facilitate, communicate, collaborate, and persuade others in the definition, adoption and implementation of a coherent architecture
+* Provide guidance around "Cloud/SaaS” Infrastructure, Business Applications architectures and address unique security considerations
+* Build roadmaps for acquiring, integrating, and implementing high-value technology and processes. Oversee efforts (e.g. proof of concepts) to measure and prove new technology value
+* Design and deploy best practices regarding system monitoring, change control, service level agreements, and in the creation of the company’s infrastructure policies and standards
+
+#### Senior Lab Curriculum Developer Requirements
+The Senior Lab Curriculum Developer has all the same responsibilities as the ones outlined above plus the following:
+
+* 7+ years of experience in IT in a high growth SaaS environment
+* 5+ years of experience in user support in a cloud-first modern IT environment
+* Advanced knowledge of identity and access management
+* Advanced knowledge in one of the following scripting languages - Python or SQL
+* Advanced knowledge of Instruqt use cases and build images
+* Ability to use GitLab
 
 ### Senior Manager of Education Curriculum Development
 
