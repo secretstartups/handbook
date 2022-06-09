@@ -126,9 +126,9 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * All meeting requests should include an agenda or doc for reference unless it is a Coffee Chat
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly, Skip Level 1:1's Monthly
-* Calendar color coding: Confirmed meetings Dark green, E-group meetings light green, Important meetings NOT to be moved are in red, Personal meetings in Flamingo (Pink).
+* Calendar color coding: 1:1s - dark green, Coffee Chat - light green, Sid or E-group meetings -red (Important meetings NOT to be moved are in red).
 * Do not schedule over DNB/Focus Time blocks without consulting the EBA of the People Group.
-Scheduling should ideally be kept between 9:00 am and 6:00 pm Pacific Standard time
+Scheduling should ideally be kept between 9:00 am and 5:30 pm Pacific Time
 
 ## Scheduling for David DeSanto, VP Product 
 * All meeting requests should go through the EBA for Product, Jennifer Garcia
