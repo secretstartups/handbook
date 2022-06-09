@@ -247,7 +247,7 @@ It can also be helpful to look at the data model lineages in dbt:
 We have built a suite of data marts that allow users to explore our different product data
 sources. "mart" models are a combination of dimensions and facts that are joined together to
 enable easy analysis. "rpt" ("report") models are built with specific business logic for a 
-specific use case. (Ex: `rpt_ping_instance_metric_estimated_monthly` has custom logic to 
+specific use case. (Ex: `rpt_ping_metric_totals_w_estimates_monthly` has custom logic to 
 generate xMAU estimations). Underneath each mart or reporting model is a clean lineage of
 dimensions and facts that can also be used for analysis. This list is limited to the key marts
 designed for stakeholders to do everyday analysis and reporting. You can read more about
@@ -258,9 +258,9 @@ GitLab's Enterprise Dimensional Model (EDM) [here](/handbook/business-technology
 | [mart_ping_instance](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_ping_instance) | Service Ping Instance ID | Versions App |
 | [mart_ping_instance_metric](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_ping_instance_metric) | Service Ping Instance ID, Metrics Path | Versions App |
 | [mart_ping_instance_metric_monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_monthly) | Service Ping Instance ID, Metrics Path (limited to the last ping of the month per installation) | Versions App |
-| [rpt_ping_counter_statistics](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_counter_statistics) | Ping Edition, Metrics Path | Versions App |
-| [rpt_ping_instance_active_subscriptions](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_instance_active_subscriptions) | Month, Subscription, Installation (if available) | Versions App |
-| [rpt_ping_instance_metric_estimated_monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_instance_metric_estimated_monthly) | Reporting Month, Metrics Path, Estimation Grain, Ping Edition Product Tier, Service Ping Delivery Type | Versions App |
+| [rpt_ping_metric_first_last_versions](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_metric_first_last_versions) | Ping Edition, Metrics Path | Versions App |
+| [rpt_ping_active_subscriptions_monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_active_subscriptions_monthly) | Month, Subscription, Installation (if available) | Versions App |
+| [rpt_ping_metric_totals_w_estimates_monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_metric_totals_w_estimates_monthly) | Reporting Month, Metrics Path, Estimation Grain, Ping Edition Product Tier, Service Ping Delivery Type | Versions App |
 | [mart_event_valid](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_event_valid) | Event (atomic-level model) | Gitlab.com Postgres Replica |
 | [mart_event_user_daily](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_event_user_daily) | Event Name, Event Date, User ID, Ultimate Parent Namespace ID| Gitlab.com Postgres Replica |
 | [mart_event_namespace_daily](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_event_namespace_daily) | Event Name, Event Date, Ultimate Parent Namespace ID| Gitlab.com Postgres Replica |
@@ -281,9 +281,9 @@ it is currently mapped to xMAU.
 This mart allows users to retrieve usage data for 7-day, 28-day, and all-time metrics. Read more
 about metric time frames [here](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html#metric-time_frame).
  
-#### rpt_ping_instance_metric_estimated_monthly
+#### rpt_ping_metric_totals_w_estimates_monthly
  
-[`common_mart_product.rpt_ping_instance_metric_estimated_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_instance_metric_estimated_monthly)
+[`common_mart_product.rpt_ping_metric_totals_w_estimates_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_metric_totals_w_estimates_monthly)
 is a customized model designed for monthly Service Ping-generated xMAU and PI reporting,
 including estimated uplift.
  
@@ -297,7 +297,7 @@ SELECT
  SUM(recorded_usage) AS recorded_usage,
  SUM(estimated_usage) AS estimated_usage,
  SUM(total_usage_with_estimate) AS total_usage_with_estimate
-FROM common_mart_product.rpt_ping_instance_metric_estimated_monthly
+FROM common_mart_product.rpt_ping_metric_totals_w_estimates_monthly
 WHERE is_smau = TRUE
  AND stage_name = 'create'
  AND estimation_grain = 'metric/version check - subscription based estimation'
