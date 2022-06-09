@@ -85,7 +85,6 @@ Communicate broadly when you will be away so other people can manage time effici
 1. Decline any meetings you will not be present for so the organizer can make appropriate arrangements.
     * Cancel, move, or find coverage for any meetings for which you are the organizer.
     * Optionally, if you partake in [Donut coffee chat pairings](/company/culture/all-remote/tips/#coffee-chats) you can temporarily “snooze” them by opening a direct message with Donut and typing `help` to indicate which weeks you won't be able to participate. Pairings will automatically resume when you’re back.
-1. It may be useful to share your planned time off as a **FYI** on your team's Slack channel(s), especially if you lead a team.
 1. If you are an interviewer, review your calendar to address any scheduled interviews. To ensure we provide a great candidate experience, if you find that you cannot attend an interview, you will be responsible for finding a replacement interviewer. You must communicate directly with your recruiter, as being out of the office does not always mean that you will be unavailable to interview.
 1. If you're one of the people who typically handle availability emergencies (the on-call heroes), you **do** need to ensure that someone will be available to cover for you while you're out of office. You can check for this with your manager. Managers can import their team's calendars into their Google Calendar to get a quick view of their team members' availability.
 1. Being part of a global remote team means you need to be highly organized and a considerate team player. Each team has busy times so it is always a good idea to check with them to ensure there is adequate coverage in place.
@@ -100,6 +99,9 @@ Communicate broadly when you will be away so other people can manage time effici
         1. "Comments by covering team member" - Very useful to asynchronously get updates quickly when you return from your PTO.
         1. Pro tip: Use color codes (e.g. green, red) and symbols (e.g. ✅, ❗️) to let others easily & quickly identify most important entries.
             - Please don't use colors only as people with [color blindness](https://www.mayoclinic.org/diseases-conditions/poor-color-vision/symptoms-causes/syc-20354988) may not be able to distinguish between them
+    1. It may be useful to share your planned time off as an **FYI** on your team's Slack channel(s); especially if you lead a team. You can [schedule mesages in slack](https://slack.com/help/articles/1500012915082-Schedule-messages-to-send-later) to remind your team of items that are due or projects that are pending while you are off. Here are some examples of remimders that could be scheduled:
+    * > Hey team, just a reminder that I’m out today.  Please take a look at my open tickets. Thanks!
+    * > Hello team, I am out of the office for the next several days. Please double check the pending tasks on our team's Google Doc for any upcoming deadlines.
 1. Please see the [On-Call](/handbook/on-call/) page for information on how to handle scheduled leave for someone from the On-Call team.
 1. If you are a people manager, please complete the following:
 - BambooHR: submit a job information request to move direct reports to the interim manager if you will be out of office for more than 25 calendar days.
