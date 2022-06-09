@@ -61,7 +61,7 @@ If former team members need employment verification all requests should be sent 
 Managers should not complete employment verification for any team members. Instead, they should direct all inquiries to People Ops. Team members can provide personal references following [company guidelines](/handbook/people-group/frequent-requests/#reference-request).
 
 ## Request for GitLab's phone number
-Team members often are asked for a company phone number to complete a mortgage application, loan request or similar application.  Our company phone number is outlined on the [GitLab Communication page](/handbook/communication/#phone-number) but this phone number will direct the caller to make the request via email.  If the requester requires speaking to a human, please email total-rewards@gitlab and someone on the Total Rewards team will provide their phone number based on availability.
+Team members often are asked for a company phone number to complete a mortgage application, loan request or similar application.  Our company phone number is outlined on the [GitLab Communication page](/handbook/communication/#phone-number) but this phone number will direct the caller to make the request via email.  If the requester requires speaking to a human, please email people-connect@gitlab and someone on the People Connect team will provide their phone number based on availability.
 
 ## Reference Request
 {: #reference-request}
