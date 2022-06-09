@@ -145,6 +145,7 @@ Last, the [**dbplyr**](https://dbplyr.tidyverse.org/) package can be used to int
 - Create an SSH key by following the instructions under the [Generate an SSH Key Pair](https://docs.gitlab.com/ee/user/ssh.html) section. 
     - ED25519 is recommended
     - Once complete, add the private key path to the **SSH RSA Key** field
+    - ![Git-SVN](/sites/handbook/source/handbook/business-technology/data-team/platform/rstudio/Git1.png)
 - Configure Git by setting your **GitLab user name** and **GitLab email** in RStudio
     - To open the Git prompt go to **Tools** > **Shell** and enter the following:
         - `git config --global user.name 'yourGitHubUsername'`
@@ -154,10 +155,13 @@ Last, the [**dbplyr**](https://dbplyr.tidyverse.org/) package can be used to int
 ### Part 3: Create an RStudio Project with Git
 - To create a new project based on a remote Git repository:
     - Select **File** > **New Project** > **Version Control**
+    - ![Git-Project](/sites/handbook/source/handbook/business-technology/data-team/platform/rstudio/Git2.png)
     - Choose **Git**, then provide the repository URL:
+        - ![Git-Repo](/sites/handbook/source/handbook/business-technology/data-team/platform/rstudio/Git3.png)
         - Access the GitLab project you want to clone
         - Select the **Clone** drop-down button at the top right
         - Copy the URL for **Clone with HTTPS**
+        - ![Git-Clone](/sites/handbook/source/handbook/business-technology/data-team/platform/rstudio/Git5.png)
         - Paste this link into the **Repository URL** section in RStudio
         - Select **Create New Project**
 - The GitLab Project should now be visible in R Studio
@@ -176,11 +180,13 @@ Google Sheets and R have the ability to interact via the `googlesheets4` and `go
 ### Part 1: Installation 
 
 - Run the following code in R to install the necessary packages in RStudio
-- `pkg <- c("googlesheets4", "googledrive")` <br> 
-`invisible(lapply(pkg, function(x) if (x %in% rownames(installed.packages())==F) install.packages(x)))` <br>
-`invisible(lapply(pkg, library, character.only = TRUE))` <br>
-`rm(pkg)` <br>
-
+- 
+``` 
+pkg <- c("googlesheets4", "googledrive") 
+invisible(lapply(pkg, function(x) if (x %in% rownames(installed.packages())==F) install.packages(x)))
+invisible(lapply(pkg, library, character.only = TRUE))
+rm(pkg)
+```
 ### Part 2: Reading Existing Google Sheets
 
 - The `read_sheet()` function will allow you to read an existing spreadsheet
@@ -198,27 +204,43 @@ Google Sheets and R have the ability to interact via the `googlesheets4` and `go
 Below are a list of functions that can be used to write data into a Google Sheet with examples.
 
 - **gs4_create()** can create a new spreadsheet and optionally populate initial data
-    - example: `(ss <- gs4_create("fluffy-bunny", sheets = list(flowers = head(iris))))`
+    - example: 
+    ```
+    (ss <- gs4_create("fluffy-bunny", sheets = list(flowers = head(iris))))
+    ```
 - **sheet_write()** (over)writes a whole data frame into a tab within a Google Sheet.
-    - example: `head(mtcars) %>%` <br> 
-  `sheet_write(ss, sheet = "autos")`
+    - example: 
+  ```
+  head(mtcars) %>%
+  sheet_write(ss, sheet = "autos")
+  ```
 - **range_write()** writes/overwrites a data frame into the same range of cells in a Google Sheet. Target sheet must already exist.
-    - example: `df <- dataframe` <br>
-    `ss <- "https://docs.google.com/spreadsheets/..."` <br>
-    `googlesheets4::range_write(ss = ss,` <br>
-    `data = df,` <br>
-    `sheet = "tabname")` <br>
+    - example:
+    ``` 
+    df <- dataframe
+    ss <- "https://docs.google.com/spreadsheets/..."
+    googlesheets4::range_write(ss = ss,
+    data = df,
+    sheet = "tabname")
+    ```
 - **range_clear()** can be used to clear data from an existing spreadsheet tab
-    - example: `df <- dataframe` <br>
-    `ss <- "https://docs.google.com/spreadsheets/..."` <br>
-    `googlesheets4::range_clear(ss = ss,` <br>
-    `sheet = "tabname"` <br>
-    `range = "tabname!A2:ZZ1000000")`
+    - example: 
+    ```
+    df <- dataframe
+    ss <- "https://docs.google.com/spreadsheets/..."
+    googlesheets4::range_clear(ss = ss,
+    sheet = "tabname"
+    range = "tabname!A2:ZZ1000000")
+    ```
 - **sheet_append()** can be used to add rows to an existing tab. NOTE: this function will exclude column headers as a row in the target sheet.
-    - example: `df <- dataframe` <br>
-    `ss <- "https://docs.google.com/spreadsheets/..."` <br>
-    `googlesheets4:sheet_append(` <br>
-    `ss = ss,` <br>
-    `data = df,` <br>
-    `sheet = "tabname")` <br>
+    - example: 
+    ```
+    df <- dataframe
+    ss <- "https://docs.google.com/spreadsheets/..."
+    googlesheets4:sheet_append(
+    ss = ss,
+    data = df,
+    sheet = "tabname")
+    ```
+- [Source](https://googlesheets4.tidyverse.org/) for more information on this topic.
     
