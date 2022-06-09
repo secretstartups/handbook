@@ -63,6 +63,38 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 
 Everyone at GitLab has View-only access to [Sisense](https://app.periscopedata.com/app). Log in using [Okta](/handbook/business-technology/okta/). If you need elevated access, such as Editor permissions to create your own charts, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New+Access+Request). Also see the [user roles section](/handbook/business-technology/data-team/platform/periscope/#user-roles)
 
+## Tracking Sisense Usage
+
+Use the [Periscope Usage](https://app.periscopedata.com/app/gitlab/410320/Periscope-Usage!-📈) dashboard to keep track of which users access Sisense, which dashboards are used, and sessions from external handbook users. Alternatively, you can write your own queries using the log data stored in Sisense. Some examples:
+
+**List of Users per space:**
+```sql
+  SELECT 
+    users.first_name || ' ' || users.last_name AS user_name,
+    users.email_address AS user_email,
+    spaces.name AS sisense_space
+  FROM user_roles
+  LEFT JOIN users
+    ON users.id = user_roles.user_id
+  LEFT JOIN spaces
+    ON user_roles.space_id = spaces.id
+```
+
+**Usage of external users accessing dashboards embedded in the handbook:**
+
+```sql
+  SELECT 
+    dashboards.name AS dashboard, 
+    TRUNC(time_on_site_logs.created_at) AS date,
+    SUM(time_on_site_logs.seconds) AS total_duration_in_seconds,
+    COUNT(time_on_site_logs.seconds) AS total_number_of_sessions       
+  FROM time_on_site_logs
+  JOIN dashboards 
+    ON time_on_site_logs.dashboard_id = dashboards.id
+  WHERE time_on_site_logs.user_id IS NULL  -- all GitLab users will have a user_id, external users do not
+  GROUP BY 1,2
+```
+
 ## <i class="fas fa-book fa-fw icon-color font-awesome" aria-hidden="true"></i>Sisense Resources
 
 - [Sisense Project](https://gitlab.com/gitlab-data/periscope)
@@ -157,6 +189,7 @@ Find in the list menu the discovery dataset called `gitlab_dotcom_usage_data_eve
 
 **Question 1: **
 We can use internal frontend data to answer this question since we're asking about page views. We can query Snowplow page views with like this:
+
 
 ```sql
 
@@ -287,14 +320,18 @@ Only members of the Data role can add or remove the Official Badge.
 
 ## Spaces
 
-We have one Sisense [space](https://doc.periscopedata.com/article/spaces#article-title):
+We have three Sisense [spaces](https://doc.periscopedata.com/article/spaces#article-title):
 
-- GitLab
+- GitLab: for general access
+- SAFE: for material nonpublic data (MNP)
+- SAFE Intermediate: for data from tables that contains MNP data. Note: Data visualizations should not contain MNP data, but underlying tables do. 
 
-They connect to the data warehouse with different users- `periscope` and `periscope_sensitive` respectively.
+They connect to the data warehouse with different data connections:
+- GitLab: `GitLab_(Use_this_one!)`
+- SAFE: `Snowflake_Restricted_Safe`
+- SAFE Intermediate: `Snowflake_Restricted_Safe`
 
-Most work is present in the GitLab space, though some _extremely sensitive analyses_ will be limited to GitLab sensitive.
-Examples of this may include analyses involving contractor and employee compensation and unanonymized interviewing data.
+Most work is present in the GitLab space, though material nonpublic data or other sensitive data will be limited to GitLab SAFE. Examples of this may include analyses involving contractor and employee compensation and unanonymized interviewing data, or sales or financial data not yet released to the wider 
 
 Spaces are organized with tags. Tags should map to function (Product, Marketing, Sales, etc) and subfunction (Create, Secure, Field Marketing, EMEA).
 Tags should loosely match [issue labels](/handbook/business-technology/data-team/how-we-work/#issue-labeling) (no prioritization).
