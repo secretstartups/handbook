@@ -16,52 +16,65 @@ description: "Data and Analytics oriented meetings, initiatives, and people"
 
 ## <i class="fas fa-users fa-fw color-orange font-awesome" aria-hidden="true"></i>Data Program Collaboration Hub
 
-Here is a reference for the Data Program Teams meeting series, subject DRIs, slack channels, and initiatives.
+
+### Data Directory
+
+*Coming Soon*
+
+### Slack Channels and Meeting Cadence
+
+Here is a reference for the Data Program Teams meeting series, subject DRIs, and Slack channels.
 
 
-|	**TEAM**	|	**PRIMARY PARTNERS**	|	**PRIMARY SLACK CHANNEL**	|	**WEEKLY MEETING**	|	**BI-WEEKLY MEETING**	|	**MONTHLY MEETING**	|	**QUARTERLY MEETING**	|
-|	:---------------	|	:---------------	|	:---------------	|	:---------------	|	:---------------	|	:---------------	|	:---------------	|
-|	[Marketing](/handbook/marketing/)	|		|		|		|		|		|		|
-|	[Marketing - Operations](/handbook/marketing/marketing-operations/)	|	Amy	|	#marketing-data-ops	|		|	X	|		|		|
-|	[Marketing - Strategy & Performance](/handbook/marketing/strategy-performance/)	|	Jerome, Christine	|	#data-gtm-projects	|		|		|		|		|
-|	Marketing - SDR	|		|	no dedicated channel	|		|		|		|		|
-|	Marketing - Field	|		|	no dedicated channel	|		|		|		|		|
-|	Marketing - Corporate	|		|	no dedicated channel	|		|		|		|		|
-|	[Marketing - Campaigns / Demand Gen](/handbook/marketing/demand-generation/campaigns/)	|	Jackie	|	no dedicated channel	|		|		|		|		|
-|	Marketing - Digital Experience	|		|	no dedicated channel	|		|		|		|		|
-|	Marketing - Community Relations	|		|	no dedicated channel	|		|		|		|		|
-|	Marketing - Portfolio	|		|	no dedicated channel	|		|		|		|		|
-|	[Sales](/handbook/sales/)	|		|		|		|		|		|		|
-|	Sales - New	|		|	no dedicated channel	|		|		|		|		|
-|	Sales - Customer Success	|	David	|	various / project-based	|		|		|		|		|
-|	[Sales - Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/)	|	Jeff, Emily	|	#wg-gtm-product-analytics	|		|		|	X (x-functional series)	|		|
-|	[Sales - Strategy & Analytics](/handbook/sales/field-operations/sales-strategy/)	|	Jake, Melia, Noel	|	#data-gtm-projects	|		|		|	X (x-functional series)	|		|
-|	Sales - Support	|		|	no dedicated channel	|		|		|		|		|
-|	Sales - Field Operations	|		|	no dedicated channel	|		|		|		|		|
-|	[Product](/handbook/product/)	|		|		|		|		|		|		|
-|	[Growth](/direction/growth/)	|	Sam	|	#s_growth_data	|		|		|	X (x-functional series)	|		|
-|	[Product Data Insights](/handbook/product/product-analysis/)	|	Carolyn	|	#data	|	X (Wed/Thurs)	|	X (Office Hours)	|	X (x-functional series)	|		|
-|	Engineering	|		|		|		|		|		|		|
-|	[Product Intelligence](/handbook/engineering/development/analytics/product-intelligence)	|	Amanda, Alina	|	#g_product_intelligence	|		|	X	|	X (x-functional series)	|		|
-|	[Engineering Analytics](/handbook/engineering/quality/engineering-analytics/)	|	Mek, Lily	|	#eng-data-kpi	|		|	X	|		|		|
-|	People	|		|		|		|		|		|		|
-|	[People - Operations, Technology, & Analytics](/handbook/people-group/people-ops-tech-analytics/)	|	Adrian	|	#data-people-projects	|	X	|		|		|		|
-|	Finance	|		|		|		|		|		|		|
-|	[Sales Finance](/handbook/finance/financial-planning-and-analysis/sales-finance/)	|	Fred	|	#data-gtm-projects	|		|		|		|		|
-|	[Analytics & Insights](/job-families/finance/analytics-and-insights/)	|	Sindhu, Charan, Kelly	|	various / project-based	|	X (UCI)	|		|		|		|
-|	Corporate Finance	|	James	|	various / project-based	|		|		|		|		|
-|	X-Functional Programs	|		|		|		|		|		|		|
-|	PI Leadership - Product/Engineering/Data	|	Wayne, Amanda, Phil, Alina	|	no dedicated channel	|	X	|		|		|		|
-|	GTM Teams	|	Jake, Jeff, Sindhu, Fred	|	#data-gtm-projects	|		|		|	X	|		|
-|	R&D Teams	|	Justin, Hila	|	#data-analytics-rd-projects	|		|	X	|		|		|
-|	G&A Teams	|	project based	|	no dedicated channel	|		|		|		|		|
-|	PI, Fulfillment, Data, Customer Success, Sales	|	Jeff, Amanda, Emily	|	#wg-gtm-product-analytics	|		|	X	|		|		|
-|	Data Science	|	project based	|	#bt-data-science	|	X (per project)	|		|		|		|
-|	Data Team	|		|		|		|		|		|		|
-|	Data Science	|	N/A	|	#bt-data-science	|	X (Tues)	|		|		|		|
-|	Data Platform	|	N/A	|	#data-engineering	|	X (Tues)	|		|		|		|
-|	Data R&D Fusion	|	N/A	|	#data-rd-fusion	|	X (Tues)	|		|		|		|
-|	Data GTM Fusion	|	N/A	|	#data-gtm-projects	|	X (Tues)	|		|		|		|
-|	Data G&A Fusion	|	N/A	|	no dedicated channel	|		|		|		|		|
-|	Data Collaboration	|	Carolyn, Noel, Melia, Jerome, Lily	|	#bt-data-collaboration	|	X (Tues)	|		|		|		|
-|	[Functional Analytics Center of Excellence (FACE)](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/)	|	Alex, Sindhu, Jerome, Melia, Noel, Michael, Dennis, Adrian, Marcus, Carolyn	|	#functional_analytics_center_of_excellence	|		|	X (Thurs)	|		|		|
+|	**TEAM**	|	**PRIMARY PARTNERS**	|	**PRIMARY SLACK CHANNEL**	|	**MEETING CADENCE**	|	**DATA DRI**	|	
+|	:---------------	|	:---------------	|	:---------------	|	:---------------	|	:---------------	|	
+|	**[Marketing](/handbook/marketing/)**	|		|		|		|		|		|		|
+|	[Marketing - Operations](/handbook/marketing/marketing-operations/)	|		|	[#marketing-data-ops](https://gitlab.slack.com/archives/C017D7P3Q72)	| Bi-weekly |		|	
+|	[Marketing - Strategy & Performance](/handbook/marketing/strategy-performance/)	|	@jahye1	|	[#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A)	|		|		|
+|	Marketing - SDR	|		|		|		|		|	
+|	Marketing - Field	|		|		|		|		|	
+|	Marketing - Corporate	|		|		|		|		|	
+|	[Marketing - Campaigns / Demand Gen](/handbook/marketing/demand-generation/campaigns/)	|	@jgragnola	|	|		|		|	
+|	Marketing - Digital Experience	|		|		|	
+|	Marketing - Community Relations	|		|		|		
+|	Marketing - Portfolio	|		|		|	
+|	|		|		|		
+|	**[Sales](/handbook/sales/)**	|		|		|			
+|	Sales - New	|		|		|		|		|	
+|	Sales - Customer Success	|		|	various / project-based	|		
+|	[Sales - Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/)	|	@jdbeaumont, @emcinerney	|	[#wg-gtm-product-analytics](https://gitlab.slack.com/archives/C01BMJKC8UF)	|	Monthly x-functional series	|		|
+|	[Sales - Strategy & Analytics](/handbook/sales/field-operations/sales-strategy/)	|	@jakebielecki, @mvilain, @nfiguera	|	[#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A)	|		Monthly x-functional series	|		|
+|	Sales - Support	|		|		|		|
+|	Sales - Field Operations	|		|		|	
+|	|		|		|		|		|		
+|	**[Product](/handbook/product/)**	|		|		|		|		|		
+|	[Growth](/direction/growth/)	|	@s_awezec 	|	[#s-growth-data](https://gitlab.slack.com/archives/CL0NWME2W)	|	Monthly x-functional series	|		|
+|	[Product Analysis](/handbook/product/product-analysis/)	|	@cbraza	|		|	Monthly x-functional series	|		|
+|	|		|		|		|		|		
+|	**Engineering**	|		|		|		|		|		|		|
+|	[Product Intelligence](/handbook/engineering/development/analytics/product-intelligence)	|	@amandarueda, @alinamihaila	|	[#g_product_intelligence](https://gitlab.slack.com/archives/CL3A7GFPF) |	Bi-weekly, Monthly x-functional series	|		|
+|	[Engineering Analytics](/handbook/engineering/quality/engineering-analytics/)	|	@meks, @lmai1 |	[#eng-data-kpi](https://gitlab.slack.com/archives/C0166JCH85U)	| Thu |		|		|		|
+|	|		|		|		|		|		|		|
+|	**People**	|		|		|		|		|		|		|
+|	[People - Operations, Technology, & Analytics](/handbook/people-group/people-ops-tech-analytics/)	|	@aperez349	|	[#data-people-projects](https://gitlab.slack.com/archives/C029RH88KN3)	|	X	|		|	
+|	|		|		|		|		|		|		|
+|	**Finance**	|		|		|		|		|		|		|
+|	[Sales Finance](/handbook/finance/financial-planning-and-analysis/sales-finance/)	|	@fkurniadi 	|	[#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A)	|		|		|	
+|	[Analytics & Insights](/job-families/finance/analytics-and-insights/)	|	@statimatla, @kkarthikeyan |	various / project-based	|	UCI	|		|	
+|	Corporate Finance	|	@james.shen	|	various / project-based	|		|		|		|		|
+|	|		|		|		|		|		|		|
+|	**X-Functional Programs**	|		|		|		|		|		|		|
+|	PI Leadership - Product/Engineering/Data	|	@whaber, @amandarueda, @pcalder, @alinamihaila	|		|	Bi-weekly	|		|	
+|	GTM Teams	|	@jakebielecki, @jdbeaumont, @statimatla, @fkurniadi	|	[#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A)	|	Bi-weekly	|		|
+|	R&D Teams	|	@justinfarris 	|		|	Bi-weekly	|	|	
+|	G&A Teams	|		|		|				
+|	PI, Fulfillment, Data, Customer Success, Sales	|	@jdbeaumont, @amandarueda, @emcinerney	|	[#wg-gtm-product-analytics](https://gitlab.slack.com/archives/C01BMJKC8UF)	| Bi-weekly		|		|	
+|	FACE	|	@alex_martin, @mfleisher	|	[#functional_analytics_center_of_excellence](https://gitlab.slack.com/archives/C03239RK18Q)	|	Thu	|		|		
+|	|		|		|		|		|		
+|	**Data Team**	|		|		|		|		|		
+|	Data Science	|		|	[#bt-data-science](https://gitlab.slack.com/archives/C027285JQ4E)	|	Tues	|@rparker2 |		
+|	Data Platform	|		|	[#data-engineering](https://gitlab.slack.com/archives/CSZMC7TJL)	|	Tues	| @dvanrooijen2|		
+|	Data R&D Fusion	|		|	[#data-rd-fusion](https://gitlab.slack.com/archives/C02C82WDP0U)	|	Tues	|@iweeks|		
+|	Data GTM Fusion	|		|	[#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A)	|	Tues	|@iweeks|
+|	Data G&A Fusion	|		|	|		|@pempey|	
+|	Data Collaboration	|		|	[#bt-data-collaboration](https://gitlab.slack.com/archives/C036ADU4EH3)	|	Tues	|@mlaanen|
