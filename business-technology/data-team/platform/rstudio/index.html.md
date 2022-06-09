@@ -118,3 +118,107 @@ Once you've completed the steps above and try running the code, you should be ta
 ## dbplyr
 
 Last, the [**dbplyr**](https://dbplyr.tidyverse.org/) package can be used to interact with databases using the tidyverse language. If you're familiar with [tidyverse](https://dbplyr.tidyverse.org/) already, you may find this package especially helpful.
+
+## How to Use Git with RStudio
+
+### Objectives
+1. Set up and install Git
+2. Set up Git in RStudio
+3. Clone an existing project from GitLab
+
+### Part 1: Installation and Setup
+- Download and install [R](https://cloud.r-project.org/) (if not already installed).
+- Download and install [RStudio Desktop](https://www.rstudio.com/products/rstudio/#Desktop) (if not already installed).
+- Install [Homebrew](https://brew.sh/) (if not already installed).
+- Install Git
+    - Once Homebrew is installed, open your terminal (Command+Space Bar on Mac to open search bar, and search "Terminal") 
+    - Run the command `brew install git` in your terminal
+    - Alternatively, Git can be downloaded [HERE](https://git-scm.com/downloads). Make note of the path you install it to if you use this method.
+- You will also need to have your GitLab account set up and access to the project you want to clone
+
+### Part 2: Setting Up Git in RStudio
+- Open RStudio and go to **Tools** > **Global Options** > **Git/SVN**
+- Check the box labeled **Enable version control interface for RStudio project**
+- Set the path to the Git executable that you just installed.
+    - If you don't know where Git is installed, access your Terminal and enter command `which git` and hit the **return** key
+    - The path should be something similar to `/usr/bin/git`. (Note: if navigating through Finder, hidden files can be viewed by pressing `Command` + `Shift` + `.`)
+- Create an SSH key by following the instructions under the [Generate an SSH Key Pair](https://docs.gitlab.com/ee/user/ssh.html) section. 
+    - ED25519 is recommended
+    - Once complete, add the private key path to the **SSH RSA Key** field
+- Configure Git by setting your **GitLab user name** and **GitLab email** in RStudio
+    - To open the Git prompt go to **Tools** > **Shell** and enter the following:
+        - `git config --global user.name 'yourGitHubUsername'`
+        - `git config --global user.email ‘name@provider.com'`
+- Restart RStudio
+
+### Part 3: Create an RStudio Project with Git
+- To create a new project based on a remote Git repository:
+    - Select **File** > **New Project** > **Version Control**
+    - Choose **Git**, then provide the repository URL:
+        - Access the GitLab project you want to clone
+        - Select the **Clone** drop-down button at the top right
+        - Copy the URL for **Clone with HTTPS**
+        - Paste this link into the **Repository URL** section in RStudio
+        - Select **Create New Project**
+- The GitLab Project should now be visible in R Studio
+- [Source](https://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/) for Walkthrough Instructions
+
+
+## How to Connect RStudio and Google Sheets
+
+Google Sheets and R have the ability to interact via the `googlesheets4` and `googledrive` packages in R. 
+
+1. Installation
+2. Reading Existing Google Sheets
+3. Writing to Google Sheets
+
+
+### Part 1: Installation 
+
+- Run the following code in R to install the necessary packages in RStudio
+- `pkg <- c("googlesheets4", "googledrive")` <br> 
+`invisible(lapply(pkg, function(x) if (x %in% rownames(installed.packages())==F) install.packages(x)))` <br>
+`invisible(lapply(pkg, library, character.only = TRUE))` <br>
+`rm(pkg)` <br>
+
+### Part 2: Reading Existing Google Sheets
+
+- The `read_sheet()` function will allow you to read an existing spreadsheet
+    - Run the `read_sheet()` command in R pointing to the Spreadsheet URL you want to view 
+    - URL example: `googlesheets4::read_sheet("https://docs.google.com/spreadsheets/...")` <br>
+- When you first try to access a spreadsheet you will be prompted to enter your account information
+    - Enter `Yes` in RStudio when asked "Is it Ok to cache OAuth access credentials in the folder between R Sessions"
+    - You will then be prompted to log into your Google Account in the browser
+    - Check the box to allow the Tidyverse API Packages to access Google Sheets spreadsheets
+    - A new window will open saying authentication is complete. Close the browser window.
+    - rerun the `read_sheet()` command again to confirm you can see output in R
+    
+### Part 3: Writing to Google Sheets
+
+Below are a list of functions that can be used to write data into a Google Sheet with examples.
+
+- **gs4_create()** can create a new spreadsheet and optionally populate initial data
+    - example: `(ss <- gs4_create("fluffy-bunny", sheets = list(flowers = head(iris))))`
+- **sheet_write()** (over)writes a whole data frame into a tab within a Google Sheet.
+    - example: `head(mtcars) %>%` <br> 
+  `sheet_write(ss, sheet = "autos")`
+- **range_write()** writes/overwrites a data frame into the same range of cells in a Google Sheet. Target sheet must already exist.
+    - example: `df <- dataframe` <br>
+    `ss <- "https://docs.google.com/spreadsheets/..."` <br>
+    `googlesheets4::range_write(ss = ss,` <br>
+    `data = df,` <br>
+    `sheet = "tabname")` <br>
+- **range_clear()** can be used to clear data from an existing spreadsheet tab
+    - example: `df <- dataframe` <br>
+    `ss <- "https://docs.google.com/spreadsheets/..."` <br>
+    `googlesheets4::range_clear(ss = ss,` <br>
+    `sheet = "tabname"` <br>
+    `range = "tabname!A2:ZZ1000000")`
+- **sheet_append()** can be used to add rows to an existing tab. NOTE: this function will exclude column headers as a row in the target sheet.
+    - example: `df <- dataframe` <br>
+    `ss <- "https://docs.google.com/spreadsheets/..."` <br>
+    `googlesheets4:sheet_append(` <br>
+    `ss = ss,` <br>
+    `data = df,` <br>
+    `sheet = "tabname")` <br>
+    
