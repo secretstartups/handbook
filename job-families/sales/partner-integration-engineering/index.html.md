@@ -9,7 +9,7 @@ The Partner Integration Engineering job family will provide technical guidance t
 
 ### Partner Integration Engineer
 
-The Partner Integration Engineer reports to Group Manager, Product.
+The Partner Integration Engineer reports to Director, Partner Solutions Architecture.
 
 #### Partner Integration Engineer Job Grade
 
