@@ -389,16 +389,42 @@ We have provided a number of optional resources for TMRGs to use that assist in 
 
 ### Finance & Budgets for TMRGs
 
-Each TMRG has a budget of $5000 per year (Subject To Change) to assist in the activities they wish to engage in to further develop the TMRG, Enable and Empower the members, develop activities & events or to buy merchandise.
+Each TMRG has a budget of $8000 per year (subject to change during each fiscal year planning) to assist in the activities they wish to engage in to further develop the TMRG, Enable and Empower the members, develop activities & events or to buy merchandise. 
 
-This could include but not limited to:
-* Paying a speaker to present at Gitlab
-* Purchasing TMRG specific Swag
-* External Consultants to help problem solve on TMRG issues
-* Sponsoring a partnership with a external vendor
-* Making a donation to a relevant charitable organization
+**Expenses could include but not limited to:**
 
-We have developed a simple [Budget Tracking](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit?usp=sharing)tool to track the budget and finances of the TMRG, feel free to use this when planning the activities for the TMRG throughout the year.
+- Paying a speaker to present at Gitlab
+- Purchasing TMRG specific Swag
+- External Consultants to help problem solve on TMRG issues
+- Sponsoring a partnership with a external vendor
+- Making a donation to a relevant charitable organization
+- Lunch & Learns
+- TMRG Social Activities 
+
+Feel free to get creative with how you support and engage the TMRG utilising the budget to do so. 
+
+**Quarterly Forecast Process**
+
+The VP, Diversity Inclusion, and Belonging and G&A Finance Business Partner will review the consolidated TMRG budget by quarter to confirm the total planned expenses are aligned with our quarterly budget.
+
+On a quarterly basis, each TMRG DRI is responsible for updating the [TMRG Forecast Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit#gid=1333381534) for expected expenses for the remainder of the year. Deadlines for updates are due the 1st day of the following months:
+- March
+- June
+- September
+- November - (adjusted timing to align with Annual Planning)
+
+**Submitting/Approval of Expenses**
+
+Purchases made on behalf of Gitlab should follow the [procurement process outlined in the handbook](https://about.gitlab.com/handbook/finance/procurement/#--what-is-procurement). 
+Prior to submitting a Coupa requisition, please adjust the Billing portion of the requisition for each line item by selecting the magnifying glass. Confirm that the expense is coded to Department: G&A: DIB and Class (tag): TMRG. If procurement or The DIB Team are submitting the requisition on your behalf, please give them instructions to make these adjustments. If these changes are not made, then the expense will default to the team member’s department and the expense will not align to the TMRG budget. 
+
+**Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/marketing/corporate-marketing/merchandise-handling/#swag-for-tmrgs).
+
+**Charitable Contributions-** For all Charitable Contributions please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/finance/procurement/charitable-contributions/) before submitting through Coupa. Please note that all charitable contributions must receive Board approval, so please allow 1-3 months for processing and approval. 
+
+**Team Member Expensed-** In some instances, TMRG team members will need to follow the [expense reimbursement policy](https://about.gitlab.com/handbook/finance/expenses/). If an item is purchased individually upfront (i.e. meals, books) and the item was budgeted, the team member will submit the receipt to get reimbursed. 
+When submitting expenses for reimbursement, please add the “TMRG” classification to your expense when submitting the report.
+
 
 ## Key Milestones for TMRGs (Suggested)
 
