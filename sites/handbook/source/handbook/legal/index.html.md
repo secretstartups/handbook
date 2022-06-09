@@ -45,7 +45,7 @@ The Corporate Team supports the compliance and corporate functions of GitLab, wh
 
 #### [Corporate Development](https://about.gitlab.com/handbook/acquisitions/)
 
-The Corporate Development team prospects, pursues and integrates acquisitions to accelerate GitLab’s roadmap and offer better tools to customers more quickly. For information about GitLab’s acquisition strategy and approach, visit the Acquisitions Handbook linked above.
+The Corporate Development Team prospects, pursues and integrates acquisitions to accelerate GitLab’s roadmap and offer better tools to customers more quickly. For information about GitLab’s acquisition strategy and approach, visit the [Acquisitions Handbook](https://about.gitlab.com/handbook/acquisitions/).
 
 
 #### [Employment](https://about.gitlab.com/handbook/legal/employment-law/)
@@ -59,7 +59,7 @@ Legal Operations supports Legal & Corporate Affairs processes with a focus on de
 
 #### [Privacy](https://about.gitlab.com/handbook/legal/privacy/), [Product](https://about.gitlab.com/handbook/legal/product/), and [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/)
 
-The Privacy, Product and Trade Compliance team collaborates with all GitLab teams including engineering, security, product, and marketing to provide guidance and direction in a broad range of matters relating to data privacy, open source licensing, intellectual property protection and export compliance. 
+The Privacy, Product and Trade Compliance Team collaborates with all GitLab teams including engineering, security, product, and marketing to provide guidance and direction in a broad range of matters relating to data privacy, open source licensing, intellectual property protection and export compliance. 
 
 
 ## GitLab Policies
