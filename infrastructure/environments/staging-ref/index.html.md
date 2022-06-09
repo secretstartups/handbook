@@ -30,7 +30,9 @@ Staging Ref is a sandbox environment used for pre-production testing of the late
 
 ### Environment information
 
-- Staging Ref is a [10k Cloud Native Hybrid Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative) environment - stateless components (Webservice, Sidekiq, NGINX, etc) deployed to Google Kubernetes Engine cluster and the remaining stateful components installed to GCP virtual machines
+- [Geo](https://docs.gitlab.com/ee/administration/geo/) is setup on Staging Ref with these configurations:
+  - Staging Ref US site - *primary* - [10k Cloud Native Hybrid Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative) environment - stateless components (Webservice, Sidekiq, NGINX, etc) deployed to Google Kubernetes Engine cluster and the remaining stateful components installed to GCP virtual machines
+  - Staging Ref EU site - *secondary* - [3k Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/3k_users.html) full Omnibus environment
 - Deployed with [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/gitlab-environment-toolkit) and [Deployer](https://ops.gitlab.net/gitlab-com/gl-infra/deployer)
 - SSL Certificates automated with [Let's Encrypt](https://letsencrypt.org/)
 - [Google OAuth](https://docs.gitlab.com/ee/integration/google.html) gives access to environment for GitLab team members
@@ -74,11 +76,11 @@ gstg_ref -[#554488]--> gstg_ref_qa
 
 deploy -[#554488]-> gstg_cny
 gstg_cny -[#554488]-> gstg_cny_qa
-gstg_cny_qa -[#554488]-> gstg
-gstg -[#554488]-> gstg_qa
-gstg_qa -[#554488]-> gprd_cny
+gstg_cny_qa -[#554488]-> gprd_cny
 gprd_cny -[#554488]-> gprd_cny_qa
-gprd_cny_qa -[#554488]-> gprd
+gprd_cny_qa -[#554488]-> gstg
+gstg -[#554488]-> gstg_qa
+gstg_qa -[#554488]-> gprd
 
 @enduml
 ```
