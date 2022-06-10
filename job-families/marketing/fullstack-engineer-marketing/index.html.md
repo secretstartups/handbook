@@ -3,11 +3,38 @@ layout: job_family_page
 title: Fullstack Engineer - Marketing
 ---
 
+Fullstack Engineers on the Marketing team work on our marketing site: about.GitLab.com and gitlab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/digital-experience/), and report to the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
+ 
+## Responsibilities
+* Work with the Marketing Strategy and Platforms team and other stakeholders (Content, DemandGen, Brand, etc.) to iterate on new features and improvements to GitLab's digital marketing platform.
+* Consistently ship small features and improvements to our [Slippers design system](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui)
+* Help improve the overall experience of our Marketing website through improving the quality of our codebases.
+* Help identify areas of improvements in the code base that help contribute to make it better.
+* Help plan sprints and complete prioritized issues from the issue tracker.
+ 
+## Requirements
+* Knowledge of HTML, CSS, HAML and JavaScript (jQuery, Vue.js).
+* Experience with responsive design and best practices.
+* Knowledge of current web accessibility standards and requirements.
+* Knowledge of information architecture, interaction design, and user-centered design.
+* Strong knowledge in core web and browser concepts (eg. how the browser parses and constructs a web page).
+* Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems.
+* Experience using design software to collaborate with designers and create pixel perfect web pages (eg. Figma, Sketch).
+* Experience with Git in a professional/workplace environment, ideally using the GitLab product as a user or contributor.
+* The ability to work in an agile, [iterative](/handbook/values/#iteration) development process and embrace feedback from many perspectives.
+* Proficiency in the English language, with the capacity to communicate complex technical problems, provide clear status updates, and [achieve consensus with peers](/handbook/values/#collaboration).
+* [Self-motivated and self-managing](/handbook/values/#efficiency), with great organizational skills and a positive, solution-oriented mindset.
+* An interest in [our values](/handbook/values/), and working in accordance with those values.
+* Prefer experience with JAMstack, Ruby, and Middleman (and/or other static site generators).
+* Prefer SaaS Product company experience.
+* Prefer experience working with a global or otherwise multicultural team.
+* Prefer understanding of marketing concepts such as conversion, analytics, A/B testing, lead generation, buyer journeys, and search engine optimization.
+
 ## Levels
 
 ### Fullstack Engineer (Intermediate) 
 
-The Fullstack Engineer (Intermediate) reports to the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
+The Fullstack Engineer (Intermediate) reports to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
 
 #### Fullstack Engineer (Intermediate) Job Grade
 
@@ -39,7 +66,7 @@ The Fullstack Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/com
 
 ### Senior Fullstack Engineer
 
-The Senior Fullstack Engineer reports to the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
+The Senior Fullstack Engineer reports to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
 
 #### Senior Fullstack Engineer Job Grade
 
@@ -65,12 +92,41 @@ stakeholders.
 * Expert in selecting and applying frameworks/systems to solve complicated technical problems. 
 * The ability to communicate complex ideas and solutions to non-technical stakeholders. 
 
+### Manager, Engineering
+
+The Manager, Engineering reports the the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
+ 
+#### Manager, Engineering Job Grade
+The Manager, Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
+ 
+#### Manager, Engineering Responsibilities
+* Seek to build out a great team
+* Make your team happy and successful
+* Improve processes to make your team more effective
+* Hold regular 1:1's with all members of your team
+* Plan and execute long term strategies that benefit the team and the Marketing Site
+* Conduct code reviews, and make technical contributions to Marketing Site architecture
+* Get involved in solving bugs and delivering small features
+* Foster technical decision making on the team, and make final decisions when necessary
+* Discern engineering metrics and seek to improve them
+ 
+#### Manager, Engineering Requirements
+* Collaborate effectively with others
+* Ability to achieve consensus amongst stakeholders
+* 5 years or more experience related to the responsibilities listed above.
+* 2 years or more experience in a leadership role with current technical experience
+* You have an expert comprehension of core web and browser concepts (eg. how does JavaScript handle asynchronous code)
+* You have in-depth experience with CSS, HTML, JavaScript, and Modern Web Development
+* You have excellent written and verbal communication skills
+* Our [values](/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you
+* Ability to use GitLab
+
 ## Performance Indicators
 
-* [Contributing to the success of Marketing's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/inbound-marketing/#q3-fy21-initiatives)
-* [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/growth-marketing/brand-and-digital-design/#sprint-planning)
-* [Successfully completing weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/growth-marketing/brand-and-digital-design/#sprint-cycle)
-* [Collaborating on identifying issues to be completed within Epics](https://about.gitlab.com/handbook/marketing/inbound-marketing/#epics)
+## Performance Indicators
+* [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
+* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#sprint-planning)
+* [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/digital-experience/#sprint-cycle)
 
 ## Career Ladder
 

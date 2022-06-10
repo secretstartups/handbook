@@ -4,11 +4,11 @@ title: Frontend Engineering - Marketing
 description: "Frontend Engineering on the Marketing team work on our marketing site. They work closely with product marketing, content marketing, and other members of the Marketing team."
 ---
  
-Frontend Engineers on the Marketing team work on our marketing site: about.GitLab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/inbound-marketing/digital-experience/), and report to the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
+Frontend Engineers on the Marketing team work on our marketing site: about.GitLab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/digital-experience/), and report to the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
  
 ## Responsibilities
-* Work with the Inbound Marketing team and other stakeholders (Content, DemandGen, Brand, etc.) to iterate on new features and improvements to GitLab's digital marketing platform.
-* Consistently ship small features and improvements to our [Slippers design system](https://gitlab.com/gitlab-com/marketing/inbound-marketing/slippers-ui)
+* Work with the Marketing Strategy and Platforms team and other stakeholders (Content, DemandGen, Brand, etc.) to iterate on new features and improvements to GitLab's digital marketing platform.
+* Consistently ship small features and improvements to our [Slippers design system](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui)
 * Help improve the overall experience of our Marketing website through improving the quality of the Frontend features.
 * Help identify areas of improvements in the code base that help contribute to make it better.
 * Help plan sprints and complete prioritized issues from the issue tracker.
@@ -35,7 +35,7 @@ Frontend Engineers on the Marketing team work on our marketing site: about.GitLa
  
 ### Frontend Engineer (Intermediate)  
 
-The Frontend Engineer (Intermediate) reports the the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
+The Frontend Engineer (Intermediate) reports the the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
  
 #### Frontend Engineer (Intermediate) Job Grade
 The Frontend Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -50,7 +50,7 @@ The Frontend Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/comp
  
 ### Senior Frontend Engineer  
 
-The Senior Frontend Engineer reports the the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
+The Senior Frontend Engineer reports the the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
  
 #### Senior Frontend Engineer Job Grade
 The Senior Frontend Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
@@ -70,7 +70,7 @@ The Senior Frontend Engineer is a [grade 7](/handbook/total-rewards/compensation
 
 ### Manager, Engineering
 
-The Manager, Engineering reports the the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
+The Manager, Engineering reports the the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
  
 #### Manager, Engineering Job Grade
 The Manager, Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
@@ -105,9 +105,9 @@ The Manager, Engineering is a [grade 8](/handbook/total-rewards/compensation/com
 * You have domain knowledge relevant to GitLab's Marketing site
  
 ## Performance Indicators
-* [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/inbound-marketing/digital-experience/#okrs)
-* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/inbound-marketing/digital-experience/#sprint-planning)
-* [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/inbound-marketing/digital-experience/#sprint-cycle)
+* [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
+* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#sprint-planning)
+* [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/digital-experience/#sprint-cycle)
  
 ## Career Ladder
  
