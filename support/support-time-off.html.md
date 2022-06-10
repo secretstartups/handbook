@@ -73,7 +73,9 @@ yourself to disconnect from work and make your time off effective.
 
 If you're taking off **less than half a day,** you do not need to make entries in PTO by Roots or the Support Time Off Calendar, but please consider updating your Slack status. Also consider blocking the interval on your personal Google Calendar, so no one tries to book a pairing/meeting with you during that time.
 
-If you're taking off **a half day or more,** enter the time off in PTO by Roots.
+If you're taking off **a half day or more,** enter the time off in PTO by Roots. 
+
+At the end of your last work day before taking PTO, update your availability using the [Out of Office](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#out-of-office) app in Zendesk. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make unavailable` button on the row with your user information in it.
 
 Follow the guidance below to prepare yourself, your customers, and your colleagues.
 
@@ -224,6 +226,8 @@ that happened while you were away:
   - [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C)
 
 Consider setting up a few coffee chats with teammates to simply reconnect with them. You can also ask your teammates who haven't taken PTO while you were out, during coffee chats or pairing sessions, to mention a thing or two that you might have missed.
+
+Once you have taken the time to catch-up, update your availability using the [Out of Office](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#out-of-office) app in Zendesk showing you are no longer OOO. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make available` button on the row with your user information in it.
 
 For more tips, check [returning from pto](/handbook/paid-time-off/#returning-from-pto). 
 
