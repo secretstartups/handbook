@@ -118,6 +118,7 @@ Sales Reps are responsible for quoting all GitLab direct and reseller-direct quo
 - Product information: Premium or Ultimate, Self-Managed or SaaS, Number of seats, number of years
 - Verified Discounts, especially if there are additional sales discounts outside of programmatic discounts
 - For Renewals: Screenshot or other verification for true-ups
+- Reseller name
 
 ### Transacting Through Distribution
 *   All US PubSec deals are transacted through Carahsoft (gitlab@carahsoft.com) or Immix (GSA only).
