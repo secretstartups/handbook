@@ -210,6 +210,19 @@ Additional planning and notes around the sprint board can be found in [this issu
 
 If you want the wider L&D team to be aware of your MR, please apply the `ld-handbook-update` label to the MR. This will trigger a Zapier automation that posts the MR title and link to the #learning-team Slack channel.
 
+### Tools
+
+The L&D team freqently uses the following tools for creating and communicating learning opportunities at GitLab.
+
+| Tool | Purpose |
+| ----- | -------- |
+| Powtoon | Video Creation |
+| LucidChard | Interactive Diagrams |
+| Loom | Screen recordings |
+| Canva | Image and infographic creation |
+| Articulate/Rise 360 | Course Authoring |
+
+
 ## Developing Learning Content
 
 ### Top Five Training Content Development Principles
