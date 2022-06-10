@@ -123,21 +123,11 @@ We have 3 prometheus clusters: main prometheus, prometheus-db, and prometheus-ap
 
 [Thanos Query](https://thanos-query.ops.gitlab.net) can be used to query metrics aggregated across Prometheus clusters.
 
-#### [Public Monitoring Infrastructure](https://dashboards.gitlab.com/)
-
-- A GitLab.com account is required
-- Automatically syncs from the private monitoring infrastructure on every chef client execution. **Don't change dashboards here, they will be overwritten.**
-- Refer to this interface by default; only use the private one for those cases where the public dashboard is not available.
-By linking to the public dashboard by default, we ensure that we live our transparency value and any users that are interested
-can easily view the same data we see.
-- Data gathered in InfluxDB is _not_ currently available in public, since InfluxDB does not scrub access tokens from URLs that are measured.
-
-#### [Private Monitoring Infrastructure](https://dashboards.gitlab.net)
+#### [Monitoring Infrastructure](https://dashboards.gitlab.net)
 
 - Private GitLab account is required to access
 - Highly Available setup
 - Alerting feeds from this setup
-- All dashboards here also display on the public monitoring infrastructure.
 - Separated from the public for security and availability reasons, they should have exactly the same graphs after we deprecate InfluxDB.
 
 #### Adding Dashboards
