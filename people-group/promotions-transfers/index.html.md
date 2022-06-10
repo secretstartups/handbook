@@ -221,7 +221,9 @@ The [justification document](https://docs.google.com/document/d/1feA04oVpXYa1QWA
 
 - Promotions or Applications to Manager level roles: All managers will need to apply for the open position in [Greenhouse](/handbook/hiring/interviewing/#internal-applicants). They will go through the interview and approval process in Greenhouse to ensure anyone who would want to apply has the opportunity.
     - Example: Senior Backend Engineer applies to become a Manager, Engineering
-- Interim Roles: Interim roles at all levels should go through the Greenhouse interview process (regardless of the number of applicants for the role).
+- Promotions or Applications to Senior Manager level roles: Any net new Senior Manager role as planned in Headcount planning should be opened via Greenhouse for team members to apply. 
+    - For Senior Manager roles that are not net new as part of the Headcount planning but are a continuation of someone's Career progression are processed via HRIS, then they are subject to the Promotion Quarterly cycle. This could for example apply if there's not a significant change in scope, or the team member has been identified and there are no other qualified candidates for that role. 
+- Interim Roles: Interim roles at all levels should go through the Greenhouse interview process (regardless of the number of applicants for the role). This is also the case when the Senior Manager role does not include a significant change in scope & influence. 
     - Example: Senior Backend Engineer applies to become a Manager, Engineering (interim)
 - Interim roles that transition to the permanent role: All team members that started the Greenhouse process and were hired into the interim role will make the transition to the permanent role via Greenhouse as well. While on the interim the req will be paused by Talent Acquisition and reopened to process the hire into the permanent role. 
     - Example: Manager, Engineering (interim) transitions to Manager, Engineering. 
@@ -234,6 +236,7 @@ For any transfer being submitted through Greenhouse [hiring process](/handbook/h
 
 - The positions must be open for a minimum of 24 hours
 - There must be a minimum of 2 interviews completed before moving to an offer for a candidate
+
 
 ### HRIS
 
