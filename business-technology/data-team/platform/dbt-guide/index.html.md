@@ -1068,6 +1068,10 @@ Key items to note:
 - Avoid any transformations in snapshots aside from deduplication efforts. Always clean data downstream
 - Unless you don't have a reliable `updated_at` field, always prefer using `timestamp` as a strategy (over `check`). Please find [documentation about strategy here](https://docs.getdbt.com/docs/building-a-dbt-project/snapshots)
 
+##### Altering Snapshot Tables within `dbt snapshot`
+
+dbt does a great job of handling schema changes in snapshots, but given the breadth of our main project repository there is the possibility of collisions when we're also changing source schemas in an extraction. **Adding columns to extractions source schemas of snapshotted tables should be done in a prior and seperate merge request from the changes to the snapshot.** dbt references the existing schema in the source tables (in `RAW`) when running snapshots and so the snapshots need to run at least once with the new schema present in the source data before changes can be made to the snapshots themselves with reference to these new columns.
+
 ##### Testing Snapshots
 
 Testing of a snapshot can be done in a merge request using the [specify_snapshot](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#specify_snapshot) CI job.
