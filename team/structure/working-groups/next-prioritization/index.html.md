@@ -88,7 +88,7 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 
 ### Rollout
 
-* Jun 17 - all teams have reviewed (sync or async per team preference) the dashboard to discuss if the ratios are what they expect and if not think about potential actions to take
+* Jun 17 - all teams have reviewed (sync or async per team preference) the dashboard to discuss if the ratios are what they expect and if not think about potential actions to take, and they have set up a periodic review cadence to do this periodically 
 * Jul 4 - DRIs have changed for maintenance to development engineering manager and for bugs to quality stable counterpart
 
 ### Roles and Responsibilities
