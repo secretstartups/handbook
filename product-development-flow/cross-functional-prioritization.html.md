@@ -14,6 +14,7 @@ title: Cross-Functional Prioritization
 
 To support GitLab's long-term product health and stability, teams are asked to plan their milestones with an appropriate mix of `type::feature`, `type::maintenance`, and `type:bug` work. Ratios may differ between teams as well as with the same team over time. Factors that influence what ratio is appropriate for a given team include the age of the team, the area of the product they are working in, and the evolving needs of GitLab the business and GitLab the product. If your team does not have enough historical data to know its ratios or you are unsure what an appropriate ratio might be, use a guideline of 60% feature, 30% maintenance, and 10% bugs. 
 
+For more details on these three work types, please see the section on [work type classification](/handbook/engineering/metrics/#work-type-classification).
 
 ## Prioritization for feature, maintenance, and bugs
 
