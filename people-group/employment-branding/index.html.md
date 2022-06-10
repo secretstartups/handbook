@@ -21,7 +21,7 @@ This page outlines our approach to talent brand at GitLab.
 
 If we look 10 years into the future, we picture an iteration of GitLab that's a decade closer to achieving [our mission](/company/mission/) and that has continued to evolve. Our talent brand vision is meant to capture how we picture GitLab evolving over the decade ahead.
 
-![Talent brand vision statement](/images/talent_brand/Talent_Brand_Vision.png)
+![Talent brand vision statement](/images/talent_brand/Talent_Brand_June_2022.png)
 There are two parts to this vision: 
 
 1. Continually building a company with a values-led, remote culture where people can contribute and thrive
@@ -87,8 +87,25 @@ As we consider the ways in which we will bring our value proposition to life, we
 
 We strive to be as transparent as possible, but this section is only for GitLab team members.
 
-[FY23 Talent Brand Go-to-market strategy and roadmap](https://docs.google.com/presentation/d/1akzXsSbrKWnLbgo37xIRViG_SUboDsg3DpAOYYjqpMA/edit?usp=sharing)
+[FY23 Talent Brand Go-to-market strategy and roadmap](https://docs.google.com/presentation/d/1w0520l2sYW_a9kR48t1Vu5lvHymXsXCU36yz28Lc378/edit?usp=sharing)
 
+
+## Talent brand resources
+
+### Content library
+
+The [life at GitLab content library](/handbook/people-group/employment-branding/content-library/) is a curated list of blog posts, articles, videos, awards, and quick facts that help tell the story of life at GitLab.
+
+### GitLab talent ambassadors
+
+Spread the word about life at GitLab by becoming a GitLab talent ambassdor.
+
+1. Share with your social media network when your team is welcoming a new team member and have your new team member share with their networks as well by leveraging [this template](https://docs.google.com/presentation/d/1Itl4rKjihsByhTER0DZgpT6GqWCxjPo5rAJ7WPgaym4/edit?usp=sharing)!
+2. Share with your social media network that your team is hiring by posting one of [these job ads](https://drive.google.com/drive/folders/17MSdy-vjfcQJVRwH2abz1k4tcOHX8fbe?usp=sharing) (don't forget to include a link to the job)!
+3. Sales managers, celebrate your sales team's quota achievements by posting one of [these Sales Quota Acheivement Social Cards](https://docs.google.com/presentation/d/1D8AHlzlpmStVdIHVQnhEgNIEBFHAjFBAy2Qk4HxkV1I/edit#slide=id.p) to recognize their achievement.
+4. Include the #LifeatGitLab hashtag and the [link to our careers page](https://about.gitlab.com/jobs/) in your posts.
+
+Whether you're a hiring manager or an individual contributor, [this page](/handbook/hiring/gitlab-ambassadors) outlines additional steps you can take to help represent our talent brand and attract more great people to join the team.
 
 ## Digital channels for talent branding
 
@@ -197,22 +214,7 @@ We're hiring across the company. Check out our opportunities: https://about.gitl
 - Sid's HackerNews credentials should not to be used for the "Who's Hiring" post. The team member posting the comment should use their own account.
 - When posting on HackerNews, remember that it is our most important social channel. Please follow the [best practices](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#best-practices-when-responding-on-hacker-news) and [social media guidelines](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#social-media-guidelines).
 
-## Talent brand resources
 
-### Content library
-
-The [life at GitLab content library](/handbook/people-group/employment-branding/content-library/) is a (WIP) curated list of blog posts, articles, videos, awards, and quick facts that help tell the story of life at GitLab.
-
-### GitLab talent ambassadors
-
-Spread the word about life at GitLab by becoming a GitLab talent ambassdor.
-
-1. Share with your social media network when your team is welcoming a new team member and have your new team member share with their networks as well by leveraging [this template](https://docs.google.com/presentation/d/1Itl4rKjihsByhTER0DZgpT6GqWCxjPo5rAJ7WPgaym4/edit?usp=sharing)!
-2. Share with your social media network that your team is hiring by posting one of [these job ads](https://drive.google.com/drive/folders/17MSdy-vjfcQJVRwH2abz1k4tcOHX8fbe?usp=sharing) (don't forget to include a link to the job)!
-3. Sales managers, celebrate your sales team's quota achievements by posting one of [these Sales Quota Acheivement Social Cards](https://docs.google.com/presentation/d/1D8AHlzlpmStVdIHVQnhEgNIEBFHAjFBAy2Qk4HxkV1I/edit#slide=id.p) to recognize their achievement.
-4. Include the #LifeatGitLab hashtag and the [link to our careers page](https://about.gitlab.com/jobs/) in your posts.
-
-Whether you're a hiring manager or an individual contributor, [this page](/handbook/hiring/gitlab-ambassadors) outlines additional steps you can take to help represent our talent brand and attract more great people to join the team.
 
 ## Employer awards and recognition
 
