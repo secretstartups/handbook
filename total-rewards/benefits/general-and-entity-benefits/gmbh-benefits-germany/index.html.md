@@ -125,7 +125,7 @@ How to Apply:
 
 #### Statutory Sick Leave
 
-Team members are entitled to 100% of their salary, to be paid by GitLab, for up to the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab's 25-day "Don't Ask, Must Tell" PTO policy. 
+Team members are entitled to 100% of their salary, to be paid by GitLab, for up to the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab's [Sick Time](https://about.gitlab.com/handbook/paid-time-off/#sick-time-procedures---all-team-members) policy. 
 
 To Apply:
 * Team members should email leaves@gitlab.com to inform the Absence Management team of their need for sick leave. 
