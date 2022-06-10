@@ -97,7 +97,7 @@ The Senior Manager, Digital Experience is a [grade 9](/handbook/total-rewards/co
 * Collaborating with cross-functional leaders to define quarterly OKRs that support Marketing's goals.
 * Organizational design to increase collaboration and efficiency.
 * Engaging with Finance teams to contribute to forecasting and reporting on business performance.
-* Conducting skip level 1:1s every quarter with the [Digital Experience team](/handbook/marketing/inbound-marketing/digital-experience/)
+* Conducting skip level 1:1s every quarter with the [Digital Experience team](/handbook/marketing/digital-experience/)
 * Pro-actively connecting with cross-functional GitLab team members to identify opportunities.
 * Demonstrating GitLab's CREDIT values and modelling GitLab's Leadership traits.
 
@@ -146,9 +146,9 @@ The Director of Digital Experience is a [grade 10](/handbook/total-rewards/compe
 ## Performance Indicators
 
 ## Performance Indicators
-* [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/inbound-marketing/digital-experience/#okrs)
-* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/inbound-marketing/digital-experience/#sprint-planning)
-* [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/inbound-marketing/digital-experience/#sprint-cycle)
+* [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
+* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#sprint-planning)
+* [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/digital-experience/#sprint-cycle)
 
 
 ## Career Ladder
