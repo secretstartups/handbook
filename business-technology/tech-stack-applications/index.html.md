@@ -7,13 +7,21 @@ extra_js:
   - tech-stack.js
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Definition and access
+
+> **Note:** Use the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Tech Stack Apps.
 
 The Tech Stack is a list of all the technology that GitLab currently uses to support the business. The Tech Stack lists systems/applications/tools/data used by all departments and details the business purpose/description, the owners, the provisioners, the teams that access the tool and other details.
 
 - The Tech Stack single source of truth is the **[Tech Stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml).**
-- An overview of the Tech Stack is accessible in the [Tech Stack handbook page](/handbook/business-technology/tech-stack/), which is derived from the yml file as well.
-- Many applications have a [Tech Stack Guide](#tech-stack-guide) to help you understand how the app is used and implemented
+- The browseable **[Tech Stack Index](/handbook/business-technology/tech-stack/)** is built from the YAML file.
+- Many applications have a **[Tech Stack Guide](/handbook/business-technology/tech-stack-guide/)** to help you understand how the app is used and implemented.
 
 The historical spreadsheets (deprecated on 2020-10-16 and 2021-03-03) can be found [here](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0). Both are protected in case they are needed in future audits. Only Editors of the file (currently the BSAs and Team Member Enablement team) can unhide and unprotect the spreadsheets in case it is needed.
 
@@ -143,21 +151,6 @@ Do you want to procure a new application/system? Visit the [Procurement handbook
 ### Support
 
 Are you experiencing issues with an application/system? Visit our [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and under `Group Owner/Slack Channel`, you can find out what Slack channel you need to reach out to request support.
-
-### Tech Stack Guide
-
-Every application should have a [Tech Stack Guide](/handbook/business-technology/tech-stack-guide/) handbook page to help everyone understand how the app is used, administered, and integrated with other systems. The audience of each Tech Stack Guide is anyone who needs to use the app, extend it, work with it, or understand how it fits into the rest of the GitLab Tech Stack ecosystem. Creation and maintenance of each Guide is a team effort and requires collaboration between the business system owner, technical owner, and others involved in implementation and operations.
-
- The [Tech Stack Guide Reference](/handbook/business-technology/tech-stack-guide/) provides a template and example.
-
-Key sections of each Tech Stack Guide include:
-- operational guides (how to perform various functional activities in the app)
-- an operational guide (how to perform various activities in the app)
-- key reports
-- key data objects
-- system and data flow diagrams
-- tech stack integrations
-- administrative actions
 
 ### Updating the offboarding template
 
