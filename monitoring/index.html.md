@@ -103,8 +103,8 @@ These videos provide examples of how to quickly identify failures, defects, and 
 
 ### Pingdom Statistics
 
-For a quick view of the availability and performance history of GitLab.com, we use [https://stats.pingdom.com](http://stats.pingdom.com/81vpf8jyr1h9). Specifically, this has the availability and latency of reaching
-   - a [GitLab.com issue](http://stats.pingdom.com/81vpf8jyr1h9/1902794/history). For reference, it is the [first gitlab-ce issue](https://gitlab.com/gitlab-org/gitlab-ce/issues/1).
+We use our apdex based measurements to report official availability (see above). However, we also have some public pingdom tests for a representative view of overall performance of GitLab.com. These are availably at [https://stats.pingdom.com](http://stats.pingdom.com/81vpf8jyr1h9). Specifically, this has the availability and latency of reaching
+   - a [GitLab.com issue](). For reference, it is the [first gitlab-ce issue](https://gitlab.com/gitlab-org/gitlab-ce/issues/1).
    - [GitLab.com](https://gitlab.com/) "plain and simple" called the [GitLab public check](http://stats.pingdom.com/81vpf8jyr1h9/4932705/history).
 
 ### Main Monitoring Dashboards
