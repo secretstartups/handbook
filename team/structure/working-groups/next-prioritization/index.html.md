@@ -82,8 +82,8 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Handbook updates to describe new process and deprecate engineering allocation process | June 6 | Complete | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
 | Setup monthly MR type reviews between engineering managers, sub-department leads, and engineering overall trends | June 2 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
 | Refine stakeholder dashboard views, bug & maintenance backlog types | May 19 | Complete | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13321) | 
-| Reduce undefined MR types to less than 5% | June 2 | In process | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
-| 100% of teams using the new processes | 7/4 | TBD | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
+| Reduce undefined MR types to less than 5% | July 1 | May was 6.7%| Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
+| 100% of teams using the new processes | 7/4 | 30% as of June 10 | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
 | Do a restrospective and close working group | 7/11 | Not started | Wayne Haber | TBD |
 
 ### Rollout
