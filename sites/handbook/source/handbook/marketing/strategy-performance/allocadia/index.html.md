@@ -93,7 +93,7 @@ The idea for the placeholder is if you know that there will be an expense but yo
 
 ##### Delete
 
-This button allows users to delete a line item or category that was mistakenly added. The Delete button is only able to be used by Marketing Finance and Marketing Ops admins. If you need a line item, category, or sub-category deleted please reach out to Marketing Finance or Marketing Ops and they can delete it for you. If a line item has previous months expense or invoice data, it cannot be deleted. 
+This button allows users to delete a line item or category.. The Delete button is only able to be used by Marketing Finance and Marketing Ops admins. If you need a line item, category, or sub-category deleted please reach out to Marketing Finance or Marketing Ops in the #allocadia-mktg-budget-holders slack channel and they can delete it for you. If a line item has previous months expense or invoice data, it cannot be deleted. 
 
 ##### Request Transfer
 
@@ -193,7 +193,7 @@ We have loaded the previous fiscal years worth of influenced conversion data fro
 
 If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE its actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs. We took a snap shot in time data, but the below widgets can be referenced 
 
-Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400216&udv=991807) and live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400418&udv=991807).
+Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965060/Field-Marketing-Metrics-(V2---WIP)?widget=13480873&udv=1547451) and live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965060/Field-Marketing-Metrics-(V2---WIP)?widget=13480874&udv=1547451).
 
 The average deal size by campaign by region can be found [here](https://app.periscopedata.com/app/gitlab/823916/Field-Marketing-Metrics?widget=11036333&udv=1250443) (you'll have to refer back to dashboard to change the region if you want to see a specific regions data) are also loaded for calculation purposes. If there were less than 3 closed deals then we did NOT use that deal size information, but relied on the ASP from the TOPO model to fulfill that deal size.
 
