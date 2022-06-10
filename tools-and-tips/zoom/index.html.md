@@ -115,6 +115,13 @@ so unauthorized attendees cannot join your zoom room.
 Since Zoom doesn't display the job title field during meetings, it is recommended that you add your job title as part of the display name field.
 For example, if your name is Art VanDelay and your role is Engineer, you can write display name: `Art VanDelay - Engineer`.
 
+1. Navigate to the [profile page](https://gitlab.zoom.us/profile)
+1. Click on `Edit` on the far right of your avatar/name
+1. Populate `Display Name`
+1. Click on "Save"
+
+While you're here, you can also choose to set your pronouns and the display options associated. Given our display names include our title, the default behavior of Zoom will put the pronouns at the far right potentially behind an ellipsis if you set `How would you like to share your pronouns?` to `Always share in meetings and webinars` or `Ask me every time after joining meetings and webinars` and choose to share then. You can alleviate this by setting your display name to include your pronouns earlier, for example, `Art VanDelay (They/their) - Engineer` and then select `Do not share in meetings and webinars`.
+
 ### Join meetings with muted microphone
 
 Joining an ongoing meeting with your microphone not muted can cause disruptions. As we sometimes forget to quickly mute ourselves, Zoom provides an [option to join calls muted](https://support.zoom.us/hc/en-us/articles/203024649-Muting-your-microphone-when-joining-a-meeting):
