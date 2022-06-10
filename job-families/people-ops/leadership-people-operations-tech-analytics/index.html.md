@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: Leadership People Operations, Technology & Analytics
+title: Leadership People Operations, Technology, Analytics, TMR, & Risk
 ---
 
 ## Levels
@@ -51,6 +51,53 @@ Candidates will then be invited to schedule a second interview with our CPO, Sr.
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 #### Director, People Tools and Technology Career Ladder
+The next step is to move to VP, People Operations.
+
+### Director, Risk and Resilience
+The Director, Risk and Resilience reports to VP, People Operations.
+
+#### Director, Risk and Resilience Job Grade
+The Director, Risk and Resilience is [Job Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Director, Risk and Resilience Responsibilities:
+- Identify and assess the most critical threats to GitLab's Team members relating to geopolitical, enviornmental, and physical threats including incident response.  
+- Establish GitLab's Enterprise Risk Management framework to support program needs.
+- Develop strategic plans vital to the long-term success and efficiency of the global Business Continuity program.
+- Work with internal partners to develop Business Continuity and Disaster Receovery plans.
+- Develop, implement, and train a core team of leaders to respond to crisis incidents impacting the company.  Facilitate and train senior leaders on the Crisis Management program and processes.  
+- Develop and implement GitLab’s Executive Threat Assessment Program, including protective services for employees traveling in high-risk locations
+- Manage global COVID-19 resources and response plans
+- Ensure regulatory compliance, protect employees, and the environment in a remote work environment setting
+- Provide business continuity leadership and expertise to the organization globally
+- Lead in developing, maintaining, testing, and refining Business Continuity strategies and plans in partnership with critical business functions
+- Provide direct management, mentorship, and professional development opportunities for team members
+
+
+#### Director, Risk and Resilience Requirements:
+
+- Twenty+ years’ experience in corporate safety and security, business continuity, and emergency management. At least 10 years of this experience should be in a senior leadership role.
+- Extensive experience in corporate safety and security, business continuity, and emergency management in a diverse range of situations. Candidates should have built relevant strategies and business plans, as well as demonstrated ability to navigate an array of real life situations.
+- Has successfully led one or more risk and resilience functions, including building a team, influencing senior leadership, and developing and implementing practical strategies.  Experience managing global Safety and Security policies, standards, programs, or procedures.
+- Experience leading and managing global business continuity and emergency management program. 
+- Expertise in global Safety and Security legal requirements (i.e.: Regulations, Codes, Standards, Directives, and Administrative Policies) and Duty of Care.
+- Exceptional communication and organizational skills
+- Analytical, detail-oriented, problem-solver, project management skills, and a strong focus on results.
+- Ability to effectively communicate with and influence leadership.
+- Experience developing and implementing goals and strategies based on broader organization goals.
+- Must be able to travel domestic/international 25% of the time.
+- Proficiency in Google Suite (docs, sheets, presentations)
+- Ability to use GitLab
+ 
+#### Director, Risk and Resilience Hiring Process
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
+Selected candidates will be invited to schedule a screening call with our Global Recruiters
+Next, candidates will be invited to schedule a first interview with our VP, People Operations
+Candidates will then be invited to schedule a second interview with our CPO, Director, Team Member Relations, Director, People Operations
+
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+
+#### Director, Risk and Resilience Career Ladder
 The next step is to move to VP, People Operations.
 
 ### VP People Operations, Technology & Analytics
