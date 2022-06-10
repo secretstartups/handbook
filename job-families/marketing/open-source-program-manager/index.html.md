@@ -7,7 +7,7 @@ title: "Open Source Program Manager"
 
 As the Open Source Program Manager, you will be responsible for fostering the adoption of GitLab in the Open Source space.
 
-### Job Grade 
+### Job Grade
 
 The Open Source Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -32,7 +32,7 @@ The Open Source Program Manager is a [grade 6](/handbook/total-rewards/compensat
 
 ## Senior Open Source Program Manager
 
-### Job Grade 
+### Job Grade
 
 The Senior Open Source Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -43,11 +43,11 @@ The Senior Open Source Program Manager shares the same responsibilities and requ
 
 - You have 7-10 years of experience running developer relations or community advocacy programs, preferably open source in nature.
 - In depth knowledge of the Open Source ecosystem.
-- Prior experience developing relationships with Open Source communities. 
+- Prior experience developing relationships with Open Source communities.
 
 ## Career Ladder
 
-The next step in the Open Source Programs job family is not yet defined at GitLab. 
+The next step in the Open Source Programs job family is not yet defined at GitLab.
 
 ## Key Performance Indicators
 
