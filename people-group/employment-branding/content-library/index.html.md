@@ -63,15 +63,23 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 - [Best Companies for Women, Comparably, 2019](https://www.comparably.com/news/best-companies-for-women-2019/)
 - [Best Companies for Diversity, Comparably, 2019](https://www.comparably.com/news/best-companies-for-diversity-2019/)
 
-# Articles
 
-Coming soon: A curated list of the latest and greatest articles about GitLab, organized by topic and theme.
+# Blogs & Articles
 
-For a daily digest of press about GitLab, as well as more detailed regional content, please follow the #newswire channel on Slack.
+## Sales team blogs
 
-# Blogs
+- [How GitLab's customer and partner focus fuels our culture](https://about.gitlab.com/blog/2022/05/03/how-gitlabs-customer-and-partner-focus-fuels-our-culture/)
 
-Coming soon: Our team members have written blogs on numerous topics that are helpful to share with potential candidates and anyone interested in life at GitLab. Here's a curated list of some of the best blog posts to share, organized by topic and theme.
+## Engineering team blogs
+
+- [How Iteration drives innovation in our engineering org](https://about.gitlab.com/blog/2022/06/10/how-gitlab-iteration-value-drives-innovation-through-the-engineering-organization/)
+- [How to win the burnout battle](https://about.gitlab.com/blog/2022/06/07/best-life-best-work/)
+
+## Great blogs that support our [talent brand vision](https://about.gitlab.com/handbook/people-group/employment-branding/)
+
+- [Preventing burnout: A manager's toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
+- [Use your uniqueness as your superpower](https://about.gitlab.com/blog/2022/04/04/advice-for-women-seeking-careers-in-tech/)
+- [How to win the burnout battle](https://about.gitlab.com/blog/2022/06/07/best-life-best-work/)
 
 # Videos
 
@@ -79,6 +87,7 @@ There are a number of videos on our [corporate YouTube channel](https://www.yout
 
 ## General life at GitLab videos
 
+- [Sales at GitLab](https://vimeo.com/675024697)
 - [Why work remotely?](https://youtu.be/GKMUs7WXm-E)
 - [Everyone can contribute](https://youtu.be/kkn32x0POTE)
 - [GitLab's core values](https://youtu.be/_8DFFHYAtj8)
@@ -91,9 +100,3 @@ There are a number of videos on our [corporate YouTube channel](https://www.yout
 
 If you're in need of an official GitLab logo, company description, green screens, or other press-related assets, refer to [the press kit](/press/press-kit/) on the GitLab website.
 
-
-# Contribute to the content library
-
-This content library is a work in progress. See something that's missing or want to contribute to it? Submit a merge request and tag @bchurch.
-
-[Return to the main talent brand page.](/handbook/people-group/employment-branding/)
