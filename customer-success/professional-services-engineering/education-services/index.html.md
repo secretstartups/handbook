@@ -10,19 +10,20 @@ description: “Technical Learning and Certification from GitLab Professional Se
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Professional Education Services Overview
+## Professional Education Services Overview
+
 Professional Education Services are part of the GitLab Professional Services (PS) Team within GitLab Customer Success. 
 
-#### Mission
+### Mission
 
 The primary mission is to plan and implement effective and scalable educational offerings to accelerate customer time to value and drive expanding product adoption. 
 
-#### Approach
+### Approach
 
 The Professional Education Services [job task analysis](https://docs.google.com/spreadsheets/d/114yAXzzUi3bKoOcN6zG4tOZ5I_-SmPU9luO8Ylp5XRI/edit?usp=sharing) is a blueprint that guides and defines courses and certifications through learning objectives aligned with the relevant industry job roles and jobs to be done. 
 
 
-### Current Offerings
+## Current Offerings
 
 The GitLab Professional Education Services team currently provides the following offerings:
 - [Live Instructor-led training (ILT)](https://about.gitlab.com/services/education/)
@@ -31,60 +32,21 @@ The GitLab Professional Education Services team currently provides the following
 - [Custom Training](https://about.gitlab.com/services/specialized/)
 
 
-#### Immediate Priorities
+### Immediate Priorities
 
 - Standardize ILT deliveries to enable training delivery at scale 
 - Offer self-paced certification preparation and assessment at scale on a per-learner basis
 - Establish a certified learning partner program to enable scalable delivery of content worldwide
 
 
-#### Long Term Goals
+### Long Term Goals
 
 - Develop and maintain additional ILT, eLearning, and certification offerings for advanced learners
 - Automate manual operational tasks to become more efficient and deliver consistent education services at scale
 - Continue to innovate and expand the SSOT model for content development at scale
 
-#### Related Project and Issues
+### Related Project and Issues
+
 - [Professional Education Services Project Issues List](https://gitlab.com/gitlab-com/sales-team/professional-services/education-services/issues)
 - [EdCast LXP/Marketplace User Instructions](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/implementation/bootcamp/)
-
-
-### Tech Stack Guide - Thought Industries Learning Management System
-
-The Tech Stack single source of truth is the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and contains more detail about this app.
-
-<% data.tech_stack.each do |stack| %>
-<% if stack.title == "Thought Industries LMS" %>
-- **Description:** <%= stack.description %>
-- **Provisioner:** <%= stack.provisioner %>
-- **Deprovisioner:** <%= stack.deprovisioner %>
-- **Okta Enabled:** <%= stack.need_move_to_okta %>
-- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
-<% end %>
-<% end %>
-
-#### Implementation
-
-The LMS implementation is [organized into multiple phases](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/390#project-scope).
-
-#### System Diagram
-
-The Thought Industries LMS Implementation is a SaaS app and is not integrated with other GitLab systems.
-
-```mermaid
-graph TD
-GC[GitLab Customer] -->|user authentication| LMS[LMS]
-```
-
-#### Data Model
-
-The Data Model is not available and LMS is a closed system.
-
-#### Integrations
-
-The Thought Industries LMS Implementation is a stand-alone SaaS app and is not integrated with other GitLab apps.
-
-#### Key Reports / Dashboards
-
-All Dashboards and Reports are a part of LMS itself. No separate Sisense reports are available or planned.
-
+- [Thought Industries LMS Tech Stack Guide](/handbook/customer-success/professional-services-engineering/education-services/lms/)
