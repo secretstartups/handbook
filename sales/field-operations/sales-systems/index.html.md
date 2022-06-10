@@ -146,6 +146,12 @@ Please seek explicite and documented approval from the Senior Director of Sales 
 
 These changes would be classified as a `CMT: Emergency Change`.  Any issue where this occurs should be flagged with this label for future compliance review.
 
+### Critical Field Approvals
+
+Any changes related to the following fields must have direct approval from the Senior Director of Sales Systems:
+
+1. Opportunity.Net_ARR__c
+
 ### Approval for Proposed Changes related to Quoting
 
 1. All changes that will impact Quoting (ex. creating quotes, creating validation rules, generating quote PDFs, Quote Templates, Approval Module updates) will require approval from Deal Desk and Channel Ops before being pushed to production. The goal is to prevent changes from being pushed to production that could delay the quoting process or create a bottleneck in the quote to cash lifecycle. 
