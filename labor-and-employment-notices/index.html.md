@@ -67,6 +67,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Supplemental Paid Sick Leave - COVID-19](https://www.dir.ca.gov/dlse/COVID19resources/2022-COVID-19-SPSL-Poster.pdf)
 * [Payday Notice](https://drive.google.com/file/d/1eIhDxbf42Jfvy9DjuYiLyuLQFHqMcx9I/view?usp=sharing)
 * [Right to Vote Notice](https://elections.cdn.sos.ca.gov/pdfs/tov-english.pdf)
+* [Victims of Domestic Violence Leave Notice](https://www.dir.ca.gov/dlse/Victims_of_Domestic_Violence_Leave_Notice.pdf)
 * **City of Berkeley** 
   - [Minimum Wage Poster](https://www.cityofberkeley.info/uploadedFiles/Housing/Level_3_-_General/MWO-and-Labor-Notice-Multi-year-clean(2).pdf)
 * **City of Los Angeles**
