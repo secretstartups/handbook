@@ -21,13 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### June 2022
 
-### Intro to GitLab
-#### June 9th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_SpBFgR7WQ9KwqRBMUygLXQ)
-
 ### Intro to CI/CD
 #### June 14th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
