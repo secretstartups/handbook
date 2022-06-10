@@ -5,15 +5,50 @@ title: "Brand Growth - Roles & Responsibilities"
 
 ## Levels
 
-### Manager, Brand Strategy and Growth
+### Director, Brand Strategy 
 
-The Manager, Brand Strategy and Growth reports to the Senior Director, Brand.
+The Director, Brand Strategy reports to the VP, Corporate Marketing.
 
-#### Manager, Brand Strategy and Growth Job Grade
+#### Director, Brand Strategy Job Grade
+
+The Director, Brand Strategy is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#job-grades)
+
+#### Director Brand Strategy Responsibilities
+
+* Provides vision for overall brand campaigns that run consistently throughout the year to drive brand awareness, consideration, conversion, and marketplace differentiation for The One DevOps Platform brand.
+* Works closely with GitLab leadership to set the GitLab brand vision and execute the strategy across various mediums.
+* Has out-of-the-box ideas to push the brand to a bigger place and compete on a bigger scale.
+* Work cross functionally to develop campaigns and coordinate efforts with marketers in design, corporate events, content, communications, demand generation, and product marketing
+* Oversees the overall brand message house and makes sure it is updated as we iterate.
+* Oversees brand management in conjunction with the Brand Design team, setting guidelines on how we use the brand. Works collaboratively with legal to make sure all legal guidelines are set and adhered to.
+* Develops consistent brand measurement tactics and reporting. Uses qualitative and quantitative data to help drive and support overall brand decisions, as well as measure brand campaign effectiveness.
+* Oversee and coordinate R&D brand efforts and testing.
+* Bundles up overall brand direction and communicates it clearly and effectively across the company and organization.
+* Oversees swag development and process to merchandize swag effectively. 
+
+#### Director, Brand Strategy Requirements
+
+* Has a global mindset and understanding about how the brand message should be adapted for different regions.
+* Ability to work with leadership to drive conversations around GitLab's brand direction and category leadership.
+* Proven ability to drive successful and consistent global brand campaigns.
+* Demonstrated experience designing and executing integrated brand campaigns across multiple media forms with measurable impact on business results.
+* Proven experience measuring and reporting on brand campaigns. 
+
+## Performance Indicators
+
+* Increases overall brand awareness through various channels and campaigns.
+* Builds and recruits a world-class brand team.
+* Increase aided and unaided brand awareness.
+
+### Manager, Brand Strategy 
+
+The Manager, Brand Strategy and Growth reports to the Director, Brand Stratgey and Growth.
+
+#### Manager, Brand Strategy Job Grade
 
 The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, Brand Strategy and Growth Responsibilities
+#### Manager, Brand Strategy Responsibilities
 
 * Oversee a team of brand managers to deliver brand campaigns in line with our messaging to drive unaided and aided brand awareness. 
 * Provides overall brand strategy to drive brand growth. 
@@ -25,7 +60,7 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 * Develops global brand campaign strategy to impact markets of interest to GitLab. 
 * Oversees and guides the team on KPIs for brand campaigns and impact on overall brand. 
 
-#### Manager, Brand Strategy and Growth Requirements
+#### Manager, Brand Strategy Requirements
 
 * Ability to use GitLab
 * Proven and demonstrated progressive experience in a management role.
