@@ -114,7 +114,7 @@ Negative feedback can be given in a group setting if it's to someone higher in t
 ##### Provide feedback in a timely manner
 {:.no_toc}
 We want to solve problems while they are **small**.
-If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please voice your concerns rather than keeping them to yourself. If you need to escalate beyond your manager, you could consider speaking to your [skip-level](https://about.gitlab.com/handbook/leadership/skip-levels/#purpose-and-benefits-of-skip-levels), a more senior person, or a [people business partner](https://about.gitlab.com/job-families/people-ops/people-business-partner/).
+If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please voice your concerns rather than keeping them to yourself. If you need to escalate beyond your manager, you could consider speaking to your [skip-level](/handbook/leadership/skip-levels/#purpose-and-benefits-of-skip-levels), a more senior person, or a [people business partner](/job-families/people-ops/people-business-partner/).
 
 ##### Say thanks
 {:.no_toc}
@@ -385,26 +385,26 @@ While we iterate with small changes, we strive for large, ambitious results. We 
    1. Keeping the focus on the [results](/handbook/values/#results) and the outcome
    1. Aiming to be best in the world across [all our functions](/handbook/leadership/no-matrix-organization/)
    1. Not being satisfied with the status quo and setting higher goals
-      1. Ambitious [mission](https://about.gitlab.com/company/mission/#mission) and [vision](https://about.gitlab.com/company/vision/)
+      1. Ambitious [mission](/company/mission/#mission) and [vision](/company/vision/)
       1. [Ambitious OKRs](/company/okrs/#okrs-are-stretch-goals-by-default)
       1. Having and reporting against [KPIs](/company/kpis/#what-are-kpis) with guiding targets
    1. Having other people adopt our way of working
       1. [Handbook](/handbook/)
-      1. [Certifications](https://about.gitlab.com/learn/certifications/public/)
+      1. [Certifications](/learn/certifications/public/)
       1. Promotion of processes
-         1. [Blog posts](https://about.gitlab.com/blog/)
-         1. [Webcasts](https://about.gitlab.com/webcast/)
-         1. [Events](https://about.gitlab.com/events/)
+         1. [Blog posts](/blog/)
+         1. [Webcasts](/webcast/)
+         1. [Events](/events/)
          1. [Community Forum](https://forum.gitlab.com/)
          1. [Job board](https://boards.greenhouse.io/gitlab)
   1. Proactively critiquing ourselves
-     1. [Highlight where we fall short](https://about.gitlab.com/direction/maturity/)
-     1. [Have outside experts rate us](https://about.gitlab.com/is-it-any-good/)
-     1. [Have users compare us to the alternative](https://about.gitlab.com/devops-tools/)
+     1. [Highlight where we fall short](/direction/maturity/)
+     1. [Have outside experts rate us](/is-it-any-good/)
+     1. [Have users compare us to the alternative](/devops-tools/)
   1. Increasing engagement with GitLab
      1. [Pageviews](/handbook/marketing/inbound-marketing/#measuring-progress)
-     1. [Certifications](https://about.gitlab.com/learn/certifications/public/)
-     1. [Surveys](https://about.gitlab.com/developer-survey/)
+     1. [Certifications](/learn/certifications/public/)
+     1. [Surveys](/developer-survey/)
   1. [Not tolerating low performance](/handbook/leadership/underperformance/#introduction)
   1. Preventing [risk aversion](/handbook/values/#low-level-of-shame)
 
@@ -655,9 +655,9 @@ At GitLab we believe that everyone is entitled to a safe working space where the
 
 ##### Seek diverse perspectives
 {:.no_toc}
-We believe that team members seeking feedback from a diverse group of team members, inside and outside of their group or function, leads to better decisions and a greater sense of team member belonging. For more guidance on how we define Diversity, please refer to [GitLab's definition of Diversity, Inclusion & Belonging](https://about.gitlab.com/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Feedback from a more heterogenous group often leads to better business outcomes as we incorporate diverse perspectives and uncover unconscious bias.
+We believe that team members seeking feedback from a diverse group of team members, inside and outside of their group or function, leads to better decisions and a greater sense of team member belonging. For more guidance on how we define Diversity, please refer to [GitLab's definition of Diversity, Inclusion & Belonging](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Feedback from a more heterogenous group often leads to better business outcomes as we incorporate diverse perspectives and uncover unconscious bias.
 
-An example of this sub-value in action showcases the value of actively seeking diverse perspectives. The term "Brag Document" was used to describe when individuals documented their accomplishments. Documenting accomplishments is critical to team member development. However, team members had the **psychological safety** to raise the question of whether or not the title of the document made some feel uncomfortable. In an effort to seek a **diverse perspective**, a survey was conducted in one of the [TMRG](https://about.gitlab.com/company/culture/inclusion/erg-guide/#what-is-not-an-tmrg-at-gitlab) channels. The poll results showed that 100% of those polled preferred a different title and the title was changed.
+An example of this sub-value in action showcases the value of actively seeking diverse perspectives. The term "Brag Document" was used to describe when individuals documented their accomplishments. Documenting accomplishments is critical to team member development. However, team members had the **psychological safety** to raise the question of whether or not the title of the document made some feel uncomfortable. In an effort to seek a **diverse perspective**, a survey was conducted in one of the [TMRG](/company/culture/inclusion/erg-guide/#what-is-not-an-tmrg-at-gitlab) channels. The poll results showed that 100% of those polled preferred a different title and the title was changed.
 
 ##### Make family feel welcome
 {:.no_toc}
@@ -684,7 +684,7 @@ There is sometimes a grey area where advocating for diversity and political acti
 
 While it is acceptable for individuals to bring up politics and religion in social contexts such as coffee chats and real-life meetups with other coworkers (with the goal to understand and not judge), always be aware of potential sensitivities, exercise your best judgment, and make sure you stay within the boundaries of our [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 
-We're a global company where perspectives and local norms may differ from culture to culture. Diversity, inclusion and belonging is about broad inclusion at a worldwide level. If there is a question or concern, please reach out to diversityinclusion@gitlab.com or #diversity_inclusion_and_belonging.
+We're a global company where perspectives and local norms may differ from culture to culture. Diversity, inclusion and belonging is about broad inclusion at a worldwide level. If there is a question or concern, please reach out to [diversityinclusion@gitlab.com](mailto:diversityinclusion@gitlab.com) or [#diversity_inclusion_and_belonging](https://app.slack.com/client/T02592416/CLLDY3L8P).
 
 ##### Quirkiness
 {:.no_toc}
@@ -693,7 +693,7 @@ Celebrate and encourage quirky gifts, habits, behavior, and points of view. Open
 
 ##### Building a safe community
 {:.no_toc}
-Do **not** make jokes or unfriendly remarks about [characteristics of the people who make up GitLab and how they identify](https://about.gitlab.com/company/culture/inclusion/#gitlabs-definition-of-diversity--inclusion).
+Do **not** make jokes or unfriendly remarks about [characteristics of the people who make up GitLab and how they identify](/company/culture/inclusion/#gitlabs-definition-of-diversity--inclusion).
 Everyone has the right to feel safe when working for GitLab and/or as a part of the GitLab community.
 We do not tolerate abuse, [harassment](/handbook/anti-harassment/), exclusion, discrimination, or retaliation by/of any community members, including our team members.
 You can always **refuse** to deal with people who treat you badly and get out of situations that make you feel uncomfortable.
@@ -746,13 +746,13 @@ As a globally-dispersed company, we have team members from many different backgr
 {:.no_toc}
 [Neurodiversity](http://neurocosmopolitanism.com/neurodiversity-some-basic-terms-definitions/) refers to variations in the human brain regarding learning, attention, sociability, mood, and other mental functions. There are various neurodevelopmental conditions, like autism, ADHD, dyslexia, dyscalculia, dyspraxia, cognitive impairment, schizophrenia, bipolarity, and other styles of neurodivergent functioning. While neurodivergent individuals often bring [unique skills and abilities](https://adhdatwork.add.org/potential-benefits-of-having-an-adhd-employee/) which can be harnessed for a [competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage) in many fields (for example, [cybersecurity](https://www.forbes.com/sites/samcurry/2019/05/13/neurodiversity-a-competitive-advantage-in-cybersecurity/)), neurodivergent individuals are often discriminated against. Due to non-inclusive hiring practices, they sometimes have trouble making it through traditional hiring processes. Neurodiversity inclusion best practices benefit everyone, and at GitLab, everyone can contribute. The handbook, values, strategy, and interviewing processes must support the ability for everyone to thrive.
 
-At GitLab we embrace Neurodiversity through adopting a variety of different work styles and communication styles, and we lean into [transparency](https://about.gitlab.com/handbook/values/#transparency), asynchronous as a default working style, and pre-filled meeting agendas. These best practices become even more important when embracing neurodiversity. Providing multiple ways to consume information (written / video / audio) allows everyone to contribute independent of their preferred comprehension style. It is important to ask team members specifically what their preferred communication method is in order to provide them information in a format that is easily consumable for them.
+At GitLab we embrace Neurodiversity through adopting a variety of different work styles and communication styles, and we lean into [transparency](/handbook/values/#transparency), asynchronous as a default working style, and pre-filled meeting agendas. These best practices become even more important when embracing neurodiversity. Providing multiple ways to consume information (written / video / audio) allows everyone to contribute independent of their preferred comprehension style. It is important to ask team members specifically what their preferred communication method is in order to provide them information in a format that is easily consumable for them.
 
-Remember, **brains work differently** and always [assume positive intent](https://about.gitlab.com/handbook/values/#assume-positive-intent), even if someone behaves in an unexpected way. While it may be an unexpected behavior to you, it may not be unexpected to the individual exhibiting the behavior. That is the beauty and value of diversity, embracing differences and becoming stronger and better as a result.
+Remember, **brains work differently** and always [assume positive intent](/handbook/values/#assume-positive-intent), even if someone behaves in an unexpected way. While it may be an unexpected behavior to you, it may not be unexpected to the individual exhibiting the behavior. That is the beauty and value of diversity, embracing differences and becoming stronger and better as a result.
 
-We also recommend that all team members review the [Reasonable Accommodation](https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation) process. A Reasonable Accommodation for a team member could include noise-cancelling headphones, scheduling smaller group session zoom calls, providing very explicit and precise instructions and due-dates when given tasks, or providing a variety of supportive software tools.
+We also recommend that all team members review the [Reasonable Accommodation](/handbook/people-policies/inc-usa/#reasonable-accommodation) process. A Reasonable Accommodation for a team member could include noise-cancelling headphones, scheduling smaller group session zoom calls, providing very explicit and precise instructions and due-dates when given tasks, or providing a variety of supportive software tools.
 
-The most important thing that managers can do is facilitate an environment in which all team members feel [psychologically safe](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) enough to make requests for [what they need](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/#resources-for-team-members-and-managers) in order to do their job.
+The most important thing that managers can do is facilitate an environment in which all team members feel [psychologically safe](/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) enough to make requests for [what they need](/company/culture/inclusion/neurodiversity-resources/#resources-for-team-members-and-managers) in order to do their job.
 
 
 ##### Family and friends first, work second
@@ -840,7 +840,7 @@ Don’t wait. When you have something of value like a potential blog post or a s
 ##### Set a due date
 {:.no_toc}
 We always try to set a due date. If needed, we cut scope.
-If we have something planned for a specific date, we make that date. For example we [shipped over 100 releases on the 22nd of the month](https://about.gitlab.com/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/). But every one of them doesn't contain all the features we planned.
+If we have something planned for a specific date, we make that date. For example we [shipped over 100 releases on the 22nd of the month](/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/). But every one of them doesn't contain all the features we planned.
 If we planned an announcement for a certain date, we might announce less or indicate what is still uncertain.
 But we set a due date because having something out there builds trust and gives us better feedback.
 
@@ -879,8 +879,8 @@ As we get more users, they will ask for stability, especially in our UX. We shou
 Educating users on the longer-term plan helps create a shared understanding of how a small change will incrementally grow into something more. For example, we could share how a dropdown will evolve into a much more nuanced solution in the future. We can take the following steps to articulate our plan:
 
 1. Open a feedback issue that provides context about the initial MVC ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/221284))
-1. Ensure the direction page articulates a long-term plan ([example](https://about.gitlab.com/direction/plan/#project-management))
-1. Announce the MVC in a release post, link to the feedback issue, and link to the direction page ([example](https://about.gitlab.com/releases/2020/07/22/gitlab-13-2-released/#assign-issues-to-iterations))
+1. Ensure the direction page articulates a long-term plan ([example](/direction/plan/#project-management))
+1. Announce the MVC in a release post, link to the feedback issue, and link to the direction page ([example](/releases/2020/07/22/gitlab-13-2-released/#assign-issues-to-iterations))
 
 ##### Low level of shame
 {:.no_toc}
@@ -1302,12 +1302,12 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Criteria we use to [manage underperformance](/handbook/leadership/underperformance/).
 1. What we do when we [let people go](/handbook/people-group/offboarding/).
 1. Giving value awards during [Contribute](/events/gitlab-contribute/).
-1. Providing GitLab team members and [qualified individuals](https://about.gitlab.com/handbook/ceo/shadow/#eligibility) transparency into all aspects of the company through the [CEO Shadow Program](https://about.gitlab.com/handbook/ceo/shadow/#goal) to enable them to better engage and collaborate cross-functionally.
+1. Providing GitLab team members and [qualified individuals](/handbook/ceo/shadow/#eligibility) transparency into all aspects of the company through the [CEO Shadow Program](/handbook/ceo/shadow/#goal) to enable them to better engage and collaborate cross-functionally.
 1. Linking the takeaways of courses to our values, like we did for [the Crucial Conversations training](/handbook/leadership/crucial-conversations/#how-crucial-conversations-align-with-gitlab-values).
 1. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication/#link-sharing), agendas, etc.)
 1. Reinforcing our values with features in GitLab, for example the [Iterations feature](https://docs.gitlab.com/ee/user/group/iterations/).
-1. Applying one of our [values virtual backgrounds](https://about.gitlab.com/press/press-kit/#green-screens) in video calls.
-1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values.
+1. Applying one of our [values virtual backgrounds](/press/press-kit/#green-screens) in video calls.
+1. Our GitLab [Song Book](/company/culture/songbook/), the song lyrics often mention GitLab values.
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses, which is why every promotion document at GitLab is shared with the entire company and uses the values as its core structure.
 
