@@ -11,7 +11,7 @@ title: Learning & Development
 
 ## Team Member Resources
 
-The Learning & Development team has a number of resources to help team members learn new skills. Click on the buttons below to learn more about each opportunity:
+The Learning & Development team has a number of resources to help team members learn new skills. Click the buttons below to learn more about each opportunity:
 
 <div class="flex-row" markdown="0">
   <div>
@@ -60,22 +60,22 @@ The Learning & Development team has a number of resources to help team members l
 
 _Why we exist_
 
-L&D is here to guide team members on their career journey by maintaining a culture of learning and development so that GitLab is a great place to work. We ensure team members can do their jobs so that GitLab can achieve results that make our customers and people happy. 
+L&D is here to guide team members on their career journey. We strive to foster a culture of learning and development so that GitLab remains a great place to work. When our team members can do their jobs, our customers are happy as a result. This makes everyone at Gitlab happy! 
 
 ### Vision 
 
 _Where are we going_
 
-A future where GitLab is best in class organization for remote learning & development, recognized by industry leaders. A future where **everyone contributes** to a culture of curiosity driven by team members. 
+GitLab seeks to be recognized as a top organization for remote learning & development. We aim for a future where **everyone contributes** to a culture of curiosity. 
 
 ### Mission
 
 _What we do_
 
-We equip and empower individual contributors and people leaders to access self-service learning that role models a culture of development. We do this by: 
+We empower individual contributors and equip leaders through self-service learning. We accomplish a culture of development by: 
 
 - Focusing on skill-based learning 
-- Enabling access to resources to improve career mobility 
+- Providing resources to improve career mobility 
 - Developing learning journeys for teams throughout the organization
 
 ### Objectives
@@ -83,24 +83,24 @@ We equip and empower individual contributors and people leaders to access self-s
 _Performance indicators_ 
 
 1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](/handbook/people-group/offboarding/#exit-survey) related to career development
-2. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
-3. Increase in access to career mobility: internal transfers, [promotions](/handbook/people-group/promotions-transfers/), job shadows, intern for learning, and professional development
-4. Evidence of best in class remote learning & development (i.e. [Brandon Hall Awards](https://www.brandonhall.com/excellenceawards/index.html), Industry Speaking Events, Thought Leadership articles, etc.)
+2. Secure a 5% increase in the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
+3. Increased access to career mobility: internal transfers, [promotions](/handbook/people-group/promotions-transfers/), job shadows, intern for learning, and professional development
+4. Clear evidence of best in class remote learning & development (i.e. [Brandon Hall Awards](https://www.brandonhall.com/excellenceawards/index.html), Industry Speaking Events, Thought Leadership articles, etc.)
 
 ### Principles
 
-1. **Meaningful and relevant content.** We deliver learning solutions that drive team member's development and growth to reach professional goals.
+1. **Meaningful and relevant content.** We deliver learning solutions that help you reach your professional goals.
 
-1. **Values aligned.** Our learning solutions reinforce GitLab’s [values](/handbook/values/), and foster continuous learning and curiosity.
+1. **Values aligned.** Our learning solutions reinforce GitLab’s [values](/handbook/values/) and foster continuous learning and curiosity.
 
-1. **Diverse approaches to learning.** We apply a blended learning model for learning solutions that adapt to various learning needs.
+1. **Diverse approaches to learning.** We apply a blended learning model to find solutions to various individual needs.
 
-1. **Community.** We make our L&D offerings available to the public, aligned to our mission that everyone can contribute.
+1. **Community.** L&D offerings available to the public so that everyone can contribute.
 
 ### What are we not responsible for
 
 1. Customer & Product Training
-2. Designing, developing, and delivering all training to team members
+2. Designing, developing, and delivering comprehensive training to all team members
 
 
 ## GitLab Learning Strategy & Roadmap
@@ -119,7 +119,7 @@ _Performance indicators_
 
 **Note: Learning & Development activities are subject to change**
 
-Internally, the GitLab People Group uses a calendar to track cross-funcational efforts. Please see the [People Group Page](/handbook/people-group/#team-calendars) for more information.
+Internally, the GitLab People Group uses a calendar to track cross-functional efforts. Please see the [People Group Page](/handbook/people-group/#team-calendars) for more information.
 
 ## L&D Organization
 
@@ -143,17 +143,17 @@ Please take 5 minutes for a survey to [tell us how do you prefer to learn](https
 
 ## Work With Us
 
-To request support from the L&D, please see the process for [how to work with us](/handbook/people-group/learning-and-development/work-with-us). This page outlines issue templates and processes that are managed on our [Learning and Development issue board](https://gitlab.com/gitlab-com/people-group/learning-and-development/-/issues) for support using the following templates:
+To request support from L&D, please see the process for [working with us](/handbook/people-group/learning-and-development/work-with-us). This page outlines issue templates and processes that are managed on our [Learning and Development issue board](https://gitlab.com/gitlab-com/people-group/learning-and-development/-/issues).
 
-Our team will review and set the priority for your request based on the scale and impact across the organization. Learning items that will be applied and used across the company will take priority. 
+We will review and classify your request based on the scalability and possible organizational impact: learning solutions that can be applied and used company-wide take priority. 
 
-We prioritize requests using this criteria:
+This is the process:
 
 *  Evaluate the strategic impact of the learning session
 *  Determine the level of work associated with the learning requirement
 *  Assess the impacted audience groups of the session 
 *  Identify measures of success 
-*  Assess dates of delivery with course schedule and forecast future date
+*  Assess dates of delivery with the course schedule and forecast a future date
 
 ## How we work
 
