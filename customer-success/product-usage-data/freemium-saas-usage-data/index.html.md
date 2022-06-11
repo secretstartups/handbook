@@ -58,11 +58,45 @@ Below are the fields, descriptions, and best practices for each field. These can
 
 You can view this on the Salesforce Account page, or create a Salesforce report using "Account" as the type.
 
+#### How to read List of Namespaces in Fields
+
+##### `List of Namespaces` Field Breakdown
+
+| Section | Label | Description |
+|---|---|---|
+| Namespace details | Plan | Tells if the namespace is in Trial or Free plan |
+| Namespace details | Duplicate Note | Tells if the namespace is displayed in other accounts as well or just in this account |
+| Owner details | SFDC_ID | If the owner is already a salesforce lead or contact, it shows the person salesforce id |
+| Owner details | User Name | Their username for Gitlab product |
+| Metric | Num of billable users | The number of users in the namespace that could be billed for |
+| Metric | Num of active users | The number of billable users in the namespace who have logged in and used 1+ stages in the last 3 months |
+| Metric | Num of stages | Measures the number of stages being used in the namespace in the last 3 months (e.g., Create, Verify, and Package would be "3") |
+| Metric | Impacted by storage limit | Is the namespace used more than 5GB in storage |
+| Metric | Impacted by visibility | The namespace currently has a public project and enjoys certain ultimate features for free. They will lose these free paid features unless they upgrade or upload open source license |
+| Metric | Merge_Requests_User_L28D | The number of namespace users creating merge requests in the last 28 days |
+| Metric | CI_Pipelines_User_L28D | The number of namespace users creating CI pipelines in the last 28 days (SMAU Verify) |
+| Metric | CI_Builds_Count_All_Time | Total number of CI builds for the namespace |
+| Metric | CI_Builds_secure_scanners_user_L28D | The number of namespace users who ran any Secure scan in the last 28 days (SMAU Secure) |
+| Metric | Deployments_user_L28D | The number of namespace  users who ran deployments in the last 28 days (SMAU Release) |
+
 ### About the Data
 
 1. **SaaS only**. This does not include self-managed
 1. **Updated weekly**. The data sync to Salesforce will happen once per week
 1. [**Accuracy of Namespaces deck**](https://docs.google.com/presentation/d/1CctNjyyoiKTY9Ag0nBWqZGpetQ76VRhRjQrsm4DWWTw/edit#slide=id.gcf1e8c1d1f_7_180)
+
+### FAQs
+1. How many namespaces are displayed in List of namespaces field: <br>
+With June 7th update, we display upto 10 namespaces for each account
+
+2. What is the priority for displaying namespaces:<br>
+Priority 1: Active Trial namespaces<br>
+Priority 2: Namespaces with 6+ billable users <br>
+Priority 3: Owners with business or EDU email domain<br>
+Priority 4: Number of billable members in the namespace<br>
+Priority 5: Number of stages used by namespace user in the last 3 months <br>
+Priority 6: Number of active users in the namespace using 1+ stages in the last 3 months<br>
+
 
 ### Additional Resources
 
