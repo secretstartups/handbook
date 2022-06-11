@@ -34,10 +34,10 @@ This process addresses critical and high escalations for Strategic customers. Th
 
 | Severity Level | Description | Cadence | Levels of Involvement |
 | -------------- | ----------- | ------- | --------------------- |
-| Critical | Major issue(s) significantly impact customers' ability to deploy or use a solution, risk loss of or use of a solution, risk loss of a customer, or significant risk to the relationship and brand. | Daily | VP of Sales, Product, CRO, CEO, VP of Customer Success |
-| High | Major issue(s) significantly impact a customer's ability to deploy or use a solution, risking current adoption, future growth on the account, and damage to the relationship. | Multiple times per week | VP of Sales, Product, CRO, CEO, VP of Customer Success |
-| Medium | Issue(s) impact a customer's ability to deploy or use the product, risking current adoption and renewal. | Weekly to Bi-weekly | VP of Sales, VP of Customer Success |
-| Low | Issue(s) impacting a customer's ability to deploy or use the product, risking customer value realization, timeline, customer satisfaction, and adoption levels. | Standard Communication | Director of Customer Success, Account Manager |
+| Critical | Major issue(s) significantly impact customers' ability to deploy or use a solution, risk loss of or use of a solution, high risk loss of a customer or significant contraction, or significant risk to the relationship and brand. | Daily | VP of Sales, Product, CRO, CEO, VP of Customer Success, Global/PubSec TAM Leader |
+| High | Major issue(s) significantly impact a customer's ability to deploy or use a solution, risking current adoption, risk of loss of customer or contraction, future growth on the account, and damage to the relationship. | Multiple times per week | VP of Sales, Product, CRO, CEO, VP of Customer Success, Global/PubSec TAM Leader |
+| Medium | Issue(s) impact a customer's ability to deploy or use the product, risking current adoption and renewal. | Weekly to Bi-weekly | Global/PubSec TAM Leader |
+| Low | Issue(s) impacting a customer's ability to deploy or use the product, risking customer value realization, timeline, customer satisfaction, and adoption levels. | Standard Communication | Regional TAM Manager, Account Manager |
 
 - Cadence refers to the cadence of internal and external meetings and communications to the customer.
 - Level of involvement defines scope of internal communication and awareness. Others can be included based on the type of issues involved.
@@ -80,7 +80,19 @@ At the beginning of the escalation, the DRI must be determined - the DRI owns th
 
 - Support Engineering is responsible for managing Low and Medium level escalations, leveraging other teams (e.g., Technical Account Managers (TAMs), Engineering) as needed.
 - Support Engineering should inform the TAM of the escalation if a TAM is assigned.
-- The TAM is responsible for managing any account-related issues (e.g., delayed response, open actions, non-compliance installation or product use, etc.).
+- The TAM is responsible for managing any account-related issues (e.g., delayed response, open actions, non-compliance installation or product use, etc.) and coordinating with any GitLab executives (e.g., egroup) or senior leadership to address account concerns.
+
+### What's the difference between an account escalation or an incident escalation?
+
+- This page describes the account level risk meaning the customer impacting issues could be a single incident or an aggregation of issues. The assessment considers impact to the customer, risk to future business with that customer, and GitLab brand.
+- Technical Support is ultimately accountable for driving resolution to the support case, including escalation to Engineering, Security, and/or Infrastructure teams.  Incident escalation processes should be leveraged for a single incident / support case. 
+
+
+- [Declare a GitLab.com Incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) if you suspect a widespread issue on GitLab.com
+- [Escalate an individual support ticket to Support Management](https://about.gitlab.com/handbook/support/internal-support/support-escalations.html) for cases with context that necessitate they should be handled outside of standard priority order.
+- Have the customer [trigger Emergency Support](https://about.gitlab.com/support/#how-to-trigger-emergency-support) for S1/instance down issues to connect directly with the Support Engineer on-call.
+   - You can also [page the on-call support manager](https://about.gitlab.com/handbook/support/on-call/#paging-the-on-call-manager) in cases where you've received word that a customer attempted to raise an emergency, but the on-call engineer was not paged. 
+- This page outlines the additional support and operational procedures for the varying levels of account escalation.
 
 ## Initiating, Managing and Closing an Escalation
 
