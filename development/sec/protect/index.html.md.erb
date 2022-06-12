@@ -18,12 +18,11 @@ Protect our users' applications, services, and infrastructure from the ever-evol
 
 ## Sub-department development people leaders
 
-
 <%=
 departments = ['Protect']
 department_regexp = /(#{Regexp.union(departments)})/
 
-direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Sec')
+direct_team(role_regexp: department_regexp, manager_slug: 'pcalder')
 %>
 
 ### Backend
@@ -36,7 +35,16 @@ direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineeri
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Protect/, direct_manager_role: nil, other_manager_roles: ['Frontend Engineering Manager, Secure:Threat Insights, Protect:Container Security', 'Backend Engineering Manager, Secure:Threat Insights, Protect:Container Security', 'Director of Engineering, Sec']) %>
+<%= stable_counterparts(
+      role_regexp: /[,&] Protect/,
+      direct_manager_role: nil,
+      other_manager_roles: [
+        'Frontend Engineering Manager, Secure:Threat Insights, Protect:Container Security',
+        'Backend Engineering Manager, Secure:Threat Insights, Protect:Container Security',
+        'Director of Engineering for Growth, Sec, and ModelOps',
+        'Senior Engineering Manager, Anti-Abuse, Growth, Protect and Secure'
+      ])
+%>
 
 ## Open-source projects
 
