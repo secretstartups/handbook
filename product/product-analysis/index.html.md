@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Product Analysis Group
+title: Product Data Insights Group
 ---
 
 ## On this page
@@ -9,15 +9,16 @@ title: Product Analysis Group
 - TOC
 {:toc}
 
-## Product Analysis Handbook
+## Product Data Insights Handbook
 
-The Product Analysis group consists of a team of product analysts. This group reports to the 
-Senior Director, Product Monetization and serves as a specialized analytics team to support the 
-product organization and product data-related analysis across GitLab.
+The Product Data Insights (formerly known as Product Analysis) group consists of a team of 
+product analysts. This group reports to the Senior Director, Product Monetization and serves 
+as a specialized analytics team to support the product organization and product data-related 
+analysis across GitLab.
 
 Read more about what we do at GitLab on our [Direction](/direction/product-analysis/) page.
 
-### Product Analysis Group Members
+### Product Data Insights Group Members
 
 * [Carolyn Braza](/company/team/#cbraza): [Manager, Product Data Analysis](/job-families/product/product-analyst/#manager-product-data-analysis)
 * [Dave Peterson](/company/team/#dpeterson1): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
@@ -28,22 +29,29 @@ Read more about what we do at GitLab on our [Direction](/direction/product-analy
 
 As part of the [Research & Development (R&D) Data Fusion Team](/handbook/business-technology/data-team/#data-fusion-teams), 
 the product analysts also work closely with members from the central Data team. In addition, 
-the Product Analysis team is part of the [Functional Analytics Center of Excellence (FACE)](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/), 
+the Product Data Insights team is part of the [Functional Analytics Center of Excellence (FACE)](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/), 
 along with other functional analytics groups across the GitLab Data Program.
+
+### Product Data Insights Handbook Contents
+
+* [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
+* [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
+* [Team Processes](/handbook/product/product-analysis/team-processes/)
+* [WIP - Crash Course for Product Stage Resources](/handbook/product/product-analysis/crash-course/)
 
 ## Working With Us
 
-The Product Analysis group works in two-week iterations, which dictate how and when we 
+The Product Data Insights group works in two-week iterations, which dictate how and when we 
 plan and prioritize work. Iterations start on Thursdays and end on Wednesdays.
 
 You can see our current iteration [here](https://gitlab.com/groups/gitlab-data/-/boards/2973914).
 
 ### Issue Intake
 
-For all product analysis requests, please create an issue in the [GitLab Data Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues), 
-apply the `Team::Product Analysis` and `product analysis` labels, and follow the guidelines below.
+For all Product Data Insights requests, please create an issue in the [GitLab Data Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues), 
+apply the `Team::PDI` and `product data insights` labels, and follow the guidelines below.
 
-All data issues with the `Team::Product Analysis` label will appear on the [Product Analysis board](https://gitlab.com/groups/gitlab-data/-/boards/2959103).
+All data issues with the `Team::PDI` label will appear on the [Product Data Insights board](https://gitlab.com/groups/gitlab-data/-/boards/2959103).
 
 #### Issue Templates
 
@@ -90,25 +98,23 @@ iteration, the team considers the following:
 
 #### Issue Priority
 
-The Manager, Product Data Analysis will help prioritize work based on importance and capacity, and 
+The Manager, Product Data Insights will help prioritize work based on importance and capacity, and 
 will work with the Senior Director, Product Monetization and VP, Product on trade-offs (if needed).
 
-Prioritization labels will be added by the Product Analysis team as a part of triage and 
+Prioritization labels will be added by the Product Data Insights team as a part of triage and 
 planning.
 
 | Label | Priority |
 | ----- | -------- |
-| `pa-priority::1` | High and/or urgent |
-| `pa-priority::2` | Medium |
-| `pa-priority::3` | Low, non-urgent |
+| `pdi-priority::1` | High and/or urgent |
+| `pdi-priority::2` | Medium |
+| `pdi-priority::3` | Low, non-urgent |
 
-Most issues will fall under `pa-priority::2` and `pa-priority::3`.
+Most issues will fall under `pdi-priority::2` and `pdi-priority::3`.
 
 #### Issue Weight
 
-Each issue is assigned a weight based on estimated time commitment. If a partially-completed 
-issue rolls over from one iteration to another, the weight will be adjusted to reflect the time 
-commitment of the outstanding work.
+Each issue is assigned a weight based on estimated time commitment.
 
 If a single issue has a weight greater than the length of the iteration (2 weeks), it should be 
 broken into smaller units of work. (This could also be an indicator that the issue should be 
@@ -127,8 +133,8 @@ converted to an epic).
 
 #### Velocity
 
-Product Analysis defines velocity as the amount of work (measured in issue weight) completed by the 
-team within a given iteration. While we recognize that this is an imperfect measurement 
+Product Data Insights defines velocity as the amount of work (measured in issue weight) completed 
+by the team within a given iteration. While we recognize that this is an imperfect measurement 
 (partially-completed issues and [undocumented work](/handbook/product/product-analysis/#undocumented-requests) 
 are not accounted for), it is a rough gauge of team output.
 
@@ -137,7 +143,7 @@ we will commit to _less than_ our recent velocity and leave a buffer to account 
 and interruptions. To start, each analyst will leave a buffer of ~2 days worth of work (an 
 estimate based on the recent volume of unplanned work). High-priority issues exceeding the 
 allotted buffer will have a material impact on our ability to complete planned work, so please 
-plan ahead if you know that you will need assistance from the Product Analysis team.
+plan ahead if you know that you will need assistance from the Product Data Insights team.
 
 #### Working Days
 
@@ -152,14 +158,14 @@ Please include why the issue is urgent, when it is needed by, what it will infor
 be used, and who is the intended audience.
 
 If you have not heard from the tagged analyst within 1 business day* (or earlier if the issue 
-requires a faster turn-around), please send a message in [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) 
+requires a faster turn-around), please send a message in [#data](https://gitlab.slack.com/messages/data/) 
 and feel free to tag `@cbraza`.
 
 _*Please keep in mind that we work across different time zones_
 
 ### Additional Considerations
 
-Please keep the following in mind when working with the Product Analysis team:
+Please keep the following in mind when working with the Product Data Insights team:
 
 #### Scope Creep
 
@@ -196,7 +202,7 @@ _*At this time, PMs should continue to open a single issue and analysts will sep
 
 #### Undocumented Requests
 
-Please open an issue for _all_ Product Analysis requests. Requests made via comments in 
+Please open an issue for _all_ Product Data Insights requests. Requests made via comments in 
 Google Drive are extremely difficult to track, and Slack history is gone after 90 days. 
 In addition, these requests are not planned or accounted for in team velocity. Your informal 
 request might mean that we are unable to complete work we committed to for another stakeholder.
@@ -206,16 +212,16 @@ questions (which could lead to building a self-service solution) and quickly rep
 
 #### Capacity
 
-The Product Analysis team is tasked with supporting the entire product organization, in 
+The Product Data Insights team is tasked with supporting the entire product organization, in 
 addition to other product-related data needs across GitLab. As such, team capacity can be 
 limited as we grow towards our [target gearing ratio](/handbook/product/product-analysis/team-processes/#gearing-ratios). 
-However, limited capacity should not stop GitLab team members from [opening issues for Product Analysis](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request), 
+However, limited capacity should not stop GitLab team members from [opening issues for Product Data Insights](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request), 
 it simply means that lower-priority requests will have to wait until resources are available. 
 As the group grows, so will our ability to turn around requests in a shorter period of time.
 
 ### Office Hours
 
-In order to support more PMs across GitLab, the Product Analysis team offers office hours. 
+In order to support more PMs across GitLab, the Product Data Insights team offers office hours. 
 Office hours are held every other Wednesday, alternating between <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time> 
 and <time datetime="21:00">9 pm UTC (4 pm ET / 1 pm PT)</time>. While our primary stakeholders 
 are PMs across the organization, all GitLab team members are welcome to join.
@@ -335,42 +341,36 @@ is a longer turn-around time given team size and [capacity](/handbook/product/pr
 
 **What if I don't know if my topic is best suited for office hours or whether I need to open an issue?**
 
-Feel free to ask your analyst partner (if applicable) or in [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/). 
+Feel free to ask your analyst partner (if applicable) or in [#data](https://gitlab.slack.com/messages/data/). 
 When in doubt, come to office hours and the team can discuss there. We review agenda items added 
 in advance of office hours, and will flag any topics that are too broad to be covered during 
-office hours. 
+office hours.
 
 ### Slack
 
-1. [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) - For Growth-related data questions
-1. [#g_product_analysis_daily](https://gitlab.slack.com/messages/g_product_analysis_daily/) - For 
-the Product Analysis team's asynchronous daily stand-up, powered by [Geekbot](https://geekbot.com/)
 1. [#data](https://gitlab.slack.com/messages/data/) - For any type of data question, including 
-those related to product and/or the Product Analysis team
-1. `@product-analysts` - Notifies the entire Product Analysis team
-1. `@randdanalyticstriage` - Notifies the entire Product Analysis team and the Data 
+those related to product and/or the Product Data Insights team
+1. [#g_product_data_insights_daily](https://gitlab.slack.com/messages/g_product_data_insights_daily/) - For 
+the Product Data Insights team's asynchronous daily stand-up, powered by [Geekbot](https://geekbot.com/)
+1. [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) - For Growth-related data questions
+1. `@product-analysts` - Notifies the entire Product Data Insights team
+1. `@randdanalyticstriage` - Notifies the entire Product Data Insights team and the Data 
 team's R&D Fusion group, per the [Enterprise Data Triage Program](/handbook/business-technology/data-team/how-we-work/triage/#enterprise-data-program-triage)
-1. `@functional-data-analysts` - Notifies the entire Product Analysis team and other functional 
+1. `@functional-data-analysts` - Notifies the entire Product Data Insights team and other functional 
 analysts across the GitLab Data Program
 
 ### GitLab Groups
 
-1. `@gitlab-org/growth/data-analysts` - Notifies the entire Product Analysis team
+1. `@gitlab-org/growth/data-analysts` - Notifies the entire Product Data Insights team
 
 ### YouTube Playlist
 
-1. [Product Analysis](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp32_hlHkH-wysq5seWicwL) - 
+1. [Product Data Insights](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp32_hlHkH-wysq5seWicwL) - 
 Recordings from office hours, analysis/read-outs, etc
-
-## Product Analysis Handbook Contents
-
-* [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
-* [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
-* [Team Processes](/handbook/product/product-analysis/team-processes/)
-* [WIP - Crash Course for Product Stage Resources](https://about.gitlab.com/handbook/product/product-analysis/crash-course/)
 
 ## Other helpful resources & links
 
+1. [Data Definitive Guide Series](/handbook/business-technology/data-team/data-catalog/#definitive-guides)
 1. [Growth Insights Knowledge Base](/direction/growth/#growth-insights-knowledge-base)
 1. [Growth Experiments Knowledge Base](/direction/growth/#growth-experiments-knowledge-base)
 1. [Growth Product Handbook](/handbook/product/growth/)

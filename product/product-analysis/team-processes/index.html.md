@@ -15,24 +15,25 @@ title: Team Processes
 
 All issues must have the following:
 
-* `Team::Product Analysis` label
+* `Team::PDI` label
   * This is the label used to identify and track the team's work
-* `product analysis` label
+* `product data analysis` label
 * Workflow label (ex: `workflow::1 - triage`)
-* Priority label (ex: `pa-priority::2`)
-* Section label (ex: `section::Growth`)
+* Priority label (ex: `pdi-priority::2`)
+* Section label (ex: `section::Dev`)
   * Answers the question "what section is this work supporting?"
-* Group label (ex: `group::activation`)
+* Stage label (ex: `devops::manage`)
+  * Answers the question "what stage is this work supporting?"
+* Group label (ex: `group::optimize`)
   * Answers the question "what group is this work supporting?"
 * Issue weight
-  * The total weight should also be included in the issue description
 * Iteration (once the issue is scheduled)
 
 ### Issue Workflow
 
 As mentioned above, all issues should have a workflow label. These should be kept up-to-date in 
 order to track the current status of an issue on our [board](https://gitlab.com/groups/gitlab-data/-/boards/2973914). 
-The Product Analysis team uses a subset of the [workflow labels used by the Data team](/handbook/business-technology/data-team/how-we-work/#workflow-summary).
+The Product Data Insights team uses a subset of the [workflow labels used by the Data team](/handbook/business-technology/data-team/how-we-work/#workflow-summary).
 
 | Stage (Label) | Description | Completion Criteria |
 | --- | --- | --- |
@@ -62,8 +63,6 @@ At the end of an iteration, analysts should review any remaining open issues and
 
 * Update the iteration value
 * Apply the `iteration rollover` label
-* Update the issue weight to reflect the _remaining_ amount of work
-  * The total weight will still be reflected in the issue description
 
 ### Unplanned Work
 
@@ -79,12 +78,12 @@ applicable stakeholder so they are aware that their issue is being delayed
 
 ### Issues in Other Projects
 
-Sometimes issues are opened and assigned to analysts outside of the Product Analysis and Data team 
-projects. As such, they are hard to track (since they will not appear on our board) and do not 
-count towards our velocity. In order to capture the work, analysts have the option of opening a 
-placeholder/tracking issue within the Product Analysis project. The placeholder/tracking issue 
-should contain a link to the original issue, along with the standard labels, iteration, weight, 
-etc.
+Sometimes issues are opened and assigned to analysts outside of the Product Data Insights and 
+Data team projects. As such, they are hard to track (since they will not appear on our board) 
+and do not count towards our velocity. In order to capture the work, analysts have the option 
+of opening a placeholder/tracking issue within the Product Data Insights project. The 
+placeholder/tracking issue should contain a link to the original issue, along with the standard 
+labels, iteration, weight, etc.
 
 ### Closing an Issue
 
@@ -125,7 +124,7 @@ Before submitting your code for peer review, please check the following:
   * Ex: "I want some extra eyes on this `LEFT JOIN`", "these are the two most complex CTEs", etc
   * If portions of the code have already been reviewed, call out what is new and what is unchanged
 
-To request a review, [open an MR in the Product Analysis project](https://gitlab.com/gitlab-data/product-analytics/-/merge_requests/new). 
+To request a review, [open an MR in the Product Data Insights project](https://gitlab.com/gitlab-data/product-analytics/-/merge_requests/new). 
 
 * Add a new directory under `code_reviews/` and use the issue number for the name
   * Ex: For a code review of issue # 60, the directory should be `code_reviews/60/`
@@ -177,7 +176,7 @@ conversation on Slack, discussion in meeting, etc)
 
 ## Team Velocity Calculations
 
-The Product Analysis team uses two different measures of completed work to determine velocity, 
+The Product Data Insights team uses two different measures of completed work to determine velocity, 
 one based in work done on issues completed during an iteration (Completed Issue Weight), and 
 one based on the volume of work that was done (even if the issue was not closed out) (Total 
 Issue Weight). In both cases, we use Analyst Working Days as the denominator.
@@ -220,30 +219,26 @@ began in the previous iteration.
 
 ## Style Guidelines
 
-The Product Analysis group follows the Data team's [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/) 
+The Product Data Insights group follows the Data team's [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/) 
 and best practices.
 
 ## Team Meetings
 
-1. Weekly Growth Team Meeting
-  1. See [Growth handbook](/handbook/product/growth/#weekly-growth-meeting) for details
-1. Weekly Growth PM- Product Analysis Sync
-  1. See [Growth handbook](/handbook/product/growth/#other-regular-growth-meetings) for details
-1. Weekly Product Analysis Knowledge Share & Iteration Planning
-  1. Attendees: Product Analysis team
+1. Weekly Product Data Insights Knowledge Share & Iteration Planning
+  1. Attendees: Product Data Insights team
   1. Goals: Weekly knowledge share and collective brainstorming. Every other week the meeting is 
   extended to do iteration planning.
-  1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Product%20Analytics%20Knowledge%20Share%20%26%20Iteration%20Planning%22)
-1. Product Analysis Office Hours
-  1. See [main Product Analysis handbook page](/handbook/product/product-analysis/#office-hours)
+  1. Agenda: [link](https://docs.google.com/document/d/1EdYlCOh29lENz7WB55ONHUohvUeVSXhyCcv-EAfth-I/edit?usp=sharing)
+1. Product Data Insights Office Hours
+  1. See [main Product Data Insights handbook page](/handbook/product/product-analysis/#office-hours)
 
 ## Gearing Ratios
 
 At GitLab, we use gearing ratios as [Business Drivers](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) 
-to forecast long term financial goals by function. The Product Analysis group currently focuses 
-on one gearing ratio: Product Managers per Product Analyst. In the future, we may consider other 
-ratios (ex: Active Experiments per Product Analyst), but for the moment we are focussing on the 
-PM:Product Analyst ratio.
+to forecast long term financial goals by function. The Product Data Insights group currently 
+focuses on one gearing ratio: Product Managers per Product Analyst. In the future, we may 
+consider other ratios (ex: Active Experiments per Product Analyst), but for the moment we are 
+focusing on the PM:Product Analyst ratio.
 
 ### Targets
 
