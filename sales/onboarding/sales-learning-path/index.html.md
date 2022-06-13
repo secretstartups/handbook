@@ -17,7 +17,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 <details>
 <summary markdown="span">1. Welcome to GitLab Sales!</summary>
 
-### 1.[ Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7167664)
+### 1.[ Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/9658516)
 *  **ACTIVITY: Let's Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)**
    - Please complete this brief [google form](https://docs.google.com/forms/d/e/1FAIpQLScXH3QSAcqUP4mRJsqUWbn7BUJS_SYJVjFg2oXqOoOwzBMzLA/viewform) to introduce yourself.
 *  **What is GitLab? (Material - Video, 31 Minutes)**
@@ -251,9 +251,9 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 </details>
 
 <details>
-<summary markdown="span">10. GitLab Customer Support Team</summary> 
+<summary markdown="span">10. GitLab's Customer Support Team</summary> 
 
-### 10. [GitLab Customer Support Team](https://gitlab.edcast.com/insights/gitlab-customer-support)
+### 10. [GitLab's Customer Support Team](https://gitlab.edcast.com/pathways/sales-quick-start/cards/9658642)
 
 - **Review the GitLab Customer Support Documentation (Material - Handbook - 5 minutes)**
   - The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The Support Team Handbook is the central repository that explains our work processes and the reasons behind them. To learn more, check out the [Handbook](/handbook/support/).
