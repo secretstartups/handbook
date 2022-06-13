@@ -194,6 +194,7 @@ have dependencies or been overlooked.
 ## Verification
 The issue verification should be done by someone else other than the MR author[^4].
 
+1. All implementation issues should have verification steps in the description. Our [implementation issue template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Implementation) conveniently provides this section.
 1. When an engineer has merged their work, they should move their issue into the verification status, indicated by the `~workflow:verification` label and wait until they receive notification that their work has been deployed on staging via the release issue email. 
 1. After the engineer has received the notification and verified their work in staging, they leave a comment summarizing the testing that was completed, and unassign themselves from the issue.
 1. Unassigned issues in the `~workflow:verification` state are are assigned randomly by the triage bot based on the [verification policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/container-security/verification.yml).
