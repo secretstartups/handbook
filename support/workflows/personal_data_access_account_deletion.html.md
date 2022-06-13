@@ -190,7 +190,7 @@ If the user passes the challenge questions, proceed with processing their reques
 
   <p>Thank you for stepping in the process with us to verify your account ownership. We have now started the process for the "type of deletion request".</p>
      
-  <p>Please note that it takes up to 30 days for the request to be processed as it's handled by different teams./p>
+  <p>Please note that it takes up to 30 days for the request to be processed as it's handled by different teams.</p>
      
   <p>I will let you know once the deletion process is complete.</p>
 
@@ -199,9 +199,9 @@ If the user passes the challenge questions, proceed with processing their reques
 
 1. In the [gdpr-request issue tracker](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new), create a new confidential issue using one of the following templates, populating the title with the email address of the original request:
 
-    a. [Deletion Meta Issue - Full](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20Full) template for **full deletion**
-    
-    b. [Deletion Meta Issue - GitLab-com](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20GitLab-com) template for **GitLab.com account deletion**
+   a. [Deletion Meta Issue - Full](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20Full) template for **full deletion**
+  
+   b. [Deletion Meta Issue - GitLab-com](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20GitLab-com) template for **GitLab.com account deletion**
 
 1. **Follow the instructions in the top of the template**, then complete each step in the issue that begins with `Support Engineer:` in order.
 
@@ -212,12 +212,12 @@ An overview of this process is outlined in the chart below.
 
 ```mermaid
 graph TD
-A(Valid Request Received)-->B
-B(Perform Account Verification)-->E
-E(User Passed Account Verification Process?)-->|Yes|I
-E-->|No|H
-H(Apply Account Verification Failed Label)
-I(Create Delete Meta Issue)
+    A(Valid Request Received)-->B
+    B(Perform Account Verification)-->E
+    E(User Passed Account Verification Process?)-->|Yes|I
+    E-->|No|H
+    H(Apply Account Verification Failed Label)
+    I(Create Delete Meta Issue)
 ```
 
 #### **Portal Account Deletion Requests**
