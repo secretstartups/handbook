@@ -156,6 +156,8 @@ The GitLab team understands the importance of inclusive interviewing, and we str
     - Sales Development
     - UX
 
+-**We don't ask for your pronouns in the application form**. This information is "sensitive information" according to GDPR and other applicable privacy acts. We encourage our interviewers to utilize Zoom's Pronoun feature and you're welcome to disclose your pronouns in any way you feel comfortable doing so. 
+
 </details>
 
 ## What to Expect During an Interview with a Recruiter
