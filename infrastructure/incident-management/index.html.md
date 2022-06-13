@@ -165,13 +165,33 @@ Production - IMOC" service, or create an incident in [the Pagerduty page for the
 During a Severity 1 Incident there is a lot going on. Here is a checklist of the most important things to keep track of:
 
 1. Ensure the description is updated to include the Overall summary and incident duration.
-1. Notify Infrastructure leadership via PagerDuty [Infrastructure Leadership Escalation](https://gitlab.pagerduty.com/escalation_policies#PO2KR8R) This notification should occur 24/7.
+1. Notify Infrastructure leadership via PagerDuty [Infrastructure Leadership Escalation](https://gitlab.pagerduty.com/escalation_policies#PO2KR8R) This notification should occur 24/7. The Infrastructure Leader responding to this escalation should carry out the responsibilities listed under [Infrastructure Leadership Escalation](/handbook/engineering/infrastructure/incident-management/#infrastructure-leadership-escalation).
 1. Ensure that the root cause is clearly articulated and the appropriate `RootCause::` label is used OR that a clear path of investigation to determine root cause is continuing.
 1. Review that the mitigation steps were reasonable, effective, and don't leave us in a state vulnerable for other problems.
 1. Review that the necessary external communications have been completed (Engage CMOC for this).
 1. Add a summary & link to the [Reliability Standup agenda](https://docs.google.com/document/d/1vww0BfRzHtrGhMppTEw5Q27KSzD1e72dmJ3XoppxC-A/edit#) (internal only)
 1. Ensure that any Sev1/P1 Corrective Actions have clear ownership and engagement.
 1. Ensure that any ongoing effort or oversight by future IM and EOC shifts is supported with handoff notes and sync handoff (if needed).
+
+#### Infrastructure Leadership Escalation
+
+During a verified Severity 1 Incident the IM will page for Infrastructure Leadership.  This is not a substitute or replacement for the active Incident Manager. The Infrastructure Leadership responsibilities include:
+1. Overall evaluation of the incident and further validation of Severity.
+1. Assistance with further support from other teams, including those outside of Engineering (as appropriate)
+1. Posting a notice to e-group slack channel. This notice does not have to be expedited, but should occur once there is a solid understanding of user impact as well as the overall situation and current response activities.  The e-group notice should be in this format
+```     
+:s1: **Incident on GitLab.com**
+**— Summary —**
+(include high level summary)
+**— Customer Impact —**
+(describe the impact to users including which service/access methods and what percentage of users)
+**— Current Response —**
+(bullet list of actions)
+**— Production Issue —**
+ Main incident: (link to the incident)
+ Slack Channel: (link to incident slack channel) 
+```
+1. After posting the notice, continue to engage with the incident as needed and also post updates to a thread of the e-group notification when there are material/significant updates.
 
 ### Communications Manager on Call (CMOC) Responsibilities
 
