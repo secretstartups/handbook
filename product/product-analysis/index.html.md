@@ -378,3 +378,4 @@ Recordings from office hours, analysis/read-outs, etc
 1. [Data Catalog](/handbook/business-technology/data-team/data-catalog/)
 1. [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
 1. [Experimentation Best Practices](/handbook/business-technology/data-team/experimentation-best-practices/)
+1. [Functional Analytics Center of Excellence (FACE) Source of Truth Fields for Reporting](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/)
