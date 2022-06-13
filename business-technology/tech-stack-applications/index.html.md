@@ -102,6 +102,7 @@ Copy the content below and please add your system to the stack in its appropriat
   access_to:
   provisioner:
   deprovisioner:
+  group_owner:
   group_owner_slack_channel:
   business_owner:
   technical_owner:
