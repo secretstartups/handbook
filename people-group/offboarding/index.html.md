@@ -353,6 +353,12 @@ _To be documented_
 
 ## Communicating Departures 
 
+Our goals in communicating offboardings are transparency, and to provide an opportunity for team members to say goodbye. We understand that different individuals are comfortable with different levels of communication and that each offboarding situation has different situations and nuances. For this reason and out of respect for individuals, we have a couple of key guiding principles for communicating offboarding:
+
+1. We _do not require that offboarding messages are communicated broadly_. Offboarding should be communicated where necessary for business continuity (I.E. to immediate team and key stakeholders), but it is up to manager and team member to decide whether they feel comfortable communicating more broadly in our #team-member-updates Slack channel. 
+
+2. Team members and managers have the discretion to determine who shares the news of the team member's offboarding (I.E. team member or manager). Regardless of who shares, it is required that team members review offboarding messaging with their managers prior to sharing.
+
 Depending on the team members’ role, timing of communication may vary (e.g. direct team, key stakeholders, etc.), and managers have discretion to determine who should be informed most immediately. The typical order followed for communicating departures is:
 
 ### 1. Inform Direct Team
@@ -377,15 +383,18 @@ In most cases, managers communicate team member departures to key stakeholders.
 
 ### 3. Announce In #team-member-updates
 
-As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md), GitLab does not provide any context around why people are leaving when they do.
-However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can work with their manager on sharing a company-wide message about their departure. 
+As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md), GitLab is not always able to provide full context on why people are leaving when they do.
 
-Once the news has been shared with the team member’s team and other stakeholders, and messaging is agreed upon between the departing team members and their manager, the departing team member’s manager shares the following message company-wide about the team member’s upcoming departure in the `#team-member-updates` Slack channel. 
-Managers can use this template as a guide on how to communicate a team member’s upcoming departure:
+However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can work with their manager on messaging to share a company-wide message about their departure. 
+
+Once the news has been shared with the team member’s team and other stakeholders, and messaging is agreed upon between the departing team members and their manager, the departure message can be shared in the `#team-member-updates` Slack channel. 
+Managers and team members can optionally leverage this template as a guide on how to communicate a team member’s upcoming departure:
 
 ```
 I want to share that [team member’s name] ([group] [role]) will be leaving GitLab, and [his/her/their] last day is (date of their last day). (Context to add about the team member’s time at GitLab - examples: their favorite contribution to the handbook or they can use the update to express gratitude towards teams and individuals that have made their experience at GitLab positive.) I would like to take this opportunity to thank (team member's name) for their contributions and wish them all the best for the future. If you have questions about tasks or projects that need to be picked up, please let me know. If you have concerns, please bring them up with your manager. To keep in touch with (team member's name) he/she/they can be reached at (contact info - e.g. LinkedIn, email, etc.)
 ```
+
+There will be situations in which team members prefer to share their offboarding message, and situations in which managers prefer to do so. Either is ok, **so long as team member and manager have reviewed the messaging together prior to posting**. 
 
 If someone is let go involuntarily, this generally cannot be shared since it affects the individual's privacy and job performance is intentionally kept [between an
 individual and their manager](/handbook/communication/#not-public).
