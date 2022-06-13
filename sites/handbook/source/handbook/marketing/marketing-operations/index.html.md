@@ -39,7 +39,7 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | [Nikki Roth](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Gillian Murphy](https://gitlab.com/gillmurphy) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Jenny Tiemann](https://gitlab.com/jennyt) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
-| [Salina Tran](https://gitlab.com/stran5 | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Salina Tran](https://gitlab.com/stran5) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Associate](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
 | [Robert Rosu](https://gitlab.com/RobRosu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
 | [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
