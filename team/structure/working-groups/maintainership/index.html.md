@@ -59,6 +59,11 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | 4  |  TBD       | TBD            | @alexives | [Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) |
 | 5  |  2022-06-01       | TBD            | @sabrams | [Develop and implement a communication plan for Maintainership changes](https://gitlab.com/groups/gitlab-com/-/epics/1813) |
 
+### Data and dashboards
+- [Reviewer/Maintainer availability and capacity](https://app.periscopedata.com/app/gitlab/1028635/Reviewer-Maintainer-Availability-and-Capacity) - Shows the maintainer/reviewer availability rate over time and incoming/forecasted review requests
+- [Maintainer WG dashboard](https://app.periscopedata.com/app/gitlab/1020829/Maintainer-WG) - A sandbox dashboard for metrics related to the working group
+- [Maintainers and Trainees](/handbook/engineering/development/performance-indicators/#maintainers-and-trainees)
+- [Maintainers per MR](/handbook/engineering/development/performance-indicators/#maintainers-per-mr)
 
 ### Roles and Responsibilities
 
