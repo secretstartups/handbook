@@ -37,15 +37,16 @@ Embracing asynchronous communication and learning to use it effectively requires
 
 If you see something that concerns you in Slack, Issues, Merge Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss.
 
-## Communicating Potentially Sensitive Topics 
+## Communicating Potentially Gitlab Sensitive Topics
 
-As GitLab matures, we want to continue to foster discussion while evolving our communication guidelines so that topics that are potentially sensitive are discussed in appropriate forums. This is particularly relevant as team members heavily leverage async modes of communication including merge requests, issues and epics, and in Slack communication. 
+(This guidance supplements and overlaps with [GitLab's SAFE Framework](/handbook/legal/safe-framework/), the guidance on the use of [the internal handbook](/handbook/handbook-usage/#the-internal-handbook), and the additional guidance on this page. We ask our team members to consider the factors below in their communication. )
+
+As GitLab matures, we want to continue to foster discussion while evolving our communication guidelines so that topics that are potentially GitLab sensitive are discussed in appropriate forums. This is particularly relevant as team members heavily leverage async modes of communication including merge requests, issues and epics, and in Slack communication. 
 
 Words have impact long after they are written, and even when you're communicating internally, the manner in which you speak with one another should be viewed through an external lens.  For additional information, please review our [Guidelines for communicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/).
 
-This guidance supplements and overlaps with [GitLab's SAFE Framework](/handbook/legal/safe-framework/), the guidance on the use of [the internal handbook](/handbook/handbook-usage/#the-internal-handbook) and the additional guidance on this page. We ask our team members to consider the factors below in their communication. 
 
-### Examples of Potentially Sensitive Topics
+### Examples of Potentially Gitlab Sensitive Topics
 
 1. Team member data (individual performance, start dates, departures)
 1. Violations, or potential violations, of policies and/or local rules and regulations
@@ -57,26 +58,26 @@ The above examples overlap with the [GitLab's SAFE Framework](/handbook/legal/sa
 ### What are the risks? 
 
 1. **Legal risk:** These are the risks that arise from regulations and laws that govern GitLab or the market in which it operates. This includes content that would compromise a GitLab team member, customer, or user's personal data and/or privacy. 
+1. **Morale risk:** Raising GitLab sensitive topics that may be misinterpreted without the opportunity to ask clarifying questions can create risk to team culture and/or morale. 
 1. **PR risk:** Remember that anything you document could ultimately be shared/viewed externally. 
-1. **Morale risk:** Raising sensitive topics that may be misinterpreted without the opportunity to ask clarifying questions can create risk to team culture and/or morale. 
 
 We encourage communicating risks to GitLab, its team members, or customers in a synchronous 1:1 setting.
 
 ### Determining Which Communication Forum To Use
 
-The table below outlines an overview of different communication forums at GitLab, and considerations team members should think through related to potentially sensitive topics when determining which forum to leverage.
+The table below outlines an overview of different communication forums at GitLab, and the considerations team members should think through related to potentially GitLab Sensitive topics when determining which forum to leverage.
 
 | Communication Forum | When To Utilize |
 | ---------- | ---------- |
-| Use [the internal Handbook](/handbook/handbook-usage/#the-internal-handbook) aligned with the guidelines | When you want to share information between team members when it is [internal-only](handbook/communication/#internal), including [not public](/handbook/communication/#not-public) and not [limited access](/handbook/communication/#limited-access) |
+| Use [the internal Handbook](/handbook/handbook-usage/#the-internal-handbook) aligned with the guidelines | When you want to document information for team members that is [internal-only](handbook/communication/#internal), including [not public](/handbook/communication/#not-public) and not [limited access](/handbook/communication/#limited-access) |
 | External MR/issue (not confidential) | For discussion and collaboration when there is no risk suspected or identified (directly or later) and it doesn't fall into [not public](/handbook/communication/#not-public) category |
 | Internal MR/ confidential issue | For discussion and collaboration when there is no risk suspected or identified but adhering to things that are [internal-only](/handbook/communication/#internal), [not public](/handbook/communication/#not-public), SAFE Framework/General Communication Guidelines |
 | Your Manager, DRI and/or Legal | For discussion and collaboration when in doubt about potential risk and you want to review if there’s a potential risk |
-| DRI | For discussion and collaboration when there's a risk suspected or identified, communicate directly with the DRI verbally via Zoom. Example of issues where Limited Access applies or it covers a change to People Process/policy |
-| People Group (your People Business Partner or Team Member Relations) |  For discussion and collaboration when there's a risk suspected or identified, a policy violation, and/or it's a private matter |
-| [GitLab's Whistleblower policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) | For flagging a situation that is a violation as set out in the policy. |
+| DRI | For discussion and collaboration when there's a risk suspected or identified, communicate directly with the DRI verbally via Zoom. Examples include issues where Limited Access applies or it covers a change to People Process/policy. |
+| People Group (your People Business Partner or Team Member Relations) | For discussion and collaboration when there's a risk suspected or identified, a policy violation, and/or it's a private matter |
+| [GitLab's Whistleblower policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) | For flagging a situation that is a violation as set out in the policy |
 
-When in doubt, you can reach out to your People Business Partner and/or your  leadership team  directly.
+When in doubt, you can reach out to your People Business Partner and/or your leadership team  directly.
 
 ## External communication
 
