@@ -11,20 +11,20 @@ title: "Coaching"
 
 ## Introduction to coaching
 
-On this page, we are going to review the GitLab coaching framework and approach for people leaders and direct reports to apply during coaching conversations with their team. Use this page as a guide to starting and executing a coaching conversation. 
+This page outlines the GitLab coaching framework and approach for people leaders and direct reports to apply during coaching conversations with their team. Use this page as a guide to starting and executing a coaching conversation. 
 
 ## Coaching at GitLab
 
 Coaching conversations are fluid, dynamic acts of co-creation where the coach and the coachee are equal partners. The GitLab coaching framework has both a coach and coachee side, and each side is a reflection of the other. Coaching is an important component of our [360 review process](/handbook/people-group/360-feedback/) and for [guidance on feedback](/handbook/people-group/guidance-on-feedback/). Coaching can occur during 
-[one-on-one meetings](/handbook/leadership/1-1/) or at any time. It is an important component of [career development](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1), [leading teams](/handbook/leadership/managing-conflict/leading-through-adversity/), [building an inclusive culture](https://about.gitlab.com/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers), [mentoring](/handbook/engineering/career-development/mentoring/), and much more. 
+[one-on-one meetings](/handbook/leadership/1-1/) or at any time. It is an important component of [career development](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1), [leading teams](/handbook/leadership/managing-conflict/leading-through-adversity/), [building an inclusive culture](/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers), [mentoring](/handbook/engineering/career-development/mentoring/), and much more. 
 
 ## Selecting a coach
 
 There are various ways to find a coach at GitLab:
-* [Modern Health](/handbook/total-rewards/benefits/modern-health/), our Employee Assistance Program provides professional coaching to support development areas on the feedback you receive. 
-* Consider a senior to you in your larger team or someone outside of your team that has inspired you on the specific areas you are working and developing on. 
-* Your current Manager can be a coach that steers you towards future goals. Please ensure that your Manager can take you on in a coaching capacity. However, coaching can also be a type of interaction you have with your Manager during 1:1 discussions. 
-* When you've identified a coach, consider using the [Growth & Development benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#stq=Coaching&stp=1) to pay for professional coaching
+1. Professional coaching by external coaches is offered for managers and IC's Job Grade 8 and above using the [Growth and Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements).
+1. [Modern Health](/handbook/total-rewards/benefits/modern-health/), our Employee Assistance Program provides professional coaching to support development areas on the feedback you receive. 
+1. Consider a senior to you in your larger team or someone outside of your team that has inspired you on the specific areas you are working and developing on. 
+1. Your current Manager can be a coach that steers you towards future goals. Please ensure that your Manager can take you on in a coaching capacity. However, coaching can also be a type of interaction you have with your Manager during 1:1 discussions. 
 
 ## How coaches coach
 
@@ -41,7 +41,7 @@ Key attributes of a coach include some of the following:
 
 ### Different hats for different conversations
 
-When we think about coaching as a mode of conversation, you may also be thinking about all the other modes of conversation you might use as a [leader](/handbook/leadership/) in multiple types of roles. You may be a team lead running an engineering program. You may be managing [one of our TMRG's](https://about.gitlab.com/company/culture/inclusion/erg-guide/). You may [be a mentor](/handbook/engineering/career-development/mentoring/) or [a buddy](/handbook/people-group/general-onboarding/onboarding-buddies/). You are also most likely a direct report of someone else. Whatever it is, you can flex your leadership style and adopt different approaches to engage in meaningful conversations. You can think of this as wearing "different hats."
+When we think about coaching as a mode of conversation, you may also be thinking about all the other modes of conversation you might use as a [leader](/handbook/leadership/) in multiple types of roles. You may be a team lead running an engineering program. You may be managing [one of our TMRG's](/company/culture/inclusion/erg-guide/). You may [be a mentor](/handbook/engineering/career-development/mentoring/) or [a buddy](/handbook/people-group/general-onboarding/onboarding-buddies/). You are also most likely a direct report of someone else. Whatever it is, you can flex your leadership style and adopt different approaches to engage in meaningful conversations. You can think of this as wearing "different hats."
 
 You may wear multiple hats in any given day: 
 
@@ -147,7 +147,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
 <details>
 <summary>Encouragement</summary>
 
-  Encourage and show enthusiasm by identifying strengths in the coachee to build trust. Be open and ground yourself in individual team member strengths. Reflect on what you noticed and determine the impact on the coachee to see that the <a href="https://about.gitlab.com/handbook/people-group/guidance-on-feedback/">feedback</a> has landed.<br>
+Encourage and show enthusiasm by identifying strengths in the coachee to build trust. Be open and ground yourself in individual team member strengths. Reflect on what you noticed and determine the impact on the coachee to see that the <a href="/handbook/people-group/guidance-on-feedback/">feedback</a> has landed.<br>
 
   <p>
     <b>When to Encourage</b>
@@ -164,7 +164,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
     <ul>
     <li>Acknowledging: Focuses on the coachee - who they are as a person and what they have done in their life, their inner character. Make the coachee feel unique and that you recognize what sets them apart.</li>
     <li>Appreciating: Focuses on the positive impact and contribution of the deed to others.</li>
-    <li>Praising: Focuses on the deed, what people do - <a href="/handbook/values/#results">results</a>, <a href="/handbook/values/#transparency">transparency</a>, <a href="/handbook/values/#efficiency">efficiency</a>, <a href="https://about.gitlab.com/company/culture/inclusion/">inclusion</a>, and performance. </li>
+    <li>Praising: Focuses on the deed, what people do - <a href="/handbook/values/#results">results</a>, <a href="/handbook/values/#transparency">transparency</a>, <a href="/handbook/values/#efficiency">efficiency</a>, <a href="/company/culture/inclusion/">inclusion</a>, and performance. </li>
   </ul>
   </p>
 
