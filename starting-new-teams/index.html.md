@@ -45,10 +45,8 @@ A Fullstack Team has Frontend, Backend, and/or Fullstack engineers lead by a Ful
 Examples of Fullstack Teams:
 
 - [Package Team](/handbook/engineering/development/ops/package/)
-- [Activation Team](/handbook/engineering/development/growth/activation/)
-- [Adoption Team](/handbook/engineering/development/growth/adoption/)
-- [Conversion Team](/handbook/engineering/development/growth/conversion/)
-- [Expansion Team](/handbook/engineering/development/growth/expansion/)
+- [Acquisition Team](/handbook/engineering/development/growth/acquisition/)
+- [Activation Team](/handbook/engineering/development/growth/adoption/)
 - [Geo Team](/handbook/engineering/development/enablement/geo/)
 
 ## Team Page Template
