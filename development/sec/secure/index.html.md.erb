@@ -32,11 +32,18 @@ The Secure team works on GitLab's [Secure stage].
 
 [Secure stage]: /stages-devops-lifecycle/secure/
 
+## Sub-department development people leaders
+
+<%=
+  departments = ['Secure']
+  department_regexp = /(#{Regexp.union(departments)})/
+
+  direct_team(role_regexp: department_regexp, manager_slug: 'waynehaber')
+%>
+
 ## Team Members
 
 The following people are permanent members of the Secure Sub-Department:
-
-<%=  direct_team(role_regexp: /(Director|Distinguished).*[,&] Secure/, manager_role: 'Director of Engineering, Secure') %>
 
 ### [Composition Analysis](composition-analysis/)
 
@@ -44,7 +51,7 @@ The following people are permanent members of the Secure Sub-Department:
 
 ### [Static Analysis](static-analysis/)
 
-<%=  direct_team(role_regexp: /Engineer/, manager_slug: 'danielsearles') %>
+<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Engineering Manager, Secure:Static Analysis') %>
 
 ### [Dynamic Analysis](dynamic-analysis/)
 
@@ -66,8 +73,21 @@ The following people are permanent members of the Secure Sub-Department:
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Secure/, direct_manager_role: nil, other_manager_roles: ['Backend Engineering Manager, Secure:Static Analysis',
-'Acting Backend Engineering Manager, Secure:Static Analysis', 'Backend Engineering Manager, Secure:Dynamic Analysis', 'Backend Engineering Manager, Secure:Composition Analysis', 'Frontend Engineering Manager, Secure', 'Frontend Engineering Manager, Secure:Threat Insights, Protect:Container Security', 'Backend Engineering Manager, Secure:Threat Insights, Protect:Container Security', 'Director of Engineering, Secure']) %>
+<%= stable_counterparts(
+      role_regexp: /[,&] Secure/,
+      direct_manager_role: nil,
+      other_manager_roles: [
+        'Engineering Manager, Secure:Static Analysis',
+        'Backend Engineering Manager, Secure:Dynamic Analysis',
+        'Backend Engineering Manager, Secure:Composition Analysis',
+        'Frontend Engineering Manager, Secure:Threat Insights, Protect:Container Security',
+        'Backend Engineering Manager, Secure:Threat Insights, Protect:Container Security',
+        'Senior Engineering Manager Secure Analyzers',
+        'Senior Engineering Manager, Anti-Abuse, Growth, Protect and Secure',
+        'Director of Engineering for Growth, Sec, and ModelOps'
+      ]
+    )
+%>
 
 ## Secure Team
 
