@@ -16,17 +16,6 @@ As the GitLab.com Incident [Communications Manager on Call (CMOC)](/handbook/eng
 
 Our Slack bot [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) provides a command (`/incident post-statuspage`) to quickly spin up an incident on [Status.io](https://status.io). From there, the basics of how to update and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. This document covers how GitLab specifically uses Status.io to perform those tasks.
 
-### CMOC Performance Indicators
-{:.no_toc}
-
-Success as a CMOC is determined by the following performance indicators:
-- **Time to Acknowledge PagerDuty Pages**: Acknowledge all PagerDuty notifications within 15m and join the incident bridge. See [Acknowledge the PagerDuty Page](#acknowledge-the-pagerduty-page)
-- **Frequency between status updates**: Post status page updates according to severity at documented intervals or other cadence if so communicated. See [Frequency of Updates](#frequency-of-updates).
-- **Stakeholder communication threads created per incident**: Communicate incident existence to stakeholders according to the documented process. See: [Notify Stakeholders](#notify-stakeholders).
-- **Handover issue created after a shift**: At the end of every shift, create a handover issue to prepare the incoming CMOC. See: [End of Shift Handover Procedure](#end-of-shift-handover-procedure)
-- **Contact requests opened during shift per completed contact request issue**: Complete, handover or otherwise communicate plan to complete all incoming contact requests. See: [About Contact Requests](#about-contact-requests)
-- **Participation in one training event per quarter**: Join at least one incident or participate in (or organize) a training activity. See: [CMOC Training Activities](#cmoc-training-activities)
-
 ## Things to Know
 
 Before getting started, take note of the following sections or to get straight into the workflow start at [Incident Management](#incident-management).
@@ -111,57 +100,47 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 
 - If you really don't know, it really is okay to ask!
 
-### About Zendesk
-
-#### Finding Related Tickets
-{:.no_toc}
-
-In some circumstances, the Incident Manager may ask you to find the number of tickets that an incident may have raised in order to evaluate the impact of the incident.
-
-Because the default views will only show unassigned tickets in your region, start with using this [Zendesk Search](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=created%3E4hours%20order_by%3Acreated_at%20sort%3Adesc%20group%3Anone%20group%3A%22support%22%20-form%3Abilling%20-form%3Asecurity) to find all recent tickets.
-
-Alternatively, you can paste the following search string into the Zendesk search bar (useful if you are using Zendesk Quicktab extension): `created>4hours order_by:created_at sort:desc group:none group:"support" -form:billing -form:security`
-
-This shows new tickets created in the previous 4 hours - change the range if the incident began earlier than that.
-
-#### Tagging Tickets
-{:.no_toc}
-
-If there is any customer contact regarding an incident regardless of severity, you should create an incident tag in Zendesk as soon as possible. You can check for customer tickets by using the tips above, by scanning the FRT & Free ticket queue and validating the tickets, or by asking the wider Support team. You can create a tag on a ticket directly by finding the `tags` field and using the format `com_incident_####`. Replace #### with the production incident number of the issue. Once you've added the tag, submit the ticket with an appropriate `Incident First Response` macro and the tag will become available to use on other tickets.
-
-Tagging tickets can be done throughout the incident process but the CMOC should check the queue for accurate tagging during the incident resolution stage. The tagging of tickets is useful for gauging support impact, ease of finding related tickets for active incident troubleshooting, and ease of finding related tickets for historical reference.
-
-For details on tagging and tracking incidents, please see [Tracking Incidents](tracking_incidents.html) workflow.
-
 ### About Contact Requests
 
 Whether related to an ongoing incident or not, Infrastructure or Security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [Sending Notices](sending_notices.html) workflow to action these requests.
 
-### How to page the CMOC?
+### How to Page the CMOC?
 
-You can page the CMOC even after incident creation. To engage the CMOC please follow the steps outlined in [How to engage the CMOC?](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#how-to-engage-the-cmoc) handbook section.
+The CMOC can be paged during the [incident declaration process](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident). If the CMOC needs to be paged after an incident was created or for any other reason, see the [How to engage the CMOC?](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#how-to-engage-the-cmoc) section of the main incident management handbook.
+
+### CMOC Performance Indicators
+
+Success as a CMOC is determined by the following performance indicators:
+
+- **Time to Acknowledge PagerDuty Pages**: Acknowledge all PagerDuty notifications within 15m and join the incident bridge. See [Acknowledge the PagerDuty Page](#acknowledge-the-pagerduty-page)
+- **Frequency between status updates**: Post status page updates according to severity at documented intervals or other cadence if so communicated. See [Frequency of Updates](#frequency-of-updates).
+- **Stakeholder communication threads created per incident**: Communicate incident existence to stakeholders according to the documented process. See: [Notify Stakeholders](#notify-stakeholders).
+- **Handover issue created after a shift**: At the end of every shift, create a handover issue to prepare the incoming CMOC. See: [End of Shift Handover Procedure](#end-of-shift-handover-procedure)
+- **Contact requests opened during shift per completed contact request issue**: Complete, handover or otherwise communicate plan to complete all incoming contact requests. See: [About Contact Requests](#about-contact-requests)
+- **Participation in one training event per quarter**: Join at least one incident or participate in (or organize) a training activity. See: [CMOC Training Activities](#cmoc-training-activities)
 
 ## Incident Management
 
-As the CMOC you'll guide the incident through the following three stages.
+As the CMOC you'll guide the incident through the following stages.
 
-1. Stage 1: **Incident Creation** - Creating the incident in Status.io, joining the incident Zoom call, and [notifying stakeholders](#notify-stakeholders).
-1. Stage 2: **Updating Incidents** - Following along with the work being performed by the EOC and any assisting engineers to resolve the incident and making updates to Status.io along the way while adhering to the [Frequency of Updates](#frequency-of-updates) schedule. We may also be going through the Zendesk queue replying to incident tickets and tagging them.
-1. Stage 3: **Incident Resolution** - Setting the incident to **Monitoring** in Status.io for a period of time to ensure that the issue does not recur before we close it out, eventually setting the incident to **Resolved**, and adding a link to the post-mortem issue in Status.io. In certain cases we may be asked to skip the monitoring period and move straight to **Resolved**.
+1. **Stage 1: Engage** - Creating the incident in Status.io, joining the incident Zoom call, [notifying stakeholders](#notify-stakeholders), and labeling the incident issue.
+1. **Stage 2: Manage** - Following along with the work being performed by the EOC and any assisting engineers to resolve the incident while making updates to Status.io along the way while adhering to the [Frequency of Updates](#frequency-of-updates) schedule in addition to creating a tag for the incident in Zendesk, and tagging and replying to tickets.
+1. **Stage 3: Monitor (Situational)** - Setting the incident to **Monitoring** in Status.io for a period of time to ensure that the issue does not recur before we close it out. This stage may be skipped at the request of the Incident Manager.
+1. **Stage 4: Resolve** -  Setting the incident to **Resolved**, adding a post-mortem link in Status.io, and ensuring that there are no remaining Zendesk tickets that need tagging and a response.
 
 The following sections outline how to perform each of the steps within these stages.
 
-### **Stage 1: Incident Creation**
+### **Stage 1: Engage**
 
-The following steps should be taken immediately after receiving a PagerDuty page for an incident.
+Perform all of the following steps in order immediately after receiving a PagerDuty page.
 
 #### Acknowledge the PagerDuty Page
 
-We mark the PagerDuty page as [acknowledged](#pagerduty-status-definitions) immediately upon receiving it. Acknowledge the page through the mobile app, web interface or PagerDuty App in the `#support_gitlab-com` Slack channel.
+Mark the page as [acknowledged](#pagerduty-status-definitions). This can be done through the mobile app, web interface or PagerDuty App in the `#support_gitlab-com` Slack channel.
 
 #### Join Incident Channel & Zoom
 
-Before you create an incident in Status.io you should join the incident Zoom call. A link to the call is provided in the incident declaration post by Woodhouse in `#incident-management`.
+A link to the call is provided in the incident declaration post by Woodhouse in `#incident-management`.
 
 Your role while on the call is to follow along while the incident is worked and make updates to Status.io either when asked to or when it's necessary. Oftentimes chatter in this room will be lively, especially in the early stages of an incident while the source of the issue is being discovered. Use your best judgment on when it's appropriate to speak up to avoid vocalizing at inopportune times. You can always ping anyone on the call through Slack if you need to ask a non-urgent question about the situation.
 
@@ -197,7 +176,7 @@ A better response would be to assume that an action was requested, relay your in
 
 You can create an incident on Status.io with minimal effort through Slack (provided by Woodhouse) **OR** manually if need be (e.g., Slack is down or you need to customize the incident more than what the Slack form allows).
 
-##### Slack (provided by Woodhouse)
+#### Slack (provided by Woodhouse)
 {:.no_toc}
 
 You simply need to issue `/incident post-statuspage` from anywhere on Slack. You will be presented with a pre-filled form that you can update to your liking. Once submitted, the incident will be broadcasted to the following media:
@@ -211,7 +190,7 @@ You simply need to issue `/incident post-statuspage` from anywhere on Slack. You
 - [RSS feed](https://status.gitlab.com/pages/5b36dc6502d06804c08349f7/rss)
 - [iCalendar](webcal://status.gitlab.com/pages/5b36dc6502d06804c08349f7/calendar/all.ics)
 
-##### Manually
+#### Manually
 {:.no_toc}
 
 After logging in to Status.io you'll be met with the dashboard that displays various statistics about our current status. Create a new incident by clicking `New Incident` along the top bar.
@@ -254,17 +233,21 @@ shadow}
 
 #### Label Incident Issue
 
+1. Add the `~Incident-Comms::Status-Page` scoped label to the incident issue.
+
 It is important that we are able to differentiate incidents which included outbound status page and related notifications from those incidents which were deemed less impactful to our customers. This can be useful both in filtering for active incidents which include outbound notification as well as for after-incident reporting.
 
-Whenever a GitLab service incident includes the use of a status page incident this should be identified on the GitLab Incident Issue. See this, and other uses of this scoped label in the [Incident Management section of the handbook](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#labeling).
-
-1. Add the `~Incident-Comms::Status-Page` scoped label to the incident issue.
+Whenever a GitLab service incident includes the use of the status page, this should be identified on the incident issue in GitLab. See this, and other uses of this scoped label in the [Incident Management section of the handbook](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#labeling).
 
 #### Resolve the PagerDuty Page
 
-We mark the PagerDuty page as [resolved](#pagerduty-status-definitions) once everything in Stage 1 has been completed. Resolve the page through the mobile app, web interface or PagerDuty App in the `#support_gitlab-com` Slack channel.
+We mark the PagerDuty page as [resolved](#pagerduty-status-definitions) once every other task in this stage has been completed. Resolve the page through the mobile app, web interface or PagerDuty App in the `#support_gitlab-com` Slack channel.
 
-### **Stage 2: Updating Incidents**
+### **Stage 2: Manage**
+
+After all [Stage 1](#stage-1-engage) tasks have been complete we will manage the incident by making updates to it, creating a tag for it in Zendesk, and responding to any tickets in Zendesk that are related to it.
+
+#### Update Incident
 
 To publicly communicate attention and progress incidents should be updated according to the [frequency of incident updates table](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates) unless you communicate otherwise.
 
@@ -297,21 +280,32 @@ to change them. It is very similar to [adding Post-Mortem](#add-post-mortem).
 
 After publishing the update, visit the live status page to verify that the update went through and looks clear.
 
-### **Stage 3: Incident Resolution**
+#### Create Zendesk Tag
 
-When it comes time to close an incident out as resolved, the following flow is usually used.
+In order to track tickets submitted through Zendesk that relate to an incident, we need to create a [tag](https://support.zendesk.com/hc/en-us/articles/4408888664474-About-tags). To create a tag:
 
-1. Switch to a monitoring state for a time.
-1. Resolve the incident.
-1. Add a link to the production issue to the post-mortem section of the incident.
+1. Create or edit a ticket.
+1. Start typing the name of the new tag in the `Tags` field.
+1. Hit `Enter`.
+1. Submit the ticket, either with a response included or not.
 
-As noted in the specific sections below, some of these steps are situational and may not be used for every incident.
+The tag will now be available to use on other tickets. All tags that relate to incidents should be in the format `com_incident_####` with `####` being the incident number, which can be found in the incident issue.
 
-#### Begin Monitoring (Situational)
+#### Monitor Zendesk
 
-Once the component affected by the incident has returned to operating normally we will often switch the incident over to a monitoring period to ensure that the problem does not recur. The monitoring period typically lasts for 30 minutes by default, but it can vary and a different amount of time may be requested by the Incident Manager. **It may also be requested that the monitoring period be skipped entirely.**
+While in the `Manage Incident` stage, routinely monitor Zendesk for new and existing tickets related to the incident and proceed to tag and respond to them. Use [this Zendesk search](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=created%3E4hours%20order_by%3Acreated_at%20sort%3Adesc%20group%3Anone%20group%3A%22support%22%20-form%3Abilling%20-form%3Asecurity) to view all new tickets created in the last four hours. Alternatively, paste the following into the Zendesk search bar.
 
-If a monitoring period will be used simply edit the incident, and configure the update similar to the following.
+```plain
+created>4hours order_by:created_at sort:desc group:none group:"support" -form:billing -form:security
+```
+
+Adjust the `4` if the incident began earlier than four hours ago.
+
+### **Stage 3: Monitor (Situational)**
+
+After the incident has been mitigated, we'll often begin a monitoring period to ensure that we do not see a recurrence of the issue. Monitoring typically lasts for 30 minutes, but it can vary and a specific amount of monitoring time may be requested by the Incident Manager. They **may also request that the monitoring stage be skipped entirely.** If this is the case, proceed directly to [Stage 4](#stage-4-resolve).
+
+To begin monitoring, edit the incident and configure the update similar to the following.
 
 ![Switch to monitoring](/images/support/cmoc_monitoring_stage.png){: .shadow}
 
@@ -320,13 +314,19 @@ Take special note of the changes made to the following fields at this stage.
 1. `Current State` - Change to `Monitoring`.
 1. `Details` - Along with any information specific to the incident be sure to mention that all systems have returned to normal operation, that we're monitoring in order to ensure the issue doesn't recur, and provide an estimate for how long we'll be monitoring before we resolve the incident. For example:
 
-   > *While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational.*
+   > _While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational._
 
 1. `Incident Status` - At this point, the affected component should be back to normal operation. However, to be clear that we're still in the incident management process we will **not** flip this back to `Operational` until we leave the monitoring state.
 
+If at any point during the monitoring period we see a recurrence of the issue, return to [Stage 2](#stage-2-manage). If the monitoring period completes with no recurrence of the issue, proceed to [Stage 4](#stage-4-resolve).
+
+### **Stage 4: Resolve**
+
+After we have completed the monitoring period, or if the monitoring period was skipped, we will now close the incident, add a link to the post-mortem section of the incident, and check Zendesk for any remaining tickets that need tagging and a response.
+
 #### Resolve Incident
 
-Once we're confident that systems have returned to normal operation, **the Incident Manager has given the all-clear**, and we've completed a monitoring period (if we chose to) of the incident we should mark it as resolved.
+Once we've confirmed that the issue has been resolved and **the Incident Manager has given the all-clear**, we will close the Status.io incident.
 
 Once these conditions are met, make an update to the incident and change the following fields.
 
@@ -356,6 +356,10 @@ Do the following to add a post-mortem to a resolved incident:
 1. Click `Add Post-Mortem` and supply the link to the issue being used for the incident review, this is usually the same issue that was opened for the incident.
 
    ![Add post-mortem link](/images/support/cmoc_add_post_mortem.png){: .shadow}
+
+#### Check Zendesk
+
+As a final step, perform one more check of Zendesk and ensure that there are no remaining tickets that need to be tagged and responded to. Refer back to the [Monitor Zendesk](#monitor-zendesk) section for how to do this.
 
 ## Maintenance Management
 
@@ -423,6 +427,7 @@ The [CMOC Shadow Schedule](https://gitlab.pagerduty.com/schedules#PQBZCSY) can t
 A "training activity" for CMOCs is an activity under which CMOCs are exposed to items in the workflow with the expressed purpose of maintaining or increasing performance against [CMOC performance indicators](#cmoc-performance-indicators).
 
 Some example training activities are:
-- tabletop exercises
-- a "CMOC Squawk" in which CMOCs in a region synchronously or asynchronously discuss process improvements, tips and tricks
+
+- Tabletop exercises
+- A "CMOC Squawk" in which CMOCs in a region synchronously or asynchronously discuss process improvements, tips and tricks
 - Being the CMOC or shadowing an actual incident: real life training is training too!
