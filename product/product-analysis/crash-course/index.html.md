@@ -22,7 +22,7 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 
 ## Helpful places to start
 
-* [Internal handbook performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/) - This internal handbook page is a great place to understand the PIs for each Stage / Group to understand what results each team is trying to acheive.
+* [Internal handbook performance indicators (PIs)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/) - This internal handbook page is a great place to understand the PIs for each Stage / Group to understand what results each team is trying to acheive.
 
 * [Sisense Usage Insights](https://app.periscopedata.com/app/gitlab/1013112/Sisense-Usage-Insights) is a Dashboard that provides a high level analysis of most commonly used Sisesnse Dashboards, Data Sources, and Snippets.
 
