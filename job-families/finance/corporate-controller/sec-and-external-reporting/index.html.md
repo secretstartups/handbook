@@ -40,9 +40,9 @@ The Manager, SEC reports to the Director, SEC.
 
 #### Manager, SEC Job Grade
 
-* The SEC Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The SEC Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, SEC Responsibilities
+#### Manager, SEC
 
 * Lead the preparation of the Company’s financial statements and SEC filings, including Forms 10-Q, 10-K, 8-K and proxy
 * Coordinate the review of SEC filings with external auditors, outside legal counsel, accounting staff, and executive management
@@ -55,7 +55,7 @@ The Manager, SEC reports to the Director, SEC.
 * Develop formal Company-wide accounting policies to ensure alignment with business and relevant accounting guidance
 * Assist with month-end close activities and monthly financial package
 
-#### Manager, SEC Requirements
+#### Manager, SEC
 
 * Leadership and management experience preferred
 * Proven ability to collaborate cross-functionally with multiple departments across the organization
@@ -64,6 +64,40 @@ The Manager, SEC reports to the Director, SEC.
 * CPA
 * Relevant years of Big 4 public accounting experience, +industry experience 
 * Ability to use GitLab
+
+### Senior Manager, SEC and Technical Reporting
+
+The Senior Manager, SEC and Technical Reporting reports to the Director, SEC.
+
+#### Senior Manager, SEC and Technical Reporting Job Grade
+
+The Senior Manager, SEC and Technical Reporting is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Manager, SEC and Technical Reporting Responsibilities
+
+* Lead the preparation of the Company’s financial statements and SEC filings, including Forms 10-Q, 10-K, 8-K and proxy
+* Coordinate the review of SEC filings with external auditors, outside legal counsel, accounting staff, and executive management
+* Develop and maintain effective internal controls in relation to the Financial External Reporting process (SOX compliance)
+* Must take initiative and ready to guide the business for best industry practices around non-GAAP metrics, etc
+* Lead the evaluation and adoption of accounting standard updates, including drafting and maintaining relevant accounting policies.
+* Lead the preparation of accounting memos for the Company's accounting position on complex technical nonroutine transactions.
+* Manage the preparation and maintain support for all areas of our external reporting process, including the Statement of Cash Flows, Statement of Stockholders’ Equity, EPS calculations, and Share-Based Compensation
+* Review earnings releases, earnings scripts and investor presentations
+* Partner with external auditors on business transactions to ensure accounting issues are properly concluded
+* Develop formal Company-wide accounting policies to ensure alignment with business and relevant accounting guidance
+* Assist with month-end close activities and monthly financial package
+
+
+#### Senior Manager, SEC and Technical Reporting Requirements
+
+* Relevant work experience with a Bachelor’s Degree or at least 6-8 years of work experience
+* Proven ability to collaborate cross-functionally with multiple departments across the organization
+* Experience coaching other team members for technical accounting areas
+* Extends that of the Manager, SEC Requirements
+CPA
+* Relevant years of Big 4 public accounting experience, industry experience
+* Ability to use GitLab
+
 
 ### Director, Record to Report
 
