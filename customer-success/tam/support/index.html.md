@@ -48,6 +48,28 @@ GitLab offers [a variety of support options](/support/) for all customers and us
 1. If a call is necessary, the support engineer will invite your team to a call via the ticket.
 1. If a support engineer requests follow up items, please make sure to respond back with these items. This will help us resolve the issue as quickly as possible.
 
+## Automated linking of customer architecture / collaboration project information in Zendesk tickets 
+
+For each customer / org in Zendesk managed by a TAM, we can get a link to the collaboration project included, which then can point to the customers architecture details within existing tickets. This link helps our support team to access customer information from the collaboration project without looking up the URL manually each time. 
+
+To enable this [linking from ZD to the corresponding collaboration project](https://about.gitlab.com/handbook/support/workflows/looking_up_customer_technical_details.html#architecture-diagram-and-customer-success-project) and make the life of the GitLab support team easier, you need to review the AM Project ID set in Zendesk (visible on the left side). 
+
+If the AM project id is not correct, you can open a new issue with our support ops team [here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues/new) and let it get changed by using the following information in your request:
+
+---
+**Context/Request**: For an ORG I manage, I would like to request that the AM id gets changed which is used to link to the correct collaboration project from ZD org view.
+
+**Org**: https://gitlab.zendesk.com/agent/organizations/11111111/tickets
+
+**The AM ID should therefore be**: 17735787 and finally point to https://gitlab.com/<collaboration_project_url>
+
+**Ref. of handbook**: https://about.gitlab.com/handbook/support/workflows/looking_up_customer_technical_details.html#architecture-diagram-and-customer-success-project
+
+---
+
+Once done and the AM id was updated, the link itself will be visible within ZD in an existing ticket, when you click on "Apps" at the top right within the single ticket view. 
+
+
 ## Support Ticket Notifications
 
 When a TAM is assigned to an account in Salesforce, any time that a user from that account submits a support ticket, the TAM will receive an email to let them know, which includes a link to the Zendesk ticket and an [automatically-created](/handbook/support/support-ops/#salesforce---zendesk-sync) Salesforce case. The email will also include the account name, contact name and email, and the date the ticket was opened. TAMs should receive the email within 1-2 hours of the ticket being opened.
