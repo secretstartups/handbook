@@ -180,7 +180,6 @@ When requesting support from our team, we commit to responding to your [issue](h
 
 ## Meet the Team
 
-*   **David Duncan**: (aka Dunk) VP of Demand Generation & Partner Marketing
 *   **Coleen Greco**: (aka Greco) Director, Global Channel and Alliances Marketing
        
 **Channel Marketing Team**
@@ -193,7 +192,7 @@ When requesting support from our team, we commit to responding to your [issue](h
         
 **Alliances Marketing Team**
         
-*   **Lisa Rom**: Senior Alliances Marketing Manager, Lisa will be focusing on supporting our alliances marketing initiatives
+*   **Gabby Chorny**: Senior Alliances Marketing Manager, Gabby will be focusing on supporting our alliances marketing initiatives
         
 *   **Lindsey Lopez**:  Alliances Marketing Manager, Lindsey will be focusing on supporting our alliances marketing initiatives 
 
