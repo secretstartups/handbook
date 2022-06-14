@@ -76,21 +76,21 @@ If the request submitted is spam, apply the label `Invalid Request::Spam`, and c
 
 ### Form Submissions
 
-When a user submits a personal request using the [Personal Data Request form](https://support.gitlab.io/account-deletion/), an issue is automatically created in the [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/-/issues/service_desk), *even for invalid requests*. 
+When a user submits a personal request using the [Personal Data Request form](https://support.gitlab.io/account-deletion/), an issue is automatically created in the [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/-/issues/service_desk), *even for invalid requests*.
 
-Comments made in the issue will be emailed to the user. This is the only form of submission we will process. You will communicate with the user through the issue on the progress of their request. 
+Comments made in the issue will be emailed to the user. This is the only form of submission we will process. You will communicate with the user through the issue on the progress of their request.
 
 If the user submits multiple requests, apply the `/duplicate` marker to the duplicate issues, and respond with the following before closing the duplicates:
 
 <details>
  <summary markdown="span">Request Closed - Duplicate </summary>
- 
+
  <p>Greetings,</p>
- 
+
  <p>It looks like you have submitted multiple requests for the same purpose. </p>
- 
+
  <p>I'm closing this issue in favour of #123, and we will continue processing your request on the other issue.</p>
- 
+
  <p>Regards,</p>
 </details>
 
@@ -110,8 +110,6 @@ A user has the option to request deletion of the following:
 - Marketing account deletion (delete marketing and sales-related data only)
 
 Currently, _only_ requests to delete a GitLab.com account or perform a full deletion are auto-checked upon form submission. Use the following workflows based on the type of deletion request submitted.
-
-**NOTE:** As there is a [known bug with Group Managed Accounts](https://gitlab.com/gitlab-org/gitlab/-/issues/209081) (GMA), see the [Group Managed Accounts workflow](personal_data_access_account_deletion.html.md#group-managed-accounts) for handling GMA deletion requests.
 
 #### **GitLab.com or Full Deletion Requests**
 
@@ -137,7 +135,7 @@ These issues are scheduled to automatically close, and the label `account-deleti
 #### Form Entries Verified (Success)
 {:.no_toc}
 
-If all of the automated checks succeed, the user will receive a set of [Verification Challenge questions](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) in an auto-generated response. Users have a total of **14 days** to respond to the challenge questions. 
+If all of the automated checks succeed, the user will receive a set of [Verification Challenge questions](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) in an auto-generated response. Users have a total of **14 days** to respond to the challenge questions.
 
 During this period, add the `Awaiting::Challenge Answers` label.
 
@@ -233,21 +231,6 @@ Use this workflow for requests to delete user data from Sales or Marketing syste
 
 1. In the [gdpr-request issue tracker](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new), create a new confidential issue using the [Deletion Meta Issue - Marketing](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20Marketing) template, populating the title with the email address of the original request.
 1. **Follow the instructions in the top of the template**, then complete each step in the issue that begins with `Support Engineer:` in order.
-
-#### **Group Managed Accounts**
-
-If a group is using [group managed accounts](https://docs.gitlab.com/ee/user/group/saml_sso/group_managed_accounts.html) (GMA), user accounts may be orphaned. Until [a different approach to GMA](https://gitlab.com/groups/gitlab-org/-/epics/4786) has been implemented, you will need to follow this workflow for group managed accounts. You can use ChatOps to check whether a group has the relevant feature flags enabled.
-
-When checking the user account in admin, the user will be badged as a "Group Managed Account". Double check that the user is no longer a member of any group.
-
-In these cases, we can delete the account so that a new user account can be created.
-
-1. Use the [`Support::SaaS::Group Managed Account Deletion` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073474899), which outlines the criteria and deletion.
-1. Once Support receives permission from *both* the account holder and a group owner:
-1. Create an [internal request issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new) titled "Account Deletion" with the username, email, ticket number, and the reason in brief in the description.
-1. Email both the account holder and group owner informing them that you are going to delete the account asking them to confirm for a final time.
-1. Once confirmation has been received go to the user's admin page and click on "Delete user and all contributions".
-1. Close the internal issue, and respond to the customer that the account has been deleted.
 
 ----
 
