@@ -94,6 +94,9 @@ browser/tool you are using to talk to the environment or ensure that "current" i
   * [GitLab.org](https://gitlab.com/gitlab-org)
   * [charts](https://gitlab.com/charts)
   Unless you choose to manually opt out of using Canary on [next.gitlab.com](https://next.gitlab.com)
+* The traffic share is not exactly 5%. [The current baseline is 4.7%](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1745) determined by HAProxy weights,
+  but the actual amount depends on several factors including: Availability of zones in GCP,
+  time of day, share of traffic to GitLab groups.
 
 ### Confirming I am using the "canary" stage of an environment
 
@@ -128,7 +131,7 @@ Feature flags on staging and staging-canary:
 
 Feature flags on production and production-canary:
   * Enable `/chatops run feature set feature_flag_name true`
-  * Disable `/chatops run feature set feature_flag_name false` 
+  * Disable `/chatops run feature set feature_flag_name false`
 
 ### How do I get console access to the canary stage?
 
