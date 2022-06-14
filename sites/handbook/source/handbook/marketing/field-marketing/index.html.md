@@ -653,7 +653,7 @@ In Field Marketing, the FMCs manage all [Coupa requisitions](/handbook/business-
 | [AMER East-Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1105137?&label_name[]=East%20-%20Central) | Ginny Reib | `@GReib` |
 | [AMER West-PacNorWest](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Matthew Macfarlane | `@mmacfarlane` |
 | [AMER West - NorCal/SoCal/Rockies](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) |  Lisa Rom | `@lrom`  |
-| [AMER Public Sector](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Kira Aubrey | `@Hortel` & `@KiraAubrey` |
+| [AMER Public Sector](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Kira Aubrey | & `@KiraAubrey` |
 | [APAC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933488?&label_name[]=APAC) | TBH | `TBH` |
 | Japan - link WIP | Shu Kawaguchi | `@skawaguchi1` |
 | [EMEA Southern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426531?&label_name[]=Southern%20Europe) | Juliette Francon | `@juliette.frcn` | [#emea_southern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQ6FG8ETY) |
