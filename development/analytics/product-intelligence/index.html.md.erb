@@ -381,6 +381,10 @@ A milestone commitment is a list of issues our team aims to complete in the mile
 
 Per the [Next Prioritization](https://about.gitlab.com/company/team/structure/working-groups/next-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](https://about.gitlab.com/handbook/engineering/development/analytics/product-intelligence/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](https://about.gitlab.com/company/team/structure/working-groups/next-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
 
+##### Clarifying Maintenance vs. Feature Work
+
+In Product Intelligence, determining if work is applicable to ~type::maintenance or ~type::feature is not readily apparent. As a guide, we denote work which benefits the Product Intelligence team and technical processes as ~type::maintenance whereas work which benefits GitLab customers or team members is considered ~type::feature.
+
 ## Epics and issues
 
 To help our team be [efficient](/handbook/values/#efficiency), we explicitly define how our team uses epics and issues.
@@ -457,6 +461,7 @@ We use issue labels to keep us organized. Every issue has a set of required labe
 - Group `~group::product intelligence`
 - [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown`, `~"workflow::ready for development`, `~"workflow::in dev`, etc.
 - [Type:](/handbook/engineering/metrics/#work-type-classification) ~"type::bug"
+
 
 
 ### Merge request labels
