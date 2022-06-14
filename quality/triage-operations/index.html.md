@@ -315,7 +315,7 @@ It doesn't make sense to have `Seeking community contributions` or `Accepting me
 
 #### Community contributions
 
-Merge requests which have an author that is not a member of `gitlab-org` will have the `Community contribution` label applied. This scheduled automation is a backup for the reactive automation that applies `Community contribution` in the [welcome message](#community-contribution-thank-you-note). 
+Merge requests which have an author that is not a member of `gitlab-org` will have the `Community contribution` label applied. This scheduled automation is a backup for the reactive automation that applies `Community contribution` in the [welcome message](#community-contribution-thank-you-note).
 
 * Automation Condition:
   * Merge request under `gitlab-org` with author that is not in the `gitlab-org` group.
@@ -671,6 +671,13 @@ Current type labels with subtype labels are:
 
 * `~"type::feature"`
 * `~"type::tooling"`
+
+#### Merge request type label copy from related issues
+
+* Automation condition: Open or update of a merge request without a type label that have a related issue with a type label.
+* Automation action:
+  - The type label in the issue is applied to the merge request
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/apply_type_label_from_related_issue.rb>
 
 ## Resources
 
