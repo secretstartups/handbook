@@ -450,14 +450,17 @@ We use several email aliases for pre and post event outreach. Below are guidline
 
 #### Pre-Event Registration Tracking & Reporting
 
-As propects register for the event the Field Marketing team has the ability to track any potential dietary concerns:
+##### Dietary Restrictions
 
-- [LEAD report](https://gitlab.my.salesforce.com/00O4M000004dr8v)
-- [CONTACT report](https://gitlab.my.salesforce.com/00O4M000004dr95)
+During the registration process, it is important to track any potential dietary concerns. Please note that there is no longer a separate field in the registration form for dietary restrictions and this information is not tracked in SFDC. The FMM will need to include a note on the LP copy doc, instructing registrants to email with any specific dietary restrictions. It is up to the FMM if they would like to utilize their personal `@gitlab.com` email address & cc `regional@` alias.
+
+**Example Verbiage for LP:**  
+
+At GitLab we aim to make our events accessible to everyone, regardless of disability or special needs. We vet all of our venues for accessibility. If you have a disability, special needs, or specific dietary restrictions, please reach out to us by responding to this email to let us know and we will follow up with you pre-event. This information will be kept private and will be distributed only to the individuals who need it to complete your accommodation request.
+
+##### Registrant Communication
 
 If the FM DRI for an event needs to reach out to someone prior to the event, they will do so leveraging their personal `@gitlab.com` email address & cc `regional@` alias.
-
-The `Dietary Restrictions` field can be leveraged as a list filter by the FMCs if they are needing to send a bulk email of any kind.
 
 #### Sales Nominated process 
 The sales nominated process allows for records to be added to the campaign in order for the record to receive an invite to the event
