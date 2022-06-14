@@ -36,7 +36,6 @@ I want to manage my entire DevOps lifecycle more efficiently with better outcome
    1. *Reduce Security and Compliance Risk:* standardized pipelines for consistent testing, end-to-end common controls, and shared views for visibility across functions.
 
 ### 2. Software Delivery Automation 
-This is a new term for us and is being better defined. It will include the basics of devops automation: [SCM](handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration), [CI](/handbook/marketing/strategic-marketing/usecase-gtm/ci/), [CD](/handbook/marketing/strategic-marketing/usecase-gtm/cd/).
 
 **Business objectives: We want to increase the quality of my code while decreasing time to delivery** 
 We need to automate the build and testing processes to consistently integrate code and continuously test. We want to run the unit and integration tests, measure performance and automate manual QA processes. We may use GitLab SCM or another. (Example capabilities in GitLab include Pipeline, CI Runner, Jobs, Scheduled Jobs, Testing, Security Scanning (SAST), and Code Quality). We also want to speed up the build and release process and empower our developers to automatically deploy code. This requires that we automate the build, test and packaging, configuration and deployment of applications to a target environment. (Example capabilities in GitLab include: Container Repository, Deploy Boards, Canary Deploys, Partial Deploys, Manual Deploys, Environments.)  
