@@ -98,29 +98,21 @@ that works well for everyone (so that everyone can contribute.)
 
 #### What's Next & Why
 
-[Adding `gdk checkout <branch>` for reviewing specific branches](https://gitlab.com/gitlab-org/gitlab-development-kit/-/issues/139)
-to make it simpler for users to check out a specific feature branch quickly and 
-easily. Currently the process is fragile and poorly documented and introducing
-a simple, reliable command will make it easier for all involved.
+[Accelerate `gdk install/update/reconfigure` commands](https://gitlab.com/groups/gitlab-org/-/epics/7309)
+by optimizing logic to only perform necessary actions.
 
-[Update the GDK Documentation](https://gitlab.com/groups/gitlab-org/-/epics/3218)
+[Support installing `asdf` binary packages](https://gitlab.com/groups/gitlab-org/-/epics/8238)
+which will greatly improve the speed and reliability when running `gdk install/update`.
+
+[Improve Gitpod startup time](https://gitlab.com/groups/gitlab-org/-/epics/7589)
+by optimizing Docker image size, creation workflow and performing less logic
+on startup.
+
+[Improve the GDK Documentation](https://gitlab.com/groups/gitlab-org/-/epics/3218)
 to increase clarity particularly for new contributors. This will include 
 reorganizing content to make it more discoverable and scannable, improving our 
 _"Preparing your computer"_ recommendations, and updating the documentation 
 for the latest requirements and prerequisites.
-
-[Introduce `gdk pristine` command](https://gitlab.com/gitlab-org/gitlab-development-kit/-/issues/843)
-to allow contributors a way to get a potentially broken GDK back to a working 
-state in a low-touch way.
-
-[Allow some services to be run under Docker](https://gitlab.com/gitlab-org/gitlab-development-kit/-/issues/867) -
-Convert "data-oriented" services to have the option of being run natively or via
-Docker to reduce the complexity of installing/upgrading indivdual services.
-
-[Include 'stale process' detection as part of `gdk doctor`](https://gitlab.com/gitlab-org/gitlab-development-kit/-/issues/856). 
-This has bitten us a few times recently with some existing services that were re-engineered. It would have been really 
-helpful for `gdk doctor` to detect and suggest solutions when it detects 
-potential conflicts with old services that were left running after an update.
 
 #### What we are not doing
 
