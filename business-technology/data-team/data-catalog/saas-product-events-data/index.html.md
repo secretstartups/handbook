@@ -42,6 +42,13 @@ So that means we have one `prep_event` table per month. In dbt, you can see that
 
 In the query, you also see the `WHERE` statement that limits the data to a monthly subset of data.
 
+Here is an ERD of the atomic event fact tables. The diagram relating to SaaS gitlab.com data is the lower of the two:
+
+<figure style="width: 640px; height: 480px; margin: 10px; position: relative;">
+<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/3a42e56a-028e-45d7-b2ca-5ef489bafd32" id="Arfpe7QZft7e">
+</iframe>
+</figure>
+
 The list of events currently tracked in these tables [is available here](https://app.periscopedata.com/app/gitlab/1032417/Events-included-in-fct_event?widget=14683254&udv=0). Some new events can be added fairly easily, please see documentation below.
 
 #### How to add new events to this table ?
