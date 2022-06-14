@@ -47,7 +47,7 @@ Some useful links to see how and what we are working on include:
 
 ### People leaders in development
 
-<%= shared_team_members(role_regexps: [/(Director of Engineering for Growth, Sec, and ModelOps|Senior Engineering Manager, Growth|Fullstack Engineering Manager, Growth)/i]) %>
+<%= shared_team_members(role_regexps: [/(Director of Engineering for Growth, Sec, and ModelOps|Senior Engineering Manager, Anti-Abuse, Growth, Protect and Secure|Fullstack Engineering Manager, Growth)/i]) %>
 
 ### All Team Members
 
@@ -91,46 +91,39 @@ The following members of other functional teams are our stable counterparts:
 role_regexp = /[,&] (Growth)/
 direct_manager_role = 'Director of Engineering for Growth, Sec, and ModelOps'
 other_manager_roles = [
-  'Fullstack Engineering Manager, Growth:Conversion and Expansion',
-  'Senior Engineering Manager, Growth'
+  'Fullstack Engineering Manager, Growth:Acquisition and Activation',
+  'Senior Engineering Manager, Anti-Abuse, Growth, Protect and Secure'
 ]
 stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
 %>
 
 ## How We Work
 
-The Growth sub-department uses the `~"devops::growth"` label and the following groups for tracking merge request rate and ownership of issues and merge requests.
-
-| Group name  | Group label             |
-| ----------  | -----------             |
-| Acquisition | `~"group::acquisition"` |
-| Activation  | `~"group::activation"`  |
-
-### Product Development Flow
-
 Our team follows the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) utilizing all labels from `~workflow::start` to `~workflow::verification`.
 
 We adhere to the **Completion Criteria** and **Who Transitions Out** outlined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) to progress issues from one stage to the next.
 
-### Workflow Boards
+### Labels and Workflow Boards
 
 We use workflow boards to track issue progress throughout a milestone. Workflow boards should be viewed at the highest group level for visibility into all nested projects in a group.
 
+The Growth sub-department uses the `~"devops::growth"` label and the following groups for tracking merge request rate and ownership of issues and merge requests.
+
+| Name          | Label                   | gitlab-org | all groups |
+| ----------    | -----------             | ------     | ------     |
+| Growth        | `~"devops::growth"`     | [Growth Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) |
+| Acquisition   | `~"group::acquisition"` | [Acquisition Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) |
+| Activation    | `~"group::activation"`  | [Activation Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) |
+| Experiments   | `~"experiment-rollout"` | [Experiment tracking](https://gitlab.com/groups/gitlab-org/-/boards/1352542) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=experiment-rollout) |
+| Feature Flags | `~"feature flag"`       | [Feature flags](https://gitlab.com/groups/gitlab-org/-/boards/1725470?&label_name[]=devops%3A%3Agrowth&label_name[]=feature%20flag) |  |
+
 Growth teams work across the GitLab codebase on multiple groups and projects including:
 - The [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) group
-  - [gitlab](https://gitlab.com/gitlab-org/gitlab)
-  - [GLEX](https://gitlab.com/gitlab-org/ruby/gems/gitlab-experiment)
-  - [customers-gitlab-com](https://gitlab.com/gitlab-org/customers-gitlab-com)
+- [gitlab](https://gitlab.com/gitlab-org/gitlab)
+- [GLEX](https://gitlab.com/gitlab-org/ruby/gems/gitlab-experiment)
+- [customers-gitlab-com](https://gitlab.com/gitlab-org/customers-gitlab-com)
 - The [gitlab.com/gitlab-com](https://gitlab.com/gitlab-com/) group
-  - [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com)
-
-| gitlab-org | all groups |
-| ------ | ------ |
-| [Growth Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) |
-| [Acquisition Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) |
-| [Activation Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) |
-| [Experiment tracking](https://gitlab.com/groups/gitlab-org/-/boards/1352542) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=experiment-rollout) |
-| [Feature flags](https://gitlab.com/groups/gitlab-org/-/boards/1725470?&label_name[]=devops%3A%3Agrowth&label_name[]=feature%20flag) |  |
+- [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com)
 
 ### Estimation
 
@@ -150,10 +143,6 @@ In planning and estimation, we value [velocity over predictability](/handbook/en
 - If an issue has many unknowns where it's unclear if it's a 1 or a 5, we will be cautious and estimate high (5).
 - If an issue has many unknowns, we can break it into two issues. The first issue is for research, also referred to as a [Spike](https://en.wikipedia.org/wiki/Spike_(software_development)), where we de-risk the unknowns and explore potential solutions. The second issue is for the implementation.
 - If an initial estimate is incorrect and needs to be adjusted, we revise the estimate immediately and inform the Product Manager. The Product Manager and team will decide if a milestone commitment needs to be adjusted.
-
-### Product Development Timeline
-
-Our work is planned and delivered on a monthly cycle using [milestones](https://docs.gitlab.com/ee/user/project/milestones/). Our team follows the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) utilizing all dates including from `M-1, 4th: Draft of the issues` to `M+1, 4th: Public Retrospective`.
 
 ### UX
 Info on the Growth UX team and how they work can be found on the [Product/Growth page](/handbook/product/growth/#ux).
