@@ -17,6 +17,17 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/"
 
 The mission of the GitLab Women TMRG is to cultivate an inclusive environment that supports and encourages those who identify as women to advance their skills and leadership potential through connection, mentorship, collaboration and discussion. This group shall serve as a forum for women to find their voice and be heard within the GitLab community. Through networking, socializing, and professional development, we hope to attract and retain women into GitLab’s positions. This group is open to all members of the GitLab community.
 
+### Pillars
+
+This TMRG is focused on 4 key areas of impact. We call them our pillars. Review the table below to read about the purpose of each pillar and results the TMRG has achieve for each.
+
+| Pillar | Purpose | Example Results |
+| ----- | ----- | ----- | 
+| Awareness and Education | Increase awareness of the experience of TMRG memebers at GitLab and educate allies. | |
+| Professional Development | Increase access to opportunity for career and professional growth of TMRG members | [Women at GitLab Mentorship Program](https://about.gitlab.com/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) |
+| Recruiting and Retention | Increase the successful recruitment and retention of women at GitLab | |
+| Business Influence | Start and contribute to discusses that influence GitLab the business. | Surface burnout data to People Leadership | 
+
 ## Leads
 * [Kyla Gradin Dahl](https://about.gitlab.com/company/team/#kyla) Lead
 * [Samantha Lee](https://about.gitlab.com/company/team/#slee24) Co-Lead 
@@ -43,7 +54,7 @@ This meeting is hosted 1x per month on Wednesdays at 3pm UTC and Thursdays at 12
 Call hosts will prepare our meeting agenda using the following structure:
 
      1. Part 1: Quick Updates from TMRG leads: Leads will add updates to be shared and discussed sync/async. This will focus on the key priorities for that month and quarter
-     1. Part 2: Open Share from Call Participants: Anyone on the call who has a topic or question to bring up can add to this section of the agenda to review
+     1. Part 2: Discussion projects and ideas related to our TMRG pillars: `Awareness & Education`, `Professional Development`, `Recruiting & Retention`, and `Business Influence`
      1. Part 3: Social Breakout Groups: Depending on group size and time remaining, we'll break out into discussion groups. Conversation topics can vary. Some ideas include `motherhood`, `remote work and work life balance`, `sustainability`, `dating and friendships`
      
 ### Attend the Monthly TMRG Social Meeting
