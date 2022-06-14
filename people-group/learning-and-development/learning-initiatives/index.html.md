@@ -215,6 +215,7 @@ This is the list of topics that will be focused on in FY23. Each Skill of the Mo
 - March: Managing High Performing Teams: Orientation
 - April: Managing High Performing Teams: Building Trust
 - May: Managing Mental Health at Work
+- June: Allyship
 
 ### Organizing a Skill of the Month 
 
