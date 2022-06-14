@@ -93,7 +93,6 @@ If you need a basis for a response where you send the challenges, or in a 2FA ti
 
 In a paid namespace: If the user elects to have an Owner vouch for their request, apply the macro `Support::SaaS::2FA::2FA ask owner vouch`. This will direct the requestor to have an Owner create a Snippet with a Support-provided string. Once they have replied verifying they have done so:
 
-1. Verify that the Owner's email address matches the primary address of an Owner in the namespace.
 1. Use your Admin or Auditor account to browse to the Snippet provided (e.g. `https://gitlab.com/-/snippets/2057341`)
    - Verify the text of the Snippet matches the string you specified
    - Verify that the author of the Snippet is an Owner in the paid namespace
