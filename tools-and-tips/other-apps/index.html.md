@@ -181,7 +181,8 @@ If you are scheduling a meeting with a GitLab team-member, please use Google Cal
 1. Set up a [Calendly](https://calendly.com/) account.
 1. Link it to your GitLab Google Calendar to make it possible for people to schedule a call with you.
 1. Get your personal meeting room URL by going to [Zoom meeting settings](https://gitlab.zoom.us/meeting), selecting the *Personal Room* tab, and copying the value of *Invite Link* (do not use *Copy the invitation*).
-1. Set up the 45 minute time slot with the following event description text (replacing text in `{}` with your information):
+1. If you are using the Basic Calendly Subscription (Unpaid) you will only be able to set-up one event type at a time i.e. either a 15, 30, 45 or 60 minute event - teams making use of one of the Paid Subsciption Tiers such as Customer Support will be able to set up more than one event type.
+1. Set up the desired time slot with the following event description text (replacing text in `{}` with your information) we will be using 45 minutes for the illustration purposes below:
 
 > This will be a Zoom Meeting at {Zoom personal meeting room URL}
 >
@@ -189,7 +190,7 @@ If you are scheduling a meeting with a GitLab team-member, please use Google Cal
 
 5. Set the event name to `45 Minute Meeting`.
 1. Change the event link to `45min`.
-1. The event description needs to be copied to the 15, 30 and 60 minute meetings as well.
+1. The event description needs to be copied to the 15, 30 and 60 minute meetings too.
 1. If you intend to use any of the other event types, make sure to add this to their event descriptions as well.
 1. For people outside of GitLab Inc, send them your Calendly link that links directly to the 45 minute time slot: "Are any of the times on https://calendly.com/XXXXX/45min/ convenient for you? If so please book one, if not please let me know what times are good for you and we'll find an alternative."
 1. Update your availability on [Calendy Event Types](https://calendly.com/event_types/) by clicking the action cog and then the edit option on an event type (For Example: 15 minute meeting) and in the event details clicking on the "When can people book this event?" section then clicking the "Availability" section.
