@@ -61,6 +61,7 @@ We collaborate with tax to review actual tax expenses, forecast tax provision fo
 ### Data and Analytics Partnership
 - We work with the Data team to build out new dashboards and tables in Sisense as the SSOT for key metrics. Our collaboration ranges from creating different cuts of data significant to our business leaders to building out new connections between existing source data.
 - For any new project or new question as it relates to an existing project, we open an issue with Data team and slack the [#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A) channel to inform the team on a new issue.
+- Business definitions around ATR, MYB, Billings, Prepaid vs not Prepaid and other formalized projects between the Data & Corporate FP&A team can be found [here](https://docs.google.com/document/d/1whUxuiJesV-crX59uuHwTeDKksBShmwOYTXkrfd2YuU/edit#heading=h.pukbsdanu7fs).
 
 ### Talent & Total Rewards Partnership
 - We collaborate with Total Rewards to align on budget and actuals for the Annual Compensation Review, promotions and benefits programs. We analyze scenarios in alignment with their team’s strategic programs and benefits roadmap.  We collaborate in the Slack channel #fpa-total-rewards and have a weekly recurring meeting. 
