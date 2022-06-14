@@ -16,7 +16,7 @@ The following benefits are provided by [Remote](https://www.remote.com/) and app
 
 ## Brazil
 
-All of the benefits listed below are administered and managed by [Remote](https://remote.com/country-explorer/brazil)
+All of the benefits listed below are administered and managed by [Remote](https://remote.com/country-explorer/brazil). Queries can be directed to help@remote.com.
 
 - 13th Salary - Also known as a 'Christmas Bonus', this payment is an amount equal to one month’s salary which is paid out to employees in two parts in November (by the 20th) and December. The pro-rated 13th-month salary is also due upon termination. The 13th-month payment is a legally mandated benefit and not part of the base salary. During negotiations with candidates, it is important to clearly state what salary is being offered and whether it is inclusive or exclusive of the 13th-month payment. The Christmas Bonus is calculated at 8.33% of the base annual salary
 - Vacations Bonus - Professionals in Brazil are entitled to 30 calendar days of vacation per year after every 12 months of service, and the employee must be paid 1/3rd of a month’s salary as a Vacations bonus. Holiday pay and holiday bonus payments are pro-rated upon termination. The Vacation bonus is calculated at 2.77% of the base annual salary.
@@ -69,11 +69,16 @@ To ensure all statutory sick leave is tracked appropriately, please email the Ab
 
 ## Denmark
 
-All of the benefits listed below are administered and managed by [Remote](https://remote.com/country-explorer/denmark)
+All of the benefits listed below are administered and managed by [Remote](https://remote.com/country-explorer/denmark). Queries can be directed to help@remote.com.
 
 ### Medical
 
-Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $106.50 (for partner), $85.20 (children under 18). 
+Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $106.50 (for partner), $85.20 (children under 18).
+More information can be found below:
+- [Remote Allianz Benefit Guide](https://drive.google.com/file/d/1krO_RGt_H1_kPNgudHeuSIFjJohJuq-h/view)
+- [Allianz](https://drive.google.com/file/d/1hMw61FsriqRPfcFRQ-mzQsu6HF03IUFB/view)
+
+
 Team members in Denmark can also access the [public healthcare system](https://www.healthcaredenmark.dk/). This healthcare system covers all the team members and their family members.
 
 ### Pension
@@ -162,11 +167,16 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 
 ## Sweden
 
-All of the benefits listed below are administered and managed by [Remote](https://remote.com/country-explorer/sweden)
+All of the benefits listed below are administered and managed by [Remote](https://remote.com/country-explorer/sweden). Queries can be directed to help@remote.com.
 
 ### Healthcare
 
-Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $113. 
+Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $106.50 (for partner), $85.20 (children under 18).
+
+More information can be found below:
+- [Remote Allianz Benefit Guide](https://drive.google.com/file/d/1krO_RGt_H1_kPNgudHeuSIFjJohJuq-h/view)
+- [Allianz](https://drive.google.com/file/d/1hMw61FsriqRPfcFRQ-mzQsu6HF03IUFB/view)
+
 
 ### Pension
 
@@ -256,12 +266,12 @@ Please submit the dates of your leave in PTO by Roots by selecting the `Parental
 
 ## Spain
 
-All of the benefits listed below are administered and managed by [Remote](https://remote.com/)
+All of the benefits listed below are administered and managed by [Remote](https://remote.com/). Queries can be directed to help@remote.com. 
 
 ### Healthcare
 
-* Remote must offer [Safety Wings](https://docs.google.com/document/d/14nuuU1RZTsVrsshbFoFJKG4mft4GIlzJGEunvTFSv2Q/edit) premium plan to all employees (this covers team members only and does not include dependants).
-* Team members have the option to waive Safety wings and instead can be paid a taxable bonus of $300/€252.35 each month, to be used to cover their own medical insurance and include dependants. This will be marked as 'bonus' on the payslip. 
+* Remote must offer [Allianz](https://drive.google.com/file/d/1hMw61FsriqRPfcFRQ-mzQsu6HF03IUFB/view) premium plan to all employees (this covers team members only and does not include dependants).
+* Team members have the option to waive this plan and instead can be paid a taxable bonus of $300/€252.35 each month, to be used to cover their own medical insurance and include dependants. This will be marked as 'bonus' on the payslip. 
 * Proof of coverage must be shared with Total Rewards. To do this, the team member may redact any personal information, upload to their BambooHR, and email to total-rewards@domain to confirm the same. 
 * Total Rewards will inform Payroll via the Payroll changes sheet
 
@@ -348,11 +358,15 @@ The breastfeeding leave is considered as working time, meaning that the employee
 
 ## Italy
 
-All of the benefits listed below are administered and managed by [Remote](https://remote.com/)
+All of the benefits listed below are administered and managed by [Remote](https://remote.com/). Queries can be directed to help@remote.com.
 
 ### Health Insurance
 
-Team members also have the option to select Remotes Safety Wings premium medical plan (for team members only). If they wish to add dependants this will be deducted through the Payroll (usd) $154/mo
+Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $135.92 (for partner), $108.73 (children under 18).
+
+More information can be found below:
+- [Remote Allianz Benefit Guide](https://drive.google.com/file/d/1krO_RGt_H1_kPNgudHeuSIFjJohJuq-h/view)
+- [Allianz](https://drive.google.com/file/d/1hMw61FsriqRPfcFRQ-mzQsu6HF03IUFB/view)
 
 * Team members have access to government-subsidized healthcare as well as additional insurance called QU.A.S. The annual cost for QU.A.S. is 56 EUR paid by the team member and 350 EUR paid by the company.
 * Pension and Life Insurance - As part of Remote payroll, mandatory contributions are made towards social security funds. Remote currently does not offer a supplementary pension but will be reviewing this in the upcoming year. The [GitLab Life Insurance plan](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
@@ -539,6 +553,8 @@ Team members unable to work because of a nonwork-related injury or illness and w
 
 ## Hungary
 
+All of the benefits listed below are administered and managed by [Remote](https://remote.com/). Queries can be directed to help@remote.com.
+
 ### Social Security
 
 The Hungarian Social Security Act has employer and team member contributions to cover statutory requirements such as pension, health insurance, and unemployment. 
@@ -546,6 +562,10 @@ The Hungarian Social Security Act has employer and team member contributions to 
 ### Medical
 
 Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $106.50 (for partner), $85.20 (children under 18).
+
+More information can be found below:
+- [Remote Allianz Benefit Guide](https://drive.google.com/file/d/1krO_RGt_H1_kPNgudHeuSIFjJohJuq-h/view)
+- [Allianz](https://drive.google.com/file/d/1hMw61FsriqRPfcFRQ-mzQsu6HF03IUFB/view)
 
 ### Pension
 
