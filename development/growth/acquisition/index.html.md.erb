@@ -16,7 +16,7 @@ The Acquisition Group is part of the [Growth Sub-department]. We work on [connec
 
 * I have a question. Who do I ask?
 
-Questions should start by @ mentioning the Product Manager for the [Conversion group](/handbook/product/categories/#acquisition-group)
+Questions should start by @ mentioning the Product Manager for the [Acquisition group](/handbook/product/categories/#acquisition-group)
 or creating a new issue in the Growth Product [Acquisition issues] list.
 
 ## Mission
@@ -28,18 +28,18 @@ and [Continuous onboarding](https://gitlab.com/groups/gitlab-org/-/epics/4817).
 
 ## Team Members
 
-The following people are permanent members of the Growth:Conversion team:
+The following people are permanent members of the Growth:Acquisition team:
 
 <%= direct_team(manager_role: 'Fullstack Engineering Manager, Growth:Acquisition and Activation', role_regexp: /(Acquisition)/) %>
 
-### Group members
+### Stable counterparts
 
-We work directly with the following team members in the Growth:Conversion group:
+We work directly with the following team members in the Growth:Acquisition group:
 
 <%=
-other_manager_roles = ['Director of Engineering for Growth, Sec, and ModelOps','Senior Engineering Manager, Growth']
+other_manager_roles = ['Director of Engineering for Growth, Sec, and ModelOps','Senior Engineering Manager, Anti-Abuse, Growth, Protect and Secure']
 direct_managers_role = 'Fullstack Engineering Manager, Growth:Acquisition and Activation'
-roles_regexp = /Acquisition/
+roles_regexp = /[,&] (Growth(?!:)|Growth:Acquisition)/
 
 stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
 %>

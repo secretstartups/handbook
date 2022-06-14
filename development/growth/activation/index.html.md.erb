@@ -16,30 +16,29 @@ The Activation Group is part of the [Growth Sub-department]. We work on [connect
 
 * I have a question. Who do I ask?
 
-Questions should start by @ mentioning the Product Manager for the [Conversion group](/handbook/product/categories/#activation-group)
+Questions should start by @ mentioning the Product Manager for the [Activation group](/handbook/product/categories/#activation-group)
 or creating a new issue in the Growth Product [Acquisition issues] list.
 
 ## Mission
 
-The Growth:Acquisition Group works on product priorities
-with our [Growth product managers](/handbook/product/growth/)
+The Growth:Acquisition Group works on product priorities with our [Growth product managers](/handbook/product/growth/)
 and contributes to Growth initiatives including the [Registration Flow](https://gitlab.com/groups/gitlab-org/-/epics/4745)
 and [Continuous onboarding](https://gitlab.com/groups/gitlab-org/-/epics/4817).
 
 ## Team Members
 
-The following people are permanent members of the Growth:Conversion team:
+The following people are permanent members of the Growth:Activation team:
 
 <%= direct_team(manager_role: 'Fullstack Engineering Manager, Growth:Acquisition and Activation', role_regexp: /(Activation)/) %>
 
-### Group members
+### Stable counterparts
 
 We work directly with the following team members in the Growth:Activation group:
 
 <%=
-other_manager_roles = ['Director of Engineering for Growth, Sec, and ModelOps','Senior Engineering Manager, Growth']
+other_manager_roles = ['Director of Engineering for Growth, Sec, and ModelOps','Senior Engineering Manager, Anti-Abuse, Growth, Protect and Secure']
 direct_managers_role = 'Fullstack Engineering Manager, Growth:Acquisition and Activation'
-roles_regexp = /Activation/
+roles_regexp = /[,&] (Growth(?!:)|Growth:Activation)/
 
 stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
 %>
