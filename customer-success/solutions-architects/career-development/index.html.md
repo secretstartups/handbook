@@ -39,3 +39,28 @@ The Solutions Architecture promotion process augments the [People Group Promotio
 1. After reviewing and providing feedback, the Sr. Director of Solutions Architecture will inform the VP of Customer success, typically during a weekly 1 on 1 meeting.
 1. The VP of Customer Success will review the request and provide feedback if necessary. If the request is approved, the VP will annotate the justification document with their approval.
 1. At this point, the SA manager may submit the request in Bamboo.
+
+### Associate Solution Architecture Program
+
+In FY23, GitLab kicked off its first ever Associate Program across Customer Success with the aim to:
+
+- Build the next generation of highly-diverse, well-prepared GitLab Solutions Architects 
+- Grow pre-sales engineering skill sets that are focused on GitLab’s product offering, business model and aligned to customer needs
+- Give existing SAs an opportunity to grow in their careers through having early-in-career SAs to mentor and coach
+
+The program leverages the enablement material that all SAs use in the onboarding process in addtion
+to providing team members earlier in their careers content that instills a passion for a single DevOps Platform built on open source.  
+
+The program helps build technical, trusted advisory muscle memory, places team members in a role serving the SMB segment, and in a function where there is 
+high awareness of priorities that are aligned to visible results.
+
+#### How to Get Engaged with the Program!
+
+**If you are looking to coach or mentor Associate SAs** that are going through the program you can do so by helping the Associate SAs understand
+the value of different [GitLab categories within our stages](/handbook/product/categories/#hierarchy). Upon completion of Demo2Win, every week, the team is assigned a new Category to learn about and
+show the value of that category through the tell-show-tell methodology. Sign up for updates by including your GitLab username as a CC recipient to the 
+[Weekly Capability Deep Dive](https://gitlab.com/-/ide/project/gitlab-com/customer-success/solutions-architecture/associate-program/training/tree/main/-/.gitlab/issue_templates/Weekly%20Capability%20Deep%20Dive.md/) issue template which is used to determine the weekly category.
+
+Additionally, the team is finalizing a mentoring program that is slated to begin in Q3 of FY23. 
+
+**If you are looking to be considered for the Associate SA Program**, look at our Job Board for any Associate SA postings.
