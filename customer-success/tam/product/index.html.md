@@ -43,7 +43,7 @@ Product uses the [RICE framework](/handbook/product/product-management/process/#
 
 #### Sisense
 
-The Product team maintains a [Sisense dashboard](https://app.periscopedata.com/app/gitlab/480786/User-Requested-Issues) to aggregate issues and customer interest in those issues. Information is automatically gathered from [GitLab issues](https://gitlab.com/gitlab-org/gitlab/issues) by scanning for Salesforce customer account links.
+The Product team maintains a [Sisense dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product) to aggregate issues and customer interest in those issues. Information is automatically gathered from [GitLab issues](https://gitlab.com/gitlab-org/gitlab/issues) by scanning for Salesforce customer account links. A separate dashboard [Customer Requested Issues (TAM)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970772/User-Request-Issue-Prioritization---TAM-Customer-View) is maintained for Sales, CS and TAMs to make the dashboard easily filterable by the Account Owner or TAM for example.
 
 The Sisense page automation will detect when Salesforce links are added and use the customer's Salesforce data, such as Total Account Value and seat licenses, to add them to the page. This also maintains a customer's privacy on public issues, since Salesforce links are only accessible to GitLab employees with proper credentials.
 
