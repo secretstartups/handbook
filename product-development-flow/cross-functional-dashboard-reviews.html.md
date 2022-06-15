@@ -30,7 +30,7 @@ Note that the review collaboration can be done in a way that's most effective fo
 - Quad leadership
   - Engineering Manager
   - Product Manager
-  - UX Designer
+  - Product Designer
   - Software Engineer in Test (if applicable)
 
 **Questions to answer**
@@ -48,7 +48,7 @@ Note that the review collaboration can be done in a way that's most effective fo
 - Quad leadership
   - Senior Engineering Managers, Director of Engineering
   - Group Product Managers, Director of Product Management
-  - UX Design Manager
+  - Product Design Manager
   - Quality Engineering Manager
 
 **Questions to answer**
