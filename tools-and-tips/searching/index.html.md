@@ -99,17 +99,17 @@ Instructions for adding keyword searches in Chrome and Firefox can be found abov
 
 | Action | Keyword example | Keyword search URL |
 | --- | --- | --- |
-| Search GitLab handbook | hb | GitLab search: https://about.gitlab.com/handbook/#stq=%s <br><br> Google search: https://www.google.com/search?q=site:about.gitlab.com/handbook %s |
+| Search GitLab handbook | gh | ***GitLab search:*** https://about.gitlab.com/handbook/#stq=%s <br><br> ***Google search:*** https://www.google.com/search?q=site:about.gitlab.com/handbook %s |
 | Search GitLab docs | gd | https://docs.gitlab.com/search/?query=%s |
 | Search GitLab docs, handbook and forum | gl | https://google.com/search?q=site:*.gitlab.com %s |
-| Search GitLab issues | gi | GitLab project: https://gitlab.com/search?search=%s&group_id=9970&project_id=278964&scope=issues <br><br> www-gitlab-com project: https://gitlab.com/search?search=%s&group_id=6543&project_id=7764&scope=issues |
+| Search GitLab issues | gi | ***GitLab.org project***: https://gitlab.com/search?search=%s&group_id=9970&project_id=278964&scope=issues <br><br> ***GitLab.com project***: https://gitlab.com/search?search=%s&group_id=6543&project_id=7764&scope=issues |
 | Search gitlab-org group | go | https://gitlab.com/search?search=%s&group_id=9970 |
 | Search gitlab-com group | gc | https://gitlab.com/search?search=%s&group_id=6543 |
-| Go to specific epic | epic | GitLab.org Group: https://gitlab.com/groups/gitlab-org/-/epics/%s<br><br> GitLab.com Group: https://gitlab.com/groups/gitlab-com/-/epics/%s |
-| Go to specific issue | issue | GitLab project: https://gitlab.com/gitlab-org/gitlab/issues/%s <br><br> www-gitlab-com project: https://gitlab.com/gitlab-com/www-gitlab-com/issues/%s |
-| Go to specific MR | mr | GitLab project: https://gitlab.com/gitlab-org/gitlab/merge_requests/%s <br><br> www-gitlab-com project: https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/%s |
-| Search open issues by author | iauthor | GitLab project: https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=%s <br><br> www-gitlab-com project: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=%s |
-| Search open MRs by author | mrauthor | GitLab project: https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&author_username=%s <br><br> www-gitlab-com: https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&author_username=%s |
+| Go to specific epic | epic | ***GitLab.org Group:*** https://gitlab.com/groups/gitlab-org/-/epics/%s<br><br> ***GitLab.com Group:*** https://gitlab.com/groups/gitlab-com/-/epics/%s |
+| Go to specific issue | issue | ***GitLab.org project***: https://gitlab.com/gitlab-org/gitlab/issues/%s <br><br> ***GitLab.com project***: https://gitlab.com/gitlab-com/www-gitlab-com/issues/%s |
+| Go to specific MR | mr | ***GitLab.org project***: https://gitlab.com/gitlab-org/gitlab/merge_requests/%s <br><br> ***GitLab.com project***: https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/%s |
+| Search open issues by author | iauthor | ***GitLab.org project***: https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=%s <br><br> ***GitLab.com project***: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=%s |
+| Search open MRs by author | mrauthor | ***GitLab.org project***: https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&author_username=%s <br><br> ***GitLab.com project***: https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&author_username=%s |
 | Search Google Docs files | dv | https://drive.google.com/drive/search?q=%s |
 | Search Wikipedia | w | https://en.wikipedia.org/w/index.php?search=%s |
 
