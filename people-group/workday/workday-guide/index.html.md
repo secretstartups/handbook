@@ -16,7 +16,6 @@ title: Workday Guide
 - Integrated people processes that allow us to view Team Member data in one system (compensation, performance, benefits, absence management, etc.)
 - Our data will be more accessible, timely, accurate, and consistent. This will allow us to improve our reporting and analytics capabilities
 - Provides us with the ability to make informed organizational decisions and increase operational efficiencies based on that data
-- It’s a cloud-based system that releases updates twice a year, allowing us to keep up with evolving technologies 
 - Enhanced and standardized processes and workflows
 - Increased visibility and transparency of Team Member data changes and status of those transactions
 - 24/7 access from anywhere using the mobile application
