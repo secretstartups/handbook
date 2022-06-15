@@ -31,7 +31,7 @@ Steps to uplevel triaging process:
 | Triage Group Name   | Triage Slack Alias  | Triage Group Members  |  
 | -------------- | ------------------- | -------------------- |
 | Go To Market Analytics Triage | `@GTMAnalyticsTriage` |  Sales Strategy & Analytics Team, Marketing Strategy and Performance Team, Business Insights and Analytics Team, GTM Data Fusion Team |
-| R&D Analytics Triage | `@R&DAnalyticsTriage` | Product Analysis Team, R&D Data Fusion Team |
+| R&D Analytics Triage | `@R&DAnalyticsTriage` | Product Data Insights Team, R&D Data Fusion Team |
 | People Analytics Triage | `@PeopleAnalyticsTriage` | People Group Analytics Team, G&A Data Fusion Team |
 | Engineering Analytics Triage | `@EngineeringAnalyticsTriage` | Engineering Analytics Team, G&A Data Fusion Team |
 | Data Platform Triage | `@DataPlatformTriage`   | Data Platform Team |
@@ -44,7 +44,7 @@ Steps to uplevel triaging process:
 | [Data Team](https://gitlab.com/gitlab-data/analytics) |
 | [Sales Strategy and Analytics](https://gitlab.com/gitlab-com/sales-team/field-operations/analytics) |
 | [Marketing Strategy and Performance](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) |
-| [Product Analysis](https://gitlab.com/gitlab-data/product-analytics) |
+| [Product Data Insights](https://gitlab.com/gitlab-data/product-analytics) |
 | [Business Analytics](https://gitlab.com/gitlab-com/business-analytics) |
 | [Engineering Analytics](https://gitlab.com/gitlab-com/quality/engineering-analytics) |
 | [People Analytics](https://gitlab.com/gitlab-com/people-group/people-operations/people-analytics2) |
@@ -59,7 +59,7 @@ Steps to uplevel triaging process:
 |	                  | Marketing Strategy and Performance | |		|	`@David Egan` |	|	`@rkohnke`	| |
 |	                  | Business Insights and Analytics |	|	 `@Vikas Agrawal` |	`@Jay Zhang` |	`@Kelly Chen` |	`@charan karthikeyan` |	`@Jay Stemmer` |
 |	                  | GTM Data Fusion |	|	 |	`@Peter Empey` | `@Michelle Cooper`	| 	`@Jean Peguero`	 |  |
-| `@R&DAnalyticsTriage` |	Product Analysis |	|	 `@Carolyn Braza` | 	`@Dave Peterson` | 	`@Emma Neuberger` |	`@Nicole Galang` |	 `@Neil Raisinghani` |
+| `@R&DAnalyticsTriage` |	Product Data Insights |	|	 `@Carolyn Braza` | 	`@Dave Peterson` | 	`@Emma Neuberger` |	`@Nicole Galang` |	 `@Neil Raisinghani` |
 |	                  | R&D Data Fusion	|	| `@Tim Poole`	| 	| `@Chris Sharp` 	| `@snalamaru` | `@Miles Russell`	 |
 | `@PeopleAnalyticsTriage` | People Analytics	|	|	|	|	| `@Adrian Pérez` | |	
 |	                  | G&A Data Fusion |	|	|	`@Peter Empey` 	| | | |		
