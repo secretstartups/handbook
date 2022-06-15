@@ -1145,16 +1145,15 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `Russia`: Issues that are related to the EMEA Russia & Ukraine sales team
 - `MEA`: Issues that are related to the EMEA MEA (Middle East & Africa) sales team
 - `East`: Issues that are related to the East sales team
-- `East - Central`: Issues that are related to the US East-Central sales team
 - `East - NE`: Issues that are related to the US East- NE sales team
 - `East - SE`: Issues that are related to the East-SE sales team
 - `WEST`: Issues that are related to the US West sales team
 - `WEST - Bay Area`: Related to the US WEST Bay Area sales team
 - `WEST - BigSky`: Issues that are related to the US WEST Midwest sales team
-- `WEST - FM Planning`: Issues related to West FM planning
-- `WEST - FMM`: Issues related to the West FMM
 - `WEST - PacNorWest`: Issues that are related to the US WEST Pacific North West sales team
 - `WEST - SW`: Issues that are related to the US WEST Southwest and SoCal sales team
+- `West-SW & NFO`: Issues that are related to the US West-SW & NFO sales team 
+- `NW & N Central`: Issues that are related to the US NW & N Central sales team 
 - `Public Sector US`: Any issues related to US Public Sector
 - `FMM AMER PubSec`: All issues and tasks related to the FMM AMER for PubSec
 - `AMER - DOD`: AMER DOD tactics
