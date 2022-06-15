@@ -18,18 +18,19 @@ description: "Learn more about the GitLab interviewing process and what to expec
 
 To learn more about what's it like to work at GitLab, please visit our [Jobs FAQ page](/jobs/faq/).
 
-<details open><summary>Average Time to Hire
-</summary>
+<details open="open">
+<summary markdown="span">Average Time to Hire</summary>
 
 We strive to be as expeditious as possible in our hiring process. However, the speed of the process can and does vary. To see our historical and recent trends related to time-to-hire, please view the [Time to Offer Accept (Days)](https://about.gitlab.com/handbook/hiring/performance_indicators/#time-to-offer-accept-days) chart on the **Talent Acquisition Performance Indicators** page.
 
 To note, this metric is calculated by taking the number of days it takes from the time a candidate starts the recruitment process to when they accept an offer.
 
 Should you reach out on any social media platform to any GitLab team member with whom you have not previously worked or do not know and request a referral, instead of or in addition to applying to our jobs page, you'll receive the following reply: "Thank you for your interest in GitLab. We would much rather prefer you apply for the position you have in mind directly via our [Jobs page](https://about.gitlab.com/jobs/). This will ensure the right GitLab team member reviews your profile and replies back to you! Unfortunately at this time, I cannot refer you for the position as we have not had a chance to work together. To ensure we stay [inclusive](https://about.gitlab.com/company/culture/inclusion/), I also cannot influence your application."
+
 </details>
 
-<details open><summary>Reimbursement for Interviewing with GitLab
-</summary>
+<details open="open">
+<summary markdown="span">Reimbursement for Interviewing with GitLab</summary>
 
 If you are invited for an interview with GitLab and you need financial support for your interview, you may be reimbursed for the following:
 
@@ -40,15 +41,15 @@ If you are invited for an interview with GitLab and you need financial support f
 - Translation services if you are d/Deaf or hard of hearing
 
 To initiate the reimbursement process please email `ces@gitlab.com`. Additional details found [here](/handbook/hiring/talent-acquisition-framework/coordinator/#interview-reimbursement-process).
+
 </details>
 
 ### Internal Applicants
 
 If you are a [current team member and are interested in applying](/handbook/people-group/promotions-transfers/#department-transfers) for a current vacancy, please follow the steps below.
 
-<details open>
-<summary>Steps
-</summary>
+<details open="open">
+<summary markdown="span">Steps</summary>
 
 1. Log in to your [Greenhouse account](https://gitlab.greenhouse.io/dashboard) to view "My Dashboard".
 1. At the top right corner of your dashboard, click "Hi [Name]" and select "[Internal Job Board](https://gitlab.greenhouse.io/internal_job_board)" from the dropdown. You can also access the internal job board under the ["Helpful Links" section](/handbook/hiring/greenhouse/#your-dashboard) on your dashboard. For more information (and screenshots!), feel free to read the [Greenhouse help article](https://support.greenhouse.io/hc/en-us/articles/200913945-Employee-Access-to-Internal-Job-Board).
@@ -71,8 +72,8 @@ There are situations in which multiple internal applicants apply for the same ro
 
 We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing `ces@gitlab.com` about the need for adjustments at any point in the interview process.
 
-<details open><summary>Process for the Talent Acquisition Team
-</summary>
+<details open="open">
+<summary markdown="span">Process for the Talent Acquisition Team</summary>
 
 1. Ask the candidate if they require any [reasonable accommodation](/handbook/people-policies/inc-usa/#reasonable-accommodation) or adjustments in the invite for a screening call (this is built into the email template) as well as during the screening call in case they missed the question in the invite.
 1. If the candidate requests an accommodation, add the Interview Adjustments during the screening stage, have them email those requests to `ces@gitlab.com` which is managed by the Candidate Experience Specialist (CES) team.
@@ -89,8 +90,8 @@ We want our interview process to be accessible to everyone. You can inform us of
 
 These steps may vary role-to-role, so please review the hiring process on the job family page for the role you are interested in.
 
-<details open><summary>Steps
-</summary>
+<details open="open">
+<summary markdown="span">Steps</summary>
 
 1. Prior to interviewing, the talent acquisition team will identify the most qualified candidates for the vacancy by reviewing [Internal Applicants](/handbook/hiring/interviewing/#internal-applicants), searching the [GitLab Talent Community](https://boards.greenhouse.io/gitlab/jobs/4700367002), reviewing [Employee Referrals](/handbook/hiring/referral-process/#submitting-a-referral), and searching through a variety of sources including, but not limited to [LinkedIn](/handbook/hiring/sourcing/#upgrading-your-linkedin-account). The hiring team will also source for candidates that may not be actively looking. There are many factors to consider when reviewing profiles. Some of those factors can be aided through technology within an Applicant Tracking System (ATS), others require human eyes to evaluate the qualifications. There are several posts that reveal suggestions for reviewing profiles that our team may utilize. [Greenhouse](https://www.greenhouse.io/blog/in-review-whats-the-right-way-to-read-a-resume), [Zip Recruiter](https://www.ziprecruiter.com/blog/10-crucial-things-to-look-for-in-a-resume/) and [The Balance Careers](https://www.thebalancecareers.com/gone-in-thirty-seconds-how-to-review-a-resume-1919139) are three examples.
 1. The talent acquisition team and/or hiring team does the **first round of evaluations** by reviewing candidate profiles. This team will refer to the [country hiring guidelines](/people-group/employment-solutions/#country-hiring-guidelines) before moving candidates forward. Disqualified candidates will be sent a note informing them of the [rejection](#rejecting-candidates). There are templates in Greenhouse to assist, but messages can be tailored as appropriate. Make sure the message is professional and respectful.
@@ -108,7 +109,7 @@ These steps may vary role-to-role, so please review the hiring process on the jo
     1. After the screening call, the recruiter will verify that the candidate is not on any known [Denied Party List](https://www.export.gov/csl-search). If the candidate is on a list, the application process will end.
 1. **Technical interview (optional)**: Certain positions also require [technical interviews](/handbook/hiring/conducting-a-gitlab-interview/#considerations-for-interviews-with-technical-applicants).
 1. **Behavioral interview**: Some roles include a behavioral interview with a team peer or leader. Behavioral interviews may be conducted as [panel interviews](/handbook/hiring/interviewing/panel).
-1. **Further interviews**: All interviewers will assess the candidate's values alignment by asking behavioral questions and scoring the values alignment as part of their feedback form in Greenhouse. Additional interviews would typically follow the reporting lines up to the CEO. For example the technical interview may be conducted by an individual contributor, with subsequent interviews being conducted by the manager, director, executive team member, and then potentially the CEO. 
+1. **Further interviews**: All interviewers will assess the candidate's values alignment by asking behavioral questions and scoring the values alignment as part of their feedback form in Greenhouse. Additional interviews would typically follow the reporting lines up to the CEO. For example the technical interview may be conducted by an individual contributor, with subsequent interviews being conducted by the manager, director, executive team member, and then potentially the CEO.
     - **Senior Director and above roles will always have the relevant functional People Business Partner on the interview panel.
     - **Interviewers will follow the same `no show` policy as the recruiters.** If a candidate does not show up or reach out to the team, they will be disqualified.
     - **All interviewers will complete interviewing training,** which will be assigned to them from someone on the talent acquisition team; generally CES. Interview training issues can be found in the [People Group Training issue tracker](https://gitlab.com/gitlab-com/people-group/Training/-/issues).
@@ -133,8 +134,8 @@ These steps may vary role-to-role, so please review the hiring process on the jo
 
 The GitLab team understands the importance of inclusive interviewing, and we strive to ensure our hiring team is well versed in every aspect of diversity, inclusion, and cultural competence. A positive and comfortable candidate experience is priority.
 
-<details open><summary>Best practices
-</summary>
+<details open="open">
+<summary markdown="span">Best practices</summary>
 
 - **We will make our best effort so that each candidate's full interview panel has at least one non-male GitLab team-member on it.**
 - **The following teams will _always_ have one non-male team member in the same department as the candidate on the interview panel.** We are working to make it so that every team practices our value of diversity, inclusion and belonging in their hiring practices. We are improving, but we aren't there yet. According to our value of iteration, we aren't waiting for a system to be in place for the entire company, but instead are practicing diversity, inclusion and belonging now by listing the teams that can currently commit to this practice. Hiring managers can make MRs to add their team to this list when they are able to meet this requirement.
@@ -162,8 +163,8 @@ The GitLab team understands the importance of inclusive interviewing, and we str
 
 Calls can last anywhere between 10 and 30 minutes, depending on the conversation.
 
-<details open><summary>Example Questions
-</summary>
+<details open="open">
+<summary markdown="span">Example Questions</summary>
 
 Example questions include:
 
@@ -179,14 +180,15 @@ Example questions include:
 1. Do you know how GitLab will employ you in the country you’re based? (As GitLab keeps growing rapidly it is important to share how we can employ people in each country. We should redirect the candidates to the [Contracts and International Expansion](/handbook/people-group/employment-solutions/) page and go through it with them.)
 
 At the end of the screening call, the recruiter will tell you what the next steps will be, if any. There should be time for you to ask any questions you may have.
+
 </details>
 
 ## Moving Candidates Through The Process
 
 In an effort to streamline the hiring process, improve the candidate experience, and hire talent faster, best practice is to coordinate interview times so that candidates can complete the process within 2 weeks. Just as if we were to interview candidates in-person at an office, we wouldn’t make them come back 3, 4, or even 5 times. The initial screening call and optional CEO interview are not considered to be part of the 2-week goal. If the process before or during the team interview is taking more than a few days to confirm, the Recruiter should reach out to the candidate, apologize, and explain what is going on. As a candidate it is really frustrating to not hear anything from the other side just to have the conversations resume later as if nothing had happened.
 
-<details open><summary>Best practices
-</summary>
+<details open="open">
+<summary markdown="span">Best practices</summary>
 
 **Those on the interview team should prioritize the interview in their schedules.** If it means you have to miss an already scheduled or recurring meeting, please consider participating in the interview a priority and reviewing notes from the missed meeting agenda afterwards instead. Hiring an amazing team is critical for GitLab, and how we spend our time shows where our priorities are.
 
@@ -214,18 +216,19 @@ If the manager has a question about compensation, please ping the People Ops Ana
 **GitLab Employment and Contractor Agreements are internal-only.** If an applicant requests to see one or more of our contracts from our Internal-only [Employment and Contractor Agreements](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/#employment-and-contractor-agreements) section, please advise them that we are unable to share them with the applicant. Talent Acquisition and CES may point the applicant to the relevant Benefits handbook section or pages, or direct any specific questions to the relevant internal teams, be it Legal, Total Rewards, or People Ops.
 
 **An approval team authorizes all offers.** The manager proposes a suggestion for an offer (including bonus structure if applicable, etc.) as a private comment in Greenhouse and informs the talent acquisition team on its details depending on what is applicable. The talent acquisition team will create an [offer package](/handbook/hiring/offers/#offer-package-in-greenhouse) to present to an approval chain consisting of the People Business Partner, executive of the division, and Chief People Officer for approval. Verbal offers should not be extended to the candidate until the offer is approved. The CEO may choose to interview the candidate, and any offers given before the CEO's approval are premature.
+
 </details>
 
 ## Rejecting Candidates
 
-<details open><summary>Rejecting and Feedback
-</summary>
+<details open="open">
+<summary markdown="span">Rejecting and Feedback</summary>
 
 1. At any time during the hiring process the candidate can be rejected.
 1. Everyone who interviews a candidate must complete a scorecard and are required to input pros and cons as well as an overall recommendation.
 1. If a situation arises in which the role has been filled within 24 hours of a candidate's interview, we will **not** cancel the interview. The interviewer will take the call and be transparent with the candidate about the situation upfront. It would be a good use of time to discuss other roles, future roles or questions about GitLab in general.
     - If the candidate's interview is outside 24 hours, the interview will be deleted in Greenhouse before the candidate is rejected and notified.
-1. The candidate should always be notified if they've been rejected, and the talent acquisition team is primarily responsible for declining the candidate. Please note that due to a variety of reasons, including high applicant volumes and other factors, it may not be possible for the the talent acquisition team to provide detailed decline feedback. 
+1. The candidate should always be notified if they've been rejected, and the talent acquisition team is primarily responsible for declining the candidate. Please note that due to a variety of reasons, including high applicant volumes and other factors, it may not be possible for the talent acquisition team to provide detailed decline feedback.
 1. If people argue with the feedback that we provided:
     - Do not argue with or acknowledge the validity of the contents of the feedback.
     - Share their feedback with the people involved in the interviews and the decision.
@@ -237,17 +240,18 @@ If the manager has a question about compensation, please ping the People Ops Ana
 
 ## How We Conduct Remote Interviews on a Global Scale
 
-<details open><summary>How We Work During Holidays
-</summary>
+<details open="open">
+<summary markdown="span">How We Work During Holidays</summary>
 
 As an all-remote, global company, GitLab gives all team members the flexibility to determine their [time away from work](/handbook/paid-time-off/), including the holidays they observe.
 There will likely be holidays that our candidates observe that a recruiter, hiring manager, or CES may not.
 If there's a time during the year when a significant portion of the company will be taking time off, we'll be sure to send a communication to all active candidates to let them know of a possible delay in communication.
 Please note that not every member of the team will be observing that holiday, so you may still receive emails from them.
+
 </details>
 
-<details open><summary>How We Schedule Interviews on a Global Scale
-</summary>
+<details open="open">
+<summary markdown="span">How We Schedule Interviews on a Global Scale</summary>
 
 1. Once a candidate has completed a screening call with the recruiter, the candidates are moved onto the Team Interview stage. This is the most difficult stage to schedule for as it involves many different people most of the time spread all across the world.
 1. The candidate will receive an email from either the Recruiter or CES requesting availability to schedule interviews. The best thing a candidate can do is to give us many different days and times spread across at least 2 weeks. This will prevent us having to reach out again asking for more availability. **Note** Sometimes if the interviewer has a schedule that is difficult to fit interviews into, there will already be suggested times for the interview to take place in the availability link.
