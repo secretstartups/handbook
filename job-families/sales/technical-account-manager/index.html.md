@@ -378,11 +378,38 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 - In addition to the corresponding Technical Account Manager level requirements:
 - TS/SCI Security Clearance if applicable
 - Knowledge of and demonstrated progressive experience with Public Sector customers
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies. 
+- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
 
+## Customer Success Engineer (CSE)
 
+The Customer Success Engineer (CSE) role provides deep subject matter expertise on GitLab technical and product solutions and best practices. CSEs work alongside TAMs to provide customers with technical guidance, go in-depth on use case implementation, and demonstrate the value of GitLab product capabilities.
 
+### CSE Job Grade
 
+The CSE (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### CSE Responsibilities
+
+- Engage with customers, both onsite and remote, in a technical consultancy and advisor role during the post-sales process while providing technical and solution guidance
+- Have demonstrated the ability to become a trusted technical advisor to customer and business leaders
+- Drive the achievement of measurable value (business outcomes), leading to product adoption, renewal, and expansion
+- Align with Technical Account Managers to provide customer-facing subject matter expertise based on the customer's business objectives
+- Focus on solution-based programs that are customized to fit an individual customer's needs
+- Develop and collaborate on customer workshops, demos, and other enablement
+- Maintain specialty competency in one or more technologies related to GitLab's market focus through activities such as training, certification and creation of working examples for reuse internally and by customers and partners
+- Continuously improve professional skills with a focus on personal mastery and team learning through activities such as training, reading and seeking mentorship from others
+
+### CSE Requirements
+
+- Experience with a GitLab use case (SCM, CI, CD, DevSecOps, Agile Planning) to provide in-depth customer guidance and enablement
+- Proficiency using DevSecOps tools or highly technical tooling in adjacent fields
+- Specialize in GitLab use cases to provide in-depth guidance and enablement to customers of all sizes, including large enterprise organizations
+- Technical experience in development or systems engineering
+- Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions
+- Exceptional verbal, presentation, and written communication skills
+- Excellent time management and ability to work with several different teams at any given time
+- Alignment with [GitLab values](/handbook/values/) and ability to work in accordance with those values
+- Ability to travel if needed and comply with the company's [travel policy](/handbook/travel/)
 
 ## Performance Indicators
 
