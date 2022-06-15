@@ -15,7 +15,8 @@ title: "Enterprise Dimensional Model"
 
 The Enterprise Dimensional Model (EDM) is GitLab's centralized data model, designed to enable and support the highest levels of accuracy and quality for reporting and analytics. The data model follows the [Kimball](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/) technique, including a Bus Matrix and Entity Relationship Diagram. Dimensional Modeling is the third step of our overarching [Data Development Approach](https://about.gitlab.com/handbook/business-technology/data-team/organization/#development-approach) (after Requirements definition and UI Wireframing) and this overall approach enables us to repeatedly produce high-quality data solutions. The EDM is housed in our Snowflake [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) and is generated using [dbt](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/).
 
-As of 2021-April, the EDM solves for Go-To-Market funnel analytics and is actively being expanded to solve for Product Usage analytics. Example SiSense dashboards powered by the EDM include:
+Example SiSense dashboards powered by the EDM include:
+
 - [TD: Sales Funnel](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual)
 - [TD: Customer Segmentation](https://app.periscopedata.com/app/gitlab/718514/TD:-Customer-Segmentation)
 - [TD: Drillable Net Retention](https://app.periscopedata.com/app/gitlab/763726/TD:-Drillable-Net-Retention)
@@ -59,69 +60,18 @@ Star schema with dimensional tables linking to more dimensional tables are calle
 - Dimensional modeling supports centralized implementation of business logic and consistent definitions across business users e.g. one source of truth of customer definition
 - The design supports 'plug and play' of new subject areas and in fact the model grows in power as more dimensions are added
 
-## Our Very First Iteration - Solving for ARR and Customer Counts
-
-The initial iteration was proposed in [2019-December](https://gitlab.com/gitlab-data/managers/-/merge_requests/1) and we deployed a model to support ARR/ Customer counts in [2020-May](https://gitlab.com/groups/gitlab-data/-/epics/76). 
-
-```mermaid
-classDiagram
-    fct_charges --|> dim_subscriptions
-    fct_charges --|> dim_accounts
-    fct_charges --|> dim_dates
-    fct_charges --|> dim_product_details
-    dim_accounts --|> dim_customers
-    dim_subscriptions --|> dim_customers
-    fct_invoice_items_agg <|-- fct_charges
-    fct_invoice_items <|-- fct_charges
-    fct_charges : +FK invoice_item_id
-    fct_charges : +FK account_id
-    fct_charges: +FK product_id
-    fct_charges: +FK subscription_id,
-    fct_charges: +FK effective_start_date_id,
-    fct_charges: +FK effective_end_date_id,
-    fct_charges: +FK product_details_id
-    fct_charges : +PK charge_id
-    fct_charges: mrr()
-    fct_charges: rate_plan_name()
-    fct_charges: rate_plan_charge_name()
-    fct_invoice_items_agg: +PK charge_id
-    fct_invoice_items_agg: charge_amount_sum()
-    fct_invoice_items: +PK invoice_item_id
-    class dim_accounts{
-        PK: account_id
-        FK: crm_id
-        account_name()
-        country()
-    }
-    class dim_subscriptions{
-        PK: subscription_id
-        FK: crm_id
-        subscription_status()
-    }
-    class dim_dates {
-        PK: date_id
-    }
-    class dim_customers {
-        PK: crm_id
-        customer_id
-    }
-    class dim_product_details {
-        PK: product_details_id
-    }
-```
-
 ## Enterprise Dimensional Model Governance
 
-##### Modeling Development Process
+#### Modeling Development Process
 
 1. Extend the [dimension bus matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=1372061550) as the blueprint for the EDM.
 1. Add the table to the appropriate LucidChart ERD.
 1. Model each source in the `PREP` database using source specific schema names.
 1. Create `PREP` tables in the `COMMON_PREP` schema in the `PROD` database as required by the use case. Building `PREP` tables in the `COMMON_PREP` schema is optional and depends on the use case.
-1. Deploy dimension tables. Each dimension also includes a common record entry of -1 key value to represent `unknown`
-1. Create fact tables. Populate facts with correct dimension keys, and use the -1 key value for unknowable keys.
+1. Deploy dimension tables. Each dimension also includes a common record entry of `MD5('-1')` key value to represent `missing`.
+1. Create fact tables. Populate facts with correct dimension keys, and use the `MD5('-1')` key value for missing keys.
 
-##### Naming Standards
+#### Naming Standards
 
 It is critical to be intentional when organizing a self-service data environment, starting with naming conventions. The goal is to make navigating the data warehouse easy for beginner, intermediate, and advanced users. We make this possible by following these best practices:
 
@@ -131,18 +81,49 @@ It is critical to be intentional when organizing a self-service data environment
 1. Use prefixes in table and column names to group like data. Data will remain logically grouped when sorted alphabetically, e.g. dim_geo_location, dim_geo_region, dim_geo_sub_region.
 1. Use dimension table names in primary and foreign key naming. This makes it clear to the user what table will need to be joined to pull in additional attributes. For example, the primary key for dim_crm_account is dim_crm_account_id. If this field appears in fct_subscription, it will be named dim_crm_account_id to make it clear the user will need to join to dim_crm_account to get additional account details.
 
-##### Modeling Requirements
+#### Modeling Guidelines
 
-- Typically, we will create the dimensions in the `common` schema first, and then the code that builds the fact tables references these common dimensions (LEFT JOIN) to ensure the common key is available. There are some situation where logically we are 100% confident every key that is in the fact table will be available in the dimension. This depends on the source of the dimension and any logic applied.
-- Both facts and dimensions should be tested using [Trusted Data Framework (TDF)](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) tests.
-    - For dimensions, we can test for the existence of the -1 (unknown) dimension_id, and total row counts.
-    - For facts, we can test to ensure the number of records/rows is not expanded due to incorrect granularity joins, and can add a golden data test to pull the dimension attribute from the dimension table for the related fact record and compare to the expected value on the golden data record.
-- fct_ and dim_ models should be materialized as tables to improve query performance,
-- All dimensions must have:
-    - An hashed surrogate key,
-    - A natural unique key. This key value can be composed from multiple columns to generate uniqueness.
-- Models are tested and documented in a schema.yml file in the same directory as the models,
-- All facts and dimensions have the following audit columns:
+##### Keys for Dimension Tables
+
+- **All dimensions must have a surrogate key:**
+    - The hashed surrogate key is a type of primary key that uniquely identifies each record in a model. It is generated by `dbt_utils.surrogate_key` macro and is not derived from any source application data unlike a natural key. The main uses of the surrogate key are to act as the primary key and be used to join dims and facts together in the dimensional model. This allows the data warehouse to generate and control the key and protect the dimensional model from changes in the source system. The surrogate key cannot be used to filter tables since it is a hashed field.
+    - An example of the surrogate key creation can be found in [prep_order_type](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_order_type#code). In this example 
+`{{ dbt_utils.surrogate_key(['order_type_stamped']) }}`, the natural key `order_type_stamped` is added to the macro to generate the surrogate key `dim_order_type_id`.  
+    - As of June 2022, the hashed surrogate key should not include the id in the column name. This is because a composite surrogate key would no longer be an id, so just using `_sk` will keep it simple to name both composite and non-composite surrogate keys. dim_order_type_id will be dim_order_type_sk. This is a new requirement starting in June 2022; therefore, not all surrogate keys in models will have the `_sk` suffix.
+    - All hashed surrogate keys should have the `dim_` prefix on them. An example is `dim_order_type_id`. This prefix indicates that this is what the dimension should be joined on in the dimensional model. The new requirement would have this key named `dim_order_type_sk`.
+    - The surrogate key should be the first column in the final dimension table and should have a commented section named `--Surrogate Key` so that it is easily identifiable. Also, the surrogate key description can be added to the columns in the `schema.yml` file.
+
+- **All dimensions must have a natural key:**
+    - A natural key is a type of primary key that uniquely identifies each record in a model. The natural key is derived from the source system application.
+    - A natural key can be a single field key value or the key value can be composed from multiple columns to generate uniqueness. It is not necessary to create a concatenated natural key field in the model and the surrogate key would provide a composite key. Natural keys are useful for filtering and analysis in the data and there is no utility gained by adding a concatenated natural key. In the [prep_order_type](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_order_type#code) example, `order_type_stamped` is a single field natural key that is included in the dimension table.
+    - The natural key does NOT have the `dim_` prefix. This is because the dimension should not be joined on the natural key to query or materialize star schemas. The joining of dims and facts and materializations of star schemas in the dimensional model should only be done via the hashed surrogate keys. 
+    - The natural key should be the second column(s) in the dimension table. The key should have a commented section named `--Natural Key` so that it is easily identifiable. Also, the natural key description can be added to the columns in the `schema.yml` file.
+
+- **All dimensions must have a missing member value:**
+    - An example of this is in [prep_order_type](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_order_type#code). We used the `MD5('-1')` to generate the `dim_order_type_id` value for missing member. As of June 2022, the `dbt_utils.surrogate_key` will be used to generate the value for missing member key. It returns the same value as the `MD5('-1')` and it will be easier to keep the same function that is used to generate the main surrogate key in the dimension. `'Missing order_type_name' AS order_type_name` and `'Missing order_type_grouped' AS order_type_grouped` are added as the values that would be returned when a join is made to the dimension and there is a missing member.
+    - Coming soon...We are developing a macro that can be used to generate the `missing member` value automagically in the dimension. The current process is to add the `missing member` entry manually to the dimension pursuant to the [prep_order_type](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_order_type#code) example. When there are many fields in the dimension, `missing member` values should be added for each field. [prep_amendment](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_amendment#code) is an example of this. The macro under development will aim to automate the generate of these `missing member` entries. 
+
+##### Keys for Fact Tables
+
+- **All fact tables must have a primary key:**
+    - The Primary Key can be either a single column using a column(surrogate key), a column(natural key), or set of columns(composite key) that have meaning to the business user and uniquely identifies a row in a table.
+    - The primary key should be the first column in the fact table. The `dbt_utils.surrogate_key` macro or a concatenation function can be used to create the key.  
+    - In some cases, the dimension and the fact will be at the same grain as is the case with [dim_crm_opportunity](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_crm_opportunity#code) and [fct_crm_opportunity](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_crm_opportunity#code). In those cases, we can use the hashed surrogate key as the primary key for both the fact and the dimension. This will make it simple to use and understand the tables. 
+    - The primary key should have a commented section named `--Primary Key` in the SQL script so that it is easily identifiable.
+    - The name of the key should be the table name minus the `fct_` prefix plus the `_pk` suffix on the end. It is not necessary to include `id` in the field name. An example is the [fct_event](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_event#code) where `event_id` is the primary key, in a commented `--Primary Key` section, where the key is the table name `fct_event` minus `fct_` plus `id` on the end. However, going forward from June 2022, this primary key would be named `event_pk`.
+
+- **All fact tables should have a foreign key section:**
+    - The foreign key section should be a commented section named `--Foreign Keys`. [fct_event](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_event#code) is an example. The foreign keys are the hashed surrogate keys from the dimensions. The star schema should be joined on and materialized using hashed surrogate keys.
+    - The commented `--Foreign Keys` section can also be further organized into a `Conformed Dimensions` and `Local Dimensions` sub-sections for the foreign keys. This will help for readability and makes it easy to identify the conformed and local dimensions.
+    - All foreign keys should use the [get_keyed_nulls macro](https://gitlab-data.gitlab.io/analytics/#!/macro/macro.gitlab_snowflake.get_keyed_nulls) to handle missing members and be able to join to the dimension to fetch the missing member. An example of this is [fct_crm_opportunity](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_crm_opportunity#code) where the foreign keys brought into the model use the `get_keyed_nulls` macro. 
+
+##### Testing and Documentation
+
+- Models are tested and documented in a schema.yml file in the same directory as the models
+
+##### Table Audit Columns
+
+- **All fact and dimension tables should have the following audit columns:**
     - revision_number - this is a manually incremented number representing a logical change in the model
     - created_by - this is a GitLab user id
     - updated_by - this is a GitLab user id
@@ -150,8 +131,6 @@ It is critical to be intentional when organizing a self-service data environment
     - model_updated_at timestamp - this is the last time the model was updated by someone
     - dbt_created_at timestamp - this is populated by dbt when the table is created
     - dbt_updated_at timestamp - this is the date the data was last loaded. For most models, this will be the same as dbt_created_at with the exception of incremental models.
-- The Prep(prep_) and mapping/look-up(map_) tables to support dimension tables should be created in `common_mapping` schema.
-- Additional Bridge(bdg_) tables should reside in `common` schema. These tables act as intermediate tables to resolve many-to-many relationships between two tables.
 
 ##### ERD Requirements
 
@@ -165,9 +144,12 @@ It is critical to be intentional when organizing a self-service data environment
 
 ##### Additional Guidelines
 
-The Dimensional Model is meant to be simple to use and designed for the user. Dimensional models are likely to be denormalized, as opposite to source models, making them easier to read and interpret, as well as allowing efficient querying by reducing the number of joins.
-
-- Very often a CTE duplicated across two models qualifies to be a separate fct_/dim_ table
+- The Dimensional Model is meant to be simple to use and designed for the user. Dimensional models are likely to be denormalized, as opposite to source models, making them easier to read and interpret, as well as allowing efficient querying by reducing the number of joins.
+- Typically, we will create the dimensions in the `common` schema first, and then the code that builds the fact tables references these common dimensions (LEFT JOIN) to ensure the common key is available. There are some situation where logically we are 100% confident every key that is in the fact table will be available in the dimension. This depends on the source of the dimension and any logic applied.
+- Both facts and dimensions should be tested using [Trusted Data Framework (TDF)](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) tests.
+    - For dimensions, we can test for the existence of the `MD5('-1')` (missing) dimension_id, and total row counts.
+    - For facts, we can test to ensure the number of records/rows is not expanded due to incorrect granularity joins, and can add a golden data test to pull the dimension attribute from the dimension table for the related fact record and compare to the expected value on the golden data record.
+- fct_ and dim_ models should be materialized as tables to improve query performance.
 
 ## Schemas
 
@@ -193,6 +175,10 @@ In order to keep the `COMMON_PREP` schema streamlined and without unnecessary re
 1. Prefer to not filter records out of the Prep Model in the `COMMON_PREP` schema. This allows it to be the SSOT Prep model for the lineage where additional dimensional and reporting models can be built downstream from it either in a `DIM`, `FACT`, `MART`, `MAPPING`, `BDG` or `REPORT` table. Prefer to start filtering out data in the `COMMON` schema and subsequent downstream models. Filtering out data in the `COMMON_PREP` schema renders the Prep model not useful to build models in the `COMMON` schema that would require the data that was filtered out too early in the `COMMON_PREP` schema.
 
 1. Prefer to not make a model in the `COMMON_PREP` schema that is only for the sake of following the same pattern of having Prep models. For example, if a dimension table is built in the `COMMON` schema and is only built by doing a `SELECT *` from the table in the `COMMON_PREP` schema, then it may be the case that the Prep model is not needed and we can build that model directly in the `COMMON` schema. 
+
+#### Common Mapping
+
+Mapping/look-up(map_) tables to support dimension tables should be created in the `common_mapping` schema.
 
 #### Common
 
@@ -227,6 +213,10 @@ Derived Facts are built on top of the Atomic Facts. The Derived Fact directly re
 1. Filter a large, Atomic Fact table into smaller pieces that provide for an enhanced querying and analysis experience for Data Analytics Professionals. For example, we may have a large event table and one Business Analytics team may only need to query 10% of that data on a regular basis. Creating a Derived Fact table that essentially describes a sub-process within the larger business process the event table is measuring provides for an optimized querying experience.
 1. Precompute and aggregate commonly used aggregations of data. This is particular useful with semi-additive and non-additive measurements. For example, semi-additive metrics such as ratios cannot be summed across different aggregation grains and it is necessary to recompute the ratio at each grain. In this case, creating a Derived Fact would help insure that all Analysts and BI Developers get the same answer for the ratio analysis. Another example is with measures that are semi-additive balances such as ARR, Retention, or a Balance Sheet account balance. In those cases, creating Derived Facts that precompute answers at the required grains would help insure that all Analysts and BI Developers get the same answer for the analyses.
 1. Create `Drill Across Facts` that connect two or more facts together through Conformed Dimensions and store as a Derived Fact table. In this process, separate select statments are issued to each fact in the project and includes the Conformed Dimensions the facts have in Common. The results are combined using a Full Outer Join on the Conformed Dimensions included in the select statement results.  
+
+##### Bridge Tables
+
+Bridge(bdg_) tables should reside in the `common` schema. These tables act as intermediate tables to resolve many-to-many relationships between two tables.
 
 #### Common Mart
 
