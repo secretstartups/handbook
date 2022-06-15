@@ -576,6 +576,14 @@ We recognize that just as [an issue may be broken down into multiple merge reque
 We aim for the current [development department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
 which is tracked using our [Growth Section Metrics](/handbook/engineering/development/growth/#growth-metrics).
 
+## Error budget
+
+We maintain [UsageData API endpoints](https://docs.gitlab.com/ee/development/service_ping/implement.html#usagedata-api) under the `service_ping` feature to track events, and because of this we must monitor our [budget spend](https://about.gitlab.com/handbook/engineering/error-budgets/).
+
+To investigate budget spend, see the [overview](https://dashboards.gitlab.net/d/stage-groups-product_intelligence/stage-groups-product-intelligence-group-dashboard?orgId=1) and [details](https://dashboards.gitlab.net/d/stage-groups-detail-product_intelligence/stage-groups-product-intelligence-group-error-budget-detail?orgId=1) Grafana dashboards for Product Intelligence. You can also check requests contributing to spending the budget in Kibana by filtering by the `service_ping` feature. An example Kibana view can be found [here](https://log.gprd.gitlab.net/goto/8e82ff10-ecb8-11ec-8656-f5f2137823ba).
+
+Note that the budget spend is calculated proportionally by requests failing apdex or failing with an error, and not by how much the target is exceeded. For example, if we had an endpoint with a set goal of 1s request duration, then bringing the request duration from 10s to 5s would not improve the budget.
+
 ## Product Intelligence dbt development process
 
 [Dbt](/handbook/business-technology/data-team/platform/dbt-guide/#what-and-why), short for data build tool, is an open source project for managing data transformations in a data warehouse.
