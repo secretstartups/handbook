@@ -78,3 +78,7 @@ The Salesforce knowledge base has [a resource](https://help.salesforce.com/artic
 | Deploy Change Sets    | Yes                   | No               | No                 | No                                     |
 | Customize Application | Yes                   | No              | No                  | No                                     |
 | Manage Users          | Yes                   | Yes              | No                 | [Yes](https://gitlab.my.salesforce.com/005?id=0PS4M00000113lT&isUserEntityOverride=1&SetupNode=PermSets) - Sales Comp Team|
+
+### SFDC Backups
+
+Our Salesforce Backup solution is [Ownbackup](https://www.ownbackup.com/). There compliance information is located [here](https://www.ownbackup.com/trust/).
