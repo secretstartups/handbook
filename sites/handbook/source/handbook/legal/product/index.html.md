@@ -13,6 +13,7 @@ description: "Legal Product team page"
 ## Marketing
 * Visit the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/), which covers amongst other things [Promotional Games](https://about.gitlab.com/handbook/legal/marketing-collaboration/#promotional-games) and [Media Consent and Model Release Requests](https://about.gitlab.com/handbook/legal/marketing-collaboration/#media-consent-and-model-release). 
 * If the request is not addressed in the Marketing Guide, open a new [General Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template).
+* For all materials requiring legal review, refer to the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process).
 
 ## Patent Program
 [GitLab Patent Program](https://about.gitlab.com/handbook/legal/patent-program/)
