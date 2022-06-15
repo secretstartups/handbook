@@ -30,6 +30,7 @@ During the onboarding process, a People Experience Associate will complete the f
         * $500 base referral bonus for a new hire.
         * $1,000 supplemental referral bonus for a hire from a Location factor less than 0.65.
         * $1,500 supplemental referral bonus for a hire from an underrepresented group. 
+    * For candidates referred multiple times, the referral date is determined by the date the referral was submitted for the position the candidate ends up accepting.
 3. Add a note in the new team member's BambooHR profile with the name of their referrer.
 4. Open the Current Team Members BHR profile
     * `Job` tab > `Bonus` table > `Add Bonus`
