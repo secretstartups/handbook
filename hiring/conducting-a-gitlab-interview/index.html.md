@@ -204,6 +204,14 @@ The scoring definitions for GitLab's Engineering Division are defined differentl
 
 More info on [engineering hiring practices](/handbook/engineering/#hiring-practices).
 
+##### Level Categories in Engineering Scorecards 
+
+Whereas the scoring definitions company-wide describe the probability of hire, the scoring definitions in the Engineering Division are meant to reflect the candidate's interview performance. To further support the ability to utilise interview results to hire across all levels, we have added a 'Level' category to R&D scorecards.
+
+In this category, the interviewer can define the level the candidate scored on, and add details on why they scored a candidate on the particular level. The added value of this category is that the interviewer can score the candidate on multiple levels (ex. the Senior level and the Intermediate level).
+
+This scorecard feature will increase sharing of candidates that, for example, may meet the 'must-have' criteria on an Intermediate level position but did not meet all of the 'must have' criteria on a Senior level. The dual score, when applicable, will help recruiters and hiring managers with candidacy decisions. Interviewers should use the notes section to capture the why behind their score and provide any additional detail that is directly relevant in assessing leveling.
+
 ### Frequently Asked Questions (FAQ)
 
 * My Zoom link isn't working, who can help?
