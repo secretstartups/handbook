@@ -100,7 +100,7 @@ Some details regarding the above code:
 1. [**DBI**](https://dbi.r-dbi.org/) is a package that helps connect R to various databases. Above, we are using the `dbConnect()` function to pass our database parameters. 
 1. `odbc::odbc()` tells the function you are going to use an ODBC driver for this connection.
 1. The `rstudioapi::askForPassword("")` function prompts the user to enter their UID and/or their PWD so it is not stored in their script.
-1. `driver = "Snowflake"` is specific to the odbcinst.ini file set up above. This specifies which driver will be used to connection.
+1. `driver = "Snowflake"` is specific to the odbcinst.ini file set up above. This specifies which driver will be used to connect. (NOTE: if you are experiencing issues connecting, try changing the syntax to the actual path of the driver in R. Example: `driver = "/opt/snowflake/snowflakeodbc/lib/universal/libSnowflake.dylib"`.
 1. `server = "gitlab.snowflakecomputing.com` is specific to the snowflake instance being accessed.
 
 ### OKTA Authenticator
@@ -145,7 +145,7 @@ Last, the [**dbplyr**](https://dbplyr.tidyverse.org/) package can be used to int
 - Create an SSH key by following the instructions under the [Generate an SSH Key Pair](https://docs.gitlab.com/ee/user/ssh.html) section. 
     - ED25519 is recommended
     - Once complete, add the private key path to the **SSH RSA Key** field
-    - ![Git-SVN](/sites/handbook/source/handbook/business-technology/data-team/platform/rstudio/Git1.png)
+    - ![Git-SVN](/handbook/business-technology/data-team/platform/rstudio/Git1.png)
 - Configure Git by setting your **GitLab user name** and **GitLab email** in RStudio
     - To open the Git prompt go to **Tools** > **Shell** and enter the following:
         - `git config --global user.name 'yourGitHubUsername'`
@@ -155,13 +155,13 @@ Last, the [**dbplyr**](https://dbplyr.tidyverse.org/) package can be used to int
 ### Part 3: Create an RStudio Project with Git
 - To create a new project based on a remote Git repository:
     - Select **File** > **New Project** > **Version Control**
-    - ![Git-Project](/sites/handbook/source/handbook/business-technology/data-team/platform/rstudio/Git2.png)
+    - ![Git-Project](/handbook/business-technology/data-team/platform/rstudio/Git2.png)
     - Choose **Git**, then provide the repository URL:
-        - ![Git-Repo](/sites/handbook/source/handbook/business-technology/data-team/platform/rstudio/Git3.png)
+        - ![Git-Repo](/handbook/business-technology/data-team/platform/rstudio/Git3.png)
         - Access the GitLab project you want to clone
         - Select the **Clone** drop-down button at the top right
         - Copy the URL for **Clone with HTTPS**
-        - ![Git-Clone](/sites/handbook/source/handbook/business-technology/data-team/platform/rstudio/Git5.png)
+        - ![Git-Clone](/handbook/business-technology/data-team/platform/rstudio/Git5.png)
         - Paste this link into the **Repository URL** section in RStudio
         - Select **Create New Project**
 - The GitLab Project should now be visible in R Studio
