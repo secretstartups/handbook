@@ -73,18 +73,18 @@ A 25-minute discussion to reflect on the experience. Attendance is **optional**.
 
 ## Current Program Timeline
 
-Review the progam timeline below for the next iteration of this program which will run from February through June of 2022
+The next iteration of this program is currently being planned. Please fill out [this interest form](https://docs.google.com/forms/d/e/1FAIpQLSc49xN1n3VNzX-yQNbRcG6CJiksQy41aAMw0QnF1F6vyhwgkA/viewform?usp=sf_link) to stay informed of program updates.
 
 | Date | Description | Related Resources |
 | ----- | ----- | ----- |
-| 2021-09 | Discuss program details with Women's TMRG group meeting |  |
-| 2021-12-08 | Call for Mentors | |
-| 2021-12-08| Call for Mentees | |
-| 2022-01-12 | Applications Close | |
-| 2022-01-21  | Pairing of mentor relationships complete and communicated to applicants | |
-| 2022-01-24 to 2022-02-04 | Mentor/Mentee pre-program coffee chats | |
-| 2022-02-2 and 2022-02-3 | [Initial program Kickoff meeting](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#program-structure) | [Meeting Agenda](https://docs.google.com/document/d/1a6G7wqcfZTtEbMzsN0sdf-s7-GKIE6H2s0J_-XdFduM/edit) |
-| 2022-06-15 | End of program celebration | [Meeting Agenda](https://docs.google.com/document/d/1Iek-_2v72z-9Y593g5iCAy0tw2FYyGriLnJch9oCPHM/edit?usp=sharing) |
+| TBD | Discuss program details with Women's TMRG group meeting |  |
+| TBD  | Call for Mentors | |
+| TBD | Call for Mentees | |
+| TBD  | Applications Close | |
+| TBD   | Pairing of mentor relationships complete and communicated to applicants | |
+|TBD | Mentor/Mentee pre-program coffee chats | |
+| TBD  | Initial program Kickoff meeting |
+| TBD | End of program celebration |  |
 
 
 ## Being a Mentor
@@ -187,6 +187,18 @@ Team members are always encouraged to build mentor/mentee relationships independ
 
 Questions, comments, and feedback can be posted in the [#women](https://app.slack.com/client/T02592416/C7V402V8X) slack channel. 
 
+
+## 2022 Program Results
+
+### Participation 
+
+1. Total Participants: 120 team members / 63 mentor/mentee pairs
+1. Unique Departments Represented by Mentees: 21
+1. Unique Departments Represented by Mentors: 24
+
+### Post-Program Survey
+
+Results will be documented in July 2022.
 
 ## 2021 Program Results
 
