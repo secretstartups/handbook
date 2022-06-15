@@ -46,7 +46,7 @@ This section is meant to outline how team members in the Women TMRG can contribu
 
 ### Attend the Monthly TMRG Planning Meeting
 
-This meeting is hosted 1x per month on Wednesdays at 3pm UTC and Thursdays at 12am UTC and 2am UTC for 45 minutes. Allies are always encouraged to attend any TMRG meeting. The call structure includes:
+This meeting is hosted 1x per month on Wednesdays at 2:30pm UTC, 11pm UTC, and Thursdays at 2am UTC 45 minutes. Allies are always encouraged to attend any TMRG meeting. The call structure includes:
 
      1. 25 minutes for full group discussion of agenda topics
      1. 20 minutes small breakout groups for social discussion
