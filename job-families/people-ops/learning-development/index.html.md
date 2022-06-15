@@ -77,16 +77,16 @@ The Learning & Development Partner is a [grade 7](/handbook/total-rewards/compen
 - Extends the Intermediate Learning & Development Program Manager responsibilities
 - Partner with members of the People group and the leadership team to identify, develop, and deliver solutions that support the growth of our team members and GitLab's success
 - Establish an internal learning and development roadmap for all GitLab managers and individual contributors
-- Iterate on existing materials and design and develop new L&D content, utilizing [GitLab's YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and [handbook](/handbook/handbook-usage/)
+- Iterate on existing materials and design and develop new onboarding/L&D content, utilizing [GitLab's YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and [handbook](/handbook/handbook-usage/)
 - Monitor L&D metrics and iterate upon programs and courses for continuous improvement
-- Create and design the supporting course material for all development programs, both for instructor-led and e-learning
+- Create and design the supporting course material for all onboarding and/or development programs, both for instructor-led and e-learning
 - Identify and design the right learning solutions to support GitLab's growth
 - Build and scale initiatives that focuses on company culture, individual development, strengthening our leadership, and organizational learning
 
 ###  Senior Learning & Development Program Manager Requirements
 
 - Extends the Learning & Development Program Manager (Intermediate) requirements
-- 5+ years experience in related work such as instructional design and developing learning content
+- 5+ years experience in related work such as instructional design and developing learning or onboarding content
 - Track record of designing engaging and impactful development programs that improves individual, team, and company performance
 - Exceptional written and interpersonal skills
 - Experience developing self-service learning content, such as e-learning modules
