@@ -14,7 +14,7 @@ description: >-
 
 ## Introduction
 
-Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a [rotating schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing). Functions with a [Key Review](/handbook/key-review) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations.
+Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a rotating schedule. Functions with a [Key Review](/handbook/key-review) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations.
 
 The [Executive Business Administrator Team, also known as EBA Team](/job-families/people-ops/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Tuesday to Thursday. Some days might not have a Group Conversation scheduled in advance. These are listed in the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing) as **Available**. If you would like to be added to the GC rotation, please post in the slack channel #group-conversations and tag @exec-admins. The EBA to the CEO will schedule an AMA with an E-Group member if there is availability. We will have a Group Conversation or an AMA every Tuesday, Wednesday and Thursday. 
 
@@ -303,10 +303,6 @@ If your GC is optional and you need to move the date, please work with your depa
 
 | Date | GC or AMA| DRI| Key Review Date? |
 |-----------|-----|--------|--------|
-| Tuesday May 24 | ModelOps | Taylor McCaslin | N/A|
-| Wednesday May 25 | AMA with Sid Sijbrandij | EBA to CEO | N/A|
-| Thursday May 26 | Release and Configure Product Stage | Viktor Nagy| N/A|
-| Tuesday May 31 | Decomposition AMA | Nick Nguyen & Fabian Zimmer| N/A|
 | Wednesday June 1 | Quality | Quality Leadership| 2022-05-31|
 | Thursday June 2 | Customer Fireside Chat | Sherrod Patching | N/A|
 | Tuesday June 7 | People | People Leadership | 2022-05-26|
@@ -314,13 +310,25 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday June 9 | Community Relations |John Coghlan | N/A|
 | Tuesday June 14 | Finance | | 2022-05-24|
 | Wednesday June 15 | Product| | 2022-06-09|
-| Thursday June 16 | CRO (Sakamoto)| | Key Review Date|
-| Tuesday June 21 | TBD| | Key Review Date|
-| Wednesday June 22 | TBD | | Key Review Date|
-| Thursday June 23 | TBD | | Key Review Date|
-| Tuesday June 28 | DRI| | Key Review Date|
-| Wednesday June 29 | DRI| | Key Review Date|
-| Thursday June 30 | DRI| | Key Review Date|
+| Thursday June 16 | CRO | David Sakamoto | Key Review Date|
+| Tuesday June 21 | Security| Security Leadership | Key Review Date|
+| Wednesday June 22 | **Available** | | N/A |
+| Thursday June 23 | No Group Conversation | N/A | N/A|
+| Tuesday June 28 | AMA: Jihu| Stella Treas | N/A|
+| Wednesday June 29 | Alliances | Nima Badiey | N/A |
+| Thursday June 30 | Support | Tom Cooney | June 22 |
+| Tuesday July 5 | Infrastructure | Steve Loyd | June 23|
+| Wednesday July 6 | CRO| Michele Hodges | Key Review Date|
+| Thursday July 7 | UX| Christine Lenneville | June 30e|
+| Tuesday July 12 | **Available** | | N/A |
+| Wednesday July 13 | People | | July 7 |
+| Thursday July 14 | Brand Activation| Luke Babb | N/A |
+| Tuesday July 19 | Marketing| Ashley Kramer | N/A|
+| Wednesday July 20 | **Available** | | N/A |
+| Thursday July 21 | General (CEO)| Sid Sijbrandij | Key Review Date|
+| Tuesday July 26 | UX Research| Adam Smolinski | N/A |
+| Wednesday July 27 | Product| Product Leadership | Key Review Date|
+| Thursday July 28 | Digital Experience | Michael Preuss | N/A |
 
 ## Examples of Past Group Conversations
 
