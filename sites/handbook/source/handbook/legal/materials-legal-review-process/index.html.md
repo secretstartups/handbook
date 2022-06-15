@@ -27,7 +27,7 @@ This process does **not** apply to:
 * [AMAs](/handbook/communication/ask-me-anything/), [Key Review](/handbook/key-review/) meetings, and [Group Conversations](/handbook/group-conversations/) streamed or published [publicly](/handbook/marketing/marketing-operations/youtube/#visibility) to GitLab Unfiltered. However, these recordings should not be streamed or published if they contain confidential information;
 * External or internal handbook updates;
 * GitLab issues or merge requests;
-* Tier 0, Tier 1a, or Tier 1b internal communications as categorized by the Internal Comms Tiered System; and
+* Internal and external communications prepared in relation to _a contentious issue that undermines a critical attribute of our company’s brand and challenges its reputation or impacts, or has the potential to impact, the safety and wellbeing of our team-members_. Communications for such situations should be prepared in accordance with the [GitLab Incident Communications Plan](/handbook/marketing/corporate-marketing/incident-communications-plan/); and
 * Blog posts. A separate workstream is running to develop a SAFE review process for the review of blog posts that does not involve the use of public MRs; this process will be added in a future iteration.
 
 The Legal & Corporate Affairs Team will not approve materials in Slack because [Slack should not be used for obtaining approval](/handbook/communication/#slack); follow this process instead. However, if you’re unsure whether this process applies to the materials you are preparing, reach out to [#legal](https://app.slack.com/client/T02592416/C78E74A6L) to confirm. 
