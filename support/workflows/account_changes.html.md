@@ -55,7 +55,7 @@ If ownership is verified, then:
 
 Example cases include:
 
-1. Swapping secondary email with primary email due to primary email being unconfirmed, non-existent, or similar.
+1. Swapping secondary email with primary email due to primary email being unconfirmed or non-existent. When swapping the primary and secondary email address on file, a paid plan is not required as long as the email addresses are confirmed.
 1. Removing an identity tied to the user account. The identity should also be verified in these cases.
 
 ## Releasing an Email Address
