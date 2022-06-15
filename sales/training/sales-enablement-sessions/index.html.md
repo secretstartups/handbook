@@ -23,10 +23,10 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Jun 16 | Cloud Licensing Update | Courtney M.  |
+| Jun 16 | Positioning and Selling GitLab.com | Carolyn H. & Boughty C.   |
 | Jun 23 | Alliance Technology Partner Ecosystem Enablement | Mike L.  |
 | Jun 30 | Q2 FY23 Customer References Update | TBD  |
-| Jul 7 | TBD | TBD  |
+| Jul 7 | ROI Calculator | Cindy B.  |
 | Jul 14 | Storage and Transfer Data Limits Update | TBD  |
 | Jul 21 | *No session during the last two weeks of the quarter* | N/A |
 | Jul 28 | *No session during the last two weeks of the quarter* | N/A |
