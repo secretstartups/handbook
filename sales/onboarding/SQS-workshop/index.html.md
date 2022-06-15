@@ -38,16 +38,14 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 |June 16, 2022 | 11:00a ET | 12:20p ET | Discovery Question Exercise | Field Enablement  |
 |June 16, 2022 | 12:30p ET | 1:50p ET | Differentiator Exercise | Field Enablement  |
 |June 17, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
-|June 17, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
-|June 20, 2022 | 11:00a ET | 11:30a ET | Field Security |  Field Security Team   |
-|June 20, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
-|June 21, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services | Professional Services Team    |
-|June 21, 2022 | 12:00p ET | 12:50p ET | Discovery Call 1 | Mock Customers  |
+|June 17, 2022 | 12:30p ET | 12:55p ET | Field Security |  Field Security Team   |
+|June 21, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
+|June 21, 2022 | 1:00p ET | 1:50p ET | Discovery Call 1 | Mock Customers  |
 |June 22, 2022 | 11:00a ET | 11:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
 |June 22, 2022 | 12:00p ET | 12:50p ET | Discovery Call 2 | Mock Customers |
 |June 23, 2022 | 11:00a ET | 11:50a ET | Channels |  Channel Team   |
 |June 23, 2022 | 12:30p ET | 1:20p ET | Discovery Call 3 | Mock Customers |
-|June 24, 2022 | 12:00p ET | 1:00p ET | Intro to Competition | Competitive Intelligence  |
+|June 28, 2022 | 12:00p ET | 12:50p ET | Discussion: Professional Services | Professional Services Team    |
 
 
 
