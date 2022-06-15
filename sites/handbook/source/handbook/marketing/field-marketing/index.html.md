@@ -361,6 +361,9 @@ The following is the process for when a Field Marketing issue moves from `mktg-s
    - FMC pings the FMM in the Facilitate Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
 - When all the above tasks have been completed, the FMC will ping the FMM in the Field Marketing issue to confirm completion of the above tasks and will move the issue label `mktg-status::plan` to `mktg-status::wip`.
 
+### Plan to WIP video walk through 
+https://youtu.be/7l59sm_5aD4 - You must be logged into GitLab Unfiltered to view. 
+
 # Rescheduling or Cancelling Events
 
 ## [Marketing Calendar](/handbook/marketing/#marketing-calendar)
