@@ -71,10 +71,23 @@ Just because something is available for free on the internet (including on Googl
 
 
 
-* Obtain content from permissively-licensed sources, like [unsplash.com](https://unsplash.com/) for images, or use content created by GitLab.
+* Obtain content from permissively-licensed sources, like [unsplash.com*](https://unsplash.com/) for images, or use content created by GitLab.
 * If you’re unsure, reach out to [#legal](https://app.slack.com/client/T02592416/C78E74A6L) to review the license covering the content you want to use.
 * Provide attribution, ensuring that you follow any attribution guidelines which apply to the content you are using.
 
+*For Unsplash images, it’s good practice to credit Unsplash as the source and photographer. This helps team members repurposing materials determine if images can be used, and is courteous to the photographer.
+
+<details>
+<summary markdown="span">* For Unsplash images, it’s good practice to credit Unsplash as the source and photographer. This helps team members repurposing materials determine if images can be used, and is courteous to the photographer. Expand for attribution instructions.</summary>
+
+1. Create a small text box at the bottom right of the relevant slide.
+2. Locate the image on [unsplash.com](unsplash.com).
+3. Click on `Download free` but ignore the downloaded file.
+4. Copy the `Say thanks 🙌` attribution text to the clipboard.
+5. Insert the attribution text into the text box, and apply formatting: Font `Inter`, Size `8`, `Italic`.
+
+[Example Unsplash attribution](https://docs.google.com/presentation/d/1k4PWKJR9O1jEGxKblSQtjDsloQ95uvu6Ty9Pjpmin7E/edit#slide=id.g129bb425d32_0_273)
+</details>
 
 #### Don’t
 
