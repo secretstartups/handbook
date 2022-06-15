@@ -55,7 +55,7 @@ description: "Learn more about how GTM and Product Management are working togeth
 | Contributor           | Dave Steer | VP, Product Marketing|
 | Contributor           | Brian Wald | Director, Strategic Field |
 | Contributor           | Lee Faus | Global Field CTO |
-| Contributor           | | |
+| Contributor           | Francis Ofungwu | Global Field CISO |
 | Contributor           | | |
 
 ## Meetings
