@@ -90,7 +90,7 @@ Please refer to the specific linked issue for each event for details as they unf
 
 **AMER**
 - [GitLab and HashiCorp - A holistic guide to GitOps and the Cloud Operating Model](https://about.gitlab.com/webcast/gitlab-hashicorp-gitops/) - July 8, 2020
-- [From DevOps to DevSecOps: Automate your security tests with CI](https://about.gitlab.com/webcast/automate-security-ci/) - July 14, 2020
+- From DevOps to DevSecOps: Automate your security tests with CI - July 14, 2020
 - [Capital Group DevCon Virtual Conference](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1476) - July 14, 2020
 - [Virtual Apex Roundtable, Southwest](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1351) - July 14, 2020
 - [Virtual Captive Eight Summit, Seattle](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1474) - July 15, 2020
