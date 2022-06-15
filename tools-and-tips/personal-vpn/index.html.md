@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Personal VPN"
+description: "Basic questions answered, tips, and recommendations for using a personal VPN."
 ---
 
 ## On this page
@@ -40,7 +41,8 @@ It should be noted that while these particular brands were tested by the Securit
 
 - Be consistent in your usage. If your goal is to secure your device while using public Wi-Fi, always use the VPN.
 - Get familiar with your personal VPN before you use it. If you are using one while traveling, don't try it out for the first time at the airport while waiting to board your flight. Try it out at home. If you have a primary VPN and a backup, get familiar with both of them before active use.
-- Remember that a personal VPN is not a guarantee of complete security and privacy. Keep the software up-to-date with the latest patches, just like other applications and your operating system. Also remember that like any other organization, personal VPN developers can have breaches, security flaws, and other issues that could compromise your security and privacy. Stay alert, check back with the vendor's website, and keep an eye on `#security` as there will certainly be discussion of such issues as the Security Team hears about them.
+- Remember that a personal VPN is not a guarantee of complete security and privacy. Keep the software up-to-date with the latest patches, just like other applications and your operating system. Also remember that like any other organization, personal VPN vendors can have breaches, security flaws, and other issues that could compromise your security and privacy. Stay alert, check back with the vendor's website, and keep an eye on `#security` as there will certainly be discussion of such issues as the Security Team hears about them.
+- Most personal VPNs are preconfigured to automatically update and install patches or new versions. Ensure those settings are enabled, refer to the personal VPN vendor's documentation (usually via an application "Help" function or on their website) for more information.
 - Any settings that ensure "fail closed" or a "kill switch" should be enabled. This ensure that if your VPN fails to function, it doesn't automatically continue to allow network connectivity unprotected.
 - There may be reasons you cannot use a personal VPN while working. For example, if you are supporting a government customer, you might only be able to assist that customer while in that country and only use network connections within the geographic confines of that country. A personal VPN might route your travel through different jurisdictions, and therefore should not be used.
 - The same basic rules for personal usage that apply to you work laptop also apply to your personal VPN. However if you choose to use the personal VPN for additional devices in your home, this does not mean it is okay to connect up to GitLab work resources - the same access rules still apply, VPN or no.
