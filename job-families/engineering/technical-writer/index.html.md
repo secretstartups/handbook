@@ -121,6 +121,7 @@ Extends the Staff Technical Writer responsibilities in complexity and scope.
 
 - [Technical Writing team member MR rate](/handbook/engineering/ux/performance-indicators/#technical-writing-team-member-mr-rate)
 - [Distribution of Technical Writing team documentation effort](/handbook/engineering/ux/performance-indicators/#distribution-of-technical-writing-team-documentation-effort)
+- [Technical Writing collaboration on UI text](/handbook/engineering/ux/performance-indicators/#technical-writing-collaboration-on-ui-text)
 
 ## Career Ladder
 
