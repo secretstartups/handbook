@@ -384,7 +384,7 @@ GitLab scored 12% below the industry benchmark i.e. 2018 New Tech Size - Large C
 
 ## People Operations Procedures
 
-### How to add sub-departments or other demographics not found in BambooHR
+### How to add sub-departments or other demographics not found in Workday
 
 1. Open CultureAmp > Settings > Data Intergrations
 1. Select the blue `Sync Data` button
@@ -393,7 +393,7 @@ GitLab scored 12% below the industry benchmark i.e. 2018 New Tech Size - Large C
 1. Update the information on the spreadsheet
 1. Upload the spreadsheet into CultureAmp
 1. Select Next (bottom right corner)
-    - If you select Sync it will only Sync with BambooHR, regardless if you uploaded a file.
+    - If you select Sync it will only Sync with Workday, regardless if you uploaded a file.
 1. Select Import Data
 
 You have now updated a demographic in CultureAmp!

@@ -8,7 +8,7 @@ description: "Resources and direction for career development and mobility for al
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-{:toc .hidden-md .hidden-lg}
+{:toc .hidden-md .hidden-lg
 
 ## What is Career Development
 
@@ -376,7 +376,7 @@ Managers should support their direct reports with career and professional develo
 
 ### Career Development Conversation Acknowledgements
 
-Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results](/handbook/people-group/engagement/) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently. Starting in FY'22 we will be tracking career development conversations via BambooHR. 
+Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results](/handbook/people-group/engagement/) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently.
 
 ### Cadence
 
@@ -389,9 +389,7 @@ The bi-annual cadence is not required, but recommended. Some team members may pr
 
 ### Process 
 
-_Please note that while managers can facilitate career development conversations with team members and help guide growth plans by using our [internal resources](/handbook/people-group/learning-and-development/career-development/#internal-resources),  managers cannot complete the acknowledgement process for team members. The team member is responsible for the acknowledgement in BambooHR._
-
-Starting FY'22 (exact date is TBD) team members will receive a notice via BambooHR to acknowledge that a career conversation has occurred. By signing the acknowledgement you are confirming that you have indeed had a career development conversation during the specified time period (Q2 or Q4 respectively).
+_Please note that while managers can facilitate career development conversations with team members and help guide growth plans by using our [internal resources](/handbook/people-group/learning-and-development/career-development/#internal-resources),  managers cannot complete the acknowledgement process for team members._
 
 *  This is not mandatory, however we highly encourage all team members to discuss their career goals with their manager.
 *  There is not one right way to document a career development conversation. Some team members may use their 1:1 document to capture the conversation and actions, others may use the [tools provided above](/handbook/people-group/learning-and-development/career-development/#internal-resources) to help guide the conversation, or a team member may use their own personal template or process to have a career development conversation.

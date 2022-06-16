@@ -42,7 +42,7 @@ When going out of office, the People Experience Associate will open a PEA Handov
 
 The People Experience Associate will attempt to solve queries within the specific time zones and relevant SLA's. 
 
-If the People Experience Associate is unable to complete a specific/urgent task, please post in the `#pea-team` Slack channel. Please handover any important tasks/messages to the next team member available. 
+If the People Experience Associate is unable to complete a specific/urgent task, please post in the private team Slack channel. Please handover any important tasks/messages to the next team member available. 
 
 ### Bi-Weekly Rotations 
 
@@ -50,18 +50,19 @@ Bi-Weekly, the People Experience Associate will open a [PEA Rotation Issue](http
 
 The following factors are considered when allocating in the issue:
 - Scheduled PTO 
-- The listed Tasks are split  fairly
+- The listed Tasks are split fairly
 - The use of PEA/POps Task Tracker to divide certain tasks
-
-**The PEA Team will complete the below tasks within the designated SLA**
-- Verification Of Employment 
-- Anniversary Queries
-- Other requests that come through the People-Exp email. 
-- Referral Bonus Audit 
 
 #### Allocations for Onboarding
 
 - Not time zone specific to ensure that all Associates learn all aspects to different countries during onboarding. 
+#### Who to Onboard 
+
+Each time a new hire is successfully synced from Greenhouse to Workday, a notification is sent to the `#peopleops-alerts` Slack channel. The People Experience Associate in the applicable rotation, will then proceed with:
+
+- Opening the profile in Workday
+- Create an entry for the team member in the onboarding tracker, linking to the Workday profile
+- Acknowledge the Slack notification (this shows that this has been processed)
 
 #### Allocations for Offboarding
 
@@ -80,7 +81,7 @@ There are certain tasks that need to be completed by all the different departmen
 
 ##### Onboarding
 This will be the responsibility of the People Experience Associate that is assigned to the specific team members onboarding and should be completed prior to closing the issue. 
-    - Ensure that the new team member has shared a screenshot of their FileVault disk encryption and computer serial number in the onboarding issue. 
+    - Ensure that the new team member has shared a screenshot of their FileVault disk encryption and computer serial number in the onboarding issue (applicable to Linux computers only). 
     - Ensure that the new team member has acknowledged the 'Handbook' compliance task in the onboarding issue. 
     - Ensure that all the red dot compliance items have been completed.
 
@@ -89,58 +90,44 @@ This will be the responsibility of the People Experience Associate that is assig
     - Ensure that all the different departments complete their tasks within the 5 day due date. 
     - Ensure that the laptop has been wiped by the IT Ops team 
     - Ping the relevant team members to call for a task to be completed in the offboarding issue.
-    - Confirm that a departure announcement has been made in #team-member-updates on Slack.
 
 ##### Career Mobility
 This will be the responsibility of the People Experience Associate that is assigned to the specific team members career mobility issue and should be completed prior to closing the issue. 
     - Check to see whether the team member that has migrated needs any guidance.
-    - Ensure that the previous manager and current manager completes their respective tasks. 
+    - Ensure that the previous manager and current manager completes their respective tasks - including linking the relevant access requests. 
     - The issue should be closed within 2 weeks of creation, ping the relevant team members to call for a task to be completed in the issue.
 
 #### Referral Bonus Audit
 Cadence: Weekly
 
-The People Experience team will be pinged in the `#peopleops-alerts` Slack channel to complete an audit of whether referral bonuses have been added to the referring team members profile in BambooHR (for referring new hires for the last 3 months). This is part of an [existing automation](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#referral-bonus-reminders). 
+The People Experience team will be pinged in the `#peopleops-alerts` Slack channel to complete an audit of whether referral bonuses have been added to the referring team members profile in Workday (for referring new hires for the last 3 months). This is part of an [existing automation](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#referral-bonus-reminders). 
 
-The People Experience Associate will open the Greenhouse entry to confirm whether a referral was made for the new team member. If yes, proceed to the BambooHR profile of the referring team member and verify that a bonus has been added correctly as per the [referral requirements](https://about.gitlab.com/handbook/incentives/#referral-bonuses). 
+The People Experience Associate will open the Greenhouse entry to confirm whether a referral was made for the new team member. If yes, proceed to the Workday profile of the referring team member and verify that a bonus has been added correctly as per the [referral requirements](https://about.gitlab.com/handbook/incentives/#referral-bonuses). 
 
-**Over and above these audits, the Compliance Specialist will perform their own audits to ensure that certain tasks have been completed.**
-
-#### Payroll Changes Report Audit
-Cadence: Weekly
-
-BambooHR creates a standard Payroll Change report to capture any changes processed on a team member's profile.
-
-Process for auditing:
-
-* At the end of each week, the BambooHR Provisioner downloads a csv of the payroll changes report through that day from BambooHR and imports it into the 'Payroll Changes Report Audit' spreadsheet in a new tab labelled with the corresponding date.
-* Add a column for checkboxes and filter out any "Time off Taken" change types.
-* Review each change captured in the report to ensure the change was intentional, inputted correctly, and proper processing was followed for the change. Once the change has been reviewed, it can be checked off on the report.
 
 #### Emergency Contact Audit
 
-A Sisense notification will be sent to the People Experience team everytime there is a missing BambooHR Emergency Contact. The People Experience Associate in the respective rotation will send an email using the [template](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/missing-emergency-contact.md) available to notify team members to add their Emergency Contacts.
+A Sisense notification will be sent to the People Experience team everytime there is a missing Workday Emergency Contact. The People Experience Associate in the respective rotation will send an email using the [template](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/missing-emergency-contact.md) available to notify team members to add their Emergency Contacts.
 
 ### Onboarding Audit
 
 Cadence: Each new joiner.
 
-This is a manual review of each new joiner's BambooHR profile that takes place within their first week of employment. This audit is intended to correct any profile errors and, for US team members only, to check that the I-9 has been completed and sort each team member into the correct Benefit Group. This task is handled by the respective People Experience Associate in the relevant rotation.
+*** The People Experience Associates do not have full access to audit team members of the People Group. Please reach out to the Workday Admins for further assistance. 
 
-#### Audit Steps 
+#### Part 1: 
 
-The People Experience Associates do not have full access to audit team members of the People Group. Please reach out to the BambooHR Provisioners for further assistance. 
+When a new hire is synced from Greenhouse to Workday, the People Experience team will receive a notification in Workday to verify all the information has been synced correctly by matching to the signed offer agreement.
 
-#### Who to Onboard 
+#### Part 2:
 
-Check [Bamboo Onboarding Report](https://gitlab.bamboohr.com/reports/custom/Onboarding+Report/1966) to find out the list of new hire for the week or the relevant [issue board](https://gitlab.com/gitlab-com/team-member-epics/employment/-/boards/3350022) by use of the onboarding audit labels.
+This is a manual review of each new joiner's Workday profile that takes place within their first week of employment. This audit is intended to correct any profile errors and, for US team members only, to check that the I-9 has been completed and sort each team member into the correct Benefit Group. This task is handled by the respective People Experience Associate in the relevant rotation and completed on the "onboarding" tab in BambooHR.
 
-Note: Only the owner of the BambooHR report has power to edit the dates on the report for the current week so the issue board is the best way to view current team members who need the audit completed.
+##### Audit Steps in BambooHR
 
-#### Process 
 
 - Open the respective onboarding issue for the team member
-- Log into BambooHR and check that team member has inserted their date of birth (check the information updates Inbox as there may be a pending request to update this information). Ping the team member on day 2 if this field has not been completed.
+- Log into Workday and check that team member has inserted their date of birth (check the information updates Inbox as there may be a pending request to update this information). Ping the team member on day 2 if this field has not been completed.
     - For US team members, ensure that the Social Security Number has been inserted correctly (xxx-xx-xxxx) (the dashes needs to be included to ensure that the sync to ADP happens with no issues)
 - After verifying date of birth and SSN (if applicable), complete the following:
 
@@ -179,15 +166,6 @@ Note: Only the owner of the BambooHR report has power to edit the dates on the r
    * If title has a speciality, add it under “Job Title Speciality”, for example, “Backend Engineer, Verify” - “Backend Engineer” will go under “Job Title” but “Verify” will go under “Job Title Speciality”
 * Audit Options and Job Codes: audit job title and job code against this [list](https://docs.google.com/spreadsheets/d/1wUIvWrjErlGIlRLANomwqrQYOHPsklggATFbo0lElpU/edit#gid=1539740034)
 
-#### Access Level Audit 
-
-The Access Level field should only be updated if the team member is a manager or higher (leader, exec). If they are an IC, you can leave the level as is. The People Experience Associates do not have access to the `Access Level` field in BambooHR - this check should be left unchecked for the BambooHR Provisioners to complete in instances where the team member is not an IC.
-
-**Process for BambooHR Provisioners:**
-* Job tab > Settings icon > BambooHR Level:
-* For Employees who are Managers of people: "Managers"
-* For Contractors (independent or corp-to-corp): "Contractor Self-Service"
-* For Contractors who are Managers of people: "Multiple Access Levels": "Contractor Self-Service" and "Managers"
 
 #### Audit Locality & Region
 
@@ -203,11 +181,7 @@ The Access Level field should only be updated if the team member is a manager or
 * For sales: pick the sales zone as per the [Location Factors Sheet](https://docs.google.com/spreadsheets/d/1wUIvWrjErlGIlRLANomwqrQYOHPsklggATFbo0lElpU/edit#gid=2134917912)
    - **Note: Sales zone is not applicable within SA (formerly known as Customer Success) or Field Operations as location factor is applied - should read as n/a - comp calc**
 
-#### Payroll Change Report
 
-The People Experience Associates have no access to this report. The **BambooHR Provisioners** will complete the following:
-
-Reports (black heading on BHR) > Standard reports > Payroll change report > Change the date for the week > tick the team member’s name
 
 #### Update GitLab and Turn off Notifications
 
@@ -267,12 +241,12 @@ The third quarter of the year (August 1- October 31) PEA team will need to perfo
 
 #### Code of Conduct, Acknowledgement of Relocation, & Social Media Policy Acknowledgment Audit
 
-The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct, Acknowledgement of Relocation, and the Social Media Policy Acknowledgment in BambooHR. 
+The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct, Acknowledgement of Relocation, and the Social Media Policy Acknowledgment in Workday. 
 
-- A quarterly report will be pulled from BambooHR for `Code of Conduct`,`Acknowledgement of Relocation`, and the `Social Media Policy Acknowledgment` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
-   - You can view these by going into BambooHR selecting `Reports`, and then `Signed Documents` on the left panel
+- A quarterly report will be pulled from Workday for `Code of Conduct`,`Acknowledgement of Relocation`, and the `Social Media Policy Acknowledgment` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
+   - ***** Add new process
    - Create a new google sheet in the `Audits` folder in the shared People Experience drive named the fiscal year and quarter you are completing the audit
-- If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. **Reminder to not send reminders to team members on unpaid or parental leave**
+- If it has not been signed by the team member, please select the option in Workday to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. **Reminder to not send reminders to team members on unpaid or parental leave**
 - If there are any issues, please escalate to the Manager, People Operations for further guidance. 
 - Once escalation needs to happen, please share spreadsheet with Paralegal (currently: Taharah Nix) to review with appropriate legal counsels as well.
 
@@ -294,69 +268,8 @@ If the stock is low/depleted, we will proceed with placing an order for new stoc
 - Click on `Green Replenish Inventory` button
 - Complete the normal online ordering process (will be further updated when we need to order replenished stock)
 
-#### Access Level Audit
 
-Cadence: Every Quarter / As per requirement of Security Audit Team
 
-This audit is meant to identify and fix errors that occur during onboarding, termination, promotions, relocation, country conversion and any other changes that take place throughout the year to a team member's access level in BambooHR profile. This audit is handled by the BambooHR Provisioners. 
-
-Process:
-
-* Create a Manual Report using New Report Option. Name it as “Access Report.”
-* This report should have the following fields in sequence:
-    1. Employee #
-    1. Last name, First name
-    1. Work Email
-    1. Status
-    1. Hire Date
-    1. Self-service access
-    1. Job Title
-    1. Reporting to
-    1. Payroll Type
-    1. Role
-* Keep a count of the no. of people shown in the report. (A)
-* Go to the “More” option and “Export Report as.” “Excel.”
-* Go to Access Level - GitLab Google Sheet » File » Import » Upload » Select a file from your device » Insert New Sheet(s) » Import data
-* Rename the new sheet in the following syntax - Access Level - 
-* Add two new fields at the end of the report viz “Access Level” and “Additional.”
-* Apply filter » Self-service access » Uncheck Yes » OK. Count the number of Team Members. (B)
-* Once this selection is applied. You will get Future joining Team Members details and test accounts. Delete them all and turn off the filter. Count the no. of team members and note the same (C). This number should be (A) minus (B)
-* Turn on the filter » Payroll Type » Uncheck Employee & Employee-PEO » OK.
-* Fill “Contractor self-service” in the Access Level column for all the team members.
-* Turn off the filter » Create a filter » Role » Uncheck Individual Contributor
-* For Non-Contractors the “Access Level” will be Managers but for Contractors the “Access Level”  will be Contractor Self Service and “Additional” field should be Managers.
-* Go to Settings » Access Levels » Levels. Here you will see all the special access levels with names.
-* Select the special access levels one by one and check the team members profile mentioned in that level. Update their “Access Level” in the report accordingly.
-* Turn off the filter » Search the name one by one » Update their Access Level according to the profile in the Access Level & Additional Column. Use “;” for multiple access levels.
-* For rest of the team members fill the Access Level with “Employee self-service”
-
-Note: A terminated team member on Garden Leave will still have the access level to prevent reporting issues. To prevent the access, IT Ops turns off the access via Okta manually as BambooHR is still active for team members.
-
-### Weekly Reporting
-
-#### Pulling of BambooHR Onboarding Data
-
-Every Monday and Wednesday, the Associate in the rotation will pull the report that has been shared in BambooHR called `New Hires`. The data for the next 2 weeks will be added to the spreadsheet to ensure sufficient time in completing the pre-onboarding tasks. 
-
-1. Open BHR and select the Onboarding Tracker Report
-1. Click on the hire date until it is showing the hire dates in order
-1. Highlight and copy the data of all the new hires starting the next week and following 
-  - Keep name format as (Last Name, First Name)
-1. Paste the data into the People Experience Onboarding Tracker at the bottom 
-1. If a name is highlighted, this means the name is already on the tracker. Review that the hire date is the same and delete the highlighted field you just added. 
-1. If the name is not highlighted this is a new add and keep the name on the tracker. 
-1. **Important, if the team member is located in Japan, please immediately proceed with sending the required payroll documentation to the new hires personal email address.** Include Non US Payroll in the email correspondence for visibility. 
-
-#### Weekly Moo Invites
-
-Every week on Tuesday, the People Experience Associate in the rotation will send the invites to the new team members starting that week.
-1. The  People Experience Associate will log into Moo
-1. Go to Account
-    1. On the left hand side, click People
-1. Click the box that says, Invite A Person
-1. Add the team member's first name, last name, work email
-1. Select `employee` 
-1. Send Invite
 
 ### Monthly Reporting
 
@@ -397,28 +310,23 @@ Most importantly, check to see whether authorisation has been received from the 
 - If the vendor is asking for general information in the email, simply respond back to the email with the requested information. 
 - If the vendor is requesting a form to be completed, complete the form via Docusign and encrypt the document before sending via email. 
 - If the vendor is requesting a form to be completed for a US team member, forward this request on to the US Payroll team to have completed. 
-- If you need additional figures that we do not have access to, send a message in the `payroll-peopleops` Slack channel to request the information needed to complete the form. 
+- If you need additional figures that we do not have access to, send a message in the private `payroll-peopleops` Slack channel to request the information needed to complete the form. 
 
 In some instances, we may be contacted by certain Governmental institutions asking for clarity into termination / seperation reasons and agreements of a team member. Please forward these emails to the relevant People Business Partner that submitted the offboarding notification, as they will have full context into the reasons and agreements and will choose to respond if needed. 
 
 #### Probation Period Rotation
 
-The People Experience Associate in the `Probation Period` rotation, will complete the full process as per the steps listed in the [Probation Period](/handbook/people-group/contracts-probation-periods/#probation-period) section of the hanbook. If the weekly rotation has come to an end and not all confirmations have been received, the Associate in the next weeks rotation will follow up with team members managers.
+The People Experience Associate in the `Probation Period` rotation, will complete the full process as per the steps listed in the [Probation Period](/handbook/people-group/contracts-probation-periods/#probation-period) section of the Handbook. If the weekly rotation has come to an end and not all confirmations have been received, the Associate in the next weeks rotation will follow up with team members managers.
 
-#### Netherlands Certification of Good Conduct (VOG) Report 
+#### Netherlands Certification of Good Conduct (VOG) Report - check with Laura on reporting ****
 
 THe first day of the month, the People Experience Associate in the assigned rotation, will ensure that the new Netherlands based team members hired in the previous month have uploaded their VOG. 
 
-- There is a shared report in BambooHR called Netherlands VOG. Open that report.
+- There is a shared report in Workday called Netherlands VOG. Open that report.
 **note** If need be, please adjust the dates by editing the report. 
 - View the employees listed.
 - Go to each team members profile, then to documents, then go to either employee uploads or contracts folder. Check for the letter.
-- If a letter has been uploaded, move it to the Background Check folder within the Contracts & Changes folder.
 - If there is no letter, please reach out to the team member to have them upload the letter. Once you receive confirmation that it has been uploaded, move it to the Background Check folder within the Contracts & Changes folder.
-
-#### Deleting Team Member Data from Letter of Employment Rotation
-
-Once a week, the People Experience Associate in the `deleting team member data` rotation will delete team members data submitted on the Letter of Employment response spreadsheet for the previous week.
 
 ### OSAT Team Member Feedback
 
@@ -431,62 +339,10 @@ Once a new team member has completed their onboarding, they are asked to complet
 
 In the same survey, new team members are able to provide a score and feedback on their onboarding buddy. If the score and feedback received is constructive and valuable insights when the score is low, the People Experience Associate assigned to that specific team members onboarding, should reach out to the manager of the onboarding buddy and provide feedback in a polite and supportive way.  
 
-### Onboarding Cohort Creation
 
-During the last week of the month, the PEA in the assigned rotation will create a new slack public channel for the next month by following the below steps: 
 
-1. Create a new public slack channel with the naming convention `month-year-new-hire-lounge` and add in the People Experience team to start
-1. Next, you'll want to go into the `donut` app in Slack and select `Donut Channel Settings` and this will pop open in a new window
-1. Navigate to the `Templates` tab on the top of the page, find `New Hire Cohort Watercooler` and select `Preview` then `Use Template`
-1. Select `Use an existing channel`, type in to find the newly created slack channel you just made and select `Add Donut Channel`
-1. You'll want to make sure that the Program Basics are set up to once a week (Thursday) and the Next Send Date is for the first Thursday of the month and that the Intros option is toggled to `On`. Hit `Save`. 
 
-1. The last step for the Donut set up you'll need to do is locate the `Access` tab and make sure to add the entire People Experience team to the list of people who can modify the donut settings. Hit `Save`. 
-1. Next, we'll want to set up the following Slack Workflows:
-
-- Anyone who is added/joins the onboarding lounge slack channel message. 
-   - Open Slack
-   - Select GitLab -> Tools -> Workflow Builder
-   - Make sure you're on the `Templates` tab and select `Set up` on: A warm welcome for new teammates
-   - Input the monthly onboarding cohort slack channel
-   - Select `Edit` on the message text box and copy/paste the [intro message](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/onboarding-cohorts-intro-slack-message.md) making sure to format it correctly to be visually pleasing. 
-   - Rename the bot from `Welcome Bot` to `(Month) Onboarding Cohort Welcome Bot`
-   - Hit Publish
-
-- Onboarding Check In Call Reminder
-   - Open Slack
-   - Select GitLab -> Tools -> Workflow Builder -> Create
-   - Name: Onboarding Check In Call - xxMonthxx Cohorts - APAC/EMEA or EMEA/AMER
-   - Select 'Scheduled date & time'
-   - Date: Select the first Wednesday
-   - Time: 15 mins before 11 PM PST (you will likely need to select Tuesday for this one) (for APAC/EMEA call) or 15 mins before 9 AM PST (for EMEA/AMER call)
-   - Frequency: weekly on Wednesday
-   - Next
-   - Select Add Step (in green)
-   - Select add on - send a message
-   - Select the relevant onboarding lounge channel
-   - Add the message: `Onboarding Check in Call happening in 15 minutes! :smile: This is a casual call, with a space for you to ask any questions. Feel free to also just pop in to say hi :hi: Check GitLab Team Meetings calendar for the link.`
-   - Save
-   - Select Publish on top right hand corner
-   - Now follow the same process for the second call 
-
-- Weekly Connections Reminder
-   - Open Slack
-   - Select GitLab -> Tools -> Workflow Builder -> Create
-   - Name: Weekly Donut Reminder - xxMonthxx Onboarding Lounge
-   - Select 'Scheduled date & time'
-   - Date: Select the first Friday
-   - Time: Select applicable time to send
-   - Frequency: weekly on Friday
-   - Next
-   - Select Add Step (in green)
-   - Select add on - send message
-   - Select relevant onboarding lounge channel
-   - Add the message `Hey everyone :waveboi: Looking for more synchronous social sessions? :coffeechat: Check out the #donut-be-strangers channel in Slack, which will automatically set you up on one random coffee break call every other week :awesome: :dancing_fox: :zoom:`
-   - Save
-   - Select Publish on top right hand corner
-
-### Anniversary Period Gift Process
+### Anniversary Period Gift Process - Waiting for new process Bev ****
 
 People Experience Team process:
 - Create the Anniversary Gift reports in BambooHR. You will create three separate reports for 1, 3, and 5 year anniversaries. 
@@ -582,29 +438,23 @@ Bonus Processing is completed by the Experience Associate who is on that rotatio
 #### Referral Bonuses
 
 1. The Experience team will receive an email titled `Table Reminder: Referral Bonus` 
-1. From here, the PEA will review the BambooHR profile of the team members in the email to ensure that bonus amount is correct for those they referred
+1. From here, the PEA will review the Workday profile of the team members in the email to ensure that bonus amount is correct for those they referred
 1. After confirming the bonus amount is correct, the PEA will add the bonus information to the appropriate payroll changes spreadsheet (US, Non-US, or Canada)
-1. Afterwards, adding the information into the payroll spreadsheet, be sure to edit the bonus line in BambooHR and add `Paid` to the beginning of it. 
+1. Afterwards, adding the information into the payroll spreadsheet, be sure to edit the description in Workday and add `Paid` to the beginning of it. 
 1. Reply all in the email with "This has been processed." This step is to make the team aware that action has been taken on the `Table Reminder: Referral Bonus` email
 
-#### Discretionary Bonuses 
+#### Discretionary Bonuses  - checking with Engineering ****
 
 1. Discretionary bonuses go through approvals via the Nominator bot. The Experience team will be notified of bonuses that need to be approved in the private slack channel `people-group-nominator-bot`
 1. The PEA should review the nomination based off the criteria [here](https://about.gitlab.com/handbook/incentives/#valid-and-invalid-criteria-for-discretionary-bonuses) and make sure it's an appropriate bonus to approve - if there are any questions, make sure to ask for any clarification in the thread.
    - If for any reason, the bonus does not meet the criteria - reject the bonus in the slack channel and communicate to the nominator about why.
-1. If the bonus meets the criteria, the PEA will approve the bonus in the slack channel and this feeds into BambooHR. You'll want to double check to make sure everything fed over correctly. 
-1. After confirming everything fed over from the bot to BamboohR, the PEA will add the bonus information to the appropriate payroll changes spreadsheet (US, Non-US, or Canada)
+1. If the bonus meets the criteria, the PEA will approve the bonus in the slack channel and this feeds into Workday. You'll want to double check to make sure everything fed over correctly under the one time payment section. 
+1. After confirming everything fed over from the bot to Workday, the PEA will add the bonus information to the appropriate payroll changes spreadsheet (US, Non-US, or Canada)
 1. Lastly, add a checkmark or any other emoji onto the Approval in the bot to signal that you have in fact completed this nomination and it's been processed.
 
-_Note: If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #team-member-updates announcement See more details in section for [multiple discretionary bonuses](/handbook/incentives/#multiple-discretionary-bonuses)._
+_Note: If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member (and respective PBP) who submitted the nomination to explain, and include the other nominator's name in the #team-member-updates announcement See more details in section for [multiple discretionary bonuses](/handbook/incentives/#multiple-discretionary-bonuses)._
 
-#### Working Group Bonuses
-
-1. [Working Group bonuses](https://about.gitlab.com/handbook/incentives/#working-group-bonus) are done through BambooHR and not the bot. The Experience team will receive an email from BambooHR saying there is a bonus that needs approval
-1. The PEA will review and approve or deny the bonus in BambooHR 
-1. Next, the PEA will add the bonus information to the appropriate payroll changes spreadsheet (US, Non-US, or Canada)
-
-#### Acting Manager Bonuses
+#### Acting Manager Bonuses - Checking process ****
 
 1. The People Experience team will receive an email from the acting/interim team members manager to calculate the bonus per this [process](https://about.gitlab.com/handbook/total-rewards/compensation/#submitting).
 1. Once the amount has been confirmed, the manager will submit a bonus update via BambooHR. The People Experience team will then receive an alert via email to approve the bonus. 
