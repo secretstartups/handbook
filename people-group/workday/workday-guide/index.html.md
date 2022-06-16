@@ -23,7 +23,7 @@ title: Workday Guide
 
 ## Accessing Workday
 
-Workday will be accessible to all GitLab team members through Okta SSO. Go to [gitlab.okta.com](https://gitlab.okta.com/app/UserHome) and click on the ‘Workday’ tile to login. You can also search your apps for quick access
+Workday will be accessible to all GitLab team members through Okta SSO. Go to [gitlab.okta.com](https://gitlab.okta.com/app/UserHome) and click on the **‘Workday Production SSO’** tile to login. You can search your apps for quick access.
 
 <div style="text-align:center;">
   <img src="/handbook/people-group/workday/workday-guide/okta-wd.png" alt="Accesing Workday through Okta" width="700"/>
@@ -58,6 +58,7 @@ Use these helpful resources for completing team member self-service tasks in Wor
 |Managers|request a compensation change|[Link](https://docs.google.com/document/d/1xGytyeYIpY_-qY_sEe-9ua-TfzyWEVp5s2SV91vyTUc/edit)|-|
 |Managers|delegate|[Link](https://docs.google.com/document/d/19Isxod-o2CJ9GkurkVPqK8dCxbkQO743LoJ12OonOHY/edit)|-|
 |Managers|access and use reports|[Link](https://docs.google.com/document/d/1BDME_47-mif1ZihO5Id-wejbjAU_-PLIr1dJ46z1F_c/edit)|-|
+|Managers|move team member to another manager|[Link](https://docs.google.com/document/d/1JEobACNSMeHU4pU5DaaF7aqmv9wmSDoXx7veZ6_SM_I/edit)|-|
 
 
 ## How is Workday being implemented?
