@@ -151,7 +151,7 @@ To review the Compensation Benchmark process please refer to the [New Roles Crea
 As stated in [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) we want to recruit and retain people who meet our requirements.
 If any one, or a combination of, the following statistics is met, a benchmark review can be requested to address any concerns around the benchmark:
 
-* A job requisition is open for longer than 100 days
+* An open role is open for longer than 100 days
 * A minimum of 4 **qualified** candidates reject an offer extended by GitLab, or withdraw from the hiring process, due to a reason of compensation for an open requisition
   * Non qualified candidates who do not move forward in the hiring process, would not count towards this minimum as this would not be a reason of compensation, but more about competency or other qualifying reasons. We would still want to collect this data as an input for a compensation analysis on candidate expectations. 
 * The Recruitment Declines and Withdrawals template is compiled with at least 10 rows of significant/qualified candidate data, including equity information. 
