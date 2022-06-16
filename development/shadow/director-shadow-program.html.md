@@ -38,8 +38,8 @@ Blog on one shadow's experiences in the program: [The engineering director shado
 
 ## Process for requesting to be a shadow
 
-1. Check the schedule below for weeks that are `Open` for shadowing.
-1. Create an MR to add yourself to the table for the weeks in which you want to shadow via an MR. To get started, you can [edit the page here](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/engineering/readmes/wayne-haber/development-director-shadow-experiment.html.md) (internal).
+1. Check the schedule below for availability.
+1. Create an MR to add yourself to the table for the weeks in which you want to shadow via an MR. To get started, you can [edit the page here](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/engineering/development/shadow/director-shadow-program.html.md) (internal).
 1. Obtain written approval from your manager that they are ok with you participating via your manager commenting in the MR that they approve, as your workload will need to be significantly reduced for the shadow program duration.
 1. After your manager approves, assign the MR to me to review and merge.
 
@@ -102,6 +102,7 @@ No, not at this time.
 
 ## Schedule
 
+A given week should be considered open for shadowing unless it is listed below.
 
 | Week of | Shadow |
 | ------ | ------ |
@@ -110,9 +111,5 @@ No, not at this time.
 | 12/13/2021 | @mlindsay |
 | 2/21/2022 | @oregand |
 | 2/28/2022 | @dmishunov |
-| 3/21/2022 | Open |
 | 3/28/2022 | @rossfuhrman |
-| 4/4/2022 | Open |
-| 4/11/2022 | Open |
-| 4/18/2022 | Open |
 | 4/25/2022 | @sam.figueroa |
