@@ -77,8 +77,8 @@ For questions on benefits, please see the following [PlanSource Video Library](h
 Effective 16 June 2022, You can log into PlanSource through your Workday profile. There is an integration built between Workday and Plansource that allows for single sign on.   
 
 1. Login into the Workday site via Okta. Note: Plansource does not appear in Okta but in Workday directly. 
-1. Once you have logged into Workday under Personal Information app, click `View All Apps` link
-1. Under `External Links`, select `US Benefits Enrollment - PlanSource` 
+1. Once you have logged into Workday click `View All Apps` link. Click `Personal Information` app
+1. Scroll to the bottom of the page under `External Links`, select `US Benefits Enrollment - PlanSource` 
 1. The benefits enrollment portal will then open in a separate screen for you to complete your enrollments or review your plans.
 
 Review the [PlanSource Login & Enrollment](https://drive.google.com/file/d/1py7C8ngTpVlYNSKG4If3yBw43dg3F6Ml/view?usp=sharing) Guide for additional details on logging in and electing benefits. 
