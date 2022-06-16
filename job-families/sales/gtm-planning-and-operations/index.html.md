@@ -122,7 +122,7 @@ The Senior Manager, GTM Planning and Operations is a [grade 9](/handbook/total-r
 
 ### Director, GTM Planning and Operations
 
-The Director, GTM Planning and Operations reports to the [Sr. Director, Sales Strategy](/job-families/sales/sales-strategy/).
+The Director, GTM Planning and Operations reports to the [VP, Sales Strategy](/job-families/sales/sales-strategy/#vice-president-sales-strategy--analytics).
 
 #### Director, GTM Planning and Operations Job Grade
 
@@ -146,13 +146,42 @@ The Director, GTM Planning and Operations is a [grade 10](/handbook/total-reward
 * Advanced analytical and financial modeling skills with a superb ability to drive high value insights
 * Meet the [Leadership at Gitlab](https://about.gitlab.com/company/team/structure/#management-group) requirements
 
+### Senior Director, GTM Planning and Operations
+
+The Senior Director, GTM Planning and Operations reports to the [VP, Sales Strategy](/job-families/sales/sales-strategy/#vice-president-sales-strategy--analytics).
+
+#### Senior Director, GTM Planning and Operations Job Grade
+
+The Senior Director, GTM Planning and Operations is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Director, GTM Planning and Operations Responsibilities
+
+* Extends that of the Director, GTM Planning and Operations Responsibilities
+* Drive proactive review & analysis of compensation design decisions to understand their effectiveness
+* Own the entire compensation design process for all variable compensation roles for the CRO organization (including the SDR organization)
+* Objectively balance goals and objectives of CFO, CRO & CMO in comp plan design
+* Coordinate closely with FP&A and Sales Commissions team on plan design & deployment 
+* Own the quota & capacity planning process for all NQRs and management; including process, tools, executive communication as well as business outcomes 
+* Drive process alignment with Recruiting, People Operations and Finance to impact sales efficiency
+* Drive recruiting of a world-class team at all levels
+* Help team members and analysts grow their skills and experience
+
+#### Senior Director, GTM Planning and Operations Requirements
+
+* Extends that of the Director, GTM Planning and Operations Requirements
+* Proficient hiring skills and experience
+* Demonstrated progressive experience in a global SAAS sales or strategy environment
+* Strong ability to interact and influence effectively with all C-level executives and team members
+* Ability to work independently with a high degree of accountability, while also able to collaborate cross-functionally with exceptional intrapersonal skills Proven ability to thrive in a fluid, fast-paced, unpredictable environment.
+* Unquestionable ethics, integrity and business judgment; you share our values, and work in accordance with those values.
+
+
+* Meet the [Leadership at Gitlab](https://about.gitlab.com/company/team/structure/#management-group) requirements
+
 ## Performance Indicators
 
-* [IACV vs. plan > 1](/handbook/sales/#incremental-annual-contract-value-iacv)
-* [IACV efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
-* [Win rate > 30%](/handbook/sales/#win-rate)
-* [Rep IACV per comp > 5](/handbook/sales/#measuring-sales-rep-productivity)
-
+* Bookings and revenue growth as measured by [ARR](/handbook/sales/sales-term-glossary/arr-in-practice/), including gross renewal, expansion, and net retention
+* [Sales KPIs](https://about.gitlab.com/company/kpis/#sales-kpis)
 ## Career Ladder 
 
 The next steps in the GTM Planning and Operations job family is not yet defined at GitLab.
