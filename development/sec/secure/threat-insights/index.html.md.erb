@@ -59,6 +59,23 @@ Additional information about how we operate can be found on the [Protect Plannin
 * [Threat Insights Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1420734?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Athreat%20insights)
    * Milestone-centric board primarily used by product management to gauge work in current and upcoming milestones.
 
+## Quality
+
+### How to classify MRs which need to run Package and QA?
+
+It is advisable to manually trigger the `Package and QA` downstream [E2E](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/) job in an MR and review the results when there are changes in:
+   - GraphQL (API response, query parameters, schema etc)
+   - Gemfile (version changes, adding/removing gems)
+   - Vue files which contain "data-qa-selector" attribute because these are used in identifying UI elements in E2E tests
+   - Database schema/query changes
+   - Any frontend changes which directly impact vulnerability report page, MR security widget, pipeline security tab, security policies, configuration, license compliance page
+
+To manually trigger the QA job:
+1. Navigate to the pipelines tab of the MR. 
+2. Click the the `>` arrow on the right of the `Stages` and click the `package-and-qa` item.
+
+It's advisable to run the QA job on the latest pipeline at least once during the MR review cycle.
+
 ## Monitoring
 
 - [Stage Group dashboad on Grafana](https://dashboards.gitlab.net/d/stage-groups-threat_insights/stage-groups-group-dashboard-secure-threat-insights?orgId=1)
