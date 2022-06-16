@@ -36,28 +36,28 @@ Every full time team member at GitLab will have a Workday profile, though the ex
 
 Use these helpful resources for completing team member self-service tasks in Workday. These resources currently live in Google Drive but will be moved to the handbook in upcoming iterations.
 
-|Audience|Process|Documentation|Video|
+|Audience|How To...|Documentation|Video|
 | ------ | ------ |------ | ------ |
-|Team Members|How to change your photo|[Link](https://docs.google.com/document/d/14X80NeNLqHcL8WWoGfbx1PjDnCFrKo53l7tVA525_34/edit)|[Link](https://drive.google.com/file/d/1z9CMI8hVS5sZfch3Zi44GfUJCvO8Ovj1/view)|
-|Team Members|How to change your preferred name|[Link](https://docs.google.com/document/d/17FQvOSs1274hEUTRRWnmevsfdFbiaKNVn-a_enUhuew/edit)|[Link](https://drive.google.com/file/d/1z9CMI8hVS5sZfch3Zi44GfUJCvO8Ovj1/view)|
-|Team Members|How to change personal information|[Link](https://docs.google.com/document/d/1qpHqSHhQES0InC9ns8FZaFtaBxz0XjJPe7kUuh85tLA/edit)|[Link](https://drive.google.com/file/d/1z9CMI8hVS5sZfch3Zi44GfUJCvO8Ovj1/view)|
-|Team Members|How to change legal name|[Link](https://docs.google.com/document/d/1tsUUQqoyWhcpYNOU_S4aAbqRnCUSEUIJ6XHaCN_3Wg0/edit)|[Link](https://drive.google.com/file/d/1z9CMI8hVS5sZfch3Zi44GfUJCvO8Ovj1/view)|
-|Team Members|How to change home contact information|[Link](https://docs.google.com/document/d/1NiNKWd-H9FTnYkmsWWi79-DGDSUCiWMfwFaGQPRnj14/edit)|[Link](https://drive.google.com/file/d/1UqIEwhd7hYEjjW1qRyJlyPHl9xi-TXY6/view)|
-|Team Members|How to change emergency contacts|[Link](https://docs.google.com/document/d/1kJgRtiB4DlRxAlPz8gy6d7yd-3B84gZT37vWidXGqs4/edit)|[Link](https://drive.google.com/file/d/1UqIEwhd7hYEjjW1qRyJlyPHl9xi-TXY6/view)|
-|Team Members|How to add and edit payment elections|[Link](https://docs.google.com/document/d/107-8rGMgGRgsHuz9ydKwq2UIaazI5ITnd0o8yDgDW8s/edit)|[Link](https://drive.google.com/file/d/19vH0uKMlDQDF8EaGEg2dW6sNIcnjJSrM/view)|
-|Team Members|How to complete onboarding tasks|[Link](https://docs.google.com/document/d/1-gLy1aVuKUPxoULpOgGrY_WuzB40kePiitPrQdMHRws/edit)|-|
-|Team Members|How to navigate the org chart|[Link](https://docs.google.com/document/d/1k5-V6yesaX9EuPFFgnrmOilRQNoqaXZEpJzfNXOj-eI/edit)|[Link](https://drive.google.com/file/d/1pfv0IXnjq_LQky3wTyBcSndGF2n69evg/view)|
-|Team Members|How to edit IDs (Government IDs, Passport, Visas, etc)|[Link](https://docs.google.com/document/d/1D1IX1AdouxU-0aUcfROuLQ5r2O_C8d_thBHEgCK5aQE/edit)|[Link](https://drive.google.com/file/d/1nYe8vNFd5GHsqHpn6CqvO9hhjt-R-3_X/view)|
-|Team Members|How to access and use the Workday mobile app|[Link](https://docs.google.com/document/d/1ar1h59ON3qX1-UavvBoZkfdwZaCSjrdlxmlaC9HV1j0/edit)|[Link](https://drive.google.com/file/d/1bV5XAAJvKAPQxgETOyCVR75qU1RQumSZ/view)|
-|Team Members|How to submit a resignation|[Link](https://docs.google.com/document/d/1AVHHBKd6dtyn0DOl4_UydbdEhectLpH5aMh17r9Sg_4/edit)|[Link](https://drive.google.com/file/d/1CWEfVPFLRLtcFQh81mYAuXtYKvf3hKW0/view)|
-|Team Members|How to change self-identification of disability (US Only)|[Link](https://docs.google.com/document/d/1rgd-FkV5pGhn27g-LK5p53WuG2wjANrNJLgrWuLJjvY/edit)|[Link](https://drive.google.com/file/d/1QSosr0W0CW2AYou2rjUCyrZrV6m1c_OB/view)|
-|Team Members|How to change self-identification of veteran status (US Only)|[Link](https://docs.google.com/document/d/1-xbCLsdzn9R2zwG5zMzkBRx6BX6vbtCjAsEI6eQRdfM/edit)|[Link](https://drive.google.com/file/d/1QSosr0W0CW2AYou2rjUCyrZrV6m1c_OB/view)|
-|Managers|How to request a one-time payment|[Link](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit)|-|
-|Managers|How to terminate team members (voluntary)|[Link](https://docs.google.com/document/d/1Fr1G1i1kssfADgDf3D6LbZHR8RZmWKZYDNV8AfduZ1c/edit)|-|
-|Managers|How to view team information|[Link](https://docs.google.com/document/d/1HlvaxIvmUPL6GLB3z6TqHWMf95RrDD7aOaeZPE0Hm7Q/edit)|-|
-|Managers|How to request a compensation change|[Link](https://docs.google.com/document/d/1xGytyeYIpY_-qY_sEe-9ua-TfzyWEVp5s2SV91vyTUc/edit)|-|
-|Managers|How to delegate|[Link](https://docs.google.com/document/d/19Isxod-o2CJ9GkurkVPqK8dCxbkQO743LoJ12OonOHY/edit)|-|
-|Managers|How to access and use reports|[Link](https://docs.google.com/document/d/1BDME_47-mif1ZihO5Id-wejbjAU_-PLIr1dJ46z1F_c/edit)|-|
+|Team Members|change your photo|[Link](https://docs.google.com/document/d/14X80NeNLqHcL8WWoGfbx1PjDnCFrKo53l7tVA525_34/edit)|[Link](https://drive.google.com/file/d/1z9CMI8hVS5sZfch3Zi44GfUJCvO8Ovj1/view)|
+|Team Members|change your preferred name|[Link](https://docs.google.com/document/d/17FQvOSs1274hEUTRRWnmevsfdFbiaKNVn-a_enUhuew/edit)|[Link](https://drive.google.com/file/d/1z9CMI8hVS5sZfch3Zi44GfUJCvO8Ovj1/view)|
+|Team Members|change personal information|[Link](https://docs.google.com/document/d/1qpHqSHhQES0InC9ns8FZaFtaBxz0XjJPe7kUuh85tLA/edit)|[Link](https://drive.google.com/file/d/1z9CMI8hVS5sZfch3Zi44GfUJCvO8Ovj1/view)|
+|Team Members|change legal name|[Link](https://docs.google.com/document/d/1tsUUQqoyWhcpYNOU_S4aAbqRnCUSEUIJ6XHaCN_3Wg0/edit)|[Link](https://drive.google.com/file/d/1z9CMI8hVS5sZfch3Zi44GfUJCvO8Ovj1/view)|
+|Team Members|change home contact information|[Link](https://docs.google.com/document/d/1NiNKWd-H9FTnYkmsWWi79-DGDSUCiWMfwFaGQPRnj14/edit)|[Link](https://drive.google.com/file/d/1UqIEwhd7hYEjjW1qRyJlyPHl9xi-TXY6/view)|
+|Team Members|change emergency contacts|[Link](https://docs.google.com/document/d/1kJgRtiB4DlRxAlPz8gy6d7yd-3B84gZT37vWidXGqs4/edit)|[Link](https://drive.google.com/file/d/1UqIEwhd7hYEjjW1qRyJlyPHl9xi-TXY6/view)|
+|Team Members|add and edit payment elections|[Link](https://docs.google.com/document/d/107-8rGMgGRgsHuz9ydKwq2UIaazI5ITnd0o8yDgDW8s/edit)|[Link](https://drive.google.com/file/d/19vH0uKMlDQDF8EaGEg2dW6sNIcnjJSrM/view)|
+|Team Members|complete onboarding tasks|[Link](https://docs.google.com/document/d/1-gLy1aVuKUPxoULpOgGrY_WuzB40kePiitPrQdMHRws/edit)|-|
+|Team Members|navigate the org chart|[Link](https://docs.google.com/document/d/1k5-V6yesaX9EuPFFgnrmOilRQNoqaXZEpJzfNXOj-eI/edit)|[Link](https://drive.google.com/file/d/1pfv0IXnjq_LQky3wTyBcSndGF2n69evg/view)|
+|Team Members|edit IDs (Government IDs, Passport, Visas, etc)|[Link](https://docs.google.com/document/d/1D1IX1AdouxU-0aUcfROuLQ5r2O_C8d_thBHEgCK5aQE/edit)|[Link](https://drive.google.com/file/d/1nYe8vNFd5GHsqHpn6CqvO9hhjt-R-3_X/view)|
+|Team Members|access and use the Workday mobile app|[Link](https://docs.google.com/document/d/1ar1h59ON3qX1-UavvBoZkfdwZaCSjrdlxmlaC9HV1j0/edit)|[Link](https://drive.google.com/file/d/1bV5XAAJvKAPQxgETOyCVR75qU1RQumSZ/view)|
+|Team Members|submit a resignation|[Link](https://docs.google.com/document/d/1AVHHBKd6dtyn0DOl4_UydbdEhectLpH5aMh17r9Sg_4/edit)|[Link](https://drive.google.com/file/d/1CWEfVPFLRLtcFQh81mYAuXtYKvf3hKW0/view)|
+|Team Members|change self-identification of disability (US Only)|[Link](https://docs.google.com/document/d/1rgd-FkV5pGhn27g-LK5p53WuG2wjANrNJLgrWuLJjvY/edit)|[Link](https://drive.google.com/file/d/1QSosr0W0CW2AYou2rjUCyrZrV6m1c_OB/view)|
+|Team Members|change self-identification of veteran status (US Only)|[Link](https://docs.google.com/document/d/1-xbCLsdzn9R2zwG5zMzkBRx6BX6vbtCjAsEI6eQRdfM/edit)|[Link](https://drive.google.com/file/d/1QSosr0W0CW2AYou2rjUCyrZrV6m1c_OB/view)|
+|Managers|request a one-time payment|[Link](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit)|-|
+|Managers|terminate team members (voluntary)|[Link](https://docs.google.com/document/d/1Fr1G1i1kssfADgDf3D6LbZHR8RZmWKZYDNV8AfduZ1c/edit)|-|
+|Managers|view team information|[Link](https://docs.google.com/document/d/1HlvaxIvmUPL6GLB3z6TqHWMf95RrDD7aOaeZPE0Hm7Q/edit)|-|
+|Managers|request a compensation change|[Link](https://docs.google.com/document/d/1xGytyeYIpY_-qY_sEe-9ua-TfzyWEVp5s2SV91vyTUc/edit)|-|
+|Managers|delegate|[Link](https://docs.google.com/document/d/19Isxod-o2CJ9GkurkVPqK8dCxbkQO743LoJ12OonOHY/edit)|-|
+|Managers|access and use reports|[Link](https://docs.google.com/document/d/1BDME_47-mif1ZihO5Id-wejbjAU_-PLIr1dJ46z1F_c/edit)|-|
 
 
 ## How is Workday being implemented?
