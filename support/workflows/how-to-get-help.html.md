@@ -92,6 +92,7 @@ The steps for submitting a help request are as follows:
 1. Submit a new issue to the project using the template you've identified.
    - The issue will be automatically assigned to the relevant developers for triaging
 1. If you encounter any problems, such as obtaining a timely response from development, then please make the Engineering Manager and [John Lyttle](https://gitlab.com/jlyttle) aware. You can identify the relevant Engineering Manager by checking the Development Group Handbook Page from the [list of Ops Section handbook links](https://gitlab.com/gitlab-com/section-ops-request-for-help#development-groups-with-their-corresponding-templates-and-labels).
+1. Lastly, prior to closing the issue please review the information within to determine if any of it can be used to update the GitLab documentation, if any of the information is a candidate to be considered for updating the GitLab documentation then add the label `documentation::candidate` so that the issue can be identifiable for future use. If you have actually updated the GitLab documentation then please add a link to the MR to the issue and add the label `documentation::created`.
 
 
 ### Quick Links and Resources
