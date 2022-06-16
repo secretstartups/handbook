@@ -128,7 +128,7 @@ As the CMOC you'll guide the incident through the following stages.
 1. **Stage 3: Monitor (Situational)** - Setting the incident to **Monitoring** in Status.io for a period of time to ensure that the issue does not recur before we close it out. This stage may be skipped at the request of the Incident Manager.
 1. **Stage 4: Resolve** -  Setting the incident to **Resolved**, adding a post-mortem link in Status.io, and ensuring that there are no remaining Zendesk tickets that need tagging and a response.
 
-The following sections outline how to perform each of the steps within these stages.
+The following sections outline how to perform each of the steps within these stages and should be performed in sequential order.
 
 ### **Stage 1: Engage**
 
@@ -176,10 +176,10 @@ A better response would be to assume that an action was requested, relay your in
 
 You can create an incident on Status.io with minimal effort through Slack (provided by Woodhouse) **OR** manually if need be (e.g., Slack is down or you need to customize the incident more than what the Slack form allows).
 
-#### Slack (provided by Woodhouse)
+#### Create Through Slack
 {:.no_toc}
 
-You simply need to issue `/incident post-statuspage` from anywhere on Slack. You will be presented with a pre-filled form that you can update to your liking. Once submitted, the incident will be broadcasted to the following media:
+You simply need to issue `/incident post-statuspage` from anywhere on Slack. You will be presented with a pre-filled form that you can update to your liking. Once submitted, the incident will be broadcast to the following media:
 
 - Email subscribers
 - Webhook subscribers
@@ -190,32 +190,32 @@ You simply need to issue `/incident post-statuspage` from anywhere on Slack. You
 - [RSS feed](https://status.gitlab.com/pages/5b36dc6502d06804c08349f7/rss)
 - [iCalendar](webcal://status.gitlab.com/pages/5b36dc6502d06804c08349f7/calendar/all.ics)
 
-#### Manually
+#### Create Through Status.io
 {:.no_toc}
 
-After logging in to Status.io you'll be met with the dashboard that displays various statistics about our current status. Create a new incident by clicking `New Incident` along the top bar.
+To create an incident through Status.io click the `New Incident` button from the main dashboard:
 
 ![New incident](/images/support/cmoc_new_incident.png){: .shadow}
 
-Now on the incident creation screen, you'll be asked to fill in the details of the incident, including its severity and what systems are affected. The following is an example of what a new incident would look like if we're experiencing an issue with a delay in job processing on GitLab.com.
+Then, fill out all of the details of the incident. The following values should be changed:
+
+`Title` - This should be brief and concise. The incident title should answer the question: **In simple terms, what is the issue?**
+
+`Current State` - This should almost always be set to `Investigating`, as we normally don't know the cause of the incident at this early stage. If that is not the case and it has been communicated to you by the IM or EOC that we're aware of what the cause is, set this to `Identified` instead.
+
+`Details` - In keeping with our value of [transparency](/handbook/values/#transparency), we should go above and beyond for our audience and give them as much information as possible about the incident. This field should **always** include a link to the incident issue from the [production issue tracker](https://gitlab.com/gitlab-com/gl-infra/production/issues) so that our audience can follow along.
+
+`Incident Status` - This should be set to either `Degraded Performance`, `Partial Service Disruption`, or `Service Disruption` depending on the [severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) of the incident. If you're unsure of which to pick, ask the IM for guidance.
+
+`Broadcast` - Make sure all boxes are checked.
+
+`Message Subject` - Leave this at its default value.
+
+`Affected Infrastructure` - Leave this unchecked and then check the box next to each specific component below it that is affected by the incident. If this box is checked then the value that you set for `Incident Status` above will be applied to _all_ infrastructure components.
+
+The following is an example of an incident ready to be created regarding a delay in job processing on GitLab.com, and is generally what this page should look like before being submitted based on the guidelines above.
 
 ![Incident details](/images/support/cmoc_incident_details.png){: .shadow}
-
-Change the following values:
-
-`Title` - Titles should be brief and concise. The incident title should answer the question: **In simple terms, what is the issue?**
-
-`Current State` - In nearly all cases an incident should be created in the `Investigating` state. If it's been communicated to you that we're aware of what is causing the current incident this could be set to `Identified` from the beginning.
-
-`Details` - In keeping with our value of [transparency](/handbook/values/#transparency), we should go above and beyond for our audience and give them as much information as possible about the incident on its creation. This field should **always** include a link to the incident issue from the [production issue tracker](https://gitlab.com/gitlab-com/gl-infra/production/issues) so that our audience can follow along.
-
-`Incident Status` - When creating a new incident this will never be `Operational`. The status of an incident depends entirely on its scope and how much of the platform it's impacting.
-
-`Broadcast` - Always check each box in this section.
-
-`Message Subject` - Always leave this at its default value.
-
-`Affected Infrastructure` - This should almost always be unchecked so that the value of the `Incident Status` field is only applied to the specific aspects of the platform that are affected by the incident. In the example above we're only experiencing an issue with job processing so only `CI/CD` is selected.
 
 #### Notify Stakeholders
 
@@ -261,24 +261,49 @@ Then click on the edit button next to the incident.
 
 Change the following values:
 
-1. `Current State` - Change this depending on the current state of the incident and whether or not we've identified the cause (Identified) or implemented a fix (Monitoring).
-1. `Details` - Be as descriptive as possible about the update and include a link to the production issue.
-1. `Broadcast` - Check all boxes.
-1. `Current Status` - If the incident has improved or worsened update this value. If neither, leave it as it was from when the incident was created.
-1. `Set Status Level` - Uncheck this and keep only the affected component selected unless the incident has increased in scope and now affects other components of our infrastructure. **IMPORTANT** These must be checked individually as in the screenshot below.
+`Current State` - Change this to `Identified` if the IM or EOC has informed you that we have identified the cause of the incident. If we have not, leave it at `Investigating`. If we have rolled out a fix for the incident and will be entering a monitoring period, set this to `Monitoring` and then move on to [Stage 3](#stage-3-monitor-situational).
+
+`Details` - Describe what has changed regarding the incident since your last update, being as concise and to the point as possible. If you can fit it into the character limit, consider including a link to the incident issue again as well.
+
+`Broadcast` - Make sure all boxes are checked.
+
+`Message Subject` - Leave this at its default value.
+
+`Current Status` - Leave this to what you previously set it to when creating the incident, unless the scope of the incident has widened or narrowed. If you're unsure, consult with the IM.
+
+`Set Status Level` - Keep this checked. If the incident has increased in scope and now affects additional components in addition to the ones originally selected, proceed to [Update Affected Infrastructure](#affected-infrastructure) after publishing your update.
 
 A ready to be published update should look similar to the following.
 
 ![Incident update](/images/support/cmoc_post_incident_update.png){: .shadow}
 
-Make sure to [verify](https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from `status.io`.
+Make sure to [verify](https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from Status.io.
 
-If the incident title needs to be changed or additional affected infrastructure needs to be added,
-this is done separately. Instead of clicking the update incident button, click on the incident title to view
-the details page. Then click the edit pencil icon next to the incident name or affected infrastructure section
-to change them. It is very similar to [adding Post-Mortem](#add-post-mortem).
+After the update has been published, visit the live status page to verify that it went through.
 
-After publishing the update, visit the live status page to verify that the update went through and looks clear.
+#### Update Affected Infrastructure or Title (Situational)
+
+Proceed to either [Title](#title) or [Affected Infrastructure](#affected-infrastructure) to learn how to change either.
+
+#### Title
+{:.no_toc}
+
+To update the title of an incident, click `Incidents` in the navigation bar and then the `View Incident` button next to the incident in question:
+
+![Update incident title - 1](/images/support/cmoc_update_title_or_infra.png){: .shadow}
+
+Click the pencil icon next to the current incident title, change it, then click `Save`.
+
+#### Affected Infrastructure
+{:.no_toc}
+
+To update the affected infrastructure of an incident, click `Incidents` from the navigation bar and then the `View Incident` button next to the incident in question:
+
+![Update affected infrastructure - 1](/images/support/cmoc_update_title_or_infra.png){: .shadow}
+
+Click the pencil next to `Affected Infrastructure`, check the boxes next to the additional affected infrastructure, then click `Save`. Then, click `Dashboard` from the navigation menu, click the additional affected infrastructure from the `Current Status` menu, and change their status:
+
+![Change affected infrastructure](/images/support/cmoc_update_infra.png){: .shadow}
 
 #### Create Zendesk Tag
 
@@ -305,18 +330,23 @@ Adjust the `4` if the incident began earlier than four hours ago.
 
 After the incident has been mitigated, we'll often begin a monitoring period to ensure that we do not see a recurrence of the issue. Monitoring typically lasts for 30 minutes, but it can vary and a specific amount of monitoring time may be requested by the Incident Manager. They **may also request that the monitoring stage be skipped entirely.** If this is the case, proceed directly to [Stage 4](#stage-4-resolve).
 
-To begin monitoring, edit the incident and configure the update similar to the following.
+To begin monitoring, edit the incident and change the following fields.
+
+`Current State` - Change to `Monitoring`.
+
+`Details` - Along with any information specific to the incident be sure to mention that all systems have returned to normal operation, that we're monitoring in order to ensure the issue doesn't recur, and provide an estimate for how long we'll be monitoring before we resolve the incident. For example:
+
+> _While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational._
+
+`Broadcast` - Make sure all boxes are checked.
+
+`Message Subject` - Leave this at its default value.
+
+`Current Status` - Leave this at its previously set value. At this point, affected infrastructure should be back to operating normally, but to avoid confusion we **do not** set this back to `Operational` until we are ready to close the incident.
+
+A ready to be published update that switches the incident over to the monitoring period should look similar to the following.
 
 ![Switch to monitoring](/images/support/cmoc_monitoring_stage.png){: .shadow}
-
-Take special note of the changes made to the following fields at this stage.
-
-1. `Current State` - Change to `Monitoring`.
-1. `Details` - Along with any information specific to the incident be sure to mention that all systems have returned to normal operation, that we're monitoring in order to ensure the issue doesn't recur, and provide an estimate for how long we'll be monitoring before we resolve the incident. For example:
-
-   > _While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational._
-
-1. `Incident Status` - At this point, the affected component should be back to normal operation. However, to be clear that we're still in the incident management process we will **not** flip this back to `Operational` until we leave the monitoring state.
 
 If at any point during the monitoring period we see a recurrence of the issue, return to [Stage 2](#stage-2-manage). If the monitoring period completes with no recurrence of the issue, proceed to [Stage 4](#stage-4-resolve).
 
@@ -326,18 +356,25 @@ After we have completed the monitoring period, or if the monitoring period was s
 
 #### Resolve Incident
 
-Once we've confirmed that the issue has been resolved and **the Incident Manager has given the all-clear**, we will close the Status.io incident.
+Once we've confirmed that the issue has been resolved and **the IM has given the all-clear**, we will close the Status.io incident. If these conditions are met, make an update to the incident and change the following fields.
 
-Once these conditions are met, make an update to the incident and change the following fields.
+`Current State` - Change to `Resolved`.
 
-1. `Current State` - Change to `Resolved`.
-1. `Details` - State that the issue has been resolved and that systems have returned to operating normally. Be sure to also include a link to incident issue even if you've already done so in previous updates so that any users who missed them know where to go for more info.
-1. `Incident Status` - Change to `Operational`. **IMPORTANT**: Make sure the "Apply status level to all affected infrastructure" box is checked.
-1. Double check the status page to make sure everything looks good.
+`Details` - State that the issue has been resolved and that systems have returned to operating normally. Be sure to also include a link to the incident issue even if you've already done so in previous updates so that any users who missed them know where to go for more info.
 
-Before resolving the incident your draft should look similar to the following:
+`Broadcast` - Make sure all boxes are checked.
+
+`Message Subject` - Leave this at its default value.
+
+`Current Status` - Change to `Operational`.
+
+`Set Status Level` - Check this box.
+
+A ready to be published update that closes the incident should look similar to the following.
 
 ![Resolve incident](/images/support/cmoc_resolve_incident.png){: .shadow}
+
+After the incident has been closed double check that the status page looks right.
 
 #### Add Post-Mortem
 
