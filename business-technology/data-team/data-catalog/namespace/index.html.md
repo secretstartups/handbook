@@ -14,7 +14,7 @@ description: "This page defines the Namespace along with the relationship to Wor
 ## Namespace 
 
 **NAMESPACE** 
-is a container with common features.  Features are determined by the subscription assigned to the namespace and subsequent namespaces.  Subscriptions can only be assigned to top level `Ultimate Namespaces`.  Namespace Types are User, Group, Subgroup and Project.  Only Users and Groups can be top level namespaces.  
+is a container or grouping of common features available in the application.  Features are determined by a subscription assigned to a namespace and subsequent namespaces will have the same features. Subscriptions can only be assigned to top level `Ultimate Namespaces`.  Namespace Types are User, Group, Subgroup and Project.  Only User and Group namespaces can be top level namespaces.  
 
 For additional existing documentation on Namespaces, please refer to the dedicated docs.gitlab.com section on Namespaces [here](https://docs.gitlab.com/ee/user/group/index.html#namespaces). 
 
@@ -22,10 +22,10 @@ Paid Features are purchased through [Subscriptions and Licenses](https://about.g
 
 A subscription is assigned to a single Top Level Namespace called an **Ultimate Namespace**.  Only User and Group namespaces can be Ultimate Namespaces.  User namespaces can have subsequent Projects while Groups can have subsequent Subgroups and Projects. Going forward, subscriptions will only be allowed to be assigned to Ultimate Group Namespaces because this offers the most flexibility in the project. You can have as many Ultimate Namespaces as needed, but a subscription can only be assigned to a single Ultimate Namespace. Usually one namespace, with the subscription, is created at the highest level and subsequent namespaces are built down from there.  Ultimate namespaces are classified as **Paid**, **Free** or **Trial** depending on whether a subscription is attached and the type of subscription it is.  Trial subscriptions are not paid but, give the paid features for a trial period.   
 
-A subscription can be moved between Namespaces.  The Paid Features availability is moved as well.  Activity on a Paid Namespace before the subscription was moved will be retained in the data, but will no longer be available for use unless the subscription is moved back. 
+A subscription can be moved between Namespaces.  The Paid Features are moved as and cascaded down through subsequent namespaces.  Activity on a Paid Namespace before the subscription was moved will be retained in the data, but will no longer be available for use unless the subscription is moved back. 
 
 **WORKFLOW GROUPINGS** 
-are directly associated with the Namespace groupings.  Workflow groups are functional areas where work is performed. When a User, Group or Project is created, an associated namespace record is also created. These groups use the functionalily and features of the associated namespaces.   Users (Members) are assigned to the workflow groups.  Members are cascaded down through the workflow groups.   
+are directly associated with the Namespace groupings.  Workflow groups are functional areas where work is performed. When a User, Group or Project is created, an associated namespace record is also created. These groups use the functionality and features of the associated namespaces.   Users (Members) are assigned to the workflow groups.  Members are cascaded down through the workflow groups.   
 
 Here is the Namespace To Workflow Relationship Diagram for a visual understanding of the Namespace structure: ![https://lucid.app/lucidchart/ac9af4ec-59a7-468e-a191-c44ccf9df133/edit?invitationId=inv_f9e71212-974c-4e7c-81d1-b1d39c56342f&page=DVe-aYClp-zW#](/handbook/business-technology/data-team/data-catalog/namespace/Namespace_to_Workflow.png) 
 
@@ -57,17 +57,23 @@ Here is the Namespace To Workflow Relationship Diagram for a visual understandin
     * Namespace_is_Ultimate_Parent = 'TRUE'
     * -OR- Parent_id = 'NULL' 
     * -OR- Namespace_id = Ultimate_Namespace_id
-  
+
+## Examples
+
+[Groups, Projects & Namespaces](/handbook/business-technology/data-team/data-catalog/namespace/Group_Project_Namespace.png)
+
+[Personal Namespaces](/handbook/business-technology/data-team/data-catalog/namespace/Personal_Namespace_Example.png)  
 
 ## Namespace Use Cases
 
-**Namespace Service Pings** 
-information is sent to Gitlab showing the usage of the product by namespace.  Gitlab receives [Service Ping](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#saas-namespace-service-ping) information at the Instance or [Namespace Ping](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#saas-namespace-service-ping) level.  The [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) information is used to enhance the product and better meet the needs of the users. 
+Namespace Service Pings information is sent to Gitlab showing the usage of the product by namespace.  Gitlab receives [Service Ping](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#saas-namespace-service-ping) information at the Instance or [Namespace Ping](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#saas-namespace-service-ping) level.  The [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) information is used to enhance the product and better meet the needs of the users.  Here are some use cases for Namespaces.
 
 **Paid, Free and Trial Namespaces Created**
 analysis is needed to identify Namespaces that have been recently created and using Paid vs Free vs Trial (Free w/Paid Features) features of the product.  
 
-A simple query to do this may look something like this:
+<details>
+<summary markdown="span">query</summary>
+
 ```
 SELECT 
     gitlab_plan_id                              ultimate_namespace_plan_id,
@@ -89,10 +95,15 @@ ORDER BY
     gitlab_plan_is_paid
 ```
 
-**Project Namespaces by Membership**
-analysis is needed to show the overall usage of Project Namespaces by users.   
+</details>
 
-A simple query to do this may look something like this:  
+
+**Project Namespaces by Membership**
+analysis is needed to show the overall usage of Project Namespaces by users.
+
+<details>
+<summary markdown="span">query</summary> 
+
 ```
 SELECT 
     dim_namespace_id,
@@ -105,12 +116,15 @@ WHERE
     namespace_type = 'Project'
 ORDER BY
     current_member_count DESC
-```
+``` 
+</details>
 
 **Group Namespaces by Membership**
-analysis is needed to show the overall usage of Group Namespaces by users.    
+analysis is needed to show the overall usage of Group Namespaces by users.
 
-A simple query to do this may look something like this:  
+<details>
+<summary markdown="span">query</summary> 
+
 ```
 SELECT 
     TOP 10
@@ -124,12 +138,15 @@ WHERE
     namespace_type = 'Group'
 ORDER BY
     current_member_count DESC
-```
+``` 
+</details>
 
 **Top-Level Group with Most Sub-Groups and Projects**
 analysis is needed to show where the namespace is being utilized most.     
 
-A simple query to do this may look something like this:  
+<details>
+<summary markdown="span">query</summary> 
+
 ```
 SELECT
     TOP 10 
@@ -162,25 +179,33 @@ ORDER BY
     group_count DESC
     --project_count DESC
     --user_count DESC
-```
+``` 
+</details>
 
 **Multiple ways for Listing Ultimate Namespaces**
-analysis is needed to show Ultimate Namespaces     
+ is needed to find Ultimate Namespaces     
 
-Use `namespace_is_ultimate_parent` when available -OR- Verify Namespace has no Parent -OR- Verify Namespace is Also the Ultimate Namespace id:
+<details>
+<summary markdown="span">query</summary> 
+
 ```
+-- Use namespace_is_ultimate_parent when available
 SELECT * FROM prod.common.dim_namespace WHERE namespace_is_ultimate_parent = 'TRUE'
-
+-- OR Verify Namespace has no Parent
 SELECT * FROM prod.common.dim_namespace WHERE parent_id IS NULL
-
+-- OR Verify Namespace is Also the Ultimate Namespace
 SELECT * FROM prod.common.dim_namespace WHERE dim_namespace_id = ultimate_parent_namespace_id
 ```
+</details>
 
-**Identify Ultimate Namespaces from the Namespace table**
-is needed to show Ultimate Namespaces with a JOIN to the Dim table     
+**Identify Ultimate Namespaces from the Namespace table with Attributes**
+is needed to show Ultimate Namespaces with all attributes     
 
-Join by Namespace_id:
+<details>
+<summary markdown="span">query</summary> 
+
 ```
+-- Join by Namespace_id
 SELECT 
     * 
 FROM 
@@ -190,5 +215,7 @@ FROM
 WHERE 
     ns.namespace_is_ultimate_parent = 'TRUE'
 ```
+</details>
+
 
  
