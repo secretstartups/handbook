@@ -57,11 +57,11 @@ GitLab will match up to 5% of annual base salary of the team member's contributi
 
 ### Enrollment
 
-To enroll in the pension plan or to make changes to an existing contribution, please email `total-rewards@gitlab.com` with the desired percent contribution. Total Rewards will add Orca Financial `info@orca.ie` to the email thread. Orca will gather all relevant information from the team member to add to the pension plan. On the 7th of every month, Orca will send Payroll and Total Rewards a summary of any changes to the pension plan which Total Rewards will update in the appropriate payroll changes spreadsheet. Total Rewards will also file the original election email in BambooHR under the "Benefits and ISO" folder for an audit trail.
+To enroll in the pension plan or to make changes to an existing contribution, please email `total-rewards@gitlab.com` with the desired percent contribution. Total Rewards will add Orca Financial `employeebenefits@orca.ie` to the email thread. Orca will gather all relevant information from the team member to add to the pension plan. On the 7th of every month, Orca will send Payroll and Total Rewards a summary of any changes to the pension plan which Total Rewards will update in the appropriate payroll changes spreadsheet. Total Rewards will also file the original election email in BambooHR under the "Benefits and ISO" folder for an audit trail.
 
 After each pay cycle, Payroll will send Aviva (ccing Orca and Total Rewards) a spreadsheet with all contributions for Aviva to reconcile. 
 
-If you have any questions about a pension plan, how pension benefits work in Ireland, or anything else, please reach out to Orca Financial who will be able to assist you directly. Email: `info@orca.ie` Phone: `+353 1 2103030`
+If you have any questions about a pension plan, how pension benefits work in Ireland, or anything else, please reach out to Orca Financial who will be able to assist you directly. Email: `employeebenefits@orca.ie` Phone: `+353 1 2103030`
 
 You will be able to review the investment strategy once enrolled through the Fund centre on the Aviva website.
 
@@ -69,7 +69,7 @@ You will be able to review the investment strategy once enrolled through the Fun
 
 All full-time GitLab team members in Ireland are eligible for death in service at 4x annual salary. Team members are automatically enrolled in this benefit. This benefit is administered through Aviva. Team members may be contacted to complete an additional questionniare if their covered amount is over the scheme limits, with potential medical underwriting required.  More information can be found on the [Retirement and Death Benefit Scheme Rules document](https://drive.google.com/file/d/1T1HjLXj2f3FmMiX3D4HVhpYF_k8zwvyr/view?usp=sharing).  
 
-Team members can complete a [Expression of Wish Form](https://drive.google.com/file/d/1YSkmogbYIsAVhSESJXLSYBr-T_uH1x2c/view?usp=sharing) to request a beneficiary for this benefit.  Once completed, please send directly to info@orca.ie
+Team members can complete a [Expression of Wish Form](https://drive.google.com/file/d/1YSkmogbYIsAVhSESJXLSYBr-T_uH1x2c/view?usp=sharing) to request a beneficiary for this benefit.  Once completed, please send directly to `employeebenefits@orca.ie`
 
 ## Disability
 
