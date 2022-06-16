@@ -15,7 +15,8 @@ This process applies to:
 
 * Internal and external materials requiring approval as determined by the [SAFE Framework Flowchart](/handbook/legal/safe-framework/#safe-flowchart);
 * External materials containing any third-party intellectual property including customer and partner logos; 
-* Materials prepared for large-scale internal and external events, like SKO, Partner SKO, Commit, and Contribute;
+* Materials prepared for large-scale internal events, like SKO, Partner SKO, Commit, and Contribute;
+* Materials prepared for all external events, like industry and academic conferences;
 * External materials which quote, or are written in the name of, a member of the [GitLab Executive Group](/company/team/e-group/) (eGroup), including such materials prepared for speaking engagements at non-GitLab events, interviews, press releases, and guest content bylined by a member of the eGroup; and
 * Internal materials which quote, or are written in the name of, a member of eGroup, including GitLab Assembly materials, GitLab newsletters, manager newsletters, company wide Slack messages.
 
