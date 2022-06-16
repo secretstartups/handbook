@@ -77,8 +77,9 @@ Just because something is available for free on the internet (including on Googl
 
 *For Unsplash images, it’s good practice to credit Unsplash as the source and photographer. This helps team members repurposing materials determine if images can be used, and is courteous to the photographer.
 
+{::options parse_block_html="true" /}
 <details>
-<summary markdown="span">* For Unsplash images, it’s good practice to credit Unsplash as the source and photographer. This helps team members repurposing materials determine if images can be used, and is courteous to the photographer. Expand for attribution instructions.</summary>
+<summary markdown="span">Expand for Unsplash attribution instructions</summary>
 
 1. Create a small text box at the bottom right of the relevant slide.
 2. Locate the image on [unsplash.com](unsplash.com).
@@ -88,6 +89,7 @@ Just because something is available for free on the internet (including on Googl
 
 [Example Unsplash attribution](https://docs.google.com/presentation/d/1k4PWKJR9O1jEGxKblSQtjDsloQ95uvu6Ty9Pjpmin7E/edit#slide=id.g129bb425d32_0_273)
 </details>
+{::options parse_block_html="false" /}
 
 #### Don’t
 
