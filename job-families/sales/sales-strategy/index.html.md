@@ -12,7 +12,7 @@ The Sales Strategy Senior Analyst reports to the Manager or Senior Manager, Sale
 
 #### Sales Strategy Senior Analyst Job Grade
 
-The Sales Strategy Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sales Strategy Senior Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sales Strategy Senior Analyst Responsibilities
 
