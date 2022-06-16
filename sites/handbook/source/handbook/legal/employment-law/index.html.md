@@ -117,7 +117,7 @@ This is never a defense to a claim of any sort of harassment.
 
 <details>
   <summary markdown="span">Keeping Personnel Information Confidential</summary>
-We keep this information in BambooHR and only those with certain access rights based on their particular job functions have access to the information.
+We keep this information in Workday and only those with certain access rights based on their particular job functions have access to the information.
 </details>
 
 <details>
