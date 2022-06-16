@@ -69,8 +69,7 @@ Additionally, the Data Collaboration Team **supports** the following responsibil
 
 ### Project Structure 
 
-*Coming soon*
-
+We follow the standard [Data Team Planning Drumbeat](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/) for OKRs. For ad-hoc requests, please create an issue, add the `Team::Data Collaboration` label, and assign it to one of the [Data Collaboration Team Members](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-collaboration/#team-structure) for evaluation and planning.
 
 ### Data Assets Findability
 
