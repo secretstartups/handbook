@@ -22,3 +22,20 @@ TAMs should hold optional Leadership Recurring Check-Ins on a quarterly cadence 
 ## How to bring up a Leadership Recurring Check-In with your customers
 
 An ideal time to schedule a recurring check-in call is following an EBR, since leadership should be present on the call and have a vested interest in scheduling a check-in call one quarter out. The TAM should bring up the topic of the Leadership Recurring Check-In as an opportunity to track progress toward the established goals during the EBR, and pose it as a conversation on both progress and prioritization of the goals as time passes.
+
+## Sample Agenda Template
+1. Introductions
+1. Goals and Objectives Summary Review
+1. Current GitLab Adoption Metrics
+   1. Progress Toward Goals
+1. Product Discussion _(Optional)_
+1. Recommendations & Next Steps _(Value Stream Assessments, POVs, Enablement Sessions, etc.)_
+
+## Goal-Setting Questions to Ask Stakeholders
+1. Where would you like to be in 6 months?
+1. Describe your current SDLC process.
+1. Where are the gaps in your SDLC today?
+1. What are your goals around DevOps for the next 6-12 months?
+
+## Goal-Affirming Items to Share with Stakeholders
+1. Usage trends over the last 6-12 months
