@@ -256,7 +256,9 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
 4. **How can I tell if Auto-Renewal or Quarterly Subscription Reconciliation are enabled on a subscription?**
   - Navigate to the SFDC Account, and click on the "Subscriptions" related list. Select the subscription in question, and review the "Auto-Renewal" and "Quarterly Reconciliation" fields. If these are marked "Yes," then these processes apply to the subscription. If these fields are marked "No" or are blank, these processes will not occur for this subscription.
 5. **A QSR opportunity was opened automatically, but my customer was never charged, and the opportunity never closed. What do I do?**
-  - In most cases, if a QSR opportunity is opened but is not closed within 14 days after creation, that means the QSR failed and the opportunity should be closed as duplicate.
+  - First, review the status of the QSR by accessing https://customers.gitlab.com/admin/reconciliation
+    - This page will tell you whether the QSR has been attempted, and if so, whether it was successful or failed. If it failed, the tool will provide a reason.
+  - If the QSR has failed, the opportunity should be closed as duplicate.
 
 #### Resources
 
