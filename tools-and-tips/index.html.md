@@ -80,7 +80,7 @@ That's it! Don't forget to update your username in the following places:
 
 - [team page](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team.yml)
 - [Marketing Handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/marketing/index.html.md), in case you're a Marketing Team member.
-- [BambooHR](https://gitlab.bamboohr.com/home/) GitLab Username under contact details
+- Workday - GitLab Username under 'Additional Data' > 'View all' in your profile actions
 
 ### GitLab team members' resources
 
