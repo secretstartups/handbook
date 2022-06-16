@@ -12,16 +12,14 @@ description: "This page is an overview of the search team alignment and the tale
 | Enterprise Sales, NA | Kevin Rodrigues |  N/A | Sruthy Menon |
 | Enterprise Sales, NA | Jill Hind |  N/A | Sruthy Menon |
 | Enterprise Sales, EMEA | Debbie Harris |  TBH | Lerato Thipe |
-| Enterprise Sales, APAC | Debbie Harris |  TBH | Lerato Thipe |
 | Commercial Sales,	AMER | Marcus Carter | TBH  | Davie Soomalelagi |
 | Commercial Sales,	AMER | Hannah Stewart | TBH  | Sruthy Menon |
-| Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH | Lerato Thipe |
-| Channel Sales, Global | Kanwal Matharu | TBH | Lerato Thipe |
-| Channel Sales, Global | Debbie Harris | TBH | Lerato Thipe |
-| Field Operations,	Global | Kelsey Hart | Loredana Iluca | Sruthy Menon |
-| Customer Success, EMEA | Joanna Muttiah | Loredana Iluca | Lerato Thipe |
-| Customer Success, APAC | Joanna Muttiah | Loredana Iluca | Lerato Thipe |
+| Commercial Sales,	EMEA | Ben Cowdry | TBH | Lerato Thipe |
+| Channel Sales, US/EMEA | Debbie Harris & Kanwal Matharu | TBH | Lerato Thipe |
+| Field Operations,	US/EMEA | Kelsey Hart | Loredana Iluca | Sruthy Menon |
+| Customer Success, EMEA | Joanna Muttiah & Ornella Gerca | Loredana Iluca | Lerato Thipe |
 | Customer Success, NA | Barbara Dinoff | Loredana Iluca | Sruthy Menon |
+| All Sales, APAC | Yas Priatna | N/A | Lerato Thipe |
 | Marketing, Global | Steph Sarff   | Alina Moise | Davie Soomalelagi |
 | Marketing, SDR Global | Tony Tsiras | Tony Tsiras| Alice Crosbie |
 | G&A, Finance, People, CEO | Maria Gore | Alina Moise | Alice Crosbie |
