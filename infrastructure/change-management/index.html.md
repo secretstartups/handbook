@@ -233,8 +233,8 @@ Steps:
   * VP of Infrastructure
   * Director of Support, Global Readiness
 * 1 month before the change at least (if possible):
-    * Ask our TAMs in our #customer-success channel about their preferences on how to communicate this change to our main customers:
-        * Make sure that our main customers TAMs are included in this "ping". If we need to get the list of our Marquee customers, it is [here](https://gitlab.com/gitlab-com/gl-infra/marquee-account-alerts/-/blob/master/marquee-accounts.yml).
+    * Ask our TAMs in our `#customer-success` Slack channel about their preferences on how to communicate this change to our main customers:
+        * Ping TAM managers using the `@cs-tam-mgrs` alias to request that they notify the TAMs for our top SaaS customers.
         * They might propose that we communicate in the customer's channel about the specifics of the change. If that is the case draft a msg, agree on its content with the TAM and share it in the relevant customer Slack channels (in sync with the TAM).
     * Share information and a link to the Issue in `#whats-happening-at-gitlab` slack channel
 * Shortly after that, the communication or change issue should be linked to a simple post in status.io (by clicking in "new maintenance"). We should engage with the CMOC to Share that maintenance in status.io, via all the possible channels (mail, tweet, slack, etc). From there customers will be able to ask questions and comment on it.
