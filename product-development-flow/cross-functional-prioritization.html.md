@@ -26,11 +26,16 @@ Our backlog should be prioritized on an ongoing basis. Prioritization will be do
 
 The DRIs of these three core areas will work collaboratively to ensure the overall prioritization of the backlog is in alignment with [section direction](https://about.gitlab.com/direction/#devops-stages) or any other necessary product and business needs.
 
-Notes:
+It is recommended that teams use a Cross-functional Prioritization Board like [this example](https://gitlab.com/groups/gitlab-org/-/boards/4309441?not[label_name][]=UX&label_name[]=group%3A%3Athreat%20insights) which provides columns for `type::feature`, `type::maintenance`, and `type::bug` issues. Issues may be reordered by drag and drop.
 
-1. You may find it helpful to set up a board that has columns for `type::feature`, `type::maintenance`, and `type::bug` labels ([example](https://gitlab.com/groups/gitlab-org/-/boards/4309441?not[label_name][]=UX&label_name[]=group%3A%3Athreat%20insights)). You can then arrange the items by drag and drop.
+**Note:** Each team is encouraged to create their own board as the example board above belongs to the Threat Insights team. Please do not modify this board unless you are a member of the Threat Insights team.
+
+Drag and drop reordering is also supported in the issues list by sorting by `Manual` ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=relative_position&state=opened&label_name%5B%5D=group%3A%3Athreat%20insights&label_name%5B%5D=type%3A%3Amaintenance&first_page_size=100)). You may find this view to be more effective when focusing on a specific type, or when working against large backlog. When you adjust the order of issues in the _Manual_ list view, it's automatically reflected in the board view, so the order is consistent between both views.
+
+Notes: 
+
 1. It may be useful to filter out certain issue types like `UX` that aren't relevant to implementation issues.
-1. Toggle off "show labels" for a cleaner view.
+1. Toggle off "show labels" in the board for a cleaner view.
 
 
 ## Planning for the milestone
@@ -42,9 +47,9 @@ The Product Manager is responsible for planning each milestone. Product Managers
    1. Your team may have ratios other than 60/30/10. For instance, teams working on net-new product functionality may have a much higher feature work %. 
 1. Sequencing of work within the milestone should reflect that we [plan ambitiously](https://about.gitlab.com/handbook/product/product-principles/#how-this-impacts-planning). This means not every issue will be delivered. Be aware that this can skew your ratios over time if subsequent milestones are not properly re-balanced.
 
-Notes:
-1. You may find it helpful to use the same board above to conduct milestone planning. 
+It is recommended to use the your team's same [Cross-functional Prioritization board](/handbook/product-development-flow/cross-functional-prioritization.html#prioritization-for-feature-maintenance-and-bugs) for milestone planning.
 
+Add the `milestone` ([example](https://gitlab.com/groups/gitlab-org/-/boards/4309441?label_name[]=group%3A%3Athreat%20insights&milestone_title=15.1)) to review the milestone plan. The board will show the number of issues and cumulative issue weights for `type::feature`, `type::maintenance`, and `type::bug` issues.
 
 
 
