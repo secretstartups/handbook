@@ -62,7 +62,6 @@ This list has been pre-approved so if any team-member needs access to these syst
 | Google Workspace                 | Email, Calendar, and Document sharing/collaboration | GitLab.com Org Unit                                                        |
 | Jamf                             | Apple Device Management Tool                        | User                                                                       |
 | Modern Health                    | Employee Assistance Program                         | Employee                                                                   |
-| Moo                              | Business Cards                                      | User                                                                       |
 | Navex Global                     | LMS Training tool                                   | Employee                                                                   |
 | Okta                             | Identity and Single Sign On                         | User                                                                       |
 | PTO by Roots/Treehoppr           | PTO tool                                            | User                                                                       |
