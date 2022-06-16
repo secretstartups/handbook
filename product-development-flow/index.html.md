@@ -102,7 +102,7 @@ If we don't have confidence in the MVC or what success looks like, we should con
 |---------------|----------|
 | DRI           | Product Manager |
 | Collaborators | Product Designer <br/> Product Design Manager <br/> Development Department Engineering Manager |
-| Informed      | Customers <br/>Technical Account Manager <br/>Product Marketing Manager <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
+| Informed      | Customers <br/>Technical Account Manager <br/>Product Marketing Manager <br/>Other [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) as appropriate |
 
 #### Description
 
@@ -126,7 +126,7 @@ The growth of a world class product is built from a well maintained backlog. Pro
 |---------------|----------|
 | DRI           | Product Manager |
 | Collaborators | UX Researcher |
-| Informed      | Product Designer <br/>Development team <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
+| Informed      | Product Designer <br/>Development team <br/>Other [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) as appropriate |
 
 
 #### Description
@@ -155,7 +155,7 @@ If the problem is nuanced or not yet well understood, then it will likely take l
 |---------------|----------|
 | DRI           | Product Designer |
 | Collaborators | Product Manager <br/>Development team <br/>UX Researcher <br/>Software Engineer in Test <br/>Technical Writer|
-| Informed      | Product Design Manager<br/> Application Security Engineer <br/>  Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
+| Informed      | Product Design Manager<br/> Application Security Engineer <br/>  Other [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) as appropriate |
 
 #### Description
 
@@ -186,7 +186,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 |---------------|----------|
 | DRI           | Product Designer |
 | Collaborators | Product Manager <br/>Development team|
-| Informed      | Product Design Manager <br/>Technical Writer <br/>Software Engineer in Test <br/>Application Security Engineer <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
+| Informed      | Product Design Manager <br/>Technical Writer <br/>Software Engineer in Test <br/>Application Security Engineer <br/>Other [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) as appropriate |
 
 #### Description
 
@@ -350,7 +350,7 @@ Label: n/a
 |---------------|----------|
 | DRI           | Product Manager |
 | Collaborators | Product Designer <br/>Customer Success <br/>Sales <br/>Data Analysts <br/>UX Researcher <br/>Product Management Marketer <br/>Technical Writer |
-| Informed      | Development team <br/>Leadership<br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
+| Informed      | Development team <br/>Leadership<br/>Other [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) as appropriate |
 
 #### Description
 
