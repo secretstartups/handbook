@@ -11,18 +11,22 @@ category: GitLab Self-Managed licenses
 
 ## Overview
 
-We currently do not send paid licenses out to any email other than the one used for purchasing (and within customers.gitlab.com). To have it sent to a different email address, we would need to follow the process outlined at [Associating purchases with additional accounts](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html).
+A temporary license can be sent to a different email address.
 
-Once the account is changed, the license can be re-sent (or obtained by the new account owner).
+A paid license is always sent to the `Sold to` contact used on the order, and this contact is mentioned in the license file.
 
-An exemption can be made for a temporary license to be sent to a different email address. To make such a request the customer's TAM or Account Manager should submit a [internal license request](https://gitlab-com.gitlab.io/support/internal-requests-form/)
+We can send the license to another contact if:
 
-**Note**
+- The contact has a Customers Dot account which is linked to the subscription.
+- The contact is the `Sold to` contact for the Zuora account.
 
-We cannot bypass doing this based on internal requests. It must be done via a customer submitted ticket.
+To have it sent to a different email address, we would need to follow the process outlined at [Associating purchases with additional accounts](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html). \
+We cannot bypass doing this based on internal requests. It must be done via a customer submitted ticket. \
+Once the new Customers Dot account is created or changed, the license can be re-sent (or obtained by the new account owner).
 
+The Support team is not allowed to make changes to the contact information in the license itself.
 
-Once we have received the requested proof, we can proceed to forward or resend the license.
+To forward or resend a license:
 
 - Find the license by following steps 1 and 2 mentioned in the [above section](#overview). 
 - To resend the license to the same user, click the `Resend to customer via email` button on the right. (Looks like an envelope icon)
