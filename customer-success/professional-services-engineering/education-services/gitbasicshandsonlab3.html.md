@@ -23,7 +23,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ### B. Create a merge request
 1. To the right of the **Create merge request** button, select the **dropdown arrow** . This is where you can customize the merge request. For this exercise, use the default settings.
-1. Select **Create merge request** to create a branch named after the issue, and also to create a merge request for that branch. You now have 3 linked items that relate to one task that you need to do: an issue, a branch, and a merge request.
+1. Select **Create merge request and branch** to create a branch named after the issue, and also to create a merge request for that branch. You now have 3 linked items that relate to one task that you need to do: an issue, a branch, and a merge request.
 
 ### D. Edit files on a branch using GitLab’s Web IDE
 1. In the middle of the merge request page, select **Open in Web IDE**.
