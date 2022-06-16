@@ -58,13 +58,13 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 
 * All groups have dashboards that they use to analyze merged MR ratio of features, maintenance, bugs and undefined.
 * All groups are reviewing the dashboards and discussing it periodically (monthly?). They compare against the 60% feature, 30% maintenance, 10% bugs, and <=5% undefined. If not there, discuss why and what makes sense for the team. It is *not* an exit criteria that every team achieves those ratios.
-* All sections review the dashboards at the section level (quarterly?).
-* VP Eng, VP Prod, VP UX, VP Quality, and CTO review the dashboards at the company level (quarterly?).
-* Starting with the 15.1 release at the earliest, 15.2 at the latest:
+* All sections review the dashboards at the section level (quarterly).
+* VP Eng, VP Prod, VP UX, VP Quality, and CTO review the dashboards at the company level (quarterly).
+* Starting in July:
   * Product continues to prioritize feature issues.
   * Development transitions to being the DRI to prioritize maintenance issues.
   * Quality transitions to being the DRI for bugs.
-  * Product, in consultation with UX, Development, and Quality is the DRI for milestone planning. 
+  * Product (in consultation with UX, Development, and Quality) continues to be the DRI for scheduling issues for a milestone. 
 * Automation exists to streamline the process.
 * Handbook is updated to reflect the new process.
 * Execute on mulit-modal communication plan.
@@ -89,7 +89,12 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 ### Rollout
 
 * Jun 17 - all teams have reviewed (sync or async per team preference) the dashboard to discuss if the ratios are what they expect and if not think about potential actions to take, and they have set up a periodic review cadence to do this periodically 
-* Jul 4 - DRIs have changed for maintenance to development engineering manager and for bugs to quality stable counterpart
+* Jun 30 - development engineering managers will provide their product manager counterpart a prioritized list of maintenance work.
+* Jun 30 - quality managers will provide product management with a prioritized list of bugs (that aren't yet auto-prioritized). 
+* The product managers will use the above lists, along with a prioritized list of features, to schedule and assign work to the next milestone
+* July 13 - product management has quad planning (final milestone refinement) available for review.
+* Jul 16 - CTO and VP of product management will review the overall quad planning
+
 
 ### Roles and Responsibilities
 
