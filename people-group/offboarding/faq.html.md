@@ -14,7 +14,7 @@ description: "Common Questions about the Offboarding Process"
 
 #### When will my offboarding issue be created?
 
-It will be created on your last day, the People Experience Associate assigned to your offboarding will create the offboarding issue at 12 pm (your) local time. 
+The People Experience Associate assigned to your offboarding will create it after you are done working on your last day. The latest it will be is 4pm (local time) on Monday-Thursday or 12pm (local time) on Fridays. 
 
 #### Is there anything I need to do to get my offboarding issue created?
 
@@ -22,7 +22,7 @@ No, there is nothing you need to action. The People Experience Associate handlin
 
 #### When will my access be deactivated? 
 
-Your access will be deactivated on your last day, when the offboarding issue is created. 
+Your access will be deactivated on your last day at 4pm (local time) on Monday-Thursday or 12pm (local time) on Fridays. 
 
 #### Can I provide my own update in the Team Member Updates Slack Channel?
 
@@ -113,7 +113,7 @@ More information can be found in the [Growth and Development](/handbook/total-re
 
 ### USA
 
-If you are a US-based team member, your benefits will cease on last day of the month of your departure. You are eligible for [Consolidated Omnibus Budget Reconciliation Act (“COBRA”)](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf), the COBRA administrator has been notified and will send out the paperwork to your home address on file. More information on timelines and contact information for our COBRA administrator can be found in the [COBRA section](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cobra).  You may also be eligible under the Patient Protection and Affordable Care Act (“PPACA”) for subsidized health care options via the marketplace. If you are interested it is important that you sign up with the market place well before the 15th of the month to have coverage for the following month. Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), if you need a certificate of credible coverage please download it from your current carrier's online portal or request it from the Compensation & Benefits team by emailing `total-rewards@ gitlab.com`. If you move, please email `people-connect@ gitlab.com` so that we can keep your address up to date in BambooHR.
+If you are a US-based team member, your benefits will cease on last day of the month of your departure. You are eligible for [Consolidated Omnibus Budget Reconciliation Act (“COBRA”)](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf), the COBRA administrator has been notified and will send out the paperwork to your home address on file. More information on timelines and contact information for our COBRA administrator can be found in the [COBRA section](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cobra).  You may also be eligible under the Patient Protection and Affordable Care Act (“PPACA”) for subsidized health care options via the marketplace. If you are interested it is important that you sign up with the market place well before the 15th of the month to have coverage for the following month. Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), if you need a certificate of credible coverage please download it from your current carrier's online portal or request it from the Compensation & Benefits team by emailing `total-rewards@ gitlab.com`. If you move, please email `people-connect@ gitlab.com` so that we can keep your address up to date in Workday.
 
 #### How do I roll over my retirement account and funds?
 
@@ -144,6 +144,6 @@ If there are any issues that they cannot help with, please contact the Total Rew
 
 #### What if I move?
 
-If you move, please email `people-connect@gitlab.com` so that the People Experience team can keep your address up to date in BambooHR. 
+If you move, please email `people-connect@gitlab.com` so that the People Experience team can keep your address up to date in Workday. 
 
 
