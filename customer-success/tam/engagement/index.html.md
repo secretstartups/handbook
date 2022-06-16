@@ -110,6 +110,15 @@ Has responsibility for the security of the software the customer develops. This 
 
 We have [role-play scenarios to practice identifying and gaining access to the defined personas](/handbook/customer-success/tam/roleplays/#customer-personas).
 
+### Capturing customer personas in Gainsight
+
+Customer personas are attributed to individual contacts in Gainsight when viewing an account. To capture a customer persona, use the following steps:
+
+1. Inside of the account view, click the `Contacts` link on the left.
+1. Switch to List View by clicking the button next to the word "Contacts" at the top of the screen.
+1. Search for the contact you would like to update, and click on their name.
+1. In their contact record, edit the `GitLab Role` field and select the persona(s) that apply to them, and then save the field by clicking the check button to the right.
+
 ## Customer Prioritization
 
 GitLab uses a customer prioritization model and [associated metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/) based on their customer segment (Strategic, Mid-Touch, Scale) to focus the TAM's efforts where they will have maximum value and impact. 
