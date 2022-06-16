@@ -459,7 +459,7 @@ _Innovative Solution in Developer Ecosystem for the tight integration with GKE_<
 
 ----
 
-<big>[GitLab voted as G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)</big><br>
+<big>[GitLab voted as G2 Crowd Leader]</big><br>
 _Over 170 public reviews with a 4.4 rating, including: "[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)," "[Great self-managed, open source, source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)," "[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)," and "[Perfect solution for cloud and on-premise DevOps tool](https://www.g2.com/products/gitlab/reviews/gitlab-review-2388492)"_<br>
 **Value Drivers:** Efficiency, Speed, Risk<br>
 **Differentiators:** Rapid Dev, Visibility<br>
@@ -570,25 +570,25 @@ _Continuous Integration streamlines and accelerates building and testing develop
 ### Peer Reviews
 _[The original and internal-to-GitLab proof points Google Doc is online, here](https://docs.google.com/document/d/1Tuhg6LO0e6R-KP7Vfwb8cggHDiBzkC26pBl0lyLS7UY/edit) while some parts of this handbook page are being approved for publication._
 
-"[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)" — Information Technologist, Enterprise from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)" — Information Technologist, Enterprise from [G2 Crowd Leader]<br>
 **Value Drivers:** Efficiency<br>
 **Use Case:** VC&C
 
 ----
 
-"[Perfect solution for cloud and on-premise DevOps tool](https://www.g2.com/products/gitlab/reviews/gitlab-review-2388492)" — Lead Developer, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[Perfect solution for cloud and on-premise DevOps tool](https://www.g2.com/products/gitlab/reviews/gitlab-review-2388492)" — Lead Developer, Mid-Market from [G2 Crowd Leader]<br>
 **Value Drivers:** Efficiency<br>
 **Use Case:** DevOps, Cloud Native
 
 ----
 
-"[Great self-managed, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)" — Administrator, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[Great self-managed, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)" — Administrator, Mid-Market from [G2 Crowd Leader]<br>
 **Value Drivers:** Efficiency<br>
 **Use Case:** VC&C
 
 ----
 
-"[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)" — Industry Analyst / Tech Writer, SMB from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)" — Industry Analyst / Tech Writer, SMB from [G2 Crowd Leader]<br>
 **Value Drivers:** Efficiency<br>
 **Use Case:** VC&C
 
@@ -644,7 +644,7 @@ About 35% report code is released twice as rapidly, while nearly 25% said it’s
 ### Peer Reviews
 _[The original and internal-to-GitLab proof points Google Doc is online, here](https://docs.google.com/document/d/1Tuhg6LO0e6R-KP7Vfwb8cggHDiBzkC26pBl0lyLS7UY/edit) while some parts of this handbook page are being approved for publication._
 
-"[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)" — Information Technologist, Enterprise from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)" — Information Technologist, Enterprise from [G2 Crowd Leader]<br>
 **Value Drivers:** Efficiency<br>
 **Use Case:** SCM <br>
 **Differentiator:** SCM&CI, Single Application <br>
@@ -662,7 +662,7 @@ _[The original and internal-to-GitLab proof points Google Doc is online, here](h
 
 ----
 
-"[Great self-managed, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)" — Administrator, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[Great self-managed, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)" — Administrator, Mid-Market from [G2 Crowd Leader]<br>
 **Value Drivers:** Efficiency<br>
 **Use Case:** SCM <br>
 **Differentiator:** Software Anywhere, SCM&CI <br>
@@ -670,7 +670,7 @@ _[The original and internal-to-GitLab proof points Google Doc is online, here](h
 
 ----
 
-"[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)" — Industry Analyst / Tech Writer, SMB from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)" — Industry Analyst / Tech Writer, SMB from [G2 Crowd Leader]<br>
 **Value Drivers:** Efficiency<br>
 **Use Case:** SCM <br>
 **Differentiator:** Single Application <br>
@@ -678,7 +678,7 @@ _[The original and internal-to-GitLab proof points Google Doc is online, here](h
 
 ----
 
-"[GitLab has helped me master Git, CI/CD pipelines, and software development in general through the many resources it offers.](https://www.g2.com/products/gitlab/reviews/gitlab-review-3606488) - System Administrator, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[GitLab has helped me master Git, CI/CD pipelines, and software development in general through the many resources it offers.](https://www.g2.com/products/gitlab/reviews/gitlab-review-3606488) - System Administrator, Mid-Market from [G2 Crowd Leader]<br>
 **Value Drivers:** Efficiency <br>
 **Use Case:** CI, CD <br>
 **Differentiator:** Single Application, Open Source, SCM&CI, Collaborative <br>
@@ -686,7 +686,7 @@ _[The original and internal-to-GitLab proof points Google Doc is online, here](h
 
 ----
 
-"[For me, the most impressive part of their toolchain would have to be the CI/CD Platform, the ease of use and it's flexibility is wonderful. Building CI/CD pipelines never felt easier.](https://www.g2.com/products/gitlab/reviews/gitlab-review-4215029) - Software Engineer, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[For me, the most impressive part of their toolchain would have to be the CI/CD Platform, the ease of use and it's flexibility is wonderful. Building CI/CD pipelines never felt easier.](https://www.g2.com/products/gitlab/reviews/gitlab-review-4215029) - Software Engineer, Mid-Market from [G2 Crowd Leader]<br>
 **Value Driver:** Eficiency <br>
 **Use Case:** CI, CD <br>
 **Differentiator:** Single Application, SCM&CI <br>
@@ -694,7 +694,7 @@ _[The original and internal-to-GitLab proof points Google Doc is online, here](h
 
 ----
 
-"[The UI is better and CI/CD is way more robust. GitLab has also got a great working culture ("remote is the future of work" for sure!) and a very strong brand, and good communication and presence on various platforms.](https://www.g2.com/products/gitlab/reviews/gitlab-review-4194470#survey-response-4194470) - Marton Nagy, SMB from  [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[The UI is better and CI/CD is way more robust. GitLab has also got a great working culture ("remote is the future of work" for sure!) and a very strong brand, and good communication and presence on various platforms.](https://www.g2.com/products/gitlab/reviews/gitlab-review-4194470#survey-response-4194470) - Marton Nagy, SMB from  [G2 Crowd Leader]<br>
 **Value Driver:** Efficiency <br>
 **Use Case:** SCM, CI, CD <br>
 **Differentiator:** SCM&CI, End-to-End Insight <br>

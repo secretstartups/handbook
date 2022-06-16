@@ -114,12 +114,10 @@ Critical that this context is complete, accurate and that ICONIQ can depend on i
 - Emails will be reviewed and sent by the Investor to the Top Account contact in their network
 - All email correspondences should be added to SFDC as an Activity under the associated account
 - For reference, some additional detail is linked below:
-    * [GitLab ranked number 4 software company (44th overall) on Inc. 5000 list of 2018's Fastest Growing Companies](/is-it-any-good/#gitlab-ranked-number-4-software-company-44th-overall-on-inc-5000-list-of-2018s-fastest-growing-companies)
-    * [GitLab has 2/3 market share in the self-managed Git market](/is-it-any-good/#gitlab-has-23-market-share-in-the-self-managed-git-market)
-    * [GitLab CI is the fastest growing CI/CD solution](/is-it-any-good/#gitlab-has-23-market-share-in-the-self-managed-git-market)
-    * [GitLab CI is a leader in The Forrester Wave™](/is-it-any-good/#gitlab-ci-is-a-leader-in-the-the-forrester-wave)
-    * [GitLab is a top 3 innovator in IDC's list of Agile Code Development Technologies for 2018](/is-it-any-good/#gitlab-is-a-top-3-innovator-in-idcs-list-of-agile-code-development-technologies-for-2018)
-    * [GitLab is a strong performer in the new Forrester Value Stream Management Tools 2018 Wave Report](/is-it-any-good/#gitlab-is-a-strong-performer-in-the-new-forrester-value-stream-management-tools-2018-wave-report)
-    * [GitLab is one of the top 30 open source projects](/is-it-any-good/#gitlab-is-one-of-the-top-30-open-source-projects)
-    * [GitLab has more than 2,000 contributors](/is-it-any-good/#gitlab-has-more-than-2000-contributors)
-    * [GitLab has been voted as G2 Crowd Leader in 2018](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)
+    * [GitLab ranked number 4 software company (44th overall) on Inc. 5000 list of 2018's Fastest Growing Companies](/blog/2018/08/16/gitlab-ranked-44-on-inc-5000-list/)
+    * [GitLab has 2/3 market share in the self-managed Git market](/blog/2017/06/29/whats-next-for-gitlab-ci/)
+    * [GitLab CI is the fastest growing CI/CD solution](/blog/2017/06/29/whats-next-for-gitlab-ci/)
+    * [GitLab CI is a leader in The Forrester Wave™](https://about.gitlab.com/blog/2017/09/27/gitlab-leader-continuous-integration-forrester-wave/)
+    * [GitLab is a strong performer in the new Forrester Value Stream Management Tools 2018 Wave Report](/blog/2018/08/09/gitlab-strong-performer-vsm/)
+    * [GitLab is one of the top 30 open source projects](/blog/2017/07/06/gitlab-top-30-highest-velocity-open-source/)
+    * [GitLab has more than 2,000 contributors](/blog/2018/08/13/join-the-gitlab-community/)
