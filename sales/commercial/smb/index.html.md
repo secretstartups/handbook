@@ -55,6 +55,8 @@ These Dasboards are used to keep track on team performance globally as well as p
 - [AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXCS)
 - [AMER East](https://gitlab.my.salesforce.com/01Z4M000000oYNK)
 - [AMER West](https://gitlab.my.salesforce.com/01Z4M000000oYLE)
+- [EMEA Required 7](https://gitlab.my.salesforce.com/01Z4M000000xe1W)
+- [EMEA All](https://gitlab.my.salesforce.com/01Z4M000000xe38)
 
 #### Required 7
 
