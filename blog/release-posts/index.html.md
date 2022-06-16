@@ -1067,35 +1067,32 @@ Use a short and strong name for all feature names.
 
 Use the following pattern to apply the correct badge to the feature (Free, Premium, Ultimate).
 
-- `available_in`: availability of that feature in GitLab:
-  - For GitLab Free, use `[core, premium, ultimate]`
-  - For GitLab Premium, use `[premium, ultimate]`
-  - For GitLab Ultimate, use `[ultimate]`
+For the feature availability tier, use `available_in` with:
+  - For GitLab Free, `[core, premium, ultimate]`
+  - For GitLab Premium, `[premium, ultimate]`
+  - For GitLab Ultimate, `[ultimate]`
 
-**Important note**: GitLab Free tier is referenced as `core` in the data file. This is intentional and the page templates will apply the proper tier name on the frontend.
+  **Important note**: The GitLab Free tier is listed as `core` in the data file. This is intentional and the page templates will apply the proper tier name on the frontend.
 
-If the feature is available in GitLab.com, the badges for GitLab.com will be
-applied automatically according to the self-managed availability. For example,
-`available_in: [premium, ultimate]` will "turn on" the badges Premium and Ultimate under self-managed and SaaS.
+For features available on both self-managed and SaaS:
+- Use `gitlab_com: true`, or do not include `gitlab_com` in the yaml file.
 
-If the feature is not available in GitLab.com, e.g., LDAP and admin settings,
-use the tag `gitlab_com: false` to turn off the entire SaaS badges' row. For
-example, for GitLab Geo features, use:
+For features available on self-managed only:
+- Use `gitlab_com: false`. For example:
 
-```yaml
-available_in: [premium, ultimate]
-gitlab_com: false
-```
+  ```yaml
+  available_in: [premium, ultimate]
+  gitlab_com: false
+  ```
 
-If the feature is only available in GitLab.com, e.g. subscriptions, you can use
-the following badges:
+  This setting greys out the orange badges on the GitLab SaaS row.
 
-- `available_in`: availability of that feature in GitLab.com:
-  - For GitLab.com Free, use `[free, silver, gold]`
-  - For GitLab.com Silver, use `[silver, gold]`
-  - For GitLab.com Gold, use `[gold]`
+For features available on GitLab.com only, use `available_in:` with:
+- For GitLab.com Free, `[free, silver, gold]`
+- For GitLab.com Silver, `[silver, gold]`
+- For GitLab.com Gold, `[gold]`
 
-You can also mix the GitLab.com badges with the self-managed badges; however, for this to work, the `gitlab_com` variable must be set to `false`:
+You can also mix the GitLab.com badges with the self-managed badges. However, for this to work, the `gitlab_com` variable must be set to `false`:
 
 - `available_in`:
   - For availability in all tiers on GitLab.com and only Premium and Ultimate tiers on self-managed, use `[free, silver, gold, premium, ultimate]` and set `gitlab_com: false`
