@@ -27,7 +27,7 @@ See related [repository](https://gitlab.com/gitlab-data/data-science)
 First, you need to install and launch [Rancher Desktop](https://rancherdesktop.io/), an open-source container manager, on your local machine.
 
 You have two options when setting up jupyter via the data-science project. Choose from one of the following:
-- **Full install (Recommended)**: Installs all libraries defined by the [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile), **_plus_** a complete anaconda install.
+- **Full install (Recommended)**: Installs all libraries defined by the [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile), **_plus_** a complete Mambaforge install.
 - **Lightweight install**: installs **_only_** the libraries defined by the [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile) and should be used if you already have a python environment on your local machine that you would like to use as the base image.
 
 ### Installation Instructions
@@ -50,13 +50,13 @@ To check if everything is correct open terminal and run command
 
 ``which python`` 
 
-It lists location of your default Python. It should be in ``/Users/{your_user_name}/anaconda3/bin``
+It lists location of your default Python. It should be in ``/Users/{your_user_name}/mambaforge/bin``
 
 And command 
 
 ``which pip``
 
-It lists location of your default pip. It should be in ``/Users/{your_user_name}/anaconda3/bin/pip``
+It lists location of your default pip. It should be in ``/Users/{your_user_name}/mambaforge/bin/pip``
 
 #### Linting the repository
 
