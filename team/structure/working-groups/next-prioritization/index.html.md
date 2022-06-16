@@ -73,27 +73,27 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 
 | Task | Due date | Status | DRI | Issue link(s) |
 | --- | --- | --- | --- | --- | 
-| Poll and decide on new workgroup name | May 2 | Complete | Michael Oliver | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274) |
-| Company wide-announcement and schedule AMA sessions | May 4 | Complete | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13302) |
-| Add dashboards to handbook pages for all stage groups | May 26 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) |
-| Add dashboards to handbook pages for all sub-departments | May 30 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13448) |
-| Automate merge request type reminders  | June 3 | Complete | Kyle Wiebers | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) |
-| Auto-schedule S1 Bugs | June 7 | _Due date will be updated_ | Tanya Pazitny | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
-| Handbook updates to describe new process and deprecate engineering allocation process | June 6 | Complete | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
-| Setup monthly MR type reviews between engineering managers, sub-department leads, and engineering overall trends | June 2 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
-| Refine stakeholder dashboard views, bug & maintenance backlog types | May 19 | Complete | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13321) | 
-| Reduce undefined MR types to less than 5% | July 1 | May was 6.7%| Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
-| 100% of teams using the new processes | 7/4 | 30% as of June 10 | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
-| Do a restrospective and close working group | 7/11 | Not started | Wayne Haber | TBD |
+| Poll and decide on new workgroup name | 2022-05-02 | Complete | Michael Oliver | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274) |
+| Company wide-announcement and schedule AMA sessions | 2022-05-04 | Complete | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13302) |
+| Add dashboards to handbook pages for all stage groups | 2022-05-26 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) |
+| Add dashboards to handbook pages for all sub-departments | 2022-05-30 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13448) |
+| Automate merge request type reminders  | 2022-06-03 | Complete | Kyle Wiebers | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) |
+| Auto-schedule S1 Bugs | 2022-06-07 | _Due date will be updated_ | Tanya Pazitny | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
+| Handbook updates to describe new process and deprecate engineering allocation process | 2022-06-06 | Complete | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
+| Setup monthly MR type reviews between engineering managers, sub-department leads, and engineering overall trends | 2022-06-02 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) | 
+| Refine stakeholder dashboard views, bug & maintenance backlog types | 2022-05-19 | Complete | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13321) | 
+| Reduce undefined MR types to less than 5% | 2022-07-01 | May was 6.7% | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
+| 100% of teams using the new processes | 2022-07-04 | 30% as of June 10 | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
+| Do a restrospective and close working group | 2022-07-11 | Not started | Wayne Haber | TBD |
 
 ### Rollout
 
-* Jun 17 - all teams have reviewed (sync or async per team preference) the dashboard to discuss if the ratios are what they expect and if not think about potential actions to take, and they have set up a periodic review cadence to do this periodically 
-* Jun 30 - development engineering managers will provide their product manager counterpart a prioritized list of maintenance work.
-* Jun 30 - quality managers will provide product management with a prioritized list of bugs (that aren't yet auto-prioritized). 
+* 2022-06-17 - all teams have reviewed (sync or async per team preference) the dashboard to discuss if the ratios are what they expect and if not think about potential actions to take, and they have set up a periodic review cadence to do this periodically 
+* 2022-06-30 - development engineering managers will provide their product manager counterpart a prioritized list of maintenance work.
+* 2022-06-30 - quality managers will provide product management with a prioritized list of bugs (that aren't yet auto-prioritized). 
 * The product managers will use the above lists, along with a prioritized list of features, to schedule and assign work to the next milestone
-* July 13 - product management has quad planning (final milestone refinement) available for review.
-* Jul 16 - CTO and VP of product management will review the overall quad planning
+* 2022-07-13 - product management has quad planning (final milestone refinement) available for review.
+* 2022-07-16 - CTO and VP of product management will review the overall quad planning
 
 
 ### Roles and Responsibilities
