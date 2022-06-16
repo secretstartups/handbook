@@ -61,8 +61,9 @@ These Dasboards are used to keep track on team performance globally as well as p
 All team members from Commercial Sales are expected to implement the [Required 7](/handbook/sales/commercial/#required-7). None of the 7 should be missing at any time. The Required 7 will help to stay on top of your territory, deliver what is promised to the prospect / customer and have quality meetings.
 
 #### Call Preps
+Account Owners always do a form of preparation and research before every live interaction with a customer to ensure we are supporting conversations with the latest information on the account. While certain data points can be validated with our contacts, we want to be aware of what is happening at the organization at any given time and limit any surprises. Level of effort in preparation and practice can vary. Common actions include pulling up the account and opportunity, running through the custom deck and reviewing the agenda, and having the customer's website along with social sites live to reference any news or changes. 
 
-Though not mandatory, call preps are a great way to gain a different perspective on your opportunities during a sales cycle. Thus, allowing you to be more prepared for following meetings.
+Though not mandatory, team call preps are a great way to gain a different perspective on your opportunities during a sales cycle and encouraged for collaboration on the team. Thus, allowing you to be more prepared for following meetings. To create a team call prep:
 
 - Put time on the calendar to connect with a fellow SMB team member or someone else of choice (Solution Architect, Technical Account Manager, Area Sales Manager)
 - Be prepared with the Salesforce link to the opportunity, as well as your deck/call notes if applicable
