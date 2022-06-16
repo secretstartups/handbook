@@ -590,7 +590,7 @@ To participate in the mid-year check in we recommend that team members have at l
 
 Recommended process for our FY'23 Q2 cycle will be as follows:
 
-1. _Team Member Led: Team member provides a self-assessment on thier own performance in their [1:1 document](https://about.gitlab.com/handbook/leadership/1-1/)_
+1. _Team Member Led: Team member provides a self-assessment on their own performance in their [1:1 document](https://about.gitlab.com/handbook/leadership/1-1/)_
 
 Team members can leverage their 1:1 document and should reflect on their achievements, strengths, and opportunity areas since the last formal Talent Assessment in FY'22 Q4. It is the team member’s responsibility to provide the self-assessment and bring it to the conversation with their manager to discuss and align. Documenting in the 1:1 agenda ensures the material is available to come back to throughout the rest of the year.  
 
