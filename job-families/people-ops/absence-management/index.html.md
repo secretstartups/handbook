@@ -6,7 +6,7 @@ title: "Absence Management"
 ## Levels
 
 ### Absence Management Specialist
-The Absence Management Specialist reports into the Absence Management Manager.
+The Absence Management Specialist reports to the Manager, Absence Management.
 
 ### Absence Management Specialist Job Grade
 The Absence Management Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -14,30 +14,30 @@ The Absence Management Specialist is a [grade 5](/handbook/total-rewards/compens
 ### Absence Management Specialist Responsibilities
 
 * Hands-on responsibility for the day-to-day administration of all employee leave of absence programs.
-* Ensures compliance with all leave of absence and employment laws across all countries in which we have entities by accurately completing all time away requests in a timely manner
+* Ensures compliance with all leave of absence and employment laws across all countries in which we have entities by accurately completing all time away requests in a timely manner.
 * Suggests both company and statutory policy and practice revisions as needed.
 * Ensures the proper tracking of LOAs and identifies the process dependencies and suggests remediation of those dependencies.
 * Acts as the team member's first point of contact to facilitate a smooth departure as well as a smooth transition back to work.
-* Answers tier-1 leave-related questions and concerns from Team Members
+* Answers tier-1 leave-related questions and concerns from Team Members.
 * The first point of contact for Managers, People Business Partners, and other key stakeholders related to their team members' time away requests.
 * Administers ADA-related tasks related to all team members' requested accommodations (medical, religious, work-related). 
-* Maintains LOA trend data and status reports as needed
+* Maintains LOA trend data and status reports as needed.
 
 ### Absence Management Specialist Requirements
 
 * Strong verbal and written communication and problem-solving skills.
-* Must exercise confidentiality and discretion in dealing with sensitive, complex, and time-sensitive time-away requests
-* Independent worker with strong organizational skills and attention to detail 
-* Proven track record of adhering to and meeting strict deadlines
-* Experienced in learning and thriving in a constantly changing global environment and able to cultivate relationships across Global teams
-* Ability to learn and use GitLab tools
-* Aligns with GitLabs values
-* Experience using Google Sheets
+* Must exercise confidentiality and discretion in dealing with sensitive, complex, and time-sensitive time-away requests.
+* Independent worker with strong organizational skills and attention to detail. 
+* Proven track record of adhering to and meeting strict deadlines.
+* Experienced in learning and thriving in a constantly changing global environment and able to cultivate relationships across Global teams.
+* Ability to learn and use GitLab tools.
+* Aligns with GitLabs values.
+* Experience using Google Sheets.
 
 
 
 ### Senior Absence Management Partner
-The Senior Absence Management Partner reports to Director, Team Member Relations. 
+The Senior Absence Management Partner reports to Manager, Absence Management. 
 
 ### Senior Absence Management Partner Job Grade
 The Senior Absence Management Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -62,21 +62,21 @@ The Senior Absence Management Partner is a [grade 7](/handbook/total-rewards/com
 * 5-7+ years of progressive Absence Management experience. 
 * Expert level knowledge of leave requirements and regulations in multiple countries including US and Canada.  Must have the willingness and desire to learn other countries' requirements.  
 Excellent written and verbal communication and interpersonal skills.
-* Strong problem-solving skills, critical thinking, and intuitive sense of business acumen.
+* Strong problem-solving skills, critical thinking, and an intuitive sense of business acumen.
 * Ability to execute tasks with attention to detail, reliability, and a relatively quick pace.
 * Ability to interface and partner with stakeholders to achieve and influence results.
 
 ## Performance Indicators
 
 * Team Member Absence Management Case Management
-   * Seniro Absence Management Partner will respond to all requests for assistance from team members within 24 hours. 
-   * All cases are resolved in a consistent, fair and unbiased process.  
+   * Senior Absence Management Partner will respond to all requests for assistance from team members within 24 hours. 
+   * All cases are resolved in a consistent, fair, and unbiased process.  
    * Identify and resolve potential risks to GitLab.  
-   * When surveyed, >90% utilizing the Team Member Absence Management Partner report effective interactions and outcomes, and positive exeriences while taking time off. 
+   * When surveyed, >90% utilizing the Team Member Absence Management Partner report effective interactions and outcomes, and positive experiences while taking time off. 
    * Overall employee sentiment is positive (>80%) on the Engagement Survey.
 
 * Collaboration
-   * Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal and People Success.  
+   * Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal, and People Success.  
 
 ## Career Ladder
 The next step in the job family is the Absence Management Manager.
@@ -109,7 +109,7 @@ The Absence Management Manager is a [grade 8](/handbook/total-rewards/compensati
 * Strong problem-solving skills, critical thinking, and intuitive sense of business acumen.
 * Ability to execute tasks with attention to detail, reliability, and a relatively quick pace.
 * Ability to interface and partner with stakeholders to achieve and influence results.
-* 2+ years experience managing a team 
+* 2+ years experience managing a team. 
 
 ### Absence Management Manager Performance Indicators
 
@@ -117,7 +117,7 @@ The Absence Management Manager is a [grade 8](/handbook/total-rewards/compensati
    * Absence Management Manager will ensure the team responds to all requests for assistance from team members within 24 hours. 
    * All cases are resolved in a consistent, fair and unbiased process.  
    * Identify and resolve potential risks to GitLab.  
-   * When surveyed, >90% utilizing the Team Member Absence Management Team report effective interactions and outcomes, and positive exeriences while taking time off. 
+   * When surveyed, >90% utilizing the Team Member Absence Management Team report effective interactions and outcomes, and positive experiences while taking time off. 
    * Overall employee sentiment is positive (>80%) on the Engagement Survey.
 
 * Collaboration
