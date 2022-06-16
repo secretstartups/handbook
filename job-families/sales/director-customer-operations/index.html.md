@@ -3,15 +3,19 @@ layout: job_family_page
 title: Director of Customer Success Operations
 ---
 
-The Director of Customer Success Operations is responsible for defining, leading, and tracking strategic and operational programs and initiatives to improve GitLab’s ability to effectively and efficiently deliver to customer and GitLab objectives. Director of Customer Operations works highly cross-functional orchestrating results with Customer Success, Sales, Marketing, Product and Engineering, Support, People Operations, and Finance. 
+The Director of Customer Success Operations Job Family is responsible for defining, leading, and tracking strategic and operational programs and initiatives to improve GitLab’s ability to effectively and efficiently deliver to customer and GitLab objectives. The Customer Operations Team works cross-functionally orchestrating results with Customer Success, Sales, Marketing, Product and Engineering, Support, People Operations, and Finance.  
 
-The Director of Customer Success Operations reports to the [Sr. Director, Sales Operations](https://about.gitlab.com/job-families/sales/sales-operations/#senior-director-sales-operations).
+## Levels
 
-## Job Grade
+### Director of Customer Success Operations
+
+The Director of Customer Success Operations reports to the [Sr. Director, Customer Success Operations](https://about.gitlab.com/job-families/sales/director-customer-operations).
+
+#### Job Grade
 
 The Director Customer Success Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-## Responsibilities
+#### Responsibilities
 
 * Define, lead, and track strategic and operational programs to successful completion
 * Develop and deliver GTM initiatives to improve the effectiveness and efficiency of sales and adoption capabilities for GitLab prospects and customer, including:
@@ -28,7 +32,7 @@ The Director Customer Success Operations is a [grade 10](/handbook/total-rewards
    * Renewal segmentation frameworks for efficient management
    * Effective field-tested customer engagement strategies
 
-## Requirements
+#### Requirements
 
 * Demonstrated progressive experience with operations or related experience with a technical SaaS or subscription software service
 * Demonstrated progressive customer success experience leading field teams (Customer Success Managers, Account Management, Professional Services, Solution Architects) and/or operations 
@@ -45,9 +49,29 @@ The Director Customer Success Operations is a [grade 10](/handbook/total-rewards
 * [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 
 
+### Senior Director of Customer Success Operations 
+The Senior Director of Customer Success reports to the [VP of Revenue Operations](https://about.gitlab.com/job-families/sales/vp-revenue-operations/).
+
+#### Senior Director of Customer Success Operations Job Grade
+
+The Senior Director of Customer Success Operations is a job grade [level 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+###  Senior Director of Customer Success Operations Responsibilities
+
+* Extends that of the Director of Customer Success Operations responsibilities
+* Define and deliver strategies and plans that enhance and integrate into GitLab's Go-To-Market strategies and plans, including Sales, Marketing, Product, Growth, Operations, Channel/Alliance, and Data Teams
+* Build market-specific strategies and plans leveraging based on industry best practices (i.e., pre-sales, professional services, customer success management, renewals, data management) to improve growth efficiency and net retention 
+* Provide insights on program and recommendations to increase sales efficency 
+
+###  Senior Director of Customer Success Operations Requirements
+
+* Exends that of the Director of Customer Success Operations requirements
+* Demonstrated progressive experience leading managers of customer success operations teams in a SaaS or subscription enterprise software company
+* Develops and hires a diverse team; promotes a positive team culture aligned to our values
+
 ## Performance Indicators
 
-* Bookings and revenue growth as measured by [IACV](/handbook/sales/sales-term-glossary/acv-in-practice/#gross-incremental-annual-contract-value-gross-iacv) or [ARR](/handbook/sales/sales-term-glossary/arr-in-practice/), including gross renewal, expansion, and net retention
+* Bookings and revenue growth as measured by [ARR](/handbook/sales/sales-term-glossary/arr-in-practice/), including gross renewal, expansion, and net retention
 * Key [customer success](/handbook/customer-success/vision/#measurement-and-kpis) measures (e.g., time-to-value, product adoption / health score, expansion win rates, etc.). A number of these measures need to evolve to be developed.
 
 ## Career Ladder
