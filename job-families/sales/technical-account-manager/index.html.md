@@ -327,6 +327,35 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 * Extends that of the Director of TAMs requirements
 * Demonstrated progressive experience leading managers of customer success teams in a SaaS or subscription enterprise software company
 
+### Vice President of Technical Account Management (TAM) Job Grade
+
+The Vice President of TAMs is a job grade [12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Vice President of TAMs Responsibilities
+
+- Extends the Sr. Director of TAMs responsibilities
+- Define and deliver strategies and plans to create and influence GitLab's Go-To-Market strategy and plans, including Sales, Marketing, Product, Growth, Operations, Channel/Alliance, and Data Teams/
+- Provide strategic influence with customers accounts as well internally for programs and initiatives, continuously improving customer journey, segmentation approaches, and digital approaches.
+- Lead new developments and improvements across Gitlab to improve customer experience, customer-centricity, and growth for GitLab.
+- Provide executive sponsorship for strategic accounts.
+- Develops a clear strategy and vision for their department, inspiring their team through communication in alignment with GitLab's mission,vision, and values.  
+- Align and influence the Executive Team and senior leadership on TAM and GTM strategies and tactics.
+- Partner with the sales organization to drive growth and retention and improve efficiency.
+- Lead company-wide strategies and initiatives to improve the customer experience and deliver voice-of-customer metrics and reporting across GitLab. 
+
+### Vice President of TAMs Requirements
+
+- Extends the Sr. Director of TAMs requirements
+- Demonstrated experience in cross-functional leadership to influence internal organizations on strategic GTM initiatives. 
+- Track record of successfully building, growing, and scaling global Customer Success Management or Technical Account Management teams, delivering to revenue and customer metrics.
+- Ability to influence, negotiate and build consensus with the Executive Team and senior leadership.
+- Brings experience building, scaling, and developing global teams
+- Serves as an expert in Technical Account Management internally and with customers, partners, and industry communities.
+
+#### Vice President of TAMs Performance Indicators
+* Gross and net retention
+* Customer metrics (onboarding, time-to-first value, use case and platform adoption, use case expansion, sentiment measured by NPS, CSAT, or surveys)
+
 ## Specialties
 
 ### Strategic
@@ -341,8 +370,6 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 * Work cross-functionally with multiple teams (CS ops, content, programs, marketing, product) to develop thoughtful and innovative approaches to driving success with customers at scale
 * Identify key areas of enablement need across the customer segment and partner closely with the strategic and scale TAMs to create content and webinars to address these needs
 * Analyze industry best practices, trends, and performance metrics to shape customer engagement strategies and accelerate results
-
-
 
 
 ### Scale

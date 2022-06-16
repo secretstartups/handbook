@@ -17,7 +17,7 @@ Level role responsibilities and requirements may be extended or overlayed by [Sp
 
 ### Performance Indicators
 
-As with all roles in the Sales Department, the Solutions Architect participates in a subset of the [Sales KPIs](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#kpi-summary).
+As with all roles in the Sales Department, the Solutions Architect participates in a subset of the [Sales KPIs](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#kpi-summary). Key priorities of these roles are to drive new (i.e., new logos) and growth bookings and contribute to sales efficiency.
 
 ## Levels
 
@@ -241,6 +241,29 @@ The Senior Director, Solutions Architects is a [grade 11](/handbook/total-reward
 - Extends the Director, Solutions Architect requirements
 - Demonstrated progressive experience leading technical sales teams (i.e., Solutions Architect and or Sales Engineering teams)
 - Demonstrated progressive experience building and leading global teams of managers and directors with team sizes of 50+ team members
+
+### Vice President of Solution Architecture (SA) Job Grade
+
+The Vice President of Solution Architecture is a job grade [12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Vice President of SA Responsibilities
+
+- Extends the Sr Director of SA responsibilities
+- Define and deliver strategies and plans to create and influence GitLab's Go-To-Market strategy and plans, including Sales (strategic and velocity), Marketing, Product, and Channel/Alliance.
+- Provide strategic guidance with prospect and customer accounts for both account influence and growth
+- Lead new developments and improvements to improve segment-specific sales strategies and methods globally, including direct and partner-led sales. 
+- Provide executive sponsorship for strategic accounts 
+- Develops a clear strategy and vision for their department, inspiring their team through communication in alignment with GitLab's mission, vision, and values.  
+- Align and influence the executive team and senior leadership with technical and strategic sales and GTM strategies and tactics.
+
+### Vice President of SA Requirements
+
+- Extends the Sr Director of SA requirements
+- Demonstrated experience in cross-functional leadership to influence internal organizations on strategic GTM initiatives.
+- Track record of successfully building, growing, and scaling global Solution Architect or Sales Engineering teams, delivering to bookings, revenue, and first order goals.
+- Ability to influence, negotiate and build consensus with executive and senior management, customers, and partners.
+- Brings experience building, scaling, and developing global teams in alignment with GitLab's values.
+- Serves as an expert in Solutions Architect for all GitLab segments (Enterprise, Midmarket, SMB) internally and with customers, partners, and industry communities.
 
 ---
 ## Specialties
