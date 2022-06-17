@@ -30,6 +30,9 @@ Workday will be accessible to all GitLab team members through Okta SSO. Go to [g
 </div>
 <br>
 
+<b>Important:</b> Please note that Workday will be temporarily unavailable due to scheduled weekly maintenance each Friday between 11:00 PM - 3:00 AM PST.
+
+
 ## Workday Guides
 
 Every full time team member at GitLab will have a Workday profile, though the extent of each team member's engagement with Workday will vary according to their position. 
