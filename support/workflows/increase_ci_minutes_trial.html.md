@@ -13,6 +13,8 @@ category: License and subscription
 
 ##### Overview
 
+**NOTE:** This workflow is DEPRECATED.
+
 Use this temporary workflow when a user reports that they need more than the 400 minutes currently being allocated for Trial subscriptions. In most cases, 10000 minutes should be the target. This is only temporary until [issue #322043](https://gitlab.com/gitlab-org/gitlab/-/issues/322043) has been applied.
 
 ______________
