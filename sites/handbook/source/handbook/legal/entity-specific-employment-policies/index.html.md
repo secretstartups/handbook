@@ -41,6 +41,10 @@ This page will serve as a directory for our team members employed through a GitL
 <details>
 <summary markdown="span">GitLab Canada Corp.</summary>
 
+### Canada
+
+* [Right to Disconnect Policy](https://docs.google.com/document/d/1XaVIy3J1depX8s9yUM7YcgpKm6RSNS7V9CPS_rx_K5I/edit?usp=sharing)
+
 </details>
 
 <details>
