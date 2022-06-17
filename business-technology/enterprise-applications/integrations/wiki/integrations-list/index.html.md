@@ -19,3 +19,4 @@ title: "Integrations List"
 - [Distributor (Disty) Orders API](./distributor-api)
 - [Marketing Data Pump field mapping change checklist](./marketing-data-pump-field-mapping-change-checklist)
 - [Zuora-CI-CD: code changes info](./zuora-ci-cd-code-changes-info)
+- [Marketing Data Pump Architecture](./marketing-data-pump)

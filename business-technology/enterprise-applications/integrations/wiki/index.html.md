@@ -19,11 +19,3 @@ _Pages that don't have links have not been constructed yet. Know something about
 
 - [Using the Platypus API](./using-the-platypus-api)
 - [Integration documentation](./integrations-list)
-- Platypus Architecture
-- Platypus Security
-- Platypus Infrastructure
-- Contributing to Platypus
-- Learning Nestjs and Typescript
-- Coding Patterns
-- Managing the Database
-- Managing the Message Queue
