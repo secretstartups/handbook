@@ -53,8 +53,8 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 7. Project Lead:
     - External [Customer Project Kickoff](https://docs.google.com/presentation/d/1HtVIE64N94Rcc774ujllClGmYZ5y1_ApE4-O3pazR6k/edit?usp=sharing): Actions and meeting minutes are added directly to the Project Definition Template (attendees include the entire project teams on both sides)
     - Submit resource request via Mavenlink to match the customer-confirmed project schedule
-    - Weekly project check-in meeting: Notes documented in the [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing)
-    - Provide Weekly Status Report: Using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing)
+    - Weekly project check-in meeting: Notes documented in the [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486)
+    - Provide Weekly Status Report: Using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486)
   
 #### Develop, Configure, Integrate
 
