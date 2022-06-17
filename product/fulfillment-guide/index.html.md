@@ -25,13 +25,11 @@ Customers interact with GitLab throughout the trial and purchasing journey in a 
 
 - [SaaS subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=138%3A97)
 - [Self-managed subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=143%3A0)
-- [Trial flow, documented by EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/applications/#trial-web-direct-system-flow)
 
 #### New
 
 - [SaaS subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=302%3A5577)
 - [Self-managed subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=252%3A242)
-- [New business flow, documented by EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/applications/#new-business-system-flow)
 
 #### Additional seat purchase
 
@@ -43,8 +41,6 @@ Customers interact with GitLab throughout the trial and purchasing journey in a 
 - [SaaS subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=96%3A59)
 - [Self-managed subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=72%3A35)
 - [Renewal Emails, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=202%3A27)
-- [Renewal notifications, documented by EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/applications/#notifications)
-- [Renewal system flow, documented by EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/applications/#renewals-system-flow)
 
 #### Cancelation
 
