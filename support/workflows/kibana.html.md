@@ -103,12 +103,21 @@ In some cases a Let's Encrypt Certificate will fail to be issued for one or more
 
 #### Deleted User
 
-Kibana can be used to find out if and when an account on GitLab.com was deleted if it ocurred within the last seven days at the time of searching. To find the log entry:
+Kibana can be used to find out if and when an account on GitLab.com was deleted if it occurred within the last seven days at the time of searching.
 
-1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
+- Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
+
+If an account was self-deleted, try searching with these filters:
+
 1. Add a positive filter on `json.username` for the username of the user, if you have it.
 1. Add a positive filter on `json.controller` for `RegistrationsController`.
-1. Observe the results. There should be only one result if the account that was filtered for was deleted within the specified timeframe.
+
+If an account was deleted by an admin, try searching with these filters:
+
+1. Add a positive filter on `json.params.value` for the username of the user.
+1. Add a positive filter on `json.method` for `DELETE`.
+
+Observe the results. There should be only one result if the account that was filtered for was deleted within the specified timeframe.
 
 #### Disable Two Factor Authentication
 
