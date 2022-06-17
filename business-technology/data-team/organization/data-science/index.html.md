@@ -95,6 +95,7 @@ Check out this brief overview of what data science is at GitLab:
 - **Imputation** - process of replacing missing or incorrect data with statistical "best guesses" of the actual values
 - **Machine Learning (ML)** - use and development of algorithms without being explicitly programmed to determine patterns in data
 - **Model** - A complex set of mathematical formulas that generates predictions
+- **Propensity modelling** - Building models to predict specific events by analyzing past behaviors of a target audience. 
 - **Regression** - A statistical method for predicting an outcome. For example, predicting a person's income, or how likely a customer is to churn
 - **Training** -  Applying an algorithm to data to generate a model
 - **Test Dataset** - Deliberately excluding some observations from training the model so they can be used to test how well the model predicts  
@@ -104,14 +105,15 @@ Check out this brief overview of what data science is at GitLab:
 
 | Name | Maturity | Objective | Sponsor | Status | Deliverables |
 | ----- | -----| -----| ----- | ----- | ----- |
-| [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-expand) (PtE) | Complete | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales | Last update: FY23-Q1, Next update: FY23-Q2 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results), [Epic](https://gitlab.com/groups/gitlab-data/-/epics/340) |
-| [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Viable | Determine which paid accounts are likely to reduce their ARR by > 10% in next 3 months | Customer Success | Last update:  FY23-Q1, Next update: FY23-Q2 |[PtC slide deck](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [PtC Inspector](https://app.periscopedata.com/app/gitlab/990981/PtC-Inspector), [PtC Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/971930/PtC-Results-2021-12-to-2022-02), [Epic](https://gitlab.com/groups/gitlab-data/-/epics/382)|
+| [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-expand) (PtE) | Complete | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales | Last update: FY23-Q2, Next update: FY23-Q3 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results) |
+| [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract-and-churn) (PtC) | Viable | Determine which paid accounts are likely to reduce their ARR by > 10% or leave GitLab permanently in the next 6 months| Customer Success | Last update:  FY23-Q2, Next update: FY23-Q3 |[PtC slide deck](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [PtC Inspector](https://app.periscopedata.com/app/gitlab/990981/PtC-Inspector), [PtC Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/971930/PtC-Results-2021-12-to-2022-02), [Epic](https://gitlab.com/groups/gitlab-data/-/epics/547)|
 | [Namespace Segmentation](https://gitlab.com/gitlab-data/namespace-segmentation) | Viable | Define groups for paid and free SaaS namespaces based on its product usage and impact on conversions | Growth | Started in FY23-Q1 | [Epic](https://gitlab.com/groups/gitlab-data/-/epics/488), [Namespace Segmentation slide deck](https://docs.google.com/presentation/d/1HsyzflYcXedBm75A4Wkdp2TdbV5ikcjr8zEZoUzFN2o/edit#slide=id.g122f5829a10_0_143), [Namespace Segmentation Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1014510/Draft:-Namespace-Segmentation) |
-| Trial Conversion | Planned | Identify which trial accounts are likely to become paid accounts | Growth | Start in FY23-Q1 | | 
-| Golden Journey | Planned | Identify optimal paths to increasing platform usage and adoption | Growth |  Start in FY23-Q2 | | 
-| Stage Adoption MRI | Planned | - | | Start in FY23-Q2 | | 
-| Product Usage Event | Planned | - | | Start in FY23-Q3 | |
-| Marketing Lead Scoring | Planned | Identify leads most likely to convert to closed won opportunities | Marketing | Start in FY23-Q4 | |
+| [Propensity to Purchase - Trials](https://gitlab.com/gitlab-data/propensity-to-purchase) (PtPT) | Viable | Identify which trial accounts are likely to become paid accounts | Growth | Last Update: FY23-Q2 | [Model Readout](https://docs.google.com/presentation/d/1EyS9Wq6F0qlQwt5sj7x8VnSSGD1vIy3AcSpMGddZdbk/edit?usp=sharing)| 
+| Propensity to First Order | Planned | Identify free accounts and prospects likely to make their first order | Sales | Slated FY23-Q3/Q4 | | 
+| Golden Journey | Planned | Identify optimal paths to increasing platform usage and adoption | Growth | | | 
+| Stage Adoption MRI | Planned | - | | | | 
+| Product Usage Event | Planned | - | | Slated FY23-Q3 | |
+| Marketing Lead Scoring | Planned | Identify leads most likely to convert to closed won opportunities | Marketing | Slated FY23-Q4 | |
 | Expansion Predicted ARR | Unplanned | Predict expansion ARR dollar amount | Sales | | |
 | Community Sentiment Analysis | Unplanned | - | Product | | | 
 | Feature $ARR Uplift Prediction | Unplanned | Attribute incremental ARR lift based on feature adoption | Product | | | 
@@ -131,16 +133,15 @@ Maturity of data science projects is similar to the [GitLab product maturity mod
 
 | Name | Current Sources | Additional Planned Sources |
 | ----- | ------ | ----- |
-| PtE | Product Usage (6 months): SaaS & Self-Managed - Paid Tiers; Salesforce (Account, Opportunities, Events, Tasks); Zuora (Billing); Bizible (Marketing); Firmographics | Product Usage (12 months): SaaS & Self-Managed - Paid Tiers; Product Stage Usage (12 months): SaaS & Self-Managed - Paid Tiers; ZenDesk (help tickets) |
-| PtC | Product Usage (6 months): SaaS & Self-Managed - Paid Tiers; Product Stage Usage (6 months): SaaS & Self-Managed - Paid Tiers; Salesforce (Account, Opportunities, Events, Tasks); Zuora (Billing); Bizible (Marketing; ZenDesk (help tickets); Firmographics | Product Usage (12 months): SaaS & Self-Managed - Paid Tiers; Product Stage Usage (12 months): SaaS & Self-Managed - Paid Tiers |
-| Namespace Segmentation | Product Usage (9 months): SaaS & Self Managed - Free and Paid Tiers; Product Stage Usage (9 months): SaaS & Self Managed - Free and Paid Tiers; Salesforce (Account); Zuora (Billing); Bizible (Marketing) | Product Usage (12 months): SaaS & Self Managed - Free and Paid Tiers; Product Stage Usage (12 months): SaaS & Self Managed - Free and Paid Tiers |
+| PtE | Product usage: SaaS & Self-Managed - paid tiers; Product stage usage: SaaS & Self-Managed - paid tiers; Salesforce (account, opportunities, events, tasks); Zuora (billing); Bizible (marketing); Firmographics; ZenDesk (help tickets) | Expansion type (product change, seat licenses)  |
+| PtC | Product usage: SaaS & Self-Managed - paid tiers; Product stage usage: SaaS & Self-Managed - paid tiers; Salesforce (account, opportunities, events, tasks); Zuora (billing); Bizible (marketing); ZenDesk (help tickets); Firmographics | # of answered emails |
+| Namespace Segmentation | Product usage: SaaS & Self Managed - free and paid tiers; Product stage usage: SaaS & Self Managed - free and paid tiers; Salesforce (account); Zuora (billing); Bizible (marketing) | # of consecutive days of product/stage usage |
+| PtPT | Product usage: SaaS Only - free tiers; Product stage usage and adoption: SaaS Only - Free Tiers; Registration; Namespace metadata; User-level | TBD |
 
 ### Project Slack Channels
 
-- [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7): For PtE & PtC
+- [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7): For all questions related to propensity models (PtE, PtC, PtPT)
 - [#namespace-segmentation](https://app.slack.com/client/T02592416/C0341FPNB1C): For Namespace Segmentation 
-- [#bt-data-pilot-pte](https://app.slack.com/client/T02592416/C0337817AG2): For PtE pilot 
-- [#bt-data-pilot-ptc](https://app.slack.com/client/T02592416/C033818CSUS): For PtC pilot 
 
 ### Project Structure 
 
@@ -181,8 +182,10 @@ The [Data Science Team approach to model development](https://about.gitlab.com/h
 Our current platform consists of:
 - the [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/) for storing raw and normalized source data as well as final model output for consumption by downstream consumers
 - [JupyterLab](/handbook/business-technology/data-team/platform/jupyter-guide/) for model training, tuning, and selection
+- MLFlow for model experiment tracking
 - [GitLab](https://gitlab.com/) for collaboration, project versioning, and score code management
 - [Airflow](/handbook/business-technology/data-team/platform/infrastructure/#airflow) for automation and orchestration
+- Sisense (soon to transition to Monte Carlo) for model monitoring and performance evaluation
 
 Over time we plan to dogfood as many components of the GitLab MLOps Stage as possible, leading to fully automated productionalized pipelines. However,  the [MLOps Stage is currently incubating](/handbook/engineering/incubation/mlops/) and is not yet ready for our use. Our immediate next step is to automate `Current State Data Flows` using a combination of python and airflow.
 
@@ -200,9 +203,12 @@ graph
     C(Airflow: Batch scoring with Papermill)
     F[Enterprise Data Warehouse: Model Output for Consumption]
     D[Salesforce: CRM Use Cases]
-    E[Sisense: Inspector and Operations Dashboards]
+    E[Sisense/Monte Carlo: Inspector and Operations Dashboards]
     G[GitLab: Source Code Management]
+    H[MLFlow: Experiment tracking]
     A --> |ODBC| B
+    B --> H
+    H --> B
     B --> G
     G --> B
     G --> C
