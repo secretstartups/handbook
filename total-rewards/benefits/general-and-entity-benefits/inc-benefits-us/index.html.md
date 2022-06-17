@@ -417,7 +417,7 @@ GitLab offers company paid basic life and accidental death and dismemberment (AD
  
 GitLab provides, at no cost to our Inc and Federal team members, a policy through Cigna that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500.
 
-Short-term disability insurance has a 7-calendar day waiting period before payments begin. While the team member is receiving short-term disability pay (66.7% of regular salary), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefits coverage (medical, dental, vision, etc.) and vesting will continue for the time the team member is receiving short-term disability pay. 
+Short-term disability insurance has a 7-calendar day waiting period before payments begin. Benefits coverage (medical, dental, vision, etc.) and vesting will continue for the time the team member is receiving short-term disability pay. 
 
 **GitLab Process for Disability Claim**
  
@@ -433,7 +433,7 @@ Short-term disability insurance has a 7-calendar day waiting period before payme
 1. Team member will submit the Claimant portion of the [Short-Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) application and remit to their physician to complete the rest. 
      - The completed application can be sent directly to Cigna (using the mail or fax number at the top of the form) or can be returned to the Absence Management team and will be submitted on the team member's behalf. 
      - This is completely at the preference of the team member or the requirement from the Doctor, but the team member should confirm the choice with the Absence Management team.
-2. If the team member opts to send the form directly to Cigna, the Absence Management team will email the completed employer portion of the Short-Term Disability form to Cigna via email: `dallasfco.intake2@cigna.com`.
+2. If the team member opts to send the form directly to Cigna, the Absence Management team will email the completed employer portion of the Short-Term Disability form to Cigna via email: `dallasfco.intake2@cigna.com`and `TeamArakeliansMailbox@Cigna.com`.
 3. Cigna Claims Process:  
      - Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed. 
      - The claims team will also contact the Absence Management team to confirm eligibility and verify job responsibilities, if needed. 
