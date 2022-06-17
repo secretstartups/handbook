@@ -10,6 +10,8 @@ description: "Information and protocols related to GitLab promotions and transfe
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+##Please note we are in the process of iterating on the below processes with the recent implementation of Workday. For assistance please contact people-connect via Slack or your People Business Partner. Thank you for your patience##
+
 ## Introduction
 
 Developing talent internally is a key component of our success at GitLab, and our promotion process is built to support that development in alignment with our [values](https://about.gitlab.com/handbook/values/). Team members have two main avenues to pursue career advancement at GitLab: 1) Via our promotion process, and 2) By applying and interviewing for open positions that are approved in our headcount plan (transfers). 
