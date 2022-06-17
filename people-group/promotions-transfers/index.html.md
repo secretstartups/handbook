@@ -10,7 +10,7 @@ description: "Information and protocols related to GitLab promotions and transfe
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-##Please note we are in the process of iterating on the below processes with the recent implementation of Workday. For assistance please contact people-connect via Slack or your People Business Partner. Thank you for your patience##
+## Please note we are in the process of iterating on the below processes with the recent implementation of Workday. For assistance please contact people-connect via Slack or your People Business Partner. Thank you for your patience 
 
 ## Introduction
 
