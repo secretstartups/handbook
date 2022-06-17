@@ -91,7 +91,8 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
      * `:fire_engine:` - signals the pipeline is failing due to a known issue. The triage DRI will reply in the thread with a link to the existing issue(s).
      * `:retry:` - signals a system failure (e.g., Docker failure) is responsible and a retry has been triggered.
 1. Identification
-   * Create an [issue](https://gitlab.com/gitlab-org/gitlab/issues/new) based on:
+   * Review current [broken master issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&state=opened&label_name%5B%5D=master%3Abroken) for an existing issue for this failure. If the broken master is related to a test failure, search the spec file in the issue search to see if there's a known flaky spec issue.
+   * If no issues exist, create an [issue](https://gitlab.com/gitlab-org/gitlab/issues/new) based on:
       * `master` failing for a non-flaky reason - create an issue with the following labels: `~"master:broken"`, `~"Engineering Productivity"`,`~priority::1`, `~severity::1`.
       * `master` failing for a flaky reason that cannot be reliably reproduced - create an issue with the following labels: `~"failure::flaky-test"`, `~"Engineering Productivity"`,`~priority::2`, `~severity::2`.
    * Identify the merge request that introduced the failures.
