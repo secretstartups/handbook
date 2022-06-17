@@ -15,10 +15,24 @@ This page is meant to be the starting point for onboarding as an Incident Manage
 
 As a means to ensure a healthy [Incident Manager](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) rotation with sufficient staffing and no significant burden on any single individual we staff this role with Team Members from across Engineering. 
 
+The Incident Manager role will be staffed by all team members within this scope:
+- [Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#job-grades) between, but not including, 7 to 10. 
+- Development and Infrastructure departments
+- All Staff Engineer, SRE, and Engineering Manager Job Families
+- All specialties within the above Job Families (for example: Staff Backend Engineer, Staff Frontend Engineer, Frontend Engineering Manager, etc..)
+- Not already engaged in another oncall assignment.
+
 As an Incident Manager, Team Members learn how we run GitLab.com and other GitLab SaaS environments. They help ensure the availability goals for GitLab.com by working with reliability engineers on call and development team members. The experience and awareness gained in this role leads to better understanding of building GitLab at scale and ultimately, a more reliable and scalable GitLab SaaS service and product.
 
 ### Incident Manager Shifts
-Shifts are 4 hours each starting at 23:00 & 03:00 UTC (APAC), 07:00 UTC & 11:00 UTC (EMEA), and 15:00 & 19:00 UTC (AMER) each day. Each Incident Manager On Call assignment is for 3 consecutive days where a Team Member in the Incident Manager On Call role will have that responsibility for the shift which corresponds to their geography. Shifts will include weekends based on this 3 day rotating assignment.
+Shifts are 4 or 6 hours each at these times each day:
+- 23:00 to 05:00 UTC 
+- 05:00 to 11:00 UTC
+- 11:00 to 15:00 UTC
+- 15:00 to 19:00 UTC 
+- 19:00 to 23:00 UTC 
+
+Each Incident Manager On Call assignment is for 4 consecutive days where a Team Member in the Incident Manager On Call role will have that responsibility for the shift which corresponds to their geography. Many shifts will include weekends based on this rotating assignment.
 
 ### Special Coverage Days
 It is more efficient to staff Incident Manager roles with fewer, but frequently longer, shifts during days where overall Team Member availability is lower due to Holidays or other global company events. These days will be designated as "Special Coverage Days" and volunteers will be sought to cover the relevant shifts. Examples of these days include New Years as well as the monthly Family & Friends days. Not all holidays will be covered in this manner as many holidays are local in nature and easier to cover simply by normal shift switches.
@@ -32,9 +46,6 @@ Special Coverage Days will be designated by creation of an Issue. The Issue will
 Incident Manager responsibilities are expected of Engineering Management and Staff+ Engineer job families in the Development and Infrastructure departments. Previously, Incident Manager responsibilities were fulfilled by a small group of managers in the Infrastructure department.  All team members in these eligible roles are expected to participate in the Incident Manager rotation.
 
 In some cases, Senior Engineers may also participate as Incident Managers. This is particularly useful as Senior Engineers look for additional opportunities for growth in their role and as they prepare for future promotion opportunities. Senior Engineers may join the Incident Manager pool by opening an Incident Manager onboarding Issue and having their manager indicate approval in the Issue. As noted elsewhere, Team Members should only participate in one duty similar to this role, so should not also participate in Dev On-call at the same time (for example). When approving the request, managers shall be mindful of certain regions where a balance between Incident Manager and Dev Oncall needs to be maintained because the eligible people overlap and both programs must be fully staffed.
-
-#### How many Team Members are needed to appropriately staff the Incident Manager pool? 
-A minimum of 24 Team Members are needed in order to provide global coverage and ensure that any single individuals are not overly burdened. In addition to the overall total of 24, a minimum of 6 within each major timezone geography are also required. With sufficient staffing, the Incident Manager duties can be performed during a shift which is proximate to a normal business hours working day time for each individual.
 
 #### Is this a volunteer effort? 
 
@@ -52,12 +63,12 @@ Currently, pages to Incident Manager On Calls happen roughly 0 to 4 times a week
 #### What if I have family or other personal commitments during my shift?
 The Incident Manager role requires a 15-minute response. However, there is no expectation that an Incident Manager is at their desk waiting for an incident during their entire shift.
 
-You may have family or other short personal commitments which might complicate your response. In most cases you should feel comfortable with any commit that isn't longer than 45 minutes, as long as if during that commitment you can take a few minutes to engage in the incident slack channel to inform the rest of the team of your situation and timing.
+You may have family or other short personal commitments which might complicate your response. In most cases, you should feel comfortable with any commitment that isn't longer than 45 minutes, as long as if during that commitment you can take a few minutes to engage in the incident slack channel to inform the rest of the team of your situation and timing.
 
 If you have a standing commitment which is longer or does not allow for the informative response in slack it is suggested that you choose another shift. If you have an occasional commitment like this you shouldn't let that block you from a shift. One of the benefits of a larger team of Incident Managers is the ability to provide coverage for each other for unexpected or shorter duration commitments. 
 
 #### How often will I have an Incident Manager shift?
-Three day shifts mean that, at the most, a Team Member participating in Incident Manager will have shifts every 12 days (assuming minimum 4 person pool). Each additional Team Members added to the pool in your region extends this timing by 3 days. The more Team Members involved, the less often any individual will have shifts. 
+Four day shifts mean that, at the most, a Team Member participating in an Incident Manager shift with seven other IMs will have shifts approximately once every month. Each additional Team Members added to the pool in your region extends this timing by 4 days. The more Team Members involved, the less often any individual will have shifts. 
 
 #### Can I shift my Incident Manager On Call days around?
 Yes, this is one of the other benefits of having a well staffed pool of Team Members engaged as Incident Managers. Shift "trades" are easy to arrange in Pagerduty. It is your responsibility to ensure that your assigned shift is covered, but in extraordinary circumstances please reach out to the VP of Infrastructure for assistance.  Swapping shifts is totally fine.  Getting someone to cover for you for either planned vacation or a sudden/urgent family matter is something we should all do for each other.  
@@ -69,13 +80,8 @@ What to do for covering a shift or asking for coverage:
 Example 1, Scheduling yourself: Go to https://gitlab.pagerduty.com/my-on-call/week and click the shift for which you need an override.  You should get a pop up which will let you pick the person covering you and the hours, which usually default to your whole shift.
 Example 2, Covering for someone.  Go to the [schedule in PagerDuty](https://gitlab.pagerduty.com/schedules#P2SF64D) and pick the shift and person you will override.  You should get a pop up where you can pick yourself and the times for the override.
 
-
 #### How does someone onboard into the Incident Manager rotation? 
-[Create an Incident Manager onboarding issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=im_onboarding).
-
-
-#### Will the Incident Managers always be the same people?
-No. It is intended that we rotate Team Members in/out of the Incident Manager pool approximately every 6 months. These rotations will begin in Jan 2022 with a couple Team Members every few weeks so that we establish a rotation that is spread out instead of everyone rotating at the same time.
+[Create an Incident Manager onboarding issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=onboarding-im).
 
 #### What role of Pagerduty shall I request?
 A **Limited User** is sufficient to be an Incident Manager.
