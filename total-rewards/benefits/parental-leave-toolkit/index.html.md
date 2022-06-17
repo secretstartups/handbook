@@ -108,7 +108,7 @@ A nice way to celebrate a team member's new addition to their family is by hosti
 
 * Review our [parental leave benefits/policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave)
 * Slack channel to connect with other parents — `#intheparenthood` ([Join Slack channel](https://gitlab.slack.com/app_redirect?channel=intheparenthood) - *for GitLab team members only*)
-* Read the handbook section on [returning from parental leave](/handbook/paid-time-off/#returning-to-work-after-parental-leave) with tips for the transition back to work
+* Read the handbook section on [returning from parental leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) with tips for the transition back to work
 * Consider participating in the [**Your 4th Trimester program**](https://drive.google.com/file/d/1NOkpt1oBruKunt3IdR6bQuvR0P2ht6Tg/view?usp=sharing), a 90-day coaching program to help parents transition back to work. 
    * All team members taking Parental Leave are welcome to participate in this program (regardless of gender)
    * The program starts a month before a team member goes out on Parental Leave

@@ -166,29 +166,28 @@ GitLab plans to continue to iterate on fertility benefits as we evaluate and enh
 
 
 ## Parental Leave
-GitLab's paid Parental Leave is for any active team member (regardless of gender) who becomes a parent through child birth or adoption while working at GitLab. 
+GitLab's paid Parental Leave is available for any active team member (regardless of gender) who becomes a parent through childbirth or adoption while working at GitLab.  This benefit is available to all team members on their first day of work, as long as their child was born or newly adopted during their employment at GitLab.  
 
-**If you've been at GitLab for six months** and completed a [probationary period](/handbook/contracts/#probation-period) (if applicable), you can take up to **16 weeks of paid Parental Leave** during the first year of parenthood. This includes anyone who becomes a parent through childbirth or adoption while working for GitLab. When allowed by law the 16-week balance is per birth or adoption event. If you live in a country where a statutory Parental Leave benefit is available, you will be required to claim statutory Parental Leave pay (if you are eligible) and GitLab will supplement any gaps. 
+GitLab team members are encouraged to decide for themselves how much time they'd like to take and how to take it, but the entire 16-week Parental Leave balance must be used prior to the child's first birthday or the first anniversary of the adoption.  For many reasons, a team member may require more time off. Any GitLab team member can request additional unpaid leave for up to 4 weeks, and we are happy to address anyone with additional leave requests on a one-on-one basis. 
 
-We encourage parents to take the time they need. GitLab team members will be encouraged to decide for themselves the appropriate amount of time to take and how to take it. For many reasons, a team member may require more time off. Many GitLab team members are from countries that have longer standard Parental Leaves or births can have complications and sometimes 16 weeks just isn't enough. Any GitLab team member can request additional unpaid leave for up to 4 weeks. We are happy to address anyone with additional leave requests on a one-on-one basis. The entire Parental Leave balance must be used prior to the child's first birthday or the first anniversary of the adoption.
-
-#### If you haven't been at GitLab for six months
-
-Initially, you can take up to 25 consecutive calendar days of paid Parental Leave from the time of birth or adoption event which will count against the 16-week total. Full salary supplementation from GitLab will begin once you hit six months of service for the remaining Parental Leave balance. Depending on where you live, you may be able to receive statutory Parental Leave pay from the government to cover any unpaid time off.
-
-### How to Initiate Your Parental Leave
-
-Some teams require more time to put a plan of action in place so we recommend communicating your plan to your manager at least 2-3 months before your leave starts. In the meantime, familiarize yourself with the steps below and specific leave requirements in your [country](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits) (if any). 
-
-**To initiate your Parental Leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts.** We understand that Parental Leave dates may change. You can edit your PTO by Roots at a later time if you need to adjust the dates of your Parental Leave. It's important that you submit a tentative date at least 30 days in advance. Your manager and the Absence Management team will get notified after you submit your leave. The Absence Management team will send you an e-mail within 48 hours (whenever possible) confirming that they've been notified of your Parental Leave dates.
-
-Please note, even though we have a "no ask, must tell" PTO, some countries require extra paperwork or notifications to a PEO so it's important that the Absence Management team is aware of your leave **at least 30 days before your leave starts.**
-
-When you return from Parental Leave, please [notify the Absence Management that you have returned](/handbook/total-rewards/benefits/general-and-entity-benefits/#confirming-your-return).
+The information in this section is specific to GitLab's 16-week paid Parental Leave. Different countries may provide team members with their own statutory Parental Leave (including maternity/paternity) benefits.  Please review your country's statutory [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) benefits for more information on how to apply and tenure requirements (if applicable).  If you live in a country where a statutory Parental Leave benefit is available, you will be required to claim statutory Parental Leave pay (if eligible), and GitLab will supplement any gaps. When allowed by law GitLab's 16-week balance is per birth or adoption event per year and runs concurrently with these statutory benefits.
 
 ### Planning Your Parental Leave Dates
 
-Your 16 weeks of Parental Leave starts when the child arrives, but in some cases a team member may choose to begin their leave earlier. While we encourage you to begin your leave when your child arrives to be able to capture as much time as possible with the newest addition to your family, if you would like to start your leave on a different date please notify leaves@gitlab.com; otherwise the start date will be assumed as the date your child arrives.  
+In some cases a team member may choose to begin their leave earlier. While we encourage you to begin your leave when your child arrives (to be able to capture as much time as possible with the newest addition to your family) if you would like to start your leave on a different date please notify leaves@gitlab.com; otherwise your Parental Leave will be administered according to the start date entered in PTO by Roots.
+
+You don't have to take your Parental Leave in one continuous period, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as all time is used prior to the child's first birth or first anniversary of the adoption event. The Absence Management team will receive a notification every time you edit your Parental Leave dates. Make sure your leave is under the `Parental Leave` category, otherwise the Absence Management team won't get a notification.
+
+**A few things to note:**
+* If you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to leaves@gitlab.com.
+* When determing the dates of your leave, GitLab uses a 1/7 formula (1 week = 7 days).  This means if you are planning on returning to work on a Monday, the last day of your leave will be Sunday.  Please use this formula when submitting your PTO by Roots request.
+
+### How to Initiate Your Parental Leave
+
+Some team members may feel comfortable sharing their news sooner than other team members.  You can share your news with your Manager whenever you feel comfortable, but we recommend communicating your plan to your manager at least 2-3 months before your leave starts for workload planning purposes. In the meantime, familiarize yourself with the steps below and specific leave requirements in your [country](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits) (if any). 
+
+**To initiate your Parental Leave, submit your time off by selecting `Parental Leave` in PTO by Roots at least 30 days before your leave starts.** We understand that Parental Leave dates may change, so you can edit your PTO by Roots at a later time if you need to adjust the dates of your Parental Leave. It's important that you submit a tentative date at least 30 days in advance. Your manager and the Absence Management team will get notified after you submit your leave. The Absence Management team will send you an e-mail within 48 hours (whenever possible) confirming that they've been notified of your Parental Leave dates.
+
 
 You don't have to take your Parental Leave in one continuous period, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as it is completed prior to the child's first birth or first anniversary of the adoption event. The Absence Management team will receive a notification every time you edit your Parental Leave dates. Make sure your leave is under the `Parental Leave` category, otherwise the Absence Management team won't get a notification.
 
@@ -200,13 +199,17 @@ You don't have to take your Parental Leave in one continuous period, we encourag
 
 ### Taking PTO After Taking Parental Leave
 
-If you need to take more time off after taking 16 weeks of Parental Leave, you can utilize our [Paid Time Off policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off). You'll need to return for at least 7 calendar days before taking any further time off since the full 16 weeks of parental leave will have been used. 
+If you need to take more time off after taking 16 weeks of Parental Leave, you can utilize our [Paid Time Off policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off). This time should be discussed with your Manager prior to the start of your Parental leave, and you will need to return to work for at least 7 calendar days before PTO can begin.
 
 Please e-mail leaves@gitlab.com if you'd like to make this request and submit your PTO dates in [PTO by Roots](https://about.gitlab.com/handbook/paid-time-off/#pto-by-roots).
 
 ### Commission Payout and Quota Relief
 
-After six months of tenure, commissions (if applicable) are paid while on parental leave based on the prior twelve months of performance with a cap at 100% of plan. For example, if in the twelve months prior to starting parental leave you attained 85% of plan, you will be compensated at the same rate while on leave. On the day you return from leave and going forward, your commissions will be based on current performance only. The rate of commissions paid during your leave will be confirmed by the sales commissions team and communicated to the team member through the Absence Management team prior to your leave start date. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
+Team member commission payments with less than 6 months of past performance will be calculated on a variable floor of 50%.    
+
+Team members with 6 months or more of past performance are paid (parental leave only) based on the 12 prior months of performance with a cap at 100% of plan. For example, if a team member 8 months in role attained 85% of plan, they would be compensated at the same rate while on leave, but a team member 12 months in role will be compensated based on their prior 12 months of performance.
+
+On the day you return from leave and going forward, your commissions will be based on current performance only. The rate of commissions paid during your leave will be confirmed by the sales commissions team and communicated to the team member through the Absence Management team prior to your leave start date. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
 
 Additionally, effective Q1 FY22, commissioned roles are eligible to receive quota relief during their parental leave if the team member has been with GitLab for eight months or longer. The team member will receive credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave.  After 60 continuous days of parental leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 4 months. The team member would receive an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated On Target Incentive based off the number of days that a team member is in seat for the fiscal year. For example, If coming back from leave at the beginning of a fiscal year, the On Target Incentive will not be prorated. Please see a [reference slide here](https://docs.google.com/presentation/d/1pWM8UhJGL7G8w_QzLKM1q2Rqql4OKm7vLD9HSCKfT9g/edit#slide=id.p) for an example of how the quota relief process and calculation works. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/#sales-compensation-plan).
 
@@ -231,11 +234,58 @@ Some countries require extra paperwork or have specific leave requirements, whic
 
 A day before you return from Parental Leave, you'll receive a PTO by Roots [Welcome Back message](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#parental-leave-welcome-back) with buttons to confirm your return or to explore other options.   
 * Clicking the `Confirm my return` button will open the email client with a pre-loaded template "Confirming my return from Parental PTO".
+    - *Please add the date you are intending to return to this email.*
 * Clicking the `Explore options` button will also open the email client with a pre-loaded template "I have exceeded my 16 weeks and like to look into further options".
 
-#### Return-to-work Resources
+### Returning to work after parental leave
 
-To [alleviate the stress](/handbook/paid-time-off/#returning-to-work-after-parental-leave) associated with returning to work after parental leave, GitLab supports team members coming back at [50% capacity](/handbook/paid-time-off/#returning-to-work-at-50-capacity). Parents at GitLab who are reentering work following parental leave are encouraged to read the [Team Member Tool Kit](/handbook/total-rewards/benefits/parental-leave-toolkit/#team-member-tool-kit) and to reach out to team members who self-designate as a [Parental Leave Reentry Buddy](/handbook/total-rewards/benefits/parental-leave-toolkit/#parental-leave-reentry-buddies).
+It's important to acknowledge that returning to work after [parental leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) can be difficult. Even with smooth reentries, life and work interplay differently when one adds another member to their family. Everyone transitions differently, and the impact on an individual varies depending on role, as well as a litany of personal factors.
+
+You can learn more about parental leave and how to apply in the [Benefits section of the GitLab Handbook](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+
+### Return-to-work Resources
+#### Tips for a smoother transition
+
+GitLab team members compiled tips in a four-part blog series, linked below, looking at an array of issues surrounding working remotely with children. These shed light on parental leave policies worldwide, provide an inside view of working at GitLab with a newborn, and highlight strategies for working remotely with older children.
+
+1. [Parental/maternity leave around the world – how does your country stack up?](/blog/2019/07/18/how-is-it-being-a-new-mom-working-for-gitlab/)
+1. [How I balance a baby, a career at GitLab, and cultural expectations of motherhood](/blog/2019/07/25/balancing-career-and-baby/)
+1. [How to make your home a space that works with kids](/blog/2019/08/01/working-remotely-with-children-at-home/)
+1. [5 Things to keep in mind while working remotely with kids](/blog/2019/08/08/remote-kids-part-four/)
+
+Tips from GitLab team members are the greater community are below, as well as how each aligns with at least one of [GitLab's values](/handbook/values/).
+
+> What has worked for me is to integrate GitLab into my life, and not the other way around. I set very clear boundaries in my calendar of when is work time and when is family time. Per GitLab's [recommendation](/handbook/communication/#google-calendar), my calendar is viewable by anyone and clearly has time for: `kids test prep`, `visual therapy for one`, `judo pick-up` and other appointments I have outside of work. This prevents team members from scheduling over these instances.
+>
+> If someone *does* schedule over family time or personal time, I feel confident to decline, unless it is very urgent and I'm blocking it (I always suggest a new time first, before using family time for a meeting). I am also inclined to say that if folks keep scheduling outside of your work time, to make sure you [respond back and highlight that](/handbook/values/#transparency), and check if you can find an alternative time that works for both of you. — [*Nadia V.*](https://gitlab.com/Vatalidis)
+
+Nadia's recommendation leans on [Transparency](/handbook/values/#transparency), as well as an important sub-value of [Efficiency](/handbook/values/#efficiency): [Be respectful of others' time](/handbook/values/#be-respectful-of-others-time).
+
+> When I joined GitLab, it was great to see things in people's calendars like `baby time`, `homework with kids`, `date night`, etc. Part of [onboarding](/company/culture/all-remote/getting-started/) was [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats) so I saw these “meetings” on calendars as I tried to schedule chats. It reinforced our [family first sub-value](/handbook/values/#family-and-friends-first-work-second), and also normalized these activities. It helped me understand that I could set up similar boundaries and not sacrifice bed time or something similar just to have an empty hour on my calendar. — [*Seth B.*](https://gitlab.com/sethgitlab)
+
+Seth's recommendation ties to a sub-value of Diversity, Inclusion & Belonging : [Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second).
+
+> The hardest part of coming back from parental leave has been getting caught up/reintegrating with the GitLab team while sleep deprived. I recommend taking to heart the `don't worry` portion of GitLab's guide to paid time off, which states: "You don't need to worry about taking time off to go to the gym, [take a nap](https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor-f24fbff47a75), go grocery shopping, do household chores, help someone, take care of a loved one, etc. If you have urgent tasks, but something comes up or takes longer than expected, just ensure the rest of the team **knows** and someone can pick up the tasks (assuming you're able to communicate)." — [*Jonathan S.*](https://gitlab.com/jschafer)
+
+Jonathan's recommendation adds a layer of nuance to [Accepting Uncertainty](/handbook/values/#accepting-uncertainty), a sub-value of [Results](/handbook/values/#results). It also touches on [Give agency](/handbook/values/#give-agency), a sub-value of [Collaboration](/handbook/values/#collaboration), which empowers team members to focus on what they think is most beneficial.
+
+> Take advantage of GitLab's bias towards [asynchronous communication](/company/culture/all-remote/management/#asynchronous). A child's schedule shifts rapidly, and I've found it useful to structure my days around my son's routine rather than force him to operate on a rigid timeline. Being a part of a [100% remote team](/company/culture/all-remote/) empowers team members to [embrace work/life harmony](/company/culture/all-remote/people/#worklife-harmony) in whatever way suits them. Moreover, it's liberating to be able to shift when and where I work depending on the needs of my family.
+>
+> It's important to talk about family. For a company to sustain a culture that embraces parents and empathizes with the associated needs, these realities must be shared in the open and not allowed to become taboo. — [*Darren M.*](https://gitlab.com/dmurph)
+
+Parents at GitLab are encouraged to join the `#intheparenthood` Slack channel to share tips, photos, and stories, and make a merge request to add contributions to this page.
+
+### Returning to work at 50% capacity
+
+Returning to work after [parental leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) can be jarring if you're attempting to jump immediately back to 100%. Not only has your life changed dramatically with the expansion of your family, but you're reintegrating into a working world that has continued to progress in your absence. Merely catching up with months of work is a challenge unto itself, even without a new family member.
+
+To alleviate the stress associated with returning to work after parental leave, GitLab supports team members coming back at 50% capacity for as long as needed. The general guideline for this is two to four weeks, but we recognize that each reentry situation should be treated as a unique case to be discussed between the team member and their manager. The 50% figure should be viewed as a guide rather than an inflexible rule. Some team members may feel comfortable ramping more quickly, and that is OK.
+
+This provides space for a team member to test out life adjustments and iterate further without feeling overwhelmed by a full workload. For instance, if a prearranged daycare solution turns out to be suboptimal, this 50% capacity window empowers a parent to iterate — to find a different solution with the air cover at work to put in the appropriate amount of research and care.
+
+Some team members might want to work part-time for a longer time period or even forever. If you would like to have this discussion, please talk to your manager. You can head to the [Part-time contracts](/handbook/total-rewards/benefits/general-and-entity-benefits/#part-time-contracts) page to learn more.
+
+Parents at GitLab who are reentering work following parental leave are encouraged to read the [Team Member Tool Kit](/handbook/total-rewards/benefits/parental-leave-toolkit/#team-member-tool-kit) and to reach out to team members who self-designate as a [Parental Leave Reentry Buddy](/handbook/total-rewards/benefits/parental-leave-toolkit/#parental-leave-reentry-buddies).
 
 Managers of soon to be parents should check out this [Parental Leave Manager Tool Kit](/handbook/total-rewards/benefits/parental-leave-toolkit/#manager-tool-kit) for best practices in supporting your team members as they prepare for and return from Parental Leave.
 
