@@ -129,11 +129,9 @@ and - like a contribution coming from the wider community - ultimately own the f
 ### UX
 
 #### Product Designer Assignments
-Beginning in 14.9, we will try a different approach where Product Designers will pick up issues by specialty, rather than by PM.
-
-* Matej Latin: Registration Flow and Free Trial Flow
-* Kevin Comoli: Continous Onboarding, PQLs, and Free user registration
-* Emily Bauman: Stage and feature specific onboarding, Purchase Flow, Upgrade Flow, Free user management 
+* Matej Latin: Activation
+* Kevin Comoli: Acquisition
+ 
 
 The planning process:
 * Planning issues are created and PMs add what they want UX to work on
