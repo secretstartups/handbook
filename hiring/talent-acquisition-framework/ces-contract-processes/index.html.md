@@ -32,9 +32,9 @@ This chart reflects the available signatories for each of GitLab's entities. The
 |-------- | -----|
 | GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Ferber, Ursela Knezevic), Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document.   | 
 | GitLab Federal LLC    |       Bob Stevens     |  
-| GitLab BV Belgium, Dutch & English | Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab BV, Netherlands | Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab GmbH | Rob Allen, Pattie Egan. Backup: Igor Groenewegen-Mackintosh | 
+| GitLab BV Belgium, Dutch & English | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab BV, Netherlands | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab GmbH | Rob Allen & Pattie Egan. Backup: Igor Groenewegen-Mackintosh | 
 | GitLab PTY Ltd, Australia | Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab PTY Ltd, New Zealand | Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab Ireland LTD | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
@@ -43,7 +43,7 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab GK, Japan | Dale Brown, Craig Mestel | 
 | GitLab IT BV | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab South Korea | Dale Brown, Craig Mestel | 
-| GitLab France S.A.S. | Craig Mestel, Igor Groenewegen-Mackintosh |
+| GitLab France S.A.S. | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh |
 | GitLab Singapore PTE. LTD. | Dale Brown, Igor Groenewegen-Mackintosh |
 
 #### Offer Details Access steps
