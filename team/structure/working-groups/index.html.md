@@ -152,6 +152,7 @@ If you are interested in participating in an active working group, it is general
 * [Maintainership](/company/team/structure/working-groups/maintainership/)
 * [Merge Request Report Widgets](/company/team/structure/working-groups/merge-request-report-widgets/)
 * [MLOps](/company/team/structure/working-groups/mlops/)
+* [Modern Applications Go-To-Market](/company/team/structure/working-groups/modern-applications-gtm/)
 * [Multi-Large](/company/team/structure/working-groups/multi-large/)
 * [Next Prioritization](/company/team/structure/working-groups/next-prioritization/)
 * [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
