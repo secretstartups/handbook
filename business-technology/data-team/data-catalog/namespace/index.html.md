@@ -60,9 +60,11 @@ Here is the Namespace To Workflow Relationship Diagram for a visual understandin
 
 ## Examples
 
-[Groups, Projects & Namespaces](/handbook/business-technology/data-team/data-catalog/namespace/Group_Project_Namespace.png)
+### Groups, Projects & Namespaces
+![Groups, Projects & Namespaces](/handbook/business-technology/data-team/data-catalog/namespace/Group_Project_Namespace.png)
 
-[Personal Namespaces](/handbook/business-technology/data-team/data-catalog/namespace/Personal_Namespace_Example.png)  
+### Personal Namespaces
+![Personal Namespaces](/handbook/business-technology/data-team/data-catalog/namespace/Personal_Namespace_Example.png)  
 
 ## Namespace Use Cases
 
