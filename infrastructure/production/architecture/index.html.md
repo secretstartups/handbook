@@ -175,7 +175,7 @@ When it comes to DNS names all services providing GitLab as a service shall be i
 
 #### Remote Access
 
-Access is granted to only those whom need access to production through bastion hosts
+Access is granted to only those whom need access to production through bastion hosts.
 Instructions for configuring access through bastions are found in the [bastion runbook](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/bastions).
 
 ### Secrets Management
