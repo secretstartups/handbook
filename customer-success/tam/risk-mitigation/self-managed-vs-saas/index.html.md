@@ -1,16 +1,17 @@
-
 ---
 layout: handbook-page-toc
 title: "Helping Customers Decide to Migrate to SaaS"
-description: "Helping Customers Decide to Migrate to SaaS"
 ---
- 
-{:.no_toc .hidden-md .hidden-lg}
+ {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## **Moving to SaaS From Self Managed**
+View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+
+---
+
+## Moving to SaaS From Self-Managed
 Many customers are interested in migrating to our SaaS platform. Typically their reasons for doing so are:
 
 - **Infrastructure Cost Savings**
@@ -24,7 +25,7 @@ Many customers are interested in migrating to our SaaS platform. Typically their
 
 If a customer poses an interest in moving to SaaS, it is important that they know the differences between the two platforms: namely, the presence or absence of adminstrative control. On self-managed, Admin users can access the Admin Panel, and have the ability to impersonate users, remove personal access tokens created by users, and make use of other features only Admins can use. On SaaS, users have more control and there are no Admins, thus, there is less access control. Also, some APIs cannot be used on SaaS, as they require the user conducting the request to have adminstrative privileges.
 
-### Process For Moving a Customer From Self Managed to SaaS
+### Process For Moving a Customer From Self-Managed to SaaS
 
 1. Identify decision-maker for moving to SaaS
 1. Optional: Identify security team contact
@@ -34,7 +35,7 @@ If a customer poses an interest in moving to SaaS, it is important that they kno
 1. Follow up with decision maker on move to SaaS
 1. Suggest PS for migration
 
-## **Discovery Questions**
+## Discovery Questions
 We recommend asking champions some discovery questions during a cadence call to gauge why they want to move to SaaS and ensure that certain access control items, features, and APIs are not currently of utmost importance to the business before kicking off the migration process.
 
 ### Discovery Questions
