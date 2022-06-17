@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Slack Training
-description: "Details on how to sign up for an in-app Slack training for new team members at GitLab"
+title: Communicate at GitLab: Slack Training
+description: "Outline of the GitLab in-app Slack training to train team members on key communication norms at GitLab"
 ---
 
 ## On this page
@@ -14,31 +14,37 @@ description: "Details on how to sign up for an in-app Slack training for new tea
 
 Please review the learning objectives, requirements, and training details before signing up.
 
-Sign up for the Slack training by completing [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSe1pBLLFYOuoAyKssl9BtVGNlQXP08YYcudrlsKu0lic6apWQ/viewform?usp=sf_link). The Learning and Development team will enroll you in the cohort you indicate in the form and notify you ~3 business days before the training starts.
+Sign up for the Communicate at GitLab: Slack Training by completing [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSe1pBLLFYOuoAyKssl9BtVGNlQXP08YYcudrlsKu0lic6apWQ/viewform?usp=sf_link). The Learning and Development team will enroll you in the cohort you indicate in the form and notify you ~3 business days before the training starts.
 
 ## Testimonials
 
 **Results**
 
-As of 2022-02-09:
+As of 2022-06-14:
 
-1. 93.7% of learners would recommend this training to other team members
-1. 81% of learners discovered at least 1 new strategy or best practice for using Slack at GitLab
-1. 75% of learners agree that their confidence in successfully using Slack at GitLab increased after completing this training
-1. 75% of learners agree that the training helped them feel empowered with knowledge and resources needed to speak up for GitLab values and correct usage of Slack
+1. 94.4% of learners would recommend this training to other team members
+1. 91.7% of learners discovered at least 1 new strategy or best practice for using Slack at GitLab
+1. 86.1% of learners agree that their confidence in successfully using Slack at GitLab increased after completing this training
+1. 83.4% of learners agree that the training helped them feel empowered with knowledge and resources needed to speak up for GitLab values and correct usage of Slack
 
 **What learners are saying:**
+
+> Excellent async training methodology with good practice examples. Crisp, short and very informative.
 
 >This training was great and I'm glad I was able to participate! If this training is not already part of onboarding for new team members, it should be considered.
 
 >It was a great refresher for me!
+
+>Thank you for offering this! Always nice to learn something new about a tool so ubiquitous in remote work.
+
 
 ### Is this training right for me?
 
 This training is built for:
 
 1. New team members
-1. Team members who want a refresher on using Slack
+1. Team members who want a refresher on using Slack 
+1. Team members who want to review communication norms at GitLab
 
 This training is **not** built for:
 
@@ -57,7 +63,7 @@ GitLab team members participating in this training will:
 
 ## Requirements
 
-1. You're a GitLab team member (this is not available to external learners)
+1. You're a GitLab team member _(this is not available to external learners)_
 1. You can commit ~5 minutes per day for 10 business days to review and take action on tasks in Slack
 1. You commit to completeing a post-training Google form to provide feedback on your experience
 
@@ -70,9 +76,10 @@ If you meet these requirements, please use [this Google form](https://docs.googl
 Here's what to expect in the Slack training:
 
 1. After signing up, you'll be added to a training cohort Slack group and the [#slack-training](https://app.slack.com/client/T02592416/C02MX7LTXK9) Slack channel. The current goal is to run at least one cohort per month.
-1. The training will run for 10 business days
-1. Each day, you'll get one Slack group ping with your daily task instructions, posted publicly to the [#slack-training channel](https://app.slack.com/client/T02592416/C02MX7LTXK9/thread/G018JT50VH7-1641496150.005700)
-1. Messages will be scheduled by the L&D team and are triggered to send at 3pm UTC
+1. The training will run for 10 business days.
+1. Each day, you'll get one Slack group ping with your daily task instructions, posted publicly to the [#slack-training channel](https://app.slack.com/client/T02592416/C02MX7LTXK9/thread/G018JT50VH7-1641496150.005700).
+1. Messages will be scheduled by the L&D team and are triggered to send at 3pm UTC.
+1. On the final day of the training, you'll be asked to complete an end of program survey to share your feedback and learning from the training.
 
 ### Topics Covered
 
@@ -93,7 +100,6 @@ Below you're find the topics and links covered in each day of the training
 | 10 | End of training survey | N/A |
 
 
-
 ## Metrics
 
 We measure success using the following metrics:
@@ -101,7 +107,7 @@ We measure success using the following metrics:
 | Metrics | How we measure | Goal |
 | ----- | ----- | ----- |
 | Percentage of new team members who complete the training per quarter | Completions of end of program survey | 30% |
-|  Impact on target of [percent of messages that are not DMs](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) | Tracked on [Slack handbook page](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) | Correlation of course completions and target |
+| Impact on target of [percent of messages that are not DMs](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) | Tracked on [Slack handbook page](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) | Correlation of course completions and target |
 
 ## Future improvements
 
