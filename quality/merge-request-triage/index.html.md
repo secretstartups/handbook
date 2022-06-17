@@ -24,10 +24,10 @@ We define three levels of triage.
 
 A merge request is considered initially triaged when it has a:
 
-- [`~"Community contribution"` label applied](/handbook/engineering/quality/triage-operations/#ensure-quick-feedback-for-community-contributions).
-- [welcome message](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/thank_community_contribution.rb) from the [`@gitlab-bot`](https://gitlab.com/gitlab-bot) user with more details on the process.
+- [`~"Community contribution"` label applied](/handbook/engineering/quality/triage-operations/#community-contribution-thank-you-note).
+- [Welcome message](/handbook/engineering/quality/triage-operations/#community-contribution-thank-you-note) from the [`@gitlab-bot`](https://gitlab.com/gitlab-bot) user with more details on the process.
 
-The Initial triage is automated by the [Engineering Productivity team][Engineering Productivity team], please see [Community contributions on Triage Operations](/handbook/engineering/quality/triage-operations/#community-contributions) page for the full details.
+The Initial triage is automated by the [Contributor Success team](/handbook/engineering/quality/contributor-success/) via the [Community contribution thank you note](/handbook/engineering/quality/triage-operations/#community-contribution-thank-you-note) reactive triage automation.
 
 ### Partial Triage
 
@@ -38,7 +38,7 @@ A merge request is considered partially triaged when it has a:
 - [stage label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels) applied.
 - [group label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#group-labels) applied (e.g. `~"group:editor"`). If no group label exists, the stage label is enough.
 
-The Partial triage is completed by [Merge Request Coaches](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html) via the [newly created Community contribution merge requests](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage) triage report.
+The Partial triage is completed by [Merge Request Coaches](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html) via the [Newly created community merge requests](/handbook/engineering/quality/triage-operations/#newly-created-community-merge-requests) triage report.
 
 For MRs related to issues, the Partial Triage can be completed by using the following quick action and confirming proper metadata:
 
@@ -63,7 +63,7 @@ A merge request is considered completely triaged when it has a:
 
 - milestone set if the merge request with the `~"Community contribution"` label is merged.
 
-This triage process is automated by the [Engineering Productivity team][Engineering Productivity team] with Triage automation, please see [Add milestone to community contributions on Triage Operations](/handbook/engineering/quality/triage-operations/#add-milestone-to-community-merge-requests) page for the full details.
+This triage process is automated by the [Contributor Success team](/handbook/engineering/quality/contributor-success/) via the [Add milestone to community contributions on Triage Operations](/handbook/engineering/quality/triage-operations/#add-milestone-to-community-merge-requests) scheduled triage automation.
 
 #### Complete Triage for Idle Merge Requests
 
@@ -81,10 +81,10 @@ The GitLab Website is owned and managed by a different team than GitLab.org; thu
 
 A merge request is considered initially triaged when it has a:
 
-- [`~"Community contribution"` label applied](/handbook/engineering/quality/triage-operations/#ensure-quick-feedback-for-community-contributions).
-- [welcome message](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/thank_community_contribution.rb) from the [`@gitlab-bot`](https://gitlab.com/gitlab-bot) user with more details on the process.
+- [`~"Community contribution"` label applied](/handbook/engineering/quality/triage-operations/#community-contribution-thank-you-note).
+- [Welcome message](/handbook/engineering/quality/triage-operations/#community-contribution-thank-you-note) from the [`@gitlab-bot`](https://gitlab.com/gitlab-bot) user with more details on the process.
 
-The Initial triage is automated by the [Engineering Productivity team][Engineering Productivity team], please see [Community contributions on Triage Operations](/handbook/engineering/quality/triage-operations/#community-contributions) page for the full details.
+The Initial triage is automated by the [Contributor Success team](/handbook/engineering/quality/contributor-success/) via the [Community contribution thank you note](/handbook/engineering/quality/triage-operations/#community-contribution-thank-you-note) reactive triage automation.
 
 ### Complete Triage
 
@@ -99,7 +99,6 @@ A merge request is considered completely triaged when it has:
 
 Typically, the reviewer is the [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html) of the page the merge request is updated. If there is no code owner assigned, the triager will reach out to the relevant team the page belongs to identify a reviewer.
 
-
 #### Complete Triage for Idle Merge Requests
 
 A merge request is considered completely triaged when it:
@@ -110,13 +109,11 @@ This triage process is being done manually on a case-by-case basis by a member o
 
 ## Inactive MR Triage Policy
 
-The inactive merge request policy was created to enable GitLab teams to focus efforts on active merge request and prevent old merge requests from degrading into a state of disrepair. This is done by creating two thresholds at which GitLab team members attempt to move the merge request forward. Contributor Success team members attempt to move merge requests that have reached the first threshold forward. If that's not successful an Engineering Manager makes a decision at the second threshold. We value your effort - that's why all decisions to close a merge request are made by a human, and are not automated.
+The inactive merge request policy was created to enable GitLab teams to focus efforts on active merge request and prevent old merge requests from degrading into a state of disrepair. This is done by creating two thresholds at which GitLab team members attempt to move the merge request forward.
 
-1. Merge Requests without human interaction for more than 28 days are labeled as [~idle](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=idle)
-    1. Idle Merge Requests appear in the [weekly community contributions report](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/quality/community-contribution-mr-report.yml) which the [Contributor Success team](https://about.gitlab.com/handbook/engineering/quality/contributor-success/) monitors.
-    1. The [Contributor Success team](https://about.gitlab.com/handbook/engineering/quality/contributor-success/) will attempt to move these Merge Requests forward.
-1. Merge Requests without human interaction for more than than 120 days are labeled as [~stale](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=stale)
-    1. Once a Merge Request becomes stale, an Engineering Manager is pinged to decide if a GitLab team member will pick up the work on it or close the Merge Request.
+Contributor Success team members attempt to move merge requests that have reached the first threshold forward via the [Community merge requests requiring attention](/handbook/engineering/quality/triage-operations/index.html#community-merge-requests-requiring-attention) triage report.
+
+If that's not successful an Engineering Manager makes a decision at the second threshold. We value your effort - that's why all decisions to close a merge request are made by a human, and are not automated.
 
 ## Wider Community Merge Request Triage SLOs
 
