@@ -82,3 +82,26 @@ Please send an email to `mcampbell@linuxfoundation.org` with your name and email
 **Can I get both a company O'Reilly and Linux Foundation License?**
 
 Due to limited licenses, we ask that team members use one license at a time from either O'Reilly or Linux Foundation. If team members are intereted in both, the L&D team can work with them to develop a plan to rotate licenses over a series of quarters to ensure team members have time to access courses in both platforms.
+
+### Processing Notes for the L&D Team
+
+#### First Time License Allocation Steps
+
+1. Review the submitted AR. Ensure the request is linked to/mentions a career development goal has manager approval. Close the AR if confirmed.
+1. If there is not mention of a career development goal, paste the following text as a comment on the issue and tag the issue creator:
+
+> For a GitLab Linux Foundation licenses, your Access Request must mention [which career goal you'll work towards using your license](https://about.gitlab.com/handbook/people-group/learning-and-development/self-paced-learning/#sign-up). Please add this informaiton to the AR and tag me for review upon completion.
+
+1. Update the [license usage sheet](https://docs.google.com/spreadsheets/d/1gHwWy7TKAXem24NVCUmq94sICp_yCocDaf_onUZ3BPg/edit#gid=0) with team member's `first name`, `last name`, `email`, `department`, and `link to their Access Request`.
+1. Communicate the following template to each new user. Include the unique access code associtated with their name from the licenage usage sheet.
+
+> You're access to the Linux Foundation has been approved! Please follow these [instructions](https://about.gitlab.com/handbook/people-group/learning-and-development/self-paced-learning/#learning-portal-access) to set up your account using your `@gitlab` email address. Your unique and case sensitive access code is `XXXX`. You only need this code for your inital login. Please reach out in the #learninganddevelopment Slack channel with any questions.
+
+#### License Audit + Reallocation Steps
+
+1. Communicate with users who have had a license for 6+ months. Start with an opt-in audit and remove licenses from inactive users.
+1. Email the vendor with a list of users to be revoked from the platform. Confirm how many certifications remain on each license.
+1. Add users who have been revoked from the platform to the [revoked access tab](https://docs.google.com/spreadsheets/d/1gHwWy7TKAXem24NVCUmq94sICp_yCocDaf_onUZ3BPg/edit#gid=137096765). Fill in as much information about the user platform behavior as you have available.
+1. The vendor will return an email with new signup codes. Update the [license usage sheet](https://docs.google.com/spreadsheets/d/1gHwWy7TKAXem24NVCUmq94sICp_yCocDaf_onUZ3BPg/edit#gid=0) with these codes and certification counts.
+1. Restart the `first time license alllcation steps`.
+
