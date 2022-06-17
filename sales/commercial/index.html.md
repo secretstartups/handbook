@@ -212,9 +212,23 @@ A recording Chorus license is mandatory for all Commercial Account Executives. O
 
 Follow instructions for using [Chorus Scheduler](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#chorus-scheduler)
 
-## [Opportunity Consults](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) and Lightweight Deal Review (LDR) Process
+## Deal Reviews
 
-An [Opportunity Consult](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) is an in depth, two-way conversation between the AE and the ASM to review the opportunity [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#overview). The AE should expect to provide the ASM with more detailed information about the [Opportunity Overview](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) fields, the customer's pain points and desired outcomes, challenges or gaps in qualification aligned to the [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) opportunity qualification framework, articulate a [Close Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#close-plan-details) and identify the biggest opportunity risk(s) and action(s) to mitigate those risks. 
+### Top 3 
+
+Every account owner needs to know their top three deals open.  Area Sales Managers are iterating on steps to review these on an ongoing basis and to collaborate across teams. 
+
+Currently, **Top 3** is a weekly session where all owners have a list of their top deals where up to two opportunities overall are actively reviewed in a group setting.  Following the format listed below, these deal reviews have a similar focus to opportunity consults and lighweight deal reviews in order to grow sales skills.
+
+1. Prep for a _no_. What are all the questions or reasons they will say no? 
+1. Are we building a relationship (onsite, something else?)
+1. Nail the project name and the timing of the project (sell services)
+1. Selling against a ROI slide
+1. Based on the information uncovered in the prior questions, use supporting reasons for AEs to update their next steps live. Managers should enter their comments in the Manager Notes section for any deals they review live or asynchronously.
+
+### Opportunity Consults and Lightweight Deal Reviews
+
+An [Opportunity Consult](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) is an in depth, two-way conversation between the AE and the ASM to review the opportunity [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#overview). The AE should expect to provide the ASM with more detailed information about the [Opportunity Overview](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) fields, the customer's pain points and desired outcomes, challenges or gaps in qualification aligned to the [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) opportunity qualification framework, articulate a [Close Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#close-plan-details) and identify the biggest opportunity risk(s) and action(s) to mitigate those risks. 
 
 
 A Lightweight Deal Review (LDR) is a shorter (5-10 minute) deal review that is designed to identify gaps in the [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#overview) and specific next steps. At the end of an LDR, an AE and ASM should have a plan in place to capture the information that is not in the Command Plan, and a specific plan of action on and before the next call.

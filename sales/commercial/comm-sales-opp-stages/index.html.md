@@ -160,7 +160,7 @@ _Validate the technical qualifications are a fit for the customer/prospect needs
 - If a [trial license extension](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/trials.html) is being requested from a customer, discuss with AE and prepare a project plan with the customer before granting an extension.
 - Other teams/business units identified that may need to be involved  (Other points of entry)
 - Additional demos scheduled for stakeholders with unique needs
-- [Opportunity Consults](https://about.gitlab.com/handbook/sales/commercial/#opportunity-consults-ocf-and-lightweight-deal-review-ldr-process) or Lightweight deal review [(LDR)](https://about.gitlab.com/handbook/sales/commercial/#opportunity-consults-ocf-and-lightweight-deal-review-ldr-process) with manager if monetary thresholds are met 
+- [Opportunity Consults and Lightweight Deal Reviews](https://about.gitlab.com/handbook/sales/commercial/#opportunity-consults-and-lightweight-deal-reviews) with manager if monetary thresholds are met 
 - Identify  the "why" if customer decides not to move forward and document reasons in SFDC/notes
 - [Next steps](https://about.gitlab.com/handbook/sales/commercial/#opportunity-next-steps-best-practices) updated
 - If the relationship is owned by a Partner, share applicable case studies, example projects, and/or relevant documentation
