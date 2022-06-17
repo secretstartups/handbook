@@ -185,17 +185,17 @@ When underperformance is detected, managers compensate by checking the team memb
 
 ## Verbal Warning
 
-A Verbal Warning is used to bring attention to new or ongoing deficiencies in conduct and/or will-based performance issues. The intent is to define the seriousness of the situation to encourage immediate corrective action. Not all team members will receive a verbal warning; whether (and/or when) a team member receives a verbal warning may depend on local regulations. If you have any questions about whether you should complete a verbal warning, please reach out to the team member relations group..
+A Verbal Warning is used to bring attention to new or ongoing deficiencies in conduct and/or will-based performance issues. The intent is to define the seriousness of the situation to encourage immediate corrective action. Not all team members will receive a verbal warning; whether (and/or when) a team member receives a verbal warning may depend on local regulations. If you have any questions about whether you should complete a verbal warning, please reach out to Team Member Relations at teammemberrelations@gitlab.com.
 
 The template for a Verbal Warning is found in the confidential PBP resources folder.
 
-Verbal warnings should be communicated in 1:1 meetings, and subsequently confirmed by email with the manager emailing the team member with a recap of the discussion. The manager will then save the documentation to the team member's BambooHR profile, in the Action Notices folder. The verbal warning will remain in the BHR file for the requisite time, as required by applicable local law.
+Verbal warnings should be communicated in 1:1 meetings, and subsequently confirmed by email with the manager emailing the team member with a recap of the discussion. The manager will then save the documentation to the team member's Workday profile. The verbal warning will remain in the Workday file for the requisite time, as required by applicable local law.
 
 ## Written Performance Letter
 
 A Written Performance Letter is used to bring attention to performance issues or ongoing deficiencies previously addressed by your manager. Team members should already be aware of the performance issues due to ongoing coaching in your 1x1's with your manager and the follow-up coaching emails. The Written Performance Letter will identify development areas/gaps, outline what success looks like, and specific action/deliverables and due dates. The Written Performance Letter is not a formal Performance Improvement Plan (PIP) it is a documented coaching mechanism to help provide the team member with clear guidance to immediately improve performance.
 
-The team member relations specialist will send the Written Performance Letter to the team member and manager to review and sign via Docusign. Once signed the team member relations specialist will save the documentation to the team member's BambooHR profile, in the Action Notices folder. There may be times when a team member will not sign a written performance letter, that will be noted on the document and stored in BambooHR. The written performance letter will remain in the BHR file for the requisite time, as required by applicable local law.
+The team member relations specialist will send the Written Performance Letter to the team member and manager to review and sign via Docusign. Once signed the team member relations specialist will save the documentation to the team member's Workday profile, in the Action Notices folder. There may be times when a team member will not sign a written performance letter, that will be noted on the document and stored in Workday. The written performance letter will remain in the BHR file for the requisite time, as required by applicable local law.
 
 The template for a Written Performance Letter is found in the confidential PBP resources folder.
 
@@ -203,7 +203,7 @@ The template for a Written Performance Letter is found in the confidential PBP r
 
 A Written Warning is used to bring attention to new or ongoing deficiencies in conduct and/or will-based performance. The intent is to define the seriousness of the situation to encourage immediate corrective action. Not all team members will receive a written warning; whether (and/or when) a team member receives a written warning may depend on local regulations. Managers will work with the Team Member Relations Specialist to determine whether a written warning will be delivered to the team member.
 
-On a zoom meeting, the manager and Team Member Relations Specialist will inform the team member that they will be receiving a written warning. The Team Member Relations Specialist will then send the Written Warning Letter via Docusign to the team member to review and sign. Once signed, the Team Member Relations Specialist will save the documentation to the team member's BambooHR profile, in the Action Notices folder. There may be times when a team member will not sign a written warning. Those times will be noted on the document and stored in BambooHR. The written warning will remain in the BHR file for the requisite time, as required by applicable local law.
+On a zoom meeting, the manager and Team Member Relations Specialist will inform the team member that they will be receiving a written warning. The Team Member Relations Specialist will then send the Written Warning Letter via Docusign to the team member to review and sign. Once signed, the Team Member Relations Specialist will save the documentation to the team member's Workday profile, in the Action Notices folder. There may be times when a team member will not sign a written warning. Those times will be noted on the document and stored in Workday. The written warning will remain in the Workday file for the requisite time, as required by applicable local law.
 
 ### Communication During Underperformance Remediation
 
@@ -296,8 +296,8 @@ A performance improvement plan includes the following:
     - Ask them if they have any questions
     - Inform the Team Member Relations Specialist (TMR) that the PIP conversation has taken place and the document have been sent to the team member.
     - Once the PIP has been presented to the team member the TMR will upload in Hellosign and send for the team members signature. Signing the document does not mean a team member agrees with the PIP but acknowledges that the PIP conversation between the manager and team member has occurred.
-    - Once the PIP is signed and returned, the team member relations specialist will upload the PIP to the team member BambooHR file under the document tabs in the performance folder.
-    - The TMR will track the start and end of PIPs in BambooHR in the Performance and Potential Table located in the Job tab.
+    - Once the PIP is signed and returned, the team member relations specialist will upload the PIP to the team member Workday file.
+    - The TMR will track the start and end of PIPs in Workday.
 1. Typically, a team member gets time (2-4 weeks depending on the role and circumstances) to demonstrate improvement and meet specific goals, outlined in the PIP. By design, a PIP is expected to support a successful and sustained improvement in performance.
     - If sufficient improvement is not made, the PIP may end early and we move to next steps in termination (steps may vary by country).
     - If sufficient improvement is not made but progress is headed in the right direction, a PIP may be extended at the discretion of the manager.
