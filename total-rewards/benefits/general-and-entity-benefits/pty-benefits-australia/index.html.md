@@ -285,15 +285,12 @@ This leave runs concurrently with GitLab PTO. Team members should select `Bereav
 All team members are entitled to up to 12 months of unpaid parental leave if they have been at GitLab for at least 12 months. They can also request up to 12 months of additional unpaid parental leave.
 
 **Australian Government Parental Leave Payment**
-* For team members with a yearly salary of $150,000 AUD or less, and who meet various other tests including a work test and residency rules.  The parent must also be the primary carer of the child:
-  * All payments are managed by Services Australia (Federal government) and some employees will receive payment directly from Services Australia.
-  * Only certain deductions can be made from Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
-* For team members with a yearly salary above $150,000 AUD:
-  * If you are eligible, you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+Team members must pass the [income test](https://www.servicesaustralia.gov.au/meeting-parental-leave-pay-income-test?context=22191) to be eligible for the government's Parental Leave payments.  If a team member is not eligible, GitLab will provide 100% of their wages for up to 16 weeks of leave.
+* If you are applying for government-funded Parental Leave Pay, you can apply up to 3 months before your child's due date.
 
 **Applying for Parental Leave in Australia**
-* To initiate your parental leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with GitLab's Parental Leave policy.
-* If you are applying for government-funded Parental Leave Pay, you can apply up to 3 months before your child's due date.
+* To initiate your parental leave, please review this [checklist](https://docs.google.com/document/d/17Nxh0Hg3A44i1HmJp0vQj0jMMzFoIQxy/edit?usp=sharing&ouid=108582647308078356493&rtpof=true&sd=true) to ensure reporting timelines are met.  All written requests for Parental Leave can be sent to leaves@gitlab.com. 
+* After submitting your written request for Parental Leave, please enter the dates of your leave into PTY by Roots by selecting the `Parental Leave` label.
 
 **Record-keeping for paid Parental Leave:**
 * In addition to the usual record-keeping requirements, employers that have team members getting government-funded Parental Leave Pay also have to keep the following records:
