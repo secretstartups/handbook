@@ -194,12 +194,26 @@ have dependencies or been overlooked.
 ## Verification
 The issue verification should be done by someone else other than the MR author[^4].
 
+1. All implementation issues should have verification steps in the description. Our [implementation issue template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Implementation) conveniently provides this section.
 1. When an engineer has merged their work, they should move their issue into the verification status, indicated by the `~workflow:verification` label and wait until they receive notification that their work has been deployed on staging via the release issue email. 
 1. After the engineer has received the notification and verified their work in staging, they leave a comment summarizing the testing that was completed, and unassign themselves from the issue.
 1. Unassigned issues in the `~workflow:verification` state are are assigned randomly by the triage bot based on the [verification policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/container-security/verification.yml).
 1. An issue can be closed once it has been verified in production.
 
 [^4]: When the engineer who writes the code is the only one verifying it, it increases the chance of defects getting into production because when that engineer tests in a new environment, they are likely to try all the same attempts to break it as they did during writing the code, which does not bring any value. If a person who did not write the code verifies the resolution in a deployed environment, they will come in with a different perspective and is more likely to cover more test cases.
+
+## Planning for PTO
+
+When a team-member takes some time off, it is important that their work is still being followed up on if needed. We want to make sure that any MR that lands in staging and production environments while we are out gets proper attention and is verified by a counterpart. Therefore, when getting close to our time-off period, we should do the following:
+
+* Any MR that can be put on hold until we're back from PTO should be put in the `Draft` status. This ensures that the MR won't be merged accidentally without a clear DRI to follow up on it.
+* Other non-draft MRs and freshly merged MRs, which need to be verified on staging, should be assigned to another engineer. The additional DRI will be responsible to verify the changes if they land in staging while we're out[^5]. When doing this, we must ensure that enough context has been provided in the MR's description and/or the related issue (setup, testing, potential impact, design decisions, etc.).
+
+Keep in mind that, while we strongly recommend following this process when taking some time off, it might not be relevant all the time. For example, if our time-off period is going to be short and/or our active MRs are minor enough, it might make sense to ignore these recommendations and follow up when we're back.
+
+In any case, it's always a good idea to give the company-wide PTO policy another read before going on leave: [A GitLab team members Guide to Time Off](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off).
+
+[^5]: Our Staging verification issue currently goes to just the author. We are suggesting a [change to include the assignee](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2425).
 
 ## Epic Engineering DRI
 

@@ -107,7 +107,7 @@ Our planning timeline follows the [GitLab Product Development timeline](/handboo
 * By the **13th** of each month:
   * Engineers will refine the assigned issues and move them to `workflow::ready for development`.
   * The EM and PM will update the milestone on issues in `workflow::ready for development` based on the team's capacity for the upcoming milestone and move issues into their respective milestones.
-  * The EM will assign the `Deliverable` label to as many `Verify::P1` issues in `workflow::ready for development` as the team has capacity for.
+  * The EM will assign the `Deliverable` label to as many issues in `workflow::ready for development` as the team has capacity for.
 
 #### How Engineering Refines Issues
 
@@ -162,6 +162,16 @@ If an issue requires a feature flag rollout plan, consider increasing the weight
 
 To encourage more transparency and collaboration amongst the team and additionally align on the [Release Posts](/handbook/marketing/blog/release-posts/) we publish at the end of each milestone, we will be creating a separate issue to highlight a **Feature flag roll out plan** for each feature being released starting in 13.2, based on the [issue template for feature flag roll outs](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20Flag%20Roll%20Out.md). The engineer who implements the feature will be responsible for creating this separate issue to highlight the details of when and how the feature flag will be toggled, and subsequently link this issue to their feature issue.  The product manager will tag this issue as a blocker to their release post, so that everyone is aligned on the release plan of the feature.
 
+#### Prioritization of issues
+
+The team makes use of `Verify::P*` labels to indicate priority order of issues in addition to a stack rank in many areas. Currently these labels are applied as follows.
+
+| Priority Label | Reason for applying |
+| ---- | ---- |
+| `Verify::P1` | Our current focus is on reliability and stability of the GitLab.com platform. As such we use this label for any issues that have a category in the top 3 [Prioritization Framework](https://about.gitlab.com/handbook/product/product-processes/#prioritization) table. |
+| `Verify::P2` | After ensuring we are meeting our SLOs we are focused on delivering customer value and moving maturity of our categories forward. Issues with a `type::feature` and `direction` may be have this label applied. Not all `customer` issues will have this label in a milestone. |
+| `Verify::P3` | Bugs or maintenance work that are not a `Verify::P1`, such as lower priority product initiatives, or research issues for upcoming large initiatives, etc. may be included in this category. |
+
 ### Workflow
 
 We use the [Pipeline Execution Workflow issue board](https://gitlab.com/groups/gitlab-org/-/boards/1372896?milestone_title=%23started) to track what we work on in the current milestone.
@@ -208,14 +218,14 @@ When DRIs select issues, they will assign themselves to the issue and also add t
 
 #### Working Right to Left to reduce WIP
 
-Each member of the team can choose which issues to work on during a milestone by assigning the issue to themselves.  When the milestone is well underway and we find ourselves looking for work, we default to working **right to left** on the **issue board** by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion.
+Each member of the team can choose which issues to work on during a milestone by assigning the issue to themselves.  When the milestone is well underway and we find ourselves looking for work, we default to working **right to left** on the **issue board** by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion. Additionally, prior to picking up the next issue from the top of the `workflow::ready for development` column, team members should check the [`~needs weight` board](https://gitlab.com/groups/gitlab-org/-/boards/4178322?label_name[]=group%3A%3Apipeline%20execution&label_name[]=needs%20weight) to ensure everything in the current milestone has been weighted.
 
 Specifically, this means our work is prioritized in the following order:
  * Any verification on code that is in `workflow::verification` or `workflow::production`
  * Conducting code reviews on issues that are `workflow::in review`
  * Unblocking anyone in `workflow::blocked` or `workflow::in dev` if applicable
+ * Check the [`~needs weight` board](https://gitlab.com/groups/gitlab-org/-/boards/4178322?label_name[]=group%3A%3Apipeline%20execution&label_name[]=needs%20weight) for any issues needing to be weighted in current milestone.
  * Then, picking from the top of the `workflow::ready for development` column
- * Lastly, if there are no issues left in `workflow::ready for development`, picking from the top of the `workflow::planning breakdown` column to get a headstart on refinement for the next milestone
 
 The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
 

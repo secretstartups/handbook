@@ -67,7 +67,7 @@ Work in a calendar month is mixed between the **Current milestone** (which will 
 
 #### Week 1
 
-- **Current milestone:** Engineering Manager creates milestone [release issue](/handbook/engineering/development/secure/release_process.html), with assignments for individual updates.
+- **Current milestone:** Engineering Manager creates milestone [release issue](/handbook/engineering/development/sec/secure/release_process.html), with assignments for individual updates.
   - Expected outcome: Engineers will complete designated tasks within 2 weeks.
 - **Next milestone:** Product Manager creates a draft [planning issue](#planning-issues) for the upcoming milestone.
   - Group members and stable counterparts asynchronously add suggested items or problem areas that could be included in the milestone; see [planning issue format](#planning-issue-format) for details.
@@ -139,7 +139,7 @@ For instance, the Product Manager should be part of any decision to reorder prio
 
 ### Observability
 
-For GitLab.com, we monitor performance of our code within the Rails application, metrics around our CI build performance, and traffic to our container registries. These dashboard are accessible via a combination of [Grafana](https://about.gitlab.com/handbook/engineering/#grafana) and [Kibana](https://about.gitlab.com/handbook/engineering/#sts=Kibana), listed below.
+For GitLab.com, we monitor performance of our code within the Rails application, metrics around our CI build performance, and traffic to our container registries. These dashboards are accessible on the [Monitoring](/handbook/engineering/monitoring) page.
 
 Observability is a critical component to any high-availability system and it is recommended for each team member to review each dashboard and ensure they are familiar with their usability and trends.
 
@@ -170,7 +170,7 @@ engineers will scrutinize an issue's readiness, estimate it size, and implement 
 
 #### Weights
 
-We assign issue weights according to the [Secure stage issue weight definitions](/handbook/engineering/development/secure/workflow/#possible-values).
+We assign issue weights according to the [Secure stage issue weight definitions](/handbook/engineering/development/sec/secure/workflow/#possible-values).
 
 #### How we commit to delivering work in a milestone
 
@@ -193,7 +193,7 @@ have a conversation with the Engineering Manager if uncertain about how to proce
 
 #### Code Review Process
 
-The process for reviewing and maintainer code is documented within our [Static Analysis Group Code Review](/handbook/engineering/development/secure/static-analysis/code_review.html) page.
+The process for reviewing and maintainer code is documented within our [Static Analysis Group Code Review](/handbook/engineering/development/sec/secure/static-analysis/code_review.html) page.
 
 #### Stabilization Period and Slack Time
 
@@ -236,7 +236,7 @@ As always, contributions are welcome from our community or the current MR coach 
 
 The process for dismissing a vulnerability as a false positive is as follows:
 
-- If it doesn't exist on the [Static Analysis Group Defined False Positives](/handbook/engineering/development/secure/static-analysis/false_positives.html) page, then write documentation describing the type of false positive and why we think it is classified as such.
+- If it doesn't exist on the [Static Analysis Group Defined False Positives](/handbook/engineering/development/sec/secure/static-analysis/false_positives.html) page, then write documentation describing the type of false positive and why we think it is classified as such.
 - If the vulnerability relates to a specific code location (e.g. SAST), then open an MR with comments at each FP location that contain a link to the FP documentation.
 - Dismiss vulnerability in the GitLab UI with a comment that contains:
   - A link to the FP documentation.
@@ -296,7 +296,7 @@ withhold updates to the dependency until the problems have been patched.
 
 #### Go security fixes
 
-At times we will need to update our analyzers because of security updates to golang itself. In this situation, we follow the [established release process](https://about.gitlab.com/handbook/engineering/development/secure/release_process.html#security-fixes-of-go).
+At times we will need to update our analyzers because of security updates to golang itself. In this situation, we follow the [established release process](/handbook/engineering/development/sec/secure/release_process.html#security-and-build-fixes-of-go).
 
 #### Testing and validation
 

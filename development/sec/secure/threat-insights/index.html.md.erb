@@ -59,13 +59,53 @@ Additional information about how we operate can be found on the [Protect Plannin
 * [Threat Insights Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1420734?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Athreat%20insights)
    * Milestone-centric board primarily used by product management to gauge work in current and upcoming milestones.
 
+## Quality
+
+### How to classify MRs which need to run Package and QA?
+
+It is advisable to manually trigger the `Package and QA` downstream [E2E](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/) job in an MR and review the results when there are changes in:
+   - GraphQL (API response, query parameters, schema etc)
+   - Gemfile (version changes, adding/removing gems)
+   - Vue files which contain "data-qa-selector" attribute because these are used in identifying UI elements in E2E tests
+   - Database schema/query changes
+   - Any frontend changes which directly impact vulnerability report page, MR security widget, pipeline security tab, security policies, configuration, license compliance page
+
+To manually trigger the QA job:
+1. Navigate to the pipelines tab of the MR. 
+2. Click the the `>` arrow on the right of the `Stages` and click the `package-and-qa` item.
+
+It's advisable to run the QA job on the latest pipeline at least once during the MR review cycle.
+
 ## Monitoring
 
 - [Stage Group dashboad on Grafana](https://dashboards.gitlab.net/d/stage-groups-threat_insights/stage-groups-group-dashboard-secure-threat-insights?orgId=1)
 
+## Largest Contentful Paint (LCP) 
+
+As part of FY22-Q1 OKRs, we've started tracking and monitoring the Largest Contentful Paint for our web pages. The results can be viewed on [this Grafana dashboard](https://dashboards.gitlab.net/d/sftijGFMz/sitespeed-lcp-leaderboard?from=now-90d&orgId=1&to=now&refresh=30s&var-namespace=sitespeed_io&var-path=desktop&var-domains=gitlab_com&var-pages=Secure_Instance_Dashboard_Settings&var-pages=Secure_Instance_Security_Dashboard&var-pages=Secure_Instance_Vulnerability_Report&var-pages=Secure_Group_Security_Dashboard&var-pages=Secure_Group_Vulnerability_Report&var-pages=Secure_Project_Security_Dashboard&var-pages=Secure_Project_Vulnerability_Report&var-pages=Secure_Standalone_Vulnerability&var-browser=chrome&var-connectivity=cable&var-function=median).
+
+## Contributing
+
+### Local testing of licensed features
+When a feature needs to check the current license tier, it's important to make sure this also works on GitLab.com.
+
+To emulate this locally, follow these steps:
+
+1. Export an environment variable: `export GITLAB_SIMULATE_SAAS=1`[^1]
+1. Within the same shell session run `gdk restart`
+1. Admin > Settings > General > "Account and limit", enable "Allow use of licensed EE features"
+
+See the [related handbook entry](https://docs.gitlab.com/ee/development/ee_features.html#act-as-saas) for more details.
+
+### Cross-stack collaboration
+We encourage frontend engineers to contribute to the backend and vice versa. In such cases we should work closely with a domain expert from within our group
+and also keep the initial review internal. 
+
+This will help ensure that the changes follow best practice, are well tested, have no unintended side effects, and help the team be across any changes that go into the Threat Insights codebase.
+
 ### Community Contributions
 The Threat Insights grop welcomes community contributions. Any community contribution should get prompt feedback from one of the Threat Insights engineers. All engineers on the team are responsible for working with community contributions. If a team member does not have time to review a community contribution, please tag the Engineering Manager, so that they can assign the community contribution to another team member.
 
-### Largest Contentful Paint (LCP) 
+## Footnotes
 
-As part of FY22-Q1 OKRs, we've started tracking and monitoring the Largest Contentful Paint for our web pages. The results can be viewed on [this Grafana dashboard](https://dashboards.gitlab.net/d/sftijGFMz/sitespeed-lcp-leaderboard?from=now-90d&orgId=1&to=now&refresh=30s&var-namespace=sitespeed_io&var-path=desktop&var-domains=gitlab_com&var-pages=Secure_Instance_Dashboard_Settings&var-pages=Secure_Instance_Security_Dashboard&var-pages=Secure_Instance_Vulnerability_Report&var-pages=Secure_Group_Security_Dashboard&var-pages=Secure_Group_Vulnerability_Report&var-pages=Secure_Project_Security_Dashboard&var-pages=Secure_Project_Vulnerability_Report&var-pages=Secure_Standalone_Vulnerability&var-browser=chrome&var-connectivity=cable&var-function=median).
+[^1]: There are many ways to pass an environment variable to your local GitLab instance. For example, you can create a `env.runit` file in the root of your GDK with the above snippet.

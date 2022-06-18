@@ -12,7 +12,7 @@ description: "The Product Intelligence group work on feature enhancements and im
 
 ## Vision
 
-The Product Intelligence Group is part of the [Analytics section](/handbook/engineering/development/analytics/). Our group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. To do this, we build data collection and analytics tools within the GitLab product in a privacy-focused manner. Insights generated from Product Intelligence enable us to identify the best places to invest people and resources, what product categories mature faster, where our user experience can be improved, and how product changes impact the business. You can learn more about what we're building next on the [Product Intelligence Direction page](/direction/product-intelligence/).
+The Product Intelligence Group is part of the [Analytics section](/handbook/engineering/product/categories/analytics/). Our group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. To do this, we build data collection and analytics tools within the GitLab product in a privacy-focused manner. Insights generated from Product Intelligence enable us to identify the best places to invest people and resources, what product categories mature faster, where our user experience can be improved, and how product changes impact the business. You can learn more about what we're building next on the [Product Intelligence Direction page](/direction/product-intelligence/).
 
 
 How we work:
@@ -35,7 +35,6 @@ Every two weeks Product Intelligence team holds open office hours on Zoom for an
 
 |Date|Time UTC|
 |---|---|
-|2022-05-26| 8:00 UTC|
 |2022-06-02| 15:00 UTC|
 |2022-06-09| 8:00 UTC|
 |2022-06-16| 15:00 UTC|
@@ -72,6 +71,13 @@ Our team uses a hybrid of Scrum for our project management process. This process
 - We prioritize and estimate all issues we work on.
 - We do weekly refinement to ensure our issue board is always kept up to date.
 - We do monthly milestone planning to prepare for our upcoming milestone.
+
+## Projects
+
+1. GitLab [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) and [Snowplow](https://docs.gitlab.com/ee/development/snowplow/).
+2. [Metrics Dictionary](https://gitlab.com/gitlab-org/growth/product-intelligence/metric-dictionary)
+3. [Snowplow Pseudonymization](https://gitlab.com/gitlab-org/growth/product-intelligence/snowplow-pseudonymization)
+4. [Snowplow URL Pseudonymizer](https://gitlab.com/gitlab-org/growth/product-intelligence/snowplow-url-pseudonymizer)
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Product Intelligence" } %>
 
@@ -371,6 +377,14 @@ In this example, the current milestone capacity is 31 weights.
 
 A milestone commitment is a list of issues our team aims to complete in the milestone. The product team follows our GitLab principle of [planning ambitiously](https://about.gitlab.com/handbook/product/product-principles/#how-this-impacts-planning) and therefore expect that we won't always be able to deliver everything that we wanted in every milestone. After issues are broken down, estimated, and prioritized, the product manager will apply the `~Deliverable` label to applicable issues. Issues marked with the `~Deliverable` label represent the commitment we are intending to ship in that milestone.
 
+#### Work Type Classification
+
+Per the [Next Prioritization](https://about.gitlab.com/company/team/structure/working-groups/next-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](https://about.gitlab.com/handbook/engineering/development/analytics/product-intelligence/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](https://about.gitlab.com/company/team/structure/working-groups/next-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
+
+##### Clarifying Maintenance vs. Feature Work
+
+In Product Intelligence, determining if work is applicable to ~type::maintenance or ~type::feature is not readily apparent. As a guide, we denote work which benefits the Product Intelligence team and technical processes as ~type::maintenance whereas work which benefits GitLab customers or team members is considered ~type::feature.
+
 ## Epics and issues
 
 To help our team be [efficient](/handbook/values/#efficiency), we explicitly define how our team uses epics and issues.
@@ -449,6 +463,7 @@ We use issue labels to keep us organized. Every issue has a set of required labe
 - [Type:](/handbook/engineering/metrics/#work-type-classification) ~"type::bug"
 
 
+
 ### Merge request labels
 
 MR labels can mirror issue labels (which is automatically done when created from an issue), but only certain labels are required for correctly [measuring engineering performance](#measuring-engineering-performance).
@@ -498,13 +513,13 @@ Answer by pointing to the appropriate handbook page or other GitLab team member 
 | May 23 - May 29 | `@michold` |
 | May 30 - Jun 5  | `@tvellishetty` |
 | Jun 6 -  Jun 12 | `alinamihaila` |
-| Jun 13 - Jun 19 | |
-| Jun 20 - Jun 26 | |
-| Jun 27 - Jul 3 | |
-| Jul 4 - Jul 10 | |
-| Jul 11 - Jul 17 | |
-| Jul 17 - Jul 24 | |
-| Jul 25 - Jul 31 | |
+| Jun 13 - Jun 19 | `@michold` |
+| Jun 20 - Jun 26 | `@pskorupa` |
+| Jun 27 - Jul 3 | `@mikolaj_wawrzyniak`|
+| Jul 4 - Jul 10 | `@carlocatimbang` |
+| Jul 11 - Jul 17 | `@nbelokolodov` |
+| Jul 17 - Jul 24 | `@michold` |
+| Jul 25 - Jul 31 | `@pskorupa` |
 
 ## Team Meetings
 
@@ -526,6 +541,31 @@ Our group holds synchronous meetings to gain additional clarity and alignment on
 * **Product Intelligence and Data Sync:** an optional weekly meeting for the Product Intelligence and Data teams to discuss cross-functional initiatives the teams are working on.
 * **Product Intelligence Team Social:** an optional bi-weekly call for our team to hang out and socialize.
 
+### Knowledge sharing
+
+We like to share knowledge and learn! If your group would like someone from the Product Intelligence group to attend a sync call and provide a brief overview of our responsibilities and scope, please open an issue and apply the `~group::product intelligence` label ([example issue](https://gitlab.com/gitlab-org/product-intelligence/-/issues/547)). 
+
+In the same spirit, we want to learn more about the different teams at GitLab. We have an ambitious goal of hosting a guest speaker once monthly in our team meeting for a 15-30 minute session (whatever works for you). 
+
+If you'd like to participate in sharing information with our team, please sign up in the table below. 
+
+|Month|Team|Presenter|Link(s) to existing documentation|
+|---|---|---|---|
+|June| | | |
+|July| | | |
+|August| | | |
+|September| | | |
+|October| | | |
+|November| | | |
+|December| | | |
+
+
+Here are some topics to help create your session material:
+
+1. Describe the team's mission/purpose. 
+2. What challenges does your team face?
+3. How do you measure success?
+
 ## Measuring Engineering Performance
 
 See the [Growth Section Metrics](/handbook/engineering/development/growth/#growth-metrics) as well as the
@@ -535,6 +575,14 @@ We recognize that just as [an issue may be broken down into multiple merge reque
 
 We aim for the current [development department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
 which is tracked using our [Growth Section Metrics](/handbook/engineering/development/growth/#growth-metrics).
+
+## Error budget
+
+We maintain [UsageData API endpoints](https://docs.gitlab.com/ee/development/service_ping/implement.html#usagedata-api) under the `service_ping` feature to track events, and because of this we must monitor our [budget spend](https://about.gitlab.com/handbook/engineering/error-budgets/).
+
+To investigate budget spend, see the [overview](https://dashboards.gitlab.net/d/stage-groups-product_intelligence/stage-groups-product-intelligence-group-dashboard?orgId=1) and [details](https://dashboards.gitlab.net/d/stage-groups-detail-product_intelligence/stage-groups-product-intelligence-group-error-budget-detail?orgId=1) Grafana dashboards for Product Intelligence. You can also check requests contributing to spending the budget in Kibana by filtering by the `service_ping` feature. An example Kibana view can be found [here](https://log.gprd.gitlab.net/goto/8e82ff10-ecb8-11ec-8656-f5f2137823ba).
+
+Note that the budget spend is calculated proportionally by requests failing apdex or failing with an error, and not by how much the target is exceeded. For example, if we had an endpoint with a set goal of 1s request duration, then bringing the request duration from 10s to 5s would not improve the budget.
 
 ## Product Intelligence dbt development process
 

@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Growth Sub-department
-description: "The Growth Sub-department consists of development teams building growth experiments and managing privacy focused product intelligence"
+description: "The Growth Sub-department consists of development teams working in the product delivering enhancements and running experiments"
 ---
 
 ## On this page
@@ -12,41 +12,18 @@ description: "The Growth Sub-department consists of development teams building g
 
 ## Vision
 
-Develop a respectful and privacy focused data collection framework, and an experimentation platform, that allow us to make informed product decisions and improve the customers experience, promote conversion, adoption of key stages, and increase our user base.
+Deliver enhancements through feature development and experiments that allow us to make informed product decisions and improve the customers experience, promote conversion and adoption of key stages.
 
 ## Mission
 
 The Growth sub-department consists of groups that eliminate barriers between our users and our product value.
 
-* [Product Intelligence](product-intelligence/)
-* [Experimentation](experimentation/)
-* [Adoption](adoption/)
-* [Conversion](conversion/)
-* [Expansion](expansion/)
+* [Acquisition](acquisition/)
+* [Activation](activation/)
 
-### Product Intelligence
+Growth teams contribute to a GitLab [experimentation](/handbook/engineering/development/growth/experimentation/) platform to make it easier to run experiments and make data driven product decisions on GitLab.com.
 
-**Deliver product intelligence data to improve the GitLab product**
-
-[Product Intelligence Group](/handbook/engineering/development/analytics/product-intelligence/): Product Intelligence focuses on providing GitLab's team with data-driven product insights to build a better GitLab. To do this, we build data collection and analytics tools within the GitLab product in a privacy-focused manner. Insights generated from Product Intelligence enables us to identify the best places to invest people and resources, what product categories mature faster, where our user experience can be improved, and how product changes impact the business. You can learn more about what we're building next on the [Product Intelligence Direction page](/direction/product-intelligence/).
-
-### Experimentation
-
-**Build an experimentation platform for GitLab to make it easier to run experiments and make data driven product decisions**
-
-[Experimentation](/handbook/engineering/development/growth/experimentation/): Experimentation focuses on providing GitLab's team with an experimentation platform to help build a better GitLab.
-
-### Adoption, Conversion, and Expansion
-
-**Drive value for the business and our users by improving trial to paid conversion, per-stage adoption, and wider usage of GitLab**
-
-We focus on validating ideas with data across the following four Groups:
-
-- [Adoption Group](/handbook/engineering/development/growth/adoption/)
-- [Conversion Group](/handbook/engineering/development/growth/conversion/)
-- [Expansion Group](/handbook/engineering/development/growth/expansion/)
-
-The Growth groups also provide development input into two Growth product areas of focus:
+Teams focus on validating ideas with data and provide development input into two Growth product areas of focus:
 
 - [Registration Flow](https://gitlab.com/gitlab-org/gitlab/-/issues/299983/)
 - [Continuous onboarding](https://gitlab.com/gitlab-org/gitlab/-/issues/323176)
@@ -54,54 +31,45 @@ The Growth groups also provide development input into two Growth product areas o
 We work on the issues prioritized by our product teams including running [experiments](/handbook/engineering/development/growth/experimentation/) on GitLab.com.
 More information on priorities can be found on the [Growth direction](/direction/growth/) page.
 
-Unlike most other teams in the engineering division the Growth sub-department has Fullstack Engineers.
+Growth sub-department teams have Fullstack Engineers.
 The reason for this is that the Growth sub-department has a need for both Frontend and Backend skill-sets,
 but as a small team, has optimized for team member efficiency to adopt the Fullstack role.
 
 Some useful links to see how and what we are working on include:
 
-- [Experimentation](experimentation/)
-- [GLEX](https://gitlab.com/gitlab-org/ruby/gems/gitlab-experiment)
 - [Growth direction](/direction/growth/)
 - [Growth group issues](https://gitlab.com/groups/gitlab-org/-/boards/1392106?&label_name%5B%5D=devops%3A%3Agrowth)
+- [Experimentation](experimentation/)
+- [GLEX](https://gitlab.com/gitlab-org/ruby/gems/gitlab-experiment)
 - [Experiment rollout](https://gitlab.com/groups/gitlab-org/-/boards/1352542?label_name[]=experiment-rollout)
 
 ## Who Are We?
 
 ### People leaders in development
 
-<%= shared_team_members(role_regexps: [/(Director of Engineering for Growth, Sec, and ModelOps|Senior Engineering Manager, Growth|Fullstack Engineering Manager, Growth:Conversion and Expansion|Fullstack Engineering Manager, Product Intelligence|Interim Fullstack Engineering Manager, Sec:Anti-Abuse and Growth:Adoption)/i]) %>
+<%= shared_team_members(role_regexps: [/(Director of Engineering for Growth, Sec, and ModelOps|Senior Engineering Manager, Anti-Abuse, Growth, Protect and Secure|Fullstack Engineering Manager, Growth)/i]) %>
 
 ### All Team Members
 
 The following people are permanent members of groups that belong to the Growth sub-department:
 
-#### Adoption
-<%= department_team(base_department: "Adoption Team") %>
+#### Acquisition
+<%= department_team(base_department: "Acquisition Team") %>
 
-#### Conversion
-<%= department_team(base_department: "Conversion Team") %>
-
-#### Expansion
-<%= department_team(base_department: "Expansion Team") %>
-
-#### Product intelligence
-
-<%= department_team(base_department: "Product Intelligence Team") %>
+#### Activation
+<%= department_team(base_department: "Activation Team") %>
 
 ### Business Continuity - Coverage and Escalation
 
-The following table shows who will provide cover if one or more of the Growth Engineering management team are unable to work for any reason.
+The following table shows who will provide cover if one or more of the Growth Sub-department management team are unable to work for any reason.
 
-| Team Member        | Covered by             | Escalation     |
-| -----              | -----                  | -----          |
-| Wayne Haber        | Christopher Lefelhocz  | Eric Johnson   |
-| Phil Calder        | Kamil Niechajewicz     | Wayne Haber    |
-| Alina Mihaila      | Kamil Niechajewicz     | Phil Calder    |
-| Kamil Niechajewicz | Jay Swain              | Phil Calder    |
-| Jay Swain          | Phil Calder            | Wayne Haber    |
+| Team Member        | Covered by            | Escalation            |
+| -----              | -----                 | -----                 |
+| Wayne Haber        | Phil Calder           | Christopher Lefelhocz |
+| Phil Calder        | Kamil Niechajewicz    | Wayne Haber           |
+| Kamil Niechajewicz | Phil Calder           | Wayne Haber           |
 
-If an issue arises  - such as a production incident or feature change lock - that a team member needs management support with when their direct manager is not online, the team member should reach out to any Growth Engineering Manager by mentioning in `#sd_growth_engineering`. The Growth manager can help the team member follow the process and co-ordinate to ensure the team member has the necessary support.
+If an issue arises - such as a production incident or feature change lock - that a team member needs management support with when their direct manager is not online, the team member should reach out to any Growth Engineering Manager by mentioning in `#sd_growth_engineering`. The Growth manager can help the team member follow the process and co-ordinate to ensure the team member has the necessary support.
 
 If an Engineer is unavailable the Engineering Manager will reassign open issues and merge requests to another engineer, preferably in the same [group](#all-team-members).
 
@@ -112,60 +80,50 @@ as well as a general guide to Growth Engineering continuity in the event of one 
 
 ## Counterparts
 
-We work closely with the [Data Team](/handbook/business-ops/data-team/) along with our [Product Team](/handbook/product/categories/#growth-stage)
-counterparts to design and implement experiments that measure the impact of changes to our messaging, UX, and overall experience of using GitLab.
+We work closely with our [Product Team](/handbook/product/categories/#growth-stage) counterparts to design and implement
+features and experiments that measure the impact of changes to our messaging, UX, and overall experience of using GitLab.
 
 ### Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
 <%=
-role_regexp = /[,&] (Growth|Product Intelligence)/
+role_regexp = /[,&] (Growth)/
 direct_manager_role = 'Director of Engineering for Growth, Sec, and ModelOps'
 other_manager_roles = [
-  'Acting Fullstack Engineering Manager, Product Intelligence',
-  'Fullstack Engineering Manager, Growth:Conversion and Expansion',
-  'Interim Fullstack Engineering Manager, Sec:Anti-Abuse and Growth:Adoption',
-  'Senior Engineering Manager, Growth'
+  'Fullstack Engineering Manager, Growth:Acquisition and Activation',
+  'Senior Engineering Manager, Anti-Abuse, Growth, Protect and Secure'
 ]
 stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
 %>
 
 ## How We Work
 
-The Growth sub-department uses the `~"devops::growth"` label and the following groups for tracking merge request rate and ownership of issues and merge requests.
-
-| Group name                                 | Group label                   |
-| ----------                                 | -----------                   |
-| [Product Intelligence](product-intelligence/)    | `~"group::product intelligence"` |
-| [Adoption](adoption/)                      | `~"group::adoption"`          |
-| [Conversion](conversion/)                  | `~"group::conversion"`        |
-| [Expansion](expansion/)                    | `~"group::expansion"`         |
-
-### Product Development Flow
-
 Our team follows the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) utilizing all labels from `~workflow::start` to `~workflow::verification`.
 
 We adhere to the **Completion Criteria** and **Who Transitions Out** outlined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) to progress issues from one stage to the next.
 
-### Workflow Boards
+### Labels and Workflow Boards
 
 We use workflow boards to track issue progress throughout a milestone. Workflow boards should be viewed at the highest group level for visibility into all nested projects in a group.
 
-There are three GitLab groups we use:
-- The [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) group includes the [gitlab](https://gitlab.com/gitlab-org/gitlab), [customers-gitlab-com](https://gitlab.com/gitlab-org/customers-gitlab-com), and [license-gitlab-com](https://gitlab.com/gitlab-org/license-gitlab-com) projects.
-- The [gitlab.com/gitlab-com](https://gitlab.com/gitlab-com/) group includes the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project.
-- The [gitlab.com/gitlab-services](https://gitlab.com/gitlab-services/) group includes the [version-gitlab-com](https://gitlab.com/gitlab-services/version-gitlab-com) project.
+The Growth sub-department uses the `~"devops::growth"` label and the following groups for tracking merge request rate and ownership of issues and merge requests.
 
-| gitlab-org | gitlab-com | gitlab-services | all groups |
-| ------ | ------ | ------ | ------ |
-| [Growth Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [Growth Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) |
-| [Conversion Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [Conversion Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) |
-| [Expansion Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [Expansion Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) |
-| [Adoption Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [Adoption Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) |
-| [Product Intelligence Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [Product Intelligence Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) |
-| [Experiment tracking](https://gitlab.com/groups/gitlab-org/-/boards/1352542) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1542208) | - | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=experiment-rollout) |
-| [Feature flags](https://gitlab.com/groups/gitlab-org/-/boards/1725470?&label_name[]=devops%3A%3Agrowth&label_name[]=feature%20flag) | - | - | - |
+| Name          | Label                   | gitlab-org | all groups |
+| ----------    | -----------             | ------     | ------     |
+| Growth        | `~"devops::growth"`     | [Growth Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) |
+| Acquisition   | `~"group::acquisition"` | [Acquisition Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) |
+| Activation    | `~"group::activation"`  | [Activation Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) |
+| Experiments   | `~"experiment-rollout"` | [Experiment tracking](https://gitlab.com/groups/gitlab-org/-/boards/1352542) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=experiment-rollout) |
+| Feature Flags | `~"feature flag"`       | [Feature flags](https://gitlab.com/groups/gitlab-org/-/boards/1725470?&label_name[]=devops%3A%3Agrowth&label_name[]=feature%20flag) |  |
+
+Growth teams work across the GitLab codebase on multiple groups and projects including:
+- The [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) group
+- [gitlab](https://gitlab.com/gitlab-org/gitlab)
+- [GLEX](https://gitlab.com/gitlab-org/ruby/gems/gitlab-experiment)
+- [customers-gitlab-com](https://gitlab.com/gitlab-org/customers-gitlab-com)
+- The [gitlab.com/gitlab-com](https://gitlab.com/gitlab-com/) group
+- [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com)
 
 ### Estimation
 
@@ -185,22 +143,6 @@ In planning and estimation, we value [velocity over predictability](/handbook/en
 - If an issue has many unknowns where it's unclear if it's a 1 or a 5, we will be cautious and estimate high (5).
 - If an issue has many unknowns, we can break it into two issues. The first issue is for research, also referred to as a [Spike](https://en.wikipedia.org/wiki/Spike_(software_development)), where we de-risk the unknowns and explore potential solutions. The second issue is for the implementation.
 - If an initial estimate is incorrect and needs to be adjusted, we revise the estimate immediately and inform the Product Manager. The Product Manager and team will decide if a milestone commitment needs to be adjusted.
-
-### Product Development Timeline
-
-Our work is planned and delivered on a monthly cycle using [milestones](https://docs.gitlab.com/ee/user/project/milestones/). Our team follows the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) utilizing all dates including from `M-1, 4th: Draft of the issues` to `M+1, 4th: Public Retrospective`.
-
-### Milestone Boards
-
-We use milestone boards for high level planning and roadmapping across several milestones.
-
-| gitlab-org | gitlab-com | gitlab-services |
-| ------ | ------ | ------ |
-| [Growth Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [Growth Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) |
-| [Conversion Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [Conversion Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) |
-| [Expansion Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [Expansion Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) |
-| [Adoption Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [Adoption Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) |
-| [Product Intelligence Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [Product Intelligence Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) |
 
 ### UX
 Info on the Growth UX team and how they work can be found on the [Product/Growth page](/handbook/product/growth/#ux).
@@ -229,7 +171,7 @@ To support [Iteration](/handbook/values/#iteration) Growth engineering:
 
 #### Status Updates
 
-The DRI (assignee) of an issue is encouraged to add an async issue update, particularly for issues labelled `~Deliverable` or `~Growth-Deliverable`.
+The DRI (assignee) of an issue is encouraged to add an async issue update, particularly for issues labelled `~Deliverable` or `~Stretch`.
 These updates can be added anytime and are useful to highlight when an issue is on track, blocked, or may need to be re-prioritized.
 This helps us maintain [transparency](/handbook/values/#transparency) and our [bias towards asynchronous communication](/handbook/values/#bias-towards-asynchronous-communication).
 
@@ -261,29 +203,9 @@ to connect with growth team members and find out more about running experiments 
 
 ### Growth metrics
 
-The Growth sub-department experiment teams track the number of closed "growth deliverable" issues prioritized by our product managers using the [Growth-Deliverable definition](/handbook/product/growth/#growth-deliverables).
-This metric acts as a target for deliverables based on number of engineers available to the four Growth experiment teams.
+The Growth sub-department tracks number of experiments deployed as a development metric. This is not an individual or team performance indicator. This allows teams to track their technical debt.
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="375" src="<%= signed_periscope_url(chart: 12514149, dashboard: 799224, embed: 'v2') %>">
-  </div>
-<% else %>
-You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.
-<% end %>
-
-The following view shows the breakdown of closed Growth issues by type. This highlights the percentage of issues that relate to experiments or features.
-
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="375" src="<%= signed_periscope_url(chart: 12917708, dashboard: 799224, embed: 'v2') %>">
-  </div>
-<% else %>
-You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.
-<% end %>
-
-The Growth sub-department tracks number of experiments per engineer as a development metric.
-This counts new experiments added to the codebase using [experiment feature flags](https://docs.gitlab.com/ee/development/feature_flags/#experiment-type).
+New experiments added to the codebase using [experiment feature flags](https://docs.gitlab.com/ee/development/feature_flags/#experiment-type) are tracked until removal.
 Current experiments shows the total number of experiments in the codebase (pending, active, or concluded and ready to be removed).
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
@@ -294,38 +216,11 @@ Current experiments shows the total number of experiments in the codebase (pendi
 You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.
 <% end %>
 
-#### Engineering Metrics
+#### Growth Section Metrics
 
-* [Growth Section engineering metrics]
+Complete list of [Growth Section engineering metrics].
 
-## Growth Sub-department Engineering Weekly
-
-Every week, engineers in the Growth sub-department meet to discuss topics related to growth engineering.
-Discussion topics include A/B testing, experimentation, instrumentation, product intelligence and data concerns, and changes at GitLab affecting engineering.
-Engineers in the Growth sub-department are encouraged to bring discussion topics to the meeting and add them to the [agenda](https://docs.google.com/document/d/1VMj16-tvJg4m26y6q7A1jSdBD895ImFM2fbXvFXF4yM/edit?usp=sharing).
-
-All GitLab team members are welcome to attend.
-
-To get the most time zone coverage, these meetings alternate fortnightly between:
-* Tuesday 20:00 UTC (13:00 PDT) for AMER
-* Wednesday 9:00 UTC (10:00 CET) for EMEA
-* Ad-hoc meetings are also arranged at 8:00 UTC
-
-Team members - including those in different areas of APAC - should be able to attend at least one of the three meetings.
-
-Team members are encouraged to contribute to the agenda async and attend the meeting that matches their time zone.
-
-## Technical Architecture
-
-### Clickhouse Datastore
-
-The Growth sub-department teams use data to help make product decisions.
-Central to that is the Product Intelligence group that provides the framework and tooling for data collection.
-As part of this, we look at how we can leverage different technologies to improve these services for GitLab use, and for our customers.
-We will be looking at [how can we use Clickhouse in GitLab](https://gitlab.com/gitlab-org/gitlab/-/issues/352987), including whether this is an option for:
-
-1. Recording snowplow events in self managed instances
-1. Using Clickhouse for counter-based metrics in SaaS
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_section_dashboard.erb", locals: { filter_value: "growth" } %>
 
 ## Team Days
 
@@ -343,8 +238,6 @@ On occasion we hold virtual team days or meetings to take a break and participat
 * [Growth sub-department]
 * [Growth workflow board]
 * `#s_growth` in [Slack](https://gitlab.slack.com/archives/s_growth) (GitLab internal)
-* [Product Intelligence issues board]
-* `#g_product_intelligence` in [Slack](https://gitlab.slack.com/archives/g_product_intelligence) (GitLab internal)
 * [Growth technical debt status](https://app.periscopedata.com/app/gitlab/618368/Growth-technical-debt-status) (GitLab internal)
 * [Growth opportunities]
 * [Growth meetings and agendas] (GitLab internal)
@@ -359,4 +252,3 @@ On occasion we hold virtual team days or meetings to take a break and participat
 [Growth meetings and agendas]: https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Weekly%22
 [Growth section engineering metrics]: /handbook/engineering/metrics/growth/
 [Growth OKRs]: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Growth%20Sub-Department&label_name[]=OKR
-[Product Intelligence issues board]: https://gitlab.com/gitlab-org/product-intelligence/-/issues

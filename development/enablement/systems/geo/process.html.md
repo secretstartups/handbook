@@ -261,15 +261,11 @@ Expectations:
 
 ## Retrospectives
 
-We do not have pre-defined dates for retrospectives. When there is something to be discussed, an issue should
-be created in the [retrospectives project](https://gitlab.com/gl-retrospectives/geo/). This way we can address any
-issues as soon as they arise.
+Retrospectives are a [crucial component](https://www.retrium.com/blog/i-was-wrong-retrospectives-are-not-the-most-critical-part-of-agile-but-they-are-close) of the agile methodology. However, having a retro should not be about checking-off a mark in our agile todo list. The purpose of the retro is to learn and then take action that leads to a better place. We learn from our past actions and results and we use that knowledge to improve our future execution. 
 
-Celebrating successes becomes harder with this method, but please try to mention achievements in Slack as they occur.
+At GitLab there is a general guideline to conduct [group retrospectives](/handbook/engineering/management/group-retrospectives/) and a process automation to run retrospectives [asynchronously](https://gitlab.com/gitlab-org/async-retrospectives). The Geo team however is working with a new process that combines elements of asynchronous work with the benefits of synchronous conversation and the increased level of engagement that these types of interactions bring.
 
-For reference, we previously followed the milestones to have a retrospective after each one was closed. There were a few challenges
-with this method, and we agreed to change to the new method when we moved to Kanban. This was discussed in [an issue about
-process change](https://gitlab.com/geo-team/discussions/issues/34#note_192206753).
+The details of this process is documented in our [Geo Team Retrospectives](./retrospectives.html) page. 
 
 ## FAQ
 

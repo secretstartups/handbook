@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Fulfillment Sub-department
-description: "The Fulfillment Sub-department is composed of development teams, Purchase, Provision, and Utilization, working on the infrastructure between the systems which affect the user purchasing process that support the GitLab DevOps Platform."
+description: "The Fulfillment Sub-department is composed of the Billing and Subscription Management, Fulfillment Platform, Provision, Purchase, and Utilization development teams working on the infrastructure between the systems which affect the user purchasing process that support the GitLab DevOps Platform."
 ---
 
 ## On this page
@@ -12,17 +12,17 @@ description: "The Fulfillment Sub-department is composed of development teams, P
 
 ## Vision
 
-A [high performing team](https://about.gitlab.com/handbook/leadership/build-high-performing-teams/) who provide our customers with a world-class buyer experience through the products we build. Our team strives to build an experience that is delightful, performant, trustworthy, and reliable.
+A [high performing team](https://about.gitlab.com/handbook/leadership/build-high-performing-teams/) who provides our customers with a world-class buyer experience through the products we build. Our team strives to build an experience that is delightful, performant, trustworthy, and reliable.
 
 ## Mission
 
 Fulfillment focuses on improving our capabilities and metrics in the following areas:
 
 * Fulfillment: [Direction](https://about.gitlab.com/direction/fulfillment), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#group-responsibilities), [Fulfillment Development Team](/handbook/engineering/development/fulfillment/)
-* Purchase: [Direction](https://about.gitlab.com/direction/fulfillment#purchase), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#purchase), [Backend Team](/handbook/engineering/development/fulfillment/be-purchase/), [Frontend Team](/handbook/engineering/development/fulfillment/fe-purchase-provision-utilization/)
-* Provision: [Direction](https://about.gitlab.com/direction/fulfillment#provision), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#provision), [Fullstack Team](/handbook/engineering/development/fulfillment/provision/)
-* Utilization: [Direction](https://about.gitlab.com/direction/fulfillment#utilization), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#utilization), [Team](/handbook/engineering/development/fulfillment/utilization/)
-* Fulfillment Platform: [Direction](https://about.gitlab.com/direction/fulfillment#fulfillment-platform), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#fulfillment-platform), [Team](/handbook/engineering/development/fulfillment/fulfillment-platform/)
+* Fulfillment Platform: [Team](/handbook/engineering/development/fulfillment/fulfillment-platform/)
+* Provision: [Direction](https://about.gitlab.com/direction/fulfillment#provision), [Fullstack Team](/handbook/engineering/development/fulfillment/provision/)
+* Purchase: [Backend Team](/handbook/engineering/development/fulfillment/be-purchase/), [Frontend Team](/handbook/engineering/development/fulfillment/fe-purchase-provision-utilization/)
+* Utilization: [Team](/handbook/engineering/development/fulfillment/utilization/)
 
 ## Direction
 
@@ -39,6 +39,14 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 <% fulfillment_em = %w[jeromezng jameslopez csouthard rhardarson] %>
 <% fulfillment_em_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_em.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: fulfillment_em_members }) %>
+
+### Fulfillment:Billing and Subscription Management BE Team
+
+<%= department_team(base_department: "Fulfillment:Billing and Subscription Management BE Team") %>
+
+### Fulfillment:Billing and Subscription Management FE Team
+
+<%= department_team(base_department: "Fulfillment:Billing and Subscription Management FE Team") %>
 
 ### Fulfillment:Purchase BE Team
 
@@ -172,15 +180,17 @@ On or around the `26th`: Product meets with Engineering Managers for a prelimina
 
 **Planning Issues**
 
-- [Purchase](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Planning%20Issue&label_name[]=Category%3APurchase)
+- [Billing and Subscription Management](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Abilling%20and%20subscription%20management)
+- [Fulfillment Platform](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Afulfillment%20platform)
 - [Provision](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Planning%20Issue&label_name[]=Category%3AProvision)
+- [Purchase](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Apurchase)
 - [Utilization](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Category%3AUtilization&label_name[]=Planning%20Issue)
 
 ### Intake Request
 
 To request work to be added to the [Fulfillment Roadmap](https://about.gitlab.com/direction/fulfillment/#roadmap), please open an issue by following [this link](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new?issue&issuable_template=intake) and tag one of the Fulfillment Product Managers.
 
-A Fulillment Product Manager will be assigned to review the request and start evaluating the scope and impact. This may take some time depending on team capacity. Once evaluated, the PM will:
+A Fulfillment Product Manager will be assigned to review the request and start evaluating the scope and impact. This may take some time depending on team capacity. Once evaluated, the PM will:
 1. Create a new Epic, capturing relevant details from the intake issue.
 1. Add this new Epic to the Fulfillment roadmap.
 1. Update the intake issue description with a link to the new epic.
@@ -204,23 +214,27 @@ Each milestone typically follows the following allocation:
 
 To prioritize the initiatives on our [Roadmap](/direction/fulfillment/#roadmap), we follow the process detailed in Fulfillment's [roadmap initatives prioritization](/direction/fulfillment/#roadmap-initiatives-prioritization). Initiatives are then stack-ranked to determine their priority on our [Roadmap](https://about.gitlab.com/direction/fulfillment/#roadmap).
 
-#### Self-Service Purchase team dashboard
+### Fulfillment stage dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Self-Service Purchase" } %>
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_section_dashboard.erb", locals: { filter_value: "fulfillment" } %>
 
-#### Billing and Subscription Management team dashboard
+### Self-Service Purchase team dashboards
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "purchase" } %>
+
+### Billing and Subscription Management team dashboards
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Billing and Subscription Management" } %>
 
-#### Provision team dashboard
+### Provision team dashboards
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Provision" } %>
 
-#### Utilization team dashboard
+### Utilization team dashboards
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Utilization" } %>
 
-#### Fulfillment Platform team dashboard
+### Fulfillment Platform team dashboards
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Fulfillment Platform" } %>
 
@@ -250,51 +264,40 @@ The following is a guiding mental framework for engineers to consider when contr
 ```
 ### Refinement / Weighting
 
-**Ready for Development**: Yes/No
-
 <!--
-Yes/No
+Ready for development means replying yes to the following questions:
 
-Is this issue sufficiently small enough, or could it be broken into smaller issues? If so, recommend how the issue could be broken up.
+- Is this issue sufficiently small enough? If not, break it into smaller issues
+- Is it assigned to the correct domain (e.g. frontend, backend)? If not, break it into two issues for the respective domains
+– Is the issue clear and easy to understand? If not, try asking further clarification questions and update the description once they are received
 
-Is the issue clear and easy to understand?
+If more than 2 MRs are needed, consider adding a table like the following to the description (e.g. under `Implementation plan`).
+
+| Description | MR |
+|-|-|
+|||
+
+It will help track the status.
 -->
 
-**Weight:** X
+- [ ] Ready for development
+- [ ] Weight is assigned
+- [ ] Number of MRs listed
+- [ ] Needs testing considerations
+- [ ] Needs documentation updates
 
 **Reasoning:**
 
 <!--
-Add some initial thoughts on how you might breakdown this issue. A bulleted list is fine.
+Add some initial thoughts on how you might break down this issue. A bulleted list is fine.
 
 This will likely require the code changes similar to the following:
 
-- replace the hexdriver with a sonic screwdriver
+- replace the hex driver with a sonic screwdriver
 - rewrite backups to magnetic tape
 - send up semaphore flags to warn others
 
-Links to previous example. Discussions on prior art. Notice examples of the simplicity/complexity in the proposed designs.
--->
-
-
-**Iteration MR/Issues Count:** Y
-
-Are there any opportunities to split the issue into smaller issues?
-<!--
-- 1 MR to update the driver worker
-- 1 MR to update docs regarding mag tape backups
-
-Let me draw your attention to the potential caveats.
--->
-
-**Testing considerations:**
-<!--
-- Ensure that rotation speed of sonic screwdriver doesn't exceed rotational limits
--->
-
-**Documentation required:** Y/N
-<!--
-- Do we need to add or change documentation for the issue?
+Links to previous examples. Discussions on prior art. Notice examples of the simplicity/complexity in the proposed designs.
 -->
 ```
 
@@ -402,7 +405,35 @@ Here's an [example]([Fulfillment Demos](https://www.youtube.com/playlist?list=PL
 
 ### Quality
 
-GitLab's Quality is everyone's responsibility. The [SETs](/handbook/engineering/quality/#stable-counterparts) embedded within Fulfillment section follow the [Quality Engineering Departments's principles](https://about.gitlab.com/handbook/engineering/quality/#our-principles) primarily to ensure that everyone is aware of product quality.
+GitLab's Quality is everyone's responsibility. The [SETs](/handbook/engineering/quality/#stable-counterparts) embedded within Fulfillment section follow the [Quality Engineering Department's principles](https://about.gitlab.com/handbook/engineering/quality/#our-principles) primarily to ensure that everyone is aware of product quality.
+
+#### End-to-end tests - how, when and why to write them
+
+End-to-end tests (often referred to as e2e tests) cover full or partial flows that the end-user will go through. Detailed information on testing levels can be found [here](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html).
+
+Some examples of these flows:
+
+- Purchasing a SaaS subscription for a namespace on Gitlab.com.
+- Purchasing a new subscription for a self-managed Gitlab instance.
+
+Since these tests are not fast and more prone to being flaky, prioritization of what to cover with end-to-end tests and what to delegate to lower level tests must be considered.
+
+Fulfillment tests reside both in the [GitLab Project](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa/qa/specs/features/ee/browser_ui/11_fulfillment) and the [CustomersDot Project](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/main/qa), use the following guide to determine which project to use when writing the tests:
+
+- Choose CustomersDot if the test will require opening and performing actions in the CustomersDot portal, otherwise GitLab will be the correct project.
+- In the future, it is planned that CustomersDot will become just a backend service and UI end-to-end tests will reside only in GitLab.
+
+#### GitLab
+
+The GitLab end-to-end testing guide can be found [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/testing_guide/end_to_end/beginners_guide.md)
+
+Planned & automated Fulfillment test cases in the GitLab project can be found [here](https://gitlab.com/gitlab-org/gitlab/-/quality/test_cases?state=opened&sort=created_desc&page=1&label_name%5B%5D=devops%3A%3Afulfillment).
+
+#### CustomersDot
+
+The CustomersDot end-to-end beginners guide can be found [here](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/qa/doc/beginners_guide.md).
+
+Planned/automated test cases in the CustomersDot project can be found [here](https://gitlab.com/gitlab-org/customers-gitlab-com/-/quality/test_cases).
 
 ### Testing
 
@@ -464,19 +495,6 @@ If something goes wrong at the `Verification` stage, we could create an issue wi
 
 For MRs with significant changes, we should consider using [feature flags](https://gitlab.com/gitlab-org/customers-gitlab-com/#feature-flags-unleash) or create an issue with the `production::blocker` label to pause deployment and a allow for longer testing.
 
-#### Escalation process
-
-In most cases an MR should follow the standard process of review, maintainer review, merge, and deployment as outlined above. When production is broken:
-
-1. First determine whether the [Rapid Engineering Response](/handbook/engineering/workflow/#rapid-engineering-response) process can be followed. This will depend on availability and how critical the situation is.
-1. The three hour wait between Staging and Production auto deploy can be bypassed with a manual deployment by a Maintainer.
-1. When there are no project maintainers available ([CustomersDot](/handbook/engineering/projects/#customers-app)) an additional GitLab Team Member with Maintainer access can be asked to assist.
-
-In these cases please ensure:
-
-1. There is an issue describing the reasons for the escalation, as per the [Rapid Engineering Response](/handbook/engineering/workflow/#rapid-engineering-response). Consider '@'mentioning the relevant [Growth/Fulfillment teams](https://gitlab.com/gitlab-org/growth).
-1. The change is announced on the [#s_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) channel.
-
 #### Feature freeze
 
 The feature freeze for Fulfillment occurs at the same time as the rest of the company, normally around the 18th.
@@ -495,6 +513,27 @@ Any issues not merged on the current milestone post feature freeze, will need to
 On going [Fulfillment Platform](/handbook/engineering/development/fulfillment/fulfillment-platform/) work will provide greater observability to all of the Fulfillment systems. In the meantime, however, we have some tools like [CustomersDot health](https://customersdot.cloudwatch.net/) that post to [#s_fulfillment_status](https://gitlab.slack.com/archives/CL7SX4N86) in Slack. On occasion, there are reports of systemic critical trouble like a liveliness probe check failure, invalid SSL certificate, or other application errors. Look to the following sub-sections below for ways that you can contribute to error resolution.
 
 See this handbook page for more information on [GitLab Monitoring](https://about.gitlab.com/handbook/engineering/monitoring/) and [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/).
+
+#### Escalation process for incidents or outages
+
+Temporarily, while [pagerslack](https://gitlab.com/jameslopez/pagerslack) or [pagerduty](/handbook/on-call/#pagerduty) is not adopted in Fulfillment, the following process is in place:
+
+1. When an outage occurs, the [SRE on-call](https://about.gitlab.com/handbook/on-call/) is notified automatically. Incidents can also be [reported manually](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+2. Simultaneously to an outage, `#s_fulfillment_status` on Slack is notified and `@jameslopez` is paged on the phone
+3. When required, the SRE on-call or incident reporter can ping `@fulfillment-engineering` on Slack to notify and get help from the team
+
+#### Escalation process for urgent issues
+
+In most cases an MR should follow the standard process of review, maintainer review, merge, and deployment as outlined above. When production is broken:
+
+1. First determine whether the [Rapid Engineering Response](/handbook/engineering/workflow/#rapid-engineering-response) process should be followed. This will depend on availability and how critical the situation is.
+1. The three hour wait between Staging and Production auto deploy can be bypassed with a manual deployment by a Maintainer.
+1. When there are no project maintainers available ([CustomersDot](/handbook/engineering/projects/#customers-app)) an additional GitLab Team Member with Maintainer access can be asked to assist.
+
+In these cases please ensure:
+
+1. There is an issue describing the reasons for the escalation, as per the [Rapid Engineering Response](/handbook/engineering/workflow/#rapid-engineering-response). Consider '@'mentioning the relevant [Growth/Fulfillment teams](https://gitlab.com/gitlab-org/growth).
+1. The change is announced on the [#s_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) channel.
 
 #### Investigation
 

@@ -36,7 +36,21 @@ title: "Optimize Group"
 
 #### Planning
 
-<%= partial("handbook/engineering/development/dev/manage/planning.erb") %>
+We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline). While meeting this timeline is up to the discretion of individual groups, a typical planning cycle is suggested to look like:
+
+* By the 4th, Product should have created a planning issue for their group in the [Manage project](https://gitlab.com/gitlab-org/manage/issues) for the coming release.
+  * This issue should include a tentative plan for the release, along with links to boards that represent the proposed work for the milestone.
+  * Issues of particular significance to our stage's strategy should be marked with `direction`.
+* By the 12th, all issues proposed for the next release should be estimated with weights assigned by engineering (`workflow:ready for development`).
+  * To assist with capacity planning, we start with a capacity of 10 weight per engineer and deduct based on time off, team days, on-call schedules, or other activities. 
+* By the 15th, Product and Engineering will have agreed on the final list of issues for the next release, and the engineering manager will assign the ~Deliverable label to any committed work.
+  * A synchronous meeting to review the final release scope is recommended.
+  * Issues that we know will slip from the previous release should be reweighted for the remaining effort left and rescheduled to the next release.
+
+
+##### Deliverable and Stretch issues
+
+<%= partial("handbook/engineering/development/dev/manage/optimize/deliverables.erb") %>
 
 ##### Self assignment
 

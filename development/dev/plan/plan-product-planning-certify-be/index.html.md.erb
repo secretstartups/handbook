@@ -87,9 +87,8 @@ or ill-defined should be
 [returned to ~"workflow::planning breakdown" for further refinement][1].
 To avoid the disruption this introduces we try to reduce the number of times 
 it happens by planning more carefully. While it's not always possible, we aim 
-to identify complexity before the build phase. For this reason, we assign
-a backend [DRI][dri] to help with each upcoming deliverable during design and
-validation phases.
+to identify complexity before the build phase, such as by assigning an engineering 
+[DRI][dri] during the design and validation phase.
 
 However, sometimes complexity can't be accurately estimated until development 
 work starts. If you anticipate this during planning, consider creating a spike to produce a
@@ -101,16 +100,15 @@ steps:
 1. Add the ~spike, ~backend, and corresponding stage/group labels;
 1. List the unknowns and questions to be answered;
 1. List decisions, architectural or otherwise, that need to be made;
-1. Identify counterparts you'll need help from (e.g. Frontend or UX) and establish a DRI;
+1. Identify specializations required to complete the spike (e.g. Backend, Frontend and UX) assign a DRI from each;
 1. Mark the issue as blocking the original, and
 1. Label with ~"workflow::ready for development" and assign to the current 
-milestone for someone to pick up.
+milestone.
 
 The deliverable is a design document that answers the questions set out in the
 issue description. This can simply be the issue itself, containing a summary
 of the discussion in the description, answers to the questions and links to
 any PoC MRs produced. 
-
 
 [1]: https://about.gitlab.com/handbook/product-development-flow/#build-phase-2-develop--test
 [dri]: https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/
@@ -124,9 +122,12 @@ any PoC MRs produced.
 As a team we often work on features that require close collaboration. We've identified a list of techniques and characteristics that help projects like this proceed at a pace that is sustainable, predictable, and challenging, yet rewarding. An example of such feature was [Epic Linking](https://gitlab.com/groups/gitlab-org/-/epics/7546).
 
 1. Feature is designed and broken down in advance of milestone start, including a [spike](#consider-a-spike-andor-a-design-document) if appropriate.
+  1. Participants in the spike take part in delivery of the feature.
+  1. Prior to closing the description is updated with Acceptance Criteria, with sign-off by each assignee + PM. This is what will be delivered.
+  1. For efforts that are part of larger initiatives (like [Work Items](https://docs.gitlab.com/ee/development/work_items.html)), architectural documents are kept up to date with larger decisions; for example, around API design or functionality.
 1. Requirements are well-defined with a goal that is achievable within a single milestone and provides business value. For larger features, work may be spread out over several milestones. 
 1. Items that must be delivered in separate milestones are identified and prioritized first; such as migrations, security issues, and other [multi-version compatibility](https://docs.gitlab.com/ee/development/multi_version_compatibility.html) issues.
-1. Participants in the spike take part in delivery of the feature.
+1. The stable counterpart from documentation is included at the start of the spike.
 1. Reviews are kept inside the team where possible to ensure domain expertise, capacity and a low level of context switching.
 1. EM and PM work to remove or limit unneccessary/distracting work. 
 1. Feature is set as primary deliverable.
@@ -210,6 +211,10 @@ means the issue should be better specified.
 [workflow columns]: /handbook/product-development-flow/
 [Build Board]: https://gitlab.com/groups/gitlab-org/-/boards/1569369?not[milestone_title]=Backlog
 [#s_plan]: https://gitlab.slack.com/archives/s_plan
+
+### Direction Items
+
+Items that are customer-facing deliverables and high impact are labeled with ~"direction". We strive to have these items in production by two days before the release cut-off to give ample time for validation. 
 
 #### High Severity Issues
 
