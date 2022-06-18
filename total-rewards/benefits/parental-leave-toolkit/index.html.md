@@ -74,18 +74,22 @@ Visit the [GitLab Team page](/company/team/) and search for 'Parental Leave Reen
 ### Adding Parental Leave Reentry Buddy to your GitLab Profile
 
 1. Find your entry in the [team.yml](/handbook/git-page-update/#11-add-yourself-to-the-team-page) file.
-1. Add `Parental Leave Reentry buddy` to the `departments` section in your entry (keeping your existing departments):
+2. Add `Parental Leave Reentry buddy` to the `departments` section in your entry (keeping your existing departments):
+   
    ```
-   departments:
-     - ...
-     - Parental Leave Reentry buddy
+    departments:
+      - ...
+      - Parental Leave Reentry buddy
    ```
-1. Add the following code above the `story` section in your entry:
+3. Add the following code above the `expertise` section in your entry:
+
    ```
-     expertise:  |
-                 <li><a href="/handbook/people-group/general-onboarding/parental-leave-buddy/">Parental Leave Reentry buddy</a></li>
+      expertise:  |
+                  <li><a href="/handbook/people-group/general-onboarding/parental-leave-buddy/">Parental Leave Reentry buddy</a></li>
    ```
-1. If you already have an `expertise` section, add the list item portion of the above code:
+
+4. If you already have an `expertise` section, add the list item portion of the above code:
+   
    ```
                  <li><a href="/handbook/people-group/general-onboarding/parental-leave-buddy/">Parental Leave Reentry buddy</a></li>
    ```
