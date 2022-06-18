@@ -106,6 +106,36 @@ All the requirements of a Business Systems Analyst, plus:
 * Ability and desire to grow and coach less tenured team-members
 
 
+### Staff Business Systems Analyst
+
+#### Job Grade
+
+The Senior Business Systems Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+All the responsibilities of a Sr Business Systems Analyst, plus:
+
+* Build Deep Relationships with Business Partners in Sales Operations, Billing, Finance, and Revenue.
+* Define and Build the function of Business Process Analysis within GitLab
+* Train and Educate other team members on the Business process
+* Work cross-functionally with business stakeholders to define measures for process efficiencies. (i.e. Reduce close time, reduce clicks in the quote to order process, drive automation in order to invoice, etc)
+* Own the delivery of key projects and programs that help the broader business drive efficiencies
+* Be a culture definer and evolver of GitLab Values
+
+
+#### Requirements
+All the requirements of a Sr Business Systems Analyst, plus:
+
+* Proven track record of improving operational efficiency
+* 10+ years experience, demonstrating consistent advancement or development, with at least half in related roles
+* Over three years in a high-growth technology company, working hands-on with our tech stack at our stage in operational maturity
+* Ability and desire to grow and coach less tenured team-members
+* Demonstrated subject matter expert and thought partner involved in technical/project decisions
+* Has demonstrated ability to work autonomously to develop or improve a business problem of reasonable scope which requires independent judgement in development and execution of the solution
+* Ability to collaborate and influence key stakeholders in an iterative environment
+* High level of business and technical acumen
+
+
 ### Director of Business Process Automation
 
 #### Job Grade
