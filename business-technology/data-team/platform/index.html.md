@@ -353,13 +353,11 @@ To use our credit consumption effectively, we try to minimize the amount of ware
 | `admin`              | This is for permission bot and other admin tasks                                                | 10                  |
 | `datasiren`          | This is used for the Data siren proces                                                          | 30                  |
 | `dev_x`              | This is used for development purposes, to be used when using the Snowflake UI and in CI-pipelines | 120               |
-| `fivetran_warehouse` | This is exclusively for Fivetran to use                                                         | 30                  |
 | `gainsight_xs`       | This is used for gainsight data pump                                                            | 30                  |
 | `gitlab_postgres`    | This is for extraction jobs that pull from GitLab internal Postgres databases                   | 10                  |
 | `grafana`            | This is exclusively for Grafana to use                                                          | 60                  |
 | `loading`            | This is for our Extract and Load jobs                                                           | 60                  |
 | `reporting`          | This is for the BI tool for querying. Note that Sisense enforces a 4 minute timeout.            | 30                  |
-| `stitch`             | This is exclusively for Stitch to use                                                           | 30                  |
 | `target_snowflake`   | This is for the Meltano team to test their Snowflake loader                                     | 5                   |
 | `transforming_xs`    | These are for production dbt jobs                                                               | 120                 |
 | `transforming_s`     | These are for production dbt jobs                                                               | 120                 |
