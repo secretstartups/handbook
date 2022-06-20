@@ -40,7 +40,7 @@ Please feel free to contribute to this page by opening a merge request.
 * When inviting me to a meeting, please make it clear in the invite or meeting agenda why my participation is important. This helps me manage my time appropriately among competing priorities.
 * Please try to send meeting invites 2+ days ahead of when you'd like to meet, unless we've agreed to otherwise. It helps me better plan my work and schedule ahead of time.
 * My job has a broad scope, so I'm constantly prioritizing a long list of work and context switching. I do my own prioritization, so it may not align with yours. If something is time sensitive, please clearly let me know.
-* In Slack, I am emoji happy, because they are efficient to post, and I believe that an emoji can superior to 100 words. 
+* In Slack, I am emoji happy, because they are efficient to post, and I believe that an emoji can be superior to 100 words. 
 
 ## What I assume about others
 
