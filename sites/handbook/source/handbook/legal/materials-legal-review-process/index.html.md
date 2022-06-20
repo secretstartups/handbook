@@ -89,7 +89,7 @@ Follow this process to obtain legal review of a **single piece of material**. A 
 - no
 
 ### Due date for review
-<!-- State the due date for review, and indicate this as the due date of the issue below, noting that the Legal & Corporate Affairs Team requires at least two business days to complete a review. -->
+<!-- State the due date for review, noting that the Legal & Corporate Affairs Team requires at least two business days to complete a review. -->
 ```
 
 2. If no working issue already exists, complete the [single material legal review issue template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=single-material-legal-review), following the instructions in the template.
