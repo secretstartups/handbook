@@ -144,6 +144,15 @@ Contributions in projects that have proprietary and upstream contributions will 
 
 ![](gitlab-jh-mr-process.png)
 
+#### Broken JiHu main branch resolution process
+
+There are times where [`main-jh` branch](https://jihulab.com/gitlab-cn/gitlab) is broken and requires upstream merge requests to resolve. When this happens the following process will be enacted for a timely resolution within 2 business days of JiHu upstream MR creation. 
+
+1. JiHu team will open an upstream MR with the resolution
+1. 1. JiHu Engineering DRI will notify GitLab Inc with a message in #broken-main-jh to identify that the MR is escalated to the GitLab maintainers 
+1. GitLab Facilitator will apply `~"JiHu Broken Pipeline"` label to the merge request and solicit a review from the appropriate domain (backend, frontend). 
+1. JiHu will add the MR and root cause of the failure to <https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/215>
+
 #### MR escalation
 
 Please refer to our [guidelines](https://docs.google.com/document/d/1zEiPBZ1D90LJdxBJDl45B4N-umqtR0VGt3803OgHjMo/edit?usp=sharing).
