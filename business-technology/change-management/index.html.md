@@ -126,8 +126,9 @@ An **emergency change** follows the same approval process as comprehensive.
 
 Their duration is typically established by the requirements of the Finance and Sales departments and not IT itself. 
 
-**Significant Enterprise Applications***
-Last 14 calendar days and first 14** calendar days of each quarter
+**Significant Enterprise Applications**
+- Quarter End Months (April, July, October, January): 2 weeks before and after the last day of the month.
+- Month End Months (Non Quarter End Months): While we will have a heightened alert we will not black out on the end of Month 1 or Month 2 of the quarter.
 
 **All other applications and/or tools**
 Last 7 calendar days and first 7** calendar days of each quarter
