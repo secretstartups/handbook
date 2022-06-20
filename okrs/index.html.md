@@ -206,8 +206,8 @@ Functional leaders are responsible for updating the their objectives and KRs in 
 The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKR section of the handbook"}{:data-ga-location="body"}. 
 To add new objectives in Ally.io, follow the steps below:
 1. In Ally.io, click the add objective button. A dialogue box will open to allow you to enter key information.
-1. Enter a short but despriptive title for the objective.
-1. Identify and select the type of objective: individual, team or orgnaization.
+1. Enter a short but descriptive title for the objective.
+1. Identify and select the type of objective: individual, team or organization.
 1. Identify the owner for the objective.
 1. Identify the time period or quarter for the objective. 
 1. Outcome: Add the outcome for the objective, this will automatically be set to 100%. The outcomes added can be measured in % or numeric.
