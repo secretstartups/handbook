@@ -63,13 +63,23 @@ The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This
 ### Reviewing Tamland Data
 
 1. The Tamland report is generated.
-1. If Tamland predicts that a resource will exceed its alerting threshold ([as defined in the metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)) within the next 60 days, an alert will be generated. This alert is forwarded to GitLab alerting and a Slack message is generated in [#infra_capacity-planning](https://gitlab.slack.com/archives/C01AHAD2H8W).
-1. An issue is created for every alert.
-1. On a weekly basis, an engineer reviews all open issues in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker.
+2. If Tamland predicts that a resource will exceed its alerting threshold ([as defined in the metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)) within the next 60 days, an alert will be generated. This alert is forwarded to GitLab alerting and a Slack message is generated in [#infra_capacity-planning](https://gitlab.slack.com/archives/C01AHAD2H8W).
+3. An issue is created for every alert.
+
+On a weekly basis, an engineer will:
+
+1. Review all open issues in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/boards) board (those with no workflow status label).
    1. Not all forecasts are always accurate: a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for example a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate and if the issue requires investigation.
-1. If the engineer observes an unexplained trend they will note down their findings and find an appropriate DRI to investigate further and remediate.
-   1. These issues can be the catalyst for other issues to be created in the `gitlab-org/gitlab` tracker by the stage groups for further investigation. These issues must be connected to the capacity planning issues as related issues.
-1. Any issue concerning resource saturation or capacity planning in any tracker should have the `GitLab.com Resource Saturation` label applied.
+   2. If the engineer observes an unexplained trend they will note down their findings and find an appropriate DRI to investigate further and remediate.
+      1. These issues can be the catalyst for other issues to be created in the `gitlab-org/gitlab` tracker by the stage groups for further investigation. These issues must be connected to the capacity planning issues as related issues.
+   3. Any issue concerning resource saturation or capacity planning in any tracker should have the `GitLab.com Resource Saturation` label applied.
+2. Review all issues in any state that are on or past their due date and drive action.
+
+### Due Dates
+
+We use the `due date` field to track when the next action is due. For example: the date we expect the issue to drop off the report, or the date we expect the DRI to have taken action. We do this because we want to use the 
+[capacity planning issue board](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/boards) as the single source of truth. 
+The due date is visible on this board and it is easy to see which issues need attention.
 
 ### Workflow Status Labels
 
