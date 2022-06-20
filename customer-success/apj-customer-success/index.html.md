@@ -47,6 +47,7 @@ Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_char
 | Senior Public Sector Solutions Architect | [**Shane Kelly**](https://gitlab.com/skelly-gitlab) | Canberra, Australia |
 | Senior Solutions Architect | [**Tomasz Skora**](https://gitlab.com/tskora1) | Melbourne, Australia |
 | Senior Solutions Architect | [**Toshitaka Ito**](https://gitlab.com/toshitakaito) | Tokyo, Japan |
+| Senior Solutions Architect | [**Pedric Kng**](https://gitlab.com/pedrickng) | Singapore, Singapore |
 | Solutions Architect | [**Inchul Yoo**](https://gitlab.com/iyoo) | Seoul, South Korea |
 | Solutions Architect | [**Jonathan Lim**](https://gitlab.com/jonlimr) | Singapore, Singapore |
 | Solutions Architect | [**Robert Williams**](https://gitlab.com/r_williams) | Sydney, Australia |
