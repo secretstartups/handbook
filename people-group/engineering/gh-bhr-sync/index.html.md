@@ -13,11 +13,11 @@ description: "Information on the Greenhouse and BambooHR sync for GitLab team me
 
 ## Overview
 
-Considering our single source of truth for team member data is BambooHR, we need to make sure that applicants
-are created in BambooHR once they are hired. We created a custom sync between Greenhouse and BambooHR to avoid
-manual work adding the right data from one system to the other.
+Considering we are retaining BambooHR for team member data, we need to make sure that applicants are created in BambooHR once they are hired. We created a custom sync between Greenhouse and BambooHR to avoid manual work adding the right data from one system to the other.
 
 Whenever a candidate is marked as hired, a webhook is send to the [conservatory app](https://gitlab.com/gitlab-com/people-group/peopleops-eng/conservatory).
+
+Our current implementation of this for Workday, is handled by the [Platypus](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/platypus/) project.
 
 ### Synced fields
 

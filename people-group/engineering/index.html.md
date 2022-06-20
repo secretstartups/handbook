@@ -174,14 +174,10 @@ We've build several automations and tools to support our People Group. In the fo
 ### Single Source of truth
 
 For all automations we use 2 main sources:
--  BambooHR: their database acts as the single source of truth for everything related to the team
-member. We make use of a [fork](https://gitlab.com/gitlab-com/people-group/peopleops-eng/bamboozled/) from the
-[Bamboozled](https://github.com/Skookum/bamboozled) Ruby gem, and interact with BambooHR using a
- bot user with limited access to employee details.
- - Greenhouse: this is our single source of truth for everything related to candidates (so before
- they are hired). We make use of a [fork](https://gitlab.com/gitlab-com/people-group/peopleops-eng/greenhouse_io/) from the
-[Greenhouse](https://github.com/grnhse/greenhouse_io) Ruby gem, and interact with Greenhouse using a
- user with access to candidates details.
+
+- Workday: their database acts as the single source of truth for everything related to the team member. We make use of a [custom middleware](https://gitlab.com/gitlab-com/people-group/peopleops-eng/connectors-gem/) from the [People Group Engineering Team](https://gitlab.com/gitlab-com/people-group/peopleops-eng/)'s Ruby gem, and interact with Workday using a bot user with limited access to employee details.
+- Greenhouse: this is our single source of truth for everything related to candidates (so before
+ they are hired). We make use of a [fork](https://gitlab.com/gitlab-com/people-group/peopleops-eng/greenhouse_io/) from the [Greenhouse](https://github.com/grnhse/greenhouse_io) Ruby gem, and interact with Greenhouse using a user with access to candidates details.
 
 If any other sources are used for a specific integration or automation, it is mentioned on the section.
 

@@ -30,9 +30,9 @@ on.
 In case the PEA closes the issue and the team member replies to the thread, the issue will
 be reopened. This way no issue gets lost.
 
-## Connection to BambooHR
+## Connection to Workday
 
-There is a read connection between BambooHR and the People Connect bot. When a new issue
+There is a read connection between Workday and the People Connect bot. When a new issue
 is created on GitLab (either triggered through Slack or email), this will be augmented with labels related to the team member's:
 - department
 - division
@@ -46,7 +46,7 @@ So for example if someone in their first week in People Success wrote a message 
 - `Tenure:: < 6 months`
 - `Region::JAPAC`
 
-This means we have read access to those fields on BambooHR.
+This means we have read access to those fields on Workday.
 
 ## Survey
 

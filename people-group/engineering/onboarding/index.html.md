@@ -14,7 +14,8 @@ description: "Information on the automations we have in place to support the Peo
 # Introduction
 
 The People Group Engineering team aims to reduce as much manual work as possible. One of the areas we have done this, is everything related to the employment automation flow.
-Everything on this page, assumes the team member is already present in BambooHR. To read more about how they get synced to BambooHR, you can read [this handbook section](/handbook/people-group/engineering/gh-bhr-sync).
+
+Everything on this page, assumes the team member is already present in Workday. To read more about how they get synced to Workday, you can read [this handbook section](/handbook/people-group/engineering/gh-bhr-sync).
 
 # Onboarding
 
@@ -24,15 +25,12 @@ Note: this section only discusses items in the onboarding where People Engineeri
 
 ```mermaid
 graph TD
-  Z[7 Days before: US Team members are synced to Guardian] --> A
-  A[4 Days before: PEA triggers Slack command for onboarding issue] -->|Onboarding issue is created, manager is assigned| M
-  M[Thursday before startdate: announced on slack] --> K
-  K[1 day before: Team member BambooHR profile is activated and invited to gitlab-com and gitlab-org] --> I
+  A[4 Days before: PEA triggers Slack command for onboarding issue] -->|Onboarding issue is created, manager is assigned| K
+  K[1 day before: Team member is invited to gitlab-com and gitlab-org] --> I
   I[Start date: onboarding and swag email is send to the team member] --> C
   C[Day 2: Access Request issue is created and team page sync readiness is checked.] --> CA
   CA[Day 3: Team page entry is created] --> E
-  E[Day 5: Team members are synced to Modern Health] --> EE
-  EE[Day 6: Team members receive a Slack reminder about the anti-harrassment training] --> J
+  E[Day 6: Team members receive a Slack reminder about the anti-harrassment training] --> J
   J[Day 7: Manager and Interview training issues are opened if people manager] --> L
   L[Day 15: Team member is pinged if they have open compliance task on their onboarding issue] --> F
   F[Day 60: Onboarding issue is closed if it wasn't closed already] --> N
@@ -42,47 +40,8 @@ graph TD
   B --> |Yes| G[Two month before: Send email]
 ```
 
-## Sync to Guardian
-
-I-9 forms are used to verify the identity and employment authorization of individuals hired for employment in the United States. All U.S. employers must properly complete Form I-9 for each individual they hire for employment in the United States. At GitLab we use [Guardian](https://www.Guardian.com/products/meet-guardian/) to help us with this process.
-
-To avoid manually having to manage team members to this tool, there is a custom sync set up between BambooHR and Guardian. This sync works with uploading CSV files to them. There are 4 different files to be uploaded in the process, two of them are fully automated and two need a trigger from a People Experience Associate.
-
-Note: this only looks at team members with "United States" as their listed country in BambooHR. All other team members are ignored for this sync.
-
-### New hires
-
-This syncs the new hires to Guardian and is fully automated. Every day we check which team members have a start date in 7 days. If there are team members, we create a file with the following naming convention: `01_employee_add_mmddyyhhmmss.csv`. For every eligible team member the following information is added to the file:
-
-- hire date: the date they start working at GitLab
-- employee number: the unique employee number that has been assigned to them in BambooHR (not to be confused with the ID of the user in BambooHR)
-- legal entity: either `GitLab Inc` or `GitLab Federal LLC`. This depends on what is filled in on the `location` field in BambooHR.
-- first and last name
-- personal email address
-
-Note that if a team member is added as a last minute hire (in this case defined as with less then 7 days to their start date), the team member will not be picked up by the sync. However a People Experience Associate can run the following command in Slack so that a new team member upload file is created to Guardian:
-
-`/pops run uploadtoi9 <BHR_EMPLOYEE_ID>`
-
-### Update hires
-
-This syncs updates to Guardian. If a change happens in hire date, legal entity or the team member's name, this change needs to be reflected on Guardian as well. This one needs to be triggered by a People Experience Associate by running the following Slack command:
-
-`/pops run reuploadtoi9 <BHR_EMPLOYEE_ID>`
-
-This will trigger a pipeline that fetches the team member on BambooHR. A file with the following naming convention is created: `02_employee_update_mmddyyhhmmss.csv`. The same fields as for new hires are added to this file. Once done, the file is uploaded to Guardian where they process it.
-
-### Rehired team member
-
-This syncs rehires to Guardian. A rehire is defined as a team member who has a previous I-9 record in Guardian that was terminated and the employee is being rehired. This one needs to be triggered by a People Experience Associate by running the following Slack command:
-
-`/pops run rehirei9 <BHR_EMPLOYEE_ID>`
-
-This will trigger a pipeline that fetches the team member on BambooHR. A file with the following naming convention is created: `03_employee_rehire_mmddyyhhmmss.csv`. The same fields as for new hires are added to this file except that there is also a column `rehire` added where the value is set to `yes`. Once done, the file is uploaded to Guardian where they process it.
-
-If an I-9 is not on record in Guardian then you will need to run New Hire Pops command above.
-
 ## Onboarding issue creation
+
 The onboarding issue creation is a semi-automated process. Meaning that it needs to be triggered by a People Experience Associate to be started. The way they trigger this is by using a Slack command:
 
 ```
@@ -93,21 +52,13 @@ The onboarding issue will be automatically assigned to the People Experience Ass
 who ran the command and the incoming team member's Manager.
 
 The onboarding tasks that are applicable to all team members are listed in the
-general [`onboarding.md`](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md)
-file. It will be included by default in the onboarding issue.
+general [`onboarding.md`](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) file. It will be included by default in the onboarding issue.
 
-The job then grabs various details of the incoming team member, like country of
-residence, entity through which they are hired, division, department, job title
-etc. For each of these details, it checks for the existence of a task file in
-the [`onboarding_tasks` folder](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/.gitlab/issue_templates/onboarding_tasks)
-of the `employment` project. These tasks files are of the format
-`country_<country name>.md`, `entity_<entity name>.md`, `division_<division name>.md`,
-`department_<department name>.md`, `role_<exact job title>.md`, etc. If such a file is found, it includes
-contents of those files also in the onboarding issue.
+The job then grabs various details of the incoming team member, like country of residence, entity through which they are hired, division, department, job title etc. For each of these details, it checks for the existence of a task file in the [`onboarding_tasks` folder](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/.gitlab/issue_templates/onboarding_tasks) of the `employment` project. These tasks files are of the format `country_<country name>.md`, `entity_<entity name>.md`, `division_<division name>.md`, `department_<department name>.md`, `role_<exact job title>.md`, etc. If such a file is found, it includes contents of those files also in the onboarding issue.
 
 Role templates don't take seniority into level. For example SDR 1, 2, or 3 would all receive the SDR template.
 
-If you receive a question from a manager about why a template was not linked in an onboarding issue, be sure to check the naming convention of the template and ensure everything matches up in BambooHR with the entity, division, department, etc. If everything looks like it's matched up, reach out to the People Group Engineer for additional assistance.
+If you receive a question from a manager about why a template was not linked in an onboarding issue, be sure to check the naming convention of the template and ensure everything matches up in Workday with the entity, division, department, etc. If everything looks like it's matched up, reach out to the People Group Engineer for additional assistance.
 
 Note: If a People Experience Associate needs to create the onboarding issue for interns, they can use the same Slack command.
 
@@ -164,11 +115,12 @@ Every day we run 3 scheduled pipelines. They are each set up for a specific regi
 - EMEA at 4 AM UTC
 - JAPAC at 6 PM UTC
 
-For the JAPAC pipeline, it will fetch the team members with a start date for the next day (timezones).
-For the EMEA and Americas pipeline, it will fetch all the team members that have a start day equal
+For the **JAPAC** pipeline, it will fetch the team members with a start date for the next day (timezones).
+
+For the **EMEA** and **Americas** pipeline, it will fetch all the team members that have a start day equal
 to the current day (so who is starting today). The pipeline then filters out the ones for the region
 they need to send the email to. This all is to ensure we don't send out the email too late or too early.
-The region of the team member is determined from the region that is on their BambooHR profile. This is the
+The region of the team member is determined from the region that is on their Workday profile. This is the
 first iteration, if we need to split it up by country, we can rework the current implementation.
 
 We fetch some other data besides the region as well:
@@ -179,6 +131,7 @@ We fetch some other data besides the region as well:
 This data is used to populate the email that we then send to them. The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-exp@domain` as nobody monitors replies to `onboarding@`. The email address is strictly used for automation.
 
 #### Manual Onboarding E-Mail
+
 If for some reason the e-mail could not be sent, we have added functionality for a People Experience Associate to be able to manually send this by running a Slack command.
 
 ```/pops run onboardingemail <EMPLOYEE_NUMBER>```
@@ -232,7 +185,7 @@ For the JAPAC pipeline, it will fetch the team members with a start date for the
 For the EMEA and Americas pipeline, it will fetch all the team members that have a start day equal
 to the previous day (so who started yesterday). The pipeline then filters out the ones for the region
 they need to send the email to. This all is to ensure we don't create the issue too late or too early.
-The region of the team member is determined from the region that is on their BambooHR profile.
+The region of the team member is determined from the region that is on their Workday profile.
 
 For all these members it will check if it is possible to create an Access Request
 issue. It will only work for the members with roles that have a set template in the
@@ -260,21 +213,19 @@ how it works and how a template can be added.
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/aPe77q23OE8" width="560" height="315"></iframe></figure>
 
 ## Team page readiness check
-Every day at 09AM UTC, we have a pipeline running that fetches all the team members that started yesterday and check if they can be synced to the team page. Currently the only required item to 
-determine if we can sync them is that they need to have a GitLab username.
+Every day at 09AM UTC, we have a pipeline running that fetches all the team members that started yesterday and check if they can be synced to the team page. Currently the only required item to determine if we can sync them is that they need to have a GitLab username.
 
-If we can't determine their GitLab username (from the issue or from their BambooHR profile) we 
-will leave an issue note on the onboarding issue asking them to fill in their BambooHR profile correctly.
+If we can't determine their GitLab username (from the issue or from their Workday profile) we will leave an issue note on the onboarding issue asking them to fill in their Workday profile correctly.
 
 ## Sync to team page
 Every day at 09AM UTC, we have a pipeline running that syncs our new team members to the `www-gitlab-com` project, so that they show up on the team page.
 
 We fetch all the new team members with a start date of the day before yesterday and check if they opted-in on
-being synced to the team page. Opt-in happens by setting `Export Name/Location to Team Page?` to `Yes` on their BambooHR profile. This is a task on day one for the new team member.
+being synced to the team page. Opt-in happens by setting `Export Name Location to Team Page` to `Yes` on their Workday profile. This is a task on day one for the new team member.
 
 If they selected yes, we grab some data (name, job title, start date, department and country) and format it,
 so it can be added to the team page entry. If they did not opt-in, we still add an entry to the team page.
-However that entry is anonymized. For every new team member, we commit a new file in the `data/team_members` directory.
+However that entry is anonymous. For every new team member, we commit a new file in the `data/team_members` directory.
 
 We then create a merge request on `www-gitlab-com` project so it can be merged.
 
@@ -299,22 +250,6 @@ Please ensure the date format is correct as this should follow, `YYYY-MM-DD` for
 
 This will trigger a new pipeline and fetch the new team members of the provided week and create a new merge request adding them to the Team page.
 
-## Sync to Modern Health
-[Modern Health](/handbook/total-rewards/benefits/modern-health) needs a weekly update about all our active
-team members. This proces has been automated by using their `Upload to AWS S3` functionality. Every Friday
-at 1PM UTC we run a scheduled job. This job fetches all the active team members from BambooHR and stores
-the following in a CSV file:
-
-- First name
-- Last name
-- Work email
-- Employee ID
-- Department
-- Start Date
-
-This CSV file is then uploaded to a S3 bucket that is maintained by Modern Health. They process the file
-so the team members can have access to Modern Health.
-
 ## Slack reminder for the anti-harrassment training
 We have a daily pipeline that checks everyday who started 6 days ago. For those team members, we send a reminder
 that they have to complete the anti-harrassment training.
@@ -323,7 +258,7 @@ that they have to complete the anti-harrassment training.
 There's a scheduled pipeline that runs every day that checks for hires that started a week ago.
 For those hires we will look if the incoming
 team member is a people manager. Currently there's no exact field
-on BambooHR for us to check this. The way we do this is by by looking
+on Workday for us to check this. The way we do this is by by looking
 at their job title. If it **starts** with any of the following:
 
 - `Team Lead`
@@ -375,37 +310,12 @@ Every day at 10 AM UTC we run a scheduled pipeline. This pipeline will fetch all
 For every eligible team member we send out two emails:
 
 - one to the team member
-- one to the team member's manager: this is determined by the manager for the team member on BambooHR
-
-The email address used to send the email is `peoplespecialists@domain` and is set with a `reply-to: peopleops@domain` as nobody monitors replies to `peoplespecialists@domain`. The email address is strictly used for automation.
-
-## Probation Ending Email
-
-This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/probation_ending_manager.md)
-that is sent when a probation period is about to end for a team member. The email is sent to the team member's manager and CC'd to `people-exp@domain`
-
-Every day at 9 AM UTC we run a scheduled pipeline. This pipeline will fetch all the eligible team members. An eligible team
-member means:
-
-- the country listed on their BambooHR profile is a country that uses probation
-- they have probation that will end in 14 days
-
-The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-exp@domain` as nobody
-monitors replies to `onboarding@domain`. The email address is strictly used for automation.
-
-## Netherlands Contract Ending Email
-
-This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md) that is sent to the team member's manager two months before the team member's contract end. The email is cc'd to `peopleops@domain` and the relevant People Business Partner.
-
-Every day at 9 AM UTC we run a scheduled pipeline. This pipeline will fetch all the eligible team members. An eligible team
-member means:
-
-- Team member who lives in the Netherlands
-- and who's temporary contract ends in two months.
+- one to the team member's manager: this is determined by the manager for the team member on Workday
 
 The email address used to send the email is `peoplespecialists@domain` and is set with a `reply-to: peopleops@domain` as nobody monitors replies to `peoplespecialists@domain`. The email address is strictly used for automation.
 
 ### Fallback
+
 If for some reason the automation fails and we are unable to send the renewal contract, a People Experience Associate can run:
 
 ```

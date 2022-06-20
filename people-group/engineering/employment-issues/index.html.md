@@ -102,7 +102,7 @@ For all department folders they will follow this convention:
 
 For the majority of departments this will be the case, although we must note that these **can differ** from what your department is actually called. For example, **Public Sector** would be referred to as `department_pubsec`.
 
-If you are unsure of what your departments name in BambooHR is, please [open an issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/new?issuable_template=Employment%20Templates) in the [People Group Engineering project](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/) and we will get back to you with the name and location of the templates for the desired role.
+If you are unsure of what your departments name in Workday is, please [open an issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/new?issuable_template=Employment%20Templates) in the [People Group Engineering project](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/) and we will get back to you with the name and location of the templates for the desired role.
 
 #### Finding Role File Names
 
@@ -129,13 +129,13 @@ Now that we are in our **task folder** we can see some directories following the
 
 Entity, country, division, and department templates will **always** be added to the specific tasks folder and **not** the associated departments folder.
 
-> I find looking at the org chart in BambooHR (People > Directory > Org Chart) to be useful for clarifying how some of these hierarchical structures roll into one another and can help clarify what the file name may be called.
+> I find looking at the org chart in Workday (View All Apps > Directory > My Org Chart) to be useful for clarifying how some of these hierarchical structures roll into one another and can help clarify what the file name may be called.
 
 #### Creating an Entity Specific Task
 
 Let's start off with creating an **entity** wide template for anyone in the **Inc** department by creating a new file in the [onboarding tasks folder](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/.gitlab/issue_templates/onboarding_tasks).
 
-Because our entity is referenced in BambooHR as `Inc`, and we must follow the same naming convention, our file would be named: `entity_inc.md`.
+Because our entity is referenced in Workday as `Inc`, and we must follow the same naming convention, our file would be named: `entity_inc.md`.
 Now we can fill in our **entity specific** onboarding tasks into the template. Once merged this will then be added to **all** team members onboarding issues in that entity.
 
 #### Creating a Country Specific Task

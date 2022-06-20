@@ -75,6 +75,7 @@ personal information in the message.
 Whenever a team member fills in on of the following surveys, the form entrance
 is put into a slack message to the private Slack channel `employment-survey`. This way the
 People Experience team can discuss and take action.
+
 - Onboarding Survey
 - Values Check-In
 - Career Mobility Value Check-In
@@ -91,7 +92,7 @@ Whenever a new team member is added to a team we currently send a couple of noti
 A scheduled pipeline is configured to automatically send a message
 in the [`#peopleops-alerts`](https://gitlab.slack.com/archives/CLTBQ9XC7) Slack channel listing all team members who reached
 their 3 month work anniversary that week. For each anniversary, the team member's
-BambooHR and Greenhouse profiles are linked so that the people experience team
+Workday and Greenhouse profiles are linked so that the people experience team
 can check if the listed team members were referred. For those that were referred, the 
 people experience team will then assign bonuses to the referrers.
 
@@ -104,6 +105,7 @@ the list of locations where the bot looks to fill-in role/specialty based access
 and onboarding tasks. This command is useful when it is unclear why an automated issue
 creation did not pick up a given template. This will show exactly what path the bot expects.
 
-### GitLab usernames
-Often times, team members won't follow the procedure outlined on the [tools and tips page](/handbook/tools-and-tips/#change-your-username-at-gitlabcom) to change their GitLab username. This leads to inaccurate or outdated data in BambooHR.
-To remedy this situation, every Wednesday, we audit all GitLab usernames stored on BambooHR (`customGitLabUsername` field) and verify that those usernames are members of the [gitlab-com group](https://gitlab.com/groups/gitlab-com/-/group_members). When a BambooHR `customGitLabUsername` is not in the group, a message is automatically sent in `#peopleops-alerts` on Slack.
+### GitLab Usernames
+
+Often times, team members won't follow the procedure outlined on the [tools and tips page](/handbook/tools-and-tips/#change-your-username-at-gitlabcom) to change their GitLab username. This leads to inaccurate or outdated data in Workday.
+To remedy this situation, every Wednesday, we audit all GitLab usernames stored on Workday (`GitLab Username` field) and verify that those usernames are members of the [gitlab-com group](https://gitlab.com/groups/gitlab-com/-/group_members). When a Workday `GitLab Username` is not in the group, a message is automatically sent in `#peopleops-alerts` on Slack.
