@@ -477,7 +477,8 @@ Before pinging the release post manager, ask yourself if your content absolutely
   - PM moves the RPI yml file and images from `/data/release_posts/unreleased` to `/data/release_posts/x_y/`.
   - PM moves any images from `/source/images/unreleased` to `/source/images/x_y/`
   - PM Ensure that the `image_url` field in the release post yml file points to the image file under `/source/images/x_y/`.
-  - PM notifies release post manager to review.
+  - PM requests a review of the release post item MR from the release post manager, release post tech advisor (`@brhea`), and release post DRI (`@fseifoddini`). Quick action: `/assign_reviewer @brhea @fseifoddini RP-manager`
+  - PM notifies release post team in the `#X-Y-release-post` Slack channel that the late addition has been requested with a link to the MR.
 - If the feature is primary and you had not previously added it to `features.yml`, you will need to create a second MR, branched from `master` to add the feature to `features.yml`. (`features.yml` should be merged to `master`, not the release post branch).
 
 ### Process for removing merged content blocks
