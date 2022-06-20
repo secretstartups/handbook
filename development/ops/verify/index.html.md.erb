@@ -77,6 +77,15 @@ Each group in Verify is encouraged to define their own process based on what wor
 * [Verify:Runner](/handbook/engineering/development/ops/verify/runner/)
 * [Verify:Pipeline Insights](/handbook/engineering/development/ops/verify/pipeline-insights/)
 
+### API development
+
+Our API exists in two formats ([REST](https://docs.gitlab.com/ee/api/#rest-api) and [GraphQL](https://docs.gitlab.com/ee/api/#graphql-api)) which should allow the same degree of querying.
+In Verify, we are **`GraphQL` first** which means that we will develop new user facing features using `GraphQL` by default.
+We will refactor older `REST` user facing features to support `GraphQL` wherever possible.
+In some instances, it might make more sense to keep or even develop a new feature using `REST`.
+For example, `REST` is better at handling files than `GraphQL` so it might be better to preserve this functionality in `REST`.
+We allow each team to decide when they think they should go with `REST`, but eventually the goal is to have everything in `GraphQL`.
+
 ### Shared issues
 
 In the Verify team we lean in to the GitLab mission, "[everyone can contribute](/company/mission/#mission)"!
