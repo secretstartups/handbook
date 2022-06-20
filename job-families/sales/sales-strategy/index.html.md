@@ -216,9 +216,9 @@ Proven ability to thrive in a fluid, fast-paced, unpredictable environment.
 
 ## Performance Indicators
 
-* [IACV vs. plan > 1](/handbook/sales/performance-indicators/#iacv-vs-plan)
-* [IACV efficiency > 1.0](/handbook/sales/performance-indicators/#iacv-efficiency)
-* [Win rate > 30%](/handbook/sales/performance-indicators/#win-rate)
+* IACV vs. plan > 1
+* IACV efficiency > 1.0
+* Win rate > 30%
 
 ## Career Ladder 
 

@@ -165,7 +165,7 @@ The Senior Manager, Customer Success Operations is a [grade 9](/handbook/total-r
 * Demonstrated success with cross-functional coordination, including planning, execution tracking, decision making, and OKR management
 
 ## Performance Indicators
-* [SMAU](/handbook/sales/performance-indicators/#active-smau-for-paying-customers)
+* SMAU
 * [CSAT](/handbook/business-ops/metrics/#customer-satisfaction-survey-csat)
 * [PNPS](/handbook/product/performance-indicators/#gitlab-com-paid-net-promoter-score-pnps)
 * [Churn & customer retention metrics](/handbook/customer-success/vision/#retention-and-reasons-for-churn)

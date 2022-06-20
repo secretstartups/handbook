@@ -174,8 +174,8 @@ The Director, Revenue Programs role is a [grade 10](/handbook/total-rewards/comp
 **********************************
 
 ## Performance Indicators 
-- [Sales pipeline coverage](/handbook/sales/performance-indicators/#sales-pipeline-coverage)
-- [New logos](/handbook/sales/performance-indicators/#new-logos)
+- Sales pipeline coverage
+- New logos
 * Lead conversion rates with initial emphasis on conversion metrics italicized below
    * _MQL (Marketing Qualified Lead) to SAO (Sales Accepted Opportunity)_
    * _1-Discovery to 2-Scoping_
