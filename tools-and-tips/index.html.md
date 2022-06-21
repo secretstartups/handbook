@@ -99,34 +99,7 @@ It is company policy to use a photo, and not an avatar, a stock photo, or someth
 
 _**Note**: If you upload your photo to Gravatar associated with your gitlab.com email, then you can simply not set an image in your GitLab and Slack profiles and they will automatically use your Gravatar photo.  If you already uploaded individual photos to your GitLab and Slack profiles, simply removing them will cause your avatar to use the Gravatar photo by default._
 
-### Creating gifs
 
-We have a [dedicated section](/handbook/product/making-gifs) for that in the handbook.
-
-### Resizing Images
-
-[ImageMagick](https://imagemagick.org/) provides the `convert` CLI command which can be used to resize images. Our blog images do not need resolutions higher than 1920x1080. This saves bandwidth and makes the website load faster.
-
-On macOS, install ImageMagick with Homebrew:
-
-``` shell
-$ brew install imagemagick
-```
-
-On Linux, use your package manager:
-
-``` shell
-$ sudo dnf install ImageMagick
-$ sudo apt install imagemagick
-```
-
-This example converts an existing image to `1920x1080` resolution and replaces it inline:
-
-``` shell
-convert blogimage.jpg -resize 1920x1080 blogimage.jpg
-```
-
-You can also use percentage values for the `-resize` parameter. The `convert` CLI command can do more things explained in the [documentation](https://imagemagick.org/script/convert.php).
 
 ### Using Mermaid
 
@@ -191,6 +164,51 @@ If you don't want to configure your local machine, there is now a new alternativ
 to use gitpod.io for "local" development in a cloud based environment. See
 [doc/gitpod.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/gitpod.md)
 for more details.
+
+## Image and gif tips
+
+Many of the tips shown in this section require ImageMagick, an image manipulation tool. The installation is described in the [ImageMagick section](#imagemagick).
+
+### ImageMagick
+
+[ImageMagick](https://imagemagick.org/) provides the `convert` CLI command which can be used to resize images, add drop shadows, edit gifs, etc.
+
+On macOS, install ImageMagick with Homebrew:
+
+``` shell
+$ brew install imagemagick
+```
+
+On Linux, use your package manager:
+
+``` shell
+$ sudo dnf install ImageMagick
+$ sudo apt install imagemagick
+```
+
+### Creating gifs
+
+We have a [dedicated section](/handbook/product/making-gifs) for that in the handbook.
+
+### Resizing images
+
+[ImageMagick](#imagemagick) provides the `convert` CLI command which can be used to resize images. Our blog images do not need resolutions higher than 1920x1080. This saves bandwidth and makes the website load faster.
+
+This example converts an existing image to `1920x1080` resolution and replaces it inline:
+
+``` shell
+convert blogimage.jpg -resize 1920x1080 blogimage.jpg
+```
+
+You can also use percentage values for the `-resize` parameter. The `convert` CLI command can do more things explained in the [documentation](https://imagemagick.org/script/convert.php).
+
+### Add drop shadow to images
+
+[Install ImageMagick](#imagemagick) and use the `convert` CLI command to add a drop shadow. The `-shadow` parameter may need adjustments on the dimension. 
+
+```shell
+$ convert input.png \( +clone -background black -shadow 80x20+0+15 \) +swap -background transparent -layers merge +repage output.png
+```
 
 ## Troubleshooting
 
