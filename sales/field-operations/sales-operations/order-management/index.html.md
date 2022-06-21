@@ -189,15 +189,21 @@ Beginning in FY23, the Order Management team will confirm license delivery on al
 
 The License Delivery Review Process is a new process created to ensure that all self-managed deals result in license fulfillment. The goals of this process are to (1) Improve customer satisfaction by ensuring licenses are delivered in a timely manner, (2) Improve Sales efficiency by reducing time spent by sellers to chase license delivery, and (3) Prevent revenue recognition issues caused by delayed license delivery to customers.
 
+**In Scope:**
+
+- The Order Management team will review each Closed Won, sales-assisted self-managed deal to ensure initial license delivery after opportunity closure. 
+- If the Order Management team determines that the license was not delivered after initial opportunity closure, the team will open a ticket with Support Engineering to request manual delivery of the license to the customer.
+
 **Out of Scope:**
 
 - The Order Management team is not customer facing, and will not speak directly to the customer regarding order or license issues.
 - The goal of this review is to ensure initial delivery is correct. The Order Management team will not handle requests relating to:
-  - licenses that fail
-  - licenses that were delivered, but are not accepted by the GitLab instance
-  - license split requests
-  - license resend requests
-  - additional license send requests
+  - SaaS entitlements
+  - Self-Managed licenses that fail when applied to the customer's instance
+  - Self-Managed licenses that were delivered, but are not accepted by the GitLab instance
+  - Self-Managed license split requests
+  - Self-Managed license re-send requests
+  - Self-Managed additional license send requests
 
 For assistance with Out of Scope license requests, please [open an Issue](/handbook/support/internal-support/#regarding-licensing-and-subscriptions) with the Support Engineering Team.
 
@@ -206,7 +212,7 @@ For assistance with Out of Scope license requests, please [open an Issue](/handb
 2. Billing team member approves opportunity, resulting in Closed Won stage.
 3. Each day, Order Management team members review regional self-managed opportunity report. For each newly closed self-managed opportunity, Order Management reviews license inbox to determine whether license was delivered via automation.
 4. If a license has been delivered, Order Management populates delivery date into "License Delivery Date" opportunity field.
-5. If a license has not been delivered, Order Management opens an Issue with Support Engineering to request manual delivery of the license to the Sold To contact from the opportunity's primary quote.
+5. If a license has not been delivered, Order Management opens a ticket with Support Engineering to request manual delivery of the license to the Sold To contact from the opportunity's primary quote.
 
 (For full process documentation, visit the internal [License Delivery Review Wiki](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/wikis/Ongoing-Reconciliations/License-Delivery-Review))
 
