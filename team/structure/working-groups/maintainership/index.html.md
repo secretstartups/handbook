@@ -99,3 +99,26 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | Member            | Darva Satcher 		     | Senior Engineering Manager, Create / Ecosystem Stage |
 | Member            | Jiaan Louw 				 | Senior Frontend Engineer, Manage:Compliance |
 | Member            | Chad Woolley            | Senior Backend Engineer, Create::Editor |
+
+## Communicating changes
+
+### Labels
+
+We have two sets of labels to help facilitate communications:
+
+**Type of changes and their impact**
+
+Use these labels to identify the type of change being made:
+
+- `~"Maintainership WG::process change"` - This update changes an existing process or workflow
+- `~"Maintainership WG::new process"` - This update introduces a new process or workflow
+- `~"Maintainership WG::responsibility change"` - This update changes or introduces a responsibility
+- `~"Maintainership WG::other change"` - This is an update that may warrant an announcement but does not fit in the above categories
+
+**Communication status**
+
+Use these labels to identify if a change is ready to be communicated or if it has been communicated:
+
+- `~"Maintainership WG Comms::ToDo"` - This update is ready to be communicated
+- `~"Maintainership WG Comms::Needs Support"` - This update needs something additional to support it when it is announced. This could be things like handbook updates, an FAQ, or an AMA.
+- `~"Maintainership WG Comms::Done"` - This update has been communicated
