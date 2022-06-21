@@ -679,7 +679,7 @@ In order to cap registration, we remove the registration form on the Landing Pag
    - [**GitLab Security + Compliance Workshop:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1336) This workshop is intended to be a hands-on event for existing and new users of GitLab. Its focus is Security / Shifting Left.
    - [**Advanced CI/CD:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1335) This workshop is a deep-dive workshop on Advanced GitLab CI/CD to enable you to take your automation game to the next level and provide thought leadership within your organization. CI Experience Required. 
    - [**Jenkins Migration Workshop:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2051) This workshop is a hands-on demo and guided lab showing moderate to advanced Jenkins/GitLab users how to convert both freestyle jobs and Jenkinsfiles in Jenkins into GitLab’s .gitlab-ci.yml format. 
-1. Identify if a workshop is currently planned that might support your needs. [Click here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar) to view calendar of scheduled events.
+1. Identify if a workshop is currently planned that might support your needs. [Click here](/handbook/marketing/virtual-events/#calendar) to view calendar of scheduled events.
 1. Work with Customer Success team (SAs) to identify the lead instructors/presenters. You must have your lead instructor identified at this time and work together to select a date.  
 1. Once a date has been confirmed, Lead SA must coordinate with the Demo Systems Engineer (Jeff Martin) to obtain the demo environment redemption code and discuss SLAs to ensure demo meets code requirements.
 1. If the audience is account centric, if you are not doing paid social media, or need your own workshop due to your account goals, consider [Self-Service without Promotion](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#self-service-with-or-without-promotion-1). Sales can run on their own, or with field marketing. If not, then it would qualify as a Webcast. [Click here for virtual events decision tree for more information.](/handbook/marketing/virtual-events/#decision-tree)   
@@ -716,7 +716,7 @@ nt=DAD-xgXwnrk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&m
 
 #### Canva
 **DRI: FMM**
-* Use [GitLab's Virtual Events Promotional Templates on Canva](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#how-to-make-images-for-your-self-service-virtual-event).
+* Use [GitLab's Virtual Events Promotional Templates on Canva](/handbook/marketing/virtual-events/self-service-virtual-events/#how-to-make-images-for-your-self-service-virtual-event).
 * Follow the directions on the first slide of the template.
 * Once your image is made, click the "share" button, followed by the "download" button, and you've made your promotional image!
 
