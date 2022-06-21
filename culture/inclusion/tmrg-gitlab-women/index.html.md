@@ -25,7 +25,7 @@ This TMRG is focused on 4 key areas of impact. We call them our pillars. Review 
 | ----- | ----- | ----- | 
 | Awareness and Education | Increase awareness of the experience of TMRG memebers at GitLab and educate allies. | |
 | Professional Development | Increase access to opportunity for career and professional growth of TMRG members | [Women at GitLab Mentorship Program](https://about.gitlab.com/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) |
-| Recruiting and Retention | Increase the successful recruitment and retention of women at GitLab | |
+| Recruiting and Retention | Increase the successful recruitment and retention of women at GitLab | Participate in [candidate TMRG calls](/handbook/hiring/talent-acquisition-framework/coordinator/#speaking-with-tmrg-team-members-in-the-hiring-process/) by joining the [#candidate_tmrg-call Slack channel](https://app.slack.com/client/T02592416/C03JEQPSN3V/thread/C012GP5CGCR-1655385119.184549) |
 | Business Influence | Start and contribute to discusses that influence GitLab the business. | Surface burnout data to People Leadership | 
 
 ## Leads
@@ -70,6 +70,11 @@ We use our [GitLab issue board](https://gitlab.com/gitlab-com/women-tmrg/-/board
 2. Contribute to an open issue that is assigned to a quarterly milestone. These milestones outline the current focus projects of the TMRG
 3. Attend or notify others of upcoming events using the `Events - Womens TMRG` label and consider using the `event-or-conference-fyi` issue template. Assign event issues to the relevant milestone based on event date.
 
+### Participate in a Candidate TMRG Call
+
+The hiring process at GitLab includes an optional step where candidates can request to meet with a TMRG team member. As a TMRG member, you can volunteer to speak with candidates to answer questions and share your experience at GitLab. 
+
+Join the [#candidate_tmrg-call Slack channel](https://app.slack.com/client/T02592416/C03JEQPSN3V/thread/C012GP5CGCR-1655385119.184549) to participate.
 
 ## Related Performance Indicators and Goals
 
