@@ -116,6 +116,7 @@ If you have any questions on this process, please contact `@jgragnola` in the [#
 * [ ] [Nurture Email Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture) - Content, Lifecycle & Campaigns
 * [ ] [Asset Design Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=design-request-content-resource) - Digital Design
 * [ ] 🧨 Not an issue, but an action item for content owner: upload to Pathfactory
+* [ ] :dart: Not an issue, but an action item for content owner: add to HighSpot
 * [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
 * [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
 
