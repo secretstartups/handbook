@@ -255,6 +255,8 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 |-----------------------------|------------|-------------------------------|
 | Recurring: 22nd of every month         | Soft       | Release day                   |
 | Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days)         | Soft       | Family and Friends Days                   |
+| 2022-07-01         | Hard       | [CI Decomposition](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/)                   |
+| 2022-07-04         | Soft       | [CI Decomposition](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/)                   |
 
 There are 2 types of PCLs: soft and hard.
 
