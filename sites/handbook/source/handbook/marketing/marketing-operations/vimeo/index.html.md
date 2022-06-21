@@ -90,7 +90,7 @@ Vimeo accepts most video file formats (MP4, MOV, WMV, AVI, and FLV). Vimeo does 
 
 ## Live Events
 
-For more information about conducting virtual events, see the [virtual events handbook page](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/).
+For more information about conducting virtual events, see the [virtual events handbook page](https://about.gitlab.com/handbook/marketing/virtual-events/).
 
 ### Best Practices
 
