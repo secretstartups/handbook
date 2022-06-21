@@ -12,7 +12,7 @@ title: GitLab Event Information
 
 # Events at GitLab
 
-**This page outlines details for in-person events. For virtual event information, please visit the [Virtual Events Page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/).**
+**This page outlines details for in-person events. For virtual event information, please visit the [Virtual Events Page](/handbook/marketing/virtual-events/).**
 
 There are 3 groups within marketing who handle external events. Each group has a specific purpose. Please review each page for specific details.
 
@@ -319,7 +319,7 @@ FMM determines format of this virtual event from [documented options.](/handbook
   - FMC: create new SF campaign by syncing new marketo program to SFDC.
   - FMC: update links in Epic to new SFDC and Marketo links. Update the utm if applicable.
   - FMC: follow standard processes with tokens, program activation, etc.
-  - FMC: [set up ZOOM Webcast](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-3-configure-zoom)
+  - FMC: [set up ZOOM Webcast](/handbook/marketing/virtual-events/webcasts/#step-1-configure-zoom)
 - **Existing event Marketo program FMC tasks (applies to both types):**
   - Move the existing event marketo program under the new folder you have created and add `OLD` at the beginning of the title.
   - Deactivate the `Registration` and `Interesting Moments` smart campaigns.
