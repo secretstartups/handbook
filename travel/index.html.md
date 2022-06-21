@@ -267,7 +267,7 @@ Where can GitLab Team Members Travel? While some areas of the world have decreas
 
 ### Required of/by Team Members Prior to Traveling:
 
-This section has been updated as of 2022-05-26
+This section has been updated as of 2022-06-21
 
 As of 2022-03-21, fully vaccinated and boosted team members (as defined by [CDC Guidance](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)) who want to travel for any business reason can do so without seeking prior approval from the COVID-19 Travel Working Group.  With COVID-19 cases decreasing around the world, we've made the data-driven decision to re-open team member travel.  We will continue to evaluate the best way to reinstate our [Visiting Grant program](https://about.gitlab.com/handbook/incentives/#visiting-grant), but at this time, this program continues to be on hold.  
  
@@ -290,7 +290,7 @@ The COVID-19 Travel Working Group will re-evaluate our travel policy at least mo
 If a meeting/meet-up includes 5 or more GitLab Team Members meeting in person, please follow these protocols:
 
 ### Covid-19 Testing:  
-All GitLab attendees must test negative on a rapid at-home Antigen test for COVID-19 prior to travel, and again each day of the event prior to meeting with team members.  
+All GitLab attendees must test negative on a rapid at-home Antigen test for COVID-19 prior to travel, and again each day of the event prior to meeting with team members.  If you have been exposed to Covid within 10 days of travel or if you are symptomatic, please do not travel regardless of test results. 
 
 ### Positive Test Result:  
 If a Team Member tests positive for COVID-19, they are to refrain from meeting with others and must contact the facilitator of the meeting, and/or the venue contact, and notify teammemberrelations@gitlab.com via email. The team member may be required to quarantine until testing negative for COVID-19 which could take 7-10+ days.  Quarantine and isolation rules differ by country and that's where Team Member Relations can help determine next steps.  
