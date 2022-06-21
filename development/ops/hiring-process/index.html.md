@@ -97,7 +97,8 @@ Ping TA to [Schedule interviews](/handbook/hiring/talent-acquisition-framework/r
 
 ### Step 11. Complete feedback
 
-[Complete feedback](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-5hm-hiring-team-to-complete-feedback-in-greenhouse)
+[Complete feedback](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-5hm-hiring-team-to-complete-feedback-in-greenhouse). Ideally the feedback is submitted within 1-2 business days of the interview.
+If you're unable to submit it within that timeframe, please reach out to the Hiring Manager and/or Recruiter with any early evaluation and when they can expect your feedback by. 
 
 ### Step 12. References
 
