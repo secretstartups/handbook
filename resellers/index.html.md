@@ -200,7 +200,7 @@ Since participation in the Select Track is by invitation only, partners are not 
 |  |  |  |
 | **Managed Services** |  |  |
 | Managed Services certification | X | X |
-| Managed Services Discount |  | X |
+| Managed Services Discount | X | X |
 
 #### The Services Program
  
