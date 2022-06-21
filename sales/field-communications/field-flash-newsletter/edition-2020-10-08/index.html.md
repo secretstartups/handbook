@@ -84,7 +84,7 @@ To see what's ahead in 13.5, watch the [kickoff videos](https://www.youtube.com/
 
 ### Upcoming Events 🎟
 **Corporate/Regional Events**
-- For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar). 
+- For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/virtual-events/#calendar). 
 
 **Channel Webinars**
 - [GitLab Partner Webcast](https://gitlab.zoom.us/meeting/register/tJYqcOqgqDovHdRHpOgMejCsCCvhlKDyvW5p) - Oct 1

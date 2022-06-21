@@ -57,7 +57,7 @@ To see what's ahead in 14.1, watch the [kickoff video](https://www.youtube.com/w
 - AMER East: [Gitlab Summer Fun Family BBQ Cooking Event with Celebrity Chef Chad Rosenthal](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/3242) - July 22
 - APAC: [Jenkins Migration Workshop](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/3105) - July 28
 
-For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar). 
+For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/virtual-events/#calendar). 
 
 **Channel Webinars**
 - [EMEA Partner Webcast](https://mailchi.mp/3f3a6d5e0159/emea_channel_partner_webcast-july-2021) - July 8

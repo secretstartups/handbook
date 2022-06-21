@@ -101,7 +101,7 @@ To see what's ahead in 13.9, watch the [kickoff video](https://www.youtube.com/w
 - EMEA: [GitFit Challenge, stay fit with GitLab](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2148) - Feb. 1 - Mar. 31
 - APAC: [APAC Virtual CI/CD Workshop](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1847) - Feb. 24
 
-For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar). 
+For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/virtual-events/#calendar). 
 
 ### Team Member Spotlight 🔦
 

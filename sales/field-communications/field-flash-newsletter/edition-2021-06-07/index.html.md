@@ -98,7 +98,7 @@ To see what's ahead in 14.0, watch the [kickoff video](https://youtu.be/Z1FqGH0p
 - [APAC: DevOps Evolution in the Public Sector](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2979) - June 9
 - [EMEA: GitLab Demo Days Series: Level Up DevOps](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2893) - June 15 - July 1
 
-For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar).
+For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/virtual-events/#calendar).
 
 **Channel Webinars**
 - [Partner roundtable: Securing the GitOps Workflow](https://page.gitlab.com/webcast-securing-gitops-workflow.html) - June 15
