@@ -441,23 +441,6 @@ After the Team is added, you should see some notifications about vaults being
 added to 1Password. By default you'll have the **Private** vault, but
 may have access to others.
 
-### Adding the GitLab Team to a 1Password account-less installation
-
-If you already have a non-account based license for 1Password, you can still add the
-GitLab Team to your current account, but there are a few peculiarities:
-1. The Master Password you create for your new GitLab Team account is distinct from
-   your current local vault Master Password, but you will still be able to access
-   all vaults in the macOS app, local and Gitlab, with your existing local vault password.
-1. You will *not* be able to log into 1Password.com using your local Master Password.
-   If you choose to set up 1Password this way, please do print out your GitLab account
-   recovery sheet with your new Master Password and store it somewhere secure, because
-   you'll need it to access your team account online or recover the account, even if
-   you use your local Master Password in day-to-day usage. GitLab cannot recover your
-   account if your account-specific Master Password is lost.
-1. It is possible to set up your GitLab account with any of your email aliases, but each
-   can only be used one time. People Ops Specialists and security will need to set it up as an
-   additional account, so coordinate with them.
-
 ### Updating 1Password to support the Teams feature
 {: #1password-update}
 
@@ -557,28 +540,7 @@ doing this, and it is easy to move items between vaults.
 You are encouraged to use 1Password for your private passwords, not related to
 your work at GitLab.
 This makes it less likely for a security breach to occur. You can purchase a
-standalone license or start an individual subscription. While under the GitLab
-team subscription, it is also possible to create and use a 'Private' vault
-(same features of a standalone license, without the cost, but you will lose
-access if you go through offboarding).
-
-Please bear in mind that if you decide to purchase a standalone license or
-create a personal local vault, your data is stored only in a local folder on
-your computer. You can optionally sync this folder to Dropbox or iCloud (if you
-are using a Mac/iOS) to make it available on your phone's 1Password app, or on
-another computer.
-
-Signing up for a subscription seems to be the solution now recommended by
-AgileBits (the company behind 1Password).
-
-To create a personal local vault:
-
-1. Go to **Preferences**
-1. Go to **Advanced**
-1. Under **Local Vaults**, check **Allow creation of vaults outside of 1Password accounts**
-1. Enter your Master Password
-1. A new local vault (**Primary**) is created outside the GitLab team account
-1. If you want to set up sync for your new local vault, go to **Preferences > Sync**
+standalone license or start an individual subscription. 
 
 ### Two Factor Authentication and Time-based One Time Passwords
 
