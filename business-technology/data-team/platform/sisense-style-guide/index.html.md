@@ -24,7 +24,11 @@ description: "SiSense Style Guide"
 
 ### Choosing the Right Chart
 
-`under construction`
+#### Pie charts
+
+Try to avoid using pie charts and use bar charts instead. The human eye is not well suited to easily grasp the difference in the sizes of the slices of the pie chart, a problem aplified with every added slice over two. If you must use pie charts, reserve them only for use cases where only two dimensional values need to be represented (although even there bar charts may be preferable).
+
+For an in-depth explanation of the limitations of pie charts, please read Stephen Few's excellent [article](https://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf).
 
 ## Colors, Labels, and Data Values
 
