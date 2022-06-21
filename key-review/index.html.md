@@ -95,7 +95,7 @@ Also see [First Post is a badge of
 honor](/handbook/communication/#first-post-is-a-badge-of-honor).
 
 ### Group Conversations and Key Review Metrics
-Function DRIs are expected to use and share their function's Key Review deck, meeting notes and any recordings for their scheduled [Group Conversations](/handbook/group-conversations/). Group Conversations should follow Key Reviews, please see the [Group Conversation schedule](/handbook/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same. You can add additional slides to the Key Review to give more context, not all slides have to relate to KPIs and OKRs. The difference between the two meetings is the audience, the GCs are for a wider audience of the entire company.
+Function DRIs are expected to use and share their function's Key Review deck, meeting notes and any recordings for their scheduled [Group Conversations](https://about.gitlab.com/handbook/group-conversations/#fy23-q2--q3-schedule). Group Conversations should follow Key Reviews, please see the [Group Conversation schedule](/handbook/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same. You can add additional slides to the Key Review to give more context, not all slides have to relate to KPIs and OKRs. The difference between the two meetings is the audience, the GCs are for a wider audience of the entire company.
 
 ### Recordings
 
