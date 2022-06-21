@@ -64,6 +64,7 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 - [Maintainer WG dashboard](https://app.periscopedata.com/app/gitlab/1020829/Maintainer-WG) - A sandbox dashboard for metrics related to the working group
 - [Maintainers and Trainees](/handbook/engineering/development/performance-indicators/#maintainers-and-trainees)
 - [Maintainers per MR](/handbook/engineering/development/performance-indicators/#maintainers-per-mr)
+- [Maintainer Approval Velocity](https://app.periscopedata.com/app/gitlab/1036023/Maintainer-Approval-Velocity)
 
 ### Roles and Responsibilities
 
