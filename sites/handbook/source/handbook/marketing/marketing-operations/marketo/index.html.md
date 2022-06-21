@@ -41,6 +41,11 @@ Marketo also can create and edit SFDC campaigns. The `Active` checkbox must be c
 
 When large updates are made to SFDC, they could cause a sync backlog back to Marketo. To check the backlog, go to [this page](https://app-ab13.marketo.com/supportTools/sfdcSyncStats) and select the object you want to review and click `Get Stats`. Marketo>SFDC is a push count, while SFDC>Marketo is considered Pull. You must be logged in to Marketo to view this information. Backlogs clear automatically, they are slower during working hours due to system usage (Marketo's user base, not just GitLab), but the sync speeds up off-hours and on weekends.
 
+## Custom Sync Rules with Salesforce
+Because certain processes create records with a blank email address in SFDC we want to avoid having those records flowing into Marketo since they are not actionable and the database has increasing costs per the number of records.
+
+Together with Sales Systems, we implemented a custom formula field called `Block_Marketo_Sync__c`. When the field is checked, records will be blocked from syncing by the custom sync rule. Likewise, when the field is unchecked, it will flow to Marketo.
+
 
 ## Multi-thread Sync
 
@@ -210,7 +215,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |Registered |Registered, <br> Conference > Meeting Requested|	+10	|{{my.Registered}}|	Trigger	| Everytime|
 |Follow Up Requested| Follow Up Requested <br> Conference > Meeting Attended|	+100	|{{my.Follow Up Requested}}	|Trigger	| Everytime|
 |* Program High|Workshop, <br> Self-Service Virtual Event, <br> Webcast, <br> Executive Roundtables |	+30	|{{my.Online - High}} |Trigger| Everytime|
-|* Program Med|Sponsored Webcast, <br>Speaking Session,<br> Owned Event	|+20	|{{my.Online - Med}}|Trigger|Everytime|
+|* Program Med|Sponsored Webcast, <br>Speaking Session,<br> Owned Event,<br> Conference	|+20	|{{my.Online - Med}}|Trigger|Everytime|
 |* Program Low |Vendor Arranged Meetings,<br> Conference	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
 |* Content - High|None Defined| +30|	{{my.Content - High}}	|Trigger  |Everytime|
 |* Content - Med|Gated Content|+15|	{{my.Content - Med}}	|Trigger  |Everytime|
@@ -290,7 +295,9 @@ The following segmentations that are approved and live.
 [Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)
 </summary>
 
+- C-Level Executives
 - Executives
+- Directors
 - Managers
 - Practioners
 - Default
