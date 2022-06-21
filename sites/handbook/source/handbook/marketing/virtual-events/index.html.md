@@ -182,11 +182,11 @@ Note: these events are not included in the above decision tree as they are not G
 
 ### Self-service virtual events 
 {: #go-live-self-service}
-In the spirit of efficiency, we encourage team members to host self-service events when they have interesting content to share with the GitLab community. See the project planning and best practices for producing self-service events in the [self-service virtual events execution page](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/index.html) to get started. 
+In the spirit of efficiency, we encourage team members to host self-service events when they have interesting content to share with the GitLab community. See the project planning and best practices for producing self-service events in the [self-service virtual events execution page](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/) to get started. 
 
 ### Webcasts 
 {: #go-live-webcast}
-Currently, only the Campaigns Team team can run GitLab hosted virtual event with `Webcast` type configuration in zoom since this configuration requires a special Zoom license and integration with Marketo. To begin a webcast request, visit the [webcast page](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/) and follow the instructions.
+Currently, only the Campaigns Team team can run GitLab hosted virtual event with `Webcast` type configuration in zoom since this configuration requires a special Zoom license and integration with Marketo. To begin a webcast request, visit the [webcast page](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/) and follow the instructions.
 
 ## How to promote your virtual event?
 {: #promotion}
@@ -195,11 +195,11 @@ Currently, only the Campaigns Team team can run GitLab hosted virtual event with
 {: #promotion-self-service-no-promo}
 **If you have not yet identified if a self-service virtual event is the correct event type of event for you, please scroll to the top of this page to find out.**
 
-Please see the self-service virtual [event promotion guide](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/) for best practice instructions on how to promote.
+Please see the self-service virtual [event promotion guide](https://about.gitlab.com//handbook/marketing/virtual-events/self-service-virtual-events/) for best practice instructions on how to promote.
 
 ### Self-service with promotion
 {: #promotion-self-service}
-Below are Marketing promotion options for self-service virtual event, including requirements and DRI to contact to get the promotions started. Issue links are included in the [epic code template](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#epic-code-for-self-service-with-promotion) for self-service with promotion. The requestor will create the relevant promotion issues for the event and assign to DRI. 
+Below are Marketing promotion options for self-service virtual event, including requirements and DRI to contact to get the promotions started. Issue links are included in the [epic code template](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#epic-code-with-promotion) for self-service with promotion. The requestor will create the relevant promotion issues for the event and assign to DRI. 
 
 * **Organic Social Post:** 1 post, requires 5 BD turnaround, DRI = Social team
 * **Targeted email blast:** 1-2 sends, requires 5 BD turnaround, DRI = MPM
@@ -270,9 +270,9 @@ The question & answer (Q&A) feature for webcasts allows attendees to ask questio
 
 #### Polling
 {: #zoom-polling}
-You can enable polling in your meeting or virtual event to survey your attendees. See the [prerequisites](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#prerequisites) for how to enable polling.
+You can enable polling in your meeting or virtual event to survey your attendees. See the [prerequisites](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites) for how to enable polling.
 
-You can also download the results of your poll - see [reporting](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#reporting).
+You can also download the results of your poll - see [reporting](https://about.gitlab.com/handbook/marketing/virtual-events/#reporting).
 
 *  [Polling for webcasts](https://support.zoom.us/hc/en-us/articles/203749865-Polling-for-Webinars)
 *  [Polling for meetings](https://support.zoom.us/hc/en-us/articles/213756303-Polling-for-Meetings)
@@ -288,7 +288,7 @@ There are currently no networking features available in Zoom outside of the part
 
 ### Security
 {: #zoom-security}
-Please follow the [prerequisites](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#prerequisites) when setting up your virtual event. The [prerequisites](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#prerequisites) include steps for ensuring your virtual event and account are secure.
+Please follow the [prerequisites](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites) when setting up your virtual event. The [prerequisites](https://about.gitlab.com/handbook/marketing/virtual-events/self-service-virtual-events/#prerequisites) include steps for ensuring your virtual event and account are secure.
 
 ### GDPR and privacy compliance
 {: #zoom-compliance}

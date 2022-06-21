@@ -27,9 +27,9 @@ twitter_creator: "@gitlab"
 
 There are four types of GitLab-hosted webcasts and workshops using the Zoom webcast license and BrightTALK, with differing DRIs depending on the webcast goal and owner.
 
-* **[Top-Funnel Campaign Webcasts](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#campaign-webcasts):** goal is net new customer acquisition, managed by Campaign Managers in **BrightTALK**, aligned to use cases amd overarching campaign themes to drive MQLs in target accounts
-* **[Partner Webcasts](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#partner-webcasts):** goal is net new customer acquisition, managed by Partner Marketing in **BrightTALK**, teaming with Partners to drive registration together
-* **[Virtual Workshops](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#virtual-workshops):** goal is to increase conversion/velocity of MQLs to SAO, and/or SAO to Closed Won, using hands-on labs with demo environment, capped registration, managed by Field Marketing in **Zoom**
+* **[Top-Funnel Campaign Webcasts](/handbook/marketing/virtual-events/webcasts/#campaign-webcasts):** goal is net new customer acquisition, managed by Campaign Managers in **BrightTALK**, aligned to use cases amd overarching campaign themes to drive MQLs in target accounts
+* **[Partner Webcasts](/handbook/marketing/virtual-events/webcasts/#partner-webcasts):** goal is net new customer acquisition, managed by Partner Marketing in **BrightTALK**, teaming with Partners to drive registration together
+* **[Virtual Workshops](/handbook/marketing/virtual-events/webcasts/#virtual-workshops):** goal is to increase conversion/velocity of MQLs to SAO, and/or SAO to Closed Won, using hands-on labs with demo environment, capped registration, managed by Field Marketing in **Zoom**
 
 ## Campaign Webcasts
 {: #campaign-webcasts .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -162,7 +162,7 @@ Create a [webcast date request issue](https://gitlab.com/gitlab-com/marketing/de
 * Create the copy for the invite emails, and determine how many invite emails will be sent pre-webcast. 
   + Campaign Manager and Partner marketing: reviews emails before sending*
 * Within the main issue of the webcast, identify the target audience, previous campaigns, and previous events for the lead list for the invitation emails.
-* Campaign Manager is responsible for setting up [calendar invites for kick-off call, content reviews, dry run and webcast](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#project-planning)
+* Campaign Manager is responsible for setting up [calendar invites for kick-off call, content reviews, dry run and webcast](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-1-configure-webex)
 
 **Step 2: Pre-webcast work** 
 * If applicable, work with digital marketing (paid advertising), Campaign Manager on where the budget coming for paid advertising will come from.
@@ -182,7 +182,7 @@ Create a [webcast date request issue](https://gitlab.com/gitlab-com/marketing/de
   + *Slide Deck and Unlisted Youtube video of the webcast*
   + *A call-to-action for a 30-day trial, any other relevant joint partner collateral (gated or not), and/or an applicable Path Factory*
   + *Follow up emails should be sent 24-48 hours post webcast*
-* Work with the Campaign Manager on the [conversion of the on-demand page post webcast](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#converting-the-webcast-to-an-on-demand-gated-asset)
+* Work with the Campaign Manager on the [conversion of the on-demand page post webcast](https://about.gitlab.co/handbook/marketing/virtual-events/webcasts/#converting-the-webcast-to-an-on-demand-gated-asset---zoom)
 * If we are sharing leads with the partner, partner marketing works with Campaign Manager and Marketing Ops to share the leads.
 
 **Step 5: Reporting**
@@ -217,7 +217,7 @@ For details regarding Virtual Workshops, please visit the [Field Marketing Page]
 9. Send the recording to all registrants, whether they attended or not within 48 hours post webcast.
 10. Review Zoom's guide on [in person chat](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat) which explains the various ways you can utilize the chat feature.
 
-Review GitLab's general [virtual events best practices](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/best-practices/) for additional suggestions on how to make your virtual event a success. 
+Review GitLab's general [virtual events best practices](https://about.gitlab.com/handbook/marketing/virtual-events/#best-practices) for additional suggestions on how to make your virtual event a success. 
 
 ## Speaker Approval
 {: #webcast-speaker-approval .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -364,7 +364,7 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
     * There is limited editing capabilities within Zoom. In the confirmation email you can add a snippet of text after the templatized body text and the footer of the email can be edited. In the reminder email, only the footer can be edited.
 12. *Optional* **HEADER IMAGE**: If applicable, click on branding and update the header.
 13. *Optional* **POLLING**: If applicable, add polling questions to the webcast by following the instructions in the video below. Note there is a character limit on poll answer options of 40 characters.
-14. **WATCH ATTENDEE MAX**: In advance of the webcast going live, if you notice that the number of attendees may go over our current max [listed here](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#zoom-capabilities) for Zoom Webcast, please open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues) for IT Ops, as [IT Ops owns the operations of Zoom](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
+14. **WATCH ATTENDEE MAX**: In advance of the webcast going live, if you notice that the number of attendees may go over our current max [listed here](https://about.gitlab.com/handbook/marketing/virtual-events/#zoom-capabilities) for Zoom Webcast, please open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues) for IT Ops, as [IT Ops owns the operations of Zoom](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
 
 **Adding poll questions to a webcast**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QIrRcUIYEwo?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -390,7 +390,7 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 1. In the Marketo program Summary view, you will see `Event Partner:` with a link that says "not set".
 1. Click on "not set"
 1. In the Event Partner drop down, select `Zoom` and in the Login drop down, select `Zoom Webcast`.
-1. In the Event drop-down, select the name of the Zoom webcast you set up in [Step 1: Configure Zoom](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-1-configure-zoom)
+1. In the Event drop-down, select the name of the Zoom webcast you set up in [Step 1: Configure Zoom](/handbook/marketing/virtual-events/webcasts/#step-1-configure-zoom)
 
 #### Create campaign in Salesforce - Zoom
 {: #zoom-sfdc-campaign} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -703,8 +703,8 @@ In the event you need to change the date of your webcast, please follow the step
 5. Leave a comment on the epic stating the event has been rescheduled and tag all internal panelists and hosts.
 6. If webcast is on the Events Page, [submit MR](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to change the date.
 7. Go to marketo, send a webcast reschedule email to all registrants, telling them they will be receiving a new email with the new join link from zoom shortly (this will be covered in step 11). See example reschedule email [here](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#bookmark=id.eqjyly5at0fb).
-8. Create a new zoom program with the new webcast date/time following the steps outlined in [the section above](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-1-configure-zoom).
-9. Create a new marketo program with the new webcast date/time following the steps outlined in [the section above](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-2-set-up-the-webcast-in-marketosfdc-and-integrate-to-zoom) minus the create new campaign in SFDC step since we will be syncing to the existing SFDC program in a later step (step 14).
+8. Create a new zoom program with the new webcast date/time following the steps outlined in [the section above](https://about.gitlab.comhandbook/marketing/virtual-events/webcasts/#step-1-configure-zoom).
+9. Create a new marketo program with the new webcast date/time following the steps outlined in [the section above](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-2-set-up-the-webcast-in-marketosfdc-and-integrate-to-webex) minus the create new campaign in SFDC step since we will be syncing to the existing SFDC program in a later step (step 14).
 10. Move the landing page from the Marketo program with old webcast date/time to the newly created marketo program with new webcast date/time.
 11. Move the registrants from the Marketo program with old webcast date/time to the newly created marketo program with new webcast date/time by running a one time bulk update on the `(Optional: for rescheduled webcast only) Import registrants from old program` smart campaign. Doing this will also re-trigger the confirmation email to existing registrants.
 12. Remove the SFDC campaign sync on the Marketo program with old webcast date/time by clicking salesforce campaign sync and selecting `None`.
@@ -886,7 +886,7 @@ PUBLISHING
 ### Schedule your BrightTALK practice session (Dry Run)
 {: #bt-practice-session} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* Create a Talk, following the [instructions above.](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/)
+* Create a Talk, following the [instructions above.](/handbook/marketing/virtual-events/webcasts/)
 * Select 'Practice (Private)' to run this webcast without it being promoted in your channel listing or via the BrightTALK email service. Only viewers with a direct link to the 'Practice (Private)' webcast will be able to view it.
 * After the practice session, the system will automatically `Publish` your dry run. When your dry run completes, go into the Content section of your channel, Manage the dry run, click Edit, and change it to `Unpublish`.
 * If you watch the replay of the practice session and notice that slides, video, or demo look grainy, select the gear button on the video and change the resolution of the webcast.
@@ -913,7 +913,7 @@ PUBLISHING
 {: #bt-schedule-replay} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 * This option allows you to play a recorded webcast as live at a specific time. The video will play automatically with this option, no one needs to log in to start the webcast. Questions from viewers are recorded and can be downloaded from BrightTalk, then loaded to SFDC for follow-up. If you would like to have a live Q&A session, follow the instructions to schedule a `Talk` instead. You will need to log in to play the pre-recorded video and your presenters will need to be available to answer the questions live.
-* Complete steps to [load a video](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#bt-video-replay) before scheduling your replay. 
+* Complete steps to [load a video](/handbook/marketing/virtual-events/webcasts/#loading-a-video-to-use-in-brighttalk-during-a-live-talk-or-mock-live-replay) before scheduling your replay. 
 1. **LOGIN**: log into BrightTALK, go into the Content tab, and select `Select content` under the Replay section.
 1. **SELECT VIDEO**: Select the video you would like to use in your replay. Click Proceed. 
 1. **REPLAY TITLE**: Insert the title of the webcast (public facing). This information will be prefilled, based on the information provided when the video was uploaded.
@@ -1036,7 +1036,7 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 1. In the Marketo program Summary view, you will see `Event Partner:` with a link that says "not set".
 1. Click on "not set"
 1. In the Event Partner drop down, select `WebEx` and in the Login drop down, select `WebEx API`.
-1. In the Event drop-down, select the name of the WebEx webcast you set up in [Step 1: Configure WebEx](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-1-configure-webex)
+1. In the Event drop-down, select the name of the WebEx webcast you set up in [Step 1: Configure WebEx](/handbook/marketing/virtual-events/webcasts/#step-1-configure-webex)
 
 #### Create campaign in Salesforce - WebEx
 

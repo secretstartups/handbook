@@ -101,7 +101,7 @@ The project owner is responsible for following the steps below to create the epi
 
 ## :books: Tasks and Issues Created and Linked to Epic
 
-## If GitLab is hosting, follow [Webcast process in handbook](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#partner-webcasts
+## If GitLab is hosting, follow [Webcast process in handbook](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#partner-webcasts)
 
 ## General Checklist
 - [ ] Make sure partner is adhering to the GitLab Branding guides and logo usage
