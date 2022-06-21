@@ -32,7 +32,10 @@ Please see additional information on the 2022 US Benefit Plans:
 
 * GitLab offers Mental Wellnesss Services through [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
 
+* [Transparency in Coverage](https://www.cigna.com/legal/compliance/machine-readable-files) Starting July 1, 2022, this link leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data
+
 **Illinois Team Members:** In accordance to the Illinois Consumer Coverage Disclosure Act, please find the [2022 Coverage Summary](https://drive.google.com/file/d/1TpmjxTN15sauveW5VqN3D18gP1YwoOgi/view?usp=sharing) for the essential health benefits available to you. See the [HDHP](https://drive.google.com/file/d/1zAQExWPX3Bm131RdZQaFqMY-K1RdfMlR/view?usp=sharing), [PPO](https://drive.google.com/file/d/1O9LW50Wa7Dq6C9SRoEiCR422XK-0_2ZB/view?usp=sharing), and [EPO](https://drive.google.com/file/d/1tHFEoBDaI1O4yluL9U-X7RBWG8JZOdOS/view?usp=sharing) Summary Plan Descriptions for reference. 
+
 
 ## 2021 Plan Year
 
