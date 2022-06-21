@@ -51,7 +51,7 @@ Supplementary video assets, such as logos, bumpers, photos, graphics, animations
 
 ### Go Live 
 
-Start with the [Go Live decision tree](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-decision-tree) to determine what sort of video, i.e. lightweight virtual event or webcast, you can contribute to the Events channel.
+Start with the [Go Live decision tree](/handbook/marketing/virtual-events/#decision-tree) to determine what sort of video, i.e. lightweight virtual event or webcast, you can contribute to the Events channel.
 * The event must have some level of marketing support as outlined in the decision tree above to qualify for on the Events channel posting.
 * Going Live does not mean your video will get automatic marketing support and visiblity on the channel.
 
