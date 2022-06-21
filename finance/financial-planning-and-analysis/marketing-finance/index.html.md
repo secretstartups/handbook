@@ -36,6 +36,8 @@ title: "Marketing Finance"
 | Revenue Marketing | Sales Development| @rcallam |
 | Marketing Strategy and Ops | Digital Experience | @rcallam |
 | Marketing Strategy and Ops | Marketing Ops | @rcallam |
+| Marketing Strategy and Ops | Growth | @rcallam |
+| Marketing Strategy and Ops | Marketing Strategy and Analytics | @rcallam |
 | CMO Executive | CMO Executive | @rcallam |
 | Integrated Marketing | Digital Marketing | @rcallam |
 | Integrated Marketing | Partner Marketing | @rcallam |
@@ -43,14 +45,9 @@ title: "Marketing Finance"
 | Integrated Marketing | Field Marketing | @rcallam |
 | Integrated Marketing | Account Based Marketing | @rcallam |
  
- 
- 
- 
-## Marketing Variance Packages
- 
-The Marketing Variance Review meeting happens once a month to review the actual expenses for the previous month. For example, in the 3rd week of June we will review May's expenses. 
- 
+
 ## Important Dates
+Subscribe to Marketing Finance Dates Google calendar [here](https://calendar.google.com/calendar/u/0?cid=Y19qNTgxbXBxNHRjbjZiam9qczFicW5sNGVnMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 | Date | DRI | Task | Detail |
 | -------- | ---- |  ---- |   ---- |
 | 2022-06-23 | Marketing Budget Owners | Forecast due in Allocadia for June and July. | Adjust Allocadia forecast values to represent the work that is occuring in June and July, not invoice timing. Invoice timing can occur at anytime. |
@@ -60,7 +57,7 @@ The Marketing Variance Review meeting happens once a month to review the actual 
 | 2022-07-25 | Finance | July AvB shared with Marketing by Marketing Finance | This will kick off the AvB month-end close process. |
 | 2022-07-29 | Marketing Budget Owners | Finalized AvB due to Marketing Finance | Marketing Budget Owners to make comments on all variances greater than $5,000 on the AvB file for their respective budget. This is important support to the month-end close process and drives what is expensed to the P&L. |
 | 2022-08-03 | Marketing Budget Owners | Q3 Plan due in Allocadia | Q3 Plan to be finalized in Allocadia and should be in line with Q3 targets set in Allocadia. Work with Marketing Finance contact with any budget concerns. |
- 
+
 ## Finance Terminology
  
 | Term | Definition |
@@ -87,6 +84,10 @@ At the plan due dates above, finance will take what is loaded into Allocadia for
  
 Please see the [Accounting](https://about.gitlab.com/handbook/finance/accounting/#prepaid-expense-policy) handbook page for the latest guidance on accruals and variance. As our company grows, the guidance is subject to change based on Controller direction.
  
+## Marketing Variance Packages
+ 
+The Marketing Variance Review meeting happens once a month to review the actual expenses for the previous month. For example, in the 3rd week of June we will review May's expenses.
+
 ## Budget Reallocation
  
 You must spend your budget in the same quarter that it was originally allocated. You cannot transfer budget between quarters.
