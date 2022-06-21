@@ -110,7 +110,6 @@ The Senior TAM is a job grade [level 7](/handbook/total-rewards/compensation/com
 * Advanced project management experience & skills
 * Advanced SCM admin and/or PS experience
 
-
 ## Staff TAM (Account)
 
 The Staff TAM (Account) is a subject matter expert in customer engagement and success planning. In addition to working with the customers in their book of business, they provide guidance and coaching to other TAMs and develop improvements to our customer engagement model.
@@ -136,7 +135,6 @@ The Staff, TAM (Account) is a [grade 9](/handbook/total-rewards/compensation/com
 - Identifies challenges in TAM group workflows and those extending to other groups, and owns the research, development, and enablement of the resolutions. Work transparently to surface the problems and allow others to participate in solving them.
 - Regularly publishes handbook updates describing our practice and our collaboration with other groups and improves/grooms existing content in-line with process and enablement improvements
 
-
 ### Staff TAM (Account) Requirements
 
 - Extends the Senior TAM requirements
@@ -154,7 +152,6 @@ The Staff, TAM (Account) is a [grade 9](/handbook/total-rewards/compensation/com
 * Extends the Customer Success KPIs articulated here
 * 3.75m ARR book of business maintained
 * 6 enablement contributions to global CS team per fiscal year
-
 
 ## Staff TAM (Product)
 
@@ -191,7 +188,6 @@ The Staff TAM (Product) is a [grade 9](/handbook/total-rewards/compensation/comp
 * 2.75m ARR book of business maintained
 * 12 customer contributions per year as technical overlay; priority of these engagements to be determined by the Director of Technical Account Managers
 * 1 technical/product enablement per quarter
-
 
 ## Manager, TAM
 
@@ -234,7 +230,6 @@ The Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/compensatio
 * Comfortable giving and receiving positive and constructive feedback
 * Ability to connect technology with measurable business value
 * Strategic thinking about business, products, and technical challenges
-
 
 ## Senior Manager, TAM
 
@@ -362,7 +357,8 @@ The Vice President of TAMs is a job grade [12](https://about.gitlab.com/handbook
 
 * Experience leading a high-touch motion with customers, including strategic account planning, lifecycle management, deep focus on maturity of adoption and leadership in expansion initiatives. 
 
-### Named
+### Mid-Touch
+
 * Possess a deep understanding of creating customer value to deliver scalable customer engagements that help customers derive ongoing value from their investment with GitLab
 * Manage and provide input into iteration upon the customer journey, including onboarding, adoption, retention, and expansion, with an emphasis on defining and demonstrating value programmatically to grow net revenue retention ultimately 
 * Take a data-driven approach to driving value across the customer segment, ensuring time and attention is prioritized to ensure the most significant positive impact
@@ -373,6 +369,7 @@ The Vice President of TAMs is a job grade [12](https://about.gitlab.com/handbook
 
 
 ### Scale
+
 - Develop and deliver scale programs to drive product adoption, expansion, and customer engagement through webinars, digital content, and cohort engagement approaches (e.g., workshops, office hours, etc.)
 - Collaborate across a number of other teams to drive effective customer programs (digital editor, TAM team, digital campaign manager, marketing, growth)
 - Understand the nuances of digital relationships and automated engagements and architects positive customer experiences to ensure the customer feels valued while obtaining value from the GitLab platform
@@ -387,6 +384,7 @@ The Vice President of TAMs is a job grade [12](https://about.gitlab.com/handbook
 - Organize product-centric office hours where customers can troubleshoot with a technical representative
 
 ### Customer Programs 
+
 - Engage and assist customers as part of a campaign or program led by Customer Programs team in partnership with Commercial TAM and Sales team
 - Capture customer insights (e.g., common reasons for stalled adoption, contraction and churn) in the SMB segment through data analysis and customer engagement
 - Create solution guides and videos to deliver technical enablement to a large audience across the SMB and Mid-Market segments primarily
