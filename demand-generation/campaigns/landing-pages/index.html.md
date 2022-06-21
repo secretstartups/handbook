@@ -57,7 +57,7 @@ _Curious how to estimate when a landing page due date should be set? We've tried
   * [Workback schedule calculator](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1648326617)
   * [Character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=905304679)
 * Webcast registration page
-  * [Handbook page to reference process and details](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-3-create-the-landing-page)
+  * [Handbook page to reference process and details](https://about.gitlab.com//handbook/marketing/virtual-events/webcasts/#step-3c-create-the-landing-page)
   * [Workback schedule calculator](https://docs.google.com/spreadsheets/d/1A4c2OodEAsOlN4Ek-rBiLlwkdF0AvX5YBiY4mhkZd-M/edit#gid=666473040)
   * [Character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=43971442)
 * Event meeting request or general info pages
@@ -81,7 +81,7 @@ _Curious how to estimate when a landing page due date should be set? We've tried
 **about.gitlab landing page instructions being phased out**
 * Event landing pages (events yml) - [See Events Handbook Page](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) (for now)
 * Gated content landing pages - [See about.gitlab code Gated Content Handbook Page](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#how-to-gate-a-piece-of-content-on-a-standard-gated-content-landing-page) (to be phased out)
-* Webcast landing pages - [See about.gitlab code Webcast Handbook Page](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-3-create-the-landing-page) (to be phased out)
+* Webcast landing pages - [See about.gitlab code Webcast Handbook Page](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-3c-create-the-landing-page) (to be phased out)
 
 ## Integrated campaign landing pages
 
