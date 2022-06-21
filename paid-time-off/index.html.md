@@ -68,7 +68,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `leaves@gitlab.com` with your specific request and the Absence Management Team will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-roots-events). Events can only be changed after the PTO by Roots event has completed itself.
 
 ### Holidays
-1. In addition, we encourage all team members to take time off for holidays they observe. GitLab embraces asynchronous communications, so calls can be recorded and watched later. No one should ever be expected to attend calls on days they are not working or on official public holidays. For a listing of official holidays by country, follow these steps:
+1. We encourage all team members to take time off for holidays observed in their country. No one is expected to attend calls on days they are not working or out of the office for an official public holiday. As a company that prides itself on a family & friends first approach, it’s a general guideline that if public schools or government offices in your area are closed for a particular national or regional holiday, that it’s recognized for GitLab team members in that location to take off as well. For a listing of official holidays by country, follow these steps:
     1. Go to the [timeanddate.com site](https://www.timeanddate.com/holidays/)
     1. Select your country of residence
     1. Change the dropdown from 'All holidays and national observances' to 'Official holidays' 
