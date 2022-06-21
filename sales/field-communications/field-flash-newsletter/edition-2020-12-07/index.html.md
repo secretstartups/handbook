@@ -103,7 +103,7 @@ To see what's ahead in 13.7, watch the [kickoff videos](https://www.youtube.com/
 - EMEA - DACH: [Expo-IP: a virtual GitLab Island](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1640) - now - Jan. 31
 - APAC: [NZ Virtual Roundtable - Digital Transformation & Resilience](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2023) - Dec. 10
 
-For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar). 
+For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/virtual-events/#calendar). 
 
 **Channel Webinars**
 - [BoatBox Webinar: Reduce Docker Container Patch Time to Zero with CI/CD](https://register.gotowebinar.com/register/2652389693860793101?source=GitLab) - Dec. 8

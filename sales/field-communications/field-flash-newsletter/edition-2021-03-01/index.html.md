@@ -94,7 +94,7 @@ To see what's ahead in 13.10, watch the [kickoff video](https://www.youtube.com/
 - AMER PubSec: [Advanced CI/CD Workshop](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2100) - March 18
 - APAC: DevSecOps Virtual Roundtables - [SEA Ent](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2490), [SEA MM](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2491), [ANZ Ent](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2492) - March 2020
 
-For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar). 
+For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/virtual-events/#calendar). 
 
 **Channel Webinars**
 - [GitLab Partner Webcast](https://www.brighttalk.com/webcast/18613/472331?utm_source=GitLab+Inc.&utm_medium=brighttalk&utm_campaign=472331) - APAC - March 11

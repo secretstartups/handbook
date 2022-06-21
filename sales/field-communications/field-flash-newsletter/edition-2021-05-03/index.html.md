@@ -100,7 +100,7 @@ To see what's ahead in 13.12, watch the [kickoff video](https://www.youtube.com/
 - APAC: [ITnews Webinar: Harnessing Developers to Accelerate DevSecOps; Shifting Security Left](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2574) - May 20
 - EMEA: [Jenkins Migration Workshop EMEA](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2002) - May 27
 
-For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar). 
+For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/virtual-events/#calendar). 
 
 **Channel Webinars**
 - [GitLab Partner Webcast (APAC)](https://www.brighttalk.com/webcast/18613/483881?utm_source=GitLabInc&utm_medium=brighttalk&utm_campaign=483881) - May 5

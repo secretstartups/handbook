@@ -79,7 +79,7 @@ To see what's ahead in 13.6, watch the [kickoff videos](https://www.youtube.com/
 - APAC: [Tech in Gov (Australia)](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1771) - Nov. 3 - 4
 - EMEA: [CI/CD Advanced Demo and Workshop](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1852) - Nov. 11
 
-For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar). 
+For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/virtual-events/#calendar). 
 
 **Channel Webinars**
 - [GitLab Partner Webcast](https://mailchi.mp/gitlab/channelpartnerwebcast-episode_7) - Nov. 12 (Major Partner updates!) 
