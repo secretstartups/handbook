@@ -50,8 +50,7 @@ This list has been pre-approved so if any team-member needs access to these syst
 | System Name                      | Business Purpose                                    | System Role (What level of access)                                         |
 | -------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------- |
 | 1Password                        | User Password Management                            | Team Member                                                                |
-| BambooHR                         | Human Resource Platform                             | Employee                                                                   |
-| Calendly                         | Add-in for meeting Scheduling                       | Employee                                                                   |
+| BambooHR                         | Human Resource Platform                             | Employee                                                                   |                                                                  |
 | Carta                            | Shares Management                                   | Employee                                                                   |
 | CultureAmp                       | 360 Feedback Management                             | User                                                                       |
 | EdCast                           | Structured and personal learning experiences        | User                                                                       |
