@@ -34,13 +34,14 @@ Please review the coverage owner closest available per their timezone when decid
 | UTC (Emea Working)                          | 11pm - 3am PT / 2am - 6am ET  | Mihai Conteanu            | Gillian Murphy          | 9am - 1pm EET     |
 | UTC (EMEA Working)                          | 3am - 7am PT / 6am - 10am ET  | Gillian Murphy            | Mihai Conteanu          | 11am - 3pm UK     |
 | UTC (Amer-Morning)                          | 7am - 11am PT / 10am - 2pm ET | Jameson Burton            | Nikki Silverberg        | 10am - 2pm ET     |
-| UTC (Amer-Afternoon)                        | 11am - 3pm PT / 2pm - 6pm ET  | Jameson Burton            | Nikki Silverberg        | 11am - 3pm PT     |
-| UTC (Amer-Evening)                          | 3pm - 6pm PT / 6pm - 9pm ET   | Amy Waller                | Nikki Silverberg        | 3pm - 6pm PT      |
+| UTC (Amer-Afternoon)                        | 11am - 3pm PT / 2pm - 6pm ET  | Nikki Silverberg           | Jenny Tiemann        | 11am - 3pm PT     |
+| UTC (Amer-Evening)                          | 3pm - 6pm PT / 6pm - 9pm ET   | Jenny Tiemann              | Amy Waller        | 3pm - 6pm PT      |
 
 
 **Typical Team Timezones:**
 * Amy: PST Pacific Standard Time UTC:-8:00 
 * David: PST Pacific Standard Time UTC:-8:00
+* Jenny: PST Pacific Standard Time UTC:-8:00
 * Nikki: MST Mountain Time UTC:-7:00
 * Jameson: EST Eastern Standard Time UTC: -5:00
 * Gillian: GMT Greenwich Mean Time UTC: +1:00
