@@ -266,6 +266,164 @@ The feature flag triage reports are generated in a [quality toolbox scheduled pi
 
 Reports open for more than 2 weeks with the `~"triage report"` label will be closed automatically with the [close old triage reports](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/close-reports/close-old-triage-reports.yml) automation.
 
+## Reactive workflow automation
+
+Reactive triage automation is complementary to scheduled triage automation where
+realtime feedback provides an improved developer experience. This is handled by
+[triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops).
+
+### Community-related reactive workflow automation
+
+#### Community contribution thank you note
+
+* Automation Condition:
+  - MR was opened
+  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group, or the MR is opened for the `gitlab-com/www-gitlab-com` project and its author is not a member of the `gitlab-com` group
+* Automation Action:
+  - Posts a "Thank you" note
+  - Adds `~"Community contribution"` and `~"workflow::in dev"`
+  - Assigns the MR to its author
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/thank_contribution.rb>
+
+#### Automated review request
+
+* Automation Condition:
+  - `~"workflow::ready for review"` was added
+  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
+* Automation Action:
+  - Removes the "Draft" status if present
+* Rate limiting: once per MR per day
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_generic.rb>
+
+#### Automated review request for doc contributions
+
+* Automation Condition:
+  - `~"workflow::ready for review"` was added
+  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
+  - MR has documentation changes
+  - No existing note asking for documentation review
+* Automation Action:
+  - Asks a relevant Technical Writer (based on the changes' mapped from the `CODEOWNERS` file) to review
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_doc.rb>
+
+#### Automated review request for UX contributions
+
+* Automation Condition:
+  - `~"workflow::ready for review"` was added
+  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
+  - `~UX` is set
+  - No existing note asking for UX review
+* Automation Action:
+  - Posts a Slack message in the `#ux-community-contributions` Slack channel (internal) to ask a UX reviewer to review non-draft MRs
+  - Posts a note to let the author know about the Slack ping
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_ux.rb>
+
+#### Reactive `help` command
+
+* Automation Condition:
+  - A new MR note that start with `@gitlab-bot help` is posted on a merge request
+  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
+* Automation Action:
+  - Pings and assigns (as reviewer) a random MR coach for help
+* Rate limiting: once per MR per day
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_help.rb>
+
+#### Reactive `ready` command
+
+* Automation Condition:
+  - The MR author posts a note that start with `@gitlab-bot ready`, `@gitlab-bot review`, or `@gitlab-bot request_review`
+  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
+* Automation Action:
+  - Adds `~"workflow::ready for review"` to the MR
+* Rate limiting: once per MR per day
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_request_review.rb>
+
+#### Reactive `label` command
+
+* Automation Condition:
+  - The MR author posts a note that start with `@gitlab-bot label ~"label-name"` where `label-name` matches `group::*`, `type::*` or is `~"workflow::in dev"` or `~"workflow::ready for review"`
+  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
+  - Posts a quick action to add the requested label
+* Rate limiting: 60 times per author per hour
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_label.rb>
+
+#### Idle/Stale label remover
+
+* Automation Condition:
+  - The MR author posts a note or pushes new changes to the MR
+  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
+  - `~idle` or `~stale` is set on the merge request
+* Automation Action:
+  - Removes `~idle` and `~stale`
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/remove_idle_labels_on_activity.rb>
+
+#### Code Review Experience Feedback
+
+* Automation Condition:
+  - MR was merged or closed
+  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group, or the MR is opened in a project under the `gitlab-com` group and its author is not a member of the `gitlab-com` group
+  - No existing note asking for feedback
+* Automation Action:
+  - Posts a note to ask MR author about their contributing experience
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/code_review_experience_feedback.rb>
+
+#### Reactive `feedback` command
+
+* Automation Condition:
+  - The MR author posts a note that start with `@gitlab-feedback`
+  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
+* Automation Action:
+  - Posts a Slack message in the `#mr-feedback` Slack channel (internal) pointing to the contributor feedback note
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_feedback.rb>
+
+#### Hackathon labeler
+
+* Automation Condition:
+  - MR was opened or updated during the Hackathon dates
+  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group, or the MR is opened in a project under the `gitlab-com` group and its author is not a member of the `gitlab-com` group
+  - No existing note mentioning the Hackathon
+* Automation Action:
+  - Posts a note mentioning the Hackathon
+  - Adds the `~Hackathon` label
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/hackathon_label.rb>
+
+### Engineering workflow automation
+
+#### Ensure priorities for availability issues
+
+For issues labelled `~"availability"`, the minimal are enforced with the
+guidelines at
+<https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability-prioritization>
+
+#### Ensure no deprecated backstage labels are added
+
+Whenever `~"backstage [DEPRECATED]"` is added, it'll remove it and hint
+about why it should not be added, and alternatives will be provided.
+
+#### Add customer label whenever a customer associated link is added
+
+The `~"customer"` label is applied when a customer associated link is applied.
+
+The following URLs are considered customer associated links:
+
+* `gitlab.zendesk.com`
+* `gitlab.my.salesforce.com`
+
+#### Add type label from subtype
+
+Whenever a subtype label is added, the corresponding type label is added.
+Current type labels with subtype labels are:
+
+* `~"type::feature"`
+* `~"type::tooling"`
+
+#### Merge request type label copy from related issues
+
+* Automation condition: Open or update of a merge request without a type label that have a related issue with a type label.
+* Automation action:
+  - The type label in the issue is applied to the merge request
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/apply_type_label_from_related_issue.rb>
+
 ## Scheduled workflow automation
 
 Scheduled triage automation is run to label and update issues which help with
@@ -520,165 +678,6 @@ Note:
 1. The `~"automation:infradev-missing-labels"` is automatically removed when a severity label, a priority label, and a milestone are set on the issue.
 1. The `~"automation:infradev-missing-labels"` is automatically removed after two weeks, leading to a new message being posted if the Automation Conditions above are still met.
    This effectively ensures that a reminder is posted on the issue every two weeks.
-
-## Reactive workflow automation
-
-Reactive triage automation is complementary to scheduled triage automation where
-realtime feedback provides an improved developer experience. This is handled by
-[triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops).
-
-### Community-related reactive workflow automation
-
-#### Community contribution thank you note
-
-* Automation Condition:
-  - MR was opened
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group, or the MR is opened for the `gitlab-com/www-gitlab-com` project and its author is not a member of the `gitlab-com` group
-* Automation Action:
-  - Posts a "Thank you" note
-  - Adds `~"Community contribution"` and `~"workflow::in dev"`
-  - Assigns the MR to its author
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/thank_contribution.rb>
-
-#### Automated review request
-
-* Automation Condition:
-  - `~"workflow::ready for review"` was added
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-* Automation Action:
-  - Removes the "Draft" status if present
-* Rate limiting: once per MR per day
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_generic.rb>
-
-#### Automated review request for doc contributions
-
-* Automation Condition:
-  - `~"workflow::ready for review"` was added
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-  - MR has documentation changes
-  - No existing note asking for documentation review
-* Automation Action:
-  - Asks a relevant Technical Writer (based on the changes' mapped from the `CODEOWNERS` file) to review
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_doc.rb>
-
-#### Automated review request for UX contributions
-
-* Automation Condition:
-  - `~"workflow::ready for review"` was added
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-  - `~UX` is set
-  - No existing note asking for UX review
-* Automation Action:
-  - Posts a Slack message in the `#ux-community-contributions` Slack channel (internal) to ask a UX reviewer to review non-draft MRs
-  - Posts a note to let the author know about the Slack ping
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_ux.rb>
-
-#### Reactive `help` command
-
-* Automation Condition:
-  - A new MR note that start with `@gitlab-bot help` is posted on a merge request
-  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-* Automation Action:
-  - Pings and assigns (as reviewer) a random MR coach for help
-* Rate limiting: once per MR per day
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_help.rb>
-
-#### Reactive `ready` command
-
-* Automation Condition:
-  - The MR author posts a note that start with `@gitlab-bot ready`, `@gitlab-bot review`, or `@gitlab-bot request_review`
-  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-* Automation Action:
-  - Adds `~"workflow::ready for review"` to the MR
-* Rate limiting: once per MR per day
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_request_review.rb>
-
-#### Reactive `label` command
-
-* Automation Condition:
-  - The MR author posts a note that start with `@gitlab-bot label ~"label-name"` where `label-name` matches `group::*`, `type::*` or is `~"workflow::in dev"` or `~"workflow::ready for review"`
-  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-  - Posts a quick action to add the requested label
-* Rate limiting: 60 times per author per hour
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_label.rb>
-
-#### Idle/Stale label remover
-
-* Automation Condition:
-  - The MR author posts a note or pushes new changes to the MR
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-  - `~idle` or `~stale` is set on the merge request
-* Automation Action:
-  - Removes `~idle` and `~stale`
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/remove_idle_labels_on_activity.rb>
-
-#### Code Review Experience Feedback
-
-* Automation Condition:
-  - MR was merged or closed
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group, or the MR is opened in a project under the `gitlab-com` group and its author is not a member of the `gitlab-com` group
-  - No existing note asking for feedback
-* Automation Action:
-  - Posts a note to ask MR author about their contributing experience
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/code_review_experience_feedback.rb>
-
-#### Reactive `feedback` command
-
-* Automation Condition:
-  - The MR author posts a note that start with `@gitlab-feedback`
-  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-* Automation Action:
-  - Posts a Slack message in the `#mr-feedback` Slack channel (internal) pointing to the contributor feedback note
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_feedback.rb>
-
-#### Hackathon labeler
-
-* Automation Condition:
-  - MR was opened or updated during the Hackathon dates
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group, or the MR is opened in a project under the `gitlab-com` group and its author is not a member of the `gitlab-com` group
-  - No existing note mentioning the Hackathon
-* Automation Action:
-  - Posts a note mentioning the Hackathon
-  - Adds the `~Hackathon` label
-* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/hackathon_label.rb>
-
-### Engineering workflow automation
-
-#### Ensure priorities for availability issues
-
-For issues labelled `~"availability"`, the minimal are enforced with the
-guidelines at
-<https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability-prioritization>
-
-#### Ensure no deprecated backstage labels are added
-
-Whenever `~"backstage [DEPRECATED]"` is added, it'll remove it and hint
-about why it should not be added, and alternatives will be provided.
-
-#### Add customer label whenever a customer associated link is added
-
-The `~"customer"` label is applied when a customer associated link is applied.
-
-The following URLs are considered customer associated links:
-
-* `gitlab.zendesk.com`
-* `gitlab.my.salesforce.com`
-
-#### Add type label from subtype
-
-Whenever a subtype label is added, the corresponding type label is added.
-Current type labels with subtype labels are:
-
-* `~"type::feature"`
-* `~"type::tooling"`
-
-#### Merge request type label copy from related issues
-
-* Automation condition: Open or update of a merge request without a type label that have a related issue with a type label.
-* Automation action:
-  - The type label in the issue is applied to the merge request
-* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/apply_type_label_from_related_issue.rb>
-
 ## Resources
 
 * [Issue Triage Policies](/handbook/engineering/quality/issue-triage/).
