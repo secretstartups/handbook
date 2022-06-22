@@ -105,7 +105,7 @@ Follow this process to obtain legal review of a **single piece of material**. A 
 
 5. If the review request relates to a video not yet produced, review and approval is required in respect of **both** (i) the slide deck, storyboard, and script (as appropriate, and in final form) before recording, **and** (ii) the final cut. Request review at each stage as set out in this process.
 
-6. The Legal & Corporate Affairs Team will review the material, making comments and requests for changes in the document, or an issue comment thread, and provide context for any requested changes in accordance with the [say why, not just what](/handbook/values/#say-why-not-just-what) sub-value.
+6. The Legal & Corporate Affairs Team will review the material, making comments and requests for changes in the document, or an issue comment thread, and provide context for any requested changes in accordance with the [say why, not just what](/handbook/values/#say-why-not-just-what) operating principle.
 
 7. Once legal review is complete and the material approved, a [Legal & Corporate Affairs Team member](https://about.gitlab.com/company/team/?department=legal-corporate-affairs) will tag the issue creator and comment `Legal review complete: material approved`. The material is approved only once `Legal review complete: material approved `has been commented; comments like `SAFE review complete` and `IP review complete` **do not indicate approval**.
 
@@ -134,7 +134,7 @@ Follow this process to obtain legal review of **multiple pieces of material** wi
    * Google Slides: add the link to the first slide.
    * PDFs: no link required.
 
-4. The Legal & Corporate Affairs team will review the material, making comments and requests for changes in the document, or the applicable comment thread in the issue, and provide context for any requested changes in accordance with the [say why, not just what](/handbook/values/#say-why-not-just-what) sub-value. **Ensure that all discussion relating to a given piece of material takes place in [replies to the relevant comment thread](https://docs.gitlab.com/ee/user/discussions/#create-a-thread-by-replying-to-a-standard-comment)**; do not create a new comment thread each time you comment.
+4. The Legal & Corporate Affairs team will review the material, making comments and requests for changes in the document, or the applicable comment thread in the issue, and provide context for any requested changes in accordance with the [say why, not just what](/handbook/values/#say-why-not-just-what) operating principle. **Ensure that all discussion relating to a given piece of material takes place in [replies to the relevant comment thread](https://docs.gitlab.com/ee/user/discussions/#create-a-thread-by-replying-to-a-standard-comment)**; do not create a new comment thread each time you comment.
 
 5. Once legal review is complete and the material approved, a [Legal & Corporate Affairs Team member](https://about.gitlab.com/company/team/?department=legal-corporate-affairs) will tag the creator of the comment thread and comment `Legal review complete: material approved` in the relevant comment thread. The material is approved only once `Legal review complete: material approved `has been commented; comments like `SAFE review complete` and `IP review complete` **do not indicate approval**.
 
