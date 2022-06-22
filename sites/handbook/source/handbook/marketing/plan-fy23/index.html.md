@@ -75,7 +75,7 @@ On a monthly cadence, the **Marketing Key Review** will be used as the venue for
 - **[Integrated Campaign](/handbook/marketing/campaigns/#overview)**: managed by Campaign Managers, these are global campaigns that are leveraged across marketing and sales to drive pipeline.
 * **[Key Account Lists)](/handbook/marketing/account-based-marketing/key-account-lists)**: key accounts determined by sales that will be a focus for integrated ABM campaigns.
 - **[LAM]()**: Landed Addressable Market; annual revenue opportunity of the entirety of GitLab's market within our current customer base
-- **[ICP](/handbook/marketing/revenue-marketing/account-based-strategy/ideal-customer-profile/)**: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
+- **[ICP](/handbook/marketing/account-based-marketing/ideal-customer-profile/)**: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
 
 ## GTM Motions & Campaigns
 {: #gtm-motions .gitlab-purple}
