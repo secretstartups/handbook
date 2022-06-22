@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Jupyter Guide"
-description: "Guidance on interacting with SnowFlake internally using JupyterLab"
+description: "Guidance on setting up JupyterLab"
 ---
 
 ## On this page
@@ -15,20 +15,20 @@ See related [repository](https://gitlab.com/gitlab-data/data-science)
 
 ### Features
 
+- Full install of JupyterLab with the most useful extensions pre-installed. 
 - Common python DS/ML libraries (pandas, scikit-learn, sci-py, etc.)
 - Natively connected to Snowflake using your dbt credentials. No login required!
-- Git functionality: push and pull to Gitlab repos natively within JupyterLab ([requires ssh credentials](https://docs.gitlab.com/ee/ssh/index.html))
-- Run any python file or notebook on your computer or in a Gitlab repo; the files do not have to be in the data-science container
-- Linting python code using [black](https://pypi.org/project/black/)
-- Need a feature you use but don't see? Let us know on [#bt-data-science](https://gitlab.slack.com/archives/C027285JQ4E) and we can add it!
-
+- Git functionality: push and pull to Git repos natively within JupyterLab ([requires ssh credentials](https://docs.gitlab.com/ee/ssh/index.html))
+- Run any python file or notebook on your computer or in a Gitlab repo; the files do not have to be in the data-science container.
+- Linting python code using [black](https://pypi.org/project/black/) natively within Jupyter
+- Need a feature you use but don't see? Let us know on [#bt-data-science](https://gitlab.slack.com/archives/C027285JQ4E)!
 
 ### Getting Started
 First, you need to install and launch [Rancher Desktop](https://rancherdesktop.io/), an open-source container manager, on your local machine.
 
 You have two options when setting up jupyter via the data-science project. Choose from one of the following:
-- **Full install (Recommended)**: Installs all libraries defined by the [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile), **_plus_** a complete Mambaforge install.
-- **Lightweight install**: installs **_only_** the libraries defined by the [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile) and should be used if you already have a python environment on your local machine that you would like to use as the base image.
+- **Full install (Recommended)**: Installs [Mambaforge](https://github.com/conda-forge/miniforge) on your local machine, **_plus_** creates a viritual environment ([pipenv](https://pypi.org/project/pipenv/) with all libraries defined in this [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile) 
+- **Minimal install**: Installs **_only_** the libraries defined in this [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile) and should be used if you already have a python environment on your local machine that you would like to use as the base image. Requires Python 3.9.
 
 ### Installation Instructions
 
@@ -36,31 +36,15 @@ You have two options when setting up jupyter via the data-science project. Choos
 2. Run `cd data-science`
 3. Based on which version you would like to install, run one of the following:
     - **_For full install_**: run `make setup-jupyter-local`
-    - **_For lightweight install_**: run `make setup-jupyter-local-no-conda` 
+    - **_For minimal install_**: run `make setup-jupyter-local-no-mamba` 
 4. Run `make jupyter-local`
-5. Jupyter should launch automatically. If it does not: 
-   1. First make sure that Google Chrome is your default browser (go to "System Preferences", click "General" and choose Google Chrome from dropdown menu in section "Default web browser"). 
-   2. Then, in Chrome, copy paste the url and token found in terminal once the container creates. It should look something like `http://127.0.0.1:8888/lab?token=5c7f7da79f4a0968501f087f3c79ee4dd8bd7a63e0f088a8`. The token will change each time you spin up the container.
-
-#### Validation of installation
-
-Before you proceed further, validate if your Python and pip (package installer for Python) are in correct paths. If these are not in correct locations you may not be able to work with the most up to date packages.
-
-To check if everything is correct open terminal and run command 
-
-``which python`` 
-
-It lists location of your default Python. It should be in ``/Users/{your_user_name}/mambaforge/bin``
-
-And command 
-
-``which pip``
-
-It lists location of your default pip. It should be in ``/Users/{your_user_name}/mambaforge/bin/pip``
+5. Jupyter Lab will launch automatically in your default browser. 
 
 #### Linting the repository
 
-Included in the environment setup are all of the libraries needed to lint Jupyter notebooks in the repository. After completing the above setup instructions run: 
+Included in the environment setup are all of the libraries needed to lint Jupyter notebooks in the repository. When you launch JupyterLab and open a notebook you should see a new "Format Notebook" icon in the task bar of your notebook. Clicking that button will lint your entire notebook.
+
+Alternatively, after completing the above setup instructions run: 
 ```
 make lint
 ```
@@ -75,7 +59,7 @@ From the root of the data science repo, this will find and correct and issues ac
 
 #### Mounting a local directory
 
-By default, the local install will use the data-science folder as the root directory for jupyter. This is not terribly useful when all your code, data, and notebooks are in other locations on your computer. To change, this you will need to create and modify a jupyter notebook config file:
+By default, the local install will use the data-science folder as the root directory for jupyter. This is not terribly useful when your code, data, and notebooks are in other repositories on your computer. To change, this you will need to create and modify a jupyter notebook config file:
 1. Open terminal and run `jupyter-lab --generate-config`. This creates the file `/Users/{your_user_name}/.jupyter/jupyter_lab_config.py`
 1. Browse to the file location and open it in an editor
 1. Search for the following line in the file: `#c.ServerApp.root_dir = ''` and replace with `c.ServerApp.root_dir = '/the/path/to/other/folder/'`. If unsure, set the value to your repo directory (i.e. `c.ServerApp.root_dir = '/Users/{your_user_name}/repos'`). Make sure you remove the `#` at the beginning of the line.
@@ -83,14 +67,14 @@ By default, the local install will use the data-science folder as the root direc
 1. Rerun `make jupyter-local` from the data-science directory and your root directory should now be changed to what you specified above. 
 
 #### Enabling Jupyter Templates
+
 The data science team has created modeling templates that allow you to easily start building predictive models without writing python code from scratch. To enable these templates:
-1. In terminal run `pip install jupyterlab_templates`
-2. In your `jupyter_lab_config.py` that you created as part of the [Mounting a local directory](https://about.gitlab.com/handbook/business-technology/data-team/platform/jupyter-guide/#mounting-a-local-directory), add the following lines, replacing `/Users/{your_user_name}/repos/` with the path to the `data-science/templates` repo on your local machine:
+- In your `jupyter_lab_config.py` that you created as part of the [Mounting a local directory](https://about.gitlab.com/handbook/business-technology/data-team/platform/jupyter-guide/#mounting-a-local-directory), add the following lines, replacing `/Users/{your_user_name}/repos/` with the path to the `data-science/templates` repo on your local machine:
 ```
 c.JupyterLabTemplates.template_dirs = ['/Users/{your_user_name}/repos/data-science/templates']
 c.JupyterLabTemplates.include_default = False
 ```
-3. Launch JupyterLab and you should see a new _Template_ icon. Click the icon and select which template you would like to use.
+- Launch JupyterLab and you should see a new _Template_ icon. Click the icon and select which template you would like to use.
 ![alt text](jupyter-screen-shot.png)
 
 #### Increasing Container Memory Allocation
@@ -118,7 +102,7 @@ By default, rancher will allocate a small percentage of your machine's memory to
 }
 ```
 
-### Interesting libraries included
+### Some interesting libraries included
 
 #### Data/Model Analysis
 
@@ -132,19 +116,15 @@ By default, rancher will allocate a small percentage of your machine's memory to
 
 #### ML libraries
 
-* [SKlearn](https://scikit-learn.org/stable/index.html)
-* [Tensorflow](https://www.tensorflow.org/api_docs/python/tf)
-* [Torch](https://pytorch.org/)
+* [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 * [Py-earth](https://contrib.scikit-learn.org/py-earth/content.html) (linear and logistic regression) 
-* [Prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api) (time series)
 * [Autots](https://pypi.org/project/AutoTS/) (time series)
 * [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html) (powerful black-box method) 
+* [Tensorflow & Keras](https://www.tensorflow.org/api_docs/python/tf)
+* [MLFlow](https://mlflow.org/docs/latest/index.html)
 
 #### Easy concurrency
 
 * [Modin](https://modin.readthedocs.io/en/latest/#)
 * [Dask](https://dask.org/) (must be self-installed)
 
-#### GPU speedup
-
-* [PlainML](https://github.com/plaidml/plaidml)
