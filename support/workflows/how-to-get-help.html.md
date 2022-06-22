@@ -29,7 +29,7 @@ Identify what's causing you to get stuck. Some examples are:
 
 Then consider these options to help unblock you. And remember that
 [escalating to unblock](https://about.gitlab.com/handbook/values/#escalate-to-unblock)
-is a sub-value of Results.
+is an operating principle of Results.
 
 1. Ask in [your group's Slack channel](/handbook/support/support-global-groups/#slack) for help. You might get all the help you
    need in responses right there, or you might open up the group's Zoom room
