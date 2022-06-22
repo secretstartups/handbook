@@ -1611,7 +1611,7 @@ Please visit the [Tools and Tips handbook](/handbook/tools-and-tips/#zoom) for Z
 
 [COVID-19](/handbook/total-rewards/benefits/covid-19/) is impacting how team members connect and communicate with family.
 
-Due to school closures, parents are tasked with being responsible for their children while at home. [Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second) is an important Diversity, Inclusion & Belonging sub-value. To that end, we are encouraging GitLab team members to allow their children to connect with other children around the world.
+Due to school closures, parents are tasked with being responsible for their children while at home. [Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second) is an important Diversity, Inclusion & Belonging operating principle. To that end, we are encouraging GitLab team members to allow their children to connect with other children around the world.
 
 You can arrange these by [joining the `#kid-juicebox-chats` Slack channel](/company/culture/all-remote/informal-communication/#juice-box-chats) — a spin on our usual [Coffee Chats](/company/culture/all-remote/informal-communication/#coffee-chats).
 
