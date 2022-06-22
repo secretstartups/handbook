@@ -357,7 +357,7 @@ The Vice President of TAMs is a job grade [12](https://about.gitlab.com/handbook
 
 * Experience leading a high-touch motion with customers, including strategic account planning, lifecycle management, deep focus on maturity of adoption and leadership in expansion initiatives. 
 
-### Mid-Touch
+### Customer Success Manager, Growth Accounts
 
 * Possess a deep understanding of creating customer value to deliver scalable customer engagements that help customers derive ongoing value from their investment with GitLab
 * Manage and provide input into iteration upon the customer journey, including onboarding, adoption, retention, and expansion, with an emphasis on defining and demonstrating value programmatically to grow net revenue retention ultimately 
@@ -366,7 +366,6 @@ The Vice President of TAMs is a job grade [12](https://about.gitlab.com/handbook
 * Work cross-functionally with multiple teams (CS ops, content, programs, marketing, product) to develop thoughtful and innovative approaches to driving success with customers at scale
 * Identify key areas of enablement need across the customer segment and partner closely with the strategic and scale TAMs to create content and webinars to address these needs
 * Analyze industry best practices, trends, and performance metrics to shape customer engagement strategies and accelerate results
-
 
 ### Scale
 
@@ -405,15 +404,11 @@ The Vice President of TAMs is a job grade [12](https://about.gitlab.com/handbook
 - Knowledge of and demonstrated progressive experience with Public Sector customers
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
 
-## Customer Success Engineer (CSE)
+### Customer Success Engineer (CSE)
 
 The Customer Success Engineer (CSE) role provides deep subject matter expertise on GitLab technical and product solutions and best practices. CSEs work alongside TAMs to provide customers with technical guidance, go in-depth on use case implementation, and demonstrate the value of GitLab product capabilities.
 
-### CSE Job Grade
-
-The CSE (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### CSE Responsibilities
+#### CSE Responsibilities
 
 - Engage with customers, both onsite and remote, in a technical consultancy and advisor role during the post-sales process while providing technical and solution guidance
 - Have demonstrated the ability to become a trusted technical advisor to customer and business leaders
@@ -424,7 +419,7 @@ The CSE (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 - Maintain specialty competency in one or more technologies related to GitLab's market focus through activities such as training, certification and creation of working examples for reuse internally and by customers and partners
 - Continuously improve professional skills with a focus on personal mastery and team learning through activities such as training, reading and seeking mentorship from others
 
-### CSE Requirements
+#### CSE Requirements
 
 - Experience with a GitLab use case (SCM, CI, CD, DevSecOps, Agile Planning) to provide in-depth customer guidance and enablement
 - Proficiency using DevSecOps tools or highly technical tooling in adjacent fields
