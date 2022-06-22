@@ -41,7 +41,7 @@ Working backwards from your target, you'll be able to calculate how many account
 
 Work with your [Sales Development Representative (SDR)](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#working-with-sales) to: 
 - Get input on your territory plan and how that maps to their activities.
-- Review activity and engagement in [DemandBase](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/).
+- Review activity and engagement in [DemandBase](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/).
 - Develop your approach and identify the right messaging.
 
 **Use data to support your assumptions:**
@@ -111,7 +111,7 @@ Holding hurts our prospective customers because while they’re sitting there, t
 - [Field Marketing events and support](https://about.gitlab.com/handbook/marketing/field-marketing/#types-of-programs-field-marketing-runs)
 - [Compete support](https://about.gitlab.com/handbook/marketing/strategic-marketing/competitive/#account-specific-support) and [Competition Slack channel](https://gitlab.slack.com/archives/C1BBL1V3K)
 - [Executive sponsorship program](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#executive-sponsorship-program)
-- [Nominate account for ABM marketing support](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/account-based-marketing/#nomination-process)
+- [Nominate account for ABM marketing support](https://about.gitlab.com/handbook/marketing/account-based-marketing/)
 
 **Partner support:** [#channel-sales Slack channel](https://gitlab.slack.com/archives/CT9KKE5RR) is a great place to get help from a Channel Account Manager that can share partner contacts with you
 - Find a partner in the [GitLab Partner Directory](https://partners.gitlab.com/English/directory/)
@@ -125,7 +125,7 @@ The toolkit above will be your main resource and contains things like a sequenci
 
 **[LinkedIn Sales Navigator](https://www.linkedin.com/business/sales/blog/sales-navigator/what-is-linkedin-sales-navigator)** is one of the main prospecting tools we use at GitLab. It features a powerful set of search capabilities, improved visibility into extended networks, and personalized algorithms to help you reach the right decision maker. All SALs have access to LSN. [Click to go to the EdCast training.](https://gitlab.edcast.com/insights/learning-linkedin-sales) And view additional videos and tutorials on [the handbook page](https://about.gitlab.com/handbook/sales/training/social-selling/).
 
-**[DemandBase](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/)** is used by SDRs who can show you relevant data related to your target prospects. It has a wealth of intent and propensity to buy data that is married with account engagement indicators to create a holistic intent mapping for each account. 
+**[DemandBase](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/)** is used by SDRs who can show you relevant data related to your target prospects. It has a wealth of intent and propensity to buy data that is married with account engagement indicators to create a holistic intent mapping for each account. 
 
 **[Conversica](https://about.gitlab.com/handbook/marketing/marketing-operations/conversica/)** is a conversational AI tool that helps enterprise marketing, sales, customer success, and finance teams attract, acquire and grow customers at scale across the customer revenue lifecycle. The AI Assistant works by engaging the prospect in a human-like conversation over email in an effort to further qualify the prospect.
 

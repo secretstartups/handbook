@@ -82,7 +82,7 @@ Learn more about IBM CloudPaks Eco-System on the [Messaging & Glossary page](htt
 1. Account Centric: Accounts that match our ICP and are showing intent, or propensity to buy. 
 1. Account Based = first order & Account based = expand: Accounts that are in our account based marketing campaigns. 
 
-If you are interested in reading more about the focus accounts lists, ABM or our ICP, [visit the ABM handbook page](/handbook/marketing/revenue-marketing/account-based-strategy/).
+If you are interested in reading more about the focus accounts lists, ABM or our ICP, [visit the ABM handbook page](/handbook/marketing/account-based-marketing/).
 
 ### What's New in GitLab 🚀
 The GitLab 13.8 release is live! Here are the takeaways for customers and prospects:

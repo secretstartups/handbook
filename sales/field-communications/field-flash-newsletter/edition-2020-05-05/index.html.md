@@ -49,10 +49,10 @@ The Channel Program was announced externally on April 21 and generated a lot of 
 We have added a new section to clarify reporter user pricing in our Pricing Handbook Page. [Learn More -->](/company/pricing/#reporter-user-permission-pricing)
 
 ### Did You Know? 🔢
-ABM campaigns are now being launched on an ongoing basis. **Accounts that are in our ABM strategy will include the ‘GTM strategy’ field in Salesforce.** And, you can check out the new Demandbase section in Salesforce to [view intent](/handbook/marketing/revenue-marketing/account-based-strategy/account-based-marketing/#how-we-use-intent-data) data for accounts. For more information:
-- [ABM Handbook Page](/handbook/marketing/revenue-marketing/account-based-strategy/account-based-marketing/#accounts-are-identified-in-salesforce-by-the-gtm-strategy-field-in-salesforce)
-- [Nominating an account](/handbook/marketing/revenue-marketing/account-based-strategy/account-based-marketing/#when-does-an-account-get-added-to-our-account-based-marketing-strategy-or-move-tiers)
-- [When will an account move?](/handbook/marketing/revenue-marketing/account-based-strategy/account-based-marketing/)
+ABM campaigns are now being launched on an ongoing basis. **Accounts that are in our ABM strategy will include the ‘GTM strategy’ field in Salesforce.** And, you can check out the new Demandbase section in Salesforce to [view intent](/handbook/marketing/account-based-marketing/) data for accounts. For more information:
+- [ABM Handbook Page](/handbook/marketing/account-based-marketing/)
+- [Nominating an account](/handbook/marketing/account-based-marketing/)
+- [When will an account move?](/handbook/marketing/account-based-marketing/)
 
 ----
 Due to the new requirement of passwords in Zoom meetings, Chorus is unable to join calls unless certain updates to Zoom settings have been made.
