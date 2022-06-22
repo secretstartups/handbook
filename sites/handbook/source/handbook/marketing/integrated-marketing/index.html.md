@@ -18,7 +18,7 @@ Add what integrated marketing is.
 ## Teams within Integrated Marketing 
 {: #teams .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-    - [Account Based Strategy](/handbook/marketing/revenue-marketing/account-based-strategy/)
+    - [Account Based Strategy](/handbook/marketing/account-based-marketing/)
     - Alliances Marketing
     - Channel Marketing
     - [Marketing Campaigns]
