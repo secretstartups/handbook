@@ -56,7 +56,7 @@ While the table above outlines GitLab's cultural dimensions, meaning, and values
 It is the responsibility of every GitLab team member to live out our [values](/handbook/values/#credit). As highlighted above, GitLab culture and values are what unite us; our values provide common ground irrespective of our backgrounds. We should remind each other and ourselves to stay values-centered and let our values guide our interactions!
 
 #### Assume Positive Intent 
-A sub-value of collaboration, [assuming positive intent](/handbook/values/#assume-positive-intent) is also critical for effective cross-cultural communication. Not everyone has worked in global environments before, and as humans, we all make mistakes. If someone says something that rubs you the wrong way, assume positive intent, explain how you feel in a 1:1 setting, and ask for clarification to ensure you have the full picture. We should give each other the benefit of the doubt in interactions. 
+An operating principle of collaboration, [assuming positive intent](/handbook/values/#assume-positive-intent) is also critical for effective cross-cultural communication. Not everyone has worked in global environments before, and as humans, we all make mistakes. If someone says something that rubs you the wrong way, assume positive intent, explain how you feel in a 1:1 setting, and ask for clarification to ensure you have the full picture. We should give each other the benefit of the doubt in interactions. 
 
 #### Ask Questions 
 A lot of people love to share about their cultures! When in doubt, ask. Asking questions results in learning, which helps make us all more culturally aware.

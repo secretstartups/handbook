@@ -122,7 +122,7 @@ To answer this question, you first need to unlearn a bit, and change your frame 
 
 For many, it is assumed that culture is simply the aura, energy, or vibe one gets when walking into an office. This is largely driven by decor and personas in the room. It is dangerous to allow company culture to be dictated by such factors, as this will create an oscillating culture that changes depending on mood or socioeconomic conditions. 
 
-A company culture is a company's list of values. Culture is an assurance that each employee respects, admires, and feels invested in a company's values, and that leadership works to ensure values are not violated. As GitLab, a sub-value within our Diversity, Inclusion & Belonging  value is "[culture fit is a bad excuse](https://about.gitlab.com/handbook/values/#culture-fit-is-a-bad-excuse)."
+A company culture is a company's list of values. Culture is an assurance that each employee respects, admires, and feels invested in a company's values, and that leadership works to ensure values are not violated. As GitLab, an operating principle within our Diversity, Inclusion & Belonging  value is "[culture fit is a bad excuse](https://about.gitlab.com/handbook/values/#culture-fit-is-a-bad-excuse)."
 
 Remote interviewers should link a company's values during the interview and have a conversation to assess a candidate's alignment and understanding of those values. Particularly in a remote setting, [values](/handbook/values/) serve as the north star, guiding every business decision by people you cannot physically see and shaping how colleagues treat one another. 
 

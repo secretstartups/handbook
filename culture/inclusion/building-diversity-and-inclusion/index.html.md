@@ -30,7 +30,7 @@ Those activities and behaviors include:
 
 ### Defining Diversity, Inclusion & Belonging
 
-A great place to begin is to set a foundation of the basic understanding of how your company defines these terms. An example is GitLab's [Diversity, Inclusion & Belonging  value](/handbook/values/#diversity-inclusion), supported by an evolving list of sub-values.
+A great place to begin is to set a foundation of the basic understanding of how your company defines these terms. An example is GitLab's [Diversity, Inclusion & Belonging  value](/handbook/values/#diversity-inclusion), supported by an evolving list of operating principles.
 
 Most places you will hear them used interchangeably. Understanding they are different is essential to driving the initiatives. As an example, you can hire as many diverse candidates but if you don't create an inclusive environment the work can be in vain.
 
@@ -107,7 +107,7 @@ Pronouns are a large piece of a person's identity and are often used to communic
 
 ### Be mindful of the times of your meetings
 
-It's important to consider global times and alternating meetings to accommodate regions. Be mindful of families, commitments, observances, holidays, and meeting times which may be out of a team members working hours. Every meeting time won't be perfect for everyone (which is why all meetings [have an agenda](/company/culture/all-remote/meetings/#have-an-agenda)), but making a conscious effort to alternate times is to ensure the same people aren't being excluded. For more, view our [Inclusive Meetings](/handbook/values/#inclusive-meetings) sub-value.
+It's important to consider global times and alternating meetings to accommodate regions. Be mindful of families, commitments, observances, holidays, and meeting times which may be out of a team members working hours. Every meeting time won't be perfect for everyone (which is why all meetings [have an agenda](/company/culture/all-remote/meetings/#have-an-agenda)), but making a conscious effort to alternate times is to ensure the same people aren't being excluded. For more, view our [Inclusive Meetings](/handbook/values/#inclusive-meetings) operating principle.
 
 ### Be a Role Model
 

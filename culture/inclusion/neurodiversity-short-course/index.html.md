@@ -94,7 +94,7 @@ Answers could be for example:
 You can also challenge yourself to ensure you are being clear about your intentions to ensure your intentions are not missed. Some team members may thrive in heated discussions and debates and not need assurances afterwards. Some team members could be in the exact same conversation but find it very stressful. Do not assume everyone's emotional response in a meeting or situation is the same. For example, you could assure all team members by saying something like:
 
 * I wanted to let everyone know that we have great actions to move forward and I know that debates like this can be stressful.
-* I would like to remind everyone of our sub-value to disagree, commit and disagree. We are good to move forward, thank you everyone for the discussion. 
+* I would like to remind everyone of our operating principle to disagree, commit and disagree. We are good to move forward, thank you everyone for the discussion. 
     
 Servant leadership is very important when building an environment where neurodiversity can thrive and is described in the handbook as one of the important things in being a remote manager. It is also important when thinking about how to cultivate an inclusive environment. You will have to adjust your management style for all your team members to ensure that you set all team members up for success. Asking the questions above will allow you to apply the principles of servant leadership more effectively such as building trust, operating with empathy, growing team members and actively listening. 
 

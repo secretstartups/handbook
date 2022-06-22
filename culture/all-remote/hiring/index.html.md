@@ -130,7 +130,7 @@ However, there are plenty of people who thrive in remote jobs (as GitLab's globa
 
 #### Self-management
 
-There are nuances to loving remote work and being a great remote worker. A sub-value at GitLab calls it being a ["manager of one"](/handbook/values/#managers-of-one).
+There are nuances to loving remote work and being a great remote worker. An operating principle at GitLab calls it being a ["manager of one"](/handbook/values/#managers-of-one).
 
 #### Communication skills
 
