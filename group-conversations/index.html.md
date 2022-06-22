@@ -324,7 +324,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday July 13 | People | | July 7 |
 | Thursday July 14 | Brand Activation| Luke Babb | N/A |
 | Tuesday July 19 | Marketing| Ashley Kramer | N/A|
-| Wednesday July 20 | **Available** | | N/A |
+| Wednesday July 20 | Finance | | 2022-07-20 |
 | Thursday July 21 | General (CEO)| Sid Sijbrandij | Key Review Date|
 | Tuesday July 26 | UX Research| Adam Smolinski | N/A |
 | Wednesday July 27 | Product| Product Leadership | Key Review Date|
