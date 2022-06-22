@@ -355,7 +355,7 @@ _To be documented_
 
 Our goals in communicating offboardings are transparency, and to provide an opportunity for team members to say goodbye. We understand that different individuals are comfortable with different levels of communication and that each offboarding situation has different situations and nuances. For this reason and out of respect for individuals, we have a couple of key guiding principles for communicating offboarding:
 
-1. We _do not require that offboarding messages are communicated broadly_. Offboarding should be communicated where necessary for business continuity (I.E. to immediate team and key stakeholders), but it is up to manager and team member to decide whether they feel comfortable communicating more broadly in our #team-member-updates Slack channel. 
+1. While we encourage communicating for transparency and awareness, we _do not require that offboarding messages are communicated broadly_. Offboarding should be communicated where necessary for business continuity (I.E. to immediate team and key stakeholders), but it is up to manager and team member to decide whether they feel comfortable communicating more broadly in our #team-member-updates Slack channel. 
 
 2. Team members and managers have the discretion to determine who shares the news of the team member's offboarding (I.E. team member or manager). Regardless of who shares, it is required that team members review offboarding messaging with their managers prior to sharing.
 
