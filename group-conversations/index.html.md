@@ -320,7 +320,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday July 5 | Infrastructure | Steve Loyd | June 23|
 | Wednesday July 6 | CRO| Michele Hodges | Key Review Date|
 | Thursday July 7 | UX| Christine Lenneville | June 30e|
-| Tuesday July 12 | **Available** | | N/A |
+| Tuesday July 12 | Customer Fireside Chat | | N/A |
 | Wednesday July 13 | People | | July 7 |
 | Thursday July 14 | Brand Activation| Luke Babb | N/A |
 | Tuesday July 19 | Marketing| Ashley Kramer | N/A|
