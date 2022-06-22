@@ -223,6 +223,17 @@ Update your existing OS to the most recent version
 4. From here you'll see 'Check for Apple Software Updates'. Click on that, and follow the instructions to update your OS
 5. This can take upwards of an hour, so please factor in that time when you are updating
 
+### Using JAMF Self Service to Erase your Mac 
+
+macOS Monterey includes Erase All Content and Settings, a way to quickly and securely erase all of your settings, data and apps, while maintaining the operating system currently installed. You can use JAMF's self service to do this for you. This functionality is only available when using macOS Monterey on a Mac with Apple silicon or a Mac with the Apple T2 Security Chip.
+
+1. Head to Finder on your Mac and select Applications
+2. Click on Self Service
+3. On the left you'll see Utilities, click on that
+4. From here, you'll see Erase Assistant. ***PLEASE ONLY CLICK ON THIS IF YOU WISH TO ERASE YOUR MAC. DATA WILL NOT BE RECOVERABLE***
+5. You'll be required to enter your computer password at the next prompt
+6. From here, your computer will be offline while the wipe commences for around 15-30 minutes
+7. Setup is complete when you get the OS welcome screen again
 
 ### Reinstalling Mac OS after a JAMF wipe
 
