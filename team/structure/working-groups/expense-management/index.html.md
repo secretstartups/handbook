@@ -24,10 +24,10 @@ canonical_path: "/company/team/structure/working-groups/expense-management/"
 
 ## Business Goal
 
-Ensure that our expense policy relects GitLab's [spend company like its your own sub-value](/handbook/values/#spend-company-money-like-its-your-own) while being highly efficient for accounting and other team members. 
+Ensure that our expense policy relects GitLab's [spend company money like its your own operating principle](/handbook/values/#spend-company-money-like-its-your-own) while being highly efficient for accounting and other team members. 
 
 This will include:
-1.  Providing clarity around how to interpret the sub-value
+1.  Providing clarity around how to interpret the operating principle
 1.  Updating the purchase recommendations page in the handbook
 1.  Evaluating current expense infrastruture and making any required changes
 1.  Updating current expense processes and policies and making any required changes
@@ -35,7 +35,7 @@ This will include:
 
 ## Exit Criteria
 
-Updated expense policy and processes in line with GitLab's [spend company like its your own sub-value](/handbook/values/#spend-company-money-like-its-your-own) that are clearly documented in the handbook. 
+Updated expense policy and processes in line with GitLab's [spend company money like its your own operating principle](/handbook/values/#spend-company-money-like-its-your-own) that are clearly documented in the handbook. 
 
 
 ## Roles and Responsibilities
