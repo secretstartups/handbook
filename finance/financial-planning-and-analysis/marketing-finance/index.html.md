@@ -48,6 +48,7 @@ title: "Marketing Finance"
 
 ## Important Dates
 Subscribe to Marketing Finance Dates Google calendar [here](https://calendar.google.com/calendar/u/0?cid=Y19qNTgxbXBxNHRjbjZiam9qczFicW5sNGVnMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+
 | Date | DRI | Task | Detail |
 | -------- | ---- |  ---- |   ---- |
 | 2022-06-23 | Marketing Budget Owners | Forecast due in Allocadia for June and July. | Adjust Allocadia forecast values to represent the work that is occuring in June and July, not invoice timing. Invoice timing can occur at anytime. |
