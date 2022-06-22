@@ -184,8 +184,8 @@ Culture Amp Exit Survey now has an additional "Reporting to" demographic. Initia
 
 ## GitLab Alumni Program
 
-All offboarding may request to be added to the Slack channel `gitlab-alumni` by requesting through the PBP who can review the request and confirm to the People Experience Associate who can open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=slack_googlegroup_1Passwordgroupvault) on behalf of the former team member.
-Reasons that someone would not be permitted to join would be:
+Permitted offboardings will be added to the Slack channel `gitlab-alumni`. An invite will be sent out 2-3 business days after the offboarding date.  The PBP will review each offboarding and deteremine if the team member will be permitted to join the GitLab Alumni Channel.  If permitted the People Experience Associate will open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=slack_googlegroup_1Passwordgroupvault) on behalf of the former team member.
+### Reasons that someone would not be permitted to join would be:
 - Due to involuntary offboarding for extreme behavior or a violation of our [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 - Underperformance or other causes for involuntary offboarding are not a reason to exclude someone from the alumni program. 
 - Team members who have less than 6 months of tenure with the organization.
