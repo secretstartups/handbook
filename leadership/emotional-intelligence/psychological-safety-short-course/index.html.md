@@ -15,7 +15,7 @@ Welcome to Psychological Safety: Understanding, Empowerment & Self-Reflection
 
 This is a short course designed to help with your understanding of psychological safety, provide pragmatic steps to cultivate a culture of psychological safety within in your team, and reflect on some of your behaviours that may appear psychologically safe or unsafe.
 
-We are doing this to ensure we create an environment where everyone is able to thrive, as well as easily embody our values of Collaboration, Results, Efficiency, DIB, Iteration and Transparency, and the sub values that accompany this. In this course you will see how certain actions can quickly lead to erosion of these values and the erosion of trust amongst team members.
+We are doing this to ensure we create an environment where everyone is able to thrive, as well as easily embody our values of Collaboration, Results, Efficiency, DIB, Iteration and Transparency, and the operating principles that accompany this. In this course you will see how certain actions can quickly lead to erosion of these values and the erosion of trust amongst team members.
 
 There are two ways to take the course. You can:
 
@@ -88,7 +88,7 @@ It is important that there are consistent things that we can do to ensure that w
 
 Everyone at GitLab can follow these key practices to create and continue the culture we desire:
 
-- **Embrace a culture of respectable debate:** We have our sub value of "Disagree, Commit, Disagree" - to help embrace this practice. It allows us to have those conversations that spark creativity, iterations, and gather viewpoints that we may have missed. Our value ensures that we still progress and move forward.
+- **Embrace a culture of respectable debate:** We have our operating principle of "Disagree, Commit, Disagree" - to help embrace this practice. It allows us to have those conversations that spark creativity, iterations, and gather viewpoints that we may have missed. Our value ensures that we still progress and move forward.
 
 - **Encourage and Share personal stories:** This is a great way of ensuring that as team members we build relationships and, ultimately, trust at work. Coffee chats are a great avenue for this so that you are more comfortable bringing up pertinent issues.
 
