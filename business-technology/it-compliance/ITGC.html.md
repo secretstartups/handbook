@@ -11,7 +11,7 @@ title: "GitLab SOX ITGC Compliance"
 
 ## What are ITGCs?
 
-ITGCs, or IT General controls (sometimes referred to at GITCs - General IT controls), are a subset of the [SOX internal control set](https://internal-handbook.gitlab.io/handbook/finance/sox-internal-controls/). The objectives of ITGCs are to ensure the integrity of the data and processes that the [in scope systems](https://internal-handbook.gitlab.io/handbook/finance/sox-internal-controls/it-general-controls/) support. They can be applied at the application, OS, database and infrastructure layers. 
+ITGCs, or IT General controls (sometimes referred to at GITCs - General IT controls), are a subset of the SOX internal control set. The objectives of ITGCs are to ensure the integrity of the data and processes that the [in scope systems](https://internal-handbook.gitlab.io/handbook/finance/sox-internal-controls/it-general-controls/) support. They can be applied at the application, OS, database and infrastructure layers. 
 
 ### What are GitLab's ITGCs?
 
@@ -30,6 +30,7 @@ ITGCs, or IT General controls (sometimes referred to at GITCs - General IT contr
 |11|Computer Operations|CO.4|GitLab performs backup restoration or failover tests at least annually to confirm the reliability and integrity of system backups or recovery operations.
 |12|Program Development|PD.1|Significant program changes are tested and known issues are communicated to the relevant stakeholders prior to approval.
 |13|Program Development|PD.2|GitLab validates that data transferred during an applicable program change is complete and accurate.
+|14|SOC reports review |SR.1|SOC reports are reviewed on periodic basis. 
 
 ## Roles and Responsibilities 
 
