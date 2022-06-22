@@ -186,8 +186,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-07-18 | 2022-07-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-07-25 | 2022-07-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-08-01 | 2022-08-05 | [Collette Short](https://gitlab.com/cshorty) - Staff Strategy and Operations | AVAILABLE - REMOTE |
-| 2022-08-08 | 2022-08-12 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Sr. Product Manager | [Collette Short](https://gitlab.com/cshorty) -Staff Strategy and Operations|
-| 2022-08-15 | 2022-08-19 | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Sr. Product Manager |
+| 2022-08-08 | 2022-08-12 | AVAILABLE - REMOTE | [Collette Short](https://gitlab.com/cshorty) -Staff Strategy and Operations|
+| 2022-08-15 | 2022-08-19 | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA | AVAILABLE - REMOTE |
 | 2022-08-22 | 2022-08-26 | NO SHADOWS | NO SHADOWS |
 | 2022-08-29 | 2022-09-02 | NO SHADOWS | NO SHADOWS |
 | 2022-09-05 | 2022-09-09 | AVAILABLE - REMOTE | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA |
