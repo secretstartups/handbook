@@ -24,10 +24,10 @@ description: "This page is an overview of the search team alignment and the tale
 | Marketing, SDR Global | Tony Tsiras | Tony Tsiras| Alice Crosbie |
 | G&A, Finance, People, CEO | Maria Gore | Alina Moise | Alice Crosbie |
 | G&A, Accounting, Legal | Rachelle Druffel | Alina Moise | Davie Soomalelagi |
-| Development | Mark Deubel| Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
-| Development | Riley Smith | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
-| Development | Sara Currie | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
-| Development | Dielle Kuffel | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
+| Development: AML/ModelOps, Fulfillment, Enablement | Mark Deubel| Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
+| Development: Ops | Riley Smith | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
+| Development: Dev | Sara Currie | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
+| Development: Analytics, Growth, Secure | Dielle Kuffel | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
 | Quality | Rupert Douglas| Zsuzsanna Kovacs | Guido Rolli |
 | Quality | Matt Angell   | Zsuzsanna Kovacs | Alice Crosbie |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  | Guido Rolli |
