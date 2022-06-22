@@ -50,7 +50,7 @@ In an effort to increase customer satisfaction and speed time to adoption, the *
 1. **New "Advanced" Option:** Add on the [new advanced administration course](https://about.gitlab.com/services/education/adv-admin/) dedicated to monitoring and de-bugging, for customers with Tier 2 admin team members.
 
 ----
-Marketing has created **[two new target lists for both Large and Mid Market accounts](/handbook/marketing/revenue-marketing/account-based-strategy/) - GL4300 and MM4000 - that DemandGen, Field Marketing and Account Based Marketing will align efforts around**. The account lists are identified in Salesforce by the `GTM strategy Field` = `Account Centric` and `Account Based- Net New` tags. Both lists will be refreshed at the end of each quarter with the updated target account list available on day 1 of the new quarter.
+Marketing has created **[two new target lists for both Large and Mid Market accounts](/handbook/marketing/account-based-marketing/) - GL4300 and MM4000 - that DemandGen, Field Marketing and Account Based Marketing will align efforts around**. The account lists are identified in Salesforce by the `GTM strategy Field` = `Account Centric` and `Account Based- Net New` tags. Both lists will be refreshed at the end of each quarter with the updated target account list available on day 1 of the new quarter.
 
 Please [see this issue](https://gitlab.com/gitlab-com/marketing/account-based-marketing/-/issues/308) for more information on the GL4300 and MM4000 lists and [add any questions to the Internal FAQ](https://docs.google.com/document/d/1MK7imzvvcYBgylXzlyIFV5soE4qTJBG6tHLc2HT_DjI/edit?usp=sharing) doc that is updated daily. 
 
