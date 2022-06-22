@@ -97,13 +97,6 @@ This will be the responsibility of the People Experience Associate that is assig
     - Ensure that the previous manager and current manager completes their respective tasks - including linking the relevant access requests. 
     - The issue should be closed within 2 weeks of creation, ping the relevant team members to call for a task to be completed in the issue.
 
-#### Referral Bonus Audit
-Cadence: Weekly
-
-The People Experience team will be pinged in the `#peopleops-alerts` Slack channel to complete an audit of whether referral bonuses have been added to the referring team members profile in Workday (for referring new hires for the last 3 months). This is part of an [existing automation](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#referral-bonus-reminders). 
-
-The People Experience Associate will open the Greenhouse entry to confirm whether a referral was made for the new team member. If yes, proceed to the Workday profile of the referring team member and verify that a bonus has been added correctly as per the [referral requirements](https://about.gitlab.com/handbook/incentives/#referral-bonuses). 
-
 
 #### Emergency Contact Audit
 
@@ -437,11 +430,10 @@ Bonus Processing is completed by the Experience Associate who is on that rotatio
 
 #### Referral Bonuses
 
-1. The Experience team will receive an email titled `Table Reminder: Referral Bonus` 
-1. From here, the PEA will review the Workday profile of the team members in the email to ensure that bonus amount is correct for those they referred
-1. After confirming the bonus amount is correct, the PEA will add the bonus information to the appropriate payroll changes spreadsheet (US, Non-US, or Canada)
-1. Afterwards, adding the information into the payroll spreadsheet, be sure to edit the description in Workday and add `Paid` to the beginning of it. 
-1. Reply all in the email with "This has been processed." This step is to make the team aware that action has been taken on the `Table Reminder: Referral Bonus` email
+1. The Experience Associate on the bonus processing rotation will utilize the Workday report titled `GitLab Referral Bonus Audit` to process referral bonuses
+1. The PEA should put in the start date range they are wanting to process (example: if I wanted to process June referral bonuses, I would input March 1st - March 31st into the report dates) and the report will be anyone who was hired within that month that has the `Referred by` filled in
+1. Before the PEA processes the One Time Payment in Workday, they should check the Worker History to see if the referral bonus has already been added. If it has, then there is no further action to be done. 
+1. If it hasn't, then process the One Time Payment
 
 #### Discretionary Bonuses  - checking with Engineering ****
 
