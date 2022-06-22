@@ -99,9 +99,11 @@ Please reach out to your recruiter for tips on how to improve your LinkedIn prof
 
 Please note, we **won't** be able to reimburse any LinkedIn seats purchased at your own expense.
 
+If you're locked out of your LinkedIn account with no way to confirm your identification via 2 Step Verification, you are able to turn off [2 Step Verification](https://www.linkedin.com/help/linkedin/answer/544/turn-two-step-verification-on-and-off?lang=en).
+
 ## LinkedIn Talent Insights
 
-The Sourcing Team has two seasts for LinkedIn's **Talent Insights** product. **Talent Insights** is a platform that is specialized in answering business questions regarding workforce planning, talent pools, competitive hiring analysis, and more from its database that exceeds 705 million members, 50 million companies, 20 million jobs, and 90,000 schools. The use of this tool is helpful in determining the diversity of a talent pool  (LinkedIn's best guess based on provided profile information), regional talent availability, and competitor analysis. To request such insights, please submit an Issue [here](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) using the `LinkedIn Talent Insights Request` template.
+The Sourcing Team has two seats for LinkedIn's **Talent Insights** product. **Talent Insights** is a platform that is specialized in answering business questions regarding workforce planning, talent pools, competitive hiring analysis, and more from its database that exceeds 705 million members, 50 million companies, 20 million jobs, and 90,000 schools. The use of this tool is helpful in determining the diversity of a talent pool  (LinkedIn's best guess based on provided profile information), regional talent availability, and competitor analysis. To request such insights, please submit an Issue [here](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) using the `LinkedIn Talent Insights Request` template.
 
 Once a report has been run, it can be exported in either a `.PDF` or `.CSV` format; the latter allowing you to filter and segment the data. All reports will be uploaded to the [LinkedIn Talent Insights Reports](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/tree/master/LinkedIn%20Talent%20Insights%20Reports/Talent%20Insights%20Reports) project. If there's a report in that project that you'd like refreshed, please submit a new request Issue.
 
