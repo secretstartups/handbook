@@ -75,7 +75,7 @@ There are no Rails engineers in IT and we do not have any collaboration or team 
 
 We love using Laravel, the same way many team members love using Rails or other languages. 
 
-As part of our efficiency and results values and boring solutions sub-value, the IT team standardized on the same framework for all of our applications and tools based on the IT team's proficiency with a collective 11 years of Laravel experience among our two engineers. The use of Laravel has been decided by the DRIs and approved by leadership and security. Please see our [disagree, commit, and disagree sub-value](https://about.gitlab.com/handbook/values/#disagree-commit-and-disagree) to learn more.
+As part of our efficiency and results values and boring solutions operating principle, the IT team standardized on the same framework for all of our applications and tools based on the IT team's proficiency with a collective 11 years of Laravel experience among our two engineers. The use of Laravel has been decided by the DRIs and approved by leadership and security. Please see our [disagree, commit, and disagree operating value](https://about.gitlab.com/handbook/values/#disagree-commit-and-disagree) to learn more.
 
 This also allows us to [dogfood](/handbook/values/#dogfooding) GitLab CI/CD capabilities for PHP projects.
 
