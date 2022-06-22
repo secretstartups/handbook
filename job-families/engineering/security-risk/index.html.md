@@ -5,7 +5,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Assurance sub department](/handbook/engineering/security/security-assurance/security-assurance.html), the Security Risk team identifies, tracks, monitors and advises on security risks both operatioinally and for third party vendors. The team is responsible for implementaion of proactive security risk management programs.
+As members of GitLab's [Security Assurance sub department](/handbook/engineering/security/security-assurance/), the Security Risk team identifies, tracks, monitors and advises on security risks both operatioinally and for third party vendors. The team is responsible for implementaion of proactive security risk management programs.
 
 ## Responsibilities
 * Professionally handle communications with internal and external stakeholders
