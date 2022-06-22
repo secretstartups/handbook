@@ -42,25 +42,24 @@ just like the rest of our work, we continually adjust our values and strive to m
 GitLab values are a living document.
 In many instances, they have been documented, refined, and revised based on lessons learned (and scars earned) in the course of doing business.
 
-We used to have more values, but it was difficult to remember them all, so we condensed them and gave sub-values and created an acronym.
+We used to have more values, but it was difficult to remember them all. In response, we condensed them, created an acronym (CREDIT), and listed operating principles to guide behavior.
 
 Everyone is welcome to suggest improvements. Please assign MRs to update these values to our CEO Sid and @mention him in Slack if you work at GitLab Inc. or [on Twitter](https://twitter.com/sytses) if you don't.
 
-#### Sub-values as substantiators
+#### Operating principles
 {:.no_toc}
 
-The "sub" in sub-value is not in reference to "subordinate," but rather, "**substantiate** the [core values](#credit)."
-
-Sub-values clarify what a given core value means and looks like *at GitLab*.
+Operating principles are behaviors that empower GitLab team members to definitively live out a given value.
+They clarify what a given core value means and looks like *at GitLab*. 
 Understanding this distinction is critical to thriving at GitLab,
 particularly for [newer team members](/company/culture/all-remote/getting-started/) who may be familiar with a prior organization's interpretation of iteration or collaboration (as examples).
 
-#### Process for removing sub-values
+#### Process for removing operating principles
 {:.no_toc}
 
-_Values are not just things we do but things that actively drive good behaviour.  When we remove them it doesn't mean we stopped believing in it, just that it wasn't actively helping to drive behaviour.  If we don't prune our sub-values, then we will be like every other company, things that make sense but are not leading to a better culture._
+_Values are not just things we do, but things that actively drive good behaviour.  When we remove them it doesn't mean we stopped believing in it, just that it wasn't actively helping to drive behaviour. If we don't prune our operating principles, then we will be like every other company: things that make sense but are not leading to a better culture._
 
-1. To **remove** a sub-value from the Handbook page, submit your change through a merge request and explain your reasons in the merge request description.
+1. To **remove** an operating principle from the Handbook page, submit your change through a merge request and explain your reasons in the merge request description.
 1. The GitLab Value Handbook Page owner must approve and merge the request.
 
 #### Mention the specific value
@@ -185,7 +184,7 @@ Don't defend a point to win an argument or double-down on a mistake.
 You are not your work; you don't have to defend your point.
 You do have to search for the right answer with help from others.
 
-In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of Remote Darren M. adds context on this sub-value.
+In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of Remote Darren M. adds context on this operating principle.
 
 > In many organizations, there's a subtle, low-level, persistent pressure to continually prove your worth.
 > And I believe that this fuels imposter syndrome and wreaks havoc on [mental health](/company/culture/all-remote/mental-health/).
@@ -537,7 +536,7 @@ Every dollar we spend will have to be earned back. Be as frugal with company mon
 
 Consider the degree to which a purchase increases your ability to better accomplish your work and achieve business [results](/handbook/values/#results) relative to cost.
 
-We have [guidelines](/handbook/spending-company-money/#guidelines) around this sub-value to help team members better understand our expensing process and expectations.
+We have [guidelines](/handbook/spending-company-money/#guidelines) around this operating principle to help team members better understand our expensing process and expectations.
 
 ##### Frugality
 {:.no_toc}
@@ -657,7 +656,7 @@ At GitLab we believe that everyone is entitled to a safe working space where the
 {:.no_toc}
 We believe that team members seeking feedback from a diverse group of team members, inside and outside of their group or function, leads to better decisions and a greater sense of team member belonging. For more guidance on how we define Diversity, please refer to [GitLab's definition of Diversity, Inclusion & Belonging](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Feedback from a more heterogenous group often leads to better business outcomes as we incorporate diverse perspectives and uncover unconscious bias.
 
-An example of this sub-value in action showcases the value of actively seeking diverse perspectives. The term "Brag Document" was used to describe when individuals documented their accomplishments. Documenting accomplishments is critical to team member development. However, team members had the **psychological safety** to raise the question of whether or not the title of the document made some feel uncomfortable. In an effort to seek a **diverse perspective**, a survey was conducted in one of the [TMRG](/company/culture/inclusion/erg-guide/#what-is-not-an-tmrg-at-gitlab) channels. The poll results showed that 100% of those polled preferred a different title and the title was changed.
+An example of this operating principle in action showcases the value of actively seeking diverse perspectives. The term "Brag Document" was used to describe when individuals documented their accomplishments. Documenting accomplishments is critical to team member development. However, team members had the **psychological safety** to raise the question of whether or not the title of the document made some feel uncomfortable. In an effort to seek a **diverse perspective**, a survey was conducted in one of the [TMRG](/company/culture/inclusion/erg-guide/#what-is-not-an-tmrg-at-gitlab) channels. The poll results showed that 100% of those polled preferred a different title and the title was changed.
 
 ##### Make family feel welcome
 {:.no_toc}
@@ -886,7 +885,7 @@ Educating users on the longer-term plan helps create a shared understanding of h
 {:.no_toc}
 When we talked to Nat Friedman, he said: "A low level of shame is intrinsic to your culture." This captures the pain we feel by shipping something that isn't where we want it to be yet.
 
-GitLab Head of Remote Darren M. adds context on this sub-value.
+GitLab Head of Remote Darren M. adds context on this operating principle.
 
 > In many organizations, you take a risk when you put forth any work that's not perfect — where you haven't spent endless cycles planning for contingencies or counterpoints. Because of this, you're incentivized to invest a lot of time and effort into preparing for 'What if?' scenarios before any work is presented.
 >
@@ -1051,7 +1050,7 @@ and processes with the **whole community** and the world in the spirit of open s
 
 There are exceptions. Material that is [not public by default is documented](/handbook/communication/#not-public). We are above average at keeping things confidential that need to be. On a personal level, you should tell it like it is instead of putting up a poker face. Don't be afraid to admit you made a mistake or were wrong. When something goes wrong, it is a great opportunity to say "What’s the [kaizen](https://en.wikipedia.org/wiki/Kaizen) moment here?" and find a better way without hurt feelings.
 
-Even as a [public company](/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/), we know that our value of transparency will be key to our success. This value can be hard to follow at times. You might ask yourself: what should be shared, how much to share, whether or not to speak up but definitely take the time to always opt for maximum transparency by adhering to the sub-values below.  Often, company values get diluted as they grow, most likely because they do not write anything down. But we will make sure our values scale with the company. When we go public, we can declare everyone in the company as an insider, which will allow us to remain transparent internally about our numbers, etc. Everything else that can be transparent will continue to be so.
+Even as a [public company](/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/), we know that our value of transparency will be key to our success. This value can be hard to follow at times. You might ask yourself: what should be shared, how much to share, whether or not to speak up but definitely take the time to always opt for maximum transparency by adhering to the operating principles below. Often, company values get diluted as they grow, most likely because they do not write anything down. But we will make sure our values scale with the company. As a [public company](/handbook/being-a-public-company/), we declare everyone in the company as an insider, which allows us to remain transparent internally about our numbers, etc. Everything else that can be transparent will continue to be so.
 
 ##### Public by default
 {:.no_toc}
@@ -1116,7 +1115,7 @@ This is related to [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:
 
 Avoid using terms such as "industry standard" or "best practices" as they are vague, opaque, and don't provide enough context as a reason for a change.
 
-Similarly, merely stating a single value isn't a great explanation for why we are making a particular decision. Many things could be considered "iteration" or "efficiency" that don't match our definition of those values. Try to link to a sub-value of the value or provide more context, instead of just saying a single value's name.
+Similarly, merely stating a single value isn't a great explanation for why we are making a particular decision. Many things could be considered "iteration" or "efficiency" that don't match our definition of those values. Try to link to an operating principle of the value or provide more context, instead of just saying a single value's name.
 
 Saying why and not just what enables discussion around topics that may impact more than one value; for instance, when weighing the [efficiency of boring solutions](/handbook/values/#boring-solutions) with the focus on [customer results](/handbook/values/#customer-results). When decisions align with all of our values, they are easy to discuss and decide. When there are multiple values involved, using our [values hierarchy](/handbook/values/#hierarchy) and [directly](/handbook/values/#directness) discussing the tradeoffs is easier with more context.
 
@@ -1321,7 +1320,7 @@ In negative feedback, we should be specific about what the problem is. For examp
 
 Value erosion can occur when indifference and apathy are tolerated. It can also occur when individuals justify undesired behaviors by interpreting values as "me values" rather than "company values." For example, a team member may speak to the importance of personal efficiency in order to justify not collaborating professionally with peers. This is not what we expect from team members in terms of efficiency and collaboration.
 
-If you feel that values are not being lived out in a given scenario, speak up and ask for context in a respectful manner. Navigating value conflicts starts with [assuming positive intent](/handbook/values/#assume-positive-intent) from other team members. Offer links to relevant values and/or sub-values when discussing the issue. If there is confusion or disagreement about the interpretation of a value, please surface the discussion in GitLab's `#values` Slack channel (for GitLab team members) or @-mentioning  [@gitlab](https://twitter.com/gitlab) on Twitter (for those who do not work at GitLab).
+If you feel that values are not being lived out in a given scenario, speak up and ask for context in a respectful manner. Navigating value conflicts starts with [assuming positive intent](/handbook/values/#assume-positive-intent) from other team members. Offer links to relevant values and/or operating principles when discussing the issue. If there is confusion or disagreement about the interpretation of a value, please surface the discussion in GitLab's `#values` Slack channel (for GitLab team members) or @-mentioning  [@gitlab](https://twitter.com/gitlab) on Twitter (for those who do not work at GitLab).
 
 In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
 
