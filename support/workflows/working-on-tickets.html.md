@@ -31,7 +31,6 @@ The views within Zendesk are arranged as follows:
 | [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) | Use this view to manage all of your assigned tickets that are not yet in a `Closed` state. |
 | [Needs Org](https://gitlab.zendesk.com/agent/filters/360076150200) | This view shows all new tickets that will not get assigned to an SGG group and that do not have an organization associated with them. |
 | SGG: [group name] | You'll see an alphabetical list of group views here. Each view shows all the non-solved, non-pending tickets for its group. |
-| [Needs Collaboration](https://gitlab.zendesk.com/agent/filters/360080204660) | This view shows all tickets on which the assignee is asking for help. See the [How to get help workflow](/handbook/support/workflows/how-to-get-help.html) for details. |
 
 ## Selecting tickets
 

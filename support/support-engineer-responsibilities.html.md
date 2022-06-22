@@ -192,10 +192,9 @@ Collaboration is one of GitLab's values, and helping others with their tickets
 offers you a daily opportunity to live that value. When all higher priority
 items are under control (see
 [Prioritizing work](/handbook/support/support-global-groups/index.html/#prioritizing-work)),
-please find tickets in your group's view and in the `Needs Collaboration` view
-on which you feel you can help. See the
+please find tickets in your group's view. See the
 [Support Global Groups FAQ page](/handbook/support/support-global-groups/sgg-faq.html) for topics
-about how to help other SEs:
+about how to help other SEs.
 
 
 **What does success look like?**
@@ -212,7 +211,7 @@ following two criteria, the first quantitative and the second qualitative:
    In addition to producing evidence of your level of success, these reviews
    should result in improvements to the quality of your ticket work, both
    technical and nontechnical.
-1. Compare your weekly results against the three parts of the
+2. Compare your weekly results against the three parts of the
    [ticket baseline](#ticket-baseline):
 
    #### Ticket baseline

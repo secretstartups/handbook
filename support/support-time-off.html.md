@@ -170,22 +170,12 @@ Otherwise:
    to ask whether they will need help during your absence. Many of our customers
    might be on the same holiday schedule and will be fine with resuming work on
    a ticket when you both return.
-   - If you do not get a response from a customer before your holiday time
-     off, or if they indicate that they will require continued work during the
-     holiday, add their ticket to the `Needs Collaboration` view.
-   - This keeps the ticket in your assignment, and gives the entire team
-     visibility into any tickets that may need attention while you’re away. 
-1. For those tickets that will not require action over the holiday, there is no
+2. For those tickets that will not require action over the holiday, there is no
    special action to be taken. 
 
 ### If you are working on a holiday
 1. Continue to prioritize FRT first, and then management of your own tickets.
-1. Please pay **extra** attention to the `Needs Collaboration` view:
-   1. Help progress tickets from that view while the original assignee is away.
-   1. Copy (cc) yourself on those tickets to provide continued help throughout
-      the day.
-   1. Summarize progress and next steps for the original assignee so that they
-      will be able to continue your work with the customer seamlessly.
+2. Please pay **extra** attention to NRT on tickets with an assignee who is currently out-of-office.
 
 ## General Tips
 

@@ -38,25 +38,14 @@ is a sub-value of Results.
    1. Be specific about the help you need
       - For example: "Kubernetes Runner help needed: user is running into X
         error, logs are saying Y, and we've tried Z. What else could it be?"
-1. Use our `Needs Collaboration` workflow:
-  1. Apply the `Collaboration` macro to your ticket:
-     1. The macro adds the `needs_collaboration` tag, which makes your ticket
-         visible in the `Needs Collaboration` view.
-     1. The macro opens an internal note in the ticket and fills it with the
-        contents of a ticket summary template. In that note summarize the help
-        that you need as well as the steps you've taken and the progress you've
-        made on the ticket.
-  1. Other SEs who are interested in collaborating with you on the ticket will
-     reach out. They may provide suggestions in an internal note. They may ask
-     to pair. They may ask in Slack or the ticket for more information from you.
-1. Ask for help in one of the broader
+2. Ask for help in one of the broader
    [relevant Support Slack channels](https://about.gitlab.com/handbook/support/#slack).
    In addition to the Slack reminders above, also:
    - Check the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html)
      Support page to see who might have the skills to assist. Mention those
      people in the thread and in the ticket to let them know you think they
      can help.
-1. Ask for help in the appropriate [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) Slack channel,
+3. Ask for help in the appropriate [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) Slack channel,
    or reach out to the [Support Stable Counterpart](../support-stable-counterparts.html)
    for the appropriate product area. If you are unsure which product area it is,
    ask your group or a manager for guidance.
@@ -65,15 +54,15 @@ is a sub-value of Results.
      counterpart(s) that are listed under the
      [runner group](https://about.gitlab.com/handbook/product/categories/#runner-group)
      section.
-1. Attend crush or help sessions such as those noted below (see the [GitLab Support calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV85YnMxNTllaHJjNXRxZ2x1cjg4ZGpiZDUxa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for times):
+4. Attend crush or help sessions such as those noted below (see the [GitLab Support calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV85YnMxNTllaHJjNXRxZ2x1cjg4ZGpiZDUxa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for times):
     - AMER Senior SE Help Sessions
     - APAC/AMER or EMEA/AMER crush sessions
     - APAC or EMEA crush / collaboration sessions
     - Senior Support Office Hours (varying times)
-1. Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions.html)
+5. Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions.html)
    - This is like a crush session, with the specific intention of helping 1 or 2
      groups with FRTs
-1. If you're struggling to get help, reach out to your manager, the manager
+6. If you're struggling to get help, reach out to your manager, the manager
    on-call, or any available manager. They will help you to determine next steps.
    Please know that there will always be somebody who can help, even if you're
    having a hard time finding them. Please do not let this deter you from

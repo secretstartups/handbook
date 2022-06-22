@@ -63,7 +63,6 @@ For more information on managing Zendesk via the various GitLab projects, please
 | [SGG: Kapok](https://gitlab.zendesk.com/agent/admin/views/4758108678044) | 11 | Support AMER<br>Support APAC<br>Support EMEA |
 | [SGG: Maple](https://gitlab.zendesk.com/agent/admin/views/4427390627218) | 12 | Support AMER<br>Support APAC<br>Support EMEA |
 | [SGG: Pine](https://gitlab.zendesk.com/agent/admin/views/4427373603474) | 13 | Support AMER<br>Support APAC<br>Support EMEA |
-| [Needs Collaboration](https://gitlab.zendesk.com/agent/admin/views/360080204660) | 16 | Support AMER<br>Support APAC<br>Support EMEA |
 | [L&R](https://gitlab.zendesk.com/agent/admin/views/360038103700) | 17 | Support Focus: L&R |
 | [GitLab Incidents](https://gitlab.zendesk.com/agent/admin/views/360073862640) | 18 | Support Focus: CMOC |
 | [Instance Management](https://gitlab.zendesk.com/agent/admin/views/360076285119) | 19 | Support Focus: Instance Management |
