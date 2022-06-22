@@ -5,7 +5,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Assurance sub department](/handbook/engineering/security/security-assurance/security-assurance.html), the [Field Security team](/handbook/engineering/security/security-assurance/risk-field-security/) serves as the public representation of GitLab's internal Security function. The team is tasked with providing high levels of security assurance to internal and external customers through customer support, sales enablement and security evangelism programs.
+As members of GitLab's [Security Assurance sub department](/handbook/engineering/security/security-assurance/), the [Field Security team](/handbook/engineering/security/security-assurance/risk-field-security/) serves as the public representation of GitLab's internal Security function. The team is tasked with providing high levels of security assurance to internal and external customers through customer support, sales enablement and security evangelism programs.
 
 ## Responsibilities
 * Professionally handle communications with internal and external stakeholders

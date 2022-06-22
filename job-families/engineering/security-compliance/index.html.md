@@ -5,7 +5,7 @@ description: "Security Compliance professionals at GitLab focus on operating our
 extra_js:
 - libs/mermaid.min.js
 ---
-For members of GitLab's [Security Assurance sub department](/handbook/engineering/security/security-assurance/security-assurance.html), it is the goal of [Security Compliance](/handbook/engineering/security/security-assurance/security-compliance/compliance.html) to:
+For members of GitLab's [Security Assurance sub department](/handbook/engineering/security/security-assurance/), it is the goal of [Security Compliance](/handbook/engineering/security/security-assurance/security-compliance/) to:
 
 1. Enable security to scale through the definition of security controls and document the boundaries and applicability of the information security management system to establish its scope.
 1. Work across industries to support GitLab customers in their own compliance journey.   
