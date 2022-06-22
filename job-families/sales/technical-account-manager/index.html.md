@@ -322,7 +322,7 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 * Extends that of the Director of TAMs requirements
 * Demonstrated progressive experience leading managers of customer success teams in a SaaS or subscription enterprise software company
 
-### Vice President of Technical Account Management (TAM) Job Grade
+### Vice President of Technical Account Management (TAM) 
 
 The Vice President of TAMs is a job grade [12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
