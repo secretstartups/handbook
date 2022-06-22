@@ -622,7 +622,7 @@ CEO shadows are invited unless otherwise specified, but there is no expectation 
 
 ### Look for values being lived out
 
-Even in meetings where you are unfamiliar with the subject matter, there is opportunity to learn, document, and shape the evolution of [GitLab's values](/handbook/values/). Re-read GitLab's values prior to your CEO Shadow rotation, and be mindful of new and inventive ways that [CREDIT](/handbook/values/#credit) is lived out during the meetings you attend. You can make a merge request to propose new [sub-values](/handbook/values/#sub-values-as-substantiators), which substantiate top-level values.
+Even in meetings where you are unfamiliar with the subject matter, there is opportunity to learn, document, and shape the evolution of [GitLab's values](/handbook/values/). Re-read GitLab's values prior to your CEO Shadow rotation, and be mindful of new and inventive ways that [CREDIT](/handbook/values/#credit) is lived out during the meetings you attend. You can make a merge request to propose new [operating principles](/handbook/values/#operating-principles), which substantiate top-level values.
 
 ### Promote Communication Best Practices
 
