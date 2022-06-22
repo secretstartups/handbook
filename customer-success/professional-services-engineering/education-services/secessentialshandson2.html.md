@@ -70,10 +70,10 @@ You configure Dependency Scanning by setting variables in your CI/CD configurati
 ### E. View and take action on vulnerabilities
 
 1. In the left navigation pane, select **Security & Compliance > Vulnerability Report**.
-1. In the **Scanner** filter, select **Dependency Scanning**. Notice how many security vulnerabilities Dependency Scanning found in the 2017 Keras code.
+1. In the **Tool** filter, select **Dependency Scanning**. Notice how many security vulnerabilities Dependency Scanning found in the 2017 Keras code.
 1. Select the description of any vulnerability with **High** severity to learn more about it.
 1. Your team decides not to fix this problem. Stay on the details page for the vulnerability you clicked on in the previous step, go to the **Status** dropdown in the top right of the page, select **Dismiss**, and select **Change status**.
-1. Return to the Vulnerability Report, change the **Scanner** filter back to **Dependency Scanning**, and select the description of another vulnerability with **High** severity.
+1. Return to the Vulnerability Report, change the **Tool** filter back to **Dependency Scanning**, and select the description of another vulnerability with **High** severity.
 1. Review the vulnerability's information by clicking on its entry. Change its **Status** to **Confirm**.
 1. On the vulnerability details page you’re already on, select **Create issue** at the bottom right so you can track the vulnerability remediation work.
 1. Assign the ticket to yourself and select **Create issue**.
