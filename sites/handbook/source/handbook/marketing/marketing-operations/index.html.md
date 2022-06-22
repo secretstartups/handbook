@@ -259,7 +259,7 @@ Integrated with Salesforce
 
 - [Bizible](/handbook/marketing/marketing-operations/bizible/)
 - [Conversica](/handbook/marketing/marketing-operations/conversica/)
-- [Demandbase](/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/)
+- [Demandbase](/handbook/marketing/account-based-marketing/demandbase/)
 - [Drift](/handbook/marketing/marketing-operations/drift)
 - [LeanData](/handbook/marketing/marketing-operations/leandata)
 - LinkedIn Sales Navigator

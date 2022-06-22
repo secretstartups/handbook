@@ -184,7 +184,7 @@ Follow the workflow mural to see the lead lifecycle. Notice you cannot go backwa
 ### Scoring Model
 The lead scoring model is a 100 point system in order to MQL. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. Their `Person Score` is the sum of their `Behavior Score` and their `Demographic Score`. The `Person Score` must reach `100` in order to MQL, and their `Behavior Score` cannot be `0`.
 
-For account scoring, visit the [DemandBase page](/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/#scoring-accounts-in-demandbase).
+For account scoring, visit the [DemandBase page](/handbook/marketing/account-based-marketing/demandbase/#account-scoring).
 
 There is a flow that runs everynight to reset leads that have gone negative back to `0`. 
 
