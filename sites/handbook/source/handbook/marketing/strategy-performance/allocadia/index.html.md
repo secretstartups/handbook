@@ -38,6 +38,13 @@ Allocadia integrates with multiple systems described further [below](https://abo
 - [Switching between activity plans](https://support.allocadia.com/hc/en-us/articles/115004969207-Switching-Between-Activity-Plans)
 - [Budget Reallocations (transfers)](https://support.allocadia.com/hc/en-us/articles/360060630433-What-are-Budget-Reallocations-##)
 
+## Partnership with Finance 
+Marketing and Finance partner together when using Allocadia. The [Marketing Finance handbook](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) page lists out: 
+1. [Finance Marketing Allocadia Training](/handbook/finance/financial-planning-and-analysis/marketing-finance/#allocadia-training-materials) 
+1. [Financial terminology](/handbook/finance/financial-planning-and-analysis/marketing-finance/#finance-terminology) as it relates to your view in Allocadia 
+1. [Important dates](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) to be aware of between finance and marketing 
+1. And more! 
+
 ## Home
 
 This section houses the main grid. This section is more for the Allocadia admin, although all budget holders will make use of it for mapping expenses to their line items as the Netsuite uploads are done monthly.
@@ -48,7 +55,7 @@ Home is also where targets are entered annually by quarter for each of the teams
 
 ## Activities
 
-The activity planning section is where you add the tactics of your quarterly/annual plan and where can you see quick high level metrics to help you understand your `Investment Target` and your `Plan` vs. `Forecast`. Depending on what view you are in will depend on if you see this data based on the quarter or based on the FY.
+The activity planning section is where you add the tactics of your quarterly/annual plan and where you can see quick high level metrics to help you understand your `Investment Target` and your `Plan` vs. `Forecast`. Depending on what view you are in will depend on if you see this data based on the quarter or based on the FY.
 
 ### View
 
@@ -154,7 +161,7 @@ Any line items within a category or subcategory default inherit the details from
 - GL Account - will be selected for you based on your input in Spend Type above. Note that we have three different fields for GL Account - one for FMM, one for Contribute and one for the rest of marketing. If there are any problems with the GL account during integrations, remind support of this fact to expedite a response.
 
 ##### Useful tricks inside the Activity Grid 
-1. Do you find yourself wanting to copy & paste a line item from a diffent activity plan into your activity plan? If so, then you will need to (right click) Copy/Paste the line item within the same activity plan, and then use the right-click "Move" option to move the line item copy to the correct activity plan. Within the Field Marketing team, we ask FMMs to transfer dollars to the ALL plans for shared activity, vs. having multiple line items for the same activity in multiple activity plans. Those instructions can be [found here](/handbook/marketing/field-marketing/#the-field-marketing-budget) pt. 12. 
+1. Do you find yourself wanting to copy & paste a line item from a differnt activity plan into your activity plan? If so, then you will need to (right click) Copy/Paste the line item within the same activity plan, and then use the right-click "Move" option to move the line item copy to the correct activity plan. Within the Field Marketing team, we ask FMMs to transfer dollars to the ALL plans for shared activity, vs. having multiple line items for the same activity in multiple activity plans. Those instructions can be [found here](/handbook/marketing/field-marketing/#the-field-marketing-budget) pt. 12. 
 
 #### 🗓 GitLab Internal Calendars
 
@@ -191,7 +198,7 @@ Today our Field Marketing team is the only team using this function. If you are 
 
 We have loaded the previous fiscal years worth of influenced conversion data from campaigns run by field marketing for both the MQL>SAO conversion rates as well as SAO>Closed Won data. 
 
-If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE its actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs. We took a snap shot in time data, but the below widgets can be referenced 
+If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE it's actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs. We took a snap shot in time data, but the below widgets can be referenced 
 
 Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965060/Field-Marketing-Metrics-(V2---WIP)?widget=13480873&udv=1547451) and live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965060/Field-Marketing-Metrics-(V2---WIP)?widget=13480874&udv=1547451).
 
@@ -202,7 +209,7 @@ A calculation is then done by then taking into account the MQLs, region, segment
 [Video walk through](https://youtu.be/bBLiwdpd5iY) (and yes, you know you need to be logged into Unfiltered to see! ;))
 
 ##### Showing low ROI - what now? 
-Beacuse we've loaded historical conversion rates into the impact modeller, a marketer should feel empowered to build a business case justifying why an investment should be made even though the impact modeller is showing a lower ROI. The business case could include specific accounts who you will connect with, LAM (landed addresible market) of account, how the pre/post campaign follow-up will be different than in investments past, nuanced facts about the proposed investment vs. historical program, etc. We want to still test out programs, and at times we may fail, and that's ok! Review your overall plan. Do you have a strong ROI built into a few campaigns that can afford a risk in a program you believe in? 
+Because we've loaded historical conversion rates into the impact modeller, a marketer should feel empowered to build a business case justifying why an investment should be made even though the impact modeller is showing a lower ROI. The business case could include specific accounts who you will connect with, LAM (landed addresable market) of account, how the pre/post campaign follow-up will be different than in investments past, nuanced facts about the proposed investment vs. historical program, etc. We want to still test out programs, and at times we may fail, and that's ok! Review your overall plan. Do you have a strong ROI built into a few campaigns that can afford a risk in a program you believe in? 
 
 ## 📊 Insights 
 
@@ -240,7 +247,7 @@ The reports are broken out in folder format and once you click into the folders,
 1. Finance - reports the finance team uses
 1. Health Check - We aren't using this folder in detail yet. More to come!
 1. Investment Planning
-    1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is same information that is reflected in the Investment Tracking Summary.
+    1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is the same information that is reflected in the Investment Tracking Summary.
     1. Vendor Plan details - Management uses this section to understand how much we are spending with Demandbase because we open insertion orders (IOs) on a qtly basis this is essential for us to know how much we need to open. We also use this section to understand the
 
 ##### Back end names of useful fields
@@ -276,9 +283,9 @@ An efficiency we are able to gain by using Allocaida is that we create a GitLab 
 
    * [Video walk through on GitLab unfiltered.](https://youtu.be/EsGlPNeH2P4) 
 
-By creating the FMM issue at the sub category level, this still allows the marketer flexibility in terms of how they want to strucure their activity plan. Another way to think about this is that everything under the sub category should align to the same campaign name to be created. 
+By creating the FMM issue at the sub category level, this still allows the marketer flexibility in terms of how they want to structure their activity plan. Another way to think about this is that everything under the sub category should align to the same campaign name to be created. 
 
-Please be mindful of where you are creating a sub-category. The system will allow you to create a sub-category within a sub-category, and you will realize this because upon creation of the what you believe to be a new sub category, you will notice the details panel is already filled in. Do NOT go through and start changing out the data in the details panel, as you are only allowed to create one FMM issue within the sub-category. What you’ll need to do is delete the newly already filled in sub-category and then ensure youre in the category level and create a new sub-category. 
+Please be mindful of where you are creating a sub-category. The system will allow you to create a sub-category within a sub-category, and you will realize this because upon creation of the what you believe to be a new sub category, you will notice the details panel is already filled in. Do NOT go through and start changing out the data in the details panel, as you are only allowed to create one FMM issue within the sub-category. What you’ll need to do is delete the newly already filled in sub-category and then ensure you're in the category level and create a new sub-category. 
 
 ##### FUTURE STATE - Date/Name changes 
 Should a date on a campaign need to change and the issue has already been created, you can systematically change the date & name. In order to do so, all changes must be made in Allocadia and then overnight will push the change to the GitLab FMM issue. Should you want to manually change both the issue AND Allocadia, you should feel empowered to do so. The automation is there to help you. 
@@ -304,7 +311,7 @@ In addition, we will be sending over planned amounts into the SFDC Campaign Budg
 Full detailed instructions on how to set this synch up, which does have to be done campaign by campaign, can be [found here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
 
 #### Influenced MQLs 
-If entereed in, the MQLs entered used in the impact modeller will be pushed to the SFDC campaign to a field called `Total Planned MQL` in the planning section of the campaign.  That data can then be pushed from SFDC into the company's BI tool and displayed on the SFDC attribtuion reporting so we can understand how good we are at forecasting MQL impact. 
+If entered in, the MQLs entered used in the impact modeller will be pushed to the SFDC campaign to a field called `Total Planned MQL` in the planning section of the campaign.  That data can then be pushed from SFDC into the company's BI tool and displayed on the SFDC attribution reporting so we can understand how good we are at forecasting MQL impact. 
 
 #### Drop down in details panel 
 If you need to add a new value to the drop down selector options, in order for the new options to properly pulled through to SFDC correctly, you need to be sure the new drop down value has been added to Allocadia and SFDC. Once that's been done, test the systems and you should be good to go! 
@@ -323,7 +330,7 @@ There is no integration with Marketo. However, through the [Marketo program/SFDC
 
 ### Netsuite
 
-We will eventually be able to use an FTP data integration to download actual expenses from Netsuite. In the meantime, we will be using CSV transfer files. [Instructions for Allocadia Admin to upload](https://drive.google.com/file/d/1CldCHFYJtaOo3NAjBHXPsjwPxqBarmOw/view?usp=sharing) were prepared by Allocadia. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month. These expenses will automatically map to the line items and show in the `Actuals` column if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do its best guess but without the Allocadia ID, we will need to confirm or correct.
+We will eventually be able to use an FTP data integration to download actual expenses from Netsuite. In the meantime, we will be using CSV transfer files. [Instructions for Allocadia Admin to upload](https://drive.google.com/file/d/1CldCHFYJtaOo3NAjBHXPsjwPxqBarmOw/view?usp=sharing) were prepared by Allocadia. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month. These expenses will automatically map to the line items and show in the `Actuals` column if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do it's best guess but without the Allocadia ID, we will need to confirm or correct.
 
 ### [Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/)
 Via an integration of Allocadia and Coupa, Marketers are able to create a Coupa Request from within Allocadia. This is a one way push of data from Allocadia into Coupa, so if you make any changes within the Coupa request, please note it will not be updated automatically within Allocadia. Video walk through of how to create a Coupa requisition directly from Allocadia can be found [here](https://youtu.be/XroayEye3kY).
@@ -332,7 +339,7 @@ Via an integration of Allocadia and Coupa, Marketers are able to create a Coupa 
 
 * The vendor/supplier must be in Coupa in active status to submit a Coupa req through Allocadia. If you need to process a new supplier request, please follow instructions [here](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier).
 * Coupa reqs are created on the line item level and cannot be created in a category or sub-category.
-* Make sure your line item panel details are completed and you have a plad AND forecasted cost associated with your line item.
+* Make sure your line item panel details are completed and you have a plan AND forecasted cost associated with your line item.
 * There should only be 1 Coupa req per supplier. If you are submitting a multi line item req, you cannot add lines from a different supplier. The line items you create in your req should ultimately match the line items in the invoice the supplier provides.
 
 #### Steps to Submitting a Coupa Req through Allocadia
