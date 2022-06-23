@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Jun 23 | Alliance Technology Partner Ecosystem Enablement | Mike L.  |
 | Jun 30 | Q2 FY23 Customer References Update | TBD  |
 | Jul 7 | ROI Calculator | Cindy B.  |
 | Jul 14 | Storage and Transfer Data Limits Update | TBD  |
@@ -37,6 +36,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-06-23 | **[Alliance Technology Partner Solutions](https://youtu.be/KcytqAzgORM)** | Private  |
 | 2022-06-16 | **[Positioning and Selling GitLab.com](https://youtu.be/mCqC6btgQBc)** | Private   |
 | 2022-05-19 | **[15.0 Release](https://youtu.be/gGMJZo40CjE)** | Private  |
 | 2022-05-05 | **[AWS Alliances: New AWS Marketplace listing and upcoming Credit Promotion](https://youtu.be/JPP58JHObw8)** | Private |
