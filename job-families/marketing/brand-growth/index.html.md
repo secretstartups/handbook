@@ -71,7 +71,7 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 
 ### Staff Brand Manager
 
-The Staff Brand Manager reports to the Manager, Brand Strategy and Growth.
+The Staff Brand Manager reports to the Director, Brand Strategy.
 
 #### Staff Brand Manager Job Grade
 
@@ -112,6 +112,46 @@ The Staff Brand Manager is a [grade 8](/handbook/total-rewards/compensation/comp
 * Executing overall brand strategy and brand campaign initiatives 
 * Collaborating effectively and receiving overall buy-in internally 
 * Reporting on metrics on brand campaigns to show that our brand is trending upwards. 
+
+## Career Ladder
+
+* The next step in the Corporate Events job family is not yet defined at GitLab.
+
+### Senior Brand Manager
+
+The Brand Manager reports to the Director, Brand Strategy
+
+#### Senior Brand Manager Job Grade
+
+The Senior Brand Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Brand Manager Responsibilities
+
+* Develops brand campaigns to help build our brand leadership in DevOps
+* Works collaboratively with key stakeholders to develop and propose brand campaigns.
+* Creates timelines for deliverables and collaborate between stakeholders to driver brand campaigns in a timely and consistent manner.  
+* Reports on brand campaign performance and measurement data. 
+* Helps evolve and maintain GitLab's brand positioning, how it’s articulated, how it is best deployed, across all marketing touchpoints.
+* Partners with brand design team to plan, manage, and implement a calendar of brand opportunities to bring the GitLab brand to life.
+* Measures and reports on success of brand marketing campaigns.
+* Provides support with brand team process establishment and documentation.
+
+#### Senior Brand Manager Requirements
+
+* Ability to use GitLab.
+* Experience in a brand manager role or similar acting role.
+* Knowledge of brand tracking and brand measurement systems.
+* Capability to coordinate across many teams and perform in a fast-moving environment.
+* Past experience managing external agencies to drive deliverables on a timeline. 
+* Understand and be able to express the value of GitLab as a brand entity.
+* Outstanding written and verbal communications skills.
+* You embrace our values, and work in accordance with those values.
+
+## Performance Indicators
+
+* Executing overall brand strategy and brand campaign initiatives. 
+* Reporting on metrics on brand campaigns to show that our brand is trending upwards.
+* Overseeing and updating brand message house for GitLab to consume.
 
 ## Career Ladder
 
