@@ -1531,6 +1531,10 @@ You can close the markup parser tag at any point, if you want to:
 
 ----
 
+## Mix ERB + Markdown
+
+You may want to use Embedded Ruby (ERB) in your markdown, for example, to include a [`partial`](https://middlemanapp.com/basics/partials/). To do this, make sure your file extension is `.html.md.erb` as `.html.md` will not parse the Embedded Ruby.
+
 ## Colorful sections
 
 To add notes and warning blocks into colorful boxes,
