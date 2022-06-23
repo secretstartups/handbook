@@ -167,6 +167,14 @@ Last, the [**dbplyr**](https://dbplyr.tidyverse.org/) package can be used to int
 - The GitLab Project should now be visible in R Studio
 - [Source](https://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/) for Walkthrough Instructions
 
+## How to Update a GitLab Project with Updates from R Studio
+- Before uploading changes made locally to a GitLab project ensure that you are working with the most current branch by selecting **Pull with Rebase** from the **Git** section in R (Ensure that you are rebasing from the **main** branch)
+    - ![Pull](/handbook/business-technology/data-team/platform/rstudio/Pull.png)
+- Once changes are complete and ready to be uploaded select the new branch icon and enter a name for the branch (no spaces allowed). Select **Create**
+    - ![Push](/handbook/business-technology/data-team/platform/rstudio/Push.png)
+- In the **Review Changes** window that opens in R ensure that changes on the left side of the screen are checked for **Staged** and that a commit message is entered on the right side of the screen. 
+- Select **Commit**
+- In GitLab, navigate to the project you have made updates to. You should see a merge request that needs to be created and it will have the changes you made in R. Select the relevant reviewers and approvers to merge the changes. 
 
 ## How to Connect RStudio and Google Sheets
 
