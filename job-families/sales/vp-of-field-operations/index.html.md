@@ -38,9 +38,9 @@ The VP, Field Operations is a [grade 12](/handbook/total-rewards/compensation/co
  
 ### Performance Indicators
 
-* [IACV vs Plan](/handbook/sales/performance-indicators/#iacv-vs-plan)
-* [Field Efficiency Ratio](/handbook/sales/performance-indicators/#field-efficiency-ratio)
-* [IACV Efficiency](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-efficiency)
+* IACV vs Plan
+* Field Efficiency Ratio
+* IACV Efficiency
  
 ### Career Ladder
 

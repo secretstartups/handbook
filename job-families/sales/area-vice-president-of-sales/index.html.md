@@ -52,7 +52,7 @@ The Area Vice President reports into the [VP, Enterprise Sales](/job-families/sa
 
 ## Performance Indicators
 
-* [IACV vs Plan](/handbook/sales/performance-indicators/#iacv-vs-plan)
+* IACV vs Plan
 * IACV vs forecast
 * All other Sale KPI's can be found [here](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#kpi-summary).
 

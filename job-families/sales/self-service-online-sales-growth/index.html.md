@@ -133,8 +133,8 @@ The Senior Director, Online Sales & Self Service Growth is a [grade 11](/handboo
 
 
 ## Performance Indicators
-* [nARR vs. plan](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan) > 1 
-* [nARR efficiency](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan) > 1.0
+* nARR vs. plan > 1 
+* nARR efficiency > 1.0
 * Increased adoption of self-service solutions (buying & account management) driving increased customer satisfaction, efficiency and Rep productivity.
 * Successful experimentation that drives key business decisions around go-to-market and product direction.
 * Subject matter expert for sales on new customer acquisition funnel; providing transparency to sales leadership and driving partnership with Marketing

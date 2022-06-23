@@ -86,8 +86,8 @@ This manager is expected to manage a small team of ICs, while also contributing 
 - [SPU](https://about.gitlab.com/handbook/product/performance-indicators/#stages-per-user-spu)
 - [Direct Signup ARR Growth Rate](https://about.gitlab.com/handbook/product/performance-indicators/#direct-signup-arr-growth-rate)
 - [Free to Paid ARR Growth Rate](https://about.gitlab.com/handbook/product/performance-indicators/#free-to-paid-arr-growth-rate)
-- [ Net retention rate](https://about.gitlab.com/handbook/sales/performance-indicators/#net-retention) 
-- [Gross retention rate](https://about.gitlab.com/handbook/sales/performance-indicators/#gross-retention)
+- Net retention rate
+- Gross retention rate
 
 ## Hiring Process
 

@@ -144,7 +144,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ## Performance Indicators
 
-- [Average Revenue per User](https://about.gitlab.com/handbook/sales/performance-indicators/#arpu)
+- Average Revenue per User
 - Average Selling Pricing
 
 ## Career Ladder

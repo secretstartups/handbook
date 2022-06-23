@@ -138,8 +138,8 @@ The Senior Manager, Online Sales & Self Service Product & Data Analytics is a [g
 * Ability to handle a fast-paced environment and ambitious workload
 
 ## Performance Indicators
-* [nARR vs. plan](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan) > 1 through development of self-service targets
-* [nARR efficiency](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan) > 1.0 through development of self-service targets
+* nARR vs. plan > 1 through development of self-service targets
+* nARR efficiency > 1.0 through development of self-service targets
 * Increased adoption of self-service solutions (buying & account management) driving increased customer satisfaction and Rep productivity leveraging product data insights and recommendations
 
 ## Career Ladder

@@ -73,7 +73,7 @@ The  Senior Renewals Operations Analyst is a [grade 7](/handbook/total-rewards/c
 
 ## Performance Indicators
 
-* [SMAU](/handbook/sales/performance-indicators/#active-smau-for-paying-customers)
+* SMAU
 * [CSAT](/handbook/business-ops/metrics/#customer-satisfaction-survey-csat)
 * [PNPS](/handbook/product/performance-indicators/#gitlab-com-paid-net-promoter-score-pnps)
 * [Churn & customer retention metrics](/handbook/customer-success/vision/#retention-and-reasons-for-churn)
