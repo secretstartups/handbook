@@ -55,7 +55,7 @@ This list has been pre-approved so if any team-member needs access to these syst
 | CultureAmp                       | 360 Feedback Management                             | User                                                                       |
 | EdCast                           | Structured and personal learning experiences        | User                                                                       |
 | Expensify                        | Expense Claims and Management                       | Employee                                                                   |
-| GitLab.com                       | GitLab Application for Staff                        | Employee                                                                   |
+| GitLab.com                       | GitLab Application for Staff                        | Developer role in gitlab-org and gitlab-com groups                                                                 |
 | Grafana                          | GitLab Dashboard                                    | User                                                                       |
 | Greenhouse                       | Recruiting Portal                                   | Interviewer                                                                |
 | Google Workspace                 | Email, Calendar, and Document sharing/collaboration | GitLab.com Org Unit                                                        |
