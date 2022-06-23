@@ -163,7 +163,12 @@ Important to Note:
 
 ## Predictive Analytics
 
-This is not a silver bullet. This will not cure all that ails you. Instead, this methodology is probabilistic and incorporates health measures to correlate the typical journey of “healthy” customers (expand and renew) with “unhealthy” customers (downgrade and churn). For example, a healthy sales pipeline has few pushes (moving the close date) and progressively moves through stages (not stale). Conversely, an opportunity with multiple pushes and stuck in stages for long periods of time is an indicator of risk.
+Predictive Analytics is not a silver bullet. It will not cure all that ails you. Instead, this methodology is probabilistic and incorporates health measures to correlate the typical journey of “healthy” customers (expand and renew) with “unhealthy” customers (downgrade and churn). For example, a healthy sales pipeline has few pushes (moving the close date) and progressively moves through stages (not stale). Conversely, an opportunity with multiple pushes and stuck in stages for long periods of time is an indicator of risk.
+
+| Prediction Type | Model Name | Status | Description | 
+| :--: | :--: | :--: | :--: | 
+| Expansion | [Propensity To Expand (PTE)](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/) | Active | Predicts whether an account is likely to expand (increase ARR) |
+| Churn and Contraction | [Propensity To Churn or Contract (PTC)](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/) | Active | Predicts whether an account is likely to churn or contract (decrease ARR) |  
 
 ### Appetite and Ability to Expand (Seats, Uptier)
 
@@ -175,18 +180,18 @@ Triggers will be used for different events:
 
 Each of these metrics will be used to guide the account team in knowing when a customer is approaching the next or has met their milestone. The items listed below are examples of what an account team could look at to glean insights for a productive customer conversation.
 
-### Seat Expansion
+#### Seat Expansion
 
-#### License Utilization
+##### License Utilization
 
 1. Rapidly consuming licenses (measuring growth rates)
 2. 90% license utilization
 
-#### User Activity
+##### User Activity
 
 1. High UMAU (above 80%)
 
-### Uptier
+#### Uptier
 
 1. Desire for guest users
    1. They purchased a high number of Premium licenses but could move many to Guest
@@ -197,13 +202,13 @@ Each of these metrics will be used to guide the account team in knowing when a c
    1. DevSecOps
    1. Agile Planning
 
-### Seat Reduction
+#### Seat Reduction
 
 1. Less than 75% license utilization (excludes onboarding customers)
 2. Consistent reduction in activated user count (number of deactivated users M-o-M)
 3. TAM renewal risk == Seat Loss
 
-### Downtier
+#### Downtier
 
 1. Not using Ultimate-level features
    1. DevSecOps
@@ -211,17 +216,17 @@ Each of these metrics will be used to guide the account team in knowing when a c
 1. Success Plan objectives not aligned with Ultimate-level feature sets
 1. TAM renewal risk == downtier
 
-### Churn
+#### Churn
 
 Indicators from Seat Reduction or Downtier above plus:
 
-#### Customer Experience
+##### Customer Experience
 
 1. Customer has gone dark
 2. Loss of internal champion/stakeholder
 3. TAM renewal risk == churn
 
-#### Renewal Opportunities
+##### Renewal Opportunities
 
 1. Stages not progressing
 2. Pushes
@@ -243,6 +248,3 @@ Segmentation will primarily follow the level of service (TAM Priority 1, 2, 3), 
 - [Project Compass #3 - GTM Product Analytics - Improve product and customer analytics to capture richer data about users](https://gitlab.com/groups/gitlab-com/-/epics/1246)
 - [Project Compass #15 - Build analytics capabilities and CRM integration to improve cross-sell/up-sell](https://gitlab.com/groups/gitlab-com/-/epics/1247)
 - [Renewal Operations Strategy (internal only document)](https://docs.google.com/document/d/1cQGAzrpdZyqq7P5X40AZrh-HLvv2PwmHfHcv3iq_2M8/edit#)
-
-
-
