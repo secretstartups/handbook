@@ -51,7 +51,7 @@ The below page overviews the primary meetings for the WW Field Team.
 * What: Michael McBride (CRO) will present to the CEO, CFO, and other company leaders a monthly Sales update. 
 
 This update will include the current status of:
-   * [Sales KPI's](https://about.gitlab.com/handbook/sales/performance-indicators/)
+   * Sales KPI's
    * [OKR's](https://about.gitlab.com/company/okrs/fy21-q3/)
 
 The meeting will cover:
