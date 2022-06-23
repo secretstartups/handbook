@@ -261,7 +261,7 @@ To use the dashboard select a Fiscal Quarter in the filters and any of the optio
 * % of Bookings: Net ARR for a given category / total ARR for a given quarter
 * % of Total Bookings: Net ARR for a given category / total ARR for a given category subtotal
 * ProServ #: Number of opportunities with a proserv_amount different from zero
-* [A R (Attach Rate)](https://about.gitlab.com/handbook/sales/performance-indicators/#proserve-deal-and-dollar-attach-rate)
+* A R (Attach Rate)
 * The `US East` row shown in the sales segment drilldown field is composed of both the `East` and `LATAM` region
 * Sales segment drilldown = APAC is composed of all the regions that are not `East`, `West`, `LATAM` and `EMEA`
 * Sales segment drilldown = SMB is composed of the segment SMB plus all the segments that are not `Large` and `Mid-Market`
