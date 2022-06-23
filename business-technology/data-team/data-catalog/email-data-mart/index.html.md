@@ -154,7 +154,43 @@ The process to add fields to the DataMart and Pump is below. There are several t
 background-color: #6666c4; color: black; padding: 5px; text-align: center;
 }
 </style>
+<h1 id="headerformat">Updating The Marketing Do Not Contact List </h1>
+
+The Marketing Do Not Contact (DnC) list contains a set of emails that have been identified as `undeliverable`, `do_not_send`, ... in Marketo. This information is then used in the Email Marketing Database to create the field `wip_is_valid_email_address` which defines whether an email can or cannot be contacted through email.
+
+This list is uploaded through a process called Driveload. The Driveload process goes to a Google Drive folder and uploads the CSV files found in said folder to a table in the data warehouse. The Marketing Do Not Contact driveload process is set to `append = 1`, this means that any new CSV files that are added to the Google Drive folder will be appended to the past CSV files in the data warehouse table.
+
+To update/add another CSV file to the list you need to:
+
+1. Go to [the Marketing Do Not Contact List GDrive folder](https://drive.google.com/drive/folders/1EUYXgGYAcGEWGemu_SbYz3eCQjk57vRq)
+2. Upload a CSV file containing the following fields: `address, is_role_address, is_disposable_address,	did_you_mean, result, reason, risk, root_address`.
+
+    a. Make sure to use the same casing as shown here.
+    
+    b. At the very least the fields `address` (email address) and `result` (the field containing whether the email address is `undeliverable`, `unknown`, `do_not_send`, ...) need to be filled as the Marketing Database data models expect these fields to have valid information in them.
+
+3. The driveload process runs everyday and it will automatically pick up the new CSV file dropped in the GDrive folder without any further manual inputs. So you just need to wait for this process to complete.
+
+Note: If an email address is found more than once in the list then the information that will be taken will be from the latest uploaded CSV file.
+
+In case a contact was first uploaded as `undeliverable`, `do_not_send`, ... and this is no longer the case and wants to be changed to deliverable, you only need to upload a new CSV file with said email address and the field `result` with a value of `deliverable` and follow the the above steps.
+
+<style> #headerformat {
+background-color: #6666c4; color: black; padding: 5px; text-align: center;
+}
+</style>
 <h1 id="headerformat">Additional Resources </h1>
+
+<details>
+<summary markdown='span'>
+  Email Marketing Data Pump
+</summary>
+
+For more information around the Email Marketing Data Pump, which is the technology in charge of moving a selected set of data from the email marketing database in Snowflake to Marketo, please reference [this page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/wiki/integrations-list/marketing-data-pump/).
+
+</details>
+
+
 
 <details>
 <summary markdown='span'>
