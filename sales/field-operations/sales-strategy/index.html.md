@@ -32,6 +32,10 @@ Create an issue in the [analytics project](https://gitlab.com/gitlab-com/sales-t
 | Michael Arntz | Sales Strategy Manager | [@marntz](https://gitlab.com/marntz)  |
 | Matthew Ramirez | Manager, Sales Strategy | [@matthewaramirez](https://gitlab.com/matthewaramirez)  |
 | Jack Caine | Senior Manager, Sales Strategy | [@jcaine](https://gitlab.com/jcaine)  |
+| Haseen Selim | Senior Analyst, GTM Planning & Operations | [@hselim](https://gitlab.com/hselim)  |
+| Patrick Nichols | Director, Sales Strategy | [@patricknichols](https://gitlab.com/patricknichols)  |
+| Jueun Kim | Sales Analytics Analyst | [@j_kim](https://gitlab.com/j_kim)  |
+| Aileen Lu | Director, Sales Strategy | [@aileenlu](https://gitlab.com/aileenlu)  |
 
 ## Sales Headcount Change Management Process
 
@@ -53,6 +57,9 @@ The SS&A team is reponsible of maintaining a set of key reports for the Sales or
 | [SAL Heatmap](/handbook/sales/field-operations/sales-strategy/analytics/sal-heatmap) | Achievement, coverage and pipeline generation summary by SAL by region |
 | [SS&A - Pipeline Velocity & Generation](https://app.periscopedata.com/app/gitlab:safe-dashboard/919343/SS&A---Pipeline-Velocity-&-Generation)|  Pipeline and Pacing progression by day of current and previous fiscal quarters | 
 | [SS&A - Pipeline Movement Tracker](https://app.periscopedata.com/app/gitlab:safe-dashboard/919348/SS&A---Pipeline-Movement-Tracker) | Helps to identify root causes of Open Pipeline and Pipeline Generation movements |
+
+For detailed explanations on Pipeline Management tools, please visit [here](/handbook/sales/field-operations/sales-strategy/analytics/pipeline-management-tools)
+
 
 ## FY22 Field Planning 
 
