@@ -226,7 +226,7 @@ If the manager has a question about compensation, please ping the People Ops Ana
 
 1. At any time during the hiring process the candidate can be rejected.
 1. Everyone who interviews a candidate must complete a scorecard and are required to input pros and cons as well as an overall recommendation.
-1. If a situation arises in which the role has been filled within 24 hours of a candidate's interview, we will **not** cancel the interview. The interviewer will take the call and be transparent with the candidate about the situation upfront. It would be a good use of time to discuss other roles, future roles or questions about GitLab in general.
+1. We will **not** cancel an interview within less than 24 hours' notice if the candidate is being rejected. The recruiter will notify the candidate that the candidate is no longer in consideration for the role and present them with the option to continue with the scheduled interview slot. The interviewer will not discuss the feedback that led to the decline. The interviewer will frame the conversation as an opportunity to answer general questions about life at GitLab and future opportunities in our team.
     - If the candidate's interview is outside 24 hours, the interview will be deleted in Greenhouse before the candidate is rejected and notified.
 1. The candidate should always be notified if they've been rejected, and the talent acquisition team is primarily responsible for declining the candidate. Please note that due to a variety of reasons, including high applicant volumes and other factors, it may not be possible for the talent acquisition team to provide detailed decline feedback.
 1. If people argue with the feedback that we provided:
