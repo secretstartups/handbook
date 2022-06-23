@@ -52,6 +52,17 @@ The People Experience team will randomly select 3 winners giveaway link to order
 
 Buddy assignation is the new team member's manager's responsibility as outlined in the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) as the very first `Before Starting at GitLab` manager task. If you have been at GitLab 3+ months and are interested in participating in the Onboarding Buddy Program, please express your interest to your manager.
 
+## Managers: Who should I pick as an Onboarding Buddy? 
+
+Ideally an onboarding buddy:  
+- has been at GitLab longer than 3 months 
+- shares the same department or division with the onboarding team member
+- shares a similar timezone 
+- available during the first two weeks (no major PTO events or leave)
+- is someone who can support the adjustment to GitLab and knows a bit about the applications / tools the new team member may be using in the course of their role
+
+These guidelines have been developed from the feedback we recieve in the Onboarding Survey and feedback from onboarding buddies. It is not always possible to achieve all of these guidelines depending on the team or location. 
+
 ## Example Email Template
 
 This is an example template you can use to introduce yourself to a new team member as their onboarding buddy.
