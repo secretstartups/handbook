@@ -140,7 +140,7 @@ To propose an idea or solution that addresses one of the [defined problems](http
 | Contributor       | Farnoosh Seifoddini | Principal PM, Product Operations |
 | Contributor       | Wayne Haber (Engineering) | Director Engineering, Threat Management |
 | Contributor       | Vincy Wilson (QE) | Manager, Quality Engineering - Growth & Protect |
-| Contributor       | Jackie Bauer (UX/Product Design) | UX Manager, Enablement & Growth |
+| Contributor       | Jacki Bauer (UX/Product Design) | Product Design Manager, Growth & Fulfillment |
 | Contributor       | Michael Karampalas (Product Management) | Principal PM, Growth |
 | Contributor       | Justin Farris (Product Management) | GPM, Plan |
 | Contributor       | Nadia Udalova (Dev) | Product Design Manager |
