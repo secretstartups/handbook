@@ -10,7 +10,7 @@ description: "The Accounting Operations function is responsible for the strategy
 
 The Director, Accounting Operations job family leads our Accounting Shared Services teams including Payroll and Accounts Payable. The Director, Accounting Operations is responsible for the leadership, strategy, and execution of Accounting Operations, including developing policies and procedures to enable the attainment of key corporate and business objectives. 
 
-This role reports to the [VP, Corporate Controller](job-families/finance/corporate-controller/). 
+This role reports to the [VP, Corporate Controller](/job-families/finance/corporate-controller/). 
 
 #### Director, Accounting Operations Job Grade
 

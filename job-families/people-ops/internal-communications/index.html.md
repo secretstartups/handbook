@@ -115,7 +115,7 @@ The Staff Internal Communications Manager is a [grade 8](/handbook/total-rewards
 
 ### Senior Manager, Internal Communications 
 
-The Senior Manager, Internal Communications reports to the [Senior Director, Talent Brand and Enablement](job-families/people-ops/talent-brand-and-talent-acquisition-enablement/#senior-director-of-talent-brand--talent-acquisition-enablement).
+The Senior Manager, Internal Communications reports to the [Senior Director, Talent Brand and Enablement](/job-families/people-ops/talent-brand-and-talent-acquisition-enablement/#senior-director-of-talent-brand--talent-acquisition-enablement).
 
 #### Senior Manager, Internal Communications Job Grade
 
@@ -154,7 +154,7 @@ The Senior Manager, Internal Communications is a [grade 9](/handbook/total-rewar
 
 ### Director, Internal Communications
 
-The Director, Internal Communications reports to the [Senior Director, Talent Brand and Enablement](job-families/people-ops/talent-brand-and-talent-acquisition-enablement/#senior-director-of-talent-brand--talent-acquisition-enablement).
+The Director, Internal Communications reports to the [Senior Director, Talent Brand and Enablement](/job-families/people-ops/talent-brand-and-talent-acquisition-enablement/#senior-director-of-talent-brand--talent-acquisition-enablement).
 
 #### Director, Internal Communications Job Grade
 
