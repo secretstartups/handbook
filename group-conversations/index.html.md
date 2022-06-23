@@ -321,7 +321,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday July 6 | CRO| Michele Hodges | Key Review Date|
 | Thursday July 7 | UX| Christine Lenneville | June 30e|
 | Tuesday July 12 | Customer Fireside Chat | | N/A |
-| Wednesday July 13 | People | | July 7 |
+| Wednesday July 13 | Available| |  |
 | Thursday July 14 | Brand Activation| Luke Babb | N/A |
 | Tuesday July 19 | Marketing| Ashley Kramer | N/A|
 | Wednesday July 20 | Finance | | 2022-07-20 |
@@ -329,6 +329,35 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday July 26 | UX Research| Adam Smolinski | N/A |
 | Wednesday July 27 | Product| Product Leadership | Key Review Date|
 | Thursday July 28 | Digital Experience | Michael Preuss | N/A |
+| Tuesday Aug 2 | |  | N/A |
+| Wednesday Aug 3 | | | Key Review Date|
+| Thursday Aug 4 | | | N/A |
+| Tuesday August 9 |  | |  |
+| Wednesday August 10 | People | People | July 27th |
+| Thursday August 11 |  |  | N/A |
+| Tuesday August 16 | | | N/A |
+| Wednesday August 17 | | | Key Review Date|
+| Thursday August 18 | | | N/A |
+| Tuesday August 23 |  | | | 
+| Wednesday August 24 | | | Key Review Date|
+| Thursday August 25 | People | People Leadership | August 18th |
+| Tuesday August 30 | | | N/A |
+| Wednesday August 31 | | | Key Review Date|
+| Thursday September 1 | |  | N/A |
+| Tuesday September 6 | | | N/A |
+| Wednesday September 7 | | | Key Review Date|
+| Thursday September 8 | |  | N/A |
+| Tuesday September 13 | | | N/A |
+| Wednesday September 14 | | | Key Review Date|
+| Thursday September 15 | |  | N/A |
+| Tuesday September 20 | | | N/A |
+| Wednesday September 21 | | | Key Review Date|
+| Thursday September 22 | |  | N/A |
+| Tuesday September 27 | | | N/A |
+| Wednesday September 28 | | | Key Review Date|
+| Thursday September 28 | |  | N/A |
+| Tuesday Oct 20 | People | People Leadership | Oct 12 |
+| Wednesday Nov 30 | People | People Leadership | Nov 10 |  
 
 ## Examples of Past Group Conversations
 
