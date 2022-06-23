@@ -31,11 +31,12 @@ This page defines how our Internal Comms program operates.
 
 Given the amount of information we need to communicate with GitLab team members around the world it's important that we have a structured approach to communication.
 
-In preparing key messages to be shared with all team members, we ask all parts of the business to follow the process below:
+In preparing key messages to be shared with all team members, we ask all departments to follow the process below:
 
-1. Share the need for internal comms support by answering the following questions in the #channel on slack
-    1. Please note: this is a private channel for e-group and all-directs, if you do not have access please share your need with your department leader
-1. In understanding the need, there will be a DRI from internal communications or the broader talent & engagement team assigned to the project.
+1. Share the need for internal comms support by completing an [internal communications planning template](https://docs.google.com/document/d/1RCbETctaQKuRHhVce14wREO_NRpgiMon89t-kU8Zfj8/edit?usp=sharing) as completely as possible and share the need with a member of our internal communications team.
+    - Simon Liang, Senior Manager, Internal Communications & Team Member Engagement
+    - Kayla Golden, Senior Program Manager, Internal Communications
+1. Upon recieving the project brief, our internal communications will socialize the need with the #comms-asks channel to determine the who will be a DRI from internal communications or the broader talent & engagement team assigned to the project.
 1. A communications plan including release timing, cadence, and appropriate channels will be developed
     1. At least ~48 hours advanced notice is needed to plan a single message being shared
     1. For more complex internal communications requests, we request at least ~7-10 business days advanced notice to effectively collaborate together on a communications plan. We will opt to move more methodically depending on the scope and timeliness of the communication. 
