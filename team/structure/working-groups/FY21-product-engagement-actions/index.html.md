@@ -103,6 +103,6 @@ Stretch:
 | Functional Lead       | Josh Zimmerman (People)) | Learning & Development Manager |
 | Functional Lead       | Viktor Nagy (Product - Configure) | Senior Product Manager |
 | Functional Lead       | Derek Ferguson (Product - Secure) | Senior Product Manager |
-| Functional Lead       | Jacki Bauer (UX) | UX Manager |
+| Functional Lead       | Jacki Bauer (UX) | Product Design Manager |
 
 
