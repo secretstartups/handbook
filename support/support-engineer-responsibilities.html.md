@@ -191,7 +191,7 @@ managing calls.
 Collaboration is one of GitLab's values, and helping others with their tickets
 offers you a daily opportunity to live that value. When all higher priority
 items are under control (see
-[Prioritizing work](/handbook/support/support-global-groups/index.html/#prioritizing-work)),
+[Prioritizing work](/handbook/support/support-global-groups/#prioritizing-work)),
 please find tickets in your group's view. See the
 [Support Global Groups FAQ page](/handbook/support/support-global-groups/sgg-faq.html) for topics
 about how to help other SEs.
@@ -228,7 +228,7 @@ shows the current values.
    - We believe in quality, not quantity. More is not necessarily better. GitLab
      gives you freedom to choose and trusts you to use good judgment in
      exercising that freedom as you make daily decisions about
-     [Prioritizing work](/handbook/support/support-global-groups/index.html/#prioritizing-work).
+     [Prioritizing work](/handbook/support/support-global-groups/#prioritizing-work).
 
 ## Participate in on-call rotations to coordinate and resolve emergencies (Occasionally)
 
