@@ -491,23 +491,135 @@ Description
 
 
 #### Secure Stage
-Short description of Secure Stage
+
+Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Container Scanning, and Dependency Scanning 
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Dynamic Analysis Metrics](https://app.periscopedata.com/app/gitlab/703762/WIP:-Dynamic-Analysis-metrics)
+* [Dynamic Analysis Metrics](https://app.periscopedata.com/app/gitlab/703762/WIP:-Dynamic-Analysis-metrics) Secure:Dynamic Analysis Group
 
-PIs and metrics for the Secure:Dynamic Analysis Group
+Some seemingly duplicate charts in Dynamic Analysis Metrics are used by the team to compare totals from different data sets. 
 
-* [Link to a dashboard]()
+* [Threat Management Metrics](https://app.periscopedata.com/app/gitlab/737412/Threat-Management-Metrics---Matt's-Playground) Secure:Threat Insights Group
 
-Group specification if applicable, brief description of dashboard and how it's used
+* [Secure & Protect GMAU/SMAU Metrics](https://app.periscopedata.com/app/gitlab/707777/Secure-&-Protect-GMAU-SMAU-Metrics)
+This dashboard shows various MAU metrics for Secure and Protect. 
 
-* [Link to a dashboard]()
+* [Secure SCA - PI - Software Composition Analysis](https://app.periscopedata.com/app/gitlab/749790/Secure-SCA---PI---Software-Composition-Analysis---Schwartz) Secure:Composition Analysis Group
 
-Group specification if applicable, brief description of dashboard and how it's used
+
+
+**Important data documentation**
+
+``` sql
+
+SELECT * 
+FROM table
+WHERE field = stage_name
+;
+```
+
+**Helpful video resources**
+
+[DevSecOps Overview](https://www.youtube.com/watch?v=XnYstHObqlA&t=15s) A great place to start for a high-level overview relating to Secure functionality.
+
+**Product direction link**
+
+[Secure product direction page - 1 year plan](https://about.gitlab.com/direction/secure/#1-year-plan)
+
+
+**Performance indicators**
+
+[Performance indicators linked in Secure handbook page](https://about.gitlab.com/handbook/engineering/development/sec/#performance-indicators)
+
+**Key handbook pages**
+
+[Secure stage primary handbook page](/handbook/engineering/development/sec/secure/)
+
+**Slack channels**
+
+**#s_secure**
+
+**Team members**
+
+[Product categoeries page section to find Secure team members to collaborate with](/handbook/product/categories/#secure-stage)
+
+[Secure Handbook page section to find Secure engineering team members to collaborate with](/handbook/engineering/development/sec/secure/#team-members)
+
+
+</details>
+
+
+#### Protect Stage
+
+Cloud native protections, including unified policy management, container scanning, and container network and host security.
+
+<details markdown="1"><summary>Click to expand</summary>
+
+**Top dashboards referenced by this team**
+
+* [Container Security Metrics](https://app.periscopedata.com/app/gitlab/694854/Container-Security-Metrics) Protect:Container Security Group
+
+
+**Important data documentation**
+
+``` sql
+
+SELECT * 
+FROM table
+WHERE field = stage_name
+;
+```
+
+**Helpful video resources**
+
+[Protect Stage YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq4CHpCTMv3OdquJXm6ggYr)
+
+[Protect UX YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KrUL59mDTOdERpYEXGyMPVz)
+
+
+**Product direction link**
+
+[Protect product direction page - 1 Year Plan](https://about.gitlab.com/direction/protect/#1-year-plan)
+
+**Performance indicators**
+
+[Internal handbook performance indicators for the Secure section](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/sec-section/)
+
+**Key handbook pages**
+
+[Protect stage primary handbook page](https://about.gitlab.com/handbook/engineering/development/sec/protect/)
+
+**Slack channels**
+
+**#s_protect**
+
+**Team members**
+
+[Handbook page to find Protect team members to collaborate with](/handbook/product/categories/#protect-stage)
+
+[Protect Handbook page section to find Protect engineering team members to collaborate with](https://about.gitlab.com/handbook/engineering/development/sec/protect/#sub-department-development-people-leaders)
+
+</details>
+
+### Enablement Section
+
+
+#### Systems Stage
+Short description of systems Stage
+
+<details markdown="1"><summary>Click to expand</summary>
+
+**Top dashboards referenced by this team**
+
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+
+* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+
 
 **Important data documentation**
 
@@ -550,67 +662,8 @@ Description
 
 </details>
 
-
-#### Protect Stage
-Short description of Protect Stage
-
-<details markdown="1"><summary>Click to expand</summary>
-
-**Top dashboards referenced by this team**
-
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
-
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
-
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
-
-
-**Important data documentation**
-
-``` sql
-
-SELECT * 
-FROM table
-WHERE field = stage_name
-;
-```
-
-**Helpful video resources**
-
-[Link to user research or demos]()
-Group specification if applicable, brief description of youtube channel linked or specific singular video resource
-
-**Product roadmap link**
-
-[Link to product roadmap]()
-Resource to understand the long-term goals for this team
-
-**Performance indicators**
-
-[Link to OKRs handbook page]()
-Resource to understand the current OKRs for this team
-
-**Key handbook pages**
-
-[Link to helpful handbook page]()
-Describe why this handbook page is helpful for product analysts
-
-**Slack channels**
-
-**#slack-channel**
-Description
-
-**Team members**
-
-[Handbook page to find Protect team members to collaborate with](/handbook/product/categories/#protect-stage)
-
-</details>
-
-### Enablement Section
-
-
-#### Enablement Stage
-Short description of Enablement Stage
+#### Data Stores Stage
+Short description of data stores Stage
 
 <details markdown="1"><summary>Click to expand</summary>
 
