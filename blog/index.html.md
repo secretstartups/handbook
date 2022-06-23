@@ -284,6 +284,8 @@ These are included to help readers find similar posts if they are interested in 
 You can include as many tags as you like, separated by commas. Please only include tags from the following list, and note that they are case sensitive. 
 
 - agile
+- ARM
+- AWS
 - bug bounty
 - careers
 - CI
@@ -322,6 +324,7 @@ You can include as many tags as you like, separated by commas. Please only inclu
 - security
 - security releases
 - security research
+- solutions architecture
 - startups
 - testing
 - tutorial
