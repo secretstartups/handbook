@@ -136,8 +136,8 @@ and - like a contribution coming from the wider community - ultimately own the f
 The planning process:
 * Planning issues are created and PMs add what they want UX to work on
 * Designers add weights to issues that are planned but unweighted.
-* Designers review planning issues, add their name to issues and assign themselves to issues they can work on. Issues that fall in their specialty but won't fit in the milestone should be escalated to the PM and UX Manager.
-* Unclaimed issues that don't fit into a category should be escalated to the UX Manager.
+* Designers review planning issues, add their name to issues and assign themselves to issues they can work on. Issues that fall in their specialty but won't fit in the milestone should be escalated to the PM and Product Design Manager.
+* Unclaimed issues that don't fit into a category should be escalated to the Product Design Manager.
 
 ##### A note about prioritization
 Every milestone will have more work than we can commit to. Product designers know the approximate number of issue weights they can take on in order to do the work to our high standards. Never take on more issue weights than you can, and don't compromise other important tasks such as professional development and UX department initiatives. This leads to burnout. Follow the escalation instructions to make your wider team aware of the issues you can't take on so that they can explore additional options or tradeoffs.
@@ -181,7 +181,7 @@ In addition to the [Validation Phase Outcomes](https://about.gitlab.com/handbook
 
 #### Visual Reviews of MRs
 
-The engineering team applies the `UX` label to any MR that introduces a visual, interaction or flow change. These MRs can be related to new issues, bugs, followups, or any type of MR. If the engineer isn't sure whether the MR needs UX, they should consult the designer who worked on the related issue, and/or the designer assigned to that stage group, or the UX manager.
+The engineering team applies the `UX` label to any MR that introduces a visual, interaction or flow change. These MRs can be related to new issues, bugs, followups, or any type of MR. If the engineer isn't sure whether the MR needs UX, they should consult the designer who worked on the related issue, and/or the designer assigned to that stage group, or the Product Design Manager.
 
 Visual reviews are required for any MR with the `UX` label. When the MR is in `workflow::In review`, the engineer assigns the MR to the designer for a visual review using the [reviewer functionality](https://docs.gitlab.com/ee/development/code_review.html#getting-your-merge-request-reviewed-approved-and-merged) in the sidebar. This can happen in parallel with the maintainer review, but designers should prioritize these reviews to complete them as quickly as possible.
 
