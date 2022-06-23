@@ -19,25 +19,9 @@ Content in the LXP is created using a handbook first approach to learning. This 
 - barriers to contributions are removed or reduced
 - the organization maintains a single source of truth
 
-The steps for [how to contribute content to the LXP](/handbook/people-group/learning-and-development/gitlab-learn/#how-to-contribute) outlines examples of how users can create handbook first learning content.
+## Contribute to the LXP
 
-
-## How to Contribute
-
-Both team members and our wider community can contribute learning content to the LXP. At this time, the community contribution process is a work in progress, as the platform has not yet been launched to the wider community.
-
-You'll find related processes for team members and community members interested in contributing content below.
-
-| Audience | Contribution Process |
-| ----- | ----- |
-| GitLab Team Members | [Become a GitLab Learning Evangelist](/handbook/people-group/learning-and-development/gitlab-learn/contribute/team-member-contributions) |
-| Wider Community Members | [Contribute to the LXP](/handbook/people-group/learning-and-development/gitlab-learn/contribute/community-contributions) |
-
-
-### Why create a contribution process?
-
-The EdCast platform does not require content to be reviewed before publishing for all learners. Similar to our contribution process to GitLab, we're building a contribution process that both enables learners to contribute and incorporates a system to check for accuracy and quality. In addition, democratizing learning in this way will enable diversity in the voices we hear from in the platform and alleviate an overwhelm of content upload that would otherwise be required of a few team members.
-
+The contribution process is currently under review. If you would like to create learning material, please contact the Learning and Development team in the #learninganddevelopment Slack channel, or email us at learning@gitlab.com. 
 
 ## Learning content in the LXP
 
