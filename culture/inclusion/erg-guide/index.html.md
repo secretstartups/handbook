@@ -244,8 +244,9 @@ A GitLab team member or team members who are responsible and accountable for str
 
 **Responsibilities**
 * Operational lead/leaders of the TMRG
-* Meets with the DIB team on a regular basis
-* Responsible for submitting annual and/or quarterly strategy for the TMRG
+* Meets with the DIB team on a quarterly basis as a minimum
+* Responsible for submitting annual strategy using the [Annual Strategy Template](https://docs.google.com/presentation/d/1Zpz6z_0x3rbjYzUd6fSAojg8ME3FKfWPrI7cD4HmV48/edit?usp=sharing) 
+* Responsible for submitting a quarterly strategy using the [Quarterly Strategy issue template] () for the TMRG
 * Work with business leaders on the success of DIB and the TMRG at GitLab
 * Facilitate TMRG meetings both async and sync ensuring inclusivity across geographical regions
 * Serve as contact for any team, department, or other GitLab team member requesting partnership or education with the TMRG
@@ -464,7 +465,7 @@ In addition to executive sponsorship, some of our TMRGs have found gaining Direc
 
 ### Hold your first All Gitlab event/session
 
-A great way to gain traction and have an initial goal. Is to develop a All Gitlab event. Check out the Coming Out Day session from the Pride TMRG.
+A great way to gain traction and have an initial goal. Is to develop a All Gitlab event. Check out the [Coming Out Day session](https://www.youtube.com/watch?v=OUKWs6hkMQY) from the Pride TMRG.
 
 Develop a working group and figure out how you want to do this. Ideas could include but not limited to:
 
