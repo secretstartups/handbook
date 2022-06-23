@@ -187,6 +187,8 @@ gsed -i 's,<searchtext>,<replacementtext>,g' file.md
 
 #### Find and Replace a String in all (Matching) Files
 
+##### Using a terminal
+
 Sometimes a project, URL target or Slack channel is being renamed. You can easily search and edit with the Web IDE on GitLab.com but for other files there is a quick and automated way required.
 
 This method combines the find, exec and sed tips explained above. The `exec` action is now to use sed to perform an inline replacement of a pattern/string.
@@ -218,3 +220,33 @@ To cut it down:
 - The replacement is `https://gitlab.com/gitlab-com/marketing/corporate-marketing` with `https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing`
 - Verify the changes with `git status` and `git diff` before committing them
 - Commit, push and create the MR from the URL
+
+##### Using Visual Studio Code
+
+You can also do bulk find and replace operations using [Visual Studio Code](https://code.visualstudio.com/download) along with the [GitLab Workflow extension for VS Code](https://docs.gitlab.com/ee/user/project/repository/vscode.html). The following steps were used in this [MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/106599) for updating `sub-value` to `operating principle`.
+
+On macOS this can be a fairly seamless experience if you clone the `www-gitlab-com` project [using SSH](https://about.gitlab.com/handbook/git-page-update/#clone-via-ssh), and then add the following to your `.ssh/config` to add your [SSH-Keys](https://docs.gitlab.com/ee/user/ssh.html) to the SSH-Agent:
+
+```
+Host *
+  UseKeychain yes
+  AddKeysToAgent yes
+  IdentityFile ~/.ssh/[your-secure-ssh-key-name]
+```
+
+Once you've configured and installed `Visual Studio Code` and logged into the `GitLab Workflow extension for VS Code` open the `www-gitlab-com` directory where you've synced the repo.
+
+Create a new branch by:
+1. Clicking on `master` in the bottom bar
+1. Select `Create new branch`
+1. Enter a branch name
+1. Press the enter key
+
+You can then use the `Search` functionality (`⌘⇧F`) to find all files matching your desired search. Searching in `Visual Studio Code` allows matching case, matching whole word, or using Regular Expressions. If you click on the ellipsis (`…`) you also have the option to include or exclude files by pattern matching on the path (uses commas to delimit multiple includes/excludes).
+
+Once you've made your edits use the `Source Control` (`⌃⇧G`) functionality to:
+1. Stage your changes by clicking on the `+` sign for each file or for all commit
+1. Provide a name to the commit in the Message field saving with a `⌘Enter`
+1. Clicking on the publish or sync button
+
+You can use the `GitLab Workflow` extension to manage the `Merge Request` (MR) once the branch has been pushed and MR created.
