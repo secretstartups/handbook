@@ -136,3 +136,23 @@ Non-group specific counterparts typically also step in when the related group ha
 |:----------------:|:--------------:|:-------------------:|:---------------------------:|:-------------------:|
 | UX               | Tech Writing   | Susan Tacker        | Cynthia Ng & Mike Lockhart  | weekly team meeting |
 | UX               | UX             | Christie Lenneville | Cynthia Ng                  | weekly team meeting |
+
+## Product counterparts
+
+| Section | Support Counterpart |
+| --- | --- |
+<% data.sections.each do |sectionKey, section| %>
+  <% if section.sm %>
+    <%= "| #{section.name} | #{section.sm} |" %>
+  <% end %>
+<% end %>
+
+| Group | Support Counterpart |
+| --- | --- |
+<% data.stages.stages.each do |key, stage| %>
+  <% stage.groups.select.each do |key, group| %>
+    <% if group.support %>
+      <%= "| #{stage.display_name} : #{group.name} | " + Array(group.support).map{ |support| "#{support}"}.join(", ") + " |" %>
+    <% end %>
+  <% end %>
+<% end %>
