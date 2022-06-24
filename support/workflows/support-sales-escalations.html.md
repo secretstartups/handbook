@@ -23,6 +23,7 @@ Use the [finding the customer’s account owner](/handbook/support/workflows/loo
 |--|--|--|
 |[Add a customer to an organization](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#adding-a-customer-to-an-organization-all-zendesk-users)|Slack: `#account-management`|Needs Org Workflow|
 |[Pass a lead to Sales](/handbook/support/license-and-renewals/workflows/working_with_sales.html#specific-workflows-to-pass-to-sales)|Zendesk: cc @AM, Slack: `#sales` for new business, `#account-management` for renewals|Ticket Workflow: License and Renewals queue|
+| [Professional Services engagement request](https://about.gitlab.com/services/)|Slack: `#account-management` @mention AO | Ticket Workflow: All queues|
 
 ### **Role: Technical Account Manager (TAM)**
 
