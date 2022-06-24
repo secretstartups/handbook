@@ -1343,6 +1343,29 @@ Watch the video below to better understand how to create deprecation entries:
     <iframe src="https://www.youtube.com/embed/0TKmIIdGZIE" title="How to add GitLab deprecations to release posts and documentation" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+#### End of Support
+
+The [deprecation template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/deprecations/templates/example.yml) provides an option to end support for a feature prior to its removal. This option should only be used in special circumstances and is not recommended for general use. Most features should be deprecated and then removed.
+
+An End of Support date must be at least 3 milestones *after* the Deprecation announcement. For example, if the deprecation announcement is made in `15.1`, the End of Support date must be in `15.4` at the earliest. There is no requirement for the gap between the End of Support date and the Removal date.
+
+** When to define an End of Support period **
+
+- If there is a long period of time between the deprecation and the planned removal.
+- If supporting the feature during an extended deprecation period would affect engineering velocity (bloat, dependency management, etc.).
+
+** Communicating End of Support **
+
+If you decide to declare an End of Support period, tag `@gitlab-com/support` in the MR and share a link to the MR in `#spt_managers` in Slack using the following message format:
+
+>>>md
+End of Support for [feature name](MR_LINK) on YYYY-MM-DD
+
+We are announcing in X.Y that `feature_name` will be removed in X.Y and will no longer be supported beginning in X.Y.
+
+Please see the [Terminology section of our Deprecation guidelines](https://docs.gitlab.com/ee/development/deprecation_guidelines/#terminology) for guidance on how we define End of Support.
+>>>
+
 #### Removals
 
 _To be added by Product Managers or Engineering Managers and merged by Technical Writers during the milestone in which the removal will happen. To reduce confusion for customers, removal announcements should not be merged into Docs until the code removal has happened in the product._
