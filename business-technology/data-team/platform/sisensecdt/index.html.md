@@ -457,6 +457,12 @@ The sync from the project repo is bi-directional.
 
 You can request for an [automatic dashboard refresh](https://doc.periscopedata.com/article/dashboard-refresh) by [creating a Data team project issue](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=&issuable_template=periscope_dashboard_refresh). You can use the issue template to request an automatic refresh over a specified interval for one specific dashboard or a bulk list of dashboards.
 
+### Dashboard Refresh Default Schedule
+
+The default refresh schedule is Mon-Fri at 1PM UTC. It's always possible to deviate from this default when needed or when more applicable (because when the data for the dashboard is refreshed less frequently than once per day). The data refresh of a dashboard in Sisense is unrelated to the data refresh in DBT, so still it could be needed to perform a manual user refresh in Sisense.
+ 
+The default of Mon-Fri at 1PM UTC is set in Sisense for the `SAFE`- and `SAFE Intermediate` Space. In the `GitLab` Space there are many dashboards that have a different refresh pattern. Changing the default will overwrite all of the existing refresh schedules. The default in the `GitLab` Space currently is Daily at 4PM UTC. 
+
 ## <i class="far fa-object-group fa-fw icon-color font-awesome" aria-hidden="true"></i>Embedding Sisense Charts in the Handbook
 
 The business unit, not the data team, is responsible for embedding these charts in the handbook.
