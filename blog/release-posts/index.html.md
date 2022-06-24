@@ -265,8 +265,11 @@ The `bin/release-post-assemble` script makes this easy to do:
   git pull
   git merge master
   bin/release-post-assemble
-  git push
-  git push origin release-X-Y
+  git status
+  # confirm that content blocks and images have moved from `unreleased` to `X_Y`
+  git add .
+  git commit -m "Content assembly"
+  git push origin release-x-y
 ```
 
 Sometimes `bin/release-post-assemble` may fail if there is a Ruby version update (or updated Ruby libraries) between the time the release post manager updates their local environment by the 7th and when content assembly starts on the 18th. The script may even fail for unknown reasons at times. If for some reason `bin/release-post-assemble` fails, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement. If all else fails, you can use the following steps to manually move content and push your changes. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA).
