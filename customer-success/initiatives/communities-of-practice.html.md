@@ -40,11 +40,13 @@ Anyone can establish or participate in an existing Community of Practice. Below 
 
 | Subject                             | Facilitator (members list in project)                                                                                                                                           |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infrastructure As Code              | [@sri19](https://gitlab.com/sri19), [@corina_patachia](https://gitlab.com/corina_patachia), [@kgoossens](https://gitlab.com/kgoossens), [@svij](https://gitlab.com/svij), [@simon_mansfield](https://gitlab.com/sri19), [@mkulakowski](https://gitlab.com/mkulakowski), [@gronk](https://gitlab.com/gronk), [@pierre_adrien](https://gitlab.com/pierre_adrien) |
 | [Advanced Pipelines](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/advanced-pipeline-community-of-practice)                  | [@juliebyrne](https://gitlab.com/juliebyrne) |
+| [Agile Architecture](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/agile-architecture-cop)   | [Darwin Sanoy](https://gitlab.com/darwinjs), [Brian Wald ](https://gitlab.com/brianwald) |
+| Infrastructure As Code              | [@sri19](https://gitlab.com/sri19), [@corina_patachia](https://gitlab.com/corina_patachia), [@kgoossens](https://gitlab.com/kgoossens), [@svij](https://gitlab.com/svij), [@simon_mansfield](https://gitlab.com/sri19), [@mkulakowski](https://gitlab.com/mkulakowski), [@gronk](https://gitlab.com/gronk), [@pierre_adrien](https://gitlab.com/pierre_adrien) |
 | [Modern Applications](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/modern-applications)                 | [@reshmikrishna](https://gitlab.com/reshmikrishna) |
-| [Trusted Advisor Skill Development](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/trusted-advisor-skill-development)   | Lead: [Bart Zhang (@bzhang7)](https://gitlab.com/bzhang7), Co-Leads: [Chester Nwachukwu (@cnwachukwu)](https://gitlab.com/cnwachukwu), [Darwin Sanoy (@DarwinJS)](https://gitlab.com/darwinjs) |
 | [OpenShift](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/redhat-openshift-community-of-practice)                  | [Kurt Dusek (@kdusek)](https://gitlab.com/kdusek) |
+| [Trusted Advisor Skill Development](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/trusted-advisor-skill-development)   | Lead: [Bart Zhang (@bzhang7)](https://gitlab.com/bzhang7), Co-Leads: [Chester Nwachukwu (@cnwachukwu)](https://gitlab.com/cnwachukwu), [Darwin Sanoy (@DarwinJS)](https://gitlab.com/darwinjs) |
+
 
 #### Suggested Communities of Practice
 
