@@ -36,7 +36,8 @@ metrics.
  
 <div class="flex-row" markdown="0" style="height:80px">
  <a href="https://metrics.gitlab.com/" class="btn btn-purple" style="width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Service Ping Metrics Dictionary</a>
- <a href="/handbook/business-ops/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html" class="btn btn-purple" style="width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Estimation Algorithm Page</a>
+ <a href="/handbook/business-ops/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html" class="btn btn-purple" style="width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Self-Managed Estimation Algorithm</a>
+ <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html" class="btn btn-purple" style="width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Manager Toolkit</a>
 </div>
  
 <br><br>
@@ -326,81 +327,12 @@ is a customized model designed for monthly paid SaaS xMAU reporting. This model 
 counts at the xMAU metric-level (which is not necessarily synonymous with the event-level),
 limited to the appropriate time frame (last 28 days of the month).
  
-## xMAU tips & tricks
+## Other xMAU-related information
 
-<!-- TO DO: Have this snippet live in the PM Toolkit rather than this page ---> 
 ### Sisense snippets for Product Managers
  
-The [Product Manager Toolkit](/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html)
-will be updated to provide details on the available snippets ([issue here](https://gitlab.com/gitlab-data/analytics/-/issues/12877))
-. Once updated, we recommend you read this page for more information about this topic.
- 
-We will also update [this dashboard](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html)
-📊, full of examples on how to use these snippets.
- 
-### How to update targets for a specific xMAU chart using these snippets
- 
-#### Implement your dynamic target values
- 
-It is now possible to get Monthly target values implemented in your Sisense chart for any of 
-your Service Ping metrics. To do so, you will need to update your performance indicator .yml 
-file and follow the example described below. The `monthly_estimated_targets` value will then 
-be pulled into the xMAU snippet.
- 
-```
-----
-- name: Configure:Configure - Adoption PI - Number of projects with GitLab Managed Terraform State
- base_path: "/handbook/product/performance-indicators/ops-section-performance-indicators/"
- definition: A rolling count of the number of projects using GitLab Managed Terraform State in the last 28 days
- target: 6000 by end of Q1FY22
- target_name: projects_with_terraform_states
- monthly_recorded_targets:
-   "2021-04-20": 6000
-   "2020-11-01": 3000
-   "2020-07-01": 700
- monthly_estimated_targets:
-   "2021-05-01": 6000
-   "2020-11-01": 3000
-   "2020-07-01": 700
- org: Ops Section
-```
-<div class="panel panel-gitlab-purple">
-<p class="panel-heading"><strong>How to fill correctly the target</strong></p>
-<div class="panel-body">
-<p>The  dates added to the yml sections are the end dates of each date interval. That means for example for the example below:
-</p>
- 
-<code>
-monthly_estimated_targets:<br>
- "2021-05-01": 6000<br>
- "2020-11-01": 3000<br>
- "2020-07-01": 700<br>
-</code>
-<p>
-We will then have the following targets:
-<ul>
- <li>From start_date to 2020-07-01, the target is 700</li>
- <li>From 2020-08-01 to 2020-11-01, the target is 3000</li>
- <li>From 2020-12-01 to 2020-05-01, the target is 6000</li>
-</ul>
- 
- 
-</p>
-</div>
-</div>
- 
-#### Using the snippet to get a static target
-
-For all embedded PI/xMAU charts using our standardized snippets and visualisation, 
-updating the target is a very easy 4-step process:
- 
-1. Go to the PI chart of interest in Sisense
-1. Click on Edit Chart
-1. Change the second-to-last last parameter, the target value.
- - If you provide a decimal, the target will increase MoM by that percentage. (Ex: 0.1 will
- yield a target that is a 10% increase from the previous month).
- - If you provide an integer, that number will be the fixed target line.
-1. Click the Save Button
+Please check out the [Product Manager Toolkit](/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html) 
+for more information on how to use xMAU-related snippets.
  
 ### Data Classification
  
