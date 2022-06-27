@@ -18,6 +18,13 @@ description: "This page outlines the License Utilization Salesforce App. It incl
 1. To get a summary of License Utilization across all your accounts click "See License Utilization on all my Accounts"
 1. To give feedback or ideas for the License Utilization app click "Give Feedback / Report Bug" and comment on the issue.
 
+## Which Customers Does this Apply To?
+
+Usage Data will be present in the License Utilization App in the following scenarios (assuming the sync is working as intended in each scenario):
+1. The Customer is on Cloud Licensing.
+1. The Customer is NOT on Cloud Licensing, but is on GitLab version 14.1+ and has Operational Metrics enabled.
+1. The Customer is on Offline Cloud Licensing.
+
 ## Frequently Asked Questions (FAQ)
 
 **Question: Billable Users is great, but when will I be able to see SMAU and other activity metrics?**<br />
