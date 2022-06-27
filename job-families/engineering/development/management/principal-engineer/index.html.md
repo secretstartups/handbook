@@ -5,7 +5,7 @@ title: "Principal Engineer"
 
 # Principal Engineer Roles at GitLab
 
-Principal Engineers are recognized experts in multiple technology domains relevant to GitLab, and represent the senior technical leadership within their organization. They are responsible for driving the direction of their part of the organization, assisting management and other senior technical leaders create strategic roadmaps, and driving priorities to meet various objectives. This role reports to Senior level managers.
+Principal Engineers are recognized experts in multiple technology domains relevant to GitLab, and represent the senior technical leadership within their organization. They are responsible for driving the direction of their part of the organization, assisting management and other senior technical leaders create strategic roadmaps, and driving priorities to meet various objectives. This role reports to Senior Manager and above.
 
 ## Job Grade
 
@@ -20,7 +20,7 @@ Share our values, and work in accordance with those values.
 * Play a central role in technical, business, and organizational contributions affecting the sub-department/department.
 * Plan improvements and features with a 6 month view.
 * Solves technical problems of the highest scope, complexity, and ambiguity for their sub-department.
-* Interfaces with EMs and Senior management, and enables Staff Engineers to engage on department-level aspects of larger (sub-department wide) initiatives.
+* Interfaces with EMs and Senior Manager or above and enables Staff Engineers to engage on department-level aspects of larger (sub-department wide) initiatives.
 * Looks for innovation opportunities between several teams with a willingness to experiment and to boldly confront problems of large complexity and scope.
 * Proposes initial technical implementation which supports architectural changes that solve scaling and performance problems.
 * Ensures that OKR level goals are aligned across several teams in their sub-department.
