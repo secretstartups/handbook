@@ -314,7 +314,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday June 21 | Security| Security Leadership | Key Review Date|
 | Wednesday June 22 | **Available** | | N/A |
 | Thursday June 23 | No Group Conversation | N/A | N/A|
-| Tuesday June 28 | AMA: Jihu| Stella Treas | N/A|
+| Tuesday June 28 | AMA: CEO Chief of Staff Team| Stella Treas | N/A|
 | Wednesday June 29 | Alliances | Nima Badiey | N/A |
 | Thursday June 30 | Support | Tom Cooney | June 22 |
 | Tuesday July 5 | Infrastructure | Steve Loyd | June 23|
