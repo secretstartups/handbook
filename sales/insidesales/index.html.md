@@ -35,13 +35,26 @@ The mission of the Inside Sales department is to create valuable experiences for
 
 ## ISR Alignment
 
-After completing onboarding, Inside Sales representitives are assigned a territory by _region_ or a defined set of _Account Territories_. Current Enterprise ISR territory assignments can be found on the [GitLab Sales Territories page](https://about.gitlab.com/handbook/sales/territories/).
+After completing onboarding, Inside Sales representitives are assigned a territory by _region_ or a defined set of _Account Territories_. Current Enterprise ISR territory assignments can be found in the [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1gElhORjqraKDMQnWzApPelyP_vVa24tAOA85vb5f3Uc/edit#gid=1765694827).  
 
-It's expected for the Inside Sales Team to follow the [Account Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement). The section linked above provides step by step clarity on how to follow the ROE.
+#### ISR Account Alignment
 
-- [ENTERPRISE AMER FY23 Alignment - Internal Link](https://drive.google.com/drive/u/0/search?q=%22AMER-ISR%20FY23%20Q1%20Alignments%22)
-- [Enterprise APAC FY23 Alignment - Internal Link]
-- [Enterprise EMEA FY23 Alignment - Internal Link]
+Once an ISR has been added to the Territories Mapping File, their name will **automatically** be populated in the `Prosposed ISR` field on all Accounts associated with ther respecttive `Sales Territory`
+
+It's expected for the Inside Sales Team to follow the [Account Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/). The section linked above provides step by step clarity on how to follow the ROE.
+
+#### ISR Opportunity Alignment
+
+The `ISR` field will be **automatically** populated on an opportunity based on the `Proposed ISR` field from the opportunity's associated Account.
+- **Open Opportunities**: the `ISR` field will reflect whatever information is populated in the associated Account's `Proposed ISR` field (including blanks).  `ISR` will remain a fluid field until the opportunity is moved to a closed stage, meaning if the `Prosposed ISR` is changed, any associated open opportunity will be updated to reflect that change in the `ISR` field.
+- **Closed Opportunities**: the `ISR` field will not change after an opportunity has been moved to a closed stage (Won, Lost, Duplicate) and will reflect whoever the `Proposed ISR` was at the time of closure
+- **ISR Override**: In the event that the `ISR` field on the opportunity should not be the same as the `Proposed ISR` on the Account, the ISR Management team has the ability to override the `ISR` field by checking the `ISR Override ` box on the opportunity and updating the `ISR` field accordingly.  This removes the `ISR` from any automation. 
+     - **Note**: In scenarios where the override is no longer needed, the ISR Manager simply needs to uncheck the `ISR Override` checkbox and the auotmation will run as intended (for open opportunities only)
+
+**Note**: The `ISR` field will be populated on **all opportunities** where the associated `Proposed ISR` field is also populated. This does not guarantee compensation credit. Please see your comp plan for details to determine what qualifies.      
+
+It's expected for the Inside Sales Team to follow the [Opportunity Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/). The section linked above provides step by step clarity on how to follow the ROE.
+
 
 ## Enterprise ISR FY23 FAQ
 
@@ -228,4 +241,5 @@ As it relates to retirement of quota, we will refer to the Closed Won date as we
 
 | Link | Type  | Purpose           | 
 | ----- | ----- | ---------------- |
-| [Territory Change Request](https://about.gitlab.com/handbook/sales/territories/) | Sales Operations | This process is used by sales operations, ISR management, and regional sales directors to update ISR alignment|
+| [Territory Change Request](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.aces298pv2vw) | Sales Operations | This process is used by sales operations, ISR management, and regional sales directors to update ISR alignment|
+| [ISR Overrides](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/sales/insidesales/index.html.md#isr-opportunity-alignment) | ISR Manager Process | This process allows the ISR Management team to override any automation associated with the population of an `ISR` on an opportunity.  This should be used in scenarios where an ISR is working an opportunity that is not aligned with one of their territories. 
