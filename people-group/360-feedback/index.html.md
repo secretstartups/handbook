@@ -17,13 +17,27 @@ description: >-
 Cross-functional feedback provides critical insights into strengths and improvement areas to support ongoing performance in role and career development. 360 Feedback can be a valuable tool in providing those insights, especially when specific growth areas are not already clear. We will be launching an **optional** 360 feedback cycle for team members for whom 360 feedback will contribute to their development goals. 
 
 
-There are various ways to support team members' performance and growth. Timely and direct [feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/) is often the best way to course correct efficiently and improve performance on an ongoing basis.  360 feedback is a useful tool to support specific development goals or surface blind spots, often for those in leadership positions.  A 360 is not the best investment of time for team members who already have a clear understanding of their strengths and weaknesses, and an actionable development plan underway.
-Team members should take ownership of and leverage the tools that are most relevant and beneficial to them.
+There are various ways to support team members' performance and growth. Timely and direct [feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/) is often the best way to course correct efficiently and improve performance on an ongoing basis.  360 feedback is a useful tool to support specific development goals or surface blind spots, often for those in leadership positions.  A 360 is not the best investment of time for team members who already have a clear understanding of their strengths and weaknesses, and an actionable development plan underway. Team members should take ownership of and leverage the tools that are most relevant and beneficial to them.
 
 
 The 360 feedback cycle is timed _after_ the [Mid-Year Check In](https://about.gitlab.com/handbook/people-group/talent-assessment/#mid-year-check-in) and _after_ [promotion calibrations](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotion-process--timeline) to maintain the focus on development. Managers should check in with cross functional stakeholders informally when preparing for a Mid Year check in or Promotion Calibration vs waiting for a 360 feedback cycle.
 
-Team members who opt-in for the 360 feedback review cycle will be asked to:
+## Is The 360 Process Right For Me?
+
+At GitLab, we do not require the 360 feedback process. A 360 can be a very helpful development tool, but it should not be a supplement for regular, ongoing feedback that team members receive throughout the year. There may be situations and points in team member development where a 360 can supplement development and individual growth plans, and times when development areas are clear and 360 feedback may not be needed. 
+
+Below are a few key points to think through when determining in which situations the 360 tool may or may not be useful: 
+
+- **Development Oriented:** The 360 process is meant to support the team member’s development and to provide feedback supporting individual growth and development. 360s _should not be used as performance management tools_.
+- **Ongoing Feedback:** Managers and team members should seek cross functional feedback throughout the year to inform performance discussions. A 360 should not serve as a replacement for asking stakeholders and peers how things are going. 
+- **Focused Goals:** 360 feedback is most useful when a team member is committed to working towards certain development goals, as the 360 can provide more specific feedback and focus towards those development goals, and also reveal some blind spots or hidden strengths.  
+- **Individual Growth Plan:** In order for the 360 to lead to action, it is important to document and commit to a development plan that outlines the key findings and development actions. As [noted above](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback), before launching a 360, ensure an [Individual Growth Plan (IGP)](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) is in place. This ensures the 360 is aligned with development areas.
+- **Single Data Point:** It is important to remember that the 360 represents a single, anonymous point in time. While it can be helpful to supplement existing IGPs, it should not be the core data point. 
+- **Uncover Blind Spots:** A 360 is best used when trying to uncover blind spots. If team members and their managers already have a good understanding of the growth areas, direct, transparent feedback is the most productive way to support continued growth and development. 
+
+## 360 Feedback Requirements
+
+It is important that participation in the 360 process is intentional. Team members who opt-in for the 360 feedback review cycle will be asked to:
 
 - **(required)** Contact team members who you are requesting feedback from to state your goals for the 360 process. For ex/ 1) why you are seeking feedback and 2) what you hope to achieve from the feedback. This will help the reviewer think about how to provide the right kind of information to support you. This can be done via Slack or email.
 - **(required)** Complete an [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) (or equivalent) in partnership with your manager _prior to the 360 cycle launch_. 360 feedback should support your growth plan to ensure the investment of time drives results.
@@ -32,7 +46,7 @@ Team members who opt-in for the 360 feedback review cycle will be asked to:
 
 ### Timeline FY'23
 
-The 360 feedback process will be ongoing from August 1 - September 23, 2022. 
+The 360 feedback process will be ongoing from July 25, 2022 - September 23, 2022. 
 
 | Dates  | Event   | 
 |------------|------------|
@@ -43,16 +57,15 @@ The 360 feedback process will be ongoing from August 1 - September 23, 2022.
 | 2022-09-10 through 2022-09-23 | Discussion Phase
 
 - **Nomination Phase** - Team member nominates peers, manager, and any direct reports they have. Managers can adjust the peer nominations at this time and whenever the nominations are set the manager or a Culture Amp admin can launch the individual review.
-- **Feedback Phase** - Team member, managers, and peers complete reviews for themselves and each other. Managers will have visibility into all self and peer reviews for their direct reports as they are completed. All team members will be moved from feedback phase to review phase at 12pm PST on August 31th. This is a manual task that the People Ops team will complete.
+- **Feedback Phase** - Team member, managers, and peers complete reviews for themselves and each other. Managers will have visibility into all self and peer reviews for their direct reports as they are completed. 
 - **Review Phase** -  At the close of the 360 feedback session CultureAmp will open the feedback report for the coach (direct manager) to review and share with the team member. 
 - **Discussion Phase** - Manager and team member schedule a 360 [feedback meeting](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-conversation).
 
+#### Eligibility
 
-_Please note: For 360 feedback cycle we will only include team members with a hire date of before Feb 1st in the automatic email communications. If you are a team member with a hire date after Feb 1st and you want to be included, please reach out to [People Connect](/handbook/people-group/people-connect/) to be manually added._
+For 360 feedback cycle we will only include team members with at least 6 months of tenure (start date on or before January 25th, 2022). If you are a team member with a start date after January 25th and you want to be included, please reach out to [People Connect](/handbook/people-group/people-connect/) to be manually added.
 
-**If for an extenuating circumstance you are in need of an extention for any of the phases outlined above, please reach out to [People Connect](/handbook/people-group/people-connect/).**
-
-### 360 via Culture Amp 
+## 360 Structure
 
 We utilize the tool [Culture Amp](https://gitlab.cultureamp.com/) to administer 360 Feedback. The 360 Feedback cycle in CultureAmp exists of a Self review, Manager review and Peer reviews. 
 
@@ -64,18 +77,8 @@ Managers will be assigned as the coach for their direct reports. It is important
 We have recorded a training overview of the 360 process via Culture Amp for your review and created a slide-deck to provide [guidance on 360-Feedback](https://docs.google.com/presentation/d/1YxnAWDO0GPSWX5hDepgwMOohT0ZsGzqmUHxvBpaHf7E/edit#slide=id.g77644d9eff_0_0), kindly review before you give feedback.
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/zQvNeUX-x5I"></iframe></figure>
 
-### Goal of 360 feedback 
-Feedback received in a 360 review can be used for organizational growth, team development and your own personal development. Here are 5 ways that team members can benefit from a 360 review.
 
-- Increased Self Awareness - Gives a team member insight into their behavior and how they are perceived by others. They have a deeper understanding when you compare your self review with the review of your team members.
-- Balanced View - Since feedback is received from team members across GitLab and not just your manager it provides a fair and more accurate picture to the team member.
-- Leverages Strengths - A 360 helps you identify your strengths in which you can then build your development plan for continued growth and success.
-- Uncovers Blind Spots - This enables a team member to understand behaviors they are exhibiting, but never noticed themselves. Highlighting these blind spots allows a team member to focus on those overlooked behaviors.
-- Development of Skills - A 360 gives a team member a starting point for creating a development plan. It encourages individual accountability and gives team members control over their own career path.
-
-A 360 review also ties into our core values of Collaboration, Efficiency and Transparency.
-
-#### 360 questions
+### 360 Questions
 
 During this 360 Feedback cycle we will be using the Individual Effectiveness 360 Feedback. This follows a Start, Stop, Continue format. The questions included are:
 
@@ -84,10 +87,12 @@ During this 360 Feedback cycle we will be using the Individual Effectiveness 360
 - Stop: What do you believe are (X's or your) biggest opportunities to improve that could make a real difference?
 - Open question: Please add anything else, not listed above, that you'd like to continue, improve or do more of.
 
-#### Multiselect options
-To help guide team members in giving feedback, CultureAmp is offering options under the Start, Stop, Continue questions. When giving feedback you can select up to three options that you would say are applicable. If there are no options that match your feedback please use the option "Other". Hereafter you can elaborate in the comments. 
+#### Multiselect Options
+
+To help guide team members in giving feedback, CultureAmp is offering options under the Start, Stop, Continue questions. When giving feedback you can select up to three options that you would say are applicable. If there are no options that match your feedback please use the option "Other". From there, you can elaborate in the comments section. 
 
 The options shown are: 
+
 - Collaboration: Communicating information, ideas and concepts clearly. Working well with a range of people from across the business.
 - Feedback: Actively giving, seeking and responding positively to thoughtful feedback.
 - Inclusion: Involving others. Inviting people to contribute their opinions and ideas.
@@ -99,11 +104,11 @@ The options shown are:
 - Technical Competence: Demonstrating a high level of domain, functional and/or technical capability. 
 - Other. 
 
-### Resources for Coaches 
+### Culture Amp Resources For Coaches 
 1. [360 feedback overview for coaches](https://support.cultureamp.com/hc/en-us/articles/115005117369-Individual-Effectiveness-Coach-s-guide-to-360s)
 1. [Coach's guide to taking action on Effectiveness 360 feedback](https://support.cultureamp.com/hc/en-us/articles/208687485-Coach-s-guide-to-taking-action-on-Effectiveness-360-surveys)
 
-#### Checklist for Coaches 
+#### Checklist For Coaches 
 Utilize this checklist to ensure all necessary steps are accomplished during the 360 process. 
 
 1. **Reviewers** - Check with the team member to see who they have nominated for reviewers 
@@ -155,25 +160,28 @@ If you want to further learn, we recommend watching these recorded Live Learning
 
 
 ### Giving Feedback in 360s
-Besides the above content this section will talk about giving feedback specifically in the 360 Feedback process.
-
-If you feel overwhelmed by the number of team members that have requested feedback from you, keep in mind that you are providing your team members with a gift: the ability to learn and grow from the feedback they receive. However, you may not have feedback related to each of the questions asked. That is ok. If you don't have anything meaningful to provide, you can put not-applicable. Focus on the team members and the questions for which you have meaningful and helpful feedback. 
-If you feel like you are not in a position to complete a meaningful review in general, please let the team member know, so they can possibly select another reviewer instead. Be mindful of your own bandwidth when providing reviews: Start with your core group, and expand from there as capacity allows. 
 
 **General Tips:**
 
 - It is ok to skip a question by typing N/A if you don't have meaningful feedback in that area. Don't create a "story" where there is none.
 - Prepare - Think about the individual beforehand. What do you value in them as a co-worker? Where do you think are their biggest opportunities to improve?
 - Speak from your own experience - avoid "I've heard..." statements.
-- Be specific - provide examples wherever possible and avoid general statements like "really good" or "difficult to work with"
+- Be specific - provide examples wherever possible and avoid general statements like "really good" or "difficult to work with". We recommend using the [SBI Model](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#s-b-i-model) to ensure clarity and specificity in feedback.
 - Keep it actionable- always describe behaviors, not traits. Focus on what the person can actually do something about going forward (i.e. more of, less of, keep doing - "it would be good to see more of X as it leads to Y".)
-- Be respectful AND honest - development feedback can at times be challenging to give. Keep in mind the purpose of the feedback is for development and not to judge or evaluate performance.
-- Try to explain the why? Thinking through the "why" of the feedback will help you provide better and more meaningful feedback.
+- Be respectful AND honest - feedback on improvement areas can at times be challenging to give. Keep in mind the purpose of the feedback is for development and not to judge or evaluate performance. Team members cannot improve and grow if they don't know where to focus, so this type of feedback is also important and encouraged.
 - Try to avoid comparing different team members and rather look at a person's progress, comparing them against themselves only.
     - Ex: Person X's performance in January compared to their performance in May, as opposed to person X's performance compared to person Z's performance.
-- Team members have very different backgrounds, personalities, strengths and other elements that dictate their performance. The most important thing is that they are making progress and this should be encouraged.
-- Try to complete feedback for 1 or 2 people a day, versus waiting until the last minute. Spending 10-20 minutes a day on this can make thinking through and writing the feedback less overwhelming.
-- If you have submitted your requests for feedback in Culture Amp and need to make a change (add or remove a reviewer(s)), please reach out to [People Connect](https://about.gitlab.com/handbook/people-group/people-connect/)with the requested changes and we will update your profile if still within the deadline where changes can occur.
+
+##### Managing Feedback Requests
+
+If you feel overwhelmed by the number of team members that have requested feedback from you, keep in mind that you are providing your team members with a gift: the ability to learn and grow from the feedback they receive. 
+
+However, you may not have feedback related to each of the questions asked. That is ok. If you don't have anything meaningful to provide, you can put not-applicable. Focus on the team members and the questions for which you have meaningful and helpful feedback. 
+If you feel like you are not in a position to complete a meaningful review in general, please let the team member know, so they can possibly select another reviewer instead. Be mindful of your own bandwidth when providing reviews: Start with your core group, and expand from there as capacity allows. 
+
+Below are a couple of tips for team members who may have received a significant number of feedback requests to contribute to.
+
+- Try to complete feedback for 1 or 2 people a day, versus waiting until the last minute. Spending 10-20 minutes a day on this can make thinking through and writing the feedback process less overwhelming. For those that may have a significant number of review requests.
 - If you receive an overwhelming amount of feedback requests, prioritize the requests based on the team members you work most closely with (I.E. the people you feel you can provide the most meaningful and holistic feedback to). Feedback is a gift and you should try to provide meaningful feedback to as many requesters as possible, but be mindful of your own bandwidth as well. Start with your core group, and expand from there as capacity allows. 
 
 #### Bias
@@ -216,8 +224,17 @@ Giving and receiving feedback can be hard for both the manager and the team memb
 
 This section outlines the conversation for a manager to have with their direct report after the cycle has closed. Peer feedback is not meant to evaluate performance specifically, but instead assist in giving feedback to help the team member grow and develop within their role.
 
-We recorded a training on this subject:
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/VK8cA8nYcoY"></iframe></figure>
+The high level recommended process is as follows:
+
+1. _Before the meeting:_ Review the 360 feedback before meeting your team member and summarize the key findings (possible recurring themes, patterns etc.)
+2. _In the meeting:_ 
+    - When discussing the feedback, ask open ended questions such as: What do you think of the feedback? Were there any surprises?
+    - Give feedback using the S-B-I- model: situation - behavior - impact
+    - Identify 1-2 development opportunities based on the feedback to focus on and identify concrete development actions. Ask open ended questions like “what would success look like?” which also engage the team member to take accountability for their own growth and development
+    - Update the IGP based on the 360 findings and development actions.
+3. _After the meeting:_ periodically (quarterly) in 1:1s, review progress against the development goals and offer support as needed
+
+Some general guidance and tips for the conversations can be found below:
 
 - No surprises. Team members should not hear about positive feedback or performance in need of improvement for the first time at the 360 feedback meeting. Team members should have regular [1:1s](/handbook/leadership/1-1/) where this is discussed. However, if new information is uncovered during the 360 Feedback process, you should discuss that new data.
 - The overall aim is providing meaningful feedback. Don't allow the feedback meeting (document and conversation) to (d)evolve into a "todo" list.
