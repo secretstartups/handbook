@@ -16,7 +16,7 @@ description: "The FACE is a cross-functional group of functional analytics teams
 
 **What is this?** Below is a series of tables containing the standard fields to use when pulling data from various systems.
 
-**Why was this created?** To document source of truth data fields and institutional knowledged known by the different functional analytics teams. This will allow us to go into any dashboard or data table and easily understand which fields are trusted sources of truth.
+**Why was this created?** To document source of truth data fields and institutional knowledge known by the different functional analytics teams. This will allow us to go into any dashboard or data table and easily understand which fields are trusted sources of truth.
 
 🚧  This page is currently a work in progress. 🚧 
 
