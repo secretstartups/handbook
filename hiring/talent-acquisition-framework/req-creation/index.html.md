@@ -73,40 +73,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiter will cr
     - If you were unable to determine the compensation information tag the Compensation and Benefits team in the Approval Notes section with an @ mention.
     - @ mention the Hiring Manager, Recruiter, Sourcer, Sourcing Manager, and People Business Partner (PBP) so they know the REQ has been submiotted for approval.
 1. Click `This looks good, NEXT` at the right.
-1. Setup Notifications:
-    - Weekly Recruiting Report:
-    - Hiring Manager
-    - New Internal Applicants:
-    - Hiring Manager
-    - Recruiter
-    - New Referrals:
-    - Hiring Manager
-    - Recruiter
-    - New Agency Submissions:
-    - Hiring Manager
-    - Recruiter
-    - Approved to Start Recruiting:
-    - Hiring Manager
-    - Executive
-    - Recruiter
-    - Sourcer
-    - Sourcing Manager
-    - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
-    - Offer Fully Approved:
-    - Hiring Manager
-    - Executive
-    - Recruiter
-    - Sourcer
-    - Recruiting Manager
-    - Sourcing Manager
-    - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
-    - New Scorecards:
-    - Recruiter
-    - All stages
-    - Hiring Manager:
-    - Team Interview stage
-    - Stage Transitions:
-    - N/A
+1. Set up Notifications where appropriate. You should make sure that you are always notified for internal candidates and referrals, but the rest is up to your preferences.
 1. Scroll to the bottom of the page and click `Request Approval`.
 1. You'll be redirected to the opening in Greenhouse, where you can review the opening, make any changes, or make any updates.
 
@@ -244,25 +211,12 @@ If you are applying rules to reject candidates based on visa sponsorship needs i
 1. The Hiring Team is where you select who will be working on this opening and what access they should have.
     - Scroll to the `Who's responsible for this job?` to assign the Hiring Managers, [Recruiter(s)](/handbook/hiring/recruiting-alignment/), Coordinator(s) and Sourcer(s).
     - Scroll to the `Who can see this job?` section to set permissions to the team members who will need access. Search for someone's name click the pencil and select the correct access level from the drop-down.
-    - Search for every person who will be in the hiring process, whether they will be grading assessment, reviewing new applications, or performing interviews.
+    - Search for every person who will be in the hiring process, whether they will be grading assessment, reviewing new applications. Interviewers who have no additional responsibilities do not need additional access in order to see their interview kit and scorecard.
     - You may need to go back to the interview plan to add the interviews if it did not let you add them before completing this step.
 
 #### Update Notifications
 
-1. Review notifications and ensure they align to the preferences of you and the hiring team.
-
-#### Ensuring interviews and interviewers are set up for success
-
-**The Candidate Experience Team will:**
-
-1. Confirm each person in the hiring process has appropriate access and upgrade if necessary in [Greenhouse](/handbook/hiring/greenhouse/#access-levels-and-permissions).
-1. Confirm each interviewer has completed an [Interview Training Issue](https://gitlab.com/gitlab-com/people-ops/Training/issues/new).
-1. The CES may choose to send the following email to each member of the interview team:
-Subject: Interview Training Issue and Google Office Hours
-Body: Can you please make sure you have your office hours set up in your calendar? This will help me schedule the interview right the first time and save you and the candidate time and frustration. You can learn how [here](https://support.google.com/calendar/answer/7638168?hl=en).
-Also, if this is your first time conducting interviews on behalf of GitLab I will need to create an interview training issue for you. Please let me know if that is the case.
-As always, If you have any questions let me know!
-Thanks, xxx
+1. Review notifications and ensure they align to the preferences of you and the hiring team. You can additionally set up notifications via Slack integration by clicking your name in the top right corner and selecting the Slack integration.
 
 ### Publish the Job to the Careers Page & Review Greenhouse Configuration
 
