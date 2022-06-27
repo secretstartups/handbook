@@ -16,7 +16,7 @@ description: >-
 
 Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a rotating schedule. Functions with a [Key Review](/handbook/key-review) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations.
 
-The [Executive Business Administrator Team, also known as EBA Team](/job-families/people-ops/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Tuesday to Thursday. Some days might not have a Group Conversation scheduled in advance. These are listed in the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing) as **Available**. If you would like to be added to the GC rotation, please post in the slack channel #group-conversations and tag @exec-admins. The EBA to the CEO will schedule an AMA with an E-Group member if there is availability. We will have a Group Conversation or an AMA every Tuesday, Wednesday and Thursday. 
+The [Executive Business Administrator Team, also known as EBA Team](/job-families/people-ops/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Tuesday to Thursday. Some days might not have a Group Conversation scheduled in advance. These are listed in the [schedule](https://about.gitlab.com/handbook/group-conversations/#current-schedule) as **Available**. If you would like to be added to the GC rotation, please post in the slack channel #group-conversations and tag @exec-admins. The EBA to the CEO will schedule an AMA with an E-Group member if there is availability. We will have a Group Conversation or an AMA every Tuesday, Wednesday and Thursday. 
 
 All Team Members are invited to participate in Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite. While 8:00am PST is not optimal for synchronous participation from all team members, we have done experiments to confirm that early morning PST is the time that works for the greatest number of team members. When we held GCs during different times, we saw participation fall by over 50%. The folks who opted to attend as a percent of folks who could do so during a 8am to 6pm workday was also lower for the experiment group. Team members who want to participate but choose not to attend in person are encouraged to embrace [asynchronous communication](/company/culture/all-remote/asynchronous/) by contributing questions or comments in advance of meetings and watching recordings or reading notes after. 
 
@@ -80,14 +80,21 @@ If you have questions around an upcoming Group Conversation or would like to sta
 ## For Meeting Leaders
 
 ### Scheduling and Selecting an Alternate Host
+Group conversations will be planned for a quarter at a time based on the identified cadence and key review dates. In the handbook page, the Group Conversation schedule for the next 2 months will be posted. This is the SSOT for the schedule. It is up to each functional team’s EBA to ensure that the calendar invites are sent with zoom links in place. At the start of each month, the Handbook will be updated to remove the previous month and add the upcoming month of group conversations. 
 
-Calls are scheduled by the [EBA Team](/job-families/people-ops/executive-business-administrator/). If you need to reschedule, please _switch_ your presenting day with another Group Conversation leader, by asking another leader in the #group-conversations channel publicly. Please also @ mention @exec-admins so they are aware. The Executive Business Administrator team is not responsible for finding a replacement for your day. If you've agreed to switch, the EBA DRI will do the following:
+Calls are scheduled by the [EBA Team](/job-families/people-ops/executive-business-administrator/). 
 
-- Go to the _GitLab Team calendar_ invite
-- Update the date of your and the other invite to be switched
-- Choose to send an update to the invitees
-- _If prompted_ with the questions to update 1 or all events, choose to only update this event
-- Update the GC [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing)
+If GC needs to be moved: 
+1. First consider, Is there anyone else to host the GC? It’s an informal setting. There may be questions, it's okay if the host doesn't know the answer and will get back to the team member that asked the question.  
+2. Look at the [schedule in the handbook](https://about.gitlab.com/handbook/group-conversations/#current-schedule) and see if there are any **available spots**
+    1. If there are open: open a merge request asking for the GC to be moved. Add the following reviewers: CEO EBA and functional team's EBA
+    1. If there aren’t open spots: Post in the [#group-conversations](https://gitlab.slack.com/archives/C9H6V41U0) that you have already reviewed the schedule and need assistance moving a group conversation. 
+1.  Once the merge request has been approved, it can be merged and your team’s EBA is responsible for updating the calendar invite using the steps below: 
+    -  Go to the _GitLab Team calendar_ invite
+    - Update the date of your and the other invite to be switched
+    - Choose to send an update to the invitees
+    - _If prompted_ with the questions to update 1 or all events, choose to only update this event
+    - Update the GC [schedule](https://about.gitlab.com/handbook/group-conversations/#current-schedule)
 
 If you will be out of office on the day of your Group Conversation, or need a person other than the DRI listed in the [Schedule & DRI table](/handbook/group-conversations/#schedule--dri) to Host:
 
@@ -109,7 +116,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 #### Logistics
 
 1. You can invite someone within your team to give the update. It doesn't need to be the team lead, but the team lead is responsible for making sure that it is given.
-1. The host of the GC or the EBA to the host should update the [Group Conversation Agenda Document](https://docs.google.com/document/d/1zELoftrommhRdnEOAocE6jea6w7KngUDjTUQBlMCNAU/edit) with: 
+1. The host of the GC or the EBA to the host should update the [Group Conversation Agenda Document](https://docs.google.com/document/d/1ngcT8QDA-_iFkUe8bWLJ1jpEq9cv9sWMwEFdbtWLY2o/edit#) with: 
    1. Link of the Google Slides presentation (with edit or comment access to everyone at GitLab). This should be the same slides used for a Key Review, if applicable. 
    1. Link to the video of their Group Conversation presentation on GitLab Unfiltered (recommended, but optional).
    1. The host's name.
@@ -164,7 +171,7 @@ These should be called Fill-In AMAs so it's clear to team members that the AMA w
 ### 72 Hours Before the Call
 
 1. Aim to have the slide deck, any handbook or document links, and the optional video visible to all of GitLab 72 hours ahead of the all. At a minimum, this should be posted 24 hours in advance.
-1. Post in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand. Please @ mention `Kristie Thomas` when posting so she may schedule time for the CEO to watch the video ahead of the group conversation.
+1. Post in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand.
 
 ### 30 Minutes Before the Call
 
@@ -249,7 +256,7 @@ Additional links which may be useful when preparing to moderate a call include:
 1. It is okay to wait until at least two questions have been entered before starting to answer questions, and allow some time for folks to read the slides at the start of the call.
 1. If someone can't verbalize their question (not in call, driving, audio problems) read it aloud for people watching only the video.
 1. Tone should be informal, like explaining to a friend what happened in the group last month, and shouldn't require a lot of presentation.
-1. It's the responsibility of the team members of the group to ensure the content is distributed, this includes ensuring appropriate notes are taken in the [Group Conversation Agenda](https://docs.google.com/document/d/1zELoftrommhRdnEOAocE6jea6w7KngUDjTUQBlMCNAU/edit)
+1. It's the responsibility of the team members of the group to ensure the content is distributed, this includes ensuring appropriate notes are taken in the [Group Conversation Agenda](https://docs.google.com/document/d/1ngcT8QDA-_iFkUe8bWLJ1jpEq9cv9sWMwEFdbtWLY2o/edit#)
 1. This meeting is scheduled to be 25 minutes long. Please keep an eye on the clock and end the meeting on schedule. This meeting must end no later than 29 minutes after the hour.
 1. It is appropriate to end the call early if there are no more questions. We aim for results, not for spending the time allotted. Please avoid the temptation of presenting slides to fill time.
 1. [Never do a countdown or say something like. "I'll give it x seconds", people are very unlikely to ask a question if you do that. Either ask for a question, wait for a question, or end the call.](/handbook/communication/#dont-do-a-countdown-before-ending-a-call)
@@ -263,7 +270,7 @@ The Group Conversation schedule is set quarterly. The schedule is finalized the 
 
 The Scheduling DRI for each GC is responsible for ensuring the GC Zoom is setup correctly, set to record to the cloud automatically, and that there is a specified person for livestreaming. If someone other than the EBA is livestreaming, the EBA will add that individual as an alternate host to the meeting via zoom. For details on how to successfully livestream, please see the [considerations for livestreams](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#considerations-for-livestreams) in the handbook. 
 
-There is a [rotating schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing) with each Department having a conversation on a regular interval.
+There is a [rotating schedule](/handbook/group-conversations/#schedule--dri) with each Department having a conversation on a regular interval.
 We usually do not have Group Conversations or Company calls during the last two weeks of December. We also tend to cancel these during [Contribute](https://about.gitlab.com/events/gitlab-contribute/).
 
 On 2022-02, we'll move our Group Conversations to make **Group Conversations for groups without a Key Review optional**. [Functions with Key Reviews](/handbook/key-review/#invitees) will continue to have Group Conversations within 10 days following their Key Review.  
@@ -299,7 +306,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | AMA with Sid Sijbrandij (CEO) | EBA to CEO| Every other month | N/A | EBA to CEO | 
 |    | | | | 
 
-## FY23 Q2 & Q3 Schedule
+## Current Schedule
 
 | Date | GC or AMA| DRI| Key Review Date? |
 |-----------|-----|--------|--------|
@@ -329,36 +336,59 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday July 26 | UX Research| Adam Smolinski | N/A |
 | Wednesday July 27 | Product| Product Leadership | Key Review Date|
 | Thursday July 28 | Digital Experience | Michael Preuss | N/A |
-| Tuesday Aug 2 | |  | N/A |
-| Wednesday Aug 3 | | | Key Review Date|
-| Thursday Aug 4 | | | N/A |
-| Tuesday August 9 |  | |  |
+| Tuesday Aug 2 | Available | | Key Review Date? |
+| Wednesday Aug 3 | Available | | Key Review Date? |
+| Thursday Aug 4 | Available | | Key Review Date? |
+| Tuesday August 9 | Available | | Key Review Date? |
 | Wednesday August 10 | People | People | July 27th |
-| Thursday August 11 |  |  | N/A |
-| Tuesday August 16 | | | N/A |
-| Wednesday August 17 | | | Key Review Date|
-| Thursday August 18 | | | N/A |
-| Tuesday August 23 |  | | | 
-| Wednesday August 24 | | | Key Review Date|
+| Thursday August 11 | Available | | Key Review Date? |
+| Tuesday August 16 | Available | | Key Review Date? |
+| Wednesday August 17 | Available | | Key Review Date? |
+| Thursday August 18 | Available | | Key Review Date? |
+| Tuesday August 23 | Available | | Key Review Date? |
+| Wednesday August 24 | Available | | Key Review Date? |
 | Thursday August 25 | People | People Leadership | August 18th |
-| Tuesday August 30 | | | N/A |
-| Wednesday August 31 | | | Key Review Date|
-| Thursday September 1 | |  | N/A |
-| Tuesday September 6 | | | N/A |
-| Wednesday September 7 | | | Key Review Date|
-| Thursday September 8 | |  | N/A |
-| Tuesday September 13 | | | N/A |
-| Wednesday September 14 | | | Key Review Date|
-| Thursday September 15 | |  | N/A |
-| Tuesday September 20 | | | N/A |
-| Wednesday September 21 | | | Key Review Date|
-| Thursday September 22 | |  | N/A |
-| Tuesday September 27 | | | N/A |
-| Wednesday September 28 | | | Key Review Date|
-| Thursday September 28 | |  | N/A |
-| Tuesday Oct 20 | People | People Leadership | Oct 12 |
+| Tuesday August 30 | Available | | Key Review Date? |
+| Wednesday August 31 | Available | | Key Review Date? |
+| Thursday September 1 | Available | | Key Review Date? |
+| Tuesday September 6 | Available | | Key Review Date? |
+| Wednesday September 7 | Available | | Key Review Date? |
+| Thursday September 8 | Available | | Key Review Date? |
+| Tuesday September 13 | Available | | Key Review Date? |
+| Wednesday September 14 | Available | | Key Review Date? |
+| Thursday September 15 | Available | | Key Review Date? |
+| Tuesday September 20 | Available | | Key Review Date? |
+| Wednesday September 21 | Available | | Key Review Date? |
+| Thursday September 22 | Available | | Key Review Date? |
+| Tuesday September 27 | Available | | Key Review Date? |
+| Wednesday September 28 | Available | | Key Review Date? |
+| Thursday September 29 | Available | | Key Review Date? |
+| Tuesday October 4 | Available | | Key Review Date? |
+| Wednesday October 5  | Available | | Key Review Date? |
+| Thursday October 6  | Available | | Key Review Date? |
+| Tuesday October 11 | Available | | Key Review Date? |
+| Wednesday October 12  | Available | | Key Review Date? |
+| Thursday October 13  | Available | | Key Review Date? |
+| Tuesday October 18 | Available | | Key Review Date? |
+| Wednesday October 19  | Available | | Key Review Date? |
+| Thursday Oct 20 | People | People Leadership | Oct 12 |
+| Tuesday October 25 | Available | | Key Review Date? |
+| Wednesday October 26  | Available | | Key Review Date? |
+| Thursday October 27 | Available | | Key Review Date? |
+| Tuesday November 1 | Available | | Key Review Date? |
+| Wednesday November 2  | Available | | Key Review Date? |
+| Thursday November 3  | Available | | Key Review Date? |
+| Tuesday November 8 | Available | | Key Review Date? |
+| Wednesday November 9  | Available | | Key Review Date? |
+| Thursday November 10 | Available | | Key Review Date? |
+| Tuesday November 15 | Available | | Key Review Date? |
+| Wednesday November 16  | Available | | Key Review Date? |
+| Thursday November 17 | Available | | Key Review Date? |
+| Tuesday November 22 | Available | | Key Review Date? |
+| Wednesday November 23  | Available | | Key Review Date? |
+| Thursday November 24 | Available | | Key Review Date? |
 | Wednesday Nov 30 | People | People Leadership | Nov 10 |  
-
+| Thursday December 1 | Available | | Key Review Date? |
 ## Examples of Past Group Conversations
 
 All of the public live streamed Group Conversations can be found on the GitLab Unfiltered Youtube channel [Group Conversations playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e).
@@ -401,13 +431,3 @@ If an agenda document becomes longer than 10 pages, the People Experience or Peo
 - Create a Google doc with the same permissions as the doc from which you will be archiving content.
 - Name the new doc the same title as the original, with the word `Archive` at the end.
 - Create a link at the top of the original doc titled `DOC NAME Archive` and link to the Archive doc.
-
-## Agenda
-
-A possible agenda for the call is:
-
-1. Accomplishments
-1. Concerns
-1. Stalled/need help
-1. Plans
-1. Questions and discussions live or in chat
