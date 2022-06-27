@@ -159,11 +159,6 @@ Please refer to our [Incentives at Gitlab Handbook Page](https://about.gitlab.co
     - All expense question(s) can be addressed by emailing `expenses@gitlab.com`.
 
 ### Reimbursement Payout Timelines:
-#### SafeGuard
-
-The list of SafeGuard countries can be found [here](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity)
-* Team members who are employed through SafeGuard must submit their expense for reimbursement through the respective country's policy in Expensify. 
-* All Expense Reports must be approved by the Manager, and Montpac by EOD on the 7th of the month so that AP can provide the listing of approved reports to Payroll to generate the payment in that month's deposit.
 
 #### Global Upside & Remote.com
 
@@ -185,10 +180,6 @@ The list of Global Upside & Remote countries can be found [here](https://about.g
 * Expense reports for GitLab BV (Belgium and Netherlands), GitLab GmbH (Germany), GitLab PTY Ltd (Australia and New Zealand), GitLab GK (Japan), and GitLab LTD (Ireland) are reimbursed via GitLab AP within 10 business days from the approval date by their manager and the Accounts Payable team.
 * Expense reports for GitLab Inc, GitLab Inc Billable, and GitLab Federal reimbursed via Expensify, within 5 business days after the final approval is completed by AP or Montpac.
     - The team member's bank account must be set up in Expensify in order for payment to complete. If you are unsure how to set up your bank please reference the FAQ document linked at the top of this page.
-
-#### Nigeria
-
-* Please include your expenses along with receipts on your monthly salary invoice.
 
 #### CXC Global
 
