@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "use-case Enablement and Expansion"
+title: "Use-case Enablement and Expansion"
 ---
 
 ## Use-case Enablement & Use-case Expansion: The Two Adoption Motions
@@ -18,7 +18,7 @@ Our [mission as a customer success team](/handbook/customer-success/#mission-sta
 For the TAM team in driving use-case enablement, there are two critical motions:
 
 1. Use-case Expansion: Driving expansion into new use-cases as a part of an account planning motion, in-line with the SAL or AE, as a means of ensuring the customer receives increasing ROI and creating happy customers that grow. This motion starts with a discovery process to open the door to a more in-depth discovery, with demos and [workshops](/handbook/customer-success/#customer-workshops) focused on value-positioning that lead to the customer saying 'yes' and agreeing to adopt that use-case. The latter part of an expansion play is the enablement of the use-case, as articulated below. A small pilot used to prove value of a use-case would still count as expansion, since the customer has not agreed to widespread adoption yet.
-1. Use-case Enablement: Enabling on the use-cases a customer expresses readiness to expand into either through a successful use-case Expansion or by internal realization or directive that they want to adopt a new use-case or use case. TAM's enable customers by creating quick time to value, overcoming technical roadblocks, and ensuring stickiness. The TAM will work with the customer to provide guidance on adopting use-cases to maximize value attribution and align adoption to the customer's desired positive business outcomes. Enablement can occur via TAM-led webinars, digital content, and/or professional services. Beyond a small expansion pilot, organic use-case adoption that starts with a few teams, counts as enablement.
+1. Use-case Enablement: Enabling on the use-cases into which a customer expresses readiness to expand, either through a successful Use-case Expansion or by internal realization or directive that they want to adopt a new use-case. TAMs enable customers by creating quick time to value, overcoming technical roadblocks, and ensuring stickiness. The TAM provides the customer with guidance on adopting use-cases to maximize value attribution and to align adoption to the customer's desired positive business outcomes. Enablement can occur via TAM-led webinars, digital content, and/or professional services. Beyond a small expansion pilot, organic use-case adoption that starts with a few teams, counts as enablement.
 
 ## Where do I track the use-case enablement and expansion?
 
@@ -28,7 +28,7 @@ For the TAM team in driving use-case enablement, there are two critical motions:
 
 ## When do I open a CTA/playbook?
 
-1. Use-case Expansion: open the playbook when you plan to **start** the motion of exploring this expansion with the customer through the discovery process. This timing is incredibly key as capturing the 'no' reasons is very impactful for articulating through data the roadblocks to expansion we see and building scaleable plays for overcoming these roadblocks.  We expect to see more than 50% of our playbooks here being closed-no success for reasons of timing, internal challenges or otherwise!  The goal here is to continue exploring expansion with the customer as it pertains to furthering their business value with GitLab and collecting common reasons for no-success in order to establish more plays to help us overcome objections.
+1. Use-case Expansion: open the playbook when you plan to **start** the motion of exploring this expansion with the customer through the discovery process. This timing is incredibly key, since capturing the 'no' reasons helps articulate through data the roadblocks to expansion, and helps build scaleable plays for overcoming these roadblocks.  We expect to see more than 50% of our playbooks here being closed-no success for reasons of timing, internal challenges or otherwise!  The goal here is to continue exploring expansion with the customer as it pertains to furthering their business value with GitLab and collecting common reasons for no-success in order to establish more plays to help us overcome objections.
 1. Use-case Enablement: open the playbook when the customer is ready to begin the process of adopting the use-case (vs when they say they intend to at a later time).
 
 ## When do I close a CTA/playbook?
