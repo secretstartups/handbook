@@ -13,7 +13,7 @@ description: Information on GitLab's Employee Assistance Program.
 
 ## Mental Wellness Services
 
-GitLab offers mental health care services to all team members via [Modern Health](https://www.joinmodernhealth.com/). Modern Health provides technology and professional support to help reduce stress, feel more engaged, and be happier. Through GitLab, you have access to 5 coaching sessions and 6 therapy sessions at no cost to you as well as 100+ digital programs & mediations and unlimited live provider-led group sessions or circles.
+GitLab offers mental health care services to all team members and their eligible family members via [Modern Health](https://www.joinmodernhealth.com/). Modern Health provides technology and professional support to help reduce stress, feel more engaged, and be happier. Through GitLab, you have access to 6 coaching sessions and 6 therapy sessions each at no cost to you as well as 100+ digital programs & mediations and unlimited live provider-led group sessions or circles. 
 
 For more information on Modern Health and getting started, we recorded an [information session](https://drive.google.com/file/d/1dodfWAPP3XDWUmDI9bB5jaqxOe3Bieqe/view?usp=sharing) in April 2021 and another session in [December 2021](https://drive.google.com/file/d/1emrCtcTiOJzxma1895qOzEXLKtpXsj9d/view?usp=sharing) that walks a team member through valuable information about this benefit and how to start utilizing it.
 
@@ -54,6 +54,7 @@ The philosophy towards mental health comes from the World Health Organization (W
 
 Modern Health’s model is grounded in evidence-based approaches, primarily Cognitive Behavioral Therapy, Acceptance and Commitment Therapy, Motivational Interviewing, and Mindfulness.
 
+
 ### When do my Modern Health benefits reset?
 
 Your benefits reset on March 20, 2022.
@@ -63,10 +64,18 @@ Note: Unused sessions do not rollover when your benefits reset.
 
 The platform is currently available in English and Spanish. If English or Spanish is not your preferred language, please note Care is provided in most languages. Feel free to email `help@joinmodernhealth.com` to find out more.
 
-### Registration
+### What family members are eligible for Modern Health?
 
-* Am I eligible? All GitLab team members are eligible for Modern Health.
-* How do I register?
+Eligible family members are defined as a team member's spouse, legal/domestic partner, children up to the age of 27, and/or children of the team member's legal/domestic partner up to the age of 27.
+
+Adult family members 18+ have full access to Modern Health's resources via the app and their own set of 6 Coaching and 6 Therapy sessions.
+
+Minor Family Members:
+  * In the US, family members ages 6-17 can be invited to participate in Therapy via Modern Health. 
+  * Globally outside the US, family members ages 13-17 can be invited to participate in Therapy via Modern Health
+  * In both instances, the eligible parent and/or legal guardian will be responsible for facilitating the minor dependent's introduction to Modern Health. Modern Health will work with the parent/guardian in connecting the minor dependent to Therapy
+
+### Team Member & Family Registration
 
 You can register via the Modern Health Mobile App or on your Desktop Browser: 
 
@@ -76,7 +85,14 @@ You can register via the Modern Health Mobile App or on your Desktop Browser:
   * Enter your GitLab email and the password of your choice. (Reminder that you must register with your GitLab email, but you can change your Modern Health account email to your personal email in Settings upon registration.)
   * Select “Register” on the web or “Agree & Join” on the mobile app to complete registration.
 
+Once you are registered you can you grant access to your eligible family members via the Modern Health app
+  * You can invite your adult family members (18+) through the Modern Health app using these [instructions](https://support.modernhealth.com/hc/en-us/articles/360045577552-How-do-I-invite-my-dependents-)  
+  * You can invite minor family members through Modern Health app using these [instructions](https://support.modernhealth.com/hc/en-us/articles/5386344007451-How-do-I-invite-my-minor-dependents-)
+
+
 If you have trouble registering for Modern Health, please don’t hesitate to reach out to `help@joinmodernhealth.com` with a note or screenshot. Their customer support team will verify the information against what they have on file to provide you the best instructions on how to successfully access Modern Health.
+
+
 
 ### What is the well-being assessment, and why should I take it?
 
