@@ -417,7 +417,7 @@ Due dates for each action item and DRIs are outlined on the [Conference Planning
 
 #### Tips for Speakers
 
-Here are some basic tips to help ensure that you have a good experience preparing for and presenting on a video conference. See [speaker preparation best practices](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/best-practices#speakers).
+Here are some basic tips to help ensure that you have a good experience preparing for and presenting on a video conference. See [speaker preparation best practices](https://about.gitlab.com/handbook/marketing/virtual-events/best-practices#speakers).
 
 ##### Before Committing as a Speaker
 {:.no_toc}
@@ -527,7 +527,7 @@ Needs updating to be confernece specific:
 17. Modify the webpage link with the webcast landing page url without the https (e.g: `about.gitlab.com/webcast/securing-serverless/`), then activate the `Viewed On Demand` smart campaign.
 18. Deactivate the `Attended` ,`Registration from Landing Page`, and `Registration From Zoom` smart campaigns within your webcast program.
 19. **Go back to your MR.** Once the pipeline passes and if everything looks okay in the review app remove WIP and merge (if you have merge access). If you don't have merge access, ping @jgragnola or @aoetama in the MR comment to merge.
-20. Add your webcast to the /resources page by following the instructions [outlined here](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#8%EF%B8%8F%E2%83%A3-add-your-page-to-the-rsesources-page).
+20. Add your webcast to the /resources page by following the instructions [outlined here](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/).
 
 # Executive Roundtables
 {: #executive-roundtables .gitlab-purple}

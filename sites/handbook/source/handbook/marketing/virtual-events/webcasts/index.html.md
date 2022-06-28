@@ -949,7 +949,7 @@ PUBLISHING
 {: #bt-webpage-listings} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 *  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
-*  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#add-new-content-to-the-resources-page).
+*  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/).
 
 ### BrightTALK Webcast Testings / QA
 {: #bt-webcast-testing} <!-- DO NOT CHANGE THIS ANCHOR -->
