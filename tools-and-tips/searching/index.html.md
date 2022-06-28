@@ -44,12 +44,8 @@ You can find instructions on how to set up keyword searches in Chrome and Firefo
 
 ### Setting up keyword searches on Chrome
 
-**Note:** In Chrome 88 and later, you need to press <kbd>Tab</kbd> to trigger keyword search.
-To change this so you only need to press space after a keyword, you can disable either of these flags in Chrome:
-[omnibox-keyword-search-button](chrome://flags/#omnibox-keyword-search-button) or [omnibox-suggestion-button-row](chrome://flags/#omnibox-suggestion-button-row).
-{: .note}
+Keyword searches are created as new `Site searches` in Chrome under the [Search engine](chrome://settings/searchEngines) Settings. By default, typing the keyword in [Chrome's Omnibox](https://developer.chrome.com/docs/extensions/reference/omnibox/) (address bar) then tapping on <kbd>space</kbd> or <kbd>tab</kbd>, then entering the query and hitting <kbd>return</kbd> will use this keyword search.
 
-Keyword searches are created as new search engines in Chrome.
 The steps below show you how to set up a keyword search for searching the GitLab handbook.
 
 | Step | Image |
