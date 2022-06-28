@@ -72,17 +72,23 @@ The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This
 ### Reviewing Tamland Data
 
 1. The Tamland report is generated.
-2. If Tamland predicts that a resource will exceed its alerting threshold ([as defined in the metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)) within the next 60 days, an alert will be generated. This alert is forwarded to GitLab alerting and a Slack message is generated in [#infra_capacity-planning](https://gitlab.slack.com/archives/C01AHAD2H8W).
-3. An issue is created for every alert.
+1. If Tamland predicts that a resource will exceed its alerting threshold ([as defined in the metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)) within the next 60 days, an alert will be generated.
+1. An issue is created for every relevant forecast alert after reviewing.
+1. On a weekly basis, an engineer reviews all open issues in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker.
+   1. Not all forecasts are always accurate: a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for
+example, a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate and if the issue
+requires investigation.
+1. If the engineer observes an unexplained trend they will note down their findings and find an appropriate DRI to investigate further and remediate. We use the
+[Infradev Process] (/handbook/engineering/workflow/#infradev) to assist with the prioritization of these capacity alerts.
+   1. These issues can be the catalyst for other issues to be created in the 'gitlab-org/gitlab' tracker by the stage groups for further investigation. These
+issues must be connected to the capacity planning issues as related issues.
+1. Any issue concerning resource saturation or capacity planning in any tracker should have the "GitLab.com Resource Saturation' label applied.
 
-On a weekly basis, an engineer will:
+### Duplicate Issues
 
-1. Review all open issues in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/boards) board (those with no workflow status label).
-   1. Not all forecasts are always accurate: a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for example a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate and if the issue requires investigation.
-   2. If the engineer observes an unexplained trend they will note down their findings and find an appropriate DRI to investigate further and remediate.
-      1. These issues can be the catalyst for other issues to be created in the `gitlab-org/gitlab` tracker by the stage groups for further investigation. These issues must be connected to the capacity planning issues as related issues.
-   3. Any issue concerning resource saturation or capacity planning in any tracker should have the `GitLab.com Resource Saturation` label applied.
-2. Review all issues in any state that are on or past their due date and drive action.
+While working on automation for parts of the process, we ran into a bug that caused duplicate issues to be created. 
+These issues are labelled with `duplication-saturation-incident` and linked to the original issue. 
+They need to remain open until the original issue is created to prevent further duplicates from being created.
 
 ### Due Dates
 
@@ -99,6 +105,11 @@ Capacity Planning issues are created without a state. After the initial assessme
 1. `capacity-planning::in-progress` - there is a mitigation in progress for this alert
 1. `capacity-planning::verification` - we have completed work on this issue and are  verifying the result
 
+### Capacity Planning is a shared activity
+
+The Scalability:Projections team owns the Capacity Planning process and we aim to enable others to take responsibility for the 
+capacity demands of their features and services. 
+
 ### Relaying Capacity Incidents to Engineering
 
 The forecasts are reviewed in the weekly [Engineering Allocation meeting](/handbook/engineering/engineering-allocation) and any required corrective actions are prioritized according to the timeframes for saturation predicted by the forecast, and the criticality of the resources.
@@ -112,11 +123,21 @@ Practically, this is done by:
 Actions described above can also take place asynchronously at any time - we should not wait for the Engineering Allocation meeting to update issue status or find
 DRIs for issues. 
 
-### Duplicate Issues
+The Scalability:Projections team will triage the capacity alerts by labeling them with the relevant [severity/priority labels](/handbook/engineering/quality/issue-triage/#severity-slos) and 
+assign them to the appropriate owner. From there, we rely on the [Infradev Process](/handbook/engineering/workflow/#infradev) to assist with prioritization of these capacity issues. 
+We remain available for guidance and review support.
 
-While working on automation for parts of the process, we ran into a bug that caused duplicate issues to be created. 
-These issues are labelled with `duplication-saturation-incident` and linked to the original issue. 
-They need to remain open until the original issue is created to prevent further duplicates from being created.
+#### Identifying the DRI for a Capacity Issue
+There are three scenarios that can occur:
+
+1. Wholly-owned component: An alert fires for a component that is owned by a specific group. Projections will triage the issue, and assign the alert to the Engineering Manager of that group. Tracking of the issue forms part of the Infradev Process. (Where Infrastructure owns the issue, the motivation for addressing the problem comes from wanting to prevent alerts to the on-call engineers).
+1. Shared-ownership but clear cause: An alert fires for a general component. During triage, the Projections team can identify a single cause and a clear owner. Projections will triage the issue and assign the alert to the relevant Engineering Manager. Tracking of the issue forms part of the Infradev Process. 
+1. Shared-ownership, alert caused by multiple factors: The Projections team will remain the DRI for these issues and may also own the remediation tasks unless a specific DRI can be identified during the investigation. 
+
+The severity and priority assigned to these Infradev issues will be based on the alert information. If the alert continues to fire, the severity and priority
+will be raised appropriately. 
+
+When the DRI has been identified, the issue will be assigned to them and a comment will be added to describe how we identified them as the owner as well as what is expected from them to resolve the issue. 
 
 ## Examples of Capacity Issues
 
@@ -161,7 +182,3 @@ In this section, we discuss a few capacity planning issues and describe how we a
 - The responsible team picked up the issue again and found that the metrics reporting the problem had been broken with the previous change.
 - The team confirmed that the saturation problem was definitely fixed and corrected the metrics to reflect the change.
 - This example shows that Tamland will continue to notify us of a capacity issue until the metrics show that it is resolved. 
-
-
-
-
