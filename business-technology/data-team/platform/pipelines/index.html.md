@@ -223,6 +223,12 @@ The `boneyard` schema is where data can be uploaded from a spreadsheet and it wi
 
 If you are adding Certificates to SheetLoad, refer to the instructions in the [People Group page](/handbook/people-group/learning-and-development/certifications/#step-5-add-to-sheetload)
 
+## GCS External
+
+A currently hardcoded SQL pipeline for transforming  and loading data from an external GCS stage. Currently only used for [Container Registry Log data (issue linked)](https://gitlab.com/groups/gitlab-data/-/epics/579), which was too large to completely replicate into `RAW`. Currently the DAG runs SQL daily that creates a new table for each date partition, if this is a method we want to continue a future iteration should include a smarter abtraction of the SQL into a manifest of some kind, but at this point it is difficult to assess requirements for the future.
+
+Another consideration is that external tables might be a better solution to this all around, but would require more control or collaboration upstream in how the data is partitioned into the GCS bucker.
+
 ## Prometheus / Thanos (Periodic Queries)
 
 We have one solution in place for extracting data from our Thanos instance, which is managed my the Infrastructure team, into snowflake. There is a service set up in CI Pipeline that runs in `ops.gitlab.net` called [Periodic Quries](https://gitlab.com/gitlab-com/runbooks/blob/d3b03bd2aff20865ba0ae3f96c9d38e3209b4e15/periodic-thanos-queries/README.md) that queries thanos and loads json files into a [GCS Bucket with the same name](https://console.cloud.google.com/storage/browser/periodic-queries)
