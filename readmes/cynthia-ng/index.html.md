@@ -14,11 +14,11 @@ It's also meant to make it easy to find and talk to me.
 This is actually my first "tech job", and first startup.
 
 I come from a mostly public services background, having been a teacher and librarian,
-though with a significant focus on technology and accessibility.
+with a significant focus on technology and accessibility.
 
 I used to be a manager, and I clearly still have a fairly manager-like outlook on a lot of work,
 but I purposely went back to being an individual contributor,
-especially for the collaboration with other teams.
+especially for focusing on technical and project work, and collaboration with other teams.
 
 I believe I've come to really embrace the [GitLab Values](/handbook/values/) but it still took me months to really internalize,
 and I'm still working on excelling in some areas.
@@ -70,9 +70,10 @@ I also participate in the following [TMRGs](https://about.gitlab.com/company/cul
 
 ## Stengths and weaknesses
 
-- **I take ownership of my work and focus on results.** At best, this means I deliver, and get a lot done.
-At worst, I've lost focus of the human element, and/or I'm unintentially discouraging or not giving others the opportunities to contribute.
+- **I take ownership of my work and focus on results with a bias for action.** At best, this means I deliver, and get a lot done.
+At worst, I lose focus of the human element, seem very certain of an opinion, and/or I'm unintentially discouraging or not giving others the opportunities to contribute.
   - **What to do at its worst**: Tell me you'd like to contribute or remind me to think of the human impact.
+  Let me know that you might disagree with my idea, as many of them are [strong opinions weakly held](https://about.gitlab.com/handbook/ceo/#flaws).
   Because I don't do this consciously, I will never get mad at someone for letting me know.
 - **I'm direct.** At best, it means I'm being transparent and providing feedback.
 At worst, the feedback will read as criticizing, forgetting the "kind" part of [directness](/handbook/values/#directness).
