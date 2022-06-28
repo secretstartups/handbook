@@ -25,4 +25,5 @@ See the detailed notes pages for each service type below.
 - [GitLab Readiness Assessment (Health Check)](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/readiness/)
 - [GitLab migration scoping - GitLab, Bitbucket Server, or GitHub (Enterprise or .com) -> GitLab](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/)
 - [CI pipeline migration scoping](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/ci-pipeline/)
+- [Transformational Services scoping](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/transformational-services/)
 
