@@ -314,7 +314,7 @@ The Marketo programs for the corresponding campaign types have been prebuilt to 
 
 For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
 
-For **virtual events**, there are additional set up details on this [page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events).
+For **virtual events**, there are additional set up details on this [page](/handbook/marketing/virtual-events).
 
 For all other campaign types, follows steps below. All steps are required.   
 
