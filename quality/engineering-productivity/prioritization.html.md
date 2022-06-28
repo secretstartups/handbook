@@ -23,7 +23,9 @@ The Engineering Productivity team has diverse responsibilities and reactive work
 
 ### Weighting
 
-We follow the [department weighting guidelines](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/#weights). 
+We follow the [department weighting guidelines](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/#weights) to relatively weight issues over time to understand a milestone velocity and increase predictability. 
+
+When weighting, think about knowns and complexity related to recently completed work. The goal with weighting is to allow for some estimation ambiguity that allows for a consistent predictable flow of work each milestone. 
 
 ### Prioritization activities
 
