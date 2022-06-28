@@ -96,8 +96,38 @@ The following members of other functional teams are our stable counterparts:
    * In addition to the formal People Group promotion document which is eventually shared company wide, Development also requires a separate "areas of improvement" document that is only shared with leadership and the team member.
    * Supporting documents including the People Group justification and "areas of improvement" are typically due a month ahead of the published schedule [aligned with the `Planning` dates in this timeline](/handbook/people-group/promotions-transfers/#promotion-process--timeline) to allow for peer review among Senior Managers and Directors ahead of formal calibration sessions.
 
-### Combined Team
-Based on the scale of frontend engineering in Enablement sub-department, the [Combined Team](/handbook/engineering/starting-new-teams/#fullstack-teams) model is being experimented where both Frontend and Backend Engineers report to a single Engineering Manager. It's believed that the combined team model enables higher efficiency for the situation of Enablement and the experiment is subject to continuous review. The team will return to functional model by establishing a dedicated frontend engineering team when the frontend engineering team reaches the manager to individual contributor ratio guideline.
+### Weekly Async Updates (No Status Update In Meetings)
+
+In order to embody GitLab [CREDIT values](/handbook/values/#credit), we take team status update to async. Instead of reporting on status in meetings, Directors, Senior Engineering Managers, Engineering Managers provide weekly async updates.  The content of these updates may vary week over week but generally cover:
+
+1. Team projects, priorities, KPIs, OKRs
+2. Other priorities (e.g. [Working Groups](/company/team/structure/working-groups/), [FCLs](/handbook/engineering/#feature-change-locks), special initiatives, etc.)
+3. Highlights & Accomplishments
+4. Announcements & topics of interest to those reading the report
+
+We use issues to communicate status asynchronously. The reporting issues reside in [Enablement Status Update](https://gitlab.com/gitlab-org/enablement-section/enablement-status-update) project. There are two types of report issues - issues for each group, stage, and Director; summary issues for each week and month for quick access. The creation of these issues is automated by scripts and a cron job in the same project. The summary issues are also updated regularly by the same cron job to pull the latest together.
+
+#### To make a weekly async update
+
+Engineering managers are encouraged to make as many updates as needed throughout the week.
+
+1. Open the weekly issue for your team, for example [Database](https://gitlab.com/gitlab-org/enablement-section/enablement-status-update/-/issues/50).
+2. Edit the issue description and apply the issue template [group-weekly-status](https://gitlab.com/gitlab-org/enablement-section/enablement-status-update/-/blob/main/.gitlab/issue_templates/group-weekly-status.md).
+3. Fill in the content in the issue description.
+
+#### To review Enablement weekly async updates
+
+1. All issues with the `~Enablement::Weekly-Update` label are summarized in weekly and monthly issues, for example [W23 Enablement Sub-Dept Status Summary (2022-06-12 - 2022-06-18)](https://gitlab.com/gitlab-org/enablement-section/enablement-status-update/-/issues/13), [M6 Enablement Sub-Dept Status Summary (Jun 2022)](https://gitlab.com/gitlab-org/enablement-section/enablement-status-update/-/issues/6).
+2. You are encouraged to comment and ask questions in weekly async update issues.  This provides useful feedback to the author and opportunities to collaborate.
+
+#### Benefits of reporting and reviewing status async vs. synchronously in meetings
+
+1. Collaboration - By sharing announcements, achievements, goals, and plans we are empowering team members with the information they need to make sound decisions and succeed in their roles.
+1. Results - Async updates provide an important channel for sharing accomplishments and progress.
+1. Efficiency - Expecting each team member to [poll](https://en.wikipedia.org/wiki/Polling_(computer_science)) for the status they need is extremely inefficient and becomes more inefficient as the organization grows. By using a [Publish Subscribe model](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) we are able to share information much more efficiently.
+1. Diversity, Inclusion & Belonging - Async status is more inclusive of team members across timezones.  Not every team member will be able to make a sync meeting (due to timezone or other factors) but everyone can participate in an async update.
+1. Iteration - Taking the time to checkpoint where we are at each week prompts the author and readers to consider ways to iterate and to reflect on incremental progress.
+1. Transparency - Sharing information in a consistent, accessible way increases transparency and reduces the threshold for team members to contribute.
 
 ### Dogfood Roadmap in Planning
 To enhance the overview of team direction, all Enablement development teams use Epics to organize projects and dogfood the [Roadmap](https://docs.gitlab.com/ee/user/group/roadmap/index.html) feature to communicate short- and mid-term product development roadmap, although each team customizes their usage such as applying specific labels. Examples:
