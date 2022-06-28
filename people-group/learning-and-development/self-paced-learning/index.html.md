@@ -103,5 +103,5 @@ Due to limited licenses, we ask that team members use one license at a time from
 1. Email the vendor with a list of users to be revoked from the platform. Confirm how many certifications remain on each license.
 1. Add users who have been revoked from the platform to the [revoked access tab](https://docs.google.com/spreadsheets/d/1gHwWy7TKAXem24NVCUmq94sICp_yCocDaf_onUZ3BPg/edit#gid=137096765). Fill in as much information about the user platform behavior as you have available.
 1. The vendor will return an email with new signup codes. Update the [license usage sheet](https://docs.google.com/spreadsheets/d/1gHwWy7TKAXem24NVCUmq94sICp_yCocDaf_onUZ3BPg/edit#gid=0) with these codes and certification counts.
-1. Restart the `first time license alllcation steps`.
+1. Restart the `first time license allocation steps`.
 
