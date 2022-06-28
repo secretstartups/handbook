@@ -5,13 +5,15 @@ job: "Engineering Manager, Source Code"
 ---
 ## Sean Carroll's - README
 
-I'm [Sean Carroll](https://gitlab.com/sean_carroll), Engineering Manager for Source Code. I have been living in Geneva, Switzerland for a while now. I've also lived in the US, Turkey, Scotland and of course Australia, where I'm from. These experiences have given me a strong understanding of different cultures and work styles.
+I'm [Sean Carroll](https://gitlab.com/sean_carroll), Engineering Manager for [Source Code](https://about.gitlab.com/handbook/product/categories/features/#createsource-code-group). I have been living in Geneva, Switzerland for a while now. I've also lived in the US, Turkey, Scotland and of course Australia, where I'm from. These experiences have given me a strong understanding of different cultures and work styles.
 
 I studied [Computer Science](https://www.monash.edu/) and later [Business Systems](https://www.vu.edu.au/), and the first half of my career was in [ERP systems](https://en.wikipedia.org/wiki/Enterprise_resource_planning), mostly in a consulting capacity. Since then I have worked at startups and in innovation environments. I have a personal love for Ruby, and am excited to be working at GitLab, on what is probably one of the largest Ruby codebases in the world.
 
 At several times during my career I have moved between IC and managerial roles.
 
 ## How I work
+
+I am rated as a [Campaigner on 16 Personalities](https://www.16personalities.com/enfp-personality).
 
 ### I work daily on building and maintaining trust
 
@@ -56,7 +58,7 @@ Please don't hesitate to schedule one with me!
 
 I strive to meditate daily for 20 minutes, which has a positive effect on my productivity and general wellness. When working at home it's easy to stay inside all day, so I usually take a short walk around the neighbourhood before starting work.
 
-Under normal (non-COVID) circumstances, I spend 1 day a week at a co-working space. It's a great way to have an office environment without the politics, as everyone is working on their own projects, but we can still have coffee and croissants together.
+I like to spend 1 day a week at a co-working space. It's a great way to have an office environment without the politics, as everyone is working on their own projects, but we can still have coffee and croissants together.
 
 ## How to reach me
 
