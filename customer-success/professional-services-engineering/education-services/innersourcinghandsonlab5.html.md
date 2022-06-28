@@ -17,7 +17,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 2. In the upper-right hand corner, click the **Web IDE** button.
 3. In the editor, and add a new description for the project. 
 4. Click the **Commit...** button on the bottom of the screen. 
-5. In the commit message box, type `Updated the README.md file` and make sure you select **Create a new branch** and check the **Start a new merge request** box.
+5. In the **Commit message** field, type `Updated the README.md file` and make sure you select **Create a new branch** and check the **Start a new merge request** box.
 6. Then push the **Commit** button
 7. In the **Assignee** field of the **New merge request** page, click the link for **Assign to me** and then, click on the **Create merge request** button.
 

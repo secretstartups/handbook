@@ -31,7 +31,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. In the left-hand file list, select `README.md`.
 1. On line 3 of the file, type `Edit my README.md file`
 1. Select **Commit...** at the bottom of the screen.
-1. In the **Commit Message** box, type `Updated the README.md file`. Leave the radio box button at the default, so the commit will be made to the branch you created earlier.
+1. In the **Commit Message** field, type `Updated the README.md file`. Leave the radio box button at the default, so the commit will be made to the branch you created earlier.
 1. Select **Commit**.
 
 ### E. Verify changes in a merge request

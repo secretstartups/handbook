@@ -41,14 +41,14 @@ See the documentation [Use Docker socket binding](https://docs.gitlab.com/ee/ci/
 1. Add a new file to the **CICD Demo** project by clicking **+ > This directory > New file**
 1. In the **File name** field, enter `Dockerfile`
 1. Paste the contents you copied into the body of the new file.
-1. In the **Commit message** field, type `add Dockerfile`, leave the **Target Branch** set to `main`, and click **Commit changes**.
+1. In the **Commit message** field, type `Add Dockerfile`, leave the **Target Branch** set to `main`, and click **Commit changes**.
 
 ### Define a `build image` job
 
 1. In the tab with the **GitLab CICD Hands On Demo** project, navigate to the project’s **Snippets** page, open the `ci-registry` snippet and click the **Copy file contents** icon in the upper right corner of the file.
 1. In the browser tab with the **CICD Demo** project, open the `.gitlab-ci.yml` file and click **Edit**. Paste the snippet at the end of the file.
 1. Edit the `build image` job definition you just pasted in by replacing the `byo-runner` tag with whatever tag you assigned to the GitLab Runner you registered earlier in this lab.
-1. In the **Commit message** field, type `add "build image" job definition`, leave the **Target Branch** set to `main`, and click **Commit changes**.
+1. In the **Commit message** field, type `Add "build image" job definition`, leave the **Target Branch** set to `main`, and click **Commit changes**.
 
 ### Ensure the pipeline is running 
 
