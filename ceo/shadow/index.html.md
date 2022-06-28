@@ -193,10 +193,10 @@ Exceptional community members may be able to participate, as well.
 | 2022-09-05 | 2022-09-09 | AVAILABLE - REMOTE | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA |
 | 2022-09-12 | 2022-09-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-09-19 | 2022-09-23 | NO SHADOWS | NO SHADOWS |
-| 2022-09-26 | 2022-09-30 | [Ed Bao](https://gitlab.com/ebao2) - Assoc Sales Dev Operations Manager | AVAILABLE - REMOTE |
-| 2022-10-03 | 2022-10-07 | AVAILABLE - REMOTE | [Ed Bao](https://gitlab.com/ebao2) - Assoc Sales Dev Operations Manager |
-| 2022-10-10 | 2022-10-14 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-10-17 | 2022-10-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-09-26 | 2022-09-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-10-03 | 2022-10-07 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-10-10 | 2022-10-14 | [Ed Bao](https://gitlab.com/ebao2) - Assoc Sales Dev Operations Manager | AVAILABLE - REMOTE |
+| 2022-10-17 | 2022-10-21 | AVAILABLE - REMOTE |[Ed Bao](https://gitlab.com/ebao2) - Assoc Sales Dev Operations Manager |
 | 2022-10-24 | 2022-10-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 
