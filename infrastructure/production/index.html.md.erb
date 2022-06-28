@@ -203,6 +203,10 @@ The critical change process is described in the [emergency change process](/hand
 
 Currently validation can be done manually by cross examining the logs of the host with the scans done by tenable.
 
+### General OS (Ubuntu or other Linux) Version updates
+
+Infrastructure will look to begin OS upgrades for Ubuntu LTS releases 6 months after their release and attempt to maintain all GCP compute instances on an LTS within the last 5 years of release.  When instances are on older OS releases, we leverage [Ubuntu Advantage](https://ubuntu.com/support) to gain an extension on security releases.
+
 ## Penetration Testing
 
 Infrastructure will provide support to the [security team](../../security) for issues found during
