@@ -186,7 +186,7 @@ In this section use the **Web IDE** instead of the **Edit** feature, so you can 
       -----END RSA PRIVATE KEY-----
        ```
 
-1. Use the Web IDE to commit your changes to the **fix-unhandled-exception** branch with the commit message `fix 1 vulnerability and add 1 vulnerability`
+1. Use the Web IDE to commit your changes to the **fix-unhandled-exception** branch with the commit message `Fix 1 vulnerability and add 1 vulnerability`
 
 
 ### L. View vulnerabilities in the pipeline details page

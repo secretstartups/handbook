@@ -30,7 +30,7 @@ The training environment disables code quality scanning by default. This section
         print("Hello world")
         # TODO: improve this function
     ```
-1. In the **Commit message** field, type `add Python code`
+1. In the **Commit message** field, type `Add Python code`
 1. Click `Commit changes`.
 
 
@@ -59,7 +59,7 @@ The training environment disables code quality scanning by default. This section
    
     # TODO: should we refactor this file?
     ```
-1. In the **Commit message** field, type `add CI/CD configuration file that includes code quality scanning`
+1. In the **Commit message** field, type `Add CI/CD configuration file that includes code quality scanning`
 1. Click `Commit changes`.
 
 
@@ -94,7 +94,7 @@ The training environment disables code quality scanning by default. This section
    ```
    
 1. Fix another code quality problem by deleting line 3.
-1. Commit these changes with the commit message `fix code quality problems`
+1. Commit these changes with the commit message `Fix code quality problems`
 
 
 ### Compare the code quality of **branch-A** to the code quality of **main**

@@ -27,7 +27,7 @@ Note: this will create a new branch from the `master` branch using the default n
 2. On the left-hand navigation pane, click on **README.md.** 
 3. In the editor, on line 5, type `this change will improve this project` 
 4. Click the **Commit...** button on the bottom left hand side of the screen. 
-5. In the commit message box, type `Updated the README.md file` and then click the **Commit** button. 
+5. In the **Commit message** field, type `Updated the README.md file` and then click the **Commit** button. 
 
 ### Verify Changes in a Merge Request
 1. On the Merge Request window- locate the Assignee section in the upper right-hand corner. Ensure the Merge Request is assigned to yourself. 
