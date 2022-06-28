@@ -119,11 +119,11 @@ Pillar strategy is planned annually and reviewed quarterly. Content sets are pla
 - **Last day of the quarter:** Cross-functional retrospective is held.
 
 ## Gated asset creation workflow
-Gated assets are created and written by the content team. The process will vary, however the content strategy and timeline should be consistent. Several other teams are involved in the planning process for whitepapers and eBooks. To learn more about the campaign and marketing strategy, the [Marketing Programs Management section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#overview)) of the handbook has an overview.
+Gated assets are created and written by the content team. The process will vary, however the content strategy and timeline should be consistent. Several other teams are involved in the planning process for whitepapers and eBooks. To learn more about the campaign and marketing strategy, the [Marketing Programs Management section](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) of the handbook has an overview.
 
 All gated assets should have an epic. There are many teams involved in creating the final product and an epic helps keep al realted issues together. The epic is the single source of truth for workflow deadlines. Gated assets include eBooks, whitepapers, demos, and webcasts. All gated assets can be found on the [Resources](/resources/) page.
 
-Visit the [Gated Content page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#gated-content) for detailed instructions on [how to structure your epic, issues, and timeline.](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#timeline-and-process-alignment)
+Visit the [Gated Content page](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) for detailed instructions on [how to structure your epic, issues, and timeline.](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/)
 
 ### Content types: Definitions and workflows
 
@@ -167,7 +167,7 @@ Any technical GitLab team member is welcome to write a whitepaper and collaborat
 1. [A seismic shift in application security](/resources/whitepaper-seismic-shift-application-security/)
 2. [How to deploy on AWS from GitLab](/resources/whitepaper-deploy-aws-gitlab/)
 
-**Timeline:** 1-4 weeks to plan, research, and draft a whitepaper. Whitepapers created by GitLab team members will follow the [internal gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#internal-content-created-by-the-gitlab-team) asset workflow.
+**Timeline:** 1-4 weeks to plan, research, and draft a whitepaper. Whitepapers created by GitLab team members will follow the [internal gated content](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) asset workflow.
 
 **Deliverables:**
 * Week 1: Create and share a detailed outline of the whitepaper with involved team members.
@@ -181,9 +181,9 @@ An eBook tends to be broader in scope than a whitepaper and provides a clear def
 
 **Content Marketer workflow**
 
-A content team member develops eBook content with input and review from their product marketing counterpart. More technical or instructive eBooks may require more collaboration with product marketing. eBooks follow the [internal gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#internal-content-created-by-the-gitlab-team) asset workflow.
+A content team member develops eBook content with input and review from their product marketing counterpart. More technical or instructive eBooks may require more collaboration with product marketing. eBooks follow the [internal gated content](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) asset workflow.
 
-Follow the instructions for creating an internal gated asset and start the eBook process by creating an epic using the [epic template](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#organizing-content-pillar-epics-and-issues).
+Follow the instructions for creating an internal gated asset and start the eBook process by creating an epic using the [epic template](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/).
 
 **For other GitLab team members:** To request an eBook from the content team, feel free to open a [content request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) issue. If you would like to write an eBook, we have an [eBook google doc template](https://docs.google.com/document/d/1V944SVbjBxUVMtZiWIS-Baoxc7Ui-gjq3fCYf8tK0D4/edit?usp=sharing) available for GitLab team members to use with general best practices.
 

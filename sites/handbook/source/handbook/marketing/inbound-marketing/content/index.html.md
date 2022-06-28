@@ -30,7 +30,7 @@ Global Content is part of the [Corporate Marketing department](/handbook/marketi
 ## Quick links
 
 - [GitLab blog handbook](/handbook/marketing/blog/)
-- [Gated content process](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/)
+- [Gated content process](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/)
 
 ## Editorial calendar
 
