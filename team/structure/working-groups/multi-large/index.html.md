@@ -52,7 +52,7 @@ Note that not all stateful nodes are scoped here, notably PostgreSQL, and this i
 | Working Group Role                       | Person                          | Title                                    |
 |------------------------------------------|---------------------------------|------------------------------------------|
 | Executive Stakeholder                    | Steve Loyd  | VP of Infrastructure |
-| Facilitators                              | Chun Du , Amy Phillips  | Director of Engineering, Enablement and Engineering Manager, Delivery             |
+| Facilitators                              | Chun Du , Michele Bursi  | Director of Engineering, Enablement and Engineering Manager, Delivery             |
 | Functional Lead                          | Nailia Iskhakova                | Software Engineer in Test, Database      |
 | Functional Lead                          | Andrew Thomas                    | Principal Product Manager, Enablement  |
 | Functional Lead                          | Gerardo "Gerir" Lopez-Fernandez | Engineering Fellow, Infrastructure       |
@@ -62,10 +62,9 @@ Note that not all stateful nodes are scoped here, notably PostgreSQL, and this i
 | Member                                   | Tanya Pazitny                   | Quality Engineering Manager, Enablement  |
 | Member                                   | Mek Stittri                     | Director of Quality Engineering          |
 | Member | Marin Jankovski | Sr Engineering Manager, Infrastructure, Delivery & Scalability |
-| Member | Brent Newton | Director, Infrastructure, Reliability Engineering |
 | Member | Dilan Orrino | Senior Prouct Manager, Distribution |
 | Member | Mark Wood | Senior Prouct Manager, Create:Gitaly |
-| Member | TBD | Engineering Manager, Gitaly |
+| Member | Andras Horvath | Engineering Manager, Gitaly |
 
 ## Related Links
 
