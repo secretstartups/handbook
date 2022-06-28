@@ -27,4 +27,4 @@ Quota setting and Compensation Design are led by the Go-To-Market Planning & Ope
 - Haseen Selim, GTM Planning & Operations Sr. Analyst
 
 <BR>
-The detailed Sales Commissions Hanbook has been relocated to the [GitLab Internal Handbook](https://internal-handbook.gitlab.io/handbook/sales/sales-commission/).
+The detailed Sales Commissions Handbook has been relocated to the [GitLab Internal Handbook](https://internal-handbook.gitlab.io/handbook/sales/sales-commission/).
