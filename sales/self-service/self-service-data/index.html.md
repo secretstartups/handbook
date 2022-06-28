@@ -28,11 +28,29 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 
 ## Resources
 
+### General
+
 |  **Resource** | **About** |
 | :--------------- | :----------------- | 
-| [Primary Epic](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/50) | Contains OKRs, prioritized work, and weekly status updates |
 | [Data Request Issue Template](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/102) | Template that should be copied for ad-hoc data questions and requests | 
 | [Data Hub](https://docs.google.com/document/d/10p86n7f5vt4UmhHM4ZGRZm4OSa5k5g-LKQ0uBAKnvSc/edit?usp=sharing) | All of our data assets and resources in one place | 
+
+
+### OKRs
+
+- [FY23-Q2](https://app.ally.io/users/181976/objectives?tab=0&time_period_id=155985&selected_dashboard_id=0&viewId=436426)
+- [FY23-Q1](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/40)
+- [FY22-Q4](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/19)
+
+### Quarterly Prioritization List
+
+
+### Quarterly Work: Weekly Progress
+
+|  **Quarter** | **Alex** | **Max** | **Sara** |
+| :--------------- | :----------------- | :----------------- | :----------------- |
+| FY23-Q2 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/101) | Issue | Issue |
+
 
 
 ## Working with us
