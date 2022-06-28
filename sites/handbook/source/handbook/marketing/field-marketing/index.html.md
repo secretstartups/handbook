@@ -148,13 +148,13 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#conference-hybrid)
 
 ## Content Syndication
-* [Tactic Details](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/content-syndication/)
+* [Tactic Details](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#content-syndication)
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Content_Syndication_Template)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#content-syndication)
 
 ## Direct Mail
-* [Tactic Details](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/direct-mail/)
+* [Tactic Details](/handbook/marketing/demand-generation/campaigns/direct-mail/)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail)
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Direct_Mail_Template)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#direct-mail)
@@ -190,7 +190,6 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#sponsored-webcast)
 
 ## Survey
-* [Tactic Details](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/surveys/)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#survey)
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Survey_Template)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#survey)
@@ -1473,7 +1472,7 @@ _At this point the FMM has the main issue (for agreement by teams), the tactic i
 
 In each epic code (from step 3), there are issue template links included that indicate what issues need to be created (example - follow up email, facilitate tracking, etc.) - if they do not say "optional" then they are required. The FMM will create each issue and link to the epic so that all tactical issues are organized together clearly in GitLab.
 
-The FMM will designate DRI as indicated and set due dates based on [SLAs](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#timeline-guidelines) for each item that is being requested. [SLA workback sheet](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280) is available to help you.
+The FMM will designate DRI as indicated and set due dates based on SLAs for each item that is being requested. [SLA workback sheet](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280) is available to help you.
 
 **Note: This is essentially creating the work-back execution plan using issues, DRIs, and due dates.**
 If the date of the tactic is changed, the FMM is responsible for updating the due dates of all issues accordingly. It is also important to remember that the DRIs on the issues are not notified when due dates are added. If you create an issue and then add due dates at a later time (or change due dates), please remember to ping the DRIs in the issue so they are aware dates have been added or changed.
