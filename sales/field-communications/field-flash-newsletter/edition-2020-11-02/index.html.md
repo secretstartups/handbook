@@ -47,7 +47,7 @@ The CS team is **deprecating the old TAM customer tracking process and incorpora
 In an effort to increase customer satisfaction and speed time to adoption, the **Professional Services Education team recently redesigned the [GitLab System Administration course](https://about.gitlab.com/services/education/admin/)**. Here are the main changes:
 1. **New Ordering Process - Admin Training Only:** Use the custom SOW process rather than the standard SKU process to ensure alignment with your customer's specific deployment.
 1. **New Flexible Format:** Pick from a list of common deployment variables to quickly build a customized topic list for a basic administration training SOW.
-1. **New "Advanced" Option:** Add on the [new advanced administration course](https://about.gitlab.com/services/education/adv-admin/) dedicated to monitoring and de-bugging, for customers with Tier 2 admin team members.
+1. **New "Advanced" Option:** Add on the [new advanced administration course](https://about.gitlab.com/services/education/admin/) dedicated to monitoring and de-bugging, for customers with Tier 2 admin team members.
 
 ----
 Marketing has created **[two new target lists for both Large and Mid Market accounts](/handbook/marketing/account-based-marketing/) - GL4300 and MM4000 - that DemandGen, Field Marketing and Account Based Marketing will align efforts around**. The account lists are identified in Salesforce by the `GTM strategy Field` = `Account Centric` and `Account Based- Net New` tags. Both lists will be refreshed at the end of each quarter with the updated target account list available on day 1 of the new quarter.
