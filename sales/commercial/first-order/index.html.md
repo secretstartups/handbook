@@ -19,7 +19,52 @@ As a First Order team, we strive to be obsessed with customer success, and aim t
 
 We uphold GitLab brand integrity though our outreach, and we collaborate to ensure we have the skills necessary to execute at the highest level possible. 
 
-## Prospecting Best Practices
+## Prospecting
+
+### Account Research 
+This part will help you with: 
+1. Becoming effective in Account Research
+2. Prioritizing the right accounts 
+3. Finding new greenfield accounts 
+4. Building a monthly target account strategy 
+
+
+#### SalesForce existing accounts 
+Everyone has a book of business of 700-1000 accounts. In order to prioritize your time effectively use [this report - add later](add later) - training video - [add video that explains how the account view works]
+
+This report filters by 6 main categories:  
+
+| Prospecting Filters    |  Description       |
+| :---- | :---- |  
+| [LamDevCount](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#landed-addressable-market-lam) | minimal 50 developers and for Rank 1.5 prospecting 100+ | 
+| Industries | FinTech, Healthcare (US only), IT, Internet Software, Software (excluding IT Software Consulting firms)| 
+| CE users | Companies that are using the free Community Edition of our product | 
+| Location | Accounts that have Headquarters located in Metropolean cities | 
+| Free users with CI runner minutes bought | uncovered new accounts that are using GitLab free but are paying for CI runner minutes | 
+| [DemandBase](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/)  | shows traction / interest of accounts that are engaging with GitLab |
+
+#### Greenfield accounts (accounts not in Salesforce)
+
+| Source    |  Description       |
+| :---- | :---- |  
+| Salesforce Navigator | Training video| 
+|[Termsheet](https://fortune.com/newsletter/termsheet)| Subscribe to the newsletter |
+|Channel & Alliances | collaborate with your Territory responsible Channel Manager / Alliances Manager| 
+| [Built In](https://builtin.com/) | Prospecting Resource | 
+| [Seeking Alpha](https://seekingalpha.com/) | Prospecting Resource | 
+| Google Alerts | Follow a company with their new google content |  
+| Local Country Financial Newspaper | Online versions | 
+
+#### Monthly Target Account Strategy 
+
+Go to the following monthly check list to see the necessary steps to strategicly prioritize your target accounts
+1. add the issue with checklist 
+
+
+
+
+
+
 
 ## First Order Skills and Skills Development
 ### First Meeting
@@ -43,7 +88,8 @@ We uphold GitLab brand integrity though our outreach, and we collaborate to ensu
 1. You can use [this presentation deck](https://docs.google.com/presentation/d/1MoiL4EkI2goklfSk-rCp_vivbsag9hrEHbd6FVwKy7Q/edit#slide=id.g889353d428_0_0) to help you pitch the Paid POC (particulary refer to slide 9)
 
 ### Discovery
-### Prospecting
+
+
 ### FORC Calls
 1. First Order Reviewed Call (‘FORC’) pronounced Force are Chorus calls First Order AEs review on behalf of their peers to provide feedback and encourage collaboration and skill development.
 1. Ideally, AEs should review 1-2 calls per week per AE.
