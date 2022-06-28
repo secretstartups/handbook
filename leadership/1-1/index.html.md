@@ -144,7 +144,7 @@ As a manager part of your job is to learn more about the team members you manage
 * Current level of skills in technical or functional areas
 * What are their strong leadership competencies or behaviors
 
-Career development conversations shouldn't be done on a whim or just "winging it," but instead these should be thought out and conversations that you prepare for ahead of time. You should come prepare to provide to provide to offer team members feedback, offer suggestions and to ask pertinent questions.
+Career development conversations shouldn't be done on a whim or just "winging it," but instead these should be thought out and conversations that you prepare for ahead of time. You should come prepared to offer team members feedback, offer suggestions and to ask pertinent questions.
 
 #### What questions might team members ask?
 
