@@ -23,7 +23,7 @@ Not only are buddies helpful to someone that has just started with GitLab, but a
 1. **Suggest helpful handbook pages.** Chances are that you've discovered some particularly helpful pages in the handbook during your time at GitLab. Point them out to the new GitLab team-member, and help them get used to navigating the handbook. Some examples might include:
     - [GitLab's guide for starting a remote role](/company/culture/all-remote/getting-started/)
     - [The tools page](/handbook/tools-and-tips)
-    - [The team page] (https://about.gitlab.com/company/team/) that feeds in to the un-audited [internal-only org chart](https://comp-calculator.gitlab.net/org_chart)
+    - [The team page](/company/team/) that feeds in to the un-audited [internal-only org chart](https://comp-calculator.gitlab.net/org_chart)
     - The Organization chart in Workday, which is our SSoT for organizational structure
     - [The positioning FAQ](/handbook/positioning-faq)
 1. **Remind them about introducing themselves.** Remind the new team member to introduce themselves in the Slack channel `#new_team_members` or relevant team channel. Encourage them to write a little personal note, and if they're comfortable, include a photo or two!
@@ -69,7 +69,7 @@ This is an example template you can use to introduce yourself to a new team memb
 
 > Hi {Name}, and welcome to GitLab!
 >
-> My name's {Buddy name} and I'm your [Onboarding Buddy](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-buddies/)! I wanted to introduce myself and explain what my role will be in terms of your onboarding. We're really excited to have you join us.
+> My name's {Buddy name} and I'm your [Onboarding Buddy](/handbook/people-group/general-onboarding/onboarding-buddies/)! I wanted to introduce myself and explain what my role will be in terms of your onboarding. We're really excited to have you join us.
 >
 > {Talk about some of the things you've worked on at GitLab, a bit about your role and what you do for fun! Link to your personal README if you have one.}
 >
