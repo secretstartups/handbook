@@ -88,7 +88,6 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | Member            | Allen Cook    			 | Senior Backend   |
 | Member            | Terri Chu        			 | Senior Backend   |
 | Member            | Doug Stull      	   		 | Staff Fullstack  |
-| Member            | Enrique Alcántara      	 | Senior Frontend  |
 | Member            | Pavel Shutsin        		 | Senior Backend   |
 | Member            | Sincheol Kim    			 | Senior Backend   |
 | Member            | Michał Zając       		 | Senior Backend   |
