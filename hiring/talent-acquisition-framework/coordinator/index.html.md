@@ -180,18 +180,23 @@ Once the CES team gets the background checks back, if there are criminal charges
 
 Our hiring process includes an **optional** step where candidates can request to meet with a TMRG team member. We will offer this to a candidate when they complete their interview process before an offer is made. Whether or not the candidate decides to take us up on this offer will have no impact on our overall hiring decision.
 
-When a candidate requests to meet with a TMRG team member, their Candidate Experience Specialist will do the following:
-1. Share a message in the respective TMRG Slack channel. To aide with scheduling, the message will include the candidate’s time zone and a request for volunteers who would be willing to speak to that person for a 25-minute Zoom call.
-
-**Suggested Language**
-
-Hi, All! We're looking for a volunteer who would be willing to speak to a candidate for a 25-minute Zoom call. The candidate is located in <LOCATION>. More information regarding the purpose of this call can be found [here](https://about.gitlab.com/company/culture/inclusion/recruiting-initiatives/#speaking-with-tmrg-members-in-the-hiring-process). If you’d like to volunteer, please let me know and provide me with your Calendly link to send to the candidate. Thank you!
-
 All current TMRGs have agreed to take part in this process. You can find the group list [here](https://about.gitlab.com/company/culture/inclusion/erg-guide/). 
 
-2. Once a volunteer has been found the Candidate Experience Specialist will send the candidate the 'TMRG Opportunity' email template. The CES will need to get the TMRG team members’ Calendly link and GitLab team page profile.
+When a candidate requests to meet with a TMRG team member, the Candidate Experience Specialist will do the following:
+1. Reach out to TMRG volunteers for this call in the dedicated #candidate_tmrg-call slack channel.
+    - Select Shortcuts button - looks like a plus sign with lightening bolt
+    - Fill in appropriate details
+       - Which TMRG would this canidate like to speak with?
+       - Where is the candidate located?
+       - What role is this candidate interviewing for
+       - Click Submit
+2. Once submitted, the request will ask volunteers to reply with their Calendly link and LinkedIN Profile (optional) for us to share with the candidate. 
 
-3. If a volunteer has not been found within 24 hours the CES team member will reach out to the [TMRG lead(s)](/company/culture/inclusion/erg-guide/) and request assistance with scheduling. If a volunteer has not been found within 2 business days of the request, the CES will ask the TMRG lead to take part in the conversation.
+3. Once a volunteer has been found the Candidate Experience Specialist will email the candidate the 'TMRG Opportunity' email template in Greenhouse. The CES will update the template with the Team Members name, Calendly Link and LinkedIN profile if provided and then send to candidate. 
+
+3. If a volunteer has not been found within 24 hours the CES team member will reach out to the TMRG in their dedicated TMRG Slack Channel. 
+
+4. If a volunteer still has not been found within 24 hours of the second request, the CES will reach out to the [TMRG lead(s)](/company/culture/inclusion/erg-guide/) and request assistance with scheduling. If a volunteer has not been found within 3 business days of the request, the CES will ask the TMRG lead to take part in the conversation.
 
 As a GitLab team member taking part in these calls, we advise you to start with a short introduction to you and your role here at GitLab. From here, we advise you to let the candidate lead the conversation as the goal is for you to answer their questions and offer insight into how we work.
 
