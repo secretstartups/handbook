@@ -45,13 +45,15 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 **How to submit your ad-hoc data request or question**:
 
 1. Have you tried to answer this question leveraging existing resources (e.g. data hub, SFDC)?
-    a. If no, please try to answer your question using these existing resources.
-    b. If yes, but you’re still unable to answer your question, go to question 2.
+
+- If no, please try to answer your question using these existing resources.
+- If yes, but you’re still unable to answer your question, go to question 2.
 
 2. Using [this template](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/102), please clone and:
-    a. Fill out all items under the “Filled out by Requestor” section
-    b. Add the “Self-Service Data” and “Self-Service Data Ad Hoc” labels
-    c. If business stopping: tag Alex in slack (ideally in “self-service_squad” channel) with link to issue.
+
+- Fill out all items under the “Filled out by Requestor” section
+- Add the “Self-Service Data” and “Self-Service Data Ad Hoc” labels
+- If business stopping: tag Alex in slack (ideally in “self-service_squad” channel) with link to issue.
 
 ## How we prioritize ad hoc requests
 The more points the better!
