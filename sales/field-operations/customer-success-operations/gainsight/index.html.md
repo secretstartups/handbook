@@ -17,8 +17,8 @@ description: "This page shows the data structure, integrations, and other techni
 
 When creating a merge request to update this page, please use the following options:
 
-- Reviewer: Jeff Beaumont or Emily McInerney
-- Approver: Jeff Beaumont or Emily McInerney
+- Reviewer: Jeff Beaumont
+- Approver: Jeff Beaumont
 
 Assign to Jeff Beaumont.
 
