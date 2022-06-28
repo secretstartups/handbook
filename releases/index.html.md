@@ -68,7 +68,7 @@ After 30 minutes in the [canary stage of gitlab.com](/handbook/engineering/infra
 reported, the package is considered to be ready for deployment to [gitlab.com](/handbook/engineering/infrastructure/environments/#production) and [staging.gitlab.com](/handbook/engineering/infrastructure/environments/#staging)
 
 The promotion to [gitlab.com](/handbook/engineering/infrastructure/environments/#production) and [staging.gitlab.com](/handbook/engineering/infrastructure/environments/#staging) is triggered manually by the release
-managers. Ongoing S1 or S2 incidents, as well as C1 or C2 changes, will block this promotion
+managers. Ongoing incidents or Change Requests with the `blocks deployments` label will prevent a deployment from continuing. 
 
 Each deployment will trigger a notification in the Slack channel [#announcements](https://gitlab.slack.com/archives/C8PKBH3M5).
 As part of the deployments, a QA issue is created in [release/tasks] issue tracker to inform the people who are
@@ -124,7 +124,8 @@ For GitLab.com releases, timelines are different and described below.
 ### Deployment blockers
 
 Anyone can **block or halt a deployment** by:
-* Declaring a [severity::2 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+* Declaring a [incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+* Applying the `blocks deployments` label. This prevent automated deployments from starting.
 * Alerting the Release Managers in the [#releases] channel. 
 
 In addition, automated deployments to **any production environment** (including [canary]), are
@@ -139,9 +140,8 @@ During the change lock period, manual deployment can be triggered through GitLab
 
 Deployments to production will be blocked by the following events:
 
-1. An [active severity::1 or severity::2 incident](/handbook/engineering/infrastructure/incident-management/#labeling).
-1. Ongoing [change issues with C1 and C2 criticality](/handbook/engineering/infrastructure/change-management/#change-criticalities).
-1. New exceptions in [Sentry reported in the canary environment](https://sentry.gitlab.net/gitlab/gitlabcom/).
+1. An [active incident with the `blocks deployment` label](/handbook/engineering/infrastructure/incident-management/#labeling).
+1. Ongoing [change issues with the `blocks deployment` label](/handbook/engineering/infrastructure/change-management/#change-criticalities).
 
 Release Managers may decide, with input from the [EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) to override a block and continue with the deployment. 
 
