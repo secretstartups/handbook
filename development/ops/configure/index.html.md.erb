@@ -179,19 +179,20 @@ We want to build solutions for real users and customers. As a result, it is para
 - Follow related topics on medium, twitter, HN, and reach out to authors writing about our product areas
 - Continuously communicate to sales that we open to customer calls, but make it clear that these are customer interviews, not sales calls
 - Additional resources for [participant recruitment](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/recruiting-participants/)
+
 ### Roadmap
 
 [Our roadmap is maintained within GitLab](https://gitlab.com/groups/gitlab-org/-/roadmap?state=opened&sort=end_date_asc&label_name%5B%5D=group%3A%3Aconfigure&label_name%5B%5D=Roadmap).
 
 ### Issue refinement
 
-Refinement in the Configure group happens by a continuous process, with a deeper focus on a few issues every week. Every week a team member is selected as the refinement DRI, who is responsible for refining **5** issues from the `~"workflow::refinement"` list in the [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure). 
+Refinement in the Configure group happens by a continuous process, with a deeper focus on a few issues every week. Every week a team member is selected as the [refinement DRI](https://gitlab.com/gitlab-org/configure/general/-/issues/240), who is responsible for refining **5** issues from the `~"workflow::refinement"` list in the [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=devops%3A%3Aconfigure), the process consists of:
 
-Refining means: 
-- Add missing details to issue description if needed, add a weight, formulate a technical plan if not clear and label the issue `~"workflow::ready for development"`
-- OR Determine there is not enough information or too much uncertainty and label `~"workflow::solution validation"`
-- It’s expected that most refinements need conversations with Product Manager, Product Designer, or Engineering Manager.
-- Pulling in other Engineers when necessary is encouraged
+- Follow the [refinement guidelines](#refinement-guidelines), assign a weight, and label the issue `~"workflow::ready for development"`
+- OR Determine there is not enough information or too much uncertainty and clearly document the required next steps, and questions in the description and mention the PM, EM and/or PD for their awareness.
+
+Note that it's expected that most refinements need conversations with Product Manager, Product Designer, or Engineering Manager, and pulling in other Engineers when necessary is encouraged.
+
 #### Refinement Guidelines
 
 - Identify and resolve outstanding questions or discussions.
@@ -211,8 +212,32 @@ Refining means:
 - Outline an implementation plan.
     - What is the smallest thing possible to do?
     - Should we use a feature flag?
+    - Are functional requirements clear?
+    - Are non-functional requirements clear?
+    - Is the proposed technical approach clear?
+    - Does the proposed technical approach solve the requirements?
+    - If UX was provided is the design clear, does it solve all of the problems and fulfill all of the requirements?
 - Assign labels. 
 - Assign a weight to the issue according to [weighting guidelines](/handbook/engineering/development/ops/configure/#weights).
+
+### Technical Discovery meetings
+
+Sometimes we will encounter issues that need the input of the whole team to be refined and then worked on, such issues will be selected as a topic for a Technical Discovery meeting.
+We try to be conscious of sync time and so we expect at max two of these meetings for each milestone. 
+A technical discovery meeting consists of:
+
+- 3 Meetings across timezones.
+    - APAC/EMEA
+    - EMEA/AMER
+    - AMER/APAC
+- The 3 meetings are recorded and share the same agenda.
+- The meetings get announced at least one week before they will be held and each participant must familiarize themselves with the Issue that is being investigated prior to attending one of the meetings.
+- Discussing the topic async in advance in the issue/epic is encouraged.
+- The PM will open the conversation either by describing the use case/scenario or by recording a quick video about it.
+- The meetings are agenda first, everyone needs to type their main comments in the agenda before the first meeting, and notes must be taken, if the agenda is empty the meeting is cancelled.
+- One host is decided for every meeting, and they are responsible to drive the conversation forward.
+- In the last meeting someone is appointed to revert the conversation either in the original issue or a technical document.
+
 ### Planning
 
 #### Milestone Planning and Timeline
