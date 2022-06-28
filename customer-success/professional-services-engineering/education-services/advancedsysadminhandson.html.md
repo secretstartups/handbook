@@ -15,7 +15,7 @@ description: "This Hands-on Guide is designed to walk you through the lab exerci
 
 Here are some quick links that may be useful when reviewing this Hands On Guide.
 
-* [GitLab Advanced System Administration course description](https://about.gitlab.com/services/education/adv-admin/)
+* [GitLab Advanced System Administration course description](https://about.gitlab.com/services/education/admin/)
 
 ## Suggestions?
 
