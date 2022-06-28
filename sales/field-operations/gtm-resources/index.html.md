@@ -440,7 +440,7 @@ For example: the record is considered 'Active' for entire duration of EE trial, 
 
 Salesforce campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads, etc.
 The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking.
-Leveraging campaign aligns our efforts across Marketing, Sales and Finance. For information on integrated campaigns (managed by Marketing Programs), please see the [Integrated Campaigns handbook page](/handbook/marketing/campaigns/) and to learn more about planned, in progress, and previously executed campaign tactics, please see the [Marketing Programs handbook page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/).
+Leveraging campaign aligns our efforts across Marketing, Sales and Finance. For information on integrated campaigns (managed by Marketing Programs), please see the [Integrated Campaigns handbook page](/handbook/marketing/campaigns/) and to learn more about planned, in progress, and previously executed campaign tactics, please see the [Marketing Programs handbook page](/handbook/marketing/).
 
 ## Outreach & Tracking End of Availability Customers
 
