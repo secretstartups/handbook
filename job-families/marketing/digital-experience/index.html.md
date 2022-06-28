@@ -7,7 +7,7 @@ title: "Digital Experience"
 
 ### Digital Experience Analyst
 
-The Digital Experience Analyst Reports to [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#senior-manager-digital-experience)
+The Digital Experience Analyst Reports to [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience)
 
 #### Digital Experience Analyst Job Grade
 
