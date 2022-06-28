@@ -63,17 +63,17 @@ To build a Docker image with a CI/CD pipeline job, you must use a GitLab Runner 
      stage: build
     ```
 
-1. Your job must run on a Docker image that contains Docker tools (this approach is sometimes called "Docker in Docker", or "dind"). Because of technical limitations of the training environment, you need to specify an older version (version 18) of the image that contains Docker tools. Paste this into the job definition that you added in the previous step:
+1. Your job must run on a Docker image that contains Docker tools. This approach is sometimes called "Docker in Docker" or "dind". You'll need to specify a version of the image that we've tested and know to work well for this task. Paste this into the job definition that you added in the previous step:
 
     ```yml
-     image: docker:18
+     image: docker:20.10.17
     ```
 
 1. Your job also needs a second Docker image that enables the Docker in Docker workflow. Specify the second image with the `services` keyword, by pasting this into your job definition:
 
     ```yml
      services:
-     - docker:18-dind
+     - docker:20.10.17-dind
     ```
 
 1. It's helpful to define a variable to hold the full name and version of the Docker image you're creating, because you'll need to refer to that information more than once. You can assemble the name and version out of predefined variables that GitLab provides (remember that predefined variables generally start with `CI_`). Paste this into your job definition:
@@ -81,6 +81,12 @@ To build a Docker image with a CI/CD pipeline job, you must use a GitLab Runner 
     ```yml
       variables:
         IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
+    ```
+
+1. If you set a variable telling Docker not to use TLS, you won't have to worry about setting up security certificates. Add this to your job's existing `variables:` section, below the variable you already defined:
+
+    ```yml
+        DOCKER_TLS_CERTDIR: ""
     ```
 
 1. Tell Docker to build a Docker image using the recipe in `Dockerfile`. Paste this into your job definition:
@@ -110,11 +116,12 @@ To build a Docker image with a CI/CD pipeline job, you must use a GitLab Runner 
     ```yml
    build-and-push-docker-image:
      stage: build
-     image: docker:18
+     image: docker:20.10.17
      services:
-     - docker:18-dind
+     - docker:20.10.17-dind
      variables:
        IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
+       DOCKER_TLS_CERTDIR: ""
      script:
      - docker build --tag $IMAGE .
      - docker login --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD $CI_REGISTRY
