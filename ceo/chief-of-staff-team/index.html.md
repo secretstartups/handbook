@@ -16,7 +16,7 @@ description: "GitLab CoST to the CEO Handbook"
 
 
 ## Team Mission
-Complement the CEO through being the cross-functional linchpin for GitLab when it comes to strategy and operations.
+Complement the CEO through being a cross-functional linchpin for GitLab when it comes to strategy and operations.
 
 ## Quick Links and Fun Facts
 * [Chief of Staff to the CEO Job Family](/job-families/chief-executive-officer/chief-of-staff/)
