@@ -70,7 +70,7 @@ There are 3 types of installations that we need to estimate for:
       2. The subscription's presence in [`mart_ping_instance_metric_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_ping_instance_metric_monthly) 
   (in other words, subscriptions that sent a ping), even if they were not found in [`fct_charge`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_charge)
   * Details on active subscriptions at the subscription- and installation-level are surfaced in 
-  [`rpt_ping_active_subscriptions_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_active_subscriptions_monthly)
+  [`rpt_ping_latest_subscriptions_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_latest_subscriptions_monthly)
 * Counting active subscriptions that sent Service Ping
   * This is captured by a distinct count of subscriptions from [`mart_ping_instance_metric_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_ping_instance_metric_monthly) 
 * Determining when a metric was instrumented
@@ -208,9 +208,9 @@ Subscription counts are determined by a subscription's presence in [`fct_charge`
 with a status of either `Active` or `Cancelled`, but we also include subscriptions appearing 
 in [`mart_ping_instance_metric_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_ping_instance_metric_monthly) 
 (in other words, subscriptions that sent a ping) that were not found in [`fct_charge`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.fct_charge). 
-This is surfaced in the model [`rpt_ping_active_subscriptions_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_active_subscriptions_monthly) 
-with the field `latest_active_subscription_id`. In the subsequent models like [`rpt_ping_subscriptions_reported_estimate_factors_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_subscriptions_reported_estimate_factors_monthly), 
-a distinct count of `latest_active_subscription_id` is used to determine the number of 
+This is surfaced in the model [`rpt_ping_latest_subscriptions_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_latest_subscriptions_monthly) 
+with the field `latest_subsciption_id`. In the subsequent models like [`rpt_ping_subscriptions_reported_estimate_factors_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_subscriptions_reported_estimate_factors_monthly), 
+a distinct count of `latest_subsciption_id` is used to determine the number of 
 subscriptions meeting the condition and the number of potential subscriptions. When determining 
 the ratio or percentage of subscriptions meeting the condition, we use the [`pct_w_counters` macro](https://gitlab-data.gitlab.io/analytics/#!/macro/macro.gitlab_snowflake.pct_w_counters), 
 contains the following calculation: 
@@ -333,7 +333,7 @@ we follow the following process for a given month:
 
 1. Determine the number of licensed seat tied to active subscriptions during that month
     * **Active self-managed seats: 1000000**
-    * This occurs in [`rpt_ping_active_subscriptions_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_active_subscriptions_monthly) (subscription-level) and [`rpt_ping_subscriptions_reported_counts_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_subscriptions_reported_counts_monthly) (aggregated)
+    * This occurs in [`rpt_ping_latest_subscriptions_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_latest_subscriptions_monthly) (subscription-level) and [`rpt_ping_subscriptions_reported_counts_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_subscriptions_reported_counts_monthly) (aggregated)
 1. Calculate the % of seats that reported the metric
     * **% of seats reporting `usage_activity_by_stage_monthly.create.action_monthly_active_users_project_repo` = 530000/1000000 = 53%**
     * This occurs in [`rpt_ping_subscriptions_reported_estimate_factors_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_subscriptions_reported_estimate_factors_monthly)
