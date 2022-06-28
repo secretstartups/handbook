@@ -61,10 +61,10 @@ The Field Marketing Coordinator is a [grade 5](/handbook/total-rewards/compensat
 
 ### Performance Indicators
 * Responsible for assisting and ensuring the supporting Field Marketing Managers are hitting the following SLAs: 
-   * [Webcasts](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#-webcasts)
-   * [Events](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#-events) 
-   * [External non-GitLab hosted virtual events](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#-external-non-gitlab-hosted-virtual-events) 
-   * [Direct mailers ](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#-direct-mail)
+   * [Webcasts](/handbook/marketing/virtual-events/webcasts/)
+   * [Events](/handbook/marketing/virtual-events/) 
+   * [External non-GitLab hosted virtual events](/handbook/marketing/virtual-events/external-virtual-events/) 
+   * [Direct mailers ](/handbook/marketing/demand-generation/campaigns/direct-mail/)
    * Completing all FMC/FMS TODOs in our [issues templates](https://gitlab.com/gitlab-com/marketing/field-marketing/-/tree/master/.gitlab/issue_templates) in line with the due dates listed as a result of the workback schedules 
 
 ## Field Marketing Specialist 

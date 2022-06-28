@@ -9,7 +9,7 @@ The Product Manager - Marketing Job Family educates people on the entire [DevOps
 
 ### Product Manager - Marketing (Intermediate)
 
-The Product Manager - Marketing reports to the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience), and is part of the [Digital Experience](https://about.gitlab.com/handbook/marketing/digital-experience/) team.
+The Product Manager - Marketing reports to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience), and is part of the [Digital Experience](https://about.gitlab.com/handbook/marketing/digital-experience/) team.
 
 #### Product Manager - Marketing (Intermediate) Job Grade
 
