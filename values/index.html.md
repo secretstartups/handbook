@@ -218,7 +218,7 @@ And, when receiving feedback, keep in mind that feedback is the best way to impr
 ##### Do it yourself
 {:.no_toc}
 Our collaboration value is about helping each other when we have questions, need critique, or need help.
-No need to brainstorm, wait for consensus, or [do with two what you can do yourself](https://www.inc.com/geoffrey-james/collaboration-is-the-enemy-of-innovation.html).
+No need to brainstorm, wait for consensus, or [do with two what you can do yourself](https://www.inc.com/geoffrey-james/collaboration-is-the-enemy-of-innovation.html). The Bolt Handbook refers to this as the [Founder Mentality](https://conscious.org/playbook/founder-mentality/), where all team members should approach the problem as if they own the company.
 
 ##### Blameless problem solving
 {:.no_toc}
@@ -310,7 +310,7 @@ We do what we promised to each other, customers, users, and investors.
 ##### Measure results not hours
 {:.no_toc}
 We care about what you achieve: the code you shipped, the user you made happy, and the team member you helped. Someone who took the afternoon
-off shouldn't feel like they did something wrong. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to your manager to discuss solutions.
+off shouldn't feel like they did something wrong. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. We trust team members to show up and do their best work. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to your manager to discuss solutions.
 
 ##### Dogfooding
 {:.no_toc}
@@ -359,7 +359,7 @@ Agree in writing on measurable goals. Within the company we use [public OKRs](/c
 
 ##### Growth mindset
 {:.no_toc}
-You don't always get results and this will lead to criticism from yourself and/or others. We believe our talents can be developed through hard work, targeted training, learning from others, on-the-job experience, and receiving input from others. It is in our DNA as a company and individuals to look for opportunity, stay humble, and never settle. We try to hire people based on [their trajectory, not their pedigree](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means). We also strive to foster a culture of curiosity and continuous learning where team members are provided and proactively seek out opportunities to grow themselves and their careers.
+You don't always get results and this will lead to criticism from yourself and/or others. We believe our talents can be developed through hard work, targeted training, learning from others, on-the-job experience, and receiving input from others. It is in our DNA as a company and individuals to look for opportunity, stay humble, and never settle. We try to hire people based on [their trajectory, not their pedigree](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means). We also strive to foster a culture of curiosity and continuous learning where team members are provided and proactively seek out opportunities to grow themselves and their careers. We believe that with the right expectations and direction, people can grow to take on new challenges and surpass expectations.
 
 ##### Global optimization
 {:.no_toc}
@@ -372,7 +372,7 @@ We refer to this as "persistence of purpose". As talked about in [The Influence 
 
 ##### Ownership
 {:.no_toc}
-We expect team members to complete tasks that they are assigned. Having a task means you are responsible for anticipating and solving problems. As an owner, you are responsible for overcoming challenges, not suppliers or other team members. Take initiative and proactively inform stakeholders when there is something you might not be able to solve.
+We expect team members to complete tasks that they are assigned. You are responsible for executing with attention to detail, connecting the dots across the organization and anticipating and solving problems. As an owner, you are responsible for overcoming challenges, not suppliers or other team members. Take initiative and proactively inform stakeholders when there is something you might not be able to solve.
 
 ##### Sense of urgency
 {:.no_toc}
@@ -524,7 +524,7 @@ Team members should first [search for their own answers](/company/culture/all-re
 {:.no_toc}
 Optimize solutions globally for the broader GitLab community. Making a process efficient for one person or a small group may not be the efficient outcome for the whole GitLab community. As an example, it may be best to discard a renewal process that requires thousands of customers to each spend two hours in favor of one that only takes sixty seconds, even when it may make a monthly report less efficient internally! In a decision, ask yourself "For whom does this need to be most efficient?" Quite often, the answer may be your users, contributors, customers, or team members that are dependent upon your decision.
 
-It is easy to prioritize consistency over efficiency because consistency is often more efficient initially. We should slow down when optimizing for consistency. Taking a company-wide lens when evaluating changes will help ensure that new processes will improve efficiency for GitLab as a whole.
+It is easy to prioritize consistency over efficiency because consistency is often more efficient initially. We should slow down when optimizing for consistency. Taking a company-wide lens when evaluating changes will help ensure that new processes will improve efficiency for GitLab as a whole and be the best decision for the company as a whole.
 
 ##### Be respectful of others' time
 {:.no_toc}
@@ -556,7 +556,7 @@ Keep one-to-many written communication short, as mentioned in [this HBR study](h
 
 ##### Managers of one
 {:.no_toc}
-We want each team member to be [a manager of one](/handbook/leadership/#managers-of-one) who doesn't need daily check-ins to achieve their goals.
+We want each team member to be [a manager of one](/handbook/leadership/#managers-of-one) who doesn't need daily check-ins to achieve their goals. Team members are given the freedom to own projects and initiatives and are trusted to see them through to a successful end.
 
 ##### Freedom and responsibility over rigidity
 {:.no_toc}
@@ -564,7 +564,7 @@ When possible, we give people the responsibility to make a decision and hold the
 
 ##### Accept mistakes
 {:.no_toc}
-Not every problem should lead to a new process to prevent them. Additional processes make all actions more inefficient; a mistake only affects one.
+Not every problem should lead to a new process to prevent them. Additional processes make all actions more inefficient; a mistake only affects one. Once you have accepted the mistake, learn from it.
 
 ##### Move fast by shipping the minimal viable change
 {:.no_toc}
@@ -1202,6 +1202,7 @@ Our values should give guidelines on how to behave and must be actionable.
 They help us describe the type of behavior that we expect from people we hire.
 They help us to know how to behave in the organization and what to expect from others.
 Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager.
+They create a [conscious culture](https://conscious.org/playbook/a-conscious-culture/) that is designed to help you prosper and experience exceptional personal growth through work. 
 
 ## How to scale the business while preserving GitLab values?
 
@@ -1336,6 +1337,7 @@ From our values we excluded some behaviors that are obvious; we call them our *p
 1. Be deserving of the trust of our team members, users and customers.
 1. Be committed to the success of the whole organization.
 1. Act in the best interest of the company, our team members, our customers, users, and investors.
+1. Make the best decisions for GitLab. 
 1. Act in accordance with the law.
 1. Don't show favoritism as [it breeds resentment, destroys employee morale, and creates disincentives for good performance](https://www.employmentlawfirms.com/resources/employment/discrimination/laws-preventing-favoritism-in-the-workplace). Seek out ways to be fair to everyone.
 
