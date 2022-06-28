@@ -22,7 +22,16 @@ At present, we use Facebook's Prophet library for forecasting. The model is used
 
 GitLab's Capacity Planning strategy is based on the following technologies:
 
-![Tamland architecture diagram](img/architecture.png)
+```mermaid
+graph TD
+    A[Saturation Monitoring Configuration] -->|pushed| B[Prometheus]
+    B --> C[Thanos]
+    B --> |alerts for imminent saturation|D[Pager Duty]
+    C --> |historical saturation data|E[Tamland]
+    E --> |generates|F[Tamland Report]
+    E --> G[Push Gateway]
+    G --> H[Capacity Planning Issue Tracker]
+```
 
 1. **[Saturation Monitoring Jsonnet Configuration](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)** - for saturation monitoring definition, recording rule generation, short term alerting configuration generation.
 1. **Prometheus** - capturing and processing utilization and saturation metrics over the short-term.
@@ -103,7 +112,55 @@ Practically, this is done by:
 Actions described above can also take place asynchronously at any time - we should not wait for the Engineering Allocation meeting to update issue status or find
 DRIs for issues. 
 
+### Duplicate Issues
 
+While working on automation for parts of the process, we ran into a bug that caused duplicate issues to be created. 
+These issues are labelled with `duplication-saturation-incident` and linked to the original issue. 
+They need to remain open until the original issue is created to prevent further duplicates from being created.
+
+## Examples of Capacity Issues
+
+In this section, we discuss a few capacity planning issues and describe how we applied the process above when addressing them. 
+
+### monitoring / go_memory potential saturation
+
+[gitlab-com/gl-infra/capacity-planning#42](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/42)
+
+- The Tamland report showed that this component would likely saturate within the next 30 days. 
+- The engineer reviewing the issue saw that the trend lines indicated a problem.
+- The engineer contacted the Engineering Manager for the team responsible for this component. 
+- The responsible team worked to correct the problem. 
+- When the team was satisfied with their changes, we confirmed that this component was no longer showing in the report.
+- We also confirmed through source metrics that this component was no longer likely to saturate. 
+
+### redis-cache / redis_memory potential saturation
+
+[gitlab-com/gl-infra/capacity-planning#45](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/45)
+
+- The Tamland report showed that this component might saturate in the next few months. 
+- The engineer reviewing the issue determined that this saturation point was an artificial limit. It is expected for this component to hover around its maximum without causing problems. 
+- The team worked to [exclude these components from the Tamland process](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1746).
+- The issue was resolved. 
+
+### redis-cache / node_schedstat_waiting potential saturation
+
+[gitlab-com/gl-infra/capacity-planning#144](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/144)
+
+- The Tamland report showed potential saturation.
+- The engineer reviewing this problem could see that outliers in the data (due to an incident) impacted the forecast.
+- The engineer silenced the alerts and explained why this issue could be closed. 
+
+### git / kube_pool_max_nodes potential saturation
+
+[gitlab-com/gl-infra/capacity-planning#31](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/31) and [gitlab-com/gl-infra/capacity-planning#108](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/108)
+
+- The Tamland report showed potential saturation.
+- The responsible team was contacted and they made changes to address the problem. 
+- They believed they had done enough to prevent the saturation from occuring so they closed the issue. 
+- When Tamland produced its next report, [the item was still included](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/108).
+- The responsible team picked up the issue again and found that the metrics reporting the problem had been broken with the previous change.
+- The team confirmed that the saturation problem was definitely fixed and corrected the metrics to reflect the change.
+- This example shows that Tamland will continue to notify us of a capacity issue until the metrics show that it is resolved. 
 
 
 
