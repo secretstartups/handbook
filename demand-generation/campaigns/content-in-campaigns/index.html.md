@@ -32,7 +32,7 @@ The epic code in each section below outlines the necessary issues to open in ord
     * [Internal GitLab-created content](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#internal-content): We created and developed the content in house
     * [External content (i.e. Analyst Relations)](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#external-content): We have bought the rights to use the content from an external vendor (analysts or publishers, for example) or received the content from a partner
     * [On-Demand Webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/)
-* **[Content syndication](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/content-syndication)** (under Digital Marketing): We have promoted our content through a third-party vendor, but do not drive people back to our website. In these cases, we often have given them the resource to make available for download to their audience, and recieve the leads to be uploaded.
+* **[Content syndication](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#content-syndication)** (under Digital Marketing): We have promoted our content through a third-party vendor, but do not drive people back to our website. In these cases, we often have given them the resource to make available for download to their audience, and recieve the leads to be uploaded.
 
 ## How to pick content for campaigns
 {: #picking-content-for-campaigns .gitlab-purple}
