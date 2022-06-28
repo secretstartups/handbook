@@ -603,8 +603,6 @@ List your 3 most significant achievements since the last formal [Talent Assessme
 - **Strengths & Opportunities in Role**
 
 In this area the goal is to determine 2-3 strengths and 2-3 opportunity areas in accordance with your role, job family, and [job framework](https://about.gitlab.com/company/team/structure/#job-frameworks). Include examples when necessary to provide clarity or context.  Ensure there are actionable takeaways.
-        - Strengths
-        - Opportunity Areas
 
 - **Support Needed**
 
