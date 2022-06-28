@@ -326,21 +326,21 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday June 30 | Support | Tom Cooney | June 22 |
 | Tuesday July 5 | Infrastructure | Steve Loyd | June 23|
 | Wednesday July 6 | CRO| Michele Hodges | Key Review Date|
-| Thursday July 7 | UX| Christine Lenneville | June 30e|
+| Thursday July 7 | UX| Christine Lenneville | June 30|
 | Tuesday July 12 | Customer Fireside Chat | | N/A |
-| Wednesday July 13 | Available| |  |
-| Thursday July 14 | Brand Activation| Luke Babb | N/A |
-| Tuesday July 19 | Marketing| Ashley Kramer | N/A|
+| Wednesday July 13 | Available | |  |
+| Thursday July 14 | Brand Activation | Luke Babb | N/A |
+| Tuesday July 19 | Marketing | Ashley Kramer | N/A|
 | Wednesday July 20 | Finance | | 2022-07-20 |
 | Thursday July 21 | General (CEO)| Sid Sijbrandij | Key Review Date|
-| Tuesday July 26 | UX Research| Adam Smolinski | N/A |
-| Wednesday July 27 | Product| Product Leadership | Key Review Date|
+| Tuesday July 26 | UX Research | Adam Smolinski | N/A |
+| Wednesday July 27 | Product | Product Leadership | Key Review Date|
 | Thursday July 28 | Digital Experience | Michael Preuss | N/A |
 | Tuesday Aug 2 | Available | | Key Review Date? |
 | Wednesday Aug 3 | Available | | Key Review Date? |
 | Thursday Aug 4 | Available | | Key Review Date? |
-| Tuesday August 9 | Available | | Key Review Date? |
-| Wednesday August 10 | People | People | July 27th |
+| Tuesday August 9 | People | People | July 27th |
+| Wednesday August 10 | Pet Friendly AMA | Robin Schulman | N/A|
 | Thursday August 11 | Available | | Key Review Date? |
 | Tuesday August 16 | Available | | Key Review Date? |
 | Wednesday August 17 | Available | | Key Review Date? |
@@ -364,11 +364,11 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday September 28 | Available | | Key Review Date? |
 | Thursday September 29 | Available | | Key Review Date? |
 | Tuesday October 4 | Available | | Key Review Date? |
-| Wednesday October 5  | Available | | Key Review Date? |
-| Thursday October 6  | Available | | Key Review Date? |
+| Wednesday October 5 | Available | | Key Review Date? |
+| Thursday October 6 | Available | | Key Review Date? |
 | Tuesday October 11 | Available | | Key Review Date? |
-| Wednesday October 12  | Available | | Key Review Date? |
-| Thursday October 13  | Available | | Key Review Date? |
+| Wednesday October 12 | Available | | Key Review Date? |
+| Thursday October 13 | Available | | Key Review Date? |
 | Tuesday October 18 | Available | | Key Review Date? |
 | Wednesday October 19  | Available | | Key Review Date? |
 | Thursday Oct 20 | People | People Leadership | Oct 12 |
@@ -376,19 +376,20 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday October 26  | Available | | Key Review Date? |
 | Thursday October 27 | Available | | Key Review Date? |
 | Tuesday November 1 | Available | | Key Review Date? |
-| Wednesday November 2  | Available | | Key Review Date? |
-| Thursday November 3  | Available | | Key Review Date? |
+| Wednesday November 2 | Available | | Key Review Date? |
+| Thursday November 3 | Available | | Key Review Date? |
 | Tuesday November 8 | Available | | Key Review Date? |
-| Wednesday November 9  | Available | | Key Review Date? |
+| Wednesday November 9 | Available | | Key Review Date? |
 | Thursday November 10 | Available | | Key Review Date? |
 | Tuesday November 15 | Available | | Key Review Date? |
 | Wednesday November 16  | Available | | Key Review Date? |
 | Thursday November 17 | Available | | Key Review Date? |
 | Tuesday November 22 | Available | | Key Review Date? |
-| Wednesday November 23  | Available | | Key Review Date? |
+| Wednesday November 23 | Available | | Key Review Date? |
 | Thursday November 24 | Available | | Key Review Date? |
-| Wednesday Nov 30 | People | People Leadership | Nov 10 |  
+| Wednesday Nov 30 | People | People Leadership | Nov 10 | 
 | Thursday December 1 | Available | | Key Review Date? |
+
 ## Examples of Past Group Conversations
 
 All of the public live streamed Group Conversations can be found on the GitLab Unfiltered Youtube channel [Group Conversations playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e).
