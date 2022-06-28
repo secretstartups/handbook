@@ -34,7 +34,7 @@ Ally.io is the source of truth for CEO OKRs: https://app.ally.io/teams/40502/obj
 ### 1. CEO: Increase ARR 
 1. **CEO KR:** Meet MQL and FO SAO goals.
 1. **CEO KR:** Deliver final Matterhorn strategy and Zuora orders and ramps work in preparation for launch.
-1. **CEO KR:** Increase new weekly Self-Managed activations using Cloud Licensing from 20-30% (current) to 80%+ (post-delivery) by delivering Strict Cloud Licensing.
+1. **CEO KR:** 60%+ of Q2 Self-Managed activations use Cloud Licensing.
 1. **CEO KR:** Convert two features into Registration Features. Instrument them for measuring signup and conversion. Make a timeline for all features not on the pricing page.
 
 ### 2. CEO: Improve User Engagement
