@@ -61,9 +61,9 @@ Review the responsibilities of career development broken down by team member, ma
 
 | Role | Responsibilities |
 | -------- | --------------- |
-| Team Member Owned | <ol><li>Take charge of your own development and career</li><li>Close the skill gap for current and future positions</li><li>Seize development and stretch opportunities</li><li>Remember there are no promises or guarantees of a promotion</li></ol> |
-| Manager Facilitated| <ol><li>Take time with team members to discuss their career aspirations</li><li>Listen and provide feedback, ideas and contacts</li><li>Make choices to support their development</li></ol> |
-| GitLab Supported | <ol><li>Communicate future direction and skills requirements</li><li>Provide information and tools when applicable</li><li>Communicate internal opportunities</li></ol> |
+| Team Member Owned | - Take charge of your own development and career<br/> - Close the skill gap for current and future positions <br/> - Seize development and stretch opportunities <br/> - Remember there are no promises or guarantees of a promotion |
+| Manager Facilitated| - Take time with team members to discuss their career aspirations <br/> - Listen and provide feedback, ideas and contacts <br/> - Make choices to support their development |
+| GitLab Supported | - Communicate future direction and skills requirements <br/> - Provide information and tools when applicable <br/> - Communicate internal opportunities |
 
 ### 70-20-10 Rule for Development
 
