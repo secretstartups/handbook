@@ -26,6 +26,9 @@ This page contains GitLab's Corporate Credit Card guidelines and procedures. If 
 - Corporate Credit Cards should not be used to bypass the Procurement process.
 - Purchases on your card should not exceed $2,500 for each transaction.  If your purchase will be over $2,500, you will need to enter a Purchase Requisition in Coupa. AP prefers to pay vendors by ACH whenever possible.  For reference to get started with Coupa for a vendor who can be paid by normal invoicing and payment methods, see [Coupa End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/).
 - However, if your purchase will be over $2,500 and needs to be paid by credit card, please follow the instructions to enter a Purchase Requisition into Coupa to be paid by [Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/).
+- All credit card reports must be submitted to their manager.  Then the manager is to review/approve and then submit to Misty Brown (on behalf of the AP team to process the report).
+- Any reports not submitted for one month will be subject to management review and cards could be taken away for non-compliance.
+- Any reports with continuous violations to our policy will be subject to management review and could be taken away for non-compliance.
 
 ## <i id="biz-tech-icons" class="fas fa-bullseye"></i> Items not permitted to be purchased on Corporate Credit Cards
 - Software subscriptions. Please follow the process regarding [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/).
@@ -33,6 +36,13 @@ This page contains GitLab's Corporate Credit Card guidelines and procedures. If 
 - All purchases relating to Training/Tuition/Conferences and Membership fees. These purchases must follow the [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) process.
 - Employee Gifts. These purchases must go through the normal employee expense reimbursement process.
 - Personal expenses.
+- Hotels & Airfares: These are not allowed to be purchased under our CC program and need to run through the employee reimbursement process for proper management approvals.
+
+#### Gift Cards
+
+1. Gift Card Purchases to team members are not allowed, as they are taxable per IRS guidelines.  If gift card purchases are made, it requires pre-approval per Policy and the team member who receives the gift card will be taxed accordingly.
+1. Gift Card Purchases to non-Gitlab employees will need to notify their manager and employers per IRS rules, as well as obtaining approval from the PAO of Finance or the VP Corporate Controller approval before purchasing.
+1. Non-cash team member gifts of certain value (over $75 per year), such as a wine bottle, are taxable.
 
 ## <i id="biz-tech-icons" class="fas fa-stream"></i> Expensify Reports and Coding
 - Make sure you choose **Gitlab-Amex** policy when submitting your Corporate Credit Card report in Expensify.
@@ -45,7 +55,6 @@ This page contains GitLab's Corporate Credit Card guidelines and procedures. If 
 ## <i id="biz-tech-icons" class="fas fa-bullseye"></i> Card Holder Responsibility
 - Card Holders are responsible for providing all supporting documents.
 - Card Holders must submit their Corporate Card Reports monthly in Expensify by the last day of the current month.   This includes ensuring that all transactions have been properly coded and all receipts attached before submission.
-- If Expensify reports are not submitted by the Card Holder for three consecutive months or the Card Holder has consistently violated the guidelines for card usage, the Card Holder will be subject for review by the Finance Management Team for possible card cancellation as this poses a huge audit risk for GitLab.
 - Card Holders must follow Gitlab’s Code of Business Conduct and Ethics as the Corporate Credit Cards are considered GitLab property. Please refer to GitLab's [Code of Business Conduct & Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
 - To cancel a card or to report a card that is lost/stolen, please reach out to **#corp-creditcard-holders** Slack channel or email **ap@gitlab.com**.
 
