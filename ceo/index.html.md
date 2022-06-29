@@ -111,7 +111,7 @@ I have accounts on [LinkedIn](https://www.linkedin.com/in/sijbrandij) and [Faceb
 
 ### Communicating Follow Ups
 
-Sometimes I will ask to be kept apprised of an action item or follow up. One common way for me to express this desire is by applying the "CEO Interest" label on a GitLab issue. When keeping me apprised please tend toward over-communication. The primary method to communicate your follow up to me should be via MR or issue updates posted in the `#ceo` slack channel including specific notification when an issue is completed or closed. It might feel like you are being bothersome or distracting, but it is not. If I ever feel like you are truly over-communicating, I will let you know.
+Sometimes I will ask to be kept apprised of an action item or follow up. One common way for me to express this desire is by applying the [CEO Interest](https://gitlab.com/groups/gitlab-com/-/labels?search=ceo+interest) label on a GitLab issue. When keeping me apprised please tend toward over-communication. The primary method to communicate your follow up to me should be via MR or issue updates posted in the `#ceo` slack channel including specific notification when an issue is completed or closed. It might feel like you are being bothersome or distracting, but it is not. If I ever feel like you are truly over-communicating, I will let you know.
 
 ### Communicating in Slack
 
@@ -121,11 +121,17 @@ I get a lot of @ mentions in Slack, often when I'm being discussed. Please only 
 
 Please follow these steps if you'd like me to review a [Merge Request (MR)](https://docs.gitlab.com/ee/user/project/merge_requests/) for approval:
 
-1. Write the MR
+1. Create the MR
 1. Have the MR reviewed by a peer or your manager if you'd like early feedback
-1. When the MR is ready for my review
-   1. Add @sytses as a `Reviewer` to the MR
+1. Ensure that the MR is mergeable:
+   1. [All commment threads are resolved](https://docs.gitlab.com/ee/user/discussions/#resolve-a-thread)
+   1. If the MR is a draft, [mark the MR as ready](https://docs.gitlab.com/ee/user/project/merge_requests/drafts.html#mark-merge-requests-as-ready)
+   1. The [CI/CD pipeline ran successfully](https://docs.gitlab.com/ee/user/project/merge_requests/widgets.html#pipeline-information) and deployed the latest [review app](https://docs.gitlab.com/ee/ci/review_apps/)
+1. When the MR is ready for my review:
+   1. Add `@sytses` as a `Reviewer` to the MR. You can use this [quick action](https://docs.gitlab.com/ee/user/project/quick_actions.html): `/assign_reviewer @sytses`.
    1. Post to the [#ceo](https://app.slack.com/client/T02592416/C3MAZRM8W) Slack channel, `@` mentioning me asking for my review. Please provide a brief description sharing the [context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication).
+   1. Optional: Add a direct URL to the deployed review app to the Slack message for faster access
+   1. Address any feedback I provide and ensure that the MR is mergeable (see `#3` above)
 1. After my approval is given merge the MR if I have not
 
 
