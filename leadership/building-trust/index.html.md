@@ -25,6 +25,59 @@ Trust takes time and energy to build. We leverage [informal communication](/comp
 
 Working remotely can be isolating for team members if managers do not take the [necessary steps](/company/culture/all-remote/being-a-great-remote-manager/) to build trust and social cohesion amongst their teams. In a remote environment, it can take team members longer to get to know each other compared to a colocated office setting. On this page, we’ve outlined additional strategies people leaders and team members can apply to build trust amongst their teams. 
 
+## Ten Dimensions of Trust
+
+Sid Sijbrandij, GitLab's CEO, shared what he has identified as the ten dimensions of trust. He notes that trust allows you to [assume positive intent](/handbook/values/#assume-positive-intent) in support of our [CREDIT values](/handbook/values/#credit). It also helps to [prevent political behavior](/handbook/values/#playing-politics-is-counter-to-gitlab-values) that runs counter to our values.
+
+1. Optimizing [efficiency for the right group](/values/#efficiency-for-the-right-group)
+    1. We versus I optimization
+    1. Organization versus individual
+    1. Other teams versus your team
+    1. Global versus territorial, kingdom building 
+1. Mindset
+    1. Abundance
+    1. Non-zero sum
+    1. Open-minded
+    1. Looking for creative win-win solutions
+    1. Positive sum position instead of zero sum
+1. Familiarity
+    1. Knowing the person better
+    1. Listening (actively)
+    1. Spending more time
+    1. [Informal communication](/company/culture/all-remote/informal-communication/)
+1. Information
+    1. Providing and receiving [feedback](/handbook/people-group/guidance-on-feedback/)
+    1. Bad news travels fast
+    1. [Transparency](/handbook/values/#transparency) (show your intermediate work)
+    1. Wide access to information, meetings, and meeting notes
+1. Responsiveness
+    1. Availability
+    1. Open to suggestions
+1. Confidentiality
+    1. Respected 
+    1. Safe space
+    1. Negative in a small group, not large forums
+    1. Discretion in what can be shared and when
+1. Build
+    1. Praise in a broader group
+    1. Giving credit (for an idea)
+    1. Constructively picking arguments ([steel man vs. listening for weak arguments](/handbook/values/#assume-positive-intent))
+    1. Make each other better
+    1. Explain the why ([Simon Sinek](https://www.youtube.com/watch?v=zP9jpxitfb4))
+    1. Celebrate successes
+1. Competence
+    1. Calibrated to what is required
+    1. High standards
+    1. Relentlessly resourceful
+1. Consistency
+    1. Opinion/behavior independent of who is in the room
+    1. No backroom conversations
+    1. No alliances, other than with all peers
+    1. No politics (link to handbook section)
+1. History
+    1. Keeping commitments
+    1. History of success
+
 ## Strategies to Build Trust 
 
 People Leaders should make every effort to build trust as soon as they mobilize a team, when new team members start, and throughout the year. [Informal communication](/company/culture/all-remote/informal-communication/) is a great tool to build trust; however, there are additional strategies managers and team members can implement to build trust within the teams they support.
