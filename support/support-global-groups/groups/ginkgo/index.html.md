@@ -9,7 +9,7 @@ description: Home Page for Support's Ginkgo Group
 
 # Welcome to the home page of the Ginkgo group
 
-Introductory text, logos, or whatever the group wants here
+![a triumphant tanuki holding bread over its head under a ginkgo tree](/handbook/support/support-global-groups/groups/ginkgo/sgg_ginkgo.png)
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -25,28 +25,28 @@ Introductory text, logos, or whatever the group wants here
 
 ## Ginkgo workflows and processes
 
-#### Daily Crush Sessions
+### Daily Pairing Sessions
 
-EMEA/AMER friendly crush sessions are held every weekday from 14:30 to 15:30 UTC.
+ - EMEA/AMER friendly pairing sessions are held every weekday from 14:30 to 15:30 UTC.
+ - AMER friendly pairing sessions are held every weekday from 18:00 to 19:00 UTC.
 
-**Goal**:
+**Goal**: Meet as a group and work toward our [Definition of Success](../index.html.md#success-of-their-group-means).
+
+**Guidelines**: Decide if a Pairing Session or a Crush Session is the best format for any given day, based on how the FRT queue looks and on current workload of the participants.
+
+**Location**: These meetings will be held in the Gingko Collab Room, which can be found in the bookmarks of Our Slack Channel, [#spt_gg_ginkgo](https://gitlab.slack.com/archives/C0354N9B14G).
+
+### Team Building Question Days
+
+To get to know each other better we infrequently post questions that are fun but controversial in a light-hearted way on our Slack channel. Passionate participation is highly recommended, and stealing of both the process and questions by other SGGs is definitely encouraged.
+
+Some questions we discussed so far:
  
-Meet as a group and work toward our [Definition of Success](../index.html.md#success-of-their-group-means).
+ - In what order do you put on your shoes and socks – AA BB, or AB AB?
+ - Do you put the toilet paper on the roll so that the paper comes from over the roll or under the roll?
+ - Nutella – with or without butter underneath?
 
-**Guidelines**:
-
-Crush Sessions are usually a good opportunity to "crush" the FRT/NRT queues by working on tickets using a top down approach. E.g., the group picks up the next ticket closest to a breach and works together to drive it toward a resolution.
-Crush Sessions are **not** meant as a substitute for monitoring our FRT/NRT queues throughout the day. Tickets can and certainly will breach between crush sessions if we don't monitor our queues during our respective work hours. 
-
-Unassigned tickets will be assigned based on a round robin of the attendants, their support region, and current capacity. The standard [Working on Tickets](../../../workflows/working-on-tickets.html) workflow still applies. 
-
-_**These are just guidelines**_. If you feel overloaded, you should opt out of the round robin and remain in the crush session to assist. Let your colleagues know as you join the Crush Session, e.g., "I can't take on tickets today, but I'd love to help with internal comments and the like."
-
-**Location**:
-
-These meetings will be held in the Gingko Collab Room, which can be found in the bookmarks of Our Slack Channel, [#spt_gg_ginkgo](https://gitlab.slack.com/archives/C0354N9B14G).
-
-#### Slack notifications
+### Slack notifications
 
 To update your notification settings on Slack:
 1. In Slack, right click on our channel [#spt_gg_ginkgo](https://gitlab.slack.com/archives/C0354N9B14G)
