@@ -44,6 +44,56 @@ The survey factors for FY19 through FY21 were as follows with each section inclu
 1. Section 10: Action
 1. Section 11: Comments (Free Text)
 
+### FY'23 Pulse Engagement Survey
+
+#### FY'23 Pulse Engagement Survey Timeline
+
+- 2022-05-16: Pulse Survey launch
+- 2022-05-25: Pulse Survey close
+- 2022-06-14: Results shared with e-group
+- 2022-06-21: Managers with 5+ responses receive reports via Culture Amp
+- 2022-06-21 through 2022-07-04: Leaders/Managers review their reports and discuss/brainstorm action plans in Staff/team meetings 
+- 2022-06-28 and 2022-06-29: Results shared company-wide at GitLab Assembly
+- 2022-07-30: Finalize Action items and document in epics/issues
+- 2022-08-01: Functional action plans added to FY'23 Q1 OKRs and Division epics
+
+
+#### Taking Action
+
+Once the GitLab Team Member Engagement Survey has been closed out, reports will be dissementated to the E-Group and Divisional Heads for review i.e. only those with team populations >5. These will form the basis of discussion when collaboratively compiling the people strategy for year ahead in conjunction with additional data such as attrition reports etc.
+
+##### Timeline for Action Planning
+
+- Each E-Group member will in collaboration with their respective People Business Partner (PBP) to identify one or two acton items to initiate coming out of the results review - these will be tracked and managed within CultureAmp moving forward using the [Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework).
+- After action items have been identified at the E-Group level, all managers who received an engagement survey result report (AKA: managers with 5+ direct reports who responded to the survey) will also be asked to create an action plan in Culture Amp.
+- A manager may choose to align their action planning to their leader or division or they may choose to add a specific and separate action for their team. This will likely depend on the size/structure of the organization.
+
+##### Using Epics and Issues to Create an Action Plan
+
+For the FY23 Engagement Survey, all divisions are recommended to create an Epic to store Engagement Survey Action Issues. Every Division should create an Epic that gives an overview of the engagement survey results that includes: highlights, lowlights, recommended actions, and resources. Epic's can be created in division issue boards or projects that are applicable to the organization.
+
+In addition, Managers can create an Engagement Survey Action Issue that links to the division wide epic. In the Issue, managers can link team wide actions to the division.
+
+See the [example epics](https://about.gitlab.com/handbook/people-group/engagement/#taking-action) from FY22 for inspiration.
+
+**FY23 Division-Wide Engagement Survey Action Epics:**
+
+- Engineering
+- Product
+- Sales
+- Marketing
+- Finance
+- People
+- Legal
+
+#### Resources for Managers
+
+[Engagment Survey Manager Toolkit - GitLab Learn pathway](https://gitlab.edcast.com/pathways/engagement-survey-manager-toolkit)
+
+[Managers Guide to Taking Action](https://academy.cultureamp.com/hc/en-us/articles/207302419-Manager-s-guide-to-taking-action-on-Engagement-survey-results)
+
+[Take Action with Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework)
+
 ### FY'22 Pulse Engagement Survey
 
 #### How We Determine "Pulse" Survey Questions
