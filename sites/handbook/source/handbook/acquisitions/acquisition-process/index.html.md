@@ -192,8 +192,8 @@ An acquisition team will consist of the following GitLab functional team members
 1. Director of Tax
 1. Principal Accounting Officer
 1. Legal team member
-1. HR Business Partner
-1. People Ops Business Partner
+1. VP, People Operations
+1. People Business Partner
 1. Recruiting manager
 1. VP of Security
 
@@ -210,7 +210,7 @@ To assign the engineering team member, contact the engineering manager of the re
 | Engineering                 | 1. Technical diligence                                                                                                                                             | 1. Code quality review 1. Integration strategy validation - feasibility and timeline |
 | Finance                     | 1. Lead financial diligence <br>2. Validate business case and deal structure                                                                                           |                                                                                      |
 | Legal                       | 1. Review entity, assets and existing agreements <br>2. Evaluate sunset and customer transition path                                                                   | 1. Term Sheet 1. Acquisition agreement                                               |
-| People Ops Business Partner | 1. Lead the compensation review <br>2. Lead the interview process during the early and due diligence stages to completion                                              |                                                                                      |
+| People Group | 1. Maintain SSOT for team member data <br>2. Lead the compensation review <br>3. Lead the interview process during the early and due diligence stages to completion 3. Lead and assess successful team member integration in partnership with business                                                                    | 1. Team Member Offers of employment<br>2. Onboarding experience <br>3. Post acquisition survey and action planning                                             |                                                                                      |
 |Security|1. Identify and summarize Security Risk Posture as part of Early Diligence <br>2. Perform Application Security review|1. Security Risk summary detailing the security risk impacts to GitLab|
 
 ## Acquisitions Are Confidential
