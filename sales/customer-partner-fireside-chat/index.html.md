@@ -74,6 +74,8 @@ The moderator will lead the curation of the agenda, by modifying questions in ad
 
 The moderator should plan to have at least 2-3 questions ready to help start the discussion and may choose to alter the questions based on the customer/partner's response. The moderator may choose to sync with the account team, or executive account sponsor to learn more about their guest or solicit feedback from key stakeholders on the agenda.  
 
+Questions from team members will be curated based on previously answered questions directly or indirectly by the speaker and those that have not been addressed.
+
 ### Sample Topics / Questions 
 
 As purely an example, consider asking any of the questions or topics below to the Customer/Partner.
