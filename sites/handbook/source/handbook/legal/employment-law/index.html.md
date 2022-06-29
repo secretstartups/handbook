@@ -142,7 +142,11 @@ Work rules vary for team members across our organization based on their location
 
 <details>
   <summary markdown="span">PTO</summary>
-At GitLab, we have a Don’t Ask, Do Tell policy, but we ask that you do be transparent and intentional about the time that you take and that you monitor your team members to ensure (1) that they’re taking enough time, (2) that coverage still exists when they take the time, and (3) that if they are taking what seems to be excessive time, you find out why.  It could be that they have a reason that they actually need to take leave.
+At GitLab, we have a [Flexible PTO policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off), but we ask that you do be transparent and intentional about the time that you take, and that you monitor your team members to ensure that:
+
+1. They’re taking enough time
+1. Coverage still exists when they take the time
+3. If they are taking what seems to be excessive time, you find out why.  It could be that they have a reason that they actually need to take leave.
 </details>
 
 <details>
