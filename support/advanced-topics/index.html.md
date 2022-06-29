@@ -24,13 +24,13 @@ Try to pick what the team needs most, thinking back to recent tickets you were n
 
 #### Earn the Expert badge by completing any of these modules
 
-- [Docker](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Docker.md)
-- [Geo](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Geo.md)
-- [Kubernetes](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Kubernetes.md)
-- [GitLab CI](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/CI.md)
-- [GitLab API](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/API.md)
-- [LDAP](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/LDAP.md)
-- [High Availability](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/HA.md)
+- [Docker](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Docker)
+- [Geo](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Geo)
+- Kubernetes [Part 1](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Kubernetes%20Part%201) and [Part 2](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Kubernetes%20Part%202)
+- [GitLab CI](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Continuous%20Integration)
+- [GitLab API](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab%20API)
+- [LDAP](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=LDAP)
+- [High Availability](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Scaled%20And%20High%20Availability)
 - [Git LFS Docs](https://docs.gitlab.com/ee/topics/git/lfs/index.html)
 - [Migrate from SVN to Git Docs](https://docs.gitlab.com/ee/user/project/import/svn.html)
 - [GitLab Pages Docs](https://docs.gitlab.com/ee/administration/pages/index.html)
