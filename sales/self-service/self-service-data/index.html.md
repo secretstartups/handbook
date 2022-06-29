@@ -44,6 +44,7 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 
 ### Quarterly Prioritization List
 
+- [View List](https://docs.google.com/spreadsheets/d/1vGrQ6kZhXeHtYcep7c3MIu1k6KZMCKnYEF1C_zvsoq8/edit#gid=1276538540)
 
 ### Quarterly Work: Weekly Progress
 
@@ -76,7 +77,7 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 ## How we prioritize ad hoc requests
 The more points the better!
 
-1. Can this question be incorportated into existing OKR? If yes, +3
+1. Can this question be incorporated into existing OKR? If yes, +3
 2. Ease of ability to answer question (+0 = 8+ hours; +1 = 4-8 hours; +2 = 2-3 hours; +3 = 1 hour or less)
 3. Priority (High = +3, Medium = +2, Low = +1)
 4. Is an c-suite member asking for this? If yes, +2
