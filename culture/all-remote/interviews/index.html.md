@@ -91,6 +91,18 @@ Pick a neutral location that is quiet and comfortable. That way, neither you nor
 
 To help make a great first impression, prepare by researching the company and reviewing their [handbook and values](/handbook/). Practice answering some [sample interview questions](handbook/hiring/interviewing/#what-to-expect-during-an-interview-with-a-recruiter) live with a peer or by recording yourself or practicing in a mirror.
 
+## What traits do remote interviewers look for?
+
+In an [all-remote](/company/culture/all-remote/hybrid-remote/#all-remote-upgrade) organization, each individual is empowered to [work and live](/company/culture/all-remote/people/) where they are most fulfilled.
+
+During the interview phase, it's vital to get an understanding of how a potential employee understands and plans to participate effectively in remote work. To be a great remote worker, potential hires should be:
+
+- able to work [asynchronously](/company/culture/all-remote/asynchronous/) 
+- self-disciplined and able to be a [manager of one](/handbook/values/#managers-of-one)
+- comfortable with remote communication, much of which is [communicated through text](/company/culture/all-remote/effective-communication/)
+- ready to engineer an [optimal workspace](/company/culture/all-remote/workspace/)
+- able to focus and pinpoint both [when and where you prefer to work on a daily basis](/blog/2019/09/12/not-everyone-has-a-home-office/)
+- prepared to create work/life boundaries and balance in a [work from anywhere scenario](/blog/2018/05/11/day-in-life-of-remote-sdr/)
 
 ## What are some tips for succeeding in a remote interview?
 
