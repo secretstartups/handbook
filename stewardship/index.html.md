@@ -26,7 +26,7 @@ We promise that:
 1. We won't introduce features into the open source codebase with a fixed delay, if a feature is planned to land in both it will be released simultaneously in both.
 1. We will always release and open source [all tests](https://techcrunch.com/2012/08/18/oracle-makes-more-moves-to-kill-open-source-mysql/) that we have for a open source feature.
 1. The open source codebase will have all the features that are essential to running a large 'forge' with public and private repositories.
-1. The open source codebase will not contain any artificial limits (repositories, users, size, performance, etc.).
+1. The open source codebase will not contain any artificial limits (repositories, users, size, performance, [requiring a trademarked header](https://news.ycombinator.com/item?id=28110610), etc.).
 1. All stages of the DevOps lifecycle (plan, create, verify, package, release, configure, monitor) will have some open source features.
 1. The majority of new features made by GitLab Inc. will be open source.
 1. The product will be available for download from a link above the fold on the desktop homepage without you having to submit an email address or sign in.
