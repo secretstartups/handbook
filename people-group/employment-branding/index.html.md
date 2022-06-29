@@ -218,6 +218,8 @@ We're hiring across the company. Check out our opportunities: https://about.gitl
 
 ## Employer awards and recognition
 
+Our talent brand team evaluates employer awards and recognition to determine if there are particular awards that, if won, will help us to better attract talented people to want to join GitLab. We also see employer awards as a way to benchmark ourselves against our talent competitors, we want to know how credible third-party organizations rate us against our peers to ensure we continue to be a great place to work.
+
 Check out the content library for a [list of the latest awards and recognition](/handbook/people-group/employment-branding/content-library/#awards-and-lists-recognizing-gitlab-as-a-great-place-to-work) related to working at GitLab.
 
 ### How we apply for employer and workplace awards
@@ -225,6 +227,15 @@ Check out the content library for a [list of the latest awards and recognition](
 We partner closely with the Corporate Marketing team to apply for and track employer awards and recognition each year. More details and our process for applying to these awards can be found [on this page](https://about.gitlab.com/handbook/people-group/employment-branding/awards-process/).
 
 These awards are important to GitLab's talent brand beacuse they raise awareness for why GitLab is such a unqiue place to work.
+
+### How we choose employer and workplace awards to apply for
+
+There are several different reasons why we may choose to apply for a particular employer or workplace award. The top reasons we apply for various awards include:
+
+1. **Credibility from a trusted outlet:** Establishing GitLab as a great place to work means securing notable awards from outlets that are seen as credible outlets. Outlets like Fortune, Inc., and Quartz are great examples of well-know, trusted outlets.
+1. **Alignment with our unique operating style:** As an all-remote company, we look for awards that will help elevate GitLab within communities that evangelize remote work.
+1. **Alignment with key markets and talent pools:** While we operate as a global company, certain awards associated with markets known for over-indexing on tech talent, and where we have a critical mass of over 100 team members, are often within our consideration set. As a result, we may submit for localized awards in specific cities or countries like the San Francisco Bay Area, the US, the UK, or Germany to show that we are a great place to work in the most competitive talent markets.
+
 
 ## All-remote work
 
