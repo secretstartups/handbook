@@ -23,7 +23,9 @@ Documenting in the handbook before taking an action may require more time initia
 
 This process is not unlike writing tests for your software. Only communicate a (proposed) change via a change to the handbook; don't use a presentation, email, chat message, or another medium to communicate the components of the change. These other forms of communication might be more convenient for the presenter, but they make it harder for the audience to understand the context and the implications for other potentially affected processes.
 
-Having a **"handbook first"** mentality ensures there is no duplication; the handbook is always up to date, and others are better able to contribute.
+Having a **"handbook first"** mentality ensures there is no duplication; the handbook is always up to date, and others are better able to contribute. 
+
+Beyond being "handbook first," we are also "public handbook first." When information is [internal-only](/handbook/communication/#internal), it should be captured in the internal handbook, but we default to the public handbook for anything that can be [made public](/handbook/communication/#not-public). This ensures that everyone has access to any information that can be [SAFEly](/handbook/legal/safe-framework/) shared. This supports the GitLab [values](/handbook/values/), including transparency, efficiency, and results. It also protects against the internal handbook becoming a home for information that should otherwise be public or a conflicting or duplicative source of truth.
 <!-- blank line -->
 
 <figure class="video_container">
@@ -151,10 +153,12 @@ In an all-remote, asynchronous organization, each team member should practice ha
 - Actively contributes to the handbook.
 - [Everything starts with a merge request](/handbook/communication/#everything-starts-with-a-merge-request)
 - Provides links information from the handbook when answering questions and if the information doesn't exist in the handbook, then the team member adds it.
+- Understands which information is internal-only, but puts all public information in the public handbook.
 
 **Skills and behaviors of handbook first as a People Leader**:
 
-- Holds their team and others accountable for being handbook first
+- Holds their team and others accountable for being handbook first.
+- Demonstrates leadership in being public handbook first with all information that is not internal-only.
 - Enables new team members and managers on how to leverage the handbook as a resource.
 - Serves as a role model for what it means to be handbook first.
 
