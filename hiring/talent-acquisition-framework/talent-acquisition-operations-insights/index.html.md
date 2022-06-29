@@ -43,7 +43,7 @@ Sourcing Team only - please contact the Sourcing Manager.
   Guide by Resource.io
   </summary>
 
-Please [contact the People Technology & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
+Please [contact the Enablement Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
 
 </details>
 
@@ -52,7 +52,7 @@ Please [contact the People Technology & Insights Team](https://gitlab.com/gl-tal
   Interview Schedule
   </summary>
 
-Please [contact the People Technology & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
+Please [contact the Enablement Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
 
 </details>
 
@@ -147,51 +147,10 @@ The People Technology & Insights team audits users and access level permissions 
 ----
 ### Reporting
 
-To note: When preparing reports, please be mindful that **not** all roles are subject to a `Location Factor`. However, despite a role **not** being subject to one, we will still report it. The reason being is to have a comprehensive view of `Location Factors` in our hiring efforts. To accommodate this, two averages will be calculated; one of the overall average that **includes** all roles and another that **excludes** the roles where it is not applicable.
-
-Please see the list below of roles where `Location Factor` is **not** applicable:
-
-<details>
-  <summary markdown='span'>
-  Roles Where Location Factor is Not Applicable
-  </summary>
-
-  * Account Executive - Mid-Market
-  * Area Sales Manager
-  * Channel Sales Manager
-  * Channel Services Manager
-  * Inside Sales Representative
-  * Junior Account Executive - Mid-Market
-  * Junior Channel Sales Manager
-  * Junior Strategic Account Leader
-  * Manager, Public Sector Inside Sales
-  * Public Sector Area Sales Manager
-  * Public Sector Channel Manager
-  * Public Sector Strategic Account Leader
-  * Regional Sales Directors
-  * Sales Development Representative (IC and Management)
-  * Senior Channel Sales Manager
-  * Senior Channel Sales Manager
-  * Senior Inside Sales Representative
-  * Senior Strategic Account Leader
-  * SMB Customer Advocate
-  * Strategic Account Leader
-
-</details>
 
 #### Monthly Metrics Reports
 
 The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse. Some of the reports are automated and are available in Sisense dashboards. The following is a list of those reports and their respective links, where applicable.
-
-<details>
-  <summary markdown='span'>
-  Diversity Data
-  </summary>
-
-* **System**: BambooHR
-* **Instructions**: Pull and export the report into a *private* Google Sheet. **Add** a column for `Region` next to `Country` and assign the appropriate region (e.g. APAC, EMEA, LATAM, or NORAM) formulaically. **Create** a pivot table to record the following information: Age, Country, Ethnicity, Gender, and Region. This data is used to update the [Identity Data](https://about.gitlab.com/company/culture/inclusion/identity-data/) page.
-
-</details>
 
 <details>
   <summary markdown='span'>
@@ -255,15 +214,6 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
 
 </details>
 
-<details>
-  <summary markdown='span'>
-  Discretionary Bonuses
-  </summary>
-
-* **System**: Sisense
-* **Dashboard**: [Discretionary Bonuses Overview](https://app.periscopedata.com/app/gitlab/507956/Discretionary-Bonuses-Overview)
-
-</details>
 
 <details>
   <summary markdown='span'>
@@ -411,68 +361,11 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
 
 </details>
 
-<details>
-  <summary markdown='span'>
-  Weekly People Overview
-  </summary>
-
-* **System**: BambooHR
-* **Reports**:
-    * Additions & Terminations
-    * Current Team Members
-    * Terminations
-* **Instructions**: 
-* **Open the spreadsheet with last week's RAW data.  The file is typically called [RAW] Weekly People Overview as of 2021-0x-xx.  Make a copy with the date to reflect next Sunday's date.   Move Upcoming Week Dates into Last Weeks Actuals.  Update 'Upcoming Week Dates' as well as other dates within the column headers.
-* **Pull the listed reports from BambooHR and import them into a Google Sheet. Additionally, split the Marketing and Sales divisions as follows for **all** tabs: `Marketing (SDR)` for *Sales Development* roles, while everything else is `Marketing`; `Sales (NQR)` for *Commercial-* and *Enterprise Sales* roles, while everything else is `Sales (Non-NQR)`.
-    * **Additions & Terminations**
-        1. Pull the report with the Date Range = `Start of the Current Fiscal Year` to `Plus 8-months from the Current Month`.
-            * **Additions Tab**
-                * Add a column after `Hire Date` and call it `Start Status` (Column H).
-                * If the 'Hire Date' was during the 'Last Week', enter "Last Week Hires".  If the `Hire Date` is in the coming week, enter *Upcoming Week Hires*. If the `Hire Date` is in future week, enter *Accepted Not Started (or ANS)*. Enter *Hired* for all other `Hire Dates`.
-                * Create a separate tab for a pivot table and count the number of additions by `Hire Date` and division.
-                * Create another pivot within that tab to count the number of *Upcoming Week Hires* for the current week and all *Accepted Not Started* by divison.
-            * **Terminations Tab**
-                * Add a column after `Termination Date` and call it `Week Ending` (Column I).
-                * Enter the week end date (i.e. Sunday) in the ISO date format for any terminations in the current- or following week.
-                * Look up the `Termination Type` and `Exit Impact` in BambooHR on the departing Team Member's profile and include this is the **Talent Out (Regrettable/Non-Regrettable)** chart.
-    * **Current Team Members**
-        1. Pull the Current Team Members reports.
-        1. Insert a column to the right of `Hire Date` and call it `FYXX-QX` (Column B).
-            * Enter the corresponding quarter for the given `Hire Date` for hires in current and previous Fiscal Years.
-        1. Create a pivot table to count the number to Team Members by division.
-            * Update the bar chart to showcase how the company size has change over the last four quarters.
-    * **Talent Out (Regrettable/Non-Regrettable)**
-        1. Insert a column to the right of `Termination Date` and call it, `Weeking Ending` (Column D).
-        1. Create a pivot table and split the data by `Termination Type` and `Division` and `Exit Impact`.
-        1. Create a table from which build a stacked bar chart comparing how many terminations there were in the previous- and current weeks.
-    * **Update the [Weekly People Overview](https://docs.google.com/spreadsheets/d/1L8Hl301wDqJlGg8JyxHdpa4DZdttuaX23-BRyWruMA4/edit#gid=0) sheet with the data.**
-        * The main columns of the table are as follows:
-            * Division, Talent In & Talent Out for Last Week, Talent In & Talent Out for the Current Week, Headcount, Headcount including *Accepted Not Started*, Planned Headcount at Month End, *Future Terminations*, Headcount Difference, and Headcount Difference including *Accepted Not Started*.
-
-</details>
-
-<details>
-  <summary markdown='span'>
-  Ad Hoc Report
-  </summary>
-
-For an Ad Hoc report, please [create an Issue](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issuable=Report%20Request) using the `Report Request` template.
-
-</details>
-
-----
-
-### Vendor Contracts and Renewals
-
-If a new vendor is being considered or, when a vendor contract is up for renewal, please [open an Issue](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issue) using the `Vendor Contract Request or Renewal` template. Please open this as early as possible so that there's ample time for benchmarking quotes and engaging in negotiations, if need be. A quote, while helpful, is **not**  needed prior to opening an Issue.
-
-In the Issue, please provide the requested information and as much detail as possible. For example, what the service is for, how many licenses will be needed, and the like. With that, the Talent Acquisition Operations & Insights will takeover and prepare either a [Procurement Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new) for approval and see to its conclusion.
-
 ----
 
 ### Common Issues
 
-The People Technology & Insights team utilizes [People Technology & Insights Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Talent Acquisition's systems.
+The Enablement team utilizes [Enablement Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Talent Acquisition's systems.
 
 <details>
   <summary markdown='span'>
