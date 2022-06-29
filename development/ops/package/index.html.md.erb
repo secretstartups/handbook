@@ -384,11 +384,20 @@ To best understand how users use the GitLab package registry, when building and 
 
 #### File uploads
 
-The package features regularly deal with file uploads. When testing these features locally using an environment like GDK, it is recommended to test changes using the default local storage configuration, but also using a cloud service for object storage. GCP is recommended when trying to best recreate the environment GitLab.com is running. For highest confidence in features working with uploads, testing using local storage, Minio, GCP, AWS S3, and Azure is recommended. The GDK docs have [instructions on how to configure for each of these providers](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/configuration.md#object-storage-config).
+Package's features regularly deal with file uploads. When testing these features locally using an environment like GDK, it is recommended to test changes using the default local storage configuration, but also using a cloud service for object storage. GCP is recommended when trying to best recreate the environment GitLab.com is running. For highest confidence in features working with uploads, testing using local storage, Minio, GCP, AWS S3, and Azure is recommended. The GDK docs have [instructions on how to configure for each of these providers](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/configuration.md#object-storage-config).
 
 #### End to End Testing
 
 The Package team uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](https://about.gitlab.com/handbook/engineering/development/ops/package/quality) for how our team is leveraging these tests.
+
+#### HackyStack
+
+[HackyStack](https://gitlab.com/gitlab-com/business-technology/engineering/tools/hackystack) is an open source cloud infrastructure management and orchestration platform for ephemeral demo, sandbox, testing, and training environments.
+
+The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox) is GitLab's deployment of HackyStack that is used by GitLab team members. See the handbook page for more details.
+
+The Package team uses this platform to set up its epehemeral demo sandbox environment that launches an Omnibus instance with an active Container Registry and a project that can trigger multiple images/tags leveraging our CI capabilities.
+Insrtuctions on how to use it can be found [here](https://about.gitlab.com/handbook/engineering/development/ops/package/quality). 
 
 ### Code Review
 
@@ -414,11 +423,6 @@ The Package team has a goal of shipping enterprise grade software with a focus o
 * Frequently [reviewing the code coverage](https://gitlab.com/gitlab-org/gitlab/-/issues/284185) across our functional areas (GoLang, Ruby, Frontend) and addressing low scoring areas as needed.
 
 * Actively reviewing [Triage reports](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#triage-reports) and working with our Product Manager to prioritize bugs or regressions.
-
-#### Risk Mapping
-
-To better understand the risk environment and each risk's causes and consequences, the Package team uses the [Risk Mapping Tool](https://about.gitlab.com/handbook/engineering/development/ops/package/risk-map/) as their risk management tool to stratigically prioritise mitigation and increase Quality.
-
 
 
 ### Community Contributions

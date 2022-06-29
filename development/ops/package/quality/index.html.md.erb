@@ -12,6 +12,7 @@ title: Package Group - GitLab Quality Assurance End-to-End Testing for the Packa
 ## Overview
 
 The goal of this page is to document how the package group uses the [GitLab QA framework](https://gitlab.com/gitlab-org/gitlab-qa) ([video walkthrough](https://www.youtube.com/watch?v=eP1esI-o_0o)) to implement and run [end-to-end tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/).
+It also provides instructions on how to use HackyStack for demo purposes.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/PHvZxvHxwXw" frameborder="0" allowfullscreen="true"> </iframe>
@@ -255,3 +256,20 @@ Please reach out to [your counterpart SET](https://about.gitlab.com/handbook/eng
 - [GitLab QA orchestration tool](https://gitlab.com/gitlab-org/gitlab-qa)
 - [Run QA tests against your GDK setup](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/run_qa_against_gdk.md)
 - [Beginner's Guide to writing End-to-End tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/beginners_guide.html)
+
+## Using HackyStack
+
+For ephemeral demos which require an Omnibus instance with an active Container Registry and a project with multiple images/tags automatically provisioned,
+we have available a sandbox environment that can be launched and destroyed on demand. To use it:
+
+1. Login to `https://gitlabsandbox.cloud`
+2. Select Cloud Account ID `dev-package-container-96a3ff34``
+3. Take note of your credentials on the View Credentials tab
+4. Click on the Play icon for the `f88b66c5 svistas` environment
+5. Input your credentials to access the HackyStack environment
+6. Run a CI/CD pipeline (Note that `Deploy` is a manual action that needs to be manually triggered after `Validate` runs)
+7. Click on the `Deploy` job after it passes to obtain the URL and access credentials to the demo Omnibus instance
+8. Open the `demo-project`
+9. The environment can be destroyed by returning to the HackyStack environment and manually triggering the `Destroy` job
+
+
