@@ -37,11 +37,12 @@ description: How to manage plan/license escalations
     - Use the [`Manage GitLab Plan and Trials`](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#update-gitlab-subscription-or-customer-trial) option in the Zendesk Mechanizer App. 
     - This option [extends an active or expired trial](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials) in the namespace. But it cannot start a new trial.
     - The mechanizer will fail if the namespace has never had a trial. However, you can use a [subscription to create a trial](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials) and extend it as needed. 
-1. Has the group been downgraded to Free plan?
+1. Is the customer's (paid) group unexpectedly on a Free plan?
     - **Always try to get the L&R team to assist first.**
-    - If it is an emergency, use the [`Manage GitLab Plan and Trials`](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#update-gitlab-subscription-or-customer-trial) option in the Zendesk Mechanizer App
+    - NOTE: In some cases, the customer can first try to [associated their (new) subscription with their namespace](/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html#customer-self-serve-associating-the-subscription-and-namespace). 
+    - If it is an emergency, use the [`Manage GitLab Plan and Trials`](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#update-gitlab-subscription-or-customer-trial) option in the Zendesk Mechanizer App.
     to temporarily set the namespace on another trial at the desired plan level.
-    - The mechanizer will fail if the namespace has never had a trial. However, you can use a [subscription to create a trial](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials) and extend it as needed. 
+    - NOTE: The mechanizer will fail if the namespace has never had a trial. However, you can use a [subscription to create a trial](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials) and extend it as needed. 
 
 ## How to decide the validity of an escalation
 
