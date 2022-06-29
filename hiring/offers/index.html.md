@@ -12,7 +12,7 @@ description: "This page is an overview of the processes of offering a candidate 
 
 ## Offers
 
-Before an offer is created, ensure the approval should go through [Greenhouse or BambooHR](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process).
+Before an offer is created, ensure the approval should go through [Greenhouse or Workday](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process).
 
 ### Offer Package in Greenhouse
 
@@ -89,9 +89,10 @@ Information in the offer package for counter offers should include the following
 1. The Total Rewards team will receive an email notifying them of the offer.
    * The Total Rewards team will run the following analysis:
      * Ensure the compensation is in line with our compensation benchmarks
+     * Ensure the bonus percentage, if applicable, matches bonus percent amount. For bonus/commission, this will be a percent of    OTE. For Director level bonus, this will be a percent of base. 
      * Audit stock options, department, division, etc.
      * Add entity, job code, job grade, sales geo differential
-     * Ensure the title is added to BambooHR.
+     * Ensure the title is added to Workday.
    * Only one approval is needed in order to move forward.
    * If the hire is not in a low location factor area above 0.9, the e-group member responsible for the function and the CFO will be notified.
 1. Next, The Financial Planning Analyst will receive a notification to approve.
