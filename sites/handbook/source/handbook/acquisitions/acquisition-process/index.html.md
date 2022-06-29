@@ -92,7 +92,7 @@ The process is comprised of four key stages:
             - Results of security reviews the entity has performed over it's current vendors
 1. Early technical diligence:
     1. In case the target company has open source components, the respective Dir. Engineering (dependent on GitLab stage) will start an early code review to determine: code quality, development practices, contributions, license compliance and more. That should be turned around within 2-3 business days.
-    1. Hands-on product and code screen-share session (2 hours): the technical lead, as assigned by the respective Engineering champion, together with the respective Product champion will lead a screen-share session aimed at a hands-on validation of the product functionalities and an overview of the code. The objectives and agenda for the call are:
+    1. Technical call: a hands-on product and code screen-share session (2 hours) in which the technical lead, as assigned by the respective Engineering champion, together with the respective Product champion will lead a screen-share session aimed at a hands-on validation of the product functionalities and an overview of the code. The objectives and agenda for the call are:
         1. Objectives:
             1. Technically validate the functionalities and competencies of the product which have been presented throughout our process thus far
             1. Conclude a high level evaluation of the complexity and quality of the solution
