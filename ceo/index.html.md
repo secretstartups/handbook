@@ -117,6 +117,18 @@ Sometimes I will ask to be kept apprised of an action item or follow up. One com
 
 I get a lot of @ mentions in Slack, often when I'm being discussed. Please only @ mention me when you need me to see something or approve something, when you just want to refer to me you can just say Sid. This saves time and enables increased efficiency.
 
+### Communicating Merge Requests
+
+Please follow these steps if you'd like me to review a [Merge Request (MR)](https://docs.gitlab.com/ee/user/project/merge_requests/) for approval:
+
+1. Write the MR
+1. Have the MR reviewed by a peer or your manager if you'd like early feedback
+1. When the MR is ready for my review
+   1. Add @sytses as a `Reviewer` to the MR
+   1. Post to the [#ceo](https://app.slack.com/client/T02592416/C3MAZRM8W) Slack channel, `@` mentioning me asking for my review. Please provide a brief description sharing the [context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication).
+1. After my approval is given merge the MR if I have not
+
+
 ### Please chat me the subject line of emails
 
 I prefer other forms of communciation (e.g. slack) over email. I get a lot of email and I'm frequently not on top of it.
