@@ -415,6 +415,17 @@ For out-of-network services: 365 days from Date of Service.
 ### Basic Life Insurance and AD&D
  
 GitLab offers company paid basic life and accidental death and dismemberment (AD&D) plans through Cigna. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage. Please find addtional details, limitations, and exclusions on the [summary of benefits](https://drive.google.com/file/d/1rkA8n3zgZvnoiqzu3ZJuLwZ_9zMaNbZW/view?usp=sharing).
+
+#### Employee Assitance Program
+
+Under the New York Life Group Benefit, US Team Members also have access to the New York Life Employee Assistance Program. The Program includes:
+
+* Visits with a specialist: 3 face to face sessions with a behavioral counselor
+* Legal Consultations and referrals: a free 30 minute consultation with a network attorney and up to 25% discount on select fees
+* Financial Consultations: a free 30 minute consultation and a 25% discount on tax planning and preparation 
+* An advocate that can help assess your needs, develop solutions, direct you to resources and more! 
+
+For more information and how to access these benefits, please see the [EAP flyer](https://drive.google.com/file/d/181Qgz8Iwsifztwan8DxVvC2X5Mgis00m/view)
  
 ### Group Long-Term and Short-Term Disability Insurance
  
