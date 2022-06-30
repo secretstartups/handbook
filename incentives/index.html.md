@@ -43,7 +43,7 @@ Discretionary bonuses are measured in BambooHR, as are the number of team member
 1. Every now and then, individual GitLab team members really shine as they live our values.  We especially like to celebrate the special moments that exemplify the behavior we want to see in all GitLab team members.
 1. We recognize this through the #thanks channel, and sometimes also through a discretionary bonus.
 1. [Anybody can recommend a discretionary bonus for a GitLab team member to the GitLab team member's manager using the Nominator Bot](/handbook/incentives/#process-for-recommending-a-team-member-for-a-discretionary-bonus) for a $1,000 at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates). The exception is that direct reports cannot nominate their manager or anyone in their management chain for a discretionary bonus.
-1. Only [GitLab team members](https://about.gitlab.com/handbook/people-group/employment-solutions/#team-member-types-at-gitlab) are eligible to receive a discretionary bonus / working group bonus. Hence, `Temporary Contractors` (Not included in GitLab Team Member Types) are not eligible for discretionary bonus / working group bonus. Any such nominations for the temporary contractors will not be approved by the People Connect team.
+1. Only [GitLab team members](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab) are eligible to receive a discretionary bonus / working group bonus. Hence, `Temporary Contractors` (Not included in GitLab Team Member Types) are not eligible for discretionary bonus / working group bonus. Any such nominations for the temporary contractors will not be approved by the People Connect team.
 1. We are fixing this amount at $1,000 thoughtfully and purposefully. We want the focus to be on the value and the behavior, not on the perceived monetary impact to GitLab. This is about recognition.
 1. A general guideline is that 1 in 10 team members might receive a discretionary bonus each month. This can vary greatly as we don't give out bonuses just to hit a quota, nor would we hold one back because a certain number had already been awarded.
 1. There is no limit to the frequency with which someone can receive a bonus. If someone deserves a bonus a day after being nominated for one we should do a second one.
@@ -51,7 +51,7 @@ Discretionary bonuses are measured in BambooHR, as are the number of team member
 1. As with other bonuses, only active GitLab team members can be nominated to receive discretionary bonuses.
    Should a nominated team member leave GitLab, they will not receive a discretionary bonus.
    It's at the discretion of the manager if they still want to publicly recognize the team member's behavior for the nomination.
-1. Only individuals in good standing with the company are eligible for discretionary bonuses (I.E. not currently undergoing [underperformance remediation](https://about.gitlab.com/handbook/leadership/underperformance/)). If a team member receives a discretionary bonus nomination during a period of underperformance remediation, managers should wait until the underperformance remediation period concludes successfully before determining whether to admit the discretionary bonus request.
+1. Only individuals in good standing with the company are eligible for discretionary bonuses (I.E. not currently undergoing [underperformance remediation](/handbook/leadership/underperformance/)). If a team member receives a discretionary bonus nomination during a period of underperformance remediation, managers should wait until the underperformance remediation period concludes successfully before determining whether to admit the discretionary bonus request.
 
 #### Valid and Invalid criteria for discretionary bonuses
 
@@ -84,7 +84,7 @@ In particular, X's implementation of a Global Navigation and GitLab iconography 
 * I’d like to nominate X for a discretionary bonus for exhibiting the values for results, efficiency, and collaboration. While the whole backend engineers in the X team were OOO, despite it wasn’t his team, X stepped in and handled a problem (link) that was blocking a deploy. X was able to debug the problem, not an easy one by the way, communicate it to the different counterparts, and also fix it. X also spotted that it could affect other features and provide a way to fix them as well.
 
 * I am nominating X for the values efficiency and results for the Nominator Bot. This bot assists us to nominate a team member for Discretionary Bonus without logging into BambooHR. This new bot speeds up the process probably by half the time it took to get approvals (for both me that administers the process and managers for approval) and directly now impacts our PI to increase discretionary bonuses. X is managing all the debugging and going above and beyond to solve any problems, without anyone asking X or having to follow up and this is out of scope of "just building a nominator" bot.
-You can read more about the process in [our handbook](https://about.gitlab.com/handbook/incentives/#nominator-bot-process)
+You can read more about the process in [our handbook](/handbook/incentives/#nominator-bot-process)
 
 *Examples of invalid discretionary bonus*
 
@@ -98,7 +98,7 @@ You can read more about the process in [our handbook](https://about.gitlab.com/h
 
 > to do more or better than would usually be expected of you
 
-What do we normally expect of a GitLab team member? Read their job family responsibilities to determine if their work is part of the normal job expectations. As an example, a senior Frontend developer is expected to [solve technical problems of high scope and complexity.](https://about.gitlab.com/job-families/engineering/development/frontend/#senior-frontend-engineer). Going above and beyond involves taking on work that is outside the scope of their job responsibility listing, and executing it to a high level.
+What do we normally expect of a GitLab team member? Read their job family responsibilities to determine if their work is part of the normal job expectations. As an example, a senior Frontend developer is expected to [solve technical problems of high scope and complexity.](/job-families/engineering/development/frontend/#senior-frontend-engineer). Going above and beyond involves taking on work that is outside the scope of their job responsibility listing, and executing it to a high level.
 
 Some tips for knowing if someone is going above and beyond:
 
@@ -276,10 +276,10 @@ The Values Awards details:
  
 #### Values Award Descriptions
 #### [Collaboration](/handbook/values/#collaboration) Award
-To achieve results, team members must work together effectively. The value award for [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) should be awarded to a team member that made helping others a priority and went above and beyond in ways that led to tangible results. This can come in the form of for example: giving feedback effectively, sharing, reaching across company departments or short toes. 
+To achieve results, team members must work together effectively. The value award for [Collaboration](/handbook/values/#collaboration) should be awarded to a team member that made helping others a priority and went above and beyond in ways that led to tangible results. This can come in the form of for example: giving feedback effectively, sharing, reaching across company departments or short toes. 
  
 #### [Results](/handbook/values/#results) Award
-We do what we promised to each other, customers, users, and investors. The value award for [Results](https://about.gitlab.com/handbook/values/#results) should be awarded to a team member that went above and beyond to get to significant results for a company wide impact. This can come in different forms through for example: ownership, perseverance, dogfooding or disagree, commit, and disagree. 
+We do what we promised to each other, customers, users, and investors. The value award for [Results](/handbook/values/#results) should be awarded to a team member that went above and beyond to get to significant results for a company wide impact. This can come in different forms through for example: ownership, perseverance, dogfooding or disagree, commit, and disagree. 
  
 #### [Efficiency](/handbook/values/#efficiency) Award
 Working efficiently on the most important business initiatives enables us to make fast progress, which makes our work more fulfilling. The value award for Efficiency should be awarded to a team member that helped make fast progress through for example championing writing things down, embracing change or being a manager of one. 
@@ -382,9 +382,9 @@ _Please note, Get Together expenses that are submitted outside of these months w
   1. Team members can plan, pay for, and expense a Get Together in an eligible month (Feb, May, Aug, and Nov) for an activity or expense that allows them to get together with another team member later in that quarter.
 1. Once you participate in a Get Together with another team member, share your experience and few pictures for a chance to be featured in social by submitting [this form](https://forms.gle/Z3CLPFAQGcAbwzN26). 
 
-*Group Get Togethers*
+#### Group Get Togethers
 
-Please review the latest [Covid-19 guidance for in-person GitLab events that include more than 5 attendees](https://about.gitlab.com/handbook/travel/#for-in-person-gitlab-events) before planning a Group Get Together.
+Please review the latest [Covid-19 guidance for in-person GitLab events that include more than 5 attendees](/handbook/travel/#for-in-person-gitlab-events) before planning a Group Get Together.
 
 In areas where many GitLab team members live, stay tuned in Slack and on this page for planned events where we'll invite all GitLab team members in that area to join together in person. For team members who participate in Group Get Togethers, individual Get Togethers live or remote will not be available in the month the Group Get Together takes place.  
 
