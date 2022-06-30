@@ -369,21 +369,6 @@ hours.
   * Friday:    0900-1700
   * Saturday:  0900-1700
 
-### L&R - Internal Requests Hawk
-
-This rotation is used for licensing and renewals related internal requests.
-
-* [Schedule link](https://gitlab.pagerduty.com/schedules#PQ6DB1G)
-* Timezone: (UTC+00:00) UTC
-* Hours: 
-  * Sunday:    0000-2400 *handoff is at 2300)
-  * Monday:    0000-2400
-  * Tuesday:   0000-2400
-  * Wednesday: 0000-2400
-  * Thursday:  0000-2400
-  * Friday:    0000-2400
-  * Saturday:  0000-2400
-
 ### US Federal On-Call
 
 This rotation is used for emergencies filed by US Federal customers.
