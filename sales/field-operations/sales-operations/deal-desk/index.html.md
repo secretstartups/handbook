@@ -307,37 +307,22 @@ H.  **Order Form Generation**
 #### Amend Subscription Quote
 
 
-This quote type should be only used when **new users are being added to an existing subscription during the current subscription term.** This includes both additional licenses to existing products, and true-ups. This also includes any scenario where the products are being changed during the term - i.e., an upgrade from Premium to Ultimate. Amendment quotes cannot extend a subscription term. 
+This quote type should only be used when **new users are being added to an existing subscription during the current subscription term.** This includes any scenario where the products are being changed during the term - i.e., an upgrade from Premium to Ultimate. Please note: Amendment quotes **cannot** extend a subscription term. 
 
-Amendments to subscriptions must be processed entirely before any changes can be made via additional amendments or a renewal opportunity. This means that the Add On Opportunity should be Closed-Won before submitting a Renewal opportunity for approval.
+Add On Opportunity should be Closed-Won before submitting a Renewal opportunity for approval.
 
 #### **A.  Add-On Quote Creation**
 
 *   Create the Add-on opportunity on the latest closed won annual opp (Renewal or New Business) that is related to that subscription (use the "New Add On Opportunity" button)
+*   Fill out all required fields on the opportunity level (i.e Close date) and save.
 *   Open the Add-On opportunity and click the **“New Quote”** button.
 *   Select the **existing billing account**.
 *   When prompted **select “Amend Existing Subscription for this Billing account**, and select the appropriate subscription. 
-    *   Note: If there are multiple billing accounts or subscriptions available, and you are unable to determine which to choose, please ask @Sales-Support via Chatter.
-*   Provide Quote Template, Account, and Subscription Term Details and click “Next.”
+*   Note: If there are multiple billing accounts or subscriptions available, select the "+" sign to reveal subscription detials to help make your selection.
+*   If you are still unable to determine which to choose, please ask @Sales-Support via Chatter to help confirm. and click “Next.”
 
-* Select a Quote Template - Note, Amendments must transact through the same route to market as the original order. 
+* Select a Quote Template  ** Amendments must transact through the same route to market as the original order.  
 
-|Template                             | Use For                                                                                                  |
-|-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Standard Order Form                 | Most quotes, including alliance marketplace transactions, or Customers with an Existing Agreement (MSA) in place |
-| Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals                                                                |
-| Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
-| MSP Order Form                      | Managed Service Provider Transactions                                                                    |
-| Distributor Order Form              | Distributor Transactions                                                                                 |
-
-*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
-
-*   Add preapproved legal language selections to the order form. Checking the box next ot the language selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
-
-| Toggle Field                   | Output                                                                                   |
-|--------------------------------|------------------------------------------------------------------------------------------|
-| Customer Reference Language    | Customer Reference Language will populate in Notes Section of the order form             |
-| Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
     
 *   The **Start Date** cannot be set before the subscription start date.
     *   The **End Date** will automatically be set to co-terminate with the existing subscription.
@@ -349,8 +334,7 @@ Amendments to subscriptions must be processed entirely before any changes can be
         *   The "Resale Partner" field should be populated with the Partner Account of the Reseller transacting (please note a partner may have both a Customer and Partner Account Record, the Partner Account must be selected. Check the “Account Record Type” field on an account to identify whether it is Customer or Partner account.).
         *   **We cannot change route to market through an Amendment quote**. If the original order was sold Direct, all subsequent amendments must also be Direct. If it was initially sold through a Partner, all amendments must go through the same partner for the duration of the subscription. 
     *   If the customer or reseller is based in the EU, enter the “VAT ID” number. This is required to book the order.
-    *   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date”** field should be populated with the date of the MSA’s signature. In addition, select the **“EXISTING MSA”** quote template.
-    *   Note: Non-standard payment terms (Net 30 = standard) should be reflected on the quote object, and will require approval per the approval matrix.
+    *  If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms.
 *   Under the **Edit Products and Charges** page, increase the existing license quantity to reach your total - i.e. enter the new total license count. This page will show all currently licensed products (marked “Original”), but the Order Form that generates will only show the added quantity and amount for the pro-rated period. 
 *   **To add users to the existing subscription at a different price or discount**, the new user licenses should be added as a separate product line. 
 *   **True-Ups:** NOTE: The true-up SKU does not add users to the license - it's simply a retroactive one time charge. If you are conducting a quarterly or semi annual true-up for a customer with our former percentage-based fee schedule, do not use the true-up SKU unless the true-up is in conjunction with their renewal and the customer will be renewing for less users. Instead, you should add users using an appropriately priced subscription product SKU. If you are quoting true-up users, click “Add Products” and wait for the next page to load. Then, click “Select” and choose “Add Add-On Products.” Select True-Up and click Next. Edit the quantity and effective price. Click “Submit.”
@@ -369,8 +353,6 @@ Amendments to subscriptions must be processed entirely before any changes can be
     *   Number of calendar days of the add-on period: 177 days (7 Apr 2022 - 1 Oct 2022 in this example)
     *   Prorated fee calculation: ($2,280.00 / 365 days) x 177 days = $1,105.64
      
-
-
 
 #### **B.  Upgrade or Switch Products During the Subscription Term**
 *   Create an “Amend Subscription” quote by following the steps in Section 2 (A) above.
