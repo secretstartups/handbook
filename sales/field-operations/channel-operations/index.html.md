@@ -83,6 +83,8 @@ There are a number of different slack channels to serve the different needs of t
 | apac_partners | A channel for the APAC channels team and stakeholders can collaborate | _blank_ | any | any |
 | channel-services | Questions and comments about channel services program, enablement and field engagement |  | any | any |
 | channel-team-announcements* | Updates to channel team members ONLY | https://about.gitlab.com/handbook/resellers/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | channel and alliance team members ONLY | Channel Operations, Channel Programs, Michelle Hodges, Nima Badiey |
+| alliances | A channel for collaboration with the alliances Team | https://about.gitlab.com/handbook/alliances/ | any | any |
+| alliance_sales_ops | Questions and comments about alliance operations | https://about.gitlab.com/handbook/alliances/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | any | any |
 
 
 
