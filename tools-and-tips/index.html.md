@@ -792,13 +792,15 @@ This thoughtfully allows participants with back-to-back events the opportunity t
 
 #### World Clock
 
-Add as many time zone world clock as you wish by going to Settings -> World Clock.
+Add as many time zone world clocks as you wish by, in Google Calendar, going to `Settings -> World Clock` in order to see team members' local times. 
 
 ![Google Calendar - World Clock](/images/handbook/tools-and-tips/world-clock.png)
 
+You can also use sites like [TimeAndDate](https://www.timeanddate.com/worldclock/converter.html) to convert times to/from UTC for example. 
+
 #### Time Zone
 
-Check `Display secondary time zone` and select Coordinated Universal Time (UTC). This enables team members to standardize on a single time zone in communicating when meetings take place.
+Check `Display secondary time zone` and select `(GMT+00:00) Coordinated Universal Time` (UTC). This enables team members to standardize on a single time zone in communicating when meetings take place.
 
 ![Google Calendar - Time Zone](/images/handbook/tools-and-tips/google-calendar-timezone.png)
 
