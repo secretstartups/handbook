@@ -55,7 +55,7 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
-|July 5, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement  |
+|July 7, 2022 | 11:00a ET | 11:50a ET | Welcome Call | Field Enablement  |
 |July 13, 2022 | 11:00a ET | 12:20p ET | Essential Questions Exercise | Field Enablement  |
 |July 13, 2022 | 12:30p ET | 1:50p ET | Value Card Exercise | Field Enablement |
 |July 14, 2022 | 11:00a ET | 12:20p ET | Discovery Question Exercise | Field Enablement  |
