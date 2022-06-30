@@ -129,7 +129,7 @@ If you prefer to search by selecting a search engine in the address bar instead 
 
 To test this, go to a new tab, enter some text into the address bar, and you will now see an icon for your new search engine at the bottom of the suggestions list.
 
-## Searching using Alfred (on macOS)
+## Searching using Alfred (on MacOS)
 
 You can create keyword searches in [Alfred](https://www.alfredapp.com/).
 Click on each of the below URLs to add them to Alfred.
@@ -155,6 +155,28 @@ There is also [a repo maintained by GitLab team members](https://gitlab.com/gitl
   <iframe src="https://www.youtube.com/embed/tu7YHZAKKN8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+## Searching with Raycast (MacOS)
+
+You can perform spotlight-like searches with [Raycast](https://www.raycast.com/) by using the quicklink feature.
+
+1. Press your Raycast hotkey (default: `option` + `space`)
+1. Type in `Create quicklink` and choose the option
+1. Name your quicklink and add the search URL
+   1. To search the GitLab docs, use `https://google.com/search?q=site%3Adocs.gitlab.com+{Query}` as your link
+   1. To search the GitLab handbook, use `https://google.com/search?q=site%3Aabout.gitlab.com+inurl%3Ahandbook+{Query}` as your link
+
+Now, you can use Raycast to search:
+
+1. Press your Raycast hotkey
+1. Type in your quicklink name
+1. Press enter
+1. Type in your search query
+1. Press enter
+
+Your search will open in your chosen browser.
+
+![An example of a Raycast search](/images/handbook/tools-and-tips/searching/raycast_docs_search.png)
 
 ## Searching recorded events using GitLab Unfiltered
 
