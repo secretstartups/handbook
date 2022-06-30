@@ -237,6 +237,7 @@ Host *
 Once you've configured and installed `Visual Studio Code` and logged into the `GitLab Workflow extension for VS Code` open the `www-gitlab-com` directory where you've synced the repo.
 
 Create a new branch by:
+
 1. Clicking on `master` in the bottom bar
 1. Select `Create new branch`
 1. Enter a branch name
@@ -244,8 +245,16 @@ Create a new branch by:
 
 You can then use the `Search` functionality (`⌘⇧F`) to find all files matching your desired search. Searching in `Visual Studio Code` allows matching case, matching whole word, or using Regular Expressions. If you click on the ellipsis (`…`) you also have the option to include or exclude files by pattern matching on the path (uses commas to delimit multiple includes/excludes).
 
+You can do a `Replace All` across all files with the matching search term directly in the `Search` functionality:
+
+1. Click on the disclosure arrow next to the `Search` field or enter `⌘⇧H`
+1. Enter the `Search` term
+1. Enter the `Replace` term
+1. Click on the `Replace All` button next to the `Replace` field or enter `⌥⌘Enter`
+
 Once you've made your edits use the `Source Control` (`⌃⇧G`) functionality to:
-1. Stage your changes by clicking on the `+` sign for each file or for all commit
+
+1. Stage your changes by clicking on the `+` sign for each file, or the `+` sign for the entire commit
 1. Provide a name to the commit in the Message field saving with a `⌘Enter`
 1. Clicking on the publish or sync button
 
