@@ -139,6 +139,7 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 - [The Future of Work Project — Darren Murph // Unlocking the Super Powers of Remote, and its Positive Effects on Families](https://anchor.fm/fowproject/episodes/23-Darren-Murph---Unlocking-the-Super-Powers-of-Remote--and-its-Positive-Effects-on-Families-e115ni7)
 - [Workology - Building the Future of Work Remotely With Darren Murph](https://workology.com/episode-348-building-the-future-of-work-remotely-with-darren-murph-head-of-remote-at-gitlab/)
 - [HR Leaders Podcast — How GitLab Creates and Sustains Scalable Remote Practices](https://hrleaders.co/podcast/darren-murph-how-gitlab-creates-and-sustains-scalable-remote-practices)
+- [Grafana Labs - Remote work done right: How remote-first companies put people first](https://grafana.com/blog/2022/06/29/remote-work-done-right-how-remote-first-companies-put-people-first/)
 - [Collaboration Superpowers - Live The Remote Dream](https://www.collaborationsuperpowers.com/285-live-the-remote-dream/)
 - [The Modern People Leader - How culture is built outside of company walls](https://open.spotify.com/episode/7mt4eVPUHXABMhXJlsDAtb?si=6167c2c38a8140ec&nd=1)
 - [The Dan Smolen Experience — Unleash the Remote Workforce](https://dansmolen.com/2021/01/08/unleash-the-remote-workforce/)
