@@ -55,7 +55,7 @@ The survey factors for FY19 through FY21 were as follows with each section inclu
 - 2022-06-21 through 2022-07-04: Leaders/Managers review their reports and discuss/brainstorm action plans in Staff/team meetings 
 - 2022-06-28 and 2022-06-29: Results shared company-wide at GitLab Assembly
 - 2022-07-30: Finalize Action items and document in epics/issues
-- 2022-08-01: Functional action plans added to FY'23 Q1 OKRs and Division epics
+- 2022-08-01: Functional action plans added to FY'23 Q3 OKRs and Division epics
 
 
 #### Taking Action
