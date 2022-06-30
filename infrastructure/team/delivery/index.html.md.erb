@@ -18,6 +18,7 @@ description: "The Delivery Group enables GitLab Engineering to deliver features 
 | **Slack Channels** | [#g_delivery] / `@delivery-team`
 | **Delivery Handbook** | [Team training][team training]|
 | **Delivery Metrics** | [Metrics](/handbook/engineering/infrastructure/team/delivery/metrics.html)
+| Deployment and Release process | [Releases](/handbook/engineering/releases/)
 | Release Tools Project | [Release tools](/handbook/engineering/infrastructure/release-tools) |
 | Release Manager Runbooks | [release/docs/runbooks](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/README.md) |
 
@@ -188,21 +189,6 @@ By default, an issue needs to have a:
 
 The Delivery group leverages scoped `workflow-infra` labels to track different stages of work.
 
-On the [Planning board] problems are discussed and scoped so that we have enough information to prioritise and implement the solution.
-
-The typical workflow is described below:
-
-```mermaid
-sequenceDiagram
-  participant triage as workflow-infra::Triage
-  participant proposal as workflow-infra::Proposal
-  participant ready as workflow-infra::Ready
-   triage ->> proposal: 1
-Note right of triage: Problem has been identified and a  possible solution has been proposed.
-   proposal ->> ready: 2
-Note right of proposal: Proposal has been discussed and scoped. Issue is ready for prioritization.
-```
-
 Not every issue will be prioritised for building as soon as it is ready. Instead we manage a [Build board] with all `workflow-infra::In Progress`, and `workflow-infra::Ready` issues focused on the team's current goals.
 
 The standard progression of workflow is described below:
@@ -257,8 +243,7 @@ Incidents impacting Delivery may optionally include an [impact label](/handbook/
 
 ### Choosing something to work on
 
-The Delivery group generally has working epics assigned to specific owners who are responsible for bringing tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to.
-If you want to work on something outside of your current project, feel free to contribute to any of the mid to lower priority labeled issues.
+The Delivery group generally has working epics assigned to a [DRI] who is responsible for making sure work is broken down into issues, and appropriate issues are moved onto the [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to.
 
 ## Project demos
 
