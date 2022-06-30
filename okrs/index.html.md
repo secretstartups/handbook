@@ -124,7 +124,7 @@ CEO OKRs may continue to be refined in the lead up to the coming quarter.
 
 **Four Mondays** before the start of the fiscal quarter, in the days after the CEO shares OKRs with all of GitLab in the #okr channel, Executives propose OKRs for their functions via Ally.io through a Slack message in #okrs channel. The CEO and Chief of Staff to the CEO should be @ mentioned. The CEO will confirm sign-off on objectives through commenting directly in them. While the CEO is the DRI, this responsibility may be the delegated to the CoS to the CEO.
 
-Each executive should aim for a maximum of 3 objectives. Each objective has between 1 and 3 key results; if you have less, you list less. While OKRs are known for being ambitious or committed, we only have ambitious OKRs. When drafting the OKRs, executives should strive to have clear numerical targets.
+Each executive should aim for a maximum of 3 objectives. Each objective has between 0 and 3 key results. While OKRs are known for being ambitious or committed, we only have ambitious OKRs. When drafting the OKRs, executives should strive to have clear numerical targets. Teams within a function can have zero objectives and key results. 
 
 Function objectives should cascade from one of the CEO's OKR's in Ally.io.
 
