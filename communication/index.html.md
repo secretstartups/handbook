@@ -41,9 +41,9 @@ If you see something that concerns you in Slack, Issues, Merge Requests, Video, 
 
 (This guidance supplements and overlaps with [GitLab's SAFE Framework](/handbook/legal/safe-framework/), the guidance on the use of [the internal handbook](/handbook/handbook-usage/#the-internal-handbook), and the additional guidance on this page. We ask our team members to consider the factors below in their communication. )
 
-As GitLab matures, we want to continue to foster discussion while evolving our communication guidelines so that topics that are potentially GitLab sensitive are discussed in appropriate forums. This is particularly relevant as team members heavily leverage async modes of communication including merge requests, issues and epics, and in Slack communication. 
+As GitLab matures, we want to continue to foster discussion while evolving our communication guidelines so that topics that are potentially GitLab sensitive are discussed in appropriate forums. This is particularly relevant as team members heavily leverage async modes of communication including merge requests, issues and epics, and in Slack communication.
 
-Words have impact long after they are written, and even when you're communicating internally, the manner in which you speak with one another should be viewed through an external lens.  For additional information, please review our [Guidelines for communicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/).
+Words have impact long after they are written, and even when you're communicating internally, the manner in which you speak with one another should be viewed through an external lens. For additional information, please review our [Guidelines for communicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/).
 
 
 ### Examples of Potentially Gitlab Sensitive Topics
@@ -53,13 +53,13 @@ Words have impact long after they are written, and even when you're communicatin
 1. Customer or partner information (logos, trademarks, spend)
 1. Material nonpublic information
 
-The above examples overlap with the [GitLab's SAFE Framework](/handbook/legal/safe-framework/) examples. We recommend you to further review that page for more information and context. 
+The above examples overlap with the [GitLab's SAFE Framework](/handbook/legal/safe-framework/) examples. We recommend you to further review that page for more information and context.
 
 ### What are the risks? 
 
-1. **Legal risk:** These are the risks that arise from regulations and laws that govern GitLab or the market in which it operates. This includes content that would compromise a GitLab team member, customer, or user's personal data and/or privacy. 
-1. **Morale risk:** Raising GitLab sensitive topics that may be misinterpreted without the opportunity to ask clarifying questions can create risk to team culture and/or morale. 
-1. **PR risk:** Remember that anything you document could ultimately be shared/viewed externally. 
+1. **Legal risk:** These are the risks that arise from regulations and laws that govern GitLab or the market in which it operates. This includes content that would compromise a GitLab team member, customer, or user's personal data and/or privacy.
+1. **Morale risk:** Raising GitLab sensitive topics that may be misinterpreted without the opportunity to ask clarifying questions can create risk to team culture and/or morale.
+1. **PR risk:** Remember that anything you document could ultimately be shared/viewed externally.
 
 We encourage communicating risks to GitLab, its team members, or customers in a synchronous 1:1 setting.
 
@@ -146,7 +146,7 @@ Some merge requests that involve a big decision or change tend to collect a larg
 ```
 ## Manager Mention MR
 
-This MR is a Manager Mention MR.  Contributors should tag their manager when adding a comment.  If managers are tagged they should either respond to the question or summarize and tag their manager.
+This MR is a Manager Mention MR. Contributors should tag their manager when adding a comment. If managers are tagged they should either respond to the question or summarize and tag their manager.
 ```
 
 Additionally, add the `~"Manager Mention MR"` label to the merge request. This will make future analytics on Manager Mention merge requests more easily identifiable. It also enables managers to subscribe to the label to be notified when an MR has elected the Manager Mention MR designation.
@@ -220,7 +220,7 @@ To learn more on when to use asynchronous and synchronous communication, example
 1. You are not expected to be available all the time. There is no expectation to respond to messages outside of your planned working hours.
 1. Sometimes synchronous communication is the better option, but do not default to it. For example, a video call can clear things up quickly when you are blocked. See the [guidelines on video chats](#video-calls) for more detail.
 1. It is very OK to ask as many questions as you have. Please ask them so many people can answer them and many people see the answer. Use issues or public chat channels (like `#questions`) instead of direct messages or one-on-one emails. If you have researched in the handbook and could not find the answer or need clarity, include the handbook link you were reviewing and state "while looking in the handbook I could not find x,y,z".
-1. If you send a handbook link to someone as an answer to a question, consider adding some context, especially if they are new to GitLab. It's great that we often have the answer documented, but it's not always easy to find if you are a new team member. 
+1. If you send a handbook link to someone as an answer to a question, consider adding some context, especially if they are new to GitLab. It's great that we often have the answer documented, but it's not always easy to find if you are a new team member.
 1. If the answer to a question isn't documented, please immediately make a merge request to add it to the handbook in a place you have looked for it. It is great for the person who answered the question to see you leading by example to ensure that question only needs to be answered once. A merge request is the best way to say thanks for help.
 1. If you mention something (a merge request, issue, commit, webpage, comment, etc.) please include a link to it.
 1. All company data should be **shareable** by default. Do not use a local text file, but rather leave comments on an issue.
@@ -252,7 +252,7 @@ To learn more on when to use asynchronous and synchronous communication, example
 ### Ask Me Anything meetings
 
 [Ask Me Anything meetings](/handbook/communication/ask-me-anything/) can be a useful opportunity for team members to meet a new leader, learn more about an existing team member, or gain clarity on a recent change.
-1. Format: AMAs use the whole meeting time for questions from attendees, answered by the host. 
+1. Format: AMAs use the whole meeting time for questions from attendees, answered by the host.
 
 ### Fireside Chats
 Fireside chats are informal conversations between a host and a guest. The guest is typically a new leader, board member, or guest speaker. They are a useful opportunity to learn specific information about these individuals and their professional careers and personal interests. Fireside chats allow the audience to learn more about the guests in a casual and approachable setting.
@@ -267,7 +267,7 @@ While a designated person may be the primary person responsible for note-taking 
 
 Use discretion in taking notes if sensitive topics are being discussed. For example, do not takes notes on [not-public information](/handbook/communication/#not-public) if the agenda may be available to an audience who should not be privy to this information.
 
-In a conversation, a person may ask for folks to stop taking notes. When this happens, note-taking should stop for the duration of the discussion unless there is verbal confirmation that note-taking should resume. When you suspect that note-taking should resume, but it has not been verbally confirmed, please ask for the confirmation before typing. 
+In a conversation, a person may ask for folks to stop taking notes. When this happens, note-taking should stop for the duration of the discussion unless there is verbal confirmation that note-taking should resume. When you suspect that note-taking should resume, but it has not been verbally confirmed, please ask for the confirmation before typing.
 
 If you have any questions about what may or may not be a sensitive topic, please refer to our SAFE Framework or reach out via the `#safe` Slack channel
 
@@ -427,7 +427,7 @@ The items below are not shared with all team members. Limited access is a more s
 1. Customer lists and other customer information are not public since many customers are not comfortable with that and it would make it easier for competitors to approach our customers. If an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, and/or number of users, the issue should be made confidential. Avoid putting customer information in an issue by describing them instead of naming them and by linking to their Salesforce account.
 1. Plans for reorganizations. Reorganizations cause disruption and the plans tend to change a lot before being finalized, so being public about them prolongs the disruption. We will keep relevant team members informed whenever possible.
 1. Planned pricing changes. Much like reorganizations, plans around pricing changes are subject to shift manage time before being finalized. Thus, pricing changes are limited access while in development. Team members will be consulted before any pricing changes are rolled out.
-1. Some discussions on team process and policy changes. Some organizational policies are sensitive in nature and require thoughtful consideration before messaging the changes internally and externally. Relevant team members and leaders will be informed whenever possible. 
+1. Some discussions on team process and policy changes. Some organizational policies are sensitive in nature and require thoughtful consideration before messaging the changes internally and externally. Relevant team members and leaders will be informed whenever possible.
 1. Legal discussions are restricted to the purpose of Attorney-Client Privilege.
 1. Some information is kept confidential by the People Group to protect the privacy, safety, and security of team members and applicants, including: job applications, background check reports, reference checks, compensation, terminations details, demographic information (age and date of birth, family or marital status, national identification such as passport details or tax ID, required accommodations), home address. Whistleblower identity is likewise confidential. Performance improvement plans, disciplinary actions, as well as individual feedback are restricted as they may contain negative feedback and [negative feedback is 1-1](/handbook/values/#collaboration) between you and your manager. However, People Group policies and processes are public (for example, [Job families](/handbook/hiring/job-families/) and our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/)), along with information that team members choose to share on the [Team](/company/team/) page.
 1. Performance improvement plans, disciplinary actions, as well as individual feedback, are confidential as they contain private negative feedback and [negative feedback is 1-1](/handbook/people-group/guidance-on-feedback/#all-feedback) between team members and managers
@@ -435,18 +435,18 @@ The items below are not shared with all team members. Limited access is a more s
 1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive
 1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
 1. Compensation Changes: GitLab will communicate and train team members on the output of iterations to the Total Rewards offerings (Compensation, Equity, Benefits), but team members will not have visibility into the inputs and decision making of compensation changes.
-1. Security Incident Investigation: In order to avoid exposing team members to MNPI, the Security Incident Response Team (SIRT) will restrict access to only those necessary to assess the materiality of incidents.  Once an incident is determined to not have MNPI the access can be changed to [internal](/handbook/communication/#internal).
+1. Security Incident Investigation: In order to avoid exposing team members to MNPI, the Security Incident Response Team (SIRT) will restrict access to only those necessary to assess the materiality of incidents. Once an incident is determined to not have MNPI the access can be changed to [internal](/handbook/communication/#internal).
 
 #### Project names
 
 Some projects require limited access internally due to the confidential or sensitive nature of the project, including but not limited to projects related to the items listed above. Often, in order to maintain the necessary confidentiality of these types of initiatives, we assign a code name for the project. For consistency and to make it easier to identify the genesis of these projects and their organizational affiliations, we've established the following naming conventions.
 
-Project code names can be overused. Code names should never be used for projects that can be public. There are two cases where the project name should be used instead of a name that clearly describes the project. 
+Project code names can be overused. Code names should never be used for projects that can be public. There are two cases where the project name should be used instead of a name that clearly describes the project.
 
-1. The work within the project is [material non-public information (MNPI)](/product/product-safe-guidance/#materially-non-public-information). Information is limited access by nature and should not be disclosed in issues, MRs, slack and other communication. Example: "Gotham" was our project name for our IPO. 
+1. The work within the project is [material non-public information (MNPI)](/product/product-safe-guidance/#materially-non-public-information). Information is limited access by nature and should not be disclosed in issues, MRs, slack and other communication. Example: "Gotham" was our project name for our IPO.
 1. The work is not MNPI but should remain [limited access](/handbook/communication/#limited-access) to avoid prematurely sharing information with customers or the wider community. Example: "Tiering" was our project name for End of Availability
 
-Code names should be retired as soon as a project is no longer confidential. 
+Code names should be retired as soon as a project is no longer confidential.
 
 | Team                  | Theme                                |
 | --------------------- | ------------------------------------ |
@@ -537,7 +537,7 @@ In informal acknowledgement scenarios, such as on Slack or on issue comments, it
 1. Please allow anyone at GitLab to edit the presentation (preferred) or at least comment on the presentation.
 1. If the content can be public use File > Publish to the web > Publish to get a URL and paste that in the speaker notes of the first slide (commonly the title slide).
 1. The title of every slide should be the message you want the audience to take away, not the subject matter. So use 'Our revenue more than doubled' instead of 'Revenue growth'.
-1. Slide titles should not be more than one line. Be concise in highlighting the key point that you want to make. 
+1. Slide titles should not be more than one line. Be concise in highlighting the key point that you want to make.
 1. Do not add a period at the end of a title.
 1. During introductions, make sure that nobody is presenting. We remember people better and have more empathy when we clearly see peoples faces and expressions.
 1. At the end of the presentation, when you go to Q&A, stop presenting in Zoom. This way the other people can see the person who is speaking much better.
@@ -548,7 +548,7 @@ In informal acknowledgement scenarios, such as on Slack or on issue comments, it
 
 ### Video and presentation tips with Lorraine Lee
 
-On 2022-01-20, the L&D team hosted [Lorraine Lee](https://linkedin.com/in/lorraineklee) for a live speaker series on video and presentation techniques in an all-remote workspace. 
+On 2022-01-20, the L&D team hosted [Lorraine Lee](https://linkedin.com/in/lorraineklee) for a live speaker series on video and presentation techniques in an all-remote workspace.
 
 Key points addressed in the training include:
 
@@ -1207,7 +1207,7 @@ Corporate marketing maintains guidelines on [GitLab's tone of voice](https://des
 | Getting buy-in/Getting alignment    | Asking for feedback since DRIs make decisions |
 | Synergy                             | Effective Collaboration                       |
 | Get all your ducks in a row         | Be organized                                  |
-| Do not let the grass grow too long   | Work quickly                                  |
+| Do not let the grass grow too long  | Work quickly                                  |
 | Leverage                            | Use more explicit phrasing- debt, etc.        |
 | Send it over the wall               | Share it with a customer                      |
 | Boil the ocean                      | Waste time                                    |
@@ -1487,7 +1487,7 @@ Examples of instances where GitLab may need to use this feature may include, but
 
 #### Are my direct messages and private channel conversations completely private?
 
-No. The Slack Workspace Owner has the ability to export data from all direct messages and private channel conversations for the maximum retention period set by GitLab, which is currently set for 90-days. All messages that are older than 90-days cannot be exported by the Workspace Owner or any other Team Member at GitLab. While messages are not actively monitored, GitLab reserves the right to monitor its software for the reasons stated in its [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/), including, but not limited to, the safety and protection of our Team Members, the protection of our intellectual property, and the exercise or defense of legal claims.  
+No. The Slack Workspace Owner has the ability to export data from all direct messages and private channel conversations for the maximum retention period set by GitLab, which is currently set for 90-days. All messages that are older than 90-days cannot be exported by the Workspace Owner or any other Team Member at GitLab. While messages are not actively monitored, GitLab reserves the right to monitor its software for the reasons stated in its [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/), including, but not limited to, the safety and protection of our Team Members, the protection of our intellectual property, and the exercise or defense of legal claims.
 
 Please keep [GitLab values](/handbook/values/) in mind when communicating directly with other team members.
 If you have a confidential personal issue that you do not feel comfortable discussing via a business-provided internal communications tool, it is recommended to use a personal form of communication such as a text message or phone call.
@@ -1654,4 +1654,4 @@ GitLab has a specific process to follow in crisis situations to ensure effective
 
 ## Avoid using Git in Project Names
 
-Avoid using _Git_ in the naming of internal and external company related programs (BagGit, GitFit, Gitty, GitIt, etc.). Referencing Git creates an inaccurate perception that GitLab has a narrow focus. While GitLab started as a source control platform, it has become [The DevOps Platform](https://about.gitlab.com/solutions/devops-platform/). 
+Avoid using _Git_ in the naming of internal and external company related programs (BagGit, GitFit, Gitty, GitIt, etc.). Referencing Git creates an inaccurate perception that GitLab has a narrow focus. While GitLab started as a source control platform, it has become [The DevOps Platform](https://about.gitlab.com/solutions/devops-platform/).
