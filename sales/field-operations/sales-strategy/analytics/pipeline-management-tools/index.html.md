@@ -33,6 +33,7 @@ Pipeline is the sum of all open sales opportunities and is one of the key metric
 * Pipeline Generation within Quarter (Net ARR & deal count)
 * Historical values are based on fitted lines to the last 4 quarters
 
+<br>
 #### Pipeline Coverage Calculation
 
 Pipeline coverage is a ratio between our pipeline and our business target. We track pipeline coverage at different [stages](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages/) of the sales funnel for current and future quarters.
@@ -57,6 +58,7 @@ Pipeline coverage against actuals is defined as
 
 The inverse of historical pipeline coverage against actuals is the historical win rate at that point in time.
 
+<br>
 
 ### Available Dashboards
 
@@ -79,8 +81,8 @@ The inverse of historical pipeline coverage against actuals is the historical wi
         </td>
         <td>
             <ul>
-                <li>[CRO view](https://app.periscopedata.com/app/gitlab:safe-dashboard/919343/SS&A---Pipeline-Velocity-&-Generation---CRO)</li>
-                <li>[Enterprise view](https://app.periscopedata.com/app/gitlab:safe-dashboard/1009839/SS&A---Pipeline-Velocity-&-Generation---Enterprise)</li>
+                <li><a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/919343/SS&A---Pipeline-Velocity-&-Generation---CRO">CRO view</a></li>
+                <li><a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/1009839/SS&A---Pipeline-Velocity-&-Generation---Enterprise">Enterprise view</a></li>
             </ul>
         </td>
 	</tr>
@@ -92,7 +94,7 @@ The inverse of historical pipeline coverage against actuals is the historical wi
                 <li> Pipeline Coverage Development (FY) </li>
             </ul> 
         </td>
-        <td>[SS&A - Pipeline Coverage Deep Dive](https://app.periscopedata.com/app/gitlab:safe-dashboard/919352/SS&A---Pipeline-Coverage-Deep-Dive)</td>
+        <td><a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/919352/SS&A---Pipeline-Coverage-Deep-Dive">SS&A - Pipeline Coverage Deep Dive</a></td>
     </tr>
     <tr>
         <td>SS&A - Pipeline Generation Deep Dive</td>
@@ -106,7 +108,7 @@ The inverse of historical pipeline coverage against actuals is the historical wi
                 </li> 
             </ul> 
         </td>
-        <td>[SS&A - Pipeline Generation Deep Dive](https://app.periscopedata.com/app/gitlab:safe-dashboard/968894/SS&A---Pipeline-Generation-Deep-Dive)</td>
+        <td><a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/968894/SS&A---Pipeline-Generation-Deep-Dive">SS&A - Pipeline Generation Deep Dive</a></td>
     </tr>
     <tr>
         <td>SS&A - Pipeline Movement Tracker</td>
@@ -116,7 +118,7 @@ The inverse of historical pipeline coverage against actuals is the historical wi
                 <li> Supporting chart for Pipeline X-Ray tool</li> 
             </ul>
         </td>
-        <td>[SS&A - Pipeline Movement Tracker](https://app.periscopedata.com/app/gitlab:safe-dashboard/919348/SS&A---Pipeline-Movement-Tracker)</td>
+        <td><a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/919348/SS&A---Pipeline-Movement-Tracker">SS&A - Pipeline Movement Tracker</a></td>
     </tr>
     <tr>
         <td rowspan="2"> Provides <strong>operational insights and action items</strong> on current and future quarters </td>
@@ -127,7 +129,7 @@ The inverse of historical pipeline coverage against actuals is the historical wi
                 <li> Separate views for overview, Enterprise-focused, Commercial-focused, Area-Geo, SQS and Order Type</li>
             </ul>
         </td>
-        <td>[GTM Analytics Hub](https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0)<br>Please find the link under Net ARR/Pipeline section </td>
+        <td><a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0">GTM Analytics Hub</a><br>Please find the link under Net ARR/Pipeline section </td>
     </tr>
     <tr>
         <td>SAL Heatmap</td>
@@ -137,9 +139,12 @@ The inverse of historical pipeline coverage against actuals is the historical wi
                 <li> The color scale is based on OKR target</li>
             </ul>
         </td>
-        <td>[GTM Analytics Hub](https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0)<br>Please find the link under Net ARR/Pipeline section </td>
+        <td><a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0">GTM Analytics Hub</a><br>Please find the link under Net ARR/Pipeline section </td>
+    </tr>
 </table>
 
+
+<br>
 
 ### Examples - Data Interpretation
 
@@ -159,6 +164,8 @@ Comparing our current quarter Pipeline Coverage against target vs historical Pip
 
 As every past quarter has variability on their win rates, we use the last 4 closed quarters as guidaline.
 
+<br>
+
 #### Historical Coverage and Fitted Curves
 
 To reduce quarter-specific variation, a polynomial curve is fitted using the last 4 fiscal quarters of Pipeline Coverage against Actuals data. 
@@ -167,6 +174,7 @@ To reduce quarter-specific variation, a polynomial curve is fitted using the las
 
 Check out Coverage Historical Curves (at the bottom of the [Deep Dive dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/919352/SS&A---Pipeline-Coverage-Deep-Dive))
 
+<br>
 
 #### Interpreting Pipeline X-Ray Dashboard
 - Select a tab based on the business segment of interest: <br>
@@ -179,6 +187,7 @@ Check out Coverage Historical Curves (at the bottom of the [Deep Dive dashboard]
   - 🔴 Region B - Area B has Pipeline Coverage of `2.5` for CQ+1 (Stage 1+). However, the coverage for the past 4 quarters was `3.5`
     - The gap is significant and management attention is needed for pipeline generation.         
 
+<br>
 
 #### Interpreting SAL Heatmap
 - You can see Attainment, Pipeline Coverage and Generation summary per Strategic Account Leader by Region. 
@@ -236,8 +245,9 @@ As we are constantly iterating on our data models and dashboards, you might come
 #### Models Available in dbt
 
 A set of custom data models were created in the Snowflake `sales_workspace` to simplify reporting efforts on Sisense / gSheet. When possible the metrics logic is embedded in the source tables rather than in the report models and looking at the SQL code is the best way to be sure that the metrics are presenting what it is expected from them.
-<br>
+
 The following list of models (with dbt Docs links) are in use for creating Pipeline Management dashboards:
+
 | Model| Summary |
 | ----- | :----- |
 | [restricted_safe_workspace_sales.sfdc_opportunity_xf](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.sfdc_opportunity_xf) | Legacy model with extra metrics definitions and helper fields |
@@ -254,6 +264,7 @@ The following list of models (with dbt Docs links) are in use for creating Pipel
 
 #### Models not Available in dbt
 For some tools, we have introduced another layer of transformation in Python on top of dbt models to overcome limitations from SQL. Sisense dashboards are used for this purpose at the moment and tables are exported to Google Sheet based tools.
+
 
 #### Model Exports for Google Sheet based Tools
 Each Google Sheet based dashboard has a `source` Google sheet pair which contains data and calculations on top of the presentation layer of the dashboard. Data is exported from Sisense to the source Google sheet, using csv url provided from Sisense.
