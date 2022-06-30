@@ -36,7 +36,7 @@ This page contains GitLab's Corporate Credit Card guidelines and procedures. If 
 - All purchases relating to Training/Tuition/Conferences and Membership fees. These purchases must follow the [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) process.
 - Employee Gifts. These purchases must go through the normal employee expense reimbursement process.
 - Personal expenses.
-- Hotels & Airfares: These are not allowed to be purchased under our CC program and need to run through the employee reimbursement process for proper management approvals.
+- Hotels & Airfares & Uber & Rental Cars: These are not allowed to be purchased under our CC program and need to run through the employee reimbursement process for proper management approvals and airfare should be purchased through TripActions.
 
 #### Gift Cards
 
@@ -54,7 +54,7 @@ This page contains GitLab's Corporate Credit Card guidelines and procedures. If 
 
 ## <i id="biz-tech-icons" class="fas fa-bullseye"></i> Card Holder Responsibility
 - Card Holders are responsible for providing all supporting documents.
-- Card Holders must submit their Corporate Card Reports monthly in Expensify by the last day of the current month.   This includes ensuring that all transactions have been properly coded and all receipts attached before submission.
+- All transactions made through the corporate credit card shall be filed via Expensify by the Card holder with proper coding and should be submitted to their manager twice a month, by the 15th and by the last day of the month.  Managers are to approve and then forward to the AP Team for final approval by the 1st of the following month.
 - Card Holders must follow Gitlab’s Code of Business Conduct and Ethics as the Corporate Credit Cards are considered GitLab property. Please refer to GitLab's [Code of Business Conduct & Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
 - To cancel a card or to report a card that is lost/stolen, please reach out to **#corp-creditcard-holders** Slack channel or email **ap@gitlab.com**.
 
