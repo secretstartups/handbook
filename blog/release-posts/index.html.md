@@ -1307,8 +1307,6 @@ _To be added by Product Managers or Engineering Managers and merged by Technical
 
 All deprecations will be published by milestone in [GitLab Docs](https://docs.gitlab.com/ee/update/deprecations.html) via the workflow outlined below. Deprecations are not listed individually on the release post page.
 
-Starting with 14.5, specific deprecations are only published to the [Deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations), which is the single source of truth.
-
 Deprecation notices should be [added to the documentation per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
 
 A deprecation must have an initial announcement in the docs, notifying the community **at least two releases in advance** of the planned removal. We recommend to announce deprecations, especially if it's a breaking change, as soon as the planned milestone is known.
