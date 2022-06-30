@@ -114,4 +114,4 @@ A given week should be considered open for shadowing unless it is listed below.
 | 3/28/2022 | @rossfuhrman |
 | 4/25/2022 | @sam.figueroa |
 | 7/18/2022 | @bradleylee |
-| 8/15/2022 | @fjdiaz |
+| 9/12/2022 | @fjdiaz |
