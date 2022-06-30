@@ -446,7 +446,7 @@ Project code names can be overused. Code names should never be used for projects
 1. The work within the project is [material non-public information (MNPI)](/product/product-safe-guidance/#materially-non-public-information). Information is limited access by nature and should not be disclosed in issues, MRs, slack and other communication. Example: "Gotham" was our project name for our IPO.
 1. The work is not MNPI but should remain [limited access](/handbook/communication/#limited-access) to avoid prematurely sharing information with customers or the wider community. Example: "Tiering" was our project name for End of Availability
 
-Code names should be retired as soon as a project is no longer confidential.
+Code names should be retired as soon as a project is no longer confidential (e.g., not restricted, not limited access, etc.). A project does not need to be promoted (e.g., publishing a blog post) in order to be deemed public (i.e., not confidential). If there are any questions about whether a project is still confidential or restricted, please contact the DRI for such project or contact the Legal Team via the #safe Slack channel if you have any questions.
 
 | Team                  | Theme                                |
 | --------------------- | ------------------------------------ |
