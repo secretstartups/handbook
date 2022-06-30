@@ -403,7 +403,6 @@ We have the following deadlines:
   - Development engineering manager provides product manager with prioritization input for `type::maintenance` issues per [cross-functional prioritization](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization)
   - [Quality](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization) provides product manager with prioritization input for `type::bug` issues per [cross-functional prioritization](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization)
 - By month `M-1, 10th`product manager, taking into consideration prioritization input from development EM, Quality, and UX to create a plan of issues for the upcoming milestone
-- By month `M-1, 11th` The chief technology officer and VP of Product review [dashboard of issues planned for next milestone](https://app.periscopedata.com/app/gitlab/1042933/Issue-Types-by-Milestone) and provide feedback to PM in [milestone planning issues](https://about.gitlab.com/handbook/product/product-processes/#planning-issue-for-milestone)
 - By month `M-1, 13th` (at least 5 days before milestone `m` begins):
   - product manager reviews and responds to feedback from CTO and VPP as needed
        - it is up to the discretion of the product manager to decide on how/when to incorporate the feedback based on the severity.  They consult with the rest of the quad when evaluating the feedback (development EM, quality, and UX)
@@ -411,6 +410,7 @@ We have the following deadlines:
   - Kickoff document is updated with relevant items to be included.
 - By month `M-1, 16th` (at least 1 day before milestone `m` begins):
   - [Group Kickoffs calls](/handbook/product/product-processes/#kickoff-meetings) recorded and uploaded.
+- By month `M-1, 16th` The chief technology officer and VP of Product review [dashboard of issues planned for next milestone](https://app.periscopedata.com/app/gitlab/1042933/Issue-Types-by-Milestone) and provide feedback to PM in [milestone planning issues](https://about.gitlab.com/handbook/product/product-processes/#planning-issue-for-milestone)
 - On month `M-1, 18th` (or next business day, milestone `m` begins): **Kick off!** 📣
   - [Company Kickoff](#kickoff) call live streamed.
   - Development on milestone `m` begins
