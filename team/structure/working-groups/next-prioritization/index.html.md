@@ -55,8 +55,10 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 
 ### Exit criteria
 
-- All groups have dashboards that they use to analyze merged MR ratio of features, maintenance, bugs and undefined.
-- All groups are reviewing the dashboards and discussing it periodically (monthly?). They compare against the 60% feature, 30% maintenance, 10% bugs, and <=5% undefined. If not there, discuss why and what makes sense for the team. It is *not* an exit criteria that every team achieves those ratios.
+- All groups have as an ongoing practice reviewing MR labels - undefined MRs and the split of MRs across features/maintenance/bugs.   
+- All groups are reviewing dashboard results from previous milestones and discussing as part of the next milestone planning.  This is to determine labeling accuracy, undefined MRs, and the intended split was achieved.  An outcome of a few milestones will be for teams to have recommendations on the split.  Teams should update their handbook page with their split goal.
+- All groups are explicitly not focussing on target ratios in the short term as this would be counter productive.
+- All groups are expected to have target ratio recommendations after 3 milestones.
 - All sections review the dashboards at the section level (quarterly).
 - VP Eng, VP Prod, VP UX, VP Quality, and CTO review the dashboards at the company level (quarterly).
 - Starting in July:
