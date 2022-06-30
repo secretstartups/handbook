@@ -79,6 +79,7 @@ We will use the following guidelines to a clear standard and consistency.
 * Ally labels are used for additional information that Ally does not have a dedicated field for examples `“CultureAmp Survey Action Item”`, `“ReverseAMA Action Item”`
   * Do not use Ally labels for Team, Time periods or normal OKR attributes. Ally should already handle this.
 * Don’t create a KR object if it only has one child. Just use the child as your KR instead. Only create a placeholder object if it needs to scores from aggregate 2+ other items.
+* We should follow the "3x3" structure for OKRs x KRs as described in the [company OKR page](https://about.gitlab.com/company/okrs/#executives-propose-okrs-for-their-functions). The goal is to only have 3 OKRs per quarter and each OKR should only have 1 to 3 KRs.
 * We use full team names (people structure) with the layer nomenclature e.g.
   * Division
   * Department
