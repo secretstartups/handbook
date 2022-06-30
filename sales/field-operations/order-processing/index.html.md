@@ -536,39 +536,38 @@ GitLab provides free licenses to qualifying entities through the Community Progr
 
 ### **How to Submit a Quote for Discount and Payment Term Approval**
 
-The following is intended as a guide for Opportunity Owners who need to submit a quote for approval for discount or payment terms. If the quote requires additional approvals before sending to a customer, there will be a <span style="color:red">**red stop sign**</span> flagged with "**Additional Approvals Required**".
+The following is intended as a guide for Opportunity Owners who need to submit a quote for approval for discount or payment terms. If the quote requires approvals before sending to a customer, there will be a <span style="color:red">**red stop sign**</span> flagged with "**Additional Approvals Required**".
 
 #### Standard Quote Approval
 
-Prior to generating a standard (non-draft) quote to deliver to a client or prospect in Word or PDF format, any non-standard elements (discounts, unique payment terms, and other items found in the matrix) must be approved. The following steps outline the process for how to correctly submit a quote for approval. This approval flow follows the criteria in [our approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0) for approvers. Please review this matrix so you are aware of all the scenarios as well as any potential fields that you may have to fill out on the quote.
-
+Prior to generating a standard (non-draft) quote to deliver to a client or prospect in PDF format, any non-standard elements (discounts, unique payment terms, and other items found in the matrix) must be approved. The following steps outline the process for how to correctly submit a quote for approval. This approval flow follows the criteria in [our approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0) for approvers. 
 1.  Navigate to the quote that you would like to submit for approval. Ensure that all of the relevant information is filled out on the quote.
-1.  Make sure to include the `Submitter Comments` on the quote before you submit for discount and terms approval. Please provide as much detail as to why you are requesting discounts or other terms that require approval.
+1.  Include the `Submitter Comments` on the quote before you submit for discount and terms approval. Please provide as much detail as to why you are requesting discounts or other terms that require approval.
 1.  You will be able to see who the required approvers are on the quote prior to submitting the quote and why they are required.
-1.  Once you are sure that the quote has the correct info on it, click the `Submit for Approval` button on the quote screen.
-1.  Your quote has now been submitted for approval. If it needs any approvals, you can monitor who needs to approve it on the quote in the section `Required Quote Approvals`.
+1.  Click the `Submit for Approval` button on the quote screen.
+1.  Your quote has now been submitted for approval. You can monitor who needs to approve it on the quote in the section `Required Quote Approvals`.
 
 **Contractual Discounts**
 
-In cases where a discount has been applied to a quote pursuant to a signed agreement between GitLab and the customer, additional approvals are not required. To bypass the approval module, please tag Sales-Support in chatter to request that the quote approvals be overridden. Please include a link to the signed agreement with your request.
+If a discount has been applied to a quote pursuant to a signed agreement between GitLab and the customer, additional approvals are not required. Tag Sales-Support in chatter with a link to the signed agreement to request that the quote approvals be overridden.
 
 #### Channel Quote Approval
 
 Under the [**GitLab Partner Program**](/handbook/resellers/#gitlab-partner-program-overview), signed Channel Partners are granted specific, contractual discounts depending on the product, Partner Deal Type, and the Partner Engagement type. This information is automatically captured at the opportunity level. For more information, review the [SFDC Field Definitions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#sfdc-field-definitions) and the [Partner Program Discount Tables](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts).
 
-Only GitLab-authorized partners who have completed one sales certification may transact a GitLab order. Partners not authorized by GitLab may not transact.
+**Only GitLab-authorized partners who have completed one sales certification may transact a GitLab order.**
 
 **Quote Approvals:** The Quote Approval module identifies channel deals (subscription deals only) and manages the necessary approvals automatically. **To request approval on a quote, follow the steps above: [Standard Quote Approval](/handbook/business-ops/order-processing/#standard-quote-approval)**
 
 **Channel Approvers:** More information regarding regional Channel Approvers can be found [here](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#channel-approvals).
 
-In the event that you require escalation for an approval request, please [reach out to Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). If possible, Deal Desk will override the approval. If Deal Desk cannot do so, Deal Desk will help to seek approvals from necessary parties.
+In the event that you require escalation for an approval request, please [reach out to Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). Deal Desk will override the approvals as applicable or help seek approvals from necessary parties.
 
 The quote approval module and approval workflow outlined above **does not apply to Public Sector opportunities**. For more information on opportunity requirements for Public Sector, check out the [Public Sector Opportunity requirements](/handbook/business-ops/order-processing/#second-review-all-requirements-for-each-type-of-sale).
 
 ### Where do I find the partner's contractual discount?
 
-The quoting system has been equipped to provide visibility into the correct programmatic partner discount. On the quote object, each line will be stamped with the “Partner Programmatic Discount.” This field is populated by the system, but does not provide any actual discount to the quote. In order to apply the discount to the quote, this amount should be entered into the “Discount %” field, as with any other quote discount. To confirm that the discount is correct, go to the opportunity and look at the Partner Deal Type, and then look at the Partner Engagement. Next, reference the appropriate [Partner Program Discount Table](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts). The product, Engagement, and Deal Type will allow you to find the proper discount in the matrix..
+The quoting system will provide visibility into the correct programmatic partner discount. On the quote object, each line will be stamped with the “Partner Programmatic Discount.” This field is populated by the system, but does not provide any actual discount to the quote. In order to apply the discount to the quote, this amount should be entered into the “Discount %” field on the edit products page. To confirm that the discount is correct, go to the opportunity and look at the Partner Deal Type, and then look at the Partner Engagement. Next, reference the appropriate [Partner Program Discount Table](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts). The product, Engagement, and Deal Type will allow you to find the proper discount in the matrix..
 
 
 ### Service Attach Quote Approval
@@ -616,7 +615,7 @@ If an opportunity meets the criteria listed above, but does not have a Professio
 **Summary: Waived True-Ups require executive approvals and may negatively impact Net ARR.**
 
 1. Waived True-Ups require written VP, CRO, and PAO/CFO approval, per the [approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.dccvx02huo2y). Approvals should be sought in SFDC Chatter on the related Opportunity.
-2. After approval is obtained, Sales should create the appropriate opportunity and quote. Typically, true up waivers are required after renewal, and thus require an Add-On opportunity as well as an amend subscription quote. It's important that the true up SKU be added to the same subscription that requires the true ups. On the quote, Sales should apply the appropriate true up SKU and quantity approved to be waived, and proceed enter a 100% discount. After saving the quote, Sales should tag @Sales-Support to override the quote approval requirement after approvals have been obtained in chatter. 
+2. After approval is obtained, Sales should create the appropriate opportunity and quote. Typically, true up waivers are required after renewal, and thus require an Add-On opportunity with an amend subscription quote. The true up SKU must be added to the same subscription that incurred the overage. On the quote, Sales should apply the appropriate true up SKU and quantity approved to be waived, at a 100% discount. After saving the quote, Sales should tag @Sales-Support to override the quote approval requirement. 
 3. Like all GitLab deals, waived true up orders must meet booking requirements as described [here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements). In most cases, that means that the customer must sign a $0 Order Form, or issue a $0 PO.
 3. Upon booking the true up waiver opportunity, Order Management will notify @Revenue of the waiver in SFDC chatter.
 4. After being notified, the Revenue team will review the case, and will calculate the amount of the ARR allocation. The Revenue team will then add it to the ARR Allocations Tracker.
@@ -625,7 +624,7 @@ If an opportunity meets the criteria listed above, but does not have a Professio
 
 ### How to Request Quote Approval via Chatter
 
-Complex deals occasionally require approval via chatter, please copy and paste the below, applicable template and complete each line item. You will need to tag the approvers outlined in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0). For **standard quotes** please submit the quote for approval, do not request additional approval in chatter. 
+Complex deals require approval via chatter. Use the applicable template below to request approvals. You will need to tag the approvers outlined in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0). For **standard quotes** please submit the quote for approval, do not request additional approval in chatter. 
 
 **If you are Requesting Approval for New Subscriptions:**
 
@@ -683,9 +682,9 @@ According to [our matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1Qb
 
 *  To review how you can approve or reject quotes please watch this [training on youtube](https://youtu.be/T47h4VNTRWU) - Please see the bullet in [Training Videos](#training-videos) on how to access this training video
 *  Once a user submits a quote for approval it follows the order of approvers as stated in our approvers matrix
-*  When you are required to review a quote and are the current team member who should review a quote you will be notified by email. In the email you will find the details as to why your approval, who any previous approvers were as well as a link directly to the quote.
+* You will be notified by an email which contains information about the request, any previous approvers, and a link to the quote.
 *  Once you have reviewed the quote you can either approve or reject any quote in one of two ways:
-   1.  You can reply directly in the email that you received by following the instruction in the email as to if you approve or reject the quote. You must follow this format when replying to an email:
+   1.  You can reply directly to the email that you received by following this format when replying to an email:
         * `APPROVE`, `APPROVED`, `YES`, `REJECT`, `REJECTED`, or `NO` must the first line of the email message. Any other terms in the first line of the reply will result in an error.
         * You can enter comments, but they must be on the second line of your response.
         * If you combine the first and second lines into a single line in your response, this will result in an error.
@@ -695,10 +694,10 @@ According to [our matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1Qb
 
 #### Reassign Quote Approvals
 
-If you are a quote approver and will be out of office for any duration of time, you will need to notify Deal Desk and set up rerouting of any quote approvals.
+If you are a quote approver and will be out of office, you will need to notify Deal Desk and set up rerouting of any quote approvals.
 
 1. In Salesforce, navigate to your Profile feed. At the top right of your screen click Your Name > My Profile.
-1. Tag Sales-Support in chatter to notify the Deal Desk team that you will be out of office and need quote approvals to be rerouted during your absence. Please tag the individual to whom quotes should be rerouted, along with the dates that you will be out of office.
+1. Tag Sales-Support in chatter to notify the Deal Desk team that you will be out of office and tag the individual to whom approvals should be rerouted to, along with the dates that you will be out of office.
 1. Navigate to your personal settings in SFDC. At the top right corner of your screen, Click on your name. In the drop down, click "My Settings".
 1. Enter Approver Settings in the Quick Find box, then select Approver Settings. No results? Enter Personal Information in the Quick Find box, then select Personal Information.
      1.  Assign your Delegated Approver (the individual to whom your quotes should be rerouted).
@@ -709,7 +708,7 @@ Note: If you are a Delegated Approver and are not receiving approval emails, con
 
 #### Approving Multiple Product Tiers on One Quote
 
-If a quote has multiple product tier SKUs (ex. Premium AND Ultimate), **this requires additional approvals prior to booking the opportunity**.
+If a quote has multiple product tier SKUs (ex. Premium AND Ultimate), **this requires additional approvals per[our matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0)**.
 
 1. All orders with mixed SKUs must be reviewed by revenue accounting for a fair value analysis prior to being sent to Zuora. Request approval via chatter.
 1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. ARR, iACV, PCV, etc).
@@ -720,11 +719,10 @@ If a quote has a <span style="color:green">**green circle**</span> at the top of
 
 #### How to Generate an Order Form as a PDF
 
-1. Once a [quote has been approved](/handbook/business-ops/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), review the Quote Template to ensure you have selected the correct form for this transaction. Review Quote Templates, linked above.
+1. Once a [quote has been approved](/handbook/business-ops/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), review the Quote Template to ensure you have selected the correct form for the transaction. The default template for all transaction types (new, amendment, or renewals) will be the Standard Order Form. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
 1. On the quote, click `Generate PDF Doc`. The document will be saved as an attachment in the Notes and Attachments section in the opportunity record. 
-1. Pre-approved Legal Language can be added to some order forms through Toggle Field selections available on the quote object. To Edit these fields, Click "Edit Quote Details". 
-1. Non-standard Legal Language will need to be reviewed, approved, and added manually by Legal. Please open a Legal Request case if you would like to propose non-standard contract terms to include on your Order Form.
-1. The default template for all transaction types (new, amendment, or renewals) will be the Standard Order Form. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
+1. Pre-approved Legal Language can be added to some order forms through Toggle Field selections available on the quote object. To edit these fields, Click "Edit Quote Details". 
+1. Non-standard Legal Language needs to be reviewed, approved, and added manually by Legal. Please open a Legal Request case if non-standard contract terms need to be to include on your Order Form.
 
 #### Setting Up DocuSign for the First Time
 The first time you login to DocuSign from SFDC, you will be required to Authorize access and log in. Please follow these steps when prompted:
