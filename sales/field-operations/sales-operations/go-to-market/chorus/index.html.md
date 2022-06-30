@@ -11,20 +11,23 @@ title: "Learn How to Use Chorus.ai"
 
 Confused about how to use Chorus? Check out the instructions and links below for more information on how to get the most out of this important sales tool.
 
+## What is Chorus?
+[Chorus](https://www.chorus.ai/) is a call and demo recording software for customer-facing team members. This tool tracks keywords, provides analytics, and transcribes calls into both Salesforce and Outreach. Chorus is used to onboard new team members, provide ongoing training and development for existing team members, provide non-sales employees with access to sales calls, and allow customer-facing team members to recall certain points of a call or demo.
+
 ## Logging into Chorus
 Log into Chorus by clicking on the Google sign in option on the [Chorus homepage](https://hello.chorus.ai/login?next=http:%2F%2Fchorus.ai%2Fhome) and selecting your GitLab Gmail account.
 
 ## Chorus Training & Enablement
 - Please familiarize yourself with [GitLab's SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) before utilizing Chorus.
-- All ROW team members are required to complete the [Chorus GDPR Training](https://gitlab.edcast.com/insights/card-c6492843-12f5-4353-9aab-fa82cf58d9cd) in order to be granted Recorder access. SalesOps will provide team members with the link to the EdCast Chorus training once their [Baseline Role-Based Entitlement](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/) is submitted by their manager.
+- All ROW team members are required to complete the [Chorus GDPR Training](https://gitlab.edcast.com/insights/chorus-ai-compliance) in order to be granted Recorder access. SalesOps will provide team members with the link to the EdCast Chorus training once their [Baseline Role-Based Entitlement](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/) is submitted by their manager.
   - Once the team member has completed training, they will notify SalesOps to have their license updated to a Recorder license in Chorus.
-  - SalesOps will verify course completion via an [EdCast report](https://edcast-536.domo.com/page/1681897168/kpis/details/1056608406).
+  - SalesOps will verify course completion via an [EdCast report](https://edcast-536.domo.com/page/1681897168/kpis/details/58622395).
 
 ### Chorus Scheduler
 To comply with GDPR and similar privacy laws, all team members with a Recorder license in Chorus are required to use a feature called Chorus Scheduler when organizing meetings with customers. Chorus Scheduler creates a Go-Link, which routes attendees to a designated landing page for location-based compliance capture so that a meeting host can obtain explicit consent from the participants to record meetings. If meeting hosts do not use Chorus Scheduler for customer meetings, Chorus will not record the meeting. For step-by-step instructions on using Chorus Scheduler, please watch [this 3-minute demo](https://drive.google.com/file/d/1toKxvu2DKqxF9Oo_8eogTZgPRUSAyIIp/view?usp=sharing) and refer to the [Call Compliance with Chorus Schedulers deck](https://drive.google.com/file/d/1U7VCxuQk1MtLTZ88XLdQt7y1_VBMYe8d/view?usp=sharing) for additional information.
 
 - If you are required by a customer to use a different conference platform than Zoom or Google Meet, please follow the instructions on the Static Link Flow slide of the [Call Compliance with Chorus Schedulers deck](https://drive.google.com/file/d/1U7VCxuQk1MtLTZ88XLdQt7y1_VBMYe8d/view?usp=sharing).
-- For situations where you are a participant in a meeting and are seeking to record, you may download the [Chorus App for Zoom](https://docs.chorus.ai/hc/en-us/articles/1260803823989-The-Chorus-App-for-Zoom-Meetings). This app allows you to add Chorus to a live call to record the meeting and take notes without leaving Zoom. In order to comply with local privacy laws, you will need to verbally obtain consent from your customer to record before doing so. If the customer does not consent to recording, you will not be permitted to record the meeting.
+- For situations where you are a participant in a meeting and are seeking to record, you may download the [Chorus App for Zoom](https://docs.chorus.ai/hc/en-us/articles/1260803823989-The-Chorus-App-for-Zoom-Meetings). This app allows you to add Chorus to a live call to record the meeting and take notes without leaving Zoom. In order to comply with local privacy laws, you will need to verbally obtain consent from your customer to record before doing so. If the customer does not consent to recording, you may not record the meeting.
     - For troubleshooting regarding the Chorus App for Zoom, please follow the steps below.
         1. Open Zoom SSO via [Okta](https://gitlab.okta.com/app/UserHome?iss=https%3A%2F%2Fgitlab.okta.com)
         2. Click on Settings then Zoom Apps
@@ -32,22 +35,28 @@ To comply with GDPR and similar privacy laws, all team members with a Recorder l
         4. Open a Zoom meeting on your desktop app
         5. You should now be able to see Chorus App and utilize the tool
 
-
 ## Security & Privacy Controls
 
-- The data retention policy for recorded calls in Chorus is 90 days as of March 1, 2022
+The data retention policy for recorded calls in Chorus is 90 days as of March 1, 2022.
 - Any action that would result in bypassing the 90 day data retention policy will need to be approved by GitLab's Legal team, including, but not limited to:
     - Preserving snippets of recordings in EdCast indefinitely
     - Downloading recordings
-    - Creating playlists & adding recordings to playlists
-  - **When requesting approval, please note the following:**
-      - The user must obtain approval from their manager and Legal by pinging the #legal channel in Slack with a link to the recording they would like saved
-      - Snippets saved to any playlists will be preserved
-      - Snippets saved on the call itself will be deleted according to the retention policy
+    - Retaining playlists past the 90 day data retention period
+- In order to request Legal approval to retain a playlist, or any other action that would bypass the 90 day data retention policy, the GitLab team member will need to submit an issue in the [Legal and Compliance project](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new#) using the Chorus Approval template.
+   - **When requesting approval, please note the following:**
+       - A request to retain a recording must be received by Legal *no later than 15-days prior to the end of the 90-day retention window*. For example, the request to retain a recording created on May 1st that will automatically be deleted 90-days later on July 30th must be received by Legal no later than July 15th. Please note that any request submitted within 14-days of the end of the retention window may not be reviewed in time or approved.
+       - Snippets saved to any playlists will be preserved
+       - Snippets saved on the call itself will be deleted according to the retention policy
 - Any time a Chorus link is shared, a password should be required or the link should be set to expire. Each user must complete this action individually.
-- As a best practice, please DO NOT include links to Chorus recordings in a public issue. If you need to include a Chorus recording or any type of customer information in an issue, please first mark the issue as `Confidential`.
+- As a best practice, if you need to include a Chorus recording or any type of customer information in an issue, please first mark the issue as `Confidential`.
   - For additional details, please see [this issue](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560#note_702890753).
 - [Chorus Compliance Resources](https://docs.chorus.ai/hc/en-us/sections/360001251353-Compliance)
+
+## What is a Chorus Tracker and How do I Create One?
+
+Trackers can be keywords or phrases that you are interested in highlighting across sales conversations. These can be used to track competitor mentions or client feedback, for example.
+
+Managers can submit an issue in the [Sales Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/new?issue%5Bmilestone_id%5D=#) using the Chorus Tracker Request template to have a Chorus Tracker created. Individual contributors who would like a Chorus Tracker created can sync with their manager and have them submit the request.
 
 ## Swim Lanes
 ### Recorder Access
