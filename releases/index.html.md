@@ -150,10 +150,20 @@ Release Managers may decide, with input from the [EOC](https://about.gitlab.com/
 
 For both types of releases, there are a few labels of specific importance.
 
-### GitLab.com releases
+#### Delivery impact labels
+
+Incidents may optionally have a `Delivery impact:*` label to indicate the impact the incident has when active. This label is intended to help with prioritizing between multiple incidents.  
+
+| **Impact label** | **Definition** |
+| ----- | ---------- |
+| Delivery impact::1 | Deployments and/or scheduled releases are fully blocked by this incident. Action should be taken to resolve this immediately |
+| Delivery impact::2 | Deployments and/or scheduled releases will soon become blocked. Resolve as soon as possible |
+| Delivery impact::3 | Deployments and releases are not currently blocked but there is some impact on the delivery process |
+
+### GitLab.com pick label
 
 For code that needs to be deployed to GitLab.com with higher priority than the
-regular cadence, we have `~"Pick into auto-deploy"` label.
+regular cadence, we have `~"Pick into auto-deploy"` label. Note that branches are regularly created throughout the day, inclusion in a scheduled deployment does not require this label. 
 
 The automated systems that create a new GitLab.com release will look for this label
 specifically, and any merge request with this label and a severity::1/severity::2 severity label will be automatically cherry-picked
@@ -163,9 +173,9 @@ will be posted in the merge request asking the author to create a new merge requ
 targeting the currently active release branch.
 
 The label should be only used under the following circumstances, when the merge
-request:
+request is especially urgent. For example: 
 
-- Fixes a severity::1/severity::2 bug
+- Resolves or mitigates a severity::1/severity::2 incident
 - Resolves a regression that can lead to a severity::1/severity::2 problem
 - Urgent performance or availability fix that can improve the stability of
 GitLab.com
@@ -300,10 +310,9 @@ For more detailed answer, see [self-managed release timelines](/handbook/enginee
 ### When will my merge request be deployed?
 
 We currently create an auto-deployment branch at a [specific
-timeline](/handbook/engineering/releases/index.html#gitlabcom-releases). The current Mean Time To Production time and target can be seen on https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp
+timeline](/handbook/engineering/releases/#gitlabcom-deployments-process). The current Mean Time To Production time and target can be seen on the [Infrastructure performance indicators page](/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp).
 
-For a merge request with [a specific
-label](/handbook/engineering/releases/index.html#gitlabcom-releases), the
+For a merge request with [the pick label](/handbook/engineering/releases/#gitlabcom-pick-label), the
 process is different.
 
 ### How can I determine what environment my merge request is currently in?
@@ -355,7 +364,7 @@ Any high severity issue should start with an issue labelled with the appropriate
 Depending on the bug details, follow one of the following processes: 
 - For [high severity security bugs][process-security-release-critical] 
 - For [high severity bugs affecting self-managed users][process-patch-release]. If the bug has been found close to the 22nd of the month please also alert the Release Managers in [#releases]. 
-- For [high severity bugs affecting GitLab.com](https://about.gitlab.com/handbook/engineering/releases/#gitlabcom-releases)
+- For [high severity bugs affecting GitLab.com](/handbook/engineering/releases/#gitlabcom-pick-label)
 
 ### How can I revert a security merge request?
 
