@@ -23,49 +23,14 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4199535?label_name[]=wg-next-prioritization) |
 | Epic            | [Link](https://gitlab.com/groups/gitlab-com/-/epics/1799) |
 
-## Business Goals of the cross-functional prioritization process
-
-The engineering allocation process often addresses maintenance work retroactively rather than proactively.  This leads to unpredictability and puts us at a higher risk of customer-facing incidents.
-
-As a result of this, it is critical that we create a healthier balance of work by type (features, maintenance items, bugs) delivered across R&D, improve transparency for R&D and GTM stakeholders, and be prepared to respond quickly to changing needs.
-
-In order to do so, we will transition R&D teams quickly to a new prioritization model driven by backlog types, automated SLO guidelines, and balanced prioritization ratios.  We should expect maintenance to be high in this new model until we reach steady-state, as all teams work to complete remaining engineering allocations while they also complete their burn-down of their current reliability and security debt backlog.
-
-Benefits include:
-
-- In order to have a healthier balance of work by type (features, maintenance items, bugs), we will set goals on these ratios and track on a per team and per sub-department basis
-- In order to improve transparency for stakeholders, we will publish dashboards where the trends and details can be tracked over time
-- In order to respond more quickly to changing needs, we will use this process to better stay ahead of maintenance work rather using the `engineering allocation` process which often addresses maintenance work retroactively rather than proactively.
-
-Prioritization DRIs:
-
-All prioritization will be done via quad planning (collaboration between product, development, UX, quality) with a DRI to be responsible for the decisions based on each work type:
-
-- Feature - Product manager
-- Maintenance - Development manager
-- Bug - Quality manager (by bug severity)
-
-More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Zo-Fdq3yVtk-q-uJrKe_03iF9jB1XQWqQb4/edit#slide=id.geebc38ecb3_0_261).
-
-### Handbook pages that document the new processes
-
-- [Cross functional prioritization](https://about.gitlab.com/handbook/cross-functional-prioritization)
-- [Cross functional dashboard reviews](https://about.gitlab.com/handbook/cross-functional-prioritization/cross-functional-dashboard-reviews.html)
-- [Engineering work prioritization](https://about.gitlab.com/handbook/engineering/development/#work-prioritization)
-
 ### Exit criteria
 
-- All groups have as an ongoing practice reviewing MR labels - undefined MRs and the split of MRs across features/maintenance/bugs.   
-- All groups are reviewing dashboard results from previous milestones and discussing as part of the next milestone planning.  This is to determine labeling accuracy, undefined MRs, and the intended split was achieved.  An outcome of a few milestones will be for teams to have recommendations on the split.  Teams should update their handbook page with their split goal.
-- All groups are explicitly not focussing on target ratios in the short term as this would be counter productive.
-- All groups are expected to have target ratio recommendations after 3 milestones.
-- All sections review the dashboards at the section level (quarterly).
+- All groups have dashboards that they use to analyze merged MR ratio of features, maintenance, bugs and undefined.
+- All groups are reviewing the dashboards and discussing it periodically (monthly).
+- Development engineering managers are providing their maintenance priorities to PM
+- Quality leads are providing their bug priorities to PM
+- PM is consulting with the quad (development EM, quality lead, UX lead) to determine which issues which will be planned for which milestone
 - VP Eng, VP Prod, VP UX, VP Quality, and CTO review the dashboards at the company level (quarterly).
-- Starting in July:
-  - Product continues to prioritize feature issues.
-  - Development transitions to being the DRI to prioritize maintenance issues.
-  - Quality transitions to being the DRI for bugs.
-  - Product (in consultation with UX, Development, and Quality) continues to be the DRI for scheduling issues for a milestone.
 - Automation exists to streamline the process.
 - Handbook is updated to reflect the new process.
 - Execute on mulit-modal communication plan.
@@ -84,17 +49,9 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Setup monthly MR type reviews between engineering managers, sub-department leads, and engineering overall trends | 2022-06-02 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) |
 | Refine stakeholder dashboard views, bug & maintenance backlog types | 2022-05-19 | Complete | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13321) |
 | Reduce undefined MR types to less than 5% | 2022-07-01 | May was 6.7% | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
-| 100% of teams using the new processes | 2022-07-04 | 30% as of June 10 | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
-| Do a restrospective and close working group | 2022-07-11 | Not started | Wayne Haber | TBD |
+| 100% of teams using the new processes | 2022-07-04 | 90% as of June 30 | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
+| Do a restrospective and close working group | 2022-07-18 | Not started | Wayne Haber | TBD |
 
-### Rollout
-
-- 2022-06-17 - all teams have reviewed (sync or async per team preference) the dashboard to discuss if the ratios are what they expect and if not think about potential actions to take, and they have set up a periodic review cadence to do this periodically
-- 2022-06-30 - development engineering managers will provide their product manager counterpart a prioritized list of maintenance work.
-- 2022-06-30 - quality managers will provide product management with a prioritized list of bugs (that aren't yet auto-prioritized).
-- The product managers will use the above lists, along with a prioritized list of features, to schedule and assign work to the next milestone
-- 2022-07-13 - product management has quad planning (final milestone refinement) available for review.
-- 2022-07-16 - CTO and VP of product management will review the overall quad planning
 
 ### Roles and Responsibilities
 
@@ -116,3 +73,13 @@ More details in these [slides](https://docs.google.com/presentation/d/1TDswR4h-Z
 | Member                | Neil McCorrison                                      | Frontend Engineering Manager, Secure |
 | Member                | Donald Cook                                          | Engineering Manager, Plan:Project Management |
 | Member                | Cheryl Li                                            | Senior Engineering Manager, Verify |
+
+
+# Cross-functional prioritization process
+
+The process is [documented](/handbook/engineering/#cross-functional-prioritization) in the handbook.
+
+
+
+
+
