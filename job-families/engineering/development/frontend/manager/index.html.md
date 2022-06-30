@@ -68,9 +68,9 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Selected candidates will be invited to a 30 minute [screening call](/handbook/hiring/#screening-call) with our Technical Recruiters
 * Next, candidates will be invited to a 60 minute interview with the Hiring Manager.
-* Candidates will then be invited to a 45 minute peer interview with another Frontend Engineering Manager
-* Candidates will then be invited to a 45 minute direct report interview
-* Candidates will then be invited to a 60 minute interview with our Senior Director of Development
+* Candidates will then be invited to a 50 minute peer interview with another Frontend Engineering Manager
+* Candidates will then be invited to a 50 minute direct report interview
+* Candidates will then be invited to a 60 minute interview with the [Skip-Level Manager](https://about.gitlab.com/job-families/engineering/development/management/).
 * Successful candidates will subsequently be made an offer
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
