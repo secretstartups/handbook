@@ -1002,18 +1002,23 @@ Quoting:
 
 1. Create a quote object per standard practice, and **enter "Amazon Web Services, Inc." as the Invoice Owner. The Invoice Owner Contact field should reflect "Accounts Payable (AWS)"**. The "Resale Partner" is "Amazon Web Services." The Sold To contact must be the individual who will receive the license. Use the Standard Order Form quote template. 
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
-1. Once Order Form PDF is generated, chatter Emily Murphy (Alliance Ops) to create Private Offer. Work with Alliances to provide Private Offer to customer for acceptance. Reach out to Pete Goldberg with additional questions.
+1. Once Order Form PDF is generated, chatter @Sales-Support(Deal Desk) to create Private Offer. 
+   All Private offer requests must include the following details:
+    AWS Billing ID
+    Customer details- Contact name and email who can accept the private offer
+    AWS Margin
+1. Order form need not be signed by the customer for AWS deals. By accepting the private offer customer agrees to Gitlab's subscription terms.   
 1. Note that Net ARR will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.
+1. Deal desk will send the private offer after it is created and opportunity owner along with ABDM will be notified.
 
 Requirements to Close Deal:
 
-1. A Private Offer must have been created within the AWS Private Offer Portal, accepted by the customer, and must match the deal elements as approved on the SFDC quote object / Order Form. The Private Offer will include the AWS Private Offer Order Form and the standard GitLab Subscription Agreement (as provided by Legal). Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer.
-1. Once the Private Offer has been accepted by the customer in the AWS Portal, the sales rep should work with Emily Murphy to attach evidence of the transaction, and then submit the opportunity for approval in SFDC. 
-1. Deal Desk will confirm the purchase with Emily Murphy before booking.
+1. A Private Offer must have been created, accepted by the customer,and must match the deal elements as approved on the SFDC quote object / Order Form. The Private Offer will include the AWS Private Offer Order Form and the standard GitLab Subscription Agreement (as provided by Legal). Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer.
+1. Once the Private Offer has been accepted by the customer,Deal Desk will chatter on the opportuniuty to submit for processing by attaching offer acceptance email. Then sales rep needs to submit the opportunity for approval. 
 
 Closing the Deal:
 
-1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity as per the [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy) applicable to new subscriptions. **Deal Desk will also update your price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
+1. At the time of deal closure, Order Management will adjust the Start Date on the Quote and Opportunity as per the [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy) applicable to new subscriptions. **Order Management will also update the price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the AWS account is permanently set to silent, and no invoices created will go to AWS.
 1. If the customer purchases Self-Managed, the license key file will automatically be sent to the 'Sold To' contact from the quote. If the customer purchases SaaS, the subscription will automatically be sent/updated for use at time of booking. Note: SaaS subscriptions purchased through AWS (or any reseller) will typically require support intervention because end-users do not have access to the customer portal. GitLab support includes a message in the purchase email that instructs users to contact support via a ticket for assistance. 
 ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [Customer Support Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=License%20Issue) and use the template for License Key or SaaS Subscription.
@@ -1030,19 +1035,26 @@ Quoting:
 
 1. Create a quote object per standard practice, and **enter "Google Cloud Marketplace" as the Invoice Owner, and "Cloud Marketplace Payments" as the Invoice Owner Contact**. The "Resale Partner" is "Google Cloud (Partner)". The Sold To contact must be the individual who will receive the license. Use the Standard Order Form quote template. 
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
-1. [Open a new issue](https://gitlab.com/gitlab-com/alliances/google/gitlab-tracker/-/issues/new?issuable_template=marketplace_deal) with the Alliance team to create the Private Offer. Please use the issue template *marketplace_deal* and fill out the description including the Order Form from Salesforce. When generating the PDF, be sure to select the GCP Quote Template before generating a PDF. Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer. The Private Offer must reference the GitLab Quote Number, and must match the deal elements as approved on the SFDC quote object / Order Form. Work with Alliances to provide Private Offer to customer for acceptance. Note that the Private Offer references GitLab's subscription terms, and that the customer's acceptance of the Private Offer signifies their acceptance of GitLab's subscription terms.
+1. Once order form is generated chatter @Sales-Support(Deal Desk) for private offer creation
+1. All Private offer request must include the following details:
+   GCP Billing ID
+   Customer details - Contat name and email of who can accept the private offer
+   GCP Margin
+   Mode of Payment -Prepy or PostPay
 1. Note that Net ARR will reflect the net price on the opportunity, after the margin to GCP is taken into account upon booking. Compensation for GCP deals will be channel neutral specifically for the margin to GCP.
-1. GCP does not support edits to a order once created and completed through a Private Offer.  Any mid-term updates or add-ons needed for the subscription requires a contract reset through a new Private Offer processed. 
+1. Add on's through GCP can be done as amendment for both prepaid and post pay deals.GCP Add on's  start date must always be in furture and acceptance deadline prior to that.
+   For example :start date will be 6/26 with offer acceptance deadline as 6/25. We cannot backdate amendments through GCP
+1. Any mid-term updates would require a contract reset and a new Private Offer needs to be created to replace the existing offer.
 1. Multi Year / Annual Payment GCP Opportunites require a custom order form. Product lines must be broken out by year. The order form must be reviewed by Legal. **The Order Form MUST be signed for these GCP scenarios only**
 
 Requirements to Close Deal:
 
-1. After the Private Offer has been accepted by the customer in the GCP platform, Alliances and Deal Desk will receive an email noting completion of the transaction. Alliances will then access the Private Offer in GCP to take a screenshot of the Private Offer, showing the name of the end customer, the name of the customer contact, the product purchased (including quantity), the price, the term length, and the GitLab quote number. Alliances will attach this screenshot to chatter on the SFDC opportunity and tag the GitLab sales rep for next steps.
-1. When Alliances tags the GitLab sales rep, the sales rep should review the attached screenshot against the quote to confirm that they match. If so, the sales rep should submit the opportunity for approval.
+1. After the Private Offer has been accepted by the customer,Deal Desk will chatter on the opportuniuty to submit for processing by attaching offer acceptance email. Then sales rep needs to submit the opportunity for approval. 
+1. The Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer. The Private Offer must match the deal elements as approved on the SFDC quote object / Order Form. Customer's acceptance of the Private Offer signifies their acceptance of GitLab's subscription terms.
 
 Closing the Deal:
 
-1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date (date of transaction email receipt). **Deal Desk will also update your price to reflect the margin taken by GCP. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
+1. At the time of deal closure, Order Management will adjust the Start Date on the Quote and Opportunity to match the transaction date (date of transaction email receipt). **Order Management will also update your price to reflect the margin taken by GCP. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the GCP account is permanently set to silent, and no invoices created will go to GCP.
 1. If the customer purchases Self-Managed, the license key file will automatically be sent to the 'Sold To' contact from the quote. If the customer purchases SaaS, the subscription will automatically be sent/updated for use at time of booking. Note: SaaS subscriptions purchased through GCP (or any reseller) will typically require support intervention because end-users do not have access to the customer portal. GitLab support includes a message in the purchase email that instructs users to contact support via a ticket for assistance. 
 ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [Customer Support Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=License%20Issue) and use the template for License Key or SaaS Subscription. 
