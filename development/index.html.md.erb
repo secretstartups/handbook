@@ -220,6 +220,18 @@ Here are some curated resources to get you started:
 - [Joining as an Engineer](/handbook/developer-onboarding/)
 - [Joining as an Engineering Manager](/handbook/engineering/development/onboarding/manager/)
 
+### Cross-Functional Metrics
+
+[Link to dashboard](https://app.periscopedata.com/app/gitlab/1008238/Next-Prioritization---VP-of-Development)
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="100%" style="min-height:1000px;" src="<%= signed_periscope_url({ dashboard: 1008238 , embed: "v2"}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
 <%= partial "includes/_cross-functional-prioritization.erb" %>
 
 ### Cross-Functional Collaboration
