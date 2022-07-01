@@ -833,25 +833,17 @@ You've created the quote, received all necessary approvals, and the customer has
 
 All opportunities must meet *all* requirements outlined below to be processed. **Exceptions are rare and not made lightly** and often require several approvals. Your opportunity will be rejected if it does not meet booking requirements. 
 
-#### Review required Salesforce fields
 
-1. On the **Account** record:
-  * Industry
-  * Complete Billing and Shipping Address
-  * In the Special Terms field, add any non-standard terms related to the subscription (ramps, special pricing), support (non-standard SLAs), finance (special billing/payment terms), or legal.
-
-1. On the **Opportunity** record:
-  * Go to the Contact Roles related list and add a Primary Contact. Ideally, you'll add Contact Roles much earlier in the sales cycle.
-  * If the opportunity involved a partner, meaning partner will get credit for the opportunity, please click new in the partner section and add partner. There should only be one partner selected for each opportunity.
-  * Add the Competitor(s). Note that this is only required for New Business; it is not required for Renewals or Add On Business.
-  * Make sure your Close Date is for the date you are submitting the opportunity for approval.
-  * Provide the Closed Won Reason and Closed Won Details (a few sentences highlighting why we won the deal, that supports your Closed Won Reason selection).
-  * Once these steps are completed, save the record and submit the opportunity for approval.
 
 #### Opportunity Booking Requirements
 
-There are unique requirements for different methods of selling GitLab. Review the below table or the drop down related to your order type.
+There are unique requirements for different methods of selling GitLab. Review the drop down related to your order type.
 
+
+ 
+
+<details>
+<summary markdown="span"><b>Overview Booking Requirements for Direct Opportunities<b></summary>
 <table class="tg">
 <thead>
   <tr>
@@ -882,7 +874,42 @@ There are unique requirements for different methods of selling GitLab. Review th
 </tbody>
 </table>
 
+A Direct Deal is a deal between GitLab and the Customer. There are no Distributors/Partners/Resellers involved at any stage of the process. **IMPORTANT NOTE**: At this time, we cannot accept Direct Deals through India. All opportunities with customers based in India must go through a reseller or partner.
 
+For all Direct Deals (Sales Assisted Opportunities) the customer must sign the Approved Order Form. Order Forms without a full customer signature (Name, Title, Company, Date) will be rejected by Deal Desk.
+
+**GITLAB FIRMLY REQUIRES ORDER FORMS TO BE FULLY EXECUTED. CLICK HERE IF CUSTOMER REFUSES TO SIGN ORDER FORM**
+
+1. Prospect/Client paid via Credit Card through the web portal- In this scenario the applicbale GitLab terms are agreed upon at the time of the purchase.
+
+1. An Order Form (which includes a Quote No.) is required in order to confirm products purchased, # of seats, term, and pricing. An Order Form is also needed to confirm the Prospect/Client agrees to the terms and conditions referenced in the Order Form.
+
+  * Discuss with customers / prospects, from on the onset, that signature will be required.
+
+  * If the parties agreed to non-standard, negotiated terms, the URL to our standard terms and privacy policy should be deleted and replaced with the following: "This Order Form is governed by the terms and conditions of the [NAME OF AGREEMENT] dated [MM/DD/YYYY] between the parties ("Agreement"). Customer has been deemed to have "Accepted" the terms of this Agreement upon the earlier of, (i) executing this Order Form, (ii) reference of this Order Form Quote No within a purchase order or similar document, or (iii) the use of any GitLab software.
+
+  * If an Order Form is executed by the Customer, GitLab review of a submitted purchase order will be minimal, the purchase order must include: a) the correct GitLab entity, b) the Quote No. found within the applicable Order Form, c) payment terms matching the Order Form, and d) line item descriptions that match the Order Form.
+
+1. In rare circumstances, where a Prospect/Client is unwilling to sign the Order Form, approvals are required from Legal and PAO and the Sales Team Member must attach to the Opportunity: 
+    - Reason(s) why the Customer is refusing to execute the Order Form; and
+    - Documentation (i.e., email thread) of the customer refusal
+
+1. If the Customer's purchase order **DOES NOT** include any legal or finance terms, as determined and approved by GitLab finance and legal, and includes a) the correct GitLab entity, b) the Quote No. found within the applicable Order Form, c) payment terms matching the Order Form, and d) line item descriptions that match the Order Form (without signature block), GitLab may accept the Order Form and purchase order without changes.   
+
+1. If the Customer's purchase order **DOES** include any legal or finance terms, as determined and approved by GitLab finance and legal, the Sales Team Member will be guided to direct the customer to either:
+
+  * Remove all references to such terms found within the purchase order; and/or
+
+  * Insert the following language into the supplied PO: "Notwithstanding any of purchaser's standard terms and conditions set forth or referenced herein, this PO is governed by the GitLab Subscription Agreement, GitLab Professional Services Terms (as applicable) or other such software license and/or services agreement negotiated by the parties"
+
+  * The purchase order in either instance (3&4) must also include: a) the correct GitLab entity, b) the Quote No. found within the applicable Order Form, c) payment terms matching the Order Form, d) line item descriptions that match the Order Form (without signature block)
+
+1. Direct Deals without an executed Order Form that do not meet the standards listed above (Sections 2-4) will be rejected.
+
+</details>
+
+<details>
+<summary markdown="span"><b>Overview Booking Requirements for Authorized Reseller, Authorized Distributor, and Managed Service Provider (MSP) opportunities</b></summary>
 <table class="tg">
 <thead>
   <tr>
@@ -912,72 +939,6 @@ There are unique requirements for different methods of selling GitLab. Review th
   </tr>
 </tbody>
 </table>
- 
-
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-baqh" colspan="3"><span style="font-weight:700;font-style:normal;text-decoration:none">Other Transaction Requirements</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Alliances Purchases (AWS and GCP)</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Purchases via AWS and GCP have specific requirements.</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">See: </span><br><a href="https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Professional Services</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Professional Services purchases have specific requirements.</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">See: </span><br><a href="https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Public Sector Opportunities</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Public Sector purchases have specific requirements.</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">See: </span><br><a href="https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements</span></a></td>
-  </tr>
-</tbody>
-</table>
-
-<details>
-<summary markdown="span"><b>Booking Requirements for Direct Opportunities<b></summary>
-
-A Direct Deal is a deal between GitLab and the Customer. There are no Distributors/Partners/Resellers involved at any stage of the process. **IMPORTANT NOTE**: At this time, we cannot accept Direct Deals through India. All opportunities with customers based in India must go through a reseller or partner.
-
-For all Direct Deals (Sales Assisted Opportunities) the customer must sign the Approved Order Form. Order Forms without a full customer signature (Name, Title, Company, Date) will be rejected by Deal Desk.
-
-**GITLAB FIRMLY REQUIRES ORDER FORMS TO BE FULLY EXECUTED. CLICK HERE IF CUSTOMER REFUSES TO SIGN ORDER FORM**
-
-    1. Prospect/Client paid via Credit Card through the web portal- In this scenario the applicbale GitLab terms are agreed upon at the time of the purchase.
-
-    1. An Order Form (which includes a Quote No.) is required in order to confirm products purchased, # of seats, term, and pricing. An Order Form is also needed to confirm the Prospect/Client agrees to the terms and conditions referenced in the Order Form.
-
-    * Discuss with customers / prospects, from on the onset, that signature will be required.
-
-    * If the parties agreed to non-standard, negotiated terms, the URL to our standard terms and privacy policy should be deleted and replaced with the following: "This Order Form is governed by the terms and conditions of the [NAME OF AGREEMENT] dated [MM/DD/YYYY] between the parties ("Agreement"). Customer has been deemed to have "Accepted" the terms of this Agreement upon the earlier of, (i) executing this Order Form, (ii) reference of this Order Form Quote No within a purchase order or similar document, or (iii) the use of any GitLab software.
-
-    * If an Order Form is executed by the Customer, GitLab review of a submitted purchase order will be minimal, the purchase order must include: a) the correct GitLab entity, b) the Quote No. found within the applicable Order Form, c) payment terms matching the Order Form, and d) line item descriptions that match the Order Form.
-
-    1. In rare circumstances, where a Prospect/Client is unwilling to sign the Order Form, approvals are required from Legal and PAO and the Sales Team Member must attach to the Opportunity: 
-        - Reason(s) why the Customer is refusing to execute the Order Form; and
-        - Documentation (i.e., email thread) of the customer refusal
-
-    1. If the Customer's purchase order **DOES NOT** include any legal or finance terms, as determined and approved by GitLab finance and legal, and includes a) the correct GitLab entity, b) the Quote No. found within the applicable Order Form, c) payment terms matching the Order Form, and d) line item descriptions that match the Order Form (without signature block), GitLab may accept the Order Form and purchase order without changes.   
-
-    1. If the Customer's purchase order **DOES** include any legal or finance terms, as determined and approved by GitLab finance and legal, the Sales Team Member will be guided to direct the customer to either:
-
-    * Remove all references to such terms found within the purchase order; and/or
-
-    * Insert the following language into the supplied PO: "Notwithstanding any of purchaser's standard terms and conditions set forth or referenced herein, this PO is governed by the GitLab Subscription Agreement, GitLab Professional Services Terms (as applicable) or other such software license and/or services agreement negotiated by the parties"
-
-    * The purchase order in either instance (3&4) must also include: a) the correct GitLab entity, b) the Quote No. found within the applicable Order Form, c) payment terms matching the Order Form, d) line item descriptions that match the Order Form (without signature block)
-
-    1. Direct Deals without an executed Order Form that do not meet the standards listed above (Sections 2-4) will be rejected.
-
-</details>
-
-<details>
-<summary markdown="span"><b>Booking Requirements for Authorized Reseller, Authorized Distributor, and Managed Service Provider (MSP) opportunities</b></summary>
 
 An Authorized Reseller, Distributor, or MSP is an approved partner with an active contract with GitLab in place. For opportunities where an any of these partners will purchase and resell to an End User:
 
@@ -1019,7 +980,7 @@ Closing the Deal:
 1. At the time of deal closure, Order Management will adjust the Start Date on the Quote and Opportunity as per the [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy) applicable to new subscriptions. **Order Management will also update the price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the AWS account is permanently set to silent, and no invoices created will go to AWS.
 1. If the customer purchases Self-Managed, the license key file will automatically be sent to the 'Sold To' contact from the quote. If the customer purchases SaaS, the subscription will automatically be sent/updated for use at time of booking. Note: SaaS subscriptions purchased through AWS (or any reseller) will typically require support intervention because end-users do not have access to the customer portal. GitLab support includes a message in the purchase email that instructs users to contact support via a ticket for assistance. 
-ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [Customer Support Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=License%20Issue) and use the template for License Key or SaaS Subscription.
+ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [GitLab Support Request](https://gitlab-com.gitlab.io/support/internal-requests-form/) and use the template for License Key or SaaS Subscription.
 1. Billing will create the invoice in Zuora and apply cash once received.
 
 </details>
@@ -1055,7 +1016,7 @@ Closing the Deal:
 1. At the time of deal closure, Order Management will adjust the Start Date on the Quote and Opportunity to match the transaction date (date of transaction email receipt). **Order Management will also update your price to reflect the margin taken by GCP. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the GCP account is permanently set to silent, and no invoices created will go to GCP.
 1. If the customer purchases Self-Managed, the license key file will automatically be sent to the 'Sold To' contact from the quote. If the customer purchases SaaS, the subscription will automatically be sent/updated for use at time of booking. Note: SaaS subscriptions purchased through GCP (or any reseller) will typically require support intervention because end-users do not have access to the customer portal. GitLab support includes a message in the purchase email that instructs users to contact support via a ticket for assistance. 
-ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [Customer Support Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=License%20Issue) and use the template for License Key or SaaS Subscription. 
+ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [GitLab Support Request](https://gitlab-com.gitlab.io/support/internal-requests-form/) and use the template for License Key or SaaS Subscription. 
 1. Billing will create the invoice in Zuora and apply cash once received.
 
 </details>
@@ -1103,9 +1064,7 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
 2. Note that the IBM (OEM) account is permanently set to silent, and no invoices created will go to IBM.
 3. License keys will NOT be sent automatically upon deal Closure. Instead, a Customer Support Issue must be opened to ensure the license for the deal is delivered to IBM Ecosystem Project Office immediately after deal closure.
   - Closed Won notifications will be made in the ibm-oem-closed-won Slack channel.
-  - After receiving the Closed Won notification, Alliance Operations should open a [Customer Support Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=License%20Issue) to ensure license key delivery. 
-    - [Example Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/5002)
-    - GitLab Support - Intental Requests - Issues
+  - After receiving the Closed Won notification, Alliance Operations should open a [GitLab Support Request](https://gitlab-com.gitlab.io/support/internal-requests-form/) to ensure license key delivery. 
 4. Billing will create the invoice in Zuora and apply cash once received.
 
 </details>
