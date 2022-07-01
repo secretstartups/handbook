@@ -416,26 +416,24 @@ Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePA
      - All of these splits should only ever appear in ``Opportunity - Incremental ACV 2`` split type
      - When the Opportunity Owner is updated, the splits for the Opportunity Owner are updated.
      - If a split is needed for the Owner the split needs to be created manually by an approved user
-  - `Sales Development Representatives` / `ISR` / `Primary Solutions Architect` / `Technical Account Manager` / `Channel Manager`: Base split automation rules
+  - `Sales Development Representatives` / `ISR` / `Primary Solutions Architect` / `Channel Manager`: Base split automation rules
      - When the corresponding lookup field on the Opportunity is populated (created or updated) a split for 100% is created for the user in the lookup field and added to the opportunity
      - The population of the above lookup fields follow the same rules and processes as they have before the rollout of this automation
      - If a lookup field is changed from User A to User B then ALL splits for that User Role on the Opportunity are deleted and a split for 100% is assigned to User B
      - If a lookup field is changed from a User to Null/Empty then ALL splits for that User Role on the Opportunity are deleted, and there will be not splits for that Team Role on the Opportunity
      - If a split is needed for any of these roles the split needs to be created manually by an approved user
   - `Technical Account Manager` Special Use Cases
-     - This use case is in the process of being deprecated as the Team migrates to utilizing the Stamped TAM Team Process
-     - When the `Technical Account Manager` field on the Opportunity is populated a split for 100% is created for whoever is added into the Technical Account Manager lookup
-        - The population of the `Technical Account Manager` is currently handled automatically, OpportunityClass.maintainTamTeamLookup, as they are only to be stamped onto Opportunities when the Opportunity is a Growth Opportunity
-     - If a split is needed for a Technical Account Manager the split needs to be created manually by an approved user
+     - This is handeled through the TAM Stamping process for some teams and are aligned with the SA Team for other TAM Teams. Splits aren't relevant for Technical Account Managers and Compensation. Please see [TAM Team Stamping](#tam-team-stamping) on this page for more details
   - `Channel Manager` Special Use Cases
-     - More detail coming soon!
+     - This is handeled through several matrixes that either stamp channel managers on the Opportunity and difffernt opportunity splits depending on a nuber of layers of criteria. 
+     More detail coming soon to the handbook. Refernce this [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/87) and related Issues in the meantime
  
 **Split Validation**
   - `OpportunityClass.checkAndConfirmSplitPercentages`
      - When an Opportunity has its stage changed there is a validation run against the splits on the opportunity. The validation aims to ensure that all splits on the Opportunity when grouped by Role add up to 100%. If the splits do not add up to 100% an error is thrown and the splits must be updated prior to moving the opportunity forward
      - For the purposes of this validation the Team Roles of `Opportunity Owner`, `Account Executive`, `null/Empty` are assumed to be the same role and are summed accordingly.
   - Validation Rules
-     - For individual end users to avoid having their splits erased - see the general automation notes for more details - a number of validation rules have been created. These validation rule prevent the Opportunity Owner from ever being the same user as either the `Sales Development Representatives`, `ISR`, `Primary Solutions Architect` or `Technical Account Manager`.
+     - For individual end users to avoid having their splits erased - see the general automation notes for more details - a number of validation rules have been created. These validation rule prevent the Opportunity Owner from ever being the same user as either the `Sales Development Representatives`, `ISR`, `Primary Solutions Architect`.
         - `Channel Managers` are not included in this Validation rule because they are not paid until after the close, the validation rule would conflict with existing automations and because it is expected that Channel Managers will never have a split Opportunity.
  
  
@@ -536,7 +534,7 @@ Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePA
 
 ## TAM Team Stamping
 
-**Business Process this supports:** This process supports our TAM Team Tracking Alignment and Compensation. See the business handbook section [here](/customer-success/tam/services/#parent-child-accounts-and-business-units). 
+**Business Process this supports:** This process supports our TAM Team Tracking Alignment and Compensation. See the business handbook section [Coming Soon](#) 
 
 **Relevant fields**
 - User Object:
