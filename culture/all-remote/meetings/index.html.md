@@ -78,6 +78,7 @@ Meeting agendas should be include:
   1. Why is this group gathering? The meeting's desired outcome should be clear.
 1. The date (if multiple meetings on a topic, you can use the same agenda document, but put dates as H1s or H2s in Google Docs for easier navigation)
 1. Questions or details. A place in the agenda where participants can add thoughts either synchronously or asynchronously. 
+1. If the meeting was recorded, after the meeting, update the agenda document with a link to the recording. 
 
 [Meeting DRIs](/handbook/people-group/directly-responsible-individuals/) should prep the agenda at least 72 hours before the meeting. This helps participants to:
 
