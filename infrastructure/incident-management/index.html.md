@@ -551,6 +551,7 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | `~Incident-Comms::*` | Scoped label indicating the level of communications. |
 | `~blocks deployments` | Indicates that if the incident is active, it will be a blocker for deployments. This is automatically applied to `~severity::1` and `~severity::2` incidents. The EOC or Release Manager can remove this label if it is safe to deploy while the incident is active. A comment must accompany the removal stating the safety or reasoning that enables deployments to continue. This label may also be applied to lower severity incidents if needed. |
 | `~blocks feature-flags` | Indicates that while the incident is active, it will be a blocker for changes to feature flags. This is automatically applied to `~severity::1` and `~severity::2` incidents. The EOC or Release Manager can remove this label if there is no risk in making feature flag changes while the incident is active. A comment must accompany the removal stating the safety or reasoning that enables feature flag changes to continue. This label may also be applied to lower severity incidents if needed. |
+| `~Delivery impact::*` | Indicates [the level of impact this incident is having on GitLab deployment and releases](/handbook/engineering/releases/#delivery-impact-labels) |
 
 #### Duplicates
 
