@@ -1287,79 +1287,7 @@ To view the status of an opportunity after it has been submitted for approval, *
 * **Finance Approval**: Once Deal Desk has reviewed and approved the transaction, Finance will review. If the opportunity is approved by Finance, the stage will update to “Closed Won” and the deal is officially booked. An approval email will be sent to the opportunity owner and Slack message will appear in the “wins” channel and the "wins-key-deals" channel where applicable.
 *  **Finance Rejection:** Once Deal Desk has reviewed and approved the transaction, Finance may reject the opportunity. If Finance rejects the opportunity, the stage will remain in “7- Closing” and both the Sales Rep and Deal Desk Analyst will receive an alert email containing the rejection reason. The Sales Rep should work with the Deal Desk Analyst to rectify the issues that led to Finance rejection. Once the issues are resolved, the Deal Desk Analyst will approve the deal once more to submit it to Finance for final approval.
 
-<details>
-<summary markdown="span"><b>Deal Desk Approval Process</b></summary>
 
-The Deal Desk will review the following data points once an opportunity has been submitted for approval:
-
-1. There is a signed Order Form or a PO attached to the opportunity Notes and Attachments section.
-1. If an SLA or MSA has been issued, it must be attached to the opportunity, approved, and countersigned.
-1. Complete and accurate Bill To and Sold To Information on the order form. Any blank values will be rejected.
-1. Start Date confirmation- start dates may be in the past because quote was never updated or took time to sign.
-1. Correct template is used for route to market. 
-1. If a PO is issued:
-    * The Amount on the PO and the Order Form must match.
-    * The entity on the PO should match the correct entity of the quote.
-    * The correct Quote ID must appear on the PO for reseller deals only. If the client/prospect is not going to sign the order form and if the PO contains terms and conditions (or a link to terms and conditions), you must also include the effective date of the governing MSA or EULA onto the PO.
-    * The PO must appear in the `Purchase Order` field on the Quote object.
-    * All PO terms must be approved by Legal or CFO for each opportunity.
-1. For reseller quotes, the opportunity and quote should be created under the end-customer account, NOT the reseller account. The reseller should be listed as the Invoice Owner and the reseller's billing contact should be listed as the Invoice Owner Contact.
-1. Discounts:
-    * Check discount level as per the [Discount Approval Matrix](https://docs.google.com/document/d/1-8TG8YLAQB-465mFLYnX3wkB6C6-0aI1A4CzdfjpacU/edit#heading=h.gajbwmoww16e).
-    * Were the discount approvals documented via Chatter?
-    * Future discounts greater than initial discount. This should be checked upon quote creation, but should be pre-approved by CRO or RD.
-1. Correct GitLab Entity
-    * For customers subject to switch to new entity, Add Ons should be on the original entity.
-    * Upon renewal, customer will then be migrated to new entity.
-    * Contract Resets:
-        *  For opportunities that require an entity switch at the time of renewal (i.e. if a customer in the UK initially transacts via web and later renews via GitLab Sales, their entity will switch from Inc. to Ltd. at time of renewal), the credit information must not be included on the Order Form. Instead, Sales should inform the customer of the credit via email, and note that it will be applied to the invoice for the renewal/reset.
-1. Review for any revenue recognition terms.
-1. Ensure that the quote does not list any future products as this impacts revenue recognition.
-1. Any exceptions to standard start/end dates.
-1. If the opportunity is for training or professional services a detailed cost estimate must be included as an object in the opportunity record.
-    * Professional services that are associated with a SKU do not require a cost estimate. Any discounted services (including zero values) require specific approval according to the discount authority matrix.
-    * Note: Professional Services must be sold on standalone Professional Services-type a opportunity. They must not be sold on the same opportunity as subscription products.
-
-In addition to the above, Deal Desk will also review:
-
-**SalesForce Data Points**
-
-    *   Account Ownership
-    *   Opportunity Ownership
-    *   Financial Fields [Amount, Renewal Amount, Renewal ACV, iACV, Net ARR]
-    *   Compensation Fields [User Segment (O), Account Owner Team (O), Owner Team (O), SA Team - Xactly]
-
-**Professional Services Opportunities**
-
-    *   In scenarios where an SOW contains multiple billable events, payable at the time the event takes place (i.e. invoice schedule based on completion of services at different times), multiple opportunities will be created based on the dates of the services. This ensures that invoicing can be done correctly.
-    *   A Professional Services SKU may not be used in conjunction with a subscription product SKU in any case.
-    *   A Professional Services quote reflecting a signed SOW will be created using the GitLab Service Package SKU.
-
-**New Business Opportunities for Existing Billing Accounts**
-
-    *   Deal Desk will check if the Sold To Contact on the quote matches the current Sold To Contact on the Zuora Billing Account.
-    *   If the contact does match, Deal Desk will paste the Billing Account ID into the Billing Account ID field on the quote object.
-    *   If the contact does not match, Deal Desk will ensure that the Billing Account ID is blank on the quote to drive creation of a new Billing Account.
-
-**Revenue Recognition Issues**
-
-Deal Desk must tag the Revenue Recognition team to review opportunities in the following scenarios:
-
-    *   Where there are multiple line items for the same product (i.e. 100 SaaS - Premium licenses at 0% discount and 50 SaaS - Premium licenses at 10% discount)
-    *   Any discounted Professional Services SKU
-    *   Tiered Pricing
-    *   Guest or Reporter Access SKU(s) in addition to a standard subscription product SKU on the same quote
-    *   The usage of any free SKU
-
-**Opportunity Rejection Reasons** 
-
-Opportunity Rejection reasons are tracked to ensure efficiency inside and outside of GitLab by identifying trends for opportunity rejections. 
-
-    *   If an opportunity is missing any booking requirement, the Deal Desk team member will reject the opportunity
-    *   At time of Rejection, the Deal Desk team member will populate the Rejection Reason field with reason codes 
-    *   If opp is rejected and Rejection Reason field is left blank, the Deal Desk team member who processed the order will be responsible for reconciling opps at the end of the month
-
-</details>
 
 
 ### **Post Sale Information**
