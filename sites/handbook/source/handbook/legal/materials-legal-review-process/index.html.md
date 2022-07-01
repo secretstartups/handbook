@@ -80,8 +80,8 @@ Follow this process to obtain legal review of a **single piece of material**. A 
 
 ### Is this material for internal or external use?
 <!-- Delete as appropriate, and refer to the definitions of `external use` and `internal use` in the Materials Legal Review Process. If there are plans to use the material, or any part of it, externally in the future, chose `external`. -->
-- external @hloeffert @LeeFalc
-- internal @hloeffert
+- external @Scott Rissmiller @LeeFalc
+- internal @Scott Rissmiller
 
 ### Will the materials be made available on GitLab Unfiltered, Edcast, or anywhere else?
 <!-- Delete as appropriate to state whether some or all of the materials being submitted for review will be made available anywhere. If they will, give details of the visibility the materials will have. -->
