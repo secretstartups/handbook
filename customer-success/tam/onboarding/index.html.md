@@ -110,6 +110,21 @@ Time to Onboard is the difference between `Onboarding CTA Start Date` and the da
 
 - Required TAM action: Close the Onboarding CTA
 
+## Command Plan
+A Command Plan is used as a living pre-sales document, and its objectives are converted into Gainsight Success Plan objectives at the time of account onboarding. 
+
+### Command Plan Attainment Reporting in Gainsight 
+To ensure the customer attains their original purchase intent, the field can now monitor the [Customer Health Dashboard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/6fe58b23-f27b-45a2-b2bc-1aca54a3495f) in Gainsight, which provides quick snapshot into the following fields and information related to an account's Command Plan:
+- `Solution` (i.e. Platform, Security, Automate Software Delivery, etc.)
+- `Primary Capability` (i.e. Agile, CI, DevSecOps, etc.)
+- `Primary Value Driver` (i.e. Reduce Security & Compliance risk, Increase operational efficiencies, etc.)
+- `Associated Score Color` (i.e. Red, Yellow, Green)
+- `Metrics` - Filled in by Sales (_What is the business case? Have you quantified the challenge(s) they are having and the impact to the organization? What quantifiable metrics / measurements have been identified? How will you prove the business benefits of the solution?_) 
+- `Identify Pain` - Filled in by Sales (_The problems created by the customers current state. What are the biggest business and technical pains? Are those pains resulting in lost productivity, reduced revenues, increased costs, etc.? How severe is the pain? Does the customer perceive that the pain of change is less than the pain of doing nothing and sticking with the status quo? Is there a compelling event that adds to the pain?_)
+- `Date CP Use Case Turned Green` - Stamped date to identify the exact date the customer attained their original purchase intent. 
+
+This report should help TAMs and Sales track progress toward their customer's goals as recorded in the Command Plan in Salesforce prior to purchase, while also being able to help the customer and Account Teams understand the customer's achievement of their primary use case.
+
 ## Onboarding delays
 
 Given the importance of onboarding to the customer's journey and our ability to drive success, we want to move through it as quickly as possible. If onboarding is delayed, either because of something on the GitLab side or the customer side, we need to document the reasons and take appropriate action.
