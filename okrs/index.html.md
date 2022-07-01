@@ -89,7 +89,7 @@ All team members have access to Ally.io. New team members are automatically impo
 
 ### Ally.io is not limited access
 
-Since all team members have access to information in Ally.io, it is a home for OKR details that are both [internal only](/handbook/communication/#internal) and public. [Limited access details](/handbook/communication/#limited-access) should not be captured here. 
+Since all team members have access to information in Ally.io, it is a home for OKR details that are both [internal only](/handbook/communication/#internal) and public. [Limited access details](/handbook/communication/#limited-access) should not be captured here. All OKRs in Ally should be reviewied using the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/).
 
 ## Who sets OKRs?
 
@@ -211,6 +211,8 @@ To add new objectives in Ally.io, follow the steps below:
 1. Identify the owner for the objective.
 1. Identify the time period or quarter for the objective. 
 1. Outcome: Add the outcome for the objective, this will automatically be set to 100%. The outcomes added can be measured in % or numeric.
+1. Review the objective against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared.  
+1. Review to ensure that information should not be [limited access](/handbook/communication/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 1. Click create and the objective will be added.
 
 #### Key Results
@@ -221,6 +223,8 @@ To add new key results in Ally.io, follow the steps below:
 1. Enter a descriptive title for the key result.
 1. Check that the type, owner and time period are correct. 
 1. Add the outcome for the key results, outcome can either be measures in % or numeric. 
+1. Review the key result against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared. 
+1. Review to ensure that information should not be [limited access](/handbook/communication/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 1. Click create and the key results will appear under the corresponding objective. 
 
 Watch this video for how to add objectives and key results and align them with CEO OKRs(at the 3:00 minute mark): 
@@ -282,6 +286,8 @@ A Key Results health status should be maintained as the SSOT on the status. This
 During Key Reviews, teams should include material that covers [key OKR progress  details](/handbook/key-review/#okr-slides){:data-ga-name="okr slides"}{:data-ga-location="body"} and links to relevant OKRs.
 
 The first Key Review of the following quarter should offer a clear scoring for each KR.
+
+CEO OKR progress will be shared in first week of the month in the  following slack channels: [#ceo](https://gitlab.slack.com/archives/C3MAZRM8W); [#okrs](https://gitlab.slack.com/archives/C7957GG4B); [#e-group](https://gitlab.slack.com/archives/C5W3VS1C4); [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C).
 
 ## Scoring OKRs
 
