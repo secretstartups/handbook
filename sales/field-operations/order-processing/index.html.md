@@ -1130,9 +1130,9 @@ This policy dictates the timing of opportunity closure for all sales-assisted de
   - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity, but the close date will be updated after closure to match the Quote Start Date. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
 
 ##### Late Renewals
-- If a renewal is achieved *within 45 days after the Quote Start Date* (Renewal Date), the opportunity will be Closed Won on the date of approval submission.
-- **Renewal opportunities must be Closed Lost if the renewal is not achieved within 45 days after the Quote Start date (Renewal Date).**
-- If a renewal is achieved *more than 45 days after the Renewal Date, but less than 180 days after the Renewal Date*:
+- If a renewal is achieved *within 30 days after the Quote Start Date* (Renewal Date), the opportunity will be Closed Won on the date of approval submission.
+- **Renewal opportunities must be Closed Lost if the renewal is not achieved within 30 days after the Quote Start date (Renewal Date).**
+- If a renewal is achieved *more than 30 days after the Renewal Date, but less than 180 days after the Renewal Date*:
   - The renewal should be recorded on a newly created renewal opportunity. The renewal should be quoted using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
   - The original Closed Lost opportunity will remain as is. A second Closed Lost opportunity will be created and closed with the inverse values of the original, to effectively cancel the original Closed Lost opportunity. This new Closed Lost opportunity will have the same close date as the new Closed Won renewal opportunity. See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
 - If a renewal is achieved *more than 180 days after the Renewal Date*:
