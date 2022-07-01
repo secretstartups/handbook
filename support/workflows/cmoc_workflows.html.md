@@ -12,7 +12,7 @@ description: "Describes the role and responsibilities for CMOC rotation in Suppo
 
 ## Introduction
 
-As the GitLab.com Incident [Communications Manager on Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) it's your job to be the voice of GitLab to our users and stakeholders during an incident. To do this effectively you'll use a combination of [our status page](https://status.gitlab.com/) (powered by [Status.io](https://status.io)), Slack, Zendesk, and GitLab itself. The CMOC rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call).
+As the GitLab SaaS Incident [Communications Manager on Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) you are the voice of GitLab to our users and stakeholders during an incident. To do this effectively, you'll work primarily with the [Incident Manager (IM) and Engineer on Call (EOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) and use a combination of [our status page](https://status.gitlab.com/) (powered by [Status.io](https://status.io)), Slack, Zendesk, and GitLab itself. The CMOC rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call).
 
 Our Slack bot [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) provides a command (`/incident post-statuspage`) to quickly spin up an incident on [Status.io](https://status.io). From there, the basics of how to update and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. This document covers how GitLab specifically uses Status.io to perform those tasks.
 
@@ -22,14 +22,14 @@ Before getting started, take note of the following sections or to get straight i
 
 ### About Incidents
 
-This section contains information specific to how incidents are started, what various status messages in PagerDuty mean, and the difference between the EOC and the Incident Manager during an incident.
+This section contains information specific to how incidents are started, what various status messages in PagerDuty mean, and the difference between the EOC and the IM during an incident.
 
 #### How Incidents Are Declared
 {:.no_toc}
 
 Infrastructure uses [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) to [declare incidents through Slack](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident). Doing so will:
 
-1. Automatically page the EOC, Incident Manager, and CMOC.
+1. Automatically page the EOC, IM, and CMOC.
 1. Create an issue for the incident in the [Production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/) issue tracker.
 1. Provide a link to the Zoom call for the incident.
 1. Create a dedicated Slack channel for the incident.
@@ -52,11 +52,7 @@ GitLab team members are encouraged to use this method of reporting incidents if 
 #### Deciding Whether to Initiate Status Page Communications: EOC vs. IM
 {:.no_toc}
 
-The Incident Manager (IM) is the DRI for the decision of whether to initiate public communications via the Status Page. When joining an incident as the CMOC you should inquire as to whether communications are currently required.
-
-In later sections of this workflow it's called out that at times you should be asking the [Incident Manager (IM)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) assigned to the incident for permission to move it between stages (open, monitoring, resolved).
-
-On the rare occasion that an incident does not have an Incident Manager, the [Engineer On Call (EOC)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) assumes these responsibilities and you may ask them instead.
+The IM is the DRI for the decision of whether to initiate public communications via the Status Page. When joining an incident as the CMOC you should inquire as to whether communications are currently required. On the rare occasion that an incident does not have an IM, the EOC assumes these responsibilities and you may ask them instead.
 
 #### Reviewing Past Incidents
 {:.no_toc}
@@ -86,7 +82,7 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 
 - _We're seeing elevated error rates on GitLab.com, investigation is underway in: link_
 - _Some users are reporting connection issues to GitLab.com, we're working on it in: link_
-- Craft a draft of what you think is correct. Whenever possible use ["I intend to..." language](https://www.youtube.com/watch?v=7KnPjakwqeI) when communicating with the Incident Manager and EOCs:
+- Craft a draft of what you think is correct. Whenever possible use ["I intend to..." language](https://www.youtube.com/watch?v=7KnPjakwqeI) when communicating with the IM and EOC:
 
   - _@IM - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
   - _"In my next update I'm going to move the status to monitoring"_
@@ -125,7 +121,7 @@ As the CMOC you'll guide the incident through the following stages.
 
 1. **Stage 1: Engage** - Creating the incident in Status.io, joining the incident Zoom call, [notifying stakeholders](#notify-stakeholders), and labeling the incident issue.
 1. **Stage 2: Manage** - Following along with the work being performed by the EOC and any assisting engineers to resolve the incident while making updates to Status.io along the way while adhering to the [Frequency of Updates](#frequency-of-updates) schedule in addition to creating a tag for the incident in Zendesk, and tagging and replying to tickets.
-1. **Stage 3: Monitor (Situational)** - Setting the incident to **Monitoring** in Status.io for a period of time to ensure that the issue does not recur before we close it out. This stage may be skipped at the request of the Incident Manager.
+1. **Stage 3: Monitor (Situational)** - Setting the incident to **Monitoring** in Status.io for a period of time to ensure that the issue does not recur before we close it out. This stage may be skipped at the request of the IM.
 1. **Stage 4: Resolve** -  Setting the incident to **Resolved**, adding a post-mortem link in Status.io, and ensuring that there are no remaining Zendesk tickets that need tagging and a response.
 
 The following sections outline how to perform each of the steps within these stages and should be performed in sequential order.
@@ -219,7 +215,7 @@ The following is an example of an incident ready to be created regarding a delay
 
 #### Notify Stakeholders
 
-The CMOC now needs to notify internal stakeholders of the incident using the Incident Notifier Slack workflow. This should be done after the severity of the incident has been confirmed by the Incident Manager.
+The CMOC now needs to notify internal stakeholders of the incident using the Incident Notifier Slack workflow. This should be done after the severity of the incident has been confirmed by the IM.
 
 This workflow, once used, will ask you to fill out a form with details of the incident and will then post those details to `#community-relations` and `#customer-success`. This serves to notify those teams of the incident. A copy will also be sent in a direct message to you, should you be asked to post it anywhere else. To engage the workflow:
 
@@ -328,7 +324,7 @@ Adjust the `4` if the incident began earlier than four hours ago.
 
 ### **Stage 3: Monitor (Situational)**
 
-After the incident has been mitigated, we'll often begin a monitoring period to ensure that we do not see a recurrence of the issue. Monitoring typically lasts for 30 minutes, but it can vary and a specific amount of monitoring time may be requested by the Incident Manager. They **may also request that the monitoring stage be skipped entirely.** If this is the case, proceed directly to [Stage 4](#stage-4-resolve).
+After the incident has been mitigated, we'll often begin a monitoring period to ensure that we do not see a recurrence of the issue. Monitoring typically lasts for 30 minutes, but it can vary and a specific amount of monitoring time may be requested by the IM. They **may also request that the monitoring stage be skipped entirely.** If this is the case, proceed directly to [Stage 4](#stage-4-resolve).
 
 To begin monitoring, edit the incident and change the following fields.
 
@@ -426,7 +422,7 @@ Update the new schedule time by hitting on the _Reschedule Maintenance_ button *
 ### Sending Updates About Maintenance Events
 {:.no_toc}
 
-> **Note About Automated Maintenance Events**: On the Maintenance Event page you may see `Automation: Running`  with red text in parentehsis next to it reading `(Disable)`.
+> **Note About Automated Maintenance Events**: On the Maintenance Event page you may see `Automation: Running`  with red text in parenthesis next to it reading `(Disable)`.
 Once `(Disable)` has been clicked and subsequently disabled it cannot be re-enabled.
 In order to `Post Update` and `Finish Maintenance` the automated Maintenance Event must be `(Disable)`.
 After being disabled all future updates to this Maintenance Event must be manual updates from that point forward.
