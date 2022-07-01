@@ -231,7 +231,7 @@ People joining the company frequently say, "I don't want to step on anyone's toe
 At GitLab, we should be more accepting of people taking initiative in trying to improve things.
 As companies grow, their speed of decision-making goes down since there are more people involved.
 We should counteract that by having short toes and feeling comfortable letting others contribute to our domain.
-For example, pointed, respectful feedback to a [proposal](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/24447) by GitLab's CEO led to his own merge request being closed.
+For example, pointed, respectful feedback to a [proposal](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/24447) by GitLab's CEO led to his own merge request being closed. However, it is not required to respond to comments.
 
 ##### It's impossible to know everything
 {:.no_toc}
@@ -1308,6 +1308,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Reinforcing our values with features in GitLab, for example the [Iterations feature](https://docs.gitlab.com/ee/user/group/iterations/).
 1. Applying one of our [values virtual backgrounds](/press/press-kit/#green-screens) in video calls.
 1. Our GitLab [Song Book](/company/culture/songbook/), the song lyrics often mention GitLab values.
+1. Regularly conduct a values exercise at the [e-group offsite](/company/offsite/).
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses, which is why every promotion document at GitLab is shared with the entire company and uses the values as its core structure.
 
