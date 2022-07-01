@@ -107,6 +107,19 @@ However, every approver will have a section in the Nominator's Home tab on Slack
 This will load all the nominations you've reviewed, you will be able to see the state that nominations are in. These states are all the 
 same as mentioned in the above `I nominated someone recently and I still haven't heard back?` question.
 
+### I was informed that I had a Nomination pending my approval, but I haven't received any notifications?
+
+Due to limitations in place by Slack, we might not be notified of an approval request if the Nominatorbot App has become hidden from the `App` list. To prevent missing these notifications it is recommended to **star** your conversation with the Bot or move to a channel grouping, so it doesn't go missing if you haven't interacted with the Bot for a while.
+
+We can move this by following these steps:
+1. Right click on your conversation with the Nominator bot.
+1. Select `Move Conversation` from the menu.
+1. Select `Starred` or another channel grouping.
+
+To check up on any requests awaiting your approval we can also follow these steps:
+1. In Slack, open the Nominator conversation.
+1. Click on the `Messages` tab.
+
 ## Actions performed by engineers
 ### Offboarding
 When a people manager offboards, it could be that the person still had pending nominations.
