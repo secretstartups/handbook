@@ -65,7 +65,7 @@ The Deal Desk team is located around the world and will be available during stan
 
 For Alliances & Private Offer Creation, this process is supported by one team member globally, with managers trained as back ups for escalation points. For all Alliances deals, each region will be supported by a dedicated Deal Desk Analyst who specializes in Alliances, based out of AMER (Pacific Time). 
 
-During holidays, or when team members are on PTO, individuals located in a different regional may step in to support and ensure appropriate coverage. This is reserved for End of Month/End of Quarter, or other times when the team is short-staffed.
+During holidays, or when team members are on PTO, individuals located in different regions may step in to support and ensure appropriate coverage. This is reserved for End of Month/End of Quarter, or other times when the team is short-staffed.
 
 Support will be provided based on the following business hours in the respective region. If a complex case or non standard deal request is submitted after 4:00PM (Local Time) the case will be prioritized the following business day.  
 
@@ -168,7 +168,7 @@ The SLAs below are applicable (especially for contract resets and ramp deals) if
 
 ##### SLA for EoA Ramp Deal Requests
 
-The Deal Desk team will respond to E0A Ramp requests as quickly as possible. However, due to the complexity involved in building ramp deals, the SLA for an EoA Ramp Deal Order Form creation is as follows:
+The Deal Desk team will respond to EoA Ramp requests as quickly as possible. However, due to the complexity involved in building ramp deals, the SLA for an EoA Ramp Deal Order Form creation is as follows:
 
 | Subscription Term Start Date | First Response | Resolution |
 |----- | ----- | ------| 
@@ -189,7 +189,7 @@ Cases in this queue must be urgent and business critical. Cases that are routine
 
 #### 2. Regional Support Satisfaction 
 
-All regions will receive a Quarterly Customer Satisfaction survey at the beginning of each new quarter. Our team aims for a 92% satisfaction rating for their supported region. This survey is a valuable tool to provide feedback on areas of improvement related to the Quote to Cash lifecyle.
+All regions will receive a Quarterly Customer Satisfaction survey at the beginning of each new quarter. Our team aims for a 92% satisfaction rating for their supported region. This survey is a valuable tool to provide feedback on areas of improvement related to the Quote to Cash lifecycle.
 
 Results from the survey will be used to evaluate team member performance and to identify areas for improvement.
 
