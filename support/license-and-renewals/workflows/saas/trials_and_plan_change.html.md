@@ -39,36 +39,16 @@ If any fields when opening the ticket were filled out incorrectly,  send a publi
 
 ## Applying a trial to a namespace with an active subscription
 
-At present, a namespace cannot have a trial and an active subscription run
-concurrently. A customer may request this if they wish to give a higher-tier
-subscription a trial.
+> [As of 2022-07-01](https://gitlab.com/gitlab-com/support/managers/change-management/-/issues/10), Support won't act on any request for trials on top of plans.
+
+A namespace cannot have a trial and an active subscription run
+concurrently.  
+
+A workaround is to advise the customer to create a new group and request a trial 
+for it in order to test the  higher plan features. See more in the [Sales FAQ for Trials over Paid Plans on GitLab SaaS](https://drive.google.com/drive/u/0/search?q=%22Sales%20FAQ%20for%20Trials%20over%20Paid%20Plans%20on%20GitLab%20SaaS%22).
 
 There is an [open feature request #12186](https://gitlab.com/gitlab-org/gitlab/-/issues/12186)
-requesting to implement this functionality in GitLab.
-
-In the meantime, if you receive one of these requests, ask the requester that they and their customer understand the risks involved.
-
-<details>
-  <summary markdown="span">Confirmation of risks - Example wording</summary>
-
-  <p>Due to various bug issues it has caused, we are `[working on deprecating trials on an existing SaaS subscription](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3887)`. As we recognize this is a sudden change and communication is still in progress, we can go ahead. However, we want to ensure that you and your customer are aware of the risks.</p>
-
-   <p>By manually updating the plan, the namespace's plan will no longer match our subscription records. If the system does a validation check, it will `**immediately**` downgrade the namespace to Free. If this happens, customers can submit a high priority ticket, but are asked `*not*` to submit an emergency ticket as this is a known risk for the change requested.</p>
-
-   <p>If the customer does not want to take the risk, we recommend they start a 30-day trial on a separate group, and fork (or create) a project to test the features in the trial group.</p>
-
-   <p>If you have communicated the above with your customer and you still want to go ahead, then please confirm that for us and we will make the requested change.</p>
-</details>
-
-If the requester still wants to go ahead:
-
-1. Follow the [plan change requests using GitLab.com instructions](#using-gitlabcom-admin).
-1. Add a comment on the ticket that the change has been made with a link to the namespace admin page.
-1. Set an appropriate due date and place the ticket on hold.  The  ticket will reopen the ticket on the due date. 
-1. Once the due date has been reached, change the plan back to the original, and **remove** the admin note referencing the change.
-1. In the Zendesk ticket mark the task as 'done', and close the ticket.
-
-If the namespace accidentally gets downgraded to Free and the customer no longer wants to be on the Ultimate trial, use the [force associate](../workflows/customersdot/mechanizer.html#force-associate). Otherwise, manually changed them back to the Ultimate plan.
+requesting to implement this functionality in GitLab. 
 
 ## Workflow diagram
 
