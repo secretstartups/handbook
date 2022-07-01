@@ -11,10 +11,16 @@ This is a series of Speakers, Q&As, Talk and Workshops that the Diversity, Inclu
 
 ### Upcoming Speakers 
 
-- **18th/19th of November 2021 - Loops of Learning with Tracy Bell** 
-    - Calendar invites: [NORAM/APAC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjNzY2RjazgwOWhzZzVwdXNybnF1ZmNjbDggbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com) and [EMEA/APAC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGU0MXM2aHFvYW1zNWlmazZoZmtnOXJpN28gbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com)
+- 
 
 ### Past Speakers and Events 
+
+- 24th of June 2022 - Tyrance Billingsley 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://youtu.be/gjo4vAFzKqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 
 - **19th/ 20th of October 2021 - 50 Shades of Bias with Tina, Leo and Maribel**
 
