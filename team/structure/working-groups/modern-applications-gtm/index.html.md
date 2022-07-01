@@ -51,11 +51,11 @@ Generate compelling customer stories by driving value for our customer's digital
 | Facilitator           | Jonathan Fullam          | Senior Director, Solutions Architecture   |
 | Functional Lead       |Kris Nelson (Ent sales)            | Area Sales Manager |
 | Functional Lead       |TBD (Commercial sales)            | TBD |
-| Functional Lead       |TBD (Field Enablement)            | TBD |
+| Functional Lead       |Allison Gleisner (Revenue Programs)            | Director, Revenue Programs |
 | Functional Lead       |Aathira Nair (Product Marketing)            | Product Marketing Manager |
 | Functional Lead       | TBD (Customer Success)            | TBD |
-| Functional Lead       | TBD (Strategic Field Team)              | TBD |
-| Member                |TBD           | TBD |
+| Functional Lead       | Lee Faus (Strategic Field Team)              | Field CTO |
+| Member                |Reshmi Krishna           | Sr Manager, Solutions Architecture |
 
 
 ## Meetings
