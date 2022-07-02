@@ -256,23 +256,66 @@ Provide revenue training to other groups within GitLab
 * Experience with ERP systems and processes and with commission and billing systems
 * Ability to use GitLab
 
+### VP, Revenue Accounting 
+
+The Vice President, Revenue leads the world-wide revenue organization spanning revenue assurance, accounting & reporting, revenue operations, billing operations, accounts receivable and cash collection as well as SOX compliance for the revenue organization. This senior leadership role will set the long term direction for the revenue organization and will be a highly visible presence in commercial and go to market decision making, supporting complex contract negotiations and influencing policy making and complex issues of great significance across Gitlab. The VP, Revenue reports to the Principal Accounting Officer (PAO).
+
+#### Job Grade
+The Vice President, Revenue, is a [job grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### VP, Revenue Accounting Responsibilities
+* Develop a long term vision for the revenue organization at Gitlab. 
+* Set direction, develop and drive strategic plans and objectives for the revenue organization and influence across Gitlab. 
+* Drive the ongoing maturation and automation of systems, processes and teams within the revenue organization and across Gitlab.  
+* Develop an excellent working relationship with the sales organization and establish yourself as a highly visible and trusted advisor to sales on complex contract negotiations, commercial and go to market decisions.
+* Approve non standard deal terms in accordance with the deal approval matrix and set Annual Recurring Revenue policy for non routine transactions. 
+* Develop and maintain excellent collaborative working relationships with other teams across Gitlab, not only with Sales and the * Sales Organization but also including Customer Service, Legal, FP&A, IT, Accounting and Tax.
+* Develop an excellent working relationship with external auditors, present significant item updates, supporting documentation for the quarterly reviews and year-end audits.
+* Provide frequent education to the business on complex revenue matters including ASC 606 and provide highly visible communications to critical audiences across Gitlab. 
+* Ensure robust and effective control environment and successful SOX implementation and compliance.
+
+#### VP, Revenue Accounting Requirements
+* CPA is required, with minimum 20 years of professional experience with a publicly traded company in a senior revenue leadership role including technology industry experience.
+* Ability to lead a diverse, globally distributed team at scale in a fully remote environment. 
+* Ability to negotiate and influence opinions and decision making at the senior leadership level across Gitlab. 
+* Outstanding business and commercial acumen and ability to educate and translate complex revenue issues to non-finance personnel.
+* Outstanding leadership skills with ability to create a high performing and inclusive organization and to develop and effectively communicate a clear sense of mission, purpose, and priority for long term direction for multiple teams and across Gitlab. 
+* Polished communication skills, including an ability to listen to the needs of the business, research and comprehend complex matters, articulate issues in a clear and simplified manner, and present findings and recommendations in both oral and written presentations.
+* Excellent technical accounting knowledge with detailed understanding of current US GAAP standards.
+* Experience implementing SOX controls.
+* Meticulous attention to detail and analytical thinking.
+* Superb time management, decision-making and problem solving skills.
+* Demonstrates strong personal integrity, Gitlab values and ethics.
+* Ability to use GitLab.
+
+
 ### Performance Indicators
 
 * [Deals reviewed for revenue recognition = 100%](/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
 * [Non GAAP Revenue (Ratable Recognition)](/handbook/finance/accounting/#non-gaap-revenue-ratable-recognition)
+* [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+* [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+* [Average days of sales outstanding](https://about.gitlab.com/handbook/finance/accounting/#11-accounts-receivable)
+* [Deals reviewed for revenue recognition = 100%](https://about.gitlab.com/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
+* [Non GAAP Revenue (Ratable Recognition)](https://about.gitlab.com/handbook/finance/accounting/#non-gaap-revenue-ratable-recognition)
 * [Revenue recognition and accounting for other quote to cash transactions in Net Suite](/handbook/finance/accounting/#8-revenue-recognition-and-accounting-for-other-quote-to-cash-transactions-in-net-suite)
+* [Percentage of ineffective SOX Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+
 
 ## Career Ladder
 
 The next step in the Revenue Accounting job family is to move to the [Principal Accounting Officer](/job-families/finance/pao-jf/) job family. 
+
 ## Hiring Process
 
-Candidates for the Revenue Accounting team can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+* Candidates for the Vice President, Revenue can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
+* Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
+* Meet with PAO for 50 minutes
+* Meet with Senior Director, Revenue Accounting for 50 minutes
+* Meet with other Key Reports and Key Finance Leaders - for 30 minutes each
+* Meet with People Business Partner for the CFO Organization for 25 minutes
+* Meet with VP of Finance for 50 minutes
+* Meet with CFO for 50 minutes
 
-- Selected candidates will be invited to schedule a 30 minute screening call with our Global Recruiters
-- Next, candidates will be invited to meet with the Director of Revenue
-- Next, candidates will be invited to schedule a 45 minute interview with our Controller and one other member of the Accounting team
-- Finally, candidates may be asked to interview with the Principal Accounting Officer
-- Successful candidates will subsequently be made an offer via email or phone call
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/)
