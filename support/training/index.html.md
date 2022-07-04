@@ -151,9 +151,9 @@ Our onboarding pathway gives new Support Engineers an opportunity to learn at th
 
 The following reference table can be used as a guideline on achieving comfort with ticket management in your first 6 months in GitLab Support. Managers can also use this table to gauge the progress of new hires in their first 6 months after onboarding.
 
-**NOTE:** Table data is shown by month - for instance, in my 4th month as a SaaS-focus support engineer, I can aim to make about 60+ comments on tickets.
+**NOTE:** Table data is shown by month - for instance, in my 4th month as a SaaS-focus support engineer, I can aim to make about 60+ comments on tickets per month.
 
-| Month | Public Comments Reference Range - Self-managed | Public Comments Reference Range - SaaS |
+| Month | Public Comments per month Reference Range - Self-managed | Public Comments per month Reference Range - SaaS |
 | ------ |  ------ | ------ |
 | 1 | 0-10 | 0-20 |
 | 2 | 10-30 | 20-40 |
