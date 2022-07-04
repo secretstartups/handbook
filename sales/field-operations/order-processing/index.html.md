@@ -1050,11 +1050,12 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
   - Payment Term = Net 60
   - Start Date = Date of Transaction Notification Email
   - Products/Pricing: Enter the applicable GitLab product (see "Part Description" column) and the quantity (see "# Users" column). **"Total (USD)" should be equal to the value under "Net Revenue USD."**
-4. Generate Order Form. Be sure to use the Standard Order Form quote template.
+4. Generate Order Form (OF). Be sure to use the Standard Order Form quote template.
 5. Attach the following to the opportunity:
   - Screenshot of email notification from IBM noting that the transaction has closed from IBM
   - IBM spreadsheet with necessary transaction details
     - Includes: Order Number, Term, PO Number, Product Sold, Quantity, Total Price
+  - Make sure the generated OF is attached
 6. Chatter Sales Support with links to IBM Email notification, IBM spreadsheet, and Order Form.
 7. Once completed, submit the opportunity for approval.
 
