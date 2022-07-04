@@ -26,6 +26,7 @@ If the customer accepts the offer, did the export succeed (they got an email, or
 
 1. If yes, open [an infra export request](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=Project%20Export.md) and fill in all relevant information. This skips the Support console attempt. Can be done within 30 days of the project export.
 1. If not (or when in doubt), [open an export request in the internal requests tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Export%20Request).
+1. If at any time **an infra export request is opened**, please ensure you add the "infradev" label is added to the relevant GitLab bug issue.
 
 For convenience, two additional macros are available after an export attempt is made:
 
