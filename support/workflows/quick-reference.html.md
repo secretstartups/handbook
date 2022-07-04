@@ -26,7 +26,7 @@ However, the source of truth in order:
 | ------- | ------- |------- |
 | [2FA](account_verification.html#self-service-2fa-removal) | [No](/support/#account-recovery-and-2fa-resets) | See [gitlab&3783](https://gitlab.com/groups/gitlab-org/-/epics/3783) |
 | [Account Blocked](reinstating-blocked-accounts.html) | Yes |  |
-| [Data Restoration](restore_requests.html) | [No](/support/#restoration-of-deleted-data) | See [gitlab#357175](https://gitlab.com/gitlab-org/gitlab/-/issues/357175) |
+| [Data Restoration](restore_requests.html) | [No](/support/gitlab-com-policies/#restoration-of-deleted-data) | See [gitlab#357175](https://gitlab.com/gitlab-org/gitlab/-/issues/357175) |
 | [Email release](account_changes.html#releasing-an-email-address) | Yes | See [gitlab#352514](https://gitlab.com/gitlab-org/gitlab/-/issues/352514) |
 | [Email swap](account_changes.html#account-access-requests) | Yes | See [gitlab#16311](https://gitlab.com/gitlab-org/gitlab/-/issues/16311) |
 | [Email typo](confirmation_emails.html#typo-fix) | No | See [gitlab#325525](https://gitlab.com/gitlab-org/gitlab/-/issues/325525) & [gitlab#350498](https://gitlab.com/gitlab-org/gitlab/-/issues/350498) |
