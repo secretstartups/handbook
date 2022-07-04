@@ -9,7 +9,10 @@ title: Ops Hiring Process
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-We are running with some limited capacity in the recruiting team and we are asking hiring managers to cover all steps in the hiring process.
+We are running with some limited capacity in the recruiting team and we are asking hiring managers to cover all steps in the hiring process. Please prioritise your time in the following order when spending time on recruiting:
+1. References & Justifications
+2. Filling in scorecards/feedback
+3. Sourcing/Reviewing applications
 
 ## Hiring Process
 
@@ -85,26 +88,22 @@ In addition to reviewing candidates in the Evergreen req, you may also wish to d
 
 [Continuous check-in](/handbook/hiring/talent-acquisition-framework/req-overview/#step-5-weekly-check-in-issue)
 
-### Step 8. Assessment
+### Step 8. Schedule interviews
 
-[Assessment](/handbook/hiring/talent-acquisition-framework/req-overview/#assessment)
+Tag TA on the candidates profile to [Schedule interviews](/handbook/hiring/talent-acquisition-framework/req-overview/#team-interview) so they can manage the candidate throughout the interview stages.
 
-### Step 9. Schedule interviews
+### Step 9. Perform interviews
 
-Ping TA to [Schedule interviews](/handbook/hiring/talent-acquisition-framework/req-overview/#team-interview) so they can manage the candidate throughout the interview stages.
-
-### Step 10. Perform interviews
-
-### Step 11. Complete feedback
+### Step 10. Complete feedback
 
 [Complete feedback](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-5hm-hiring-team-to-complete-feedback-in-greenhouse). Ideally the feedback is submitted within 1-2 business days of the interview.
 If you're unable to submit it within that timeframe, please reach out to the Hiring Manager and/or Recruiter with any early evaluation and when they can expect your feedback by. 
 
-### Step 12. References
+### Step 11. References
 
 1. [Request references](/handbook/hiring/talent-acquisition-framework/req-overview/#step-7-references-and-background-check)
 1. [Complete references](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-complete-references)
 
-### Step 13. Justification
+### Step 12. Justification
 
 [Justification](/handbook/hiring/talent-acquisition-framework/req-overview/#step-8-justification-engineering-only)
