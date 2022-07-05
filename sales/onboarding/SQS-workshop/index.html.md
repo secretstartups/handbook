@@ -26,28 +26,6 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 ## Sales Quick Start Remote Agenda:
 
 
-### SQS 25 - June 2022
-
-* Workshop times quoted are United States Eastern Daylight Time (Atlanta, Georgia) (UTC -4)
-
-| DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
-| ------ | ------ | ------ | ------ | ------ |
-|June 7, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement  |
-|June 15, 2022 | 11:00a ET | 12:20p ET | Essential Questions Exercise | Field Enablement  |
-|June 15, 2022 | 12:30p ET | 1:50p ET | Value Card Exercise | Field Enablement |
-|June 16, 2022 | 11:00a ET | 12:20p ET | Discovery Question Exercise | Field Enablement  |
-|June 16, 2022 | 12:30p ET | 1:50p ET | Differentiator Exercise | Field Enablement  |
-|June 17, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
-|June 17, 2022 | 12:30p ET | 12:55p ET | Field Security |  Field Security Team   |
-|June 21, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
-|June 21, 2022 | 1:00p ET | 1:50p ET | Discovery Call 1 | Mock Customers  |
-|June 22, 2022 | 11:00a ET | 11:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
-|June 22, 2022 | 12:00p ET | 12:50p ET | Discovery Call 2 | Mock Customers |
-|June 23, 2022 | 11:00a ET | 11:50a ET | Channels |  Channel Team   |
-|June 23, 2022 | 12:30p ET | 1:20p ET | Discovery Call 3 | Mock Customers |
-|June 28, 2022 | 12:00p ET | 12:50p ET | Discussion: Professional Services | Professional Services Team    |
-
-
 
 ### SQS 26 - July 2022
 
@@ -55,7 +33,7 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
-|July 7, 2022 | 11:00a ET | 11:50a ET | Welcome Call | Field Enablement  |
+|July 8, 2022 | 11:00a ET | 11:50a ET | Welcome Call | Field Enablement  |
 |July 13, 2022 | 11:00a ET | 12:20p ET | Essential Questions Exercise | Field Enablement  |
 |July 13, 2022 | 12:30p ET | 1:50p ET | Value Card Exercise | Field Enablement |
 |July 14, 2022 | 11:00a ET | 12:20p ET | Discovery Question Exercise | Field Enablement  |
