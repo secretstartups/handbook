@@ -20,7 +20,7 @@ The Certifications align to the customer's journey and the [field functional com
 
 
 Note: This certification program is different from resources like other GitLab certifications that focus on how to _use GitLab_ or tied to GitLab competencies (though we encourage field team members to take these as well)! 
-- [GitLab Certifications](/handbook/people-group/learning-and-development/certifications/)
+- [GitLab Certifications](/learn/certifications/public/)
 - [GitLab Technical Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
 
 
