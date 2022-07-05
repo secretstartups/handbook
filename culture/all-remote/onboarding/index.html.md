@@ -178,7 +178,7 @@ Best practices for effective onboarding include clear **communication**. A few w
 * Encourage one-on-one video calls between people (as part of onboarding)
 
 ### Remote first company culture
-For many, building a [remote first culture](company/culture/all-remote/how-to-work-remote-first/) is challenging, but worthwhile. **Culture is the barometer of how well an organization is communicating and reinforcing its values**. 
+For many, building a [remote first culture](/company/culture/all-remote/how-to-work-remote-first/) is challenging, but worthwhile. **Culture is the barometer of how well an organization is communicating and reinforcing its values**. 
 
 Culture is created when a company's values are prescriptively articulated and visibly [reinforced](/handbook/values/#how-do-we-reinforce-our-values) through elements such as [discretionary bonuses](/handbook/incentives/#discretionary-bonuses) and linking promotions to values. 
 
