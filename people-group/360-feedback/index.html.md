@@ -74,7 +74,7 @@ Participants should also ensure that they meet the [requirements to participate]
 
 ### Sign Up Process
 
-The FY'23 360 Feedback Cycle will be optional company-wide. To sign up, **all team members must complete [this Google Form](https://docs.google.com/forms/d/1ZieU5I9lQLyXCEc4uf6l9F2m61AEcu_AD-g0x1JM28E/prefill) to participate**. There are a few important things to keep in mind before signing up:
+The FY'23 360 Feedback Cycle will be optional company-wide. To sign up, **all team members must complete [this Google Form](https://forms.gle/aqLLbKrkbyV9g3DM8) to participate**. There are a few important things to keep in mind before signing up:
 
 - **You must sign up before the [Sign Up Window due date](https://about.gitlab.com/handbook/people-group/360-feedback/#timeline-fy23) or you will not be able to participate in the cycle.** This is to ensure we are able to launch the review cycle on time
 - Ensure you meet the [tenure eligibility](https://about.gitlab.com/handbook/people-group/360-feedback/#eligibility) requirement 
