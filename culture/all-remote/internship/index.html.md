@@ -191,7 +191,7 @@ All-remote forces you to do things that you [should do anyway](/company/culture/
 ## What are the best ways to stay connected with remote interns?
 If you don't hire your remote intern/s at the end of their internship experience, be sure to sweeten their transition out by ending well.
 
-1. [Say Thanks](handbook/communication/#say-thanks) for the work they contributed during their internship. At GitLab, we even have a `#thanks` Slack channel! 
+1. [Say Thanks](/handbook/communication/#say-thanks) for the work they contributed during their internship. At GitLab, we even have a `#thanks` Slack channel! 
 1. Acknowledge intern contributions in team meetings, issues, company calls, 1-1 meetings.
 1. Send a gift or a swag bag to commemorate their contributions.
 
