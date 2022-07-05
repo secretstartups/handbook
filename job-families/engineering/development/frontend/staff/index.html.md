@@ -35,14 +35,14 @@ Frontend Engineers at GitLab work on our product. This includes both the open so
 - Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment
 - Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions
 - Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems
-- Comfort working in a highly agile, [intensely iterative][iteration] software development process
+- Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) software development process
 - Demonstrated ability to onboard and integrate with an organization long-term
 - Positive and solution-oriented mindset
-- Effective communication skills: [Regularly achieve consensus with peers][collaboration], and clear status updates
+- Effective communication skills: [Regularly achieve consensus with peers](/handbook/values/#collaboration), and clear status updates
 - An inclination towards communication, inclusion, and visibility
-- [Self-motivated and self-managing][efficiency], with great organizational skills.
+- [Self-motivated and self-managing](/handbook/values/#efficiency), with great organizational skills.
 - Demonstrated ability to work closely with other parts of the organization
-- Share [our values][values], and work in accordance with those values
+- Share [our values](/handbook/values), and work in accordance with those values
 - Ability to thrive in a fully remote organization
 - Ability to use GitLab
 
