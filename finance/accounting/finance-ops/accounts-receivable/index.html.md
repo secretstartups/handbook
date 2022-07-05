@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Accounts Receivable"
+description: "The Accounts Receivable Team is a centralized team responsible for the timely collection of the accounts receivable portfolio and to enhance cash flow through the management of business systems and customer care."
 ---
 
 ## On this page
@@ -74,8 +75,8 @@ _Customers with overdue accounts may be contacted directly at any time throughou
 * Assist in month-end close procedures
 
 ### AR Performance Indicators (PI)
-* [Average Days Sales Outstanding (DSO)](https://about.gitlab.com/handbook/finance/corporate-finance-performance-indicators/#average-days-sales-outstanding-dso)
-* [Accounts Receivable Aging Greater Than 90 Days](https://about.gitlab.com/handbook/finance/corporate-finance-performance-indicators/#accounts-receivable-aging-greater-than-90-days)
+* Average Days Sales Outstanding (DSO)
+* Accounts Receivable Aging Greater Than 90 Days
 
 ## Business Systems
 
