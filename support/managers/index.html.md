@@ -43,14 +43,6 @@ As a larger leadership team, it's important that we remain in constant communica
 
 While managers won't generally directly participate in Senior Leadership Meetings, it's important to know they exist, what topics are discussed at what cadence and where the public agenda is. [Read more about Senior Leadership Meetings](/handbook/support/managers/senior/senior-leadership-sync.html).
 
-### Capturing notes from meetings into issues
-
-When there is a synchronous discussion about an issue or MR, be sure to:
-- summarize the discussion into the issue or MR.
-- link to the agenda item where it was discussed with a [bookmark](https://support.google.com/docs/answer/45893?hl=en&co=GENIE.Platform%3DDesktop), or note that the discussion was confidential.
-
-This will ensure that interested GitLab Team Members can see both the summary and context of the discussion.
-
 ## Working with your team
 
 1. [Getting To Know Your Team Members](/handbook/support/managers/getting-to-know-you.html)
