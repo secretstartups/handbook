@@ -24,8 +24,8 @@ Maximize GitLab's long-term valuation by enabling eGroup and FP&A to plan, prior
 6. Ensure our public company narrative aligns with operating strategy
 
 ## How GitLab’s FP&A plans to get there….
-1. Manage the budget and planning processes for GitLab's [Board Plan](handbook/finance/financial-planning-and-analysis/#annual-plan-and-target)
-2. Build and maintain a [long-term financial model](handbook/finance/financial-planning-and-analysis/#long-range-outlook) that identifies long-term strategy and financial targets
+1. Manage the budget and planning processes for GitLab's [Board Plan](/handbook/finance/financial-planning-and-analysis/#annual-plan-and-target)
+2. Build and maintain a [long-term financial model](/handbook/finance/financial-planning-and-analysis/#long-range-outlook) that identifies long-term strategy and financial targets
 3. Define business drivers and [KPIs](https://about.gitlab.com/handbook/business-ops/data-team/metrics/) in our operating and long-term models in collaboration with the business and measure efficacy of the business plan
 4. Own the rolling forecast process and provide actionable insights to ensure departmental performance vs. plan and strategy
 5. Drive quarterly earnings process as public company, including guidance and investor narratives
@@ -341,8 +341,8 @@ The inputs loaded into Adaptive are then used to provide the CFO a weekly P&L sn
 
 1. The primary mechanism to ensure efficient spend of company assets is the [Procure to Pay](/handbook/finance/procurement/) process, and specifically completion of the [vendor and contract approval workflow](/handbook/finance/procurement/) prior to authorization. The procurement team or your finance business partner can assist with questions related to this process.
 
-1. The second mechanism is the budget vs actual review to determine reasons for variances vs plan. See the section on [Variance Meeting with CFO](handbook/finance/financial-planning-and-analysis/#variance-meeting-with-CFO)
- and [Variance Analysis](handbook/finance/financial-planning-and-analysis/#variance-and-flux-analysis).
+1. The second mechanism is the budget vs actual review to determine reasons for variances vs plan. See the section on [Variance Meeting with CFO](/handbook/finance/financial-planning-and-analysis/#variance-meeting-with-CFO)
+ and [Variance Analysis](/handbook/finance/financial-planning-and-analysis/#variance-and-flux-analysis).
 
 ---
 
