@@ -33,7 +33,7 @@ This section highlights the current health status of each KPI based on the resul
 ### Key Performance Indicators 
 
 Deal Desk KPIs are outlined on the [Deal Desk handbook page](/handbook/sales/field-operations/sales-operations/deal-desk/#key-performance-indicators). 
-Order Management KPIs are outlined on the [Order Management handbook page](handbook/sales/field-operations/sales-operations/order-management/). 
+Order Management KPIs are outlined on the [Order Management handbook page](/handbook/sales/field-operations/sales-operations/order-management/). 
 
 ### FY23 Results 
 
