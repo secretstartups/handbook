@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/architecture-kickoff/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | August 10, 2020 |
-| End Date | September 11, 2020 |
+| End Date | October 27, 2020 |
 | Slack           | [#wg_architecture-kickoff](https://gitlab.slack.com/archives/C01787YCUNT) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1n1pslXw6yeoqRmsWGi4VYu9bPg8k46IIXqdUTJR8HSU/edit) (only accessible from within the company) |
 | Issue Board     | TBD             |

@@ -134,7 +134,6 @@ If you are interested in participating in an active working group, it is general
 ## Active Working Groups (alphabetic order)
 
 * [API Vision](/company/team/structure/working-groups/api-vision/)
-* [Architecture Kickoff](/company/team/structure/working-groups/architecture-kickoff/)
 * [Category Leadership](/company/team/structure/working-groups/category-leadership/)
 * [Continuous Scanning](/company/team/structure/working-groups/continuous-scanning/)
 * [Contribution Efficiency](/company/team/structure/working-groups/contribution-efficiency)
@@ -154,6 +153,7 @@ If you are interested in participating in an active working group, it is general
 * [MLOps](/company/team/structure/working-groups/mlops/)
 * [Modern Applications Go-To-Market](/company/team/structure/working-groups/modern-applications-gtm/)
 * [Multi-Large](/company/team/structure/working-groups/multi-large/)
+* [Next Architecture Workflow](/company/team/structure/working-groups/next-architecture-workflow/)
 * [Next Prioritization](/company/team/structure/working-groups/next-prioritization/)
 * [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
 * [Product Career Development Framework](/company/team/structure/working-groups/product-career-development-framework/)
@@ -166,6 +166,7 @@ If you are interested in participating in an active working group, it is general
 
 ## Past Working Groups (alphabetic order)
 
+* [Architecture Kickoff](/company/team/structure/working-groups/architecture-kickoff/)
 * [China Service](/company/team/structure/working-groups/china-service/)
 * [CI Queue Time Stabilization](/company/team/structure/working-groups/ci-queue-stability/)
 * [Commercial & Licensing](/company/team/structure/working-groups/commercial-licensing/)
