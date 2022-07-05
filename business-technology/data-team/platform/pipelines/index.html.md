@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Data pipelines"
+description: "This page describes the different data sources and the way we extract this data via data pipelines."
 ---
 
 ## On this page
@@ -221,7 +222,7 @@ The `boneyard` schema is where data can be uploaded from a spreadsheet and it wi
 
 ### Certificates
 
-If you are adding Certificates to SheetLoad, refer to the instructions in the [People Group page](/handbook/people-group/learning-and-development/certifications/#step-5-add-to-sheetload)
+If you are adding Certificates to SheetLoad, refer to the instructions in the [People Group page](/handbook/people-group/learning-and-development/)
 
 ## GCS External
 

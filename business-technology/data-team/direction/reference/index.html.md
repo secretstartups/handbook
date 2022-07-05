@@ -40,7 +40,7 @@ Finally, this is the long-term automated solution for several ad-hoc issues comp
 
 ### Knowledge Assessment & Certificates
 
-The Self-Service Data Certificate program is based on the [Learning and Development Certification program](/handbook/people-group/learning-and-development/certifications/). The Self-Service Data program provides individual Certificates for each subject-oriented Dashboard Developer or SQL Developer Knowledge Assessment successfully completed. Links to the Knowledge Assessments are located in the appropriate sections below.
+The Self-Service Data Certificate program is based on the [Learning and Development Certification program](/learn/certifications/public/). The Self-Service Data program provides individual Certificates for each subject-oriented Dashboard Developer or SQL Developer Knowledge Assessment successfully completed. Links to the Knowledge Assessments are located in the appropriate sections below.
 
 ### Data Classification
 
