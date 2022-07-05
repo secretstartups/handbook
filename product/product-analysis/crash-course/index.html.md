@@ -241,23 +241,25 @@ Contains helpful information about how Create operates and current team members
 ### Ops Section
 
 #### Verify Stage
-Short description of Verify Stage
+Verify provides teams with tools that help facilitate continuous integration. This includes but is not limited to pipelines and runners. 
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+* [Centralized SMAU / GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) This dashboard is a central place for all stages where their SMAU and GMAU metrics are housed for a high-level overview.
 
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+* [Ops Section Dashboard](https://app.periscopedata.com/app/gitlab/781120/Ops-Section-Dashboard) This is the central dashboard for all performance indicator metrics related to the Ops section. 
 
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+* [GitLab Runner SaaS Performance Indicator Metrics](https://app.periscopedata.com/app/gitlab/800667/GitLab-Runner-SaaS-performance-indicator-metrics)
 
+* [Actions per Month Verify Stage Dashboard](https://app.periscopedata.com/app/gitlab/538594/Actions-Per-Month-Verify-Stage-Dashboard)
+
+* [Error Budget Dashboard](https://app.periscopedata.com/app/gitlab/892433/Error-Budget-Dashboard---Stage-Verify)
 
 **Important data documentation**
 
-``` sql
-
+```sql
 SELECT * 
 FROM table
 WHERE field = stage_name
@@ -266,28 +268,44 @@ WHERE field = stage_name
 
 **Helpful video resources**
 
-[Link to user research or demos]()
-Group specification if applicable, brief description of youtube channel linked or specific singular video resource
+[Tanuki Tech: Verify and Secure](https://youtu.be/TgRamhC3ujg)
+
+This video showcases the product functionality of Verify and Secure and how to talk about those functionalities from a sales perspective.
+
+[Verify Team Overview](https://youtu.be/9iF9zWAxdH0)
 
 **Product roadmap link**
 
-[Link to product roadmap]()
-Resource to understand the long-term goals for this team
+[Section Direction: Verify Stage](https://about.gitlab.com/direction/ops/#verify)
+Resource to understand the long-term goals for the Verify team
 
 **Performance indicators**
 
-[Link to OKRs handbook page]()
-Resource to understand the current OKRs for this team
+[Ops Section PI](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/ops-section/)
+An internal handbook page that lists all performance indicators under the Operations section
 
 **Key handbook pages**
 
-[Link to helpful handbook page]()
-Describe why this handbook page is helpful for product analysts
+[Verify Stage Product Page](https://about.gitlab.com/handbook/engineering/development/ops/verify/)
+
+A central hub for all pages related to the Verify stage
 
 **Slack channels**
 
-**#slack-channel**
-Description
+**#s_verify**
+Overall channel for Verify
+
+**#g_pipeline-execution**
+Slack channel for the Verify:Pipeline Execution product category. 
+
+**#g_pipeline-authoring**
+Slack channel for the Verify:Pipeline Authoring product category.
+
+**#g_runner**
+Slack channel for the Verify:Runner product category. 
+
+**#g_pipeline-insights**
+Slack channel for the Verify:Pipeline Insights product category.
 
 **Team members**
 
@@ -494,6 +512,7 @@ Description
 
 Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Container Scanning, and Dependency Scanning 
 
+
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
@@ -658,7 +677,7 @@ Description
 
 **Team members**
 
-[Handbook page to find Secure team members to collaborate with](/handbook/product/categories/#secure-stage)
+[Handbook page to find Protect team members to collaborate with](/handbook/product/categories/#protect-stage)
 
 </details>
 
