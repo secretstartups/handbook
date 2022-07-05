@@ -753,6 +753,46 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 1. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/other-apps/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
 1. **Materials Review** are scheduled as all day not busy events as a reminder three days before the scheduled call.
 
+#### Cross-regional Working Hours Recommendations
+
+The following chart shows some helpful suggestions/considerations for scheduling across multiple regions while being respectful of common working hours.
+
+##### EMEA/AMER
+
+| Timezone          | Start     | End      |
+|-------------------|-----------|----------|
+| London/Lisbon     | 04:00 PM  | 06:00 PM |
+| Paris/Rome        | 05:00 PM  | 07:00 PM |
+| Istanbul/Tel Aviv | 06:00 PM  | 08:00 PM |
+| Abu Dhabi         | 07:00 PM  | 09:00 PM |
+| Mumbai            | 08:30 PM  | 09:30 PM |
+| PST               | 08:00 AM  | 10:00 AM |
+| EST               | 11:00 AM  | 01:00 PM |
+
+##### APAC/AMER
+
+| Timezone    | Start    | End     | 
+|-------------|----------|---------| 
+| Sydney      | 09:00 AM | 11:00AM |
+| Tokyo       | 08:00 AM | 10:00AM |
+| Hong Kong   | 07:00 AM | 09:00AM | 
+| Ho Chi Minh | 07:00 AM | 08:00AM | 
+| PST         | 04:00 PM | 06:00PM | 
+| EST         | 07:00 PM | 09:00PM | 
+
+##### EMEA/APAC
+
+| Timezone          | Start    | End      |
+| ------------------|----------|----------| 
+| Lisbon/Dublin     | 08:00 AM | 10:00 AM | 
+| Paris/Rome        | 09:00 AM | 11:00 AM |
+| Istanbul/Tel Aviv | 10:00 AM | 12:00 PM |
+| Mumbai            | 12:30 PM | 02:30 PM |
+| Ho Chi Minh       | 02:00 PM | 04:00 PM |
+| Hong Kong         | 03:00 PM | 05:00 PM |
+| Sydney            | 05:00 PM | 07:00 PM |
+ 
+
 ### Guidelines for vendor meetings
 
 1. We request external vendor meetings to use our video conferencing tool so we can quickly join the call and record the session if we need to. Confirm with vendor that they agree we can record the call. The DRI for the vendor meeting will generate the zoom link and share with the vendor.
@@ -764,6 +804,7 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 1. Do not demo your tool live, create a pre-recorded walk-through of the tool and make it available to GitLab before the meeting so we can ask questions if needed.
 1. Be cognizant of using inclusive language.
 1. We respectfully request that everyone is mindful of the time available, to help manage the call objectives effectively.
+
 
 ### Meeting introduction guidelines
 
