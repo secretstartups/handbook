@@ -142,7 +142,7 @@ gantt
 
 - Most of [strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
 - [3-year product direction strategy](/direction/#3-year-strategy){:data-ga-name="3 year strategy"}{:data-ga-location="body"}
-- [Option vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of 1 year is passed
+- [Restricted stock unit vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of six months is passed
 - Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-operations-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-operations-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
 
 ## Vision
