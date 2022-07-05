@@ -64,7 +64,7 @@ is used follows the following rules
 * If you are forking a repository, you will stay on the same shard
 * Otherwise, rails will select a random shard using weighted probabilities based on the weights assigned in the storage configuration
 
-In the [production](handbook/engineering/infrastructure/environments/#production) environment, the following well known groups/repos are run of
+In the [production](/handbook/engineering/infrastructure/environments/#production) environment, the following well known groups/repos are run of
 Gitaly/Praefect nodes in the `canary` stage exclusively
 
 * https://gitlab.com/gitlab-org
