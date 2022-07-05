@@ -21,7 +21,7 @@ Page in progress - Recently purchased. Marketing Operations is in the process of
 
 ## Provisioning
 
-We have a limited number of seats. Before putting in an Access Request, please [open an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=on24_access_request) for Marketing Operations to review your request.   Once your request is approved, then proceed to open an [Access Request]([create one](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request))
+We have a limited number of seats. Before putting in an Access Request, please [open an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=on24_access_request) for Marketing Operations to review your request.   Once your request is approved, then proceed to open an [Access Request]([create one](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)
 
 ### User Roles
 ON24 licenses are only required for people who are building webinar programs (presenters/speakers do not need a license). We have a limited number of licenses and adding more comes with a price.
