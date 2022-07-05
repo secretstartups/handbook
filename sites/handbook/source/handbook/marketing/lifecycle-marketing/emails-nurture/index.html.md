@@ -661,7 +661,7 @@ Send sameple to the DRI for the program (i.e. workshop owner) who is responsible
 
 You can remove specific recurrences of scheduled sales nominated deployments. The FMC is responsible for this change for field marketing activities, and campaign managers are responsible for this change for demand generation activities.
 
-To cancel a send, follow [these directions](handbook/marketing/marketing-operations/campaigns-and-programs/canceling-an-email-send).
+To cancel a send, follow [these directions](/handbook/marketing/marketing-operations/campaigns-and-programs/#canceling-an-email-send).
 
 ## Adding “add to calendar” links in our emails without using 3rd party tools
 {: #email-add-to-calendar}
