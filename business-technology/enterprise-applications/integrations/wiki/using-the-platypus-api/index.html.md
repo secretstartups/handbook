@@ -81,5 +81,5 @@ Platypus has a few different methods for authenticating requests but the preferr
    1. Check the response body in case there's information there about what failed.
 1. I am receiving a 403 response when I make requests to the API
    1. Ensure you are including your access token as a Bearer token in the `Authorization` header of each request
-   1. Ensure your token has not expired. You can debug this by pasting your token in the debugger at [jwt.io](jwt.io) and checking the `exp` field in the payload. If it shows you a date that's in the past, then it has expired.
-   1. Ensure that your token has the correct scopes for the API endpoint you are trying to consume. You can debug this by pasting your token in the debugger at [jwt.io](jwt.io) and checking the `scopes` claim in the payload. Check with the integrations team if you need additional scopes added to your API client.
+   1. Ensure your token has not expired. You can debug this by pasting your token in the debugger at [jwt.io](https://jwt.io/) and checking the `exp` field in the payload. If it shows you a date that's in the past, then it has expired.
+   1. Ensure that your token has the correct scopes for the API endpoint you are trying to consume. You can debug this by pasting your token in the debugger at [jwt.io](https://jwt.io/) and checking the `scopes` claim in the payload. Check with the integrations team if you need additional scopes added to your API client.

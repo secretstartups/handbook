@@ -84,7 +84,7 @@ The timeline for milestone planning is as follows:
 
 ### Quarterly OKR Planning
 
-Data Team OKRs aspire to align with Business Technology OKRs, Finance Division OKRs, and CEO OKRs, thereby aligning with the OKRs of the Divisions we support. The Data Team also creates OKRs for [Data Platform](/handbook/business-technology/data-team/platform/) infrastructure development and these OKRs may not always map to immediate term Business Partner OKRs. Overall, [OKRs constitute 60-75%]((https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#standing-priorities)) of the Data Team's Quarterly Capacity, with Production Operations as the only established higher priority.
+Data Team OKRs aspire to align with Business Technology OKRs, Finance Division OKRs, and CEO OKRs, thereby aligning with the OKRs of the Divisions we support. The Data Team also creates OKRs for [Data Platform](/handbook/business-technology/data-team/platform/) infrastructure development and these OKRs may not always map to immediate term Business Partner OKRs. Overall, [OKRs constitute 60-75%](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#standing-priorities) of the Data Team's Quarterly Capacity, with Production Operations as the only established higher priority.
 
 Data Team OKRs are managed with [GitLab Plan](https://about.gitlab.com/direction/plan/) using Epics and Issues using a standard naming scheme and structure and this approach:
 - enables async contributions and planning

@@ -409,7 +409,7 @@ Users will inherit the highest access from any group they are in. This is why al
 There are 2 reasons why you could not find the user in Sisense.
 
 1. The user never logged in to Sisense
-1. The user is removed from Sisense because of inactive usage as part of the [Quarterly Data Health and Security Audit](handbook/business-technology/data-team/data-management/#quarterly-data-health-and-security-audit).
+1. The user is removed from Sisense because of inactive usage as part of the [Quarterly Data Health and Security Audit](/handbook/business-technology/data-team/data-management/#quarterly-data-health-and-security-audit).
 
 The user will always exist in the Google Group. So in order to get the account in Sisense, the user needs to perform a (initial) login to Sisense. With that action, the user is created in Sisense (in the GitLab Space) and you can change the account (add to another Space or grant Editor privileges).
 
