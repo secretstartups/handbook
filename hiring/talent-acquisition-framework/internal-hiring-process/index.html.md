@@ -22,7 +22,7 @@ description: "This page discusses the Internal Hiring Process"
 * Ensure the opportunity aligns with your career goals here at GitLab
 * To apply, visit the [internal job openings](https://gitlab.greenhouse.io/internal_job_board). If you are interested in keeping an eye on openings that are posted you can also join the #newvacancy channel in Slack.
 * For any questions you have about internal hiring or questions specific to your individual interview process you can either:
-   * Create an [issue](/gitlab-com/people-group/internal-hiring/-/issues?sort=created_date&state=opened) in the [hiring process repo](/gitlab-com/people-group/internal-hiring).
+   * Create an [issue](https://gitlab.com/gitlab-com/people-group/internal-hiring/-/issues?sort=created_date&state=opened) in the [hiring process repo](/gitlab-com/people-group/internal-hiring).
    * If a Recruiter has reached out to you, please feel free to reach out directly to them on status updates of your specific process.
 
 ## Recruiter Responsibilities 
