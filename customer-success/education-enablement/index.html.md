@@ -262,7 +262,7 @@ To align our education and enablement with our product, each of the topics below
 
 ## O'Reilly Content Library 
 
-In order to facilitate an environment of learning and development, the Customer Success Team has access to the O’Reilly Learning Platform, which is integrated into [GitLab Learn]((https://gitlab.edcast.com/log_in?auto_sso=true)).  This content library contains thousands of books, videos and live learning courses to assist team members’ with professional development and staying up-to-date with changing technology trends. Additionally, code sandboxes are included within the O’Reilly platform that team members’s can utilize to practice new skills or hone existing ones.
+In order to facilitate an environment of learning and development, the Customer Success Team has access to the O’Reilly Learning Platform, which is integrated into [GitLab Learn](https://gitlab.edcast.com/log_in?auto_sso=true).  This content library contains thousands of books, videos and live learning courses to assist team members’ with professional development and staying up-to-date with changing technology trends. Additionally, code sandboxes are included within the O’Reilly platform that team members’s can utilize to practice new skills or hone existing ones.
 
 To get started, here is a quick tour of what the O’Reilly Learning Platform can provide to our team, please check out this [short introductory video](https://www.loom.com/share/fca91ca4e127494fb5f4130b85eaa9ea).
 
