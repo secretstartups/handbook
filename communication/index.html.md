@@ -1581,6 +1581,9 @@ Reference Google's [documentation](https://support.google.com/drive/answer/24948
 -  If you want to have the Google Doc be readable to the public, do not change the sharing settings from 'Editable by Everyone at GitLab', [publish the document](#how-to-publish-a-google-doc) instead.
 -  In all cases, the sharing settings (who a document is shared with, if it is visible to the whole company, etc.) on a Google Doc should be the single source of truth for the confidentiality of the document.
 -  Avoid using your initials when adding content to Google Docs or referring to someone else. Use your full name, as Google Docs [Smart Compose](https://support.google.com/docs/answer/9643962?hl=en) will auto-complete names for you, and display information about the GitLab team member on hover. It makes documents more readable and consumable, especially for people outside your team/department.
+- When there is a synchronous discussion about an issue or MR captured in a Google Doc, be sure to summarize the discussion into the issue or MR and link to the agenda item where it was discussed with a [bookmark](https://support.google.com/docs/answer/45893?hl=en&co=GENIE.Platform%3DDesktop). If the notes are [limited access](/communication/#limited-access) or no notes were taken, please say so.
+
+This will ensure that interested GitLab Team Members can see both the summary and context of the discussion.
 
 ### How to publish a Google Doc
 
