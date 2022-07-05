@@ -1137,3 +1137,5 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2022-04-11 | 2022-04-22 | [Nikki Silverberg](https://gitlab.com/nikkiroth) | Sr. Marketing Operations Manager | [Interview with Sid: Meeting Preparation and Efficiency](http://www.youtube.com/watch?v=nn1Mjh7j-1I) |
 | 2022-04-18 | 2022-04-29 | [David Egan](https://gitlab.com/degan) | Senior Data Analyst, Marketing	 | |
 | 2022-04-25 | 2022-04-29 | [Janis Altherr](https://gitlab.com/janis) | Fullstack Engineer, Incubation Engineering | |
+| 2022-05-30 | 2022-06-10 | [Victor Brew](https://gitlab.com/Vbrew) | Pub Sec ISR | |
+| 2022-06-06 | 2022-07-01 | [Alexander Turinske](https://gitlab.com/aturinske) | Sr. Frontend Engineer | |
