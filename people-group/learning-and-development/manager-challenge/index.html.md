@@ -206,7 +206,7 @@ The document is intended to be a starting point for managers to document where t
 
 ### Manager Challenge Certification
 
-Following the completion of the GitLab Manager Challenge program, participants will be [awarded a certification](/handbook/people-group/learning-and-development/certifications/)! The certification will be sent to a team member who has completed at least 80% of the daily challenges. Once a team member receives a certification, they can post it on their LinkedIn Profile. 
+Following the completion of the GitLab Manager Challenge program, participants will be [awarded a certification](/learn/certifications/public/)! The certification will be sent to a team member who has completed at least 80% of the daily challenges. Once a team member receives a certification, they can post it on their LinkedIn Profile. 
 
 ## Testimonials
 
