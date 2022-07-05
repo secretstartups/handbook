@@ -42,7 +42,7 @@ When creating a new project, please follow these steps:
 1. If the repository is public, set up a [security mirror](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/mirrors.md).
    This is necessary to address security vulnerabilities without disclosing them before they are fixed.
 
-When changing the settings in an existing repository, it's important to keep [communication](/handbook/engineering/#communication) in mind. In addition to discussing the change in an issue and announcing it in relevant chat channels (e.g., `#development`), consider announcing the change in the [Engineering Week-in-Review document](handbook/engineering/#communication). This is particularly important for changes to the [GitLab](https://gitlab.com/gitlab-org/gitlab) repository.
+When changing the settings in an existing repository, it's important to keep [communication](/handbook/engineering/#communication) in mind. In addition to discussing the change in an issue and announcing it in relevant chat channels (e.g., `#development`), consider announcing the change in the [Engineering Week-in-Review document](/handbook/engineering/#communication). This is particularly important for changes to the [GitLab](https://gitlab.com/gitlab-org/gitlab) repository.
 
 #### CI/CD configuration
 
