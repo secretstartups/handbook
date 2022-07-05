@@ -236,7 +236,7 @@ Many countries have an extensive list of laws that govern the employee-employer 
 - [Australian Human Rights Commission Act 1986 (Cth)](https://www.legislation.gov.au/Details/C2019C00030)
 
 **New Zealand**
-- [Employment Relations Act 2000](​​https://www.legislation.govt.nz/act/public/2000/0024/latest/DLM58317.html)
+- [Employment Relations Act 2000](https://www.legislation.govt.nz/act/public/2000/0024/latest/DLM58317.html)
 - [Holidays Act 2003](https://www.legislation.govt.nz/act/public/2003/0129/latest/DLM236387.html)
 - [Minimum Wage Act 1983](http://www.legislation.govt.nz/act/public/1983/0115/latest/DLM74093.html)
 - [Parental Leave and Employment Protection Act 1987](http://www.legislation.govt.nz/act/public/1987/0129/latest/DLM120104.html)
