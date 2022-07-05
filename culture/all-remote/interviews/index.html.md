@@ -89,7 +89,7 @@ Pick a neutral location that is quiet and comfortable. That way, neither you nor
 
 ### Practice
 
-To help make a great first impression, prepare by researching the company and reviewing their [handbook and values](/handbook/). Practice answering some [sample interview questions](handbook/hiring/interviewing/#what-to-expect-during-an-interview-with-a-recruiter) live with a peer or by recording yourself or practicing in a mirror.
+To help make a great first impression, prepare by researching the company and reviewing their [handbook and values](/handbook/). Practice answering some [sample interview questions](/handbook/hiring/interviewing/#what-to-expect-during-an-interview-with-a-recruiter) live with a peer or by recording yourself or practicing in a mirror.
 
 ## What traits do remote interviewers look for?
 
