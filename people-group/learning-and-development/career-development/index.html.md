@@ -141,7 +141,7 @@ During our Career Development workshops at Contribute, May 2019 we took team mem
 
 There are various internal opportunities to expand a team member's exposure to multiple parts of the organization.  These include:
 
-1. Participation in a [Team Member Resource Group (TMRG)](h/company/culture/inclusion/erg-guide/)
+1. Participation in a [Team Member Resource Group (TMRG)](/company/culture/inclusion/erg-guide/)
 1. Work on a [Working Group (WG)](/company/team/structure/working-groups/)
 1. Do an [apprenticeship](/handbook/engineering/career-development/#internship-for-learning) on another team
 1. Apply to do the [CEO shadow program](/handbook/ceo/shadow/) for two weeks
