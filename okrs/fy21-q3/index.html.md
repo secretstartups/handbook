@@ -55,7 +55,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from August 1, 20
     1. **VP of Talent Acquisition**: Implement Phase II of Outbound Talent Acquisition model. [Epic 42](https://gitlab.com/groups/gitlab-com/people-group/-/epics/42)
     1. **People Group Leadership**: Increase diversity and sense of belonging across the company. [Epic 41](https://gitlab.com/groups/gitlab-com/people-group/-/epics/41)
 2. **CEO KR:** Certify 25 non-engineering team members in self-serve data via handbook first materials
-    1. **CFO**: Using only handbook content, 25 people pass a [Knowledge Assessment](/handbook/people-group/learning-and-development/certifications/#knowledge-assessments) and are Certified to build their own dashboards or develop their own SQL based on either the Product Geolocation or Customer Segmentation data subject areas. [Epic 801](https://gitlab.com/groups/gitlab-com/-/epics/801)
+    1. **CFO**: Using only handbook content, 25 people pass a Knowledge Assessment and are Certified to build their own dashboards or develop their own SQL based on either the Product Geolocation or Customer Segmentation data subject areas. [Epic 801](https://gitlab.com/groups/gitlab-com/-/epics/801)
 3. **CEO KR:** Certify 25% of people leaders through manager enablement certification. Epic
 4. **Chief Technology Officer:**: Expand the capabilities of our team. [Epic 8303](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8303)
 1. **CLO - Contracts:** Develop knowledge base and playbook related to legal engagement with respect to GitLab procurement.[Epic 737](https://gitlab.com/groups/gitlab-com/-/epics/737)
