@@ -69,7 +69,7 @@ The table below outlines an overview of different communication forums at GitLab
 
 | Communication Forum | When To Utilize |
 | ---------- | ---------- |
-| Use [the internal Handbook](/handbook/handbook-usage/#the-internal-handbook) aligned with the guidelines | When you want to document information for team members that is [internal-only](handbook/communication/#internal), including [not public](/handbook/communication/#not-public) and not [limited access](/handbook/communication/#limited-access) |
+| Use [the internal Handbook](/handbook/handbook-usage/#the-internal-handbook) aligned with the guidelines | When you want to document information for team members that is [internal-only](/handbook/communication/#internal), including [not public](/handbook/communication/#not-public) and not [limited access](/handbook/communication/#limited-access) |
 | External MR/issue (not confidential) | For discussion and collaboration when there is no risk suspected or identified (directly or later) and it doesn't fall into [not public](/handbook/communication/#not-public) category |
 | Internal MR/ confidential issue | For discussion and collaboration when there is no risk suspected or identified but adhering to things that are [internal-only](/handbook/communication/#internal), [not public](/handbook/communication/#not-public), SAFE Framework/General Communication Guidelines |
 | Your Manager, DRI and/or Legal | For discussion and collaboration when in doubt about potential risk and you want to review if there’s a potential risk |
@@ -1067,7 +1067,7 @@ Theoretically you can have multiple people in a room with their own equipment bu
 1. Read our [Documentation Styleguide](https://docs.gitlab.com/ee/development/documentation/styleguide/) for more information when writing documentation.
 1. Do not use acronyms when you can avoid them. Acronyms have the effect of excluding people from the conversation if they are not familiar with a particular term. Example: instead of `MR`, write `merge request (MR)`.
    1. If acronyms are used, expand them at least once in the conversation or document and define them in the document using [Kramdown abbreviation syntax](https://kramdown.gettalong.org/syntax.html#abbreviations). Alternatively, link to the definition.
-   1. If you don't know the meaning of an acronym, ask. It's always ok to [speak up](handbook/values/#share).
+   1. If you don't know the meaning of an acronym, ask. It's always ok to [speak up](/handbook/values/#share).
 1. We segment our customers/prospects into 4 segments [Strategic, Large, Mid-Market, and Small Medium Business (SMB)](/handbook/sales/field-operations/gtm-resources/).
 
 ## Visuals
@@ -1471,7 +1471,7 @@ Yerbo is a mental well-being tool that helps teams track burnout and monitor ris
 
 1x per week, the app sends a message to users and asks them to complete a 2-minute self reflective survey. Answers are aggregated over time and display in a personal dashboard where team members can view their potential risk of burnout and take action to improve. Learn more about how the app works by watching [this video](https://yerbo.wistia.com/medias/pbuaibuxfz). Below is a screenshot of the in-app dashboard view.
 
-![yerbo dashboard view](handbook/communication/yerbo-dashboard.png)
+![yerbo dashboard view](/handbook/communication/yerbo-dashboard.png)
 
 Read more about how GitLab combats [burnout, isolation, and anxiety in an all-remote workplace](/company/culture/all-remote/mental-health/).
 
