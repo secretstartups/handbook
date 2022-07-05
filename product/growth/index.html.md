@@ -133,13 +133,15 @@ and - like a contribution coming from the wider community - ultimately own the f
 * Kevin Comoli: Acquisition
  
 
-The planning process:
-* Planning issues are created and PMs add what they want UX to work on
-* Designers add weights to issues that are planned but unweighted.
-* Designers review planning issues, add their name to issues and assign themselves to issues they can work on. Issues that fall in their specialty but won't fit in the milestone should be escalated to the PM and Product Design Manager.
-* Unclaimed issues that don't fit into a category should be escalated to the Product Design Manager.
+#### How UX participates in milestone planning 
+When the planning issue is created the Product Designer should follow these steps:
+* Review the issue boards and the prioritization dashboard (issues should be ordered by priority)
+* Determine whether they agree with the prioritized issues or want to suggest a change. For example, are there any SUS impacting issues we’ve been neglecting?
+* Comment in the planning issue to discuss proposed changes.
+* Re-order the board once priority is decided.
+* Ensure that issues have weights.
 
-##### A note about prioritization
+##### A note about capacity management
 Every milestone will have more work than we can commit to. Product designers know the approximate number of issue weights they can take on in order to do the work to our high standards. Never take on more issue weights than you can, and don't compromise other important tasks such as professional development and UX department initiatives. This leads to burnout. Follow the escalation instructions to make your wider team aware of the issues you can't take on so that they can explore additional options or tradeoffs.
 
 #### How UX Works
