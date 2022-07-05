@@ -38,6 +38,8 @@ This Working Group has the following goals:
 
 1. Develop a recommendation for the preferred way to implement application rate limits within GitLab
 1. Document this recommendation for GitLab developers in an [Architecture Evolution Blueprint](/handbook/engineering/architecture/workflow/).
+1. Document iterative project plan for short term, medium term, and long term rate limiting improvements
+1. Determine organizational approach to funding effort on this work (e.g. new team, borrow, SIG, fan out, etc.)
 
 
 ### Roles and Responsibilities
@@ -55,37 +57,4 @@ This Working Group has the following goals:
 | Member | Markus Koller | Senior Backend Engineer, Integrations |
 | Member | Grant Hickman | Sr Product Manager, Integrations |
 
-### Proposed Schedule
-
-Overview of planned work.  This may change as we iterate.
-
-#### Week of 2022-05-02
-
-* Kick off meeting (sync/async)
-    * Intros - get to know each other
-    * Review WG goals and schedule, provide feedback
-    * Review recent work on Rate Limits (e.g. [Rate Limiting Across DevOps Platform](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/77))
-
-#### Week of 2022-05-09
-
-* Brainstorming Session (sync/async)
-    * Brainstorm/propose various directions for Rate Limit architecture
-    * Discuss potential tradeoffs
-        * Identify areas requiring followup investigation or testing
-    * Assign followup actions
-
-#### Week of 2022-05-16
-
-* Follow up investigation from brainstorming session
-
-#### Week of 2022-05-23
-
-* Determine recommended architecture
-* Identify documentation, handbook, and/or architecture blueprint references that should be updated
-* Assign documentation followup actions
-
-#### Week of 2022-05-30
-
-* Complete documentation followup actions
-* Closing meeting (sync/async)
 
