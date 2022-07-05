@@ -55,7 +55,7 @@ Discretionary bonuses are measured in BambooHR, as are the number of team member
 
 #### Valid and Invalid criteria for discretionary bonuses
 
-Discretionary bonuses are to celebrate team members that live by our values. To make sure we are recognizing the right behaviors, below are some criteria to help you decide if a bonus meets the requirements for approval. Also in the nomination you are asked to elaborate on how this nomination is meeting the criteria. 
+Discretionary bonuses are to celebrate team members that live by our values. To make sure we are recognizing the right behaviors, below are some criteria to help you decide if a bonus meets the requirements for approval. Also in the nomination you are asked to elaborate on how this nomination is meeting the criteria.
 
 *Valid bonus criteria*
 
@@ -129,8 +129,8 @@ If you received the same nomination twice (for the same person and the same reas
 1. Go to Slack and type `/nominate`
 1. Slack will open a dialog and ask you for some details about the nomination. Use the motivation text field, to write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above. Don't forget that the nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria. You can select the values it applies to.
 1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination.
-1. Once submitted, the bot will send this over to the manager to kick-off the approval flow. 
-1. If at any point in the approval flow the manager or the manager's manager has a question about approving the bonus they can reach out to the manager and/or nominator for more context. If they have remaining questions related to the process and logistics (e.g., where is the bonus in the approval chain?) they can reach out to [people connect](/handbook/people-group/people-connect/). For remaining questions regarding guidance on whether to approve a nomination, they can reach out to their aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
+1. Once submitted, the bot will send this over to the manager to kick-off the approval flow.
+1. If at any point in the approval flow the manager or the manager's manager has a question about approving the bonus they can reach out to the manager and/or nominator for more context. If they have remaining questions related to the process and logistics (e.g., where is the bonus in the approval chain?) they can reach out to [people connect](/handbook/people-group/people-connect/). For remaining questions regarding guidance on whether to approve a nomination, they can reach out to their aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 1. Once everyone has approved the bot will report back to you with the good news. If it's rejected we ask the person who rejects, to reach out to you. That is not done by the bot.
 
 **Manager Process**
@@ -210,7 +210,7 @@ The exception to this rule could be for working group bonuses if a single person
 
 #### Discretionary bonus reporting
 
-On a quarterly basis there's a review of the discretionary bonuses data. This includes: # approved per manager, # rejected per manager and any trends on the reason for rejection. This way we can act on any trends and ensure an efficient and consistent process across the whole organization. 
+On a quarterly basis there's a review of the discretionary bonuses data. This includes: # approved per manager, # rejected per manager and any trends on the reason for rejection. This way we can act on any trends and ensure an efficient and consistent process across the whole organization.
 
 #### GitLab Anniversaries
 
@@ -243,77 +243,77 @@ Visit our [GitLab Anniversary Gift](/handbook/people-group/celebrations/#anniver
   * Iteration: Reduces everything to its very minimal iteration, not paying with quality or usability, yet moving forward with each release.
 
 ### GitLab Awards Program
-Each fiscal year the GitLab Awards program recognizes team members who made great impact as a result of displaying our [Values](/handbook/values/#credit). The GitLab Awards Program consists of two different types of awards: The DZ Award and Values Awards. Generally we open the window for nominations in the fourth quarter of the fiscal year. Winners will be announced before the end of the fiscal year. 
- 
-#### The DZ Award
-In honor of our valued co-founder, [Dmitriy Zaporozhets “DZ”](https://gitlab.edcast.com/insights/dz), his contributions and him dedicating 10 years to GitLab, GitLab recognizes a team member each fiscal year who made a great impact solving a hard problem by using a [boring solution](/handbook/values/#boring-solutions). 
+Each fiscal year the GitLab Awards program recognizes team members who made great impact as a result of displaying our [Values](/handbook/values/#credit). The GitLab Awards Program consists of two different types of awards: The DZ Award and Values Awards. Generally we open the window for nominations in the fourth quarter of the fiscal year. Winners will be announced before the end of the fiscal year.
 
-The DZ award details: 
+#### The DZ Award
+In honor of our valued co-founder, [Dmitriy Zaporozhets “DZ”](https://gitlab.edcast.com/insights/dz), his contributions and him dedicating 10 years to GitLab, GitLab recognizes a team member each fiscal year who made a great impact solving a hard problem by using a [boring solution](/handbook/values/#boring-solutions).
+
+The DZ award details:
 - The recipient of The DZ award will receive a one time cash bonus equivalent to $10,000 USD at using the local exchange rate. This is designed to honor DZ's 10 years of contributions to GitLab and the recipient's role in continuing DZ's legacy.
 - Company wall-hanging Plaque detailing the Award.
 - Specially designed Tanuki sticker & t-shirt for all finalists and the winner.
- 
+
 #### Criteria for The DZ Award
 Potential nominees should be any team members who solved a challenging problem by creating and implementing a [boring solution](/handbook/values/#boring-solutions) that resulted in a positive and profound impact.
- 
+
 **Criteria used to calibrate:**
-- OKR results and outcomes 
-- Significant business result/impact from the boring solution in this Fiscal Year. 
-- Contributions outside the general scope of the role (e.g. this award would not be granted for business as usual boring solutions)   
- 
+- OKR results and outcomes
+- Significant business result/impact from the boring solution in this Fiscal Year.
+- Contributions outside the general scope of the role (e.g. this award would not be granted for business as usual boring solutions)
+
 **Criteria not used to calibrate:**
 - The team member holding a technical role or creating a solution to a technical problem is not a requirement to be nominated for this award.
-- Grade within the business - this award is not intended to be granted to only leaders, but instead available to all team members. 
-- [Talent Assessment](/handbook/people-group/talent-assessment) - while we want to ensure we continue our pay for performance compensation philosophy, team members can be eligible for this award regardless of the output of the last review cycle. 
+- Grade within the business - this award is not intended to be granted to only leaders, but instead available to all team members.
+- [Talent Assessment](/handbook/people-group/talent-assessment) - while we want to ensure we continue our pay for performance compensation philosophy, team members can be eligible for this award regardless of the output of the last review cycle.
 - The only criteria is that the team member would need to be in good standing (e.g. not on a PIP/recently received a Written warning).
- 
+
 #### The Values Awards
 The Values Awards honor those who embody and employ the GitLab values which are fostering an environment where everyone can thrive. These awards specifically recognize team members who are inclusive with all team members in their diversity of thought and perspectives. Team members eligible for these awards demonstrate: no ego in the workplace, use a single source of truth, saying why not just what, and embracing uncomfortable ideas and conversations. The contributions or displays of the GitLab Value should be visible beyond the team member’s direct team, customers, users or investors.
 
 The Values Awards details:
 - There are six awards, one for: Collaboration, Results, Efficiency, Diversity, Inclusion and Belonging, Iteration and Transparency.
 - The recipient of each value award will receive a one time cash bonus equivalent to $5,000 USD at the exchange rate.
- 
+
 #### Values Award Descriptions
 #### [Collaboration](/handbook/values/#collaboration) Award
-To achieve results, team members must work together effectively. The value award for [Collaboration](/handbook/values/#collaboration) should be awarded to a team member that made helping others a priority and went above and beyond in ways that led to tangible results. This can come in the form of for example: giving feedback effectively, sharing, reaching across company departments or short toes. 
- 
+To achieve results, team members must work together effectively. The value award for [Collaboration](/handbook/values/#collaboration) should be awarded to a team member that made helping others a priority and went above and beyond in ways that led to tangible results. This can come in the form of for example: giving feedback effectively, sharing, reaching across company departments or short toes.
+
 #### [Results](/handbook/values/#results) Award
-We do what we promised to each other, customers, users, and investors. The value award for [Results](/handbook/values/#results) should be awarded to a team member that went above and beyond to get to significant results for a company wide impact. This can come in different forms through for example: ownership, perseverance, dogfooding or disagree, commit, and disagree. 
- 
+We do what we promised to each other, customers, users, and investors. The value award for [Results](/handbook/values/#results) should be awarded to a team member that went above and beyond to get to significant results for a company wide impact. This can come in different forms through for example: ownership, perseverance, dogfooding or disagree, commit, and disagree.
+
 #### [Efficiency](/handbook/values/#efficiency) Award
-Working efficiently on the most important business initiatives enables us to make fast progress, which makes our work more fulfilling. The value award for Efficiency should be awarded to a team member that helped make fast progress through for example championing writing things down, embracing change or being a manager of one. 
- 
+Working efficiently on the most important business initiatives enables us to make fast progress, which makes our work more fulfilling. The value award for Efficiency should be awarded to a team member that helped make fast progress through for example championing writing things down, embracing change or being a manager of one.
+
 #### [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion) Award
-We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. The value award for Diversity, Inclusion and Belonging should be awarded to a team member that contributed to creating an environment where people from every background and circumstance feel like they belong and can contribute through for example: their bias towards asynchronous communication, seeking diverse perspectives or embracing neurodiversity. 
- 
+We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. The value award for Diversity, Inclusion and Belonging should be awarded to a team member that contributed to creating an environment where people from every background and circumstance feel like they belong and can contribute through for example: their bias towards asynchronous communication, seeking diverse perspectives or embracing neurodiversity.
+
 #### [Iteration](/handbook/values/#iteration) Award
-We do the smallest thing possible and get it out as quickly as possible. The value award for Iteration should be awarded to a team member that contributed or displayed iteration that led to faster results through for example: setting a due date, minimal viable change (MVC) or low level of shame.  
- 
+We do the smallest thing possible and get it out as quickly as possible. The value award for Iteration should be awarded to a team member that contributed or displayed iteration that led to faster results through for example: setting a due date, minimal viable change (MVC) or low level of shame.
+
 #### [Transparency](/handbook/values/#transparency) Award
-By making information public, we can reduce the threshold to contribution and make collaboration easier. The value award for transparency should be awarded to a team member that contributed or displayed transparency through for example: determining what is not public, use of single source of truth and saying why not what.  
- 
+By making information public, we can reduce the threshold to contribution and make collaboration easier. The value award for transparency should be awarded to a team member that contributed or displayed transparency through for example: determining what is not public, use of single source of truth and saying why not what.
+
 #### Criteria for value awards:
-- Significant contribution or display of GitLab Value in this Fiscal year. 
+- Significant contribution or display of GitLab Value in this Fiscal year.
 - The contribution or display of GitLab Value led to tangible results.
 - The contribution or display was visible to team members outside of their direct team, customers, users or investors.
 - Contribution or display was outside the general scope of their role/Job Family responsibilities
-- ​​Truly exceptional work. Good and great is already expected in a team member's work and performance 
-- Team member is in good standing with the company (e.g. not on a PIP/recently received a Written warning). 
- 
-#### Nomination process for awards
-All team members can make nominations for both The DZ Award and Values Awards. When you want to nominate a peer it’s crucial to loop in your manager and your Department Head. Ultimately each Department Head can bring forward 1 nomination for the DZ Award and 1 nomination per value. The Department Head should loop in their People Business Partner with the final nominations in the correct format. The People Business Partners will coordinate the nominations for both awards and ultimately nominations will be calibrated at the E-Group level. 
+- ​​Truly exceptional work. Good and great is already expected in a team member's work and performance
+- Team member is in good standing with the company (e.g. not on a PIP/recently received a Written warning).
 
-##### Overview of the nomination process: 
-- When the nomination window opens managers and the Department Heads can gather nominations. 
-- The Department Head has to ensure the nominations come in the correct format as described below and the People Business Partners will work with the leaders to finalise the list of nominees: 
-  - For The DZ Award there’s [this nomination template](https://docs.google.com/document/d/1I1zpTCmoC1_1uU56xBmLXMwZYvODsmyVU0CEAPBekYg/edit#heading=h.5ahg1o4v53q7) which should be filled out to bring forward a nomination. 
-  - For The Values awards we’ll gather nominations via [this form](https://forms.gle/Pt8iPA3wg1iiG3nHA) and fill out [this template](https://docs.google.com/document/d/1M8GMh7JtcBDHw6A5wNlkq08YvCSwUjrkjqNK_5hEVlE/edit#) only for final nominees on a Division level.   
-- When the nomination window closes People Business Partners will ensure all nomination documents are completed before calibration. 
-- People Business Partners will then calibrate between department nominations with the E-group leader to select one team member nomination for The DZ Award and up to one team member per Value for the Values Awards. 
-  - Engineering and Sales will be able to nominate two team members for The DZ Award. 
-- The nominations are finalized and E-group will discuss the nominees from each group and select the award winners. 
-- The award winners will be announced.  
+#### Nomination process for awards
+All team members can make nominations for both The DZ Award and Values Awards. When you want to nominate a peer it’s crucial to loop in your manager and your Department Head. Ultimately each Department Head can bring forward 1 nomination for the DZ Award and 1 nomination per value. The Department Head should loop in their People Business Partner with the final nominations in the correct format. The People Business Partners will coordinate the nominations for both awards and ultimately nominations will be calibrated at the E-Group level.
+
+##### Overview of the nomination process:
+- When the nomination window opens managers and the Department Heads can gather nominations.
+- The Department Head has to ensure the nominations come in the correct format as described below and the People Business Partners will work with the leaders to finalise the list of nominees:
+  - For The DZ Award there’s [this nomination template](https://docs.google.com/document/d/1I1zpTCmoC1_1uU56xBmLXMwZYvODsmyVU0CEAPBekYg/edit#heading=h.5ahg1o4v53q7) which should be filled out to bring forward a nomination.
+  - For The Values awards we’ll gather nominations via [this form](https://forms.gle/Pt8iPA3wg1iiG3nHA) and fill out [this template](https://docs.google.com/document/d/1M8GMh7JtcBDHw6A5wNlkq08YvCSwUjrkjqNK_5hEVlE/edit#) only for final nominees on a Division level.
+- When the nomination window closes People Business Partners will ensure all nomination documents are completed before calibration.
+- People Business Partners will then calibrate between department nominations with the E-group leader to select one team member nomination for The DZ Award and up to one team member per Value for the Values Awards.
+  - Engineering and Sales will be able to nominate two team members for The DZ Award.
+- The nominations are finalized and E-group will discuss the nominees from each group and select the award winners.
+- The award winners will be announced.
 
 
 ### Referral Bonuses
@@ -377,16 +377,18 @@ If a team member has been referred, the People Connect team will review team mem
 Start your quarter off by getting to know someone new at GitLab, or meeting someone in person for the first time! During the first month of every quarter in Feb, May, Aug, and Nov, we invite team members to use a Get Together Grant to meet up with a team member either in person or virtually. To take part in the grant, check out the following details:
 
 1. Each team member can expense up to $50 USD each quarter on a meal, activity, or ground transportation to spend time with a GitLab team member in-person. Or, up to $25 USD each quarter for a virtual Get Together on a remote activity, remote coffees or remote meals (yes, this means you can have a real coffee for your remote coffee chat).
-1. To use the grant, get together with a team member and expense up to $50 USD for in-person meet-ups or $25 for virtual meet-ups in Expensify by selecting the Get Together Grant category in the dropdown the first month of every quarter (Feb, May, Aug, and Nov) and writing whether your get together was live or virtual in the line items. The expense report must be submitted within 1 month of the Get Together.
+1. To use the grant, get together with a team member and expense up to $50 USD for in-person meet-ups or $25 USD for virtual meet-ups in Expensify by selecting the Get Together Grant category in the dropdown the first month of every quarter (Feb, May, Aug, and Nov) and writing whether your get together was live or virtual in the line items. The expense report must be submitted within 1 month of the Get Together.
 _Please note, Get Together expenses that are submitted outside of these months will not be approved and any amount over the allotted $50 USD per person for in-person and $25 USD per person for remote get togethers will not be approved. Limit one Get Together Grant per person the first month of each quarter._
-  1. Team members can plan, pay for, and expense a Get Together in an eligible month (Feb, May, Aug, and Nov) for an activity or expense that allows them to get together with another team member later in that quarter.
-1. Once you participate in a Get Together with another team member, share your experience and few pictures for a chance to be featured in social by submitting [this form](https://forms.gle/Z3CLPFAQGcAbwzN26). 
+1. Team members can plan, pay for, and expense a Get Together in an eligible month (Feb, May, Aug, and Nov) for an activity or expense that allows them to get together with another team member later in that quarter.
+1. Once you participate in a Get Together with another team member, share your experience and few pictures for a chance to be featured in social by submitting [this form](https://forms.gle/Z3CLPFAQGcAbwzN26).
 
 #### Group Get Togethers
 
 Please review the latest [Covid-19 guidance for in-person GitLab events that include more than 5 attendees](/handbook/travel/#for-in-person-gitlab-events) before planning a Group Get Together.
 
-In areas where many GitLab team members live, stay tuned in Slack and on this page for planned events where we'll invite all GitLab team members in that area to join together in person. For team members who participate in Group Get Togethers, individual Get Togethers live or remote will not be available in the month the Group Get Together takes place.  
+In areas where many GitLab team members live, stay tuned in Slack and on this page for planned events where we'll invite all GitLab team members in that area to join together in person. For team members who participate in Group Get Togethers, individual Get Togethers in person or remote will not be available in the month the Group Get Together takes place.
+
+Planning a group get together is easy! Simply head to our [GitLab Team Member Socials](https://gitlab.com/gitlab-com/gitlab-team-member-socials) project and [create an issue](https://gitlab.com/gitlab-com/gitlab-team-member-socials/-/issues/new) to start planning your group get together ([example](https://gitlab.com/gitlab-com/gitlab-team-member-socials/-/issues/2)).
 
 For more questions about Get Together Grants, please review the [FAQ](https://docs.google.com/document/d/1gt67EQKBoumA3ihTLecwjI4Haen9UImbFMumqKKegL4/edit).
 
