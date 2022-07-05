@@ -276,115 +276,122 @@ realtime feedback provides an improved developer experience. This is handled by
 
 #### Community contribution thank you note
 
-* Automation Condition:
+* Automation conditions:
   - MR was opened
   - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group, or the MR is opened for the `gitlab-com/www-gitlab-com` project and its author is not a member of the `gitlab-com` group
-* Automation Action:
+* Automation actions:
   - Posts a "Thank you" note
-  - Adds `~"Community contribution"` and `~"workflow::in dev"`
+  - Adds the `Community contribution` and `workflow::in dev` labels
   - Assigns the MR to its author
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/thank_contribution.rb>
 
 #### Automated review request
 
-* Automation Condition:
-  - `~"workflow::ready for review"` was added
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-* Automation Action:
-  - Removes the "Draft" status if present
-* Rate limiting: once per MR per day
+* Automation conditions:
+  - The `workflow::ready for review` label was added
+  - The MR has the `Community contribution` label set
+  - The MR is not opened in a distribution project listed at <https://gitlab.com/gitlab-org/distribution/monitoring/-/raw/master/lib/data_sources/projects.yaml>
+* Automation actions:
+  - If the MR already has reviewers, nudge them to perform a review, reassign or set the `workflow::in dev` label
+  - If the MR has no reviewers, nudge and assign (as reviewer) a coach based on the MR's group (or a random coach otherwise), to review, reassign or set the `workflow::in dev` label
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_generic.rb>
 
 #### Automated review request for doc contributions
 
-* Automation Condition:
-  - `~"workflow::ready for review"` was added
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
+* Automation conditions:
+  - The `workflow::ready for review` label was added
+  - The MR has the `Community contribution` label set
   - MR has documentation changes
   - No existing note asking for documentation review
-* Automation Action:
+* Automation actions:
   - Asks a relevant Technical Writer (based on the changes' mapped from the `CODEOWNERS` file) to review
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_doc.rb>
 
 #### Automated review request for UX contributions
 
-* Automation Condition:
-  - `~"workflow::ready for review"` was added
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-  - `~UX` is set
+* Automation conditions:
+  - The `workflow::ready for review` label was added
+  - The MR has the `Community contribution` label set
+  - The MR has the `UX` label set
   - No existing note asking for UX review
-* Automation Action:
+* Automation actions:
   - Posts a Slack message in the `#ux-community-contributions` Slack channel (internal) to ask a UX reviewer to review non-draft MRs
   - Posts a note to let the author know about the Slack ping
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/automated_review_request_ux.rb>
 
 #### Reactive `help` command
 
-* Automation Condition:
+* Automation conditions:
   - A new MR note that start with `@gitlab-bot help` is posted on a merge request
-  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-* Automation Action:
+  - The MR has the `Community contribution` label set
+  - The note is posted by the MR author or a team member
+* Automation actions:
   - Pings and assigns (as reviewer) a random MR coach for help
-* Rate limiting: once per MR per day
+* Rate limiting: once per author/MR per hour, or 100 times per team member/MR per hour
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_help.rb>
 
 #### Reactive `ready` command
 
-* Automation Condition:
-  - The MR author posts a note that start with `@gitlab-bot ready`, `@gitlab-bot review`, or `@gitlab-bot request_review`
-  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-* Automation Action:
-  - Adds `~"workflow::ready for review"` to the MR
-* Rate limiting: once per MR per day
+* Automation conditions:
+  - A new MR note that start with `@gitlab-bot ready`, `@gitlab-bot review`, or `@gitlab-bot request_review`
+  - The MR has the `Community contribution` label set
+  - The note is posted by the MR author or a team member
+* Automation actions:
+  - Adds the `workflow::ready for review` label to the MR
+* Rate limiting: once per author/MR per hour, or 100 times per team member/MR per hour
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_request_review.rb>
 
 #### Reactive `label` command
 
-* Automation Condition:
-  - The MR author posts a note that start with `@gitlab-bot label ~"label-name"` where `label-name` matches `group::*`, `type::*` or is `~"workflow::in dev"` or `~"workflow::ready for review"`
-  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-  - Posts a quick action to add the requested label
-* Rate limiting: 60 times per author per hour
+* Automation conditions:
+  - A new MR note that start with `@gitlab-bot label ~"label-name"` where `label-name` matches `group::*`, `type::*` or is `~"workflow::in dev"` or `~"workflow::ready for review"`
+  - The MR has the `Community contribution` label set
+  - The note is posted by the MR author or a team member
+* Automation actions:
+  - Adds the requested label to the MR
+* Rate limiting: 60 times per requester/MR per hour
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_label.rb>
 
 #### Idle/Stale label remover
 
-* Automation Condition:
+* Automation conditions:
   - The MR author posts a note or pushes new changes to the MR
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-  - `~idle` or `~stale` is set on the merge request
-* Automation Action:
-  - Removes `~idle` and `~stale`
+  - The MR has the `Community contribution` label set
+  - The MR has the `idle` or `stale` labels set
+* Automation actions:
+  - Removes the `idle` and `stale` labels
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/remove_idle_labels_on_activity.rb>
 
 #### Code Review Experience Feedback
 
-* Automation Condition:
+* Automation conditions:
   - MR was merged or closed
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group, or the MR is opened in a project under the `gitlab-com` group and its author is not a member of the `gitlab-com` group
+  - The MR has the `Community contribution` label set
   - No existing note asking for feedback
-* Automation Action:
+* Automation actions:
   - Posts a note to ask MR author about their contributing experience
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/code_review_experience_feedback.rb>
 
 #### Reactive `feedback` command
 
-* Automation Condition:
-  - The MR author posts a note that start with `@gitlab-feedback`
-  - The note is posted in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group
-* Automation Action:
-  - Posts a Slack message in the `#mr-feedback` Slack channel (internal) pointing to the contributor feedback note
+* Automation conditions:
+  - A new MR note that start with `@gitlab-feedback`
+  - The MR has the `Community contribution` label set
+  - The note is posted by the MR author or a team member
+* Automation actions:
+  - Posts the contributor feedback note in the `#mr-feedback` Slack channel (internal)
+* Rate limiting: once per requester/MR per day
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_feedback.rb>
 
 #### Hackathon labeler
 
-* Automation Condition:
+* Automation conditions:
   - MR was opened or updated during the Hackathon dates
-  - The MR is opened in a project under the `gitlab-org` group and its author is not a member of the `gitlab-org` group, or the MR is opened in a project under the `gitlab-com` group and its author is not a member of the `gitlab-com` group
+  - The MR has the `Community contribution` label set
   - No existing note mentioning the Hackathon
-* Automation Action:
+* Automation actions:
   - Posts a note mentioning the Hackathon
-  - Adds the `~Hackathon` label
+  - Adds the `Hackathon` label
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/hackathon_label.rb>
 
 ### Engineering workflow automation
@@ -419,8 +426,9 @@ Current type labels with subtype labels are:
 
 #### Merge request type label copy from related issues
 
-* Automation condition: Open or update of a merge request without a type label that have a related issue with a type label.
-* Automation action:
+* Automation conditions: 
+  - Open or update of a merge request without a type label that have a related issue with a type label.
+* Automation actions:
   - The type label in the issue is applied to the merge request
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/apply_type_label_from_related_issue.rb>
 
@@ -438,84 +446,114 @@ When milestone is present on an issue but there is not an assignee. The mileston
 
 Issues with the `~workflow::blocked`, `~workflow::refinement`, `~workflow::validation backlog`, `~workflow::problem validation`, `~workflow::solution validation`, `~workflow::planning breakdown`, `~workflow::design`, `~workflow::verification`, `~fuzzing::api`, `~fuzzing::coverage` labels are excluded from this rule.
 
-* Automation Condition: Issues with a milestone but no assignee.
-* Automation Action:
-  *  The `~"Accepting merge request"` label is applied.
-*  Example: <https://gitlab.com/gitlab-org/gitlab-ce/issues/64705>
-*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
+* Automation conditions:
+  - Issues with a milestone but no assignee
+* Automation actions:
+  -  The `Accepting merge request` label is applied
+* Example: <https://gitlab.com/gitlab-org/gitlab-ce/issues/64705>
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
 
 #### Remove `Seeking community contributions` from issues with an assignee
 
 When an issue is assigned, it shouldn't accept any new contribution to prevent duplicated work.
 
-* Automation Condition: Issues with an assignee and the `Seeking community contributions` or `Accepting merge requests` label.
-* Automation Action:
-  *  The `Seeking community contributions` and `Accepting merge request` labels are removed.
-*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
+* Automation conditions:
+  - Issues with an assignee and the `Seeking community contributions` or `Accepting merge requests` label
+* Automation actions:
+  - The `Seeking community contributions` and `Accepting merge request` labels are removed
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
 
 #### Remove `Seeking community contributions` from issues with an invalid workflow label
 
 When an issue has the `Seeking community contributions` label set, but also an incompatible workflow label, the issue isn't actually ready to accept a contribution.
 
-* Automation Condition: Issues with the `Seeking community contributions` and one of the `workflow::blocked`, `workflow::design`, `workflow::planning breakdown`, `workflow::refinement`, `workflow::verification` labels.
-* Automation Action:
-  *  The `Seeking community contributions` and `Accepting merge request` labels are removed.
-*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
+* Automation conditions:
+  - Issues with the `Seeking community contributions` and one of the `workflow::blocked`, `workflow::design`, `workflow::planning breakdown`, `workflow::refinement`, `workflow::verification` labels
+* Automation actions:
+  - The `Seeking community contributions` and `Accepting merge request` labels are removed
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
 
 #### Remove `Seeking community contributions` from all merge requests
 
 It doesn't make sense to have `Seeking community contributions` or `Accepting merge request` set on merge requests.
 
-* Automation Condition: Merge requests with the `Seeking community contributions` or `Accepting merge requests` label.
-* Automation Action:
-  *  The `Seeking community contributions` and `Accepting merge request` labels are removed.
-*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
+* Automation conditions:
+  - Merge requests with the `Seeking community contributions` or `Accepting merge requests` label
+* Automation actions:
+  - The `Seeking community contributions` and `Accepting merge request` labels are removed
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
 
-#### Community contributions
+#### Label community contributions
 
 Merge requests which have an author that is not a member of `gitlab-org` will have the `Community contribution` label applied. This scheduled automation is a backup for the reactive automation that applies `Community contribution` in the [welcome message](#community-contribution-thank-you-note).
 
-* Automation Condition:
-  * Merge request under `gitlab-org` with author that is not in the `gitlab-org` group.
-* Frequency: Daily.
-* Automation Action:
-  *  The label `Community contribution` is applied, and optionally the `1st contribution` label if it's the first contribution from the author in this project.
-*  Example: <https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/30909/#note_0a1c0937d1b2851e9695fb89848d8425dcf28e00>
-*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-community-contributions.yml>
+* Automation conditions:
+  - Merge request under `gitlab-org` with author that is not ia member of the `gitlab-org` group, or with author that is a member of the `gitlab-org/gitlab-core-team/community-members` group
+* Frequency: daily
+* Automation actions:
+  - The label `Community contribution` is applied, and optionally the `1st contribution` label if it's the first contribution from the author in this project
+* Example: <https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/30909/#note_0a1c0937d1b2851e9695fb89848d8425dcf28e00>
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-community-contributions.yml>
 
 #### Add milestone to community merge requests
 
 Merged merge requests with the `Community contribution` label and no milestone will automatically get the relevant milestone set. This helps keep the community contributions numbers accurate.
 
-* Automation Condition: Merged merge request with the `Community contribution` label, and no milestone.
-* Automation Action:
-  *  The relevant milestone is set based on the `merged_at` of the merge request and the `start_date` and `due_date` of the milestone.
-*  Example: <TBD>
-*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/add-milestone-to-community-merge-requests.yml>
+* Automation conditions:
+  - Merged merge request with the `Community contribution` label, and no milestone
+* Automation actions:
+  - The relevant milestone is set based on the `merged_at` of the merge request and the `start_date` and `due_date` of the milestone
+* Example: <TBD>
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/add-milestone-to-community-merge-requests.yml>
 
-#### Label idle Community MRs
+#### Label idle community merge requests
 
-* Automation Condition: Merge request with the `Community contribution` label, and no human interaction for more than 28 days.
-* Automation Action:
-  *  The `idle` label is applied.
-*  Example: <TBD>
-*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-idle-community-mrs.yml>
+* Automation conditions:
+  - Merge request with the `Community contribution` label, and no human interaction for more than 28 days
+* Automation actions:
+  - The `idle` label is applied
+* Example: <TBD>
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-idle-community-mrs.yml>
 
-#### Label stale Community MRs
+#### Label stale community merge requests
 
-* Automation Condition: Merge request with the `Community contribution` label, and no human interaction for more than 120 days.
-* Automation Action:
-  *  The `stale` label is applied.
-*  Example: <TBD>
-*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-idle-community-mrs.yml>
+* Automation conditions:
+  - Merge request with the `Community contribution` label, and no human interaction for more than 120 days
+* Automation actions:
+  - The `stale` label is applied
+* Example: <TBD>
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-idle-community-mrs.yml>
 
-#### Nudge EMs on Community contributions that are `stale`
+#### Nudge EMs on community merge requests that are `stale`
 
-* Automation Condition: Merge request with the `Community contribution` and `stale` labels.
-* Automation Action:
-  * An Engineering Manager is pinged to decide if a GitLab team member will pick up the work on it or close the merge request.
-*  Example: <TBD>
-*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/nudge-stale-community-contributions.yml>
+* Automation conditions:
+  - Merge request with the `Community contribution` and `stale` labels
+* Automation actions:
+  - An Engineering Manager is pinged to decide if a GitLab team member will pick up the work on it or close the merge request
+* Example: <TBD>
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/nudge-stale-community-contributions.yml>
+
+#### Nudge relevant coach on community merge requests that are waiting for a review
+
+* Automation conditions:
+  - Merge request with the `Community contribution` and `workflow::ready for review` labels, and without the `automation:reviewers-reminded` label
+  - No activity on the MR in the last day (i.e. after 1 day of inactivity)
+  - MR has no reviewers assigned
+* Automation actions:
+  - Nudge and assign (as reviewer) a coach based on the MR's group (or a random coach otherwise), to review, reassign or set the `workflow::in dev` label
+* Example: <https://gitlab.com/gitlab-org/gitlab-pages/-/merge_requests/788#note_1011327312>
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/community/hygiene/ping-inactive-reviewers.yml>
+
+#### Nudge assigned reviewers on community merge requests that are waiting for a review
+
+* Automation conditions:
+  - Merge request with the `Community contribution` and `workflow::ready for review` labels, and without the `automation:reviewers-reminded` label
+  - No activity on the MR in the last 7 days
+  - MR has reviewer(s) assigned
+* Automation actions:
+  - Nudge current reviewers to perform a review, reassign or set the `workflow::in dev` label
+* Example: <https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/3460#note_1011327399>
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/community/hygiene/ping-inactive-reviewers.yml>
 
 ### Engineering workflow automation
 
@@ -525,12 +563,12 @@ Open issues and merge requests that have missed the current release will be resc
 
 **Note:** Confidential issues will be skipped as part of the `missed` label application. Please see the [this issue](https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/45) for more information
 
-* Automation Condition: Open issues or merge requests that missed the current
+* Automation conditions: Open issues or merge requests that missed the current
   milestone, i.e. current date is
   * `>= 19th` if the 22nd is on a Monday
   * `>= 20th` if the 22nd is on a Sunday
   * `>= 21st` otherwise
-* Automation Action:
+* Automation actions:
   * The issues and merge requests are rescheduled to the next milestone
   * The label `~missed:x.y` is applied, where `x.y` is the current milestone
   * If the resource has the `~Deliverable` label, the `~missed-deliverable` label is applied
@@ -544,9 +582,10 @@ label will have the `~missed-deliverable` label applied.
 
 **Note:** Confidential issues will be skipped as part of the `missed` label application. Please see the [this issue](https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/45) for more information
 
-* Automation Condition: Open issues or merge requests with the `~Deliverable`
+* Automation conditions: 
+  - Open issues or merge requests with the `~Deliverable`
   label and a `~missed:x.y` label, and no `~missed-deliverable` label.
-* Automation Action:
+* Automation actions:
   * The labels `~missed-deliverable` is applied.
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/missed-resources.yml>
 
@@ -554,8 +593,9 @@ label will have the `~missed-deliverable` label applied.
 
 Issues which have a label of `~Deliverable` without a milestone will have the milestone set to `%Backlog`.
 
-* Automation Condition: Open issues or merge requests have label of `~Deliverable` without a milestone
-* Automation Action:
+* Automation conditions: 
+  - Open issues or merge requests have label of `~Deliverable` without a milestone
+* Automation actions:
   * `~Deliverable` label is removed
   * (Issues only) Milestone is set to `%Backlog`
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/remove-far-deliverable.yml>
@@ -564,9 +604,10 @@ Issues which have a label of `~Deliverable` without a milestone will have the mi
 
 Issues which have a severity label and missed the [SLO target](/handbook/engineering/quality/issue-triage/#severity) will be labeled with `~missed-SLO`. The calculation for elapsed time starts from the date of the severity label was applied. This enables reporting on SLO target adherence.
 
-* Automation Condition: Issue with severity label present and is remains in an open state past SLO target.
+* Automation conditions: 
+  - Issue with severity label present and is remains in an open state past SLO target.
 * We currently only detect missed SLOs for `~severity::1` and `~severity::2` bugs.
-* Automation Action:
+* Automation actions:
   * The label `~missed-SLO` is applied.
 * Example: <https://gitlab.com/gitlab-org/gitlab-ce/issues/61662>
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-missed-slo.yml>
@@ -575,8 +616,9 @@ Issues which have a severity label and missed the [SLO target](/handbook/enginee
 
 Bugs which have a severity 1 or severity 2 label without a priority label will be labeled with the equal priority label. For example, a `~severity::1` `~"type::bug"` without a priority label will have `~priority::1` applied.
 
-* Automation Condition: `~"type::bug"` issue with `~severity::1` or `~severity::2` without a `~priority::*` label.
-* Automation Action:
+* Automation conditions: 
+  - `~"type::bug"` issue with `~severity::1` or `~severity::2` without a `~priority::*` label.
+* Automation actions:
   * Apply the `~priority::*` label of the same level
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/set-priority-from-severity.yml>
 
@@ -584,8 +626,9 @@ Bugs which have a severity 1 or severity 2 label without a priority label will b
 
 Issues or merge requests that have a label of `~"master:broken"` will have labels of `~"priority::1"` and `~"severity::1"` applied. This ensures that requests which break master are sufficiently categorized for reporting.
 
-* Automation Condition: Open issue or merge request with `~"master:broken"` label.
-* Automation Action:
+* Automation conditions: 
+  - Open issue or merge request with `~"master:broken"` label.
+* Automation actions:
   * The `~"priority::1"` and `~"severity::1"` labels are applied.
 * Example: <https://gitlab.com/gitlab-org/gitlab-ee/issues/12363>
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-reminders.yml#L27-45>
@@ -594,10 +637,10 @@ Issues or merge requests that have a label of `~"master:broken"` will have label
 
 This automation identifies potential and popular proposals using upvotes. This helps identify feature proposals that people have indicated they would like.
 
-* Automation Conditions:
+* Automation conditions:
   * Issues with 10 or more upvotes are identified as potential
   * Issues with 50 or more upvotes are identified as popular
-* Automation Action:
+* Automation actions:
   * The label `~"potential proposal"` or `~"popular proposal"` is applied depending on the condition.
 * Examples:
   * Potential: <https://gitlab.com/gitlab-org/gitlab-ce/issues/62067#note_ca6949d26c3d121c421b4f8b20f7e5dc2028c0a6>
@@ -628,8 +671,9 @@ The possible tier labels to be applied are:
   - ~"GitLab Premium"
   - ~"GitLab Ultimate"
 
-* Automation condition: Open issue without tier labels, with group and `~direction` label, in current milestone
-* Automation action:
+* Automation conditions: 
+  - Open issue without tier labels, with group and `~direction` label, in current milestone
+* Automation actions:
   - Mention the relevant PM for the group asking to add appropriate label
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/prompt-for-tier-labels.yml>
 
@@ -639,8 +683,9 @@ The possible tier labels to be applied are:
 
 Type labels ensure that issues are present in the [group triage report](#group-level-bugs-features-and-ux-debt) and added to the correct section.
 
-* Automation condition: Open issue with no type label applied, opened in the past 7 days, authored by `gitlab-org` member
-* Automation action:
+* Automation conditions: 
+  - Open issue with no type label applied, opened in the past 7 days, authored by `gitlab-org` member
+* Automation actions:
   - Mention the author asking to add appropriate type label
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/prompt-team-member-type-label.yml>
 
@@ -652,10 +697,10 @@ Type labels ensure that issues are present in the [group triage report](#group-l
 
 Bugs have a severity label that indicates the [SLO for a fix](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity). This automated policy aims to prompt managers about bugs in their group that are approaching the SLO threshold
 
-* Automation Condition:
+* Automation conditions:
   - Open issue labelled `~"type::bug"` and has a `~severity::1` or `~severity::2`
   - Time since current severity label was applied and today is over 75% towards the SLO threshold
-* Automation Action:
+* Automation actions:
   *  Mention EM and PM on the issue to make them aware of the impending SLO breach
 *  Example: <TBD>
 *  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/comment-slo-breaching-bugs.yml>
@@ -664,10 +709,10 @@ Bugs have a severity label that indicates the [SLO for a fix](https://about.gitl
 
 Issues with the ~infradev label should have a [severity label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity), a [priority label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority), and a milestone set. This automated policy aims to prompt managers about such issues missing one of these attributes.
 
-* Automation Condition:
+* Automation conditions:
   - Open issue labelled `~infradev` and has no severity label, or no priority label, or no milestone set
   - Issue doesn't have the `~"automation:infradev-missing-labels"` set
-* Automation Action:
+* Automation actions:
   * The label `~"automation:infradev-missing-labels"` is applied
   * A message is posted to ask for a severity label, a priority label, and a milestone to be set on the issue
 *  Example: <TBD>
