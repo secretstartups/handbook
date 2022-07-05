@@ -63,7 +63,7 @@ This phase is about going beyond a customer’s existing use cases, into additio
 
 ### Account Risk Management & Triage
 
-[Customer Health Assessment and Management](handbook/customer-success/tam/health-score-triage/)
+[Customer Health Assessment and Management](/handbook/customer-success/tam/health-score-triage/)
 
 ### Enablement Research & Content Creation
 
