@@ -40,7 +40,7 @@ The Vice President, Revenue Operations is a [grade 12](/handbook/total-rewards/c
 * Aligns with GitLab [Values](/handbook/values/)
 
 ## Performance Indicators 
-The Vice President, Revenue Operations aligns to the [Sales KPIs](/kpis/#sales-kpis)
+The Vice President, Revenue Operations aligns to the [Sales KPIs](/company/kpis/#sales-kpis)
 
 ## Career Ladder
 The next steps for the Title job family has not yet been defined.
