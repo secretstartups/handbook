@@ -172,7 +172,7 @@ There are a few places to see previous Sales Enablement sessions:
 #### Public vs Private
 
 - Some enablement sessions, typically those that focus on industry or technical product knowledge, are [made public](/handbook/values/#public-by-default), including the Q&A
-- Other sessions that focus on topics like competitive analysis or openly discussing customers are [kept private](/handbook/communication/#not-public)
+- Other sessions that focus on topics like competitive analysis or openly discussing customers are [kept private](/handbook/communication/confidentiality-levels/#not-public)
 - At the start of every session, and before moving into Q&A, the facilitator will announce to the audience if the call is public or private
 - Here is a [how-to video](https://www.youtube.com/watch?v=LKZ23pRfpBg&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=33&t=0s) on accessing private videos on GitLab Unfiltered.
 
