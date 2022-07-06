@@ -63,7 +63,7 @@ To align our education and enablement with our product, each of the topics below
 - [Time Tracking Feature Docs](https://about.gitlab.com/solutions/time-tracking/)
 - [Boards Feature Docs](https://about.gitlab.com/stages-devops-lifecycle/issueboard/)
 - [Epics Feature Docs](https://about.gitlab.com/product/epics/)
-- [Roadmaps Feature Docs](https://about.gitlab.com/stages-devops-lifecycle/roadmaps/)
+- [Roadmaps Feature Docs](https://docs.gitlab.com/ee/user/group/roadmap/)
 - [Service Desk Feature Docs](https://about.gitlab.com/stages-devops-lifecycle/service-desk/)
 - [Requirements Management Feature Docs](https://docs.gitlab.com/ee/user/project/requirements/)
 - [Quality Management Feature Docs](https://docs.gitlab.com/ee/ci/test_cases/index.html)
