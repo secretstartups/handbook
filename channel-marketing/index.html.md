@@ -186,9 +186,12 @@ When requesting support from our team, we commit to responding to your [issue](h
         
 *   **Karen Pourshadi**: Senior Channel Marketing Manager, Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
         
-*   **Sara Valko**: DMR Channel Marketing Manager, Sara will be focusing on our DMR channel partners including but not limited to: CDW, SHI and Insight.  She will be partnering with them to develop integrated demand generation campaigns that drive net new logos for GitLab. 
+*   **Kelly Walker**: Senior Partner Program Manager, Exec Engagement, Kelly will be focusing on our channel partner events including GitLab Partner Summits and more!
         
 *   **Samara Souza**: Senior Partner Program Manager, Samara will be focusing on creating new service offerings for our partners to leverage in their demand generation motions including but not limited to: Free trial syndication; case study development, MDF process, and much much more! 
+
+*   **Lauren Roberts**: Partner Marketing Specialist,  Lauren will be focusing on supporting our channel partner programs including the Free trial program; partner microsites, & our MDF process.
+
         
 **Alliances Marketing Team**
         
