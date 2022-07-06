@@ -53,28 +53,27 @@ Key features of this call include:
 1. CEO and CRO attendance required
 1. Not recorded 
 
-### Selection Criteria - FY23-Q1
+### Selection Criteria - FY23-Q2
 
-In total, 12 team members from across the Field organization will be recognized. The categories by segment for FY23-Q1 include:
+In total, 12 team members from across the Field organization will be recognized. The categories by segment for FY23-Q2 include:
 
 **Enterprise Sales**
-1. The Land with Vision, Expand with Purpose Award
+1. LAM-iest Lander Award
+1. Leader of the Quarter Award
 1. Sales Hiring Pro Award
-1. The Renewal Results Award
 
 **Commercial Sales**
-1. The R7 Results Delivery Award
-1. FY23-Q1 COMM Rookie Award
+1. R7 Results Delivery Award
+1. FY23-Q2 COMM Rookie Award
 
 **Customer Success**
-1. The Top Delivery Team Results Award
-1. The SA Customer Results Award
-1. The T(e)AM Expansion Award
+1. Top Delivery Team Results Award
+1. SA Customer Results Award
+1. T(e)AM Expansion Award
 
 **Channel** 
-1. The Partner Collaboration Award
-1. Commercial Excellence Award
-   1. Note: Will rotate COMM and ENT quarterly
+1. Channel First Order Award
+1. Channel Enterprise Excellence Award
 
 **Alliances**
 1. Alliances Peak Results Award
@@ -82,7 +81,7 @@ In total, 12 team members from across the Field organization will be recognized.
 **Field Operations**
 1. FOPS MVP
 
-You can see a full description of each award [in this spreadsheet](https://docs.google.com/spreadsheets/d/1TTz-DjIt3HqEErwjyh7ssPk9eeuzZH_JRzPea-y2k4Q/edit#gid=1782016599).
+You can see a full description of each award [in this spreadsheet](https://docs.google.com/spreadsheets/d/1bYmZ_IYaGBFYNSKFhPe3LvZlKTiyWlXCaE5OJ2ETFKM/edit#gid=1782016599).
 
 Considerations include: 
 1. Categories are reevaluated by CRO leadership and Field Operations every quarter and changed if deemed necessary. 
