@@ -129,12 +129,7 @@ Anyone can **block or halt a deployment** by:
 * Alerting the Release Managers in the [#releases] channel. 
 
 In addition, automated deployments to **any production environment** (including [canary]), are
-halted during the change lock period. Currently, the change lock period is:
-
-* Between every Friday 23:00 UTC and Monday 06:00 UTC.
-* Fourth Thursday of November (US Thanksgiving, limited availability company-wide).
-* 24th and 25th of December (Christmas according to Gregorian calendar, limited availability company-wide).
-* 1st of January (New Year's Day, limited availability company-wide).
+halted during the change lock period. Currently, the change lock period is between every **Friday 23:00 UTC and Monday 06:00 UTC** as well as during any [scheduled Production Change periods](/handbook/engineering/infrastructure/change-management/#production-change-lock-pcl).
 
 During the change lock period, manual deployment can be triggered through GitLab ChatOps if the deployment fixes **a severity::1 availability or security issue**.
 
@@ -143,7 +138,7 @@ Deployments to production will be blocked by the following events:
 1. An [active incident with the `blocks deployment` label](/handbook/engineering/infrastructure/incident-management/#labeling).
 1. Ongoing [change issues with the `blocks deployment` label](/handbook/engineering/infrastructure/change-management/#change-criticalities).
 
-Release Managers may decide, with input from the [EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) to override a block and continue with the deployment. 
+Release Managers may decide, with input from the [EOC](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) to override a block and continue with the deployment. 
 
 
 ## Labels of importance
