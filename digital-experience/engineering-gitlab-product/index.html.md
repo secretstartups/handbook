@@ -36,7 +36,7 @@ Complete the Snowplow onboarding tasks
       - Runs `gdk install`.
       - Runs `gdk start`.
 
-      **Note**:  First follow [dependency installation instructions](index.md#install-prerequisites) if necessary.
+      **Note**:  First follow dependency installation instructions if necessary.
 
       `curl "https://gitlab.com/gitlab-org/gitlab-development-kit/-/raw/main/support/install" | bash`
   3. To browse your [developmenet server](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/browse.md):  
