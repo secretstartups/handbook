@@ -122,11 +122,12 @@ WITH forecast AS (
 )
 
 SELECT  
-  mau_value AS y_value,
-  reporting_month AS ds_month
+  reporting_month AS ds_month,
+  SUM(mau_value) AS y_value
 FROM forecast
-WHERE y_value > 0 
+WHERE mau_value > 0 
   AND stage_name = 'All'
+GROUP BY 1
  ```
 
 ### Recorded Monthly Metric Value: [td_xmau_metrics_recorded_metric_value(metrics_path)]
