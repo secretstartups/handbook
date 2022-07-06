@@ -123,7 +123,7 @@ For GitLab.com releases, timelines are different and described below.
 
 ### Deployment blockers
 
-Anyone can **block or halt a deployment** by:
+Anyone can **halt or block a deployment** by:
 * Declaring a [incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
 * Applying the `blocks deployments` label. This prevent automated deployments from starting.
 * Alerting the Release Managers in the [#releases] channel. 
