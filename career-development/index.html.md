@@ -304,7 +304,7 @@ For more details on logistics of ending an interim or acting period please refer
   click supe:sse "/job-families/engineering/support-engineer#senior-support-engineer";
   click supe:sem "/job-families/engineering/support-management#support-engineering-manager";
   click supe:stse "/job-families/engineering/support-engineer#staff-support-engineer";
-  click supe:ssem "/job-families/engineering/support-management/index.html.md#senior-support-engineering-manager"
+  click supe:ssem "/job-families/engineering/support-management/#senior-support-engineering-manager"
   click supe:ds "/job-families/engineering/support-management#director-of-support";
 ```
 
