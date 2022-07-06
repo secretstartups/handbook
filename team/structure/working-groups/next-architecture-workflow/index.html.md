@@ -94,3 +94,4 @@ and improving the success rate of working groups in their current form first.
 | Member                   | Philippe Lafoucrière | Security Architect, Security |
 | Member                   | Grzegorz Bizon | Principal Backend Engineer |
 | Member                   | Lucas Charles | Staff Backend Engineer, Sec::Static Analysis |
+| Member                   | João Pereira | Staff Backend Engineer, Package |
