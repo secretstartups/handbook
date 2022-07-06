@@ -57,8 +57,8 @@ These entail access, separation, synchronization, and lifecycle management consi
 | 1  | 2021-03-25 | 2021-06-02     | Blueprints for database scaling patterns ([read-mostly](https://gitlab.com/gitlab-org/gitlab/-/issues/326037), [time-decay](https://gitlab.com/gitlab-org/gitlab/-/issues/326035), [sharding](https://gitlab.com/gitlab-org/gitlab/-/issues/326222))|
 | 2  | 2021-04-21 | 2021-06-03     | [Horizontal sharding evaluation and proof of concept](https://gitlab.com/groups/gitlab-org/-/epics/5838) |
 | 3  | 2021-04-26 | 2021-06-10     | [Decomposition (vertical sharding) evaluation and proof of concept](https://gitlab.com/groups/gitlab-org/-/epics/5883) |
-| 4  | 2021-06-11 |                | [Rollout decomposed CI database on gitlab.com](https://gitlab.com/groups/gitlab-org/-/epics/6168) |
-| 5  |            |                | Working group closing tasks, communications, cleanup |
+| 4  | 2021-06-11 | 2022-07-02     | [Rollout decomposed CI database on gitlab.com](https://gitlab.com/groups/gitlab-org/-/epics/6168) |
+| 5  | 2022-07-05 |                | Working group closing tasks, communications, cleanup |
 
 
 ### Overview
