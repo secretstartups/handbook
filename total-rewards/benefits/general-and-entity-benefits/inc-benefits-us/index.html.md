@@ -466,7 +466,9 @@ The company offers a 401k plan in which you may make voluntary pre-tax contribut
  
 ### 401(k) Match
  
-GitLab offers matching 50% of contributions on the first 6% of allocated earnings with a yearly cap of 1,500 USD. As you are eligible to participate in GitLab's 401k as of your hire date, you are *also* eligible for GitLab matching contributions as of your hire date.
+GitLab offers matching 50% of contributions on the first 6% of allocated gross earnings per pay period with a yearly cap of $1,500 USD. If a hypothetical team members salary is $50,000 USD, their gross pay per period is $50,000 / 24 = $2083.33. This is then matched at a rate of $2083.33 * 6% * 50% = $62.50.
+
+As you are eligible to participate in GitLab's 401k as of your hire date, you are *also* eligible for GitLab matching contributions as of your hire date.
  
 All employer contributions are pre-tax contributions. Team members can still make Roth 401(k) team member contributions and receive pre-tax employer contributions to your Traditional 401(k) account.
  
@@ -488,7 +490,7 @@ Employer contributions vest according to the following schedule:
  
 To help you understand the math, here is a hypothetical vesting chart showing how much the employee would receive if they left the company.
  
-In this example the team member's salary is $50,000 USD and they max out their match every year. 50,000 * 6% = 3000. 3000 * 50% = 1500 match.
+In this example the team member's salary is $50,000 USD and they max out their match every year. $50,000 * 6% = $3000. $3000 * 50% = $1500 match.
  
 Year 1: Put in 3K, GitLab matches 1500. Leave the company get 3K (none vested)
 Year 2: Put in 3K, GitLab matches 1500. Leave the company get 6K own money + $750 USD vested contribution.   (3K * 0.25)
