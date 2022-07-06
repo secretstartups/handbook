@@ -1048,7 +1048,7 @@ An example is the [public repository of this website](https://gitlab.com/gitlab-
 that also contains this [company handbook](/handbook/). Everything we do is public by default, such as the [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/issues) and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/issues) issue trackers, as well as [marketing](https://gitlab.com/groups/gitlab-com/marketing/-/issues) and [infrastructure](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues). Transparency creates awareness for GitLab, allows us to recruit people that care about our values, gets us more and faster feedback from people outside the company, and makes it easier to collaborate with them. It is also about sharing great software, documentation, examples, lessons,
 and processes with the **whole community** and the world in the spirit of open source, which we believe creates more value than it captures.
 
-There are exceptions. Material that is [not public by default is documented](/handbook/communication/#not-public). We are above average at keeping things confidential that need to be. On a personal level, you should tell it like it is instead of putting up a poker face. Don't be afraid to admit you made a mistake or were wrong. When something goes wrong, it is a great opportunity to say "What’s the [kaizen](https://en.wikipedia.org/wiki/Kaizen) moment here?" and find a better way without hurt feelings.
+There are exceptions. Material that is [not public by default is documented](/handbook/communication/confidentiality-levels/#not-public). We are above average at keeping things confidential that need to be. On a personal level, you should tell it like it is instead of putting up a poker face. Don't be afraid to admit you made a mistake or were wrong. When something goes wrong, it is a great opportunity to say "What’s the [kaizen](https://en.wikipedia.org/wiki/Kaizen) moment here?" and find a better way without hurt feelings.
 
 Even as a [public company](/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/), we know that our value of transparency will be key to our success. This value can be hard to follow at times. You might ask yourself: what should be shared, how much to share, whether or not to speak up but definitely take the time to always opt for maximum transparency by adhering to the operating principles below. Often, company values get diluted as they grow, most likely because they do not write anything down. But we will make sure our values scale with the company. As a [public company](/handbook/being-a-public-company/), we declare everyone in the company as an insider, which allows us to remain transparent internally about our numbers, etc. Everything else that can be transparent will continue to be so.
 
@@ -1077,7 +1077,7 @@ is a choice to be made between caution or inaction, and transparency. If we make
 a mistake, we now know what the limits of transparency are for the company and
 we should [document this](#not-public). _The only exception to this rule would be in the case when there are legal concerns._
 
-We document what is [not public by default](/handbook/communication/#not-public) on our communication page.
+We document what is [not public by default](/handbook/communication/confidentiality-levels/#not-public) on our communication page.
 
 ##### Directness
 {:.no_toc}
