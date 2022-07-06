@@ -226,7 +226,7 @@ You can see our OKRs in the [Business Technology OKR issue tracker](https://gitl
 ### Initiative Codenames
 {: #initiative-codenames}
 
-Our department manages technical projects with a lot of depth and/or breadth that may have a very long descriptive title. This is similar to a [confidential project name](https://about.gitlab.com/handbook/communication/#project-names), however usually has minimal usage outside the IT department and is only for internal initiatives (in collaboration with security teams) to quickly refer to a project as part of our team's morale since we get excited and rally around codenames.
+Our department manages technical projects with a lot of depth and/or breadth that may have a very long descriptive title. This is similar to a [confidential project name](https://about.gitlab.com/handbook/communication/confidentiality-levels/#project-names), however usually has minimal usage outside the IT department and is only for internal initiatives (in collaboration with security teams) to quickly refer to a project as part of our team's morale since we get excited and rally around codenames.
 
 All issues related to these projects exist in internal only projects by default due to security risks. Any public information is linked in the handbook.
 
