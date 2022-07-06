@@ -78,7 +78,7 @@ An internship can start as soon as both the intern and the company are ready to 
 
 ### Location
 
-The internship program is [all-remote](/company/culture/all-remote/).
+The internship program is [all-remote](/company/culture/all-remote/).  The countries where we are currently hiring interns can be found on the [employment solutions handbook page](/handbook/people-group/employment-solutions/#engineering-internships).
 
 The intern can choose to relocate themselves to a region where there happens to be a cluster of GitLab employees who co-work together (when not during the pandemic). But expenses, travel documentation, and all other considerations need to be handled by the intern. They should keep their manager informed of any plans. If the intern converts to a full-time hire all conditions of their country-of-residence must be met related to their country of residence.
 
