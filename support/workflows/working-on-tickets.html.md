@@ -19,7 +19,7 @@ The focus of this page is to be a guide for Support Engineers in
 [beginning work](#providing-a-first-response-to-a-ticket) on support tickets.
 For information about working on tickets successfully in the Support Global
 Groups environment, please read the
-[SE Responsibilities and Priorities](/handbook/support/support-global-groups/index.html/#se-responsibilities-and-priorities)
+[SE Responsibilities and Priorities](/handbook/support/support-global-groups/#se-responsibilities-and-priorities)
 topic on the main Support Global Groups page.
 
 ## Views to use in our SGG system
@@ -46,7 +46,7 @@ Through that process you may:
 1. Select a new, unassigned ticket in another group's view
 
    In this situation, follow the guidance in the SGG FAQ to
-   [move the ticket to your group](/handbook/support/support-global-groups/sgg-faq.html/#3-how-do-i-move-a-ticket-to-a-different-group)
+   [move the ticket to your group](/handbook/support/support-global-groups/sgg-faq.html#3-how-do-i-move-a-ticket-to-a-different-group)
    before proceeding to [ticket assignment](#assigning-tickets)
 
 1. Select an in-progress ticket assigned to someone else
