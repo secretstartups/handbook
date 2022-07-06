@@ -355,7 +355,7 @@ _To be documented_
 
 Our goals in communicating offboardings are transparency, and to provide an opportunity for team members to say goodbye. We understand that different individuals are comfortable with different levels of communication and that each offboarding situation has different situations and nuances. For this reason and out of respect for individuals, we have a couple of key guiding principles for communicating offboarding:
 
-1. While we encourage communicating for transparency and awareness, we _do not require that offboarding messages are communicated broadly_. Offboarding should be communicated where necessary for business continuity (I.E. to immediate team and key stakeholders), but it is up to manager and team member to decide whether they feel comfortable communicating more broadly in our #team-member-updates Slack channel. 
+1. We ask that all offboardings are announced in the #team-member-updates Slack channel for transparency and awareness. While we encourage all offboardings to be posted in #team-member-updates, we recognize there may be select situations that we should consider a different approach for. If a team member or their manager does not want to post in #team-member-updates, please discuss with your [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) or [Team Member Relations](https://about.gitlab.com/handbook/people-group/team-member-relations/). 
 
 2. Team members and managers have the discretion to determine who shares the news of the team member's offboarding (I.E. team member or manager). Regardless of who shares, it is required that team members review offboarding messaging with their managers prior to sharing.
 
@@ -387,7 +387,7 @@ As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/pe
 
 However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can work with their manager on messaging to share a company-wide message about their departure. 
 
-Once the news has been shared with the team member’s team and other stakeholders, and messaging is agreed upon between the departing team members and their manager, the departure message can be shared in the `#team-member-updates` Slack channel. 
+Once the news has been shared with the team member’s team and other stakeholders, and messaging is agreed upon between the departing team members and their manager, the departure message should be shared in the `#team-member-updates` Slack channel. 
 Managers and team members can optionally leverage this template as a guide on how to communicate a team member’s upcoming departure:
 
 ```
