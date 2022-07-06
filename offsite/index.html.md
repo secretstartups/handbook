@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "E-group offsite"
-description: "The E-group offsite happens every quarter for four days after the Board of Directors meeting"
+title: "E-Group offsite"
+description: "The E-Group offsite happens every quarter for four days after the Board of Directors meeting"
 ---
 
 ## On this page
@@ -10,7 +10,7 @@ description: "The E-group offsite happens every quarter for four days after the 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The E-group offsite happens every quarter for four days after the [Board of Directors meeting](/handbook/board-meetings/#board-meeting-schedule){:data-ga-name="Board meeting schedule"}{:data-ga-location="body"}
+The E-Group offsite happens every quarter. It is usually four days after the [Board of Directors meeting.](/handbook/board-meetings/#board-meeting-schedule){:data-ga-name="Board meeting schedule"}{:data-ga-location="body"}
 
 ## Goal
 
@@ -42,30 +42,62 @@ CEO Shadows will also tasked with making Merge Requests on behalf of an Executiv
 Please follow the below outlined process for announcing and merging the changes.
 
 The **Chief of Staff to the CEO** or other team member is responsible for facilitating the event.
-They will work with the Staff EBA closely to ensure the event runs smoothly.
+They will work with the EBA closely to ensure the event runs smoothly.
 The CoS to the CEO is the on-the-ground person ensuring that the event is kept on-schedule, discussions are kept on-subject, helping steer the conversation when necessary, guiding conversations towards action items, and ensuring that [implementation is about 50% of time](/company/offsite/#timeline){:data-ga-name="timeline"}{:data-ga-location="body"}.
 
 The **Staff Executive Business Administrator to the CEO** is responsible for organizing and coordinating the Offsite, including travel, lodging, agendas, and meals.
 
 ## Logistics
 
-Since most of the E-group is in the San Francisco Bay Area, we'll go to a location that is drivable or a short direct flight, for example: East Bay, Denver, Sonoma.
-We tend to pick a location at or close to a member of the E-group.
-If the CEO is traveling, the CoS to the CEO (preferred) or the Staff EBA should bring [the Owl](https://www.owllabs.com).
+Since most of the E-Group is in the San Francisco Bay Area, we usually go to a location close to a member of the E-Group that is drivable or a short direct flight; for example: San Francisco, Tahoe, Sonoma.
+The E-Group offsite can also be hosted at the house of the CEO.
+The EBA to the CEO is responsible for booking the hotel and meeting rooms for the people attending in person.
+The EBA to the CEO is responsible for sending out the calendar invites associated to each meeting in the agenda, one calendar entry per meeting, with unique Zoom links for the meeting when the attendees change.
+If the CEO is traveling, the CoS to the CEO (preferred) or the EBA to the CEO should work with the CEO to bring [the Owl](https://www.owllabs.com).
 
 [Hybrid calls are hard](/handbook/communication/#hybrid-calls-are-horrible){:data-ga-name="hybrid calls are hard"}{:data-ga-location="body"}, but occasionally the Offsite will need to take a hybrid meeting form.
-When this is the case, the Staff EBA to the CEO will ensure that the calendar invite for the Zoom offsite includes a Zoom link.
-The Zoom link should have a waiting room attached to it, since the zoom URL is on calendars and is discoverable internally.
-This also allows the E-group to pull in folks as-needed into the room without switching Zoom rooms, as people won't just jump in and out without being noticed or before the E-group is ready to move onto that subject.
+When this is the case, the EBA to the CEO will ensure that the calendar invites for the offsite sessions include Zoom links.
+The Zoom links should have a waiting room attached to it since the Zoom URL is on calendars and is discoverable internally.
+This also allows the E-Group to pull in folks as-needed into the room without switching Zoom rooms, as people won't just jump in and out without being noticed or before the E-Group is ready to move onto that subject.
+
+### Location: House of the CEO
+
+We hosted the June 2022 E-Group Offsite meetings at the house of the CEO in San Francisco. When hosting at this location, the following guidelines apply. 
+
+The EBA to the CEO will coordinate with on-site contact of the house and collaborate on all details taking place at the house. This includes:
+
+1. Ensuring the [AV setup](https://www.logitech.com/en-us/products/video-conferencing/conference-cameras/group-conferencecam.html) is available for use
+1. Meals and catering
+1. Schedule including arrival time and departure times
+1. Attendee count and details
+1. Share a summarized agenda detailing when meetings are taking place, which room will be used for each meeting, and the count of people in each room. If a room will be used by the [Directs-Group](/company/team/structure/#directs-group) while they are not in the E-Group Offsite meeting, note this as well.
+
+The maximum attendees that can fit in the main room is 16, however, if additional attendees are needed in the main room, coordinate with the on-site contact to secure additional accommodations such as an extra table, chairs, etc... and share which meetings this would be needed for.
+
+AV Equiptment is stored at the house. The following items are on-site: 
+
+- [Logitech GROUP Video Conferencing System](https://www.logitech.com/en-us/products/video-conferencing/conference-cameras/group-conferencecam.html)
+   - This is powered by a Mac Mini using Zoom Rooms and an iPad as the controller
+   - [Logitech GROUP Expansion Mics](https://www.logitech.com/en-us/products/video-conferencing/accessories/group-expansion-mics.989-000171.html) are being ordered for future offsites, and will need to be connected at the October, 2022 E-Group Offsite
+- [Anker 655 USB-C Hub](https://www.amazon.com/dp/B09MF6TJLW?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- Additional 20' HDMI Cable
+- Power Strips
+- 2x MacBook Pro Chargers
+
+It is recommended that someone arrive an hour before the first meeting on the first day to set up the AV Equipment, as well as ~30 minutes before the first meeting on subsequent days to ensure everything is logged in appropriately.
+The EBA to the CEO should coordinate sharing the needed passwords for the AV Equipment from the CEO to the person who is setting up the equipment in case the accounts have been logged out. These passwords are for the Zoom Rooms account, the iCloud account, and the iPad.
+The AV Equipment is on a cart with wheels and can be moved into the room where needed.
+It is recommended to set up the cart at the head of the table, placing the main speaker/microphone in the center of the table while placing the expansion mics towards the two heads of the table.
 
 #### Offsites in the era of COVID-19
 
 COVID-19 has lead GitLab to [suspend all non-essential travel](/handbook/travel/#travel-guidance-covid-19){:data-ga-name="suspend all non-essential travel"}{:data-ga-location="body"}.
-That includes the E-group offsite.
+That includes the E-Group offsite.
 
-In the circumstance of a fully remote e-group offsite, instead of 2.5 days of in-person meetings, the e-group offsite occurs over 4 all-remote half-day sessions.
+In the circumstance of a fully remote E-Group offsite, instead of 2.5 days of in-person meetings, the E-Group offsite occurs over 4 all-remote half-day sessions.
 This is because some people may find Zoom makes the meeting more intense.
 The CEO Skips follow up call will happen on the business day immediately following the final inclusion.
+
 
 ## Schedule
 
@@ -74,29 +106,31 @@ The offsite meeting should take place during the second or third month of the qu
 Scheduling for the in-person event generally follows:
 1. Travel Day: travel day with optional dinner around 7pm local time (usually Monday).
 1. First Day: Full day meeting starting with breakfast at 8am (usually Tuesday)
-1. Second Day: Full day meeting starting with breakfast at 8am. When the event does not coincide with Contribute, Sr. EBA to the CEO will coordinate an off-site activity for the afternoon (usually Wednesday).
+1. Second Day: Full day meeting starting with breakfast at 8am. When the event does not coincide with Contribute, EBA to the CEO will coordinate an off-site activity for the afternoon (usually Wednesday).
 1. Third Day: Half day meeting starting with breakfast at 8am. Usual end time is 12:30 pm with departure flights scheduled in the late afternoon (usually Thursday).
-1. First day after third day: The E-group hosts a [CEO Skips zoom call](#ceo-skips-zoom-call) (usually Friday or the following Monday).
+1. First day after third day: The E-Group hosts a [CEO Skips zoom call](#ceo-skips-zoom-call) (usually Friday or the following Monday).
 
 E-Group is welcome to fly in early or stay later pending their travel preferences.
 
-Scheduling for a remote offsite generally follows:
+Scheduling for a fully remote offsite generally follows:
 1. Monday through Thursday from 8am-12:20pm Pacific time each day.
 1. The following Monday after the offsite concludes, the E-Group hosts a [ceo skips zoom call](#ceo-skips-zoom-call)
 
-It generally occurs in:
-* March or early April
-* June or early July
-* October
-* January
+The E-Group offsite generally occurs in:
+- March or early April
+- June or early July
+- October
+- January
 
-In 2021, the following offsite dates have been confirmed (starting dates):
-* 2021-06-28
-* 2021-11-01
-* 2022-01-10
-* 2022-04-04
-* 2022-07-11
-* 2022-10-03
+The following dates have been confirmed for future E-Group offsites (starting dates):
+- 2022-10-03
+
+The following dates were previous E-Group offsites (starting dates):
+- 2021-06-28
+- 2021-11-01
+- 2022-01-10
+- 2022-04-04
+- 2022-06-13
 
 ## Timeline
 
@@ -111,11 +145,11 @@ Because the Offsite is a very expensive meeting, we want to be sure we are as ef
 One of the ways we do this is by asking participants to do prep work ahead of time.
 
 Examples of prep work include:
-* [Reading the content that was selected](/company/offsite/#content-choice){:data-ga-name="content choice"}{:data-ga-location="body"}
-* Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix){:data-ga-name="performance portential matrix"}{:data-ga-location="body"}
-* Executives working with their People Business Partners to prep any [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotion nominations"}{:data-ga-location="body"}
-* Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direct](/direction/growth/)
-* [Watch this short clip on the danger of sticky bears](/company/offsite/beware-sticky-bears/){:data-ga-name="growth"}{:data-ga-location="body"}
+- [Reading the content that was selected](/company/offsite/#content-choice){:data-ga-name="content choice"}{:data-ga-location="body"}
+- Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix){:data-ga-name="performance portential matrix"}{:data-ga-location="body"}
+- Executives working with their People Business Partners to prep any [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotion nominations"}{:data-ga-location="body"}
+- Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direct](/direction/growth/)
+- [Watch this short clip on the danger of sticky bears](/company/offsite/beware-sticky-bears/){:data-ga-name="growth"}{:data-ga-location="body"}
 
 Anyone who is presenting for a topic should share materials with the prep work.
 
@@ -155,8 +189,8 @@ The agenda will guide conversations. If an E-Group member wants to speak, the te
 
 We will document agreed changes directly to the handbook and any other relevant SSoT during the meeting.
 Every item will get a MR maker and MR reviewer assigned.
-Most of the time the MR maker will be the CoS to the CEO, one of the CEO shadows, or the Staff EBA to the CEO.
-When the MR is ready, the reviewer is at-mentioned in the public E-group channel in Slack.
+Most of the time the MR maker will be the CoS to the CEO, one of the CEO shadows, or the EBA to the CEO.
+When the MR is ready, the reviewer is at-mentioned in the public E-Group channel in Slack.
 The reviewer communicates with the maker via that Slack thread.
 The goal is to merge it the same day, preferably within 15 minutes.
 
@@ -176,7 +210,7 @@ If you are the person who owns a topic, you are responsible for:
 
 ### Recurring discussion topics
 
-There are some topics discussed at every E-group offsite.
+There are some topics discussed at every E-Group offsite.
 These include:
 1. Reviewing action items from the last offsite
 1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotions"}{:data-ga-location="body"} (as-needed based on number of people, estimate ~10 mins per person)
@@ -225,7 +259,7 @@ Follow ups can take the form of an:
 
 CEO Skips are a key leadership team that plays a key role in identifying and realizing business opportunities. CEO Skip input is valuable in the lead up to meetings, and CEO Skip collaboration is key for cascading efforts that follow.
 
-In advance of the offsite, E-group members are expected to connect with their team leadership to identify possible agenda topics, get input into specific topics, and share an overview of what is being discussed. The goal is not to waste an opportunity for broader input and insight from the broader leadership team. The CEO-Skip team should arrive at our CEO Skip Zoom call already having an understanding of some of key items that were discussed.
+In advance of the offsite, E-Group members are expected to connect with their team leadership to identify possible agenda topics, get input into specific topics, and share an overview of what is being discussed. The goal is not to waste an opportunity for broader input and insight from the broader leadership team. The CEO-Skip team should arrive at our CEO Skip Zoom call already having an understanding of some of key items that were discussed.
 
 In the week following the Offsite, there is a 25-minute Zoom call before 12pm Pacific time for the [CEO Skips Group](/company/team/structure/#ceo-skips). This time will not work for everyone. The meeting will be privately recorded via Zoom and linked in the meeting agenda.
 
@@ -245,7 +279,7 @@ CEO Skips play a key role in cascading what is happening in the business and com
 1. Help to operationalize any asks or decisions that have been made
 
 This Zoom call is a separate invite.
-The Staff EBA to the CEO is responsible for setting up the invite, the doc for the call, and inviting CEO Skips.
+The EBA to the CEO is responsible for setting up the invite, the doc for the call, and inviting CEO Skips.
 The CoS to the CEO will moderate the call.
 
 The CoS to the CEO is responsible for meeting material. The CoS to the CEO will share the meeting recap material no later than 72 business hours after the offsite concludes and at least 48 hours in advance of the CEO-Skips Meeting. Material will include an event summary and a highlight video message from the CEO. The highlight video is intended to set context async as we do not present in the meeting. All materials will be signed off on by the legal team in advance of sharing. 
@@ -268,11 +302,11 @@ Material that the E-Group finds noteworthy should be added to the [Leadership Bo
 
 ### Previous Reads
 
-* [So You want to Talk about Race](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) by Ijeoma Oluo
-* [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead) by Brené Brown
-* [Better Allies](https://www.goodreads.com/book/show/43545460-better-allies) by Karen Catlin
-* [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work) by Morten Hansen
-* [Leadership and Self-Deception](https://www.goodreads.com/book/show/180463.Leadership_and_Self_Deception) by the Arbinger Institute
-* [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by Kerry Patterson, Joseph Granny, Ron McMillan, & Al Switzler
-* [The Servant: A simple story about the true essence of leadership](https://www.goodreads.com/book/show/181736.The_Servant) by James Hunter
-* [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive) by Daniel Pink
+- [So You want to Talk about Race](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) by Ijeoma Oluo
+- [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead) by Brené Brown
+- [Better Allies](https://www.goodreads.com/book/show/43545460-better-allies) by Karen Catlin
+- [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work) by Morten Hansen
+- [Leadership and Self-Deception](https://www.goodreads.com/book/show/180463.Leadership_and_Self_Deception) by the Arbinger Institute
+- [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by Kerry Patterson, Joseph Granny, Ron McMillan, & Al Switzler
+- [The Servant: A simple story about the true essence of leadership](https://www.goodreads.com/book/show/181736.The_Servant) by James Hunter
+- [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive) by Daniel Pink
