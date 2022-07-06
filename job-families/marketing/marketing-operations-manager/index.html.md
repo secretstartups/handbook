@@ -96,6 +96,38 @@ All of the above requirements and:
 *  Exemplary oral and written communication skills, including ability to concisely present project deliverables.
 *  Ability to work successfully with little guidance.
 
+## Staff Marketing Operations Manager
+
+### Job Grade 
+
+The Staff Marketing Operations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Justification 
+
+The business need for an individual contributor Staff Manager Marketing Operations Manager role is to have a team member with a high level of expertise working with cross-functional groups and to be able to confidently drive facilitation of problem-solving and influence decisions by being a technical/functional knowledge expert that articulates ideas very well. Heavy cross-department collaboration is expected with a greater emphasis on being a thought partner and having a strong problem-solving skillset. This position is needed to help with alignment with our growing stakeholder list across the company that has complex work requirements we need to support but sometimes do not have a dedicated project driver.  In the market, there are over 75 organizations that typically have 3 to 4 staff level team members.
+
+### Responsibilities
+
+All of the above responsibilities and:
+* Provide technical and functional knowledge to projects that contribute to overall direction across teams.
+*  Collaborate across functions to structure problems, conduct analysis, and drive to solutions through a rigorous, data-driven process.
+*  Create and manage project plans with clearly defined deliverables and resources, coordinate work streams and dependencies, track and communicate progress, and identify obstacles and ensure they are addressed.
+* Lead others by sharing solutions and problem solving approaches
+* Make technical and project decisions for the team
+* Implement technical and strategic decisions across teams
+
+### Requirements
+
+All of the above requirements and:
+*  Can understand and work on complex problems requiring a deep understanding of multiple sources of data to make a recommendation
+*  Exemplary oral and written communication skills, including ability to concisely present project deliverables
+*  Can lead others by sharing solutions and able to facilitate problem-solving with others
+*  Able to provide technical and functional knowledge to projects that contribute to the overall direction across teams
+*  Can be the go-to for managers on complex projects or programs and able to be a thought-partner for technical/project decisions
+*  Very well spoken and can articulate thoughts and solutions well
+*  Ability to work successfully with little guidance.
+
+
 ## Manager, Marketing Operations
 
 ### Job Grade 
