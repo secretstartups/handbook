@@ -86,7 +86,7 @@ Important notes:
 1. The functional owner is responsible for updating and posting their Key Review agenda 24 hours in advance of the meeting, post in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. 
 1. Video is not required, but if there is a video it should be posted 24hrs in advance in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 1. The agenda document should include a presentation link that is accessible by all team members, as well as a Q&A section.
-1. Key Reviews should be publicly streamed to YouTube Unfiltered in alignment with GitLab's [value of transparency](/handbook/values/#transparency). Key Reviews with [not public](/handbook/communication/#not-public) information should be privately streamed to YouTube Unfiltered. 
+1. Key Reviews should be publicly streamed to YouTube Unfiltered in alignment with GitLab's [value of transparency](/handbook/values/#transparency). Key Reviews with [not public](/handbook/communication/confidentiality-levels/#not-public) information should be privately streamed to YouTube Unfiltered. 
 1. Should public or private streaming be unavailable, Key Reviews are set to auto-record to the cloud and should be uploaded to the GitLab Unfiltered [Key Reviews Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi) on YouTube. It is the DRI's or their EBA's responsibility to ensure that the video is uploaded to GitLab Unfiltered with the correct visibility (private or public). 
 1. If the function DRI is not available to attend their Key Review then the function's leadership team is responsible for attending the meeting and providing updates.
 1. Repetition in recognizing what is working or not working from month to month is okay as repetition can be an organizational tool for teaching people what’s important amidst all the noise.
@@ -107,7 +107,7 @@ Key Review recording links should be shared in the #key-review Slack channel by 
 
 The [original demo and proposal of using the KPI Slide project](https://youtu.be/5BlFNhSfS8A) is on GitLab Unfiltered (internal).
 
-The [KPI Slides project](https://gitlab.com/gitlab-com/kpi-slides) is a GitLab-internal project since it includes KPIs that are [not public](/handbook/communication/#not-public).
+The [KPI Slides project](https://gitlab.com/gitlab-com/kpi-slides) is a GitLab-internal project since it includes KPIs that are [not public](/handbook/communication/confidentiality-levels/#not-public).
 Those slides are deployed to GitLab pages (also internal, you must have access to the project to see the website).
 Each group that presents has one markdown file with their KPIs.
 Every month, groups create an MR to update that markdown file.
@@ -157,7 +157,7 @@ This method is ideal, as it is [handbook-first](/handbook/handbook-usage/#why-ha
 Commentary can be added via an MR to the [data/performance_indicators.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/performance_indicators.yml) file. 
 The executive summary section can help consumers of the information understand where to dig in futher. 
 
-The difficulty in using performance indicator pages for Key Reviews is for groups who have a signficant number of Performance Indicators that [cannot be public](/handbook/communication/#not-public). 
+The difficulty in using performance indicator pages for Key Reviews is for groups who have a signficant number of Performance Indicators that [cannot be public](/handbook/communication/confidentiality-levels/#not-public). 
 For folks looking to consume this information quickly, having to 2FA into Sisense to see the information can be frustrating. 
 For functions or departments for which this is true, it is recommended to use a different Key Review format. 
 
