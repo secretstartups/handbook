@@ -25,7 +25,7 @@ This process is not unlike writing tests for your software. Only communicate a (
 
 Having a **"handbook first"** mentality ensures there is no duplication; the handbook is always up to date, and others are better able to contribute. 
 
-Beyond being "handbook first," we are also "public handbook first." When information is [internal-only](/handbook/communication/#internal), it should be captured in the internal handbook, but we default to the public handbook for anything that can be [made public](/handbook/communication/#not-public). This ensures that everyone has access to any information that can be [SAFEly](/handbook/legal/safe-framework/) shared. This supports the GitLab [values](/handbook/values/), including transparency, efficiency, and results. It also protects against the internal handbook becoming a home for information that should otherwise be public or a conflicting or duplicative source of truth.
+Beyond being "handbook first," we are also "public handbook first." When information is [internal-only](/handbook/communication/confidentiality-levels/#internal), it should be captured in the internal handbook, but we default to the public handbook for anything that can be [made public](/handbook/communication/confidentiality-levels/#not-public). This ensures that everyone has access to any information that can be [SAFEly](/handbook/legal/safe-framework/) shared. This supports the GitLab [values](/handbook/values/), including transparency, efficiency, and results. It also protects against the internal handbook becoming a home for information that should otherwise be public or a conflicting or duplicative source of truth.
 <!-- blank line -->
 
 <figure class="video_container">
@@ -203,11 +203,11 @@ If you require project-based access, you can request temporary developer access 
 
 #### Why is there a internal handbook?
 
-As a company, we are [public by default](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. The Internal Handbook is a space where team members can share internal information. Anything that **is not** considered [internal only](https://about.gitlab.com/handbook/communication/#internal), should be in GitLab's [public handbook](https://about.gitlab.com/handbook/). Anything that is [limited access](https://about.gitlab.com/handbook/communication/#limited-access) **should not be added to the internal handbook** as the internal handbook is accessible by all team members. 
+As a company, we are [public by default](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. The Internal Handbook is a space where team members can share internal information. Anything that **is not** considered [internal only](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal), should be in GitLab's [public handbook](https://about.gitlab.com/handbook/). Anything that is [limited access](https://about.gitlab.com/handbook/communication/confidentiality-levels/#limited-access) **should not be added to the internal handbook** as the internal handbook is accessible by all team members. 
 
 #### The process of using this handbook
 
-Only add items to the internal handbook that fall into the [not public](/handbook/communication/#not-public) category. Everything else should be added to our [public company handbook](/handbook/). 
+Only add items to the internal handbook that fall into the [not public](/handbook/communication/confidentiality-levels/#not-public) category. Everything else should be added to our [public company handbook](/handbook/). 
 
 #### Accessing the internal handbook group.
 
