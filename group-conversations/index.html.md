@@ -296,7 +296,6 @@ If your GC is optional and you need to move the date, please work with your depa
 | [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Cindy Blake | No | Quarterly| |  EBA to CMSO | 
 | [Digital Experience](/handbook/marketing/digital-experience/) | Michael Preuss | No | Quarterly | | EBA to CMSO | 
 | [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Adam Mittner |No | Quarterly| | EBA to CMSO | 
-| [UX Research](/handbook/engineering/ux/ux-research/) | Adam Smolinski | No | Quarterly | | EBA to Engineering | 
 | [Community Relations](/handbook/marketing/community-relations/) | John Coghlan | No | Quarterly| | EBA to CMSO | 
 | [Sales Development](/handbook/marketing/revenue-marketing/) | Jean-Baptiste Larramendy | No | Quarterly - Beginning of each quarter| | EBA to CMSO | 
 | [Alliances](/handbook/alliances/) | Nima Badiey | No | Quarterly | | EBA to VP of Alliances |
@@ -325,15 +324,15 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday June 29 | Alliances | Nima Badiey | N/A |
 | Thursday June 30 | Support | Tom Cooney | June 22 |
 | Tuesday July 5 | Infrastructure | Steve Loyd | June 23|
-| Wednesday July 6 | CRO| Michele Hodges | Key Review Date|
+| Wednesday July 6 | **Available** |  | |
 | Thursday July 7 | UX| Christine Lenneville | June 30|
 | Tuesday July 12 | Customer Fireside Chat | | N/A |
-| Wednesday July 13 | Available | |  |
+| Wednesday July 13 | CRO | Michele Hodges | N/A |
 | Thursday July 14 | Brand Activation | Luke Babb | N/A |
 | Tuesday July 19 | Marketing | Ashley Kramer | N/A|
 | Wednesday July 20 | Finance | | 2022-07-20 |
 | Thursday July 21 | General (CEO)| Sid Sijbrandij | Key Review Date|
-| Tuesday July 26 | UX Research | Adam Smolinski | N/A |
+| Tuesday July 26 | **Available** |  | |
 | Wednesday July 27 | Product | Product Leadership | Key Review Date|
 | Thursday July 28 | Digital Experience | Michael Preuss | N/A |
 | Tuesday Aug 2 | Available | | Key Review Date? |
