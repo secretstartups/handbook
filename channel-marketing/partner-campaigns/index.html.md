@@ -130,7 +130,7 @@ When a lead/contact is associated to a campaign the following occurs:
 ## Trials from Partners
 Partners can host our self-managed trial form. They will have a specific UTM parameter that is captured upon form submit that allows us to pass that lead directly to the partner. Below explains the backend for the activity. Each page must have the UTM `utm_partnerid` in the URL populated, otherwise we cannot pass to the partner.  
 
-You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builder). For a list of the partner IDs to add, [go here](e/handbook/marketing/channel-marketing/partner-campaigns/index.html.md?from_merge_request_iid=95987#partner-crm-ids).
+You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builder). For a list of the partner IDs to add, [go here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids).
 
 1. Form is hosted on a GitLab or Partner landing page. Partners should always use the `FORM 2983: Partner Self-Hosted Enterprise Trial Form` Form. 
    - This form has a hidden field that captured `utm_partnerid`
