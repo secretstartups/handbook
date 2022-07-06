@@ -211,7 +211,7 @@ When working in an all-remote company, there is a strong tendency to avoid tradi
 
 1. Block off everyone's calendar just as if they'd traveled for an offsite. Remove all other distractions (Slack, email, etc.) and enable Do Not Disturb modes on phones and computers.
 1. Ensure you have a strong desired outcome before planning a virtual offsite. This will ideally be discussed before the date and time are set, and written into the agenda.
-1. Coordinate pre-reading and work that can be done [asynchronously](/handbook/communication/#internal-communication) ahead of the remote offsite.
+1. Coordinate pre-reading and work that can be done [asynchronously](/handbook/communication/confidentiality-levels/#internal-communication) ahead of the remote offsite.
 1. For newly formed groups, include initial ice-breakers and activities to develop shared trust. For example, begin with a show & tell that allows team members to showcase something they've assembled or have contributed to.
 1. Schedule breaks during calls longer than 1 hour.
 1. Keep in mind the downsides of time-zone shifting to attend these synchronous meetings. Team members in shifted time-zones may arrive with lower energy.

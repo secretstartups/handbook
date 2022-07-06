@@ -60,7 +60,7 @@ If you determine that a meeting is needed to move a project forward, address a b
 1. Follow the order of the questions instead of jumping around in the agenda; this prevents the proverbial loudest voice in the room from dominating a conversation.
 1. Always ask if the name preceding the question would like to verbalize; if they wish not to, or are otherwise unavailable, the meeting host should verbalize on their behalf.
 1. Reenact questions in the list by verbalizing them even if they were already asked and answered in the shared document. Hearing the question and answer allows everyone to think about it and respond to it. It might also happen that when verbalizing the question or answer more context is given since most people can talk faster and with less effort than they can type. Another advantage if you're recording the meeting is that the recording contains everything.
-1. Unless the meeting contains [Not Public](/handbook/communication/#not-public) information, record the meeting to share with those who cannot attend live and consider livestreaming for maximum transparency and feedback potential.
+1. Unless the meeting contains [Not Public](/handbook/communication/confidentiality-levels/#not-public) information, record the meeting to share with those who cannot attend live and consider livestreaming for maximum transparency and feedback potential.
 1. If a portion of a meeting does not pertain to you, [it's OK to look away](/company/culture/all-remote/meetings/#9-its-ok-to-look-away). You are the [manager of your own time and attention](/handbook/leadership/#managers-of-one). 
 
 ## Q: What are the benefits of live doc meetings?
