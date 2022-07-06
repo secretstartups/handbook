@@ -103,6 +103,15 @@ For example, individual SDRs don't have OKRs, the SDR team does.
 If Legal is one person but represents a unique function, Legal has OKRs.
 Part of the individual performance review is the answer to: how much did this person contribute to the team objectives?
 
+## Writing Impactful OKRs
+When writing objectives and key results focus on what you want to accomplish (the objective) and how you will measure the success (the key result). 
+* For Objectives, they should be actionable, aspirational, and meaningful. 
+* The following formula can be used to write objectives: Verb + What you want to do + In order to/for/so that (what you hope to achieve). 
+* **Objective Example**: Refresh OKR process to increase company alignment. 
+* For Key Results, they should be focused, measurable and aggressive. 
+* The following formula can be used to write Key Results: Verb + what you’re going to measure + from “x to y”.
+* **Key Result Example**: 100% of employees certified on OKR expectations and process. 
+
 ## OKR Process at GitLab
 
 The EBA to the CEO is responsible for scheduling and coordination of the OKRs process detailed below.
