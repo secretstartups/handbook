@@ -137,7 +137,7 @@ Consider creating an issue with a living description which summarises the threat
 
 Each threat should have an Issue created where a proposal to avoid, prevent, detect, or recover from the threat is discussed by the team. These issues should have an Assignee and a Milestone or Due Date. Initially the Assignee should be the Project Manager, who will prioritise and re-assign the issue as appropriate. The Stable Counterpart's role is to help create that proposal, to help the team understand and address the issue, and to review how the threat is mitigated pre-merge.
 
-Also remember to consider making these issues public if they are not describing a currently implemented risk; issues that discuss how to improve upon the security posture of an implementation can be made [public by default](https://about.gitlab.com/handbook/communication/#internal).
+Also remember to consider making these issues public if they are not describing a currently implemented risk; issues that discuss how to improve upon the security posture of an implementation can be made [public by default](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal).
 
 #### Iterating 
 
