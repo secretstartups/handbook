@@ -125,13 +125,13 @@ Should you need to reschedule, please @ mention the EBA to the CEO in the `#eba-
 
 The CoS to the CEO creates a Google Doc for E-Group alignment and shares initial suggestions with the CEO. The CEO and CoS to the CEO discuss and modify these initial suggestions. This document is shared with E-Group in the [E-Group Weekly](/handbook/e-group-weekly/) that is **five weeks** before the start of the coming quarter. E-Group is encouraged to offer feedback in the E-Group Weekly, directly within the Google Doc, or in meetings with the CEO or CoST.
 
-**Four Mondays** before the start of the quarter, the CoS to the CEO will add the CEO OKRs to Ally.io. The CoS to the CEO will then post the Ally.io link in the #okrs Slack channel and @ mention the CEO. After the CEO confirms the post and makes any edits, the CoS to the CEO will @ mention e-group and exec-admins on the Slack thread.
+**Four Mondays** before the start of the quarter, the CoS to the CEO will share the CEO OKRs draft with E-Group. 
 
 CEO OKRs may continue to be refined in the lead up to the coming quarter.
 
 ### Executives propose OKRs for their functions
 
-**Four Mondays** before the start of the fiscal quarter, in the days after the CEO shares OKRs with all of GitLab in the #okr channel, Executives propose OKRs for their functions via Ally.io through a Slack message in #okrs channel. The CEO and Chief of Staff to the CEO should be @ mentioned. The CEO will confirm sign-off on objectives through commenting directly in them. While the CEO is the DRI, this responsibility may be the delegated to the CoS to the CEO.
+**Four Mondays** before the start of the fiscal quarter, in the days after the CEO shares OKRs with all of GitLab in the #okr channel, Executives propose OKRs for their functions in the OKR draft review meeting agenda. After this meeting, as OKRS are finalized, functional OKRS should be posted in Ally.io. This should be noted through a Slack message in the #okrs channel. The CEO and Chief of Staff to the CEO should be @ mentioned. The CEO will confirm sign-off on objectives through commenting directly in them. While the CEO is the DRI, this responsibility may be the delegated to the CoS to the CEO. The CoS to the CEO will also post CEO OKRs in Ally.io. 
 
 Each executive should aim for a maximum of 3 objectives. Each objective has between 0 and 3 key results. While OKRs are known for being ambitious or committed, we only have ambitious OKRs. When drafting the OKRs, executives should strive to have clear numerical targets. Teams within a function can have zero objectives and key results. 
 
@@ -175,7 +175,9 @@ It is each team's responsibility to proactively identify dependencies in which t
 
 ### Documenting How to Achieve
 
-In FY21, we had quarterly How to Achieve Meetings in which senior team members shared their plans for achieving KRs. These meetings were often short and inefficient as much of the content could be covered during the planning process and reviewed async. While we no longer have these meetings, plans for achieving KR targets should still be clearly documented within Ally.io or issues and epics that are linked to from Ally.io. Ally.io entries should include the following fields:
+In FY21, we had quarterly How to Achieve Meetings in which senior team members shared their plans for achieving KRs. These meetings were often short and inefficient as much of the content could be covered during the planning process and reviewed async. We now have shorter OKR Review Meetings (50 minutes). In these E-Group team members should share their drafts in the agenda linked in the calendar invites. As functional OKRs are finalized, they should be entered in Ally.io and the links should be shared in the #okrs channel (tag the CoS to the CEO and CEO for approval).
+
+Ally.io entries should include the following fields:
 
 1. **Overview:** some additional background on what we are trying to accomplish and why it is important. This section should elaborate on KRs that are not fully descriptive and provide context for team members who might not otherwise understand the desired result.
 1. **DRI or Core Team**: document the [DRI](/handbook/people-group/directly-responsible-individuals/){:data-ga-name="DRI"}{:data-ga-location="body"}. Other key team members and their roles can also be captured in this section.
