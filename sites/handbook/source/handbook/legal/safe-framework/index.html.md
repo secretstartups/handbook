@@ -30,9 +30,9 @@ For all materials requiring legal review, refer to the [Materials Legal Review P
 The **S** in “**S**AFE” serves as a reminder to make sure that Team Members are not sharing information which could be considered **S**ensitive information without  express approval from GitLab Legal. Things to consider before disclosing:
 1. What is considered **S**ensitive information? 
 
-     a) Any company confidential information that is [not public](https://about.gitlab.com/handbook/communication/#not-public). 
+     a) Any company confidential information that is [not public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public). 
      
-     b) Any data that reveals information not [generally known or not available](https://about.gitlab.com/handbook/communication/#internal) [externally](https://about.gitlab.com/handbook/communication/#internal) may be considered sensitive information. Sensitive information includes:
+     b) Any data that reveals information not [generally known or not available](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal) [externally](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal) may be considered sensitive information. Sensitive information includes:
 
     * Team Member data (individual performance, start dates, departures)
     * Customer or partner information (logos, trademarks, spend)
