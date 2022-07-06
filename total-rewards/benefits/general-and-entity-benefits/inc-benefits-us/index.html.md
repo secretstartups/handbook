@@ -223,8 +223,8 @@ Potential joiners who do not have a myCigna account yet can search for providers
 
 IMPORTANT NOTE:
  
-As an additional measure to confirm “Contracted Providers” (i.e. In-Network), it’s always a good idea to follow up with Providers directly (phone, email or otherwise) to additionally confirm if a Provider is contracted with Cigna or not.
-Provider contracts change and sometimes the contracts change faster than the website maintenance teams for the insurance carriers. It's better to spend time researching and confirming rather than assuming and being stuck with *balance billing* from Out of Network providers.
+As an additional measure to confirm “Contracted Providers” (i.e. In-Network), it’s always a good idea to follow up with Providers directly (phone, email or otherwise) to additionally confirm if a Provider is contracted with Cigna or not and if the type of service is covered. In some instances, the same provider may be covered In-Network for certain types of services, but may be Out-Network for other services.
+Provider contracts change and sometimes the contracts change faster than the website maintenance teams for the insurance carriers. It's better to spend time researching and confirming rather than assuming and being stuck with *balance billing* from Out of Network providers. 
 *Balance billing* is if the Out of Network provider's charge is $100 and the carrier’s maximum allowed reimbursement (MAR) amount is $70, the provider is within rights to bill you for the remaining $30. A “Cigna Contracted Provider” cannot balance bill Cigna members.
  
 ##### Cigna Telehealth
