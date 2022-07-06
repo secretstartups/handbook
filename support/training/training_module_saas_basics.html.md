@@ -84,7 +84,7 @@ Many common tickets are triaged to other places.
 
 1. Account Deletion and Data requests: Read _only_ the Overview piece for each workflow so you can see where these should be routed to. There are also macros in ZenDesk for these cases.
     1. [Data Access Requests](https://about.gitlab.com/handbook/support/workflows/personal-data-access-requests.html) (typically GDPR Article 15)
-    1. [Account Deletion](https://about.gitlab.com/handbook/support/workflows/account_deletion.html) (typically GDPR Driven)
+    1. [Account Deletion](https://about.gitlab.com/handbook/support/workflows/personal_data_access_account_deletion.html) (typically GDPR Driven)
 1. Subpoenas and other legal (court) requests. See [Subpoenas and other requests for information](https://about.gitlab.com/handbook/support/workflows/information-request.html)
     - Note: If the customer request is _not_ tied to an active court case or other legal matter, it may fall under one of the other cases below.
 1. Read over the [example cases to move to Security](https://about.gitlab.com/handbook/support/workflows/working_with_security.html#identifying-issues-for-transfer-to-security).
@@ -195,7 +195,7 @@ If you are doing this module as part of onboarding, feel free to remove the pair
 1. You will also see [Personal Account and Deletions](https://gitlab.com/gitlab-com/gdpr-request) requests, which are auto-assigned to [team members with 50%+ SaaS focus](https://gitlab-com.gitlab.io/support/team/areas-of-focus.html). For training purposes, you can ask a teammate to give one to you. Follow the appropriate workflow below to fulfill the request and link the issue that you've done.
     1. [Data (GDPR Article 15) Requests](https://about.gitlab.com/handbook/support/workflows/personal-data-access-requests.html)
         1. (Optional as these are very rare) Link to issue:
-    1. [Account Deletion Requests](https://about.gitlab.com/handbook/support/workflows/account_deletion.html)
+    1. [Account Deletion Requests](https://about.gitlab.com/handbook/support/workflows/personal_data_access_account_deletion.html)
         1. Link to issue:
     1. Discuss with your manager if you should to be added to the auto-assigned rotation. To be added into the rotation, make sure your [SaaS focus](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml) is 50%+.
 1. For [internal requests](https://gitlab.com/gitlab-com/support/internal-requests), you only need to work on the requests that relate specifically to GitLab.com. Many of the other issues as labelled are specific to other areas (such as Console or Licensing).

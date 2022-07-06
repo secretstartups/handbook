@@ -75,7 +75,7 @@ To release an email address for an inactive account:
     - The user is unverified
     - The user has never logged in
     - The user has no data (No groups or projects)
-    1. If the account **is** verified or data exists, inform the original requestor that the email is **not eligible** for release. They can [request an account deletion](personal_data_access_account_deletion.html#zendesk) if necessary.
+    1. If the account **is** verified or data exists, inform the original requestor that the email is **not eligible** for release. They can [request an account deletion](/handbook/support/workflows/personal_data_access_account_deletion.html#zendesk) if necessary.
 1. Add the new email address as a CC to the ticket and ask the user to respond to the ticket from the email address they wish to add.
 1. Once the user has replied to confirm they own the email address, update the email address with `+release`. For example, if the email address is `johndoe@example.com`, then update the email address on the account to `johndoe+release@example.com`.
     - This can be done with Admin access or [via Chatops](./chatops.html#Update-a-Users-Primary-Email)
