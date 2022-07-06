@@ -325,7 +325,7 @@ To subscribe or unsubscribe, follow the below instructions and [see an associate
 
 ##### Checking "Who's Out?"
 
-Considering GitLab has a [no ask](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) time off policy, it can be helpful to know who else on your team is out of office prior to requesting time. In order to see who is out of your team, follow the steps below:
+Considering GitLab has a [flexible time off policy](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off), it is helpful to know who else on your team is out of office prior to requesting time. In order to see who is out of your team, follow the steps below:
 
 * Go to the PTO by Roots application in Slack
 * In the `Home` section, select `Who's Out?` from the dropdown list
@@ -472,7 +472,7 @@ Take care not to burn yourself out!
 
 ## Statutory Vacation Requirements
 
-The following is a list of all statutory annual vacation entitlements by entity and country. Once the statutory amounts have been taken, employees can still make use of GitLab's No Ask Time Off policy.
+The following is a list of all statutory annual vacation entitlements by entity and country. Once the statutory amounts have been taken, team members can still make use of GitLab's Flexible time off policy.
 
 1. GitLab LTD (UK Employees)
     * Employees are [entitled to at least 28 vacation days](https://www.gov.uk/holiday-entitlement-rights), this is broken down by 20 days standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilise time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Under normal circumstances, there is no carryover for unused vacation days. However given the situation surrounding COVID-19 the UK government has [relaxed measures](https://www.gov.uk/government/news/rules-on-carrying-over-annual-leave-to-be-relaxed-to-support-key-industries-during-covid-19) on the carry over of annual leave for the following two calendar years (2020-2021,2021-2022).
@@ -481,7 +481,7 @@ The following is a list of all statutory annual vacation entitlements by entity 
 1. GitLab BV (Belgium)
     * Employees are entitled to at least 20 vacation days; the days taken must be communicated to the Belgian payroll provider each month by People Ops. These days do not carry over into the next calendar year.
 1. GitLab IT BV (Contractors)
-    * Contractors do not have statutory vacation requirements, but are eligible for our No Ask Time Off Policy.
+    * Contractors do not have statutory vacation requirements, but are eligible for our Flexible Time Off Policy.
 1. GitLab GmbH (Germany)
     * Employees are entitled to at least 20 vacation days. The days will accrue from the start date. In general, employees must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the employee was unable to take the holiday due to operational or personal reasons.
 1. GitLab PTY (Australia & New Zealand)
