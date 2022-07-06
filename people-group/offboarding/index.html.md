@@ -397,7 +397,7 @@ I want to share that [team member’s name] ([group] [role]) will be leaving Git
 There will be situations in which team members prefer to share their offboarding message, and situations in which managers prefer to do so. Either is ok, **so long as team member and manager have reviewed the messaging together prior to posting**. 
 
 If someone is let go involuntarily, this generally cannot be shared since it affects the individual's privacy and job performance is intentionally kept [between an
-individual and their manager](/handbook/communication/#not-public).
+individual and their manager](/handbook/communication/confidentiality-levels/#not-public).
 
 
 If you are not close to an employee's offboarding, it may seem unnecessarily swift.

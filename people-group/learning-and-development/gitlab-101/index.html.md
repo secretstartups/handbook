@@ -143,7 +143,7 @@ To open a GitLab issue:
 1. In the Description add any relevant information
 1. Click the "preview" button at the top of the issue box to preview your issue and make sure you have formatted everything correctly
 1. Decide whether the issue needs to be confidential or not
-   1. **How do you know if your issue should be confidential or not?** [Transparency](/handbook/values/#transparency) is one of our values so we try to be open about as many things as possible. Only use confidential issues, if the issue must contain [non-public information](/handbook/communication/#not-public).
+   1. **How do you know if your issue should be confidential or not?** [Transparency](/handbook/values/#transparency) is one of our values so we try to be open about as many things as possible. Only use confidential issues, if the issue must contain [non-public information](/handbook/communication/confidentiality-levels/#not-public).
 1. Assign the issue to the relevant person (that might be you!)
 1. If relevant: assign a milestone
 1. If relevant: add a label (or multiple)
