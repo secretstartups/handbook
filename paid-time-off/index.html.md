@@ -502,13 +502,10 @@ The following is a list of all statutory annual vacation entitlements by entity 
 Review above section `Statutory Minimum Vacation Time` for questions around dates and amounts. Due to BambooHR's settings, it cannot automatically make some adjustments to the accruals. To keep these figures accurate we must perform some manual work.
 
 ##### GitLab BV (Netherlands)
-1. In **January**, People Ops will adjust any negative carryover back to zero for all accruals in BambooHR for the year.
-1. Review the balance from December 31st of the previous year. If this balance is negative, move to the next step.
-1. To do this, go to Time Off, Adjust Balance, and add the amount you determined in the previous step. Add a note "Adjustment to prevent negative rollover." 
+1. In **January**, An [automation](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#netherlands-accrual-adjustments) will run to ensure no team members are rolling over a negative balance. 
 
-1. In **June**, People Ops will need to review the BV (Netherlands) Accrual for all employees and remove any carryover from the previous calendar year that was not used.
-1. Review the balance from December 31st of the previous year, if this balance is positive, move to the next step.
-1. To do this, go to Time Off, Adjust Balance, and add the amount you determined in the previous step. Add a note "Removal of previous year rollover." 
+1. In **June**, An [automation](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#netherlands-accrual-adjustments) will run to ensure team member's PTO does not exceed 10 days in accordance with The Netherlands regulations. 
+
 
 ##### GitLab BV (Belgium)
 1. In **January**, People Ops will adjust any negative carryover back to zero for all accruals in BambooHR for the year.
