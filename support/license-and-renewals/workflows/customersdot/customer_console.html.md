@@ -641,37 +641,14 @@ irb(main):749:0>  container_registry_storage_usage('some-group') ; nil
 ## FAQ
 
 1. How can I add a function?
-  - Create a MR for `support_team.rb` in the [console-training-wheels](https://gitlab.com/gitlab-com/support/toolbox/console-training-wheels) project.
+  - With the decision made on [Mechanizer and Hacks Maintenance mode](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4299) we won't be adding more functions into the mechanizer
 1. Can I use other code not available in `support_team.rb`?
-  - Yes, if you're comfortable with ruby code and IRB, just make sure to merge the code in the library for everyone to use it if applicable.
+  - Functions and parts of functions from `support_team.rb` can be executed within console as needed. Otherwise, the only time other code should be run is under direction from the Fulfillment development team to help debug or workaround an issue.
 
 ### Manually changing attributes
 
-When changing attributes on a specific order manually, please keep in mind that most attributes are tied to the purchase of a subscription.
-After any changes, remember that you need to sync the changes to GitLab.com.
+We should avoid the editing of live data as much as possible, even a small change could cause a problem later and affect the customer in a bigger way than the original reason for us to do the change.
+The guidance is to only use the functions in `support_team.rb`. If we don't have anything that helps, then a feature request should be opened and prioritized.
+Within the feature request, we can ask for a temporary workaround to the dev team in order for us to be able to act on those requests while the official product enhancement is completed.
 
-For a purchase, these are the only attributes you should be editing:
 
-- `gl_namespace_id`
-- `gl_namespace_name`
-
-Very occasionally, due to known issues ([Billing Entity Changes](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-change-of-entity), [Customer Contact Changes](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#contact-change-workflow)), you may need to change:  
-
-- `customer_id`
-
-**Note:** Updating `customer_id` should only be done when you are absolutely certain you are changing it to the correct value.  Ask your colleagues in [slack](https://gitlab.slack.com/archives/C018C623KBJ) if you aren't sure.
-
-For a trial (`trial` is set to `true`), because it's not tied to a subscription, additional attributes that can be updated:
-
-- `start_date`
-- `end_date`
-
-#### Example
-
-If you need to unlink a group from a subscription
-
-```ruby
-irb(main):180:0>  order = Order.find 0000
-irb(main):180:0>  order.update_attributes!(gl_namespace_id: nil, gl_namespace_name: nil)
-=> {:success=>true}
-```
