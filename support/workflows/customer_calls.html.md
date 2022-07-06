@@ -18,23 +18,44 @@ prepare for, manage and follow-up on customer calls
 
 ## Scheduled calls
 
+### Scheduling the call
+
+When you know a ticket is ready for a call, start by determining who will lead
+the call:
+
+```mermaid
+graph TD
+    A{Does the customer want to<BR>meet during my work hours?}
+    A --> |Yes| B{Am I comfortable leading the call?}
+    A --> |No| C(Find someone in the appropriate<BR>region of your group who is<BR>willing to take the ticket,<BR>preferably but not necessarily<BR>with the needed expertise.<BR>The new SE can pair with another<BR>person in their region if necessary.)
+    B --> |Yes| D("Proceed to<BR>#quot;Providing the call link#quot;")
+    B --> |No| E(Pair with an SE who has the right expertise)
+    C --> H("(sync or async)" Review the ticket with<BR>the new SE before handing it over.)
+    E --> F{Look for an SE in your group}
+    F --> |Found one!| D
+    F --> |Didn't find one| G(Find an SE from the<BR>rest of Global Support.<BR>Get manager help if needed.)
+    G --> D
+```
+
 ### Providing the call link
 
-When you know a ticket is ready for a call, use the
+Start by using the
 [`General::Invite customer call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360013199280)
-macro in Zendesk. (Change `PERSONAL_CALENDLY_LINK` to be your own personal
-Calendly link)
+macro in Zendesk. Be sure to change `PERSONAL_CALENDLY_LINK` to be your own personal
+Calendly link.
 
 When sending a customer a call link:
 
-* Always use [single-use Calendly link](/handbook/support/workflows/calendly.html#generating-a-single-use-calendly-link) to invite customers to a call so that we can avoid ghost calls.
+* Always use [single-use Calendly link](/handbook/support/workflows/calendly.html#generating-a-single-use-calendly-link)
+  to invite customers to a call so that we can avoid ghost calls.
 * Ensure the [event title](https://calendly.com/event_types)
   [includes the word `Support`](/handbook/support/workflows/calendly.html#support-calls-in-the-team-calendar)
   (case insensitive). This is necessary for the event to appear in the
   `GitLab Support` Calendar.
-* Make sure your calendly event includes a required Invitee Question asking for the Zendesk ticket number.
-* If you know your availability is limited, or you need additional backup, check with another engineer to see if they might also be available to take the call.
-* If you're not comfortable enough to take the call, **you should shadow any call that does take place** to upskill.
+* Make sure your calendly event includes a required Invitee Question asking
+  for the Zendesk ticket number.
+* If you know your availability is limited, or you need additional backup,
+  check with another SE to see if they might also be available to take the call.
 
 ### Customer No Shows
 
