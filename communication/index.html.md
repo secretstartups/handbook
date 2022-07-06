@@ -45,6 +45,9 @@ As GitLab matures, we want to continue to foster discussion while evolving our c
 
 Words have impact long after they are written, and even when you're communicating internally, the manner in which you speak with one another should be viewed through an external lens. For additional information, please review our [Guidelines for communicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/).
 
+### Confidentiality levels
+
+At GitLab, we are [public by default](/handbook/values/#public-by-default), but some information is classified as internal or limited access. Please see the [confidentiality levels](/handbook/communication/confidentiality-levels/) handbook page for details on this.
 
 ### Examples of Potentially Gitlab Sensitive Topics
 
@@ -69,9 +72,9 @@ The table below outlines an overview of different communication forums at GitLab
 
 | Communication Forum | When To Utilize |
 | ---------- | ---------- |
-| Use [the internal Handbook](/handbook/handbook-usage/#the-internal-handbook) aligned with the guidelines | When you want to document information for team members that is [internal-only](/handbook/communication/#internal), including [not public](/handbook/communication/#not-public) and not [limited access](/handbook/communication/#limited-access) |
-| External MR/issue (not confidential) | For discussion and collaboration when there is no risk suspected or identified (directly or later) and it doesn't fall into [not public](/handbook/communication/#not-public) category |
-| Internal MR/ confidential issue | For discussion and collaboration when there is no risk suspected or identified but adhering to things that are [internal-only](/handbook/communication/#internal), [not public](/handbook/communication/#not-public), SAFE Framework/General Communication Guidelines |
+| Use [the internal Handbook](/handbook/handbook-usage/#the-internal-handbook) aligned with the guidelines | When you want to document information for team members that is [internal-only](/handbook/communication/confidentiality-levels/#internal), including [not public](/handbook/communication/confidentiality-levels/#not-public) and not [limited access](/handbook/communication/confidentiality-levels/#limited-access) |
+| External MR/issue (not confidential) | For discussion and collaboration when there is no risk suspected or identified (directly or later) and it doesn't fall into [not public](/handbook/communication/confidentiality-levels/#not-public) category |
+| Internal MR/ confidential issue | For discussion and collaboration when there is no risk suspected or identified but adhering to things that are [internal-only](/handbook/communication/confidentiality-levels/#internal), [not public](/handbook/communication/confidentiality-levels/#not-public), SAFE Framework/General Communication Guidelines |
 | Your Manager, DRI and/or Legal | For discussion and collaboration when in doubt about potential risk and you want to review if there’s a potential risk |
 | DRI | For discussion and collaboration when there's a risk suspected or identified, communicate directly with the DRI verbally via Zoom. Examples include issues where Limited Access applies or it covers a change to People Process/policy. |
 | People Group (your People Business Partner or Team Member Relations) | For discussion and collaboration when there's a risk suspected or identified, a policy violation, and/or it's a private matter |
@@ -114,7 +117,7 @@ It's best practice to start a discussion where possible with a [Merge Request (M
 1. Always **open** an MR for things you are suggesting and/or proposing. Whether something is not working right or we are iterating on a new internal process, it is worth opening a merge request with the minimal viable change instead of opening an issue encouraging open feedback on the problem without proposing any specific change directly. Remember, an MR also invites discussion, but it's specific to the proposed change which facilitates focused decision.
 1. Never ask someone to create an issue when they can default to the merge request.
 1. Starting with a Merge Request is part of [Handbook First](/handbook/handbook-usage/#why-handbook-first) and helps ensure the handbook is up-to-date when a decision is made. It is also how we make it possible for [Everyone to Contribute](/company/mission/#mission). This is true, not just for updating the handbook but for updating all things.
-1. Merge Requests, by default, are **non-confidential**. However, for [things that are not public by default](/handbook/communication/#not-public) please open a confidential issue with suggestions to specific changes that you are proposing. The ability to create [Confidential Merge Requests](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#merge-requests-for-confidential-issues) is also available. When possible, consider not including sensitive information so the wider community can contribute.
+1. Merge Requests, by default, are **non-confidential**. However, for [things that are not public by default](/handbook/communication/confidentiality-levels/#not-public) please open a confidential issue with suggestions to specific changes that you are proposing. The ability to create [Confidential Merge Requests](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#merge-requests-for-confidential-issues) is also available. When possible, consider not including sensitive information so the wider community can contribute.
 1. Not every solution will solve the problem at hand. Keep discussions focused by **defining the problem first** and **explaining your rationale** behind the [Minimal Viable Change (MVC)](/handbook/values/#minimal-viable-change-mvc) proposed in the MR.
 1. Be proactive and consistent with communication on discussions that have external stakeholders such as customers. It's important to keep communication flowing to keep everyone up to date. MRs can appear stale if there aren't recent discussions and no clear definition on when another update will be provided, based on feedback. This leaves those subscribed in the dark, causing unnecessary surprise if something ends up delayed and suddenly jumps to the next milestone. It is important that MRs are closed in a timely manner through approving or rejecting the open requests.
 1. Have a **bias for action** and [do not aim for consensus](/handbook/leadership/#making-decisions). Every MR is a [proposal](/handbook/values/#make-a-proposal), if an MRs author isn't responsive take ownership of it and complete it. Some improvement is better than none.
@@ -192,8 +195,8 @@ Issues are useful when there isn't a specific code change that is being proposed
 1. If you'd like to inform someone about an issue or assign a task to them, do so via an issue comment, not only by adding them to the description. The to-do item generated when you mention someone in an issue description provides little context for the action you're requesting. But using a comment to explicitly inform someone of the action you'd like them to take ensures that when they read the associated to-do item they won't need to read the entire issue to gather the context they need to complete the work.
 1. Do not close an issue until it is [**done**](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done). It's okay to explicitly ask if everyone is on board and in agreement on how to move forward, whether to iterate, close the open issue, or create a subsequent MR to implement a MVC.
 1. Once a feature is [**done**](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), update the description to add a link to the corresponding documentation. When using a Search Engine, issues often appear before documentation pages, which makes it harder to find the relevant information about the feature.
-1. Write issues so that they exclude private information. This way, the issue can be public. Only use confidential issues, if the issue must contain [non-public information](/handbook/communication/#not-public). **Note:** Confidential issues are [accessible to all members of the project with Reporter access and above](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#permissions-and-access-to-confidential-issues). You may consider using a Google Doc for items that require a stricter level of confidentiality.
-1. If the content within a public issue transitions to become what is deemed confidential [non-public information](/handbook/communication/#not-public), the issue may be made confidential.
+1. Write issues so that they exclude private information. This way, the issue can be public. Only use confidential issues, if the issue must contain [non-public information](/handbook/communication/confidentiality-levels/#not-public). **Note:** Confidential issues are [accessible to all members of the project with Reporter access and above](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#permissions-and-access-to-confidential-issues). You may consider using a Google Doc for items that require a stricter level of confidentiality.
+1. If the content within a public issue transitions to become what is deemed confidential [non-public information](/handbook/communication/confidentiality-levels/#not-public), the issue may be made confidential.
 1. If the content of a public issue draws comments that are deemed in violation of our [code of conduct](/community/contribute/code-of-conduct/) the issue may be locked and may [undergo moderation](/handbook/marketing/community-relations/community-operations/workflows/code-of-conduct-enforcement/#overview).
 
 ## Internal communication
@@ -265,7 +268,7 @@ Note taking helps us to work with people asynchronously as team members can add 
 
 While a designated person may be the primary person responsible for note-taking in a specific meeting, all team members should feel empowered to chip in. Note-taking can be a lot for a single person to stay on top of--especially when there is a fast moving conversation with many speakers. Team members can contribute by helping with notes, correcting anything that is incorrect (names, abbreviations, etc.), and adding key details that were important but missed.
 
-Use discretion in taking notes if sensitive topics are being discussed. For example, do not takes notes on [not-public information](/handbook/communication/#not-public) if the agenda may be available to an audience who should not be privy to this information.
+Use discretion in taking notes if sensitive topics are being discussed. For example, do not takes notes on [not-public information](/handbook/communication/confidentiality-levels/#not-public) if the agenda may be available to an audience who should not be privy to this information.
 
 In a conversation, a person may ask for folks to stop taking notes. When this happens, note-taking should stop for the duration of the discussion unless there is verbal confirmation that note-taking should resume. When you suspect that note-taking should resume, but it has not been verbally confirmed, please ask for the confirmation before typing.
 
@@ -381,84 +384,6 @@ Employ multimodal communication to broadcast important decisions. To reach our d
 When doing this, create and link to a [single source of truth](/company/culture/all-remote/handbook-first-documentation/): ideally the [handbook](/handbook/handbook-usage/#why-handbook-first), otherwise an epic, issue, or Google Doc. The email or Slack message should not be the source of truth.
 
 When referring to email that recipients should have received, reference the sender and subject of the email so it's easy to find. For example, "You should have received an email from Jane Smith with the subject 'Training Seminar Details'".
-
-## Not public
-
-We make things public by default because [transparency is one of our values](/handbook/values/#transparency).
-Some things can't be made public and are either [internal](#internal) to the company or have [limited access](#limited-access) even within the company.
-If something isn't listed in the sections below we should make it available externally.
-
-### Internal
-
-Some things are **internal**, available internally but not externally. In instances where a topic should only be accessible to team members, but we would otherwise have a page in the public handbook, it can be added to GitLab's [internal handbook](https://internal-handbook.gitlab.io/). [Background on the internal handbook](/handbook/handbook-usage/#the-internal-handbook) can be found in the public handbook. It is okay to refer to the public handbook or the internal and public handbooks in agregate as "the handbook." The internal handbook should always be referred to as the "internal handbook." 
-
-The following items are internal:
-
-1. Security and abuse vulnerabilities are not public since they would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security and abuse implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
-1. Financial information, including revenue and costs for the company, is confidential because we are a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
-   - The specific [IACV](/handbook/sales/sales-term-glossary/arr-in-practice/) of an opportunity
-   - Total monthly cash inflow/outflow for GitLab.com
-   - Spend of more than 10%
-   - A department's cost
-   - Team member retention (analysts may make business assumptions based on this)
-   - The Sales pipeline (but the Marketing pipeline can be public)
-   - Net and gross retention KPIs. Only the actual numbers can't be public. Everything else--the goal, their calculation, etc.--can be.
-1. Please do not share outside of GitLab, any information related to the company's plans related to being a public company, its anticipated public offering, including sharing of the Form S-1 by linking to the document or otherwise, or the company's possible forward looking plans. All external communications should be in line with the company's [SAFE Guidelines](/handbook/legal/safe-framework/) and [Social Media Policy](/handbook/marketing/team-member-social-media-policy/). If you have any questions please reach out via the [#Safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
-1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/accounting/#procure-to-pay).
-1. Content that would compromise a GitLab team member, customer, or user's personal data as defined by [GDPR](https://gdpr.eu/article-4-definitions/), unless explicit consent has been provided by the data owner. Examples of compromising content include a name, an identification number, location data, an online identifier, or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
-1. Legal discussions are not public due to the purpose of Attorney-Client Privilege.
-1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive.
-1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
-1. Customer information is not public since customers are not comfortable with that, and it would make it easier for competitors to approach our customers. If an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, number of users, the issue should be made confidential. Try to avoid putting customer information in an issue by describing them instead of naming them and linking to their SalesForce account. When we discuss a customer by name that is not public unless we're sure the customer is OK with that. When we discuss a competitor (for example in a sales call) this can be public as our competitive advantages are public.
-1. Competitive sales and marketing campaign planning is confidential since we want to minimize the time the competition has to respond to it.
-1. Discussions that involve decisions related to country of residence are not public as countries are a core part of people's identity and any communication should have complete context. The output of such decisions, such as [country hiring guidelines](/jobs/faq/#country-hiring-guidelines), will be public.
-1. If public information compromises the physical safety of one or more team members, it will be made not public because creating a safe, inclusive environment for team members is important to how we work. Information that might compromise the physical safety of a team member includes doxxing or threats made against a team member.
-1. Information related to a press embargo, or related to an upcoming publication where the response will be managed by our external communications team
-1. Information that relies on someone else's copyrighted IP. Our [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/), for example, relies on private sources of information and can't be made completely public.
-1. Information related to early exploratory initiatives in which premature sharing of information could slow down purchases.
-1. When there is a product offering being developed that is expected to generate very high demand that cannot be quickly met, it should be kept internal in order to give the team the time to create the right solution.
-
-### Limited access
-
-The items below are not shared with all team members. Limited access is a more severe restriction than [internal](#internal).
-
-1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/accounting/#procure-to-pay).
-1. Content that would violate confidentiality for a GitLab team-member, customer, or user.
-1. Customer lists and other customer information are not public since many customers are not comfortable with that and it would make it easier for competitors to approach our customers. If an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, and/or number of users, the issue should be made confidential. Avoid putting customer information in an issue by describing them instead of naming them and by linking to their Salesforce account.
-1. Plans for reorganizations. Reorganizations cause disruption and the plans tend to change a lot before being finalized, so being public about them prolongs the disruption. We will keep relevant team members informed whenever possible.
-1. Planned pricing changes. Much like reorganizations, plans around pricing changes are subject to shift manage time before being finalized. Thus, pricing changes are limited access while in development. Team members will be consulted before any pricing changes are rolled out.
-1. Some discussions on team process and policy changes. Some organizational policies are sensitive in nature and require thoughtful consideration before messaging the changes internally and externally. Relevant team members and leaders will be informed whenever possible.
-1. Legal discussions are restricted to the purpose of Attorney-Client Privilege.
-1. Some information is kept confidential by the People Group to protect the privacy, safety, and security of team members and applicants, including: job applications, background check reports, reference checks, compensation, terminations details, demographic information (age and date of birth, family or marital status, national identification such as passport details or tax ID, required accommodations), home address. Whistleblower identity is likewise confidential. Performance improvement plans, disciplinary actions, as well as individual feedback are restricted as they may contain negative feedback and [negative feedback is 1-1](/handbook/values/#collaboration) between you and your manager. However, People Group policies and processes are public (for example, [Job families](/handbook/hiring/job-families/) and our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/)), along with information that team members choose to share on the [Team](/company/team/) page.
-1. Performance improvement plans, disciplinary actions, as well as individual feedback, are confidential as they contain private negative feedback and [negative feedback is 1-1](/handbook/people-group/guidance-on-feedback/#all-feedback) between team members and managers
-1. GitLab's Risk Register is maintained by the [Risk & Field Security Team](/handbook/engineering/security/security-assurance/field-security/). Access to GitLab’s Risk Register is limited to the Security Compliance Team, VP of Security, Executive Leadership and individually identified employees on a need to know basis. This document is not publicly or internally available as there may be risks on the risk register that explicitly call out the mechanisms available for external actors or internal GitLab team members to access content that would violate confidentiality for a GitLab team-member, customer, or user, and may include Personally Identifiable Information (PII).
-1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive
-1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
-1. Compensation Changes: GitLab will communicate and train team members on the output of iterations to the Total Rewards offerings (Compensation, Equity, Benefits), but team members will not have visibility into the inputs and decision making of compensation changes.
-1. Security Incident Investigation: In order to avoid exposing team members to MNPI, the Security Incident Response Team (SIRT) will restrict access to only those necessary to assess the materiality of incidents. Once an incident is determined to not have MNPI the access can be changed to [internal](/handbook/communication/#internal).
-
-#### Project names
-
-Some projects require limited access internally due to the confidential or sensitive nature of the project, including but not limited to projects related to the items listed above. Often, in order to maintain the necessary confidentiality of these types of initiatives, we assign a code name for the project. For consistency and to make it easier to identify the genesis of these projects and their organizational affiliations, we've established the following naming conventions.
-
-Project code names can be overused. Code names should never be used for projects that can be public. There are two cases where the project name should be used instead of a name that clearly describes the project.
-
-1. The work within the project is [material non-public information (MNPI)](/product/product-safe-guidance/#materially-non-public-information). Information is limited access by nature and should not be disclosed in issues, MRs, slack and other communication. Example: "Gotham" was our project name for our IPO.
-1. The work is not MNPI but should remain [limited access](/handbook/communication/#limited-access) to avoid prematurely sharing information with customers or the wider community. Example: "Tiering" was our project name for End of Availability
-
-Code names should be retired as soon as a project is no longer confidential (e.g., not restricted, not limited access, etc.). A project does not need to be promoted (e.g., publishing a blog post) in order to be deemed public (i.e., not confidential). If there are any questions about whether a project is still confidential or restricted, please contact the DRI for such project or contact the Legal Team via the #safe Slack channel if you have any questions.
-
-| Team                  | Theme                                |
-| --------------------- | ------------------------------------ |
-| CEO                   | Pets / Animals                       |
-| Corporate Development | Movie / TV Show characters           |
-| Engineering           | [Hex color names](https://htmlcolorcodes.com/color-names/)   |
-| Finance               | Sports team names                    |
-| Legal                 | TV Shows / Movies                    |
-| Marketing             | One name famous people               |
-| People                | Trees                                |
-| Product               | [Famous Mountain Peaks](https://en.wikipedia.org/wiki/List_of_mountain_peaks_by_prominence)    |
-| Sales                 | Car model names                      |
 
 ## Effective communication competency
 

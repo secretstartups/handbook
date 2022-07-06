@@ -32,7 +32,7 @@ _Informal customer testimonials:_ These are videos of customer presentations or 
 _Instructional videos:_ These videos are meant to educate the viewer to the point where they walk away with some actionable knowledge. Instructional videos go by a variety of different names. But whether you need to make a how-to video or a tutorial, the goal is the same. Unlike other forms of video, an instructional video instructs. Of course, while you don’t want boring videos, the main goal is for viewers to comprehend and learn what you are teaching them.
 
 ### Don't share sensitive data
-GitLab makes things [transparent by default](/handbook/values/#transparency), but there are certain things that we intentionally [keep private](/handbook/communication/#not-public).
+GitLab makes things [transparent by default](/handbook/values/#transparency), but there are certain things that we intentionally [keep private](/handbook/communication/confidentiality-levels/#not-public).
 
 Please make sure you don't share any of these private items in any public video.
 
