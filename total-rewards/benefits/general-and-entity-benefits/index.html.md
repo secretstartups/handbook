@@ -63,7 +63,7 @@ GitLab offers resources related to [Financial Wellness](/handbook/total-rewards/
 
 ## Paid Time Off
 
-GitLab has a "no ask, must tell" [time off policy](/handbook/paid-time-off) per 25 consecutive calendar days off.
+GitLab has a "Flexible PTO policy" [time off policy](/handbook/paid-time-off) per 25 consecutive calendar days off.
 
 ## Growth and Development Benefit
 
