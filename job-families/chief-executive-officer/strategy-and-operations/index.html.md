@@ -7,6 +7,36 @@ The Strategy and Operations team are GitLab's internal strategy consultants who 
 
 ## Levels
 
+### Senior Strategy and Operations Manager
+
+The Senior Strategy and Operations Manager reports to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/) or another designated individual within the Strategy and Operations Team.
+
+#### Senior Strategy and Operations Manager Job Grade
+
+The Senior Manager Strategy and Operations is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+
+#### Senior Strategy and Operations Manager Responsibilities
+
+- Achieve results on assigned projects and activities
+- Support the creation of prepared materials, content, and programs
+- Translate practical needs into technical and/or business requirements
+- Support one or two projects on an ongoing basis
+- Provide input into the broader strategy
+- Demonstrate GitLab values in all work
+
+#### Senior Strategy and Operations Manager Requirements
+
+- Detail-oriented forward thinker
+- Ability to influence cross-functionally without direct authority
+- Strong business acumen and application of company priorities
+- Excellent written, verbal, and technical communicator
+- Able to manage work to meet deadlines
+- Track record of being a manager of one 
+- Demonstrated ability to take a project from ideation through to implementation
+- Ideally, 2+ years experience in high growth startup environments
+- Familiarity with the industry is a plus
+- Ability to use GitLab
+
 ### Staff Strategy and Operations 
 
 The Staff Strategy and Operations reports to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
@@ -17,10 +47,10 @@ The Staff Strategy and Operations is a [grade 8](/handbook/total-rewards/compens
 
 #### Staff Strategy and Operations Responsibilities
 
+- Extends that of the Sr. Manager of Strategy and Operations requirements
 - Fill in knowledge gaps of the Chief of Staff to the CEO
 - Identify procedural gaps in existing workflows and work to resolve with optimization, automation, and data
 - Support the creation of prepared materials (documents, decks) for the Chief of Staff to the CEO and the CEO
-- Translate practical needs into technical and/or business requirements
 - Support special projects that are urgent and important
 - Execute on projects and ongoing assignments for the Chief of Staff to the CEO
 - Determine long-term owners outside of the Strategy and Operations team for initiatives and asks that are best served through a functional home. Partner with future owners to ensure that ownership and responsibilities are understood and agreed upon
@@ -110,7 +140,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 ##### Strategy and Operations (Operations)
 
-- Extends that of the Staff or Principal level Strategy and Operations 
+- Extends that of the Senior Manager, Staff, Principal, or Director level Strategy and Operations 
 - Experience leading ongoing projects and initiatives
 - Proven ability to manage cross-functional projects with folks at different levels of the business
 - Track record of moving key initiatives from idea to delivery
@@ -120,13 +150,22 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 ##### Strategy and Operations (Technical)
 
-- Extends that of the Staff or Principal level Strategy and Operations 
+- Extends that of the Staff, Principal, or Director level Strategy and Operations 
 - Deeply understands and is able to synthesize the market, competition, and upcoming solutions in the DevOps space 
 - Proven ability to manage cross-functional projects. Need to not only excel in operating at a strategic level but also need to understand when to dive deep to keep the project on track 
 - Readiness to partner directly with the CEO, CoST to the CEO, or other senior leaders on high priority initiaties
 - Technical background and clear understanding of developer products. Familiarity with Git, Continuous Integration, Containers, Kubernetes, and Project Management software a plus
 - Ability to find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups
 - Ability to take meetings with and work synchronously with folks in Pacific Standard Time
+
+##### Strategy and Operations (Workplace)
+
+- Extends that of the Senior Manager, Staff, Principal, or Director level Strategy and Operations 
+- Clearly articulate, communicate, and evangelize Workplace OS
+- Create supporting documentation and curriculum
+- Secure opportunities to amplify and showcase Workplace OS in different mediums
+- Facilitate and drive certifications and learning opportunities globally for Workplace OS 
+- Demonstrate expertise in GitLab values, operating principles, and ways of working 
 
 ##### Strategic Technical Partnership Manager for JiHu 
 
