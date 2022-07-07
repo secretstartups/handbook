@@ -378,6 +378,10 @@ Important:
 1. "Renew Subscription" quotes should be used even if the customer is renewing for a different term length than the previous period. i.e. If the customer is renewing a 12 month subscription for 24 months, choose "Renew Subscription" and enter "24" in the Renewal Term field.
 2. Gaps are not allowed between opps linked to the same subscription ie. new subscription quote object cannot be used on a renewal opportunity, unless you encounter one of the following scenarios. 
 
+   2 scenarios when new subscription quote is allowed on a renewal opp:
+     - Contract reset (aka early renewal)
+     - Customer has lost access or customer decided to renew after 45 days (this is the only scenario where a gap is allowed between renewals)
+
 **Standard Renewal**
 *   Open the Renewal opportunity and click the **“New Quote”** button.
 *   Select the **existing billing account.**
