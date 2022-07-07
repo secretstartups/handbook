@@ -35,8 +35,8 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 | Manoj Kumar | Verticurl, Client Success Manager | @ManoSiv | `manojkumar.sivalingam@verticurl.com` |
 | Priya | Verticurl, Campaigns Team Consultant | @priya_sridhar | `mohanapriya.thangavel@verticurl.com` |
 | Viswanath R | Verticurl, Project Management | @? | `Viswanath.R@verticurl.com` |
-| Jitha Asokan | Verticurl, FMM/ABM resource | @jitha.asokan | `jitha.asokan@verticurl.com` |
-| TBD | Verticurl, FMM/ABM resource | TBD  | TBD |
+| Deepak Devadas | Verticurl, FMM/ABM resource | @deepak.k.verticurl | `deepak.devadas@verticurl.com` |
+| Sowkarthick Ramakrishnan | Verticurl, FMM/ABM resource | @SowKarthick  | `sowkarthick.ramakrishnan@verticurl.com` |
 | Alexia Emmanoulopoulou | Verticurl, EMEA FMC resource | @ae5202 | `alexia.emmanoulopoulou@verticurl.com` |
 
 ## Project Management - Campaigns team
@@ -59,7 +59,7 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 
 1. **GitLab**: Issues are submitted with final copy and all details included, with status ~mktg-status::triage.
     - At the time of moving to triage, all details must be provided and final (including copy reviewed by relevant stakeholders, and all hyperlinks double-checked and confirmed).
-1. **GitLab**: when details in issue description are confirmed and final, issue owner will move to **~mktg-status::wip** and assign to `@priya_sridhar`.
+1. **GitLab**: when details in issue description are confirmed and final, issue owner will move to **~mktg-status::wip** and assign to `@priya_sridhar`, `@SowKarthick` and `@deepak.k.verticurl`.
 1. **Verticurl**: `@priya_sridhar` will assign issue to a Verticurl DRI (Directly Responsible Individual) within Verticurl's internal project management system.
     - SLA: 24 hours (from day assigned to `@priya_sridhar` to be assigned to Verticurl team DRI)
 1. **Verticurl**: Verticurl DRI adds email to the Google Calendar AND [Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=1705692818) for the anticipated send date.
