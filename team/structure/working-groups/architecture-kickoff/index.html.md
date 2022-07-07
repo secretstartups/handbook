@@ -46,3 +46,4 @@ The charter of this working group is to produce the first iteration of a 12 mont
 | Member | John Jarvis | Staff Site Reliability Engineer |
 | Member | Grzegorz Bizon | Staff Backend Engineer |
 | Member | Craig Gomes | Backend Engineering Manager |
+| Member | Chad Woolley | Senior Engineer |
