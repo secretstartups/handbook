@@ -204,10 +204,10 @@ very specific information via data queries.
 ## Change management
 
 As this usually stems from changes to ticket forms, it will follow the exact
-same change management process as those. For more information, see [Ticket Forms Change Management](../ticket-forms.html#change-management).
+same change management process as those. For more information, see [Ticket Forms Change Management](/handbook/support/support-ops/training/ticket-forms.html).
 
 ## Useful links
 
-* [Ticket Forms training](../ticket-forms.html)
+* [Ticket Forms training](/handbook/support/support-ops/training/ticket-forms.html)
 * [ticket-forms-and-fields repo for Zendesk Global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-forms-and-fields)
 * [ticket-forms-and-fields repo for Zendesk US Federal](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-forms-and-fields)
