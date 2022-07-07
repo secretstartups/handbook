@@ -193,7 +193,7 @@ The Vhi Midwife Support Service is a new and improved benefit that’s available
 To initiate your leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts and contact total-rewards@gitlab.com. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
  
 <details>
- <summary markdown="span">Other Types of Statutory Leave</summary>
+<summary markdown="span">Other Types of Statutory Leave</summary>
  
 **Carer's Leave**
  
