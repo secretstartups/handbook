@@ -627,17 +627,16 @@ WHERE field = stage_name
 
 
 #### Systems Stage
-Short description of systems Stage
+Supports enterprise-grade operational experience of GitLab products from streamlined deployment and maintenance, disaster recovery, secure search and discoverability, to high availability, scalability, and performance. The Systems Stage includes Distribution, Gitaly and Geo Groups.
+
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+* [Enablement Section PI handbook page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/enablement-section/) Resource used most often by Systems Stage Group PMs. Detailed notes are kept about each PI. 
 
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
-
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+* [Enablement::Geo Metrics](https://app.periscopedata.com/app/gitlab/500159/Enablement::Geo-Metrics) Geo Group
 
 
 **Important data documentation**
@@ -652,47 +651,52 @@ WHERE field = stage_name
 
 **Helpful video resources**
 
-[Link to user research or demos]()
-Group specification if applicable, brief description of youtube channel linked or specific singular video resource
+Enablement::Systems is a relatively new Stage. PDI will add helpful video overviews as they become available.
 
 **Product roadmap link**
 
-[Link to product roadmap]()
-Resource to understand the long-term goals for this team
+[Enablement Product Direction](https://about.gitlab.com/direction/enablement/)
+Includes Stage and Group level details
 
 **Performance indicators**
 
-[Link to OKRs handbook page]()
-Resource to understand the current OKRs for this team
+[Enablement Section PI handbook page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/enablement-section/) 
 
 **Key handbook pages**
 
-[Link to helpful handbook page]()
-Describe why this handbook page is helpful for product analysts
+[Overall Enablement Section Handbook page for Engineering](https://about.gitlab.com/handbook/engineering/development/enablement/)
 
 **Slack channels**
 
-**#slack-channel**
-Description
+**#s_enablement**
+
+**#g_distribution**
+
+**#g_geo**
+
 
 **Team members**
 
-[Handbook page to find Protect team members to collaborate with](/handbook/product/categories/#protect-stage)
+[Handbook page to find Systems team members to collaborate with](/handbook/product/categories/#systems-stage)
+
+OR
+
+[All team members section of engineering page](https://about.gitlab.com/handbook/engineering/development/enablement/#all-team-members)
 
 </details>
 
 #### Data Stores Stage
-Short description of data stores Stage
+Supports enterprise-grade operational experience of GitLab products from streamlined deployment and maintenance, disaster recovery, secure search and discoverability, to high availability, scalability, and performance. The Data Stores Stage includes Memory, Global Search, Database and Pods Groups.
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+* [Enablement Section PI handbook page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/enablement-section/) Resource used most often by Data Stores Stage Group PMs. Detailed notes are kept about each PI. 
 
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+* [Enablement::Database - Performance Indicators](https://app.periscopedata.com/app/gitlab/754160/Enablement::Database---Performance-Indicators) Database Group
 
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+* [Enablement::Memory](https://app.periscopedata.com/app/gitlab/679200/Enablement::Memory) Memory Group
 
 
 **Important data documentation**
@@ -707,32 +711,40 @@ WHERE field = stage_name
 
 **Helpful video resources**
 
-[Link to user research or demos]()
-Group specification if applicable, brief description of youtube channel linked or specific singular video resource
+Enablement::Data Stores is a relatively new Stage. PDI will add helpful video overviews as they become available.
+
 
 **Product roadmap link**
 
-[Link to product roadmap]()
-Resource to understand the long-term goals for this team
+[Enablement Product Direction](https://about.gitlab.com/direction/enablement/)
+Includes Stage and Group level details
 
 **Performance indicators**
 
-[Link to OKRs handbook page]()
-Resource to understand the current OKRs for this team
+[Enablement Section PI handbook page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/enablement-section/) 
 
 **Key handbook pages**
 
-[Link to helpful handbook page]()
-Describe why this handbook page is helpful for product analysts
+[Overall Enablement Section Handbook page for Engineering](https://about.gitlab.com/handbook/engineering/development/enablement/)
 
 **Slack channels**
 
-**#slack-channel**
-Description
+**#s_enablement**
+
+**#g_memory**
+
+**#g_global_search**
+
+**#g_database**
+
 
 **Team members**
 
-[Handbook page to find Secure team members to collaborate with](/handbook/product/categories/#secure-stage)
+[Handbook page to find Data Stores team members to collaborate with](/handbook/product/categories/#data-stores-stage)
+
+OR
+
+[All team members section of engineering page](https://about.gitlab.com/handbook/engineering/development/enablement/#all-team-members)
 
 </details>
 
