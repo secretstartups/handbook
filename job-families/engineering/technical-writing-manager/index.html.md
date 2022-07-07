@@ -7,7 +7,7 @@ Technical Writing Managers, part of the UX department at GitLab, support their t
 
 ## Manager, Technical Writing
 
-The Technical Writing Manager reports to the Senior Manager of Technical Writing. A team of Technical Writers report to the Technical Writing Manager.
+The Technical Writing Manager reports to a Senior Manager or Director of Technical Writing. A team of Technical Writers report to the Technical Writing Manager.
 
 ### Job Grade 
 
@@ -32,20 +32,21 @@ The Technical Writing Manager is a [grade 8](/handbook/total-rewards/compensatio
 * Experience working on production-level documentation.
 * Self-motivated and robust organizational skills.
 * Substantial written and spoken communication skills.
-* Familiarity with Static Site Generators, HTML, CSS.
+* Familiarity with static site generators, HTML, CSS.
 * Experience with workflows and tooling used by engineering, operations, and product teams.
-* Familiarity with Continuous Integration, Containers, Kubernetes, and project management software a plus.
+* Familiarity with continuous integration, containers, Kubernetes, and project management software a plus.
 * Experience engaging with a wide range of stakeholders across a company, its customers, and/or open-source communities.
 * Share our [values](/handbook/values/) and work in accordance with those values.
 * [Adhere to our view of Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 
 ### Performance indicators
 
-- [UX Hiring Actual vs Plan](/handbook/engineering/ux/performance-indicators/#ux-hiring-actual-vs-plan)
-- [UX Average Location Factor](/handbook/engineering/ux/performance-indicators/#ux-average-location-factor)
-- [UX Handbook Update Frequency](/handbook/engineering/ux/performance-indicators/#ux-handbook-update-frequency)
+- [UX hiring actual vs plan](/handbook/engineering/ux/performance-indicators/#ux-hiring-actual-vs-plan)
+- [UX average location factor](/handbook/engineering/ux/performance-indicators/#ux-average-location-factor)
+- [UX Handbook update frequency](/handbook/engineering/ux/performance-indicators/#ux-handbook-update-frequency)
 - [Technical Writing team member MR rate](/handbook/engineering/ux/performance-indicators/index.html#technical-writing-team-member-mr-rate)
 - [Distribution of Technical Writing team documentation effort](/handbook/engineering/ux/performance-indicators/index.html#distribution-of-technical-writing-team-documentation-effort)
+- [Technical Writing collaboration on UI text](/handbook/engineering/ux/performance-indicators/#technical-writing-collaboration-on-ui-text)
 
 ### Hiring Process
 
@@ -58,7 +59,7 @@ The Technical Writing Manager is a [grade 8](/handbook/total-rewards/compensatio
 
 ## Senior Manager, Technical Writing
 
-The Senior Manager of Technical Writing reports to the VP of UX. Technical Writing Managers report to the Senior Manager of Technical Writing.
+The Senior Manager of Technical Writing reports to the Director of Technical Writing. Technical Writing Managers report to the Senior Manager of Technical Writing.
 
 ### Job Grade 
 
@@ -121,7 +122,7 @@ The Senior Manager, Technical Writing is a [grade 9](/handbook/total-rewards/com
 
 ## Director, Technical Writing
 
-The Director of Technical Writing reports to the VP of UX. Senior Technical Writing Managers report to the Director of Technical Writing.
+The Director of Technical Writing reports to the VP of UX. Technical Writing Managers and Senior Technical Writing Managers report to the Director of Technical Writing.
 
 ### Job Grade 
 
