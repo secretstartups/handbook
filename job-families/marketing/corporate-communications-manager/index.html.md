@@ -124,7 +124,7 @@ Senior Manager, Corporate Communications is a [grade 9](/handbook/total-rewards/
 
 The Principal Corporate Communications Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each business function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Survey data yields a return of 18 organizations with an average of 1 incumbent in the principal level within Marketing Communications. A comparable role at GitLab is the [Principal Internal Communications Manager](https://about.gitlab.com/job-families/marketing/internal-communications/#principal-internal-communications-manager). 
+**Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each business function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Survey data yields a return of 18 organizations with an average of 1 incumbent in the principal level within Marketing Communications. A comparable role at GitLab is the Principal Internal Communications Manager. 
 
 ## Responsibilities
 * Lead public company communication program; including quarterly earnings press releases and activities, investor updates, media interviews, etc.
@@ -186,7 +186,7 @@ The GitLab [PR Manager](/job-families/marketing/pr-manager/) will help GitLab bu
 The [Social Marketing Manager](/job-families/marketing/social-marketing-manager/) is a key part of building GitLab’s brand into one that is loved by its audience of developers, IT ops practitioners, and IT leaders.
 
 ### Internal Communications
-The [Principal Internal Communications Manager](https://about.gitlab.com/job-families/marketing/internal-communications/) is part of the Talent Brand team within the PeopleOps group, but works very closely with the Corporate Communications team. Internal Communications plans and improves company-wide team member communications to ensure team members feel informed and heard.
+The Principal Internal Communications Manager is part of the Talent Brand team within the PeopleOps group, but works very closely with the Corporate Communications team. Internal Communications plans and improves company-wide team member communications to ensure team members feel informed and heard.
 
 ## Career Ladder
 

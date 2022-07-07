@@ -7,7 +7,7 @@ title: Paralegal
 
 ### Associate Paralegal
 
-The Associate Paralegal reports to the [Director, Legal](/job-families/legal/director-contracts-legal-ops/).
+The Associate Paralegal reports to the Director, Legal.
 
 #### Associate Paralegal Job Grade
 
@@ -51,7 +51,7 @@ The Associate Paralegal is a [grade 5](/handbook/total-rewards/compensation/comp
 
 ### Paralegal (Intermediate)
 
-The Intermediate Paralegal reports to the [Director, Legal](/job-families/legal/director-contracts-legal-ops/).
+The Intermediate Paralegal reports to the Director, Legal.
 
 #### Paralegal Job Grade
 

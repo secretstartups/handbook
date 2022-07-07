@@ -50,7 +50,7 @@ The Senior Threat Intelligence Engineer is a [grade 7](/handbook/total-rewards/c
 
 ***
 
-A Senior Security Engineer may want to pursue the [security engineering management track](/job-families/engineering/security-management/) at this point. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail.
+A Senior Security Engineer may want to pursue the security engineering management track at this point. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail.
 
 ***
 

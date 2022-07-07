@@ -158,7 +158,7 @@ The Director, Security Operations is a [grade 10](/handbook/total-rewards/compen
 - Define and plan priorities for security related activities based on that risk analysis
 - Determine appropriate combination of internal security efforts and external security efforts including bug bounty programs, external security audits (penetration testing, black box, white box testing)
 - Analyze and advise on new security technologies
-- Build and manage a team, which currently consists of [Security Managers](/job-families/engineering/security-management/), [Security Engineers](/job-families/engineering/security-engineer/), and [Security Analysts](/job-families/engineering/security-analyst/)
+- Build and manage a team, which currently consists of Security Managers, [Security Engineers](/job-families/engineering/security-engineer/), and [Security Analysts](/job-families/engineering/security-analyst/)
    - Identify and fill positions
    - Grow skills in team leads and team members, for example by
    creating training and testing materials
