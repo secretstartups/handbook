@@ -54,10 +54,10 @@ No action is needed by the CES team on this step. For additional information:
 
 - When a candidate is ready for a team interview, the recruiter will request availability in Greenhouse using the email address of the CES team member [they partner with](https://about.gitlab.com/handbook/hiring/recruiting-alignment/#recruiter-coordinator-and-sourcer-alignment-by-department). They will then click "Email the Team" on the right side of the candidate's Greenhouse page and send CES* the "CES Scheduling Request form".
    - If there are shorter timelines for roles as defined by the hiring team, CES needs to be made aware of those timelines for when interviews need to be scheduled. We will default to scheduling interviews at a minimum of [48 hours](https://about.gitlab.com/handbook/hiring/interviewing/#moving-candidates-through-the-process) out to leave time for interviewer prep.
-   - Reminder: When tagging `@ces` in Greenhouse, do not tag anyone other than the team in the same ping as it will add those users to the service desk project.
+   - Reminder: When tagging `@ces` in Greenhouse, do not tag anyone other than the team in the same ping as it will add those users to the Service Desk project.
 - If no response within 48 hours, CES will send a follow up request for availability and set the due date of the issue to 24 hours after the next email to check for availability again.
    - After the 2nd email to candidate with no response, the CES will make the Recruiter aware of the no response and no longer attempt to receive availability. They can close the issue temporarily, and reopen if the Recruiter receives a response from the candidate.
-- After availability is received, CES will schedule interviews based on the interview plans in Greenhouse and will track preferences within the CES Service Desk [repo](https://gitlab.com/gl-talent-acquisition/ces-service-desk/-/tree/master). 
+- After availability is received, CES will schedule interviews based on the interview plans in Greenhouse and will track preferences within the CES Service Desk [repo](https://gitlab.com/gl-talent-acquisition/ces-service-desk/-/tree/master).
    - CES will be using the Zoom integration with [Prelude](https://about.gitlab.com/handbook/hiring/interview-schedule/) for interviews
 - If CES sees an alert to merge applicant profiles, and those profiles are a match (candidates' email address, phone number, or resume matches), they will merge the applicant profiles. Visit [People Technology and Operations page](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/#system-processes) for instructions.
 - CES will [send interview confirmations via Guide](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/#using-the-candidate-guide)
@@ -85,7 +85,7 @@ Guide processes can be found [here](/handbook/hiring/resource-guide/).
 
 #### If a Candidate Withdraws from the Hiring Process
 
-If a candidate emails the CES Service Desk stating they would like to withdraw from the interview process, the CES should respond to the candidate's email (not the service desk ticket) and cc the recruiter (if the recruiter isn't already on the email). The CES response should not say anything definite as there may be a chance for the recruiter to reel the candidate back in. A basic response is below:
+If a candidate emails the CES Service Desk stating they would like to withdraw from the interview process, the CES should respond to the candidate's email (not the Service Desk ticket) and cc the recruiter (if the recruiter isn't already on the email). The CES response should not say anything definite as there may be a chance for the recruiter to reel the candidate back in. A basic response is below:
 
 > Hi `Candidate Name`, thank you for your email. I have cc'd your recruiter in this email and if there are any additional questions, they will be in touch.
 
@@ -95,16 +95,16 @@ The only exception to this should be for executive roles. Please just forward th
 
 ### Non-Disclosure Agreements
 
-To send a Non-Disclosure Agreement (NDA) to a candidate, Recruiters should ping @ces in Greenhouse. 
+To send a Non-Disclosure Agreement (NDA) to a candidate, Recruiters should ping @ces in Greenhouse.
 CES can then log into Docusign, select "start" and "use a template", and then access shared templates.
-Once the NDA has been returned, upload the document in the "details" section of Greenhouse. Download this document from DocuSign as separate files, and only use the NDA itself (the summary is not necessary). 
+Once the NDA has been returned, upload the document in the "details" section of Greenhouse. Download this document from DocuSign as separate files, and only use the NDA itself (the summary is not necessary).
 
 ### Background Checks
 
 GitLab will obtain references and complete a criminal [background check](https://about.gitlab.com/handbook/people-policies/#background-checks) with employment verifications.
 
-   - If the candidate is located in Belgium and the role is not Grade 9 or higher, the CES or Recruiter (whoever kicks off the reference check process) should send the job requisition to the legal team via the #legal Slack channel during Reference/Background check phase to determine whether or not the role is a position of trust. 
-- The recruiter should select "Email the team" and send the "CES Start Contract Request" email to CES* to initiate the offer letter and background check processes after the verbal offer has been made. 
+   - If the candidate is located in Belgium and the role is not Grade 9 or higher, the CES or Recruiter (whoever kicks off the reference check process) should send the job requisition to the legal team via the #legal Slack channel during Reference/Background check phase to determine whether or not the role is a position of trust.
+- The recruiter should select "Email the team" and send the "CES Start Contract Request" email to CES* to initiate the offer letter and background check processes after the verbal offer has been made.
 - The Candidate Experience Specialist will [initiate a background check](/handbook/people-policies/#background-checks) and start the contract process for the candidate. CES will continue to monitor the background check until finalized, using the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
 - Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication
 - Candidates in **Canada** require a form to be filled out by the employer (GitLab). The candidate will send the form with 2 forms of approved ID (listed on the form) and the CES will verify the name on each form of ID, enter it on the background check form. The CES will enter their signature on the form (either by editing a PDF or staging in DocuSign) and send back to the candidate.
@@ -151,17 +151,17 @@ For additional information on reviewing Background checks see [this page](/handb
 
 1. Login to [Sterling](https://sterlingcheck.app/dashboard/#/dashboard/) and click `Submit Invite` on the lefthand side toolbar.
 1. `Account` and `Workflow` will auto-populate with Gitlab,Inc -SD and Consent Plus.
-1. On the Position dropdown, select `GitLab`. 
+1. On the Position dropdown, select `GitLab`.
 1. Next, select `à la carte` from the Screening Package dropdown.
-1. Next, select `Criminal-International` from the Add-Ons dropdown (can search in the search bar), and push TAB to populate the "Jurisdiction for Criminal-International" box on the righthand side. 
+1. Next, select `Criminal-International` from the Add-Ons dropdown (can search in the search bar), and push TAB to populate the "Jurisdiction for Criminal-International" box on the righthand side.
    - If you are submitting a background check for a candidate located in Japan or Russia, **or if you need to run a financial check for Finance team candidates**, you will select `Extended Global Sanctions` instead of "Criminal-International".
    - If you are submitting a background check for the Netherlands, do not order a `Criminal-International` check and move on to the next step.
 1. Next, select `Verification-Employment (International)` from the Add-Ons drowpdown.
-1. Next, select the candidate's country from the dropdown on the righthand side under `Add-On Details`. 
+1. Next, select the candidate's country from the dropdown on the righthand side under `Add-On Details`.
 1. Next, enter in the candidate's location under `Location of Employment`.
 1. Click `Next` at the bottom.
 1. Enter in the candidate's First name, Last name, and Email.
-1. Click `Submit`. 
+1. Click `Submit`.
 
 #### Escalating Criminal Charges or Employment Discrepancies
 
@@ -180,7 +180,7 @@ Once the CES team gets the background checks back, if there are criminal charges
 
 Our hiring process includes an **optional** step where candidates can request to meet with a TMRG team member. We will offer this to a candidate when they complete their interview process before an offer is made. Whether or not the candidate decides to take us up on this offer will have no impact on our overall hiring decision.
 
-All current TMRGs have agreed to take part in this process. You can find the group list [here](https://about.gitlab.com/company/culture/inclusion/erg-guide/). 
+All current TMRGs have agreed to take part in this process. You can find the group list [here](https://about.gitlab.com/company/culture/inclusion/erg-guide/).
 
 When a candidate requests to meet with a TMRG team member, the Candidate Experience Specialist will do the following:
 1. Reach out to TMRG volunteers for this call in the dedicated #candidate_tmrg-call slack channel.
@@ -190,11 +190,11 @@ When a candidate requests to meet with a TMRG team member, the Candidate Experie
        - Where is the candidate located?
        - What role is this candidate interviewing for
        - Click Submit
-2. Once submitted, the request will ask volunteers to reply with their Calendly link and LinkedIN Profile (optional) for us to share with the candidate. 
+2. Once submitted, the request will ask volunteers to reply with their Calendly link and LinkedIN Profile (optional) for us to share with the candidate.
 
-3. Once a volunteer has been found the Candidate Experience Specialist will email the candidate the 'TMRG Opportunity' email template in Greenhouse. The CES will update the template with the Team Members name, Calendly Link and LinkedIN profile if provided and then send to candidate. 
+3. Once a volunteer has been found the Candidate Experience Specialist will email the candidate the 'TMRG Opportunity' email template in Greenhouse. The CES will update the template with the Team Members name, Calendly Link and LinkedIN profile if provided and then send to candidate.
 
-3. If a volunteer has not been found within 24 hours the CES team member will reach out to the TMRG in their dedicated TMRG Slack Channel. 
+3. If a volunteer has not been found within 24 hours the CES team member will reach out to the TMRG in their dedicated TMRG Slack Channel.
 
 4. If a volunteer still has not been found within 24 hours of the second request, the CES will reach out to the [TMRG lead(s)](/company/culture/inclusion/erg-guide/) and request assistance with scheduling. If a volunteer has not been found within 3 business days of the request, the CES will ask the TMRG lead to take part in the conversation.
 
@@ -213,7 +213,7 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
 
    1. Check all aspects of the offer:
       - Do we have the new team members' legal name in their profile?
-         -  _It is extremely important to enter the team member's full legal name (as much as it is known before visually seeing a legal ID). Full legal name should be provided for the [background check](/handbook/people-policies/#background-checks) process. It is important to be as accurate as possible, including the person's full legal name as well as any accents used for their name. 
+         -  _It is extremely important to enter the team member's full legal name (as much as it is known before visually seeing a legal ID). Full legal name should be provided for the [background check](/handbook/people-policies/#background-checks) process. It is important to be as accurate as possible, including the person's full legal name as well as any accents used for their name.
       - Is the new team members' address listed on the details page?
       - What contract type and entity are required based upon location and offer details?
       - Is it clear how many (if any) RSUs this person should receive?
@@ -230,12 +230,12 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
      - Ensure the candidate has completed the PIAA section with either a `Yes` and the specific details **or** `None`. (Its important that it is not just a GitLab or Github link and more specific info.)
      - If the candidate has specified a `Yes` and the specific details, make the People Experience team aware in our private group Slack channel to kick off approval process.
    1. **Before marking the candidate as hired** the Candidate Experience Specialist will reject the candidate from any other active roles including roles for which they are a prospect (without sending a rejection email). _NOTE: If this step is skipped, the profile will not be exported to Bamboo HR when the candidate is marked as hired._
-   1. **Before marking the candidate as hired** on all candidates, the CES will make sure that the profiles were merged (for internal candidates, this will be indicated if the candidate shows their original `Hired` inactive role). [View candidate merge instructions](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/).  _NOTE: If this step is skipped, it will create a duplicate profile exported to Bamboo HR when the candidate is marked as hired._ 
+   1. **Before marking the candidate as hired** on all candidates, the CES will make sure that the profiles were merged (for internal candidates, this will be indicated if the candidate shows their original `Hired` inactive role). [View candidate merge instructions](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/).  _NOTE: If this step is skipped, it will create a duplicate profile exported to Bamboo HR when the candidate is marked as hired._
    1. **Before marking the candidate as hired** the CES will ping the recruiter and give them 24 hours to contact/reject all other active candidates. Once this is complete, the CES can proceed with hiring in GH (if candidates are still present in req, select the "keep open" option when setting candidate to hired. This will trigger a new opening to ensure candidates are still present in req)
    1. **Before marking the candidate as hired** the CES will verify if the listed Recruiter and Coordinator in the `Details` >  `Source & Responsibility` section of the candidate's profile is correct to ensure accuracy in reporting.
    1. The CES will mark the candidate as "Hired" in Greenhouse: _when prompted, select the option to close the req._ Please note, the new hire's BambooHR profile will be generated automatically by the [Greenhouse to BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) that runs every 15 minutes.
    1. The Candidate Experience Specialist will send an email to total-rewards@gitlab with any variations in contract language (for example a draw). Compensation will sync with Payroll and Sales Ops for any necessary notifications on payment types.
-   1. For internal hires ONLY - the CES will send the automated email template labeled "Internal Hiring Survey". You can also cancel the survey that will appear automatically when the candidate is marked as hired. 
+   1. For internal hires ONLY - the CES will send the automated email template labeled "Internal Hiring Survey". You can also cancel the survey that will appear automatically when the candidate is marked as hired.
    1. The Candidate Experience Specialist will email the new team member the Welcome Email from Greenhouse with a cc to IT Ops, the Hiring Manager and the Recruiter.  For new team members in USA, use 'GitLab Welcome - US only' template.  For team members located outside the US, use 'GitLab Welcome - non US' template
       * Instructions on the [Notebook Ordering Process](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) are included with this email.
    1. Should the start date change after the welcome email is sent please see the required steps [here](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
