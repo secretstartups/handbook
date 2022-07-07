@@ -55,7 +55,7 @@ The team collaborates intensively with various internal and external stakeholder
 
 #### Service Desk
 
-Our service desk was created by the [People Group Engineering Team](https://about.gitlab.com/handbook/people-group/engineering/) using or [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding) our own product. You can read more about the **People Connect Bot** [here](https://about.gitlab.com/handbook/people-group/engineering/people-connect-bot/#people-connect-bot)
+Our Service Desk was created by the [People Group Engineering Team](https://about.gitlab.com/handbook/people-group/engineering/) using or [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding) our own product. You can read more about the **People Connect Bot** [here](https://about.gitlab.com/handbook/people-group/engineering/people-connect-bot/#people-connect-bot)
 
 #### Methods of Engagement
 
@@ -88,7 +88,7 @@ On occasion team member interactions i.e. ≤ 1% require the direct input of a S
 
 The People Connect model was compiled with our team members and their experience of GitLabs all-remote workplace in mind - making feedback an important element in ensuring our efforts and iterations are consistently aligned to the broader [company values](https://about.gitlab.com/handbook/values/).
 
-At the resolution of each interaction that runs through our service desk team members will receive a quick two question 'satisfaction pulse' from the People Connect Bot.
+At the resolution of each interaction that runs through our Service Desk team members will receive a quick two question 'satisfaction pulse' from the People Connect Bot.
 
 ### Metrics
 
