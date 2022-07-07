@@ -21,7 +21,7 @@ See also, the [Service Desk runbook doc](https://gitlab.com/gitlab-com/runbooks/
 ### Troubleshooting Steps
 
 1. When an issue related to Service Desk is received, verify with the customer these common occurrences are not applicable:
-    1. [Service desk not sending to CC:](https://gitlab.com/gitlab-org/gitlab/-/issues/4652)
+    1. [Service Desk not sending to CC:](https://gitlab.com/gitlab-org/gitlab/-/issues/4652)
     1. [Attachments cannot be over 10MB](https://gitlab.com/gitlab-org/gitlab/-/issues/20061)
     1. [Emails with `Auto-Submitted` or `X-Autoreply` in the header are ignored](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/email/receiver.rb#L141-159)
 
