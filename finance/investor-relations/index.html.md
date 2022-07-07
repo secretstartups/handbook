@@ -16,7 +16,7 @@ The page you are on now the handbook that describes internal processes around in
 
 ## Quarterly Earnings Process:
 
-As a public company we share financial results publicly after the close of each fiscal quarter or fiscal year. For Q3-FY22, this happened six weeks after the close of the quarter, on December 6, 2021 at 1:30pm Pacific. The key deliverables for each earnings cycle are:
+As a public company we share financial results publicly after the close of each fiscal quarter or fiscal year. For Q1-FY23, this happened six weeks after the close of the quarter, on June 6, 2022 at 1:30pm PST. The key deliverables for each earnings cycle are:
 
 * Earnings press release summarizing business & financial results, providing guidance
 * Earnings call with prepared remarks by CEO and CFO followed by Q&A with sellside analysts
@@ -31,12 +31,23 @@ The timeline for each quarter is as follows. A detailed calendar with DRIs and p
 
 1. CEO, CFO, CRO, CMO, CLO, Investor Relations, Corp FP&A discuss the top business & industry themes from the quarter
 2. Based on messaging themes, IR to draft v1 of earnings call script and Q&A. Preliminary reviews are done with the CFO and CMO, followed by final reviews with the CEO to finalize the script before earnings call
+3.  Set aside blocks of time on the CEO and CFO calendars for earnings callbacks 
+CEO, CFO, and IR will participate in the sell side research analyst callbacks, starting shortly after the regular earnings webcast concludes.  These will be 20 minutes in duration
+CEO, CFO, and IR will also participate in buy side callbacks the following day with the largest institutional shareholders.  These will be 25 minutes in duration
+CFO will schedule blocks of time over the next several weeks to allow for at least 80 additional buy side callbacks before the company enters its quiet period, which occurs after the 15th day of the third month of the quarter
+Each callback will have an internal document that captures the questions and the prior dialogue with the investor
+
 
 ### Two weeks after quarter end:
 
 1. Financials and metrics close
 2. Accounting and FP&A provide summaries of quarterly results for inclusion into all deliverables
 3. CFO, IR, FP&A, and Accounting discuss key financial & metrics trends for inclusion into the script and Q&A. FP&A ships CFO metrics briefing pack
+4.  Corporate Communications team issues the press release announcing the earnings date and webcast information
+5.  Once this press release is published, IR will contact sell side research analysts to schedule callbacks following the conclusion of the earnings webcast
+6.  After the sell side callbacks are scheduled, IR will contact the largest institutional shareholders to schedule buy side callbacks.  The objective will be to speak with as many of the top 20 shareholders as possible on the day immediately following the earnings release
+7.  IR will continue contacting the remaining top 50 shareholders to offer callback opportunities with the CFO.  Between the CFO and IR, the objective will be to conduct at least 100 meetings with current and prospective institutional shareholders each quarter
+
 
 ### Three weeks after quarter end:
 
@@ -61,9 +72,14 @@ The timeline for each quarter is as follows. A detailed calendar with DRIs and p
 2. Earnings release: issued by wires and posted to ir.gitlab.com immediately prior to earnings call: GitLab PR team
 3. 8-K: filing with SEC immediately before earnings call: GitLab SEC team
 4. 10-Q, 10-K, other supporting documents as needed: filing with SEC in afternoon after earnings call: GitLab SEC team
-5. IR Website: post webcast, investor presentation, transcript: IR/Marketing
-6. Sell and buyside callbacks after earnings call: CEO, CFO, CLO, IR
-7. Media interviews after earnings call: CEO, CFO
+5. IR Website: post webcast, investor presentation, prepared remarks: IR/Marketing
+6. Sell side research analyst callbacks after earnings webcast:  CEO, CFO, IR
+
+### On the day after the earnings release:
+
+1. Buy side callbacks with large institutional shareholders:  CEO, CFO, IR
+2.  Media interviews:  CEO, CFO
+
 
 ## Trading Window
 
