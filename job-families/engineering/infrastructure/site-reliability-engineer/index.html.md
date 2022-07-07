@@ -91,7 +91,7 @@ The Site Reliability Engineer is a [grade 6](/handbook/total-rewards/compensatio
    1. Terraform basic syntax and GitLab CI/CD configuration, pipelines, jobs
    1. Cloud resources provisioning and configuration through CLI/API
    1. Kubernetes basic understanding, CLI, service re-provisioning
-   1. Provisiong and setup metric in Prometheus, Thanos, and Graphana, alerts and silences
+   1. Provisiong and setup metric in Prometheus, Thanos, and Grafana, alerts and silences
    1. Provision and setup logs and queries for general questions
    1. Operating system (Linux) configuration, package management, startup and troubleshooting
    1. Block and object storage configuration
@@ -134,7 +134,7 @@ Are Site Reliability Engineers who meet the following criteria:
    1. Advanced Terraform syntax and GitLab CI/CD configuration, pipelines, jobs
    1. Advanced knowledge of cloud services
    1. Kubernetes: cluster provisioning and new services
-   1. Prometheus, Thanos, and Graphana: service catalog metrics and recording rules for alerts
+   1. Prometheus, Thanos, and Grafana: service catalog metrics and recording rules for alerts
    1. Log shipping pipelines and incident debugging visualizations
    1. Operating system (Linux) configuration, package management, startup and troubleshooting
    1. Block and object storage configuration and debugging
