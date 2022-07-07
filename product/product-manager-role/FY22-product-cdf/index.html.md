@@ -28,10 +28,10 @@ We use KPIs by function in the CDF. These KPIs feature a guideline for results t
 ## CDF for Individual Contributors in Product Management 
 Below, you'll find the CDF framework and potential discussion topics for [Product Managers](/job-families/product/product-manager/).
 
-|**Levels**| Intermediate| Senior |Principal|
-|----|-----|-----|-----|
-| **Typical Reporting Structure** |Reports to a Director or Group Manager | Reports to a Director or Group Manager | Reports to a Group Manager, Director, or VP |
-| **Typical Experience** |Two to four years of relevant experience or equivalent combination of experience and education. | Four to six years of relevant experience or equivalent combination of experience and education. | Eight to ten years of experience with at least one year of people management responsibility. | 
+|**Levels**| Intermediate| Senior |Principal|Senior Principal|
+|----|-----|-----|-----|-----|
+| **Typical Reporting Structure** |Reports to a Director or Group Manager | Reports to a Director or Group Manager | Reports to a Group Manager, Director, or VP |  Reports to a Director, or VP 
+| **Typical Experience** |Two to four years of relevant experience or equivalent combination of experience and education. | Four to six years of relevant experience or equivalent combination of experience and education. | Eight to ten years of experience with at least one year of people management responsibility. | Ten years or more of experience or equivalent combination of experience and education.| 
 
 ### CDF for Individual Contributor Product Managers 
 Below, you'll find the CDF framework and potential discussion topics for [Product Managers](/job-families/product/product-manager/). 
