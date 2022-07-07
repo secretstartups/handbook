@@ -32,7 +32,7 @@ The **Finance Systems Administrator Team** implements and supports specialized a
 ### Service Desk
 
 - [Service Desk Board](https://gitlab.com/groups/gitlab-com/-/boards/2802782?scope=all&label_name[]=FinSys%3A%3AService%20Desk) Labels: `~FinSys::Service Desk`
-- Our service desk takes care of:
+- Our Service Desk takes care of:
     - User Access to the Finance Systems we manage. By way of Access Requests, Offboarding and Mobility Issues.
     - System questions and assistance.
     - Troubleshooting
@@ -66,7 +66,7 @@ The **Finance Systems Administrator Team** implements and supports specialized a
     - FinSys team meets on ___________ cadence to do backlog grooming and planning.
     - Through this exercise, ost projects will have a BSA and/or Project Manager to lead it.
 - [In Flight Projects Board](https://gitlab.com/groups/gitlab-com/-/boards/2834898?label_name[]=BT%20Finance%20Systems&label_name[]=FinSys%3A%3AProjects); Labels: `~BT Finance Systems` and `~FinSys::Projects`
-    - Update project title with prefix `PROJ:` 
+    - Update project title with prefix `PROJ:`
     - This is where you can see the open tasks related to a project and the stage they’re in.
 
 ### Collaboration
@@ -78,7 +78,7 @@ The **Finance Systems Administrator Team** implements and supports specialized a
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Systems We Own
 
-| System            | Function                         |  
+| System            | Function                         |
 |-------------------|----------------------------------|
 | Adaptive Insights | Financial Planning and Budgeting |
 | Avalara           | Tax Engine                       |
