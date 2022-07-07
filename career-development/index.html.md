@@ -351,8 +351,8 @@ end
   click eng:pdm "/job-families/engineering/product-design-management/";
   click eng:spdm "/job-families/engineering/product-design-management/";
   click eng:dpd "/job-families/engineering/product-design-management/";
-  click eng:uxrc "/job-families/engineering/ux-research-coordinator/";
-  click eng:suxrc "/job-families/engineering/ux-research-coordinator/";
+  click eng:uxrc "/job-families/engineering/ux-research-operations-coordinator/";
+  click eng:suxrc "/job-families/engineering/ux-research-operations-coordinator/";
   click eng:uxr "/job-families/engineering/ux-researcher/";
   click eng:suxr "/job-families/engineering/ux-researcher/";
   click eng:stuxr "/job-families/engineering/ux-researcher/";
@@ -488,7 +488,7 @@ Note that we have a specific section for [Senior Engineer](/job-families/enginee
 
 The Senior Engineer role is a critical role where we need the most contributions. It should also be considered a destination role. It is not a given that you will naturally progress into the next role, whether it is Staff or Management. There are different needs and expectations for the next role. Individual growth and progression is supported and encouraged at GitLab, however progression beyond the Senior Engineering role is gated on availability and need. There may not be a need for another Staff or Management position.
 
-Senior engineers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior engineers to come up with simpler solutions to complex problems. Managing complexity is key to their work. [Staff](/job-families/engineering/backend-engineer/#staff-backend-engineer) and [Distinguished](/job-families/engineering/distinguished-engineer/) positions extend the Senior Engineer role.
+Senior engineers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior engineers to come up with simpler solutions to complex problems. Managing complexity is key to their work. [Staff](/job-families/engineering/backend-engineer/#staff-backend-engineer) and [Distinguished](/job-families/engineering/infrastructure/distinguished-engineer/) positions extend the Senior Engineer role.
 
 ## Promotion
 
