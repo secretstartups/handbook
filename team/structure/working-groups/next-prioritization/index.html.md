@@ -17,10 +17,12 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 | Property        | Value      |
 |-----------------|------------|
 | Date Created    | 2022-04-13 |
-| Target End Date | 2022-07-18 |
+| Target End Date | 2022-08-18 |
 | Slack           | [#wg_next-prioritization](https://gitlab.slack.com/archives/C03AWM7780G) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1wog8bR7jg6SECefx9BGqIa07sFm_sXJPvelVAganYmc/edit#heading=h.pmtw3ocv2aty)  |
-| Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4199535?label_name[]=wg-next-prioritization) |
+| Board for non per-group adoption issues    | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4199535?not[label_name][]=wg-next-prioritization-adoption&label_name[]=wg-next-prioritization) |
+| Issue list for per-group adoption issues    | [Issue list](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/?label_name%5B%5D=wg-next-prioritization-adoption) |
+| Open merge requests for the working group | [MR list](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=wg-next-prioritization) |
 | Epic            | [Link](https://gitlab.com/groups/gitlab-com/-/epics/1799) |
 
 ### Exit criteria
@@ -44,13 +46,15 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 | Add dashboards to handbook pages for all stage groups | 2022-05-26 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) |
 | Add dashboards to handbook pages for all sub-departments | 2022-05-30 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13448) |
 | Automate merge request type reminders  | 2022-06-03 | Complete | Kyle Wiebers | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) |
-| Auto-schedule S1 Bugs | 2022-07-01 | In process | Tanya Pazitny | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
 | Handbook updates to describe new process and deprecate engineering allocation process | 2022-06-06 | Complete | Valerie Karnes (UX), Tanya Pazitny (Quality), Matt Wilson (PM), Neil McCorrison (Development)| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13340) |
 | Setup monthly MR type reviews between engineering managers, sub-department leads, and engineering overall trends | 2022-06-02 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13212) |
 | Refine stakeholder dashboard views, bug & maintenance backlog types | 2022-05-19 | Complete | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13321) |
-| Reduce undefined MR types to less than 5% | 2022-07-01 | May was 6.7% | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
-| 100% of teams using the new processes | 2022-07-04 | 90% as of June 30 | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
-| Do a restrospective and close working group | 2022-07-18 | Not started | Wayne Haber | TBD |
+| Reduce undefined MR types to less than 5% | 2022-07-01 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
+| Auto-schedule S1 Bugs | 2022-07-14 | In process | Tanya Pazitny | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
+| 100% of teams using the new processes | 2022-07-04 | 92% as of Jul 7 | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
+| First review of milestone plan by CTO and VP of Product | 2022-07-15 | Planned | Eric Johnson and David DeSanto | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13631) |
+|  Create a view of milestone planning issues | 2022-07-14 | In Process | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13585) |
+| Do a restrospective and start incorporating feedback for the next iteration | 2022-07-18 | Not started | Wayne Haber | TBD |
 
 
 ### Roles and Responsibilities
@@ -77,7 +81,7 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 
 # Cross-functional prioritization process
 
-The process is [documented](/handbook/engineering/#cross-functional-prioritization) in the handbook.
+The process is [documented](/handbook/engineering/cross-functional-prioritization/) in the handbook.
 
 
 
