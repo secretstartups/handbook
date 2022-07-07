@@ -309,20 +309,6 @@ If your GC is optional and you need to move the date, please work with your depa
 
 | Date | GC or AMA| DRI| Key Review Date? |
 |-----------|-----|--------|--------|
-| Wednesday June 1 | Quality | Quality Leadership| 2022-05-31|
-| Thursday June 2 | Customer Fireside Chat | Sherrod Patching | N/A|
-| Tuesday June 7 | People | People Leadership | 2022-05-26|
-| Wednesday June 8 | Development| Development Leadership| 2022-05-31|
-| Thursday June 9 | Community Relations |John Coghlan | N/A|
-| Tuesday June 14 | Finance | | 2022-05-24|
-| Wednesday June 15 | Product| | 2022-06-09|
-| Thursday June 16 | CRO | David Sakamoto | Key Review Date|
-| Tuesday June 21 | Security| Security Leadership | Key Review Date|
-| Wednesday June 22 | **Available** | | N/A |
-| Thursday June 23 | No Group Conversation | N/A | N/A|
-| Tuesday June 28 | AMA: CEO Chief of Staff Team| Stella Treas | N/A|
-| Wednesday June 29 | Alliances | Nima Badiey | N/A |
-| Thursday June 30 | Support | Tom Cooney | June 22 |
 | Tuesday July 5 | Infrastructure | Steve Loyd | June 23|
 | Wednesday July 6 | **Available** |  | |
 | Thursday July 7 | UX| Christine Lenneville | June 30|
