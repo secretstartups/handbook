@@ -7,9 +7,9 @@ title: "IT Management"
 
 ## Manager, IT
 
-The Manager, IT reports to the [Sr Director, IT Operations](https://about.gitlab.com/job-families/finance/director-it-operations/). 
+The Manager, IT reports to the [Sr Director, IT Operations](https://about.gitlab.com/job-families/finance/director-it-operations/).
 
-### Manager, IT Job Grade 
+### Manager, IT Job Grade
 
 The Manager, IT is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -70,7 +70,7 @@ The Manager, IT End User Services leads a team of highly-collaborative and resul
 * IT Asset and configuration management. Track, log and correct information to protect assets and components
 * Customer service management. Translate ‘lessons learnt’ into continual service improvement
 * Produce proactive reports, trending analysis, service level reporting, SLA compliance, process consultation and application of ITIL best practice
-* Problem management. Initiate and monitor actions to investigate patterns and trends to resolve problems  
+* Problem management. Initiate and monitor actions to investigate patterns and trends to resolve problems
 * Hold regular 1:1’s with all members of the IT Teams
 * Triage and manage priorities of IT HelpDesk and Operations
 * Embed an asynchronous, distributed philosophy in everything you do
@@ -78,19 +78,19 @@ The Manager, IT End User Services leads a team of highly-collaborative and resul
 #### Manager, IT (End User Services) Requirements
 
 * 3-5 years experience managing a team, preferably within End User Services 
-* ITIL Service Management Framework certification 
+* ITIL Service Management Framework certification
 * The ability to build a cohesive Service Desk team and to manage people effectively. This includes the ability to coach and develop the team
 * Experience working with and implementing Conversational AI technology to augment the capabilities of the Service Desk
-* Experience with ITSM platforms 
-* A thorough understanding of the strategic vision for the service desk and the ability to set the long-term direction of the team
+* Experience with ITSM platforms
+* A thorough understanding of the strategic vision for the Service Desk and the ability to set the long-term direction of the team
 * An ability to balance and plan the short-term actions of the team
 * Knowledge and understanding of best practices for service management
-* Effectively managing, developing, and training the service desk team
-* Ensuring that all processes used by the service desk are thoroughly documented, consistently audited, and regularly improved
+* Effectively managing, developing, and training the Service Desk team
+* Ensuring that all processes used by the Service Desk are thoroughly documented, consistently audited, and regularly improved
 * Conducting and sharing results from service and operation performance reviews
-* Coordinating and managing all relevant stakeholders, including the support desk team, customers, and other teams that are involved in service desk operations
+* Coordinating and managing all relevant stakeholders, including the support desk team, customers, and other teams that are involved in Service Desk operations
 
-### Senior Manager, IT (End User Services) 
+### Senior Manager, IT (End User Services)
 
 #### Senior Manager, IT (End User Services) Responsibilities
 
@@ -118,7 +118,7 @@ Familiarity with data management policies and regulations (GDPR, SOX, PCI)
 
 
 
-## Performance Indicators 
+## Performance Indicators
 
 *  [New Hire Location Factor < 0.69](/handbook/business-ops/metrics/#new-hire-location-factor--069)
 *  [% of team who self-classify as diverse](/handbook/business-ops/metrics/#percent--of-team-who-self-classify-as-diverse)

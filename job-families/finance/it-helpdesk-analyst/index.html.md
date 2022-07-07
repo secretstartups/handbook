@@ -72,8 +72,8 @@ The Senior IT Helpdesk Analyst is a [grade 7](/handbook/total-rewards/compensati
 - An active / empathic listener
 - Demonstrable ability to think around issues and look at the wider picture in order to provide solutions through a variety of problem-solving techniques
 - Knowledge and understanding of best practice framework (such as ITIL, ISO20k) for the delivery of IT services
-- Ability to clearly and accurately communicate processes and procedures 
-- Experience of working accurately and confidently with service desk tools and technology, such as ITSM, remote access, knowledge resources
+- Ability to clearly and accurately communicate processes and procedures
+- Experience of working accurately and confidently with Service Desk tools and technology, such as ITSM, remote access, knowledge resources
 - Experience of developing professional and effective working relationships with customers and key stakeholders
 - Experience of delivering a high level of customer service
 
