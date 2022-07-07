@@ -187,6 +187,9 @@ For customers who are not exempt, the default values will be "Yes" for all field
 | Turn On Auto-Renewal | (Yes/No) Shows whether Auto-Renewal is enabled for the subscription |
 | Turn On Quarterly Reconciliation | (Yes/No) Shows whether Quarterly Subscription Reconciliation is enabled for the subscription |
 | Turn On Operational Data | (Yes/No) Shows whether Operational Data is enabled for the subscription |
+| Turn On Cloud Licensing | (Yes/Offline/No) Shows whether a customer activated with Cloud Licensing, Offline Cloud Licensing or a Legacy License File |
+
+Note: there is no contractual field for Cloud Licensing as sending Cloud License [Subscription Data](https://about.gitlab.com/handbook/legal/privacy/services-usage-data/#subscription-data) is part of the standard GitLab's standard Subscription Agreement.
 
 **Cloud Licensing Fields**
 
@@ -197,6 +200,7 @@ The fields in this section enable contractual opt-outs for each SuperSonics feat
 | [Cloud Lic] Add Reconciliation Opt Out | (Checkbox) Opts customer out of Quarterly Subscription Reconciliation  |
 | [Cloud Lic] Add Auto-Renewal Opt-Out | (Checkbox) Opts customer out of Auto-Renewal |
 | [Cloud Lic] Add Operational Data Opt Out | (Checkbox) Opts customer out of Operational Data |
+| [Cloud Lic] Add Cloud Licensing Opt Out | (Picklist) Opts customer out of Cloud Licensing to an `Offline` or `Legacy` license |
 
 #### Quarterly Subscription Reconciliation (QSR): How It Works
 
@@ -223,9 +227,9 @@ The below process applies to any existing customers with an active subscription 
   - The oppportunity becomes Closed Won automatically
   - The night after the opportunity becomes Closed Won, a nightly job will run to create the underlying quote and populate opportunity data fields accurately. 
 
-#### How To Opt-Out of Auto-Renewal, Quarterly Subscription Reconciliation, and Operational Data
+#### How To Opt-Out of Auto-Renewal, Quarterly Subscription Reconciliation, Cloud Licensing and Operational Data
 
-During the Sales process, a customer who would not otherwise be exempt from Auto-Renewal, Quarterly Subscription Reconciliation, and/or Operational Data may request to disable one or more of these features. Every opt-out will require approvals, as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). If an opt-out is requested and approved, upon Closed Won the related feature will be disabled for the subscription in question.
+During the Sales process, a customer who would not otherwise be exempt from Auto-Renewal, Quarterly Subscription Reconciliation, Cloud Licensing and/or Operational Data may request to disable one or more of these features. Every opt-out will require approvals, as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). If an opt-out is requested and approved, upon Closed Won the related feature will be disabled for the subscription in question.
 
 **Steps to Request an Opt-Out:**
 1. Navigate to the Cloud Licensing Fields section of the quote, and check the box next to the applicable SuperSonics Feature (i.e. Add Auto-Renewal Opt-Out). Click Save.
@@ -236,7 +240,7 @@ During the Sales process, a customer who would not otherwise be exempt from Auto
 
 #### How To Temporarily Pause Auto-Renewal, Quarterly Subscription Reconciliation, and Operational Data:
 
-During the Sales process, there may be a need for Sales to "pause" an upcoming Auto-Renewal or Quarterly Subscription Reconciliation while negotiating with the customer. Every pause will require approvals, as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). If a pause is requested and approved, that feature will be temporarily disabled for the subscription in question until the next transaction occurs. 
+During the Sales process, there may be a need for Sales to "pause" an upcoming Auto-Renewal or Quarterly Subscription Reconciliation while negotiating with the customer. Every pause will require approvals, as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). If a pause is requested and approved, that feature will be temporarily disabled for the subscription in question until the next transaction occurs. A pause is not possible for Cloud Licensing.
 
 **Steps to Request a Pause:**
 1. Navigate to the applicable opportunity in SFDC. 
@@ -256,9 +260,11 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
 4. **How can I tell if Auto-Renewal or Quarterly Subscription Reconciliation are enabled on a subscription?**
   - Navigate to the SFDC Account, and click on the "Subscriptions" related list. Select the subscription in question, and review the "Auto-Renewal" and "Quarterly Reconciliation" fields. If these are marked "Yes," then these processes apply to the subscription. If these fields are marked "No" or are blank, these processes will not occur for this subscription.
 5. **A QSR opportunity was opened automatically, but my customer was never charged, and the opportunity never closed. What do I do?**
-  - First, review the status of the QSR by accessing https://customers.gitlab.com/admin/reconciliation
-    - This page will tell you whether the QSR has been attempted, and if so, whether it was successful or failed. If it failed, the tool will provide a reason.
-  - If the QSR has failed, the opportunity should be closed as duplicate.
+  - In most cases, if a QSR opportunity is opened but is not closed within 14 days after creation, that means the QSR failed and the opportunity should be closed as duplicate.
+6. **My customer did not opt out of Cloud Licensing during the sales process, but now they need a Legacy/Offline license file. How do I get my customer a Legacy/Offline license?**
+  - To provide the customer with a legacy or offline license file, Sales should first collect the necessary approvals as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). Sales should then work with Support Engineering to request that a legacy or offline license be sent to the customer. 
+  - To open a Support ticket, click [here](https://about.gitlab.com/handbook/support/internal-support/#internal-requests).
+  - To review the Support process, click [here](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html#post-sale-exemptions-support). 
 
 #### Resources
 
