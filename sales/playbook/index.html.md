@@ -71,7 +71,7 @@ If you don’t have access to the items below and believe you should, open an [A
 **Executing your strategy**
 - [GitLab Version Compare Tool](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=features)is a tool that allows you to populate a comparison all the additional features and functions from one version of GitLab to another (or the current release). Use it with your customers to understand what product they purchased previously, and what the value is now to support your proposals and pricing. Using this tool a quarter before the renewal or whenever you start contract discussions can be helpful in showing all the work we continue to build into the product.
 - [Gainsight](https://about.gitlab.com/handbook/sales/gainsight/) is used for documenting account details, timelines, and objectives
-- [ZenDesk](https://about.gitlab.com/handbook/support/workflows/zendesk-overview.html) is our ticketing system. Access is usually provided during onboarding. Ask your manager if you need access to ZenDesk.
+- [ZenDesk](https://about.gitlab.com/handbook/support/workflows/zendesk_organizations_and_users_overview.html) is our ticketing system. Access is usually provided during onboarding. Ask your manager if you need access to ZenDesk.
 - [LucidChart](https://apis.google.com/additnow/l?applicationid=7081045131&__ls=ogb&__lu=https%3A%2F%2Flucid.app%2Fusers%2FgoogleLogin%3Fdomain%3Dgitlab.com) for creating diagrams and org charts for account plans.
 - [Chorus](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/) is used to view recordings of GitLab sales calls and demos.
 
