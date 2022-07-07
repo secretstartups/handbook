@@ -24,15 +24,15 @@ title: "Marketing Finance"
  
 | Roll Up | Department | Name |
 | -------- | ---- | -------- |
-| Corporate Marketing | Awareness | @rcallam |
-| Corporate Marketing | Brand Design | @rcallam |
-| Corporate Marketing | Corporate Events | @rcallam |
-| Corporate Marketing | Brand Campaigns | @rcallam |
-| Corporate Marketing | Communication | @rcallam |
-| Corporate Marketing | Community Relations | @rcallam |
-| Corporate Marketing | Content | @rcallam |
-| Corporate Marketing | Search Marketing | @rcallam |
-| Product Marketing | Product Marketing | @rcallam |
+| Corporate Marketing | Awareness | @eaminzada |
+| Corporate Marketing | Brand Design | @eaminzada |
+| Corporate Marketing | Corporate Events | @eaminzada |
+| Corporate Marketing | Brand Campaigns | @eaminzada |
+| Corporate Marketing | Communication | @eaminzada |
+| Corporate Marketing | Community Relations | @eaminzada |
+| Corporate Marketing | Content | @eaminzada |
+| Corporate Marketing | Search Marketing | @eaminzada |
+| Product Marketing | Product Marketing | @eaminzada |
 | Revenue Marketing | Sales Development| @rcallam |
 | Marketing Strategy and Ops | Digital Experience | @rcallam |
 | Marketing Strategy and Ops | Marketing Ops | @rcallam |
