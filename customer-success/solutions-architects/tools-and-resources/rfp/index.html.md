@@ -7,11 +7,9 @@ description: >-
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices/) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays/) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources/) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development/) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations/) - [**Processes**](/handbook/customer-success/solutions-architects/processes/)
 
 ## RFI/RFP Process
-{:.no_toc}
+{:.no_toc} 
 
-Solutions Architects have a big role in responding to RFIs and RFPs where there are considerable number of technical asks and solutions requirements.  
-
-Responding to a Request for Information (RFI) or a Request for Proposal (RFP), referred as RFx is part of the standard process within Public Sector but can also happen with enterprise customers. 
+A Request for Information (RFI) or a Request for Proposal (RFP), is commonly referred to as an RFx. It is part of the standard sales process within Public Sector, but can also happen with enterprise customers. The Field Security Team has created a process to assist and simplify the RFP process for GitLab field teams which you can view on the [RFP Process Handbook page](https://about.gitlab.com/handbook/engineering/security/security-assurance/field-security/Field-Security-RFP.html). Use the guidance below if you need help responding to an RFx outside of this proccess.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -21,7 +19,7 @@ Responding to a Request for Information (RFI) or a Request for Proposal (RFP), r
 
 ### Best Practices for Writing RFx Responses
 
-RFx is a general category that includes Request for Information, Request for Proposal, Request for Quote, etc. RFIs are generally less structured than RFPs. While RFQs rarely need technical write ups, occasionally technical input is required, especially if the RFx requests an `or alike` product.
+RFx is a general category that includes Request for Information, Request for Proposal, Request for Quote, etc. RFIs are generally less structured than RFPs. While RFQs rarely need technical write ups, occasionally technical input is required, especially if the RFx requests an `or alike` product. Solutions Architects can have a big role in responding to RFIs and RFPs where there are a considerable number of technical asks and solutions requirements. 
 
 ### Evaluating RFIs and RFPs for Response
 
