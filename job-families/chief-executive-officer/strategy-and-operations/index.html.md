@@ -53,6 +53,7 @@ The Staff Strategy and Operations is a [grade 8](/handbook/total-rewards/compens
 - Support the creation of prepared materials (documents, decks) for the Chief of Staff to the CEO and the CEO
 - Support special projects that are urgent and important
 - Execute on projects and ongoing assignments for the Chief of Staff to the CEO
+- Readiness to partner directly with the CEO, CoST to the CEO, or other Strategy and Operations Team members on high priority initiatives
 - Determine long-term owners outside of the Strategy and Operations team for initiatives and asks that are best served through a functional home. Partner with future owners to ensure that ownership and responsibilities are understood and agreed upon
 - Demonstrate GitLab values in all work
 
@@ -133,9 +134,12 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 ##### Strategy and Operations (Data)
 
 - Extends that of the Staff or Principal level Strategy and Operations 
-- Experience stepping into a new data source and preparing new analyses
-- A familiarity with proxy metrics where actual measurements aren’t available
-- Ability to guide conversations related to strategic choices of performance indicators
+- Hands on experience in a data analytics/engineering/science role
+- Experience working with senior leadership to define and measure KPIs and other operating metrics
+- Familiarity with proxy metrics where actual measurements aren’t available
+- Deep understanding of SQL, relational databases (we use Snowflake)
+- Familiarity with system observability data (logs, metrics, traces) is preferred (we use Elastic Stack)
+- Familiarity with data management policies and regulations (GDPR, SOX, PCI) is preferred
 - Ability to take meetings with and work synchronously with folks in Pacific Standard Time
 
 ##### Strategy and Operations (Operations)
@@ -153,7 +157,6 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Extends that of the Staff, Principal, or Director level Strategy and Operations 
 - Deeply understands and is able to synthesize the market, competition, and upcoming solutions in the DevOps space 
 - Proven ability to manage cross-functional projects. Need to not only excel in operating at a strategic level but also need to understand when to dive deep to keep the project on track 
-- Readiness to partner directly with the CEO, CoST to the CEO, or other senior leaders on high priority initiaties
 - Technical background and clear understanding of developer products. Familiarity with Git, Continuous Integration, Containers, Kubernetes, and Project Management software a plus
 - Ability to find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups
 - Ability to take meetings with and work synchronously with folks in Pacific Standard Time
