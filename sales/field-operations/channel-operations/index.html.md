@@ -361,7 +361,7 @@ To process a Partner Sourced Deal Registration for a resale opportunity, follow 
    - If a distributor is involved, choose the distributor in the field that appears. If no distributor is involved, this field can be left blank.
    - Both the registration record and the opportunity record will be updated with the approval information.
 7. If you have created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the name of the sales team member who owns the customer account.
-8. For quotes going through distribution, please chatter @Partner Help Desk with all the information for quote creation.
+8. For quotes going through distribution, please chatter @PartnerOperations with all the information for quote creation.
   - The deal registration form is not a quoting tool and will not have all the information needed to create the quote. You must get this information from the partner or elsewhere before requesting the quote.
  
 ### Partner Sourced Deal Registration: MSP Opportunities
@@ -390,7 +390,7 @@ To process a Partner Sourced Deal Registration for an MSP opportunity, follow th
 8. **When creating a quote for an MSP opportunity, select the MSP quote template**
   - **Invoice owner**: The MSP Partner (same as DR-Partner referenced above).
   - **Special Terms and Notes**: Name of the End-user Customer (the MSP owns the licenses on behalf of).
-9. For quotes going through distribution, please chatter @Partner Help Desk with all the information for quote creation.  
+9. For quotes going through distribution, please chatter @PartnerOperations with all the information for quote creation.  
 
 _The deal registration form is not a quoting tool and will not have all the information needed to create the quote. You must get this information from the partner or elsewhere before requesting the quote._
  
@@ -414,7 +414,7 @@ To process a Partner Sourced Deal Registration for a referral opportunity, follo
    - If a distributor is involved, choose the distributor in the field that appears. If no distributor is involved, this field can be left blank.
 7. Both the registration record and the opportunity record will be updated with the approval information.
 8. If you have created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the name of the sales team member who owns the customer account.
-9. For quotes going through distribution, please chatter @Partner Help Desk with all the information for quote creation.  
+9. For quotes going through distribution, please chatter @PartnerOperations with all the information for quote creation.  
 
 _The deal registration form is not a quoting tool and will not have all the information needed to create the quote. You must get this information from the partner or elsewhere before requesting the quote._
  
