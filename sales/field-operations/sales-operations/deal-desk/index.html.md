@@ -427,6 +427,46 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 
 **Note:** If you cannot view the video, make sure you are logged in to GitLab Unfiltered. You can [learn more about how to log in or request access to GitLab Unfiltered here!](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) 
 
+#### Quoting Channel Deals
+
+##### Standard Partner/Reseller Quotes
+- **Quote Template** field needs to be manually selected: Authorized Reseller Template
+- Sold to and Bill to contacts are linked to the end-customer account (this person will receive the license email)
+- **Invoice Owner** field = Partner`s billing account 
+- **Invoice Owner Contact** field = Partner`s contact (this person will receive the invoice)
+- **Resale Partner** field = Partner`s SFDC account
+- Distributor field = Blank
+
+##### Distributor Quotes
+- Quote Template fields needs to be manually selected: Distributor Quote Template
+- Sold to and Bill to contacts are linked to the end-customer account (this person will receive the license email)
+- Invoice Owner field = Distributor`s billing account 
+- Invoice Owner Contact field = Distributor`s contact (this person will receive the invoice)
+- Resale Partner field = Reseller`s SFDC account
+- Distributor field = Distributor`s SFDC account
+
+##### MSP Quotes
+A Managed Service Provider (MSP) purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer, the end user, is the one using the licenses.
+
+MSP Opportunity Details:
+* The MSP opportunities are linked to the MSP (partner) account (not to the end customer account)
+* The MSP opps should be owned by the sales reps
+* The MSP new business opp is created by Channel Managers/automatically -if the end customer has an existing subscription either directly or via partner, the related renewal opp will need to be set to Closed Lost by the opp owner on the customer account
+* The MSP opp should always contain the word "MSP" and the name of the end-customer
+
+MSP Quote Creation Steps: 
+* New MSP sub: A new subscriptions quote object needs to be created by the rep who manages the MSP opp
+* Add-on to existing MSP sub: first the correct subscription should be located on the SFDC account based on the start and end dates of the existing booked opp containing the same customer account name.
+* Renewal to existing MSP sub: same as above, first the related subscription needs to be identified on the MSP partner account before creating the quote
+* MSP quote template needs to be selected on the quote object manually 
+* The Sold to and Bill to contact fields on the quote should reflect the MSP partner contacts
+* Invoice Owner, Resale Partner and Invoice Owner Contact fields should also reflect the MSP partner data 
+* Distributor field should remain blank)
+* In the special notes section the end customer name should be reflected
+
+More details on MSP deal reg can be found in the [Channel Ops handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities)
+
+
 #### Quoting Annual True-Ups
 
 In accordance with Section 6 of the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#6-payment-of-fees), customers may be required to pay for Overage Users upon the expiration of a Subscription Term in order to renew the Software. 
