@@ -103,7 +103,7 @@ Check out a quick overview of the pilot program and how to use the template belo
   <iframe src="https://www.youtube.com/embed/Xn_P3CWJWZM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-### Part I: Field Test the CDF 
+### Part I: Field Test the CDF - Completed
 
 From FY22-Q3 to FY22-Q4, select Product teammates and managers engaged in a pilot of this CDF. 
 
@@ -116,12 +116,31 @@ The process followed was:
 1. Close pilot 
 1. Read out results of pilot and iterate on CDF 
 
-### Part II: Apply changes and iterate 
+### Part II: Apply changes and iterate - Completed 
 
 1. Conduct training on setting and measuring outcomes with pilot members 
 1. Distribute new CDF and template 
 1. Solicit feedback and interest in second CDF pilot 
 1. Close feedback and pilot 
 1. Read out results 
-1. Define roll out steps 
+  1. Feedback: We completed the pilot and recieved feedback that the KPIs were too prescriptive and duplicative. We also learned that people want to be able to use Google Docs instead of Google Sheets. 
+  1. Actions taken: We have reduced the tracks from 5 to 4 and de-duplicated KPIs. We changed the CDF focus to be on "Outcomes" versus "KPIs". We have created a new template that will be rolled out in FY23-Q3, which is a [Google Doc](https://docs.google.com/document/d/1MT_Xks-oF-D-2R_N380h4Phg_9s7BbO0U8k0eP-u8EI/edit?usp=sharing).
+1. Define roll out steps via [product#4266](https://gitlab.com/gitlab-com/Product/-/issues/4266). 
+
+### Part III: Rollout for Opt-In
+
+1. Record Template Overview 
+1. Schedule AMAs for new template 
+1. Distribute new CDF and template for Opt-in in FY23-Q3 
+1. Solicit feedback at end of FY23-Q3
+1. Close feedback 
+1. Incorporate any changes to template, wording in handbook, and prepare for formal roll out
+
+### Part IV: Rollout for full adoption
+
+1. Remove [Current CDF Handbook Page](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) on 2022-10-24
+1. Update [New CDF Page](https://about.gitlab.com/handbook/product/product-manager-role/FY22-product-cdf/) to be "Product CDF" on 2022-10-24
+1. Annouce in #product a link to the new CDF page and updated template for use in FY23-Q4 
+1. Schedule AMAs  
+1. Remove `## Pilot Program for New CDF` from [New CDF Page](https://about.gitlab.com/handbook/product/product-manager-role/FY22-product-cdf/) on 2022-11-01 
 
