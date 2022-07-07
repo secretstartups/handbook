@@ -35,6 +35,8 @@ We are big on relationship-buiding. We highly value intentionally creating time 
 
 ## Why is informal communication so important in a remote work setting?
 
+Informal communication builds an [informal substructure of trust](/handbook/leadership/building-trust/). This trust helps people accept decisions. That acceptance makes [successful execution of decision](/handbook/mecc/executing-decisions/) more likely.
+
 All-remote workers who are all-work all the time risk [loneliness](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/) or [burnout](/company/culture/all-remote/mental-health/). One of the best ways to combat loneliness and burnout are through relationship-building by prioritizing regular social interactions via informal communication throughout the workday, week, and month. 
 
 ## Informal communication advantages and disadvantages
