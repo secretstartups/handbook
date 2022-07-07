@@ -93,7 +93,7 @@ Extends the Senior Technical Writer responsibilities in complexity and scope.
 * **Mentoring**: Mentor other technical writers and team members about suggesting and balancing priorities, industry best practices, and other process knowledge.
 
 ### Principal Technical Writer
-The Principal Technical Writer reports to the Senior Manager, Technical Writing.
+The Principal Technical Writer reports to the Director, Technical Writing.
 
 #### Principal Technical Writer Job Grade
 The Principal Technical Writer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). The Principal Technical Writer has extensive experience in a Staff-level role.
