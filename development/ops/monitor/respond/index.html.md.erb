@@ -241,6 +241,20 @@ Advantages of keeping most MR reviews inside the Monitor Stage include:
 
 * Quicker reviews because the reviewers hopefully already have the context and don't need additional research to figure out how the MR is supposed to work.
 * Knowledge sharing among the engineers in the Monitor Stage. There is a lot of overlap between the groups in the stage and this effort will help engineers maintain context and consistency.
+* Design reviews currently follow a [different process](https://about.gitlab.com/handbook/engineering/ux/product-designer/mr-reviews/#how-to-assign-mr-reviews). For design reviews, follow the "Reviewer roulette" recommendation (will only be shown if the MR is non-draft and has a ~UX label applied), and ensure you provide context for how to set up the feature they will be testing. For example, for testing alerts:
+
+```
+<!---
+1. Navigate to Settings > Monitor
+1. Expand the Alert section, and click the button to "Enable a new integration"
+1. Select "HTTP endpoint" in the integration type dropdown. Add an integration name, turn the toggle to "active", and click to "Save the integration"
+1. Once the integration is added, click on the settings icon button in the integration table
+1. Click on the "Send test alert" tab
+1. Enter the sample payload shown below, and click send.
+1. Navigate to Monitor > Alerts, where you will see the new alert appear.
+-->
+{  "title": "Gitaly latency is too high",  "description": "https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/gitaly/gitaly-latency.md",  "service": "service not affected",  "monitoring_tool": "GitLab scripts",  "severity": "high", "host": "fe-2" }
+```
 
 ### Preparing UX designs for engineering
 
