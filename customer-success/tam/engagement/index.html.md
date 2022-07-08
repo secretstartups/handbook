@@ -171,7 +171,7 @@ The following parameters are considered when determining customer prioritization
 | **Open tier upgrade in the next 3 months**                                                         | Upgrade opportunity is open in Salesforce and actively being discussed with the customer            | No open opportunity in Salesforce, and/or no active upgrade discussion with the customer                         |
 | **Contraction or Churn risk**                                    | Account in Triage process                                    | No contraction or churn risk identified                                      |
 | **Onboarding**                                    | Within first 60 days of onboarding                                    | Not in onboarding phase                                      |
-| **ARR limit**                                    | Within ARR limits for P1                                    | Not within ARR limits for P1 phase                                      |
+| **ARR limit**                                    | [Within ARR limits for P1](https://internal-handbook.gitlab.io/handbook/customer-success/tam/)                                    | Not within ARR limits for P1 phase                                      |
 
 ##### Prioritization model
 
