@@ -3,6 +3,12 @@ layout: job_family_page
 title: Strategy and Operations
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 The Strategy and Operations team are GitLab's internal strategy consultants who move from problem to problem in different functional areas. This team also plays an operational role in helping to support key initiatives while supporting the Chief of Staff to the CEO and CEO. 
 
 ## Levels
@@ -140,7 +146,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Deep understanding of SQL, relational databases (we use Snowflake)
 - Familiarity with system observability data (logs, metrics, traces) is preferred (we use Elastic Stack)
 - Familiarity with data management policies and regulations (GDPR, SOX, PCI) is preferred
-- Ability to take meetings with and work synchronously with folks in Pacific Standard Time
+- Ability to take meetings with and work synchronously with folks in Pacific Time
 
 ##### Strategy and Operations (Operations)
 
@@ -150,7 +156,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Track record of moving key initiatives from idea to delivery
 - Experience in setting goals and driving toward quantifiable results
 - Ability to operate [iteratively](/handbook/values/#iteration)
-- Ability to take meetings with and work synchronously with folks in Pacific Standard Time
+- Ability to take meetings with and work synchronously with folks in Pacific Time
 
 ##### Strategy and Operations (Technical)
 
@@ -159,7 +165,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Proven ability to manage cross-functional projects. Need to not only excel in operating at a strategic level but also need to understand when to dive deep to keep the project on track 
 - Technical background and clear understanding of developer products. Familiarity with Git, Continuous Integration, Containers, Kubernetes, and Project Management software a plus
 - Ability to find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups
-- Ability to take meetings with and work synchronously with folks in Pacific Standard Time
+- Ability to take meetings with and work synchronously with folks in Pacific Time
 
 ##### Strategy and Operations (Workplace)
 
