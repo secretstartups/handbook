@@ -691,6 +691,12 @@ To use Find a Time:
 The GitLab Availability Calendar has been deprecated to allow for GitLab to scale effectively.
 We have created [tools and tips for managing your time off](/handbook/paid-time-off/).
 
+#### Setting Working Hours
+
+To help other team members to schedule meetings with you, you can set your normal [working hours in Google Calendar](https://support.google.com/calendar?p=working_location). The preferred times will show up when someone tries to schedule a meeting with you.
+
+To set your working hours, go to Settings -> General -> Working Hours and Location.
+
 #### GitLab Team Meetings Calendar
 
 The GitLab Team Meetings Calendar is available to all team members and can be found in your calendars list after it's added. To add the GitLab Team Meetings Calendar to your list of calendars:
