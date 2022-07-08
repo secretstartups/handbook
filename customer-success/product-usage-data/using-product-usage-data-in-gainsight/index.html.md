@@ -21,14 +21,16 @@ To guide users in how to use the customer's product usage data within Gainsight,
 
 For a richer explanation of the purpose and intended outcomes, see the [Product Usage Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/) page for more information.
 
-## Using Product Usage Data in Gainsight 
+For the overall 3-year vision, see [Product Usage Data Roadmap](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.p) (internal GitLab document). 
+
+## Videos
 
 For a high level overview (7 minutes), see `Using Product Usage Data in Gainsight - Introduction` video.
 
 - [Using Product Usage Data in Gainsight - Introduction](https://youtu.be/bny-SoH-MNc)
-- [Health Measures and Data Quality](https://www.youtube.com/watch?v=XQCGKL4XF_o)
+- [What is Product Usage Reporting and Health Scoring and How to Find it in Gainsight](https://www.youtube.com/watch?v=H6l3_AmQif8)
+- [How to Find License Utilization and What it Means in Gainsight](https://www.youtube.com/watch?v=Mezt6knBxI0)
 
-For the overall 3-year vision, see [Product Usage Data Roadmap](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.p) (internal GitLab document). 
 
 ## Quick Links
 
