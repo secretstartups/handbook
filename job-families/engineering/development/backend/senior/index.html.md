@@ -136,7 +136,7 @@ Runner engineers are primarily responsible for the [GitLab-Runner](https://gitla
 
 ### Protect
 
-Focus on security protection features for GitLab (including container security, container scanning, policy management, network security, and host security). This role will report to and collaborate directly with the Protect Engineering Manager.
+Focus on security protection features for GitLab (including container security, container scanning, and policy management). This role will report to and collaborate directly with the Protect Engineering Manager.
 
 #### Requirements
 * Strong engineer with Go and Ruby experience.

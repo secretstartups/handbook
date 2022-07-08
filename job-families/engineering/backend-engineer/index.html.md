@@ -314,7 +314,7 @@ the Container Registry and is responsible for items listed under [Package produc
 
 ### Protect
 
-Focus on security protection features for GitLab (including container security, container scanning, policy management, network security, and host security). This role will report to and collaborate directly with the Protect Engineering Manager.
+Focus on security protection features for GitLab (including container security, container scanning, and policy management). This role will report to and collaborate directly with the Protect Engineering Manager.
 
 #### Requirements
 * Strong engineer with Go and Ruby experience.
