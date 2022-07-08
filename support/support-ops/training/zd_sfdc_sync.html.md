@@ -61,31 +61,38 @@ SELECT
   Account.Technical_Account_Manager_Name__c,
   Account.Support_Level__c,
   Account.Manual_Support_Upgrade__c,
-  Account.Region__c,
+  Account.Account_Demographics_Geo__c,
   Account.GS_Health_Score_Color__c,
   Account.Next_Renewal_Date__c,
+  Account.Restricted_Account__c,
   (SELECT
      Current_Subscription_Status__c,
      Current_Term_End_Date__c,
      Current_Term_Start_Date__c,
+     Entitled_Seats__c,
+     Product_Tier_Name_Short__c,
      Plan_Name__c
    FROM Customer_Subscriptions__r
    WHERE Current_Subscription_Status__c = 'Active'),
-   (SELECT
-      Zuora__Status__c,
-      Zuora__SubscriptionEndDate__c	,
-      Zuora__SubscriptionStartDate__c,
-      Support_Level__c,
-      Zuora__OpportunityName__c,
-      Zuora__SubscriptionNumber__c
-    FROM Zuora__Subscriptions__r
-    WHERE Zuora__Status__c = 'Active')
+  (SELECT
+     Name,
+     Zuora__Status__c,
+     Zuora__SubscriptionEndDate__c	,
+     Zuora__SubscriptionStartDate__c,
+     Support_Level__c,
+     Zuora__OpportunityName__c,
+     Zuora__SubscriptionNumber__c
+   FROM Zuora__Subscriptions__r
+   WHERE Zuora__Status__c = 'Active')
 FROM Account
 WHERE
-  Account.Type IN ('Customer', 'Former Customer') OR
-  (Account.Type IN ('Prospect', 'Prospect - CE User') AND
-   Account.Manual_Support_Upgrade__c = true) OR
-  Account.Account_ID_18__c = '0014M00001sGJ8xQAG'
+  (Account.Type IN ('Customer', 'Former Customer') OR
+   Account.Account_ID_18__c = '0014M00001sGJ8xQAG') OR
+  (Account.Type = 'Partner' AND
+   Account.Partners_Partner_Status__c IN ('Authorized', 'Former') AND
+   Account.Partners_Partner_Type__c IN ('Alliance', 'Channel') AND
+   Account.Partner_Track__c IN ('Open', 'Select', 'Technology')
+  )
 </code></pre></div>
 </details>
 
@@ -150,33 +157,6 @@ WHERE
   (Account.Support_Level__c IN ('Premium', 'Ultimate') OR
    (Account.Support_Level__c = 'Basic' AND
     Account.Number_of_Licenses_This_Account__c >= 2000))
-</code></pre></div>
-</details>
-
-<details>
-<summary>Partners SFDC query</summary>
-<div><pre><code>
-SELECT
-  Account.Account_ID_18__c,
-  Account.Name,
-  Account.CARR_This_Account__c,
-  Account.Ultimate_Parent_Sales_Segment_Employees__c,
-  Account.Account_Owner_Calc__c,
-  Account.Number_of_Licenses_This_Account__c,
-  Account.Type,
-  Account.Technical_Account_Manager_Name__c,
-  Account.Support_Level__c,
-  Account.Manual_Support_Upgrade__c,
-  Account.Region__c,
-  Account.GS_Health_Score_Color__c,
-  Account.Next_Renewal_Date__c,
-  Account.Partners_Partner_Status__c,
-  Account.Partner_Track__c
-FROM Account
-WHERE
-  Type = 'Partner' AND
-  Partners_Partner_Status__c IN ('Authorized', 'Former') AND
-  Partner_Track__c IN ('Open', 'Select', 'Technology')
 </code></pre></div>
 </details>
 
@@ -398,7 +378,5 @@ After adding it in the Support Week in Review, you then want to cross-link
 
 * [ZD<>SFDC Sync Global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-global)
 * [ZD<>SFDC Sync US Federal](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zd-sfdc-sync-us-federal)
-* [ZD<>SFDC Sync Partners](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-partners)
 * [ZD Main<>SFDC Sync Video](https://youtu.be/kzZbHHUCotI)
-* [ZD Partner<>SFDC Sync Video](https://youtu.be/9WRauzbjBkg)
 * [ZD US Federal<>SFDC Sync Videp](https://youtu.be/Lv5MlHTekBc)
