@@ -130,6 +130,58 @@ Please follow the best practice process and use the [trip note template](https:/
 
 For a complete list of our Give Back Projects and other Onboarding assignments our team is working on, please click the private link [here](https://docs.google.com/spreadsheets/d/1_G06Zj8ZWXrfrH75t3BEa8NX3wi6vjQCohFchnPpNUI/edit#gid=0).
 
+### Paid Time Off (PTO) and Results
+We have found following steps beneficial to make the process of time off easy for Sales and keep business continuity.  This does not serve as a replacement to the company wide [Guide to Paid Time Off](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) or add process for [Sick Time Policy](https://about.gitlab.com/handbook/paid-time-off/#sick-time---taking-and-reporting). This is the expanded approach to preparing yourself and the team for time off planned specific to the group.
+
+- [ ] Inform Manager as in the GitLab team members guide to time off
+- [ ] Ask a regional team member for coverage and share planned time off 
+  - Select someone ideally in similar role and who has capacity to cover while OOO
+  - It may be helpful to create a shared doc of action items, and follow reference from the handbook
+  - There may be cases where double coverage or support from your manager is needed if no one else is available
+  - Note: For [Family & Friends Day](https://about.gitlab.com/company/family-and-friends-day/), there is no need for backup coverage as it is a publicly visible shutdown for GitLab. Please message in your below OOO auto-reply as such including the handbook page, and contact details for technical support 
+- [ ] Submit time-off in PTO Roots in Slack, and add your chosen team member who is covering for you as the assignee role for all tasks, you can label it something like “immediate and general”
+- [ ] Create calendar invite with title:
+  - Ex: “First and Last Name OOO - (First and Last Name) is Covering”. Optional invite to your manager and person covering. 
+- [ ] Block the morning of your return date on your calendar so you can return to work with catch-up time for things like:
+  - Re-submitting forecast in Clari
+  - Ranking new accounts that came through
+  - Respond to email, support tickets, via Required 7
+- [ ] Optionally schedule time on the return day to sync with the individual covering for you 
+
+#### Role responsibilities to prepare being out of office
+- [ ] Any quotes that are currently out to clients, resend via docusign with the person covering for you cc’d on them. Intro AE covering to client in case either have questions via email
+- [ ] Run [this report](https://gitlab.my.salesforce.com/00O4M000004odxl), edit the `dates` field in the top right corner to be the dates you are OOO, then select ‘run report’. Make sure ZERO next steps are falling on the dates you are out and cover anything not urgent before PTO. This will ensure you leave you without a huge workload for your backup or you in return. 
+  - If you have an urgent next step scheduled, reach out before vacation, inform the client you will be OOO and get either the person covering for you or your manager included by `cc:` on the email w/ intro
+ - If you have less urgent next steps approaching, assess if they should be handled before or after vacation and then edit the next steps date based on your assessment
+- [ ] Set your email OOO auto-reply including the email of the person covering for you. If your manager is available the days you are out you can add them as well in the email message and any other urgent correspondence 
+
+On the day before time off:
+- [ ] Ensure all required 7 reports are up to date
+- [ ] Submit forecast in Clari
+- [ ] Options on phone notifications related to work:
+  - Encouraged: Delete apps associated with work such as email and slack 
+  - Recommended if it is difficult to get these apps back on your phone: Silence notifications on apps associated with work 
+  - Leave your computer closed and have a blast! 
+
+Area Sales Managers have additional steps to consider before leaving for time off:
+- [ ] Set expectations on coverage for 1:1s and team meetings
+- [ ] Updating quote approval routing in SFDC to the person covering for you. Navigate to you name dropdown - My Settings - Personal - Approver Settings.  Search for the person covering next to Delegated Approver, confirm and select Save
+- [ ] In Expensify, set Vacation Delegate in Settings - Account Details
+- [ ] Submit forecast
+  - [ ] If planned time off exceeds the 25 consecutive days as outlined in the guide, request temporary ASM coverage for forecasting in Clari by submitting a request in the [Sales Operations](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues) project. 
+
+#### Role responsibilities of covering for a team member as backup
+- Respond within 24 hours to the absent AE’s customers if they contact you.
+- Address new Required 7 items that appear on your team’s Required 7 dashboard for the absent AE. 
+- Take any urgent customer calls or BDR/SDR calls that have been set up. If you are not able to attend for any reason, you are expected to tell your manager so that appropriate backup can be found. Customer or prospect calls on the calendar should not be delayed or rescheduled.
+- Work on and close deals in the absent AE’s territory while they are out.
+
+Backup AEs are not required to: 
+- Cover tasks unrelated to the specific AE role. For example, if the absent AE is a member of a Team Member Resource Group (TMRG), you are not expected to attend TMRG meetings.
+- Outbound campaigns to the absent AE’s customers (you can if you want to, of course).
+- Agree to be a backup if you do not have time to do so, or cover multiple team members. There are other AEs who can help.
+- Forecast on behalf of the absent AE. Only update their opportunities as needed. 
+
 ## Required 7
 
 New team members should familiarize themselves with [The Required 7](/handbook/sales/commercial/enablement/required7/). These are the 7 tactical skills required to be an excellent Commercial Sales Account Executive:
