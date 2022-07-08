@@ -33,7 +33,7 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | Person | Role |
 | ------ | ------ |
 | [Ray Leihe](https://gitlab.com/Leihe268) | VP, Marketing Strategy and Platforms|
-| [David Brown](https://gitlab.com/davidbrown1) | [Director, Marketing Operations](https://about.gitlab.com/job-families/marketing/director-marketing-operations/) | |
+| [David Brown](https://gitlab.com/davidbrown1) | [Director, Marketing Operations](https://about.gitlab.com/job-families/marketing/director-marketing-operations/) |
 | [Amy Waller](https://gitlab.com/amy.waller) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
 | [Beth Peterson](https://gitlab.com/bethpeterson) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
 | [Nikki Roth](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
@@ -44,6 +44,7 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | [Robert Rosu](https://gitlab.com/RobRosu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
 | [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
 | [Evan Mathis](https://gitlab.com/emathis) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
+| [TBH](https://boards.greenhouse.io/gitlab/jobs/6258102002) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
 
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 
@@ -503,7 +504,6 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 | Unqualified | Contact information is not now or ever valid in future; Spam form fill-out |
 | Nurture | Record is not ready for our services or buying conversation now, possibly later |
 | Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means |
-| Web Portal Purchase | (Temporary, to be merged by RingLead) Used when lead/contact completed a purchase through self-serve channel & duplicate record exists |
 
 One of the following must occur to have a lead move from `Raw` to `Inquiry`
 1. Become a member of a marketing program (except no-action/default statuses, nor email)

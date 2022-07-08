@@ -173,7 +173,7 @@ This is an event that we have created, own registration and arrange speaker/venu
 
 #### Partner - MDF
 
-This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. See more details [here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-only-campaigns---mdf-funded).
+This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. See more details [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
 
 **Bizible:** This is tracked as an _offline_ channel 
 
@@ -182,6 +182,20 @@ This is for an activity that our partner is executing utilizing MDF Funds. We tr
 | Member | default starting position for all records |  |
 | Sales Nominated | status for when leads have been sales nominated for the program |  |
 | Responded | Attended event or campaign |Yes|
+
+#### Prospecting
+
+This program type is specific to non-event related list uploads, such as partner lists or data upload centric lists. 
+
+**Bizible:** This is not tracked on Bizible.
+
+| Member Status | Definition | Success |
+| ------------- | ---------- | ------- |
+| No Action | default starting position for all records |  |
+| Uploaded | Status lead is normally transitioned to upon successful upload |  |
+| Do Not Use (Responded) | Not to be used. Included because Marketo requires a `success` step  | Yes  |
+| Member | Indicative of a special member status for this program type. Meaning of "special" is dependent on use case |  |
+
 
 #### Self-Service Virtual Event
 
@@ -273,7 +287,11 @@ Used for campaigns where a third party vendor is organizing one-to-one meetings 
 
 #### Webcast
 
-Any webcast that is hosted and held by GitLab.
+Any webcast that is hosted and held by GitLab. There are a few different groups that run webcasts. Go their specific pages to see additional details on setup.
+- [Campaign webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#campaign-webcasts)
+- [Field Marketing webcasts](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1)
+- [Partner webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#partner-webcasts)
+
 
 **Bizible:** This is tracked as an _online_ Bizible channel.
 
@@ -293,6 +311,7 @@ Any webcast that is hosted and held by GitLab.
 
 An in-person or virtual workshop where the attendees are guided through an agenda of real life use cases within GitLab.
 
+For logistical setup and more information, go [here](https://about.gitlab.com/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops-1).
 **Bizible:** This is tracked as an _offline_ Bizible channel.
 
 | Member Status | Definition | Success |
@@ -365,8 +384,6 @@ If this is to set up a program that involves a channel partner, you must also fo
 
 
 - Executive Roundtables - `Hybrid template`: [YYYYMMDD_ExecutiveRoundtable_Topic_Region_EventType_template](https://app-ab13.marketo.com/#ME6028A1)
-- Owned Event - `Hybrid template`: [YYYYMMDD_OwnedEvent_EventType_Template](https://app-ab13.marketo.com/#ME4722A1)
-    - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector).
 - Speaking Session - `Hybrid template`: [YYYYMMDD_SpeakingSession_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5092A1)
 - Vendor Arranged Meetings (1:1 meetings) - `Hybrid template`: [YYYYMMDD_ArrangedMeetingsVendorName_Region_EventType_template](https://app-ab13.marketo.com/#PG5698A1)
 - Zoom GitLab Hosted Workshops [please follow directions in the workshop set-up section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up):
@@ -385,6 +402,9 @@ If this is to set up a program that involves a channel partner, you must also fo
 - Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
 - Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1) 
 - Surveys - For templates and setup instructions for surveys (both general surveys and SimplyDirect surveys) skip to specific setup details [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc).
+- Owned Event - `In-person`: [YYYYMMDD_OwnedEvent_EventType_Template](https://app-ab13.marketo.com/#ME4722A1)
+- Owned Event - `Virtual - Hopin only`: [WIP:  YYYYMMDD_OwnedEvent_Hopin_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME11445A1) - Do not use, template in progress
+    - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector). 
 
 ##### Webcasts and Self-Service Marketo Templates
 - BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6946A1)
@@ -414,7 +434,7 @@ If this is to set up a program that involves a channel partner, you must also fo
     - You do not need to update the following tokens upon setup:
         - ((my.email header image url}} - This is optional. You will need this if you had custom images created.
         - {{my.ondemandurl}} - This will be entered AFTER the event date. It is the link to the recorded webcast. You will need to come back after the event and update this token.
-- Update the utm_campaign field using the following format: Campaign Tag, with no spaces, capitalization, underscores, or special characters. For Field Marketing - Use the utm that the FMC creates in the epic.
+- Update the utm_campaign field following the process outlined [here](https://about.gitlab.com/handbook/marketing/utm-strategy/#utm-campaign). 
 - **Partner Campaigns** will need to also to update the `{{my.partner name}}` and `{{my.partner crm id}}` for proper routing 
 
 ### Step 4: Activate Marketo smart campaign(s)
@@ -434,6 +454,9 @@ If this is to set up a program that involves a channel partner, you must also fo
      * Click to the `Schedule` tab and click `Activate` 
 * If this is an `Owned Event` follow the below activation instructions:
      * Click the `Campaigns` folder
+     * Select the `01b - Registration` smart campaign
+     * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
+     * Click to the `Schedule` tab and click `Activate`      
      * Select the `02a - Interesting Moments` smart campaign
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the `Schedule` tab and click `Activate`  

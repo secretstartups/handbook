@@ -62,3 +62,17 @@ Please note, you will not be able to access these trainings until you have an ON
 - [ON24 Analytics 101](https://training.on24.com/analytics-101) and [Analytics 102](https://training.on24.com/analytics-102)
 - [ON24 Knowledge Center](https://on24support.force.com/Support/s/knowledge)
 - [ON24 Office Hours](https://training.on24.com/office-hours-webinars?next=%2Foffice-hours-webinars%2F869178) 
+
+## Customizing Your CTA
+
+Each ON24 Console Templates will have a placeholder for a CTA. It is up to the DRI for the webcast to decide what the CTA is. In order to customize the CTA, following these steps:
+
+1. [Log in to ON24](https://wcc.on24.com/webcast/login)
+1. If you have not already, create a copy of the console template you wish to use by clicking the `create copy` icon on the right side of the page
+1. Once you've created the copy, add the details of your webcast in the `Overview` section. Then select `Console Builder` from the left hand menu
+1. Once in the console, click on the `CTA Placeholder` icon from the bottom menu. This icon looks like a pointer finger with signal bars above it. You will see `CTA Placeholder` when you hover over it. 
+1. When the `CTA Placeholder` wdget opens in the console, click on the gear in the right hand corner of the widget window. 
+1. Click on `Attributes`. Update the `Name` field and select/deselect any of the options as needed. 
+1. Click the gear again and select `Configuration`. Update the `Text`, `Button Text`, and `URL`. 
+
+All changes are auto-saved. 

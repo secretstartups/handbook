@@ -350,7 +350,7 @@ The following segmentations that are approved and live.
 [Priority Countries](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1024A1)
 </summary>
 
-Complete list of priority countries as seen [here](https://docs.google.com/spreadsheets/d/1eRrtRPdNSQjtvDrEvPJ_klfqKAatnLIzDjvShXhnSr8/edit#gid=1078123371).
+Complete list of priority countries as found [here](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6648).
 
 - P0
 - P1
