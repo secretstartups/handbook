@@ -23,6 +23,9 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
   - [Enrollment process](https://drive.google.com/file/d/11JmUP7lVhzyqO0QJGfEr4YpYLH7vbMb6/view?usp=sharing)
   - [Unilateral Employer Decision Medical Document](https://drive.google.com/file/d/1qPpQqg9WZsDaF8lxhXIc4tPEt5GbJc8R/view?usp=sharing) for Cost Sharing, Scheme Conditions & Waiver Voucher information
 
+### Enrollment
+ New team members should expect an email from no-reply@axa.fr with instructions on how to enroll in to the Medical Scheme. Team members should expect this email within thier first two weeks from their hire date. Please be sure to action upon the email to complete your enrollment in to the Medical Plan.  
+
 ## Pension
 
 GitLab does not plan to offer pension benefit at this time as team members registered to the France's Social Security Program are also registered with the National Pension Scheme.
