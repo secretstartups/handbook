@@ -29,13 +29,11 @@ If you are working with an Open or Select partner who is not listed in the linke
 ### Scoring
 Leads that are actively being worked by the partner will be excluded from scoring. Once they are no longer being worked by the partner, they will be scored again. More details on the [scoring page](/handbook/marketing/marketing-operations/marketo/#scoring-model). 
 
-# Types of Partner Campaigns
-Each campaign has it's own ROE for lead routing and email practices. Follow the [Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1637023136930/1fd8a497f2500ef8d7f12920d71595d0c412fa91?sender=awaller1257) to find the type of event and the follow up that results from it. 
-
-
+## Partner Accounts
+The account in SFDC must be set to `Vartopia Partner Account: Vartopia Access = Yes` in order to be passed leads. If that field is marked false, a SFDC error will occur when `Partner Account ID` tries to be set. If this error occurs, the lead will not sync from marketo to sfdc, or if they are already existing in SFDC, that field will not be populated.
 ## Passing to Vartopia and Partner Visibility
 In order for the Partner to be able to see and action the lead in Vartopia, the SFDC record must have the following fields updated. Vartopia calls SFDC every hour looking for updates to the SFDC record.
-1. `Partner Account ID` not equal to `NULL` (set my Marketo)
+1. `Partner Account ID` not equal to `NULL` (set by Marketo)
 1. `Prospect Share Status` = `Sending to Partner` (set by LeanData)
 1. `Partner Prospect Status` = `Qualifying` (set by LeanData)
 
@@ -53,16 +51,14 @@ This SFDC field in the partner account MUST be filled in or else the records wil
 When a prospect is ready to be shared with a partner there are 2 fields related to 
 the sharing process. 
 
-The prospect share status governs the sharing of the lead and the receipt of the 
+The `Prospect Share Status` governs the sharing of the lead and the receipt of the 
 lead by the partner. The prospect share status has statuses that are set by both the
 manufacturer and the partner
 
-The partner Prospect Status is updated by the partner and identifies the status of 
-the lead as the partner works it though the sales process.
 
-1. Sending to Partner: This is the initial status set when sharing a lead to a 
+1. **Sending to Partner**: This is the initial status set when sharing a lead to a 
 partner. This status is set by GitLab.
-1. Pending: This is an automated status, set when the lead is synced to the 
+1. **Pending**: This is an automated status, set when the lead is synced to the 
 partner facing system. As part of the sync flow, the system sets the status to 
 pending in both the partner facing system and SFDC. It is visible to both the 
 reseller and the MFG.
@@ -71,9 +67,9 @@ successfully shared.
    b. Meaning in partner facing system: Pending indicates to the reseller 
 they have a new lead shared from the MFG that they now need to 
 accept or reject.
-1. Accepted:    Indicates the reseller has accepted the lead and intends to work 
+1. **Accepted**:    Indicates the reseller has accepted the lead and intends to work 
 the opportunity. This status is automatically updated in SFDC
-1. Rejected:    indicates the reseller has refused the lead. This status is 
+1. **Rejected**:    indicates the reseller has refused the lead. This status is 
 automatically updated in SFDC
 a. *Note: rejecting a prospect immediately removes the prospect from 
 the resellers’ system. They no longer have any visibility to the 
@@ -82,7 +78,7 @@ the record is ready to be assigned to a new reseller. The prospect will
 be in Rejected and Qualifying Status. A new partner can be selected, 
 and the Share Status set back to “Sending to Partner” to reshare the 
 prospect. 
-1. Recall: Indicates the prospect is being recalled by the MFG. This is set by the 
+1. **Recall**: Indicates the prospect is being recalled by the MFG. This is set by the 
 MGF in SFDC. When the system syncs this will remove the prospect from the 
 resellers view. It will also clear out the assignment fields and sync ID making 
 the prospect ready to be shared with a different reseller. 
@@ -90,18 +86,26 @@ a. *Note: There is no alert or notification to a reseller when a prospect is
 recalled.
 
 ### Partner Prospect Status Definitions 
-1. Qualifying:    Indicates the reseller is working on the lead.
+
+The `Partner Prospect Status` is updated by the partner and identifies the status of 
+the lead as the partner works it though the sales process.
+
+1. **Qualifying**:    Indicates the reseller is working on the lead.
 a. *Note: This status is initially set by the MFG when sharing the prospect.
 It is visible to both the MFG and the reseller. The prospect remains in 
 qualifying until updated by the reseller.
-1. Qualified:    Indicates the reseller has engaged the prospect and determined 
+1. **Qualified**:    Indicates the reseller has engaged the prospect and determined 
 there is a valid opportunity. The status is automatically updated in SFDC.
-1. Disqualified:    Indicates the reseller has determined the prospect is not a valid 
+1. **Disqualified**:    Indicates the reseller has determined the prospect is not a valid 
 opportunity. The status is automatically updated in SFDC
-1. Converted to DR:    Indicates the reseller has converted the prospect to a deal 
+1. **Converted to DR**:    Indicates the reseller has converted the prospect to a deal 
 
 ### Partner SLAs
 (WIP - Future state) Partners have 5 business days to accept a lead once they are assigned the lead in Vartopia. After accepting, they then have 10 business days to revise the lead status before the lead is re-routed back to GitLab for follow up.
+
+
+# Types of Partner Campaigns
+Each campaign has it's own ROE for lead routing and email practices. Follow the [Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1637023136930/1fd8a497f2500ef8d7f12920d71595d0c412fa91?sender=awaller1257) to find the type of event and the follow up that results from it.
 
 ## Partner Only Campaigns - MDF funded
 These campaigns are GitLab funded via MDF, but all leads are passed to the partner. We upload these lists into our systems to be able to track pipeline from resulting Deal Registrations in Vartopia. You can find Marketo and SFDC Campaign set up [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
