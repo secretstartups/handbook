@@ -34,7 +34,7 @@ Any member of the AppSec or Federal AppSec team is eligible to perform a securit
 ### Determining who will perform a security review of a JiHu contribution
 
 When the AppSec team is pinged on a JiHu contribution, it will typically be first seen by
-the AppSec engineer on [Triage (mentions and issues) Rotation](./triage-rotation.html). This person should:
+the AppSec engineer on [Triage (mentions and issues) Rotation](/handbook/engineering/security/security-engineering-and-research/application-security/runbooks/triage-rotation.html). This person should:
 
 1. Ping the stable counterpart for the [relevant part of the codebase](/handbook/product/categories/#devops-stages) and ask them to perform the review
     * If the change is small or easy to review, the AppSec engineer on triage can do the review themselves and `@-mention` the stable counterpart for visibility
