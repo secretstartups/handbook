@@ -80,6 +80,8 @@ In addition to reviewing candidates in the Evergreen req, you may also wish to d
 
 ### Step 6. Screening
 
+To speed up scheduling screening calls, integrate Calendly with Greenhouse following [these instructions](https://support.greenhouse.io/hc/en-us/articles/360029359472-Enable-Calendly-integration). To then use this integration, move the candidate to the 'Screening' stage and select "Schedule with Calendly". There will be a template that will automatically populate and you select your Calendly event in the drop down.
+
 1. Schedule screening calls (3-6 per week) 
 1. Tag TA on the candidates Greenhouse profile so they can support with screening calls. and work with TA in case they have capacity to do the screening
 1. [Screening](/handbook/hiring/talent-acquisition-framework/req-overview/#screening). Don't forget to introduce the TA to the prospect at the start of the team interview stage so they can build a relationship with the candidate and ensure a consistent experience.
@@ -90,7 +92,17 @@ In addition to reviewing candidates in the Evergreen req, you may also wish to d
 
 ### Step 8. Schedule interviews
 
-Tag TA on the candidates profile to [Schedule interviews](/handbook/hiring/talent-acquisition-framework/req-overview/#team-interview) so they can manage the candidate throughout the interview stages.
+You have two options to [Schedule interviews](/handbook/hiring/talent-acquisition-framework/req-overview/#team-interview). You can either:
+
+1. Tag TA on the candidates profile and they will organise everything
+2. Start the process yourself. To do this:
+    1. Move the candidate to the _Team Interview_ stage
+    2. Select _Request Availability_ and search for either the "Ruby" or "Golang" technical interview template. This is important as it has specific instructions
+    3. Then select _Email the Team_, choose the _CES Scheduling Request Form_
+    4. In the template, add _- 'Technical Interview - Ruby or Go, Ruby or Go interviewers, 90 minutes'_ under details
+    5. x the _Confirmed_ box to confirm you've requested their availability
+    6. Send the template and tag TA on the candidates profile to introduce themselves to the candidate
+
 
 ### Step 9. Perform interviews
 
