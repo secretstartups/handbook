@@ -42,6 +42,12 @@ The current coverage includes:
    - £25 a year for eye test
 - Virtual GP appointments – [DR@Hand](https://drive.google.com/file/d/1YzkeG0qMLPLi6TEY6mQXqV8xooMQb4_Z/view?usp=sharing)
 
+Please note new joiners are subject to the following moratorium terms: 
+Pre-existing medical treatments for medical issues that have occured in the past 5 years will not be covered until:
+* you’ve been a member for two years in a row; and
+* you’ve had a period of 12 consecutive months since you joined that have been trouble-free from that condition.
+ 
+
 For addtional details regarding coverage please review the [AXA Coverage Summary](https://drive.google.com/file/d/1TMk8xTt6yfzm-wI1X_wMyYfJF3GAgb4k/view?usp=sharing)
 
 Please also note that this is a taxable benefit. The underwriting is on a Moratorium basis, meaning that team members will not have cover for treatment of medical problems they may have had in the five years before joining. Please refer to page 14 in the AXA PPP Brochure for more information.
