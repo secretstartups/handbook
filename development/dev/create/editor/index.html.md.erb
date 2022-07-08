@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: 'Create:Editor Team'
 description: >-
   The Editor Team is part of the Create Stage. We focus on multiple categories:
-  Web IDE, Snippets, Static Site Editor, and Wiki.
+  Remote Development, Web IDE, Content Editor, Source Editor, GitLab Pages, Snippets (deprioritized) and Wiki (deprioritized).
 ---
 
 ## On this page
@@ -14,13 +14,15 @@ description: >-
 
 ## Overview
 
-The Editor Team is part of [Create Stage][hb-create] in the [Dev Sub-department][hb-dev]. We focus on multiple [categories][hb-categories]: `Web IDE`, `Snippets`, `Static Site Editor`, `Content Editor`, `Source Editor`,  and `Wiki`.
+The Editor Team is part of [Create Stage][hb-create] in the [Dev Sub-department][hb-dev]. We focus on multiple [categories][hb-categories]: `Remote Development`, `Web IDE`, `Content Editor`, `Source Editor`, `GitLab Pages`, `Snippets (deprioritized)`, and `Wiki (deprioritized)`.
 
 Abbreviations used on this page:
 
 - **BE** ➡️ Backend
 - **FE** ➡️ Frontend
 - **SSE** ➡️ Static Site Editor
+- **RD** ➡️ Remote Development
+- **Pages** ➡️ [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)
 
 ## 🤴 Team Principles
 
@@ -42,13 +44,13 @@ The following people are permanent members of the Editor Engineering Team:
 
 | Category | DRI |
 | ---- | ------- |
-| Content Editor  | Enrique Alcantara |
-| Snippets | David O'Regan |
-| Wiki | David O'Regan |
+| Content Editor  | Enrique Alcantara, Himanshu Kapoor |
 | Source Editor | Denys Mishunov |
-| Web IDE  | David O'Regan |
-| Pages | Vishal Tak |
-| Static Site Editor | David O'Regan (Soon to be deprecated) |
+| Remote Development | David O'Regan, Vishal Tak, Paul Slaughter |
+| Web IDE  | Paul Slaughter |
+| Pages | Vishal Tak, Kassio Borges |
+| Wiki (deprioritized) | David O'Regan |
+| Snippets (deprioritized) | David O'Regan |
 
 ## ☎️ How to reach us
 
@@ -65,14 +67,13 @@ Following you will find all details how our team operates in all aspects of our 
 
 | Term | Meaning |
 | ---- | ------- |
-| `in context editing` | Transitioning from reading to editing without navigating to a new page |
-| `Web IDE` | A web-based multi-file code editor |
-| `Snippets` | Small, sharable bits of code saved for easy access |
-| `Live Preview` | Preview JavaScript and static sites in real-time in the Web IDE |
-| `Wiki` | Built-in, git-backed knowledge base |
-| `Static Site Editor` | Visual editor for Markdown content hosted in a static site |
 | `Source Editor` | Source Editor is framework-agnostic and can be used in any application, including both Rails and Vue |
 | `Content Editor` | The Content Editor is a UI component that provides a WYSIWYG editing experience for GitLab Flavored Markdown (GLFM) in the GitLab application |
+| `Web IDE` | A web-based multi-file code editor |
+| `Remote Development` | Use a container / remote machine as a full-featured development environment that connects to the GitLab Web IDE |
+| `GitLab Pages` | Publish static websites directly from a repository in GitLab. |
+| `in context editing` | Transitioning from reading to editing without navigating to a new page |
+| `Wiki` | Built-in, git-backed knowledge base |
 
 ### 💱 Changed terms
 
@@ -129,7 +130,7 @@ These are regular meetings where the majority of the team will be participating.
 
 **Design, Product & Engineering Sync**
 
-- **When:** TBU
+- **When:** Every 2nd Thursday in a month.
 - **What:** A meeting allowing to sync the three departments about current and upcoming work.
 
 ### 👟 Iteration
@@ -182,23 +183,21 @@ This is the general label for all things design and validation. For issues that 
 - Design exploration: A separate issue will be created in the [gitlab-design](https://gitlab.com/gitlab-org/gitlab-design) project and linked to the parent issue.
 - Problem/solution validation: A separate issue will be created in the [ux-research](https://gitlab.com/gitlab-org/ux-research) project and linked to the parent issue.
 
-`workflow::planning breakdown`
+`workflow::refinement`
 
 This is the point where EM’s join the efforts, unless requested earlier. For work that requires UI or UX changes, it’s expected that they have gone through the design phase already. More details can be found on this [handbook page][planning-breakdown].
 
-Should a feature require `backend` and `frontend` work that issue will receive its weight based on relevant child issues that are created as part of the breakdown. The labels `frontend-weight::x` and `backend-weight::x` will help keep track of these.
-
-If needed we will create a Technical Discovery issue for features that have a higher level of complexity. A Technical Discovery Issue should produce either an Epic, another Issue, or feedback into the spawning Issue.
+Should a feature require `backend` and `frontend` work that issue will receive its weight based on relevant child issues that are created as part of the breakdown.
 
 **Epic**
 
-If the team determines that multiple issues must be created. An Epic should be created. All of the new issues created including the Technical Discovery issue will be assigned to the Epic. The issues will be displayed on the Epic in order of priority. The issues will include dependencies so that the order the issues must be completed in is transparent. An Epic can be spread over multiple releases to support the GitLab Core Values around Iteration
+If the team determines that multiple issues must be created. An Epic should be created. All of the new issues created including the _Architecture Plan_ issue will be assigned to the Epic. The issues will be displayed on the Epic in order of priority. The issues will include dependencies so that the order the issues must be completed in is transparent. An Epic can be spread over multiple releases to support the GitLab Core Values around Iteration
 
 Consider creating nested epics to create logical structures and don't lose track of delivering value to customers whenever possible.
 
 **Issue**
 
-If only one issue is created, the Technical Discovery proved that a simple solution can be implemented. The traditional Product Workflow should be followed.
+If only one issue is created, the _Architecture Plan_ proved that a simple solution can be implemented. The traditional Product Workflow should be followed.
 
 `workflow::scheduling`
 
@@ -218,12 +217,6 @@ Issues that might be in the planning breakdown phase, but on track for an upcomi
 Should issues be added during the milestone (unexpected work), they will not receive the `~Deliverable` label.
 
 > As Engineer, plan accordingly and communicate changes early.
-
-### 📊 Weekly Status Update
-
-The weekly status update is something that happens asynchronously, by posting a comment on the current milestone's planning issue. The current planning issue is always linked in the Slack Channel description, or the [meeting document][gdoc].
-
-A template for the status update can be [found here](https://gitlab.com/gl-editor/team/-/snippets/2128805#status-update-2020-00-00).
 
 ### 🔖 Triage
 
@@ -314,14 +307,15 @@ Using this formula, we can calculate different capacities per engineer, and this
 
 #### What Weights to use
 
-Do not relate issue weight directly to time (see [GitLab's relevant guide on weighting issues](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#issue-weight)).
+Do not relate issue weight directly to time (see [GitLab's relevant guide on weighting issues](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#issue-weight)). Issue weights are a completely abstract measurement and should describe the weightiness of the issue as it stands by itself ([see relevant guideline][issue-weight-guideline]).
 
-To cultivate engagement from the wider community, do not weigh an issue according to a certain assignee or time estimate. This creates hidden coupling to the weight, which can deter the wider community from reading the weight in a meaningful way. Issue weights are a completely abstract measurement and should describe the weightiness of the issue as it stands by itself ([see relevant guideline][issue-weight-guideline]).
+We on the Editor team weight issues by leveraging the [Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_number).
 
 - Weight 1: Really simple and small (for example, changing copy text or 1-2 lines of CSS). Most of these issues should have a `good for new contributors` and/or `Hackathon - Candidate` label attached.
 - Weight 2: Straightforward, but involves updating actual behavior (for example, fixing and testing a trivial bug).
+- Weight 3: Straightforward, but involves possible discovery or unforseen complexity (for example, fixing and testing a non-trivial bug).
 - Weight 5: Changing the behavior of pre-existing modules, or adding significant new behavior (for example, making the Web IDE left-sidebar collapsible).
-- Weight 9: Large fundamental rewrite and should probably be investigated for a more iterative approach.
+- Weight 8: Large fundamental rewrite and should be investigated via a _Architecture Plan_ and _Iteration Plan_ for a more iterative approach. 
 
 ❗️Any weight going above 5 is usually a warning sign that the work is quite complex, and should probably be broken down into smaller issues.
 
