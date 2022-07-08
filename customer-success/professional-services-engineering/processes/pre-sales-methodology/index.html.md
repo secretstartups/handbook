@@ -83,7 +83,7 @@ TODO: update this with documents and delivery kits that are organized to help th
 
 Typically, once the engagement goes `closed-won` in salesforce, the project coordinator schedules a handoff meeting to discuss resource assignment, schedule, and technical details of discussions that occurred before the sale closed.
 
-Check out the [PS Delivery](/handbook/customer-success/professional-services-engineering/delivery/) methodology to understand the details around pre-sales handoff to the delivery team.
+Check out the PS Delivery methodology to understand the details around pre-sales handoff to the delivery team.
 
 ![](../PS-delivery-workflow.png)
 
