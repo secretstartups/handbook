@@ -84,9 +84,8 @@ canonical_path: "/company/team/structure/working-groups/incident-response-lifecy
 
 | Working Group Role  | Person           | Title                                  |
 |---------------------|------------------|----------------------------------------|
-| Facilitator         | [Anna Liisa Moter](@amoter), [Bistra Lutz](@blutz1)    | Manager Reliability, Manager SIRT |
-| Exec Sponsor        | [Steve Loyd](@sloyd)      | VP Infrastructure         |
-| Member              | [Aaron Blanco](@ablanco3)          | SIRT member                  |
+| Facilitator         | [Anna Liisa Moter](@amoter)| Manager Reliability|
+| Exec Sponsor        | [Steve Loyd](@sloyd)      | VP Infrastructure         |                 |
 | Member              | [Anthony Fappiano](@afappiano)          | Manager Reliability                   |
 | Development Functional Lead | [Dan Croft](@dcroft) | Senior Engineering Manager, Ops |
 | Member              | [Sam Goldstein](@sgoldstein) | Director of Engineering, Ops |
