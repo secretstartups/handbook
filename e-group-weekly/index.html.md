@@ -28,7 +28,7 @@ weeks and may occasionally be rescheduled for another day due to calendar confli
 1. [Executives](/company/team/structure/#executives)
 1. [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/); when not possible, the [Director, Strategy and Operations](/job-families/chief-executive-officer/strategy-and-operations/)
 1. [CEO Shadows](/handbook/ceo/shadow/)
-1. [Executive Business Admin](/handbook//eba/#executive-business-administrator-team) to the CEO (optional)
+1. [Executive Business Admin](/handbook/eba/#executive-business-administrator-team) to the CEO (optional)
 1. Invited participants: folks invited to participate in one or more specific session
    1. The slack channel #e-group-waiting-room is used to ping participants if the start time changes
 
