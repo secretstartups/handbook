@@ -164,7 +164,7 @@ Our dashboards are owned and managed by the Marketing Strategy and Performance t
 
 **Campaign Manager DRI: Shari Rances**
 
-**Launch date: 2022-06-30**
+**Launch date: July 2022**
 
 * [Campaign Brief](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2790#memo-campaign-brief)
 * [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2790#busts_in_silhouette-campaign-core-team)
@@ -181,7 +181,7 @@ The below global integrated campaigns are continally optimized by the Marketing 
 {: #cicd}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Campaign Manager DRI : Eirini Pan (interim until Jenny T backfill hired)**
+**Campaign Manager DRI : Agnes Oetama (interim until Jenny T backfill hired)**
 
 **Launched: 2020-04-27 and continually optimized**
 
@@ -224,7 +224,7 @@ The below global integrated campaigns are continally optimized by the Marketing 
 {: #devsecops-use-case}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Campaign Manager DRI: Shari Rances**
+**Campaign Manager DRI: Eirini Pan**
 
 **Launched: 2020-04-29 and continually optimized**
 
@@ -251,6 +251,18 @@ The below global integrated campaigns are continally optimized by the Marketing 
 * [Slack](https://gitlab.slack.com/archives/C0119FNPA84)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dgJ9)
 
+### 🚀 GitHub - Light (Competitive Campaign)
+{: #gitops-use-case}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+**Campaign Manager DRI: Agnes Oetama**
+
+**Launched: 2021-10-28 and continually optimized**
+
+* [Competing with GitHub: ENT sales toolkit](https://docs.google.com/presentation/d/1Gg8c5OVoN5iweGMzyfWNjHg-iboTxgS8Wujf7Uduysw/edit#slide=id.gf73e101eb9_1_147)
+* [Sales Levelup Webcast on GitHub](https://www.youtube.com/watch?v=jqUM-zJBdOY)
+* [Customer Webinar: Conversica GitHub -> GitLab migration](https://page.gitlab.com/conversica-move-to-gitlab.html)
+* [Design kit](https://www.canva.com/folder/FAFE58Mm_Qk)
 
 ### 🚀 France CI Localized
 {: #ci-france-localized}
