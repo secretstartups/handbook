@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Jul 14 | Automated Software Delivery (AutoSD) Integrated Campaign  | Shari R.  |
+| Jul 14 | TBD  | TBD  |
 | Jul 21 | *No session during the last two weeks of the quarter* | N/A |
 | Jul 28 | *No session during the last two weeks of the quarter* | N/A |
                                                                                                                                    
