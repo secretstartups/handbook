@@ -147,9 +147,7 @@ Every milestone will have more work than we can commit to. Product designers kno
 #### How UX Works
 We follow the [Product Designer workflows](/handbook/engineering/ux/product-designer/) and [UX Researcher workflows](/handbook/engineering/ux/ux-research/) described in the [Product Design section](/handbook/engineering/ux/) of the handbook. As Growth designers, we relentlessly measure the impact of our design changes following the [experimentation workflow](/handbook/engineering/development/growth/experimentation/). In addition:
 
-- we have issue boards so we can see what everyone is up to.
-    - [by group](https://gitlab.com/groups/gitlab-org/-/boards/1334665?&label_name%5B%5D=UX&label_name%5B%5D=devops%3A%3Agrowth)
-    - [by workflow](https://gitlab.com/groups/gitlab-org/-/boards/1346572)
+- we have issue boards so we can see what everyone is up to. Refer to issue boards in our planning issues. For example, this is the [template for Acquisition Planning issues](https://gitlab.com/gitlab-org/growth/team-tasks/-/blob/master/.gitlab/issue_templates/growth_acquisition_planning_template.md). 
 - we **label** our issues with `UX`, `devops::growth` and `group::`.
 - we will label experiments with `UX problem validation` and `UX solution validation` according to the [UX Research Workflow](/handbook/engineering/ux/ux-department-workflow/#how-we-use-labels) definitions to indicate the type of learning the experiment achieves. The purpose of these labels is to track [this UX KPI](/handbook/engineering/ux/performance-indicators/#ux-research-velocity) related to research velocity.
 - we use the [workflow labels](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=workflow%3A%3A) for regular issues and [experiment workflow labels](/handbook/engineering/development/growth/#experiment-workflow-labels) for experiment issues.
@@ -159,9 +157,8 @@ We follow the [Product Designer workflows](/handbook/engineering/ux/product-desi
     - If the PM has any concern about the planned milestone, they will discuss trade-offs with the Product Designer and other Growth PMs.
 - we use [UX issue weights](https://about.gitlab.com/handbook/engineering/ux/product-designer/#ux-issue-weights) in order to better estimate capacity, realistically break down our work, and give PMs a little insight into how much work we can take on in a milestone.
     - Label the issue for UX work with `UX` and assess the issue weight. Issues larger than an **8** should be broken down further.
+    - Use the scoped labels starting with `design weight` to add the UX weight to an issue.
     - When the UX work is ready to be transitioned into Engineering, apply the workflow lable `workflow::planning breakdown`.
-    - The Engineering team can create a new issue or issues with the broken down work, and apply issue weights. These issues should be labeled `Engineering`.
-    - Label issues with `UX` or `Engineering` but not both. This will make sure there is no confusion as to what the weight is for.
 - We have a [Figma template](https://www.figma.com/file/e8tj8XvblnhDlix83FUSij/Growth-Experiment-Design-Template?node-id=1%3A42) for designing experiments. You should title your Figma designs to be consistent with the experiment name, and link the experiment issue to the Figma file. When the variants are ready, add the control and variants to the "All the variants" page and provide context as needed. If you are conducting multiple experiments in the same area, consider using the same Figma file but include different pages per experiment design.
 
 #### UX Definition of Done (DoD)
