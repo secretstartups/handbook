@@ -130,7 +130,7 @@ Consistent with GitLab’s policy governing Hiring Significant Others or Family 
 To change a start date after a **GitLab entity** contract has been signed and the new team member has been "hired" in GreenHouse the Candidate Experience Specialist will complete the following steps:
 
 1. Confirm the start date via email with the new team member, the recruiter, the hiring manager, and the Candidate Experience Specialist.
-1. Save the email as a pdf file for upload into BambooHR.
+1. Save the email as a pdf file for upload into Workday.
 1. Update GreenHouse:
    - Offer Details
    - Click the edit pencil next to the start date
@@ -138,7 +138,7 @@ To change a start date after a **GitLab entity** contract has been signed and th
    - Save
    - In the "Make a Note" section in Greenhouse state the old start date and the new state date, and tag the person on FP&A (typically the second approver) who approved the offer.
    - Save
-1. Update Entity Payroll Providers (UK, Netherlands) of any changes to the start date via the email templates in Greenhouse.
+1. Update Entity Payroll Provider (Netherlands) of any changes to the start date via the email templates in Greenhouse.
 1. Update the People Experience Team in Slack Workflow.
     - Open private Slack channel `#people-exp_ces`
     - Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
@@ -149,16 +149,16 @@ To change a start date after a **GitLab entity** contract has been signed and th
     - Fill in Reason For Change. This is to inform the People Experience team of the reason for the new date (i.e. Public Holiday, New Hire request, Hiring Manager request, etc.).
     - Optional: Fill in Any other changes.
     - Click Submit
-1. Upload start date change comms into Bamboo HR.
-   - Sign into Bamboo HR
-   - Search of the new team member's name
-   - Click on the Documents tab under the name and title
-   - Upload
-   - Choose File(s)
-   - Select the saved email pdf file
-   - Open
-   - Folder: Contracts and Changes
-   - Check the "Share these File(s) with the Employee" box
+1. Upload start date change comms into Workday.
+   - Sign into Workday
+   - Search the new team member's name
+   - Click on the Personal Link on left side of screen
+   - Select "Documents"
+   - Select "Add"
+   - Click "Select Files" and choose appropriate saved PDF
+   - Select "OK"
+   - Under "Document Category" select "Contracts & Changes"
+   - Under "Comment" write "Start Date Change"
    - Upload
 
 To change a start date after a **PEO** contract has been signed and the new team member has been "hired" in GreenHouse the Candidate Experience Specialist will complete the following steps:
@@ -182,16 +182,16 @@ To change a start date after a **PEO** contract has been signed and the new team
     - Fill in Original Start Date (YYYY-MM-DD)
     - Fill in New Start Date (YYYY-MM-DD)
     - Fill in Reason For Change. This is to inform the People Experience team of the reason for the new date (i.e. Public Holiday, New Hire request, Hiring Manager request, etc.).
-1. Update BambooHR to reflect the new start date.
-   - Sign into Bamboo HR
-   - Search of the new team member's name
-   - Click on the Documents tab under the name and title
-   - Upload
-   - Choose File(s)
-   - Select the saved email pdf file
-   - Open
-   - Folder: Contracts and Changes
-   - Check the "Share these File(s) with the Employee" box
+1. Upload start date change comms into Workday.
+   - Sign into Workday
+   - Search the new team member's name
+   - Click on the Personal Link on left side of screen
+   - Select "Documents"
+   - Select "Add"
+   - Click "Select Files" and choose appropriate saved PDF
+   - Select "OK"
+   - Under "Document Category" select "Contracts & Changes"
+   - Under "Comment" write "Start Date Change"
    - Upload
 
 ### How to Void a Contract Before a Candidate Signs
