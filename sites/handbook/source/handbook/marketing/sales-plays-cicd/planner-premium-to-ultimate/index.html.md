@@ -7,7 +7,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 
 
-### **Sales play planner and strategy page** 
+### **Sales play planner and strategy page**
 
 **_content subject to change as we iterate and source feedback! All feedback is welcome- everyone can contribute._**
 
@@ -136,7 +136,7 @@ Which GitLab stages/feature make up this sales play:
 * Vulnerability Management
 * Security Approvals in Merge Requests
 
-Ultimate also includes priority support (4 business hour support), live upgrade assistance, and a Technical Account Manager who will work with you to achieve your strategic objectives and gain maximum value from your investment in GitLab.
+Ultimate also includes priority support (4 business hour support), upgrade assistance, and a Technical Account Manager who will work with you to achieve your strategic objectives and gain maximum value from your investment in GitLab.
 
 #### **Which combination delivers the overall outcome to a customer**  {#which-combination-delivers-the-overall-outcome-to-a-customer}
 
@@ -203,7 +203,7 @@ Potential tagline: Status quo doesn’t get it done. “Deliver faster. Deliver 
 
 * Other ideas are themes around “time waits for no one, plan for the future today and be ready to grow, etc.”
 
-#### **Buyer’s journey** 
+#### **Buyer’s journey**
 
 tbd
 
