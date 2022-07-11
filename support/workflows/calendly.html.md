@@ -131,7 +131,7 @@ GitLab Support Call                 https://api.calendly.com/event_types/CEGFRWO
 Upgrade Assistance             https://api.calendly.com/event_types/AHBRCBLAH6ECV5E6
 Pairing Session                     https://api.calendly.com/event_types/EBLAHIHDJDJRSS42
 Support call with me                https://api.calendly.com/event_types/DBLAH4WXTM7ADUB2
-US Federal Live Upgrade Assistance  https://api.calendly.com/event_types/BLAHTQKLLSHV3GL3
+US Federal Upgrade Assistance  https://api.calendly.com/event_types/BLAHTQKLLSHV3GL3
 ```
 
 To generate a single-use link for the "Support call with me" event:

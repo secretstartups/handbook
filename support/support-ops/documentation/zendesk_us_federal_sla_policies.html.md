@@ -46,7 +46,7 @@ This requires an exact process, which is detailed via the
   * Matches ANY of:
     * Form is Support
     * Form is Triage
-    * Form is Live Upgrade Assistance
+    * Form is Upgrade Assistance
 * Targets:
 
 | Target | Urgent | High | Normal | Low |
