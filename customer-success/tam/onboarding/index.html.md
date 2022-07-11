@@ -110,6 +110,17 @@ Time to Onboard is the difference between `Onboarding CTA Start Date` and the da
 
 - Required TAM action: Close the Onboarding CTA
 
+### Instance/Namespace Time to Value Metrics
+
+Each Time-to-Value metric is calculated by the difference between the `Subscription Start Date` and the date the product usage metric was achieved. All metrics are calculated at the subscription level. These metrics do not run back historically, and are only calculated for subscriptions that began from February 2022 onwards.
+
+* Time to License Utilization (10%, 50%, 80%): The first date the instance reached 10%, 50%, and 80% license utilization.
+* Time to DevSecOps Deployment: The first date the instance reached green health for DevSecOps deployment (>= 20%).
+* Time to SCM Deployment: The first date the instance reached green health for SCM deployment (>= 40%).
+* Time to CI Deployment: The first date the instance reached green health for CI deployment (>=25%).
+
+**Note**: There are cases where the time-to-value metric may result in a negative value. This can occur if a company has begun using their instance and reached the time-to-value metric prior to their subscription start date (i.e., they achieved value during their trial or if they were on a free instance).
+
 ## Command Plan
 A Command Plan is used as a living pre-sales document, and its objectives are converted into Gainsight Success Plan objectives at the time of account onboarding. 
 
