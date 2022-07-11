@@ -79,7 +79,7 @@ If you feel that this meeting can be rescheduled without any setbacks to the bus
 Feel better! Please work with your manager to find another day that works for you and your team.
 
 ### Can I choose to take a different day off for Friends & Family Day that is more convenient for me? 
-Unless in circumstances described in the questions above (role requires you to work on a Friends & Family Day, designated Friends & Family Day falls on a non-working day, etc.), team members that want to benefit from Friends and Family Day should take the designated Friends & Family Day off. This gives benefits beyond a regular PTO day, as described above in "How is this any different than our vacation policy?"
+Unless in circumstances described above (e.g., role requires you to work on a Friends & Family Day, the designated day falls on a non-working day), team members that want to benefit from Friends & Family Day should take the designated day off. This provides [different benefits from a regular PTO day](/company/family-and-friends-day/#how-is-this-any-different-than-our-vacation-policy).
 
 If you'd like to take a different day off for personal reasons, refer to the [Paid Time Off](/handbook/paid-time-off/){:data-ga-name="Paid Time Off"}{:data-ga-location="body"} policy.
 
