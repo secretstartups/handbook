@@ -86,7 +86,7 @@ for that, please modify it as you see fit.
 
 ## Notes on intake, upgrade and installation support calls
 
-For Premium Support customers, and customers who have purchased Implementation Support, we offer intake and installation support. Premium Support customers also receive live upgrade assistance. The different levels of service that are offered are described on the [support page](/support), and Implementation Support is described in more detail in the [statement of support](/support/statement-of-support.html).
+For Premium Support customers, and customers who have purchased Implementation Support, we offer intake and installation support. Premium Support customers also receive upgrade assistance. The different levels of service that are offered are described on the [support page](/support), and Implementation Support is described in more detail in the [statement of support](/support/statement-of-support.html).
 
 Call/screen sharing sessions involve guiding a customer through the GitLab upgrade process or taking control of the customer's server to perform the upgrade.
 You should make sure that the customer has finished creating a backup **before** you start the call, as they can take a lot of time to complete and you don't want to do them while in the call.
