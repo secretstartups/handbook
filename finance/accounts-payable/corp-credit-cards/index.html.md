@@ -57,6 +57,7 @@ This page contains GitLab's Corporate Credit Card guidelines and procedures. If 
 - All transactions made through the corporate credit card shall be filed via Expensify by the Card holder with proper coding and should be submitted to their manager twice a month, by the 15th and by the last day of the month.  Managers are to approve and then forward to the AP Team for final approval by the 1st of the following month.
 - Card Holders must follow Gitlab’s Code of Business Conduct and Ethics as the Corporate Credit Cards are considered GitLab property. Please refer to GitLab's [Code of Business Conduct & Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
 - To cancel a card or to report a card that is lost/stolen, please reach out to **#corp-creditcard-holders** Slack channel or email **ap@gitlab.com**.
+- Failure to follow the guidelines will result in your card being pulled.
 
 ## <i id="biz-tech-icons" class="far fa-question-circle"></i> Any Questions?  
 Please reach out to **#corp-creditcard-holders** or **email ap@gitlab.com**.
