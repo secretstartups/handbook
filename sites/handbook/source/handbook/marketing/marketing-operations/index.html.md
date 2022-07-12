@@ -504,6 +504,7 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 | Unqualified | Contact information is not now or ever valid in future; Spam form fill-out |
 | Nurture | Record is not ready for our services or buying conversation now, possibly later |
 | Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means |
+| Ineligible | All leads/contacts that are ineligible to go through the sales process after an initial review |
 
 One of the following must occur to have a lead move from `Raw` to `Inquiry`
 1. Become a member of a marketing program (except no-action/default statuses, nor email)
