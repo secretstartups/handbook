@@ -128,7 +128,7 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 
 ----
 
-<big>[Ticketmaster](/blog/2017/06/07/continous-integration-ticketmaster/)</big><br>
+<big>[Ticketmaster](/blog/2017/06/07/continuous-integration-ticketmaster/)</big><br>
 **Problem:** Slow build process prevented innovation<br>
 **Solution:** GitLab Premium (CI)<br>
 **Result:** 15x faster - from over 2-hour builds to 8-minute builds; faster releases and better customer experiences with 5 star app reviews<br>
