@@ -352,6 +352,11 @@ A tweet storm is a series of Twitter posts usually made as replies in a single t
     1. [2021-12-15 example for Chief of Staff videos](https://docs.google.com/document/d/1BL2ZBtqF5fKdQox0p2lde_qv-75rXwYmQNHvKJnUR-8/edit) (internal).
 1. Once complete, change the document's Owner to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
 
+Tweet storm examples:
+
+1. 2021-06-02: Server runtimes and development environments: [Twitter thread](https://twitter.com/sytses/status/1400134840754733059), [Source (internal)](https://docs.google.com/document/d/1eXGoPr6iXBUgOBr9fgDjQkk-vGdT_edCSTNUIK6UVrc/edit)
+
+
 ### Meetings & Events
 
 #### CEO's Calendar
