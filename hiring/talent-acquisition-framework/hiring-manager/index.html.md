@@ -48,13 +48,24 @@ As a best practice the Hiring Manager should reach out to each individual on the
 > >
 > > c. [insert name of Interviewer 3] - [focus area]
 
-### Step 4/HM (Optional): Source candidates and/or review inbound applications
+### Step 4/HM (Optional): Create and upload a video describing the role and team for the application
+
+One way a Hiring Manager can help create more engagement in the open role is to create a short (1 minute) video discussing what the role will entail for a successful candidate. 
+
+1. [Create a video, upload it to GitLab's unfiltered youtube channel, and in the description link to the job listing in question](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A).
+1. If you're active on Twitter, post the YouTube link to Twitter and include the job listing in the body of the tweet.
+1. Upload the video to LinkedIn and create a post with a link to the job listing. It is better to upload the video directly to LinkedIn than use the YouTube link as this will help generate more traffic. 
+1. Embed the YouTube video into the Job listing itself via [Greenhouse](https://boards.greenhouse.io/gitlab/jobs/6201785002) under the `work for this role` sub-heading.
+1. Ask the [sourcing team](https://about.gitlab.com/handbook/hiring/sourcing/) to embed the video in the initial message they send to new candidates for the role.
+1. If you have questions, please reach out to the #talent-brand channel on slack. Please also share newly created videos in the #talent-brand channel so these can be captured in our content library.
+
+### Step 5/HM (Optional): Source candidates and/or review inbound applications
 
 Our hybrid recruiting model means that candidates enter the pipeline through an inbound application or via direct sourcing. Depending on capacity, Hiring Managers can contribute to the hiring process by reviewing inbound applications or helping identify and source candidates to ensure we have a robust pipeline.
 
 You can work with your Recruiter and Sourcer to understand whether your time will be better spent on sourcing outreach or on reviewing inbound applications.
 
-### Step 5/HM: Hiring team to complete feedback in Greenhouse
+### Step 6/HM: Hiring team to complete feedback in Greenhouse
 
 Once each step in the interview plan is completed, the interview team will submit feedback via the designated scorecard in Greenhouse within 1 business day of their interviews. Each scorecard will include the following required sections:
 
@@ -66,7 +77,7 @@ Once each step in the interview plan is completed, the interview team will submi
 
 If you have any questions or experience any issues accessing your scorecard, please contract your Recruiter of the CES team.
 
-### Step 6/HM: Complete references
+### Step 7/HM: Complete references
 
 Once the recruiter/CES has notified the hiring manager of the references sent by the candidate, the hiring manager will complete references to establish the candidate's strengths and opportunities, to set them up for success once joining GitLab. 
 
