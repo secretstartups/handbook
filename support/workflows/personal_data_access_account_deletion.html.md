@@ -179,14 +179,14 @@ If the user fails the challenge questions, apply the `Account Verification Faile
 
 If the user passes the challenge questions, proceed with processing their request by doing the following:
 
-1. Let the customer know they passed the ownership verification process, and that you are initiating the deletion process.
+1. Let the customer know they passed the ownership verification process, and that you are initiating the deletion process. Take care to enter the proper type of deletion request.
 
 <details>
   <summary markdown="span">Verification Succeeded - Deletion Process Started</summary>
 
   <p>Greetings,</p>
 
-  <p>Thank you for stepping in the process with us to verify your account ownership. We have now started the process for the "type of deletion request".</p>
+  <p>Thank you for stepping in the process with us to verify your account ownership. We have now started the process for the &lt;TYPE_OF_DELETION_REQUEST&gt;.</p>
      
   <p>Please note that it takes up to 30 days for the request to be processed as it's handled by different teams.</p>
      
