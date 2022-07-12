@@ -341,6 +341,10 @@ This section will continue to be fleshed out as we rollout to the global Field M
 
 The following is the process for when a Field Marketing issue moves from `mktg-status::plan` to `mktg-status::wip`.
 
+## SLA
+
+FMMs are to provide a 5 business day lead time for all plan to WIP requests in order to give FMCs time to complete the request. Also keep in mind that we have a 5 business day [SLA with Verticurl](/handbook/marketing/lifecycle-marketing/agency-verticurl/#sla-with-verticurl), so please plan ahead accordingly.
+
 ## Items required by FMM to request moving an issue from Plan to WIP
 
 - Contract is fully executed (if applicable)
@@ -361,7 +365,7 @@ The following is the process for when a Field Marketing issue moves from `mktg-s
 - When all the above tasks have been completed, the FMC will ping the FMM in the Field Marketing issue to confirm completion of the above tasks and will move the issue label `mktg-status::plan` to `mktg-status::wip`.
 
 ### Plan to WIP video walk through 
-https://youtu.be/7l59sm_5aD4 - You must be logged into GitLab Unfiltered to view. 
+[Plan to WIP Video](https://youtu.be/7l59sm_5aD4) - You must be logged into GitLab Unfiltered to view. 
 
 # Rescheduling or Cancelling Events
 
