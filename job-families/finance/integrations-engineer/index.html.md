@@ -100,8 +100,8 @@ The Manager, Integration Engineering is a [grade 8](https://about.gitlab.com/han
 
 ## Performance Indicators
 
-- [Evaluating System or Process Efficiency](/handbook/business-ops/metrics/#evaluating-system-or-process-efficiency)
-- [Average Merge Request](/handbook/business-ops/metrics/#average-merge-request)
+- [Evaluating System or Process Efficiency](/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
+- [Average Merge Request](/handbook/business-technology/metrics/#average-merge-request)
 - Evaluating health of integrations
 - Number of integrations implemented that increase the efficiency of the company
 - Total hours saved by improving systems integrations

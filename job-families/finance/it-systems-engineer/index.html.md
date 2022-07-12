@@ -78,11 +78,11 @@ The Senior IT Systems Engineer has all the same responsibilities as the ones out
 * Ability to use GitLab
 
 ## Performance Indicators
-* [Mean Time between Failures (MTBF)](/handbook/business-ops/metrics/#mean-time-between-failures-mtbf)
-* [Mean Time to Repair (MTTR)](/handbook/business-ops/metrics/#mean-time-to-repair-mttr)
-* [Number of days since last environment audit](/handbook/business-ops/metrics/#number-of-days-since-last-environment-audit)
-* [Cycle Time for IT Support Issue Resolution](/handbook/business-ops/metrics/#cycle-time-for-it-support-issue-resolution)
-* [Customer Satisfaction Survey (CSAT)](/handbook/business-ops/metrics/#customer-satisfaction-survey-csat)
+* [Mean Time between Failures (MTBF)](/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
+* [Mean Time to Repair (MTTR)](/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
+* [Number of days since last environment audit](/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
+* [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
+* [Customer Satisfaction Survey (CSAT)](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 
 ## Career Ladder
 The next step in the IT Systems Engineer job family is to move to the [IT Manager](/job-families/finance/manager-it/) job family.

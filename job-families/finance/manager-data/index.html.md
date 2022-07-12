@@ -75,9 +75,9 @@ The Senior Manager, Data is a [grade 9](/handbook/total-rewards/compensation/com
 
 ## Performance Indicators (PI)
 
-* [% of team who self-classify as diverse](/handbook/business-ops/metrics/#percent--of-team-who-self-classify-as-diverse)
-* [CSAT](/handbook/business-ops/metrics/#customer-satisfaction-survey-csat)
-* [SLO Achievement per Data Source](https://about.gitlab.com/handbook/business-ops/metrics/#slo-achievement-per-data-source)
+* [% of team who self-classify as diverse](/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
+* [CSAT](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+* [SLO Achievement per Data Source](https://about.gitlab.com/handbook/business-technology/metrics/#slo-achievement-per-data-source)
 * WIP: % of queries supported by Enterprise Dimensional Model >= 75%
 
 ## Career Ladder

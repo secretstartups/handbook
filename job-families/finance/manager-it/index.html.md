@@ -120,11 +120,11 @@ Familiarity with data management policies and regulations (GDPR, SOX, PCI)
 
 ## Performance Indicators
 
-*  [New Hire Location Factor < 0.69](/handbook/business-ops/metrics/#new-hire-location-factor--069)
-*  [% of team who self-classify as diverse](/handbook/business-ops/metrics/#percent--of-team-who-self-classify-as-diverse)
-*  [Discretionary bonus per employee per month > 0.1](/handbook/business-ops/metrics/#discretionary-bonus-per-employee-per-month--01)
-*  [Average Delivery Time of Laptop Machines < 21 days](/handbook/business-ops/metrics/#average-delivery-time-of-laptop-machines--21-days)
-*  [Customer Satisfaction Survey (CSAT)](/handbook/business-ops/metrics/#customer-satisfaction-survey-csat)
+*  [New Hire Location Factor < 0.69](/handbook/business-technology/metrics/#new-hire-location-factor--069)
+*  [% of team who self-classify as diverse](/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
+*  [Discretionary bonus per employee per month > 0.1](/handbook/business-technology/metrics/#discretionary-bonus-per-employee-per-month--01)
+*  [Average Delivery Time of Laptop Machines < 21 days](/handbook/business-technology/metrics/#average-delivery-time-of-laptop-machines--21-days)
+*  [Customer Satisfaction Survey (CSAT)](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 
 ## Career Ladder
 

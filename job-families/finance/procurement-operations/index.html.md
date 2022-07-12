@@ -194,8 +194,8 @@ The Director, Procurement is a [grade 10](/handbook/total-rewards/compensation/c
 
 ## Performance Indicators (PI)
 
-*  [Percent of vendor spend on Purchase Order](/handbook/business-ops/metrics/#percent--of-vendor-spend-on-purchase-order)
-*  [Vendor cost avoidance](/handbook/business-ops/metrics/#vendor-cost-avoidance)
+*  [Percent of vendor spend on Purchase Order](/handbook/business-technology/metrics/#percent--of-vendor-spend-on-purchase-order)
+*  [Vendor cost avoidance](/handbook/business-technology/metrics/#vendor-cost-avoidance)
 
 ## Career Ladder
 

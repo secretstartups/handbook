@@ -45,9 +45,9 @@ The Sr. Director, IT Operations is a [level 11](https://about.gitlab.com/handboo
 - Business acumen with the ability to understand business priorities, operations, and IT enablement potential
 
 ## Performance Indicators
-1. [New Hire Location Factor < 0.69](/handbook/business-ops/metrics/#new-hire-location-factor--069)
-1. [Average Delivery Time of Laptop Machines < 21 days](/handbook/business-ops/metrics/#average-delivery-time-of-laptop-machines--21-days)
-1. [Cycle Time for IT Support Issue Resolution](/handbook/business-ops/metrics/#cycle-time-for-it-support-issue-resolution)
+1. [New Hire Location Factor < 0.69](/handbook/business-technology/metrics/#new-hire-location-factor--069)
+1. [Average Delivery Time of Laptop Machines < 21 days](/handbook/business-technology/metrics/#average-delivery-time-of-laptop-machines--21-days)
+1. [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
 
 ## Career Ladder
 The next step in the IT Systems Engineer job family is to move to the [VP, IT](/job-families/finance/VP-Information-Technology/) job family.

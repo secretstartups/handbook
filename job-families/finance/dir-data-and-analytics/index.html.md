@@ -55,12 +55,12 @@ TODO
 
 ## Performance Indicators (PI)
 
-*  [New Hire Location Factor < 0.69](/handbook/business-ops/metrics/#new-hire-location-factor--069)
-*  [% of team who self-classify as diverse](/handbook/business-ops/metrics/#percent--of-team-who-self-classify-as-diverse)
-*  [Discretionary bonus per employee per month > 0.1](/handbook/business-ops/metrics/#discretionary-bonus-per-employee-per-month--01)
-*  [Cost Actual vs Plan](/handbook/business-ops/metrics/#cost-actual-vs-plan)
-*  [% of company data in data warehouse](/handbook/business-ops/metrics/#percent--of-company-data-in-data-warehouse)
-*  [New Data or Functionality every 3 months](/handbook/business-ops/metrics/#new-data-or-functionality-every-3-months)
+*  [New Hire Location Factor < 0.69](/handbook/business-technology/metrics/#new-hire-location-factor--069)
+*  [% of team who self-classify as diverse](/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
+*  [Discretionary bonus per employee per month > 0.1](/handbook/business-technology/metrics/#discretionary-bonus-per-employee-per-month--01)
+*  [Cost Actual vs Plan](/handbook/business-technology/metrics/#cost-actual-vs-plan)
+*  [% of company data in data warehouse](/handbook/business-technology/metrics/#percent--of-company-data-in-data-warehouse)
+*  [New Data or Functionality every 3 months](/handbook/business-technology/metrics/#new-data-or-functionality-every-3-months)
 
 ### Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.

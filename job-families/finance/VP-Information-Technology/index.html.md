@@ -34,11 +34,11 @@ The VP, IT is a [grade 12](/handbook/total-rewards/compensation/compensation-cal
 1. Ability to use GitLab
 
 ## Performance Indicators
-1. [New Hire Location Factor < 0.69](/handbook/business-ops/metrics/#new-hire-location-factor--069)
-1. [Average Delivery Time of Laptop Machines < 21 days](/handbook/business-ops/metrics/#average-delivery-time-of-laptop-machines--21-days)
-1. [Cycle Time for IT Support Issue Resolution](/handbook/business-ops/metrics/#cycle-time-for-it-support-issue-resolution)
-1. [% of company data in data warehouse](/handbook/business-ops/metrics/#percent--of-company-data-in-data-warehouse)
-1. [New Data or Functionality every 3 months](/handbook/business-ops/metrics/#new-data-or-functionality-every-3-months)
+1. [New Hire Location Factor < 0.69](/handbook/business-technology/metrics/#new-hire-location-factor--069)
+1. [Average Delivery Time of Laptop Machines < 21 days](/handbook/business-technology/metrics/#average-delivery-time-of-laptop-machines--21-days)
+1. [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
+1. [% of company data in data warehouse](/handbook/business-technology/metrics/#percent--of-company-data-in-data-warehouse)
+1. [New Data or Functionality every 3 months](/handbook/business-technology/metrics/#new-data-or-functionality-every-3-months)
 
 
 ## Hiring Process

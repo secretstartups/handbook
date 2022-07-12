@@ -52,11 +52,11 @@ The IT Operations System Administrator is a [grade 6](/handbook/total-rewards/co
 
 ## Performance Indicators (PI)
 
-* [Mean Time between Failures (MTBF)](/handbook/business-ops/metrics/#mean-time-between-failures-mtbf)
-* [Mean Time to Repair (MTTR)](/handbook/business-ops/metrics/#mean-time-to-repair-mttr)
-* [Number of days since last environment audit](/handbook/business-ops/metrics/#number-of-days-since-last-environment-audit)
-* [Cycle Time for IT Support Issue Resolution](/handbook/business-ops/metrics/#cycle-time-for-it-support-issue-resolution)
-* [Customer Satisfaction Survey (CSAT)](/handbook/business-ops/metrics/#customer-satisfaction-survey-csat)
+* [Mean Time between Failures (MTBF)](/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
+* [Mean Time to Repair (MTTR)](/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
+* [Number of days since last environment audit](/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
+* [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
+* [Customer Satisfaction Survey (CSAT)](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).

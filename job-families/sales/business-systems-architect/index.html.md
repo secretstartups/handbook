@@ -54,10 +54,10 @@ The Business Systems Architect (Intermediate) is a [grade 7](/handbook/total-rew
 ## Performance Indicators 
 
 * IACV vs Plan
-* [New Hire Location Factor < 0.69](https://about.gitlab.com/handbook/business-ops/metrics/#new-hire-location-factor--069)
-* [% of team who self-classify as diverse](https://about.gitlab.com/handbook/business-ops/metrics/#percent--of-team-who-self-classify-as-diverse)
-* [Cost Actual vs Plan](https://about.gitlab.com/handbook/business-ops/metrics/#cost-actual-vs-plan)
-* [System roll out vs plan](https://about.gitlab.com/handbook/business-ops/metrics/#system-roll-out-vs-plan)
+* [New Hire Location Factor < 0.69](https://about.gitlab.com/handbook/business-technology/metrics/#new-hire-location-factor--069)
+* [% of team who self-classify as diverse](https://about.gitlab.com/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
+* [Cost Actual vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#cost-actual-vs-plan)
+* [System roll out vs plan](https://about.gitlab.com/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ## Career Ladder
 

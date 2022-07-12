@@ -135,11 +135,11 @@ Business Justification: The staff level requires deep technical and functional k
 
 ## Performance Indicators (PI)
 
-*   [SLO achievement per data source](/handbook/business-ops/metrics/#slo-achievement-per-data-source)
-*   [Infrastructure Cost vs Plan](/handbook/business-ops/metrics/#infrastructure-cost-vs-plan)
-*   [Number of days since last environment audit](/handbook/business-ops/metrics/#number-of-days-since-last-environment-audit)
-*   [Mean Time between Failures (MTBF)](/handbook/business-ops/metrics/#mean-time-between-failures-mtbf)
-*   [Mean Time to Repair (MTTR)](/handbook/business-ops/metrics/#mean-time-to-repair-mttr)
+*   [SLO achievement per data source](/handbook/business-technology/metrics/#slo-achievement-per-data-source)
+*   [Infrastructure Cost vs Plan](/handbook/business-technology/metrics/#infrastructure-cost-vs-plan)
+*   [Number of days since last environment audit](/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
+*   [Mean Time between Failures (MTBF)](/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
+*   [Mean Time to Repair (MTTR)](/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
 
 ### Career Ladder
 

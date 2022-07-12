@@ -108,8 +108,8 @@ This role includes all of the requirements above, plus:
 
 ## Performance Indicators (PI)
 
-*  [Average Issues](/handbook/business-ops/metrics/#average-issues)
-*  [Average Merge Requests](/handbook/business-ops/metrics/#average-merge-request)
+*  [Average Issues](/handbook/business-technology/metrics/#average-issues)
+*  [Average Merge Requests](/handbook/business-technology/metrics/#average-merge-request)
 *  Evaluate compliance of IT tools or processes
 *  Evaluate changes to IT tools and processes based on risk
 *  Provide more detailed and more practical guidance to the organization with the goal of improving compliance related processes and/or procedures.
