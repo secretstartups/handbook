@@ -55,11 +55,13 @@ The growth division is currently grouped under the Acquisition team that contain
 * Team description, dedicated handbook page and specific vision is a work in progress.
  
 ## Product ownership
-The Growth division owns the following areas of the product experience.
+The Growth section owns the following areas of the product experience.
 * The free user and trial registration experience
 * The new user onboarding experience
 * [Broadcast messages](https://docs.gitlab.com/ee/user/admin_area/broadcast_messages.html)
 * [GitLab Experiment Gem (also refered to as GLEX)](https://docs.gitlab.com/ee/development/experiment_guide/)
+* [Instance review](https://docs.gitlab.com/ee/administration/instance_review.html)
+* [Product Qualified Leads](https://docs.gitlab.com/ee/development/product_qualified_lead_guide/)
  
  While we own these areas our work is not limited to these specific areas as the teams work cross-functionaly with other product and business teams to improve the user experience the most effecient way possible.
 
