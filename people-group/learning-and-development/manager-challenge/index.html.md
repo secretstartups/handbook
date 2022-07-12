@@ -9,13 +9,17 @@ title: Manager Challenge
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Manager Challenge Currently Paused
+
+**Please note that the next Manager Challenge has been paused until further notice.**
+
+Team member can reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) with any questions about upcoming manager training or utilize their [Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) for external training opportunities.
+
 ## Introduction
 
 Developing mangerial skills is no small task. While taking on a new or expanded role as a manager brings great rewards, it also introudces new challenges. To be successful as a manager it requires management training that develops your ability to lead a functioning team while implementing management skills and abilities such as adaptive leadership, building trust, psychological safety, and conflict resolution. 
 
 The Manager Challenge addresses your specific needs to understand the qualities of a good leader and to master practical leadership styles that empower you to become a confident people leader. Effective leadership is grounded in your understanding of powerful interpersonal skills that inspire performance, communication, team member retention, and motivation to achieve results. 
-
-**The next Manager Challenge has been paused until further notice.**
 
 ### Leadership Development Award   
 
@@ -66,7 +70,7 @@ L&D measures the success of the Manager Challenge by the following:
 4. Learner satisfaction from program evaluation
 5. Percentage of participant goals achieved 
 
-## February Program Schedule
+## Sample Program Schedule
 
 ### Pre-Work
 
@@ -83,9 +87,9 @@ Week 1 will be focused on developing your leadership style as a manager, differe
 
 | Date | Length  | Description |
 | ------ | ------ | ------ |
-| 2022-02-07 | 1 hr 20 minutes | Session 1 - Program Kickoff: Developing Your Leadership Style. Adaptive DNA as a people leader. Introduction to the Manager Challenge |
-| 2022-02-08/09 | Async | Session 2 pre-work |
-| 2022-02-10 | 1 hr 20 minutes | Session 2: Building High Performing Teams or Team Effectiveness Tools |
+| Week 1 | 1 hr 20 minutes | Session 1 - Program Kickoff: Developing Your Leadership Style. Adaptive DNA as a people leader. Introduction to the Manager Challenge |
+| Week 1 | Async | Session 2 pre-work |
+| Week 1 | 1 hr 20 minutes | Session 2: Building High Performing Teams or Team Effectiveness Tools |
 
 
 ### Week 2 - Management Fundamentals
@@ -96,10 +100,10 @@ Week 2 will be focused on management fundamentals, coaching team relationships, 
 
 | Date | Length  | Description |
 | ------ | ------ | ------ |
-| 2022-02-14 | 1 hr 20 minutes | Session 3: Fundamental Behaviors of Managers |
-| 2022-02-15/16 | Async | Pre-work for session 4 |
-| 2022-02-17 | 1 hour | Session 4: Coaching team relationships |
-| 2022-02-18 | 50 minutes | Optional group coaching session on inspiring motivation and aligning values |
+| Week 2 | 1 hr 20 minutes | Session 3: Fundamental Behaviors of Managers |
+| Week 2 | Async | Pre-work for session 4 |
+| Week 2 | 1 hour | Session 4: Coaching team relationships |
+| Week 2 | 50 minutes | Optional group coaching session on inspiring motivation and aligning values |
 
 ### Week 3 - Leading Teams to Achieve Results
 
@@ -109,10 +113,10 @@ Week 3 will be focused on performance management, constructive conversations, to
 
 | Date | Length  | Description |
 | ------ | ------ | ------ |
-| 2022-02-22 | 50 minutes | Session 5: Performance Management 101 and Constructive Conversations |
-| 2022-02-23/24 | Async | Async - Reading and/or async collaboration |
-| 2022-02-24 | 1 hour | Session 6: Panel Discussion with Senior Leaders. Action Planning and Next Steps |
-| 2022-02-25 | 50 minutes | Optional group coaching session and peer-to-peer learning |
+| Week 3 | 50 minutes | Session 5: Performance Management 101 and Constructive Conversations |
+| Week 3  | Async | Async - Reading and/or async collaboration |
+| Week 3  | 1 hour | Session 6: Panel Discussion with Senior Leaders. Action Planning and Next Steps |
+| Week 3  | 50 minutes | Optional group coaching session and peer-to-peer learning |
 
 Participants will also be asked to complete a program evaluation. 
 
@@ -123,13 +127,13 @@ Following the Manager Challenge, participants are encouraged to do the following
 - Complete an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#individual-growth-plan)
 - Share learnings from the Manager Challenge on the [Manager Challenge alumni page](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/manager-challenge-alumni-page/)
 - Create quarterly sync sessions to come together with cohort participants
-- Attend the post-program office hours on 2022-04-07
+- Attend the post-program office hours on 
 
 **Sessions/Async Activites:**
 
 | Date | Length  | Description |
 | ------ | ------ | ------ |
-| 2022-04-07 | 50 minutes | Post Program Office Hours: Discuss Lessons Learned, Growth Plans, and Actions for Next Phase of manger enablement |
+| Week 4 | 50 minutes | Post Program Office Hours: Discuss Lessons Learned, Growth Plans, and Actions for Next Phase of manger enablement |
 
 
 ## Important Points To Remember: 
@@ -173,7 +177,7 @@ See the video below for a quick overview of how we use GitLab to facilitate mana
 Throughout the program, we ask that managers to create or refine their [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internal-resources-1). We encourage Managers to self-reflect on their professional development as a people leader and identify areas where they can advance their skills. 
 The document is intended to be a starting point for managers to document where they can improve as a people leader.
 
-### FAQs (Frequently Asked Questions) for the Manager Challenge program
+### Frequently Asked Questions for the Manager Challenge program
 
 1. **What is the Manager Challenge Program?**
      - The program is intended to build a set of baseline management skills through micro habits and daily practices over 2 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab remote management & leadership best practices. 

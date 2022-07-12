@@ -23,9 +23,9 @@ The Learning & Development team has a number of resources to help team members l
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/people-group/learning-and-development/manager-challenge/" class="btn btn-purple" style="width:200px;margin:5px;">Manager Challenge</a>
     <a href="/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/" class="btn btn-purple" style="width:200px;margin:5px;">Leadership Chats</a>
     <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Initiatives</a>
+    <a href="/handbook/people-group/learning-and-development/self-paced-learning/" class="btn btn-purple" style="width:200px;margin:5px;">Self Paced Learning</a>
   </div>
 </div>
 
@@ -48,8 +48,7 @@ The Learning & Development team has a number of resources to help team members l
 <div class="flex-row" markdown="0">
   <div>
     <a href="/handbook/sales/field-manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Field Manager Development</a>
-    <a href="/handbook/people-group/learning-and-development/self-paced-learning/" class="btn btn-purple" style="width:200px;margin:5px;">Self Paced Learning</a>
-    <a href="/handbook/leadership/life-labs-learning/" class="btn btn-purple" style="width:200px;margin:5px;">LifeLabs Learning</a>
+    
   </div>
 </div>
 

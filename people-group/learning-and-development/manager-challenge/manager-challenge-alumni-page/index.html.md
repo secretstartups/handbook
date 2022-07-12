@@ -9,6 +9,12 @@ title: Manager Challenge Alumni
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Manager Challenge Currently Paused
+
+**Please note that the next Manager Challenge has been paused until further notice.**
+
+Team member can reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) with any questions about upcoming manager training or utilize their [Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) for external training opportunities.
+
 ## Introduction
 
 Congrats on making it through GitLab's Manager Challenge Program! We are thrilled that you have completed the training, but your road to personal development as a leader isn't over. There are lots of ways you can continue to practice your skills. 
@@ -35,14 +41,6 @@ GitLab offers the following benefits for team members to receive coaching:
 
 **Note:** L&D is exploring a formalized coaching program for the organization
 
-### LifeLabs Learning
-
-Starting in January 2022, the L&D team will be piloting [LifeLabs Learning](https://about.gitlab.com/handbook/leadership/life-labs-learning/) to a grow of ten people leaders across the organization. LifeLabs Learning is the go-to team member resource for over 1000 organizations. They offer leadership and people-skills training that blends science, playfulness, and practical tools. 
-
-The pilot audience will be participating in the [Manager Core 1](https://drive.google.com/file/d/1MJmxjrMSSCq3lWOOks-vMnzdzPucI0jp/view) and [Manager Core 2](https://drive.google.com/file/d/1f0HhqBfGn1lnaYSMHcYYqauwyOkNHS0R/view) training curriculum. 
-
-You can follow along in the #lifelabs-learning-pilot channel
-
 ### Leadership Chats
 
 Join the [Leadership Chats](/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/) which are monthly calls for people leaders at GitLab. These forums are a great way for managers to continue the discussion following the Manager Challenge program. 
@@ -50,8 +48,6 @@ Join the [Leadership Chats](/handbook/people-group/learning-and-development/mana
 ### Recommended Books 
 
 Check out some of the recommended books on the [leadership section](/handbook/leadership/#books) of the handbook. 
-
-#### Feedback 
 
 ## Aspiring Managers Resources
 
