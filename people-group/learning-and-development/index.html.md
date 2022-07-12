@@ -97,7 +97,7 @@ _Performance indicators_
 
 1. **Community.** L&D offerings available to the public so that everyone can contribute.
 
-### What are we not responsible for
+### What are we not responsible for?
 
 1. Customer & Product Training
 2. Designing, developing, and delivering comprehensive training to all team members
@@ -121,7 +121,7 @@ _Performance indicators_
 
 Internally, the GitLab People Group uses a calendar to track cross-functional efforts. Please see the [People Group Page](/handbook/people-group/#team-calendars) for more information.
 
-## L&D Organization
+## Learning & Development Organization
 
 We are a small team, but we've got a big role to play at GitLab! 
 
