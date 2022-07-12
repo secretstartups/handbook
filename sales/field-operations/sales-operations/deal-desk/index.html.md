@@ -380,7 +380,7 @@ Important:
 
    2 scenarios when new subscription quote is allowed on a renewal opp:
      - Contract reset (aka early renewal)
-     - Customer has lost access or customer decided to renew after 45 days (this is the only scenario where a gap is allowed between renewals)
+     - Customer has lost access or customer decided to renew after 30 days (this is the only scenario where a gap is allowed between renewals)
 
 **Standard Renewal**
 *   Open the Renewal opportunity and click the **“New Quote”** button.
