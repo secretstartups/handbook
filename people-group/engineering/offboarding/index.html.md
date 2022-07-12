@@ -41,29 +41,16 @@ The pipeline is scheduled to run every hour and scan the offboarding spreadsheet
 
 ### Scheduled offboarding issue creation
 
-Every 15 minutes, a pipeline scans the offboarding spreadsheet for rows where the `Garden Leave (Non-US) Start Date`/`Last Working Day (US only) Start Date` occurred within the past 15 minutes. If neither are specified, `Termination Effective Date` is used as a fallback. For each row matching this criterion, it will perform the same actions as if a People Experience Associate ran `/pops run offboarding <EMPLOYEE_NUMBER>` (see [Manually initiated offboarding issue creation](#manually-initiated-offboarding-issue-creation) and [Offboarding merge request](#offboarding-merge-request) sections).
+Every 15 minutes, a pipeline scans the offboarding spreadsheet for rows where the `Garden Leave (Non-US) Start Date`/`Last Working Day (US only) Start Date` occurred within the past 15 minutes. If neither are specified, `Termination Effective Date` is used as a fallback. For each row matching this criterion, it will perform the same actions as if a People Experience Associate ran manually initiated the offboarding. (see [Manually initiated offboarding issue creation](#manually-initiated-offboarding-issue-creation) and [Offboarding merge request](#offboarding-merge-request) sections).
 
 The manual process is kept as a backup process should the automation fail or for exceptional cases where a team member offboarding cannot be added to the offboarding spreadsheet.
 
 ### Manually initiated offboarding issue creation
 
-The Slack command used by the People Experience Associate for offboarding issues is:
-
-```
-/pops run offboarding <EMPLOYEE_NUMBER>
-```
-
-The offboarding issue will be automatically assigned to the People Experience Associate
+After a People Experience Associate runs the Slack command to open the issue, this will be automatically assigned to the People Experience Associate
 who ran the command and the outgoing team member's Manager.
 
-The job then grabs various details of the outgoing team member, like country of
-residence, entity through which they are hired, division, department, job title
-etc. For each of these details, it checks for the existence of a task file in
-the [`offboarding_tasks` folder](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/.gitlab%2Fissue_templates%2Foffboarding_tasks)
-of the `employment` project. These tasks files are of the format
-`country_<country name>.md`, `entity_<entity name>.md`, `division_<division name>.md`,
-`department_<department name>.md`, etc. If such a file is found, it includes
-contents of those files also in the offboarding issue.
+The job then grabs various details of the outgoing team member, like country of residence, entity through which they are hired, division, department, job title etc. For each of these details, it checks for the existence of a task file in the [`offboarding_tasks` folder](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/.gitlab%2Fissue_templates%2Foffboarding_tasks) of the `employment` project. These tasks files are of the format `country_<country name>.md`, `entity_<entity name>.md`, `division_<division name>.md`, `department_<department name>.md`, etc. If such a file is found, it includes contents of those files also in the offboarding issue.
 
 This issue is added to the [team member's epic](/handbook/people-group/engineering/employment-issues#epics).
 
@@ -80,7 +67,7 @@ includes:
 In the event that the merge request has become out of date and the `/rebase` quick action isn't working a People Experience Associate can follow these steps to regenerate the MR:
 
 1. Close the MR that is out of date, and ensure to delete the branch that this was created on.
-1. Run `/pops run offboardteampage <EMPLOYEE_NUMBER>` to re-trigger the automation.
+1. Run the offboarding team page Slack command to re-trigger the automation.
 1. Verify that the MR has been opened.
 
 ### Remove from Guardian

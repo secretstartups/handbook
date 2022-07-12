@@ -32,15 +32,9 @@ graph TD
 
 ## Career Mobility issue creation
 
-The Slack command used by the People Experience Associate for career mobility issues is:
+One a People Experience Associate runs the career mobility command through Slack, this triggers a pipeline in the `employment` project, which will run the job `transition`, and reply with a link to the newly created Career Mobility issue.
 
-```
-/pops run careermobility <id_in_BambooHR_URL>
-```
-
-The Slack command triggers a pipeline in the `employment` project, which will
-run the job `transition`, and reply with a link to the newly created Career Mobility
-issue. The issue will be automatically assigned to the following people:
+The issue will be automatically assigned to the following people:
 
 - People Experience Associate who ran the command
 - the team member
@@ -48,7 +42,7 @@ issue. The issue will be automatically assigned to the following people:
 - the new manager of the team member
 - the People Business Partner for the team member's department or division
 
-This issue is added to the [team member's epic](/handbook/people-group/engineering/employment-issues#epics).
+This issue is then added to the [team member's epic](/handbook/people-group/engineering/employment-issues#epics).
 
 ## Make confidential
 Sometimes, issues are created by humans instead of a bot, in this case they can forget to mark the issue as confidential. We run a daily pipeline to mark issues as confidential in the `training` project. This includes manager and interview training issues as the `employment` project is internal to GitLab team members anyway.

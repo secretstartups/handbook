@@ -42,11 +42,7 @@ graph TD
 
 ## Onboarding issue creation
 
-The onboarding issue creation is a semi-automated process. Meaning that it needs to be triggered by a People Experience Associate to be started. The way they trigger this is by using a Slack command:
-
-```
-/pops run onboarding <BHR_EMPLOYEE_ID>
-```
+The onboarding issue creation is a semi-automated process. Meaning that it needs to be triggered by a People Experience Associate to be started. A People Experience Assocatiate can make use of the `onboarding` Slack command to initiate the process.
 
 The onboarding issue will be automatically assigned to the People Experience Associate
 who ran the command and the incoming team member's Manager.
@@ -68,6 +64,8 @@ If you want to read more about how employment issues are set up, please read [th
 
 ## Joining announcement
 
+> This Job has currently been disabled, but may be brought back in the future.
+
 A scheduled pipeline is configured to automatically send a message containing a
 list of all new team members who are joining GitLab in the following week. It
 includes details like name, email address, joining date, and their job title.
@@ -76,12 +74,7 @@ detailed breakdown and overview of the hiring process over time.
 
 While we create this message, we check if there are any team members that have
 "missing data". When they do, the message, is sent to `#peopleops-alerts`. This
-way, the People Experience associate, can make sure the data is added and run the
-following command to re-run the pipeline:
-
-```
-/pops run joiningannouncement
-```
+way, the People Experience associate, can make sure the data is added and run the `joiningannouncement` Slack command.
 
 When there is no missing data, the message is posted directly to `#team-member-updates`.
 
@@ -99,9 +92,7 @@ The invite email is send to their `GitLab` email address which they will get acc
 ## Enable self-service
 Our team members are expected to update their BambooHR profile on their first day at GitLab. To be able to do that they need to have `self-service` access level enable on BambooHR. We run a scheduled pipeline every day that enables this for team members starting the following day.
 
-In the event we failed to enable a particular team members account, a PEA can run the following command:
-
-```/pops run activateselfservice <EMPLOYEE_NUMBER>```
+In the event we failed to enable a particular team members account, a PEA can use the `activateselfservice` Slack command to re-trigger this automation for the team member.
 
 This will attempt to enable the Self Service feature of their BambooHR profile.
 
@@ -132,14 +123,12 @@ This data is used to populate the email that we then send to them. The email add
 
 #### Manual Onboarding E-Mail
 
-If for some reason the e-mail could not be sent, we have added functionality for a People Experience Associate to be able to manually send this by running a Slack command.
-
-```/pops run onboardingemail <EMPLOYEE_NUMBER>```
+If for some reason the e-mail could not be sent, we have added functionality for a People Experience Associate to be able to manually send this by running the `onboardingemail` Slack command.
 
 This  triggers the following flow:
 ```mermaid
 graph TD
-    A[./pops run onboardingemail BHR_ID] -->B(Finds the open onboarding issue)
+    A[PEA triggers the automation via Slack] -->B(Finds the open onboarding issue)
     B --> C(Finds the BHR profile from the onboarding issue description)
     C --> D(Sends the e-mail to the team member)
 ```
@@ -236,17 +225,11 @@ The merge request is assigned to the People Experience Team and they set it to m
 In the event we run into errors with the Team Page sync, we have some backup plans in place.
 
 In case team members did not fill in the required data, we won't be able to sync them. A People Experience Associate
-can later on sync them with the following Slack command:
-
-`/pops run teampageindividual <EMPLOYEE_NUMBER>`.
+can later on sync them by running the `teampageindividual` Slack command.
 
 This will spin up a pipeline and fetch the details. Note that if the team member was synced already, it will abort the sync.
 
-If the **entire** group of team members was missed, in the event of a failed pipeline or another error, a People Experience Associate can re-run the sync by using the following Slack command:
-
-`/pops run teampageweek <YYYY-MM-DD>`
-
-Please ensure the date format is correct as this should follow, `YYYY-MM-DD` format, for example `2022-05-17`.
+If the **entire** group of team members was missed, in the event of a failed pipeline or another error, a People Experience Associate can re-run the sync by using the `teampageweek` Slack command.
 
 This will trigger a new pipeline and fetch the new team members of the provided week and create a new merge request adding them to the Team page.
 
@@ -313,13 +296,3 @@ For every eligible team member we send out two emails:
 - one to the team member's manager: this is determined by the manager for the team member on Workday
 
 The email address used to send the email is `peoplespecialists@domain` and is set with a `reply-to: peopleops@domain` as nobody monitors replies to `peoplespecialists@domain`. The email address is strictly used for automation.
-
-### Fallback
-
-If for some reason the automation fails and we are unable to send the renewal contract, a People Experience Associate can run:
-
-```
-/pops run netherlandsrenewalcontract <EMPLOYEE_NUMBER>
-```
-
-To send the renewal contract e-mail accordingly.
