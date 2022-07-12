@@ -92,12 +92,12 @@ Note that you cannot send public replies to customers with a Light Agent account
 
 ### GitLab changes and contacting users
 
-You can request Support to contact GitLab.com users on your behalf. 
+You can request Support to contact GitLab.com users on your behalf.
 
 Here are some cases when you can request us to contact users:
 
 - you believe the planned production changes to GitLab will have a high impact on users and/or create numerous inbound tickets
-- you need to inform customers of an urgent Security related issue 
+- you need to inform customers of an urgent Security related issue
 - you've blocked a user on GitLab.com
 - you need to interview a specific account because they are exhibiting atypical usage patterns or behaviors
 - there are important project/group affecting changes
@@ -108,7 +108,7 @@ Here are some cases when you can request us to contact users:
 | Contact a user during an incident | [Open a confidential infra issue, assign it to the current CMOC](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data), use `confidential_incident_data` template | #support_gitlab-com |
 | Contact a single user | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template | #support_gitlab-com |
 | Prepare Support for changes (with or without contacting select users) | [Open a Support Readiness issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Readiness) | #spt_managers |
-| I need to reach out to many users | Review [the tools and users table](/handbook/support/workflows/sending_notices.html#tools-and-approvals) for a guide on how to most effectively send communications. | #spt_managers | 
+| I need to reach out to many users | Review [the tools and users table](/handbook/support/workflows/sending_notices.html#tools-and-approvals) for a guide on how to most effectively send communications. | #spt_managers |
 
 **Please note**: This is not for marketing or sales related contact. This channel is only for communication with users regarding important items that might affect their usage of GitLab SaaS.
 
@@ -122,7 +122,7 @@ Here are some cases when you can request us to contact users:
 
 All internal requests regarding licensing, subscriptions, trials, and grace period extensions  should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
 
-A list of common scenarios and the appropriate option are detailed in the following table. 
+A list of common scenarios and the appropriate option are detailed in the following table.
 
 > **NOTE**: Support will not start a trial. If one is needed, *have the user initiate a normal trial first*.
 > **NOTE**: Sales Manager approval is required on the ticket for any extensions requested greater than 30 days.
@@ -138,7 +138,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Billing Entity Change | Use this as part of the process of a billing entity change. |
 | **SaaS Trial Related** | |
 | Extend a SaaS trial | Use this when the customer's namespace is on a trial that is active/expired. A trial extension of more than 30days will need manager approval. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one. |
-| Change an existing SaaS trial plan | Use this when you want to make changes to the plan of a currently active trial, including adding CI minutes or activation of trial runners and overriding the requirement for credit card validation on sales assisted trial namespace or consumption users. The number of users for GitLab.com trials are not restricted. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one.  |
+| Change an existing SaaS trial plan | Use this when you want to make changes to the plan of a currently active trial, including adding CI minutes or activation of trial runners and overriding the requirement for credit card validation on sales assisted trial namespace. The number of users for GitLab.com trials are not restricted. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one.  |
 | **Self-Managed License Related (for paid customers only)** | |
 | Extend an (almost) expired subscription | Use this when the customer has a license and their grace period is (almost) expired. An extension of 30 days or more requires approval from a Sales Manager. Please note we cannot extend the actual license. This instead makes a trial license for the customer and uses that for the extension. |
 | Customer did not receive the license | Use this when the customer has not received a paid license from us when they should have. Please note we can resend a license to the contact in the license only.|
@@ -155,7 +155,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Wider Community License | Use this to request a community license be generated. Please note for any license lasting longer more than 90 days, manager approval is required. Without an approving manager's email being provided, the ticket will be closed out |
 | Other (nothing else fits the request) | Use this when nothing else fits. Please note if this is used when an option **does** exist, the request will be closed and you will need to re-submit your request using the correct option. |
 
-Grace period extensions are also treated similarly to trial extensions for both SelfManaged and GitLab.com SaaS. 
+Grace period extensions are also treated similarly to trial extensions for both SelfManaged and GitLab.com SaaS.
 To request these, file a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/)
 with the correct option as highlighted in the table above.
 
@@ -166,7 +166,7 @@ Please consider the following:
 
 ### US Federal Internal Requests
 
-*Public Sector organizations:** For confidential license issues, GitLab team members can [open a case with US Federal Support](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001803151).  
+*Public Sector organizations:** For confidential license issues, GitLab team members can [open a case with US Federal Support](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001803151).
 
 **Note:** This form is not publicly listed and is for internal GitLab team member use only.
 

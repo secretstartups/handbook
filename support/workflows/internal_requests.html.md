@@ -60,7 +60,7 @@ graph TD;
 
 ## Activate Trial Runners
 
-For sales assisted trials, only we can override the credit card validation requirement for a namespace. Note that there is a [special process](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3479#consumption-users) for consumption users. These requests require console access.
+For sales assisted trials, only we can override the credit card validation requirement for a namespace.
 
 ## GitLab.com Trial Change Request
 
@@ -72,7 +72,7 @@ GitLab team members can create this request for their own use. Customers can sub
 
 ## Contact Request
 
-GitLab team members will use this template to request Support to contact a user on their behalf. 
+GitLab team members will use this template to request Support to contact a user on their behalf.
 
 Usually, these are assigned to [CMOC](/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces), but can also be completed by anyone with admin-level access to GitLab.com. `Admin Escalation` label is applied and everyone with admin access is supposed to be subscribed and working on such issues.
 
