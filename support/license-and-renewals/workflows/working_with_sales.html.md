@@ -91,7 +91,7 @@ DO NOT pass to Sales:
 - The customer is trying to reach sales person to renew, but haven't received a response - Instead ask customer what they need assistance with and see if we can assist.
 - The customer asks a product or process question (we can answer this or put in another Support queue most of the time)
 - The customer has renewed, but they didn't add enough users - ask the customer to use the Add more seats button in customers portal.
-- The customer wants to renew for less seats than their current subscription. The customer can renew for a minimum of their current usage or more. If they want to renew for less seats, they have to bring their seat usage down before the renewal.
+- The customer wants to renew for less seats than their current subscription. The customer can renew for a minimum of their current usage or more. If they want to renew for less seats, they have to bring their seat usage down before the renewal, [disable automatic renewal](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#enable-or-disable-automatic-subscription-renewal) and manually renew the subscription (for [SaaS](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#renew-or-change-a-gitlab-saas-subscription) and [Self-Managed](https://docs.gitlab.com/ee/subscriptions/self_managed/#renew-a-subscription)).
 
 NB, Sales does not simply waive trueups, there is an approval process for exceptional cases. Please don't set the expectation that any fees will be waived. When in doubt, ask in Slack for a second opinion.
 
