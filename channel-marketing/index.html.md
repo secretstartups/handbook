@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Global Channel and Alliances Marketing"
+description: "Global Channel and Alliances Marketing supports global channel and alliances sales objectives and providing support to the GitLab channel partner community and customers."
 ---
 
 ## On this page
@@ -38,7 +39,7 @@ As a service bureau to a wide variety of teams, we have support functions that a
 *   Provide review and approval for local/regional [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) plans with partners
 *   Provide review and approval of Channel Account Manager (CAM) marketing plans.
 *   Build a repeatable, predictable, sustainable and desirable model enabling partners to receive, accept, nurture and close GitLab leads leveraging the GitLab Partner Portal and Vartopia Deal Registration system.  (future link to documentation of the process)
-*   Enable channel partners to add “[GitLab free trial](https://about.gitlab.com/free-trial/self-managed/)” functionality to their websites with marketing tools and lead passing to allow partners to effectively generate and nurture their own leads.  This will serve as partner primary CTA within demand generation efforts. 
+*   Enable channel partners to add “[GitLab free trial](https://about.gitlab.com/free-trial/)” functionality to their websites with marketing tools and lead passing to allow partners to effectively generate and nurture their own leads.  This will serve as partner primary CTA within demand generation efforts. 
 *   For Select Partners, participate in partner QBRs and provide input and ideation on successful go to market campaigns and initiatives to help partners drive more business with GitLab. 
 *   On a monthly basis, provide marketing content and input to the Global Channel Operations team for use in the global channel communication/newsletter 
 *   On a quarterly basis, host global marketing webcasts to the partner community.
