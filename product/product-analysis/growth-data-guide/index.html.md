@@ -510,25 +510,29 @@ _A brief guide clarifying the granularity, important fields, recommended filters
 
 ### Namespaces
 
-_Provides helpful fields on every namespace such as the `namespace_id`, `namespace_created_at` date, and `namespace_type`._
+_Provides helpful fields on every namespace such as the `dim_namespace_id`, `created_at` date, and `namespace_type`._
 
 <details markdown="1"><summary>Click to expand</summary>
 
-`legacy.gitlab_dotcom_namespaces_xf` ([dbt](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_namespaces_xf))
+`common.dim_namespace` [(dbt)](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_namespace)
 
-**Summary:** Provides helpful fields on every namespace such as the `namespace_id`, `namespace_created_at` date, and `namespace_type`. This can be joined with numerous event, subscription, and member tables. In addition, this table can usefully be joined to certain user-centric tables for enhanced filtering capabilities such as removing blocked users and filtering for namespaces that are set up for a company account.
+**[Data Team's Definitive Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/)** 
+
+**[Product Data Insights documented differences between legacy and common models](https://gitlab.com/gitlab-data/product-analytics/-/issues/363)** 
+
+**Summary:** Provides helpful fields on every namespace such as the `dim_namespace_id`, `created_at` date, and `namespace_type`. This can be joined with numerous event, subscription, and member tables. In addition, this table can usefully be joined to certain user-centric tables for enhanced filtering capabilities such as removing blocked users and filtering for namespaces that are set up for a company account.
 
 **Granularity:** 1 record per namespace
 
 **Key Filters:**
 
 - `namespace_is_internal = FALSE`: Excludes internal namespaces
-- `namespace_ultimate_parent_id = namespace_id`: Includes only top-level namespaces
+- `ultimate_parent_namespace_id = dim_namespace_id`: Includes only top-level namespaces
 - `namespace_type = 'Group'`: Recommended since most Growth initiatives are built around Group namespaces
 
 **Items of Note:**
 
-- Plan-related and member count data points: Since there is only one record per namespace, that means plan changes are not captured in this data set. Especially from a Growth mindset, the plan at certain points in a namespace's lifecycle (namespace creation, 90 days after creation, etc) and the transition from one plan to the next (such as Free to Trial to Paid) are more helpful.
+- Plan-related and member count data points: Since there is only one record per namespace, that means plan changes are not captured in this data set. Especially from a Growth mindset, the plan at certain points in a namespace's lifecycle (namespace creation, 90 days after creation, etc) and the transition from one plan to the next (such as Free to Trial to Paid) are more helpful. Please reference [common.dim_namespace_plan_hist](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_namespace_plan_hist) and [common.dim_namespace_hist](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_namespace_hist) documentation which outline models containing historical snapshots.
 
 </details>
 
