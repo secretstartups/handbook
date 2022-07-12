@@ -30,7 +30,7 @@ Support ChatOps documentation</a> for more information.
 </details>
 
 ## Purchased CI minutes are not associated with customer's group
-To transfer CI minutes from a user's personal namespace to a group namespace, use the [Force Association Mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html). 
+To transfer CI minutes from a user's personal namespace to a group namespace, use the [Force Association Mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html).
 
 **If the Mechanizer does not work**, you will need to request a refund for the customer.  In this case:
 - Confirm that the CI minutes *are* associated with the user's personal namespace.
@@ -71,8 +71,8 @@ The following process will remove the restrictions for using CI minutes for grou
 
 > <i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: Soon to be [deprecated](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#mechanizer-notice)
 
-Use the form named [enable Ci Minutes](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/enable_ci_minutes.html). 
-Choose if the group is a consumption group and enter the namespace information.
+Use the form named [enable Ci Minutes](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/enable_ci_minutes.html).
+Enter the namespace information.
 
 ### Using customerDot Console
 
