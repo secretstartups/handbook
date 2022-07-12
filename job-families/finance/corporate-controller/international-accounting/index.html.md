@@ -10,7 +10,7 @@ description: " _add high level description of job family_ "
 This role report to Director or Senior Director, International Accounting
 
 #### Manager, Accounting, Global Consolidation & Reporting Job Grade
-Manager, Accounting, Global Consolidation & Reporting is a grade [9].
+Manager, Accounting, Global Consolidation & Reporting is a grade [8].
 
 #### Manager, Accounting, Global Consolidation & Reporting Responsibilities
 
