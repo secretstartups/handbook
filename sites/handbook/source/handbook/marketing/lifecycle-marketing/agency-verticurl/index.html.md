@@ -119,6 +119,10 @@ In an effort to avoid manually adding the issues we are working on with Verticur
 - **FMM-Verticurl::review** - label Verticurl adds when they are ready for us to review the work they have completed
 - **FMM-Verticurl::scheduled** - label Verticurl adds when email sends have been scheduled
 
+### SLA with Verticurl
+
+Please note we have a 5 business day SLA with Verticurl, so please plan ahead accordingly. 
+
 ### Triage Steps
 {: #triage-steps-fmm}
 
