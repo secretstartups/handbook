@@ -456,7 +456,7 @@ merch_one:
   sidebar_body_content: "Harness the power of the cloud with microservices, cloud-agnostic DevOps, and workflow portability."
 
 merch_two:
-  destination_url: "/compare/github-actions-alternative/"
+  destination_url: "/devops-tools/github-vs-gitlab/"
   cta_text: "View now"
   banner_image_source: "/images/merchandising-content/mc-mastering-cicd-vertical.png"
   banner_body_title: "Master your CI/CD"
