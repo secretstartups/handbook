@@ -16,6 +16,19 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q2-FY23
 
+### 2022-07-12 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/151))
+
+**Sales Ops: [Chorus Tracker Requests](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3006)**
+
+**Marketing Ops/Sales Ops : [Outreach Visibility Updates](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6577)**
+
+**Sales Ops: [Late Renewal Policy Change Enforced in SFDC](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2615)**
+
+**Channel Ops: [Deal Registration Management Changes](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2776)**
+
+**Channel Ops: [Channel Operations now able to Create Opportunities in SFDC](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues/508#note_1009967920)**
+
+
 ### 2022-06-27 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/143))
 
 **Sales Ops: [Auto population of ISR fields on Accounts and Opportunities](https://about.gitlab.com/handbook/sales/insidesales/#isr-alignment)**
