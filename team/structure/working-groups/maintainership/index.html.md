@@ -122,3 +122,103 @@ Use these labels to identify if a change is ready to be communicated or if it ha
 - `~"Maintainership WG Comms::ToDo"` - This update is ready to be communicated
 - `~"Maintainership WG Comms::Needs Support"` - This update needs something additional to support it when it is announced. This could be things like handbook updates, an FAQ, or an AMA.
 - `~"Maintainership WG Comms::Done"` - This update has been communicated
+
+### Runbook
+
+#### Levels of announcements
+
+There are generally three types of announcements that could apply to any update:
+
+1. **Alert** - Something certain individuals *might want to be aware of*.
+
+  Example: letting trainees and maintainers know that the program is meant to last one year, at which time it should be evaluated.
+
+  Alerts are the lowest priority type of announcement. If some people miss it, that is not a problem. Alerts can usually be announced one time.
+
+1. **Change** - Something certain individuals *need to be aware of*.
+
+  Example: changing the number of approvals necessary to become a maintainer.
+
+  Changes usually require adoption, which is not something that happens after a single announcement. So it is important to not only communicate to the effected individuals, but also those who can endorse and promote the changes such as engineering managers or higher levels of management.
+
+  Some announcements may gain a wider audience if they come from someone in senior management. If the subject matter is high enough in priority, consider reaching out to your sub-department director for guidance or asking in an engineering staff meeting for help with the announcement.
+
+1. **Action** - Something that requires certain individuals to take action within a given time period of the announcment.
+
+  Example: requesting survey feedback or communicating a behavior change that needs to be adopted within a certain time frame.
+
+  Depending on the priority and urgency of the action needed, additional reminders are appropriate. For surveys, reposting a few times within the time frame before the survey closes is appropriate. 
+
+#### Making an announcement
+
+Consider the following questions when making an announcement:
+
+- **Are there any other areas of the docs or handbook that should be updated?** Ensure there is no conflicting information that could cause confusion.
+- **Do you have links to the handbook or docs to accompany the announcement?** Ensure more information is available for those who need it.
+- **Do you have a place where people can go with more questions or clarifications?** Provide an issue/doc/slack channel/AMA if it is expected that people may want further details.
+- **Does this change disrupt an established process?** If so, it may make sense to prompt managers to take action to raise awareness and adoption of the process.
+- **Is the change large enough that we may have a large number of questions?** Consider opening an FAQ file or scheduling an AMA (`@sabrams` can also facilitate these items).
+
+- [ ] Include links to the most relevant piece of information. Do not overcrowd the announcement with non-primary links.
+- [ ] If the announcement is for **awareness**: 
+  - [ ] Communicate it to the most [relevant slack channel](#communication-channels) and cross-post to other relevant channels
+  - [ ] Add it to eng-week-in-review
+- [ ] If the announcement is for **action**
+  - [ ] Communicate as above and consider adding it to management staff meetings.
+- [ ] If you are seeking feedback as a result, provide a link to where feedback can be given
+
+##### Divisive changes
+
+Sometimes changes are controvertial or involve subjects where people might have deep opinions. It is important that when such changes occur, everyone has access to resouces and information to help them understand:
+
+- How they are affected
+- Why the change was made
+- Where they can give feedback
+
+An FAQ or AMA can be helpful in supplying much of this information. 
+
+Ideally, we want people to embrace a change, but at the least, we need to start with adoption. To help guide embracement, the "why" behind the change has to be strongly defined, optimally with strong data backing it.
+
+#### Conducting a survey
+
+- [ ] Establish the goal of the survey
+- [ ] Share in the most [relevant slack channel](#communication-channels) and cross-post to other relevant channels
+- [ ] Communicate the end date or due date for the survey
+- [ ] Define a minimum number of responses to make the results representative/useful
+- [ ] Add a question to distinguish between different subgroups if applicable (frontend/backend, reviewer/trainee/maintainer) for pivoting the results.
+
+#### Communication channels
+
+It is appropriate for almost any changes to be communicated in:
+
+- `#development`
+- `#eng-week-in-review`
+
+Communicating in `#whats-happening-at-gitlab` is also a good idea for changes that effect large groups of people.
+
+Here are a few different categorizations of changes that can help you decide which channels to consider communicating to.
+
+##### By exit criteria
+
+Exit Criteria | Relevant Channels
+----------- | -----------------
+[Create an implementation plan to remedy gaps in Maintainership coverage](https://gitlab.com/groups/gitlab-com/-/epics/1817) | Channels for the projects directly effected by the changes.
+[Develop metrics to provide more transparency into the health of the Maintainership program](https://gitlab.com/groups/gitlab-com/-/epics/1816) | <ul><li>`#eng_managers`</li><li>Engineering staff meetings</li></ul>
+[Update expected behaviors and responsibilities for Engineers and Maintainers](https://gitlab.com/groups/gitlab-com/-/epics/1815) | <ul><li>`#trainee_maintainers`</li><li>`#backend_maintainers`</li><li>`#frontend_maintainers`</li><li>`#database_maintainers`</li><li>`#eng_managers`</li><li>Engineering staff meetings</li></ul>
+[Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) | <ul><li>`#trainee_maintainers`</li><li>`#backend_maintainers`</li><li>`#frontend_maintainers`</li><li>`#database_maintainers`</li><li>`#eng_managers`</li><li>Engineering staff meetings</li></ul>
+
+##### For `gitlab-org/gitlab` (GitLab Rails)
+
+Topic | Relevant Channels
+----- | -----------------
+Backend | <ul><li>`#backend`</li><li>`#backend_maintainers`</li></ul>
+Frontend | <ul><li>`#frontend`</li><li>`#frontend_maintainers`</li></ul>
+Database | <ul><li>`#database`</li><li>`#database_maintainers`</li></ul>
+Trainee updates | <ul><li>`#backend_maintainers`</li><li>`#frontend_maintainers`</li><li>`#trainee_maintainers`</li></ul>
+Responsibility/process updates | Any of the above channels and `#eng_managers`
+
+##### Other projects
+
+For changes concerning a specific project, try to notify the group that owns the project in addition to specific channels for that project. For example, workhorse changes should be communicated to `#workhorse` and `#g_create_source_code` as the owners of that project.
+
+The [product category page](https://about.gitlab.com/handbook/product/categories/) and the [projects page](https://about.gitlab.com/handbook/engineering/projects) may be helpful for determining which groups and stages own specific projects. If it is not apparent, another way to determine ownership include filtering the project members by direct membership and asking the owners or maintainers directly who owns the project.
