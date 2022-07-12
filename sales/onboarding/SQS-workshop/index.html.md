@@ -33,21 +33,19 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
-|July 8, 2022 | 11:00a ET | 11:50a ET | Welcome Call | Field Enablement  |
+|July 5, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement  |
 |July 13, 2022 | 11:00a ET | 12:20p ET | Essential Questions Exercise | Field Enablement  |
 |July 13, 2022 | 12:30p ET | 1:50p ET | Value Card Exercise | Field Enablement |
-|July 14, 2022 | 11:00a ET | 12:20p ET | Discovery Question Exercise | Field Enablement  |
-|July 14, 2022 | 12:30p ET | 1:50p ET | Differentiator Exercise | Field Enablement  |
-|July 15, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
-|July 15, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
+|July 14, 2022 | 10:00a ET | 11:20a ET | Discovery Question Exercise | Field Enablement  |
+|July 14, 2022 | 11:45a ET | 1:05p ET | Differentiator Exercise | Field Enablement  |
+|July 15, 2022 | 12:00p ET | 1:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
 |July 18, 2022 | 11:00a ET | 11:30a ET | Field Security |  Field Security Team   |
 |July 18, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
-|July 19, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services | Professional Services Team    |
-|July 19, 2022 | 12:00p ET | 12:50p ET | Discovery Call 1 | Mock Customers  |
+|July 19, 2022 | 10:00a ET | 10:50a ET | Discussion: Professional Services | Professional Services Team    |
+|July 19, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
 |July 20, 2022 | 11:00a ET | 11:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
 |July 20, 2022 | 12:00p ET | 12:50p ET | Discovery Call 2 | Mock Customers |
 |July 21, 2022 | 11:00a ET | 11:50a ET | Channels |  Channel Team   |
 |July 21, 2022 | 12:30p ET | 1:20p ET | Discovery Call 3 | Mock Customers |
-|July 22, 2022 | 12:00p ET | 1:00p ET | Intro to Competition | Competitive Intelligence  |
 
 
