@@ -47,20 +47,31 @@ Technical:
 
 ### Frontend group calls
 
-The frontend group has scheduled weekly calls every Tuesday, before the company call. During this call, team members are encouraged to share
+The frontend group has scheduled weekly calls every Tuesday. Since 2021-06-01, these occur at three staggered, time zone friendly times, repeating every three weeks. During these calls, team members are encouraged to share
 information that may be relevant to share with other members synchronously (Eg. new documentation change, new breaking changes added to `master`).
 
 To help identify possible conflict areas in a release we encourage members to post a link to a comment in an issue that you’re working on that crosses the borders of the domain of your stage group that you feel has the potential of colliding with the work of others.
-
 #### Frontend themed call
 
-We started in January 2018, with adding a monthly theme to the first call of each month. The purpose of these themes is to add some
-fun and quirkiness to our team calls (so that we can learn more about each other) but it shouldn't distract or derail into too much off-topic conversation.
+Each call may include a themed competition at the end, run by the designated [DRI](/handbook/people-group/directly-responsible-individuals/).
 
-**How does it work**
-- Winner of the previous theme will determine the theme of the next month
-- Theme will be announced a few weeks before the next month
-- Everyone in the call should write down who they think is the winner in the zoom chat and reveal it all at once (to prevent voting bias) during the voting
+The purpose of these themes is to add some fun and quirkiness to our team calls
+(so that we can learn more about each other) but it shouldn't distract or derail into too much off-topic conversation.
+
+##### Process
+
+The [DRI](/handbook/people-group/directly-responsible-individuals/) drives the themed portion of the call, and assigns
+the winner as the next DRI for that time zone.
+
+1. The DRI decides the theme for the next call for the same time zone, i.e., in three weeks' time.
+1. The DRI announces the theme in the `#frontend` Slack channel at least one day in advance.
+1. On the next call, at the end of the agenda, the DRI announces the theme and invites participants to share/vocalize their entries.
+1. After all entries have been shared, the DRI asks everyone to write which person they liked the answer the most on the meeting's zoom chat _**without sending**_.
+2. After everyone has written down their vote, the DRI counts down from 3, and on 0 everyone hits enter, sharing their answer at the same time (to prevent voting bias).
+1. The entry with the most votes becomes the winner. In the case of a tie, the winners decide which of them becomes the DRI. In case they didn't decide, the DRI can chime in on the decision.
+1. The DRI creates an MR to update the table of history below.
+1. The DRI replaces their own name with the winner's as the next DRI in the [agenda document (internal)](https://drive.google.com/open?id=116RqF100v-vRra87ckYIWAa3-F3kDvSseRSvEziJnbQ).
+1. `goto 1`
 
 | Date | Theme | Winner |
 |---|---|---|
