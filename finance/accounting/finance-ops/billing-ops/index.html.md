@@ -45,6 +45,7 @@ _The Billing Team works closely with Sales, Deal Desk, Accounts Receivable, and 
 * [Order requirements](/handbook/business-ops/order-processing/#step-8--submitting-an-opportunity-for-deal-desk-approval)
 * [Contacting the Legal team](/handbook/business-ops/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
 * [Questions about licenses and plans](/handbook/support/internal-support/#common-internal-requests---sales-team--technical-account-managers--accounts-receivable)
+* [Zuora Billing Tech Stack Guide](/handbook/finance/accounting/finance-ops/billing-ops/zuora-billing/)
 
 ## Communicating with Billing
 
@@ -95,7 +96,7 @@ See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/
 
 ### Zuora
 
-[Zuora](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/doc/architecture#zuora), a leader in the subscription management technology space, provides a platform which allows automation of subscription operations for businesses. We use Zuora's platform at GitLab to integrate with other platforms for billing and CRM, automate subscriptions flows and assist with reporting. The platform is considered the source of truth for many important business objects, like the product catalog, subscriptions, invoices, and more. More information on the Zuora Object Model can be found in [Zuora's Knowledge Center](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/D_Zuora_Business_Objects_Relationship). 
+[Zuora](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/doc/architecture#zuora), a leader in the subscription management technology space, provides a platform which allows automation of subscription operations for businesses. We use Zuora's platform at GitLab to integrate with other platforms for billing and CRM, automate subscriptions flows and assist with reporting. The platform is considered the source of truth for many important business objects, like the product catalog, subscriptions, invoices, and more. See the **[Zuora Billing Tech Stack Guide](/handbook/finance/accounting/finance-ops/billing-ops/zuora-billing/)** for details regarding Zuora Billing implementation, including the [Zuora Object Model](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/D_Zuora_Business_Objects_Relationship) and integrations with systems like CustomersDot.
 
 - **Zuora is used for the following:**
     - Billing of all customer accounts
@@ -105,8 +106,8 @@ See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/
     - Integrated to Avalara Tax Reporting Software
     - Integrated with Zuora Revenue
 
-See also: [Zuora](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/doc/zuora)
-
+> See the **[Zuora Billing Tech Stack Guide](/handbook/finance/accounting/finance-ops/billing-ops/zuora-billing/)** for technical implementation details.
+     
 ### Zendesk
 
 Zendesk is our support queue for customer inquiries. Each case is then converted into a Zendesk ticket and filtered into a `View`, ordered by category. As part of their daily workflow, the Billing Operations Team monitor these views and process tickets through completion.
