@@ -805,13 +805,19 @@ Effective Friday, 2022-04-08, Deal Desk manages AWS and GCP Private Offer creati
 - **All Private Offer requests must be made in chatter by tagging @Sales-Support on the related SFDC opportunity.** All Private Offer requests must include the following information:
   - Customer's AWS or GCP Billing ID
   - Customer Contact name and email address
+  - Allaince margin
+  - For GCP deals Mode of payment(Prepay or Postpay) should be confirmed when making a private offer request
     - Note: This contact must have the necessary permissions to accept the Private Offer in the marketplace
 - After a Private Offer request is made, Deal Desk will review the request and confirm the quote is tagged appropriately for AWS/GCP and confirm the Order Form acceptance section also includes AWS or GCP marketplace language.
 - Deal Desk will then create the private offer and send the offer to the contact identified by the opp owner. Notification emails will be sent to the opp owner to track the offer status.
 - At time of acceptance, an email will be sent to the GitLab Team and Deal Desk will chatter the documentation to close the deal.
-- The AWS deals do not need to be signed.
+- The AWS and GCP deals do not need to be signed.
 - When the deal is Closed Won, the license key file/subscription details will be automatically sent to the 'Sold To' contact on the GitLab Order Form.
-
+-For Route-to-market changes contract reset needs to be done . Credit will not be included in the order form and will be refunded at the time of booking based on the original mode of payment.
+-All Private offers are sent via Tackle.
+- Any queries related to tackle can be reached out at support@tackle.io
+-For AWS Portal queries i.e trouble accepting private offers or setting up an account can be reached at mpcustdesk@amazon.com
+- For GCP Portal queries can be reached at private-offers-team@google.com
 #### Working with Deal Desk vs. Alliance Business Development Managers (ABDMs)
 
 Please note that Deal Desk handles only Private Offer creation, edits to Private Offers, and the acceptance of Private Offers. For any other matters related to Alliances deals, **Sales must work with the appropriate ABDM.** The Alliances team can provide assistance and best practices that are vital to a successful marketplace transaction. 
