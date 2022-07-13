@@ -33,6 +33,29 @@ It is important to delineate who the EM and PM DRIs are for every functionality,
 
 Product direction can be found on the [Sec Section Product Direction](/direction/security/) handbook page.
 
+## Project Setup
+
+Keeping our projects organized is very important for productivity and maintainability. 
+- To setup a new project we follow the [company-wide Engineering guidelines](https://about.gitlab.com/handbook/engineering/gitlab-repositories/). 
+- All Sec projects should be organized into either
+  - https://gitlab.com/gitlab-org/secure
+  - https://gitlab.com/gitlab-org/protect
+  - https://gitlab.com/gitlab-org/security-products
+
+In general, we want to keep as few projects in `security-products` as necessary. 
+
+`security-products` should only contain :
+- Source code for applications that will run as part of a customer install
+- Demos
+- Historical projects that are difficult to move. 
+
+`secure` and `protect` should have projects for: 
+- End-to-end testing
+- Benchmarks / Stats 
+- Tooling
+
+There may be projects that should belong in `secure` or `protect` but for technical reasons are much easier to have in `security-products`. In those cases, we can locate the project in `security-products` if reasonable efforts were made to get the project in `secure` or `protect` but were unsuccessful.   
+
 ## Performance Indicators
 
 - [Sec Sub-department Performance Indicators](/handbook/engineering/metrics/sec/)
