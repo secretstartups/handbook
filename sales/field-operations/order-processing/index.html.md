@@ -246,7 +246,7 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
 1. Navigate to the applicable opportunity in SFDC. 
 2. Write a message in chatter explaining why you'd like to pause Auto-Renewal or Quarterly Reconciliation for the subscription. Tag @Sales-Support to request approval. Note that justification will be required.
   - Example: "@Sales-Support I'd like to request that Auto-Renewal be paused for this subscription. I'm working with the customer on an upsell, and I'd like to ensure we do not auto-renew the subscription at the current user count if negotiations do not end before the renewal date. Please let me know if you have any questions. Thank you!"
-3. If approved, Deal Desk will navigate to the Customer Subscription object in SFDC to temporarily disable the related feature. The feature will remain disabled until the next transaction occurs, at which time it will revert to its previous state.
+3. If approved, Deal Desk will navigate to the Customer Subscription object in SFDC to temporarily disable the related feature. To pause auto-renewal, Deal Desk will check the "Pause Auto-Renewal" box. To pause QSR, Deal Desk will check the "Pause Seat Reconciliation" box. The feature will remain disabled until the next transaction occurs, at which time it will revert to its previous state.
 
 #### Auto-Renewal, Quarterly Subscription Reconciliation, and Operational Data: Frequently Asked Questions
 
