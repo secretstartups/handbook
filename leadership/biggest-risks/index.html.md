@@ -89,7 +89,7 @@ We encourage operational excellence in the following ways:
 
 1. [Efficiency value](/handbook/values/#efficiency)
 1. [Long Term Profitability Targets](/handbook/finance/financial-planning-and-analysis/#long-term-targets)
-1. [KPIs](/handbook/business-ops/data-team/metrics/#gitlab-kpis)
+1. [KPIs](/company/kpis/#gitlab-kpis)
 1. Open source with a lot of wider community contributors who make it easier to uncover customer demand for features and allow our organization to stay leaner.
 1. A [single application](/handbook/product/single-application/) makes the user experience better, allows us to introduce new functionality to users, and it makes it easier for us to keep our velocity.
 1. Run the same code for GitLab.com and self-managed applications and [merged the CE and EE codebases](/blog/2019/02/21/merging-ce-and-ee-codebases/)
@@ -171,7 +171,7 @@ Keeping the _feel_ of a small startup, despite a growing headcount, may help ret
 ## 7. Ineffective Management
 {:#ineffective-management}
 
-Ineffective management could lead to decreased [team member retention](/handbook/people-group/people-group-metrics/#team-member-retention) and team member [satisfaction](/handbook/business-ops/data-team/metrics/#satisfaction), as well as make functioning difficult.
+Ineffective management could lead to decreased [team member retention](/handbook/people-group/people-group-metrics/#team-member-retention) and team member [satisfaction](/company/kpis/#satisfaction), as well as make functioning difficult.
 
 In order to address this, we:
 * Maintain the minimum number of [layers](/company/team/structure/#organizational-chart) to be effective
@@ -293,7 +293,7 @@ As we add more layers of management to accommodate the new people, it's easy to 
 To make sure this is clear we:
 
 1. Document who is the [DRI](/handbook/people-group/directly-responsible-individuals/) on a decision.
-1. Have clear [KPIs](/handbook/business-ops/data-team/metrics/#gitlab-kpis) across the company
+1. Have clear [KPIs](/company/kpis/#gitlab-kpis) across the company
 1. Have [Key Reviews](/handbook/key-review/)
 1. Have each job family include specific [performance indicators](/handbook/hiring/job-families/#why-job-families-have-performance-indicators)
 1. Have a [clear org-chart](https://comp-calculator.gitlab.net/org_chart) where [each individual reports to exactly one person](/handbook/leadership/#no-matrix-organization)
