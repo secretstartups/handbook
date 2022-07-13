@@ -8,7 +8,7 @@ title: Our Commitment to Individual User Privacy in relation to Service Usage Da
 While there are examples of data collection used for malicious intent, data collection and analysis has also allowed companies to improve their product or service, benefiting their end user/consumer. It is in this vein, that GitLab collects usage data about its products. We collect individual usage data in a pseudonymized manner at the namespace level and then use this information to power our product decisions and improve GitLab for you. We may also aggregate all this information to understand broadly how GitLab product is used.
 
 ### How we use Service Usage Data
-On our [Product Performance Indicators page](/handbook/product/ops-section-performance-indicators/), under each graph there is a `Lessons Learned` callout which summarizes insights and opportunities based on the usage data collected. The improvements made to the product through this process are largely attributable to usage data collection.
+On our [Product Performance Indicators page](/handbook/product/performance-indicators/), under each graph there is a `Lessons Learned` callout which summarizes insights and opportunities based on the usage data collected. The improvements made to the product through this process are largely attributable to usage data collection.
  
 As an example, the [Package](/handbook/product/categories/#package-stage) team at GitLab watches the usage metrics related to the count of users who published a package to the Package Registry over time. To be clear, the data they are analyzing is in an aggregate form, no user-identifiable information is analyzed. As a result of digging into the trends they identified this insight:
  
