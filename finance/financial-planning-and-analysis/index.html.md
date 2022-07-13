@@ -26,7 +26,7 @@ Maximize GitLab's long-term valuation by enabling eGroup and FP&A to plan, prior
 ## How GitLab’s FP&A plans to get there….
 1. Manage the budget and planning processes for GitLab's [Board Plan](/handbook/finance/financial-planning-and-analysis/#annual-plan-and-target)
 2. Build and maintain a [long-term financial model](/handbook/finance/financial-planning-and-analysis/#long-range-outlook) that identifies long-term strategy and financial targets
-3. Define business drivers and [KPIs](https://about.gitlab.com/handbook/business-ops/data-team/metrics/) in our operating and long-term models in collaboration with the business and measure efficacy of the business plan
+3. Define business drivers and [KPIs](https://about.gitlab.com/company/kpis/) in our operating and long-term models in collaboration with the business and measure efficacy of the business plan
 4. Own the rolling forecast process and provide actionable insights to ensure departmental performance vs. plan and strategy
 5. Drive quarterly earnings process as public company, including guidance and investor narratives
 6. Provide insights on the business drivers to constantly look for opportunities to improve performance
