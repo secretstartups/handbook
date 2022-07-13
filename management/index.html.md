@@ -84,7 +84,7 @@ information, and process to follow.
 - [Hiring](/handbook/engineering/management/hiring/)
 - [Career Development](/handbook/engineering/management/career-development/)
 - [Project Management](/handbook/engineering/management/project-management/)
-- [Team Retrospectives](/handbook/engineering/management/team-retrospectives/)
+- [Team Retrospectives](/handbook/engineering/management/group-retrospectives/)
 - [Development department metrics](/handbook/engineering/development/performance-indicators/)
 
 ## Management Roles
