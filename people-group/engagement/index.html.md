@@ -78,8 +78,8 @@ See the [example epics](https://about.gitlab.com/handbook/people-group/engagemen
 
 **FY23 Division-Wide Engagement Survey Action Epics:**
 
-- Engineering
-- Product
+- [Engineering](https://gitlab.com/groups/gitlab-com/-/epics/1887)
+- [Product](https://gitlab.com/groups/gitlab-com/-/epics/1883)
 - Sales
 - Marketing
 - Finance
