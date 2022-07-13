@@ -19,7 +19,7 @@ Example Data Science projects include:
   * customer churn and uplift prediction
   * hypothesis testing and forecasting
 
-Data Scientists are a part of the [Data Team](/handbook/business-ops/data-team/) and report to the [Director/ Sr. Director, Data & Analytics](/job-families/finance/dir-data-and-analytics/).
+Data Scientists are a part of the [Data Team](/handbook/business-technology/data-team/) and report to the [Director/ Sr. Director, Data & Analytics](/job-families/finance/dir-data-and-analytics/).
 
 ## Levels
 

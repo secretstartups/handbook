@@ -26,7 +26,7 @@ The Manager, Data is a [grade 8](/handbook/total-rewards/compensation/compensati
 * Understand the big picture and demonstrate how your team supports it through prioritization, planning, and solutioning
 * Participate in [Monthly Key Reviews](https://about.gitlab.com/handbook/key-review/) to represent Data and stay up-to-date of company developments
 * Implement the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
-* Continuously develop the [Data Team Handbook](https://about.gitlab.com/handbook/business-ops/data-team/) to ensure it represents the current state of our strategy, processes, and operations
+* Continuously develop the [Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team/) to ensure it represents the current state of our strategy, processes, and operations
 
 #### Requirements
 
