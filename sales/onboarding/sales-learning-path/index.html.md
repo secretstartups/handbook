@@ -267,8 +267,8 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
   - Zendesk is the tool the GitLab Support Team uses to work tickets for customers. Please familiarize yourself with the associated workflows.
   - Review the workflows in this section of the [Handbook](https://about.gitlab.com/handbook/support/workflows/#Zendesk).
 - **Sign up for Zendesk (Assignment - 5 Minutes - 10 Points - Pre Work)**
-  - All GitLab staff can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team. These accounts are free. To request a Light Agent Zendesk account, please send an email to [gitlablightagent.5zjj2@zapiermail.com]. You'll receive an automated reply with the result of your request. NOTE: you must send your request from your GitLab Google / Gmail account. No other addresses will work. The Subject and Body fields of the email can be empty.
-      - Check out the additional information in the [handbook](https://about.gitlab.com/handbook/support/internal-support/#viewing-support-tickets), in [Zendesk](https://www.zendesk.com/company/collaboration-add-on-additional-features/), and on [gitlab.com](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request). Once the account is created, you'll need to wait 24 hours for it to be assigned in Okta. Once Zendesk is assigned, you should be able to login to Zendesk at https://gitlab.zendesk.com/agent.
+  - All GitLab staff can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team. 
+      - To do so, follow the process outlined in the [handbook](https://about.gitlab.com/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account). Once the account is created, you'll need to wait 24 hours for it to be assigned in Okta. Once Zendesk is assigned, you should be able to login to Zendesk at https://gitlab.zendesk.com/agent.
 
 </details>
 
