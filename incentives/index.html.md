@@ -408,7 +408,7 @@ While the FY23-Q3 Visiting Grant Program shares a lot in common with the previou
 1. **Spending caps**. Team members are expected to manage their individual expenses and adhere to expense caps. If events are centrally organized, coordinators should be clear with team members on how much of their FY23-Q3 allocation is going to the event. Team members are responsible for [spending company money like it their own](/handbook/spending-company-money/#guidelines) and not exceeding their individual budgets. Each team member can choose to participate in as many events as they like as long as they can do this within budget.  
   1. Team members should plan to have gatherings with a cross-functional group of at least 8 people. 
   1. Team members can spend up to $500 to participate in local events that happen within 50 miles from their home. If team members are attending an event within 50 miles from home, they can expense transport, but not accomodations. 
-  1. Team members can expense up to $1000 each if they are traveling beyond their local area, beyond 50 miles from their home, to attend events. These team members can put their budget toward accomodations in addition to travel expenses. 
+  1. Team members can expense up to $1000 each if they are traveling beyond their local area, beyond 50 miles from their home, to attend events. This option is open to team members who have local options, but choose to travel. These team members can put their budget toward accomodations in addition to travel expenses. 
   1. Some team members live in remote locations. $1,000 is insufficient for participation in at least one event. If you believe that you fall into this bucket, please fill out our [Google form](https://forms.gle/q1qAK5YuJ9egNk3G9), so your situation can be considered. 
 1. **What can be expensed**. In addition to transportation, team members can expense hotels (when outside of their home location defined as travel greater than 50 miles), meals with other team members, and activities with other team members.
 1. **Additional spending guidelines**. If more than 10 people are traveling to a central location, we require that hotel purchases have a purchase order to ensure the best rates. All airfare purchases must be made XXXXX, etc, etc (THERE WILL BE MORE HERE)
@@ -425,6 +425,7 @@ Team members should be aware of key GitLab policies and asks.
 1. Associated activities should comply with company [COVID policy around testing, masking, vaccination, etc.](/handbook/travel/#travel-guidance-covid-19).
 1. Associated activities should comply with local laws.
 1. Events should be outdoors as much as possible to reduce COVID risk.
+1. Team members should not use this program to subsidize existing travel plans. This grant exists to get team members together. Expenses should reflect this intent. 
 
 This Program has a limited timeframe, but we’ll look to the success of this program and other alternatives that support team interactions and cultivation as we determine how best to support team member relationship building in the future. If you have questions, please post them in the # fy23-q3-visiting-grant Slack Channel. 
 
