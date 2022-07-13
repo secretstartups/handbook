@@ -55,15 +55,14 @@ This report filters by 6 main categories:
 | Google Alerts | Follow a company with their new google content |  
 | Local Country Financial Newspaper | Online versions | 
 
-#### Monthly Target Account Strategy 
+#### Monthly Account Strategy 
 
-Go to the following monthly check list to see the necessary steps to strategicly prioritize your target accounts
-1. add the issue with checklist 
-
-
-
-
-
+1. Every month it's important to review if you are still going after the accounts that are most likely to start conversations with us
+2. The [Monthly Account Strategy Checklist](https://gitlab.com/gitlab-com/sales-team/commercial-sales/-/issues/237) helps to keep this focus  
+3. At the start of the month review your account view and pick from the top 100 accounts 15-20 accounts to focus on for the month. For each account pull 1-2 contacts from Zoominfo into Salesforce
+4. The 15-20 accounts are a dynamic list. Once you have spoken with an account and know you can unqualify that account, remove the account from the 15-20 list and add a new account
+5. Monday and Fridays are best used for Account research, adding new accounts, import new contacts and enroll in sequence
+6. Tuesday, Wednesday, Thursday are best used for Outbound Sequence Activities
 
 
 ## First Order Skills and Skills Development
