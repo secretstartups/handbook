@@ -32,7 +32,7 @@ This instance-level data allows GitLab to understand country-level statistics an
 
 ### Quick Links
 <div class="flex-row" markdown="0" style="height:80px">
-  <a href="https://app.periscopedata.com/app/gitlab/731086/Product-Geolocation-:-Self-Managed-(does-not-include-SaaS)" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Geolocation (Self-Managed Dashboard)</a>
+  <a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/919321/Product-Geolocation-:-Self-Managed-(does-not-include-SaaS)" class="btn btn-purple" style="width:40%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Geolocation (Self-Managed Dashboard)</a>
   <a href="https://www.youtube.com/watch?v=F4FwRcKb95w&feature=youtu.be" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Getting started in Sisense</a>
 </div>
 <br><br>
