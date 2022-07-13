@@ -429,6 +429,13 @@ Team members should be aware of key GitLab policies and asks.
 
 This Program has a limited timeframe, but we’ll look to the success of this program and other alternatives that support team member interactions and cultivation as we determine how best to support team member relationship building in the future. If you have questions, please post them in the #fy23-q3-visiting-grant Slack Channel. 
 
+#### FY23-Q3 Visiting Grant Program FAQ 
+
+We'll attempt to document answers to frequently asked questions in the handbook.
+
+1. Can I spend out of pocket without reimbursement if I want to participate beyond what is allowable given my budget?
+  1. You can use your own money to expense beyond your personal budget if it possible to split out personal expenses. For example, if a DRI is planning an event with 30 people and there is no way for you to pay your share out of pocket, you'd be asked to spend your event allowance rather than personal money toward this. If this is something that you are interested in doing, please sync with DRIs in advance of an event to confirm that you can pay for your participation out of pocket.
+
 #### Sharing your Visiting Grant stories
 
 If you're a GitLab team member who has traveled and utilized GitLab's Visiting Grant or are planning to do so soon, consider sharing your story! 
