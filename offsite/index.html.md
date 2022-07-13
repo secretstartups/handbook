@@ -135,7 +135,7 @@ The following dates were previous E-Group offsites (starting dates):
 ## Timeline
 
 1. 2 weeks before Content Selection or other required pre-work is finalized
-1. 2 weeks before- if a subject requires data to support the discussion, make a request of [the data team](/handbook/business-ops/data-team/){:data-ga-name="the data team"}{:data-ga-location="body"} for assistance no less than 2 weeks before the offsite; [alert the data team of on-call request](/company/offsite/#data-team-member-on-call){:data-ga-name="alert the data team of on call request"}{:data-ga-location="body"}
+1. 2 weeks before- if a subject requires data to support the discussion, make a request of [the data team](/handbook/business-technology/data-team/){:data-ga-name="the data team"}{:data-ga-location="body"} for assistance no less than 2 weeks before the offsite; [alert the data team of on-call request](/company/offsite/#data-team-member-on-call){:data-ga-name="alert the data team of on call request"}{:data-ga-location="body"}
 1. Friday before- agenda is finalized (though always subject to change); Prep Work asks finalized
 1. Immediately following the Offsite, the CoST to the CEO should create the agenda for the next Offsite so that topics can be added as they come up.
 
