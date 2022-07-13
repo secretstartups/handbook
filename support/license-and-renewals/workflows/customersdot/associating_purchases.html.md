@@ -84,8 +84,16 @@ In order to change the subscription management contact, we should ask for the sa
 | Also change future renewal related email to the `new email` or keep it to the `existing email`    | Yes      | Pass to Billing team by following the [Zuora Contact Change Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#zuora-contact-change) |
 
 **Note:** For any situation where an account with the new contact's email does not exist on CustomersDot,
-update the `Names` and `Email` of the account and trigger a [password reset](https://customers.gitlab.com/customers/password/new)
+update the `Names` and `Email` of the current account and trigger a [password reset](https://customers.gitlab.com/customers/password/new)
 to the new email.
 
 Always remind SaaS customers to [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account) 
 to ensure their subscription is kept in sync with the linked GitLab group.
+
+**Reseller customer note:** This process is slightly different for customers who have purchased their subscription through a reseller, as the customer will not be directed to create a new cDot account. Instead:
+
+1. Confirm the requester's identity
+2. Update the current (locked to the customer) CustomersDot account with the requested changes.
+3. Pass the request to billing to update the Zuora record for the customer.
+
+Please keep in mind that the customer (if purchased via a reseller) will only have one subscription contact in CustomersDot - if such a customer is requesting multiple contacts be added, please recommend that they propose a shared inbox or email address for the account update.
