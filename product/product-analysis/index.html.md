@@ -62,7 +62,9 @@ to triage and begin work on the issue.
 | Request Type | Template |
 | --- | --- |
 | Ad hoc / Default request | [Ad Hoc Request](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request) |
+| Create new or update existing PI chart | [PI Chart Help](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=PI%20Chart%20Help) |
 | Experimentation analysis | [Experiment Analysis Request](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Experiment%20Analysis%20Request) |
+| Iteration planning | [Iteration Planning](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Iteration%20Planning) |
 
 #### Submission Deadline
 
