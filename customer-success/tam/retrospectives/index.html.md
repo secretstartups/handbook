@@ -23,6 +23,6 @@ A retrospective review is conducted at the end of a milestone with feedback disc
 
 **Timeline**
 
-- `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
+- `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/group-retrospectives/) issue for the current milestone.
 - `M, 16th`: Team mentioned to encourage contribution.
 - `M, Last Friday`: Retrospective review is held.
