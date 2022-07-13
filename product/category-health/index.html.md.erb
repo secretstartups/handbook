@@ -31,7 +31,7 @@ _Note: [How this data is aggregated, and instructions on what fields required up
                         <% categoryRow << "**#{group.name}**" %>
                         <% categoryRow << "#{category.name}<a name=\"#{category.name}\" class=\"scroll-anchor\"></a>" %>
                         <% categoryRow << "[Direction](#{category.direction})" %>
-                        <% categoryRow << "[Investment Plan](/handbook/product/investment/##{group.name})" %>
+                        <% categoryRow << "[Investment Plan](https://internal-handbook.gitlab.io/handbook/product/investment/##{group.name})" %>
                         <% categoryRow << ( group.pi_gmau? ? "[GMAU](#{group.pi_gmau})" : '' ) %>
                         <% categoryRow << ( group.pi_pgmau? ? "[Paid GMAU](#{group.pi_pgmau})" : '' ) %>
                         <% categoryRow << ( group.analyst_reports? ? "[Analyst Reports](#{group.analyst_reports})" : '' ) %>
