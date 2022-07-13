@@ -26,6 +26,8 @@ Use this content library as a resource whenever you're acting as a talent ambass
 
 Source: [GitLab team page](/company/team/)
 
+The current headcount number will be updated each quarter following our quarterly earnings call using the GitLab team page as our source of current team members and rounding that number down to the nearest hundred. This number will then be used across all careers sites that reference a specific number of team members.
+
 ## Key messages about life at GitLab
 
 - We're one of the largest all-remote companies in the world, and we've intentionally built our culture this way from our founding year.
