@@ -306,7 +306,7 @@ Spreading aloha on a GitLab company call
 {: .note.text-center}
 
 Some teams at GitLab organize informal social calls on a regular basis in order to build camaraderie.
-The [data team](/handbook/business-ops/data-team/#-contact-us) has them every Tuesday.
+The [data team](/handbook/business-technology/data-team/) has them every Tuesday.
 Team members and managers are encouraged to create these calls as a medium for informal, agenda-free interaction between team members.
 
 [Team days](/handbook/leadership/building-trust/#host-a-team-day) are another opportunity to intermix work and rapport building, and can be structured to work synchronously or asynchronously.
