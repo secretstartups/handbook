@@ -433,7 +433,7 @@ This Program has a limited timeframe, but we’ll look to the success of this pr
 
 If you're a GitLab team member who has traveled and utilized GitLab's Visiting Grant or are planning to do so soon, consider sharing your story! 
 
-These stories are useful in showing the world how we stay connected as a [geographically diverse team](/culture/inclusion/#fully-distributed-and-completely-connected). This is important as we [recruit the world's best talent to join us](https://about.gitlab.com/jobs/), as well as encouraging colleagues to take a leap, explore a new culture, and visit a team member in a new locale. They may be shared on GitLab's social media platforms, on hiring portals such as Glassdoor, or on the [GitLab blog](https://about.gitlab.com/blog/). You can also post pictures in the #fy23-q3-visiting-grants Slack Channel. 
+These stories are useful in showing the world how we stay connected as a [geographically diverse team](/culture/inclusion/#fully-distributed-and-completely-connected). This is important as we [recruit the world's best talent to join us](/jobs/), as well as encouraging colleagues to take a leap, explore a new culture, and visit a team member in a new locale. They may be shared on GitLab's social media platforms, on hiring portals such as Glassdoor, or on the [GitLab blog](/blog/). You can also post pictures in the #fy23-q3-visiting-grants Slack Channel. 
 
 #### The Original Visiting Grant Program
 
