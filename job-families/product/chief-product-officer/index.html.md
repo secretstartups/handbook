@@ -52,7 +52,7 @@ need to make sure that the company is building, shipping and supporting the righ
 - Ability to use GitLab
 
 ## Performance Indicators
-- [Product Management KPI's](https://about.gitlab.com/handbook/business-ops/data-team/metrics/#product-kpis)
+- [Product Management KPI's](https://about.gitlab.com/company/kpis/#product-kpis)
 
 ## Links
 

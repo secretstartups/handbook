@@ -6,7 +6,7 @@ canonical_path: "/job-families/engineering/vp-of-incubation-engineering/"
 
 ## Summary
 
-The VP of Incubation Engineering runs the [Incubation Engineering Department](/handbook/engineering/incubation/) within the Engineering Division. The team members in this department focus on long-term trends and features that are too early to measure via usage or revenue, but are critical to the long term growth and success of GitLab. The projects this department works on align with the "new markets" [investment type](/handbook/product/investment/#investment-types). Long term, the budget for this area will be ~10% of R&D. This position reports to our [Chief Technical Officer](/handbook/engineering/readmes/eric-johnson/).
+The VP of Incubation Engineering runs the [Incubation Engineering Department](/handbook/engineering/incubation/) within the Engineering Division. The team members in this department focus on long-term trends and features that are too early to measure via usage or revenue, but are critical to the long term growth and success of GitLab. The projects this department works on align with the "new markets" [investment type](https://internal-handbook.gitlab.io/handbook/product/investment/). Long term, the budget for this area will be ~10% of R&D. This position reports to our [Chief Technical Officer](/handbook/engineering/readmes/eric-johnson/).
 
 ### Q&A with the CEO
 

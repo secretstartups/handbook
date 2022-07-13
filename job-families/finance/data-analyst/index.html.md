@@ -27,7 +27,7 @@ Read more about this role in the [Data Analytics Handbook Page](/handbook/busine
 * Fluent in SQL within analytical data warehouses (we use Snowflake SQL) and in business intelligence tools (we use Periscope)
 * Able to write complex SQL including multi-table joins, grouping and aggregation, common table expressions, and conditional filters
 * Passionate about data, analytics and automation. Experience cleaning and modeling large quantities of raw, disorganized data (we use dbt)
-* Experience working with a variety of complex data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](/handbook/business-ops/data-team/#-extract-and-load))
+* Experience working with a variety of complex data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](/handbook/business-technology/data-team/))
 * Effective communication and [collaboration](/handbook/values/#collaboration) skills, including clear status updates
 * Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
 * [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills
@@ -87,7 +87,7 @@ The Data Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensat
 
 The responsibilities of the Data Analyst extend the Junior Data Analyst role and include:
 
-* Deep understanding of how data is created and transformed through GitLab products and services provided by [third-parties](/handbook/business-ops/data-team/#-extract-and-load) to help drive product designs or service usage or note impacts to data reporting capabilities
+* Deep understanding of how data is created and transformed through GitLab products and services provided by [third-parties](/handbook/business-technology/data-team/) to help drive product designs or service usage or note impacts to data reporting capabilities
 * Serve as a Subject Matter Expert (SME) in one or more [Data Sources](/handbook/business-technology/data-team/platform/#extract-and-load) and its related Business Subject
 * Provide expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal queries in Snowflake and in Periscope
 * Approve data model changes as a Data Team Reviewer and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas

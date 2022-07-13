@@ -36,7 +36,7 @@ The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/c
 * Plan and execute system expansion as needed to support the company's growth and analytic needs
 * Collaborate with [Analytics Engineers](https://about.gitlab.com/job-families/finance/analytics-engineer/) and [Data Analysts](https://about.gitlab.com/job-families/finance/data-analyst/) to drive efficiencies for their work
 * Collaborate with other functions to ensure data needs are addressed
-* This position is always [central](/handbook/business-ops/data-team/#-team-organization) and reports to the Manager, Data
+* This position is always [central](/business-technology/data-team/organization/) and reports to the Manager, Data
 
 ### Data Engineer (Intermediate)
 
@@ -73,7 +73,7 @@ The Data Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensa
 * Plan and execute system expansion as needed to support the company's growth and analytic needs
 * Collaborate with Data Analysts to drive efficiencies for their work
 * Collaborate with other functions to ensure data needs are addressed
-* This position is always [central](/handbook/business-ops/data-team/#-team-organization) and reports to the Manager, Data
+* This position is always [central](/business-technology/data-team/organization/) and reports to the Manager, Data
 
 ### Senior Data Engineer
 
