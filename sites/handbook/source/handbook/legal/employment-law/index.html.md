@@ -25,14 +25,17 @@ Employment law refers to the law that governs the relationship between employer 
 
 GitLab’s employment team provides information regarding legal risk and compliance requirements based on particular jurisdictions and particular job types. Often, it is up to the others within the organization whether or not to continue down a certain path once the risks and requirements are known.
 
-## Working with Legal on Employment Issues
-When individual team members have questions about their employment, they should interact with the People Group rather than reaching out directly to the Legal team. Visit the People Group Handbook to determine who to work with for your particular needs.
+## Working with the Legal Employment Team on Sensitive Matters 
+In any situation(s) that relate to specific team members or otherwise require any team member personal information remain confidential, the People Group (and any other GitLab Team Members) should email legal-employment@gitlab.com. This respects team member privacy and may, where applicable, retain attorney-client privilege.
 
-If People Group needs to engage with Legal on a particular question, they will reach out to Legal staff via DMs in Slack or via email in order to ensure that details of the situation and team member personal information remain confidential. This respects team member privacy and may, where applicable, retain attorney-client privilege.
+## Working with Legal on Employment Issues
+When individual team members have questions about their employment at GitLab, they should interact with the People Group rather than reaching out directly to the Legal Employment team. Visit the [People Group Handbook] (https://about.gitlab.com/handbook/people-group/) to determine who to work with for your particular needs.
+
+If People Group needs to engage with Legal Employment on a particular question, they will apply the `legal-employment::to-do` label on the issue that requires attention. This will update the [Legal Employment Issue Board](https://gitlab.com/gitlab-com/legal-and-compliance/-/boards/4323191) and allow the team to triage appropriately. When the Legal Employment team has finished their portion of the issue, they will update the label to `legal-employment::done`.
 
 Below are some common employment topics where Legal is asked to provide input. The paragraphs below are intended to assist People Group to know when to reach out to Legal.
 
-**Note: GitLab team members should *always* obtain approval from the Director of Legal, Employment prior to speaking with outside counsel regarding employment-related matters.**
+**Note: GitLab team members should *always* obtain approval from the Senior Director of Legal, Employment prior to speaking with outside counsel regarding employment-related matters.**
 
 ### Before Hire:
 **Talent Acquisition.** Legal reviews sourcing and talent acquisition strategy for compliance and advises about requirements for applicant tracking in the various countries in which we hire.
