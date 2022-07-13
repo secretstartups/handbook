@@ -427,7 +427,7 @@ Team members should be aware of key GitLab policies and asks.
 1. Events should be outdoors as much as possible to reduce COVID risk.
 1. Team members should not use this program to subsidize existing travel plans. This grant exists to get team members together. Expenses should reflect this intent. 
 
-This Program has a limited timeframe, but we’ll look to the success of this program and other alternatives that support team interactions and cultivation as we determine how best to support team member relationship building in the future. If you have questions, please post them in the # fy23-q3-visiting-grant Slack Channel. 
+This Program has a limited timeframe, but we’ll look to the success of this program and other alternatives that support team member interactions and cultivation as we determine how best to support team member relationship building in the future. If you have questions, please post them in the #fy23-q3-visiting-grant Slack Channel. 
 
 #### Sharing your Visiting Grant stories
 
