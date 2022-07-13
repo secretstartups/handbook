@@ -54,7 +54,7 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 | Auto-schedule S1 Bugs | 2022-07-14 | In process | Tanya Pazitny | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
 |  Create a view of milestone planning issues | 2022-07-14 | In Process | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13585) |
 | First review of milestone plan by CTO and VP of Product | 2022-07-15 | Planned | Eric Johnson and David DeSanto | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13631) |
-| Do a restrospective and start incorporating feedback for the next iteration | 2022-07-18 | Not started | Wayne Haber | TBD |
+| Do a restrospective and start incorporating feedback for the next iteration | 2022-07-18 | Collecting feedback | Working group functional leads| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13694)] |
 
 
 ### Roles and Responsibilities
