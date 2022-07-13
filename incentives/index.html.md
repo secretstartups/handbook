@@ -393,7 +393,7 @@ For more questions about Get Together Grants, please review the [FAQ](https://do
 
 ### Visiting Grant
 
-In FY21-Q1, GitLab suspended the Visiting Grant program until further notice. Due to the cancellation of [Contribute](/events/gitlab-contribute/) in FY23, we have introduced a special Visiting Grant Program for FY23-Q3 (2022-08-01 to 2022-10-31).Program details differ.
+In FY21-Q1, GitLab suspended the Visiting Grant program until further notice. Due to the cancellation of [Contribute](/events/gitlab-contribute/) in FY23, we have introduced a special Visiting Grant Program for FY23-Q3 (2022-08-01 to 2022-10-31). Program details differ.
 
 #### FY23-Q3 Visiting Grant Program
 
