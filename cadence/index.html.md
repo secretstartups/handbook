@@ -41,7 +41,7 @@ Below are the cadences we have at GitLab:
 - [Key Reviews](/handbook/key-review/){:data-ga-name="key reviews"}{:data-ga-location="body"}
 - [Release](/releases/){:data-ga-name="releases"}{:data-ga-location="body"}
 - [Retrospective](/handbook/communication/#kickoffs){:data-ga-name="retrospective"}{:data-ga-location="body"}
-- [Most KPIs](/handbook/business-ops/data-team/metrics/){:data-ga-name="metrics"}{:data-ga-location="body"}
+- [Most KPIs](/company/kpis/){:data-ga-name="metrics"}{:data-ga-location="body"}
 
 ## Quarter
 
