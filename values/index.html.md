@@ -223,7 +223,7 @@ No need to brainstorm, wait for consensus, or [do with two what you can do yours
 ##### Blameless problem solving
 {:.no_toc}
 Investigate mistakes in a way that focuses on the situational aspects of a failure’s mechanism and the decision-making process that led to the failure, rather than cast blame on a person or team.
-We hold blameless [root cause analyses](https://codeascraft.com/2012/05/22/blameless-postmortems/) and [retrospectives](/handbook/engineering/management/team-retrospectives/) for stakeholders to speak up without fear of punishment or retribution.
+We hold blameless [root cause analyses](https://codeascraft.com/2012/05/22/blameless-postmortems/) and [retrospectives](/handbook/engineering/management/group-retrospectives/) for stakeholders to speak up without fear of punishment or retribution.
 
 ##### Short toes
 {:.no_toc}
