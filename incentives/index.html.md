@@ -315,7 +315,6 @@ All team members can make nominations for both The DZ Award and Values Awards. W
 - The nominations are finalized and E-group will discuss the nominees from each group and select the award winners.
 - The award winners will be announced.
 
-
 ### Referral Bonuses
 
 Chances are that if you work at GitLab, you have great friends and peers who would be fantastic additions to our [Team](/company/team/) and who may be interested in joining our team. To help us grow with exceptional people, we have [Referral Bonuses](/handbook/hiring/referral-process/) that work as follows:
@@ -394,19 +393,54 @@ For more questions about Get Together Grants, please review the [FAQ](https://do
 
 ### Visiting Grant
 
-As we continue to prioritize the health and safety of our team members, GitLab is temporarily suspending the Visiting Grant program  until further notice.  We continue to monitor the situation and will update this information and the [travel policy](/handbook/travel/#travel-guidance-covid-19) accordingly.
+In FY21-Q1, GitLab suspended the Visiting Grant program until further notice. Due to the cancellation of [Contribute](/events/gitlab-contribute/) in FY23, we have introduced a special Visiting Grant Program for FY23-Q3 (2022-08-01 to 2022-10-31).Program details differ.
 
-This means that at this time we ask team members to refrain from booking travel that would normally be covered under the visiting grant. This includes local events and co-working days that don't require long-distance travel. In the event you had previously planned a visit, please cancel it and attempt to maximize any credits for future travel or refunds that you may be eligible for.
+#### FY23-Q3 Visiting Grant Program
 
-For those team members who have already completed visits, please expense your visit per the instructions below.
+We canceled Contribute FY23-Q3 due to the COVID risk to team members in having a large, global event in an indoor facility in the middle of summer. Contribute’s purpose was to “get [team members] together to interact with one another and cultivate our community.” Introducing FY23-Q3 Visiting Grants is a way to capture the spirit of this by  providing team members with another opportunity to spend time together within FY23-Q3 (2022-08-01 to 2022-10-31).
 
-GitLab is an [all-remote company](/company/culture/all-remote/) with GitLab team-members all over the world (see the map on our [Team page](/company/team/). If you want to visit other team members to get to know them, GitLab will assist with travel expenses (flights, trains, and ground transportation to and from airport) for a total of up to $150 for every team member that you visit and work with. Please note lodging is excluded. To be clearer, if you meet 2 [GitLab team members](/handbook/communication/top-misused-terms/) during your visit, the maximum limit of your visiting grant could be $150x2. You don't need to work on the same project or team, either, so long as you discuss work for at least part of the time you're meeting. Before booking any travel using the travel grant budget please discuss your proposed travel with your manager. We encourage team members to utilize the travel grant, however in some cases - for example, a team member has performance issues related to their role - the visiting grant would not be applicable.
+While the FY23-Q3 Visiting Grant Program shares a lot in common with the previous Visiting Grants Program, it varies in a few key ways:
+
+1. **Timing**. It must happen and be expensed within FY23-Q3.
+1. **Team member inclusion**. Efforts should be made to welcome all team members and functions when there are opportunities to do so within a geography. **Having events that are just for a specific function or team is against the intention of this program.** All events should include at least *8 people* who represent at least *2 functions*. 
+  1. Exceptions are okay if team members live in a location with few team members or little function diversity. In this case, team members can have local events that are inclusive for everyone who is within travel distance of the event. This may mean fewer than 8 people and only one function.
+1. **Planning transparency**. Please list any events or activities in our shared event planner, so all team members have the chance to opt in. Local or event/activity specific Slack channels can be used for organization.
+1. **Spending caps**. Team members are expected to manage their individual expenses and adhere to expense caps. If events are centrally organized, coordinators should be clear with team members on how much of their FY23-Q3 allocation is going to the event. Team members are responsible for [spending company money like it their own](/handbook/spending-company-money/#guidelines) and not exceeding their individual budgets. Each team member can choose to participate in as many events as they like as long as they can do this within budget.  
+  1. Team members should plan to have gatherings with a cross-functional group of at least 8 people. 
+  1. Team members can spend up to $500 to participate in local events that happen within 50 miles from their home.
+  1. Team members can expense up to $1000 each if they are traveling beyond their local area, beyond 50 miles from their home, to attend events. 
+  1. Some team members live in remote locations. $500 for travel is not sufficient for participation in at least one event. If you believe that you fall into this bucket, please fill out our [Google form](https://forms.gle/q1qAK5YuJ9egNk3G9), so your situation can be considered. 
+1. **What can be expensed**. In addition to transportation, team members can expense hotels (when outside of their home location defined as travel greater than 50 miles), meals with other team members, and activities with other team members.
+1. **Additional spending guidelines**. If more than 10 people are traveling to a central location, we require that hotel purchases have a purchase order to ensure the best rates. All airfare purchases must be made XXXXX, etc, etc (THERE WILL BE MORE HERE)
+1. **Organization**. We recommend that you have a [DRI](/people-group/directly-responsible-individuals/) for each event or activity.
+ 
+#### Safety and compliance for FY23-Q3 Visiting Grant Program
+
+Team members should be aware of key GitLab policies and asks. 
+
+1. Activities should be consistent with GitLab Inc. [values](/handbook/values/).
+1. Any travel should be in line with our [travel policy](/travel/#travel-guidance-covid-19). 
+1. Team members should adhere to the [GitLab Code of Conduct](/company/culture/contribute/coc/).
+1. Team members should refer to our [contracts and vendor policies](/legal/procurement-guide-collaborating-with-gitlab-legal/#signing-contracts) and refrain from signing contracts on behalf of GitLab. 
+1. Associated activities should comply with company [COVID policy around testing, masking, vaccination, etc.](/handbook/travel/#travel-guidance-covid-19).
+1. Associated activities should comply with local laws.
+1. Events should be outdoors as much as possible to reduce COVID risk.
+
+This Program has a limited timeframe, but we’ll look to the success of this program and other alternatives that support team interactions and cultivation as we determine how best to support team member relationship building in the future. If you have questions, please post them in the # fy23-q3-visiting-grant Slack Channel. 
+
+#### Sharing your Visiting Grant stories
+
+If you're a GitLab team member who has traveled and utilized GitLab's Visiting Grant or are planning to do so soon, consider sharing your story! 
+
+These stories are useful in showing the world how we stay connected as a [geographically diverse team](/culture/inclusion/#fully-distributed-and-completely-connected). This is important as we [recruit the world's best talent to join us](https://about.gitlab.com/jobs/), as well as encouraging colleagues to take a leap, explore a new culture, and visit a team member in a new locale. They may be shared on GitLab's social media platforms, on hiring portals such as Glassdoor, or on the [GitLab blog](https://about.gitlab.com/blog/). You can also post pictures in the #fy23-q3-visiting-grants Slack Channel. 
+
+#### The Original Visiting Grant Program
+
+GitLab is an [all-remote company](/company/culture/all-remote/) with GitLab team-members all over the world. If you want to visit other team members to get to know them, GitLab will assist with travel expenses (flights, trains, and ground transportation to and from airport) for a total of up to $150 for every team member that you visit and work with. Please note lodging is excluded. To be clearer, if you meet 2 [GitLab team members](/handbook/communication/top-misused-terms/) during your visit, the maximum limit of your visiting grant could be $150x2. You don't need to work on the same project or team, either, so long as you discuss work for at least part of the time you're meeting. Before booking any travel using the travel grant budget please discuss your proposed travel with your manager. We encourage team members to utilize the travel grant, however in some cases - for example, a team member has performance issues related to their role - the visiting grant would not be applicable.
 
 Note that meals and local travel while visiting are not typically covered for anyone as that wouldn't really be fair to those being visited. It may be acceptable to cover a meal, however, if the meeting is pre-announced to other people in the region to encourage as many of them to attend as possible and there are four or more GitLab team-members attending.
 
 There are many regular meet-ups of GitLab team-members in many cities. We have a [shared calendar][meetup-calendar] to view the schedule. Subscribe to it, make use of the visiting grant, and join meet-ups near you (or far away!).
-
-Douwe and Robert took advantage of the visiting grant when they traveled to [49 different colleagues in 20 cities, in 14 countries, on five continents, in 6 months](/blog/2017/01/31/around-the-world-in-6-releases/). Inspired by them, Dimitrie went on a similar journey and provided a [great template](https://docs.google.com/spreadsheets/d/1Cwi2PfO1HeDm8Lap9J2tPmfYFaC8AmmKQg1fCmtdGI4/edit?usp=sharing). Also, check out [tips on working remotely while abroad](/company/culture/all-remote/#tips-on-working-remotely-while-abroad).
 
 To claim the grant, include a line item on your expense report or invoice along with the receipt of your flights, trains, and/or transportation to and from the airport with a list of the team members you visited. The expense report may be submitted during the first month of travel or up to 3 months after your trip has concluded. That said, if it's more [frugal](/handbook/values/#efficiency) to book and expense your travel further in advance, please do so.
 
@@ -417,14 +451,6 @@ To claim the grant, include a line item on your expense report or invoice along 
 As we continue to prioritize the health and safety of our team members, GitLab is temporarily suspending the Significant Life Event Grant program until further notice.  We continue to monitor the situation and will update this information and the [travel policy](/handbook/travel/#travel-guidance-covid-19) accordingly.
 
 Recognizing that [GitLab Team Members](/handbook/communication/top-misused-terms/) may wish to share significant events in each other's lives, such as weddings or civil partnerships, GitLab will assist with travel expenses to attend these events. This grant works the same way as the [Visiting Grant](#visiting-grant), except the reimbursement limit is $300 per team member you visit at an event.
-
-#### Sharing your Visiting Grant stories
-
-If you're a GitLab team member who has traveled and utilized GitLab's Visiting Grant or are planning to do so soon, consider sharing your story! You can submit your experience using the [GitLab Visiting Grant Story Submission Form](https://docs.google.com/forms/d/1wjK5R994ahCirsyEQoDuQpcEfOaNWr1_mpa1LkYR2yg). If you've made use of the Significant Life Event Grant, please check with the team member who invited you to their event if they are comfortable with you sharing their story first.
-
-These stories are useful in showing the world how we stay connected as a [geographically diverse team](/company/culture/inclusion/#fully-distributed-and-completely-connected). This is important as we [recruit the world's best talent to join us](/jobs/), as well as encouraging colleagues to take a leap, explore a new culture, and visit a team member in a new locale. They may be shared on GitLab's social media platforms, on hiring portals such as Glassdoor, or on the [GitLab blog](/blog/).
-
-Each quarter, 3 GitLab team members who submit Visiting Grant stories will be randomly selected for a $50 voucher for the [GitLab Swag Shop](https://shop.gitlab.com/)!
 
 ### GitLab Ultimate
 
