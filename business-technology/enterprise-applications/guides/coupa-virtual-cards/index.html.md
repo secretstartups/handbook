@@ -76,7 +76,7 @@ There are two different scenarios for Virtual Cards:
 {: .panel-heading}
 <div class="panel-body">
 
-**The Virtual Card Supporting Documentation must match the amount of the Requisition.** If the amount charged to the Virtual Card differs from the PO amount, updated documentation must be provided. Please see below **Virtual Cards FAQ - How do I attached a receipt or invoice after Purchase Order is issued?** for instructions.
+**The Virtual Card Supporting Documentation must match the amount of the Requisition.** If the amount charged to the Virtual Card differs from the PO amount, updated documentation must be provided. 
 
 </div>
 </div>
@@ -192,14 +192,12 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 - **How do I request an amount to increase the Virtual Card?**
    - Follow the same process as [How to do a Purchase Order Change Request](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request). Once the change request has been approved, the Virtual Card amount will be increased.
 
-- **How do I attached a receipt or invoice after Purchase Order is issued?**
-   - Go to to your **Settings**.
-   1. Navigate to **Activity**.
-   1. Select **Charges**.
-   1. Locate the Supplier/charge to add the receipt/invoice then click the **Add** link under the **Receipts** column.   
-   1. A box will appear, click on the **green plus sign** to attach the receipt/invoice. Then click **Save**.
+- **How do I attach a receipt or invoice after Purchase Order is issued?**
+   - Receipts are **NOT REQUIRED** for virtual card charges. 
+   - If you get a notification to attach a receipt, click your name at the top right > Settings > Notifications > and remove the following notifications
 
- ![vcard-image-16](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard16.png)  
+ ![vcard-image-16](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/chargenotification.png)  
+
 
 <br>
 
