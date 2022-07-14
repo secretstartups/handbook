@@ -51,7 +51,7 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 | Refine stakeholder dashboard views, bug & maintenance backlog types | 2022-05-19 | Complete | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13321) |
 | Reduce undefined MR types to less than 5% | 2022-07-01 | Complete | Cheryl Li | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13303) |
 | Auto-schedule S1 Bugs | 2022-07-13 | Complete | Tanya Pazitny | [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6) |
-| 100% of teams using the new processes | 2022-07-04 | 94% as of 2022-07-12 | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
+| 100% of teams using the new processes | 2022-07-04 |97% as of 2022-07-14 | Wayne Haber | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304) |
 | Create a view of milestone planning issues | 2022-07-14 | In Process | Lily Mai | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13585) |
 | First review of milestone plan by CTO and VP of Product | 2022-07-15 | Planned | Eric Johnson and David DeSanto | [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13631) |
 | Do a restrospective and start incorporating feedback for the next iteration | 2022-07-18 | Collecting feedback | Working group functional leads| [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13694) |
