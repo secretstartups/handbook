@@ -49,7 +49,7 @@ The GitLab blog is not self-serving; if content is purely promotional and adds n
 
 The blog is not the permanent place for tutorials, which should live in the docs and should be linked to when relevant.
 
-*See [user personas](/handbook/marketing/strategic-marketing/roles-personas/#user-personas)
+*See [user personas](/handbook/product/personas/#user-personas)
 
 {: .note}
 

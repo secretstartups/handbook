@@ -16,7 +16,7 @@ The content team is using SEO-infused data to create quality definitions, web ar
 
 ## Who is our audience?
 
-The content team is specifically addressing the developer audience and those who are committed to learning more about a particular software workflow, application, standard, or methodology. Our content is created to be a trusted source for [Sasha, the software developer](/handbook/marketing/strategic-marketing/roles-personas/#sasha-software-developer) who is looking to advance their career by learning new skills.
+The content team is specifically addressing the developer audience and those who are committed to learning more about a particular software workflow, application, standard, or methodology. Our content is created to be a trusted source for [Sasha, the software developer](/handbook/product/personas/#sasha-software-developer) who is looking to advance their career by learning new skills.
 
 The content marketer’s goal is to steer readers through the buyer’s journey -- capture organic traffic through awareness level content and engage readers by providing links to solutions-based knowledge. The content team relies heavily on [user personas](/handbook/marketing/strategic-marketing/usecase-gtm/ci/#user-persona) and [use cases](/handbook/marketing/strategic-marketing/usecase-gtm/), developed by the product marketing team, in order to understand who our readers are and how best to support them in their software development journey. Personas, along with SEO research, help us to navigate content strategies.
 
