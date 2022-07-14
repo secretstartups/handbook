@@ -52,7 +52,7 @@ Please see [our guide on giving feedback](/handbook/people-group/guidance-on-fee
       * `HELP` - if you need help with anything.
     1. Information
       * `FYI` - informational, can be removed outside of the meeting by the person who did not put it on the agenda.
-      * `DONE` - to be removed by the person who put it on the agenda, only set this if any MR has been merged
+      * `DONE` - only to be removed by the person who put it on the agenda, only set after any related MR has been merged
       * `MOVE` - if you want to move it outside of the agenda, for example an issue tracker.
       * `DUPLICATE` - An item that is an outdated duplicate of another item on the agenda. To be removed similar to items marked as `DONE`.
       * `WONT` - if you think this is no longer something that should be done.
