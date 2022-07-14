@@ -49,6 +49,8 @@ GitLab.com receives updates multiple times a day with new deployment branches cu
 
 ![GitLab.com deployment process](gitlab-com-deployment-pipeline.png)
 
+* [Source](https://docs.google.com/presentation/d/1YRjA1dYCXNXp06VltDYlik1MdFyzUvaeXKk69mMPcA4/edit?usp=sharing)
+
 Once a new branch is created, only commits that pass the CI tests are eligible for deployments ("green build"). This means that if specs are failing in
 [gitlab-org/gitlab], the deployments cannot progress further.
 
