@@ -36,7 +36,7 @@ We create a monthly issue that is assigned to all counterparts. The issue has to
 
 Besides answering to the questions in the issue we use [cross-functional issues board](https://gitlab.com/groups/gitlab-org/-/boards/4453752?not[label_name][]=UX&not[milestone_title]=15.2&label_name[]=group%3A%3Aauthentication%20and%20authorization) for prioritisation. PM is responsible for Feature, EM for Maintenance and SET for Bugs column.
 
-You can read more about this process on the [respective handbook page](/handbook/cross-functional-prioritization).
+You can read more about this process on the [handbook page](/handbook/cross-functional-prioritization).
 
 
 #### Organizing the work
@@ -45,7 +45,7 @@ You can read more about this process on the [respective handbook page](/handbook
 
 #### Estimation
 
-Before work can begin on an issue, we should estimate it first after a preliminary investigation. If the scope of work of a given issue touches several disciplines (docs, design, frontend, backend, etc.) and involves significant complexity across them, consider creating separate issues for each discipline (see [an example](https://gitlab.com/gitlab-org/gitlab/-/issues/9288)). 
+Before work can begin on an issue, we should estimate it first after a preliminary investigation. If the scope of work of a given issue touches several disciplines (docs, design, frontend, backend, etc.) and involves significant complexity across them, consider creating separate issues for each discipline (see [an example](https://gitlab.com/gitlab-org/gitlab/-/issues/9288)).
 
 When estimating development work, please assign an issue an appropriate weight:
 
@@ -57,17 +57,17 @@ When estimating development work, please assign an issue an appropriate weight:
 | 5 | A more complex change that will impact multiple areas of the codebase, there may also be some refactoring involved. Requirements are understood but you feel there are likely to be some gaps along the way. We should challenge ourselves to break this issue into smaller pieces. |
 | 8 | A complex change, that will involve much of the codebase or will require lots of input from others to determine the requirements. These issues will often need further investigation or discovery before being ~workflow::ready for development and we will likely benefit from multiple, smaller issues. |
 
-We do not provide estimates greater than 8 - in a case an issue is bigger, we will split the issue or reduce its scope. 
+We do not provide estimates greater than 8. If an issue is bigger, we will split the issue or reduce its scope.
 
-##### Estimatiom process
+##### Estimation process
 
-When a PM or EM wants to schedule an issue without `weight` for a release, they should ping Engineers directly asking for the estimation and assign the issue to them. Ideally the distribution between Enginners across the group is even.
+When a PM or EM wants to schedule an issue without `weight` for a release, they should ping Engineers directly asking for the estimation and assign the issue to them. Ideally the distribution between Engineers across the group is even.
 
 When an Engineer is done with their estimates they should ask another team member to review their weight. This makes it harder to miss a significant aspect of an issue. If the first Engineer is confident (eg. has deep expertise in the problem or the issue is trivial) they can skip this step.
 
 Once the weight of the issue is final, the Engineer will ping the person who asked for the estimation. If the issue has weight 5 or less they should put `~"workflow::ready for development"` label on it.
 
-If the issue has weight more than 5 (or 5 but it seems it might be split into multiple issues) the Engineer will suggest how to split it and ping the person who asked for the estimation. If the Engineer is clear about the splitting they should proactivelly split the issue themself, put estimations on the child issues and leave a comment on the parent one. If it results to multiple issues, creating an epic should be considered.
+If the issue has weight more than 5 (or 5 but it seems it might be split into multiple issues) the Engineer will suggest how to split it and ping the person who asked for the estimation. If the Engineer is clear about the splitting they should proactively split the issue themself, put estimations on the child issues and leave a comment on the parent one. If it results to multiple issues, creating an epic should be considered.
 
 #### Planning
 
@@ -92,7 +92,7 @@ If the issue has weight more than 5 (or 5 but it seems it might be split into mu
 
 ### Additional considerations
 
-<%= partial("handbook/engineering/development/dev/manage/access_processes.erb") %>
+<%= partial("handbook/engineering/development/dev/manage/auth_processes.erb") %>
 
 
 ## Meetings
@@ -102,7 +102,7 @@ Although we have a bias for asynchronous communication, synchronous meetings are
 | Frequency | Meeting                              | DRI         | Possible topics                                                                                        |
 |-----------|--------------------------------------|-------------|--------------------------------------------------------------------------------------------------------|
 | Weekly    | Group-level meeting                  | Backend Engineering Managers | Ensure current release is on track by walking the board, unblock specific issues                       |
-| Monthly   | Planning meetings                    | Product Managers         | See [Planning](/handbook/engineering/development/dev/manage/#planning) section |
+| Monthly   | Planning meetings                    | Product Managers         | See [Planning](/handbook/engineering/development/dev/manage/authentication-and-authorization#planning) section |
 
 For one-off, topic specific meetings, please always consider recording these calls and sharing them (or taking notes in a [publicly available document](https://docs.google.com/document/d/1kE8udlwjAiMjZW4p1yARUPNmBgHYReK4Ks5xOJW6Tdw/edit)).
 
@@ -136,6 +136,6 @@ The following people are permanent members of the group:
   * Manage:Authentication and Authorization [#g_manage_auth](https://gitlab.slack.com/archives/CLM1D8QR0)
   * Daily standups [#g_manage_auth_daily](https://gitlab.slack.com/archives/C01311Z0LDD)
 * Issue boards
-  * [Release workflow board](https://gitlab.com/gitlab-org/gitlab/-/boards/4406395) 
+  * [Release workflow board](https://gitlab.com/gitlab-org/gitlab/-/boards/4406395)
   * [Security issues board](https://gitlab.com/gitlab-org/gitlab/-/boards/4260654?label_name%5B%5D=devops%3A%3Amanage&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&label_name%5B%5D=bug%3A%3Avulnerability)
   * [Cross-functional prioritisation board](https://gitlab.com/groups/gitlab-org/-/boards/4453752)
