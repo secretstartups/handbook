@@ -28,7 +28,7 @@ If you have any access requests related questions, please reach out to #it_help 
 
 ## How do I choose which template to use?
 
-#### <a href="https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request" target="_blank">Individual or Bulk Access Request</a>
+#### Individual or Bulk Access Request
 
 _You can use this template to request access for individuals or multiple people, as long as all the people are requesting access to the same systems.  Create multiple issues using this same template if multiple people require access to different systems. When access is being requested for multiple people who report to different managers but are part of the same department or division, approval can be obtained by the manager at the highest level; that is, the Director, Vice President, or Executive of the department or division._
 
@@ -78,7 +78,7 @@ _You can use this template to request access for individuals or multiple people,
 
 ---
 
-#### <a href="https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Shared_account_access_request" target="_blank">Shared Account Access Request</a>
+#### Shared Account Access Request
 
 <div class="panel panel-success">
 
@@ -119,7 +119,7 @@ After the Exception Length, you will be required to submit another Exception Req
 
 ---
 
-#### <a href="https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Access_Change_Request" target="_blank" id="access-change-request">Access Change Request</a>
+#### Access Change Request
 
 Access Change Requests are logged when a team member no longer requires access to a currently provisioned system or no longer requires the same level of access (downgraded access from admin to user etc).
 Refer to [`For Total Rewards Analysts: Processing Promotions & Compensation Changes`](/handbook/people-group/promotions-transfers/) section of the GitLab handbook for additional information.
