@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM Segment: Mid-Touch"
+title: "TAM Segment: Growth"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -21,12 +21,12 @@ Definition: TAM on the account, product usage data-based success goals per accou
 
 ## Engagement Model
 
-![Mid-Touch Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_TAM.png)
+![Growth Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_TAM.png)
 
 
 ### Prioritization
 
-Please refer to our [prioritization guidelines](/handbook/customer-success/tam/engagement/#mid-touch-accounts) for details about how Mid-Touch accounts are prioritized and what Priority 1 and Priority 2 means in practice.
+Please refer to our [prioritization guidelines](/handbook/customer-success/tam/engagement/#mid-touch-accounts) for details about how Growth accounts are prioritized and what Priority 1 and Priority 2 means in practice.
 
 ## Metrics
 
@@ -77,7 +77,7 @@ Expansion is primarily driven by the SAL or AE in this segment, though a key dri
 
 ## Rhythm of Business
 
-While the motions in the [rhythm of business](/handbook/customer-success/tam/rhythm/) will remain the same as the Strategic segment, the Mid-Touch TAM team will have a slightly different approach to their workflow and books of business.
+While the motions in the [rhythm of business](/handbook/customer-success/tam/rhythm/) will remain the same as the Strategic segment, the Growth TAM team will have a slightly different approach to their workflow and books of business.
 
 A breakdown of what their expected tasks and hours spent for each can be found below, including a breakdown of those hours at a weekly, monthly, quarterly, and yearly perspective.
 
