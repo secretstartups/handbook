@@ -96,6 +96,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [GitLab.com](/handbook/business-technology/data-team/platform/pipelines/#gitlab-postgres-database) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 6h / x |  No | Tier 1 |
 | GitLab Ops DB | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x |  No | Tier 1 |
 | GitLab Profiler DB | x | x | x | x | x / x |  No |  Tier 3 |
+| Gitlab Container Registry Logs | [Airflow](https://airflow.gitlabdata.com/home) | `Container Registry` | `Container Registry` | Engineering | x | No | Tier 2 |
 | [Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/) | [Fivetran](https://fivetran.com/) | `google_analytics_360_fivetran` | `google_analytics_360` | Marketing | 6h / 32h |  No | Tier 2 |
 | [Google Cloud Billing](https://cloud.google.com/support/billing) | x | `gcp_billing` | `gcp_billing` | Engineering | 24h / x |  No |  Tier 3 |
 | [Graphite API](https://graphite-api.readthedocs.io/en/latest/) | [Airflow](https://airflow.gitlabdata.com/home) | `engineering_extracts` | x | Engineering | 24h / 48h |  No |  Tier 3 |
