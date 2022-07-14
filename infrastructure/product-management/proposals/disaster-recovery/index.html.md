@@ -9,6 +9,9 @@ title: "GitLab.com Disaster Recovery Proposal"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+**Update 2022-07-13** This has been postponed. Functionality proposed outside of [Current Capabilities](#current-capabilities) should not be relied upon as a current or forward-looking indication of GitLab.com's RTO or RPO.
+{: .alert .alert-warning}
+
 ## Background
 The ability for GitLab.com to recover from a disaster scenario has been a top request among GitLab.com customers and is needed to help make [GitLab.com enterprise ready](/direction/enablement/dotcom/#availability-and-performance). The purpose of this document is to establish high-level objectives and approach towards addressing customer needs around Disaster Recovery and to establish the 12 month roadmap for delivering on this capability. 
 
