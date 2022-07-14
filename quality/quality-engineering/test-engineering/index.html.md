@@ -294,7 +294,7 @@ How can we use these heuristics? Are there others? The next section answers thos
     - This is just what it sounds like and often critical testing if they are identified correctly.
   - Personae
     - Adopt the personality of expected user personas. Modify your testing behavior to mimic the knowledge, focus, and concerns of the persona.
-    - See the [personas](/handbook/marketing/strategic-marketing/roles-personas/#user-personas) defined here as an example.
+    - See the [personas](/handbook/product/personas/#user-personas) defined here as an example.
   - Soap Operas
     - This kind of testing is based on "real life" situations, but are condensed and more extreme, like a soap opera.
     - As an example, a user pushes a branch and creates a merge request. The user then closes the merge request and deletes the branch because they had difficulty with a conflict. They delete their local branch, recreate with the same name, make their updates cleanly, then push and open another merge request, all within a short period of time.
