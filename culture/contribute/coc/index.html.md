@@ -17,6 +17,8 @@ This policy extends to:
 - Parties
 - Hallway conversations
 - Booths and other similar activities 
+- Virtual Environments
+- Electronic communication - via Slack, email, or event apps
  
 This policy is applicable to all attendees, speakers, exhibiting partners, partners, sponsors, volunteers, event staff, vendors, etc. You catch our drift. GitLab’s goal is to cultivate an environment in which everyone feels welcomed, secure and positively engaged.
  
@@ -50,7 +52,7 @@ Event staff reserves the right to refuse admittance to, or remove any person fro
  
 ## What to do if you witness or are subjected to unacceptable behavior
  
-If you experience behavior which violates this policy or [GitLab’s Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d), please contact the nearest member of event staff or the PeopleOps team immediately (you can post a Slack message in #people-connect or #corporate-events-team and ask that someone DM you. If there is a life safety issue, please call emergency services (In the US, call 911.). The event staff can usually be identified by special badges/attire. We will appoint designated PeopleOps partners for internal company events who will be available to support in these possible reporting situations. Our policy means that we will look into and review every allegation of violation of our policy and respond appropriately. Event staff will help participants contact hotel/venue/event security or local law enforcement, provide escorts, or otherwise assist those experiencing discomfort or harassment to feel safe for the duration of the event. We value your attendance, and we want to ensure that all participants feel safe and comfortable.
+If you experience behavior which violates this policy or [GitLab’s Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d), please contact the nearest member of event staff or the third party security staff, if on-site. If there is a life safety issue, please call emergency services (In the US, call 911.). The event staff can usually be identified by special badges/attire. We will appoint designated PeopleOps partners for internal company events who will be available to support in these possible reporting situations. Our policy means that we will look into and review every allegation of violation of our policy and respond appropriately. Event staff will help participants contact hotel/venue/event security or local law enforcement, provide escorts, or otherwise assist those experiencing discomfort or harassment to feel safe for the duration of the event. We value your attendance, and we want to ensure that all participants feel safe and comfortable.
  
 Please note: While we take all concerns raised seriously, we will use our discretion as to determining when and how to follow up on reported incidents, and may decline to take any further action and/or may direct the participant to other resources for resolution.
  
