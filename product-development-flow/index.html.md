@@ -10,7 +10,7 @@ title: Product Development Flow
 {:toc .hidden-md .hidden-lg}
 
 
-Please follow this [guidance](#contributing-to-this-page) on how to contribute this page. To see a list of the latest updates to this page, visit [product development flow releases](/handbook/product-development-flow/releases)
+Please follow this [guidance](#contributing-to-this-page) on how to contribute to this page. To see a list of the latest updates to this page, visit [Product development flow releases](/handbook/product-development-flow/releases).
 
 ## Overview & philosophy
 
