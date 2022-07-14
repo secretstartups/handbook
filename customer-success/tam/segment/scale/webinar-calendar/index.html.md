@@ -22,19 +22,26 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### July 2022
 
-### Intro to CI/CD
-#### July 13th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_PAupSQ5FRzOXW677FGCkFQ)
-
 ### Advanced CI/CD
 #### July 19th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
 Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
  
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_pV2BQn63TJKDJsWU0QbjMg)
+
+### GitLab CI/CD Avanzado
+#### July 24th, 2022 at 5:00PM-6:00PM Eastern Time/9:00-10:00 PM UTC
+
+Amplíe su conocimiento de CI/CD mientras cubrimos temas avanzados que acelerarán su eficiencia usando GitLab, como pipelines, variables, reglas, artefactos y más. Esta sesión está destinada a aquellos que han usado CI/CD en el pasado.
+ 
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Ia80YgP0T1iaqvH-GO2ZxQ)
+
+### DevSecOps con GitLab
+#### July 26th, 2022 at 5:00PM-6:00PM Eastern Time/9:00-10:00 PM UTC
+
+GitLab permite que los desarrolladores y la seguridad trabajen juntos en una sola herramienta, lo que permite una seguridad proactiva o "desplazamiento a la izquierda". Esta sesión cubrirá lo que ofrece GitLab, cómo los resultados del escaneo se integran sin problemas con los Merge Requests y cómo usar el panel de seguridad para administrar las vulnerabilidades detectadas.
+ 
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_kjFVpVNKSGKE4XZITuBL3A)
 
 ### DevSecOps Compliance
 #### July 27th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
