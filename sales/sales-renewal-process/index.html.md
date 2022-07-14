@@ -10,3 +10,4 @@ description: "Renewals Lifecycle Management Process Guide for GitLab Sales"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+[Please see the Go To Market - Renewals Internal Handbook Page](https://internal-handbook.gitlab.io/handbook/sales/go-to-market/renewals/)
