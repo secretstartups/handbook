@@ -42,7 +42,7 @@ For information regarding process, epic codes, templates and more, please visit 
 
 ## 3rd Party Events
 
-We will sponsor regional 3rd party events in an effort to build the GitLab brand and also to gather leads. Different type of 3rd party events include, but are not limited to:
+We will sponsor regional 3rd party events in an effort to build the GitLab brand and also to gather leads. Different types of 3rd party events include, but are not limited to:
 
 - DevOps Days
 - Agile Events
@@ -1182,7 +1182,7 @@ For more information on how Field Marketing utilizes GitLab for agile project ma
 
 Field Marketing manages its budget in [Allocadia](/handbook/marketing/strategy-performance/allocadia/). Specific instructions on how we manage our expenses:
 
-1. Each FMM will have a qtrly allocation of money to spend based on territory pipeline needs.
+1. Each FMM will have a quarterly allocation of money to spend based on territory pipeline needs.
 1. Every month on t -6 days (so 6 business days before the start of the next month) finance will do a pull of this data and push it into the company planning tool called Adaptive. Field Marketing Managers must always keep their budgets up to date, but it is essential the budget is accurate for the month prior to t -6 days, as FMM Leadership reviews the budget vs. actuals on a monthly basis. 
    * Via Geekbot, each FMM will receive a reminder t-8 days before the start of the next month - or 2 days before the monthly forecast is due to Finance. 
 1. Direct Mail accrual process - Spend should be planned and expensed in the month in which they are sent out to recipients vs. the month in which the recipient could use the direct mail piece, as we have no control over when a gift card (as an example) is used.
