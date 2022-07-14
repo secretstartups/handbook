@@ -523,38 +523,66 @@ For complete details on Smartling, our translation tool, please see the [Smartli
 - Make sure it is 100% aligned to achieve partner goals
 - Needs functional leader approval
 
-# Field Marketing Swag
+# Field Marketing Swag 
 
-## AMER Field Marketing Swag
+## AMER Field Marketing Swag 
 
-The AMER Field Marketing team utilizes our swag vendor, [Nadel](https://www.nadel.com/) and their contracted warehouse, DG Fulfillment. Nadel is available to produce, ship and store swag and event material. The FMM is responsible for accessing the [Nadel Portal](https://rhu270.veracore.com/v5fmsnet/MONEY/OeFrame.asp?PmSess1=2095144&Action=LOGIN&pos=GIT476&v=4&OfferID=&sxref=) via the Field Marketing team login available in the 1Password Marketing Vault to order all swag and trade show items for their events.
+The AMER Field Marketing team utilizes GitLab's swag and fulfillment vendor [Boundless](https://www.boundlessnetwork.com/), and their contracted warehouse, [A51 Logistics](https://a51logistics.weebly.com/) for all of our swag and event asset requirements. Boundless is available to produce, ship and store swag and event assets. 
 
-Nadel Portal Demo - [View Here](https://drive.google.com/open?id=1JGGjmWioXmwKI8t1zowqyfl22GKeaOk3)  
-Nadel Admin Portal Demo - [View Here](https://drive.google.com/open?id=1YNNjr-A8OJVLuod27vWfTCbEO1y21d9T)  
+### Boundless Portal
 
-- You are required to provide an Allocadia ID for all Nadel orders. All charges related to swag and shipping will be associated to your specific campaign. Please see [this page](/handbook/marketing/#how-marketing-tracks-campaign-expenses) for more Allocadia ID information.
-- **Budgeting for Swag:** Please note that we pay a $6.50 per order fee for any orders placed through the Nadel warehouse (DG Fulfillment). Remember to add this cost to your overall campaign swag budget.
-- **Shipping:** DG Fulfillment utilizes our [Field Marketing Fedex Account](/handbook/marketing/field-marketing/#field-marketing-fedex-account) for all shipping costs. These costs will also need to be accounted for in your overall campaign swag budget. For shipping estimates, you can utilize the Fedex website if you have the weight of the item, or reach out to the DG Warehouse for estimates at `gitlab@dg-fulfillment.com`. Please make sure to specify all shipping requirements and deadlines when ordering your items. DG Fulfillment will provide return shipping labels with each order for easy return shipping to the warehouse after your event.
-- **Existing Items:** Item quantities are listed in the portal. Please select from the current items in stock for your event. If you need a larger quantity of an item over what is available, please reach out to `@krogel` for reordering.
-- **New Items and Designs:** Requests for new swag items not already available in the Nadel portal require management budget approval. Any new swag designs must be approved by the brand team for brand consistency. For new swag design requests, please review the Brand and Design page [here](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates) and open the appropriate issue template for your request.
-- **Large Portal Orders:** For orders over 500 pieces, please do not pull from existing stock in the Nadel portal. Contact `@krogel` for assistance on placing a new order.
-- **Lead Times:** Please be aware that ordering newly designed swag or placing reorders for existing items requires adequate lead time. Timeframes vary greatly based on the items selected and design approval. General Lead Times: 6 weeks to produce a new item and 2-3 weeks to reorder current designs.
-- **Stickers:** For sticker orders, please utilize our [Sticker Mule](https://www.stickermule.com/) account. Delivery options and timelines are provided during the ordering process. Any new sticker designs must be approved by the brand team for brand consistency. For new sticker design requests, please review the Brand and Design page [here](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates) and open the appropriate issue template for your request.
+Field Marketers are responsible for accessing the [Boundless Portal](https://portal.boundlessnetwork.com/) via their individual logins to order all swag and assets for their events.  
+
+#### Boundless Portal Training
+
+[**Watch Training Video Here**](https://youtu.be/B68Ka-zHeT4)  *(Note: You must be logged in to GitLab Unfiltered to view)*   
+[**Review Training Doc Here**](https://drive.google.com/file/d/1-dy_UPUq_v4gl51mJoQ5PYRg6cTeJ6xc/view?usp=sharing)  
+
+### Boundless Support
+
+For Boundless support, please reach out directy to our Boundless Branded Merchandise Specialist, Savanah Sporer. For any questions or concerns, please reach out to `@krogel`.
+
+Savanah Sporer  
+sporer@boundlessnetwork.com   
+785.672.2647  
+
+### Details Regarding Swag and Event Asset Ordering
+
+- You are required to provide an Allocadia ID and event name for all Boundless orders. All charges related to swag and shipping will be associated to your specific campaign. Please see [this page](/handbook/marketing/#how-marketing-tracks-campaign-expenses) for additional Allocadia ID information.
+- When orders are placed through the Boundless portal, A51 Logistics' UPS account will be utilized for shipping charges. These charges will process through our monthly invoice and charges will be associated to the Allocadia ID provided when ordering.
+- Item quantities are listed in the portal. Please select from the current items in stock for your event. If you need a larger quantity of an item over what is available, or you intend to utilize the remaining stock for an item, please reach out to `@krogel` for reordering.
+- If you would like to source a new swag item, please reach out to `@krogel` directly. All new swag items must be approved by the Brand team for brand consistency.
+- Please be aware that ordering newly designed swag or placing reorders for existing items requires adequate lead time. Timeframes vary greatly based on the items selected, design approval, and availability. General Lead Times: 6 weeks to produce a new item and 2-3 weeks to reorder current designs
 
 ### AMER Field Marketing Event Assets
 
-Each FMM and FMC is to keep a GitLab tablecloth, popup banner and table runner with them to be utilized for events. Ordering instructions are provided during onboarding, but if replacement items are needed, please contact your Field Marketing Coordinator. Additional event assets (including popup booths) are stocked at the Nadel warehouse and can be shipped via the [Nadel Portal](https://rhu270.veracore.com/v5fmsnet/MONEY/OeFrame.asp?PmSess1=2406114&Action=LOGIN&pos=GIT476&v=4&OfferID=&sxref=) utilizing the Field Marketing team login available in the 1Password Marketing Vault.
+It is recommended that each Field Marketer keep a separate GitLab tablecloth, popup banner and table runner with them at home for easy access and to be utilized for events. Ordering instructions are provided during onboarding, but if replacement items are needed, please contact `@krogel`. Additional event assets utilized for shows (including backwalls, tablecloths, popup banners, DevOps Days kits, etc.) are stocked at the Boundless warehouse and can be shipped via the [Boundless Portal](https://portal.boundlessnetwork.com/).
 
-### Returning AMER Field Marketing Event Assets
+### Returning AMER Field Marketing Event Assets and Swag
 
-It is the FMM’s responsibility to not only ship assets to events, but to also ensure the onsite event DRI ships the items back within **3 days** of the end of the event. When shipping items via the Nadel portal, there is an option to include return shipping labels during the ordering process so items can be sent back to Nadel directly. The return shipping labels will be included on the outside of the box in a sleeve marked `Return Documents Enclosed`. The FMM is to make sure the onsite event DRI is aware of the location of the return shipping labels. If a return shipping label is not included for any reason during the Nadel ordering process, the FMM is to provide the Field Marketing Fedex account number (available in the 1Password Marketing Vault) and the return shipping address listed below to the onsite event DRI. The onsite event DRI will then need to drop off the items to a Fedex location.
+It is the FMM’s responsibility to not only ship assets to events, but to also ensure the onsite event DRI ships the items back within **3 days** of the end of the event. Every order placed through the Boundless portal will include a clearly marked return label inside of each box. The FMM is to make sure the onsite event DRI is aware of the location of the return shipping labels and of their responsibility to ship the items back. 
 
-#### Nadel Warehouse Address for Returns
-*Please note that this is the new warehouse address as of 1/11/22* 
+**PLEASE NOTE:** Trash should not be put into the return shipping boxes. All event assets are to be packed up cleanly and securely in their original boxes. All tool kit items should be returned to the tool kits for future event use. Do not send small numbers of swag back to the warehouse if the items were bundled. Only send full bundles back to the warehouse for restock. Example: If pens come in bundles of ten, please do not send back 2 pens as these cannot be rebundled. Feel free to keep small quantities of extra swag to give out to customers, if appropriate. Also, only open swag bundles as they are needed so items can be returned if not used. If you have any questions, please contact `@krogel`.
 
-DG Receiving Dept - #GIT476 (FM)    
-24100 Broad Street   
-Carson, CA 90745  
+### A51 Logistics Warehouse Address 
+
+A51 Logistics  
+Account: GitLab  
+4465 W Hacienda, Suite 105  
+Las Vegas, NV 89118  
+702-353-4547 
+
+### Stickers
+
+For sticker orders, please utilize our [Stickermule](https://www.stickermule.com/) account. The login for Stickermule can be found in the Marketing 1pass. Delivery options and timelines are provided during the ordering process. Any new sticker designs must be approved by the Brand team for brand consistency. For new sticker design requests, please open a design issue using the design issue template [here](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general). Please note that we are currently not producing specialty Tanuki designs at this time.
+
+### Print Collateral
+
+In order to stay environmentally-friendly, we generally do not provide large quantities of print collateral at events. However, if you do need printouts or gift bag stuffers for events, we utilize [Vistaprint](https://www.vistaprint.com/). Please log in using the Marketing 1pass. Another option in lieu of hundreds of printed handouts is to have a handful of printed and laminated pieces of collateral to utilize for visual reference while speaking with customers at an event. Additionally, you can create a [QR Code]() `Add new QR code info once merged` to display at your event with that same piece of content for customers to download to their own devices.
+
+### Swag for Non-Field Marketing Teams
+
+If you are looking to order swag or event assets for a non-Field Marketing event or would like to order swag for a customer, please visit the GitLab swag handbook page `here` for instructions `(COMING SOON)`.
 
 ## EMEA Field Marketing Swag
 
@@ -583,16 +611,6 @@ Delivery options and timelines are provided during the ordering process. Any new
 # Field Marketing Fedex Account
 
 The Field Marketing team utilizes the Field Marketing Fedex Account for shipping (details located in the Marketing 1pass). Please always include a reference when using the account (Allocadia ID, name of event, etc.) so charges can be tracked appropriately. For any questions regarding the Field Marketing Fedex account, please contact `@krogel`.
-
-# AMER Field Marketing Vendors and Tools
-
-We sometimes work with third party vendors and use other tools for outreach, event production etc. Below is a list of whom we work with currently and the [FM vendor evaluation epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/441) that tracks whom we have evaluated/worked with in the past.
-
-- [Thnks](https://www.thnks.com/how-it-works/) - platform to send gifts to recipients with the option to accept gift or donate to charity
-    - There is a service fee on each order which sits around 16% (for example, a $50 giftcard will cost us $60 to send via Thnks)
-    - `@krogel` has admin access and can request to add others as users, please reach out to be added or for more info on using this tool
-    - Example Thnks [here](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1380#package-swag-and-event-assets)
-- [Jack Nadel](https://jacknadel.exhibitors-handbook.com/) - our AMER swag vendor who provides swag sourcing, warehousing and distribution, see more details [here](/handbook/marketing/events/#amer-field-marketing-swag)
 
 # Sourcing New Field Marketing Vendors
 
