@@ -17,7 +17,7 @@ The Business Systems Architect (Intermediate) is a [grade 7](/handbook/total-rew
 
 #### Business Systems Architect (Intermediate) Responsibilities
 
-* Work alongside Business System Administrators to turn business requirements into technical specfications and project approach.
+* Work alongside Business System Administrators to turn business requirements into technical specifications and project approach.
 * Develop APEX and Visualforce solutions that follow Salesforce.com best practices and templating.
 * Solves complex, large-scale customer challenges to produce solutions that maximize the full potential of the Salesforce Platform.
 * Digital advisors to clients, helping them translate their business vision into requirements and technical specifications.
@@ -25,7 +25,7 @@ The Business Systems Architect (Intermediate) is a [grade 7](/handbook/total-rew
 * Communicate technical solutions and design tradeoffs effectively to business stakeholders, and provide a delivery framework that ensures quality and success.
 * Communicate and collaborate with other technical resources across GitLab.
 * Recognize impediments to our efficiency as a team ("technical debt"), propose and implement solutions.
-* Particpate in team code reviews, user acceptence testing and maintain excellent documentation of all work.
+* Participate in team code reviews, user acceptance testing and maintain excellent documentation of all work.
 * Advocate for improvements to product quality, security, and performance.
 * Respond quickly to bugs and the direction of Sales Systems and Field Operations managers.
 
