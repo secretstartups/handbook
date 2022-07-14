@@ -9,6 +9,10 @@ description: "Follow this process to obtain legal review of materials for intern
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+When creating materials:
+* for [external](./#external-vs-internal-use) use, refer to the [SAFE Framework](/handbook/legal/safe-framework/) and the [Guidelines for Use of Third-party IP in External Materials](/handbook/legal/ip-public-materials-guidelines/).
+* for [internal]((./#external-vs-internal-use)) use, refer to the [SAFE Framework](/handbook/legal/safe-framework/).
+
 ### Using this process
 #### Scope
 This process applies to:
@@ -44,12 +48,6 @@ Sometimes, legal review entails two separate reviews:
 
 * Materials for external use are reviewed (i) against the [SAFE Framework](/handbook/legal/safe-framework/), and (ii) for compliance with third-party intellectual property (IP) rights; and
 * Materials for internal use are reviewed solely against the [SAFE Framework](/handbook/legal/safe-framework/); an IP review is not required unless it is contemplated that such materials will be used externally.
-
-When creating materials:
-
-* for external use, refer to the [SAFE Framework](/handbook/legal/safe-framework/) and the [Guidelines for Use of Third-party IP in External Materials](/handbook/legal/ip-public-materials-guidelines/).
-* for internal use, refer to the [SAFE Framework](/handbook/legal/safe-framework/).
-
 
 #### Turnaround time
 
