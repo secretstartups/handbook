@@ -239,9 +239,6 @@ Example:
 Example: 
 - A team member has consistently and proactively looked for opportunities to fill gaps and take on stretch projects. When another team member left the team, you leaned on this team member to help keep projects moving forward until you found a suitable backfill. They regularly ask for feedback from peers and adapt their approach accordingly. This has given your team member skills beyond their current job requirements, and broader understanding of the business.
 
-## Team Member Self-Evaluations
-
-It is up to all team members' discretion if they wish to complete their own short [Performance Review Self-Evaluation](https://docs.google.com/document/d/1853nrcQ8-eK83DxxKXVw2w7oyccmJLVW5lnpy9S9USw/edit?usp=sharing) document using our template. This self-evaluation should be shared with their manager prior to the manager's Calibration Sessions. Please review the most current [timeline](/handbook/people-group/talent-assessment/#timeline) to ensure a timely delivery.
 
 ## Calibration Session Guidelines
 
@@ -346,6 +343,10 @@ Anyone hired on or before October 31st is eligible to participate in the Q4 Perf
 This is because team members generally need several months to get adjusted to their role and responsibilities, and we ideally would have hired the team member at their accurate market rate. 
 
 While there are exceptions, this is the general guideline. 
+
+### Team Member Self-Evaluations
+
+It is up to all team members' discretion if they wish to complete their own short [Performance Review Self-Evaluation](https://docs.google.com/document/d/1853nrcQ8-eK83DxxKXVw2w7oyccmJLVW5lnpy9S9USw/edit?usp=sharing) document using our template during the Q4 Talent Assessment. This self-evaluation should be shared with their manager prior to the manager's Calibration Sessions. Please review the most current [timeline](/handbook/people-group/talent-assessment/#timeline) to ensure a timely delivery.
 
 ### Matrix Assessment Timeline 
 
