@@ -74,7 +74,7 @@ The Senior Manager, Technical Writing is a [grade 9](/handbook/total-rewards/com
 * Identify opportunities for process improvement, including automation, and coordinating the implementation and communication of these changes.
 * Promote efficiency and usability using a clear content strategy that defines the types and structure of content, as well as optimal workflow and continued maintenance.
 * Deliver input on promotions, function changes, demotions, and offboarding in consultation with the Technical Writing Managers and the VP of UX.
-* Collaborate with VP of UX on quarterly [Technical Writing OKRs](https://about.gitlab.com/company/okrs/) and [Performance Indicators](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/).
+* Collaborate with Director, Technical Writing on quarterly [Technical Writing OKRs](https://about.gitlab.com/company/okrs/) and [Performance Indicators](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/).
 
 
 
