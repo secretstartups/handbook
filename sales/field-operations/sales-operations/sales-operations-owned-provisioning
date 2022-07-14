@@ -39,7 +39,7 @@ Below are instructions on how to provision new users within various Sales-owned 
 7.  If Assignee is out of office, the rest of the team is responsible for moving the AR forward in a timely fashion and can see ARs in flight by looking at the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
 
 ### Single Person or Bulk Access Request
-1. The user will manually create a [single person or bulk AR](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#singlebulk-access-requests-instructions)
+1. The user will manually create a [single person or bulk AR](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#singlebulk-access-requests-instructions)
 2. In the instructions, they are directed to the Tech Stack doc with the following tasks:
    - Add the SalesOpsAR::Action Needed label
    - Leave the assignee blank
