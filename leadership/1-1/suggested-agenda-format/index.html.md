@@ -19,19 +19,20 @@ please make sure to find a format that works for you and your team.
 
 Give your agenda document these headers:
 
-1. Performance Management
-1. Feedback
+1. Performance Management (Optional)
+1. Career development
 1. Vision
 1. Hallway
 
-## Performance management
+## Performance management (Optional)
 
 1. List reports with high or exceptional performance. Team members with high performance [should be recognized and praised](/company/team/structure/#management-group).
 1.  List reports who might be [underperforming](/handbook/leadership/underperformance/). Err on the side of putting people on too early and taking them off when it turns out there was no underperformance. It is important to bring people [up with your manager immediately](/handbook/leadership/underperformance#immediately-discuss-with-the-managers-manager) and not have your manager have to tell you about concerns.
 
-## Feedback
+## Career development
 
-Please see [our guide on giving feedback](/handbook/people-group/guidance-on-feedback/).
+An important part of career development is feedback, but that’s not all. It also involves training. 
+Please see [our guide on giving career development](/handbook/people-group/guidance-on-feedback/).
 
 ## Vision
 
