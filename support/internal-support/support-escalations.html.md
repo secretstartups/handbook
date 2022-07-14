@@ -37,7 +37,7 @@ Either of these can be escalated if the current course of action is unlikely to 
 
 ## Out of Scope
 
-1. Topics that fall into our general out-of-scope [definition](https://about.gitlab.com/support/statement-of-support.html#out-of-scope)
+1. Topics that fall into our general out-of-scope [definition](https://about.gitlab.com/support/statement-of-support/#out-of-scope)
 1. Escalating tickets for which there is no acceptable business case provided, requiring the acceleration of a resolution.
 1. Add email to org or tickets that are not getting the correct SLA.
 

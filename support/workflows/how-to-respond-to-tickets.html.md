@@ -148,7 +148,7 @@ by:
 
 #### Statement of Support
 
-The [Statement of Support](/support/statement-of-support.html) describes the areas covered by Support and the areas
+The [Statement of Support](/support/statement-of-support/) describes the areas covered by Support and the areas
 we can't promise to cover. This is a tool to set expecations for customers as well as to help the
 support team to make sure we're supporting what we're experts in. You can read more about the
 philosophy behind it in [the blog post where we introduced the Statement of Support](/blog/2018/12/20/introducing-our-statement-of-support/).

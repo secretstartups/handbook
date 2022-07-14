@@ -45,7 +45,7 @@ Below is a list of the most commonly used Zendesk forms with a brief explanation
 - SaaS Account: Single user account issue only, all others go to GitLab.com (SaaS).
 - Accounts Receivable: refunds, VAT, and invoices.
 - L&R (License and Renewals): any subscription, purchase, and customers portal issue not covered by AR form (in above point). See also [L&R workflows](/handbook/support/license-and-renewals/workflows/).
-- Community: any ticket not entitled to support. Typically, Self-managed CE user, or SaaS free user request [not listed as supported](/support/statement-of-support.html#free-users). See [Handling Free User tickets](#handling-free-user-tickets) for further instructions on how to handle free user tickets.
+- Community: any ticket not entitled to support. Typically, Self-managed CE user, or SaaS free user request [not listed as supported](/support/statement-of-support/#free-users). See [Handling Free User tickets](#handling-free-user-tickets) for further instructions on how to handle free user tickets.
 - Professional Services: For tickets that should go to the Professional Services team, such as requests about [the GitLab Learn platform](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/)(`gitlab.edcast.com`).
 
 ### For security related matters
@@ -60,7 +60,7 @@ For cases that need to go to non-support forms, apply the `General::Forms::Incor
 
 Free Users who are reporting Self-Managed or SaaS issues
 
-1. Triage the Free User ticket and verify if they are a SaaS user who meets the support criteria outlined in the [free users section of the statement of support](https://about.gitlab.com/support/statement-of-support.html#free-users).
+1. Triage the Free User ticket and verify if they are a SaaS user who meets the support criteria outlined in the [free users section of the statement of support](https://about.gitlab.com/support/statement-of-support/#free-users).
 1. If they do not meet the above criteria or the ticket is for a self-managed Free User, tickets that are `New` can be moved to the `Community` form, which will activate the [`Ticket::Autoresponder::Community tickets`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073064519) trigger (responds and solves the ticket). If the ticket is `Open`, then direct the customer to the [GitLab community forum](https://forum.gitlab.com/) via the ["Free User Request" macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360044960813) and mark it "Solved”. If you wish to provide technical assistance to the user, then please do so via the [GitLab community forum](https://forum.gitlab.com/).
 
 Free Users who are reporting L&R issues

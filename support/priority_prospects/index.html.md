@@ -36,7 +36,7 @@ If you've been contacted by a prospect whose evaluation of GitLab includes evalu
 * This does not include Shared organization setup
 * All response times are reasonable effort and will be given an internal SLO of
   24 hours.
-* Everything within [the statement of support](/support/statement-of-support.html) applies.
+* Everything within [the statement of support](/support/statement-of-support/) applies.
 
 ## Requests
 

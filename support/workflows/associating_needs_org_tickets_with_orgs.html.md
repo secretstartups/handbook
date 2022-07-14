@@ -248,7 +248,7 @@ After [identifying a free user ticket](#identifying-free-users):
   1. Ensure the correct form (accounts or general).
   1. Change the `SaaS Subscription` to `Free user`.
   1. Select the appropriate `Problem Type`.
-    - If you cannot choose an appropriate problem type, then check [if the user qualifies](/support/statement-of-support.html#support-for-free-plan-users).
+    - If you cannot choose an appropriate problem type, then check [if the user qualifies](/support/statement-of-support/#support-for-free-plan-users).
   1. If the user does not qualify for support, use the appropriate `Free user` macro.
 
 The ticket will be moved to the `Free user tickets` view.

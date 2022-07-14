@@ -92,7 +92,7 @@ Many common tickets are triaged to other places.
 
 ### Email Receiving
 
-One of the main differences of working with GitLab.com is that we receive many requests from [free users](https://about.gitlab.com/support/statement-of-support.html#free-plan-users) because we are the administrators of GitLab.com. One of the most common cases is not receiving confirmation, password, or other system notifications from GitLab.
+One of the main differences of working with GitLab.com is that we receive many requests from [free users](https://about.gitlab.com/support/statement-of-support/#free-plan-users) because we are the administrators of GitLab.com. One of the most common cases is not receiving confirmation, password, or other system notifications from GitLab.
 
 1. Read the [Confirmation Emails workflow](https://about.gitlab.com/handbook/support/workflows/confirmation_emails.html).
 1. Answer at least 1 ticket with an email receiving workflow: (insert ticket link here)
