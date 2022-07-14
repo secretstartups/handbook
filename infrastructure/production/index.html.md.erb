@@ -170,7 +170,7 @@ Backups of our production databases are taken every 24 hours with continuous inc
   - After 120 days, backups are deleted.
 
 - Snapshots of filesystems are taken every 4 hours; this is primarily git repository data but also includes other transient operational data
-  - These are retained for 30 days.
+  - These are retained for 14 days.
 
 Data stored in Object Storage (GCS) such as artifacts, the container registry, and others have no additional backups, relying on the [99.999999999% annual durability](https://cloud.google.com/storage/docs/storage-classes#descriptions) and multi-region buckets.
 
