@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
-title: "GitLab Code of Conduct"
+title: "GitLab Events Code of Conduct"
 description: "GitLab is dedicated to providing a harassment-free and inclusive event experience for everyone!"
-canonical_path: "/company/culture/contribute/coc/"
+canonical_path: "/company/culture/ecoc/"
 ---
 
 ## GitLab Events Code of Conduct
