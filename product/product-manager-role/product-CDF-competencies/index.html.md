@@ -156,7 +156,7 @@ When evaluating a product manager's potential, in addition to the [generic infor
 We can think about the Product Manager's potential primarily on two axis: value creation and leadership.
 
 #### Value Creation
-Product managers are in the business of creating value, measurable by [Product KPIs](https://about.gitlab.com/handbook/product/performance-indicators/#structure). They prioritize the most important thing to unlock the most value at the intersection of the business and the user or buyer.
+Product managers are in the business of creating value, measurable by [Product KPIs](https://about.gitlab.com/handbook/product/performance-indicators/#structure). They prioritize the most important thing to unlock the most value at the intersection of the business and the user or buyer. At GitLab, Product Managers are often the [business owner](https://www.svpg.com/product-managers-vs-business-owners/) of their segment and outputs are not just in the delivery of features to production, rather can include go-to-market, sales enablement, partner/channel/alliances relationships, and understanding revenue impact of the product offering. 
 
 We expect product managers to create value across the business by excelling at execution in at least the following levels. When thinking of a PM's potentials, consider their capacity to expand their influence beyond their current level.
 
