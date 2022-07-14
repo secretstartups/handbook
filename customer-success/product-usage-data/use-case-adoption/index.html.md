@@ -28,9 +28,9 @@ Adoption timeline: 1 months after license purchase
 
 |                       | **Red** | **Yellow** | **Green** |
 | --------------------- | ------- | ---------- | --------  |
-| Merge Requests / Licenses Sold | <20%    | 20-40%     | \>=40%    |
+| Git Operation - Users L28D / Licenses Sold | <25%    | ≥25 AND <50%     | ≥=50%    |
 
-This looks to all users who ran merge requests in the last 28 days / Licenses Sold.
+This looks to all active users who performed any Git operation (read/write/push) / Licenses Sold.
 
 ### Continuous Integration (CI)
 
@@ -62,7 +62,7 @@ Adoption timeline: 1 months after license purchase
 
 |                    | **Red** | **Yellow** | **Green** |
 | ------------------ | ------- | ---------- | --------  |
-| SMAU Release / Licenses Sold | <5%    | 5-10%     | \>=10%    |
+| SMAU Release / Licenses Sold | <5%    | 5-10%     | ≥=10%    |
 
 ## Use Case Adoption Count
 
