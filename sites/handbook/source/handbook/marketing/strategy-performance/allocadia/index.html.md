@@ -45,6 +45,11 @@ Marketing and Finance partner together when using Allocadia. The [Marketing Fina
 1. [Important dates](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) to be aware of between finance and marketing 
 1. And more! 
 
+## Allocadia Internal communication 
+We have a slack room! Search - allocadia_mktg-budget-holders  
+
+All budget holders are added and Marketing ops is responsible for granting access. 
+
 ## Home
 
 This section houses the main grid. This section is more for the Allocadia admin, although all budget holders will make use of it for mapping expenses to their line items as the Netsuite uploads are done monthly.
@@ -277,7 +282,7 @@ Allocadia comes with a lot of standard fields & definitions associated with thos
 An efficiency we are able to gain by using Allocaida is that we create a GitLab issue and can push information gathered in the details panel directly to that issue. This saves the Field Marketer time in not having to reenter information which has already been entered. 
 
 #### How to create a FMM issue from within Allocadia 
-1. Create a sub-category and fill in all information in the details panel 
+1. Create a **sub-category** and fill in all information in the details panel 
 1. Add AT LEAST 1 line item 
 1. Go back up to the sub-category details panel and scroll all the way down to the `Actions` section where you will see a button called GitLab issue - click that - and 💥 - your issue is created 
 
@@ -287,12 +292,15 @@ By creating the FMM issue at the sub category level, this still allows the marke
 
 Please be mindful of where you are creating a sub-category. The system will allow you to create a sub-category within a sub-category, and you will realize this because upon creation of the what you believe to be a new sub category, you will notice the details panel is already filled in. Do NOT go through and start changing out the data in the details panel, as you are only allowed to create one FMM issue within the sub-category. What you’ll need to do is delete the newly already filled in sub-category and then ensure you're in the category level and create a new sub-category. 
 
-##### FUTURE STATE - Date/Name changes 
+##### Date/Name changes 
 Should a date on a campaign need to change and the issue has already been created, you can systematically change the date & name. In order to do so, all changes must be made in Allocadia and then overnight will push the change to the GitLab FMM issue. Should you want to manually change both the issue AND Allocadia, you should feel empowered to do so. The automation is there to help you. 
 
-#### FM issues that can be created from Allocadia
+#### Help! The feature to create a GitLab issue is missing from the details panel 
+You can **ONLY** create a GitLab issue from within a **SUB-CATEGORY**. Please double check you have created a subcategory, and a line item as listed in the [instructions here.](/handbook/marketing/strategy-performance/allocadia/#how-to-create-a-fmm-issue-from-within-allocadia) 
 
-1. Details on which issue templates can be created out of Allocadia can be found here. 
+[Video walk through](https://www.youtube.com/watch?v=D-rxIHhbF0Q) of how to diagnose this problem and then how to also correct the problem if you've created a Category and need to move it to a sub-category. 
+
+If you have tried to create from the subcategory and you're still not able to create the issue, please ask in the #allocadia_mktg-budget-holders slack channel. 
 
 #### Making changes to the Field Marketing issues
 
