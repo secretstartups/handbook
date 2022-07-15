@@ -183,7 +183,18 @@ Flexipods is one example of cross-group collaboration, some others are:
 - sharing questions to a broader audience in #support_gitlab-com and
   #support_self-managed and #support_team-chat
 
+#### Escalate to Unblock (Asking for Manager Help)
+
+Managers are here to help and support SGG team members. If you or your global group feel blocked, and want help on any of the following, we've created [#spt_gg_forest](https://gitlab.slack.com/archives/C03LL7Z2291) for all SGG team members to use in collaborating more closely with Support managers:
+
+- provide guidance around SGG strategies
+- help identify and discuss challenges that require manager attention and/or support
+- highlight successes across SGGs
+- provide support around particular customer situations in an SGG (handover assistance, difficult customer handling, etc.)
+
 ## SGG History
+
+For a timeline table of the history of SGG and the many issues involved, please see [this SGG History Google doc](https://docs.google.com/document/d/1w6TZyxJSQZIHZoJqRkWOG7wW7aRwPGk-QeiUHZNAQXY/edit) for a summary.
 
 ## FAQ
 
