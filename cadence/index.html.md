@@ -47,7 +47,7 @@ Below are the cadences we have at GitLab:
 
 - [OKRs](/company/okrs/){:data-ga-name="OKRs"}{:data-ga-location="body"}
 - [Board meeting](/handbook/board-meetings/#board-meeting-process){:data-ga-name="board meeting"}{:data-ga-location="body"}
-- Sales targets (in [Clari](/handbook/business-ops/tech-stack/#clari)){:data-ga-name="clari"}{:data-ga-location="body"}
+- Sales targets (in [Clari](/handbook/business-technology/tech-stack/#clari)){:data-ga-name="clari"}{:data-ga-location="body"}
 - [E-group offsite](/company/offsite/){:data-ga-name="e-group offsite"}{:data-ga-location="body"}
 
 ## Year
