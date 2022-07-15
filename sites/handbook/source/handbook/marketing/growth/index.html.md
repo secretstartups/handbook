@@ -56,8 +56,8 @@ The growth division is currently grouped under the Acquisition team that contain
  
 ## Product ownership
 The Growth section owns the following areas of the product experience.
-* The free user and trial registration experience
-* The new user onboarding experience
+* The [free user](https://gitlab.com/users/sign_up/) and [trial registration](https://about.gitlab.com/free-trial/) experience
+* The new user [onboarding experience](https://about.gitlab.com/handbook/product/growth/#contributing-to-the-learn-gitlab-project)
 * [Broadcast messages](https://docs.gitlab.com/ee/user/admin_area/broadcast_messages.html)
 * [GitLab Experiment Gem (also refered to as GLEX)](https://docs.gitlab.com/ee/development/experiment_guide/)
 * [Instance review](https://docs.gitlab.com/ee/administration/instance_review.html)
@@ -67,7 +67,7 @@ The Growth section owns the following areas of the product experience.
 
 ## Growth Coffee & Learn Sessions
 
-Growth requires constant learning, and many compaines face similar challenges or go through similar journeys. At GitLab, we believe hearing from growth experts and practioners with diverse background is the best way to learn, and we want to share that with the community as much as possible. Therefore, we started a growth Coffee & Learn series since 2020. Below is a list of exerperts we invited to share their wisdom with us. We appreciate their time and insights, note that some videos/notes are viewable by internal team only. 
+Growth requires constant learning, and many compaines face similar challenges or go through similar journeys. At GitLab, we believe hearing from growth experts and practitioners with diverse background is the best way to learn, and we want to share that with the community as much as possible. Therefore, we started a growth Coffee & Learn series since 2020. Below is a list of exerperts we invited to share their wisdom with us. We appreciate their time and insights, note that some videos/notes are viewable by internal team only.
 
 |Expert |Background |Topic | Video |Notes|
 | ---------     | ------ |----------------- |------ |------ |
