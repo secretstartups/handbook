@@ -9,23 +9,26 @@ extra_js:
 Application Security Engineers work closely with development teams, product managers (PM), and third-party groups (including the paid bug bounty program) to ensure that GitLab products are secure.
 
 ## Responsibilities
-* Participate in and support application security reviews and threat modeling, including code review and dynamic testing.
-* Own and perform application security vulnerability management.
+
+* Perform security-focussed code reviews
+* Support and consult with product and development teams in the area of application security, including threat modeling and appsec reviews
+* Assist teams in reproducing, triaging, and addressing application security vulnerabilities.
 * Support the bug bounty program.
-* Facilitate and support the preparation of security releases.
-* Support and consult with product and development teams in the area of application security.
-* Assist in creation of security training.
-* Assist in development of automated security testing to validate that secure coding best practices are being used.
+* Support the preparation of security releases.
+* Assist in development of security processes and automated tooling that prevent classes of security issues.
+
+Learn more about our role [on the Application Security Handbook page](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/) including our work as [Stable Counterparts](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/stable-counterparts.html) and our [HackerOne process](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/runbooks/hackerone-process.html)
 
 ## Requirements
+
 * Ability to use GitLab.
-* Familiarity with common security libraries, security controls, and common security flaws.
-* Basic development or scripting experience and skills. Ruby and Ruby on Rails is preferred.
-* Experience with OWASP, static/dynamic analysis, and common security tools.
-* A basic understanding of network and web related protocols (such as TCP/IP, UDP, HTTP, HTTPS, protocols).
-* Experience working with developers. 
-* Excellent and professional communication skills (written and verbal) with an ability to articulate complex topics in a clear and concise manner.
+* Able to work well with software development teams. 
 * Experience identifying security issues through code review.
+* Excellent and professional communication skills (written and verbal) with an ability to articulate complex topics in a clear and concise manner.
+* Familiarity with some common security libraries and tools (e.g. static analysis tools, proxying / penetration testing tools).
+* Familiarity and ability to explain common security flaws and ways to address them (e.g. OWASP Top 10).
+* Basic development or scripting experience and skills. Ruby, Ruby on Rails, JavaScript, and/or Go are preferred.
+* A basic understanding of network and web related protocols (such as TCP/IP, UDP, HTTP, HTTPS, protocols).
 
 ## Levels
 
