@@ -160,7 +160,7 @@ Besides creating the deck, there are a few other items to consider to ensure you
 
 ### Impact Questions
 
-This is a list of example impact questions the TAM can use throughout the EBR to dig deeper into the customers objectives and strategy.
+This is a list of example impact questions the TAM can use throughout the EBR to dig deeper into the customer's objectives and strategy.
 
 1. Tell us about your largest initiatives right now? Where are you focused?
 1. Can you spend some time on your overall cloud and app modernization strategy?
