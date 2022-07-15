@@ -55,7 +55,7 @@ Below is a list of resources considered highly valuable for continuous learning 
 - [GitLab Direction](/direction/#vision-1) Includes GitLab’s Vision, [Maturity](/direction/#maturity) framework and planned features and their release dates within each of GitLab’s [Paid Tiers](/direction/#paid-tiers).
 - [GitLab Blog](/blog/) Monthly articles on Releases, Engineering, Open Source, Culture and other popular topics of interest.
 - [GitLab Unfiltered YouTube](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) A YouTube channel private to GitLab employees with video recordings and playlists on company meetings, enablement sessions and other topics. Access GitLab's [Sales Enablement playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX).
-- [Chorus Recordings](/handbook/business-ops/tech-stack/#chorus) Our team's history of call and demo recordings is a valuable training resource for new and existing sales team members.
+- [Chorus Recordings](/handbook/business-technology/tech-stack/#chorus) Our team's history of call and demo recordings is a valuable training resource for new and existing sales team members.
 - [Sales & SDR Enablement Sessions](/handbook/sales/training/sales-enablement-sessions/) Weekly training sessions covering popular product, market and sales training topics chosen by the sales and marketing team members.
 - [Product Study Guide](/handbook/marketing/strategic-marketing/tiers/) A study course for team members to understand the current full scope of capabilities offered in each tier of GitLab and reasons for tier upgrades.
 - [Sales Training](/handbook/sales/training/) page
@@ -484,7 +484,7 @@ Detailed instructions on how to handle problems with licenses and subscriptions 
 
 ### Quotes | Sales Order Processing
 
-More information about [sales order processing](/handbook/business-ops/order-processing/) can be found in the Business Ops handbook section.
+More information about [sales order processing](/handbook/sales/field-operations/order-processing/) can be found in the Business Ops handbook section.
 
 ## Mid Market Account Executive
 

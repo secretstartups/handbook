@@ -27,14 +27,14 @@ This page outlines the Quote to Cash process. Topics include account and opportu
 
 *   **Frequently Used Handbook Pages**
 
-    *   [Sales Order Processing](/handbook/business-ops/order-processing/)
+    *   [Sales Order Processing](/handbook/sales/field-operations/order-processing/)
     *   [How to Work with Legal](/handbook/legal/customer-negotiations/)
     *   [Deal Desk Opportunity Approval Process](/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking)
     *   [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy) 
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
     *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
     *   [ARR Calculation Guide](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
-    *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
+    *   [Vendor Setup Form Process](/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)
     *   [Troubleshooting: True Ups, Licenses + EULAS](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions)
     *   [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/)
@@ -124,7 +124,7 @@ Please provide as much detail as possible, including links to relevant records, 
 
 #### What quotes can Deal Desk assist me with?
 
-Deal Desk will review any quote to ensure accuracy and completion. **[Standard Quotes](/handbook/business-ops/order-processing/#what-are-the-standard-quote-types) are expected to be created and managed by the opportunity owner or ISR.**
+Deal Desk will review any quote to ensure accuracy and completion. **[Standard Quotes](/handbook/sales/field-operations/order-processing/) are expected to be created and managed by the opportunity owner or ISR.**
 
 For **Non-Standard/Complex Quote requests**, the Deal Desk team will assist the opportunity owner in creating the quote correctly. Some examples of these complex scenarios include:
 
@@ -300,9 +300,9 @@ Within the Customer Opportunity:
 * The Sales Team member is responsible for completing such forms by following the below steps:
 1. Complete as much of the form as possible. Much of this information is publicly available in the GitLab handbook. Helpful information can be found on the [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) page and on the final page of any direct order form generated via a Zuora quote;
 1. Engage deal desk (via chatter in SFDC) only for any information that is not available in the GitLab handbook. The Deal Desk team can help point you to the relevant handbook information or team who can assist with the question, but please note that it is the sales rep's responsibility to populate and manage these forms from end to end.
-1. With respect to any legal terms or questions, [open a legal case](/handbook/business-ops/order-processing/#contact-legal) for review and approval;
+1. With respect to any legal terms or questions, [open a legal case](/handbook/sales/field-operations/order-processing/#contact-legal) for review and approval;
 Note: GitLab will not agree to any additional terms in a Vendor Setup Form. The parties will have all the applicable terms related to the products and services we offer in, (a) the Order Form agreed to between the parties, and/or (b) a definitive agreement that is executed by GitLab and the prospect/customer.
-1. Vendor Setup Forms that require signature must follow the standard Signature Process (See [Obtain Signature](/handbook/business-ops/order-processing/#obtain-signatures) process below).
+1. Vendor Setup Forms that require signature must follow the standard Signature Process (See [Obtain Signature](/handbook/sales/field-operations/order-processing/) process below).
 Note: Sales Team Members are **NOT** authorized to sign any document, contract and/or Agreement.
 
 #### How to Obtain Signatures for any external Contract or Agreement (including Vendor Forms)
@@ -419,7 +419,7 @@ Within the Customer Opportunity:
   * The Sales Team member will be alerted (via SFDC Chatter) to the Agreement being updated and ready to be sent to customer
 1. If another round of edits are necessary, the Sales Team member will attach the Customer provided red-lines and tag (via SFDC Chatter) the Contract Manager / Legal Member assigned
 1. The same steps will repeat until an executable version is reached. At which point, the Contract Request Case will be closed.  
-1. The Sales Team Member will follow the steps found at ["Obtain Signatures"](/handbook/business-ops/order-processing/#how-to-obtain-signatures-for-any-external-contract-or-agreement-including-vendor-forms) and attach the fully executed version to the Customer Account.
+1. The Sales Team Member will follow the steps found at ["Obtain Signatures"](/handbook/sales/field-operations/order-processing/#how-to-obtain-signatures-for-any-external-contract-or-agreement-including-vendor-forms) and attach the fully executed version to the Customer Account.
 NOTE: The above process may be used to also engage Contract Managers / Legal Members to add non-standard language to Order Forms
 1. **NOTE:** If not Opportunity exists yet, please create a $0 to open the Legal Request. 
 
@@ -563,13 +563,13 @@ Under the [**GitLab Partner Program**](/handbook/resellers/#gitlab-partner-progr
 
 **Only GitLab-authorized partners who have completed one sales certification may transact a GitLab order.**
 
-**Quote Approvals:** The Quote Approval module identifies channel deals (subscription deals only) and manages the necessary approvals automatically. **To request approval on a quote, follow the steps above: [Standard Quote Approval](/handbook/business-ops/order-processing/#standard-quote-approval)**
+**Quote Approvals:** The Quote Approval module identifies channel deals (subscription deals only) and manages the necessary approvals automatically. **To request approval on a quote, follow the steps above: [Standard Quote Approval](/handbook/sales/field-operations/order-processing/#standard-quote-approval)**
 
 **Channel Approvers:** More information regarding regional Channel Approvers can be found [here](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#channel-approvals).
 
 In the event that you require escalation for an approval request, please [reach out to Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). Deal Desk will override the approvals as applicable or help seek approvals from necessary parties.
 
-The quote approval module and approval workflow outlined above **does not apply to Public Sector opportunities**. For more information on opportunity requirements for Public Sector, check out the [Public Sector Opportunity requirements](/handbook/business-ops/order-processing/#second-review-all-requirements-for-each-type-of-sale).
+The quote approval module and approval workflow outlined above **does not apply to Public Sector opportunities**. For more information on opportunity requirements for Public Sector, check out the [Public Sector Opportunity requirements](/handbook/sales/field-operations/order-processing/).
 
 ### Where do I find the partner's contractual discount?
 
@@ -725,7 +725,7 @@ If a quote has a <span style="color:green">**green circle**</span> at the top of
 
 #### How to Generate an Order Form as a PDF
 
-1. Once a [quote has been approved](/handbook/business-ops/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), review the Quote Template to ensure you have selected the correct form for the transaction. The default template for all transaction types (new, amendment, or renewals) will be the Standard Order Form. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
+1. Once a [quote has been approved](/handbook/sales/field-operations/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), review the Quote Template to ensure you have selected the correct form for the transaction. The default template for all transaction types (new, amendment, or renewals) will be the Standard Order Form. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
 1. On the quote, click `Generate PDF Doc`. The document will be saved as an attachment in the Notes and Attachments section in the opportunity record. 
 1. Pre-approved Legal Language can be added to some order forms through Toggle Field selections available on the quote object. To edit these fields, Click "Edit Quote Details". 
 1. Non-standard Legal Language needs to be reviewed, approved, and added manually by Legal. Please open a Legal Request case if non-standard contract terms need to be to include on your Order Form.
@@ -1256,7 +1256,7 @@ Note: If an exception is granted and the PO is not received within 10 days, on t
 
 ### Opportunity Approval Process
 
-When you have reviewed [all opportunity requirements](/handbook/business-ops/order-processing/#my-customer-signed-the-order-form-now-what) and have met all necessary booking requirements, please submit the opportunity for approval.
+When you have reviewed [all opportunity requirements](/handbook/sales/field-operations/order-processing/) and have met all necessary booking requirements, please submit the opportunity for approval.
 
 1.  **To submit the opportunity for approval and closure, the Sales Rep should set the opportunity stage to 6-Awaiting Signature and afterwards click on the “Submit for Approval” button on the opportunity level.**
     *  The opportunity page will then display “edit” mode. Click Save.

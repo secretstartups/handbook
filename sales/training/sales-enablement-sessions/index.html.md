@@ -180,7 +180,7 @@ There are a few places to see previous Sales Enablement sessions:
 - [GitLab CI/CD for GitHub FAQ](/handbook/marketing/strategic-marketing/enablement/github-ci-cd-faq/)
 - [Cloud Native Ecosystem](/handbook/marketing/strategic-marketing/enablement/cloud-native-ecosystem/)
 - [Enterprise IT Roles](/handbook/marketing/strategic-marketing/enterprise-it-roles/)
-- [How to set up Chorus.ai call recording](/handbook/business-ops/tech-stack/#chorus)
+- [How to set up Chorus.ai call recording](/handbook/business-technology/tech-stack/#chorus)
 - [GitLab Serverless FAQ](/handbook/marketing/strategic-marketing/enablement/serverless-faq/)
 - [GitLab.com Subscriptions](/handbook/marketing/strategic-marketing/enablement/dotcom-subscriptions/)
 - [Services to Accelerate Customer Adoption](/handbook/customer-success/professional-services-engineering/sales-enablement)

@@ -227,7 +227,7 @@ _Finalize the agreement, pricing, business, and legal terms._
 
 - Under $50K: SA and AE can begin preparing the contacts to receive [digital onboarding](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#digital-customer-programs) emails upon closing of a deal
 - Agreement on business terms (All proposals should include the standard [GitLab Terms](https://about.gitlab.com/terms/#subscription/))
-- If the Account is seeking to use their own paper, requests will only be entertained if the opportunity is greater than $100k, and the request should be sent to Legal by creating a Legal case in SalesForce, following the process found [here](https://about.gitlab.com/handbook/business-ops/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template).
+- If the Account is seeking to use their own paper, requests will only be entertained if the opportunity is greater than $100k, and the request should be sent to Legal by creating a Legal case in SalesForce, following the process found [here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template).
 - Determine if customer will be referenceable when the opportunity closes
 - Price/ Final terms negotiations
 - Leverage partner to help close deal or support them in closing a Partner Sourced deal

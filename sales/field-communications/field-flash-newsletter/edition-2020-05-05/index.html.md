@@ -57,7 +57,7 @@ ABM campaigns are now being launched on an ongoing basis. **Accounts that are in
 ----
 Due to the new requirement of passwords in Zoom meetings, Chorus is unable to join calls unless certain updates to Zoom settings have been made.
 
-Follow the [quick instructions](/handbook/business-ops/tech-stack/#chorus) in the Handbook.
+Follow the [quick instructions](/handbook/business-technology/tech-stack/#chorus) in the Handbook.
 
 ----
 A new **Partner Information section has been added to all opportunities in SFDC to ensure proper tracking** for all channel opportunities. If you are working a deal with a GTM route of Channel, ensure this section properly reflects the partners involved in the deal. In the case of a Partner Initiated Opportunity from the partner portal, these sections should already be populated, but please double check before closing your deal.

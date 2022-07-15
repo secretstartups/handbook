@@ -103,7 +103,7 @@ Customer success planning should be broken into three categories based off the p
 ### Tools
 
 - [Bambu](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/social-advocacy-curators/#topics-in-bambu) - Used for [Social Advocacy](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/social-advocacy-curators/#what-is-social-advocacy)
-- [Chorus](/handbook/business-ops/tech-stack/#chorus) - Call/Demo Recording
+- [Chorus](/handbook/business-technology/tech-stack/#chorus) - Call/Demo Recording
 - [Clari](/handbook/sales/forecasting/) - Forecasting
 - [CustomersDot Admin](https://customers.gitlab.com/admin/) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
 - [LinkedIn Sales Navigator](https://docs.google.com/document/d/1UF69ieck4AdHadzgPmZ5X1GBs3085JhlYaMowLj0AOg/edit) - Social Selling

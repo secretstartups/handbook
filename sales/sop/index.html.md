@@ -10,4 +10,4 @@ noindex: true
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page has been deprecated and moved to [Business Operations](/handbook/business-ops/order-processing/)
+This page has been deprecated and moved to [Business Operations](/handbook/sales/field-operations/order-processing/)

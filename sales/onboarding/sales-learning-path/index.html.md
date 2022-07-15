@@ -216,7 +216,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -[Introduction to GitLab Workflow](https://docs.gitlab.com/ee/topics/gitlab_flow.html)
    -[Description Templates](https://gitlab.com/help/user/project/description_templates)
 *  **GitLab Tech Stack Details (Material - Handbook - 10 Minutes)**
-   - Take a look to understand all the [tools that GitLab uses](/handbook/business-ops/tech-stack/) to keep the business running smoothly.
+   - Take a look to understand all the [tools that GitLab uses](/handbook/business-technology/tech-stack/) to keep the business running smoothly.
 *  **ACTIVITY: You've Got Issues! (Assignment - 20 Minutes - 10 Points - Pre Work)**
    - Please find the [Sales Enablement Sandbox](https://gitlab.com/gitlab-com/sales-team/sales-enablement-sandbox) Project, and read the handbook page ["No Tissues with Issues"](/handbook/marketing/strategic-marketing/getting-started/101/). Create an issue with a label, due date, weight, and assign it to yourself. Submit the link to your issue to complete this assignment. Also take a look at the [Markdown syntax guide](https://www.markdownguide.org/basic-syntax/) to learn more about how to code using Markdown. This will be very helpful as you create issues and merge requests.
 *  **ACTIVITY: Practice Searching Issues and Filtering Labels (Assignment - 10 minutes - 10 points)**
@@ -224,7 +224,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Update Your LinkedIn Profile! (Assignment - 30 Minutes - 10 Points - Pre Work)**
    - Check out the [slide deck](https://drive.google.com/open?id=1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A&authuser=0) on creating a great profile that will look good to your prospects and clients!
 *  **Salesforce - Booking Orders (Material - Handbook - 10 Minutes)**
-   - [Learn how to create](/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) Accounts, Contacts, Opportunities, and [Quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) in Salesforce.
+   - [Learn how to create](/handbook/sales/field-operations/order-processing/) Accounts, Contacts, Opportunities, and [Quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) in Salesforce.
 *  **Reference Edge (Material - Video - 10 Minutes)**
    - Reference Edge Software will help reps to easily see what available references are the best fit for their current opportunity. Check out the [video](/handbook/sales/training/#functional-skills--processes), and [Powerpoint](https://docs.google.com/presentation/d/18odHX0PTzifRJaeAr-yxa9jdg1_nw4RYDiBqAkYFAyM/edit?usp=sharing) on this new tool.
 
@@ -237,7 +237,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **The Product Teams (Material - Handbook - 60 minutes)**
    -Review the Product Stages Handbook page to see who you should reach out if you have questions or need assistance with a [particular product.](/handbook/product/categories/)
 *  **The GitLab Legal Team (Material - Handbook - 10 Minutes)**
-   - Familiarize yourself with submitting Contract Requests for Legal/Contract assistance. [Presentation](https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0), [Video](https://www.youtube.com/watch?v=CIWdsqRX7E0&amp=&feature=youtu.be) and [Handbook Page](/handbook/business-ops/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
+   - Familiarize yourself with submitting Contract Requests for Legal/Contract assistance. [Presentation](https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0), [Video](https://www.youtube.com/watch?v=CIWdsqRX7E0&amp=&feature=youtu.be) and [Handbook Page](/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
    - You can reach out to the [Legal Team](/handbook/legal/) on the #legal Slack chat channel. The legal Slack chat channel is reserved for everyday legal questions. If you are making a request that requires some sort of deliverable, please do not use the legal Slack chat channel. Slack is reserved for immediate, informal communications. Also, please do not share confidential information on Slack that is not meant for the entire company to see, and do not use it to seek legal advice. You can email the legal team at legal@gitlab.com.
 *  **Support for GitLab Team Members (Material - Handbook - 10 Minutes)**
    - [GitLab Support](/handbook/support/internal-support/#what-does-the-support-team-do) provides technical support to our Self-managed and GitLab.com customers for the GitLab product. We are not internal IT Support, so we probably can't help you with your MacBook, 1Password or similar issues.
