@@ -1320,7 +1320,8 @@ Specifically:
 1. Add an OOO for your email 
 1. Turn on [Google Calendar's "out of office" setting](https://support.google.com/calendar/answer/7638168?hl=en) (scroll down to "Show when you’re out of office") to create an out of office event that will automatically decline new and existing meetings for you.
 1. Add an OOO to your Slack profile 
-1. Ad an OOO to your GitLab profile and mark yourself as `busy` 
+1. Ad an OOO to your GitLab profile and mark yourself as `busy`
+1. If you are a manager of people, please [assign a delegate in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-add-a-delegate-in-coupa) so you will not hold approvals while you're enjoying your time off. 
 
 # Field Marketing MR process
 
