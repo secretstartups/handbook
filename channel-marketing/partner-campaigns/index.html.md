@@ -225,8 +225,8 @@ These campaigns follow their own processes not found on the campaigns-and-progra
 If you included the Allocadia ID, follow these steps. Otherwise, you'll need to update additional fields below.
 - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
 - `Budgeted Cost` in SFDC pulls from your plan number, not your forecast number from Allocadia. If you do not have a plan cost in Allocadia then `Budgeted Cost` in SFDC will remain blank. If this is the case, you will want to add in your `Budgeted Cost` manually into your SFDC campaign.
+- Once Allocadia has updated the SFDC campaign, you will need to double check `Campaign Type` and make sure it still says `Partner - MDF`. If it does not, please update the field.
 
-For more information on Allocadia, go (here - tbd)
 
 #### Step 4b: Update without Allocadia
 If you did not include the Allocadia ID in the description, you'll need to update the steps below:
