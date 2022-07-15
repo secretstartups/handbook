@@ -17,7 +17,7 @@ The IT Operations System Administrator is a [grade 6](/handbook/total-rewards/co
 * Build API Integrations from the HRIS to third party systems and GitLab.com
 * Triage all IT related questions as they arise
 * Build and maintain cross-functional relationships with internal teams to champion initiatives
-* Spearhead onboarding and offboarding automation efforts with a variety of custom API integrations, including GitLab.com and third-party resources, not limited to our [tech-stack](https://about.gitlab.com/handbook/business-ops/tech-stack/), with scalability in mind
+* Spearhead onboarding and offboarding automation efforts with a variety of custom API integrations, including GitLab.com and third-party resources, not limited to our [tech-stack](https://about.gitlab.com/handbook/business-technology/tech-stack/), with scalability in mind
 
 ### Requirements
 
