@@ -96,6 +96,7 @@ Just because something is available for free on the internet (including on Googl
 
 
 * Use images depicting people (including GitLab team members), unless a release for use of their likeness is in place.
+* Use images where event attendee name badges are visible, as we should avoid identifying people by name. For example, blur the name badge, where possible, or delete the photo.
 * Use images depicting children.
 * Use images which prominently feature a logo, famous building or structure, or well-known person.
 
