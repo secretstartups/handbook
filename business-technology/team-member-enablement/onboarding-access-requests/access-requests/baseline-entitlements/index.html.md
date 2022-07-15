@@ -194,6 +194,7 @@ All existing role based entitlement templates can be found in [this list](https:
 1. Paste at the bottom the contents you copied in the second step and remove the section that says: `<!-- include: role_tasks -->`
 1. Fill out the personal details information in the template.
 1. Submit the issue and make sure to add the issue to the new team member epic which should have been created during onboarding
+1. Be sure to assign the issue to the provisioners
 
 ## Instructions for Role Based Entitlement review
 1. Once the Team Member Enablement team is mentioned in a role based entitlement for review, the first step is to make sure the role is added to the right folder. All Role Based Entitlements should be added to the path `.gitlab/issue_templates/role_baseline_access_request_tasks/` under the correct department for the role. Example: `.gitlab/issue_templates/role_baseline_access_request_tasks/department_people_success/role_people_group_fullstack_engineer.md` this is the path for the Role: `People Group Fullstack Engineer`, `Department: People Success`.
