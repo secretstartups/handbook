@@ -131,32 +131,13 @@ If the lead is not meant to be passed to the partner, leave that field blank.
 
 ### Campaign Templates - Info for Post-MktgOps Hand-off
 
-At time of upload, a campaign should already exist in `Marketo` under the naming convention `YYYYMMDD_Event_Name`. Campaigns are to be created by the campaign's assigned `Marketing Program Manager` by copying a premade template in `Marketo`. MktgOps may need to assist in creating campaigns if the campaign type is brand new, specifically for `MQL scoring` reasons. As of September 2020, the following templates exist:
-- [Conference](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5100A1)
-     - [Conference Speaking Session](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5092A1)
-- Direct Mail
-     - [Direct Mail](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5392A1)
-- [Field Event](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5083A1)
-- [Content Marketing](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5111A1)
-- [Content Syndication](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5149A1)
-- [Pathfactory Asset](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG3875A1)
-- [Owned Events](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME4722A1)
-- [Survey](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6402A1)
-- Virtual Events Folder
-     - [Executive Roundtable](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6028A1)
-     - [Livestream](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME2919A1)
-     - [Webcast by Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5512A1)
-     - [Workshops folder](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF5975A1)
-     - [Self-service Events](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5143A1)
-     - [Virtual Conference](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5121A1)
-     - [Sponsored Webcasts](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5523A1)
-     - [Vendor Arranged Meetings](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5698A1)
+At time of upload, a campaign should already exist in `Marketo` . Campaigns are to be created by the campaign owner. For a running list of campaign templates, go [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#how-to-clone-the-marketo-program).
 
 ### Upload Process
 
 In order to assure proper attribution of `MQL Scoring` and `Last Interesting Moments`, perform the following checks before any uploads occur:
-- If a campaign does not exist, tag the `MPM` and or `Campaign Owner` on the `campaign epic` or `upload issue` to ask for campaign creation
-- Check the MPM has filled in the campaign's `tokens`, which are found under the `My Tokens` tab in the main campaign  
+- If a campaign does not exist, tag the `Campaign Owner` on the `campaign epic` or `upload issue` to ask for campaign creation
+- Check that the campaign's `tokens` are filled in, which are found under the `My Tokens` tab in the main campaign  
      - `Tokens` are used via `Smart Campaigns` to apply `Last Interesting Moments` to all leads whom appear in the campaign. The minimum `tokens` that should be used relate to the campaign's `Event Name`, `Event Date` and `Landing Page URL`. Without these filled out, `Last Interesting Moments` will fill in permanently `blank`
 - Review the components of the campaign. The needed components include:
      - `Static List(s)` in which to load lead list(s). The `static list(s)` should be renamed to resemble the program name. Depending on the campaign template, there may be more than one `static list` available. Some templates have been automated in a way that will fully launch relevant `Smart Campaigns` to append all relevant data, including `Campaign Member Statuses` and other important fields
@@ -176,7 +157,7 @@ In order to assure proper attribution of `MQL Scoring` and `Last Interesting Mom
 1. After all steps of the needed `Smart Campaigns` have ran, including the often automated `Program Status: Registered -> No Show`, turn off the activated `Smart Campaigns` by "unscheduling" them
 1. Check the `Loading Errors` smart list for any potential lead loading errors. 
      - Check the `Person Details` on any leads that show up on the smart list and correct the error. If Marketo indicates a `duplicate`, change the name on the lead by adding random but easily identifiable characters to the last name and manually force the lead to sync with SFDC. Find the lead in SFDC and merge it with the pre-existing duplicate. If there is a differing `email address` between the records, add the new `email address` as a secondary email. Add to SFDC campaign with the appropriate `Campaign Member Status`, if necessary
-1. Once the Marketo --> Salesforce sync has completed, use the [Upload checking template - do not erase](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004tTvd) lead view to check data has been applied correctly, scoring has occurred and leads have routed. Note that routing will only occur if the adequate `MQL Score` has been met. Plug the `campaign tag`, or Marketo program name, into the lead view's `campaign name` field to view leads as a list
+1. Once the Marketo --> Salesforce sync has completed, use the [Upload checking template - do not erase](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004tTvd) lead view to check data has been applied correctly, scoring has occurred and leads have routed.  Plug the `campaign tag`, or Marketo program name, into the lead view's `campaign name` field to view leads as a list
 1. Ensure the number of leads present in the Salesforce campaign matches the total number of leads from the original spreadsheet
 1. Announce the upload in either the `event_list_upload` or `pub-sector-isr` Slack channels, depending on the campaign's intended `Sub-Region`. Include `Region` labels for private sector posts 
 1. After verified completion of all tasks, remove ~"List Upload: Ready" label and notify in the issue of upload completion. Adjust the "MktgOps" label and apply a milestone
@@ -190,7 +171,6 @@ In the event that a manual upload needs to occur for operational needs:
      - If creating a new program, select the correct `Channel` for the task. For most non-event uploads, `Operational` should work
 - Some notable `Operational` programs already in place are listed below with links. This section will be updated on a needed basis:
      - [Opt-Outs](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF6347A1)
-     - [Purchased Lists](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF4686A1)
 
 <!--### Operations Upload Instructions 
 
@@ -295,79 +275,6 @@ The Alliance list import follows the same guidelines as above
           * Correct ownership assignment in LeanData
           * Suppression of records in general Marketing communication
 
-
-<!-- ##### Acceleration Team Monthly Import
-
-The Acceleration Team has list import requests every month for their target patches. They presently are using a modified version of the Ad Hoc import template. 
-
-**Key Differences**
-- SLA of 5 business days *does not* apply to the monthly imports as there are multiple lists per issue & multiple issues per month
-- Lists are raw data dumps from DiscoverOrg & not cleaned up 
-
-In Marketo & SFDC there are two programs/campaigns set up to handle these imports. If you are coordinating efforts with another Ops team member be sure to clarify who is using which program/campaign to avoid commingling of records.
-
-Please **do not** make any changes to the programs, campaigns or related workflows without talking to MktgOps first. 
-
-##### Acceleration Upload - Ops 1
-{:.no_toc}
-
-* [Marketo Program](https://page.gitlab.com/#PG3938A1)
-* [Salesforce Campaign](https://gitlab.my.salesforce.com/7014M000001lnDr)
-* [CONTACT view](https://gitlab.my.salesforce.com/003?fcf=00B4M000004oVs8)
-* [LEAD view](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004oVvM)
-
-##### Acceleration Upload - Ops 2
-{:.no_toc}
-
-* [Marketo Program](https://page.gitlab.com/#PG4142A1)
-* [Salesforce Campaign](https://gitlab.my.salesforce.com/7014M000001loEg)
-* [CONTACT view](https://gitlab.my.salesforce.com/003?fcf=00B4M000004oXqs)
-* [LEAD view](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004oXqn)
-
-##### Process
-{:.no_toc}
-
-1. Verify that you have `Edit` access to all of the GSheets shared by the Acceleration team, if not ping the Sheet owner in the issue and request.
-1. Clean up list to remove any columns not needed, update [`Field Names`](https://docs.google.com/spreadsheets/d/1dkh715tPngbY29PZis02dNPNd_Uc-xGbfV7LghsKWqE/edit?usp=sharing) to Marketo compatible values. 
-     - Sort list by `Email Address` -> remove any lines without `Email Address` provided (we do not upload any record w/o `Email Address` it is our unique identifier across all systems)
-     - Sort list by `Phone` -> check to ensure all values are correct format (plain text, XXX-XXX-XXXX or (XXX) XXX-XXXX), if there is an extension it should be obvious its an extension with either an `x` or `ext.` 
-     - Sort list by `Country` -> if `Country` **does not** equal `United States` or `Canada` remove the value in `State`
-     - Sort list by `Billing Country` -> if `Billing Country` **does not** equal `United States` or `Canada` remove the value in `Billing State` 
-     - Update `State` and `Billing State` values to be full name not abbreviation
-     - Select all -> **Data** Remove duplicates -> check "Data has header row" -> only select `Email Address` field as the duplicate value to analyze
-1. Once list is clean in GSheet download as csv
-1. **IMPORTANT** make sure both the SFDC & Marketo list are entirely empty & program has **NO** members *before* starting import. 
-1. In **Marketo**, update the Smart Campaign - Flow Step 6 `Sync Person to SFDC`. **Assign to** needs to match the list owner as the campaign will trigger as soon as the list is uploaded.   
-1. Click on the List in `List Actions` menu click **Import List**
-1. In the lightbox that appears: 
-     - Select `Browse:` and choose the csv list you just downloaded
-     - Leave all other dropdowns with default values
-     - Select `Next`
-     - Review the `Marketo Field` matches
-          - If there are any `--IGNORE--` use drop down to update selecting correct field, unless they are intentionally skipped
-     - Select `Next`
-     - `Aquisition Program` = `Acceleration Upload - Ops 1` or `Acceleration Upload - Ops 2` (we do not use Marketo Revenue Modeler but please fill in for accuracy)
-     - Select `Import`
-1. **Marketo** import will be running and associated Smart Campaign will immediately trigger. 
-1. Wait for the sync between Marketo<>SFDC to finished processing list
-1. In **SFDC**, the `Responses in Campaign` should MATCH the number of records uploaded into Marketo
-1. Use the `Acceleration Upload` LEAD and CONTACT views to verify:
-     - `Owner` matches the Acceleration SDR owning the list
-     - `Person Source` value is not blank &/or is set to `DiscoverOrg`
-     - `Status` equals `Raw` if net new record
-1. From **SFDC** you will **Import to Outreach**
-     - Select all records in **SFDC**
-     - Click `Import to Outreach` button
-     - **Outreach Everywhere** window will open - may ask to import records click "import" -> if errors see troubleshooting section
-     - Select all records in **Outreach Everywhere**, if more than 50 you will need to click link to "apply to all" 
-     - Click the `...` and select `Add tag` - first import you will need to paste requested tag from issue; all subsequent imports you can select the tag
-     - Close window when done
-1. Repeat above step for all records in both views 
-1. Navigate to new tab with **Outreach** open
-1. Click to `Prospects` and clear all default filters
-1. In left side menu, navigate to `Tags` and select the appropriate tag for that list
-1. Copy the **Outreach** URL and paste into the List Import issue.  
-1. Repeat steps above for each list in the issue. -->
 
 ### Trusted vs Non-Trusted Imports
 In Marketo there is a an option to choose trusted or non-trusted sources. Non-trusted sources are for list uploads that we are not confident in the data points given to us. For example, if we are loading a list with inferred country data from IP, we do not want it to overwrite our current location data that is more accurate. Blocking updates allows for a field to be updated if blank, but will not overwrite a field that already has a value.
