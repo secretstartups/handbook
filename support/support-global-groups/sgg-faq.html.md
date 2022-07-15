@@ -204,7 +204,7 @@ whether we're successful in meeting our SLA and other goals.
    - Managers are available to work with any group that reaches out with
      questions, concerns, requests for guidance, requests for help, etc.
    - Managers are encouraged to stay aware of group activity by watching the
-     group Slack channels
+     group Slack channels.
    - Managers work primarily with their own team members to understand
      challenges and growth opportunities, to provide coaching and guidance, etc.
 
@@ -245,7 +245,7 @@ whether we're successful in meeting our SLA and other goals.
 
    We encourage groups to reach out for help when they are struggling with
    anything, including self-organization. They can ask one or more particular
-   managers if they wish, or simply ask for help in the `#spt_managers` channel.
+   managers if they wish, or simply ask for help in the `#spt_gg_forest` channel.
    A group might also know that some other group has been more successful, and
    reach out to them for help.
 
