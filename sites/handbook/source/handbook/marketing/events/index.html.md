@@ -692,24 +692,49 @@ GitLab's Community Relations team reviews and manages our community events (typi
 - For events where a field marketing representative cannot be present, the FMM DRI will assign an onsite lead. The DRI will be responsible for coordinating with this person and providing them with any info they will need to help run the event in their absence. This person will be the venue point of contact as well as responsible for set up and tear down.
 - FOR EMEA: We must ensure we are gathering GDPR compliant leads - Lead devices scanning follow up needs to be in event T&C. If GDPR is not in the T&C, we are not allowed to follow up on the leads. Scanning a lead is not automatically GDPR compliant if visitors have not agreed to it.
 
-### AMER Field Marketing QR Codes for Events
+### Field Marketing QR Codes for Events
 
-A QR code with a general GitLab PathFactory track and a QR code with a general PubSec PathFactory track are available for use. FMMs/DRIs can follow the links below to print and display at events. Table-top signs to display the QR codes are available in Nadel - search for `Tabletop Display`.
+Field Marketing utilizes the [QR Code Generator](https://login.qr-code-generator.com/) so that FMMs can follow the instructions below to print and display QR codes at events for raffles, contact info collection, etc. In AMER, tabletop signs to display the QR codes are available in the [Boundless portal](/handbook/marketing/field-marketing/#boundless-portal) under the `Event Assets` section.
 
-- [General track QR code](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/uploads/4e60a958192f8d3e336d1d963bfbe551/General-Track-Qr-Sign.pdf)
-- [PubSec track QR code](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/uploads/3538c3694620b1d8c1a4e3ec99427b00/gitlab-pubsec-events-path-factory-qr-code-8_5x11in.pdf)
-
-Field Marketing is able to create additional QR code signs using a template by following instructions [here](https://docs.google.com/presentation/d/1H36fbkRxyPLMWJ5xqKge4yINJQlUsKZ0tuGujCf7-fA/edit?usp=sharing). Please be sure to make a copy of the file rather than editing directly.
-
-If this template does not meet your needs, additional designs may be requested by opening an issue in the corporate marketing [repo](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/). Be sure to include:
-
-- what the sign is for
-- verbiage for the sign
-- URL to attach to the QR code
-- whether or not the URL needs tracking
-  - If YES and the QR code is for a specific event, pull the existing UTM from the related event epic and attach to the end of the URL that needs tracking
-
-Design will then create and provide a PDF for the FMM/FMC to print on their own for the event.
+#### Steps to Generating a QR Code
+For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
+1. Make a copy fo the GitLab branded [Google Form](https://forms.gle/3F5hAEVHSJcLQimMA). *Ensure you are logged into your GitLab Google account in order to access the form.* 
+1. Proceed to fill in all required information including: 
+    * Event title
+    * Event description (optional)
+1. Proceed to fill in all required information you'd like to collect from participants, such as:
+    * First Name
+    * Last Name
+    * Email Address
+    * Phone Number
+    * Title
+    * Company
+    * Etc. 
+1. Integrate your Google Form with your planning spreadsheet 
+    * With an established Planning Spreadsheet for your event (preferred method)
+      * Navigate to the `responses` tab of your Google form
+      * Select the 3-button stop sign icon
+      * Click `Select response destination`
+      * Click `Select existing spreadsheet`
+      * Choose the established Planning Spreadsheet from your Google Drive 
+      * Select `Ok`
+      * Now the established Planning Spreadsheet will be linked to your Google form
+    * Without an established Planning Spreadsheet
+      * Navigate to the `responses` tab of your Google form
+      * Select the 3-button stop sign icon
+      * Select `Create a new spreadsheet` and title the spreadsheet
+      * Click `Create`
+      * Now the newly created spreadsheet will be linked to your Google form
+1. Create your QR Code and link your Google Form
+    * Navigate to the [QR Code Generator](https://login.qr-code-generator.com/) website and log in using the password found in the Marketing 1Pass
+    * In the upper right-hand corner of the screen select `Create QR Code` 
+    * Select your QR Code `Type`
+    * Click `Next` at the bottom of the page
+    * Name your QR Code and paste in the link to your Google form 
+      * The link to your Google form can be found by navigating to your Google form, selecting `Send` in the upper right-hand corner, then selecting the link icon, and copying the link address (you do not need to shorten the link) 
+    * Click `Next` at the bottom of the page
+    * Download your QR Code to add to any designated marketing content or print your QR code to be displayed at an event
+      * Optional: Design your QR Code by frame type, QR Code design, code color, or logo
 
 ### AMER Field Marketing Badge and Event Check-In Process
 
