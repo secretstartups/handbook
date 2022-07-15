@@ -181,7 +181,6 @@ Our goal on the site is to maintain our profile and keep the feedback up to date
 #### Other employer sites
 
 - [Builtin](https://builtin.com/company/gitlab)
-- [RemoteHub](https://remotehub.io/gitlab)
 - [Indeed](https://www.indeed.com/cmp/Gitlab-Inc/about)
 - [AngelList](https://angel.co/company/gitlab/)
 - [RemoteFit](https://www.remotefit.io/c/gitlab)
