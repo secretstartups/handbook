@@ -136,7 +136,7 @@ Use the [product sections](https://about.gitlab.com/handbook/product/categories/
 
 ## Rotation Scheduling
 
-**Important**: Sign-ups of weekdays and weekends are required as a backup while using Pagerslack as the primary scheduling and entry for weekday escalations.
+**Important**: Sign-ups of weekends/holidays are required as a backup while using Pagerslack as the primary escalation tool. 
 
 ### Guidelines
 
@@ -168,10 +168,11 @@ Use the [product sections](https://about.gitlab.com/handbook/product/categories/
    * No engineer should take more than 12 shifts (48 hours) per week, with 10
      shifts (40 hours) being the usual maximum.
 
-   Most on-call shifts will take place within an engineer's normal working
-   hours.
 
-   Scheduling and claiming specific shifts is done on the oncall spreadsheet(internal only). More on that below.
+   Scheduling and claiming specific shifts is done on the oncall spreadsheet.
+
+#### On-call spreadsheet
+The on-call spreadsheet(internal only) can be found by searching [Google Drive for Infra/Dev Escalation On-Call Schedule](https://drive.google.com/drive/search?q=%22Development-Team-BE%22).  
 
 #### Eligibility
 
@@ -183,21 +184,18 @@ Use the [product sections](https://about.gitlab.com/handbook/product/categories/
      * There are countries with laws governing hours that can be worked.
      * This would not be an issue in the U.S.
      * At this point we would only be looking into countries where 1) we have legal entities, as those team members are employees or 2) countries where team members are hired as employees through one of our PEO providers. For everyone else, team members are contracted as independent contractors so general employment law would not apply.
-   * Team members participating in another on-call rotation, for example a team specific rotation for a service owned by that team.
+   * Team members participating in another on-call rotation such as Incident Management On-Call, or a team specific rotation for a service owned by that team.
 
-   The eligibility is maintained in this team members list(internal only) and the spreadsheet is refreshed monthly as below:
-   1. Extract all employees from [team.yml](/company/team/team.yml).
-   2. Identify each person's role in column C based on their profile in team.yml, specifically their `role` and/or `departments`.
-   3. Filter column C by displaying `Backend/Distribution/Fullstack` engineers only.
+   The eligibility is maintained in this [team members list(internal only)(https://drive.google.com/drive/search?q=%22Development-Team-BE%22)] and the spreadsheet is refreshed automatically by our [automation script](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/blob/main/lib/syncing/on_call_scheduling_spreadsheet.rb). 
 
 #### Nomination
 
-   Engineers normally claim shifts themselves on this oncall spreadsheet(internal only).
+   Engineers should claim shifts themselves on the oncall spreadsheet.
    To ensure we get 100% coverage, the schedule is fixed one month in advance.
-   Engineers claim shifts between two and three months in advance. When signing up, fill the cell with your **full name** as it appears in the team members list (internal only), **Slack display name**, and **phone number with country code**. This same instruction is posted on the header of schedule spreadsheet too.
+   Engineers claim shifts between two and three months in advance. When signing up, fill the cell with your **full name** as it appears in the team members list (internal only), **GitLab display name**, and **phone number with country code**. This same instruction is posted on the header of schedule spreadsheet too.
 
-   At the start of each month, engineering managers look at the schedule for
-   the following month (e.g. on the 1st March, they would be considering the
+   At the middle of each month, engineering managers look at the schedule for
+   the following month (e.g. on the 15st March, they would be considering the
    schedule for April, and engineers are claiming slots in May). If any gaps or
    uncovered shifts are identified, the EMs will **assign** those shifts to
    engineers. The assignment should take into account:
