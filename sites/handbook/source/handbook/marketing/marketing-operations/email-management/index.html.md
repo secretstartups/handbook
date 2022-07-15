@@ -89,3 +89,7 @@ The workflows in Marketo are set up and are [reflected here](https://app.mural.c
 If a lead comes in via Partners from MDF or Trial campaigns, they are marked as `Marketing Suspended` in Marketo with a reason of `Partner Lead`, and will be un-emailable until that suspension flag is lifted.
 
 If a person opts-out of GitLab email, it does not opt them our from Partner communication, and vice versa. It is the responsibility of the partner to manage their email lists. 
+
+### Requesting, Creating, and Approving New Email Templates
+
+This section is currently under construction while we develop the process.

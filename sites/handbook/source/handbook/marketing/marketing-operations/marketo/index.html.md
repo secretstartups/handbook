@@ -378,6 +378,30 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 
 <details>
 <summary markdown='span'>
+[Personas - Function](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1020A1)
+</summary>
+
+- Developer
+- DevOps
+- Security / Compliance
+- Engineering
+- Education (Student / Professor)
+- Analyst 
+- Architect
+- Database Admin
+- Project Manager
+- Sales and Marketing
+- IT 
+- HR 
+- Purchasing / Buyer 
+- Accounting / Finance 
+- C-Level (President / CEO/ COO) 
+- Default
+
+</details>
+
+<details>
+<summary markdown='span'>
 [Sales Territories](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1026A1)
 </summary>
 
