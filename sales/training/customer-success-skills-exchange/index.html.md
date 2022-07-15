@@ -30,9 +30,8 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| 2022-06-22 | ModelOps Technical Session | Taylor McCaslin | 
-| 2022-07-13 | Turning Customers into Contributors | Brendan O'Leary | 
-| 2022-07-27 | Cloud Native GitLab Stack Overflow Data Analysis | William Arias | 
+| 2022-07-27 | ModelOps Technical Session | Taylor McCaslin | 
+| Q3 | Sessions | Coming Soon
 
 ## Past Sessions
 <details>
