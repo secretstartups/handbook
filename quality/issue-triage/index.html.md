@@ -215,6 +215,7 @@ Additionally, we include UX bugs (identified with *both* the `~UX` `~"type::bug"
 Note: SUS-impacting issues are intended to have an impact on the current product experience rather than on new feature additions. An issue will have the `SUS::Impacting` label automatically applied if any of the SUS-impacting labels are used. However, there are exceptions: 
 - Issues with the combination `type::feature` and `feature::addition` indicate we are not making a change or improvement to an existing experience.
 - Issues with the `Actionable Insights::Exploration needed` label applied but the issue is not ready to be prioritized and added to the product.
+
 In these cases, you should replace the `SUS::Impacting` label with the [`SUS::Non-impacting`](https://gitlab.com/groups/gitlab-org/-/labels?subscribed=&search=sus) label and a severity label is not needed.
 
 #### UX debt
