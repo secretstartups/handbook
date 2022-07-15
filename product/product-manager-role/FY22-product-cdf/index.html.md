@@ -57,7 +57,7 @@ Below, you'll find the CDF framework and potential discussion topics for [Pricin
 
 Product Managers must be able to demonstrate a variety of skills across our CDF. We provide additional career development guidance by listing [competencies](/handbook/competencies/) for each CDF category in order of priority. We are currently  building out our Product Management competencies. Any competencies that are not yet confirmed are lower in the list and not linked to supporting materials.   We'll add more details and supporting content for each one of these as they are confirmed.
 
-### Product Roadmap Vision & Execution 
+### Product Roadmap & Product Led Growth 
 
 - [Iteration](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-iteration)
 - [Jobs to Be Done](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-jobs-to-be-done)
@@ -66,6 +66,7 @@ Product Managers must be able to demonstrate a variety of skills across our CDF.
 - [Backlog Management](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-backlog-management)
 - [KPIs and Metrics](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-kpis-and-metrics)
 - [Product Strategy](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-product-strategy)
+- [Growth, Product-led Growth, and Experimentation](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-growth-product-led-growth-and-experimentation)
 
 ### Sensing Mechanisms 
 
@@ -84,10 +85,6 @@ Product Managers must be able to demonstrate a variety of skills across our CDF.
 - [Leadership and influence](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-leadership-and-influence)
 - [Communicating to inspire, align, and activate](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-communicating-to-inspire-align-and-activate)
 - [Cross-functional team management](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-cross-functional-team-management)
-
-### Product Led Growth 
-
-- [Growth, Product-led Growth, and Experimentation](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-growth-product-led-growth-and-experimentation)
 
 #### Contributing to our PM Competencies
 
