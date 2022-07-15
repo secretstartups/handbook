@@ -86,7 +86,6 @@ To align our education and enablement with our product, each of the topics below
   - [Merge request dependencies Feature Docs](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html)
   - [Code Owners Feature Docs](https://docs.gitlab.com/ee/user/project/code_owners.html)
 - [Wiki Feature Docs](https://docs.gitlab.com/ee/user/project/wiki/)
-- [Static Site Editor Feature Docs](https://docs.gitlab.com/ee/user/project/static_site_editor/)
 - [Web IDE Feature Docs](https://docs.gitlab.com/ee/user/project/web_ide/index.html)
 - [Live Preview Feature Docs](https://docs.gitlab.com/ee/user/project/web_ide/index.html#live-preview)
 - [Snippets Feature Docs](https://docs.gitlab.com/ee/user/snippets.html)
