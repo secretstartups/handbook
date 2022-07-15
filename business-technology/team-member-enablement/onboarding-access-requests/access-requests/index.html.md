@@ -30,7 +30,7 @@ If you have any access requests related questions, please reach out to #it_help 
 
 #### Individual or Bulk Access Request
 
-_You can use this template to request access for individuals or multiple people, as long as all the people are requesting access to the same systems.  Create multiple issues using this same template if multiple people require access to different systems. When access is being requested for multiple people who report to different managers but are part of the same department or division, approval can be obtained by the manager at the highest level; that is, the Director, Vice President, or Executive of the department or division._
+_You can use [this template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) to request access for individuals or multiple people, as long as all the people are requesting access to the same systems.  Create multiple issues using this same template if multiple people require access to different systems. When access is being requested for multiple people who report to different managers but are part of the same department or division, approval can be obtained by the manager at the highest level; that is, the Director, Vice President, or Executive of the department or division._
 
 {::options parse_block_html="true" /}
 
