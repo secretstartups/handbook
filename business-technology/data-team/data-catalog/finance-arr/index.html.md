@@ -43,7 +43,7 @@ Method Three uses the more traditional bottoms-up snapshoting approach that is d
 
 ### Quick Links
 <div class="flex-row" markdown="0" style="height:80px">
-  <a href="https://app.periscopedata.com/app/gitlab/844281/Go-To-Market-Analytics-Hub-v1.0" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Go To Market Analytics Hub</a>
+  <a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Go To Market Analytics Hub</a>
   <a href="https://www.youtube.com/watch?v=F4FwRcKb95w&feature=youtu.be" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Getting started using Sisense Discovery</a>
 </div>
 <br><br><br><br><br><br><br><br><br>
