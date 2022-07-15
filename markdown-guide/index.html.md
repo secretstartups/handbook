@@ -2173,7 +2173,6 @@ is going to work, so double check your HTML output.
 _Editors Available on GitLab.com_
 
 - Web IDE
-- Static Site Editor
 - GitLab's raw code editor
 
 _Regular Code Editors_
