@@ -114,7 +114,7 @@ The following is an example for when a GitLab senior leader or executive sends t
 
 ## EBRs in Gainsight
 
-A [CTA in Gainsight](/handbook/customer-success/tam/gainsight/#ctas) that will automatically open seven months before renewal, with a due date of 45 days later to give time to schedule, prepare for and conduct the EBR. If doing a more frequent business review, please manually open a CTA, and within this CTA, open the "EBR" playbook. The CTA is where you will track the completion of tasks necessary for a successful EBR.
+A [CTA in Gainsight](/handbook/customer-success/tam/gainsight/#ctas) will automatically open seven months before renewal, with a due date of 45 days later to give time to schedule, prepare for and conduct the EBR. If doing a more frequent business review, please manually open a CTA, and within this CTA, open the "EBR" playbook. The CTA is where you will track the completion of tasks necessary for a successful EBR.
 
 If an account is newly TAM-qualifying and you receive a CTA to hold an EBR, use the snooze CTA functionality to push out the date to when you think will be good timing for an EBR.
 
