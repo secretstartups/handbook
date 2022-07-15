@@ -28,7 +28,7 @@ Do you have a question concerning the frontend for a product area? As a product 
 - Design Management - [Natalia Tepluhina](/company/team/#ntepluhina), [Tom Quirk](/company/team/#tomquirk)
 - Portfolio Management + Geo - [Kushal Pandya](/company/team/#Kushal_Pandya)
 - Web IDE - [Denys Mishunov](/company/team/#mishunov), [Paul Slaughter](/company/team/#pslaughter)
-- Static Site Editor - [Enrique Alcántara](/company/team/#ealcantara)
+- Content Editor - [Enrique Alcántara](/company/team/#ealcantara)
 - Source Editor - [Denys Mishunov](/company/team/#mishunov)
 
 Technical:
