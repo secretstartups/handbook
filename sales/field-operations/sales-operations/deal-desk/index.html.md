@@ -574,16 +574,17 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 
 ### **Non-Standard Quotes**
 
-Occasionally an opportunity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to structure the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
+Occasionally an opportunity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to structure the opportunity and provide guidance on creating the quote. Please chatter @ Sales Support on the opportunity if you need assistance with one of these scenarios! 
 
 #### Contract Reset
 
-Contract Resets are used to perform an "Early Renewal" - i.e. start a new 12 month subscription before the renewal date. They can also be used if a customer needs to change a billing date or would like to change the term length, mid term. 
+Contract Resets are used to perform an "Early Renewal" - i.e. start a new 12 month subscription before the renewal date. They can also be used if a customer needs to change a billing date or would like to change the term length, mid term. Contract reset can only be requested via the same party that originally purchased the subscription.
 
 *   Open the Renewal opportunity and click the **“New Quote”** button.
 *   Select **existing billing account.**
 *   When prompted **select “New Subscription for this Billing account,”** and select the appropriate subscription. 
     *   Note: If there are multiple billing accounts or subscriptions available, and you are unable to determine which to choose, please ask @Sales-Support via Chatter.
+    *   Note: When you open the account level, "Subscription section" there is a list of all subscriptions the customer purchased and are active and you can determine the subscriptions and billing account by opening related subscription 
 *   Fill out the necessary information on the quote per the instruction under the New Subscription Quote section above. 
     *   **Note: The Start Date should be the new subscription term’s start date, or the “Early Renewal” date.**
 *   Click Next and update the products and fees per the steps above.
@@ -592,9 +593,9 @@ Contract Resets are used to perform an "Early Renewal" - i.e. start a new 12 mon
 *   Sales team will send the order form to the customer for signature
 *   Upload the signed order form to the renewal opp and to the credit opp as well and submit both opps for approval
 
-On the main contract reset opportunity, populate the "Opportunity Category" field with "Contract Reset." On the associated credit opportunity, populate the "Opportunity Category" field with "Credit." 
+On the main contract reset opportunity, Deal Desk will populate the "Opportunity Category" field with "Contract Reset." On the associated credit opportunity, Deal Desk will populate the "Opportunity Category" field with "Credit." 
 
-All Contract Reset opportunities will be classified as a "Renewal" and will be subect to ARR Basis, which will impact overall Net ARR depending on the scenario. 
+All Contract Reset opportunities will be classified as a "Renewal" and will be subject to ARR Basis, which will impact overall Net ARR depending on the scenario. 
 
 For more information on ARR calculation for Contract Resets, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-contract-resets).
 
@@ -623,6 +624,9 @@ For prepaid multi-year deals, you must select the correct multi-year SKU (i.e. f
 
 For multi-year deals, paid annually, you must select the 1 Year SKU, and click on the Annual Payments checkbox to add the necessary payment language to the Order Form. Multi-year deals paid annually that do not utilize the correct 1 Year SKU will be rejected.
 
+In case the customer is looking to add additional users on a multi-year deal paid annually the subtotal on the created quote object will not be calculated correctly as it will include future unpaid years so Sales Support needs to be tagged on the related opportunity and the OF will be updated accordingly by Deal Desk.
+
+Additional users can only be added via add-on and amend subscription quote object if it's the same route to market but for switching route to market add-on opportunity should be used but new subscription quote object created and co-termed with existing subscription (as we don't have daily sku the start date should be adjusted based on the end date and if the term is less than 12 months monthly sku should be used). Upgrade can only be processed mid-term via the same route to market.
 
 
 For more information on ARR calculation for Multi-Year Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#how-net-arr-is-calculated-for-standard-deals).
@@ -645,13 +649,10 @@ A.  To create a ramp deal, tag @Sales-Support in chatter on the opportunity. **P
 *   Payment Terms (i.e. Net 30)
 *   Any other requests (i.e. Price Lock, true up language, etc.)
 
-B.  Request template:
-*   Deal Desk has created a [G Sheet template](https://docs.google.com/spreadsheets/d/1ho_ndKIZDvgdWOn873XONK2oc1tLloVJwlnpxgHYjiE/edit#gid=0) for Sales reps to enter ramp information.
-    *   To use this template, copy the template to your own Drive, enter the information, and share your G Sheet with @Sales-Support in Chatter.
+B.  Deal Desk will create the quotes and Order Form.
 
-C.  Deal Desk will create the quotes and Order Form.
+On the opportunity, Deal Desk will populate the "Opportunity Category" field with "Ramp."
 
-On the opportunity, populate the "Opportunity Category" field with "Ramp."
 
 For more information on ARR calculation for Ramp Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals).
 
@@ -677,80 +678,22 @@ To create the decommission opportunity, navigate to the related Closed-Won Oppor
 *  Submit the Opportunity for Deal Desk/Billing Approval.
 *  The Opportunity Close Date for the Amended SOW should be manually updated to match the original Closed-Won opportunity.
 
-#### Opportunities Requiring Multiple Invoices
-
-If an opportunity requires multiple invoices due to a specific professional services delivery schedule, a separate opportunity is required for each invoice period. If there is no difference in number of seats or price across the years only one subscription and quote would be required (ie. Invoice Only opps do not require a quote object).
-
-In FY22, multi year deals for recurring subscription products, paid annually, will be captured on one opportunity. 
-
-**Opportunity Structure**
-
-* Invoice Only Opp type should be New Business
-* Each individual opportunity will require a quote object that is equal to the amount being invoiced
-* All products, dates, and contacts should match the original opp / quote
-* Build Invoice Only quote objects as a "New Subscription" quotes
-
-**Invoice Amounts** 
-
-If all payments associated with the opportunity are equal (ex. 3 payments of $10,000) the quote on the original opporunity must reflect the entire opportunity term. 
-
-**Ex.** 
-
-3 Year Subscription worth $30,000, broken out into 3 equal annual payments of $10,000. 
-* Primary Opp Quote - 3 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 36. 
-* Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
-* Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
-
-If the payment amounts or user count per year are not identical, (ex. Year 1 - $15,000 Year 2 - $10,000, Year 3 $5,000)- then the original opporunity quote should only reflect the first year (invoice period) of the subscription. 
-
-**Ex.** 
-
-3 Year Subscription worth $30,000, broken out into 3 payments. Year 1 - $10,000, Year 2 - $7,000, Year 3 $13,000
-* Primary Opp Quote - 3 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 36. 
-* Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required. (Use the same SKU as the original opp, update initial term to 12)
-* Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object should be created to reflect the total amount to be invoiced. (Use the same SKU as the original opp, update initial term to 12)
-
-**Ex.** Professional Services Deal -Opportunity amount $300,000. 4 Deliverables are outlined in the Custom SOW to the customer, each deliverable includes a different date for delivery. This requires 4 opportunities because the customer will be invoiced after completion of each deliverable.
-
-
-*  Opp 1 (Original Opportunity) - First Deliverable - $50k in services
-*  Opp 2 (Cloned from Original) - Second Deliverable -$50k in services
-*  Opp 3 (Cloned from Original) - Third Deliverable - $100k in services
-*  Opp 4 (Clone from Original) - Fourth Deliverable - $100k in services
-
-To create opportunities requiring multiple invoices: 
-
-*  Clone the original forecasted opportunity
-*  Update the opportunity name to include “Deliverable # and the Date of delivery. The close date should be the same for all opportunities (if SOW and Cost Estimate was received on 1/1/2020, all opportunities should show 1/1/2020 as the close date even if it will be invoiced in a future period).
-*  Create a quote reflecting the value of the Deliverable. Build out each quote using the same SKU and discount (if applicable). The start date should match the delivery date outlined in the SOW.
-*  The quote should follow the standard quote creation process (link to quote building process). Set the quote as primary. Repeat for all opportunities. The sum amount of all opportunities should equal the total amount for the SOW.
-*  Attach the signed SOW and Cost Estimate link to **each opportunity.**
-*  Submit the Opportunity for Deal Desk/Billing approval. The Billing team will flag each deliverable opportunity for future invoice periods.
-
-Note: The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments" or "Custom Payment Schedule," whichever applies.
-
-**Add-Ons to Opportunities with Multiple Billing Events**
-
-- Scenario: The customer has a two-year subscription, paid annually. Each year's invoice amount is $100,000. 6 months into the subscription, the customer would like to add 100 users, totalling $75,000 over the remaining 18 months of the agreement.
-  - In scenarios where we are amending a subscription where there are one or more outstanding out-year payments, one quote should be provided, where the base product is amended as appropriate.
-  - How to read the Quote Subtotal: In these scenarios, the quote's subtotal will be higher than anticipated, as the subtotal will account for (1) the add-on you're currently quoting, as well as (2) the year 2 payment (which is scheduled and hasn't been invoiced yet).
-  - How to prepare the Order Form: In these scenarios, Deal Desk will manually prepare the Order Form by (1) Generating the Order Form, (2) subtracting the oustanding year 2 payment from the Order Form Grand Total, and (3) adding annual payment language and totals to the Order Form. 
-  - How to prepare the Opportunities: In these scenarios, the primary opportunity will represent the remainder of the year in question. For each year remaining in the agreement, Deal Desk should (1) create a debook opportunity to debook the current out-year Invoice opportunity, and (2) create a rebook opportunity to correctly rebook the out-year Invoice opportunity with the new, increased out-year Invoice total (representing the original Invoice amount PLUS the add-on Amount for that future period)
-  - In these scenarios
-    - Example: From the scenario above, the quote's subtotal would read $275,000 because it includes (1) the $75,000 Add-On, and (2) the outstanding $100,000 Year 2 Invoice/Payment. 
-    - Order Form: Deal Desk would (1) Change the Grand Total to $75,000, (2) Add Annual Payment language, and (3) in the table, write that $25,000 is due upon receipt (represents the add-on amount for the remainder of the first year), and that $50,000 is due on the same date as the outstanding Year 2 invoice. 
-    - Opportunities: There would be an existing Year 2 Invoice Opportunity with an Amount of $100,000. Deal Desk would debook that opportunity. Deal Desk would then rebook that opportunity with an Amount of $150,000.
-- Real-Life Example: https://gitlab.my.salesforce.com/0064M00000YQO1c?fId=0D54M0000465HEc
 
 ### Miscellaneous (But Important) Information related to Quotes
 
 A.  **To add users to an existing license at a different price**, please add the users on a new, separate product line.
 
-B.  **To create a true-up/add-on quote for a multi-year deal**, please add **both** the true-up and increase the license count by the same number of users. Note that the user number cannot decrease during the term of a multi-year deal - i.e. in the case of a three-year deal, if the customer exceeds the 100 license count by 25 users, (1) True-Up SKU with 25 users, and (2) increase the license quantity from 100 to 125.
+B. To add users to an existing license at the same price please note that no additional line needs to be added (to avoid multiple lines at renewal) and existing product line should be updated by increasing the quantity.
 
-C.  **If the customer signs a renewal quote, but a true-up is required before the renewal date**, create an add-on opportunity from the closed renewal opportunity, use the same start date as the renewal, and add the necessary true-up.
+C.  **To create a true-up/add-on quote for a multi-year deal**, please add **both** the true-up and increase the license count by the same number of users. Note that the user number cannot decrease during the term of a multi-year deal - i.e. in the case of a three-year deal, if the customer exceeds the 100 license count by 25 users, (1) True-Up SKU with 25 users, and (2) increase the license quantity from 100 to 125.
 
-D.  If you have **multiple quote objects** under one opportunity, the quote you are using **must be marked Primary.**
+D.  **If the customer signs a renewal quote, but a true-up is required before the renewal date**, create an add-on opportunity from the closed renewal opportunity, use the same start date as the renewal, and add the necessary true-up.
+
+E.  If you have **multiple quote objects** under one opportunity, the quote you are using **must be marked Primary.**
+
+F.  Please note that we should avoid processing contract reset if the customer is only looking to add additional users mid-term as this can be processed via add-on and amend subscription quote object.
+
+G. Please note that backdated amendments for adding additional users can be processed before renewal but once renewal is processed any overusage can only be processed by charging the customer for true-ups.
 
 ### Alliance Marketplace Private Offers
 
