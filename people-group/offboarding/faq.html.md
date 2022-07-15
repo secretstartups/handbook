@@ -39,7 +39,7 @@ If you are [eligible](/handbook/people-group/offboarding/#gitlab-alumni-program)
 The following can be used as a guide on what actions could need to be taken before your last day:
 
 - Unassign / Reassign any open projects, issues or merge requests to other team members or your manager. Use the [Global Search](https://docs.google.com/spreadsheets/d/1kVpBWDgxEp3zLyurE5Q9zpeDrGjWcDB7wb11uBl89ZQ/edit#gid=0) function and search your gitlab handle. 
-- [Install JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#installing-jamf) to assist the IT OPs team (if not already done).
+- [Install JAMF](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#installing-jamf) to assist the IT OPs team (if not already done).
 - Schedule a meeting with one of the IT Ops team members (depending on your region) for 30-60 minutes before your scheduled offboarding **time**. 
     - Marc DiSabatino - https://calendly.com/mdisabatino - US time zone
     - Jenny Wong - https://calendly.com/gitlabjwong - US (PST) time zone
