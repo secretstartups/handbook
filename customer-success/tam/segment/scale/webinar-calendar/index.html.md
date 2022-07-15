@@ -66,12 +66,12 @@ Come learn about what CI/CD is and how it can benefit your team. We will cover a
  
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_X8yuf4VMQYqAacvRoMNsIA)
 
-### Advanced CI/CD
+### DevSecOps Compliance
 #### August 16th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
+GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
  
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_pUbCQeh9T8GAATWdKI7feQ)
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_vv7h3cDETiiI0KyVSC-3Mw)
 
 ### Introducción a GitLab
 #### August 16th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
@@ -87,12 +87,12 @@ Ven y conoce qué es CI/CD y cómo puede beneficiar a tu equipo/organización. C
  
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_yfkTIB-pSl2EFkkk4NMc8w)
 
-### DevSecOps Compliance
+### Advanced CI/CD
 #### August 23rd, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
+Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
  
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_vv7h3cDETiiI0KyVSC-3Mw)
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_pUbCQeh9T8GAATWdKI7feQ)
 
 ### GitLab CI/CD Avanzado
 #### August 23rd, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
