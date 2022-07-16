@@ -47,7 +47,14 @@ Often, a POV is conducted with a GitLab trial license either using GitLab.com or
 
 - Must identify the champion and economic buyers and they must be in agreement (e.g., “sign-off”) on the success criteria; faciliate the executive connection and sponsorship
 
-- A Command Plan is populated in Salesforce for the opportunity
+- A Command Plan is populated in Salesforce for the opportunity with the following fields:
+    Why Now
+    Why do anything at all
+    Metrics
+    Decision Process - stakeholders
+    Pain
+    Access to economic buyer 
+    Impact of not solving that(Compelling event with business needs)
 
 - Top customer business values mapped to one of the GitLab solutions: DevSecOps, Software Compliance, Automated Software Delivery, and cumulatively DevOps Platform.
 
