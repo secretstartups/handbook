@@ -51,13 +51,13 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 ### Exit Criteria (0% completed)
 
 
-| #  | Start Date | Completed Date | DRI        | Criteria |
-| -- | ------     | ------         | ------     | ------   |
-| 1  |  2022-06-01       | TBD            | @nhxnguyen | [Create an implementation plan to remedy gaps in Maintainership coverage](https://gitlab.com/groups/gitlab-com/-/epics/1817)| 
-| 2  |  2022-04-26       | TBD            | @mwoolf | [Develop metrics to provide more transparency into the health of the Maintainership program](https://gitlab.com/groups/gitlab-com/-/epics/1816) |
-| 3  |  TBD       | TBD            | @robotmay_gitlab | [Update expected behaviors and responsibilities for Engineers and Maintainers](https://gitlab.com/groups/gitlab-com/-/epics/1815) |
-| 4  |  TBD       | TBD            | @alexives | [Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) |
-| 5  |  2022-06-01       | TBD            | @sabrams | [Develop and implement a communication plan for Maintainership changes](https://gitlab.com/groups/gitlab-com/-/epics/1813) |
+| #  | Start Date | Target Completion Date | Completed Date | DRI        | Criteria |
+| -- | ------     | ------ | ------         | ------     | ------   |
+| 1  |  2022-06-01       | 2022-07-22 | TBD            | @nhxnguyen | [Create an implementation plan to remedy gaps in Maintainership coverage](https://gitlab.com/groups/gitlab-com/-/epics/1817)| 
+| 2  |  2022-04-26       | 2022-07-22 | TBD            | @mwoolf | [Develop metrics to provide more transparency into the health of the Maintainership program](https://gitlab.com/groups/gitlab-com/-/epics/1816) |
+| 3  |  2022-05-04       | 2022-08-05 | TBD            | @robotmay_gitlab | [Update expected behaviors and responsibilities for Engineers and Maintainers](https://gitlab.com/groups/gitlab-com/-/epics/1815) |
+| 4  |  2022-05-18       | 2022-08-05 | TBD            | @alexives | [Improve the Trainee Maintainer process to make the process more efficient](https://gitlab.com/groups/gitlab-com/-/epics/1814) |
+| 5  |  2022-06-01       | 2022-08-05 | TBD            | @sabrams | [Develop and implement a communication plan for Maintainership changes](https://gitlab.com/groups/gitlab-com/-/epics/1813) |
 
 ### Data and dashboards
 - [Reviewer/Maintainer availability and capacity](https://app.periscopedata.com/app/gitlab/1028635/Reviewer-Maintainer-Availability-and-Capacity) - Shows the maintainer/reviewer availability rate over time and incoming/forecasted review requests
