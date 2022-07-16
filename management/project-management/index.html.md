@@ -33,4 +33,6 @@ efficiently as possible.
   be able to make the best decisions.
 - **Balance engineering initiatives** - make time for [engineering-led
   initiatives](/handbook/engineering/#engineering-led-initiatives) balanced
-  against product's needs for your team. 
+  against product's needs for your team. You should also consider your team
+  members' extra responsibilities such as project maintainerships or their
+  involvements in other company wide projects.
