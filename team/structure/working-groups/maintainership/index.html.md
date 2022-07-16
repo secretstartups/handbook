@@ -98,7 +98,6 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | Member            | Kyle Wiebers 				 | Engineering Manager, Engineering Productivity | 
 | Member            | Darva Satcher 		     | Senior Engineering Manager, Create / Ecosystem Stage |
 | Member            | Jiaan Louw 				 | Senior Frontend Engineer, Manage:Compliance |
-| Member            | Chad Woolley            | Senior Backend Engineer, Create::Editor |
 
 ## Communicating changes
 
