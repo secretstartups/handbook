@@ -322,7 +322,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday July 27 | Product | Product Leadership | Key Review Date|
 | Thursday July 28 | Digital Experience | Michael Preuss | N/A |
 | Tuesday Aug 2 | EBA AMA | EBA's | N/A |
-| Wednesday Aug 3 | Marketing |  Ashley Kramer | N/A |
+| Wednesday Aug 3 | Marketing |  Marketing Leadership | N/A |
 | Thursday Aug 4 | Development | Christopher Lefelhocz | N/A |
 | Tuesday August 9 | People | People | July 27 |
 | Wednesday August 10 | Pet Friendly AMA | Robin Schulman | N/A|
@@ -336,18 +336,18 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday August 30 | Portfolio Marketing| Tye Davis | N/A |
 | Wednesday August 31 | Finance | Brian Robbins | August 23 |
 | Thursday September 1 | CRO | Ryan O'Nell | August 25 |
-| Tuesday September 6 | Available | | Key Review Date? |
-| Wednesday September 7 | Available | | Key Review Date? |
-| Thursday September 8 | Available | | Key Review Date? |
-| Tuesday September 13 | Available | | Key Review Date? |
-| Wednesday September 14 | Available | | Key Review Date? |
-| Thursday September 15 | Available | | Key Review Date? |
-| Tuesday September 20 | Available | | Key Review Date? |
+| Tuesday September 6 | Marketing | Marketing Leadership | August 25 |
+| Wednesday September 7 | **Available** | | Key Review Date? |
+| Thursday September 8 | Product | Product Leadership | September 1 |
+| Tuesday September 13 | **Available** | | Key Review Date? |
+| Wednesday September 14 | **Available** | | Key Review Date? |
+| Thursday September 15 | Support | Tom Cooney |  |
+| Tuesday September 20 | CosT  | Stella Treas | N/A |
 | Wednesday September 21 | General (CEO) | Sid Sijbrandij | N/A |
-| Thursday September 22 | Available | | Key Review Date? |
-| Tuesday September 27 | Available | | Key Review Date? |
-| Wednesday September 28 | Available | | Key Review Date? |
-| Thursday September 29 | Available | | Key Review Date? |
+| Thursday September 22 | Infrastructure | Steve Loyd | September 14 |
+| Tuesday September 27 | CRO | Mike Pyle | N/A|
+| Wednesday September 28 | Community Relations | David Panella | N/A |
+| Thursday September 29 | Digital Experience | Micahel Preuss | N/A |
 | Tuesday October 4 | Available | | Key Review Date? |
 | Wednesday October 5 | Available | | Key Review Date? |
 | Thursday October 6 | Available | | Key Review Date? |
