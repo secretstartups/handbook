@@ -56,7 +56,7 @@ We can provide the following information:
 We cannot provide the following information:
 
 - Information about accounts or projects that the requester does not own.
-- Any information considered [Personally Identifiable Information (PII)](pii_removal_requests.html) that is not about the requester.
+- Any information considered [Personally Identifiable Information (PII)](pii_removal_requests.html) that is not about the requester. Also consider [the data covered under GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#what-is-covered-by-the-gdpr).
 - Any information that would disclose GitLab confidential information or processes.
 
 ## Sending logs and other PII
