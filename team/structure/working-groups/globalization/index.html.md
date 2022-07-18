@@ -27,7 +27,7 @@ canonical_path: "/company/team/structure/working-groups/globalizatoin/"
 This Working Group has the following exit criteria:
 
 1. Define criteria/defintion framework, deal scenario, risk matrix and departmenal action plan for entering and scaling within new countries
-1. Align on top 5 prioirty countries with most business impact for FY24
+1. Align on top 5 priority countries with most business impact for FY24
 1. Determine DRI to operationalize on-going globalization program and playbook
 
 ## FY23 Q3 CEO OKR: 
