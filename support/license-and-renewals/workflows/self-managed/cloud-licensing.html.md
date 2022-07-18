@@ -10,6 +10,7 @@ category: GitLab Self-Managed licenses
 ----
 
 ## Cloud Licensing Overview
+
 In order to further encourage Cloud Licensing, the Strict Cloud Licensing project will include several iterations to encourage customers to use Cloud License activation codes rather than a Legacy License file to activate their self-managed instances. The following [GitLab internal licensing terms page](https://internal-handbook.gitlab.io/handbook/product/fulfillment/definitions/#licensing-terms) provides a technical definition of the current three types of licenses (Cloud Licensing, Offline and Legacy) associated with Cloud Licensing.
 
 ## Strict Cloud Licensing
@@ -19,6 +20,37 @@ In order to further encourage Cloud Licensing, the Strict Cloud Licensing projec
 2. Channel Customers: create a support ticket. The customer's license can be accessed via Customers Portal in the licenses section. The license should be generated with the end-user email address and emailed to the customer directly after creation. Unless the circumstances require, we should not send the licenses to any GitLab employee. Exceptions may include air-gapped installs or other situations where the customer cannot receive the license via the email. 
 
 **Effective July 2022:** Cloud Licensing will be enabled automatically by default as detailed in the [Strict Cloud Licensing roll out plan](https://gitlab.com/gitlab-org/gitlab/-/issues/351682) for all customers (except OSS, EDU or Start-Up products). Customers will no longer have the ability to download a license file from Customers Portal. In addition, Offline licenses will now be available to allow customers with air-gapped or offline instances to receive the benefits of Cloud Licensing. In order to receive a Legacy License or Offline License, customers will need to follow the below outlined process.
+
+## Strict Cloud Licensing Process
+
+
+NOTE: This only applies to standard and resold customers.
+
+```mermaid
+graph TD;
+  A -->|IR| B;
+  B -->|No| C;
+  B -->|Yes| E;
+  C --> D;
+  D --> E;
+  A -->|Customer Ticket| F;
+  F -->|Yes| G;
+  F -->|No| H;
+  H -->|Yes| I;
+  H -->|No| J;
+  I -->|Yes| G;
+  I -->|No| J;
+  A{Is the ticket an internal<br>request or a customer ticket?}
+  B{Has approval been granted<br>for the exception?}
+  C(Support uses<br>Support::L&R::Strict Cloud Licensing Sales Exemption Guidance<br>macro)
+  D(Sales has gotten exemption<br>approval)
+  E(Support generates legacy<br>license and replies on ticket<br>letting requester know)
+  F{Did the user purchase/renew<br>before July 2022?}
+  G(Support uses<br>Support::L&R::Strict Cloud Licensing - Legacy license generated<br>macro)
+  H{Are they on a GitLab version<br><14.1?}
+  I{Did they purchase web direct?}
+  J(Support uses<br>Support::L&R::Strict Cloud Licensing - contact sales<br>macro)
+```
 
 ## Cloud Licensing Exemptions
 
