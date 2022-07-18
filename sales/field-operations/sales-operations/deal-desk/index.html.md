@@ -473,11 +473,11 @@ More details on MSP deal reg can be found in the [Channel Ops handbook](https://
 
 #### Quoting Annual True-Ups
 
-In accordance with Section 6 of the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#6-payment-of-fees), customers may be required to pay for Overage Users upon the expiration of a Subscription Term in order to renew the Software. 
+In accordance with Section 6 of the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#6-payment-of-fees), customers may be required to pay for Overage Users upon the expiration of a Subscription Term in order to renew the Software.
 
 ##### New Annual True-Up SKUs as of 2021-11-15
 
-Effective 2021-11-15, the "Trueup" SKU has been deprecated and replaced with 6 new annual True-Up SKUs, each of which ties to the related subscription SKU. When creating quotes that include a backward looking, one-time True-Up charge, please select the appropriate True-Up SKU as listed below. **For the avoidance of doubt, you must select the True-Up SKU related to the subscription SKU that was in use when the True-Up was incurred.**
+Effective 2021-11-15, the "True-up" SKU has been deprecated and replaced with 6 new annual True-Up SKUs, each of which ties to the related subscription SKU. When creating quotes that include a backward looking, one-time True-Up charge, please select the appropriate True-Up SKU as listed below. **For the avoidance of doubt, you must select the True-Up SKU related to the subscription SKU that was in use when the True-Up was incurred.**
 
 * Example 1: A customer has a 100 user SaaS - Premium subscription. At renewal, you learn that the customer incurred 5 Overage Users during the initial subscription term. On the renewal quote, you will select True-Up (Annually) - SaaS - Premium SKU with a quantity of 5.
 
@@ -495,9 +495,22 @@ Effective 2021-11-15, the "Trueup" SKU has been deprecated and replaced with 6 n
 * True-Up (Annually) - SaaS - Premium: $228/seat/year
 * True-Up (Annually) - Bronze: $48/seat/year
 
+##### Note for Quoting True-ups:
+True-ups shouldn’t be added to an amendment quote, because functionally they will do nothing. Overuse is only recognised at renewal and hence, true-ups are necessary only at renewal to unlock a license when the customer had gone over their licensed user count in the previous subscription term.
+Example- The customer had 100 licensed users and they used 108, the 8-user overuse will be covered and quoted as True-up during renewal.
+
+**Reading Through Customer's Dashboard:**
+**1. Billable Users:** Current number of active users (forward looking license) - Customer needs renew at least that number of licenses
+**2. Users over License:** True-ups (being charged for the overuse occurred in the previous licensing period)
+**Users over License = Maximum users - Users in license**
+**3. Users in License:** Number of licenses purchased previously (at the beginning of the term)
+**4. Maximum Users:** Number of maximum users reached during the previous term (before renewal)
+
+![Customer_s_Dashboard_Example](/uploads/f7b584e202c4902a25082ed38e5a69cb/Customer_s_Dashboard_Example.png)
+
 ##### New True-Up Selection Flow in Zuora CPQ as of 2021-11-15
 
-To streamline the quoting process, we have created a new product selection step, called "True Ups." When selecting SKUs to add products to a quote, the new True-Up SKUs will display under the third and final page. Previously the "Trueup" SKU was displayed under "Add Add On Products."
+To streamline the quoting process, we have created a new product selection step, called "True-ups." When selecting SKUs to add products to a quote, the new True-Up SKUs will display under the third and final page. Previously the "True-up" SKU was displayed under "Add Add On Products."
 
 ![Guided Selling](/handbook/sales/images/trueupsguidedselling.png)
 
@@ -508,17 +521,17 @@ On this new Guided Selling "True Ups" screen, you must select the appropriate Tr
 #### Co-Terming
 
 There are 2 types of co-terming:
-1. **Automatic/Same Subscription:** Creating a co-termed Amendment quote to an existing subscription. The Amendment quote will have the same start date as the related existing subscription by default.
-2.  **Manual/Separate Subscriptions:** Customer needs a separate new subscription with the same end date as their existing subscription. In order to create a new co-termed subscription you will need to use the monthly sku and also set the start date of the new subscription quote in line with the existing subscription (currently there is no option to create new subscription for a calendar day based prorated period but month based only). For example if the existing subscription runs from 15 Feb 2022 to 15 Feb 2023 and they need another subscription with the same end date but as of April, you would create a new subscription quote with 15 Apr 2022 start date, set the initial term to 10 months and select the monthly product instead of the standard annual one. When creating a new subscription for period < 12 months in order to co-term it with an existing, no approvals are need for a shorter subscription term as per the approval matrix.
+1. **Automatic/ Same Subscription:** Creating a co-termed Amendment quote to an existing subscription. The Amendment quote will have the same start date and initial/ renewal term as the related existing subscription by default.
 
+2.  **Manual/ Separate Subscriptions:** Customer needs a separate new subscription with the same end date as their existing subscription. In order to create a new co-termed subscription, you will need to use the monthly SKU and also set the start date of the new subscription quote in line with the existing subscription (currently there is no option to create new subscription for a calendar day based prorated period but month based only). For example, if the existing subscription runs from 15 February 2022 to 15 February 2023, and they need another subscription with the same end date but as of April start date, you would create a new subscription quote with 15 April 2022 start date, set the initial term to 10 months and select the monthly product SKU instead of the standard annual one. When creating a new subscription for period < 12 months in order to co-term it with an existing, no approvals are need for a shorter subscription term as per the approval matrix. Additionally, New Business or Renewal Subscriptions with <12 month term lengths require approval, unless the subscription is meant to co-term with another pre-existing subscription.
 
 #### Quoting Guide: Starter/Bronze End of Availability + Tier Re-naming
 
 **As of 2021-01-26, the following changes have been made to the quoting process in relation to the end of availability of Starter/Bronze:**
 
-* Starter/Bronze SKUs will no longer be selectable for new subscription quotes. 
-* Starter/Bronze new subscription deals quoted before 2021-01-26 will be honored and booked through and until the Quote Expiration Date provided that they have received CRO approval.
-* Starter/Bronze SKUs will still be selectable for amendment and renewal quotes. Existing Starter/Bronze subscriptions can be amended to add users at the current list price, or renewed for one year at the current list price, until 2022-01-26. Any discounts applied to Starter/Bronze Add-Ons or Renewals will be subject to the [standard discount approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#).
+* Starter/ Bronze SKUs will no longer be selectable for new subscription quotes. 
+* Starter/ Bronze new subscription deals quoted before 2021-01-26 will be honoured and booked through and until the Quote Expiration Date, provided that they have received CRO approval.
+* Starter/ Bronze SKUs will still be selectable for amendment and renewal quotes. Existing Starter/Bronze subscriptions can be amended to add users at the current list price, or renewed for one year at the current list price, until 2022-01-26. Any discounts applied to Starter/Bronze Add-Ons or Renewals will be subject to the [standard discount approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#).
 
 **Silver/Premium + Gold/Ultimate Legacy SKU Quoting Guide**
 
@@ -536,7 +549,7 @@ Salesforce Guided Selling filters have been updated. Legacy SKUs have been remov
 | Self Managed - Ultimate | Ultimate    |
 
 * **New Business:** New Subscription quotes can only be created using the new SKUs listed above. 
-* **Add-Ons:** For existing subscriptions that contain legacy SKUs, all Amend Subscription quotes will use the existing legacy SKU. i.e. If you upsell an existing Gold subscription, your amendment quote and Order Form will still use the legacy Gold SKU.
+* **Add-Ons:** For existing subscriptions that contain legacy SKUs, all Amend Subscription quotes will use the existing legacy SKU, i.e.; If you upsell an existing Gold subscription, your amendment quote and Order Form will still use the legacy Gold SKU.
 * **Renewals:** For existing subscriptions that contain legacy SKUs, **all Renew Subscription quotes will require that the legacy SKU be removed from the quote, and that the new SKU be added to the quote in its place for the renewal.** When quoting a renewal, *please follow the steps below to change the SKU:*
   * First, click **Select Products**
   * On the **Edit Products and Charges** page, select "Add Products"
@@ -550,15 +563,18 @@ Salesforce Guided Selling filters have been updated. Legacy SKUs have been remov
 
 **Quote Discount Approval Module Updates**
 
-* The quote approval module has been updated to recognize the new Premium and Ultimate SKUs referenced in the table above.
-* The quote approval module has been updated to recognize the [Starter/Bronze EoA Option 2 upgrade offer](https://docs.google.com/document/d/19T-ysFuEFWIlAv7Z9o1Q6-kVU9HKFb_nzGZ1uumpMLA/edit) (one year renewal/add-on upgrade).
+* The quote approval module has been updated to recognise the new Premium and Ultimate SKUs referenced in the table above.
+* The quote approval module has been updated to recognise the [Starter/Bronze EoA Option 2 upgrade offer](https://docs.google.com/document/d/19T-ysFuEFWIlAv7Z9o1Q6-kVU9HKFb_nzGZ1uumpMLA/edit) (one year renewal/add-on upgrade).
 
 #### SuperSonics Billing and Subscription Management Experience
 
+GitLab's Cloud Licensing experience allows for the activation and provisioning of Quarterly Subscription Reconciliation and Auto-Renewals, which apply to both SaaS and Self-Managed Subscription plans. In addition, the Cloud Licensing experience introduces Operational Data.
+
 To learn more about the SuperSonics Billing and Subscription Management experience and how it impacts your quote, review the following:
-- [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions)
-- [How To Opt-Out of SuperSonics Features](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-opt-out-of-supersonics-features) 
-- [How to Temporarily Pause SuperSonics Features](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-temporarily-pause-supersonics-features)
+- [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#auto-renewal-quarterly-subscription-reconciliation-and-operational-data-sales-assisted-transactions)
+- [How To Opt-Out of SuperSonics Features](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-opt-out-of-auto-renewal-quarterly-subscription-reconciliation-and-operational-data) 
+- [How to Temporarily Pause SuperSonics Features](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-temporarily-pause-auto-renewal-quarterly-subscription-reconciliation-and-operational-data)
+- [More Resources](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#resources)
 
 #### Quoting Professional Services
 
@@ -569,18 +585,18 @@ To learn more about the SuperSonics Billing and Subscription Management experien
 *   Standard services are those for which a SKU exists in Zuora CPQ.
 *   Standard services can be added to any New Business, Add-On, or Renewal quote alongside subscription product SKUs. (i.e. If you are selling a 12 month SaaS Ultimate deal, you can add a separate SKU on the same quote to sell the Rapid Results offering.)
 *   For Standard Services, a signed Order Form is sufficient to book the deal. (Note, some customers may also require issuance of a PO)
-*   More information on [Professional Services SKUs](/handbook/customer-success/professional-services-engineering/#professional-services-skus) 
+*   More information on [Professional Services SKUs](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#professional-services-skus) 
 
 ##### Before submitting a Scoped/Custom Professional Services Opportunity for Closure:
 
-*   For [standard professional services skus](/handbook/customer-success/professional-services-engineering/#current-skus), only a signed order form is required.
+*   For [standard professional services SKUs](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/SKUs/), only a signed order form is required.
 
 ##### Creating a Professional Services Quote for Scoped/Custom Services
 
-*   Scoped/Custom Services are those that require consultation with the Professional Services team, and require a custom SOW to be drafted and signed by the customer. This includes any Professional Services that are not fully prepaid and any cases where a combination of standard sku offerings and custom-scoped services are being sold together in a single opportunity.
-*   Scoped/Custom Services must always be quoted on a standalone opportunity, separately from any subscription products SKUs. (i.e. You may NOT sell a 12 month SaaS Ultimate SKU on the same quote/opp as Scoped/Custom Services).
+*   Scoped/Custom Services are those that require consultation with the Professional Services team, and require a custom SOW to be drafted and signed by the customer. This includes any Professional Services that are not fully prepaid and any cases where a combination of standard SKU offerings and custom-scoped services are being sold together in a single opportunity.
+*   Scoped/Custom Services must always be quoted on a standalone opportunity, separately from any subscription products SKUs. (i.e.; You may NOT sell a 12 month SaaS Ultimate SKU on the same quote/ opportunity as Scoped/Custom Services).
 *   Create a New Business Opportunity and select “Professional Services Only” under “Opportunity Record Type.”
-*   Create a new subscription quote under the Professional Services opportunity by following the steps above under “new Subscription Quote.” Select the **GitLab Service Package** SKU. Update the price to reflect the total price on the SOW.  You should use this sku to reflect the total amount of the SOW, even if the SOW includes some standard training classes or other offerings that could be purchased via sku.  **Note:** You do not need to submit the quote for Custom services for approval. Approvals will be handled by the Engagement Manager via the scoping issue, and any discounts in rate should be handled separately via Chatter, as per the [Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.dccvx02huo2y).  The SOW will be sent to the customer for signature, not the quote/order form.
+*   Create a new subscription quote under the Professional Services opportunity by following the steps above under “new Subscription Quote.” Select the **GitLab Service Package** SKU. Update the price to reflect the total price on the SOW.  You should use this SKU to reflect the total amount of the SOW, even if the SOW includes some standard training classes or other offerings that could be purchased via SKU.  **Note:** You do not need to submit the quote for Custom services for approval. Approvals will be handled by the Engagement Manager via the scoping issue, and any discounts in rate should be handled separately via Chatter, as per the [Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.dccvx02huo2y).  The SOW will be sent to the customer for signature, not the quote/order form.
 *   To gain support from the Professional Services team with a Custom SOW, initiate a scoping issue using the [Services Calculator](https://services-calculator.gitlab.io/) and work with a Professional Services [Engagement Manager](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/).
 
 ##### Before submitting a Scoped/Custom Professional Services Opportunity for Closure:
@@ -594,27 +610,26 @@ To learn more about the SuperSonics Billing and Subscription Management experien
 
 If you'd like to save time by cloning an existing quote, you can do so by doing the following:
 
-1. On the Quote Detail page of the quote you want to clone, click Clone Quote.
-1. On the Quote Clone Configuration page, select the following options:
+1. On the Quote Detail page of the quote you want to clone, click "Clone Quote".
+2. On the Quote Clone Configuration page, select the following options:
     * Clone Products: Select to clone the products associated with the quote. This option only applies to the New Subscription quotes. Ensure that the products associated with the quote are maintained in the current version of the product catalog.
     * Maintain Quote: Select to be directed to the first step in the quote object workflow that allows you to edit the newly cloned quote. The flows are configured based on the quote type, i.e., New Subscription, Amendment, and Renewal, in the quote object workflow.
-1. Click Next.
+3. Click Next.
     * If you selected the Maintain Quote option, you are redirected to the first step in the Quote Wizard of the newly cloned quote.
     * If you did not select the Maintain Quote option, you are redirected to the Quote Detail page of the newly cloned quote.
-1. Please note that you cannot clone the products on an amendment (add-on or renewal quote.)
+4. Please note that you cannot clone the products on an amendment (add-on or renewal quote.)
 
 #### How to Create a Draft Proposal
 
 Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal. 
 
-1. Click Edit Quote. 
-2. Select the Draft Quote Template. Save. 
-3. Click Generate PDF. A Draft Proposal PDF will be attached to the opportunity in the Notes & Attachments section. 
+1. Click Edit Quote Details. 
+2. Select the DRAFT - New Proposal quote template. Save. 
+3. Click Generate PDF. A Draft Proposal PDF will be attached to the Notes & Attachments section of the opportunity. 
 
 **Important Notes** 
 - A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
-- A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. 
-. To generate a legitimate order form, you must update the Quote Template from the Draft selection to relevant order form template for the opp
+- A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. To generate a legitimate order form, click on "Edit Quote Details" and you must update the Quote Template from Draft selection to the relevant order form template for the opportunity before it is submitted for approvals.
 
 ### **Non-Standard Quotes**
 
