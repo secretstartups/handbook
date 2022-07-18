@@ -28,7 +28,7 @@ The following teams have role-based access to Demandbase:
 - Marketing Campaigns
 - Digital Marketing
 - Field Marketing
-- Sales Development
+- Sales & Business Development
 
 ### Demandbase Product Modules
 {: #demandbase-product-offerings}
@@ -47,9 +47,9 @@ Bookmark the [Demandbase Glossary](https://support.demandbase.com/hc/en-us/artic
 {: #demandbase-training-resources}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* [Demandbase training portal](https://training.demandbase.com/)
-   - For **Demandbase certification**, go to the training portal > `Enroll in Certifications` > `Demandbase Solutions Certificate`
-* [Getting started with Demandbase self-service targeting](https://support.demandbase.com/hc/en-us/sections/360009465252-Getting-Started-with-Self-Serve-Targeting)
+* [Demandbase training portal](https://academy.demandbase.com/)
+   - This is only available for those with access to Demandbase. You can use your Demanbase login to access training academy. 
+* [Getting started with Demandbase self-service targeting](https://academy.demandbase.com/page/certifications)
 
 ## Journey stages
 {: #journey-stages .gitlab-purple}
@@ -58,24 +58,24 @@ We use Demandbase account journey stages to track account progression toward Clo
 
 | Stage No. | Stage Name | Description |
 | ----- | ----------- | ----------- |
-| 01 | Non-Qualified Accounts | Accounts with a qualification score below 70 and no engagement minutes (in last 3 months) |
-| 02 | Demographic Qualified Account | Accounts with a qualification Score 70+ and engagement minutes (in last 3 mo) >=1 |
+| 01 | Non-Qualified Accounts | Accounts without any engagement |
+| 02 | Demographic Qualified Account | Accounts with a qualification Score 70+ |
 | 03 | Keyword Intent | Intent Strength = High or Med; Activity Date = Last 30 Days |
-| 04 | Anonymously Engaged | Accounts with >= 20 engagement minutes and and <= 1 person engaged |
-| 05 | Engaged with People | Accounts with >=20 minutes of engagement and >= 2 person engaged |
-| 06 | Marketing Qualified Account | Accounts with >100 marketing engagement minutes and >3 engaged people and Pipeline Predict >= 70 |
+| 04 | Anonymously Engaged | Accounts with >= 20 total engagement minutes (excluding intent as engagement) (last 3 months) AND <= 1 person engaged (all time) |
+| 05 | Engaged with People | Accounts with >=20 marketing engagement minutes (excluding intent as engagement) (last 3 months) AND >= 2 person engaged (all time) |
+| 06 | Marketing Qualified Account | Accounts with >100 marketing engagement minutes (last 3 months) AND >3 engaged people  |
 | 07 | Opportunity - Stage 0 | Accounts with latest open opp in stage 0 |
 | 08 | SAO - Stage 1 (Pipeline) | Accounts with latest open opp in stage 1 |
 | 09 | Opportunity Stage 2-3 (Pipeline) | Account with open opp in stage 2-3 |
 | 10 | Opportunity Stage 4-7 (Pipeline) | Account with open opp in stage 4-7 |
-| 11 | Customer (Customer) | Existing Closed Won Opportunity |
-| 12 | Former Customer | Accounts who are no longer customers |
-| 13 | Disqualified | Any account that is not a potential customer |
+| 11 | Customer (Customer) | Account type = Customer |
+| 12 | Former Customer | Account type = Former Customer |
+| 13 | Disqualified | Account Type = Authorized Reseller, Partner, Unofficial Reseller, Reseller, Prospective Partner |
 
 ## Intent Strength Scoring
 {: #intent-scoring .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Accounts will be given an intent ranking for a keyword or set of keywords in the form of HIGH, MEDIUM, LOW. This tells us that account’s intent strength for the keyword or set of keywords. Demandbase looks into how many people associated with a company are searching for a keyword or keyword set and then gives it a ranking based on the number of people researching compared to the size of the company. For example,  if a company has 10 employees and 4 people are researching a given topic, that would be considered HIGH. However, if a company has 200 employees, that would be considered MEDIUM. 
+Accounts will be given an intent ranking for a keyword or set of keywords in the form of HIGH, MEDIUM, LOW. This tells us that account’s intent strength for the keyword or set of keywords (and ultimately a score for how likely they are to be a good fit for GitLab). Demandbase looks into how many people associated with a company are searching for a keyword or keyword set and then gives it a ranking based on the number of people researching compared to the size of the company. For example,  if a company has 10 employees and 4 people are researching a given topic, that would be considered HIGH. However, if a company has 200 employees, that would be considered MEDIUM. 
 
 ### Keyword Sets
 Keywords are words or phrases that we expect interested accounts our our ideal customers (ICP) to research. For example, at GitLab, we would include keywords such as "DevOps, continuous integration, CI/CD, software development, etc" 
@@ -111,11 +111,12 @@ UKNOWN person data (intent, keyword search etc by folks who have not filled out 
 
 **Option 1: Account List by Company Name**
 
-Create an `account list` with filter for `Company Name` = [company name as appears in SFDC]
+Create an `account list` with filter for `Account Name` = [add all account names as appears in SFDC seperated by commas]
+     - Note: you can use "Switch to text view" to quickly copy and paste account names direct from SFDC if the search mechanism in the DB selector is taking a long time. 
 
 **Option 2: Account List by SFDC Account ID**
 
-Create an `account list` with filter for `SFDC account ID` = [all account IDs in the company hierarchy]
+Create an `account list` with filter for `SFDC account ID` = [all account IDs in the company hierarchy seperated by commas]
 
 ### Public Sector data in Demandbase
 {: #demandbase-pubsec-data}
@@ -125,15 +126,15 @@ Access to account and engagement data in Demandbase is dependent on your approva
 #### Account Scoring Criteria
 {: #account-scoring-criteria}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-| Category | Description |  |
+| Category | Description |  
 | -------- | ----------- |
-| Qualification score | matches our ICP |  |
-| Website visitors | how many people are visiting our website from the company |  |
-| DB Intent | onsite and offsite search from the company |  |
-| Inbox data | interactions with Sales |  |
-| CRM data (Salesforce) | meetings, demos, IQM |  |
-| MAS data (Marketo) | interactions with our marketing campaigns |  |
-| Advertising activity | engagement with our Demandbase campaigns |  |
+| Qualification score | matches our ICP |  
+| Website visitors | how many people are visiting our website from the company |  
+| DB Intent | onsite and offsite search from the company |  
+| Inbox data | interactions with Sales |  
+| CRM data (Salesforce) | meetings, demos, IQM |  
+| MAS data (Marketo) | interactions with our marketing campaigns |  
+| Advertising activity | engagement with our Demandbase campaigns |  
 
 ## Engagement Minutes
 {: #engagement-minutes .gitlab-purple}
@@ -162,103 +163,107 @@ A person will receive an increase in engagement scoring based on their title.
 | CXO | 150% |  
 | All others | 100% |  
 
+### Demandbase Site Analytics
+{: #site-analytics}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Demandbase Site Analytics gives you website analytics for people and accounts so you can better evaluate website performance and personalize marketing efforts to them.
+
+#### Ways you can use Demandbase Site Analytics
+{: #site-analytics-use-cases}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+- Create and target specific audiences with relevant content
+- Gain insights on which site content and web pages are most valued by visitors from your target accounts
+- Use UTM and URL parameters to track channel and campaign performance over time
+- Build campaigns around specific levels of website activity
+- Drive registration for upcoming events: discover who has visited your event pages, but has not registered for an event.
+
+#### How to use Site Analytics
+{: #site-analytics-how-to}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Steps for using Site Analytics as well as building an audience from Site Analytics can be found [here](https://support.demandbase.com/hc/en-us/articles/360052300711-Manage-Site-Analytics#:~:text=Site%20Analytics%20in%20Demandbase%20One,personalize%20marketing%20efforts%20to%20them.)
+
 ## Demandbase Lists
 {: #demandbase-lists .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-A `List` (called `audiences` in Demandbase Classic) is a collection of accounts, people, or opportunities based on a list of qualifications, similar to a report in Salesforce. 
-
-There are several ways to build a list in Demandbase (in order of recommended):
-
-1. Assigned account lists: these lists are pre-built for users in DB based on their assigned account in Salesforce. The following groups have accounts lists:
-    - Field Marketing Managers
-    - SDR
-    - Sales
-1. Dynamic list using `selectors`
-1. Salesforce report (must be an account report, not opportunity or campaign, etc)
-1. Static list of accounts through a CSV upload. We do not recommend using this method as it is a single point in time upload and not easily modified.
-
-### Account Lists
-{: #account-lists}
-<!-- DO NOT CHANGE THIS ANCHOR -->
+A `List` is a collection of accounts, people, or opportunities based on filters of your choosing (called selectors), similar to Salesforce report. 
 
 ### Naming Convention
 {: #account-list-naming-convention}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 Account lists follow a naming convention. The name of an audience should tell you who the DRI is (team) and what the list is for. Audience names are editable, so if you are unsure, please name using the following criteria and reach out in the [ABM slack](https://gitlab.slack.com/archives/CFBT2HSEB) if you have questions.
 
-**Example: (FM) 20200901_SecurityWorkshop**
+- Name of the list- what does this list contain? **Example: (FM) 20200901_SecurityWorkshop**
 
-1. Team DRI for the list should be identified by the following:
+### How to build a List in Demandbase
 
-- (MASTER) Any report that is an SSOT across all departments
-- (ABM) Account Based Marketing
-- (FM) Field Marketing
-- (SDR) Sales Development
-  - (SDR) EMEA-C
-- (DG) Demand Generation
-- All others- please ping the ABM team in the [#abmteam slack channel](https://gitlab.slack.com/archives/CFBT2HSEB) so we can add a naming convention for you
+#### Training Video
+- **[Watch this how-to video for list creation:](https://youtu.be/BVccN6ly2ys)** you must be logged in to the GitLab unfiltered account.
 
-1. Name of the list- what does this list contain?
+##### Selector Types
+Selectors let you define who or what should qualify for reports, journey stages, lists, filters, audiences, and automations.
 
-- Campaign tag if it is an audience specific to a campaign
-- Intent based etc
-- Segment- if an audience is a segment of a larger audience. example: if you wanted to create a segment of this audience: `(FM) 20200901_SecurityWorkshop` it would be named `(FM) Segment-20200901_SecurityWorkshop`
+You will notice two small icons next to the selectors when you go to add one to a list. The first icon will show you the Salesforce object this feild is coming from (account, person, or opp). The second icon will let you know the field source (Salesforce, Marketo, Demandbase or merged). For example, you will see the blue Salesforce logo if it is a field pulling directly from Salesforce and you will see an arrow if it is merged field. A merged field indicates the information is pulling in from multiple sources. You can hover over the merge arrow icon to see exactly which sources the data is pulling in from. Demandbase prioritizes merged field data in the following order: Salesforce then Demandbase
 
-**[Watch this how-to video for list creation](https://youtu.be/BVccN6ly2ys)**
+**Field Object Icon**
+![picture-of-demandbase-object-example](/handbook/marketing/account-based-marketing/demandbase/ObjectType.png)
 
-You can build a list of accounts, people, or opportunities in platform using 'selectors' which are fields from SFDC, Marketo, and Demandbase. For example, you could build a list of accounts that are in a certain region who are showing competitive intent OR build a list of people FROM those accounts. It is best to visualize creating a list in Demandbase the same way you would build an SFDC report, just with access to data from multiple platforms.
-
-#### Templates for Account Lists
-{: #account-list-templates}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Similar to how we identify the owner of a list in Demandbase, we have template lists built out that anyone can leverage. These are identified by `[TEMPLATE]` before the list name in the platform.
-
-**How to use a template:**
-1. Find the use case template you would like to use (please reach out in Slack if you think it exists but cannot find it)
-1. Clone the list
-1. Rename the list based on the naming convention [here](/handbook/marketing/account-based-marketing/demandbase/#account-list-naming-convention)
-1. Modify as needed
-
-**How to build a template:**
-1. Name your list `[TEMPLATE] use case`
-1. Choose all selectors for the list
-1. In the description of the list, write out the instructions of which selectors should be modified in order to leverage the template.
+**Merged Source Icon**
+![picture-of-demandbase-object-example](/handbook/marketing/account-based-marketing/demandbase/MergedSources.png)
 
 #### Building a Custom List
 {: #list-creation}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+You can find a guide for Field Marketing Lists [below](handbook/marketing/account-based-marketing/demandbase/#field-marketing-use-cases) as well.
 
-1. What type of list do you need? (3 options below)
-   - Account, Person, or Opportunity
-1. What filters do you need applied? (examples below)
-   - Accounts within a certain region or industry
-   - Certain personas
-   - Open opportunities
-   - People that have a certain level of engagement with GitLab
-1. How big of a list do you anticipate?
-   - Am I looking for ALL accounts that match my set filters? Or am I looking for a certain number of accounts that are the "best match"
+1. Click the database icon in the left-hand navigation menu
+1. Select the list type you need under the database menu (Account Lists, Person Lists, Opportunity Lists)
+1. Click +Create New in the right-hand corner
+1. Name your list using the following naming convention: `(Team abbreviation) What the list is for` Example: (FM) 20200901_SecurityWorkshop
+1. Select list type. Most commonly used is Dynamic list. This ensures that the list will update as it meets your criteria.
+1. Change list visability to public to ensure others can see it if you need troubleshooting assistance
+1. Click create. From there, you will be taken to the selector tab. Navigate from the basic tab to the advanced tab. 
+1. Click the + sign in the center to add your first selector or search at the right hand side and drag the selector into the center. You will build out your list the same way you would build a Salesforce report. 
+
+**IMPORTANT: IF YOU ARE BUILDING A PERSON LIST TO BE PUSHED TO MARKETO - PLEASE ALSO FOLLOW THESE INSTRUCTIONS [HERE](/handbook/marketing/marketing-operations/campaigns-and-programs#pushing-demandbase-lists-to-marketo).**
+
+#### Common Selectors to Use
+Any information or fields in Salesforce will be available in Demandbase. If you are wanting to use a Salesforce filed in your Demandbase list but don't see it in the platform, please ping in the #abmteam slack channel.
+
+##### General
+- Engagement minutes (3mo), Engagement minutes (1mo), Engagement minutes (7 days) (pulls from Demandbase) - you can use this field to filter accounts that have higher or lower engagement. Reminder that an engagement minute score is an aggregated score at the account level based on how often and with what aligned prospects are engaging. We typically use this to make our list more targeted by using `Engagement minutes (3mo) >= 10` *Make sure you use the greater or equal to OR less than or equal to symbol. If you use just equal to, you limit the accounts that fit this critera drastically as the scoring varies.
+- Member of List - you can use this field to pull in an account or person list into another account or person list. For example, if you have a list of accounts and then also want a list of people associated with the account list, you could create a person list and then add the field `Member of list` = NAMEOFACCOUNTLIST
+- 
+
+##### Lead/Contact
+- Lead or Contact? - This field will let you narrow your list down to just leads, just contacts, both AND will let you exclude (or add) anonymous visitors (most often you want to use this field to remove anonymous visitors from your list as we can't target them)
+- Matched Account Name (merged source, arrow icon) - Will pull in leads or contacts that are aligned to an account
+- Email (merged source, arrow icon) - You can use this in combination with the `matched account name` field. Email contains @companyemaildomain. You could then edit the filter logic to say Matched account name = Company Name OR email contains @companyemaildomain
+- Title (pulls from SFDC) - if you only want specific titles you can use this field, just remember that this data is only as accurate as the data on the lead/contact in Salesforce
+
+##### Account
+- Account Type (pulls from SFDC)
+- Journey Stage (pulls from Demandbase) - Details what journey stage the account is in. More information about journey stages can be found above [here](/about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/#journey-stages).)
+- Account Demographics: Sales Segment (pulls from SFDC) - Gives you the option to only see accounts in a specific sales segment
+- Account Owner (Text) (pulls from SFDC) - let's you filter accounts by a specific account owner
+- Account name (merged source, arrow icon) - Add a specific account name or list of account names (make sure to seperate by commas if you paste them in via text mode)
+- Account ID OR Account ID (18) (pulls from SFDC) - helpful if you don't want to use the specific account name
+- First order available (pulls from SFDC) - shows if the account is FOA
+- ABM Tier (pulls from SFDC) - tells you if an account is part of ABM and if so, what tier
+- Is pipeline qualified (pulls from Demandbase) - will show only accounts that are in pipleine opp stages. (Opporuntiy stages 0-7)
 
 #### Best Practices for Building Lists
 {: #list-creation-best-practices}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- By default, `Selectors` will use `AND` filters for your criteria to find all people, accounts, or opportunities that meet that criteria.
+- By default, `Selectors` will use `AND` filters for your criteria to find all people, accounts, or opportunities that meet that criteria. You can edit this in the selector tab of your list. At the top, click the toggle for `edit logic`
 - Gitlab prioritizes SFDC data over Marketo in order to avoid duplicating information.
    - Anything with the SFDC logo next to it will apply this data filter and look for the criteria in this order: SFDC -> Marketo -> Demandbase
 - A Demandbase logo next to the filter will ONLY be Demandbase data
    - This will be data we do not have outside of the platform.
    - Example: intent and keyword search
-- We have certain `selectors` in the platform marked as `favorites` to identify often used and generally trusted sources of data.
+- We have certain `selectors` in the platform marked as `favorites` to identify often used and generally trusted sources of data. These will be stared. 
 - We have many fields turned off in Demandbase to avoid confusion and ensure we are looking at an SSOT field as much as possible.
-   - If you need a field and don't see it in the platform, please open an issue in the [Demandbase project](https://gitlab.com/gitlab-com/marketing/account-based-strategy/demandbase/-/issues/new).
-
-#### SSOT `Selectors` in Demandbase
-{: #ssot-selectors}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-We have a set of `selectors` (fields) in Demandbase that are SSOT for building lists. These are :star: favorited in the platform to easily identify them.
-
-Keep in mind, `special` selectors and are not able to be favorited. These include `member of` selectors and `relationship` selectors as these are not mapped to a data field in SFDC, Marketo or Demandbase.
+   - If you need a field and don't see it in the platform, please ping us in the slack channel #demandbase-one
 
 ## Demandbase Advertising
 {: #demandbase-advertising .gitlab-purple}
@@ -272,6 +277,42 @@ If you would like to target named accounts with paid display ads, create an issu
 - [Campaign Request issue template for Field Marketing](https://gitlab.com/gitlab-com/marketing/account-based-strategy/demandbase/-/blob/master/issue_templates/Demandbase_Campaign_Request.md)
 - [Campaign request issue for DemandGen](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/blob/master/.gitlab/issue_templates/Demandbase_Campaign_Request.md)
 - [General Campaign Request issue template (for all other teams)](https://gitlab.com/gitlab-com/marketing/account-based-strategy/demandbase/-/blob/master/issue_templates/Demandbase_Campaign_Request.md)
+
+#### Demandbase Campaign Best Practices
+{: #demandbase-campaign-best-practices}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+##### Campaign Run Time
+{: #best-practices-run-time}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+- Event promotion: 1 month minimum
+- Target account penetration: 2-3 months minimum
+- Longer advertising campaigns that span the full funnel can help build awareness and create more engagement. The result is a higher number of accounts that go into the pipeline with a higher average booking value.
+
+##### Budget
+{: #best-practices-budget}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Demandbase has an [advertising calculator](https://www.demandbase.com/resources/advertising-calculator/) you can use to estimate budget based on your goals for the campaign.
+
+You can also budget based on the funnel stage of your account list. 
+
+| Objective | Budget | Creative/Copy | KPI |
+| ------ | ------ | ------ | ------ |
+| Top-of-funnel & new market entry | $15–$35 per account | Broad value proposition | Accounts reached, visited & funnel stage progression|
+| Generation, Acceleration, Improve close rates, Improve average contract value (ACV) | $35–$75 per account | Tailored value proposition & CTA | Engaged accounts & opportunity generation|
+| Customer expansion & retention | $15-$25 per account | product messsaging & case studies | new opportunities, new/increased engagement |
+
+### Display Ad Specs
+{: #display-ad-specs}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+The sizes needed for your ads if you want to launch via Demandbase. 
+- 728x90
+- 300x250
+- 160x600
+- 300x600
+- 970x250
+- 320x50
+- 300x50
 
 ### Demandbase Campaign Metrics
 {: #demandbase-metrics}
@@ -318,111 +359,6 @@ Budget pacing is spread out based on campaign duration, but can rise or dip base
     - **Opportunity:** The total number of accounts with at least one new CRM opportunity created during the campaign(s)
     - **Won:** The total number of accounts with at least one CRM opportunity that has progressed to Closed/Won during the campaign(s)
 
-### Display Ad Specs
-{: #display-ad-specs}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-- 728x90
-- 300x250
-- 160x600
-- 300x600
-- 970x250
-- 320x50
-- 300x50
-
-### Display Ad Copy
-{: #display-ad-copy}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-- **Top of funnel:** Use a broad value proposition to increase awareness and education, assert your brand value and why prospects should care.
-- **Middle of funnel:** Include a tailored value proposition, provide practical how-to content, best practices, and tips and tricks.
-- **Bottom of funnel:** Reinforce the value proposition, go into further detail about your offerings with case studies, ROI calculators, and product and solution content.
-- **All stages:** Keep it simple and have a clear CTA.
-
-#### Demandbase Campaign Best Practices
-{: #demandbase-campaign-best-practices}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-Below are best practices for run time, budget, and audiences.
-
-##### Campaign Run Time
-{: #best-practices-run-time}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-- Event promotion: 1 month minimum
-- Target account penetration: 2-3 months minimum
-- Longer advertising campaigns that span the full funnel can help build awareness and create more engagement. The result is a higher number of accounts that go into the pipeline with a higher average booking value.
-
-##### Budget
-{: #best-practices-budget}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Demandbase has an [advertising calculator](https://www.demandbase.com/resources/advertising-calculator/) you can use to estimate budget based on your goals for the campaign.
-
-##### Audiences
-{: #best-practices-audiences}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-You can segment by stage in the buyer’s journey, company size, industry, etc. The core message for each of these groups is different, therefore they shouldn’t receive the same ad creative. Segment audiences into High, Medium, and Low intent based on intent data results.
-
-| Objective | Budget | Creative/Copy | KPI |
-| ------ | ------ | ------ | ------ |
-| Top-of-funnel & new market entry | $15–$35 | Broad value proposition | Accounts reached, visited & funnel stage progression|
-| Generation, Acceleration, Improve close rates, Improve average contract value (ACV) | $35–$75 | Tailored value proposition & CTA | Engaged accounts & opportunity generation|
-| Customer expansion & retention | $15-$25 | product messsaging & case studies | new opportunities, new/increased engagement |
-
-### Demandbase Campaigns for Field Marketing Promotions
-{: #demandbase-campaigns-field-marketing}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Our Field Marketing team uses Demandbase to heat up (either continuing to build brand awareness or starting to build that essential awareness) accounts on our Large & MM focus list and to drive specific registrations to our programs.
-
-To use Demandbase solely for event promotion can increase brand lift for accounts, but it won't match the volume of registrations paid social can generate. Due to registration inefficiencies by using Demandbase only for promotions, we recommend using Demandbase to support & enhance account lead gen tactics (paid social, email, etc) with brand awareness, and gather account activity data to measure account penetration. We recommend either running Demandbase in conjunction with lead gen tactics, or running standalone ongoing Demandbase campaigns to warm up audiences before targeting the same audience with lead gen ads for events. Both recommendations allow us to continuously gather data in order to form smarter campaigns down the line.
-
-We suggest using ABM Analytics & Account Stage reporting to show account engagement & influence. Although brand lift can be difficult to measure, you can see how accounts advanced through the funnel during Demandbase Display campaigns. For Field Marketers, ongoing training can help this team utilize Demandbase in order to parse account data & help with regional strategy.
-
-## Analytics
-{: #demandbase-analytics .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-### Demandbase ABM Analytics
-{: #abm-analytics}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-[ABM Analytics](https://support.demandbase.com/hc/en-us/articles/360005054311-ABM-Analytics-Overview) is a native analytics tool within the Demandbase platform. It gives you insight into how your target accounts are performing across your full marketing funnel from engagement to conversion to closed won.
-
-**Helpful Resources:**
-- [Working with the ABM Analytics Dashboard](https://support.demandbase.com/hc/en-us/articles/360005054311-ABM-Analytics-Overview#h_5966557921550945944419)
-- [Steps for using ABM Analytics](https://support.demandbase.com/hc/en-us/articles/360005054311-ABM-Analytics-Overview#h_578082746371550945977821)
-
-### Opportunity Reports Manager
-{: #opporutnity-reports-manager}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-The [Opportunity Reports Manager](https://support.demandbase.com/hc/en-us/articles/360036023532-Working-with-Opportunity-Reports-Manager) allows you to customize which opportunities are used in your reports and analytics within ABM Analytics. To date, you can only filter/segment by opportunity stage/type/status.
-
-Our Demandbase instance already has a report for each opportunity stage. This lets you select an audience (list of accounts) and filter it by opportunity stage.
-
-**How to filter using the Opportunity Reports feature:**
-1. Create an audience or leverage one of the audiences already in our DB instance that has all of the accounts you want to see.
-1. In DB, navigate to the 'ABM Analytics' tab.
-1. Select the audience you want to see the data for from the 'primary audience' dropdown.
-1. To narrow the audience by opp stage, check the box 'Filter results by Opportunity Report' and select the opp stage from the dropdown.
-
-
-### Demandbase Site Analytics
-{: #site-analytics}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Demandbase Site Analytics gives you website analytics with an account-based lens so you can better evaluate website performance and personalize marketing efforts to them.
-
-#### Ways you can use Demandbase Site Analytics
-{: #site-analytics-use-cases}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-- Create and target specific audiences with relevant content
-- Gain insights on which site content and web pages are most valued by visitors from your target accounts
-- Use UTM and URL parameters to track channel and campaign performance over time
-- Build campaigns around specific levels of website activity
-- Drive registration for upcoming events: discover who has visited your event pages, but has not registered for an event.
-   - [4 min video](https://www.youtube.com/watch?v=4JaoI2MlJ_s) on how GitLab Field Marketers should be using Site Analytics to help drive registrations. 
-   - Note: this video is private to GitLab team members only, as we are showing real data in our SFDC instance.
-
-#### How to use Site Analytics
-{: #site-analytics-how-to}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Steps for using Site Analytics as well as building an audience from Site Analytics can be found [here](https://support.demandbase.com/hc/en-us/articles/360039832352-Working-with-Site-Analytics#h_8ef9f39f-0bca-4f8e-babe-01225c1abee1)
 
 ## Demandbase Integrations
 {: #demandbase-integrations .gitlab-purple}
@@ -432,23 +368,12 @@ Steps for using Site Analytics as well as building an audience from Site Analyti
 {: #demandbase-salesforce}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-To be added
+Demandbase is a direct reflection of Salesforce. Any lead, contact, or opportunity in Salesforce will be in Demandbase. Demandbase does not create or have any different leads/contacts than Salesforce aside from the ability to see what actions anonymous visitors are taking if they are associated with an account. As they are anonymous, we have no information for them other than their activity so we cannot target them etc. 
 
 ## Demandbase & Marketo
 {: #demandbase-marketo}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 There is an integration between DemandBase and Marketo that allows marketers to push people lists from DemandBase to Marketo for targeting. For instructions on how to do this, go to the [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs#pushing-demandbase-lists-to-marketo).
-
-## Running campaigns in Demandbase
-{: #demandbase-campaign-process}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-The ABM team is responsible for executing and managing any campaign in Demandbase. As part of the campaign request process, you need to have a media order signed for the campaign budget. See [Finance and Account Processes]() based on your role.
-
-
-### DemandGen & Corporate Marketing
-{: #campaigns-use-cases}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-In order to run a Demandbase campaign, a [finance issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new) for the media order needs to be opened. It is the responsibility of the campaign owner to open the finance issue and tag the Demandbase team in order to get this process started. The DB team will then request the media order contract and add it to the finance issue for the campaign owner to get approvals and signature per our usual [procurement approvals process](https://about.gitlab.com/handbook/finance/authorization-matrix/).
 
 ## Field Marketing Use Cases within DB1
 {: #field-marketing-use-cases .gitlab-purple}
@@ -538,7 +463,7 @@ Each organization mentioned above has its own SLA’s that are factored into the
 
 Direct Mail campaigns are executed primarily between Field Marketing and SDRs. Before deciding to run a direct mail campaign, it is highly recommended that you evaluate your Demandbase data for trends / patterns to determine if you are going to execute a targeted campaign. Example: your data is showing you that your competition is Jenkins so you run a Jenkins direct mail campaign. Or your data is showing you that your accounts are searching for security so you run a security direct mail campaign.
 
-Once you’ve decided to move forward with a direct mail campaign, you will need to create an [Account List](/handbook/marketing/account-based-marketing/demandbase/#account-lists) in Demandbase. You will use it to understand which accounts are interested/potential targets and/or who to advertise your event/tactic towards. You will need this list in order to drill down into a Persons List. Create the Account List 60 days prior to the campaign launch date. Templates for selectors can be found below. Why is your account list important? This data will show you which accounts you need to target and this will also be the list you refer to for ad promotions.
+Once you’ve decided to move forward with a direct mail campaign, you will need to create an [Account List](/handbook/marketing/account-based-marketing/demandbase/#demandbase-lists) in Demandbase. You will use it to understand which accounts are interested/potential targets and/or who to advertise your event/tactic towards. You will need this list in order to drill down into a Persons List. Create the Account List 60 days prior to the campaign launch date. Templates for selectors can be found below. Why is your account list important? This data will show you which accounts you need to target and this will also be the list you refer to for ad promotions.
 
 Next you build a Persons List in Demandbase. This will allow you to dive deeper into your account lists on an individual level and/or search for individuals to build a targeted list. You can reference your Account List to assist in building your Persons List. Allow for 60 days prior to the campaign launch date. Templates for selectors can be found below. Why is your persons list important? This data will show you which individuals from your account list are of interest; deeper understanding as to who you should be targeting. This will also be the list you refer to for email invitations.
 
@@ -553,13 +478,11 @@ Once you've completed your Demandbase account list/ persons list and filled out 
 Selectors:
 
 - GTM Strategy = Enter whichever list(s) you wish to use
-- Sales Segment = Enter the segment(s) you wish to target
-- Region = Enter the region(s) you wish to target
-- _(Optional)_ Region/Sub Region = If you want to drill down into sub region, you may also use this selector
+- Account Demographics: Sales Segment = Enter the segment(s) you wish to target
+- Account Demographics: Geo = Enter the region(s) you wish to target
+- _(Optional)_ Account Demographics: Region = Enter the sub-region(s) you wish to target
 - Trending Intent = (Insert keyword(s)) & engagement in the last 3 months
 - Accounts with Any Activity = Member of SFDC Campaign _Paste SFDC Campaign here_ and Campaign Type _Exists_
-
-[Template](https://web.demandbase.com/o/d/a/l/260441/l) - Template is a cloned version of the [Security Direct Mailer Campaign Account List](https://web.demandbase.com/o/d/a/l/260315/l/). View the Details panel for more information (issue, SFDC Campaign, etc).
 
 #### Persons List
 
@@ -571,85 +494,10 @@ Selectors:
 - Compliance Segment Value not equal to NULL or empty, Default, Do Not Email
 - People with Any Activity: Drills down to activity date of which you'll have a drop down menu of how you'd like to segment the list. Example: People with Any Activity --> Activity Date In the Past 1 Month
 - Account Rank = List out the account ranks you wish to work with. You can select multiple ranks if you'd like
+- If you will be pushing this list to Marketo, you will also need the fields listed [here](/handbook/marketing/marketing-operations/campaigns-and-programs#pushing-demandbase-lists-to-marketo).
 
 [Template](https://web.demandbase.com/o/d/p/l/260442/s) - Template is a cloned version of the Security Direct Mailer Campaign Persons List. View the Details panel for more information (issue, SFDC Campaign, etc).
 
 #### Campaign recap report
 
-Today within SFDC we can only see what GTM Segment our contacts belong to. With the addition of DB1 to our tool stack, we can see which GTM Strategy both leads and contacts belong to. It is recommended that you build a [Campaign Performance report](https://web.demandbase.com/o/al/4/r/f/13/rd/1005/pm) to understand which GTM Strategy each attendee belongs to.
-
-### Cross Functional Collaboration
-
-There are a number of teams working together to make a direct mail campaign a success:
-
-- FMM - (DRI) Overall Organization/Orchestration
-- FMC - Scheduling/smart sheets (access codes)
-- SDR Leadership - Strategy / assigns SDR DRI
-- SDR’s - Outreach execution
-- SAL’s (Optional) - Option to add in additional leads/contacts into the campaign in addition to DB1 list / insight from SAL’s knowledge of accounts
-- ABM - If assistance is needed in DB1, ping #demandbase-one channel
-
-## GitLab Connect
-
-### Tactic Overview/Timeline for Execution:
-
-GitLab Connects are (virtual) half day regional events with both customers and prospects in attendance sharing stories & lessons learned about GitLab. This is an event where customer speakers will lead the discussion. FMM will strategize with the regional sales team to create the most optimal target audience for the event.
-
-There is a 60 day SLA for Connects. This 60 day period will set the FMM to properly create strategic target lists and prepare ads for each event. Field Marketing will evaluate Demandbase data to determine which accounts and people should be targeted for the event. Understanding interest, patterns of behavior and trends of both account centric and expand accounts. FMM will then create an account list and a people list in Demandbase.
-
-How to create an account list: Thinking about the region you are targeting, choose the appropriate selectors to provide the most strategic account pull for your event.
-
-### DB1 Templates for Account List & Persons List
-
-#### Account List
-
-**Selectors:**
-
-- GTM Strategy = Enter whichever list(s) you wish to use
-- Sales Segment = Enter the segment(s) you wish to target
-- Region = Enter the region(s) you wish to target
-- Account Owner = Regions are attached to individual SALs, choose the SALs for the target regions
-- Accounts with Any Activity = Member of SFDC Campaign _Paste SFDC Campaign here_ and Campaign Type _Exists_
-- Journey Stage = Aware, Marketing Qualified Account, Engaged, Customer, SAO
-- Trending Intent = Your Connect may have a high focus to specific content ie. security. If so(Insert keyword(s)) & engagement in the last 3 months
-
-DB1 Templates for Account List Example - [(FM)LATAM Regional Gitlab Connect](https://web.demandbase.com/o/d/a/l/260339/s)
-
-#### Persons List
-
-Next you will need to build a Persons List:
-
-How to build the Persons List: Use the account list you just created, then add specific selectors to your intended audience. Once your list has been created and submitted to Marketo for send you will be able to identify them in Salesforce.
-
-**Selectors:**
-
-- Member of List = Enter the Account list(s) you just created
-- Compliance Segment Value not equal to NULL or empty, Default, Do Not Email
-- Title Does Not Contain = Student, Finance, Human Resources, Self, Owner
-- Account Rank Contains Rank 1, Rank 1.5, Rank 2, Rank 3
-
-Example: [(FM)People List - LATAM Regional GitLab Connect](https://web.demandbase.com/o/d/p/l/260340/s)
-
-#### Campaign recap report
-
-Today within SFDC we can only see what GTM Segment our contacts belong to. With the addition of DB1 to our tool stack, we can see which GTM Strategy both leads and contacts belong to. It is recommended that you build a [Campaign Performance report](https://web.demandbase.com/o/al/4/r/f/13/rd/1005/pm) to understand which GTM Strategy each attendee belongs to.
-
-#### Steps for Cross Functional Collaboration
-
-FMMs should be filling out the [SDR request template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=ISR_SDR_FMTemplate) to seek activation from the SDR team.
-
-SDR’s should be using the “Sales Nomination” process to add people to the campaign. These nominations should be a collaboration with the SDRs and their SALs.
-
-Collaboration is everything. Be sure you are leveraging the other GitLab support teams for a GitLab Connect. Remember that each team has their own SLA for workload.
-
-- SALs & ASMs - Should be part of the process from beginning to end. They should host their accounts for the events
-- Customer Success - Customer Speaker Outreach and Presentation Review
-- Digital Marketing - Ad Asset Creation & Ad Purchase
-- PMM’s (If Necessary)
-- FMC - Scheduling
-- FMM - Additional support if needed
-- SDRs- Outreach and Follow Up
-
-### How to push a Person list to Marketo
-
-[Details are listed in the Mktg Ops Handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#pushing-demandbase-lists-to-marketo).
+Today within SFDC we can only see what GTM Segment our contacts belong to. With the addition of DB1 to our tool stack, we can see which GTM Strategy both leads and contacts belong to. It is recommended that you build a Campaign Performance report to understand which GTM Strategy each attendee belongs to. Example [here](https://web.demandbase.com/o/al/4/r/f/13/rd/1005/s).
