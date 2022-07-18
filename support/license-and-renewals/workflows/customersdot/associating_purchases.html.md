@@ -81,7 +81,7 @@ In order to change the subscription management contact, we should ask for the sa
 |:---------------------------------------------------------|:----:|:-----|
 | Transfer the subscription management to the `new email`                                           | Yes      | Copy the `Zuora ID` and `Salesforce Account ID` from the existing account to the new account on CustomersDot, uncheck the `Login activated` checkbox for **Reseller** customers, and select `Save`. |
 | Stop managing subscription on the `existing email`                                                | Yes      | Remove the `Zuora ID` and `Salesforce Account ID` from the existing account on CustomersDot and select `Save`. If `No`, do not update the existing account. |
-| Also change future renewal related email to the `new email` or keep it to the `existing email`    | Yes      | Pass to Billing team by following the [Zuora Contact Change Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#zuora-contact-change) |
+| Change the contact for future renewal related emails   | Yes      | Pass to Billing team by following the [Zuora Contact Change Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#zuora-contact-change). This process may be applicable to the previous cases in the table after those changes are actioned. |
 
 **Note:** For any situation where an account with the new contact's email does not exist on CustomersDot,
 update the `Names` and `Email` of the account and trigger a [password reset](https://customers.gitlab.com/customers/password/new)
