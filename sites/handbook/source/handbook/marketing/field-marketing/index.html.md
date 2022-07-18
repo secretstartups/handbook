@@ -580,9 +580,9 @@ For sticker orders, please utilize our [Stickermule](https://www.stickermule.com
 
 In order to stay environmentally-friendly, we generally do not provide large quantities of print collateral at events. However, if you do need printouts or gift bag stuffers for events, we utilize [Vistaprint](https://www.vistaprint.com/). Please log in using the Marketing 1pass. Another option in lieu of hundreds of printed handouts is to have a handful of printed and laminated pieces of collateral to utilize for visual reference while speaking with customers at an event. Additionally, you can create a [QR Code](/handbook/marketing/events/#field-marketing-qr-codes-for-events) to display at your event with that same piece of content for customers to download to their own devices.
 
-### Swag for Non-Field Marketing Teams
-
-If you are looking to order swag or event assets for a non-Field Marketing event or would like to order swag for a customer, please reach out to the Brand team directly on Slack at `#brand-activation`.
+### Requesting New Swag in AMER
+ 
+If you are interested in ordering new swag, please open a [Swag Request Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Swag_Request_Template) and assign `@krogel`. If you believe the swag item is something the entire AMER team would be interested in utilizing, you can add an item to our weekly team agenda or send a message in the `#amerfmteamctf` Slack channel to check and see if any other FMMs would be interested in also ordering the item and splitting the cost. If splitting the cost between regions, please remember to utilize the `ALL AMER` plan in Allocadia for [budgeting](/handbook/marketing/field-marketing/#the-field-marketing-budget) and to indicate which regions are sharing the cost in the Swag Request Issue.
 
 ## EMEA Field Marketing Swag
 
@@ -607,6 +607,10 @@ Delivery options and timelines are provided during the ordering process. Any new
     - Date (timeline when shipping can arrive)
     - Swag items required and Quantities
 - **Return Event Material from event locations to warehouse**: FMC will coordinate with Ten&One the return of all banners, table cloths, back walls, counter top, iPads (not SWAG) back to Ten&One Address: Agentur, Meyerbeerstraße 12, 81247 München, Germany, Phone: +49 89 2554190
+
+## Swag for Non-Field Marketing Teams
+
+If you are looking to order swag or event assets for a non-Field Marketing event or would like to order swag for a customer, please reach out to the Brand team directly on Slack at `#brand-activation`.
 
 # Field Marketing Fedex Account
 
