@@ -660,6 +660,8 @@ Approvals for this deal strucutre will follow the [standard approval matrix](htt
 
 Deal Desk will work closely with Sales, Legal, and Revenue to ensure all booking requirements are met. Please work directly with Deal Desk to structure this deal accurately. Please tag sales support early in the deal negotiation. 
 
+If the customer needs parallel access for 1 month only that can be managed through a trial license via Support Team.
+
 #### Multi-Year Deals
 
 In the case of multi-year deals, the Initial Term should be updated to reflect the number of months in the subscription term - 24, 36, 48, 60, etc. 
@@ -706,12 +708,9 @@ Occasionally, changes will be made to a Custom SOW after an opportunity has been
 
 #### Creating Decomission Opportunties
 
-Deal Desk will create Decommission (refund) opportunities for all Sales Assisted Orders. The Billing team will create Decommission (refund) opportunities for all Web Portal purchases. The creation process is the same for both Deal Desk and Billing. 
+Deal Desk will create Decommission (refund) opportunities for all Orders: Sales Assisted and Web Direct Orders. All refund requests should be sent to AR Team at AR@gitlab.com and once approved AR Team will tag Sales Support (Deal Desk) to create refund opportunity that will be fully processed by Billing Ops Team in Zuora after.
 
-To create the decommission opportunity, navigate to the related Closed-Won Opportunity. Click 'Create Refund Opportunity'. Navigate to the opportunities tab under the Account page. Click on the newly created decommission opp, it will have 'REFUND' in the opportuntiy name. On the opportunity level, double check all fields populated as expected. For some multi-year deals, or partial refunds, 'Amount' may need to be updated manually. 
-
-**Deal Desk** - After confirming all fields are correct on a Sales Assisted decommission, submit the opp for approval. 
-**Billing** - After confirming all the fields are correct on a Web Portal Purchase, manually change the 'Stage' to 'Closed-Won'. 
+ 
 
 #### Payment Schedule
 
@@ -723,7 +722,52 @@ To create the decommission opportunity, navigate to the related Closed-Won Oppor
 *  The Opportunity Close Date for the Amended SOW should be manually updated to match the original Closed-Won opportunity.
 
 
-### Miscellaneous (But Important) Information related to Quotes
+In FY22, multi year deals for recurring subscription products, paid annually, will be captured on one opportunity. 
+
+**Opportunity Structure**
+
+* Invoice Only Opp type should be New Business
+* Each individual opportunity will require a quote object that is equal to the amount being invoiced
+* All products, dates, and contacts should match the original opp / quote
+* Build Invoice Only quote objects as a "New Subscription" quotes
+
+**Invoice Amounts** 
+
+If all payments associated with the opportunity are equal (ex. 3 payments of $10,000) the quote on the original opporunity must reflect the entire opportunity term. 
+
+**Ex.** 
+
+3 Year Subscription worth $30,000, broken out into 3 equal annual payments of $10,000. 
+* Only 1 Opp and 1 Primary Opp Quote - 3 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 36. 
+
+
+If the payment amounts or user count per year are not identical, (ex. Year 1 - $15,000 Year 2 - $10,000, Year 3 $5,000)- 3 opportunities should be created, each one with primary opp quote. The original opporunity quote should only reflect the first year (invoice period) of the subscription, the full opportunity term and amount (36 months and subtotal of 3 years). Second and Third Opportunity should have quote object created (12 months term each) but the amount will be updated to 0, only correct NetARR reflected.
+
+**Ex.** 
+
+3 Year Subscription worth $30,000, broken out into 3 payments. Year 1 - $10,000, Year 2 - $7,000, Year 3 $13,000
+* First year Opp Quote - 1 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 12. The opportunity should reflect 36 months term and subtotal of 3 years.
+* Second Year Opp Quote - 1 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 12. The opportunity should reflect 12 months term and amount = 0. Only correct NetARR should be populated.
+* Third Year Opp Quote - 1 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 12. The opportunity should reflect 12 months term and amount = 0. Only correct NetARR should be populated.
+
+**Ex.** Professional Services Deal -Opportunity amount $300,000. 4 Deliverables are outlined in the Custom SOW to the customer, each deliverable includes a different date for delivery. This requires 4 opportunities because the customer will be invoiced after completion of each deliverable.
+
+
+*  Opp 1 (Original Opportunity) - First Deliverable - $50k in services
+*  Opp 2 (Cloned from Original) - Second Deliverable -$50k in services
+*  Opp 3 (Cloned from Original) - Third Deliverable - $100k in services
+*  Opp 4 (Clone from Original) - Fourth Deliverable - $100k in services
+
+To create opportunities requiring multiple invoices: 
+
+*  Clone the original forecasted opportunity
+*  Update the opportunity name to include “Deliverable # and the Date of delivery. The close date should be the same for all opportunities (if SOW and Cost Estimate was received on 1/1/2020, all opportunities should show 1/1/2020 as the close date even if it will be invoiced in a future period).
+*  Create a quote reflecting the value of the Deliverable. Build out each quote using the same SKU and discount (if applicable). The start date should match the delivery date outlined in the SOW.
+*  The quote should follow the standard quote creation process (link to quote building process). Set the quote as primary. Repeat for all opportunities. The sum amount of all opportunities should equal the total amount for the SOW.
+*  Attach the signed SOW and Cost Estimate link to **each opportunity.**
+*  Submit the Opportunity for Deal Desk/Billing approval. The Billing team will flag each deliverable opportunity for future invoice periods.
+
+Note: The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments" or "Custom Payment Schedule," whichever applies.
 
 A.  **To add users to an existing license at a different price**, please add the users on a new, separate product line.
 
