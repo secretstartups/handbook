@@ -397,7 +397,7 @@ In FY21-Q1, GitLab suspended the Visiting Grant program until further notice. Du
 
 #### FY23-Q3 Visiting Grant Program
 
-We canceled Contribute FY23-Q3 due to the COVID risk to team members in having a large, global event in an indoor facility in the middle of summer. Contribute’s purpose was to “get [team members] together to interact with one another and cultivate our community.” Introducing FY23-Q3 Visiting Grants is a way to capture the spirit of this by  providing team members with another opportunity to spend time together within FY23-Q3 (2022-08-01 to 2022-10-31).
+We canceled Contribute FY23-Q3 due to the COVID risk to team members in having a large, global event in an indoor facility in the middle of summer. Contribute’s purpose was to “get [team members] together to interact with one another and cultivate our community.” Introducing FY23-Q3 Visiting Grants is a way to capture the spirit of this by providing team members with another opportunity to spend time together within FY23-Q3 (2022-08-01 to 2022-10-31).
 
 While the FY23-Q3 Visiting Grant Program shares a lot in common with the previous Visiting Grants Program, it varies in a few key ways:
 
