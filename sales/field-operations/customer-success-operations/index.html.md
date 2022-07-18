@@ -62,7 +62,7 @@ Customer Success Operations provides support, content, and data analysis for all
 
 The CS Ops team uses issues and issue boards to track our projects and tasks. If you need help with a project, please open an issue and add the ~CSOps label anywhere within the GitLab repo.
 
-CS Operations uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/boards/1498673?label_name[]=CSOps) to capture and track issues in any group or sub-group in the repo.
+CS Operations uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/boards/3156857?label_name[]=CSOps) to capture and track issues in any group or sub-group in the repo.
 
 ### Groups
 
