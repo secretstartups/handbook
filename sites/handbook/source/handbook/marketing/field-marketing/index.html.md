@@ -578,11 +578,11 @@ For sticker orders, please utilize our [Stickermule](https://www.stickermule.com
 
 ### Print Collateral
 
-In order to stay environmentally-friendly, we generally do not provide large quantities of print collateral at events. However, if you do need printouts or gift bag stuffers for events, we utilize [Vistaprint](https://www.vistaprint.com/). Please log in using the Marketing 1pass. Another option in lieu of hundreds of printed handouts is to have a handful of printed and laminated pieces of collateral to utilize for visual reference while speaking with customers at an event. Additionally, you can create a [QR Code]() `Add new QR code info once merged` to display at your event with that same piece of content for customers to download to their own devices.
+In order to stay environmentally-friendly, we generally do not provide large quantities of print collateral at events. However, if you do need printouts or gift bag stuffers for events, we utilize [Vistaprint](https://www.vistaprint.com/). Please log in using the Marketing 1pass. Another option in lieu of hundreds of printed handouts is to have a handful of printed and laminated pieces of collateral to utilize for visual reference while speaking with customers at an event. Additionally, you can create a [QR Code](/handbook/marketing/events/#field-marketing-qr-codes-for-events) to display at your event with that same piece of content for customers to download to their own devices.
 
 ### Swag for Non-Field Marketing Teams
 
-If you are looking to order swag or event assets for a non-Field Marketing event or would like to order swag for a customer, please visit the GitLab swag handbook page `here` for instructions `(COMING SOON)`.
+If you are looking to order swag or event assets for a non-Field Marketing event or would like to order swag for a customer, please reach out to the Brand team directly on Slack at `#brand-activation`.
 
 ## EMEA Field Marketing Swag
 
@@ -1235,6 +1235,10 @@ Field Marketing manages its budget in [Allocadia](/handbook/marketing/strategy-p
 1. As it relates to procurement issues being approved, it is essential that the contract details are submitted with the procurement issue, that way the approver is clear about what they are signing off on.
     - We aim for an MQL to not cost us more than $500, should a contract be submitted that is over the $500 goal, there needs to be a documented reason + path to success shown in the procurement issue. It is the responsibility of the FMM Country Manager to ensure this documentation is listed in the procurement issue before the issue is sent on to further leadership to review/approve. For C-level and other campaign where we target decision makers, the customer journey needs to be documented and we acknowledge that the MQL might be higher.
 1. Working through our Partner Marketing organization, Field Marketing can submit activities that can be considered for market development funds (MDF). In doing this, the entire amount of the activity needs to be budgeted for in the Field Marketing budget. We do this because the percentage covered by the channel partner will come through our revenue account, not our prepaid account and the transactions need to be kept separate. This also may mean you are over budget. If that is the case, then you will need to add a comment in the budget document and also clearly share this with your manager so that your manager may communicate this with Finance and Accounting in our monthly review meetings.
+
+## Customer Speaker Gifts
+
+Please note that there is a limit of $75 USD annually per person on customer speaker gifts.
 
 # Field Marketing and Legal 
 
