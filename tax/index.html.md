@@ -115,6 +115,9 @@ To monitor developments and keeping stakeholders informed, weekly cross-function
 4. The 2022 schedule of subsidiary board meetings is as follows:
 
 *   2022-01-6   
+*   2022-06-16
+*   2022-10-07
+*   2022-12-08
 
 The corporate secretary for each subsidiary board shall ensure that there are separate calendar invites for all attendees within each session, all including exact session start and end times, the appropriate Zoom link, and links to the notes doc, agenda and any supplemental materials:
 
