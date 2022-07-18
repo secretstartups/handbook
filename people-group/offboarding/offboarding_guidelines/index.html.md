@@ -25,10 +25,10 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 # GitLab Offboarding Guidelines
 
 ## Purpose
-These guidelines specifies requirements related to the offboarding of GitLab team members from all GitLab related computing resources and data assets so as to protect our customers, team members, contractors, company, and other partners from harm caused by both deliberate and inadvertent misuse. Our intention in publishing these guidelines is to outline information security guidelines intended to protect GitLab assets.
+These guidelines specify requirements related to the offboarding of GitLab team members from all GitLab related computing resources and data assets so as to protect our customers, team members, contractors, company, and other partners from harm caused by both deliberate and inadvertent misuse. Our intention in publishing these guidelines is to outline information security guidelines intended to protect GitLab assets.
 
 ## Scope
-These guidelines applies to all GitLab team-members, contractors, advisors, and contracted parties interacting with GitLab computing resources and accessing company or customer data.
+These guidelines apply to all GitLab team-members, contractors, advisors, and contracted parties interacting with GitLab computing resources and accessing company or customer data.
 
 ## Roles & Responsibilities:
 
@@ -40,43 +40,39 @@ These guidelines applies to all GitLab team-members, contractors, advisors, and 
 
 ## Offboarding Procedure
 
-The [People Experience Associate](/job-families/people-ops/people-experience-associate/) in the relevant [rotation](/handbook/people-group/people-experience-team/#weeklyrotation) will assign the offboarding team member to a People Experience Associate from within the offboarding [tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=989170380). Once assigned, the assigned People Experience Associate creates the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment/-/blob/master/.gitlab/issue_templates/offboarding.md), within 12 hours of the offboarding date (may be sooner once the relevant Associate in the rotation is online) as is stipulated in the #offboarding Slack channel submitted by the People Business Partner. Many other teams work to deprovision access including the ITOps team, this should be regarded as urgent and expected to be completed in 5 working days with the exception of [Laptop returns](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#returning-oldoffboarded-laptops), which can take 2 - 4 weeks.
-
 ### Notice of Offboarding
 
-The offboarding process kicks off once the People Business Partner completes the [Offboarding Workflow Form](https://docs.google.com/forms/d/e/1FAIpQLScBBnV7bKKVkqfTk9Aq9sfSB_r85SKTxt0_mC6RhbRwU3DtSA/viewform), which is also included in the `#offboardings` Slack channel. This workflow should include information around the offboarding type, the exact date on which it will be effective i.e. immediate or future dated and whether or not the team member in question will be placed on Garden Leave.  The team members status should immediately be updated in BambooHR to either `Notice Period` or `Garden Leave` where applicable, and thereafter set for termination using the data in the tracker as per this [process](https://about.gitlab.com/handbook/people-group/offboarding/offboarding_guidelines/#updating-bamboohr). `Notice Period` is defined as the period of work after someone has voluntarily resigned from GitLab. `Garden Leave` can be found with additional details in the [handbook](https://about.gitlab.com/handbook/people-group/offboarding/#leave-of-absence-or-garden-leave) and will be confirmed by the People Business Partner.
+Once the termination process has been approved and completed in Workday either by the departing team members [Direct Manager](https://docs.google.com/document/d/1Fr1G1i1kssfADgDf3D6LbZHR8RZmWKZYDNV8AfduZ1c/edit) (Voluntary) or by [Team Member Relations](https://docs.google.com/document/d/1nMokz03AiUQtb0XV5zpD9CjaQKcX5Lu8p5ASZy3cJVA/edit) (Involuntary) either a People Connect (Voluntary) or Team Member Relations (Involuntary) team member will submit an [Offboarding Workflow Form](https://docs.google.com/forms/d/e/1FAIpQLScBBnV7bKKVkqfTk9Aq9sfSB_r85SKTxt0_mC6RhbRwU3DtSA/viewform).  In the instance of a Voluntary Termination this process will follow the [resignation process](https://docs.google.com/document/d/1AVHHBKd6dtyn0DOl4_UydbdEhectLpH5aMh17r9Sg_4/edit) intiated by the team member directly in Workday.
 
-People Business Partners are encouraged to provide reasonable notice that an offboarding will be taking place to allow for adequate planning both on the part of the People Experience Team and the Tech Provisioners involved.
+This will populate the tracker through which various offboarding automations are triggered in addition to notifying IT Operations; Payroll and other Stakeholders of the team members temination particulars such as the effective date, information about garden leave if applicable and the time at which access to GitLab systems should be terminated in the #offboarding channel.
 
-In support of the People Experience Teams efforts to remain both compliant and efficient, offboardings which are scheduled will commence at 4PM in their regional timezone (EMEA, JAPAC, and NORAM) and 12pm in their regional timezone on Friday. at which point de-provisioning will commence - in instances where it may be tricky to have cut-off initiated at this time, we encourage team members or People Business Partners to advise the People Experiece team of an updated date and time.
+In alignment with the needs of both People Connect and IT Operations, offboardings will kick off at 16:00pm in the team members regional timezone (EMEA, JAPAC, and NORAM) and 12:00pm in their regional timezone on Friday at which point de-provisioning will commence.
 
-Should the offboarding fall on a day when the People Experience Team is [unavailable](https://about.gitlab.com/handbook/people-group/people-experience-team/), The People Experience Associate will create a private Slack channel with the team member's manager and team member and discuss offboarding options. 
+**Note:** In instances where team members require de-provisioning initiated at outside of those documented above they should reach out to People Connect via direct message or people-connect@gitlab.com to arrange an alternate time.
 
-### Updating BambooHR
-1. Click on the setting gear symbol in the right hand corner and set employee to terminated, which will prompt for the following information:
-   1. Effective Date
-   1. Employment Status
-   1. Termination Type
-   1. Termination Reason - Ensure the PBP gives you a reason listed within BambooHR
-   1. Eligible for Rehire
-1. Add exit impact below Employment Status table
-1. If the team member is within their probation period, delete the "End of Probation Period" and "Active" entries. The top entry in the Employment Status table should be the "Termination" entry.
+Should the effective date fall on a day which People Connect is unable to [support](https://about.gitlab.com/handbook/people-group/people-experience-team/) e.g. a Family and Friends Day or Global Holiday, People Connect will reach out to the People Business Partner to discuss alternate offboarding options. 
+
+### Offboarding Assignments
+
+Per the People Connect [Rotation](/handbook/people-group/people-experience-team/#weeklyrotation) the offboarding will be assigned directly in the [offboarding tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=989170380). 
 
 ### Creating the Offboarding Issue
 
-Offboarding issues are created [automatically](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#scheduled-offboarding-issue-creation) using the data from the People Exp / Ops Tracker which is provided by the People Business Partner when submitting the form. **It is essential that the date and time inserted in the tracker is accurate as this will be the time in which the employment bot will open the offboarding issue**
+Offboarding issues are created [automatically](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#scheduled-offboarding-issue-creation) using the data that is populated by the offboarding form. **It is essential that the date and time inserted in the tracker is accurate as this will be the time at which the employment bot will open the offboarding issue**
 
-The relevant People Experience Associate will be pinged in Slack once the offboarding issue is created, and automatically assign the People Experience Associate. The ping will include a link to the new offboarding issue.
+The assigned People Connect member will be automatically added to the list of assignees once the offboarding issue is created.
 
-Note: If the team member is transitioning to a [temporarily positioned contractor](/handbook/people-group/general-onboarding/consultants/), please proceed with the full offboarding and create a separate onboarding issue to grant only specific temporary access for what they would need to fulfill their contractual obligations.
+Many teams work to deprovision access including the IT Operations, this should be regarded as urgent and all tasks expected to be completed in 5 working days with the exception of [laptop returns](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#returning-oldoffboarded-laptops), which can take 2 - 4 weeks.
+
+Note: If the team member is temporarily transitioning to a [contractor or consultant role](/handbook/people-group/general-onboarding/consultants/), please proceed with the full offboarding process and create a separate onboarding issue to grant only specific temporary access for what they would need to fulfill their contractual obligations.
 
 #### Creating the Offboarding Issue Manually
 
-In the event that the offboarding issue is not automatically opened or an urgent issue is needed to be opened, the People Experience Associate can open the offboarding issue manually, by following the steps below:
+In the event that the offboarding issue is not automatically opened or an urgent issue is needed to be opened, the People Connect member can open the offboarding issue manually, by following the steps below:
 
-1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command `/pops run offboarding BambooHR_ID_number` (not Employee ID #). This number is found in the team member's BambooHR profile URL, after `id=`. It is a 5-digit number. An example of the command would be `/pops run offboarding 00000`. If BambooHR's API is down, this ChatOps command will fail and will need to be created manually.
+1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command `/pops run offboarding <EMPLOYEE_NUMBER>`.
 1. You will be pinged in Slack once the offboarding issue is created, which usually takes 30 seconds or so. The ping will include a link to the offboarding issue and merge request removing from team page.
-1. You will need to check the Department, GitLab Email Address and GitLab Handle within the issue is correct.
+1. You will need to check the Department, GitLab Email Address and GitLab Handle within the issue are correct.
 
 ### Offboarding Tools
 
@@ -143,6 +139,6 @@ To ensure a successful completion of the offboarding issue, it is important that
 Exceptions to this policy must be approved by PeopleOps.
 
 ## References
-* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
+* [Information Security Parent Policy](/handbook/engineering/security/)
 * [GitLab Offboarding](https://about.gitlab.com/handbook/people-group/offboarding/)
 * [GitLab Offboarding FAQ](https://about.gitlab.com/handbook/people-group/offboarding/faq.html)
