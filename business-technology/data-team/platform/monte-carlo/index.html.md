@@ -43,11 +43,11 @@ The whole body of work covering the Monte Carlo rollout at GitLab falls under ep
 
 ## Logging In
 
-At the moment, team members have been invited to create an account within our Monte Carlo instance, but ideally we would like to enable SSO. 
 
-Monte Carlo [supports SSO](https://docs.getmontecarlo.com/docs/setting-up-single-sign-on-sso), so we have started the process of integrating our Monte Carlo instance with Okta. 
-Once this work has been completed, team members will be able to access Monte Carlo directly via Okta. 
-More information under [Okta : Add Monte Carlo for SAML access](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/449). 
+Login to Monte Carlo is done via Okta. Go to https://getmontecarlo.com/signin . The following screen appears upon login and after providing your email and clicking "Sign in with SSO", you should be redirected to your Okta login. 
+
+![image](/uploads/5828f2b16849b86b6b02198506277027/image.png)
+
 
 ## Navigating the UI
 
