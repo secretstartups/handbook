@@ -10,6 +10,8 @@ By default, [trial licenses do not include support](https://about.gitlab.com/sup
 
 If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, as a member of the Sales team **you can grant request temporary support for their trial license**. Please note this is only available for 30 days. After that point, the account will be downgraded back to the standard levels for a trial/prospect, unless an extension request is filed and approved.
 
+Free access to support granted in this way is not for any customer who wants it, but for strategically important prospects for whom evaluation of support is part of their decision criteria. There may be many factors Sales leadership will consider in deciding which prospects are eligible. Generally, prospects with potential ARR of less than $100,000 may not be likely to be approved.
+
 - TOC
 {:toc .hidden-md .hidden-lg}
 
@@ -18,8 +20,7 @@ If you've been contacted by a prospect whose evaluation of GitLab includes evalu
 * Only 30 priority prospects can exist at any one time. The current reference
    sheet containing who is a priority prospect can be found (internal)
   [here](https://docs.google.com/spreadsheets/d/11p3aBj1LTr-ngk1wxoMlae-UvJ3bOTuQHd48so2ZcXU/edit?usp=sharing)
-* The opportunity must have an ARR of at least $100,000
-* A regional sales manager must approve a request to create or extend a priority
+* An area sales manager must approve a request to create or extend a priority
   prospect
 * No more than 2 extensions can be done for a priority prospect.
 
