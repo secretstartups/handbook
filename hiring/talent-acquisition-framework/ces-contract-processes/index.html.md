@@ -140,7 +140,7 @@ To change a start date after a **GitLab entity** contract has been signed and th
    - Save
 1. Update Entity Payroll Provider (Netherlands) of any changes to the start date via the email templates in Greenhouse.
 1. Update the People Experience Team in Slack Workflow.
-    - Open private Slack channel `#people-exp_ces`
+    - Open private Slack channel `#peopleops-alerts-private`
     - Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
     - Click "New Start Date        Workflow"
     - Fill in Team Member Name with the New Hire Name
@@ -175,7 +175,7 @@ To change a start date after a **PEO** contract has been signed and the new team
    - In the "Make a Note" section in Greenhouse state the old start date and the new state date
    - Save
 1. Update the People Experience Team in Slack Workflow.
-    - Open private Slack channel `#people-exp_ces`
+    - Open private Slack channel `#peopleops-alerts-private`
     - Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
     - Click "New Start Date        Workflow"
     - Fill in Team Member Name with the New Hire Name
