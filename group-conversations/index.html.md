@@ -321,21 +321,21 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday July 26 | **Available** |  | |
 | Wednesday July 27 | Product | Product Leadership | Key Review Date|
 | Thursday July 28 | Digital Experience | Michael Preuss | N/A |
-| Tuesday Aug 2 | Available | | Key Review Date? |
-| Wednesday Aug 3 | Available | | Key Review Date? |
-| Thursday Aug 4 | Available | | Key Review Date? |
-| Tuesday August 9 | People | People | July 27th |
+| Tuesday Aug 2 | EBA AMA | EBA's | N/A |
+| Wednesday Aug 3 | Marketing |  Ashley Kramer | N/A |
+| Thursday Aug 4 | Development | Christopher Lefelhocz | N/A |
+| Tuesday August 9 | People | People | July 27 |
 | Wednesday August 10 | Pet Friendly AMA | Robin Schulman | N/A|
-| Thursday August 11 | Available | | Key Review Date? |
-| Tuesday August 16 | Available | | Key Review Date? |
-| Wednesday August 17 | Available | | Key Review Date? |
-| Thursday August 18 | Available | | Key Review Date? |
-| Tuesday August 23 | Available | | Key Review Date? |
-| Wednesday August 24 | Available | | Key Review Date? |
+| Thursday August 11 | Infrastructure | Steve Loyd | August 3|
+| Tuesday August 16 | Support | Tom Cooney | August 3 |
+| Wednesday August 17 | Security | Johnathan Hunt | N/A |
+| Thursday August 18 | UX | Christie Lenneville | N/A |
+| Tuesday August 23 | Quality | Mek Stittri | August 3 |
+| Wednesday August 24 | **Available** | | Key Review Date? |
 | Thursday August 25 | People | People Leadership | August 18th |
-| Tuesday August 30 | Available | | Key Review Date? |
-| Wednesday August 31 | Available | | Key Review Date? |
-| Thursday September 1 | Available | | Key Review Date? |
+| Tuesday August 30 | Portfolio Marketing| Tye Davis | N/A |
+| Wednesday August 31 | Finance | Brian Robbins | August 23 |
+| Thursday September 1 | CRO | Ryan O'Nell | August 25 |
 | Tuesday September 6 | Available | | Key Review Date? |
 | Wednesday September 7 | Available | | Key Review Date? |
 | Thursday September 8 | Available | | Key Review Date? |
@@ -343,7 +343,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday September 14 | Available | | Key Review Date? |
 | Thursday September 15 | Available | | Key Review Date? |
 | Tuesday September 20 | Available | | Key Review Date? |
-| Wednesday September 21 | Available | | Key Review Date? |
+| Wednesday September 21 | General (CEO) | Sid Sijbrandij | N/A |
 | Thursday September 22 | Available | | Key Review Date? |
 | Tuesday September 27 | Available | | Key Review Date? |
 | Wednesday September 28 | Available | | Key Review Date? |
