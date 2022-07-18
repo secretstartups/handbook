@@ -81,7 +81,7 @@ See the [example epics](https://about.gitlab.com/handbook/people-group/engagemen
 - [Engineering](https://gitlab.com/groups/gitlab-com/-/epics/1887)
 - [Product](https://gitlab.com/groups/gitlab-com/-/epics/1883)
 - Sales
-- Marketing
+- [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3130)
 - Finance
 - People
 - Legal
