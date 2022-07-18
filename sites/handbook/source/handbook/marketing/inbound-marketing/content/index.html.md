@@ -58,7 +58,7 @@ You can view the [editorial calendar](https://calendar.google.com/calendar/u/0?c
 
 ## Goals & Key Deliverables
 
-Global Content supports GitLab's overall revenue growth and company goals, laddering to CMO OKRs each quartner.
+Global Content supports GitLab's overall revenue growth and company goals, laddering to CMO OKRs each quarter.
 
 - [Q1FY23 Global Content OKRs](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2672) [active]
 
