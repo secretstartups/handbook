@@ -573,6 +573,84 @@ How is the Opt-out rate calculated? Total Opt-outs divided by the number of emai
 Example: 5/950 = 0.5% Unsubscribe Rate.
 
 
+## Intelligent Nurture Reporting Process 
+{: #intelligent-nurture-metrics}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Intelligent Nurture Reporting Process
+
+All Nurtures within intelligent nurture have their link directly to their specific report.
+
+Which are formed as follows:
+
+**ENTERPRISE NURTURE:**
+
+[AMER](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3025A1LA1)
+
+[APAC](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3026A1LA1)
+
+[EMEA](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3014A1LA1)
+
+[LATAM](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3027A1LA1)
+
+[NO-REGION](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3028A1LA1)
+
+**MID-MARKET NURTURE:**
+
+[AMER](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3030A1LA1)
+
+[APAC](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3031A1LA1)
+
+[EMEA](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3032A1LA1)
+
+[LATAM](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3033A1LA1)
+
+[NO-REGION](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3034A1LA1)
+
+**PUBSEC NURTURE:**
+
+[PubSec](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3035A1LA1)
+
+**SMB NURTURE:**
+
+[AMER](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3036A1LA1)
+
+[APAC](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3037A1LA1)
+
+[EMEA](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3038A1LA1)
+
+[NO-REGION](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3039A1LA1)
+
+**NO-SEGMENT NURTURE:**
+
+[AMER](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3040A1LA1)
+
+[APAC](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3041A1LA1)
+
+[EMEA](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3042A1LA1)
+
+[LATAM](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3043A1LA1)
+
+**ALL-REMOTE NURTURE**
+
+[All Remote](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3044A1LA1)
+
+LOCALIZED NURTURE:
+
+[LOC-FRENCH](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3045A1LA1)
+
+[LOC-GERMAN](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3046A1LA1)
+
+[LOC-JAPAN](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3047A1LA1)
+
+[LOC-KOREA](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3048A1LA1)
+
+[LOC-PORTUGUESE](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3049A1LA1)
+
+[LOC-SPANISH](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/AR3050A1LA1)
+
+To be able to extract a complete report of email metrics, you just must click on the link corresponding to the Nurture where your email is.
+
+Also, in case of not having access to Marketo to download the report you can go to the following folder where the reports of each nurture are uploaded on a monthly basis. [Intelligent Nurture KPI](https://drive.google.com/drive/folders/1bpopmeEE9DDA0g50pw6Pr_PO_FPsS9-d?usp=sharing)
 
 ## Email Templates
 {: #email-templates .gitlab-purple}
