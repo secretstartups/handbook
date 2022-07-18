@@ -107,6 +107,17 @@ Spread the word about life at GitLab by becoming a GitLab talent ambassdor.
 
 Whether you're a hiring manager or an individual contributor, [this page](/handbook/hiring/gitlab-ambassadors) outlines additional steps you can take to help represent our talent brand and attract more great people to join the team.
 
+### Additional talent brand resources
+
+As we create campaigns and sponsor events, it's often the case that we create new resources that are intended to educate candidates about careers with GitLab. Many of the resources we create can be repurposed for other use cases. Some existing resources that both recruiters and talent ambassadors can use include:
+
+- Animated short-form video for social media or event usage: Using a google slide deck as a starting point and animating those slides into an .mp4 video is an easy way to create an engaging social media or event asset.
+
+    - Start by creating a slide deck that includes high-level info about careers at GitLab. This sample deck is a really (simple example using only 4 slides)[https://docs.google.com/presentation/d/1P6zD82oXUorWoR7mYnHf2Oun2n4q4NvXZqsDbDuWYPw/edit?usp=sharing].
+    - Using the Creator Studio add-on, you can choose to "create video" from the existing slides
+    - To help with conversion, you can also request a custom QR code be created using QR.io by creating an issue in the talent acquisition project and tagging @cchiodo or @drogozinski
+    -  The final result will look (something like this)[https://drive.google.com/drive/folders/1fwoi5NI6q0_hbT7_Q8Q817AwsRPmTmYe?usp=sharing] and can be shared through various social media sites or presented in video format at in-person events.
+
 ## Digital channels for talent branding
 
 ### Jobs site
