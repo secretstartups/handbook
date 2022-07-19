@@ -82,7 +82,7 @@ See the [example epics](https://about.gitlab.com/handbook/people-group/engagemen
 - [Product](https://gitlab.com/groups/gitlab-com/-/epics/1883)
 - Sales
 - [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3130)
-- Finance
+- [Finance](https://gitlab.com/groups/gitlab-com/Finance-Division/-/epics/7)
 - People
 - Legal
 
@@ -154,7 +154,7 @@ See the examples from FY21' for the [Product](https://gitlab.com/gitlab-com/Prod
 - [Product](https://gitlab.com/groups/gitlab-com/-/epics/1682)
 - [Sales](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/48)
 - [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2513)
-- [Finance](https://gitlab.com/groups/gitlab-com/Finance-Division/-/epics/7)
+- [Finance](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/5192)
 - [People](https://gitlab.com/groups/gitlab-com/people-group/-/epics/89)
 - [Legal](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/717)
 
