@@ -54,7 +54,7 @@ graph TD
     C --> |No| L{{Prospect?}}
     L --> |Yes| N{{Priority prospect?}}
     N --> |Yes| O[Go to: Ticket have SLA?]
-    N --> |No| P[Add prospect tag]
+    N --> |No| M
     L --> |No| M[Mark as Free or Trial User]
 ```
 
