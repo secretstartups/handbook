@@ -58,14 +58,7 @@ On a monthly cadence, the **Marketing Key Review** will be used as the venue for
 {: #roles-responsibilities}
 <!-- DO NOT CHANGE ANCHOR -->
 
-* **Product Marketing:** Responsible for the Solution GTM Strategy including narrative, messaging, and positioning. DRI for value plays. Marketing DRI for Sales and SDR enablement. DRI for buyer and influencer personas. Responsible for fostering participation of the entire team in the research, positioning, messaging, general strategy.
-* **Marketing Campaigns:** DRI for marketing campaigns. Responsible for the production of lead generation campaigns and rallying relevant teams and team members to deliver integrated marketing plans.
-* **Technical Marketing:** Responsible for technical narrative and value proposition. DRI for practitioner personas. DRI for Customers Success enablement including SAs, TAMs, and Support. Responsible for technical content production such as demos, blogs, workshops, webinars, etc.
-* **Content Marketing:** Responsible for content strategy and production related to the GTM motions and campaigns, and collaborating with other teams on prescriptive buyer journeys.
-* **Digital Marketing:** Responsible for digital strategy and defining ideal marketing channels to reach goals.
-* **Brand:** Responsible for cohesive branded journey across all tactics and between GTM Motions and campaigns.
-* **Field Enablement:** Sales DRI for sales enablement and training, and collaborating with GTM core teams on launch timeline.
-* **Sales Leadership:** Responsible for providing insight into the prioritization of value plays.
+[See roles and responsibilities section on the campaigns handbook](/handbook/marketing/campaigns/#roles-responsibilities)
 
 ## Glossary of terminology
 {: #glossary .gitlab-purple}
