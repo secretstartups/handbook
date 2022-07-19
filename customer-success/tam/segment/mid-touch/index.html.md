@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM Segment: Growth"
+title: "TAM (CSM) Segment: Growth"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -12,76 +12,118 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ---
 
-⚠️ * This information is under active development and iteration. This page will be updated on an ongoing basis as the team continues to grow and scale.
-{: .alert .alert-warning}
-
 ## Overview
 
-Definition: TAM on the account, product usage data-based success goals per account, programmatic enablement.
+The Growth team consists of Customer Success Managers assigned to dedicated accounts, leading with a programmatic approach to grow a large customer base, and aligning on and building success goals with each customer through usage reporting and strategic touchpoints. Our primary focuses are on reducing and addressing risk, ensuring positive onboarding for long-term success, and driving enablement and adoption throughout the customer journey.
 
-## Engagement Model
+For more information about the Growth team's regions and books of business, please refer to our [internal wiki](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/TAM-Segments).
+
+## Customer Lifecycle Journey
+
+Growth accounts have their own unique lifecycle journey to ensure they reach their full return on investment and can scalably grow and expand.
 
 ![Growth Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_TAM.png)
 
+### Align and Onboard
 
-### Prioritization
+The first stage in the lifecycle is to align and onboard the customer. This is accomplished through several different mediums:
 
-Please refer to our [prioritization guidelines](/handbook/customer-success/tam/engagement/#mid-touch-accounts) for details about how Growth accounts are prioritized and what Priority 1 and Priority 2 means in practice.
-
-## Metrics
-
-### Align
-
-Success Plans are more focused on quantitative objectives such as use case adoption, tied into value drivers as determined in the pre-sales process, to ensure platform value is realized. Progress and success against these objectives are reported upon in the EBRs that will be held with those customers that have product usage data available.
-
-#### Metrics for Align
-
-1. 100% of net-new customers with green success plans (value drivers, use cases) within first 60 days
-1. 100% of Priority 1 customers with green success plans
-1. EBRs held with at least 50% of Priority 1 customers (with the eventual goal of 100%)
+1. CSM-driven:
+   1. Alignment internally with pre-sales account team on customer's goals and use cases
+   1. Creation of a product-usage focused success plan
+   1. Weekly calls with customer to ensure they are enabled for long-term success
+1. Automation:
+   1. Missed 1st value and/or low adoption campaign (not launched yet)
+   1. NPS/Onboarding CSAT Survey
 
 ### Enable
 
-Onboarding and enablement for this cohort is primarily through webinar cohorts, with TAM touchpoints throughout the first 60 days to ensure the customer is set up for success and has overcome initial roadblocks to adoption and value. TAM provides enablement webinars and adhoc sessions to ensure the customer has key adoption questions answered and has the best practice guidance needed to be successful. Use Case Health Scores enable the TAM to track the efficacy of these programs and determine strategic reach-outs.
+The second stage is to enable the customer for long-term success.
 
-#### Metrics for Enable
+1. CSM-driven:
+   1. Onboarding survey follow up and check-in
+   1. Strategic synchronous calls ever 1-3 months depending on priority and need
+   1. Asynchronous responses to customer questions (challenges, adoption, best practices)
+   1. 6-month adoption/business review for Priority 1 customers
+1. Automation:
+   1. Outreach through email newsletters and regular webinars
+   1. Low-adoption campaigns through usage reporting (not launched yet)
 
-Onboarding:
+### Expand and Renew
 
+The final stage of the lifecycle is to expand the customer to ensure they exceed their return on investment and are excited to renew their subscription with GitLab.
+
+1. CSM-driven:
+   1. Wellness check (do they plan to renew?)
+   1. Renewal survey follow-up
+   1. Expansion discovery
+1. Automated:
+   1. NPS/Renewal CSAT Survey
+   1. Notifications for newly adopted use cases based on usage reporting (not launched yet)
+
+## Metrics
+
+To ensure we're consistently delivering a positive customer journey, we have metrics we strive to attain for each stage of the journey.
+
+### Align and Onboard
+
+Success Plans are more focused on quantitative objectives such as use case adoption, tied into value drivers as determined in the pre-sales process, to ensure the platform value is realized. Progress and success against these objectives are reported upon in the EBRs at the 6-month mark of the subscription for select customers. CSMs will have regular touchpoints throughout the first 30 days to ensure the customer is set up for success and has overcome any initial roadblocks to adoption and value.
+
+1. 100% of net-new customers with green success plans (value drivers, use cases) within first 60 days
+1. 100% of Priority 1 customers with green success plans
 1. Time to first engagement: within 14 days
 1. Time to 1st Value: within 30 days
 1. Time to Onboard: within 45 days
-1. Attendance in onboarding webinars of at least 50% of net-new customers
 1. Average onboarding NPS & CSAT scores over 4.0 (out of 5)
+
+### Enable
+
+CSMs provide enablement webinars and adhoc sessions to ensure the customer has key adoption questions answered and has the best practice guidance needed to be successful. Use Case Health Scores enable the CSM to track the efficacy of these programs and determine strategic reach-outs.
+
 1. Primary use case health scores green within first 90 days
+1. EBRs held with at least 50% of Priority 1 customers (with the eventual goal of 100%)
 
-### Expand & Renew
+### Expand and Renew
 
-Expansion is primarily driven by the SAL or AE in this segment, though a key driver for expansion is product enablement and familiarity.  Webinars are the primary means of driving interest for customers into new segments, the success of which is tracked through customer engagement scorecards and product usage data insights around new use cases adopted. Low-license utilization reports will focus the TAM on identifying those customers at risk of contraction. The renewal NPS/CSAT survey 110 days before renewal enables the TAM to identify customers that may be challenged at the point of renewal and are not easily identifiable as challenged through product usage data.
-
-#### Metrics for Expand & Renew
+Expansion is primarily driven by the SAL or AE in this segment, though a key driver for expansion is product enablement and familiarity. Webinars are the primary means of driving interest for customers into new segments, the success of which is tracked through customer engagement scorecards and product usage data insights around new use cases adopted. Low-license utilization reports will focus the CSM on identifying those customers at risk of contraction. The renewal NPS/CSAT survey 110 days before renewal enables the CSM to identify customers that may be challenged at the point of renewal and are not easily identifiable as challenged through product usage data.
 
 1. Consistent enablement and expansion webinars and attendance
-   1. 3 webinars per quarter
-   1. 80% of attendees stay for entire webinar
+   1. 3 webinars or workshops per quarter per CSM
    1. Average feedback score of webinars over 4.0 (out of 5)
 1. Consistent stage adoption efforts and adoption
    1. 50% of accounts have an open and active stage adoption play
-   1. At least two stages are adopted for 90% of customers
-   1. 10% increase of stages adopted across customer base quarter over quarter
-   1. Initial adoption of a stage (10% of users) within 60 days of enablement
-   1. Broad adoption of a stage (50% of users) within 6 months of enablement
-1. % Low License Utilizations 'Saves' (improvement)
-1. Renewal NPS & CSAT Scores over 4.0 (out of 5)
+   1. At least two stages are adopted for 75% of customers
+   1. At least three stages are adopted for 40% of customers
+1. Average renewal NPS & CSAT scores over 4.0 (out of 5)
 
+## CSM Priorities
 
-## Rhythm of Business
+Being a CSM at GitLab means that every day will be different, and you'll always have competing priorities. In general, CSMs should follow this guidance:
 
-While the motions in the [rhythm of business](/handbook/customer-success/tam/rhythm/) will remain the same as the Strategic segment, the Growth TAM team will have a slightly different approach to their workflow and books of business.
+1. **At-risk customers** always come first - this is our #1 priority! Identifying the risk quickly and then working on repeatable, effective plays to ensure we're doing everything we can to retain the customer. This risk could come through in a variety of ways: low usage reporting, loss of enagement, or simply because they've told us. Whatever it is, always err on the side of caution and flag risk as soon as possible in Gainsight and notify your manager.
+1. **Onboarding customers** should be the next highest priority. We've found that a successful onboarding is crucial to ensuring long-term customer success, as any initial barriers to adoption can quickly stall their ROI. As a result, having regular communication with new customers (weekly for their first month) is important, in order to ensure we have alignment on their use cases, goals, and how we can help guide them towards best practices and adoption. Professional Services is often extremely valuable to ensure a positive onboarding, and the CSM should be involved throughout a PS engagement to ensure they can seamlessly take over adoption and growth once the engagement concludes.
+1. **Driving adoption** so our customers can grow is the reason our team exists. Usage reporting is key towards ensuring we can support and scale our customers, and it feeds directly into our ability to drive enablement and expansion. By seeing how our customers are using the tool, we can create applicable content to guide them and advise them on best practices, help them with adoption, and prevent blockers to adoption.
+
+### Prioritization
+
+Please refer to our [prioritization guidelines](/handbook/customer-success/tam/engagement/#growth-accounts) for details about how Growth accounts are prioritized and what Priority 1 and Priority 2 mean in practice.
+
+### Propensity Models
+
+GitLab's Data Science team has created two [propensity models](/handbook/customer-success/customer-health-scoring/#predictive-analytics) which are predictive analytics that are incredibly valuable towards identifying and actioning opportunities proactively.
+
+- The Propensity to Expand, or PtE, determines which accounts are likely to expand their ARR by more than 10% in the next 3 months.
+- The Propensity to Churn, or PtC, determines which accounts are likely to reduce their ARR by more than 10% or churn entirely within the next 6 months.
+
+More information about these models can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/), and the actual results can be found in both Gainsight and Salesforce.
+
+### Rhythm of Business
+
+While the motions in the [rhythm of business](/handbook/customer-success/tam/rhythm/) will remain the same as the Strategic segment, the Growth CSM team will have a slightly different approach to their workflow and books of business.
 
 A breakdown of what their expected tasks and hours spent for each can be found below, including a breakdown of those hours at a weekly, monthly, quarterly, and yearly perspective.
 
-Please note this is just a guide to help TAMs prioritize and calibrate, to ensure they are making the most out of their time and can meet their goals and deliverables. Tasks and priorities, as well as the amount of time spent, can and will shift. TAMs should regularly work with their manager to ensure they have a healthy work/life balance and feel confident they can both complete all of their work as well as work towards continuous improvement.
+Please note this is just a guide to help CSMs prioritize and calibrate, to ensure they are making the most out of their time and can meet their goals and deliverables. Tasks and priorities, as well as the amount of time spent, can and will shift. CSMs should regularly work with their manager to ensure they have a healthy work/life balance and feel confident they can both complete all of their work as well as work towards continuous improvement.
 
 | Tasks | Weekly | Monthly | Quarterly | Yearly | Notes |
 |-------|--------|---------|-----------|--------|-------|

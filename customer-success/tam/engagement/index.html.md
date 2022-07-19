@@ -222,13 +222,13 @@ Examples of when an exception may be appropriate include:
 
 In order to make an exception, the TAM or SAL should discuss the details with the members of the [account team](/handbook/customer-success/account-team/#enterprise) and their respective managers. Exceptions will be addressed to the regional Sales Management team and documented in Gainsight.
 
-### Mid-Touch Accounts
+### Growth Accounts
 
-The Mid-Touch segment aims to have no more than 20% of a TAM's book of business to be Priority 1 at any given time.
+The Growth segment aims to have no more than 20% of a TAM's book of business to be Priority 1 at any given time.
 
 For a customer to be a Priority 1, they must meet at least one of the following parameters:
 - User growth and/or uptier within the next 6 months (must have a corresponding Salesforce opportunity)
-- Active stage adoption planning and/or implementation
+- Active use-case planning and/or adoption
 - Contraction or churn risk
 - Onboarding
 
