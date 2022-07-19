@@ -42,23 +42,47 @@ Please note that any customizations you do for a Cockpit view will be consistent
 
 ### Types of CTAs
 
-There are 5 "types" of CTAs, which will have different corresponding playbooks, so if you're looking for a particular playbook be sure to select the appropriate type. See below for each type and the corresponding [playbooks](/handbook/customer-success/playbooks/) for that type.
+There are several "types" of CTAs, which will have different corresponding playbooks, so if you're looking for a particular playbook be sure to select the appropriate type. See below for each type and the corresponding [playbooks](/handbook/customer-success/playbooks/) for that type.
 
 * Risk
-  * [Account Triage](/handbook/customer-success/tam/health-score-triage/#triage-cta)
+  * [At-Risk](/handbook/customer-success/tam/health-score-triage/#triage-cta)
+  * DevSecOps Risk
   * Low License Utilization
+  * Non-Engaged Customer
   * Product Risk
-* Expansion
+  * Risk Escalation
+  * Scale NPS Detractor
+* Expansion (no playbooks associated)
 * Lifecycle
-  * Commercial Onboarding Email Series
+  * Create Success Plan
   * Customer Offboarding
   * [Executive Business Review (EBR)](/handbook/customer-success/tam/ebr/#how-to-prepare-an-ebr)
+  * Existing Customer Onboarding
+  * High License Utilization
   * [New Customer Onboarding](/handbook/customer-success/tam/onboarding/)
+  * New Customer Onboarding - SaaS email assist
+  * New Customer Onboarding - Self-Managed email assist
   * Usage Data Enablement
 * Activity
-  * [Handoff](/handbook/customer-success/tam/account-handoff/#account-handoff-cta)
+  * [New Account Handoff](/handbook/customer-success/tam/account-handoff/#account-handoff-cta)
+  * Update Stale TAM Sentiment
 * Renewal
   * [Upcoming Renewal](/handbook/customer-success/tam/renewals/)
+* Digital Journey
+  * Digital Adoption - CI Enablement
+  * Digital Onboarding - SaaS Email Series
+  * Digital Onboarding - Self-Managed Alternative Backup Strategies
+  * Digital Onboarding - Self-Managed Email Series
+  * Digital Onboarding - Welcome Email
+  * Scale: 21 Day Post Onboarding - Calendly Clicked
+  * Scale: 21 Day Post Onboarding - Calendly Not Clicked
+  * Scale: 6 Month Check-in - Calendly Clicked
+  * Scale: 6 Month Check-in - Calendly Not Clicked
+  * Scale: Low License Utilization - Calendly Clicked
+  * Scale: Low License Utilization - Calendly Not Clicked
+  * Scale: One-Off Scale TAM Outreach
+  * Scale Team: Day 14 Reach-Out
+  * TAM Account Transitions
 
 If the CTA you're opening does not fall into one of the playbook categories, choose the type that makes the most sense. If it's a common CTA, suggest creating a playbook for the it by [opening an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1731118?&label_name[]=gainsight).
 
