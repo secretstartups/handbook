@@ -274,6 +274,68 @@ realtime feedback provides an improved developer experience. This is handled by
 
 ### Community-related reactive workflow automation
 
+Following is a diagram that shows how all the automations fit together:
+
+```mermaid
+graph LR
+    classDef triageOpsClass fill:#FC6D26,stroke:#333,stroke-width:3px;
+
+    MR_INITIAL(["Wider Community Merge request<br />(author is not a member of `gitlab-org`)"])
+    MR_COMMUNITY(["Merge request with the `Community contribution` label"])
+    MR_OPENED[MR is opened]
+    MR_UPDATED[MR is updated]
+    MR_MERGED[MR is merged]
+    MR_CLOSED[MR is closed]
+    MR_AUTHOR_NOTE[MR author posts a note]
+    ANYONE_NOTE[Anyone posts a note]
+    AUTOMATED_THANK(["1. Post a 'Thank you' note<br/>2. Add the `Community contribution` label<br />3. Add the `workflow::in dev` label<br />4. Assign MR to its author"])
+    WORKFLOW_READY_FOR_REVIEW_LABEL{"Was the<br />`workflow::ready for review`<br />label added?"}
+    AUTOMATED_REVIEWER_REQUEST_GENERIC(["If reviewers are present, ask them to review.<br />Otherwise, ask (and assign) an MR coach<br />(selected based on group label) to review"])
+    AUTOMATED_REVIEW_DOC{"Does the MR touches<br/>documentation files?"}
+    AUTOMATED_REVIEWER_REQUEST_DOC(["Post a note asking a<br />technical writer to review"])
+    AUTOMATED_REVIEW_UX{"Does the MR has<br />the `UX` label?"}
+    AUTOMATED_REVIEWER_REQUEST_UX(["Post a message in the<br />`#ux-community-contributions`<br />Slack channel, and on the MR"])
+    AUTOMATED_FEEDBACK_REQUEST(["Post a note asking<br />for feedback"])
+    AUTOMATED_HACKATHON_LABEL{Is a Hackathon<br />currently running?}
+    AUTOMATED_HACKATHON_LABEL_ADDITION(["Add the `Hackathon` label"])
+    WHAT_AUTHOR_NOTE{What note is it?}
+    WHAT_ANYONE_NOTE{What note is it?}
+    
+    AUTOMATED_LABEL_COMMAND_REPLY(["Add the requested label"])
+    AUTOMATED_HELP_COMMAND_REPLY(["Ask (and assign as reviewer)<br />an MR coach for help"])
+    AUTOMATED_REVIEW_COMMAND_REPLY(["Add the `workflow::ready for review` label"])
+    AUTOMATED_FEEDBACK_COMMAND_REPLY(["Post the feedback in the<br />`#mr-feedback` Slack channel"])
+
+    MR_INITIAL -.-> MR_OPENED
+    MR_COMMUNITY -.-> MR_UPDATED & MR_MERGED & MR_CLOSED & MR_AUTHOR_NOTE & ANYONE_NOTE
+
+    MR_OPENED ----> AUTOMATED_THANK
+    MR_UPDATED -.-> WORKFLOW_READY_FOR_REVIEW_LABEL
+    MR_UPDATED -.-> AUTOMATED_HACKATHON_LABEL
+    MR_MERGED & MR_CLOSED ----> AUTOMATED_FEEDBACK_REQUEST
+    MR_AUTHOR_NOTE -.-> WHAT_AUTHOR_NOTE
+    ANYONE_NOTE -.-> WHAT_ANYONE_NOTE
+
+    WORKFLOW_READY_FOR_REVIEW_LABEL ---> |Yes| AUTOMATED_REVIEWER_REQUEST_GENERIC
+    WORKFLOW_READY_FOR_REVIEW_LABEL -.-> |Yes| AUTOMATED_REVIEW_DOC & AUTOMATED_REVIEW_UX
+    AUTOMATED_REVIEW_DOC -->|Yes| AUTOMATED_REVIEWER_REQUEST_DOC
+    AUTOMATED_REVIEW_UX -->|Yes| AUTOMATED_REVIEWER_REQUEST_UX
+    AUTOMATED_HACKATHON_LABEL --->|Yes| AUTOMATED_HACKATHON_LABEL_ADDITION
+
+    WHAT_AUTHOR_NOTE --->|"@gitlab-bot label ..."| AUTOMATED_LABEL_COMMAND_REPLY
+    WHAT_AUTHOR_NOTE --->|"@gitlab-bot feedback"| AUTOMATED_FEEDBACK_COMMAND_REPLY
+
+    WHAT_ANYONE_NOTE --->|"@gitlab-bot help"| AUTOMATED_HELP_COMMAND_REPLY
+    WHAT_ANYONE_NOTE --->|"@gitlab-bot ready"| AUTOMATED_REVIEW_COMMAND_REPLY
+
+    class AUTOMATED_THANK,AUTOMATED_LABEL_COMMAND_REPLY,AUTOMATED_HELP_COMMAND_REPLY triageOpsClass;
+    class AUTOMATED_REVIEW_COMMAND_REPLY,AUTOMATED_FEEDBACK_REQUEST,AUTOMATED_REVIEW_DOC triageOpsClass;
+    class AUTOMATED_REVIEW_UX,AUTOMATED_REVIEWER_REQUEST_DOC,AUTOMATED_REVIEWER_REQUEST_UX triageOpsClass;
+    class AUTOMATED_FEEDBACK_COMMAND_REPLY,AUTOMATED_HACKATHON_LABEL triageOpsClass;
+    class AUTOMATED_HACKATHON_LABEL_ADDITION,WHAT_AUTHOR_NOTE,WHAT_ANYONE_NOTE triageOpsClass;
+    class WORKFLOW_READY_FOR_REVIEW_LABEL,AUTOMATED_REVIEWER_REQUEST_GENERIC triageOpsClass;
+```
+
 #### Community contribution thank you note
 
 * Automation conditions:

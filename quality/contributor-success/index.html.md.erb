@@ -3,54 +3,70 @@ layout: handbook-page-toc
 title: "Contributor Success Team"
 description: "Contributor Success Team"
 ---
-
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+{:toc .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+#### Child Pages
+{:.no_toc}
+
+##### [User Journey](./user-journey.html)
+{:.no_toc}
+
+##### [GitLab Community Teams Structure](./team-structure.html)
+{:.no_toc}
+
+##### [Sisense SQL snippets](./sisense-sql-snippets.html)
+{:.no_toc}
+
+## Common Links
+
+| **GitLab Team Handle** | [`@gitlab-org/quality/contributor-success`](https://gitlab.com/gitlab-org/quality/contributor-success) |
+| **Slack Channel** | [`#g_contributor_success`](https://gitlab.slack.com/archives/C02R0NE6P6C), [`#wg_contribution-efficiency`](https://gitlab.slack.com/archives/C0223D98HHC) (standup with the Community Relations team), [`#mrarr-wins`](https://gitlab.slack.com/archives/C01NTMN6U0P) (to announce new MRARR wins) |
+| **Team Boards** | [Backlog board](https://gitlab.com/groups/gitlab-com/-/boards/4295302), [Kanban board](https://gitlab.com/groups/gitlab-com/-/boards/4295341), [Technical board](https://gitlab.com/groups/gitlab-org/-/boards/4296693) |
+| **Issue Tracker** | [`gitlab-com/quality/contributor-success`](https://gitlab.com/gitlab-com/quality/contributor-success/-/issues) |
 
 - - -
 
 ## Strategy
 
-This team directly follows the strategy outlined in our [open source growth strategy](../../open-source/growth-strategy.html).
+This team directly follows the strategy outlined in our [open source growth strategy](/handbook/engineering/open-source/growth-strategy.html).
 
 ## Mission
 
-The goal of the team is to increase the technical improvements and efficiency of our contribution process to sustain our ambition of [1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
+The goal of the team is to increase the technical improvements and efficiency of our contribution process to sustain
+our ambition of [1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
 
 ### FY23 Direction
 
 In FY23 we will be focused on growing the number of unique new monthly
-contributors, reducing OCMA and increasing MRARR. This will increase development
-velocity without requiring additional engineering resources. Parallel to this
-we'll increase observability of community contributed value through improving
-the business intelligence around it. This will allow us to create some
-predictability through foreshadowing. These efforts are cross-functional and
+contributors, reducing [Open Community MR Age (OCMA)](#open-community-mr-age-ocma) and increasing [MRARR](#mrarr).
+This will increase development velocity without requiring additional engineering resources.
+
+Parallel to this we'll increase [observability of community contributed value](#community-contributed-value-observability)
+through improving the business intelligence around it. This will allow us to create some
+predictability through [foreshadowing](#community-metrics-foreshadowing). These efforts are cross-functional and
 require working together with Marketing and Product Development.
 
 This accounts for 70 - 80% of the workload. The remaining 20 - 30% is ad-hoc
 work. The ad-hoc work is eclectic and ranges from supporting customers on
 contributions, supporting various open source initiatives and supporting the
-Engineering Productivity team.
+[Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/).
 
 #### Unique New Monthly Contributors
 
 1. Minimize reliance on human interaction
-1. Reduce volatility through introducing automations that drive contributions
+1. Reduce volatility through introducing [automations](#community-merge-request-workflow-automations) that drive contributions
    forward automatically
-1. Capitalize on untapped potential - MRs that are active but not merged at the
-   end of every single MR
+1. Capitalize on untapped potential - MRs that have become stale but have received a seal of approval as useful addition to GitLab.
 1. Invest into attracting more new contributors
 
 #### Community Contributed Value Observability
 
 1. Introduce measurement points in various places in the contribution pipeline
-1. Collect objective and subjective feedback from contributors about the process
+1. [Collect objective and subjective feedback from contributors about the process](/handbook/engineering/quality/triage-operations/#code-review-experience-feedback)
 1. Create insight into actual community contribution pipeline size
 1. Standardize contribution MRARR valuation
 1. Categorize contribution and measure value per type
@@ -61,26 +77,37 @@ Engineering Productivity team.
 1. Empower teams to react to negative trends before they actualize
 1. Define ambitious targets for FY24
 
-#### OCMA
+#### Open Community MR Age (OCMA)
 
 1. Minimize reliance on human factors that contribute to a large standard deviation
-1. Support Engineering Productivity in driving OCMA down
+1. Identify & drive tooling improvements to decrease OCMA, and collaborate with the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) through shared tooling for [automated triaging](/handbook/engineering/quality/engineering-productivity/#automated-triage-policies)
 
 ## Team Responsibilities
 
-* Carry out Engineering open source outreach efforts.
-* Improve GitLab's Contribution Efficiency and Merge Request Coaching process.
-* Engineering representative that can ride along with the evangelist and program manager.
+* Improve GitLab's Contribution Efficiency and [merge request coaching](/job-families/expert/merge-request-coach/) process.
+* Contribute as a [merge request coach](/job-families/expert/merge-request-coach/) in one or more specialties by providing guidance to community contributors on technical and non-technical aspects.
+* Be a point of escalation for community contributors and identify GitLab DRIs to resolve blockers.
 * Organize community contributors into [community teams](team-structure.html) and ensure their success.
-* Provide guidance to community contributors on technical and non-technical aspects.
 * Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
-* Improve community recognition system and awards in collaboration with Community Relations team.
 * Nominate impactful community contributors and contributions for recognition.
-* Contribute as an MR Coach in one or more MR Coach specialties.
-* Provide guidance and coaching to team members on technical contributions, product architecture, and other areas.
-* Be a point of escalation for community contributors and identify GitLab DRIs to resolve blockers
-* Participate in GitLab's overall open source outreach events and processes.
-* Collaborate closely with our Marketing counterparts and Core team.
+* Collaborate closely with our [Marketing counterparts](/handbook/marketing/community-relations/) and [Core team](/community/core-team/).
+* Engineering representative that can ride along with the [Developer evangelist](/job-families/marketing/developer-evangelist/) and [Code contributor program manager](/job-families/marketing/code-contributor-program-manager/).
+* Improve community recognition system and awards in collaboration with the [Community Relations team](/handbook/marketing/community-relations/).
+* Participate in GitLab's overall Engineering open source outreach events and processes.
+
+## Team Members
+
+<%= direct_team(manager_role: 'Director, Contributor Success') %>
+
+## Project Management
+
+* Our [team project](https://gitlab.com/gitlab-com/quality/contributor-success) is our single source of truth for all tasks & backlog.
+* Epics that contain cross-functional work across multiple departments can be created at the `gitlab-com` [level](https://gitlab.com/groups/gitlab-com/-/epics?label_name[]=Contributor+Success).
+
+This team has the following immediate work items planned.
+
+* [Contribution Efficiency Improvements](https://gitlab.com/groups/gitlab-com/-/epics/1619)
+* [Increasing MRARR through internal partnerships](https://gitlab.com/groups/gitlab-com/-/epics/1225)
 
 ## OKRs
 
@@ -108,7 +135,7 @@ We have the following Performance Indicators
   - Allow running of QA tests from forks
   - Shorten the CI runtime for community contributions (in forks)
 
-#### [Open Community MR Age](/handbook/engineering/quality/performance-indicators/#open-community-mr-age)
+#### [Open Community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age)
 
 - Target: decrease to lower than 30 days by FY23Q4
 - Activities:
@@ -145,80 +172,6 @@ We have the following Performance Indicators
   - Encourage features at Community relations hackathons.
   - Published list of feature issues with Marketing team.
 
-## Sisense SQL snippets
-
-### `product_community_contribution_mrs`
-
-Merge requests with ~"Community contribution" label, opened in
-[projects that are part of the product](/handbook/engineering/metrics/#projects-that-are-part-of-the-product).
-
-The results include MR type, MR age, MR labels, MR stage, MR group, MR section.
-
-#### Finding the absolute Merge Request URL
-
-It includes 4 joins of the `gitlab_dotcom_groups_xf` table. This is because it is hard to understand the entire hierarchy from the namespace itself. A namespace can be nested within a group of a group of a group, or deeper. So it's important to find the entire hierarchy so we can re-assemble the full URL path of this particular Merge Request.
-
-The end result could be, in the maximum form: `https://gitlab.com/group4/group3/group2/group1/project_path/merge_requests/merge_request_id`
-
-#### Categorization of MRs
-Given that not all MRs have type labels yet, we try to guess the type based on existing labels. In the snippet you can clearly see the 3 types being represented (feature, maintenance, bug).
-
-#### Last Active Date
-The snippet also goes to great lengths to find out when a merge request was last active. Given that the state could either be open, merged or closed, it has a different logic for each state to understand what the last active date was. Using this date, it can then be used to understand the amount of days the merge request was or is open for, also known as Merge Request Age.
-
-#### Excluding users from the report
-
-There are certain authors or MRs that are excluded from the reports as they belong to the GitLab organization and should not be accounted for when looking at our Community MR metrics. If you do see authors that should be excluded, they should be added to this snippet so they can be excluded from the metrics in the future. Example users are the GitLab Bot, Release Bot, Reviewer/Recommender Bot, etc...
-
-### `community_contributions_base`
-
-Similar to `product_community_contribution_mrs`, but the results include MR lifecycle data (time to triage, time to first review, projected days to merge etc).
-
-## Team Members
-
-<%= direct_team(manager_role: 'Director, Contributor Success') %>
-
-##  How to reach us
-
-### Chat with us
-
-Contributor Success team uses these Slack channels:
-
-- [#g_contributor-success](https://gitlab.slack.com/archives/C02R0NE6P6C): Our team slack channel
-- [#wg_contribution-efficiency](https://gitlab.slack.com/archives/C0223D98HHC): For our standup with the Community Relations team
-- [#mrarr-wins](https://gitlab.slack.com/archives/C01NTMN6U0P): For announcing new MRARR merge wins
-- [#quality](https://gitlab.slack.com/archives/C3JJET4Q6): For discussions intra-department in Quality
-
-### File an issue
-
-File an issue to work with us: [in our task project](https://gitlab.com/gitlab-com/quality/contributor-success) 
-
-## Project Management
-
-* Our [team project](https://gitlab.com/gitlab-com/quality/contributor-success) is our single source of truth for all tasks & backlog.
-* Epics that contain cross-functional work across multiple departments can be created at the `gitlab-com` [level](https://gitlab.com/groups/gitlab-com/-/epics?state=opened&page=1&sort=start_date_desc).
-
-This team has the following immediate work items planned.
-
-* [Contribution Efficiency Improvements Epic](https://gitlab.com/groups/gitlab-com/-/epics/1619)
-* [Increasing MRARR through internal partnerships](https://gitlab.com/groups/gitlab-com/-/epics/1225)
-
-## Automations owned by the team
-
-Triage automations are handled by the [Triage Ops project](https://gitlab.com/gitlab-org/quality/triage-ops/). Please see the project documentation on instructions how to create new or edit existing automations.
-
-### Triage reports
-
-See [Community-related triage reports](/handbook/engineering/quality/triage-operations/#community-related-triage-reports).
-
-### Scheduled workflow automation
-
-See [Community-related scheduled workflow automation](/handbook/engineering/quality/triage-operations/#community-related-scheduled-workflow-automation).
-
-### Reactive workflow automation
-
-See [Community-related reactive workflow automation](/handbook/engineering/quality/triage-operations/#community-related-reactive-workflow-automation).
-
 ## Working with community contributions
 
 ### Community contribution labels
@@ -234,67 +187,21 @@ See [Community-related reactive workflow automation](/handbook/engineering/quali
 
 Community merge requests are MRs opened by a person that's not a member of the [`gitlab-org`](https://gitlab.com/-/ide/project/gitlab-org) nor [`gitlab-com`](https://gitlab.com/-/ide/project/gitlab-com) groups.
 
-```mermaid
-graph LR
-    classDef triageOpsClass fill:#FC6D26,stroke:#333,stroke-width:3px;
+#### Triage reports
 
-    MR_INITIAL(["Wider Community Merge request<br />(author is not a member of `gitlab-org`)"])
-    MR_OPENED[MR is opened]
-    MR_UPDATED[MR is updated]
-    MR_MERGED[MR is merged]
-    MR_CLOSED[MR is closed]
-    MR_AUTHOR_NOTE[MR author posts a note]
-    ANYONE_NOTE[Anyone posts a note]
-    AUTOMATED_THANK(["1. 'Thank you' note posted<br/>2. Adds ~'Community contribution'<br />3. Adds ~'workflow::in dev'<br />4. MR assigned to author"])
-    WORKFLOW_READY_FOR_REVIEW_LABEL{"~'workflow::ready for review'<br />was added?"}
-    AUTOMATED_REVIEWER_REQUEST_GENERIC(["Remove Draft status if present"])
-    AUTOMATED_REVIEW_DOC{"Does the MR touches<br/>documentation files?"}
-    AUTOMATED_REVIEWER_REQUEST_DOC(["A technical writer<br />is asked to review"])
-    AUTOMATED_REVIEW_UX{"Does the MR has<br />the ~UX label?"}
-    AUTOMATED_REVIEWER_REQUEST_UX(["A message is posted in the<br />`#ux-community-contributions`<br />Slack channel"])
-    AUTOMATED_FEEDBACK_REQUEST(["Post a note asking<br />for feedback"])
-    AUTOMATED_HACKATHON_LABEL{Is a Hackathon currently running?}
-    AUTOMATED_HACKATHON_LABEL_ADDITION(["The ~Hackathon label is added"])
-    WHAT_AUTHOR_NOTE{What note is it?}
-    WHAT_ANYONE_NOTE{What note is it?}
-    
-    AUTOMATED_LABEL_COMMAND_REPLY(["Quick action note posted<br />to add the requested label"])
-    AUTOMATED_HELP_COMMAND_REPLY(["Ping and assign<br />an MR coach"])
-    AUTOMATED_REVIEW_COMMAND_REPLY(["Add ~'workflow::ready for review'"])
-    AUTOMATED_FEEDBACK_COMMAND_REPLY(["A message is posted in the<br />`#mr-feedback` Slack channel"])
+See [Community-related triage reports](/handbook/engineering/quality/triage-operations/#community-related-triage-reports).
 
-    MR_INITIAL -.-> MR_OPENED & MR_UPDATED & MR_MERGED & MR_CLOSED & MR_AUTHOR_NOTE & ANYONE_NOTE
+#### Scheduled workflow automation
 
-    MR_OPENED ----> AUTOMATED_THANK
-    MR_UPDATED -.-> WORKFLOW_READY_FOR_REVIEW_LABEL
-    MR_OPENED & MR_UPDATED -.-> AUTOMATED_HACKATHON_LABEL
-    MR_MERGED & MR_CLOSED ----> AUTOMATED_FEEDBACK_REQUEST
-    MR_AUTHOR_NOTE -.-> WHAT_AUTHOR_NOTE
-    ANYONE_NOTE -.-> WHAT_ANYONE_NOTE
+See [Community-related scheduled workflow automation](/handbook/engineering/quality/triage-operations/#community-related-scheduled-workflow-automation).
 
-    WORKFLOW_READY_FOR_REVIEW_LABEL ---> |Yes| AUTOMATED_REVIEWER_REQUEST_GENERIC
-    WORKFLOW_READY_FOR_REVIEW_LABEL -.-> |Yes| AUTOMATED_REVIEW_DOC & AUTOMATED_REVIEW_UX
-    AUTOMATED_REVIEW_DOC -->|Yes| AUTOMATED_REVIEWER_REQUEST_DOC
-    AUTOMATED_REVIEW_UX -->|Yes| AUTOMATED_REVIEWER_REQUEST_UX
-    AUTOMATED_HACKATHON_LABEL --->|Yes| AUTOMATED_HACKATHON_LABEL_ADDITION
+#### Reactive workflow automation
 
-    WHAT_AUTHOR_NOTE --->|"@gitlab-bot label ..."| AUTOMATED_LABEL_COMMAND_REPLY
-    WHAT_AUTHOR_NOTE --->|"@gitlab-bot feedback"| AUTOMATED_FEEDBACK_COMMAND_REPLY
+See [Community-related reactive workflow automation](/handbook/engineering/quality/triage-operations/#community-related-reactive-workflow-automation).
 
-    WHAT_ANYONE_NOTE --->|"@gitlab-bot help"| AUTOMATED_HELP_COMMAND_REPLY
-    WHAT_ANYONE_NOTE --->|"@gitlab-bot ready"| AUTOMATED_REVIEW_COMMAND_REPLY
+### Merge request coaches
 
-    class AUTOMATED_THANK,AUTOMATED_LABEL_COMMAND_REPLY,AUTOMATED_HELP_COMMAND_REPLY triageOpsClass;
-    class AUTOMATED_REVIEW_COMMAND_REPLY,AUTOMATED_FEEDBACK_REQUEST,AUTOMATED_REVIEW_DOC triageOpsClass;
-    class AUTOMATED_REVIEW_UX,AUTOMATED_REVIEWER_REQUEST_DOC,AUTOMATED_REVIEWER_REQUEST_UX triageOpsClass;
-    class AUTOMATED_FEEDBACK_COMMAND_REPLY,AUTOMATED_HACKATHON_LABEL triageOpsClass;
-    class AUTOMATED_HACKATHON_LABEL_ADDITION,WHAT_AUTHOR_NOTE,WHAT_ANYONE_NOTE triageOpsClass;
-    class WORKFLOW_READY_FOR_REVIEW_LABEL,AUTOMATED_REVIEWER_REQUEST_GENERIC triageOpsClass;
-```
-
-### Merge Request Coaches
-
-[Merge Request Coaches](/job-families/expert/merge-request-coach/) are available to help contributors with their MRs. This includes: 
+[Merge request coaches](/job-families/expert/merge-request-coach/) are available to help contributors with their MRs. This includes: 
 - Identifying reviewers for the MR.
 - Answering questions from contributors.
 - Educating contributors on the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria).
@@ -302,13 +209,11 @@ graph LR
   - In that case, the `coach will finish` label will be added to the MR and the coach will either directly push new commits to the MR, or re-create a new MR with the original changes. 
   - Contributors can mention the coaches in their MRs by typing `@gitlab-org/coaches`.
 
-Merge Request Coaches can be found in: 
-- [List of current Merge Request Coaches](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html#current-merge-request-coaches)
-- The [team page](/company/team/) by selecting `Merge Request Coach` in the department filter.
+The list of current merge request coaches can be found in the [team page](/company/team/) by selecting `Merge Request Coach` in the department filter.
 
-There is also the `#mr-coaching` channel in GitLab Slack if GitLab team members have any questions related to community contributions.
+There is also the [`#mr-coaching`](https://gitlab.slack.com/archives/C2T9APP9C) channel in GitLab Slack if GitLab team members have any questions related to community contributions.
 
-More information on Merge Request Coaches (including how to become a Merge Request Coach) can be found in the [MR coach lifecycle page](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html).
+More information on merge request coaches (including how to become a merge request coach) can be found in the [MR coach lifecycle page](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html).
 
 ### Creating educational materials
 
