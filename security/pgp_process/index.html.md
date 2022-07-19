@@ -17,9 +17,11 @@ Now you will be able to encrypt, decrypt, and share the public key with others.
 
 ## Share the Public Key
 
-Users that wish to report a possible security issue may request our PGP public key by sending an email to 'security@gitlab.com'. Right-click on the key in the GPG Keychain application and click 'Export'. Ensure the dialog box does not have 'Include secret key in exported file' checked. Save the exported file and send it to the requestor.
+Right-click on the key in the GPG Keychain application and click 'Export'. Ensure the dialog box does not have 'Include secret key in exported file' checked. Save the exported file and send it to the requestor.
 
 ![GPG Keychain Export](/images/support/pgp/gpg_keychain_export.png)
+
+Researchers that wish to report a possible security issue should refer to our [Responsible Disclosure Policy](/security/disclosure/). Disclosure via email will receive an automated response configured in Zendesk, and be automatically closed.
 
 ## Decrypt Text and Files
 
