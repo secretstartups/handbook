@@ -67,7 +67,7 @@ Completed:
 | Functional Lead                          | Fabian Zimmer                    | Senior Product Manager, Geo                                     |
 | Member                                   | Chun Du                          | Director of Engineering, Enablement                             |
 | Member                                   | Davis Townsend                   | Data Analyst, Infrastructure                                    |
-| Member                                   | Nick Nguyen                      | Backend Engineering Manager, Geo                                |
+| Member                                   | Juan Silva                       | Fullstack Engineering Manager, Geo                              |
 | Member                                   | Nick Westbury                    | Senior Software Engineer in Test, Geo                           |
 
 ## Related Links
