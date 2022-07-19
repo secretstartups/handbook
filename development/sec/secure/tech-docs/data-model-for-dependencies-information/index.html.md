@@ -647,7 +647,7 @@ Unlike ordinary package metadata, security advisories associated to a given pack
 - An existing advisory might be updated. For instance, its CVSS score might change.
 - An existing advisory might be removed because it no longer affects the version.
 
-Security advisories can be provided by [gemnasium-db](https://gitlab.com/gitlab-org/security-products/gemnasium-db/),
+Security advisories can be provided by [The GitLab Advisory Database](https://gitlab.com/gitlab-org/security-products/gemnasium-db/),
 the vulnerability database maintained by GitLab,
 or by other vulnerability databases, like [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db).
 
@@ -679,7 +679,7 @@ removing the need for CI jobs that list project dependencies.
 
 To perform Dependency Scanning outside of a pipeline, the backend proceeds in 4 steps:
 1. extract the package types, names, and versions from the project dependencies being scanned
-1. connect to the vulnerability database API or tracking service API to collect the advisories that match the package types and names
+1. connect to the advisory database API or tracking service API to collect the advisories that match the package types and names
 1. evaluates the affected version range of each advisory; dependencies that use a version that's not in range are not affected
 1. create vulnerability findings for each affected dependency
 
