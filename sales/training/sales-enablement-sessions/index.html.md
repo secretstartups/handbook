@@ -19,13 +19,23 @@ description: "Continuous education webcast series for GitLab sales team members"
 ## Upcoming Training
 To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Summer 2022 Lineup**
+**Fall 2022 Lineup**
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Jul 14 | TBD  | TBD  |
-| Jul 21 | *No session during the last two weeks of the quarter* | N/A |
-| Jul 28 | *No session during the last two weeks of the quarter* | N/A |
+| Aug 4 | Storage & Transfer Limits  | Josh L.  |
+| Aug 11 | Legal Subscription Agreement Update  | Matthew T.  |
+| Aug 18  | Automated Software Delivery (AutoSD) Integrated Campaign  | Shari R.  |
+| Aug 25 | TBD  | TBD  |
+| Sep 1 | TBD  | TBD  |
+| Sep 8 | TBD  | TBD  |
+| Sep 15 | TBD  | TBD  |
+| Sep 22 | TBD  | TBD  |
+| Sep 29 | TBD  | TBD  |
+| Oct 6 | TBD  | TBD  |
+| Oct 13 | TBD  | TBD  |
+| Oct 20 | *No session during the last two weeks of the quarter* | N/A |
+| Oct 27 | *No session during the last two weeks of the quarter* | N/A |
                                                                                                                                    
 ## Past Sessions
 <details>
