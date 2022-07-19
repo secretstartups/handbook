@@ -24,3 +24,14 @@ title: Individual Use Software
 - Once all relevant parties have approved your software request in the GitLab Issue, Procurement will issue you a virtual credit card number for one-time use on the approved software license at the approved price. This information will come via email.
 - After you have purchased your software with the virtual credit card, please forward a copy of your receipt to ap@gitlab.com as confirmation if there are no other contracts or backup documents.
 - If you have any questions, please reach out to the Procurement team through the #procurement Slack channel.
+
+## Pre-Approved Individual-Use Software Requests
+- See below for a listing of individual-use software that has been vetted and pre-approved by [Third Party Risk Management](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html#risk-acceptance-process). Access requests associated to pre-approved software can bypass Security review. 
+
+| Application | Data Classification | Pre-Approval Expiration | Notes and Restrictions |
+| ------ | ------ | ------ | ------ |
+|Alfred Powerpack|Green|N/A| Base application only, does not apply to Alfred Workflows or Alfred Remote |
+|Brain.fm|Green|N/A| Base application only |
+|DeepL for individuals|Green|N/A| Base application only, does not apply to DeepL API |
+|Microsoft Office- Home & Student|Green|N/A| Approval applies to the offline version only. Microsoft Office 365 is not approved.|
+
