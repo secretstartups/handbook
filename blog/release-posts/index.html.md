@@ -296,7 +296,7 @@ When communicating in either Slack `#release-post` or `#X-Y-release-post-prep`, 
 
 Sample post to executive stakeholders for review:
 
->>>md
+```md
 @Sid @david @Justin Farris The 13.6 Release Post has been generated and can be reviewed at `https://release-13-6.about.gitlab-review.app/releases/2020/11/22/gitlab-13-6-released/index.html`.
 
 Please share your feedback by <time datetime="18:00">6 pm UTC (1 pm ET / 10 am PT)</time> on Friday November 20 (tomorrow). Thank you for your review!
@@ -306,17 +306,21 @@ Currently there are no known issues/adjustments to the content but I know of one
 Here’s the 13.6 release post MR: `https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/66652`
 
 Cc @Product Operations DRI @TW Lead @tech-advisor @PMM
->>>
+```
 
 Other samples for posts include reminders and notices on any items that the Release post manager is taking:
 
->>>md
+```md
 🎺 Hi team! Announcing a "last call" that no further contributions to the bugs, performance improvements, and usability improvements MRs will be taken after the 15th. Please get them in 🏃‍♂️ cc @Farnoosh
+```
 
+```md
 Hey team, reminder that there are currently XX Open and Ready MRs targeting XX.X milestone (link to open MRs). Please take a moment to ask your EMs to merge or to move out the items that won't make milestone.
+```
 
+```md
 Hi all, I will be completing the final merge for the release post in the next 45 minutes-1 hour! I will be coordinating any activities with team members to resolve any problems that come up. cc @Farnoosh @Tech Advisor @TW Lead
->>>
+```
 
 The Developer Evangelism team will reach out to the release post manager in Slack #release-post following their [Release days process](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#release-days) when they need help responding to inquiries about content in the release post blog. These needs will primarily arise within the first week of going live with the blog. However, as Author for a specific release post, you may get pinged to help coordinate a response some weeks later as issues arise. You will usually just need to find the best DRI to handle the issue, often the PM of the release post item in question.
 
@@ -1357,13 +1361,13 @@ An End of Support date must be at least 3 milestones *after* the Deprecation ann
 
 If you decide to declare an End of Support period, tag `@gitlab-com/support` in the MR and share a link to the MR in `#spt_managers` in Slack using the following message format:
 
->>>md
+```md
 End of Support for [feature name](MR_LINK) on YYYY-MM-DD
 
 We are announcing in X.Y that `feature_name` will be removed in X.Y and will no longer be supported beginning in X.Y.
 
 Please see the [Terminology section of our Deprecation guidelines](https://docs.gitlab.com/ee/development/deprecation_guidelines/#terminology) for guidance on how we define End of Support.
->>>
+```
 
 #### Removals
 
