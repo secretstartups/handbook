@@ -65,10 +65,25 @@ Triage vulnerability reports in a similar manner to our [HackerOne process](/han
 
 ### Request for Information on Security Update or Patch
 
-Sometimes, a customer will request details on a security update that was released. e.g. "Should I worry about this? What's this patch about?"
+Sometimes, a customer will request details on a security update that was released. e.g. "Should I worry about this? What's this patch about?".
 
-Following the [Responsible Disclosure Policy](/security/disclosure/), a confidential issue will be created and tracked internally.
-The contents of the confidential issue should not be shared.
+A summary of GitLab CVEs for specific versions is available in [Customer Success' "What's New Since" tool](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=cves).
+
+If the customer is asking about a security vulnerability published as part of a release,
+the only information we can provide is what is in the security blog post.
+For more information on security communication, please see the [security incident communication page](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html).
+
+Security will [make the issue public if possible](/handbook/engineering/security/#process-for-disclosing-security-issues) after a set number of days.
+
+If you believe more information should be made available in the blog post, or to a specific customer,
+please [open a confidential issue in the security communication tracker](https://gitlab.com/gitlab-com/gl-security/security-communications/communications/-/issues).
+
+Note: Confirmed mitigation strategies are typically added to the security blog post.
+If none are listed, the only recommendation is to upgrade to a version where the issue is fixed.
+While some suggestions (such as disabling a feature) may seem like they would mitigate an issue,
+without validation from the security team, we cannot be fully certain.
+
+Following the [Responsible Disclosure Policy](/security/disclosure/), see below on reporting a security issue.
 
 ## General Guidelines for Security Staff
 
