@@ -698,7 +698,7 @@ Field Marketing utilizes the [QR Code Generator](https://login.qr-code-generator
 
 #### Steps to Generating a QR Code
 For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
-1. Make a copy fo the GitLab branded [Google Form](https://forms.gle/3F5hAEVHSJcLQimMA). *Ensure you are logged into your GitLab Google account in order to access the form.* 
+1. Make a copy fo the GitLab branded [Google Form](https://docs.google.com/forms/d/1zLqYmfC-yfFQagTri4QIOkExu8Z2IN80s-R7tGJB4E4/edit). *Ensure you are logged into your GitLab Google account in order to access the form.* 
 1. Proceed to fill in all required information including: 
     * Event title
     * Event description (optional)
