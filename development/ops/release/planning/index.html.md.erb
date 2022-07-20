@@ -73,6 +73,7 @@ During planning breakdown, the correct labels should be applied. The required la
 - `needs weight`
 
 This signifies that from both a product and engineering point of view, this issue is prepared and ready for weighting and scheduling.
+
 ##### Weights
 
 As a byproduct of the engineering evaluation process, a rough estimate of the number of merge requests required to develop a
@@ -94,7 +95,7 @@ Not all POCs will be successful, and that is OK! Some avenues of research may no
 
 We use the [Scheduling boards](#scheduling-board) for this phase. Each milestone, the PM will create [a planning issue](https://gitlab.com/gitlab-org/ci-cd/release-group/release/-/blob/master/.gitlab/issue_templates/Internal%20Milestone.md)
 
-Once per week the PM, EM and UX team member will meet to discuss the work that is currently in queue and prepare items for development. Ideally, the outcome of these meetings should be a rough plan of the next three milestones. While this is a collaborative process, the PM is the DRI for determining priority and grouping by priority labels to indicate product priorities: 
+Once per week the PM, EM and Product Designer will meet to discuss the work that is currently in queue and prepare items for development. Ideally, the outcome of these meetings should be a rough plan of the next three milestones. While this is a collaborative process, the PM is the DRI for determining priority and grouping by priority labels to indicate product priorities: 
 
 - `Release::P1`, which is the current milestone's top focus and we strive to deliver ***all*** of these issues
 - `Release::P2`, is the next highest priority for the milestone we strive to deliver ***most*** of these issues.
@@ -125,19 +126,19 @@ Once the MR has been merged, the engineer will move the issue into `workflow::ve
 
 The Release team uses epics to describe features or capabilities that will increase the maturity of the Release categories over time.
 
-Each Epic should be owned by an engineer who is responsible for all technical aspects of that Epic. The engineering owner will work closely with the Product Manager to understand the requirements and create issues that encapsulate the technical work required. Each issue needs to be weighted and contain enough information for any other engineer on the team to be able to pick up that work.
+Each epic should be owned by an engineer who is responsible for all technical aspects of that epic. The engineering DRI will work closely with the Product Manager and Product Designer to understand the requirements and create issues that encapsulate the technical work required during the [design](/handbook/product-development-flow/#validation-phase-3-design)/[solution validation](/handbook/product-development-flow/#validation-phase-4-solution-validation) phases and [build](/handbook/product-development-flow/#build-track) track of the [Product Development Flow](/handbook/product-development-flow/). Each issue needs to be weighted and contain enough information in the description area for any other engineer on the team to be able to pick up that work.
 
 **For the duration of building the epic**, the engineer does not need to be the only person implementing the issues. They should keep watch of the work that is done on the issues so that they can verify that the work is progressing correctly. If there are problems with the work, or lengthy delays,
 they need to make sure the Product Manager and Engineering Manager are aware.
 
 **When work is nearing completion**, the engineer should make sure that any additional issues that may have come up during the build process are either
-addressed, or scheduled for work. This will help to make sure that we do not build up technical debt while building.
+addressed, or scheduled for work. Additional issues should be created and added to the epic. This will help to make sure that we do not build up technical debt while building.
 
 **Finally**, they should also monitor any work that needs to occur while rolling out the Epic in production. If there are
 rake tasks, database migrations, or other tasks that need to be run, they need to see those through to being
 run on the production systems with the help of the Site Reliability counterpart.
 
-This places a lot of responsibility with the owner, but the PM and EM are always there to support them. This ownerships
+This places a lot of responsibility with the DRI, but the PM and EM are always there to support them. This ownerships
 removes bottlenecks and situations where only the PM or EM is able to advance an idea. In addition, the best people
 to decide on how to implement an issue are often the people who will actually perform the work.
 
