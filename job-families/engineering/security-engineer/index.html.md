@@ -164,7 +164,7 @@ Once an initiative is mutually agreed upon, the team member will be wholly respo
 
 **Define Objective and Scope of Work**
 
-Scope should include systems, services, and tools.  The objective should  provide a clear description of outlining the problem to be addressed, why this is a problem, what impact or value solving this problem will have, and the cost of not addressing this issue.  Note: The more data you can provide in proving value, the more likely you are to succeed. For example, it is better to say “fixing this will result in a reduction of $74,000 in bug bounty spend” vs “fixing this will make us more secure”.
+Scope should include systems, services, and tools.  The objective should provide a clear description of outlining the problem to be addressed, why this is a problem, what impact or value solving this problem will have, and the cost of not addressing this issue.  Note: The more data you can provide in proving value, the more likely you are to succeed. For example, it is better to say “fixing this will result in a reduction of $74,000 in bug bounty spend” vs “fixing this will make us more secure”.
 
 **Timebound**
 
