@@ -120,13 +120,13 @@ Tenure of less than 1 year at GitLab may be possibly waived as a requirement if:
   - You are a member of a(n [underrepresented](https://about.gitlab.com/company/culture/inclusion/#definitions)) group that is unsafe or in any way mistreated in your country.
   - Violence in your country does not provide a safe environment.
 
-If you meet these requirements, kindly read our [Relocation](https://about.gitlab.com/handbook/people-group/relocation/) handbook page, as well as our specific [Netherlands section](/handbook/people-group/relocation/#relocating-to-the-netherlands), to ensure that your request is evaluated and approved following our protocols. **Please email peopleops@ gitlab.com if you have any questions.**
+If you meet these requirements, kindly read our [Relocation](https://about.gitlab.com/handbook/people-group/relocation/) handbook page, as well as our specific [Netherlands section](/handbook/people-group/relocation/#relocating-to-the-netherlands), to ensure that your request is evaluated and approved following our protocols. **Please email peopleops@gitlab.com if you have any questions.**
 
 If you do not meet one or more of the above requirements, please file a request with your manager and indicate clearly which requirements you meet and which ones you do not meet. All situations will be reviewed on a case by case basis. If you receive full manager approval, please forward that approval to peopleops @gitlab.com at the start of the process. **Manager approval to proceed does not ensure that you will be approved to relocate and immigrate.**
 
 #### Transferring a partner visa to a highly skilled migrant visa
 
-Someone already in the Netherlands on a partner visa can be transferred to their own highly skilled migrant visa in order to not be dependent anymore. The process will take about 4-6 weeks if they are already in the Netherlands and don’t have to wait for an entry sticker or have to go for appointments to get registered. This is subject to above eligibility criteria and approvals. Please email peopleops@ gitlab.com if you have any questions or to start this process.
+Someone already in the Netherlands on a partner visa can be transferred to their own highly skilled migrant visa in order to not be dependent anymore. The process will take about 4-6 weeks if they are already in the Netherlands and don’t have to wait for an entry sticker or have to go for appointments to get registered. This is subject to above eligibility criteria and approvals. Please email peopleops@gitlab.com if you have any questions or to start this process.
 
 #### Resources
 
