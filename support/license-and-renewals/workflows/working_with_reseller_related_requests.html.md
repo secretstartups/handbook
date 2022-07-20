@@ -37,11 +37,21 @@ If a reseller partner needs to have the end-user contact details updated (who sh
 
 ### Handling reseller customers' requests for direct renewal
 
-To assist a customer who requests to renew their subscription directly with GitLab instead of through their reseller, follow the [working with sales workflow](./working_with_sales.html) and ensure you mention that the customer first had a Reseller purchase. Sales Support will correct the account details in CustomersDot afterwards.
+To assist a customer who requests to renew their subscription directly with GitLab instead of through their reseller, follow the [working with sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html) and ensure you mention that the customer first had a Reseller purchase. 
 
-Do not activate the CustomersDot login, as that would allow the customer to make purchases on behalf of the reseller (who then gets charged).
+Do not activate the CustomersDot login until the Sales-assisted purchase is processed. See [Enabling CustomersDot login](#enabling-customersdot-login)
 
 If a customer with a reseller purchase decides to make a new purchase on a different account, their subscription would be a new purchase instead of a renewal. The license generated would therefore not include the previous subscription counts. Follow the [troubleshooting license upload errors](/handbook/support/license-and-renewals/workflows/self-managed/troubleshoot_license_upload_issues.html) workflow to move the ticket forward.
+
+#### Enabling CustomersDot login
+
+Once a reseller customer renews directly with GitLab, we can restore login access to their CustomersDot account. To do this:
+
+1. **Important** Navigate to the customer's Zuora account and confirm that `SSPChannel` is set as `Non-Reseller`.
+    - If the subscription was a renewal, you can check the subscription history for an entry that changes the `Invoice Owner` as an extra confirmation step.
+1. Navigate to the `Edit` tab of the CustomersDot account.
+1. Tick the `Login activated` checkbox.
+1. Click `Save`.
 
 ### Handling the ticket
 
@@ -50,4 +60,4 @@ If a customer with a reseller purchase decides to make a new purchase on a diffe
 - Cannot sign into to Customers Portal or Resetting password for Customers Portal is not working
 - License cannot upload because there's true-up
 
-To move the ticket forward gather any license or subscription information relevant to the ticket, and then follow the [working with sales workflow](./working_with_sales.html) and pass to Sales team.
+To move the ticket forward gather any license or subscription information relevant to the ticket, and then follow the [working with sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html) and pass to Sales team.
