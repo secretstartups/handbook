@@ -67,7 +67,7 @@ The Solutions Architect is a [grade 6](/handbook/total-rewards/compensation/comp
 
 ### Senior Solutions Architect
 
-The Senior Solutions Architect reports to the Manger, Solutions Architect.
+The Senior Solutions Architect reports to the Manager, Solutions Architect.
 
 #### Senior Solutions Architect Job Grade
 
@@ -96,7 +96,7 @@ The Senior Solutions Architect is a [grade 7](/handbook/total-rewards/compensati
 
 ### Staff Solutions Architect
 
-The Staff Solutions Architect reports to the Manger, Solutions Architect.
+The Staff Solutions Architect reports to the Manager, Solutions Architect.
 
 #### Staff Solutions Architect Job Grade
 
