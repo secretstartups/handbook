@@ -11,7 +11,7 @@ category: General
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The Fulfillment Product team has been improving and evolving the purchasing and subscription-related experience at a rapid pace. As the systems we support are changing, new bugs and use-cases emerge. Ideally, we want to keep dilligent track of the bugs and feature opportunities we encounter through tickets and internal support requests. This allows easy prioritisation for the fulfillment team, as they know which bugs we want resolved and which features we want implemented in the product.  
+The Fulfillment Product team has been improving and evolving the purchasing and subscription-related experience at a rapid pace. As the systems we support are changing, new bugs and use-cases emerge. Ideally, we want to keep diligent track of the bugs and feature opportunities we encounter through tickets and internal support requests. This allows easy prioritisation for the fulfillment team, as they know which bugs we want resolved and which features we want implemented in the product.  
 
 ### Notice Board
 
@@ -50,7 +50,7 @@ The workflow for submitting a new bug or feature request is as follows.
    - For [Group Provision Issues](https://about.gitlab.com/direction/fulfillment/#provision-group) add the label "Group::Provision"
    - For [Group utilization Issues](https://about.gitlab.com/direction/fulfillment/#utilization) add the label "Group::Utilization"
    - For [Group Purchase Issues](https://about.gitlab.com/direction/fulfillment/#purchase) add the label "Group::Billing and subscription management"
-1. If you believe a high priorty issue is not getting adequate traction then please make [Omar Fernandez](https://gitlab.com/ofernandez2) and [John Lyttle](https://gitlab.com/jlyttle) aware.
+1. If you believe a high priority issue is not getting adequate traction then please make [Omar Fernandez](https://gitlab.com/ofernandez2) and [John Lyttle](https://gitlab.com/jlyttle) aware.
 
 
 ### Support Priority Label

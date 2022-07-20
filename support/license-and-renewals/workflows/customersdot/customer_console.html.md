@@ -382,7 +382,7 @@ Completely unlink a GitLab.com account from a CustomersDot account. **Note:** Us
 
 | Name | Required | Details |
 | ------ | ------ | ------ |
-| `:customer_id` | *Yes* |Customer ID to be unliked from it's GitLab account.|
+| `:customer_id` | *Yes* |Customer ID to be unlinked from it's GitLab account.|
 
 #### Sample
 

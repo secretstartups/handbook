@@ -16,7 +16,7 @@ description: Troubleshooting guide for purchase errors on GitLab.com
 This guide helps you troubleshoot purchasing errors on [GitLab.com](https://gitlab.com/sign_in).
 
 Many subscription and consumption purchases can be made through GitLab.com. At the Payment step, a customer may encounter a generic error like the following:
-> An error occured in the purchase step. If the problem persists please contact support@gitlab.com.
+> An error occurred in the purchase step. If the problem persists please contact support@gitlab.com.
 
 # Known Issues
 
@@ -173,7 +173,7 @@ so that their card does not get locked or blocked.
 <i class="fas fa-exclamation-triangle color-orange"></i> The Error message displayed in the top section of an issue is not always
 the same error displayed for a specific user. Always check the **event details** related to the user.
 
-To find the error specifically related to a user on Sentry, try to check for a logged error in atleast one of these Sentry projects:
+To find the error specifically related to a user on Sentry, try to check for a logged error in at least one of these Sentry projects:
 
 1. [`gitlabcom`](https://sentry.gitlab.net/gitlab/gitlabcom/issues/)
 1. [`gitlabcom-clientside`](https://sentry.gitlab.net/gitlab/gitlabcom-clientside/issues/)
@@ -193,7 +193,7 @@ If you have the `username` of the user, find the error message for the user in S
    - Click on any to see details of the error message
 
 #### Searching with the user's ID in `gitlabcom-clientside` Sentry project
-If you have the `ID` of the user, find the errror message for the user in Sentry's `gitlabcom-clientside` project:
+If you have the `ID` of the user, find the error message for the user in Sentry's `gitlabcom-clientside` project:
    - Go to [gitlabcom-clientside Sentry project](https://sentry.gitlab.net/gitlab/gitlabcom-clientside/issues/)
    - Use `user:"id:userID"` (replace `userID` with the actual ID from GitLab)
    - Look for an error with `buy_minutes` or `buy_storage` that looks like `Error?(/assets/webpack/commons-pages.subscriptions.buy_minutes-pages.subscriptions.buy_storage.49207fe4.chunk.js)`

@@ -351,7 +351,7 @@ with the rest of Support.
    group agrees on a single way to keep all of its members informed as to
    upcoming and current absences, then there won’t be any unpleasant surprises.
 
-### 4. Will Suppport FlexiPods work with SGG?
+### 4. Will Support FlexiPods work with SGG?
 
    Yes! These two systems provide different ways of dividing up the ticket
    work, with FlexiPods based on subject matter expertise and SGG based on the

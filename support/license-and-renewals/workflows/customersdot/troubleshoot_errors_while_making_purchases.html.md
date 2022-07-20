@@ -34,7 +34,7 @@ To find the error specifically related to a customer on sentry, try the followin
    - Search for customer using one of the following: email, domain, or First/Last name (in case customer registered with a different email)
    - Click on one of the info, pencil, or person icon in the result
    - Take the customer ID from the URL https://customers.gitlab.com/admin/customer/customerID/pagepath
-1. Finding the errror message for the customer in Sentry:
+1. Finding the error message for the customer in Sentry:
    - Go to https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/
    - Use `user:customerID` (replace `customerID` with the actual customerID from CustomersDot)
    - Open sentry issue → Click on `EVENTS`
@@ -48,7 +48,7 @@ Login to [GCP Logs Explorer dashboard](https://console.cloud.google.com/logs/que
 
 1. Under Resource Type, select `VM Instance`
    - If needed, you can scope queries to specific log files by choosing one under `LOG NAME`
-   - Take care to note that by default, the logs are limited to 1 hour.  You can widen the time frame by clicking the Duration shown to the left of the seach box, similar to Kibana searching.
+   - Take care to note that by default, the logs are limited to 1 hour.  You can widen the time frame by clicking the Duration shown to the left of the search box, similar to Kibana searching.
 1. You can often find what you need simply by searching a customer ID or subscription name without needing to build a specific query.
 
 #### Advanced searching tips
@@ -67,7 +67,7 @@ The logging query language allows you to search by very granular attributes buil
 1. Locating an error for a given namespace
    - `jsonPayload.order_params.gl_namespace_id="xxxxxxxx"`
 
-In the Log Fields panel, you can also choose specific log files, as well as severity lables such as `Info`, `Error`, etc.  You can also include these in the query builder:
+In the Log Fields panel, you can also choose specific log files, as well as severity labels such as `Info`, `Error`, etc.  You can also include these in the query builder:
 
 1. `severity=ERROR` will return only errors.
 1. `severity=INFO` will return only non-errors.

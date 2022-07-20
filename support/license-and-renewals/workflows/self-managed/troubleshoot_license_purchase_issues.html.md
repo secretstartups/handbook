@@ -9,7 +9,7 @@ category: GitLab Self-Managed licenses
 
 ----
 
-Customers may report encountering the following error message when purchassing additional seats for their licensed GitLab Self-Managed instance:
+Customers may report encountering the following error message when purchasing additional seats for their licensed GitLab Self-Managed instance:
 
 > The Charge is not allowed to be updated on MM/DD/YYYY
 

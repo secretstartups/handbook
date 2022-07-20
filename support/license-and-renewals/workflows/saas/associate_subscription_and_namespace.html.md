@@ -43,7 +43,7 @@ If there is an outstanding fee at step 10, go to the admin view > namespaces tab
 
 Use the `Associate namespace` transactions issue type in ZD and set the ticket to Pending.
 
-## Troubleshooting 502 errors while provisioning the subscrpition 
+## Troubleshooting 502 errors while provisioning the subscription 
 
 While handling the subscription provisioning requests, we might encounter a 502 error while impersonating the user on the customer portal, this occurs when an admin accidentally links their GitLab.com admin account with the customer portal account, due to which the customer portal tries to fetch all the groups that are accessible to the admin user on GitLab.com and eventually returns a 502 error. 
 
@@ -110,7 +110,7 @@ If the user doesn't see a subscription in CustomersDot:
 1. Copy the SFDC Account ID from the page's URL to a clipboard _note: this is
    the number appended to end of the URL after `gitlab.my.salesforce.com/`_
 1. From the Quotes related list, select the Quote record with the proper
-   susbcription term and with `Status` = `Sent to Z-Billing`
+   subscription term and with `Status` = `Sent to Z-Billing`
 1. Copy the `Zuora Account ID` to a clipboard
 1. Log into the [CustomersDot](https://customers.gitlab.com/customers/sign_in)
    using the generic email. Password is stored in 1Password.

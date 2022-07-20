@@ -74,7 +74,7 @@ graph TD;
 
 Except for downgrading to Free, plan changes on a paid non-trial namespace should be done through a subscription purchase.
 
-If a plan must be modified manually, ensure you have approval from product, development, or a support manager, as manually changing a plan causes data discrepencies and can cause bug issues. Use an internal ZD ticket to track approval, the change made, how the change was made, set yourself as assignee, and a due date to remind yourself to change it back.
+If a plan must be modified manually, ensure you have approval from product, development, or a support manager, as manually changing a plan causes data discrepancies and can cause bug issues. Use an internal ZD ticket to track approval, the change made, how the change was made, set yourself as assignee, and a due date to remind yourself to change it back.
 
 In the case of an emergency, please make the change, and pass the ticket with an internal note to, or create an internal request for, the L&R team to investigate.
 
