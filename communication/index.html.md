@@ -1420,7 +1420,7 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | `#office-today`                      | GitLab is an [all-remote](/company/culture/all-remote/) organization. Where’s your office today? Share a photo or use words to describe it.                                                                                          |
 | `#payroll`                           | For questions pertaining to [payroll](/handbook/finance/payroll/) and [contractor invoices](/handbook/finance/payroll/#non-us) (e.g. ADP, etc.).                                                                                     |
 | `#people-connect`                         | For general People Ops questions (e.g. [onboarding](/handbook/people-group/general-onboarding/), [offboarding](/handbook/people-group/offboarding/), [team meetings](/company/culture/all-remote/meetings/), etc.). Also for anything related to compensation, benefits, or equity. You can also check out the Total Rewards [issue tracker](https://gitlab.com/gitlab-com/people-group/total-rewards/issues) and [handbook page](/handbook/total-rewards/)!                  |
-| `#questions`                         | For any general help with anything, really, and Git. If you have a question but you're not sure in which channel you should ask it, questions is always a great place!                                                               |
+| `#questions`                         | You may have a question that you can’t find the answer to in our handbook (or you need help finding something in the handbook). If your question relates to one or more of [these topics](/handbook/communication/#questions), go directly to the subject matter experts/source in the designated slack channel to ensure your question is addressed. If your question doesn’t relate to any of these topics, ask it in #questions.                                                               |
 | `#random`                            | Anything and everything from photos, news, food, music, etc.                                                                                                                                                                         |
 | `#talent-acquisition`                | For questions about [referrals](/handbook/hiring/referral-process/), the [hiring process](/handbook/hiring/), and/or candidate status.                                                                                               |
 | `#remote`                            | To share news, thoughts, feedback and anything else pertaining to remote work! Learn more about [GitLab's approach to remote work](/company/culture/all-remote/).                                                                    |
@@ -1430,6 +1430,39 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | `#values`                             | Channel to discuss iterations on GitLab values                                                                                                                                                                                |
 | `#women`                             | Employee resource group for members and allies.                                                                                                                                                                                      |
 
+
+### Questions
+ 
+If you have a question that you can’t find the answer to in our handbook (or you need help finding something in the handbook) team members across the company are here to help.
+ 
+If your question relates to one or more of the following topics, go directly to the subject matter experts/source in the designated slack channel to ensure your question is addressed.
+ 
+Are you a subject matter expert in your role or knowledgeable in a topic-specific channel on Slack? Add the topic and channel to the grid so team members know where to go if they have questions on that topic.
+ 
+ 
+| Topic                              | Ask your question in                                                                                                                                                                                                                              |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Any People Team related questions                       | `#people-connect`                                                      |
+| Brand assets         | `#marketing`|
+| Diversity, Inclusion, and Belonging | `#diversity_inclusion_and_belonging`                         |
+| Existing issues for existing problems       | `#is-this-known`                                                                                                                                          |
+| Expenses                          | `#expense-reporting-inquiries`                                                                                                                                                                                  |
+| GitLab gear, swag                   | `#swag`                                                                                                                                                                |
+| IT                     | `#it_help`                                                                                                                                                                           |
+| Merge requests                           | `#mr-buddies`                                                                                                     |
+| Pay slips, pay dates             | `#payroll`                                                                                 |
+| Product                        | `#product`                                                                                                                                                                                          |
+| Referrals, hiring process, candidate status                  | `#talent-acquisition`                                                                                                    |
+| SAFE                  | `#safe`                                                                                                   |
+| Sales                      | `#sales`                                                                                          |
+| Stock options, RSUs, vesting schedule                           | `#stock-admin`                                                                                     |
+| Using Git in the terminal                         | `#git-help`                 |
+ 
+If your question doesn’t relate to any of the above topics:
+
+- Ask it in the `#questions` Slack channel
+- Once you receive an answer, document it in the handbook and post the MR link in your question thread 
+- :heavy_check_mark: once you’ve been helped
 
 
 ### Slackbots
