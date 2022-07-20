@@ -156,7 +156,7 @@ Initiatives are selected with the following criteria:
 * Relevant: The initiative should be relevant to GitLab, the Security Department, and the team member’s team.
 * Impactful: The initiative should have a positive impact in making GitLab more secure and/or maturing our Security program
 * (Preferably) Within Team Member’s Domain: To increase the team member’s ability to succeed and ability to control influence and outcome, the chosen work should fall within the team member’s domain of work.  The team member does not need to be at an expert level as growth and development in skillset is not only encouraged, but intended.
-* Solves a Problem:  The initiative should be designed to solve a problem.  The work can and will likely include research, but the ultimate goal is to produce an outcome that remediates or mitigates a security concern.
+* Solves a Problem:  The initiative should be designed to produce an outcome that remediates or mitigates a security concern.
 
 ### Project Expectations:
 
