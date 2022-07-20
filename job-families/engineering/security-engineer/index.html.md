@@ -188,7 +188,7 @@ The team member should carefully consider dependencies ahead of time and how the
 
 **Reporting**
 
-Tracking and reporting is a necessary component to ensuring visibility and transparency to your stakeholders and other interested parties.  Further, this allows for quicker intervention when a project is at risk.  The team member should determine the proper cadence and method of communication for their project.  Reporting should include project metrics to make it easier to understand status.
+Tracking and reporting is a necessary component to ensuring visibility and transparency to your stakeholders and other interested parties. This reporting also helps provide guidance for other IC's that want to work towards a Staff+ position within GitLab. Further, this allows for quicker intervention when a project is at risk.  The team member should determine the proper cadence and method of communication for their project.  Reporting should include project metrics to make it easy to understand status.
 
 **Close-out**
 
