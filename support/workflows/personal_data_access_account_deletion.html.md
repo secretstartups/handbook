@@ -157,7 +157,7 @@ If the user fails to respond after 14 days, apply the `Account Verification Fail
 #### Response Received
 {:.no_toc}
 
-Once the user responds with their answers to the challenge questions, evaluate their answers using the [Account Verification workflow](https://about.gitlab.com/handbook/support/workflows/account_verification.html#evaluating-challenge-answers) with a data classification of `RED` (all user data is [classified as red](https://docs.google.com/spreadsheets/d/1eNuSLuBcZWQe13SV1TfEjtNdCOZw7G7ofY9A42Y0sPA/edit#gid=797822036)) to confirm if the verification passes or fails.
+Once the user responds with their answers to the challenge questions, evaluate their answers using the [Account Verification workflow](https://about.gitlab.com/handbook/support/workflows/account_verification.html#evaluating-challenge-answers) with a data classification of `RED` and the [appropriate risk factor worksheet for data and privacy requests](https://docs.google.com/spreadsheets/d/1RyPghnls0NbrWQK7-qtlVW9_jj8mQAygX83n96Asxlo/edit) (internal) to confirm if the verification passes or fails.
 
 #### Challenge Questions Verification Fail
 {:.no_toc}
