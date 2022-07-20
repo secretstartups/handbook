@@ -28,8 +28,8 @@ description: "This page is an overview of the search team alignment and the tale
 | Development: Ops | Riley Smith | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
 | Development: Dev | Sara Currie | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
 | Development: Analytics, Growth, Secure | Dielle Kuffel | Zsuzsanna Kovacs and Susan Hill | Guido Rolli |
-| Quality | Rupert Douglas| Zsuzsanna Kovacs | Guido Rolli |
-| Quality | Matt Angell   | Zsuzsanna Kovacs | Alice Crosbie |
+| Quality: Quality Engineering | Rupert Douglas| Zsuzsanna Kovacs | Guido Rolli |
+| Quality: Engineering Productivity, Contributor Success, Engineering Analytics | Matt Angell   | Zsuzsanna Kovacs | Alice Crosbie |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  | Guido Rolli |
 | Support | Joanna Michniewicz  |  Joanna Michniewicz | Alice Crosbie |
 | Security | Nicky Kunstman |  Zsuzsanna Kovacs | Michelle Jubrey |
