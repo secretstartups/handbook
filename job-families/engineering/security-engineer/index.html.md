@@ -144,7 +144,7 @@ The Distinguished Security Engineer is a [grade 10](/handbook/total-rewards/comp
 
 ## Staff+ Driven Initiatives
 
-Our Staff+ individual contributors take on a larger role by driving initiatives that are larger in scope, impact, and value than their current day-to-day responsibilities call for.  In order to achieve this, Staff+ engineers will be able to choose 1 project mutually agreed upon with their manager and act as DRI for that initiative until completion or mutually agreed upon priorities change.  The goal is to provide our staff+ team members the following benefits:
+At GitLab, [Staff+ individual contributors](https://about.gitlab.com/handbook/engineering/ic-leadership/) take on a larger role by driving initiatives that are larger in scope, impact, and value than their current day-to-day responsibilities call for.  In order to achieve this, Staff+ engineers are encouraged to choose 1 project, mutually agreed upon with their manager, for which they act as DRI until completion or mutually agreed upon priorities change.  The goal is to provide our staff+ team members the following benefits:
 * Career Growth through increased scope and responsibility
 * Increase in influence and authority
 * Increase in decision making opportunities
