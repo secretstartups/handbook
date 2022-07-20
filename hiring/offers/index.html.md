@@ -99,7 +99,7 @@ Information in the offer package for counter offers should include the following
 
 ### Final Offer Approval
 
-On offers at Director and above, approval is needed from the Chief People Officer (CPO) or the Chief Executive Officer (CEO), there is an `#offers` Slack channel where the requests should be added. The CEO or CPO should always be @mentioned for their approval. This Slack channel is private and only the talent acquisition team, CPO, CEO, and CFO have access to it. Please ensure your ping has:
+On offers at Senior Director and above, approval is needed from the Chief People Officer (CPO) or the Chief Executive Officer (CEO), there is an `#offers` Slack channel where the requests should be added. The CEO or CPO should always be @mentioned for their approval. This Slack channel is private and only the talent acquisition team, CPO, CEO, and CFO have access to it. Please ensure your ping has:
 
 1. Name
 1. Position
