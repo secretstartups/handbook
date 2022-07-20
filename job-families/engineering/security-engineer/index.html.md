@@ -182,7 +182,7 @@ The project needs to have a well defined exit criteria.  This should match with 
 
 The team member should ensure stakeholders are identified, notified, and kept informed throughout the duration of the project.  It is the team member’s responsibility to negotiate time and resources with their stakeholders and understand the nuances of stakeholder and team priorities.
 
-**Dependencies**
+**Dependencies & Risks**
 
 The team member should carefully consider dependencies ahead of time and how they might impact the project to reduce the likelihood of them and their stakeholders being surprised by significant factors that can derail a project.
 
