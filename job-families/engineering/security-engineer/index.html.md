@@ -152,7 +152,7 @@ Our Staff+ individual contributors take on a larger role by driving initiatives 
 * Project Management experience
 
 Initiatives are selected with the following criteria:
-* Collaborative: The team member and team member’s manager will mutually agree upon the initiative.
+* Collaborative: The team member and team member’s manager will mutually agree upon the initiative, taking into account the requirements of other stakeholders.
 * Relevant: The initiative should be relevant to GitLab, the Security Department, and the team member’s team.
 * Impactful: The initiative should have a positive impact in making GitLab more secure and/or maturing our Security program
 * (Preferably) Within Team Member’s Domain: To increase the team member’s ability to succeed and ability to control influence and outcome, the chosen work should fall within the team member’s domain of work.  The team member does not need to be at an expert level as growth and development in skillset is not only encouraged but intended.
