@@ -363,7 +363,7 @@ analysts across the GitLab Data Program
 
 ### GitLab Groups
 
-1. `@gitlab-org/growth/data-analysts` - Notifies the entire Product Data Insights team
+1. `@gitlab-data/product-analysts` - Notifies the entire Product Data Insights team
 
 ### YouTube Playlist
 
