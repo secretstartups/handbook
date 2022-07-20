@@ -184,7 +184,7 @@ The team member should ensure stakeholders are identified, notified, and kept in
 
 **Dependencies & Risks**
 
-The team member should carefully consider dependencies ahead of time and how they might impact the project to reduce the likelihood of them and their stakeholders being surprised by significant factors that can derail a project.
+The team member should carefully consider project dependencies and risks ahead of time and how they might impact the project to reduce the likelihood of them and their stakeholders being surprised by significant factors that can derail a project.
 
 **Reporting**
 
