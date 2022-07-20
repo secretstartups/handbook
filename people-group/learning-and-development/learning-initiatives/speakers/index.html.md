@@ -25,9 +25,8 @@ The L&D team hosts quarterly Learning Speaker Series open to all team members. T
 | Date | Session Title + Link |
 | ----- | ----- |
 | 2022-05-11 | [Mental Health Awareness Month Discussion with Britt Turpack](https://youtu.be/K0JA0t7xtrc) + [8 Minute Meditation](https://youtu.be/5QOAUbto2rg) |
-| ----- | ----- |
-| ----- | ----- |
-| ----- | ----- |
+| 2022-06-22 | [Self Compassion Practice with Dulce Orozco](https://www.youtube.com/watch?v=URErnHF2jdQ) |
+| 2022-07-20 | [Compassionate Feedback with Maria Moss](https://youtu.be/P0GrHQIg-c8) and [Feedback Exercise Resource](https://drive.google.com/file/d/1KH4N1o-Hdlm2-XCOOe7zIxsd_mvlgTKz/view?usp=sharing) |
 
 ### FY23 Q1 Series: All-Remote Communication
 
