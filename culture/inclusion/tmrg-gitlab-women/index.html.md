@@ -37,7 +37,7 @@ This TMRG is focused on 4 key areas of impact. We call them our pillars. Review 
 * [Michael McBride](https://about.gitlab.com/company/team/#mmcb) - Chief Revenue Officer
 
 ## How to Join
-* Please sign up [here](https://groups.google.com/a/gitlab.com/g/womenstmrg) to be added to the Women TMRG Google Group. This will ensure you're added to upcoming TMRG calendar events.
+* Please sign up [here](https://groups.google.com/a/gitlab.com/g/womenstmrg) to be added to the Women TMRG Google Group. This will ensure you're added to upcoming TMRG calendar events. **It might take up to 24 hours before the calendar events appear on your calendar. If there is an event happening within 24 hours of you joining the Google Group, please post in the #women Slack channel to be added manually.**
 * Join the [#women](https://app.slack.com/client/T02592416/C7V402V8X/thread/CMEH4ML5C-1646249913.156129) Slack channel for conversation, announcements, and connecting with other TMRG members. Please introduce yourself in the channel when you join!
 
 ## Member Involvement
