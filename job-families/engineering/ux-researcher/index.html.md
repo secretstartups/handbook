@@ -232,13 +232,13 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * We will schedule the next stages if the recording indicates your past experiences will lead to your success in a role at GitLab.
 
-* Candidates will be invited to a 1-hour interview with the Director of UX Research. You will discuss your career, your experiences as a UX Researcher, and the role of UX Research at GitLab. 
+* Candidates will be invited to a 50-minute interview with a UX Researcher. Overall, this interview aims to understand how you choose your research methods, how you present results, how you work with a wider team of counterparts, and how you determine whether your research resulted in a meaningful business impact. This interview will also look to understand the softer skills you have as a researcher and how you apply those in the real world. 
 
-* The next interview is 50 minutes with a UX Researcher. Overall, this interview aims to understand how you choose your research methods, how you present results, how you work with a wider team of counterparts, and how you determine whether your research resulted in a meaningful business impact. This interview will also look to understand the softer skills you have as a researcher and how you apply those in the real world. 
+* The next interview is a 50-minute interview with either a Product Design Manager, Product Designer or Product Manager. In this interview, we'll focus on how you collaborate with cross-functional stakeholders and mentor non-researchers in successfully conducting research. This interview is an opportunity for you to understand the stage you will be a part of in more detail, hear a different perspective on the stable counterpart relationship, and ask any questions you have. 
 
-* Candidates will then be invited to a 50-minute interview with either a Product Design Manager or Product Designer. In this interview, we'll focus on the end result of a research study you've outlined in your case study presentation. We want to understand the question(s) you were addressing (and how you determined these questions), your methodology, and how you shared that information with the wider team. This interview be an opportunity for you to understand the stage you will a part of in more detail, hear a different perspective on the stable counterpart relationship, and ask any questions you have. 
+* Candidates will the be invited to a 50-minute interview with a UX Research Manager where we'll focus on your experience researching Developers and working with global team members in an Agile setting.  
 
-* The final interview is 50 minutes with a Product Manager. The scheduling of this interview is contingent on positive feedback in the previous interviews. This interview be an opportunity for you to understand the stage you will a part of in more detail, hear a different perspective on the stable counterpart relationship, and ask any final questions you have. 
+* The final interview is a 1-hour interview with the Director of UX Research. You will discuss your career, your experiences as a UX Researcher, and the role of UX Research at GitLab. 
 
 * Successful candidates will subsequently be made an offer via Zoom.
 
