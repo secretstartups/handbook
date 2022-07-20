@@ -93,7 +93,7 @@ Not all POCs will be successful, and that is OK! Some avenues of research may no
 
 #### Schedule
 
-We use the [Scheduling boards](#scheduling-board) for this phase. Each milestone, the PM will create [a planning issue](https://gitlab.com/gitlab-org/ci-cd/release-group/release/-/blob/master/.gitlab/issue_templates/Internal%20Milestone.md)
+We use the [Scheduling boards](#scheduling-board) for this phase. Each milestone, the PM will create [a planning issue](https://gitlab.com/gitlab-org/ci-cd/release-group/release/-/blob/master/.gitlab/issue_templates/Internal%20Milestone.md).
 
 Once per week the PM, EM and Product Designer will meet to discuss the work that is currently in queue and prepare items for development. Ideally, the outcome of these meetings should be a rough plan of the next three milestones. While this is a collaborative process, the PM is the DRI for determining priority and grouping by priority labels to indicate product priorities: 
 
@@ -102,6 +102,8 @@ Once per week the PM, EM and Product Designer will meet to discuss the work that
 - `Release::P3`, often considered strech goals, these issues are the lowest priority for the milestone and we strive to deliver ***some*** of these issues.
 
 When the planning issue has been drafted, the entire team is then invited to review the milestone plan and give feedback asynchronously. Once finalized, the EM will ensure all items have been assigned the appropriate milestone, which will pull items into the Build board. The `Deliverable` label will be applied by the EM as a signal of which items can be confidently delivered based on team capacity. As a general rule, we plan ambitiously so delivering 70% or more of our deliverables is considered a success.
+
+When the planning issue is finalized and before the milstone starts, the PM will add the appropriate `release post item` label to any features that will be added to the [GitLab Release Post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#:~:text=Release%20posts%20are%20blog%20posts,patch%2Fsecurity%20releases%20whenever%20necessary). This will ensure that blog post entries are auto-generated, reviewed and ready to merge as soon as a feature makes it into the release.
 
 #### Build
 
