@@ -307,3 +307,11 @@ For the Absence Management team:
   * Do a weekly audit of parental leave return dates. If a team member hasn't sent an e-mail within 3 days of returning, send them the return to work e-mail, copying the manager in.
   * If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
   * If the dates in PTO by Roots change, update the payroll changes file and the BambooHR status accordingly.
+
+### Team Member Relief Program
+
+When Team Members are affected by natural disasters such as fires, earthquakes, floods, etc., GitLab has established a Team Member Relief Program to assist with financial hardship from these disasters or other emergencies.  This program is managed in partnership with E4E Relief, a non-profit that helps businesses establish global disaster relief programs for their Team Members.  
+
+This program provides Team Members and their families with short-term, need-based assistance in times of extreme need.  If you experience a difficult situation, please visit the [GitLab Cares Portal](http://gitlab.e4erelief.org/) to easily determine if you're eligible for program assistance and to apply for assistance.  
+
+GitLab started the fund with an initial contribution to support team members.  Team Members may also choose to make donations to the fund as part of their annual giving and donation efforts.  If you wish to makea  donation, please visit the Portal and select 'Contribute to the Fund'.  Donationas are tax-deductable (country-specific tax laws apply).  
