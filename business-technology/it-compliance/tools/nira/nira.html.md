@@ -23,7 +23,9 @@ _That's why the creators of Nira built this tool from the ground up to help busi
 
 ## Who is Nira For?
 
-"Nira is used by administrators of cloud applications, typically IT and Information Security teams. Customers include companies of all sizes from hundreds to thousands of employees. Nira's largest customers have many millions of documents in their Google Workspace." -- [Nira](https://nira.com/about/)
+Nira is used by team members to be able to view and modify the sharing settings of documents that they own. Nira is also used by administrators of cloud applications, typically IT & Information Security teams, to review metadata and sharing settings of documents.  
+
+Nira's largest customers have many millions of documents in their Google Workspace, and customers include companies of all sizes from hundreds to thousands of employees.
 
 
 ## How Secure is Nira?
