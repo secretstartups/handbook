@@ -188,7 +188,6 @@ Some team members may feel comfortable sharing their news sooner than other team
 
 **To initiate your Parental Leave, submit your time off by selecting `Parental Leave` in PTO by Roots at least 30 days before your leave starts.** We understand that Parental Leave dates may change, so you can edit your PTO by Roots at a later time if you need to adjust the dates of your Parental Leave. It's important that you submit a tentative date at least 30 days in advance. Your manager and the Absence Management team will get notified after you submit your leave. The Absence Management team will send you an e-mail within 48 hours (whenever possible) confirming that they've been notified of your Parental Leave dates.
 
-
 You don't have to take your Parental Leave in one continuous period, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as it is completed prior to the child's first birth or first anniversary of the adoption event. The Absence Management team will receive a notification every time you edit your Parental Leave dates. Make sure your leave is under the `Parental Leave` category, otherwise the Absence Management team won't get a notification.
 
 **A few things to note:**
@@ -196,12 +195,13 @@ You don't have to take your Parental Leave in one continuous period, we encourag
 *When determing the dates of your leave, GitLab uses a 1/7 formula (1 week = 7 days).  This means if you are planning on returning to work on a Monday, the last day of your leave will be Sunday.  Please use this formula when submitting your PTO by Roots request.
 * Parental leave includes public holidays and scheduled Friends & Family Days that occur within the start and end date of parental leave, but some countries allow team members to rollover holidays that occured while on Parental Leave.  Be sure to review your country's policy on this when planning the dates of your leave.
     * If eligible to roll over these holidays, and you'd like to use them to extend your time away, please enter this as `Public Holiday` in PTO by Roots and add a note indicating "rolling over holidays which occured while on parental leave".
+* Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your [country's leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits).
 
 ### Taking PTO After Taking Parental Leave
 
 If you need to take more time off after taking 16 weeks of Parental Leave, you can utilize our [Paid Time Off policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off). This time should be discussed with your Manager prior to the start of your Parental leave, and you will need to return to work for at least 7 calendar days before PTO can begin.
 
-Please e-mail leaves@gitlab.com if you'd like to make this request and submit your PTO dates in [PTO by Roots](https://about.gitlab.com/handbook/paid-time-off/#pto-by-roots).
+Please submit the dates of your PTO in [PTO by Roots](https://about.gitlab.com/handbook/paid-time-off/#pto-by-roots) by selecting `Vacation`.
 
 ### Commission Payout and Quota Relief
 
@@ -211,7 +211,11 @@ Team members with 6 months or more of past performance are paid (parental leave 
 
 On the day you return from leave and going forward, your commissions will be based on current performance only. The rate of commissions paid during your leave will be confirmed by the sales commissions team and communicated to the team member through the Absence Management team prior to your leave start date. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
 
+#### Quota Relief While On Parental Leave
 Additionally, effective Q1 FY22, commissioned roles are eligible to receive quota relief during their parental leave if the team member has been with GitLab for eight months or longer. The team member will receive credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave.  After 60 continuous days of parental leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 4 months. The team member would receive an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated On Target Incentive based off the number of days that a team member is in seat for the fiscal year. For example, If coming back from leave at the beginning of a fiscal year, the On Target Incentive will not be prorated. Please see a [reference slide here](https://docs.google.com/presentation/d/1pWM8UhJGL7G8w_QzLKM1q2Rqql4OKm7vLD9HSCKfT9g/edit#slide=id.p) for an example of how the quota relief process and calculation works. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/#sales-compensation-plan).
+
+#### Quota Relief While On Non-Parental Leave
+Additionally, effective Q1 FY24, commissioned roles are eligible to receive quota relief if the team member has been with GitLab for eight months or longer. The team member will receive credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave.  After 60 continuous days of leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 3 months. The team member would receive an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated On Target Incentive based off the number of days that a team member is in seat for the fiscal year. For example, if coming back from leave at the beginning of a fiscal year the On Target Incentive will not be prorated. Please review this [reference slide](https://docs.google.com/presentation/d/1pWM8UhJGL7G8w_QzLKM1q2Rqql4OKm7vLD9HSCKfT9g/edit#slide=id.p) for an illustration of the quota relief and calculation process. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/#sales-compensation-plan).
 
 Sales management has discretion on how to cover a team member's territory while they are on leave. However, if another team member is assigned to cover business for someone on leave, they should be assigned the opportunity in SFDC but not the account. Team members covering opportunities will be compensated on the opportunities that they close in their name. Reassigning accounts may trigger quota changes.
 
@@ -224,9 +228,6 @@ At the end of 90 continuous days of parental or medical leave, a one time paymen
 On the day you return from leave, the utilization payout returns to the established utilization attainment ranges.
 
 You are entitled to and need to comply with your local regulations. They override our policy.
-
-Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your [country's leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits).
-
 
 ### Returning from Parental Leave
 
