@@ -181,11 +181,11 @@ If your request meets any of the below criteria, add the additional time noted f
 - Required for: SaaS contracts >$25K, and one-time contracts >$100K.  
 - Turn time is based on the level of negotiation required and the suppliers willingness to meet budget and benchmark indicators.
 
-### Vendor Security Review (VSR): 4-7 Days 
-- This activity cannot begin until **after** the supplier completes the security questionairre and supplies their security documentation. Oftentimes, it can take a week for the supplier to respond and complete the requested materials. The SLA begins once that is completed.
+### Vendor Security Review (VSR): 4-14 Days 
+- This activity cannot begin until **after** the supplier completes the security/privacy questionnaire and supplies their security documentation. Oftentimes, it can take a week for the supplier to respond and complete the requested materials. The SLA begins once that is completed.
 - Time before this activity can begin, is entirely dependent upon the suppliers response time and maturity of security protocols.
 - A [VSR](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html) is required for: All SaaS purchases, and other purchase types where the supplier will have access to orange and/or red data (excluding field marketing events).
-- **TIP:** To increase speed of approval, upload any security compliance documentation to the Coupa Request and notify your supplier contact they will be receiving a request from  ZenGRC for completion ASAP.
+- **TIP:** To increase speed of approval, upload any security compliance documentation (such as the SOC-2 report) to the Coupa Request and notify your supplier contact they will be receiving a request from  ZenGRC for completion ASAP.
 
 ### Legal Review: 3 Days - 3+ Weeks  
  _Note: The amount of time for review, and to reach execution, is based on the details below. Use these SLA's as guidelines, noting that each contract review process is unique and if additional terms, requirements, and/or risks are identified the timeline for completion may be extended_
