@@ -25,7 +25,7 @@ Where applicable, GitLab account teams should assist prospects and customers by 
 1. [Initial customer pitch](#pitch)
 1. [Plan the Value Stream Workshop](#planning-meeting-with-customer)
 1. [Facilitate the Value Stream Workshop](#value-stream-workshop)
-1. [Summarize the findings](#summarize-the-findings)
+1. [Executive Briefing - Summarize the findings](#executive-briefing---summarize-the-findings)
 1. [Contribute back to this framework](#how-to-contribute)
 
 ### Qualify
@@ -204,16 +204,22 @@ The process which we will go through, at a high level, is as follows:
 
 ![Toolchain Upgrading and Maintenance](workflow-03.png)
 
-### Summarize the Findings
+### Executive Briefing - Summarize the Findings
 
-The final meeting as part of the Value Stream Assessment process is the findings and next steps presentation (though it's called a presentation, it's expected to be a two-way discussion). The high level topics of this meeting are:
+The final meeting as part of the Value Stream Assessment process is the findings and next steps presentation (though it's called a executive presentation, it's expected to be a two-way discussion). The high level topics of this meeting are:
 
 1. Summary of planning outcomes; what process was to be mapped and what target goals were created
 1. Summary of the current state mapping (with VSM diagram)
 1. Summary of the proposed future state mapping (with VSM diagram)
 1. Highlight the key differences, expected process and business benefits
+1. Walkthrough of recommendations
 1. Walkthrough and gain agreement for the transformation plan
 1. Define next steps and suggest a review date
+
+Example template of the executive briefing can be found [here](https://docs.google.com/presentation/d/133mECaV2vfUQGIn03mixXSI6ENrc4T-R_vRwXBRManA/edit?usp=sharing). Please modify accordingly to suit your customer's need.
+
+It is recommended to review the executive briefing with your champion, key stakeholder before the final meeting to collect additional feedback. The goal is to then deliver it jointly to the broader team to gain agreement.
+
 
 ## Training and Enablement
 
