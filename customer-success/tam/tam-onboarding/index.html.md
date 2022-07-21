@@ -27,3 +27,7 @@ Onboarding for Technical Account Managers is a guided, methodical process to ens
 To learn how we conduct both customer meetings and internal planning meetings, a new team member will shadow these meetings with one or more established members of the team.
 
 [Meeting Shadowing](/handbook/customer-success/tam/tam-onboarding/shadowing/)
+
+## TAM Office Hours
+
+We host a TAM office hour weekly at 3:00PM and 11:00PM UTC to answer questions in a judgment-free space. You can add your questions to the agenda document linked in the Google Calendar invite and hop on the call to work through questions or learn how to find helpful resources.
