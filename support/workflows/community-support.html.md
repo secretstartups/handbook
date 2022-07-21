@@ -139,4 +139,4 @@ graph LR
 
 ### Additional Resources
 
-For additional tips and best practices when working in the Community forum, refer to the [Community Relations Handbook entry for the Community forum](/handbook/marketing/community-relations/community-operations/workflows/forum/).
+For additional tips and best practices when working in the Community forum, refer to the [Community Relations Handbook entry for the Community forum](/handbook/marketing/community-relations/workflows-tools/forum/).
