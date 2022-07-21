@@ -146,7 +146,11 @@ If you wish to test resources using a real domain name (instead of an IP address
 
 ## Securing Cloud Testing Environments
 
-Test instances are, by default, publicly accessible on the Internet. Often, we need to test specific versions or configurations that may be vulnerable to remote compromise. It is your responsibility to secure your test instances to prevent them from being compromised and used to further attack our cloud environment.  The simplest way to secure your cloud instances is to apply the [concept of IP filtering](https://www.oreilly.com/library/view/linux-network-administrators/1565924002/ch09s03.html) for each instance you create.  For the majority of cases, this means source IP filtering from one or more [CIDR block ranges](https://whatismyipaddress.com/cidr) ensuring that only certain IPs and integrations can interact with the GitLab instance, therefore, reducing the attack surface of the GitLab organization as a whole.
+Test instances are, by default, publicly accessible on the Internet. Often, we need to test specific versions or configurations that may be vulnerable to remote compromise. It is your responsibility to secure your test instances to prevent them from being compromised and used to further attack our cloud environment. 
+
+### IP Filtering
+
+A highly effective way to secure your cloud instances is to apply the [concept of IP filtering](https://www.oreilly.com/library/view/linux-network-administrators/1565924002/ch09s03.html) for each instance you create.  For the majority of cases, this means source IP filtering from one or more [CIDR block ranges](https://whatismyipaddress.com/cidr) ensuring that only certain IPs and integrations can interact with the GitLab instance, therefore, reducing the attack surface of the GitLab organization as a whole.
 
 If you don't know your current IP address to use for source IP filtering, you can utilize services like [whatsmyipaddress.com](https://whatismyipaddress.com/) or [ipinfo.io](https://ipinfo.io/) to retrieve it.  Though configuring IP filtering is currently a manual process for each GitLab cloud instance, [discussions are underway](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4097) at the time of writing regarding how best to automate this practice to reduce complexity and manual processes needed. The steps to implement IP filtering will differ per cloud environment.  Here you can find current documentation for manually implementing source IP filtering in the most commonly used cloud platforms:
 
@@ -154,7 +158,29 @@ If you don't know your current IP address to use for source IP filtering, you ca
 - [Amazon Web Services (AWS)](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 - [Azure](https://docs.microsoft.com/en-us/learn/modules/introduction-azure-web-application-firewall/)
 
-## Persistent Local Environments
+### Patching against known vulnerabilities
+
+Running a Support test instance a known vulnerability can be a security issue. When running a test instance, you should patch against known vulnerabilities if possible.
+
+For example, GitLab versions from 11.9 to 13.10.2 are vulnerable to [CVE-2021-22205](https://about.gitlab.com/releases/2021/04/14/security-release-gitlab-13-10-3-released/#Remote-code-execution-when-uploading-specially-crafted-image-files).
+
+If you're running GitLab version 12.6 to 13.10.2, patch against this vulnerability by running the following commands for each instance:
+
+```
+sudo su
+cd ~
+curl -JLO https://gitlab.com/gitlab-org/build/CNG/-/raw/master/gitlab-ruby/patches/allow-only-tiff-jpeg-exif-strip.patch
+cd /opt/gitlab/embedded/lib/exiftool-perl
+patch -p2 < ~/allow-only-tiff-jpeg-exif-strip.patch
+```
+
+For GitLab versions 11.9.0 to 12.5.x, you can "patch" the vulnerability by replacing the `exiftool` binary with the following commands:
+
+```
+sudo rm -f /opt/gitlab/embedded/bin/exiftool
+sudo printf '#!/bin/bash \n\ncat -' > /opt/gitlab/embedded/bin/exiftool
+sudo chmod a+x /opt/gitlab/embedded/bin/exiftool
+```
 
 ### Install Docker
 
