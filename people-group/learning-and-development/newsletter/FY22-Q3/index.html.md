@@ -27,7 +27,7 @@ What you can expect this month:
 * Live Learning sessions to learn more about our Individual Growth Plan, Having a Career Conversation with Your Manager, and Having a Career Conversation with your Direct Reports 
 * Asynchronous course recommendations to help you in your career develpment 
 
-Want to learn more and follow along this month? Check out and follow the [FY22 Skill of the Month Channel](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) in GitLab Learn. 
+Want to learn more and follow along this month? Check out the [Skill of the month handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month). 
 
 ## Learn from Leadership 
 
@@ -37,13 +37,9 @@ This month's Learn from Leadership looks a little different than [previous month
   <iframe width="560" height="315" src="https://www.youtube.com/embed/k8k1xYtlo6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-Pattie has been with GitLab since March 2021 (2021-03). Learn more about her career development in the video above. Check out the [corresponding pathway](https://gitlab.edcast.com/pathways/career-development-with-pattie-egan) in GitLab Learn to see the video and add questions for Pattie to her Async AMA Issue. 
-
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/J9n0F22d0eU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-
-Darren has been with GitLab since July 2019 (2019-07) as our Head of Remote. Learn more about his career development in the video above. Check out the [corresponding pathway](https://gitlab.edcast.com/pathways/career-development-with-darren-murph) in GitLab Learn to see the video and add questions for Darren to his Async AMA Issue. 
 
 ## Recap of Q2
 
@@ -109,22 +105,13 @@ This month we are highlighting a project the Diversity, Inclusion, & Belonging (
    - Liam: This will soon be a handbook page but also the [DIB page](/company/culture/inclusion/) has lots of information on how you can get involved more with DIB at Gitlab. 
 
 
-## Learning at GitLab  
-
-When it comes to learning, maybe you aren't sure where to start. Here are some great options: 
-
-* Set aside 2 hours per week to work on personal development
-* Check out the [Certified Associate for team members](https://gitlab.edcast.com/pathways/copy-of-gitlab-certified-associate-pathway) training
-* Take a look at our [Recommended LinkedIn Learning Courses Channel](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses). You will find courses recommended by our L&D Team as well as your GitLab Team Member peers. 
-* We want to know more about how you prefer to learn. Please take [this short survey](https://forms.gle/aoojWtLwRoTrqa3d9) so we can better meet the needs of your learning style. 
-
 
 ### Team Member Contributions 
 
-We love that our team members have been contributing to GitLab Learn by making courses and putting together learning hubs. If you want to contribute as well, take our Learning Evangelist Pathway. 
+We love that our team members have been contributing by making courses and putting together learning hubs. If you want to contribute as well, take our Learning Evangelist Pathway. 
 
-1. [Technical Writing Fundamentals](https://gitlab.edcast.com/pathways/ECL-02528ee2-c334-4e16-abf3-e9d8b8260de4)
-1. [Marketing Learning Hub and GitLab Marketing Badges](https://gitlab.edcast.com/channel/gitlab-marketing-learning-hub)
+1. Technical Writing Fundamentals course
+1. Marketing Learning Hub and GitLab Marketing Badges
 
 
 ## Discussion 

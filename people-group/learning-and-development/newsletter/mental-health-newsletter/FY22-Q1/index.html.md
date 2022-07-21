@@ -18,10 +18,10 @@ If you have questions about how this benefit works, please reach out to the [tot
 
 ## Taking time for mental health
 
-During the month of March, the Learning and Development team encouraged team members to check out the [Time Off pathway in GitLab Learn](https://gitlab.edcast.com/pathways/time-off-is-productive-develop-your-rest-ethic). This pathway is featured on the [Mental Wellness channel](https://gitlab.edcast.com/channel/mental-wellness) and includes resources like:
+During the month of March, the Learning and Development team encouraged team members to check out the [Building a rest ethic handbook resources](https://about.gitlab.com/company/culture/all-remote/mental-health/). Included here is:
 
-1. A course by John Fitch called [Time Off: Design your Rest Ethic](https://gitlab.edcast.com/pathways/time-off-is-productive-develop-your-rest-ethic/cards/1286463)
-1. LinkedIn Learning courses on [Mindful Stress Management](https://gitlab.edcast.com/pathways/time-off-is-productive-develop-your-rest-ethic/cards/1257710) and [How to create a life of meaning and purpose](https://gitlab.edcast.com/pathways/time-off-is-productive-develop-your-rest-ethic/cards/1257713)
+1. A course by John Fitch called Time Off: Design your Rest Ethic
+1. LinkedIn Learning courses on Mindful Stress Management and How to create a life of meaning and purpose
 1. A call to action to contribute to our handbook section entitled [Your rest ethic is as important as your work ethic](/company/culture/all-remote/mental-health/#your-rest-ethic-is-as-important-as-your-work-ethic)
 
 ![rest-ethic-handbook](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q1/rest-ethic.png)
