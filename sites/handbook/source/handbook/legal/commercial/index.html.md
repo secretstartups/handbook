@@ -15,7 +15,7 @@ The GitLab Legal Commercial team is responsible for all contracting matters at G
         <img src="/images/icons/blog.png" alt="GitLab Marketing - Demand Generation - Icon">
         <div class="caption">
           <p class="center description">
-            <h4 class="orange">SALES</h4>
+            <h4 class="orange">SALES GUIDE</h4>
           </p>
         </div>
       </div>
@@ -27,7 +27,7 @@ The GitLab Legal Commercial team is responsible for all contracting matters at G
         <img src="/images/icons/swag_shop.png" alt="GitLab Marketing - Design - Icon">
         <div class="caption">
           <p class="center description">
-            <h4 class="orange">PROCUREMENT</h4>
+            <h4 class="orange">PROCUREMENT GUIDE</h4>
           </p>
         </div>
       </div>
@@ -39,7 +39,7 @@ The GitLab Legal Commercial team is responsible for all contracting matters at G
         <img src="/images/icons/location.png" alt="GitLab Marketing - Developer Relations - Icon">
         <div class="caption">
           <p class="center description">
-            <h4 class="orange">NDA'S</h4>
+            <h4 class="orange">NDA PROCESS</h4>
           </p>
         </div>
       </div>
@@ -51,4 +51,7 @@ The GitLab Legal Commercial team is responsible for all contracting matters at G
 
 
 ## GitLab Legal Commercial Processes and Resources
+
+### Agreement Style Guide
+- When drafting and/or updating templates be sure to use the [GitLab Legal Agreement Style Guide] (https://docs.google.com/document/d/1Gl3QYLL-A4SiAIfPZ8SI6bKnE1UpUek4MHDSOt1YIrM/edit#) _NOTE: This resource is only shared with GitLab Legal Team Members_ 
 
