@@ -111,6 +111,13 @@ group. <<<<<<<<**
 - All group members participating on a daily basis in supporting the rest of
   the group by sharing knowledge, assisting on tickets, and contributing to
   group process development and improvement
+- All group members participating in onboarding new group members
+  to ensure that newcomers feel comfortable asking questions. 
+  The group can decide how they want to approach it. 
+  This can include things like:
+  - regular group crush/pairing/coffee chat sessions
+  - identifying tickets that would help push a new group member out of their comfort zone
+  - encouraging a new group member to ask for help
 - All group members holding each other accountable for contributing
   appropriately to the group's success
 - Ensuring that all tickets are assigned at the time of first response
