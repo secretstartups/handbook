@@ -55,6 +55,7 @@ Use these helpful resources for completing team member self-service tasks in Wor
 |Team Members|submit a resignation|[Link](https://docs.google.com/document/d/1AVHHBKd6dtyn0DOl4_UydbdEhectLpH5aMh17r9Sg_4/edit)|[Link](https://drive.google.com/file/d/1CWEfVPFLRLtcFQh81mYAuXtYKvf3hKW0/view)|
 |Team Members|change self-identification of disability (US Only)|[Link](https://docs.google.com/document/d/1rgd-FkV5pGhn27g-LK5p53WuG2wjANrNJLgrWuLJjvY/edit)|[Link](https://drive.google.com/file/d/1QSosr0W0CW2AYou2rjUCyrZrV6m1c_OB/view)|
 |Team Members|change self-identification of veteran status (US Only)|[Link](https://docs.google.com/document/d/1-xbCLsdzn9R2zwG5zMzkBRx6BX6vbtCjAsEI6eQRdfM/edit)|[Link](https://drive.google.com/file/d/1QSosr0W0CW2AYou2rjUCyrZrV6m1c_OB/view)|
+|Team Members|upload a signed document|[Link](https://docs.google.com/document/d/1FDUdF9AxiRGHh8v9k1zkVL_5-kWUR9JGgv4AfdyvGeU/edit)|-|
 |Managers|request a one-time payment|[Link](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit)|-|
 |Managers|terminate team members (voluntary)|[Link](https://docs.google.com/document/d/1Fr1G1i1kssfADgDf3D6LbZHR8RZmWKZYDNV8AfduZ1c/edit)|-|
 |Managers|view team information|[Link](https://docs.google.com/document/d/1HlvaxIvmUPL6GLB3z6TqHWMf95RrDD7aOaeZPE0Hm7Q/edit)|-|
