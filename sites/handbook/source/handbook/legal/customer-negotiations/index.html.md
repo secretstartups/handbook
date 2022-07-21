@@ -107,7 +107,7 @@ Visit the [Channel Operations page](https://about.gitlab.com/handbook/sales/fiel
 - Dun and Bradstreet Number
 ...AND VARIOUS OTHER DETAILS
 - W9 is located on the Finance [Forms page](https://about.gitlab.com/handbook/finance/#forms)
-- Request Insurance Certificate on [Legal Team Page](https://about.gitlab.com/handbook/legal/#4-requests-for-insurance-certificate)
+- For Customers that request an Insurance Certificate for evidence of coverage, please open a Legal Request.
 
 1.  If there are questions / elements that are not found in the Company Information Page, the Sales Rep should engage Deal Desk to organize requests of finance and tax. Information regarding contacting Deal Desk and overall process can be found at the [Sales Order Process Page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms).
 
@@ -133,7 +133,7 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 ## Requests for GitLab Financial Information, Tax and Insurance Certificates
 
 1. For Tax Certificate requests please email the Finance team at [tax@gitlab.com](mailto:tax@gitlab.com)
-2. For Insurance Certificate requests please work with the Deal Desk team by tagging @sales-support in SFDC Chatter.  
+2. For Insurance Certificate requests, demonstrating evidence of coverage, please open a Legal Request
 3. Regarding GitLab financial information, GitLab is a public company and its public filings can be found on SEC.gov or on [GitLab's Investor Relations website](https://ir.gitlab.com/financial-information/sec-filings)
 
 
