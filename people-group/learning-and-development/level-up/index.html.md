@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: LevelUp
+title: Level Up
 ---
 
 ## On this page
@@ -11,7 +11,7 @@ title: LevelUp
 
 # Introduction
 
-Welcome to LevelUp at GitLab. This handbook page is meant to support both learners and administrators in Level Up. Thought Industries is the provider of the LevelUp platform and is mentioned often in this documentation. 
+Welcome to Level Up at GitLab. This handbook page is meant to support both learners and administrators in Level Up. Thought Industries is the provider of the Level Up platform and is mentioned often in this documentation. 
 
 # Contribute to Level Up
 
@@ -21,13 +21,20 @@ To contribute to Level Up, please open an issue in the [lxp-contributions projec
 
 # Learner FAQs
 
+**I'm a GitLab team member and I have a question or problem related to Level Up.**
+     - Please reach out to the #learninganddevelopment Slack channel for support. 
+
+**I was told my completion history would be transferred from the old learning system, but they aren't showing in my learning history.**
+     - Don’t worry, we’re working on transferring learning completion but it will take a couple of weeks for the transfer to be fully completed. You can follow updates in the #learninganddevelopment Slack channel.
+
+
 
 # Administrator Resources
 
 ## Training Resources
 
 1. The Thought Industries [Academy](https://academy.thoughtindustries.com/) includes self-paced training and support articles. Access the academy by clicking the `Need Help` button on the left side bar when logged into Thought Industries and scroll down to `Learn More in the Academy`
-1. Admin in LevelUp can use the `Help Center` to report technical probelms with platform directly to Thought Industries.
+1. Admin in Level Up can use the `Help Center` to report technical probelms with platform directly to Thought Industries.
 1. [Platform Settings PDF Guide](https://drive.google.com/file/d/1MXf8NTGRHWloO4WWZYwcRcDzrVucOfcW/view?usp=sharing)
 
 ## Administrator Home Page
@@ -38,13 +45,13 @@ The admin home page is a place for platfomr administrators to access:
 1. Updatse on new platform features, shared the last Tuesday of every month
 1. `Suggestions` tab to submit platform feature enhancements
 1. Opt-in subscriptions for system updates, outages, and scheduled maintence (suggested for all admin)
-1. The `Control Panel` that lists all features enabled in the LevelUp instance
+1. The `Control Panel` that lists all features enabled in the Level Up instance
 
 ## Platform Settings
 
 ### Notifications
 
-1. **Emails:** [Refer to this list of default emails sent to users](https://support.thoughtindustries.com/hc/en-us/articles/4404293128215-Default-Platform-Emails-to-Learners)]. Emails are branded for LevelUp
+1. **Emails:** [Refer to this list of default emails sent to users](https://support.thoughtindustries.com/hc/en-us/articles/4404293128215-Default-Platform-Emails-to-Learners)]. Emails are branded for Level Up
 
 ## Content settings
 
@@ -60,7 +67,7 @@ The admin home page is a place for platfomr administrators to access:
 
 1. Awareded upon completion of learning content
 1. Establish fields for all certifications by navigating to `settings` -> `certification`
-1. LevelUp is provisioned so users can share certificates on LinkedIn
+1. `Level Up` is provisioned so users can share certificates on LinkedIn
 1. A `.png` or .`jpeg` blank certificate must be uploaded when authoring a course
 1. When building a course, drag and drop criteria to be auto-filled into the blank certificate file
 
@@ -70,7 +77,7 @@ The admin home page is a place for platfomr administrators to access:
 
 #### Points (Awards)
 
-1. Awards in LevelUp are called Points 
+1. Awards in Level Up are called Points 
 1. Users earn points for completing certaion actions. **These must be configured, and are completely custom, by the GitLab team.*
 
 #### Badges
