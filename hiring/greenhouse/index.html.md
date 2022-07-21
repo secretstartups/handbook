@@ -83,7 +83,10 @@ Underneath the first text box, `Key Take-Aways`, there are two additional links,
 
 We want to highlight the strengths and weaknesses of the candidate in an easy to absorb, standardised way. Every scorecard must include  `Pros` and `Cons`. This helps the talent acquisition team gather data that will be presented to the candidate in the form of feedback.
 
-Below the text boxes for notes, each role has a list of desired attributes. Each stage has certain attributes highlighted that are recommended points of evaluation. However, **no** attributes are required, so you're welcome to rate any attributes you've gained insight into. All stages include attributes for values-alignment, which all Interviewers are heavily encouraged to complete, so we can assess values-alignment for each candidate.
+Below the text boxes for notes, each role has a list of desired attributes. Each stage has certain attributes highlighted that are recommended points of evaluation. However, **no** attributes are required, so you're welcome to rate any attributes you've gained insight into. All stages include attributes for values-alignment, which all Interviewers are heavily encouraged to complete, so we can assess values-alignment for each candidate. 
+
+You'll see a selection of symbols aligned with each attribute. You should use the `neutral` symbol sparingly
+. Do not use the `neutral` symbol to indicate you skipped the assessment of this attribute or didn't meet with the candidate.  
 
 Below the attributes is the final piece where you will make your decision. Greenhouse says *"Overall Recommendation: Did the candidate pass the interview?"*. This should be interpreted as, *"Do you want to hire this candidate?"* answered appropriately. The final score is not required by Greenhouse, but it must be completed by the Interviewer. If the Interviewer does **not** add their vote, the Talent Acquisition Team will follow-up to fetch their vote. If you are on the fence about a candidate, that's typically an indication that you do not want to hire the candidate. Though, if you're really unsure, feel free to reach out to the Recruiter to discuss further. Your Recruiter may agree with your hesitations and decline or you may agree that there is an element that should be explored in an additional interview.
 
