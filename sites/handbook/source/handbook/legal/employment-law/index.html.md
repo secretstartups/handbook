@@ -15,7 +15,7 @@ title: "Employment Law at GitLab"
 Employment law refers to the law that governs the relationship between employer and employee, so the Employment section of GitLab Legal interacts with the People Group on a regular basis to provide information and legal advice related to the entire arc of our team members’ relationship with GitLab.  **So what does that mean?**
 
 
-- It means we work closely with the Tax and People Operations team to determine scalable employment solutions for the Company as it hires across the globe.
+- It means we work closely with the Tax and People Operations team to determine scalable employment solutions for the Company as it hires across the globe, using a collaborative process for gathering and assessing relevant information on any particular country.
 - It means we support the Talent Acquisition department in meeting its goals and ensuring compliance with all local laws and regulations as they source, recruit, and hire new team members.
 - It means we help the People Operations team onboard new team members and get them the information they need that applies both to their location and to their job responsibilities.
 - It means we support the Total Rewards, People Operations, and People Success groups in developing policies that meet GitLab’s needs, our team members’ needs, and local requirements.
