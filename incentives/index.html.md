@@ -401,7 +401,7 @@ We canceled Contribute FY23-Q3 due to the COVID risk to team members in having a
 
 While the FY23-Q3 Visiting Grant Program shares a lot in common with the previous Visiting Grants Program, it varies in a few key ways:
 
-1. **Timing**. It must happen and be expensed within FY23-Q3.
+1. **Timing**. The event must happen within FY23-Q3 and and expenses filed within 7 days of the event ending.
 1. **Team member inclusion**. Efforts should be made to welcome all team members and [teams](https://about.gitlab.com/company/team/structure/#organizational-structure) when there are opportunities to do so within a geography. **Having events that are just for a specific team is against the intention of this program.** All events should include at least *8 people* who represent at least *2 teams*. Please ensure the activity is one where all team members attending would feel included to participate.
   1. Exceptions are okay if team members live in a location with few team members or little function diversity. In this case, team members can have local events that are inclusive of everyone who is within travel distance of the event. This may mean fewer than 8 people and only one function.
 1. **Planning transparency**. Please list any events or activities in our [shared event planner](https://docs.google.com/spreadsheets/d/1cCuzXhBIpMInn30-ZD1XCcNnv21CwsmsA9TorW03d7Q/edit?usp=sharing), so all team members have the chance to opt in. Local or event/activity specific Slack channels can be used for organization.
@@ -434,7 +434,7 @@ This Program has a limited timeframe, but we’ll look to the success of this pr
 We'll attempt to document answers to frequently asked questions in the handbook.
 
 1. Can I spend out of pocket without reimbursement if I want to participate beyond what is allowable given my budget?
-  1. You can use your own money to expense beyond your personal budget if it possible to split out personal expenses. For example, if a DRI is planning an event with 30 people and there is no way for you to pay your share out of pocket, you'd be asked to spend your event allowance rather than personal money toward this. If this is something that you are interested in doing, please sync with DRIs in advance of an event to confirm that you can pay for your participation out of pocket.
+  1. You can use your own money beyond your personal event budget if it is possible to split out your personal monetary spend. For example, if a DRI is planning an event with 30 people and there is no way for you to pay your share fully with your event allowance, you can use personal money out of pocket towards this difference. If this is something that you are interested in doing, please sync with the DRI(s) in advance of an event to confirm that you can pay for all/part of your participation with your own money.
 
 #### Sharing your Visiting Grant stories
 
