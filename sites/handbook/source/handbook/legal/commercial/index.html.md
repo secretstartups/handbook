@@ -53,5 +53,5 @@ The GitLab Legal Commercial team is responsible for all contracting matters at G
 ## GitLab Legal Commercial Processes and Resources
 
 ### Agreement Style Guide
-- When drafting and/or updating templates be sure to use the [GitLab Legal Agreement Style Guide] (https://docs.google.com/document/d/1Gl3QYLL-A4SiAIfPZ8SI6bKnE1UpUek4MHDSOt1YIrM/edit#) _NOTE: This resource is only shared with GitLab Legal Team Members_ 
+- When drafting and/or updating templates be sure to use the [GitLab Legal Agreement Style Guide](https://docs.google.com/document/d/1Gl3QYLL-A4SiAIfPZ8SI6bKnE1UpUek4MHDSOt1YIrM/edit#) _NOTE: This resource is only shared with GitLab Legal Team Members_ 
 
