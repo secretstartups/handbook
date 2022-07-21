@@ -438,7 +438,9 @@ We'll attempt to document answers to frequently asked questions in the handbook.
 
 #### Sharing your Visiting Grant stories
 
-If you're a GitLab team member who has traveled and utilized GitLab's Visiting Grant or are planning to do so soon, consider sharing your story! 
+If you're a GitLab team member who has traveled and utilized GitLab's Visiting Grant or are planning to do so soon, consider sharing your story!
+
+If you've previously made use of the [Significant Life Event Grant](https://about.gitlab.com/handbook/incentives/#significant-life-event-grants) (temporarily suspended), please check with the team member who invited you to their event if they are comfortable with you sharing their story first.
 
 These stories are useful in showing the world how we stay connected as a [geographically diverse team](/culture/inclusion/#fully-distributed-and-completely-connected). This is important as we [recruit the world's best talent to join us](/jobs/), as well as encouraging colleagues to take a leap, explore a new culture, and visit a team member in a new locale. They may be shared on GitLab's social media platforms, on hiring portals such as Glassdoor, or on the [GitLab blog](/blog/). You can also post pictures in the #fy23-q3-visiting-grants Slack Channel. 
 
