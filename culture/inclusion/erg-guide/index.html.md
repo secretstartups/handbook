@@ -221,6 +221,13 @@ Straight for Equality](https://ctb.ku.edu/en/table-of-contents/culture/cultural-
 * Possesses facilitation, team-building, and collaboration skills
 * Has a desire to build a presence for the TMRG within GitLab
 
+### TMRG Lead Training 
+
+All TMRG Leads should either watch the video or read through the slides of this training to ensure they are fully versed in the responsibilities, accountablilities and governance of TMRG leads. 
+
+[Video](https://www.youtube.com/watch?v=nLikJeVI9FY)
+[Slides](https://docs.google.com/presentation/d/1YhJsk0E20gdPQjMZYuwnUkCjohJkw0CNbqv8ge4creY/edit)
+
 ## Roles Within the Group
 
 #### Team Member Resource Group Members 
