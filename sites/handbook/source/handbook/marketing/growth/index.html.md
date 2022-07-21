@@ -63,7 +63,7 @@ The Growth section owns the following areas of the product experience.
 * [Instance review](https://docs.gitlab.com/ee/administration/instance_review.html)
 * [Product Qualified Leads](https://docs.gitlab.com/ee/development/product_qualified_lead_guide/)
  
- While we own these areas our work is not limited to these specific areas as the teams work cross-functionaly with other product and business teams to improve the user experience the most effecient way possible.
+ While we own these areas our work is not limited to these specific areas as the teams work cross-functionaly with other product and business teams to improve the user experience the most efficient way possible.
 
 ## Growth Coffee & Learn Sessions
 
