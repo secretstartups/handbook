@@ -419,7 +419,7 @@ While the FY23-Q3 Visiting Grant Program shares a lot in common with the previou
 
 Team members should be aware of key GitLab policies and asks. 
 
-1. Activities should be consistent with GitLab Inc. [values](/handbook/values/).
+1. Activities should be consistent with GitLab's [values](/handbook/values/).
 1. Any travel should be in line with our [travel policy](/handbook/travel/) and associated activities should comply with company [COVID policy around testing, masking, vaccination, etc.](/handbook/travel/#travel-guidance-covid-19).
 1. Team members should adhere to the [GitLab Code of Conduct](/company/culture/contribute/coc/).
 1. Team members should refer to our [contracts and vendor policies](/legal/procurement-guide-collaborating-with-gitlab-legal/#signing-contracts) and refrain from signing contracts on behalf of GitLab. 
