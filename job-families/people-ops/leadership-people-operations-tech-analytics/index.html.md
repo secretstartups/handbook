@@ -60,10 +60,10 @@ The Director, Risk and Resilience reports to VP, People Operations.
 The Director, Risk and Resilience is [Job Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Risk and Resilience Responsibilities:
-- Identify and assess the most critical threats to GitLab's Team members relating to geopolitical, enviornmental, and physical threats including incident response.  
+- Identify and assess the most critical threats to GitLab's Team members relating to geopolitical, environmental, and physical threats including incident response.  
 - Establish GitLab's Enterprise Risk Management framework to support program needs.
 - Develop strategic plans vital to the long-term success and efficiency of the global Business Continuity program.
-- Work with internal partners to develop Business Continuity and Disaster Receovery plans.
+- Work with internal partners to develop Business Continuity and Disaster Recovery plans.
 - Develop, implement, and train a core team of leaders to respond to crisis incidents impacting the company.  Facilitate and train senior leaders on the Crisis Management program and processes.  
 - Develop and implement GitLab’s Executive Threat Assessment Program, including protective services for employees traveling in high-risk locations
 - Manage global COVID-19 resources and response plans
