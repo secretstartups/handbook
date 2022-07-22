@@ -75,33 +75,32 @@ The Senior People Operations Specialist is a [Grade 7](/handbook/total-rewards/c
 - Able to use discretion and handle highly sensitive information.
 - Excellent interpersonal skills and ability to establish strong relationships at all levels and across functions.
 
-## Manager, People Operations
+## Manager, People Connect
 
-The Manager, People Operations reports to the Director, Global People Operations
+The Manager, People Connect reports to the Director, Global People Operations
 
 #### Job Grade
 
-The Manager, People Operations is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, People Connect is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
 - Onboard, mentor, and grow the careers of all team members.
-- Coach and mentor PeopleOps team to effectively address team member queries in line with our values.
-- Work with Director, People Operations to shape a strategy that aligns and moves GitLab towards continued growth, innovation and improvement.
-- Manage and  suggest improvements for program management including rollout, communication, reporting and metrics of Organizational health, Engagment Survey, DIB related surveys, 360 feedback cycle and Performance/ Potential Matrix Assessment. 
-- Provide training and support to the Specialist group to address team member and leadership queries effectively and timely.
-- Oversee the co-employer relationships and act as the main point of contact for the People Group.
+- Coach and mentor People Connect team to effectively address team member queries in line with our values.
+- Work with the Director, People Operations to shape a strategy that aligns and moves GitLab towards continued growth, innovation and improvement.
+- Manage and recommend improvements for program management including rollout, communication, reporting and metrics of Organizational health, Engagement Survey, DIB related surveys, 360 feedback cycle and Performance/ Potential Matrix Assessment. 
+- Provide training and support to the People Connect team to address team member and leadership queries effectively and timely.
 - Seek and review potential blockers of various People Operations processes and ensuring improvement on daily tasks and suggest automation where needed.
 - Review and improve Slack answers and continue to train and mentor the team to update information in the handbook, for easy access to all.
 - Manage and maintain an SLA to track response times for email queries across timezones.
 - Continue to drive automation for easy access of employment confirmation letters, automatic invitations to Contribute, confirmation of business insurance, etc.
-- Continuous managing and improvement of both administration and people experience during onboarding.
-- Partnering closely with Managers at GitLab to gain feedback from various teams about onboarding, offboarding and transition issues.
+- Continuously manage and improve both administrative efficiency and team member experiences during onboarding.
+- Partner closely with Managers at GitLab to gain feedback from various teams about onboarding, offboarding and transition issues.
 - Review and report on People Operations and Onboarding metrics, including [OSAT](/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat) and [Onboarding Task Completion](/handbook/people-group/people-group-metrics/#onboarding-task-completion--x-tbd).
-- Continuous improvement of offboarding for both voluntary and involuntary terms.
-- Along with the People Business Partners, create a Terminations playbook to ensure the team can remain async and scale.
+- Continuously improve offboarding of team members.  
+- Along with the People Business Partners, create efficient people processes and clear hand-offs.  
 - Work closely with payroll, SecOps, and ITOps to continue to improve the administration of offboarding the time it takes to complete.
-- Mananging issue traiging and label review/ adding and reviewing contributions to the efficiency of our issue tracker.
+- Managing issue triaging and label review/ adding and reviewing contributions to the efficiency of our issue tracker.
 - Drive continued automation and efficiency to enhance the employee experience and maintain our efficiency value.
 - Announcing changes and improvements in the #whats-happening-at-gitlab Slack channel
 - Leading positive employee experience throughout their lifecycle with GitLab.
@@ -118,7 +117,7 @@ The Manager, People Operations is a [Grade 8](/handbook/total-rewards/compensati
 - Willingness to work odd hours when needed (for example, to call an embassy in a different continent)
 - Excellent written and verbal communication skills
 - Exceptional customer service skills
-- team player who can jump in and support the team on a variety of topics and tasks
+- Team player who can jump in and support the team on a variety of topics and tasks
 - Enthusiasm for and broad experience with software tools
 - Proven experience quickly learning new software tools
 - Willing to work with git and GitLab whenever possible
