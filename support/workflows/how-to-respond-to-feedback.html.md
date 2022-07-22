@@ -59,6 +59,31 @@ Currently there is no SLA for responding to Feedback Issues, but if you follow
 the process defined on this page, you should send an initial response to each
 issue within 7 days of its creation.
 
+## Subscribing to feedback issues
+
+### By territory
+
+If you'd like to subscribe to SSATs submitted by customers from a certain
+territory, you can subscribe to the appropriate `OrganizationRegion` scoped
+label through the [Feedback project labels page](https://gitlab.com/gitlab-com/support/feedback/-/labels).
+
+These labels are applied based on organization information
+[synced to Zendesk](/handbook/support/support-ops/documentation/zendesk_global_organizations.html#organization-fields)
+from SFDC.
+
+| Label   | Description |
+|---------|-------------|
+| APAC    | Asia-Pacific |
+| EMEA    | Europe, Middle East and Africa |
+| LATAM   | Latin America (includes all of Central & South America) |
+| NORAM   | North America |
+| NCSA    | North, Central, South America (legacy region being phased out) |
+| Unknown | Unknown |
+
+The single source of truth for these definitions can be found in the
+[Go to Market Glossary](/handbook/sales/field-operations/gtm-resources/#glossary)
+handbook page.
+
 ## Handling "Good" Reviews
 
 For each feedback issue labeled "satisfaction::good":
