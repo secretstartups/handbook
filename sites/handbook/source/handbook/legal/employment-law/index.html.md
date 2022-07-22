@@ -37,7 +37,10 @@ Below are some common employment topics where Legal is asked to provide input. T
 
 **Note: GitLab team members should *always* obtain approval from the Senior Director of Legal, Employment prior to speaking with outside counsel regarding employment-related matters.**
 
-### Before Hire:
+### Before Hire
+
+**Scalable Employment Solutions.** As GitLab scales, global expansion efforts require support from a dedicated team with multidisciplinary background: Tax, People Ops, Total Rewards, Payroll, Legal and Finance, with strategic decisions on which countries to prioritize expansion in, being made at E-group level. There are challenges related to global expansion, including: economic impact, legal exposure, tax exposure and accounting impact. The GitLab employment team coordinates the ‘global expansion legal process’ for each proposed or potential country, as required, collaborating with each of the other GitLab legal teams to gather and review relevant information on any particular country to assess: whether GitLab already has team members there, if so, what employment model is currently in use and whether it can be scaled, and if there are no team members in a country, considers (with input from all of GitLab Legal) what employment options there might be, whether there are any limitations or restrictions on hiring and what the best solution might be for now and for into the future.
+
 **Talent Acquisition.** Legal reviews sourcing and talent acquisition strategy for compliance and advises about requirements for applicant tracking in the various countries in which we hire.
 
 **Background Check.** Legal reviews overall background check policy and procedure in place, helps develop background check adjudication process, and serves as escalation point when team responsible for reviewing background check has questions or concerns about specific results.
