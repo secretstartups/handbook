@@ -23,7 +23,7 @@ Employment law refers to the law that governs the relationship between employer 
 - It means we support our Diversity, Inclusion, and Belonging team in ensuring that decisions across the entire arc of the relationship match our mission statement.
 - And it means we provide support when it comes to end of employment decisions,  offboarding, and any follow-up matters that can occur.
 
-GitLab’s employment team provides information regarding legal risk and compliance requirements based on particular jurisdictions and particular job types. Often, it is up to the others within the organization whether or not to continue down a certain path once the risks and requirements are known.
+Based on the outcome of its global expansion process for gathering and assessing relevant details on any particular country (which include local employment legislation and statutory requirements, potential PEO/EOR service agreements or limitations, branch or entity incorporation options, product and privacy considerations etc), GitLab’s employment team provides information regarding legal risk and compliance requirements based on particular jurisdictions and particular job types. Often, it is up to the others within the organization whether or not to continue down a certain path once the risks and requirements are known.
 
 ## Working with the Legal Employment Team on Sensitive Matters 
 In any situation(s) that relate to specific team members or otherwise require any team member personal information remain confidential, the People Group (and any other GitLab Team Members) should email legal-employment@gitlab.com. This respects team member privacy and may, where applicable, retain attorney-client privilege.
