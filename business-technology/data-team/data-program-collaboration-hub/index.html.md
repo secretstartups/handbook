@@ -28,26 +28,26 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, and
 
 |	**TEAM**	|	**PRIMARY PARTNERS**	|	**PRIMARY SLACK CHANNEL**	|	**MEETING CADENCE**	|	**DATA DRI**	|	
 |	:---------------	|	:---------------	|	:---------------	|	:---------------	|	:---------------	|	
-|	**[Marketing](/handbook/marketing/)**	|		|		|		|		|		|		|
+|	[**Marketing**](/handbook/marketing/)	|		|		|		|		|		|		|
 |	[Marketing - Operations](/handbook/marketing/marketing-operations/)	|		|	[#marketing-data-ops](https://gitlab.slack.com/archives/C017D7P3Q72)	| Bi-weekly |		|	
-|	[Marketing - Strategy & Performance](/handbook/marketing/strategy-performance/)	|	@jahye1	|	[#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A)	|		|		|
+|	[Marketing - Strategy & Performance](/handbook/marketing/strategy-performance/)	|	@degan, @jahye1, @rkohnke	|	[#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A)	|		|		|
 |	Marketing - SDR	|		|		|		|		|	
 |	Marketing - Field	|		|		|		|		|	
 |	Marketing - Corporate	|		|		|		|		|	
-|	[Marketing - Campaigns / Demand Gen](/handbook/marketing/demand-generation/campaigns/)	|	@jgragnola	|	|		|		|	
+|   [Marketing - Campaigns / Demand Gen](/handbook/marketing/demand-generation/campaigns/)	|	@jgragnola	|	|		|		|	
 |	Marketing - Digital Experience	|		|		|	
 |	Marketing - Community Relations	|		|		|		
 |	Marketing - Portfolio	|		|		|	
 |	|		|		|		
-|	**[Sales](/handbook/sales/)**	|		|		|			
+|	[**Sales**](/handbook/sales/)	|		|		|			
 |	Sales - New	|		|		|		|		|	
-|	Sales - Customer Success	|		|	various / project-based	|		
+|	[Sales - Customer Success](/handbook/customer-success/)	|	@bbutterfield	|	various / project-based	|   		
 |	[Sales - Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/)	|	@jdbeaumont, @emcinerney	|	[#wg-gtm-product-analytics](https://gitlab.slack.com/archives/C01BMJKC8UF)	|	Monthly x-functional series	|		|
 |	[Sales - Strategy & Analytics](/handbook/sales/field-operations/sales-strategy/)	|	@jakebielecki, @mvilain, @nfiguera	|	[#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A)	|		Monthly x-functional series	|		|
 |	Sales - Support	|		|		|		|
 |	Sales - Field Operations	|		|		|	
 |	|		|		|		|		|		
-|	**[Product](/handbook/product/)**	|		|		|		|		|		
+|	[**Product**](/handbook/product/)	|		|		|		|		|		
 |	[Growth](/direction/growth/)	|	@s_awezec 	|	[#s-growth-data](https://gitlab.slack.com/archives/CL0NWME2W)	|	Monthly x-functional series	|		|
 |	[Product Analysis](/handbook/product/product-analysis/)	|	@cbraza	|		|	Monthly x-functional series	|		|
 |	|		|		|		|		|		
@@ -69,12 +69,12 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, and
 |	R&D Teams	|	@justinfarris 	|		|	Bi-weekly	|	|	
 |	G&A Teams	|		|		|				
 |	PI, Fulfillment, Data, Customer Success, Sales	|	@jdbeaumont, @amandarueda, @emcinerney	|	[#wg-gtm-product-analytics](https://gitlab.slack.com/archives/C01BMJKC8UF)	| Bi-weekly		|		|	
-|	FACE	|	@alex_martin, @mfleisher	|	[#functional_analytics_center_of_excellence](https://gitlab.slack.com/archives/C03239RK18Q)	|	Thu	|		|		
+|	FACE	|	@alex_martin, @mfleisher	|	[#functional_analytics_center_of_excellence](https://gitlab.slack.com/archives/C03239RK18Q)	|	Bi-weekly on Thu	|		|		
 |	|		|		|		|		|		
-|	**Data Team**	|		|		|		|		|		
-|	Data Science	|		|	[#bt-data-science](https://gitlab.slack.com/archives/C027285JQ4E)	|	Tues	|@rparker2 |		
-|	Data Platform	|		|	[#data-engineering](https://gitlab.slack.com/archives/CSZMC7TJL)	|	Tues	| @dvanrooijen2|		
+|	[**Data Team**](/handbook/business-technology/data-team/#-data-analysis-process)	|		|		|		|		|		
+|	[Data Science](/handbook/business-technology/data-team/organization/data-science/)	|	@kmagda, @kdietz	|	[#bt-data-science](https://gitlab.slack.com/archives/C027285JQ4E)	|	Tues	|@rparker2 |		
+|	[Data Platform](/handbook/business-technology/data-team/organization/engineering/)	|		|	[#data-engineering](https://gitlab.slack.com/archives/CSZMC7TJL)	|	Tues	| @dvanrooijen2|		
 |	Data R&D Fusion	|		|	[#data-rd-fusion](https://gitlab.slack.com/archives/C02C82WDP0U)	|	Tues	|@iweeks|		
 |	Data GTM Fusion	|		|	[#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A)	|	Tues	|@iweeks|
 |	Data G&A Fusion	|		|	|		|@pempey|	
-|	Data Collaboration	|		|	[#bt-data-collaboration](https://gitlab.slack.com/archives/C036ADU4EH3)	|	Tues	|@mlaanen|
+|	[Data Collaboration](/handbook/business-technology/data-team/organization/data-collaboration/)	|		|	[#bt-data-collaboration](https://gitlab.slack.com/archives/C036ADU4EH3)	|	Tues	|@mlaanen|
