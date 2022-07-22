@@ -209,6 +209,8 @@ If we can't determine their GitLab username (from the issue or from their Workda
 ## Sync to team page
 Every day at 09AM UTC, we have a pipeline running that syncs our new team members to the `www-gitlab-com` project, so that they show up on the team page.
 
+> Many teams have adopted the team page entries for building out custom partials within the handbook, any changes to this process should be sent in `#whats-happening-at-gitlab` prior to get insights from other teams on their particular use cases. 
+
 We fetch all the new team members with a start date of the day before yesterday and check if they opted-in on
 being synced to the team page. Opt-in happens by setting `Export Name Location to Team Page` to `Yes` on their Workday profile. This is a task on day one for the new team member.
 
@@ -222,7 +224,7 @@ The merge request is assigned to the People Experience Team and they set it to m
 
 ### Possible Errors and Fixes
 
-In the event we run into errors with the Team Page sync, we have some backup plans in place.
+In the event we run into errors with the team page sync, we have some backup plans in place.
 
 In case team members did not fill in the required data, we won't be able to sync them. A People Experience Associate
 can later on sync them by running the `teampageindividual` Slack command.
