@@ -144,3 +144,51 @@ Please note this is just a guide to help CSMs prioritize and calibrate, to ensur
 
 In addition to the work spent for each task, this framework assumes team members will take 56 days or 448 hours of [PTO](/handbook/paid-time-off/) per year, which includes holidays, [Family & Friends days](/company/family-and-friends-day/), vacation, sick time, etc., but this is not a requirement, and team members are able and encouraged to take as much PTO as they'd like, as long as they follow our company and [team](/handbook/customer-success/tam/pto/) guidelines.
 
+## Gainsight
+
+Gainsight plays a huge role in ensuring CSMs are equipped and able to manage their books of business.
+
+For general guidance on using Gainsight, please refer to the [TAM handbook page](/handbook/customer-success/tam/gainsight/).
+
+However, the Growth team has some specific usage of Gainsight, outlined below.
+
+### Timeline
+
+[Timeline](/handbook/customer-success/tam/gainsight/timeline/) entries are one of the most important elements of Gainsight for the Growth team. CSMs need to stay up to date on adding Timeline entries (within 3 business days of the call occurring), in order to ensure their metrics are accurate and we have a pulse on customer health, persona involvement, and overall engagement.
+
+To ensure your calls are logged correctly, make sure to select `Customer Call` as the type, unless you are hosting a workshop, in which case choose `Workshop`.
+
+Whenever a customer's health changes (positively or negatively), always also log an `At-risk Update` mentioning the reasons why the health score is changed and linking to the triage issue if applicable (required for any Red accounts). This ensures we have accurate reporting at the team-level and understand the health status of the segment, without needing to reach out to individal CSMs.
+
+### CTAs
+
+The [Cockpit](/handbook/customer-success/tam/gainsight/ctas/#cockpit) houses all call-to-actions and success plan objecties that are assigned to CSMs. However, it can get very noisy and it's easy to get CTA-fatigue. To help avoid this, it's recommended for all Growth CSMs to make the following adjustments in their Cockpit:
+
+1. At the top right where it says `Due Date`, click the dropdown and select `Type`.
+   - This will organize your CTAs into different categories which will make triaging them easier; refer to the handbook page on [different types of CTAs](/handbook/customer-success/tam/gainsight/ctas/#types-of-ctas).
+   - In your Cockpit, you'll now have categories where CTAs are automatically sorted into.
+       -`Activity` will show:
+          - Any action items (`to-do`) you add to timeline entries
+          - Stale TAM Sentiment CTAs, notifying you that there has not been a TAM Sentiment update within the past 90 days. Once you've updated the sentiment, close this CTA.
+          - Account handoff CTAs
+          - Responses to the All-Customer survey, notifying you to action them and thank your customers.
+      - `Lifecycle` will show:
+          - Customers who have surpassed 98% of their license utilization
+          - EBR CTAs (automatically created 6-months into the subscription)
+      - `Objective` will show:
+          - All success plan objectives; to organize this further, click `Company > Relationship` to sort them by customer name
+      - `Renewal` will show:
+          - Renewal CTAs (this will eventually be removed in favor of dashboard information)
+          - Positive and Negative Renewal NPS responses
+      - `Risk` will show:
+          - At-risk CTAs
+          - Incomplete onboarding (onboarding CTA not closed within 90 days)
+          - Triage for escalated Yellow accounts
+
+1. Create your own custom views.
+  - At the top left where it says `My CTAs` or `All CTAs`, click the dropdown and select `Create New View`.
+  - From here, you can customize a private Cockpit view filtered to exactly what you want to see. Only want to see success plan objectives so you can hone in on strategizing? Go for it! Want to see all CTAs _except_ success plan objectives? Easy. Make as many custom views as you need, customized as you need them, in order to get the most valuable information out of Gainsight.
+
+### Usage Reporting 
+
+Understanding usage reporting is key to being a trusted advisor and leader of best practices and adoption for our customers.
