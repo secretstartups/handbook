@@ -96,18 +96,16 @@ Our L&D team will have a variety of learning initiatives throughout the quarter 
 * [Manager Challenge Program (May)](/handbook/people-group/learning-and-development/manager-challenge/)
 * [Field Manager Development Program](/handbook/sales/field-manager-development/)
 * [Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q1/)
-* [Develop Learning Hubs in GitLab Learn](https://about.gitlab.com/handbook/people-group/learning-and-development/work-with-us/#creating-a-learning-hub-for-your-team)
 * Planning a [Women at GitLab Mentorship program](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/122) as a second iteration to the Women in Sales Mentorship Pilot. 
 * [Learning speaker series](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#learning-speaker-series-overview) on [manager enablement of mental wellness and building a rest ethic with John Fitch](https://www.google.com/url?q=https://docs.google.com/document/d/1E766piNneGCLod4LdT3_8wGd_i0Bj2w8T8BXCWbsqM8/edit&sa=D&source=calendar&ust=1620568745675000&usg=AOvVaw16iuM0GgUClxZNkOyLXJMD).
 
-**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel and follow the [GitLab Learning & Development](https://gitlab.edcast.com/channel/gitlab-learning-development) channel in GitLab Learn. 
+**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel.
 
 ## Recap of FY22-Q1
 
 FY22-Q1 was full of Learning Initiatives by the Learning & Development Team. If you missed them or want to go back and review anything, here is an outline of what took place: 
 
 * Launched our first [LXP and LinkedIn Learning survey](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/205)
-* [Bias Towards Asynchronous Communication](https://gitlab.edcast.com/pathways/ECL-d28057c0-d024-41b0-a89d-9e4d5a024932) self-paced learning path launched in GitLab Learn
 * Jacie trained as Crucial Conversation trainer, Samantha completed Crucial Conversations certification
    * If you are interested in completing the Crucial Conversations training, please fill out [this interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform)
 * Collaborated with Sales Enablement on [Interview Training](https://gitlab.com/gitlab-com/people-group/learning-development/training-curriculum/-/issues/3) 
@@ -143,7 +141,7 @@ If you want to learn more on this topic, see the [Managing Underperformance](/ha
 
 ## Learning Spotlight 
 
-Skill of the Month launched in April and will continue thorughout FY22. April's skill of the month was Managing Stress, you can still find the courses and resources recommended for this topic in the [Skill of the Month (FY22) Channel](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) on GitLab Learn. The May skill of the month is **Effective Communication**. 
+Skill of the Month launched in April and will continue thorughout FY22. April's skill of the month was Managing Stress, you can still find the courses and resources recommended for this topic on the [Skill of the Month page](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month). The May skill of the month is **Effective Communication**. 
 
 You can do two things at once by taking a course from the Skill of the Month recomendation and participate in the Walk and Learn initiative. If you aren't intersted in any of the courses for skill of the month. Join the [#walk-and-learn](https://app.slack.com/client/T02592416/C01T24NNZ4G) Slack channel to see what other things your peers are learning about. 
 
@@ -151,7 +149,7 @@ You can do two things at once by taking a course from the Skill of the Month rec
 
 We want to remind you to [take time out to learn](/handbook/people-group/learning-and-development/#take-time-out-to-learn-campaign)! [Focus Fridays](/handbook/communication/#focus-fridays) have been extended **indefinitely** and are a great time to focus on learning. Consider blocking off a few hours each week on Fridays to learn new skills for your role at GitLab. 
 
-There are plenty of courses on GitLab Learn as well as LinkedIn Learning that you can access. Check out our [recommended LinkedIn Learning courses](/handbook/people-group/learning-and-development/linkedin-learning/)! If you find a course that you think should be on the recommendation list, make an MR to the list and ask a L&D Team member in the `#learninganddevelopment` Slack Channel to merge. 
+There are plenty of courses on LinkedIn Learning that you can access. Check out our [recommended LinkedIn Learning courses](/handbook/people-group/learning-and-development/linkedin-learning/)! If you find a course that you think should be on the recommendation list, make an MR to the list and ask a L&D Team member in the `#learninganddevelopment` Slack Channel to merge. 
 
 ## Other Enablement Initiatives
 

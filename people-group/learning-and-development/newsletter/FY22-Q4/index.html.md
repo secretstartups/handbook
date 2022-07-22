@@ -11,8 +11,8 @@ You can find links to [past L&D Newsletters](/handbook/people-group/learning-and
 
 * [Crucial Conversations Cohort 2](/handbook/people-group/learning-and-development/learning-initiatives/#crucial-conversations) 
 * [FY22-Q3 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/) 
-* [People Group Learning Hub](https://gitlab.edcast.com/channel/people-group-learning-hub) in GitLab Learn
-* [Development Learning Hub (https://gitlab.edcast.com/channel/gitlab-development-learning-hub) in GitLab Learn
+* People Group Learning Hub
+* Development Learning Hub
 * [Improved mentorship documentation for team members](https://about.gitlab.com/handbook/people-group/learning-and-development/mentor/)
 * [2nd iteraton of Women at GitLab mentorship program](https://about.gitlab.com/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/)
 * Completed the [Fifth Iteration of the Manager Challenge](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/), and over 20 [Managers and Aspiring Managers](https://docs.google.com/presentation/d/1s_yNEKLVDJ-nYTsvD568lpz1Bfan6qIZoZrY0ZEEkHI/edit#slide=id.gd2286d9050_0_7) completed the training!
@@ -38,11 +38,9 @@ If you aren't sure where to start with learning, try out **LinkedIn Learning**. 
 
 Some recommendations of where to find LinkedIn Learning courses: 
 
-* [Skill of the Month Channel](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) has a variety of different LinkedIn Learning courses broken up by topic 
-* [Recommended LinkedIn Learning Courses](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses) Channel has courses your GitLab team members have taken and also top LinkedIn Learning courses in 2021 
+* [Skill of the Month](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month) has a variety of different LinkedIn Learning courses broken up by topic 
 * Take a look at what we did for our [Career Development Skill of the Month](/handbook/people-group/learning-and-development/career-development/#skill-of-the-month) 
 * Use the [LinkedIn Learning website](https://www.linkedin.com/learning/) to search for any courses that you may be interested in.
-* The [Announcements Channel](https://gitlab.edcast.com/channel/gitlab-corporate-channel) in Edcast highlights some of the new LinkedIn Learning content that's added to the platform every week! Once you have taken a course, feel free to share it with your peers or in a slack channel with other GitLab Team Members! 
 
 ## Discussion 
 

@@ -109,7 +109,6 @@ The DIB Team has worked on many projects to date, including, but not limited to:
    * [Belonging](https://www.youtube.com/watch?v=WZun1ktIQiw)
 * Diversity, Inclusion, and Belonging Certification & Training
    * [Handbook Page](/company/culture/inclusion/dib-training/)
-   * [Course in GitLab Learn](https://gitlab.edcast.com/journey/dib-training-certification)
 
 **Is there a team at GitLab you want to learn more about?** Each quarter we will feature a different team and what they do here at GitLab. Leave a comment on the [dicussion issue](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter/-/issues/8) if there is a team you would like to see featured or if you would like your team to be featured! 
 
@@ -128,7 +127,7 @@ Our L&D team will have a variety of learning initiatives throughout the quarter 
 * We will be transitioning from [Monthly Continuous Learning Calls](/handbook/people-group/learning-and-development/learning-initiatives/#monthly-continuous-learning-call-overview) to a Learning & Development Group Conversation. Our first Group Conversation will be 2021-04-13!  
 * GitLab Learn launch to external audiences!
 
-**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel and follow the [GitLab Learning & Development](https://gitlab.edcast.com/channel/gitlab-learning-development) channel in GitLab Learn. 
+**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel. 
 
 ## Recap of FY21-Q4
 
@@ -187,14 +186,13 @@ The following video is an example of the [CEO Handbook Learning Sessions](/handb
 
 More ways you can continue to learn throughout the quarter: 
 
-* Access [GitLab Learn](https://gitlab.edcast.com/)! 
 * Access a LinkedIn Learning Licenses. We have outlined a [variety of different courses](/handbook/people-group/learning-and-development/linkedin-learning/) that you can take. 
 
 ## Learning Tips 
 
 We want to remind you to [take time out to learn](/handbook/people-group/learning-and-development/#take-time-out-to-learn-campaign)! [Focus Fridays](/handbook/communication/#focus-fridays) have been extended to 2021-04-30 and are a great time to focus on learning. Consider blocking off a few hours each week on Fridays to learn new skills for your role at GitLab. 
 
-There are plenty of courses on GitLab Learn as well as LinkedIn Learning that you can access. Check out our [recommended LinkedIn Learning courses](/handbook/people-group/learning-and-development/linkedin-learning/)! If you find a course that you think should be on the recommendation list, make an MR to the list and ask a L&D Team member in the `#learninganddevelopment` Slack Channel to merge. 
+There are plenty of courses on LinkedIn Learning that you can access. Check out our [recommended LinkedIn Learning courses](/handbook/people-group/learning-and-development/linkedin-learning/)! If you find a course that you think should be on the recommendation list, make an MR to the list and ask a L&D Team member in the `#learninganddevelopment` Slack Channel to merge. 
 
 ## Other Enablement Initiatives
 
