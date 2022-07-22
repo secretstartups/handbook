@@ -147,7 +147,7 @@ When an account has multiple GitLab instances identified as Production, (Instruc
 
 #### Solution
 
-(Video Instructions)[https://youtu.be/N0JUABX88Hg] on how to update instance data in Gainsight to include only one instance in Product Usage health measure.
+[Video Instructions](https://youtu.be/N0JUABX88Hg) on how to update instance data in Gainsight to include only one instance in Product Usage health measure.
 
 1. Go to the account C360 and scroll to the Instance and Namespace Details Section. 
 2. Scroll right to see the “Included in Health Measure” column. 
@@ -157,7 +157,7 @@ When an account has multiple GitLab instances identified as Production, (Instruc
 Important to Note: 
 1. Best practice is to only have ONE instance marked as "Included in Health Measure" 
 2. All Production instances are automatically marked "Included in Health Measure" unless they are marked "Opt-Out" 
-3. Select "Opt-Out" rather than null, or the system will overwrite your update.
+3. Select "Opt-Out" rather than null, or the system may overwrite your update.
 
 ## Predictive Analytics
 
