@@ -259,7 +259,7 @@ Be sure to highlight notable incidents in your 1:1 notes doc.
 
 1. [Pairing sessions](https://gitlab.com/gitlab-com/support/support-pairing). You can see how you're doing on this [pairing summary page](https://gitlab-com.gitlab.io/support/team/pairings.html)
 1. Ask and answer questions in Slack. (We don't have a way to easily make this visible, but feel free to share things you're proud of with your manager in your 1:1 notes doc.)
-1. If you have volunteered to be a [Support Stable Counterpart](/handbook/support/#support-stable-counterparts), collaborate with the group(s) you are assigned to and share knowledge with the Support Team.
+1. If you have volunteered to be a [Support Stable Counterpart](/handbook/support/#support-stable-counterpart), collaborate with the group(s) you are assigned to and share knowledge with the Support Team.
 1. There are many other ways you can collaborate. Make a note of your collaborations in your 1:1 notes doc.
 
 | Level        | How it might look |
@@ -273,7 +273,7 @@ Reducing future customer problems is an important part of being a Support Engine
 
 **What does success look like?**
 
-1. Create bug issues and feature requests whenever needed. You can see how you're doing using the 'GitLab issues' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=dblessing). The format is `https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=YOUR_USERNAME`  (replace `YOUR_USERNAME`)
+1. Create bug issues and feature requests whenever needed. You can see how you're doing using the 'GitLab issues' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=dblessing). The format is `https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=YOUR_USERNAME`  (replace `YOUR_USERNAME`)
 
 1. GitLab doesn't currently have [a way to find all the comments you've made on Issues](https://gitlab.com/gitlab-org/gitlab/-/issues/28268). Until this feature is available, it's hard to make your contributions to product Issues visible. Instead, be sure that your Zendesk tickets have links to the Issues that you create or update. You can also highlight contributions in your 1:1 notes doc.
 
@@ -292,18 +292,18 @@ We [summarize Support team contributions](https://gitlab.com/gitlab-com/support/
 
 **What does success look like?**
 
-1. Aim for at least two documentation updates every month. You can see how you're doing using the 'Docs updates' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=documentation). The format is `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=documentation` (replace `YOUR_USERNAME`)
+1. Aim for at least two documentation updates every month. You can see how you're doing using the 'Docs updates' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=documentation). The format is `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=documentation` (replace `YOUR_USERNAME`)
 1. If you publish information in other public places (*e.g.* a blog post), make a note in your 1:1 notes doc.
 
 ## Fix GitLab bugs and create features (Occasionally)
 
-Experienced Support Engineers and those familiar with programming are encouraged to [fix GitLab bugs and create features](/handbook/support/#support-fixes).
+Experienced Support Engineers and those familiar with programming are encouraged to [fix GitLab bugs and create features](/handbook/support/#our-role-within-gitlab).
 
 We [summarize Support team bug fixes and feature requests](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=Support%20Team%20Contributions) every week using a bot.
 
 **What does success look like?**
 
-There's no goal for this area. You can see how you're doing using the 'Support Fix' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=Support%20Team%20Contributions). The format is: `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=Support%20Team%20Contributions&not[label_name][]=documentation` (replace `YOUR_USERNAME`)
+There's no goal for this area. You can see how you're doing using the 'Support Fix' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=Support%20Team%20Contributions). The format is: `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=Support%20Team%20Contributions&not[label_name][]=documentation` (replace `YOUR_USERNAME`)
 
 ## Improve GitLab and Support processes (Occasionally)
 
@@ -313,7 +313,7 @@ There's a lot going on. It can be overwhelming if you try to contribute to every
 
 **What does success look like?**
 
-There's no goal for this area. You can see how you're doing by using the 'Handbook updates' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=lyle). The format is `https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME` (replace `YOUR_USERNAME`)
+There's no goal for this area. You can see how you're doing by using the 'Handbook updates' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=lyle). The format is `https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME` (replace `YOUR_USERNAME`)
 
 ## Keep up-to-date on GitLab and Support
 
@@ -329,7 +329,7 @@ There's no goal for this area. The aim is to make sure you are aware of and util
 
 As an extension of [keeping up to date on GitLab](#keep-up-to-date-on-gitlab-and-support), you're always invited to help prepare the team for changes. Occasionally, and always with every major release, there may be deprecations or breaking changes which the Support team needs to prepare for.
 
-For major releases, typically a manager will organize the [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) to review the planned changes. 
+For major releases, typically a manager will organize the [Support Stable Counterparts](/handbook/support/#support-stable-counterpart) to review the planned changes. 
 
 Between major releases, product or development may request our assistance [to contact specific users](/handbook/support/internal-support/#gitlab-changes-and-contacting-users), which are handled by a [group of volunteers within Support](https://gitlab.com/groups/gitlab-com/support/readiness/-/group_members?with_inherited_permissions=exclude). 
 
@@ -347,7 +347,7 @@ Support Engineers are also encouraged to complete courses and certification from
 
 **What does success look like?**
 
-1. Aim to complete a module every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
+1. Aim to complete a module every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
 
 An important focus for the Support Team in 2020 is to [improve our Learning and Training resources](https://gitlab.com/groups/gitlab-com/support/-/epics/49) to help you have a clear route to improving your skills and a better way to make your expertise visible to the team.
 
@@ -357,7 +357,7 @@ We encourage Support Team members to update or create [Support Training](https:/
 
 **What does success look like?**
 
-There's no goal for this area. If you have ideas of materials you'd like to create or update, speak with your manager. You can keep track of updates you've made using the 'Support Training Updates' [activity link](/handbook/support/managers/support-1-1s.html) your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME` (replace `YOUR_USERNAME`)
+There's no goal for this area. If you have ideas of materials you'd like to create or update, speak with your manager. You can keep track of updates you've made using the 'Support Training Updates' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME` (replace `YOUR_USERNAME`)
 
 ## Help with hiring (Occasionally)
 
