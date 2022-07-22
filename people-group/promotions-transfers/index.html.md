@@ -449,8 +449,8 @@ If you receive a job change or letter of adjustment to an interim or acting role
     - Interim roles - Access changed (if required)
 1. Update Job title (if required)
 1. Update Manager (if required)
-1. Update [Acting/Interim Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Uoz0frqDYEDINeodeeKBGMFVzdTuoe4x63LpHxU9WMo/edit#gid=0)
-1. Update [Transition Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/10O0idnLKcE4MHaNSt9dcvRzTx0Q_G6klKcznvmgrJbY/edit#gid=1366346015) (if required) 
+1. Update Acting/Interim Tracker Spreadsheet
+1. Update Transition Tracker Spreadsheet (if required) 
 
 ## Demotions
 
