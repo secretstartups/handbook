@@ -60,6 +60,7 @@ Additionally, the Data Collaboration Team **supports** the following responsibil
 - [Snowflake](http://gitlab.snowflakecomputing.com)
 - [Google Data Studio](http://datastudio.google.com)
 - [Google Sheets](http://sheets.google.com)
+- [PostHog](https://posthog-poc.gitlab.systems/home)
 
 ## Key Projects
 
@@ -105,7 +106,9 @@ What is missing from all these solutions is a governed way to enable data analyt
 
 ### Current State of Product Analytics
 
-*Coming soon*
+Currently, Product Managers and others looking to analyze GitLab product data use either [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html) or [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) data. To visualize that data they use SQL in [Sisense for Cloud Data Teams](https://about.gitlab.com/handbook/product/product-intelligence-guide/getting-started/#accessing-the-data-in-sisense) to access the Snowplow and Service Ping data in our Snowflake data warehouse. Although this is sufficient for certain metrics like (xMAU)[https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/], it is not well suited for more complicated analysis (like for instance funnel or cohort analysis). 
+
+That means that currently product insights require time and resource-intensive manual SQL, limiting the team’s decision velocity and decision quality. Analysts spend multiple days/weeks building and updating dashboards, and a large portion of their workload is spent helping run SQL queries for less technical team members. To address that need we are in the process of implementing [PostHog](PostHog.com) specifically for product analytics.
 
 
 ### Future State of Business Intelligence
@@ -124,13 +127,31 @@ The ability to build dashboards quickly based on curated, secured, centralized d
 
 **Pilot Implementation**
 
-*Coming soon*
+We are scoping our a possible pilot deployment of a new BI platform with a limited audience and scope. If we do roll out the pilot, the acceptable use will be limited to:
+- Ad-hoc analysis and data exploration
+- One-off or temporary dashboards or reporting
+- Creating data visualizations for screenshots in presentations
+- Dashboard prototyping, mockups and proof-of-value
+- Dashboards for specific use cases accessed only by a single-team 
+
+It should not be used for:
+- SSOT reporting
+- Replacing Sisense for Cloud Data Teams
+- Cross-departmental reporting
+- Use cases with an audience of greater than 5-10 people
+- Embedding data visualizations in the handbook
+- Reporting in key meetings
 
 
 ### Future State of Product Analytics
 
-*Coming soon*
+**Vision**
 
+Every member of the Product, Growth, and Analyst teams should be able to self-serve the insights they need to make faster and more impactful decisions to drive business growth and GitLab user success. Analysts should be able to build/update/replicate dashboards in minutes, freeing up their time to uncover high-impact insights because less technical teammates can self-serve their product analysis. They would primarily work in a dedicated product analytics platform for their daily analytics needs. 
+
+**Pilot Implementation**
+
+We are currently running a pilot project with [PostHog](https://posthog.com) and our [Product Intelligence team](https://about.gitlab.com/handbook/product/product-intelligence-guide/). As part of the first iteration we're in the process of loading 3 months of [Snowplow](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowplow/) data into the platform. If successful we'll add additional data and will roll this out to a broader audience within the company. 
 
 ## Useful Resources
 
