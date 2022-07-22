@@ -233,7 +233,7 @@ Visit our [GitLab Anniversary Gift](/handbook/people-group/celebrations/#anniver
 * A Marketing team member received a bonus for:
   * Transparency: The marketing team member always works in the open. In our 1:1s she is very clear on her focus and aligns priorities with team priorities. Every thing she is working on links to an issue.
   * Efficiency: The marketing team member is an excellent example of someone who can get multiple things done in a short amount of time. She can efficiently manage many high quality projects without getting bogged down in the details.
-  * Collaboration: The marketing team member worked with the VP of Scaling to update the general handbook to make it prettier. This shows she collaborates well outside of her functional group. The marketing team member has also been helping a colleague with content management.
+  * Collaboration: The marketing team member worked with the VP of Scaling to update the general handbook to make it prettier. This shows she collaborates well outside of her team. The marketing team member has also been helping a colleague with content management.
   * Directness: The marketing team member gives excellent review feedback on blog posts. She is very direct and not afraid of perfection.
 
 * A Product team member received a bonus for:
@@ -395,24 +395,28 @@ For more questions about Get Together Grants, please review the [FAQ](https://do
 
 In FY21-Q1, GitLab suspended the Visiting Grant program until further notice. Due to the cancellation of [Contribute](/events/gitlab-contribute/) in FY23, we have introduced a special Visiting Grant Program for FY23-Q3 (2022-08-01 to 2022-10-31). Program details differ.
 
+#### Local Area
+
+For the purposes of the [FY23-Q3 Visiting Grant Program](#fy23-q3-visiting-grant-program), a team members `local area` is being defined as within 50 miles/80 km from the team members home OR requiring less than 1.5 hours travel time one-way.
+
 #### FY23-Q3 Visiting Grant Program
 
-We canceled Contribute FY23-Q3 due to the COVID risk to team members in having a large, global event in an indoor facility in the middle of summer. Contribute’s purpose was to “get [team members] together to interact with one another and cultivate our community.” Introducing FY23-Q3 Visiting Grants is a way to capture the spirit of this by providing team members with another opportunity to spend time together within FY23-Q3 (2022-08-01 to 2022-10-31).
+We canceled Contribute FY23-Q3 due to the COVID risk to team members in having a large, global event in an indoor facility in the middle of summer. Contribute’s purpose was to “get [team members](https://about.gitlab.com/company/team/) together to interact with one another and cultivate our community.” Introducing FY23-Q3 Visiting Grants is a way to capture the spirit of this by providing team members with another opportunity to spend time together within FY23-Q3 (2022-08-01 to 2022-10-31).
 
 While the FY23-Q3 Visiting Grant Program shares a lot in common with the previous Visiting Grants Program, it varies in a few key ways:
 
 1. **Timing**. The event must happen within FY23-Q3 and and expenses filed within 7 days of the event ending.
-1. **Team member inclusion**. Efforts should be made to welcome all team members and [teams](https://about.gitlab.com/company/team/structure/#organizational-structure) when there are opportunities to do so within a geography. **Having events that are just for a specific team is against the intention of this program.** All events should include at least *8 people* who represent at least *2 teams*. Please ensure the activity is one where all team members attending would feel included to participate.
-  1. Exceptions are okay if team members live in a location with few team members or little function diversity. In this case, team members can have local events that are inclusive of everyone who is within travel distance of the event. This may mean fewer than 8 people and only one function.
+1. **Team member inclusion**. Efforts should be made to welcome all team members and [teams](https://about.gitlab.com/company/team/structure/#organizational-structure) when there are opportunities to do so within a geography. **Having events that are just for a specific team is against the intention of this program.** All events should include at least *4 people* who represent at least *2 teams*. Please ensure the activity is one where all team members attending would feel included to participate.
+   - Exceptions are okay if team members live in a location with few team members or little team diversity. In this case, team members can have local events that are inclusive of everyone who is within travel distance of the event. This may mean fewer than 4 people and only one team.
 1. **Planning transparency**. Please list any events or activities in our [shared event planner](https://docs.google.com/spreadsheets/d/1cCuzXhBIpMInn30-ZD1XCcNnv21CwsmsA9TorW03d7Q/edit?usp=sharing), so all team members have the chance to opt in. Local or event/activity specific Slack channels can be used for organization.
-1. **Spending caps**. Team members are expected to manage their individual expenses and adhere to expense caps. If events are centrally organized, coordinators should be clear with team members on how much of their FY23-Q3 allocation is going to the event. Team members are responsible for [spending company money like its their own](/handbook/spending-company-money/#guidelines) and not exceeding their individual budgets. Each team member can choose to participate in as many events as they like as long as they can do this within budget.  
-  1. Team members should plan to have gatherings with a cross-functional group of at least 8 people. 
-  1. Team members can spend up to $500 to participate in local events that happen within 50 miles from their home. If team members are attending an event within 50 miles from home, they can expense transport, but not accomodations. 
-  1. Team members can expense up to $1000 each if they are traveling beyond their local area, beyond 50 miles/80 km from their home OR requiring 1.5+ hours travel time one-way, to attend events. This option is open to team members who have local options, but choose to travel. These team members can put their budget toward accommodations in addition to travel expenses. 
-  1. For some team members, $1,000 is insufficient for participation in at least one event. If you believe that you fall into this bucket, please fill out this [Google form](https://forms.gle/q1qAK5YuJ9egNk3G9), so your situation can be considered. 
-1. **What can be expensed**. In addition to transportation, team members can expense hotels (when outside of their home location defined as travel greater than 50 miles), meals with other team members, and activities with other team members.
-1. **Additional spending guidelines**. If more than 10 people are traveling to a central location, we require that hotel purchases have a purchase order to ensure the best rates. All airfare purchases must be made XXXXX, etc, etc (THERE WILL BE MORE HERE)
-  1. You may pool your budgets across a group to make budgeting easier and increase purchasing power. E.g. a group of eight can have a collective budget of $8000. The decision to do this will be up to the DRI for the event.
+1. **Spending caps**. Team members are expected to manage their individual expenses and adhere to expense caps. If events are centrally organized, coordinators should be clear with team members on how much of their FY23-Q3 allocation is going to the event. Team members are responsible for [spending company money like its their own](/handbook/spending-company-money/#guidelines) and not exceeding their individual budgets. Each team member can choose to participate in as many events as they like as long as they can do this within budget.
+   1. Team members should plan to have gatherings with a cross-functional group of at least 4 people. 
+   1. Team members can spend up to $500 to participate in events within their [local area](#local-area). If team members are attending events within their [local area](#local-area), they can expense transport but not accomodations. 
+   1. Team members can expense up to $1000 each if they are traveling beyond their [local area](#local-area) to attend events. This option is open to team members who have local options, but choose to travel. These team members can put their budget toward accommodations in addition to travel expenses. 
+   1. For some team members, $1,000 is insufficient for participation in at least one event and chosen transport method. If you believe that you fall into this bucket, please fill out this [Google form](https://forms.gle/q1qAK5YuJ9egNk3G9) so your situation can be considered. 
+1. **What can be expensed**. In addition to transportation, team members can expense hotels when traveling outside of their [local area](#local-area), meals with other team members, passport, visas, COVID testing, and activities with other team members.
+1. **Additional spending guidelines**. If more than 10 people are traveling to a central location, we require that hotel purchases have a purchase order to ensure the best rates. All purchases must be made XXXXX, etc, etc (THERE WILL BE MORE HERE)
+   - You may pool your budgets across a group to make budgeting easier and increase purchasing power. E.g. a group of eight can have a collective budget of $8000. The decision to do this will be up to the DRI for the event.
 1. **Organization**. We recommend that each event or activity has a [DRI](/people-group/directly-responsible-individuals/). This can be anyone who plans to attend that event or activity, and encourage team members to take a [Bias for action](https://about.gitlab.com/handbook/values/#bias-for-action) to self nominate, or nominate someone they know will be attending who would like to be the `DRI`. Please ensure the `DRI` is entered in the [FY23-Q3 Visiting Grant Events](https://docs.google.com/spreadsheets/d/1cCuzXhBIpMInn30-ZD1XCcNnv21CwsmsA9TorW03d7Q) sheet, and if you're nominating someone else, please check with them first before adding them to the sheet.
  
 #### Safety and compliance for FY23-Q3 Visiting Grant Program
@@ -420,21 +424,21 @@ While the FY23-Q3 Visiting Grant Program shares a lot in common with the previou
 Team members should be aware of key GitLab policies and asks. 
 
 1. Activities should be consistent with GitLab's [values](/handbook/values/).
-1. Any travel should be in line with our [travel policy](/handbook/travel/) and associated activities should comply with company [COVID policy around testing, masking, vaccination, etc.](/handbook/travel/#travel-guidance-covid-19).
+1. Any travel should be in line with our [travel policy](/handbook/travel/) and associated activities should comply with company [COVID policy around testing, masking, vaccination, etc...](/handbook/travel/#travel-guidance-covid-19).
 1. Team members should adhere to the [GitLab Code of Conduct](/company/culture/contribute/coc/).
 1. Team members should refer to our [contracts and vendor policies](/legal/procurement-guide-collaborating-with-gitlab-legal/#signing-contracts) and refrain from signing contracts on behalf of GitLab. 
 1. Associated activities should comply with local laws.
 1. Events should be outdoors as much as possible to reduce COVID risk.
 1. Team members should not use this program to subsidize existing travel plans. This grant exists to get team members together. Expenses should reflect this intent. 
 
-This Program has a limited timeframe, but we’ll look to the success of this program and other alternatives that support team member interactions and cultivation as we determine how best to support team member relationship building in the future. If you have questions, please post them in the #fy23-q3-visiting-grant Slack Channel. 
+This Program has a limited timeframe, but we’ll look to the success of this program and other alternatives that support team member interactions and cultivation as we determine how best to support team member relationship building in the future. If you have questions, please post them in the [#fy23-q3-visiting-grants](https://app.slack.com/client/T02592416/C03P3D9PYLW) Slack Channel. 
 
 #### FY23-Q3 Visiting Grant Program FAQ 
 
 We'll attempt to document answers to frequently asked questions in the handbook.
 
 1. Can I spend out of pocket without reimbursement if I want to participate beyond what is allowable given my budget?
-  1. You can use your own money beyond your personal event budget if it is possible to split out your personal monetary spend. For example, if a DRI is planning an event with 30 people and there is no way for you to pay your share fully with your event allowance, you can use personal money out of pocket towards this difference. If this is something that you are interested in doing, please sync with the DRI(s) in advance of an event to confirm that you can pay for all/part of your participation with your own money.
+   - You can use your own money beyond your personal event budget if it is possible to split out your personal monetary spend. For example, if a DRI is planning an event with 30 people and there is no way for you to pay your share fully with your event allowance, you can use personal money out of pocket towards this difference. If this is something that you are interested in doing, please sync with the DRI(s) in advance of an event to confirm that you can pay for all/part of your participation with your own money.
 
 #### Sharing your Visiting Grant stories
 
@@ -442,7 +446,7 @@ If you're a GitLab team member who has traveled and utilized GitLab's Visiting G
 
 If you've previously made use of the [Significant Life Event Grant](https://about.gitlab.com/handbook/incentives/#significant-life-event-grants) (temporarily suspended), please check with the team member who invited you to their event if they are comfortable with you sharing their story first.
 
-These stories are useful in showing the world how we stay connected as a [geographically diverse team](/culture/inclusion/#fully-distributed-and-completely-connected). This is important as we [recruit the world's best talent to join us](/jobs/), as well as encouraging colleagues to take a leap, explore a new culture, and visit a team member in a new locale. They may be shared on GitLab's social media platforms, on hiring portals such as Glassdoor, or on the [GitLab blog](/blog/). You can also post pictures in the #fy23-q3-visiting-grants Slack Channel. 
+These stories are useful in showing the world how we stay connected as a [geographically diverse team](/culture/inclusion/#fully-distributed-and-completely-connected). This is important as we [recruit the world's best talent to join us](/jobs/), as well as encouraging colleagues to take a leap, explore a new culture, and visit a team member in a new locale. They may be shared on GitLab's social media platforms, on hiring portals such as Glassdoor, or on the [GitLab blog](/blog/). You can also post pictures in the [#fy23-q3-visiting-grants](https://app.slack.com/client/T02592416/C03P3D9PYLW) Slack Channel. 
 
 #### The Original Visiting Grant Program
 
