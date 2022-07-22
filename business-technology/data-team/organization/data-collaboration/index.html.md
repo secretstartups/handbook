@@ -48,7 +48,21 @@ Additionally, the Data Collaboration Team **supports** the following responsibil
 
 ## How We Work
 
-*Coming soon*
+Our team is dedicated to improving efficiencies in areas of data access and collaboration to better enhance partnerships across the GitLab organization. Administering platforms / tools that are instrumental in providing data-driven insights is our priority and you can find a list of areas where we can provide assistance in our issue template under GitLab Data (group ID) >> GitLab Data Team (project ID):
+![image.png](./image.png)
+
+Examples of common request types that can be assigned to our team are related to dashboard maintenance and development:
+Administrative
+- Archiving / Unarchiving a dashboard
+- Schedule refresh
+- Add / Update users, roles
+- Dashboard migration
+- Set up a dedicated space
+
+Development 
+- New dashboard build
+- Update a dashboard (logic, visualization)
+- Troubleshooting
 
 ### Team Roles
 
