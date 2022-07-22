@@ -94,6 +94,61 @@ See the [example epics](https://about.gitlab.com/handbook/people-group/engagemen
 
 [Take Action with Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework)
 
+## FY'23 Q2 Pulse Engagement Survey Results
+
+Our Pulse Engagement Survey FY'23 Q2 ran from 2022-05-16 to 2022-05-25. The survey was opened to team members hired before 2022-04-30. We reached 82% participation and an overall engagement score of 81% favorable.
+We scored 4% lower than we did in the FY'22 Q4 Engagement Survey overall, but this score is still 8% higher than our New Tech peer group, which consists of ~150 fast growing and disruptive tech companies who have ~1000+ total team members.
+Amongst our SaaS Talent Peers of 1000+ team members - engagement scores are decreasing by 5-10% from pre to during-pandemic times. GitLab remains industry-leading from a scoring perspective.
+
+Below you will find a summary of our overall results, as well as key insights and opportunities.
+
+A huge thanks to everyone who completed the survey and made their voice heard. Your feedback helps us to continually improve the experience of working at GitLab.
+
+#### Company Results (Overall)
+
+| **Favourable** | **Neutral** | **Unfavourable** |
+| ---------- | ------- | ------------ |
+| 81% | 13% | 6% |
+
+#### Top Three Scores
+
+In addition to Engagement, we asked questions about other factors regarding our workplace and culture. A factor score is the average score of all questions within that factor.
+
+| **Factor** | **Favourability Rating** |
+| ------ | -------------------- |
+| Your Manager | 87% |
+| Inclusion | 82% |
+| Growth & Development | 81% |
+
+GitLab was rated between 5%-8% percent higher than the industry benchmark i.e. New Tech (1,000+) 2022 across all three factors detailed above.
+
+| **Question** | **Favourability Rating** |
+| -------- | -------------------- |
+| I am proud to work for GitLab | 94% |
+| I would recommend GitLab as a great place to work | 91% |
+| My manager keeps me informed about what is happening | 90% |
+
+GitLab was rated between 6-8% higher than the industry benchmark i.e. New Tech (1,000+) 2022 across all three questions detailed above.
+
+#### Top Three Opportunities
+
+| **Factor** | **Favourability Rating** |
+| ------ | -------------------- |
+| Action | 59% |
+| Your Role | 70% |
+| Our Leaders | 77% |
+
+GitLab was rated up to 3% higher than the industry benchmark i.e. New Tech (1,000+) 2022.
+
+| **Question** | **Favourability Rating** |
+| -------- | -------------------- |
+| I have seen positive changes taking place based on recent team member survey results | 54% |
+| I believe my Compensation (Base, Bonus, etc.) is competitive relative to similar roles at other companies | 62% |
+| I believe action will take place as a result of this survey
+ | 64% |
+
+GitLab scored 4% higher than the industry benchmark i.e. New Tech +1,000 2022 for the lowest scoring question surrounding positive actions, 9% higher than the benchmark regarding compensation and 2% higher regarding actions taken from the survey.
+
 ### FY'22 Pulse Engagement Survey
 
 #### How We Determine "Pulse" Survey Questions
