@@ -117,7 +117,13 @@ As a manager, you are in a unique position to model good DIB practices for the r
 
 ### Schedule a Coffee Chat with a Team Member
 
-Understanding GitLab is fully remote there is an opportunity to get to know team members beyond your geographical location as well as outside of your division.  This will provide you an opportunity to learn more about other cultures, work divisions, cultivate better global communication and overall continuing to work towards building an inclusive environment.  Coffee chats are suggested during onboarding but don't need to stop there.  It is recommended to continue this action whenever you would like to.  Please take a look at our [GitLab team page](https://about.gitlab.com/company/team/) and feel free to select someone for a coffee chat!
+Understanding GitLab is [fully remote](/company/culture/all-remote/terminology/), there is an opportunity to get to know team members beyond your geographical location as well as outside of your division. This provides an opportunity to:
+
+- learn more about other cultures and work divisions
+- cultivate better global communication
+- make progress toward building an inclusive environment
+
+[Coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats) are suggested during onboarding but you don't need to stop there. It is recommended to continue this action whenever you would like to. Please take a look at our [GitLab team page](/company/team/) and feel free to select someone for a coffee chat!
 
 ### Hold Each Other Accountable
 
@@ -125,7 +131,7 @@ Hold each other accountable and speak up when someone uses non-inclusive languag
 
 ### Avoid Identity Assumption Statements
 
-Identity is a personal thing. Looks or name can imply diversity attributes, but they are not perfect identity indicators. Avoid making statements about someone's perceived race, gender, age, ethnicity, or other personal characteristics. When people are typecast or feel misunderstood, they are less likely to feel that they belong. 
+Identity is a personal thing. Looks or name can imply diversity attributes, but they are not perfect identity indicators. Avoid making statements about someone's perceived race, gender, age, ethnicity, or other personal characteristics. When people are typecasted or feel misunderstood, they are less likely to feel that they belong. 
 
 ### Tip to Uncover Unconscious Bias
 
@@ -133,6 +139,6 @@ When you are dealing with a specific situation, you can mentally flip the situat
 
 ### More to come
 
-* Consider joining an TMRG (Team Member Resource Group)
+* Consider joining a [TMRG](/company/culture/inclusion/erg-guide/) (Team Member Resource Group)
 * Support others as an Ally
-* Review the [Diversity, Inclusion & Belonging](https://about.gitlab.com/company/culture/inclusion/) page
+* Review the [Diversity, Inclusion & Belonging](/company/culture/inclusion/) page
