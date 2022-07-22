@@ -58,7 +58,7 @@ Below are some common employment topics where Legal is asked to provide input. T
 **Conflicts of Interest.** If a GitLab team member engages People Operations about a possible conflict of interest, the People Operations team should encourage discussion between the team member and their manager, as many conflict of interest determinations are business decisions, rather than legal decisions. If the team member and manager agree that there is no conflict then the applicable E-Group member can provide written approval, which is maintained in Bamboo HR.  Legal is involved in managing the process to ensure that decisions regarding what is or is not a conflict remain consistent across departments and so that the manager and team member can understand the potential risks and implications in order to make an informed decision.
 
 ### General Business Needs involving Employment Issues
-**Scalable employment solutions.** As GitLab continues to grow, our systems must be scalable. GitLab Legal can assist in developing solutions that ease the work burden on People Operations while maintaining compliance with legal requirements.
+**Scalable employment solutions.** As GitLab continues to grow, our systems must be scalable. Using the collaborative global expansion process for gathering and assessing relevant information on any particular country, GitLab Legal can assist in developing solutions that ease the work burden on People Operations while maintaining compliance with legal requirements.
 
 **Policy development.** Legal should be asked to perform a final review when policies are updated or created.
 
