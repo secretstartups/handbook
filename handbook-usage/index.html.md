@@ -203,7 +203,7 @@ If you require project-based access, you can request temporary developer access 
 
 #### Why is there a internal handbook?
 
-As a company, we are [public by default](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. The Internal Handbook is a space where team members can share internal information. Anything that **is not** considered [internal only](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal), should be in GitLab's [public handbook](https://about.gitlab.com/handbook/). Anything that is [limited access](https://about.gitlab.com/handbook/communication/confidentiality-levels/#limited-access) **should not be added to the internal handbook** as the internal handbook is accessible by all team members. 
+As a company, we are [public by default](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. The Internal Handbook is a space where team members can share internal information. Anything that **is not** considered [internal only](/handbook/communication/confidentiality-levels/#internal), should be in GitLab's [public handbook](/handbook/). Anything that is [limited access](/handbook/communication/confidentiality-levels/#limited-access) **should not be added to the internal handbook** as the internal handbook is accessible by all team members. 
 
 #### The process of using this handbook
 
@@ -224,7 +224,7 @@ All team members will have this added to their Okta access when they join the co
 
 #### What if I have questions about the internal handbook or want to help with it?
 
-- Questions about what should be in the internal handbook vs in the public handbook?  See the [safe framework](https://about.gitlab.com/handbook/legal/safe-framework/#safe) or ask in `#safe`.
+- Questions about what should be in the internal handbook vs in the public handbook?  See the [safe framework](/handbook/legal/safe-framework/#safe) or ask in `#safe`.
 - Questions about updating the internal handbook or volunteering to help with enhancing it?  Join the `#internal-handbook` channel.
 
 ## Moving Pages and Adding Redirects to the Handbook
@@ -342,7 +342,7 @@ More context on the technical reasons behind this:
 
 Getting pinged to approve every small change to your page can be annoying, but someone changing a policy or procedure in the handbook without proper approval and have strong negative consequences. Use your best judgement on when to ask for approvals.
 
-Whenever reasonable, practice [responsibility over rigidity](https://about.gitlab.com/handbook/values/#freedom-and-responsibility-over-rigidity). When you expect a page owner will appreciate your changes, go ahead and merge them without approval. Always ping the code owners with an @mention comment to inform them of the changes. They will be happy their page was made better and they didn’t need to waste time reviewing and approving the change. In the event that something isn’t an improvement, we practice [clean up over sign off](https://about.gitlab.com/handbook/values/#cleanup-over-sign-off)
+Whenever reasonable, practice [responsibility over rigidity](/handbook/values/#freedom-and-responsibility-over-rigidity). When you expect a page owner will appreciate your changes, go ahead and merge them without approval. Always ping the code owners with an @mention comment to inform them of the changes. They will be happy their page was made better and they didn’t need to waste time reviewing and approving the change. In the event that something isn’t an improvement, we practice [clean up over sign off](/handbook/values/#cleanup-over-sign-off)
 
 Whenever appropriate, get approval from the [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html) using the [approval feature](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/settings.html) before merging changes. Each page in the handbook shows who the code owner listed under “Maintained by”. This information is pulled from the [codeowners file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS). The page’s code owner is the DRI for the page and has the final say for what appears in the handbook. When in doubt, get the DRI’s permission before changing their page. Don't worry if the DRI is a C-level person. You can still assign your MRs to them, even if you are an individual contributor. This is because we prefer to [communicate directly](/handbook/communication/#communicate-directly).
 
@@ -360,8 +360,20 @@ Similarly, don't merge website updates without marketing in the loop. Follow the
 
 ### Broad Permissions
 
-Being a maintainer gives you access to much more than just the ability to merge. You can see a [full list of permissions](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in the docs. Keep in mind that you’ll have access to a broad set of settings and configuration for the project. Don’t adjust any settings or make any structural changes without approval from the [marketing Digital Experience team](https://about.gitlab.com/handbook/marketing/growth-marketing/brand-and-digital-design/).
+Being a maintainer gives you access to much more than just the ability to merge. You can see a [full list of permissions](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in the docs. Keep in mind that you’ll have access to a broad set of settings and configuration for the project. Don’t adjust any settings or make any structural changes without approval from the [marketing Digital Experience team](/handbook/marketing/growth-marketing/brand-and-digital-design/).
 
 ### Granting others maintain access
 
 Do not grant people maintainer access without an [Access Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). As a maintainer you have the ability to grant others maintainer access. Don’t do so without following the Access Request process to garner the appropriate approvals and create the necessary documentation.
+
+### Description Templates for Issues and Merge Requests
+
+The [description templates](https://docs.gitlab.com/ee/user/project/description_templates.html) for issues and merge requests in the `www-gitlab-com` project are respectively located in the [.gitlab/issue_templates](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/.gitlab/issue_templates) and [.gitlab/merge_request_templates](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/.gitlab/merge_request_templates) directories, and can be edited and changed with a new merge request.
+
+Changes to the default templates in `Default.md` require review by the [Chief of Staff Team to the CEO](/handbook/ceo/chief-of-staff-team/) or the [CEO](/handbook/ceo/). See [.gitlab/CODEOWNERS](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/.gitlab/CODEOWNERS) for the current list of approvers.
+
+- [Default merge request template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Default.md)
+- [Default issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/Default.md)
+
+You can create a new issue with a specific description template using the following URL syntax:
+- `https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=name-of-template`
