@@ -16,10 +16,40 @@ canonical_path: "/company/team/structure/working-groups/database-scalability/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | March 15, 2021 |
-| End Date | January 21, 2022 |
+| End Date        | July 18, 2022 |
 | Slack           | [#wg_database-scalability](https://gitlab.slack.com/archives/C01NB475VDF) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/17go_0DWgU5CZXKiXmlU_CUmWfen5typtFzKrD1qv13w/edit#heading=h.mty28tz7llip) (only accessible from within the company) |
 | Issue Board     | [Sharding:Build Board](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Asharding&label_name[]=sharding%3A%3Aactive)             |
+
+### Exit Criteria
+
+The charter of this working group is to produce a set of blueprints, design and initial implementation for scaling the database backend storage. These exit criteria will set us on a path to achieve the following high-level goals:
+
+* Accomodate 10M daily-active users (DAU) on GitLab.com
+* Do not allow a problem with any given data store to affect all users
+* Minimize or eliminate complexity for our self-managed use-case
+
+These entail access, separation, synchronization, and lifecycle management considerations for various use-cases (see [Scaling patterns](#scaling-patterns) below).
+
+| #  | Start Date | Completed Date | Criteria |
+| -- | ------     | ------         | ------   |
+| 1  | 2021-03-25 | 2021-06-02     | Blueprints for database scaling patterns ([read-mostly](https://gitlab.com/gitlab-org/gitlab/-/issues/326037), [time-decay](https://gitlab.com/gitlab-org/gitlab/-/issues/326035), [sharding](https://gitlab.com/gitlab-org/gitlab/-/issues/326222))|
+| 2  | 2021-04-21 | 2021-06-03     | [Horizontal sharding evaluation and proof of concept](https://gitlab.com/groups/gitlab-org/-/epics/5838) |
+| 3  | 2021-04-26 | 2021-06-10     | [Decomposition (vertical sharding) evaluation and proof of concept](https://gitlab.com/groups/gitlab-org/-/epics/5883) |
+| 4  | 2021-06-11 | 2022-07-02     | [Rollout decomposed CI database on gitlab.com](https://gitlab.com/groups/gitlab-org/-/epics/6168) |
+| 5  | 2022-07-05 | 2022-07-18     | Working group closing tasks, communications, cleanup |
+
+### Closing Summary
+
+We successfully completed the final exit criteria, [decomposing the gitlab.com database into main and CI](https://gitlab.com/groups/gitlab-org/-/epics/6168), on 2022-07-02.
+
+After a couple of weeks of monitoring, the site appears stable and there are significant headroom improvements and reductions in saturation. We will continue to track and report on decomposition improvements in the issue [CI Decomposition Performance Summary](https://gitlab.com/gl-retrospectives/sharding-group/-/issues/18).
+
+Although this working group is closing, our work to improve GitLab's database and overall application scalability is not finished. Some of our upcoming priorities that will follow up on the work done in this group include:
+
+- [Database Partitioning](https://gitlab.com/groups/gitlab-org/-/epics/2023)
+- [CI Decomposition Follow-up](https://gitlab.com/groups/gitlab-org/-/epics/6718) and [Decomposition support for self-managed customers](https://gitlab.com/groups/gitlab-org/-/epics/7509)
+- [PoCs and first iterations for GitLab Pods](https://gitlab.com/groups/gitlab-org/-/epics/7582)
 
 ### Glossary
 
@@ -42,25 +72,6 @@ canonical_path: "/company/team/structure/working-groups/database-scalability/"
 
 ![Database Terms](./DB-terminology.png)
 
-### Exit Criteria
-
-The charter of this working group is to produce a set of blueprints, design and initial implementation for scaling the database backend storage. These exit criteria will set us on a path to achieve the following high-level goals:
-
-* Accomodate 10M daily-active users (DAU) on GitLab.com
-* Do not allow a problem with any given data store to affect all users
-* Minimize or eliminate complexity for our self-managed use-case
-
-These entail access, separation, synchronization, and lifecycle management considerations for various use-cases (see [Scaling patterns](#scaling-patterns) below).
-
-| #  | Start Date | Completed Date | Criteria |
-| -- | ------     | ------         | ------   |
-| 1  | 2021-03-25 | 2021-06-02     | Blueprints for database scaling patterns ([read-mostly](https://gitlab.com/gitlab-org/gitlab/-/issues/326037), [time-decay](https://gitlab.com/gitlab-org/gitlab/-/issues/326035), [sharding](https://gitlab.com/gitlab-org/gitlab/-/issues/326222))|
-| 2  | 2021-04-21 | 2021-06-03     | [Horizontal sharding evaluation and proof of concept](https://gitlab.com/groups/gitlab-org/-/epics/5838) |
-| 3  | 2021-04-26 | 2021-06-10     | [Decomposition (vertical sharding) evaluation and proof of concept](https://gitlab.com/groups/gitlab-org/-/epics/5883) |
-| 4  | 2021-06-11 | 2022-07-02     | [Rollout decomposed CI database on gitlab.com](https://gitlab.com/groups/gitlab-org/-/epics/6168) |
-| 5  | 2022-07-05 |                | Working group closing tasks, communications, cleanup |
-
-
 ### Overview
 
 Our current architecture relies, almost exclusively and by design, on a [single database](/handbook/engineering/development/enablement/database/doc/strategy.html#single-data-store) to be the sole and absolute manager of data in terms of storage, consistency, and query results collation. Strictly speaking, we use a single **logical** database that is implemented across several **physical** [replicas](https://about.gitlab.com/handbook/engineering/architecture/practice/scalability/#example-postgres-current-state) to handle load demands on the database backend (with the single pseudo-exception of storing diffs on object storage).  Regular analysis of database load, however, is showing that this approach is unsustainable, as the primary RW database server is experiencing high peaks that are approaching the limits of vertical scalability.
@@ -68,6 +79,7 @@ Our current architecture relies, almost exclusively and by design, on a [single 
 We explored [sharding](/company/team/structure/working-groups/sharding/) last year and scoped it to the database layer. We concluded that while there are solutions available in the market, they did not fit our requirements, both in financial and product fit terms, as they would have forced us into a solution that was difficult (if not impossible) to ship as part of the product.
 
 We are now kicking off a new iteration on this problem, where the scope is **expanded** from the database layer into the application itself, as we recognize this problem cannot be solved to meet our needs and requirements if we limit ourselves to the database: we must consider careful changes in the application to make it a reality.
+
 
 #### Data management as a discipline
 
