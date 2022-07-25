@@ -65,7 +65,9 @@ Security reserves the right to execute security reviews against this software an
 
 Team members and contractors may **not** use GitLab-managed resources for activities that are illegal or prohibited under applicable law, no matter the circumstances.
 
-### Unacceptable System and Network Activities
+Security requirements for GitLab production and corporate environments and on GitLab-managed assets must not be disabled without security approval via the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/engineering/security/#-resources).
+
+#### Unacceptable System and Network Activities
 
 Prohibited system and network activities include, but are not limited to, the following:
 
@@ -83,7 +85,7 @@ Prohibited system and network activities include, but are not limited to, the fo
 - Tunneling between network segments or security zones (e.g., `gprd`, `gstg`, `ops`, `ci`), except when troubleshooting issues for the benefit of GitLab.
 - Given the potential sensitivity of the data contained in screenshot images, the use of tools that capture and share screenshots to hosted sites online is prohibited without the explicit approval of the Security and Legal Departments.  Screenshots should be stored locally or within Google drive folders associated with your GitLab.com account. Access to these drives and files should be managed in accordance with our [Access Control policy](/handbook/engineering/security/#access-management-process), and handled according to our [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html). Tools such as [Lightshot](https://app.prntscr.com/en/index.html), where upload functionality cannot be disabled and could result in inadvertant uploads, should not be used.
 
-### Unacceptable Email and Communications Activities
+#### Unacceptable Email and Communications Activities
 
 Forwarding of confidential business emails or documents to personal external email addresses is prohibited.
 
