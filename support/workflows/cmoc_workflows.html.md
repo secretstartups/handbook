@@ -275,7 +275,7 @@ A ready to be published update should look similar to the following.
 
 Make sure to [verify](https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from Status.io.
 
-After the update has been published, visit the live status page to verify that it went through.
+After the update has been published, visit the [live status page](https://status.gitlab.com/) to verify that it went through.
 
 #### Update Affected Infrastructure or Title (Situational)
 
