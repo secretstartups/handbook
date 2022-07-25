@@ -61,7 +61,7 @@ GitLab ultimately chose to onboard Highspot as a sales enablement solution / sal
 
 Highspot became generally available for all members of GitLab's go-to-market (GTM) organization in February 2022.  
 
-Access to the tool is provisioned via SSO in Okta. To access Highspot, please navigate through the Highspot tile in your Okta dashboard.
+Access to the tool is provisioned via SSO in Okta. To access Highspot, please navigate through the Highspot tile in your Okta dashboard. If you do not have access via your Okta dashboard, please submit an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request).  
 
 Teams with access to Highspot include: 
 1. Sales 
@@ -73,6 +73,8 @@ Teams with access to Highspot include:
 1. Strategic Marketing (Product Marketing, Technical Marketing, Customer Reference, Analyst Relations, Competitive Intelligence)
 1. Revenue Marketing - Coming Soon
 1. Field Marketing - Coming Soon
+
+Non-active users, such as team members who have left the company, will be removed from Highspot on a regular basis in order to open seats within the tool. 
 
 ### Communicating with the Highspot Team 
 
