@@ -94,12 +94,6 @@ To contribute, open an issue in the Product project using the [Product Competenc
 
 ## Pilot Program for New CDF 
 
-Check out a quick overview of the pilot program and how to use the template below: 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/Xn_P3CWJWZM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 ### Part I: Field Test the CDF - Completed
 
 From FY22-Q3 to FY22-Q4, select Product teammates and managers engaged in a pilot of this CDF. 
@@ -126,10 +120,15 @@ The process followed was:
 
 ### Part III: Rollout for Opt-In
 
-1. Record Template Overview 
-1. Schedule AMAs for new template 
+1. Check out the Template Overview 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/_6wBCyaP2d8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+1. Schedule AMAs for [new template](https://docs.google.com/document/d/1MT_Xks-oF-D-2R_N380h4Phg_9s7BbO0U8k0eP-u8EI/edit?usp=sharing) using [CDF Deck ](https://docs.google.com/presentation/d/1AFK9Zlu69KVdzDeiNeYyWO1ofMDxZfgxoPoUGoV9HCA/edit?usp=sharing)
 1. Distribute new CDF and template for Opt-in in FY23-Q3 
-1. Solicit feedback at end of FY23-Q3
+1. Solicit feedback throughout FY23-Q3 in [feedback issue](https://gitlab.com/gitlab-com/Product/-/issues/4572)
 1. Close feedback 
 1. Incorporate any changes to template, wording in handbook, and prepare for formal roll out
 
