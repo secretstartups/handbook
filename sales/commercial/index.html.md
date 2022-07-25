@@ -741,4 +741,3 @@ Any Commercial team member that is in good performance standing (not currently o
 
 - [Commercial Sales - Customer Success](/handbook/customer-success/comm-sales/)
 - [Territories](/handbook/sales/territories/)
-- [Sales Hiring Chart](/handbook/hiring/charts/sales/)
