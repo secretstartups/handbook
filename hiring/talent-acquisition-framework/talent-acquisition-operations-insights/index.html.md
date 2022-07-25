@@ -49,10 +49,10 @@ Please [contact the Enablement Team](https://gitlab.com/gl-talent-acquisition/op
 
 <details>
   <summary markdown='span'>
-  Interview Schedule
+  Prelude
   </summary>
 
-Please [contact the Enablement Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
+For interviewer access, you should be able to access Prelude via their website, [Prelude.co](https://www.prelude.co/), using your Google login credentials. If you require a higher level of access, please [contact the Enablement Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
 
 </details>
 
