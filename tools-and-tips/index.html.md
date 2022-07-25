@@ -456,7 +456,7 @@ This method is not quite as secure as U2F, as typically the U2F stores data secu
 
 ### TOTP
 
-Timed-based One-Time Password is fairly secure. This method involves a rotating value based off of a cryptographic seed that is used to uniquely identify communication between the service and the end user authenticating. The value is (usually) a six digit number that changes every 30 seconds, and during the authentication process after you've successfully entered in your username and password, you are asked to enter in the value.
+Timed-based One-Time Password is fairly secure. This method involves a rotating value based off of a cryptographic seed that is used to uniquely identify communication between the service and the end user authenticating. The value is (usually) a six digit number that changes every 30 seconds, and during the authentication process after you've successfully entered in your username and password, you are asked to enter in the value. GitLab team members should use [1Password](handbook/security/#two-factor-authentication-and-time-based-one-time-passwords) to manage TOTP codes.
 
 #### TOTP Caveats
 
