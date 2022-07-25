@@ -182,16 +182,16 @@ Exceptional community members may be able to participate, as well.
 | 2022-06-20 | 2022-06-24 | NO SHADOWS| NO SHADOWS|
 | 2022-06-27 | 2022-07-01 | [Tiffany Rea](https://gitlab.com/treagitlab) - SET Verify:Pipeline Authoring | [Alexander Turinske](https://gitlab.com/aturinske) - Sr. Frontend Engineer |
 | 2022-07-04 | 2022-07-08 | NO SHADOWS | NO SHADOWS|
-| 2022-07-11 | 2022-07-15 | AVAILABLE - REMOTE | [Tiffany Rea](https://gitlab.com/treagitlab) - SET Verify:Pipeline Authoring |
-| 2022-07-18 | 2022-07-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-07-25 | 2022-07-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-08-01 | 2022-08-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-08-08 | 2022-08-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-08-15 | 2022-08-19 | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA | AVAILABLE - REMOTE |
+| 2022-07-11 | 2022-07-15 | NO SHADOWS | [Tiffany Rea](https://gitlab.com/treagitlab) - SET Verify:Pipeline Authoring |
+| 2022-07-18 | 2022-07-22 | NO SHADOWS  | NO SHADOWS  |
+| 2022-07-25 | 2022-07-29 | NO SHADOWS  | NO SHADOWS  |
+| 2022-08-01 | 2022-08-05 | NO SHADOWS  | NO SHADOWS  |
+| 2022-08-08 | 2022-08-12 | NO SHADOWS  | NO SHADOWS  |
+| 2022-08-15 | 2022-08-19 | NO SHADOWS | NO SHADOWS |
 | 2022-08-22 | 2022-08-26 | NO SHADOWS | NO SHADOWS |
 | 2022-08-29 | 2022-09-02 | NO SHADOWS | NO SHADOWS |
-| 2022-09-05 | 2022-09-09 | AVAILABLE - REMOTE | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA |
-| 2022-09-12 | 2022-09-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-09-05 | 2022-09-09 | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA |  |
+| 2022-09-12 | 2022-09-16 | AVAILABLE - REMOTE | [Kristine Setschin](https://gitlab.com/KSetschin) - Manager, Field Marketing, EMEA |
 | 2022-09-19 | 2022-09-23 | NO SHADOWS | NO SHADOWS |
 | 2022-09-26 | 2022-09-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-10-03 | 2022-10-07 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
