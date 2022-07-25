@@ -16,9 +16,9 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 
 This working group is charged with rolling forward from the emergency "Engineering Allocation" prioritization methodology to a new process. The working group should name, design, kickoff, and burn-in the new process before disbanding. The new process should accomplish three major things:
 
-1. Ensure that we execute the optimal balance of new features, security fixes, availability work, performance improvements, bug fixes, etc
-1. It should give equal voice to everyone in the quad (PM, Development, Quality, and UX)
-1. It should provide transparency into prioritization and work status to internal and external stakeholders so they can advocate for their work items
+1. Ensure that we *execute the optimal balance* of new features, security fixes, availability work, performance improvements, bug fixes, etc
+1. It should *give voice to everyone* in the quad (PM, Development, Quality, and UX)
+1. It should *provide transparency into prioritization* and work status to internal and external stakeholders so they can advocate for their work items
 
 
 ## Attributes
