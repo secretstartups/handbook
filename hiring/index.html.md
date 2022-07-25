@@ -16,7 +16,6 @@ description: "Landing page for many of the handbook pages the talent acquisition
 - [Data Driven Recruiting](/handbook/hiring/data-driven-recruiting/)
 - [Diversity, Inclusion & Belonging  Talent Acquisition Initiatives](/company/culture/inclusion/talent-acquisition-initiatives/)
 - [Greenhouse](/handbook/hiring/greenhouse/)
-- [Hiring Charts](/handbook/hiring/charts/)
 - [Interviewing](/handbook/hiring/interviewing/)
 - [Prelude](/handbook/hiring/prelude)
 - [Overview of Job Families](/handbook/hiring/job-families)
