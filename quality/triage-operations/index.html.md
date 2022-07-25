@@ -506,7 +506,7 @@ reporting and milestone transition. This is handled by
 
 When milestone is present on an issue but there is not an assignee. The milestone being present indicates the product team has reviewed and scheduled the issue. This encourages open source contributions for planned features.
 
-Issues with the `~workflow::blocked`, `~workflow::refinement`, `~workflow::validation backlog`, `~workflow::problem validation`, `~workflow::solution validation`, `~workflow::planning breakdown`, `~workflow::design`, `~workflow::verification`, `~fuzzing::api`, `~fuzzing::coverage` labels are excluded from this rule.
+Issues with the `~Deliverable`, `~workflow::blocked`, `~workflow::production`, `~workflow::in review`, `~workflow::in dev`, `~workflow::refinement`, `~workflow::validation backlog`, `~workflow::problem validation`, `~workflow::solution validation`, `~workflow::planning breakdown`, `~workflow::design`, `~workflow::verification`, `~fuzzing::protocol`, `~fuzzing::coverage` labels are excluded from this rule.
 
 * Automation conditions:
   - Issues with a milestone but no assignee
