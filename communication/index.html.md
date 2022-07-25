@@ -1455,6 +1455,7 @@ Are you a subject matter expert in your role or knowledgeable in a topic-specifi
 | Referrals, hiring process, candidate status                  | `#talent-acquisition`                                                                                                    |
 | SAFE                  | `#safe`                                                                                                   |
 | Sales                      | `#sales`                                                                                          |
+| Security | `#security` |
 | Stock options, RSUs, vesting schedule                           | `#stock-admin`                                                                                     |
 | Using Git in the terminal                         | `#git-help`                 |
  
