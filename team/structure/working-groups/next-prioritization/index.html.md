@@ -12,6 +12,15 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 - TOC
 {:toc}
 
+## Purpose
+
+This working group is charged with rolling forward from the emergency "Engineering Allocation" prioritization methodology to a new process. The working group should name, design, kickoff, and burn-in the new process before disbanding. The new process should accomplish three major things:
+
+    1. Ensure that we execute the optimal balance of new features, security fixes, availability work, performance improvements, bug fixes, etc
+    1. It should give equal voice to everyone in the quad (PM, Development, Quality, and UX)
+    1. It should provide transparency into prioritization and work status to internal and external stakeholders so they can advocate for their work items
+
+
 ## Attributes
 
 | Property        | Value      |
@@ -27,15 +36,20 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 
 ### Exit criteria
 
-- All groups have dashboards that they use to analyze merged MR ratio of features, maintenance, bugs and undefined.
-- All groups are reviewing the dashboards and discussing it periodically (monthly).
-- Development engineering managers are providing their maintenance priorities to PM
-- Quality leads are providing their bug priorities to PM
-- PM is consulting with the quad (development EM, quality lead, UX lead) to determine which issues which will be planned for which milestone
-- VP Eng, VP Prod, VP UX, VP Quality, and CTO review the dashboards at the company level (quarterly).
-- Automation exists to streamline the process.
-- Handbook is updated to reflect the new process.
-- Execute on mulit-modal communication plan.
+- [x] Name the new process (DONE "cross-functional prioritization)
+- [ ] All groups have dashboards that they use to analyze merged MR ratio of features, maintenance, bugs and undefined.
+- [ ] Subtypes label are defined and implemented
+- [ ] Type:Undefined Issues are driven down to near zero
+- [ ] Subtype:Undefined Issues are driven down to near zero
+- [ ] Type:Undefined MRs are driven down to near zero
+- [ ] Subtype:Undefined MRs are driven down to near zero
+- [ ] All groups are reviewing the dashboards and discussing it periodically (monthly) in a way where stakeholders can influence decisions.
+- [ ] Development engineering managers are providing their maintenance priorities to PM
+- [ ] Quality leads are providing their bug priorities to PM
+- [ ] The quad stable counterparts (PM, Development EM, Quality Engineering Manager, UX Design Manager) meet to determine which issues which will be planned for which milestone
+- [ ] Automation exists to streamline the process.
+- [ ] Handbook is updated to reflect the new process.
+- [ ] Execute on mulit-modal communication plan.
 
 ### Implementation plan
 
