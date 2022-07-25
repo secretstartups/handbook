@@ -313,7 +313,7 @@ To make sure this is clear we:
 ## 18. Lowering the hiring bar
 {:#lowering-the-hiring-bar}
 
-As we continue to grow our company, there is pressure on departments to meet their [hiring targets](/handbook/hiring/charts/).
+As we continue to grow our company, there is pressure on departments to meet their hiring targets.
 It is better for us to miss our targets than to hire people who won't be able to perform to our standards since that takes much longer to resolve.
 To ensure the people we hire make the company better, we:
 
