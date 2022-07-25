@@ -34,7 +34,7 @@ We are in the process of converting popular email program series into a static l
 
 ## Who we support
 
-We support TAM-assigned and digital-only customers, and provide email programs, webinar planning, and survey information to our TAM and other teams within GitLab.
+We support all customers with our digital motions but primarily serve our tech touch segment with time based and/or data driven email programs to further enable them in their journey with GitLab.
 
 ## Programs lifecycle
 
@@ -53,9 +53,9 @@ Programs can be any of the following:
 
 ### Program recipients
 
-Customer programs are primarily sent to our digital-only GitLab Admin contacts. Monthly newsletters are sent to both TAM-assigned and digital-only GitLab Admin contacts.
+Customer programs are sent to our tech touch and scaled TAM customer segments where there is a GitLab Admin contact. If there is no GitLab Admin on the account the program will send to the sold to contact.
 
-For our digital-only customers, we require a GitLab Admin contact to be added to the following deals at the time of the opportunity approval submission:
+For these TAM segments we require a GitLab Admin contact to be added to the following deals at the time of the opportunity approval submission:
 
 - `New - First Order`
 - `New - Connected`
@@ -63,7 +63,6 @@ For our digital-only customers, we require a GitLab Admin contact to be added to
 
 Learn more about the GitLab Admin contact role requirement [on the Gainsight Go-To-Market Technical Documentation page](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gitlab-admin-contact-required).
 
-Programs may also be sent to Sold To contacts, for our web-direct digital-only customers.
 
 ## GitLab Admin contacts
 
@@ -94,13 +93,12 @@ Programs are available to specific customer types.
 
 ### Digital customer programs
 
-The programs below are available to Sales Assisted **digital-only customers who have GitLab Admin-assigned contacts**.
+The programs below are available to our tech touch and scaled TAM customer segments. These are sent to our GitLab Admin contacts and sold to contacts when GitLab Admin = Null.
 
 | Program                         | Category    | Content  | Recipients                                              |
 |---------------------------------|-------------|----------|---------------------------------------------------------|
 | Onboarding intro and enrollment   | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer within the last 3 days                         |
-| Onboarding series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer ~3-15 days                                        |
-| Post-Onboarding Survey          | Onboarding  | [Copy doc](https://docs.google.com/document/d/1B3RV2RuUkb3RzuQeNUTDz1BnpZLRwInnb_igm4ra7aw/edit?usp=sharing) | Participants completed onboarding series                |
+| Onboarding series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer ~3-15 days                                        |               |
 | Customer Use Case: CI           | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) | Customer ~45 days                                       |
 | Customer Use Case: DevSecOps    | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | Customer ~70 days                                       |
 | Customer Use Case: CD           | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | Customer ~100 days                                       |
@@ -114,24 +112,11 @@ The programs below are available to Sales Assisted **digital-only customers who 
 | CI Usage Trigger Program        | Enablement  | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/190) | <20% Utilization of CI and not in time-based CI campaign                                       |
 | Low License Utilization (SMB Only)    | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/114)    | License Utilization less than 75%, customer since 90-150 days |
 
-The programs below are available to Web Direct **digital-only** customers and sent to the `Latest Sold To` contact.
-
-| Program                         | Category    | Content  | Recipients                                              |
-|---------------------------------|-------------|----------|---------------------------------------------------------|
-| Onboarding series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer ~3-15 days                                        |
-| Post-Onboarding Survey          | Onboarding  | [Copy doc](https://docs.google.com/document/d/1B3RV2RuUkb3RzuQeNUTDz1BnpZLRwInnb_igm4ra7aw/edit?usp=sharing) | Participants completed onboarding series                |
-| Customer Use Case: CI           | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) | Customer ~45 days                                       |
-| Customer Use Case: DevSecOps    | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | Customer ~70 days                                       |
-| Customer Use Case: CD           | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | Customer ~100 days                                       |
-| Customer Use Case: Agile Management           | Enablement  | [Copy doc](https://docs.google.com/document/d/1V7HaAvY4Oi60Sda636vOes3wUlsmkvtTKlsXlhqJhKc/edit?usp=sharing) | Customer ~130 days                                       |
-| Monthly Newsletters             | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)     | Sent 
-Monthly on Fridays                                 |
-
 <br>
 
 ### TAM-assigned account programs
 
-The programs below are available to **TAM-assigned accounts** only.
+The programs below are available to **TAM-assigned accounts** only and are sent to a GitLab Admin contact.
 
 | Program                               | Category   | Content  | Recipients                              |
 |---------------------------------------|------------|----------|-----------------------------------------|
