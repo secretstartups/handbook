@@ -16,7 +16,7 @@ description: "This page describes the different data sources and the way we extr
 The data warehouse contains source data from different source systems, via different extraction methodologies (i.e. Fivetran, Stich and Postgres pipeline). This page describes the different data sources and the way we extract this data via data pipelines.
 
 ## GitLab Postgres Database
-
+ 
 There are **dedicated** gitlab.com _read_ replica database instances used for data pulls into Snowflake. There are 2 replicas available, with each having their own replication frequency and behavior.  
 
 ```mermaid
@@ -141,6 +141,10 @@ On this data pipeline, 3 types of Trusted Data Framework tests are executed:
 
  **Source freshness** is checked via the dbt functionality.
 <br> **Row count** and **Data actual** are performed via an extra `DAG`, named `gitlab_com_data_reconciliation_extract_load` in Airflow and the results are stored in snowflake table named `RAW.TAP_POSTGRES.GITLAB_PGP_EXPORT`
+
+### Decommission Postgres pipeline table
+
+When one (or more) tables require decommissioning from the `Postgres` pipeline, follow the steps mentioned in the [**Runbook guideline**](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_dotcom/table_decommission/README.md) to avoid any failure caused due to removal of the table.
 
 ## Service ping
 
