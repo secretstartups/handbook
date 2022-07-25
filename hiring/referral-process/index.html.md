@@ -82,7 +82,7 @@ All GitLab Team Members can submit a referral by either submitting them directly
     * Additional context as to why you're referring the candidate (i.e. why would they be great addition to the GitLab team?) is greatly appreciated (and required).
 1. If you **don't** have their resume, please include a link to their LinkedIn profile.
 1. Ensure that the created issue is a [confidential issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html).
-    * If you **don't** have the ability to mark the Issue as `Confidential`, please post in the `#talent-acquisition-team` Slack channel and we'll follow-up in a DM.
+    * If you **don't** have the ability to mark the Issue as `Confidential`, please post in the `#talent-acquisition` Slack channel and we'll follow-up in a DM.
 
 To see what positions are available to submit an external candidate for please visit the [Careers at GitLab](https://about.gitlab.com/jobs/) page.
 
