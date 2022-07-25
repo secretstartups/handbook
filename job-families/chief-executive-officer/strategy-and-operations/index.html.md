@@ -110,7 +110,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 #### Director of Strategy and Operations Responsibilities
 
-- Responsible for the success of 2-3 high priority, cross-functional initiatives at any given moment. For example, market entries, pricing and packing projects, important communications, and organizational realignments
+- Responsible for the success of 2-3 high priority, cross-functional initiatives at any given moment. For example, market entries, pricing and packaging projects, important communications, and organizational realignments
 - Fill in gaps in other parts of the business when there are short-term vacancies or a lack of relevant skills or capacity
 - Collaborate cross-functionally with senior counterparts throughout the business 
 - Identify opportunities to improve business efficiency and make changes to improve the business
