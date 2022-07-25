@@ -26,3 +26,9 @@ title: "Sales & Customer Success Onboarding Process"
     - See what's included in the virtual, self-paced [Sales Quick Start learning path.](/handbook/sales/onboarding/sales-learning-path/)
     - Non-Sales team members can choose to add themselves to the [SQS Learning Path](https://gitlab.edcast.com/pathways/sales-quick-start) regardless of role if interested in understanding what new Sales Team Members are expected to complete prior to attending an SQS Workshop.
 1. Field team members will matriculate into an appropriate role-based learner journey after successful completion of Sales Quick Start to support onboarded / ramping team member's continued learning journey to greater success.
+
+## Role-based onboarding journeys
+After you finish your Sales Quickstart pre-work, you can start your role-based onboarding journey.
+
+## The Customer-Ready Shadow Program 
+Job shadowing offers a hands-on way to learn how different GitLab roles represent GitLab. We often learn best when we have the opportunity to learn from our peers, practice, and get feedback in an interactive way. It’s also a great way to make new hires feel welcome and a part of our sales culture at GitLab. [Learn more on the Customer-Ready Shadow Program page.](/handbook/sales/shadow-program/)
