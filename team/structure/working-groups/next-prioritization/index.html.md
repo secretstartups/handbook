@@ -45,7 +45,7 @@ This working group is charged with rolling forward from the emergency "Engineeri
 - [ ] Subtype:Undefined MRs are driven down to near zero
 - [ ] All groups are reviewing the dashboards and discussing it periodically (monthly) in a way where stakeholders can influence decisions.
 - [ ] Development engineering managers are providing their maintenance priorities to PM
-- [ ] Quality leads are providing their bug priorities to PM
+- [x] Quality leads are providing their bug priorities to PM
 - [ ] The quad stable counterparts (PM, Development EM, Quality Engineering Manager, UX Design Manager) meet to determine which issues which will be planned for which milestone
 - [ ] Automation exists to streamline the process.
 - [ ] Handbook is updated to reflect the new process.
