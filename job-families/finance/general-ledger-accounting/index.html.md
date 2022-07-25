@@ -34,7 +34,7 @@ The General Ledger Accounting team are responsible for providing timely and accu
 
 ## Levels
 
-### Associate General Ledger Accountant
+### Associate General Ledger Accountant (Junior)
 
 The Associate General Ledger Accountant reports to the [Senior Manager, Accounting](https://about.gitlab.com/job-families/finance/accountant/).
 
@@ -46,12 +46,10 @@ The Associate Accountant is a [grade 5](/handbook/total-rewards/compensation/com
 
 * Assist with accurate and timely month end close by preparing various journal entries and account reconciliations for cash, prepaids, accruals, inter-company, fixed assets payroll, and other various accounts. 
 * Assit with proper accounting policies and principles are followed in accordance with GAAP
-* Begin to learn flux analysis for month end that summarizes and tells the "story" of the activity. 
 * Posting and processing journal entries to ensure all business transactions are recorded
-* Understand the activity for 1 of the 5 areas of the company organization (Marketing, G&A, R&D, Sales, COS) and the related month end accounting processes.
 * Assist with compliance of Sarbanes-Oxley Section 404 key controls in the financial areas of responsibility, as applicable.
-* Assist with reviewing of expenses, payroll records etc. as assigned
-* Reconciles the general ledger accounts monthly
+* Assist with reviewing of cash, expenses, payroll records etc. as assigned
+* Reconciles assigned balance sheet accounts monthly
 * Work with and support the accounting team in day-to-day activities, special projects, and workflow process improvements.
 * Assist senior accountants in the preparation of monthly/yearly closings
 * Assist with other accounting projects
@@ -78,17 +76,17 @@ The Intermediate Accountant is a [grade 6](/handbook/total-rewards/compensation/
 #### General Ledger Accountant (Intermediate) Responsibilities
 
 * Extends the Associate General Ledger Accountant responsibilities
-Ensure proper accounting policies and principles are followed in accordance with GAAP
+* Ensure proper accounting policies and principles are followed in accordance with GAAP
 * Understand how to perform a flux analysis for month end that summarizes and tells the "story" of the activity. 
 * Understand the activity for 2 of the 5 areas of the company organization (Marketing, G&A, R&D, Sales, COS) and the related month end accounting processes.
 * Ensure compliance of Sarbanes-Oxley Section 404 key controls in the financial areas of responsibility, as applicable.
 * Assist with reviewing of expenses, payroll records etc. as assigned
-* Provid account detail and support and explain variances to internal stakeholders.
+* Provide account detail and support and explain variances to internal stakeholders.
 * Work with and support the accounting team in day-to-day activities, special projects, and workflow process improvements
 * Support overall department goals and objectives.
 * Work with operations and other areas to ensure accruals are properly captured
 * Assist with other accounting projects
-* This position reports to the Sr. Accounting Manager.
+* This position reports to the Accounting Manager.
 
 #### General Ledger Accountant (Intermediate) Requirements
 
@@ -98,7 +96,7 @@ Ensure proper accounting policies and principles are followed in accordance with
 
 ### Senior General Ledger Accountant
 
-The Senior General Ledger Accountant reports to the [Senior Manager, Accounting](https://about.gitlab.com/job-families/finance/accountant/).
+The Senior General Ledger Accountant reports to the [Manager, Accounting](https://about.gitlab.com/job-families/finance/accountant/).
 
 #### Job Grade
 
@@ -107,20 +105,19 @@ The Senior Accountant is a [grade 7](/handbook/total-rewards/compensation/compen
 ### Senior General Ledger Accountant Responsibilities
 
 * Extends the General Ledger Accountant (Intermediate) responsibilities
-* Perform flux analysis for month end that summarizes and tells the "story" of the activity.
-* Create a Standard Operating Procedure (SOP) manual for accounting policy and regulations, and roll out reconciliation procedures.
-* Guide/train associate accountants and other staff by answering questions and reviewing their work
+* Perform flux analysis for month end that summarizes and tells the "story" of the activity on balance sheet accounts assigned 
+* Train associate/general ledger accountants and other staff by answering questions and reviewing their work on basic questions
 * Proficient with accruals and understanding their impact and can assist others.
-* Understand the activity for 3 or more of the 5 areas of the company organization (Marketing, G&A, R&D, Sales, COS) and the related month end accounting processes.
 * Assist with monitoring the need for business process improvements and assist with the design processes, procedures, and reporting enhancements to improve financial and operational processes.
 * Support the design and implementation of new policies and procedures related to audit requirements and business activities.
 * Play a vital part in the company's financial management which includes account reconciliations and reporting to necessary parties.
-* Part of the development and implementation of systems related to the accounting team. 
+* Part of the development and implementation of systems related to the accounting team.
 * Work with and support the accounting team in day-to-day activities, special projects, and workflow process improvements.
-* Support overall department goals and objectives.
 * Producing error-free accounting reports and present their results
+* Help update the Controller’s package that will be presented to the CFO
 * Analyzing financial information and summarizing financial status
-* Spot errors and suggest ways to improve efficiency and spending
+* Spot errors and suggest ways to improve efficiency of systems or processes
+* Support overall department goals and objectives.
 
 #### Senior General Ledger Accountant Requirements
 
@@ -138,41 +135,40 @@ The Manager, Accounting is a [grade 8](/handbook/total-rewards/compensation/comp
 
 #### Manager, Accounting Responsibilities
 
-* Reporting to the Senior Manager of Accounting, the Manager, International Accounting and Consolidation will be directly responsible for all aspects of accounting for our international subsidiaries, intercompany transactions and consolidations
-* Guides and controls the teams' general accounting activities, including recording company transactions, classifications, and reconciliation of account balances in accordance with GAAP and company policy
+* Leads meetings on their topic area, topics such as payroll, AP, cash or commissions 
+* Guides the teams' general accounting activities, including recording company transactions, reviewing transactions, classifications, and reconciliation of account balances in accordance with GAAP and company policy
+* Train  other team members and other staff by answering questions and reviewing their work on technical questions and technical reconciliations. 
 * Responsibilities include closing the books under generally accepted accounting principles, performing accounting research, preparing/reviewing SEC financial reporting, developing audit procedures and controls
-* Help manage a timely and accurate month end close by reviewing various journal entries and account reconciliations for cash, prepaids, accruals, inter-company, fixed assets payroll, financial statement consolidation process (including foreign currency re-measurement, translation and allocations, etc) and other various accounts. 
+* Play a vital part in the company's financial management which includes account reconciliations and reporting to necessary parties, including CFO, CAO and Controller
+* Help manage a timely and accurate month end close by reviewing various journal entries and account reconciliations for cash, prepaids, accruals, inter-company, fixed assets payroll, financial statement consolidation process (including foreign currency re-measurement, translation and allocations, etc) and other various accounts.
 * Lead process improvement initiatives in Financial Close, Consolidation and Reporting areas and provide recommendations based on Financial Close & Consolidations leading practices
-* Review and/or prepare flux analysis for month end that summarizes and tells the "story" of the activity.
-* Collect business requirements and apply financial concepts to translate them into solution design and proposes recommendations for changes and improvements to accounting policies/procedures
 * Responsible for the timely and accurate preparation and reporting of financial information and ensuring that information adheres to GAAP and internal company policies
-* Ensure compliance with Sarbanes-Oxley Section 404 key controls in the financial areas of responsibility, as applicable, and work with IA to update key controls as neccessary
+* Review and/or prepare flux analysis for the month end that summarizes and tells the "story" of the activity.
+* Collect business requirements and apply financial concepts to translate them into solution design and proposes recommendations for changes and improvements to accounting policies/procedures
+* Ensure compliance with Sarbanes-Oxley Section 404 key controls in the financial areas of responsibility, as applicable, and work with IA to update key controls as necessary
 * Implements new accounting policies and ensures those policies are communicated to team as well as the business
-
 * Monitor the need for business process improvements and assist with the design processes, procedures, and reporting enhancements to improve financial and operational processes.
 * Support the design and implementation of new policies and procedures related to audit requirements and business activities.
-* Play a vital part in the company's financial management which includes account reconciliations and reporting to necessary parties.
-* Part of the development and implementation of systems related to the accounting team. 
+* Part of the development and implementation of systems related to the accounting team.
 * Guides and partners with cross-functional teams to develop and implement approved changes
-* Having knowledge and insight special accounting functions such as mergers and acquisitions. And helping get the accounting and entries correct.
 * Prepares and/or reviews reports supporting internal and external audits
 * Mentors, guides, and develops employees through orientation, training, establishment of goals, communication of policies and rules, and constructive discipline; Strengthens morale and motivation
-* Participate in the preparation of monthly and quarterly management slide deck
-* Works with internal and external audit as needed
-
+* Participate in the preparation of monthly and quarterly Controllers slide deck
+* Leads the works with internal and external audit as needed
 
 #### Manager, Accounting Requirements
 
 * 8-9 years experience with 2-3 years in public accounting 
 * Have or actively pursuing CPA
 
-### Director, General Ledger Accounting
+### Senior Manager, General Ledger Accounting
 
-#### Director, General Ledger Accounting Responsibilities 
+#### Senior, General Ledger Accounting Responsibilities 
 
 * Extends the Manager, Accounting responsibilities
 * Responsible for and drive a timely and accurate month end close by approving various journal entries and account reconciliations the financial statements and sign off on the accuracy of the Statement of Income and Statement of Balance Sheet and Statement of Cash Flows.
 * Approve the flux analysis for month end that summarizes and tells the "story" of the activity.
+* Reviews GL teams work on the Controlles Reprt
 * Drive the Standard Operating Procedure (SOP) manual for accounting policy and regulations, and roll out reconciliation procedures to establish best practices.
 * Mentor and provide career advise to the areas responsible for.
 * Subject matter expert on all phases of the close process which includes accruals, close and reconciliation process, that will entail payroll, general ledger and accounts payable areas.
