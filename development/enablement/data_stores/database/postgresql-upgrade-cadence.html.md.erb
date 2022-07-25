@@ -1,0 +1,41 @@
+---
+layout: handbook-page-toc
+title: PostgreSQL Upgrade Cadence
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## PostgreSQL yearly upgrade cadence
+
+Starting with GitLab 16.0, we follow a yearly upgrade cadence for PostgreSQL:
+
+1. With every major GitLab version, we are increasing the minimum required PostgreSQL version to the next major version. Some examples:
+   - In GitLab 16.0, PostgreSQL 13 will become the minimum supported PostgreSQL version.
+   - In GitLab 17.0, PostgreSQL 14 will become the minimum supported PostgreSQL version.
+
+1. We will be announcing the deprecation of the current minimum PostgreSQL version one year in advance, with the release of each major version of GitLab:
+
+   - In GitLab 15.0 [we have announced the deprecation of PostgreSQL 12](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/87016) (to be removed in GitLab 16.0).
+   - In GitLab 16.0, we will announce the deprecation of PostgreSQL 13 (to be removed in GitLab 17.0).
+
+1. GitLab.com will be upgrading to the next major version every year during Q4. Our infrastructure will be preparing the upgrade in Q3 of every year, and execute the upgrade during Q4. In 2022, we plan to upgrade GitLab.com to PostgreSQL 13 in early Q4.
+
+1. Optional support for the next major PG version will be added to Omnibus with the release of each major version of GitLab. The next major PostgreSQL version will then become the default for fresh installations in the middle of the release cycle (\~ minor version `.6`). For example:
+
+   - In GitLab 16.0 we'll add optional support for PostgreSQL 14. It will become the default for fresh installations around `16.6`.
+   - This change is not required for GitLab 15.x, as we are keeping PostgreSQL 12 as the minimum, and support for PostgreSQL 13 has been already added in GitLab 15.0.
+
+At a glance:
+
+| GitLab Version | Minimum Supported Version | Optionally Supported Version (Omnibus fresh installs) | Omnibus Default | Release notes | GitLab.com |
+|----------------|---------------------------|------------------------------|-----------------|---------------|------------|
+|     **15.0**       |         **PG12**              |           **PG13**               |      **PG13**       | Support for PG12 will be removed in 16.0| |
+| | | | | | Upgrade to PG13 early Q4 2022 |
+|     **16.0**      |         **PG13**              |           **PG14**               |      PG13       | Support for PG13 will be removed in 17.0 | |
+|     16.6       |         PG13              |           PG14               |      **PG14**       | | Upgrade to PG14 early Q4 2023 |
+|     **17.0**      |         **PG14**              |           **PG15**               |      PG14       | Support for PG14 will be removed in 18.0 | |
+|     17.6       |         PG14              |           PG15               |      **PG15**       | | Upgrade to PG15 early Q4 2024 |
