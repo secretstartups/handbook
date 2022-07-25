@@ -22,7 +22,7 @@ GitLab will continue to review responses from the [Global Benefits Survey](/hand
 
 ### Medical
 
-All the Japanese team members will be covered by a statutory benefit known as Social Insurance. This health insurance plan will be managed by the National Health Insurance Association (Zenkoku-Kenkohoken-Kyokai or in short Kyokai Kenpo). 
+All the Japanese team members will be covered by a statutory benefit known as Social Insurance. This health insurance plan will be managed by the National Health Insurance Association (Zenkoku-Kenkohoken-Kyokai or in short Kyokai Kenpo). For more information see the [Leaflet section of the Kyokai Kenpo website](https://www.kyoukaikenpo.or.jp/event/kohoshizai/20220411/).
 
 ### Pension
 
