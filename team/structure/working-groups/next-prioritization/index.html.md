@@ -37,19 +37,20 @@ This working group is charged with rolling forward from the emergency "Engineeri
 ### Exit criteria
 
 - [x] Name the new process (DONE "cross-functional prioritization)
-- [ ] All groups have dashboards that they use to analyze merged MR ratio of features, maintenance, bugs and undefined.
+- [ ] All groups have dashboards that they can use to analyze merged MR ratio of features, maintenance, bugs and undefined.
 - [ ] Subtypes label are defined and implemented
 - [ ] Type:Undefined Issues are driven down to near zero
 - [ ] Subtype:Undefined Issues are driven down to near zero
 - [ ] Type:Undefined MRs are driven down to near zero
 - [ ] Subtype:Undefined MRs are driven down to near zero
-- [ ] All groups are reviewing the dashboards and discussing it periodically (monthly) in a way where stakeholders can influence decisions.
-- [ ] Development engineering managers are providing their maintenance priorities to PM
+- [x] All groups are reviewing the dashboards and discussing it periodically (monthly) in a way where stakeholders can influence decisions.
+- [x] Development engineering managers are providing their maintenance priorities to PM
 - [x] Quality leads are providing their bug priorities to PM
 - [ ] The quad stable counterparts (PM, Development EM, Quality Engineering Manager, UX Design Manager) meet to determine which issues which will be planned for which milestone
 - [ ] Automation exists to streamline the process.
 - [ ] Handbook is updated to reflect the new process.
 - [ ] Execute on mulit-modal communication plan.
+- [ ] Feedback is gathered, considered, and incorporated as appropriate by the DRI for each respective area
 
 ### Implementation plan
 
