@@ -97,7 +97,7 @@ It is recommended that you complete the modules in the order listed, but it depe
 
 ### Choosing your initial Area of Focus
 
-When you have completed the basic modules, work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
+When you have completed the basic modules, work with your manager to decide your initial [Area of Focus](/handbook/support/engineering/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
 
 1. For GitLab (SaaS or Self-managed), complete the [GitLab Support Learning pathway](#gitlab-support-learning-pathway).
 1. For License & Renewals, complete the [License and Renewals Learning Pathway](#license-and-renewals-learning-pathway).

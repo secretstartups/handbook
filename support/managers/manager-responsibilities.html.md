@@ -41,7 +41,7 @@ Our primary responsibility in the Support Leadership team is to ensure high qual
 |  | Work with GitLab Sales, Pricing, Product, and other teams when company initiatives change Support requirements |
 | Help Support Engineers to manage tickets, manage customer expectations, and communicate well | Coach SEs on communication techniques |
 |  | Understand Support Workflows and escalation paths |
-|  | Support your team members' [participation in on-call rotations](/handbook/support/on-call/) to coordinate and resolve emergencies 
+|  | Support your team members' [participation in on-call rotations](/handbook/support/on-call/) to coordinate and resolve emergencies
 |  | Join [Customer Calls](/handbook/support/workflows/customer_calls.html) with SEs on request or according to your judgement |
 |  | Propose, develop, and evaluate improvements to Support processes by acting as DRI for [issues in the Support Meta project](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues) |
 | Stay up-to-date on GitLab Product, Strategy, Pricing, etc. | Contribute to and read the [Support Week in Review](/handbook/support/#support-week-in-review) document every week |
@@ -103,7 +103,7 @@ Important Slack channels:
 
 ### Conducting weekly 1:1 meetings
 
-Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the [Support Engineer Responsibilities page](https://about.gitlab.com/handbook/support/support-engineer-responsibilities.html) to understand what your team members are aiming to achieve.
+Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the [Support Engineer Responsibilities page](https://about.gitlab.com/handbook/support/engineering/support-engineer-responsibilities.html) to understand what your team members are aiming to achieve.
 
 1. [Review at least two tickets per team-member in 1:1 calls](/handbook/support/workflows/working-on-tickets.html#1-weekly-ticket-review). This helps maintain and improve quality (technical, communication and collaboration).
 1. Monitor for team members to have [around 50% to 60% of public replies to be on tickets that are assigned to them](/handbook/support/workflows/working-on-tickets.html#2-public-replies-on-your-assigned-tickets). Assigning tickets helps resolve customer problems quickly and efficiently as well as encouraging learning and collaboration.
@@ -133,16 +133,16 @@ Support Engineers and Managers are also encouraged to complete courses and certi
 
 ### Develop your skills through direct interactions with customers and Support Engineers
 
-We are committed to being managers who [_know and understand what Support Engineers do day to day._](https://about.gitlab.com/handbook/leadership/no-matrix-organization/). 
+We are committed to being managers who [_know and understand what Support Engineers do day to day._](https://about.gitlab.com/handbook/leadership/no-matrix-organization/).
 
 The best way to be familiar with Support Engineer workflows and responsibilities is to step into the shoes of the engineers.
 
 Each week, Support Managers should do one or more of these activities:
 - own and resolve one ticket from first reply to closing statement
 - join a pairing session with one or more Support Engineers
-- join a scheduled or emergency call 
+- join a scheduled or emergency call
 
-By continually engaging with workflows, tickets, and customers we can build empathy and understand pain points through first-hand experience. 
+By continually engaging with workflows, tickets, and customers we can build empathy and understand pain points through first-hand experience.
 
 In this way, we build trust with engineers and customers while creating a sense of psychological safety by demonstrating that it's okay not to know.
 
