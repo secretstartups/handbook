@@ -48,13 +48,15 @@ We want to make sure that team members are doing the things necessary to take ca
 
 ## COVID-19 Medical Leave Policy
 
-GitLab has long believed in ["family and friends first”](/handbook/values/#family-and-friends-first-work-second) and we realize that our team members may require time away from work in the event they or a dependent family member are directly affected by COVID-19. If you or a family member is diagnosed with COVID, please contact the Absence Management Team (leaves@gitlab.com) to discuss your needs.  You may be eligible for statutory COVID leave in your [country](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits), and the Absence Management team will assist with determining eligibility under these statutory leave policies. 
+GitLab has long believed in ["family and friends first”](/handbook/values/#family-and-friends-first-work-second) and we realize that our team members may require time away from work in the event they or a dependent family member are directly affected by COVID-19. GitLab has adapted its [Sick Time policy](/handbook/paid-time-off/#sick-time---taking-and-reporting) to include COVID diagnosis' for both yourself and your family member(s). Please review the Sick Time - Taking and Reporting requirements to determine when your time away needs to be reported.  
 
-If you are not eligible for statutory COVID leave in your country, GitLab has adapted it's [Sick Time policy](/handbook/paid-time-off/#sick-time---taking-and-reporting) to include COVID diagnosis' for both yourself and your family member(s). Once approved please enter your time away in PTO by Roots by selecting the `Out Sick` option. 
+Generally, COVID related absences of 5 working shifts or less, only need to be entered into PTO by Roots as `Out Sick` in PTO by Roots.  For absences in excess of 5 working shifts, please contact leaves@gitlab.com.  You are not required to provide information related to treatment or diagnosis of COVID for yourself or your family member, but please include Sick Notes or other applicable documentation that may be required in your country.  The Absence Management Team can assist you with this if you are unsure if documentation is required.  
+
+Many countries have adopted their own statutory [COVID leave policies](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits).  If eligible, your time away will be administered under one of these statutory policies, if your absences are in excess of 5 working shift. The Absence Management Team will discuss these policies with you and assist with determining eligibility.  
 
 ## Expensing the COVID-19 Vaccine 
 
-In order to continue supporting our team members globally, we will be offering to cover the cost of the COVID-19 vaccine for team members where the cost is not fully covered by the local government. 
+To continue supporting our team members globally, we will be offering to cover the cost of the COVID-19 vaccine for team members where the cost is not fully covered by the local government. 
 
 Team members can use our [expense reimbursement](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement) process to submit the cost of their vaccine for reimbursement, remembering to [redact personal information](https://about.gitlab.com/handbook/finance/expenses/#redacting-personal-information-from-receipts) including protected health information. When adding this expense to Expensify, team members should use the tag (classification) `FY22_COVIDVaccine`. If you have already received and incurred a cost for the vaccine, you may still request reimbursement.  
 
