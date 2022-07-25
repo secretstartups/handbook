@@ -51,7 +51,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from February 1, 
             1. **VP Alliances: use strong Alliance partners to help scale Channel**
                 1.  VP Alliances KR: Double lead flow to and from top 3 alliance partners
                 1.  VP Alliances KR: Announced GitLab practices with 3 of the top SI’s, recruited from our top Alliance partners.
-1. CEO KR: Maintain quota capacity at least 5% ahead of plan for FY21.  Exceed Q1 [NQR](/handbook/sales/commissions/#quotas-overview) [hiring](/handbook/hiring/charts/sales-nqr/)) by at least 5% quota coverage.
+1. CEO KR: Maintain quota capacity at least 5% ahead of plan for FY21.  Exceed Q1 [NQR](/handbook/sales/commissions/#quotas-overview) hiring by at least 5% quota coverage.
     1. **CRO: Exceed hiring plan for NQR hires for Q1** [gitlab-org&412](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/issues/412)
         1. CRO KR: develop agreed upon quarterly targets and developed reporting on QTD performance.=> 50% completed. Quarterly targets completed with finalizing hiring plan. Develop reporting on QTD performance still in progress.
         1. CRO KR: establish SLA’s for Hiring Teams around interview and feedback turnaround. Assign DRI’s for vacant leadership roles to ensure minimal pause of hiring to plan. => Done
