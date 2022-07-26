@@ -84,7 +84,7 @@ In this case we have the option to release them as Alpha or Beta versions.
 In general, we should avoid releasing Alpha or Beta versions of features.
 A minimal viable change should be _viable_ and therefore should not need a
 pre-release. That said, if there is a situation where we have no valid alternative,
-the definitions of each stage is below.
+the definitions of each stage is below. Please note that some features may not be aligned to these recommendations if they were developed before the recommendations were in place or if the group determined an alternative implementation approach was needed.
 
 It's never acceptable to make changes that risk any damage to existing production
 data accessed by our users.
@@ -96,6 +96,9 @@ data accessed by our users.
 - the configuration and dependencies are likely to change
 - features and functions may be removed
 - data loss can occur (be that through bugs or updates)
+- should be behind a feature flag that is off by default
+- documentation for the feature should reflect alpha status
+- should not be announced in a release post
 
 #### Closed Beta
 
@@ -106,6 +109,9 @@ Similar to Open Beta, but only available to selected users.
 - configuration and dependencies unlikely to change
 - features and functions unlikely to change
 - data loss less likely
+- should be behind a feature flag that is off by default and the UI should reflect beta status
+- documentation for the feature should reflect beta status
+- can be announced in a release post that reflects beta status
 
 #### Open Beta
 
@@ -115,6 +121,10 @@ Similar to Open Beta, but only available to selected users.
 - features and functions unlikely to change
 - data loss not likely
 - [support on a commercially-reasonable effort basis](https://about.gitlab.com/support/statement-of-support/#beta-features)
+- documentation for the feature should reflect beta status
+- can be behind a feature flag that is on by default and the UI should reflect beta status
+- can be behind a toggle that is off by default and the UI should reflect beta status
+- can be announced in a release post that reflects beta status
 
 #### Limited Availability (LA)
 - ready for production use by a small set of customers
