@@ -136,7 +136,7 @@ We encourage everyone to fully step away from work on their days off but underst
 
 ### Sick Time - Taking and Reporting
 
-Sick time refers to the time away a team member needs to recover from short-term (non-chronic, or reoccuring) sickness such as but not limited to covid-19, menstrual pain, cold/flu etc, or care for a close family member recovering from illness, or to care for a close family member recovering from illness. Sick time may be used for preventative reasons like a doctor’s appointment, or for reoccuring appointments (i.e chemotherapy, chiropratic visits, or pre-natal care). Eligible family members includes but may not be limited to: parent(s), child(ren), spouse, domestic partner, grandparent(s), grandchild(ren), or sibling(s). 
+Sick time refers to the time away a team member needs to recover from short-term (non-chronic, or reoccuring) sickness such as but not limited to covid-19, menstrual pain, cold/flu etc, care for a close family member recovering from illness, or for preventative reasons like a doctor’s appointment. Eligible family members includes but may not be limited to: parent(s), child(ren), spouse, domestic partner, grandparent(s), grandchild(ren), or sibling(s). 
 
 In keeping with our values of [CREDIT](/handbook/values/), we have crafted the following protocols around GitLab's global sick time policy available to all GitLab team members.  Team members may be eligible for their own country's [Sick Time Policies](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) and should review eligiblilty under these policies as they may offer more time away or have different reporting procedures.  We understand team members experience situations when they need continuous time away from work (5 days or more) to care for themselves or a family member, or situations when they just need a few days (less than 5), GitLab's Sick Time policy is applicable in both situations.  
 
@@ -144,7 +144,7 @@ In keeping with our values of [CREDIT](/handbook/values/), we have crafted the f
 
 **Continuous Time Away (in excess of 5 days or more), or Non-Continuous if related to the same illness:**
 
-Whenever allowed by law, GitLab's Sick Time Policy will supplement a team member's pay up to 100% of their regular salary for up to 25 days of continous absences, and run concurrently with any statutory Sick Leave policies team members are eligible for.  Eligibility is calculated on a rolling 12-month period, and only pertains to continuous absences when team members need to be away from work for 5 or more continuous days or non-continuous if related to the same illness.  
+Whenever allowed by law, GitLab's Sick Time Policy will supplement a team member's pay up to 100% of their regular salary for up to 25 working days of continous absences, and run concurrently with any statutory Sick Leave policies team members are eligible for.  Eligibility is calculated on a rolling 12-month period, and only pertains to continuous absences when team members need to be away from work for 5 or more continuous days or non-continuous if related to the same illness.  
 
 **Non-Continuous Absences or absences less than 5 continuous days:**
 
