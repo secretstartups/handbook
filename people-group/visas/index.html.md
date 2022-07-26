@@ -10,7 +10,13 @@ description: "Information on travel visas, visa letters, and immigration to the 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Although this page is all about Visas and how to apply for them, kindly keep in mind that GitLab does not  offer any form of Work Sponsorship anywhere in the world. We do have guidance below on how we provide sponsorship in the [Netherlands](/handbook/people-group/visas/#right-to-immigrate-to-the-netherlands), but we do not offer this in any other location at this time. We are also not in a position to transfer existing Work permit's at this time.
+## Visas and Sponsorship
+
+GitLab does **not** offer any form of work or study sponsorship anywhere in the world, other than our specific, internal [Netherlands](/handbook/people-group/visas/#right-to-immigrate-to-the-netherlands) process. GitLab does **not** offer any form of support to transfer an existing work permit. During the [screening process](/handbook/hiring/interviewing/#what-to-expect-during-an-interview-with-a-recruiter), recruiters will ask applicants if they require any type of sponsorship or support.
+
+# Travel Visas
+
+For assistance with any employment or relocation visa please reach out to the People Ops Manager. Point of contact for Contribute and travel visas is TBD.
 
 ## Expensing
 
@@ -23,12 +29,6 @@ You can expense:
 - Cost of applying for the [30% ruling](#30-ruling-in-the-netherlands)
 
 You can _not_ expense relocation costs.
-
-## Visa Contacts
-
-For assistance with any employment or relocation visa please reach out to the People Ops Manager. Point of contact for Contribute and travel visas is TBD.
-
-## Travel Visas
 
 ### Arranging a visa for travel
 
