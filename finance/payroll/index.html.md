@@ -244,7 +244,9 @@ For team members of GitLab PTY (Australia), to view payslips visit the [iiPay si
 
 If you have not received an invitation to create an account, visit the [register URL](https://prd3-ess.iipaysp.com/RegisterUser/GITL?RedirectorGuid=D08C7F23-DCF8-4dec-95EE-9D86FE088902&provider=iipay).
 
-For Leavers, you can request for extended access to the iiPay portal to retrieve any payslips by emailing nonuspayroll@gitlab.com from your personal email address. You will receive a password-reset in your personal email. _Please Note:_ Your _GitLab email_ is your username to reset the password.
+For Leavers, you can request for extended access to the iiPay portal to retrieve any payslips by emailing nonuspayroll@gitlab.com from your personal email address. You will receive a password-reset in your personal email.
+
+**Password reset**: your _GitLab email_ is your username to reset the password.
 
 
 ## iiPay - Contractors
