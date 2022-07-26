@@ -24,12 +24,12 @@ Reseller customers **do not** have access to CustomersDot -- for such customers,
 
 **Ensure that the requestor has exhausted all self-service options:**
 
-1. If the requestor is the existing Owner, suggest that they [change the account details](https://docs.gitlab.com/ee/subscriptions/#change-your-personal-details), 
+1. If the requestor is the existing Owner, suggest that they [change the account details](https://docs.gitlab.com/ee/subscriptions/#change-your-personal-details),
 and issue a [password reset](https://customers.gitlab.com/customers/password/new) to the new Owner's email.
-1. If they have access to the existing Owner's email address, suggest that the requestor issue a [password reset](https://customers.gitlab.com/customers/password/new) 
+1. If they have access to the existing Owner's email address, suggest that the requestor issue a [password reset](https://customers.gitlab.com/customers/password/new)
 to the existing Owner's email, and [claim the account](https://docs.gitlab.com/ee/subscriptions/#change-your-personal-details).
-1. For **SaaS customers** who use a self-service option, mention that we highly recommend the new Owner to log in 
-and [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account) 
+1. For **SaaS customers** who use a self-service option, mention that we highly recommend the new Owner to log in
+and [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account)
 to ensure their subscription is kept in sync with the linked GitLab group.
 
 
@@ -63,31 +63,48 @@ Once we have received one of the verification requirements, we can proceed to ad
 
 ### Change subscription management contact workflow
 
-Use this workflow if a customer requests to change a subscription contact by either taking over ownership, 
-handing over ownership, or re-gaining access to a subscription that was set-up by another person not in the 
+#### Important
+
+- In order to change the subscription management contact, we should ask for the same [ownership verification](#ownership-verification) information.
+- **Do not** change/move the zuora_account_id or salesforce_id of the customer account in CustomersDot.
+
+Use this workflow if a customer requests to change a subscription contact by either taking over ownership,
+handing over ownership, or re-gaining access to a subscription that was set-up by another person not in the
 organization anymore.
 
-We should try to always retain the original CustomersDot account with access to the Zuora subscription 
+We should try to always retain the original CustomersDot account with access to the Zuora subscription
 until [Issue#4247](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4247) is resolved.
 
 **Reason:**
-Currently, an Order entry in the database is linked to one customer account only. 
+Currently, an Order entry in the database is linked to one customer account only.
 If the Order points at a Customer that doesn't have a `zuora_id` on it, the customer's Subscription cannot be found.
 This may then lead to cloud activation errors and SaaS subscriptions not syncing to GitLab.com.
 
-In order to change the subscription management contact, we should ask for the same [ownership verification](#ownership-verification) information. Then confirm with the customer which of the cases below matches their goal:
+#### Workflow
 
-| Cases                                                                                             | Response |      Actions  |  
-|:---------------------------------------------------------|:----:|:-----|
-| Transfer the subscription management to the `new email`                                           | Yes      | Copy the `Zuora ID` and `Salesforce Account ID` from the existing account to the new account on CustomersDot, uncheck the `Login activated` checkbox for **Reseller** customers, and select `Save`. |
-| Stop managing subscription on the `existing email`                                                | Yes      | Remove the `Zuora ID` and `Salesforce Account ID` from the existing account on CustomersDot and select `Save`. If `No`, do not update the existing account. |
-| Change the contact for future renewal related emails   | Yes      | Pass to Billing team by following the [Zuora Contact Change Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#zuora-contact-change). This process may be applicable to the previous cases in the table after those changes are actioned. |
+##### Self-Served
 
-**Note:** For any situation where an account with the new contact's email does not exist on CustomersDot,
-update the `Names` and `Email` of the current account and trigger a [password reset](https://customers.gitlab.com/customers/password/new)
+As first option we should **always** ask the customer to reset the account password and access the corporate email address to complete the reset and then change the associated email and/or name for the account.
+
+##### Support assisted
+
+**Options**
+
+- For any situation where the customer is not able to complete the self-served option on CustomersDot,
+update the `Name` and `Email` of the current account and trigger a [password reset](https://customers.gitlab.com/customers/password/new)
 to the new email.
 
-Always remind SaaS customers to [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account) 
+
+- If the customer has already created a new account and wants the ownership to be transferred.
+    - Point them to [Issue#4247](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4247) and explain that might cause purcharing problems.
+    - Change the email in the new account for example: `person@example.com` to `person_edited@example.com`
+    - Update the old account email to use `person@example.com`
+    - Ask them to request a password reset for `person@example.com`
+
+#### If a change is needed in the contact for future renewal related emails   
+Pass to Billing team by following the [Zuora Contact Change Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#zuora-contact-change).
+
+Always remind SaaS customers to [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account)
 to ensure their subscription is kept in sync with the linked GitLab group.
 
 **Reseller customer note:** This process is slightly different for customers who have purchased their subscription through a reseller, as the customer will not be directed to create a new cDot account. Instead:
