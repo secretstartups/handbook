@@ -228,8 +228,8 @@ Please note that a limited set of team members currently have access to the link
 
 ### Cross-Functional Initiative DRIs
 
-Each of our top cross-functional initiatives has an Executive Sponsor and a [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/). DRIs are the folks ultimately held accountable for the success (or failure) of the project. They are the linchpins as these initiatives require deep cross-functional alignment and coordination. DRIs are also responsible for performance tracking and reporting. This includes providing updates in advance of relevant [Key Reviews](https://about.gitlab.com/handbook/key-review). Updates should map to the Executive Sponsor who is aligned with the initiative. For example, category leadership maps to Sales and Marketing as the Exec Sponsor is the CMO. The DRI are responsible for the following deliverables in advance of Key Reviews:
-   1. The iniaitive overview epic
+Each of our top cross-functional initiatives has an Executive Sponsor and a [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/). DRIs are the folks ultimately held accountable for the success (or failure) of the project. They are the linchpins as these initiatives require deep cross-functional alignment and coordination. DRIs are also responsible for performance tracking and reporting. This includes providing updates in advance of relevant [Key Reviews](https://about.gitlab.com/handbook/key-review). Updates should map to the Executive Sponsor who is aligned with the initiative. For example, category leadership maps to Sales and Marketing as the Exec Sponsor is the CMO. The DRI is responsible for the following deliverables in advance of Key Reviews:
+   1. The initiative overview epic
    1. Milestone issue status 
    1. Two initiative slides using the [Key Review meeting template](https://docs.google.com/presentation/d/1cdo138YJcFl_x9-vaybRJgcO_eSiLnOGw9b-JZidX3A/edit?usp=sharing) 
 
