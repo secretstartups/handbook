@@ -50,8 +50,8 @@ The Growth and Development policy is meant to further team members' learning and
 |G&D Issue Template|Notification Timeframe|
 |------------------|----------------------|
 |[Academic Study](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=academic_study)|30 days before the commencement date|
-|[Other G&D Types (Under $300 USD)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-growth-development)|7 days before the commencement date|
-|[Other G&D Types (Over $300 USD)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other_GD_under)|30 days before the commencement date|
+|[Other G&D Types (Under $300 USD)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-GD-under)|7 days before the commencement date|
+|[Other G&D Types (Over $300 USD)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-growth-development)|30 days before the commencement date|
 
 * For bulk applications or if you are a manager creating one issue for your team members, please include the team members' GitLab emails on the issue.
 
