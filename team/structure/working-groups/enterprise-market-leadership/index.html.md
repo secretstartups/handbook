@@ -16,7 +16,7 @@ description: "Learn more about how GTM and Product Management are working togeth
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | May 20,2022 |
-| Target End Date | August 30, 2022 |
+| Target End Date | July 28, 2022 |
 | Slack           | [#wg_ent-mkt-leadership](https://join.slack.com/share/enQtMzY4NzMwMzE1MTk1My0xZDAxY2FlMzk1MmU5ZGU4NjQ1MzBlMGE4MTE2OTg3MjA0ZTc3M2U5ZmZhMWY0YTU5ODU4Njc0ZTEyNDUzYTI1) (only accessible by GitLab team members) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1nXo8r11TxFyNPMdEpGzS8f95Gm0CtUoeElCCjY93isU/edit?usp=sharing) (only accessible by GitLab team members) |
 | Docs            | TBD |
