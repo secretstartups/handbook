@@ -339,8 +339,9 @@ Payroll changes will be sent by the 10th of the month.  Global Upside will send 
 - Switzerland
 - Brazil
 - Sweden
+- Luxembourg
 
-Payroll changes will be sent to Remote every 10th of the month. Payroll changes includes changes on member's information, bonus, commission, expense etc. Remote will provide the  payroll report along with the invoices. Once reviewed and approved, Payroll will forward the invoices to the Accounts Payable team. Paydate is the 25th of each month (unless any unforeseen banking issue then please allow 1 or 2 days before the last day of the month).
+The internal cut off is by the 8th of each month for team members to have expenses fully approved in order to meet the Payroll. Payroll changes will be sent to Remote by the 10th of each month. Payroll changes includes changes on member's information, bonus, commission, expense etc. Remote will provide the  payroll report along with the invoices. Once reviewed and approved, Payroll will forward the invoices to the Accounts Payable team. Paydate is the 25th of each month (unless any unforeseen banking issue then please allow 1 or 2 days before the last day of the month).
 
 ## Payroll cut off dates
 
