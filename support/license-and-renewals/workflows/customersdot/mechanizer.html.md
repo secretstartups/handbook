@@ -39,7 +39,7 @@ The [Add CI Minutes form](https://gitlab-com.gitlab.io/support/toolbox/forms_pro
 
 ### Force Associate
 
-The [Force Associate form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html) assoicates a group with a subscription. All fields are required.
+The [Force Associate form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html) associates a group with a subscription. All fields are required.
 
 - **Your GitLab Username**: Your non-admin GitLab.com username without a preceding @ (ex. `username` and not `@username`).
 - **Namespace**: The customer namespace as it appears in the URL.
@@ -74,7 +74,7 @@ Required to "extend" a subscription:
 - **Subscription name**: The name of the existing (active or expired) subscription tied to the namespace.
 
 ### Clear Subscription
-The [Clear Subscription](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) form unlinks a grop from a subscription.
+The [Clear Subscription](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) form unlinks a group from a subscription.
 
 - **Your GitLab Username**: Your non-admin GitLab.com username without a preceding @ (ex. `username` and not `@username`).
 - **Extra minutes**: The number of minutes to add

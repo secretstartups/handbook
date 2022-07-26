@@ -37,5 +37,5 @@ a normal crush session in which you help each other to progress tickets is just 
 **Ways you might initiate a Branch Out session**
 - Attend a scheduled crush session and as you decide together on the focus, suggest a Branch Out focus for a group.
 - Propose an impromptu Branch Out session in #support_team-chat
-- If one particular group appears to need help, ask in their group channel if they agree to a Branch Oout session. The session could be performed in the group collaboration/zoom room, and the initiator could announce the session and share the zoom link in #support_team-chat to get wider participation.
+- If one particular group appears to need help, ask in their group channel if they agree to a Branch Out session. The session could be performed in the group collaboration/zoom room, and the initiator could announce the session and share the zoom link in #support_team-chat to get wider participation.
 

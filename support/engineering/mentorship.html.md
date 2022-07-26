@@ -44,7 +44,7 @@ As a mentor it's important to remember:
 Beyond just Pairing, Senior+ Engineers can consider more longer-form  structured mentorship. We currently advise aiming for a 6 week long program with a concrete goal for the close of the mentorship program to help keep both parties focused and moving forward.
 ### Example Mentoring Program
 
-The following is an outline of a six-week mentoring program on log parsing with `jq` and intrepreting `strace`, with one-hour meetings held weekly.  Example projets include creating a runbook and adding new pages to our troubleshooting documentation.
+The following is an outline of a six-week mentoring program on log parsing with `jq` and interpreting `strace`, with one-hour meetings held weekly.  Example projects include creating a runbook and adding new pages to our troubleshooting documentation.
 
 - Week 1:
    - Intro: What does the mentee want from this, what can the mentor offer

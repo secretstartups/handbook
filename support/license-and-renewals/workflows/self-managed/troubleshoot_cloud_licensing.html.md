@@ -15,7 +15,7 @@ Customer was opted into cloud licensing because of a [bug](https://gitlab.com/gi
 
 ### Troubleshooting workflow
 
-1. Determine whether the customer shoud be on cloud licensing
+1. Determine whether the customer should be on cloud licensing
 1. **If no**, proceed with:
     1. Removing the current cloud license by asking the customer to run these commands via [rails console](https://docs.gitlab.com/ee/administration/operations/rails_console.html): `l = License.find 123` and then `l.destroy`. You need to provide the license number for the first command. You can find this number in the URL of the cloud license in the customersdot license menu (example: https://customers.gitlab.com/admin/license/123123123)
     1. Once the license has been removed, the customer should have the ability to upload a standard license file on their instance. 
