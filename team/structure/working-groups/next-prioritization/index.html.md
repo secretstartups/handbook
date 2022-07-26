@@ -65,12 +65,13 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 | Facilitator           | Wayne Haber                                          | Director of Engineering                                    |
 | Functional Lead       | Christopher Lefelhocz                                | VP of Development                                          |
 | Functional Lead       | Valerie Karnes                                       | Director of Product Design |
+| Functional Lead       | Christie Lenneville                                  | VP of UX |
 | Functional Lead       | Mek Stittri                                          | VP of Quality |
 | Functional Lead       | David DeSanto                                        | VP of Product Management |
 | Functional Lead       | Justin Farris                                        | Senior Director of Product Management |
 | Functional Lead       | Farnoosh Seifoddini                                  | Head of Product Operations |
-| Member                | Lily Mai                                             | Staff Engineering Analyst |
-| Member                | Tanya Pazitny                                        | Director of Quality Engineering |
+| Functional lead       | Lily Mai                                             | Staff Engineering Analyst |
+| Functional Lead                | Tanya Pazitny                                        | Director of Quality Engineering |
 | Member                | Kyle Wiebers                                         | Engineering Manager, Engineering Productivity |
 | Member                | John Hope                                            | Engineering Manager, Plan:Product Planning & Certify |
 | Member                | Matt Wilson                                          | Senior Product Manager, Secure |
