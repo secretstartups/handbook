@@ -64,7 +64,7 @@ Any GitLab team member is able to propose a Family and Friends Day. If there are
 1. Once the Merge Request is approved, the Total Rewards team will annouce the Family & Friends day on the `#company-fyi`, `#whats-happening-at-gitlab` and `#people-connect` Slack Channels. The Total Rewards team will post upcoming Family and Friends Days on the `GitLab Team Meeting` Google calendar.
 
 ### I'm in a role which requires me to work that day. How can I still benefit from this initiative?
-If you are in a role that requires you to work on Family and Friends Day, you can work with your manager to find an alternative day. We encourage you to consider the following business day as the preferred second choice for a day away, but do what works best for you and your team.
+If you are in a role that requires you to work or your team has other coverage requirements on Family and Friends Day (for example, [Customer Support](https://about.gitlab.com/handbook/support/support-time-off.html#how-support-handles-family-and-friends-days)), you can work with your manager to find an alternative day. We encourage you to consider the following business day as the preferred second choice for a day away, but do what works best for you and your team.
 
 ### What if the date is a public holiday or non-working day in my country? How does this apply to me?
 We encourage you to take off the next working day. If this day isn't an option, work with your manager to find another day that works for you and your team.
