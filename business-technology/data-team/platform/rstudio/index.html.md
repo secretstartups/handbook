@@ -115,9 +115,46 @@ Once you've completed the steps above and try running the code, you should be ta
 
 **NOTE:** You will have to stay on the webpage until it indicates your identity was confirmed and you were connected to Snowflake. 
 
+## Managing R with .Rprofile
+
+It is recommended to set up a **.Rprofile** file to customize the startup process for a given session in RStudio. It can also simiplify sharing code with other users. Upon startup, R and RStudio will look for and run the .Rprofile file which can be used to control the behavior of your R session (e.g. setting options or environment variables).  
+
+.Rprofile files can be either at the user or project level. User-level .Rprofile files live in the base of the user's home directory, and project-level .Rprofile files live in the base of the project directory. R will source only one .Rprofile file. So if you have both a project-specific .Rprofile file and a user .Rprofile file that you want to use, you explicitly source the user-level .Rprofile at the top of your project-level .Rprofile with source("~/.Rprofile").
+
+One easy way to edit your .Rprofile file is to use the `usethis::edit_r_profile()` function from within an R session. You can specify whether you want to edit the user or project level .Rprofile. 
+
+Follow the example below to set up a new .Rprofile file that automatically sets your username, role, and driver for snowflake. If other users follow the same template, they will not have to update this information when they access Snowflake (or any other database) tables using your code in R:
+
+- Start by creating a blank .Rprofile document by installing packages and running the `edit_r_profile()` function from the `usethis` package
+
+```
+install.packages("usethis")
+library(usethis)
+usethis::edit_r_profile()
+```
+
+- In the .Rprofile file that opens in a separate tab enter in the necessary information:
+
+```
+.First <- function() cat("Welcome to R!")
+.Last <- function()  cat("Goodbye!")
+
+uid = "CSMITH@GITLAB.COM"
+role = "CSMITH"
+driver = "/opt/snowflake/snowflakeodbc/lib/universal/libSnowflake.dylib"
+styler::tidyverse_style()
+
+message("*** Successfully loaded .Rprofile ***")
+```
+
+- Save the .Rprofile file. To test if it worked, at the top of the screen in R, navigate to **Session** >> **Restart R**
+- Once R has restarted the message should show up in the console. In the example above this will be `*** Successfully loaded .Rprofile ***
+Welcome to R!`
+-  You will also see the variables `uid`, `role`, and `driver` in your environment. These variables are used for connecting to your database (Snowflake here at GitLab), or for any other variables you deem necesary.
+
 ## dbplyr
 
-Last, the [**dbplyr**](https://dbplyr.tidyverse.org/) package can be used to interact with databases using the tidyverse language. If you're familiar with [tidyverse](https://dbplyr.tidyverse.org/) already, you may find this package especially helpful.
+The [**dbplyr**](https://dbplyr.tidyverse.org/) package can be used to interact with databases using the tidyverse language. If you're familiar with [tidyverse](https://dbplyr.tidyverse.org/) already, you may find this package especially helpful.
 
 ## How to Use Git with RStudio
 
