@@ -28,7 +28,24 @@ title: "Sales & Customer Success Onboarding Process"
 1. Field team members will matriculate into an appropriate role-based learner journey after successful completion of Sales Quick Start to support onboarded / ramping team member's continued learning journey to greater success.
 
 ## Role-based onboarding journeys
-After you finish your Sales Quickstart pre-work, you can start your role-based onboarding journey.
+To accelerate ramp time and to support the GitLab values of results, iteration and efficiency, we have optimized the field onboarding program to provide new team members with the core information and essential competencies paired with the day-to-day skills that they need to be successful in their individual role. Learning is combined with specialized on the job training and a more robust shadowing program to ensure that new team members can contextualize and apply what they are learning throughout the entire onboarding journey. 
+
+The onboarding program includes individual role-based learning journeys for AEs, SALs, SAs, TAMs, CAMs, ABDMs and ISRs. Each role-based learning journey is designed based on the unique needs of each segment and includes the following milestones: 
+
+* Month 1: Understand role and GitLab product (SQS & Pre-work)
+* Month 2: Meet customers
+* Month 3: Become customer-ready certified
+* Month 4: Close first deals
+* Month 5 and Beyond: Continue to develop intermediate and advanced skills
+
+### Learning Journeys 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUZzM8uy4aE4huFZ0eC1x_qI31obWQYjHxTtaDkOcz1nm_8QHg1Dr3Jlzq_AvHRAyK8tlGnYdzOy9Q/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+GitLab's role-based learning journeys are based on milestones and enable us to deliver relevant information and training over the first several months at GitLab.
+
 
 ## The Customer-Ready Shadow Program 
-Job shadowing offers a hands-on way to learn how different GitLab roles represent GitLab. We often learn best when we have the opportunity to learn from our peers, practice, and get feedback in an interactive way. It’s also a great way to make new hires feel welcome and a part of our sales culture at GitLab. [Learn more on the Customer-Ready Shadow Program page.](/handbook/sales/shadow-program/)
+Shadowing the customer calls of your peers offers a hands-on way to learn how different GitLab roles represent GitLab. We often learn best when we have the opportunity to learn from our peers, practice, and get feedback in an interactive way. It’s also a great way for current team members to make new hires feel welcome and a part of our sales culture at GitLab. [Learn more on the Customer-Ready Shadow Program page.](/handbook/sales/shadow-program/)
+
+
