@@ -75,9 +75,6 @@ managers. Ongoing incidents or Change Requests with the `blocks deployments` lab
 Each deployment will trigger a notification in the Slack channel [#announcements](https://gitlab.slack.com/archives/C8PKBH3M5).
 As part of the deployments, a QA issue is created in [release/tasks] issue tracker to inform the people who are
 involved in the process that their change is going through environments
-9. Following a successful deployment to production, post-deploy migration scripts run on staging
-10. QA tests execute against staging
-11. Post-deploy migration scripts run on production
 
 ## Self-managed releases
 
