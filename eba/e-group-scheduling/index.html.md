@@ -143,10 +143,11 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 Scheduling should ideally be kept between 9:00 am and 5:30 pm Pacific Time
 
 ## Scheduling for David DeSanto, VP Product 
-* All meeting requests should go through the EBA for Product, Jennifer Garcia
+* All meeting requests should go through the EBA for Product, Jennifer Garcia and should include an agenda doc
 * 1:1's with direct reports should occur weekly unless scheduling conflicts
 * Meetings before 9:00am CT and after 6:00pm CT need to be confirmed prior to scheduling
 * Biweekly Product Meeting and Weekly Product Leadership meetings cannot be scheduled over
 * David will allocate "Focus Time" blocks for work time based on upcoming priorities, please check with EBA before scheduling over these blocks
 * Reminders at -2 weeks, -1 week and -2 days should be put on the calendar for the following events: OKR, Group Conversations (Product), Board of Director meetings, Monthly Key Reviews, Monthly Top ARR Drivers Reviews, and Performance Indicator Reviws.
 * 1:1's should always be rescheduled instead of cancelled unless unavoidable due to OOO/PTO schedules
+* Meetings will be declined if no agenda is added or shared 48 hour priors to the meeting time
