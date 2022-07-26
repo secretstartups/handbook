@@ -115,7 +115,7 @@ Contributor Success team members attempt to move merge requests that have reache
 
 If that's not successful an Engineering Manager makes a decision at the second threshold. We value your effort - that's why all decisions to close a merge request are made by a human, and are not automated.
 
-## Wider Community Merge Request Triage SLOs
+## Wider Community Merge Request Triage SLOs for the www-gitlab-com project
 
 Community contributions are valuable, and we should handle them as effectively as possible to ensure swift feedback to community and increase engagement. To achieve that we define the following [Service-level objectives (SLOs)](https://en.wikipedia.org/wiki/Service-level_objective):
 
