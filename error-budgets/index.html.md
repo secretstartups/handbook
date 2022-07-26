@@ -194,6 +194,7 @@ Our current contract is 99.95% availability and a 20 minute monthly error budget
 |**Stage Group**   | **Monthly Spend (28 days)** | **Business Reason** | **Review Date**|
 |------------------|---------------------|---------------------|---------------------|
 | All fulfillment stages |  <= 3.65 hours/month about 5 mins/day  (99.5%)    | We are prioritizing [adding more endpoints to Prometheus so the error budgets have more data points](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/701).<br/> |  2022-07-31 |
+| Global Search | 1 hour/month (99.83%) | [The SLI and SLO are being redesigned to better reflect the system status and the work is working-in-progress](https://gitlab.com/groups/gitlab-org/-/epics/7892). | 2022-10-30 |
 
 **Exceptions**
 
