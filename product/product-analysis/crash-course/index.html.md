@@ -9,9 +9,6 @@ title: Crash Course for Product Stage Resources
 - TOC
 {:toc}
 
-## Important Note
-
-This page is In-Progress. Content for each Stage will be included by the end of Q2 2022. Follow along with [Epic #529](https://gitlab.com/groups/gitlab-data/-/epics/529). Contributions of any kind are more than welcome. Each Product Stage has its own Issue where comments are encouraged.  
 
 ## Objectives for this page
 
@@ -35,6 +32,8 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 * [Features by Group handbook page](/handbook/product/categories/features/#planproject-management-group) contains a tabular breakdown of features included in each Stage Group by Core, Premium or Ultimate categories. 
 
 * [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) contains CMAU, SMAU, and GMAU charts for each section, stage, and group.
+
+* The [Technical Marketing handbook page](/handbook/marketing/strategic-marketing/technical-marketing/) contains links to product demos, webinars and release videos.  
 
 ## Learn about analytics relevant product stage topics grouped by Section
 
@@ -395,17 +394,14 @@ GitLab Docs are awesome!
 </details>
 
 #### Release Stage
-Short description of Release Stage
+
+GitLab's integrated CD solution allows users to ship code with zero-touch, be it on one or one thousand servers.
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
-
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
-
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+* [Release Stage Dashboard](https://app.periscopedata.com/app/gitlab/777879/Release-Stage-Dashboard) Primary point of reference for the Release Stage team. 
 
 
 **Important data documentation**
@@ -420,28 +416,27 @@ WHERE field = stage_name
 
 **Helpful video resources**
 
-[Link to user research or demos]()
-Group specification if applicable, brief description of youtube channel linked or specific singular video resource
+[List of YouTube Playlists maintained by Release](https://about.gitlab.com/handbook/engineering/development/ops/release/#youtube-playlists)
 
 **Product roadmap link**
 
-[Link to product roadmap]()
+[Product Direction - Release](https://about.gitlab.com/direction/release/#whats-next-and-why)
 Resource to understand the long-term goals for this team
 
 **Performance indicators**
 
-[Link to OKRs handbook page]()
-Resource to understand the current OKRs for this team
+[Link to performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/ops-section/)
+
+Resource to understand the Performance Indicators for the Ops Section - Page can be searched by Stage and Group
 
 **Key handbook pages**
 
-[Link to helpful handbook page]()
-Describe why this handbook page is helpful for product analysts
+[Release Primary Handbook Page](https://about.gitlab.com/handbook/engineering/development/ops/release/)
 
 **Slack channels**
 
-**#slack-channel**
-Description
+**#s_release**
+
 
 **Team members**
 
@@ -450,18 +445,17 @@ Description
 
 </details>
 
-#### Monitor Stage
-Short description of Monitor Stage
+#### Configure Stage
+
+Enabling users to configure applications and infrastructure. Auto DevOps, Kubernetes Management and ChatOps.
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+* [Configure team business metrics](https://app.periscopedata.com/app/gitlab/511813/Configure-team-business-metrics) Central point of entry for the Configure Stage team to evaluate metrics.
 
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
-
-* [Link to a dashboard]() Group specification if applicable, brief description of dashboard and how it's used
+* [Configure Stage Topic Board](https://app.periscopedata.com/app/gitlab/topic/Configure-Stage/ab515335d8494519ad4971740a62171a) Contains all of the most commonly used dashbaords by the Configure team.
 
 
 **Important data documentation**
@@ -476,28 +470,80 @@ WHERE field = stage_name
 
 **Helpful video resources**
 
-[Link to user research or demos]()
-Group specification if applicable, brief description of youtube channel linked or specific singular video resource
+[GitLab <> Kubernetes Agent Overview](https://vimeo.com/677950027)
+
+[AutoDevops Overview Demo](https://www.brighttalk.com/webcast/17523/524896) You'll need to register for brighttalk with your work email to access this resource.
 
 **Product roadmap link**
 
-[Link to product roadmap]()
+[Product Direction - Configure](https://about.gitlab.com/direction/configure/#opportunities)
 Resource to understand the long-term goals for this team
 
 **Performance indicators**
 
-[Link to OKRs handbook page]()
-Resource to understand the current OKRs for this team
+[Link to performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/ops-section/)
+Resource to understand the Performance Indicators for the Ops Section - Page can be searched by Stage and Group
 
 **Key handbook pages**
 
-[Link to helpful handbook page]()
-Describe why this handbook page is helpful for product analysts
+[Primary handbook page for Configure](https://about.gitlab.com/handbook/engineering/development/ops/configure/)
 
 **Slack channels**
 
-**#slack-channel**
-Description
+**#s_configure**
+
+**Team members**
+
+[Handbook page to find Create team members to collaborate with](/handbook/engineering/development/ops/configure/#team-members)
+
+
+</details>
+
+#### Monitor Stage
+
+Helps reduce the severity and frequency of incidents. Incident management and error tracking.
+
+<details markdown="1"><summary>Click to expand</summary>
+
+**Top dashboards referenced by this team**
+
+* [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)
+
+* [Error Budget Dashboard - Stage Monitor](https://app.periscopedata.com/app/gitlab/892457/Error-Budget-Dashboard---Stage-Monitor)
+
+
+**Important data documentation**
+
+``` sql
+
+SELECT * 
+FROM table
+WHERE field = stage_name
+;
+```
+
+**Helpful video resources**
+
+Demos and overview videos for Monitor will be added here as they become available.
+
+**Product roadmap link**
+
+[Product Direction - Monitor](https://about.gitlab.com/direction/monitor/)
+Resource to understand the long-term goals for this team
+
+**Performance indicators**
+
+[Link to performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/ops-section/)
+
+Resource to understand the Performance Indicators for the Ops Section - Page can be searched by Stage and Group
+
+**Key handbook pages**
+
+[Blog post on Incident Management](https://about.gitlab.com/blog/2021/11/30/gitlab-incident-management/)
+
+**Slack channels**
+
+**#s_monitor**
 
 **Team members**
 
