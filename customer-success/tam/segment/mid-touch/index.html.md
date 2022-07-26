@@ -160,6 +160,18 @@ To ensure your calls are logged correctly, make sure to select `Customer Call` a
 
 Whenever a customer's health changes (positively or negatively), always also log an `At-risk Update` mentioning the reasons why the health score is changed and linking to the triage issue if applicable (required for any Red accounts). This ensures we have accurate reporting at the team-level and understand the health status of the segment, without needing to reach out to individal CSMs.
 
+### Success Plans
+
+Customer [success plans](/handbook/customer-success/tam/success-plans/) are created and maintained inside of Gainsight. When a customer purchases GitLab, Gainsight will automatically create a minimal success plan that copies over some information from the Salesforce pre-sales [Command Plan](/handbook/sales/command-of-the-message/command-plan/).
+
+When a customer purchases, the primary goal of both the customer and the CSM is to get them enabled and adopted on their primary use case. For example, if they purchased GitLab for our SCM capabilities, we both want to make sure they are successful within SCM so that they get their full ROI! Once they have fully adopted their primary use case, we can then explore additional areas of adoption that will further their ROI and improve their overall DevSecOps workflows.
+
+As a result, every customer should have one objective directly related to the adoption of the use case we're currently trying to enable. At purchase, that objective should be the enablement playbook for whichever use case they purchased. Once they are "green" in that use case, the CSM should close that objective as a success and open a new objective that is an expansion for the next stage in the [customer adoption journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) GitLab has identified.
+
+The enablement and expansion objectives should always utilize the pre-built adoption playbooks. It's possible to customize the playbooks after applying them if needed, but try to adhere to the guidelines, both to follow the established path towards to success but also to save your own time. If you find that the playbook isn't working, please open an issue in the [CS Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) with your suggestions on what should be changed and tag your manager.
+
+It's acceptable for success plans to have more than one objective which may or may not be another expansion or enablement objective, but only for Priority 1 accounts who have growth potential.
+
 ### CTAs
 
 The [Cockpit](/handbook/customer-success/tam/gainsight/ctas/#cockpit) houses all call-to-actions and success plan objecties that are assigned to CSMs. However, it can get very noisy and it's easy to get CTA-fatigue. To help avoid this, it's recommended for all Growth CSMs to make the following adjustments in their Cockpit:
