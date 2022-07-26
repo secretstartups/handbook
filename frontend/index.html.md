@@ -116,6 +116,7 @@ the winner as the next DRI for that time zone.
 | 2021-06-22 | What's the piece of tech you miss the most? | Paul S |
 | 2021-08-17 | A kilobyte of fun | Mark |
 | 2021-10-05 | What's the most mind-blowing fact you've ever learned? | Miguel |
+| 2022-07-26 | What's the best swag (from any company) you've ever gotten or seen, and why? | Kushal |
 
 ### Frontend calendar
 
