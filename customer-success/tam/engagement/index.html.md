@@ -224,9 +224,9 @@ In order to make an exception, the TAM or SAL should discuss the details with th
 
 ### Growth Accounts
 
-The Growth segment aims to have no more than 20% of a TAM's book of business to be Priority 1 at any given time.
+The Growth segment aims to have no more than 20% of a CSM's book of business to be Priority 1 at any given time.
 
-For a customer to be a Priority 1, they must meet at least one of the following parameters:
+For a customer to be Priority 1, they must meet at least one of the following parameters:
 - User growth and/or uptier within the next 6 months (must have a corresponding Salesforce opportunity)
 - Active use-case planning and/or adoption
 - Contraction or churn risk
@@ -234,10 +234,10 @@ For a customer to be a Priority 1, they must meet at least one of the following 
 
 The primary difference between Priority 1 and Priority 2 customers is the frequency of synchronous engagement:
 - **Priority 1:**
-   - Monthly cadence calls
-   - For onboarding: weekly calls for first 30 days
+   - Weekly cadence calls for at Risk and Onboarding customers (for first 30 days)
+   - Monthly cadence calls for customers with growth opportunities  
 - **Priority 2:**
-   - Cadence calls every 60-90 days
+   - Cadence calls every 90 days
 
 Priority 1 customers will also have more focus on having EBRs to ensure alignment on use case adoption and future expansion.
 
