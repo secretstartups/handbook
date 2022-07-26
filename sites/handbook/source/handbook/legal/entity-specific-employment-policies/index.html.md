@@ -73,6 +73,8 @@ To ensure the health and safety of our team members in Germany, and to maintain 
 
 ### Japan
 
+* [Work Rules](https://docs.google.com/document/d/1DqbNBL6QIFBQlxqi7rWQiodFt6KvSp5fml3llu94Byw/edit?usp=sharing)
+
 </details>
 
 <details>
