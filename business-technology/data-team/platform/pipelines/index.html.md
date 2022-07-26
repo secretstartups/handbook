@@ -21,18 +21,24 @@ There are **dedicated** gitlab.com _read_ replica database instances used for da
 
 ```mermaid
 graph LR;
-A[GitLab.com-DB-Live] -->|build_destroy_mechanism| B[GitLab.com-DB clone running on  port 25432]
-    A --> |wal_files_mechanism| C(Gitlab.com-DB Live Replica)
-    B --> | Data Platform Pipeline SCD| D(Snowflake_DWH)
-    B --> | Data Platform Pipeline Incremental| D(Snowflake_DWH)
+A[Main Tables GitLab.com-DB-Live] -->|wal_files_mechanism| B(Main Tables GitLab.com-DB Replica) 
+    B --> |build_destroy_mechanism DB from GCP Snapshot | C[Main-Tables GitLab.com -- DB running on  port 5432]
+        C --> | Data Platform Pipeline Main-Tables SCD| E(Snowflake_DWH)
+        C --> | Data Platform Pipeline Main-Tables Incremental| E(Snowflake_DWH)
+
+F[CI Tables GitLab.com-DB-Live] -->|wal_files_mechanism| G(CI Tables GitLab.com-DB Replica)     
+    G --> |build_destroy_mechanism DB from GCP Snapshot | H[CI-Tables GitLab.com -- DB running on  port 5432]
+        H --> | Data Platform Pipeline Main-Tables SCD| E(Snowflake_DWH)
+        H --> | Data Platform Pipeline Main-Tables Incremental| E(Snowflake_DWH) 
 ```
 
- - `GitLab.com-DB clone` will be destroyed at 10:30PM UTC and rebuilt at 11:15PM UTC. This results in an available time window between 00:00AM UTC to 10:30PM UTC to query this database. If data is extracted from this replica outside the window, an error will occur, but it will not result in any data loss.
-- `Gitlab.com-DB Live Replica` is populated with data via WAL files continuously. 
+ - `GitLab.com-DB (Main and CI) created from GCP snapshots` will be destroyed and rebuilt at 7:00 PM UTC. As of now, refresh time is set at 7.00 PM UTC; the refresh process picks up the latest GCP snapshot of Gitlab.com read replica of 6.00 PM UTC (1 hour early). The build of the database takes about 1 hour and 30 mins. This results in an available time window between 8:30 PM UTC to 7:00 PM UTC the next day to query this database. Extracting data from this database outside the window will result in an error, but no data loss will occur. The recreation process is executed in this [project](https://gitlab.com/gitlab-com/gl-infra/data-server-rebuild-ansible/activity).  
+- `Gitlab.com-DB (Main and CI) Live Replica` is populated with data via WAL files continuously. 
 
-Currently, to ensure a stable data-feed, both the incremental and full loads utilise the `GitLab.com-DB clone` instance. During development and tests activities, we faced issues with loading out of the `Gitlab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
+Currently, to ensure a stable data-feed, both the incremental and full loads utilise the `GitLab.com-DB (Main and CI) created from GCP snapshots` instance. During development and tests activities, we faced issues with loading out of the `Gitlab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
 
-[Runbook](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/storage/fs/zfs/zlonk/README.md) entry of where to look for issue in the clone setup. 
+The Data Platform Team is notified when the build fails via email and in Slack channel `#data-pipelines`. There is [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_dotcom/Gitlab_DB_recreation_failure.md) entry of where to look for issue in the clone setup. 
+
 ### Monitoring/Alerting
 Zlonk implements [job completion](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/job_completion.md) monitoring. Alerts are funneled to the `#alerts` Slack channel with a S4 severity.
 Alert something like [this](https://gitlab.slack.com/archives/C12RCNXK5/p1626695850455100) would be present. 
