@@ -86,6 +86,13 @@ We want our interview process to be accessible to everyone. You can inform us of
 
 </details>
 
+### Interview guidance for specific functions
+
+Each of our functional teams may have slightly different interview processes based on the requirements for their team. The following pages outline interview processes for specific functions at GitLab:
+
+- (Customer Support Interviewing Guide)[https://about.gitlab.com/handbook/hiring/interviewing/customer-support-interviewing/]
+
+
 ## Typical Hiring Timeline
 
 These steps may vary role-to-role, so please review the hiring process on the job family page for the role you are interested in.
