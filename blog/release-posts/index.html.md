@@ -427,6 +427,10 @@ When writing your content blocks, be sure to reference [Writing release blog pos
 
 PM contributors are encouraged to use discretion if wanting to add new content blocks after the final merge deadline of the 17th, and especially after final content assembly happens at 8 AM PST (3 PM UTC). But if highly impactful features are released that can not wait till the next blog post, PMs should reach out and coordinate with the Release Post Manager. It is up to the discretion of the Release Post Manager to work with the PM to add more content blocks up until the 21st.
 
+#### Alpha, Beta, or Limited Availability
+
+If your feature release will not be generally available upon initial release, please review the [alpha, beta, limited, and general availability guidelines](https://about.gitlab.com/handbook/product/gitlab-the-product/#alpha-beta-ga).
+
 ### Primary vs. secondary
 
 When creating your content for a Release Post item you'll need to determine if it's a `primary` or `secondary` feature. Do this in collaboration with your PMM counterpart and reference this guidance if you're unsure:
