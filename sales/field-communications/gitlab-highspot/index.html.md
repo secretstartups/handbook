@@ -146,6 +146,20 @@ Pitching allows you to easily and flexibly share content with your customers and
 #### Why Pitch?
 Pitching through Highspot improves conversion rates and helps you more effectively engage buyers. It gives you the ability to customize, personalize, and send content from Highspot through virtually any channel and receive real-time, actionable notifications when prospects or customers interact with your content. These analytics help sales and marketing teams understand what works best to drive buyer engagement so they can better optimize their sales processes and sales content.
 
+#### How to Add a Custom Signature to Email Pitches
+Adding a custom email signature to your Highspot profile will give your email Pitches a consistent look and feel for recipients.
+
+* **To add your email signature, follow these steps:** 
+   * Log into the Highspot web App
+   * Click on your profile picture in the top right corner
+   * Click the Settings option from the drop down menu
+   * Under USER SETTINGS in the left hand menu, select Pitches
+   * Copy paste your Gmail signature into the box, or manually enter your name, job title, logo, or any information you typically include
+   * Check the box for "Set as default signature" 
+   * Click Save Changes
+
+Once these steps are complete, you will see your custom signature included under the Signature section of your Highspot email Pitches. 
+
 **Watch This:** Review the [Highspot Pitching Deep Dive Training](https://docs.google.com/document/d/1mu9itIGJPmT8onA19b36kzSTHEudUDAGQ5vSWt7ZRl0/edit#bookmark=id.oq1sf0leuadt) to learn more about ways to share Highspot content with customers, prospects and partners.
 
 ### Pitching Types & Use Cases
