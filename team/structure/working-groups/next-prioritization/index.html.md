@@ -47,7 +47,7 @@ This working group is charged with rolling forward from the emergency "Engineeri
 - [x] Development engineering managers are providing their maintenance priorities to PM
 - [x] Quality leads are providing their bug priorities to PM
 - [ ] The quad stable counterparts (PM, Development EM, Quality Engineering Manager, UX Design Manager) collaborate to determine which issues which will be planned for which milestone
-- [ ] Automation exists to streamline the process.
+- [ ] Automation exists to streamline the process. There is a framework for autoscheduling, initial iterations of S1/S2 scheduling are merged, and we've documented a process for expanding the automation to more groups and severities over time.
 - [ ] Handbook is updated to reflect the new process.
 - [ ] Execute on mulit-modal communication plan.
 - [ ] Feedback is gathered, considered, and incorporated as appropriate by the DRI for each respective area
