@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Marketing Strategy and Performance
+title: Marketing Strategy and Analytics
 description: >-
-  Marketing Strategy and Performance supports the entire Marketing team to
+  Marketing Strategy and Analytics supports the entire Marketing team to
   develop and execute a Global Marketing Strategy by working with Marketing
   Leadership and GTM teams as well as owning the overall measurement strategy
   for GitLab marketing. 
@@ -18,16 +18,17 @@ description: >-
 
 ## <i id="biz-tech-icons" class="far fa-newspaper"></i>Charter
 
-Marketing Strategy and Performance supports the entire Marketing team to develop and execute a Global Marketing Strategy working with Marketing Leadership and GTM teams, as well as owning the overall measurement strategy for GitLab marketing working with the data team.
+Marketing Strategy and Analytics supports the entire Marketing team to develop and execute a Global Marketing Strategy working with Marketing Leadership and GTM teams, as well as owning the overall measurement strategy for GitLab marketing working with the data team.
 
 We are a small team with a leader and data analysts.
 
 ## <i id="biz-tech-icons" class="fas fa-users"></i>Meet the Team
 
-- [Christine Lee, Interim Director](https://about.gitlab.com/company/team/#christinelee)
-- [Jerome Ahye, Manager, Data Performance](https://about.gitlab.com/company/team/#jahye1)
+- [Christine Lee, Senior Director, Marketing Strategy & Analytics](https://about.gitlab.com/company/team/#christinelee)
+- [Jerome Ahye, Manager, Data Analytics](https://about.gitlab.com/company/team/#jahye1)
 - [Robert Kohnke, Data Analyst](https://about.gitlab.com/company/team/#rkohnke)
 - [David Egan, Senior Data Analyst](https://about.gitlab.com/company/team/#dwegan)
+- [Djordje Micovic, Senior Data Analyst](https://about.gitlab.com/company/team/#dmicovic)
 
 ## <i id="biz-tech-icons" class="fas fa-users"></i>Teams We Work Closely With
 
@@ -67,8 +68,8 @@ We use milestones to create 2 week sprints. Below are links to our project withi
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/boards/2084660" class="btn btn-purple" style="margin:5px;">Marketing Strategy and Performance local issue board</a>
-    <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance" class="btn btn-purple" style="margin:5px;">Marketing Strategy and Performance project</a>
+    <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/boards/2084660" class="btn btn-purple" style="margin:5px;">Marketing Strategy and Analytics local issue board</a>
+    <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance" class="btn btn-purple" style="margin:5px;">Marketing Strategy and Analytics project</a>
   </div>
 </div>
 
@@ -151,7 +152,7 @@ The Marketing Strategy team has continued our experiment with MOps on 2020-04-20
 
 ### Operational Timeline of Changes
 
-Periodically Marketing Strategy and Performance becomes aware of significant changes that affect overall data and reporting. To capture these, we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA) with the MktgOps team. They primarily add any process changes to this document as they occur. It has been a great communication tool, especially as we look back at metrics in the past and can track the changes that were made.
+Periodically Marketing Strategy and Analytics becomes aware of significant changes that affect overall data and reporting. To capture these, we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA) with the MktgOps team. They primarily add any process changes to this document as they occur. It has been a great communication tool, especially as we look back at metrics in the past and can track the changes that were made.
 
 ## <i id="biz-tech-icons" class="far fa-folder-open"></i>Important Resources
 
@@ -159,7 +160,7 @@ Periodically Marketing Strategy and Performance becomes aware of significant cha
 
 ## <i id="biz-tech-icons" class="fas fa-toolbox"></i>Tech Stack
 
-For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company. Below are tools that are currently owned and managed by Marketing Strategy and Performance.
+For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company. Below are tools that are currently owned and managed by Marketing Strategy and Analytics.
 
 <details>
 <summary markdown='span'>
