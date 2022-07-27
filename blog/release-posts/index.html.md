@@ -1270,29 +1270,26 @@ This section should contain any relevant updates for packaged software, new feat
 
 _To be added by Product Managers and merged by Engineering Managers._
 
-If you need an extra block to convey important info, and it doesn't fit the other blog post sections, you can use an `extras` content block:
+If you need to convey important information that doesn't match the other content types, you can use an `extras` content block. An example is provided in the [`/data/release_posts/unreleased/samples/extras.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/extras.yml) file.
 
 ```yaml
+---
 extras:
-  header: "GitLab SaaS Performance Improvements"
-  blocks:
-  - title: "Example performance improvement"
+  - title: "Example title"
     description: | # supports markdown
-      Accelerate modern DevOps. Producat velocitatem quacum fiducia, sine securitate sacrificium, et visibilis DevOps in victoria!
+      Description
 ```
 
 Multiple blocks:
 
 ```yaml
 extras:
-  header: "GitLab SaaS Performance Improvements"
-  blocks:
-  - title: "Example performance improvement"
+  - title: "Example title one"
     description: | # supports markdown
-      Accelerate modern DevOps. Producat velocitatem quacum fiducia, sine securitate sacrificium, et visibilis DevOps in victoria!
-  - title: "Another performance improvement"
+      Description one
+  - title: "Example title two"
     description: | # supports markdown
-      Uno fonte veritatis!
+      Description two
 ```
 
 ### Deprecations, removals, and breaking changes
