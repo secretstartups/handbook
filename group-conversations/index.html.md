@@ -318,7 +318,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday July 28 | Digital Experience | Michael Preuss | N/A |
 | Tuesday Aug 2 | EBA AMA | EBA's | N/A |
 | Wednesday Aug 3 | **Available** | | Key Review Date? |
-| Thursday Aug 4 | Development | Christopher Lefelhocz | N/A |
+| Thursday Aug 4 | Development | Christopher Lefelhocz | July 27 |
 | Tuesday August 9 | People | People | July 27 |
 | Wednesday August 10 | Pet Friendly AMA | Robin Schulman | N/A|
 | Thursday August 11 | Infrastructure | Steve Loyd | August 3|
@@ -334,32 +334,32 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday September 6 | Marketing | Marketing Leadership | August 25 |
 | Wednesday September 7 | **Available** | | Key Review Date? |
 | Thursday September 8 | Product | Product Leadership | September 1 |
-| Tuesday September 13 | **Available** | | Key Review Date? |
+| Tuesday September 13 | Security | Johnathan Hunt | August 30 |
 | Wednesday September 14 | **Available** | | Key Review Date? |
 | Thursday September 15 | Support | Tom Cooney |  |
 | Tuesday September 20 | CosT  | Stella Treas | N/A |
 | Wednesday September 21 | General (CEO) | Sid Sijbrandij | N/A |
 | Thursday September 22 | Infrastructure | Steve Loyd | September 14 |
 | Tuesday September 27 | CRO | Mike Pyle | N/A|
-| Wednesday September 28 | **Available** | | Key Review Date? |
+| Wednesday September 28 | Support | Tom Cooney| September 14 |
 | Thursday September 29 | **Available** | | Key Review Date? |
-| Tuesday October 4 | Available | | Key Review Date? |
-| Wednesday October 5 | Available | | Key Review Date? |
-| Thursday October 6 | Available | | Key Review Date? |
+| Tuesday October 4 | **Available** | | Key Review Date? |
+| Wednesday October 5 | Quality | Mek Stittri | September 22 |
+| Thursday October 6 | Development | Christopher Lefelhocz | September 28 |
 | Tuesday October 11 | Available | | Key Review Date? |
 | Wednesday October 12 | Available | | Key Review Date? |
 | Thursday October 13 | Available | | Key Review Date? |
 | Tuesday October 18 | Available | | Key Review Date? |
-| Wednesday October 19  | Available | | Key Review Date? |
+| Wednesday October 19  | UX | Christie Lenneville | N/A |
 | Thursday Oct 20 | People | People Leadership | Oct 12 |
 | Tuesday October 25 | Available | | Key Review Date? |
 | Wednesday October 26  | Available | | Key Review Date? |
 | Thursday October 27 | Marketing | Marketing Leadership | October 13 |
 | Tuesday November 1 | Available | | Key Review Date? |
 | Wednesday November 2 | Available | | Key Review Date? |
-| Thursday November 3 | Available | | Key Review Date? |
-| Tuesday November 8 | Available | | Key Review Date? |
-| Wednesday November 9 | Available | | Key Review Date? |
+| Thursday November 3 | Security | Johnathan Hunt | October 25 |
+| Tuesday November 8 | Infrastructure | Steve Loyd | October 27 |
+| Wednesday November 9 | Support | Tom Cooney | October 26 |
 | Thursday November 10 | Available | | Key Review Date? |
 | Tuesday November 15 | Available | | Key Review Date? |
 | Wednesday November 16  | Available | | Key Review Date? |
