@@ -20,16 +20,23 @@ The data warehouse contains source data from different source systems, via diffe
 There are **dedicated** gitlab.com _read_ replica database instances used for data pulls into Snowflake. There are 2 replicas available, with each having their own replication frequency and behavior.  
 
 ```mermaid
-graph LR;
-A[Main Tables GitLab.com-DB-Live] -->|wal_files_mechanism| B(Main Tables GitLab.com-DB Replica) 
+graph TD;
+subgraph Main Database
+    A[Main Tables GitLab.com-DB-Live] -->|wal_files_mechanism| B(Main Tables GitLab.com-DB Replica) 
     B --> |build_destroy_mechanism DB from GCP Snapshot | C[Main-Tables GitLab.com -- DB running on  port 5432]
-        C --> | Data Platform Pipeline Main-Tables SCD| E(Snowflake_DWH)
-        C --> | Data Platform Pipeline Main-Tables Incremental| E(Snowflake_DWH)
+  
+end
 
+subgraph CI Database
 F[CI Tables GitLab.com-DB-Live] -->|wal_files_mechanism| G(CI Tables GitLab.com-DB Replica)     
     G --> |build_destroy_mechanism DB from GCP Snapshot | H[CI-Tables GitLab.com -- DB running on  port 5432]
-        H --> | Data Platform Pipeline Main-Tables SCD| E(Snowflake_DWH)
-        H --> | Data Platform Pipeline Main-Tables Incremental| E(Snowflake_DWH) 
+
+end
+
+C --> | Data Platform Pipeline Main-Tables SCD| E(Snowflake_DWH)
+C --> | Data Platform Pipeline Main-Tables Incremental| E(Snowflake_DWH)
+H --> | Data Platform Pipeline CI-Tables SCD| E(Snowflake_DWH)
+H --> | Data Platform Pipeline CI-Tables Incremental| E(Snowflake_DWH)  
 ```
 
  - `GitLab.com-DB (Main and CI) created from GCP snapshots` will be destroyed and rebuilt at 7:00 PM UTC. As of now, refresh time is set at 7.00 PM UTC; the refresh process picks up the latest GCP snapshot of Gitlab.com read replica of 6.00 PM UTC (1 hour early). The build of the database takes about 1 hour and 30 mins. This results in an available time window between 8:30 PM UTC to 7:00 PM UTC the next day to query this database. Extracting data from this database outside the window will result in an error, but no data loss will occur. The recreation process is executed in this [project](https://gitlab.com/gitlab-com/gl-infra/data-server-rebuild-ansible/activity).  
