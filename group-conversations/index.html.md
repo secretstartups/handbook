@@ -319,7 +319,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday July 20 | Finance | | 2022-07-20 |
 | Thursday July 21 | General (CEO)| Sid Sijbrandij | Key Review Date|
 | Tuesday July 26 | **Available** |  | |
-| Wednesday July 27 | Product | Product Leadership | Key Review Date|
+| Wednesday July 27 | Product | Product Leadership | July 21|
 | Thursday July 28 | Digital Experience | Michael Preuss | N/A |
 | Tuesday Aug 2 | EBA AMA | EBA's | N/A |
 | Wednesday Aug 3 | Marketing |  Marketing Leadership | N/A |
@@ -331,7 +331,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday August 17 | Security | Johnathan Hunt | N/A |
 | Thursday August 18 | UX | Christie Lenneville | N/A |
 | Tuesday August 23 | Quality | Mek Stittri | August 3 |
-| Wednesday August 24 | **Available** | | Key Review Date? |
+| Wednesday August 24 | Product | Product Leadership | N/A |
 | Thursday August 25 | People | People Leadership | August 18th |
 | Tuesday August 30 | Portfolio Marketing| Tye Davis | N/A |
 | Wednesday August 31 | Finance | Brian Robbins | August 23 |
