@@ -533,8 +533,6 @@ To add a new feature, add a feature block to under the `features:` section of th
 - **description**: a plaintext summary of the value the feature provides in quotes
 - **link_description**: OPTIONAL, anchor text of a link that will appear below the descriptions e.g. `link: https://docs.gitlab.com/ee/user/project/milestones/`
 - **link**: OPTIONAL, the URL of the link (no quotes)
-- **screenshot_url**: OPTIONAL, `screenshot_url: 28-group-milestones.png`
-Just put the filename of the screenshot. Feature screenshots must go in the following directory: 'images/feature_page/screenshots/'.
 - **category**: a list of one or more categories that this features belongs to. Adding a category to a feature causes it to show up in the features section on the product page for that category (e.g. see the [Continuous Integration page](/stages-devops-lifecycle/continuous-integration/))
 - **solution**: REQUIRED legacy field. A [stage of the DevOps lifecycle](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml). Will be [removed soon](https://gitlab.com/gitlab-com/www-gitlab-com/issues/2435).
 - **tier**: `true` or `false` is this feature or capability available in this tier? `gitlab_core`, `gitlab_starter`, `gitlab_premium`, `gitlab_ultimate`. Note - it's assumed that any feature in a lower tier is also available in the higher tiers. For example a feature listed as in Core is also considered present in Starter, Premium and Ultimate. 
@@ -555,7 +553,6 @@ For example:
   description: "Create and manage milestones across projects, to work towards a target date from the group level. View all the issues for the milestone you’re currently working on across multiple projects."
   link_description: "Learn more about Group Milestones"
   link: https://docs.gitlab.com/ee/user/project/milestones/
-  screenshot_url: 'images/feature_page/screenshots/28-group-milestones.png'
   solution: plan
   category:
       - portfolio_management
@@ -582,7 +579,6 @@ Copy and paste this template:
   description: ""
   link_description: ""
   link:
-  screenshot_url: ''
   solution:
   category:
     -
