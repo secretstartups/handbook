@@ -12,6 +12,15 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 - TOC
 {:toc}
 
+## Purpose
+
+This working group is charged with rolling forward from the emergency "Engineering Allocation" prioritization methodology to a new process. The working group should name, design, kickoff, implement, solicit feedback, and iteratively improve the new process before disbanding. The new process should accomplish three major things:
+
+1. **Achieve an optimal balance** of new features, security fixes, availability work, performance improvements, bug fixes, etc. via a framework that helps drive conversations and alignment. Balance across these categories will allow GitLab to operate in a way that will allow us to meet revenue goals and maintain the stability of our platform. 
+1. It should **give voice to everyone** in the quad (PM, Development, Quality, and UX)
+1. It should **provide transparency into prioritization** and work status to internal and external stakeholders so they can advocate for their work items
+
+
 ## Attributes
 
 | Property        | Value      |
@@ -27,15 +36,21 @@ canonical_path: "/company/team/structure/working-groups/next-prioritization/"
 
 ### Exit criteria
 
-- All groups have dashboards that they use to analyze merged MR ratio of features, maintenance, bugs and undefined.
-- All groups are reviewing the dashboards and discussing it periodically (monthly).
-- Development engineering managers are providing their maintenance priorities to PM
-- Quality leads are providing their bug priorities to PM
-- PM is consulting with the quad (development EM, quality lead, UX lead) to determine which issues which will be planned for which milestone
-- VP Eng, VP Prod, VP UX, VP Quality, and CTO review the dashboards at the company level (quarterly).
-- Automation exists to streamline the process.
-- Handbook is updated to reflect the new process.
-- Execute on mulit-modal communication plan.
+- [x] Name the new process (DONE "cross-functional prioritization)
+- [ ] All groups have dashboards that they can use to analyze merged MR ratio of features, maintenance, bugs and undefined.
+- [ ] Subtypes label are defined and implemented
+- [ ] Type:Undefined Issues are driven down to near zero
+- [ ] Subtype:Undefined Issues are driven down to near zero
+- [ ] Type:Undefined MRs are driven down to near zero
+- [ ] Subtype:Undefined MRs are driven down to near zero
+- [x] All groups are reviewing the dashboards and discussing it periodically (monthly) in a way where stakeholders can influence decisions.
+- [x] Development engineering managers are providing their maintenance priorities to PM
+- [x] Quality leads are providing their bug priorities to PM
+- [ ] The quad stable counterparts (PM, Development EM, Quality Engineering Manager, UX Design Manager) collaborate to determine which issues which will be planned for which milestone
+- [ ] Automation exists to streamline the process. There is a framework for autoscheduling, initial iterations of S1/S2 scheduling are merged, and we've documented a process for expanding the automation to more groups and severities over time.
+- [ ] Handbook is updated to reflect the new process.
+- [ ] Execute on mulit-modal communication plan.
+- [ ] Feedback is gathered, considered, and incorporated as appropriate by the DRI for each respective area
 
 ### Implementation plan
 
