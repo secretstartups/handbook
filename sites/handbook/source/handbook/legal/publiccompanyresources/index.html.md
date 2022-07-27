@@ -24,3 +24,6 @@ Please note that all links are GitLab-internal only.
 - [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
 - [Corporate Governance Guidlines](https://ir.gitlab.com/static-files/f108c2c0-2426-4bf5-b1db-054498136c0b) - guidelines to assist the Board of Directors in the exercise of its governance reponsibilities and serve as framework within which the Board of Directors may conduct its business
 - [Merger and Acquisitions Committee Charter](https://drive.google.com/file/d/1_GG0JJ2NUq50djVx-yxwnrRJUhIYhs3D/view?usp=sharing) - Gitlab's Mergers and Acquisitions Committee Charter
+
+## Corporate Resources
+- [Template: Year & Quarter End and Annual Meeting Calendar](https://docs.google.com/document/d/1ryr318J_MzzkWwSLSoiAp5jfD1mzfj3P/edit) _Note: This resource is shared with specific Team Members who participate in Quarter & Annual Filings_
