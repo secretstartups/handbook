@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Logging Working Group"
-description: "The GitLab Logging Working Group have multiple business purposes, to you can view these on this page. Learn more!"
+description: "The GitLab Logging Working Group will have multiple business purposes that you can read about on this page. Learn more!"
 canonical_path: "/company/team/structure/working-groups/logging/"
 ---
 
@@ -15,138 +15,147 @@ canonical_path: "/company/team/structure/working-groups/logging/"
 
 | Property     | Value |
 |--------------|-------|
-| Date Created | September 9, 2019 |
-| Date Ended   | February 1, 2020 |
-| Slack        | [#wg_log-aggregation](https://gitlab.slack.com/messages/CGR0T1C6P) (only accessible from within the company) |
-| Google Doc   | [Logging Working Group](https://docs.google.com/document/d/1Trzy-mbxsoq8UP6WtAnLCfYEXim1KdiBB0DftCaDOfY/edit?usp=sharing) (only accessible from within the company) |
-| Issue Label | WG-Logging (gitlab-com/-org) |
+| Date Created | 2022-06-15 |
+| Date Ended   | 2022-10-01 |
+| Slack        | [wg-glsecurity-logging](https://gitlab.slack.com/archives/C03JXV6KMFA) |
+| Google Doc   | [Logging Working Group](https://docs.google.com/document/d/1vOQCWtF75J8zEiU5BV9HXggE72F8cP8KTYbMTj2tatM/edit#heading=h.6upuyp25d0wm) |
+| Issue Label  | WG_Logging |
 
 ## Business Goal
 
-1. Monitor and Security teams will be responsible for triaging all logging issues
-1. Determine the long-term owner of the ultimate logging product and/or process
-1. Monitor and Security teams will be responsible for defining logging standards
-1. Clearly define how logging works at GitLab in the runbooks
+1. Increase [efficiency](https://about.gitlab.com/handbook/values/#efficiency) by having a highly available simplified logging structure used by GitLab security to monitor, manage, detect, alert, respond, and audit events.
+2. Increase [collaboration](https://about.gitlab.com/handbook/values/#collaboration) by having a simplified logging system for GitLab security to share and collaborate on events.
+3. Increase [results](https://about.gitlab.com/handbook/values/#results) by having relevant and actionable data for GitLab Security to make more accurate and informed decisions to threats to GitLab 
 
 
 
 ## Exit Criteria
 
-1. Triaging logging issues using the TriageBot
-  * Security team will triage security and compliance issues to either the security team or a dev team
-  * For dev teams, the Monitor will triage issues and assign to appropriate dev team.
-  * Triagebot is modified by the security team to send slack notifications if higher priority logging issues aren't resolved in a specified timeframe.
-1. Monitor: APM group  takes ownership of the overall logging products/process
-  * Infrastructure will continue to own the system architecture and systems.
-  * Monitor will slowly build out a comprehensive logging product to meet security and dev needs.
-1. Logging Standards
-  * Monitor will own logging standards for dev teams
-  * Security will own logging standards for compliance purposes
-  * Monitor and Security team will both release logging standards
-1. Transfer all current state of logging to the logging (runbook)[https://gitlab.com/gitlab-com/runbooks/tree/master/logging/doc]
-  * Include all known details of the current system (DELKE remains 3rd-party-only for now)
-  * Describes what logs are logged where
-  * Describes current and proposed log standards
-  * Details how to hook up new analyzers
-  * Details about how TriageBot works
-  * Details about who owns what parts of the triaging process
+1. Identify existing infrastructure, known gaps, and current security logging efforts as of August 2022.
+2. Define a process for tracking existing, new, and retired security logging infrastructure.
+3. Define logging profiles that include data requirements, storage, retention, and compliance / legal requirements.
+4. Identify next steps, shared OKRs, other initiatives beyond the scope of the working group to carry the work forward.
 
 ## Outcome
-
-Security Automation is leading the logging effort at this time.
-
-The DELKE project ticks a lot of the boxes that we wanted out of a logging system. To that end we are moving forward to make DELKE more DevOps ready and productizable.
-
-We will move forward on Logging standards.
 
 ## Other Investigations
 
 ### What do other companies do?
-
-* Jobs and files in ParK in AWS (wife just started there)
-* Look into Presto (Facebook Distributed SQL)
-* HotWarm ElasticSearch
-
-
-
-### LabKit
-
-LabKit is an application logging library Andrew Newdigate invented to help structure and standardize logging (similar to Graphite pings) throughout the Ruby and Go code bases
-
-
 ### Where do logs go today?
 
-* Unstructured logs (redis, etc) sent to GCS and Stackdriver
-* Structured sent to ELK
-* Large structured logs sent to BigQuery (via Stackdriver)
-
-![Current logging system architecture](/images/working-groups/logging/logging-at-gitlab.jpg)
-[Original Diagram](https://docs.google.com/drawings/d/1Kjyd4KW1nyuvYzdlu-LrbsT5mhQSkJ4584IGUQvHsV0/edit?usp=sharing)
+* A non exaustive list of the different logs sources going to Panther can be found [here](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/infrastructure/-/blob/master/docs/Log%20Sources%20in%20Panther.md).
+* Unstructured logs (redis, etc) stored in [GCS](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging#gcs)
+* Logs are forwarded from GCP to a central AWS S3 bucket (via fluentd)
+* Panther consumes logs from the central AWS S3 bucket
+* Structured logs related to `gitlab.com` are sent to [Infrastructure's ELK](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging#es)
+* BigQuery is used for archived logs
+* SaaS vendor's logs depend on Panther's integrations (Tenable for example) or custom built integrations (Tenable for example)
 
 ### Noted issues
-* Missing logs (for systems/services)
+* **Data collection issues:** 
+- missing OOB collection method:  _List sources here. (a first list can be found by looking at diff between wishlist: https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/sirt-meta/-/issues/3#note_961806821 and actual collection in panther today: https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/infrastructure/-/blob/master/docs/Log%20Sources%20in%20Panther.md )_
+- unreliable collection method: (scale/performance/stability issue). List sources here.
+
+**Data Quality issues:**<br>
+- Incomplete logs 
+- Substandard logs
+- Inconsistent formats
+
+**Data parsing issues:**<br>
+- missing OOB Schema for sources (list sources)
+- missing OOB Mapping to security DataModel 
+
+**Infrastructure Issues:**<br>
+- Scalability
+- Efficiency/cost (data distribution/using all nodes at 100%)
+- Performance
 * Incomplete logs
 * Substandard logs
 * Inconsistent formats
+* No documented logging standard
+* Infrastructure scalability
 
 ## Related Issues
 
-* [Kickstart the GitLab.com Working Group](https://docs.google.com/document/d/1PRJtvAPHOMF1d152vGMpPWxRZNu12vCxvlnVgZud47c/edit#heading=h.mm4gsg9so2kc)
-* [Add Three More 3rd Party Service Audit Ingestions](https://gitlab.com/gitlab-com/gl-security/security-department-meta/issues/607)
-* [Release GitLab Runner Metrics Collection to Production](https://gitlab.com/gitlab-com/gl-security/security-department-meta/issues/604)
-* [Augment GitLab Runner Metrics Collection w/Suricata Metrics](https://gitlab.com/gitlab-com/gl-security/security-department-meta/issues/605)
-* [Rails production logs cannot be fully loaded into BigQuery without pre-processing](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/7564)
+* [Pain Points of using Panther](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/sirt-meta/-/issues/3)
+* [Security Logging Enhancement](https://gitlab.com/groups/gitlab-com/gl-security/engineering-and-research/-/epics/1)
 
 
 ## Roles and Responsibilities
 
 | Working Group Role  | Person           | Title                                  |
 |---------------------|------------------|----------------------------------------|
-| Facilitator         | Alex Groleau     | Security Software Engineer, Automation |
-| Exec Sponsor        | Jan Urbanc       | Interim Director of Security           |
-| Member              | Stan Hu          | Engineering Fellow                     |
-| Infrastructure Lead | Andrew Newdigate | Staff Engineer, Infrastructure         |
-| Member              | Ethan Urie       | Senior Backend Engineer, Security      |
-| Member              | Antony Saba      | Senior Threat Intelligence Engineer    |
-| Member              | Tomasz Mazukin   | Backend Engineer, Verify               |
-| Member              | Jayson Salazar   | Security Engineer, Security Operations |
-| Member              | Paul Harrison    | Security Manager, Security Operations  |
-| Member              | Nik Sarosy       | Senior Security Analyst, Compliance    |
+| Facilitator         | Joe Dubail     | Manager, Infrastructure Security         |
+| Co-Facilitator     | Harjeet Sharma | Security Engineer, SIRT |
+| Exec Sponsor        | Laurence Bierner | Director, Security Engineering           |
+| Member              | Jeff Martin      | Senior IT Systems Engineer |
+| Member              | Steve Manzuik | Senior Manager, Threat Management |
+| Member              |Byron Boots |Senior Security Compliance Engineer  |
+| Member              | Kyle Smith | Senior Security Assurance Engineer |
+| Member              | Paulo Martins| Infrastructure Security Engineer |
+| Member              | Jayson Salazar| Staff Security Engineer, Security Automation |
+| Member              | Dan Croft | Senior Engineering Manager, Ops |
+| Member              |  |  |
 
 
 ## Requirements and Considerations
 
 ### Actors
 
-* Developers/Support
-* Security/Compliance/BI
+* Security Operations
+* Infrastructure Security
+* Security Engineering
+* IT Engineering
 * Infrastructure
+* Development
+* Product
+* Legal
+* Quality
+* 
 
 ### General
-* As a GitLab employee, I know there is a single team I can talk to about all things logging at GitLab.
-* As a GitLab employee, I can find who is on the logging team by visiting a single handbook page.
-* As a GitLab employee, I can contact the logging team via dedicated slack channel.
-* As a GitLab employee, I can label GitLab issues for the logging team.
+* As a GitLab team member, I know there is a single team I can talk to about all things being logged at GitLab.
+* As a GitLab team member, I can find who is on the logging team by visiting a single handbook page.
+* As a GitLab team member, I can contact the logging team via dedicated slack channel.
+* As a GitLab team member, I can label GitLab issues for the logging team.
 * As a logging team member, I only have one set of logging services/infrastructure to manage and maintain.
-* As a paying, self-managed customer, I can easily set up a logging infrastructure for GitLab to log to.
 
-#### Developers/Support
-* As a developer or support, I can easily find, search, view, and analyze logs up to 6 months old
-* As a developer or support, I can easily add a new logger without coordinating with any other team
-* As a developer or support, I can easily find one page in the handbook that details what services we log to for each type of data, and what the URLs are for their dashboards.
-* As a developer or support, I can easily find one page in the handbook that clearly specifies how to write log messages.
-* As a developer or support, I can easily add a log message with all of the required data.
-* As a developer or support, I can be confident that no private data is accidentally logged.
-* As a developer or support, I use the same logging library per language as every other developer at GitLab.
+#### Security Assurance
+* As a Security Assurance team member, I can easily find, search, view, and analyze logs up to 12 months old
 
-#### Infrastructure
-* As an infrastructure engineer, I can set up multiple sinks for different logs
-* As an infrastructure engineer, I can easily find, search, view, and analyze logs up to 1 week old
-* As an infrastructure engineer, I can easily specify the retention period for each data store and/or data type (i.e., security related)
+#### SIRT Engineer
+* As a SIRT Engineer, I can easily find, search, view and analyze logs for up to 1 year
+* As a SIRT Engineer, I can retrieve archived log sources that are over 1 year old and be able to easily search, view and analyze those logs
+* As a SIRT Engineer, I can easily create rules, alerts and dashboards for Incident Response.
+* As a SIRT Engineer, I can find in the handbook information about log sources inluding:
+    * The DRI's responsible for each log source
+    * The format of each log source
+    * The fields recorded in each log source
+* As a SIRT Engineer, I am able to easily integrate logging data into other SIRT tools for fast, accurate and reliable Incident Response 
 
-#### Security/Compliance/BI
-* As a security researcher/security engineer/compliance staff, I can easily find, search, view, and analyze logs up to 12 months old
-* As a security researcher, I can easily correlate logs between sources and between GitLab subsystems.
-* As a security researcher, et al., I can easily use logs to train ML models with historic data.
-* As a security researcher, et al., I can easily use our logs to detect potential security issues before they become problems.
-* As a security researcher, et al., I can easily analyze the logs for sensitive or private data.
+
+#### Infrastructure Security
+* Collection
+  * As an Infrastructure Security Engineer, I need it to be easy for anyone to setup and ship audit logs from their infrastructure or third party tools to a centralized location
+  * As an Infrastructure Security Engineer, I need to be able to easily export findings from IDS tools
+* Delivery
+  * As an Infrastructure Security Engineer, I need our logs to be scalable, consistent and reliable (no broken timestamps, no loss of data)
+* Retention
+  * As an Infrastructure Security Engineer, I need our logs to comply with [Retention & Disposal Requirements](https://about.gitlab.com/handbook/engineering/security/records-retention-deletion.html#retention--disposal-requirements-procedure), compliance with internal policies, standards, and regulatory requirements
+* Monitoring and Alerting
+  * As an Infrastructure Security Engineer, I need to be able to easily analyze logs and threat findings for one or more infrastructure resources
+  * As an Infrastructure Security Engineer, I need to be able to create alerts on rules and anomalies from my logs
+* Change Management
+  * As an Infrastructure Security Engineer, I need all the infrastructure and configuration to be managed as code (terraform, python, bash), and change management following the Merge-Request-Review process
+*  
+
+### IT Engineering and Infrastructure
+* As an IT Engineer, I can easily add a tech stack application or vendor SaaS service to the logging service and start shipping logs to, as easily as we do for bug reporting with Sentry today.
+* As an IT Engineer, I can configure basic downtime or high activity threshhold alerts that send to different notification services (email, Slack, GitLab issue, etc.)
+* (Optional) As an IT Engineer, I can see end-to-end system logs to investigate all affected or related systems during an incident by simply changing the data source from a drop down menu, while retaining or easily re-creating the same search criteria (actor, IP, date range, etc). 
+* As an IT Engineer, I can create a hierarchical organization of services that are logged to support related technologies that allows us to create alerts and dashboards for a group of interconnected services.
+* As an IT Engineer, I want to support for multiple instances of the same product/service without having to re-create each instance and all policies by hand.
+* As an IT Engineer, I am concerned about integration of new technologies and reliance on vendors to add support for integrations several months or years later, or requiring Professional Services. I would prefer to an open API ecosystem approach that encourages our products/service providers to build integrations with our logging and monitoring provider.
+* As an IT Engineer, I want to be able to use API calls, configuration management, and/or IaC (Terraform/Ansible) to standardize configurations and provisioning.
+* As an IT Engineer, I do not want to have to create a dashboard or alert for every request that a team member has. The platform should be easy to use from a building query and report perspective, comparable to building a pivot table in Excel or a report in Tableau/SiSense with easy-to-identify fields. Complex SQL query language is useful behind the scenes, but discourages adoption of proactive alerting and is only useful for specific queries during incident triage.
+* As an IT Engineer, I want to see this program evolve into a organization-wide NOC dashboard for our broader Tech Stack applications and services that each team supports.
