@@ -51,7 +51,7 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 |  **Quarter** | **Alex** | **Max** | **Sara** |
 | :--------------- | :----------------- | :----------------- | :----------------- |
 | FY23-Q2 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/101) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/106) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/108) |
-| FY23-Q3 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/150) | Issue | Issue |
+| FY23-Q3 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/150) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/152) | Issue |
 
 
 
