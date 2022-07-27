@@ -76,6 +76,24 @@ Each deployment will trigger a notification in the Slack channel [#announcements
 As part of the deployments, a QA issue is created in [release/tasks] issue tracker to inform the people who are
 involved in the process that their change is going through environments
 
+### Post-deploy migration execution
+
+To make GitLab.com packages rollbackable, the [post-deploy migrations] are independent from the GitLab.com deployment process. These migrations
+are run in staging and production environments through the post-deploy migration (PDM) pipeline that is triggered on a daily basis at the discretion of
+the release managers.
+
+![Post deploy migration pipeline](post-deploy-migration-pipeline.png)
+
+* [Source](https://docs.google.com/presentation/d/1YRjA1dYCXNXp06VltDYlik1MdFyzUvaeXKk69mMPcA4/edit?usp=sharing)
+
+When a release manager executes the PDM:
+
+1. Post-deploy migration scripts run on staging
+2. QA tests execute against staging
+3. Following a successful QA verification, post-deploy migration scripts run on production.
+
+Details of this pipeline can be found in the [post-deploy migration pipeline documentation].
+
 ## Self-managed releases
 
 ### Self-managed releases overview 
@@ -410,3 +428,5 @@ If you need any additional help please ask the Release Managers in the [#release
 [pre.gitlab.com]: /handbook/engineering/infrastructure/environments/#pre
 [release.gitlab.net]: /handbook/engineering/infrastructure/environments/#release
 [How to fix a broken stable branch]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/how-to-fix-broken-stable-branch.md
+[post-deploy migrations]: https://docs.gitlab.com/ee/development/database/post_deployment_migrations.html
+[post-deploy migration pipeline documentation]: https://gitlab.com/gitlab-org/release/docs/-/tree/master/general/post_deploy_migration
