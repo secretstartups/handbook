@@ -19,7 +19,7 @@ Solution Architects are instrumental in guiding prospects and customers to carry
 
 Any GitLab product evaluation should remain separate from GitLab high availability architecture and implementations.
 
-Often, a POV is conducted with a GitLab trial license either using GitLab.com or a self-managed instance. Due to cost, time, and the associated opportunity risk, a POV should not be the default course of action for GitLab prospects/customers.
+A POV is conducted with a GitLab trial license either using GitLab.com or a self-managed instance. Due to cost, time, and the associated opportunity risk, a POV should not be the default course of action for GitLab prospects/customers.
 
 ### POV Guidelines and Requirements
 
@@ -65,7 +65,7 @@ SA working with SAL and AE can define the POV scope with the customer, with alig
 - [DevSecOps](/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
 - [Software Compliance](/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
 - [Automated Software Delivery](/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
-- [DevOps Platform cumulatively](/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
+- and cumulatively, The DevOps [Platform](/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
 
 ### Tracking a POV in Salesforce
 
