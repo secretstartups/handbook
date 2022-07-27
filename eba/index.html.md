@@ -314,9 +314,19 @@ Sample Questions:
 * [Luca and Lorenzo Cooking Event](https://www.airbnb.com/experiences/1526657)
 
 
-### In-person events 
-* To be added 
+### In-person team events and activities (by location)
+* Scottsdale, AZ
+  * [Escape the Room](https://www.google.com/url?q=https://escapetheroom.com/phoenix/?utm_source%3DGMBlisting%26utm_medium%3Dorganic&sa=D&source=calendar&ust=1659284723638928&usg=AOvVaw16YFkD7VjhRbQ7jWRFszmZ)
+  * [Octane Racing - Velocity VR Experience](https://zerolatencyvr.com/experience/)
 
+* Denver, CO
+  *[Cook Street School of Culinary Arts- Culinary Competition](https://cookstreet.com/private-events/)
+  *[Cooking class with Chef Sarah!](https://denvercookingclasses.com/menus/)
+    * Cuisine options: Thai, Spanish and Italian
+    * Cook a 4 course meal with Chef Sarah Daulton, who shares wine pairing suggestions, in advance of the event 
+  *[RiNo District - Brewery Tours](https://rinoartdistrict.org/guide/places-to-eat-drink/brewery)
+    * Check availability with specific venues listed in the link above
+* [Infinite Monkey Theorem](https://theinfinitemonkeytheorem.com/) - an Urban Winery - 3200 Larimer St, Denver CO 80205
 
 ## Gift Ideas & Vendors
 
