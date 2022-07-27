@@ -49,45 +49,53 @@ For Sales teams, we use this escalation path:
 - [Duplicate records in `Instance Data` table](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/255)
 - [Snowflake > Gainsight connector - known data issues](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/98)
 
-## Gainsight user provisioning
+## Gainsight User Provisioning
 
-You can provision users in both Salesforce and Gainsight.
+Users must first be set up in Salesforce in order to sync to Gainsight. Certain provisioning and licensing also must be done in Salesforce before the user can be set up in Gainsight correctly.
 
-**Note**: Users should access Gainsight through Salesforce.
+**Access Request and Offboarding Issues**
+
+For users that need to gain access to Gainsight, an Access Request (AR) must be created. These are created automatically for new employees. Similarly, when users leave GitLab an Offboarding issue will be created. The following links show any ARs or Offboarding issues that need to be actioned by the CS Ops team:
+
+- [Access Requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=CSOpsAR%3A%3AAction%20Needed&first_page_size=20): When a user joins GitLab, the the `CSOps::Action Needed` label should automatically be added to their AR (there may be situations where this will need to be added manually). If an AR has this tag it will appear on the list. Once the needed actions have been taken, change the label to `CSOpsAR::Completed`.
+- [Offboarding Issues](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=offboarding&not%5Blabel_name%5D%5B%5D=CSOps%3A%3AOffboarding%20Completed&first_page_size=20): Any issues that DO NOT have the `CSOps::Offboarding Complete` label will appear on this list. Once the needed actions have been taken, change the label to `CSOps::Offboarding Complete`.
+
 
 ### License provisioning in Salesforce
 
-This process is typically handled jointly by Sales Ops and CS Ops.
-
-**To give someone a Gainsight license**:
+This process is typically handled by the IT and Sales Systems teams.
 
 1. In Salesforce, click **Setup**.
 1. Select `Installed packages`.
 1. Find `Gainsight CSM`.
 1. Click **Manage Licenses**. This will display the number of allowed vs used licenses.
 1. Click **Add Users** to find a person to add. They must already exist as a user in Salesforce.
-1. Add user to the Gainsight Okta group. You must be a `groups.google.com` admin for the Gainsight Okta group.
 
-Removal of licenses is handled by Sales Ops.
+Removal of licenses is handled by the Sales Ops team.
 
-### Add and remove Gainsight permissions
+### Gainsight access through Okta
+1. Navigate to https://groups.google.com/ (you must be a `groups.google.com` admin any groups to appear).
+2. Go to the `okta-gainsight-users group`.
+3. Go to Members, then Add Members and use the new user's email address to add them to the group. Once they have been added successfully, they will see a Gainsight tile in Okta (this may take some time to appear).
 
-Once a license has been provisioned in Salesforce, you amay set them up with the correct permissions in Gainsight.
+### Adding/Removing Gainsight Permissions
 
-**Note**: the SFDC > User Sync connector job must run first so that Gainsight has the user information updated correctly.
+Once a license has been provisioned in Salesforce, you may then set them up with the correct permissions in Gainsight.
 
-**To apply full Gainsight access**:
+**Note**: the `SFDC User Sync` connector job must run first so that Gainsight has the user information updated correctly. You can run this job manually if you need the user to sync immediately.
 
-1. Navigate to [User Management](https://gitlab.gainsightcloud.com/v1/ui/usermanagement#/users) in Gainsight.
-1. Search for the user.
+**Adding Gainsight Access**:
+
+1. Navigate to [User Management](https://gitlab.gainsightcloud.com/v1/ui/usermanagement) in Gainsight.
+1. Search for the user (recommended to search by email address).
 1. Click the `...` menu and choose `Edit User`.
-1. In `License Type`, select `Full User`.
-1. Click **Add Permission Bundles** and add the user to the correct bundle. You can also do this from the [Permission Bundles](https://gitlab.gainsightcloud.com/v1/ui/navigation#/bundles) page in Gainsight.
+1. Under `License Type`, select `Full User`.
+1. Click **Add Permission Bundles** and add the user to the correct bundle (this is usually specified on the Access Request issue). You can also do this from the [Permission Bundles](https://gitlab.gainsightcloud.com/v1/ui/navigation#/bundles) page in Gainsight.
 1. Click **Update**.
 
 You may also need to click the `...` menu and select `Activate User` if they still show as `Inactive`.
 
-**To remove Gainsight access**:
+**Removing Gainsight Access**:
 
 1. Verify that the person's license has been revoked in Salesforce. See the [License Provisioning in Salesforce section](#license-provisioning-in-salesforce).
 1. Navigate to [User Management](https://gitlab.gainsightcloud.com/v1/ui/usermanagement#/users) in Gainsight.
@@ -101,7 +109,7 @@ Below are the Gainsight bundles (permission sets) and relevant access categories
 <details>
 <summary markdown='span'>Gainsight bundles and access categories</summary>
 
-| Area                                  | Capability                                                                  | Default Bundle (Admin role) | SAL_Users | View_Group | TAM Journey Orchestrator | TAM_Users | GS Admin sans provisioning |
+| Area                                  | Capability                                                                  | Default Bundle (Admin role) | SAL Users | View_Group | TAM Journey Orchestrator | TAM Users | GS Admin sans provisioning |
 |---------------------------------------|-----------------------------------------------------------------------------|-----------------------------|-----------|------------|--------------------------|-----------|----------------------------|
 | Home                                  | Dashboard view access                                                       | ✓                           | ✓         |            | ✓                        | ✓         | ✓                          |
 | Timeline                              | End user account Timeline history view                                      | ✓                           | ✓         | ✓          |                          | ✓         | ✓                          |
