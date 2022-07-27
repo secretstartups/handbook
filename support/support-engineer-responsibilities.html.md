@@ -24,7 +24,7 @@ description: A detailed listing of the responsibilities of Support Engineers in 
 1. The '**What does success look like?**' subsections help encourage consistent contributions across our global team. They're not hard targets that must be met. They're to help you know how and where to contribute to succeed in your role.
 1. **Performance measurement for annual reviews and promotions are separate activities to the core responsibilities described here.**
      1. The People Group is responsible for the [GitLab annual review process](/handbook/people-group/360-feedback/).
-     1. Read about [Support Engineer Career Path](/handbook/support/engineering/support-engineer-career-path.html) for further resources on promotions, and understanding the role at different levels.
+     1. Read about [Support Engineer Career Path](/handbook/support/support-engineer-career-path.html) for further resources on promotions, and understanding the role at different levels.
 1. Support Engineering has [team level performance indicators](/handbook/support/#how-we-measure-our-performance). Successfully carrying out the responsibilities on this page will, directly or indirectly, help improve our KPIs. All team-level KPIs are, in turn, related to GitLab's company-level [Objectives and Key Results](https://about.gitlab.com/company/okrs/).
 
 ## Support Engineer Areas of Focus
@@ -179,7 +179,7 @@ such as:
 1. You believe the customer is not understanding your requests of them
 1. The customer seems very anxious, frustrated, upset, or confused
 1. The customer repeatedly asks for a call
-1. Live troubleshooting and discussion are
+1. Live troubleshooting and discussion are 
    the best way to make progress toward resolution
 
 See the [Customer Calls page](/handbook/support/workflows/customer_calls.html)
@@ -329,9 +329,9 @@ There's no goal for this area. The aim is to make sure you are aware of and util
 
 As an extension of [keeping up to date on GitLab](#keep-up-to-date-on-gitlab-and-support), you're always invited to help prepare the team for changes. Occasionally, and always with every major release, there may be deprecations or breaking changes which the Support team needs to prepare for.
 
-For major releases, typically a manager will organize the [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) to review the planned changes.
+For major releases, typically a manager will organize the [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) to review the planned changes. 
 
-Between major releases, product or development may request our assistance [to contact specific users](/handbook/support/internal-support/#gitlab-changes-and-contacting-users), which are handled by a [group of volunteers within Support](https://gitlab.com/groups/gitlab-com/support/readiness/-/group_members?with_inherited_permissions=exclude).
+Between major releases, product or development may request our assistance [to contact specific users](/handbook/support/internal-support/#gitlab-changes-and-contacting-users), which are handled by a [group of volunteers within Support](https://gitlab.com/groups/gitlab-com/support/readiness/-/group_members?with_inherited_permissions=exclude). 
 
 Each month, Support also organizes a [Release Review Party](https://drive.google.com/drive/u/0/search?q=Release%20Review%20-%20Support%20Team) (GitLab Internal only) to go over, demonstrate, and talk about new features or changes.
 

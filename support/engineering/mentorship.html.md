@@ -8,7 +8,7 @@ description: This page covers the expectations of Senior+ Engineers and how they
 
 As a mentee, it's important to remember the following:
 
-1. This is a learning opportunity, not a 'hand-off'. The Mentor should not take over the issue, but instead support and guide you to learn.
+1. This is a learning opportunity, not a 'hand-off'. The Mentor should not take over the issue, but instead support and guide you to learn. 
 1. Try to state the problem clearly, and do at least 15 minutes of prep work beforehand to help speed up troubleshooting.
 1. If the mentor is moving too fast or not explaining something clearly enough, let them know. It can be scary, but they should understand.
 1. Your mentor is human too. They may not know the answer either, but hopefully through pairing, you can both get closer to the right answer.
@@ -27,9 +27,9 @@ Anyone in Support Engineering can act as a mentor, but this page is specifically
 1. Through a [more recent initiative to offer help and encourage FRT](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3829), Senior Engineers can lead and participate in Senior Help Sessions:
    - Senior Help Sessions are [tracked as pairing sessions using the `senior-help-sessions` label](https://gitlab.com/gitlab-com/support/support-pairing/-/issues?scope=all&state=all&label_name[]=senior-help-sessions).
    - They are slightly different from pairing sessions in that they focus solely on helping SE's determine the next best step(s) to progress a ticket, such as scheduling a pairing session with a particular subject matter expert in the team, or offering guidance on who to connect with based on [DevOps Stage categories](https://about.gitlab.com/handbook/product/categories/#devops-stages).
-   - Currently, AMER holds one help session per day on a rotation such that each Senior leads one session per week.
-   - This gives all engineers an opportunity to obtain help more frequently.
-1. Senior+ Engineers can assist others in fulfilling their [responsibilities](https://about.gitlab.com/handbook/support/engineering/support-engineer-responsibilities.html) (such as meeting the [Ticket baseline](https://about.gitlab.com/handbook/support/engineering/support-engineer-responsibilities.html#ticket-baseline) in the effort to [Meet our FRT SLA](https://about.gitlab.com/handbook/support/workflows/meeting-frt-sla.html)) through mentorship on technical issues, time management, etc.
+   - Currently, AMER holds one help session per day on a rotation such that each Senior leads one session per week. 
+   - This gives all engineers an opportunity to obtain help more frequently. 
+1. Senior+ Engineers can assist others in fulfilling their [responsibilities](https://about.gitlab.com/handbook/support/support-engineer-responsibilities.html) (such as meeting the [Ticket baseline](https://about.gitlab.com/handbook/support/support-engineer-responsibilities.html#ticket-baseline) in the effort to [Meet our FRT SLA](https://about.gitlab.com/handbook/support/workflows/meeting-frt-sla.html)) through mentorship on technical issues, time management, etc.
 
 We've started with these simple guidelines to help outline ways you can connect with others.
 
@@ -37,7 +37,7 @@ We've started with these simple guidelines to help outline ways you can connect 
 
 As a mentor it's important to remember:
 
-1. Explain your thought process as clearly as possible.
+1. Explain your thought process as clearly as possible. 
 1. Seek to land on a common understanding so that it's clear that you both understand each other.
 1. Try to avoid using "shortcuts" or "simplifications" unless you and the mentee agree there is a common understanding.
 1. Empathy is key. Meet the engineer where they are, and support them as we would a customer.

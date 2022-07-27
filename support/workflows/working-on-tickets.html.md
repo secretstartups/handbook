@@ -95,7 +95,7 @@ not prepared to keep the ticket progressing. When that happens, remember you
 have your group, and in fact the whole global team, ready to help you drive the
 ticket to a great resolution. You're never alone. So go ahead and accept the
 challenge! Assign the ticket to yourself, send out your first response, and
-seek help as soon as you need it.
+seek help as soon as you need it. 
 
 ### Assigning a ticket with a different preferred region
 
@@ -131,7 +131,7 @@ needs, and that might save you and the customer time and effort as well.
 
 1. **If you take none of the other steps described in this topic, take this one.
    It is the one most likely to get you very quickly on the right path.**
-
+   
    Confirm with the customer your understanding of their situation, needs, and
    problem to be solved or question to be answered.
    1. If you're not confident about one or more of these, consider making your
@@ -182,7 +182,7 @@ needs, and that might save you and the customer time and effort as well.
 ### 1. How many new tickets should I pick up each week?
 
 Each week, each Intermediate Support Engineer should aim at least to meet, and preferably to exceed, [the
-appropriate baseline](/handbook/support/engineering/support-engineer-responsibilities.html#ticket-baseline) from the following list for the number of first responses:
+appropriate baseline](/handbook/support/support-engineer-responsibilities.html#ticket-baseline) from the following list for the number of first responses:
 
 - **Self-managed focus: 6 tickets**
 - **SaaS focus: 10 tickets, including "SaaS account" tickets**

@@ -10,7 +10,7 @@ At GitLab we have [weekly 1-1s](/handbook/leadership/1-1/).
 
 The **aim** of this page is to:
 
-1. Encourage consistency across the global Support team when discussing [Support Engineer Responsibilities](/handbook/support/engineering/support-engineer-responsibilities.html)
+1. Encourage consistency across the global Support team when discussing [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html)
 1. Help make work visible
 
 This page **does not**:
@@ -41,8 +41,8 @@ Most people like to start the call with five minutes of general conversation.
 
 We recommend avoiding [small talk](https://en.wikipedia.org/wiki/Small_talk) openers like 'How are you doing?'. Instead, set the context and get precise, actionable information. Some examples:
 
-* Use a five point scale and ask 'On a scale of one to five, how are you feeling this week?' (see below for sample text).
-* Ask for two ratings on a 0-10 scale, one for "stress" and one for "happiness."
+* Use a five point scale and ask 'On a scale of one to five, how are you feeling this week?' (see below for sample text). 
+* Ask for two ratings on a 0-10 scale, one for "stress" and one for "happiness." 
 
 Pay attention to trends over time.
 
@@ -66,7 +66,7 @@ It's likely you can skip this section if people are successfully balancing their
 
 **C. Meeting the ticket baseline (optional discussion)**
 
-Take a look at your team's Zendesk Explore dashboard and see if they are meeting the ticket baseline. [Details about this on the Support Engineer responsibilities page](/handbook/support/engineering/support-engineer-responsibilities.html#ticket-baseline).
+Take a look at your team's Zendesk Explore dashboard and see if they are meeting the ticket baseline. [Details about this on the Support Engineer responsibilities page](/handbook/support/support-engineer-responsibilities.html#ticket-baseline).
 
 It's likely you can skip this section if you're happy with the contributions people are making.
 
@@ -78,7 +78,7 @@ Agree on and document a training plan that accommodates those aspirations and me
 
 Agree on checkin points to review progress and, if necessary, to assist the Support Engineer in prioritizing and allocating the time required for [Learning and Development](https://about.gitlab.com/handbook/people-group/learning-and-development/).
 
-[Further details on Career Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#recomendations-for-managers-to-support-the-learning-of-team-members)
+[Further details on Career Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#recomendations-for-managers-to-support-the-learning-of-team-members) 
 
 ### 4. Discuss other activities from responsibility areas
 
@@ -119,9 +119,9 @@ All 1:1 notes documents should include similar text and links at the top.
 1. Assigned tickets: `https://gitlab.zendesk.com/agent/users/{USER_ID}/assigned_tickets` Replace `{USER_ID}` with the engineer's ZenDesk userid (shown in the address bar when viewing their profile).
 1. All tickets commented on: `https://gitlab.zendesk.com/agent/search/1?q=commenter%3A{USER_ID}%20order_by%3Aupdated_at%20sort%3Adesc` Replace `{USER_ID}` with the engineer's ZenDesk userid
 1. Pairings completed - [Link to the pairings summary page](https://gitlab-com.gitlab.io/support/support-pairing/)
-1. Bug report and feature requests - [Link example](/handbook/support/engineering/support-engineer-responsibilities.html#6-create-and-update-issues-for-bugs-and-feature-requests-weekly)
-1. Documentation updates - [Link example](/handbook/support/engineering/support-engineer-responsibilities.html#7-improve-documentation-and-publicly-share-knowledge-weekly)
-1. Bug fixes - [Link example](/handbook/support/engineering/support-engineer-responsibilities.html#8-fix-gitlab-bugs-and-create-features-occasionally)
-1. Learning and training progress - [Link example](/handbook/support/engineering/support-engineer-responsibilities.html#11-develop-your-skills-through-learning-and-training-weekly)
+1. Bug report and feature requests - [Link example](/handbook/support/support-engineer-responsibilities.html#6-create-and-update-issues-for-bugs-and-feature-requests-weekly)
+1. Documentation updates - [Link example](/handbook/support/support-engineer-responsibilities.html#7-improve-documentation-and-publicly-share-knowledge-weekly)
+1. Bug fixes - [Link example](/handbook/support/support-engineer-responsibilities.html#8-fix-gitlab-bugs-and-create-features-occasionally)
+1. Learning and training progress - [Link example](/handbook/support/support-engineer-responsibilities.html#11-develop-your-skills-through-learning-and-training-weekly)
 1. Customer calls? (Currently no link for this item. Included as a reminder to mention customer calls completed in the last week.)
 1. Interviews? (Currently no link for this item. Included as a reminder to mention interviews completed in the last week.)
