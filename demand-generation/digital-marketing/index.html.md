@@ -20,9 +20,10 @@ The Digital Marketing team generates new prospects through paid channels by buil
 
 ### Team
  
-- [Ashley Kramer](https://gitlab.com/ashleykramer) - Manager, Digital Marketing
-- [Leslie Stinson](https://gitlab.com/lstinson) - Digital Marketing Manager
+- [Coleen Greco](https://gitlab.com/coleengreco) - Director, Digital Marketing
 - [Zac Badgley](https://gitlab.com/zbadgley) - Digital Marketing Manager
+- [Sara Valko](https://gitlab.com/svalko) - Digital Marketing Manager
+- [Joon Shin](https://gitlab.com/jshin3) - Sr. Digital Marketing Manager
 
 [Click here](/job-families/marketing/digital-marketing-programs-manager/) to learn about the Digital Marketing Programs role.
 
