@@ -10,9 +10,7 @@ Automations for the `gitlab-org` group and projects under it can be split into t
 
 * Automation for repository, packages, container registry within a project: a [project deploy token](https://docs.gitlab.com/ee/user/project/deploy_tokens) is sufficient.
 * Automation via API within a project: a [project access token](https://docs.gitlab.com/ee/user/project/settings/project_access_tokens) is sufficient.
-* Automation via API within a group: we don't have [group token](https://gitlab.com/gitlab-org/gitlab/-/issues/214046) yet, so you'll have to either:
-  * Create a [project access token](https://docs.gitlab.com/ee/user/project/settings/project_access_tokens) if the automation doesn't require Maintainer permission at the group level (e.g. if you only plan to post comments on public projects)
-  * Create a [service account](/handbook/engineering/security/access-management-policy.html#requesting-gitlabcom-service-account-for-automation) and use its [personal access token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens) for this.
+* Automation via API within a group: a [group access token](https://docs.gitlab.com/ee/user/group/settings/group_access_tokens.html) is sufficient.
 
 These guidelines ensure consistency for Engineering automation using approved secure patterns aligned with [least privileged access principle](/handbook/engineering/security/access-management-policy.html#least-privilege-reviews-for-access-requests).
 
