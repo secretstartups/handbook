@@ -44,28 +44,7 @@ In many instances, they have been documented, refined, and revised based on less
 
 We used to have more values, but it was difficult to remember them all. In response, we condensed them, created an acronym (CREDIT), and listed operating principles to guide behavior.
 
-Everyone is welcome to suggest improvements. Please assign MRs to update these values to our CEO Sid and @mention him in Slack if you work at GitLab Inc. or [on Twitter](https://twitter.com/sytses) if you don't.
-
-#### Operating principles
-{:.no_toc}
-
-Operating principles are behaviors that empower GitLab team members to definitively live out a given value.
-They clarify what a given core value means and looks like *at GitLab*. 
-Understanding this distinction is critical to thriving at GitLab,
-particularly for [newer team members](/company/culture/all-remote/getting-started/) who may be familiar with a prior organization's interpretation of iteration or collaboration (as examples).
-
-#### Process for removing operating principles
-{:.no_toc}
-
-_Values are not just things we do, but things that actively drive good behaviour.  When we remove them it doesn't mean we stopped believing in it, just that it wasn't actively helping to drive behaviour. If we don't prune our operating principles, then we will be like every other company: things that make sense but are not leading to a better culture._
-
-1. To **remove** an operating principle from the Handbook page, submit your change through a merge request and explain your reasons in the merge request description.
-1. The GitLab Value Handbook Page owner must approve and merge the request.
-
-#### Mention the specific value
-{:.no_toc}
-
-Most companies have a list of values. In companies without strong values, folks often use generalizations when they refer to values. For example, "not a value add" or "scored well on values during our interview." In companies with strong values, folks name the specific, relevant value as it applies to a given topic or situation. Values are only powerful when they are individually understood and applied by team members. 
+Everyone is welcome to suggest improvements. Please assign MRs to update these values to our CEO Sid and @mention him in Slack if you work at GitLab Inc. or [on Twitter](https://twitter.com/sytses) if you don't.  
 
 ## 🤝 Collaboration
 {:#collaboration .gitlab-purple}
@@ -1182,9 +1161,19 @@ We demonstrate transparency when we are open with as many things as possible red
   </tr>
 </table>
 
+## Why have values
+ 
+Our values provide guidelines on how to behave and are written to be actionable.
+They help us describe the type of behavior that we expect from GitLab team members.
+They help us to know how to behave in the organization and what to expect from others.
+
+Values provide a framework for distributed decision making, detailed in GitLab's [Managing so Everyone Can Contribute (MECC)](/handbook/mecc/) management philosophy. They allow individuals to determine what to do without asking their manager and they allow teams to make consistent decisions. When teams across the organization reference the same values in their decision making, there is consistency in how decisions are made. This ensures that [our culture](/company/culture/#culture-at-gitlab) remains driven by our values. 
+
+Lastly, values create a [conscious culture](https://conscious.org/playbook/a-conscious-culture/) that is designed to help you prosper and experience exceptional personal growth through work.
+
 ## Five dysfunctions
 
-Our values help us to prevent the [five dysfunctions](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team#Summary):
+Our values also help us to prevent the [five dysfunctions](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team#Summary):
 
 1. **Fear of conflict** Seeking artificial harmony over constructive passionate debate => _prevented by transparency, specifically_ [directness](#directness) _and collaboration, specifically_ [short toes](#short-toes)
 1. **Absence of trust** Unwilling to be vulnerable within the group => _prevented by collaboration, specifically_ [kindness](#kindness)
@@ -1196,13 +1185,25 @@ Some dysfunctions are not addressed directly by our values; for example, trust i
 Similar to happiness, trust is something that is an outcome, not something you can strive for directly.
 We hope that the way we work and our values will instill trust, instead of mandating it from people; trust is earned, not given.
 
-## Why have values
+## Operating principles
 
-Our values should give guidelines on how to behave and must be actionable.
-They help us describe the type of behavior that we expect from people we hire.
-They help us to know how to behave in the organization and what to expect from others.
-Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager.
-They create a [conscious culture](https://conscious.org/playbook/a-conscious-culture/) that is designed to help you prosper and experience exceptional personal growth through work. 
+Operating principles are behaviors that empower GitLab team members to definitively live out a given value.
+They clarify what a given core value means and looks like *at GitLab*. 
+Understanding this distinction is critical to thriving at GitLab,
+particularly for [newer team members](/company/culture/all-remote/getting-started/) who may be familiar with a prior organization's interpretation of iteration or collaboration (as examples).
+
+#### Process for removing operating principles
+{:.no_toc}
+
+_Values are not just things we do, but things that actively drive good behaviour.  When we remove them it doesn't mean we stopped believing in it, just that it wasn't actively helping to drive behaviour. If we don't prune our operating principles, then we will be like every other company: things that make sense but are not leading to a better culture._
+
+1. To **remove** an operating principle from the Handbook page, submit your change through a merge request and explain your reasons in the merge request description.
+1. The GitLab Value Handbook Page owner must approve and merge the request.
+
+#### Mention the specific value
+{:.no_toc}
+
+Most companies have a list of values. In companies without strong values, folks often use generalizations when they refer to values. For example, "not a value add" or "scored well on values during our interview." In companies with strong values, folks name the specific, relevant value as it applies to a given topic or situation. Values are only powerful when they are individually understood and applied by team members.
 
 ## How to scale the business while preserving GitLab values?
 
