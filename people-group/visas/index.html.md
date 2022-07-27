@@ -130,6 +130,8 @@ Someone already in the Netherlands on a partner visa can be transferred to their
 
 #### Resources
 
+Our `#netherlands` Slack channel is a good place to ask immigration-related questions.
+
 Here is a [document written by a GitLab team member](https://docs.google.com/document/d/1t5-jMIrWBxOJSka42uzPIPUnTLtRObbcQ6qBvTpjYI4/edit?usp=sharing) (internal only) detailing their immigration experience to the Netherlands.
 
 <figure class="video_container">
@@ -188,9 +190,6 @@ More detailed links on the process:
 
 If there is a change in employer within Germany and the blue card has been held for less than two years then you will need to apply to the immigration service in Germany (LEA). If it has been held for more than two years you are free to change employer without needing to amend the blue card, but the new employment contract must still meet the required threshold for eligibility. 
 
+#### Resources
 
-
-
-
-
-
+Our `#gitlab-germany` Slack channel is a good place to ask immigration-related questions.
