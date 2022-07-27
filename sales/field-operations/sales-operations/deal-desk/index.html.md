@@ -111,12 +111,12 @@ For cases related to Account Segmentation (ROE, Territory), account data, or acc
 
 #### Slack Communication
 
-##### Primary Slack Channel
+##### Primary Slack Channel**
 
 Use our Slack channel in case of general, non-record related requests and/or urgent questions: 
 **#sales-support** [If the request is related to a quote, opportunity, or account - please chatter on the page in Salesforce instead of the Slack channel.] 
 
-##### Slack Best Practices
+##### Slack Best Practices**
 
 **Please avoid contacting the DD team members directly via Slack.** Utlizing the `#sales-support` channel is best to ensure timely coverage, helps others who may have similar questions, and aligns with our **Transparency** value. 
 
@@ -203,7 +203,7 @@ Results from the survey will be used to evaluate team member performance and to 
   * Very Poor
 * Satisfaction rating is determined by the percentage of Excellent, Good, and Neutral responses, as compared to the total number of responses. The outcome in percentage form is the Regional Support Satisfaction rating. 
 
-#### 3. Case Reduction through Proactive Support - Training, Documentation, and System Improvements 
+#### Case Reduction through Proactive Support - Training, Documentation, and System Improvements 
 
 The Deal Desk team will be responsible for taking action on feedback received in our Quarterly CSAT survey by improving process related to common quoting errors, opportunity bugs, or gaps in process documentation. The goal is to decrease the number of cases and enable the field to complete the standard duties related to quoting without Deal Desk intervention. Deal Desk will always assist in complex or non-standard deals.
 
@@ -291,7 +291,8 @@ F.  **Add Annual Payments** to a order form by:
 * Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
 * **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
 
-G. SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
+G. SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions)
+
 H.  **Order Form Generation**
 *   If no discounts or special terms are requested, click “Generate PDF.”
 *   If the deal contains discounts that require approval, please submit the quote for approval using the button on the quote. The quote must be approved before the PDF can be generated.
@@ -346,7 +347,8 @@ Add On Opportunity should be Closed-Won before submitting a Renewal opportunity 
         *   Please note that Sales reps may only generate PDF versions of the Order Form. If you require special wording or other manual edits, please make the request by tagging @Sales-Support in chatter.
 
 
-##### Explanation to the prorata calculation of add-on order forms: - [Explanation with screenshot of example order form](https://docs.google.com/presentation/d/1HV4jYVP4yITm0FyhGbDPGmb6f-ebI0Fh480cLfw7u9M/edit#slide=id.ga42daef6d7_0_0)
+##### Prorata calculation of add-on order forms:
+[Explanation with screenshot of example order form](https://docs.google.com/presentation/d/1HV4jYVP4yITm0FyhGbDPGmb6f-ebI0Fh480cLfw7u9M/edit#slide=id.ga42daef6d7_0_0)
 
     *   On add-on/amendment order forms the amounts are prorated based on calendar days as per the following example (adding 10 users to existing subscription)
     *   Annual fee for 10 add-on users: 10 users x $228 = $2,280.00
@@ -363,6 +365,7 @@ Add On Opportunity should be Closed-Won before submitting a Renewal opportunity 
     *   Select the **Remove** drop down button (which is not fully visible) next to the current product, which you are removing in lieu of the new product.
     *   Adjust the new product line - quantity, discount. Click “Submit.”
     *   Note: On the Order Form, the product being removed will display with a negative amount reflecting the credit for that product for the remainder of the subscription term.
+    *   Mid-term product upgrade can only be processed via the same route to market.
 
 
 **To supplement these steps, review [THIS TRAINING VIDEO](https://youtu.be/iTVbggacglo) to see each step live for an Amendment Quote:**
@@ -377,12 +380,11 @@ This quote type should be used when the customer has reached the end of their su
 Important: 
 1. "Renew Subscription" quotes should be used even if the customer is renewing for a different term length than the previous period. i.e. If the customer is renewing a 12 month subscription for 24 months, choose "Renew Subscription" and enter "24" in the Renewal Term field.
 2. Gaps are not allowed between opps linked to the same subscription ie. new subscription quote object cannot be used on a renewal opportunity, unless you encounter one of the following scenarios. 
-
-   2 scenarios when new subscription quote is allowed on a renewal opp:
+3. Scenarios when new subscription quote is allowed on a renewal opp:
      - Contract reset (aka early renewal)
      - Customer has lost access or customer decided to renew after 30 days (this is the only scenario where a gap is allowed between renewals)
 
-**Standard Renewal**
+##### **A. Standard Renewal**
 *   Open the Renewal opportunity and click the **“New Quote”** button.
 *   Select the **existing billing account.**
 *   When prompted **select “Renew Existing Subscription for this Billing account,** and select the appropriate subscription. 
@@ -405,13 +407,15 @@ Important:
     *   For **Channel renewals**, please refer to this [cheat sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit#heading=h.9e3o7yaxw8mu) to help identify what discounts and product lines to add for a renewal. Quote approvals may be triggered due to system limitations. 
         *   Partner discounts must be added in addition to any customer discounts and required approvals must be received by submitting the quote in the system, per the quote approval matrix. 
         *   If you have questions about Channel discounts when building a quote, chatter `@Partner Operations` for help.
-**B.   **Add Annual Payments** to a order form by:
-* Checking "Annual Payments" checkbox on Quote Detail Page
-* Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
-* **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
-**C.  SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
 
-**D.  Renewal Using a New Subscription Quote**
+* **Add Annual Payments** to a order form by:
+    * Checking "Annual Payments" checkbox on Quote Detail Page.
+    * Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**".
+    * All Annual Payment quotes **must use the 1 Year Product SKU**. You will see an error message if you select Annual Payments and anything other than the 1 Year SKU.
+
+* **SuperSonics**: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). 
+
+##### **B. Renewal Using a New Subscription Quote**
 
 If the customer needs to change the Quote Start Date (typically for Billing purposes) at time of Renewal, you will need to build a  New Subscription quote. We will also use a New Subscription quote if the deal includes a Contract Reset. 
 
@@ -424,8 +428,8 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 *   Select a Quote Template 
 *   Click Next and follow the steps listed above (New Subscription Section)
 
-
-
+##### **C. Late renewal** 
+For information on how to quote late renewals, [see here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#late-renewals) .
 
 **To supplement these steps, review [THIS TRAINING VIDEO](https://youtu.be/kDZJW-ss5j4) to see each step live for an Renewal Quote:**
 
@@ -434,41 +438,41 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 #### Quoting Channel Deals
 
 ##### Standard Partner/Reseller Quotes
-- **Quote Template** field needs to be manually selected: Authorized Reseller Template
-- Sold to and Bill to contacts are linked to the end-customer account (this person will receive the license email)
-- **Invoice Owner** field = Partner`s billing account 
-- **Invoice Owner Contact** field = Partner`s contact (this person will receive the invoice)
-- **Resale Partner** field = Partner`s SFDC account
-- Distributor field = Blank
+- **Quote Template** needs to be manually selected: Authorized Reseller Template
+- **Sold to and Bill to** contacts are linked to the end-customer account (this person will receive the license email)
+- **Invoice Owner** = Partner's billing account 
+- **Invoice Owner Contact** = Partner's contact (this person will receive the invoice)
+- **Resale Partner** = Partner's SFDC account
+- Distributor = Blank
 
 ##### Distributor Quotes
-- Quote Template fields needs to be manually selected: Distributor Quote Template
-- Sold to and Bill to contacts are linked to the end-customer account (this person will receive the license email)
-- Invoice Owner field = Distributor`s billing account 
-- Invoice Owner Contact field = Distributor`s contact (this person will receive the invoice)
-- Resale Partner field = Reseller`s SFDC account
-- Distributor field = Distributor`s SFDC account
+- **Quote Template** needs to be manually selected: Distributor Quote Template
+- **Sold to and Bill to** contacts are linked to the end-customer account (this person will receive the license email)
+- **Invoice Owner** = Distributor's billing account 
+- **Invoice Owner Contact** = Distributor's contact (this person will receive the invoice)
+- **Resale Partner** = Reseller's SFDC account
+- **Distributor field** = Distributor's SFDC account
 
 ##### MSP Quotes
-A Managed Service Provider (MSP) purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer, the end user, is the one using the licenses.
+A **Managed Service Provider (MSP)** purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer, the end user, is the one using the licenses.
 
-MSP Opportunity Details:
+A. MSP Opportunity Details:
 * The MSP opportunities are linked to the MSP (partner) account (not to the end customer account)
 * The MSP opps should be owned by the sales reps
-* The MSP new business opp is created by Channel Managers/automatically -if the end customer has an existing subscription either directly or via partner, the related renewal opp will need to be set to Closed Lost by the opp owner on the customer account
+* The MSP new business opp is created by Channel Managers/automatically.I f the end customer has an existing subscription either directly or via partner, the related renewal opp will need to be set to Closed Lost by the opp owner on the customer account
 * The MSP opp should always contain the word "MSP" and the name of the end-customer
 
-MSP Quote Creation Steps: 
-* New MSP sub: A new subscriptions quote object needs to be created by the rep who manages the MSP opp
-* Add-on to existing MSP sub: first the correct subscription should be located on the SFDC account based on the start and end dates of the existing booked opp containing the same customer account name.
-* Renewal to existing MSP sub: same as above, first the related subscription needs to be identified on the MSP partner account before creating the quote
-* MSP quote template needs to be selected on the quote object manually 
-* The Sold to and Bill to contact fields on the quote should reflect the MSP partner contacts
-* Invoice Owner, Resale Partner and Invoice Owner Contact fields should also reflect the MSP partner data 
-* Distributor field should remain blank)
-* In the special notes section the end customer name should be reflected
+B. MSP Quote Creation Steps: 
+* New MSP subscription: A new subscriptions quote object needs to be created by the rep who manages the MSP opp.
+* Add-on to existing MSP subscription: first the correct subscription should be located on the SFDC account based on the start and end dates of the existing booked opp containing the same customer account name.
+* Renewal to existing MSP subscription: same as above, first the related subscription needs to be identified on the MSP partner account before creating the quote.
+* MSP quote template needs to be selected on the quote object manually.
+* The Sold to and Bill to contact fields on the quote should reflect the MSP partner contacts.
+* Invoice Owner, Resale Partner and Invoice Owner Contact fields should also reflect the MSP partner data. 
+* Distributor field should remain blank.
+* In the special notes section the end customer name should be reflected.
 
-More details on MSP deal reg can be found in the [Channel Ops handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities)
+More details on MSP deal reg can be found in the [Channel Ops handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities).
 
 
 #### Quoting Annual True-Ups
@@ -500,11 +504,10 @@ True-ups shouldn’t be added to an amendment quote, because functionally they w
 Example- The customer had 100 licensed users and they used 108, the 8-user overuse will be covered and quoted as True-up during renewal.
 
 **Reading Through Customer's Dashboard:**
-**1. Billable Users:** Current number of active users (forward looking license) - Customer needs renew at least that number of licenses
-**2. Users over License:** True-ups (being charged for the overuse occurred in the previous licensing period)
-**Users over License = Maximum users - Users in license**
-**3. Users in License:** Number of licenses purchased previously (at the beginning of the term)
-**4. Maximum Users:** Number of maximum users reached during the previous term (before renewal)
+* **Billable Users:** Current number of active users (forward looking license) - Customer needs renew at least that number of licenses
+* **Users over License:** True-ups (being charged for the overuse occurred in the previous licensing period). **Users over License = Maximum users - Users in license**
+* **Users in License:** Number of licenses purchased previously (at the beginning of the term)
+* **Maximum Users:** Number of maximum users reached during the previous term (before renewal)
 
 ![Customer_s_Dashboard_Example](/uploads/f7b584e202c4902a25082ed38e5a69cb/Customer_s_Dashboard_Example.png)
 
@@ -531,7 +534,7 @@ There are 2 types of co-terming:
 
 * Starter/ Bronze SKUs will no longer be selectable for new subscription quotes. 
 * Starter/ Bronze new subscription deals quoted before 2021-01-26 will be honoured and booked through and until the Quote Expiration Date, provided that they have received CRO approval.
-* Starter/ Bronze SKUs will still be selectable for amendment and renewal quotes. Existing Starter/Bronze subscriptions can be amended to add users at the current list price, or renewed for one year at the current list price, until 2022-01-26. Any discounts applied to Starter/Bronze Add-Ons or Renewals will be subject to the [standard discount approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#).
+* Starter/ Bronze SKUs will still be selectable for amendment and renewal quotes. Existing Starter/Bronze subscriptions can be amended to add users at the current list price, or renewed for one year at the current list price, until 2022-01-26. Any discounts applied to Starter/Bronze Add-Ons or Renewals will be subject to the [standard discount approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#) and [Starter/Bronze EoA upgrade offer](https://docs.google.com/document/d/19T-ysFuEFWIlAv7Z9o1Q6-kVU9HKFb_nzGZ1uumpMLA/edit) .
 
 **Silver/Premium + Gold/Ultimate Legacy SKU Quoting Guide**
 
@@ -603,33 +606,10 @@ To learn more about the SuperSonics Billing and Subscription Management experien
 
 * Ensure that a supporting Quote object has been created with the amount matching the SOW amount
 * Please note that the following items must be attached to the opportunity before it can be Closed Won:
-    *   SOW signed by **both the customer and GitLab's PAO or CFO.****
+    *   SOW signed by **both the customer and GitLab's PAO or CFO.**
     *   Cost Estimate (COGS) spreadsheet (Link provided by the PS team)
 
-#### How to Clone an Existing Quote
 
-If you'd like to save time by cloning an existing quote, you can do so by doing the following:
-
-1. On the Quote Detail page of the quote you want to clone, click "Clone Quote".
-2. On the Quote Clone Configuration page, select the following options:
-    * Clone Products: Select to clone the products associated with the quote. This option only applies to the New Subscription quotes. Ensure that the products associated with the quote are maintained in the current version of the product catalog.
-    * Maintain Quote: Select to be directed to the first step in the quote object workflow that allows you to edit the newly cloned quote. The flows are configured based on the quote type, i.e., New Subscription, Amendment, and Renewal, in the quote object workflow.
-3. Click Next.
-    * If you selected the Maintain Quote option, you are redirected to the first step in the Quote Wizard of the newly cloned quote.
-    * If you did not select the Maintain Quote option, you are redirected to the Quote Detail page of the newly cloned quote.
-4. Please note that you cannot clone the products on an amendment (add-on or renewal quote.)
-
-#### How to Create a Draft Proposal
-
-Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal. 
-
-1. Click Edit Quote Details. 
-2. Select the DRAFT - New Proposal quote template. Save. 
-3. Click Generate PDF. A Draft Proposal PDF will be attached to the Notes & Attachments section of the opportunity. 
-
-**Important Notes** 
-- A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
-- A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. To generate a legitimate order form, click on "Edit Quote Details" and you must update the Quote Template from Draft selection to the relevant order form template for the opportunity before it is submitted for approvals.
 
 ### **Non-Standard Quotes**
 
@@ -665,7 +645,7 @@ Concurrent Subscriptions are two unique subscriptions (instances) for Self Manag
 
 Approvals for this deal strucutre will follow the [standard approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.f8920bj8v6l9).
 
-** Deal Structure Requirements** 
+**Deal Structure Requirements** 
 - The Start Date and End Date must align on both subscriptions, if the Self Managed and SaaS instance are created / booked at the same time. 
 - If the customer is adding a migration mid term, the End Date of the added subscription must align with the existing subscription. (Ex. Self Managed 1 Year. The customer adds a SaaS instance mid way through the term to support migration efforts. The start date of the Self Managed Subscription is 01-01-2000 to 12-31-2000. The SaaS instance term dates should be 06-01-2000 to 12-31-2000.)
 - SKU type is subject to our standard bookign requirements - SKU term must match the Initial Term, unless the deal includes Annual Payments. 
@@ -681,41 +661,42 @@ If the customer needs parallel access for 1 month only that can be managed throu
 
 In the case of multi-year deals, the Initial Term should be updated to reflect the number of months in the subscription term - 24, 36, 48, 60, etc. 
 
-For prepaid multi-year deals, you must select the correct multi-year SKU (i.e. for a prepaid 2 year SaaS - Premium deal, select “SaaS - Premium - 2 Year”). Prepaid multi-year deals that do not utilize the correct multi-year SKU will be rejected. 
+* For **prepaid multi-year deals**, you must select the correct multi-year SKU (i.e. for a prepaid 2 year SaaS - Premium deal, select “SaaS - Premium - 2 Year”). Prepaid multi-year deals that do not utilize the correct multi-year SKU will be rejected. 
 
-For multi-year deals, paid annually, you must select the 1 Year SKU, and click on the Annual Payments checkbox to add the necessary payment language to the Order Form. Multi-year deals paid annually that do not utilize the correct 1 Year SKU will be rejected.
+* For **multi-year deals paid annually**, you must select the 1 Year SKU, and click on the Annual Payments checkbox to add the necessary payment language to the Order Form. Multi-year deals paid annually that do not utilize the correct 1 Year SKU will be rejected.
 
-In case the customer is looking to add additional users on a multi-year deal paid annually the subtotal on the created quote object will not be calculated correctly as it will include future unpaid years so Sales Support needs to be tagged on the related opportunity and the OF will be updated accordingly by Deal Desk.
+    * In case the customer is looking to add additional users on a multi-year deal paid annually the subtotal on the created quote object will not be calculated correctly as it will include future unpaid years. Tag Sales Support on the related opportunity and the order form will be updated accordingly by the Deal Desk team.
 
-Additional users can only be added via add-on and amend subscription quote object if it's the same route to market but for switching route to market add-on opportunity should be used but new subscription quote object created and co-termed with existing subscription (as we don't have daily sku the start date should be adjusted based on the end date and if the term is less than 12 months monthly sku should be used). Upgrade can only be processed mid-term via the same route to market.
-
+* Additional users can only be added on the same route to market a multi-year deal via add-on and amend subscription quote object.  To switch route to market, use an add-on opportunity with a new subscription quote object, co-termed with the existing subscription (there is no daily SKU, therefore the start date should be adjusted based on the end date; if the term is less than 12 months, use a monthly SKU). 
+* Mid-term product upgrade can only be processed via the same route to market.
 
 For more information on ARR calculation for Multi-Year Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#how-net-arr-is-calculated-for-standard-deals).
 
-### Ramp Deals 
+#### Ramp Deals 
 
-A ramp deal is when a contracts a multi-year deal for users that will be fulfilled on a set annual schedule throughout the duration of the multi-year subscription term. In a Ramp, users are prorated from when they will be added. The customer pays upfront, or annually, for all users planned in the ramp schedule. For [Amendment quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), the customer adds users throughout the subscription with no set schedule. 
+A Ramp Deal is a multi-year deal in which products can vary in price, quantity, or discount over set annual schedule or can remain flat for the entire duration of the subscription term. 
+Customer pays upfront or annually, for all users planned in the ramp schedule. 
+* In a ramp [add-on](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), customer adds users throughout the subscription with no set schedule and pays a pro-rata rate. 
+* Ramp deals are limited to multi-year deals, with 12 month ramp periods. See [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals) for more information.
 
-Ramp deals are limited to multi-year deals, with 12 month ramp periods. See [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals) for more information.
 
+##### How to Create a Ramp Deal
 
-#### How to Create a Ramp Deal
-
-A.  To create a ramp deal, tag @Sales-Support in chatter on the opportunity. **Provide the following information for each ramp period:**
-*   Start date/term length
+To create a Ramp Deal, tag @Sales-Support in chatter on the opportunity. Deal Desk will create the quotes and Order Form. **Provide the following information for each ramp period:**
+*   Start date and term length
 *   Proposed ramp schedule
+*   Product, quantity, discount
 *   Bill To and Sold To Contact
 *   Invoice Owner and Invoice Owner Contact (If Partner Deal)
-*   Product, quantity, discount
 *   Payment Terms (i.e. Net 30)
 *   Any other requests (i.e. Price Lock, true up language, etc.)
-
-B.  Deal Desk will create the quotes and Order Form.
 
 On the opportunity, Deal Desk will populate the "Opportunity Category" field with "Ramp."
 
 
 For more information on ARR calculation for Ramp Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals).
+
+### **Quotes - Miscellanous**
 
 #### How to Process a Professional Services SOW Amendment (Change Order)
 
@@ -723,7 +704,32 @@ Occasionally, changes will be made to a Custom SOW after an opportunity has been
 
 #### Creating Decomission Opportunties
 
-Deal Desk will create Decommission (refund) opportunities for all Orders: Sales Assisted and Web Direct Orders. All refund requests should be sent to AR Team at AR@gitlab.com and once approved AR Team will tag Sales Support (Deal Desk) to create refund opportunity that will be fully processed by Billing Ops Team in Zuora after.
+Deal Desk will create Decommission (Refund) Opportunities for both Sales Assisted and Web Direct Orders. All refund requests should be sent to AR Team at AR@gitlab.com. Once approved AR Team will tag Sales Support (Deal Desk) to create a refund opportunity. Deal Desk will then contact Billing Ops Team who will processed the refund in Zuora.
+
+#### How to Clone an Existing Quote
+
+If you'd like to save time by cloning an existing quote, you can do so by doing the following:
+
+1. On the Quote Detail page of the quote you want to clone, click "Clone Quote".
+2. On the Quote Clone Configuration page, select the following options:
+    * Clone Products: Select to clone the products associated with the quote. This option only applies to the New Subscription quotes. Ensure that the products associated with the quote are maintained in the current version of the product catalog.
+    * Maintain Quote: Select to be directed to the first step in the quote object workflow that allows you to edit the newly cloned quote. The flows are configured based on the quote type, i.e., New Subscription, Amendment, and Renewal, in the quote object workflow.
+3. Click Next.
+    * If you selected the Maintain Quote option, you are redirected to the first step in the Quote Wizard of the newly cloned quote.
+    * If you did not select the Maintain Quote option, you are redirected to the Quote Detail page of the newly cloned quote.
+4. Please note that you cannot clone the products on an amendment (add-on or renewal quote.)
+
+#### How to Create a Draft Proposal
+
+Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal. 
+
+1. Click Edit Quote Details. 
+2. Select the DRAFT - New Proposal quote template. Save. 
+3. Click Generate PDF. A Draft Proposal PDF will be attached to the Notes & Attachments section of the opportunity. 
+
+**Important Notes** 
+- A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
+- A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. To generate a legitimate order form, click on "Edit Quote Details" and you must update the Quote Template from Draft selection to the relevant order form template for the opportunity before it is submitted for approvals.
 
  
 
