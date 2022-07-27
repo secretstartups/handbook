@@ -578,8 +578,6 @@ The quoting system will provide visibility into the correct programmatic partner
 
 ### Service Attach Quote Approval
 
-Effective 2021-04-05, the quote approval module has been updated to trigger an approval workflow on quotes that meet the [FY22 GTM Service Attach](https://docs.google.com/presentation/d/1wLYQP7KV9UMdBSneg_caBFnckHPcKEw6C5zfEsrysFM/edit#slide=id.gc5c5401a33_0_5) opportunity criteria. 
-
 - **Enterprise Service Attach Opportunity Criteria:**
 
 1. Order Type 2.0 = `1. New - First Order`
@@ -613,7 +611,7 @@ If an opportunity meets the criteria listed above, but does not have a Professio
   - What was the customer’s reason why they didn’t agree to services?
   - Other supporting reasons?
 2. Submit the quote for approval by clicking "Submit for Approval" on the quote object.
-3. Approval is required first by Michael Lutz or David Sakamoto. If one of these leaders approvals the quote, a second and final Service Attach approval request will go to Mike Pyle. 
+3. Approval is required per the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.dccvx02huo2y). 
 4. If the approvals noted above are obtained, and no other approvals are required, the quote will be approved. If the approvals noted above are obtained, and other approvals are required (discount approvals, payment term approvals, etc.), the quote approval module will automatically enter the existing approval process. 
 
 ### Waived True-Ups: Policy and Approval Requirements
