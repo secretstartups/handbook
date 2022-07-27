@@ -31,7 +31,7 @@ In addition to promotions, this page captures information about transfers, reali
 
 # Promotion Philosophy
 
-Our promotion philosophy is compromised of a few core pillars surrounding the approach and process alignment to our values. 
+Our promotion philosophy comprises core pillars surrounding the approach and process alignment to our values. 
 
 ### Pillars
 
