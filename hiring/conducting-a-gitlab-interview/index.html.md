@@ -55,13 +55,13 @@ All feedback should be recorded in Greenhouse and/or discussed live with the hir
 * Be aware of the kinds of questions you can and can't ask. For example, if there is a gap in employment history on a CV, you **may** ask the candidate what they did during that time to keep their skills current. You may not ask why they were absent from work as it may be related to a medical or family issue, which is protected information.
 * Refrain from any personal, icebreaker-type questions. There are laws that prohibit discrimination based on any lawful activity, so asking a candidate about personal interests or hobbies could elicit information about the candidate that an employer finds undesirable yet is still legally protected.
 * Refrain from asking any questions related to protected classes (for example: age, race, gender, gender identity, religion, sexual orientation, marital or family status, pregnancy status, national origin, ancestry, physical or mental disabilities).
-* Protected classes differ based on the country of the candidate.
+* Protected classes differ based on the country of the candidate, but we default to the strictest country definitions. Therefore, even if sexual orientation is not a protected class where your candidate lives, we will consider it protected at GitLab in our interview criteria. 
 * To find out more about discrimination laws specific to the country of a candidate you're interviewing, you can reach out to the legal and/or talent acquisition team.
 * Asking questions related to any of the protected classes is not only illegal, but shouldn’t be asked to determine if someone is qualified for a role.
     * Some examples of illegal interview questions include:
         * So you mentioned you live with your partner earlier, are you married?
         * How old are you by the way?
-* In general, stay away from any questions and conversations around protected classes, and focus instead on the job duties.
+* You should stay away from any questions and conversations around protected classes, and focus instead on the job duties. What is important is whether the candidate can be successful in the role and only asking questions relevant to that.
 * If a candidate does bring up personal information during an interview related to a protected class, it's OK to acknowledge their comment and get the interview back on track.
     * Some suggestions on steering the interview back to appropriate topics:
         * So, we were just talking about your role’s current responsibilities. How technical are you hoping to stay in your next role?
@@ -148,17 +148,13 @@ It can also happen that the candidate does not have a story to share with you; t
 
 #### Career Change Drivers
 
-The goal of this interview exercise is to understand what motivated the candidate to make transitions in their career. Understanding this ensures that the candidate is positioned to be successful in the role they are interviewing for.
+If it is relevant to the topic or competency that you are assessing, you can use Career Change Drivers to understand what motivated the candidate to make transitions in their career. Understanding this ensures that the candidate is positioned to be successful in the role they are interviewing for.
 
 Walk through the candidates resume in reverse chronological order. For each role ask:
 
 * Why did you take the role?
 * Why did you leave the role?
 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/jyFQHOo9LF8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 ### Interview feedback
 
@@ -213,4 +209,5 @@ This scorecard feature will increase sharing of candidates that, for example, ma
 ### Frequently Asked Questions (FAQ)
 
 * My Zoom link isn't working, who can help?
-  * This is a common occurrence due to a Zoom configuration issue. You can share a new Zoom link directly via email with the candidate if you notice this problem at the scheduled interview time. The #IT-help Slack channel will be able to guide you on the correct configuration to prevent this issue occurring in the future.
+  * This is a common occurrence due to a Zoom configuration issue. You can share a new Zoom link directly via email with the candidate if you notice this problem at the scheduled interview time. The #IT-help Slack channel will be able to guide you on the correct configuration to prevent this issue occurring in the future. 
+  * The Candidate Experience Specialist team can be reached on slack in an emergency by tagging @ces in your message. 
