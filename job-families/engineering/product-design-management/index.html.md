@@ -10,7 +10,7 @@ Managers in the UX department at GitLab see the team as their product. While the
 
 ## Product Design Manager
 
-The Product Design Manager reports to the Senior Product Design Manager or the Director of Product Design, and Product Designers report to the Product Design Manager.
+The Product Design Manager reports to the Senior Manager of Product Design or the Director of Product Design, and Product Designers report to the Product Design Manager.
 
 ### Job Grade
 
@@ -65,25 +65,27 @@ You'll spend your time collaborating with a [cross-functional team](/handbook/pr
 * **Interview with a Group Product Manager** In this interview, the interviewer will want to understand how your career experiences will set you up for success at GitLab. They will also look to understand how you work with cross-functional partners, the domains you've worked in previously, and the types of teams you've led. 
 * **Interview with VP of UX** In this interview, the interviewer will want to understand the experience you have as a manager, your experience working remotely, and how these two elements of your career intersect. They will also look to understand your technical skills and the types of products you've worked on previously.  
 
-## Senior Product Design Manager
+## Senior Manager of Product Design
 
-The Senior Product Design Manager reports to the Director of Product Design, and the Product Design Manager reports to the Senior Product Design Manager.
+The Senior Manager of Product Design reports to the Director of Product Design, and the Product Design Manager reports to the Senior Manager of Product Design.
 
 ### Job Grade
 
-The Senior Product Design Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager of Product Design is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
-* **Performance tracking:** Define and manage performance indicators for the Product Design team by actively contributing to the product design KPIs on the [UX KPIs](/handbook/engineering/ux/performance-indicators/) page in the handbook.
-* **Cross-product collaboration:** Actively advocate for Product Design throughout the organization by ensuring Product Design responsibilities are reflected in the Product Development Flow.
-* **Product knowledge:** Help drive cross-product workflows by having an awareness of what's happening across all sections through active participation in design reviews, UX Showcases, and Group Conversations.
-* **Goal setting:** Facilitate the creation and execution of product design [OKRs](/company/okrs/) in collaboration with the Product Design team and UX Leadership.
+* **Product knowledge:** Understand the technology and features across all [product sections](/handbook/product/categories/) in order to drive cross-product workflows and identify improvement opportunities.
+* **Cross-product collaboration:** Actively advocate for Product Design throughout the organization. Coach Product Design Managers on how to identify large, strategic UX opportunities and how to move them forward.
+** Design quality:** Use your product knowledge across all stages to have a positive impact in design reviews, UX Showcases, and Group Conversations. Mentor Product Design Managers to be an active participant in monthly milestones to ensure high-quality output.
+** Research:** Improve research quality and [velocity](/handbook/engineering/ux/performance-indicators/#ux-research-velocity) by helping Product Design Managers identify strategic user research initiatives.
 * **UX evangelism:** Ensure UX is prioritized by working with product leadership to identify opportunities for validation and better cross-functional collaboration.
-* **People management:** Coach Product Design Managers on how to conduct 1:1s and growth conversations with their direct reports.
-* **Skip levels:** Conduct quarterly skip levels with your reports' direct reports.
-* **Vision and direction**: Stay informed of Direction pages and have an awareness of the strategy and vision of the stages you're assigned.
-* **Hiring:** Hire and retain a world-class team of Product Designers and Product Design Managers.
+* **UX process:** Improve processes across the organization to ensure that Product Design is an active participant throughout the entire [product development flow](/handbook/product-development-flow/). Identify efficiency improvements and scale them across the organization.
+* **Hiring:** Help identify growth opportunities needed to support business goals. Hire and retain a world-class team of Product Designers and Product Design Managers.
+* **Vision and direction**: Actively influence and guide the experience strategy and vision of the areas you’re assigned.
+* **Career development:** Provide coaching for those on your team to grow management/coaching skills and develop career paths using methods such as weekly [1:1s](/handbook/leadership/1-1), Individual Growth Plans, and routine Career Development check-ins.
+* **People management:**  Coach Product Design Managers on how to recognize and prevent burnout while managing performance. Impact the happiness and productivity of your team through methods such as capacity management coaching. Conduct quarterly skip-levels with your reports’ direct reports.
+* **Goal setting and performance tracking:** Define and manage [performance indicators](/handbook/engineering/ux/performance-indicators/) and [FY Directional Next Steps](/handbook/engineering/ux/#fy23-direction) for the Product Design team. Facilitate the creation and execution of Product Design [OKRs](https://about.gitlab.com/company/okrs/) in collaboration with the Product Design team and UX Leadership.
 
 ### Requirements
 
@@ -109,9 +111,9 @@ The Senior Product Design Manager is a [grade 9](/handbook/total-rewards/compens
 
 ## Director of Product Design
 
-The Director of Product Design reports to the VP of UX, and Product Design Manager and Senior Product Design Manager report to the Director of Product Design.
+The Director of Product Design reports to the VP of UX, and Product Design Manager and Senior Manager of Product Design report to the Director of Product Design.
 
-The Director of Product Design role extends the Senior Product Design Manager role.
+The Director of Product Design role extends the Senior Manager of Product Design role.
 
 ### Job Grade
 
@@ -151,7 +153,7 @@ The Director of Product Design is a [grade 10](/handbook/total-rewards/compensat
 
 ## Vice President of UX
 
-The VP of UX (User Experience) reports to the Chief Technology Officer (CTO), and Senior Managers and Directors of Product Design, UX Research, and Technical Writing report to the VP of UX. 
+The VP of UX (User Experience) reports to the Chief Technology Officer (CTO), and Directors of Product Design, UX Research, and Technical Writing report to the VP of UX. 
 
 ### Job Grade
 
