@@ -26,19 +26,24 @@ The Customer Success Skills Exchnage is a bi-weekly webinar focused on topics fo
 ## Upcoming Training
 To see what training is coming soon, view the [Customer Success Skills Exchange Issue Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538).
 
-**Q2 2022 Lineup**
+**Q3 2022 Lineup**
 
 | DATE   | TOPIC    | SPEAKERS                                       |
-|--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| 2022-07-27 | ModelOps Technical Session | Taylor McCaslin | 
-| Q3 | Sessions | Coming Soon
+|--------|--------------------------------------------------------------------------|-------------------------------------------------|  
+| 2022-08-03 | TBD | TBD | 
+| 2022-08-17 | Customer Reference Program Relaunch | Laura Clymer | 
+| 2022-09-07 | Storage, Transfer, Free User Limits | Josh Lambert | 
+| 2022-09-21 | TBD | TBD | 
+| 2022-10-05 | TBD | TBD | 
+| 2022-10-19 | Turning Customers into Contributors | Brendan O'Leary |
 
 ## Past Sessions
 <details>
 <summary markdown="span">Click here to see links to past sessions on YouTube</summary>
 
 | **Date** | **Topic** | **Public or Private** |
-| ------   | ------    | ------                |
+| ------   | ------    | ------                |                          
+| 2022-07-27 | **[ModelOps Technical Session](https://youtu.be/1SXPqTh9tnE)** | Public |  
 | 2022-06-15 | **[GitLab 15](https://youtu.be/8LR2lX_Mxd8)** | Public | 
 | 2022-06-01 | **[How to use ‘GitLab Kubernetes Agent Working Examples for Training and Demos’](https://youtu.be/RGs65Zi-Tno)** | Public | 
 | 2022-05-18 | **Canceled** | N/A |
