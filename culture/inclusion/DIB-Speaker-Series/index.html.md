@@ -7,13 +7,20 @@ canonical_path: "/company/culture/inclusion/DIB-Speaker-Series/"
 
 ## Diversity, Inclusion & Belonging Speaker Series 
 
-This is a series of Speakers, Q&As, Talk and Workshops that the Diversity, Inclusion and Belonging Team, the DIB Advisory Board or Team Member Resource Groups organise on topics of DIB. If you have an idea for a speaker please reach out to a [DIB Team Member](https://about.gitlab.com/company/culture/inclusion/#diversity-inclusion-and-belonging-team)
+This is a series of Speakers, Q&As, Talk and Workshops that the Diversity, Inclusion and Belonging Team, the DIB Advisory Board or Team Member Resource Groups organise on topics of DIB. If you have an idea for a speaker please reach out to a [DIB Team Member](https://about.gitlab.com/company/culture/inclusion/#diversity-inclusion-and-belonging-team) or submit a [DIB Speaker Engagement Issue Template](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/new#).
 
 ### Upcoming Speakers 
 
 - 
 
 ### Past Speakers and Events 
+
+- **26 of July 2022 - Joany Badenhorst**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://youtu.be/lIFhCvCIfZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 
 - 24th of June 2022 - Tyrance Billingsley 
 
