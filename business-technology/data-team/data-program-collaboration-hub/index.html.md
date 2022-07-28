@@ -19,7 +19,176 @@ description: "Data and Analytics oriented meetings, initiatives, and people"
 
 ### Data Directory
 
-*Coming Soon*
+The Data Directory is designed to provide quick access to / better organize key resources such as data documentation (ie. spreadsheets, slide decks, announcements, slack channels / conversations), tables, metrics and reports that are leveraged by business teams across our organization.
+
+**CUSTOMER SUCCESS**
+<details>
+  <summary markdown="span">About Customer Success</summary>
+  [Handbook Page](https://about.gitlab.com/handbook/customer-success/)
+  <br>
+</details>
+
+<details>
+  <summary markdown="span">Gainsight</summary>
+</details>
+
+<details>
+  <summary markdown="span">Dashboards</summary>
+</details>
+
+<details>
+  <summary markdown="span">Metrics and Datasets</summary>
+</details>
+
+**DATA / SCIENCE**
+<details>
+  <summary markdown="span">About Data Science</summary>
+  [Handbook Page](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/)
+  <br>
+</details>
+
+<details>
+  <summary markdown="span">dbt</summary>
+  [dbt Documentation](https://gitlab-data.gitlab.io/analytics/#!/overview) 
+  <br>
+</details>
+
+<details>
+  <summary markdown="span">Dashboards</summary>
+</details>
+
+<details>
+  <summary markdown="span">Metrics and Datasets</summary>
+</details>
+
+**ENGINEERING**
+<details>
+  <summary markdown="span">About Engineering</summary>
+  [Handbook Page](https://about.gitlab.com/handbook/engineering/)
+  <br>
+</details>
+
+<details>
+  <summary markdown="span">Dashboards</summary>
+</details>
+
+<details>
+  <summary markdown="span">Metrics and Datasets</summary>
+</details>
+
+**FINANCE**
+<details>
+  <summary markdown="span">About Finance</summary>
+  [Handbook Page](https://about.gitlab.com/handbook/finance/)
+  <br>
+  [Marketing Finance](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/marketing-finance/)
+  <br>
+  [R&D Finance](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/r-and-d-finance/)
+  <br>
+  [Sales Finance](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/sales-finance/)
+  <br>
+  [Data for Finance](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/sales-finance/)
+  <br>
+</details>
+
+<details>
+  <summary markdown="span">Dashboards</summary>
+</details>
+
+<details>
+  <summary markdown="span">Metrics and Datasets</summary>
+</details>
+
+**MARKETING** 
+<details>
+  <summary markdown="span">About Marketing</summary>
+  [Handbook Page](https://about.gitlab.com/handbook/marketing/)
+  <br>
+  [Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/)
+  <br>
+  [Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)
+  <br>
+  [All-Remote Marketing](https://about.gitlab.com/handbook/marketing/corporate-marketing/all-remote/)
+</details>
+
+<details>
+  <summary markdown="span">Dashboards</summary>
+</details>
+
+<details>
+  <summary markdown="span">Metrics and Datasets</summary>
+</details>
+
+**PEOPLE**
+<details>
+  <summary markdown="span">About People Analytics</summary>
+  [Handbook Page](https://about.gitlab.com/handbook/people-group/people-ops-tech-analytics/people-analytics/)
+  <br>
+  
+</details>
+
+<details>
+  <summary markdown="span">Workday</summary>
+  [Workday Guide](https://about.gitlab.com/handbook/people-group/workday/workday-guide/)
+</details>
+
+<details>
+  <summary markdown="span">Dashboards</summary>
+</details>
+
+<details>
+  <summary markdown="span">Metrics and Datasets</summary>
+</details>
+
+**PRODUCT** 
+<details>
+  <summary markdown="span">About Product</summary>
+  [Handbook Page](https://about.gitlab.com/handbook/product/)
+</details>
+
+<details>
+  <summary markdown="span">Posthog</summary>
+</details>
+
+<details>
+  <summary markdown="span">Dashboards</summary>
+</details>
+
+<details>
+  <summary markdown="span">Metrics and Datasets</summary>
+  [TD: Product Usage Data Model 2.0 - dbt and Sisense Cutover](https://docs.google.com/spreadsheets/d/1Hlv5vGO_XSSuDQl_nhCDtx_kINVTKDw1bls0YLBYkWg/edit#gid=1568303793)
+  <br>
+  [TD: Product Usage Data Model 2.0 - xMAU Reporting Readout](https://docs.google.com/presentation/d/11S-MAGqY1aWhtYX8ZXNMwYunRyyL5n1LV_sX16-r5CE/edit#slide=id.g12526ca1543_2_77)
+  <br>
+</details>
+
+**SALES**
+<details>
+  <summary markdown="span">About Sales</summary>
+  [Handbook Page](https://about.gitlab.com/handbook/sales/)
+  <br>
+</details>
+
+<details>
+  <summary markdown="span">Salesforce</summary>
+</details>
+
+<details>
+  <summary markdown="span">Dashboards</summary>
+</details>
+
+<details>
+  <summary markdown="span">Metrics and Datasets</summary>
+</details>
+
+**LEGAL & CORPORATE AFFAIRS**
+<details>
+  <summary markdown="span">About Legal & Corporate Affairs</summary>
+  [Handbook Page](https://about.gitlab.com/handbook/legal/)
+  <br>
+  [Legal Operations](https://about.gitlab.com/handbook/legal/legalops/)
+</details>
+
 
 ### Slack Channels and Meeting Cadence
 
