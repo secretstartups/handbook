@@ -10,13 +10,13 @@ This page shows information on all data subject requests that GitLab received in
 
 #### Request to Delete
 
-Requests Received:  244
+Requests Received:  140
 
-Requests Completed: 208
+Requests Completed: 55
 
-Requests Denied:     36
+Requests Denied:     85
 
-Average days to respond:  30
+Average days to respond:  22
 
 _Some requests were not completed due to various factors such as a request was not able to pass verification of identity, the request was withdrawn, or where we did not have any personal data associated with the requestor_
 
@@ -26,13 +26,13 @@ _Some requests were not completed due to various factors such as a request was n
 
 #### Request to Access Data
 
-Requests Received:   16
+Requests Received:   6
 
-Requests Completed:  16
+Requests Completed:  1
 
-Requests Denied:       0
+Requests Denied:     5
 
-Average days to respond:  30
+Average days to respond:  18
 
 ----
 
