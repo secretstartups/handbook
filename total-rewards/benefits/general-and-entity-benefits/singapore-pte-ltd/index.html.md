@@ -14,18 +14,20 @@ description: "Discover GitLab's benefits for team members in Singapore"
 
 ## Medical
 
-GitLab offers Supplementary Medical Insurance through AVIVA Health Insurance which covers 100% of team member and eligible dependents (spouse & kids) contributions of premiums for the following plans:
-
-For an outline of the plan, please review the [MyBenefits Plus Overview](https://drive.google.com/file/d/1NwdN927uEDujro6XAMJTpCrya6BMv16V/view?usp=sharing). 
-
-**Please note that Dental benefits for this plan are cashless at panel Dental Clinics only. Team Members should show their eCard at the dental clinic to utlize the plan.**
-
-Team Members an submit claims through the SingLife ClaimsConnect app. [See instructions](https://drive.google.com/file/d/1hMnxb1yurTpP9dNbpXvC2tyvfEnFny6F/view?usp=sharing) on how to use the app and submit claims.
+GitLab offers Supplementary Medical Insurance through [SingLife with AVIVA](https://singlife.com/en) Health Insurance which covers 100% of team member and eligible dependents (spouse & kids) contributions of premiums for the following plans:
 
 Policy Documents
 1. [MyBenefits Plus Group Basic Medical + Major Medical](https://drive.google.com/file/d/19zTv4QLOMN-eZnKw266IkCo76pEzGMHv/view?usp=sharing)
 2. [MyBenefits Plus Group Outpatient (GP + SP)](https://drive.google.com/file/d/1F5DNdKShKGsd4TwAEgqIpyvcXULpWL3J/view?usp=sharing)
 3. [MyBenefits Plus Group Denticare](https://drive.google.com/file/d/18B1IYPSV6_id821swmUyqA9RhoPV8qMF/view?usp=sharing)
+
+
+The updated 2022-2023 summary of these plans, effective 1 Aug 2022, will be posted shortly. 
+
+**Please note that Dental benefits for this plan are cashless at panel Dental Clinics only. Team Members should show their eCard at the dental clinic to utlize the plan.**
+
+Team Members can submit claims through the SingLife ClaimsConnect app. [See instructions](https://drive.google.com/file/d/1hMnxb1yurTpP9dNbpXvC2tyvfEnFny6F/view?usp=sharing) on how to use the app and submit claims.
+
 
 AvivaOnline IT Helpdesk Contact Information:
 - Hotline: `1800 827 9955  or 6827 9955`
@@ -33,11 +35,31 @@ AvivaOnline IT Helpdesk Contact Information:
 - Email: `avivaonline_ithelpdesk@aviva-asia.com`
 - Address: `Aviva Asia Pte Ltd, 4 Shenton Way #01-01 SGX Centre 2, Singapore 068807`
 
+
+### Letter of Guarantee (LOG)
+
+Effective 1 Aug 2022, a Letter of Guarantee (LOG) will be available for team members. 
+
+The LOG will be on a pre-certified process via 24/7 SingLife PriorityCare Hotline at 1800 8800 880. Members can reach out for pre scheduled and emergency admission/surgery in Singapore. 
+
+For pre-scheduled admission/surgery, please do request for LOG at least 3-5 days ahead of the admission date/surgery. Please see the [LOG FAQ](https://drive.google.com/file/d/1UEmuWptjUoyw2Nl5EIkEZcfpIBOPJaUx/view) for more information
+
+
+### Willis Tower Watson Claims Assistance 
+
+[Willis Tower Watson](https://www.wtwco.com/en-SG/Solutions/health-and-benefits) (WTW) is the broker for GitLab's group benefit plans and can assist members with any benefit questions or claims issues. 
+
+For any claims issues or benefits queries, please reach out to the WTW team at claims.sg@willistowerswatson.com . 
+
+For escalations, please reach out to our dedicated account manager,  Melissa Choo  melissa.choo@wtwco.com
+
+
 ### Enrollment 
 
-Team Members will be enrolled into the medical plans by Global Upside upon their start date.  
+New Team Members will be prompted to fill out a Singapore Benefits Onboarding Form during onboarding. 
+Once completed, the Total Rewards team will receive the form and will work with our broker,  Willis Tower Watson, to enroll team members into the group plans.  
 
-Team Members who experience a qualified status change can update their information by sending an email to Global Upside at benefitsops@globalupside.com.
+Team Members who experience a qualified status change can update their information by sending an email to the Total Rewards Team at total-rewards@gitlab.com 
 
 When adding a new dependent to the plan, please include the following information in your request to Global Upside:
 * Dependent Name
@@ -50,9 +72,13 @@ When adding a new dependent to the plan, please include the following informatio
 
 GitLab does not plan to offer a supplementary private pension benefit at this time as Singapore has their Pension system called as [Central Provident Fund](https://www.cpf.gov.sg/members)
 
-## Life Insurance and Disability
+## Life Insurance 
 
-GitLab offers company paid [Group Term Life](https://drive.google.com/file/d/1yffWuxwXD_GGzs2MCbA9xgAbgAb4JC3S/view?usp=sharing) and [Group Personal Accident](https://drive.google.com/file/d/1h2DrjLvlpC3nhwMCuUwvmyR3MXSDSnvG/view?usp=sharing) through AVIVA. This covers Life Insurance and Accidental Death & Accidental Dismemberment.
+GitLab offers company paid [Group Term Life](https://drive.google.com/file/d/1yffWuxwXD_GGzs2MCbA9xgAbgAb4JC3S/view?usp=sharing) through SingLife with AVIVA. Coverage is sum insured $500,000 SGD per member.  
+
+## Group Personal Accident Insurance
+
+As of 1 Aug 2022, the Group Personal Accident plans will be covered by [Zurich](https://www.zurich.com/). Coverage is sum insured $500,000 SGD per member. Under the Zurich Personal Accident coverage, team members will also recieve extended benefits including ambulance cost coverage, emergency travel expenses, trauma counseling, and more. Benefit Summary documents will be posted shortly. 
 
 ## GitLab Singapore Pte Ltd Parental Leave
 
