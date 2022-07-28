@@ -334,7 +334,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday September 6 | Marketing | Marketing Leadership | August 25 |
 | Wednesday September 7 | **Available** | | Key Review Date? |
 | Thursday September 8 | Product | Product Leadership | September 1 |
-| Tuesday September 13 | Security | Johnathan Hunt | August 30 |
+| Tuesday September 13 | **Available** |  |  |
 | Wednesday September 14 | **Available** | | Key Review Date? |
 | Thursday September 15 | **Available** | |  |
 | Tuesday September 20 | CosT  | Stella Treas | N/A |
