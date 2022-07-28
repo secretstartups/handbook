@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Enterprise Data Fusion Handbook"
-description: "GitLab Enterprise Data Fusion Team Handbook"
+title: "Enterprise Data Handbook"
+description: "GitLab Enterprise Data Team Handbook"
 ---
 
 ## On this page 
@@ -14,7 +14,7 @@ description: "GitLab Enterprise Data Fusion Team Handbook"
 
 ----
 
-# Enterprise Data Fusion at GitLab
+# Enterprise Data at GitLab
 
 ## Mission
 
@@ -30,9 +30,9 @@ To collaborate with the business units and data teams in establishing and facili
 
 At GitLab we are [Handbook First](/handbook/handbook-usage/#why-handbook-first) and promote this concept by ensuring the enterprise data team page remains updated with the most accurate information regarding enterprise data objectives, processes, and projects. We also strive to keep the handbook updated with useful resources and our enterprise data toolset. 
 
-## Enterprise Data Fusion Responsibilities 
+## Enterprise Data Responsibilities 
 
-Of the [Data Team's Responsibilities](/handbook/business-technology/data-team/#responsibilities), the Enterprise Data Fusion Team is responsible for:
+Of the [Data Team's Responsibilities](/handbook/business-technology/data-team/#responsibilities), the Enterprise Data Team is responsible for:
 
 - Being a **_Center of Excellence_** for [Data Management processes](https://about.gitlab.com/handbook/business-technology/data-team/data-management/)
 - Provide direction and support to the Data Modeling Project teams to develop architecture and implement dimensional model designs by following [Modeling Development process](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/#modeling-development-process) 
@@ -42,7 +42,7 @@ Of the [Data Team's Responsibilities](/handbook/business-technology/data-team/#r
 -  Continue to work towards adding more content to [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#data-catalog) for business users that synthesizes details about data assets across multiple data sources by organizing them into an easy to digest form
 - Creating Definitive Guide Handbook pages on various topics of interest for business and technical audience
 
-Additionally, the `Enterprise Data Fusion Team` partners with the `Data Platform` & other `Data Teams` to Scope, Assist and Support a [Data Management strategy](https://lucid.app/lucidchart/3d662a2c-0025-40eb-a507-07ad21d11214/edit?beaconFlowId=795ADBEB78311025&invitationId=inv_cc970528-711f-44e1-8086-47d450d4400d&page=0_0#) that directly impacts data across various subject areas.  These areas of responsibility include:
+Additionally, the `Enterprise Data Team` partners with the `Data Platform` & other `Data Teams` to Scope, Assist and Support a [Data Management strategy](https://lucid.app/lucidchart/3d662a2c-0025-40eb-a507-07ad21d11214/edit?beaconFlowId=795ADBEB78311025&invitationId=inv_cc970528-711f-44e1-8086-47d450d4400d&page=0_0#) that directly impacts data across various subject areas.  These areas of responsibility include:
 
   - **Data Storage & Integration**
     - `Archival processes`
