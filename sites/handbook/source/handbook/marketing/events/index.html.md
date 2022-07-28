@@ -702,14 +702,16 @@ For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
 1. Proceed to fill in all required information including: 
     * Event title
     * Event description (optional)
-1. Proceed to fill in all required information you'd like to collect from participants, such as:
+1. Proceed to fill in all required information you'd like to collect from participants. If you are using the QR code for lead collecting purposes, please include the following fields (remember to make all fields mandatory):
     * First Name
     * Last Name
     * Email Address
-    * Phone Number
+    * Phone Number (optional)
     * Title
     * Company
-    * Etc. 
+    * Country
+    * State/Province for US and Canada only (if you are not located in the US or Canada, please respond with n/a)
+1. If you are collecting addresses for a swag or raffle send, please make sure to add the following verbiage to your form - `By giving us your address, you are giving us permission to mail items to your home or office. We will not use this data for any other purposes.`
 1. Integrate your Google Form with your planning spreadsheet 
     * With an established Planning Spreadsheet for your event (preferred method)
       * Navigate to the `responses` tab of your Google form
