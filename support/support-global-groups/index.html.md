@@ -102,7 +102,7 @@ group. <<<<<<<<**
 - Delivering timely and meaningful updates on all tickets assigned to the
   group, resulting in high quality resolutions
 - Working together to fulfill the group's responsibility to manage and resolve
-  well all tickets that are assigned to the group. This includes things like:
+  all tickets that are assigned to the group. This includes things like:
   - monitoring the view and distributing the tickets
   - maintaining progress on tickets when the assignee is unavailable
   - reaching out to managers or other groups when help is needed to fulfill
@@ -111,6 +111,10 @@ group. <<<<<<<<**
 - All group members participating on a daily basis in supporting the rest of
   the group by sharing knowledge, assisting on tickets, and contributing to
   group process development and improvement
+- Recognizing and seeking additional help from managers and other groups when capacity is at risk due to OOO, on-call, or increased work loads. Suggestions include:
+  - Strategizing as a group ahead of time (if you see capacity is at risk)
+  - Asking for manager help in the #spt_gg_forest Slack channel
+  - Initiating a [branch out session](https://about.gitlab.com/handbook/support/support-global-groups/branch-out-sessions.html) to ask other groups for help
 - All group members participating in onboarding new group members
   to ensure that newcomers feel comfortable asking questions. 
   The group can decide how they want to approach it. 
@@ -158,7 +162,7 @@ deciding which of them to do first.
    - docs updates
    - issue creation or contributions
    - training
-1. Help on tickets outside of FlexiPods and assigned to other groups
+1. Help on tickets outside of FlexiPods and assigned to other groups (Seniors may recognize if other groups are struggling and can decide if a group has the capacity to help)
 
 #### Maximizing group success
 
@@ -186,7 +190,7 @@ SGG we have the benefit of both working in a small familiar group
 and of the broad experience and expertise of our full global team.
 Flexipods is one example of cross-group collaboration, some others are:
 - pairing sessions
-- crush sessions
+- crush sessions (including [branch out sessions](https://about.gitlab.com/handbook/support/support-global-groups/branch-out-sessions.html))
 - sharing questions to a broader audience in #support_gitlab-com and
   #support_self-managed and #support_team-chat
 
