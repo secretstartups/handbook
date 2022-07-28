@@ -22,20 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### July 2022
 
-### GitLab CI/CD Avanzado
-#### July 26th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
-
-Amplíe su conocimiento de CI/CD mientras cubrimos temas avanzados que acelerarán su eficiencia usando GitLab, como pipelines, variables, reglas, artefactos y más. Esta sesión está destinada a aquellos que han usado CI/CD en el pasado.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Ia80YgP0T1iaqvH-GO2ZxQ)
-
-### DevSecOps Compliance
-#### July 27th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_yaWRAAsrQ3KIfMfClf4tKw)
-
 ### DevSecOps con GitLab
 #### July 28th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
 
