@@ -66,7 +66,10 @@ Development
 
 ### Team Roles
 
-*Coming soon*
+- Lead: The primary DRI for a project. Responsible for planning, communication and outreach.
+- Analyst: Conduct analysis, build dashboards, and system admin.
+
+Note: roles aren't static and members of the team will be in different roles for different products.
 
 ### Data Analytics Tools
 
