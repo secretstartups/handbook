@@ -245,6 +245,59 @@ As a Customer Advocacy Product Marketer, you will identify, activate, and amplif
 * Own internal advocacy efforts by cultivating and promoting champions; this includes embracing an “always-on” advocacy methodology that highlights the importance of customer references, a definition of internal economic/non-economic incentives and recognition programs for surfacing stories.
 * Leverage customer advocacy insights and lessons learned in relation to Gitlab’s marketing plan and deliverables to influence the overall product marketing strategy and roadmap.
 
+### Analyst Relations 
+
+As a Analyst Relations Product Marketer, you will design, execute, and manage GitLab's overall industry analyst, influencer, and thought leader strategy and plan.
+The Analyst Relations Product Marketer will create, nurture, and manage positive relationships with industry analysts, industry influencers, and thought leaders, serving as a key, centralized contact point and connector. Additional, this role will establish and maintain regular communication with analysts and influencers via multiple channels which you will develop to engage and educate these communities on GitLab strategy, roadmap and product updates.
+
+#### Requirements
+* Strong analytical skills and proven ability to use data to optimize program performance and inform future strategies.
+* Plan and operate in a transparent manner for cross-organizational visibility and be a leader in sharing best practices 
+* Prior experience working with industry analysts and influencers in B2B enterprise software and services required.
+* Specific, significant experience in an industry Analyst Relations role in enterprise software a plus.
+* Understanding of how to build and maintain relationships with key influencers, leading industry analysts, and analyst firms.
+* Prior, significant experience working with senior executives a plus.
+* Prior experience negotiating contracts with Industry Analyst firms a plus.
+* Excellent project and time management skills.
+* Excellent written and verbal communications skills.
+* Self-starter with a strong sense of ownership.
+* Able to prioritize in a complex, fast-paced and lean organization.
+* Passion for contributing to a world class program and desire to own and refine key operational processes.
+
+#### Responsibilities
+* Contribute to the GitLab worldwide analyst relations program, working cross-functionally between sales, product and marketing teams to maximize program impact.
+* Ensure all analysts and influencer advice informs all applicable business activities and that analyst/influencer/thought leader publications and/or other interactions mentioning GitLab are leveraged appropriately to help build market awareness, increase lead generation effectiveness, and simplify selling.
+* Plan, schedule, and manage analyst/influencer program activities such as participation in analyst research, conferences, advisory days, briefings, inquiries, and reporting.
+* Schedule briefings, inquiries, demos and advisory days with key analysts and influencers, GitLab customers, and GitLab executives.
+* Prioritize and manage incoming analyst requests for information, research support, research review, customer references, and event speakers.
+Respond to, serve, and manage internal requests for Industry Analyst/Influencer/
+* Thought Leader interactions, publications, research, event support, and other requests as needed.
+* Negotiate, secure, and manage contracts and related services ensuring they support both strategic and tactical, near term and future requirements. Ensure that contracted services are fully utilized.
+Support the GitLab reference program, market research activities, and serve as a program manager for the GitLab Thought Leadership Advisory Board.
+
+
+#### Senior Responsibilities
+* Extends that of the Analyst Relations Manager responsibilities
+* Be a leader in working cross-functionally to drive the execution of analyst relations plans, aligning with other areas of marketing.
+* Driving negotiations with industry analyst and related firms to consistently optimize spend.
+* Be willing to act as a Senior leader on the Market Insights team, mentoring and guiding Analyst Relations Managers.
+* Be a leader in building and driving process within the Market Insights team.
+
+#### Staff Responsibilities
+* Extends that of the Senior Analyst Relations Manager responsibilities
+* 10+ years specific, significant experience in an industry Analyst Relations role in enterprise software.
+* Ability to easily transition from high level strategic thinking to creative and detailed execution.
+* Excellent communicator with proven ability to clearly convey ideas and data in written and verbal presentations to a variety of audiences.
+* Ability and interest to design, build, implement, and use data-driven mechanisms to simplify and speed decision making regarding analyst relations activities.
+
+#### Principal Responsibilities
+* Extends that of the Staff Analyst Relations Manager responsibilities
+* Recruit, coach and mentor Analyst Relations team members to live our values.
+* In collaboration with the Director, Product Marketing: define team direction, identify staffing needs for scale, ensure team members are effective, own the quality, effectiveness and performance of the Analyst Relations team results.
+* Measure and improve the happiness and productivity of the team.
+
+
+
 ### Partner and Channel Marketing
 
 As the Partner Product Marketing Manager, you will work with our marketing, business development and sales teams, to develop and execute global go-to-market strategies and programs to drive customer acquisition and revenue growth for GitLab. Reporting to the Director, Product Marketing, you will have a global charter to enable partners and resellers within our growing partner and channel ecosystems. In addition, you’ll be responsible for crafting and implementing co-marketing campaigns targeting developers and IT professionals, to increase awareness and adoption of GitLab. You will work to shape go-to-market messaging and strategy for new offerings with partners and work with partners and resellers to build an effective and scalable ecosystem.
