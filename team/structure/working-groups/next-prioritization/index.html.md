@@ -86,7 +86,7 @@ The process is [documented](/handbook/engineering/cross-functional-prioritizatio
 * Tag (at minimum) all potentially interested working group functional leads and when there is impact to product `gl-product-leadership` in all merge requests to solicit feedback.
 * Wait two business days for feedback before merging.
 * Announce all merge requests in the working group slack channel and/or in the standup meeting for working group awareness.
-* Announce all big changes and status updates in the `#product` `#vp-development` `#ux-leaders` `#quality-leaders` `#eng-managers` slack channels, and in the weekly engineering work in review document.
+* Announce all big changes and status updates in the `#product` `#vp-development` `#ux_managers` `#quality-leaders` `#eng-managers` slack channels, and in the weekly engineering work in review document.
 * Add the `wg-next-prioritization` label to all issues and merge requests so they can be tracked
 * Add milestone so PM operations can serve up a filter by label/milestone
 * Summarize changes for PM and other quad groups (sourced using the label search and/or milestone) every ~two weeks.
