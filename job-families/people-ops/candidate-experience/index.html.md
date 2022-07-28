@@ -113,7 +113,6 @@ The next step in the Candidate Experience job family is to move to the [Recruite
 *   [Time to Offer Accept](/handbook/hiring/metrics/#time-to-offer-accept-days)
 *   [CES Service Desk Issues Response Time and Issue Distribution](/handbook/hiring/metrics/#ces-service-desk-metrics)
 *   [CES Response Time](/handbook/hiring/metrics/#ces-service-desk-metrics)
-*   [Candidate Time Per Stage](/handbook/hiring/performance_indicators/#candidate-time-per-stage)
 
 ## Hiring Process
 
