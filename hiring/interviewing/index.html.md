@@ -21,7 +21,7 @@ To learn more about what's it like to work at GitLab, please visit our [Jobs FAQ
 <details open="open">
 <summary markdown="span">Average Time to Hire</summary>
 
-We strive to be as expeditious as possible in our hiring process. However, the speed of the process can and does vary. To see our historical and recent trends related to time-to-hire, please view the [Time to Offer Accept (Days)](https://about.gitlab.com/handbook/hiring/performance_indicators/#time-to-offer-accept-days) chart on the **Talent Acquisition Performance Indicators** page.
+We strive to be as expeditious as possible in our hiring process. However, the speed of the process can and does vary.
 
 To note, this metric is calculated by taking the number of days it takes from the time a candidate starts the recruitment process to when they accept an offer.
 
