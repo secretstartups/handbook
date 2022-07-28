@@ -342,33 +342,32 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday September 22 | Infrastructure | Steve Loyd | September 14 |
 | Tuesday September 27 | CRO | Mike Pyle | N/A|
 | Wednesday September 28 | Support | Tom Cooney| September 14 |
-| Thursday September 29 | **Available** | | Key Review Date? |
-| Tuesday October 4 | **Available** | | Key Review Date? |
+| Thursday September 29 | MECC AMA | Darren Murph | N/A |
+| Tuesday October 4 | Finance | Brian Robbins | September 27 |
 | Wednesday October 5 | Quality | Mek Stittri | September 22 |
 | Thursday October 6 | Development | Christopher Lefelhocz | September 28 |
-| Tuesday October 11 | Available | | Key Review Date? |
-| Wednesday October 12 | Available | | Key Review Date? |
-| Thursday October 13 | Available | | Key Review Date? |
-| Tuesday October 18 | Available | | Key Review Date? |
+| Tuesday October 11 | **Available** | | Key Review Date? |
+| Wednesday October 12 | **Available** | | Key Review Date? |
+| Thursday October 13 | CRO Group Conversation | CRO Leadership | N/A |
+| Tuesday October 18 | Product | Product Leadership | October 13 |
 | Wednesday October 19  | UX | Christie Lenneville | N/A |
 | Thursday Oct 20 | People | People Leadership | Oct 12 |
-| Tuesday October 25 | Available | | Key Review Date? |
-| Wednesday October 26  | Available | | Key Review Date? |
+| Tuesday October 25 | Revenue Marketing | JB Larramendy | N/A |
+| Wednesday October 26  | Alliances | Nima Badiey | N/A |
 | Thursday October 27 | Marketing | Marketing Leadership | October 13 |
-| Tuesday November 1 | Available | | Key Review Date? |
-| Wednesday November 2 | Available | | Key Review Date? |
+| Tuesday November 1 | **Available** | | Key Review Date? |
+| Wednesday November 2 | **Available** | | Key Review Date? |
 | Thursday November 3 | Security | Johnathan Hunt | October 25 |
 | Tuesday November 8 | Infrastructure | Steve Loyd | October 27 |
 | Wednesday November 9 | Support | Tom Cooney | October 26 |
-| Thursday November 10 | Available | | Key Review Date? |
-| Tuesday November 15 | Available | | Key Review Date? |
-| Wednesday November 16  | Available | | Key Review Date? |
-| Thursday November 17 | Available | | Key Review Date? |
-| Tuesday November 22 | Available | | Key Review Date? |
-| Wednesday November 23 | Available | | Key Review Date? |
-| Thursday November 24 | Available | | Key Review Date? |
+| Thursday November 10 | **Available** | | Key Review Date? |
+| Tuesday November 15 | **Available** | | Key Review Date? |
+| Wednesday November 16  | **Available** | | Key Review Date? |
+| Thursday November 17 | **Available** | | Key Review Date? |
+| Tuesday November 22 | **Available** | | Key Review Date? |
+| Wednesday November 23 | **Available** | | Key Review Date? |
+| Thursday November 24 | **Available** | | Key Review Date? |
 | Wednesday Nov 30 | People | People Leadership | Nov 10 | 
-| Thursday December 1 | Available | | Key Review Date? |
 
 ## Examples of Past Group Conversations
 
