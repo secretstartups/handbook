@@ -36,8 +36,8 @@ This working group is charged with rolling forward from the emergency "Engineeri
 
 - [x] Name the new process (DONE "cross-functional prioritization) [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274)
 - [x] All groups have dashboards that they can use to analyze merged MR ratio of features, maintenance, bugs and undefined. [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13448)
-- [ ] Type:Undefined Issues are driven down to near zero
-- [ ] Type:Undefined MRs are driven down to near zero
+- [ ] Type:Undefined Issues are driven down to near zero [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13760)
+- [ ] Type:Undefined MRs are driven down to near zero [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13759)
 - [ ] Subtypes label are defined and implemented [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13650)
 - [ ] Subtype:Undefined Issues are driven down to near zero
 - [ ] Subtype:Undefined MRs are driven down to near zero
