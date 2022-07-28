@@ -395,6 +395,11 @@ If a security vulnerability introduced a bug, in most cases, the appropriate pat
 
 If a security vulnerability introduced a high severity bug, engage with AppSec and release managers to coordinate next steps. 
 
+### How can I determine if a post-deploy migration has been executed?
+
+See [this](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/post_deploy_migration/readme.md#how-to-determine-if-a-post-deploy-migration-has-been-executed-on-gitlabcom)
+guide for more information.
+
 ___________
 
 If you need any additional help please ask the Release Managers in the [#releases] Slack channel.
