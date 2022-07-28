@@ -18,7 +18,7 @@ The Chief of Staff to the CEO is a [grade 12](/handbook/total-rewards/compensati
 
 ## Responsibilities
 
-The responsibilities include both directed work that will mostly be triggered by a direction from the CEO as well as leadership work that is self-directed. Over the course of a rotation, the mix will shift from majority directed work to majority leadership work.
+The responsibilities include both directed work that will mostly be triggered by a direction from the CEO as well as leadership work that is self-directed. The mix will shift from majority directed work to majority leadership work.
 
 ### Directed Work
 
@@ -71,14 +71,6 @@ The responsibilities include both directed work that will mostly be triggered by
 ### Preferred Requirements
 
 1. Knows how to use git.
-
-## Rotation
-Rotation is 24 to 36 months with the following tentative schedule:
-
-   - 2-3 months of onboarding,
-   - 18 months of execution,
-   - 1 - 4 months of recruiting your replacement and waiting for them to start,
-   - 2 - 3 months of onboarding your replacement and interviewing at GitLab for senior leadership positions.
 
 ## Risks
 The Chief of Staff to the CEO will be asked to undertake small, tactical tasks as part of the role. This could lead to them becoming frustrated by feeling that they are being micro-managed. They should feel empowered to delegate or refuse these tasks.
