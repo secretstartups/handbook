@@ -15,7 +15,9 @@ description: How to use the mechanizer for L&R requests.
 
 ## Overview
 
-This workflow details how to use the various automated forms that utilize the [Mechanizer](https://gitlab.com/gitlab-com/support/toolbox/mechanizer) for GitLab.com account related tasks.  The forms may be found in [hosted on Gitlab Pages here](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/) and team members should have access.
+This workflow details how to use the Zendesk App that utilizes the [Mechanizer](https://gitlab.com/gitlab-com/support/toolbox/mechanizer) to automate CustomersDot console related tasks.
+
+
 
 <div class="panel panel-gitlab-orange">
 **Mechanizer Deprecation Notice**
@@ -30,24 +32,30 @@ You can follow the progress of this migration in [this epic](https://gitlab.com/
 
 ## Existing Automations
 
-### Add CI Minutes
+The new ZD app can be found by opening the ZD App side bar, you will need to scroll down as it is the last app.
+In the app you will have the option to select from the following request types:
 
-The [Add CI Minutes form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/extra_minutes.html) allows adding minutes to a customer namespace. The form has two required fields:
+#### Note
+
+**Your GitLab Username** will be automatically added to the form.
+
+### Set CI Minutes to namespace
+
+Allows setting additional minutes to a customer namespace to the value specified in the `Extra minutes` field. The form has two required fields:
 
 - **Namespace**: The customer namespace as it appears in the URL.
 - **Extra minutes**: The number of minutes to add
 
 ### Force Associate
 
-The [Force Associate form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html) associates a group with a subscription. All fields are required.
+Associates a group with a subscription. All fields are required.
 
-- **Your GitLab Username**: Your non-admin GitLab.com username without a preceding @ (ex. `username` and not `@username`).
 - **Namespace**: The customer namespace as it appears in the URL.
 - **Subscription ID**: The unique ID of the purchased subscription in Salesforce
 
 ### Update GitLab Subscription or Customer Trial
 
-The [Update Plan](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html) form is meant for the following cases:
+Manages subscriptions and trials, you can use it for the following cases.
 
 1. Downgrade to Free
 1. Trials
@@ -58,9 +66,8 @@ The [Update Plan](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/L
 
 Please note that in order to extend or renew a trial, the customer **MUST** have an active trial because a CustomersDot account needs to exist.  If the prospect has not yet initiated a trial themselves, please have them do so via the [customers portal](https://customers.gitlab.com/trials/new?gl_com=true).
 
-These three fields are mandatory:
+These two  fields are mandatory:
 
-- **Your GitLab Username**: Your non-admin GitLab.com username without a preceding @ (meaning `username` and not `@username`).
 - **Namespace**: The customer's namespace as it appears in the URL.  For example, if the customer namespace is located at http://gitlab.com/gitlab-com then the namespace would be `gitlab-com`. Please confirm through your own observation and through communication with Sales, the TAM, or the customer that the namespace is the one with the subscription or trial to be updated.
 - **Plan**: The subscription plan that you would like applied for the customer's group.  If the `free` option is selected, the customer's namespace will immediately be downgraded and the trial or subscription ended.
 
@@ -74,7 +81,33 @@ Required to "extend" a subscription:
 - **Subscription name**: The name of the existing (active or expired) subscription tied to the namespace.
 
 ### Clear Subscription
-The [Clear Subscription](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) form unlinks a group from a subscription.
+Unlink a group from a subscription. Note: The group will be downgraded to Free if the subscription being unlinked is a Premium or Ultimate subscription or trial.
 
-- **Your GitLab Username**: Your non-admin GitLab.com username without a preceding @ (ex. `username` and not `@username`).
-- **Extra minutes**: The number of minutes to add
+- **Subscription name:** The subscription to be removed from a namespace.
+
+### Emergency license generation
+
+Generates a legacy Ultimate trial license valid for 10 days and emails it to the customer email specified in the form.
+The use of this feature should be limited for any emergency license request during the weekends. 
+
+- **Customer email:** The email where the license will be sent.
+- **User count:** Total number of users in the license.
+
+### Add storage to a namespace
+
+Sets additional storage for a namespace to the value specified in the `Extra storage (MiB)` field
+
+- **Namespace:** The customer namespace as it appears in the URL.
+- **Extra storage (MiB):** Additional space to add in MB
+
+### Set max seats
+
+Modifies the total number of seats in a SaaS subscription.
+
+#### Note
+This will change the total seats in the GitLab.com subscription, but the existing order will have the original value. Before using this option check with a support manager.
+
+- **Namespace:** The customer namespace as it appears in the URL.
+- **Max Seats number:** New value for max seats.
+
+
