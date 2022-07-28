@@ -54,9 +54,6 @@ This performance indicator tracks the growth of the knowledge base across teams.
 This performance indicator is tracked by several metrics including: Infrastructure Cost vs Plan and Hiring Cost vs Plan. This PI is to track the financial position of all the team cost vs. the budget set by the team.
 
 **Aligns with the following core business objectives**:
-
-- [Hires vs Plan](/handbook/hiring/performance_indicators/#hires-vs-plan)
-
 ### Discretionary bonus per employee per month > 0.1
 
 **Aligns with the following core business objectives**:
