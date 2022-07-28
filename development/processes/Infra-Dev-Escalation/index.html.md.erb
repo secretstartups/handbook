@@ -71,11 +71,7 @@ The reasons for doing this:
 
 **Q: Can we make scheduling “smart” and dynamically page the engineer who’s in regular working hours?**
 
-**A:** Brilliant idea and certainly interesting to investigate. It may require tooling development.
-
-On the other hand, this approach introduces uncertainties in practice, which may potentially cause things falling into cracks. For example, the engineer paged by the bot is not prepared for such duty and may be out to lunch or running short errands not marked on the calendar, etc. Unless it is required to block the calendar for any AFK even if it’s only 5~10 minutes, it will be challenging to make this approach accountable.
-
-That being said, it’s an excellent idea and we can certainly experiment once the smart solution is developed.
+**A:** Yes. During regular weekdays we use [Pagerslack](https://gitlab.com/jameslopez/pagerslack) to  page engineers based on who is online in Slack.  During the weekends/holidays we still need the spreadsheet as most do not regularly work on the weekends.
 
 **Q: Can we make it volunteer based?**
 
@@ -84,11 +80,7 @@ That being said, it’s an excellent idea and we can certainly experiment once t
   * If ALL volunteers are called upfront, what if this ends up with a very small group?
   * If volunteers are called dynamically e.g. before next rotation or month, there is ongoing administrative overhead and things can fall into cracks easily. What if no volunteer for a specific week? What if it ends up with always the same small group of people?
 
-For this iteration, we are not going to use volunteer based model.
-
-**Q: Can we page dynamically based on presence in Slack?**
-
-**A**: This is being experimented with during the week in September and October of 2020.  During the weekends we still need the spreadsheet as most do not regularly work on the weekends.
+For weekends and holidays, we currently use a volunteer first model, and unfilled shifts are assigned. We encourage engineers to volunteer for shifts so they have more control over their schedule. 
 
 **Q: What if the paged engineer doesn’t carry domain expertise?**
 
@@ -100,9 +92,9 @@ An alternative was reviewed, e.g. having domain experts on-call in a similar way
 
 **A:** Given the fact that most of the recent issues require backend knowledge, only Backend Engineers will be involved in the first iteration. Long term, Frontend Engineers may get involved after the process is tuned and issue pattern is well understood.
 
-**Q: Why are engineers outside of the Development Department excluded from the rota?**
+**Q: Why are engineers outside of the Development Department excluded from the rotation?**
 
-**A:** The rota is intended to provide access to engineers that are directly involved with product development to stand behind the products that we deliver.
+**A:** The rotation is intended to provide access to engineers that are directly involved with product development to stand behind the products that we deliver.
 Engineers in other departments have different responsibilities. For example, those in Infrastructure must focus on the scaling and reliability aspects of
 GitLab.com, since part of their job description is to work towards achieving GitLab.com SLOs. And those in Engineering Productivity are focused on providing
 tooling, and this is somewhat removed from product development.
@@ -118,7 +110,7 @@ Usually, the infrastructure team plays the first defense role on the frontline. 
 
 **Q: What if my local law restricts or prohibits on-call duty?**
 
-**A:** All are encouraged to share their local law and regulation information with their manager and will not be scheduled until further clarification is obtained should there be any concern or ambiguity of the local law and regulation. Engineering leadership team will also work with Legal and PeopleOps to obtain clarification with regard to this.
+**A:** All are encouraged to share their local law and regulation information with their manager and will not be scheduled until further clarification is obtained should there be any concern or ambiguity of the local law and regulation. Engineering leadership team will also work with Legal and PeopleOps to obtain clarification with regard to this. We maintain a list of rules in a [Google Doc](https://drive.google.com/drive/search?q=%22Additional%20Notes%20for%20Weekend%20Shifts%22). 
 
 **Q: Did we consider using PagerDuty?**
 
@@ -161,10 +153,6 @@ Mute all other channels but the escalation channel during a specific time period
 **Q: Isn’t this more about discipline of seeing incidents through to resolution, not just how quickly we respond to them? It feels the on-call process addresses the latter, but not former.**
 
 **A:** It’s actually both and we are working to address both.  We have also added a Infra/Dev issue board to track concerns to see through to resolution and make sure we have the right priority and severity on them.  It’s likely that oncall escalations will end up with follow on items for [this board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=gitlab.com&label_name[]=infradev). [This page](/handbook/engineering/development/#continuous-delivery-and-infrastructure-collaboration) gives the description.
-
-**Q: If we have an alternative suggestion, should we put together an MR in the same location as the current location? When are you looking to conclude on this? (How long have we got to propose an alternative)?**
-
-**A:**	We are looking to conclude this MR by August 2nd.  Depending on how different the alternative is, we’ll need visibility by end of the week (July 26).  The recommendation is to put together an MR to target the same location.  If you think the MR is an enhancement, then suggest it as a MR to the current MR.
 
 **Q: How should the infrastructure member make international calls to page engineers?**
 
