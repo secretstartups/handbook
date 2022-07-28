@@ -324,7 +324,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday August 11 | Infrastructure | Steve Loyd | August 3|
 | Tuesday August 16 | Support | Tom Cooney | August 3 |
 | Wednesday August 17 | Security | Johnathan Hunt | N/A |
-| Thursday August 18 | UX | Christie Lenneville | N/A |
+| Thursday August 18 | **Available** || N/A |
 | Tuesday August 23 | Quality | Mek Stittri | August 3 |
 | Wednesday August 24 | Product | Product Leadership | N/A |
 | Thursday August 25 | People | People Leadership | August 18th |
@@ -336,7 +336,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday September 8 | Product | Product Leadership | September 1 |
 | Tuesday September 13 | Security | Johnathan Hunt | August 30 |
 | Wednesday September 14 | **Available** | | Key Review Date? |
-| Thursday September 15 | Support | Tom Cooney |  |
+| Thursday September 15 | **Available** | |  |
 | Tuesday September 20 | CosT  | Stella Treas | N/A |
 | Wednesday September 21 | General (CEO) | Sid Sijbrandij | N/A |
 | Thursday September 22 | Infrastructure | Steve Loyd | September 14 |
