@@ -16,7 +16,12 @@ description: "SiSense Style Guide"
 
 ### KPI Charts
 
-`under construction`
+1. Create a new chart. 
+1. Change the `Series Settings` in the right hand pane to `Number Overlay`
+1. Under `Fields`, set `periscope_index` as the X Axis
+1. Set the field you want to display as the Y Axis
+1. Under `Series`, make sure one of the boxes is checked
+1. To change the font size and number formatting, click on the `Chart Format` button on the right, then check the corresponding boxes.
 
 ### Filterable Reports
 
