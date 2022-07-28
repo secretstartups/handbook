@@ -79,7 +79,7 @@ Our dynamic analysis testing group works primarily as 3 sub-teams, a DAST team(G
 
 The DAST analyzer we build relies heavily on OWASP's [ZAP](https://github.com/zaproxy/zaproxy) open source software and [ZAP Extensions](https://github.com/zaproxy/zap-extensions). This means the accuracy and quality of the DAST analyzer is impacted by the quality of the underlying OSS.
 
-We [monitor the underlying tools](https://gitlab.com/groups/gitlab-org/security-products/analyzers/zap/-/security/dashboard) for changes and for vulnerabilities.
+We [monitor the underlying tools](https://gitlab.com/gitlab-org/security-products/dependencies/zaproxy/-/security/dashboard) for changes and for vulnerabilities.
 
 ZAProxy and ZAP Extensions do not have significant test coverage and therefore changes in those tools could impact DAST in unexpected ways. Since our expectation is that customers run
 DAST in a CI environment and stability and security is of utmost importance, we do not necessarily ship the latest ZAP build. We actively review the ZAP changelog and evaluate whether
