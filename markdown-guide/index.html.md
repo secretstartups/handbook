@@ -2168,12 +2168,14 @@ markdown to not render correctly.
 In case you don't have a choice and need to import a text already written in a text editor, paste it
 to your markdown file using **command+shift+V** on a Mac, or **control+shift+V** on Windows or Linux.
 You might minimize the cause of trouble by pasting without format. But yet, is not guaranteed it
-is going to work, so double check your HTML output.
+is going to work, so double check your output.
+
+If the document was in Google Docs, you can install the [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607) add-on, which helps convert the Google Docs to markdown. You'll likely need to make minor updates or edits to the markdown that the add-on generates.
 
 _Editors Available on GitLab.com_
 
-- Web IDE
-- GitLab's raw code editor
+- [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/)
+- [Web Editor](https://docs.gitlab.com/ee/user/project/repository/web_editor.html)
 
 _Regular Code Editors_
 
@@ -2183,20 +2185,20 @@ _Regular Code Editors_
 
 _Markdown editors (type and preview simultaneously)_
 
-- Markdown editors for Mac: [Mou], [iA Writer]
+- Markdown editors for Mac: [MacDown], [iA Writer]
 - In-browser markdown editor: [StackEdit]
+- [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
-If you're not used to writing markdown, those editors can be helpful. Check a screenshot below of a
-file being edited on Mou. On your left, there's the markdown markup you're writing, and on your right,
-a preview of the output. The preview won't be exactly as the final result, but it's a very good
-approximation, which gives you a good idea on what you're doing while you type.
-
-![Mou for Mac - screenshot of markdown doc write and preview][mou-screenshot]
+If you're not used to writing markdown, these editors can be helpful. Many editors offer realtime previews and while these previews may not be exactly the same as the final result they can be a very good approximation, which gives you a good idea of what the output will be while you type.
 
 [StackEdit] is awesome too, you can work on a markdown file even if you're away from your computer,
 or out of resources. It works from every major browser and automatically saves your work to Google Drive.
 
-Other [useful Makrdown tools](/handbook/tools-and-tips/other-apps/#working-with-markdown) are also available.
+Do you want a simple way of copying a hyperlink title and address in markdown? The [Format Link](https://chrome.google.com/webstore/detail/format-link/pocemhmkmchpgamlnocemnbhlcjcbjgg) extension offers a quick and easy way to do this, along with allowing you to customize any number of other formats. [View detailed instructions and examples](https://docs.google.com/document/d/1y3xdjwgiVsTpVBAEFhK1nn7G6iJm8p5nIEfAoKt_oBk/edit#heading=h.51mhaa5pq2zt).
+
+If you're looking for just the ability to copy something as markdown, try
+these [Firefox add-ons](https://addons.mozilla.org/firefox/search/?q=copy+markdown)
+or [Chrome extensions](https://chrome.google.com/webstore/search/copy+markdown).
 
 ----
 
@@ -2253,11 +2255,10 @@ Anything else you know of and is not described here? Any new magic? Any trick? P
 [kram-tables]: http://kramdown.gettalong.org/syntax.html#tables
 [kramdown]: http://kramdown.gettalong.org/
 [Lightweight markup languages]: https://en.wikipedia.org/wiki/Lightweight_markup_language
+[MacDown]: https://macdown.uranusjr.com/
 [Markup language]: https://en.wikipedia.org/wiki/Markup_language
 [mdn-video]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
 [middleman]: https://middlemanapp.com/
-[mou-screenshot]: /images/markdown-guide/mou-screenshot-preview.png "Mou for Mac - Markdown Preview"
-[mou]: http://25.io/mou/
 [panel blocks]: https://getbootstrap.com/components/#panels-alternatives
 [SEO Guide]: http://www.seobythesea.com/2012/01/heading-elements-and-the-folly-of-seo-expert-ranking-lists/
 [simple spreadsheet]: https://docs.google.com/a/gitlab.com/spreadsheets/d/1jAnvYpRmNu8BISIrkYGTLolOTmlCoKLbuHVWzCXJSY4/edit?usp=sharing
