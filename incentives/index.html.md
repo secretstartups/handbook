@@ -442,7 +442,7 @@ You may pool your budgets across a group to make budgeting easier and increase p
 
 ##### Organization
 
-We recommend that each event or activity has a [DRI](/people-group/directly-responsible-individuals/). This can be anyone who plans to attend that event or activity, and encourage team members to take a [Bias for action](/handbook/values/#bias-for-action) to self nominate, or nominate someone they know will be attending who would like to be the `DRI`. Please ensure the `DRI` is entered in the [FY23-Q3 Visiting Grant Events](https://docs.google.com/spreadsheets/d/1cCuzXhBIpMInn30-ZD1XCcNnv21CwsmsA9TorW03d7Q) sheet, and if you're nominating someone else, please check with them first before adding them to the sheet.
+We recommend that each event or activity has a [DRI](/handbook/people-group/directly-responsible-individuals/). This can be anyone who plans to attend that event or activity, and encourage team members to take a [Bias for action](/handbook/values/#bias-for-action) to self nominate, or nominate someone they know will be attending who would like to be the `DRI`. Please ensure the `DRI` is entered in the [FY23-Q3 Visiting Grant Events](https://docs.google.com/spreadsheets/d/1cCuzXhBIpMInn30-ZD1XCcNnv21CwsmsA9TorW03d7Q) sheet, and if you're nominating someone else, please check with them first before adding them to the sheet.
  
 ##### Safety and compliance for FY23-Q3 Visiting Grant Program
 
