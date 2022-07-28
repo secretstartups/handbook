@@ -37,35 +37,52 @@ Below are some common employment topics where Legal is asked to provide input. T
 
 **Note: GitLab team members should *always* obtain approval from the Senior Director of Legal, Employment prior to speaking with outside counsel regarding employment-related matters.**
 
-### Before Hire
+## Before Hire
 
-**Scalable Employment Solutions.** As GitLab scales, global expansion efforts require support from a dedicated team with multidisciplinary background: Tax, People Ops, Total Rewards, Payroll, Legal and Finance, with strategic decisions on which countries to prioritize expansion in, being made at E-group level. There are challenges related to global expansion, including: economic impact, legal exposure, tax exposure and accounting impact. The GitLab employment team coordinates the ‘global expansion legal process’ for each proposed or potential country, as required, collaborating with each of the other GitLab legal teams to gather and review relevant information on any particular country to assess: whether GitLab already has team members there, if so, what employment model is currently in use and whether it can be scaled, and if there are no team members in a country, considers (with input from all of GitLab Legal) what employment options there might be, whether there are any limitations or restrictions on hiring and what the best solution might be for now and for into the future.
 
-**Talent Acquisition.** Legal reviews sourcing and talent acquisition strategy for compliance and advises about requirements for applicant tracking in the various countries in which we hire.
+#### Talent Acquisition 
+Legal reviews sourcing and talent acquisition strategy for compliance and advises about requirements for applicant tracking in the various countries in which we hire.
 
-**Background Check.** Legal reviews overall background check policy and procedure in place, helps develop background check adjudication process, and serves as escalation point when team responsible for reviewing background check has questions or concerns about specific results.
+#### Background Check 
+Legal reviews overall background check policy and procedure in place, helps develop background check adjudication process, and serves as escalation point when team responsible for reviewing background check has questions or concerns about specific results.
 
-### During Hire
-**Contract review.** Legal should be asked to review negotiated contracts that seek to change standard terms.
+## During Hire
+
+#### Contract Review 
+Legal should be asked to review negotiated contracts that seek to change standard terms.
+
  - Standard contract terms are audited on a semi-annual basis. A contract audit issue will be opened to review the terms and gather input from appropriate teams across the organization. These issues will be opened on January 1 for implementation on June 30 and on July 1 for implemenation on December 31. To suggest a change to an entity contract template, please leave a comment in the current contract audit issue found in the `People Operations` project and titled  Semi-Annual `Global Employment Contract Review YYYY-January or June`.
 
-**Scalable Employment Solutions.** As GitLab expands our international presence through new entities and other employment solutions, the Legal Employment team, along with Tax and People Operations, uses a collaborative process for gathering and assessing relevant information on any particular country, to help develop strategy and ensure legal compliance.
 
-**Compliance with onboarding issues.** As different countries have different requirements for hiring and disclosures, Legal will assist People Operations to ensure that onboarding issues are compliant for specific locales.
+#### Compliance with Onboarding Issues 
+As different countries have different requirements for hiring and disclosures, Legal will assist People Operations to ensure that onboarding issues are compliant for specific locales.
 
-### During Employment
-**Total Rewards.** Total Rewards is responsible for determining what benefits should be provided. Legal is available for advice when determining whether those benefits comply with local law.
+## During Employment
+#### Total Rewards 
+Total Rewards is responsible for determining what benefits should be provided. Legal is available for advice when determining whether those benefits comply with local law.
 
-**Relocation request reviews.** [Relocation](/handbook/people-group/relocation/) requests are handled by People Operations, which has a very thorough explanation of the process and requirements. After People Operations team members have worked through their workflow, Legal is available to assist with specific unresolved questions.
+#### Relocation Request Reviews 
+[Relocation](/handbook/people-group/relocation/) requests are handled by People Operations, which has a very thorough explanation of the process and requirements. After People Operations team members have worked through their workflow, Legal is available to assist with specific unresolved questions.
 
-**Conflicts of Interest.** If a GitLab team member engages People Operations about a possible conflict of interest, the People Operations team should encourage discussion between the team member and their manager, as many conflict of interest determinations are business decisions, rather than legal decisions. If the team member and manager agree that there is no conflict then the applicable E-Group member can provide written approval, which is maintained in Bamboo HR.  Legal is involved in managing the process to ensure that decisions regarding what is or is not a conflict remain consistent across departments and so that the manager and team member can understand the potential risks and implications in order to make an informed decision.
+#### Conflicts of Interest 
+If a GitLab team member engages People Operations about a possible conflict of interest, the People Operations team should encourage discussion between the team member and their manager, as many conflict of interest determinations are business decisions, rather than legal decisions. If the team member and manager agree that there is no conflict then the applicable E-Group member can provide written approval, which is maintained in Workday.  Legal is involved in managing the process to ensure that decisions regarding what is or is not a conflict remain consistent across departments and so that the manager and team member can understand the potential risks and implications in order to make an informed decision.
 
-### General Business Needs involving Employment Issues
-**Scalable employment solutions.** As GitLab continues to grow, our systems must be scalable. Using the collaborative global expansion process for gathering and assessing relevant information on any particular country, GitLab Legal can assist in developing solutions that ease the work burden on People Operations while maintaining compliance with legal requirements.
+## General Business Needs involving Employment Issues
+#### Scalable Employment Solutions 
+As GitLab scales, global expansion efforts require support from a dedicated cross-functional team with multidisciplinary background: Tax, People Ops, Total Rewards, Payroll, Legal, and Finance, with strategic decisions on which countries to prioritize expansion in being made at E-group level. There are challenges related to global expansion, including economic impact, legal exposure, tax exposure, and accounting impact. The GitLab Employment Team coordinates the ‘global expansion legal process’ for each proposed or potential country, as required, collaborating with each of the other GitLab legal teams to gather and review relevant information on any particular country to assess, including whether GitLab already has team members there, and if so, what employment model is currently in use and whether it can be scaled. If there are no team members in a country, the team considers (with input from all of GitLab Legal) what employment options there might be, whether there are any limitations or restrictions on hiring and what the best solution might be for now and for into the future.
 
-**Policy development.** Legal should be asked to perform a final review when policies are updated or created.
+#### Legal Global Expansion Process
+- The GitLab Employment Legal Team creates a repository (in Google Drive) for the requested country;
+- The GitLab Employment Legal Team completes a Country Expansion Issue using an Issue Template. This Issue is submitted and operates to (a) inform each legal team stakeholder; (b) review the current employment status of the country (for example, does GitLab have team members in that location?); (c) engage external counsel (as applicable); and (d) review and gather additional information related to the country and individual(s) which may play a role with regards to employment, employment contract(s), costs of employing in the country, and other material elements.
+- Based upon the information from the Country Expansion Issue, the cross-functional team will determine and recommend next steps;
+- If expansion is determined by the cross-functional team, a second Issue will be opened by the Employment Legal Team to manage the next step(s), which may include (a)supporting the creation of the new employment solution, (b) converting current team members to the new solution, (c) supporting Corporate, Finance, and Tax (as applicable) if a new entity is formed, (d) creating or reviewing employment contracts, (e) reviewing equity compliance, and (f) developing jurisdiction-specific employment and privacy policies where applicable. 
 
-**Contract negotiations.** In the event that a customer or vendor has questions regarding terms that affect our team members (such as drug tests or more intensive background checks), the procurement team will reach out to the Employment team.
+
+#### Policy Development 
+Legal should be asked to perform a final review when policies are updated or created.
+
+#### Contract Negotiations 
+In the event that a customer or vendor has questions regarding terms that affect our team members (such as drug tests or more intensive background checks), the procurement team will reach out to the Employment team.
 
 ## ABCs of Employment Law
 
@@ -199,7 +216,7 @@ Generation X, Y, and Z, and even some Boomers, are all in the workforce together
 
 Many countries have an extensive list of laws that govern the employee-employer relationship. Though these laws vary by location, there are a few main laws that set out the employees' fundamental rights and explain the employers' obligations. The following is a non-exhaustive list of some basic employment laws in GitLab's entity locations. 
 
-**United States**
+#### United States
 - [Title VII of the Civil Rights Act of 1964](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964)
 - [Americans with Disabilities Act](https://www.ada.gov/ada_intro.htm)
 - [Age Discrimination in Employment Act](https://www.eeoc.gov/age-discrimination)
@@ -212,27 +229,27 @@ Many countries have an extensive list of laws that govern the employee-employer 
 - [Pregnancy Discrimination Act](https://www.eeoc.gov/pregnancy-discrimination)
 - [Uniformed Services Employment and Reemployment Rights Act](https://www.dol.gov/agencies/vets/programs/userra)
 
-**Belgium**
+#### Belgium
 - Employment Contracts Act of 3 July 1978
 - [Well-being Act](https://employment.belgium.be/en/themes/well-being-workers)
 - [Act of 10 May 2007 - General Act](https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/non)
 - [Act of 10 May 2007 - Gender Act](https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/non)
 - [Act of 30 July 1981 - Racism Act](https://www.unia.be/en/law-recommendations/legislation/act-of-30-july-1981-racism-xenophobia)
 
-**Netherlands**
+#### Netherlands
 - [The Dutch Civil Code](http://www.dutchcivillaw.com/civilcodebook077.htm)
 - [The Act on Equal Treatment](https://www.rijksoverheid.nl/onderwerpen/gelijke-behandeling-op-het-werk/regels-gelijke-behandeling-op-het-werk)
 - [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/)
 - [Whistleblowers Protection Act](https://www.wetbeschermingklokkenluiders.nl/voor-werkgevers)
 
-**Germany**
+#### Germany
 - [Minimum Wage Act](https://www.gesetze-im-internet.de/englisch_milog/englisch_milog.html)
 - [German Civil Code (Bürgerliches Gesetzbuch)](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2556)
 - [German health and safety law (Arbeitsschutzgesetz)](https://www.gesetze-im-internet.de/arbschg/)
 - [General Equal Treatment Act (AGG)](https://www.antidiskriminierungsstelle.de/EN/about-discrimination/order-and-law/general-equal-treatment-act/general-equal-treatment-act-node)
 - [Working Hours Act (Arbeitszeitgesetz)](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html)
 
-**Australia**
+#### Australia
 - [National Employment Standards](https://www.fairwork.gov.au/employment-conditions/national-employment-standards)
 - [Fair Work Act 2009](https://www.alrc.gov.au/publication/grey-areas-age-barriers-to-work-in-commonwealth-laws-dp-78/2-recruitment-and-employment-law/the-fair-work-act-2009-cth/)
 - [Racial Discrimination Act 1975 (Cth)](https://www.legislation.gov.au/Details/C2016C00089)
@@ -241,7 +258,7 @@ Many countries have an extensive list of laws that govern the employee-employer 
 - [Sex Discrimination Act 1984 (Cth)](https://www.legislation.gov.au/Details/C2018C00499)
 - [Australian Human Rights Commission Act 1986 (Cth)](https://www.legislation.gov.au/Details/C2019C00030)
 
-**New Zealand**
+#### New Zealand
 - [Employment Relations Act 2000](https://www.legislation.govt.nz/act/public/2000/0024/latest/DLM58317.html)
 - [Holidays Act 2003](https://www.legislation.govt.nz/act/public/2003/0129/latest/DLM236387.html)
 - [Minimum Wage Act 1983](http://www.legislation.govt.nz/act/public/1983/0115/latest/DLM74093.html)
@@ -250,22 +267,22 @@ Many countries have an extensive list of laws that govern the employee-employer 
 - [Health and Safety at Work Act](http://www.legislation.govt.nz/act/public/2015/0070/latest/DLM5976660.html)
 - [Human Rights Act 1993](http://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304212.html)
 
-**United Kingdom**
+#### United Kingdom
 - [Equality Act 2010](https://www.gov.uk/guidance/equality-act-2010-guidance)
 - [Employment Rights Act 1996](https://www.legislation.gov.uk/ukpga/1996/18/contents)
 - [Health and Safety at Work Act 1974](https://www.hse.gov.uk/legislation/hswa.htm)
 - [Working Time Regulations (1998) and The Working Time (Amendment) Regulations 2007](https://www.hse.gov.uk/contact/faqs/workingtimedirective.htm)
 
-**France**
+#### France
 - [French Labour Code](https://code.travail.gouv.fr/)
 
-**Japan**
+#### Japan
 - [Labor Standards Act](http://www.japaneselawtranslation.go.jp/law/detail_main?id=5&vm=2&re)
 - [Labor Union Act](http://www.japaneselawtranslation.go.jp/law/detail/?id=3805&vm=02&re=)
 - [Labor Relations Adjustment Act](http://www.japaneselawtranslation.go.jp/law/detail_main?re=&vm=02&id=3810)
 - [Industrial Safety and Health Act](http://www.japaneselawtranslation.go.jp/law/detail/?printID=&id=1926&vm=02&re=02)
 
-**Ireland**
+#### Ireland
 - [Employment Equality Acts 1998 to 2015](https://www.citizensinformation.ie/en/employment/equality_in_work/equality_in_the_workplace.html)
 - [Terms of Employment (Information) Acts 1994 to 2012](https://www.workplacerelations.ie/en/what_you_should_know/employer-obligations/terms-of-employment/)
 - [National Minimum Wage Acts 2000 to 2015](https://revisedacts.lawreform.ie/eli/2000/act/5/revised/en/html)
@@ -274,11 +291,11 @@ Many countries have an extensive list of laws that govern the employee-employer 
 - [Paternity Leave and Benefit Act 2016](https://www.irishstatutebook.ie/eli/2016/act/11/enacted/en/html)
 - [Safety, Health & Welfare at Work Acts 2005 to 2014](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/health_and_safety/health_safety_work.html)
 
-**Singapore**
+#### Singapore
 - [Employment Act](https://www.mom.gov.sg/employment-practices/employment-act)
 - [Child Development Co-Savings Act](https://sso.agc.gov.sg/Act/CDCSA2001?ValidDate=20200730&ViewType=Within)
 
-**South Korea**
+#### South Korea
 - [Labor Standards Act](https://elaw.klri.re.kr/eng_service/lawView.do?hseq=25437&lang=ENG)
 - [Minimum Wage Act](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/27216/98318/F614415284/KOR27216%20Eng%202012.pdf)
 - [The Act on Equal Opportunity and Work-Family Balance Assistance Act](https://www.law.go.kr/LSW/lsInfoP.do?chrClsCd=010203&lsiSeq=180140&viewCls=engLsInfoR&urlMode=engLsInfoR#0000)
