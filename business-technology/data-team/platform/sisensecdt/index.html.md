@@ -21,7 +21,7 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 
 ## <i class="fab fa-gitlab fa-fw icon-color font-awesome" aria-hidden="true"></i>Access
 
-[Sisense](https://www.sisense.com/why-sisense/) is our enterprise standard data visualization application and is the only application approved for connecting to our [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/infrastructure/).
+[Sisense for Cloud Data Teams](https://dtdocs.sisense.com/article/getting-started) is our enterprise standard data visualization application and is the only application approved for connecting to our [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/infrastructure/).
 
 ### Self-Service Dashboard Access
 
@@ -33,7 +33,7 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 
 1. An **Editor** license is required to develop Sisense reports and dashboards. Editor licenses cost money, so please [make sure you need one](/handbook/spending-company-money/) before requesting one. Keep in mind our [frugality value](/handbook/values/#frugality).
 1. Using [Editor](https://drive.google.com/file/d/15tm_zomS2Ny6NdWiUNJlZ0_73THDiDww/view) effectively requires a bit of technical and data modeling experience.
-1. Create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), including identification of your correct [user role](/handbook/business-technology/data-team/platform/periscope/#user-roles).
+1. Create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), including identification of your correct [user role](/handbook/business-technology/data-team/platform/sisensecdt/#user-roles).
 
 ### Reclaiming Licenses
 
@@ -41,6 +41,12 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 1. If you no longer require a View-only or Editor license, create a [Data Team Issue](https://gitlab.com/gitlab-data/analytics/) and we'll do the rest.
 
 ## <i class="fas fa-book fa-fw icon-color font-awesome" aria-hidden="true"></i>Training Resources
+
+- [Sisense Project](https://gitlab.com/gitlab-data/periscope)
+- [Sisense Training](https://drive.google.com/file/d/1FS5llpZlfvlFyYL-4kpP3YUgI98c_rKB/view?usp=sharing) (GitLab Internal)
+- [Sisense Editor Training](https://drive.google.com/file/d/15tm_zomS2Ny6NdWiUNJlZ0_73THDiDww/view?usp=sharing) (GitLab Internal)
+- [Sisense Data Onboarding: Creating and Analyzing Charts/Dashboards](https://www.youtube.com/watch?v=F4FwRcKb95w&feature=youtu.be)
+- [Sisense Community](https://community.sisense.com)
 
 ### Self-Service Dashboard Access
 
@@ -51,21 +57,23 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 
 ### Self-Service Dashboard Development
 
-- [Product Documentation](https://doc.periscopedata.com)
-- [Getting Started](https://dtdocs.sisense.com/article/getting-started)
 - [Getting Started - Self Service Dashboards](https://dtdocs.sisense.com/topic/getting-connected)
 - [GitLab's Sisense Project](https://gitlab.com/gitlab-data/periscope)
 - [GitLab's Sisense Editor Training](https://drive.google.com/file/d/15tm_zomS2Ny6NdWiUNJlZ0_73THDiDww/view?usp=sharing) (GitLab Internal)
-- [Sisense Data Community](https://community.sisense.com)
 - [Sisense Plotly Templates](https://github.com/Periscope-Services/plotly-templates/tree/periscope/master)
 
 ## Accessing Sisense
 
-Everyone at GitLab has View-only access to [Sisense](https://app.periscopedata.com/app). Log in using [Okta](/handbook/business-technology/okta/). If you need elevated access, such as Editor permissions to create your own charts, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New+Access+Request). Also see the [user roles section](/handbook/business-technology/data-team/platform/periscope/#user-roles)
+Everyone at GitLab has View-only access to [Sisense](https://app.periscopedata.com/app). Log in using [Okta](/handbook/business-technology/okta/). If you need elevated access, such as Editor permissions to create your own charts, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New+Access+Request). Also see the [user roles section](/handbook/business-technology/data-team/platform/sisensecdt/#user-roles).
 
 ## Tracking Sisense Usage
 
-Use the [Periscope Usage](https://app.periscopedata.com/app/gitlab/410320/Periscope-Usage!-📈) dashboard to keep track of which users access Sisense, which dashboards are used, and sessions from external handbook users. Alternatively, you can write your own queries using the log data stored in Sisense. Some examples:
+Use the [Sisense Usage](https://app.periscopedata.com/app/gitlab/410320/Periscope-Usage!-📈) dashboard to keep track of which users access Sisense, which dashboards are used, and sessions from external handbook users. 
+
+<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/8622a5c3-c076-4ce1-8921-67a16281a2b9??embed=true" width="600" height="400"> </iframe>
+
+
+Alternatively, you can write your own queries using the log data stored in Sisense. Some examples:
 
 **List of Users per space:**
 ```sql
@@ -95,13 +103,7 @@ Use the [Periscope Usage](https://app.periscopedata.com/app/gitlab/410320/Perisc
   GROUP BY 1,2
 ```
 
-## <i class="fas fa-book fa-fw icon-color font-awesome" aria-hidden="true"></i>Sisense Resources
-
-- [Sisense Project](https://gitlab.com/gitlab-data/periscope)
-- [Sisense Training](https://drive.google.com/file/d/1FS5llpZlfvlFyYL-4kpP3YUgI98c_rKB/view?usp=sharing) (GitLab Internal)
-- [Sisense Editor Training](https://drive.google.com/file/d/15tm_zomS2Ny6NdWiUNJlZ0_73THDiDww/view?usp=sharing) (GitLab Internal)
-- [Sisense Data Onboarding: Creating and Analyzing Charts/Dashboards](https://www.youtube.com/watch?v=F4FwRcKb95w&feature=youtu.be)
-- [Sisense Community](https://community.sisense.com)
+Note, as external users do not have a user_id it is not possible to count how many unique external users accessing embedded dashboards.
 
 ## <i class="fas fa-chart-pie fa-fw icon-color font-awesome" aria-hidden="true"></i>Self-Service Dashboard Development
 
@@ -118,8 +120,6 @@ Once you can see `New Chart`, you can start creating your own dashboards! Find `
 Once your dashboard is built and named, you can start adding charts by clicking `New Chart` in the top right. Now you’re ready to start writing queries.
 
 If you need to copy an existing chart, but do not have permission to see the queries it includes, the owner of that dashboard will need to update the dashboard permissions to allow `Edit Permissions` under the `Dashboard Preferences- > Permissions -> Editor` section.
-
-
 
 ### Finding the Right Data Sources
 
@@ -152,11 +152,23 @@ Our [dbt Docs site](https://dbt.gitlabdata.com/) lists all of the tables availab
 </div>
 </div>
 
+#### Definitive Guides
+
+* [Definitive Guide to Namespace Analysis](/handbook/business-technology/data-team/data-catalog/namespace/) 
+* [Definitive Guide to Self-Managed Analyis](/handbook/business-technology/data-team/data-catalog/self-managed/)
+* [Definitive Guide to XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
+
+#### Dashboard Hubs
+
+Dashboard Hubs are a landing page for the key dashboards per department or function.
+* [Go to Market Analytics Hub - SAFE](https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0)
+* [Marketing Analytics Hub - SAFE Intermediate](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/969815/Marketing-Analytics-Hub)
+* [Engineering Analytics Hub](https://app.periscopedata.com/app/gitlab/1052283/)
+* [Product Analytics Hub](https://app.periscopedata.com/app/gitlab/1052689/Product-Analytics-Hub)
+
 ##### Discovery Datasets
 
-Data discovery is a Sisense feature allowing users with limited SQL skills to create visualisations on specific data sets through a drag and drop interface.
-
-We are currently testing this feature to understand its value. We have created some test discovery tests that are accessible to everyone in the company and allow them to build their charts without our assistance.
+Data discovery is a Sisense feature allowing users with limited SQL skills to create visualisations on specific data sets through a drag-n-drop interface. It only works on single tables or views or with pre-build queries. Sisense CDT does not have a drag-n-drop capability to combine two or more tables.
 
 ###### [GitLab.com Usage data events ](https://app.periscopedata.com/app/gitlab/view/gitlab_dotcom_usage_data_events/5e2fdc7953d34c2f98397d275ffbf1f4/edit)
 
@@ -179,27 +191,16 @@ To access this dataset, you have mainly 2 options:
 
 Once the Chart editor is open, click on the `Discovery Button` as shown below.
 
-![discovery](/handbook/business-technology/data-team/platform/periscope/discovery.png)
+![discovery](/handbook/business-technology/data-team/platform/sisensecdt/discovery.png)
 
 Find in the list menu the discovery dataset called `gitlab_dotcom_usage_data_events`
 
-![discovery-dataset](/handbook/business-technology/data-team/platform/periscope/discovery_dataset.png)
+![discovery-dataset](/handbook/business-technology/data-team/platform/sisensecdt/discovery_dataset.png)
 
 ### Examples
 
-**Question 1: **
-We can use internal frontend data to answer this question since we're asking about page views. We can query Snowplow page views with like this:
+**Question: How many "users" convert from one trial form to another in the last 30 days? (Conversion Funnel)**
 
-
-```sql
-
-```
-
-Running this query in Sisense’s SQL editor will output a table in the chart section below the query. From there, Sisense offers you a variety of options for visualizing your data. A great way to learn about building charts is to watch this 10-minute [Data Onboarding](https://www.youtube.com/watch?v=F4FwRcKb95w&feature=youtu.be) video from Sisense.
-
-This shows that about 110K users create a merge request every month.
-
-**Question 3: How many "users" convert from one trial form to another in the last 30 days? (Conversion Funnel)**
 We can use snowplow CTEs to query the two steps separately, then join them together.
 
 ```sql
@@ -234,7 +235,7 @@ GROUP BY 1
 ORDER BY 1
 ```
 
-**Question 4: Which "status" tabs ('Open', 'Merged', etc) get clicked on the /merge_requests page?**
+**Question: Which "status" tabs ('Open', 'Merged', etc) get clicked on the /merge_requests page?**
 Similar to before, we can use snowplow data to measure the clicks and page views on the merge_requests page.
 
 ```sql
@@ -311,7 +312,7 @@ If the Sisense chart has timed-out or is taking a long time to run, most likely,
 ## Official Badge for a Dashboard
 
 Some dashboards in Sisense will include an Official Badge (similar to Twitter's Verified Checkmark).
-![Sisense Verified Checkmark](/handbook/business-technology/data-team/platform/periscope/periscope_verified_checkmark.jpg)
+![Sisense Verified Checkmark](/handbook/business-technology/data-team/platform/sisensecdt/periscope_verified_checkmark.jpg)
 
 That means these analyses have been reviewed by the data team for query accuracy.
 Dashboards without the verified checkmark are not necessarily inaccurate;
@@ -325,17 +326,17 @@ We have three Sisense [spaces](https://doc.periscopedata.com/article/spaces#arti
 - GitLab: for general access
 - SAFE: for material nonpublic data (MNP)
 - SAFE Intermediate: for data from tables that contains MNP data. Note: Data visualizations should not contain MNP data, but underlying tables do. 
+- Sales Organization: for sensitive Sales-related data.
 
 They connect to the data warehouse with different data connections:
 - GitLab: `GitLab_(Use_this_one!)`
 - SAFE: `Snowflake_Restricted_Safe`
 - SAFE Intermediate: `Snowflake_Restricted_Safe`
+- Sales Organization: `Snowflake_Restricted_Safe`
 
-Most work is present in the GitLab space, though material nonpublic data or other sensitive data will be limited to GitLab SAFE. Examples of this may include analyses involving contractor and employee compensation and unanonymized interviewing data, or sales or financial data not yet released to the wider 
+Most work is present in the GitLab space, though material nonpublic data or other sensitive data will be limited to GitLab SAFE. Examples of this may include analyses involving contractor and employee compensation and unanonymized interviewing data, or sales or financial data not yet released to the wider public.
 
-Spaces are organized with tags. Tags should map to function (Product, Marketing, Sales, etc) and subfunction (Create, Secure, Field Marketing, EMEA).
-Tags should loosely match [issue labels](/handbook/business-technology/data-team/how-we-work/#issue-labeling) (no prioritization).
-Tags are free. Make it as easy as possible for people to find the information they're looking for. At this time, tags cannot be deleted or renamed.
+Spaces are organized with tags. Tags should map to function (Product, Marketing, Sales, etc) and subfunction (Create, Secure, Field Marketing, EMEA). Tags should loosely match [issue labels](/handbook/business-technology/data-team/how-we-work/#issue-labeling) (no prioritization). Tags are free. Make it as easy as possible for people to find the information they're looking for. At this time, tags cannot be deleted or renamed.
 
 ## Pushing Dashboards into Slack Automatically
 
@@ -347,7 +348,7 @@ If it does not appear that the dashboard is autorefreshing, please ping a [Sisen
 ## <i class="fas fa-users fa-fw icon-color font-awesome" aria-hidden="true" id="user-roles"></i>User Roles
 {:#user-roles}
 
-There are three user roles (Access Levels) in Sisense: admin, SQL, and View Only.
+There are three user roles (Access Levels) in Sisense: Admin, Editor, and View Only.
 
 The current status of Sisense licenses can be found in [the analytics project](https://gitlab.com/gitlab-data/analytics/blob/master/analyze/periscope_users.yml).
 
@@ -380,9 +381,7 @@ $('div.list_class_namer_replace_this').map(function(i, el) {
 
 ### Administrators
 
-These users have the ability to provision new users, change permissions, and edit database connections. (Typical admin things)
-
-Resource: [Onboarding Admins](https://www.youtube.com/watch?v=e-cZgf6zzlQ&feature=youtu.be)
+These users have the ability to provision new users, change permissions, and edit database connections.
 
 ### Editor access
 
@@ -390,7 +389,7 @@ The users have the ability to write SQL queries against the `analytics` and `ana
 
 ### View-only users
 
-These users can consume all existing dashboards. They can change filters on dashboards. Finally, they can take advantage of the [Drill Down](https://doc.periscopedata.com/article/drilldowns) functionality to dig into dashboards.
+These users can access all existing dashboards. They can change filters on dashboards and can take advantage of the [Drill Down](https://doc.periscopedata.com/article/drilldowns) functionality to dig into dashboards.
 
 ### Departmental Users
 
@@ -400,7 +399,7 @@ We have additional roles for further subdividing the Editor role. Certain charts
 
 All users have View-only access privileges via Okta.
 
-To upgrade a user, in the Sisense UI, navigate to the **Roles and Policies** section. Then add the user to the relevant group (Admin/Editor) and their Division (e.g. Marketing, Product, etc.) or Department (e.g. UX, Security, etc.).
+To upgrade a user, in the Sisense UI, navigate to the `Roles and Policies` section, then the `Roles` subsection. Make sure you are in the right Space first. Then add the user to the relevant group (Admin/Editor) and their Division (e.g. Marketing, Product, etc.) or Department (e.g. UX, Security, etc.). To add a user to a different Space, navigate to the `User` subsection and add the user to th requested Space. Be careful using this subsection when assigning Roles, as users can have different roles in different Spaces. 
 
 Users will inherit the highest access from any group they are in. This is why all functions are by default View-only.
 
@@ -441,11 +440,11 @@ This section details the workflow on how to make updates to existing dashboards 
 
 ## Add or Update Dashboards, Charts, Snippets, or Views via Merge Request
 
-You can also make modifications to charts, snippets, or views with a merge request (MR) to the [GitLab Data - Periscope Project](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master). Please see this [example](https://gitlab.com/gitlab-data/periscope/-/merge_requests/60) or follow the steps below:
+You can also make modifications to charts, snippets, or views with a merge request (MR) to the [GitLab Data - Sisense Project](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master). Please see this [example](https://gitlab.com/gitlab-data/periscope/-/merge_requests/60) or follow the steps below:
 
-1. Submit the MR to the [GitLab Data - Periscope Project](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master)
+1. Submit the MR to the [GitLab Data - Sisense Project](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master)
 1. Assign the MR to the owner of the Snippet/Dashboard/Chart/View
-    - [Example of how to identify Snippet Owner in Periscope Project](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/2020_hire_plan/2020_hire_plan.yaml#L3)
+    - [Example of how to identify Snippet Owner in Sisense Project](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/2020_hire_plan/2020_hire_plan.yaml#L3)
     - [Example of how to identify Snippet Owner in Sisense](https://app.periscopedata.com/app/gitlab/snippet/2020_hire_plan/55044747341f4f0f9b4f55c44ab20ea5/edit)
 1. The owner must approve via the "Approve" button
 1. cc @gitlab-data
@@ -461,12 +460,23 @@ You can request for an [automatic dashboard refresh](https://doc.periscopedata.c
 
 The default refresh schedule is Mon-Fri at 1PM UTC. It's always possible to deviate from this default when needed or when more applicable (because when the data for the dashboard is refreshed less frequently than once per day). The data refresh of a dashboard in Sisense is unrelated to the data refresh in DBT, so still it could be needed to perform a manual user refresh in Sisense.
  
-The default of Mon-Fri at 1PM UTC is set in Sisense for the `SAFE`- and `SAFE Intermediate` Space. In the `GitLab` Space there are many dashboards that have a different refresh pattern. Changing the default will overwrite all of the existing refresh schedules. The default in the `GitLab` Space currently is Daily at 4PM UTC. 
+The default of Mon-Fri at 1PM UTC is set in all Sisense spaces. Currently, there are too many daily dashboard refreshes scheduled to complete within a single day. To ensure all scheduled dashboards complete a full reload cycle within 24 hours, the following dashboards are not set on an automatic refresh cycle:
+- Dashboards labeled WIP, Draft, Test, etc.
+- Dashboards with little to no weekly usage. This is currently defined as less than 5 hours per week of cumulative view time.
+
+For these dashboards, manual refreshes are still possible. 
+
+If you have a need to have a specific dashboard refreshed more frequently, please reach out to the data team. We'll evaluate such requests on a case-by-case basis.
+
 
 ## <i class="far fa-object-group fa-fw icon-color font-awesome" aria-hidden="true"></i>Embedding Sisense Charts in the Handbook
 
 The business unit, not the data team, is responsible for embedding these charts in the handbook.
 Sisense has great [embed docs](https://doc.periscopedata.com/article/embed-api) and chat support through the app. There are three main ways to embed charts or dashboard in our handbook.
+
+### Skip unused Dashboard
+
+In order to avoid unnecessary dashboard refreshes the option `Skip if unused` must be enabled by default. Sisense checks if the dashboard is used more than 10 minutes in the past 7 days and only if true it will start the scheduled refresh. This saves resources on our platform. Every quarter in the [data health and security audit](handbook/business-technology/data-team/data-management/#quarterly-data-health-and-security-audit) the Data Platform checks if this option is set. If this is not the case it will be switched on.
 
 ### Hardcoded HTML
 
@@ -480,11 +490,11 @@ Then, you can add `?embed=true` to the URL string to make it an embed link.
 Plug the URL into the following:
 
 ```
-<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/string-of-numbers-here?embed=true" height="700"> </iframe>
+<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/8622a5c3-c076-4ce1-8921-67a16281a2b9?embed=true" height="700"> </iframe>
 ```
-Note when using dashboards from the SAFE space, making an Externally Shared Dashboard will make the dashboard available to anyone with the link and is not recommended.  
-We aim to make sure that the dashboard does not require scroll within the handbook, so you will need to adjust the height value appropriately.
-There is no way to do that programmatically.
+Note, only dashboards in the `GitLab` space can be shared externally. External sharing for our `SAFE` and `SAFE Intermediate` spaces is disabled.  
+
+We aim to make sure that the dashboard does not require scroll within the handbook, so you will need to adjust the height value of the iframe appropriately. There is no way to do that programmatically.
 
 #### Charts
 
@@ -580,27 +590,23 @@ The key things to remember are:
 When you have an aggregated date that you want to use as a filter on a dashboard, you have to use the aggregated period as the `date range start` and one day less than the end of the aggregation as the `date range end` value.
 Your date range start value can be mapped to your date period.
 
-![DRS](/handbook/business-technology/data-team/platform/periscope/periscope_date_range_start.png)
+![DRS](/handbook/business-technology/data-team/platform/sisensecdt/periscope_date_range_start.png)
 
 For the date range end, you need to create an additional column in your query to automatically calculate the end date based on the value selected in your aggregation filter. If we've been using `sfdc_opportunity_xf.close_date` as the date we care about, here is an example: `dateadd(day,-1,dateadd([aggregation],1,[sfdc_opportunity_xf.close_date:aggregation]))  as date_period_end`
 Then add the mapping for the date range end.
 
-![DRE](/handbook/business-technology/data-team/platform/periscope/periscope_date_range_end.png)
+![DRE](/handbook/business-technology/data-team/platform/sisensecdt/periscope_date_range_end.png)
 
 #### Finding where a specific model is queried
 
 All queries used to generate charts and snippets can be found in the [periscope/master](https://gitlab.com/gitlab-data/periscope/tree/periscope/master) branch of the [Sisense](https://gitlab.com/gitlab-data/periscope) project.
 Enter your model or keyword of interest in the [search field](https://gitlab.com/search?utf8=%E2%9C%93&search=&group_id=&project_id=11096787&search_code=true&repository_ref=periscope%2Fmaster&nav_source=navbar) to find relevant queries.
 
-#### Avoid unclear Visualizations
-
-Pie charts are universally seen as a poor method of visualizing data. Read [this blog post](https://medium.com/@KristinHenry/in-defense-of-pie-charts-and-why-you-shouldnt-use-them-df2e8ccb5f76) as a primer on why not to use pie charts.
-
 ### High-Quality Image Exports
 
 When exporting static charts out of Sisense, use the built-in export functionality instead of taking a screenshot. Exporting produces a higher-quality image with a transparent background. To export an image out of Persicope, select `More Options` in the top-right corner of any chart and then select `Download Image`.
 
-![Download Image](/handbook/business-technology/data-team/platform/periscope/periscope_download_image.png)
+![Download Image](/handbook/business-technology/data-team/platform/sisensecdt/periscope_download_image.png)
 
 ### Sisense Housekeeping
 
@@ -635,6 +641,6 @@ If for any reason the API Key needs to be rotated it needs to be rotated in the 
 
 - [The Handbook Project](https://gitlab.com/gitlab-com/www-gitlab-com/)
 - [The KPI Slides Project](https://gitlab.com/gitlab-com/kpi-slides/)
-- Okta
+- [Okta](https://about.gitlab.com/handbook/business-technology/okta/)
 
 Team members who work on the performance indicators page generation code will also need it, since they need it to be able to build the pages locally.
