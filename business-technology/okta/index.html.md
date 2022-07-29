@@ -174,8 +174,3 @@ Note that the 2FA for GitLab.com is different to the MFA you use to log into Okt
 
 - For Okta  help, setup and integration questions: `#it_help` slack channel
 
-## Who are the Okta Super Admins?
-
-- Peter Kaldis, IT Manager
-- Jan Urbanc, Director of Security Operations
-
