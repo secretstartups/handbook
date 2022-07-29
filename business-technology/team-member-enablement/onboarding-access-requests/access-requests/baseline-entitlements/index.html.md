@@ -47,33 +47,33 @@ The hope with the above workflow is that everyone will contribute to the creatio
 100% of team-members should have access to the following systems at the following levels of access as part of their work at GitLab.
 This list has been pre-approved so if any team-member needs access to these systems they can reach out directly to the [system admin(s)](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and request access based on this pre-approval.
 
-| System Name                      | Business Purpose                                    | System Role (What level of access)                                         |
-| -------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------- |
-| 1Password                        | User Password Management                            | Team Member                                                                |
-| BambooHR                         | Human Resource Platform                             | Employee                                                                   |                                                                  |
-| Carta                            | Shares Management                                   | Employee                                                                   |
-| CultureAmp                       | 360 Feedback Management                             | User                                                                       |
-| EdCast                           | Structured and personal learning experiences        | User                                                                       |
-| Expensify                        | Expense Claims and Management                       | Employee                                                                   |
-| GitLab.com                       | GitLab Application for Staff                        | Developer role in gitlab-org and gitlab-com groups                                                                 |
-| Grafana                          | GitLab Dashboard                                    | User                                                                       |
-| Greenhouse                       | Recruiting Portal                                   | Interviewer                                                                |
-| Google Workspace                 | Email, Calendar, and Document sharing/collaboration | GitLab.com Org Unit                                                        |
-| Jamf                             | Apple Device Management Tool                        | User                                                                       |
-| Modern Health                    | Employee Assistance Program                         | Employee                                                                   |
-| Navex Global                     | LMS Training tool                                   | Employee                                                                   |
-| Okta                             | Identity and Single Sign On                         | User                                                                       |
-| PTO by Roots/Treehoppr           | PTO tool                                            | User                                                                       |
-| TripActions                      | Travel booking                                      | Employee                                                                   |
-| Sertifi                          | Digital signatures, payments, and authorizations    | User                                                                       |
-| Slack                            | GitLab async communications                         | Member                                                                     |
-| Sisense (Periscope)              | Data Analysis and Visualisation                     | User                                                                       |
-| Will Learning                    | Staff Training and Awareness Portal                 | User                                                                       |
-| YouTube                          | Video sharing platform                              | User                                                                       |
-| ZenDesk (non US Federal instance | Customer Support - Incident Management              | [Light Agent](/handbook/support/internal-support/#viewing-support-tickets) |
-| ZenGRC                           | Governance, Risk, and Compliance tool               | ZenGRC `Reader` role (higher level privileges require an access request)   |
-| Zoom                             | For video conferencing / meetings                   | Pro                                                                        |
-| Authomize                        | User Access Review tool                             | Reviewer                                                                   |
+| System Name                      | Business Purpose                                    | System Role (What level of access)                                         | Permissions Assigned within Role |
+| -------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------- |
+| 1Password                        | User Password Management                            | Team Member                                                                | Read+Write                       |
+| BambooHR                         | Human Resource Platform                             | Employee                                                                   | Read+Write                       |                              
+| Carta                            | Shares Management                                   | Employee                                                                   | Read+Write                       |
+| CultureAmp                       | 360 Feedback Management                             | User                                                                       | Read+Write                       |
+| EdCast                           | Structured and personal learning experiences        | User                                                                       | Read-Only                        |
+| Expensify                        | Expense Claims and Management                       | User                                                                       | Read+Write                       |
+| GitLab.com                       | GitLab Application for Staff                        | Developer role in gitlab-org and gitlab-com groups                         | Read+Write                       |      
+| Grafana                          | GitLab Dashboard                                    | User                                                                       | Read-Only                        |
+| Greenhouse                       | Recruiting Portal                                   | Interviewer                                                                | Read+Write                       |
+| Google Workspace                 | Email, Calendar, and Document sharing/collaboration | GitLab.com Org Unit                                                        | Read+Write                       |
+| Jamf                             | Apple Device Management Tool                        | User                                                                       | Read-Only                        |
+| Modern Health                    | Employee Assistance Program                         | Employee                                                                   | Read-Only                        |
+| Navex Global                     | LMS Training tool                                   | Employee                                                                   | Read-Only                        |
+| Okta                             | Identity and Single Sign On                         | User                                                                       | Read-Only                        |
+| PTO by Roots/Treehoppr           | PTO tool                                            | User                                                                       | Read+Write                       |
+| TripActions                      | Travel booking                                      | Employee                                                                   | Read+Write                       |
+| Sertifi                          | Digital signatures, payments, and authorizations    | User                                                                       | Read-Only                        |
+| Slack                            | GitLab async communications                         | Member                                                                     | Read+Write                       |
+| Sisense (Periscope)              | Data Analysis and Visualisation                     | User                                                                       | Read-Only                        |
+| Will Learning                    | Staff Training and Awareness Portal                 | User                                                                       | Read-Only                        |
+| YouTube                          | Video sharing platform                              | User                                                                       | Read+Write                       |
+| ZenDesk (non US Federal instance | Customer Support - Incident Management              | [Light Agent](/handbook/support/internal-support/#viewing-support-tickets) | Read+Write                       |
+| ZenGRC                           | Governance, Risk, and Compliance tool               | ZenGRC `Reader` role                                                       | Read-Only                        |
+| Zoom                             | For video conferencing / meetings                   | Pro                                                                        | Read-Only                        |
+| Authomize                        | User Access Review tool                             | Reviewer                                                                   | Read + Write for assigned campaigns |
 
 ## Role Entitlements for a specific job
 
