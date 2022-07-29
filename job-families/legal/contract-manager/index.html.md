@@ -70,12 +70,12 @@ The Senior Contract Manager is a [grade 7](/handbook/total-rewards/compensation/
 * Ability to use GitLab
 
 
-## Manager, Contract Managers
-The Manager, Contract Manager reports to the Sr. Director, Contracts & Legal Operations and is responsible for managing the Contract Managers located globally. They are responsible for the continued growth of the team, as well as, providing leadership in the form of mentoring and creating enablement and training materials for all GitLab Team Members.  
+## Manager, Lead Contract Manager
+The Manager, Lead Contract Manager reports to the Sr. Director, Contracts & Legal Operations and is responsible for managing the Contract Managers located globally. They are responsible for the continued growth of the team, as well as, providing leadership in the form of mentoring and creating enablement and training materials for all GitLab Team Members.  
 
 ## Job Grade
 
-The Manager, Contract Managers is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Lead Contract Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
