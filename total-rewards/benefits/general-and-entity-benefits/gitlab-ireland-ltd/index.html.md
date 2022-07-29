@@ -13,7 +13,6 @@ description: "Discover GitLab's benefits for team members in Ireland"
 ----
 
 ## Medical
-
 GitLab offers a private medical plan through VHI which gives you access to cutting-edge medical treatments, health screenings and protection against the high medical costs of private care. GitLab covers 100% of the premiums for team members and eligible dependents.
 
 For a full breakdown of plan descriptions please review the following [Company Plan Plus Level 1.3 details](https://drive.google.com/file/d/1pnyWAp71MMYzdsUm1rk0o4gq7k8cdvJO/view?usp=sharing) and [Table of Benefits](https://drive.google.com/file/d/1-0cfnrKSTyQIyAEro3wR7i2aBLHsvXEv/view?usp=sharing).
@@ -57,7 +56,7 @@ GitLab will match up to 5% of annual base salary of the team member's contributi
 
 ### Enrollment
 
-To enroll in the pension plan or to make changes to an existing contribution, please email `total-rewards@gitlab.com` with the desired percent contribution. Total Rewards will add Orca Financial `employeebenefits@orca.ie` to the email thread. Orca will gather all relevant information from the team member to add to the pension plan. On the 7th of every month, Orca will send Payroll and Total Rewards a summary of any changes to the pension plan which Total Rewards will update in the appropriate payroll changes spreadsheet. Total Rewards will also file the original election email in BambooHR under the "Benefits and ISO" folder for an audit trail.
+To enroll in the pension plan or to make changes to an existing contribution, please email `total-rewards@gitlab.com` with the desired percent contribution. Total Rewards will add Orca Financial `employeebenefits@orca.ie` to the email thread. Orca will gather all relevant information from the team member to add to the pension plan. On the 7th of every month, Orca will send Payroll and Total Rewards a summary of any changes to the pension plan which Total Rewards will update in the appropriate payroll changes spreadsheet. Total Rewards will also file the original election email in Workday under the "Benefits and ISO" folder for an audit trail.
 
 After each pay cycle, Payroll will send Aviva (ccing Orca and Total Rewards) a spreadsheet with all contributions for Aviva to reconcile. 
 
