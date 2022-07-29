@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/ecommerce/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | 2022-01-24 |
-| Target End Date | 2022-05-30 |
+| End Date        | 2022-07-29 |
 | Slack           | [#wg-ecommerce-motion](https://gitlab.slack.com/archives/C03012Y7UHH) (only accessible from within the company) |
 | Google Doc      | [Ecommerce Motion Working Group Agenda](https://docs.google.com/document/d/1FoUek4p2ELwuQT4IY-nQof4ft2udG2Ks_jFQiIrn7is/edit#heading=h.hhbpi9bc829) (only accessible from within the company) |
 
