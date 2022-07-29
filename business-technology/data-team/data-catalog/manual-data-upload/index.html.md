@@ -17,3 +17,12 @@ title: "Manual Upload of Usage Payload"
 * Organize the file(s), ideally the file(s) will be in json format _i.e companyname_usage_payload_00_00_0000.json_
 
 * Usage ping data captures information that details which features and services are being utilized within a GitLab instance. To learn more please visit this [link](https://docs.gitlab.com/ee/development/usage_ping/).
+
+
+### Steps to be followed to provision access to above bucket.
+
+* Go to `iam-admin` section of GCP under the project=gitlab-analysis.
+* Create a new prinicipal user under `IAM` by clicking on `ADD`.
+* Under `New principals`  provided the requested user gitlab email.
+* Under role type `snowflake_imports_read_write` under custom role. (This is custom role created for access the bucket).
+* Notify the user on the issue stating they might need to create there customer folder if it is not present at the moment. 
