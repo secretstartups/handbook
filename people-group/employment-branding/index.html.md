@@ -288,5 +288,5 @@ Overall number of job candidate referrals from GitLab team members.
 
 ### Hires vs. plan
 
-[Defined](/handbook/hiring/metrics/#hires-vs-plan) on the People Group Metrics page.
+[Defined]Hires vs plan on the People Group Metrics page.
 
