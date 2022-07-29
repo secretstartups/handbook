@@ -131,7 +131,6 @@ relevant developers as well:
 
 * [Marin Jankovski](https://rubygems.org/profiles/marinjankovski)
 * [Rémy Coutable](https://rubygems.org/profiles/rymai)
-* [Robert Speicher](https://rubygems.org/profiles/rspeicher)
 * [Stan Hu](https://rubygems.org/profiles/stanhu)
 * [GitLab-QA](https://rubygems.org/profiles/gitlab-qa)
 
