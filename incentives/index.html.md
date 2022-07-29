@@ -169,36 +169,14 @@ graph TD;
 
 **Manager Process**
 
-1. Sign in to BambooHR.
-1. For each team member, select the team members to which you want to give a
-   Working Group Bonus.
-1. In the top right hand corner, select **Request a Change > Bonus**.
-1. In **Bonus date**, enter today's date.
-1. In **Bonus amount**, enter $100 (this is a fixed value; we don't vary the
-   amount).
-1. In **Bonus type**, select **Working Group Bonus**.
-1. In **Nominated By**, select the person who's nominating the person for a
-   group bonus.
-1. In **Bonus comments**, enter a one-sentence justification that details how
-   the team demonstrated one or more of our [values](/handbook/values/) in this
-   specific instance.
-1. Do not enter a value in **Comments for the Approver(s)**.
-1. Select **Submit** to send the bonus requests to your manager for approval.
-1. Repeat the previous steps for the remaining team members you want to give a
-   Working Group Bonus.
-1. After approval, copy and paste the justification and URL into the GitLab
-   Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K)
-   to recognize the teams outstanding efforts (after informing the team
-   directly). Be sure to also @ the people in the team receiving the bonus so
-   they're notified of the posting. Remember, a Working Group Bonus is for
-   recognition, so be sure to take this final step.
+1. Please submit as a [One Time Payment](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit) in Workday
 
 **Approval Process:**
 
-1. The Manager's Manager receives an alert from BambooHR and can approve or deny.
-1. Once approved, the request is sent to People Connect to process the bonus in the applicable payroll and notify the manager via email.
-1. Notify Payroll of the bonus.
-1. Per the email from People Connect, the manager will notify the team member of the bonus and will announce it on the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K). The announcement should include the “who” and “why” of the bonus.
+1. The next level Manager receives an alert from Workday and can approve or deny.
+1. Once approved by the next level manager, the request is sent to People Connect for review and final approval. 
+1. Once fully approved, Payroll is notified of the bonus and can begin processing.
+1. After this, the manager is able to notify the team member of the bonus and will announce it on the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K). The announcement should include the “who” and “why” of the bonus.
 
 #### Communicating Discretionary Bonuses
 
@@ -347,23 +325,11 @@ If a team member has been referred, the People Connect team will review team mem
 
 * In the event that a GitLab sourcer adds a candidate to GreenHouse and the recruiter screens the candidate a referring party cannot be added to their profile after. The candidate source would be Prospecting by the GitLab sourcer.
 
-#### Document a future bonus in BambooHR
+#### Referral Bonus Processing
 
-1. Go to the team member who referred the new team member in BambooHR
-1. Under the "Jobs" tab
-1. Under the "Bonus" table, click "Add Bonus"
-1. The bonus date is 3 months from the new team member's start date
-1. Enter the bonus amount, dependent on above
-1. Enter the bonus type to be a Referral Bonus
-1. Enter a note stating that this is a future bonus (this will be changed once the bonus has been paid)
-
-#### Notification to Process a Bonus
-
-1. BambooHR will send an email to People Connect on the date that the referral bonus should be paid for processing through the applicable payroll system.
-1. Notify Payroll of the bonus by updating the proper payroll google sheet based on entity.
-  * United States: "Payroll Changes", Contractors: "Non-US contractor bonus changes", Everyone else: "Monthly payroll changes for non-US international team members".
-1. Once the bonus has been processed, change the note in BambooHR from "future" to "paid".
-1. Reply all to the email confirming the bonus has been processed in BambooHR and payroll.
+1. The People Connect team processes referral bonuses weekly out of the GitLab Referral Bonus Audit Workday report
+1. One Time Payments are added to Workday after reviewing the report and ensuring all qualifications have been met
+1. Payroll is notified of the completed bonus and can begin processing
 
 #### Temporary Add-on Campaign additional tracking for payout
 
