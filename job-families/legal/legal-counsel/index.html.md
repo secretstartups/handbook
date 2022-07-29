@@ -35,15 +35,15 @@ The Associate Legal Counsel is a [Grade 5](/handbook/total-rewards/compensation/
 * Ability to use GitLab
 
 
-## Legal Counsel (Intermediate)
+## Legal Counsel 
  
-The Legal Counsel (Intermediate) reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
+The Legal Counsel reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
  
-### Legal Counsel (Intermediate) Job Grade
+### Legal Counsel Job Grade
 
-The Legal Counsel (Intermediate) is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Legal Counsel is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
  
-### Legal Counsel (Intermediate) Responsibilities
+### Legal Counsel Responsibilities
 
 * Partner with team members and stakeholders across GitLab to provide pragmatic advice to minimize legal risks while advancing the goals of the business
 * Advise on, draft, maintain and review templates and policies
@@ -51,7 +51,7 @@ The Legal Counsel (Intermediate) is a [Grade 6](/handbook/total-rewards/compensa
 * Review, draft and negotiate agreements
 * Build the necessary processes, systems, and documentation to improve legal department processes and resources
 
-### Legal Counsel (Intermediate) Requirements
+### Legal Counsel Requirements
 * 4 - 8 years' legal experience, preferably in a multinational company
 * JD/LLB or local law degree equivalent and admission to local governing body
 * Experience working effectively across business units and internal functions to efficiently resolve business issues
@@ -63,15 +63,15 @@ Outstanding interpersonal skills, the ability to interface effectively with all 
 * Previous experience in a remote work environment would be an added advantage
 * Ability to use GitLab
 
-## Legal Counsel (Intermediate II)
+## Senior Legal Counsel
  
-The Legal Counsel (Intermediate II) reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
+The Senior Legal Counsel reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
  
-### Legal Counsel (Intermediate II) Job Grade
+### Senior Legal Counsel Job Grade
 
-The Legal Counsel (Intermediate II) is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Legal Counsel is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
  
-### Legal Counsel (Intermediate II) Responsibilities
+### Senior Legal Counsel Responsibilities
 
 * Partner with team members and stakeholders across GitLab to provide pragmatic advice to minimize legal risks while advancing the goals of the business
 * Advise on, draft, maintain and review templates and policies
@@ -80,7 +80,7 @@ The Legal Counsel (Intermediate II) is a [Grade 7](/handbook/total-rewards/compe
 * Build the necessary processes, systems, and documentation to improve legal department processes and resources
 
 
-### Legal Counsel (Intermediate II) Requirements
+### Senior Legal Counsel Requirements
 
 * 6 - 10 years' legal experience, preferably in a multinational company
 * JD/LLB or local law degree equivalent and admission to local governing body
@@ -93,17 +93,15 @@ The Legal Counsel (Intermediate II) is a [Grade 7](/handbook/total-rewards/compe
 * Previous experience in a remote work environment would be an added advantage
 * Ability to use GitLab
 
-## Senior Legal Counsel 
+## Lead Legal Counsel 
  
-The Senior Legal Counsel reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
+The Lead Legal Counsel reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
  
-### Senior Legal Counsel Job Grade
+### Lead Legal Counsel Job Grade
 
-The Senior Legal Counsel is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Lead Legal Counsel is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification:** Over 200 companies have this senior individual contributor level with an average of 5 incumbents. In order to independently manage strategic and complex legal matters, additional experitise and experience as an individual contributor is vital for business success.
- 
-### Senior Legal Counsel Responsibilities
+### Lead Legal Counsel Responsibilities
 
 * Independently manage strategic and complex legal matters with both internal and external partners
 * Partner and provide leadership to team members and stakeholders across GitLab to provide pragmatic advice to minimize legal risks while advancing the goals of the business
@@ -113,7 +111,7 @@ The Senior Legal Counsel is a [Grade 8](/handbook/total-rewards/compensation/com
 * Exposure or experience with various business solutions with the skill and desire to build and improve processes, systems, and documentation both within the legal department and coordination with other impacted business units
 
 
-### Senior Legal Counsel Requirements
+### Lead Legal Counsel Requirements
 
 * 8 - 15 years' legal experience, preferably in a multinational company
 * JD/LLB or local law degree equivalent and admission to local governing body
@@ -126,11 +124,11 @@ The Senior Legal Counsel is a [Grade 8](/handbook/total-rewards/compensation/com
 * Previous experience in a remote work environment would be an added advantage
 * Ability to use GitLab
 
-### Manager, Legal Counsel
+### Manager, Lead Legal Counsel
 
-The Manager, Legal Counsel is a [Grade 8](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
+The Manager, Lead Legal Counsel is a [Grade 8](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
 
-### Manager, Legal Counsel Responsibilities 
+### Manager, Lead Legal Counsel Responsibilities 
 * Continue to grow and expand a cohesive commercial legal team and implement efficient processes in support of our customer sales organization
 * Act as an escalation stakeholder, and approver, for reporting Legal Counsel; provide overall guidance in the drafting and negotiation process
 * Participate in annual planning with respect to headcount and budgeting 
@@ -143,7 +141,7 @@ The Manager, Legal Counsel is a [Grade 8](https://about.gitlab.com/job-families/
 * Add information and feedback to Playbooks and other supporting documentation, as well as, empower Legal Counsel to do the same
 * Understand GitLab and GitLab products in order to identify risks, develop solutions, mitigation and negotiation strategies
 
-### Manager, Legal Counsel Requirements
+### Manager, Lead Legal Counsel Requirements
 * 8+ years combined law firm and in-house legal department experience, preferably in a multinational company, with a considerable amount of time dedicated to commercial contracting
 * Juris Doctorate/United States law degree (or its equivalent) and bar admission in at least one US state, or the jurisdiction in which the Team Member is employed
 * Successful track record of managing and/or mentoring Legal professionals
@@ -155,17 +153,16 @@ The Manager, Legal Counsel is a [Grade 8](https://about.gitlab.com/job-families/
 * Ability to manage internal customer priorities and needs
 * Ability to use GitLab
 
-## Lead Legal Counsel 
+## Principal Legal Counsel 
  
-The Lead Legal Counsel reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
+The Principal Legal Counsel reports to the [Director, Legal](/job-families/legal/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal/director-legal-us/#senior-director-legal-us).
  
-### Lead Legal Counsel Job Grade
+### Principal Legal Counsel Job Grade
 
-The Lead Legal Counsel is a [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). 
+The Principal Legal Counsel is a [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). 
 
-**Market Justification:** Over 100 companies have this senior individual contributor level with an average of 5 incumbents. In order to independently manage strategic and complex legal matters and act as a subject matter expert, a high level of experitise and experience as an individual contributor is vital for business success.
  
-### Lead Legal Counsel Responsibilities
+### Principal Legal Counsel Responsibilities
 
 * Subject matter expert for whom the legal team and broader internal stakeholders rely upon for expert advice and guidance.
 * Project and Program management responsibilities associated with subject matter expertise.  
@@ -176,7 +173,7 @@ The Lead Legal Counsel is a [Grade 9](/handbook/total-rewards/compensation/compe
 * Review, draft and negotiate complex agreements and provide guidance and mentorship to more junior team members
 * Exposure or experience with various business solutions with the skill and desire to build and improve processes, systems, and documentation both within the legal department and coordination with other impacted business units
 
-### Lead Legal Counsel Requirements
+### Principal Legal Counsel Requirements
 
 * 10 - 15 years' legal experience, preferably in a multinational company
 * JD/LLB or local law degree equivalent and admission to local governing body
