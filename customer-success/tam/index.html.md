@@ -23,6 +23,20 @@ Aligning passionate TAMs with customers to ensure their success by...
 - Identifying and enabling the customer in their current and future GitLab use cases
 - Expanding ROI with GitLab  
 
+## What is a Technical Account Manager/Customer Success Manager (TAM/CSM) at GitLab?
+
+TAMs/CSMs are accountable for customer adoption, measurable outcomes, customer satisfaction, and creating true customer advocacy. We create successful customers by enabling, training, and nurturing them throughout their journey. The following areas incorporate the remit of a TAM/CSM: 
+
+- **Customer Adoption -**  Ensure the customer is working towards or adopting their desired use cases to maturity. Ensure the successful onboarding of all intended users. Identify areas of adoption risk and establish mitigating plays and programs. 
+- **Delivering Positive Business Outcomes -** Ensure customers are meeting and exceeding their desired business outcomes so that customers can quantify and support their investment.
+- **Trusted Advisor -** Establish "trusted advisor" relationships with the management and technical teams on the customer side while working seamlessly with our account team to deliver a best-in-class customer experience.
+- **Account Expansion -** Lead adoption expansion beyond the customer's desired use cases and further customer return on investment (ROI). Partner with Sales to identify expansion opportunities and ensure we realize the expansion potential of a customer account.
+- **Leading Business Reviews -**  Review and celebrate progress towards, or achievement of, the customer's desired business outcomes. Address challenges with a plan for mitigation, align on upcoming and future customer business objectives.
+
+## Responsibilities and Services
+
+Please reference this page for an overview of the areas your TAM will engage with you in: [TAM Points of Engagement](https://about.gitlab.com/handbook/customer-success/tam/services/)
+
 ## FY23 Goals (Big Rocks)
 **Objective:**  Define the 3 ‘big rocks’ to take on in FY23 with the overall goal of moving our team forwards.  These rocks need to move us forwards as a team and as individuals, enabling us to scale, be impactful, and be inspired/fulfilled in our roles. 
 
@@ -134,20 +148,6 @@ Key areas of exploration:
 
 
 - - -
-
-## What is a Technical Account Manager (TAM)?
-
-TAMs are accountable for customer adoption, measurable outcomes, customer satisfaction, and creating true customer advocacy. We create successful customers by enabling, training, and nurturing them throughout their journey. The following areas incorporate the remit of a TAM/CSM: 
-
-- **Customer Adoption -**  Ensure the customer is working towards or adopting their desired use cases to maturity. Ensure the successful onboarding of all intended users. Identify areas of adoption risk and establish mitigating plays and programs. 
-- **Delivering Positive Business Outcomes -** Ensure customers are meeting and exceeding their desired business outcomes so that customers can quantify and support their investment.
-- **Trusted Advisor -** Establish "trusted advisor" relationships with the management and technical teams on the customer side while working seamlessly with our account team to deliver a best-in-class customer experience.
-- **Account Expansion -** Lead adoption expansion beyond the customer's desired use cases and further customer return on investment (ROI). Partner with Sales to identify expansion opportunities and ensure we realize the expansion potential of a customer account.
-- **Leading Business Reviews -**  Review and celebrate progress towards, or achievement of, the customer's desired business outcomes. Address challenges with a plan for mitigation, align on upcoming and future customer business objectives.
-
-## Responsibilities and Services
-
-Please reference this page for an overview of the areas your TAM will engage with you in: [TAM Points of Engagement](https://about.gitlab.com/handbook/customer-success/tam/services/)
 
 
 ## TAM Tools
