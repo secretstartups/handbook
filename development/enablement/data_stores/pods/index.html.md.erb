@@ -53,36 +53,32 @@ The following members of other functional teams are our stable counterparts:
 ## Team IC Gearing
 **Exception Ratio**: 1 Distinguished Engineer, multiple Staff Engineers : Team
 
-**Justification**: The Pods team was formed (originally as the Sharding team) to implement a sharding solution to solve our database limitations as outlined by the [Database Scalability Working Group](https://about.gitlab.com/company/team/structure/working-groups/database-scalability/). The project requires in-depth knowledge of PostgreSQL as well as into the application itself. To borrow some phrasing from the working group: _we recognize this problem cannot be solved to meet our needs and requirements if we limit ourselves to the database: we must consider careful changes in the application to make it a reality_. With that being said, the DRI had to be selective to ensure a small team of can achieve the above requirements to cover every corner of our database and codebase. All candidates were selected based on the required skills profile for the success of the project, to make the best mix and match by covering a spectrum of interests with a minimal group. There have also been multiple Staff engineers borrowed from other teams at various times to execute on these goals. Going forward, we anticipate the team will continue to require the expertise of multiple staff+ level engineers to accomplish our horizontal scalability goals. 
+**Justification**: The Pods team was formed (originally as the Sharding team) to implement a sharding solution to solve our database limitations as outlined by the [Database Scalability Working Group](https://about.gitlab.com/company/team/structure/working-groups/database-scalability/). The project requires in-depth knowledge of PostgreSQL as well as into the application itself. To borrow some phrasing from the working group: _we recognize this problem cannot be solved to meet our needs and requirements if we limit ourselves to the database: we must consider careful changes in the application to make it a reality_. With that being said, the DRI had to be selective to ensure a small team of engineers can achieve the above requirements to cover every corner of our database and codebase. All candidates were selected based on the required skills profile for the success of the project, to make the best mix and match by covering a spectrum of interests with a minimal group. There have also been multiple Staff engineers borrowed from other teams at various times to execute on these goals. Going forward, we anticipate the team will continue to require the expertise of multiple staff+ level engineers to accomplish our horizontal scalability goals. 
 
 ## Meetings
-Where we can we follow the GitLab values and communicate asynchronously.  However, there have a few important recurring meetings.  Please reach out to the [#g_sharding](https://gitlab.slack.com/archives/C01TQ838Y3T) Slack channel if you'd like to be invited.
+Where we can we follow the GitLab values and communicate asynchronously.  However, there have a few important recurring meetings.  Please reach out to the [#g_pods](https://gitlab.slack.com/archives/C01TQ838Y3T) Slack channel if you'd like to be invited.
 
 With the globally distributed nature of this team, it is unlikely that we will have a synchronous meeting where everyone will attend. When we have synchronous meetings we will record the meetings and share written summaries with the links to the recordings. Currently we have the following recurring meeting scheduled.
 
-- Alternating Wednesdays 
-  - Sharding Group Sync (EMEA/AMER) 1:00PM UTC (6:OOAM PDT)
-  - Sharding Group Sync (APAC/AMER) 10:00PM UTC (2:00PM PDT)
-- Weekly Monday/Wednesday - Sharding Group Sync (APAC/EMEA) 8:30AM UTC (2:30AM PDT)
+Weekly Monday - Pods Group Sync (APAC/EMEA) 8:30AM UTC (2:30AM PDT)
 
 ## Work
-We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines.  To bring an issue to our attention please add the `~"group::sharding"` label along with any other relevant labels.  If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/sharding/#stable-counterparts) section above.
+We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines.  To bring an issue to our attention please add the `~"group::pods"` label along with any other relevant labels.  If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/sharding/#stable-counterparts) section above.
 - Issue Creation Workflow - our issue creation workflow can be viewed [here](./issue-creation-workflow.html)
 
 ### Boards
 
-- [Sharding: Build](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Asharding) for issues assigned specifically to `~"group::sharding"`
+- [Pods: Build](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Apods) for issues assigned specifically to `~"group::pods"`
   - We are following a model similar to the process described in the [Geo Build Board - A short tour](https://www.youtube.com/watch?v=rZW0ou4u-dw&list=PL05JrBw4t0KoY_6FXXVgj7wPE9ZDS4cOw&index=6)
-- [Database Scalability Working Group ](https://gitlab.com/groups/gitlab-org/-/boards/2502942?label_name[]=wg_database-scalability) for issues related to database scalability efforts that span multiple teams
-- [Group::Sharding Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?state=opened&sort=end_date_asc&label_name%5B%5D=group%3A%3Asharding)
+- [Group::Pods Roadmap](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=group::pods)
 
 ### Working Agreement
 
 There are a few factors influencing some of our working agreements here. First, there is a lot of excitement about the goals and expected outcomes of this team. We are working on a really difficult problem, we have lofty expectations as to what we can deliver and many different potential solutions to investigate. Because of the critical nature of what we are going to deliver we need to be able to consistently and concisely describe our current efforts. Second, we are a newly formed team and we need to be explicit about how we work together to ensure success.
 
 Currently we are asking team members to update their issues with:
-- Epic Start Date and Due Date entries - this will allow us to dogfood our [roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?state=opened&sort=end_date_asc&label_name%5B%5D=group%3A%3Asharding) functionality within GitLab
-- Add `~sharding::active` to issues that we know we will be working on in the near future. This helps us to keep our [Sharding: Build](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Asharding) tidy, especially the Open and Closed columns
+- Epic Start Date and Due Date entries - this will allow us to dogfood our [roadmap](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=group::pods) functionality within GitLab
+- Add `~pods::active` to issues that we know we will be working on in the near future. This helps us to keep our [Pods: Build](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Apods) tidy, especially the Open and Closed columns
 
 We can continue to iterate on our working agreement as a team to ensure that we are a successful team and exceed expectations.
 
@@ -94,8 +90,8 @@ It is expected that we share progress early and often by creating recorded demos
 - For planned demos, open an issue to discuss the topics to be demonstrated with the team. Planned demos would include end of milestone or major functionality
 - For ad hoc, spur of the moment or other interesting discoveries that you would like to demo, just create it and announce in Slack
 - Demonstrate functionality, even if incomplete and only working locally
-- Record the demo and upload to the [Sharding Group](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr_xKd1sBqZ5ap_MJnniixO) playlist on GitLab Unfiltered
-- Announce the recording availablity to the #g_sharding slack channel
+- The [Sharding Group](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr_xKd1sBqZ5ap_MJnniixO) playlist on GitLab Unfiltered contains all the Sharding Group demos and other recordings. As soon as the first Pods videos are uploaded a Pods playlist will be created and this page will be updated with the appropriate link.
+- Announce the recording availablity to the #g_pods slack channel
 
 We should be aiming for sharing demos on a weekly basis.
 
