@@ -15,7 +15,7 @@ The Inside Sales department is part of the [GitLab Sales](/handbook/sales/) func
 
 The Enterprise Inside Sales team can be reached in [Slack channel](https://gitlab.slack.com/archives/C01P39947ND) (internal only).
 
-The Public Sector Inside Sales team can be reach in [Slack channel](https://gitlab.slack.com/archives/CNAMWG9N3) (internal only).
+The Public Sector Inside Sales team can be reached in [Slack channel](https://gitlab.slack.com/archives/CNAMWG9N3) (internal only).
 
 ## Mission Statement
 To deliver value to all customers by managing customer accounts and working closely with GitLab account teams and partners on renewals and growth initiatives.
@@ -35,21 +35,21 @@ The mission of the Inside Sales department is to create valuable experiences for
 
 ## ISR Alignment
 
-After completing onboarding, Inside Sales representitives are assigned a territory by _region_ or a defined set of _Account Territories_. Current Enterprise ISR territory assignments can be found in the [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1gElhORjqraKDMQnWzApPelyP_vVa24tAOA85vb5f3Uc/edit#gid=1765694827).  
+After completing onboarding, Inside Sales Representatives are assigned a territory by _region_ or a defined set of _Account Territories_. Current Enterprise ISR territory assignments can be found in the [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1gElhORjqraKDMQnWzApPelyP_vVa24tAOA85vb5f3Uc/edit#gid=1765694827).  
 
 #### ISR Account Alignment
 
-Once an ISR has been added to the Territories Mapping File, their name will **automatically** be populated in the `Prosposed ISR` field on all Accounts associated with ther respecttive `Sales Territory`
+Once an ISR has been added to the Territories Mapping File, their name will **automatically** be populated in the `Proposed ISR` field on all Accounts associated with ther respective `Sales Territory`.
 
 It's expected for the Inside Sales Team to follow the [Account Ownership Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/). The section linked above provides step by step clarity on how to follow the ROE.
 
 #### ISR Opportunity Alignment
 
 The `ISR` field will be **automatically** populated on an opportunity based on the `Proposed ISR` field from the opportunity's associated Account.
-- **Open Opportunities**: the `ISR` field will reflect whatever information is populated in the associated Account's `Proposed ISR` field (including blanks).  `ISR` will remain a fluid field until the opportunity is moved to a closed stage, meaning if the `Prosposed ISR` is changed, any associated open opportunity will be updated to reflect that change in the `ISR` field.
-- **Closed Opportunities**: the `ISR` field will not change after an opportunity has been moved to a closed stage (Won, Lost, Duplicate) and will reflect whoever the `Proposed ISR` was at the time of closure
-- **ISR Override**: In the event that the `ISR` field on the opportunity should not be the same as the `Proposed ISR` on the Account, the ISR Management team has the ability to override the `ISR` field by checking the `ISR Override ` box on the opportunity and updating the `ISR` field accordingly.  This removes the `ISR` from any automation. 
-     - **Note**: In scenarios where the override is no longer needed, the ISR Manager simply needs to uncheck the `ISR Override` checkbox and the auotmation will run as intended (for open opportunities only)
+- **Open Opportunities**: the `ISR` field will reflect whatever information is populated in the associated Account's `Proposed ISR` field (including blanks).  `ISR` will remain a fluid field until the opportunity is moved to a closed stage, meaning if the `Proposed ISR` is changed, any associated open opportunity will be updated to reflect that change in the `ISR` field.
+- **Closed Opportunities**: the `ISR` field will not change after an opportunity has been moved to a closed stage (Won, Lost, Duplicate) and will reflect whoever the `Proposed ISR` was at the time of closure.
+- **ISR Override**: In the event that the `ISR` field on the opportunity should not be the same as the `Proposed ISR` on the Account, the ISR Management team has the ability to override the `ISR` field by checking the `ISR Override` box on the opportunity and updating the `ISR` field accordingly.  This removes the `ISR` from any automation. 
+     - **Note**: In scenarios where the override is no longer needed, the ISR Manager simply needs to uncheck the `ISR Override` checkbox and the auotmation will run as intended (for open opportunities only).
 
 **Note**: The `ISR` field will be populated on **all opportunities** where the associated `Proposed ISR` field is also populated. This does not guarantee compensation credit. Please see your comp plan for details to determine what qualifies.      
 
@@ -64,7 +64,7 @@ In FY23, ISRs will have a narrowed focus and will be responsible for managing re
 In addition to renewing and growing < $50k renewals, the ISRs will be measured on renewal rate for the area(s) they support. SALs and ASMs should be the primary point-of-contact for renewals > $50k in ARR basis as well as all first order or new business initiatives. 
 
 **How does GitLab define ARR Basis?**
-ARR Basis or "Renewal Amount" means the prior priod of ARR between GitLab and a Customer or Gitlab and an eligible Partner.
+ARR Basis or "Renewal Amount" means the prior period of ARR between GitLab and a Customer or Gitlab and an eligible Partner.
 
 ARR Basis is automatically recalculated after every subscription change.
 
@@ -111,11 +111,11 @@ Loop in the SAL and ASMs and other account team resources (SAs and TAMs). These 
 Once you have been assigned a territory:
 
 6. Schedule and lead a recurring call with the Regional Director(s) and Area Sales Manager(s) to review regional priorities (bi-weekly cadence suggested). Work with RDs and ASMs to make sure you are invited to the appropriate team calls, slack channels, etc.
-7. Schedule time to introduce yourself and educate supported SALs or AEs on your role and responsibilities. Develop a working cadanece and document how you plan to communicate and stay aligned on priorities.
+7. Schedule time to introduce yourself and educate supported SALs or AEs on your role and responsibilities. Develop a working cadence and document how you plan to communicate and stay aligned on priorities.
 8. Ensure that you are added to regional sales team calls.
-9. Ensure you are added (as an optionale attendee) to all relevant SAL and TAM calls or opportunity reviews
+9. Ensure you are added (as an optional attendee) to all relevant SAL and TAM calls or opportunity reviews.
 10. Review and document Current- and Next-FQ Renewals and Opportunities that you will "actively manage" as the ISR. Tag all "actively managed" opportunities following the process outlined in the "Actively Managed Opportunity" section below.
-11. Review your regional alignment on the [Sales Territories](https://about.gitlab.com/handbook/sales/territories/) page
+11. Review your regional alignment on the [Sales Territories](https://about.gitlab.com/handbook/sales/territories/) page.
 12. Create a renewals report that includes quote start and end dates.
 
 ## ISR Account and Opportunity Management
@@ -124,9 +124,9 @@ Once you have been assigned a territory:
 
 It's Monday morning. You have just opened your laptop. You've got 2 renewal health check calls, an Ultimate Upgrade call, 10 customer touchpoints to execute, and 2 quotes to do. You know this because your tasks and next steps are clear and up to date.
 
-Your first call is a Renewal Health Check. You have already up a deck together and you double-check your next steps and opportunity history to make sure you haven't missed anything. Turns out the customer mentioned other business units could benefit from using GitLab on a previous call and promised you that they would track down the best people to get in touch with. You were reminded of this because it was in your next steps. You remind the customer and get names and contact information and a new add-on opportunity to qualify. 
+Your first call is a Renewal Health Check. You have already put a deck together and you double-check your next steps and opportunity history to make sure you haven't missed anything. Turns out the customer mentioned other business units could benefit from using GitLab on a previous call and promised you that they would track down the best people to get in touch with. You were reminded of this because it was in your next steps. You remind the customer and get names and contact information and a new add-on opportunity to qualify. 
 
-Next up, you need to send out those two quotes. You create the quotes, send them to the customer, and update your next steps to remind you to follow-up with the customers in 2 days' time.
+Next up, you need to send out those two quotes. You create the quotes, send them to the customer, and update your next steps to remind you to follow-up with the customer in 2 days' time.
 
 Next up is the Ultimate Upgrade. You get on the call. You recap the last conversation and take the customer through the reasons why Ultimate is ideal for them. You know security is important because they’ve mentioned it to you a few times on calls now as per your call notes. They like what they see, but the price seems a bit high. But you’ve already thought about that and go through the ROI of using Ultimate. You end the call agreeing to send over a quote and confirm that you will have a check-in in a week’s time. You update your task and next steps in line with the check-in call date, you update the opportunity history and paste your raw notes from the call into your activity log.
 
@@ -198,7 +198,7 @@ ISRs are expected to understand and follow the note taking process outlined in t
 - [Characteristics of Next Steps](https://about.gitlab.com/handbook/sales/commercial/enablement/#characteristics-of-next-steps)
 
 ### Holdover Account / Opportunity Process
-In the event of a territory or alignment change, Inside Sales Representitives will be allowed to holdover up to five (5) accounts / opportunities. The holdover opportunities will be transitioned to be managed by the new team member and quota credit will be determined by `Close Date`.
+In the event of a territory or alignment change, Inside Sales Representatives will be allowed to holdover up to five (5) accounts / opportunities. The holdover opportunities will be transitioned to be managed by the new team member and quota credit will be determined by `Close Date`.
 
 As it relates to retirement of quota, we will refer to the Closed Won date as well as the payout schedule below:
 - _If holdover opportunity `closes in month 1 of the quarter` = 75% credit to current ISR, 25% credit to new ISR_
@@ -206,7 +206,7 @@ As it relates to retirement of quota, we will refer to the Closed Won date as we
 - _If holdover opportunity `closes in month 3 of the quarter` = 25% credit to current ISR, 75% credit to new ISR_
 
 **In order to qualify, the opportunity must:**
-   1. Be a renewal or opportunity currently delegated to or being managed by an Inside Sales Representitive
+   1. Be a renewal or opportunity currently delegated to or being managed by an Inside Sales Representative
    2. Close within the current Fiscal Quarter
    3. Be approved as a holdover by Inside Sales Management (via Salesforce Chatter)
 
@@ -242,4 +242,4 @@ As it relates to retirement of quota, we will refer to the Closed Won date as we
 | Link | Type  | Purpose           | 
 | ----- | ----- | ---------------- |
 | [Territory Change Request](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.aces298pv2vw) | Sales Operations | This process is used by sales operations, ISR management, and regional sales directors to update ISR alignment|
-| [ISR Overrides](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/sales/insidesales/index.html.md#isr-opportunity-alignment) | ISR Manager Process | This process allows the ISR Management team to override any automation associated with the population of an `ISR` on an opportunity.  This should be used in scenarios where an ISR is working an opportunity that is not aligned with one of their territories. 
+| [ISR Overrides](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/sales/insidesales/index.html.md#isr-opportunity-alignment) | ISR Manager Process | This process allows the ISR Management team to override any automation associated with the population of the `ISR field` on an opportunity.  This should be used in scenarios where an ISR is working an opportunity that is not aligned with one of their territories. 
