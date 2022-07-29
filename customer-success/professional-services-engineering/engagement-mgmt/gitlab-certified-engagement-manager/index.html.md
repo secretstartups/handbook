@@ -11,8 +11,7 @@ description: "Describes the Engagement Manager certification learning objectives
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Tracking Opportunities
-
+# Gitlab Certified Engagement Manager Professional
 
 ## Overview
 
