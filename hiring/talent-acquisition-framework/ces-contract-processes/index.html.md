@@ -84,7 +84,7 @@ Once the entity of the chosen candidate has been determined and the CES team has
     - On click on the Checkbox for `No Inventions` area and navigate to the right hand side of the page. Click `Conditional Logic` and `Create Rule`. Select `Unchecked` in the dropdown and click the Text box (it will grey out) and click `Done`. This will ensure that if the candidate does not click this box indicating they do have exceptions, they will need to fill in the text box before submitting their signature. 
         -  **You will need to create the conditional logic rule each time you send out contracts**, it does not save for future use. 
     - Add a `Signature` field, a `Name` field, and a `Date Signed` field to the correct areas.
-1. There may also be other fields you'll need to add a textbox for, so double check if there are any other fields that need to be completed by either the candidate or GitLab signatory (as contracts for different entities vary; one that is easy to miss is the UK contract which requires the candidate to input their national insurance number). Once you've verified that all the information is correct and appropriately assigned, click "Send" at the top right corner.
+1. There may also be other fields you'll need to add a textbox for, so double check if there are any other fields that need to be completed by either the candidate or GitLab signatory. Examples include adding a text box for "Place" on German contracts, or adding text boxes for PIAA at the bottom of most contracts. Once you've verified that all the information is correct and appropriately assigned, click "Send" at the top right corner.
 1. You'll now be redirected back to Greenhouse, where you can monitor the progress of the contract and be able to see when each party signs it. Once it is signed by all parties, you and everyone cc'd on the original request will receive a confirmation email that it has been signed.
 1. After sending the contract via DocuSign, ping the signatory in the #contracts-to-sign slack channel.
 1. If you need to resend the contract, follow the same steps, but be sure to log into your DocuSign account and first delete the original one to avoid confusion.
@@ -512,7 +512,17 @@ Once the Labor Contract has been signed by both CIIC and the new hire the indivi
 
 Please note, due to German labor law, the stock options are not included in the contract template and are not to be listed on the contract. If the candidate asks specifically for this information to be listed on the contract, please seek guidance from the CES Team Lead and/or Legal. 
 
-German contracts require Qualified Electronic Signature (QES), which is a feature now available to People Team members in DocuSign. To send a contract with QES, select "edit recipients" in DocuSign when editing your contract, select "customize", and choose "select signature type". Select IDNow - EU Qualified. You should select this for **both** signatories. Do not select this for anyone who is CC'ed.
+German contracts require wet signature, which is a physical copy of the contract signed by both parties. To initiate this process:
+1. CES will ensure that the start date is either a Monday, or the 1st or 16th of the month
+1. CES will send German Contract Step 1 template email via Greenhouse
+1. Offer can be sent through Greenhouse and DocuSign. Please use Rob Allen as the signatory unless requested otherwise due to his OOO. 
+1. Initiate the background check. The Germany package can be utilized, but if required to use a la carte instead, please choose Extended Global Sanctions as the criminal check due to local laws. 
+1. Once the digital contract has been signed through DocuSign, send an unsigned copy of the contract to the signatory via the "Email to team" function in Greenhouse. The template is called "German contract to mail".
+1. CES adds the candidate to the German contract tracker. A link to this is in the contract templates received in the Service Desk.
+1. A non-US welcome email should be sent to the candidate, and they should be marked as hired. 
+1. CES will regularly check in with the candidate to ensure they have received their contract in the mail. When that happens, they will send the email template "German Contract step 2" to the candidate and close out the issue. 
+
+Former QES instructions: As of August 1, 2022, we are no longer able to send contracts through Qualified Electronic Signature. We are keeping the instructions here for 6 months while we await any changes to the law, and will remove them if the laws do not change again. To send a contract with QES, select "edit recipients" in DocuSign when editing your contract, select "customize", and choose "select signature type". Select IDNow - EU Qualified. You should select this for **both** signatories. Do not select this for anyone who is CC'ed.
 
 This additional step will require signatories to present government issued identification to the IDNow team when signing their contract. 
 
