@@ -405,14 +405,15 @@ We have the following deadlines:
 - By month `M-1, 10th`product manager, taking into consideration prioritization input from development EM, Quality, and UX to create a plan of issues for the upcoming milestone
   - Release scope is finalized. In-scope issues marked with milestone `m`; label `deliverable` applied.
   - Kickoff document is updated with relevant items to be included.
+- By month `M-1, 13th` (at least 5 days before milestone `m` begins):
+   - Release scope is finalized. In-scope issues marked with milestone `m`; label `deliverable` applied.
+   - Kickoff document is updated with relevant items to be included. 
 - By month `M-1, 16th` (at least 1 day before milestone `m` begins):
   - [Group Kickoffs calls](/handbook/product/product-processes/#kickoff-meetings) recorded and uploaded.
-- By month `M-1, 16th` The CTO and VP of Product review [dashboard of issues planned for next milestone](https://app.periscopedata.com/app/gitlab/1042933/Issue-Types-by-Milestone) and provide feedback to PM in [milestone planning issues](https://about.gitlab.com/handbook/product/product-processes/#planning-issue-for-milestone). This is a non-blocking step in the Product Development Timeline.  
-  - product manager reviews and responds to feedback from CTO and VPP as needed
-       - it is up to the discretion of the product manager to decide on how/when to incorporate the feedback based on the severity.  They consult with the rest of the quad when evaluating the feedback (development EM, quality, and UX)
 - On month `M-1, 18th` (or next business day, milestone `m` begins): **Kick off!** 📣
   - [Company Kickoff](#kickoff) call live streamed.
   - Development on milestone `m` begins
+- By month `M-1, 24th` The development lead for each stage/section coordinates a stage/section level review with the quad [cross-functional dashboard review process](/handbook/engineering/cross-functional-prioritization/#cross-functional-dashboard-reviews).  After the stages/section level reviews are complete, the VP of Development coordinates a summary review with the CTO, VP of Product, VP of UX, and VP of Quality.
 - On `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/group-retrospectives/) issue for the current milestone.
 - By month `M, 17th`:
   - Completed `m` issues with docs have been merged into master.
