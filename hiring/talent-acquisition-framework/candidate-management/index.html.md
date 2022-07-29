@@ -68,3 +68,14 @@ While only the assigned *Recruiter* has the `Applications to Review` widget on t
         * That the `Requisition Title` is selected
             * This will be auto-selected when accessed via a specific requisition
         * **Stage** is sorted `(early to late)`
+
+### Candidate Profile Merge Requests
+
+  All of Talent Acquisition has access to merge profiles with the exception of internal candidates, which must be done by a Site Admin. If you have any questions, please contact Enablement because profile merges cannot be undone. You can merge candidate profiles by viewing the right hand toolbar on an applicant profile, and clicking on either the alert that appears at the top of the toolbar or `See More` in the `Tools`section. 
+
+  Before beginning, please ensure that the profiles are a match for each other by verifying that their emails, phone numbers, and/or resumes are the same.  
+  
+  When selecting which profile is Primary, consider the following: 
+   * As a guideline, the most recent applicant profile should most likely be the Primary one, unless the most recent is a Prospect.
+   * If this is an internal candidate, the most recent profile should always be Primary, but should not be merged until the candidate has accepted their offer to minimize the number of people with access to this information. Please ensure the internal applicant's email address is their GitLab one before asking Enablement to merge.
+   * After merging, check the Activity Feed and Details tabs to see what information was removed from old profiles and ensure that you have the most accurate Recruiter, Coordinator, and Source.
