@@ -122,7 +122,7 @@ Not only does this create a less [inclusive](/company/culture/inclusion/) hiring
 1. You have [fewer meetings](/company/culture/all-remote/meetings/) and more focus on results and [output of great work](/handbook/values/#results).
    * Each meeting which is avoided by [asynchronous communication](/handbook/communication/) and intentional [documentation](/company/culture/all-remote/management/#scaling-by-documenting) saves thousands of dollars in wages. Too, the time savings can be repurposed for generating additional value and empowering people to live [richer lives](/company/culture/all-remote/people/) as they work more [efficiently](/handbook/values/#efficiency).
 1. You don't have to pay to relocate someone to join your team.
-   * GitLab's talent acquisition department tracks [cost per hire](/handbook/hiring/metrics/#cost-per-hire), which currently does not have a target.
+   * GitLab's talent acquisition department tracks cost per hire, which currently does not have a target.
 1. With employees located all over the world [working asynchronously](/blog/2019/02/27/remote-enables-innovation/), contributions can continue even when one time zone's working day is over.
    * GitLab has a people group KPI stating that the [percent of sent Slack messages that are not DMs be > 50%](/handbook/ceo/kpis/#people-group-kpis).
 1. There's also business continuity in the case of local disturbances or natural disasters (e.g. political or weather-related events).

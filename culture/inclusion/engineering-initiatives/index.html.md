@@ -17,6 +17,5 @@ Engineering partners closely with our [Diversity, Inclusion & Belonging](/compan
 * [Team Member Resource Groups](/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels)
 * [Diversity, Inclusion and Belonging GitLab initiatives](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab)
 * [Engineering Internship Pilot Program](/handbook/engineering/internships/)
-* [Talent Acquisition: Diversity lifecycle metrics](/handbook/hiring/metrics/#diversity-lifecycle-applications-recruited-interviewed-offers-extended-offers-accepted-and-retention)
 * [In House Diversity, Inclusion and Belonging Training Certification](https://gitlab.edcast.com/journey/dib-training-certification)
 * [Advanced Software Engineering Course (partnership with Morehouse College)](https://about.gitlab.com/company/culture/inclusion/erg-minorities-in-tech/advanced-software-engineering-course/)
