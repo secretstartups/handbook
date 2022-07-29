@@ -50,6 +50,7 @@ If you would like to schedule a meeting with a Leader at GitLab, please slack th
 1. Subject of the meeting
 1. Desired outcome of the meeting
 1. Provide context: include a link to the [agenda doc](https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit) and provide context in the document so that the EBA can adequately understand and prioritize your meeting with E-Group. The google doc is required to be included in the calendar invite. If you're requesting the meeting, it is your responsibility to prepare the agenda document. 
+1. When scheduling an internal call with the CEO, confirm that there are attendees in non-United States time zones before requesting meetings before 10am PST.
 
 ### Agenda Document Templates 
 1. [Agenda Document Template](https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit) should be used for all meetings with members of our E-Group and provided at the time of the meeting request. Select file > make a copy to use this template. If relevant to your meeting request, the agenda document should include links relevant MRs, issues, slides, or helpful background material and information. This document is sufficient for most internal meetings. 
