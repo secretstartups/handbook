@@ -24,3 +24,6 @@ Introductory text, logos, or whatever the group wants here
 
 ## Kapok workflows and processes
 
+## Kapok Team Building
+
+In July 2022, the folks in Kapok in the AMER region gathered to learn more about one another by delivering presentations in a loose interpretation of the [PechaKucha](https://www.pechakucha.com/) style. GitLab team members with access to [this folder in Google Drive](https://drive.google.com/drive/folders/1csUbGWeu9yBZ1TilTl-Gu3P1SZ2B9IB4?usp=sharing) can [watch and enjoy the video](https://drive.google.com/file/d/1aYfFsiYie9lRnC9fEdWDL7FdIALfkh8G/view?usp=sharing). 
