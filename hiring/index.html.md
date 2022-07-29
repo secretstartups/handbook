@@ -23,7 +23,6 @@ description: "Landing page for many of the handbook pages the talent acquisition
 - [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
 - [Principles](/handbook/hiring/principles/)
 - [Talent Acquisition Alignment](/handbook/hiring/recruiting-alignment/)
-- [Talent Acquisition Metrics Process](/handbook/hiring/metrics/)
 - [Talent Acquisition Privacy Policy](/handbook/hiring/recruitment-privacy-policy/)
 - [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/)
 - [Referral Operations](/handbook/hiring/referral-operations/)

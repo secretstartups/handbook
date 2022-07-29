@@ -460,7 +460,7 @@ For **Director-level roles and above**, please add a **fourth step** and list th
 
 It is recommended that no stage has only 1 possible approver to eliminate bottlenecks.
 
-Delays at the **Offer Approval** stage can negatively impact our [time to hire](/handbook/hiring/metrics/#time-to-offer-accept-days) metric. To keep delays to a minimum, we ask for approvals to be completed within 24 hours of reaching the reviewer.
+Delays at the **Offer Approval** stage can negatively impact our time to hire metric. To keep delays to a minimum, we ask for approvals to be completed within 24 hours of reaching the reviewer.
 
 *Please note* that the approval order should always be `In Order` and **not** `All at once` (located at the top of each section).
 
