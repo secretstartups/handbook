@@ -13,6 +13,9 @@ description: "The purpose of this page is to document configuration of our insta
 ## Salesforce Config
 The purpose of this page is to document configuration of our SFDC org. This will serve as the "go-to" place to check in regards to questions on our general configuration.
 
+### Salesforce Provisioning
+For roles that should automatically receive Salesforce access your account and permissions will be automatically created by Okta. For anyone else who needs Salesforce access for their job responsibilities, please open an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
+
 ### Installed Packages
 Below is a list of all of our installed packages in SFDC:
 
