@@ -42,7 +42,7 @@ License requests for a customer with a **paid** plan, where the license's "grace
     - Admin Area -> Overview -> Dashboard
     - The license page from Admin Area -> License (in newer versions, may say subscription)
 1. Add the screenshots to the ticket
-1. Go to the Mechanizer [emergency license generation tool](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/license_creation_emergency.html)
+1. Go to the Mechanizer ZenDesk App, from the ticket in the right side bar. 
 1. Enter your username and the user count for the license based on information from the screenshot
 1. Enter the email address of the person who opened the ticket
 1. The tool will generate and email to the customer a 5-day trial license for the given user count
@@ -50,7 +50,7 @@ License requests for a customer with a **paid** plan, where the license's "grace
 
 ### Considerations
 
-1. All licenses generated with the tool will have a 5 day limit. This cannot be changed through the tool.
+1. All licenses generated with the tool will have a 10 day limit. This cannot be changed through the tool.
 1. The license will have generic information. This is intended to facilitate its creation.
 1. If the customer mentions that they haven't received the email with the license, go to our
    [internal request issue tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?sort=created_date&state=closed&label_name[]=Mechanizer::Emergency+License+Generation)
