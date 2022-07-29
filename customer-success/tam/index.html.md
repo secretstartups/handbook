@@ -137,25 +137,13 @@ Key areas of exploration:
 
 ## What is a Technical Account Manager (TAM)?
 
-GitLab's Technical Account Managers serve as trusted advisors to GitLab customers. They offer guidance, planning, and oversight during the technical deployment and implementation process. They fill a unique space in the overall service lifecycle and customer journey and actively bind together sales, solution architects, customer stakeholders, product management, Professional Services Engineers and support.
+TAMs are accountable for customer adoption, measurable outcomes, customer satisfaction, and creating true customer advocacy. We create successful customers by enabling, training, and nurturing them throughout their journey. The following areas incorporate the remit of a TAM/CSM: 
 
-See the [Technical Account Manager role description](/job-families/sales/technical-account-manager/) for further information.
-
-### Advocacy
-
-A Technical Account Manager is an advocate for both the customer and GitLab. They act on behalf of customers serving as a feedback channel to development and shaping of the product. In good balance, they also advocate on behalf of GitLab to champion capabilities and features that will improve quality, increase efficiency and realize new value for our customer base.
-
-#### Management
-
-Technical Account Managers maintain the relationships between the customers and GitLab. Making sure that everyone is working towards pre-defined goals and objectives.
-
-#### Growth
-
-Technical Account Managers help to bring GitLab to all aspects of your company, not just software development. They can do this by showing other business units how to use GitLab for their day-to-day tasks and to advocate for new features and functionality that are in demand by other groups.
-
-#### Success
-
-Technical Account Managers make sure that the adoption of GitLab is successful at your company through planning, implementation, adoption, and training.
+- **Customer Adoption -**  Ensure the customer is working towards or adopting their desired use cases to maturity. Ensure the successful onboarding of all intended users. Identify areas of adoption risk and establish mitigating plays and programs. 
+- **Delivering Positive Business Outcomes -** Ensure customers are meeting and exceeding their desired business outcomes so that customers can quantify and support their investment.
+- **Trusted Advisor -** Establish "trusted advisor" relationships with the management and technical teams on the customer side while working seamlessly with our account team to deliver a best-in-class customer experience.
+- **Account Expansion -** Lead adoption expansion beyond the customer's desired use cases and further customer return on investment (ROI). Partner with Sales to identify expansion opportunities and ensure we realize the expansion potential of a customer account.
+- **Leading Business Reviews -**  Review and celebrate progress towards, or achievement of, the customer's desired business outcomes. Address challenges with a plan for mitigation, align on upcoming and future customer business objectives.
 
 ## Responsibilities and Services
 
