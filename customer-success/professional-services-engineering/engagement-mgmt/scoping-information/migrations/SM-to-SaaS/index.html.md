@@ -52,6 +52,13 @@ Once you have provided the required scoping info, an Engagement Manager will gen
 
 If the customer agrees to the estimate, and a conversation validates that the information used in scoping is accurate for the customer's situation, then the final step will be for the Engagement Manager to create an SOW that will be approved internally, and then you can send that to the customer for signature.  See [Selling Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/) for additional details on this process.
 
+## Gathering data to help scope a migration
+There are a few questions GitLab uses to assist in the SM to SaaS transition process.   Two of those [questions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/#migration-scoping-details) require a Customer Admin to provide data to the GitLab team:
+1. How many GL repos are larger than 5GB approximately?
+    - GitLab provides a tool to gather data about the existing environment. Download and run the [Evaluate](https://gitlab.com/gitlab-org/professional-services-automation/tools/utilities/evaluate#usage) and provide back to the account team a file of the output.  
+2. What is the typical container/package registry size of your projects?
+    - 
+
 ## Additional Selling Tools
 - See the [WIP - Selling Professional Services - SM to SaaS](https://docs.google.com/presentation/d/1-svCV8CFqZZr0ma-1TJIzy-Lobu4sSslP5eAS2BaCbc/edit?usp=sharing) Google slides presentation
 
