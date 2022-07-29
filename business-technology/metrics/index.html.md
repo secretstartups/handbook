@@ -72,7 +72,7 @@ Percentage of team who self-classify as diverse. This is one metric of many to t
 
 **Aligns with the following core business objectives**:
 
-- [Diversity Lifecycle: Applications, Recruited, Interviewed, Offers Extended, Offers Accepted, and Retention](/handbook/hiring/metrics/#diversity-lifecycle-applications-recruited-interviewed-offers-extended-offers-accepted-and-retention)
+
 - [Diversity, Inclusion & Belonging](https://about.gitlab.com/company/culture/inclusion/)
 
 
