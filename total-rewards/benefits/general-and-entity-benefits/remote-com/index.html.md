@@ -12,7 +12,7 @@ description: "Discover the benefits for Remote team members"
 
 ----
 
-The following benefits are provided by [Remote](https://www.remote.com/) and apply to team members who are contracted through Remote. If there are any questions, these should be directed to the Total Rewards team at GitLab who will then contact the appropriate individual at Remote.
+The following benefits are provided by [Remote](https://www.remote.com/) and apply to team members who are contracted through Remote. If there are any questions, these should be directed to help@remote.com.
 
 ## Brazil
 
@@ -73,7 +73,7 @@ All of the benefits listed below are administered and managed by [Remote](https:
 
 ### Medical
 
-Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $106.50 (for partner), $85.20 (children under 18).
+Team members have the option to select Remotes medical insurance through Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $106.50 (for partner), $85.20 (children under 18). Dependents will need to be added within 30 days from the start date, however, if this window is missed team members can reach out to help@remote.com to connect with the benefits team to see if this option can be unlocked and enable the team member to enroll the same (this may depend of circumstances). Dependents can be added through the [ThanksBen](https://www.thanksben.com/) platform (this is where team members can view their Allianz information).
 More information can be found below:
 - [Remote Allianz Benefit Guide](https://drive.google.com/file/d/1krO_RGt_H1_kPNgudHeuSIFjJohJuq-h/view)
 - [Allianz](https://drive.google.com/file/d/1hMw61FsriqRPfcFRQ-mzQsu6HF03IUFB/view)
@@ -171,7 +171,7 @@ All of the benefits listed below are administered and managed by [Remote](https:
 
 ### Healthcare
 
-Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $106.50 (for partner), $85.20 (children under 18).
+Team members have the option to select Remotes medical insurance through Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $106.50 (for partner), $85.20 (children under 18).  Dependents will need to be added within 30 days from the start date, however, if this window is missed team members can reach out to help@remote.com to connect with the benefits team to see if this option can be unlocked and enable the team member to enroll the same (this may depend of circumstances). Dependents can be added through the [ThanksBen](https://www.thanksben.com/) platform (this is where team members can view their Allianz information).
 
 More information can be found below:
 - [Remote Allianz Benefit Guide](https://drive.google.com/file/d/1krO_RGt_H1_kPNgudHeuSIFjJohJuq-h/view)
@@ -362,7 +362,7 @@ All of the benefits listed below are administered and managed by [Remote](https:
 
 ### Health Insurance
 
-Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $135.92 (for partner), $108.73 (children under 18).
+Team members have the option to select Remotes medical insurance through Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll each month (usd) $135.92 (for partner), $108.73 (children under 18). Dependents will need to be added within 30 days from the start date, however, if this window is missed team members can reach out to help@remote.com to connect with the benefits team to see if this option can be unlocked and enable the team member to enroll the same (this may depend of circumstances). Dependents can be added through the [ThanksBen](https://www.thanksben.com/) platform (this is where team members can view their Allianz information).
 
 More information can be found below:
 - [Remote Allianz Benefit Guide](https://drive.google.com/file/d/1krO_RGt_H1_kPNgudHeuSIFjJohJuq-h/view)
@@ -561,7 +561,7 @@ The Hungarian Social Security Act has employer and team member contributions to 
 
 ### Medical
 
-Team members have the option to select Remotes medical insurance by Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll (usd) $106.50 (for partner), $85.20 (children under 18).
+Team members have the option to select Remotes medical insurance through Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll each month (usd) $106.50 (for partner), $85.20 (children under 18).  Dependents will need to be added within 30 days from the start date, however, if this window is missed team members can reach out to help@remote.com to connect with the benefits team to see if this option can be unlocked and enable the team member to enroll the same (this may depend of circumstances). Dependents can be added through the [ThanksBen](https://www.thanksben.com/) platform (this is where team members can view their Allianz information).
 
 More information can be found below:
 - [Remote Allianz Benefit Guide](https://drive.google.com/file/d/1krO_RGt_H1_kPNgudHeuSIFjJohJuq-h/view)
@@ -602,15 +602,67 @@ Team members can take unpaid leave to care for their child until the child reach
 
 ##### Paternity Leave Payment
 
-* Teamm members will receive payment from the Hungarian State Treasury for 5 days of their leave.
+* Team members will receive payment from the Hungarian State Treasury for 5 days of their leave.
 * If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), pay will be supplemented up to 100% pay (minus State Treasury benefits) for up to 16 weeks. 
 
 #### Applying for Parental Leave in Hungary
 To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. 
 
-## Austria
+## Luxembourg
 
-### Social Security
+All of the benefits listed below are administered and managed by [Remote](https://www.remote.com/). Any queries can be directed to help@remote.com
+
+### Medical
+
+Team members have the option to select Remotes medical insurance through Allianz (for team members only). If they wish to add dependents this will be deducted through the Payroll each month (usd) $135.92 (for partner), $108.73 (children under 18). Dependents will need to be added within 30 days from the start date, however, if this window is missed team members can reach out to help@remote.com to connect with the benefits team to see if this option can be unlocked and enable the team member to enroll the same (this may depend of circumstances). Dependents can be added through the [ThanksBen](https://www.thanksben.com/) platform (this is where team members can view their Allianz information).
+
+More information can be found below:
+
+Remote Allianz Benefit Guide
+[Allianz](https://drive.google.com/file/d/1krO_RGt_H1_kPNgudHeuSIFjJohJuq-h/view)
+
+[Remote Allianz Benefit](https://drive.google.com/file/d/1hMw61FsriqRPfcFRQ-mzQsu6HF03IUFB/view)
+
+### Remote Technology - Luxembourg Statutory Leave policy
+Below is the information related to Luxembourg's statutory leave policies.  Please note that team members hired in Lexembourg are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
+
+#### Maternity leave
+
+Birthing parents are entitled to 20 weeks of maternity leave, starting eight weeks before delivery and lasting until 12 weeks postpartum, and compensated at a rate equivalent to their normal wage, capped at five times the minimum wage, i.e. roughly ~€12,000 per month.
+
+In addition to the statutory maternity benefits, pregnant and postpartum employees are entitled to enjoy exemption from hazardous work, dismissal following maternity, and any obligations to work overtime or night shifts.
+
+#### Paternity leave
+
+Non-birthing parents "fathers" are entitled to 10 days of paid paternity leave financed by the employer within the first two months after the birth of their child.  Employees should notify their employer at least two months before the intended start of their leave.   
+
+#### Parental leave
+Employees are entitled to parental leave ranging from four to six months following each new birth into their family, which can be exercised until their child turns six, or 12, if the latter is adopted.
+
+Both leaves can be taken either in full, partially, or split with the other parent and are based on the number of hours in the employee’s contract:
+
+40 hours per week- 4–6 months of full-time leave; 8-12 months of part-time leave (50% of regular working hours); 4 periods of 1 month leave within a 20–month period; 1-2 half days of leave per week within a 20–month period.
+At least 20 hours per week- 4-6 months of full-time leave; 8-12 months of part-time leave (50% of regular working hours)
+At least 10 hours per week- 4-6 months of full-time leave
+Split or partial leave is at the discretion of the employer. To be eligible:
+
+The parent must be registered with social security at the time of the birth or adoption of the child for at least 12 continuous months
+Salaried employees- must have worked at least 10 hours per week
+Have an employment contract during the leave
+Instead of wages, an allowance is given by the Children’s Future Fund.
+
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), pay will be supplemented up to 100% pay (minus any statutory benefits received) for up to 16 weeks.
+
+#### Applying for Maternity, Paternity, and/or Parental Leave in Luxembourg
+To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots. 
+
+#### Sick leave
+
+Sick employees are entitled to their full wages paid by the employer for the 77 days (or the end of the month after the 77th day of illness elapses) after which an employee will draw sickness benefits from the Caisse Nationale de Santé equivalent to 100% of the normal wages, without exceeding 500% of the minimum wage, i.e. roughly capped at ~€12,000 per month.
+
+Employees should enter their Sick Time into PTO by Roots by selecting `Out Sick`.  After the 5th consecutive workshift missed due to illness, employees should contact leaves@gitlab.com.
+
+## Austria
 
 The Austrian Social Security Act General Social Insurance Act (Allgemeines Sozialversicherungsgesetz, ASVG) has employer and team member contributions to cover statutory requirements such as pension, health insurance, accident insurance and unemployment. 
 
