@@ -14,9 +14,9 @@ description: "This page is for information regarding the backend process of the 
 
 This page is for information regarding the “backend” of the [Referral Process](/handbook/hiring/referral-process/).
 
-#### Adding a Referral to BambooHR (People Experience)
+#### Adding a Referral to Workday (People Connect Team)
 
-During the onboarding process, a People Experience Associate will complete the following steps if a new team member was referred by current team member.
+People Connect will review the following guidelines to ensure the correct amount is being awarded with the One Time Payment in Workday.
 
 1. Ensure that the current team member is eligible for a referral based upon the [requirements](/handbook/hiring/referral-process/#referral-bonus-eligibility).
 2. Review when the referral was submitted in Greenhouse
@@ -31,13 +31,6 @@ During the onboarding process, a People Experience Associate will complete the f
         * $1,000 supplemental referral bonus for a hire from a Location factor less than 0.65.
         * $1,500 supplemental referral bonus for a hire from an underrepresented group. 
     * For candidates referred multiple times, the referral date is determined by the date the referral was submitted for the position the candidate ends up accepting.
-3. Add a note in the new team member's BambooHR profile with the name of their referrer.
-4. Open the Current Team Members BHR profile
-    * `Job` tab > `Bonus` table > `Add Bonus`
-    * Add the `Bonus Date` = `90 day + Hire Date`
-    * `Bonus Amount`: Review above
-    * `Bonus Type`: Referral Bonus
-    * `Bonus Comment`: "Referred (New Team Members) - submitted on (submit date) and add if location factor or underrepresented group"
 
 #### Transferring Referral Submissions to Greenhouse
 
