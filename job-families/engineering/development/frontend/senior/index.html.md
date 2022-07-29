@@ -23,7 +23,7 @@ Frontend Engineers at GitLab work on our product. This includes both the open-so
 - Represent GitLab and its values in public communication around broader initiatives, specific projects, and community contributions.
 - Provide mentorship for Junior and Intermediate Engineers in your section to help them grow in their technical responsibilities and remove blockers.
 - Consistently ship moderately sized features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-- Improves the engineering projects at GitLab via maintainer trainee program at own comfortable pace, while striving to become a project maintainer.
+* Improves the [engineering projects](/handbook/engineering/projects/) at GitLab as a [project maintainer](/handbook/engineering/workflow/code-review/#maintainer). For more information regarding timelines and exceptions, [see this page](/handbook/engineering/workflow/code-review/#senior-maintainers).
 
 ## Requirements
 - Professional experience with VueJS **or** another modern JavaScript web framework (React, Angular, Ember, etc.)
