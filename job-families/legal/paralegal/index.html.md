@@ -7,7 +7,7 @@ title: Paralegal
 
 ### Associate Paralegal
 
-The Associate Paralegal reports to the Director, Legal.
+The Associate Paralegal reports to the Director of Legal or Senior Director of Legal. 
 
 #### Associate Paralegal Job Grade
 
@@ -49,13 +49,13 @@ The Associate Paralegal is a [grade 5](/handbook/total-rewards/compensation/comp
 * Conduct research and monitor employment law developments.
 
 
-### Paralegal (Intermediate)
+### Paralegal
 
-The Intermediate Paralegal reports to the Director, Legal.
+The Paralegal reports to the Director of Legal, or Senior Director of Legal. 
 
 #### Paralegal Job Grade
 
-The Intermediate Paralegal is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Paralegal is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Paralegal Responsibilities
 
@@ -68,6 +68,31 @@ The Intermediate Paralegal is a [grade 6](/handbook/total-rewards/compensation/c
 * Extends that of the Associate Paralegal requirements.
 * Minimum of 5-7 years paralegal experience at a law firm, in-house legal department, or a combination of both; experience at or supporting a multinational public company preferred.
 * Paralegal certification.
+
+### Senior Paralegal
+#### Job Grade
+The Senior Paralegal is a [Grade 7]((/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades))
+
+#### Responsibilities 
+* Act as the DRI (“Directly Responsible Individual”) with respect to complex / strategic projects and legal matters
+* Guide other Paralegals, and personally develop and add information and content to internal knowledge-base repositories and playbooks
+* Engage leadership across the organization to proactively address requests and projects
+* At the direction of leadership, research legal, regulatory and industry standards to identify areas of improvement to enable GitLab to meet best-in-class standards
+* Prepare documents, conduct due diligence and perform other responsibilities related to subject matter expertise across Corporate, Employment, and Product & Privacy  
+* Identify and design new processes and procedures with regards to requests from internal stakeholders 
+* Maintain and audit varying types of records
+* Directs research programs and provides actions to be taken by GitLab for review by leadership
+
+#### Requirements
+* Minimum of 8+ years experience working in a law firm, in-house legal department, or combination of both, in a paralegal capacity
+* Paralegal certification preferred but will consider comparable experience in lieu of certification
+* Demonstrated ability to successfully manage cross-functional projects
+* Exceptional written and verbal communication, organizational, and analytical skills
+* Ability to adapt and willingness to work on a variety of projects and types of requests
+* Strong attention to detail and affinity for use of various types of technologies including Slack, G-Suite, Microsoft Office and other applications
+* Proactive, dynamic and result driven individual with strong organizational skills
+* Ability to use GitLab
+
 
 ## Specialties
 
