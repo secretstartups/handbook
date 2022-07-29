@@ -24,7 +24,7 @@ GitLab does not plan to offer Private Health Insurance at this time because Aust
 Please note, Medicare doesn't cover all costs and [other health services](https://www.servicesaustralia.gov.au/individuals/subjects/whats-covered-medicare/health-care-and-medicare). Depending on the treatment, tests required and medications, individuals may still have to pay out of pocket. Some individuals may also have to pay a [Medicare levy and a Medicare levy surcharge](https://www.ato.gov.au/Individuals/Medicare-levy/). These individuals can avoid the surcharge by taking out private health insurance.
 
 ### Superannuation
-GitLab will make superannuation contributions directly to the team member's nominated super fund according to the Australian Government Super Guarantee rate which is currently set at 10% of the team member's total salary. Super is on top of the salary listed in the compensation calculator/contract.
+GitLab will make superannuation contributions directly to the team member's nominated super fund according to the Australian Government Super Guarantee rate which is currently set at 10.5% of the team member's total salary, with a quarterly cap of $6,323.10 AUD. Super is on top of the salary listed in the compensation calculator/contract.
 
 #### Superannuation payments due dates
 
@@ -47,6 +47,8 @@ Team members in Australia have the option to make concessional super contributio
   * Yes, if you wish to change the amount/percentage or opt out, simply send total-rewards@gitlab.com an email.
 * Is it possible to start from any month?
   * Yes, it would be processed on the next available payroll.
+* Does the payroll provider monitor or stop the concessional cap per year?
+  * No, Team Members have no limit on the concessional salary sacrifice. If the contribution goes beyond the annual limit, it will be taxed at a higher rate. The Employer portion, however, stops once it reaches the quarterly cap. 
 
 
 ### Life insurance
