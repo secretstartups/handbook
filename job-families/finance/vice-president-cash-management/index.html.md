@@ -47,7 +47,7 @@ The Vice President, Cash Management is a [grade 12](/handbook/total-rewards/comp
 ## Performance Indicators
 * Debt covenant management
 * Foreign exchange hedging strategy
-* [New hire location factor](https://about.gitlab.com/handbook/hiring/metrics/#new-hire-location-factor)
+* [New hire location factor](https://about.gitlab.com/#new-hire-location-factor)
 * Cash efficiency and investment strategy
 
 ## Career Ladder

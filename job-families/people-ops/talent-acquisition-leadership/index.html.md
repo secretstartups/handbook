@@ -40,17 +40,17 @@ The VP of Talent Acquisition is a [grade 12](/handbook/total-rewards/compensatio
 * 10+ years talent acquisition experience with a minimum of 5 years managing a global talent acquisition team.
 ## Performance Indicators
  
-* [Active Users with a Recruiting or Hiring Manager LinkedIn Seat](/handbook/hiring/metrics/#active-users-with-a-recruiting-or-hiring-manager-linkedin-seat--x)
+* [Active Users with a Recruiting or Hiring Manager LinkedIn Seat](/#active-users-with-a-recruiting-or-hiring-manager-linkedin-seat--x)
 * [Average Location Factor](/handbook/people-group/people-operations-metrics/#average-location-factor)
-* [Interviewee Satisfaction (ISAT)](/handbook/hiring/metrics/#interviewee-satisfaction-isat)
-* [Candidates Sourced by Talent Acquisition Department vs. Candidates Hired](/handbook/hiring/metrics/#candidates-sourced-by-talent-acquisition-department-vs-candidates-hired)
-* [Cost Per Hire](/handbook/hiring/metrics/#cost-per-hire)
-* [Hires vs. Plan](/handbook/hiring/metrics/#hires-vs-plan)
-* [Offer Acceptance Rate](/handbook/hiring/metrics/#offer-acceptance-rate)
+* [Interviewee Satisfaction (ISAT)](/#interviewee-satisfaction-isat)
+* [Candidates Sourced by Talent Acquisition Department vs. Candidates Hired](/#candidates-sourced-by-talent-acquisition-department-vs-candidates-hired)
+* [Cost Per Hire](/#cost-per-hire)
+* [Hires vs. Plan](/#hires-vs-plan)
+* [Offer Acceptance Rate](/#offer-acceptance-rate)
 * [Pay Equality](/company/culture/inclusion/#performance-indicators)
-* [Talent Acquisition team or Hiring Manager LinkedIn Seat](/handbook/hiring/metrics/#recruiting-or-hiring-manager-linkedin-seat--x)
-* [Applied vs Sourced Candidates](/handbook/hiring/metrics/#applied-vs-sourced-candidates)
-* [Time to Offer Accept](/handbook/hiring/metrics/#time-to-offer-accept-days)
+* [Talent Acquisition team or Hiring Manager LinkedIn Seat](/#recruiting-or-hiring-manager-linkedin-seat--x)
+* [Applied vs Sourced Candidates](/#applied-vs-sourced-candidates)
+* [Time to Offer Accept](/#time-to-offer-accept-days)
 * [Women in Company](/company/culture/inclusion/#performance-indicators)
 * [Women in Leadership](/company/culture/inclusion/#performance-indicators)
  

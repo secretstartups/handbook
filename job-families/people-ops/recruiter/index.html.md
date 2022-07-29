@@ -233,11 +233,11 @@ The Director, Recruiting is a [grade 10](/handbook/total-rewards/compensation/co
 
 ## Performance Indicators
 
-* [Hire vs Plan](https://about.gitlab.com/handbook/hiring/metrics/#hires-vs-plan)
-* [Time to Offer Accept](https://about.gitlab.com/handbook/hiring/metrics/#time-to-offer-accept-days)
-* [Offer Accepteance Rate](https://about.gitlab.com/handbook/hiring/metrics/#offer-acceptance-rate)
-* [New Hire Location Factor](https://about.gitlab.com/handbook/hiring/metrics/#new-hire-location-factor)
-* [Average Candidate ISAT](https://about.gitlab.com/handbook/hiring/metrics/#interviewee-satisfaction-isat)
+* [Hire vs Plan](https://about.gitlab.com/#hires-vs-plan)
+* [Time to Offer Accept](https://about.gitlab.com/#time-to-offer-accept-days)
+* [Offer Accepteance Rate](https://about.gitlab.com/#offer-acceptance-rate)
+* [New Hire Location Factor](https://about.gitlab.com/#new-hire-location-factor)
+* [Average Candidate ISAT](https://about.gitlab.com/#interviewee-satisfaction-isat)
 
 ## Specialities
 

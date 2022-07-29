@@ -36,8 +36,8 @@ The Recruiting Operations Coordinator is a [grade 5](/handbook/total-rewards/com
 * Prior experience using a human resources information system (HRIS), such as BambooHR.
 
 ### Performance Indicators
-* [Hires vs. Plan](/handbook/hiring/metrics/#hires-vs-plan)
-* [Time to Offer Accept](/handbook/hiring/metrics/#time-to-offer-accept-day)
+* [Hires vs. Plan](/#hires-vs-plan)
+* [Time to Offer Accept](/#time-to-offer-accept-day)
 
 ### Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
@@ -103,8 +103,8 @@ The Senior Recruiting Program Analyst is a [grade 7](/handbook/total-rewards/com
 
 ### Performance Indicators
 
-* [Hires vs. Plan](/handbook/hiring/metrics/#hires-vs-plan)
-* [Time to Offer Accept](/handbook/hiring/metrics/#time-to-offer-accept-days)
+* [Hires vs. Plan](/#hires-vs-plan)
+* [Time to Offer Accept](/#time-to-offer-accept-days)
 
 ### Hiring Process
 
@@ -149,9 +149,9 @@ The Manager, Recruiting Operations is a [grade 8](/handbook/total-rewards/compen
 
 ### Performance Indicators
 
-*   [Average candidate ISAT](/handbook/hiring/metrics/#interviewee-satisfaction-isat)
-*   [Hires vs. Plan](/handbook/hiring/metrics/#hires-vs-plan)
-*   [Time to Offer Accept](/handbook/hiring/metrics/#time-to-offer-accept-days)
+*   [Average candidate ISAT](/#interviewee-satisfaction-isat)
+*   [Hires vs. Plan](/#hires-vs-plan)
+*   [Time to Offer Accept](/#time-to-offer-accept-days)
 
 ## Senior Manager, Recruiting Operations and Insights
 
@@ -193,10 +193,10 @@ The Senior Manager, Recruiting Operations and Insights is a [grade 9](/handbook/
 ### Performance Indicators
 
 * [Average Location Factor](/handbook/people-group/people-operations-metrics/#average-location-factor)
-* [Interviewee Satisfaction (ISAT)](/handbook/hiring/metrics/#interviewee-satisfaction-isat)
-* [Candidates Sourced by Recruiting Department vs. Candidates Hired](/handbook/hiring/metrics/#candidates-sourced-by-recruiting-department-vs-candidates-hired)
-* [Hires vs. Plan](/handbook/hiring/metrics/#hires-vs-plan)
-* [Time to Offer Accept](/handbook/hiring/metrics/#time-to-offer-accept-days)
+* [Interviewee Satisfaction (ISAT)](/#interviewee-satisfaction-isat)
+* [Candidates Sourced by Recruiting Department vs. Candidates Hired](/#candidates-sourced-by-recruiting-department-vs-candidates-hired)
+* [Hires vs. Plan](/#hires-vs-plan)
+* [Time to Offer Accept](/#time-to-offer-accept-days)
 
 ### Career Ladder
 

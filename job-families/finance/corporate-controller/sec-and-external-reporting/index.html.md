@@ -154,7 +154,7 @@ The Director, Record to Report is a [grade #10](/handbook/total-rewards/compensa
 1. [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
 1. [Number of material audit adjustments](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
 1. [Average days of sales outstanding](/handbook/finance/accounting/#11-accounts-receivable)
-1. [New hire location factor](/handbook/hiring/metrics/#new-hire-location-factor)
+1. [New hire location factor](/#new-hire-location-factor)
 1. [Percentage of ineffective SOX Controls](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
 
 ## Career Ladder

@@ -127,8 +127,8 @@ The Manager, Recruiting Operations is a [grade 8](/handbook/total-rewards/compen
 
 #### Manager, Global Enablement Performance Indicators
 
-* [Average candidate ISAT](/handbook/hiring/metrics/#interviewee-satisfaction-isat)
-* [Hires vs. Plan](/handbook/hiring/metrics/#hires-vs-plan)
+* [Average candidate ISAT](/#interviewee-satisfaction-isat)
+* [Hires vs. Plan](/#hires-vs-plan)
 
 ### Senior Manager, Global Enablement
 
@@ -170,9 +170,9 @@ The Senior Manager, Recruiting Operations is a [grade 9](/handbook/total-rewards
 
 #### Senior Manager, Global Enablement Performance Indicators
 
-* [Average candidate ISAT](/handbook/hiring/metrics/#interviewee-satisfaction-isat)
-* [Hires vs. Plan](/handbook/hiring/metrics/#hires-vs-plan)
-* [Time to Offer Accept](/handbook/hiring/metrics/#time-to-offer-accept-days)
+* [Average candidate ISAT](/#interviewee-satisfaction-isat)
+* [Hires vs. Plan](/#hires-vs-plan)
+* [Time to Offer Accept](/#time-to-offer-accept-days)
 
 ## Talent Brand and Talent Acquisition Enablement Leadership
 
@@ -266,8 +266,8 @@ The Senior Director Talent Brand is a [grade 11](/handbook/total-rewards/compens
 - [LinkedIn Talent Brand metrics](/handbook/people-group/employment-branding/#linkedin-talent-brand-metrics)
 - [Team member engagement score](/handbook/people-group/employment-branding/#team-member-engagement-score)
 - [Team member voluntary turnover](/handbook/people-group/people-group-metrics/#team-member-voluntary-turnover)
-- [Hires vs. plan](/handbook/hiring/metrics/#hires-vs-plan)
-- [Social Referrals](https://about.gitlab.com/handbook/hiring/metrics/#social-referrals)
+- [Hires vs. plan](/#hires-vs-plan)
+- [Social Referrals](https://about.gitlab.com/#social-referrals)
  
 ## Career Ladder
  

@@ -82,7 +82,7 @@ Other requirements
 - [12 month PIP Success Rate](/handbook/people-group/people-group-metrics/#regrettable-attrition)
 - [Discretionary bonus per employee per month](/handbook/incentives/#discretionary-bonuses)
 - [Engagement survey inclusion questions](/company/culture/inclusion/#performance-indicators)
-- [New Hire Location Factor](/handbook/hiring/metrics/#new-hire-location-factor)
+- [New Hire Location Factor](/#new-hire-location-factor)
 - [Percent of team members over compensation band](/handbook/people-group/people-group-metrics/#percent-over-compensation-band)
 - [Plan vs Actual](/handbook/finance/financial-planning-and-analysis/#plan-vs-actual)
 - [Women in company](/company/culture/inclusion/#performance-indicators)

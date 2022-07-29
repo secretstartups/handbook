@@ -210,13 +210,13 @@ The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compen
  
 ## Performance indicators
 
-* [Prospects Submitted](https://about.gitlab.com/handbook/hiring/metrics/#sourced-prospects-submitted)
-* [Phone Screens Scheduled](https://about.gitlab.com/handbook/hiring/metrics/#phone-screens-scheduled-by-a-sourcer)
-* [Interview Conversion Rate](https://about.gitlab.com/handbook/hiring/metrics/#sourcer-interview-convertion-rate)
-* [Offer Conversion Rate](https://about.gitlab.com/handbook/hiring/metrics/#sourcer-offer-convertion-rate)
-* [Hires Conversion Rate](https://about.gitlab.com/handbook/hiring/metrics/#sourcer-hires-conversion-rate)
-* [Number of candidates moved to the Reference Check](https://about.gitlab.com/handbook/hiring/metrics/#sourced-candidates-moved-to-the-reference-check)
-* [Number of Offers sourced](https://about.gitlab.com/handbook/hiring/metrics/#sourced-offers)
+* [Prospects Submitted](https://about.gitlab.com/#sourced-prospects-submitted)
+* [Phone Screens Scheduled](https://about.gitlab.com/#phone-screens-scheduled-by-a-sourcer)
+* [Interview Conversion Rate](https://about.gitlab.com/#sourcer-interview-convertion-rate)
+* [Offer Conversion Rate](https://about.gitlab.com/#sourcer-offer-convertion-rate)
+* [Hires Conversion Rate](https://about.gitlab.com/#sourcer-hires-conversion-rate)
+* [Number of candidates moved to the Reference Check](https://about.gitlab.com/#sourced-candidates-moved-to-the-reference-check)
+* [Number of Offers sourced](https://about.gitlab.com/#sourced-offers)
 
 ## Career Ladder
 

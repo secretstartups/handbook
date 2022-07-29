@@ -41,11 +41,11 @@ The Executive Recruiter is a [grade 8](/handbook/total-rewards/compensation/comp
 
 ## Performance Indicators
 
-* [Hire vs Plan](https://about.gitlab.com/handbook/hiring/metrics/#hires-vs-plan)
-* [Time to Offer Accept](https://about.gitlab.com/handbook/hiring/metrics/#time-to-offer-accept-days)
-* [Offer Acceptance Rate](https://about.gitlab.com/handbook/hiring/metrics/#offer-acceptance-rate)
-* [New Hire Location Factor](https://about.gitlab.com/handbook/hiring/metrics/#new-hire-location-factor)
-* [Interviewee Satisfaction (ISAT)](https://about.gitlab.com/handbook/hiring/metrics/#interviewee-satisfaction-isat)
+* [Hire vs Plan](https://about.gitlab.com/#hires-vs-plan)
+* [Time to Offer Accept](https://about.gitlab.com/#time-to-offer-accept-days)
+* [Offer Acceptance Rate](https://about.gitlab.com/#offer-acceptance-rate)
+* [New Hire Location Factor](https://about.gitlab.com/#new-hire-location-factor)
+* [Interviewee Satisfaction (ISAT)](https://about.gitlab.com/#interviewee-satisfaction-isat)
 
 ## Hiring Process
 

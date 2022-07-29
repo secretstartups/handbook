@@ -49,7 +49,7 @@ The Senior Director, People Success is a [grade 11](https://about.gitlab.com/han
 * [Discretionary bonus per employee per month](/handbook/incentives/#discretionary-bonuses-per-employee)
 * [Engagement Survey Growth and Development Score](/handbook/people-group/learning-and-development/#engagement-survey-growth-and-development-score--x)
 * [Engagement survey inclusion questions](/company/culture/inclusion/#performance-indicators)
-* [New Hire Location Factor](/handbook/hiring/metrics/#new-hire-location-factor)
+* [New Hire Location Factor](/#new-hire-location-factor)
 * [Pay equality](/company/culture/inclusion/#performance-indicators)
 * [Percent of team members over compensation band](/handbook/people-group/people-group-metrics/#percent-over-compensation-band)
 * [Rate of internal job promotions](/handbook/people-group/learning-and-development/#rate-of-internal-job-promotions--x)
