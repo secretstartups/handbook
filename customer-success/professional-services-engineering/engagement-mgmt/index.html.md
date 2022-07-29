@@ -27,6 +27,8 @@ The [Professional Services (PS) Engagement Manager](https://about.gitlab.com/job
 * Track progress of the SoW through to signature
 * Provide soft hand-off of the SOW to the Delivery team upon signature to ensure a smooth transition. 
 
+[Detailed Job Responsibility Priortization](task-prioritization)
+
 
 ## Meet the Team
 
@@ -34,9 +36,9 @@ Check out our team of Engagement Managers on our [team page](https://about.gitla
 
 ## How to contact or collaborate with us
 
-- Create a scoping issue using the [Services Calculator](https://services-calculator.gitlab.io)
-- [Slack](/handbook/customer-success/professional-services-engineering/working-with/#slack)
-- Salesforce Chatter
+- Create a scoping issue using the [Services Calculator](https://services-calculator.gitlab.io) to request scoping support for a specific customer opportunity 
+- [Slack](/handbook/customer-success/professional-services-engineering/working-with/#slack) for informal and general questions, coordination
+- Salesforce Chatter for approvals, discussion of opportunity status, or collaboration with sales leadership and legal. 
 
 ## Useful Resources
 
@@ -45,6 +47,8 @@ Check out our team of Engagement Managers on our [team page](https://about.gitla
 - [Professional Services Offering Framework](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/framework/)
 - [Services Calculator](https://services-calculator.gitlab.io)
 - [Certified GitLab Engagement Manager Learning Journey](gitlab-certified-engagement-manager)
+- [Main Customer Slide Template](https://gitlab.highspot.com/items/629a6d7cf089bbaa9e0d4fa7?lfrm=srp.0) 
+- [Services data sheets](https://gitlab.highspot.com/search?q=data+sheet)
 
 ## Engagement Manager - Processes
 
