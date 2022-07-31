@@ -594,13 +594,22 @@ To learn more about the SuperSonics Billing and Subscription Management experien
 
 *   For [standard professional services SKUs](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/SKUs/), only a signed order form is required.
 
-##### Creating a Professional Services Quote for Scoped/Custom Services
+##### Creating a Professional Services Quote for Scoped/Custom Education or Services
 
-*   Scoped/Custom Services are those that require consultation with the Professional Services team, and require a custom SOW to be drafted and signed by the customer. This includes any Professional Services that are not fully prepaid and any cases where a combination of standard SKU offerings and custom-scoped services are being sold together in a single opportunity.
-*   Scoped/Custom Services must always be quoted on a standalone opportunity, separately from any subscription products SKUs. (i.e.; You may NOT sell a 12 month SaaS Ultimate SKU on the same quote/ opportunity as Scoped/Custom Services).
-*   Create a New Business Opportunity and select “Professional Services Only” under “Opportunity Record Type.”
-*   Create a new subscription quote under the Professional Services opportunity by following the steps above under “new Subscription Quote.” Select the **GitLab Service Package** SKU. Update the price to reflect the total price on the SOW.  You should use this SKU to reflect the total amount of the SOW, even if the SOW includes some standard training classes or other offerings that could be purchased via SKU.  **Note:** You do not need to submit the quote for Custom services for approval. Approvals will be handled by the Engagement Manager via the scoping issue, and any discounts in rate should be handled separately via Chatter, as per the [Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.dccvx02huo2y).  The SOW will be sent to the customer for signature, not the quote/order form.
-*   To gain support from the Professional Services team with a Custom SOW, initiate a scoping issue using the [Services Calculator](https://services-calculator.gitlab.io/) and work with a Professional Services [Engagement Manager](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/).
+**General Quoting Instructions**
+
+- Scoped/Custom Education or Services are those that require consultation with the Professional Services team, and require a custom SOW to be drafted and signed by the customer. This includes any Professional Services or Education Services that are not fully prepaid, and any cases where a combination of standard SKU offerings and custom-scoped services are being sold together in a single opportunity.
+- Scoped/Custom Services must always be quoted on a standalone opportunity, separately from any subscription products SKUs. (i.e.; You may NOT sell a 12 month SaaS Ultimate SKU on the same quote/ opportunity as Scoped/Custom Services).
+- Create a New Business Opportunity and select “Professional Services Only” under “Opportunity Record Type.”
+- Create a new subscription quote under the Professional Services opportunity by following the steps above under “new Subscription Quote.” 
+  - **If the SOW contains purely Professional Services**, select the GitLab Service Package SKU. Update the price to reflect the total price on the SOW.
+  - **If the SOW contains purely Education Services**, select the Custom PS Education Services SKU. Update the price to reflect the total price on the SOW.
+  - **If the SOW contains a mixture of Professional Services and Education Services**, two separate quotes should be created under the same opportunity. Create one quote using the Custom PS Education Services SKU, and another quote using the GitLab Service Package SKU. On each quote, update the price of the applicable SKU to reflect the applicable price for each category from the SOW. Together, the totals of both quotes should add up to the total price on the SOW. 
+    - To determine which portion of the SOW is for Professional Services vs. Education Services, note the following: Education and Services are split out on the SOW in separate sections. The Education portion would display standard SKU names such as "CI/CD Training" and "Admin Training" and will contain a total cost for the full Education portion. The Services portion would be custom, but would often denote "Time and Materials" or "PS Hours" and will contain a total cost for the full Services Portion.
+
+
+**Note:** You do not need to submit the quote for Custom services for approval. Approvals will be handled by the Engagement Manager via the scoping issue, and any discounts in rate should be handled separately via Chatter, as per the [Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.dccvx02huo2y).  The SOW will be sent to the customer for signature, not the quote/order form.
+- To gain support from the Professional Services team with a Custom SOW, initiate a scoping issue using the [Services Calculator](https://services-calculator.gitlab.io/) and work with a Professional Services [Engagement Manager](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/).
 
 ##### Before submitting a Scoped/Custom Professional Services Opportunity for Closure:
 
