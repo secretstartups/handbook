@@ -15,7 +15,7 @@ description: "This page outlines the Quote to Cash process, starting from accoun
 **Welcome to the Sales Order Processing page!**
 {:.gitlab-purple .no_toc}
 
-This page outlines the Quote to Cash process. Topics include account and opportunity creation, quote configuration and approvals, opportunity booking requirements, and closing an opportunity. This page will also cover common questions that may arise after an opportunity has been closed.
+This page outlines the Quote to Cash process. Topics include account and opportunity creation, quote configuration and approvals, opportunity booking requirements, and closing an opportunity. This page will also cover common questions that may arise after an opportunity has been closed.   
 
 ### Helpful Links
 
@@ -79,18 +79,18 @@ The following is a high level guide to quote types and important quote informati
 
 #### Standard Quote Types
 
-There are 4 different types of quotes - New Subscription, Amend Existing, Renew Existing, Cancel Existing. The correct quote type must be used for each opportunity.
+There are 4 different types of quotes - New Subscription, Amend Existing, Renew Existing, Cancel Existing. Quote type will typically align to opportunity type. The correct quote type must be used for each opportunity.
 
 | **Quote Type** | **When to Use** |
 |-----------------|:-------------|
-| [New Subscription](/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote) | Any New Subscription Term or Renewal where customer is changing term length |
+| [New Subscription](/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote) | Any New Subscription Term OR Renewal where customer is changing term length |
 | [Amend Subscription](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote)     | Use this quote type to add users, true up, or change product tier **during the current subscription term.** (NOTE: True-ups added before renewal date will not eliminate true-up requirement for the same term which will be charged at renewal. True-up is a backward looking one-time fee that is always recognized at renewal. License add-ons during the term will eliminate the future true-ups to be charged at renewal.) |
 | [Renew Existing Subscription](/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote)      | Customer is at the end of their current term and wants to renew for the same term length      |
 | [Cancel Existing Subcription](/handbook/sales/field-operations/sales-operations/deal-desk/#contract-reset)      | This is used for a Contract Reset - please chatter on the opportunity level for assistance with contract resets      |
 
 #### Quote Template Types 
 
-GitLab uses 5 quote templates to support each type of transaction. The following quote templates are available on all quotes (New Subscription, Amendment, Renewal) 
+GitLab uses 5 quote templates to support each type of transaction. The following quote templates are available on all quotes (New Subscription, Amendment, Renewal). The correct quote template must be used for the deal as there is acceptance language specific to each route to market. 
 
 | Template                            | Use For                                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -109,7 +109,7 @@ Pre-Approved Legal Language can be added to each quote. Selections are listed as
 | Add Quarterly True Up Language | Standard Quarterly True Up Language will populate in the Notes section of the Order Form *This language permits manual quarterly add-ons, and can only be used when SuperSonics Quarterly Reconciliations do not apply |
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
 
-Quotes run through an automated logic check to ensure that the selected Legal Language can be added to the order form. This logic check reviews characteristics of the quote, including populated fields, route to market, and products being sold. 
+Quotes run through an automated logic check to ensure that the selected Legal Language can be added to the order form. This logic check reviews characteristics of the quote, including populated fields, route to market, and products being sold to ensure added language does not conflict with the deal structure. 
 
 In some instances, you will make a selection that will require additional review and approval before an order form can be sent out. This is typically for complex/non standard deals. If you make a selection that cannot be accommodated, you will see an error message. Remove the selection and move forward with the quote. If you are confused, or need assistance, tag Sales-Support in chatter and provide a screenshot of the error you're experiencing.
 
@@ -137,10 +137,9 @@ For **Non-Standard/Complex Quote requests**, the Deal Desk team will assist the 
 
 Please review the [Deal Desk Quote Configuration Guide](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for more information. Note that the above list of non-standard quote elements is not exhaustive. If you encounter a non-standard need that is not listed on this page, please chatter @Sales-Support on the SFDC Opportunity in question for evaluation and assistance.
 
-
 #### Quote Tax Information
 
-If a customer requests Tax removed from the quote, they need to provide a Valid Tax Excemption Certificate. Please attach this to the opportunity.
+If a customer requests Tax removed from the quote, they need to provide a Valid Tax Exemption Certificate. Please attach this to the opportunity.
 
 1. Tax Exempt - Need to check with client to make sure they are tax exempt and load tax exempt certificate into their account in SFDC.
 1. Tax Exempt - If tax exempt click yes on drop down menu and add additional notes if needed.
@@ -169,7 +168,7 @@ The SuperSonics Billing and Subscription Management Experience applies to all el
 
 #### Auto-Renewal, Quarterly Subscription Reconciliation, and Operational Data: Sales Assisted Transactions
 
-New fields have been added to the Quote object to support SuperSonics Functionality. These fields will appear on two sections of the quote object. 
+Specific fields have been added to the Quote object to support SuperSonics Functionality. These fields will appear on two sections of the quote object. 
 
 **Zuora Fields**
 
@@ -293,7 +292,7 @@ Within the Customer Opportunity:
 
 
 <details>
-<summary markdown="span"><b>Learn more about Customer Vendor Setup Forms and Obtaining Signatures</b></summary>
+<summary markdown="span"><b>Customer Vendor Setup Forms and Obtaining Signatures</b></summary>
 
 #### How to process Customer requested "Vendor Setup Forms"
 * From time to time a Customer may request that GitLab complete a Vendor Setup document. This is generally required for procurement groups to add a new vendor to their system(s).
@@ -335,7 +334,7 @@ To add our SaaS SLA Addendum to an order form, please open a Legal case after al
 
 
 <details>
-<summary markdown="span"><b>Learn more about Export Compliance</b></summary>
+<summary markdown="span"><b>Export Compliance</b></summary>
 
 #### Trade Compliance (Export / Import) and Visual Compliance Tool in SalesForce
 
@@ -373,7 +372,7 @@ To add our SaaS SLA Addendum to an order form, please open a Legal case after al
 
 
 <details>
-<summary markdown="span"><b>Learn more about Creating custom contracts or adding custom terms to quotes</b></summary>
+<summary markdown="span"><b>Creating custom contracts or adding custom terms to quotes</b></summary>
 
 #### Process for Agreement Terms Negotiations (when applicable) and Contacting Legal
 
@@ -446,7 +445,7 @@ Within the Customer Opportunity:
 
 
 <details>
-<summary markdown="span"><b>Learn more about creating legal dashboards or filing executed contracts</b></summary>
+<summary markdown="span"><b>Creating legal dashboards or filing executed contracts</b></summary>
 
 #### Creating your own Legal Request Dashboard:
 1. Creating your own Legal Request Dashboard will enable you to see all Open and Closed Legal Requests that have been created.
@@ -485,7 +484,7 @@ After both parties have signed the contract, complete these steps:
 </details>
 
 <details>
-<summary markdown="span"><b>Learn more about Custom Agreements and Negotiating GitLab's Standard Agreement</b></summary>
+<summary markdown="span"><b>Custom Agreements and Negotiating GitLab's Standard Agreement</b></summary>
 
 #### Using Customer Form Agreements and Negotiating GitLab's Standard Agreement
 
@@ -837,14 +836,10 @@ You've created the quote, received all necessary approvals, and the customer has
 
 All opportunities must meet *all* requirements outlined below to be processed. **Exceptions are rare and not made lightly** and often require several approvals. Your opportunity will be rejected if it does not meet booking requirements. 
 
-
-
 #### Opportunity Booking Requirements
 
 There are unique requirements for different methods of selling GitLab. Review the drop down related to your order type.
 
-
- 
 
 <details>
 <summary markdown="span"><b>Overview Booking Requirements for Direct Opportunities<b></summary>
@@ -1160,7 +1155,7 @@ This policy dictates the timing of opportunity closure for all sales-assisted de
 **My customer is waiting for their license key (self-managed) or provisioning email (SaaS). When will they receive their entitlements?**
 - See [How do I know if a License Key was sent to the Customer?](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-do-i-know-if-a-license-key-was-sent-to-the-customer) below.
 
-##### End of Quarter Bookings
+#### End of Quarter Bookings
 
 Under the Bookings Policy, opportunities must be submitted for approval by 11:59 PM Pacific Time on the last calendar day of the fiscal quarter to be booked within that same quarter. At the time of opportunity approval submission, such opportunities must meet all documented booking requirements to be booked within the quarter (including an enforceable agreement). If an opportunity is submitted for approval by 11:59 Pacific Time on the last calendar day of the fiscal quarter, but upon review the Order Management and/or Billing Teams conclude that the opportunity does not meet all booking requirements and is rejected, that opportunity will not be booked within the quarter that has just ended.
 
@@ -1292,9 +1287,6 @@ To view the status of an opportunity after it has been submitted for approval, *
 * **Finance Approval**: Once Deal Desk has reviewed and approved the transaction, Finance will review. If the opportunity is approved by Finance, the stage will update to “Closed Won” and the deal is officially booked. An approval email will be sent to the opportunity owner and Slack message will appear in the “wins” channel and the "wins-key-deals" channel where applicable.
 *  **Finance Rejection:** Once Deal Desk has reviewed and approved the transaction, Finance may reject the opportunity. If Finance rejects the opportunity, the stage will remain in “7- Closing” and both the Sales Rep and Deal Desk Analyst will receive an alert email containing the rejection reason. The Sales Rep should work with the Deal Desk Analyst to rectify the issues that led to Finance rejection. Once the issues are resolved, the Deal Desk Analyst will approve the deal once more to submit it to Finance for final approval.
 
-
-
-
 ### **Post Sale Information**
 
 The opportunity closed! Congrats! Wait... my customer still has questions! Here are some of the most common questions that come up after an opportunity has closed... and how to resolve them.
@@ -1313,28 +1305,25 @@ Notes on License Timing:
 
 Licensing emails sent to customers are captured and stored in Salesforce as an Activity against the Contact record. This activity will also be related to the Account record, and can be found under "Activity History" list on the Account level.
 
-Look for Task title: `Email: Your GitLab License File`
+Look for Task title: `Email: Your GitLab License File` of `Email: Your GitLab Activation Code`
 
-#### My customer didn't receive the License File! Help!
+#### My customer didn't receive the License File or Activation Code! Help!
 
 Check out our [License & Renewal Workflows page](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/)
 
 On this page you can find answers to some of the most common questions/errors:
 
-* Customer has not accepted the EULA. They must accept the EULA before gaining access to .com
-* The License file was sent to the wrong contact - you'll need to open an issue for this, listed on the troubleshooting page above
-* The license file does cover the right number of users
+* The License file was sent to the wrong contact - you'll need to open an issue for this [here](https://gitlab-com.gitlab.io/support/internal-requests-form/)
+* The license file does cover the right number of users, or there were trueups that were unaccounted for 
 * How to resend a License File
 
 #### Where is the Invoice?
 
 As soon as an invoice is generated, the sales rep can view and download it as a PDF in Salesforce on the Account page. Navigate to the "Invoices" section. Click on the relevant invoice number. On the bottom of the invoice view, click "Invoice PDF".
 
- You can also view the "Invoices" tab at the top of the account page, under the chatter feed. A paid invoice will have a zeroed Balance and positive Payment Amount.
+You can also view the "Invoices" tab at the top of the account page, under the chatter feed. A paid invoice will have a zeroed Balance and positive Payment Amount.
 
- If an opportunity was sold through channel or MSP, the Invoice will be located on the Partner or MSP Account page, not the Customer Account page.
-
- You can send a copy of this invoice PDF if the customer requests.
+If an opportunity was sold through channel or MSP, the Invoice will be located on the Partner or MSP Account page, not the Customer Account page. You can send a copy of this invoice PDF if the customer requests.
 
 #### How to Handle Duplicate Accounts and Opportunities from Web Direct Purchases
 
@@ -1380,7 +1369,7 @@ We love to help, but even our powers are limited.
 
 Sales-support does not have the ability to:
     * Resolve Zendesk tickets or open Support issues
-    * Access the LicenseApp - **we can't send trials, new licenses, or resend EULAs**
+    * Access the LicenseApp - **we can't send trials, new licenses, or activation codes**
 
 #### When to contact Customer Support:
 
@@ -1394,4 +1383,4 @@ The support team cannot assist you with:
 
     * Salesforce updates/Account/Opportunity Management
     * Quoting - Whether it's a new quote or fixing a true up error, they cannot build quotes
-    * Questions regarding the LicenseApp
+    * Questions regarding the LicenseApp 
