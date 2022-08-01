@@ -16,20 +16,11 @@ title: "Sales Finance"
  * [Sales Strategy & Analytics (SS&A)](/handbook/sales/field-operations/sales-strategy/)
  * [GTM Analytics Hub](/handbook/finance/financial-planning-and-analysis/sales-finance/gtm-analytics-hub)
 
-## Sales Finance Charter
- 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwo94z2v7qO1fbW96AtBj3-6RHBKGcn0gntWOSIfvVWQFqpdIr6s0Po8lHeIsavhkEBWTvksezg6GF/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
-[Deck](https://docs.google.com/presentation/d/1ui8kR65n-vpYD3JQjErP0qCLikcMndzPzIt8hYo6-Vg/edit?usp=sharing)
-
 ## Finance Business Partner Alignment
 
 | Name | Function |
 | -------- | ---- |
-| @fkurniadi | Overall |
-| @kmckern | Consolidation |
+| @kmckern | Strategic Planning/Consolidation |
 | @chauenstein | Enterprise, Channels, Alliances |
 | @waqaar | Commercial Sales, Customer Success |
 | @laura_newbury | Professional Services, Field Ops |
