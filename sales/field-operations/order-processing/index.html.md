@@ -223,7 +223,7 @@ The below process applies to any existing customers with an active subscription 
 
 **Opportunity Closure:**
 - 7 days after opportunity creation,  we perform the reconciliation by committing an amendment to the subscription in Zuora and generating an invoice which is sent to the customer. At this time, in Salesforce:
-  - The oppportunity becomes Closed Won automatically
+  - The opportunity becomes Closed Won automatically
   - The night after the opportunity becomes Closed Won, a nightly job will run to create the underlying quote and populate opportunity data fields accurately. 
 
 #### How To Opt-Out of Auto-Renewal, Quarterly Subscription Reconciliation, Cloud Licensing and Operational Data
