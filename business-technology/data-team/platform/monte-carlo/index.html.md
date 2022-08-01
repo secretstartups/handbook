@@ -20,9 +20,11 @@ description: "Monte Carlo Guide"
 
 ## How We Operate Monte Carlo
 
-We use the [#Data Obs Channel](https://gitlab.slack.com/archives/C037WAWHERM) for MC alerts.
+We use the [#data-pipelines](https://gitlab.slack.com/archives/C0384JBNVDJ) Slack channel for MC platform related alerts.
+We are planning on using the [#data-analytics](https://gitlab.slack.com/archives/CBZD1BA5S) Slack channel in the near future for model related alerts, as soon as we have implemented the full notification strategy for Monte Carlo.
+This work is planned under this epic for F23Q3: [Onboard Analytics Engineers to the Monte Carlo Tool](https://gitlab.com/groups/gitlab-data/-/epics/615)
 
-Monte Carlo will be an integral part of our [Daily Data Triage](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/) and will replace the [TD Trusted Data Dashboards](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-operations-dashboard).
+Monte Carlo is becoming an integral part of our [Daily Data Triage](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/) and will replace the [TD Trusted Data Dashboards](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-operations-dashboard).
 
 
 ```mermaid
@@ -38,29 +40,62 @@ sf --> |observes|mc
 ```
 
 
-The whole body of work covering the Monte Carlo rollout at GitLab falls under epic [Rollout Data Observability Tool with 100% coverage of Tier 1 Tables to improve Trusted Data, Data Quality, and Data Team member efficiency](https://gitlab.com/groups/gitlab-data/-/epics/567), where the work breakdown has been done and issues have been created to reflect the necessary steps until we are up and running with Monte Carlo on production. 
+The whole body of work covering the Monte Carlo rollout at GitLab falls under epic [Rollout Data Observability Tool with 100% coverage of Tier 1 Tables to improve Trusted Data, Data Quality, and Data Team member efficiency](https://gitlab.com/groups/gitlab-data/-/epics/567), where the work breakdown has been done and issues have been created to reflect the necessary steps until we are up and running with Monte Carlo on production.
 
 
 ## Logging In
 
 
-Login to Monte Carlo is done via Okta. Go to https://getmontecarlo.com/signin . The following screen appears upon login and after providing your email and clicking "Sign in with SSO", you should be redirected to your Okta login. 
+Login to Monte Carlo is done via Okta. Go to https://getmontecarlo.com/signin . The following screen appears upon login and after providing your email and clicking "Sign in with SSO", you should be redirected to your Okta login.
 
-![image](/uploads/5828f2b16849b86b6b02198506277027/image.png)
-
+![image](/handbook/business-technology/data-team/platform/monte-carlo/screenshot-1.png)
 
 ## Navigating the UI
 
-`Coming Soon`
+Once logged in, you should be able to see the Monte Carlo Monitors dashboard with details on the objects being monitored and several custom monitors that have already been set up.
+
+
+![image](/handbook/business-technology/data-team/platform/monte-carlo/screenshot-2.png)
+
+
+You can create a new monitor or view existing monitor details, such as definition and schedule and any anomalies related to it.
+Alternatively, you can also list all the incidents by clicking on the Incidents menu item on the top menu bar, you can search for a specific model by querying the Catalog view or check Pipelines for a detailed lineage information on how the data flows from the source to the production model.
+
+Depending on the role assigned to your user (by default every user logging in via SSO is assigned a Viewer role), you might be able to see Settings and check existing users and integrations (such as Slack integration, Snowflake integration, dbt integration etc.)
+
+If you need your role to be updated, you can reach out to anyone on the data platform team and they will be able to modify your existing role.
+
+More information on navigating the UI can be found in the official documentation: https://docs.getmontecarlo.com/docs/how-to-navigate-the-monte-carlo-ui
 
 ## Adding a New Monitor
 
-`Coming Soon`
+Monte Carlo will be running volume, freshness and schema change monitors by default on all the objects it has access to.
+However, these checks are based on update patterns the tool learns from the data and if you need a specific custom check that runs on a certain schedule, you might want to add a custom monitor for that.
+
+The official Monte Carlo documentation on monitors can be found here: https://docs.getmontecarlo.com/docs/monitors-overview
 
 ## Fine-Tuning an Existing Monitor
 
-`Coming Soon`
+If you want to modify an existing monitor, depending on the type of monitor, you can modify different parts of it such as the schedule, the timestamp field to be taken into account & the alert condition.
+
 
 ## Responding To A Slack Alert
 
-`Coming Soon`
+Currently, when we are getting a notification on the #data-pipelines channel, we can already triage the issue via Slack by assigning a status to it choosing from: Investigating, Expected, Fixed, No Action Needed or False Positive.
+Once we start investigating and we have a finding, if we write a comment on Slack in the same notification thread, that comment will automatically be added to the incident on Monte Carlo.
+
+Our goal is to be able to integrate Monte Carlo with GitLab so that whenever we get an alert on Slack, a triage issue would automatically be opened on GitLab and we'd follow the same [Data Triage procedure](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/) as usual.
+
+There is detailed information including a video section in the official Monte Carlo documentation on [how to respond to an alert](https://docs.getmontecarlo.com/docs/explore-monte-carlo-incidents).
+
+## Note on DWH Permissions
+
+In order for Monte Carlo to be integrated with Snowflake, we have had to run the permissions script as specified in the [official docs](https://docs.getmontecarlo.com/docs/snowflake) for each database we needed to monitor.
+The same script  has to be run as many times as we have databases to monitor (in our case `raw`, `prep` and `prod`) with the correct values for the `$database_to_monitor` variable.
+The data observability user is stored on our internal data vault.
+
+Please note this is an exception to our usual permission-handling procedure, where we rely on Permifrost, because observability permissions are an edge-case for Permifrost and not yet supported by the tool.
+There is an ongoing [feature request](https://gitlab.com/gitlab-data/permifrost/-/issues/120) on Permifrost for adding granularity to the way permissions are set, but no solution has been agreed on yet.
+
+
+
