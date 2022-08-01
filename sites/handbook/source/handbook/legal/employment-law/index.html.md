@@ -31,7 +31,7 @@ In any situation(s) that relate to specific team members or otherwise require an
 ## Working with Legal on Employment Issues
 When individual team members have questions about their employment at GitLab, they should interact with the People Group rather than reaching out directly to the Legal Employment team. Visit the [People Group Handbook] (https://about.gitlab.com/handbook/people-group/) to determine who to work with for your particular needs.
 
-If People Group needs to engage with Legal Employment on a particular question, they will apply the `legal-employment::to-do` label on the issue that requires attention. This will update the [Legal Employment Issue Board](https://gitlab.com/gitlab-com/legal-and-compliance/-/boards/4323191) and allow the team to triage appropriately. When the Legal Employment team has finished their portion of the issue, they will update the label to `legal-employment::done`.
+If People Group needs to engage with Legal Employment on a particular question, they will apply the `legal-employment::to-do` label on the issue that requires attention. This will update the [Legal Employment Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/4585701) and allow the team to triage appropriately. When the Legal Employment team has finished their portion of the issue, they will update the label to `legal-employment::done`.
 
 Below are some common employment topics where Legal is asked to provide input. The paragraphs below are intended to assist People Group to know when to reach out to Legal.
 
