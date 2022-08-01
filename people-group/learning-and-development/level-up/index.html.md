@@ -14,7 +14,7 @@ title: Level Up
 Welcome to Level Up at GitLab. This handbook page is meant to support both learners and administrators in Level Up. Thought Industries is the provider of the Level Up platform and is mentioned often in this documentation.
 
 
-![Level Up Dashboard](dashboard.jpg){: .medium.center}
+![Level Up Dashboard](dashboard-2.jpg){: .medium.center}
 
 
 # Contribute to Level Up
