@@ -246,6 +246,14 @@ There are several different reasons why we may choose to apply for a particular 
 1. **Alignment with our unique operating style:** As an all-remote company, we look for awards that will help elevate GitLab within communities that evangelize remote work.
 1. **Alignment with key markets and talent pools:** While we operate as a global company, certain awards associated with markets known for over-indexing on tech talent, and where we have a critical mass of over 100 team members, are often within our consideration set. As a result, we may submit for localized awards in specific cities or countries like the San Francisco Bay Area, the US, the UK, or Germany to show that we are a great place to work in the most competitive talent markets.
 
+### Sharing employer awards on social media
+
+We highly encourage team members to share the news about any GitLab employer award wins with their social media networks. Follow these easy steps and you'll be ready to share. If you'd like additional guidance please reach out to the #talent-brand slack channel. 
+
+1. Grab the link to the employer award listing you're looking to share, drop into the relevant social media platform
+1. Add commentary about why that recognition is important or meaningful to you and/or your team
+1. If mentioning GitLab, especially on LinkedIn and Instagram, remember to tag the company page and use the hashtags #gitlab #lifeatgitlab.
+1. Or, if you'd prefer suggested messaging to start with, you can log in to Bambu through Okta, and search for "Best workplaces". You'll find links to share the most recent employer awards available to quickly share with your networks.
 
 ## All-remote work
 
