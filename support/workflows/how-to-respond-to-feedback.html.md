@@ -97,6 +97,11 @@ For each feedback issue labeled "satisfaction::good":
 
 ### Sharing positive feedback in Support Week in Review (SWIR)
 
+To share positive feedback in the Support Week in Review, each week an issue will be created in the [Support Week In Review Tracker](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/-/issues) and tagged with `~"SWIR::SSAT"`.
+If you're the SSAT Reviewing manager it should be assigned to you automatically, but you can also [search for the label](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/-/issues?label_name%5B%5D=SWIR%3A%3ASSAT).
+
+Anything you add to the body of this issue will be included in the SWIR digest for the week.
+
 **Due Date**: the cut off for content for the SWIR is close of business on your Thursday. Plan to add any ticket feedback before this time. Anything you want to add after this time needs to be added to the content for the following week, to ensure it is included in the audio recording. 
 
 When selecting feedback to share, you don't need to share every piece of positive feedback. Consider the following when choosing what to share:
@@ -107,11 +112,13 @@ When selecting feedback to share, you don't need to share every piece of positiv
 1. If there are general sentiments or themes, feel free to congratulate the whole team. For example, if we were praised for our overall approach to support, speed, clarity, etc. 
 1. Is the feedback definitely positive?  Sometimes comments in positive feedback can be neutral or even negative. For example "I would have liked a quicker response", or "I was satisfied" are valuable to us, but they don't really encourage the team when shared in the SWIR. 
 
-#### Formatting feedback in SWIR document
+#### Formatting feedback in SWIR issue 
 
-When adding the comment to the [document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit), add it in the `Kudos From SSAT` section.
-Include the ticket number with a link to the ticket, the comment from the customer, and where applicable @ mention the person (or people) who primarily worked the ticket. 
+When adding the comment to the SSAT issue in the `support-week-in-review` tracker, feel free to use markdown formatting. If you wish to use headers (`#`) please 
+- use H4 (`####`) or lower
+- be aware that headers will be included in the table of contents in the issue
 
+Generally, include the ticket number with a link to the ticket, the comment from the customer, and where applicable @ mention the person (or people) who primarily worked the ticket. 
 
 ## Handling "Bad" Reviews
 
