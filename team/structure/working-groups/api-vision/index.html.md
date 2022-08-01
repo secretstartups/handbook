@@ -84,7 +84,7 @@ This is a list of topics that we want to discuss:
 | Functional Lead         | @Andysoiron     | [Andy Soiron](https://about.gitlab.com/company/team/#Andysoiron)         | Senior Backend Engineer, Ecosystem:Integrations                 |
 | Member                  | @grzesiek       | [Grzegorz Bizon](https://about.gitlab.com/company/team/#grzesiek)        | Principal Engineer, Verify                                      |
 | Member                  | @f_caplette     | [Frédéric Caplette](https://about.gitlab.com/company/team/#f_caplette)   | Senior Frontend Engineer, Verify:Pipeline Authoring             |
-| Member                  | @toupeira       | [Markus Koller](https://about.gitlab.com/company/team/#toupeira)         | Backend Engineer, Ecosystem:Integrations                        |
+| Member                  | @bmarjanovic    | [Bojan Marjanovic](https://about.gitlab.com/company/team/#bmarjanovic)   | Senior Backend Engineer, Ecosystem:Integrations                 |
 | Member                  | @kerrizor       | [Kerri Miller](https://about.gitlab.com/company/team/#kerrizor)          | Senior Backend Engineer, Create:Code Review                     |
 | Member                  | @lauraX         | [Laura Montemayor](https://about.gitlab.com/company/team/#lauraX)        | Backend Engineer, Verify:Pipeline Authoring                     |
 | Member                  | @nagyv-gitlab   | [Viktor Nagy](https://about.gitlab.com/company/team/#nagyv-gitlab)       | Senior Product Manager, Configure                               |
