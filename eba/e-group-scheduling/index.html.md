@@ -68,7 +68,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * A calendar key is available for viewing in the CoS to the CEO's daily schedule
 
 
-## Scheduling for Eric Johnson, VP of Engineering
+## Scheduling for Eric Johnson, CTO of Engineering
 
 * 1:1 Meeting title format: “Person:Eric 1:1” using [this template](https://docs.google.com/document/d/1vWm7-lmpqghoElckd02puqsKDNT6aCJInuZcfkdtvwQ/edit)
 * Tick the box “Attendees can modify”
@@ -110,22 +110,9 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
   * 7 -8 AM PST
 
 
-## Scheduling for Craig Mestel, Interim Chief Marketing Officer
-
-* 1:1 Meeting title format: "Craig:Person 1:1"
-* Color coding for calendar: 1:1's: blue, Reminders: yellow, Internal Meetings: light red, Marketing Specific Meetings: dark blue, Interviews: green, External Meetings: orange
-* All 1:1 meetings should be scheduled on Mondays and Tuesdays
-* Keep standing daily "blocks" that he has everyday for lunch and at the end of each day
-* Block out open slots with "DNB-reach out to shaynes@"
-* Create calendar reminders for GC's, AMA's and monthly key reviews two weeks in advance and then a final reminder one week prior
-* Block off hour prep time before all 1:1's with CEO
-* Keep Friday as open as possible for work time
-* If meetings fall after 5pmEST, check with him directly
-* Use personal Zoom links for interviews, all other meetings, especially external meetings, should utilize a one-time Zoom link
-
 ## Scheduling for Robin Schulman, Chief Legal Officer
 
-* All meeting requests should go through the CLO's Interim EBA, Megan Mozart
+* All meeting requests should go through the CLO's Sr. EBA, Sharlene Seemungal
 * Priority to candidate interviews, CEO, E-Group and GitLab BoD
 * Unavailable due to Group Conversations, Company Calls and personal commitments from 7-9am PT
 * During Zoom meetings please do not post information in the chat, add it to the meeting doc or in slack
@@ -134,20 +121,24 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Working blocks on the calendar are OK and can be moved to prioritize other meeting requests, team members should check in with the CLO's Sr. EBA to request a meeting using the meeting request requirements as a guideline
 
 ## Scheduling for Wendy Barnes, Chief People Officer
-* Please schedule all meetings through the People Function's EBA, Katrina Allen
+* Please schedule all meetings through the People Function's Sr. EBA, Stephanie Kusmirek
 * All meeting requests should include an agenda or doc for reference unless it is a Coffee Chat
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly, Skip Level 1:1's Monthly
 * Calendar color coding: 1:1s - dark green, Coffee Chat - light green, Sid or E-group meetings -red (Important meetings NOT to be moved are in red).
 * Do not schedule over DNB/Focus Time blocks without consulting the EBA of the People Group.
-Scheduling should ideally be kept between 9:00 am and 5:30 pm Pacific Time
+* Scheduling should ideally be kept between 9:00 am and 5:30 pm Pacific Time
 
 ## Scheduling for David DeSanto, VP Product 
-* All meeting requests should go through the EBA for Product, Jennifer Garcia and should include an agenda doc
+* Daily office hours are 9am-5pm ET, please Do Not Book meetings outside of working hours unless arranged with EBA, Jennifer Garcia
+* All meeting requests should go through the EBA for Product, Jennifer, and should include an agenda doc
+* If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
 * 1:1's with direct reports should occur weekly unless scheduling conflicts
-* Meetings before 9:00am CT and after 6:00pm CT need to be confirmed prior to scheduling
 * Biweekly Product Meeting and Weekly Product Leadership meetings cannot be scheduled over
 * David will allocate "Focus Time" blocks for work time based on upcoming priorities, please check with EBA before scheduling over these blocks
 * Reminders at -2 weeks, -1 week and -2 days should be put on the calendar for the following events: OKR, Group Conversations (Product), Board of Director meetings, Monthly Key Reviews, Monthly Top ARR Drivers Reviews, and Performance Indicator Reviws.
 * 1:1's should always be rescheduled instead of cancelled unless unavoidable due to OOO/PTO schedules
 * Meetings will be declined if no agenda is added or shared 48 hour priors to the meeting time
+
+## Scheduling for Ashley Kramer, Chief Marketing & Strategy Officer 
+ 
