@@ -1,12 +1,45 @@
 ---
 layout: job_family_page
-title: "Support Operations Specialist"
-description: Support Operations Specialists at GitLab support the daily operations and systems of the global support engineering team
+title: "Support Readiness Specialist"
+description: Support Readiness Specialists at GitLab support the daily operations of the global support engineering team
 ---
 
-## Support Operations Specialist
+## Support Readiness Specialist
 
-As a Support Operations Specialist, you will be responsible for supporting the
+As a Support Readiness Specialist, you will be responsible for ensuring the 
+[Support Engineers](https://about.gitlab.com/job-families/engineering/support-engineer/) and [Support Managers](https://about.gitlab.com/job-families/engineering/support-management/) are able to deliver consistently
+high quality support.
+
+Depending on your [specialization](#specializations), you will be contributing towards
+a variety of tasks towards that end.
+
+
+### Job Grade 
+
+The Support Readiness Specialist is a
+[grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### What you can expect in a Support Readiness Specialist role at GitLab:
+
+As a Support Readiness Specialist you will:
+
+* Develop a flexible process and execution strategy to support the growth
+  and scalability objectives of GitLab Support and company wide initiatives.
+* Own and drive projects to completion in agreement with relevant stakeholders
+  in a cross-departmental function.
+* Manage a fast-paced queue of requests, prioritize requests
+  according to business impact, and drive to appropriate completion dates.
+* Understand internal customer's needs and business context to provide
+  outstanding support and maintain high customer satisfaction.
+* Assist with implementation of new systems as needed to support evolving
+  processes and critically evaluate our use of systems with a view to improve
+  global efficiency.
+
+### Specializations
+
+### Operations 
+
+As a Support Readiness Specialist - Operations, you will be responsible for supporting the
 day-to-day operations and software systems used by GitLab’s global Technical
 Support team (including, but not limited to: our Zendesk instance(s), GitLab.com
 projects/integrations, and Calendly setup). You will be able to juggle a
@@ -15,21 +48,6 @@ troubleshooting custom applications in support of a global organization. As we
 rely on our systems to support and scale the organization, you will be the
 backbone and the foundation to our success!
 
-### Job Grade 
-
-The Support Operations Specialist is a
-[grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### What you can expect in a Support Operations Specialist role at GitLab:
-
-As a Support Operations Specialist you will:
-
-* Develop a flexible process and tool execution strategy to support the growth
-  and scalability objectives of GitLab Support and company wide initiatives.
-* Own and drive projects to completion in agreement with relevant stakeholders
-  in a cross-departmental function.
-* Manage a fast-paced queue of support operations requests, prioritize requests
-  according to business impact, and drive to appropriate completion dates.
 * Support and maintain several business critical SaaS systems (such as Zendesk,
   GitLab.com, Slack, Salesforce, Google groups), including user
   administration, in accordance with written and audited security controls and
@@ -40,17 +58,20 @@ As a Support Operations Specialist you will:
 * Maintain and demonstrate 100% compliance with all written security policies
   and change management controls, as well as assisting with audits of user
   access to key systems.
-* Understand internal customer's needs and business context to provide
-  outstanding support and maintain high customer satisfaction.
-* Assist with implementation of new systems as needed to support evolving
-  processes and critically evaluate our use of systems with a view to improve
-  global efficiency.
 
-### Projects you might work on:
+#### Additional Requirements
+* Zendesk Administrator experience (preferred; or the ability to gain Zendesk
+  Administrator Certification within 6 months of start date if required)
+* Zendesk enthusiast who thrives on working in a fast-paced and changing
+  environment
+* Understanding of business processes and ability to translate business
+  requirements into application functionality
+
+#### Projects you might work on:
 
 When you are not tackling your normal day to day challenges, you’ll have a lot
 of freedom to work on things that will make your life, and the lives of your
-coworkers, easier. Current and past Support Operations have:
+coworkers, easier. Current and past Support Readiness Specialists in Operations have:
 
 * Created
   [tooling to generate weekly 1-1 issues](https://gitlab.com/gitlab-com/support/toolbox/1-1-issue-generator)
@@ -63,21 +84,60 @@ coworkers, easier. Current and past Support Operations have:
   [version controlled via GitLab.com](https://about.gitlab.com/handbook/support/support-ops/documentation/sync_repos.html).
 * ...and even more!
 
+### Services Delivery
+
+As a Support Readiness Specialist - Services Delivery, you will be responsible 
+for ensuring that support quality remains high by gathering metrics, identifying
+trends, working cross-functionally to communicate those trends. To do this you'll:
+
+* Work with Support Managers and the Director of Support Readiness to identify
+ticket trends and health by customer and ticket types.
+* Proactively engage with customers, their Technical Account Managers and 
+  Support Management when ticket trends turn unhealthy to facilitate a return to
+  normal.
+* Monitor trending product usage, adoption and satisfaction issues in tickets to provide insights to your counterparts in
+Support Readiness - Training and keep Support Managers informed about coaching
+opportunities.
+* Regularly review Support Satisfaction (SSAT) scores to provide meaningful insights
+on trends in feedback.
+* Liase with Product and Engineering based on insights gathered from tickets and SSAT
+to help inform priorities based on customer impact.
+* Build two-way roads between Product and Support by working with the pool of 
+  global Support Engineers acting as [Support Stable Counterparts](https://about.gitlab.com/handbook/support/#support-stable-counterparts)
+
+### Training
+
+As a Support Readiness Specialist - Training, you will be responsible for creating
+an environment of continuous improvement that ensures the people who support 
+GitLab every day have relevant expertise to resolve customer issues quickly. 
+To do this you'll:
+* develop relevant and engaging learning content based on expressed and discovered needs.
+* work with [Support Management](https://about.gitlab.com/job-families/engineering/support-management/) to help [Support Engineers](https://about.gitlab.com/job-families/engineering/support-engineer/) prioritize
+progress through [training modules](https://gitlab.com/gitlab-com/support/support-training) or other professional development content.
+* improve publicly available and paid learning content by working with our 
+Channel and Learning and Development teams to avoid duplication of
+effort.  
+* use your creativity to innovate and discover what can make learning more fun
+and inclusive: compose songs, write poems, film short-format viral video content -
+whatever it takes to improve retention and get better customer outcomes.
+* work with Support Readiness Specialists in Operations to bring relevant
+workflow information or documentation closer to customers, Support Engineers
+and Support Management.
+* coordinate with Support Readiness Specialists in Service Delivery on improving
+ticket quality and customer satisfaction with Support (SSAT).
+* facilitate the self-organization and activities of [Support Pods](https://about.gitlab.com/handbook/support/workflows/working-with-pods.html) 
+* keep your eye on the horizon for product and offering changes to keep support prepared for the future.
+
+
 ### Requirements
 
 #### Requires Skills/Experience:
 
 * 1-3 years experience in SaaS support, with proven ability to support diverse
   customers needs.
-* Zendesk Administrator experience (preferred; or the ability to gain Zendesk
-  Administrator Certification within 6 months of start date if required)
 * Demonstrated technical aptitude for, and experience supporting, client-server
   and/or web-based applications and SaaS/PaaS solutions
 * Proven ability to solve practical business problems
-* Understanding of business processes and ability to translate business
-  requirements into application functionality
-* Zendesk enthusiast who thrives on working in a fast-paced and changing
-  environment
 * Strong team player with service-oriented attitude and customer focus
 * Excellent written and verbal communication
 * An eye for detail and out-of-the-box thinking
@@ -96,7 +156,7 @@ coworkers, easier. Current and past Support Operations have:
 * Coding experience with an object oriented language (such as Ruby, Python,
   etc.)
 
-### Senior Support Operations Specialist
+### Senior Support Readiness Specialist
 
 A Senior Support Operations Specialist is a more experienced engineer who
 continues to contribute as an individual while operating with equal comfort at
@@ -108,21 +168,21 @@ every member's ability to contribute.
 The Senior Support Engineer is a
 [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### What you can expect in a Senior Support Operations Specialist role at GitLab:
+#### What you can expect in a Senior Support Readiness Specialist role at GitLab:
 
 Generally they meet the following criteria. They:
 
 * are involved in mentoring teammates on new technologies, new
   processes/workflows, and new GitLab features.
 * posses expert knowledge of the various odds and ends of being a Support
-  Operations specialist.
-* submit merge requests to improve on Support Operations workflows/processes.
+  Readiness Specialist.
+* submit merge requests to improve on Support Readiness workflows/processes.
 * drive system enhancements and fixes based on product expertise and GitLab
   Support interactions.
 * contribute to one or more complementary projects.
 
-A Senior Support Operations Specialist may be interested in exploring Support
-Operations Management as an alternative at this point. See
+A Senior Support Readiness Specialist may be interested in exploring Support
+Readiness Management as an alternative at this point. See
 [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/)
 for more details.
 
@@ -162,12 +222,12 @@ interview, find their job title on our
   with our Global Recruiters.
 * Selected candidates receive a short assessment from our Global Recruiters.
 * Candidates will then be invited to schedule a 30 minute technical interview
-  with a Support Operations Specialist.
+  with a Support Readiness Specialist.
 * Candidates will then be invited to schedule a 45 minute behavioral interview
   with a panel consisting of a Support Operations Manager and a Support
   Engineering Manager.
 * Candidates will then be invited to schedule a 45 minute behavioral interview
-  with our VP of Customer Support.
+  with our Director of Support Readiness.
 * Candidates will then undergo reference checks.
 * Successful candidates will subsequently be made an offer via email.
 
