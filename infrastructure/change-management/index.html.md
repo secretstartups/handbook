@@ -43,6 +43,44 @@ Changes that need to be performed during the resolution of an Incident fall unde
 | Infrastructure Team | Responsible for implementing and executing this procedures |
 | Infrastructure Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
+# Does my change need a change request?
+
+Does your change:
+
+- Carry some risk?
+  > To help answer this question: has this change been attempted before? how extensively has this change been tested in non-prod environments? how confident are you in the evidence that this will not cause an issue in production?
+- Require deployments and/or feature flags to be paused?
+- Require manual steps?
+- Affect multiple departments and need increased visibility?
+
+If you answered **YES** (or even "maybe") to any of the questions above, then you should follow the change request workflow. The intent of the workflow is to reduce the likelihood of a change making it to production that has a negative impact by increasing visibility, and in cases where a change of this nature does make it to production, having a reviewed rollback plan ready to be executed means we can get back to a good state as quickly as possible.
+
+Examples of changes that should follow the change request workflow:
+
+- [Implement site wide rate limit in Cloudflare](https://ops.gitlab.net/gitlab-com/gl-infra/config-mgmt/-/merge_requests/4000).
+- [CSP changes in production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/6192).
+- [Drop an index from a table in staging](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/7476)
+
+## When you don't need a change request
+
+Non-exhaustive list of the types of changes that do not need a change request:
+
+- Merging a merge request that will automatically be deployed and the rollback is reverting the merge request.
+- A merge request that is considered low risk.
+- Minor dependency updates that aren't critical to our environment.
+- Feature toggles that are done via configuration and are not considered risky.
+
+Examples:
+
+- [Add service dependency on alerting](https://gitlab.com/gitlab-com/runbooks/-/merge_requests/4813)
+- [Small cookbook bumps](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/merge_requests/2114)
+  - **Use your judgement**: it really depends on the change made to the cookbook to determine if the cookbook version bump should follow our change management workflow or not.
+
+## When you are not sure
+
+- Ask for opinions in [#infrastructure-lounge](https://gitlab.slack.com/archives/CB3LSMEJV) or [#reliability-lounge](https://gitlab.slack.com/archives/C03QC5KNW5N)
+- Open a change management issue, err on the side of caution.
+
 # Change Request Workflows
 
 Plan issues are opened in the [production](https://gitlab.com/gitlab-com/gl-infra/production/issues) project tracker via the [change management issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=change_management). Each issue should be opened using an issue template for the corresponding level of criticality: `C1`, `C2`, `C3`, or `C4`. It must provide a detailed description of the proposed change and include all the relevant information in the template. Every plan issue is initially labeled `~"change::unscheduled"` until it can be reviewed and scheduled with a Due Date. After the plan is approved and scheduled it should be labeled `~"change::scheduled"` for visibility.
@@ -86,7 +124,7 @@ These are changes with high impact or high risk. If a change is going to cause d
 1. Changes which include downtime must be pre-communicated to users. Follow the guidance for [Communicating a change that requires downtime](/handbook/engineering/infrastructure/change-management/#communicating-a-change-that-requires-downtime-maintenance-window)
 1. All the database changes related should have a review by a DBRE.
 1. Have the change approved by Infrastructure management at the Sr. Manager level or above by obtaining the `manager_approved` label on the Change Request issue.
-1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them. 
+1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
 (The source is pagerduty, if you don't have access try [getting assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance))
 1. Announce the start of the plan execution in the `#production` Slack channel directly notifying the EOC using the `@sre-oncall` alias and have the change approved by the EOC by obtaining the `eoc_approved` label on the Change Request issue.
 1. Join The "Situation Room" zoom channel with the EOC and obtain verbal approval to start the plan execution.
@@ -117,7 +155,6 @@ These are changes that are not expected to cause downtime, but which still carry
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
 (The source is pagerduty, if you don't have access try [getting assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance))
 1. Announce the start of the plan execution in the `#production` Slack channel directly notifying the EOC using the `@sre-oncall` alias and have the change approved by the EOC by obtaining the `eoc_approved` label on the Change Request issue.
-
 
 ### Criticality 3
 
