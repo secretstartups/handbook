@@ -20,7 +20,7 @@ This workflow covers how a user can provide account verification. While the work
 
 ## GitLab Team Members
 
-If the user is a GitLab employee, have them contact IT Ops.
+If the user is a GitLab team member, have them contact IT Ops.
 
 ## Self Service 2FA Removal
 
@@ -48,7 +48,7 @@ In order for a SaaS user to be a candidate for the [workflow](#workflow), one of
 
 1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
 1. The user is the primary billing contact on a current invoice for either Self-managed or SaaS purchases.
-1. GitLab Employees (account managers, TAMs or others) collaborate with the holder of this account in an account management project.
+1. GitLab team member (account managers, TAMs or others) collaborate with the holder of this account in an account management project.
 
 More succinctly: they're paid, they use the account to pay, or we use the account to communicate with them.
 
