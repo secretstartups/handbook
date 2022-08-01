@@ -12,11 +12,11 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-latinx/"
 {:toc}
 
 ## Introduction
-Bienvenidos, bem-vinda and welcome to the Latinx space! We are a new TMRG and very much a WIP. Join us in our slack channel #latinx to be notified of our launch call and feel free to check out what we've been up to so far below.
+Bienvenidos, bem-vinda and welcome to the Latinx space! We are a TMRG that was started in early 2021. Join us in our slack channel `#latinx` to be notified of our upcoming  calls and feel free to check out what we've been up to so far below.
 
 [Latinx TMRG Overview Slide Deck (WIP)](https://docs.google.com/presentation/d/1eQIv4Km0bd9ciuJ-hjmuPSRo1TZxH1f7FcUfau7xQB4/edit#slide=id.gb5fc211329_1_0)   
 [Latinx Project in GitLab](https://gitlab.com/gitlab-com/latinx-tmrg)  
-Slack Channel: #latinx  
+Slack Channel: `#latinx` 
 Google Group: latinxtmrg@gitlab.com
 
 **Purpose of the TMRG**  
@@ -25,7 +25,6 @@ The GitLab's Latinxs TMRG provides a safe space for every GitLab Team member wit
 ## Mission
 
 To promote advancement, cultural awareness, talent recruitment, retention, and professional development for Latinx individuals by giving a voice to the diverse backgrounds of the Latinx community in order to ensure the GitLab messaging continues to reflect its core values of Diversity, Inclusion & Belonging.
-
 
 
 ## Leads
@@ -41,7 +40,13 @@ Looking for nominations!
 * [Join our Google Group here](https://groups.google.com/a/gitlab.com/g/latinxtmrg)
 
 ## Upcoming Events 
-* [Join us for our Launch Call March 4th](https://calendar.google.com/calendar/u/0/r/eventedit/MXE5MGZpb3JuZzRwaHEzcnBkbWZjcjNrcnFfMjAyMTAzMDRUMTkwMDAwWiBwbWVqaWFAZ2l0bGFiLmNvbQ?tab=mc)
+* LatinX TMRG Monthly Call: Monthly on the first Thursday 6:00pm – 6:25pm UTC [Notes](https://docs.google.com/document/d/12dYSDjiVvFt-c6UO9y350pFbrrK5Iq2o/edit)
+
+
+## Past Events
+* [Launch Call March 4th, 2021](https://calendar.google.com/calendar/u/0/r/eventedit/MXE5MGZpb3JuZzRwaHEzcnBkbWZjcjNrcnFfMjAyMTAzMDRUMTkwMDAwWiBwbWVqaWFAZ2l0bGFiLmNvbQ?tab=mc)
+* Latinx Round Table, an Iteration to [DIB Roundtable](https://about.gitlab.com/company/culture/inclusion/dib-roundtables/) – [Issue](https://gitlab.com/gitlab-com/latinx-tmrg/-/issues/38)
+
 
 ## Community Outreach 
 Our Latinx members are proud to be contributing externally to the following charitable organizations dedicated to supporting the Latinx community
