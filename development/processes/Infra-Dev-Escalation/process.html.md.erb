@@ -208,6 +208,7 @@ The on-call spreadsheet(internal only) can be found by searching [Google Drive f
    * Respecting an assumed 40-hour working week
    * Respecting an assumed 8-hour working day
    * Respecting the timezones engineers are based in
+   * Ensuring assigned on-call shifts fit between the hours of 8am-8pm local time for all team members in general, and 7am-9pm for engineers in the US Pacific Time timezone (approved in [this issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9638#note_1035704658)). 
 
    In general, engineers who aren't signing up to cover on-call shifts will be
    the ones who end up being assigned shifts that nobody else wants to cover,
@@ -262,11 +263,9 @@ The coordinator will:
 1. Remind engineers to sign up, by:
     * Posting reminders to the [#development](https://app.slack.com/client/T02592416/C02PF508L) and [#backend](https://app.slack.com/client/T02592416/C8HG8D9MY) channels in Slack
     * Asking managers in [#eng-managers](https://app.slack.com/client/T02592416/CU4RJDQTY) to remind team-members in 1-1s
-    * Utilizing appropriate mailing lists to contact engineers by email
-1. Assign folks to unfilled slots when needed (do your own due diligence
-   when this action is necessary). Use purple text in the spreadsheet to indicate this was an assigned slot.
+1. Assign folks to unfilled slots when needed. Use purple text in the spreadsheet to indicate this was an assigned slot.
 1. Coordinate temporary changes or special requests that cannot be
-   resolved by engineers themselves.
+   resolved by engineers themselves.  Fix any schedules that conflict with local labor law. 
 1. After assigning unfilled slots and accommodating special requests the coordinator should click **Sync to Calendar > Schedule shifts**.
    This will schedule shifts on the `On-call schedule shifts` calendar
    and if any developer added their email into the spreadsheet, they will be added as guests in the on-call calendar event. Ensure that you have subscribed to the calendar before syncing.
