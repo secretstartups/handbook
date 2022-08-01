@@ -16,18 +16,9 @@ Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube
 
 ## Upcoming Webinars
 
-We’d like to invite you to our free upcoming webinars during the month of July and August.
+We’d like to invite you to our free upcoming webinars during the month of August.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
-
-### July 2022
-
-### DevSecOps con GitLab
-#### July 28th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
-
-GitLab permite que los desarrolladores y la seguridad trabajen juntos en una sola herramienta, lo que permite una seguridad proactiva o "desplazamiento a la izquierda". Esta sesión cubrirá lo que ofrece GitLab, cómo los resultados del escaneo se integran sin problemas con los Merge Requests y cómo usar el panel de seguridad para administrar las vulnerabilidades detectadas.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_kjFVpVNKSGKE4XZITuBL3A)
 
 ### August 2022
 
