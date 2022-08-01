@@ -50,8 +50,7 @@ GitLab ultimately chose to onboard Highspot as a sales enablement solution / sal
 | **Competitive Intelligence** | All internal competitive matters; to be used for self-education about our competitors. | All internal team members | Locked | 
 | **Customer Success** | CS Operations, Gainsight, Professional Services, Solutions Architects, Technical Account Management. | All internal team members | Open - Review Required |
 | **Customer-Facing Content** | Case studies, industry research (publicly shareable), collateral, email templates. | All internal team members | Locked |
-| **Field Organization** | Resources sent to keep the Field team informed of organization-wide changes or large projects. | All internal team members | Locked |
-| **Field Training & Enablement** | Training, onboarding, recordings, manager resources. | All internal team members | Locked |
+| **Field Enablement** | Training, onboarding, organization-wide changes or large projects. | All internal team members | Locked |
 | **Marketing** | Internal marketing collateral, personas, value drivers, use cases, internal analyst reports. | All internal team members | Locked |
 | **Sales Plays** | All active and past GitLab [Sales Plays](/handbook/marketing/sales-plays/). | All internal team members | Locked |
 | **Sales Contributed Content** | Collateral that Field team members have created for customers and prospects – examples of "what good looks like." | All internal team members | Open - Review Required |
