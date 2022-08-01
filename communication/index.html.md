@@ -1557,6 +1557,11 @@ Once service is restored, go back to Slack and Zoom.
 
 Never use a Google Doc / Presentations for something non-confidential that has to end up on the website or the **handbook**. Work on these edits via commits to a merge request. Then link to the merge request or diff to present the change to people. This prevents a duplication of effort and/or an out of date handbook.
 
+### Pageless is the GitLab preferred format
+
+Google Docs [Pageless format](https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=en) is the preferred format for company documents that won't be printed. If a document is likely going to be printed (for example, a contract) the older paged style is acceptable. See [Good practices and helpful tips](#good-practices--helpful-tips) for help navigating the pageless format.
+ 
+
 ### Link sharing
 
 If you _do_ need a Google Doc, create one with your company Google Workspace (formerly G Suite)
@@ -1595,9 +1600,8 @@ Reference Google's [documentation](https://support.google.com/drive/answer/24948
 -  If you want to have the Google Doc be readable to the public, do not change the sharing settings from 'Editable by Everyone at GitLab', [publish the document](#how-to-publish-a-google-doc) instead.
 -  In all cases, the sharing settings (who a document is shared with, if it is visible to the whole company, etc.) on a Google Doc should be the single source of truth for the confidentiality of the document.
 -  Avoid using your initials when adding content to Google Docs or referring to someone else. Use your full name, as Google Docs [Smart Compose](https://support.google.com/docs/answer/9643962?hl=en) will auto-complete names for you, and display information about the GitLab team member on hover. It makes documents more readable and consumable, especially for people outside your team/department.
-- When there is a synchronous discussion about an issue or MR captured in a Google Doc, be sure to summarize the discussion into the issue or MR and link to the agenda item where it was discussed with a [bookmark](https://support.google.com/docs/answer/45893?hl=en&co=GENIE.Platform%3DDesktop). If the notes are [limited access](/communication/#limited-access) or no notes were taken, please say so.
-
-This will ensure that interested GitLab Team Members can see both the summary and context of the discussion.
+- When there is a synchronous discussion about an issue or MR captured in a Google Doc, be sure to summarize the discussion into the issue or MR and link to the agenda item where it was discussed with a [bookmark](https://support.google.com/docs/answer/45893?hl=en&co=GENIE.Platform%3DDesktop). If the notes are [limited access](/communication/#limited-access) or no notes were taken, please say so. This will ensure that interested GitLab Team Members can see both the summary and context of the discussion.
+- In the [pageless format](#pageless-is-the-gitlab-preferred-format) you can use COMMAND+OPTION+SHIFT+J or **View-->Hide Comments** to quickly hide comments that reduce document width.
 
 ### How to publish a Google Doc
 
