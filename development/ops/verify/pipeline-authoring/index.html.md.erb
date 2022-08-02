@@ -197,7 +197,7 @@ Issue descriptions shall always be maintained as the single source of truth. Iss
 Each member of the team can choose which issues to work on during an iteration for a milestone by assigning the issue to themselves.  When the iteration and milestone are well underway and we find ourselves looking for work, we default to working **right to left** on the **issue board** by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion.
 
 Specifically, this means our work is prioritized in the following order:
- * Any verification on code that is in `workflow::verification` or `workflow::production`
+ * Any verification on code that is in `workflow::verification` or `workflow::production` - **NOTE:** If an issue has the `workflow::feature-flagged label`, this means the feature is behind a feature flag that has not  been turned on by default.
  * Conducting code reviews on issues that are `workflow::in review`
  * Unblocking anyone in `workflow::blocked` or `workflow::in dev` if applicable
  * Then, lastly, picking from the top of the `workflow::ready for development` for development column
