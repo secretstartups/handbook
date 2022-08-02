@@ -53,7 +53,7 @@ In this (internal) video a fellow TAM walks you through:
 </figure>  
 <!-- blank line -->
 
-- CI Adoption Scoring Walk-thru 
+- CI Adoption Scoring Walk-through 
     - [Session 1](https://youtu.be/E4IMgFWGkNM) (internal only)
     - [Session 2](https://chorus.ai/meeting/E4F00AFC0C4A4036A7AC370653A50112?) (internal only)
     - [Value Statements for CI Adoption](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/delivery-automation/#customer-adoption-and-value)
@@ -72,7 +72,7 @@ The following metrics are used to determine a customer's DevSecOps Adoption Scor
 - [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (internal only)
 - [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/1JdRlS5G9iB0XMMWktYxYBDCnhVs2Ti-I6jBW0q61YZk/edit?usp=sharing) (internal only)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's DevSecOps Metrics to export and calculate the Adoption score
-- Value Statements - Coming Soon
-- Additional TAM Enablement - Coming Soon
+- [Value Statements](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#the-gitlab-solution)
+- Additional TAM Enablement - [Session 1](https://youtu.be/VXtiPVrOzS4) (internal only).  [Session 2](https://youtu.be/xwj-vHMYcUE) (internal only)
 
 ##### **Disclaimer:**  The scoring criterias & thresholds will continue to evolve as we iterate
