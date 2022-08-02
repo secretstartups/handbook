@@ -33,19 +33,19 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
-|August 5, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement  |
-|August 10, 2022 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement  |
-|August 10, 2022 | 11:30a ET | 12:50p ET | Value Card Exercise | Field Enablement |
-|August 11, 2022 | 10:00a ET | 11:20a ET | Discovery Question Exercise | Field Enablement  |
-|August 11, 2022 | 12:40p ET | 2:00p ET | Differentiator Exercise | Field Enablement  |
-|August 12, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
+|August 5, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement    |
+|August 10, 2022 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement   |
+|August 10, 2022 | 11:30a ET | 12:50p ET | Value Card Exercise | Field Enablement  |
+|August 11, 2022 | 09:30a ET | 10:50a ET | Discovery Question Exercise | Field Enablement   |
+|August 12, 2022 | 09:30a ET | 10:50a ET | Differentiator Exercise | Field Enablement   |
+|August 15, 2022 | 09:30a ET | 10:50a ET | MEDDPPICC & Breakout Call Prep | Field Enablement   |
 |August 15, 2022 | 11:00a ET | 11:30a ET | Field Security |  Field Security Team   |
-|August 15, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
-|August 16, 2022 | 10:00a ET | 10:50a ET | Discussion: Professional Services | Professional Services Team    |
-|August 16, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
-|August 17, 2022 | 11:00a ET | 11:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
-|August 17, 2022 | 12:00p ET | 12:50p ET | Discovery Call 2 | Mock Customers |
-|August 18, 2022 | 11:00a ET | 11:50a ET | Channels |  Channel Team   |
-|August 18, 2022 | 12:40p ET | 1:30p ET | Discovery Call 3 | Mock Customers |
+|August 16, 2022 | 10:00a ET | 10:50a ET | Discussion: Professional Services | Professional Services Team  |
+|August 16, 2022 | 11:00a ET | 11:50a ET | Alliances | Alliances Team  |
+|August 17, 2022 | 11:00a ET | 11:40a ET | Legal / Deal Desk | Legal & Deal Desk Team  |
+|August 17, 2022 | 12:00p ET | 12:50p ET | Discovery Call 1 | Mock Customers  |
+|August 18, 2022 | 10:00a ET | 10:50a ET | Channels |  Channel Team   |
+|August 18, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
+|August 19, 2022 | 10:00a ET | 10:50a ET | Discovery Call 3 | Mock Customers |
 
 
