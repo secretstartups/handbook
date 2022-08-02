@@ -105,7 +105,7 @@ Effective May 1, 2021 GitLab team members and their dependants enrolled in Canad
 * Termination: Age 65
 
 ### Evidence of Insurability (EOI)
-Please fill out the [Evidence of Insurability Form](https://drive.google.com/file/d/10ufkx55lIXY9dbwdals41FIAz52PS0YH/view?usp=sharing) 
+If your annual salary places you above the Non-Evidence Maximum of 10,000 CAD - (earnings of approx 180,001 CAD annually) - and you would like  coverage over the the Non-Evidence Maxiumum, please fill out the [Evidence of Insurability Form](https://drive.google.com/file/d/10ufkx55lIXY9dbwdals41FIAz52PS0YH/view?usp=sharing) 
 * Reach out to Total Rewards to fill out section 1-3 first. 
 * Total Rewards will return this to you to complete the remaining sections. 
 * Once completed, please submit directly to Canada Life at groupmed@canadalife.com 
