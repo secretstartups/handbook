@@ -27,8 +27,20 @@ title: "Authentication and Authorization Group"
 
 We create a weekly issue to inform the team members about the company or team updates, to share important links or to be informed about the team availability. Creation of the issue is the responsobility of an Engineering Manager, who can use an issue template located in the [Manage/Auth repo](https://gitlab.com/gitlab-org/manage/authentication-and-authorization/discussion). All weekly updates can be found in the project issue list [filtered by weekly update label.](https://gitlab.com/gitlab-org/manage/authentication-and-authorization/discussion/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=weekly%20update&first_page_size=20)
 
-#### Prioritization
-<%= partial "handbook/engineering/development/dev/manage/prioritization.erb", locals: { filter_value: 'authentication and authorization' } %>
+#### Planning
+
+We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline). Our typical planning cycle includes:
+
+* At the beginning of each month, Product should have created [a planning issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&first_page_size=20) for the coming release.
+  * This issue should include an initial plan for the release.
+  * Issues without estimates should be investigated by engineering throughout the month so weighting does not need to happen at once. A Product Manager pings  an Engineer directly if an issue needs to be weighted.
+* By the 12th, all planned issues proposed for the next release should be estimated by engineering and put into `workflow:ready for development`.
+  * The EM should add any issues that have the potential to slip. Issues that we are sure will slip should be automatically rescheduled to the upcoming release in advance.
+  * After estimation, Product should make any needed adjustments to the proposed scope based on estimates. At this stage, any issues that the team is committing to delivering should have the ~Deliverable label applied to them. Other issues should be labeled as ~Stretch.
+
+**Scheduling security issues**
+
+We closely watch new security issues and try our best to schedule them and fix on time. For planning security issues we use [the (filtered) milestone planning issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/4260654?label_name%5B%5D=devops%3A%3Amanage&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&label_name%5B%5D=bug%3A%3Avulnerability). Security issues without set milestone can be viewed by [filtering the GitLab issues list](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&label_name%5B%5D=bug%3A%3Avulnerability&milestone_title=None&first_page_size=20).
 
 **Monthly cross-functional dashboard Review**
 
@@ -38,12 +50,9 @@ Besides answering to the questions in the issue we use [cross-functional issues 
 
 You can read more about this process on the [handbook page](/handbook/cross-functional-prioritization).
 
+---
 
-#### Organizing the work
-
-<%= partial("handbook/engineering/development/dev/manage/organizing_work.erb") %>
-
-#### Estimation
+Although we try to plan as described above, we  understand that there is always a risk to the ideal ratios due to unexpected high priority security, infradev, and escalation issues.
 
 Before work can begin on an issue, we should estimate it first after a preliminary investigation. If the scope of work of a given issue touches several disciplines (docs, design, frontend, backend, etc.) and involves significant complexity across them, consider creating separate issues for each discipline (see [an example](https://gitlab.com/gitlab-org/gitlab/-/issues/9288)).
 
@@ -69,31 +78,36 @@ Once the weight of the issue is final, the Engineer will ping the person who ask
 
 If the issue has weight more than 5 (or 5 but it seems it might be split into multiple issues) the Engineer will suggest how to split it and ping the person who asked for the estimation. If the Engineer is clear about the splitting they should proactively split the issue themself, put estimations on the child issues and leave a comment on the parent one. If it results to multiple issues, creating an epic should be considered.
 
-#### Planning
-
-<%= partial("handbook/engineering/development/dev/manage/planning.erb") %>
-
 #### During a release
 
-<%= partial("handbook/engineering/development/dev/manage/release.erb") %>
+The Engineers should assign issues to themselves, they can ask an EM for suggestions which issue to assign. We use following workflow label cycle:
+
+1. `workflow::ready for development` - work is ready to begin, but has not yet started
+1. `workflow::in dev` - we are looking at the issue, and are either actively investigating, have begun development, or have a draft merge request open
+1. `workflow::in review` - a merge request has been submitted and reviews have been requested
+1. `workflow::verification` - the work has merged, and needs to be verified by the assignee
+1. `workflow::production` - the change is on production, assignee will close it once verified everything works as expected
+
+Development should not begin on an issue before it's been estimated and given a weight.
+
+The current release work can be watched in the [Manage::Auth Workflow issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/4406395).
+
+#### Working on unscheduled issues
+
+With the combination of our capacity planning (EM) and estimation (IC) processes above, engineers should have free time to work on ~"Stuff that should just work" or other topics that interest them. If an unscheduled issue should really be prioritized, bring it up in a planning issue or ask your manager to reduce your capacity further.
 
 #### Release posts
+For issues which need to be announced in more detail, a release post can be automatically created using the issue. When working on an issue, either in planning, or during design and development, you can use the [release post item generator](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) to have the release post created and notify all the relevant people.
 
-<%= partial("handbook/engineering/development/dev/manage/release_posts.erb") %>
+If you do not want an issue to have a release post, make sure that the issue does not have a release notes section or use a `release post item::` label.
 
-#### Proof-of-concept MRs
+#### Prioritization
 
-<%= partial("handbook/engineering/development/dev/manage/pocs.erb") %>
-
-### Working on unscheduled issues
-
-<%= partial("handbook/engineering/development/dev/manage/unscheduled_issues.erb") %>
-
+<%= partial "handbook/engineering/development/dev/manage/prioritization.erb", locals: { filter_value: 'authentication and authorization' } %>
 
 ### Additional considerations
 
 <%= partial("handbook/engineering/development/dev/manage/auth_processes.erb") %>
-
 
 ## Meetings
 
