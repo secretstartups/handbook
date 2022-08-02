@@ -31,6 +31,7 @@ This working group is charged with rolling forward from the emergency "Engineeri
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1wog8bR7jg6SECefx9BGqIa07sFm_sXJPvelVAganYmc/edit#heading=h.pmtw3ocv2aty)  |
 | Issue board    | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4199535?not[label_name][]=wg-next-prioritization-adoption&label_name[]=wg-next-prioritization) |
 | Open merge requests for the working group | [MR list](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=wg-next-prioritization) |
+| OKR | [Mature cross functional prioritization model](https://app.ally.io/objectives/2228738?time_period_id=155987) |
 
 ### Exit criteria
 
@@ -39,8 +40,9 @@ This working group is charged with rolling forward from the emergency "Engineeri
 - [ ] Type:Undefined Issues are driven down to near zero [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13760)
 - [ ] Type:Undefined MRs are driven down to near zero [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13759)
 - [ ] Subtypes label are defined and implemented [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13650)
-- [ ] Subtype:Undefined Issues are driven down to near zero
-- [ ] Subtype:Undefined MRs are driven down to near zero
+- [ ] Add dashboards to trend and identify issues and merge requests without a subtype [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13781)
+- [ ] Subtype:Undefined Issues are driven down to near zero [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13779)
+- [ ] Subtype:Undefined MRs are driven down to near zero [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13780)
 - [x] All groups are reviewing the dashboards and discussing it periodically (monthly) in a way where stakeholders can influence decisions. [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304)
 - [x] Development engineering managers are providing their maintenance priorities to PM [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304)
 - [x] Quality leads are providing their bug priorities to PM [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304)
