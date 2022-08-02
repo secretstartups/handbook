@@ -23,15 +23,15 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Aug 4 | Storage & Transfer Limits  | Josh L.  |
-| Aug 11 | TBD  | TBD  |
+| Aug 4 | Cancelled  | N/A  |
+| Aug 11 | FY23 - Q3 Channel Update  | Colleen F. & Ed C.  |
 | Aug 18  | Automated Software Delivery (AutoSD) Integrated Campaign  | Shari R.  |
-| Aug 25 | FY23 - Q3 Channel Update  | TBD  |
+| Aug 25 | TBD  | TBD  |
 | Sep 1 | VMware Tanzu Enablement session  | Vick K.  |
 | Sep 8 | Legal Subscription Agreement Update  | Matthew T.  |
-| Sep 15 | FY23 - Q3 Sales Ops Update - Clari Refresher  | TBD  |
-| Sep 22 | TBD  | TBD  |
-| Sep 29 | TBD  | TBD  |
+| Sep 15 | Storage & Transfer Limits  | Josh L.  |
+| Sep 22 | FY23 - Q3 Sales Ops Update - Clari Refresher  | Amber S. & Kathleen R.  |
+| Sep 29 | Collaborating with Community Programs  | Christina H. & Bryan B.  |
 | Oct 6 | FY23 - Q3 Product update  | TBD  |
 | Oct 13 | TBD  | TBD  |
 | Oct 20 | *No session during the last two weeks of the quarter* | N/A |
