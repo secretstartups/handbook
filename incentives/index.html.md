@@ -371,15 +371,17 @@ While the FY23-Q3 Visiting Grant Program shares a lot in common with the previou
 
 For the purposes of the [FY23-Q3 Visiting Grant Program](#fy23-q3-visiting-grant-program), a team members `local area` is being defined as within 50 miles/80 km from the team members home OR requiring less than 1.5 hours travel time one-way.
 
+If team members have opportunities for participation in their local area, they should consider these. Contribute was canceled to reduce travel time to minimize COVID risk.
+
 ##### Timing
 
 The event must happen within FY23-Q3 and and expenses filed within 7 days of the event ending
 
 ##### Team member inclusion
 
-Efforts should be made to welcome all team members and [teams](/company/team/structure/#organizational-structure) when there are opportunities to do so within a geography. **Having events that are just for a specific team is against the intention of this program.** All events should include at least *4 people* who represent at least *2 teams*. Please ensure the activity is one where all team members attending would feel included to participate.
+Efforts should be made to welcome all team members and [teams](/company/team/structure/#organizational-structure) when there are opportunities to do so within a geography. **Having events that are just for a specific function or team is against the intention of this program.** All events should include at least *4 people* who represent at least *2 functions*. Please ensure the activity is one where all team members attending would feel included to participate.
 
-Exceptions to the number of people or teams are okay if team members live in a location with few team members or little team diversity. In this case, team members can have local events that are inclusive of everyone who is within travel distance of the event. This may mean fewer than 4 people and only one team.
+Exceptions to the number of people or functions are okay if team members live in a location with few team members or little functional diversity. In this case, team members can have local events that are inclusive of everyone who is within travel distance of the event. This may mean fewer than 4 people and only one team.
 
 ##### Planning transparency
 
@@ -406,6 +408,7 @@ If more than 10 people are traveling to a central location and booking a hotel, 
 
 You may pool your budgets across a group to make budgeting easier and increase purchasing power. E.g. a group of eight can have a collective budget of $8000. The decision to do this will be up to the [DRI](#organization) for the event.
 
+
 ##### Organization
 
 We recommend that each event or activity has a [DRI](/handbook/people-group/directly-responsible-individuals/). This can be anyone who plans to attend that event or activity, and encourage team members to take a [Bias for action](/handbook/values/#bias-for-action) to self nominate, or nominate someone they know will be attending who would like to be the `DRI`. Please ensure the `DRI` is entered in the [FY23-Q3 Visiting Grant Events](https://docs.google.com/spreadsheets/d/1cCuzXhBIpMInn30-ZD1XCcNnv21CwsmsA9TorW03d7Q) sheet, and if you're nominating someone else, please check with them first before adding them to the sheet.
@@ -429,8 +432,8 @@ This Program has a limited timeframe, but we’ll look to the success of this pr
 We'll attempt to document answers to frequently asked questions in the handbook.
 
 1. Can I spend out of pocket without reimbursement if I want to participate beyond what is allowable given my budget?
+   1. You can use your own money beyond your personal event budget if it is possible to split out your personal monetary spend. For example, if a DRI is planning an event with 30 people and there is no way for you to pay your share fully with your event allowance, you can use personal money out of pocket towards this difference. If this is something that you are interested in doing, please sync with the DRI(s) in advance of an event to confirm that you can pay for all/part of your participation with your own money.
 
-   - You can use your own money beyond your personal event budget if it is possible to split out your personal monetary spend. For example, if a DRI is planning an event with 30 people and there is no way for you to pay your share fully with your event allowance, you can use personal money out of pocket towards this difference. If this is something that you are interested in doing, please sync with the DRI(s) in advance of an event to confirm that you can pay for all/part of your participation with your own money.
 
 #### Sharing your Visiting Grant stories
 
