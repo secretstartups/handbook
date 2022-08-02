@@ -19,7 +19,7 @@ The Infrastructure Platforms section enables GitLab Engineering to build and del
 To deliver on the mission, we are in the process of formalising the building blocks we need to work on.
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/Vui6_iULzPw" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/Vui6_iULzPw" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 This vision has been partially discussed by the team members of the Infrastructure Platforms section while setting the [direction for FY23](https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/101).
@@ -62,8 +62,20 @@ With the work we've been doing in previous years, we are all in alignment that a
 * Increase Kubernetes cluster utilization and resilience. (Delivery and Scalability teams, link to be added)
 * Reduce the time to recover from unexpected usage, and increase application resilience to all types of growth on GitLab.com. (Delivery and Scalability, link to be added)
 
-## Day-to-day
+## How we work
 
-1. We collaborate on sub-department level items in the `#s_platforms` Slack channel. 
-1. We endevour to keep issues and epics up to date with the latest status of our work. Every Wednesday, the DRI for a project is expected to update the status block in the epic description. This enables other engineers and other managers to have good information about projects in an asynchronous fashion. 
-1. Any issues, OKRs or other items outside of projects that require status tracking should be updated each Wedensday.  
+### Communication
+
+We collaborate on the section level items in the [#s_platforms](https://gitlab.slack.com/archives/C02D1HQRTKQ) Slack channel. This channel is used to share important information with the wider team, but also serves to align all teams in Platfroms with the common topic.
+
+For communication between managers, we have [#infra-platforms-reports](https://gitlab.slack.com/archives/C010QV6RRB3) channel. Everyone interested is welcome to join this channel if they find the topics interesting. We also have a confidential managers channel that is used to discuss staffing issues affecting all teams that require additional coordination. This channel receives 1-3 messages every month.
+
+Once per week, we hold a `Platforms leads call` to align on action items related to carreer development, general direction or answer any ongoing questions that have not been addressed async. The call is cancelled when there are no topics added on the morning of the call.
+
+### Projects
+
+We endevour to keep issues and epics up to date with the latest status of our work. Every Wednesday, the DRI for a project is expected to update the status block in the epic description. This enables other engineers and other managers to have good information about projects in an asynchronous fashion. 
+
+### OKR
+ 
+OKRs (or other items outside of projects) that require status tracking should be updated each Wednesday. When updating the progress percentage of any given KR, it is not necessary to provide extensive notes. One sentence with a link to a larger update is sufficient in most cases. It is also acceptable to do a check-in without providing a note, but be advised that several updates in a row with no percentage change, and no additional details will need to be discussed with your manager.
