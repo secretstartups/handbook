@@ -157,9 +157,9 @@ graph TD;
 #### Working Group Bonus
 1. Sometimes a [working group](/company/team/structure/#working-groups) strongly displays GitLab Values over a period, project or situation. For this case, we have group Working Group Bonus.
 1. As with individuals, we recognize those who make up that group through the #thanks channel and sometimes through a Working Group Bonus.
-1. [Anybody can recommend a Working Group Bonus through the managers of the individuals involved](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-bamboohr) for $100 per person at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates).
+1. [Anybody can recommend a Working Group Bonus through the managers of the individuals involved](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-workday) for $100 per person at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates).
 
-#### Process for Recommending Working Group Bonus in BambooHR
+#### Process for Recommending Working Group Bonus in Workday
 
 **Any GitLab team-member**
 
