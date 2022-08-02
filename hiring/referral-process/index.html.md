@@ -69,6 +69,7 @@ All GitLab Team Members can submit a referral by either submitting them directly
     * There's also an `Add a Referral` section on your dashboard and that'll take you to the same page.
 1. Fill-in all the required fields (designated by a red asterisk) and as many of the non-required fields as possible.
     * Of note:
+        * We recommend you upload an up-to-date version of the candidate's resume to ensure the relevant recruiting team(s) have all information available to evaluate the candidate. If no resume is available please include a link to their LinkedIn profile.
         * When selecting a `Job` from the dropdown, make sure that an `Office` is **not** selected.
             * If you **don't** see the desired vacancy there, please check the [Internal Job Board](https://gitlab.greenhouse.io/internal_job_board). If the vacancy is there, please [submit an Issue](https://gitlab.com/gl-talent-acquisition/referrals/-/issues) using the `Referral Submission` template.
         * While the `Social media` field is not required, we highly encourage that the referral's LinkedIn URL is provided.
@@ -80,7 +81,7 @@ All GitLab Team Members can submit a referral by either submitting them directly
 1. [Create a new issue](https://gitlab.com/gl-talent-acquisition/referrals/-/issues) using the `Referral Submission` template.
 1. Please be mindful of **required** fields and selecting the appropriate checkbox, where applicable.
     * Additional context as to why you're referring the candidate (i.e. why would they be great addition to the GitLab team?) is greatly appreciated (and required).
-1. If you **don't** have their resume, please include a link to their LinkedIn profile.
+    * We recommend you upload an up-to-date version of the candidate's resume to ensure the relevant recruiting team(s) have all information available to evaluate the candidate. If no resume is available please include a link to their LinkedIn profile.
 1. Ensure that the created issue is a [confidential issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html).
     * If you **don't** have the ability to mark the Issue as `Confidential`, please post in the `#talent-acquisition` Slack channel and we'll follow-up in a DM.
 
