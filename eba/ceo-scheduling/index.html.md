@@ -12,7 +12,7 @@ title: "CEO Scheduling & Preferences"
 ## The CEO Support Team 
 1. **[Stella Treas](https://about.gitlab.com/company/team/#streas) - Chief of Staff to the CEO**
     1. Cross-functional and multi-functional projects
-1. ** [Kristie Thomas](https://about.gitlab.com/company/team/#kristie.thomas) - Staff EBA to the CEO** 
+1. **EBA to the CEO** 
     1. Board Meetings 
     1. Board Member AMAs
     1. CEO e-mail management 
@@ -25,7 +25,7 @@ title: "CEO Scheduling & Preferences"
     1. Total travel coordination for the CEO
     1. Live-streaming meetings on behalf of the CEO. For instance: CEO General Group Conversation, CEO 101, CEO AMA, Iteration Office Hours, Pick Your Brain live-streams
     1. Ad-hoc requests from the CEO  
-1. ** To Be Hired - Sr. Corporate Communications Manager, Executive Communications** 
+1. **Sr. Executive Communications Manager, CEO** 
    1. Vetting, preparing content, briefing and supporting the CEO for external speaking enagements 
 
 ### How to request a meeting with CEO? 
