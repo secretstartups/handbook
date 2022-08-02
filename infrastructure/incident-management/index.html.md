@@ -425,10 +425,10 @@ Status can be set independent of state. The only time these must align is when a
 | **Status** | **Definition** |
 | ------ | ---------- |
 | Operational | The default status before an incident is opened and after an incident has been resolved. All systems are operating normally. |
-| Degraded Performance | Users are impacted intermittently, but the impacts is not observed in metrics, nor reported, to be widespread or systemic. |
+| Degraded Performance | Users are impacted intermittently, but the impact is not observed in metrics, nor reported, to be widespread or systemic. |
 | Partial Service Disruption | Users are impacted at a rate that violates our SLO. The Incident Manager On Call must be engaged and monitoring to resolution is required to last longer than 30 minutes. |
 | Service Disruption | This is an outage. The Incident Manager On Call must be engaged. |
-| Security Issue | A security vulnerability has been declared public and the security team has asked to publish it. |
+| Security Issue | A security vulnerability has been declared public and the security team has requested that it be published on the status page. |
 
 ## Severities
 
