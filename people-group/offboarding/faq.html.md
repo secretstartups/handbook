@@ -14,11 +14,9 @@ description: "Common Questions about the Offboarding Process"
 
 #### When will my offboarding issue be created?
 
+Offboarding issues are used for de-provisioning purposes so you, as the team member, do not need to do anything to get it opened or will have any action items within the issue. 
+
 The People Experience Associate assigned to your offboarding will create it after you are done working on your last day. The latest it will be is 4pm (local time) on Monday-Thursday or 12pm (local time) on Fridays. 
-
-#### Is there anything I need to do to get my offboarding issue created?
-
-No, there is nothing you need to action. The People Experience Associate handling your offboarding will be responsible. 
 
 #### When will my access be deactivated? 
 
