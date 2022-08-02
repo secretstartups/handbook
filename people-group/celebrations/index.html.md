@@ -36,7 +36,7 @@ Kindly note that team members are welcome to send cards or tokens of acknowledge
 ### Team Member Gifts
 GitLab is modifying the policy for team member gifts and piloting a new gift giving program beginning `2022-08-01`. People Managers now have the ability to send gifts on behalf of their team. Any People Manager can send a gift to any team member at GitLab to let them know they are thinking about them. Examples include:
 - A new team member recently purchased a new home and shared their news with others. A People Manager sends a "Home Sweet Home" doormat as a congratulatory gift.    
-- While working late, a People Manager noticed a team member’s children in the background of a Zoom call and  surprised the kids with a new game.
+- While working a People Manager noticed a team member’s children in the background of a Zoom call and surprised the kids with a new game.
 - A team member wasn’t feeling well, which was noticed by a People Manager who sent a care package of food as a ‘get well soon’ gesture.   
 
 The cost of the gifts provided to GitLab Team Members will be allocated to the senders departmental budget. The allowable cost for gifts is up to $125 USD (including shipping) per gift. If a gift card is given, the value cannot exceed $25 USD (or local currency equivalent).  
