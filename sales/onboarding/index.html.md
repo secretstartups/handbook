@@ -33,8 +33,8 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
 | August 10 - 19, 2022  | AMER / EMEA | Virtual | [SQS 27 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1541) | 
-| September 2022  | AMER / EMEA | Hybrid | [SQS 28 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1542)  | 
-| October 2022  | AMER / EMEA | Hybird | [SQS 29 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1543) | 
+| September 2022  | AMER / EMEA | Virtual  | [SQS 28 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1542)  | 
+| October 2022  | AMER / EMEA | Virtual | [SQS 29 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1543) | 
 
 
 
