@@ -21,17 +21,17 @@ The customer onboarding phase is critical to getting a customer started on a suc
 
 ## Onboarding steps
 
-The onboarding process should begin when the [customer opportunity reaches stage "5-Negotiating" for Booked ARR](/handbook/sales/field-operations/gtm-resources/) in order to introduce the TAM while we have high-touch engagement to close the opportunity. Once an [opportunity that will qualify a customer for TAM alignment](/handbook/customer-success/tam/services/#tam-alignment) reaches stage 5, a [Gainsight CTA will be created](#cta-creation-criteria) for the TAM Manager to assign the customer to a TAM. The assigned TAM should then start the onboarding process with the rest of the [account team](/handbook/customer-success/account-team/).
+The onboarding process should begin when the [customer opportunity reaches stage "5-Negotiating" for Booked ARR](/handbook/sales/field-operations/gtm-resources/) in order to introduce the TAM while we have high-touch engagement to close the opportunity. Once an [opportunity that will newly qualify a customer for TAM alignment](/handbook/customer-success/tam/services/#tam-alignment) reaches stage 5, a [Gainsight CTA will be created](#cta-creation-criteria) for the TAM Manager to assign the customer to a TAM. The assigned TAM should then start the onboarding process with the rest of the [account team](/handbook/customer-success/account-team/).
 
 ⚠️ **NOTE:** Please review the [time to value metrics](#time-to-value-metrics) for target completion timeline.
 
 ### Internal transition
 
-The first step is [completing the handoff from pre-sales to post-sales](/handbook/customer-success/pre-sales-post-sales-transition/). This will ensure the entire account team is clear on the customer's status, and the TAM can be properly introduced to the customer.
+The first step is [completing the handoff from pre-sales to post-sales](/handbook/customer-success/pre-sales-post-sales-transition/). This will ensure the entire account team is clear on the customer's status, and the TAM can be properly introduced to the customer. This sync on the background of the account is **essential** and must happen before the TAM is on a call with the customer, so the TAM has the full background and the account team approaches the call as a united front, already understanding the customer goals and working towards achieving them.
 
 ### TAM intro email and onboarding
 
-Digital programs will automate the Intro to GitLab CS (what a TAM does) and onboarding enablement emails for all TAM assigned customers (Excluding PubSec). This will trigger for a customer when the onboarding playbook has been created and all emails come from a generic Customer Enablement @ GitLab address. Each email is tokenized with the TAM name and customers have the option to reply directly to the TAM to schedule a call or ask questions. Each TAM will also be cc'd on all emails sent to their customers.
+Digital programs will automate the Intro to GitLab CS program outlining what a TAM does, followed by the onboarding enablement emails for all TAM assigned customers, excluding PubSec. This will trigger for a customer when the onboarding playbook has been created. All emails come from a generic Customer Enablement GitLab email address, and each email is tokenized with the TAM name. Customers have the option to reply directly to the email which will email the TAM to schedule a call or ask questions. Each TAM will also be cc'd on all emails sent to their customers for visibility.
 
 - Email 1: Introduction to GitLab CS Experience (what a TAM does)
 - Email 2: Onboarding Email - Intro, first steps, how to get help
@@ -39,7 +39,9 @@ Digital programs will automate the Intro to GitLab CS (what a TAM does) and onbo
 - Email 4: Onboarding Email - Monitor gitlab, API and rate limits
 - Email 5: Onboarding Email - Additional training and support
 
-Review email copy [here](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) (internal only)
+These emails will automatically be sent to any customer contacts who are labeled as a `GitLab Admin`, and at least one contact should have been labeled as part of the pre-sales process. It is recommended to label multiple contacts if possible as a `GitLab Admin` so they receive the emails as well, ensuring the enablement content is received.
+
+Review email copy [here](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) (internal only).
 
 Please review this course on [Introducing the Technical Account Manager](https://gitlab.edcast.com/insights/ECL-c2cdd326-7f29-43f2-9a11-484b8dc6584f). 
 
@@ -49,18 +51,21 @@ Please review this course on [Introducing the Technical Account Manager](https:/
 
 The kickoff call is the first conversation between the TAM and the customer. This is when the TAM describes their role to the customer, and starts their own discovery process to fill in details they don't have from the [internal transition](#internal-transition) in order to start an effective engagement and create a [success plan](/handbook/customer-success/tam/success-plans/).
 
-A [kickoff slide deck](https://docs.google.com/presentation/d/1fsIFLcecs6nQxR7g5MHDTT71tx3b1aW9b3d2RX6ZOLk/edit#slide=id.g20a53d489f_0_213) is provided as part of the [onboarding CTA](#cta-content-and-process).  The goal of the Kick-Off call is to align on desired business outcomes, key upcoming milestones, and create clarity on our partnership as TAMs.  The TAM should review and revise this deck in advance of the kickoff call based on what they already know about the customer, and what they are still looking to understand.
+The goal of the kickoff call is to align on desired business outcomes, key upcoming milestones, and create clarity on our partnership as TAMs. A [kickoff slide deck](https://docs.google.com/presentation/d/1fsIFLcecs6nQxR7g5MHDTT71tx3b1aW9b3d2RX6ZOLk/edit#slide=id.g20a53d489f_0_213) (internal only) is available as part of the [onboarding CTA](#cta-content-and-process). The TAM should review and revise this deck in advance of the kickoff call based on what they already know about the customer and what they are still looking to understand.
 
-It is recommended that the TAM uses [Customer Journey Spreadsheet](https://docs.google.com/spreadsheets/d/1H6gGlsCAZoHKy27kPhJfZE8v4039_lI6pW9nif-um-A) to identify the customer's entry point and better identify the enablement needed. The spreadsheet aims to cover the multiple onboarding steps we see as TAMs, from the infrastructure build review, to the required migration steps and expansion to DevSecOps.
+There are 4 primary questions you always want to have answered coming out of a kickoff call:
+1.` Why did you buy GitLab?` Ideally you've already answered this question in your handoff from pre-sales, so if that's the case, reframe the question to validate that you understand they purchased GitLab for X reason and confirm your understanding of what challenges the customer is looking to solve.
+1. `What other tools are you using?` Understanding what the tool landscape is for the customer is crucial in being able to help them adopt GitLab in relation to their desired use cases. Try to write down their tool for each of the following use cases: SCM, CI, CD, Package, Security, Monitoring, Agile
+1. `What are your business goals?` After they achieve their immediate goal of whatever they want to use GitLab for, what's next for them?
+1. `Are there other stakeholders to involve?` Is there anyone else who would benefit from having business discussions with GitLab? TAMs should always have at least 2 regular contacts they speak with, ideally in line with our [target personas](/handbook/customer-success/tam/engagement/#customer-personas).
 
-There are several [enablement topics](/handbook/customer-success/tam/digital-journey/#onboarding) that the TAM needs to ensure are covered with the customer.  These topics are added as emails to the Gainsight onboarding playbook and the playbooks & emails are bifurcated into SaaS and Self-Managed.  The appropriate playbook will trigger based on the customer's subscription type. The options a TAM has for covering these topics are as follows:
+Review the [tasklist for the first cadence call](/handbook/customer-success/tam/cadence-calls/#tasklist-for-the-first-cadence-call) to ensure you cover additional important items, such as support and training.
 
-1. Covered as a set of topics in the kick-off call with the customer being offered the option of each topic being sent over the upcoming few weeks as an email, or covered in upcoming cadence calls. The TAM & customer may also decide certain topics are not of relevance based on the customer's initial use cases. Many of the topics are relevant to the early set-up of the customer's GitLab instance, so long lead times on the customer receiving this enablement will reduce the value of the content.
-1. Sent as emails *prior* to the kick-off call when a TAM is struggling to establish an initial call, or when the lead time to kick-off is greater than 2 weeks.  
+One of the most important action items coming out of the kickoff call is [establishing the cadence call](/handbook/customer-success/tam/cadence-calls/). The TAM should have the ongoing cadence call schedule determined with the customer by the end of the kickoff call, as well as a plan for the [first cadence call](#1st-cadence-call-future-growth-discussion--checklist).
 
-It is also recommended to send the emails to multiple customer contacts to ensure the enablement content is received.  As each email covers a separate topic and links out documentation, it is highly encouraged to send the emails versus covering the topics in calls wherever possible. Gainsight enables each email to be edited (via the playbook)before sending, ensuring that a TAM can personalize and make relevant each reach-out. For a short video on how to send the emails from the onboarding playbooks, please see [this video](https://www.youtube.com/watch?v=WgcrqR-qJ5k) (GitLab-only)
+#### Strategic TAM Journey Spreadsheet
 
-One of the most important points of discussion for the kickoff call is [establishing the cadence call](/handbook/customer-success/tam/cadence-calls/). The TAM should have the cadence call schedule determined with the customer by the end of the kickoff call, and a plan for the [first cadence call](#1st-cadence-call-future-growth-discussion--checklist).
+It is recommended for [Strategic TAMs](/customer-success/tam/segment/strategic/) to use a [Customer Journey Spreadsheet](https://docs.google.com/spreadsheets/d/1H6gGlsCAZoHKy27kPhJfZE8v4039_lI6pW9nif-um-A) to identify the customer's entry point and better identify the enablement needed. The spreadsheet aims to cover the multiple onboarding steps we see as TAMs, from the infrastructure build review, to the required migration steps and expansion to DevSecOps. Scale and Growth TAMs are not recommended to create and maintain these spreadsheets.
 
 ### Success plan development (document key attributes)
 
@@ -74,9 +79,32 @@ Please review the [success plan handbook page](/handbook/customer-success/tam/su
 
 ⏰ **Target time:** Within 30 days of customer start date
 
-The first [cadence call](/handbook/customer-success/tam/cadence-calls/) is typically the TAM's second conversation with the customer, and is when we can start to deliver value through our efforts as a trusted advisor. Please review the [Tasklist for the 1st cadence call](https://about.gitlab.com/handbook/customer-success/tam/cadence-calls/#tasklist-for-the-1st-cadence-call)section for the full list of what needs to be covered in this first cadence call
+The first [cadence call](/handbook/customer-success/tam/cadence-calls/) is typically the TAM's second conversation with the customer and when we start to deliver value through our efforts as a trusted advisor.
 
-The completion of this second customer call marks the completion of customer onboarding, moving the customer into the adoption phase of the customer lifecycle.
+The completion of this second customer call marks the completion of customer onboarding, as we have collected all information needed and given the customer the tools they need to be successful going forward.
+
+Once onboarding is complete, close the onboarding CTA and then move the customer into the `Adoption` phase of the customer lifecycle in Gainsight.
+
+By accomplishing the following tasks, you'll know you have completed onboarding:
+- [ ] Complete internal handoff, where TAM reviews the command plan, adoption goals, priorities, and stakeholders with the SAL/AE and SA
+- [ ] Assign `GitLab Admin` and/or other persona roles to primary contacts
+- [ ] Complete kickoff call, where the TAM:
+   - [ ] Leads introductions (<5 minutes)
+   - [ ] Validates the customer's reason for purchase
+   - [ ] Asks about any additional goals the customer has
+   - [ ] Asks about the customer's DevSecOps toolstack
+   - [ ] Asks about any additional customer stakeholders
+   - [ ] Advises the customer on how to get [support](/support/)
+- [ ] Complete initial draft of success plan, with the objective being their primary use case with the relevant [Stage Enablement playbook](/handbook/customer-success/tam/stage-enablement-and-expansion/)
+- [ ] Complete second call (first cadence), where the TAM:
+   - [ ] Discusses how they will work with the customer towards their goals, collecting metrics for success, milestones/timelines, and establishing next steps
+   - [ ] Discusses enablement opportunities (e.g. [workshops](/handbook/customer-success/tam/workshops/), Professional Services, GitLab documentation, etc.)
+   - [ ] Shares available content for workshops and webinars and advocates for the customer to attend a session on Intro to GitLab and/or their primary use case
+   - [ ] Discusses the monthly upgrade cadence for releases
+   - [ ] (If self-managed) Discusses usage ping
+- [ ] Complete filling out any relevant fields in the Gainsight Attributes tab of the customer 360
+
+If you haven't been able to achieve all of this by the end of the second call, [document the reasons for the delay](#onboarding-delays) in your notes and aim to complete this by the next call. Please note the onboarding CTA currently asks you to log the First Value Date (#time-to-first-value) if the customer does not have service ping enabled; if you don't have this information yet, and everything else is complete, mark the onboarding as done regardless, and continue to work towards understanding the customer's progress towards first-value separately, logging it when known.
 
 ## Time to Value Metrics
 
@@ -160,28 +188,10 @@ If the delay is caused by the customer (e.g. disinterest, lack of engagement/"go
 
 [TAM-assigned accounts](https://about.gitlab.com/handbook/customer-success/tam/services/): When a customer signs at or reaches the TAM-assigned threshold, a [Call To Action (CTA)](/handbook/customer-success/tam/gainsight/ctas/) is triggered within Gainsight.
 
-[Onboarding Pilot](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/71): We are also piloting in Q4 of FY21 an onboarding experience for a cohort of customers in the Commercial book of business.  For these customers, a [Call To Action (CTA)](/handbook/customer-success/tam/gainsight/ctas/) is triggered within Gainsight
-
-For both use cases above, a CTA is created for the TAM Manager if the TAM field is not populated. Once populated, an Onboarding CTA is kicked off for the TAM. The Onboarding CTA creates a Playbook with guided steps for the next several weeks.
+If the TAM field is not populated, a CTA is created for the TAM Manager. Once populated, an onboarding CTA is kicked off for the TAM. While the opening of an onboarding CTA is an automated process, it can also be created manually by going to the Cockpit, clicking `+ CTA` and then choosing the onboarding playbook.
 
 ### CTA Content and Process
 
-The CTA guides the TAM through the initial customer engagement.  The tasks and associated content are as follows:
+The CTA guides the TAM through the initial customer engagement, covering the topics discussed in this handbook page.
 
-1. [Complete internal transition with the SAL/AE and SA](#internal-transition), covering the Command Plan, adoption goals and priorities and stakeholders
-1. [Hold Kick Off Call](#kickoff-call) Using [Kick Off Deck](https://docs.google.com/presentation/d/1RcMrN-TQxQt-tEaX1J2EcJATJQfBunStXGTjhGu8CDA/edit?usp=sharing)
-1. [Document Customer Attributes](#success-plan-development-document-key-attributes) in Gainsight
-1. [Hold 1st Cadence Call](#1st-cadence-call-future-growth-discussion--checklist) Focusing on Future Growth
-1. Send Customer Satisfaction Survey & Swag Email (TAM sends, template in Gainsight)
-
-Use the Gainsight TAM Dashboard and the Customer Onboarding Dashboard to manage customers currently in Onboarding.
-While an Onboarding CTA is an automated process, it can also be created manually by going to the Cockpit, clicking `+ CTA` and then choosing the Onboarding playbook.
-
-### Gainsight C360 Fields
-
-During Onboarding, the TAM should also review the fields in the C360 to create a full picture. Here are a few examples:
-
-1. Fields in the Attributes section
-1. TAM Sentiment
-1. [Stage Adoption](/handbook/customer-success/tam/stage-adoption/)
-1. [Customer Deployment Types](/handbook/customer-success/tam/gainsight/deployment-types/)
+TAMs and TAM Managers can use Gainsight dashboards to manage customers currently in onboarding and to ensure progress is being made, as well as report on metrics achieved at the end of each quarter.

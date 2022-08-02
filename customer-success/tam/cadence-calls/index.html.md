@@ -22,7 +22,7 @@ Cadence calls are an important aspect of TAM engagement to continue to understan
 
 - **Strategic Enterprise**: Cadence calls should be weekly during onboarding and at least once per month otherwise, considering specific customer needs and stage in customer lifecycle.
 - **Strategic Commercial**: Cadence calls should be weekly during onboarding and at least once per quarter otherwise, considering specific customer needs and stage in customer lifecycle.
-- **Mid-Touch**: Cadence calls should be weekly during onboarding (first month of purchase) and at least once per quarter otherwise. Frequency of cadence calls may vary due to [prioritization](/handbook/customer-success/tam/engagement/#named-accounts) or customer needs.
+- **Growth**: Cadence calls should be weekly during onboarding (first month of purchase) and at least once per quarter otherwise. Frequency of cadence calls may vary due to [prioritization](/handbook/customer-success/tam/engagement/#growth-accounts) or customer needs.
 - **Scale**: Cadence calls are not scheduled on an ongoing basis for Scale TAM customers. Calls with customers are offered programmatically based on the key points defined in the [Scale TAM customer lifecycle](/handbook/customer-success/tam/segment/scale/#customer-lifecycle).
 
 Cadence calls should be [captured in Gainsight](/handbook/customer-success/tam/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
@@ -55,7 +55,7 @@ By developing an agenda and doing advance preparation for the meeting, the TAM (
 
 #### Tasklist for the first cadence call
 
-The following items are to be covered/completed in your initial cadence call with a customer:
+The following items are to be covered/completed in your initial cadence call/kickoff call with a customer:
 
 - Have introductions between the account team and the customer
 - Identify purchase reasons and primary use cases
