@@ -167,9 +167,15 @@ Our dashboards are owned and managed by the Marketing Strategy and Performance t
 {: #upcoming-integrated-campaigns .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* FY23 Integrated Campaigns are currently in development.
-* **[View FY22 Integrated Campaigns and GTM Motions here >>](https://about.gitlab.com/handbook/marketing/plan-fy22/)**
+* **[See FY23 Integrated Campaigns currently in development>>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2851)**
+* **[See FY22 Integrated Campaigns and GTM Motions here >>](https://about.gitlab.com/handbook/marketing/plan-fy22/)**
 * **[See FY21 Integrated Camapigns here >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/749)**
+
+### 🚀 Security & Compliance (Solution Campaign)
+
+**Campaign Manager DRI: Eirini Pan**
+
+**Launch date: FY23Q3 (TBC)**
 
 ### 🚀 Automated Software Delivery (Solution Campaign)
 {: #cicd}
@@ -177,7 +183,7 @@ Our dashboards are owned and managed by the Marketing Strategy and Performance t
 
 **Campaign Manager DRI: Shari Rances**
 
-**Launch date: July 2022**
+**Launch date: August 2022**
 
 * [Campaign Brief](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2790#memo-campaign-brief)
 * [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2790#busts_in_silhouette-campaign-core-team)
@@ -197,6 +203,8 @@ The below global integrated campaigns are continally optimized by the Marketing 
 **Campaign Manager DRI : Agnes Oetama (interim until Jenny T backfill hired)**
 
 **Launched: 2020-04-27 and continually optimized**
+
+#### [MURAL of FY23 campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1659433396850/d99bfb173d53cb12749aebd40c9721b0cf913a51)
 
 * [Campaign Brief](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#memo-campaign-brief)
 * [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#busts_in_silhouette-campaign-core-team)
@@ -221,6 +229,8 @@ The below global integrated campaigns are continally optimized by the Marketing 
 
 **Launched: 2020-04-28 and continually optimized**
 
+#### [MURAL of FY23 campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1639574604912/3e0b081d9727a70af1398a562d735dfe7f1cbdba)
+
 * [Campaign Brief](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#memo-campaign-brief)
 * [Current/Planned Content and Events](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#fy23-new-planned-content-events)
 * [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#busts_in_silhouette-campaign-core-team)
@@ -241,6 +251,8 @@ The below global integrated campaigns are continally optimized by the Marketing 
 
 **Launched: 2020-04-29 and continually optimized**
 
+#### [MURAL of FY23 campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1630693252879/2f82f169e602ffb66e482c261be27c471d6abb6c)
+
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/743)
 * [Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)
 * [Campaign Review 2021-07-26](https://docs.google.com/presentation/d/1gPMLjIRPNOCt8DqHUWYdwxW2tNH528qg_YbmZaDYzl8/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
@@ -248,6 +260,7 @@ The below global integrated campaigns are continally optimized by the Marketing 
 * [Live landing page](https://about.gitlab.com/solutions/dev-sec-ops/)
 * [Slack](https://gitlab.slack.com/archives/CV8GZ63GR)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df4w?srPos=0&srKp=701)
+* Campaign UTM: `devsecopsusecase`
 
 ### 🚀 GitOps (Capability Campaign)
 {: #gitops-use-case}
@@ -257,12 +270,15 @@ The below global integrated campaigns are continally optimized by the Marketing 
 
 **Launched: 2020-06-22 and continually optimized**
 
+#### [MURAL of FY23 campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1620648875422/b0575eec3f6839f6fd9672f34dfb5ca022b422f3)
+
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/745)
 * [Campaign Review 2021-9-26](https://docs.google.com/presentation/d/1eYF_H95XzrGmgrqbbRy6rYKsqZkpPvCt7sNxyuEsZuk/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/891)
 * [Live landing page](https://about.gitlab.com/why/gitops-infrastructure-automation/)
 * [Slack](https://gitlab.slack.com/archives/C0119FNPA84)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dgJ9)
+* Campaign UTM: `iacgitops`
 
 ### 🚀 GitHub - Light (Competitive Campaign)
 {: #gitops-use-case}
@@ -275,7 +291,16 @@ The below global integrated campaigns are continally optimized by the Marketing 
 * [Competing with GitHub: ENT sales toolkit](https://docs.google.com/presentation/d/1Gg8c5OVoN5iweGMzyfWNjHg-iboTxgS8Wujf7Uduysw/edit#slide=id.gf73e101eb9_1_147)
 * [Sales Levelup Webcast on GitHub](https://www.youtube.com/watch?v=jqUM-zJBdOY)
 * [Customer Webinar: Conversica GitHub -> GitLab migration](https://page.gitlab.com/conversica-move-to-gitlab.html)
+* [Pathfactory track](https://gitlab.lookbookhq.com/authoring/content-library/recommend/85076)
 * [Design kit](https://www.canva.com/folder/FAFE58Mm_Qk)
+* Campaign UTM: `20211202_GitHubCompetitive`
+
+
+## Past Integrated Campaigns
+{: #past-integrated-campaigns .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+The below were campaigns run historically, and aligned to overall GTM. They have since been retired in order to run new global campaigns aigned to updated GTM strategies between Sales and Marketing.
 
 ### 🚀 France CI Localized
 {: #ci-france-localized}
@@ -304,12 +329,6 @@ The below global integrated campaigns are continally optimized by the Marketing 
 * [Live landing page](https://about.gitlab.com/de/warum/nutze-continuous-integration-fuer-schnelleres-bauen-und-testen/)
 * [Slack](https://gitlab.slack.com/archives/C012QLG1NJD)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfqW)
-
-## Past Integrated Campaigns
-{: #past-integrated-campaigns .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-The below were campaigns run historically, and aligned to overall GTM. They have since been retired in order to run new global campaigns aigned to updated GTM strategies between Sales and Marketing.
 
 ### 🌄 Version Control & Collaboration (VC&C)
 {: #vcc-use-case}
