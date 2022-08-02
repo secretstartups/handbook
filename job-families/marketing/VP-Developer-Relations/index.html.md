@@ -40,7 +40,7 @@ The career ladder for this role is not yet defined.
 
 ## Performance Indicators
 * User content - PageViews
-* DevRel content - Monthly active contributor
+* DevRel content - PageViews
 * Contributors - Contributors per month 
 * Community - Monthly active users (forum)
 * Eventually demand gen attribution/contribution
