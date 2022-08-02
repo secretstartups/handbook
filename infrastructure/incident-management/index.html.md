@@ -137,6 +137,16 @@ If any of the following are true, it would be best to engage an Incident Manager
 1. An entire path or part of functionality of the GitLab.com application must be blocked.
 1. Any unauthorized access to a GitLab.com production system
 
+#### What happens when there are simultaneous incidents?
+
+Occassionally we encounter multiple incidents at the same time. Sometimes a single Incident Manager can cover multiple incidents. This isn't always possible, especially if there are two simultaneous high-severity incidents with significant activity.
+
+When there are multiple incidenets and you decide that additional incident manager help is required, take these actions:
+1. Post a slack message in #imoc_general as well as #incident-management asking for additional Incident Manager help.
+1. If your ask is not addressed via slack, escalate to  [Infastructure Leadership](https://gitlab.pagerduty.com/service-directory/PJKOEIS) in Pagerduty.  
+
+If a second incident zoom is desired, choose which incident will move to the new zoom and create a new meeting in zoom.  Be sure to edit the channel topic of the incident slack channel to indicate the correct zoom link. 
+
 ### Incident Manager Responsibilities
 
 1. When the Incident Manager is engaged on an incident, they are responsible for keeping the `Current Status` section of the incident issue regularly updated.
