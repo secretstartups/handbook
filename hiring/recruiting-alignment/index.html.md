@@ -20,7 +20,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Customer Success, EMEA | Joanna Muttiah & Ornella Gerca | Loredana Iluca | Lerato Thipe |
 | Customer Success, NA | Barbara Dinoff | Loredana Iluca | Sruthy Menon |
 | All Sales, APAC | Yas Priatna | N/A | Lerato Thipe |
-| Marketing, Global | Steph Sarff   | Alina Moise | Davie Soomalelagi |
+| Marketing, Global | Sarah Sherwood | Alina Moise | Davie Soomalelagi |
 | Marketing, SDR Global | Tony Tsiras | Tony Tsiras| Alice Crosbie |
 | G&A, Finance, People, CEO | Maria Gore | Alina Moise | Alice Crosbie |
 | G&A, Accounting, Legal | Rachelle Druffel | Alina Moise | Davie Soomalelagi |
@@ -54,7 +54,7 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | Talent Acquisition         | Rob Allen |
 | Talent Brand and Enablement | Devin Rogozinski |
 | Talent Acquisition (Sales) | Jake Foster|
-| Talent Acquisition (Marketing) | Jake Foster |
+| Talent Acquisition (Marketing) | Jake Foster / Steph Sarff |
 | Talent Acquisition (G&A) | Jake Foster |
 | Talent Acquisition (R&D) | Ursela Knezevic |
 | Candidate Experience & Enablement | Marissa Ferber |
