@@ -148,6 +148,10 @@ The following are books suggested by GitLab team members in the [#women Slack ch
 
 ## Past Events
 
+### Talking Confidently about your Accomplishments - Live Speaker Series with [Michelle Carrizosa](https://www.michellecarrizosa.com/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nXvTiBfEz-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 2022 Women's History Month Celebrate - Interview with Christie Lenneville, VP of UX
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a10N6xYB7Ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
