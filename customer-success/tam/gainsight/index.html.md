@@ -59,6 +59,10 @@ The table below represents the steps a TAM would typically take in Gainsight. Pl
 - [Customer Health Assessment and Management](/handbook/customer-success/tam/health-score-triage/)
 - [License Utilization](/handbook/customer-success/product-usage-data/license-utilization/)
 
+#### Adoption Score
+- [CI Adoption Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/#ci-adoption-scoring)
+- [DevSecOps Adoption Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/#devsecops-adoption-scoring)
+
 #### Product Usage Data
 - [Operational Data Vision Page](/handbook/customer-success/product-usage-data/#customer)
 - [Using Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight)
