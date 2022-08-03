@@ -83,8 +83,8 @@ See the [example epics](https://about.gitlab.com/handbook/people-group/engagemen
 - [Sales](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/55)
 - [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3130)
 - [Finance](https://gitlab.com/groups/gitlab-com/Finance-Division/-/epics/7)
-- People
-- Legal
+- [People](https://gitlab.com/groups/gitlab-com/people-group/-/epics/98)
+- [Legal](https://gitlab.com/groups/gitlab-com/-/epics/1898)
 
 #### Resources for Managers
 
