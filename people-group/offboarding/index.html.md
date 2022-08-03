@@ -224,11 +224,11 @@ To ensure a successful completion of the offboarding issue, it is important that
 
 ## GitLab Alumni Program
 
-All offboarding may request to be added to the Slack channel `gitlab-alumni` by requesting through the PBP who can review the request and confirm to the People Experience Associate who can open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=slack_googlegroup_1Passwordgroupvault) on behalf of the former team member.
+Voluntary exits that are eligible to be rehired and have been with GitLab longer than 6 months will be added to the Slack channel `gitlab-alumni`. The offboarding details provided by the Manager in Workday is how eligibility is determined and later shared with IT. 
 Reasons that someone would not be permitted to join would be:
 1. Due to involuntary offboarding for extreme behavior or a violation of our [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 1. Underperformance or other causes for involuntary offboarding are not a reason to exclude someone from the alumni program. 
-1. Team members who have less than 6 months of tenure with the organization.
+1. Team members who are not eligible for rehire.
 
 The purpose of this channel is to network and socialize with team members.
 Joining the channel is voluntary and subject to GitLab's [Code of Conduct](/community/contribute/code-of-conduct/).
