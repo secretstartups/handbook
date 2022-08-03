@@ -31,7 +31,7 @@ The Learning & Development team has a number of resources to help team members l
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/people-group/learning-and-development/gitlab-learn/" class="btn btn-purple" style="width:200px;margin:5px;">GitLab Learn</a>
+    <a href="/handbook/people-group/learning-and-development/level-up/" class="btn btn-purple" style="width:200px;margin:5px;">Level Up</a>
     <a href="/handbook/people-group/learning-and-development/linkedin-learning/" class="btn btn-purple" style="width:200px;margin:5px;">LinkedIn Learning</a>
     <a href="/handbook/people-group/learning-and-development/compliance-courses" class="btn btn-purple" style="width:200px;margin:5px;">Compliance Courses</a>
   </div>
