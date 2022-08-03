@@ -48,7 +48,7 @@ If you no longer require a previously provisioned paid tier test group, please s
 
 ## Testing Environment License
 
-For a test you will need to make an [internal issue](hhttps://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) requesting one.
+For a test you will need to make an [internal issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) requesting one.
 
 Please keep in mind *you can't generate licenses for customers* only for testing
 purposes.
