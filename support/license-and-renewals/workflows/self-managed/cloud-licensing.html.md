@@ -77,7 +77,9 @@ The matrix below defines the impact of setting the `Cloud Licensing` flag value 
 | Offline | Eligible | Eligible | Not Eligible | 
 | No  | Eligible | Eligible | Eligible |
 
-Once updated, the support engineer should then generate the license manually as detailed in [Creating a Legacy License File](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#create-a-legacy-license). Please be sure to flag the ZenDesk ticket using the above macro to ensure these missed approvals are being tracked appropriately.
+Once updated, the support engineer should then generate the license manually by impersonating the customer and selecting `Download license file` from the "Manage Purchases" view. Using this method will ensure all license details are auto-populated correctly. Note that the download license option will only be visible _after_ the `Cloud Licensing` flag has been updated.
+
+Once these steps are completed, please be sure to flag the ZenDesk ticket using the above macro to ensure these missed approvals are being tracked appropriately.
 
 ## Support FAQ
 #### 1. Which license type should I provide for an approved opt out?
