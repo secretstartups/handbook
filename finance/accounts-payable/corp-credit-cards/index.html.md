@@ -22,7 +22,6 @@ This page contains GitLab's Corporate Credit Card guidelines and procedures. If 
 1. As soon as you start charging the card, the charges will appear in Expensify as a new report under your name. You will be able to code and attach receipts to each purchase.
 
 ## <i id="biz-tech-icons" class="fas fa-stream"></i> Guidelines for Card Use
-- Corporate Credit Cards are mainly to be used for Travel and Entertainment purposes only.
 - Corporate Credit Cards should not be used to bypass the Procurement process.
 - Purchases on your card should not exceed $2,500 for each transaction.  If your purchase will be over $2,500, you will need to enter a Purchase Requisition in Coupa. AP prefers to pay vendors by ACH whenever possible.  For reference to get started with Coupa for a vendor who can be paid by normal invoicing and payment methods, see [Coupa End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/).
 - However, if your purchase will be over $2,500 and needs to be paid by credit card, please follow the instructions to enter a Purchase Requisition into Coupa to be paid by [Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/).
