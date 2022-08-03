@@ -717,6 +717,20 @@ Within the `analytics` and `data-tests` projects we enforce a Single Source of T
 
 Be aware that tags applied at any level do not apply to any tests. Tags for tests have to be explicitly applied for every test within the `schema.yml` file.
 
+### Warehouse Size
+
+[Configuring the warehouse size](https://docs.getdbt.com/reference/resource-configs/snowflake-configs#configuring-virtual-warehouses) within the model can be a way to ensure needed performance on a model.  This is intended to be performed on a model by model bases and for models with known performance needs; for example, the model contains a large recursive CTE that will fail if not run on a LARGE or bigger warehouse.
+
+This configuration can be done using the `generate_warehouse_name` macro within the model configuration and is designed to work with both production, `TRANSFORMER`, and development `DEV` warehouses.  To configure the warehouse size, you need to pass the desired size to the macro where the correct warehouse name will be generated. This will only work for currently existing warehouses.
+
+```jinja
+{{
+  config(
+    snowflake_warehouse = generate_warehouse_name('XL') 
+  )
+}}
+```
+
 ### Trusted Data Framework
 
 See the [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) section of our Platform page for a deeper dive into the philosophy behind the Trusted Data Framework.
