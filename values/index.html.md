@@ -521,10 +521,6 @@ We have [guidelines](/handbook/spending-company-money/#guidelines) around this o
 {:.no_toc}
 [Amazon states it best](http://www.amazon.jobs/principles) with: "Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense."
 
-##### ConvDev
-{:.no_toc}
-We work according to the principles of [conversational development](http://conversationaldevelopment.com/principles/).
-
 ##### Short verbal answers
 {:.no_toc}
 Give short answers to verbal questions so the other party has the opportunity to ask more or move on.
@@ -805,11 +801,11 @@ The way to resolve this is to write down only what you can do with the time you 
 
 However, if we take smaller steps and ship smaller, simpler features, we get feedback sooner. Instead of spending time working on the wrong feature or going in the wrong direction, we can ship the smallest product, receive fast feedback, and course correct. People might ask why something was not perfect. In that case, mention that it was an iteration, you spent only "x" amount of time on it, and that the next iteration will contain "y" and be ready on "z".
 
-
-
 <figure class="video_container">
-    <iframe src="https://www.youtube.com/embed/tPTweQlBS54" frameborder="0" allowfullscreen="true"> </iframe>
+    <iframe src="https://www.youtube.com/embed/2r0UeZ5p57Y" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+*In the [GitLab Unfiltered video](https://youtu.be/2r0UeZ5p57Y) embedded above, GitLab CEO and co-founder Sid Sijbrandij shares key operating principles to reinforce iteration in an organization.*
 
 ##### Don't wait
 {:.no_toc}
@@ -845,6 +841,8 @@ We encourage MVCs to be as small as possible. Always look to make the quickest c
 ##### Make a proposal
 {:.no_toc}
 If you need to decide something as a team, make a concrete proposal instead of calling a meeting to get everyone's input. Having a proposal will be a much more effective use of everyone's time. Every meeting should be a review of a proposal. We should be [brainwriting on our own instead of brainstorming out loud](https://www.fastcompany.com/3033567/brainstorming-doesnt-work-try-this-technique-instead). State the underlying problem so that people have enough context to propose reasonable alternatives. The people that receive the proposal should not feel left out and the person making it should not feel bad if a completely different proposal is implemented. Don't let your desire to be involved early or to see your solution implemented stand in the way of getting to the best outcome. If you don't have a proposal, don't let that stop you from highlighting a problem, but please state that you couldn't think of a good solution and list any solutions you considered.
+
+In this [GitLab Unfiltered video](https://youtu.be/tPTweQlBS54), GitLab CEO and co-founder Sid Sijbrandij converses about iteration in engineering, leveraging proposals to break work into smaller components.
 
 ##### Everything is in draft
 {:.no_toc}
