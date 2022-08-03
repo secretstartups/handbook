@@ -40,21 +40,23 @@ This certification is ideal for aspiring or new managers, individual contributor
 
 ## How to access the certification
 
-The All-Remote Certification is free to complete. To access it, you first need to create an account by signing up to our Learning Platform, [GitLab Learn](https://gitlab.edcast.com). Once you've signed up and logged in to the platform, [click here or search for Remote Foundations Badge](https://gitlab.edcast.com/pathways/ECL-4d9840ae-0c56-4645-ad7b-452029b1e5bc) to find the pathway. You can then begin working through the course.
+{::options parse_block_html="true" /}
 
-## Remote Work Foundation certification criteria
+<div class="panel panel-gitlab-orange">
+**Good things are ahead!**
+{: .panel-heading}
+<div class="panel-body">
 
-![GitLab all-remote team illustration](/images/all-remote/gitlab-com-all-remote-1280x270.png){: .shadow.medium.center}
+The Remote Work Foundation Certification will be free to complete. *We are iterating on our learning systems and will update this page once available in Q3-FY23.*
 
-In order to attain the **Remote Work Foundation** certification from GitLab, an individual must pass all ten knowledge assessments in the [GitLab Learn Remote Foundations Pathway](https://gitlab.edcast.com/pathways/copy-of-remote-foundations-badge) with a score of 80% or higher.
-
-Once you have completed the certification in GitLab Learn, you will receive the Remote Foundations Badge that you can share on your GitLab Learn and LinkedIn profile.
+</div>
+</div>
 
 ## More GitLab certifications
 
 ![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg){: .medium.center}
 
-GitLab is actively building new certifications. Learn more about [our certifications](https://about.gitlab.com/learn/) on GitLab Learn webpage.
+GitLab is actively building new certifications for FY23 and beyond. While we're iterating, enroll in our [Remote Team Management course hosted on Coursera](https://www.coursera.org/learn/remote-team-management). 
 
 ## Questions
 
