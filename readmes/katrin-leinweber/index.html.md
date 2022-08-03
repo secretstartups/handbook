@@ -1,15 +1,15 @@
 ---
 layout: markdown_page
 title: "README of Katrin Leinweber"
-description: "Personal readme page for Katrin Leinweber, Support Engineer, GitLab"
-job: "Support Engineer (EMEA)"
+description: "Personal readme page for Katrin Leinweber, Senior Support Engineer, GitLab"
+job: "Senior Support Engineer (EMEA)"
 ---
 
 ## Katrin's README
 
 Hi, I am Katrin! Biochemist by training, but IT generalist by choice.
 Having used Git in its various forms since 2014,
-I am now looking forward to diving deeper into the GitLab-surrounding technologies.
+I'm keen diving deeper into the GitLab-surrounding technologies and applications.
 
 ## Related
 
@@ -27,15 +27,14 @@ I enjoy working asynchronously via issues and MRs.
 Particularly also with GitLab's `To Do` function.
 Please use `@katrinleinweber` liberally.
 
-For urgent, synchronous communication, make my Slack icon jump in macOS' Dock.
-I'll be there, unless my Slack status indicates preoccupation with another urgent task.
+For urgent, synchronous communication, I'm fine with Slack or Zoom,
+but please be sure it is really urgent.
 
-E-mails are fine as well; I check them 2 or 3 times throughout the workday.
+E-mails are not a good choice, as I check them only rarely,
+some times not even once a week.
 
 ## Weaknesses
 
-* Too much attention to details, up to perfectionism,
-  when working on things that have no clear deadline.
 * Too little stepping-back-and-seeing-the-big picture,
   when working on urgent tasks.
 * Good ideas sometimes come to me only after a good night's sleep.
@@ -45,7 +44,6 @@ E-mails are fine as well; I check them 2 or 3 times throughout the workday.
 Good ideas come to me usually after a good night's sleep,
 or a walk through the [great outdoors](https://www.youtube.com/watch?v=AzttaR1PIlM).
 
-Because I worked in different sectors and industries,
-and consume many different podcasts and articles,
+Because I worked in different industries and contexts,
 I think I can rely on a broad base of experiences
 and problem-solving approaches.
