@@ -186,7 +186,9 @@ The configuration file that the Data Team uses can be found in the [GitLab Data 
 
 ### Reference Conventions
 
-- When joining tables and referencing columns from both, prefer to reference the full table name instead of an alias. When the table name is long (~20), try to rename the CTE if possible, and lastly consider aliasing to something descriptive:
+- When joining tables and referencing columns from both tables consider the following:
+  - reference the full table name instead of an alias when the table name is shorter, maybe less than 20 characters.  (try to rename the CTE if possible, and lastly consider aliasing to something descriptive)
+  - always qualify each column in the SELECT statement with the table name / alias for easy navigation 
 
     ```sql
     -- Preferred
