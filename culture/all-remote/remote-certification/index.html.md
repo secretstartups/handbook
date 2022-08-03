@@ -22,7 +22,7 @@ twitter_creator: "@gitlab"
 
 GitLab is a pioneer in the all-remote space. As one of the largest all-remote companies in the world, we have developed a custom certification program to test and apply knowledge attained throughout the [all-remote](/company/culture/all-remote/) section of the handbook. Emerging leaders must quickly learn and deploy remote-first practices and skills while expanding their knowledge of remote management and overall remote fluency. 
 
-Presented at a self-directed pace, the GitLab remote certification is designed to give [new managers](/company/culture/all-remote/being-a-great-remote-manager/) and [individual contributors](/company/culture/all-remote/getting-started/) an opportunity to master all-remote business concepts and build key skills in remote subject areas. 
+Presented at a self-directed pace, the GitLab Remote Work Foundation certification is designed to give [new managers](/company/culture/all-remote/being-a-great-remote-manager/) and [individual contributors](/company/culture/all-remote/getting-started/) an opportunity to master all-remote business concepts and build key skills in remote subject areas. 
 
 Participants will gain a point of view on all-remote through [self-paced learning](/company/culture/all-remote/self-service/) and reading. 
 
