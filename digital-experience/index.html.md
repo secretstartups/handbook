@@ -18,7 +18,7 @@ description: >-
 
 *Why we exist*
 
-We take a customer-centric approach to educating Buyers on how GitLab, The One DevOps Platform, solves their problems.
+We take a customer-centric approach to educating prospects on how GitLab, The One DevOps Platform, solves their problems.
 
 
 ### Vision
@@ -31,17 +31,18 @@ A future where **everyone can contribute**, consumers become contributors and we
 
 *What we do*
 
-We drive continual improvement to GitLab’s user journeys and conversion funnel.
+We drive continual improvement to GitLab’s user journeys, marketing site experience, and conversion funnel.
 
 ### Objectives
 
-1. Improve Buyer Experience of the Marketing Site
-2. Education Buyers on the benefits of GitLab
+1. Enable Efficient & Quality Growth
+2. Improve Buyer Experience of the Marketing Site
 3. Increase Conversion Rates
+
 
 ### Strategy
 
-1. **Buyer Experience:** Shift to a buyer obsessed, customer centric organization
+1. **Customer-centricity:** Buyer obsessed, customer-centric organization
     - Understand our buyer’s journey & optimize for each segment
     - Optimize path to purchase funnel for each segment
 2. **Personalization:** Right content/right segment/right time
@@ -51,9 +52,6 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
     - Anyone can propose A/B tests
     - Proven A/B test winners go live
     - Results documented to reduce re-testing known saves
-4. **Listening:** Voice of Buyer program including:
-    - Add feedback tab to core parts of Marketing site
-    - Monthly reporting on signals and trends
 
 
 ### Principles
@@ -103,7 +101,7 @@ We collaboratively define OKRs as a team with cross functional partners in advan
 
 ### Current Quarterly Plan
 
-[FY23Q2 Digital Experience Quarterly Plan & OKRs](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/107)
+[FY23Q3 Digital Experience Quarterly Plan & OKRs](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/136)
 
 # Our Process
 
@@ -258,6 +256,7 @@ We love collaborating on work that drives our North Star and supporting metrics.
 
 <details>
     <summary>Previous <b>Quarterly Plans & OKRs</b></summary>
+    <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/107)">FY23Q2 Digital Experience Quarterly Plan & OKRs</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/85">FY23Q1 Digital Experience Quarterly Plan & OKRs</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/3">FY22Q4 Digital Experience Quarterly Plan & OKRs</a></li>    
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/385">FY22Q3 Digital Experience Quarterly Plan & OKRs</a></li>
