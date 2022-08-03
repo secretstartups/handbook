@@ -58,6 +58,7 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 1. Sid will attend one of the Monthly Diversity, Inclusion and Belonging calls (typically scheduled at 8am or 4pm PT). Please accept one and decline the other.
 1. If there is a video posted in advance of a [Group Conversation](/handbook/group-conversations/) in slack, the EBA to the CEO should schedule a meeting at 6am (Pacific time) on the CEO's calendar for him to watch the video in advance of the Group Conversation on the same day. Please include a link to the video in the calendar invite and indicate whether it is a private or public video.
 1. After an E-Group offsite, block at least 50 minutes to handle slack, emails, etc
+1. Last minute changes or cancellations should be communicated to Sid via DM rather than public Slack messages or messages in a thread. If there is additional context to share, you can cross-post another Slack message as part of your DM.
 
 ### Prep Calls for Customer/Prospect Meetings
 1. Prep calls for Sales meeting should be scheduled for 10 minutes by default. An [Internal Customer Briefing Document](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit?usp=sharing) and an [External Collaboration Doc](https://docs.google.com/document/d/18Ds04BicQCZ5J7gKU0K4AA-iq0l9YMRTLLsPBjlUJto/edit#heading=h.1cyxs0j01dk1) needs to be provided by the Sales team member at the time of requesting the meeting in order to schedule with the CEO. 
