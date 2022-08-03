@@ -46,9 +46,16 @@ The whole body of work covering the Monte Carlo rollout at GitLab falls under ep
 ## Logging In
 
 
-Login to Monte Carlo is done via Okta. Go to https://getmontecarlo.com/signin . The following screen appears upon login and after providing your email and clicking "Sign in with SSO", you should be redirected to your Okta login.
+Login to Monte Carlo is done via Okta. Go to https://getmontecarlo.com/signin.
+The following screen appears upon login and after providing your email and clicking "Sign in with SSO", you should be redirected to your Okta login.
 
 ![image](/handbook/business-technology/data-team/platform/monte-carlo/screenshot-1.png)
+
+A runbook of how everything is technically set up can be found here: https://gitlab.com/gitlab-com/business-technology/team-member-enablement/runbooks/-/wikis/IT-Runbooks/App-Setup/Monte-Carlo:-How-It's-Built
+
+The gist of it is that there is an Okta Group called Data that is a generic group which adds all users with `department = Data` to it.
+This department group has the Monte Carlo app assigned to it.
+In order to be able to access Monte Carlo via Okta by default, your user should be part of the Data department.
 
 ## Navigating the UI
 
