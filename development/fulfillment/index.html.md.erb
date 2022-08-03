@@ -106,7 +106,7 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 
 ### Sales Ops
 
-<% sales_ops = %w[james_harrison jbrennan1 cfarris jdbeaumont jrabbits] %>
+<% sales_ops = %w[james_harrison jbrennan1 cfarris jdbeaumont jrabbits kreykrey] %>
 <% sales_ops_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales_ops.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: sales_ops_members }) %>
 
