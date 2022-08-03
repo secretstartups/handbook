@@ -99,7 +99,7 @@ Note: The 18th - 20th can fall on vacations, weekends, or holidays. PMs should d
 - [**Release Post Manager**](#release-post-manager)
 - [**PM contributors**](#pm-contributors)
 - [**PMM reviewers**](#pmm-reviewers)
-- **PMM lead** (for the purpose of shadowing for the related but separate Marketing driven blog)
+- [**PMM lead**](#pmm-lead) 
 - [**TW lead**](#tw-lead)
 - [**Product Design reviewers**](#product-design-reviewers)
 - [**TW reviewers**](#tw-reviewers)
@@ -609,6 +609,12 @@ _Each PM is responsible for pinging their PMM counterpart when they need a revie
 - The release post and `features.yml` can have the same or very similar content - e.g. same screen shot.
   - The tone of the release post is more about introducing the feature "we're happy to ship XYZ..."
   - The tone of `features.yml` should be [evergreen](https://www.thebalancecareers.com/what-is-evergreen-content-definition-dos-and-don-ts-2316028) to appear on our website in various places.
+
+## PMM Lead
+
+PMM lead is responsible for creating a release post highlight blurb for consumption by field and PR.
+
+The tasks are included in the [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md).
 
 ## TW Lead
 
