@@ -32,21 +32,21 @@ an ongoing basis.
 *If you're missing from this list (and want to be on it) please let the Support
 Managers know in `#spt_managers`.*
 
-| Section          | Group               | Group Contact       | Support Liaison       | Frequency                         |
-|:----------------:|:-------------------:|:-------------------:|:---------------------:|:---------------------------------:|
-| Finance          | Accounts            | ??                  | TBD                   | N/A |
-| Finance          | Budget              | Chase Wright        | Tom Cooney            | 1x Qtr on budget + once per month |
-| Legal            | Legal               | Robin Schulman      | Lyle Kozloff          | N/A |
-| PeopleOps        | After-hire care     | Jessica Mitchell    | Tom Cooney            | every 2 weeks |
-| PeopleOps        | Talent Acquisition  | Cyndi Walsh         | Tom Cooney            | weekly |
-| Performance      | Performance         | Stan Hu             | Lee Matos             | N/A |
-| Production       | .com Infrastructure | Dave Smith          | Vlad Stoianovici      | every 2 weeks |
-| Marketing        | Community Relations | John Coghlan        | TBD                   | weekly team meeting |
+| Section          | Group               | Group Contact       | Support Liaison            | Frequency                         |
+|:----------------:|:-------------------:|:-------------------:|:--------------------------:|:---------------------------------:|
+| Finance          | Accounts            | ??                  | TBD                        | N/A |
+| Finance          | Budget              | Chase Wright        | Tom Cooney                 | 1x Qtr on budget + once per month |
+| Legal            | Legal               | Robin Schulman      | Lyle Kozloff               | N/A |
+| PeopleOps        | After-hire care     | Jessica Mitchell    | Tom Cooney                 | every 2 weeks |
+| PeopleOps        | Talent Acquisition  | Cyndi Walsh         | Tom Cooney                 | weekly |
+| Performance      | Performance         | Stan Hu             | Lee Matos                  | N/A |
+| Production       | .com Infrastructure | Dave Smith          | Vlad Stoianovici           | every 2 weeks |
+| Marketing        | Community Relations | John Coghlan        | TBD                        | weekly team meeting |
 | Marketing        | Open Source Prog.   | Bryan Behrenshausen | Greg Myers & Andrew Conrad | weekly team meeting |
-| Customer Success | Customer Success    | Kristen Lawrence    | TBD                   | weekly on Fri join EMEA scrum |
-| Sales            | Sales               | TBD                 | Mike Dunninger        | TBD |
-| Security         | Abuse               | Roger Ostrander     | Greg Myers            | N/A |
-| Security         | Security Operations | Jan Urbanc          | Brie Carranza         | N/A |
+| Customer Success | Customer Success    | Kristen Lawrence    | TBD                        | weekly on Fri join EMEA scrum |
+| Sales            | Sales               | TBD                 | Mike Dunninger             | TBD |
+| Security         | Abuse               | Roger Ostrander     | Greg Myers                 | N/A |
+| Security         | Security Operations | Jan Urbanc          | Brie Carranza              | N/A |
 
 If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#spt_managers`.
 
