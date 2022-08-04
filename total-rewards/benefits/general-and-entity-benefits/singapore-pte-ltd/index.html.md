@@ -14,19 +14,23 @@ description: "Discover GitLab's benefits for team members in Singapore"
 
 ## Medical
 
-GitLab offers Supplementary Medical Insurance through [SingLife with AVIVA](https://singlife.com/en) Health Insurance which covers 100% of team member and eligible dependents (spouse & kids) contributions of premiums for the following plans:
+GitLab offers Supplementary Medical Insurance through [SingLife with AVIVA](https://singlife.com/en) Health Insurance which covers 100% of team member and eligible dependents (spouse & kids) contributions of premiums.
 
-Policy Documents
+The Medical Plan Coverage includes
+* Group Hosptial & Surgical
+* Major Medical
+* Oupatient GP & SP
+* Dental 
+   * **Please note that Dental benefits for this plan are cashless at panel Dental Clinics only. Team Members should show their eCard at the dental clinic to utlize the plan.**
+
+For a summary of the Medical plan details please refer to slides 8 - 26 of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing)
+
+Team Members can submit claims through the SingLife ClaimsConnect app. [See instructions](https://drive.google.com/file/d/1hMnxb1yurTpP9dNbpXvC2tyvfEnFny6F/view?usp=sharing) on how to use the app and submit claims. For more details, please refer to slides 34-37 of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing)
+
+Additonal Policy Documents:
 1. [MyBenefits Plus Group Basic Medical + Major Medical](https://drive.google.com/file/d/19zTv4QLOMN-eZnKw266IkCo76pEzGMHv/view?usp=sharing)
 2. [MyBenefits Plus Group Outpatient (GP + SP)](https://drive.google.com/file/d/1F5DNdKShKGsd4TwAEgqIpyvcXULpWL3J/view?usp=sharing)
 3. [MyBenefits Plus Group Denticare](https://drive.google.com/file/d/18B1IYPSV6_id821swmUyqA9RhoPV8qMF/view?usp=sharing)
-
-
-The updated 2022-2023 summary of these plans, effective 1 Aug 2022, will be posted shortly. 
-
-**Please note that Dental benefits for this plan are cashless at panel Dental Clinics only. Team Members should show their eCard at the dental clinic to utlize the plan.**
-
-Team Members can submit claims through the SingLife ClaimsConnect app. [See instructions](https://drive.google.com/file/d/1hMnxb1yurTpP9dNbpXvC2tyvfEnFny6F/view?usp=sharing) on how to use the app and submit claims.
 
 
 AvivaOnline IT Helpdesk Contact Information:
@@ -42,7 +46,7 @@ Effective 1 Aug 2022, a Letter of Guarantee (LOG) will be available for team mem
 
 The LOG will be on a pre-certified process via 24/7 SingLife PriorityCare Hotline at 1800 8800 880. Members can reach out for pre scheduled and emergency admission/surgery in Singapore. 
 
-For pre-scheduled admission/surgery, please do request for LOG at least 3-5 days ahead of the admission date/surgery. Please see the [LOG FAQ](https://drive.google.com/file/d/1UEmuWptjUoyw2Nl5EIkEZcfpIBOPJaUx/view) for more information
+For pre-scheduled admission/surgery, please do request for LOG at least 3-5 days ahead of the admission date/surgery. Please see the [LOG FAQ](https://drive.google.com/file/d/1UEmuWptjUoyw2Nl5EIkEZcfpIBOPJaUx/view) and slides 38-39 of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing) for more information. 
 
 
 ### Willis Tower Watson Claims Assistance 
@@ -76,9 +80,14 @@ GitLab does not plan to offer a supplementary private pension benefit at this ti
 
 GitLab offers company paid [Group Term Life](https://drive.google.com/file/d/1yffWuxwXD_GGzs2MCbA9xgAbgAb4JC3S/view?usp=sharing) through SingLife with AVIVA. Coverage is sum insured $500,000 SGD per member.  
 
+For more information on the Life Insurance plan, please refer to slides 27-29 of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing)
+
 ## Group Personal Accident Insurance
 
-As of 1 Aug 2022, the Group Personal Accident plans will be covered by [Zurich](https://www.zurich.com/). Coverage is sum insured $500,000 SGD per member. Under the Zurich Personal Accident coverage, team members will also recieve extended benefits including ambulance cost coverage, emergency travel expenses, trauma counseling, and more. Benefit Summary documents will be posted shortly. 
+As of 1 Aug 2022, the Group Personal Accident plans will be covered by [Zurich](https://www.zurich.com/). Coverage is sum insured $500,000 SGD per member. Under the Zurich Personal Accident coverage, team members will also recieve extended benefits including ambulance cost coverage, emergency travel expenses, trauma counseling, and more. 
+
+For more information on the Group Personal Accident insurance plan, please refer to slides 30-33, of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing)
+
 
 ## GitLab Singapore Pte Ltd Parental Leave
 
