@@ -19,8 +19,8 @@ We are doing this to ensure we create an environment where everyone is able to t
 
 There are two ways to take the course. You can:
 
-- Watch the [videos](https://gitlab.edcast.com/journey/psychological-safety-understanding-empowerment-and-self-r) on Edcast.
-- Read the content, which can be done on Edcast where you achieve your badge.
+- Watch the [videos](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/psychological-safety-understanding-empowerment-and-self-reflection) on Level Up.
+- Read the content, which can be done on Level Up where you achieve your badge.
 
 You are free to do both of course, but the content is duplicated across the two mediums.
 
@@ -174,4 +174,4 @@ This is a guide on how to conduct a 1:1 with your direct reports after they have
 
 ## Scenarios & Quiz
 
-[You can view scenarios here](https://docs.google.com/presentation/d/1T9VEOGl0ppfwKhp9_9ikoGdDiC3UTEoZElK9SdRsfWg/edit#slide=id.g29a70c6c35_0_68) and take the quiz via Edcast.
+[You can view scenarios here](https://docs.google.com/presentation/d/1T9VEOGl0ppfwKhp9_9ikoGdDiC3UTEoZElK9SdRsfWg/edit#slide=id.g29a70c6c35_0_68) and take the quiz via Level Up.
