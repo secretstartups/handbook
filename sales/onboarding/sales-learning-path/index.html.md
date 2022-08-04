@@ -17,7 +17,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 <details>
 <summary markdown="span">1. Welcome to GitLab Sales!</summary>
 
-### 1.[ Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/9658516)
+### 1. Welcome to GitLab Sales!
 *  **ACTIVITY: Let's Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)**
    - Please complete this brief [google form](https://docs.google.com/forms/d/e/1FAIpQLScXH3QSAcqUP4mRJsqUWbn7BUJS_SYJVjFg2oXqOoOwzBMzLA/viewform) to introduce yourself.
 *  **What is GitLab? (Material - Video, 31 Minutes)**
@@ -43,7 +43,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 <details>
 <summary markdown="span">2. DevOps Technology Landscape</summary>
 
-### 2. [DevOps Technology Landscape](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459977)
+### 2. DevOps Technology Landscape
 *  **DevOps Technology Landscape**
    - Please click on the link below and go through the course modules.
    - [DevOps Technology Landscape](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/DevOps+Technology+Landscape+-+Storyline+output/story.html)
@@ -62,7 +62,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 <details>
 <summary markdown="span">3. Our Customers</summary>
 
-### 3. [Our Customers](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459979)
+### 3. Our Customers
 *  **Our Customers**
    - Please click on the link below and go through the course modules.
    - [Our Customers](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/Our+Customers+-+Storyline+output/story.html)
@@ -80,7 +80,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 <details>
 <summary markdown="span">4. Our Portfolio</summary>
 
-### 4. [Our Portfolio](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7172709)
+### 4. Our Portfolio
 *  **Our Portfolio**
    - Please click on the link below and go through the course modules.
    - [Our Portfolio](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Field+Enablement+Our+Portfolio+-+Storyline+output/story.html)
@@ -121,7 +121,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 <summary markdown="span">5. Field Roles & Expectations</summary>           
 
 
-### 5. [Field Roles & Expectations](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1460153)
+### 5. Field Roles & Expectations
 *  **Sales Roles (Material, - Handbook - 30 minutes)**
    - Review the sales roles based on the customer segment you will cover.
    - Read the [Handbook](/handbook/sales/)
@@ -154,21 +154,21 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ### 6. Sales Process
 *  **Command of the Message Intro Course (Assignment - 2 Hours - 10 Points - Pre Work)**
-   - Please complete the [Command of the Message](https://gitlab.edcast.com/pathways/sales-quick-start/cards/8577947) learning path.
+   - Please complete the Command of the Message learning path.
    - Time to complete is approximately 1.5 hours
 *  **MEDDPPICC Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)**
-   - Please sign in to [MEDDPPICC](https://gitlab.edcast.com/pathways/sales-quick-start/cards/8577939) learning path and complete the MEDDPPICC full eLearning course.
+   - Please review the [MEDDPPICC handbook page](https://about.gitlab.com/handbook/sales/meddppicc/). The full elearning is optional.
    - Time to complete is approximately 1.5 hours
 *  **GitLab Value Framework (Material - Sales Collateral - 35 Minutes)**
    - The GitLab [value framework](https://internal-handbook.gitlab.io/handbook/sales/command-of-the-message/#resources-core-content) (internal only) is one of the most useful tools available for salespeople. Take a look to understand our value drivers, how to uncover customer needs, and how to articulate value and differentiation. A [framework summary](https://internal-handbook.gitlab.io/handbook/sales/command-of-the-message/#resources-core-content) (internal only) is also avaliable for quick reference.
 * **Seller Deficit Disorder (Material - Sales Collateral - 15 Minutes - Pre Work)**
    - Please read this [short document](https://drive.google.com/file/d/1heCPCI9bT1sc05Xj0hrp8BJrlzMc8VEc/view?usp=sharing) by Force Management to prepare for the Command of the Message training in Sales Quick Start.
-*  **[Co-Selling with Partners](https://gitlab.edcast.com/pathways/sales-quick-start/cards/9239742) (Course - 30 Minutes - Pre Work)**
+*  **Co-Selling with Partners (Course - 30 Minutes - Pre Work)**
 *  **Social Selling 101 ( Material - Video - 20 Minutes)**
    - Social selling is the art of using social networks to find, connect with, and nurture your customers and prospects. Watch the [video](https://www.youtube.com/watch?v=w-C4jts-zUw) and use this [guide](https://drive.google.com/open?id=1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A&authuser=0) to learn how to make a profile that will resonate with your prospects.
-*  **[QUESTION: Business Development](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470149) (Assignment - 15 Minutes - 10 Points - Pre Work)**
+*  **QUESTION: Business Development (Assignment - 15 Minutes - 10 Points - Pre Work)**
    - Business development is hard... because not everyone gets marketing qualified leads or has a big referral network. Take a look at the [Sales Development](/handbook/marketing/revenue-marketing/sdr/) handbook page to understand more about your XDR partners and their processes. Please share 1-2 insights on strategy or best practices from your experience. How do you consistently keep the pipeline full of leads? Let's crowdsource some best practices!
-*  **[QUESTION: Account Development](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470151) (Assignment - 15 Minutes - 10 Points - Pre Work)**
+*  **QUESTION: Account Development (Assignment - 15 Minutes - 10 Points - Pre Work)**
    - One of the most important parts of a salesperson's job is account development. Your clients bought from you once, and they are very likely to do it again! Please share 1-2 insights on strategy or best practices from your experience. How do you keep your clients buying more and sending referrals? Let's crowdsource some experience!
 
 </details>
@@ -177,7 +177,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 <details>
 <summary markdown="span">7. Our Competition</summary> 
 
-### 7. [Our Competition](https://gitlab.edcast.com/pathways/sales-quick-start/cards/8577854)
+### 7. Our Competition
 *  **The Industry In Which GitLab Competes (Material - Video - 11 Minutes)**
    - Sid Sijbrandij, CEO of GitLab, discusses the overall industry where GitLab competes.
    - [You Tube - The Industry GitLab Competes In](https://www.youtube.com/watch?v=qQ0CL3J08lI)
@@ -233,7 +233,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 <details>
 <summary markdown="span">9. Sales and Customer Success Support</summary> 
 
-### 9. [Sales and Customer Success Support](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472289)
+### 9. Sales and Customer Success Support
 *  **The Product Teams (Material - Handbook - 60 minutes)**
    -Review the Product Stages Handbook page to see who you should reach out if you have questions or need assistance with a [particular product.](/handbook/product/categories/)
 *  **The GitLab Legal Team (Material - Handbook - 10 Minutes)**
@@ -253,7 +253,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 <details>
 <summary markdown="span">10. GitLab's Customer Support Team</summary> 
 
-### 10. [GitLab's Customer Support Team](https://gitlab.edcast.com/pathways/sales-quick-start/cards/9658642)
+### 10. GitLab's Customer Support Team
 
 - **Review the GitLab Customer Support Documentation (Material - Handbook - 5 minutes)**
   - The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The Support Team Handbook is the central repository that explains our work processes and the reasons behind them. To learn more, check out the [Handbook](/handbook/support/).
@@ -305,7 +305,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 <details>
 <summary markdown="span">Technical Deep Dive (SA, TAM, and PSE ONLY</summary> 
 
-### 12. [Technical Deep Dive (SA, TAM, and PSE ONLY)](https://gitlab.edcast.com/insights/ECL-a9fb71d3-9877-4da9-af7d-7eab2dd1c04b)
+### 12. Technical Deep Dive (SA, TAM, and PSE ONLY)
 *  **GitLab Ultimate Demo (Material - Video - 60 minutes)**
    -Review the [GitLab Ultimate Demo](https://chorus.ai/meeting/1837148?tab=summary&call=5E63AE4EDCAD4960A59BEBBEF4CEE1BF)
 * **Auto DevOps (Material - GitLab Docs - 15 minutes)**
@@ -346,7 +346,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 <summary markdown="span">Integrations (SA, TAM, and PSE Only)</summary> 
 
 
-### 13. [Integrations (SA, TAM, and PSE Only)](https://gitlab.edcast.com/insights/ECL-a9fb71d3-9877-4da9-af7d-7eab2dd1c04b)
+### 13. Integrations (SA, TAM, and PSE Only)
 * **Category Overview**
    - GitLab's vision is to be the best single application for every part of the DevOps toolchain. However, some customers use tools other than our built-in features–and we respect those decisions. The Integrations category was created specifically to better serve those customers. Currently, GitLab offers [30+ project services](https://docs.gitlab.com/ee/user/project/integrations/project_services.html#project-services) that integrate with a variety of external systems. Integrations are a high priority for GitLab, and the Integrations category was established to develop and maintain these integrations with key 3rd party systems and services.
 * **Jira**
@@ -396,8 +396,8 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 ### 15. TAMs Only: Certifications to Complete and Lifecycle Processes
 
 #### Certifications:
-1. [Success Plans](https://gitlab.edcast.com/pathways/ECL-47775d76-4bc6-4fe8-bdde-07f6ffc56578)
-1. [Executive Business Reviews](https://gitlab.edcast.com/pathways/tam-executive-business-reviews) 
+1. Success Plans
+1. Executive Business Reviews
 
 
 #### Customer Onboarding
