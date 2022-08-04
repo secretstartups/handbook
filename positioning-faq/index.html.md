@@ -67,7 +67,7 @@ GitLab started as an open source alternative to GitHub. Instead of focusing on h
 ### I use Bitbucket.  What can GitLab offer me?
 
 1. Bitbucket has done a lot for the enterprise Git space. Great company.
-1. GitLab.com and Community Edition are completely free - Bitbucket.com is pay if you have more than 5 users.
+1. GitLab gives a choice of hosting options for free - SaaS and self-managed
 1. So if you just want Source Code Management (SCM), why not go with the open source edition of GitLab?
 1. Backed by a community of a few hundred thousand developers and more than 2,000 contributors.
 1. We launch new features monthly and are iterating on our product faster than anyone in the market. Thanks to our community and our open-way of working, we’ve been able to release new features quickly and effectively.
