@@ -257,7 +257,7 @@ We highly encourage team members to share the news about any GitLab employer awa
 
 ## All-remote work
 
-A foundational aspect of our talent brand is the flexibility and autonomy that all-remote work gives our team members. The Talent Brand Manager collaborates closely with the [All-Remote Marketing team](/handbook/marketing/corporate-marketing/all-remote/) to raise awareness about remote work and tell the stories of how it's impacted the lives of our team members. Learn more about GitLab's approach to remote work on our [all-remote page](/company/culture/all-remote/).
+A foundational aspect of our talent brand is the flexibility and autonomy that all-remote work gives our team members. The Talent Brand Manager collaborates closely with the [All-Remote Marketing team](/handbook/ceo/chief-of-staff-team/workplace/) to raise awareness about remote work and tell the stories of how it's impacted the lives of our team members. Learn more about GitLab's approach to remote work on our [all-remote page](/company/culture/all-remote/).
 
 ## Performance indicators
 
