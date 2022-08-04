@@ -106,7 +106,6 @@ This is a [generic template](https://gitlab.com/gitlab-com/support/internal-requ
 Common issues include the following when the UI and API methods are not working:
 
 - Deletion of projects, groups, cluster integrations, container registry images, etc.
-- Deletion of uploads or attachments containing sensitive information, until [gitlab#16229](https://gitlab.com/gitlab-org/gitlab/-/issues/16229) (or similar) is implemented.
 - User account confirmation retrigger
 - [Project export](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/GitLab.com%20Console%20Export%20Request.md)
 
