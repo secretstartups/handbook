@@ -48,7 +48,7 @@ Here’s a list of some of the results and outcomes I’ve driven since spring 2
 1. DRI: [Livestreaming GitLab’s IPO](https://about.gitlab.com/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/)
 	* I led the team that produced the first-ever end-to-end livestream of a listing day on NASDAQ, with 19,000 live viewers and 5 hours of content.
 	* I also led the production of the internal-facing team event, communications, and day-of activities.
-1. DRI:  [Async Weeks](https://about.gitlab.com/handbook/marketing/corporate-marketing/all-remote/#async-weeks)  initiative
+1. DRI:  [Async Weeks](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/workplace/#async-weeks)  initiative
 	* Founded this deep-work initiative that was adopted throughout GitLab and external organizations.
 1. DRI:  [REMOTE by GitLab](https://remotebygitlab.com/) 
 	* Nearly 4,000 registrations for our inaugural half-day event on the future of work, with speakers from Twitter, Zoom, Facebook, Harvard Business School, INSEAD, and many more.
