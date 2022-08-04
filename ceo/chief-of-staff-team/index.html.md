@@ -21,6 +21,7 @@ Complement the CEO through being a cross-functional linchpin for GitLab when it 
 ## Quick Links and Fun Facts
 * [Chief of Staff to the CEO Job Family](/job-families/chief-executive-officer/chief-of-staff/)
 * [Strategy & Operations Job Family](/job-families/chief-executive-officer/strategy-and-operations/)
+* [GitLab Strategy and Operations (Workplace) Team Handbook](/handbook/ceo/chief-of-staff-team/workplace/)
 * [Performance Indicators](/handbook/ceo/chief-of-staff-team/performance-indicators/)
 * CoS to the CEO = Chief of Staff to the CEO
 * CoST to the CEO = Chief of Staff Team to the CEO
