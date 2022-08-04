@@ -12,6 +12,22 @@ title: "Authentication and Authorization Group"
 ### Manage:Authentication and Authorization
 {: #welcome}
 
+#### What makes us different?
+
+The Authentication and Authorization group is a central piece to the GitLab product! While many groups focus on single area - like the repository view, or the merge request view, this group has a much broader impact on many areas. Because of this, there are some key topics that we keep on our mind more than other groups might:
+
+**Security issues**
+
+Bypassing permissions and authentication mechanisms are, by nature, common security targets. We closely watch new security issues and schedule them as quickly as possible based on their [due date](/handbook/engineering/security/#due-date-on-security-issues). For planning security issues we use [the (filtered) milestone planning issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/4260654?label_name%5B%5D=devops%3A%3Amanage&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&label_name%5B%5D=bug%3A%3Avulnerability). We expect all team members to be able to resolve security issues.
+
+**Code Review**
+
+Because this group works on components of the application that have a [far-reaching impact](/handbook/engineering/development/#reducing-the-impact-of-far-reaching-work), we take these extra steps in order to reduce our risk of a production incident:
+
+1. Our team's merge requests should be assigned to another Auth team member for first review in order to build more institutional knowledge across the team
+1. Auth merge requests will include a comment that needs answered before merging, "Should this be behind a feature flag?" This is an effort to remind engineers about feature flag usage, but also to challenge reasoning as to why changes do not need to be behind a feature flag.
+1. Auth related merge requests require a review by an [Auth Engineer](https://gitlab.com/groups/gitlab-org/manage/authentication-and-authorization/approvers/-/group_members?with_inherited_permissions=exclude). This is guarded by using the `CODEOWNERS` feature of GitLab.
+
 
 ### How we work
 
@@ -38,9 +54,6 @@ We plan in monthly cycles in accordance with our [Product Development Timeline](
   * The EM should add any issues that have the potential to slip. Issues that we are sure will slip should be automatically rescheduled to the upcoming release in advance.
   * After estimation, Product should make any needed adjustments to the proposed scope based on estimates. At this stage, any issues that the team is committing to delivering should have the ~Deliverable label applied to them. Other issues should be labeled as ~Stretch.
 
-**Scheduling security issues**
-
-We closely watch new security issues and try our best to schedule them and fix on time. For planning security issues we use [the (filtered) milestone planning issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/4260654?label_name%5B%5D=devops%3A%3Amanage&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&label_name%5B%5D=bug%3A%3Avulnerability). Security issues without set milestone can be viewed by [filtering the GitLab issues list](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&label_name%5B%5D=bug%3A%3Avulnerability&milestone_title=None&first_page_size=20).
 
 **Monthly cross-functional dashboard Review**
 
@@ -105,9 +118,6 @@ If you do not want an issue to have a release post, make sure that the issue doe
 
 <%= partial "handbook/engineering/development/dev/manage/prioritization.erb", locals: { filter_value: 'authentication and authorization' } %>
 
-### Additional considerations
-
-<%= partial("handbook/engineering/development/dev/manage/auth_processes.erb") %>
 
 ## Meetings
 
