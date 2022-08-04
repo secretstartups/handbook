@@ -98,7 +98,7 @@ If you want to learn more about how you can impact psychological safety, you can
 
 You can:
 
-- Access the [Psychological Safety Short Course here](https://gitlab.edcast.com/journey/psychological-safety-understanding-empowerment-and-self-r).
+- Access the [Psychological Safety Short Course here](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/psychological-safety-understanding-empowerment-and-self-reflection).
 - Read the [content of the course here](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/).
 
 ## Live Learning Session
