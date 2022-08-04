@@ -117,6 +117,25 @@ Sometimes I will ask to be kept apprised of an action item or follow up. One com
 
 I get a lot of @ mentions in Slack, often when I'm being discussed. Please only @ mention me when you need me to see something or approve something, when you just want to refer to me you can just say Sid. This saves time and enables increased efficiency.
 
+### No Sacred Cows
+
+I’ve been thinking about the notion of Sacred Cows since I heard that people use “Sid said” as an argument in conversations.
+
+The phrase comes from the belief of devout Hindus that cows are sacred animals and should never be harmed. In the US, we use this term to mean “[one that is often unreasonably immune from criticism or opposition](https://www.merriam-webster.com/dictionary/sacred%20cow).” If we’re truly practicing continuous learning, we have to question the Sacred Cows that can subtly and profoundly influence how we make decisions and conduct business. We need to examine Sacred Cows with ruthless compassion. By that I mean that we should be ruthless about examining and questioning their validity while being compassionate with the person citing the Sacred Cow.
+
+Just because I said something doesn’t make it inviolable law like a law of physics. My utterances are usually merely an opinion based on the context of the discussion and the moment. As new context is revealed, we need to be willing to reexamine what we say and iterate.
+
+What I propose is that next time ‘Sid said’ is mentioned you check in with me, I might say:
+1. “Yes, here’s my reasoning .. what is yours” we then choose to:
+   - Keep it and maybe document the reasoning so it can be falsified in the future.
+   - Change it based on your reasoning
+
+But it is also possible that:
+1. “I never made the statement”
+1. “I don’t recall making it”, or
+1. “It’s been misinterpreted.”  And 
+1. “Now that you mention it, it doesn’t hold up in light of the situation we’re in now”
+
 ### Communicating Merge Requests
 
 Please follow these steps if you'd like me to review a [Merge Request (MR)](https://docs.gitlab.com/ee/user/project/merge_requests/) for approval:
