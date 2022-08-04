@@ -108,7 +108,7 @@ The Data Directory is designed to provide quick access to / better organize key 
   <br>
   [Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)
   <br>
-  [All-Remote Marketing](https://about.gitlab.com/handbook/marketing/corporate-marketing/all-remote/)
+  [All-Remote Marketing](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/workplace/)
 </details>
 
 <details>
