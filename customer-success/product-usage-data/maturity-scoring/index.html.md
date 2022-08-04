@@ -71,6 +71,7 @@ The following metrics are used to determine a customer's DevSecOps Adoption Scor
 
 - [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (internal only)
 - [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/1JdRlS5G9iB0XMMWktYxYBDCnhVs2Ti-I6jBW0q61YZk/edit?usp=sharing) (internal only)
+   - In order to generate the slide - this [Google sheet](https://docs.google.com/spreadsheets/d/1wPrQRS9XGJek4oWcZPe9QeaFne9scbJVZYuvEioE2GI/edit#gid=1737266116) can help. 
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's DevSecOps Metrics to export and calculate the Adoption score
 - [Value Statements](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#the-gitlab-solution)
 - Additional TAM Enablement - [Session 1](https://youtu.be/VXtiPVrOzS4) (internal only).  [Session 2](https://youtu.be/xwj-vHMYcUE) (internal only)
