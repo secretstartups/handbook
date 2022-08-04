@@ -16,7 +16,6 @@ This role will help enable communication, collaboration, strategy execution, and
 - Initiate and guide the CTO team OKR process according to the [OKR schedule](https://about.gitlab.com/company/okrs/#schedule/) (in partnership with the Chief of Staff to the CEO).
 - Manage, track, and moderate OKRs for Engineering to ensure CTO Staff remains on track, and know their attention points throughout the quarter.
 - Lead the retrospection of the previous quarter OKRs in the first month of your term.
-- Record one [Day in the Life of (DITLO) video interview](/handbook/engineering/#day-in-the-life-of-ditlo-videos) with a user and share it across Engineering
 - Drive future special projects, such as past examples like
     - The [Volunteer Coaching Program for URGs](https://about.gitlab.com/handbook/engineering/volunteer-coaches-for-urgs/)
     - The vendor selection and implementation of the [Ally OKR system](/handbook/engineering/#allyio-for-okrs)
