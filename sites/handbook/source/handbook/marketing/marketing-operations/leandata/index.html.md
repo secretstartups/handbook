@@ -42,10 +42,21 @@ US PubSec leads are assigned to US PubSec BDRs regardless of `Lead Status`, if t
 
 ### Partner lead management (via the Vartopia Prospect module)
 #### MDF and partner-managed trial leads
-Coming soon
+New or updated leads acquired by an [MDF Funded Campaign](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#partner-only-campaigns---mdf-funded) or a [Partner Managed Trial](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners) are routed to the lead flowbuilder.
+
+1. LeanData reviews for a lead to account match to evaluate any existing partner accounts.
+2. LeanData updates the `Prospect Share Status` = `Sending to Partner` and `Partner Propsect Status` = `Qualifying` which enables the lead to be synced into the Vartopia Prospect module. 
+3. LeanData assigns the lead to `Marketo Integration` if Partner Account is `NULL`.
 
 #### Joint events with partners
-Coming soon
+New or updates leads who attended a [Joint GitLab and Partner Event](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events) are routed based on waterfall LeanData process. 
+
+1. If lead to partner account match is not present, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`, then LeanData assigns the lead to `Marketo Integration` 
+2. If lead to partner account match is not present and DOES NOT have a status of `Accepted`, `Qualifying` or `Qualified`, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status = Sending to Partner`
+3. If lead to partner account match is present and has a status of `Accepted`, `Qualifying` or `Qualified`, LeanData assigns to appropriate SDR
+
+#### Exceptions to this rule
+When a lead/contact engages with GitLab in any shape or form, for example, via an inbound marketing request, the lead/contact owner is responsibility for following up with the partner lead, regardless of their stage within the partner lead lifecycle.
 
 ## Contact routing workflow
 The scope of the contact flowbuilder is very limited. Records are only processed by this flowbuilder if they are meant to be managed by partners via the Vartopia Prospect module. In our current iteration, the contact flowbuilder only updates two custom fields, which triggers a partner's record visibility in Vartopia. 

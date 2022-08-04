@@ -39,6 +39,14 @@ At GitLab, we strive to communicate with people in a way that is beneficial to t
 
 Each form will have the appropriate opt-in language specifid. However, to check you may [visit here](https://docs.google.com/document/d/1UEfWo26DP7nRPrWRWo7O7oSrNp_rRuVqyN_vC7SwXME/edit?usp=sharing).
 
+### Localized email footer snippet
+We have a [Localized email footer snippet](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SN15Z1B2ZN16) that can be used on localized email. This footer will include our standard unsubscribe and preference center in the language preferred by the person being emailed, based on their language preference segment. To add this footer to a nurture email (instructions are the same for most emails on the modular template):
+- Delete the existing footer section by clicking the Settings button on the section
+- Drag the `Body text` module into the email from the sidebar where the footer was
+- Clear Content the first content section in the `Body text` module
+- On the second section, select the Settings button, then click `Replace with snippet`
+- Select `Localized email footer`, then save.
+
 ### Send Frequency
 
 We have a Marketo enforced limit on how many emails a single address can recieve per day and week. The limits are 1/day and 3/week. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold, **unless** the email is marked as `operational`. However, emails marked as `operational` will still be sent.

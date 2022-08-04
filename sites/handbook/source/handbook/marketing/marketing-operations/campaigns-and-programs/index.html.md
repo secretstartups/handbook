@@ -403,7 +403,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 - Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1) 
 - Surveys - For templates and setup instructions for surveys (both general surveys and SimplyDirect surveys) skip to specific setup details [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc).
 - Owned Event - `In-person`: [YYYYMMDD_OwnedEvent_EventType_Template](https://app-ab13.marketo.com/#ME4722A1)
-- Owned Event - `Virtual - Hopin only`: [WIP:  YYYYMMDD_OwnedEvent_Hopin_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME11445A1) - Do not use, template in progress
+- Owned Event - `Virtual - Hopin only`: [YYYYMMDD_OwnedEvent_Hopin_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME11445A1) 
     - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector). 
 
 ##### Webcasts and Self-Service Marketo Templates
@@ -436,6 +436,7 @@ If this is to set up a program that involves a channel partner, you must also fo
         - {{my.ondemandurl}} - This will be entered AFTER the event date. It is the link to the recorded webcast. You will need to come back after the event and update this token.
 - Update the utm_campaign field following the process outlined [here](https://about.gitlab.com/handbook/marketing/utm-strategy/#utm-campaign). 
 - **Partner Campaigns** will need to also to update the `{{my.partner name}}` and `{{my.partner crm id}}` for proper routing 
+- For live events, be sure to update the `reply email` token. This is used in the confirmation email. You need to add the correct email address for cancellations or special accomodations, and update the subject to something descriptive. Keep the `%20` between each word in the subject so the subject populates correctly.
 
 ### Step 4: Activate Marketo smart campaign(s)
 * If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded. 
@@ -452,7 +453,7 @@ If this is to set up a program that involves a channel partner, you must also fo
      * Select the `01a Registration Flow` smart campaign for virtual webinars or the `03 In-person Processing` smart campaign for in-person events
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag. 
      * Click to the `Schedule` tab and click `Activate` 
-* If this is an `Owned Event` follow the below activation instructions:
+* If this is an `Owned Event` (not Hopin) follow the below activation instructions:
      * Click the `Campaigns` folder
      * Select the `01b - Registration` smart campaign
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
@@ -463,6 +464,7 @@ If this is to set up a program that involves a channel partner, you must also fo
      * Select the `02b - Manual Upload Processing` smart campaign - This smart campaign looks for an addition to the lead list to update the status of the lead based on what list they are in. It's called manual upload because there needs to be a list upload to get these people updated in Marketo. If your campaign will need a list upload, you can turn this on.
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the `Schedule` tab and click `Activate`           
+* If this is an `Owned Event` (Hopin), follow the `Update the Salesforce campaign` instructions in Step 5, then follow the activation instructions [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector)).
 * For all other campaign types, follow the below activation instructions:
      * Click the "Smart Campaigns" folder
      * Select the `Interesting Moments` smart campaign. 
@@ -471,6 +473,7 @@ If this is to set up a program that involves a channel partner, you must also fo
      * Select the `01 Processing` smart campaign.
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the "Schedule" tab and click `Activate`.
+      
 
 - If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing` or `Viewed on Demand` campaigns.
 - For `Speaking Sessions` with pre-registration, find the `Pre-Registration` folder, and activate the `01 - Form Fill` step after populating the smart list with the correct form and landing page.
@@ -527,6 +530,7 @@ Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campa
 
 - Update all tokens as they feed the email and interesting moments
    - You do not need to update `Request` tokens if there are no meetings being set up for the conference
+   - If you are scheduling in person meetings, be sure to update the `reply email` token. This is used in the confirmation email. You need to add the correct email address for cancellations or special accomodations, and update the subject to something descriptive. Keep the `%20` between each word in the subject so the subject populates correctly.
 
 ### Step 4: Activate Marketo smart campaign
 - `00 Send Sales-Driven Invite` (optional) can be turned on and scheduled to send on a reoccuring basis if sales and XDRs are going to be inviting people to the conference. This is not required on all campaigns, and Verticurl will activate after building the Sales-Driven email. After scheduling, Sales can add someone to the campaign in SFDC and that person will be automatically sent an email invite. There is a separate email for sales invites listed in the `email` folder
@@ -683,34 +687,32 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Click Save
 
 ## Steps to Use HopIn Connector
-Follow all of the set up steps [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-marketo-programs-and-salesforce-campaigns). You will also need to do go into the `Hopin Integration` folder in the Owned Event Template and you will see several smart campaigns and a form.
+Follow all of the set up steps to clone the template, update tokens, and update the Salesforce campaign [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-marketo-programs-and-salesforce-campaigns). You will also need to follow the instructions below to activate the Hopin campaigns.
 
 Important Notes:
-* **YOU MUST CONNECT HOPIN TO MARKETO BEFORE YOU TURN ON REGISTRATION IN HOPIN** (STEP 1 BELOW)**
-* To send emails using the Magic Links, you must sent the email via a smart campaign and NOT an email program. Otherwise, the join link will not properly populate.
+* **YOU MUST CONNECT HOPIN TO MARKETO BEFORE YOU TURN ON REGISTRATION IN HOPIN** (STEPS 2 OR 3 BELOW)**
+* To send emails using the Magic Links, you must sent the email via a smart campaign and NOT an email program. Otherwise, the join link will not properly populate. This means the confirmation email AND any reminder emails that include the join link must be sent through a smart campaign. This is built into the template.
+* You must update the `{{my.hopin event name}}` and `{{my.hopin ticket code}}` tokens with information from Hopin in order for registrants to be processed correctly. Details are in the instructions below.
 
 
-1. `01a Registration from Hopin` is used if you are using HopIn registration pages. This smart campaign triggers off of a custom activity `Registers for HopIn Event` and will add the registrant to the proper campaign. **THIS WILL ONLY PASS `First Name`, `Last Name`, `Email`, and the name of the event. In order to capture any of the custom fields (like company name), you'll need to set up the next step to capture registrants from Marketo. Otherwise, a dataload will be required**
-   - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
-   - When token is updated, you can turn on. No changes are necessary for the Flow.
-   - Do not turn on if you are not utilizing HopIn registration pages
-1. `01b. Push Registrants from Marketo to Hopin` is used if you are utilizng a Marketo form to capture registration for the HopIn Event. Do not turn on if you are **only** utilizing HopIn registration pages
-     - Before you start with the smart campaign, you need to make sure you update the copy for the registration confirmation email named `Hopin - Confirm`. First, update all tokens on the program and then fill in the missing pieces of the email itself. You'll need to add `{{member.hopin join link}}`` as the CTA to the email. That will contain the link specific to each person to join the event.
-     - Next, you need to update the program token of `Ticket Integration Code` this field is already on the form, but must be updated to match the specific ticket code in HopIn.
-        - Find your Ticket Integration Code in Hopin by selecting an event, and going to the Tickets page of your event dashboard. Copy the URL of the ticket name you want to use, and strip out everything but the number at the end.
+1. Update your Hopin-specific tokens. 
+   - `{{my.hopin event name}}` - You can pull the `Event Name` from the HopIn platform - This is the name of the event exactly as it appears in Hopin.
+   - `{{my.hopin ticket code}}` - Find your Ticket Integration Code in Hopin by selecting an event, and going to the Tickets page of your event dashboard. Copy the URL of the ticket name you want to use, and strip out everything but the number at the end (keep everything after the word `code=` in the URL).
      - If you are only registering for a single ticket, all you need to do is update the token, but if you have multiple ticket options, you will need to create a select dropdown in the form that holds the Integration Codes as stored values - ([ask Mops to do this for you](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#form_request)).
-    - No changes are necessary for the campaign flow. The flow will request a Webhook, which will push the registrant into HopIn, as well as send registrant a registration confirmation email. 
-    - The landing page template is already set up to have this form.
-    - Before you turn on, make sure you have updated tokens in the email `Hopin - Confirm`, as this will automatically send the `Magic Link / Join Link` for the registrant to confirm their registration.
+1. `01a Registration from Hopin` is used if you are using HopIn registration pages (skip to next step if you are using a Marketo landing page). This smart campaign triggers off of a custom activity `Registers for HopIn Event` and will add the registrant to the proper campaign. **THIS WILL ONLY PASS `First Name`, `Last Name`, `Email`, and the name of the event. In order to capture any of the custom fields (like company name), you'll need to set up the next step to capture registrants from Marketo. Otherwise, a dataload will be required**
+   - The program token `{{my.hopin event name}}` must be populated to use this with your HopIn event name. Use `starts with` as the operator to make sure you catch all registrants. 
+   - If token is updated, you can turn on. No changes are necessary for the Flow.
+   - Do not turn on if you are not utilizing HopIn registration pages. You will not use this if you are using a Marketo landing page.
+1. `01b. Push Registrants to Hopin from Marketo + Send Confirmation Email` is used if you are utilizing a Marketo form to capture registration for the HopIn Event. Do not turn on if you are **only** utilizing HopIn registration pages
+     - Before you start with the smart campaign, you need to make sure you update the copy for the registration confirmation email named `Confirm - Hopin v2`. First, confirm all tokens on the program and then fill in the missing pieces of the email itself. Confirm that `{{member.hopin join link}}` is the CTA to the email. That will contain the link specific to each person to join the event.
+        - The `{{member.hopin join link}}` token will automatically send the `Magic Link / Join Link` for the registrant to confirm their registration.
         - The magic link is automatically created by the webhook, do not update that field.
-    - Turn on `01b. Push Registrants to HopIn from Marketo`. Then test by registering on that landing page. After 2 minutes, you will recieve an email asking to confirm your registration, click the link and follow prompts on the HopIn page. Once confirmed, you will receive an email from HopIn saying it was successful. You can also look into the `attendees` section in HopIn and make sure your test is there too - once you see it, you can `remove` your test lead from the list and go live with the landing page.
+     - No changes are necessary for the campaign flow. The flow will request a Webhook, which will push the registrant into HopIn, as well as send registrant a registration confirmation email. 
+    - The landing page template is already set up to have this form. You will need to change the landing page after form submit to the Thank You Page for this program. It will default to the template landing page.
+     - Turn on `01b. Push Registrants to Hopin from Marketo + Send Confirmation Email`. Then test by registering on that landing page. After 3 minutes, you will recieve an email asking to confirm your registration, click the link and follow prompts on the HopIn page. Once confirmed, you will receive an email from HopIn saying it was successful. You can also look into the `attendees` section in HopIn and make sure your test is there too - once you see it, you can `remove` your test lead from the list and go live with the landing page.
 1. `02 Attended Hopin` is used to track attendees of the event - it will not track individual sessions, only overall attendance.
-   - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. In the Smartlist, Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
+   - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. In the Smartlist, Use `starts with` as the operator to make sure you catch all registrants. 
    - When token is updated, you can turn on. No changes are necessary for the Flow.
-1. Registration Troubleshooting
- There is a list called `Registration Errors` that will populate if the Magic Link is not properly populated. If this is the case, you will need to send a magic link via the HopIn platform. Follow these directions:
-    - Log into HopIn and navigate to your event
-    - On left side nav, look for `Magic Link` and click the `Manage Invitations` tab. There you'll see who has registered (confirmed clicked) and those who haven't. You can send emails to these people who are not registered to ensure they are confirmed before the event starts.
 
 
 ## Steps to Setup Linkedin Lead Gen Form *Gated Content Only
@@ -746,8 +748,8 @@ If this form is in a different language, make sure that the Linkedin Form has th
 When someone fills out these forms, they will be automatically added to the [Language Segmentation](/handbook/marketing/marketing-operations/marketo/#segmentations) allowing them to receive messages in their local language.
 
 
-### Step 1: [Clone this Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6911A1)
-- Use format `YYYY_Social_Name_Campaign Parameter_Linkedin Lead Gen`
+### Step 1: [Clone this Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8361A1)
+- Use format `YYYY_Social_[Name]_[parameter]_LinkedIn Lead Gen`
 - Campaign parameter must be one of the [GTM campaign parameters](/handbook/marketing/utm-strategy/#utm-campaign) (usually used as utm_campaign - ex. `iacgitops` or `singleappci`). The Salesforce campaign name must include the campaign parameter for the responses to roll up to the correct campaign on the Sisense Demand Gen dashboard.
 
 _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
@@ -775,15 +777,39 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 - Add the Marketo program link and SFDC campaign link to the epic.
 
 ### Step 4: Go back into Marketo Template
-- Update local program tokens 
+- Update local program tokens. Note: The template is set-up for one asset per form. If you have multiple assets, you can add additional tokens for each asset.
+**Smart List**
 - Update the campaign smart list filter with `contains` and the prefix
    - `Fills out Linkedin Lead Gen Form`, `Lead Gen Form Name contains [parameter]` 
    - Available parameters are [listed above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only), or create new if not listed.
-- Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the campaign Flow
+- `Filled out Linkedin Lead Gen Form` filter - Make sure that other programs are excluded if your new campaign will use a similar LinkedIn Lead Gen form name. Common exclusions are `amer-pubsec`, `abmkey`, and `apac-pubsec` as these flow through separate campaigns. This is not a full list of all exclusions required as this will be based on what you are setting up. You can review existing LI Lead Gen programs for examples of exclusions.
+- Other programs are looking for the parameters [listed above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only). If your LI Lead Gen form contains any of these, you will need to exclude your campaign from the existing program processing (for example, if your LI Lead Gen Form contains `devsecopsusecase`, you will need to exclude your LI Lead Gen form name from processing through the others that use `devsecopsusecase`). Please see the testing section below as this provides instructions to make sure you captured exclusions properly.
+**Flow**
+- No change to `1 - Remove from Flow` - If you remove this temporarily to test, be sure to add it back in before going live. `Remove from Flow`: Choice 1: If Email Address contains @gitlab.com. Campaign: this campaign. Default Choice: Campaign is Do nothing
+- `2 - Send Email` - This step will vary. In general, you will set Choice 1: If Filled out LinkedIn Lead Gen Form contains [content name from form] then, Email [select appropriate email autoresponder]. You can have multiple choices here, one for each asset. Even if you only have one asset, best practice is to set up a choice with the default of Do Nothing. This is another backup in case the automation fails and will make sure that people don't receive an autoresponder email for another asset because the content name won't be found. You can view an example with multiple assets [here](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC21615C3ZN19).
+- No change to `3 - Change Program Status` - This is automatically in the template. Program: [Marketo program name] - New Status Gated Content > Downloaded
+- `4 - Interesting Moment` Set this up the same way as the Send Email logic, except you will change the description to match the asset. In general, you will set Choice 1: If Filled out LinkedIn Lead Gen Form contains [content name from form] then, Type Milestone, Description: Filled out LinkedIn form to view asset: [asset name]. Default choice should be generic: "Filled out LinkedIn form to view [GTM name] asset."
+  - If you set up additional tokens for each asset, you can use the tokens to populate the Interesting Moments
+- No changes to steps 5 and 6.
+- `7 - Change Data Value` - Make sure `opt-in` language is on the Linkedin Form, if not, remove this `opt-in` step in the campaign Flow
 - Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
 - All Linkedin programs with your form prefix will now flow through this campaign
 
-### Step 5: Update this Handbook page
+### Step 5: Autoresponder email
+- The autoresponder is based on tokens and will not require any changes if you only have one asset.
+- If you have multiple assets, you will need to clone the autoresponder email and update all of the tokens in the email to match the additional tokens you added to the program for each asset.
+
+### Step 6: Test your LinkedIn Lead Gen Set-up
+- Have your agency (PMG or other) or Digital Marketing send a test record through the form. You can request this in the issue with the agency using the following text, updating the indicated sections:   `The Marketo program has been set-up for [name of asset] in [segment/region if applicable - you will not always need to provide this]. The automation will trigger based on [gtm code] and [content name]. Please submit a test record.`
+- After the test lead is submitted, open the test record in the Marketo database. Go to the `Activity History` and confirm:
+   1. The form that was submitted. You will pay attention to the gtm name and the content name. Make sure this is the form you wanted to test. If confirmed, move to step 2.
+   1. Confirm the correct autoresponder for the requested asset deployed
+   1. Confirm that no other autoresponders were sent
+   1. Confirm that the correct Interesting Moment was triggered
+   1. Confirm that the test record was added to the SFDC campaign (this may take a few minutes)
+   1. Confirm that the test record was not sent any other emails or added to other programs as a result of this test
+
+### Step 7: Update this Handbook page
 - Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a `yes` and a link to the parameter and campaign you have set up.
 
 

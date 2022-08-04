@@ -161,14 +161,15 @@ All of the standardization smart campaigns are contained in:
 A Marketing Qualified Lead is a lead that has reached a threshold of `100` points, based on demographic/firmographic and/or behavioral information. The [MQL Scoring](/handbook/marketing/marketing-operations/marketo/#scoring-model) is detailed below and is comprised of various actions and/or profile data that are weighted with positive or negative point values.
 
 ### Re-MQL
+For additional information, visit the lead lifecycle page](/handbook/marketing/marketing-operations/lead-lifecycle/#lead-lifecycle).
 
-A Lead/Contact will be allowed to re-MQL if they are in a `Nurture` status and reach the [MQL threshold](/handbook/marketing/marketing-operations#mql-scoring-model) again.
+A Lead/Contact will be allowed to re-MQL if they are in a `Recycle` status and reach the [MQL threshold](/handbook/marketing/marketing-operations#mql-scoring-model) again. 
 
 The number of times they `MQL` will be counted with the `MQL Counter` field.  The `Initial MQL DateTime` contains the very first time a prospect reached the [MQL threshold](/handbook/marketing/marketing-operations#mql-scoring-model).  `MQL Date` will be overwritten to be the most recent date that a lead has reached the MQL threshold.
 
-When a lead is set to `Nurture`, their `Behavior Score` is reset to 0. Their `Person Score` is reset to the value of the `Demographic Score`. Additionally, a person who has reached `MQL` in the past, is given an additional score of `+20` when they are reset to `Nurture` and take an action to increase their behaviour score. If a lead was `Accepted` before it reached the MQL threshold, and is then set to `Nurture` within 30 days, the lead's `Behavior Score` will reset to the value it was while in `Inquiry` when they take an action, the `Demographic Score` will be re-run and their overall `Person Score` will be the sum of those two values.
+When a lead is set to `Recycle`, their `Behavior Score` is reset to 0. Their `Person Score` is reset to the value of the `Demographic Score`. Additionally, a person who has reached `MQL` in the past, is given an additional score of `+20` when they are reset to `Recycle` and take an action to increase their behaviour score. If a lead was `Accepted` before it reached the MQL threshold, and is then set to `Recycle` within 30 days, the lead's `Behavior Score` will reset to the value it was while in `Inquiry` when they take an action, the `Demographic Score` will be re-run and their overall `Person Score` will be the sum of those two values.
 
-When a lead `Re-MQLs` from `Nurture` to `MQL`, their `Nurture Reason` field is set to `Null`, but that `Nurture Reason` value is preserved in the field `Previous Nurture Value` on the lead or contact. That field is set by Marketo only. The `Nurture DateTime` only updates the first time. When a lead re-reaches an `MQL` status, they are not re-routed by LeanData for round-robin, they stay in their original owners name.
+When a lead `Re-MQLs` from `Recycle` to `MQL`, their `Recycle Reason` field is set to `Null`, but that `Recycle Reason` value is preserved in the field `Previous Recycle Value` on the lead or contact. That field is set by Marketo only. The `Recycle DateTime` only updates the first time. When a lead re-reaches an `MQL` status, they are not re-routed by LeanData for round-robin, they stay in their original owners name.
 
 Follow the workflow mural to see the lead lifecycle. Notice you cannot go backwards in status to `Raw` or `Inquiry` from a later step.
 
@@ -191,9 +192,9 @@ There is a flow that runs everynight to reset leads that have gone negative back
 Some leads are exluded from scoring if they:
 * Have a `@gitlab.com` email address
 * Are a competitor
-* Status = `Unqualified` or `Bad Data`
+* Status = `Disqualified` or `Bad Data`
 * Company name of `student`, `personal`, `test` and similar 
-* Actively worked by a partner (`Prospect Share Status = `Sending to Partner`, `Accepted`, or `Pending`)
+* Actively worked by a partner (`Prospect Share Status` = `Sending to Partner`, `Accepted`, or `Pending`)
 
 #### Auto-MQL
 Based on certain criteria, a lead may auto-MQL. The scenarios are listed below:
@@ -337,11 +338,11 @@ The following segmentations that are approved and live.
 [Funnel Stage](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1021A1)
 </summary>
 
-- Raw > INQ - `Status = NULL, Inquiry or Raw` OR (`Status = Nurture` AND `Person Score < 75`)
-- INQ > MQL - `Status = MQL, Accepted or Qualifying` OR (`Status = Nurture` AND `Person Score > 74`)
+- Raw > INQ - `Status = NULL, Inquiry or Raw` OR (`Status = Recycle` AND `Person Score < 75`)
+- INQ > MQL - `Status = MQL, Accepted or Qualifying` OR (`Status = Recucle` AND `Person Score > 74`)
 - MQL > SAO - `Status = Qualified` OR `1 Open Opportunity` OR `Has an Open Opportunity`
 - Customer - `Current Customer = TRUE` OR `Status = Web Portal Purchase` OR `Is Paid Tier = True`
-- Unqualified - Status is `Unqualified or Bad Data`
+- Disqualified - Status is `Disqualified or Bad Data`
 
 </details>
 
