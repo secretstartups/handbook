@@ -116,7 +116,7 @@ _Performance indicators_
 <iframe src="https://calendar.google.com/calendar/embed?src=c_glhi0qhc8hs9fp4h9id2hc7lfg%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </figure>
 
-**Note: Learning & Development activities are subject to change**
+**Note: Learning & Development activities are subject to modification**
 
 Internally, the GitLab People Group uses a calendar to track cross-functional efforts. Please see the [People Group Page](/handbook/people-group/#team-calendars) for more information.
 
