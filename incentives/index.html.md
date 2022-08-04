@@ -435,6 +435,10 @@ We'll attempt to document answers to frequently asked questions in the handbook.
    1. You can use your own money beyond your personal event budget if it is possible to split out your personal monetary spend. For example, if a DRI is planning an event with 30 people and there is no way for you to pay your share fully with your event allowance, you can use personal money out of pocket towards this difference. If this is something that you are interested in doing, please sync with the DRI(s) in advance of an event to confirm that you can pay for all/part of your participation with your own money.
 
 
+ 2. Am I eligible to participate in the Q3 Visiting Grant if I'm on an approved Leave of Absence?  
+
+ - While utilizing the Visiting Grant is completely optional and voluntary, and since it's intent is to allow Team Members to get together in person, yes, you are eligible to participate in the Q3 Visiting Grant program as this is not considered a business related expense. Other business expenses related to completing work during a leave of absence are not allowed, as per our [Expense Policy](https://about.gitlab.com/handbook/finance/expenses/#-expense-policy-summary).
+
 #### Sharing your Visiting Grant stories
 
 If you're a GitLab team member who has traveled and utilized GitLab's Visiting Grant or are planning to do so soon, consider sharing your story!
