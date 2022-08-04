@@ -145,6 +145,7 @@ The following are books suggested by GitLab team members in the [#women Slack ch
 | [Lean In by Sheryl Sandberg](https://leanin.org/book) | |
 | [The Memo by Minda Harts](https://www.mindaharts.com/book/) | |
 | [Burnout - The Secret to Unlocking the Stress Cycle by Amelia Nagoski and Emily Nagoski](https://bookshop.org/books/burnout-the-secret-to-unlocking-the-stress-cycle/9781984818324) | |
+| [Invisible Women - Data Bias in a World Designed for Men](https://www.goodreads.com/book/show/41104077-invisible-women) | |
 
 ## Past Events
 
