@@ -73,6 +73,12 @@ These are videos of actual 8-hour courses given live to customers by GitLab's Ed
 - [Developing your Emotional Intelligence](https://www.linkedin.com/learning/developing-your-emotional-intelligence/benefits-of-building-emotional-intelligence)
 - [Leading with Emotional Intellignece](https://www.linkedin.com/learning/leading-with-emotional-intelligence-3/lead-with-emotional-intelligence)
 
+#### Public Speaking
+- [Communicating with Confidence](https://www.linkedin.com/learning-login/share?account=2255073&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcommunicating-with-confidence%3Ftrk%3Dshare_ent_url%26shareId%3Db7EUHzikS6iSUIMO0n%252Fq9A%253D%253D) (LinkedIn Learning)
+- [Institute of Public Speaking Virtual One-Day Class](https://www.instituteofpublicspeaking.com/event-registration/)
+- [Dynamic Public Speaking by University of Washington](https://www.coursera.org/specializations/public-speaking)
+- [Storytelling and influencing: Communicate with impact](https://www.coursera.org/learn/communicate-with-impact)
+
 ### Technical
 
 - Self Certifications are available for the professional services courses on Edcast:
