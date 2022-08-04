@@ -42,7 +42,7 @@ Managers know in `#spt_managers`.*
 | Performance      | Performance         | Stan Hu             | Lee Matos             | N/A |
 | Production       | .com Infrastructure | Dave Smith          | Vlad Stoianovici      | every 2 weeks |
 | Marketing        | Community Relations | John Coghlan        | TBD                   | weekly team meeting |
-| Marketing        | Open Source Prog.   | Bryan Behrenshausen | Greg Myers            | weekly team meeting |
+| Marketing        | Open Source Prog.   | Bryan Behrenshausen | Greg Myers & Andrew Conrad | weekly team meeting |
 | Customer Success | Customer Success    | Kristen Lawrence    | TBD                   | weekly on Fri join EMEA scrum |
 | Sales            | Sales               | TBD                 | Mike Dunninger        | TBD |
 | Security         | Abuse               | Roger Ostrander     | Greg Myers            | N/A |
