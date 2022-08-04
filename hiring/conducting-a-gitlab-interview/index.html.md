@@ -102,7 +102,7 @@ All feedback should be recorded in Greenhouse and/or discussed live with the hir
 
 #### Considerations for Interviews With Technical Applicants
 
-[Tips On How To Prepare For Your Technical Interview](/handbook/hiring/interviewing/technical-interview/)
+[Tips On How To Prepare For Your Technical Interview](/handbook/hiring/interviewing/customer-support-interviewing/)
 
 1. Try to get a real sample of work, which we
 typically do for developers during a technical interview. Avoid puzzles or weird algorithm testing questions. Probing for data structures is fine as long as it is relevant to the job the person is going to do.
