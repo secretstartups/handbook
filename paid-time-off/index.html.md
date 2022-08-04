@@ -119,6 +119,9 @@ Communicate broadly when you will be away so other people can manage time effici
         - Vacation Delegate - enter their email address and Payroll will grant the backup team member the necessary access
         - _**Note** - remove the vacation delegate after your PTO_
 
+### Communicating Time Off for Emergency Situations
+Emergencies, by definition, are unexpected. They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation. During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible. If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work. This will allow your manager to confirm your safety and reassign any critical work during your absence. Please make sure you've added at least one emergency contact in BambooHR. We will only contact your emergency contact if we are unable to reach you via Slack, email or phone.
+
 ### Returning from PTO
 
 Returning from PTO of any length can feel overwhelming. Consider implementing these strategies when returning from time off in order to make the most of the rest and reflection you've achieved.
@@ -187,28 +190,51 @@ In the unfortunate event that a team member is dealing with a medical situation,
 
 If a team member does choose to start the conversation about [reasonable accommodations](/handbook/people-policies/inc-usa/#reasonable-accommodation) in the [US] or [accommodations in the EU], please have the team member reach out to the Absence Management Team by emailing `leaves@gitlab.com`. If the team member starts the conversation with the manager, we would ask the manager to reach out to the Absence Management Team, by emailing `leaves@gitlab.com`. The Absence Management Team will keep a log of all accommodation requests. What can (or must) be accommodated varies from location to location. GitLab will comply with the applicable laws in your specific location.
 
-### Communicating Time Off for Emergency Situations
-Emergencies, by definition, are unexpected. They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation. During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible. If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work. This will allow your manager to confirm your safety and reassign any critical work during your absence. Please make sure you've added at least one emergency contact in BambooHR. We will only contact your emergency contact if we are unable to reach you via Slack, email or phone.
-
-### Unpaid Leave of Absence
-Team members may request an unpaid leave of absence by working with their manager to obtain approval. A manager has the discretion to not approve a leave based on performance issues or critical deadlines, subject to statutory leave requirements. All requests must be approved by the function Vice President and comply with all local laws (for more information about the unpaid leaves of absence available in your location, please visit the [entity-specific benefits page](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits)). Please follow the process for initiating an unpaid leave request to Peopleops.
-* Once an unpaid leave request has been approved by the team members manager and functional Vice President the manager should send an email to Peopleops that will include the team members name, location, start and end date of approved unpaid leave. Please copy your functional PBP on the unpaid leave request email.
-* Once Peopleops receives the unpaid leave email request they will confirm the manager and VP approval with the functional PBP.
-* Once Peopleops confirms with the PBP, Peopleops will inform payroll via email of the approved request. The email will contain the team member name, location, start and end date of unpaid leave.
-* Peopleops will confirm with the team member via email that the request has been approved including the start date and end date of the unpaid leave.
-* The team member should contact their manager 2 weeks prior to the unpaid leave of absence ending to confirm the return to work date. The team member may ask for additional unpaid time off, however the manager has the discretion to deny any additional time off requests, subject to statutory leave requirements.
-* At anytime during the unpaid leave the team member receives a payroll payment, they are to immediately notify their manager and Peopleops via email. Any funds paid in error are subject to repayment.
-* Once the team member has a confirmed return to work date, they should communicate that date in advance to their manager and to the team member relations team to reinstate pay.
-
-### Admin Steps:
-* Once an unpaid personal leave request has been approved, the Absence Management team will update Bamboohr and inform Payroll.  
-* Once the team member has a confirmed their return to work date, the Absence Management team will notify the team member's manager, update BambooHR (if applicable) and notify payroll, benefits and stock admin to reinstate benefits.
-
+### Communicating with team members while they are leave of absence
 For team members who are on paid or unpaid leave of absence like [parental leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), [short or long-term disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), or [other approved leaves](/handbook/paid-time-off/#unpaid-leave-of-absence) there is no expectation that work would be accomplished during this time. Team members should use their approved paid or unpaid leave as an opportunity to focus on their health and well being. For managers it is important that you do not reach out to team members and ask them to complete work while on an approved leave of absence. An occasional quick call for a simple question is acceptable but these should be infrequent and simple requests that can be answered during that conversation.
 
 We do understand that during extended periods of time off team members may still want to feel connected. We encourage team members at their discretion to maintain a social connection with their peers and team members. This is completely up to the team member on leave on how or if they want to remain connected while on leave of absence.
 
 For managers it is ok to reach out to a team member every 3-4 weeks to just to say hello. These conversations should remain social and avoid work related topics.
+
+## Unpaid Leave of Absence
+Unpaid Personal Leave is a GitLab company policy which affords team members up to 30 calendar days of unpaid, unprotected time away from work.  This leave policy is intended to provide time away when a team member's leave reason does not meet eligibility for our other [leave policies](/handbook/people-policies/leave-of-absence/) or additional paid time under our PTO policy can not be provided. This policy is not intended to be used to extend, replace, or delay reporting time away under our other leave policies. 
+
+Requests of more than 30 calendar days must receive functional Vice President and group People Business Partner approval.
+
+### Requesting this Leave
+1. Team members should first email leaves@gitlab.com. The Absence Management team will review the request to determine if there are statutory leave programs they may be eligible for in their country.  
+1. If the Absence Management team informs you that you are not eligible for any statutory leave programs, this request should then be discussed with your Manager.  
+    - Team members must be fully performing in role (including both attendance and performance) and the business must be able to support the time away.
+   
+Managers may deny this request if a team member does not meet these requirements or the business can not support the time away, but they should reach out to Team Member Relations to discuss the reason for the denial prior to communicating with the Team Member. 
+
+#### Additional Information
+* If a team member incorrectly receives a payroll payment while on unpaid leave, they are to immediately notify leaves@gitlab.com via email.  Any funds paid in error are subject to immediate repayment.
+* The team member should confirm their intent to return to work at least 2 weeks prior to their return to work date. 
+* Vesting and company-sponsored benefits will be paused as soon as this leave is approved.
+    - Vesting and benefits will be reinstated effective the date the team member returns to work.
+* Time away should be categorized as `Vacation` in PTO by Roots.
+
+### Admin Steps:
+#### Managers, please follow these steps to process a Personal leave request: 
+Ensure the team member has first reached out to leaves@gitlab.com, and then follow the steps below.  If the team member has not yet emailed the Absence Management team, please direct them to do so next.
+
+#### If approving the leave:
+* Please email leaves@gitlab.com. Include in the email:
+    - Team Member's Name
+    - Confirm your approval of the leave
+    - Start date and End date of the leave
+    - Confirm you have explained to the team member their leave will be unpaid, and both vesting and benefits will be paused.
+
+#### If denying the leave:
+* Please email team Team Member Relations (teammemberrelations@gitlab.com).  Include in your email:
+    - Team Member's Name
+    - Reason(s) why you are denying their request.
+
+#### Absence Management Team:
+* Once an unpaid personal leave request has been approved, the Absence Management team will update Bamboohr and inform Payroll.  
+* Once the team member has a confirmed their return to work date, the Absence Management team will notify the team member's manager, update BambooHR (if applicable) and notify payroll, benefits and stock admin to reinstate benefits.
 
 ## PTO by Roots
 
