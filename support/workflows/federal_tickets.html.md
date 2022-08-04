@@ -70,7 +70,7 @@ Examples:
 - "This user https://gitlab-federal-support.zendesk.com/users/398443026291/ is struggling with Geo setup..."
 - "The person who submitted the case that got bounced back is a member of this organization: https://gitlab.my.salesforce.com/0014M00001hHHKF"
 
-The use of an acronym to discuss an organization is **not permitted** in either `#support_us-federal-chat` or `#feed_zd-federal` channels to prevent disclosure of sensitive information.
+The use of an acronym to discuss an organization is **not permitted** in either `#spt_us-federal` or `#feed_zd-federal` channels to prevent disclosure of sensitive information.
 
 ## Ticket assignment via round-robin
 
@@ -91,8 +91,8 @@ When you are out of the "office" or otherwise unable to handle more tickets, it 
 
 ## Getting help with a ticket
 
-Getting help with a US Federal ticket can be tricky since some information must be kept confidential. However, there are many times when a non-US Federal engineer may be the subject matter expert needed to help efficiently resolve a US Federal Support case. It is encouraged to ask questions in `#support_self-managed` and other non-private Slack channels provided the [Communication Guidelines](#communication-guidelines) are followed. You may also consider cross-posting the request for help back to the private `#support_us-federal-chat` channel to maximize the pool of engineers who may be able to assist. It should be kept in mind that although the `#support_us-federal-chat` Slack channel is a private channel the communication guidelines still apply as workspace admins and other users invited to the channel may not have been vetted for US Citizenship.
-
+Getting help with a US Federal ticket can be tricky since some information must be kept confidential. However, there are many times when a non-US Federal engineer may be the subject matter expert needed to help efficiently resolve a US Federal Support case. It is encouraged to ask questions in `#support_self-managed` and other Slack channels provided the [Communication Guidelines](#communication-guidelines) are followed.
+ 
 If you need a manager's help with a ticket, please keep in mind that only US Citizens have access to our US Federal Instance, which means that some of our managers cannot help you with tickets. If you are a US Citizen working in US Federal and your manager isn't, please feel free to reach out to a different manager if you are unable to address an issue without sharing confidential information.
 
 ### Discussion issues from tickets

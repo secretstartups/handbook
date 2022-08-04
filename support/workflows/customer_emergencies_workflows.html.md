@@ -301,7 +301,7 @@ Customers are permitted to submit emergencies via email or via the emergency for
 #### Emergencies outside on-call hours
 If a customer submits an emergency case outside the [working hours of Federal Support](https://about.gitlab.com/support/us-federal-support/#hours-of-operation) the following will occur:
 
- - A slack notification will trigger in the #support_us-federal-chat channel alerting the team to an off hours emergency and indicating follow-up is needed at the start of business hours
+ - A slack notification will trigger in the #spt_us-federal channel alerting the team to an off hours emergency and indicating follow-up is needed at the start of business hours
  - The `Off hours emergency request` trigger will inform the ticket submitter that it is after hours and give them the option to either create an emergency case in Global support or wait for US Federal support to follow-up at the next start of business hours. 
 
 ## Special handling notes
