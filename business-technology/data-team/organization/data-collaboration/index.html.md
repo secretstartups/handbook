@@ -60,7 +60,7 @@ Administrative
 - Set up a dedicated space
 
 Development 
-- New dashboard build
+- Build a new dashboard
 - Update a dashboard (logic, visualization)
 - Troubleshooting
 
@@ -78,10 +78,11 @@ Note: roles aren't static and members of the team will be in different roles for
 - [Google Data Studio](http://datastudio.google.com)
 - [Google Sheets](http://sheets.google.com)
 - [PostHog](https://posthog-poc.gitlab.systems/home)
+- [Tableau](https://www.tableau.com)
 
 ## Key Projects
 
-- [New BI Platform Evaluation and Deployment](https://gitlab.com/groups/gitlab-data/-/epics/470)
+- [Business Intelligence Tool Implementation (Tableau)](https://gitlab.com/groups/gitlab-data/-/epics/594)
 - [Rollout Product Analytics Tool to Growth](https://gitlab.com/groups/gitlab-data/-/epics/514)
 - [Data Hub](https://gitlab.com/gitlab-data/functional-analytics-center-of-excellence/-/issues/2)
 
@@ -97,8 +98,8 @@ BI Dashboards hub pages per functional area:
 
 Handbook pages:
 - [FACE Single Source of Truth Reporting](https://about.gitlab.com/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/)
-- [Data Collaboration Hub *(in progress)*](https://about.gitlab.com/handbook/business-technology/data-team/data-program-collaboration-hub/)
-- [Data Catalog *(to be updated)*](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/)
+- [Data Collaboration Hub](https://about.gitlab.com/handbook/business-technology/data-team/data-program-collaboration-hub/)
+- [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/)
 - [Tech Stack - Data and Integrations](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/data-and-integrations/)
 
 ### Current State of Business Intelligence
@@ -144,7 +145,7 @@ The ability to build dashboards quickly based on curated, secured, centralized d
 
 **Pilot Implementation**
 
-We are scoping our a possible pilot deployment of a new BI platform with a limited audience and scope. If we do roll out the pilot, the acceptable use will be limited to:
+We are rolling out a pilot deployment of [Tableau](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau/) with a limited audience and scope. During this pilot release, the acceptable use for Tableau is limited to:
 - Ad-hoc analysis and data exploration
 - One-off or temporary dashboards or reporting
 - Creating data visualizations for screenshots in presentations
@@ -174,9 +175,10 @@ We are currently running a pilot project with [PostHog](https://posthog.com) and
 
 ### Slack Group Name & Channels
 - @datacollaborationtriage: Group name for tagging in Slack 
-- [#bt-data-collaboration](https://gitlab.slack.com/archives/C036ADU4EH3): Internal Data Collaboration Team
-- [#bt-data-new-bi-tool-evaluation](https://gitlab.slack.com/archives/C02S5SBRMR9): New BI Tool Evaluation
+- [#bt-data-collaboration](https://gitlab.slack.com/archives/C036ADU4EH3) - Internal Data Collaboration Team
+- [#data-tableau](https://app.slack.com/client/T02592416/C03RMCEHVCP) - Tableau pilot project
 - [#product-analytics-platform](https://gitlab.slack.com/archives/C022RCEPK9V) - New Product Analytics tools
 - [#bt-data-posthog-pilot](https://gitlab.slack.com/archives/C035VQ1S153) - PostHog Implementation
 - [#gitlab-posthog-data](https://gitlab.slack.com/archives/C02QQGGG6FJ) - External Slack channel with PostHog
 - [#data-sisense-gitlab-external](https://gitlab.slack.com/archives/C02GG8C3GFK) - External channel with Sisense
+- [#ext-gitlab-interworks-tableau](https://app.slack.com/client/T02592416/C031QE95QJU) - External channel with Tableau/Salesforce
