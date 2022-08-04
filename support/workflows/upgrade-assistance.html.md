@@ -26,21 +26,20 @@ If the customer has not provided a plan, or it lacks the detail we need to suppo
 #### Initiating The Process
 
 1. The end user initiating the request will open a new Support Request using the Support for Self managed Instance form with the problem type set to "Upgrade Assistance Request" or for eligible users, the [US Federal Upgrade Assistance Request](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001434131) form in the respective Support Portal. This will generate a high priority ticket in the instance.
-2. The triaging engineer should assign the ticket to themselves and review the provided information. Based on the region, consult one of the following trackers to determine who next to ask to perform the upgrade. Once agreement has been reached with the engineer scheduled to perform the upgrade then the ticket should be reassigned to that engineer.
-    - [AMER Upgrade Assistance Request Tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3789)
-    - [EMEA Upgrade Assistance Request Tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3562)
-    - [APAC Upgrade Assistance Request Tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3399) 
+2. The triaging engineer should assign the ticket to themselves. 
 3. The ticket assignee should review if the organization has a TAM, if so then the TAM should be added as a CC or follower to the ticket.
 4. The user provided information must include all of the [required information](https://about.gitlab.com/support/scheduling-upgrade-assistance.html#what-information-do-i-need-to-schedule-upgrade-assistance).
 5. If there is missing, incomplete, or erroneous information the Engineer should highlight the deficiencies and provide any insight that may be helpful to correcting them to the user.
     - The engineer may opt to use the `Upgrade Request Missing Info` macro in Zendesk to help the user understand that we cannot proceed with scheduling
 until we have the necessary information to review.
 1. (Optional) When the required information has been collected, the assignee can reach out to any of the folks with an `Upgrade` or `Upgrade Assistance` focus on the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) page to pair or offer insight asynchronously.
-2. Once all the required information has been confirmed and reviewed, the ticket owner should notify via Slack the on-call engineer and manager who are scheduled during the upgrade window and add them as a CC or follower to the ticket.
+Based on the region, consult one of the following trackers to determine who to ask.
+    - [AMER Upgrade Assistance Request Tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3789)
+    - [EMEA Upgrade Assistance Request Tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3562) (deprecated, Check within your SGG)
+    - [APAC Upgrade Assistance Request Tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3399) (deprecated, Check within your SGG)
 3. If the customer requests to have the optional 30-minute call for a final review, send a personal one time use Calendly link for a 30 minute meeting at least 2-3 days in advance of when the customer plans to upgrade their GitLab instance.
     - If the reviewing engineer needs to hand off the ticket, they **must** sync up with the engineer who will be performing the final review to ensure proper handoff.
 3. Once the user has scheduled the upgrade, the ticket assignee should put the ticket in an `on-hold` state until the customer has confirmed that the upgrade has been successfully completed. 
-4. Post upgrade, the Engineer will comment on the ticket with a post-mortem (if necessary). This should detail any issues that occurred or comments that might be relevant for the TAM, the customer, or Support.
 
 #### What to do if issues occur during the course of upgrade assistance
 
