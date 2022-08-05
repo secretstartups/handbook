@@ -4,14 +4,11 @@ title: Home Page for SGG Forest - for all Support Managers and SGG Team Members
 description: Home Page for SGG Forest - for all Support Managers and SGG Team Members
 ---
 
-<!-- Search for all occurrences of NAME and replace them with the group's name.
-     Search for all occurrences of URL HERE and replace them with the appropriate url -->
-
 # Welcome to the home page of Forest 
 
-While Forest isn't an actual Support Global Group, the Forest Slack channel gives managers an opportunity to work more closely together as a "global group" in support of SGG. Through the channel managers have increased visibility on things like SGG and manager capacity, and can strategize on global and regional SGG initiatives.
+Forest is a sort of "meta" Support Global Group, where managers and team members collaborate to grow new ideas and solve problems within individual SGGs. While Forest isn't an actual SGG, the Forest Slack channel gives managers an opportunity to work more closely together as a "global group" in support of SGG. Forest provides increased visibility on SGG and manager capacity, and serves as a place to strategize on global and regional SGG initiatives.
 
-Additionally, all SGG team members are encouraged to collaborate with managers in Forest to discuss ideas, challenges and successes, and to seek help when needed.
+We encourage all SGG team members to collaborate with managers in Forest to discuss ideas, challenges, and successes, and to seek help when needed.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -21,12 +18,12 @@ Additionally, all SGG team members are encouraged to collaborate with managers i
 
 ## Forest resources
 
-- Main Slack Channel: [spt_gg_forest](https://gitlab.slack.com/archives/C03LL7Z2291)
+- Slack Channel: [#spt_gg_forest](https://gitlab.slack.com/archives/C03LL7Z2291)
 
 ## Forest workflows and processes
 
 ### Daily Manager Standup (Optional)
-Each day, much like for each Support Global Group, a bot notifies the channel of regional manager availability and of SGG and on-call details (including US Fed for the AMER region). This starts the daily thread where managers can highlight:
+Each day, much like for each Support Global Group, a bot notifies the channel of regional manager availability, SGG load, and on-call details (including US Fed for the AMER region). This starts the daily thread where managers can highlight:
 - individual project and task focuses for the day
 - announcements
 - requests for help from other managers
