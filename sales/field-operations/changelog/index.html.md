@@ -14,6 +14,14 @@ The Field Operations Changelog keeps a running log of Field Ops changes related 
 
 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
 
+## Q3-FY23
+
+### 2022-08-08 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/162))
+
+**Sales Ops: [New Restricted Party Field & Process in SFDC](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/162#new-restricted-party-field-process-in-sfdc)**
+
+**Sales Ops: [Late Renewal Exception Process Automation](https://internal-handbook.gitlab.io/handbook/sales/go-to-market/renewals/#steps-to-request-an-exception)**
+
 ## Q2-FY23
 
 ### 2022-07-12 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/151))
