@@ -302,5 +302,13 @@ This terminology is distinct from our Learning Experience Platform, GitLab Learn
 | Webinar | A seminar conducted virtually to a large audience | 3+ hours | 
 | Workshop | Hands-on or virtual demos, problem solving, tutorials where team members engage in discussion and activity on a particular subject | Varies |
 
+## Awards
+
+### Brandon Hall Award
+
+The launch of the GitLab Learn LXP was awarded a Silver Excellence in Learning by the [Brandon Hall Group](http://www.brandonhall.com/excellenceawards/) for the Best Launch of a Corporate Learning University. 
+
+![silver brandon hall group award logo](silver-award.png){: .shadow.medium.center}
+
 
 
