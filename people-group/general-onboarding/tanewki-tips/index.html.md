@@ -22,8 +22,6 @@ Hello! We could not be more excited to have you at GitLab. This page is here to 
 
 - [Alex Venter, Sr. People Experience Associate](https://about.gitlab.com/company/team/#alex_venter)
 - [Ashley Jones, Sr. People Experience Associate](https://about.gitlab.com/company/team/#asjones)
-- [Shiloh Riddle, People Experience Associate](https://about.gitlab.com/company/team/#SVBarry)
-- [Beverley Rufener, Manager, People Operations](https://about.gitlab.com/company/team/#brufener)
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Onboarding Issues
 
