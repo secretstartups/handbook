@@ -53,16 +53,16 @@ The People Experience team will randomly select 3 winners giveaway link to order
 
 Buddy assignation is the new team member's manager's responsibility as outlined in the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) as the very first `Before Starting at GitLab` manager task. If you have been at GitLab 3+ months and are interested in participating in the Onboarding Buddy Program, please express your interest to your manager.
 
-## Managers: Who should I pick as an Onboarding Buddy? 
+## Managers: Who should I pick as an Onboarding Buddy?
 
-Ideally an onboarding buddy:  
-- has been at GitLab longer than 3 months 
+Ideally an onboarding buddy:
+- has been at GitLab longer than 3 months
 - shares the same department or division with the onboarding team member
-- shares a similar timezone 
+- shares a similar timezone
 - available during the first two weeks (no major PTO events or leave)
 - is someone who can support the adjustment to GitLab and knows a bit about the applications / tools the new team member may be using in the course of their role
 
-These guidelines have been developed from the feedback we recieve in the Onboarding Survey and feedback from onboarding buddies. It is not always possible to achieve all of these guidelines depending on the team or location. 
+These guidelines have been developed from the feedback we recieve in the Onboarding Survey and feedback from onboarding buddies. It is not always possible to achieve all of these guidelines depending on the team or location.
 
 ## Example Email Template
 
@@ -74,9 +74,9 @@ This is an example template you can use to introduce yourself to a new team memb
 >
 > {Talk about some of the things you've worked on at GitLab, a bit about your role and what you do for fun! Link to your personal README if you have one.}
 >
-> This welcome email is one of my first onboarding buddy tasks. It is sent to your personal email address because your GitLab email is meant to be accessible to you starting on your first day only. Also, sometimes a new hire may have questions that they would feel more comfortable asking their onboarding buddy versus their manager or recruiter. Other than this instance and thread, I will not send you any other messages to your personal email address, as we truly believe in a healthy work/life balance at GitLab!
+> This welcome email is one of my first onboarding buddy tasks. It is sent to your personal email address because your GitLab email is meant to be accessible to you starting on your first day only. Also, sometimes a new hire may have questions that they would feel more comfortable asking their onboarding buddy versus their manager or recruiter. Other than this email thread and a Zoom invitation to say hello, I won't send you any other messages to your personal email address, as we truly believe in a healthy work/life balance at GitLab!
 >
-> On the morning of your first day, whenever you wish to start (there is no required start time!), you will find a welcome email from GitLab in your personal email inbox. It should have been sent around 6am local time in your country. Please check your spam folder if you don't see it right away. The email will start:
+> On the morning of your first day, whenever you wish to start (there is no required start time!), you'll find a welcome email from GitLab in your personal email inbox. It should have been sent around 06:00 local time in your country. Please check your spam folder if you don't see it right away. The email starts with:
 >
 > _Hi {Name},_
 >
@@ -84,11 +84,11 @@ This is an example template you can use to introduce yourself to a new team memb
 >
 > _To ensure the seamless setup...._
 >
-> Please follow all steps in this email. There is a video that you will be asked to watch to better explain all steps to get started.
+> Please follow all steps in this email. There is a video that you'll be asked to watch to better explain all steps to get started.
 >
-> Once you have logged in and accessed your GitLab Onboarding "issue" (your onboarding checklist) on your first morning, feel free to email me and we can have our first Zoom call! Join the call with your personal Zoom account, since configuring your GitLab Zoom account is something you'll do on Day 2. I'm in the {Buddy time zone}, so I'll be free any time you are free to chat during your first morning.
+> Once you've logged in on your first morning you'll be able to access your GitLab Onboarding "issue" (your onboarding checklist).
 >
-> During your onboarding I will be your point of contact for any questions you have about onboarding, your role, or where to find information that you might need.
+> During your onboarding I'll be your point of contact for any questions you have about onboarding, your role, or where to find information that you might need. In addition to this email, I'll send an invitation for a Zoom call on your first day to welcome you to GitLab and answer any questions you may have. Join the call with your personal Zoom account, since you might not have configured your GitLab Zoom account by the time we speak. I'm in the {Buddy time zone}, so feel free to suggest a different time if you need to.
 >
 > I can also help with any technical issues like setting up the GitLab Development Kit. {Delete this line if new starter is not in Engineering Division}
 >
