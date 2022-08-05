@@ -13,26 +13,26 @@ canonical_path: "/company/team/structure/working-groups/disaster-recovery/"
 
 ## Attributes
 
-| Property        | Value            |
-|-----------------|------------------|
-| Date Created    | November 11, 2020 |
-| End Date        | TBD              |
-| Slack           | [#wg_disaster-recovery](https://gitlab.slack.com/archives/C01D6Q0DHAL) (only accessible from within the company) |
-| Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1FOvwdwV7ncxTurctPFYYRSNLL1qFqCkSifdY_MiL5DY/edit) (only accessible from within the company) |
-| Issue Board     | [Working Group Issue Board](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/boards/2230578?label_name[]=wg-disaster-recovery)  |
-| Epic            | [Link](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/371) |
+| Property       | Value                                                        |
+| -------------- | ------------------------------------------------------------ |
+| Date Restarted | August 1, 2022                                               |
+| Date Created   | November 11, 2020                                            |
+| End Date       | TBD                                                          |
+| Slack          | [#wg_disaster-recovery](https://gitlab.slack.com/archives/C01D6Q0DHAL) (only accessible from within the company) |
+| Google Doc     | [Working Group Agenda](https://docs.google.com/document/d/1FOvwdwV7ncxTurctPFYYRSNLL1qFqCkSifdY_MiL5DY/edit) (only accessible from within the company) |
+| Issue Board    | [Working Group Issue Board](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/boards/2230578?label_name[]=wg-disaster-recovery) |
+| Epic           | [Link](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/371) |
 
 ### Charter
 
-This working group will determine what is needed to introduce a disaster recovery mechanism for GitLab.com, and what effort is necessary to leverage GitLab Geo as a mechanism for building reliable and predictable disaster recovery at the largest scale.
+The Disaster Recovery Working Group will determine the work needed to [improve the disaster recovery mechanism for GitLab SaaS Products](https://app.ally.io/objectives/2228872?skipQuickView=true), and the effort is necessary to build a reliable and predictable disaster recovery at the largest scale, leveraging existing tools.
 
 ### Scope and Definitions
 
 In the context of this working group:
 
-1. **Recovery Point Objective (RPO)** : targeted duration of time in which data might be lost due to a major incident.
-1. **Recovery Time Objective (RTO)** : targeted duration of time and service level within which a business process must be restored
-after a disaster to avoid unacceptable consequences of a break in business continuity.
+1. **Recovery Point Objective (RPO)**: target duration of time in which data might be lost due to a major incident.
+1. **Recovery Time Objective (RTO)**: target duration of time and service level within which a business process must be restored after a disaster to avoid unacceptable consequences of a break in business continuity.
 
 This working group is working towards [the proposed targets for both RPO and RTO](/handbook/engineering/infrastructure/product-management/proposals/disaster-recovery/#proposal).
 
@@ -40,37 +40,27 @@ This working group is working towards [the proposed targets for both RPO and RTO
 
 Planned:
 
-1. Set up a multi-node Geo site on staging for the next iterations of failover tests.
-1. Define a roadmap containing identified gaps and what is needed to provide the necessary failover functionality for GitLab.com production scale.
-1. Regularly plan and execute failover tests on the staging secondary Geo site.
-1. Demonstrate ability to execute a successful full failover of Staging.
-1. A design of how GitLab Geo would be used in production in the form of a blueprint and readiness review.
-1. Ensure that the cost is kept in check with the proposed design.
-1. Decide on go/no-go for production rollout based on the proposed design.
 1. Create and update [a single handbook page](/handbook/engineering/infrastructure/production/architecture/disaster-recovery.html), and deprecate resources in other locations.
-
-Completed:
-
-1. **2020-11-30** Plan and execute a test of a staging failover leveraging GitLab Geo by 2020-11-30 with minimal disruption to the existing deployment and testing processes.
-1. **2021-01-13** Execute a follow up test of a staging failover, automating the testing and tooling processes
-1. Generated a proposal and received approval for building out [a staging secondary site](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/12088#note_462334229)
-1. [Evaluated the cost impact and received approval for a secondary site for production starting September 2021](https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/34).
-1. [Defined the DR flow on GitLab.com and the need to find a balanced solution to ensure a fully operational site after failover](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/12642)
+1. [Define and clarify the FY24 recovery goals](https://app.ally.io/objectives/2228900?time_period_id=155987)
+1. [Complete an iteration of DR testing using existing capabilities](https://app.ally.io/objectives/2235994?time_period_id=155987) (Epic: [gitlab.com&1900](https://gitlab.com/groups/gitlab-com/-/epics/1900)).
+1. Define the strategy to deliver a short-term DR solution for GitLab.com and [incorporate work into the Reliability Cross-Functional Initiative](https://app.ally.io/objectives/2228902?time_period_id=155987)
+1. Define a medium to long term strategy for DR capabilities for GitLab Dedicated and Pods via Geo.
 
 ## Roles and Responsibilities
 
 | Working Group Role                       | Person                           | Title                                                           |
 |------------------------------------------|----------------------------------|-----------------------------------------------------------------|
-| Executive Stakeholder                    | Steve Loyd                       | VP of Infrastructure                                            |
-| Facilitator/DRI                          | Brent Newton                     | Director of Infrastructure, Reliability                         |
-| Functional Lead                          | Andrew Thomas                    | Principal Product Manager, Enablement                           |
-| Functional Lead                          | Fabian Zimmer                    | Senior Product Manager, Geo                                     |
+| Executive Stakeholder                    | Eric Johnson                     | CTO                                                             |
+| Facilitator/DRI                          | Gerardo Lopez-Fernandez          | Engineering Fellow, Infrastructure                              |
+| Functional Lead                          | Fabian Zimmer                    | Group Product Manager, Enablement                               |
+| Member                          | Steve Loyd                       | VP of Infrastructure                                            |
 | Member                                   | Chun Du                          | Director of Engineering, Enablement                             |
-| Member                                   | Davis Townsend                   | Data Analyst, Infrastructure                                    |
 | Member                                   | Juan Silva                       | Fullstack Engineering Manager, Geo                              |
-| Member                                   | Nick Westbury                    | Senior Software Engineer in Test, Geo                           |
+| Member                                   | Sampath Ranasinghe               | Senior Product Manager, Geo                                     |
 
 ## Related Links
 
 - [Disaster Recovery at GitLab](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md)
 - [GitLab.com Disaster Recovery Proposal](/handbook/engineering/infrastructure/product-management/proposals/disaster-recovery/index.html)
+- [Q3 OKR - Improve SaaS Product Disaster Recovery](https://app.ally.io/objectives/2228872?skipQuickView=true)
+- [DR presentation (internal)](https://docs.google.com/presentation/d/1-8KxO31IvOb7DYT3N0j8Add-3A0FZquIYQ2vjmLLU2s/edit#slide=id.g1319217f3a3_0_0)
