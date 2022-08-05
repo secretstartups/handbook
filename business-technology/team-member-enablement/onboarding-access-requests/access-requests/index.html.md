@@ -101,7 +101,7 @@ After the Exception Length, you will be required to submit another Exception Req
     - _Request the least amount of access you need as per the [least privilege review](/handbook/engineering/security/access-management-policy.html#principle-of-least-privilege) and explain why you need access in the rationale section and name the role you are requesting.
         Be specific._
 1. If you are the manager of this person, add the labels `AR-Approval::Manager Approved` and `ready for provisioning` to the issue; if you are the one asking for access, then you have to assign to _your_ manager for approval and they must add the labels `AR-Approval::Manager Approved` and `ready for provisioning`.
-1. After approval, then YOU MUST **assign the issue to the system provisioner** [listed in the tech stack.](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0)
+1. After approval, then YOU MUST **assign the issue to the system provisioner** [listed in the tech stack.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml)
 1. Close the issue when it's complete.
 
 </div>
