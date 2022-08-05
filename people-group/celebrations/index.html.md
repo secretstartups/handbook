@@ -33,8 +33,10 @@ The average shipping time taking into account current restrictions as a result o
 GitLab encourages team members to take a day of vacation on their special day in alignment with our **[Paid Time Off Policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)**.  If your celebration happens to fall over a weekend please be sure to take an alternate day such as the Friday prior or the Monday after.
 
 Kindly note that team members are welcome to send cards or tokens of acknowledgement to celebrants in their personal capacity however the People Experience Team is unable to do so on behalf of GitLab; a Team or an Individual Team Member.
+
 ### Team Member Gifts
 GitLab is modifying the policy for team member gifts and piloting a new gift giving program beginning `2022-08-01`. People Managers now have the ability to send gifts on behalf of their team. Any People Manager can send a gift to any team member at GitLab to let them know they are thinking about them. Examples include:
+
 - A new team member recently purchased a new home and shared their news with others. A People Manager sends a "Home Sweet Home" doormat as a congratulatory gift.    
 - While working a People Manager noticed a team member’s children in the background of a Zoom call and surprised the kids with a new game.
 - A team member wasn’t feeling well, which was noticed by a People Manager who sent a care package of food as a ‘get well soon’ gesture.   
