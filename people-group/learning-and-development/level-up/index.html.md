@@ -9,21 +9,36 @@ title: Level Up
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Introduction
+# Welcome to Level Up!
 <!-- blank line -->
-Welcome to Level Up at GitLab. This handbook page is meant to support both learners and administrators in Level Up. Thought Industries is the provider of the Level Up platform and is mentioned often in this documentation.
-
+This handbook page is meant to support both learners and administrators in Level Up. Thought Industries is the provider of the Level Up platform and is mentioned often in this documentation.
 
 ![Level Up Dashboard](dashboard-2.jpg){: .medium.center}
 
 
 # Contribute to Level Up
 <!-- blank line -->
+
+At GitLab, [everyone can contribute](/company/mission/#mission). Read below about how to contribute to Level Up.
+
+### Why contribute?
+
+Contributing to Level Up democratizes learning and enables our team members, customers, and community members to contribute to the growth of learning opportunities at GitLab. Some benefits for contributors include:
+
+1. Share the work you've created to teach others how to use GitLab
+1. Curate existing information that has helped you or others learn to use GitLab
+1. Share information you've created about working remotely
+1. Establish yourself as a subject matter expert within our learning community
+1. Share learning pathways and other instructional design materials you've created
+1. Enable organizations to learn about GitLab using innovative learning methods
+
 To contribute to Level Up, please open an issue in the [lxp-contributions project](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions) using the `lxp_contribution` issue template. 
 
 **Stay Tuned:** Future iterations of contributions to Level Up will include elevated permissions for Learning evangelists to add new material directly to Level Up!
 
-# Learner FAQs
+# Support
+
+For questions not answered below, reach out in the #learninganddevelopment Slack channel or [open an issue](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions).
 <!-- blank line -->
 **I'm a GitLab team member and I have a question or problem related to Level Up.**
      - Please reach out to the #learninganddevelopment Slack channel for support. 
@@ -37,7 +52,6 @@ To contribute to Level Up, please open an issue in the [lxp-contributions projec
      ![Adding custom content field in Thought Industries](support.jpg){: .medium.center}
 
      ![Adding custom content field in Thought Industries](support-page.jpg){: .medium.center}
-
 
 
 # Administrator Resources
@@ -97,6 +111,13 @@ The admin home page is a place for platform administrators to access:
 1. Badges must be configured by GitLab team. There is an optoin to upload custom badges. An example could be earning the `high achiever` badge after earning 50,000 points.
 
 ## Authoring
+
+Level Up uses a [handbook first](/handbook/handbook-usage/#why-handbook-first) approach for all learning content, using the handbook as our single source of truth for learning content. 
+This approach ensures:
+
+- all voices and contributions are heard
+- barriers to contributions are removed or reduced
+- the organization maintains a single source of truth
 
 ### Custom Content Fields
 <!-- blank line -->
