@@ -32,7 +32,7 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 
 |  **Resource** | **About** |
 | :--------------- | :----------------- | 
-| [Data Request Issue Template](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/167) | Template that should be copied for ad-hoc data questions and requests | 
+| [Data Request Issue Template](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/new?issuable_template=Data_Question_Intake) | Template that should be used for ad-hoc data questions and requests | 
 | [Data Hub](https://docs.google.com/document/d/10p86n7f5vt4UmhHM4ZGRZm4OSa5k5g-LKQ0uBAKnvSc/edit?usp=sharing) | All of our data assets and resources in one place | 
 
 
