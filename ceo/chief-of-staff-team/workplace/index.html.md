@@ -95,7 +95,7 @@ We plan to refresh the below content in Q3-FY23 to reflect GitLab's brand refres
 
 You may be asked to give a presentation on how GitLab works as an all-remote team, including requests that are specific to your role (sales, engineering, finance, people, etc.).
 
-In these instances, you're welcome to use [this Google Slides presentation](https://docs.google.com/presentation/d/1eO_fkT7jpAsydlgDsFORb2FDxqaUvFPgZ4U4IX9BW2k/edit?usp=sharing), `Thriving as a Remote Team: A foundational toolkit`. (This link is only viewable by GitLab team members.) A [suggested script](https://docs.google.com/document/d/16viV_819RhRtCb_SOJami3ctw7gcZoBMzT8ICIU_wX0/edit?usp=sharing) following this presentation is available for your use.
+In these instances, you're welcome to use [this Google Slides presentation](https://docs.google.com/presentation/d/1EH5Wky2oXSbR8o7dHMchi-PddSq40ywywUV0aaF8dAM/edit?usp=sharingz), `Managing a Thriving Remote Team: A foundational toolkit`. (*This link is only viewable by GitLab team members.*) A [suggested script](https://docs.google.com/document/d/16viV_819RhRtCb_SOJami3ctw7gcZoBMzT8ICIU_wX0/edit?usp=sharing) following this presentation is available for your use.
 
 For a video of GitLab's Head of Remote walking through this presentation to a group of founders, [click here](https://youtu.be/MVTvm4awuJ0). This presentation will serve as a guide to narrating the slides and connecting GitLab's approach to remote with the current reality of your audience.
 
