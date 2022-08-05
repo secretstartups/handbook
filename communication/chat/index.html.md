@@ -78,7 +78,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 |---|---|
 | [`#loc_4corners`](https://app.slack.com/client/T02592416/C51L9MZEV) | people that live in Utah, Colorado, Arizona, and New Mexico for meet-ups |
 | [`#loc_adelaide`](https://app.slack.com/client/T02592416/C03855YCQMT) | For the growing team presence in Adelaide, South Australia! |
-| [`#loc_africa`](https://app.slack.com/client/T02592416/C03S002M075) | 🇸🇹🇸🇱🇸🇨🇸🇳🇸🇩🇸🇸🇿🇦🇸🇴🇸🇿🇨🇬🇨🇩🇦🇴🇩🇿🇧🇯🇧🇼🇹🇩🇨🇫🇨🇲🇧🇮🇧🇫🇨🇮🇰🇲🇪🇷🇬🇶🇪🇬🇩🇯🇬🇭...                                                      |
+| [`#loc_africa`](https://app.slack.com/client/T02592416/C03S002M075) | 🇸🇹🇸🇱🇸🇨🇸🇳🇸🇩🇸🇸🇿🇦🇸🇴🇸🇿🇨🇬🇨🇩🇦🇴🇩🇿🇧🇯🇧🇼🇹🇩🇨🇫🇨🇲🇧🇮🇧🇫🇨🇮🇰🇲🇪🇷🇬🇶🇪🇬🇩🇯🇬🇭... |
 | [`#loc_alberta`](https://app.slack.com/client/T02592416/CN78PSCTW) | Locals to Alberta, Canada |
 | [`#loc_amsterdam`](https://app.slack.com/client/T02592416/CPV03CGTV) | amsterdam location specific channel |
 | [`#loc_annapolis`](https://app.slack.com/client/T02592416/CPZG77JA2) |  |
@@ -137,7 +137,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_moscow`](https://app.slack.com/client/T02592416/CK9LK96LE) |  |
 | [`#loc_mt`](https://app.slack.com/client/T02592416/C01J5BAPPU4) | Montana GitLab Team Members |
 | [`#loc_munich`](https://app.slack.com/client/T02592416/CM25953MH) | As of today none of us seems to be living in Munich. But there are Meetups and Events and maybe also occasions to meet in Munich for some co-working. Here we can team up. |
-| [`#loc_nashville``](https://gitlab.slack.com/archives/loc_nashville) | Nashvillians Unite! |
+| [`#loc_nashville`](https://gitlab.slack.com/archives/loc_nashville) | Nashvillians Unite! |
 | [`#loc_newengland`](https://app.slack.com/client/T02592416/CJV0FMCH4) | Channel for those located in New England |
 | [`#loc_nigeria`](https://app.slack.com/client/T02592416/CDB11DSRH) |  |
 | [`#loc_noco_aka_loconoco`](https://app.slack.com/client/T02592416/CJPLQ4LEM) | Connect GitLab team members who are in Boulder, Larimer and Weld Counties of Northern Colorado |
@@ -176,7 +176,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_tokyo`](https://app.slack.com/client/T02592416/CJEML22JD) | Location: Tokyo, Japan |
 | [`#loc_toronto`](https://app.slack.com/client/T02592416/CP3UKJ9Q9) | This is a channel for the Toronto team members. |
 | [`#loc_turkey`](https://app.slack.com/client/T02592416/CSCVC7Q4E) | This is a slack channel for Turkey |
-| [`#loc_us_mid-atlantic`](https://app.slack.com/client/T02592416/C03QETSKEKY) | [US Mid-Atlantic states`](https://en.wikipedia.org/wiki/Mid-Atlantic_(United_States)) |
+| [`#loc_us_mid-atlantic`](https://app.slack.com/client/T02592416/C03QETSKEKY) | [US Mid-Atlantic states](https://en.wikipedia.org/wiki/Mid-Atlantic_(United_States)) |
 | [`#loc_vegas`](https://app.slack.com/client/T02592416/CLKCQFKC3) | Are you visiting Vegas soon for fun or a conference? Connect with Vegas locals here for coffee meet-ups or recommendations! |
 | [`#loc_vermont`](https://app.slack.com/client/T02592416/C03D8PUMHRS) | For our sole Vermonter ❤️ |
 | [`#loc_wales`](https://app.slack.com/client/T02592416/CPX1QPTAR) | 🏴󠁧󠁢󠁷󠁬󠁳󠁿 - Come to discuss dragons, Brains 🍺 and rain 🌧               |
