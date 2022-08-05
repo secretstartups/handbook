@@ -119,6 +119,20 @@ This approach ensures:
 - barriers to contributions are removed or reduced
 - the organization maintains a single source of truth
 
+### Adding captions to videos
+
+It's important to add captions to videos whenever possible. The steps below outline different ways this can be done based on your video format.
+
+1. YouTube: Use a YouTube embed code to allow users to turn on captions directly on the video
+2. PowToon: Use a PowToon embed code, then write the trasncript of the video in a discussion thread in the relevant lesson. 
+3. Native Video Upload: 
+     1. Upload your video and either write out or obtain a text caption doc. 
+     2. Scroll through the video to a time marker where you want to put a caption
+     3. Click the caption button at lower right of the video
+     4. Paste in a short amount of text.
+     5. Watch it back. You can easily edit the captions (they are listed all together below the video window) so it’s not hard to adjust and make them fit.
+     
+
 ### Custom Content Fields
 <!-- blank line -->
 The Custom Content Field requirements for internal courses can be found [here](https://docs.google.com/spreadsheets/d/1zPJu3PSr40Xa5dUEe6Wj1Sm8gUkQpJG-NwUybxJOMfE/edit#gid=587118744) for GitLab team members. To add a new field, navigate to `Settings` -> `Content` -> `Organization and Display`. 
