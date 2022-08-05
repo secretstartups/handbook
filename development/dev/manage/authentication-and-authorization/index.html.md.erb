@@ -110,17 +110,24 @@ If the issue has weight more than 5 (or 5 but it seems it might be split into mu
 
 #### During a release
 
-The Engineers should assign issues to themselves, they can ask an EM for suggestions which issue to assign. We use following workflow label cycle:
+Engineers should assign issues to themselves based on the [current release](https://gitlab.com/gitlab-org/gitlab/-/boards/4406395?label_name[]=group%3A%3Aauthentication%20and%20authorization&label_name[]=Deliverable&milestone_title=Started) and ~Deliverable label. We use the following workflow label cycle on our issues:
 
 1. `workflow::ready for development` - work is ready to begin, but has not yet started
 1. `workflow::in dev` - we are looking at the issue, and are either actively investigating, have begun development, or have a draft merge request open
 1. `workflow::in review` - a merge request has been submitted and reviews have been requested
-1. `workflow::verification` - the work has merged, and needs to be verified by the assignee
-1. `workflow::production` - the change is on production, assignee will close it once verified everything works as expected
+1. `workflow::verification` - the work has merged, and needs to be verified by the assignee, assignee will close it once verifying everything works as expected
 
 Development should not begin on an issue before it's been estimated and given a weight.
 
-The current release work can be watched in the [Manage::Auth Workflow issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/4406395).
+##### Labels and how we use them
+
+We have [many labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#labels) that can be applied to an issue or merge request. Besides the issue workflow labels above, here are the minimum basic labels to apply to issues and merge requests:
+
+- Type (`type::feature`, `type::bug`, or `type::maintenance`)
+- Stage that owns the area (`devops::manage`)
+- Group that owns the area (`group::authentication and authorization`)
+- Specialization (`frontend`, `backend`, `database`, `documentation`)
+- `security` if the issue is related to application security, and `breaking change` if this work is considered a [breaking change](https://docs.gitlab.com/ee/development/contributing/index.html#breaking-changes)
 
 #### Working on unscheduled issues
 
