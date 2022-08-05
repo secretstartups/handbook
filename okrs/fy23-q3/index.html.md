@@ -7,7 +7,7 @@ canonical_path: "/company/okrs/fy23-q3/"
 
 This [fiscal quarter](/handbook/finance/#fiscal-year) will run from August 1, 2022 to October 31, 2022.
 
-Please note that Ally.io is the single source of truth for OKRs during the quarter. CEO OKRs should map to the CEO OKRs in Ally.io to the degree that all imformation on this page is public and what is in Ally.io can include internal only information.
+Please note that [Ally.io](https://app.ally.io/) is the single source of truth for OKRs during the quarter. CEO OKRs should map to the CEO OKRs in Ally.io to the degree that all imformation on this page is public and what is in Ally.io can include internal only information.
 
 ## On this page
 {:.no_toc}
@@ -30,12 +30,23 @@ The by-the-book schedule for the OKR timeline would be:
 
 
 ## OKRs
+Ally.io is the source of truth for CEO OKRs: https://app.ally.io/teams. Since Ally.io is an internal only tool, public facing CEO OKRs are copied from Ally.io into the public handbook. 
 
-### 1. CEO 
+### 1. CEO: Increase ARR 
+1. **CEO KR:** [Internal only] [SaaS Free User target](https://app.ally.io/objectives/2212758?time_period_id=155987).
+1. **CEO KR:** Meet first order SAO and new logo goals.
+1. **CEO KR:** Complete 2 key Fulfillment initiatives to improve systems and data architecture.
 
-### 2. CEO
+### 2. CEO: Improve user and wider-community engagement
+1. **CEO KR:** Evolve the resident contributor strategy by conducting 5 customer conversations with current “resident contributors” in seat.
+1. **CEO KR:** Certify 1,000 team members and 10,000 wider-community members (external people) in MECC (The Workplace OS).
+1. **CEO KR:** Have successful Level Up DevOps Certification launch with XX sign-ups.
+1. **CEO KR:** Improve key workflow usability through delivering the basic design for addressing one major key cross-product workflow usability deficiency, completing the secure usability benchmarking effort, and resolving X S1 and Y S2 SUS-impacting issues.
 
-### 3. CEO
+### 3. CEO: Completed activities foundational for scale
+1. **CEO KR:** Deliver cross-functional revenue globalization priority frameworks and committed departmental action plans for top 5 countries / markets.
+1. **CEO KR:** Increase URG Director+ representation to 12.5% by growing by 4 URG hires.
+1. **CEO KR:** [Internal Only] [Partnership milestones](https://app.ally.io/objectives/2212871?time_period_id=155987). 
 
 
 
