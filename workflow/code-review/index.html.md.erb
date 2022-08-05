@@ -183,6 +183,32 @@ and Merge Request(s) for context. The newly created Merge Request should be
 assigned to your manager for immediate review as the process can usually be
 fast tracked.
 
+### Maintainership process for smaller projects
+
+**This is a general purpose template that projects belonging to a specific group and/or projects with less than 10 internal contributors can use to define and document their maintainership process.**
+
+Projects may adopt these guidelines for maintainership to help grow maintainers in projects where there are not enough maintainers.
+
+- All team members should consult the [engineering development roles](https://about.gitlab.com/job-families/engineering/development/) and become a reviewer or maintainer.
+- Enable Danger Review using [`simple_roulette`](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles/-/tree/master#simple_roulette) within the project to identify MR reviewers.
+- Create an [issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/.gitlab/issue_templates) for maintainer trainees. A [lightweight template](#trainee-maintainer-issue-template) is provided.
+- Reduce the number of Merge Request reviews required to be considered a maintainer.
+- Require a maintainer mentor to help speed up the process.
+- Consider creating project-specific development guidelines if they don't already exist for the project.
+- Add instructions on how to become a project maintainer to the project README.
+
+#### Trainee maintainer issue template
+
+Use this lightweight template as a starting point for creating your project's trainee maintainer issue template.
+
+```markdown
+- [ ] Complete project-specific language training if the programming language is not used in the main GitLab project (example: [golang training](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/golang_training.md)).
+- [ ] Review general [code review guidelines](https://docs.gitlab.com/ee/development/code_review.html).
+- [ ] Review project-specific release process (if one exists).
+- [ ] Create a merge request and indicate your role as a `project-name: reviewer` or `project-name: trainee_maintainer` in your [team member entry](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person). Assign MR to your manager for merge.
+- [ ] _Optional:_ Reach out to an existing maintainer to [help you become](https://about.gitlab.com/handbook/engineering/workflow/code-review/#trainee-maintainer-mentorship-pilot-program) a maintainer.
+```
+
 ### Maintainer ratios
 
 We aim to keep the engineer : maintainer ratio under 6, for both frontend and backend. We track this in the [Engineer : Maintainer Ratio dashboard][dashboard]:
