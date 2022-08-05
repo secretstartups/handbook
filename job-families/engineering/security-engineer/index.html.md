@@ -180,7 +180,7 @@ Project milestones should be well defined.  If this is not possible, seek the gu
 
 **Success Criteria**
 
-The project needs to have a well defined exit criteria.  This should match with the expected outcome and intent of the project definition.  It is ok to have recommended actions moving forward given these are learnings that were developed during the initiative and not part of the original goal.
+The project needs to have a well defined exit criteria.  This should match with the expected outcome and intent of the project definition.  It is ok to recommended further actions to be taken in the future given those are based on insights gained during execution of the initiative and were not part of the original goal.
 
 **Stakeholders**
 
