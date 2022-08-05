@@ -52,7 +52,7 @@ Needless to say, this is highly dependent on the particular case, but for Rails 
 * 15% chance it's the Ruby VM
 * 5% chance it's a memory related issue such as GC churn
 
-(Source: [Nate Berkopec/Twitter](https://twitter.com/nateberkopec/status/1158542770421682176)) 
+(Source: [Nate Berkopec/Twitter](https://twitter.com/nateberkopec/status/1158542770421682176))
 
 This is just a heuristic of course, but one should always first look for the most likely offender. For instance,
 I/O is orders of magnitude slower than anything happening in CPU, CPU caches or RAM, so any such problem here will
@@ -136,7 +136,7 @@ the more costly it was to process it. We addressed this by moving to a streaming
 already been processed before can be released. This also works at smaller scale. For instance, when processing database
 records in batch, they should be fetched so that each batch is processed individually instead of loading all batches and
 then iterating over them. In fact we have first-class support for this via the
-[`in_batches` helper](https://docs.gitlab.com/ee/development/iterating_tables_in_batches.html), but the idea applies to
+[`in_batches` helper](https://docs.gitlab.com/ee/development/database/iterating_tables_in_batches.html), but the idea applies to
 more than just database queries.
 
 ### Scaling via processes or threads in Ruby

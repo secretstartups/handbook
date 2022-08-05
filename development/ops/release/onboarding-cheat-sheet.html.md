@@ -10,7 +10,7 @@ title: "Onboarding Cheat Sheet"
 {:toc .hidden-md .hidden-lg}
 
 # About
-This cheat sheet aims to be a concise list of anything you might need to know when learning how to navigate at GitLab. Primarily this is done with simple 1-2 sentence bits of information with a link to the full documentation. This should help with orienting yourself here at GitLab as well as efficient recall of critical information required for development basics. 
+This cheat sheet aims to be a concise list of anything you might need to know when learning how to navigate at GitLab. Primarily this is done with simple 1-2 sentence bits of information with a link to the full documentation. This should help with orienting yourself here at GitLab as well as efficient recall of critical information required for development basics.
 
 As always feel free to suggest changes, additions or any updates to outdated information.
 
@@ -20,7 +20,7 @@ As always feel free to suggest changes, additions or any updates to outdated inf
 
 ## Reviews
 - If an MR has more than one logical change, it will get bogged down during review. When in doubt, make a new MR
-- [Feature flags](https://docs.gitlab.com/ee/development/feature_flags/#create-a-new-feature-flag) will make any behavior change less risky and easier to get approved 
+- [Feature flags](https://docs.gitlab.com/ee/development/feature_flags/#create-a-new-feature-flag) will make any behavior change less risky and easier to get approved
 - Reviewers have no context for your change, you have to provide it in the MR description or expect alot of questions
 - Any workarounds for bugs have to be clearly explained, even then reviewers may be confused
 - Expect a 24 hour lead time on any questions or comments you need addressed, have multiple issues going at once to avoid bottlenecks
@@ -48,23 +48,23 @@ As always feel free to suggest changes, additions or any updates to outdated inf
 
 ### Schema Changes or Migrations
 - Always run `scripts/regenerate-schema` after adding / changing migrations or schema
-- Any migrations are subject to 15 second query timeouts, use [EachBatch](https://docs.gitlab.com/ee/development/iterating_tables_in_batches.html#eachbatch-in-data-migrations) to batch up any changes (even deletes)
+- Any migrations are subject to 15 second query timeouts, use [EachBatch](https://docs.gitlab.com/ee/development/database/iterating_tables_in_batches.html#eachbatch-in-data-migrations) to batch up any changes (even deletes)
 - Migration outputs and performance are tested by the [`db:gitlabcom-database-testing` job](https://docs.gitlab.com/ee/development/database/database_migration_pipeline.html), run it manually to get the output.
 - Many reviewers will still ask for this output to be manually added to the MR, even though the docs say to do otherwise and trust the automated output
 
 ### Performance Improvements
 - Always list an example previous SQL query and the new one, and their postgres.ai runs
 - Find a suitable example of prod data to profile performance (ask a DB person for help if you don't have one)
-	- [For groups](https://docs.gitlab.com/ee/development/database/pagination_performance_guidelines.html#by-group), `9970` is the id for the gitlab.org group which is fairly large 
+	- [For groups](https://docs.gitlab.com/ee/development/database/pagination_performance_guidelines.html#by-group), `9970` is the id for the gitlab.org group which is fairly large
 - Migrations adding indexes are not subject to the 15 second time limit
 
 ## Analytics
 - [Naming of the analytics key](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html#metric-name-suggestion-examples) is very important, work this out with product before even scheduling the work
 - Also need product section / stage / category correct in metadata
 - [There's a generator tool to add an event](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html#metric-name-suggestion-examples), it may have bugs
-- Many analytics get reported back to GitLab with [Usage Ping](https://docs.gitlab.com/ee/development/service_ping/). 
+- Many analytics get reported back to GitLab with [Usage Ping](https://docs.gitlab.com/ee/development/service_ping/).
 	- As an admin, you can [trigger](https://gitlab.com/gitlab-org/gitlab/-/issues/288829#note_521409401) and [view](https://docs.gitlab.com/ee/development/service_ping/) a Usage Ping
-	- You can only get admin outside your local environment without an access request on Staging Ref 
+	- You can only get admin outside your local environment without an access request on Staging Ref
 
 ## Security
 - [Security MRs](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/developer.md#security-releases-critical-non-critical-as-a-developer) go to gitlab.org/security/gitlab, not the open gitlab repo
