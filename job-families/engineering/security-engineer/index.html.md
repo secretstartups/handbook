@@ -176,7 +176,7 @@ The initiative will list a projected start and end date.  Ideally, projects woul
 
 **Milestones**
 
-Project milestones should be defined.  This will help team members stay on track and account for progress.
+Project milestones should be well defined.  If this is not possible, seek the guidance of your manager to establish proposed milestones they may evolve once the project is underway.  This will help team members stay on track and account for progress.
 
 **Success Criteria**
 
