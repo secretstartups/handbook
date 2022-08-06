@@ -709,19 +709,25 @@ The GitLab Team Meetings Calendar is available to all team members and can be fo
 
 Please reach out to a People Experience Associate if you have any questions. NOTE: Please do NOT remove any meetings from this calendar or any other shared calendars, as it removes the event from everyone's calendar.
 
-You can find the details for the Company Calls, Group Conversations, 101s, and other teams' meetings here, so you can attend a different team's meeting and ask questions, learn about what they're working on, and get to know the rest of the GitLab Departments and teams.
+You can find the details for the Company Calls, Group Conversations, 101s, and other teams' meetings here, so you can attend a different teams' meeting and ask questions, learn about what they're working on, and get to know the rest of the GitLab Departments and teams.
 
 These meetings are open to everyone in GitLab.
 
-If you are creating a new team meeting, please copy it to the GitLab Team Meetings calendar, and reach out to the People Experience team by pinging `@people_exp` in the `#people-connect` Slack channel with any questions or requests.
-Please reach out to the People Experience team for any requests and changes to the GitLab Team Meetings calendar.
+If you are creating a new team meeting, please [add it](#adding-an-event-to-the-gitlab-team-meetings-calendar) to the GitLab Team Meetings calendar
 
-To add an event to this calendar:
+Please reach out to the People Experience team by pinging `@people_exp` in the `#people-connect` Slack channel with any questions, requests or changes to the GitLab Team Meetings calendar.
+
+##### Adding an event to the GitLab Team Meetings calendar
 
 1. Create your calendar invite
-1. Add your zoom link
-1. Add agenda
-1. Under Add Guests, add `Gitlab Team Meetings` in addition to anyone else you want invited (if you want the entire company invited please use everyone@)
+1. Add your Zoom link
+1. Add an agenda or relevant content
+1. Under Add Guests, add `Gitlab Team Meetings` in addition to anyone else you want invited (if you want the entire company invited please use everyone@).
+
+   **Note:** This will appear like adding a room, which is expected
+   {: .note}
+
+   ![Adding Gitlab Team Meetings](/images/handbook/tools-and-tips/adding-gitlab-team-meetings.png)
 
 #### Managing invite responses
 
