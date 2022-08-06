@@ -44,7 +44,7 @@ For a high level overview (7 minutes), see `Using Product Usage Data in Gainsigh
 <a href="/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Data Team Handbook</a>
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
-<a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Use Case Adoption Guide</a>
+<a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Customer Use Case Health Scoring</a>
 <a href="/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Using Gainsight Data <br> in Salesforce</a>
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
@@ -163,13 +163,34 @@ Below are the various data sources, their definitions, and uses.
    1. Attach to the [data quality epic](https://gitlab.com/groups/gitlab-data/-/epics/216)
    1. Please include screenshots for troubleshooting and _mark issue as confidential_
 
+### Cloud License and Operational Metrics (self-managed only)
+
+With Cloud Licensing, customers share the core set of product usage metrics (Operational Metrics), which is a subset of Service Ping. These metrics enable us to serve and support our customers through guiding them with [use case adoption scores](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/), assisting with best practices, offering guidance, and assisting with upgrade recommendations. See [7-min video on the data](https://youtu.be/8kbuZ-6Z5gs) (internal only) for more information.
+
+**What is the relationship between Cloud License and Operational Metrics?**
+
+1. **Cloud Licensing**: Quarterly Reconciliations, Operational Metrics, and Auto Renewal
+   1. Available on 14.1+
+   1. [Cloud Licensing Overview](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/)
+1. **Service Ping**: collects the payload including Subscription, Operational, and Optional metrics
+   1. [Operational Service Data](https://internal-handbook.gitlab.io/handbook/product/fulfillment/archive/operational-service-data/#register) - internal handbook
+1. **Operational Metrics**: subset of Service Ping to collect the core metrics (we get these with cloud licensing,as they are required metrics per [Customer Success Services](https://about.gitlab.com/services/customer-success-services/))
+
+**References**:
+1. [Customer Success Services](https://about.gitlab.com/services/customer-success-services/) (client facing)
+1. [Operational Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/)
+1. [Cloud Licensing Documentation](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) (internal handbook)
+1. [Strict Cloud Licensing](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/strictcloudlicensing/) (internal handbook)
+1. [Service Ping Metrics list](https://metrics.gitlab.com/) (subscription, operational, and optional)
+1. [Operational Service Data](https://internal-handbook.gitlab.io/handbook/product/fulfillment/archive/operational-service-data/#register) (internal handbook)
+
 ##### Service Ping (self-managed)
 
 We utilize Service Ping to derive self-managed customer usage data. For more details, see [Service Ping FAQs](/handbook/customer-success/tam/service-ping-faq/). Any references to "Service Ping" in Gainsight explicitly refers to self-managed product usage data (licenses + feature use).
 
 ##### SaaS (Snowplow)
 
-SaaS customer data is in Gainsight as of the end of FY22-Q2.
+SaaS customer data is in Gainsight and collected via the Snowplow collector.
 
 ##### Mapping Licenses to Subscriptions
 
