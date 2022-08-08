@@ -10,24 +10,14 @@ description: Information on GitLab's Global Benefits Survey.
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Global Benefits Survey
 
-We've partnered with Culture Amp to run our Global Benefits Survey, which will launch annually in June.  We run this survey to collect feedback from all team members, which will be aggregated and analyzed. Using Culture Amp's reporting tools, we'll analyze the data to find the most common trends for desired benefit iterations. We will use this information to generate a roadmap and share these results with everyone at GitLab.
+## Global Benefits Survey 
 
-This is an opportunity to share with the Total Rewards team what benefits you think are great, what benefits are lacking, and what you think is most important to adjust. While we will review and prioritize all feedback, not all input may be implemented in the next few iterations. We will continue to ask the organization what is important to team members, but also take into account our fiduciary responsibility to maintain our operating costs.
+GitLab has incorporated the annual benefits survey as part of the Engagement Survey from 2021 forward. The Total Rewards team will review the engagement scores relating to Benefits along with market data from our Broker, Willis Towers Watson, to iterate on benefits offerings each year. 
 
-**Timeline of the Survey Results:**
-* Survey goes out to team members
-* Survey closes
-* Survey results analyzed
-* Survey Results Shared with the GitLab Team
-* Survey Results issues opened to begin implementation of any changes
-* Q3 OKR to implement changes based on survey results viewed in Q2
+If you have any feedback or questions please contact [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
 
-Thank you again for playing a part in our efforts to continually improve total rewards at GitLab. If you have any questions, please reach out to the Total Rewards team via email.
-
-## Contact Total Rewards
-If you have any feedback or questions about the global benefits survey, please contact [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
+## Prior Global Benefits Surveys 
 
 ### 2020 Survey Results Roadmap
 
