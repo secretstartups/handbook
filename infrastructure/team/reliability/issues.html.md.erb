@@ -82,10 +82,11 @@ Any issue that is associated with a larger effort that will take longer than 5 d
 Issues should always fall in to one of the following states, as defined by the following labels:
 
 1. `workflow-infra::Triage` - Applied to all new Reliability issues automatically.  It indicates that the issue has not yet been reviewed by the team.
-2. `workflow-infra::Proposal` - Applied to any issues that require discussion or review.  Some examples include:
+2. `workflow-infra::Proposal` - Applied to any issues that require discussion, input or review.  Some examples include:
   - [Readiness Reviews](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/)
   - Issues that exist specifically to document a conversation
    - Example: [Discussion: Should we recreate our zonal/regional clusters differently](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15192)
+  - Issues that discuss possible courses of action and are looking to solicit input from the greater Reliability team.
 3. `workflow-infra::Ready` - Applied after the issues has been triaged by an SRE or Engineering Manager within the Reliability Team.  Ensure the following questions are answered and labeled before marking an issue as `workflow-infra::Ready`:
   - Is this issue a Project or a General issue?
       - Apply `work::general` if the issue can reasonably be completed by a single SRE in less than 5 days.  Apply `work::project` for anything that would take longer.
