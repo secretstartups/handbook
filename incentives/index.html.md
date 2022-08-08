@@ -379,9 +379,11 @@ The event must happen within FY23-Q3 and and expenses filed within 7 days of the
 
 ##### Team member inclusion
 
-Efforts should be made to welcome all team members and [teams](/company/team/structure/#organizational-structure) when there are opportunities to do so within a geography. **Having events that are just for a specific function or team is against the intention of this program.** All events should include at least *4 people* who represent at least *2 functions*. Please ensure the activity is one where all team members attending would feel included to participate.
+Efforts should be made to welcome all team members and [teams](/company/team/structure/#organizational-structure) when there are opportunities to do so within a geography. We encourage team members to plan events that are inclusive of cross-functional team members, but team members can choose to use these funds for team events. 
 
-Exceptions to the number of people or functions are okay if team members live in a location with few team members or little functional diversity. In this case, team members can have local events that are inclusive of everyone who is within travel distance of the event. This may mean fewer than 4 people and only one team.
+If you are planning a team event, you should still look for opportunities to include team members from other functions who live in the local area. For example, a team meeting in London, England could open up their dinner or happy hour to all team members within the location. This would be advertised in the [shared event planner](https://docs.google.com/spreadsheets/d/1cCuzXhBIpMInn30-ZD1XCcNnv21CwsmsA9TorW03d7Q/edit?usp=sharing) and posted in the local Slack group. 
+
+All events should include at least *4 people.* Please ensure the activity is one where all team members attending would feel included. Exceptions to the number of people is okay if team members live in a location with few team members. In this case, team members can have local events that are inclusive of everyone who is within travel distance of the event. This may mean fewer than 4 people.
 
 ##### Planning transparency
 
@@ -391,7 +393,7 @@ Please list any events or activities in our [shared event planner](https://docs.
 
 Team members are expected to manage their individual expenses and adhere to expense caps. If events are centrally organized, coordinators should be clear with team members on how much of their FY23-Q3 allocation is going to the event. Team members are responsible for [spending company money like its their own](/handbook/spending-company-money/#guidelines) and not exceeding their individual budgets.
 
-1. Team members should plan to have gatherings with a cross-functional group of at least 4 people. 
+1. Team members should plan to have gatherings with a group of at least 4 people. 
 1. Team members can spend up to $500 to participate in events within their [local area](#local-area). If team members are attending events within their [local area](#local-area), they can expense transport but not accomodations. 
 1. Team members can expense up to $1000 each if they are traveling beyond their [local area](#local-area) to attend events. This option is open to team members who have local options, but choose to travel. These team members can put their budget toward accommodations in addition to travel expenses.
 1. Each team member can choose to participate in as many events as they like as long as they can do this within budget. If the team member is attending both local and long-distance events, the $500 local events budget is supplemented by an additional $500 for a grand total of the $1000 travel budget.
