@@ -18,9 +18,9 @@ Escalations can take at least two different forms:
 
 1.  Account Escalation.  This occurs when the customer expresses or a GitLab team member identifies that a customer is facing a challenging situation that may or may not relate to a specific support ticket.  
 
-2.  Support Ticket Escalation.  This occurs when an open support ticket is deemed moving too slowly. 
+2.  Support Ticket Attention Requests.  This occurs when an open support ticket is deemed moving too slowly. 
 
-The purpose of this handbook entry is to describe the process for account escalations.  Please see the [support team escalation page](https://about.gitlab.com/handbook/support/internal-support/support-escalations.html#requesting-an-escalation) for details on how to request a support ticket escalation. 
+The purpose of this handbook entry is to describe the process for account escalations.  Please see the [Support Ticket Attention Requests](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html) for details on how to request a support ticket escalation. 
 
 ## Objective
 
