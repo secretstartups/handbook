@@ -74,28 +74,24 @@ Here's an example of what's included in a content set:
 
 ## Meet the Content Marketing team
 
+**[Chandler Gibbons](https://gitlab.com/chandlergibb)**
+- **Title**: Manager, Content Marketing
+- **GitLab handle**: @chandlergibb
+- **Slack handle**: @Chandler Gibbons
+
 **[Sharon Gaudin](https://gitlab.com/sgaudin)**
-
-Title: Sr. Content Marketing Manager
-
-Area of focus: DevOps
-
-GitLab handle: @sgaudin
-
-Slack handle: @Sharon Gaudin
+- **Title**: Sr. Content Marketing Manager
+- **Area of focus**: DevOps
+- **GitLab handle**: @sgaudin
+- **Slack handle**: @Sharon Gaudin
 
 **[Kristina Weis](https://gitlab.com/KristinaWeis)**
+- **Title**: Sr. Content Marketing Manager
+- **Area of focus**: CI/CD
+- **GitLab handle**: @KristinaWeis
+- **Slack handle**: @Kristina Weis
 
-Title: Sr. Content Marketing Manager
-
-Area of focus: CI/CD
-
-GitLab handle: @KristinaWeis
-
-Slack handle: @Kristina Weis
-
-
-### Recommended Slack channels
+## Recommended Slack channels
 
 Anyone at GitLab can reach out to the content team by tagging `@contentteam` on Slack.
 
