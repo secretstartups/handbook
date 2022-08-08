@@ -37,7 +37,7 @@ Topics covered include:
 
 **Working Group Directly Responsible Individual**
 
-This is the **person ultimately responsible for the success of the Working Group**. Assembles the working group, identifies interdependencies, manages supporting individuals toward project success, and ensures that results and escalations are appropriately communicated.This person also plays the facilitator role. A facilitator is responsible for running meetings and supporting the operational efficiency and success of a working group.
+This is the **person ultimately responsible for the success of the Working Group**. Assembles the working group, identifies interdependencies, manages supporting individuals toward project success, and ensures that results and escalations are appropriately communicated. This person also plays the facilitator role. A facilitator is responsible for running meetings and supporting the operational efficiency and success of a working group.
 
 * Makes sure that team objectives and success measurement is known and understood by team members and key stakeholders.
 * Identifies interdependencies and risks to then ensure that team members are proactively aligning with others and prioritizing necessary risk mitigations.
