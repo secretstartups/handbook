@@ -389,11 +389,12 @@ Please list any events or activities in our [shared event planner](https://docs.
 
 ##### Spending caps
 
-Team members are expected to manage their individual expenses and adhere to expense caps. If events are centrally organized, coordinators should be clear with team members on how much of their FY23-Q3 allocation is going to the event. Team members are responsible for [spending company money like its their own](/handbook/spending-company-money/#guidelines) and not exceeding their individual budgets. Each team member can choose to participate in as many events as they like as long as they can do this within budget.
+Team members are expected to manage their individual expenses and adhere to expense caps. If events are centrally organized, coordinators should be clear with team members on how much of their FY23-Q3 allocation is going to the event. Team members are responsible for [spending company money like its their own](/handbook/spending-company-money/#guidelines) and not exceeding their individual budgets.
 
 1. Team members should plan to have gatherings with a cross-functional group of at least 4 people. 
 1. Team members can spend up to $500 to participate in events within their [local area](#local-area). If team members are attending events within their [local area](#local-area), they can expense transport but not accomodations. 
-1. Team members can expense up to $1000 each if they are traveling beyond their [local area](#local-area) to attend events. This option is open to team members who have local options, but choose to travel. These team members can put their budget toward accommodations in addition to travel expenses. 
+1. Team members can expense up to $1000 each if they are traveling beyond their [local area](#local-area) to attend events. This option is open to team members who have local options, but choose to travel. These team members can put their budget toward accommodations in addition to travel expenses.
+1. Each team member can choose to participate in as many events as they like as long as they can do this within budget. If the team member is attending both local and long-distance events, the $500 local events budget is supplemented by an additional $500 for a grand total of the $1000 travel budget.
 1. For some team members, $1,000 is insufficient for participation in at least one event and chosen transport method. If you believe that you fall into this bucket, please fill out this [Google form](https://forms.gle/q1qAK5YuJ9egNk3G9) so your situation can be considered. 
 
 ##### What can be expensed
@@ -407,7 +408,6 @@ All individual travel and lodging must be booked through [TripActions](/handbook
 If more than 10 people are traveling to a central location and booking a hotel, or if you are booking catering for the event, we require these purchases to have a purchase order to ensure the best rates. All purchases must be made following the [procument process](/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab).
 
 You may pool your budgets across a group to make budgeting easier and increase purchasing power. E.g. a group of eight can have a collective budget of $8000. The decision to do this will be up to the [DRI](#organization) for the event.
-
 
 ##### Organization
 
@@ -433,7 +433,6 @@ We'll attempt to document answers to frequently asked questions in the handbook.
 
 1. Can I spend out of pocket without reimbursement if I want to participate beyond what is allowable given my budget?
    1. You can use your own money beyond your personal event budget if it is possible to split out your personal monetary spend. For example, if a DRI is planning an event with 30 people and there is no way for you to pay your share fully with your event allowance, you can use personal money out of pocket towards this difference. If this is something that you are interested in doing, please sync with the DRI(s) in advance of an event to confirm that you can pay for all/part of your participation with your own money.
-
 
  2. Am I eligible to participate in the Q3 Visiting Grant if I'm on an approved Leave of Absence?  
 
