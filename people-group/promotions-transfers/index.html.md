@@ -218,13 +218,15 @@ Regardless of the promotion level, it is critical that leaders work with their P
 ### Greenhouse Promotions/Transfers Process
 
 The following types of promotions/transfers can be processed through Greenhouse:
-- Interim Roles: Interim roles at all levels should go through the Greenhouse interview process (regardless of the number of applicants for the role). This is also the case when the Senior Manager role does not include a significant change in scope & influence. 
+- Interim Roles: Interim roles at all levels should go through the Greenhouse interview process (regardless of the number of applicants for the role). 
     - Example: Senior Backend Engineer applies to become a Manager, Engineering (interim)
 - Interim roles that transition to the permanent role: All team members that started the Greenhouse process and were hired into the interim role will make the transition to the permanent role via Greenhouse as well. While on the interim the req will be paused by Talent Acquisition and reopened to process the hire into the permanent role. 
     - Example: Manager, Engineering (interim) transitions to Manager, Engineering. 
 - Lateral Transfers to a different job family: apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
     - Example: Backend Engineer applies to a Site Reliability Engineering role.
 - Change in territory, segment, or specialty that requires a change in job family or level, change in compensation or stock adjustment or requires a backfill request: Apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
+- Promotions or Applications to Senior Manager level roles: Any net new Senior Manager role as planned in Headcount planning should be opened via Greenhouse for team members to apply. 
+    - For Senior Manager roles that are not net new as part of the Headcount planning but are a continuation of someone's Career progression can be processed via Workday. If processed via Workday they are subject to the Promotion Quarterly cycle. This could for example apply if there's not a significant change in scope, or the team member has been identified and there are no other qualified candidates for that role. Whether an interim period should apply for the Senior Manager promotion when there's not a significant change of scope, will be determined by the manager, Department Head and People Business Partner for that group. 
 
 #### Greenhouse Process Requirements
 
