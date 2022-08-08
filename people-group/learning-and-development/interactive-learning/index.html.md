@@ -10,19 +10,18 @@ description: "All elearning courses tied to the Field Certification Program will
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Handbook First Learning Model
+# Handbook First Learning Model and Examples
 
 All elearning courses at GitLab will utilize the Handbook as the Single Source of Truth (SSOT). 
 
 ![gitlab-learning-content-diagram](/handbook/people-group/learning-and-development/interactive-learning/gitlab-learning-content-diagram.png)
 
-All our available learning material can be found on [GitLab Learn](https://about.gitlab.com/learn/).
+All our available learning material can be found on [Level Up](https://levelup.gitlab.com/learn/dashboard)
 
-Team members should follow [these important steps](/handbook/marketing/digital-experience/website/#updating-content-on-gitlab-learn) to update GitLab Learn every time a new course or certification is created.
-
-## Handbook-First Interactive Learning Examples
+Team members should follow [these important steps](/handbook/marketing/digital-experience/website/#updating-content-on-gitlab-learn) to update this page every time a new course or certification is created.
 
 ### Field Enablement 
+
 The GitLab Field Enablement team uses a handbook-first approach to learning in their [Field Certification Program](/handbook/sales/training/field-certification/) 
 
 For example, in order to learn more about a particular topic tied to the Field Certification, learners will be able to refer to the Handbook within the elearning course instead of having to open a new browser tab and manually navigating to the Handbook.
@@ -33,14 +32,36 @@ The Field Enablement team will utilize the Articulate 360 Storyline Suite as the
 
 The L&D team hosts [Mini and Extended Challenges](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) to engage team members in bite sized learning about a specific topic. Participants in the challenge collaborate on issues and are driven to the handbook to review learning content.
 
+### Self-Paced Learning
 
-## Interactivity in E-learning
+Below is an outlined example of how the field enablement team created a handbook first learning course for the EdCast LXP using Articulate 360.
 
-Interactivity such as games, drag-and-drop, matching, and other interactive components in a published elearning course will not be accessible via the Handbook; however, all information conveyed to learners through the elearning course will have an associated Handbook page as needed. This will make sure that despite the interactivity of the elearning course, learners will have access to all topics covered in the Field Certification program via the Handbook.
+1. **Introduction** The course begins with an introduction, explaining to the learner what the objectives are and how to navigate the course content
+1. **Video** Videos are embedded in the handbook and linked from the LXP
+1. **iFrames** iFrames display content directly from the GitLab handbook. Before each iframe, a short description sets the expectation of the learner, time needed to read the handbook section, and a direct link to the handbook to open in a new tab
+1. **Intellectual property** Intellectual property is linked directly to the course. Relevant handbook pages are linked and displayed in iframes when appropriate 
+1. **Interactive Learning** Interactive learning provides opportunities for quick learning checks and does not introduce new material
 
-## Course Development Workflow
+# Building handbook first learning content at GitLab
+
+Content in Level Up will adopt this handbook-first approach to learning. Examples of ways that the handbook is utilized for learning in the LXP include:
+
+- Lessons with iframes that display the handbook
+- Courses leading learners through related handbook pages to train on a specific skill or content area
+- Assessments and learning checks referring back to content in the handbook to check for understanding
+
+## Content Creation Best Practices
+
+The Instructional Designer on the Learning & Development Team maintains a [Content Creation Best Practices Guide](https://docs.google.com/document/d/1YZnPU5qCO6VhXttqTt97A69jsQyUsO0oPCNJe_Adv4o/edit?usp=sharing) to provide team members with a guide when creating learning content. 
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSBYFxRxMH36U03Eo-Ko2WbMdM-JJgj03Rel4WH9napbzcOQepFOXatixlBwTXyJEROg4hnGXsxt52j/pub?embedded=true"></iframe>
+</figure>
+
+### Course Development Workflow
 
 Instructional designers will use the ADDIE instructional systems design (ISD) framework to design and develop Field Certification courses using Articulate 360. The workflow of course development will be as follows:
+
 1. Create learning objectives
 1. Design storyboard and get SME buy in
 1. Outline course Handbook page 
@@ -64,7 +85,24 @@ Consider the following when documenting course content in the handbook:
 1. Link to knowledge assessments
 1. Cross reference any additional handbook content with links
 
-## Using highlighted links in the handbook
+### Using iframes to display the GitLab handbook
+
+This [training video](https://youtu.be/wlLKZz3vSAk
+) provides an example of how iframes can be used to display sections of the handbook in a Rise 360 course. The same can be done in Level Up.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wlLKZz3vSAk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In the team Articulate - Rise 360 license, there is a block template for iframes. You can access this template in the `block templates` section and add your iframe code directly.
+
+![iframe-embed-template](/handbook/people-group/learning-and-development/interactive-learning/iframe-block.png)
+
+##### iframe tag examples
+
+Consider copying and pasting the iframe tag below to apply the strategies outlined in the training. GitLab team members can access [this Google doc resource](https://docs.google.com/document/d/1HvikZayptzqT8kFFB_EPdiXBl04iYsnRzwFKGKgLVxI/edit) for ease of access to iframe tags that can be copied and edited when building courses using Articulate360 tools.
+
+1. `<iframe src="link-to-your-page" title="title for iframe metadata" scrolling="no" height="XX"></iframe>`
+
+### Using highlighted links in the handbook
 
 Google Chrome browsers can use the [copy link to highlight](https://support.google.com/chrome/answer/10256233?hl=en&co=GENIE.Platform%3DDesktop) feature. This will highlight a specified section of the handbook when clicked.
 
@@ -82,57 +120,23 @@ Here is an example of how to create these links:
 
 It's important to note that high traffic or frequently updated handbook pages might result in broken links if the first or last word in a highlighted section is edited.
 
-## Building handbook first learning content in the EdCast LXP
-
-Content in the EdCast LXP at GitLab will adopt this handbook-first approach to learning. You can read more best practices about building content in the LXP in our [GitLab Learn admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin). Examples of ways that the handbook is utilized for learning in the LXP include:
-
-- SmartCards linking to specific handbook pages
-- Pathways leading learners through related handbook pages to train on a specific skill or content area
-- iFrames displaying content from the handbook directly in the LXP
-- Assessments and learning checks referring back to content in the handbook to check for understanding
-
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTfoGoGjXNlVNJs86aBniKhimx2-23wlDw40UJrGB6170GAcQeceB3naGrTgwqgsx-IKsybgLQV61Lf/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
 ### Handbook First Video
 
 The following best practices should be followed when using video to create handbook first learning material.
 
 1. Upload recorded video to the GitLab Unfiltered channel
 1. Embed videos into the handbook on the appropriate content page
-1. Ensure that embedded videos have a sub-header on the page. This will be an essential piece when linking to the handbook using SmartCards or iframes. Here is an [example of this layout](/company/culture/all-remote/mental-health/#do-not-celebrate-working-long-hours).
-1. Add videos to SmartCards by linking to these sub headers
-1. Build iframes to display video by linking to these sub headers
+1. Ensure that embedded videos have a sub-header on the page. This will be an essential piece when linking to the handbook using iframes. Here is an [example of this layout](/company/culture/all-remote/mental-health/#do-not-celebrate-working-long-hours).
+1. Build iframes within a lesson to display video by linking to these sub headers
 
-#### Private Video
-
-The following best practices should be followed when building learning content that includes private or internal only video.
-
-1. Professional services shares recordings of live learning sessions directly with customers involved in each specific training via a Zoom link and recording password. These videos are not published on YouTube or to the handbook. Future iterations will include using EdCast to store and share these recordings using private Groups.
-
-#### Why not use the GitLab Unfiltered API in EdCast?
-
-Not all video on the GitLab Unfiltered channel is handbook first. In order to be sure that video in EdCast aligns with the handbook first best practices outlined above, we've elected to turn off the GitLab Unfiltered API in EdCast. 
-
-### Content Creation Best Practices
-
-The Instructional Designer on the Learning & Development Team maintains a [Content Creation Best Practices Guide](https://docs.google.com/document/d/1YZnPU5qCO6VhXttqTt97A69jsQyUsO0oPCNJe_Adv4o/edit?usp=sharing) to provide team members with a guide when creating learning content. 
-
-<figure class="video_container">
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSBYFxRxMH36U03Eo-Ko2WbMdM-JJgj03Rel4WH9napbzcOQepFOXatixlBwTXyJEROg4hnGXsxt52j/pub?embedded=true"></iframe>
-</figure>
-
-### Learning Video Best Practices
-
-In addition to making video learning content handbook first, consider these best practices when recording video training or delivering live training:
+Other best practices for recording new learning video include:
 
 1. Turn on [Zoom closed captionining and live transcription](https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription)
 1. Whenever possible, upload public videos to YouTube and use the YouTube link to share video on EdCast. This allows users to enable YouTube `closed caption` feature
 1. Upload `.vtt` files with video content added to Rise courses using Articulate360 to include closed captions within the course.
 1. The L&D team collaborates with Marketing Ops to use the tool Smartling to hard code closed captions to video that is not uploaded to YouTube. Video files should be shared with the Markteting Ops team who can support collaboration with Smartling. Expect anywhere between 1 day to 1 week turnaround on the video transcription based on the video length.
 
-#### Creating a Learning Video 
+#### Creating a Learning Video in Zoom
 
 When creating learning content, the Learning & Develpment team may work with other teams on creating videos. 
 
@@ -151,52 +155,34 @@ Guidelines for recording a video for a course:
 1. **Background:** You can use either a GitLab branded virtual background, no virtual background if you are comfortable with the area behind your workspace being on the internet, or use the blurred feature on zoom to blur your background. 
 1. **Completed Recording:** Once the recording is completed, please add it to the appropriate Google Drive Folder or send it to the L&D team member that you have been working with. L&D will add GitLab L&D branded content to the beginning and end (intros/outtros) of the video. 
 
-### Handbook first course example
+#### Private Video
 
-Below is an outlined example of how the field enablement team created a handbook first learning course for the EdCast LXP using Articulate 360.
+The following best practices should be followed when building learning content that includes private or internal only video.
 
-1. **Introduction** The course begins with an introduction, explaining to the learner what the objectives are and how to navigate the course content
-1. **Video** Videos are embedded in the handbook and linked from the LXP
-1. **iFrames** iFrames display content directly from the GitLab handbook. Before each iframe, a short description sets the expectation of the learner, time needed to read the handbook section, and a direct link to the handbook to open in a new tab
-1. **Intellectual property** Intellectual property is linked directly to the course. Relevant handbook pages are linked and displayed in iframes when appropriate 
-1. **Interactive Learning** Interactive learning provides opportunities for quick learning checks and does not introduce new material
+1. Professional services shares recordings of live learning sessions directly with customers involved in each specific training via a Zoom link and recording password. These videos are not published on YouTube or to the handbook. Future iterations will include using EdCast to store and share these recordings using private Groups.
 
-### Building courses with Articulate360
+# Interactivity in E-learning
+
+Interactivity such as games, drag-and-drop, matching, and other interactive components in a published elearning course will not be accessible via the Handbook; however, all information conveyed to learners through the elearning course will have an associated Handbook page as needed. This will make sure that despite the interactivity of the elearning course, learners will have access to all topics covered in the Field Certification program via the Handbook.
+
+# Building courses with Articulate360
 
 Articulate360 is a powerful course creation tool. Below are a set of best practices and tips for creating handbook first courses using Articulate360:
 
 1. Our team has a GitLab branded template that can be used for course creation. The template has GitLab colored theme, buttons, and font. You can use this by clicking on the `Course Template` > `Duplicate` > and then rename using your course title
 1. Use [iframes](/handbook/people-group/learning-and-development/interactive-learning/#using-iframes-to-display-the-GitLab-handbook) to display sections of the GitLab handbook in your course
 
-#### Using iframes to display the GitLab handbook
 
-This [training video](https://youtu.be/wlLKZz3vSAk
-) provides an example of how iframes can be used to display sections of the handbook in a Rise 360 course.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wlLKZz3vSAk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-In the team Articulate - Rise 360 license, there is a block template for iframes. You can access this template in the `block templates` section and add your iframe code directly.
-
-![iframe-embed-template](/handbook/people-group/learning-and-development/interactive-learning/iframe-block.png)
-
-
-##### iframe tag examples
-
-Consider copying and pasting the iframe tag below to apply the strategies outlined in the training. GitLab team members can access [this Google doc resource](https://docs.google.com/document/d/1HvikZayptzqT8kFFB_EPdiXBl04iYsnRzwFKGKgLVxI/edit) for ease of access to iframe tags that can be copied and edited when building courses using Articulate360 tools.
-
-1. `<iframe src="link-to-your-page" title="title for iframe metadata" scrolling="no" height="XX"></iframe>`
-
-
-### Examples of what is not considered handbook first
+# Examples of what is not considered handbook first
 
 Avoiding these examples can help ensure that the content you're producing follows a handbook first approach
 
 | Example | Suggested handbook first improvement |
 | ----- | ----- |
 | Introducing new content within a course or Pathway | Add new content to an existing handbook page, or open a new page to document |
-| Directly uploading a video to the LXP | Upload the video first to GitLab Unfiltered, emebed on the correct handbook page, and either display in an Articulate course via iframe or link from a SmartCard in the LXP |
+| Directly uploading a video to the LXP | Upload the video first to GitLab Unfiltered, emebed on the correct handbook page, and either display in an Articulate course via iframe in Level Up |
 
-### Identified challenges with handbook first learning
+# Challenges
 
 - iframes can break if the page or subsection of the linked handbook is updated
 - Updates to courses that are saved as SCORM files must be updated in the course creation tool and then reuploaded to the EdCast platform
