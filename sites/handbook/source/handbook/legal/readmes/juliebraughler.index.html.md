@@ -17,11 +17,11 @@ I am actually a shy introvert which can be hard at an all-remote company. It is 
 
 My college career started out in pharmacy, and when I realized I really didn’t like biochemistry or microbiology, I switched to psychology/criminalistics with a plan to work for the FBI. My career plan didn’t work out the way I expected so I found myself thinking about law school. I attended a paralegal program at a local law school to see what it was all about. Once I received my paralegal degree, I got a job, forgot about law school and that is how I entered the world of contracts. 
 
-I’ve been a professional contracts manager for 27+ years now. I am well versed in all sorts of legalese and, notwithstanding the foregoing (< dorky legal humor), I prefer the KISS method to contracts -- “keep it simple stupid”. You should not need a law degree to understand what you are agreeing to both personally and professionally. I should say that my off-hand comments like “you’re never going to get that body in the oil drum feet first” while watching Breaking Bad probably confirms that I was meant to be a FBI profiler. 
+I’ve been a professional contracts manager for almost 30 years now. I am well versed in all sorts of legalese and, notwithstanding the foregoing (< dorky legal humor), I prefer the KISS method to contracts -- “keep it simple stupid”. You should not need a law degree to understand what you are agreeing to both personally and professionally. I should say that my off-hand comments like “you’re never going to get that body in the oil drum feet first” while watching Breaking Bad probably confirms that I was meant to be a FBI profiler. 
 
 ## Current Role
 
-I am currently a Senior Contracts Manager in the Legal Department and my main focus at GitLab is on customer-facing agreements, although I have probably reviewed every type of agreement out there. I also have experience in data privacy, in particular with the EU’s General Data Protection Regulation. At my previous company I was responsible for developing the action plans for establishing internal compliance with GDPR. 
+I am currently managing the Contracts Managers in the Legal Department and my main focus at GitLab making sure that my team has to tools and education they need to handle all types of customer-facing agreements. In addition to negotiating pretty much any agreement type out there, I also have experience in data privacy, in particular with the EU’s General Data Protection Regulation. At my previous company I was responsible for developing the action plans for establishing internal compliance with GDPR. 
 
 ## My Working Style
 
@@ -35,9 +35,7 @@ Alternatively, when you are explaining something I don’t know, I tend to ask �
 
 My typical working hours are between 8:00am – 4:30pm Eastern. I am generally completely off-line after 5:00pm with no checking of email or Slack messages. 
 
-One of the things that drew me to GitLab was the value of Results - it’s what you accomplish within your working time rather than the number of hours you work. At former jobs there always seemed to be this so-called medal of honor for working long hours even when the production from
-those long hours was nominal at best (I have a funny story about this if we ever schedule a coffee chat). When I review a 60 page customer contract and need to hyper focus for hours at a time, I need some time away to clear my head before I move on to the next contract. The fact that
-I can take a walk or go to the gym between these tasks and no one bats an eye or makes a snarky comment is extraordinary.
+One of the things that drew me to GitLab was the value of Results - it’s what you accomplish within your working time rather than the number of hours you work. At former jobs there always seemed to be this so-called medal of honor for working long hours even when the production from those long hours was nominal at best (I have a funny story about this if we ever schedule a coffee chat). When I review a 60 page customer contract and need to hyper focus for hours at a time, I need some time away to clear my head before I move on to the next contract. The fact that I can take a walk or go to the gym between these tasks and no one bats an eye or makes a snarky comment is extraordinary.
 
 ## Strengths & Areas of Improvement
 
