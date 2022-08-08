@@ -39,6 +39,8 @@ It should not be used for:
 - Embedding data visualizations in the handbook
 - Reporting in key meetings
 
+Our Tableau Online environment is treated as a [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) environment, just our [Sisense SAFE dashboard space](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/). 
+
 ## Access
 
 ### Tableau Online Access
@@ -70,9 +72,7 @@ GitLab has 120 licenses available for the duration of the Tableau Pilot project.
 - 10 Explorers: Ability to edit Data Visualizations
 - 50 Viewers: for Data Consumers, which includes the ability to filtering the data and the use of [Ask Data](https://www.tableau.com/about/blog/2021/6/tableau-release-ask-data-explain-data-viewers-collections) natural language querying. 
 
-The number of licenses is limited for the duration of the pilot, and is meant for teams working on specific use cases. The Data Team will unassign licenses by people who are not using it, or are in breach of the acceptable use policy listed above. 
-
-https://customer-portal.tableau.com/s/
+The number of licenses is limited for the duration of the pilot, and is meant for teams working on specific use cases. The Data Team will unassign licenses by people who are not using it, or are in breach of the acceptable use policy listed above. Tableau account admins can access license codes through the [Tableau Customer Portal](https://customer-portal.tableau.com/s/)
 
 ### Data Source Access
 
@@ -94,6 +94,7 @@ https://customer-portal.tableau.com/s/
 * [Assigned Licenses](https://10az.online.tableau.com/#/site/gitlab/users) (Admins only)
 * [Licenses Used](https://10az.online.tableau.com/#/site/gitlab/analysis/LoginBasedLicenseUsage)
 * [Actions by Users](https://10az.online.tableau.com/#/site/gitlab/analysis/ActionsbyAllUsers)
+* [eLearning Usage](https://dashboard.skilljar.com/analytics/)
 
 Unused licenses will be reclaimed by the data team.
 
