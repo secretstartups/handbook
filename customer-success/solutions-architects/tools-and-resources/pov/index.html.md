@@ -71,6 +71,8 @@ SA working with SAL and AE can define the POV scope with the customer, with alig
 
 #### Salesforce Object
 
+A POV, no matter the type, should be validated by the Solutions Architect.  Therefore, the `SA Validated Tech Evaluation Start Date` field on the Opportunity needs to be filled with the date the POV would start.  Likewise, the `SA Validated Tech Evalulation End Date` field should be entered when it completes. 
+
 In order to track a POV correctly in Salesforce, the Strategic Account Leader should position the opportunity as Stage 3. The Solutions Architect will create the POV object within SFDC when the prospect or customer has indicated interest in moving forward with a POV.
 
 To track a POV, click the _Proof of Values_ tab from the top menu bar in Salesforce. Create a new POV using the _New_ button. Alternately, the Solutions Architect may select the relevant Opportunity, scroll down to the related list labeled _Proof of Values_ and click on the "New Proof of Value" button. This will automatically associate the POV with that Opportunity while all other fields need to be manually completed.
