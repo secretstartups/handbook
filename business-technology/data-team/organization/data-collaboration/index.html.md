@@ -181,4 +181,4 @@ We are currently running a pilot project with [PostHog](https://posthog.com) and
 - [#bt-data-posthog-pilot](https://gitlab.slack.com/archives/C035VQ1S153) - PostHog Implementation
 - [#gitlab-posthog-data](https://gitlab.slack.com/archives/C02QQGGG6FJ) - External Slack channel with PostHog
 - [#data-sisense-gitlab-external](https://gitlab.slack.com/archives/C02GG8C3GFK) - External channel with Sisense
-- [#ext-gitlab-interworks-tableau](https://app.slack.com/client/T02592416/C031QE95QJU) - External channel with Tableau/Salesforce
+- [#ext-gitlab-tableau](https://app.slack.com/client/T02592416/C031QE95QJU) - External channel with Tableau/Salesforce
