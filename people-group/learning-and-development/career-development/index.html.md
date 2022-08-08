@@ -195,22 +195,21 @@ We recommend that, at any given time, each [team](/company/team/structure/#team-
 
 ### Skill of the Month
 
-In August 2021 we held a Career Development Skill of the Month. All items are linked in the [FY22 Skill of the Month](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) GitLab Learn Channel. All of the Async AMA Issues can be found in the [Career Development Interviews 2021 Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/68). More will be added to this section as we go through the weeks of the month. 
+In August 2021 we held a Career Development Skill of the Month. All of the Async AMA Issues can be found in the [Career Development Interviews 2021 Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/68). More will be added to this section as we go through the weeks of the month. 
 
 #### Week 1 
 
 **Topic: Career Development for GitLab Team Members**
 
-1. [Career Development with Pattie Egan](https://gitlab.edcast.com/pathways/career-development-with-pattie-egan) 
-1. [Career Development with Darren Murph](https://gitlab.edcast.com/pathways/career-development-with-darren-murph) 
+1. [Career Development with Pattie Egan](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-pattie-egan) 
+1. [Career Development with Darren Murph](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-darren-murph) 
 
 #### Week 2 
 
 **Topic: Individual Growth Plan** 
 
-1. [Career Development with Nicolas Dular](https://gitlab.edcast.com/pathways/career-development-with-nicolas-dular )
-1. [Career Development with Rebecca Spainhower](https://gitlab.edcast.com/pathways/career-development-with-rebecca-spainhower )
-1. [Building an Individual Growth Plan](https://gitlab.edcast.com/pathways/building-an-individual-growth-plan) 
+1. [Career Development with Nicolas Dular](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-w-nicolas-dular)
+1. [Building an Individual Growth Plan](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/building-an-individual-growth-plan) 
 1. [Using the Individual Growth Plan Interview](/handbook/people-group/learning-and-development/career-development/#gitlab-team-member-using-the-igp) 
 1. [Using the Achievement Tracker](/handbook/people-group/learning-and-development/career-development/#using-your-accomplishment-tracker) 
 1. [Using Epics to Track Career Development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development) 
@@ -220,16 +219,16 @@ In August 2021 we held a Career Development Skill of the Month. All items are li
 
 **Topic: Having Career Conversations with Your Manager**
 
-1. [Career Development with Brittany Rohde](https://gitlab.edcast.com/pathways/career-development-with-brittany-rohde)
-1. [Career Development with Christopher Wang](https://gitlab.edcast.com/pathways/career-development-with-christopher-wang)
-1. [Career Development with Brendan O'Leary](https://gitlab.edcast.com/pathways/career-development-with-brendan-o-leary)
+1. [Career Development with Brittany Rohde](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-brittany-rohde)
+1. [Career Development with Christopher Wang](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-christopher-wang)
+1. [Career Development with Brendan O'Leary](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-brendan-oleary)
 1. Live Session: Having Career Conversations with Your Manager: [Recording of call](/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations-with-your-manager)
 
 #### Week 4 
 
 **Topic: Having Career Conversations with Your Team Members**
 
-1. [Career Development with Diana Stanley](https://gitlab.edcast.com/pathways/ECL-3b8242ee-8583-4dbd-80b1-e337d812d406)
+1. [Career Development with Diana Stanley](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-diana-stanley)
 1. Career Conversations with your Team
    - [Eric Johnson](https://www.youtube.com/watch?v=hYahDZ9nIWA)
    - [Darva Satcher](https://www.youtube.com/watch?v=F7br2CqkjGE)
@@ -239,7 +238,7 @@ In August 2021 we held a Career Development Skill of the Month. All items are li
 
 #### Week 5
 
-1. [Career Development with Sherrod Patching](https://gitlab.edcast.com/pathways/career-development-with-sherrod-patching)
+1. [Career Development with Sherrod Patching](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-sherrod-patching)
 
 ## Tracking your Career Development
 
