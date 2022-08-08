@@ -100,7 +100,7 @@ Example of a Social Learning Live Learning Session on [Building High Performing 
   <iframe src="https://www.youtube.com/embed/aezVF1nOBWc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Social Learning can also occur in GitLab's Learning Experience Platform - [GitLab Learn](https://gitlab.edcast.com/) and asynchronous forums using GitLab. (i.e. [Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26))
+Social Learning can also occur in GitLab's Learning Experience Platform - [Level Up](https://levelup.gitlab.com/learn/dashboard) and asynchronous forums using GitLab. (i.e. [Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26))
 
 
 ## Learning & Development Quarterly Newsletter
@@ -113,7 +113,7 @@ The L&D team also hosts and develops a [quarterly newsletter](/handbook/people-g
 
 From there, identify what will be needed to attain the new skills and consider using the [Growth and Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) or [expensing professional development opportunities such as coaching, worskshops, conferencces, self-service learning, etc.](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). Another option you can utilize to learn more is [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/). GitLab has a number of LinkedIn Learning licenses for team members. Block time off your calendar every week or month to devote to learning new skills. Share what you are learning with team members and in the #learninganddevelopment slack channel. 
 
-In a [discussion with Darren Murph, Head of Remote at GitLab, about his career development](https://gitlab.edcast.com/pathways/career-development-with-darren-murph/cards/7123731), Darren called out the importance of taking time out to learn, reminding the team that career development is "not something that comes around the fringes of work - it is work". The Take Time out to Learn initiative leans into this idea.
+In a [discussion with Darren Murph, Head of Remote at GitLab, about his career development](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/career-development-with-darren-murph), Darren called out the importance of taking time out to learn, reminding the team that career development is "not something that comes around the fringes of work - it is work". The Take Time out to Learn initiative leans into this idea.
 
 Consider documenting the steps you are going to take learn new skills in the individual growth plan. Check in with your manager and ask for accountablity from them to help you stay aligned with goals.
 
@@ -194,7 +194,7 @@ The L&D team outlines a skill of the month for team members to learn more about 
 
 ### FY22 Topic Outline
 
-This is the list of topics that were covered in FY22. Each skill of the month can be found in the [Skill of the Month (FY22)](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) channel on [GitLab Learn](https://gitlab.edcast.com/). 
+This is the list of topics that were covered in FY22. 
 
 - April: Managing Stress
 - May: Effective Communication
@@ -209,7 +209,7 @@ This is the list of topics that were covered in FY22. Each skill of the month ca
 
 ### FY23 Topic Outline
 
-This is the list of topics that will be focused on in FY23. Each Skill of the Month can be found in the [Skill of the Month (FY23)](https://gitlab.edcast.com/channel/skill-of-the-month-fy23) channel on [GitLab Learn](https://gitlab.edcast.com/).
+This is the list of topics that will be focused on in FY23. 
 
 - February: Setting and Achieving Goals
 - March: Managing High Performing Teams: Orientation
