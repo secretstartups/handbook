@@ -33,6 +33,18 @@ At GitLab we are [Handbook First](/handbook/handbook-usage/#why-handbook-first).
 
 For example: If we are adding a data source, we would first create the merge request to update our [the extract and load](/handbook/business-technology/data-team/platform/#extract-and-load) and [system diagram](/handbook/business-technology/data-team/platform/infrastructure/#system-diagram) sections of our handbook. This MR can be updated as the change is created and merged along with the change.
 
+## Data Platform Team knowledge sessions
+
+We as a Data Platform Team are always eager to gain more knowledge and looking for the latest solutions available. Therefore we allocate (half of) our Data Platform Team meeting every 2 months to invite external speakers. The Data Platform Team meeting is every Tuesday at 2PM UTC and we invite any solution provider to join every first Tuesday of every even month to talk with us about Data and Technology. Feel free to reach out to us pro-actively to join 1 of our Team meetings by opening an [issue](https://gitlab.com/groups/gitlab-data/engineers/-/issues) or contact any of the Data Platform Team members (by email or Linkedin).
+
+| Date | Discussion topic |
+| ---------- | ------ | 
+| 2022-10-04 | t.b.d. |
+| 2022-12-06 | t.b.d. |
+| 2023-02-01 | t.b.d. |
+| 2023-04-05 | t.b.d. |
+| 2023-06-07 | t.b.d. | 
+
 ---
 
 ## Data Platform Team Roles
