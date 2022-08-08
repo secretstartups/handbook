@@ -512,7 +512,7 @@ _Gartner Cites GitLab as a Visionary in MQ for EAPT_<br>
 
 ----
 
-<big>[Gartner Magic Quadrant for Application Security Testing, April 2020](https://about.gitlab.com/resources/report-gartner-mq-ast/)</big><br>
+<big>[Gartner Magic Quadrant for Application Security Testing, April 2020](https://page.gitlab.com/resources-report-gartner-magic-quadrant-ast.html)</big><br>
 _Gartner Cites GitLab as a Niche Player in MQ for AST_<br>
 **Value Drivers:** Risk<br>
 **Usecase** DevSecOps
