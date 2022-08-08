@@ -35,20 +35,22 @@ This working group is charged with rolling forward from the emergency "Engineeri
 
 ### Exit criteria
 
+Note that these goals are aspirational so we set a high bar (and potentially achieving something that is good enough vs. setting a low bar and not achieving something that is good enough).
+
 - [x] Name the new process (DONE "cross-functional prioritization) [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13274)
 - [x] All groups have dashboards that they can use to analyze merged MR ratio of features, maintenance, bugs and undefined. [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13294) [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13448)
 - [ ] Type:Undefined Issues are driven down to near zero [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13760)
 - [ ] Type:Undefined MRs are driven down to near zero [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13759)
 - [ ] Subtypes label are defined and implemented [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13650)
 - [ ] Add dashboards to trend and identify issues and merge requests without a subtype [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13781)
-- [ ] Subtype:Undefined Issues are driven down to near zero [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13779)
-- [ ] Subtype:Undefined MRs are driven down to near zero [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13780)
+- [ ] Subtype:Undefined Issues are driven down to near zero for the August review for one director's groups (Wayne: Secure), incorporate feedback from the experience, then implement for all groups starting in September [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13779)
+- [ ] Subtype:Undefined MRs are driven down to near zero for the August review for one director's groups (Darva:Create), incorporate feedback from the experience, then implement for all groups starting in September [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13780)
 - [x] All groups are reviewing the dashboards and discussing it periodically (monthly) in a way where stakeholders can influence decisions. [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304)
 - [x] Development engineering managers are providing their maintenance priorities to PM [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304)
 - [x] Quality leads are providing their bug priorities to PM [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304)
 - [x] The quad stable counterparts (PM, Development EM, Quality Engineering Manager, UX Design Manager) collaborate to determine which issues which will be planned for which milestone [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304)
 - [x] Automation exists to streamline the process. [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6)
-- [ ] Framework for autoscheduling, initial iterations of S1/S2 scheduling are merged, and we've documented a process for expanding the automation to more groups and severities over time. 
+- [ ] Framework for autoscheduling, initial iterations of S1/S2 scheduling are merged, and we've documented a process for expanding the automation to more groups and severities over time. [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/368641)
 
 The below criteria will be marked as complete when we close the working group, as we will be doing this iteratively until then.
 
@@ -86,9 +88,9 @@ The process is [documented](/handbook/engineering/cross-functional-prioritizatio
 # Multi-modal communication
 
 * Tag (at minimum) all potentially interested working group functional leads and when there is impact to product `gl-product-leadership` in all merge requests to solicit feedback.
-* Wait two business days for feedback before merging.
+* Wait two business days to gather and respond to feedback before submitting merge requests to the codeowners for review and merge.
 * Announce all merge requests in the working group slack channel and/or in the standup meeting for working group awareness.
-* Announce all big changes and status updates in the `#product` `#vp-development` `#ux_managers` `#quality-leaders` `#eng-managers` slack channels, and in the weekly engineering work in review document.
+* Announce all big changes and status updates in the `#product` `#vp-development` `#ux_managers` `#quality-managers` `#eng-managers`  `#development` slack channels, and in the weekly engineering work in review document.
 * Add the `wg-next-prioritization` label to all issues and merge requests so they can be tracked
 * Add milestone so PM operations can serve up a filter by label/milestone
 * Summarize changes for PM and other quad groups (sourced using the label search and/or milestone) every ~two weeks.
