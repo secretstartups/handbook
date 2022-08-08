@@ -13,7 +13,7 @@ title: GitLab 201 Tool Certification
 
 Welcome to the GitLab 201 Tool certification page! This is a self-paced course consisting of reading material, video tutorials and knowledge assessments at the end of each lesson. To become certified in GitLab 201, participants will have to pass all 3 lessons with at least 80%. We recommend that courses are completed and passed in order.
 
-Please visit GitLab Learn and create an account to complete the [GitLab 201 Certification](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-this) and earn the GitLab 201 Badge!
+Please visit GitLab Learn and create an account to complete the [GitLab 201 Certification](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-201-certification) and earn the GitLab 201 Badge!
 
 ### Who can benefit from this 201 training?
 
@@ -122,7 +122,7 @@ Once the desired epic has been selected, it will be shown on the issue like this
 
 ### Quiz - Lesson 1: Epics
 
-Please complete the Lesson 1 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-this)
+Please complete the Lesson 1 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-201-certification)
 
 
 ## Lesson 2: Merge Requests
@@ -189,7 +189,7 @@ Save changes, and assign the merge request to the DRI of the page.
 
 ### Quiz - Lesson 2: Merge Requests
 
-Please complete the Lesson 2 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-this)
+Please complete the Lesson 2 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-201-certification)
 
 
 ## Lesson 3: How to create a new handbook page
@@ -243,10 +243,10 @@ description: "[insert a short sentence to appear as part of search results]"
 
 ### Quiz - Lesson 3: How to create a new handbook page
 
-Please complete the Lesson 3 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-this)
+Please complete the Lesson 3 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-201-certification)
 
 
 To become certified in GitLab 201, you will have to pass (with at least an 80%) all three lessons.
 
 ## Feedback
-We are always trying to improve. Please let us know what you thought of this GitLab 201 course by filling out our [feedback form in GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-this/cards/1424490).
+We are always trying to improve. Please let us know what you thought of this GitLab 201 course by filling out our [feedback form in Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-201-certification).
