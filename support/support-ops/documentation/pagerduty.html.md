@@ -39,15 +39,6 @@ on-call in Slack.
 * Extensions and Add-Ons
   * Slack V2
 
-### FRT Hawk
-
-* [Service link](https://gitlab.pagerduty.com/service-directory/P6IRZCX)
-* Escalation policy: Customer Support - FRT Hawk
-* Integrations
-  * N/A
-* Extensions and Add-Ons
-  * N/A
-
 ### Incident Management - CMOC
 
 * [Service link](https://gitlab.pagerduty.com/service-directory/P1PRQ6J)
@@ -58,15 +49,6 @@ on-call in Slack.
   * woodhouse
 * Extensions and Add-Ons
   * Slack V2
-
-### Support internal requests
-
-* [Service link](https://gitlab.pagerduty.com/service-directory/P8LIL42)
-* Escalation policy: Licensing - Internal Requests Hawk
-* Integrations
-  * N/A
-* Extensions and Add-Ons
-  * N/A
 
 ### Support Managers
 
@@ -130,14 +112,6 @@ As per
     * Lyle Kozloff
     * Val Parsons
 
-### Customer Support - FRT Hawk
- 
-* [Escalation policy link](https://gitlab.pagerduty.com/escalation_policies#PXMRPM3)
-* Level 1
-  * Notify the following users or schedules
-    * Customer Emergencies - APAC Group 1
-    * Customer Emergencies - APAC Group 2
-
 ### Customer Support SSAT
 
 * [Escalation policy link](https://gitlab.pagerduty.com/escalation_policies#P0DPFUO)
@@ -168,13 +142,6 @@ As per
     * Lee Matos
     * Lyle Kozloff
     * Val Parsons
-
-### Licensing - Internal Requests Hawk
-
-* [Escalation policy link](https://gitlab.pagerduty.com/escalation_policies#POSOWGE)
-* Level 1
-  * Notify the following users or schedules
-    * L&R - Internal Requests Hawk
 
 ### Support Managers
 
