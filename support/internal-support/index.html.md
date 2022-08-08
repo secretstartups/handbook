@@ -27,14 +27,15 @@ If you'd like to ask a longer term or larger scope question, propose an idea to 
 
 ### On Slack
 
-**IMPORTANT:** For questions about specific customer situations, we need a Support ticket (from the customer) or an Internal Request (from a GitLab team member). **We cannot action any customer-specific requests made through Slack.** If you need to escalate an **existing** ticket or internal-request, please use the [Escalation Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor//support_escalation/) ([handbook entry](https://about.gitlab.com/handbook/support/internal-support/support-escalations.html)).
+**IMPORTANT:** For questions about specific customer situations, we need a support ticket (from the customer) or an internal request (from a GitLab team member). **We cannot act on any customer-specific requests made through Slack.** If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](https://about.gitlab.com/handbook/support/internal-support/support-escalations.html)).
+
 
 The following channels are where GitLab Support can be found on Slack and are the best places to reach us, depending on what you need.
 
 - [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) - This channel is specifically for the GitLab.com support team. They handle GitLab.com related tickets. It should be used if you have a quick question about the GitLab.com Support Team specifically.
 - [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) - This channel is specifically for the self-managed support team. They handle self-managed production issues, triage bugs, and self-managed emergencies, among other things.
 - [#support_licensing-subscription](https://gitlab.slack.com/messages/support_licensing-subscription/) - This channel handles license and subscription issues.
-- [#support_escalations](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is for support escalations and other items which require support managers' attention.
+- [#support_ticket-attention-requests](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is for support ticket attention requests and other items which require support managers' attention.
 - [#feed_zd-main](https://gitlab.slack.com/messages/C1CKSUTL5/) - Feed of all self-managed Zendesk ticket activities.
 
 In order to attract GitLab Support's attention on Slack, you can use the team handles, mentioning multiple team members in a message or a thread where our [**urgent** attention](/handbook/communication/#be-respectful-of-others-time) is needed. Support team handles are:
@@ -209,7 +210,40 @@ Customers can get their subscription information and a list of users using a sea
 
 ### I Want to Escalate a Ticket
 
-Please see the dedicated [Support Escalations](/handbook/support/internal-support/support-escalations.html) page.
+To keep the term "_escalation_" [MECEFU](/handbook/communication/#mecefu-terms), Support uses the term "**support ticket attention request**" (STAR) to make sure
+[account escalations](/handbook/customer-success/tam/escalations/) are distinct. "Escalation" can also be confused with "emergency" or "incident."
+
+Please open a **support ticket attention request**, during [GitLab Global Support Hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours) only, if
+any of these are true:
+ - progress in the ticket has stalled and the ticket needs more support engineering effort
+ - the priority of the ticket has changed (Low -> High) 
+ - the ticket requires immediate intervention to address a high level of customer dissatisfaction
+ - Support Management oversight is required in order to bring structure and focus to the situation
+
+[More about support ticket attention requests](support-ticket-attention-requests.html)
+
+Please open an **[account escalation](/handbook/customer-success/tam/escalations/)** if: 
+ - There is account level risk because of a single ticket or an aggregation of several issues.
+ - Visibility and attention from multiple departments is required to restore customer confidence and resolve the issue.
+
+[More about account escalations](/handbook/customer-success/tam/escalations)
+
+Please open an **emergency ticket** if:
+ - a customer is facing a situation that meets our [Definitions of Support Impact](https://about.gitlab.com/support/definitions/#Definitions%20of%20Support%20Impact) for "Emergency"
+
+[More about how Support Engineers handle emergency tickets](/handbook/support/workflows/customer_emergencies_workflows.html)
+
+Please declare a **GitLab.com incident** if:
+ - you've noticed a common pattern of reported problems between SaaS customers
+ - you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
+ - you suspect a [high severity bug](/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
+
+[More about GitLab.com incidents](/handbook/engineering/infrastructure/incident-management/)
+
+Please declare a **security incident** if:
+ - you have information about a critical issues that may affect the confidentiality, integrity, or availability of GitLab services or data
+
+[More about Security incidents](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html#incident-severity)
 
 ---
 
