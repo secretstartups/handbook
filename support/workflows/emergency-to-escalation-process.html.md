@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Emergency -> Escalation
-description: Guidance to support engineers on when and how to escalate an emergency
+title: Converting a Support Emergency into an Account Escalation
+description: Guidance to Support Engineers and Managers on when and how to convert an emergency to an Account Escalation
 category: On-call
 ---
 
@@ -13,34 +13,44 @@ category: On-call
 
 ## Overview
 
-In the course of our work as Support Engineers, there are instances where an Emergency may end up being larger than we expect, or unsolvable in one call. If so, this document acts as a guide on how to convert from an Emergency to an Escalation.
+In the course of our work as Support Engineers and Managers, there are instances where an Emergency may end up being larger than we expect, or unsolvable in one call. If so, this document acts as a guide on how to convert from an Emergency to an Account Escalation with the Customer Success team.
 
 ## It starts with mindset
 
-In our day-to-day work, Support Engineers are naturally reactive: ticket exists -> we work on that ticket. This changes in an Escalated state, where we need to switch to be more proactive by acting as a guide through the entirety of the escalation.
+In our day-to-day work, Support Engineers are naturally reactive: ticket is created, then we work on that ticket. This changes when the customer is in an Escalated state; we need to switch to be more proactive by acting as a guide through the entirety of the escalation.
 
-## When to start an escalation
+## When to start an Account Escalation
 
-We don't have a definitive list of criteria to follow, so this must be determined on a case-by-case basis. Here are some questions that can guide this decision:
+Follow the guidelines in the [Customer Success Escalations Process](/handbook/customer-success/tam/escalations/). You should consult with the [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html) to make the decision together.
 
+Here are some questions to guide the decision:
+
+- Is the emergency occurring after an upgrade, and there are multiple simulataneous problems/tickets resulting from the upgrade?
 - Is the emergency running for more than 3 hours, with no clear resolution in sight?
 - Are there outside factors (Renewals/Migrations/Other initiatives) that are being blocked by the emergency?
+- Has GitLab Professional Services been working with the customer recently? Are the engineers from that engagement still available to assist?
 
-If so, reach out in #support-managers slack first, as a quick touch base. At this point, a manager should be available to engage to help manage and start the escalation with you.
 
-## How to start an escalation
+## How to start an Account Escalation
 
-At this point, review the [TAM handbook for escalation levels](/handbook/customer-success/tam/escalations/#definitions-of-severity-levels) to see which best applies. The most important thing for a Support Engineer here is to create a Slack room that will live for the duration of the escalation. If there is a TAM, they will start an escalation document to help manage the escalation internally. If there isn't a TAM, coordinate with the on-call Support Manager to get that document created, as per [the TAM Handbook](/handbook/customer-success/tam/escalations/index.html).
+1. Decide which Escalation Level to use by consulting the [TAM handbook for escalation levels](/handbook/customer-success/tam/escalations/#definitions-of-severity-levels).
+1. Based on the Escalation Level, decide who is the [Escalation DRI](/handbook/customer-success/tam/escalations/#escalation-dri). If there is no TAM for the customer, work with the on-call Support Manager to determine DRI.
+1. Follow the steps to [open the escalation](/handbook/customer-success/tam/escalations/#opening-the-escalation). 
 
-## Expectations during an escalation
+## Expectations during an Account Escalation
 
-As the slack room forms, it's important to note that our role changes from "problem solver" to "problem definer + problem solver". You should be balancing your time between communicating in the Slack room, updating the ticket, and getting on calls with the customer.
+The role of Support Engineer / Manager focuses on **defining the problem** in addition to solving the problem. Communication in the Slack channel and Escalation document is highly important. You should balance your time between communicating in the Slack channel, updating the ticket, and participating in calls with the customer.
 
-Here are a few things to keep in mind
+Here are a few things to keep in mind:
 
-- As the on-call Support Engineer, assign the emergency ticket to yourself. Once assigned, link to the escalation doc and the Slack room in a comment, so anyone who sees the ticket will know how to get caught up on the latest.
+- As the on-call Support Engineer, assign the emergency ticket to yourself. Once assigned, link to the escalation doc and the Slack channel in an **Internal Comment**, so that GitLab team members know where to get updates.
 - At the end of your shift, update the next on-call Support Engineer & Manager of the escalation so they can take over.
-- Post updates in the Slack room as you get them.
-- If calls are running past 3 hour mark, consider a break, re-defining the problem, and re-meeting at an agreed upon time.
-- During an escalation, we should be leading, which means we should have clarity as to when the next touch-point will happen. The customer shouldn't have to create another emergency ticket to get back in touch with us.
-- Once we are in an Escalated state, we have full access to development via [Dev Escalations](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) so consider of there are people that could help fill any skill gaps.
+- Post updates in the Slack channel as you get them.
+- If calls are running past 3 hour mark, consider a break, re-defining the problem, and re-starting the meeting at an agreed-upon time.
+- During an escalation, we are leading -- we set clarity as to when the next touch-point will happen. The customer shouldn't have to create another emergency ticket to get back in touch with us.
+- Once we are in an Escalated state, we have full access to development via [Dev Escalations](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html).
+
+## Closing an Account Escalation
+
+If you are the Escalation DRI, follow the steps to [close the escalation](/handbook/customer-success/tam/escalations/#closing-the-escalation). 
+
