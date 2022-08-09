@@ -29,6 +29,7 @@ This process applies to personal data requests submitted by both personal users 
 | Support Team | Maintaining this deletion process handbook page and related deletion request project and issue templates |
 | Support and Legal Team | Responsible for approving significant changes to this standard |
 | Support and Legal Team | Responsible for approving exceptions to this standard |
+| Support Global Readiness | Responsible for resourcing, namely that there are enough Support Engineers to complete requests in a timely manner |
 | GitLab system owners | Processing user deletion for each system as required by the data deletion issue created through this process |
 
 ## General Overview
