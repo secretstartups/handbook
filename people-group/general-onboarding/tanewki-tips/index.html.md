@@ -174,7 +174,7 @@ A: Yes. You can absolutely use a personal laptop until your GitLab one arrives. 
 
 **Q: I purchased my own laptop for work. How do I go about expensing it?**
 
-A: You will get access to Expensify during your first week and you'll want to submit your receipts for reimbursemnt through the program. 
+A: You will get access to Expensify during your first week and you'll want to submit your receipts for reimbursement through the program. 
 
 **Q: I would like to work in a co-working space instead of my home. Is that possible?** 
 
