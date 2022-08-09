@@ -24,6 +24,29 @@ created in the [Feedback issue tracker](https://gitlab.com/gitlab-com/support/fe
 * Embargo tickets (ones containing the tag `com_embargo`)
 * Tickets with the organization `GitLab` or `DigitalOcean Support`
 
+## Subscribing to Customer Feedback Issues
+
+### By territory
+
+If you'd like to subscribe to SSATs submitted by customers from a certain
+territory, you can subscribe to the appropriate `OrganizationRegion` scoped
+label through the [Feedback project labels page](https://gitlab.com/gitlab-com/support/feedback/-/labels).
+
+These labels are applied based on organization information
+[synced to Zendesk](/handbook/support/support-ops/documentation/zendesk_global_organizations.html#organization-fields)
+from SFDC.
+
+| Label   | Description |
+|---------|-------------|
+| APAC    | Asia-Pacific |
+| EMEA    | Europe, Middle East and Africa |
+| LATAM   | Latin America (includes all of Central & South America) |
+| NORAM   | North America |
+| NCSA    | North, Central, South America (legacy region being phased out) |
+| Unknown | Unknown |
+
+The single source of truth for these definitions can be found in the [Go to Market Glossary](/handbook/sales/field-operations/gtm-resources/#glossary) handbook page.
+
 ## Who is responsible for reviewing Support Satisfaction feedback
 
 The [SSAT Reviewing Manager PagerDuty schedule](https://gitlab.pagerduty.com/schedules#P9UIIDY) is the [SSOT](/handbook/values/#single-source-of-truth) for who is on-call. The [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) identifies the current **SSAT Reviewing Manager**, with a link to the PagerDuty schedule.
@@ -60,30 +83,9 @@ Currently there is no SLA for responding to Feedback Issues, but if you follow
 the process defined on this page, you should send an initial response to each
 issue within 7 days of its creation.
 
-## Subscribing to feedback issues
+## Workflows for reviewing feedback
 
-### By territory
-
-If you'd like to subscribe to SSATs submitted by customers from a certain
-territory, you can subscribe to the appropriate `OrganizationRegion` scoped
-label through the [Feedback project labels page](https://gitlab.com/gitlab-com/support/feedback/-/labels).
-
-These labels are applied based on organization information
-[synced to Zendesk](/handbook/support/support-ops/documentation/zendesk_global_organizations.html#organization-fields)
-from SFDC.
-
-| Label   | Description |
-|---------|-------------|
-| APAC    | Asia-Pacific |
-| EMEA    | Europe, Middle East and Africa |
-| LATAM   | Latin America (includes all of Central & South America) |
-| NORAM   | North America |
-| NCSA    | North, Central, South America (legacy region being phased out) |
-| Unknown | Unknown |
-
-The single source of truth for these definitions can be found in the
-[Go to Market Glossary](/handbook/sales/field-operations/gtm-resources/#glossary)
-handbook page.
+Our [Feedback and Complaints handbook page](https://about.gitlab.com/handbook/support/workflows/feedbacks_and_complaints.html) provides general guidance on assessing and responding to feedback.
 
 ## Handling "Good" Reviews
 
