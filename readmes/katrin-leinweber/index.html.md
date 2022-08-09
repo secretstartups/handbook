@@ -15,6 +15,7 @@ I'm keen diving deeper into the GitLab-surrounding technologies and applications
 
 * [Team page](https://about.gitlab.com/company/team/#katrinleinweber)
 * [Profile](https://gitlab.com/katrinleinweber)
+* [Calendly page](https://calendly.com/katrinleinweber/informal-chat) to schedule a chat with me
 
 ## My working style
 
