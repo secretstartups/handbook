@@ -37,7 +37,7 @@ along with other functional analytics groups across the GitLab Data Program.
 * [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
 * [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
 * [Team Processes](/handbook/product/product-analysis/team-processes/)
-* [WIP - Crash Course for Product Stage Resources](/handbook/product/product-analysis/crash-course/)
+* [Crash Course for Product Stage Resources](/handbook/product/product-analysis/crash-course/)
 
 ## Working With Us
 
@@ -336,7 +336,7 @@ Office Hours is intended to help PMs with smaller tasks, provide a venue for bra
 help folks looking to learn more about data self-service. The benefit is that the agenda is 
 first-come, first-served, the prioritization process is bypassed, and the wait time is minimal.
 
-Formal data requests and larger bodies of work are captured in issues in the [Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request). 
+Formal data requests and larger bodies of work are captured in issues in the [Product Data Insights project](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request). 
 They can help answer more complex questions, but go through more robust [intake](/handbook/product/product-analysis/#issue-intake) 
 and [planning](/handbook/product/product-analysis/#iteration-planning) processes. As such, there 
 is a longer turn-around time given team size and [capacity](/handbook/product/product-analysis/#capacity).
