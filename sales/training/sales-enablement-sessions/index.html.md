@@ -26,7 +26,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | Aug 4 | Cancelled  | N/A  |
 | Aug 11 | FY23 - Q3 Channel Update  | Colleen F. & Ed C.  |
 | Aug 18  | Automated Software Delivery (AutoSD) Integrated Campaign  | Shari R.  |
-| Aug 25 | TBD  | TBD  |
+| Aug 25 | Q3 Rev Program Update  | Allison G.  |
 | Sep 1 | VMware Tanzu Enablement session  | Vick K.  |
 | Sep 8 | Legal Subscription Agreement Update  | Matthew T.  |
 | Sep 15 | Storage & Transfer Limits  | Josh L.  |
