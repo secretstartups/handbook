@@ -300,7 +300,7 @@ graph LR
     AUTOMATED_HACKATHON_LABEL_ADDITION(["Add the `Hackathon` label"])
     WHAT_AUTHOR_NOTE{What note is it?}
     WHAT_ANYONE_NOTE{What note is it?}
-    
+
     AUTOMATED_LABEL_COMMAND_REPLY(["Add the requested label"])
     AUTOMATED_HELP_COMMAND_REPLY(["Ask (and assign as reviewer)<br />an MR coach for help"])
     AUTOMATED_REVIEW_COMMAND_REPLY(["Add the `workflow::ready for review` label"])
@@ -488,7 +488,7 @@ Current type labels with subtype labels are:
 
 #### Merge request type label copy from related issues
 
-* Automation conditions: 
+* Automation conditions:
   - Open or update of a merge request without a type label that have a related issue with a type label.
 * Automation actions:
   - The type label in the issue is applied to the merge request
@@ -506,7 +506,7 @@ reporting and milestone transition. This is handled by
 
 When milestone is present on an issue but there is not an assignee. The milestone being present indicates the product team has reviewed and scheduled the issue. This encourages open source contributions for planned features.
 
-Issues with the `~Deliverable`, `~workflow::blocked`, `~workflow::production`, `~workflow::in review`, `~workflow::in dev`, `~workflow::refinement`, `~workflow::validation backlog`, `~workflow::problem validation`, `~workflow::solution validation`, `~workflow::planning breakdown`, `~workflow::design`, `~workflow::verification`, `~fuzzing::protocol`, `~fuzzing::coverage` labels are excluded from this rule.
+Issues with the `~Deliverable`, `~workflow::blocked`, `~workflow::production`, `~workflow::in review`, `~workflow::in dev`, `~workflow::refinement`, `~workflow::validation backlog`, `~workflow::problem validation`, `~workflow::solution validation`, `~workflow::planning breakdown`, `~workflow::design`, `~workflow::ready for design`, `~workflow::verification`, `~fuzzing::protocol`, `~fuzzing::coverage` labels are excluded from this rule.
 
 * Automation conditions:
   - Issues with a milestone but no assignee
@@ -644,7 +644,7 @@ label will have the `~missed-deliverable` label applied.
 
 **Note:** Confidential issues will be skipped as part of the `missed` label application. Please see the [this issue](https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/45) for more information
 
-* Automation conditions: 
+* Automation conditions:
   - Open issues or merge requests with the `~Deliverable`
   label and a `~missed:x.y` label, and no `~missed-deliverable` label.
 * Automation actions:
@@ -655,7 +655,7 @@ label will have the `~missed-deliverable` label applied.
 
 Issues which have a label of `~Deliverable` without a milestone will have the milestone set to `%Backlog`.
 
-* Automation conditions: 
+* Automation conditions:
   - Open issues or merge requests have label of `~Deliverable` without a milestone
 * Automation actions:
   * `~Deliverable` label is removed
@@ -666,7 +666,7 @@ Issues which have a label of `~Deliverable` without a milestone will have the mi
 
 Issues which have a severity label and missed the [SLO target](/handbook/engineering/quality/issue-triage/#severity) will be labeled with `~missed-SLO`. The calculation for elapsed time starts from the date of the severity label was applied. This enables reporting on SLO target adherence.
 
-* Automation conditions: 
+* Automation conditions:
   - Issue with severity label present and is remains in an open state past SLO target.
 * We currently only detect missed SLOs for `~severity::1` and `~severity::2` bugs.
 * Automation actions:
@@ -678,7 +678,7 @@ Issues which have a severity label and missed the [SLO target](/handbook/enginee
 
 Bugs which have a severity 1 or severity 2 label without a priority label will be labeled with the equal priority label. For example, a `~severity::1` `~"type::bug"` without a priority label will have `~priority::1` applied.
 
-* Automation conditions: 
+* Automation conditions:
   - `~"type::bug"` issue with `~severity::1` or `~severity::2` without a `~priority::*` label.
 * Automation actions:
   * Apply the `~priority::*` label of the same level
@@ -688,7 +688,7 @@ Bugs which have a severity 1 or severity 2 label without a priority label will b
 
 Issues or merge requests that have a label of `~"master:broken"` will have labels of `~"priority::1"` and `~"severity::1"` applied. This ensures that requests which break master are sufficiently categorized for reporting.
 
-* Automation conditions: 
+* Automation conditions:
   - Open issue or merge request with `~"master:broken"` label.
 * Automation actions:
   * The `~"priority::1"` and `~"severity::1"` labels are applied.
@@ -733,7 +733,7 @@ The possible tier labels to be applied are:
   - ~"GitLab Premium"
   - ~"GitLab Ultimate"
 
-* Automation conditions: 
+* Automation conditions:
   - Open issue without tier labels, with group and `~direction` label, in current milestone
 * Automation actions:
   - Mention the relevant PM for the group asking to add appropriate label
@@ -745,7 +745,7 @@ The possible tier labels to be applied are:
 
 Type labels ensure that issues are present in the [group triage report](#group-level-bugs-features-and-ux-debt) and added to the correct section.
 
-* Automation conditions: 
+* Automation conditions:
   - Open issue with no type label applied, opened in the past 7 days, authored by `gitlab-org` member
 * Automation actions:
   - Mention the author asking to add appropriate type label
