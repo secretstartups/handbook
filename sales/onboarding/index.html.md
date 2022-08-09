@@ -33,7 +33,7 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
 | August 10 - 19, 2022  | AMER / EMEA | Virtual | [SQS 27 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1541) | 
-| September 2022  | AMER / EMEA | Virtual  | [SQS 28 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1542)  | 
+| September 14 - 23, 2022  | AMER / EMEA | Virtual  | [SQS 28 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1542)  | 
 | October 2022  | AMER / EMEA | Virtual | [SQS 29 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1543) | 
 
 
@@ -82,14 +82,20 @@ GitLab's role-based learning journeys are based on milestones and enable us to d
 
 Click on a link below to begin your role based journey. 
 
-- Enterprise Strategic Account Leader - [Enterprise Sales: What every SAL needs to know (30-60-90 days)](https://gitlab.edcast.com/journey/sal-post-onboarding-sal) 
-- Commercial Account Executive - [Commercial Sales - Onboarding Journey](https://gitlab.edcast.com/journey/commercial-sales-onboarding-journey)
-- Solutions Architect - [Solutions Architect: 30-60-90 Onboarding Journey](https://gitlab.edcast.com/journey/solutions-architect-onboarding-journey)
-- Technical Account Manager - [Technical Account Manager (TAM) Onboarding](https://gitlab.edcast.com/journey/technical-account-manager-tam-onboarding) 
-- Inside Sales - [Inside Sales: Onboarding Learner Journey](https://gitlab.edcast.com/journey/isr-post-onboarding-isr)
-- Sales Development - [Tanuki Tech](https://gitlab.edcast.com/channel/sdr)
-- Channel - [Channel Sales Onboarding Journey](https://gitlab.edcast.com/journey/channel-sales-on-boarding)
-- Professional Services Engineer - coming soon
-- Alliances - coming soon
+- Enterprise Strategic Account Leader - [Enterprise Sales: What every SAL needs to know (30-60-90 days)](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/enterprise-sales-sal-30-60-90-days) 
+- Commercial Account Executive - [Commercial Sales - Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/commercial-sales-onboarding-journey)
+- Solutions Architect - [Solutions Architect: 30-60-90 Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/solutions-architect-30-60-90-onboarding-journey)
+- Technical Account Managers
+    - [ Strategic Technical Account Manager (TAM) Onboarding](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/technical-account-manager-tam-onboarding) 
+    - [Growth CSM and Scale CSE Onboarding](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/scale-and-mid-touch-tam-onboarding)
+- Inside Sales - [Inside Sales: Onboarding Learner Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/inside-sales-onboarding-learner-journey)
+- Sales Development - [Tanuki Tech - Level 1](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/tanuki-tech-level-1)
+- Channel - [Channel Sales Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/channel-sales-on-boarding)
+- All Other Roles (Field Ops) - [Sales Quick Start](https://levelup.gitlab.com/learn/course/sales-quick-start)
+
+### Role Based Journeys Coming Soon 
+- Professional Services Engineer
+- Alliances
+
 
 
