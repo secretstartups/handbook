@@ -73,7 +73,9 @@ yourself to disconnect from work and make your time off effective.
 
 If you're taking off **less than half a day,** you do not need to make entries in PTO by Roots or the Support Time Off Calendar, but please consider updating your Slack status. Also consider blocking the interval on your personal Google Calendar, so no one tries to book a pairing/meeting with you during that time.
 
-If you're taking off **a half day or more,** enter the time off in PTO by Roots.
+If you're taking off **a half day or more,** enter the time off in PTO by Roots. 
+
+At the end of your last work day before taking PTO, update your availability using the [Out of Office](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#out-of-office) app in Zendesk. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make unavailable` button on the row with your user information in it.
 
 Follow the guidance below to prepare yourself, your customers, and your colleagues.
 
@@ -86,35 +88,40 @@ If you are assigned to any PagerDuty shifts (such as on-call) during the time of
 
 ### Coverage for assigned tickets
 
-Tidy your queue before going on PTO. As guidelines cannot cover every case, this section is meant to provide guidance for you to think critically about what is required for each ticket you're assigned to:
+Tidy your queue before going on PTO. As guidelines cannot cover every case,
+this section is meant to provide guidance for you to think critically about
+what is required to ensure continued excellent support for each customer with
+whom you're working on a ticket.
 
-1. Is a customer waiting on you? Check with the customer.
-   As per the [working with tickets workflow](/handbook/support/workflows/working-on-tickets.html#keep-in-mind),
-   aim to update a customer daily. If your PTO will prevent a timely update, ask the customer whether they
-   would prefer to pause the ticket till your return or have someone else step
-   in to work with them. If they want to pause, put the ticket on-hold.
-   Otherwise, find a new assignee.
-1. For all tickets that won't be on hold, use the `OOO Ticket Handover` macro, and update the macro as outlined below.
-- For `Ticket Summary`, include:
-   - A concise statement of the problem or request
-   - A brief explanation of what's been done so far - what's been tried, what
-     progress has been made
-   - The current status - what remains to be done
-- For `Potential next steps`:
-   - The plan - expected next steps and the reasons behind them
-- For `Extra Details`:
-   - Any links to issues or documents that might be helpful and are relevant to the issue
+Regardless of the length of your planned absence, notify your group of the
+upcoming absence by posting a message in your group's
+[Slack channel](/handbook/support/support-global-groups/#slack) a week in
+advance, if possible.
 
-### If your absence is three or more business days
+#### If your absence will be less than three business days
 
-1. Notify the team of your upcoming absence by adding an item in the regional team-meeting agenda the week before your absence.
+Is a customer waiting on you? Check with them. If your PTO will prevent a
+timely update, ask the customer whether they would prefer to pause the
+ticket till your return or have someone else step in to work with them.
+If they want to pause, put the ticket on-hold. Otherwise:
+
+1. Use the [OOO Ticket Summary](https://gitlab.com/search?search=360080271299&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar)
+   macro, providing the same information as described in the
+   [Workflow](/handbook/support/workflows/ooo-ticket-management.html.md#workflow)
+   topic of the `OOO Ticket Management` page.
+1. Notify your group of the list of tickets that need responses during your
+   absence and ask for volunteers to take responsibility for those.
+
+#### If your absence is three or more business days
+ 
 1. Change your workflow in advance of your absence:
-  1. A week in advance: Start thinking about whether you may need to hand off tickets, and pair with others to get them up to speed.
-  1. Two to three days in advance: stop taking new tickets.
-   1. Work to resolve and close as many of your assigned tickets as possible
-   1. Contribute more to first-responses and other people's tickets - internal comments, pairing
-      sessions - to make up for not taking new tickets of your own
-1. Hand over your assigned tickets by following the [OOO handover workflow](/handbook/support/workflows/ooo-handover.html)
+   1. A week in advance: Start thinking about whether you may need to hand off tickets, and pair with others to get them up to speed.
+   1. Two to three days in advance: stop taking new tickets.
+   1. Work to resolve and close as many of your assigned tickets as possible.
+   1. Contribute more to first responses and other people's tickets - internal comments, pairing
+      sessions - to make up for not taking new tickets of your own.
+1. Follow the [OOO Ticket Management](/handbook/support/workflows/ooo-ticket-management.html)
+   process to arrange for others to take care of your tickets in your absence.
 1. Update your [GitLab status](https://docs.gitlab.com/ee/user/profile/index.html#set-your-current-status) to ensure you're not auto-assigned to GDPR requests:
 
    - The status text should contain one of the following strings: 'OOO', 'PTO', 'Parental Leave', or 'Friends and Family'
@@ -153,21 +160,22 @@ The following peak holidays have the greatest potential to affect coverage:
    - Labour Day (first Monday in September)
    
 ### If you are planning to take time off during peak holidays
+
+If you plan to be out for more than three days, follow the guidance regarding
+[absences of three or more business days](#if-your-absence-is-three-or-more-business-days).
+Otherwise:
+
 1. Please do your best to resolve any assigned tickets you have in your queue.
-1. Communicate with your customers to let them know you’ll be away, and when they can expect you to return. 
-    - Many of our customers may likely be on the same holiday schedule and will be fine with resuming work on a ticket when you both return.
-    - Otherwise, add any tickets that will require continued work during the holiday to the `Needs Collaboration` view instead of the `Handover Needed` view, *unless you plan to be out for an extended period of time* (i.e. more than 3 days). 
-    - If you do not get a response from the customer before your holiday time off, add the ticket to `Needs Collaboration`.
-    - This keeps the ticket in your assignment, but gives the wider team visibility into any tickets that may need attention while you’re away. 
-1. If you anticipate that no action will be necessary over the holiday on any tickets, they do not need to be added to the `Needs Collaboration` view. 
+1. Communicate with your customers to let them know the days you’ll be away, and
+   to ask whether they will need help during your absence. Many of our customers
+   might be on the same holiday schedule and will be fine with resuming work on
+   a ticket when you both return.
+2. For those tickets that will not require action over the holiday, there is no
+   special action to be taken. 
 
 ### If you are working on a holiday
 1. Continue to prioritize FRT first, and then management of your own tickets.
-1. Please pay **extra** attention to the `Needs Collaboration` view. Help progress any tickets while the original assignee is away.
-1. Copy (cc) yourself on the ticket to provide continued help throughout the day.
-1. Summarize any progress or next steps for the original assignee so that they know where to pick things up from on their return.
-1. Continue to help as you can with the `Handover Needed` view.
-
+2. Please pay **extra** attention to NRT on tickets with an assignee who is currently out-of-office.
 
 ## General Tips
 
@@ -201,13 +209,15 @@ that happened while you were away:
 
 - [SWIR](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/)
 
-- [Support Team Meeting](https://docs.google.com/document/d/1jwj5g0BIq3kTepw2-ZD9VSETs7Isf6YDHGzmYxmTt50/)
 - Slack channels:
+  - Your [group's channel](/handbook/support/support-global-groups/#slack)
   - [#company-fyi](https://gitlab.slack.com/archives/C010XFJFTHN)
   - [#company-fyi-private](https://gitlab.slack.com/archives/C02E7JGBU4E)
   - [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C)
 
-Consider setting up a few coffee chats with team-mates to simply reconnect with them. You can also ask your team-mates who haven't taken PTO while you were out, during coffee chats or pairing sessions, to mention a thing or two that you might have missed.
+Consider setting up a few coffee chats with teammates to simply reconnect with them. You can also ask your teammates who haven't taken PTO while you were out, during coffee chats or pairing sessions, to mention a thing or two that you might have missed.
 
-For more tips, check [returning from pto](https://about.gitlab.com/handbook/paid-time-off/#returning-from-pto). 
+Once you have taken the time to catch-up, update your availability using the [Out of Office](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#out-of-office) app in Zendesk showing you are no longer OOO. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make available` button on the row with your user information in it.
+
+For more tips, check [returning from pto](/handbook/paid-time-off/#returning-from-pto). 
 

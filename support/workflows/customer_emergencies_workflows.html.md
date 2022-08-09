@@ -93,7 +93,7 @@ Taking an emergency call isn't significantly different from a normal call outsid
 - You (likely) won't have much forewarning about the subject of the call
 - The desired end state is a functioning system
 
-Try to find a colleague to join the call with you. A second person on the call can take notes, search for solutions, and raise additional help in Slack. They can also discuss and confirm ideas with you in Slack.
+Try to find a colleague to join the call with you. A second person on the call can take notes, search for solutions, raise additional help in Slack, and take on the role of co-host in the event of system or network-related issues. They can also discuss and confirm ideas with you in Slack.
 
 During the call, try to establish a rapport with the customer; empathize with their situation, and set a collaborative tone.
 
@@ -141,6 +141,26 @@ Remember to say only things that help the customer and that maintain their confi
 If you encounter a SaaS emergency at the weekend that you are unable to progress, then consider checking if the [CMOC engineer on call](https://gitlab.pagerduty.com/escalation_policies#PNH1Z1L) is available to offer any help or guidance.
 
 If you are still stuck _and_ are having difficulty finding help, contact the [manager on-call](/handbook/support/on-call/#paging-the-on-call-manager) or initiate the [dev-escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
+
+## License Emergencies
+
+### Self-managed Subscription Emergencies
+{:.no_toc}
+
+There may be times when a customer's subscription expires over the weekend, leaving their instance unusable until a new subscription is generated.
+
+For non-trial subscriptions, you can remind the customer that subscriptions have [a 14 days grace period](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired). If the expiration will not fall outside the grace period before the next business day, kindly let the user know that their request will be handled as a standard L&R case during normal business hours. You should reduce the priority of the case and inform the L&R team of the issue.
+
+Otherwise, you will need to login to [CustomersDot Admin](https://customers.gitlab.com/admin) and generate a short term (7-14 days) **trial license** for them by following [this workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html). 
+The idea is to get them through the weekend so they can solve this with their TAM, Sales Rep, and the L&R Support team during the regular workweek.
+
+### SaaS Subscription Emergencies
+{:.no_toc}
+
+A customer may be blocked because of a license expiring or neglecting to apply a renewal. If you're familiar with [L&R Workflows](/handbook/support/license-and-renewals/workflows/), you may solve the case completely by yourself. If you are not, you may:
+
+1. [Manually upgrade the namespace using the mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html)
+1. Alert `#support_licensing-subscription` that you've done so and link to the ticket for follow-up.
 
 ## SaaS Emergencies
 
@@ -209,12 +229,6 @@ If there is a known incident, it's acceptable to link to the public status page 
 - [Regression on GitLab.com broke previously working pipeline](https://gitlab.zendesk.com/agent/tickets/147266): resolution was to revert a recently deployed MR.
 - [Customer locked themselves out of their group by changing SAML settings](https://gitlab.zendesk.com/agent/tickets/146611)
 
-### Subscription Issues
-
-A customer may be blocked because of a license expiring or neglecting to apply a renewal. If you're familiar with [L&R Workflows](/handbook/support/license-and-renewals/workflows/), you may solve the case completely by yourself. If you are not, you may:
-
-1. [Manually upgrade the namespace using the mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html)
-1. Alert `#support_licensing-subscription` that you've done so and link to the ticket for follow-up.
 
 ### Consumption Issues
 
@@ -276,11 +290,19 @@ You can bulk edit tickets by:
 
 ![ZD Bulk Update View](/images/support/zd-bulk-update.png){: .shadow}
 
-## US Federal on-call
+## US Federal Emergencies
 
 US Federal on-call support is provided 7 days a week between the hours of 0500 and 1700 Pacific Time.
 
 The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(GitLab Employees only). The schedule is currently split into two, 6 hour shifts, an AM and a PM shift. The AM shift starts at 0500 Pacific Time and runs until 1100 Pacific Time. The PM shift starts at 1100 Pacific Time and runs until 1700 Pacific Time.
+
+Customers are permitted to submit emergencies via email or via the emergency form in the US Federal support portal. 
+
+#### Emergencies outside on-call hours
+If a customer submits an emergency case outside the [working hours of Federal Support](https://about.gitlab.com/support/us-federal-support/#hours-of-operation) the following will occur:
+
+ - A slack notification will trigger in the #spt_us-federal channel alerting the team to an off hours emergency and indicating follow-up is needed at the start of business hours
+ - The `Off hours emergency request` trigger will inform the ticket submitter that it is after hours and give them the option to either create an emergency case in Global support or wait for US Federal support to follow-up at the next start of business hours. 
 
 ## Special handling notes
 
@@ -296,7 +318,7 @@ The customer should:
 1. Shut the instance down immediately.
 1. Create a new instance at the exact same version and restore their most recent backup into it.
    - Avoid exposing the new instance to the Internet
-   - If they have not captured their `gitlab-secrets.json`, or if the only backups available are stored in `/var/opt/gitlab/backups`, mount the volume of the compromised instance to retrieve it.
+   - If they do not have a copy of their `gitlab-secrets.json`, or if the only backups available are stored in `/var/opt/gitlab/backups`, mount the volume of the compromised instance to retrieve it.
 1. Rotate secrets on the new instance:
    - All secrets contained within the `gitlab.rb` (such as LDAP/email passwords)
    - All secrets in CI jobs such as API keys or remote server credentials

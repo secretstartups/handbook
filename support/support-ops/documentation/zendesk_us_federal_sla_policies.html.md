@@ -3,6 +3,7 @@ layout: handbook-page-toc
 title: 'Zendesk US Federal SLA Policies'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk Federal SLA policies'
+noindex: true
 ---
 
 ## On this page
@@ -41,11 +42,11 @@ This requires an exact process, which is detailed via the
 
 * Conditions
   * Matches ALL of:
-    * `Tags` contains at least one of `starter basic premium ultimate prospect`
+    * `Tags` contains at least one of `starter premium ultimate prospect`
   * Matches ANY of:
     * Form is Support
     * Form is Triage
-    * Form is Live Upgrade Assistance
+    * Form is Upgrade Assistance
 * Targets:
 
 | Target | Urgent | High | Normal | Low |

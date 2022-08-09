@@ -27,24 +27,62 @@ Identify what's causing you to get stuck. Some examples are:
 * The customer's query is out of scope, but they expect us to resolve this.
 * There is a deep technical issue which needs a development expert's consult.
 
-Then choose from below the appropriate resource that can help unblock you. [Escalating to unblock](https://about.gitlab.com/handbook/values/#escalate-to-unblock) is a sub-value of Results.
+Then consider these options to help unblock you. And remember that
+[escalating to unblock](https://about.gitlab.com/handbook/values/#escalate-to-unblock)
+is an operating principle of Results.
 
-* Follow [the workflow](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#what-is-the-the-needs-collaboration-view-and-workflow) to add your ticket to the `Needs Collaboration` view in Zendesk. Use the `Collaboration` macro to summarize the help that you need into an internal note so that others can quickly understand what help is needed. This will add the `needs_collaboration` tag to the ticket, and remove you as the assigned agent, which will add it to the `Needs Collaboration` view. Make sure your user is in the CCs list.
-* Depending on the area of focus (such as self-managed or SaaS) and the urgency, ask for help in the [relevant Support Slack channels](https://about.gitlab.com/handbook/support/#slack).
-    - Always link the ticket you need help with.
-    - Be specific about the help you need.
-        - For example, "Kubernetes Runner help needed: user is running in X error, logs are saying Y, and we've tried Z. What else could it be?"
-    - Check the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) Support page to see who might be able to assist based on the knowledge area of the problem. 
-    - Mention that person in the thread and the ticket for continued collaboration and guidance.
-    - Offer to schedule a pairing session, or work in collaboration with others asynchronously in the Slack thread.
-* Ask for help in the appropriate [DevOps Staging](https://about.gitlab.com/handbook/product/categories/#devops-stages) Slack channel, or reach out to the [Support Stable Counterpart](https://about.gitlab.com/handbook/support/support-stable-counterparts.html) for the area of focus you need help in. If you are unsure about this, ask the team and/or a manager for guidance.
-    - For example, if you need help with a runners issue, ask for development support in the runners Slack channel, or reach out to the Support stable counterpart(s) that are listed under the [runner group](https://about.gitlab.com/handbook/product/categories/#runner-group) section.
-* Attend crush or help sessions such as those noted below (see the [GitLab Support calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV85YnMxNTllaHJjNXRxZ2x1cjg4ZGpiZDUxa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for times):
+1. Ask in [your group's Slack channel](/handbook/support/support-global-groups/#slack) for help. You might get all the help you
+   need in responses right there, or you might open up the group's Zoom room
+   for an impromptu pairing session to work on the ticket. And remember:
+   1. Be sure to provide a link to the ticket
+   1. Be specific about the help you need
+      - For example: "Kubernetes Runner help needed: user is running into X
+        error, logs are saying Y, and we've tried Z. What else could it be?"
+2. Ask for help in one of the broader
+   [relevant Support Slack channels](https://about.gitlab.com/handbook/support/#slack).
+   In addition to the Slack reminders above, also:
+   - Check the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html)
+     Support page to see who might have the skills to assist. Mention those
+     people in the thread and in the ticket to let them know you think they
+     can help.
+3. Ask for help in the appropriate [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) Slack channel,
+   or reach out to the [Support Stable Counterpart](../support-stable-counterparts.html)
+   for the appropriate product area. If you are unsure which product area it is,
+   ask your group or a manager for guidance.
+   - For example, if you need help with a runners issue, ask for development
+     support in the runners Slack channel, or reach out to the Support stable
+     counterpart(s) that are listed under the
+     [runner group](https://about.gitlab.com/handbook/product/categories/#runner-group)
+     section.
+4. Attend crush or help sessions such as those noted below (see the [GitLab Support calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV85YnMxNTllaHJjNXRxZ2x1cjg4ZGpiZDUxa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for times):
     - AMER Senior SE Help Sessions
     - APAC/AMER or EMEA/AMER crush sessions
     - APAC or EMEA crush / collaboration sessions
     - Senior Support Office Hours (varying times)
-* If in doubt, ping your manager (or the manager on-call) for guidance. Your manager (or any manager) can help determine next steps. Note that in most cases, either the present team is unable to help (beyond expertise), or at capacity. Please do not let this deter you from asking for help any time you need it.
+5. Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions.html)
+   - This is like a crush session, with the specific intention of helping 1 or 2
+     groups with FRTs
+6. If you're struggling to get help, reach out to your manager, the manager
+   on-call, or any available manager. They will help you to determine next steps.
+   Please know that there will always be somebody who can help, even if you're
+   having a hard time finding them. Please do not let this deter you from
+   asking for help any time you need it.
+
+### How to Use GitLab.com to Formally Request Help from the GitLab Ops Development Team
+
+Starting from `2022-06-13` the Support Team and the `Ops Section` of the Development Group are running a pilot project. See [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4276) for details of the pilot. The aim is to provide a formal and accountable workflow process for Support Engineers to request assistance from the [Ops Section](https://about.gitlab.com/handbook/product/categories/ops/) for any technical issues which they are currently unable to progress. Please note that Slack may still be used for asking the Ops Development Group simple or brief questions, however issues are now the preferred approach if the question requires any research or collaboration involving this Development team.
+
+The steps for submitting a help request are as follows:
+
+1. Go to the [Section Ops Request for Help Repository](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help)
+1. In the [ReadMe](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/-/blob/main/README.md) (displayed on the project page):
+   1. Read the [Support Engineer User Guidance](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help#support-engineer-user-guidance) section and follow the steps outlined.
+   2. Read the [Development groups and their corresponding templates](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help#development-groups-with-their-corresponding-templates-and-labels) section and use the Handbook links provided if you are unsure as to which `Ops` Section Sub Group and corresponding template you should use.
+1. Submit a new issue to the project using the template you've identified.
+   - The issue will be automatically assigned to the relevant developers for triaging
+1. If you encounter any problems, such as obtaining a timely response from development, then please make the Engineering Manager and [John Lyttle](https://gitlab.com/jlyttle) aware. You can identify the relevant Engineering Manager by checking the Development Group Handbook Page from the [list of Ops Section handbook links](https://gitlab.com/gitlab-com/section-ops-request-for-help#development-groups-with-their-corresponding-templates-and-labels).
+1. Lastly, prior to closing the issue please review the information within to determine if any of it can be used to update the GitLab documentation, if any of the information is a candidate to be considered for updating the GitLab documentation then add the label `documentation::candidate` so that the issue can be identifiable for future use. If you have actually updated the GitLab documentation then please add a link to the MR to the issue and add the label `documentation::created`.
+
 
 ### Quick Links and Resources
 - [Needs Collaboration view](https://gitlab.zendesk.com/agent/filters/360080204660) in ZenDesk.

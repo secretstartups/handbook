@@ -153,15 +153,4 @@ Some notes to help in filing the ticket properly:
 * Markdown does not work for customer filed tickets. Try to limit the markdown
   used to markdown that will still render properly in plaintext
 
-Once the new ticket is created, notate the original ticket and send the
-following reply:
-
-> Greetings {{ticket.requester.first_name}},
->
-> Sadly, this ticket was filed using the incorrect form and was routed
-> incorrectly on our end. To help clear that up and get you working with the
-> correct team, we have filed a new ticket on your behalf: #<ID_OF_NEW_TICKET>
->
-> To avoid confusion, we will be closing this ticket out.
-
-After doing so, mark the original ticket as solved.
+Once the new ticket is created, notate the original ticket and send a reply using the [`Support::Support-Ops::Response to original ticket using an incorrect form`](https://gitlab.zendesk.com/admin/workspaces/agent-workspace/macros/4623695359260) macro. 

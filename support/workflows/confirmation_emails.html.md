@@ -48,7 +48,7 @@ Before the issue can be resolved we first need to locate the account in question
 
 ### Typo Fix
 
-1. Ensure the user is a [customer with a current paid subscription](https://about.gitlab.com/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#identifying-customers-and-users).
+1. Ensure the user is a [customer with a current paid subscription](https://about.gitlab.com/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#identifying-customers-and-users). (Do not modify free user accounts. Free users must create new accounts with the correct email address)
 1. Ensure the user's account has no activity by checking that the `Confirmed at:` field is blank/nil.
 1. Ensure the user's account has no group or project memberships. If the account does have group or project memberships, then the user must pass the [Account Ownership Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html) workflow before proceding any further.
 1. Change the email address to the correct one using one of the following methods:
@@ -127,7 +127,7 @@ This is useful to check if emails have been delivered successfully from our end,
 
 Mailgun does not allow us to check for multiple suppressions on the same domain within it's `Suppressions` section, but we can use another method to find them without asking the customer for a list of email addresses that they suspect are being suppressed. To do so:
 
-1. Log in to [Mailgun](https://app.mailgun.com/app/dashboard) using the `supporteam` credentials in the Support Team vault in 1Password.
+1. Utilize the Mailgun SSO app on your Okta dashboard to log in to [Mailgun](https://app.mailgun.com/app/dashboard).
 1. Click on `Sending` along the left-hand side navigation bar.
 1. Click on `Logs`.
 1. Ensure that `mg.gitlab.com` is set as the domain above the activity graph.

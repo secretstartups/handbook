@@ -9,7 +9,7 @@ category: GitLab Self-Managed licenses
 
 ----
 
-From time to time, you will run into cases where customer has a multi-year(s) subscription. This is only possible if a subscription is purchased through Sales, since there's no option to make a multi-year subscription from [CustomersDot](https://customers.gitlab.com).
+From time to time, you will run into cases where customer has a multi-year subscription. This is only possible if a subscription is purchased through Sales, since there's no option to make a multi-year subscription from [CustomersDot](https://customers.gitlab.com).
 
 ### Problem with multi-year subscriptions:
 1. The license is automatically generated for the **first year only**. Read more at [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/#i-purchased-a-multi-year-subscription-why-is-my-license-only-for-1-year)
@@ -25,7 +25,7 @@ To check whether the customer has a multi-year subscription:
 
 1. Navigate to Saleforce and locate the relevant opportunity which generally has a `Close date` in the recent past
 1. Click on the opportunity → search for `quotes` → click on the most recent quote
-1. Search for `Renewal Term`, this show the subscription term for the quote in months
+1. Search for `Renewal Term`, which shows the subscription term for the quote in months
 
 ### Handling the request
 

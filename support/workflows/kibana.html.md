@@ -42,6 +42,8 @@ Along with the index, knowing *when* a specific error or event ocurred that you'
 
 #### Fields and Filters
 
+**Note:** As of March 2022, using `Filters` is the recommended way for searching Kibana. Using the general search box is discouraged as it may generate several errors in the form of `X of Y Shards Failed`. See [Infra Issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/15207).
+
 Each log entry is comprised of a number of `Fields` in which the specific information about the entry is displayed. Knowing which fields to apply to your search results and how to filter for them is just as important as knowing *where* and *when* to search. The most important fields are:
 
 - `json.method`
@@ -101,12 +103,21 @@ In some cases a Let's Encrypt Certificate will fail to be issued for one or more
 
 #### Deleted User
 
-Kibana can be used to find out if and when an account on GitLab.com was deleted if it ocurred within the last seven days at the time of searching. To find the log entry:
+Kibana can be used to find out if and when an account on GitLab.com was deleted if it occurred within the last seven days at the time of searching.
 
-1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
+- Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
+
+If an account was self-deleted, try searching with these filters:
+
 1. Add a positive filter on `json.username` for the username of the user, if you have it.
 1. Add a positive filter on `json.controller` for `RegistrationsController`.
-1. Observe the results. There should be only one result if the account that was filtered for was deleted within the specified timeframe.
+
+If an account was deleted by an admin, try searching with these filters:
+
+1. Add a positive filter on `json.params.value` for the username of the user.
+1. Add a positive filter on `json.method` for `DELETE`.
+
+Observe the results. There should be only one result if the account that was filtered for was deleted within the specified timeframe.
 
 #### Disable Two Factor Authentication
 
@@ -182,7 +193,7 @@ See the [500 errors workflow](500_errors.html) for more information on searching
 
 Not sure what to look for? Consider using a Self-Managed instance to replicate the bug/action you're investigating. This will allow you to confirm whether or not an issue is specific to GitLab.com, while also providing easily accessible logs to reference while searching through Kibana.
 
-Support Engineers looking to configure a Self-Managed instance should review our [resources for development](/handbook/engineering/#resources) for a list of available (company provided) hosting options.
+Support Engineers looking to configure a Self-Managed instance should review our [Sandbox Cloud page](/handbook/infrastructure-standards/realms/sandbox/) for a list of available (company provided) hosting options.
 
 #### Filter by IP Range
 
@@ -219,7 +230,7 @@ Here are some tips for searching for import errors in Kibana:
   - json.severity: (not `INFO`)
   - json.job_status: (not `done`)
   - json.class is `RepositoryImportWorker`
-- Use the pubsub-rails-inf-gprd index pattern (Rails logs) and try to narrow it down by adding filters  
+- Use the pubsub-rails-inf-gprd index pattern (Rails logs) and try to narrow it down by adding filters
   - json.controller: `Projects::ImportsController` with error status
   - json.path: `path/to/project`
 - In Sentry, search/look for: `Projects::ImportService::Error` ; make sure to remove the `is:unresolved` filter.

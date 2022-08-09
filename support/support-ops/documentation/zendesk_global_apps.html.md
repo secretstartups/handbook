@@ -117,23 +117,25 @@ Within Unbabel
 #### Configuring Unbabel in Zendesk
 
 Every Agent profile in Zendesk needs to be individually configured so that only
-tickets submitted in the supported languages are translated. To do this:
+tickets submitted in the supported languages are translated. 
 
-* Open a ticket in Zendesk and navigate to and open the Apps sidebar.
-* Scroll to the Unbabel app and click on Settings.
+To do this you can use [a javascript snippet](https://gitlab.com/gitlab-com/support/toolbox/snippets/snippets/1971515) created internally. 
 
-  ![App](/images/support/Unbabel_App.png)
+You can also do the configuration manually by following these steps.
 
-  ![Settings](/images/support/Unbabel_Settings.png)
-* Click on Languages and check the box on all languages in the list _except_
-  for those languages supported by GitLab in tickets.
+1. Open any existing ticket in Zendesk and navigate to and open the Apps sidebar.
+2. Scroll to the Unbabel app and click on Settings.
 
-  ![Languages](/images/support/Unbabel_Languages.png)
+  ![App](/images/support/Unbabel_App_New.png)
 
-You can also use
-[a javascript snippet](https://gitlab.com/gitlab-com/support/toolbox/snippets/snippets/1971515)
-created internally to automatically uncheck the languages we support, and check
-the others.
+  ![Settings](/images/support/Unbabel_Settings_New.png)
+
+3. Add all the languages _except_ those supported by GitLab to the "Languages you speak" list.
+
+  ![Languages](/images/support/Unbabel_Languages_New.png)
+
+4. When you are finished, click the Save button. 
+
 
 #### Replying with a Translation
 
@@ -382,3 +384,27 @@ App information:
 * Located in the ticket sidebar
 * This application was developed in-house and can be found
   [SFDC Tool project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/sfdc_tool).
+
+### Mechanizer
+
+This app incorporates [Mechanizer](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html)
+into Zendesk.
+
+App information:
+
+* Located in the ticket sidebar
+* This application was developed in-house and can be found at
+  [Mechanizer project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/mechanizer/)
+
+### Out of Office
+
+This will enable an agent to mark when they are out of office in Zendesk, which
+then updates tickets and makes it visible in the views.
+
+Managers are also able to do this for their reports.
+
+App information:
+
+* Located in the navbar
+* This application was developed in-house and can be found
+  [Out of Office project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/out-of-office/)

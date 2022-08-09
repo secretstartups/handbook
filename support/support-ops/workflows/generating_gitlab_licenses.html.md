@@ -43,7 +43,6 @@ graph TD;
   F--Yes-->H;
   F--No-->G;
   H-->I;
-  I-->J;
   A(GitLab team member opens an AR issue)
   B(GitLab team member ping Support Ops)
   C(Support Ops reviews the AR)
@@ -52,8 +51,7 @@ graph TD;
   F(Is the reason acceptable?)
   G(Support Ops communicates why it is not acceptable and denies the request)
   H(Support Ops creates the license)
-  I(Support Ops emails license key to requester)
-  J(Support Ops updates and closes the AR)
+  I(Support Ops updates and closes the AR)
 ```
 
 ### Acceptable parameters
@@ -91,29 +89,10 @@ Support Operations Manager.
 1. From there, locate the license on the
    [CustomersDot license list page](https://customers.gitlab.com/admin/license)
    and copy the entire `License key` section.
-1. From there, send an email to the GitLab team member (see below).
-1. Update the Access Request letting them know you emailed them the license
-   key.
+1. Update the Access Request letting them know you generated them the license
+   key and they have received an email from renewals@gitlab.com.
 1. Close out the issue.
 
-### Email message to use
-
-> Greetings!
-> 
-> GitLab Support Operations has generated a license for you based off your
-> recent request. The following is the license key to enter in the GitLab
-> instance:
-> 
-> PASTE_LICENSE_KEY_HERE
-> 
-> Should you encounter any issues using this license, please contact us via
-> #support_operations in Slack!
-> 
-> Note that this is a manually generated license and does *not* have a cloud activation key. Instructions for applying it are in the [documentation for activating GitLab EE with a license file](https://docs.gitlab.com/ee/user/admin_area/license.html#activate-gitlab-ee-with-a-license-file).
->
-> Have a good one!
-> 
-> GitLab Support operations
 
 ### Applying the license
 

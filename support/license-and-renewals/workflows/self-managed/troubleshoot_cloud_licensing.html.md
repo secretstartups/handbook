@@ -15,12 +15,12 @@ Customer was opted into cloud licensing because of a [bug](https://gitlab.com/gi
 
 ### Troubleshooting workflow
 
-1. Determine whether the customer shoud be on cloud licensing
+1. Determine whether the customer should be on cloud licensing
 1. **If no**, proceed with:
     1. Removing the current cloud license by asking the customer to run these commands via [rails console](https://docs.gitlab.com/ee/administration/operations/rails_console.html): `l = License.find 123` and then `l.destroy`. You need to provide the license number for the first command. You can find this number in the URL of the cloud license in the customersdot license menu (example: https://customers.gitlab.com/admin/license/123123123)
     1. Once the license has been removed, the customer should have the ability to upload a standard license file on their instance. 
 1. **If yes**, proceed with:
-    1. [Switching the new subscription to cloud license features](how-to-switch-a-subscription-to-cloud-license-features)
+    1. [Switching the new subscription to cloud license features](#how-to-switch-a-subscription-to-cloud-license-features)
     1. Removing the current cloud license by asking the customer to run these commands via [rails console](https://docs.gitlab.com/ee/administration/operations/rails_console.html): `l = License.find 123` and then `l.destroy`. You need to provide the license number for the first command. You can find this number in the URL of the cloud license in the customersdot license menu (example: https://customers.gitlab.com/admin/license/123123123)
     1. Once the license has been removed, the customer should be able to input the new activation code that was generated and emailed to them when you switched the subscription to cloud features.
     1. [See example ticket where customer did want to be on cloud licensing](https://gitlab.zendesk.com/agent/tickets/236163)
@@ -37,3 +37,17 @@ Customer was opted into cloud licensing because of a [bug](https://gitlab.com/gi
 ## General Tips
 
 1. You can resend an activation code via email by clicking on the envelope button on the customer's `Cloud Activations` tab.
+
+## Tracking the impact of Strict Cloud Licensing on customers
+
+As part of embracing the GitLab value of iteration, we plan on monitoring the impact that Strict Cloud Licensing will have on the GitLab customer base. With this in mind, moving forward we request that L&R support engineers add the applicable tags listed below to every Zendesk ticket whenever a customer contacts support requesting an offline/legacy license file.
+
+
+| Tag      | Reason |
+| ----------- | ----------- |
+| cloud-could-selfserve      | Customer has access to Customer Portal and could have self-served, for example customers who have an EoA, multi-year or a ramp-up subscription     |
+| cloud-could-not-selfserve   | Customer does not have access to the Customer Portal and therefore support had to provide a legacy/offline license file        |
+| cloud-pre-14.1 | Customer requires legacy/offline license because they are not able to upgrade to 14.1+ |
+| cloud-airgapped | Customer needs legacy/offline license because they must keep their instance offline |
+
+

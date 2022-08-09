@@ -17,6 +17,10 @@ to the instance in order to "extend" a trial.
 Requests for Grace period extensions, Temporary keys, Temporary extensions, Temporary licenses, 
 and Trial extensions all require generating of a Trial License.
 
+Sales will often request through a [Zendesk Ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) that we extend the duration of Self-Managed trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User gitlab_support@example.com, with the submitter cc'd on the ticket. The following workflow should be followed to service them.
+
+If any fields when opening the ticket were filled out incorrectly, send a public reply in the ticket asking the submitter to supply the missing information.
+
 > **NOTE**: Non-trial licenses are required to match an existing subscription and these licenses 
 generally have a span of 1 year. There is an 
 [ongoing discussion](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3817) on
@@ -29,18 +33,38 @@ We are allowed to issue trial licenses because they:
 - Don't affect historical data tracking
 - Aren't tied to any subscriptions for revenue purposes
 
+### Approval required for trials longer than 30 days
+
 For trial license requests where the `Expiry Date` is more than 30 calendar days from the Start date, a **Sales Manager** approval is required. When asking for approval, also consider the time between waiting for approval and the license period.
    - For example, if the requested trial license is for 33 days, and the wait time for approval could be up to 5 days. By the time the approval is given, perhaps the request doesn't need an Approval in the first place.
    - Ask the requestor to CC a manager for approval and set the ticket status to `On Hold`.
-> If you notice several recent requests for temporary keys, consult with a support manager on how to proceed.
+> If you notice several recent requests for temporary keys to the same customer, consult with a support manager on how to proceed.
 
-To create a new trial license, follow the steps in the
-[creating a license key workflow](creating_licenses.html) with these points in mind:
+### How to create a trial license
 
-1. It is fine to set the `Users in license` number to what is requested.
-1. Set `Starts at` to the current date.
-1. Set `Expires at` to the `Extend the date to` value.
-1. Ensure that you have checked the **trial** checkbox when creating the license. 
-1. Ensure that the `Zuora subscription ID` and `Zuora subscription name` fields are empty.
+To create a new trial license, follow these steps:
 
+
+
+1. Open the expired or soon to expire license and select `Duplicate License`
+1. Set the `License type` to `Legacy License`.
+1. Delete the contents of `Customer` field if present.
+1. Delete the contents of `Zuora subscription ID` field if present.
+1. Set the `Users count` number to what is requested.
+1. Delete the contents of `Previous users count` field if present.
+1. Delete the contents of `Trueup count` field if present.
+1. Set the `Plan code` to what is requested.
+1. Ensure the `Trial` checkbox is checked. 
+1. Set `Starts at` to today's date.
+1. Set `Expires at` to the requested date. See note above for [required approvals](#approval-required-for-trials-longer-than-30-days).
+1. Set `Notes` to the ticket or issue URL.
+1. Click `Save`. The license will be automatically sent to the email specified in the `Email` field.
+
+If you need to [send a trial license to another contact](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email.html#overview), 
+use the `Forward license email` tab after saving the new license.
+
+### Emergency Weekend Licenses
+
+If you're on call and you need a license generated and you don't have access to the customers dot interface use the [emergency license generator](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/license_creation_emergency.html)
+The customer email is where the license will be sent and the User count is how many users the license will have. All of the licenses generated through this method will have 10 days.
 

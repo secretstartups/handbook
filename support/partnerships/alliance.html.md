@@ -21,9 +21,12 @@ using only
 Tickets submitted using any other form will not route correctly, which will
 likely result in delays.
 
+
 **Note to Support**: Pay close attention to the organization notes an Alliance
 Partner has on their account. These often provide critical information about how
 to provide the very best support possible.
+
+[GitLab provides no support for NFR software issued to Alliance Partners.](https://about.gitlab.com/partners/technology-partners/integrate/#-additional-resources--support)
 
 ## File uploads
 

@@ -59,14 +59,6 @@ In collaboration with Sales, Fulfillment and other teams we aim to improve the c
 - reporting and fixing bugs
 - meeting our Service Level Objectives to external and internal customers
 
-### Monthly reports
-
-We publish monthly reports to help track and improve our work in this area. Links to reports:
-
-- [Support L&R report for 2021-05](https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues/46)
-- [Support L&R report for 2021-04](https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues/45)
-- [Support L&R report for 2021-03](https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues/35)
-
 ---
 
 ## Information for Support Engineers focusing on L&R
@@ -153,8 +145,8 @@ When creating an individual/bulk access request, use the following information:
 
 * [license decoder](https://gitlab.com/gitlab-com/support/toolbox/license-decoder)
   -- Ruby script to decode `.gitlab-license` files.
-* [slic - Subscription and License Information Copier](https://gitlab.com/rverschoor/slic/)
-  -- browser extension to copy and format CustomerDot and LicenseDot information
+* [slic - Subscription and License Information Copier](https://gitlab.com/rverschoor/punk/-/tree/main/slic)
+  -- browser userscript to copy and format CustomerDot information
   into internal notes.
 
 ### Teams you'll be working with
@@ -202,6 +194,7 @@ The queue should not be used for the following:
   [education program](https://about.gitlab.com/solutions/education/)
 * Requests related to the
   [open source program](https://about.gitlab.com/solutions/open-source/join/)
+  
 ## Useful links
 
 ### Product documentation
@@ -227,8 +220,7 @@ The queue should not be used for the following:
 
 ### Issue trackers
 
-| Issue tracker | Use Case |
-| ------------- | -------- |
-| [GitLab Issue Tracker](https://gitlab.com/gitlab-org/gitlab/issues) | Issues related to self-managed or GitLab.com functionality or backend processing  |
-| [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) | Issue is caused specifically by something within the CustomersDot    |
-| [LicenseDot](https://gitlab.com/gitlab-org/license-gitlab-com/issues) | Issue is affecting self-managed license generation or generated licenses |
+| Issue tracker | Use Case                                                                                                                           |
+| ------------- |------------------------------------------------------------------------------------------------------------------------------------|
+| [GitLab Issue Tracker](https://gitlab.com/gitlab-org/gitlab/issues) | Issues related to self-managed or GitLab.com functionality or backend processing                                                   |
+| [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) | Issue is caused specifically by something within the CustomersDot or affecting self-managed license generation, generated licenses |

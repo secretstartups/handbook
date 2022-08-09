@@ -32,21 +32,21 @@ an ongoing basis.
 *If you're missing from this list (and want to be on it) please let the Support
 Managers know in `#spt_managers`.*
 
-| Section          | Group               | Group Contact       | Support Liaison       | Frequency                         |
-|:----------------:|:-------------------:|:-------------------:|:---------------------:|:---------------------------------:|
-| Finance          | Accounts            | ??                  | TBD                   | N/A |
-| Finance          | Budget              | Chase Wright        | Tom Cooney            | 1x Qtr on budget + once per month |
-| Legal            | Legal               | Robin Schulman      | Lyle Kozloff          | N/A |
-| PeopleOps        | After-hire care     | Jessica Mitchell    | Tom Cooney            | every 2 weeks |
-| PeopleOps        | Talent Acquisition          | Cyndi Walsh         | Tom Cooney            | weekly |
-| Performance      | Performance         | Stan Hu             | Lee Matos             | N/A |
-| Production       | .com Infrastructure | Dave Smith          | Vlad Stoianovici      | every 2 weeks |
-| Marketing        | Community Relations | David Planella      | Greg Myers            | weekly team meeting |
-| Marketing        | Open Source Prog.   | Nuritzi Sanchez     | Greg Myers            | weekly team meeting |
-| Customer Success | Customer Success    | Kristen Lawrence    | TBD                   | weekly on Fri join EMEA scrum |
-| Sales            | Sales               | TBD                 | Mike Dunninger        | TBD |
-| Security         | Abuse               | Roger Ostrander     | Greg Myers            | N/A |
-| Security         | Security Operations | Jan Urbanc          | Brie Carranza         | N/A |
+| Section          | Group               | Group Contact       | Support Liaison            | Frequency                         |
+|:----------------:|:-------------------:|:-------------------:|:--------------------------:|:---------------------------------:|
+| Finance          | Accounts            | ??                  | TBD                        | N/A |
+| Finance          | Budget              | Chase Wright        | Tom Cooney                 | 1x Qtr on budget + once per month |
+| Legal            | Legal               | Robin Schulman      | Lyle Kozloff               | N/A |
+| PeopleOps        | After-hire care     | Jessica Mitchell    | Tom Cooney                 | every 2 weeks |
+| PeopleOps        | Talent Acquisition  | Cyndi Walsh         | Tom Cooney                 | weekly |
+| Performance      | Performance         | Stan Hu             | Lee Matos                  | N/A |
+| Production       | .com Infrastructure | Dave Smith          | Vlad Stoianovici           | every 2 weeks |
+| Marketing        | Community Relations | John Coghlan        | TBD                        | weekly team meeting |
+| Marketing        | Open Source Prog.   | Bryan Behrenshausen | Greg Myers & Andrew Conrad | weekly team meeting |
+| Customer Success | Customer Success    | Kristen Lawrence    | TBD                        | weekly on Fri join EMEA scrum |
+| Sales            | Sales               | TBD                 | Mike Dunninger             | TBD |
+| Security         | Abuse               | Roger Ostrander     | Greg Myers                 | N/A |
+| Security         | Security Operations | Jan Urbanc          | Brie Carranza              | N/A |
 
 If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#spt_managers`.
 
@@ -54,15 +54,18 @@ If you're on the Support Team and have something you'd like to surface, or would
 
 ### Open Source Support Liaison
 
-The Open Source Support Liaison (OSS Liaison) assists GitLab's Open Source
-Partners with technical questions, problems, and needs.
+The Open Source Support Liaison (OSS Liaison) assists [GitLab's Open Source
+Partners](https://about.gitlab.com/solutions/open-source/partners/) with technical questions, problems, and needs.
 
-The OSS Liaison has three main duties - building rapport, providing assistance,
-and making connections.
+The OSS Liaison has three primary duties:
+
+1. building rapport,
+1. providing assistance, and
+1. making connections
 
 OSS Liaisons sit in on meetings and attend Q&A sessions with open source
 partners to build rapport, address technical questions, and nurture a thriving
-relationship. When Open Source partners are in need of technical support or
+relationship. When members of the [Open Source Partners program](https://about.gitlab.com/solutions/open-source/partners/) are in need of technical support or
 assistance with GitLab, an OSS Liaison serves as a point of contact on the
 Support team. As a point of contact, OSS Liaisons assist with basic technical
 support questions or escalate internally and find others to assist with more
@@ -74,4 +77,4 @@ Familiarity with open source concepts, licenses, and communities is recommended.
 
 If you're on the Support Team and would like to be an Open Source Support
 Liaison, post in `#spt_managers` and reach out to GitLab's Open Source Program
-Manager (`@nuritzi`).
+Manager (`@bbehr`).

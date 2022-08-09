@@ -27,6 +27,7 @@ Zendesk users are the people within Zendesk.
 * [Support APAC](https://gitlab.zendesk.com/groups/360002038360)
 * [Support EMEA](https://gitlab.zendesk.com/groups/360001979440)
 * [Support Ops](https://gitlab.zendesk.com/groups/360004215280)
+* [Partner Support](https://gitlab.zendesk.com/groups/4560424672028)
 
 ## Roles
 

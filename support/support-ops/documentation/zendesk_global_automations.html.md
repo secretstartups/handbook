@@ -42,7 +42,6 @@ managing Zendesk via the various GitLab projects, please review
 | [Status::Open::Reopen namesquatting tickets after 7 days](https://gitlab.zendesk.com/agent/admin/automations/94693587) | Reopens namesquatting tickets after 7 days |
 | [Status::Open::Reopen task tickets on due date](https://gitlab.zendesk.com/agent/admin/automations/360073590879) | Reopens task tickets at their due date |
 | [Status::Solve::Solve free tickets after 7 days pending](https://gitlab.zendesk.com/agent/admin/automations/360069143020) | Moves a free ticket to solved after 7 days of being consecutively pending |
-| [Status::Solve::Solve pending tickets after 20 days](https://gitlab.zendesk.com/agent/admin/automations/223598668) | Moves a ticket to solved after 20 days of being consecutively pending |
 | [Status::Close::Close solved tickets after 7 days](https://gitlab.zendesk.com/agent/admin/automations/39696333) | Moves a ticket to closed after 7 days of being consecutively solved |
 | [Ticket::Autoresponder::Reply as gitlab_support@example.com](https://gitlab.zendesk.com/agent/admin/automations/360073085279) |  Replies to tickets as a GitLab controlled end-user so SLA can be put back on a ticket |
 | [Notifications::Agent::Remind agent of on-hold ticket](https://gitlab.zendesk.com/agent/admin/automations/360080402734) | Sends an email about an on-hold ticket |
@@ -52,3 +51,6 @@ managing Zendesk via the various GitLab projects, please review
 | [Security::DMCA::Email vetted DMCA requests](https://gitlab.zendesk.com/agent/admin/automations/360055880793) | Emails vetted DMCA requests to the security team |
 | [Security::DMCA::Reopen on-hold DMCA requests](https://gitlab.zendesk.com/agent/admin/automations/360036581334) | Reopens on-hold DMCA tickets |
 | [SSAT::Survey::Send out survey](https://gitlab.zendesk.com/agent/admin/automations/46784293) | Sends out the SSAT survey after a ticket has been solved for one day |
+| [Notifications::Requester::Pending ticket followup notifications after 7 days](https://gitlab.zendesk.com/admin/objects-rules/rules/automations/360090034720) | Sends out a followup ticket notification to requester after 7 days in pending  |
+| [Status::Solve::Autosolve non-SSAT tickets after 14 days pending](https://gitlab.zendesk.com/admin/objects-rules/rules/automations/360090312779) | Moves a non-SSAT ticket to solved status after 14 days of being consecutively pending |
+| [Status::Solve::Autosolve SSAT tickets after 14 days pending](https://gitlab.zendesk.com/admin/objects-rules/rules/automations/360090312779) | Moves an SSAT ticket to solved status after 14 days of being consecutively pending |

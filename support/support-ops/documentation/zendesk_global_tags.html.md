@@ -30,7 +30,7 @@ important to those working within Zendesk:
 
 ## SLA Related Tags
 
-As a note, `basic` and `starter` are two different tags for the same plan/SLA.
+As a note, `basic`(deprecated) and `starter` are two different tags for the same plan/SLA.
 
 | Tag | What it does |
 |---|---|
@@ -65,10 +65,44 @@ As a note, `basic` and `starter` are two different tags for the same plan/SLA.
 | `select_partner` | Signifies the ticket is from an account labeled as Select Partner      |
 | `alliance_partner` | Signifies the ticket is from an account labeled as Alliance Partner    |
 
+## License and Renewals Internal Request Tags
+
+| Tag | What it is for |
+|---|---|
+| `lnr_internal_request` | Indicates the ticket is a L&R internal request |
+| `lnr_valid_request` | Indicates the L&R internal request was valid for submission |
+| `lnr_saas_subscription` | Indicates the L&R internal request is about a SaaS subscription  |
+| `lnr_saas_sub_extension` | Indicates the problem type is "Extend an (almost) expired subscription" |
+| `lnr_saas_sub_issue` | Indicates the problem type is "Investigate incorrect subscription info" |
+| `lnr_saas_nfr` | Indicates the problem type is "SaaS NFR license request" |
+| `lnr_billing_entity_change` | Indicates the problem type is "Billing Entity change" |
+| `lnr_saas_trial` | Indicates the L&R internal request is about a SaaS trial |
+| `lnr_saas_trial_extension` | Indicates the problem type is "Extend a SaaS trial" |
+| `lnr_saas_trial_edit` | Indicates the problem type is "Change existing SaaS trial plan" |
+| `lnr_sm_license` | Indicates the L&R internal request is about a self-managed license |
+| `lnr_sm_license_extension` | Indicates the problem type is "Extend an (almost) expired subscription" |
+| `lnr_sm_license_receive_error` | Indicates the problem type is "Customer did not receive the license" |
+| `lnr_sm_license_new_contact` | Indicates the problem type is "Customer needs the license resent to a new person" |
+| `lnr_multiyear_license` | Indicates the problem type is "Multi-year license needs to be generated" |
+| `lnr_sm_nfr` | Indicates the problem type is "Self-managed NFR license request" |
+| `lnr_sm_trial` | Indicates the L&R internal request is about a self-managed trial |
+| `lnr_sm_trial_new` | Indicates the problem type is "Problems starting a new Self-managed trial" |
+| `lnr_sm_trial_edit` | Indicates the problem type is "Modify an existing Self-managed trial" |
+| `lnr_sm_trial_extension` | Indicates the problem type is "Extend an existing Self-managed trial" |
+| `lnr_order_management` | Indicates the problem type is "Order Management" |
+| `lnr_hackerone` | Indicates the problem type is "Hacker One Reporter License" |
+| `lnr_community_license` | Indicates the problem type is "Wider Community License" |
+| `lnr_request_other` | Indicates the problem type is "Other (nothing else fits the request)" |
+| `lnr_reason_more_time_needed` | To indicate the extension reason is "More time needed for POC" |
+| `lnr_reason_negotiations_underway` | To indicate the extension reason is "Contract negotiations still underway" |
+| `lnr_reason_payment_delays` | To indicate the extension reason is "Delay in customer's payment process" |
+| `lnr_reason_true_up_problems` | To indicate the extension reason is "True-up problem" |
+
 ## Automation Skipping Related Tags
 
 | Tag | What it does |
 |---|---|
+| `pending_followup_notification` | This is applied by an [automation](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/automations) to followup on pending tickets. Adding this tag skips that automation. |
 | `skip_2fa_automation` | Tell Zendesk to not run any 2FA automations/autoresponders |
 | `skip_autoassign` | Tell Zendesk to not auto-assign the ticket |
 | `skip_autoclose` | Tell Zendesk to not auto-close the ticket |

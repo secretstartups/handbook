@@ -29,6 +29,7 @@ Anyone in Support Engineering can act as a mentor, but this page is specifically
    - They are slightly different from pairing sessions in that they focus solely on helping SE's determine the next best step(s) to progress a ticket, such as scheduling a pairing session with a particular subject matter expert in the team, or offering guidance on who to connect with based on [DevOps Stage categories](https://about.gitlab.com/handbook/product/categories/#devops-stages).
    - Currently, AMER holds one help session per day on a rotation such that each Senior leads one session per week. 
    - This gives all engineers an opportunity to obtain help more frequently. 
+1. Senior+ Engineers can assist others in fulfilling their [responsibilities](https://about.gitlab.com/handbook/support/support-engineer-responsibilities.html) (such as meeting the [Ticket baseline](https://about.gitlab.com/handbook/support/support-engineer-responsibilities.html#ticket-baseline) in the effort to [Meet our FRT SLA](https://about.gitlab.com/handbook/support/workflows/meeting-frt-sla.html)) through mentorship on technical issues, time management, etc.
 
 We've started with these simple guidelines to help outline ways you can connect with others.
 
@@ -43,7 +44,7 @@ As a mentor it's important to remember:
 Beyond just Pairing, Senior+ Engineers can consider more longer-form  structured mentorship. We currently advise aiming for a 6 week long program with a concrete goal for the close of the mentorship program to help keep both parties focused and moving forward.
 ### Example Mentoring Program
 
-The following is an outline of a six-week mentoring program on log parsing with `jq` and intrepreting `strace`, with one-hour meetings held weekly.  Example projets include creating a runbook and adding new pages to our troubleshooting documentation.
+The following is an outline of a six-week mentoring program on log parsing with `jq` and interpreting `strace`, with one-hour meetings held weekly.  Example projects include creating a runbook and adding new pages to our troubleshooting documentation.
 
 - Week 1:
    - Intro: What does the mentee want from this, what can the mentor offer

@@ -55,25 +55,33 @@ If ownership is verified, then:
 
 Example cases include:
 
-1. Swapping secondary email with primary email due to primary email being unconfirmed, non-existent, or similar.
+1. Swapping secondary email with primary email due to primary email being unconfirmed or non-existent. When swapping the primary and secondary email address on file, a paid plan is not required as long as the email addresses are confirmed.
 1. Removing an identity tied to the user account. The identity should also be verified in these cases.
 
 ## Releasing an Email Address
 
 Similar to **Account Access Requests**, if a user has lost access to their account and the account shows **no activity** in its history, then we can consider releasing the email address for the user to create a new account with.
 
-For unverified/unconfirmed accounts, please see the [confirmation emails](confirmation_emails.html) workflow.
+We can also use this workflow when a user cannot add an email address to their account because it is on a different account _and_ is unverified. This often happens if a user has accidentally created an account using one of the single sign-on registration methods or cannot recall creating the account.
+
+For more information on unverified/unconfirmed accounts, please see the [confirmation emails](confirmation_emails.html) workflow.
 
 Only use this process if the account shows **no** activity. If an account shows any activity tied to any type of contribution (such as snippets, or comments in a project or group), use the [Account Ownership Verification](account_verification.html) workflow instead.
 
 To release an email address for an inactive account:
 
-1. User should be able to verify the username and email address tied to the account.
-1. Check the activity level of the account. Verify that the account shows **no activity** and is not a member of any projects or groups.
-1. [Confirm permission for the changes](#asking-permission).
-1. Update the email address with `+release`. For example, if the email address is `johndoe@example.com`, then update the email address on the account to `johndoe+release@example.com`.
+1. Confirm that the email address the user is trying to add exists on a different account.
+1. Verify that the account shows **no activity** and is not a member of any projects or groups. Additionally, confirm that the following are true:
+    - The user is unverified
+    - The user has never logged in
+    - The user has no data (No groups or projects)
+    1. If the account **is** verified or data exists, inform the original requestor that the email is **not eligible** for release. They can [request an account deletion](/handbook/support/workflows/personal_data_access_account_deletion.html#zendesk) if necessary.
+1. Add the new email address as a CC to the ticket and ask the user to respond to the ticket from the email address they wish to add.
+1. Once the user has replied to confirm they own the email address, update the email address with `+release`. For example, if the email address is `johndoe@example.com`, then update the email address on the account to `johndoe+release@example.com`.
     - This can be done with Admin access or [via Chatops](./chatops.html#Update-a-Users-Primary-Email)
 1. Add an [Admin Note](admin_note.html) to the user's account.
+1. Advise the customer to add the newly released email address again to their primary account.
+1. Consider commenting on [this feature request](https://gitlab.com/gitlab-org/gitlab/-/issues/352514)
 
 ## How is permission given for troubleshooting?
 
@@ -119,3 +127,5 @@ Some examples:
 Impersonating a user is considered performing an action as another account, impersonating will update the **Current sign-in IP** and **Current sign-in at** for the impersonated user.
 
 When impersonating a user, the administrator account will receive a slack message from the **SIRTbot** app asking to confirm if the impersonation was a legit action.
+
+The action of impersonation is in accordance with our [Confidentiality Terms of the Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#7-confidentiality).  

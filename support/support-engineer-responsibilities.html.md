@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Engineer Responsibilities
-description: The motto of this page is to help us know how to carry out our responsibilities as a Support Engineer.
+description: A detailed listing of the responsibilities of Support Engineers in GitLab
 
 ---
 
@@ -15,12 +15,16 @@ description: The motto of this page is to help us know how to carry out our resp
 
 1. This page is an extension of the [Support Engineer job family](https://about.gitlab.com/job-families/engineering/support-engineer/) page.
 1. This page should reflect the [Support Career Framework](/handbook/engineering/career-development/matrix/engineering/support/).
-1. The **aim** of this page is to **help you know how to carry out your responsibilities as a Support Engineer**.
-1. **You're not expected to work on all areas every week**. Each area has a 'frequency' suggestion in parentheses after the heading title. This is to help give you an idea of how often you will work in that area. Your manager will guide you to take part in the right areas at the right times as you gain experience.
-1. The '**What does success look like?**' sections help encourage consistent contributions across our global team. They're not 'hard targets' that must be met. They're to help you know how and where to contribute to succeed in your role.
+1. The **aim** of this page is to **help you to know what your responsibilities as a
+   Support Engineer are**.
+1. **You're not expected to work on all areas every week**. Some of the areas
+   have a frequency suggestion in parentheses after the heading title. This is
+   to give you an idea of how often you might work in that area. Your manager
+   will help you to know where to focus your efforts on a regular basis.
+1. The '**What does success look like?**' subsections help encourage consistent contributions across our global team. They're not hard targets that must be met. They're to help you know how and where to contribute to succeed in your role.
 1. **Performance measurement for annual reviews and promotions are separate activities to the core responsibilities described here.**
      1. The People Group is responsible for the [GitLab annual review process](/handbook/people-group/360-feedback/).
-     1. Read about [Support Engineer Career Path](support-engineer-career-path.html) for further resources on promotions, and understanding the role at different levels.
+     1. Read about [Support Engineer Career Path](/handbook/support/support-engineer-career-path.html) for further resources on promotions, and understanding the role at different levels.
 1. Support Engineering has [team level performance indicators](/handbook/support/#how-we-measure-our-performance). Successfully carrying out the responsibilities on this page will, directly or indirectly, help improve our KPIs. All team-level KPIs are, in turn, related to GitLab's company-level [Objectives and Key Results](https://about.gitlab.com/company/okrs/).
 
 ## Support Engineer Areas of Focus
@@ -36,110 +40,197 @@ During onboarding, your initial area of focus will be made clear.
 
 When reading this page, keep in mind your current area of focus. This will help you locate the correct workflows and roles.
 
-## 1. Solve Support tickets (Daily)
+## Core responsibility of a Support Engineer
 
-The core responsibility of a GitLab Support Engineer is to resolve customer problems by solving support tickets on a daily basis. On average you'll spend more time focusing on this than other areas.
+The core responsibility of a GitLab Support Engineer is to deliver an excellent
+support experience to our customers on a daily basis by working with them to
+solve the problems and answer the questions that they present to us in support
+tickets.
 
-| Level        | How it might look |
-| ------------ | ----------------- |
-| Intermediate | The focus of this responsibility is to solve tickets that are assigned to you. |
-| Senior       | The focus of this responsibility is to solve and help others solve tickets. |
+This responsibility can be broken down into five key components:
+1. [Be appropriately available](#1-be-appropriately-available)
+1. [Work with your group to meet our FRT SLA target](#2-work-with-your-group-to-meet-our-frt-sla-target)
+1. [Maintain good progress through to resolution on all of your assigned tickets](#3-maintain-good-progress-through-to-resolution-on-all-of-your-assigned-tickets)
+1. [Manage customer expectations and communicate thoroughly through tickets and calls](#4-manage-customer-expectations-and-communicate-thoroughly-through-tickets-and-calls)
+1. [Help others in your group to maintain progress on their tickets](#5-help-others-in-your-group-to-maintain-progress-on-their-tickets)
 
-See [Working On Tickets](/handbook/support/workflows/working-on-tickets.html) for how to do this.
+As you read through the components, keep in mind that the focus of an
+Intermediate Support Engineer differs from that of a Senior
+Support Engineer:
+
+- Intermediate: Focus is on managing and solving their assigned tickets
+- Senior: Although managing and solving their own assigned tickets remains
+  important, focus is on helping Intermediate Support Engineers to solve their
+  assigned tickets both by assisting directly on tickets (pairing, internal
+  notes, etc.) and by delivering training (mentoring, classes, videos, etc.).
+
+### 1. Be appropriately available
+
+As a customer support team, we are responsible for being available to support
+our customers according to the terms of their contract with us. Although
+[asynchronous work and communication](/handbook/values/#bias-towards-asynchronous-communication)
+are preferred within GitLab overall, in Support Engineering there is always
+a business need to have enough people available at any given moment to deliver
+support. Therefore it is each Support Engineer's responsibility to coordinate
+their work schedule with their manager as well as to coordinate day-to-day
+availability for ticket work with their group.
+
+### 2. Work with your group to meet our FRT SLA target
+
+**Our goal, as stated on the
+[Support Performance Indicators page](/handbook/support/performance-indicators/#service-level-agreement-sla),
+is to provide a substantive (meaningful, helpful) first response within the time
+period specified by the
+[Service Level Agreement](https://about.gitlab.com/support/#gitlab-support-service-levels)
+we have with our customers on at least 95% of Priority Support tickets.**
+
+During each working day, each Support Engineer should work to help their group,
+and so all of Support, to meet that goal. How?
+
+1. Your group may have defined its own processes related to FRT. If so, please
+   follow those. If not, then expect that each person in the group, including
+   you, will be monitoring the group's view throughout each day, taking tickets
+   as they can, and calling out to the rest of the group when there are new
+   tickets that others could take.
+1. See our [Working on Tickets page](/handbook/support/workflows/working-on-tickets.html) for
+   guidance on finding and selecting tickets on which to work, assigning
+   tickets, and providing a first response.
+1. Watch your group's view for tickets showing up in the `Needs org` section
+   and process them right away if you can. Until those get
+   [processed](#processing-needs-org-tickets-triaging), we can't begin to help
+   the customers who submitted them.
+   If you are a Senior Support Engineer, put a higher priority on helping others
+   in your group to make a first response, than on taking tickets of your own.
+   _Please note that this section is about helping your own group. As can be seen
+   in [Prioritizing work](/handbook/support/support-global-groups/#prioritizing-work), all SEs
+   are encourage to help people in any group._
+
+#### Processing 'Needs org' tickets (triaging)
+
+Everyone is responsible for [Triaging tickets](/handbook/support/workflows/ticket_triage.html) to make sure they have:
+
+1. [An associated organization](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html)
+1. The correct ticket form (such as `SaaS`, if they're asking for
+   GitLab.com support).
+
+   *NOTE: A form change results in an auto-reply for tickets that don't have an
+    organization associated yet. Hence, it is recommended to associate the user
+    with the correct organization **first**. Then change the form to the most
+    relevant form type and fill in additional metadata where possible.*
+1. [The correct priority](/handbook/support/workflows/setting_ticket_priority.html#setting-ticket-priority)
+1. The correct 'Problem Type'
+
+### 3. Maintain good progress through to resolution on all of your assigned tickets
+
+This is really the heart of what Support Engineers do, and succeeding here
+requires a balanced application of technical and nontechnical skills. Support
+Engineers should always be working to enhance their skills in both areas, not
+only through formalized training (see the
+[Support Training project](https://gitlab.com/gitlab-com/support/support-training)),
+but also through pairing with others, taking challenging tickets, etc.
+
+Here are a few tips for maintaining good progress:
+
+1. Start your work on each ticket with a clear restatement of the problem as
+   you understand it
+1. If the customer brings up new problems and questions, let them know those
+   will need to be addressed in additional tickets and that your focus will
+   remain on the original problem or question
+1. As soon as you're unclear on what your next steps should be, seek help.
+   See our [How to get help](/handbook/support/workflows/how-to-get-help.html) page for
+   details
+1. If you are unsure of what message to deliver to the customer, or how to
+   word the message to achieve a positive impact, seek help in the
+   [#spt_how-do-i-say](https://gitlab.slack.com/archives/C01AQRPQ58C) Slack
+   channel
+1. Ensure that you update each ticket, and therefore each customer, no later
+   than the due date you've set with them. To succeed in this:
+   1. Keep your entire workload in mind as you set your action plan with the
+      customer so that you can set a reasonable due date (and time) for your
+      next update
+   1. If you haven't completed the intended work by update time, let the
+      customer know what progress you've made and then set a new update time
+
+### 4. Manage customer expectations and communicate thoroughly through tickets and calls
+
+The [Customer Service Skills module](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Customer%20Service%20Skills),
+which is included in the onboarding for all Support Engineers, is our best
+source of training and information for this topic. If you onboarded before this
+module existed, please familiarize yourself with its contents, either by going
+through the entire module or by selecting and viewing videos
+that address topics of interest to you. You might also want to grab the
+[Ticket Management Quick Reference Guide](https://docs.google.com/document/d/1O9ZzUCJxnuE42ssJ-pir7QK16Vucja6pKk321LBzyyo)
+from that module. Here's a quick reference to the quick reference guide:
+- Understand the customer's real needs
+- When you can't do what the customer wants, find what you **can** do to help
+  them
+- Keep the customer informed at all times about what you're doing and why
+- With every interaction, clearly communicate the action plan including the
+  due date and time for the next update from you
+- Set, manage and reset expectations as things change
+
+Although most of the time Support Engineers communicate with customers
+asynchronously (through support tickets), it's important to make use of
+synchronous communications, Zoom calls, whenever the situation calls for it,
+such as:
+
+1. You're having trouble getting a clear understanding of the problem or request
+   from the communications in the ticket
+1. You believe the customer is not understanding your requests of them
+1. The customer seems very anxious, frustrated, upset, or confused
+1. The customer repeatedly asks for a call
+1. Live troubleshooting and discussion are 
+   the best way to make progress toward resolution
+
+See the [Customer Calls page](/handbook/support/workflows/customer_calls.html)
+for our recommended practices and workflows for arranging, conducting and
+managing calls.
+
+### 5. Help others in your group to maintain progress on their tickets
+
+Collaboration is one of GitLab's values, and helping others with their tickets
+offers you a daily opportunity to live that value. When all higher priority
+items are under control (see
+[Prioritizing work](/handbook/support/support-global-groups/#prioritizing-work)),
+please find tickets in your group's view. See the
+[Support Global Groups FAQ page](/handbook/support/support-global-groups/sgg-faq.html) for topics
+about how to help other SEs.
+
 
 **What does success look like?**
 
-You have the freedom to choose what is best for the customer and GitLab. We value quality over quantity.
+Success will look like a healthy balance between solving your assigned support
+tickets and helping your group to be successful. For the group success, see the
+[criteria on the main SGG page](/handbook/support/support-global-groups/#success-of-their-group-means).
+For your individual ticket work, you and your manager should begin with the
+following two criteria, the first quantitative and the second qualitative:
 
-Ways to review and measure success include:
+1. Review a sampling of your tickets with your manager in your regular 1:1
+   meetings. Look not only for evidence of your technical skills in solving the
+   problem, but also at how you managed the ticket and worked with the customer.
+   In addition to producing evidence of your level of success, these reviews
+   should result in improvements to the quality of your ticket work, both
+   technical and nontechnical.
+2. Compare your weekly results against the three parts of the
+   [ticket baseline](#ticket-baseline):
 
-1. [Review at least two tickets with your manager in 1:1 calls](/handbook/support/workflows/working-on-tickets.html#1-weekly-ticket-review). This helps maintain and improve quality (technical, communication and collaboration).
-1. [Meet the ticket baseline](#ticket-baseline) for solved tickets, public replies, and internal notes for the type of tickets you are working on. This encourages the even distribution of ticket volume across the team.
+   #### Ticket baseline
 
-### Ticket baseline
+   The ticket baseline is useful in gauging a Support Engineer's
+volume of ticket work compared to that of the rest of the global Support Team.
+We use a **dynamic baseline** that is equal to 85% of the mean for each metric.
+[This dashboard](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/11700022)
+shows the current values.
 
-Once you've completed onboarding and have been helping out with tickets for two
-months or more, it's useful to gauge your contribution compared to the rest of
-the team.
+   - Consider the baseline metrics as minima to be achieved each week
+   - When you don't meet a baseline, you and your manager should discuss in your
+     next 1:1 meeting to determine what changes you should make, if any
+   - We believe in quality, not quantity. More is not necessarily better. GitLab
+     gives you freedom to choose and trusts you to use good judgment in
+     exercising that freedom as you make daily decisions about
+     [Prioritizing work](/handbook/support/support-global-groups/#prioritizing-work).
 
-We produce separate reports for SM/SaaS/L&R in recognition that the volume of
-tickets for each focus area is different. [This dashboard](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/11700022)
-contains the current values.
-
-#### How the baseline is calculated
-{: .no_toc}
-
-We establish a **dynamic baseline** that is 0.85 of the mean average for each
-metric.
-
-Here's an example week for folks working on self-managed tickets:
-
-**Number of self-managed Support Engineers:** 42
-
-|                            | Solved | Public Comments | Internal Notes |
-|----------------------------|--------|-----------------|----------------|
-| **Totals for last week**   | 300    | 1050            | 500            |
-| **Average per agent**      | 6      | 25              | 10             |
-| **Baseline (0.85 of avg)** | 5.1    | 20              | 8.5            |
-
-#### Notes
-{: .no_toc}
-
-1. Support Engineers that have completed onboarding are expected to achieve the
-   baseline as a minimum. Don't worry in a given week if you don't meet the
-   numbers. The baseline is a guide to help balance team contributions -- it is
-   not a method to penalize anyone.
-1. There are good reasons why you might not achieve the baseline on a given week
-   (e.g. vacation, illness, working on other projects, carrying out interviews)
-   and you should keep your manager informed when you're not able to focus on
-   resolving user problems by contributing to support tickets.
-1. If you don't meet the baseline you should discuss the reasons with your
-   manager. If they're not satisfied that there are good reasons for not meeting
-   the baseline, they will ask you to focus more on solving user problems on
-   Support tickets so that you meet the baseline in future weeks. This helps
-   balance contributions across the global team.
-1. We believe in quality, not quantity - more is not automatically better.
-1. We recognize that the three metrics selected are not a complete indication of
-   'good work' on their own.
-1. We recognize that the metrics for 'public replies' and 'internal notes' can
-   be 'gamed' by making small updates. We trust the team to do the right thing
-   for the user and GitLab. This is why the ticket baseline is the last part of
-   'how to succeed' in this area. It is more important to make quality updates
-   on your assigned tickets and to help others to do the same on theirs.
-1. There is no automated process to report on people that don't meet the
-   baseline. The baseline is there to help you gauge your contribution and as a
-   conversation starter between you and your manager.
-1. There are no separate baseline dashboards by level.
-   If you have any concerns, please speak with your manager.
-
-## 2. Help meet our Service Level Objectives for ticket reply times (Daily)
-
-Our [Support Service Levels](https://about.gitlab.com/support/#gitlab-support-service-levels) mean that we need to reply to new tickets soon after they arrive.
-
-**You should balance your time taking new tickets with the ['Solve Support Tickets'](#1-solve-support-tickets-daily) responsibility above.**
-
-**What does success look like?**
-
-[Help us meet our First Response Time (FRT) Service Level Agreement](/handbook/support/workflows/meeting-frt-sla.html).
-
-| Level        | How it might look |
-| ------------ | ----------------- |
-| Intermediate | Take ownership of new tickets based on the number in linked page (above) based on focus area. |
-| Senior       | Take ownership of and help others answer new tickets. |
-
-## 3. Join customer calls (Weekly)
-
-See [Customer Calls](/handbook/support/workflows/customer_calls.html) for our practices and workflows.
-
-Joining [customer calls](https://about.gitlab.com/support/#phone-support) can be an effective way to speed up ticket resolution. You can choose to schedule a customer call when you believe it's the best next step to help solve a ticket.
-
-**What does success look like?**
-
-We don't currently have a way to make all your contributions to customer calls visible. We're planning to investigate how to do this so you can gauge your contribution and get credit for this valuable work.
-
-The [call summary](/handbook/support/workflows/customer_calls.html#call-summary) notes you complete as part of the Customer Calls process mean that your work is documented in Zendesk. Highlight any Customer Calls in your 1:1 Meeting Notes with your manager.
-
-## 4. Participate in on-call rotations to coordinate and resolve emergencies (Occasionally)
+## Participate in on-call rotations to coordinate and resolve emergencies (Occasionally)
 
 The following on-call rotations are staffed by Support Engineers:
 
@@ -160,7 +251,7 @@ See the handbook for more details on [Expectations for on-call](/handbook/suppor
 
 Be sure to highlight notable incidents in your 1:1 notes doc.
 
-## 5. Collaborate with team members and customers (Daily)
+## Collaborate with team members and customers (Daily)
 
 [Collaboration](/handbook/values/#collaboration) is a core value at GitLab. You are encouraged to collaborate with Support team members, other GitLab team members, and customers to help directly and indirectly solve customer problems.
 
@@ -168,21 +259,21 @@ Be sure to highlight notable incidents in your 1:1 notes doc.
 
 1. [Pairing sessions](https://gitlab.com/gitlab-com/support/support-pairing). You can see how you're doing on this [pairing summary page](https://gitlab-com.gitlab.io/support/team/pairings.html)
 1. Ask and answer questions in Slack. (We don't have a way to easily make this visible, but feel free to share things you're proud of with your manager in your 1:1 notes doc.)
-1. If you have volunteered to be a [Support Stable Counterpart](/handbook/support/#support-stable-counterparts), collaborate with the group(s) you are assigned to and share knowledge with the Support Team.
+1. If you have volunteered to be a [Support Stable Counterpart](/handbook/support/#support-stable-counterpart), collaborate with the group(s) you are assigned to and share knowledge with the Support Team.
 1. There are many other ways you can collaborate. Make a note of your collaborations in your 1:1 notes doc.
 
 | Level        | How it might look |
 | ------------ | ----------------- |
 | Intermediate | Aim for two pairing sessions per week |
-| Senior       | [Aim for one pairing or help session per day](https://about.gitlab.com/handbook/support/engineering/mentorship.html) |
+| Senior       | [Aim for one pairing or help session per day](/handbook/support/engineering/mentorship.html) |
 
-## 6. Create and update issues for bugs and feature requests (Weekly)
+## Create and update issues for bugs and feature requests (Weekly)
 
 Reducing future customer problems is an important part of being a Support Engineer. [Creating, updating and escalating issues for bugs and feature requests](/handbook/support/workflows/working-with-issues.html) helps achieve this.
 
 **What does success look like?**
 
-1. Create bug issues and feature requests whenever needed. You can see how you're doing using the 'GitLab issues' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=dblessing). The format is `https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=YOUR_USERNAME`  (replace `YOUR_USERNAME`)
+1. Create bug issues and feature requests whenever needed. You can see how you're doing using the 'GitLab issues' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=dblessing). The format is `https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=YOUR_USERNAME`  (replace `YOUR_USERNAME`)
 
 1. GitLab doesn't currently have [a way to find all the comments you've made on Issues](https://gitlab.com/gitlab-org/gitlab/-/issues/28268). Until this feature is available, it's hard to make your contributions to product Issues visible. Instead, be sure that your Zendesk tickets have links to the Issues that you create or update. You can also highlight contributions in your 1:1 notes doc.
 
@@ -191,7 +282,7 @@ Reducing future customer problems is an important part of being a Support Engine
 | Intermediate | Create issues with description completed and appropriate labels |
 | Senior       | Additionally drive fix/enhancement when appropriate based on expertise and customer interactions |
 
-## 7. Improve documentation and publicly share knowledge (Weekly)
+## Improve documentation and publicly share knowledge (Weekly)
 
 You are encouraged to [update documentation](/handbook/support/workflows/improving-documentation.html) regularly. This helps prevent ticket creation by improving the information available for customers to use in solving problems without contacting us.
 
@@ -201,20 +292,20 @@ We [summarize Support team contributions](https://gitlab.com/gitlab-com/support/
 
 **What does success look like?**
 
-1. Aim for at least two documentation updates every month. You can see how you're doing using the 'Docs updates' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=documentation). The format is `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=documentation` (replace `YOUR_USERNAME`)
+1. Aim for at least two documentation updates every month. You can see how you're doing using the 'Docs updates' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=documentation). The format is `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=documentation` (replace `YOUR_USERNAME`)
 1. If you publish information in other public places (*e.g.* a blog post), make a note in your 1:1 notes doc.
 
-## 8. Fix GitLab bugs and create features (Occasionally)
+## Fix GitLab bugs and create features (Occasionally)
 
-Experienced Support Engineers and those familiar with programming are encouraged to [fix GitLab bugs and create features](/handbook/support/#support-fixes).
+Experienced Support Engineers and those familiar with programming are encouraged to [fix GitLab bugs and create features](/handbook/support/#our-role-within-gitlab).
 
 We [summarize Support team bug fixes and feature requests](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=Support%20Team%20Contributions) every week using a bot.
 
 **What does success look like?**
 
-There's no goal for this area. You can see how you're doing using the 'Support Fix' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=Support%20Team%20Contributions). The format is: `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=Support%20Team%20Contributions&not[label_name][]=documentation` (replace `YOUR_USERNAME`)
+There's no goal for this area. You can see how you're doing using the 'Support Fix' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=Support%20Team%20Contributions). The format is: `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=Support%20Team%20Contributions&not[label_name][]=documentation` (replace `YOUR_USERNAME`)
 
-## 9. Improve GitLab and Support processes (Occasionally)
+## Improve GitLab and Support processes (Occasionally)
 
 We continuously evolve and improve our processes. You are encouraged to [update the handbook](/handbook/handbook-usage/) and improve Support processes by contributing to [issues in the Support Meta project](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues).
 
@@ -222,11 +313,11 @@ There's a lot going on. It can be overwhelming if you try to contribute to every
 
 **What does success look like?**
 
-There's no goal for this area. You can see how you're doing by using the 'Handbook updates' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=lyle). The format is `https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME` (replace `YOUR_USERNAME`)
+There's no goal for this area. You can see how you're doing by using the 'Handbook updates' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=lyle). The format is `https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME` (replace `YOUR_USERNAME`)
 
-## 10. Keep up-to-date on GitLab, and Support
+## Keep up-to-date on GitLab and Support
 
-1. Since we ship a **new release each month on the 22nd**, and as we manage to fit a lot of great new features and fixes into each release, it is sometimes difficult for the Support Team to keep up to date with key changes. In general, it is the responsibility of each Support Team member individually to read the release blog post, dig deeper where you need to or want to, and keep yourself up to date with new GitLab versions. To facilitate this further, there is a Retrospective every month (it is listed on the GitLab Team Meetings calendar) that you can join.
+1. Since we ship a **new release each month on the 22nd**, and as we manage to fit a lot of great new features and fixes into each release, it is sometimes difficult for the Support Team to keep up to date with key changes. In general, it is the responsibility of each Support Team member to read the release blog post, dig deeper where you need to or want to, and keep yourself up to date with new GitLab versions. To facilitate this further, there is a Retrospective every month (it is listed on the GitLab Team Meetings calendar) that you can join.
 1. We have several [Support Weekly Meetings](/handbook/support/#weekly-meetings) that you are encouraged to attend or watch the recording of.
 1. The [Support Week in Review](/handbook/support/#support-week-in-review) (SWIR) document is intended to contain all the recent announcements and updates each week with which everyone in Support should be familiar. You are **expected** to read or listen to the recording of the document every week. And you're encouraged to contribute to the document as well. _You should consider putting a weekly reminder on your Monday mornings for reading (or listening to) the SWIR._
 
@@ -234,7 +325,19 @@ There's no goal for this area. You can see how you're doing by using the 'Handbo
 
 There's no goal for this area. The aim is to make sure you are aware of and utilizing the information and resources that will help you stay on top of major recent changes in GitLab and the team.
 
-## 11. Develop your skills through learning and training (Weekly)
+### Help prepare for product changes (optional)
+
+As an extension of [keeping up to date on GitLab](#keep-up-to-date-on-gitlab-and-support), you're always invited to help prepare the team for changes. Occasionally, and always with every major release, there may be deprecations or breaking changes which the Support team needs to prepare for.
+
+For major releases, typically a manager will organize the [Support Stable Counterparts](/handbook/support/#support-stable-counterpart) to review the planned changes. 
+
+Between major releases, product or development may request our assistance [to contact specific users](/handbook/support/internal-support/#gitlab-changes-and-contacting-users), which are handled by a [group of volunteers within Support](https://gitlab.com/groups/gitlab-com/support/readiness/-/group_members?with_inherited_permissions=exclude). 
+
+Each month, Support also organizes a [Release Review Party](https://drive.google.com/drive/u/0/search?q=Release%20Review%20-%20Support%20Team) (GitLab Internal only) to go over, demonstrate, and talk about new features or changes.
+
+If you wish to participate in any of these activities, please discuss it with your manager, or the Director of Support, Global Readiness.
+
+## Develop your skills through learning and training (Weekly)
 
 We are committed to helping you develop your skills through continuous learning. You can complete [modules in the Support Training project](https://gitlab.com/gitlab-com/support/support-training).
 
@@ -244,19 +347,19 @@ Support Engineers are also encouraged to complete courses and certification from
 
 **What does success look like?**
 
-1. Aim to complete a module every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
+1. Aim to complete a module every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
 
 An important focus for the Support Team in 2020 is to [improve our Learning and Training resources](https://gitlab.com/groups/gitlab-com/support/-/epics/49) to help you have a clear route to improving your skills and a better way to make your expertise visible to the team.
 
-## 12. Improve our learning and training resources (Occasionally)
+## Improve our learning and training resources (Occasionally)
 
 We encourage Support Team members to update or create [Support Training](https://gitlab.com/gitlab-com/support/support-training) resources.
 
 **What does success look like?**
 
-There's no goal for this area. If you have ideas of materials you'd like to create or update, speak with your manager. You can keep track of updates you've made using the 'Support Training Updates' [activity link](/handbook/support/managers/support-1-1s.html) your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME` (replace `YOUR_USERNAME`)
+There's no goal for this area. If you have ideas of materials you'd like to create or update, speak with your manager. You can keep track of updates you've made using the 'Support Training Updates' [activity link](/handbook/support/managers/support-1-1s.html#2-activity-links) your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME` (replace `YOUR_USERNAME`)
 
-## 13. Help with hiring (Occasionally)
+## Help with hiring (Occasionally)
 
 We encourage the whole team to help with the [Hiring Process](/handbook/support/managers/hiring.html). If you would like to help in this area, discuss with your manager and start an [Interview Training modules](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#)
 

@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Zendesk Review'
+title: 'Zendesk Review Training Material'
 category: Zendesk
 description: 'Training documentation concerning Zendesk Reviews'
 ---

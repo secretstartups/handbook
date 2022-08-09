@@ -30,9 +30,11 @@ If an emergency takes longer than an hour to resolve, and/or multiple people are
 
 ## Security Disclosures
 
-We have a [Responsible Disclosure Policy](/security/disclosure/). Users who reach out to `security@gitlab.com` will now receive an auto-reply providing them with specific instructions for reporting the various types of security concerns. We also accept reports via [HackerOne](https://hackerone.com/gitlab); see [more information](/handbook/support/channels#hackerone) on this channel. Refer to [working with Security](/handbook/support/workflows/working_with_security.html) for information on identifying and handling these tickets.
+We have a [Responsible Disclosure Policy](/security/disclosure/). Users who reach out to `security@gitlab.com` will now receive an auto-reply providing them with specific instructions for reporting the various types of security concerns, and the ticket will be automatically closed. There is more [information on HackerOne](/handbook/support/channels#hackerone) below.
 
-When in doubt, please be very patient with these reports. Do not say 'there is no problem'. You might be misunderstanding something that can lead to a 0-day disclosure. Give examples and keep asking questions until you understand the problem or until the researcher concludes there is no problem. If someone invested time to help us, offer to mention them on our [Security Researcher Acknowledgments page](/security/vulnerability-acknowledgements/) even if there was no actual vulnerability. If you say that we'll get back to them, **always** mention that they can email us at any time for an update. This is really important to prevent a 0-day disclosure resulting from us forgetting to respond.
+Refer to [working with Security](/handbook/support/workflows/working_with_security.html) for information on identifying and handling any open security tickets.
+
+When in doubt, please involve the security team. This is really important to reduce the likelihood of a 0-day disclosure.
 
 Issues created from ZenDesk tickets must follow the [security issue triage](/handbook/engineering/security/#issue-triage) process.
 
@@ -40,7 +42,7 @@ Reports that are PGP-encrypted will be handled by the [Security Team](/handbook/
 
 ### HackerOne
 
-We also use [HackerOne](https://hackerone.com/gitlab) to manage security reports. The HackerOne program is managed by the Security Team. The complete workflow for handling HackerOne reports can be found on the [Security Team page](/handbook/engineering/security/#hackerone-reports).
+We use [HackerOne](https://hackerone.com/gitlab) to manage security reports. The HackerOne program is managed by the Security Team. The complete workflow for handling HackerOne reports can be found on the [Security Team page](/handbook/engineering/security/#hackerone-reports).
 
 If a Team Member requires access to HackerOne, create an [access request](https://gitlab.com/gitlab-com/Team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request).
 

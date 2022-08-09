@@ -51,3 +51,4 @@ managing Zendesk via the various GitLab projects, please review
 | 14 | [Community](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/334467) | 334467 | Internal | Support |
 | 15 | [Emergencies](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001264259) | 360001264259 | Internal | Support |
 | 16 | [GitLab Incidents](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001629679) | 360001629679 | Internal | Support |
+| 17 | [Partner Support](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/4560627423516) | 4560627423516 | Internal | Partner Suport2

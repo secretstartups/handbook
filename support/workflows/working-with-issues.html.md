@@ -61,6 +61,8 @@ Optional, but highly recommended:
 - [Stage](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#stage-labels)
 - `~Reproduced on GitLab.com` if applicable
 
+For L&R related issues, please see the [specific guidance on Fulfillment issues](../license-and-renewals/workflows/tracking_bugs_and_features.html).
+
 ## Escalate New and Existing Issues
 
 The Support team can directly ping the PM on the issue or in the #product Slack channel (see [DevOps Stages](/handbook/product/categories/#devops-stages)) in case this may help with communication. Comments might include asking for an update on behalf of the customer, or discussing the severity or priority especially if it needs to be increased.
@@ -99,7 +101,7 @@ and
 
 ## Creating Feature Proposals
 
-As per our [Statement of Support](https://about.gitlab.com/support/statement-of-support.html), the Support Team will generally ask the customer to create feature requests. Feature requests with direct feedback from customers are valuable as customers are often best equipped to explain their use case, requirements, and needs. Ask customers to create the feature request issue and share the link with us. Once an issue link is available, [add labels](#adding-labels) and relevant details in the [comments](#adding-comments-on-existing-issues), and [link the source](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature).
+As per our [Statement of Support](https://about.gitlab.com/support/statement-of-support/), the Support Team will generally ask the customer to create feature requests. Feature requests with direct feedback from customers are valuable as customers are often best equipped to explain their use case, requirements, and needs. Ask customers to create the feature request issue and share the link with us. Once an issue link is available, [add labels](#adding-labels) and relevant details in the [comments](#adding-comments-on-existing-issues), and [link the source](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature).
 
 If you create a feature proposal on behalf of a customer, please follow the same process as [Creating Issues](#creating-issues) by using the `Feature Proposal` template. After the issue is created, share the link in a reply encouraging the customer to follow and contribute to the issue.
 
@@ -134,7 +136,7 @@ If you create a feature proposal on behalf of a customer, please follow the same
 ### GitLab Runner
 
 - Information on [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner#features)
-- [Runner documentation](http://docs.gitlab.com/ee/ci/runners/README.html)
+- [Runner documentation](https://docs.gitlab.com/ee/ci/runners/)
 
 ### GitLab Workhorse
 

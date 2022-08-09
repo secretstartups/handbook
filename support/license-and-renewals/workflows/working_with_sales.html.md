@@ -24,7 +24,7 @@ description: This page is about working with sales.
 1. Leave a message for the Salesforce `Account Owner` on Chatter with the
    relevant details.
    * Consider adding the following note in the Chatter message:
-     > Please note that according to the new "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) we expect a reply from you on this chatter within 24 hours (excluding weekend, Family and Friends Day & global holidays) stating when/if you will contact the customer.
+     > Please note that according to the "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) we expect a reply from you on this chatter within 24 hours (excluding weekend, Family and Friends Day & global holidays) stating when/if you will contact the customer.
    * Share the link to the Chatter message (right-click on timestamp) in an internal note on the ticket.
      * Note that you can only link to the original Chatter message, not to any of its comments.
    * You may want to check the account owner's Slack status to see if they're
@@ -49,13 +49,13 @@ description: This page is about working with sales.
    1. If anyone you reach out to does not respond within 24 hours (excluding weekend, Family and Friends Day & global holidays):
       1. Mention the person's direct manager in a Chatter comment.
          * Suggested message text:
-           > Following the new "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> within the agreed upon time.
+           > Following the "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> within the agreed upon time.
          * From VP level onwards, mention them in a Slack message in
            `#support_to_sales_escalation` in addition to a Chatter comment.
            * Suggested message text in Chatter:
-             > Following the new "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
+             > Following the "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
            * Suggested message text in Slack:
-             > Following the new "Working with Sales workflow" I'm escalating support ticket https://gitlab.zendesk.com/agent/tickets/<ticket number\> as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
+             > Following the "Working with Sales workflow" I'm escalating support ticket https://gitlab.zendesk.com/agent/tickets/<ticket number\> as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
       1. Repeat as necessary every 24 hours and go one step up the reporting
          line, going all the way up to CEO if necessary.
    * It is helpful to refer to the [company organization chart](https://comp-calculator.gitlab.net/org_chart)
@@ -91,7 +91,7 @@ DO NOT pass to Sales:
 - The customer is trying to reach sales person to renew, but haven't received a response - Instead ask customer what they need assistance with and see if we can assist.
 - The customer asks a product or process question (we can answer this or put in another Support queue most of the time)
 - The customer has renewed, but they didn't add enough users - ask the customer to use the Add more seats button in customers portal.
-- The customer wants to renew for less seats than their current subscription. The customer can renew for a minimum of their current usage or more. If they want to renew for less seats, they have to bring their seat usage down before the renewal.
+- The customer wants to renew for less seats than their current subscription. The customer can renew for a minimum of their current usage or more. If they want to renew for less seats, they have to bring their seat usage down before the renewal, [disable automatic renewal](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#enable-or-disable-automatic-subscription-renewal) and manually renew the subscription (for [SaaS](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#renew-or-change-a-gitlab-saas-subscription) and [Self-Managed](https://docs.gitlab.com/ee/subscriptions/self_managed/#renew-a-subscription)).
 
 NB, Sales does not simply waive trueups, there is an approval process for exceptional cases. Please don't set the expectation that any fees will be waived. When in doubt, ask in Slack for a second opinion.
 

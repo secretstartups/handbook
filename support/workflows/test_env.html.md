@@ -17,12 +17,12 @@ Support Engineers need testing environments to learn how to support GitLab and a
 
 This page explains the main choices available to you. Some guidelines:
 
-1. You should choose a way to spin up a specific version of GitLab quickly so that you can replicate customer issues. The current recommended way to do this is to use [Support Resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md)
+1. You should choose a way to spin up a specific version of GitLab quickly so that you can replicate customer issues. The current recommended way to do this is to use [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). Each specific module that you'll be using has its own `README.md` in the deployment projects, so make sure to give that a read as well.
 1. Testing locally is also recommended - configuring Docker Engine / VM based system (details below) to your taste will let you quickly spin up a specific GitLab version.
 1. You will need licenses for all self-managed tiers so you can match the features available with your customer's features - see the next section.
 1. For most testing, a single box Omnibus installation will be fine.
-1. If you need a more complex environment (e.g. with a runner configured), the following tools can help:
-    * [Support Resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) via cloud (GCP) VMs
+1. If you need a more complex environment, the following tools can help:
+    * [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
     * [GitLab Support Setups](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-setups/-/blob/master/README.md) via local (Virtualbox, VMWare, libvirt) VMs
 1. For K8s Helm installations, we recommend using GKE - see the section below.
 1. If you need to replicate specific cloud provider environments (e.g. for a scaled architecture), see the sections on GCP, AWS and Azure below.
@@ -42,11 +42,13 @@ As usual, public projects get Gold features, but if you need to test paid group 
 Typically, Support team members are added as `Owner` in these groups, while other team members are added as `Maintainer` or `Owner` with an expiry date.
 If you require access, please ask an existing owner.
 
-If you require a group of your own to have a paid tier, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request).
+The [IT Ops](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#gitlab-it-team) team handle provisioning of paid tier test groups on GitLab.com. If you require a group of your own to have a paid tier, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request). This process will ensure that all entitlements are removed during processes such as staff member offboarding. 
+
+If you no longer require a previously provisioned paid tier test group, please submit a new [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for its removal. This ensures that a record of its removal is kept within the same issue tracker as its original creation.
 
 ## Testing Environment License
 
-For a test you will need to make an [internal issue](hhttps://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) requesting one.
+For a test you will need to make an [internal issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) requesting one.
 
 Please keep in mind *you can't generate licenses for customers* only for testing
 purposes.
@@ -63,9 +65,11 @@ If you need additional flexibility for creating test environments. The [GitLab S
 
 **Note:** Please remember to shut down resources that you are no longer using. The personally-owned GCP projects aren't yet making use of the [frugal resources tool](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md#frugal-resources) for automating the shut down of resources created in your own project.
 
-#### GCP `support-resources` automation
+#### GCP `support-resources` automation (deprecated)
 
 You can also use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) project to automatically spin up resources. They will appear in the `support-resources` GCP project, which all Support Engineers should have access to as part of their baseline entitlements. If you don't have access to this project, please reach out in the `#support_operations` slack channel for assistance.
+
+`support-resources` is considered deprecated and we're actively tracking migration to Sandbox Cloud in [STM-4037](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4037). Resources can still be created here, but if you're looking to create something enduring Sandbox Cloud should be preferred.
 
 Some advantages of using the `support-resources` automation project over Sandbox Cloud are:
 
@@ -89,23 +93,21 @@ You can use the `support-resources` project to manually create resources in a GC
 
 **Warning:** You may also have access to the `gitlab-internal` and `gitlab-support` GCP projects. It's strongly recommended that you make use of the `support-resources` project or the GitLab Sandbox Cloud, instead of creating new resources in these projects.
 
-We also have a `support-openshift` project created for the purpose of creating OpenShift clusters for testing the [GitLab Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) and [GitLab Runner Operator](https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator). Reach out to your Support Team colleagues in the [#support-testing Slack Channel](https://gitlab.slack.com/archives/C0167JB9E02) for more details on using this project for shared OpenShift testing.
-
 **Note:** Please remember to shut down any manually created that you are no longer using.
 
 #### GCP GKE Kubernetes Cluster
 
 Please use the `support-resources` GCP project or your [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) GCP project to create a GCP Kubernetes (GKE) cluster. If you are using the `support-resources` GCP project you can create a GKE cluster manually from the console or you can use the [Support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master) automation project to streamline your [GKE cluster creation](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master#how-do-i-spin-up-a-gke-cluster) and there's even an option to [create a GKE cluster that already has GitLab installed through helm chart](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master#how-do-i-spin-up-a-gke-cluster-with-gitlab-installed-through-helm-chart).
 
-**Note:** If you are using GKE to test GitLab Runeners, it is recomended to use [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). GitLab Runners required the use of [RBAC roles in GCP](https://cloud.google.com/kubernetes-engine/docs/how-to/role-based-access-control).  The `support-resources` GCP project  does not allow the user enough permision to create the required roles.
+**Note:** If you are using GKE to test GitLab Runners, it is recomended to use [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). GitLab Runners required the use of [RBAC roles in GCP](https://cloud.google.com/kubernetes-engine/docs/how-to/role-based-access-control).  The `support-resources` GCP project  does not allow the user enough permision to create the required roles.
 
 <details>
-<summary>Open me for instructions on how manually create GKE on your own project.</summary>
+<summary>Open me for instructions on how to manually create GKE on your own project.</summary>
 <div markdown="1">
 
 1. Ensure you have selected your own project at the top of [GCC](ttps://console.cloud.google.com).
 1. Open the navigation menu at the top of [GCP](ttps://console.cloud.google.com)
-1. Select **Kubernetes Engine > Create Cluster** from the dashboard. 
+1. Select **Kubernetes Engine > Create Cluster** from the dashboard.
 1. Enter a name, select a zone, and choose the default static master version unless you have a specific reason to use an alternative version.  It's important to use a server version that will [match your kubectl client version](https://kubernetes.io/docs/tasks/tools/install-kubectl/#before-you-begin).
 
 All of the remaining options can be left as their default settings unless you have a need to add customization to your cluster.  Of note, the Maximum Pods per Node option [directly correlates with the CIDR assignment](https://cloud.google.com/kubernetes-engine/docs/how-to/flexible-pod-cidr?_ga=2.246280516.-1734733517.1581009580) of your node(s).
@@ -142,18 +144,51 @@ For testing LDAP integrations with a self-managed GitLab instance, you may consi
 
 If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can use a subdomain of `gitlab.support`. You can configure this in GCP in the [gitlab-support project here](https://console.cloud.google.com/net-services/dns/zones/gitlabsupport/details?project=support-testing-168620).
 
-## Persistent Local Environments
+## Securing Cloud Testing Environments
+
+Test instances are, by default, publicly accessible on the Internet. Often, we need to test specific versions or configurations that may be vulnerable to remote compromise. It is your responsibility to secure your test instances to prevent them from being compromised and used to further attack our cloud environment. 
+
+### IP Filtering
+
+A highly effective way to secure your cloud instances is to apply the [concept of IP filtering](https://www.oreilly.com/library/view/linux-network-administrators/1565924002/ch09s03.html) for each instance you create.  For the majority of cases, this means source IP filtering from one or more [CIDR block ranges](https://whatismyipaddress.com/cidr) ensuring that only certain IPs and integrations can interact with the GitLab instance, therefore, reducing the attack surface of the GitLab organization as a whole.
+
+If you don't know your current IP address to use for source IP filtering, you can utilize services like [whatsmyipaddress.com](https://whatismyipaddress.com/) or [ipinfo.io](https://ipinfo.io/) to retrieve it.  Though configuring IP filtering is currently a manual process for each GitLab cloud instance, [discussions are underway](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4097) at the time of writing regarding how best to automate this practice to reduce complexity and manual processes needed. The steps to implement IP filtering will differ per cloud environment.  Here you can find current documentation for manually implementing source IP filtering in the most commonly used cloud platforms:
+
+- [Google Cloud](https://cloud.google.com/vpc/docs/using-firewalls#creating_firewall_rules#console)
+- [Amazon Web Services (AWS)](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
+- [Azure](https://docs.microsoft.com/en-us/learn/modules/introduction-azure-web-application-firewall/)
+
+### Patching against known vulnerabilities
+
+Running a Support test instance a known vulnerability can be a security issue. When running a test instance, you should patch against known vulnerabilities if possible.
+
+For example, GitLab versions from 11.9 to 13.10.2 are vulnerable to [CVE-2021-22205](https://about.gitlab.com/releases/2021/04/14/security-release-gitlab-13-10-3-released/#Remote-code-execution-when-uploading-specially-crafted-image-files).
+
+If you're running GitLab version 12.6 to 13.10.2, patch against this vulnerability by running the following commands for each instance:
+
+```
+sudo su
+cd ~
+curl -JLO https://gitlab.com/gitlab-org/build/CNG/-/raw/master/gitlab-ruby/patches/allow-only-tiff-jpeg-exif-strip.patch
+cd /opt/gitlab/embedded/lib/exiftool-perl
+patch -p2 < ~/allow-only-tiff-jpeg-exif-strip.patch
+```
+
+For GitLab versions 11.9.0 to 12.5.x, you can "patch" the vulnerability by replacing the `exiftool` binary with the following commands:
+
+```
+sudo rm -f /opt/gitlab/embedded/bin/exiftool
+sudo printf '#!/bin/bash \n\ncat -' > /opt/gitlab/embedded/bin/exiftool
+sudo chmod a+x /opt/gitlab/embedded/bin/exiftool
+```
 
 ### Install Docker
 
+If you'd like to use [Docker Desktop for Mac](https://www.docker.com/get-started) a subscription is required for business use. Please review the [Docker Desktop handbook page](https://about.gitlab.com/handbook/tools-and-tips/mac/#docker-desktop) to find more information on how to obtain a license as well as a list of recommended alternatives.
 
-If you'd like to use [Docker Desktop for Mac](https://www.docker.com/get-started) a subscription is required for business use. We're discussing how to handle this in [an internal issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/1787), including [some alternatives](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/1787#alternatives). 
-
-In the mean time, consider using a Cloud or local VM with [Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux) for testing
-Docker environments.
+In the mean time, consider using a Cloud or local VM with [Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux) for testing Docker environments.
 
 Note that on Macs with M1 / Apple Silicon, running GitLab in Docker is not working properly for now. Check out [UTM](#utm-free--opensource---compatible-with-apple-silicon) below as an alternative for a local setup on your M1 Mac.
-
 
 ### Install Docker Machine
 

@@ -30,7 +30,7 @@ Support ChatOps documentation</a> for more information.
 </details>
 
 ## Purchased CI minutes are not associated with customer's group
-To transfer CI minutes from a user's personal namespace to a group namespace, use the [Force Association Mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html). 
+To transfer CI minutes from a user's personal namespace to a group namespace, use the [Force Association Mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html).
 
 **If the Mechanizer does not work**, you will need to request a refund for the customer.  In this case:
 - Confirm that the CI minutes *are* associated with the user's personal namespace.
@@ -42,14 +42,28 @@ To transfer CI minutes from a user's personal namespace to a group namespace, us
 
 - While purchasing the CI minutes, the billing page shows a drop-down menu to choose the namespace to be associated with the CI minutes. If the user is unable to view or choose the required group during the purchase, it is probable that the GitLab user is not an owner of that group.  Reply to the user stating that they need to either get their permissions updated to owner to be able to choose the group on the billing page, or request an existing owner of the group to purchase the CI minutes using their own customer portal account.
 
-# Enable CI minutes for sales assisted trials.
+# Enable CI minutes
 
-## Summary
+## Manual credit card validation for community contributors
 
-The following process will remove the restrictions for using CI minutes for groups that meet one of the following criteria:
+Please do **not** use the enabling CI minutes process for validating a user account to bypass the need for a credit card when requested for community contributors. Instead, use the following method:
 
-1. Groups on a **free** plan who have purchased CI minutes
-1. Groups who are part of a sales assisted trial
+Requirements:
+
+1. Requester has [filed an internal request](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/Wider%20Community%20Contributor%20Shared%20Runner%20SaaS%20CC%20bypass.md) or ZenDesk ticket to track request.
+1. Request is approved or created by a Community Relations team member.
+1. GitLab.com admin account
+
+Steps:
+
+1. Edit the user account `https://gitlab.com/admin/users/USERNAME/edit`.
+1. Select the `Validate user account` checkbox.
+1. Add an [Admin note](../../../workflows/admin_note.html).
+1. `Save changes`.
+
+## Enabling CI minutes for sales assisted trials
+
+The following process will remove the restrictions for using CI minutes for groups who are part of a sales assisted trial.
 
 ## Steps
 
@@ -57,8 +71,8 @@ The following process will remove the restrictions for using CI minutes for grou
 
 > <i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: Soon to be [deprecated](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#mechanizer-notice)
 
-Use the form named [enable Ci Minutes](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/enable_ci_minutes.html). 
-Choose if the group is a consumption group and enter the namespace information.
+Use the form named [enable Ci Minutes](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/enable_ci_minutes.html).
+Enter the namespace information.
 
 ### Using customerDot Console
 
@@ -71,17 +85,3 @@ irb(main) enable_ci_minutes_trial('namespace')
 
 => "{\"status\":\"success\",\"message\":\"namespace members are now enabled to run CI minutes\"}"
 ```
-
-#### For consumption groups
-
-```ruby
-irb(main) enable_ci_minutes_trial('namespace', true)
-
-=> "{\"status\":\"success\",\"message\":\"namespace members are now enabled to run CI minutes\"}"
-```
-
-**Important**
-
-1. This will change the trial to a real subscription within the existing trial time window.
-1. The grace period will apply to this namespace after the trial ends.
-1. Consumption groups will be changed to `bronze` and reverted automatically.

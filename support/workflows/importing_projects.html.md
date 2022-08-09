@@ -26,6 +26,7 @@ If the customer accepts the offer, did the export succeed (they got an email, or
 
 1. If yes, open [an infra export request](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=Project%20Export.md) and fill in all relevant information. This skips the Support console attempt. Can be done within 30 days of the project export.
 1. If not (or when in doubt), [open an export request in the internal requests tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Export%20Request).
+1. If at any time **an infra export request is opened**, please ensure you add the "infradev" label is added to the relevant GitLab bug issue.
 
 For convenience, two additional macros are available after an export attempt is made:
 
@@ -78,7 +79,7 @@ Any request should include a comment on the relevant feature request [#223137](h
 
 #### Other Cases
 
-If you're unsure of whether we should perform an import for a specific requester, get input via the #spt_managers Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new). If a manager approves, proceed with the import. Note: Imports by infra require infra manager approval as well.
+If you're unsure of whether we should perform an import for a specific requester, get input via the #spt_managers Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new). If a manager approves, proceed with the import.
 
 ## Stage 2: Offering Import & Preparation
 
@@ -98,10 +99,10 @@ Note that lead time is required for the access request and possibly to find an e
 1. If the account is not provisioned within a couple of days before the scheduled date,
 tag `@it-ops-team` in the [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) Slack channel with a link to the request to ensure quick provisioning as soon as you receive a manager's approval.
 
-In the access request, enter the following in the **Person Details** section, replacing `group` in `group-import` with the name of the group.
+In the access request, enter the following in the **Person Details** section, replacing `group` in `group-import` with the top-level group path:
 
 ```plain
-- Admin user access for customer import for Infra's use with username: `group-import-admin`
+- Admin user customer import with username: `group-import-admin`
 - Set email to: `group-import-admin@gitlab.com`
 - Ticket: <TICKET LINK>
 - Import request: <ISSUE LINK>
@@ -109,12 +110,13 @@ In the access request, enter the following in the **Person Details** section, re
 **Note:** This is part of the [project import process](https://about.gitlab.com/handbook/support/workflows/importing_projects.html) for customers.
 ```
 
-Then, enter the following for the **Access Request** section:
+Then, enter the following for the **Access Request** section, replacing `group` with the top-level group path:
 
 ```plain
-- [ ] GitLab PRD | Role: `admin` | Please create, confirm, and enable 2FA for this user.
+- [ ] GitLab.com | Type: `admin` | Please create, confirm, and enable 2FA for this user.
     - [ ] Confirm user
     - [ ] Enable 2FA
+    - [ ] Add user as `Owner` in `group`
     - Justification: customer import following [project import process](https://about.gitlab.com/handbook/support/workflows/importing_projects.html)
 ```
 
@@ -122,7 +124,8 @@ Then, enter the following for the **Access Request** section:
 
 The customer should send you a copy of the project export ahead of their chosen import time (if scheduled) so that there is ample time to do the next section and for the customer to verify the list and correct any errors.
 
-1. In your terminal use [DCEF](https://gitlab.com/gitlab-com/support/toolbox/dcef) to pull a report that contains a list of user **primary** email addresses that are unique to the export file and ones that are unique to just the requestor's GitLab.com group.
+1. In your admin account, generate a Personal Access Token with an expiration date and the scope `api` enabled. The token is used for the next step. 
+1. In your terminal use [DCEF](https://gitlab.com/gitlab-com/support/toolbox/dcef) to pull a report that contains a list of user **primary** email addresses that are unique to the export file and ones that are unique to just the requestor's GitLab.com group. 
 1. Examine the `User emails unique to export file:` section of the results and ensure that all email addresses listed are on the requestor's company domain, meaning no users have an email address on a generic domain such as Gmail.com.
 
 **If issues within the list are found:**

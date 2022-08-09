@@ -60,7 +60,7 @@ graph TD;
 
 ## Activate Trial Runners
 
-For sales assisted trials, only we can override the credit card validation requirement for a namespace. Note that there is a [special process](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3479#consumption-users) for consumption users. These requests require console access.
+For sales assisted trials, only we can override the credit card validation requirement for a namespace.
 
 ## GitLab.com Trial Change Request
 
@@ -68,26 +68,32 @@ Sales team members will typically open this on behalf of their prospects in orde
 
 ## Inactive Namespace Request
 
-GitLab team members can create this request for their own use or on behalf of their customers. See [Name Squatting Policy](namesquatting_policy.html).
+GitLab team members can create this request for their own use. Customers can submit a support ticket. See [Name Squatting Policy](namesquatting_policy.html).
 
 ## Contact Request
 
-GitLab team members, primarily infra, will use this template to request Support to contact a user on their behalf. If requested to do this via Slack, open an issue on behalf of the requestor.
+GitLab team members will use this template to request Support to contact a user on their behalf.
 
-The requestor should contact the [CMOC](/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces) to fulfill the request, as the CMOC has the ability to look up user email-addresses.
+Usually, these are assigned to [CMOC](/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces), but can also be completed by anyone with admin-level access to GitLab.com. `Admin Escalation` label is applied and everyone with admin access is supposed to be subscribed and working on such issues.
 
 See the [Sending notices workflow](/handbook/support/workflows/sending_notices.html) for complete instructions on how to contact users.
 
 ## Repo Size Limit Increases
 
-Should a user request a temporary extension of the size limit of their repository the following workflow should be used if that extension is granted.
+At times, users require an increase to the size limit of their repository as a workaround for a bug issue. In these cases:
 
 1. Open an issue in the **[internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/issues)** issue tracker using the `Repo Size Limit` issue template.
+    - If you do not have GitLab.com admin access, add the `Admin escalation` label. If needed, post in the `#support_gitlab-com` Slack channel for attention on it.
+1. If a request is a workaround to a bug issue:
+    - Use current size + small buffer (2-5 GB) for the exception size.
+    - Set a due date for reverting, up to 1 week from current date.
+    - If a longer exception time is required, add the `Manager Approval::Required` label, and post in the `#spt_managers` channel to request approval.
+    - Make sure to comment on (or create) a bug issue to help future users and prevent further tickets.
 1. Apply the `Status::On Hold` label and set the due date to when it should be reverted.
 1. Using your GitLab.com admin account navigate to the project in question while appending **/edit** to the URL. For example, if the project in question is located at **https://gitlab.com/group/subgroup/project/** you would navigate to **https://gitlab.com/group/subgroup/project/edit**.
 1. Enter a new value in the **Repository size limit (MB)** field.
 1. Click **Save changes**.
-1. Revert the size limit back to the default on the specified due date.
+1. On the specified due date, revert the size limit back to the default by removing the value.
 
 ## Pipeline Quota Reset
 
@@ -95,18 +101,18 @@ See [internal wiki page](https://gitlab.com/gitlab-com/support/internal-requests
 
 ## GitLab.com Console Escalation
 
-This is a generic template used to request an engineer with GitLab.com console access to take action.
+This is a [generic template](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/GitLab.com%20Console%20Escalation.md) used to request an engineer with GitLab.com console access to take action.
 
 Common issues include the following when the UI and API methods are not working:
 
-- Deletion of projects, groups, cluster integrations, container registries, etc.
-- Deletion of uploads or attachments containing sensitive information, until [gitlab#16229](https://gitlab.com/gitlab-org/gitlab/-/issues/16229) (or similar) is implemented.
-- User account changes
-- Group namespace changes
-- Project export
+- Deletion of projects, groups, cluster integrations, container registry images, etc.
+- User account confirmation retrigger
+- [Project export](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/GitLab.com%20Console%20Export%20Request.md)
+
+Rarely, console escalations will also be used to workaround lack of a feature where Support can complete actions that would be highly inconvenient to customers, such as batch updating SAML identities until [gitlab#227841](https://gitlab.com/gitlab-org/gitlab/-/issues/227841) is implemented.
 
 Console escalation requests can also serve a purpose when further information (unavailable through the UI or API) is needed to understand the root cause of a problem. This may be because we are not sufficiently logging in Kibana/Sentry, we're unable to replicate an issue, or the creation of an issue may not be the appropriate action needed to resolve a customer problem. Collaborate with console enabled engineers and product teams to solve these types of problems.
 
 Engineers with console access should search for similar previous requests, look for the relevant function in the code, or work with another engineer to resolve each request. Common or custom functions can be found in the [support runbooks](https://gitlab.com/gitlab-com/support/runbooks/).
 
-Any request requiring disk access requires an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues).
+Any request requiring disk access, which cannot be done via rails console, requires an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues).

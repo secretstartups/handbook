@@ -37,10 +37,10 @@ managing Zendesk via the various GitLab projects, please review
 |---|:-:|---|---|---|
 | [Support](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360000446511) | 360000446511 | Public | Support | For tickets relating to Support matters |
 | [Triage](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360001421032) | 360001421032 | Internal | Support | For tickets needing to be triaged |
-| [Live Upgrade Assistance](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360001434131) | 360001434131 | Public | Support | For tickets relating to Live Upgrade Assistance |
+| [Upgrade Assistance](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360001434131) | 360001434131 | Public | Support | For tickets relating to Upgrade Assistance |
 | [Shared Organization Request](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360001421052) | 360001421052 | Public | Support | For tickets relating to Shared Organization Requests |
 | [L&R](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360001421072) | 360001421072 | Public | Support | For matters relating to Licensing and Subscription Renewals |
-| [Emergency](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360001421112) | 360001421112 | Internal | Support | For emergency requests |
+| [Emergency](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360001421112) | 360001421112 | Public | Support | For emergency requests |
 
 ## Filing issues
 

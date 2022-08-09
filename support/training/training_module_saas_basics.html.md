@@ -53,7 +53,7 @@ Consider using the Time Tracking functionality so that the estimated length for 
 
 Regardless of whether you receive admin access later, you should set up chatops access.
 
-1. Read the first two sections: [the Chatops intro and how it works](https://docs.gitlab.com/ee/ci/chatops/README.html).
+1. Read the first two sections: [the Chatops intro and how it works](https://docs.gitlab.com/ee/ci/chatops/).
 1. If you don't already have it, [get Chatops access](https://docs.gitlab.com/ee/development/chatops_on_gitlabcom.html#chatops-on-gitlabcom).
     - Note: Use the "Google" sign in on the ops instance to create an account if needed.
 1. Read about [commonly used chatops commands](https://about.gitlab.com/handbook/support/workflows/chatops.html).
@@ -84,7 +84,7 @@ Many common tickets are triaged to other places.
 
 1. Account Deletion and Data requests: Read _only_ the Overview piece for each workflow so you can see where these should be routed to. There are also macros in ZenDesk for these cases.
     1. [Data Access Requests](https://about.gitlab.com/handbook/support/workflows/personal-data-access-requests.html) (typically GDPR Article 15)
-    1. [Account Deletion](https://about.gitlab.com/handbook/support/workflows/account_deletion.html) (typically GDPR Driven)
+    1. [Account Deletion](https://about.gitlab.com/handbook/support/workflows/personal_data_access_account_deletion.html) (typically GDPR Driven)
 1. Subpoenas and other legal (court) requests. See [Subpoenas and other requests for information](https://about.gitlab.com/handbook/support/workflows/information-request.html)
     - Note: If the customer request is _not_ tied to an active court case or other legal matter, it may fall under one of the other cases below.
 1. Read over the [example cases to move to Security](https://about.gitlab.com/handbook/support/workflows/working_with_security.html#identifying-issues-for-transfer-to-security).
@@ -92,7 +92,7 @@ Many common tickets are triaged to other places.
 
 ### Email Receiving
 
-One of the main differences of working with GitLab.com is that we receive many requests from [free users](https://about.gitlab.com/support/statement-of-support.html#free-plan-users) because we are the administrators of GitLab.com. One of the most common cases is not receiving confirmation, password, or other system notifications from GitLab.
+One of the main differences of working with GitLab.com is that we receive many requests from [free users](https://about.gitlab.com/support/statement-of-support/#free-plan-users) because we are the administrators of GitLab.com. One of the most common cases is not receiving confirmation, password, or other system notifications from GitLab.
 
 1. Read the [Confirmation Emails workflow](https://about.gitlab.com/handbook/support/workflows/confirmation_emails.html).
 1. Answer at least 1 ticket with an email receiving workflow: (insert ticket link here)
@@ -116,7 +116,7 @@ Remember: When triaging tickets and you're unsure if a user is asking about a Se
 ### Architecture
 
 1. Review materials relevant to GitLab.com Architecture
-    1. Read about the [GitLab architecture](https://docs.gitlab.com/ce/development/architecture.html) up to and including the `Simplified component overview` section.
+    1. Read about the [GitLab architecture](https://docs.gitlab.com/ee/development/architecture.html) up to and including the `Simplified component overview` section.
         - Note: You're not expected to remember everything, but to get a general sense of GitLab's architecture. Feel free to read the details on any component based on your interest.
     1. Give the [Production architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/) page a brief lookover.
         - Note: Mostly, you'll want a broad understanding of the "Current", "Service", and "Network Architecture" sections.
@@ -195,7 +195,7 @@ If you are doing this module as part of onboarding, feel free to remove the pair
 1. You will also see [Personal Account and Deletions](https://gitlab.com/gitlab-com/gdpr-request) requests, which are auto-assigned to [team members with 50%+ SaaS focus](https://gitlab-com.gitlab.io/support/team/areas-of-focus.html). For training purposes, you can ask a teammate to give one to you. Follow the appropriate workflow below to fulfill the request and link the issue that you've done.
     1. [Data (GDPR Article 15) Requests](https://about.gitlab.com/handbook/support/workflows/personal-data-access-requests.html)
         1. (Optional as these are very rare) Link to issue:
-    1. [Account Deletion Requests](https://about.gitlab.com/handbook/support/workflows/account_deletion.html)
+    1. [Account Deletion Requests](https://about.gitlab.com/handbook/support/workflows/personal_data_access_account_deletion.html)
         1. Link to issue:
     1. Discuss with your manager if you should to be added to the auto-assigned rotation. To be added into the rotation, make sure your [SaaS focus](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml) is 50%+.
 1. For [internal requests](https://gitlab.com/gitlab-com/support/internal-requests), you only need to work on the requests that relate specifically to GitLab.com. Many of the other issues as labelled are specific to other areas (such as Console or Licensing).

@@ -69,7 +69,9 @@ These fields can be helpful but aren't essential.
 
 ### Container Registry
 
-Numerous failed pushes or pulls to `registry.gitlab.com` can result in an IP block.
+Numerous failed pushes or pulls to `registry.gitlab.com` can result in an IP block, from the [docs](https://docs.gitlab.com/ee/user/gitlab_com/#git-and-container-registry-failed-authentication-ban):
+
+> GitLab.com responds with HTTP status code 403 for 1 hour, if 30 failed authentication requests were received in a 3-minute period from a single IP address.
 
 You can list all log results for hits on the container registry by searching for the provided IP address and setting a positive filter on `json.path` for `/jwt/auth`.
 
@@ -102,13 +104,7 @@ A failed pull will look like the following in Kibana.
 
 #### `gitlab-ci-token` Pulls
 
-Users can also become blocked due to registry pulls from the user `gitlab-ci-token` making (normal) unauthed requests to `jwt/auth`.  This user may be exempted from rate limiting in the future, it's being discussed in [this issue](https://gitlab.com/gitlab-org/gitlab-ce/issues/49392).
-
-An example request looks like:
-
-![gitlab-ci-token registry pull request](/images/support/ipblocks_gitlab_ci_token_pull.png)
-
-To filter for these types of requests specifically, add the `json.params` field.
+The `gitlab-ci-token` user is exempted from [rate-limitting](https://docs.gitlab.com/ee/user/gitlab_com/#git-and-container-registry-failed-authentication-ban).
 
 ### LFS
 
@@ -197,6 +193,6 @@ error code: 1020
 
 Note the `HTTP 403` response and `error code 1020`.
 
-Once you obtain this information you should open a [Cloudflare Firewall issue](https://gitlab.com/gitlab-com/gl-infra/cloudflare-firewall/-/issues) providing the `cf-ray` ID and the timestamp (date) to request that the IP address block be removed. You can also consult the #infrastructure-lounge Slack channel with the open issue for further assistance. Some blocks may happen as a result of a mitigation effort, so you may want to verify that a [contact request](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) is not open on the internal board.
+Once you obtain this information you should open an issue in our [Reliability tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues) providing the `cf-ray` ID and the timestamp (date) to request that the IP address block be removed. You can also consult the #infrastructure-lounge Slack channel with the open issue for further assistance. Some blocks may happen as a result of a mitigation effort, so you may want to verify that a [contact request](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) is not open on the internal board.
 
-Note that IP addresses may be blocked if they are identified as being from a [current US embargoed country](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) as per [our Terms of Use](https://about.gitlab.com/handbook/legal/subscription-agreement/). Blocks are done automatically through CloudFlare's GeoLocation block methods and cannot be changed. You can [enter an IP address](https://www.maxmind.com/en/geoip2-precision-demo) to determine how it is classified and verify against [the list of countries](https://about.gitlab.com/handbook/business-technology/trade-compliance/). A user can consider [requesting a data correction](https://support.maxmind.com/geoip-data-correction-request/) of their IP address but it is not guaranteed and GitLab has no control over this process.
+Note that IP addresses may be blocked if they are identified as being from a [current US embargoed country](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) as per [our Terms of Use](https://about.gitlab.com/handbook/legal/subscription-agreement/). Blocks are done automatically through CloudFlare's GeoLocation block methods and cannot be changed. You can [enter an IP address](https://www.maxmind.com/en/geoip2-precision-demo) to determine how it is classified and verify against [the list of countries](https://about.gitlab.com/handbook/legal/trade-compliance/). A user can consider [requesting a data correction](https://support.maxmind.com/geoip-data-correction-request/) of their IP address but it is not guaranteed and GitLab has no control over this process.

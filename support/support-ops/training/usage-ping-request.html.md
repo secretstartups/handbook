@@ -48,7 +48,7 @@ the request submission.
 ### Zapier
 
 Zapier takes the request from the webform and generates a gitlab.com issue using
-[service desk](https://docs.gitlab.com/ee/user/project/service_desk.html).
+[Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html).
 
 ## Useful links
 

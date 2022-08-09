@@ -53,7 +53,15 @@ If another support engineer joins your emergency call, feel free to assign them 
 
 Make a real effort to de-stress during your on-call shift. After being on-call, consider taking time off, as noted in the [main GitLab Handbook](/handbook/paid-time-off). Just being available for emergencies and outages causes stress, even if there are no pages. Resting is critical for proper functioning. Just let your team know.
 
-When you're in a call, you do **not** need to provide _immediate_ answers. You're allowed to pause for a few minutes for researching, asking for help, etc. Make sure to communicate -- let the the other folks on the call know what you're doing. Example: "I need a few minutes to work through the code here and make sense of it".
+When you get a notification from PagerDuty give yourself a few minutes to prepare.
+- Get to someplace comfortable and quiet where you can devote your attention to the emergency.
+- Take care of any biological needs.
+- Grab a snack and some water.
+- Breathe: you've got this.
+
+When you're in a call, you do **not** need to provide _immediate_ answers. You're allowed to pause for a few minutes for researching, asking for help, etc. Make sure to communicate -- let the other folks on the call know what you're doing. Example: "I need a few minutes to work through the code here and make sense of it".
+
+If you've had a long week with multiple pages from PagerDuty or particularly long calls, consider asking someone to cover a day or some portion of a day so you can get some rest.
 
 ## How Support On-call works
 
@@ -81,8 +89,6 @@ For new team members approaching their first on-call shift, your [Support onboar
 Your role is to make sure _someone_ is available to respond to emergencies during the week you are scheduled. Flexibility is possible -- you can split work with others, or schedule overrides for a few hours or days. **You don't have to change vacation plans, or be at your desk all week!** It's OK to take a walk outside, if you have your phone and reception. This way you can acknowledge the page, and locate someone to help (using Slack).
 
 If you prefer to work with a colleague as a secondary, discuss with team members or your manager and find partners who like sharing the role. You can work together during the week, and update PagerDuty as you wish (options include: split days into mornings and evenings, take alternate days, work as a primary and secondary). Your manager can play an active role in helping pair people who want to work like this.
-
-**TIP:** In Google Calendar, add Busy entries for the days/items you are on-call. Because your Google Calendar is [linked to Calendly](/handbook/support/workflows/calendly.html) for [Customer Calls](/handbook/support/workflows/customer_calls.html), Busy entries ensure you will not receive round-robin calls during your on-call shift.
 
 #### Swapping on-call duty
 

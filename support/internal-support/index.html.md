@@ -13,7 +13,7 @@ The purpose of this page is to direct GitLab team members outside of Support on 
 
 ## GitLab Support's Purpose
 
-GitLab Support provides technical support GitLab.com and Self-Managed GitLab customers. We do **not** provide support for GitLab team members who are experiencing IT (1Password, Slack, Mac, etc.) issues. If you require assistance with issues of that nature, please contact [Team Member Enablement](/handbook/business-ops/team-member-enablement/self-help-troubleshooting/).
+GitLab Support provides technical support for GitLab.com and Self-Managed GitLab customers. We do **not** provide support for GitLab team members who are experiencing IT (1Password, Slack, Mac, etc.) issues. If you require assistance with issues of that nature, please contact [Team Member Enablement](/handbook/business-ops/team-member-enablement/self-help-troubleshooting/).
 
 ## Should I Contact GitLab Support?
 
@@ -27,12 +27,15 @@ If you'd like to ask a longer term or larger scope question, propose an idea to 
 
 ### On Slack
 
+**IMPORTANT:** For questions about specific customer situations, we need a support ticket (from the customer) or an internal request (from a GitLab team member). **We cannot act on any customer-specific requests made through Slack.** If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](https://about.gitlab.com/handbook/support/internal-support/support-escalations.html)).
+
+
 The following channels are where GitLab Support can be found on Slack and are the best places to reach us, depending on what you need.
 
 - [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) - This channel is specifically for the GitLab.com support team. They handle GitLab.com related tickets. It should be used if you have a quick question about the GitLab.com Support Team specifically.
 - [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) - This channel is specifically for the self-managed support team. They handle self-managed production issues, triage bugs, and self-managed emergencies, among other things.
 - [#support_licensing-subscription](https://gitlab.slack.com/messages/support_licensing-subscription/) - This channel handles license and subscription issues.
-- [#support_escalations](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is for support escalations and other items which require support managers' attention.
+- [#support_ticket-attention-requests](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is for support ticket attention requests and other items which require support managers' attention.
 - [#feed_zd-main](https://gitlab.slack.com/messages/C1CKSUTL5/) - Feed of all self-managed Zendesk ticket activities.
 
 In order to attract GitLab Support's attention on Slack, you can use the team handles, mentioning multiple team members in a message or a thread where our [**urgent** attention](/handbook/communication/#be-respectful-of-others-time) is needed. Support team handles are:
@@ -62,13 +65,19 @@ They should select "GitLab.com (SaaS) User Accounts and Login Issues" as the rea
 
 According to our [privacy policies](/privacy/), Support will not provide any information regarding customers, groups, projects, etc, to you that are not available publicly. This includes situations where a customer is requesting information about their own projects, groups, etc. If they are unable to authenticate, we cannot assume they are who they say they are. If they are locked out, please have them submit a support ticket.
 
-### Viewing Support Tickets
+### Submitting internal license request extensions and viewing Support Tickets
 
-All GitLab Team Members can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team. These accounts are free.
+Sales requests for self managed and GitLab.com subscription extensions are now submitted via Zendesk instead of via an internal GitLab issue. You should now use the [internal requests form](https://gitlab-com.gitlab.io/support/internal-requests-form/) for such requests. Please note that submitting the form requires a Zendesk 'Light Agent' account, which all GitLab team members can request. The account also enables team members to see customer tickets in Zendesk and leave notes for the Support team. These accounts are free.
 
-To request a Light Agent Zendesk account, please send an email to `gitlablightagent.2lba7m@zapiermail.com` - you'll receive an automated reply with the result of your request. **You must send your request from your GitLab Google / Gmail account. No other addresses will work.** The Subject and Body fields of the email can be empty. Once set up, you'll need to wait 24 hours for your account to be assigned Zendesk in Okta. Once Zendesk is assigned, you should be able to [log in](https://gitlab.zendesk.com/agent). If you don't get your account assigned within this period, please reach out to #support-operations in Slack. In most cases, people who don't get access within the 24 hours already had an end-user account which prevents the automation from working as expected.
+#### Requesting a ZenDesk 'Light Agent' account
 
-You cannot send public replies to customers with a Light Agent account - if you need to do this, please submit a [new Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for a paid full agent account. If needed, you can [read more information](https://www.zendesk.com/company/collaboration-add-on-additional-features/) on Light Agent accounts from Zendesk.
+A Zendesk Light Agent account is required to view Support Tickets and can be obtained without manager approval.
+
+To request a 'Light Agent' Zendesk account, please send an email to `gitlablightagent.2lba7m@zapiermail.com`. **You must send your request from your GitLab Google / Gmail account. No other addresses will work.** The Subject and Body fields of the email can be empty.
+
+You'll receive an automated reply with the result of your request. Once set up, it takes between 2-24 hours for your account to be assigned to Zendesk in Okta. Once Zendesk is assigned, you should be able to [log in](https://gitlab.zendesk.com/agent). If your account is not assigned within 24h, please reach out to `#support-operations` in Slack. In most cases, people who don't receive access within 24 hours already had an end-user account, which prevents the automation from working as expected.
+
+Note that you cannot send public replies to customers with a Light Agent account. If you need to do this, please submit a [new Access Request issue for a paid full agent account](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and tag your manager for budget approval. If needed, you can [read more information](https://www.zendesk.com/company/collaboration-add-on-additional-features/) on Light Agent accounts from Zendesk.
 
 ## Common Requests
 
@@ -76,12 +85,33 @@ You cannot send public replies to customers with a Light Agent account - if you 
 
 | Request    | What To Do                                                   |
 | ---------- | ------------------------------------------------------------ |
-| Schedule Upgrade Assistance Call | **Global organizations:** [Open a case](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#global-support) in the global support portal. <br> **Public Sector organizations:** [Open a case](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#us-federal-support) in the U.S. Federal support portal |
+| Schedule Upgrade Assistance Call | **Global organizations:** [Open a case](https://about.gitlab.com/support/scheduling-upgrade-assistance.html#global-support) in the global support portal. <br> **Public Sector organizations:** [Open a case](https://about.gitlab.com/support/scheduling-upgrade-assistance.html#us-federal-support) in the U.S. Federal support portal |
 | Who is on-call for Self-Managed Support? | Run `/chatops run oncall support` in [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
 | Who is on-call for GitLab.com CMOC? | Run `/chatops run oncall cmoc` in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
-| Contact a GitLab.com User | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template.  |
 | Excessive reCaptcha on GitLab.com | While it's happening, post in [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) and link to the issue/MR in question to be added to the allowlist. |
 | Report complaints about support that you received from a client or prospect | [Open an issue](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect%20Feedback) using the `Indirect Feedback` template. |
+
+### GitLab changes and contacting users
+
+You can request Support to contact GitLab.com users on your behalf.
+
+Here are some cases when you can request us to contact users:
+
+- you believe the planned production changes to GitLab will have a high impact on users and/or create numerous inbound tickets
+- you need to inform customers of an urgent Security related issue
+- you've blocked a user on GitLab.com
+- you need to interview a specific account because they are exhibiting atypical usage patterns or behaviors
+- there are important project/group affecting changes
+- there are GitLab.com account problems
+
+| Request    | What To Do                                                   | Where to ask questions |
+| ---------- | ------------------------------------------------------------ | ---------------------- |
+| Contact a user during an incident | [Open a confidential infra issue, assign it to the current CMOC](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data), use `confidential_incident_data` template | #support_gitlab-com |
+| Contact a single user | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template | #support_gitlab-com |
+| Prepare Support for changes (with or without contacting select users) | [Open a Support Readiness issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Readiness) | #spt_managers |
+| I need to reach out to many users | Review [the tools and users table](/handbook/support/workflows/sending_notices.html#tools-and-approvals) for a guide on how to most effectively send communications. | #spt_managers |
+
+**Please note**: This is not for marketing or sales related contact. This channel is only for communication with users regarding important items that might affect their usage of GitLab SaaS.
 
 ### GitLab.com Namespaces
 
@@ -89,35 +119,62 @@ You cannot send public replies to customers with a Light Agent account - if you 
 | ---------- | ------------------------------------------------------------ |
 | Claim Inactive GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Name%20Squatting%20Request) using the `Name Squatting Request` template.
 
-### Trial Extensions and Plans
+### Internal Requests
+
+All internal requests regarding licensing, subscriptions, trials, and grace period extensions  should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
+
+A list of common scenarios and the appropriate option are detailed in the following table.
 
 > **NOTE**: Support will not start a trial. If one is needed, *have the user initiate a normal trial first*.
+> **NOTE**: Sales Manager approval is required on the ticket for any extensions requested greater than 30 days.
+> **NOTE**: Support will only handle a single license or subscription request via a single ticket. If a provided license does not work or you require a further extension then please submit a new ticket. All internal L&R tickets need to have a 1 to 1 relationship with the generated license or subscription for reporting reasons.
 
-| Request    | What To Do                                                   |
+| Option     | Example Use Case                                             |
 | ---------- | ------------------------------------------------------------ |
-| Extend GitLab.com Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=GitLab.com%20Trial%20Extension) using the `GitLab.com Trial Extension` template.
-| Extend Self-Managed Trial or Grace Period <br> Issue Temporary License or Key | [Submit a request](https://gitlab-com.gitlab.io/support/internal-requests-form/) using the `Self-Managed Trial Extension` option.
-| Change GitLab.com Trial to a different plan type| [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
-| Activate Shared Runners for a Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Activate%20Trial%20Runners) using the `Activate Trial Runners` template.
+| **SaaS Subscription Related** | |
+| Extend an (almost) expired subscription | Use this when the customer has a subscription with us and their grace period is (almost) expired. An extension of 30 days or more requires approval from a Sales Manager. Please note we cannot extend the actual subscription. This instead makes a trial for the namespace and uses that for the extension. |
+| Investigate incorrect subscription info | Use this when the customer has a subscription with us and something is incorrect in their subscription information. This includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace, and current seat usage counts. |
+| Reset max seats for QSR | This entry would be used after approval to waive the overage has been granted and approved via SFDC chatter. Once that is done, you would file the form to request support reset the max seats |
+| SaaS NFR license request | Ensure the group on GitLab.com has started a trial, then use this option to request a SaaS NFR subscription generation. |
+| Billing Entity Change | Use this as part of the process of a billing entity change. |
+| **SaaS Trial Related** | |
+| Extend a SaaS trial | Use this when the customer's namespace is on a trial that is active/expired. A trial extension of more than 30days will need manager approval. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one. |
+| Change an existing SaaS trial plan | Use this when you want to make changes to the plan of a currently active trial, including adding CI minutes or activation of trial runners and overriding the requirement for credit card validation on sales assisted trial namespace. The number of users for GitLab.com trials are not restricted. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one.  |
+| **Self-Managed License Related (for paid customers only)** | |
+| Extend an (almost) expired subscription | Use this when the customer has a license and their grace period is (almost) expired. An extension of 30 days or more requires approval from a Sales Manager. Please note we cannot extend the actual license. This instead makes a trial license for the customer and uses that for the extension. |
+| Customer did not receive the license | Use this when the customer has not received a paid license from us when they should have. Please note we can resend a license to the contact in the license only.|
+| Customer needs the license resent to a new person | Use this to request sending a license to a different user. Please note we cannot send licenses to anyone other than the account owner. To send it to someone else, please ask the customer to file a ticket so we can go through the contact change process. An exemption can be made for a temporary license. |
+| Multi-year license needs to be generated | Use this to request the next year's license for a multi-year subscription to be created. **Make sure to check with the customer if they exceeded their seat usage before opening this request.** Support cannot waive true-ups or change anything in SFDC. We cannot create a license until you have checked and amended their subscription as needed.
+| Self-managed NFR license request | Use this for Self-Managed NFR license generation |
+| **Self-Managed Trial Related** | |
+| Problems starting a new Self-managed trial | Use this when the customer has no recent trial or subscription, and is not able to request the trial themselves online. A trial extension of 30 days or more requires approval from a Sales Manager |
+| Modify an existing Self-managed trial | Use this when you want to make changes to the number of users and/or the plan of a currently active trial |
+| Extend an existing Self-managed trial | Use this when the customer is on a trial that is (almost) expired. A trial extension of 30 days or more requires approval from a Sales Manager |
+| **Other** | |
+| Order Management | Use this for Order Management requests. Please note if the license information you are requesting does not match the Salesforce opportunity, we will likely not be able to generate the license as Support cannot waive seats or Trueups. Ensure you include a summary of the action requested in the context field. |
+| Hacker One Reporter License | Use this to request a license be generated for a Hacker One reporter. |
+| Wider Community License | Use this to request a community license be generated. Please note for any license lasting longer more than 90 days, manager approval is required. Without an approving manager's email being provided, the ticket will be closed out |
+| Other (nothing else fits the request) | Use this when nothing else fits. Please note if this is used when an option **does** exist, the request will be closed and you will need to re-submit your request using the correct option. |
 
-Grace period extensions are also treated similarly to trial extensions for self-managed. For GitLab.com, the customer should start a trial once their subscription has expired. To request these, create a trial extension issue for GitLab.com or submit a ZD request for self-managed, and update the title or add a description accordingly to indicate that it is an existing customer.
+Grace period extensions are also treated similarly to trial extensions for both SelfManaged and GitLab.com SaaS.
+To request these, file a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/)
+with the correct option as highlighted in the table above.
 
 Please consider the following:
 
 1. A previous trial needs to exist for the customer. If no trial was created at any point a trial can be created by the customer the following day as the plan expires.
-1. We can provide grace period extensions as long as the current plan is not ongoing, in other words, if the plan expires on the 15th, we can increase the grace period starting the next day. please plan accordingly.
+1. We can provide grace period extensions as long as the current plan is not ongoing. In other words, if the plan expires on the 15th, we can increase the grace period starting the next day (16th). please plan accordingly.
 
-### Regarding Licensing and Subscriptions
+### US Federal Internal Requests
 
-| Request    | What To Do                                                 |
-| ---------- | ------------------------------------------------------------ |
-| Assistance with SaaS Subscription Issue:<br> - For GitLab.com, or converting from Self-managed to SaaS.<br> - Includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace. | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=SaaS%20Subscription%20Issue) using the `SaaS Subscription Issue` template. |
-| Assistance with License Issue:<br> - For GitLab Self-managed, or converting from SaaS to Self-managed.<br> - Includes problems with: did not receive license, multi-year licenses, account ownership. | **Global organizations:** [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=License%20Issue) using the `License Issue` template. <br> **Public Sector organizations:** For confidential license issues, GitLab team members can [open a case with US Federal Support](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001803151). <br> <sup> **Note**: This form is not publicly listed and is for internal GitLab team member use only.</sup> |
-| Send/Resend EULA | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=EULA) using the `EULA` template.
-| GitLab.com Billable Members List | Until [#27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) or [#35454](https://gitlab.com/gitlab-org/gitlab/-/issues/35454) is implemented, [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=billable%20members) using the `Billable Members` template. |
-| Request for a license as a GitLab Team Member | [Open an Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) using the `GitLab_Team_Member_License_request` template |
-| Request a license for a HackerOne reporter | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=HackerOne%20Reporter%20License%20Request) using the `HackerOne Reporter License Request` template |
-| Request for a license for a wider community contributor | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Wider%20Community%20Contributor%20License%20Request) using the `Wider Community Contributor License Request` template |
+*Public Sector organizations:** For confidential license issues, GitLab team members can [open a case with US Federal Support](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001803151).
+
+**Note:** This form is not publicly listed and is for internal GitLab team member use only.
+
+### Request for a license as a GitLab Team Member
+
+[Open an Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) using the `GitLab_Team_Member_License_request` template
+
 
 #### GitLab.com Billable Members List
 
@@ -134,30 +191,8 @@ Here are some options to get basic seat count information:
 3. Info from 2 plus *Seats in Subscription*, *Max Seats Used*, and *Start Date*
     - [Customers portal admin](https://customers.gitlab.com/admin/customer) (requires access via Okta)
 
-##### Options for customer
-
-> **Note:** The public facing version of this information is on the [Licensing and subscription FAQ page](https://about.gitlab.com/pricing/licensing-faq/#how-can-i-get-a-list-of-billable-users-for-my-plan).
-
-Customers can get their subscription information and a list of users using a seat on their group's **Billing** page (under the group **Settings**) .
-
-Alternative methods:
-
-1. [Billable members API endpoint](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group)
-1. [glgl tool's rollcall script](https://gitlab.com/gitlab-com/support/toolbox/glgl) which will provide the subgroup or project where a user has been added.
-*Note:* This project has been archived and will no longer be updated.
-
-If none of those options work and a report detailing which users are a part of the group is required, the request **MUST** be made directly by the customer through the [Support Portal](https://support.gitlab.com).
-
-The Support Engineer working the ticket will:
-
-1. Authenticate their identity by asking them to perform an action (such as create a Snippet with specific text).
-1. Generate the report.
-1. Password protect the report and send it along in the ticket.
-1. Send the password in a separate email.
-
-##### Billable members internal request
-
-If *none* of these above are options for your case, open a [billable members internal request issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=billable%20members) with the `Billable members` template.
+If none of the above self-serve options work, file a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/)
+with the `Other` option providing the Group URL and any additional context.
 
 > **Note:** Support will only provide you with a screenshot of the billing page's subscription info. This includes:
 
@@ -165,54 +200,63 @@ If *none* of these above are options for your case, open a [billable members int
 - Seats in subscription, currently in use, max used, owed
 - Subscription Start and End dates
 
+##### Self-serve options for customers
+
+> **Note:** The public facing version of this information is on the [Licensing and subscription FAQ page](https://about.gitlab.com/pricing/licensing-faq/#how-can-i-get-a-list-of-billable-users-for-my-plan).
+
+Customers can get their subscription information and a list of users using a seat on their group's **Billing** page (under the group **Settings**) or by using the [Billable members API endpoint](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group)
+
 ---
 
 ### I Want to Escalate a Ticket
 
-Please see the dedicated [Support Escalations](/handbook/support/internal-support/support-escalations.html) page.
+To keep the term "_escalation_" [MECEFU](/handbook/communication/#mecefu-terms), Support uses the term "**support ticket attention request**" (STAR) to make sure
+[account escalations](/handbook/customer-success/tam/escalations/) are distinct. "Escalation" can also be confused with "emergency" or "incident."
+
+Please open a **support ticket attention request**, during [GitLab Global Support Hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours) only, if
+any of these are true:
+ - progress in the ticket has stalled and the ticket needs more support engineering effort
+ - the priority of the ticket has changed (Low -> High) 
+ - the ticket requires immediate intervention to address a high level of customer dissatisfaction
+ - Support Management oversight is required in order to bring structure and focus to the situation
+
+[More about support ticket attention requests](support-ticket-attention-requests.html)
+
+Please open an **[account escalation](/handbook/customer-success/tam/escalations/)** if: 
+ - There is account level risk because of a single ticket or an aggregation of several issues.
+ - Visibility and attention from multiple departments is required to restore customer confidence and resolve the issue.
+
+[More about account escalations](/handbook/customer-success/tam/escalations)
+
+Please open an **emergency ticket** if:
+ - a customer is facing a situation that meets our [Definitions of Support Impact](https://about.gitlab.com/support/definitions/#Definitions%20of%20Support%20Impact) for "Emergency"
+
+[More about how Support Engineers handle emergency tickets](/handbook/support/workflows/customer_emergencies_workflows.html)
+
+Please declare a **GitLab.com incident** if:
+ - you've noticed a common pattern of reported problems between SaaS customers
+ - you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
+ - you suspect a [high severity bug](/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
+
+[More about GitLab.com incidents](/handbook/engineering/infrastructure/incident-management/)
+
+Please declare a **security incident** if:
+ - you have information about a critical issues that may affect the confidentiality, integrity, or availability of GitLab services or data
+
+[More about Security incidents](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html#incident-severity)
 
 ---
 
-### Contacting customers via tickets
+### I want to make a change to a setting in the GitLab.com Admin interface
 
-At times, you may need to reach out to one or more users about
-GitLab SaaS. Some examples might be:
-
-* An urgent Security related issue
-* Important project/group affecting changes
-* Account problems
-* Questionable user behavior
-
-| Request | What to do |
-|---------|------------|
-| I need to reach out to a single user | Use the information at [Contacting a User](../workflows/cmoc_workflows.html#contacting-a-user). This will guide you on how to make the request. |
-| I need to reach out to many users | Fill out the [customer ticket generator form](https://gitlab-com.gitlab.io/support/support-ops/forms/customer-ticket-generator/). This will create a structured issue that Support Ops will use to bulk create the requested tickets.  |
-
-**Please note**: This is not for marketing or sales related contact. This channel is only for communication with users regarding important items that might affect their usage of GitLab SaaS.
+The Infrastructure team is the admin of GitLab.com, and any changes to product tuneables go through the [change request workflow](/handbook/engineering/infrastructure/change-management/#change-request-workflows).
 
 ### Other
 
 #### Trials and Prospect Support
 
-By default, [trial licenses do not include support](https://about.gitlab.com/support/#trials-support).
-
-If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, as a member of the Sales team **you can grant temporary support for their trial license**. Please note this is only available for 60 days maximum. After that point, the account will be downgraded back to the standard levels for a trial/prospect.
-
-You can do this via Salesforce in a few simple steps:
-
-1. Browse to the organization's Salesforce record, locate the field titled `Manual Support Upgrade` and add a check mark.
-1. Add a contact record in Salesforce for each person in the organization who you want to be able to submit and work support tickets.
-1. Instruct your prospect to [open a new case](https://support.gitlab.com/hc/en-us/requests/new) via the web support portal and after selecting the reason for reaching out (whether self-managed or SaaS) be sure to ask that they select `Sales assisted trial` as their subscription level from the relevant dropdown menu.
-
-#### Important Additional Notes
-
-{:.no_toc}
-
-1. There is no need to contact the Support team - selecting `Manual Support Upgrade` will mean your prospect's tickets automatically get the correct SLA.
-1. Please wait for at least two hours after enabling the support upgrade before submitting a ticket to allow Salesforce and Zendesk to synchronize.
-1. Prospects who have been granted a temporary support upgrade receive [Priority Support SLAs](/support/#priority-support).
-1. Although the Support and Sales teams regularly review the list of prospects who have been granted a temporary support upgrade to ensure only active prospects are selected, **please uncheck the `Manual Support Upgrade` field when the trial ends.**.
-1. We are working with Sales Operations to put a limit on the maximum number of `Manual Support Upgrades`. This page will be updated when that work is completed.
+For information relating to priority prospects, please see
+[Priority Prospects](../priority_prospects).
 
 #### My customer is having trouble applying their GitLab.com subscription
 
@@ -228,9 +272,9 @@ In other cases, a particular user from the account would like to be able to see 
 If you'd like to enable this, please:
 
 1. Ask the customer to submit a Support ticket using the [Support Ops form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001801419) and select `Shared organization requests` in the `Problem type` field.
-1. Once the ticket is created, Support Ops will review and work on the ticket. 
+1. Once the ticket is created, Support Ops will review and work on the ticket.
 
-**Note:** If a customer submits a shared organization request using a different Support form, simply change the form to `Support Ops` and select `Shared organization requests` in the `Problem type` field. Support Ops will then review the ticket and ask any followup questions if necessary. 
+**Note:** If a customer submits a shared organization request using a different Support form, simply change the form to `Support Ops` and select `Shared organization requests` in the `Problem type` field. Support Ops will then review the ticket and ask any followup questions if necessary.
 
 #### My customer needs a report of all the users within their group(s) structure
 

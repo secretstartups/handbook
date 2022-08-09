@@ -3,6 +3,7 @@ layout: handbook-page-toc
 title: 'Zendesk Global SLA Policies'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global SLA policies'
+noindex: true
 ---
 
 ## On this page
@@ -205,6 +206,20 @@ This requires an exact process, which is detailed via the
 * Conditions
   * All
     * Form is JiHu
+  * Any
+
+| Target | Urgent | High | Normal | Low |
+|--------|:------:|:----:|:------:|:---:|
+| First reply time | 24hrs | 24hrs | 24hrs | 24hrs |
+| Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
+| Hours of operation | Business hours | Business hours | Business hours | Business hours |
+
+### [Partner Support](https://gitlab.zendesk.com/api/v2/slas/policies/4560720351516.json)
+
+* Description: 
+* Conditions
+  * All
+    * Form is Partner Support
   * Any
 
 | Target | Urgent | High | Normal | Low |

@@ -32,3 +32,27 @@ Note that our special programs do not include support, but support can be purcha
 ##### GitLab for Startups Workflow
 
 1. When a customer is looking to apply or renew their existing Startup subscription, send the [`General::Startup Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Startup%20Response.yaml) macro.
+
+
+### Troubleshooting
+
+[GitLab for Open Source](https://about.gitlab.com/solutions/open-source/) uses an automated [application process](https://about.gitlab.com/solutions/open-source/join/) that emails an instruction and link, to claim the OSS plan, to the qualified organization.
+
+After being approved, users must sign up on the GitLab Customers Portal before they can claim their plan.
+
+To troubleshoot errors during the sign up process, follow the [Troubleshoot Errors While Making Purchases on CustomersDot document](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry). **NOTE:** Since the customer has not signed up yet, there is no `user:customerID`. Use `user.ip:CustomerIP` instead.
+
+You can retrieve `CustomerIP` by:
+
+1. On Zendesk ticket, click on `Conversations`
+1. Choose `Events` from the drop down
+1. The IP is shown under every customer reply.
+
+**NOTE:** The IP is only available when the customer is signed in on Zendesk. If the customer submits the ticket via email, and IP is not available, please ask the customer for the IP they used during the signup process.
+
+**example of previous cases**
+
+- [ZD Tiket 288871](https://gitlab.zendesk.com/agent/tickets/288871)
+- [Related Sentry event 2575450](https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/2575450/events/40335146/)
+- [Bug issue](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4288)
+

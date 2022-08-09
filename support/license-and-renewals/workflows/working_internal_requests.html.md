@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Internal Requests tracker
+title: Handling L&R Internal Requests
 category: Working L&R requests
 description: Describes how to service internal requests for licensing & renewals.
 ---
@@ -12,46 +12,20 @@ description: Describes how to service internal requests for licensing & renewals
 
 ### Servicing Internal Requests
 
-Follow the same [General Workflow](/handbook/support/workflows/internal_requests.html#general-workflow) as dotcom for servicing L&R internal requests.
+Choose the best [L&R Workflows](/handbook/support/license-and-renewals/workflows/) when servicing L&R internal requests.
 
-### L&R Internal Requests Hawk
+**NOTE:** L&R Internal Requests can be found in the "L&R" View in Zendesk. 
 
-> **NOTE** L&R Internal Requests are gradually moving to the L&R View in Zendesk. You can track the progress in [this epic](https://gitlab.com/groups/gitlab-com/support/-/epics/176)
+The L&R team works on licensing and subscription related internal requests that are filed by GitLab team members using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
 
-There is a internal requests hawk role which rotates on a weekly basis which
-serves as a temporary measure to make sure internal requests tagged with
-the following labels receive the appropriate attention from Support:
+A list of the different options available and example scenarios can be found in [this table](https://about.gitlab.com/handbook/support/internal-support/#internal-requests).
 
-* `Activate Trial Runners issue` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/ci_minutes.html)
-* `Associate Subscription Console Escalation::Customers` - Workflow to be documented
-* `Billing Entity Change: Associate SaaS Subscription Issue` - Workflow instructions on template
-* `Console Escalation::Customers` - Workflow to be documented
-* `Resend/Forward License Request` - [Workflow](/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#resend-forward-the-license)
-* `GitLab.com Trial Extension Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials)
-* `License Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/license_troubleshooting.html)
-* `Plan Change Request` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#plan-change-requests)
-* `SaaS Subscription Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html)
-* `Self Managed Trial Extension or Temporary License Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/self-managed/trials.html)
-* `Trial CI Minutes Issue` - Workflow instructions on template
+### Order Management
 
-When on this role, prioritize working on internal request issues over Zendesk tickets.
-The general workflow guide and best practices are:
+**Note:** Team members who are part of Sales or another team should NOT use the `Order Management` option as the request will be rejected.
 
-1. Review the list of [unassigned issues](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR). 
-    - For those with US Public Sector access please also check the [L&R view](https://gitlab-federal-support.zendesk.com/agent/filters/360196736931) in the US Federal Support Portal.
-1. Pick an issue to work on/respond to and assign this to yourself.
-1. If you have resolved the problem or attended to the request, close the issue and let the requestor know to re-open the issue if further assistance is required.
-1. If you are awaiting manager approval or a reply from the requestor before moving the issue forward, add the appropriate labels (for example `Manager Approval::Awaiting` or `Status::Awaiting Confirmation`).
-1. Repeat steps above until there are no longer any unassigned issues.
-1. Check if there are any [assigned issues where responses have stalled](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR&assignee_id=Any) and check with the assignee and requestor if follow up action needs to be taken.
+[The Order Management team](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/order-management/) determines whether a license has been fulfilled automatically after opportunity closure, and if not, work with Support Engineering to ensure manual fulfillment by filing an internal request with the `Order Management` option as defined in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/157).
 
-You will continue to be responsible for any issues assigned to yourself even
-after you're off the role, so be mindful about working sustainably. If you need
-to, ask for others to help with unassigned issues -- the expectation is that
-GitLab Support as a team should be responding timely to internal requests, not
-you personally as the L&R Internal Requests Hawk.
+The `Order Management` option is therefore used to request manual license fulfillment, specifically for scenarios where a license has not been generated or sent automatically.
 
-You'll only be expected to work your usual work hours while doing this role. There
-is a [PagerDuty schedule](https://gitlab.pagerduty.com/schedules#PQ6DB1G) set up
-solely to facilitate tracking/swapping of shifts. It is in no way an indication of
-actual hours of work.
+The requestor would ideally provide more information in the additional context field on whether a license was not found or the license exists but needs to be resent. The Support Engineer handling the ticket would follow the appropriate workflow according to the request in the ticket.

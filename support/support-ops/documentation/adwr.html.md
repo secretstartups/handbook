@@ -14,7 +14,7 @@ description: 'An overview of awdr'
 ## Overview
 
 Aa part of the processes involved in
-[Account Deletions](../../workflows/account_deletion.html), weekly reports are
+[Account Deletions](/handbook/support/workflows/personal_data_access_account_deletion.html), weekly reports are
 generated via the
 [ADWR project](https://gitlab.com/gitlab-com/support/toolbox/adwr/). These
 reports are made as issues in the

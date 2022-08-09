@@ -60,11 +60,32 @@ Currently there is no SLA for responding to Feedback Issues, but if you follow
 the process defined on this page, you should send an initial response to each
 issue within 7 days of its creation.
 
-## Workflows for reviewing feedback
+## Subscribing to feedback issues
 
-Our [Feedback and Complaints handbook page](https://about.gitlab.com/handbook/support/workflows/feedbacks_and_complaints.html) provides general guidance on assessing and responding to feedback.
+### By territory
 
-### Handling "Good" Reviews
+If you'd like to subscribe to SSATs submitted by customers from a certain
+territory, you can subscribe to the appropriate `OrganizationRegion` scoped
+label through the [Feedback project labels page](https://gitlab.com/gitlab-com/support/feedback/-/labels).
+
+These labels are applied based on organization information
+[synced to Zendesk](/handbook/support/support-ops/documentation/zendesk_global_organizations.html#organization-fields)
+from SFDC.
+
+| Label   | Description |
+|---------|-------------|
+| APAC    | Asia-Pacific |
+| EMEA    | Europe, Middle East and Africa |
+| LATAM   | Latin America (includes all of Central & South America) |
+| NORAM   | North America |
+| NCSA    | North, Central, South America (legacy region being phased out) |
+| Unknown | Unknown |
+
+The single source of truth for these definitions can be found in the
+[Go to Market Glossary](/handbook/sales/field-operations/gtm-resources/#glossary)
+handbook page.
+
+## Handling "Good" Reviews
 
 For each feedback issue labeled "satisfaction::good":
 1. read through the feedback and check for anything **actionable** - sometimes customers provide really good actionable feedback in positive reviews
@@ -77,6 +98,11 @@ For each feedback issue labeled "satisfaction::good":
 
 #### Sharing positive feedback in Support Week in Review (SWIR)
 
+To share positive feedback in the Support Week in Review, each week an issue will be created in the [Support Week In Review Tracker](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/-/issues) and tagged with `~"SWIR::SSAT"`.
+If you're the SSAT Reviewing manager it should be assigned to you automatically, but you can also [search for the label](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/-/issues?label_name%5B%5D=SWIR%3A%3ASSAT).
+
+Anything you add to the body of this issue will be included in the SWIR digest for the week.
+
 **Due Date**: the cut off for content for the SWIR is close of business on your Thursday. Plan to add any ticket feedback before this time. Anything you want to add after this time needs to be added to the content for the following week, to ensure it is included in the audio recording. 
 
 When selecting feedback to share, you don't need to share every piece of positive feedback. Consider the following when choosing what to share:
@@ -87,11 +113,13 @@ When selecting feedback to share, you don't need to share every piece of positiv
 1. If there are general sentiments or themes, feel free to congratulate the whole team. For example, if we were praised for our overall approach to support, speed, clarity, etc. 
 1. Is the feedback **definitely** positive?  Sometimes comments in positive feedback can be neutral or even negative. For example "I would have liked a quicker response", or "I was satisfied" are valuable to us, but they don't really encourage the team when shared in the SWIR. 
 
-#### Formatting feedback in SWIR document
+#### Formatting feedback in SWIR issue 
 
-When adding the comment to the [document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit), add it in the `Kudos From SSAT` section.
-Include the ticket number with a link to the ticket, the comment from the customer, and where applicable @ mention the person (or people) who primarily worked the ticket. 
+When adding the comment to the SSAT issue in the `support-week-in-review` tracker, feel free to use markdown formatting. If you wish to use headers (`#`) please 
+- use H4 (`####`) or lower
+- be aware that headers will be included in the table of contents in the issue
 
+Generally, include the ticket number with a link to the ticket, the comment from the customer, and where applicable @ mention the person (or people) who primarily worked the ticket. 
 
 ### Handling "Bad" Reviews
 

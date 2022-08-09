@@ -39,15 +39,6 @@ on-call in Slack.
 * Extensions and Add-Ons
   * Slack V2
 
-### FRT Hawk
-
-* [Service link](https://gitlab.pagerduty.com/service-directory/P6IRZCX)
-* Escalation policy: Customer Support - FRT Hawk
-* Integrations
-  * N/A
-* Extensions and Add-Ons
-  * N/A
-
 ### Incident Management - CMOC
 
 * [Service link](https://gitlab.pagerduty.com/service-directory/P1PRQ6J)
@@ -58,15 +49,6 @@ on-call in Slack.
   * woodhouse
 * Extensions and Add-Ons
   * Slack V2
-
-### Support internal requests
-
-* [Service link](https://gitlab.pagerduty.com/service-directory/P8LIL42)
-* Escalation policy: Licensing - Internal Requests Hawk
-* Integrations
-  * N/A
-* Extensions and Add-Ons
-  * N/A
 
 ### Support Managers
 
@@ -130,14 +112,6 @@ As per
     * Lyle Kozloff
     * Val Parsons
 
-### Customer Support - FRT Hawk
- 
-* [Escalation policy link](https://gitlab.pagerduty.com/escalation_policies#PXMRPM3)
-* Level 1
-  * Notify the following users or schedules
-    * Customer Emergencies - APAC Group 1
-    * Customer Emergencies - APAC Group 2
-
 ### Customer Support SSAT
 
 * [Escalation policy link](https://gitlab.pagerduty.com/escalation_policies#P0DPFUO)
@@ -168,13 +142,6 @@ As per
     * Lee Matos
     * Lyle Kozloff
     * Val Parsons
-
-### Licensing - Internal Requests Hawk
-
-* [Escalation policy link](https://gitlab.pagerduty.com/escalation_policies#POSOWGE)
-* Level 1
-  * Notify the following users or schedules
-    * L&R - Internal Requests Hawk
 
 ### Support Managers
 
@@ -368,21 +335,6 @@ hours.
   * Thursday:  0900-1700
   * Friday:    0900-1700
   * Saturday:  0900-1700
-
-### L&R - Internal Requests Hawk
-
-This rotation is used for licensing and renewals related internal requests.
-
-* [Schedule link](https://gitlab.pagerduty.com/schedules#PQ6DB1G)
-* Timezone: (UTC+00:00) UTC
-* Hours: 
-  * Sunday:    0000-2400 *handoff is at 2300)
-  * Monday:    0000-2400
-  * Tuesday:   0000-2400
-  * Wednesday: 0000-2400
-  * Thursday:  0000-2400
-  * Friday:    0000-2400
-  * Saturday:  0000-2400
 
 ### US Federal On-Call
 

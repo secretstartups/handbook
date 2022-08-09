@@ -37,16 +37,21 @@ Federal tickets can be linked publicly, such as in an issue or merge request as 
 
 When pairing over video chat, be sure you only pair with engineers that have access to the US Federal instance and avoid screensharing content from the US Federal Support Instance, logs, or other information that is required to be kept confidential.
 
+When providing links to documentation, it's possible an organization's mail server may strip embedded links prior to delivering the ticket update to the receiver. In order to continue to provide our documentation to customers, consider using an identifier in the reply body, then "footnotes" towards the end of the ticket. For example:
+
+```
+This is the ticket reply body where we are talking docs Title of documentation Page(1). Here's some more documentation that's relevant, Title of documentation page (2).
+
+---
+
+1. Documentation Link
+2. Documentation Link
+---
+```
+
 ### Following up
 
-The US Federal Support instance does not use a mechanism that automatically solves a case after a set period of time. Instead, agents will follow up periodically with the end users to determine if the support case has reached a mutually satisfied state that allows resolution of the case. When following up with a user it may be important to consider addressing the following key points:
-
-- Let them know what action we're taking, whether solving it out or just following up
-- Summarize how long it's been since we've last heard from them
-- Reiterate to the user what information we were looking for in order to progress the case
-- Assure the user that if they do need further assistance:
-    - We're here waiting for their reply
-    - If solving: that their reply will reopen the case or create a follow-up
+The US Federal team has implemented an automated follow up system that checks in with the submitter of a case when the case has been in a `pending` state for 7 days. After 14 consecutive days in a pending state with no replies from the submitter the case will automatically move to a `solved` state.
 
 ##### Extending the follow up time
 
@@ -65,7 +70,7 @@ Examples:
 - "This user https://gitlab-federal-support.zendesk.com/users/398443026291/ is struggling with Geo setup..."
 - "The person who submitted the case that got bounced back is a member of this organization: https://gitlab.my.salesforce.com/0014M00001hHHKF"
 
-The use of an acronym to discuss an organization is **not permitted** in either `#support_us-federal-chat` or `#feed_zd-federal` channels to prevent disclosure of sensitive information.
+The use of an acronym to discuss an organization is **not permitted** in either `#spt_us-federal` or `#feed_zd-federal` channels to prevent disclosure of sensitive information.
 
 ## Ticket assignment via round-robin
 
@@ -86,8 +91,8 @@ When you are out of the "office" or otherwise unable to handle more tickets, it 
 
 ## Getting help with a ticket
 
-Getting help with a US Federal ticket can be tricky since some information must be kept confidential. However, there are many times when a non-US Federal engineer may be the subject matter expert needed to help efficiently resolve a US Federal Support case. It is encouraged to ask questions in `#support_self-managed` and other non-private Slack channels provided the [Communication Guidelines](#communication-guidelines) are followed. You may also consider cross-posting the request for help back to the private `#support_us-federal-chat` channel to maximize the pool of engineers who may be able to assist. It should be kept in mind that although the `#support_us-federal-chat` Slack channel is a private channel the communication guidelines still apply as workspace admins and other users invited to the channel may not have been vetted for US Citizenship.
-
+Getting help with a US Federal ticket can be tricky since some information must be kept confidential. However, there are many times when a non-US Federal engineer may be the subject matter expert needed to help efficiently resolve a US Federal Support case. It is encouraged to ask questions in `#support_self-managed` and other Slack channels provided the [Communication Guidelines](#communication-guidelines) are followed.
+ 
 If you need a manager's help with a ticket, please keep in mind that only US Citizens have access to our US Federal Instance, which means that some of our managers cannot help you with tickets. If you are a US Citizen working in US Federal and your manager isn't, please feel free to reach out to a different manager if you are unable to address an issue without sharing confidential information.
 
 ### Discussion issues from tickets
@@ -105,4 +110,4 @@ Once the ticket has been marked as solved, the support ops bot will automaticall
 
 ## Checking for access
 
-When discussing cases or issues with others in GitLab it may be difficult to ensure they meet the [access requirements](#access-limited-to-us-citizens) to be allowed to receive confidential or sensitive information via chat, screenshare, or call. The single source of truth is whether or not that person has a US Federal Zendesk account, this can be either full or light agent access. The individuals with access have been confirmed by people-ops to be allowed access to this information. The support-ops team has built a handy tool for team members to check whether a person has access to US Federal Zendesk. The tool can be accessed by GitLab team members via [this link](https://gitlab-com.gitlab.io/support/support-ops/zendesk-us-federal/) please note that it updates weekly on Sundays at 00:00 UTC. If you need verification for someone who was added more recently you can always ask a US Federal Support Manager or Support-Ops Manager to validate. If you are not able to find a person's name in this tool the user should be considered ineligible to access the instance and you should refer to the [Communication Guidelines](#communication-guidelines) for steps on how to proceed.
+When discussing cases or issues with others in GitLab it may be difficult to ensure they meet the [access requirements](#access-limited-to-us-citizens) to be allowed to receive confidential or sensitive information via chat, screenshare, or call. The single source of truth is whether or not that person has a US Federal Zendesk account, this can be either full or light agent access. The individuals with access have been confirmed by people-ops to be allowed access to this information. The support-ops team has built a handy tool for team members to check whether a person has access to US Federal Zendesk. The tool can be accessed by GitLab team members via [this link](https://gitlab-com.gitlab.io/support/support-ops/zendesk-us-federal-project/) please note that it updates weekly on Sundays at 00:00 UTC. If you need verification for someone who was added more recently you can always ask a US Federal Support Manager or Support-Ops Manager to validate. If you are not able to find a person's name in this tool the user should be considered ineligible to access the instance and you should refer to the [Communication Guidelines](#communication-guidelines) for steps on how to proceed.

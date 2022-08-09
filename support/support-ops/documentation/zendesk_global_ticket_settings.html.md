@@ -29,7 +29,7 @@ Tickets are the core part of what we use Zendesk for.
   * Enable tags on tickets
 * CCs
   * Enable CCs on tickets
-  * Only agents can add CCs
+  * Enable CCs for end users on Help Center
   * CC blacklist: noreply@google.com
   * CC email subject: `[{{ticket.account}}] Update: {{ticket.title}}`
   * CC email text:

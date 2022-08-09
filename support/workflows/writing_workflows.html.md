@@ -24,7 +24,7 @@ While having information written down has many benefits, for people to find what
 Organization is particularly important in the workflows because often steps for a process only apply in some cases.
 Making it easier for a team member to follow a process while also allowing them to only read the necessary parts to complete a task is needed for efficiency.
 
-Creating, updating, and improving workflows fits with [GitLab values]/handbook/values/) and emphasizes many of our sub-values and approaches including:
+Creating, updating, and improving workflows fits with [GitLab values]/handbook/values/) and emphasizes many of our operating principles and approaches including:
 
 - [Handbook first](/handbook/handbook-usage/#why-handbook-first)
 - [See something, say something](/handbook/values/#see-something-say-something)

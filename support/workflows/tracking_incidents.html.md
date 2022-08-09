@@ -1,9 +1,9 @@
 ---
 layout: handbook-page-toc
-title: Tracking Security Incidents
+title: Tracking Incidents
 category: GitLab.com
-subcategory: Security
-description: Tracking security incidents that involves communication to or from Support.
+subcategory: Triaging
+description: How to perform various tasks that assist in tracking customer impact of incidents.
 ---
 
 ## On this page
@@ -14,31 +14,31 @@ description: Tracking security incidents that involves communication to or from 
 
 ## Overview
 
-Occasionally, an incident, usually security related, may result in a larger than normal number of users opening a ticket.
+Incidents usually result in a larger than normal number of users opening Zendesk tickets. In order to gauge impact and track users affected by an incident for potential followup its necessary to be able to quickly identify all tickets related to a particular incident by creating a Zendesk macro and tag for the incident.
 
-These incidents often involve communication from the security team to users which users respond to, but that's not always the case.
-
-These do not include production issues or general security tickets. See the appropriate workflows for:
-
-- [CMOC](cmoc_workflows.html) and how to handle production incidents.
-- [working with and triaging security tickets](working-on-tickets.html).
-
-## Creating a macro to track
+## Create Zendesk Macro
 
 Whether it's because a number of tickets are coming in, or we anticipate tickets,
-a macro should be created to track the tickets that are related to a specific incident.
+a macro should be created to track the tickets that are related to a specific incident. Before creating the macro you should be sure that the wording used has been approved by whoever is running the incident, which will vary depending on the type of incident. For production incidents it will be the Incident Manager and Security for security related incidents.
 
-1. Submit [a merge request to create a macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros).
-1. When creating the macro, ensure to include the following:
-  - Tag: see below for more information.
-  - Description: include a link to the relevant issue.
-1. Ask security, legal, and/or a support manager for approval on the wording (whom you ask will vary by incident).
+1. Create a new branch in the [Zendesk Macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros) project.
 
-### Deciding on a macro tag
+1. Create a new file in the [macros/active/incident](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/tree/master/macros/active/Incident) directory for the macro and use the format `Macro Title.yaml` for the title.
+    - Examples of how to format the yaml for the macro can be found in [the README](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/tree/master#some-examples) or you can reference older macros in the `incident` directory.
+    - Be sure to include the [tag:](#naming-a-tag) and `description:` headers.
 
-Based on the relevant issue, the tag for the macro should be formed from an abbreviated version of the project tracker name and the issue number.
+1. Submit a merge request for the new macro. Since it will likely be used for an ongoing incident, it's okay to ping `#support_operations` and `#spt_managers` for their expedited approval.
+
+## Naming a Tag
+
+Based on the relevant issue, the tag for the macro should be formed from an abbreviated version of the project tracker name and the issue number or `com` for GitLab SaaS production incidents.
 
 For example:
 
-- `sec_comms_302` for https://gitlab.com/gitlab-com/gl-security/security-communications/communications/-/issues/302
-- `tas_incident_444` for https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/444
+- `com_incident_6544` for [this incident](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/6544).
+- `sec_comms_302` for [this incident](https://gitlab.com/gitlab-com/gl-security/security-communications/communications/-/issues/302)
+- `tas_incident_444` for [this incident](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/444)
+
+## See Also
+
+- [How To Perform CMOC Duties](cmoc_workflows.html) for how to handle production incidents as the CMOC.

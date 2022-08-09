@@ -13,10 +13,10 @@ description: "Workflow for working with Support Operations"
 
 ## Working with Support Ops
 
-
 General speaking, working with Support Operations can be broken down into 8
 categories:
 
+* [Customer asking for support portal changes](#customer-asking-for-support-portal-changes)
 * [Asking general questions](#asking-general-questions)
 * [Request changes to your Calendly](#request-changes-to-your-calendly)
 * [Propose a change](#propose-a-change)
@@ -27,6 +27,17 @@ categories:
 * [Everything else](#everything-else)
 
 For a general overview, please see the [flowchart](#flowchart).
+
+### Customer asking for support portal changes
+
+Occasionally, a customer might mis-file a ticket and send a request for support
+portal changes using a Support form. In these cases, please change the form to
+Support Ops in Zendesk and we will handle it from there. Please do not reply
+(as that removes our SLA clock from the ticket).
+
+Please never modify a user's acces permissions or make any edits to the
+organization itself. We have specific processes and policies we must follow for
+such changes to occur.
 
 ### Asking general questions
 

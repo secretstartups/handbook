@@ -84,3 +84,16 @@ for more details on this app, as it is the same one that runs in Zendesk Global.
 See
 [Zendesk Global Apps - Architecture Diagrams](zendesk_global_apps.html#architecture-diagrams)
 for more details on this app, as it is the same one that runs in Zendesk Global.
+
+### Out of Office
+
+This will enable an agent to mark when they are out of office in Zendesk, which
+then updates tickets and makes it visible in the views.
+
+Managers are also able to do this for their reports.
+
+App information:
+
+* Located in the navbar
+* This application was developed in-house and can be found
+  [Out of Office project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-apps/out-of-office/)

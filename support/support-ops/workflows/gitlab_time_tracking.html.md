@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Time Tracking'
+title: 'Support Operations Workflows - Time Tracking'
 category: 'GitLab'
 description: 'Details on the workflow for time tracking'
 ---
