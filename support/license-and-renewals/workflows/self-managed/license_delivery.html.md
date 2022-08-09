@@ -31,3 +31,11 @@ In the event of two CustomerDot accounts associated with the same subscription, 
 If neither CustomerDot email addresses match the Sold to contact email address, the account ID is used in the lookup. It’s important to note that when querying by Zuora Account ID we aren't specifying an order to the SQL query, hence we don’t have any guarantee about the order in which the record will be returned (i.e the license could be sent to either email address).
 
 [Code reference](https://gitlab.com/gitlab-org/customers-gitlab-com/blob/b1ecd3a495843330e5ca5da0456775d817dd5139/app/services/find_or_create_customer_service.rb#L34-35) and [issue thread for more detail](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1044#note_543314532).
+
+### Check whether the license has been delivered
+
+Email delivery is logged for 30 days in MailGun. If the license was generated more than 30 days ago, we will not know whether the license was delivered or not. To see email license delivery log:
+
+1. Follow the instruction in [checking mailgun](/handbook/support/workflows/confirmation_emails.html#checking-mailgun)
+1. Use `customers.gitlab.com` as `Domain` in **Step 4** in the check mailgun instruction
+1. Update the date range to cover the license generation date
