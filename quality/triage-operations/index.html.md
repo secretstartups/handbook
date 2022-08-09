@@ -113,7 +113,7 @@ These reports are owned by the [Contributor Success team](/handbook/engineering/
 
 #### Newly created community merge requests
 
-This report contains community merge requests requiring [partial triage](/handbook/engineering/quality/merge-request-triage/#partial-triage).
+This report contains community merge requests requiring [partial triage](/handbook/engineering/quality/merge-request-triage/#partial-triage-gitlab-org).
 The goal is for coaches to add type, stage, and group labels, so that the relevant people can be pinged later on based on these labels.
 
 * Frequency: Daily.
