@@ -41,11 +41,11 @@ There are various services a Technical Account Manager will provide to ensure th
 - Regular communication and updates on GitLab features
 - Product and feature guidance - new feature presentations
 
-### Support Escalations & Coordination
+### Working with Customer Support Engineering
 
 - Upgrade planning (in partnership with Support)
-  - Review [Upgrade Assistance page](/support/scheduling-upgrade-assistance.html#how-do-i-schedule-upgrade-assistance) with customers when upgrading to ensure a plan is in place(including rollback strategy) and Support have enough preparation time to be available to help.
-- [Infrastructure upgrade coordination](/handbook/customer-success/tam/services/infrastructure-upgrade/) -  TAMs may provide high-level guidance but the technical implementation should ideally be provided by Professional Services via [Dedicated Implementation Services](https://about.gitlab.com/services/implementation/enterprise/).
+  - Review the [Upgrade Assistance page](/support/scheduling-upgrade-assistance/) with customers during upgrade planning to ensure a plan is in place (including a rollback strategy) and Support have enough time to review the plan
+- [Infrastructure upgrade coordination](/handbook/customer-success/tam/services/infrastructure-upgrade/) -  TAMs may provide high-level guidance but the technical implementation should ideally be provided by Professional Services via [Dedicated Implementation Services](https://about.gitlab.com/services/implementation/enterprise/)
 - Launch best practices
-- Advocate on support escalations
+- Review and submit [Support Ticket Attention Requests](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html)
 - Monitor SaaS based customer experience by adding them to the [Marquee Accounts alerts](https://gitlab.com/gitlab-com/gl-infra/marquee-account-alerts) project
