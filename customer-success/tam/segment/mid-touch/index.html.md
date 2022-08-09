@@ -203,4 +203,4 @@ The [Cockpit](/handbook/customer-success/tam/gainsight/ctas/#cockpit) houses all
 
 ### Usage Reporting 
 
-Understanding usage reporting is key to being a trusted advisor and leader of best practices and adoption for our customers.
+Understanding usage reporting is key to being a trusted advisor and leader of best practices and adoption for our customers. More information on this will be added soon.
