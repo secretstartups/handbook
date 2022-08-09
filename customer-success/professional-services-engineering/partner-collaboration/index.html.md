@@ -71,9 +71,9 @@ Make sure as you (and/or the partner) is delivering the implementation services,
 - All code developed for these services must NOT contain any customer information so we can reuse the project for future customers without reinventing the wheel.
 - [Consulting services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting) should be built and maintined in the consulting directory of [global practice development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development)
 
-## Employing Partner/Subcontractors
+## Employing Partner/Consultants
 
-If the project requirements exceed the current capacity of the available resources then the professional services team may employ a subcontractor to help deliver the project.  The following provides a checklist of items to process before and during the use of a subcontracted resource:
+If the project requirements exceed the current capacity of the available resources then the professional services team may employ a Consultant to help deliver the project.  The following provides a checklist of items to process before and during the use of a subcontracted resource:
 
 
 1. Partner Search 
@@ -91,17 +91,14 @@ If the project requirements exceed the current capacity of the available resourc
         - Training (Profile coming soon)
 
 1. Partner Vetting
-    - Sr. Channel Solutions Manager sends [Skills Matrix Form](https://docs.google.com/forms/d/e/1FAIpQLScxgCHtbuLl53HrzH55hTpXxCSCXeUDRo6uyM2YKxy9QHMI0w/viewform?usp=sf_link) for Subcontractor to complete prior to meetings with PS Team Members. 
-    - Sr. Channel Solutions Manager schedules 15 min "consultant vetting" from Director of Professional Services 
-    - Professional Services Director approval needed to move forward  
-    - Sr. Channel Solutions Manager to schedule 30-45 min technical deep-dive with a Senior PSE 
-    - Interview Results captured in [partner tracking sheet](https://docs.google.com/spreadsheets/d/1koIvClx0Va-PwCZqGJ6PLeYyR00oxH_yekFDiioSLLY/edit?usp=sharing)
-    - Sr. PSE approval needed to move to onboarding
-
+    - Sr. Channel Solutions Manager sends [Skills Matrix Form](https://docs.google.com/forms/d/e/1FAIpQLScxgCHtbuLl53HrzH55hTpXxCSCXeUDRo6uyM2YKxy9QHMI0w/viewform?usp=sf_link) for Consultant to complete prior to meetings with PS Team Members. 
+    - Sr. Channel Solutions Manager shows Partner Principal how consultants may access the Soft Skills Course which allows PS to assess consultative skills. 
+    - Consultants must complete Soft Skills Course (in GitLab Learn)
+    - Sr. Channel Solutions Mgr / Director of PS reviews/approves Soft Skills Course submission
 
 1. Partner Onboarding
     - Partner principals requests consultants to register on [Gitlab's Partner Portal](https://partners.gitlab.com). _This will result in an email to the consultant's inbox for them to open the "Welcome to Edcast" & activate their account for Onboarding._
-        - EdCast
+        - GitLab Learn (Thought Industries)
             - [Migration](https://gitlab.edcast.com/pathways/gitlab-migration-services-engineer-pathway)
             - [Implementation](https://gitlab.edcast.com/pathways/gitlab-implementation-engineer-specialist-pathway)
             - Training
@@ -109,14 +106,20 @@ If the project requirements exceed the current capacity of the available resourc
                 - [Gitlab Certified CI/CD Specialist](https://gitlab.edcast.com/pathways/gitlab-certified-ci-cd-specialist-pathway-for-gitlab-partner)
                 - [Gitlab Certified Associate Pathway](https://gitlab.edcast.com/pathways/gitlab-certified-associate-pathway-for-gitlab-partners)
                 - [Gitlab Certfied Project Management Specialist](https://gitlab.edcast.com/pathways/gitlab-certified-project-management-specialist-pathway-for-g-this)
+        - PSE Onboarding
+            - Complete either Migration or Implementation Certification
+            - Project Coordinator to schedule 30-45 min technical deep-dive with a Senior PSE
+            - Interview results captured in partner tracking sheet
+            - Sr. PSE approval needed to move forward with onboarding
         - Project Manager Onboarding 
-            - Partner Principals create [Gitlab Onboarding Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/onboarding-epics) for Project Managers and assign it to Subcontractor. 
-            - Subcontractor must complete onboarding issue and mark onboarding issue as completed. 
-    - Subcontractor must use the same email address they used for training to ensure onboarding issue is tied to the correct entity. 
+            - Consultant PM completes GitLab Certfied Project Management Specialist
+            - Partner principals create [Gitlab Onboarding Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/onboarding-epics) for Project Managers and assign it to Consultant
+            - Consultant must complete onboarding issue and mark onboarding issue as completed 
+    - Consultant must use the same email address they used for training to ensure onboarding issue is tied to the correct entity. 
     - Professional Services Operations Team Tasks
         - PS Ops Teams assigns an Onboarding Buddy 
-        - Onboarding Buddy will follow the subcontractor throughout the project
-        - PS Ops Team triggers the subcontractor Edcast Onboarding Pathway & manages the subcontractor onboarding journey. 
+        - Onboarding Buddy will follow the Consultant throughout the project
+        - PS Ops Team manages the Consultant onboarding journey. 
 
 
 1. Partner Projects
@@ -140,30 +143,30 @@ If the project requirements exceed the current capacity of the available resourc
         - Signed/stamped SOW is sent to the Partner for signature via Docusign or email
         - Final SOW is posted to SFDC opportunity, and in partner folder in G Drive, Mavenlink, Coupa
         - PS Ops Team ensures background checks/security clearance meets the needs of the customer 
-        - PS Ops Team sets subcontractor up in Mavenlink
-             - PS Ops Team meets with Subcontractor to [review how to log time](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations), etc.
-             - PS Ops Team adds subcontractor OOO schedule to Mavenlink
+        - PS Ops Team sets Consultant up in Mavenlink
+             - PS Ops Team meets with Consultant to [review how to log time](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations), etc.
+             - PS Ops Team adds Consultant OOO schedule to Mavenlink
 Utilize project escalation process as needed
                 - [Work at Risk (WAR)](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-at-risk&issue%5Btitle%5D=Work%20at%20Risk)
                 - [Work Exception](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-exception) 
                 - [Change Order](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=change-order&issue%5Btitle%5D=Change%20Order)
         - PS Ops Team submits Access Request Issues
             - Requesting access to appropriate technical tools (hardware & software)
-            - Requesting to add subcontractor to appropriate slack channel(s)
-        - PS GitLab Project Manager starts the project with the subcontractor
-        - PS GitLab Project Manager tracks subcontractor hours against SOW
-             - PS GitLab Project Manager keeps tabs on total burn vs. project burn to ensure subcontractor can complete the project as per the terms of the SOW
+            - Requesting to add Consultant to appropriate slack channel(s)
+        - PS GitLab Project Manager starts the project with the Consultant
+        - PS GitLab Project Manager tracks Consultant hours against SOW
+             - PS GitLab Project Manager keeps tabs on total burn vs. project burn to ensure Consultant can complete the project as per the terms of the SOW
              - PS GitLab Project Manager raises risk of Change Order to PS Ops as appropriate
-        - Subcontractor holds weekly check-in outside of customer meetings, including with their onboarding buddy. _Subcontractor and PS Onboarding Buddy ensure clear communication (as subcontractor have less access to slack)._
+        - Consultant holds weekly check-in outside of customer meetings, including with their onboarding buddy. _Consultant and PS Onboarding Buddy ensure clear communication (as Consultant have less access to slack)._
 
 
 1. Partner Offboarding
-    - PS Project Manager invites subcontractor to Project Retrospective meeting (as appropriate)
+    - PS Project Manager invites Consultant to Project Retrospective meeting (as appropriate)
     - PS Project Manager submits an Access Request to:
-        - Remove the subcontractor from the customer project slack channel
+        - Remove the Consultant from the customer project slack channel
         - Remove access to any project specific GitLab tools or development work spaced
-            - Ensure subcontractor is not working on any other ongoing projects
-    - PS Onboarding Buddy or PS GitLab Project Manager sends Subcontractor Survey to gather feedback on project & onboarding experience. 
+            - Ensure Consultant is not working on any other ongoing projects
+    - PS Onboarding Buddy or PS GitLab Project Manager sends Consultant Survey to gather feedback on project & onboarding experience. 
 
 
 
