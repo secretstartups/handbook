@@ -182,7 +182,7 @@ Check out Coverage Historical Curves (at the bottom of the [Deep Dive dashboard]
 - You can see Net ARR amount for Target, Closed, Pipe Gen, Open Pipe for Stage 1+, 3+ and 4+ (current quarter (CQ), CQ+1, CQ+2)
 - You can also see Deal Count for CQ, CQ+1, CQ+2
 - Color scale (cell color) allows you to compare with historical values. For example,
-  - 🟢 Region A has Pipeline Coverage of `2.3` for the current quarter (Stage 3+). Andthe average coverage for the past 4 quarters was `2.2`
+  - 🟢 Region A has Pipeline Coverage of `3.7` for the current quarter (Stage 3+). And the average coverage for the past 4 quarters was `3.6`
     - the current coverage is close to the historical one.     
   - 🔴 Region B - Area B has Pipeline Coverage of `2.5` for CQ+1 (Stage 1+). However, the coverage for the past 4 quarters was `3.5`
     - The gap is significant and management attention is needed for pipeline generation.         
