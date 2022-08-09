@@ -1635,8 +1635,6 @@ Please visit the [Tools and Tips handbook](/handbook/tools-and-tips/#zoom) for Z
 
 Due to school closures, parents are tasked with being responsible for their children while at home. [Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second) is an important Diversity, Inclusion & Belonging operating principle. To that end, we are encouraging GitLab team members to allow their children to connect with other children around the world.
 
-You can arrange these by [joining the `#kid-juicebox-chats` Slack channel](/company/culture/all-remote/informal-communication/#juice-box-chats) — a spin on our usual [Coffee Chats](/company/culture/all-remote/informal-communication/#coffee-chats).
-
 During this time of physical distancing, GitLab team members are welcome to use Zoom to connect with family if other options like FaceTime, etc. are not an option. Please ensure that attendees who are not GitLab team members have their own Zoom account. To ensure GitLab does not incur toll charges, please use Internet-based voice when possible.
 
 ### Zoom webinars
