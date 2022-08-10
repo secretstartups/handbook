@@ -5,6 +5,8 @@ category: General
 description: Billing and invoicing requests require action from our Billing/Accounts Receivable team.
 ---
 
+{::options parse_block_html="true" /}
+
 - TOC
 {:toc .hidden-md .hidden-lg}
 
@@ -83,6 +85,99 @@ You can confirm that a Zuora account is `silent` by checking **Billing and Payme
 
 These situations are handled by following the steps in the [Billing Entity Change: Associate Subscription](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/Billing%20Entity%20Change%3A%20Associate%20Subscription.md)
 issue template.
+
+### How to handle Billing Entity changes using the CustomersDot Rails console
+
+<div class="panel panel-gitlab-orange">
+**Console Hacks Deprecation Notice**
+{: .panel-heading #console-hacks-notice}
+<div class="panel-body">
+
+Following the [discussion and decision to be more pushy than hacky](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4299) 
+using console commands in CustomersDot, this workflow is documented **as a temporary workaround only** while the Fulfillment team works on 
+integrating Billing entity changes in the product.
+
+The progress on Fulfillment's work can be followed in these reported issues:
+
+- [Process for, and gaps around, Billing Entity Change from Fulfillment perspective](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/537)
+- [Billing Entity Change: SaaS Subscriptions should provision correctly](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4376)
+- [Spike: Provision an SM License correctly after a Billing Entity Change](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3044)
+
+This workflow will be removed once the above issues are fixed.
+
+</div>
+</div>
+
+When a Billing Entity Change occurs, there will be two Zuora accounts and two subscriptions; the old subscription would be on the canceled Zuora account, the new subscription would be on the active Zuora account. The newly created subscription will very possibly not have an Order object created for it, because the billing workflow sets the communication profile to `silent` during creation, which prevents Zuora from making callouts to CustomersDot. An Order is required to link a subscription to a namespace on GitLab, so you will need to create one.
+
+To create an Order and link the namespace to the new subscription:
+
+1. The support engineer requires [console access to CustomersDot](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html). There is not currently a way to fullfil it via mechanizer.
+1. [Find the old and new Zuora Accounts](#finding-zuora-accounts)
+1. Confirm the CustomersDot account has the new `Zuora account` ID
+1. [Create an Order for the new subscription](/support/license-and-renewals/workflows/customersdot/customer_console.html#create_order_from_zuora)
+1. [Link the new subscription to the group](/support/license-and-renewals/workflows/customersdot/customer_console.html#force_reassociation)
+1. Confirm the `Max seats used` is reset to current seats in use count. If not, update it using the [account_seats](support/license-and-renewals/workflows/customersdot/customer_console.html#reset-max-seats) function.
+    - This step may be needed here to adjust their `Max seats used` to their `Seats currently in use`, because this process does not automatically reset that like it normally would during a renewal. You may need to use discretion here if the customer's max historical seatcount is wildly different from what they are currently paying for. 
+
+Examples of this workflow:
+
+- https://gitlab.com/gitlab-com/support/internal-requests/-/issues/10633
+- https://gitlab.com/gitlab-com/support/internal-requests/-/issues/10585
+
+#### Finding Zuora accounts
+
+For the above workflow, you need to locate both of the Zuora accounts in question. The entity change results in a new billing account being created, and the SaaS subscription(s) being recreated on that account.
+- From CustomersDot: If you know the CustomersDot account, at least one of the Zuora accounts will be present in the `History` tab and you can work from there.
+- From SFDC: You can usually find both Zuora account IDs by looking at the SFDC account -> Billing Accounts.  In the best case, there will be only 2 accounts listed there, the new and the old.  But often there are several billing accounts associated with a customer account. The billing account in SFDC will have an Account Number in the format of `A000XXXXX`. This can be searched directly in Zuora from the search page on Customer Accounts. Alternatively, the SFDC billing account shows a Zuora ID md5 hash, which you can supply to Zuora by editing this URL: `https://www.zuora.com/apps/CustomerAccount.do?method=view&id=ZUORA-ID-MD5-HASH-GOES-HERE`
+
+If the above suggestions do not work, either use a different method for locating them, and/or see below on [Finding subscriptions](#finding-subscriptions).
+
+When creating an order for the new subscription, the `create_order_from_zuora` function will query the Customer object, look at their Zuora subscriptions, and create the order based on that, so the CustomersDot account **must be pointing at the new Zuora account**.  If it is not, make sure you are looking at the right account, and if you are, then just update the `Zuora account` field to the correct ID. Billing team usually handles that, though.
+
+#### Finding subscriptions
+
+- Easily identify the old/cancelled subscription via console:
+
+   ```ruby
+   pp Order.find_by(subscription_name: "old-subscription-name")
+   id: 123456,
+   customer_id: 123456,
+   product_rate_plan_id: "2c92a00d76f0d5060176f2fb0a5029ff",
+   subscription_id: "MD5-HASH-HERE",
+   subscription_name: "old-subscription-name",
+   start_date: timestamp,
+   end_date: timestamp,
+   quantity: 216,
+   gl_namespace_id: "1234567",
+   gl_namespace_name: "group-name",
+   amendment_type: "RemoveProduct",
+   trial: false,
+   last_extra_ci_minutes_sync_at: nil,
+   zuora_account_id: "MD5-HASH-HERE",
+   ```
+
+   You can also try just locating all subscriptions ever linked to the group namespace:
+
+   ```ruby
+   pp Order.where(gl_namespace_id: xxxxxx)
+   ...
+   ...
+   customer_id: 123456,
+   product_rate_plan_id: "2c92a00d76f0d5060176f2fb0a5029ff",
+   subscription_id: "MD5-HASH-HERE",
+   subscription_name: "old-subscription-name",
+   ...
+   ...
+   ```
+
+   You may notice that the `end_date` is the **renewed** `end_date`, because it was renewed and then cancelled, so don't get tripped up by that. The important parts are the `subscription_name`, and if needed, the `customer_id`, `subscription_id`, and `zuora_account_id`.
+- From SFDC both subscriptions will be listed in the SFDC account under Subscriptions and/or Subscription Product & Charges. You should notice they point at 2 different billing accounts, and one of the susbcriptions will be marked as `Cancelled`.  You can use both of these to locate the Zuora accounts if you haven't already. Generally, the subscription with the higher ID number will be the new one. Alternatively if you can locate the relevant quotes in SFDC that have their status as `Sent to Z-Billing`, the quotes will have the **Zuora Subscription ID md5 hash**.
+- If you have their CustomersDot account, the new subscription should also appear under their `Zuora Subscriptions` tab. If not, either there exists another CustomersDot account (try searching by just contact email domain), or possibly the CustomersDot account wasn't updated.
+
+Once you locate a `subscription_id` you can directly access the subscription by editing this URL: `https://www.zuora.com/apps/Subscription.do?method=view&id=ZUORA-ID-GOES-HERE`.
+
+In Zuora, the old / cancelled subscription may also have a field `Renewal subscription`, which lists the name of the newly created subscription.
 
 ## Cancellations, Downgrades, and Refunds
 
