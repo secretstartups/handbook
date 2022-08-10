@@ -1,79 +1,107 @@
 ---
 layout: job_family_page
-title: "People Operations"
+title: "People Connect"
 ---
 
-The People Operations Specialist plays a critical role in influencing and supporting the people strategy within the GitLab - collaboratively working to develop, optimize and implement people processes and programs while overseeing the day-to-day responsibilities associated with people operations.
+The People Connect Team plays a critical role in influencing and supporting the people strategy within the GitLab - collaboratively working to develop, optimize and implement people processes and programs while overseeing the day-to-day responsibilities associated with people operations.
 
-## People Operations Specialist
+## People Connect
 
 ## Levels
 
-### People Operations Specialist (Intermediate)
+### People Connect Specialist
 
-The People Operations Specialist (Intermediate) reports to the Manager, People Operations.
+The People Connect Specialist reports to the Manager, People Connect.
 
 #### Job Grade
 
-The People Operations Specialist (Intermediate) is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Connect Specialist is a [Grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
+- Ensure a positive onboarding experience for new team members by ensuring all aspects of onboarding are completed accurately and timely including communication with new team members.
+- Raise documentation or process gaps as identified to the team.
+- Conduct regular audits of team member data, including missing data points and compensation or bonus payments.  
+- Serve as the first line of contact for all team member inquiries via slack and / or email.
+- Process requests for verifications of employment and unemployment claims.
+- Audit onboarding issues to ensure task completion in alignment with applicable deadlines.
+- Coordinate and invite new team members to the GitLab Team Meetings Calendar and the GitLab Unfiltered YouTube Channel; oversee the New Hire Swag process
+- Facilitate the ordering of gifts and flowers for significant life events, work anniversaries, or on request, ensuring these are correctly expensed to the relevant team.
+- Re-allocation of tasks to ensure a level of continuity in instances where team members have indicated that they may be unable to attend to them by way of a handover discussion.
+
+#### Requirements
+
+- Ability to demonstrate integrity and maintain confidentiality. 
+- Proactive and result driven with strong attention to detail.
+- Experience with the following tools is a plus: Greenhouse, GitLab and Workday.
+- Ability to work within a distributed team in a fast-paced, changing environment.
+- Able to split focus across a diverse yet equally important set of functions.
+- Strong verbal and written communication skills.
+
+
+### Sr People Connect Specialist
+
+The Sr People Connect Specialist reports to the Manager, People Connect.
+
+#### Job Grade
+
+The Sr People Connect Specialist is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+- Ensure a positive onboarding experience for new team members by ensuring all aspects of onboarding are completed accurately and timely including communication with new team members. 
 - Document, implement and work to improve upon processes, procedures and programs relating to the team member lifecycle - conducting regular reviews around optimization and scalability.
-- Ensure the delivery of critical people operations processes e.g. relocations (global mobility services), unemployment claims, offboarding and job information changes including compensation, promotions and transfers.
-- Take full ownership of team member documentation including contracts, amendments and all other items pertinent to the team member lifecycle.
-- Accountable for HRIS data including team member records and information changes such as promotions, terminations and transfers.  Ensuring the integrity and accuracy of all people data both in the HRIS and ancillary systems.
-- Ensure that the People Experience Associate team has a full understanding of operational processes and policies providing guidance, support and training when necessary.
-- Serve as a primary point of escalation and internal team member support for more complex cases, providing policy guidance and interpretation as needed (People Connect).
-- In collaboration with various cross-functional partners, build and drive timely implementation of projects relating to the various points within the team member lifecycle coordinating workstreams and associated communication mechanisms.
-- Support the People Business Partner (PBP) team i.e. administration of various surveys, conduct exit interviews (IC) and provide useful data to guide decision making.
-- Provide functional and technical support surrounding the employee experience platform i.e. general configuration, trouble-shooting issues, managing settings and recommending process improvements.
+- Participate in meetings as an operational subject matter expert which impacts operational design, reporting, or workflows.
+- Perform operational tasks as needed such as data entry, transactional processing, contracts amendments and all other items pertinent to the team member lifecycle.
+- Provide team members with exceptional service regarding all People related inquiries through resolution accountability. 
+- Manage and provide early intervention and support for the resolution to issues as they are identified and helps to implement long-term solutions.
 - Collaborate with the Employment Solutions Partner to support relocation requests, fostering a close relationship with co-employers to ensure quality delivery of mobility services.
+- Conduct exit interviews for Managers and Directors identifying and reporting on trends.
+- Complete a variety of non-recurring and ongoing projects in partnership with the Lead or assigned by Manager.
 
 #### Requirements
 
-- Bachelor's Degree with related majors e.g. Human Resources (HR), Industrial Psychology or Business Management **or** three years of experience in a generalist role ideally within a growth-stage tech company with exposure to either an all-remote or hybrid environment (minimum).
 - Understanding of the entire team member lifecycle, with the ability to recommend process-oriented and/or operational solutions to improve the team member experience.
-- Experience with Greenhouse, Workday, GitLab and Culture Amp (ideal).
-- Ability to work within a distributed team and as an individual contributor in a fast-paced, changing environment.
+- Experience with the following tools is a plus: Greenhouse, Workday, GitLab and Culture Amp.
+- Ability to work within a distributed team in a fast-paced, changing environment.
 - Strong verbal and written communications with the ability to effectively communicate at multiple levels within the company.
 - Strong problem solving and organizational skills - able to manage multiple priorities in a dynamic and occasionally ambiguous environment.
-- Able to use discretion and handle highly sensitive information.
+- Ability to demonstrate integrity and maintain confidentiality.
 - Excellent interpersonal skills and ability to establish strong relationships at all levels and across functions.
 
-### Senior People Operations Specialist
 
-The Senior people Operations Specialist reports to the Manager, People Operations.
+### People Connect Lead
+
+The People Connect Lead reports to the Manager, People Connect.
 
 #### Job Grade
 
-The Senior People Operations Specialist is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Connect Lead is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
-- Serve as a Subject Matter Expert (SME) on all people operations processes, policies and tools.
+- Guide the team on best-practices to quickly resolve issues in specific functional areas.
+- Act as primary escalation point for overall service delivery and internal team support, communicating escalations to team manager as appropriate for awareness or further escalation.
+- Ensure process documentation is current, accurate and fully supports achievement of service level agreements.
 - Translate legal and regulatory requirements into system or process requirements in collaboration with the People Compliance Partner.
-- Develop and maintain a system to ensure that people policies are consistently updated and shared.
 - Monitor and leverage metrics and trends to determine process improvement opportunities ultimately working to enhance the team member experience.
-- Collaborate with Employment Solutions and various other stakeholders such as third party employers to ensure that regional employment contracts, policies and practices are aligned to the unique requirements of each location i.e. data retention, legislative, regulatory and taxation.
-- Support the implementation and testing of people tools and technologies including but not limited to the HRIS.
-- Serve as a Subject Matter Expert (SME) for various modules within the HRIS.
-- Accountable for knowledge transfer within the People Operations team in close collaboration with various stakeholders e.g. Total Rewards, - Learning and Development, Stock Administration etc.
-- Work closely with the People Operations Manager to review and maintain the project roadmap in alignment with the needs of the company - identifying and escalating blockers, recommending changes and additions to scope and prioritizing action items.
-- Guide the People Experience Team working to ensure that the team member journey is consistent and aligned to the values of the company, serving as a point of escalation as needed.
-- Program Management i.e. responsible for the delivery of key programs such as the 360 Feedback Cycle, Engagement Surveys and Performance Assessments.
-- Conduct exit interviews for Managers, Directors and E-Group Members identifying and reporting on trends.
+- Collaborate with Employment Solutions and various stakeholders such as third party employers to ensure that regional employment contracts, policies and practices are aligned to the unique requirements of each location i.e. data retention, legislative, regulatory and taxation.
+- Serve as a Subject Matter Expert (SME) for various modules within our People Systems.
+- Accountable for knowledge transfer within the People Connect team in close collaboration with various stakeholders e.g. Total Rewards, Learning and Development, Stock Administration, etc.
+- Support as Program Manager for the delivery of key programs such as the 360 Feedback Cycle, Engagement Surveys and Performance Assessments.
+- Conduct exit interviews for People Group and E-Group Members identifying and reporting on trends.
+
 
 #### Requirements
 
-- Bachelor's Degree with related majors e.g. Human Resources (HR), Industrial Psychology or Business Management **or** five years of experience in a generalist role ideally within a growth-stage tech company with exposure to either an all-remote or hybrid environment (minimum).
-- Understanding of the entire team member lifecycle, with the ability to recommend process-oriented and/or operational solutions to improve the team member experience.
-- Experience with Greenhouse, Workday and Culture Amp (ideal).
+- Comprehensive understanding of the entire team member lifecycle, with the ability to recommend process-oriented and/or operational solutions to improve the team member experience.
+- Experience with the following tools is a plus: Greenhouse, Workday, GitLab and Culture Amp.
 - Ability to work within a distributed team and as an individual contributor in a fast-paced, changing environment.
-- Strong verbal and written communications with the ability to effectively communicate at multiple levels within the company.
-- Strong problem solving and organizational skills - able to manage multiple priorities in a dynamic and occasionally ambiguous environment.
-- Able to use discretion and handle highly sensitive information.
+- Excellent verbal and written communications with the ability to effectively communicate at multiple levels within the company.
+- Excellent problem solving and organizational skills - able to manage multiple priorities in a dynamic and occasionally ambiguous environment.
+- Ability to demonstrate integrity and maintain a high level of confidentiality.
 - Excellent interpersonal skills and ability to establish strong relationships at all levels and across functions.
+
 
 ## Manager, People Connect
 
@@ -111,7 +139,7 @@ The Manager, People Connect is a [Grade 8](/handbook/total-rewards/compensation/
 
 #### Requirements
 
-- Ability to use GitLab
+- Ability to use Greenhouse, Workday, GitLab and Culture Amp
 - The ability to work autonomously and to drive your own performance & development would be important in this role
 - Prior extensive experience in a People Operations role
 - Willingness to work odd hours when needed (for example, to call an embassy in a different continent)
@@ -128,13 +156,13 @@ The Manager, People Connect is a [Grade 8](/handbook/total-rewards/compensation/
 - High sense of urgency and accuracy
 - Experience at a growth-stage tech company
 
-## Senior Manager, People Operations
+## Senior Manager, People Connect
 
-The Senior Manager, People Operations reports to Director, Global People Operations. 
+The Senior Manager, People Connect reports to Director, Global People Operations. 
 
 #### Job Grade
 
-The Senior Manager, People Operations is a [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, People Connect is a [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
