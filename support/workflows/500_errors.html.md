@@ -85,7 +85,7 @@ See the [Sentry workflow](sentry.html).
 
 A video walkthrough of investigating 500 errors using Kibana and Sentry can be seen [here](https://youtu.be/o02t3V3vHMs) (GitLab Unfiltered).
 
-#### Escalation
+#### Get the results into an issue
 
 Once results have been found in either Kibana or Sentry, do the following.
 
@@ -93,7 +93,9 @@ Once results have been found in either Kibana or Sentry, do the following.
 1. Search the [GitLab issue tracker](https://gitlab.com/gitlab-org/gitlab) for any duplicate or related issue.
 1. Confirm if the issue is known or unknown and proceed accordingly: [Issue is known](#issue-is-known) or [Issue is unknown](#issue-is-unknown).
 
-#### Response
+In a Priority 1/Severity 1 situation, consider a [dev escalation](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html).
+
+#### Responding to the user
 
 ##### Issue is known
 
