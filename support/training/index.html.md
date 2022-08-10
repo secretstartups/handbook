@@ -176,6 +176,10 @@ The modules in this section should eventually be taken regardless of your Area o
 
 We are continuously working on adding more modules and building out more learning pathways: you can find a list of all our current training modules and Modules in the [Support Training project](https://gitlab.com/gitlab-com/support/support-training/-/tree/master/.gitlab/issue_templates).
 
+### Creating and viewing GitLab component based training. 
+
+Anyone at GitLab can contribute to creating custom Support-specific training on how to use, configure or debug GitLab and its various components. Within the existing [Support Training Project](https://about.gitlab.com/handbook/support/training/) there is a directory named [Support Specific Trainings](https://gitlab.com/gitlab-com/support/support-training/-/tree/master/Support%20Specific%20Trainings ) that provides a means for storing shorter non-module-based training documents and videos. The directory contains a [ReadMe](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/Support%20Specific%20Trainings/ReadMe.md) which provides specific instructions on how to add training material to the directory and where to upload any associated videos.
+
 ---
 
 ## Support Manager Onboarding Pathway
