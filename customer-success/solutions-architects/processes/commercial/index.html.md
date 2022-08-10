@@ -20,7 +20,7 @@ The Commercial SA Engagement Model intends to foster collaboration and influence
 
 #### SA Engagement Considerations
 
-- All Solutions Architect (SA) requests are submitted via [Commercial Triage board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/-/issues/new).
+- All Solutions Architect (SA) requests are submitted via [Customer Success Triage Request Form](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/cs-triage-request/#/).
 - SA notes and activities are logged within Salesforce via Troops.ai (review the [SA Activity Capture page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/)).
 - Deal qualification for Mid-Market, Named Accounts and SMB is simply any deal that **is piped at $10k and higher** focused not only on engagement value but also customer potential for consideration of Solutions Architect assignment.
 - Deal qualification for First Order is a deal that **is piped at $2k and higher**.
