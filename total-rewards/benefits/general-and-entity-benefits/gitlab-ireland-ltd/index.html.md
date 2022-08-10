@@ -109,7 +109,7 @@ Once the total rewards team has approved the bike or ticket application, an invo
 ## GitLab Ireland LTD Leave Policy
  
 ### Statutory Sick Leave
-Effective January 1, 2022 team members in Ireland are entitled to minimum of 3 days of paid sick leave per year. The new entitlement will be phased in as part of a 4-year plan, starting with 3 days Statutory Sick Pay (SSP) per year in 2022, increasing to a maximum of 10 days paid SSP in 2025, as follows:
+Team members in Ireland will be entitled to minimum of 3 days of paid sick leave per year when the [relevant legislation](https://www.irishstatutebook.ie/eli/2022/en/act/pub/0024/index.html) enters into force in 2022. The new entitlement will be phased in as part of a 4-year plan, starting with 3 days Statutory Sick Pay (SSP) per year in 2022, increasing to a maximum of 10 days paid SSP in 2025, as follows:
 
 - 2022: 3 days
 - 2023: 5 days
@@ -119,7 +119,7 @@ Effective January 1, 2022 team members in Ireland are entitled to minimum of 3 d
 Ireland's statutory sick leave policy is separate from GitLab's [Sick Time policy](/handbook/paid-time-off/#sick-time---taking-and-reporting) but when allowed by law will run concurrently with this leave policy.  If a team member needs more time away, GitLab's Sick Time policy will take precedence. 
 
 #### Statutory Sick Leave Pay Calculations
-GitLab is required to pay a minimum of 70% of an team member’s gross wage, subject to a daily cap of €110, but will continue the team member's salary up to 100%. Team members must identify the absence as sickness-related (and comply with the notification requirements below) in order to receive the SSP.   
+GitLab will be required to pay a minimum of 70% of an team member’s gross wage, subject to a daily cap of €110, but will continue the team member's salary up to 100%. Team members must identify the absence as sickness-related (and comply with the notification requirements below) in order to receive the SSP.   
     - This daily cap is based on the 2019 average weekly earnings and equates to an annual salary of €40,889.16. It may be revised in the future in line with inflation and changing incomes. 
 
 #### Statutory Sick Leave Eligibility
@@ -146,7 +146,7 @@ Team Members may also be eligible for Ireland's [Illness Benefit](https://www.ci
  
 **Paternity Leave:** All team members who qualify as [“relevant parents”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/paternity_leave.html) can take up to 2 consecutive weeks of Paternity Leave, taken within the first 6 months following the birth/adoption. 
  
-**Parent’s Leave:** All team members who qualify as [“relevant parents”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/parents_leave.html) can take up to 5 weeks of Parent's Leave during the first 2 years of their child's life, or within 2 years of the adoption event. Leave may be taken in one continuous period, or in several periods of not less than one week.
+**Parent’s Leave:** All team members who qualify as [“relevant parents”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/parents_leave.html) can take up to 7 weeks of Parent's Leave during the first 2 years of their child's life, or within 2 years of the adoption event. Leave may be taken in one continuous period, or in several periods of not less than one week.
  
 **Parental Leave:** All team members who qualify as [“relevant parents”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/parental_leave.html) can take up to 26 weeks of unpaid Parental Leave.
  
@@ -172,9 +172,10 @@ Team Members may also be eligible for Ireland's [Illness Benefit](https://www.ci
  * Submit your application via the [Paternity Benefit gov.ie website](https://www.gov.ie/en/service/apply-for-paternity-benefit/) at least 4 weeks before you intend to start your leave.
  
 #### State Parent’s Leave Payment
-* Team members must give written notice to the Absence Management team at `leaves@gitlab.com` of their intention to take parent’s leave at least six weeks before the intended start date.
-* Team members who take Parent’s Leave may also qualify for [Parent’s Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/parents_benefit.en.html) if they have enough social insurance (PRSI) contributions.
-* To apply for Parent's Benefit, submit your application via the [Parent's Benefit gov.ie website](https://www.gov.ie/en/service/b321b1-parents-benefit/).
+* You will be entitled to take 7 weeks of Parent's leave in the first 2 years of a child’s birth or adoption and you can take 7 consecutive weeks or 7 separate weeks of leave.
+* Team members must give written notice to the Absence Management team at `leaves@gitlab.com` of their intention to take parent’s leave at least 6 weeks before the intended start date.
+* You may also qualify for 7 weeks [Parent’s Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/parents_benefit.en.html) if you have enough social insurance (PRSI) contributions.
+* To apply for Parent's Benefit, submit your application via the [Parent's Benefit gov.ie website](https://www.gov.ie/en/service/b321b1-parents-benefit/) at least 4 weeks before the date you start your parent’s leave.
 * Parent’s Leave runs concurrently with [GitLab Parental Leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
  
 #### Parental Leave
