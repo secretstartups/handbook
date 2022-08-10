@@ -27,7 +27,7 @@ To create an issue for yourself with one of the module templates:
 
 ## Support hybrid model
 
-The hybrid model presents a structured training plan that will prepare the support engineer to work in different areas focusing their growth in the differences in how to approach problems in the new areas and get most our of the knowledge acquired up to that point.
+The hybrid model presents a structured training plan that will prepare the support engineer to work in different areas focusing their growth in the differences in how to approach problems in the new areas and get most our of the knowledge acquired up to that point. For those working through the hybrid model path, you may also find these [checkpoints](/handbook/support/training/onboarding_hybrid_path_checkpoints.html) a useful reference.
 
 <div class="x-scrollable">
 <div style="width: 1800px;">
@@ -145,7 +145,7 @@ After you complete an Area of Focus, talk with your manager about joining an on-
 
 ### Support Engineer Achievable Progress - First 6 Months
 
-Our onboarding pathway gives new Support Engineers an opportunity to learn at their own pace and explore. We strongly believe in learning by doing ([70/20/10 learning model](https://trainingindustry.com/wiki/content-development/the-702010-model-for-learning-and-development/)), and encourage Support Engineers to start contributing on tickets (with public or internal comments) from as early as your 3rd week.
+Our onboarding pathway gives new Support Engineers an opportunity to learn at their own pace and explore. We strongly believe in learning by doing ([70/20/10 learning model](https://trainingindustry.com/wiki/content-development/the-702010-model-for-learning-and-development/)), and encourage Support Engineers to start contributing on tickets (with public or internal comments) from as early as your 3rd week. 
 
 **NOTE:** The 6 months starts after your initial [Support Learning Pathways](#support-learning-pathways) are complete.
 
