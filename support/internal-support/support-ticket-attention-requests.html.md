@@ -63,7 +63,7 @@ Depending on whether you want to draw attention to either a Zendesk ticket or an
 1. Review the SLA associated with the account and the amount of time left until a breach by logging into [Zendesk](https://gitlab.zendesk.com) using Okta. It's not typically necessary to STAR an issue that is hours away from a breach. If the ticket has had the first reply, then you are looking at an "internal (next reply) breach".
 1. Ensure the latest response is from the customer. If the latest response is from us, we're waiting on the customer to reply.
 
->**Note:** If you do not have Zendesk access, please [request a Light Agent account](/handbook/support/internal-support/#viewing-support-tickets) to obtain it.
+>**Note:** If you do not have Zendesk access, please [request a Light Agent account](/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) to obtain it.
 
 
 ### Unstarring a ticket
