@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
-title: "Contribution Efficiency"
+title: "Contributor Growth"
 description: "Implement key business iterations that results in substantial and sustained increases to community contributors & contributions"
-canonical_path: "/company/team/structure/working-groups/contribution-efficiency/"
+canonical_path: "/company/team/structure/working-groups/contributor-growth/"
 ---
 
 ## On this page
@@ -16,8 +16,8 @@ canonical_path: "/company/team/structure/working-groups/contribution-efficiency/
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | October 28rd, 2021 |
-| Target End Date | April 28rd, 2022 |
-| Slack           | [#wg_contribution-efficiency](https://gitlab.slack.com/archives/C0223D98HHC) (only accessible from within the company) |
+| Target End Date | October 28rd, 2022 |
+| Slack           | [#wg_contributor-growth](https://gitlab.slack.com/archives/C0223D98HHC) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1AOgqaslnq-WI1ICSZ1NzSnALf1Va4D5qAD191icAoSI/edit#) (only accessible from within the company) |
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/3014703?label_name%5B%5D=Contribution%20Efficiency) (items above the cut-line) |
 
@@ -44,7 +44,7 @@ Implement key business iterations that results in substantial and sustained incr
 | Working Group Role    | Person                                               | Title                                                      |
 |-----------------------|------------------------------------------------------|------------------------------------------------------------|
 | Executive Sponsor     | [Mek Stittri](https://gitlab.com/meks)               | VP of Quality                                              |
-| Functional Lead       | [Kyle Wiebers](https://gitlab.com/kwiebers)          | Engineering Manager, Engineering Productivity              |
+| Functional Lead       | [Nick Veenhof](https://gitlab.com/kwiebers)          | Director of Contributor Success                            |
 | Functional Lead       | [John Coghlan](https://gitlab.com/johncoghlan)       | Manager, Community Relations                               |
 | Functional Lead       | [Christos Bacharakis](https://gitlab.com/cbacharakis)| Senior Code Contributor Program Manager                    |
 | Member                | [Rémy Coutable](https://gitlab.com/rymai)            | Staff Backend Engineer, Engineering Productivity           |
