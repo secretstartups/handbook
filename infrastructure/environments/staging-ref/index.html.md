@@ -31,7 +31,7 @@ Staging Ref is a sandbox environment used for pre-production testing of the late
 ### Environment information
 
 - [Geo](https://docs.gitlab.com/ee/administration/geo/) is setup on Staging Ref with these configurations:
-  - Staging Ref US site - *primary* - [10k Cloud Native Hybrid Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative) environment - stateless components (Webservice, Sidekiq, NGINX, etc) deployed to Google Kubernetes Engine cluster and the remaining stateful components installed to GCP virtual machines
+  - Staging Ref US site - *primary* - [10k Cloud Native Hybrid Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative) environment - stateless components (Webservice, Sidekiq, NGINX) deployed to Google Kubernetes Engine cluster and the remaining stateful components installed to GCP virtual machines
   - Staging Ref EU site - *secondary* - [3k Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/3k_users.html) full Omnibus environment
 - Deployed with [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/gitlab-environment-toolkit) and [Deployer](https://ops.gitlab.net/gitlab-com/gl-infra/deployer)
 - SSL Certificates automated with [Let's Encrypt](https://letsencrypt.org/)
@@ -90,7 +90,7 @@ gstg_qa -[#554488]-> gprd
 Staging Ref is a safe playground for engineers who want to test latest Staging(`gstg-cny`) code. Staging Ref has several advantages that allow it to be a full-fledged sandbox environment:
 
 - Staging Ref deployments do not block the deployment process and can be tweaked or updated by any GitLab engineer. Hence GitLab engineers have wide permissions and full control over the environment.
-- Environment follows 10k hybrid architecture so it is more performant than existing Staging(`gstg`) and could be used for load testing if needed.
+- Environment follows 10k hybrid architecture, so it is more performant than existing Staging(`gstg`) and could be used for load testing if needed.
 
 To sign in to the environment, navigate to [staging-ref.gitlab.com](https://staging-ref.gitlab.com/users/sign_in) and use your GitLab Google account in 'Sign in with Google' option.
 
@@ -159,7 +159,7 @@ For using SAML SSO, you will need to:
 1. Save the changes.
 1. Sign out.
 
-The first time you visit [https://staging-ref.gitlab.com/groups/saml-sso-group](https://staging-ref.gitlab.com/groups/saml-sso-group) and try to login, you will be asked to sign in to GitLab with an existing account to
+The first time you visit [https://staging-ref.gitlab.com/groups/saml-sso-group](https://staging-ref.gitlab.com/groups/saml-sso-group) and try to log in, you will be asked to sign in to GitLab with an existing account to
 link the SAML identity. Use username `gitlab-qa-saml-sso-user1` or `gitlab-qa-saml-sso-user2` to sign in. The credentials are in 1Password.
 
 ### Future iterations and known limitations
@@ -171,10 +171,11 @@ Staging Ref environment has some known limitations that will be worked on:
 - Setup Kibana for Staging Ref([issue#351816](https://gitlab.com/gitlab-org/gitlab/-/issues/351816))
 - Configure CustomersDot portal for Staging Ref ([issue#352594](https://gitlab.com/gitlab-org/gitlab/-/issues/352594))
 - Incoming email setup ([issue#348970](https://gitlab.com/gitlab-org/gitlab/-/issues/348970))
-- More advanced configurations like Geo ([issue#350741](https://gitlab.com/gitlab-org/gitlab/-/issues/350741))
+- Configure Unified URL on Staging Ref ([issue#370312](https://gitlab.com/gitlab-org/gitlab/-/issues/370312))
 - Load testing ([issue#344223](https://gitlab.com/gitlab-org/gitlab/-/issues/344223), [issue#344224](https://gitlab.com/gitlab-org/gitlab/-/issues/344224))
-- QA test session reports are not linked to Release tasks ([issue#2168](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2168))
 - Increase Staging Ref adoption and gather feedback - ([issue#350744](https://gitlab.com/gitlab-org/gitlab/-/issues/350744))
+
+Other outstanding work for Staging Ref is tracked [in GitLab issue tracker](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=staging-improvements&label_name%5B%5D=Future&first_page_size=20).
 
 ### Feedback
 
