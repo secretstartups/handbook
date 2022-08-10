@@ -63,13 +63,13 @@ The below criteria will be marked as complete when we close the working group, a
 | Working Group Role    | Person                                               | Title                                                      |
 |-----------------------|------------------------------------------------------|------------------------------------------------------------|
 | Executive Sponsor     | Eric Johnson                                         | CTO                                                        |
-| Facilitator           | Wayne Haber                                          | Director of Engineering                                    |
+| Facilitator           | Justin Farris                                        | Senior Director of Product Management |
+| Functional Lead       | Wayne Haber                                          | Director of Engineering |
 | Functional Lead       | Christopher Lefelhocz                                | VP of Development                                          |
 | Functional Lead       | Valerie Karnes                                       | Director of Product Design |
 | Functional Lead       | Christie Lenneville                                  | VP of UX |
 | Functional Lead       | Mek Stittri                                          | VP of Quality |
 | Functional Lead       | David DeSanto                                        | VP of Product Management |
-| Functional Lead       | Justin Farris                                        | Senior Director of Product Management |
 | Functional Lead       | Farnoosh Seifoddini                                  | Head of Product Operations |
 | Functional lead       | Lily Mai                                             | Staff Engineering Analyst |
 | Functional Lead                | Tanya Pazitny                                        | Director of Quality Engineering |
