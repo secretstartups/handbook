@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Engineer Responsibilities
-description: A detailed listing of the responsibilities of Support Engineers in GitLab
+description: A detailed listing of the responsibilities of Support Engineers in GitLab. Page should not be moved without a Support Global Change Management issue.
 
 ---
 
