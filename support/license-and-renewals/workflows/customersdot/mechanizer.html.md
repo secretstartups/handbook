@@ -17,18 +17,7 @@ description: How to use the mechanizer for L&R requests.
 
 This workflow details how to use the Zendesk App that utilizes the [Mechanizer](https://gitlab.com/gitlab-com/support/toolbox/mechanizer) to automate CustomersDot console related tasks.
 
-
-
-<div class="panel panel-gitlab-orange">
-**Mechanizer Deprecation Notice**
-{: .panel-heading #mechanizer-notice}
-<div class="panel-body">
-
-The Mechanizer tool is soon to be deprecated with the tool's features being migrated to CustomersDot.
-You can follow the progress of this migration in [this epic](https://gitlab.com/groups/gitlab-org/-/epics/6828)
-
-</div>
-</div>
+The Mechanizer is [currently in maintenance mode](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4299). Our product goal is to migrate the features in Mechanizer to CustomersDot ([epic](https://gitlab.com/groups/gitlab-org/-/epics/6828)).
 
 ## Existing Automations
 
