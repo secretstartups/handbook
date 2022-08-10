@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
-title: "Next Prioritization"
+title: "Cross-Functional Prioritization"
 description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
-canonical_path: "/company/team/structure/working-groups/next-prioritization/"
+canonical_path: "/company/team/structure/working-groups/cross-functional-prioritization/"
 ---
 
 ## On this page
@@ -27,10 +27,10 @@ This working group is charged with rolling forward from the emergency "Engineeri
 |-----------------|------------|
 | Date Created    | 2022-04-13 |
 | Target End Date | 2022-09-18 |
-| Slack           | [#wg_next-prioritization](https://gitlab.slack.com/archives/C03AWM7780G) |
+| Slack           | [#wg_cross-functional-prioritization](https://gitlab.slack.com/archives/C03AWM7780G) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1wog8bR7jg6SECefx9BGqIa07sFm_sXJPvelVAganYmc/edit#heading=h.pmtw3ocv2aty)  |
-| Issue board    | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4199535?not[label_name][]=wg-next-prioritization-adoption&label_name[]=wg-next-prioritization) |
-| Open merge requests for the working group | [MR list](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=wg-next-prioritization) |
+| Issue board    | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4199535?not[label_name][]=wg-cross-functional-prioritization-adoption&label_name[]=wg-crossfunctional-prioritization) |
+| Open merge requests for the working group | [MR list](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=wg-cross-functional-prioritization) |
 | OKR | [Mature cross functional prioritization model](https://app.ally.io/objectives/2228738?time_period_id=155987) |
 
 ### Exit criteria
@@ -50,7 +50,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 - [x] Quality leads are providing their bug priorities to PM [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304)
 - [x] The quad stable counterparts (PM, Development EM, Quality Engineering Manager, UX Design Manager) collaborate to determine which issues which will be planned for which milestone [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13304)
 - [x] Automation exists to streamline the process. [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/5) [Issue](https://gitlab.com/gitlab-com/quality/engineering-productivity/-/issues/6)
-- [ ] Framework for autoscheduling, initial iterations of S1/S2 scheduling are merged, and we've documented a process for expanding the automation to more groups and severities over time. [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/368641)
+- [ ] Framework for autoscheduling initial iterations of S1/S2 bugs is merged, and we've documented a process for expanding the automation to more groups and severities over time. [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/368641)
 
 The below criteria will be marked as complete when we close the working group, as we will be doing this iteratively until then.
 
@@ -91,7 +91,7 @@ The process is [documented](/handbook/engineering/cross-functional-prioritizatio
 * Wait two business days to gather and respond to feedback before submitting merge requests to the codeowners for review and merge.
 * Announce all merge requests in the working group slack channel and/or in the standup meeting for working group awareness.
 * Announce all big changes and status updates in the `#product` `#vp-development` `#ux_managers` `#quality-managers` `#eng-managers`  `#development` slack channels, and in the weekly engineering work in review document.
-* Add the `wg-next-prioritization` label to all issues and merge requests so they can be tracked
+* Add the `wg-cross-functional-prioritization` label to all issues and merge requests so they can be tracked
 * Add milestone so PM operations can serve up a filter by label/milestone
 * Summarize changes for PM and other quad groups (sourced using the label search and/or milestone) every ~two weeks.
 
