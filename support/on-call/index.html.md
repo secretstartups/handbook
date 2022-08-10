@@ -143,7 +143,7 @@ For more details, see the [GitLab PTY Ltd NZ Specific Benefits](https://about.gi
 
 ### Starting on-call
 
-Before your shift starts, _always_ double-check that your alerts are working. Send a test page to make sure that you are receiving alerts correctly.
+Before your shift starts, _always_ double-check that your alerts are working and your PagerDuty contact is up to date. Send a test page to make sure that you are receiving alerts correctly.
 
 When your on-call shift starts, you should get notification(s) that your shift is starting (email or text, depending on your PagerDuty preferences).
 
@@ -173,3 +173,9 @@ We want to minimize the affect of on-call duty on your life. One way we do that 
 You may expense the cost of your mobile phone service for the month when you begin your on-call rotation. This is limited to **your** service cost itself, not any costs relating to the phone device, to a personal hotspot device or to services for other people on your phone plan.
 
 We understand you may have plans outside of your normal workspace while you're on-call. If as a result you **need** to use your phone to provide internet service to your computer, then you may include additional data charges in your expense report.
+
+## Keeping the PagerDuty contact up to date
+
+PagerDuty phone and SMS notifications can come from a variety of different phone numbers and as such, it is important to stay up to date with this to avoid missed pages. You should use [this PagerDuty documentation page](https://support.pagerduty.com/docs/notification-phone-numbers) to download the most recent vCard or setup an automatically updated PagerDuty contact on your device.
+
+If you use a "do not disturb" mode on your device, you should also allow the PagerDuty contact to bypass this.
