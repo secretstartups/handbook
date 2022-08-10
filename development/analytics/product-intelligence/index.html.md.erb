@@ -41,6 +41,14 @@ We're responsible to deliver a reliable Service Ping that runs every week on Saa
 - When a metric is using too many resources to time out the whole Service Ping, we will quarantine the metric and inform the responsible team.
 - When the metric is business critical (defined as any metric with an xMAU value in `performance_indicator_type`) we also inform the responsible team but will treat it as a Severity 1/Priority 1 issue and try to provide a fix.
 
+### Projects
+
+1. GitLab [Service Ping](https://docs.gitlab.com/ee/development/service_ping/).
+2. [Snowplow](https://docs.gitlab.com/ee/development/snowplow/).
+3. [Metrics Dictionary](https://gitlab.com/gitlab-org/analytics-section/product-intelligence/metric-dictionary) and [Metrics Dictionary from Growth group](https://gitlab.com/gitlab-org/growth/product-intelligence/metric-dictionary). 
+4. [Snowplow Pseudonymization](https://gitlab.com/gitlab-org/analytics-section/product-intelligence/snowplow-pseudonymization)
+5. [Snowplow URL Pseudonymizer](https://gitlab.com/gitlab-org/analytics-section/product-intelligence/snowplow-url-pseudonymizer)
+
 ## Team members
 
 The following people are permanent members of the Product Intelligence Group:
@@ -57,13 +65,6 @@ Our team uses a hybrid of Scrum for our project management process. This process
 - We prioritize and estimate all issues we work on.
 - We do weekly refinement to ensure our issue board is always kept up to date.
 - We do monthly milestone planning to prepare for our upcoming milestone.
-
-## Projects
-
-1. GitLab [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) and [Snowplow](https://docs.gitlab.com/ee/development/snowplow/).
-2. [Metrics Dictionary](https://gitlab.com/gitlab-org/analytics-section/product-intelligence/metric-dictionary)
-3. [Snowplow Pseudonymization](https://gitlab.com/gitlab-org/analytics-section/product-intelligence/snowplow-pseudonymization)
-4. [Snowplow URL Pseudonymizer](https://gitlab.com/gitlab-org/analytics-section/product-intelligence/snowplow-url-pseudonymizer)
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Product Intelligence" } %>
 
