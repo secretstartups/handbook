@@ -116,7 +116,7 @@ The [Time to Value KPIs](/handbook/customer-success/vision/#time-to-value-kpis) 
 
 Time to Engage is the number of days between the `Onboarding CTA Start Date` and the date of the first Timeline call or meeting entry. `Time to Engage` Calculation =  Timeline call or meeting entry Date -  Onboarding CTA Start Date. Example: If the Onboarding CTA Start Date is 2020-01-01 and the first call was 2020-01-12, then the `Time to Engage` would be 11 days.
 
-**Note:** If the date of the first Timeline call or meeting is the same day as the Onboarding CTA Start Date, `Time to Engage` = 0. If the date of the first Timeline call or meeting is BEFORE the Onboarding CTA Start Date, that account will be excluded from reporting.
+**Note:** If the date of the first Timeline call or meeting is the same day as the Onboarding CTA Start Date, `Time to Engage` = 0. If the date of the first Timeline call or meeting is BEFORE the Onboarding CTA Start Date, that account will appear as a "0" for reporting.
 
 - Required TAM action: log the first Timeline entry (Call or Meeting)
 
