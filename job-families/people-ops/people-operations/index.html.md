@@ -39,9 +39,9 @@ The People Connect Specialist is a [Grade 5](/handbook/total-rewards/compensatio
 - Strong verbal and written communication skills.
 
 
-### Sr People Connect Specialist
+### Senior People Connect Specialist
 
-The Sr People Connect Specialist reports to the Manager, People Connect.
+The Senior People Connect Specialist reports to the Manager, People Connect.
 
 #### Job Grade
 
