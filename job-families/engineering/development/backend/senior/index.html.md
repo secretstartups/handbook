@@ -289,8 +289,8 @@ to understand what is working and what is not.
 
 See the description of the [Quality team](/handbook/engineering/quality/) for more details. The position also involves working with the community as [Merge Request Coach](/job-families/expert/merge-request-coach/), and working together with our [Backend Engineers](/job-families/engineering/backend-engineer/) to respond and address issues from the community.
 
-### Memory
-The Memory team is responsible for optimizing GitLab application performance by managing the memory resources required.  The team is also responsible for changes affecting the responsiveness of the application.
+### Application Performance
+The Application Performance team works to improve availability, reliability, and performance of the application. We analyze the behavior, recognize bottlenecks, and propose changes. We work to make GitLab a responsive and performant DevOps platform, which offers a great user experience at any scale.
 
 #### Responsibilities
 * Identify, troubleshoot, improve and manage memory-intensive aspects of the GitLab application.

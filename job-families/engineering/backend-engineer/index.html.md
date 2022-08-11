@@ -477,10 +477,9 @@ Engineering Productivity Engineers have the following job-family performance ind
 4. 90 minute Ruby-based technical interview.
 4. 50 minute behavioral interview with the VP of Quality.
 
-### Memory
+### Application Performance
 
-The Memory team is responsible for optimizing GitLab application
-performance by managing the memory resources required.  The team is also responsible for changes affecting the responsiveness of the application.
+The Application Performance team works to improve availability, reliability, and performance of the application. We analyze the behavior, recognize bottlenecks, and propose changes. We work to make GitLab a responsive and performant DevOps platform, which offers a great user experience at any scale.
 
 #### Responsibilities
 * Identify, troubleshoot, improve and manage memory-intensive aspects of the
