@@ -397,7 +397,8 @@ Team members are expected to manage their individual expenses and adhere to expe
 1. Team members can spend up to $500 to participate in events within their [local area](#local-area). If team members are attending events within their [local area](#local-area), they can expense transport but not accomodations. 
 1. Team members can expense up to $1000 each if they are traveling beyond their [local area](#local-area) to attend events. This option is open to team members who have local options, but choose to travel. These team members can put their budget toward accommodations in addition to travel expenses.
 1. Each team member can choose to participate in as many events as they like as long as they can do this within budget. If the team member is attending both local and long-distance events, the $500 local events budget is supplemented by an additional $500 for a grand total of the $1000 travel budget.
-1. For some team members, $1,000 is insufficient for participation in at least one event and chosen transport method. If you believe that you fall into this bucket, please fill out this [Google form](https://forms.gle/q1qAK5YuJ9egNk3G9) so your situation can be considered. 
+1. For some team members, $1,000 is insufficient for participation in at least one event. To qualify for an exception, you would not have any available options within the $1,000 expense cap. If you believe that you fall into this bucket, please fill out the [exception form](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team/-/issues/new) by choosing the Fy23Q3VisitingGrantExceptions template that can be found in the "description" dropdown. Your situation can be considered by your manager and then a member of the CoST to the CEO Team who will evaluate based on the criteria captured above. 
+
 
 ##### What can be expensed
 
@@ -405,11 +406,17 @@ In addition to transportation, team members can expense hotels when traveling ou
 
 ##### Additional spending guidelines
 
-All individual travel and lodging must be booked through [TripActions](/handbook/travel/#booking-travel-and-lodging) when possible.
+All individual plane travel must be booked through [TripActions](/handbook/travel/#booking-travel-and-lodging) when possible. You may also choose to book lodging and other travel through TripActions. In TripActions, you should put "FY23-Q3 Visiting Grant" in the *Purpose* field when booking.
+
+Preference using your budget toward booking air travel through TripActions before you spend any of your allocation on other expenses. Unless you receive an exception, **if you spend over $1,000 on airfare, you will need to reimburse GitLab for the overage. When your expense cap is exceeded, do not expense additional expenses, for example, hotel, events, and food, associated with your travels.** If you choose to spend above your budget on air travel, you should still book through TripActions, but you will be responsible for your overages. You will also be responsible for any overages in Expensify.
+
+To reimburse GitLab, please fill out the [Travel Grant Reimbursements template](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team/-/issues/new#) by choosing the "Fy23Q3VistingGrantReimbursements" description to alert your manager and allow us to track repayments. Direct deposit instructions will be sent to you and tailored to your location. All reimbursement deposits **must be received by GitLab by 2022-10-31**.
 
 If more than 10 people are traveling to a central location and booking a hotel, or if you are booking catering for the event, we require these purchases to have a purchase order to ensure the best rates. All purchases must be made following the [procument process](/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab).
 
 You may pool your budgets across a group to make budgeting easier and increase purchasing power. E.g. a group of eight can have a collective budget of $8000. The decision to do this will be up to the [DRI](#organization) for the event.
+
+Expensify can be used to reimburse other expenses within budget. In Expensify, the team member should code any related expense to the Category  "Company Functions" and to the Classification "FY23-Q3 Visiting Grant". 
 
 ##### Organization
 
@@ -425,6 +432,9 @@ Team members should be aware of key GitLab policies and asks.
 1. Team members should refer to our [contracts and vendor policies](/legal/procurement-guide-collaborating-with-gitlab-legal/#signing-contracts) and refrain from signing contracts on behalf of GitLab. 
 1. Associated activities should comply with local laws.
 1. Events should be outdoors as much as possible to reduce COVID risk.
+1. Team member safety should be considered in event planning. Funds should not be used toward risky activities. 
+1. Events should not involve activities that would not be covered under insurance (for example, skydiving).
+1. Team members should consult travel advisories, for example the one provided by the [U.S. Department of State](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) and avoid international travels to places against travel advice or with known unrest. 
 1. Team members should not use this program to subsidize existing travel plans. This grant exists to get team members together. Expenses should reflect this intent. 
 
 This Program has a limited timeframe, but we’ll look to the success of this program and other alternatives that support team member interactions and cultivation as we determine how best to support team member relationship building in the future. If you have questions, please post them in the [#fy23-q3-visiting-grants](https://app.slack.com/client/T02592416/C03P3D9PYLW) Slack Channel. 
