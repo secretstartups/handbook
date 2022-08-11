@@ -38,7 +38,7 @@ There are many types of groups and not all of them meet the criteria of being a 
 
 The following groups have completed the process to be an TMG and received formal support as part of the [DIB framework](https://about.gitlab.com/company/culture/inclusion/#ergs---employee-resource-groups). Click the signup link (GitLab team members only) to join:
 
-Ordered alphabetically to avoid the perception that any TMRG is more important than any other TMRG.
+Ordered alphabetically to avoid the perception that any TMG is more important than any other TMG.
 
 | **TMG** | **Team Leaders** | **Slack Channel** | **Sign Up** | **Ongoing TMG Agenda** | Executive Sponsor |
 | ------ | ------ | ------ | ------ | ------ |------ |
