@@ -610,9 +610,8 @@ For full information on Slack reminders [see the Slack help](https://get.slack.h
 There is a lot of information pertaining to Zoom, as it is a critical part of GitLab's
 communication. See the [Zoom handbook page](/handbook/tools-and-tips/zoom).
 
-```
-Tip: The [Google Calendar](/handbook/tools-and-tips/#google-calendar) invite is the single source of truth for the Zoom link. Avoid linking the Zoom link in Google Document agendas since those may quickly become out of date. If the zoom link changed around the start of the meeting it is OK to have it in there temporarily.
-```
+The [Google Calendar](/handbook/tools-and-tips/#google-calendar) invite is the single source of truth for the Zoom link. Avoid linking the Zoom link in Google Document agendas since those may quickly become out of date. If the zoom link changed around the start of the meeting it is OK to have it in there temporarily.
+
 
 ## Google
 
@@ -628,8 +627,8 @@ Likewise "sheets.new" for a Google Sheet etc...
 This is great when someone is speaking about something they are typing on a video call and you are not sure where they are in the document.
 1. Quickly find all action items assigned to you with a [search for `followup:actionitems`](https://drive.google.com/drive/search?q=followup:actionitems).
 1. To add additional rows to a numbered list in a Google Document, press `Return` to add additional spaces under the existing numbered list in the document, highlight those spaces, and click the numbered list icon in the formatting bar (or press `Command ⌘ + Shift + 7` on a Mac) to create a numbered list from the spaces. See video on [how to add more rows to a numbered list](https://www.youtube.com/watch?v=dgyttEJi-ZQ) for a quick tutorial.
-1. Type the @ sign to quickly embed today's date, other document titles, references to people etc, or even quickly access formatting without clicking anything (a menu will pop up). (Smart Canvas article)[https://cloud.google.com/blog/products/workspace/delivering-new-innovations-in-google-workspace-with-smart-canvas]
-1. Pageless docs are great for documents you don't intend to print. You can (switch in File > Page setup)[https://support.google.com/docs/answer/11528737].
+1. Type the @ sign to quickly embed today's date, other document titles, references to people etc, or even quickly access formatting without clicking anything (a menu will pop up). [Smart Canvas article](https://cloud.google.com/blog/products/workspace/delivering-new-innovations-in-google-workspace-with-smart-canvas)
+1. Pageless docs are great for documents you don't intend to print. You can [switch in File > Page setup](https://support.google.com/docs/answer/11528737).
 
 See also [Live Doc Meetings](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) for more Google Doc tips.
 
