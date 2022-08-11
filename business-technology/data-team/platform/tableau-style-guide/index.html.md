@@ -1,4 +1,3 @@
-
 ---
 layout: handbook-page-toc
 title: "Tableau Style Guide"
