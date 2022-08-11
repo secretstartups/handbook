@@ -126,30 +126,29 @@ All internal requests regarding licensing, subscriptions, trials, and grace peri
 A list of common scenarios and the appropriate option are detailed in the following table.
 
 > **NOTE**: Support will not start a trial. If one is needed, *have the user initiate a normal trial first*.
-> **NOTE**: Sales Manager approval is required on the ticket for any extensions requested greater than 30 days.
 > **NOTE**: Support will only handle a single license or subscription request via a single ticket. If a provided license does not work or you require a further extension then please submit a new ticket. All internal L&R tickets need to have a 1 to 1 relationship with the generated license or subscription for reporting reasons.
 
 | Option     | Example Use Case                                             |
 | ---------- | ------------------------------------------------------------ |
 | **SaaS Subscription Related** | |
-| Extend an (almost) expired subscription | Use this when the customer has a subscription with us and their grace period is (almost) expired. An extension of 30 days or more requires approval from a Sales Manager. Please note we cannot extend the actual subscription. This instead makes a trial for the namespace and uses that for the extension. |
+| Extend an (almost) expired subscription | Use this when the customer has a subscription with us and their grace period is (almost) expired. Please note we cannot extend the actual subscription. This instead makes a trial for the namespace and uses that for the extension. |
 | Investigate incorrect subscription info | Use this when the customer has a subscription with us and something is incorrect in their subscription information. This includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace, and current seat usage counts. |
 | Reset max seats for QSR | This entry would be used after approval to waive the overage has been granted and approved via SFDC chatter. Once that is done, you would file the form to request support reset the max seats |
 | SaaS NFR license request | Ensure the group on GitLab.com has started a trial, then use this option to request a SaaS NFR subscription generation. |
 | Billing Entity Change | Use this as part of the process of a billing entity change. |
 | **SaaS Trial Related** | |
-| Extend a SaaS trial | Use this when the customer's namespace is on a trial that is active/expired. A trial extension of more than 30days will need manager approval. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one. |
+| Extend a SaaS trial | Use this when the customer's namespace is on a trial that is active/expired. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one. |
 | Change an existing SaaS trial plan | Use this when you want to make changes to the plan of a currently active trial, including adding CI minutes or activation of trial runners and overriding the requirement for credit card validation on sales assisted trial namespace. The number of users for GitLab.com trials are not restricted. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one.  |
 | **Self-Managed License Related (for paid customers only)** | |
-| Extend an (almost) expired subscription | Use this when the customer has a license and their grace period is (almost) expired. An extension of 30 days or more requires approval from a Sales Manager. Please note we cannot extend the actual license. This instead makes a trial license for the customer and uses that for the extension. |
+| Extend an (almost) expired subscription | Use this when the customer has a license and their grace period is (almost) expired. Please note we cannot extend the actual license. This instead makes a trial license for the customer and uses that for the extension. |
 | Customer did not receive the license | Use this when the customer has not received a paid license from us when they should have. Please note we can resend a license to the contact in the license only.|
 | Customer needs the license resent to a new person | Use this to request sending a license to a different user. Please note we cannot send licenses to anyone other than the account owner. To send it to someone else, please ask the customer to file a ticket so we can go through the contact change process. An exemption can be made for a temporary license. |
 | Multi-year license needs to be generated | Use this to request the next year's license for a multi-year subscription to be created. **Make sure to check with the customer if they exceeded their seat usage before opening this request.** Support cannot waive true-ups or change anything in SFDC. We cannot create a license until you have checked and amended their subscription as needed.
 | Self-managed NFR license request | Use this for Self-Managed NFR license generation |
 | **Self-Managed Trial Related** | |
-| Problems starting a new Self-managed trial | Use this when the customer has no recent trial or subscription, and is not able to request the trial themselves online. A trial extension of 30 days or more requires approval from a Sales Manager |
+| Problems starting a new Self-managed trial | Use this when the customer has no recent trial or subscription, and is not able to request the trial themselves online. |
 | Modify an existing Self-managed trial | Use this when you want to make changes to the number of users and/or the plan of a currently active trial |
-| Extend an existing Self-managed trial | Use this when the customer is on a trial that is (almost) expired. A trial extension of 30 days or more requires approval from a Sales Manager |
+| Extend an existing Self-managed trial | Use this when the customer is on a trial that is (almost) expired. |
 | **Other** | |
 | Order Management | Use this for Order Management requests. Please note if the license information you are requesting does not match the Salesforce opportunity, we will likely not be able to generate the license as Support cannot waive seats or Trueups. Ensure you include a summary of the action requested in the context field. |
 | Hacker One Reporter License | Use this to request a license be generated for a Hacker One reporter. |

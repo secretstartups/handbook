@@ -33,18 +33,9 @@ We are allowed to issue trial licenses because they:
 - Don't affect historical data tracking
 - Aren't tied to any subscriptions for revenue purposes
 
-### Approval required for trials longer than 30 days
-
-For trial license requests where the `Expiry Date` is more than 30 calendar days from the Start date, a **Sales Manager** approval is required. When asking for approval, also consider the time between waiting for approval and the license period.
-   - For example, if the requested trial license is for 33 days, and the wait time for approval could be up to 5 days. By the time the approval is given, perhaps the request doesn't need an Approval in the first place.
-   - Ask the requestor to CC a manager for approval and set the ticket status to `On Hold`.
-> If you notice several recent requests for temporary keys to the same customer, consult with a support manager on how to proceed.
-
 ### How to create a trial license
 
 To create a new trial license, follow these steps:
-
-
 
 1. Open the expired or soon to expire license and select `Duplicate License`
 1. Set the `License type` to `Legacy License`.
@@ -56,7 +47,7 @@ To create a new trial license, follow these steps:
 1. Set the `Plan code` to what is requested.
 1. Ensure the `Trial` checkbox is checked. 
 1. Set `Starts at` to today's date.
-1. Set `Expires at` to the requested date. See note above for [required approvals](#approval-required-for-trials-longer-than-30-days).
+1. Set `Expires at` to the requested date. 
 1. Set `Notes` to the ticket or issue URL.
 1. Click `Save`. The license will be automatically sent to the email specified in the `Email` field.
 
