@@ -34,16 +34,17 @@ There are many types of groups and not all of them meet the criteria of being a 
 
 **NOTE:** “GitLab supported TMRG” means the group is formally recognized by the company as a GitLab TMRG.
 
-## How to Join Current TMRGs and their Slack Channels
+## How to Join Current TMGs and their Slack Channels
 
-The following groups have completed the process to be an TMRG and received formal support as part of the [DIB framework](https://about.gitlab.com/company/culture/inclusion/#ergs---employee-resource-groups). Click the signup link (GitLab team members only) to join:
+The following groups have completed the process to be an TMG and received formal support as part of the [DIB framework](https://about.gitlab.com/company/culture/inclusion/#ergs---employee-resource-groups). Click the signup link (GitLab team members only) to join:
 
 Ordered alphabetically to avoid the perception that any TMRG is more important than any other TMRG.
 
-| **TMRG** | **Team Leaders** | **Slack Channel** | **Sign Up** | **Ongoing TMRG Agenda** | Executive Sponsor |
+| **TMG** | **Team Leaders** | **Slack Channel** | **Sign Up** | **Ongoing TMG Agenda** | Executive Sponsor |
 | ------ | ------ | ------ | ------ | ------ |------ |
 | [GitLab API - Asia Pacific Islander](/company/culture/inclusion/tmrg-gitlab-api/) | [Christopher Wang](https://gitlab.com/cs.wang) [Steve Xu](https://gitlab.com/steve_xu) [Sheela Viswanathan](https://gitlab.com/sheelaviswanathan) | #api-tmrg | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/api-tmrg) | [API Agenda](https://docs.google.com/document/d/17zJuZlWVg40mPjcybnGlj_mK2f4SEpRdrjq3s3Cseow/edit?usp=sharing) | David Hong and David Sakamoto |
 | [GitLab DiversABILITY](https://about.gitlab.com/company/culture/inclusion/erg-gitlab-diversability/) | [Kaitlyn Chappell](https://gitlab.com/kchappell) [Wil Spillane](https://gitlab.com/wspillane) | #diverse_ability | [Sign up for future meetings (google form)](https://forms.gle/5g2wVB577Lr7M3CH7) | [DiversABILITY Agenda](https://docs.google.com/document/d/130LH9QPewms025z4OFxNNUYnjcQ53D1049EZOL2WdWc/edit?usp=sharing) | TBC |
+| Early Career Professionals| [Kristi Piechnik](https://gitlab.com/kpdoespr) and [Amruta Kulkarni](https://gitlab.com/akulks) | #early-career-tmdg | #early-career-tmdg | TBD | Craig Mestel |
 | [GitLab Generational Understanding](/company/culture/inclusion/tmrg-gitlab-generational-understanding/) | [Wayne Haber](https://gitlab.com/whaber) and [Francis Potter](https://gitlab.com/francispotter) |#generational_understanding | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/Generational_Differences_ERG) | [Generational Understanding Agenda](https://docs.google.com/document/d/1h81q60KnCJFsATKjZKOFglBmgkv8TlGrKY8punX2SEg/edit?usp=sharing) | Eric Johnson
 | [GitLab Latinx](/company/culture/inclusion/tmrg-gitlab-latinx/) | [Pilar Mejia](https://gitlab.com/pmejia) [Hugo Azevedo](https://gitlab.com/hugoazevedo) [Romer Gonzalez](https://gitlab.com/romerg) [Chris Cruz](https://gitlab.com/chriscruz) | #latinx | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/latinxtmrg) | [Latinx Agenda](https://docs.google.com/document/d/15I-Lp9BO1FgnSCxANPiTemrvbcSLppf_xp8I0vIUbPY/edit?usp=sharing) | Wendy Barnes |
 | Black @ GitLab | @aprilmarks @marcusbriancarter | TBC |  #minoritiesintech | TBC | TBC | David DeSanto |
