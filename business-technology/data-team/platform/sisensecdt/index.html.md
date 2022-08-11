@@ -23,6 +23,11 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 
 [Sisense for Cloud Data Teams](https://dtdocs.sisense.com/article/getting-started) is our enterprise standard data visualization application and is the only application approved for connecting to our [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/infrastructure/).
 
+### Sisense Status
+
+To check if Sisense is experiencing any outages, visit the [Sisense Status Page](https://sisense.statuspage.io).
+
+
 ### Self-Service Dashboard Access
 
 1. Everyone at GitLab is provided a **View-only** license to [Sisense](https://app.periscopedata.com/app).
@@ -464,9 +469,11 @@ The default of Mon-Fri at 1PM UTC is set in all Sisense spaces. Currently, there
 - Dashboards labeled WIP, Draft, Test, etc.
 - Dashboards with little to no weekly usage. This is currently defined as less than 5 hours per week of cumulative view time.
 
-For these dashboards, manual refreshes are still possible. 
+We are in the process of evaluating every dashboard refresh, and the Data Team will work with the dashboard owner to determine if a dashboard needs to be on a automated refresh cycle **_or_** have the ability for users to manually refresh it when data has last been refreshed in the last 24 hours, but not both, in order to reduce the overall strain on the platform.
 
 If you have a need to have a specific dashboard refreshed more frequently, please reach out to the data team. We'll evaluate such requests on a case-by-case basis.
+
+
 
 
 ## <i class="far fa-object-group fa-fw icon-color font-awesome" aria-hidden="true"></i>Embedding Sisense Charts in the Handbook
