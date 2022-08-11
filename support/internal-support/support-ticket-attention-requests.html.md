@@ -92,7 +92,7 @@ The following instructions apply to STAR both Zendesk tickets and issues within 
 
 >**WARNING:** When starring a US Federal case, **do not** fill in the customer's name, instead populate the `Customer` field with a link to the organization in SFDC.
 
-1. Go to the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation).
+1. Go to the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/STAR/).
 1. Fill out each field. **All of them are required**.
 1. Click `Submit Support Ticket Attention Request`.
 
