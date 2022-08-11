@@ -69,7 +69,7 @@ Review the responsibilities of career development broken down by team member, ma
 
 1. 70% of your development should come from on-the-job and action learning.  This can include development experiences like managing a project, serving on a cross-functional team, taking on a new task, job shadowing, job rotation, etc.
 1. 20% of your development should come from interactions with others.  This includes having a mentor, being a mentor, coaching, participating in communities of practice, serving as a leader in your organization, etc.
-1. 10% of your development should come from training, including classes, seminars, webinars, podcasts, reading, conferences, etc. Here is an example of the Enablement stage's process for applying for the [professional development budget](/handbook/engineering/development/enablement/processes/budget_approval.html).
+1. 10% of your development should come from training, including classes, seminars, webinars, podcasts, reading, conferences, etc. GitLab offers a [growth and development benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) to help with this.
 
 ### Additional Questions to Think About
 
