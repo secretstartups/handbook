@@ -29,8 +29,6 @@ _GitLab encourages team members to use Nira to ensure good digital hygiene aroun
 1. Follow the steps to enter your work email address and password.
 1. You will be taken to the Nira interface. 
 
-
-
 ## Seeing more details about an item
 
 - _Once you login to Nira, you will see a list of all the documents, shared drives, and folders you own. If you'd like to see specific details about an individual item, take the steps below:_
@@ -40,6 +38,23 @@ _GitLab encourages team members to use Nira to ensure good digital hygiene aroun
 1. In the item panel, you will see details including owner, age, last modified, account types the item was shared with, and link type.
 1. Below the details section, you can see more information about the people who have access and if they are internal or external.
 
+## Priority for Review
+
+You can see the status of your shared links by clicking on the Protect icon on the left panel.
+
+![Nira Navigation](./navigation.png)
+
+
+## Security recommends that you review sharing permissions on documents in the following order:
+1. Open links - Public: Public links should rarely be used.
+- When an item has a [Public link](https://app.nira.com/items/open-links/public) - also known as “Anyone with the link” - anyone on the Internet with the link can access the item
+1. Open links - Company: Company links should be used only for company-wide access.
+- When an item has a [Company link](https://app.nira.com/items/open-links/company)  also known as “Share with company” - it means that anyone in GitLab with the link can access that item.
+1. Personal accounts: Personal accounts should rarely be added to documents.
+- When an item has a [Personal Account](https://app.nira.com/items/personal-accounts), it means that a personal email account has access to the document. When collaborating with a partner who does not have a Google Workspace account, please follow these [instructions](https://support.google.com/drive/answer/9195194){:target="_blank"} from Google to share with their work email account. 
+
+1. Outside access: [Outside Account](https://app.nira.com/items/outside-access) should rarely be added to documents, unless collaborating with a partner.
+- When an item has an Outside Account, it means there is an account outside of the GitLab domain with access to the document. 
 
 
 ## Removing access from document details pane
