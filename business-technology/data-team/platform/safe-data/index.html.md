@@ -23,7 +23,7 @@ The Data Team follows the GitLab SAFE [Framework](/handbook/legal/safe-framework
 ### Sisense
 
 Access to Sisense dashboards is based on job role and goverened by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Sisense, dashboards are classified into the following spaces:
-- the **GitLab** space is a General Access area which houses dashboards which do not require SAFE handling. General Access Dashboards are accessible by all GitLab Team Members. Access instructions are covered in the [Sisense overview and development page.](https://about.gitlab.com/handbook/business-technology/data-team/platform/periscope/#access)
+- the **GitLab** space is a General Access area which houses dashboards which do not require SAFE handling. General Access Dashboards are accessible by all GitLab Team Members. Access instructions are covered in the [Sisense overview and development page.](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/#access)
 - the **SAFE Intermediate Dashboard** space houses dashboards which do not require SAFE handling, but reference data models that contain SAFE Data. SAFE Intermediate Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 - the **SAFE Dashboard** space houses all dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 
@@ -31,7 +31,7 @@ A complete list of Dashboards, including SAFE Dashboards, is available in the [G
 
 #### Accessing a GitLab General Access Dashboard
 
-General Access Dashboards are available to all GitLab Team members and no Access Request issue is required. Access instructions are covered in the [Sisense overview and development page.](https://about.gitlab.com/handbook/business-technology/data-team/platform/periscope/#access)
+General Access Dashboards are available to all GitLab Team members and no Access Request issue is required. Access instructions are covered in the [Sisense overview and development page.](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/#access)
 
 #### Accessing a SAFE Dashboard
 

@@ -124,7 +124,7 @@ In priority order, the elements of the EDP we sought to build included:
 
 1. An [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw/) to serve as single-source-of-truth for reporting and analysis, including all of our Sisense dashboards and SQL analysis in Snowflake
 1. A [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) to help ensure all of our Data Solutions are thoroughly tested, with automated ongoing validations
-1. [Data Visualizations](/handbook/business-technology/data-team/platform/periscope/) to support performance analysis, including [KPIs](/company/kpis/).
+1. [Data Visualizations](/handbook/business-technology/data-team/platform/sisensecdt/) to support performance analysis, including [KPIs](/company/kpis/).
 1. A [Self-Service Data Program](/handbook/business-technology/data-team/direction/self-service/) to allow all GitLab teams to reliably access trusted data without requiring central Data Team involvement. 
 
 ### FY21-Q2

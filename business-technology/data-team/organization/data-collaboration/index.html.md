@@ -108,7 +108,7 @@ Currently, analysts and knowledge workers in the company have a few options to a
 
 | Solution | Good for | Limitations | 
 | ------ | ------ | ----- |
-|[Sisense for Cloud Data Teams](https://about.gitlab.com/handbook/business-technology/data-team/platform/periscope/) | Heavy SQL users to create data visualizations | Difficult to use for non-SQL users, limited filtering capabilities, no data modeling capabilities| 
+|[Sisense for Cloud Data Teams](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/) | Heavy SQL users to create data visualizations | Difficult to use for non-SQL users, limited filtering capabilities, no data modeling capabilities| 
 | [Google Data Studio](https://about.gitlab.com/handbook/business-technology/data-team/platform/#google-data-studio)| Integrations well with other Google products | Limited data modeling and data visualization capabilities, limited access to data | 
 | Google Sheets | Easy to use | Limited in how much data it can handle | 
 | Solutions specific to business functions, including Gainsight, Salesforce, Google Analytics, etc. | Solves for business function specific use cases | Can't solve for other use cases outside of its primary domain | 

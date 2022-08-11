@@ -46,15 +46,15 @@ The Enterprise Data Platform captures, processes, and stores [data collected fro
 
 We deploy a Role-Based Data Access Scheme in Sisense:
 
-* [User Access is managed with Okta](/handbook/business-technology/data-team/platform/periscope/#accessing-sisense)
-* Data Access is managed with [Roles](/handbook/business-technology/data-team/platform/periscope/#user-roles) and [Spaces](/handbook/business-technology/data-team/platform/periscope/#spaces)
+* [User Access is managed with Okta](/handbook/business-technology/data-team/platform/sisensecdt/#accessing-sisense)
+* Data Access is managed with [Roles](/handbook/business-technology/data-team/platform/sisensecdt/#user-roles) and [Spaces](/handbook/business-technology/data-team/platform/sisensecdt/#spaces)
 * Each user is assigned a Sisense Role and this enables Data Access to dashboards and reports
 * The Sisense scheme interacts with the Snowflake Data Access schema to ensure a user does not have a "back door" into data from either system
 
 Additional controls include:
 
-* [Unused Dashboards Are Archived](/handbook/business-technology/data-team/platform/periscope/#auto-archival-of-unused-dashboards)
-* [System Access is managed with an API Key](/handbook/business-technology/data-team/platform/periscope/#sisense-api-key)
+* [Unused Dashboards Are Archived](/handbook/business-technology/data-team/platform/sisensecdt/#auto-archival-of-unused-dashboards)
+* [System Access is managed with an API Key](/handbook/business-technology/data-team/platform/sisensecdt/#sisense-api-key)
 
 ### Snowflake
 
