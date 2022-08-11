@@ -20,7 +20,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Jeanette McCarthy (Sr. EBA) supporting Ashley Kramer (CMSO) 
 * Cindy King (Sr. EBA) supporting Brian Robins (CFO) 
 * Stephanie Kusmirek (Sr. EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition), Sherida McMullan (VP, Diversity, Inclusion and Belonging) 
-* Stella Treas (Chief of Staff to the CEO) supporting Sid Sijbrandij (CEO) in email and calendaring in an iterim capacity
+* Kirsten Shepard (interim EBA) supporting Sid Sijbrandij (CEO) in calendaring capacity
 * TBD supporting Stella Treas (Chief of Staff to the CEO)
 * Marisa Carlson (Sr. EBA) supporting Eric Johnson (CTO), and Johnathan Hunt (VP of Security)
 * Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO)
@@ -29,11 +29,13 @@ This page details processes and general guidelines specific to the Executive Bus
 
 
 ### All-Directs EBA's 
-* Dana Pelton (Sr. EBA) supporting David Hong (VP of Field Operations), David Helfer (Interim, VP of Worldwide Channels) and Nima Badiey (VP of Alliances)
-* Victoria Reinhardt (Sr. EBA) supporting David Sakamoto (VP of Customer Success), Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales)
+* Dana Pelton (Sr. EBA) supporting David Hong (VP of Field Operations) and David Helfer (Interim, VP of Worldwide Channels)
+* Victoria Reinhardt (Sr. EBA) supporting Ryan O’Nell (VP of Commercial Sales) and Mike Pyle (VP of Enterprise Sales)
+* Trixie Peyer (Sr. EBA) supporting David Sakamoto (VP of Customer Success) and Nima Badiey (VP of Alliances)
 * Lauren Lopez (EBA) supporting Eliran Mesika (Sr. Director of Corporate Development), Emily Plotkin (Sr. Director - Legal, Employment), Lynsey Sayers (Sr. Director - Legal, Privacy & Product), Matt Taylor (Director - Legal, Commercial), Rashmi Chachra (Sr. Director - Legal & Corporate Affairs, Corporate) and Robert Nalen (Sr. Director, Contracts & Legal Operations)
 * Anita Mall (EBA) supporting Craig Mestel (VP Finance and Business Technology), Dale Brown (Principal Accounting Officer), Jim Gladen (VP, Tax) 
-* Blaire Sullivan (EBA) supporting Dave Steer (VP of Product Marketing), Melissa Smolensky (VP of Corporate Marketing), Carrie Maynard (VP of Integrated Marketing), Ray Leihe (VP Marketing Strategy & Platforms), Jean-Baptiste Larramendy (AVP of Sales Development) and Christina Lee (Sr. Director - Marketing Strategy & Platforms)
+* Blaire Sullivan (EBA) supporting Dave Steer (VP of Product Marketing), Carrie Maynard (VP of Integrated Marketing), Ray Leihe (VP Marketing Strategy & Platforms), Jean-Baptiste Larramendy (AVP of Sales Development) and Christina Lee (Sr. Director - Marketing Strategy & Platforms)
+
 
 
 ## Contact us
