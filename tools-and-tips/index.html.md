@@ -140,6 +140,7 @@ Manual upkeep of the maintainer training issue can be time consuming. There are 
 - https://gitlab.com/splattael/traintainer
 - https://gitlab.com/arturoherrero/trainee
 - https://gitlab.com/alberts-gitlab/review-tanuki
+- https://gitlab.com/gitlab-org/gitlab-dev-cli#maintainer-trainee-helper
 
 **Note:** When using these tools, avoid adding mentions to maintainers in existing comments. There is a [known issue](https://gitlab.com/gitlab-org/gitlab/-/issues/118779) where users are not notified by email when mentioned in an edited comment. It only generates a TODO which a maintainer may not use.
 
