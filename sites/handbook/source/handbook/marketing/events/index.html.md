@@ -697,8 +697,10 @@ GitLab's Community Relations team reviews and manages our community events (typi
 Field Marketing utilizes the [QR Code Generator](https://login.qr-code-generator.com/) so that FMMs can follow the instructions below to print and display QR codes at events for raffles, contact info collection, etc. In AMER, tabletop signs to display the QR codes are available in the [Boundless portal](/handbook/marketing/field-marketing/#boundless-portal) under the `Event Assets` section.
 
 #### Steps to Generating a QR Code
+Corporate Events utilizes [QR Code Generator](https://www.qr-code-generator.com/) to create specific QR Codes to track how many people are visiting CTA weblinks. We  promote through different pieces of collateral passed out at the booth and signage we have created promoting registration for an on-site ancillary or virtual event. Other use cases such as people scanning to attend onsite virtual activities such as coding challenges or UX surveys.
+
 For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
-1. Make a copy fo the GitLab branded [Google Form](https://docs.google.com/forms/d/1zLqYmfC-yfFQagTri4QIOkExu8Z2IN80s-R7tGJB4E4/edit). *Ensure you are logged into your GitLab Google account in order to access the form.* 
+1. Make a copy of the GitLab branded [Google Form](https://docs.google.com/forms/d/1zLqYmfC-yfFQagTri4QIOkExu8Z2IN80s-R7tGJB4E4/edit). *Ensure you are logged into your GitLab Google account in order to access the form.* 
 1. Proceed to fill in all required information including: 
     * Event title
     * Event description (optional)
@@ -732,11 +734,34 @@ For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
     * In the upper right-hand corner of the screen select `Create QR Code` 
     * Select your QR Code `Type`
     * Click `Next` at the bottom of the page
-    * Name your QR Code and paste in the link to your Google form 
-      * The link to your Google form can be found by navigating to your Google form, selecting `Send` in the upper right-hand corner, then selecting the link icon, and copying the link address (you do not need to shorten the link) 
-    * Click `Next` at the bottom of the page
-    * Download your QR Code to add to any designated marketing content or print your QR code to be displayed at an event
-      * Optional: Design your QR Code by frame type, QR Code design, code color, or logo
+    * Fill out QR Code Title & Description 
+    * Create QR Code to Design Specs:
+    
+        1. Use solid black tanuki only 
+        2. Make sure background behind tanuki is removed
+        3. Best if #171321 hex color is used to ensure proper contrast (other brand approved colors can be used but no need to get fancy with gradients or anything)
+        4. Keep the design/shape of the QR code within the brand aesthetic (no odd or unorganized shapes)   
+    
+        1. Body Shape = Top Row third choice from the left with the dots
+        2. Eye Frame Shape = Top Row fourth choice from the left 
+        3. Eye Ball Shape = Top Row fourth choice from the left - should match the eye frame but filled in 
+        
+      **NOTE: Also, the design team advises that the QR code should be no smaller than 1" x 1"**
+5. Add in URL link to CTA. Example CTAs listed below:
+
+        1. Survey Links
+
+        2. Gated Collateral Piece
+
+        3. GitLab landing pages
+
+        4. Video
+
+        5. Code Challenge landing page
+
+        6. Eventbrite Registration Page for ancillary event
+6. Generate and save as a PDF, jpg, or ai file
+7. Test QR Code personally and send to at least 1 teammate to confirm the QR Code is live and analytics are being collected in the QR Code Generator portal.
 
 ### AMER Field Marketing Badge and Event Check-In Process
 
