@@ -77,7 +77,7 @@ We will need a list of the email addresses that were used to create a GitLab.com
 
 ## Questions?
 
-We are here to help. The Alliance team works from issues and issue boards. If you are needing our assistance with any project, please [open an issue](http://gitlab.com/gitlab-com/alliances/alliances/issues/new) and we’ll get back to you as soon as we can! When creating an issue, please select _new_partner_ issue template in the drop down. If it’s technical assistance you’re looking for, please see below for troubleshooting.
+We are here to help. The Alliance team works from issues and issue boards. If you are needing our assistance with any project, please [open an issue](https://gitlab.com/gitlab-com/alliances/alliances/-/issues/new/?issuable_template=general_alliance_request) and we’ll get back to you as soon as we can! If it’s technical assistance you’re looking for, please see below for troubleshooting.
 
 ## Troubleshooting
 
