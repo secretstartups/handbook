@@ -25,7 +25,7 @@ use pronounce the acronym STAR and use it as a verb (_I starred this ticket beca
 
 
 ### When is a STAR not appropriate?
-+- It is a business-critical situation where existing or future business is at risk -> [raise an account escalation](/handbook/customer-success/tam/escalations/#initiating-managing-and-closing-an-escalation)
+- It is a business-critical situation where existing or future business is at risk -> [raise an account escalation](/handbook/customer-success/tam/escalations/#initiating-managing-and-closing-an-escalation)
 - It is an emergency -> [raise an emergency](https://internal-handbook.gitlab.io/handbook/support/support.html#raising-an-emergency) (internal Handbook, GitLab team members only)
 - It is a SaaS incident -> [report an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack)
 
