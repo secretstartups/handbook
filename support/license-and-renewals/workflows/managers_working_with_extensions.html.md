@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Plan/License Escalations Workflow
+title: Workflow for handling Plan/License Ticket Attention Requests
 category: Managers Workflows
-description: How to manage plan/license escalations
+description: How to manage plan/license Support Ticket Attention Requests
 ---
 
 ## On this page
@@ -12,11 +12,11 @@ description: How to manage plan/license escalations
 {:toc .hidden-md .hidden-lg}
 
 
-## How to move urgent L&R escalations forward
+## How to move urgent L&R starred tickets forward
 
 ### Self-Managed
 
-**:warning: NOTE:** Under no circumstances are Support Managers allowed to create brand-new licenses as a response to an escalation. Any non-trial license must be handled by the L&R team.
+**:warning: NOTE:** Under no circumstances are Support Managers allowed to create brand-new licenses as a response to a [starred ticket](/handbook/support/internal-support/support-ticket-attention-requests.html). Any non-trial license must be handled by the L&R team.
 
 1. Is the request for a license extension, grace period extension, temporary license, temporary key, or trial license? These all have the same next-step:
     - This needs a [trial license generation](/handbook/support/license-and-renewals/workflows/self-managed/trials.html).
@@ -27,9 +27,10 @@ description: How to manage plan/license escalations
     - If it is an emergency, unblock the customer by following these steps:
       1. To investigate the problem, the L&R team needs a screenshot of `Admin -> Dashboard` from the group; check the ticket to see if it has already been provided, or request the customer to provide it. This must be done before creating a trial license.
       1. After you get the screenshot, you can [create a trial license](/handbook/support/license-and-renewals/workflows/self-managed/trials.html).
-      1. If the escalation is about errors when activating a license, request that the customer submit a ticket if there isn't one already.
-1. Does the escalation state the customer did not receive their license? Was it sent to someone who is no longer at the company? Do they need to change the contact details of their license? Is the request to send or forward a license to a different contact/email?
-    - **:warning: Note:** We do not send licenses to different emails, with the exception of trial licenses. See [Sending licenses to a different email address](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email.html) for more information.
+      1. If the customer is getting errors when activating a license, request that the customer submit a ticket if the haven't done so already.
+1. Does the starred ticket state the customer did not receive their license? Was it sent to someone who is no longer at the company? Do they need to change the contact details of their license? Is the request to send or forward a license to a different contact/email?
+    - See [Sending licenses to a different email address](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email.html) for more information.
+    - **WARNING:** We do not send licenses to different emails, with the exception of trial licenses. 
 
 ### SaaS
 
@@ -39,33 +40,33 @@ description: How to manage plan/license escalations
     - The mechanizer will fail if the namespace has never had a trial. However, you can use a [subscription to create a trial](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials) and extend it as needed. 
 1. Is the customer's (paid) group unexpectedly on a Free plan?
     - **Always try to get the L&R team to assist first.**
-    - NOTE: In some cases, the customer can first try to [associated their (new) subscription with their namespace](/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html#customer-self-serve-associating-the-subscription-and-namespace). 
+    - NOTE: In some cases, the customer can first try to [associate their (new) subscription with their namespace](/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html#customer-self-serve-associating-the-subscription-and-namespace). 
     - If it is an emergency, use the [`Manage GitLab Plan and Trials`](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#update-gitlab-subscription-or-customer-trial) option in the Zendesk Mechanizer App.
     to temporarily set the namespace on another trial at the desired plan level.
-    - NOTE: The mechanizer will fail if the namespace has never had a trial. However, you can use a [subscription to create a trial](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials) and extend it as needed. 
+    - NOTE: The Mechanizer will fail if the namespace has never had a trial. However, you can use a [subscription to create a trial](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials) and extend it as needed. 
 
-## How to decide the validity of an escalation
+## How to decide the validity of a starred L&R ticket
 
-Subscription- and license-related escalations during your [manager on-call shift](/handbook/support/workflows/support_manager-on-call.html) can be evaluated using the following flow chart diagram.
+Subscription- and license-related tickets starred during your [manager on-call shift](/handbook/support/workflows/support_manager-on-call.html) can be evaluated using the following flow chart diagram.
 
-For general escalation handling, see our [Support Escalations handbook page](/handbook/support/internal-support/support-escalations.html).
+For general STAR handling, see our [Support Ticket Attention Requests handbook page](/handbook/support/internal-support/support-ticket-attention-requests.html).
 
 
 ```mermaid
 graph TD
-    A{LR Escalation}--> C[Plan/License requests]
+    A{LR starred ticket}--> C[Plan/License requests]
     C-->T[Is this request for a trial?]
     T-->|No|G[Is the customer in the grace period?]
-    T-->|Yes|SA[Is this a sales asisted trial]
+    T-->|Yes|SA[Is this a sales assisted trial?]
     SA-->|Yes|Exp
     SA-->|No|No
     G-->|Yes|H[Is the grace period expiring in more than 24h?]
     G-->|No| Exp[Is the plan/lic expiring in more than 24h?]
-    H-->|Yes|No[No need for escalation]
-    H-->|No|Pass[Ok to escalate]
+    H-->|Yes|No[No need for STAR]
+    H-->|No|Pass[Ok to STAR]
     Exp-->|Yes| No
     Exp-->|No|Pass
-    No-->X[Manager to collect data for feedback and label escalation issue]
+    No-->X[Manager to collect data for feedback and label STAR issue]
     A-->WP[Wrong product sold]
     A-->FR[Force Reassociate]
     FR--->FR1[Use the docs to deflect]
@@ -74,8 +75,7 @@ graph TD
 ```
 ## Edge cases
 
-An edge case is any situation in which the process has been followed and the
-system does not produce the expected results. Examples:
+An edge case is any situation in which the process has been followed and the system does not produce the expected results. Examples:
 
   - A customer is trying to [link their purchase to their account](https://docs.gitlab.com/ee/subscriptions/), but after following the process, the system produces an error.
   - The web page or system needed to complete the process is down.
