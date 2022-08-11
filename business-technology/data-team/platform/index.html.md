@@ -36,7 +36,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 - [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/)
 - [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
 - [Python Guide](/handbook/business-technology/data-team/platform/python-guide/)
-- [Sisense (Periscope)](/handbook/business-technology/data-team/platform/periscope/)
+- [Sisense (Periscope)](/handbook/business-technology/data-team/platform/sisensecdt/)
 - [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/)
 - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
 - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)

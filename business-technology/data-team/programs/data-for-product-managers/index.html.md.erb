@@ -17,7 +17,7 @@ This page is intended to help Product Managers at GitLab understand what data is
 
 ## How to Consume Data at GitLab
 
-The user-facing end of GitLab's data stack is comprised of our BI Tool, Sisense (formerly known as Periscope) which is connected to our Snowflake data warehouse. The [Sisense page](/handbook/business-technology/data-team/platform/periscope/) of the data team handbook has general information about Sisense aimed for a wider GitLab audience.
+The user-facing end of GitLab's data stack is comprised of our BI Tool, Sisense (formerly known as Periscope) which is connected to our Snowflake data warehouse. The [Sisense page](/handbook/business-technology/data-team/platform/sisensecdt/) of the data team handbook has general information about Sisense aimed for a wider GitLab audience.
 
 #### Useful links for Product Managers
 
@@ -50,7 +50,7 @@ Here are some useful links that we recommend for you to bookmark:
     - The variant of SQL used in the data warehouse is [Snowflake](https://docs.snowflake.net/manuals/index.html).
 - A great way to learn about building charts is to watch this 10-minute [Data Onboarding](https://www.youtube.com/watch?v=F4FwRcKb95w&feature=youtu.be) video from Sisense.
 - If you do happen to experience timeouts in Sisense (you'll see an error message saying "query killed"), reach out to the data team and we might be able to help you optimize your query or run it as a one-off with more computational resources.
-- Sisense dashboards can be designated as "Official", meaning it has been reviewed by a data team member. If you're interested in making your dashboard official, the process is documented [here](/handbook/business-technology/data-team/platform/periscope/#official-badge-for-a-dashboard).
+- Sisense dashboards can be designated as "Official", meaning it has been reviewed by a data team member. If you're interested in making your dashboard official, the process is documented [here](/handbook/business-technology/data-team/platform/sisensecdt/#official-badge-for-a-dashboard).
 - Sisense has a concept of "Topics" which organizes dashboards into topical areas. Check out the [Product Topic](https://app.periscopedata.com/app/gitlab/topic/Product/ab707846c91f4d30b1c1ca0399803d67) to see what's already available in Periscope and to get inspiration for future charts.
 - One limitation of Sisense is that it is a BI tool, not a product analytics tool. We've received feedback that it's difficult to do any product analytics without a strong knowledge of SQL. To meet this need, the product team is exploring alternative analytics tools in [this epic](https://gitlab.com/gitlab-org/product-intelligence/issues/303)
 
@@ -132,7 +132,7 @@ You can find details about those snippets on the [Product Manager Toolkit](/hand
 - Because service ping only aggregates data at an `instance` level, it is not super useful for GitLab.com since we often want to see information at the `namespace` level. For example, knowing that 40K people used your stage on GitLab.com is somewhat useful, but you'll probably want to know more context (Are they free or paid? What plan are they on? Do I have any power users or is usage equally distributed?)
 - But since we have access to the GitLab.com postgres database, we are capable of replicating any part of service ping at the namespace level or even the user level.
 - All service ping does under the hood is execute some `SELECT COUNT(*) FROM x` statements, making it trivial to replicate.
-- [This model](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_event_valid) exemplifies hows service ping could be replicated for GitLab.com at the namespace level. This model is available as a discovery dataset in Periscope. [More information is available here](/handbook/business-technology/data-team/platform/periscope/#discovery-datasets)
+- [This model](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_event_valid) exemplifies hows service ping could be replicated for GitLab.com at the namespace level. This model is available as a discovery dataset in Periscope. [More information is available here](/handbook/business-technology/data-team/platform/sisensecdt/#discovery-datasets)
 - We created [this dashboard](https://app.periscopedata.com/app/gitlab/576469/WIP:-Namespace-Overview) to demonstrate what data is available and which type of drilldowns can be done.
 
 #### Examples

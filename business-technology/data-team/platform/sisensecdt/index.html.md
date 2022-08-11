@@ -531,7 +531,7 @@ Tip: The embedded charts will not render locally, because the required PERISCOPE
 There are a couple ways to upload data into Sisense through CSVs. All of these methods are documented and can be requested through [creating a data team project issue](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=&issuable_template=CSV%20or%20GSheets%20Data%20Upload). Please click on the link to review your options.
 
 If you still decide to [upload your CSV through Sisense](https://dtdocs.sisense.com/article/csv-upload), ensure that you are using the `Snowflake` database in the `New Chart` or `New Exploration` window. Otherwise, you should always default to `GitLab_(Use_this_one!)` to access the internal GitLab data models. Please see image below to understand how to change databases in Sisense:
-![Sisense Databases](/handbook/business-technology/data-team/platform/periscope/sisense_csv_upload_database.jpg)
+![Sisense Databases](/handbook/business-technology/data-team/platform/sisensecdt/sisense_csv_upload_database.jpg)
 
 Please remember not to upload personal or sensitive data into Sisense through the [Sisense CSV Upload functionality](https://doc.periscopedata.com/article/csv-upload) since this data will be publicly accessible by all GitLab team members.
 
