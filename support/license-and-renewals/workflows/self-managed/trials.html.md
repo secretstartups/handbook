@@ -51,8 +51,8 @@ To create a new trial license, follow these steps:
 1. Delete the contents of `Customer` field if present.
 1. Delete the contents of `Zuora subscription ID` field if present.
 1. Set the `Users count` number to what is requested.
-1. Delete the contents of `Previous users count` field if present.
-1. Delete the contents of `Trueup count` field if present.
+1. Set the `Previous users count` number to the previous license **if there are trueups**. Otherwise, delete the contents.
+1. Set the `Trueup count` number if present.
 1. Set the `Plan code` to what is requested.
 1. Ensure the `Trial` checkbox is checked. 
 1. Set `Starts at` to today's date.
