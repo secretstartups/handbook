@@ -102,4 +102,4 @@ Please be aware that we take into consideration the current state of the entiret
 
 ## Redirecting Ticket Attention Requests (Support Use Only)
 
-If a request for an  / STAR is posted in the wrong channel, simply add the `:escalate:` emoji as a reaction to the post, and the user will be advised of the proper way to request a Support Ticket Attention Request via a [Slack Workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows).
+If something that looks like a STAR is posted in the wrong channel, simply add the `:support-ticket-attention-request:` emoji as a reaction to the post, and the user will be advised of the proper way to request a Support Ticket Attention Request via a [Slack Workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows).
