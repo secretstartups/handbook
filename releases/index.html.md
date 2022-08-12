@@ -76,7 +76,7 @@ Each deployment will trigger a notification in the Slack channel [#announcements
 As part of the deployments, a QA issue is created in [release/tasks] issue tracker to inform the people who are
 involved in the process that their change is going through environments
 
-### Post-deploy migration execution
+### Post-deploy migration (PDM) execution
 
 To make GitLab.com packages rollbackable, the [post-deploy migrations] are independent from the GitLab.com deployment process. These migrations
 are run in staging and production environments through the post-deploy migration pipeline that is triggered on a daily basis at the discretion of
