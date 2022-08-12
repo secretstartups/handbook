@@ -270,7 +270,8 @@ The above reports are Bizible attribution reports at the person level, you will 
 
 [Example SFDC report](https://gitlab.my.salesforce.com/00O4M000004opfA) and an [example google sheet](https://docs.google.com/spreadsheets/d/12vKuafod5__ORqv0bCGiasMr1ANPlzPUY_95RN6Pwr0/edit#gid=48544605&range=P1) with the forumla.  
 
-
+* [Records passed to partners](https://gitlab.my.salesforce.com/00O8X000008RSHg) - As part of our [campaigns we run jointly with channel partners](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events), we would like to understand the status of records we've passed to partners, this report give us that insight. 
+ 
 ### Contribution to sales pipeline
 
 This can be calculated by heading to the [Marketing Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution). NOTE: Ensure you’ve got your filters properly dialed in.
