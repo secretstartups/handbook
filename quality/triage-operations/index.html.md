@@ -385,7 +385,6 @@ graph LR
 
 * Automation conditions:
   - A new MR note that start with `@gitlab-bot help` is posted on a merge request
-  - The MR has the `Community contribution` label set
   - The note is posted by the MR author or a team member
 * Automation actions:
   - Pings and assigns (as reviewer) a random MR coach for help
@@ -396,7 +395,6 @@ graph LR
 
 * Automation conditions:
   - A new MR note that start with `@gitlab-bot ready`, `@gitlab-bot review`, or `@gitlab-bot request_review`
-  - The MR has the `Community contribution` label set
   - The note is posted by the MR author or a team member
 * Automation actions:
   - Adds the `workflow::ready for review` label to the MR
@@ -407,7 +405,6 @@ graph LR
 
 * Automation conditions:
   - A new MR note that start with `@gitlab-bot label ~"label-name"` where `label-name` matches `group::*`, `type::*` or is `~"workflow::in dev"` or `~"workflow::ready for review"`
-  - The MR has the `Community contribution` label set
   - The note is posted by the MR author or a team member
 * Automation actions:
   - Adds the requested label to the MR
@@ -438,7 +435,6 @@ graph LR
 
 * Automation conditions:
   - A new MR note that start with `@gitlab-feedback`
-  - The MR has the `Community contribution` label set
   - The note is posted by the MR author or a team member
 * Automation actions:
   - Posts the contributor feedback note in the `#mr-feedback` Slack channel (internal)
