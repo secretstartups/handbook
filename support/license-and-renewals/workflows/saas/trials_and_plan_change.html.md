@@ -72,11 +72,14 @@ graph TD;
 
 ## Plan change requests
 
-Except for downgrading to Free, plan changes on a paid non-trial namespace should be done through a subscription purchase.
+Plan changes should **never** be done manually except in the following cases:
 
-If a plan must be modified manually, ensure you have approval from product, development, or a support manager, as manually changing a plan causes data discrepancies and can cause bug issues. Use an internal ZD ticket to track approval, the change made, how the change was made, set yourself as assignee, and a due date to remind yourself to change it back.
+1. Downgrading to Free.
+1. Emergency: a next business day follow up is required for the customer to no longer be on a manual plan. The ticket should be passed to L&R or an internal ticket created.
 
-In the case of an emergency, please make the change, and pass the ticket with an internal note to, or create an internal request for, the L&R team to investigate.
+Plan changes on a paid non-trial namespace should be done through a subscription purchase.
+
+If a manual plan change is required for non-emergencies, a [legal issue](https://about.gitlab.com/handbook/legal/#3-other-legal-requests) must be created and approved by legal as manually changing a plan causes data discrepancies, can cause legal issues, and can cause bug issues.
 
 ### Using customerDot
 
