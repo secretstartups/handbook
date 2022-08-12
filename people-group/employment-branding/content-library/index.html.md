@@ -47,6 +47,8 @@ The current headcount number will be updated each quarter following our quarterl
 
 These awards and lists recognize GitLab's unique culture and help us spread the word about why this is such a great place to work. Here are the latest:
 
+- [Best Workplaces for Innovators, Fast Company, 2022](https://www.fastcompany.com/best-workplaces-for-innovators/list)
+- [Best Medium Workplaces, Fortune, 2022](https://fortune.com/best-medium-workplaces/2022/gitlab/)
 - [Best Workplaces in the SF Bay Area, Fortune, 2022](https://www.greatplacetowork.com/best-companies-in-the-us/)
 - [Best Tech Companies For Remote Jobs in 2021 according to Glassdoor, Forbes](https://www.forbes.com/sites/louiscolumbus/2020/12/20/the-best-tech-companies-for-remote-jobs-in-2021-according-to-glassdoor/?sh=2922f81c2ceb)
 - [Fortune's Best Small & Medium Workplaces in 2020](https://www.greatplacetowork.com/best-workplaces/smb/2020?category=medium)
