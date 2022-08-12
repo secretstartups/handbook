@@ -239,6 +239,9 @@ Expectations:
 | Month     | Name |
 | -------   | ---- |
 | **2022**  |      |
+| October   | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
+| September | [`@brodock`](https://gitlab.com/brodock) |
+| August    | [`@jbobadilla-ext`](https://gitlab.com/jbobadilla-ext) |
 | July      | [`@cat`](https://gitlab.com/cat) |
 | June      | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
 | May       | [`@mkozono`](https://gitlab.com/mkozono) |
