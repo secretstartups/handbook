@@ -16,7 +16,7 @@ description: How to manage plan/license Support Ticket Attention Requests
 
 ### Self-Managed
 
-**:warning: NOTE:** Under no circumstances are Support Managers allowed to create brand-new licenses as a response to a [starred ticket](/handbook/support/internal-support/support-ticket-attention-requests.html). Any non-trial license must be handled by the L&R team.
+**NOTE:** Under no circumstances are Support Managers allowed to create brand-new licenses as a response to a [starred ticket](/handbook/support/internal-support/support-ticket-attention-requests.html). Any non-trial license must be handled by the L&R team.
 
 1. Is the request for a license extension, grace period extension, temporary license, temporary key, or trial license? These all have the same next-step:
     - This needs a [trial license generation](/handbook/support/license-and-renewals/workflows/self-managed/trials.html).
