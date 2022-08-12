@@ -23,10 +23,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Aug 4 | Cancelled  | N/A  |
-| Aug 11 | FY23 - Q3 Channel Update  | Colleen F. & Ed C.  |
 | Aug 18  | Automated Software Delivery (AutoSD) Integrated Campaign  | Shari R.  |
-| Aug 25 | TBD  | TBD  |
+| Aug 25 | Q3 Rev Program Update  | Allison G.  |
 | Sep 1 | VMware Tanzu Enablement session  | Vick K.  |
 | Sep 8 | Legal Subscription Agreement Update  | Matthew T.  |
 | Sep 15 | Storage & Transfer Limits  | Josh L.  |
@@ -44,6 +42,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-08-11 | **[FY23 - Q3 Channel Update](https://youtu.be/7H4tJptEJ_Y)**  | Private  |
 | 2022-07-07 | **[The New Simple ROI Calculator](https://youtu.be/cOW1C-penoY)** | Private  |
 | 2022-06-30 | **[Q2 FY23 Customer References Update](https://youtu.be/LvinGTqGyTs)** | Private  |
 | 2022-06-23 | **[Alliance Technology Partner Solutions](https://youtu.be/KcytqAzgORM)** | Private  |
