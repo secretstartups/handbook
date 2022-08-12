@@ -30,11 +30,8 @@ As of 2022-06-14:
 **What learners are saying:**
 
 > Excellent async training methodology with good practice examples. Crisp, short and very informative.
-
 >This training was great and I'm glad I was able to participate! If this training is not already part of onboarding for new team members, it should be considered.
-
 >It was a great refresher for me!
-
 >Thank you for offering this! Always nice to learn something new about a tool so ubiquitous in remote work.
 
 
