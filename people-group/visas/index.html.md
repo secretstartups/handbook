@@ -117,7 +117,7 @@ Everyone that meets the following requirements can request to immigrate and relo
 
 #### Special considerations for team members in unsafe environments
 Tenure of less than 1 year at GitLab may be possibly waived as a requirement if:
-  - You are a member of an [underrepresented](https://about.gitlab.com/company/culture/inclusion/#definitions)) group that is unsafe or in any way mistreated in your country.
+  - You are a member of an [underrepresented](https://about.gitlab.com/company/culture/inclusion/#definitions) group that is unsafe or in any way mistreated in your country.
   - Violence in your country does not provide a safe environment.
 
 If you meet these requirements, kindly read our [Relocation](https://about.gitlab.com/handbook/people-group/relocation/) handbook page, as well as our specific [Netherlands section](/handbook/people-group/relocation/#relocating-to-the-netherlands), to ensure that your request is evaluated and approved following our protocols. **Please email peopleops@gitlab.com if you have any questions.**
