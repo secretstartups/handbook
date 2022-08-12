@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Renewals Operations"
+title: "Renewals Operations Team"
 description: "The Renewals Operations Team handbook page covers our mission, strategies, responsibilities, and processes."
 ---
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
