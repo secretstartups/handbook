@@ -114,29 +114,50 @@ The [Time to Value KPIs](/handbook/customer-success/vision/#time-to-value-kpis) 
 
 **Goal:** 14 days
 
+**Required TAM action:** log the first Timeline entry (Call or Meeting)
+
+**How is it calculated:**
 Time to Engage is the number of days between the `Onboarding CTA Start Date` and the date of the first Timeline call or meeting entry. `Time to Engage` Calculation =  Timeline call or meeting entry Date -  Onboarding CTA Start Date. Example: If the Onboarding CTA Start Date is 2020-01-01 and the first call was 2020-01-12, then the `Time to Engage` would be 11 days.
 
 **Note:** If the date of the first Timeline call or meeting is the same day as the Onboarding CTA Start Date, `Time to Engage` = 0. If the date of the first Timeline call or meeting is BEFORE the Onboarding CTA Start Date, that account will appear as a "0" for reporting.
 
-- Required TAM action: log the first Timeline entry (Call or Meeting)
+**Why is this metric imporatant?**
+Helps determine the time it takes to first engagement with the customer. Engagement is defined as the first TAM meeting with the customer. 
+
 
 ### Time to First Value
 
 **Goal:** 30 days
 
+**Required TAM action:** confirm Cloud License data is in Gainsight, if not, then manually update the `First Value Date`
+
+**How is it calculated:**
 Time to First Value is calculated by taking the `Original Contract Date` and subtracting `First Value Date`, which is a manual input on the customer's Attributes section of the C360.
 
 If Cloud License data is in Gainsight, the `First Value Date` will be automatically populated by the system when `Known License Utilization` meets or exceeds 10%. If Cloud License data is not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.
 
-- Required TAM action: confirm Cloud License data is in Gainsight, if not, then manually update the `First Value Date`
+**Why is this metric imporatant?**
+Allows visibility into customer usage of GitLab. Customer is considered to have met first value when at least 10% of their Production licenses are activated. 
+
+**A few pointers to determine best estimate for self-managed customers**
+Note: This is not a holistic list
+
+- Is GitLab installed and ready to be used by the customers?
+- Is user management configured correctly and are users able to use the product?
+- In case of a migration: Is the migration finished or is the migration in progress and are migrated users already able to use the product?
+- If the customer has upgraded from CE/Starter or if the customer has been assigned a TAM due to growth but was already a customer, then the Time to Value is the same as the date a TAM is assigned.
 
 ### Time to Onboard
 
 **Goal:** 45 days
 
+**Required TAM action:** Close the Onboarding CTA
+
+**How is it calculated:**
 Time to Onboard is the difference between `Onboarding CTA Start Date` and the date the Onboarding CTA is closed. For example, the `Onboarding CTA Start Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-18, the Time to Onboard would be 34 days.
 
-- Required TAM action: Close the Onboarding CTA
+**Why is this metric imporatant?**
+Helps determine the length of time it took to complete all of the onboarding tasks associated with a customer. 
 
 ### Instance/Namespace Time to Value Metrics
 
