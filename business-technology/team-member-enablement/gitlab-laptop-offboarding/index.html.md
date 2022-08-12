@@ -26,8 +26,10 @@ Ensure your laptop is enrolled in [Jamf](https://about.gitlab.com/handbook/busin
 The team member should arrange a meeting with the respective IT Ops team member on their last day (30-60 minutes before the scheduled offboarding time) to complete the laptop wipe: Calendly links will be provided in your Gitlab Off-boarding Email Packet. 
 - Marc DiSabatino - AMER time zone
 - Jenny Wong - AMER time zone
+- Jeff Ford - AMER time zone
 - Paul Laurinavicius - EMEA time zone
-- Steve Ladgrove - APAC time zone
+- Ian Forde - EMEA time zone
+- APAC - please reach out in #it_help on Slack
  
 **Please confirm you have no personal data or files on your laptop before your last day. Once ITOps wipes the laptop any of this information will be permanently deleted.** 
  
