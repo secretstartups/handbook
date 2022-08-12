@@ -21,7 +21,7 @@ Team Member **Resource Group** provide support for an underrepresented group
 - The purpose for this type of TMRG is to develop and elevate that underrepresented group within Gitlab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging. 
 
 Team Member **Discussion Group** that is for the purposes of discussions and/or allyship 
-- The purpose of these groups is to provide either an avenue to perform more meaningful allyship activities and bring together ideas on how to be effective allies to underrepresented groups or discuss issues that may effect them at GitLab. There could be a variety of examples of TMDGs including Allyship groups, Religion & Faith based groups or other areas which merit discussions.  
+- The purpose of these groups is to provide a space for team members who would like peer and company-backed support but do not fit into the underrepresented group definition, such as early career professionals. Alternatively, these groups could provide either an avenue to perform more meaningful allyship activities and bring together ideas on how to be effective allies to underrepresented groups or discuss issues that may effect them at GitLab. There could be a variety of examples of TMDGs including allyship groups, religion & faith based groups or other areas which merit discussions. 
 
 These types of groups must have a much clearer mission and purpose. Allyship groups in particular must be action orientated. Any budget assigned to these groups should be used in support of other TMRGs or Diversity, Inclusion & Belonging initiatives. 
 
