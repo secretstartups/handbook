@@ -408,6 +408,12 @@ The contents of the maintenance should be filled out according to the details pr
 
 ![Maintenance Details](/images/support/cmoc_maintenance_details.png){: .shadow}
 
+### Timezones and Dates for Maintenance
+
+The timezone of Status.io is set to UTC.
+
+The date format is DD-MM-YYYY, because the ISO format is not an option as of 2022-08-12.
+
 ### Rescheduling a Maintenance Event
 {:.no_toc}
 
