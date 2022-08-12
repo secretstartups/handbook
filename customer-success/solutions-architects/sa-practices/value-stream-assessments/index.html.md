@@ -220,6 +220,22 @@ Example template of the executive briefing can be found [here](https://docs.goog
 
 It is recommended to review the executive briefing with your champion, key stakeholder before the final meeting to collect additional feedback. The goal is to then deliver it jointly to the broader team to gain agreement.
 
+## FAQs & Objections frequently heard from customers/prospects)
+1. What's in it for the me(customer)?
+This is a (free) consultative exercise that we partner with our customers/prospects on. Typically the end of the exercise, we are able to identify bottlenecks in your software delivery process, recommend solutions & provide a roadmap of how to arrive at your future state.
+
+1. Which teams are typically involved?
+We start with application development team, quality engineering team, devops then application security.
+
+1. What's the best place to start?
+Pick the most business critical application or a representative application that has faster time to market requirement.
+
+1. That's a lot of time investment from our teams Or Our teams are busy with other projects
+It takes 1 or 1.5 hr per team to do focused discovery for VSA. We interviewed 4 different teams for our silicon valley customer in 4.5 hrs. We can start with the least busy team if you don't want it to be pursued in a group setting.
+
+1. Can you interview 1 team at a time?
+Yes. We would like to start with application development team if so. This helps us understand an overview of their idea-production process.
+
 
 ## Training and Enablement
 
@@ -228,6 +244,9 @@ It is recommended to review the executive briefing with your champion, key stake
 This course provides an overview of how GitLab account teams should assist prospects and customers by providing an assessment of their value stream. The course outlines the approaches, tools, and artifacts used to conduct a value stream assessment for our prospects and customers.
 
 - [EdCast Pathway](https://gitlab.edcast.com/pathways/vsa-overview)
+- [Past Field Enablement]()
+- [Sales Kick Off - Delivering strategic customer outcomes by partnering with your SAs](https://drive.google.com/file/d/1-sKdoGU9sj5KnVxEzmo6kDZ1CTZkZNrv/view?usp=sharing)
+- [Sales Kick Off (SA breakout) - Value Stream Mapping - Origins, Assessments and Iterations](https://drive.google.com/file/d/1M4FVNZYuWBJhkLM4JQU7wUkX-Dot9BQG/view?usp=sharing)
 
 ## How to Contribute
 
