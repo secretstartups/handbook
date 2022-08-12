@@ -74,6 +74,14 @@ Unlink a group from a subscription. Note: The group will be downgraded to Free i
 
 - **Subscription name:** The subscription to be removed from a namespace.
 
+### Unlink GitLab.com Account
+
+Unlinks the GitLab.com account that is tied to the CustomersDot account provided.
+
+- **Customer ID:** CustomersDot customer account ID.
+
+Uses the `unlink_customer` function.
+
 ### Emergency license generation
 
 Generates a legacy Ultimate trial license valid for 10 days and emails it to the customer email specified in the form.
