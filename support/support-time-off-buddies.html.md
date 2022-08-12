@@ -4,6 +4,8 @@ title: Support Time Off Buddies Trial
 description: Guidelines for the Support Time Off Buddies trial
 ---
 
+# Support Time Off Buddies Trial
+
 ## Overview
 
 The Support Time Off Buddies program is intended to solve a few problems:
