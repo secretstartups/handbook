@@ -34,9 +34,9 @@ Note that while all engineers can review all merge requests, the ability to _acc
 
 Maintainers are GitLab engineers who are experts at code review, know the GitLab product and codebase very well, and are empowered to accept merge requests in one or several [GitLab Engineering Projects](/handbook/engineering/projects/).
 
-Every project has at least one maintainer, but most have multiple. Some projects have separate maintainers for different specialties. For example, GitLab has separate maintainers for frontend, backend, and database.
+Every project should have at least two maintainers, but most should have more. Some projects have separate maintainers for different specialties. For example, [the main GitLab codebase](https://gitlab.com/gitlab-org/gitlab) has separate maintainers for frontend, backend, and database.
 
-Great engineers are often also great reviewers, but code review is a skill in and of itself and not every engineer, no matter their seniority, will have had the same opportunities to hone that skill. It's also important to note that a big part of being a good maintainer comes from knowing the existing product and codebase extremely well, which lets them spot inconsistencies, edge cases, or non-obvious interactions with other features that would otherwise be missed easily.
+[We do not expect maintainers to know every single part of such a massive project](https://about.gitlab.com/handbook/values/#its-impossible-to-know-everything). That expectation simply doesn't scale with an organization of our size. As such we expect our reviewers and maintainers to know their limits and pass to or request additional reviews from domain experts if they feel they don't fully understand the code in question.
 
 Becoming a reviewer/maintainer means you are taking on a broader responsibility beyond your immediate group. Your available capacity should be adjusted accordingly to make room for you to work effectively. There is no strict formula for this as each project comes with a different workload, but do make sure to discuss this with your manager to avoid burnout and to ensure your manager understands how this may impact your team's capacity.
 
@@ -107,7 +107,14 @@ It is helpful if the person merging the MR also leaves a comment with a summary,
 
 When the manager merges the MR, they should announce this change in the applicable channels listed under [keeping yourself informed section of the engineering handbook](/handbook/engineering/#keeping-yourself-informed) and `#backend_maintainers`/`#frontend_maintainers` and `#backend`/`#frontend`. We should also update the **Engineering Week-in-Review document**. The agenda is internal only, please search in Google Drive for 'Engineering Week-in-Review'.
 
-The existing maintainers of the relevant engineering group and project will also raise any areas for growth on the merge request. If there are many gaps, the reviewer will need to address these before asking for reconsideration.
+#### After becoming a maintainer
+
+If you've become a new maintainer, follow these instructions to request relevant permissions that will allow you to fulfill your role:
+
+- Join the maintainer's group channel on Slack: `#frontend_maintainers`, `#backend_maintainers`, `#database_maintainers` etc.
+- Ask the maintainers in your group to invite you to any maintainer-specific meeting if one exists.
+- Request access to the GitLab maintainer group you belong: [frontend](https://gitlab.com/gitlab-org/maintainers/frontend), [backend](https://gitlab.com/gitlab-org/maintainers/rails-backend), or [database](https://gitlab.com/gitlab-org/maintainers/database).
+- Request maintainer permissions on the projects you will act as a maintainer using the [Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) issue template. Once you've created the issue, request another maintainer to grant you those permissions.
 
 #### Trainee maintainer
 
