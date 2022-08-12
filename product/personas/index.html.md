@@ -56,7 +56,7 @@ We describe the following personas in terms of the jobs they do, their motivatio
 
   1. [Cameron, Compliance Manager](/handbook/product/personas/#cameron-compliance-manager)
   1. [Parker, Product Manager](/handbook/product/personas/#parker-product-manager)
-  1. [Delaney, Development Team Lead](/handbook/product/personas/#parker-product-manager)
+  1. [Delaney, Development Team Lead](/handbook/product/personas/#delaney-development-team-lead)
   1. [Presley, Product Designer](/handbook/product/personas/#presley-product-designer)
   1. [Sasha, Software Developer](/handbook/product/personas/#sasha-software-developer)
   1. [Priyanka, Platform Engineer](/handbook/product/personas/#priyanka-platform-engineer)
