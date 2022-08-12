@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
-title: "Professional Services Technical Architect"
+title: "Professional Services Technical Architect - Job Role"
+description: "As a highly visible and customer-facing position, you will work with an exceptional Professional Services organization, and the wider Customer Success team."
 ---
 
 As a highly visible and customer-facing position, you will work with an exceptional Professional Services organization, and the wider Customer Success team, including Professional Services Engineers, Project Managers, and Solution Architects.
