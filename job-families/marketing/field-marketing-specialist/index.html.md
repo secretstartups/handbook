@@ -46,7 +46,7 @@ The Field Marketing Coordinator is a [grade 5](/handbook/total-rewards/compensat
 * Manage all supporting logistics for field events, including printing, promotional items, supporting materials, shipping and receiving.
 * Assist in facilitating lead gathering and reporting.
 * Research/execute third-party conferences and collect information for relevant programs across the regions to ideate on adjustments and improvements.
-* Operationlly assists in the set up and management of back end GitLab processes - i.e. managing issues in GitLab, helps to setup Marketo & SFDC campaings, ensuring that the Field Marketing Manager is staying on track for project completion and hitting SLAs agreed upon by support teams. 
+* Operationlly assists in the set up and management of back end GitLab processes - i.e. managing issues in GitLab, helps to setup Marketo & SFDC campaigns, ensuring that the Field Marketing Manager is staying on track for project completion and hitting SLAs agreed upon by support teams. 
 * Assisting the Field Marketing Manager in submitting financial & marketing issues for project approval.
 
 ### Requirements
