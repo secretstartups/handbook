@@ -51,7 +51,7 @@ The Talent Brand Program Manager is a [grade 6](/handbook/total-rewards/compensa
 
 ### Program Manager, Enablement
 
-The Program Manager, Enablement reports to the Manager, Global Enablement.
+The Program Manager, Enablement reports to the Senior Manager, Global Enablement.
 
 #### Program Manager, Enablement Job Grade
 
@@ -59,28 +59,15 @@ The Progam Manager, Enablement is a [grade 6](/handbook/total-rewards/compensati
 
 #### Program Manager, Enablement Responsibilities
 
-The Program Manager, Enablement Responsibilities fall into four distinct buckets:
-
-* Operations
-   * Work with the Manager, Enablement and systems/tools team to develop bespoke reporting for the TA function
-   * Work with the Manager, Enablement on current offer process and general process workflow within Greenhouse and how it reflects in our reporting
-   * Ensure that our escalation processes and customer-facing Slack channels are managed with established SLA’s, style and communication protocols
-   * Understand end-to-end TA processes and employ a “continuous improvement & iteration” rhythm 
-   * Manage our procurement issues and certain external vendor relationships as it pertains to billing, action planning etc
-* Learning & Development
-   * Partner with TA leadership to develop the GitLab TA playbook (pitch decks, intake sessions, closing styles) and the GitLab candidate assessment framework
-   * Own the recruiting team onboarding program
-   * Develop learning paths for TA by level
-   * Partner with the Head of TA to define a level-based competency framework
-   * Partner with the Head of TA on our promotions cycle
-* Communications 
-   * Own all regular decks for Global Town Halls, defining and collating content, driving the meetings
-   * Partner with Head of TA and Head of TA Brand and Enablement on internal comms cadences and vehicles 
-   * Be an escalation point for the TA Leadership team and be comfortable triaging issues for rapid resolution
-* Strategy
-   * Be a thought-partner for the TA leadership team on operational and enablement issues
-   * Play a part in future growth conversations, develop a strong relationship with finance to be able to understand the future plan for the org and how TA can play its part it fuelling the growth of the organization 
-   * With a continued focus on Diversity, inclusion and belonging, the Enablement Analyst will ensure inclusivity as we establish processes and policies for our TA team members and candidates alike.
+- Act as project manager for recruiting operations initiatives
+- Run our talent acquisition surveys from initiation to analysis
+- Works with Senior Manager, Enablement to develop bespoke reporting for the TA function and analyze recurring metrics
+- Understand end-to-end TA processes and employ a “continuous improvement & iteration” rhythm
+- Manage procurement issues and certain external vendor relationships as it pertains to billing, action planning etc
+- Own all regular decks for Talent Acquisition team meetings, defining and collating content, and driving the meetings
+- Proactively suggest and run teambuilding and incentive programs for the team
+- Partner with TA Leadership Team and utilize project management skillset to keep the team focused on weekly metrics and OKR progress
+- With a continued focus on Diversity, inclusion and belonging, the partner with the rest of Enablement to ensure inclusivity as we establish processes and policies for our TA team members and candidates alike.
 
 #### Program Manager, Enablement Requirements
 
@@ -90,6 +77,7 @@ The Program Manager, Enablement Responsibilities fall into four distinct buckets
 * Strong customer service and communication skills
 * Change Management experience
 * Ability to understand a high-level issue and conduct root cause analysis to understand issues
+* Experience analyzing metrics using Excel
 * Ability to use GitLab
 * Aligns with GitLab values 
 
