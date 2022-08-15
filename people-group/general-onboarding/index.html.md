@@ -45,9 +45,7 @@ Please note that this call will take a place a week or two before your actual st
 ### Agenda
 General Topics Covered
 
-- Introductions
 - Review the onboarding process on Day 1
-- Share the onboarding template with new team members
 - Encourage team members to take their time
 - Self Driven and self service
 - Questions from the new team members
@@ -60,13 +58,6 @@ General Topics Covered
 1. Add the new team members emails to the BCC line and CC the People Experience Team.
 1. The People Experience Team can check who will be attending the call by looking at the Google Form.
 1. Once new hires have completed the form an auto-response (via Document Studio) will reply with the zoom link and the date selected.
-
-
-## Onboarding Cohorts
-
-As a way to create a connection and social element from day one, all new team members from the specific hiring month will be [added to a Slack channel](https://about.gitlab.com/handbook/people-group/people-experience-team/#onboarding-cohort-creation). This will be linked to the Donut Watercooler App, which prompt different questions for team members to answer weekly on a Thursday. These questions will also be used as a general onboarding check-in. The channel will also be used to communicate any important notifications pertinent to new hires, as well as reminders of the onboarding check-in call and "#donut-be-strangers" Slack channel.
-
-To be more inclusive to all team members across the world and embracing our [bias towards asynchronous communication](https://about.gitlab.com/handbook/values/#bias-towards-asynchronous-communication), the onboarding cohorts has been created async.
 
 ## Slack Channel Support for New Team Members
 
@@ -82,7 +73,6 @@ By default, all new team members are added to the below Slack channels from day 
 - #donut-be-strangers (need some help setting up a coffee chat)
 - #team-member-updates (new team member, anniversaries, goodbyes, bonuses)
 - #thanks (want to acknowledge and thank someone at GitLab, this is the channel)
-- #totalrewards (any queries regarding your benefits in your location)
 - #whats-happening-at-gitlab (all important updates/reminders/notifications related to GitLab)
 
 ## Managers of New Team Members
