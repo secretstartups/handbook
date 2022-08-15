@@ -282,6 +282,23 @@ Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is a
 - Experience recruiting for executive level roles across all functions
 - Experience partnering with senior leadesrhip on hiring needs
 
+### Early Career Programs 
+
+#### Responsibilities
+- Partner closely with the People Group, developing a proposition and execution plan for our Early Careers program
+- Develop a working relationship and partnership with our Diversity, Inclusion and Belonging (DIB) team to ensure that we are hitting key milestones for Diversity hiring through our Early Careers Program
+- Build relationships with non-traditional institutions (code schools etc)
+- Build a sourcing strategy that aligns very closely with our DIB goals and objectives
+- Successfully recruit Early Career talent to deliver on hiring goals
+- Use qualitative and quantitative data, with the ability to present data and influence decisions
+- Build out an Early Career “curriculum” together with the Learning & Development teams
+- Build an intentional feeder program from the internship program to the graduate program
+ 
+#### Requirements
+- Experience of influence and program build at the executive level, preferably in a global capacity within the software industry 
+- Proven success in leading and running an early career program at scale
+- Proficiencies with LinkedIn Talent Insights and talent mapping
+
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
