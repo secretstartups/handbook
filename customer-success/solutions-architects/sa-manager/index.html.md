@@ -64,6 +64,8 @@ SA Managers should always be recruiting! It is important that SA Managers always
 ### Onboarding
 SA Managers should ensure the new SA team members are set up for success by working to make sure they have access to necessary tools and have an assigned onboarding buddy. Additionally, they should work with new SAs to set clear performance expectations and provide regular feedback during the onboarding process. SA Managers should encourage new SAs to complete their general GitLab onboarding issue and ensure that they actively participate in and complete [Sales Quick Start](/handbook/sales/onboarding/).
 
+Common slack channels within GitLab are #thanks and #deal-graditude are manual from an announcement and celebration point of view. The #wins-key-deals are automated listings and announcements. Those automated slack channels require a SFDC mapping of the team and organisational roll ups. SA Managers are encouraged to review the SFDC mapping on a quarterly basis to ensure consistency for new starters and existing team members (i.e. after promotions).  
+
 
 ### Developing and Retaining
 Developing and retaining key talent is constantly top-of-mind for high-performing SA Managers. The best SA Managers provide regular [coaching](/handbook/leadership/coaching/), follow [Performance Management](/handbook/sales/field-manager-development/#performance-management-and-giving-feedback) best practices, and leverage GitLab's [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/) to reinforce the critical skills and behaviors that will lead to desired outcomes/results.
