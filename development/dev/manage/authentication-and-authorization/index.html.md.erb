@@ -91,13 +91,24 @@ We do not provide estimates greater than 8. If an issue is bigger, we will split
 
 ##### Estimation process
 
-When a PM or EM wants to schedule an issue without `weight` for a release, they should ping Engineers directly asking for the estimation and assign the issue to them. Ideally the distribution between Engineers across the group is even.
+After the PM creates a [planning issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/?sort=due_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&first_page_size=20) for the next release, the quad will gather a prioritized list of issues that should be considered. The EM will then create a "breakdown" issue with a checklist of issues that need to be estimated ([example](https://gitlab.com/gitlab-org/manage/authentication-and-authorization/discussion/-/issues/45)). All Engineers from the group should be assigned to that issue and participate in weighting or breaking down the list.
+
+
+If the issue has weight 5 or less the Engineer adding an estimate should also put the `~"workflow::ready for development"` label on it.
+
+If the issue has weight more than 5 (or 5 but it seems it might be split into multiple issues) the Engineer will suggest how to split it. If the Engineer is clear about the splitting they should proactively split the issue themself, put estimations on the child issues and leave a comment on the parent one. If it results to multiple issues, creating an epic should be considered.
 
 When an Engineer is done with their estimates they should ask another team member to review their weight. This makes it harder to miss a significant aspect of an issue. If the first Engineer is confident (eg. has deep expertise in the problem or the issue is trivial) they can skip this step.
 
-Once the weight of the issue is final, the Engineer will ping the person who asked for the estimation. If the issue has weight 5 or less they should put `~"workflow::ready for development"` label on it.
+###### Purpose of Estimation
 
-If the issue has weight more than 5 (or 5 but it seems it might be split into multiple issues) the Engineer will suggest how to split it and ping the person who asked for the estimation. If the Engineer is clear about the splitting they should proactively split the issue themself, put estimations on the child issues and leave a comment on the parent one. If it results to multiple issues, creating an epic should be considered.
+Our purpose of estimation is to confirm that we
+
+- clearly understand the goal of the issue
+- understand what a solution could be, but not necessarily all of the implementation details
+- assess whether blockers exist or not
+
+We do not expect that during estimation, implementation details are scrutinized, all blockers are caught, or prove that the proposed solution is the right one. This all happens during development. In development, we, sometimes, reshape the issue, change its solution, or even postpone it. We are proud of doing it.
 
 #### During a release
 
