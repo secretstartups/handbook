@@ -44,7 +44,7 @@ The main target of the working group is not to implement everything themselves b
 **Merge Request Widget Extensions**
 * Each piece of software that presents summarized information for analysis performed.
 
-**Merge Request Widget Extension Component (<a href="https://docs.gitlab.com/ee/development/new_fe_guide/modules/widget_extensions.html">docs</a>)**
+**Merge Request Widget Extension Component (<a href="https://docs.gitlab.com/ee/development/fe_guide/merge_request_widget_extensions.html">docs</a>)**
 * Reusable component to allow each extension to customize the presentation of the information while still ensuring a consistent user and developer experience for all extensions attached to the merge request.
 
 ## Exit criteria
