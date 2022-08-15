@@ -690,7 +690,7 @@ For example, prefer "Hi everybody" or "Hi people" to "Hi guys", and "they" inste
 When new possibly non-inclusive words arise, we prefer to be proactive and look for an alternative.
 If your goal is to be inclusive, it is more effective to make a small adjustment in the vocabulary when some people have a problem with it, rather than making a decision to not change it because some people don’t think it is a problem.
 And if you make a mistake (e.g. accidentally using the wrong pronoun or an outdated phrase), acknowledge it, **apologize gracefully and move on**; there is no need to dwell on it, and you can work to avoid making that mistake in the future.
-Please also visit our [Gender and Sexual-orientation Identity Definitions and FAQ](/handbook/people-group/gender-pronouns/) page if you have questions around pronouns and other topics related to gender / sexual orientation.
+Please also visit our [Gender and Sexual-orientation Identity Definitions and FAQ](/handbook/people-group/orientation-identity/) page if you have questions around pronouns and other topics related to gender / sexual orientation.
 
 ##### Inclusive interviewing
 {:.no_toc}
