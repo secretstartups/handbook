@@ -64,7 +64,7 @@ At GitLab, we promote on a quarterly cadence. This means that there is **one eff
 | Stage | Purpose |
 | ---------- | ----- |
 | [Planning](/handbook/people-group/promotions-transfers/#planning) | Managers and leaders to review their respective teams to determine promotion readiness, business need, and timeline for the upcoming quarters and project promotions |
-| [Calibration](/handbook/people-group/promotions-transfers/#calibration) | The calibration exercise is an opportunity for leaders (sync or async) to review projected promotions on a quarterly basis. This is an opportunity to create visbility and ensure consistency in who we are promoting and why. |
+| [Calibration](/handbook/people-group/promotions-transfers/#calibration) | The calibration exercise is an opportunity for leaders (sync or async) to review projected promotions on a quarterly basis. This is an opportunity to create visibility and ensure consistency in who we are promoting and why. |
 | [Processing](/handbook/people-group/promotions-transfers/#process-for-managers-requesting-a-promotion-or-compensation-change) | The final stage once promotions are defined, is to determine where to process the promotion to finalize (this will take place via Workday or Greenhouse). 
 
 **Managers do not need to submit promotions that are part of the quarterly calibration process via Workday or Greenhouse. These will be processed by the PBP, Total Rewards, and People Operations team following calibration and Division leader approval.** The exception to this rule are promotions that are submitted as [exceptions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#quarterly-promotion-cadence-exceptions) and not part of the quarterly cycle and timeline outlined below.
@@ -154,15 +154,15 @@ Note that calibration structure may vary by division and department depending on
 
 ### Promotions to Senior Director+
 
-Philsophically, all promotions at GitLab are approached in the same way, follow the same high level process (Planning, Calibration, Processing), and use the same promotion document template. 
+Philosophically, all promotions at GitLab are approached in the same way, follow the same high level process (Planning, Calibration, Processing), and use the same promotion document template. 
 
 Promotions to Senior Director+ level ([job grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above) have the following differences:
 
-1. **Planning**: Senior Director+ promotions need to be added to E-group's promotion project sheet at least two quarters ahead of the desired promotion quarter for visbility. For example, if I want to promote an individual effective in Q1 (February), then I need to have this team member added to E-group's projection sheet within Q3 (latest October). Please work with your aligned People Business Partner, who will ensure the promotion projection is added. 
-1. **Calibration**: All Senior Director+ level promotions are calibrated at the E-group level, as opposed to at the Department level. Calibration timeline will align to the timing of the [E-group offiste](https://about.gitlab.com/company/offsite/#schedule), and will thus differ from the Calibration timeline of the rest of the organization. All promotion documents need to be completed and shared with the E-group for visbility and preparation at least _2 weeks before the off-site date_. 
+1. **Planning**: Senior Director+ promotions need to be added to E-group's promotion project sheet at least two quarters ahead of the desired promotion quarter for visibility. For example, if I want to promote an individual effective in Q1 (February), then I need to have this team member added to E-group's projection sheet within Q3 (latest October). Please work with your aligned People Business Partner, who will ensure the promotion projection is added. 
+1. **Calibration**: All Senior Director+ level promotions are calibrated at the E-group level, as opposed to at the Department level. Calibration timeline will align to the timing of the [E-group offiste](https://about.gitlab.com/company/offsite/#schedule), and will thus differ from the Calibration timeline of the rest of the organization. All promotion documents need to be completed and shared with the E-group for visibility and preparation at least _2 weeks before the off-site date_. 
 
 
-The only exception to this process is when there is an open budgeted and publicly advertised vacancy for a Director or above level role that an interal team member interviews for and is offered. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
+The only exception to this process is when there is an open budgeted and publicly advertised vacancy for a Director or above level role that an internal team member interviews for and is offered. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
 
 ### Promotion Metrics 
 
