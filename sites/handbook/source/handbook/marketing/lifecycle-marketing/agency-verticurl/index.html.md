@@ -130,9 +130,9 @@ Please note we have a 5 business day SLA with Verticurl, so please plan ahead ac
 
 1. **GitLab**: Issues are submitted with final copy and all details included, with status `FMM-Verticurl::triage`.
     - At the time of moving to triage, all details must be provided and final (including copy reviewed by relevant stakeholders, and all hyperlinks double-checked and confirmed).
-1. **GitLab**: Triage Manager (Regional Manager, FMM) for relevant team will review the incoming issues for completed details. When details are confirmed and final, Triage Manager will move to `mktg-status::wip` and assign to `FMM Verticurl resourse - jitha.asokan` and `FMM Verticurl Resource - priya_sridhar`
+1. **GitLab**: Triage Manager (Regional Manager, FMM) for relevant team will review the incoming issues for completed details. When details are confirmed and final, Triage Manager will move to `mktg-status::wip` and assign to `FMM Verticurl Resource - @priya_sridhar`, `FMM Verticurl Resource - @SowKarthick`, and `FMM Verticurl Resource - @deepak.k.verticurl`.
     - If Triage Manager finds that all details are not included in the issue, then Triage Manager will add the label `FMM-Verticurl::blocked` and will also comment to the requesting team member what is missing. Once the team member addresses the missing pieces, they then add the `FMM-Verticurl::triage` label again to start the review process over.
-1. **Verticurl**: `FMM Verticurl Resource - priya_sridhar` will assign issue to a Verticurl [DRI](/handbook/people-group/directly-responsible-individuals/) within Verticurl's internal project management system. 
+1. **Verticurl**: `FMM Verticurl Resource - @priya_sridhar` will assign issue to a Verticurl [DRI](/handbook/people-group/directly-responsible-individuals/) within Verticurl's internal project management system. 
 1. **Verticurl**: Verticurl DRI adds email to the Google Calendar for the anticipated send date.
     - The requested send date is the due date of the issue. If the requested send date is less than 5 Business Days from the date it is passed to Verticurl, the date of the issue will be scheduled 5 business days out to abide by SLAs.
 1. **Verticurl**: Verticurl DRI completes the setup in Marketo, then sends a test email to the "Reviewers/Approvers" listed in the issue
@@ -149,6 +149,10 @@ Please note we have a 5 business day SLA with Verticurl, so please plan ahead ac
 1. **GitLab**: Once email is confirmed sent by Verticurl in step above, FMC closes issue.
 1. **GitLab** Post event reporting. To Request a full Marketo Recap reporting from Verticurl please  request in the Follow Up email sub issue. 
 1. **Verticurl FMC** Once a report is complete please add a link to the main issue into the Planning & Recap Spreeedsheet section.
+
+### Questions
+
+Note that if questions arise during the review process with Verticurl, please cc `@ManoSiv` to help facilitate. 
 
 ### EMail Send Times
 {: #email-send-times}
