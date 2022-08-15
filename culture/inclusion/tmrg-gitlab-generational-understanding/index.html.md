@@ -20,7 +20,7 @@ The mission of the generational understanding [TMRG](/company/culture/inclusion/
 
 ## Lead(s)
 
-* [Wayne Haber](https://about.gitlab.com/company/team/#whaber)
+* [Darwin Sanoy](https://gitlab.com/DarwinJS)
 
 ## Communications
 
