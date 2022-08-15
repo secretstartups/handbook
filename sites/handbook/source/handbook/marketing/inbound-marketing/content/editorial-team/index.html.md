@@ -803,7 +803,7 @@ We have a [checklist for writers in the blog handbook](/handbook/marketing/blog/
 #### Is the writing inclusive?
 
 - Does the post use [inclusive language](/company/culture/inclusion/#inclusive-language)?
-- Confirm that people featured in the post are referencing using their [preferred pronoun](/handbook/people-group/gender-pronouns/#how-do-i-know-which-pronouns-to-use)? You can do a quick check on the individual's [team page profile](/company/team/#close-modal) and Slack profile.
+- Confirm that people featured in the post are referencing using their [preferred pronoun](/handbook/people-group/orientation-identity/#how-do-i-know-which-pronouns-to-use)? You can do a quick check on the individual's [team page profile](/company/team/#close-modal) and Slack profile.
 - Whenever possible, edit to remove extra words to keep sentences short and concise. For example: "The family is excited to buy their very own house" can be edited to read "The family is excited to buy a house". These edits make the post easier for all readers to follow.
 - Check that the writing is appropriate for a global audience. Flag any regional metaphors or United States-centric language.
 - Ensure that all links are meaningful and descriptive (e.g. avoid link text such as "read here" or "this article"). Descriptive links are more useful and accessible for people using screen readers.
