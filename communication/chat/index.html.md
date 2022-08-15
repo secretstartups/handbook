@@ -104,7 +104,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_delaware`](https://app.slack.com/client/T02592416/CRG5B7E59) | delaWHERE? |
 | [`#loc_delhi_ncr`](https://app.slack.com/client/T02592416/CLY3PMHUP) |  |
 | [`#loc_denmark`](https://app.slack.com/client/T02592416/CKC8PJP18) |  |
-| [`#loc_denver`](https://app.slack.com/client/T02592416/C1S8BHWF7) | Denver Co-working space address:<br>WeWork<br>The Lab<br>2420 17th St Denver CO 80202 |
+| [`#loc_denver`](https://app.slack.com/client/T02592416/C1S8BHWF7) | All things Denver, CO and surrounding areas! |
 | [`#loc_digital-nomad`](https://app.slack.com/client/T02592416/CDHFXPNQM) | Anyone else living the digital nomad life? Maybe let's find spots to travel together! Share your travel plans if you'd like and make connections abroad 🙂 |
 | [`#loc_dmv`](https://app.slack.com/client/T02592416/C7UJ658ET) | for people in and around DC, Maryland, Virginia |
 | [`#loc_dontmesswithtexas`](https://app.slack.com/client/T02592416/C52UG8XL5) |  |
