@@ -196,7 +196,7 @@ Transgender is an umbrella term to refer to and capture all non-traditional gend
 
 No, being transgender is not a mental illness.
 
-Transgender people can experience a mental illness known as [gender dysphoria](/handbook/people-group/gender-pronouns/index.html#gender-dysphoria), however not all trans people have this experience, so being trans in and of itself is not a mental illness.
+Transgender people can experience a mental illness known as [gender dysphoria](/handbook/people-group/orientation-identity/#gender-dysphoria), however not all trans people have this experience, so being trans in and of itself is not a mental illness.
 
 This [Vox article on transgender mental health](https://www.vox.com/identities/2016/5/13/17938120/transgender-people-mental-illness-health-care) says it well,
 
