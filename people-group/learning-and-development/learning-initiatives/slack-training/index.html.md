@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Communicate at GitLab: Slack Training
+title: "Communicate at GitLab: Slack Training"
 description: "Outline of the GitLab in-app Slack training to train team members on key communication norms at GitLab"
 ---
 
