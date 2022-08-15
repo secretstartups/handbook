@@ -45,7 +45,7 @@ Ally.io is the source of truth for CEO OKRs: https://app.ally.io/teams. Since Al
 
 ### 3. CEO: Completed activities foundational for scale
 1. **CEO KR:** Deliver cross-functional revenue globalization priority frameworks and committed departmental action plans for top 5 countries / markets.
-1. **CEO KR:** Increase URG Director+ representation to 12.5% by growing by 4 URG hires.
+1. **CEO KR:** Increase the total number of URG Director and Senior Directors from 11.6% to 13.6%.
 1. **CEO KR:** [Internal Only] [Partnership milestones](https://app.ally.io/objectives/2212871?time_period_id=155987). 
 
 
