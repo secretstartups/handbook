@@ -1,3 +1,10 @@
+---
+layout: markdown_page
+title: "TMDG GitLab Early Career Professionals"
+description: "We are the GitLab Early Career Professionals Discussion Group (TMDG) founded in the summer of 2022. Learn more!"
+canonical_path: "/company/culture/inclusion/tmdg-gitlab-early-career/"
+---
+
 # Early Career Professionals Team Member Discussion Group (TMDG)
 Welcome to the Early Career Professionals TMDG! 
 
