@@ -19,8 +19,8 @@ canonical_path: "/company/team/structure/working-groups/pipeline-validation-serv
 | Target End Date | 2021-12-03 |
 | Slack           | #f_pipeline_validation_service (only accessible from within the company) |
 | Google Doc      | [Agenda](https://docs.google.com/document/d/19-2QG0yXDt2p9vKLLxwrmqgBezk1Li7Zd6iTh-hotso/edit) (only accessible from within the company) |
-| Boards           | [gitlab-org board](https://gitlab.com/groups/gitlab-org/-/boards/2844965), [gitlab-com board](https://gitlab.com/groups/gitlab-com/-/boards/2844954) |
-| Issue Label | ~WorkingGroup::PipelineValidationServiceOperations  |
+| Boards          | [gitlab-org board](https://gitlab.com/groups/gitlab-org/-/boards/2844965), [gitlab-com board](https://gitlab.com/groups/gitlab-com/-/boards/2844954) |
+| Issue Label     | ~WorkingGroup::PipelineValidationServiceOperations  |
 
 ## Goals
 
@@ -34,6 +34,7 @@ This Working Group has the following goals:
 ### Exit Criteria 
 
 1. Successfully transition PVS to a long term owner
+  - The [Anti-abuse](https://about.gitlab.com/handbook/engineering/development/sec/anti-abuse/) group [owns and maintains PVS](https://about.gitlab.com/direction/anti-abuse/#pvs-pipeline-validation-service)
 
 ### Roles and Responsibilities
 
