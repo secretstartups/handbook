@@ -562,7 +562,7 @@ This section focuses on best practices, timelines and logistical set up for a Fi
 ## Virtual Workshop Epic Code
 **DRI: FMM and FMC**
 
-**Please see workshop epic code [here](/handbook/marketing/field-marketing/field-marketing-epics/#virtual-hands-on-workshops).**
+**Please see workshop epic code [here](/handbook/marketing/field-marketing/field-marketing-epics/#workshops).**
 
 ## Virtual Workshop Set-Up
 `NOTE: Please make sure your Webcast or Workshop date is confirmed before starting the below process. Moving a Webcast or Workshop date is extremely time-intensive once setup is complete.`
@@ -688,7 +688,7 @@ In order to cap registration, we remove the registration form on the Landing Pag
    - The date reservation request must be submitted no less than 32 business days prior to event date for existing copy and content and 45 days prior to the event date for new copy and content.  
    - For workshops, the moderator and lead SA must be secured in order to reserve the date.
    - The FMC will assign/confirm the date of the webcast according to [this process](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-date).
-1. Once you have obtained a Webcast date, create a Field Marketing issue for a virtual workshop utilizing the [Virtual Workshop Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Virtual_Workshop_Template).
+1. Once you have obtained a Webcast date, create a Field Marketing issue for a virtual workshop utilizing the [Virtual Workshop Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Workshop_Template).
 1. FMM will ping FMC to create epic and sub-issues (linked in [epic code](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-epic-code)).
 1. Once the FMC has created the sub-issues they are responsible for (broken out in the epic code), they will then ping the FMM to create any of the optional sub-issues they may require (also broken out in the epic code).
 1. FMC and FMM will assign the due dates for their appropriate sub-issues according to the [SLA workback schedule](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280)
@@ -929,7 +929,7 @@ Normal FM close process: Send follow-up email, gather recap information from the
 
 ## Proposing New Workshops
 
-If you have a new workshop idea/topic, you can build out a Parent Epic for that workshop utilizing the epic code below. Please note that the first time you set up the new workshop, it will run as a -45 SLA with all new content. If you decide you would like to repeat the workshop in the future, you will need to work with the Campaign Management team to build out the new workshop’s backend templates in Marketo. You would also then need to add all finalized details and link to the new workshop throughout these handbook instructions, as well add the new workshop details to the [FM Workshop Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Virtual_Workshop_Template).
+If you have a new workshop idea/topic, you can build out a Parent Epic for that workshop utilizing the epic code below. Please note that the first time you set up the new workshop, it will run as a -45 SLA with all new content. If you decide you would like to repeat the workshop in the future, you will need to work with the Marketing Ops team to build out the new workshop’s backend templates in Marketo. Please open an issue with them [here](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues) to work through setting up the new workshop. You would also then need to add all finalized details and link to the new workshop throughout these handbook page instructions, as well add the new workshop details to the [FM Workshop Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Workshop_Template).
 
 ```
 

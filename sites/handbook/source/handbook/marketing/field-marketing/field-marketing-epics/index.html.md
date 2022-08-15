@@ -452,7 +452,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 /label ~"mktg-status::wip" ~"Vendor Arranged Meetings" ~"Field Marketing"
 ```
 
-## Virtual Hands-on Workshops
+## Workshops
 
 ```
 <!-- Name this epic: Name of Event - Date of Event -->
@@ -469,6 +469,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * **Field Marketing Manager:** 
 * **Field Marketing Coordinator:** 
 * **Campaign Type:** Workshop
+* **Type:** (In-Person, Virtual or Hybrid)
 * **Official Name:** 
 * **Date(s):**  
 * **Campaign Name (SFDC/Marketo Name):**  
@@ -484,7 +485,7 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 * [ ] [Dry Run Scheduling Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=webcast_dry_run_scheduling) - FMC creates, assigns to FMC and FMM
 * [ ] [Webcast Prep Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=webcast-prep) - FMC creates, assigns to FMM, Lead SA and FMC 
 * [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - FMC creates, assigns to FMC 
-* [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - This issue is only required for new Virtual Workshops where new copy will need to be created. - FMC creates, assigns to FMM
+* [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - This issue is only required for workshops where the standard copy in the Marketo template won't be utilized and where new copy will need to be created. - FMC creates, assigns to FMM
 * [ ] [Marketo Landing Page & Automation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_mkto_landing_page) - FMC creates, assigns FMM (issue will be triaged)
 * [ ] [Sales Nominated Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_sales_nominated) - FMC creates, assigns to the FMM (issue will be triaged)
 * [ ] [Email Invitation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_invite) - FMC creates one for each invitation requested, assigns to FMM (issue will be triaged)
@@ -495,7 +496,7 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 
 ### FMM Creates 
 
-* [ ] [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_zoom_license_date) - NOTE: This should be submitted and confirmed prior to the epic being opened. Do not open epic if this issue has not been created and the date for the workshop has not been confirmed on the webcast calendar by the FMC. - FMM creates, assigns to FMC
+* [ ] [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_zoom_license_date) - NOTE: This is only needed for virtual workshops. This issue should be submitted and confirmed prior to the epic being opened. Do not open epic if this issue has not been created and the date for the workshop has not been confirmed on the webcast calendar by the FMC. - FMM creates, assigns to FMC
 * [ ] [Request Target List](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-confirm-target-list) - NOTE: This issue is included in the [Write Copy](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) issue and must be completed before the first invite is due. - FMM creates, assigns FMM and FMC (issue will be triaged)
 * [ ] [Optional: New Design Assets for Demand Base Display Ads](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general) - FMM creates, assigns to FMM and Design Team
 * [ ] [Optional: Paid Ads Issue Created for Digital Marketing](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - FMM creates, assigns to FMM and DMP Team 

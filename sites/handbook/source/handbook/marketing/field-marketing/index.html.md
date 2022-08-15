@@ -165,12 +165,6 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Executive_Roundtable)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#executive-roundtable)
 
-## Hands-on Workshop (In-Person, Virtual or Hybrid)
-* [Tactic Details](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/)
-* [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#workshop)
-* [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Virtual_Workshop_Template)
-* [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#virtual-hands-on-workshops)
-
 ## Owned Event (In-Person, Virtual or Hybrid)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#owned-event)
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Owned_Event_Template)
@@ -205,6 +199,12 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#webcast)
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Webcast_Template)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#webcasts)
+
+## Workshop (In-Person, Virtual or Hybrid)
+* [Tactic Details](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/)
+* [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#workshop)
+* [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Workshop_Template)
+* [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#workshops)
 
 # Suggested workflow to ensure your campaigns are accurate
 
