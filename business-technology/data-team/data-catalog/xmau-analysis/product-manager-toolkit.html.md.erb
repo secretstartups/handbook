@@ -133,17 +133,14 @@ GROUP BY 1
 ### Recorded Monthly Metric Value: [td_xmau_metrics_recorded_metric_value(metrics_path)]
 
 The `[td_xmau_metrics_recorded_metric_value]` snippet shows you the recorded (non-estimated) 
-value of any of your metrics implemented in Service Ping. 
+value of any of your metrics implemented in Service Ping. For all-time metrics, this returns 
+the installation-level change from the previous period.
 
 The resulting dataset will enable you to break down recorded usage by:
 
 * delivery (SaaS vs Self-Managed)
 * edition
 * product_tier
-
-⚠️ For all-time metrics, this does not return the change from the previous period. It returns 
-the actual recorded value straight from Service Ping.⚠️ [Here is the issue](https://gitlab.com/gitlab-data/analytics/-/issues/12695) 
-to make the period-over-period change available in the data models.
 
 #### Usage
 
@@ -175,9 +172,6 @@ You can [find the `metrics_path` used for this snippet as described above](#usag
 
 This snippet is a variation of `td_xmau_metrics_recorded_metric_value` that shows to original 
 metric, instead of a change from the previous period.
-
-⚠️ Currently this snippet returns the same value as `td_xmau_metrics_recorded_metric_value`, the 
-value actually recorded in the Service Ping.⚠️ 
 
 #### Usage
 
