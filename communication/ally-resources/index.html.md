@@ -31,7 +31,7 @@ It is not required to be an ally to work at GitLab. At GitLab it is required to 
 Allies familiarize themselves with GitLab's general DIB content
 
 - [Diversity, Inclusion & Belonging page](/company/culture/inclusion/)
-- [Gender and Sexual Orientation Identity Definitions and FAQ](/handbook/people-group/gender-pronouns/)
+- [Gender and Sexual Orientation Identity Definitions and FAQ](/handbook/people-group/orientation-identity/)
 - [DIB training](/company/culture/inclusion/#employee-training-and-learning-opportunities)
 - [Unconscious bias](/company/culture/inclusion/unconscious-bias/)
 
