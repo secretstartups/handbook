@@ -386,12 +386,13 @@ If this is to set up a program that involves a channel partner, you must also fo
 - Executive Roundtables - `Hybrid template`: [YYYYMMDD_ExecutiveRoundtable_Topic_Region_EventType_template](https://app-ab13.marketo.com/#ME6028A1)
 - Speaking Session - `Hybrid template`: [YYYYMMDD_SpeakingSession_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5092A1)
 - Vendor Arranged Meetings (1:1 meetings) - `Hybrid template`: [YYYYMMDD_ArrangedMeetingsVendorName_Region_EventType_template](https://app-ab13.marketo.com/#PG5698A1)
-- Zoom GitLab Hosted Workshops [please follow directions in the workshop set-up section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up):
-   - Project Management: [YYYYMMDD_VirtualWorkshop_ProjectManagement_EventType](https://app-ab13.marketo.com/#ME6536A1)
-   - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop_EventType](https://app-ab13.marketo.com/#ME6521A1)
-   - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation_EventType](https://app-ab13.marketo.com/#ME6532A1)
-   - Advanced CI/CD: [YYYYMMDD_VirtualWorkshop_CI/CD_EventType](https://app-ab13.marketo.com/#ME6807A1)  
-   - Jenkins [YYYYMMDD_VirtualWorkshop_Jenkins_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1) 
+- GitLab Hosted Workshops - `Hybrid template`:   
+[For virtual workshops, please follow directions in the virtual workshop set-up section.](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up) In-person workshops utilize a similar setup, but do not involve the Zoom requirements. If you have a workshop to set up that is not one of the workshops listed below, you can still utilize any of these templates for backend setup and then use a [copy dock](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#heading=h.tl82wncgutxu) to indicate all copy adjustments that are required (you will also update the baseline Marketo tokens during the setup process).
+   - Project Management: [YYYYMMDD_Workshop_ProjectManagement_EventType](https://app-ab13.marketo.com/#ME6536A1)
+   - Security: [YYYYMMDD_Workshop_SecurityWorkshop_EventType](https://app-ab13.marketo.com/#ME6521A1)
+   - DevOps Automation: [YYYYMMDD_Workshop_DevOpsAutomation_EventType](https://app-ab13.marketo.com/#ME6532A1)
+   - Advanced CI/CD: [YYYYMMDD_Workshop_CI/CD_EventType](https://app-ab13.marketo.com/#ME6807A1)  
+   - Jenkins [YYYYMMDD_Workshop_Jenkins_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1) 
 
 ##### Other Tactic Marketo Templates
 - Conference - `Virtual`: [YYYYMMDD_Conference_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5100A1)
