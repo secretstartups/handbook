@@ -111,6 +111,8 @@ You have two options to [Schedule interviews](/handbook/hiring/talent-acquisitio
 [Complete feedback](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-5hm-hiring-team-to-complete-feedback-in-greenhouse). Ideally the feedback is submitted within 1-2 business days of the interview.
 If you're unable to submit it within that timeframe, please reach out to the Hiring Manager and/or Recruiter with any early evaluation and when they can expect your feedback by. 
 
+**Note:** There are times when candidates who may not be a good fit in one role could be an ideal fit in another role. In those cases, please note that to the recruiter or share in Slack (i.e. [#ops-hiring](https://gitlab.slack.com/archives/C03E8N0S3LM), [#dev-hiring-mgmt](https://gitlab.slack.com/archives/G01G3E1FZ6Y), etc.) as it may be helpful for other hiring managers to be aware of to evaluate these candidates.
+
 ### Step 11. References
 
 1. [Request references](/handbook/hiring/talent-acquisition-framework/req-overview/#step-7-references-and-background-check)
