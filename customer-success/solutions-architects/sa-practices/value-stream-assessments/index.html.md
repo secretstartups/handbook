@@ -231,36 +231,32 @@ It is recommended to review the executive briefing with your champion, key stake
 
 1. What are typical outcomes for a customer?
 
-For one medical device company in Silicon Valley, doing a Value Stream Assessment provided them with a tangible adoption plan to decrease their release cycle from 6   months to 1 months. It was specific, actionable, and realistic. 
-
-For a financial service bank, doing a Value Stream Assessment provided them with a comparison of their process with their peers, and the clear path forward to improve their processes, and ultimately allowed them to achieve a desired ROI of releasing software faster while increasing quality.
-
-
-Customers like UBS and Silicon Valley Bank have realized the below outcomes when coupling a VSA with GitLab investment: 
-
-    - Faster time to market
-    - Increase deployment frequency
-    - Reduced lead time to change
-    - Improved change failure rate
-
-Necessary capabilities obtained to drive transformation change (e.g., digital, devOps, software delivery, modern applications)
+    - For one medical device company in Silicon Valley, doing a Value Stream Assessment provided them with a tangible adoption plan to decrease their release cycle from 6 months to 1 months. It was specific, actionable, and realistic. 
+    - For a financial service bank, doing a Value Stream Assessment provided them with a comparison of their process with their peers, and the clear path forward to improve their processes, and ultimately allowed them to achieve a desired ROI of releasing software faster while increasing quality.
 
 
+    - Financial Services customers have realized the below outcomes when coupling a VSA with GitLab investment: 
+
+        - Faster time to market
+        - Increase deployment frequency
+        - Reduced lead time to change
+        - Improved change failure rate
+        - Necessary capabilities obtained to drive transformation change (e.g., digital, devOps, software delivery, modern applications)
 1. Which teams are typically involved?
 
-We start with application development team, quality engineering team, devops then application security.
+    1. We start with application development team, quality engineering team, devops then application security.
 
 1. What's the best place to start?
 
-Pick the most business critical application or a representative application that has faster time to market requirement.
+    1. Pick the most business critical application or a representative application that has faster time to market requirement.
 
-1. That's a lot of time investment from our teams Or Our teams are busy with other projects
+1. That's a lot of time investment from our teams Or Our teams are busy with other projects.
 
-It takes 1 or 1.5 hr per team to do focused discovery for VSA. We interviewed 4 different teams for our silicon valley customer in 4.5 hrs. We can start with the least busy team if you don't want it to be pursued in a group setting.
+    1. It takes 1 or 1.5 hr per team to do focused discovery for VSA. We interviewed 4 different teams for our silicon valley customer in 4.5 hrs. We can start with the least busy team if you don't want it to be pursued in a group setting.
 
 1. Can you interview 1 team at a time?
 
-Yes. We would like to start with application development team if so. This helps us understand an overview of their idea-production process.
+    1. Yes. We would like to start with application development team if so. This helps us understand an overview of their idea-production process.
 
 
 ## Training and Enablement
@@ -270,7 +266,9 @@ Yes. We would like to start with application development team if so. This helps 
 This course provides an overview of how GitLab account teams should assist prospects and customers by providing an assessment of their value stream. The course outlines the approaches, tools, and artifacts used to conduct a value stream assessment for our prospects and customers.
 
 - [EdCast Pathway](https://gitlab.edcast.com/pathways/vsa-overview)
-- [Past Field Enablement]()
+
+### Past Enablement
+- [Past Field Enablement](https://youtu.be/jfM3AG6dBFY)
 - [Sales Kick Off - Delivering strategic customer outcomes by partnering with your SAs](https://drive.google.com/file/d/1-sKdoGU9sj5KnVxEzmo6kDZ1CTZkZNrv/view?usp=sharing)
 - [Sales Kick Off (SA breakout) - Value Stream Mapping - Origins, Assessments and Iterations](https://drive.google.com/file/d/1M4FVNZYuWBJhkLM4JQU7wUkX-Dot9BQG/view?usp=sharing)
 
