@@ -14,7 +14,7 @@ description: >-
 As a member of the pre-sales team, closing another successful deal for GitLab, it is important to pave the way for the TAM. A successful TAM introduction is a critical step in the customer lifecycle. An effective TAM introduction will lead to customer excitement about the product and increase the TAM's credibility as they assist the customer through onboarding, implementation, and adoption. 
 
 <!-- NOTE: This course probably needs to be checked to ensure it's not conflicting with the new guidelines -->
-Please review this course on [Introducing the Technical Account Manager](https://gitlab.edcast.com/insights/ECL-c2cdd326-7f29-43f2-9a11-484b8dc6584f). 
+Please review this course on [Introducing the Technical Account Manager](https://levelup.gitlab.com/courses/introducing-the-technical-account-manager). 
 
 ## Transition Quick Summary
 
