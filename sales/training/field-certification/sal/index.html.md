@@ -1,19 +1,19 @@
 ---
 layout: handbook-page-toc
-title: "Field Certification: Strategic Account Leaders"
-description: "To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a certification program for Strategic Account Leaders that includes functional, soft skills, and technical training for field team members"
+title: "Field Accreditation: Strategic Account Leaders"
+description: "To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing an accreditation program for Strategic Account Leaders that includes functional, soft skills, and technical training for field team members"
 ---
 
-## Field Certification Program for Strategic Account Leaders
+## Field Accreditation Program for Strategic Account Leaders
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
 ## Overview 
-To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a certification program for Strategic Account Leaders that includes functional, soft skills, and technical training for field team members.  
+To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing an accreditation program for Strategic Account Leaders that includes functional, soft skills, and technical training for field team members.  
 
-Certification badges will align to the critical customer engagements as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each customer interaction.
+Accreditation badges will align to the critical customer engagements as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each customer interaction.
 
 ## Strategic Account Leader Curriculum 
 The below slide shows the holistic learner journey for SALs and provides context for the information included throughout the learning program. 
@@ -60,9 +60,9 @@ This is the first learning path in development for SALs which will consist of 5 
 * Explain the process to accurately forecast 
 
 ## Recognition
-Upon completing each course, the associate will receive a badge. 
+Upon completing each course, passing the written exam and practical assessment, the team member will receive a badge. 
 
 ## Feedback 
-We want to hear from you! You can follow along with course development by checking out the issues on the [Field Cert Team Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426?&label_name[]=field%20certification). 
+We want to hear from you! You can follow along with course development by checking out the issues on the [Field Enablement Team Board](https://gitlab.com/groups/gitlab-com/-/boards/2714682?label_name[]=Field%20Learning%20Programs).
 
 
