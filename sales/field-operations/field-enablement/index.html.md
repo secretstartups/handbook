@@ -82,11 +82,13 @@ Design and deliver effective enablement solutions that grow field team members' 
 
 You can find a read-out of Field Enablement team results by quarter – including overall team achievements, progress against OKRs and program-specific key accomplishments and results – in the Field Enablement Quarterly Readout decks below: 
 
+- [FY23-Q2 Field Enablement Results Readout](https://docs.google.com/presentation/d/1izOPf8zIAyxs6Urqf-uupNKp1_DD99sWRon2d9q8Gxc/edit?usp=sharing)
 - [FY23-Q1 Field Enablement Results Readout](https://docs.google.com/presentation/d/1pQFvcCjWXi7UVLV5fiJpuffvYB4GP6BhWYaj6SXGF54/edit?usp=sharing) (GitLab internal only)
 - [FY22-Q4 Field Enablement Results Readout](https://docs.google.com/presentation/d/1qwSx76vJzj5ETDclrIc7Asm4_zcp2tKTAO3jutf4IO0/edit?usp=sharing) (GitLab internal only)
 - [FY22-Q3 Field Enablement Results Readout](https://docs.google.com/presentation/d/1Cq2KcEsWehAGG_VaWCVyrXOliv0V8xf5pFWmcdjZ09k/edit?usp=sharing) (GitLab internal only)
 - [FY22-Q2 Field Enablement Results Readout](https://docs.google.com/presentation/d/1xVt4_1tl_8CgPNAexo4ycq5xWmb6nXEC7WUEBJv3oWw/edit?usp=sharing) (GitLab internal only)
 - [FY22-Q1 Field Enablement Results Readout](https://docs.google.com/presentation/d/1La-jKxkb6sId1iZCocX35n5z7cXYF0OcLp7pUzTSBjs/edit?usp=sharing) (GitLab internal only)
+
 
 ## Handbook-First Approach to GitLab Learning and Development Materials
 
