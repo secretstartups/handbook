@@ -150,17 +150,31 @@ Test instances are, by default, publicly accessible on the Internet. Often, we n
 
 ### IP Filtering
 
-A highly effective way to secure your cloud instances is to apply the [concept of IP filtering](https://www.oreilly.com/library/view/linux-network-administrators/1565924002/ch09s03.html) for each instance you create.  For the majority of cases, this means source IP filtering from one or more [CIDR block ranges](https://whatismyipaddress.com/cidr) ensuring that only certain IPs and integrations can interact with the GitLab instance, therefore, reducing the attack surface of the GitLab organization as a whole.
+A highly effective way to secure your cloud instances is to apply the [concept of IP filtering](https://www.oreilly.com/library/view/linux-network-administrators/1565924002/ch09s03.html) for each test instance you create whether its a GitLab instance or otherwise.  For the majority of cases, this means source IP filtering from one or more [CIDR block ranges](https://whatismyipaddress.com/cidr) ensuring that only certain IPs and integrations can interact with the GitLab instance, therefore reducing the attack surface of the GitLab organization as a whole.
 
-If you don't know your current IP address to use for source IP filtering, you can utilize services like [whatsmyipaddress.com](https://whatismyipaddress.com/) or [ipinfo.io](https://ipinfo.io/) to retrieve it.  Though configuring IP filtering is currently a manual process for each GitLab cloud instance, [discussions are underway](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4097) at the time of writing regarding how best to automate this practice to reduce complexity and manual processes needed. The steps to implement IP filtering will differ per cloud environment.  Here you can find current documentation for manually implementing source IP filtering in the most commonly used cloud platforms:
+If you don't know your current IP address to use for source IP filtering, you can utilize services like [whatsmyipaddress.com](https://whatismyipaddress.com/) or [ipinfo.io](https://ipinfo.io/) to retrieve it.  Though configuring IP filtering is currently a manual process for each cloud service, [discussions are underway](https://gitlab.com/gitlab-com/business-technology/engineering/tools/hackystack/-/issues/134) at the time of writing regarding how best to automate this practice to reduce complexity and manual processes needed in some cases. The steps to implement IP filtering will differ per cloud environment.  Below you can find a detailed guide maintained by the support engineering team.
+
+- [Support Engineering Step-by-Step Guide to Implementing IP Filtering](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/content/ip%20filtering/ip_filtering_test_instances.md)
+
+In addition, you can find official, platform-specific documentation of features involved in implementing IP filtering:
 
 - [Google Cloud](https://cloud.google.com/vpc/docs/using-firewalls#creating_firewall_rules#console)
 - [Amazon Web Services (AWS)](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 - [Azure](https://docs.microsoft.com/en-us/learn/modules/introduction-azure-web-application-firewall/)
 
+### TLS
+
+To be in line with [GitLab's encryption policy](https://about.gitlab.com/handbook/engineering/security/threat-management/vulnerability-management/encryption-policy.html), TLS should also be implemented on public-facing testing resources.  Implementing TLS on any test instance that includes a login page can be done with a self-signed certificate if desired.  Self-signed certificates are free, suitable for testing environments, and encrypt ingress and egress traffic with the same ciphers as paid certificates.  The down-side is that self-signed certificates are not trusted by any browser or operating system and will therefore warn users of the risks when accessing a site that utilizes a self-signed (untrusted) certificate.  If external parties will be accessing your instance that should rely on your TLS implementation, it's best to include a signed certificate from a legitimate certificate authority.  For instructions on using self-signed certificates on your test instances, please review the following documentation:
+
+- [Google Cloud](https://cloud.google.com/load-balancing/docs/ssl-certificates/self-managed-certs)
+- [AWS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html)
+- [Azure](https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-self-signed-certificate)
+
+For GitLab instances specifically, it's recommended that [LetsEncrypt is manually enabled for Omnibus installs](https://docs.gitlab.com/omnibus/settings/ssl.html#primary-gitlab-instance).  First, you'll need a domain assigned to your external IP regardless of your cloud platform.  Enabling LetsEncrypt for Omnibus installs is well documented at the link above.
+
 ### Patching against known vulnerabilities
 
-Running a Support test instance a known vulnerability can be a security issue. When running a test instance, you should patch against known vulnerabilities if possible.
+Running a Support test instance with a known vulnerability can be a security issue. When running a test instance, you should patch against known vulnerabilities if possible.
 
 For example, GitLab versions from 11.9 to 13.10.2 are vulnerable to [CVE-2021-22205](https://about.gitlab.com/releases/2021/04/14/security-release-gitlab-13-10-3-released/#Remote-code-execution-when-uploading-specially-crafted-image-files).
 
