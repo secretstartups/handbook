@@ -96,6 +96,8 @@ We use the `due date` field to track when the next action is due. For example: t
 [capacity planning issue board](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/boards) as the single source of truth. 
 The due date is visible on this board and it is easy to see which issues need attention.
 
+The DRI is responsible for maintaining the due date and adding status information each time the due date is adjusted.
+
 ### Workflow Status Labels
 
 Capacity Planning issues are created without a state. After the initial assessment, one of the following labels should be applied. 
@@ -124,7 +126,7 @@ Actions described above can also take place asynchronously at any time - we shou
 DRIs for issues. 
 
 The Scalability:Projections team will triage the capacity alerts by labeling them with the relevant [severity/priority labels](/handbook/engineering/quality/issue-triage/#severity-slos) and 
-assign them to the appropriate owner. From there, we rely on the [Infradev Process](/handbook/engineering/workflow/#infradev) to assist with prioritization of these capacity issues. 
+assign them to the appropriate owner. We rely on the [Infradev Process](/handbook/engineering/workflow/#infradev) to assist with prioritization of these capacity issues. 
 We remain available for guidance and review support.
 
 #### Identifying the DRI for a Capacity Issue
@@ -137,7 +139,10 @@ There are three scenarios that can occur:
 The severity and priority assigned to these Infradev issues will be based on the alert information. If the alert continues to fire, the severity and priority
 will be raised appropriately. 
 
-When the DRI has been identified, the issue will be assigned to them and a comment will be added to describe how we identified them as the owner as well as what is expected from them to resolve the issue. 
+When the DRI has been identified, the issue will be assigned to them and a comment will be added to describe how we identified them as the owner as well as what is expected from them to resolve the issue.
+The DRI should keep the issue updated by maintaining the due date and adding status information each time the due date is adjusted. 
+
+If the issue belongs to a specific team, the team label will also be applied.
 
 ## Examples of Capacity Issues
 
