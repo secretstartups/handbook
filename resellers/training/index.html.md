@@ -160,11 +160,11 @@ description: >-
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Enrolling in Accreditation and Certification Courses</span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">To sign up for any of the courses listed on this page, please visit the training section on the [GitLab Partner Portal] (https://partners.gitlab.com/prm/English/c/Training). If you are a new user, you will be prompted to complete the set up of your profile in our learning platform by supplying your region. You are not required to use a seperate login or credentials to access the training materials in our learning portal. </span>
+<span class="colour" style="color: rgb(0, 0, 0);">To sign up for any of the courses listed on this page, please visit the training section on the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/c/Training) and select Level Up. You do not require a seperate login or credentials to access the GitLab Training Portal from the Partner Portal. </span>
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Accreditation vs. Certification</span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">[A GitLab Technical Certification] (https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) requires learners to first pass a written assessment, followed by a hands-on lab assessment proctored by GitLab. This includes our Professional Services Engineer Certification and upcoming Managed Services Engineer Certification as well as access to new GitLab Certifications launching in 2022. 
+<span class="colour" style="color: rgb(0, 0, 0);">[A GitLab Technical Certification](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) requires learners to first pass a written assessment, followed by a hands-on lab assessment proctored by GitLab. This includes our Professional Services Engineer Certification and upcoming Managed Services Engineer Certification as well as access to new GitLab Certifications launching in 2022. 
 
 A GitLab Accreditation is unique to GitLab Partners and GitLab field sales members and requires learners to pass a written assessment. This includes Accreditation pathways such as Sales Professional Accreditation. 
 
