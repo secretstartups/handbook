@@ -78,7 +78,7 @@ Focusing on the goals and benefits listed above, the time required to complete a
 
 The **very first step** when considering a Value Stream Assessment is to notify the VSA team of the intent, and provide as much information as possible regarding the prospect/customer. To do so:
 
-- Please create a new issue in [value stream assessment project] (https://gitlab.com/gitlab-com/customer-success/value-stream-assessment)
+- Please create a new issue in [value stream assessment project](https://gitlab.com/gitlab-com/customer-success/value-stream-assessment)
 - Use the template labeled `request_value_stream_assessment`
 
 This gives the VSA team at GitLab the ability to both track the progress of the VSA and allocate team members to the effort, a key requirement for the next preparation steps.
@@ -225,9 +225,7 @@ It is recommended to review the executive briefing with your champion, key stake
 1. What's in it for the customer?
 
     - Free, hands-on consultative analysis of their software delivery lifecycle, including their current state, future state, and areas of improvements.
-
-    - Competitive analysis of where they are compared to their peers in the industry. This report contains the most recent benchmark values for the four DORA metrics    (widely regarded as good measures of DevOps performance)  [State of Devops Report 2021]()https://services.google.com/fh/files/misc/state-of-devops-2021.pdf.
-
+    - Competitive analysis of where they are compared to their peers in the industry. This report contains the most recent benchmark values for the four DORA metrics    (widely regarded as good measures of DevOps performance) [State of Devops Report 2021](https://services.google.com/fh/files/misc/state-of-devops-2021.pdf).
     - Recommendations on how to overcome visible or invisible challenges with a strategic plan to help them reach their future state.
 
 1. What are typical outcomes for a customer?
@@ -235,9 +233,7 @@ It is recommended to review the executive briefing with your champion, key stake
     - For one medical device company in Silicon Valley, doing a Value Stream Assessment provided them with a tangible adoption plan to decrease their release cycle from 6 months to 1 months. It was specific, actionable, and realistic. 
     - For a financial service bank, doing a Value Stream Assessment provided them with a comparison of their process with their peers, and the clear path forward to improve their processes, and ultimately allowed them to achieve a desired ROI of releasing software faster while increasing quality.
 
-
     - Financial Services customers have realized the below outcomes when coupling a VSA with GitLab investment: 
-
         - Faster time to market
         - Increase deployment frequency
         - Reduced lead time to change
