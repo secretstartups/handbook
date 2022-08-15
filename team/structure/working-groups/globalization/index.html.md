@@ -2,7 +2,6 @@
 layout: markdown_page
 title: "Revenue Globalization Working Group"
 description: "Expand GitLab's global revenue footprint by building frameworks and systems to expand and focus on 5 priority countries for FY24"
-canonical_path: "/company/team/structure/working-groups/globalizatoin/"
 ---
 
 ## On this page
