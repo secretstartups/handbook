@@ -56,6 +56,7 @@ Design and deliver effective enablement solutions that grow field team members' 
      - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
      - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
      - [Field Team Recognition Programs](/handbook/sales/field-operations/field-enablement/field-team-recognition)
+1. [CRO Development Day](/handbook/sales/crodevday/)
 
 ## Additional Resources
 - [GitLab Learn: Field Enablement Channel](https://gitlab.edcast.com/channel/field-sales-team-content-channel)
