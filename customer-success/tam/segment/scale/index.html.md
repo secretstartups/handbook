@@ -17,9 +17,9 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ## Overview
 
-Definition: The Scale TAM team is a new team being established at GitLab in FY23, a key tenant in our customer success strategy to align with our [company strategy around establishing and expanding our customer-centric approach and focus](https://about.gitlab.com/company/strategy/#3-customer-centricity). 
+Definition: The Scale CSE team is a new team being established at GitLab in FY23, a key tenant in our customer success strategy to align with our [company strategy around establishing and expanding our customer-centric approach and focus](https://about.gitlab.com/company/strategy/#3-customer-centricity). 
 
-Scale TAMs driving programmatic enablement and targeted customer engagement across the longtail customer base. [For the ARR thresholds for the Scale customer segment please reference this Wiki page](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/TAM-Segments) (GitLab Internal)
+Scale CSEs driving programmatic enablement and targeted customer engagement across the longtail customer base. [For the ARR thresholds for the Scale customer segment please reference this Wiki page](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/TAM-Segments) (GitLab Internal)
 
 ## Customer lifecycle
 
@@ -37,9 +37,9 @@ A key metric we will use to systematically identify at-risk customers will be li
 
 ### Enable
 
-Onboarding and enablement for this customer segment are primarily through one-to-many webinar sessions. In addition, a personal TAM reach-out occurs on day 21 to ensure the customer is on-track for success. A Scale TAM's goal with any one-to-one customer interaction is to put the customer on a path for success and ensure they know their ongoing resources (support team, blog, learning resources, etc.) 
+Onboarding and enablement for this customer segment are primarily through one-to-many webinar sessions. In addition, a personal CSE reach-out occurs on day 21 to ensure the customer is on-track for success. A Scale CSE's goal with any one-to-one customer interaction is to put the customer on a path for success and ensure they know their ongoing resources (support team, blog, learning resources, etc.) 
 
-A Scale TAM's engagement with any one customer will be limited in total customer interactions, most often to two or three. Additional targeted customer reach-outs for triggered events such as missed time-to-first-value poor onboarding NPS scores may occur throughout the customer lifecycle.
+A Scale CSE's engagement with any one customer will be limited in total customer interactions, most often to two or three. Additional targeted customer reach-outs for triggered events such as missed time-to-first-value poor onboarding NPS scores may occur throughout the customer lifecycle.
 
 #### Metrics for Enable
 
@@ -59,7 +59,7 @@ Use-Case Enablement:
 
 ### Expand & Renew
 
-Expansion is primarily driven by the SAL or AE in this segment, though a key driver for expansion is product enablement and familiarity. Scale TAMs will be looking for expansion opportunities in their conversations with customers, and will pass along potential opportunities to their sales counterparts to do further discovery and demos. Targeted email campaigns based on expansion potential (LAM) may be sent from Scale TAMs periodically to drive expansion as well. 
+Expansion is primarily driven by the SAL or AE in this segment, though a key driver for expansion is product enablement and familiarity. Scale CSEs will be looking for expansion opportunities in their conversations with customers, and will pass along potential opportunities to their sales counterparts to do further discovery and demos. Targeted email campaigns based on expansion potential (LAM) may be sent from Scale CSEs periodically to drive expansion as well. 
 
 #### Metrics for Expand & Renew
 
@@ -70,9 +70,9 @@ Expansion is primarily driven by the SAL or AE in this segment, though a key dri
 1. Renewal NPS & CSAT Scores
 1. Number of opportunities passed to sales reps
 
-### Scale TAM Role & Responsibilities 
+### Scale CSE Role & Responsibilities 
 
-A core responsiblity for Scale TAMs is engaging with the customer base in targeted one-to-one interactions. As a result, the following expectations for weekly customer engagements have been established for Scale TAMs. These metrics keep in mind the importance of focusing on interacting with customers live, while also allowing time to prepare for and follow up with customers after these interactions:  
+A core responsiblity for Scale CSEs is engaging with the customer base in targeted one-to-one interactions. As a result, the following expectations for weekly customer engagements have been established for Scale CSEs. These metrics keep in mind the importance of focusing on interacting with customers live, while also allowing time to prepare for and follow up with customers after these interactions:  
 
 - 15 customer calls per week (3 per day)
 
