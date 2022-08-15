@@ -223,38 +223,43 @@ It is recommended to review the executive briefing with your champion, key stake
 ## FAQs & Objections frequently heard from customers/prospects)
 1. What's in it for the customer?
 
-1. Free, hands-on consultative analysis of their software delivery lifecycle, including their current state, future state, and areas of improvements.
+    - Free, hands-on consultative analysis of their software delivery lifecycle, including their current state, future state, and areas of improvements.
 
-1. Competitive analysis of where they are compared to their peers in the industry. This report contains the most recent benchmark values for the four DORA metrics      (widely regarded as good measures of DevOps performance)  [State of Devops Report 2021]()https://services.google.com/fh/files/misc/state-of-devops-2021.pdf.
+    - Competitive analysis of where they are compared to their peers in the industry. This report contains the most recent benchmark values for the four DORA metrics    (widely regarded as good measures of DevOps performance)  [State of Devops Report 2021]()https://services.google.com/fh/files/misc/state-of-devops-2021.pdf.
 
-1. Recommendations on how to overcome visible or invisible challenges with a strategic plan to help them reach their future state.
+    - Recommendations on how to overcome visible or invisible challenges with a strategic plan to help them reach their future state.
 
 1. What are typical outcomes for a customer?
 
-1. For one medical device company in Silicon Valley, doing a Value Stream Assessment provided them with a tangible adoption plan to decrease their release cycle from 6   months to 1 months. It was specific, actionable, and realistic. 
+For one medical device company in Silicon Valley, doing a Value Stream Assessment provided them with a tangible adoption plan to decrease their release cycle from 6   months to 1 months. It was specific, actionable, and realistic. 
 
-1. For a financial service bank, doing a Value Stream Assessment provided them with a comparison of their process with their peers, and the clear path forward to improve their processes, and ultimately allowed them to achieve a desired ROI of releasing software faster while increasing quality.
+For a financial service bank, doing a Value Stream Assessment provided them with a comparison of their process with their peers, and the clear path forward to improve their processes, and ultimately allowed them to achieve a desired ROI of releasing software faster while increasing quality.
 
 
-1. Customers like UBS and Silicon Valley Bank have realized the below outcomes when coupling a VSA with GitLab investment: 
+Customers like UBS and Silicon Valley Bank have realized the below outcomes when coupling a VSA with GitLab investment: 
 
     - Faster time to market
     - Increase deployment frequency
     - Reduced lead time to change
     - Improved change failure rate
-1.  Necessary capabilities obtained to drive transformation change (e.g., digital, devOps, software delivery, modern applications)
+
+Necessary capabilities obtained to drive transformation change (e.g., digital, devOps, software delivery, modern applications)
 
 
 1. Which teams are typically involved?
+
 We start with application development team, quality engineering team, devops then application security.
 
 1. What's the best place to start?
+
 Pick the most business critical application or a representative application that has faster time to market requirement.
 
 1. That's a lot of time investment from our teams Or Our teams are busy with other projects
+
 It takes 1 or 1.5 hr per team to do focused discovery for VSA. We interviewed 4 different teams for our silicon valley customer in 4.5 hrs. We can start with the least busy team if you don't want it to be pursued in a group setting.
 
 1. Can you interview 1 team at a time?
+
 Yes. We would like to start with application development team if so. This helps us understand an overview of their idea-production process.
 
 
