@@ -228,8 +228,7 @@ In honor of our valued co-founder, [Dmitriy Zaporozhets “DZ”](https://gitlab
 
 The DZ award details:
 - The recipient of The DZ award will receive a one time cash bonus equivalent to $10,000 USD at using the local exchange rate. This is designed to honor DZ's 10 years of contributions to GitLab and the recipient's role in continuing DZ's legacy.
-- Company wall-hanging Plaque detailing the Award.
-- Specially designed Tanuki sticker & t-shirt for all finalists and the winner.
+- Special designed GitLab Award and Headphone Stand 
 
 #### Criteria for The DZ Award
 Potential nominees should be any team members who solved a challenging problem by creating and implementing a [boring solution](/handbook/values/#boring-solutions) that resulted in a positive and profound impact.
@@ -251,6 +250,7 @@ The Values Awards honor those who embody and employ the GitLab values which are 
 The Values Awards details:
 - There are six awards, one for: Collaboration, Results, Efficiency, Diversity, Inclusion and Belonging, Iteration and Transparency.
 - The recipient of each value award will receive a one time cash bonus equivalent to $5,000 USD at the exchange rate.
+- Special designed GitLab Awards medal. 
 
 #### Values Award Descriptions
 #### [Collaboration](/handbook/values/#collaboration) Award
