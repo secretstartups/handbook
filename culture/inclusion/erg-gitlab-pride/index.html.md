@@ -48,7 +48,7 @@ To ensure that GitLab is proactive in supporting, retaining, and recruiting from
 * [Coming Out Day Panel Discussion Recording](https://youtu.be/OUKWs6hkMQY)
 
 ## Additional GitLab Resources
-- [Gender and Sexual Orientation Identity Definitions and FAQ](https://about.gitlab.com/handbook/people-group/gender-pronouns/)
+- [Gender and Sexual Orientation Identity Definitions and FAQ](https://about.gitlab.com/handbook/people-group/orientation-identity/)
 
 ## Resources for Being an Ally with the Pride Community
 - Gladd.org: [10 Ways to Be an Ally & a Friend](https://www.glaad.org/resources/ally/2)

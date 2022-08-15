@@ -265,7 +265,7 @@ There are some essential skills that are required to be an ally, here are a numb
 Allies familiarize themselves with GitLab's general DIB content
 
 - [Diversity, Inclusion & Belonging page](/company/culture/inclusion/)
-- [Gender and Sexual Orientation Identity Definitions and FAQ](/handbook/people-group/gender-pronouns/)
+- [Gender and Sexual Orientation Identity Definitions and FAQ](/handbook/people-group/orientation-identity/)
 - [DIB training resources](https://about.gitlab.com/company/culture/inclusion/#diversity-inclusion--belonging-training-and-learning-opportunities)
 - [Unconscious bias](/handbook/communication/unconscious-bias/)
 
