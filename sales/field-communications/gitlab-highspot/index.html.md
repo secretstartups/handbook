@@ -411,6 +411,10 @@ See recordings for internal, GitLab-specific Highspot trainings below:
 
 [Watch this video](https://youtu.be/0q4jaPkYYKQ) for a ~5 minute demo on how to upload content into Highspot. See the guidance below for more detailed instructions and considerations.
 
+When uploading content to Highspot, it is best practice to fill in as many of the Properties as possible. Some Properties may be auto-populated, such as Title, Description, and Expiration Date. You can edit any of these fields. 
+
+Please note: Highspot Lists are not auto-populated. It is best practice to check the box for EVERY relevant List item, including Market Segment, Region, and Role, as well as Asset Type, Use Case, and more. This is an important step in the upload process because Highspot uses these Lists to filter content in the Browse menu, as well as within SmartPages that are organized based on these Properties. The more Lists you check, the more your content becomes discoverable.  
+
 #### Links from Google Drive
 Highspot offers the ability to link files directly from GitLab's Google Drive. **When adding a piece of content from Google Drive, you should *always* add the file directly from Drive versus add the link** – i.e. select the + button --> Add Files --> From Cloud Services (Google Drive) vs. + --> Add Link. This will allow Highspot to keep that piece of content up-to-date as changes are made to the Google Drive file. 
 
@@ -485,3 +489,10 @@ Some content might fit in more than one spot. When this happens, you should book
 It is likely that this scenario will happen most often with the Customer-Facing Content spot, as content that fits under Marketing could also fit under Customer-Facing Content. Always default to adding the content within the primary spot first and then bookmark into Customer-Facing Content. In this scenario, you'd add the link/file to `Marketing` and then bookmark to `Customer-Facing Content`.
 
 ![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_AddBookmark.png)
+
+#### Designing and Building SmartPages 
+SmartPages make it easier for Content Owners to design and build sales enablement content and guidance. Highspot offers a series of SmartPage templates to get you started, including what are called Homepages and Sales Plays. Homepages are designed to direct users to relevant content, and are generally used as Spot overviews and directories. 
+
+Plays are designed to track internal and external engagement, and come with an analytics feature called a Scorecard. When creating a SmartPage for a marketing campaign or sales initiative, you will generally want to use a Sales Play template.  
+
+Learn more about designing and building [SmartPages](https://help.highspot.com/hc/en-us/articles/360003228554-Build-a-SmartPage-in-the-Page-Designer) and [Sales Plays](https://help.highspot.com/hc/en-us/articles/360053638814-Create-a-Sales-Play) in the Highspot Help Center.
