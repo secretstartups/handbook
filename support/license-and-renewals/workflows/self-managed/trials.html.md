@@ -56,6 +56,5 @@ use the `Forward license email` tab after saving the new license.
 
 ### Emergency Weekend Licenses
 
-If you're on call and you need a license generated and you don't have access to the customers dot interface use the [emergency license generator](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/license_creation_emergency.html)
-The customer email is where the license will be sent and the User count is how many users the license will have. All of the licenses generated through this method will have 10 days.
+If you're on call and you need a license generated, but don't have access to the CustomersDot interface, follow the [Weekend Emergencies - License Request](/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies.html) workflow.
 
