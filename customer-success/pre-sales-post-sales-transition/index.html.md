@@ -82,6 +82,7 @@ In preparation for introducing the TAM, the SA should schedule a meeting with th
   - Pending items to resolve
   - Customer's required capabilities
   - Overall sentiment coming out of the POV
+- Open Support Tickets
 
 If the Solutions Architect has created a collaboration project, the [account team](/handbook/customer-success/account-team/) should review it together, and ensure that `readme.md` details and issues are up to date.
 
