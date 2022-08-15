@@ -31,18 +31,8 @@ Suggestions for improvements to these workflows are encouraged at any time, from
 
 - Follow the global [Assigning a ticket with a different preferred region](/handbook/support/workflows/working-on-tickets.html#assigning-a-ticket-with-a-different-preferred-region) workflow.
 - Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.
-- The following macro can be used for informing a customer that their ticket has been assigned to an engineer outside of their preferred region:
+- The `Unsorted::Clarify preferred region assignment` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+5602977263388) can be used to inform a customer that their ticket has been assigned to an engineer outside of their preferred region, and to gather confirmation from the customer on how they'd like to proceed in this regard.
 
-     <details>
-       <summary markdown="span">Notify Customer - Current assignee outside of preferred region</summary>
-
-       <p>Just a side note - Your ticket has come through with:</p>
-
-       <p>Preferred region for support: `<preferred_region>`</p>
-
-       <p>I'd originally grabbed this ticket to help move it forward prior to a team member in your preferred region taking assignment of it. I'm within the `<assignee_region>` operating inside the `<UTC +/- ??>` timezone, so it's likely that we'll have some time/availability differences with regards to when we both end up sending responses to each other. With this in mind, from here I can get a `<preferred_region>` based staff member to take assignment of this ticket so that work is performed primarily during a timezone for that region, or I can take full assignment of it and continue from here if you'd prefer. Please let me know how you'd like to proceed in this regard - I'll keep working on it in the meantime.</p>
-
-     </details>
 # How to handle HPAR tickets
 
 - Reply if you can or leave an internal comment, especially if the ticket is near breaching, and 
