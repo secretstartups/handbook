@@ -1,40 +1,37 @@
 ---
 layout: handbook-page-toc
-title: "Field Certification Program"
-description: "To support and scale GitLab’s continued growth and success, the Field Enablement Team has developed a role-based certification program that includes functional, soft skills, and technical training for field team members"
+title: "Field Accreditation Program"
+description: "To support and scale GitLab’s continued growth and success, the Field Enablement Team has developed a role-based accreditation program that includes functional, soft skills, and technical training for field team members"
 ---
 
-## Field Certification Program 
+## Field Accreditation Program 
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
 
-## Field Certification Program Overview 
+## Field Accreditation Program Overview 
 During [Sales Quick Start](/handbook/sales/onboarding/), every GitLab field team member is trained on [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) and GitLab’s value-based messaging framework (see the [Command of the Message](/handbook/sales/command-of-the-message/) page). Once new team members complete SQS, they will begin their role-based certifiction program. 
 
-To improve efficiency & predictability with a consistent and scalable customer engagement, the Field Enablement Team has developed a role based certification program that includes functional, soft skills, and [product training](/handbook/sales/training/product-certification/) for field team members.  
+To improve efficiency & predictability with a consistent and scalable customer engagement, the Field Enablement Team has developed a role based accreditation program that includes functional, soft skills, and [product training](/handbook/sales/training/product-certification/) for field team members.  
 
-The Certifications align to the customer's journey and the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, and tools to successfully execute customer engagements.
-
-
-Note: This certification program is different from resources like other GitLab certifications that focus on how to _use GitLab_ or tied to GitLab competencies (though we encourage field team members to take these as well)! 
-- [GitLab Certifications](/learn/certifications/public/)
-- [GitLab Technical Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
+The Accreditations align to the customer's journey and the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, and tools to successfully execute customer engagements.
 
 
+Note: This accreditation program is different from resources like other [GitLab Certifications](/learn/certifications/public/) that focus on how to _use GitLab_ or tied to GitLab competencies (though we encourage field team members to take these as well)! 
 
-### Purpose of the Field Certification Program
-These role-based certification programs allow us to validate GitLab skills and knowledge, recognize individual mastery, and motivate continuous learning and skills growth all aligned to expectation setting and performance discussions as part of the onboarding learner journey and beyond.
 
-The goal of the Field Certification Program is to validate that:
+### Purpose of the Field Accreditation Program
+These role-based accreditation programs allow us to validate GitLab skills and knowledge, recognize individual mastery, and motivate continuous learning and skills growth all aligned to expectation setting and performance discussions as part of the onboarding learner journey and beyond.
+
+The goal of the Field Accreditation Program is to validate that:
 * Knowledge has been transferred (Do you know it?)
 * The learner can apply that knowledge in simulated & live scenarios (Can you do it?)
 * The learner has taken ownership of effective skill execution and can demonstrate proficiency over time (Can you do it independently and continue to execute over time?)
 
 ### Audience 
-The Field Certification Program will include functional and soft skills training for:
+The Field Accreditation Program will include functional and soft skills training for:
 * [Strategic Account Leaders](/handbook/sales/training/field-certification/sal/)
 * [Account Executives](/handbook/sales/commercial/enablement/required7/)  
 * [Solution Architects](/handbook/sales/training/field-certification/sa/)  
@@ -56,15 +53,11 @@ _*Please note:* Processes continue to mature and evolve. To see that latest, ple
 ## Delivery 
 Course content will be a combination of handbook pages, YouTube videos, and interactive content delivered through the new Learning Experience Platform (LXP). This new system is not intended to replace the Handbook as the single source of truth, and instead will serve to curate content from a variety of sources and provide a guided tour of curated content for the learner. 
 
-### Certification Assessments
+### Accreditation Assessments
 To achieve GitLab “certified” status, candidates must complete both the online written exam (knowledge) and practical assessment (skill) with a passing score on each exam.
 * Anyone can sign up and take the written exam, but only learners who successfully pass the online written assessment will be granted access to the practical assessment
 * The practical assessment will require team members to demonstrate the ability to deliver customer engagements to GitLab’s standards 
-* Upon completion of all courses within each certification, learners will receive a badge
-
-![field-cert-badges](/handbook/sales/training/field-certification/field-cert-badges.png)
-
-
+* Upon completion of all courses within each accreditation, learners will receive a badge
 
 
 #### GitLab Use Cases Overview 
@@ -106,5 +99,5 @@ Currently available courses include the following:
 
 ## Feedback 
 
-To get involved or follow along with the development, check out the [Field Certification Issues Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426). We love feedback and questions, so check us out on Slack in #field-cert-program. 
+To get involved or follow along with the development, check out the [Field Accreditation Issues Board](https://gitlab.com/groups/gitlab-com/-/boards/2714682?label_name[]=Field%20Learning%20Programs). We love feedback and questions, so check us out on Slack in #field-enablement-team. 
 
