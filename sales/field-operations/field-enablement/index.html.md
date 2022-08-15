@@ -48,7 +48,7 @@ Design and deliver effective enablement solutions that grow field team members' 
         - [Sales Training Resources](/handbook/sales/training/)
         - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
 1. Partner Enablement
-     - [Channel Partner Training, Certifications and Enablement](/handbook/resellers/training/)
+     - [Channel Partner Training, Accreditations and Enablement](/handbook/resellers/training/)
 1. Field Onboarding & Ramp
     - [Sales & Customer Success Onboarding](/handbook/sales/onboarding/)
 1. [Revenue & Pipeline Acceleration Programs](/handbook/sales/revenue-programs/)
@@ -60,7 +60,7 @@ Design and deliver effective enablement solutions that grow field team members' 
 
 ## Additional Resources
 - [GitLab Learn: Field Enablement Channel](https://gitlab.edcast.com/channel/field-sales-team-content-channel)
-- [Field Certification Program](/handbook/sales/training/field-certification)
+- [Field Accreditation Program](/handbook/sales/training/field-certification)
 - Sales Events
      - [Sales Kickoff](/handbook/sales/training/SKO)
      - [Sales QBRs](/handbook/sales/sales-meetings)
@@ -82,7 +82,7 @@ Design and deliver effective enablement solutions that grow field team members' 
 
 You can find a read-out of Field Enablement team results by quarter – including overall team achievements, progress against OKRs and program-specific key accomplishments and results – in the Field Enablement Quarterly Readout decks below: 
 
-- [FY23-Q2 Field Enablement Results Readout](https://docs.google.com/presentation/d/1izOPf8zIAyxs6Urqf-uupNKp1_DD99sWRon2d9q8Gxc/edit?usp=sharing)
+- [FY23-Q2 Field Enablement Results Readout](https://docs.google.com/presentation/d/1izOPf8zIAyxs6Urqf-uupNKp1_DD99sWRon2d9q8Gxc/edit?usp=sharing) (GitLab internal only)
 - [FY23-Q1 Field Enablement Results Readout](https://docs.google.com/presentation/d/1pQFvcCjWXi7UVLV5fiJpuffvYB4GP6BhWYaj6SXGF54/edit?usp=sharing) (GitLab internal only)
 - [FY22-Q4 Field Enablement Results Readout](https://docs.google.com/presentation/d/1qwSx76vJzj5ETDclrIc7Asm4_zcp2tKTAO3jutf4IO0/edit?usp=sharing) (GitLab internal only)
 - [FY22-Q3 Field Enablement Results Readout](https://docs.google.com/presentation/d/1Cq2KcEsWehAGG_VaWCVyrXOliv0V8xf5pFWmcdjZ09k/edit?usp=sharing) (GitLab internal only)
@@ -228,7 +228,7 @@ If you have a Field Communications request (process change, announcement, etc.),
         - `FE:sales enablement` - label for Field Enablement issues related to enabling Sales roles
         - `FE:partner enablement` - label for Field Enablement issues related to enabling Partners
     - **Initiative labels**
-        - `field certification` - label for issues related to /handbook/sales/training/field-certification/
+        - `field accreditation` - label for issues related to /handbook/sales/training/field-certification/
         - `field communications` - label for items that include work by/with the Field Communications team within Field Enablement
         - `field events` - label for Field Enablement-supported events (e.g. QBRs, SKO, President's Club, etc.)
         - `force management` - label for issues related to Force Management engagement
