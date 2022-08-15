@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Support Learning & Training
-description: Support Engineers completing hybrid model path checkpoints
+title: Support Hybrid Learning Path Checkpoint
+description: "Checkpoints for new starters who are working through their support hybrid learning path. This is a guide only, progress is not linear."
 ---
 
 ## On this page
