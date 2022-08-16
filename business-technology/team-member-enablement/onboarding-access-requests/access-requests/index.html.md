@@ -11,7 +11,7 @@ title: "Access Requests (AR)"
 
 # Access Requests (ARs)
 
-Access Requests are owned by the IT team, while onboarding, offboarding and internal transition requests are owned by the People Experience Team.
+Access Requests are owned by the IT team, while onboarding, offboarding and internal transition requests are owned by the People Connect Team.
 
 If you have any access requests related questions, please reach out to #it_help or the tool provisioner in Slack.
 
