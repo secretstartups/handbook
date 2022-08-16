@@ -21,31 +21,50 @@ canonical_path: "/company/team/structure/working-groups/next-architecture-workfl
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1n1pslXw6yeoqRmsWGi4VYu9bPg8k46IIXqdUTJR8HSU/edit) (only accessible from within the company) |
 | Issue Board     | TBD             |
 
+### Problem Statements
+
+1. [Next Prioritization][next-prioritization] framework dictates that
+   [up to 30% time](https://docs.google.com/presentation/d/1TDswR4h-Zo-Fdq3yVtk-q-uJrKe_03iF9jB1XQWqQb4/edit#slide=id.g123c97638a5_0_203)
+   should be allocated towards maintenance activities. 
+   It is not prescriptive regarding how Engineering Managers might coordinate across
+   multiple teams to execute on large-scale cross-functional projects like
+   those defined by [architecture blueprints][blueprints].
+1. Despite its verbosity, the [Architecture Evolution Workflow][evolution-workflow] does not encapsulate
+   requisite downstream processes like production readiness and AppSec reviews.
+1. In its current form, the [Architecture Evolution Workflow][evolution-workflow] is not leveraged for
+   all initiatives within departments of Engineering. Without a unified roadmap of our own,
+   it is difficult to weigh priorities against Product’s own roadmap. In a future
+   idealized state we would encompass both Product and Engineering initiatives under a single roadmap.
+
 ### Exit Criteria
 
 The charter of this working group is to define and implement the next iteration of the
 [Architecture Evolution Workflow](/handbook/engineering/architecture/workflow/):
 
-1. Define a general purpose "enhancement proposal" process that is practical for all non-trivial changes
-1. Develop strategy for incorporating the process into Product planning and prioritization
-1. Lower the entry barriers for proposal creation via automation tooling and template guides
-1. Identify cross-functional touchpoints and consolidate upstream processes like
-[production readiness](/handbook/engineering/infrastructure/production/readiness/), 
-[AppSec reviews](/handbook/engineering/security/security-engineering-and-research/application-security/runbooks/review-process),
-and [creation of release posts](/handbook/marketing/blog/release-posts/)
+- Firm up defintion of "Architecture" in this context or abandon the term in favor of a more general one
+- Take inventory of current and historical [Engineering Allocation][engineering-allocations] initiatives
+  and evaluate the extent to which such initiatives could be defined as [blueprints][blueprints],
+  following the [Architecture Evolution Workflow][evolution-workflow]
+- Lower the entry barriers for proposal creation
+- Identify cross-functional touchpoints and consolidate upstream processes like
+  [production readiness](/handbook/engineering/infrastructure/production/readiness/), 
+  [AppSec reviews](/handbook/engineering/security/security-engineering-and-research/application-security/runbooks/review-process),
+  and [creation of release posts](/handbook/marketing/blog/release-posts/)
+- Develop strategy for incorporating this process and the Engineering roadmap into Product planning
+  and prioritization via the [Next Prioritization][next-prioritization] framework
 
 ### Context
 
-- The [Architecture Evolution Workflow](/handbook/engineering/architecture/workflow/) is complex,
+- The [Architecture Evolution Workflow][evolution-workflow] is complex,
   spans multiple tools and projects, and is not something external contributors can participate in
-- [Architecture Blueprints](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints)
+- [Architecture Blueprints][blueprints]
   provide great context and detail, but they are completely disconnected from Product prioritization and
   thus rarely picked up into the workstream
 - [Working Groups](/company/team/structure/working-groups/) involving technical initiatives have a low
   rate of success. Many _choose_ to produce blueprints as part of their exit criteria, but blueprints
   are not standard and do very little to ensure the work gets done
-- [Next Prioritization](/company/team/structure/working-groups/next-prioritization/) aims to replace
-  [Engineering Allocations](https://about.gitlab.com/handbook/engineering/#engineering-allocation)
+- [Next Prioritization][next-prioritization] aims to replace
+  [Engineering Allocations][engineering-allocations]
   but is not prescriptive regarding how efforts involving engineers across multiple Product stages
   will be coordinated
 
@@ -96,3 +115,10 @@ and improving the success rate of working groups in their current form first.
 | Member                   | Lucas Charles | Staff Backend Engineer, Sec::Static Analysis |
 | Member                   | João Pereira | Staff Backend Engineer, Package |
 | Member                   | Chad Woolley | Senior Engineer, Editor |
+| Member                   | Natalia Tepluhina | Staff Frontend Engineer, Plan |
+
+
+[next-prioritization]: /company/team/structure/working-groups/next-prioritization/
+[blueprints]: https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints
+[evolution-workflow]: /handbook/engineering/architecture/workflow/
+[engineering-allocations]: /handbook/engineering/#engineering-allocation
