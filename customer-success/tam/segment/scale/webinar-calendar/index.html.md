@@ -22,20 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### August 2022
 
-### DevSecOps Compliance
-#### August 16th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_vv7h3cDETiiI0KyVSC-3Mw)
-
-### Introducción a GitLab
-#### August 16th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
-
-¿Estas comenzando con GitLab? Te invitamos a este webinar, donde revisaremos qué es GitLab, cómo lo beneficia y el flujo de trabajo recomendado para permitirle aprovechar al máximo la plataforma.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Iridph1LSECl2YdUeXWMFg)
-
 ### Introducción a CI/CD con GitLab
 #### August 18th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
 
