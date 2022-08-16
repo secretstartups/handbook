@@ -281,11 +281,52 @@ When self-identifying as a domain expert, it is recommended to assign the MR to 
 
 The expertise of a team member can be seen on the [Engineering Projects](/handbook/engineering/projects/) page.
 
-## First-response SLO
+## Review turnaround time
 
-To ensure swift feedback to ready-to-review code, we maintain a `first-response` Service-level Objective (SLO). The SLO is defined as:
+Because [unblocking others is always a top priority](/handbook/values/#global-optimization),
+reviewers are expected to review merge requests in a timely manner,
+even when this may negatively impact their other tasks and priorities.
 
-> - first-response SLO = (time when first response is provided) - (time MR is submitted and no longer marked WIP) < 2 business days
+Doing so allows everyone involved in the merge request to iterate faster as the
+context is fresh in memory, and improves contributors' experience significantly.
+
+### Review-response SLO
+
+To ensure swift feedback to ready-to-review code, we maintain a
+`Review-response` Service-level Objective (SLO).
+This SLO does not apply to merge requests from
+[wider community](/handbook/communication/#writing-style-guidelines) authors. 
+
+To ensure swift feedback to ready-to-review code, we maintain a `Review-response` Service-level Objective (SLO).
+
+The SLO is defined as:
+
+> Review-response SLO = (time when review is provided) - (time MR is assigned to reviewer)
+
+The SLO value depends on the author of the merge request:
+
+- From GitLab team members: `Review-response` SLO < 2 business days
+
+If you don't think you can review a merge request in the `Review-response` SLO
+time frame, let the author know as soon as possible in the comments
+(no later than 36 hours after first receiving the review request)
+and try to help them find another reviewer or maintainer who is able to, so that they can be unblocked
+and get on with their work quickly. Remove yourself as a reviewer.
+
+If you are at capacity and are unable to accept any more reviews until
+some have been completed, communicate this through your GitLab status by setting
+the 🔴 `:red_circle:` emoji and mentioning that you are at capacity in the status
+text. This guides contributors to pick a different reviewer, helping us to
+meet the SLO.
+
+Of course, if you are out of office and have
+[communicated](https://about.gitlab.com/handbook/paid-time-off/#communicating-your-time-off)
+this through your GitLab.com Status, authors are expected to realize this and
+find a different reviewer themselves.
+
+When a merge request author has been blocked for longer than
+the `Review-response` SLO, they are free to remind the reviewer through Slack or add
+another reviewer.
 
 ### Managing expectation
 
