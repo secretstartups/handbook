@@ -37,8 +37,8 @@ Enablement focuses on improving our capabilities and metrics in the following ar
 <%
   departments = [
     { name: 'Database', manager: 'alexives' },
-    { name: 'Distribution:Build', manager: 'david-mountney' },
-    { name: 'Distribution:Deploy', manager: 'eng-manager-distribution' },
+    { name: 'Distribution:Build', manager: 'david-mountney', regexp: /Build/  },
+    { name: 'Distribution:Deploy', manager: 'david-mountney', regexp: /Deploy/ },
     { name: 'Geo', manager: 'juan-silva' },
     { name: 'Gitaly', manager: 'andrashorvath' },
     { name: 'Global Search', manager: 'cliu', regexp: /Global Search/ },
@@ -68,8 +68,7 @@ The following table shows who will provide cover if one or more of the Enablemen
 | Nick Nguyen     | Kamil Trzcinski (Pods/Decomposition) | Changzheng Liu, Alex Ives        | Chun Du      |
 | Changzheng Liu  | Dmitry Gruzd (Global Search), Matthias Käppler (Memory)             | Nick Nguyen           | Chun Du      |
 | Alex Ives       | Andreas Brandl           | Nick Nguyen           | Chun Du      |
-| Steven Wilson   | Jason Plum               | DJ Mountney           | Chun Du      |
-| DJ Mountney     | Steven Wilson            | Steven Wilson         | Chun Du      |
+| DJ Mountney     | Jason Plum            | Chun Du        | Chun Du      |
 | Andras Horvath  | Patrick Steinhardt       | Chun Du    | Chun Du      |
 | Barry Firman    | Thong Kuah               | Nick Nguyen           | Chun Du      |
 
