@@ -46,7 +46,7 @@ Before we add a subscription management contact, we need **one** of the followin
    - Customer can quickly and easily [retrieve the license text data](https://docs.gitlab.com/ee/subscriptions/self_managed/index.html#export-your-license-usage) from `/admin/subscription` -> `Export license usage file` button on the right-hand side (or directly from `/admin/license/usage_export.csv`).
    - License file can be decoded in customersDot from `Licenses` -> `Validate License` (`/admin/license/validate_license`)
 
-**NOTE:** We do not accept vouches from Account Owners as proof of a customer's association to a subscription.
+**NOTE:** We do not accept vouches from GitLab Team Members (including Account Owners listed in SFDC) as proof of a customer's association to a subscription.
 
 Please consider using the [Change Customers Portal Contact](https://gitlab.zendesk.com/agent/admin/macros/360028045239) macro to ask for this information. Be sure to copy the existing CustomersDot contact on the reply.
 
