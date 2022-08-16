@@ -167,6 +167,13 @@ graph TD;
 1. Email that sentence to the managers of the individuals, suggesting a Working Group Bonus, and set-up a 15 minute Zoom meeting with all the managers to discuss your proposal. _Note: The alignment with managers can also be done asynchronously in a private Slack channel._
 1. Remember that the manager(s) may or may not agree and they have full discretion (with approval of their manager) on whether their reports get a bonus.  Don't forget that you can also use the #thanks channel to recognize people, as well.
 
+**Sales Development Focus Bonus (Sales Development specific working bonus)**
+
+1. Sometimes a working group strongly displays GitLab Values over a period, project or situation. For this case, we have a  Working Group Bonus. The requirements for the sales development teams can vary from month to month and therefore may require a special focus from one or a group of individuals to complete  specific tasks.  Examples include: Adoption of a new process, driving new behaviors or special focus on a specific prospecting task from the sales team. This bonus is not an  income supplement or an incentive for the team to do their current job, but to reward extra effort.
+
+1. The Focus Working Group Bonus can only be recommended by Sales Development Managers for individuals or a group of individuals within their teams. The budget for the focus bonus cannot exceed $500 monthly for any Sales Dev Team and will typically be divided amongst team members. 
+
+
 **Manager Process**
 
 1. Please submit as a [One Time Payment](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit) in Workday
