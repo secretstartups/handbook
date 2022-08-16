@@ -485,7 +485,7 @@ Develop a working group and figure out how you want to do this. Ideas could incl
 
 1. Contact your DIB Partner with the idea and formulate with them on the format that you would like it to take.
 1. Source and confirm speakers whether internally or externally, set the date & time, taking into account budget considerations, regions etc.
-1. DIB Partner and TMRG Lead will work with the People Experience team in the #people-connect Slack channel to schedule the event on the Team Meetings calendars.
+1. DIB Partner and TMRG Lead will work with the People Connect Team in the #people-connect Slack channel to schedule the event on the Team Meetings calendars.
 1. Post the event to the appropriate Slack Channels.
 
 ### Execute strategy
