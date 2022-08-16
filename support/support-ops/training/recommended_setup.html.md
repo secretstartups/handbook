@@ -65,8 +65,11 @@ the more common ruby versions we use:
 * `rbenv install 2.6.3`
 * `rbenv install 2.6.7`
 * `rbenv install 2.6.8`
+* `rbenv install 2.6.10`
 * `rbenv install 2.7.2`
+* `rbenv install 2.7.5`
 * `rbenv install 3.0.0`
+* `rbenv install 3.0.4`
 
 ### macOS setup for rbenv
 
@@ -181,6 +184,8 @@ the more common node versions we use:
 * `nodenv install 12.18.4`
 * `nodenv install 12.22.1`
 * `nodenv install 14.15.4`
+* `nodenv install 14.20.0`
+* `nodenv install 16.15.0`
 
 ### macOS setup for nodenv
 
