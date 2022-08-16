@@ -195,7 +195,8 @@ Hypertext Transfer Protocol Secure (HTTPS) encryption measures for all data exch
 If you are experiencing a crisis (e.g., thoughts about suicide, thoughts about harming yourself or others, medical crisis, or in a dangerous situation) please call:
 
 * emergency responders (911 or the [appropriate local emergency number for your area](https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers))
-* in the US/Canada, https://suicidepreventionlifeline.org/ or 1-800-273-8255) or [a crisis line in your area](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
+* in the US (988 or https://988lifeline.org/)
+* in the US/Canada, (https://suicidepreventionlifeline.org/ or 1-800-273-8255) or [a crisis line in your area](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
 * head to the nearest emergency room.
 
 ### Modern Health Weekly Reporting
