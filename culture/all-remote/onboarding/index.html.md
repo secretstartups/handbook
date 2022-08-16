@@ -197,7 +197,7 @@ and together they spell the **CREDIT** we give each other by assuming good inten
 Feel free to adopt or remix our values for your remote-first team.
 
 ## How to evaluate your existing onboarding process
-In the spirit of [transparency](/handbook/values/#transparency), GitLab's People Experience team will evaluate the onboarding process by having new employees fill out an [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit).
+In the spirit of [transparency](/handbook/values/#transparency), GitLab's People Connect Team will evaluate the onboarding process by having new employees fill out an [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit).
 
 
 ## High-touch and low-touch flexibility
