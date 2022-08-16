@@ -32,7 +32,7 @@ Note:  Sometimes you can also see Partners section in the end-user's SFDC accoun
 If a reseller partner needs to have the end-user contact details updated (who should receive the license), you have the following options:
 
 - Have the current Sold-To contact file a support ticket with us, following the workflow [Add subscription management contact workflow](../customersdot/associating_purchases.html#add-subscription-management-contact-workflow)
-- The reseller partner may attach a copy of the invoice in order to request the contact change on the end-user's behalf
+- The reseller partner **must** attach a copy of the subscription invoice to verify any contact change requested on an end-user's behalf
 
 
 ### Handling reseller customers' requests for direct renewal
