@@ -139,14 +139,14 @@ To change a start date after a **GitLab entity** contract has been signed and th
    - In the "Make a Note" section in Greenhouse state the old start date and the new state date, and tag the person on FP&A (typically the second approver) who approved the offer.
    - Save
 1. Update Entity Payroll Provider (Netherlands) of any changes to the start date via the email templates in Greenhouse.
-1. Update the People Experience Team in Slack Workflow.
+1. Update the People Connect Team in Slack Workflow.
     - Open private Slack channel `#peopleops-alerts-private`
     - Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
     - Click "New Start Date        Workflow"
     - Fill in Team Member Name with the New Hire Name
     - Fill in Original Start Date (YYYY-MM-DD)
     - Fill in New Start Date (YYYY-MM-DD)
-    - Fill in Reason For Change. This is to inform the People Experience team of the reason for the new date (i.e. Public Holiday, New Hire request, Hiring Manager request, etc.).
+    - Fill in Reason For Change. This is to inform the People Connect Team of the reason for the new date (i.e. Public Holiday, New Hire request, Hiring Manager request, etc.).
     - Optional: Fill in Any other changes.
     - Click Submit
 1. Upload start date change comms into Workday.
@@ -174,14 +174,14 @@ To change a start date after a **PEO** contract has been signed and the new team
    - Save
    - In the "Make a Note" section in Greenhouse state the old start date and the new state date
    - Save
-1. Update the People Experience Team in Slack Workflow.
+1. Update the People Connect Team in Slack Workflow.
     - Open private Slack channel `#peopleops-alerts-private`
     - Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
     - Click "New Start Date        Workflow"
     - Fill in Team Member Name with the New Hire Name
     - Fill in Original Start Date (YYYY-MM-DD)
     - Fill in New Start Date (YYYY-MM-DD)
-    - Fill in Reason For Change. This is to inform the People Experience team of the reason for the new date (i.e. Public Holiday, New Hire request, Hiring Manager request, etc.).
+    - Fill in Reason For Change. This is to inform the People Connect Team of the reason for the new date (i.e. Public Holiday, New Hire request, Hiring Manager request, etc.).
 1. Upload start date change comms into Workday.
    - Sign into Workday
    - Search the new team member's name
@@ -207,10 +207,9 @@ There are certain times when a contract needs to get resent to the candidate aft
 1. If the req is already closed, tag the Enablement team in the greenhouse profile explaining the situation and that the req needs to be reopened to resend a contract.
 1. Unhire the candidate in Greenhouse. (If the position is Closed, Enablement will need to assist with this step).
 1. Resend the correct contract and follow standard steps for doing this.
-1. Once you receive the contract back, **before** marking the candidate as hired in Greenhouse. You will need to ping the Sr. People Operations Director in the `#people-group-confidential` asking for the BambooHR profile be deleted due to having to resend a contract and not wanting a duplicate profile. Provide the BambooHR link in the message. If the employee already works here, we cannot do this step. Please discuss an alerternative with the People Experience team.
-1. Once they confirms the profile is deleted, proceed with marking the candidate as hired in Greenhouse and closing out the req again.
-1. If a new profile was not created, upload the new contract to their BambooHR profile.
-1. Ping the People Experience team and let them know the contract has been updated and the new BambooHR profile has been created. 
+1. Once you receive the contract back, **before** marking the candidate as hired in Greenhouse - ping the People Connect team in the `#peopleop-alerts-private` slack channel and explain exactly what the change was. The updated details will not update Workday (or BambooHR, if applicable) and will need to be manually corrected by the People Connect Team.
+1. Upload the new contract to their Workday profile.
+1. Ping the People Connect Team and let them know the contract has been updated and the details in Workday can be corrected.
 
 For Talent Acquisition Enablement:
 1. Once notified by the CES team, copy the Job Approval Chain and add it to the Approval Details Notes section. Include the names of the approvers, the dates approved, and the reason as to why the requisition is being re-opened. Tag the Finance Business Partner, CES, and Recruiter in this note.
@@ -307,7 +306,7 @@ Please note that LOAs cannot be used if a team member is moving from the Federal
 
 The Candidate Experience Specialist needs to merge any additional candidate profiles before marking as hired. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to BambooHR. The signed letter is uploaded into BambooHR under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst. The Total Rewards team ensures the information in HRIS and Payroll systems is updated.
 
-When an internal transition is taking place and the start date for that LOA is amended, please ensure to update the People Experience team via Slack in the `#people-exp_ces` channel of the new start date.
+When an internal transition is taking place and the start date for that LOA is amended, please ensure to update the People Connect team via Slack in the `#people-exp_ces` channel of the new start date.
 
 If a team member goes through a promotion through BambooHR versus Greenhouse, a [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) is prepared by the Total Rewards team as listed on their handbook page.
 
@@ -333,7 +332,7 @@ CES: Follow the instructions below on how to create and send a letter of adjustm
 
 ## Rehires
 
-In the event that a former team member is rehired with the company, they will still go through the normal interviewing process. Once the contract is signed, the CES needs to notify the People Experience team and the Total Rewards team as soon as possible that a former team member has been rehired in the private people-exp_ces Slack channel.
+In the event that a former team member is rehired with the company, they will still go through the normal interviewing process. Once the contract is signed, the CES needs to notify the People Connect team and the Total Rewards team as soon as possible that a former team member has been rehired in the private people-exp_ces Slack channel.
 
 ## Process for GitLab team-members in the Netherlands
 In this location, a temporary contract (tijdelijk contract) is for 12 months, with a pre-determined end date. A dismissal procedure is not required to terminate a temporary contract at the end of its duration. However communication about the extension of the contract must happen at the latest 1 month before the actual contract end date (aanzegtermijn).
