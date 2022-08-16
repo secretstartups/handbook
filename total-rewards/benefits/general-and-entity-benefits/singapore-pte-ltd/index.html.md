@@ -23,22 +23,22 @@ The Medical Plan Coverage includes
 * Dental 
    * **Please note that Dental benefits for this plan are cashless at panel Dental Clinics only. Team Members should show their eCard at the dental clinic to utlize the plan.**
 
-For a summary of the Medical plan details please refer to slides 8 - 26 of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing)
+For a summary of the Medical plan details please refer to slides 8 - 26 of the [Singapore Benefits Deck.](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing)
+
+Please also view the [Singapore Benefits Aug 2022 Webinar](https://drive.google.com/file/d/1YPBgHMjZxjq82mYdMfsHYRmIvwcnZPU7/view?usp=sharing) for addtional information 
+
+### SingLife Claims Connect App
 
 Team Members can submit claims through the SingLife ClaimsConnect app. [See instructions](https://drive.google.com/file/d/1hMnxb1yurTpP9dNbpXvC2tyvfEnFny6F/view?usp=sharing) on how to use the app and submit claims. For more details, please refer to slides 34-37 of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing)
 
-Additonal Policy Documents:
-1. [MyBenefits Plus Group Basic Medical + Major Medical](https://drive.google.com/file/d/19zTv4QLOMN-eZnKw266IkCo76pEzGMHv/view?usp=sharing)
-2. [MyBenefits Plus Group Outpatient (GP + SP)](https://drive.google.com/file/d/1F5DNdKShKGsd4TwAEgqIpyvcXULpWL3J/view?usp=sharing)
-3. [MyBenefits Plus Group Denticare](https://drive.google.com/file/d/18B1IYPSV6_id821swmUyqA9RhoPV8qMF/view?usp=sharing)
 
-
-AvivaOnline IT Helpdesk Contact Information:
+For assistance with the ClaimsConnect App, AvivaOnline IT Helpdesk Contact Information:
 - Hotline: `1800 827 9955  or 6827 9955`
 - Fax: `(65) 6827 7700`
 - Email: `avivaonline_ithelpdesk@aviva-asia.com`
 - Address: `Aviva Asia Pte Ltd, 4 Shenton Way #01-01 SGX Centre 2, Singapore 068807`
 
+For Claims assistance, please contact [Willis Tower Watson](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/singapore-pte-ltd/#willis-tower-watson-claims-assistance)
 
 ### Letter of Guarantee (LOG)
 
@@ -53,15 +53,16 @@ For pre-scheduled admission/surgery, please do request for LOG at least 3-5 days
 
 [Willis Tower Watson](https://www.wtwco.com/en-SG/Solutions/health-and-benefits) (WTW) is the broker for GitLab's group benefit plans and can assist members with any benefit questions or claims issues. 
 
-For any claims issues or benefits queries, please reach out to the WTW team at claims.sg@willistowerswatson.com . 
+For any claims issues or benefits queries, please reach out to the WTW team at `claims.sg@willistowerswatson.com` . 
 
-For escalations, please reach out to our dedicated account manager,  Melissa Choo  melissa.choo@wtwco.com
+For escalations, please reach out to our dedicated account manager,  Melissa Choo  `melissa.choo@wtwco.com`
 
 
 ### Enrollment 
 
 New Team Members will be prompted to fill out a Singapore Benefits Onboarding Form during onboarding. 
 Once completed, the Total Rewards team will receive the form and will work with our broker,  Willis Tower Watson, to enroll team members into the group plans.  
+Team Members will receive underwriting forms from Aviva within the first month from their hire date. 
 
 Team Members who experience a qualified status change can update their information by sending an email to the Total Rewards Team at total-rewards@gitlab.com 
 
@@ -78,15 +79,21 @@ GitLab does not plan to offer a supplementary private pension benefit at this ti
 
 ## Life Insurance 
 
-GitLab offers company paid [Group Term Life](https://drive.google.com/file/d/1yffWuxwXD_GGzs2MCbA9xgAbgAb4JC3S/view?usp=sharing) through SingLife with AVIVA. Coverage is sum insured $500,000 SGD per member.  
+GitLab offers company paid Group Term Life through SingLife with AVIVA. Coverage is sum insured $500,000 SGD per member.  
 
-For more information on the Life Insurance plan, please refer to slides 27-29 of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing)
+**Underwriting**:  Members are automatically coverd up to the Free Cover Limit of $150,000 SGD. In order to recieve the full coverage of $500,000 SGD, team members must complete medical underwriting requirements. Underwriting forms will be sent directly to the team member from Aviva during enrollment. 
+
+For more details on the coverage of the Life Insurance plan, please refer to slides 27-29 of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing)
+Please also view the [Singapore Benefits Aug 2022 Webinar](https://drive.google.com/file/d/1YPBgHMjZxjq82mYdMfsHYRmIvwcnZPU7/view?usp=sharing) for addtional information 
+
 
 ## Group Personal Accident Insurance
 
 As of 1 Aug 2022, the Group Personal Accident plans will be covered by [Zurich](https://www.zurich.com/). Coverage is sum insured $500,000 SGD per member. Under the Zurich Personal Accident coverage, team members will also recieve extended benefits including ambulance cost coverage, emergency travel expenses, trauma counseling, and more. 
 
 For more information on the Group Personal Accident insurance plan, please refer to slides 30-33, of the [Singapore Benefits Deck](https://drive.google.com/file/d/1GxTHZ4jXcUSzkk76UqsT5hZqlJPO3cMJ/view?usp=sharing)
+Please also view the [Singapore Benefits Aug 2022 Webinar](https://drive.google.com/file/d/1YPBgHMjZxjq82mYdMfsHYRmIvwcnZPU7/view?usp=sharing) for addtional information 
+
 
 
 ## GitLab Singapore Pte Ltd Parental Leave
