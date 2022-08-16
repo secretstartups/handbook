@@ -606,7 +606,7 @@ All social calls are in the Team Meetings Calendar - the sessions are titled Tal
 
 Being mindful of those who will be taking part, team members are asked to join on time and mute their microphones when they are not speaking. Social calls are not moderated and with this in mind all those who take part play this role and should feel free to chime in if and when necessary.
 
-If you have any questions around the Social Call schedule please be sure to engage with the People Experience Team via the #people-connect channel. Feedback and suggestions are welcome and can be documented in the comments section of [this issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/969).
+If you have any questions around the Social Call schedule please be sure to engage with the People Connect Team via the #people-connect channel. Feedback and suggestions are welcome and can be documented in the comments section of [this issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/969).
 
 _Using call attendance data along with feedback and suggestions provided by team members call topics will be reviewed and if necessary adjusted on a quarterly basis._
 
