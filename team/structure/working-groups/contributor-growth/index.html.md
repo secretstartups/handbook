@@ -15,9 +15,9 @@ canonical_path: "/company/team/structure/working-groups/contributor-growth/"
 
 | Property        | Value           |
 |-----------------|-----------------|
-| Date Created    | October 28rd, 2021 |
-| Target End Date | October 28rd, 2022 |
-| Slack           | [#wg_contributor-growth](https://gitlab.slack.com/archives/C0223D98HHC) (only accessible from within the company) |
+| Date Created    | October 28, 2021|
+| End Date        | August 12, 2022 |
+| Slack           | [#i_user_engagement_contributor_growth](https://gitlab.slack.com/archives/C0223D98HHC) (only accessible from within the company) - formerly #wg_contributor-growth |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1AOgqaslnq-WI1ICSZ1NzSnALf1Va4D5qAD191icAoSI/edit#) (only accessible from within the company) |
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/3014703?label_name%5B%5D=Contribution%20Efficiency) (items above the cut-line) |
 
@@ -25,19 +25,23 @@ canonical_path: "/company/team/structure/working-groups/contributor-growth/"
 
 Implement key business iterations that results in substantial and sustained increases to community contributors & contributions
 
-### Exit Criteria (30% completed)
+### Exit Criteria (70% completed)
 
 1. Implement 3 experiments aimed at increasing community contributors
    1. Decreasing community MR Review time => Reduced Open Community MR age and review time in FY23Q1 
    1. Create additional retention recognition => Experimented with rewarding 
    1. Addition Outreach effort => Experimented with frontend themed months
-1. Delivery key joint strategy of increasing community contributors => Strategy is complete
+1. Delivery key joint strategy of increasing community contributors
+   1. We delivered an [open source growth strategy](/handbook/engineering/open-source/growth-strategy.html)
+   2. We further iterated towards the concepts of [Resident Contributors](https://docs.google.com/document/d/1ctO5ZLRnGb22tJwo4vb2ca5t-EwIpaVIFB6-IwdtCPg/edit) (only accessible from within the company)
 1. Setup first iteration of community cohort team 
-1. Deliver 3 key iterations to our contribution guidelines 
+1. Define follow up working process between Community Relations and Contributor Success teams
+   1. We are continuing our efforts with a weekly stand-up as part of the User Engagement initiative that is one of the [top 12 cross functional initiatives](/company/team/structure/working-groups/#12-cross-functional-initiatives)
+
+Following exit criteria will be owned by the [Contributor Success team](handbook/engineering/quality/contributor-success/) as it is being built out
+1. Deliver 3 key iterations to our contribution guidelines
 1. Fully implement MR Coach specialties (Development, Test, Docs & etc)
 1. Experiment with defining contributor specialties based on MR coaches 
-1. Define follow up working process between Community Relations and Contributor Success teams
-
 
 ### Roles and Responsibilities
 
