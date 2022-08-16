@@ -79,3 +79,20 @@ We endevour to keep issues and epics up to date with the latest status of our wo
 ### OKR
  
 OKRs (or other items outside of projects) that require status tracking should be updated each Wednesday. When updating the progress percentage of any given KR, it is not necessary to provide extensive notes. One sentence with a link to a larger update is sufficient in most cases. It is also acceptable to do a check-in without providing a note, but be advised that several updates in a row with no percentage change, and no additional details will need to be discussed with your manager.
+
+## Platforms Learning Path
+
+All team members are encouraged to schedule time for personal development. The following links may help you get started with Platforms-relevant learning. Please add your own contributions to this list to help others with their personal development. 
+
+### Learn about Platforms, and the Platforms Groups
+
+1. [SaaS Platforms - product direction](https://about.gitlab.com/direction/saas-platforms/)
+1. [Delivery Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery) - [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#mission), [Strategy](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#strategy), [Team history](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#history)
+2. [Scalability Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/) - [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#mission), [Strategy](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#strategy), [Team history](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#history)
+3. [Dedicated Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) - [Mission](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#mission),[Vision](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#vision) 
+
+### Learn about tools and technologies used within Platforms
+
+1. [Jsonnet tutorial](https://jsonnet.org/learning/tutorial.html)
+2. [GitLab.com running on the Kubernetes platform](https://about.gitlab.com/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/)
+
