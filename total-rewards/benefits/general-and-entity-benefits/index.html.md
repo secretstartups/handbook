@@ -123,11 +123,11 @@ on that page._
 
 ### Part-time contracts
 
-As part of our Diversity, Inclusion & Belonging  value, we support [Family and friends first](/handbook/values/#family-and-friends-first-work-second) approach. This is one of the many reasons we offer part-time contracts in some teams.
+As part of our Diversity, Inclusion & Belonging  value, we support [Family and friends first](/handbook/values/#family-and-friends-first-work-second) approach. This is one of the many reasons we offer part-contracts in some teams.
 
 We are growing fast and unfortunately, not all teams are able to hire part-time team members yet. There are certain positions where we can only hire full-time team members.
 
-Candidates can ask for part-time contract during the interview process. Even when a team they are interviewing for can't accept part-time team members, there might be other teams looking for the same expertise that might do so. If you are a current team member and would like to switch to a part-time contract, talk to your manager first.
+Candidates can ask for part-time contract during the interview process. Even when a team they are interviewing for can't accept part-time team members, there might be other teams looking for the same expertise that might do so. If you are a current team member and would like to switch to a  part-time contract, talk to your manager first.
 
 ## Meal Train
 
