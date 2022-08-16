@@ -161,8 +161,8 @@ As a subject matter expert (SME) reviewer, you’ll be asked to review content f
 
 ### The review process
 
-1. A draft version of the Google Doc will be provided to you.
-1. You’ll have two weeks to review the document and add comments to it with any suggestions, corrections, or additions. _If, for any reason, you can’t complete the review, please comment in the issue_.
+1. A draft version of a Google Doc may be provided to you, or you may be asked to review an MR for the content.
+1. You’ll have a set amount of time to review the document and add comments to it with any suggestions, corrections, or additions. _If, for any reason, you can’t complete the review, please comment in the issue_.
 1. When your review is complete, comment in the issue.
 1. The content requester and technical writer will complete a final review after all other reviews are complete.
 
