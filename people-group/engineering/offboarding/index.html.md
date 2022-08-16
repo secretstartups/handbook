@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Offboarding Automation Flow
-description: "Information on the automations we have in place to support the People Operations and People Experience team with offboarding related tasks."
+description: "Information on the automations we have in place to support the People Connect Team with offboarding related tasks."
 ---
 
 ## On this page
@@ -41,13 +41,13 @@ The pipeline is scheduled to run every hour and scan the offboarding spreadsheet
 
 ### Scheduled offboarding issue creation
 
-Every 15 minutes, a pipeline scans the offboarding spreadsheet for rows where the `Garden Leave (Non-US) Start Date`/`Last Working Day (US only) Start Date` occurred within the past 15 minutes. If neither are specified, `Termination Effective Date` is used as a fallback. For each row matching this criterion, it will perform the same actions as if a People Experience Associate ran manually initiated the offboarding. (see [Manually initiated offboarding issue creation](#manually-initiated-offboarding-issue-creation) and [Offboarding merge request](#offboarding-merge-request) sections).
+Every 15 minutes, a pipeline scans the offboarding spreadsheet for rows where the `Garden Leave (Non-US) Start Date`/`Last Working Day (US only) Start Date` occurred within the past 15 minutes. If neither are specified, `Termination Effective Date` is used as a fallback. For each row matching this criterion, it will perform the same actions as if a People Connect Team member ran manually initiated the offboarding. (see [Manually initiated offboarding issue creation](#manually-initiated-offboarding-issue-creation) and [Offboarding merge request](#offboarding-merge-request) sections).
 
 The manual process is kept as a backup process should the automation fail or for exceptional cases where a team member offboarding cannot be added to the offboarding spreadsheet.
 
 ### Manually initiated offboarding issue creation
 
-After a People Experience Associate runs the Slack command to open the issue, this will be automatically assigned to the People Experience Associate
+After a People Connect Team member runs the Slack command to open the issue, this will be automatically assigned to the People Connect Team member
 who ran the command and the outgoing team member's Manager.
 
 The job then grabs various details of the outgoing team member, like country of residence, entity through which they are hired, division, department, job title etc. For each of these details, it checks for the existence of a task file in the [`offboarding_tasks` folder](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/.gitlab%2Fissue_templates%2Foffboarding_tasks) of the `employment` project. These tasks files are of the format `country_<country name>.md`, `entity_<entity name>.md`, `division_<division name>.md`, `department_<department name>.md`, etc. If such a file is found, it includes contents of those files also in the offboarding issue.
@@ -64,7 +64,7 @@ includes:
 - Removing the pet picture in case the team member had any
 - Update the CODEOWNERS file: change to the manager or remove if the manager is already a codeowner for that file
 
-In the event that the merge request has become out of date and the `/rebase` quick action isn't working a People Experience Associate can follow these steps to regenerate the MR:
+In the event that the merge request has become out of date and the `/rebase` quick action isn't working a People Connect Team member can follow these steps to regenerate the MR:
 
 1. Close the MR that is out of date, and ensure to delete the branch that this was created on.
 1. Run the offboarding team page Slack command to re-trigger the automation.
@@ -81,7 +81,7 @@ You can read more about how team members are added to Guardian [here](/handbook/
 When a team member is offboarded, there's a redirect rule that is setup on Google Workspace for
 the outgoing team member. After 5 days this redirect rule needs to be removed.
 To make sure this isn't forgotten, a scheduled pipeline is set up for the bot to leave a
-GitLab issue comment reminding the People Experience Associates to removes the rule.
+GitLab issue comment reminding the People Connect Team member to remove the rule.
 
 Currently, the pipeline is scheduled to run everyday at 04:00 AM UTC. It will comment on
 all the offboarding issues created 5 days before the current date.

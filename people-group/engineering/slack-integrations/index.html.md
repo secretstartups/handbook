@@ -74,7 +74,7 @@ personal information in the message.
 
 Whenever a team member fills in on of the following surveys, the form entrance
 is put into a slack message to the private Slack channel `employment-survey`. This way the
-People Experience team can discuss and take action.
+People Connect team can discuss and take action.
 
 - Onboarding Survey
 - Values Check-In
@@ -86,17 +86,6 @@ Whenever a new team member is added to a team we currently send a couple of noti
 
 - `DM` - will attempt to send a survey DM to the new team members hiring manager.
 - `Alert` - will send this survey as a link to the `#peopleops-alerts` channel if the DM could not be sent.
-
-### Referral bonus reminders
-
-A scheduled pipeline is configured to automatically send a message
-in the [`#peopleops-alerts`](https://gitlab.slack.com/archives/CLTBQ9XC7) Slack channel listing all team members who reached
-their 3 month work anniversary that week. For each anniversary, the team member's
-Workday and Greenhouse profiles are linked so that the people experience team
-can check if the listed team members were referred. For those that were referred, the 
-people experience team will then assign bonuses to the referrers.
-
-The pipeline is scheduled to be run at 10:00 AM UTC every Friday.
 
 ### Template Paths
 

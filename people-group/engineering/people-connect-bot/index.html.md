@@ -13,7 +13,7 @@ description: Information on Slack People Connect bot created by the People Engin
 # People Connect Bot
 
 We're using a custom Slack app, the [People Connect Bot](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-connect-bot/)
-to setup the connection between Slack and GitLab Service Desk for the People Experience team.
+to setup the connection between Slack and GitLab Service Desk for the People Connect team.
 
 Although the bot can technically be added to any channel, code-wise the bot is setup to only read the messages from:
 

@@ -20,7 +20,7 @@ with additional details to fill in. Once filled in, you can submit the nominatio
 
 > The manager can then decide to approve or reject this nomination.
 
-On approval, the bot will send this nomination to the second level manager, and if approved, to the People Connect team for final approval. On the final approval, it is added to Workday as a one time bonus payment. The nominator AND the manager of the nominee are also updated about a final approval. The manager will receive a message with the full nomination and will be asked to share this with the nominee and to share it in the #team-members-update channel on Slack.
+On approval, the bot will send this nomination to the second level manager, and if approved, to the People Connect Team for final approval. On the final approval, it is added to Workday as a one time bonus payment. The nominator AND the manager of the nominee are also updated about a final approval. The manager will receive a message with the full nomination and will be asked to share this with the nominee and to share it in the #team-members-update channel on Slack.
 
 On rejection, an additional modal will pop-up asking for the rejection reason. This reason is only to be used in an aggregated way to get details about why nominations are rejected. This is not shared with anyone else or shown in the Home views. The nominator will see that the nomination was rejected but they won't see why. The bot will send a message to the person who rejected asking to share feedback with the nominator.
 
@@ -138,7 +138,7 @@ To take into account:
 - if you're uncomfortable running an executing script, you can first to the `dry run` version: `/cnb/lifecycle/launcher bundle exec rake offboarding:dry_run[EMPLOYEE_NUMBER]`. This will print out the 
 nominations that we would retrigger.
 
-Don't forget to check off the task on the offboarding issue so the People Experience team knows it's been done.
+Don't forget to check off the task on the offboarding issue so the People Connect team knows it's been done.
 
 ## Requests and or bugs
 

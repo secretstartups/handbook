@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Career Mobility Automation Flow
-description: "Information on the automations we have in place to support the People Operations and People Experience team with career mobility related tasks."
+description: "Information on the automations we have in place to support the People Connect Team with career mobility related tasks."
 ---
 
 ## On this page
@@ -32,11 +32,11 @@ graph TD
 
 ## Career Mobility issue creation
 
-One a People Experience Associate runs the career mobility command through Slack, this triggers a pipeline in the `employment` project, which will run the job `transition`, and reply with a link to the newly created Career Mobility issue.
+One a People Connect Team member runs the career mobility command through Slack, this triggers a pipeline in the `employment` project, which will run the job `transition`, and reply with a link to the newly created Career Mobility issue.
 
 The issue will be automatically assigned to the following people:
 
-- People Experience Associate who ran the command
+- People Connect Team member who ran the command
 - the team member
 - the previous manager of the team member
 - the new manager of the team member

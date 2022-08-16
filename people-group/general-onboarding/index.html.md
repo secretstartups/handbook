@@ -16,7 +16,7 @@ Onboarding is [incredibly important](/company/culture/all-remote/onboarding/) at
 
 We highly recommend taking at least two full weeks for onboarding and only in week three starting with team specific onboarding and training. Please feel free to participate in your team's work in your first two weeks, but don't feel like you have to contribute heavily.
 
-All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) which is owned by the People Experience Team. The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning), whilst also remaining as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible settling into the remote life at GitLab.
+All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) which is owned by the People Connect team. The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning), whilst also remaining as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible settling into the remote life at GitLab.
 
 At GitLab we take great pride in [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding) our own product, that is why all onboarding tasks are completed in a GitLab issue. First of all, what is an issue? You can learn more about what an issue is [here](https://docs.gitlab.com/ee/user/project/issues/).
 
@@ -26,12 +26,12 @@ Each onboarding issue has a main section that contains tasks relevant to all Git
 
 Through onboarding issues, you should gain access to our team member [baseline entitlements](/handbook/engineering/security/#baseline-role-based-entitlements-access-runbooks--issue-templates). On Day 2 of onboarding an [Access Request](/handbook/people-group/engineering/#access-request-issue-creation) will be generated, if a template has been created for the role. Access requests are owned by the IT team. If you have any access requests related questions, please reach out to #it-help in Slack.
 
-In certain instances, the People Experience team may not be able to assist with onboardings due to a national holiday or Family and Friends Day. These specific dates are documented in the People Experience team [Handbook page](https://about.gitlab.com/handbook/people-group/people-experience-team/#people-experience-team-availability).
+In certain instances, the People Connect team may not be able to assist with onboardings due to a national holiday or Family and Friends Day. These specific dates are documented in the People Connect team [availability](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/people_experience_team/#people-experience-team-availability).
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> TaNewKi Welcome Call
 {: #tanuki-orange}
 
-The People Experience Team hosts a pre-onboarding call known as the Ta-New-Ki call (a play on the abstract Tanuki i.e. Japanese raccoon dog you will find in our logo).  The purpose of this call, which is hosted in Zoom, is to give soon to onboard team members the chance to meet / socialise and to provide an opportunity to ask any lingering questions ahead of their start date.  Internally we refer to this as an AMA (Ask Me Anything) call. **This call is open to all current team members, hiring managers.**
+The People Connect team hosts a pre-onboarding call known as the Ta-New-Ki call (a play on the abstract Tanuki i.e. Japanese raccoon dog you will find in our logo).  The purpose of this call, which is hosted in Zoom, is to give soon to onboard team members the chance to meet / socialise and to provide an opportunity to ask any lingering questions ahead of their start date.  Internally we refer to this as an AMA (Ask Me Anything) call. **This call is open to all current team members, hiring managers.**
 
 This call occurs every two weeks on Thursday at two times to account for timezones.
 - 11:00/23:00 **PM** PT
@@ -55,8 +55,8 @@ General Topics Covered
 1. Open the Ta"NEW"ki Folder located People Experience/Ops Shared Drive>People Experience>Ta"NEW"ki Call
 1. Update the google form to include the next two TaNEWki call dates (EMEA and AMER times)
 1. Use this [email template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/tanewki_welcome_call.md)
-1. Add the new team members emails to the BCC line and CC the People Experience Team.
-1. The People Experience Team can check who will be attending the call by looking at the Google Form.
+1. Add the new team members emails to the BCC line and CC the People Connect team.
+1. The People Connect team can check who will be attending the call by looking at the Google Form.
 1. Once new hires have completed the form an auto-response (via Document Studio) will reply with the zoom link and the date selected.
 
 ## Slack Channel Support for New Team Members
@@ -81,7 +81,7 @@ An issue is created for new team members at least 4 business days prior to their
 
 ### <i class="fas fa-tasks fa-fw color-orange font-awesome"></i>Compliance
 
-The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) completes a monthly audit of all open onboarding issues to ensure that the new team member, manager and People Experience team tasks are completed. More importantly, there are certain tasks which need to be completed  in line with our company compliance (security, payroll, etc).
+The [Senior People Connect Specialist](https://about.gitlab.com/job-families/people-ops/people-operations/) completes a monthly audit of all open onboarding issues to ensure that the new team member, manager and People Connect team tasks are completed. More importantly, there are certain tasks which need to be completed  in line with our company compliance (security, payroll, etc).
 
 If any tasks are still outstanding, the People Experience Associate will ping the relevant members on the issue requesting action on the items or checking whether the issue can be closed.
 
@@ -100,7 +100,7 @@ To ensure a successful completion of the onboarding issue, it is important that 
 
 ### Onboarding Issue Template Links
 
-These templates are used by the People Experience team to onboard new team members.
+These templates are used by the People Connect team to onboard new team members.
 
 - [All GitLab team-members](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md)
 - [Intern](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_intern_engineering.md)

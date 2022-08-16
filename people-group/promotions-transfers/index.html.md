@@ -67,7 +67,7 @@ At GitLab, we promote on a quarterly cadence. This means that there is **one eff
 | [Calibration](/handbook/people-group/promotions-transfers/#calibration) | The calibration exercise is an opportunity for leaders (sync or async) to review projected promotions on a quarterly basis. This is an opportunity to create visibility and ensure consistency in who we are promoting and why. |
 | [Processing](/handbook/people-group/promotions-transfers/#process-for-managers-requesting-a-promotion-or-compensation-change) | The final stage once promotions are defined, is to determine where to process the promotion to finalize (this will take place via Workday or Greenhouse). 
 
-**Managers do not need to submit promotions that are part of the quarterly calibration process via Workday or Greenhouse. These will be processed by the PBP, Total Rewards, and People Operations team following calibration and Division leader approval.** The exception to this rule are promotions that are submitted as [exceptions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#quarterly-promotion-cadence-exceptions) and not part of the quarterly cycle and timeline outlined below.
+**Managers do not need to submit promotions that are part of the quarterly calibration process via Workday or Greenhouse. These will be processed by the PBP, Total Rewards, and People Connect team following calibration and Division leader approval.** The exception to this rule are promotions that are submitted as [exceptions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#quarterly-promotion-cadence-exceptions) and not part of the quarterly cycle and timeline outlined below.
 
 Below is the timeline for FY23: 
 
@@ -294,17 +294,17 @@ This section describes the approval chain after a manager submits a promotion or
 
 **TO UPDATE**
 
-1. If the request is approved, the People Connect team will process the change in Workday and stage the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) in DocuSign.
+1. If the request is approved, the People Connect Team will process the change in Workday and stage the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) in DocuSign.
 1. DocuSign will prompt the manager to discuss the promotion with the team member. The Manager will communicate the change to the team member in their `1-1 meeting by sharing the letter of adjustment on the call`. The Manager and the team member will process/sign the letter on the same call or any other scheduled call (in case of further disccussion about the promotion). Post acceptance by the team member, the Manager will announce the promotion on Slack **#team-member-updates** channel. In the announcment the manager will describe how the individual met the promotion criteria and include a link to the merge request where the individual's title is updated on the team page.
 1. When announcing or discussing a promotion in the Slack **#team-member-updates** channel, *please include the link to the promotion Google Doc* to increase visibility for the reasons behind the promotion.
-1. For change of departments or change of roles (individual contributor to managers), People Experience Associates will create a Career Mobility Issue.
+1. For change of departments or change of roles (individual contributor to managers), People Connect Team members will create a Career Mobility Issue.
 
 ### For People Business Partners: Approving Promotions & Compensation Changes
 
 **TO UPDATE**
 
 1. After the Planning and Calibrations People Business Partners make sure to notify Total Rewards of the upcoming promotions. 
-1. Once added to BambooHR he People Business Partner (PBP) will receive an email titled `Promotion Request: [Team Member Name]`.
+1. Once added to Workday the People Business Partner (PBP) will receive an email titled `Promotion Request: [Team Member Name]`.
 1. Confirm the [promotion document](/handbook/people-group/promotions-transfers/#promotion-document) is included in the request.
 1. Review the content of the promotion document.
     - Job family alignment
@@ -313,10 +313,10 @@ This section describes the approval chain after a manager submits a promotion or
     - Check the sharing settings, as this should be readable by everyone at GitLab with a link
 1. Review Bonuses received by the team member.
 1. Ping the manager requesting the promotion via Slack to confirm that the department leader and E-Group leader are aware and supportive of the promotion.
-1. Align with the Total Rewards in the private #promo_compensation Slack channel to ensure Compensation notes are added in BambooHR.
+1. Align with the Total Rewards in the private #promo_compensation Slack channel to ensure Compensation notes are added in Workday.
 1. Cross-check Compensation adjustment in accordance with the [compensation calculator](https://comp-calculator.gitlab.net/users/sign_in).
-1. We want for promotions and compensation changes in Engineering that they are approved by all leaders up to the CTO. As BambooHR has a limit in the amount of approvers use the Division specific slack channel to have approval of all leaders.
-1. If an approver is skipped in BambooHR: Share the promotion information in the private Division-specific promotion Slack channel with an overview of:
+1. We want for promotions and compensation changes in Engineering that they are approved by all leaders up to the CTO. As Workday has a limit in the amount of approvers use the Division specific slack channel to have approval of all leaders.
+1. If an approver is skipped in Workday: Share the promotion information in the private Division-specific promotion Slack channel with an overview of:
     - Team member name
     - Promotion request (current job title and new job title)
     - Compensation notes (current compensation, proposed compensation, increase %, additional stock options, compensation calculator)
@@ -327,7 +327,7 @@ This section describes the approval chain after a manager submits a promotion or
 
 **TO UPDATE**
 
-1. If the request is approved through Workday, the People Connect team will create the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment), whereas if the request is through Greenhouse the `People Operations Team will be notified via the People Operations team email` inbox that the [Letter of Adjustment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) has been created by the CES team and signed. If this is the case, only data systems will need to be updated.
+1. If the request is approved through Workday, the People Connect Team will create the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment), whereas if the request is through Greenhouse the `People Connect Team will be notified via the People Connect team email` inbox that the [Letter of Adjustment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) has been created by the CES team and signed. If this is the case, only data systems will need to be updated.
 1. If the request comes through Workday, approve the request, then update the entries in Workday to ensure that there are the proper dates, amounts, job information. Also, ensure to add stock options to the job tab if applicable. If the team member is moving to a Manager position, update their access level in Workday.
 1. Notify Payroll of the changes. This can be done in the following google docs: United States: "Payroll Changes", Everyone else: "Monthly payroll changes for non-US international team members". Payroll does not need to be notified for Contractors.
 1. If the team member is in Sales or transferred to Sales, update the changes tab on the "Final Sales OTE FY 2020" google doc.
@@ -356,8 +356,8 @@ This section describes the approval chain after a manager submits a promotion or
     - Add sign date field for the team member
     - **Note:** Make sure that **a)** "Set signing order” option has been selected while preparing the doc, and **b)** Select radio button instead of checkboxes as only radio button allows you to select the required field/mandatory field option. This prohibits the Total Rewards Analysts and Manager to process the letter without checking the tasks on the letters.
 1. Once signed by all parties, save the letter to the respective team members [Documents Tab](https://docs.google.com/document/d/1ao_d_JxvqvZdqxlt4mBoHe1GcAhYT7B6YQoBgDxPdRE/edit) within their Workday Profile.
-1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Experience Associates in the internal Promotions/Transfers spreadsheet tracker (using the `people-exp@gitlab.com` alias). Once the tracker is filled in, sort it by effective date.
-1. the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
+1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Connect Team members in the internal Promotions/Transfers spreadsheet tracker (using the `people-exp@gitlab.com` alias). Once the tracker is filled in, sort it by effective date.
+1. the People Connect Team members will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 1. The previous manager will be prompted to create an [Access Removal Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/blob/master/.gitlab/issue_templates/Access%20Removal%20Request.md) and the new manager will create an [Access Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests) to ensure the correct access is given for the new role and deprovisioned for the previous role, if need be.
 
 **Note** Letter of adjustment is sent to team member's personal email address instead of GitLab email address to ensure a proper audit trail.  
@@ -434,7 +434,7 @@ To demote one of your direct reports, a manager should follow the following step
 - Demotions should also include a review of [compensation](/handbook/total-rewards/compensation/) and [equity](/handbook/stock-options/#stock-options) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator.
 - Once agreement is reached on the demotion and changes (if any) in compensation, the total rewards team will act as the point of escalation to have any demotion reviewed and approved by the Compensation Group once the relevant google doc is complete.
 - Once approved, the manager informs the individual. Please cc 'peopleops@gitlab.com'  once the individual has been informed, so the changes can be processed in the relevant administrative systems. A [Letter of Adjustment](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/editm) will then be created.
-- The People Operations team should then follow the process listed under the [For People Connect Team: Processing Promotions & Compensation Changes](https://about.gitlab.com/handbook/people-group/promotions-transfers/#for-people-connect-team-processing-promotions--compensation-changes).
+- The People Connect team should then follow the process listed under the [For People Connect Team: Processing Promotions & Compensation Changes](https://about.gitlab.com/handbook/people-group/promotions-transfers/#for-people-connect-team-processing-promotions--compensation-changes).
 - Communication should be on a need-to-know basis only and should not be made public out of respect for the individual. 
 - The manager will initiate any necessary access requests or access change requests. 
 
@@ -448,8 +448,8 @@ Job information changes are anything that requires an update to the team member'
 
 **Process for EBA to update senior leadership:**
 1. Send an email to People Connect, `people-connect@gitlab.com` requesting the changes to be made in Workday
-1. The People Experience Team will process the changes in the system
-1. The People Experience Team will save the email communication revieved from the EBA in each of the team member's Contract Changes folder. 
+1. The People Connect Team will process the changes in the system
+1. The People Connect Team will save the email communication revieved from the EBA in each of the team member's Contract Changes folder. 
 1. Once complete, the team will follow-up with the EBA to let them know all changes have been made
 1. The EBA will then need to make the changes on the Team Page
 
@@ -457,9 +457,9 @@ Job information changes are anything that requires an update to the team member'
 
 1. Audit the team member's department, division and cost center against the new manager's.
 1. For US team members, the entity must also match with the manager's. For any changes in entity, update the payroll file.
-1. In case of `Job Title Specialty` change requests, managers will reach out to the People Experience team to have a team members `Speciality` updated in Workday. 
-    - The People Experience Associate should check whether the title already exists in Workday. If not, check whether the `Job Speciality` has been added to the respective departments Handbook page (example: https://about.gitlab.com/handbook/engineering/development/enablement/sharding/) or if the People Experience Associates are tagged in a respective issue to have it added. If unclear, reach out to the [respective People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division)      
-    - In the event of a `Job Speciality` change and a manager change, the People Experience team will be notified in the internal Transition Tracker spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
+1. In case of `Job Title Specialty` change requests, managers will reach out to the People Connect Team to have a team members `Speciality` updated in Workday. 
+    - The People Connect Team member should check whether the title already exists in Workday. If not, check whether the `Job Speciality` has been added to the respective departments Handbook page (example: https://about.gitlab.com/handbook/engineering/development/enablement/sharding/) or if the People Connect Team members are tagged in a respective issue to have it added. If unclear, reach out to the [respective People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division)      
+    - In the event of a `Job Speciality` change and a manager change, the People Connect Team will be notified in the internal Transition Tracker spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Connect Team members will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 
 ## Department Transfers
 
@@ -558,7 +558,7 @@ While the [Career Mobility Issue Issue](https://gitlab.com/gitlab-com/people-gro
 1. For cases where announcing on the same day the Letter of Adjustment is signed is not possible, the announcement should no more than 24 hours after the candidate has signed.
 1. Following this initial announcement, the `current manager` can proceed with making this announcement in other relevant team-specific channels.
 
-_NOTE: Though the Total Rewards and People Experience team may have visibility into promotions or transfers due to the administration of updating information as part of their roles, they should not communicate with the team member about their promotion/tranfer until an announcement has been made._--
+_NOTE: Though the Total Rewards and People Connect Team may have visibility into promotions or transfers due to the administration of updating information as part of their roles, they should not communicate with the team member about their promotion/tranfer until an announcement has been made._--
 
 #### Realignment of team members impacting multiple teams
 
@@ -626,9 +626,9 @@ When a career mobility may not be needed (but can be requested);
 
 ## Career Mobility Issue Creation Process
 
-The People Connect Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
+The People Connect Team will notify the People Connect Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Connect Team member](https://about.gitlab.com/job-families/people-ops/people-operations/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
 
-The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) three days prior to the effective date to allow for the managers to start preparing for the team members transition.
+The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Connect Team member** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) three days prior to the effective date to allow for the managers to start preparing for the team members transition.
 
 Important things to ensure:
 
@@ -647,13 +647,13 @@ Important things to ensure:
 
 ## Career Mobility Retrospective
 
-The team member going through this transition and assigned to their Career Mobility issue have a set of tasks to complete. An important one is to create a retrospective thread within their Career Mobility issue, so that they and their respective previous and current managers can discuss any questions, comments, proposals and more about their issue within said issue. Retrospectives are used in many ways at GitLab, such as which are used after GitLab product [releases](/handbook/communication/#release-retrospectives-and-kickoffs) and describing the Product [retrospective workflow](/handbook/engineering/workflow/#retrospective). For the Career Mobility issue, simply comment in the issue, starting a thread titled **Retro thread** or **Retrospective**. Please feel free to ping your assigned People Experience Associate in your issue if you have any questions.
+The team member going through this transition and assigned to their Career Mobility issue have a set of tasks to complete. An important one is to create a retrospective thread within their Career Mobility issue, so that they and their respective previous and current managers can discuss any questions, comments, proposals and more about their issue within said issue. Retrospectives are used in many ways at GitLab, such as which are used after GitLab product [releases](/handbook/communication/#release-retrospectives-and-kickoffs) and describing the Product [retrospective workflow](/handbook/engineering/workflow/#retrospective). For the Career Mobility issue, simply comment in the issue, starting a thread titled **Retro thread** or **Retrospective**. Please feel free to ping your assigned People Connect Team member in your issue if you have any questions.
 
 ## Compliance
 
-The People Experience Associate completes a bi-weekly audit of all career mobility issues that are still open and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant team members within the transition issue to call for tasks to be completed.
+The People Connect Team member completes a bi-weekly audit of all career mobility issues that are still open and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Connect Team member will ping the relevant team members within the transition issue to call for tasks to be completed.
 
-Once all tasks have been completed and the issue is still open, the People Experience Associate will close the transition issue accordingly. The transitioning team member can also close the issue once satisfied all the tasks are complete.
+Once all tasks have been completed and the issue is still open, the People Connect Team member will close the transition issue accordingly. The transitioning team member can also close the issue once satisfied all the tasks are complete.
 
 All migration tasks by the applicable team members needs to be completed within 2 weeks of the migration start date.
 

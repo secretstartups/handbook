@@ -199,7 +199,7 @@ For team members who will be placed on leave during an investigation please foll
 
 1. **TMR**: Communicates with Legal, Aligned PBP regarding the decision to place a team member on leave and disable accounts during an investigation.
 1. **TMR**: TMR completes the Suspension bot in the '#offboarding' slack channel to request IT and People Ops support for disabling a team members accounts. This can be found by selecting the lightning bolt or shortcut button in slack in the `#offboarding` channel. Once you complete the form, a message will post to the slack channel, in this message thread you will find a message with a link to another form. This form is only needed/used when a team member is returning from leave. 
-1. **TMR**: TMR coordinates with IT and the People experience team in the same manner as an involuntary term to be able to disable accounts when a team member is informed of the decision.
+1. **TMR**: TMR coordinates with IT and the People Connect team in the same manner as an involuntary term to be able to disable accounts when a team member is informed of the decision.
 1. **TMR**: TMR schedules a call with the teammember and manager to inform them of the decision to place the team member on leave while an investigation occurs.
 1. **TMR**: TMR informs the manager and PBP when the conversation is completed and accounts are disabled.  During this period managers will not have access to the team members accounts.
 1. **TMR**: TMR notifies IT that an Out Of Office message needs to be set on the account and include the message that the team member is OOO and please reach out to their manager.. 

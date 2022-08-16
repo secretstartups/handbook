@@ -16,12 +16,9 @@ description: A guide for new team members
 Hello! We could not be more excited to have you at GitLab. This page is here to help walk you through what you can expect before and during your first few weeks as a new team member. 
 
 
-## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Meet the People Experience Team! 
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Meet the People Connect team! 
 
-[The People Experience Team](https://about.gitlab.com/handbook/people-group/people-experience-team/) is here to help guide you in your journey here at GitLab. A member of the team will be assigned to your Onboarding Issue, and will be there to provide guidance as you begin onboarding. You can learn more about us below by reading our bios on the team page. 
-
-- [Alex Venter, Sr. People Experience Associate](https://about.gitlab.com/company/team/#alex_venter)
-- [Ashley Jones, Sr. People Experience Associate](https://about.gitlab.com/company/team/#asjones)
+The [People Connect team](https://about.gitlab.com/company/team/?department=people-connect-team) is here to help guide you in your journey here at GitLab. A member of the team will be assigned to your Onboarding Issue, and will be there to provide guidance as you begin onboarding. You can learn more about us below by reading our bios on the team page. 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Onboarding Issues
 
@@ -41,7 +38,7 @@ After you sign your offer and complete your background check and references, you
     - This email will contain all pertainent information such as how to order your office equipment and most importantly your laptop. The IT team also has a very handy, handbook page [you can review](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptops).
     - Please note,when you receive your laptop, make sure to **not** sign into the laptop with your personal Apple ID. You will be asked to create an Apple ID on day one with your GitLab email address. 
 1. If you are being employed by one of GitLab's US entities, either GitLab, Inc or GitLab, Fed, you will need to [complete your I9 via LawLogix](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#timing-of-i-9). You will receive an email from LawLogix. This email will walk you through the process of completing the I9. 
-1. If you live in Germany, South Korea, Japan, France, or the UK you will need to be on a lookout from an email from the People Experience Team (via DocuSign or directly from the team) to complete some payroll documents. 
+1. If you live in Germany, South Korea, Japan, France, or the UK you will need to be on a lookout from an email from the People Connect team (via DocuSign or directly from the team) to complete some payroll documents. 
 1. The next email you will receive, is a [TaNEWki call](https://about.gitlab.com/handbook/people-group/general-onboarding/#tanuki-orange) invite. We hope you can join us! This Zoom call addresses those first day nerves and gives you some time to meet other new team members. You will see this invite sent to you 1-2 weeks before your start date. 
 1. You may receive an email from Okta (our SAAS application portal) with an invite to register. **Please ignore this email** until you receive your onboarding welcome email on your first day with us. This will ensure that no issues are experienced with your access levels on your first day. 
 

@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Onboarding Automation Flow
-description: "Information on the automations we have in place to support the People Operations and People Experience team with onboarding related tasks."
+description: "Information on the automations we have in place to support the People Connect team with onboarding related tasks."
 ---
 
 ## On this page
@@ -42,7 +42,7 @@ graph TD
 
 ## Onboarding issue creation
 
-The onboarding issue creation is a semi-automated process. Meaning that it needs to be triggered by a People Experience Associate to be started. A People Experience Assocatiate can make use of the `onboarding` Slack command to initiate the process.
+The onboarding issue creation is a semi-automated process. Meaning that it needs to be triggered by a People Connect team member to be started. A People Connect team member can make use of the `onboarding` Slack command to initiate the process.
 
 The onboarding issue will be automatically assigned to the People Experience Associate
 who ran the command and the incoming team member's Manager.
@@ -220,7 +220,7 @@ However that entry is anonymous. For every new team member, we commit a new file
 
 We then create a merge request on `www-gitlab-com` project so it can be merged.
 
-The merge request is assigned to the People Experience Team and they set it to merge when the pipeline succeeds.
+The merge request is assigned to the People Connect team and they set it to merge when the pipeline succeeds.
 
 ### Possible Errors and Fixes
 

@@ -42,9 +42,9 @@ Not only are buddies helpful to someone that has just started with GitLab, but a
 
 ## Buddy Program
 
-In an effort to recognize buddies who go above and beyond to support new / transitioning team members and help them feel welcome, we have implemented a Buddy Program. Once every quarter, the People Experience team will evaluate the onboarding / career mobility buddy feedback provided in the [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit) or [Career Mobility Survey](https://docs.google.com/forms/d/e/1FAIpQLSdhH9vJ_Ztf0fR6MI3U165EJn6mytBk2gbC2wG0B381IpBfyw/viewform) filled out by the team members after their first 30 days at GitLab or 14 days after transition to the new role. To qualify, the buddy needs to receive a score of 3 or higher to be entered into a raffle at the end of the quarter.
+In an effort to recognize buddies who go above and beyond to support new / transitioning team members and help them feel welcome, we have implemented a Buddy Program. Once every quarter, the People Connect team will evaluate the onboarding / career mobility buddy feedback provided in the [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit) or [Career Mobility Survey](https://docs.google.com/forms/d/e/1FAIpQLSdhH9vJ_Ztf0fR6MI3U165EJn6mytBk2gbC2wG0B381IpBfyw/viewform) filled out by the team members after their first 30 days at GitLab or 14 days after transition to the new role. To qualify, the buddy needs to receive a score of 3 or higher to be entered into a raffle at the end of the quarter.
 
-The People Experience team will randomly select 3 winners giveaway link to order a prize from our swag collection (approx $25 value).
+The People Connect team will randomly select 3 winners giveaway link to order a prize from our swag collection (approx $25 value).
 
 - If the new team member does not complete the **Onboarding Survey** or **Career Mobility Survey**, the buddy will not be entered into the raffle.
 - In case of a buddy being selected twice, a re-draw will take place.
