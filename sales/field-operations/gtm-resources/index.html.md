@@ -46,6 +46,7 @@ description: "Operations, Procedures, Documentation"
 | AM | Account Manager |
 | AE | Account Executive |
 | APAC | Asia-Pacific |
+| BDR | Business Development Representative |
 | CAM | Channel Account Manager |
 | CS | Customer Success |
 | BDR | Business Development Represenative - focused on outbound |
@@ -72,6 +73,7 @@ description: "Operations, Procedures, Documentation"
 | SQO | Sales Qualified Opportunity |
 | TAM | Technical Account Manager |
 | TEDD | Technology, Engineering, Development and Design - used to estimate the maximum potential users of GitLab at a company |
+| UPA | Ultimate Parent Account
 | Won Opportunity | Contract signed to Purchase GitLab |
 
 ## Customer Lifecycle
@@ -143,8 +145,8 @@ A breakdown of MQLs and lead scoring can be found in the [marketing operations h
 
 ### Segmentation
 
-Sales Segmentation is based on the `Employees` field of the `Global Account`. 
-- If a `Global Account` has a lower segment than any of its child accounts, the `Global Account` will adopt the largest sales segment of any of its child accounts.
+Sales Segmentation is based on `Account Demographics: Max Family Employees`, which is the maximum of all `Account Demographics: Employee Count` values from the accounts within this hierarchy.
+- The `Account Demographics: Employee Count` can differ from one account to another within a hierarchy, but the `Account Demographics: Max Family Employees` value will be the same for all accounts within a hierarchy.
 - If the employee count is unknown or blank and manual research cannot confirm, Sales Operations will mark the account as `SMB` with a placeholder of `-1` employees in the  Number of Employees: Manual - Admin field in order to get a Territory to populate and assign the account to an account rep.
 
 - `Large` = 2,001+ total employees
@@ -153,25 +155,22 @@ Sales Segmentation is based on the `Employees` field of the `Global Account`.
 
 ![gtm-model](/handbook/sales/field-operations/gtm-resources/gtm-model1mm.png)
 
-`Employees` is based on the number of employees that our data enrichment tools return for that Account, `[TSP] Account Employees`, <b>as determined in the [sales segment review process time period](#sales-segment-and-hierarchy-review-process)</b>.
-   - Note: `[TSP] Account Employees` will give the most up to date/accurate data in "real time".  Meaning it gets enriched and offers what the answer should be.  `Employees` will remain static until Sales Ops manually tells the system to update it (via the TSP Transfer process) OR manual overrides are made by Sales Operations. 
    
 We use a hierarchy structure to determine what the number of employees is for the account.
-The hierarchy of our data tools on _Accounts_ as they relate to the `Total Employee` count is shown below.
+The hierarchy of our data tools on _Accounts_ as they relate to the `Account Demographic Max Family Employees` count is shown below.
 
 1. Number of Employees: Manual - Admin
-1. Number of Employees Data Fox (we'll be removing DataFox from the process in Q3-Q4)
-2. Number of Employees ZI
+2. [ZI] Employees (ZoomInfo)
 
-LinkedIn/Websites are not designated data sources.
-If a prospect communicates a different employee size from DataFox/Zoominfo that conflicts with segmentation of what is determined by DataFox/Zoominfo then SalesOPS should be notified via chatter on the record with documented proof from the prospect.
-Admins have the ability to override the `Employees` and bypass this hierarchy but only during our [sales segment review process](#sales-segment-and-hierarchy-review-process).
+_LinkedIn/Websites are not designated data sources._
 
-Mid-Market accounts can managed either as a [MM Key Account or belong to a MM Territory AE](/handbook/sales/commercial/#mid-market-roles).
+ If a prospect communicates a different employee size from Zoominfo that conflicts with segmentation of what is determined by Zoominfo then SalesOPS should be notified via chatter on the record with documented proof from the prospect. Admins have the ability to override the Employees and bypass this hierarchy but only during our [sales segment review process](#sales-segment-and-hierarchy-review-process).
+
+Mid-Market accounts can be managed either as a [MM Key Account or belong to a MM Territory AE](/handbook/sales/commercial/#mid-market-roles).
 
 ### Sales Segment and Hierarchy Review Process
 
-In order to address issues when it is believed that the employee count, account address and/or account ownership is incorrect follow the [Sales Operations process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) to have the `[TSP]` fields updated and the account will be reviewed per the Rules of Engagement. 
+In order to address issues when it is believed that the employee count, account address and/or account ownership is incorrect follow the [Sales Operations process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) to have the `Account Demographics` fields updated and the account will be reviewed per the Rules of Engagement. 
 
 Provide the URL to validate the request. Examples of valid sources include but are not limited to financial filings, newspaper articles, reports directly from the company. During the Sales Ops review period it is at the discretion of the Sales Ops team to have the Total Employee count updated or to have it remain the same.
 
@@ -182,15 +181,15 @@ If the number of employees, according to our sources based on our hierarchy as d
 **Enterprise Sales**
 - **VP Enterprise Sales**: Mike Pyle
 - **Europe, Middle East and Africa** (`#emea` Slack channel): Michel Isnard, VP ENT EMEA
-- **Asia Pacific** (`#apac` Slack channel): Anthony McMahon, Area Vice President
+- **Asia Pacific** (`#apac` Slack channel): Rob Hueston (Interim), Regional Director
 - **North America - US East and West: David Helfer, VP ENT AMER
-    - **North America - US West** (`#us-east` Slack channel): TBH, Area Vice President
+    - **North America - US West** (`#us-east` Slack channel): Darren Moffett, Area Vice President
     - **North America - US East** (`#us-west` Slack channel): Tanya Helin, Area Vice President
-- **Public Sector** (`#public-sector` Slack channel): Bob Stevens, Area Vice President
+- **Public Sector** (`#public-sector` Slack channel): Bob Stevens, Vice President
  
 **Commercial Sales**
 - **VP Commercial Sales** (Mid-Market & Small Business): Ryan O'Nell
-- **Mid Market Global Sales**: Timmothy Ideker, Regional Director
+- **Mid Market Global Sales**: TBH, Regional Director
 - **SMB North America Sales** (`#smb` Slack channel): Nick Christou, Regional Director
 - **SMB EMEA/APAC Sales** (`#international-smb` Slack channel): Helen Mason, Area Sales Manager
 
@@ -200,33 +199,32 @@ If the number of employees, according to our sources based on our hierarchy as d
 Both maps & written tables are kept up to date with all pairings and territory assignments.
 Our LeanData routing workflows and SFDC reports are based on these tables.
 
-The Location of each account used to determine its Sales Territory is determined by a combination of 3rd party data systems (Datafox, Zoominfo) and manual overrides.
-This address is stored in "Account - Territory" on the Account object in SalesForce.
-This field inherits data from other fields in the following priority: 
+The Location of each account used to determine its `Sales Territory` is determined by a combination of 3rd party data systems (Zoominfo,Zuora Billing Accouunts) and manual overrides. This address is stored in "Account Address (fka Billing Address)" on the Account object in SalesForce. This field inherits data from other fields in the following priority:
 
 1. Admin Manual Override (if present) 
-2. Datafox 
-3. Zoominfo 
-4. Billing Address
+1. Zoominfo 
+1. Zuora Billing Account
 
 ### Industries & Sub-Industries
 
 GitLab recognizes the grouping of companies that are related based on their primary business activities in the following ways: 
 
+1. **Account Hierarchy Industry**
+    - This [field](https://gitlab.my.salesforce.com/00N4M00000IWRVd?setupid=AccountFields) is the chosen industry value for an entire account hierarchy. It is the industry value that shows up on the most account records within the hierarchy.
+    - All accounts within a hierarchy will share the same Account Hierarchy Industry value.
+    - This field is used for account routing and for LAM calculations.
 1. **Industry**
-    - This is the highest level of classification 
+    - This is the account level of classification of industry
     - A list of GitLab's Industry values can be found [HERE](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Industry&type=Account)
 1. **Sub-Industry**
-    - Sub-Industry is a more granual/detailed classification of Industry.  
+    - Sub-Industry is a more granular/detailed classification of Industry.  
     - A list of GitLab's Sub-Industry values can be found [HERE](https://gitlab.my.salesforce.com/00N6100000HIhad).  This list aligns with the industries used by DemandBase 
-1. **Standard Industrial Classification (SIC)**
-    - SIC is a standard system for classifying industries by a four-digit code and is the most granular categorization GitLab leverages. 
-    - A list of SIC codes can be found [HERE](https://www.naics.com/sic-codes-industry-drilldown/)
-  
-The Industry and Sub-Industry of each account is determined by a combination of 3rd party SIC data and manual overrides. The information is stored in the `Industry` and `Sub-Industry` fields on the Account object in SalesForce and inherit data in the following priority:
 
-1. Zoominfo SIC mapping to `Industry` and `Sub-Industry`
-1. Admin Manual Override 
+  
+The Industry and Sub-Industry of each account is determined by a combination of 3rd party data and manual overrides. The information is stored in the `Industry` and `Sub-Industry` fields on the Account object in SalesForce and inherit data in the following priority:
+
+1. Admin Manual Override  
+1. Zoominfo mapping to `Industry` and `Sub-Industry`
 
 **Industry & Sub-Industry Enrichment Cadence**
 
