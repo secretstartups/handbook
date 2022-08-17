@@ -138,15 +138,15 @@ Here's our list of more than 20 ways to participate in a happy, healthy [informa
 It's a good idea to schedule weekly [1-1 meetings](/handbook/leadership/1-1/) to field questions, ask about any challenges, or focus on areas to grow and build trust. Managers can supplement formal meetings with [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats) where no work is discussed: the goal is to simply listen, share, and have open conversations and nurture the social component of remote working. 
 
 ## What are onboarding activities?
-At GitLab, [the first thirty days](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#the-first-thirty-days) consist of a series of tasks to be completed sequentially. A sample GitLab onboarding sequence might look like:
+At GitLab, [the first thirty days](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#the-first-thirty-days) consist of a series of tasks to be completed sequentially. A sample GitLab onboarding sequence might look like:
 
-* Day 1: [Getting Started: Accounts and Paperwork](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-1-getting-started-accounts-and-paperwork)
-* Day 2: [Remote Working and our Values](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-2-remote-working-and-our-values)
-* Day 3: [Security & Compliance](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-3-security-compliance)
-* Day 4: [Social & Benefits](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-4-social-benefits)
-* Day 5: [Git](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-5-git)
-* [Weeks 2 - 4: Explore](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#weeks-2-4-explore)
-* [Week 3: Job Specific Tasks](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#job-specific-tasks)
+* Day 1: [Getting Started: Accounts and Paperwork](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-1-getting-started-accounts-and-paperwork)
+* Day 2: [Remote Working and our Values](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-2-remote-working-and-our-values)
+* Day 3: [Security & Compliance](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-3-security-compliance)
+* Day 4: [Social & Benefits](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-4-social-benefits)
+* Day 5: [Git](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-5-git)
+* [Weeks 2 - 4: Explore](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#weeks-2-4-explore)
+* [Week 3: Job Specific Tasks](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#job-specific-tasks)
 
 ## What do new hires want from an onboarding program?
 Onboarding is the first impression a new hire gets of your organization. It's critical to invest the time to do it well so that your new team members get to know you, understand what is expected of them, introduces them to co-workers and teammates, and sets them up to succeed. 

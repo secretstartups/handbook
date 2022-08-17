@@ -26,7 +26,7 @@ On this page you will be provided an overview of the Diversity, Inclusion & Belo
 | Feb | Annual DIB Survey via Culture Amp                         |
 | Apr | [Published updated Reverse AMA process](https://about.gitlab.com/handbook/communication/ask-me-anything/#process-for-initiating-a-reverse-ama)
 | May | Launched Global Seld ID Campaign
-| Jun | [Published DIB Advisory Group Goals](https://about.gitlab.com/company/culture/inclusion/advisory-group-guide/#6-month-goals--action-for-the-dib-advisory-group---as-of-july-2021) |
+| Jun | [Published DIB Advisory Group Goals](https://about.gitlab.com/company/culture/inclusion/influencer-group-guide/) |
 | Aug | Published 2021 DIB survey results to the company |
 
 
@@ -73,7 +73,7 @@ On this page you will be provided an overview of the Diversity, Inclusion & Belo
 |          | [GitLab DiversABILITY](https://about.gitlab.com/company/culture/inclusion/erg-gitlab-diversability/) launched                                  | 
 |          | [GitLab Women](https://about.gitlab.com/company/culture/inclusion/tmrg-gitlab-women/) launched                                         | 
 |          | [DIB Advisory Group launched](https://about.gitlab.com/company/culture/inclusion/advisory-group-members/)                                    | 
-| Sep | [DIB Advisory Group Guidelines](https://about.gitlab.com/company/culture/inclusion/advisory-group-guide/) published
+| Sep | [DIB Advisory Group Guidelines](https://about.gitlab.com/company/culture/inclusion/influencer-group-guide/) published
 |          | [Published TMRG Guidelines](https://about.gitlab.com/company/culture/inclusion/erg-guide/)                                       |
 |          | [DIB Framework](https://docs.google.com/presentation/d/1OMgmYc52J02PWacw72ZM_c-R6FYni-BibAhfV514KcQ/edit?usp=sharing)                                                  |
 | Oct | [Slack Channels for all TMRGs and DIB Advisory Group added](https://about.gitlab.com/company/culture/inclusion/#ergs---employee-resource-groups)       |

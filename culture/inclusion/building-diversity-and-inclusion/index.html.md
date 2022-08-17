@@ -67,7 +67,7 @@ In general, TMRGs are an excellent support system and key to providing awareness
 ### Creating a Diversity, Inclusion & Belonging  Advisory Group
 
 Consider creating this group as your highest level of global voices. A team of company influencers who can be instrumental in driving DIB efforts from a global perspective. How do you do this? GitLab conducted a global "All Call" for those who would be interested in joining and advised to provide the "why" DIB is important to them along with others questions such as division, location, etc. so that when we were reviewing we were able to have the best possible outcome of representation across the globe. Additional support in sustaining the group would be:
-* [DIB Advisory group guidelines](https://about.gitlab.com/company/culture/inclusion/advisory-group-guide/)
+* [DIB Advisory group guidelines](https://about.gitlab.com/company/culture/inclusion/influencer-group-guide/)
 * Appointing an Executive sponsor from the company
 * Designating leads of the group
 * Deciding on when it is time to enact and or rotate the opportunity for new advisory group members
