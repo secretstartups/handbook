@@ -72,3 +72,4 @@ Equal Employment Opportunity
 * Share insights and hiring achievements often and with everyone
 * Provide honest and kind feedback when asked (try to separate the interview from the decision, and from the feedback)
 * Share hiring plans internally and announce opening positions before publishing
+* We avoid outbound outreach to people working for GitLab customers who are making frequent & impactful contributions to the GitLab product or community
