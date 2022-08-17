@@ -57,6 +57,8 @@ The table below can be used as a general guide for assigning priority:
 | `~Reliability::P4` | Impact: Low <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: Low | -Resources are not assigned until all higher priority work has been completed|
 | `~Reliability::P5` | Impact: Low <br> Urgency: Low | -If an issue is determined to be a P5, there is a question on if the issue should be done at all.  If it turns out something was missed it can be moved to a higher priority.  Otherwise it should be closed with an explanatory note. |
 
+Except for corrective actions and security issues, reliability does not use `~"priority"` or `~"severity"` labels, if these labels are added they will be removed.
+{: .alert .alert-info}
 
 ## Classifying work
 
@@ -74,6 +76,17 @@ Corrective actions follow the [corrective action process](/handbook/engineering/
 ### Project
 
 Any issue that is associated with a larger effort that will take longer than 5 days is considered a project.  Once an issue is determined to be a project vs a general work item, it will need to be prioritized within the already existing backlog of projects.  Project issues are labeled as `work::project`
+
+### Corrective Actions and Security issues
+
+Corrective actions and security issues labeled as `~"corrective action"` or `~"security"` are labeled differently in the Reliability issue tracker.
+For these issues, `severity::*` labels are set to meet specific SLOs.
+
+- For security issue see the [Time to resolve table by severity](handbook/engineering/security/#severity-and-priority-labels-on-security-issues)
+- For corrective actions see [SLOs set by the Quality department](/handbook/engineering/quality/issue-triage/#severity-slos)
+
+For issues labeled with `~"security"` and `~"corrective action"` we do not use the `~"priority::*"` labels, if added they will be removed. Please use the `Reliability::P*` labels instead.
+{: .alert .alert-info}
 
 ### Labels
 
