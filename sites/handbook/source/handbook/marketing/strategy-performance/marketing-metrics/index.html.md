@@ -16,7 +16,7 @@ Below are the definitions of our primay Marketing Metrics.
 
 #### Inquiry
 
-An inquiry is a stage of the lead/contact objects in SFDC. Gitlab defines inquiry as an Inbound request or response to [an outbound marketing effort](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
+An inquiry is a stage of the lead/contact objects in SFDC. GitLab defines inquiry as an Inbound request or response to [an outbound marketing effort](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
 
 ##### First Order Inquiries
 Inquiries that are part of a parent account that has not made an order through GitLab are classified as first-order inquiries. To find them, we join the account table to the person table on the inquiry account ID. If the field `has_first_order_available` is true on the account object, the inquiry is first order. If the inquiry does not have an account associated with it, it is also first order.
