@@ -53,10 +53,10 @@ Planned:
 | Executive Stakeholder                    | Eric Johnson                     | CTO                                                             |
 | Facilitator/DRI                          | Gerardo Lopez-Fernandez          | Engineering Fellow, Infrastructure                              |
 | Functional Lead                          | Fabian Zimmer                    | Group Product Manager, Enablement                               |
-| Member                          | Steve Loyd                       | VP of Infrastructure                                            |
+| Member                                   | Steve Loyd                       | VP of Infrastructure                                            |
 | Member                                   | Chun Du                          | Director of Engineering, Enablement                             |
-| Member                                   | Juan Silva                       | Fullstack Engineering Manager, Geo                              |
-| Member                                   | Sampath Ranasinghe               | Senior Product Manager, Geo                                     |
+| Development DRI                          | Juan Silva                       | Fullstack Engineering Manager, Geo                              |
+| Product Management DRI                   | Sampath Ranasinghe               | Senior Product Manager, Geo                                     |
 
 ## Related Links
 
