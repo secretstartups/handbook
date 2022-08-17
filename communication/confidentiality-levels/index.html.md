@@ -75,12 +75,17 @@ The items below are not shared with all team members. Limited access is a more s
 
 Some projects require limited access internally due to the confidential or sensitive nature of the project, including but not limited to projects related to the items listed above. Often, in order to maintain the necessary confidentiality of these types of initiatives, we assign a code name for the project. For consistency and to make it easier to identify the genesis of these projects and their organizational affiliations, we've established the following naming conventions.
 
-Project code names can be overused. Code names should never be used for projects that can be public. There are two cases where the project name should be used instead of a name that clearly describes the project.
+Project code names can be overused. Code names should only be used for projects in which the leaking of a descriptive name (even without access to any related content) would be a problem. There are two cases where the project name should be used instead of a name that clearly describes the project.
 
-1. The work within the project is [material non-public information (MNPI)](/product/product-safe-guidance/#materially-non-public-information). Information is limited access by nature and should not be disclosed in issues, MRs, slack and other communication. Example: "Gotham" was our project name for our IPO.
-1. The work is not MNPI but should remain [limited access](/handbook/communication/confidentiality-levels/#limited-access) to avoid prematurely sharing information with customers or the wider community. Example: "Tiering" was our project name for End of Availability
+1. The existence of the project is [material non-public information (MNPI)](/product/product-safe-guidance/#materially-non-public-information). Example: "Gotham" was our project name for our IPO, because GitLab would have been penalized for pre-maturely signaling the imminence of its IPO.
+1. Knowledge of the project or initiative is not MNPI but should remain [limited access](/handbook/communication/confidentiality-levels/#limited-access) to avoid prematurely sharing information with  team members, customers or the wider community. Examples include: "Tiering" was our project name for End of Availability, and "Hamster" was our project name for exploring how to enter China.
 
-Code names should be retired as soon as a project is no longer confidential (e.g., not restricted, not limited access, etc.). A project does not need to be promoted (e.g., publishing a blog post) in order to be deemed public (i.e., not confidential). If there are any questions about whether a project is still confidential or restricted, please contact the DRI for such project or contact the Legal Team via the #safe Slack channel if you have any questions.
+In many cases, key project or initiative content will be MNPI or limited access, but we do not use a code name. In these cases, it is okay for folks to have a sense of what is being worked on, but the exact details are sensitive. For example:
+
+1. Q3 Earnings: material is MNPI until formally shared, but team members working on this is known and expected, not sensitive information.
+1. Pricing and Packaging: this is an example, but it would be okay to say that we had a group thinking about this even if exact plans were kept limited access.
+
+Once there is no longer a need to limit access of the project's existence for limited access or MNPI reasons, the code name for the project should be retired. Please note that a project does not need to be promoted (e.g., publishing a blog post) in order to be deemed publicly disclosed (i.e., not confidential); publishing the information in GitLab’s external Handbook will suffice. If there are any questions about whether a project still requires the use of the code name, please contact the DRI for such project or contact the Legal Team via the #safe Slack channel.
 
 | Team                  | Theme                                |
 | --------------------- | ------------------------------------ |
