@@ -413,7 +413,7 @@ In addition to transportation, team members can expense hotels when traveling ou
 
 ##### Additional spending guidelines
 
-All individual plane travel must be booked through [TripActions](/handbook/travel/#booking-travel-and-lodging) when possible. You may also choose to book lodging and other travel through TripActions. In TripActions, you should put "FY23-Q3 Visiting Grant" in the *Purpose* field when booking.
+All individual plane travel must be booked through [TripActions](/handbook/travel/#booking-travel-and-lodging) when possible. You may also choose to book lodging and other travel through TripActions. In TripActions, you should put "FY23-Q3 Visiting Grant" in the *Purpose* field when booking. For flights booked outside of TripActions, team members should expense tickets up to the maximum amount through Expensify. Be aware that by not using TripActions, team members will be responsible for potential fees associated with any transport issues (ie. cancellations). 
 
 Preference using your budget toward booking air travel through TripActions before you spend any of your allocation on other expenses. Unless you receive an exception, **if you spend over $1,000 on airfare, you will need to reimburse GitLab for the overage. When your expense cap is exceeded, do not expense additional expenses, for example, hotel, events, and food, associated with your travels.** If you choose to spend above your budget on air travel, you should still book through TripActions, but you will be responsible for your overages. You will also be responsible for any overages in Expensify.
 
