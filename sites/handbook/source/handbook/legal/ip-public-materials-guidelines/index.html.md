@@ -82,7 +82,7 @@ Just because something is available for free on the internet (including on Googl
 <summary markdown="span">Expand for Unsplash attribution instructions</summary>
 
 1. Create a small text box at the bottom right of the relevant slide.
-2. Locate the image on [unsplash.com](unsplash.com).
+2. Locate the image on [unsplash.com](https://unsplash.com).
 3. Click on `Download free` but ignore the downloaded file.
 4. Copy the `Say thanks 🙌` attribution text to the clipboard.
 5. Insert the attribution text into the text box, and apply formatting: Font `Inter`, Size `8`, `Italic`.
