@@ -69,8 +69,8 @@ If you are a hiring manager or member of the hiring/recruiting team, you may che
 
 Estimated Delivery Timelines for Gitlab Hardware
 
-US New Hires - 4-6 weeks (Apple M1 Max Model) and 4-6 weeks (Dell)
-Non-US New Hires - 2-3 weeks (Apple) and 6-9 weeks (Dell)
+- US New Hires - 1-2 weeks (Apple M1 Max Model) and 3-5 weeks (Linux)
+- Non-US New Hires - 2-3 weeks (Apple) and 6-9 weeks (Linux)
 
 ### Key Performance Indicators
 
@@ -115,7 +115,7 @@ NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased
 
 - Macbook Pro 14" and 16" - M1 Max / 10-Core CPU / 24-core GPU / 32GB Unified memory / 512GB or 1TB storage. **Performance model**
 - MacBook Pro 16” - Intel i7 or i9 / 512 SSD / 32 RAM - **Legacy performance model** - Limited supply; we may offer this model depending on availability the new M1 Max model. 
-- Macbook Pro - 13" / M1 / 16Gb / 512GB - **Standard model**
+- Macbook Pro 13" -  M1 / 16Gb / 512GB - **Standard model**
 
 Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for. 
 
