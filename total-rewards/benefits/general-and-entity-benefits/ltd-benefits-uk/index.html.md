@@ -435,3 +435,10 @@ Additional details can be found on the [Adding/Removing Team Members Help@hand G
 1. Total Rewards sends the completed form to premier.referral@unum.co.uk
 1. Unum will do a case review and send the claims forms to the Team Member
 
+### Reporting AXA Premiums to Payroll for Deduction and P11D reporting
+
+- Monthly Report: WTW will send a report to Total-Rewards and Non US payroll on a monthly basis (around the 10-12 of the month) with a list of the premiums and deduction calculations. 
+- Premium Reporting: The report will include premiums for all team members, Team members that are new to the plan and need to be added to payroll will have a 'join date' indicated in the spreadsheet.
+- Mid-Year Changes: If a current team member adds/removes a dependent from the plan, WTW will highlight the change in yellow and include a change effective date. Payroll will be responsible for prorating the calculation for the month of the change. 
+- Premium Calculations: The report will have the monthly amounts for P11d reporting and deductions already calculated, however Payroll will calculate the prorated amount for the month the team members leave or join the plan.
+
