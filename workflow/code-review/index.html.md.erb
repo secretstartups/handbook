@@ -201,20 +201,78 @@ Projects may adopt these guidelines for maintainership to help grow maintainers 
 - Enable Danger Review using [`simple_roulette`](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles/-/tree/master#simple_roulette) within the project to identify MR reviewers.
 - Create an [issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/.gitlab/issue_templates) for maintainer trainees. A [lightweight template](#trainee-maintainer-issue-template) is provided.
 - Reduce the number of Merge Request reviews required to be considered a maintainer.
+- Count work on the project itself as progress for maintainership.
 - Require a maintainer mentor to help speed up the process.
-- Consider creating project-specific development guidelines if they don't already exist for the project.
 - Add instructions on how to become a project maintainer to the project README.
+- Curate some practice MRs based on past reviews. Create copies of the MRs in a closed state and provide the links in the project maintainership process.
+- Consider creating project-specific development guidelines if they don't already exist for the project.
 
 #### Trainee maintainer issue template
 
 Use this lightweight template as a starting point for creating your project's trainee maintainer issue template.
 
 ```markdown
+## Basic Setup
+
+Thank you for becoming a [Project] maintainer trainee!
+Please work on the list below to complete your setup.
+
+- [ ] Change issue title to include your name: `[Project] Trainee Maintainer: [Full Name]`.
 - [ ] Complete project-specific language training if the programming language is not used in the main GitLab project (example: [golang training](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/golang_training.md)).
 - [ ] Review general [code review guidelines](https://docs.gitlab.com/ee/development/code_review.html).
 - [ ] Review project-specific release process (if one exists).
-- [ ] Create a merge request and indicate your role as a `project-name: reviewer` or `project-name: trainee_maintainer` in your [team member entry](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person). Assign MR to your manager for merge.
+- [ ] Join the `[project or team]` Slack channel.
+- [ ] Create a merge request and indicate your role as a `project-name: reviewer` or `project-name: trainee_maintainer` in your [team member entry](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/team_database.md). Assign MR to your manager for merge.
+- [ ] _Optional:_ Perform simulated reviews on practice MRs if available. Add a link to the MR and your review as a discussion in this issue.
+- [ ] _Optional:_ Peer review MRs. Add a link to the MR and your review as a discussion in this issue.
+- [ ] _Optional:_ Consider working on issues to gain familiarity with the project's domain and guidelines.
 - [ ] _Optional:_ Reach out to an existing maintainer to [help you become](https://about.gitlab.com/handbook/engineering/workflow/code-review/#trainee-maintainer-mentorship-pilot-program) a maintainer.
+
+## Working towards becoming a maintainer
+
+There is no checklist here, only guidelines. Remember that there is no specific timeline on this.
+In the case where you feel you are lacking more "complex" reviews, consider yourself ready enough.
+
+Your reviews should aim to cover maintainer responsibilities as well as reviewer
+responsibilities. Your approval means you think it is ready to merge.
+
+After each MR is merged or closed, add a discussion to this issue using this
+template:
+
+<details><summary>MR discussion template</summary>
+
+  ### (Merge request title): (Merge request URL)
+
+  During review:
+
+  - (List anything of note, or a quick summary. "I suggested/identified/noted...")
+
+  Post-review:
+
+  - (List anything of note, or a quick summary. "I missed..." or "Merged as-is")
+
+  (Maintainer who reviewed this merge request) Please add feedback, and compare
+  this review to the average maintainer review.
+  
+</details>
+
+**Note:** Do not include reviews of security MRs because review feedback might
+reveal security issue details.
+
+**Tip:** There are [tools](https://about.gitlab.com/handbook/tools-and-tips/#trainee-maintainer-issue-upkeep) available to assist with this task.
+
+## When you're ready to make it official
+
+When reviews have accumulated, and recent reviews consistently fulfill
+maintainer responsibilities, any trainee can take the next step. The trainee
+should also feel free to discuss their progress with their manager or any
+maintainer at any time.
+
+1. [ ] Create a merge request updating [your team member entry](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/team_database.md) proposing yourself as a maintainer and link to this training issue. Assign to your manager.
+2. [ ] Get yourself added as a Maintainer to `[project]`. Reach out to any existing maintainer.
+3. [ ] Keep reviewing, start merging :metal:
+
+/label ~"trainee maintainer"
 ```
 
 ### Maintainer ratios
