@@ -12,9 +12,12 @@ description: "CRO Development Day is a direct result of the feedback we received
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## FY23 Date - September 14th 
+## CRO Career Development Day
+The CRO team will dedicate an entire day to particpate in workshops and round table discussions to help all team members plan their career path.  In addition to using the day to learn, engage, and plan with peers and managers, each team member will have a written and agreed career plan built in collaboration with their manager. This includes both long term objectives as well as near-term milestones, goals, and key capabilites to learn.
 
-## Opening session
+###FY23 Date - September 14th 
+
+### Opening session
 The opening session will feature an interactive conversation with our CRO covering the following:
 * What’s in store for the day
 * Why it matters
@@ -24,18 +27,18 @@ The opening session will feature an interactive conversation with our CRO coveri
 
 It will also feature pre-recorded snippets on some unique career paths.
 
-## Segment-specific breakout sessions
+### Segment-specific breakout sessions
 
 The goal of these sessions is to show the importance of career development for our team members. We will provide an overview of growth and career development at GitLab that is segment specific. This includes helping team members feel an ownership of their journey and describing the roles and responsibilities for career development. Team members will have the ability to collaborate and discuss their development through guided discussions.
 
-## Async learning time
+### Async learning time
 
 Team members will have the opportunity to complete self-guided skill building and create their individual growth plan. They can also use this time to prepare for a conversation with their manager regarding the growth plan. 
 
-## Leadership corner and closing session
+### Leadership corner and closing session
 
 During this session we will feature leaders at GitLab. That includes individual contributors and/or managers discussing what makes a “leader” and sharing tips and advice for career success.
 
-## Resources 
+### Resources 
 Team members will be provided with job aids and resources during every session that can easily be accessed on highspot. 
 
