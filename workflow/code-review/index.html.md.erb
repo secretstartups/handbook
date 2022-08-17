@@ -287,6 +287,12 @@ We aim to keep the merge request per maintainer type at a reasonable level as we
 
 <embed width="100%" height="100%" style="min-height:400px;" src="<%= signed_periscope_url(dashboard: 655064, embed: 'v2') %>">
 
+## Resident Contributor
+
+All wider community members can, and are encouraged to, contribute in [frequent and atomic iterations](/handbook/values/#iteration). We encourage and celebrate those that contribute on a regular basis. As soon as a wider community member reaches 2 merged MR's on average over 3 months, we consider that person a Resident Contributor and they are entitled to a [review response SLO](#review-response-slo) among other benefits. These statuses are updated after each monthly release. Merge requests that were created when the author was a Resident Contributor will keep the SLO commitment.
+
+> Resident Contributor = (total merged MRs over 90 days) / 3 >= 2
+
 ## Domain Experts
 
 Our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html) states that we default to assigning reviews to team members with domain expertise.
@@ -364,6 +370,7 @@ The SLO is defined as:
 The SLO value depends on the author of the merge request:
 
 - From GitLab team members: `Review-response` SLO < 2 business days
+- From [resident contributors](#resident-contributor): `Review-response` SLO < 4 business days
 
 If you don't think you can review a merge request in the `Review-response` SLO
 time frame, let the author know as soon as possible in the comments
