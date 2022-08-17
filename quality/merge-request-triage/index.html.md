@@ -85,7 +85,6 @@ Community contributions are valuable, and we should handle them as effectively a
 | [Partial Triage](#partial-triage-gitlab-org) | 7 days |
 | [Complete Triage for Merged Merge Requests](#complete-triage-for-merged-merge-requests-gitlab-org) | 1 day ([this is automated for `gitlab-org/gitlab`](/handbook/engineering/quality/triage-operations/#add-milestone-to-community-merge-requests)) |
 | [Time to assign reviewer](#complete-triage-for-open-merge-requests-gitlab-org) | 2 hours ([this is automated](/handbook/engineering/quality/triage-operations/#automated-review-request)) |
-| [Time to review](https://docs.gitlab.com/ee/development/code_review.html#review-turnaround-time) | 8 days |
 
 If an SLO isn't met, reach out to the [Contributor Success team](/handbook/engineering/quality/contributor-success/).
 
@@ -128,7 +127,6 @@ Community contributions are valuable, and we should handle them as effectively a
 |------------- | ---------- |
 | [Initial triage](#initial-triage-gitlab-comwww-gitlab-com) | 2 hours ([this is automated](/handbook/engineering/quality/triage-operations/#community-contribution-thank-you-note)) |
 | [Time to assign reviewer](#complete-triage-for-open-merge-requests-gitlab-comwww-gitlab-com) | 7 days ([this is automated](/handbook/engineering/quality/triage-operations/#automated-review-request)) |
-| Time to review | 7 days |
 | [Complete triage for idle merge requests](#complete-triage-for-idle-merge-requests-gitlab-comwww-gitlab-com) | 7 days |
 
 If an SLO isn't met, reach out to [`@gitlab-com-community`](https://gitlab.com/gitlab-com-community) in the merge request.
