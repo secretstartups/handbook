@@ -272,7 +272,7 @@ All of the benefits listed below are administered and managed by [Remote](https:
 
 * Remote must offer [Allianz](https://drive.google.com/file/d/1hMw61FsriqRPfcFRQ-mzQsu6HF03IUFB/view) premium plan to all employees (this covers team members only and does not include dependants).
 * Team members have the option to waive this plan and instead can be paid a taxable bonus of $300/€252.35 each month, to be used to cover their own medical insurance and include dependants. This will be marked as 'bonus' on the payslip. 
-* Proof of coverage must be shared with Total Rewards. To do this, the team member may redact any personal information, upload to their BambooHR, and email to total-rewards@domain to confirm the same. 
+* Proof of coverage must be shared with Total Rewards. To do this, the team member may redact any personal information, upload to their Workday profile, and email to total-rewards@domain to confirm the same. 
 * Total Rewards will inform Payroll via the Payroll changes sheet
 
 - Accruals for 13th and 14th month salaries
