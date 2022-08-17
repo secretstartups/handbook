@@ -24,6 +24,14 @@ GitLab and team members contributions to pension, health insurance, care in old 
 
 Further information can also be found on the [Germany Trade & Invest Website](https://www.gtai.de/gtai-en/invest/investment-guide/employees-and-social-security-659058).
 
+## Personal Accident Insurance
+
+Effective July 1, 2022 GitLab provides team members in Germany Personal Accident Insurance Coverage with Allianz Versicherungs-AG. All team members are automatically enrolled. 
+
+Direct Entitlement is excluded from the plan, meaning the premiums are only taxed in the event of a claim payment. Insured value for death due to an accident is 1x annual salary, the insured value for dismemberment due to an accident is 2x annual salary. 
+
+ In the unfortunate event of an accident, please find the Group Personal Accident Flier in [German](https://drive.google.com/file/d/1AbBRSZ1-mkUyITCU0eLhltfRvu3Z3ppy/view?usp=sharing) & in [English](https://drive.google.com/file/d/1GFMTLLgMeyj1EZQ8K0axu8zxhV7jM4QT/view?usp=sharing) with information on how to report an accident and start a claim. 
+
 ## Life Insurance
 
 GitLab does not plan to offer different Life Insurance Benefits because team members can access employer insurance and government pension schemes to help with payments in the event of a death of a family member. The [GitLab Life Insurance plan](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
@@ -141,3 +149,16 @@ During the COVID-19 Pandemic, per German labor law, team members are required to
 **Infection Protection Act**
 
 The [Infection Protection Act](http://www.gesetze-im-internet.de/ifsg/index.html) was recently updated with a few [amendments](https://www.bundesregierung.de/breg-de/themen/coronavirus/kinderkrankengeld-1836090) related to entitlement to expanded children's sickness benefits related to the Coronavirus. Please review the current law of the Infection Protection Act (IfSG)and contact your doctor to see how it applies to your situation and family. 
+
+## Administrative Details for Benefits Team
+
+### Personal Accident Administration
+
+**Key Date Reporting:** 
+1. Approx 3 Months prior to the renewal date, July 1st, the Total Rewards team will send the number of team members and the annual salaries covered in the plan to the Broker, WTW, to share with the insurer  `nicole.smole@willistowerswatson.com` 
+- Annual Salary definition: gross monthly remuneration of the last 12 months before the day of the accident. For persons who have not yet been employed for 12 months on the day of the accident, the remuneration paid up to that point is extrapolated to 12 months. Salary means the total monetary remuneration of a person including all allowances, not including bonuses or one-off payments.
+- The insurance cover of the team member shall commence as soon as he/she starts an employment relationship. The insurance cover of the team member shall lapse if he/she leaves the employment relationship with your existing employment relationship or resigns from the association.
+
+**Claims Reporting**
+1. Once a Team Member files a claim, the compensation paymnet is transferred to the employer. In addition the insurer will inform the Total Rewards team that a payment has been made. 
+1. Total Rewards will notify non-US Payroll and Payroll will payout the the claim accordingly and withhold taxes as applicable. 
