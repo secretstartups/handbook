@@ -289,6 +289,10 @@ If I am asked to keynote a conference, it is up to the [executive](/company/team
 For example, if the request is coming from marketing, the CMO decides; if the request is coming from Finance, the CFO decides.
 Please follow the process outlined under [meeting request requirements](/handbook/eba/#meeting-request-requirements) and work with my EBA who will shepherd the decision about whether or not I will attend.
 
+## Teleprompter Preferences 
+
+If possible, I use a teleprompter when giving keynotes. I prefer to use the teleprompter app "[PromptSmart](https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756)" along with the "PromptSmart Remote Control" so that I am able to scroll the script at my own pace. 
+
 ## Recording Content for Conferences
 
 I'm always willing to record [video content](https://www.youtube.com/watch?v=Y310ksxsUoQ) for conferences I'm unable to attend.
