@@ -33,7 +33,7 @@ To help this visibilty, the Engagement Managers maintain a subset of fields agai
 
 ## Scoping Issue Tracking
 
-We use scoping issues to manage things like `win rate` becuase it requires control and flexibility that Engagement Managers do not have in SFDC. 
+We use scoping issues to manage things like `win rate` because it requires control and flexibility that Engagement Managers do not have in SFDC. 
 
 ### Scoping Issue EM Boards
 
