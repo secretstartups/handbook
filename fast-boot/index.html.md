@@ -40,13 +40,11 @@ First raise the idea with your manager to determine if there’s a good case
 for a Fast Boot. Ultimately, the executive team will approve these on a case
 by case basis.
 
-### Development approval process and timelines
+### Development approval process
 
-Because fast boots ultimately require a budget and approval, fast boots will be
-limited by both factors. As of June 12, 2019 Engineering is limited to one fast
-boot for FY20. As such, requests for fast boots need to be submitted by July 31,
-2019 and will be prioritized. Approval will occur in by August 15, 2019. If
-successful, more fast boots can be planned for the FY21 budget.
+1. Create an issue outlining the proposed Fast Boot. Here is an [example proposal from the Delivery Team Fast Boot.](https://gitlab.com/gitlab-com/organization/-/issues/192)
+1. Proposal is reviewed and approved by the Department head.
+1. Proposal is reviewed and approved by the CTO.
 
 ## How should you measure success?
 
