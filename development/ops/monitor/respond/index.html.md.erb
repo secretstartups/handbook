@@ -23,7 +23,7 @@ This section details the happenings within the Respond group. At any given time 
 ## Peformance Indicators
 The Respond Group’s mission is to decrease the frequency and severity of incidents. By helping our users respond to alerts and incidents with a streamlined workflow, and capturing useful artifacts for feedback and improvement, we can accomplish our mission. To get started, we need to establish an initial user base that we can learn from to improve and further grow the Monitor stage. We have prioritized the Incident Management category to obtain this usage. 
 
-With that in mind, our primary performance indicator, the Monitor:Respond SMAU, is the [count of unique users that interact with alerts and incidents](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=10039330). This PI will inform us if we are on the right path to provide meaningful incident response tools.
+With that in mind, our primary performance indicator, the Monitor:Respond GMAU, is the [count of unique users that interact with alerts and incidents](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=10039330). This PI will inform us if we are on the right path to provide meaningful incident response tools.
 
 We expect to track the journey of users through the following funnel:
 
@@ -49,10 +49,97 @@ classDiagram
 
 - [Monitor:Respond error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-respond/stage-groups-group-dashboard-monitor-respond?orgId=1): The Respond Group has work in progress to separate our dashboard into two, active and inactive projects.  This will allow the team to identify trends in our newly released features separately from inactive projects.  We're looking for different trends in active vs inactive projects.  Active projects are constantly changing and the chances of introducing problems that impact our Error Budget are more likely.  With inactive projects, we're looking for impact from changes in dependencies which may adversely affect the Error Budget.  The team will review both of the dashboards monthly as part of our async retrospective process and track the needed improvements as technical debt issues.
 
+Work with Nicole to clean up this section
+
 
 ## Snowplow Events
-Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/737489/Monitor-Group-Dashboard?widget=9813568&udv=0) for a list of events we have instrumented for Monitor:Respond Events.
-<embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 9813568, dashboard: 737489, embed: 'v2') %>">
+Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/1032030/Respond-Group-Dashboard?widget=15225900&udv=0) for a list of events we have instrumented for Monitor:Respond Events.
+| Event Category | Event Action | 
+|----------------|--------------|
+| Incident Management | view_alerts_list |
+| Incident Management | view_alert_details |
+| Incident Management | update_alert_status |
+| Incident Management | view_incidents_list |
+| Incident Management | view_incident_details |
+| Incident Management | toggle_incident_comments_into_timeline_view |
+| Incident Management | create_incident_button_clicks |
+
+## Service Ping
+Service Ping is used for self-managed customers.  The table below was generated from https://metrics.gitlab.com/.
+| Event Category | Event Action | 
+|----------------|--------------|
+| Incident Management | counts.issues_created_gitlab_alerts |
+| Incident Management | counts.incident_issues |
+| Incident Management | counts.issues_created_from_alerts |
+| Incident Management | counts.alert_bot_incident_issues |
+| Incident Management | counts.issues_created_manually_from_alerts |
+| Incident Management | counts.issues_with_embedded_grafana_charts_approx |
+| Incident Management | counts.issues_with_associated_zoom_link |
+| Incident Management | counts.issues_using_zoom_quick_actions |
+| Incident Management | redis_hll_counters.quickactions.i_quickactions_promote_to_incident_monthly |
+| Incident Management | redis_hll_counters.quickactions.i_quickactions_publish_monthly |
+| Incident Management | redis_hll_counters.quickactions.i_quickactions_severity_monthly |
+| Incident Management | counts.projects_with_alerts_created |
+| Incident Management | counts.projects_with_enabled_alert_integrations |
+| Incident Management | usage_activity_by_stage.monitor.projects_with_incidents |
+| Incident Management | usage_activity_by_stage_monthly.monitor.projects_with_incidents |
+| Incident Management | usage_activity_by_stage.monitor.projects_with_alert_incidents |
+| Incident Management | usage_activity_by_stage_monthly.monitor.projects_with_alert_incidents |
+| Incident Management | redis_hll_counters.incident_management.incident_management_alert_todo_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_alert_todo_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_comment_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_comment_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_todo_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_todo_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_relate_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_relate_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_assigned_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_alert_assigned_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_alert_assigned_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_alert_status_changed_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_alert_status_changed_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_change_confidential_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_created_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_created_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_zoom_meeting_weekly |
+| Incident Management | redis_hll_counters.incident_management_alerts.incident_management_alert_create_incident_monthly |
+| Incident Management | counts_monthly.aggregated_metrics.incident_management_alerts_total_unique_counts |
+| Incident Management | counts_monthly.aggregated_metrics.incident_management_incidents_total_unique_counts |
+| Incident Management | redis_hll_counters.incident_management_alerts.incident_management_alert_create_incident_weekly |
+| Incident Management | counts_weekly.aggregated_metrics.incident_management_alerts_total_unique_counts |
+| Incident Management | counts_weekly.aggregated_metrics.incident_management_incidents_total_unique_counts |
+| Incident Management | redis_hll_counters.incident_management.incident_management_total_unique_counts_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_total_unique_counts_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_unrelate_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_reopened_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_reopened_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_published_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_published_weekly |
+| Incident Management | redis_hll_counters.incident_management_oncall.i_incident_management_oncall_notification_sent_weekly |
+| Incident Management | redis_hll_counters.incident_management_oncall.i_incident_management_oncall_notification_sent_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_assigned_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_change_confidential_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_closed_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_closed_weekly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_zoom_meeting_monthly |
+| Incident Management | redis_hll_counters.incident_management.incident_management_incident_unrelate_monthly |
+| Incident Management | redis_hll_counters.quickactions.i_quickactions_publish_weekly |
+| Incident Management | redis_hll_counters.quickactions.i_quickactions_severity_weekly |
+| Incident Management | redis_hll_counters.quickactions.i_quickactions_promote_to_incident_weekly |
+| Incident Management | counts.projects_creating_incidents |
+| Incident Management | redis_hll_counters.incident_management.issuable_resource_links_total_unique_counts_monthly |
+| Incident Management | redis_hll_counters.incident_management.issuable_resource_links_total_unique_counts_weekly |
+| Incident Management | redis_hll_counters.incident_management.timeline_event_total_unique_counts_weekly |
+| Incident Management | redis_hll_counters.incident_management.timeline_event_total_unique_counts_monthly |
+| Incident Management | counts.status_page_incident_publishes |
+| Incident Management | counts.status_page_incident_unpublishes |
+| Incident Management | usage_activity_by_stage.monitor.projects_with_enabled_alert_integrations_histogram |
+| Incident Management | counts.status_page_issues |
+| Incident Management | counts_monthly.projects_with_alerts_created |
+| Incident Management | usage_activity_by_stage.monitor.projects_incident_sla_enabled |
+| Incident Management | counts.status_page_projects |
+| On-Call Schedule Management | redis_hll_counters.quickactions.i_quickactions_page_monthly |
+| On-Call Schedule Management | redis_hll_counters.quickactions.i_quickactions_page_weekly |
 
 ## Communication
 
@@ -79,7 +166,6 @@ This team maps to the [Respond Group](/handbook/product/categories/#respond-grou
 
 * [Incident Management](https://about.gitlab.com/direction/monitor/debugging_and_health/incident_management/)
 * [Continuous Verification](https://about.gitlab.com/direction/monitor/debugging_and_health/continuous_verification/)
-* [Error Tracking](https://about.gitlab.com/direction/monitor/debugging_and_health/error_tracking/)
 
 ## Dashboards
 
