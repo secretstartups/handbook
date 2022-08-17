@@ -22,9 +22,9 @@ is correct. We define here our most current processes for determining scope,
 gathering data and feedback, choosing a path forward, rolling out a change,
 managing adoption, and reviewing results for future improvements.
 
-## (Optional) Start with a Request for Comments (RFC)
+## Start with a Request for Comments (RFC)
 
-If you have an idea but aren't ready to propose a change yet, you can start
+If you have an idea but aren't ready to propose specific changes yet, you can start
 with the [Request for Comments](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Request%20for%20Comments)
 issue template. The template includes guidance on how to make your RFC. 
 
@@ -66,28 +66,20 @@ Whether you’re making a local change, based on the decision criteria above, or
 proposing a global one, it’s important to communicate your plans with the rest
 of the Support Leadership Team.
 
-### Creating an Issue
+### Creating a Requested Change Issue and/or MRs
 The first step toward making a change is to
-[create an issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Requested%20Change)
-via the
-[support-team-meta project](https://gitlab.com/gitlab-com/support/support-team-meta).
-Using the linked template (Request Change), it will ensure you supply the
+[create a Requested Change issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Requested%20Change)
+in the [support-team-meta project](https://gitlab.com/gitlab-com/support/support-team-meta).
+Using the linked template (Requested Change), it will ensure you supply the
 required information (DRI, problem statement, ways to measure success, etc.),
 helping to speed the process along.
 
-### Issues and MRs
-The first step in constructing your change proposal is to create an issue or
-a MR to describe your proposal and invite discussion.
+This issue is used for presenting the problem that you are working to solve, for hosting
+a discussion around that topic, and for documenting the testing phase.
 
-#### Issue
-Until you know what change you are proposing, and so can open a MR, use an
-issue for presenting the problem that you are working to solve and for hosting
-a discussion around that topic. An issue is especially useful during the
-testing phase.
-
-#### MR
 As soon as possible, create the MR(s) to present the actual proposed changes.
-Include at least the following in the MR:
+
+Include at least the following in the MRs:
 * The decision and the reasoning behind it (such as data and test results
   that led to the decision)
 * Summarize the testing, both what tests were run and what the results were
@@ -96,9 +88,8 @@ Include at least the following in the MR:
 *NOTE: If there's any part of the proposed changes that cannot be presented through
 a MR, place the information in the issue instead.*
 
-### Communicating a Local Change
-Even for a change that you’ve determined will be local, inform the leadership
-team. Put it as an “inform” item in the agenda for the next
+### Communicating a Local Change Proposal
+Inform the leadership team as an “inform” item in the agenda for the next
 [leadership sync meeting](/handbook/support/managers/#organization-of-support-leadership-meetings).
 Why?
 * Someone else might have a suggestion for you
@@ -106,8 +97,7 @@ Why?
 * It aligns well with our Transparency value
 
 ### Communicating a Global Change Proposal
-Once you’ve determined that your intended change must be global, engage the
-leadership team in a conversation through your issue and through a full agenda
+Engage the leadership team in a conversation through your issue and through a full agenda
 topic in the [leadership sync meeting](/handbook/support/managers/#organization-of-support-leadership-meetings):
 * Describe the problem you’re working to solve
 * Let the team know if you are the DRI, or are seeking a DRI
@@ -149,10 +139,13 @@ there is a cost and always be sensitive to disrupting existing workflows:
 ## Standard Timelines
 For future iterations:
 
-Do we want to have standard timelines for certain steps in a rollout?
-* Initial discussion length
-* Days from rollout start to adoption complete
-Do we want to weigh the impact of changes to ensure that we aren't changing too many complex things at once?
+1. Do we want to have standard timelines for certain steps in a rollout?
+    * Initial discussion length
+    * Days from rollout start to adoption complete
+
+1. Do we want to weigh the impact of changes to ensure that we aren't changing too many complex things at once?
+
+
 ## Rolling Out a Change
 
 ### Roles in Change Management
