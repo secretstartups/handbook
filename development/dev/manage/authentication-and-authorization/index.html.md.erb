@@ -16,11 +16,12 @@ title: "Authentication and Authorization Group"
 
 The Authentication and Authorization group is a central piece to the GitLab product! While many groups focus on single area - like the repository view, or the merge request view, this group has a much broader impact on many areas. Because of this, there are some key topics that we keep on our mind more than other groups might:
 
-**Security issues**
+
+#### Security issues
 
 Bypassing permissions and authentication mechanisms are, by nature, common security targets. We closely watch new security issues and schedule them as quickly as possible based on their [due date](/handbook/engineering/security/#due-date-on-security-issues). For planning security issues we use [the (filtered) milestone planning issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/4260654?label_name%5B%5D=devops%3A%3Amanage&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&label_name%5B%5D=bug%3A%3Avulnerability). We expect all team members to be able to resolve security issues.
 
-**Code Review**
+#### Code Review
 
 Because this group works on components of the application that have a [far-reaching impact](/handbook/engineering/development/#reducing-the-impact-of-far-reaching-work), we take these extra steps in order to reduce our risk of a production incident:
 
@@ -75,9 +76,13 @@ We plan in monthly cycles in accordance with our [Product Development Timeline](
   * After estimation, Product should make any needed adjustments to the proposed scope based on estimates. At this stage, any issues that the team is committing to delivering should have the ~Deliverable label applied to them by the engineering manager. Other issues should be labeled as ~Stretch.
 
 
+#### Estimation process
+
 Before work can begin on an issue, we should estimate it first after a preliminary investigation. If the scope of work of a given issue touches several disciplines (docs, design, frontend, backend, etc.) and involves significant complexity across them, consider creating separate issues for each discipline (see [an example](https://gitlab.com/gitlab-org/gitlab/-/issues/9288)).
 
-When estimating development work, please assign an issue an appropriate weight:
+After the PM creates a [planning issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/?sort=due_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&first_page_size=20) for the next release, the quad will gather a prioritized list of issues that should be considered. The EM will then create a "breakdown" issue with a checklist of issues that need to be estimated ([example](https://gitlab.com/gitlab-org/manage/authentication-and-authorization/discussion/-/issues/45)). All Engineers from the group should be assigned to that issue and participate in weighting or breaking down the list.
+
+When estimating development work, please add the appropriate weight to the issue:
 
 | Weight | Description (Engineering) |
 | ------ | ------ |
@@ -89,18 +94,13 @@ When estimating development work, please assign an issue an appropriate weight:
 
 We do not provide estimates greater than 8. If an issue is bigger, we will split the issue or reduce its scope.
 
-##### Estimation process
-
-After the PM creates a [planning issue](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/?sort=due_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&first_page_size=20) for the next release, the quad will gather a prioritized list of issues that should be considered. The EM will then create a "breakdown" issue with a checklist of issues that need to be estimated ([example](https://gitlab.com/gitlab-org/manage/authentication-and-authorization/discussion/-/issues/45)). All Engineers from the group should be assigned to that issue and participate in weighting or breaking down the list.
-
-
-If the issue has weight 5 or less the Engineer adding an estimate should also put the `~"workflow::ready for development"` label on it.
+If the issue has weight 5 or less, the Engineer adding an estimate should also put the `~"workflow::ready for development"` label on it.
 
 If the issue has weight more than 5 (or 5 but it seems it might be split into multiple issues) the Engineer will suggest how to split it. If the Engineer is clear about the splitting they should proactively split the issue themself, put estimations on the child issues and leave a comment on the parent one. If it results to multiple issues, creating an epic should be considered.
 
 When an Engineer is done with their estimates they should ask another team member to review their weight. This makes it harder to miss a significant aspect of an issue. If the first Engineer is confident (eg. has deep expertise in the problem or the issue is trivial) they can skip this step.
 
-###### Purpose of Estimation
+##### Purpose of Estimation
 
 Our purpose of estimation is to confirm that we
 
@@ -152,7 +152,7 @@ You can read more about this process on the [handbook page](/handbook/cross-func
 
 Although we try to plan as described above, we  understand that there is always a risk to the ideal ratios due to unexpected high priority security, infradev, and escalation issues.
 
-## Meetings
+### Meetings
 
 Although we have a bias for asynchronous communication, synchronous meetings are necessary and should adhere to our [communication guidelines](/handbook/communication/#video-calls). Some regular meetings that take place in Manage are:
 
@@ -167,7 +167,7 @@ Agenda documents and recordings can be placed in the [shared Google drive](https
 
 All meetings and 1-1's should have an agenda prepared in advance. If this is not the case, you are not obligated to attend the meeting. Confirm if the meeting should be canceled if there is not an agenda by the start time of the meeting.
 
-## Group Members
+### Group Members
 
 Auth group members who are part of the [Authentication and Authorization group](https://gitlab.com/groups/gitlab-org/manage/authentication-and-authorization/) can be `@` mentioned on GitLab with `@gitlab-org/manage/authentication-and-authorization`.
 
@@ -175,14 +175,14 @@ The following people are permanent members of the group:
 
 <%= stable_counterparts(role_regexp: /Manage:Authentication and Authorization/) %>
 
-## Dashboards
+### Dashboards
 
 - [SAML SSO Usage](https://app.periscopedata.com/app/gitlab/636494/Dev:-Manage:-Access-SAML-SSO-Usage)
 - [Backend overview](https://app.periscopedata.com/app/gitlab/695525/Manage::Access-Backend-Overview)
 - [Usage ping](https://app.periscopedata.com/app/gitlab/857665/Manage:Access---Usage-Ping)
 - [Error Budget](https://dashboards.gitlab.net/d/stage-groups-detail-authentication_and_a/stage-groups-authentication-and-authorization-group-error-budget-detail?orgId=1&from=now-2d&to=now)
 
-## Links and resources
+### Links and resources
 {: #links}
 
 <%= partial("handbook/engineering/development/dev/manage/shared_links.erb") %>
