@@ -107,7 +107,6 @@ Other best practices for POV’s:
 - Required capabilities should be a limited number, 5 or less ideally - these should be purchase triggers and differentiators
 - Please work together(SA & SAL) to map required capabilities to decision criteria in the COM plan
 - A POV does not implement a fully designed and configured ecosystem in a customer environment, it is a product evaluation
-- Customer skills should be able to support the drive toward the success criteria - the SA should not be doing the actual work
 
 Below is best practice guidance for conducting each type of POV. These processes share a similar goal of meeting identified business outcomes for the customer, but they vary based on engagement style, POV duration, location and intensity. The following applies to all POV's:
 
@@ -153,7 +152,7 @@ POV-related calls may be recorded with customer consent. Recordings may be store
 There are multiple options when executing a POV. The POV type chosen should reflect the wishes and best fit for the customer. POV types, in order of usage frequency, include:
 
 - **Guided** - This is the most common POV for Enterprise customers, comprising the majority of all customer experiences, typically lasting between 14 and 45 days, though it may be extended in some circumstances up to 60 days.
-- **Lite** - This type of POV is most commonly used for Commercial opportunities requiring minimal touch points throughout the POV. It is also commonly utilized when a customer has their own POV process which must be adhered to.
+- **Lite** - This type of POV is used exclusively for Commercial opportunities requiring minimal touch points throughout the POV. This is not to be used for Enterprise "guided trials."
 - **On-site** - This less common type is an intense, condensed POV typically executed on the client premises within a tight evaluation window (typically 1 week).
 - **Paid** - Rarely, a prospect pays GitLab for a long duration evaluation of the software (typically exceeding 60 days).
 
@@ -254,7 +253,7 @@ The objective of the daily(regularly cadenced) meetings will be:
 
 The Paid POV is less common than other types of POV's. These will commonly have duration greater than 60 days, and the customer will pay for usage of GitLab for the duration of the POV. Before this type of POV can begin, it requires a GitLab prorated licensing purchase to be completed. These POV's are marked by regular touch points and consistent interaction over time without requiring full time dedication to the GitLab evaluation on behalf of the customer. This type of POV will commonly have a larger ecosystem focus, where the value of GitLab is dependent on interactions with other tools and environments within the client's ecosystem. It is common to have kickoff meetings, technical support calls, cadenced retrospective calls and POV conclusion calls similar to those identified for a Guided POV.
 
-### Lite POV
+### Lite POV - Exclusive to Commercial
 
 When a prospect has an internal POV process to follow, or when time is of the essence, a Lite POV is utilized.
 
