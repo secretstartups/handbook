@@ -25,6 +25,28 @@ description: Home Page for Support's Ginkgo Group
 
 ## Ginkgo workflows and processes
 
+### Ticket workflow
+
+#### FRT Stage
+
+Aim to grab a ticket from the FRT stage and become the DRI for that ticket. If you do not have capacity to take on assignment, or if the customer would benefit from having the ticket handled by another region, send out an FRT and ask in the group channel if another group member can become DRI – or at least add themselves to the CCs and help assume collective responsibility for moving the ticket forward.
+
+#### NRT Stage
+
+There are several variables that can be taken into consideration when deciding how to get involved with tickets in the NRT stage. As a general rule, we default to [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) and all its operating principles. 
+
+For documentation purposes, the following table was devised as a reference guideline:
+
+```
+| Breached | Assignee           | Action                                                                                                                 |
+|----------|--------------------|------------------------------------------------------------------------------------------------------------------------|
+| No       | has an assignee    | No action needed, any ideas can (and should be) posted as an internal or field note                                    |
+| No       | no assignee or OOO | You are strongly encouraged to take it, or at least contribute with a public reply, or ideas in the form of notes      |
+| Yes      | has an assignee    | Feel free to contribute however you see fit, having in mind the ongoing discussion (we don't want to repeat ourselves) |
+| Yes      | no assignee or OOO | You are strongly encouraged to take assignment, or at least reply to the customer to avoid further breach	         | 
+
+```
+
 ### Daily Pairing Sessions
 
  - EMEA/AMER friendly pairing sessions are held every weekday from 14:30 to 15:30 UTC.
