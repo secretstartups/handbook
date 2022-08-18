@@ -497,7 +497,36 @@ Other points to consider for the Package group member:
 * If some aspects of the merge request become a high priority task (for example, a bug fix) and the work from the community contributor is less active or stalled, consider suggesting that you will extract this part to a small merge request to get it implemented as quickly as possible.
   * The other aspects with less priority can still be worked out by the community contributor.
 
+##### Deliverable issues
 
+An issue that has the `~Deliverable` label is expected to be completed within the assigned milestone. However, if a community member wants to work on that issue, it may seem unfair to assign the issue to them and expect them to deliver the changes by a given date.
+In this scenario, the team member co-assigned to the issue will be responsible for working with the community contributor to try to deliver the changes needed in time.
+If at any point in time the MR is stale or the contributor is unresponsive, the team member will follow the [taking over a community merge request](https://docs.gitlab.com/ee/development/code_review.html#taking-over-a-community-merge-request) process outlined in the contributing guidelines.
+
+If a community member acknowledges that they still want to work on a `~Deliverable` issue
+in the current or next milestone, the team will discuss and decide 
+whether or not this will effect the ability to ship the issue in the scheduled milestone.
+To prevent these situations, the best action we can take is to proactively remove the
+`~Accepting contributions` label when we schedule an issue as a deliverable.
+ 
+Three actions could be taken:
+
+1. We kindly let the community contributor know that this issue needs to be 
+   completed by internal team members.
+2. We allow the community contributor to work on the issue but let them know 
+   that an internal team member may need to take over the MR at some point to 
+   ensure it ships on time.
+3. We decide it is ok for this issue to slip, allow the community contributor 
+   to work on the issue, and remove the `~Deliverable` label.
+
+If a community member has been working on a previously unscheduled issue that we would
+like to schedule, we should do our best to make option (2.) work. If either option (1.)
+or (2.) is taken, we should ensure the community contributor receives recognition for their
+work.
+
+For issues that are not scheduled as deliverables, we may still schedule reviews 
+and support for the community contributor in the given milestone, but without 
+committing to delivering it in a specific time frame.
 
 ### Returning from PTO
 
