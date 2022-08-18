@@ -60,7 +60,7 @@ An Executive Sponsor can be any leader at GitLab who is at VP level or above. Th
 - An executive sponsor does not have to be a member of the underrepresented group but has the capacity to be an ally to the group
 - Be able to offer a time commitment to the TMRG both sync and async
 - Have the capacity to learn more about the underrepresented group if they are unfamiliar with the needs of the group
-- Have taken the [psychological safety course](https://gitlab.edcast.com/journey/psychological-safety-understanding-empowerment-and-self-r) 
+- Have taken the [psychological safety course](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/courses/psychological-safety-understanding-empowerment-and-self-reflection) 
 
 **Choosing an Executive Sponsor:**
 
