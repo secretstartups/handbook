@@ -922,6 +922,33 @@ featured:
 
 If you’re looking for information about speaking at an events head over to our [Corporate Marketing page](/handbook/marketing/corporate-marketing/#speakers) for complete details.
 
+### Paying for Speaker travel 
+At times, GitLab may offer to pay for a person's travel if they will be speaking about their usage of GitLab at an event. 
+
+There is no contract that needs to be in place in order for payment to happen. The GitLab team member should do the following:
+
+#### Option A 
+ 
+1. Ensure that the expense is accounted for in a line items within (Allocadia)[/handbook/marketing/strategy-performance/allocadia/]. The spend type should default to what was selected at the `Sub-Category` level. 
+1. Open a [Coupa virtual card](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/#what-is-virtual-card) for the amount of money you believe will need to be on the card to account for the trip. 
+   * Take into consideration airfare, car service, hotel stay, and dining. 
+   * Ensure you've added the correct Allocadia ID to the virtual card. 
+1. Once the virtual card has been created, share the card number with the speaker and ask that the speaker use this card for all travel related items where possible. 
+   * Also recommend to the speaker to add the virtual card to their digital wallet that will allow them to tap and pay from their mobile device without having a physical card. 
+1. Supporting documentation - could be an email that confirms this person will travel for GitLab - should be uploaded for the Coupa card to be created.  
+
+##### Hotel stay 
+While we would like for the hotel to be secured using the Coupa Virtual Card as well, at times a hotel may ask for a physical card to be provided upon check-in for incidentals. The speaker may either present their own card and then apply for reimbursement OR a GitLab team member may provide their own credit card. 
+
+If the GitLab team member provides their own card, then the expense should be accounted for in the following way upon submitting the expense report: 
+1. Category = Marketing Field Events OR Brand Marketing - depending on if you are in Field Marketing vs. another group in marketing - by selecting one of these categories, it puts the expense in the program spend bucket vs. the employee travel bucket within the financial systems. 
+1. Classification = MUST add the Allocadia ID that has been created in Netsuite for this event 
+
+#### Option B 
+The speaker would like to pay for everything themselves and would like for GitLab to reimburse them. 
+
+In this case the speaker will need to complete a [reimbursement form](https://docs.google.com/spreadsheets/d/1CxJMQ06GK_DCqihVaZ0PXxNhumQYzgG--nw_ibPV0XA/edit#gid=0) and submit with receipts back to GitLab. GitLab will pay immediately upon receipt. 
+
 ## Virtual Events
 
 - See [virtual event best practices guide](/handbook/marketing/virtual-events/#best-practices). Includes best practices for running a virtual event, tips for speakers, attendees, partners, and speakers.
