@@ -207,7 +207,7 @@ The process above will work for an event with multiple partners driving to it. M
 These campaigns follow their own processes not found on the campaigns-and-programs page. 
 
 ### Step 1: Clone Marketo program (TBC)
-- Clone [Marketo Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG9881D4)
+- Clone [Marketo Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG11842A1)
 - Update the name to match the naming convention YYYYMMMDD__MDF Partner Name_Event Name
 
 ### Step 2: Sync Program to SFDC
