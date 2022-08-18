@@ -303,20 +303,21 @@ We love collaborating on work that drives our North Star and supporting metrics.
     <summary>Related Pages</summary>
     <ul>
       <li><a href="/handbook/marketing/digital-experience/data-dictionary/">Data Attribute Dictionary</a></li>
+      <li><a href="/handbook/marketing/digital-experience/buyer-experience-repository/">Buyer Experience Repository</a></li>
       <li><a href="/handbook/marketing/digital-experience/digital-definitions/">Digital Definitions</a></li>
       <li><a href="/handbook/marketing/digital-experience/engineering-ab-tests/">Engineering AB Tests</a></li>
+      <li><a href="/handbook/marketing/digital-experience/engineering-gitlab-product/">Engineering GitLab Product</a></li>
       <li><a href="/handbook/marketing/digital-experience/engineering-marketo/">Engineering Marketo</a></li>
+      <li><a href="/handbook/marketing/digital-experience/figma/">Figma Process</a></li>
       <li><a href="/handbook/marketing/digital-experience/foundations-agenda/">Foundations Agenda</a></li>
       <li><a href="/handbook/marketing/digital-experience/writing-description-templates/">How to Write Templates</a></li>
       <li><a href="/handbook/marketing/digital-experience/image-guidelines/">Image Guidelines</a></li>
       <li><a href="/handbook/marketing/digital-experience/marketo-page-template/">Marketo Page Template</a></li>
+      <li><a href="/handbook/marketing/digital-experience/navigation-repository/">Navigation Repository</a></li>
+      <li><a href="/handbook/marketing/digital-experience/onetrust-cookie-consent/">OneTrust Implementation</a></li>
       <li><a href="/handbook/marketing/digital-experience/slippers-design-system/">Slippers Design System</a></li>
       <li><a href="/handbook/marketing/digital-experience/video-bands/">Video Bands</a></li>
       <li><a href="/handbook/marketing/digital-experience/website/">Website</a></li>
-      <li><a href="/handbook/marketing/digital-experience/figma/">Figma Process</a></li>
-      <li><a href="/handbook/marketing/digital-experience/onetrust-cookie-consent/">OneTrust Implementation</a></li>
-      <li><a href="/handbook/marketing/digital-experience/buyer-experience-repository/">Buyer Experience Repository</a></li>
-      <li><a href="/handbook/marketing/digital-experience/engineering-gitlab-product/">Engineering GitLab Product</a></li>
     </ul>
 </details>
 <details>
