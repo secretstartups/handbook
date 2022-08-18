@@ -18,7 +18,6 @@ This handbook page is meant to support both learners and administrators in Level
 
 # Contribute to Level Up
 <!-- blank line -->
-
 At GitLab, [everyone can contribute](/company/mission/#mission). Read below about how to contribute to Level Up.
 
 ### Why contribute?
@@ -56,7 +55,7 @@ For questions not answered below, reach out in the #learninganddevelopment Slack
 
 # Administrator Resources
 
-## Training Resources
+## Training
 <!-- blank line -->
 1. The Thought Industries [Academy](https://academy.thoughtindustries.com/) includes self-paced training and support articles. Access the academy by clicking the `Need Help` button on the left side bar when logged into Thought Industries and scroll down to `Learn More in the Academy`
 1. Admin in Level Up can use the `Help Center` to report technical problems with platform directly to Thought Industries.
@@ -132,7 +131,6 @@ It's important to add captions to videos whenever possible. The steps below outl
      4. Paste in a short amount of text.
      5. Watch it back. You can easily edit the captions (they are listed all together below the video window) so it’s not hard to adjust and make them fit.
      
-
 ### Custom Content Fields
 <!-- blank line -->
 The Custom Content Field requirements for internal courses can be found [here](https://docs.google.com/spreadsheets/d/1zPJu3PSr40Xa5dUEe6Wj1Sm8gUkQpJG-NwUybxJOMfE/edit#gid=587118744) for GitLab team members. To add a new field, navigate to `Settings` -> `Content` -> `Organization and Display`. 
@@ -142,7 +140,6 @@ The Custom Content Field requirements for internal courses can be found [here](h
 Add custom content fields directly to each course in the `Design` tab.
 
 ![Adding custom content field in Thought Industries](course-content.jpg){: .medium.center}
-
 
 Please review the **application rules** and **best practices** below:
 
@@ -158,6 +155,10 @@ Please review the **application rules** and **best practices** below:
 1. All custom content fields and sub fields are case sensitive - avoid mistakes like `Communication`, `Communications`, `Communicating`
 1. Wherever possible, use existing custom content fields and sub fields as opposed to creating new ones
 1. Review [TI support docs](https://support.thoughtindustries.com/hc/en-us/articles/360046307213-Using-Custom-Fields-vs-Curated-Categories) when questions arise
+
+### Share a course link externally
+
+1. Add `https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=` immediately before a course link to direct users to the course page after signing in via SSO.
 
 
 
