@@ -503,6 +503,21 @@ When creating a follow-up issue for required tests:
 
 As a group, we strive to meet the [Severity Service Level Objective](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity-slos) of bugs. We regularly review all bugs and prioritize issues with a `~missed-SLO` label and those approaching SLO (Service Level Objective) through our weekly [Triage Report](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#group-level-bugs-features-and-ux-debt).
 
+### Features 
+
+When we build new features, in line with our Iteration value, we aim for an MVC that covers the core aspect of the feature. 
+Then we create issues with `~feature::enhancement` label to iterate on the remaining functionality. The more a new feature is used, the more missing functionality eventually can be perceived as bugs by the users.
+
+We use `severity::1`, `severity::2`, `severity::3` and `severity::4` labels with `~feature::enhancement` to classify the impact of those issues to prevent them from becoming `~type::bug`.
+We use the list below as a guideline to grade the impact.
+
+| Label         | Definition           | Description |
+|---------------|----------------------|-------------|
+| `severity::1` | Blocking or Critical | The enhancement is critical to the core of the feature. The feature is currently incomplete or extra action is required. |
+| `severity::2` | High                 | Some important aspects of the feature are missing but the feature delivers value. However the missing behavior can make the feature appear buggy. |
+| `severity::3` | Medium               | The feature works ok but the enhancement is required under less common scenarios. |
+| `severity::4` | Low                  | The feature works fine and the improvement aims to improve customer satisfaction. |
+
 ### Technical debt
 
 We track our technical debt using the following [Pipeline Execution Technical Debt issue board](https://gitlab.com/groups/gitlab-org/-/boards/1438885), where we track issues in the planning phase.
