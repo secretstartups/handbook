@@ -14,6 +14,30 @@ description: "Documentation about all of our systems and processes that impact t
 
 The Buyer Experience encompasses all of the systems, processes and interactions that influence the experience of a person purchasing and managing a GitLab subscription. This includes customer-facing tools and services, such as the GitLab webstore and Customer Portal, as well as internal processes that impact the customer experience, such as the contracting process and billing. 
 
+### Buyer Experience Group (BEG)
+
+The GitLab Buyer Experience Group (BEG) is comprised of leadership from Sales, Revenue Operations, Billing, Product and Pricing. This unified team evaluates new strategic initiatives, develops necessary processes and ultimately operationalizes changes to the Buyer Experience.
+
+This team evaluates all initiatives and makes prioritization decisions based on the impact to the Buyer of the GitLab product. This Buyer interacts with unique areas of the product (webstore, customers portal, marketplaces, reseller portals) and a range of functions (internal sales, billing, support, resellers). To properly prioritize initiatives to improve their GitLab experience we need a group of decision makers with a broad view into these tools and our operations.
+
+### Core Team Members
+1. Eli Krohn: VP Revenue Operations
+1. James Harrison: Sr. Director Sales Operations
+1. Colleen Farris: Sr. Director Channel Operations
+1. Justin Farris: Sr. Director Product Monetization
+1. Omar Fernandez: Director of Product, Fulfillment
+1. Sarah McCauley: Director of Billing & AR
+1. TBD, Q2C Process Owner
+
+### Extended Team Members
+1. Keith Cheung, Sr Dir Pricing 
+1. Jack Brennan, Sr Dir Sales Systems
+1. Jesse Rabbits: Sr. Manager Deal Desk & Order Management
+1. Jerome Ng, Sr eng Mgr Fulfillment: Jerome
+1. Alix Tucker, VP GTM FP&A
+1. TBD, Field Enablement
+1. TBD, Support Leader
+
 ## Roadmap
 
 * [Order-to-Cash Roadmap (Internal)](https://docs.google.com/spreadsheets/d/17IfBrltEWM49z6__NxbyuYkqdIWRAdqIJ6_UHgOa0no/edit#gid=1276538540)
