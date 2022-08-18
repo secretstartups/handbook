@@ -96,9 +96,12 @@ See the [example epics](https://about.gitlab.com/handbook/people-group/engagemen
 
 ## FY'23 Q2 Pulse Engagement Survey Results
 
-Our Pulse Engagement Survey FY'23 Q2 ran from 2022-05-16 to 2022-05-25. The survey was opened to team members hired before 2022-04-30. We reached 82% participation and an overall engagement score of 81% favorable.
-We scored 4% lower than we did in the FY'22 Q4 Engagement Survey overall, but this score is still 8% higher than our New Tech peer group, which consists of ~150 fast growing and disruptive tech companies who have ~1000+ total team members.
-Amongst our SaaS Talent Peers of 1000+ team members - engagement scores are decreasing by 5-10% from pre to during-pandemic times. GitLab remains industry-leading from a scoring perspective.
+Our Pulse Engagement Survey FY'23 Q2 ran from 2022-05-16 to 2022-05-25. The survey was opened to team members hired before 2022-04-30. 
+
+1. We reached 82% participation and an overall engagement score of 81% favorable.
+1. We scored 4% lower than we did in the FY'22 Q4 Engagement Survey overall, but this score is still 8% higher than our New Tech peer group, which consists of ~150 fast growing and disruptive tech companies who have ~1000+ total team members.
+1. Amongst our SaaS Talent Peers of 1000+ team members - engagement scores are decreasing by 5-10% from pre to during-pandemic times. 
+1. GitLab remains industry-leading from a scoring perspective.
 
 Below you will find a summary of our overall results, as well as key insights and opportunities.
 
@@ -144,8 +147,7 @@ GitLab was rated up to 3% higher than the industry benchmark i.e. New Tech (1,00
 | -------- | -------------------- |
 | I have seen positive changes taking place based on recent team member survey results | 54% |
 | I believe my Compensation (Base, Bonus, etc.) is competitive relative to similar roles at other companies | 62% |
-| I believe action will take place as a result of this survey
- | 64% |
+| I believe action will take place as a result of this survey| 64% |
 
 GitLab scored 4% higher than the industry benchmark i.e. New Tech +1,000 2022 for the lowest scoring question surrounding positive actions, 9% higher than the benchmark regarding compensation and 2% higher regarding actions taken from the survey.
 
