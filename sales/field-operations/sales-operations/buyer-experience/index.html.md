@@ -28,6 +28,7 @@ This team evaluates all initiatives and makes prioritization decisions based on 
 1. Omar Fernandez: Director of Product, Fulfillment
 1. Sarah McCauley: Director of Billing & AR
 1. TBD, Q2C Process Owner
+1. TBD, Enterprise Applications
 
 ### Extended Team Members
 1. Keith Cheung, Sr Dir Pricing 
