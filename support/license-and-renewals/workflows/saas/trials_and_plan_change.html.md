@@ -37,6 +37,10 @@ If any fields when opening the ticket were filled out incorrectly,  send a publi
    2. If there is an error while taking action, check the internal issue to see what went wrong. Please also locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors.html#searching-sentry) if needed) and file an issue, or comment on an existing one.
 4. If namespace needs to be adjusted manually, then raise a new internal issue with details and  `~Console Escalation::Customers` label.
 
+## Extend an existing active or expired subscription
+
+This is done via the Mechanizer tool through [Manage GitLab Plan and Trials](../customersdot/mechanizer.html#manage-gitlab-plan-and-trials). 
+
 ## Applying a trial to a namespace with an active subscription
 
 > [As of 2022-07-01](https://gitlab.com/gitlab-com/support/managers/change-management/-/issues/10), Support won't act on any request for trials on top of plans.

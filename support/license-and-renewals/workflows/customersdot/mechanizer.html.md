@@ -42,9 +42,9 @@ Associates a group with a subscription. All fields are required.
 - **Namespace**: The customer namespace as it appears in the URL.
 - **Subscription ID**: The unique ID of the purchased subscription in Salesforce
 
-### Update GitLab Subscription or Customer Trial
+### Manage GitLab Plan and Trials
 
-Manages subscriptions and trials, you can use it for the following cases.
+Updates GitLab Subscription or customer trial. You can use it for the following cases:
 
 1. Downgrade to Free
 1. Trials
