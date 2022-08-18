@@ -105,7 +105,7 @@ As a SaaS company, our Engineering division also has an [infrastructure SRE team
 * [Engineering Security](/handbook/engineering/security/)
 * [Finance Systems](/handbook/business-technology/enterprise-applications/financeops/)
 * [Marketing Operations](/handbook/marketing/marketing-operations/#-tech-stack)
-* [People Experience](/handbook/people-group/people-experience-team/)
+* [People Connect](/handbook/people-group/people-connect/)
 * [People Group Engineering](/handbook/people-group/engineering/)
 * [Sales Systems](/handbook/sales/field-operations/sales-systems/)
 
