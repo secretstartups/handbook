@@ -125,7 +125,7 @@ is required.
 
 Once one has been received, the process will go as follows:
 
-1. Email `people-exp@gitlab.com` the following:
+1. Email `people-connect@gitlab.com` the following:
    * Subject: US Citizenship Verification Request
    * Body:
      > Greetings all!
