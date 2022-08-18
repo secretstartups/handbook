@@ -51,7 +51,11 @@ We have four separate trainings, but you only need to complete **one** of them. 
 
 If a Team Member moves from an individual contributor role to a manager role, they will be assigned a New Manager Enablement issue to work through. In this issue, it will be verified if they have completed the correct level of harassment prevention training. If the team member has completed the "Team Member" level of the training, they will have to take the "Supervisor" level of the training as well.
 
-If you accidently click on multiple courses, please reach out to the Learning & Development team in the `#learninganddevelopment` slack channel so we can work with WILL Interactive to update on the backend. 
+If you accidentally click on multiple courses, please reach out to the Learning & Development team in the `#learninganddevelopment` slack channel so we can work with WILL Interactive to update on the backend. 
+
+### Uploading Your Completion Certificate Into Workday
+
+When finished with harassment prevention training, follow the [instructions](https://docs.google.com/document/d/1FDUdF9AxiRGHh8v9k1zkVL_5-kWUR9JGgv4AfdyvGeU/edit) to upload your completion certificate into Workday by using the guide link on the [Workday Guide handbook page](https://about.gitlab.com/handbook/people-group/workday/workday-guide/#workday-guides). In the Comment section, enter WILL Interactive Anti-Harassment Certificate.
 
 ### Guidelines by State 
 
