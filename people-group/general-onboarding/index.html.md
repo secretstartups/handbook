@@ -20,7 +20,7 @@ All onboarding steps are in the [onboarding issue template](https://gitlab.com/g
 
 At GitLab we take great pride in [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding) our own product, that is why all onboarding tasks are completed in a GitLab issue. First of all, what is an issue? You can learn more about what an issue is [here](https://docs.gitlab.com/ee/user/project/issues/).
 
-The People Experience Associate assigned to the team members specific onboarding will [open](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#onboarding-issue-creation) the onboarding issue at least 4 days prior to the hire date.
+The People Connect Specialist assigned to the team members specific onboarding will [open](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#onboarding-issue-creation) the onboarding issue at least 4 days prior to the hire date.
 
 Each onboarding issue has a main section that contains tasks relevant to all GitLab team-members and a due date of 30 days. Below the main section are department and role-specific tasks. Some roles and departments have tasks that link to a supplemental issue template or an additional onboarding page.  Reach out to your [onboarding buddy](/handbook/people-group/general-onboarding/onboarding-buddies/) or other GitLab team members if you need help understanding or completing any of your tasks.
 
@@ -51,7 +51,7 @@ General Topics Covered
 - Questions from the new team members
 
 ### Sending out the TaNEWki Call Invite:
-- Invites are sent by the People Experience Associate. This email should be sent out at least one week before the call.
+- Invites are sent by the People Connect Specialist in the respective rotation. This email should be sent out at least one week before the call.
 1. Open the Ta"NEW"ki Folder located People Experience/Ops Shared Drive>People Experience>Ta"NEW"ki Call
 1. Update the google form to include the next two TaNEWki call dates (EMEA and AMER times)
 1. Use this [email template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/tanewki_welcome_call.md)
@@ -77,15 +77,15 @@ By default, all new team members are added to the below Slack channels from day 
 
 ## Managers of New Team Members
 
-An issue is created for new team members at least 4 business days prior to their start date. The Manager and a People Experience Associate will be assigned to this issue. **Managers, People Experience and IT Ops** all have tasks that need to be completed **prior to the start date** to ensure a smooth and successful onboarding process. For questions or help with any of these tasks feel free to reach out in the issue by mentioning `@people-exp` or adding a question in the `#people-connect` Slack channel.
+An issue is created for new team members at least 4 business days prior to their start date. The Manager and a People Connect Specialist will be assigned to this issue. **Managers, People Connect Specialist and IT Ops** all have tasks that need to be completed **prior to the start date** to ensure a smooth and successful onboarding process. For questions or help with any of these tasks feel free to reach out in the issue by mentioning `@people-exp` or adding a question in the `#people-connect` Slack channel.
 
 ### <i class="fas fa-tasks fa-fw color-orange font-awesome"></i>Compliance
 
 The [Senior People Connect Specialist](https://about.gitlab.com/job-families/people-ops/people-operations/) completes a monthly audit of all open onboarding issues to ensure that the new team member, manager and People Connect team tasks are completed. More importantly, there are certain tasks which need to be completed  in line with our company compliance (security, payroll, etc).
 
-If any tasks are still outstanding, the People Experience Associate will ping the relevant members on the issue requesting action on the items or checking whether the issue can be closed.
+If any tasks are still outstanding, the People Connect Specialist will ping the relevant members on the issue requesting action on the items or checking whether the issue can be closed.
 
-*It remains the responsibility of the People Experience Associate to close the issue and remain compliant.*
+*It remains the responsibility of the People Connect Specialist to close the issue and remain compliant.*
 
 The employment bot will automatically close any onboarding issues still open after 60 days.
 
@@ -106,54 +106,10 @@ These templates are used by the People Connect team to onboard new team members.
 - [Intern](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_intern_engineering.md)
 
 #### <i class="fas fa-suitcase fa-fw color-orange font-awesome"></i>Role Specific Templates
+All onboarding related employment templates (country and role based) can be found in the [public repository](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/.gitlab/issue_templates/onboarding_tasks)
 
-These are added to the "All Team Member" Template
 
-- [People Managers](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/people_manager.md)
-- [Engineering, such as Developers, Build, Infrastructure, etc.](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#for-engineering-such-as-developers-build-infrastructure-etc-only)
-- [Development](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_development.md)
-- [Production and Database Engineering](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#production-and-database-engineering)
-- [Database Engineering](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#database-engineering)
-- [Support](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_customer_support.md)
-- [Product Design](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_ux/role_product_designer.md)
-- [Product Design Managers](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_ux/role_manager_product_design.md)
-- [Frontend Engineering](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#frontend-engineers)
-- [Product Management](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_product_management.md)
-- [UX Research](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_ux/role_ux_researcher.md)
-- [Marketing Design](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#marketing-design)
-- [Security](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_security.md)
-- [Finance](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_finance.md)
-- [Legal](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_legal.md)
-- [People Success](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_people_success.md)
-- [Talent Acquisition](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_talent-acquisition.md)
-- [Core Team members](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/core_team_onboarding.md)
-- [Technical Writers](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_ux/role_technical_writer.md)
-- [Marketing non-SDR](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#marketing-department-non-sdr-roles)
-- [Sales Development Representatives](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#for-outbound-sdrs-only)
-- [Commercial Sales](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_commercial_sales.md)
-- [Enterprise Sales](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_enterprise_sales.md)
-- [Customer success](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_customer_success.md)
-- [Channel](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_channel.md)
-- [Alliances](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_alliances.md)
-- [Business Operations](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_business_operations.md)
-- [Demand Generation](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_demand_generation.md)
-- [Technical Account Manager](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_customer_success/role_technical_account_manager.md)
 
-#### Country Specific Templates
-- [Australia](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_australia.md)
-- [Belgium](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_belgium.md)
-- [Canada](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_canada.md)
-- [Germany](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_germany.md)
-- [Hungary](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_hungary.md)
-- [India](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_india.md)
-- [Ireland](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_ireland.md)
-- [Japan](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/before_starting_japan.md)
-- [Netherlands](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_netherlands.md)
-- [New Zealand](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_new_zealand.md)
-- [Nigeria](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_nigeria.md)
-- [South Africa](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_south_africa.md)
-- [United Kingdom](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_united_kingdom.md)
-- [United States](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_united_states.md)
 
 ### Supplemental onboarding issue templates
 
