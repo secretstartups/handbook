@@ -58,6 +58,22 @@ The below criteria will be marked as complete when we close the working group, a
 - [ ] Execute on mulit-modal communication plan (documented below)
 - [ ] Feedback is gathered, considered, and incorporated as appropriate by the DRI for each respective area [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13694)
 
+#### Phased Rollout of the remaining exit criteria
+We're phasing the rollout of the remaining exit criteria. This approach limits the surface area of changes to a single stage allowing us to rapidly iterate and reduce the churn of changes on all of R&D. 
+
+**Phase 1: Create Completes all Exit Criteria by the September Create PI Review**
+1. Includes driving Undefined MRs to 0
+1. Includes driving Undefined Issues to 0
+1. Includes applying the correct sub-types for MRs
+1. Applies to issues/MRs in 15.3 and 15.4 - optional to go back further than 15.3
+
+As part of Phase 1 we'll actively review input and feedback from Create. Primarily Darva Satcher (Dir of Eng), Sarah Waldner (Create GPM), Marcel van Remmerden (UX Manager), and Ramya Authappan (QEM) and iterate prior to moving to Phase 2.
+
+**Phase 2: Roll out to every stage/section by October PI reviews**
+Essentially all of phase one, including any iterations for all stages/sections. 
+
+Note: This does not preclude other stages beyond create to complete the exit criteria prior to October. Many teams are self-activating. For example, Wayne has activated Secure and David has asked all of PLT to begin to adopt this for their PI reviews. We'll focus the working group's energy in phase one on Create. 
+
 ### Roles and Responsibilities
 
 | Working Group Role    | Person                                               | Title                                                      |
