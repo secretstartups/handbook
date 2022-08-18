@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Trials and Plan Changes
-description: "How to handle GitLab.com subscription trials"
+title: Handling trials, extensions and plan changes on GitLab.com
+description: "How to handle GitLab.com subscription trials and plan changes"
 category: GitLab.com subscriptions & purchases
 ---
 
