@@ -50,20 +50,11 @@ Every user that is granted access to Tableau Online needs to [sign off](https://
 
 ### Tableau Online Access
 
-Users can request access by creating an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required and assigning it to the Data Collaboration Team. Follow the same steps as the ones to [access SAFE dashboards in Sisense](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/#accessing-a-safe-dashboard). Once approved, the Data Collaboration team will then send them an invitation via email to create a Tableau account and access [GitLab's Tableau Online](https://10az.online.tableau.com/#/site/gitlab/home) instance using MFA. Use the same authenticator application used for Slack, Google, and Gitlab.com as described in the [handbook]( https://about.gitlab.com/handbook/security/#accounts-and-passwords).
+Users can request access by creating an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required and assigning it to the Data Collaboration Team. AR Template is `coming soon`, in the meantime copy this [issue](https://gitlab.com/gitlab-data/analytics/-/issues/13864) in your request. 
 
-In the AR, the following needs to be provided:
-- Manager approval
-- [Sign off on acceptable use](https://gitlab.com/gitlab-data/analytics/-/issues/13742)
-- Does the user have access to SAFE data already? 
-- Does the user have prior experience with Tableau?
-- Does the user need access to eLearning?
-- Does the user need access to Tableau Desktop and/or Tableau Online?
-- Does the user have a use case defined (with success criteria) Is use case defined? Success criteria? - checkbox/label
+Once approved, the Data Collaboration team will then add the user to the `okta-tableau-users` [Google Group](https://groups.google.com/a/gitlab.com/g/okta-tableau-users), add the user in [Tableau Online](https://10az.online.tableau.com/#/site/gitlab/users) and assign the correct license, then add the user to the right [Tableau Group](https://10az.online.tableau.com/#/site/gitlab/groups). 
 
-Future access will be provided through Okta `(coming soon)`.
-
-### Tableau Status
+### Tableau Online Status
 
 To check the current status of Tableau Online and if there are any reported outages, visit the [Tableau Status Page](https://trust.tableau.com). On that page you can also sign up for notifications in the event of an outage. For reference, GitLab's Tableau Online instance is located in `United States - West - (10AZ)`.
 
@@ -79,47 +70,82 @@ Any user can download the desktop tools and start a 14-day free trial without li
 1. Open your Tableau Desktop and/or Tableau Prep Builder
 1. Search for Data > Tableau Server
 1. Quick Connect: Tableau Online
-1. Sign into Tableau Online - note: only users with active Creator licenses will be able to complete this step
+1. Log in to Okta - if Okta isn't set up for your account, login using your Tableau login & MFA. Note: only users with active licenses will be able to complete this step
 
 Alternatively, Account Owners in the Data Team assign a Creator License Code under the License or License section of the [Tableau Customer Portal](https://customer-portal.tableau.com/s/my-keys).
 
 ### Licenses
 
-GitLab has 120 user licenses available for the duration of the Tableau Pilot project.
+GitLab has 120 user licenses available for the duration of the Tableau Pilot project. These licenses can be reassigned during the pilot project.
 - 60 Creators: Full editor capabilities, including Data Modeling, Data Prep and Data Visualizations. 
 - 10 Explorers: Ability to edit Data Visualizations.
 - 50 Viewers: for Data Consumers, which includes the ability to filtering the data and the use of [Ask Data](https://www.tableau.com/about/blog/2021/6/tableau-release-ask-data-explain-data-viewers-collections) natural language querying. 
 
-GitLab also has 60 eLearning licenses available for Creators. 
+GitLab also has 60 eLearning credits available for Creators. These cannot be reassigned.
 
-The number of licenses is limited for the duration of the pilot, and is meant for teams working on specific use cases. The Data Team will unassign licenses by people who are not using it, or are in breach of the acceptable use policy listed above. Tableau account admins can access license codes through the [Tableau Customer Portal](https://customer-portal.tableau.com/s/)
+The number of licenses is limited for the duration of the pilot, and is meant for teams working on specific use cases. The Data Team will unassign licenses by people who are not using it, or are in breach of the acceptable use policy listed above. Tableau account admins can access license codes through the [Tableau Customer Portal](https://customer-portal.tableau.com/s/). eLearning credits cannot be reassigned, therefor will only be assigned for users who are committed to making the most use of them.
 
 ### Data Source Access
 
 **Using Tableau Online:**
-* Snowflake `(coming soon)`
+
+Snowflake:
+
+* Snowflake 
     * Service Account
+        * The Data Team has access to the credentials of the Tableau and Tableau restricted service accounts. The respective Snowflake roles to use for those accounts are `REPORTER` and `RESTRICTED_SAFE`. 
     * Virtual Connections
+        * Virtual Connections to PROD tables in Snowflake are stored in either the `Data Team - Connections` or `Data Team - SAFE Connections` project folders in Tableau Online and accessible to all users during the pilot.
     * Oauth
-* Google Docs `(coming soon)`
-* Manual Uploads (formats: xls/xlsx, csv, tsv, kml, geojson, topojson, json)
+        1. Home/Explore > New Workbook
+        1. Connectors > Snowflake
+            1. Fill in the following:
+                - Server: `gitlab.snowflakecomputing.com`
+                - Role: Your Snowflake username - you can find it in Snowflake in the top right section of your screen
+                - Authentication: `Sign in using OAuth`
+            1. Click on `Sign in`
+            1. Click on `Sign Sign On`
+            1. Log in to Okta
+            1. Click `Allow`
+* Flat files (formats: xls/xlsx, csv, tsv, kml, geojson, topojson, json)
     1. Home/Explore > New > Workbook
     1. Files > Drag and drop a file / Upload from computer
-
-
-**Using Tableau Desktop:**
-* Snowflake `(coming soon)`
-    * Through Tableau Online `(coming soon)`
-    * Directly through Oauth `(coming soon)`
 * Google Docs `(coming soon)`
-* Manual Uploads (formats: xls/xlsx, csv, tsv, kml, geojson, topojson, json)
+
+
+**Using Tableau Desktop or Tableau Prep Builder:**
+
+* Snowflake 
+    1. Connect > To a Server > Snowflake
+    1. Fill in the following:
+        - Server: `gitlab.snowflakecomputing.com`
+        - Role: Your Snowflake username - you can find it in Snowflake in the top right section of your screen
+        - Authentication: `Sign in using OAuth`
+    1. Click on `Sign in`
+    1. It should open a browser tab. Click on `Sign Sign On`
+    1. Log in to Okta
+    1. Click `Allow`
+    1. Your browser tab should display the following message: `Tableau created this window to authenticate. It is now safe to close it.`
+    1. Close your browser tab and continue in Tableau Desktop
+* Data Sources published in Tableau Online
+    1. Connect > Search for Data > Tableau Server
+    1. Quick Connect > Tableau Online
+    1. Log in to Okta - if Okta isn't set up for your account, login using your Tableau login & MFA
+    1. Pick a published data source or virtual connection
+* Flat files (formats: xls/xlsx, csv, tsv, kml, geojson, topojson, json)
     1. Home/Explore > New > Workbook
     1. Files > Drag and drop a file / Upload from computer
+* Google Docs `(coming soon)`
 
 
 ### Dashboard Access
 
-`coming soon`
+In keeping with the GitLab value of [Transparancy](https://about.gitlab.com/handbook/values/#transparency), all data sources and workbooks in Tableau are visible to all users during the pilot, unless a specific use cases requires making an exception. All users will treat content as [Sisense SAFE dashboard space](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/). 
+
+Only Creators belonging to the corresponding teams can publish in their respective project folders:
+* Department/Team Name - Sandbox: For all WIP/Draft workbooks, data connections and flows. Sub-project folders can be created where needed.
+* Department/Team Name - Production: For all production workbooks, data connections and flows. Sub-project folders can be created where needed.
+* Department/Team Name - Restricted: For all workbooks, data connections and flows that should have access restricted to a smaller audience. Currently, only members of that Department/Team can access the contents.
 
 ## Tracking Usage
 
@@ -137,6 +163,7 @@ Unused licenses will be reclaimed by the data team.
 * [Free Training](https://www.tableau.com/learn/training/20222)
 * [Training Portal](https://elearning.tableau.com/)
     * Request Access Code from Data Team. Account Owners in the Data Team can find the Access Code under the eLearning section of the [Tableau Customer Portal](https://customer-portal.tableau.com/s/my-elearning).
+    * If you experience any issues accessing the training content, check [this page](https://support.skilljar.com/hc/en-us/articles/360033553054) for solutions to the most common problems.
 * [Tableau Community](https://community.tableau.com/s/)
 * [Tableau Support](https://www.tableau.com/support)
 
