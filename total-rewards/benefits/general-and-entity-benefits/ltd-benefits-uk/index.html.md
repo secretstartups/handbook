@@ -159,7 +159,7 @@ If an employee does not meet these criteria then they will be considered an **En
 
 The following process is followed by GitLab People Operations to join the Scheme during onboarding:
 
-*  During onboarding, the People Experience Associate Team informs Vistra Payroll of a new hire that joined the company in the UK.
+*  During onboarding, the People Connect Team informs Vistra Payroll of a new hire that joined the company in the UK.
 *  Once Vistra payroll has this information, the employee will be set up on the payroll and added to the pension file for Scottish Widows in preparation to be uploaded.
 *  The pension file is sent to Scottish Widows around the end of 6th of each month and will include any joiners/changes/leavers from the previous month’s payroll run. For example everyone who has been included on the pension file in October (the cut off is 20th October) Scottish Widows will be notified around 6th November
 *  Any employee who joins after 20th or has not been included on the pension file will be picked up in the following month’s file.
