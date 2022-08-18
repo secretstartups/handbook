@@ -406,7 +406,7 @@ We suggest each person attend via their own device to avoid [hybrid meetings](/h
 
 ## Archiving Content
 
-If an agenda document becomes longer than 10 pages, the People Experience or People Specialist team member assigned to moderate a meeting will archive the content that is over the first 10 pages. All agenda docs should be checked and archived as needed before the meeting date and time.
+If an agenda document becomes longer than 10 pages, the EBA assigned to moderate a meeting will archive the content that is over the first 10 pages. All agenda docs should be checked and archived as needed before the meeting date and time.
 
 - Create a Google doc with the same permissions as the doc from which you will be archiving content.
 - Name the new doc the same title as the original, with the word `Archive` at the end.
