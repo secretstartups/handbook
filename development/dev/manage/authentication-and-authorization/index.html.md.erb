@@ -19,7 +19,7 @@ The Authentication and Authorization group is a central piece to the GitLab prod
 
 #### Security issues
 
-Bypassing permissions and authentication mechanisms are, by nature, common security targets. We closely watch new security issues and schedule them as quickly as possible based on their [due date](/handbook/engineering/security/#due-date-on-security-issues). For planning security issues we use [the (filtered) milestone planning issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/4260654?label_name%5B%5D=devops%3A%3Amanage&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&label_name%5B%5D=bug%3A%3Avulnerability). We expect all team members to be able to resolve security issues.
+Bypassing permissions and authentication mechanisms are, by nature, common security targets. We closely watch new security issues and schedule them as quickly as possible based on their [due date](/handbook/engineering/security/#due-date-on-security-issues). For planning security issues we use [the (filtered) milestone planning issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/4260654?label_name%5B%5D=devops%3A%3Amanage&label_name%5B%5D=group%3A%3Aauthentication%20and%20authorization&label_name%5B%5D=bug%3A%3Avulnerability). We expect all team members to be able to resolve security issues following the [security release process](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#security-releases-critical-non-critical-as-a-developer).
 
 #### Code Review
 
@@ -54,8 +54,6 @@ Application Security will be involved in our security issue workflow and should 
 - [If you want to confirm whether something should be kept confidential](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/merge_requests/1110#note_1038994941)
 - [Confirming whether or not something is considered a vulnerability](https://gitlab.com/gitlab-org/gitlab/-/issues/364526#note_1041178738)
 - [Collaborating on feature proposals to see if they have any security implications](https://gitlab.com/gitlab-org/gitlab/-/issues/227841#note_1025940760)
-
-
 
 #### Keeping yourself informed
 
@@ -118,8 +116,11 @@ Engineers should assign issues to themselves based on the [current release](http
 1. `workflow::in dev` - we are looking at the issue, and are either actively investigating, have begun development, or have a draft merge request open
 1. `workflow::in review` - a merge request has been submitted and reviews have been requested
 1. `workflow::verification` - the work has merged, and needs to be verified by the assignee, assignee will close it once verifying everything works as expected
+1. `workflow::awaiting security release` - (security MRs only) the work is complete, just pending [backports](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#backports).
 
 Development should not begin on an issue before it's been estimated and given a weight.
+
+Issues with the `workflow::verification` or `workflow::awaiting security release` labels are, for the purposes of release planning, the same as closed issues, because the dev work is complete.
 
 ##### Labels and how we use them
 
@@ -179,7 +180,7 @@ The following people are permanent members of the group:
 
 - [SAML SSO Usage](https://app.periscopedata.com/app/gitlab/636494/Dev:-Manage:-Access-SAML-SSO-Usage)
 - [Backend overview](https://app.periscopedata.com/app/gitlab/695525/Manage::Access-Backend-Overview)
-- [Usage ping](https://app.periscopedata.com/app/gitlab/857665/Manage:Access---Usage-Ping)
+- [Usage ping (includes OAuth usage)](https://app.periscopedata.com/app/gitlab/857665/Manage:Access---Usage-Ping)
 - [Error Budget](https://dashboards.gitlab.net/d/stage-groups-detail-authentication_and_a/stage-groups-authentication-and-authorization-group-error-budget-detail?orgId=1&from=now-2d&to=now)
 
 ### Links and resources
