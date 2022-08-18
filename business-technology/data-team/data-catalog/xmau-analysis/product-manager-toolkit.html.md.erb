@@ -28,7 +28,7 @@ exhaustive, and is mainly based on the feedback, questions, and tasks we receive
 from PMs. All of these snippets will be explained with detailed examples on how to change them 
 and adapt them to your own needs. These are mainly focused on Self-Managed data from Service Ping.
 
-If you prefer to learn by doing, we provide [a documented example SiSense dashboard](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations) 
+If you prefer to learn by doing, we provide [a documented example Sisense dashboard](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations) 
 that you can check out, and most charts include documentation in their SQL edit view to help 
 you customize them. You can look at the code used to generate the charts. The code has some 
 extra guidelines commented out that will help you better understand how the given snippet works 
@@ -64,7 +64,7 @@ The `[td_xmau]` snippet allows you to:
 * [Break down estimated xMAU by product tier](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690026&udv=0)
 * [Create a chart with estimated usage for any PI](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10787341&udv=0)
 
-#### Usage
+**Usage**
 
 The `[td_xmau]` snippet requires 5 parameters: `user_segment`, `xmau_type`, `filter`, `target`, 
 and `estimation_grain`.
@@ -73,12 +73,12 @@ and `estimation_grain`.
 1. **xmau_type:** one of the xMAU types ('GMAU', 'SMAU', 'CMAU', 'UMAU') or 'PI'
 1. **filter:** the metric(s) you want included in the chart. This value is dependent on the xMAU 
 type. The inputted value should be lowercase with underscores in the place of spaces.
-  * 'GMAU' --> 'group_name'
-  * 'SMAU' --> 'stage_name'
+  * 'GMAU' --> 'group_name' or 'All'
+  * 'SMAU' --> 'stage_name' or 'All'
   * 'CMAU' --> 'section_name' or 'All'
   * 'UMAU' --> 'All'
   * 'PI' --> 'metrics_path' 
-1. *target*: the target to draw for this metric 
+1. **target**: the target to draw for this metric 
     * If you set a target value in the performance indicator yaml file ([as described below](#how-to-show-dynamic-targets-from-pi-yaml-files)), 
     then that value will be used (you can enter any number here)
     * If you provide a number between 0 and 1, the target will increase MoM by that percentage. 
@@ -86,49 +86,18 @@ type. The inputted value should be lowercase with underscores in the place of sp
       * Ex: 0.1 will yield a target that is a 10% increase from the previous month's total
     * If you provide an integer, that number will be the fixed target line
 1. **estimation_grain:** The estimation methodology you want to use
-  * 'metric/version check - subscription based estimation' (This is what was used in legacy reporting)
+  * 'metric/version check - subscription based estimation' (This is our "official" methodology and what was used in legacy reporting)
   * 'metric/version check - seat based estimation'
   * 'reported metric - subscription based estimation'
   * 'reported metric - seat based estimation'
   * More details about the different estimation_grains on the [Self-Managed Estimation Algorithm handbook page](/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html#current-methodologies)
 
-#### Examples
+**Examples**
 
 * [Paid Protect SMAU](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690032&udv=0): `[td_xmau('Paid', 'SMAU', 'protect', 0.1, 'metric/version check - subscription based estimation')]`
 * [Total Web IDE Editors](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10787341&udv=0): `[td_xmau('All', 'PI', 'usage_activity_by_stage_monthly.create.action_monthly_active_users_web_ide_edit', 0, 'metric/version check - seat based estimation')]`
 * [Total Plan SMAU](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690035&udv=0): `[td_xmau('All', 'SMAU', 'create', 0.1, 'metric/version check - subscription based estimation')]`
 * [Total Dev CMAU](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690026&udv=0): `[td_xmau('All', 'CMAU', 'dev', 5, 'metric/version check - subscription based estimation')]`
-
-#### Forecasted xMAU
-
-With a few minor adjustments, you can edit this snippet to forecast your PI growth over time. 
-Check out [this video](https://www.youtube.com/watch?v=NmLb8eI6gtY) on how to get started.
-
-- Edit the chart in SiSense.
-- Below the query, expand the dropdown next to Python 3.7 and select `Predictive Forecast Plot`. 
-- Next you'll need to edit the snippet to update the names of a couple of fields. You can 
-reference the [query used in this chart to forecast Package stage GMAU](https://app.periscopedata.com/app/gitlab/805350/Package:-User-Adoption-and-Growth?widget=12924753&udv=0) 
-(also displayed below)
-- Now you are ready to click `Run SQL`
-- Then scroll down and click `Run Python`
-- Save the chart.
-- Happy forecasting!
-
-``` sql
-WITH forecast AS (
-  
-  [td_xmau('All', 'GMAU', 'package', 0.1, 'metric/version check - subscription based estimation')]
-
-)
-
-SELECT  
-  reporting_month AS ds_month,
-  SUM(mau_value) AS y_value
-FROM forecast
-WHERE mau_value > 0 
-  AND stage_name = 'All'
-GROUP BY 1
- ```
 
 ### Recorded Monthly Metric Value: [td_xmau_metrics_recorded_metric_value(metrics_path)]
 
@@ -142,7 +111,7 @@ The resulting dataset will enable you to break down recorded usage by:
 * edition
 * product_tier
 
-#### Usage
+**Usage**
 
 The `[td_xmau_metrics_recorded_metric_value]` snippet requires 1 parameter: `metrics_path`.
 
@@ -155,27 +124,79 @@ You can add a target value to the chart by adding a `target_name` and a
 If a target value is not provided in the performance indicator yaml file, a target will not 
 appear on the chart.
 
-#### Example
+**Example**
 
-* [td_xmau_metrics_recorded_metric_value: Metric Value split by delivery](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10999660&udv=0): 
+* [td_xmau_metrics_recorded_metric_value: Metric Value split by product tier](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10999660&udv=0): 
 `[td_xmau_metrics_recorded_metric_value('redis_hll_counters.issues_edit.g_project_management_issue_moved_monthly')]`
 
 ### Recorded Monthly Metric Value Change with Total: [td_xmau_metrics_recorded_metric_value_with_total(metrics_path)]
 
 This snippet extends `td_xmau_metrics_recorded_metric_value` with a total line.
 
-#### Usage
+**Usage**
 
-You can [find the `metrics_path` used for this snippet as described above](#usage-1).
+The `[td_xmau_metrics_recorded_metric_value_with_total]` snippet requires 1 parameter: `metrics_path`.
 
-### Original Monthly Metric Value: [td_xmau_metrics_original_metric_value(metrics_path)]
+1. **metrics_path:** the Service Ping metric of interest
+  * You can find the metrics_path value in the [Service Ping metrics dictionary](https://metrics.gitlab.com/)
 
-This snippet is a variation of `td_xmau_metrics_recorded_metric_value` that shows to original 
-metric, instead of a change from the previous period.
+**Example**
 
-#### Usage
+* [td_xmau_metrics_recorded_metric_value_with_total: Metric Value split by edition](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=14866036&udv=0): 
+`[td_xmau_metrics_recorded_metric_value_with_total('redis_hll_counters.issues_edit.g_project_management_issue_moved_monthly')]`
 
-You can [find the `metrics_path` used for this snippet as described above](#usage-1).
+### Original Monthly Metric Value: [td_xmau_metrics_original_metric_value_with_total(metrics_path)]
+
+This snippet is a variation of `td_xmau_metrics_recorded_metric_value_with_total` that shows the 
+original value (as it appears in the Service Ping payload), instead of a change from the previous 
+period. For 28-day metrics, this will return the same results as the 
+`td_xmau_metrics_recorded_metric_value_with_total` snippet.
+
+**Usage**
+
+The `[td_xmau_metrics_original_metric_value_with_total]` snippet requires 1 parameter: `metrics_path`.
+
+1. **metrics_path:** the Service Ping metric of interest
+  * You can find the metrics_path value in the [Service Ping metrics dictionary](https://metrics.gitlab.com/)
+
+### Recorded Weekly Metric Value: [td_xmau_metrics_weekly_recorded_metric_value(metrics_path)]
+
+The `[td_xmau_metrics_weekly_recorded_metric_value]` snippet shows you the recorded (non-estimated) 
+value of any of your 7-day metrics implemented in Service Ping.
+
+The resulting dataset will enable you to break down recorded usage by:
+
+* delivery (SaaS vs Self-Managed)
+* edition
+* product_tier
+
+**Usage**
+
+The `[td_xmau_metrics_weekly_recorded_metric_value]` snippet requires 1 parameter: `metrics_path`.
+
+1. **metrics_path:** the Service Ping metric of interest
+  * You can find the metrics_path value in the [Service Ping metrics dictionary](https://metrics.gitlab.com/)
+
+**Example**
+
+* [td_xmau_metrics_weekly_recorded_metric_value: Metric Value split by product tier](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=15240707&udv=0): 
+`[td_xmau_metrics_weekly_recorded_metric_value('redis_hll_counters.user_packages.i_package_npm_user_weekly')]`
+
+### Recorded Weekly Metric Value with Total: [td_xmau_metrics_weekly_recorded_metric_value_with_total(metrics_path)]
+
+This snippet extends `td_xmau_metrics_weekly_recorded_metric_value` with a total line.
+
+**Usage**
+
+The `[td_xmau_metrics_weekly_recorded_metric_value_with_total]` snippet requires 1 parameter: `metrics_path`.
+
+1. **metrics_path:** the Service Ping metric of interest
+  * You can find the metrics_path value in the [Service Ping metrics dictionary](https://metrics.gitlab.com/)
+
+**Example**
+
+* [td_xmau_metrics_weekly_recorded_metric_value_with_total: Metric Value split by edition](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=15240714&udv=0): 
+`[td_xmau_metrics_weekly_recorded_metric_value_with_total('redis_hll_counters.user_packages.i_package_npm_user_weekly')]`
 
 ### Monthly Active Instance Count: [td_xmau_metrics_instance_count(metrics_path)]
 
@@ -186,13 +207,16 @@ feature (returned a `metric_value > 0`) in a given month. This count is broken o
 * ping_edition
 * ping_product_tier 
 
-#### Usage
+**Usage**
 
-You can [find the `metrics_path` used for this snippet as described above](#usage-1).
+The `[td_xmau_metrics_instance_count]` snippet requires 1 parameter: `metrics_path`.
 
-#### Example
+1. **metrics_path:** the Service Ping metric of interest
+  * You can find the metrics_path value in the [Service Ping metrics dictionary](https://metrics.gitlab.com/)
 
-* [Number of Instances using CI Pipelines by Edition](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10755606&udv=0)
+**Example**
+
+* [Number of Instances using CI Pipelines by Edition](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10755606&udv=0): `[td_xmau_metrics_instance_count('usage_activity_by_stage_monthly.verify.ci_pipelines')]`
 
 ### Monthly Metrics Instance Adoption: [td_xmau_metrics_instance_adoption(breakdown, metrics_path)]
 
@@ -200,7 +224,7 @@ The snippet `[td_xmau_metrics_instance_adoption]` can be used to find out instan
 adoption of your features. It provides you the count and share of instances reporting 
 `metric_value > 0` for a specific Service Ping metric.
 
-#### Usage 
+**Usage**
 
 The `[td_xmau_metrics_instance_adoption]` snippet requires 2 parameters:
 
@@ -214,66 +238,79 @@ quotes. (Ex: use `ping_edition`, not `'ping_edition'`). Here are some example br
 1. **metrics_path:** the Service Ping metric of interest. This value _should_ be put in single 
 quotes. (Ex: use `'usage_activity_by_stage_monthly.release.deployments'`, not `usage_activity_by_stage_monthly.release.deployments`)
 
-#### Examples
+**Examples**
 
-* [td_xmau_metrics_instance_adoption - issues by ping_edition](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10766391&udv=0)
-* [td_xmau_metrics_instance_adoption - issues by ping_product_tier](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10776817&udv=0)
+* [td_xmau_metrics_instance_adoption: Issues by ping_edition](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10766391&udv=0): `[td_xmau_metrics_instance_adoption(ping_edition, 'usage_activity_by_stage_monthly.plan.issues')]`
+* [td_xmau_metrics_instance_adoption: Issues by ping_product_tier](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10776817&udv=0): `[td_xmau_metrics_instance_adoption(ping_product_tier, 'usage_activity_by_stage_monthly.plan.issues')]`
 
 ### Top 50 Instances Last Month: [td_xmau_metrics_top_users(metrics_path)]
 
 The `[td_xmau_metrics_top_users]` snippet returns a list of the Top 50 Self-Managed instances 
 using your specific feature last month. 
 
-#### Usage
+**Usage**
 
-You can [find the `metrics_path` used for this snippet as described above](#usage-1).
+The `[td_xmau_metrics_top_users]` snippet requires 1 parameter: `metrics_path`.
 
-#### Example
+1. **metrics_path:** the Service Ping metric of interest
+  * You can find the metrics_path value in the [Service Ping metrics dictionary](https://metrics.gitlab.com/)
 
-* [Top 50 Users - MAU triggering deployments](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10768540&udv=0)
+**Example**
 
-#### Instances with biggest MOM usage increase: [td_xmau_metrics_increasing_usage_users(metrics_path)]
+* [Top 50 Users - MAU triggering deployments](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10768540&udv=0): `[td_xmau_metrics_top_users('usage_activity_by_stage_monthly.release.deployments')]`
+
+### Instances with biggest MOM usage increase: [td_xmau_metrics_increasing_usage_users(metrics_path)]
 
 The snippet renders a list of Top 50 Self-Managed Instances who have seen their monthly usage grow 
 the most in the last completed month.
 
-#### Usage
+**Usage**
 
-You can [find the `metrics_path` used for this snippet as described above](#usage-1).
+The `[td_xmau_metrics_increasing_usage_users]` snippet requires 1 parameter: `metrics_path`.
 
-#### Example
+1. **metrics_path:** the Service Ping metric of interest
+  * You can find the metrics_path value in the [Service Ping metrics dictionary](https://metrics.gitlab.com/)
 
-* [Top 50 Users with increasing usage - MAU triggering deployments](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10741403&udv=0)
+**Example**
 
-#### Instances with biggest MOM usage decrease: [td_xmau_metrics_decreasing_usage_users(metrics_path)]
+* [Top 50 Users with increasing usage - MAU triggering deployments](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10741403&udv=0): `[td_xmau_metrics_increasing_usage_users('usage_activity_by_stage_monthly.release.deployments')]`
+
+### Instances with biggest MOM usage decrease: [td_xmau_metrics_decreasing_usage_users(metrics_path)]
 
 The `[td_xmau_metrics_decreasing_usage_users]` snippet returns a list of Top 50 Self-Managed 
 instances who have seen their monthly usage decrease the most in the last completed month. 
 
-#### Usage
+**Usage**
 
-You can [find the `metrics_path` used for this snippet as described above](#usage-1). 
+The `[td_xmau_metrics_decreasing_usage_users]` snippet requires 1 parameter: `metrics_path`.
 
-#### Example
+1. **metrics_path:** the Service Ping metric of interest
+  * You can find the metrics_path value in the [Service Ping metrics dictionary](https://metrics.gitlab.com/)
 
-* [Top 50 Users with decreasing usage - MAU triggering deployments](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10768538&udv=0)
+**Example**
+
+* [Top 50 Users with decreasing usage - MAU triggering deployments](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10768538&udv=0): `[td_xmau_metrics_decreasing_usage_users('usage_activity_by_stage_monthly.release.deployments')]`
 
 ### Monthly change breakdown: [td_xmau_monthly_change_breakdown(metrics_path)]
 
-The `[td_xmau_monthly_change_breakdown]` snippet 
-Would like to be able to explain the growth/decrease of a specific monthly metric value? Have we 
-seen big instances churning? Or just a overall decrease of usage due to some seasonality?
+The `[td_xmau_monthly_change_breakdown]` snippet enables you to better understand the 
+growth/decrease of a specific monthly metric value by breaking usage into 4 buckets:
 
-#### Usage
+1. Decreased Usage: Comparing Month M with M-1, lower usage of a feature (for example, less users opening an issue)
+1. Increased Usage: Comparing Month M with M-1, higher usage of a feature (for example, more users opening an issue)
+1. New tracked instance: We haven't seen this instance reporting this feature counter before. That means either it is a new instance, or it just upgraded from an older version that didn't have the counter
+1. No data received: An instance stopped reporting (it could be because of expiring subscription, churn, or disabling of service ping)
 
-You can [find the `metrics_path` used for this snippets as described above](#usage-1). 
+**Usage**
 
-#### Example
+The `[td_xmau_monthly_change_breakdown]` snippet requires 1 parameter: `metrics_path`.
 
-Using the [td_xmau_monthly_change_breakdown] you will be able to create a chart that looks like this:
-The snippet allows you to quickly see the number of tracked instances with decreasing, increasing usage or newly added by month.
+1. **metrics_path:** the Service Ping metric of interest
+  * You can find the metrics_path value in the [Service Ping metrics dictionary](https://metrics.gitlab.com/)
 
-Example chart: [Monthly breakdown change - Issues](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10768920&udv=0)
+**Example**
+
+[Monthly breakdown change - Issues](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10768920&udv=0): `[td_xmau_monthly_change_breakdown('usage_activity_by_stage_monthly.plan.issues')]`
 
 ## Other snippets, tips, and tricks
 
@@ -281,23 +318,23 @@ Example chart: [Monthly breakdown change - Issues](https://app.periscopedata.com
 
 The following snippets support adding dynamic target values from performance indicator yaml files:
 
-- `td_xmau`
-- `td_xmau_metrics_recorded_metric_value`
-- `td_xmau_metrics_recorded_metric_value_with_total`
-- `td_xmau_metrics_original_metric_value`
+* `td_xmau`
+* `td_xmau_metrics_recorded_metric_value`
+* `td_xmau_metrics_recorded_metric_value_with_total`
+* `td_xmau_metrics_original_metric_value`
 
-#### Usage
+**Usage**
 
 Adding the `target_name`, `monthly_recorded_targets`, `monthly_estimated_targets` keys to a 
 performance indicator yaml file, shows the provided target values for the provided metric name.
 
-- `target_name`: The target name should equal to the `metrics_path` used in the snippet
-- `monthly_estimated_targets`: is a list of `"key": value` pairs where `key` is the target date 
+* `target_name`: The target name should equal to the `metrics_path` used in the snippet
+* `monthly_estimated_targets`: is a list of `"key": value` pairs where `key` is the target date 
 to reach the target `value`
-- `monthly_recorded_targets`: is a list of `"key": value` pairs where `key` is the target date 
+* `monthly_recorded_targets`: is a list of `"key": value` pairs where `key` is the target date 
 to reach the target `value`
 
-#### Example
+**Example**
 
 Having the following code snippet in a performance indicator yaml:
 
@@ -315,6 +352,37 @@ Having the following code snippet in a performance indicator yaml:
     "2020-07-01": 700
 ...
 ```
+
+### Forecasted xMAU
+
+You can leverage the `[td_xmau]` snippet to forecast your PI growth over time. Check out 
+[this video](https://www.youtube.com/watch?v=NmLb8eI6gtY) on how to get started.
+
+* Edit the chart in SiSense.
+* Below the query, expand the dropdown next to Python 3.7 and select `Predictive Forecast Plot`. 
+* Next you'll need to edit the snippet to update the names of a couple of fields. You can 
+reference the [query used in this chart to forecast Package stage GMAU](https://app.periscopedata.com/app/gitlab/805350/Package:-User-Adoption-and-Growth?widget=12924753&udv=0) 
+(also displayed below)
+* Now you are ready to click `Run SQL`
+* Then scroll down and click `Run Python`
+* Save the chart.
+* Happy forecasting!
+
+``` sql
+WITH forecast AS (
+  
+  [td_xmau('All', 'GMAU', 'package', 0.1, 'metric/version check - subscription based estimation')]
+
+)
+
+SELECT  
+  reporting_month AS ds_month,
+  SUM(mau_value) AS y_value
+FROM forecast
+WHERE mau_value > 0 
+  AND stage_name = 'All'
+GROUP BY 1
+ ```
 
 <!--- TO DO - update this section once these snippets are refactored
 
