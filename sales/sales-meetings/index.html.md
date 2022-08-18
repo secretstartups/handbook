@@ -73,15 +73,18 @@ You can view previous updates in the "Group Conversation Sales" (previously "Fun
 ## Quarterly Business Reviews
 For a full overview of the QBR planning and execution process, QBR request tracking, best-practices for organizers and attendees, and where to find past QBR content, [see here](/handbook/sales/qbrs). 
 
-## WW GTM Field Update
-This update takes place after each GitLab quarterly earnings call and is meant to give Field team members a summary of activities and results across key go-to-market (GTM) functions. The meeting includes updates from: 
-- Sales 
-- Product
-- Marketing
-   - General Marketing 
-   - Revenue Marketing 
-   - Strategic Marketing 
+## Sales, Marketing, Product QBR & Recognition (QBR&R) Call
+(Previously called the GTM Field Update.) The QBR&R call takes place after each GitLab quarterly earnings call. The goal of this call is to:
+1. Recognize and thank Field team members for their contributions to GitLab's success
+1. Celebrate the wins and learn from the misses as a team
+1. Drive transparency and accountability across Sales, Marketing and Product, with all leaders sharing:
+   1. A review of the deliverables promised in the previous quarter and the status of achievement toward those deliverables 
+   1. The top 3 commitments from each division in the current quarter 
 
+The teams included on the invite for this call are: 
+1. Sales division
+1. Marketing division
+1. Product division 
 
 ## Focus Fridays
 The Field team practices Focus Fridays. The goal is to encourage all field team members to clear out their calendars on Fridays as much as possible in hopes that this will help all of us be more efficient, allow space within our weeks for focused work, and reduce potential burnout. Guidance for Focus Fridays includes:  
