@@ -109,9 +109,9 @@ That's all there is to it! Thanks for your help welcoming the newest GitLab team
 
 ## Procedures
 
-### Onboarding Buddies Procedures for People Experience
+### Onboarding Buddies Procedures for People Connect
 
-1. Open a new issue for the Onboarding/Career Mobility Buddy Quarterly raffle using the available [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/quarterly_onboarding_buddy_winner.md). This allows the People Experience Associates to track the progress of outstanding tasks and iterations.
+1. Open a new issue for the Onboarding/Career Mobility Buddy Quarterly raffle using the available [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/quarterly_onboarding_buddy_winner.md). This allows the People Connect Team to track the progress of outstanding tasks and iterations.
 1. Go through the relevant names in the OSAT Survey [results](https://docs.google.com/spreadsheets/d/1sAaQntIaQAnj8Z1NY6WRyQGRIyIoKa_6TratKWtScdo/edit#gid=63110344) and Career Mobility Survey [results](https://docs.google.com/spreadsheets/d/1rxrtgxZUrSVHwBj3ZGtn8UUDV32juBknlx6BKQBjHTE/edit#gid=1057162945) sheet.
 1. Create a new tab in the `Onboarding Buddy Raffle Names` [spreadsheet](https://docs.google.com/spreadsheets/d/17_DKxVvT277YnJcEnN-j4Th8I_WmSAUo9GJ4Znh_xPk/edit#gid=525713889) in Google Drive for the respective quarter and add the relevant onboarding buddy names.
 1. Make a comment in the top of the spreadsheet marking which rows from the survey results are being used.

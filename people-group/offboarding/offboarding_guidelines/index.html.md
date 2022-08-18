@@ -95,18 +95,6 @@ The Out of Office message will stay on the account for 90 days, aftewards ITOPs 
 IT Ops check if the team member has created any bots before disabling the account. Go to [Slack](https://gitlab.slack.com/apps/manage) or on your admin Slack profile click Menu >> Configure Apps >> Custom Integrations >> Bots and search through the bots' list for the team member.
 If a bot exists, please DM the manager to confirm if the bot should be removed.
 
-- Custom Emojis
-
-There is currently a task listed in the offboarding template for the People Experience Associate handling the offboarding to search for and remove any custom emoji for the offboarded team member. Herewith the steps to complete:
-
-1. Select the dropdown in Slack where it states GitLab
-1. Select Settings and Administration
-1. Customize GitLab
-1. Ensure that you are under the Emoji tab
-1. Search for the team members name 
-1. If there is a custom emoji, select the `x` next to the emoji listed to delete
-1. Select confirm to delete permanently from the GitLab Slack workspace
-
 #### Team Page
 
 As per the [automation](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#offboarding-merge-request) in place, a merge request is automatically created to remove the team member from the team page. This will update the following:
@@ -118,15 +106,15 @@ As per the [automation](https://about.gitlab.com/handbook/people-group/engineeri
 - Removing the pet page entry
 - Update the CODEOWNERS file: change to the manager or remove if the manager is already a codeowner for that file
 
-The People Experience Associate will need to complete:
+The People Connect Team member will need to complete:
 
 - Remove the team members ReadMe
 
 ### Offboarding Compliance
 
-The People Experience Associates in the relevant rotation will complete a weekly audit of all offboarding issues opened within that specific week and check that all tasks have been completed by all Team Member and/or Departments. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant Departments within the offboarding issue to call for tasks to be completed.
+The People Connect Team member in the relevant rotation will complete a weekly audit of all offboarding issues opened within that specific week and check that all tasks have been completed by all Team Member and/or Departments. In the event that tasks are still outstanding, the People Connect Team member will ping the relevant Departments within the offboarding issue to call for tasks to be completed.
 
-Once all tasks have been completed, the People Experience Associate will close the offboarding issue and mark as completed in the offboarding tracker.
+Once all tasks have been completed, the People Connect Team member will close the offboarding issue and mark as completed in the offboarding tracker.
 
 All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](/handbook/business-ops/tech-stack-applications/).
 

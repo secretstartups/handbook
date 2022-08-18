@@ -109,7 +109,7 @@ this applicant. Currently these candidates will need to be synced manually.
 
 ### Progress
 
-Currently the sync went through two iterations and has replaced most (but not all) manual work for the People Experience and Total Rewards teams.
+Currently the sync went through two iterations and has replaced most (but not all) manual work for the People Connect and Total Rewards teams.
 Open issues can be found [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=p-hiring-exception-tool).
 If you want to add another field to the sync, feel free to [create a new issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/new?issuable_template=Engineering_Request).
 

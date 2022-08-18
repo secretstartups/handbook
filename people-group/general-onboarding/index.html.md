@@ -77,7 +77,7 @@ By default, all new team members are added to the below Slack channels from day 
 
 ## Managers of New Team Members
 
-An issue is created for new team members at least 4 business days prior to their start date. The Manager and a People Connect Specialist will be assigned to this issue. **Managers, People Connect Specialist and IT Ops** all have tasks that need to be completed **prior to the start date** to ensure a smooth and successful onboarding process. For questions or help with any of these tasks feel free to reach out in the issue by mentioning `@people-exp` or adding a question in the `#people-connect` Slack channel.
+An issue is created for new team members at least 4 business days prior to their start date. The Manager and a People Connect Team member will be assigned to this issue. **Managers, People Connect and IT Ops** all have tasks that need to be completed **prior to the start date** to ensure a smooth and successful onboarding process. For questions or help with any of these tasks feel free to reach out in the issue or by adding a question in the `#people-connect` Slack channel.
 
 ### <i class="fas fa-tasks fa-fw color-orange font-awesome"></i>Compliance
 

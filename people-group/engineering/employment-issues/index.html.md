@@ -13,7 +13,7 @@ description: "Information on the commands used to create our onboarding, offboar
 
 ## Employment issues
 
-People Experience Associates make use of GitLab's [ChatOps](https://docs.gitlab.com/ee/ci/chatops/)
+People Connect Team members make use of GitLab's [ChatOps](https://docs.gitlab.com/ee/ci/chatops/)
 functionality to automate creation of Onboarding, Offboarding and Career Mobility issues. By executing a
 Slack command a pipeline is triggered in the `employment-automation` project, which runs the
 related job and replies with a link to the newly created issue.

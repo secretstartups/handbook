@@ -44,7 +44,7 @@ graph TD
 
 The onboarding issue creation is a semi-automated process. Meaning that it needs to be triggered by a People Connect team member to be started. A People Connect team member can make use of the `onboarding` Slack command to initiate the process.
 
-The onboarding issue will be automatically assigned to the People Experience Associate
+The onboarding issue will be automatically assigned to the People Connect Team member
 who ran the command and the incoming team member's Manager.
 
 The onboarding tasks that are applicable to all team members are listed in the
@@ -56,7 +56,7 @@ Role templates don't take seniority into level. For example SDR 1, 2, or 3 would
 
 If you receive a question from a manager about why a template was not linked in an onboarding issue, be sure to check the naming convention of the template and ensure everything matches up in Workday with the entity, division, department, etc. If everything looks like it's matched up, reach out to the People Group Engineer for additional assistance.
 
-Note: If a People Experience Associate needs to create the onboarding issue for interns, they can use the same Slack command.
+Note: If a People Connect Team member needs to create the onboarding issue for interns, they can use the same Slack command.
 
 This issue is added to the [team member's epic](/handbook/people-group/engineering/employment-issues#epics).
 
@@ -74,7 +74,7 @@ detailed breakdown and overview of the hiring process over time.
 
 While we create this message, we check if there are any team members that have
 "missing data". When they do, the message, is sent to `#peopleops-alerts`. This
-way, the People Experience associate, can make sure the data is added and run the `joiningannouncement` Slack command.
+way, the People Connect Team member, can make sure the data is added and run the `joiningannouncement` Slack command.
 
 When there is no missing data, the message is posted directly to `#team-member-updates`.
 
@@ -98,7 +98,7 @@ This will attempt to enable the Self Service feature of their BambooHR profile.
 
 ## Onboarding Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/email_templates) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-exp@domain`.
+This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/main/email_templates) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-connect@domain`.
 
 Every day we run 3 scheduled pipelines. They are each set up for a specific region:
 
@@ -119,11 +119,11 @@ We fetch some other data besides the region as well:
 - their onboarding issue URL
 - their name
 
-This data is used to populate the email that we then send to them. The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-exp@domain` as nobody monitors replies to `onboarding@`. The email address is strictly used for automation.
+This data is used to populate the email that we then send to them. The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-connect@domain` as nobody monitors replies to `onboarding@`. The email address is strictly used for automation.
 
 #### Manual Onboarding E-Mail
 
-If for some reason the e-mail could not be sent, we have added functionality for a People Experience Associate to be able to manually send this by running the `onboardingemail` Slack command.
+If for some reason the e-mail could not be sent, we have added functionality for a People Connect Team member to be able to manually send this by running the `onboardingemail` Slack command.
 
 This  triggers the following flow:
 ```mermaid
@@ -147,14 +147,14 @@ If changes are required to the onboarding email template, follow these steps to 
 
 ## Swag Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/email_templates/swag_email.md) that is sent on the first day of a new team member so they receive the code to get a discount at the swag store. The email is cc'd to `people-exp@domain`.
+This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/email_templates/swag_email.md) that is sent on the first day of a new team member so they receive the code to get a discount at the swag store. The email is cc'd to `people-connect@domain`.
 
 Every day at 9 AM UTC we run a scheduled pipeline. This pipeline will fetch all the eligible team members. An eligible team
 member means:
 
 - Team member who is on their first day of employment at GitLab
 
-The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-exp@domain` as nobody
+The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-connect@domain` as nobody
 monitors replies to `onboarding@domain`. The email address is strictly used for automation.
 
 
@@ -226,12 +226,12 @@ The merge request is assigned to the People Connect team and they set it to merg
 
 In the event we run into errors with the team page sync, we have some backup plans in place.
 
-In case team members did not fill in the required data, we won't be able to sync them. A People Experience Associate
+In case team members did not fill in the required data, we won't be able to sync them. A People Connect Team member
 can later on sync them by running the `teampageindividual` Slack command.
 
 This will spin up a pipeline and fetch the details. Note that if the team member was synced already, it will abort the sync.
 
-If the **entire** group of team members was missed, in the event of a failed pipeline or another error, a People Experience Associate can re-run the sync by using the `teampageweek` Slack command.
+If the **entire** group of team members was missed, in the event of a failed pipeline or another error, a People Connect Team member can re-run the sync by using the `teampageweek` Slack command.
 
 This will trigger a new pipeline and fetch the new team members of the provided week and create a new merge request adding them to the Team page.
 
