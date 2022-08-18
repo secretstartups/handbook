@@ -360,6 +360,12 @@ A team that is distributed across the globe creates opportunity for many celebra
 
 Teams can also arrange shared meals around the world. [Global pizza parties](/blog/2019/10/02/support-virtual-pizza-party/), for example, are possible to document and enjoy in a shared setting (Zoom or Slack), though one may wish to consider a breakfast pizza depending on time zone.
 
+## Social games
+
+![GitLab team in Luna Park live game show](/images/all-remote/luna_park_game_show_gitlab.jpg){: .shadow.medium.center}
+
+You can now bring peers or colleagues into online game shows through platforms like [Luna Park](https://golunapark.com/). Some social games are built for synchronous experiences, while on-demand games are more amenable to asynchronous engagement across time zones. 
+
 ## Virtual lunch table
 
 ![Cheers to a fantastic team](/images/all-remote/gitlab-zoom-happy-hour.jpg){: .shadow.medium.center}
