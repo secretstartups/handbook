@@ -46,7 +46,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Selected candidates will be invited to schedule a screening call with our Global Recruiters
 Next, candidates will be invited to schedule a first interview with our VP, People Operations
-Candidates will then be invited to schedule a second interview with our CPO, Sr. Director, People Experience, Sr. Director, IT Enterprise Applications
+Candidates will then be invited to schedule a second interview with our CPO, Director, People Operations, and Sr. Director, IT Enterprise Applications
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
