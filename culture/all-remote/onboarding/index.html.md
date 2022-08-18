@@ -40,7 +40,7 @@ Read more about GitLab's all-remote [onboarding process](https://about.gitlab.co
 Onboarding remotely should focus on [three key dimensions](https://hbr.org/2018/12/to-retain-new-hires-spend-more-time-onboarding-them): the organizational, the technical, and the social. By using this integrated approach, top companies enable their team members to stay and thrive in their roles. We'll show how you can focus on these three key dimensions of onboarding through an all-remote onboarding process.
 
 ### How to prepare for remote onboarding
-One way to begin creating social connections for new remote team members is to have them [added to a chat channel](https://about.gitlab.com/handbook/people-group/people-experience-team/#onboarding-cohort-creation). GitLab's `#new_team_members` Slack channel is a place for people to introduce themselves with photos and information about themselves and their interests. 
+One way to begin creating social connections for new remote team members is to have them [added to a chat channel](https://about.gitlab.com/handbook/people-group/general-onboarding/#slack-channel-support-for-new-team-members). GitLab's `#new_team_members` Slack channel is a place for people to introduce themselves with photos and information about themselves and their interests. 
 
 ### Organizational onboarding 
 
@@ -127,7 +127,7 @@ When [hiring in an all-remote organization](/company/culture/all-remote/hiring/)
 At GitLab, we believe the best way to operate is by [documenting](/company/culture/all-remote/management/#scaling-by-documenting) processes, guides, solutions, how-tos, and policies. Be sure to empower remote workers to  adopt [remote-first communication and workflow practices](/company/culture/all-remote/how-to-work-remote-first/).
 
 * **Identify employee concerns and answer questions.**
-GitLab is committed to [transparency](/handbook/values/#results). This value gives team members access to a great deal of visibility to what is going on throughout the organization. However, it does not negate the need to invite employees to ask questions.
+GitLab is committed to [transparency](/handbook/values/#transparency). This value gives team members access to a great deal of visibility to what is going on throughout the organization. However, it does not negate the need to invite employees to ask questions.
 
 * **Add some excitement.**
 In addition to the [incredible benefits of all-remote work](/company/culture/all-remote/benefits/), getting to network and interact with their team, whether remote or [in-person](/company/culture/all-remote/in-person/) is part of what makes work fun and exciting - especially in an all-remote [culture](/company/culture/). 
@@ -186,12 +186,12 @@ For new team members, this is even more crucial: if your culture is not self-rei
 
 ## Remote first company values
 GitLab's six core values are
-[**🤝 Collaboration**](#collaboration),
-[**📈 Results** ](#results),
-[**⏱️ Efficiency**](#efficiency),
-[**🌐 Diversity, Inclusion & Belonging**](#diversity-inclusion),
-[**👣 Iteration**](#iteration), and
-[**👁️ Transparency**](#transparency),
+[**🤝 Collaboration**](/handbook/values/#collaboration),
+[**📈 Results** ](/handbook/values/#results),
+[**⏱️ Efficiency**](/handbook/values/#efficiency),
+[**🌐 Diversity, Inclusion & Belonging**](/handbook/values/#diversity-inclusion),
+[**👣 Iteration**](/handbook/values/#iteration), and
+[**👁️ Transparency**](/handbook/values/#transparency),
 and together they spell the **CREDIT** we give each other by assuming good intent.
 
 Feel free to adopt or remix our values for your remote-first team.
