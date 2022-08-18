@@ -17,15 +17,15 @@ title: Home Office Equipment and Supplies
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Home Office Items
 
-Prior to your start date, you will [work with GitLab IT to acquire a laptop](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptops). For US team members, along with being able to order your laptop through GitLab, you will also have the option to order several other pieces of office hardware at the same time, such as monitor, keyboard, mouse, charger, webcam, laptop stand, adapter, and ergonomic desk & chair. You are not required to procure these items through GitLab, but, if these items fit your needs, we suggest choosing from our preselected catalogue because this is an easy option and will be billed directly to GitLab.
+Prior to your start date, you will [work with GitLab IT to acquire a laptop](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptops). If you wish, you can start purchasing your office hardware before your start date and expense it when you start at GitLab, such as monitor, keyboard, mouse, webcam, laptop stand, adapter, etc. Just remember to save those receipts! 
 
-If you prefer to choose your own office equipment, are not located in the US, and/or cannot find some items that you may need in the catalogue, please reference the [Price guide for common home office items](#price-guide-for-common-home-office-items) at GitLab. It is uncommon to need all of the items listed in the guide. Read [GitLab's guide to a productive home office or remote workspace](/company/culture/all-remote/workspace/), and use your best judgement and buy them as you need them.
+Please reference the [Price guide for common home office items](#price-guide-for-common-home-office-items) at GitLab. It is uncommon to need all of the items listed in the guide. Read [GitLab's guide to a productive home office or remote workspace](/company/culture/all-remote/workspace/), and use your best judgement and buy them as you need them.
 
 #### Expensing hardware and supplies outside of the US
 
 The prices in the table below can serve as reference for team members as you look into purchasing new equipment. Prices might vary per region depending on taxes, tariffs and other factors. When making a purchase above 100 USD, we encourage team members to look into 2 or 3 different providers and compare prices before acquiring new equipment. 
 
-For non-US team members: if the product cost is higher in your location, confirm that an equivalent product in the United States would be close to the guideline price in the table below. In the event there are additional taxes or other fees in your region, please note this cost increase when submitting an expense report to ensure an efficient and speedy approval and reimbursement from our third party accounting team.
+If the product cost is higher in your location, confirm that an equivalent product in the United States would be close to the guideline price in the table below. In the event there are additional taxes or other fees in your region, please note this cost increase when submitting an expense report to ensure an efficient and speedy approval and reimbursement from our third party accounting team.
 
 #### Expense constraints
 
