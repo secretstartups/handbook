@@ -239,7 +239,7 @@ Consider switching to your personal account, responding to the comment, and iden
 
 Please do not comment on videos from non-GitLab YouTube accounts using any company related YouTube profile. Commenting as GitLab is reserved for responses to our owned videos on our channels only.
 
-Should you come across personal, political or inappropriate channel subscriptions, comments or shares in GitLab's Youtube account, please notify people-exp@gitlab.com immediately to ensure this can be removed.
+Should you come across personal, political or inappropriate channel subscriptions, comments or shares in GitLab's Youtube account, please notify people-connect@gitlab.com immediately to ensure this can be removed.
 
 ## Organizing
 
