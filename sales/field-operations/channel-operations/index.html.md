@@ -194,8 +194,9 @@ If you are working with an Open partner and need a distributor quote sent, pleas
  
 ### Tender Offers
 - Tender offers are ones where the customers are requesting multiple bids for a project.
-- Since all partners would be engaged in the sales process and would be creating a bid, all partners qualify for the Partner Co-Sell discount. However, if a partner was early in with the customer (pre-tender) and sourced the deal, then they could receive the higher discount with an approved Partner Sourced Deal Registration. If the partner earning the Partner Sourced discount is not awarded the deal, they would not receive additional referral compensation. Any partner offering their own services would qualify for Service Attach incentives in addition to any sales discounts for which they would qualify.
-  - The exception to the above would be for US PubSec business. In the event there is an approved Partner Sourced Deal Registration on a tender offer, the rest of the partners bidding would receive MSRP (List Price).
+- Since all partners would be engaged in the sales process and would be creating a bid, all partners qualify for the Partner Co-Sell discount. However, if a partner was early in with the customer (pre-tender) and sourced the deal, then they could receive the higher discount with an approved Partner Sourced Deal Registration. If the partner earning the Partner Sourced discount is not awarded the deal, they would not receive additional referral compensation. Any partner offering their own services would qualify for Service Attach incentives in addition to any sales discounts for which they would qualify. The exception to the above would be for:
+  - US PubSec business: In the event there is an approved Partner Sourced Deal Registration on a tender offer, the rest of the partners bidding would receive MSRP (List Price).
+  - Renewals: Incumbent resellers get last year's discount, all other resellers get MSRP (List Price) for flat renewals. Renewal add-ons for all resellers can receive program discounts based on Deal Registration Status.
  
 ### Program Compliance
 - For partners to transact according to program discounts, they must agree to the GitLab Partner Agreement.
