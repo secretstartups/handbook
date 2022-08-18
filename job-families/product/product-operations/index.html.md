@@ -1,55 +1,36 @@
 ---
 layout: job_family_page
 title: "Product Operations Job Family"
-description: "GitLab is seeking a Sr. Product Manager to manage the GitLab product development system as a product, and help evolve it into a world class system that can scale rapidly with GitLab the company."
+description: "This job family represents the product operations department."
 ---
 
-# Group Manager, Product Operations
+This job family represents the Product Operations function within the Product Division. It's a specalized function within Product including both individual contributor roles and people managers.
 
-### Role
+# Responsibilities
 
-As the Group Manager, Product Operations, you will be deeply passionate and knowledgeable about outcome driven product development methodologies and frameworks. You will own the Product Operations roadmap and communicate the [vision and direction](https://about.gitlab.com/direction/product-operations/) for GitLab's product system. You will be responsible for ensuring the Product Management team's operating health in tight partnership with stable counterparts across GitLab the company. Your "customers" will be a variety of internal constituents, including the CProdO, the CTO the CEO, the Product Management team, the  cross-functional UX and Development teams, and business partners across GitLab. This role reports to the Chief Product Officer.
+- [Operationalize Outcome Drive Products](https://about.gitlab.com/direction/product-operations/#operationalizing-outcome-driven-products) 
+   - Identify opportunities to automate GitLab Product Manager's responsibilities and related tasks to help drive consistency and efficency across product managemment.
+   - Seek to improve overall Product division execution via contributions on product process, our product development flow and product timeline. 
 
-### Individual responsibility
+- [Build Qualitative & Quantititative Feedback Loops](https://about.gitlab.com/direction/product-operations/#building-qualitative--quantitative-feedback-loops)
+   - Improve how GitLab collects, analyzes and actions on feedback from internal and external stakeholders and customers
+   - Improve GitLab's internal and external product communication via updates to our direction, release posts, surveys and other communication mechanisms
 
-- Develop and drive the vision for a world class product system for GitLab the company and communicate it through [Product Operations Direction](https://about.gitlab.com/direction/product-operations)
-- Collaborate on the group's charter with the Chief Product Officer, and CEO; and communicate this charter cross-functionally
-- Research, shared and drive best practices and trends in product development at GitLab
-- Work with the CProdO, the CTO and other team leads as needed to align and implment share best practices and frameworks
-- Own key product system components such as GitLab's [product development flow](https://about.gitlab.com/handbook/product-development-flow/) and [product handbook](https://about.gitlab.com/handbook/product) 
-- Develop and maintain a continuing education program for product managers
-- Partner closely on various initiatives across the company with Product Management, Engineering, Design, Marketing, Sales, Customer Success, etc.
-- Drive communications across all R&D functions reinforcing process, policies, and best practices
-- Run a great product operations team (recruit and hire, sense of progress, promote proactively, identify underperformance)
+- [Scale Product Knowledge](https://about.gitlab.com/direction/product-operations/#scaling-product-knowledge)
+   - Support the Product Division by contributing to the continued development of all PMs across each section
+   - Propose changes and incorporate best practices and industry knowledge into GitLab's process, and handbook
 
-### Team responsibility
+# Requirements
 
-- Serve as "Chief of Staff" for the Chief Product Officer, attending all key Product Management leadership meetings and helping to ensure execution of Product team decisions
-- Help define, document, and ensure consistent execution of the GitLab product manager onboarding / product management / product development process
-- Manage a team of 2-4 product managers and/or product operations specialists
-- Lead the implementation and drive adoption of large scale process updates for the product team
-- Manage and facilitate overal Product team sync meeting design and frequency
-- Support in  maintanance and review of Product team KPIs
-- Own communication of product team frameworks/processes to other departments like Marketing, Support, Sales and Customer Success as needed
-- Support the [creation of external content](/handbook/product/product-processes/#communication#writing-about-features) including blogs, webinars, and demos
+- Ability to use GitLab
+- Share our valuesand work in accordance with those values
+- Ability to thrive in a fully remote organization
+- Comfortable with fast-pace and rapid iteration
+- Experience with contributing to Product Operations (either formally or informally) at organizations of various sizes
 
-### Requirements
+# Levels
 
-- 7+ years in product leadership and/or product management roles
-- 5+ years of people recruitement and management experience
-- Past experience project management, program management and/or product operations preferred
-- Expert in best practices in product management, product design and software development
-- Demonstrated success in company-wide alignment and change management for teams of 500+
-- Ability to inspire and motivate cross-functional product teams to adopt frameworks that prioritize value to customers/users
-- Ability to partner with and align with stakeholders across the business such as marketing, Support, Sales and Customer Success
-- Experience in companies that employ modern product management & software development techniques
-- Ability to make decisions based on combined qualitiative and quantitative data
-- Excellent verbal and written communication skills
-- Exceptional organizational skills and ability to manage competing priorities
-- You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
-- You share our [values](/handbook/values/), and work in accordance with those values
-
-# Senior Product Manager, Product Operations
+## Senior Product Manager, Product Operations
 
 ### Role
 
@@ -98,3 +79,49 @@ _Partner with the Group Manager, Product Operations to maintain a prioritized Pr
 ### Other Helpful Experience
 
 - Experience in technical product management,  project management or program mangement 
+
+## Group Manager, Product Operations
+
+### Role
+
+As the Group Manager, Product Operations, you will be deeply passionate and knowledgeable about outcome driven product development methodologies and frameworks. You will own the Product Operations roadmap and communicate the [vision and direction](https://about.gitlab.com/direction/product-operations/) for GitLab's product system. You will be responsible for ensuring the Product Management team's operating health in tight partnership with stable counterparts across GitLab the company. Your "customers" will be a variety of internal constituents, including the CProdO, the CTO the CEO, the Product Management team, the  cross-functional UX and Development teams, and business partners across GitLab. This role reports to the Chief Product Officer.
+
+### Individual responsibility
+
+- Develop and drive the vision for a world class product system for GitLab the company and communicate it through [Product Operations Direction](https://about.gitlab.com/direction/product-operations)
+- Collaborate on the group's charter with the Chief Product Officer, and CEO; and communicate this charter cross-functionally
+- Research, shared and drive best practices and trends in product development at GitLab
+- Work with the CProdO, the CTO and other team leads as needed to align and implment share best practices and frameworks
+- Own key product system components such as GitLab's [product development flow](https://about.gitlab.com/handbook/product-development-flow/) and [product handbook](https://about.gitlab.com/handbook/product) 
+- Develop and maintain a continuing education program for product managers
+- Partner closely on various initiatives across the company with Product Management, Engineering, Design, Marketing, Sales, Customer Success, etc.
+- Drive communications across all R&D functions reinforcing process, policies, and best practices
+- Run a great product operations team (recruit and hire, sense of progress, promote proactively, identify underperformance)
+
+### Team responsibility
+
+- Serve as "Chief of Staff" for the Chief Product Officer, attending all key Product Management leadership meetings and helping to ensure execution of Product team decisions
+- Help define, document, and ensure consistent execution of the GitLab product manager onboarding / product management / product development process
+- Manage a team of 2-4 product managers and/or product operations specialists
+- Lead the implementation and drive adoption of large scale process updates for the product team
+- Manage and facilitate overal Product team sync meeting design and frequency
+- Support in  maintanance and review of Product team KPIs
+- Own communication of product team frameworks/processes to other departments like Marketing, Support, Sales and Customer Success as needed
+- Support the [creation of external content](/handbook/product/product-processes/#communication#writing-about-features) including blogs, webinars, and demos
+
+### Requirements
+
+- 7+ years in product leadership and/or product management roles
+- 5+ years of people recruitement and management experience
+- Past experience project management, program management and/or product operations preferred
+- Expert in best practices in product management, product design and software development
+- Demonstrated success in company-wide alignment and change management for teams of 500+
+- Ability to inspire and motivate cross-functional product teams to adopt frameworks that prioritize value to customers/users
+- Ability to partner with and align with stakeholders across the business such as marketing, Support, Sales and Customer Success
+- Experience in companies that employ modern product management & software development techniques
+- Ability to make decisions based on combined qualitiative and quantitative data
+- Excellent verbal and written communication skills
+- Exceptional organizational skills and ability to manage competing priorities
+- You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
+- You share our [values](/handbook/values/), and work in accordance with those values
+
