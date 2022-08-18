@@ -312,6 +312,8 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 [Public Employees Occuptional Safety and Health](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/wps35.pdf)
 * [New Jersey Misclassifiation Notice](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/mw-899b_%20520_missclassification%208x11.pdf)
 * [NJ Law Prohibits Discrimination in Employment](https://www.nj.gov/oag/dcr/downloads/posters/8x11_employmentposter.pdf)
+* [The Law Against Discrimination (LAD) Prohibits Discrimination and Harassment](https://www.njoag.gov/wp-content/uploads/2022/07/Employment.pdf)
+* [The New Jersey Family Leave Act (NJFLA)](https://www.njoag.gov/wp-content/uploads/2022/07/Family-Leave-Act.pdf)
 
 ### New Mexico
 * [Minimum Wage Act Summary](https://www.dws.state.nm.us/Portals/0/DM/LaborRelations/MWA_Summary_ENGL-2022.pdf)
