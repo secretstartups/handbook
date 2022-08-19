@@ -242,7 +242,7 @@ Ensure the team member has first reached out to leaves@gitlab.com, and then foll
 
 [PTO by Roots Training Video](https://vimeo.com/469045356)
 
-Please be aware that new team members' PTO by Roots accounts are activated and synced automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Ops Specialist know in your onboarding issue.
+Please be aware that new team members' PTO by Roots accounts are activated and synced automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Connect Team member know in your onboarding issue.
 
 GitLab teammate questions about PTO by Roots can be directed to `#people-connect` Slack channel.
 
@@ -372,10 +372,10 @@ If a OOO event is in progress:
 
 If a OOO event has completed and synced to BambooHR:
 
-1. Total Rewards: Delete the relevant PTO entry from the team members BambooHR Time Off tab. People Operations Specialists must contact Total Rewards to ask for their support here.
-1. People Specialist: In the PTO by Roots app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
-1. People Specialist: Select the team members name and find the OOO event in their history.
-1. People Specialist: Delete said entry using the `[...]` overflow menu on the righthand side of the screen.
+1. Total Rewards: Delete the relevant PTO entry from the team members BambooHR Time Off tab. People Connect Team members must contact Total Rewards to ask for their support here.
+1. People Connect Team: In the PTO by Roots app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
+1. People Connect Team: Select the team members name and find the OOO event in their history.
+1. People Connect Team: Delete said entry using the `[...]` overflow menu on the righthand side of the screen.
 1. People Specialist: Add a new OOO event(s) by clicking the +Add Event button.
 1. People Specialist: Monitor BambooHR for the next 24 hours to ensure that the corrected event synced successfully.
 
