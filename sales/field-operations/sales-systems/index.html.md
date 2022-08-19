@@ -277,8 +277,8 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 
 **Before beginning work, make sure:**
 1.  You have a fully setup local SFDC Dev Environment.
-   * [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
-   * [Salesforce Trailhead: Setting up your VS Code](https://trailhead.salesforce.com/en/content/learn/projects/find-and-fix-bugs-with-apex-replay-debugger/apex-replay-debugger-set-up-vscode)
+    * [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+    * [Salesforce Trailhead: Setting up your VS Code](https://trailhead.salesforce.com/en/content/learn/projects/find-and-fix-bugs-with-apex-replay-debugger/apex-replay-debugger-set-up-vscode)
 2.  You have access to a personal [SFDC Dev Sandbox](https://gitlab.my.salesforce.com/07E?retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DDeploy&setupid=DataManagementCreateTestInstance).
 3.  Your SFDC Dev Environment is correctly pointed at your SFDC Dev Sandbox
 4.  You have cloned our [Git repository](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src) into your local Sandbox working directory.
