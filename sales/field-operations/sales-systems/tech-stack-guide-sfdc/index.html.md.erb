@@ -1,0 +1,58 @@
+---
+layout: handbook-page-toc
+title: "Salesforce Tech Stack Guide"
+description: "Reference for how Salesforce is implemented."
+---
+
+{::options parse_block_html="true" /}
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
+## Salesforce Tech Stack Guide
+
+> **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
+
+<% data.tech_stack.each do |stack| %>
+<% if stack.title == "Salesforce" %>
+- **Description:** <%= stack.description %>
+- **Provisioner:** <%= stack.provisioner %>
+- **Deprovisioner:** <%= stack.deprovisioner %>
+- **Okta Enabled:** <%= stack.need_move_to_okta %>
+- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
+<% end %>
+<% end %>
+
+### Implementation
+
+Salesforce consists of several modules and installed [packages](/handbook/sales/field-operations/sales-systems/salesforce-config/#installed-packages).
+
+### System Diagrams
+
+TBD
+
+### Data Model
+
+TBD
+
+### Integrations
+
+#### Zuora to Salesforce
+
+Zuora Data to [Salesforce](#salesforce-sales-cloud) via [Zuora CPQ](#zuora-cpq)
+
+#### Go-To-Market Production SaaS Environments
+
+![Go-To-Market Production SaaS Environments](/handbook/sales/images/gtm-production.png)
+
+[Go-To-Market Integrated Environments](handbook/sales/field-operations/sales-systems/gtm-integrated-environments/)
+
+### Key Reports / Dashboards
+
+TBD
