@@ -26,14 +26,14 @@ At GitLab, team members have access to the [Growth and Development benefit](/han
 **Examples of requests that may be approved:**
 * A [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/) license when there are none remaining in the Learning & Development Team's allocation.
 * A Backend Engineer who is not on a performance improvement plan seeking a bachelor's degree in Computer Science.
-* A People Operations Generalist seeking a master's in Human Resources with a concentration in International Employee Relations.
+* A People Operations Team member seeking a master's in Human Resources with a concentration in International Employee Relations.
 * A Security Analyst seeking to take courses to gain a Cybersecurity certificate through an accredited college or university.
 * A Product Marketing Manager seeking to take courses to become a Certified Brand Manager from The Association of International Product Marketing and Management.
 * A Technical Account Manager seeking to obtain a Cloud Certification such as CompTIA Cloud, AWS Certified Solutions Architect, MicroSoft MCSA/MCSE, Cisco CCNA/CCNP.
 * Learning how to code for all team members (for example [Learning Rails on Codecademy](https://www.codecademy.com/learn/learn-rails)).
 
 **Examples of requests that may be denied:**
-* A Marketing Manager seeking a master's in Human Resources, but has no intention of applying to a role in people ops.
+* A Marketing Manager seeking a master's in Human Resources, but has no intention of applying to a role in the People team.
 * A Frontend Engineer seeking a master's in computer science who is on a performance improvement plan or having discussions around underperformance.
 * If the tuition reimbursement budget has been reached, then your request may be denied, even if you meet eligibility requirements.
 
@@ -94,7 +94,7 @@ In some countries, the Growth and Development Benefit may be considered as taxab
 
 For example, in the United States 2021 tax year, if GitLab pays over [$5,250 for educational benefits for you during the year, you must generally pay tax on the amount over $5,250](https://www.irs.gov/newsroom/tax-benefits-for-education-information-center). GitLab should include in your wages (Form W-2, box 1) the amount over $5,250 in income.
 
-Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](mailto:peopleops@gitlab.com) for any tax-related questions in your country.
+Please contact [Payroll](mailto:payroll@gitlab.com) for any tax-related questions in your country.
 
 ## Processing Growth and Development Applications
 Reimbursements for over $1,000 USD will be processed by the following: 
