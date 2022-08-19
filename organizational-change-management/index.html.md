@@ -44,7 +44,7 @@ Not every change project at GitLab requires the full OCM methodology to be appli
 - Communicating executive-level updates that come directly from leadership
 - Implementing an iterative change that has a track record of iteration and team member input 
 - Updating and communicating changes to the Handbook
-- Providing awareness and generating excitement for a company-wide initiative (i.e. Friends and Family Day, etc.) 
+- Providing awareness and generating excitement for a company-wide initiative (i.e. Family and Friends Day, etc.) 
 - Announcing and implementing a company-wide initiative (i.e. Direct messages in Slack, internal comms campaign, etc.) 
 - Training team members on new skills, business/technical acumen, etc
 - Much more! 
