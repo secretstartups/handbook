@@ -1199,3 +1199,14 @@ Views and snippets included in the output will be surrounded by square brackets 
         }
     }
 ```
+
+## Upgrading dbt
+A forthcoming runbook will be linked here that will enable team members to independently and asyncronously upgrade dbt.
+
+### Staying up to date
+Our policy is that we should never be more than one minor release behind for [`dbt-core`](https://docs.getdbt.com/docs/core-versions). So for example, if v1.3.1 is the most recent release, we should be running at least v1.2.0.
+
+When a major release happens, we should upgrade to the new major version before the second minor release on the new major version. So for example, we should be on v2.0.0 _before_ v.2.2.0 is released. The extra time allowance is in place to account for breaking changes between major versions.
+
+### Scheduling a dbt upgrade
+dbt upgrades should take place on a Tuesday of a week in which there are no major worldwide holidays or [Family and Friends days](/uncategorized/source/company/family-and-friends-day/). This is to enable enough time for team members to correct any breaking changes that weren't caught in testing without having to work through the weekend. In a worst case scenario, the upgrade can be rolled back on Wednesday so that normal operations can resume for the remainder of the week.
