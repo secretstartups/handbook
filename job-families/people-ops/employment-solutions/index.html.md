@@ -6,7 +6,7 @@ title: Employment Solutions
 Employment Solutions forms part of the People Operations Team at GitLab and directly responsible for contributing to our International expansion efforts. This team will be collaborating very closely with Total Rewards, Finance, Legal, Recruiting and the People Operations team. It will also involve key stakeholder relationship management and enabling our PEO's. 
 
 ### Employment Solutions Specialist
-The Employment Solutions Specialist reports to the [VP - People Operations](https://about.gitlab.com/job-families/people-ops/people-operations/)
+The Employment Solutions Specialist reports to the [Director, People Operations](https://about.gitlab.com/job-families/people-ops/people-connect/)
 
 #### Job Grade
 The Employment Solutions Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -52,7 +52,7 @@ The Employment Solutions Specialist is a [grade 6](/handbook/total-rewards/compe
 * [Increase the locations GitLab can offer work-sponsorship in by 2, in alignment with legal and tax](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#increase-the-locations-gitlab-can-offer-work-sponsorship-in-alignment-with-legal-and-tax)
 
 ### Employment Solutions Partner
-The Employment Solutions Partner reports to the [VP - People Operations](https://about.gitlab.com/job-families/people-ops/people-operations/).
+The Employment Solutions Partner reports to the [Director, People Operations](https://about.gitlab.com/job-families/people-ops/people-connect/).
 
 #### Job Grade
 The Employment Solutions Parnter is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -96,7 +96,7 @@ The Employment Solutions Parnter is a [grade 7](/handbook/total-rewards/compensa
 * [Increase the locations GitLab can offer work-sponsorship in by 2, in alignment with legal and tax](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#increase-the-locations-gitlab-can-offer-work-sponsorship-in-alignment-with-legal-and-tax)
 
 ## Career Ladder
-The next step in the People Operations job family is to move to the [People Operations and Leadership job family](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/uncategorized/source/job-families/people-ops/people-operations/index.html.md).
+The next step in the People Operations job family is to move to the [People Operations and Leadership job family](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/uncategorized/source/job-families/people-ops/people-connect/index.html.md).
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
