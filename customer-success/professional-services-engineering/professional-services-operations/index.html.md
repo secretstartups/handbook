@@ -319,12 +319,12 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
 - Each PSE is required and responsible for tracking their own hours, and submitted weekly by Friday EOD for the week worked
 - If time will be worked over the weekend, time sheet should still be submitted by Friday, EOD, then a new line created on the time sheet for hours worked over the weekend
 - Billable hours represent work hours that a staff member reports as being aligned to a specific SOW. The format for daily time tracking for each team member is shown below, and is reviewed weekly by PS Operations and Manager
-- Hours for PTO, Holidays and Friends and Family day are no longer required to be submitted in the weekly time sheet
+- Hours for PTO, Holidays and Family and Friends day are no longer required to be submitted in the weekly time sheet
 - If a team member did not work the time allocated for the week, then hours would be added to the PTO feature in Mavenlink
 - Notes are required for the PS Time Tracking Creditable and PS Time Tracking Non Credit projects only, not on customer projects
   
   - PTO should be submitted in the time off feature in Mavenlink, and also follow the company guidelines, [time off process](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
-  - Holidays along with Friends and Family day are scheduled on the Mavenlink calendar
+  - Holidays along with Family and Friends day are scheduled on the Mavenlink calendar
   
 - Time is required to round to the nearest quarter hour, example: 
   - 15m should be .25

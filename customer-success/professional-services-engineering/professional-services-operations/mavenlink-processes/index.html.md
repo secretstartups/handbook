@@ -151,9 +151,9 @@ Project Close
 
 #### Mavenlink Time Off Scheduling, Holidays, Family and Friends Days
 
-****Regional Holidays and Friends and Family Days****
+****Regional Holidays and Family and Friends Days****
 
-Regional holidays and Friends and Family days are included in Mavenlink on each members calendar, followed by the  [time off process](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off).  Since the days are included in the calendar there is no need to submit the time in the Mavenlink PTO feature or the users time sheet.  When logging into the time sheet, the required work week is shown on the time sheet entry.
+Regional holidays and Family and Friends days are included in Mavenlink on each members calendar, followed by the  [time off process](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off).  Since the days are included in the calendar there is no need to submit the time in the Mavenlink PTO feature or the users time sheet.  When logging into the time sheet, the required work week is shown on the time sheet entry.
 
 ![TimeOff](./Timeoff.png)
 
