@@ -216,6 +216,11 @@ A: You won't need to action anything until day one! We are going to want you to 
 
 A: GitLab has an entire team dedicated to providing the best tools to be successful at an all remote company. We highly suggest reviewing our [playbook](https://about.gitlab.com/company/culture/all-remote/).
 
+**Q: How can I find team members located in my local area to meet up?**
+
+A: We have many location slack channels here tht allows team members to schedule informal local get togethers or coworking days. You can find the list of those channels [here](https://about.gitlab.com/handbook/communication/chat/#location-channels-loc_). If you don't see one for your area, feel free to create one! 
+
+
 **Q: What is Family & Friend's Day?**
 
 A: In an ongoing pandemic with COVID-19 affecting many of our team members, we want to ensure that people are making their well-being a top priority and that we are living out our values, to emphasize this we will coordinate a monthly "Family and Friends Day". On this day, we will close the doors to the GitLab virtual office, reschedule all meetings, and have a publicly visible shutdown. You can read up more about it and view the schedule in our [Handbook](https://about.gitlab.com/company/family-and-friends-day/).
