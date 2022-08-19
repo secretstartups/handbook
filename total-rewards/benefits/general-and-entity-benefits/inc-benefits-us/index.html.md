@@ -50,7 +50,7 @@ Team Members can find information on the **2021 Calendar Year** benefit plans, d
 ## Who To Contact
 
 * For a full list of carrier contacts please see the [Benefit Mobile Wallet Card](https://mymobilewalletcard.com/gitlab/)
-* For benefit inquiries: WTW Benefits Helpline `877-409-9288` or `GitLab@willistowerswatson.com` 
+* For benefit inquiries and assistance with any claims escalations: WTW Benefits Helpline `877-409-9288` or `GitLab@willistowerswatson.com` 
 * For support with the PlanSource system: `total-rewards@ gitlab`
 * For questions regarding internal policies, 401k, approval of Qualifying Life Events: `total-rewards@ gitlab`
 
