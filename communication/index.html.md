@@ -208,6 +208,14 @@ At GitLab, everyone can contribute to the effectiveness of Internal Communicatio
 Since we believe that all team members must be [Managers of One](/handbook/leadership/#managers-of-one), most communication is handled by the relevant group, but we know that some communications are more sensitive and contentious than others.
 In those cases, the DRIs may want to engage the [Internal Communications function](/handbook/communication/internal-communications/).
 
+## Informal communication
+
+[Informal communication](/company/culture/all-remote/informal-communication/) is made up of interactions between co-workers that are unofficial in nature and focus on building social relationships outside of the normal hierarchy of a typical business structure.
+
+In other words, it's what happens when we get to know each other and talk about anything other than work.
+
+Informal communication is a [vital part of GitLab culture](/company/culture/#culture-at-gitlab), and we've listed [20+ ways to engage](/company/culture/all-remote/informal-communication/).
+
 ## Asynchronous communication
 
 In an [all-remote setting](/company/culture/all-remote/terminology/), where team members are empowered to live and work where they're most fulfilled, mastering asynchronous workflows is vital to avoiding [dysfunction](/handbook/values/#five-dysfunctions) and enjoying outsized efficiencies and lifestyle flexibility. Asynchronous communication is the art of communicating and moving projects forward _without_ the need for additional stakeholders to be available at the same time your communique is sent.
