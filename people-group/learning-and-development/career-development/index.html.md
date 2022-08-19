@@ -12,9 +12,7 @@ description: "Resources and direction for career development and mobility for al
 
 ## What is Career Development
 
-Career development is the lifelong process of managing learning, work, leisure and transitions to move toward a personally determined and evolving preferred future.
-
-Watch and listen below to this 18 minute career development discussion with Eric Johnson, CTO at GitLab
+Career development is the lifelong process of managing learning, work, leisure and transitions to move toward a personally determined and evolving preferred future. Watch and listen below to this 18 minute career development discussion with Eric Johnson, CTO at GitLab
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/hYahDZ9nIWA" frameborder="0" allowfullscreen="true"> </iframe>
@@ -42,18 +40,9 @@ Watch and listen below to this 18 minute career development discussion with Eric
   <div>
     <a href="/handbook/people-group/learning-and-development/career-development/#internship-for-learning" class="btn btn-purple" style="width:200px;margin:5px;">Internship for Learning</a>
     <a href="/handbook/people-group/learning-and-development/career-development/#recorded-workshops" class="btn btn-purple" style="width:200px;margin:5px;">Recorded Workshops</a>
+    <a href="/company/team/structure/#job-frameworks" class="btn btn-purple" style="width:200px;margin:5px;">Job Frameworks</a>
   </div>
 </div>
-
-### Connecting Career Development to Wellbeing
-
-Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://www.skylyte.com/) about the connection between wellbeing, purpose, and our career growth.
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/2XmmGYlsEP8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
 
 ## Roles and Responsibilities
 
@@ -84,17 +73,15 @@ Review the responsibilities of career development broken down by team member, ma
 
 #### The Relationship between learning and [promotions](/handbook/people-group/promotions-transfers/)
 
-As is highlighted in our [Leadership](/handbook/leadership/1-1/#key-points) section, GitLab team members should not feel pressure to climb the proverbial ladder. We recognize that not everyone wants to advance or move to a new level, and that is supported. Developing one's skills and promotion at the company are not mutually exclusive.
+GitLab team members [should not feel pressure to climb the proverbial ladder](/handbook/leadership/1-1/#key-points). We recognize that not everyone wants to advance or move to a new level, and that is supported. Developing one's skills and promotion at the company are not mutually exclusive.
 
-As detailed in GitLab's [Definition of Diversity, Inclusion & Belonging ](/company/culture/inclusion/), we recognize that unique characteristics and experiences form how we as individuals approach challenges and solve problems. They also shape how we view success in our individual careers and lives. Not everyone views promotion as a measure of success, and team members will not be thought less of or penalized for holding this view.
+We recognize that [unique characteristics and experiences form how we as individuals approach challenges and solve problems](/company/culture/inclusion/). They also shape how we view success. Not everyone views promotion as a measure of success, and team members will not be thought less of or penalized for holding this view.
 
-As part of GitLab's [Transparency](/handbook/values/#transparency) value, team members are encouraged to be open and honest with their manager. You are encouraged to learn and develop your skills without pressure to in turn seek promotion. If you feel you are not being supported in this way, please visit the [Need Help?](/handbook/people-group/#reach-peopleops) portion of the People Group Handbook.
+Team members are encouraged to be [open and honest](/handbook/values/#transparency) with their manager. You are encouraged to learn and develop your skills without pressure to in turn seek promotion. If you feel you are not being supported in this way, please visit the [Need Help?](/handbook/people-group/#reach-peopleops) portion of the People Group Handbook.
 
 #### Career Development
 
-Career development involves the process of choosing a career and building a career path that will accelerate professional growth. It is perfectly acceptable to seek out learning and development opportunities — to sharpen one's understanding of a coding language to better understand a function, etc. — yet not strive for promotion beyond your current role. Some team members are happier and more productive without managing a team, for example.
-
-**Team member examples of career development:**
+Career development involves choosing and building a career path that accelerates professional growth. It is perfectly acceptable to seek out learning and development opportunities — sharpen coding skills, learn a new function, etc. — yet not strive for promotion. Some team members are happier and more productive without managing a team, for example. Examples of career development include:
 
 1. An engineer takes a LinkedIn Learning course to improve their communication and leadership skills
 1. A project manager participates in a mentorship program practice their goal setting and planning skills
@@ -102,15 +89,21 @@ Career development involves the process of choosing a career and building a care
 
 #### Career Mobility
 
-Career mobility involves both lateral (promotions) and horizontal (transfers) movement along a career path. This mobility most often involves applying actions taken and skills developed as leverage for a new role. Career mobility requires action and reflection after the learning is complete to demonstrate gained skills and transfer them to a new role or responsibility set. 
-
-We use the [career mobility issue template](/handbook/people-group/engineering/career-mobility/) to guide team members when they transfer or are promoted to a new role within the organization.
-
-**Team member examples of career mobility:**
+Career mobility involves both lateral (promotions) and horizontal (transfers) movement along a career path. Mobility involves applying experience and skills as leverage for a new role. This requires action and reflection learning is complete to demonstrate gained skills and transfer them to a new role or responsibility. We use the [career mobility issue template](/handbook/people-group/engineering/career-mobility/) to guide team members when they transfer or are promoted to a new role within the organization. Examples of career mobility include:
 
 1. An engineer takes a leadership course and volunteers as a mentor working towards their goal of becoming an engineering manager
 1. A project manager earns a professional certificate as they work towards a senior-level promotion
 1. A sales team member completes an internship with marketing to explore new career opportunities in a different division
+
+#### Connecting Career Development to Wellbeing
+
+Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://www.skylyte.com/) about the connection between wellbeing, purpose, and our career growth.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/2XmmGYlsEP8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ## Internal Resources
 
@@ -242,21 +235,27 @@ In August 2021 we held a Career Development Skill of the Month. All of the Async
 
 ## Tracking your Career Development
 
-### Self authorship and your career development
+### Start Here:
 
-During a live speaker sereies hosed in March 2022, [Lavinia Mehedintu](https://www.linkedin.com/in/laviniamehedintu/) spoke to the GitLab team about self-authorship in career development. In the session, Lavinia speaks about
+| Purpose | Resource |
+| --------------- | ----- |
+| I want to plan and document my career and skill-based goals at GitLab. | [Individual Growth Plan, or IGP](/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) |
+| I want to keep track of my value-aligned contributions. | [Accomplishment Tracker](/handbook/people-group/learning-and-development/career-development/#tracking-your-accomplishments) |
+| I want to monitor the status of my goals and achievements. | [Health Tracker: Growth Plan](/handbook/people-group/learning-and-development/career-development/#health-tracker-growth-plan)|
+| I prefer to use GitLab to track my career goals. | [Using GitLab Epics](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development) |
+| I need advice on what skills to develop based on my role at GitLab. | [Job Frameworks](/company/team/structure/#job-frameworks) |
+
+
+#### Self authorship and your career development
+
+A live speaker series hosted in March 2022 with [Lavinia Mehedintu](https://www.linkedin.com/in/laviniamehedintu/) gets to the 'why' of career development. Embrace your own self-authorship while using the following tools to fit your goals. In the session, Lavinia spoke about:
 
 1. The impact of growth mindet on career development, and tips for shifting out of a fixed mindset
 1. Trust building in an all remote space and the role that people managers play in building this trust
 1. Learning and building out loud, sharing career development externally, and the power of social learning
 
-This is a great live speaker series that get's into the 'why' of career development, specifically on an all remote team. You can watch the recording on the GitLab unfiltered YouTube channel using [this direct link](https://youtu.be/UsGlTOmM2DM) or watch the recording directly below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UsGlTOmM2DM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/UsGlTOmM2DM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-Resources in this section are created for GitLab team members to organize and plan for their career development. Embrace your own self-authorship while using these tools to make them fit your specific career development goals.
 
 ### Individual Growth Plan 
 
@@ -267,7 +266,7 @@ If you aren't sure where to start or are having trouble filling out your IGP, we
 Steps: 
 1. Open the [Individual Growth Plan (IGP) Template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
 1. Make a copy of the template + save to your drive
-1. Fill out the template 
+1. Fill out the template. Refer to the [job frameworkds for ICs and managers](https://about.gitlab.com/company/team/structure/#job-frameworks) to help determine what skills to focus your development.
 1. Review with your manager 
 1. Start working towards your goals! 
 
