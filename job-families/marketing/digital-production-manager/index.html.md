@@ -8,6 +8,8 @@ description: "Learn more about Digital Production roles, responsibilities and re
 
 ## Digital Production Coordinator
 
+The Digital Production Coordinator reports to the Senior Manager, Video.
+
 ### Job Grade 
 
 The Digital Production Coordinator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -43,6 +45,8 @@ The Digital Production Coordinator is a [grade 5](/handbook/total-rewards/compen
 
 
 ## Digital Producer
+
+The Digital Production Coordinator reports to the Senior Manager, Video.
 
 ### Job Grade 
 
@@ -81,6 +85,8 @@ The Digital Producer is a [grade 6](/handbook/total-rewards/compensation/compens
 
 ## Senior Digital Producer
 
+The Digital Production Coordinator reports to the Senior Manager, Video.
+
 ### Job Grade 
 
 The Senior Digital Producer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -112,41 +118,6 @@ The Senior Digital Producer is a [grade 7](/handbook/total-rewards/compensation/
 - You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 * Ability to use GitLab
 - BONUS: A passion and strong understanding of the industry and our mission
-
-
-
-## Manager, Digital Production
-
-### Job Grade 
-
-The Manager, Digital Production is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Responsibilities
-
-- Manage digital production team
-- Develop multimedia (audio/video) strategy for brand and marketing initiatives
-- Set and manage the quarterly and bi-annual production deliverables and schedule
-- Manage digital production budget, vendors, schedules, and equipment
-- Plan and manage production; write treatments, determine scope, scout and select locations and talent, coordinate shoots
-- Manage creative, including scripting, storyboarding, and graphic elements, to ensure brand consistency
-- Direct video shoots and manage production crew
-- Collaborate closely with internal clients and stakeholders to assess and prioritize production needs
-- Manage audio and video production for GitLab corporate events
-- Report on production metrics
-
-### Requirements
-
-- Bachelor’s Degree in broadcast journalism, film & television, or audio/video production
-- 7+ years of experience in video and audio production
-- Previous management experience
-- Proven ability to manage production budgets and timelines
-- Excellent communication, writing and time-management skills
-- Must be a creative self-starter with exceptional multimedia storytelling skills
-- Proven ability to handle a fast-paced work environment and work independently
-- Strong organizational skills, ability to handle projects end-to-end
-- High proficiency with video and audio software and equipment
-- You share our [values](/handbook/values/), and work in accordance with those values.
-- BONUS: A passion and strong understanding of the industry and our mission.
 
 ### Career Ladder
 
