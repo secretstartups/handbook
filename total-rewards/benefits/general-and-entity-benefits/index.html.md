@@ -194,7 +194,7 @@ You don't have to take your Parental Leave in one continuous period, we encourag
 **A few things to note:**
 * If you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to leaves@gitlab.com.
 *When determing the dates of your leave, GitLab uses a 1/7 formula (1 week = 7 days). This means if you are planning on returning to work on a Monday, the last day of your leave will be Sunday. Please use this formula when submitting your PTO by Roots request.
-* Parental leave includes public holidays and scheduled Friends & Family Days that occur within the start and end date of parental leave, but some countries allow team members to rollover holidays that occured while on Parental Leave. Be sure to review your country's policy on this when planning the dates of your leave.
+* Parental leave includes public holidays and scheduled Family and Friends Days that occur within the start and end date of parental leave, but some countries allow team members to rollover holidays that occured while on Parental Leave. Be sure to review your country's policy on this when planning the dates of your leave.
     * If eligible to roll over these holidays, and you'd like to use them to extend your time away, please enter this as `Public Holiday` in PTO by Roots and add a note indicating "rolling over holidays which occured while on parental leave".
 * Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your [country's leave policy](#entity-benefits).
 
