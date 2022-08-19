@@ -17,12 +17,14 @@ canonical_path: "/company/team/structure/working-groups/merge-request-report-wid
 |-----------------|-----------------|
 | Date Created    | August 1, 2021 |
 | Target End Date | January 31, 2022 |
+| Actual End Date | August 18, 2022 |
 | Slack           | [#wg_merge-request-report-widgets](https://gitlab.slack.com/archives/CV2M96LJG) (only accessible from within the company) |
 | Google Doc      | [Merge Request Report Widgets Working Group Agenda](https://docs.google.com/document/d/1bcch8UUkwmgEHFolTWDrQFJtUiiXlv_yQFAGwSSDSUE/edit?usp=sharing) (only accessible from within the company) |
 | Implementation discussion | [gitlab#333975](https://gitlab.com/gitlab-org/gitlab/-/issues/333975) |
 | Pajamas documentation | [Region: Merge request reports](https://design.gitlab.com/regions/merge-request-reports) |
 | Design specs | [Pajamas UI Kit](https://www.figma.com/file/qEddyqCrI7kPSBjGmwkZzQ/Component-library?node-id=38193%3A30482) |
 | Associated OKRs | [product#2872](https://gitlab.com/gitlab-com/Product/-/issues/2872) |
+| DRIs for each Widget | [DRI list](/handbook/engineering/development/dev/create/code-review/report-widgets-dri-list.html) |
 
 ## Charter
 
@@ -54,6 +56,24 @@ The main target of the working group is not to implement everything themselves b
 * The documentation reflects the capabilities of the shared component.
 * Ensure there is clear documentation written for extending the component.
 
+### Results
+
+#### Documentation outcomes
+
+* [DRI List (Eng. and UX)](/handbook/engineering/development/dev/create/code-review/report-widgets-dri-list.html)
+* [Component technical documentation](https://docs.gitlab.com/ee/development/fe_guide/merge_request_widget_extensions.html)
+* [Contributing further and extending](/handbook/product/cross-stage-features/merge-requests/)
+
+#### Product outcomes
+
+The screenshots below illustrate the Merge Request Report Widgets before and after the work delivered by the Working Group.
+
+|  |  |
+| ------ | ------ |
+| Before | ![MR Widgets Before](MR_Widgets_Before.png) |
+| After | ![MR Widgets After](MR_Widgets_After.png) |
+
+
 ## Roles and responsibilities
 
 The functional leads will be responsible for:
@@ -83,3 +103,5 @@ Ideally, the functional lead is someone who is an IC working in the affected gro
 | Member             | Pedro Moreira da Silva   | UX                        | Staff Product Designer, Create:Code Review    |
 | Member             | Tomislav Nikić           | Quality                   | Software Engineer in Test, Create:Code Review |
 | Member             | Gina Doyle               | UX                        | Product Designer, Pipeline Insights & Runner  |
+
+
