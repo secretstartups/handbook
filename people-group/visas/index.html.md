@@ -34,7 +34,7 @@ You can _not_ expense relocation costs.
 
 In some cases when traveling to a conference or summit you might need to arrange a visa to enter that specific country.
 
-Always **check the website of the Embassy of the Country you want to visit** located in your home country. They will have the most updated information on whether or not you need a visa and what is needed for your application. In some instances you can travel under a visa waiver program (e.g. [ESTA](https://esta.cbp.dhs.gov/esta/)) in other cases you might need to arrange a tourist or business visa. Read their website carefully and ask People Ops Specialists if you need any help with acquiring the needed documents for your application.
+Always **check the website of the Embassy of the Country you want to visit** located in your home country. They will have the most updated information on whether or not you need a visa and what is needed for your application. In some instances you can travel under a visa waiver program (e.g. [ESTA](https://esta.cbp.dhs.gov/esta/)) in other cases you might need to arrange a tourist or business visa. Read their website carefully and ask People Connect Team members if you need any help with acquiring the needed documents for your application.
 
 We gladly organize and pay for local legal assistance, especially if you are at high risk of having a long process.
 
@@ -43,7 +43,7 @@ We gladly organize and pay for local legal assistance, especially if you are at 
 - **Make sure to start on time with your arrangements for a visa**. It can take up to 3-4 **months** to acquire a US visa, as an example. Consider this recent example that several team members faced when they were arranging their visa to come to the summit in Austin in May of 2016. First, there was a delay of weeks to a month between the time they called to make an appointment at a US embassy and the date of the actual appointment. In some cases, the application then moved through the process with no issues and the visa was ready within two weeks. In other cases, the visa application was marked for "administrative processing" which can take up to 60 days, and is pretty much a [black hole in terms of information and process](https://www.quora.com/How-do-I-expedite-the-administrative-process-for-the-U-S-visa).
 - Check if your passport is still valid long enough.
 - Give priority to arranging your visa, it can take time to get an appointment to apply at the Embassy.
-- Double check if you have all needed document and information. Ask People Ops Specialists to help you check this if you like.
+- Double check if you have all needed document and information. Ask People Connect Team members to help you check this if you like.
 - Think of the answers you will give during your visa interview; it can influence your visa approval/denial.
 - Once the dates for a conference or summit are set start asap with your application if you have needed a
 special visa in previous situations, just to give yourself enough time and room for errors if they arise.
@@ -120,13 +120,13 @@ Tenure of less than 1 year at GitLab may be possibly waived as a requirement if:
   - You are a member of an [underrepresented](https://about.gitlab.com/company/culture/inclusion/#definitions) group that is unsafe or in any way mistreated in your country.
   - Violence in your country does not provide a safe environment.
 
-If you meet these requirements, kindly read our [Relocation](https://about.gitlab.com/handbook/people-group/relocation/) handbook page, as well as our specific [Netherlands section](/handbook/people-group/relocation/#relocating-to-the-netherlands), to ensure that your request is evaluated and approved following our protocols. **Please email peopleops@gitlab.com if you have any questions.**
+If you meet these requirements, kindly read our [Relocation](https://about.gitlab.com/handbook/people-group/relocation/) handbook page, as well as our specific [Netherlands section](/handbook/people-group/relocation/#relocating-to-the-netherlands), to ensure that your request is evaluated and approved following our protocols. **Please email people-connect@gitlab.com if you have any questions.**
 
-If you do not meet one or more of the above requirements, please file a request with your manager and indicate clearly which requirements you meet and which ones you do not meet. All situations will be reviewed on a case by case basis. If you receive full manager approval, please forward that approval to peopleops @gitlab.com at the start of the process. **Manager approval to proceed does not ensure that you will be approved to relocate and immigrate.**
+If you do not meet one or more of the above requirements, please file a request with your manager and indicate clearly which requirements you meet and which ones you do not meet. All situations will be reviewed on a case by case basis. If you receive full manager approval, please forward that approval to people-connect@gitlab.com at the start of the process. **Manager approval to proceed does not ensure that you will be approved to relocate and immigrate.**
 
 #### Transferring a partner visa to a highly skilled migrant visa
 
-Someone already in the Netherlands on a partner visa can be transferred to their own highly skilled migrant visa in order to not be dependent anymore. The process will take about 4-6 weeks if they are already in the Netherlands and don’t have to wait for an entry sticker or have to go for appointments to get registered. This is subject to above eligibility criteria and approvals. Please email peopleops@gitlab.com if you have any questions or to start this process.
+Someone already in the Netherlands on a partner visa can be transferred to their own highly skilled migrant visa in order to not be dependent anymore. The process will take about 4-6 weeks if they are already in the Netherlands and don’t have to wait for an entry sticker or have to go for appointments to get registered. This is subject to above eligibility criteria and approvals. Please email people-connect@gitlab.com if you have any questions or to start this process.
 
 #### Resources
 

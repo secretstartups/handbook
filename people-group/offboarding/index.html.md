@@ -82,7 +82,7 @@ The manager and the team member should have walked through the guidelines on [un
 1. **Manager**: Reach out to the their TMR specialist for assistance.
     - TMR will ask about what the performance issues have been, how they have been attempted to be addressed, and review all manager/team member documentation.
     - Once the review has been completed and the decision has been made to offboard the team member, the manager should review the best timing for the involuntary offboarding call and termination date. We recommend to avoid scheduling a involuntary offboarding call while a team member is scheduled for any sensitive customer meetings or is on-call, per guidance below under Last working day.
-    - TMR will partner with the People Specialists to coordinate the offboarding of the team member.
+    - TMR will partner with the People Connect Team to coordinate the offboarding of the team member.
     - TMR will inform the People Business Partner on the possible upcoming offboarding.
 1. **TMR**: The TMR will initiate the offboarding process by completing the Hold for Involuntary Offboarding Form which can be found in the shortcuts section of the #offboarding channel. The form includes fields for the date, time and location of the offboarding along with room for additional notes if needed and will prompt an alert in the #offboardings channel ensuring that People Connect and all other stakeholders are aware of the team members departure particulars i.e. IT Operations, Payroll and Total Rewards. 
     1. The first People Connect Member to respond to the post will will partner with the TMR for the duration of the offboarding process.
@@ -164,7 +164,7 @@ As written, it is applicable to US-based employees only.
 ### Separation and Release of Claims Agreements
 {: #separation-agreement}
 
-Separation and Release of Claims Agreements ***do not*** apply for all offboardings. To review in which cases they do/do not apply, please reference the `Severance Eligibility` document accessible by People Specialists and PBPs. In the case that a severance agreement is applicable, the steps below should be followed:
+Separation and Release of Claims Agreements ***do not*** apply for all offboardings. To review in which cases they do/do not apply, please reference the `Severance Eligibility` document accessible by People Connect Team and PBPs. In the case that a severance agreement is applicable, the steps below should be followed:
 
 ### Severance Process for US-based Team Members
 
