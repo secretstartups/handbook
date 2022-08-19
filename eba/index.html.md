@@ -198,7 +198,7 @@ To view members of Google Groups, reference the [Google Workspace group member r
 * Mail addressed to Legal - contact the CLO for next steps.
 * Mail related to tax documents - scan and email to the PAO, Director of Tax and Controller.
 * Mail related to employment, payroll, workers compensation, court orders - mail to designated Payroll Specialist.
-* Mail related to unemployment claims - scan and email to the [designated People Operations Specialist](/handbook/people-group/offboarding/#us-unemployment-claim-management) at `peopleops@gitlab.com`.
+* Mail related to unemployment claims - scan and email to the [designated People Connect Team member](/handbook/people-group/offboarding/#us-unemployment-claim-management) at `people-connect@gitlab.com`.
 * Mail addressed to AP - scan and email to ap@gitlab.com.
 * Mail addressed to Meltano - scan and email to the contact person as listed in the Company Mail doc.
 * All human resources related documents will be sent to a designated team member on the People Group Team.
