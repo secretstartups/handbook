@@ -13,7 +13,7 @@ description: "April edition of the Field Flash Newsletter sent to the GitLab Fie
 *This email newsletter was originally sent to the GitLab Field Team and stakeholders on 2020-05-05.*
 
 ## GitLab Field Flash: Your Top Field Highlights from April ⚡️
-Happy Q2! In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll find new resources to compete with GitHub, important updates about Chorus, a new EMEA case study, more information about the Women in Sales Mentorship pilot program, and much more. Also, John May overviews his deal of the month, and we get to know Mike and Steve Terhar in the Friends and Family edition of Team Member Spotlight.
+Happy Q2! In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll find new resources to compete with GitHub, important updates about Chorus, a new EMEA case study, more information about the Women in Sales Mentorship pilot program, and much more. Also, John May overviews his deal of the month, and we get to know Mike and Steve Terhar in the Family and Friends edition of Team Member Spotlight.
 
 ### New Resources to Take on GitHub
 On April 14, 2020, GitHub [announced](https://github.blog/2020-04-14-github-is-now-free-for-teams/?_lrsc=30bee600-df35-4e13-b625-d50725bd0880) pricing changes, including private repositories with unlimited collaborators. **Looking for more information and in-depth competitive resources?** Check out:
