@@ -112,7 +112,7 @@ A few additional resources that can be helpful when working with Mermaid are:
 - A [CSS color bank](https://www.rapidtables.com/web/css/css-color.html) to add color to your charts.
 - You can see an example of how to add images to Mermaid charts [here](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuICBDIC0tPiBHXG4gIEcoXCI8aW1nIHNyYz0naHR0cHM6Ly9pY29uc2NvdXQuY29tL21zLWljb24tMzEweDMxMC5wbmcnOyB3aWR0aD0nMzAnIC8-XCIpIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCJzZWN1cml0eUxldmVsIjoibG9vc2UifX0).
 - Examples of Mermaid charts that have been created by GitLab team members:
-    - [Talent Development Program Chart](/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Operations Specialist
+    - [Talent Development Program Chart](/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Compliance Partner
     - [CEO Year at a Glance](/company/cadence/#year-at-a-glance)
     - [Data Infrastructure System Diagram](/handbook/business-ops/data-team/platform/infrastructure/#system-diagram)
 - [Advanced layout demos](mermaid) for Mermaid diagrams
@@ -707,7 +707,7 @@ The GitLab Team Meetings Calendar is available to all team members and can be fo
 1. Select `Subscribe to calendar`
 1. Enter in the search field `gitlab.com_6ekbk8ffqnkus3qpj9o26rqejg@group.calendar.google.com` and then press enter on your keyboard
 
-Please reach out to a People Experience Associate if you have any questions. NOTE: Please do NOT remove any meetings from this calendar or any other shared calendars, as it removes the event from everyone's calendar.
+Please reach out to a People Connect Team member if you have any questions. NOTE: Please do NOT remove any meetings from this calendar or any other shared calendars, as it removes the event from everyone's calendar.
 
 You can find the details for the Company Calls, Group Conversations, 101s, and other teams' meetings here, so you can attend a different teams' meeting and ask questions, learn about what they're working on, and get to know the rest of the GitLab Departments and teams.
 
@@ -715,7 +715,7 @@ These meetings are open to everyone in GitLab.
 
 If you are creating a new team meeting, please [add it](#adding-an-event-to-the-gitlab-team-meetings-calendar) to the GitLab Team Meetings calendar
 
-Please reach out to the People Experience team by pinging `@people_exp` in the `#people-connect` Slack channel with any questions, requests or changes to the GitLab Team Meetings calendar.
+Please reach out to the People Connect Team in the `#people-connect` Slack channel with any questions, requests or changes to the GitLab Team Meetings calendar.
 
 ##### Adding an event to the GitLab Team Meetings calendar
 
