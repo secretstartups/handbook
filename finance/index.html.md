@@ -86,7 +86,7 @@ on 1Password:
 - Amazon
 - IND (Immigratie en Naturalisatie Dienst, in the Netherlands) company number
 
-If you need this information but cannot find it in your shared vaults, check with the People Operations Specialists to get access.
+If you need this information but cannot find it in your shared vaults, check with the People Connect Team members to get access.
 
 ### Fiscal Year
 
