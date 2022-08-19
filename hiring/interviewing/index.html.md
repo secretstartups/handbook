@@ -120,7 +120,7 @@ These steps may vary role-to-role, so please review the hiring process on the jo
 1. **CEO interviews**: The CEO may choose to interview candidates in a last round interview after reviewing the offer package.
 1. The recruiter, hiring manager, executive, or CEO should make an **offer** verbally during a call with the candidate, and it will be followed with an official contract as described in [preparing offers and contracts](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/).
 1. The talent acquisition team will, if applicable, add language to the contract that states that employment or engagement is contingent on a valid work permit or visa. A start date should factor in that the approval of a new work permit may take several weeks.
-    - Note that, when scheduling a start date, People Ops Specialists require at least 4 days notice from the receipt of an executed offer until the GitLab team-member's proposed first day.
+    - Note that, when scheduling a start date, as best practice allow at least a 10 days prior to the start day to avoid a negative onboarding experience. For exceptions, work with the CES Team and the People Connect Team.
 1. The manager follows up to ensure that the offer is accepted and that the contract is signed.
 1. CES [starts the onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md).
 1. The hiring manager considers [closing the vacancy](/handbook/hiring/vacancies/#closing-a-requisition).

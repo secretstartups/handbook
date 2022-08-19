@@ -31,7 +31,7 @@ description: "This page discusses the Internal Hiring Process"
 * Recruiters will set up notifications for internal applications, to ensure they are notified when internal candidates apply to the role
 * Once the Recruiter receives an internal team members application, they will proceed with the following:
    * Ensure the internal team members GitLab email is associated with their application. If it is not, then update it as such and notify the team member of this change.
-   * Reach out to People Connect by emailing peopleops@gitlab.com with the following subject line “Eligibility Check for internal team member”. In the body of the email please include the team member name and the link to their Greenhouse application.
+   * Reach out to People Connect by emailing people-connect@gitlab.com with the following subject line “Eligibility Check for internal team member”. In the body of the email please include the team member name and the link to their Greenhouse application.
    * Once the Recruiter is notified that the eligibility check is completed via the private notes in Greenhouse, and if eligible, Recruiter will reach out to the team member to introduce themselves and set expectations around the process. If a team member is not eligible, Recruiter will send the appropriate decline email template. 
 * Recruiter will then continue the process as described in the [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/) for all candidates. Recruiter will use identified templates in Greenhouse to communicate with candidates, current managers and hiring managers throughout the internal hiring process. 
 * If an internal candidate is moved to offer, the Recruiter will ask the internal candidate what their compensation expectations are. Recruiter will input that information in the private notes section of Greenhouse and share it with the hiring manager. 
@@ -48,7 +48,7 @@ description: "This page discusses the Internal Hiring Process"
 ## People Operations Responsibilities
 
 * People Connect will handle all eligibility checks for team members applying for an internal opportunity.  
-* Engage People Connect by emailing peopleops@gitlab.com with the following subject line “Eligibility Check for Internal Team Member”. In the body of the email please include the team member name and the link to their Greenhouse application.
+* Engage People Connect by emailing people-connect@gitlab.com with the following subject line “Eligibility Check for Internal Team Member”. In the body of the email please include the team member name and the link to their Greenhouse application.
 * People Connect will notify the Recruiter that the eligibility check is completed via the private notes in Greenhouse. They will also include the appropriate PBP on CC.
 Ensure you have met your department specific eligibility requirements:
    * Guidelines for performance eligibility:
