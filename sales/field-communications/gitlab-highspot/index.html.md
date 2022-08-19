@@ -30,17 +30,20 @@ GitLab ultimately chose to onboard Highspot as a sales enablement solution / sal
 
 ### Key definitions
 
-1. **Spots** - Spots are similar to a landing page. We use spots to provide quick access to specific content for a certain group or purpose. Spots are the basic building blocks of Highspot. See [GitLab Spots](/handbook/sales/field-communications/gitlab-highspot/#gitlab-spots) for a full list of Spots. 
+1. **Spots** - Spots are similar to an asset folder. We use spots to provide quick access to specific content for a certain group or purpose. Spots are the basic building blocks of Highspot. User access to content is determined at the Spot level. See [GitLab Spots](/handbook/sales/field-communications/gitlab-highspot/#gitlab-spots) for a full list of Spots. 
+1. **SmartPage** - SmartPages are similar to landing pages. Content Owners can create SmartPages to display curated content and provide instructions and CTAs for field members.
 1. **Lists & List Groups** - Lists work as filters, and make it easier to find the content you need. Lists can then be collected under list groups for further organization.
-1. **Content owners (Role: Administrator, Co-Administrator, Editor)** - Content owners are responsible for the management of content in Highspot in one or more spots. They can also make high-level changes to the search structure as needed.
-   1. The key difference between Admins/Co-Admins and Editors is that Admins/Co-Admins can delete a spot while Editors cannot.
-1. **Role: Employee** - This is the access level that most GitLab GTM team members will have. With this access, team members can view and pitch (for external content) all content in all Spots, but they cannot add content to Locked spots. 
+1. **Role: Field User** - Field users, or Contributors, have the ability to pitch items to prospects and customers, view pitch performance analytics, and submit content to Highspot Spot Owners for reivew and publishing. This is the access level that most GitLab GTM team members will have. 
+1. **Role: Content Owners** - Content owners, or Publishers, have the ability to add and manage content, design and build SmartPages, and create and manage lists and Spots. Content Owners are responsible for the management of content in Highspot in one or more spots. They can also make high-level changes to the search structure as needed.
+1. **Role: Spot Owner** - Spot Owners are the DRI for a Spot, and oversee content governance and usage performance for the Spot and its users.
+   1. The key difference between Owners/Co-Owners and Editors is that Owners/Co-Owners can delete a spot while Editors cannot.
+1. **Role: Analyst** - Analysts have the ability to create reports within the Analytics section of Highspot and view reports in the Analytics Spot.
 1. **Contribution Status: Locked** - Only Content Owners can contribute content to these spots. All can view. 
 1. **Contribution Status: Open - Review Required** – GitLab team members can contribute to these spots but review and approval will be required from a designated content reviewer before the content is viewable by all users.
 1. **Contribution Status: Open** - GitLab team members can contribute content to these spots without the need for review.
 1. **Internal & External Content** - All content in Highspot will be marked as either internal or external: 
-   1. **Internal** - This content is for internal consumption/enablement only. Under NO circumstances should this content be shared with external audiences - customers, prospects, partners, etc. You should also not download this content onto your local device. (You can always bookmark content to your personal spot to revisit later.)
-   1. **External** - This content has been reviewed and approved for distribution to external audiences in a small forum (customer/partner call, etc.). You should *always* consult GitLab Legal before distributing content to a large audience (ex. conference or GitLab event), regardless of its distinction in Highspot. 
+   1. **Internal** - This content is for internal consumption/enablement only. Under NO circumstances should this content be shared with external audiences - customers, prospects, partners, etc. You should also not download this content onto your local device. (You can always bookmark content to your personal spot to revisit later.) All items marked as internal cannot be pitched (the pitch function is disabled).
+   1. **External** - This content has been reviewed and approved for distribution to external audiences in a small forum (customer/partner call, etc.). You should *always* consult GitLab Legal before distributing content to a large audience (ex. conference or GitLab event), regardless of its distinction in Highspot. All items marked as external can be pitched to prospects and customers.
 
 ### GitLab Spots
 
@@ -49,11 +52,10 @@ GitLab ultimately chose to onboard Highspot as a sales enablement solution / sal
 | **Channel & Alliances** | Channel marketing material to share with Partners and internal GitLab team members. | All internal team members | Locked | 
 | **Competitive Intelligence** | All internal competitive matters; to be used for self-education about our competitors. | All internal team members | Locked | 
 | **Customer Success** | CS Operations, Gainsight, Professional Services, Solutions Architects, Technical Account Management. | All internal team members | Open - Review Required |
-| **Customer-Facing Content** | Case studies, industry research (publicly shareable), collateral, email templates. | All internal team members | Locked |
-| **Field Enablement** | Training, onboarding, organization-wide changes or large projects. | All internal team members | Locked |
-| **Marketing** | Internal marketing collateral, personas, value drivers, use cases, internal analyst reports. | All internal team members | Locked |
+| **Customer Outreach** | Resources and insights to support customer collaboration, including case studies, industry research, personas, value drivers, analyst reports, marketing campaigns, and events. | All internal team members | Locked |
+| **Field Strategy and Enablement** | Training, onboarding, organization-wide changes or large projects. | All internal team members | Locked |
 | **Sales Plays** | All active and past GitLab [Sales Plays](/handbook/marketing/sales-plays/). | All internal team members | Locked |
-| **Sales Contributed Content** | Collateral that Field team members have created for customers and prospects – examples of "what good looks like." | All internal team members | Open - Review Required |
+| **Field Contributed Content** | Collateral that Field team members have created for customers and prospects – examples of "what good looks like." | All internal team members | Open - Review Required |
 | **Personal Spot** | Each team member with a Highspot account will have their own personal spot that they can use to upload content of their own. Naming convention is `[Your Account First Name] Spot`. | Account holder only | Open |
 
 ### Availability
@@ -405,7 +407,7 @@ See recordings for internal, GitLab-specific Highspot trainings below:
 1. [GitLab Highspot Content Owner Training, 2021-11-02](https://youtu.be/X07uT2G90HQ)
 1. [GitLab Highspot Content Owner Refresh Training, 2022-01-20](https://youtu.be/UdbGCxC2gzA)
 
-### GitLab Highspot Best Practices
+### GitLab Highspot Best Practices for Content Owners
 
 #### Uploading Content 101 
 
@@ -490,9 +492,24 @@ It is likely that this scenario will happen most often with the Customer-Facing 
 
 ![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_AddBookmark.png)
 
-#### Designing and Building SmartPages 
+#### Designing and building SmartPages 
 SmartPages make it easier for Content Owners to design and build sales enablement content and guidance. Highspot offers a series of SmartPage templates to get you started, including what are called Homepages and Sales Plays. Homepages are designed to direct users to relevant content, and are generally used as Spot overviews and directories. 
 
 Plays are designed to track internal and external engagement, and come with an analytics feature called a Scorecard. When creating a SmartPage for a marketing campaign or sales initiative, you will generally want to use a Sales Play template.  
 
 Learn more about designing and building [SmartPages](https://help.highspot.com/hc/en-us/articles/360003228554-Build-a-SmartPage-in-the-Page-Designer) and [Sales Plays](https://help.highspot.com/hc/en-us/articles/360053638814-Create-a-Sales-Play) in the Highspot Help Center.
+
+#### Creating pitch templates 
+Highspot offers what they call pitch templates, which are email templates that can be created by GitLab and sent to prospects and customers with pre-written messages and pre-selected content attached. These templates include built-in tracking and analytics capabilities, and are intended for 1-to-1 or 1-to-few communications.
+
+Once a pitch template is created, currently anyone with access to the Pitch Template Spot can access that template, customize it as/if they see fit, send the template to a prospect or customer, and view all tracked activities.
+
+The Highspot Help Center provides instructions on how to create pitch templates, which you can read [here](https://help.highspot.com/hc/en-us/articles/214982823-Create-a-Pitch-Template). In addition, follow these steps to help keep GitLab's pitch templates organized and consistent:  
+
+   * Create new pitch templates in the Pitch Templates Spot. Users can bookmark templates to their own Spot, and Spot Owners can bookmark or filter pitch templates in SmartPages to quickly surface these items.
+   * Add a descriptive title and description. These fields are internal to Highspot and should help users know when/how/why to use the template. Titles should be consistent, such as when adding a sequence of templates.  
+   * Add a message using text and dynamic fields (i.e. Customer name, Company), which will auto-fill for the user when pitching. Users can edit the message when pitching. This will not affect the template. However, the user's edits will show clearly in their own Pitches Spot, as well as in SFDC.
+   * Attach an item. All pitch templates must include at least one piece of content from within Highspot. If no content is selected when creating the pitch template, users must add an item when pitching.
+   * Tag all relevant lists within the pitch template properties. Lists are how users filter content on Highspot. Assigning the Use Case, Role, Market Segment, and Industry, at a minimum, will support a segment and role-based user experience of Highspot.
+   * Remember: Users can relate a pitch template to a lead, contact, opportunity, or account in SFDC using the Relate and Send To fields within the Send Email Pitch window. 
+   * Remember: Users can enter a custom email signature in Highspot, which will auto-display when pitching.  
