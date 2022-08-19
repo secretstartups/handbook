@@ -21,7 +21,7 @@ On this page, we're detailing how informal communication occurs at GitLab, how i
 
 ## What do we mean by **informal communication**?
 
-Informal communication in the workplace is made up of interactions between co-workers that is unofficial in nature and focuses on building social relationships outside of the normal hierarchy of a typical business structure.
+Informal communication in the workplace is made up of interactions between co-workers that are unofficial in nature and focus on building social relationships outside of the normal hierarchy of a typical business structure.
 
 In other words, it's what happens when we get to know each other and talk about anything *other* than work.
 
