@@ -20,18 +20,27 @@ The mission of the generational understanding [TMRG](/company/culture/inclusion/
 
 ## Lead(s)
 
-* [Darwin Sanoy](https://gitlab.com/DarwinJS)
+* [Miles Russell](https://gitlab.com/mdrussell) - from earlier 1/3 of current workplace generations.
+* [Terri Chu](https://gitlab.com/terrichu) - from middle 1/3 of current workplace generations.
+* [Darwin Sanoy](https://gitlab.com/DarwinJS) - from later 1/3 of current workplace generations.
 
 ## Communications
 
 * Slack Channel: [#generational_understanding](https://gitlab.slack.com/archives/C014A4NNVG8/p1596576533036100)
-* Tri-Weekly Group Meeting
-  * [Agenda](https://docs.google.com/document/d/1h81q60KnCJFsATKjZKOFglBmgkv8TlGrKY8punX2SEg/edit#heading=h.hypr6mscnzqs)
 * [Google Group](https://groups.google.com/a/gitlab.com/g/Generational_Differences_ERG)
 
 ## Activities
 
-### [Film Discussion - Duty Free](https://gitlab.com/gitlab-com/book-clubs/-/issues/26)
+### Recurring Activities
+* Tri-Weekly Group Meeting
+  * [Agenda](https://docs.google.com/document/d/1h81q60KnCJFsATKjZKOFglBmgkv8TlGrKY8punX2SEg/edit#heading=h.hypr6mscnzqs)
+
+### As Needed Activities
+* Responding to recruiting requests for candidates who wish to talk about Generational Understanding at GitLab.
+
+### Past Activities
+
+#### [Film Discussion - Duty Free](https://gitlab.com/gitlab-com/book-clubs/-/issues/26)
 
 Join our Film Discussion. In this iteration, we're watching the film "Duty Free". About the film:
 
@@ -39,7 +48,7 @@ Join our Film Discussion. In this iteration, we're watching the film "Duty Free"
 
 The film discussion will take place at the next TMRG meeting on 07/06/2021. Add yourself to the Film Discussion issue linked above and join us for the Zoom discussion or contribution asynchronously through the issue.
 
-### [Book Club - Wisdom at Work](https://gitlab.com/gitlab-com/book-clubs/-/issues/13)
+#### [Book Club - Wisdom at Work](https://gitlab.com/gitlab-com/book-clubs/-/issues/13)
 
 Join our Book Club! In this iteration, we're discussing the book "Wisdom at Work: The Making of a Modern Elder" by Chip Conley. The book is self-described as:
 
