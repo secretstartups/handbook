@@ -45,7 +45,6 @@ If you are a GitLab Team Member and interested in participating in the course, y
 
 **FY23** 
 
-- 2022-07: [Begins 2022-07-01 in APAC timezone. Sign Ups currently open for team members](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/517)
 - FY23 Q3: 2 cohorts, dates TBD
 - FY23 Q4: 2 cohorts, dates TBD
 
