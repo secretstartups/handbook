@@ -5,6 +5,51 @@ title: "Brand Leadership"
 
 ## Levels
 
+## Senior Manager, Video
+
+The Senior Manager, Video reports to the Director, Brand.
+
+#### Senior Manager, Video Job Grade
+
+The Senior Manager, Video is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+
+#### Senior Manager, Video Responsibilities
+
+* Creative direct and manage Digital Video Production Team
+* Help develop video strategy for brand and marketing initiatives
+* Manage the quarterly and bi-annual production deliverables and schedule
+* Manage digital production budget, vendors, and schedules
+* Plan and manage and/or oversee video projects including scripting, storyboarding, art direction, and motion graphics, to create world class brand experiences
+* Collaborate closely with internal stakeholders to assess and prioritize video production needs
+* Manage audio and video production needs for GitLab events
+* Report on production metrics
+* Manage feedback from the creative team, business partners, campaign managers, and marketers
+* Build and implement creative processes that improve the output and efficiency of creative video initiatives
+* Manage and oversee the YouTube Brand channel and Vimeo platform
+* Direct video shoots and manage production crew, as needed
+
+#### Senior Manager, Video Requirements
+
+* Relevant video creative experience in marketing and/or advertising, experience related to broadcast television and online media a plus. 
+* Proven ability to plan and manage video and audio production across a variety of deliverables and familiarity with workflows. 
+* An ability to act as a Creative Director and ideate, script, and develop innovative and effective branded content that tells stories, communicates benefits, and drives brand awareness. 
+* Ability to think across platforms/mediums and create tailored content across channels that help drive marketing objectives.
+* Ability to translate quantitative data into clear, actionable creative direction and ideas
+* Communicates clearly & effectively, advocates for ideas, and establishes credibility with peers & leaders
+* Progressive experience leading and developing a high performance team
+* Ability to sell concepts to senior stakeholders via comps, storyboards, and written narratives
+* Utilizes sound critical thinking & problem-solving skills, and comes to the table with solutions
+* Knowledge and experience with branded content, digital distribution platforms, social media, and associated marketing strategies
+* Understanding of B2B brand advertising strategies especially in the digital and high-technology space.
+
+## Performance Indicators
+
+* Increases overall brand awareness through video assets and channels.
+* Improves video production processes.
+* Increases quantity and quality (and performance) of video content created for the brand.
+* Contributes to the success of the Marketing OKRs.
+
+
 ## Director, Brand 
 
 The Director, Brand reports to the Sr. Director, Brand.
