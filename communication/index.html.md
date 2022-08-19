@@ -868,7 +868,7 @@ Indicate your availability by updating your own calendar using Google's ["out of
 1. We prefer [Zoom](https://gitlab.zoom.us/).
 1. Google Calendar also has a [Zoom plugin](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle?hl=en-US) where you can easily add a Zoom link for a video call to the invite.
 1. For meetings that are scheduled with Zoom:
-   - If you need more privileges on Zoom (longer meeting times, more people in the meeting, etc.), please contact People Operations Specialist as described [specifically for Zoom](/handbook/tools-and-tips/other-apps/#shush).
+   - After reviewing our [Zoom](/handbook/tools-and-tips/zoom/) handbook page, if you have additional questions, please contact IT in the `#it_help` Slack channel.
    - Note that if you select to record meetings to the cloud (setting within Zoom), you must include the text `[REC]` in the meeting title if you want them to be automatically placed in the `GitLab Videos Recorded` folder in Google Drive on an hourly basis via a [scheduled pipeline](https://gitlab.com/gitlab-com/zoom-sync/pipelines).
    - You can find these videos in Google Drive by looking under `Shared drives` and `GitLab Videos Recorded`. If you do not have access to this drive, contact [IT Ops](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/issues).
    - The [script for syncing the files is here](https://gitlab.com/gitlab-com/zoom-sync).
