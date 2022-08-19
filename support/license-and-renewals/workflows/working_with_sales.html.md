@@ -43,9 +43,10 @@ description: This page is about working with sales.
         * Account owner says the account is not theirs any more.
         * Account owner says they have no time to help.
    1. If the Salesforce `Account Owner` is not a person
+      1. If it's an SMB AMER account, Chatter `AMER Pooled AEs`, otherwise:
       1. Find the person in charge of the [sales segment](/handbook/sales/field-operations/gtm-resources/#segmentation)
         and [sales territory](/handbook/sales/territories/)
-        and mention them in a Chatter comment.
+        and mention them in a Chatter comment. 
    1. If anyone you reach out to does not respond within 24 hours (excluding weekend, Family and Friends Day & global holidays):
       1. Mention the person's direct manager in a Chatter comment.
          * Suggested message text:
