@@ -55,23 +55,19 @@ The Learning & Development team has a number of resources to help team members l
 
 ## Overview
 
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 50.82%; padding-top: 0; height: 0;"><iframe frameborder="0" width="500" height="350" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/62fe8a909b925c0018b5de80" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
 ### Purpose
 
-_Why we exist_
-
-L&D is here to guide team members on their career journey. We strive to foster a culture of learning and development so that GitLab remains a great place to work. When our team members can do their jobs, our customers are happy as a result. This makes everyone at Gitlab happy! 
+_Why we exist:_ L&D is here to guide team members on their career journey. We strive to foster a culture of learning and development so that GitLab remains a great place to work. When our team members can do their jobs, our customers are happy as a result. This makes everyone at Gitlab happy! 
 
 ### Vision 
 
-_Where are we going_
-
-GitLab seeks to be recognized as a top organization for remote learning & development. We aim for a future where **everyone contributes** to a culture of curiosity. 
+_Where are we going:_ GitLab seeks to be recognized as a top organization for remote learning & development. We aim for a future where **everyone contributes** to a culture of curiosity. 
 
 ### Mission
 
-_What we do_
-
-We empower individual contributors and equip leaders through self-service learning. We accomplish a culture of development by: 
+_What we do:_ We empower individual contributors and equip leaders through self-service learning. We accomplish a culture of development by: 
 
 - Focusing on skill-based learning 
 - Providing resources to improve career mobility 
@@ -89,18 +85,14 @@ _Performance indicators_
 ### Principles
 
 1. **Meaningful and relevant content.** We deliver learning solutions that help you reach your professional goals.
-
 1. **Values aligned.** Our learning solutions reinforce GitLab’s [values](/handbook/values/) and foster continuous learning and curiosity.
-
 1. **Diverse approaches to learning.** We apply a blended learning model to find solutions to various individual needs.
-
 1. **Community.** L&D offerings available to the public so that everyone can contribute.
 
 ### What are we not responsible for?
 
 1. Customer & Product Training
 2. Designing, developing, and delivering comprehensive training to all team members
-
 
 ## GitLab Learning Strategy & Roadmap
 
@@ -127,26 +119,19 @@ We are a small team, but we've got a big role to play at GitLab!
 * [Learning and Development Director](/job-families/people-ops/learning-development/#learning--development-manager): [Satu Salminen](/company/team/#ssalminen)
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jacie Bandur](/company/team/#jbandur)
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Samantha Lee](/company/team/#slee24)
-* [Learning System Administrator](/job-families/people-ops/learning-system-administrator/): [Jamie Allen](https://about.gitlab.com/company/team/#jallen16)
+* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jamie Allen](https://about.gitlab.com/company/team/#jallen16)
 
 ## Contact Us
 
-Slack: `#learninganddevelopment`
-
-Email Us: `learning@gitlab.com`
-
-[Request support/Collaborate on new learning content](/handbook/people-group/learning-and-development/work-with-us)
-
 Please take 5 minutes for a survey to [tell us how do you prefer to learn](https://forms.gle/Hafkqygy6LfJxWFw6)!
 
+1. Slack: `#learninganddevelopment`
+1. Email Us: `learning@gitlab.com`
+1. [Request support/Collaborate on new learning content](/handbook/people-group/learning-and-development/work-with-us)
 
-## Work With Us
+### Work With Us
 
-To request support from L&D, please see the process for [working with us](/handbook/people-group/learning-and-development/work-with-us). This page outlines issue templates and processes that are managed on our [Learning and Development issue board](https://gitlab.com/gitlab-com/people-group/learning-and-development/-/issues).
-
-We will review and classify your request based on the scalability and possible organizational impact: learning solutions that can be applied and used company-wide take priority. 
-
-This is the process:
+The [work with us](/handbook/people-group/learning-and-development/work-with-us) page outlines issue templates and processes that are managed on our [Learning and Development issue board](https://gitlab.com/gitlab-com/people-group/learning-and-development/-/issues). We review and classify requests based on the scalability and possible organizational impact. Learning solutions that can be applied and used company-wide take priority. Our process includes:
 
 *  Evaluate the strategic impact of the learning session
 *  Determine the level of work associated with the learning requirement
@@ -158,7 +143,7 @@ This is the process:
 
 ### Handbook First Training Content
 
-All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning). One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
+All material in the handbook is considered training and we build [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning). One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -166,12 +151,10 @@ All material in the handbook is considered training. The Learning & Development 
 
 ### Learning & Development Team Meetings
 
-Overview of the type of meetings the Learning & Development participates in every quarter:
-
 | Meeting Type | Cadence/Time | Description |
 | ------ | ------ | ------ |
-| 1:1 | Weekly meeting/25 minutes | <br> - 1:1 meeting between direct report and manager of L&D team. <br> - Topics covered include: task management, career development, performance management, blockers, project updates, brainstorming, coaching, etc. <br> - During the meeting, if their is an item that requires broader team collaboration it will be added to the bi-weekly team meeting. |
-| L&D Team Meeting | Every two weeks/40 minutes | <br> - Strategic items that have been brought up during 1:1 meetings that impact the team as a whole. <br> - The meetings will cover items that are strategic in nature that require discussion, brainstorming, collaboration, and synthesis with the team |
+| 1:1 | Weekly meeting/40-45 minutes | <br> - 1:1 meeting between direct report and manager of L&D team. <br> - Topics covered include: task management, career development, performance management, blockers, project updates, brainstorming, coaching, etc. <br> - During the meeting, if their is an item that requires broader team collaboration it will be added to the bi-weekly team meeting. |
+| L&D Team Meeting | Weekly meeting/40 minutes | <br> - Strategic items that have been brought up during 1:1 meetings that impact the team as a whole. <br> - The meetings will cover items that are strategic in nature that require discussion, brainstorming, collaboration, and synthesis with the team |
 | L&D Quarterly Strategic Meeting | Quarterly/90 minutes to 2 hours | <br> - Review what was acheived in the quarter, what wasn't, and lessons learned <br> - Team members will present plans on what they are focused on for the next quarter <br> - Review team morale, team dynamics, learner satisfaction, long term impact, and alignment with Peope Group goals. |
  
 ### L&D team sprints
@@ -215,18 +198,17 @@ The L&D team freqently uses the following tools for creating and communicating l
 
 | Tool | Purpose |
 | ----- | -------- |
-| Powtoon | Video Creation |
-| LucidChard | Interactive Diagrams |
-| Loom | Screen recordings |
-| Canva | Image and infographic creation |
-| Articulate/Rise 360 | Course Authoring |
+| [Powtoon](https://www.powtoon.com/) | Video Creation |
+| [LucidChard](https://www.lucidchart.com/) | Interactive Diagrams |
+| [Loom](https://www.loom.com/home) | Screen recordings |
+| [Canva](https://www.canva.com/) | Image and infographic creation |
+| [Articulate/Rise 360](https://articulate.com/) | Course Authoring |
+| [Genial.ly](https://app.genial.ly/dashboard) | Create Interactive Images |
 
 
 ## Developing Learning Content
 
 ### Top Five Training Content Development Principles
-
-If you are developing content to meet your learning needs or partnering with the L&D team, here are five key principles to consider when formulating a learning session: 
 
 1. **Know Your Audience** - Analyze and assess the course audience. Ensure that all audience needs are accounted for at every level in the organization you are delivering the training too. 
 
@@ -234,25 +216,25 @@ If you are developing content to meet your learning needs or partnering with the
 
 3. **Break Down Complex Information** - Consider breaking down complex information into easy to digest visuals or text. Reference the handbook but do not be afraid to create a visual representation or use storytelling for the audience.
 
-4. **Engage the Learner** - Adults learn through practice and involvement. Consider using tools to engage learners in a virtual setting like [Mentimeter](https://www.mentimeter.com/) or [Kahoot](https://kahoot.com/business-u/) to stimulate interactivity. Ask the [L&D team](/handbook/people-group/learning-and-development/) for more insight on learning engagement tools. There is a lot you can leverage! 
+4. **Engage the Learner** - Adults learn through practice and involvement. Consider using tools to engage learners in a virtual setting like [Mentimeter](https://www.mentimeter.com/) or [Kahoot](https://kahoot.com/business-u/) to stimulate interactivity.
 
-5. **Implement Blended Learning Course Content** - Give the audience some pre-course work to read and review before the learning session. Use off-the-shelf resources and ensure the content is applicable to what will be covered in the session. Follow up with the audience following the session to gauge how they've applied what they've learned on the job through surveys and questionnaires. 
+5. **Implement Blended Learning Course Content** - Give the learners pre-course work to read and review before the learning session. Use off-the-shelf resources and ensure the content is applicable to what will be covered in the session. Follow up to gauge how they've applied what they've learned on the job through surveys and questionnaires. 
 
 ### Application of Adult Learning Theory
 
 Adults learn differently in the workplace than in traditional learning environments or how they learned growing up. If you are developing training, consider applying principles related to Adult Learning Theories, those include: 
 
-1. **Transformative learning:** The learning experience should aim to change the individual through transformative learning approaches. Start with learning experiences that appeal to your specific audience, and then move to activities that challenge assumptions and points of view.   
+1. **Transformative learning:** Learning should change the individual through transformative learning approaches. Start with learning experiences that appeal to your specific audience, and then move to activities that challenge assumptions and points of view.   
 
-2. **Self-directed learning:** Most of the learning that adults do is outside the context of formal training, so there should be an emphasis on augmenting those informal learning experiences. Infuse applications of pre-reads and post-course follow up. Have the participants bring up examples of self-directed learning that they have taken that is related to the training course. 
+2. **Self-directed learning:** Emphasize informal learning experiences. Infuse applications of pre-reads and post-course follow up. Have the participants bring up examples of self-directed learning that they have taken that is related to the training course. 
 
 3. **Experiential learning:** Adults learn through experiences and by doing. When designing a learning experience, apply activities to stimulate learning by doing through role-playing, simulations, virtual labs, case studies, etc. 
 
-4. **Andragogy:** Recognize that adults learn differently than children. Design learning experiences with the assumption that your participants will come to the table with their own set of life experiences and motivations. Adults tend to direct their own learning, tend to learn better by doing, and will want to apply their learning to concrete situations as soon as possible. 
+4. **Andragogy:** Design learning experiences with the assumption that your participants will come to the table with their own set of life experiences and motivations. Adults tend to direct their own learning, learn better by doing, and want to quickly apply their learning to concrete situations. 
 
 ### Developing Learning Objectives
 
-If you are developing training, add learning objectives to the beginning of the content to state a clear training outcome. A clear learning objective describes what the learner will do upon completion of a learning/training activity. Good learning objectives are what you want team members to learn or achieve. 
+Add learning objectives to the beginning of the content to state a clear training outcome. A clear learning objective describes what the learner will do upon completion of a learning/training activity. Good learning objectives are what you want team members to learn or achieve. 
 
 **Steps to creating learning objectives:** 
 1. Identify the level of knowledge necessary to achieve the aim of the training. Use [Bloom's Taxonomy](https://tips.uark.edu/using-blooms-taxonomy/) to assist with writing practical learning objectives. 
@@ -265,10 +247,6 @@ If you are developing training, add learning objectives to the beginning of the 
 - By the end of the session, team members will be able to describe the steps taken to address underperformance
 - Team members will be able to apply the GROW coaching model framework to coaching sessions with members of their team 
 - After learning about the high-performance team-building model, team members will be able to determine the steps needed to reach high performance.
-
-### 70-20-10 Model for Learning and Development
-
-The L&D team uses a formula to describe the optimal sources of learning at GitLab. It shows that team members obtain 70 percent of the knowledge from job-related experiences, 20 percent from interactions with others, and 10 percent from formal learning events. The model is intended to show that hands-on experience (70 percent) can be one of the most beneficial for team members because it enables them to discover and refine their job-related skills. Team members learn from others (20 percent) through a variety of activities we offer every week. Lastly, the formula holds that only 10 percent of professional development comes from traditional live learning and eLearning events. 
 
 ### Instructional Design 101
 
