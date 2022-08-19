@@ -237,8 +237,6 @@ It is each department and team member's responsibility to ensure the handbooks (
 
 If you need permissions to directly merge changes to the handbook, please submit a [New Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests) issue and follow the process for access approval. Request a 'Maintainer' role under www-gitlab-com. See [here](https://docs.gitlab.com/ee/user/permissions.html) for a full description of roles and permissions.
 
-Any changes to the handbook as part of this review will be shared in the `#handbook` channel in Slack. People Operations Specialists will also ensure that questions asked in `#questions` are documented and all announcements on the company call have a relevant link.
-
 ## KPI
 
 The Engineering team and all sub-teams track Handbook Update Frequency as a [KPI](/company/kpis/#engineering-kpis), with varying targets per team. Currently, Engineering is the only Division tracking Handbook update frequency, so as to analyse and observe the effectiveness of this KPI.
