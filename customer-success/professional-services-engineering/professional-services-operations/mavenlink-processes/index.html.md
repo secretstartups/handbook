@@ -205,11 +205,23 @@ Members that do not have account permission of Report Viewer (or higher) will on
 
 ***Time Sheet Approvers***
 
-| Project Type | Time Sheet Approver |
+| Project Type | Time Sheet Approver |Backup |
+| ------ | ------ |------ |
+| Consulting Customer Project| Project Manager |Project Coordinator |
+| Internal Projects| PS Project Coordinator |PS Operations Manager |
+| Training Projects| PS Training Coordinator |PS Operations Manager |
+
+***Weekly Time Sheet Timelines***
+
+| Time Sheet Submission | Time Sheet Approvals |
 | ------ | ------ |
-| Consulting Customer Project/ Hours| Lead/ Project Manager |
-| Internal Projects| PS Project Coordinator |
-| Training Project/ Hours| PS Training Coordinator |
+| Each Friday, EOD| Each Monday by 11 AM EST |
+
+***Month End Time Sheet Timelines***
+
+| Time Sheet Submission | Time Sheet Approvals |
+| ------ | ------ |
+| [Due Date, by Noon EST](https://docs.google.com/spreadsheets/d/15uTHHnmIvWteYGi98BaikOVDtN99MLiVN9su-YlMMLM/edit#gid=0) | [Due Date, by 1 EST](https://docs.google.com/spreadsheets/d/15uTHHnmIvWteYGi98BaikOVDtN99MLiVN9su-YlMMLM/edit#gid=0) |
 
 ****Project Notes****
 - Project notes are required for all Credit and Non Credit time entries
