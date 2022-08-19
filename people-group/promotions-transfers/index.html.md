@@ -626,7 +626,7 @@ When a career mobility may not be needed (but can be requested);
 
 ## Career Mobility Issue Creation Process
 
-The People Connect Team will notify the People Connect Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Connect Team member](https://about.gitlab.com/job-families/people-ops/people-operations/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
+The People Connect Team will notify the People Connect Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Connect Team member](https://about.gitlab.com/job-families/people-ops/people-connect/) currently in the assignment rotation will assign the migration for support. 
 
 The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Connect Team member** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) three days prior to the effective date to allow for the managers to start preparing for the team members transition.
 

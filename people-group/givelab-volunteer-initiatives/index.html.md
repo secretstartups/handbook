@@ -30,9 +30,6 @@ Team members are encouraged to take part in an initiative within their local com
 ### GitLab Donation Drives
 The first `GitLab Donation Drive` in 2020 started as an internal challenge to GitLab team members to donate 5,000 meals to [US Food Banks](https://www.feedingamerica.org/find-your-local-foodbank) over the course of a week. This initiative quickly gained traction and saw over 100,000 meals being donated across 19 countries. 2021's campaign expanded to include any type of donation, including donations of time as part of [Global Volunteer Month](#global-volunteer-month).
 
-### Be the Bridge
-The [People Operations](/job-families/people-ops/people-operations/) and [Diversity, Inclusion and Belonging (DIB)](/job-families/people-ops/diversity-inclusion-partner/) teams collaborated to establish the [Be the Bridge Program](/company/culture/inclusion/be-the-bridge-program/) which is geared toward creating opportunities for those external to GitLab to establish a mentor relationship with a GitLab team member who will be able to offer insights, share knowledge about open source and answer pertinent questions.
-
 ### Upstream Diversity Working Group
 Having identified a talent gap in both the technology and the university system which speaks predominantly to Underrepresented Groups, the [Upstream Diversity Working Group](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups) was established.
 
