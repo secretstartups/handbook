@@ -163,18 +163,19 @@ Below are the various data sources, their definitions, and uses.
    1. Attach to the [data quality epic](https://gitlab.com/groups/gitlab-data/-/epics/216)
    1. Please include screenshots for troubleshooting and _mark issue as confidential_
 
-### Cloud License and Operational Metrics (self-managed only)
+### Cloud Licensing and Operational Metrics (self-managed only)
 
-With Cloud Licensing, customers share the core set of product usage metrics (Operational Metrics), which is a subset of Service Ping. These metrics enable us to serve and support our customers through guiding them with [use case adoption scores](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/), assisting with best practices, offering guidance, and assisting with upgrade recommendations. See [7-min video on the data](https://youtu.be/8kbuZ-6Z5gs) (internal only) for more information.
+When they activate with Cloud Licensing, customers share `Subscription Data`, which contains basic license usage and instance version information. This data helps to automate activation, provisioning, co-terms and renewals. The sharing of `Subscription Data` is a standard part of GitLab's subscription agreement. `Operational Metrics` contains more detailed product usage metrics and is a subset of Service Ping. This data enable us to serve and support our customers through guiding them with [use case adoption scores](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/), assisting with best practices, offering guidance, and assisting with upgrade recommendations. See this [7-min video on the data](https://youtu.be/8kbuZ-6Z5gs) (internal only) for more information. Customers are able to seek an exemption of sharing `Operational Metrics`, if national security is a risk.
 
-**What is the relationship between Cloud License and Operational Metrics?**
+**What is the relationship between Cloud Licensing, Service Ping and Operational Metrics?**
 
-1. **Cloud Licensing**: Quarterly Reconciliations, Operational Metrics, and Auto Renewal
+1. **Cloud Licensing**: an activation method that allows a customer to share `Subscription Data`
    1. Available on 14.1+
    1. [Cloud Licensing Overview](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/)
-1. **Service Ping**: collects the payload including Subscription, Operational, and Optional metrics
+1. **Service Ping**: a service that collects the payload including Subscription, Operational, and Optional Metrics
    1. [Operational Service Data](https://internal-handbook.gitlab.io/handbook/product/fulfillment/archive/operational-service-data/#register) - internal handbook
-1. **Operational Metrics**: subset of Service Ping to collect the core metrics (we get these with cloud licensing,as they are required metrics per [Customer Success Services](https://about.gitlab.com/services/customer-success-services/))
+1. **Operational Metrics**: a subset of Service Ping containing product usage data that is required to collect the core metrics required metrics per [Customer Success Services](https://about.gitlab.com/services/customer-success-services/))
+  1. Available on 14.1+
 
 **References**:
 1. [Customer Success Services](https://about.gitlab.com/services/customer-success-services/) (client facing)
