@@ -334,3 +334,11 @@ Do not offer or join a call without engaging the Support Manager on-call to alig
 There have been a few documented cases of folks purchasing a single user GitLab license specifically to raise an emergency. If you 
 encounter such a case, engage the Support manager on-call before offering a call.
 
+# Customer Emergency On-Call Training Resources
+
+### Customer Emergency Shadow PagerDuty Schedule
+{:.no_toc}
+
+The [Customer Emergency Shadow Schedule](https://gitlab.pagerduty.com/schedules#PY3KXMC) can be used by anyone who wishes to shadow customer emergencies to learn before being Customer Emergency On-Call. To add yourself to the shadow rotation create an [issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues/new#) using the "Add User to a Rotation" template. To modify your rotation schedule use the edit user rotation template. To shadow for a short span of days, you can click _Schedule an Override_, then click _Custom duration_ and then select the time zone and the start and end dates and times before clicking the _Create Override_ button to save the changes. To remove overrides, click the **x** on the override to be removed in the list of **Upcoming Overrides** on the right side of the screen. 
+
+
