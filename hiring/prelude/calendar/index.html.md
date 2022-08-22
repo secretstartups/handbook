@@ -18,7 +18,7 @@ DRI: Candidate Experience Team
 
 #### Keep your Google Calendar up to date
   - [Ensure your working hours are documented correctly](https://support.google.com/calendar/answer/7638168?hl=en&co=GENIE.Platform%3DDesktop)
-  - Set your OOO in a timely manner, including holidays and Friends & Family days. 
+  - Set your OOO in a timely manner, including holidays and Family and Friends days. 
   - Set a free calendar appointment for 1-2 days after you return from vacation indicating "no interviews" if you would prefer not to interview during that time.
 
 #### Set your Prelude preferences
