@@ -25,6 +25,10 @@ description: Home Page for Support's Ginkgo Group
 
 ## Ginkgo workflows and processes
 
+### Breach notifications bot
+
+We have an automation in place: The Support Team Bot posts a message in our Slack channel if a ticket in our FRT queue is set to breach within the next two hours. Combined with having set up [Slack notifications for the channel](#slack-notifications), this is a powerful tool to help avoiding breaches and having ease of mind about the queue without constant manual checking.
+
 ### Ticket workflow
 
 #### FRT Stage
@@ -37,15 +41,12 @@ There are several variables that can be taken into consideration when deciding h
 
 For documentation purposes, the following table was devised as a reference guideline:
 
-```
 | Breached | Assignee           | Action                                                                                                                 |
 |----------|--------------------|------------------------------------------------------------------------------------------------------------------------|
 | No       | has an assignee    | No action needed, any ideas can (and should be) posted as an internal or field note                                    |
 | No       | no assignee or OOO | You are strongly encouraged to take it, or at least contribute with a public reply, or ideas in the form of notes      |
 | Yes      | has an assignee    | Feel free to contribute however you see fit, having in mind the ongoing discussion (we don't want to repeat ourselves) |
 | Yes      | no assignee or OOO | You are strongly encouraged to take assignment, or at least reply to the customer to avoid further breach	         | 
-
-```
 
 ### Daily Pairing Sessions
 
@@ -68,7 +69,9 @@ Some questions we discussed so far:
  - Do you put the toilet paper on the roll so that the paper comes from over the roll or under the roll?
  - Nutella – with or without butter underneath?
 
-### Slack notifications
+### Slack
+
+#### Slack notifications
 
 To update your notification settings on Slack:
 1. In Slack, right click on our channel [#spt_gg_ginkgo](https://gitlab.slack.com/archives/C0354N9B14G)
@@ -76,3 +79,11 @@ To update your notification settings on Slack:
 3. Change **Send a notification for** to **All new messages**
 4. Save Changes
 
+#### Slack group handles
+
+We have dedicated Slack group handles in place that allow us to easily target specific regions in a message:
+
+ - `@spt-ginkgo`
+ - `@spt-ginkgo-amer`
+ - `@spt-ginkgo-apac`
+ - `@spt-ginkgo-emea`
