@@ -414,7 +414,7 @@ For out-of-network services: 365 days from Date of Service.
  
 ### Basic Life Insurance and AD&D
  
-GitLab offers company paid basic life and accidental death and dismemberment (AD&D) plans through Cigna. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $500,000, which includes an equal amount of AD&D coverage. Please find addtional details, limitations, and exclusions on the [summary of benefits](https://drive.google.com/file/d/1rkA8n3zgZvnoiqzu3ZJuLwZ_9zMaNbZW/view?usp=sharing).
+GitLab offers company paid basic life and accidental death and dismemberment (AD&D) plans through Cigna which is a subsidiary of New York Life. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $500,000, which includes an equal amount of AD&D coverage. Please find addtional details, limitations, and exclusions on the [summary of benefits](https://drive.google.com/file/d/1rkA8n3zgZvnoiqzu3ZJuLwZ_9zMaNbZW/view?usp=sharing).
 
 #### Employee Assitance Program
 
@@ -429,7 +429,7 @@ For more information and how to access these benefits, please see the [EAP flyer
  
 ### Group Long-Term and Short-Term Disability Insurance
  
-GitLab provides, at no cost to our Inc and Federal team members, a policy through Cigna that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500.
+GitLab provides, at no cost to our Inc and Federal team members, a disability policy through New York Life (administered by Cigna) that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500.
 
 Short-term disability insurance has a 7-calendar day waiting period before payments begin. Benefits coverage (medical, dental, vision, etc.) and vesting will continue for the time the team member is receiving short-term disability pay. 
 
