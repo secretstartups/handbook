@@ -21,6 +21,8 @@ Definition: The Scale CSE team is a new team being established at GitLab in FY23
 
 Scale CSEs driving programmatic enablement and targeted customer engagement across the longtail customer base. [For the ARR thresholds for the Scale customer segment please reference this Wiki page](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/TAM-Segments) (GitLab Internal)
 
+The [Scale CSE operating rhythm](/handbook/customer-success/tam/segment/scale/scale-operating-rhythm/) outlines procedures Scale CSEs use to engage with customers as well as how account owners can request Scale CSE engagement outside of the normal operating rhythm during the customer lifecycle.
+
 ## Customer lifecycle
 
 The diagram below outlines the customer lifecycle for our Scale Customers:
