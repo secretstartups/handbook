@@ -124,10 +124,28 @@ For details on the Department's structure, see the [**Infrastructure Teams Handb
 
 ## Stable Counterparts
 
-Infrastructure [Reliability Engineering Squads](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/projects.html#project-squads----squad-list) may be aligned with [stage groups](/handbook/product/categories/#categories-a-z) as stable counterparts.  The table below lists current proposed SRE stable counterpart assignments. This table is work in progress and will be updated periodically.
+Infrastructure [Reliability Engineering Squads](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/projects.html#project-squads----squad-list) may be aligned with [stage groups](/handbook/product/categories/#categories-a-z) as [stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/). The responsibility of a stable counterpart varies from:
 
-|**Stage Group**|**Stable Counterpart Squad**|**Stable Counterpart Squad DRI**|
-|Verify:Runner | Runner SaaS | To be hired |
+1. Be the bridge for the stage group to the infrastructure department.
+1. Grow expertise in the service.
+1. Reviewing the stage group design documents, and readiness review.
+1. Enable the stage group to self-serve in infrastructure.
+1. Address any operational risks for that group.
+1. Route domain specific requests to other infrastructure teams.
+
+|**Stage Group**|**Reliability Team Members**|
+|--------------|-----------------------------|
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% if stage.groups %>
+      <% stage.groups.each do |groupKey, group| %>
+        <% if group.infra_reliability_team_tag %>
+          <%= "| [#{stage.display_name}:#{group.name}](/handbook/product/categories/##{group.name.downcase}-group) | #{team_links_from_group(group: group.infra_reliability_team_tag)} |" %>
+        <% end %>
+      <% end %>
+    <% end %>
+  <% end %>
+<% end %>
 
 ## Meetings 
 
