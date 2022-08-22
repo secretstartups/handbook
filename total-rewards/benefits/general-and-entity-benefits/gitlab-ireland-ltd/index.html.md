@@ -24,9 +24,9 @@ From 1st of May 2015, if you are 35 or over when you first take out private heal
 
 ### Enroll in the VHI Plan
 
-GitLab's VHI scheme will begin November 1, 2020. You can choose to enroll from this date or from your hire date (if later than Nov 1st). Team members will need to enroll via VHI directly either through the online portal or by calling VHI. GitLab has selected Company Plan Plus Level 1.3 company wide. If you feel that this does not suit your needs (or family member needs), please call VHI on `056 777 5800` and they will be able to discuss your requirements.
+GitLab's VHI scheme will begin November 1, 2020. You can choose to enroll from this date or from your hire date (if later than Nov 1st). Team members will need to enroll via VHI directly either through the [online portal](https://www.vhi.ie/access/signup) or by calling VHI. Please use the following [enrollment guide](https://drive.google.com/file/d/1YwsQp7ybVZ7cYg5G4EBlPFBJskxmjfqG/view?usp=sharing) to review the plans and retrieve the group scheme number (slide 9) required for enrollment.   Enrollment will close on October 26th for a November 1st effective date.
 
-As part of the initial enrollment, please use the following [enrollment guide](https://drive.google.com/file/d/1YwsQp7ybVZ7cYg5G4EBlPFBJskxmjfqG/view?usp=sharing) to review the plans and enroll either via the online platform or by calling VHI. Enrollment will close on October 26th for a November 1st effective date.
+GitLab has selected Company Plan Plus Level 1.3 company wide. If you feel that this does not suit your needs (or family member needs), please call VHI on `056 777 5800` and they will be able to discuss your requirements.
 
 The policy may renew automaticallly at the end of each policy year. If renewed, notification will be sent to the team member by email. 
 
