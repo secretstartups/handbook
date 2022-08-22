@@ -45,7 +45,7 @@ on the category/feature already set on an issue or MR. This is available for **o
 
 The most important rules are:
 
-* The bot doesn't change a stage or group label if the stage or group is listed in in `stages.yml` and the label is already set.
+* The bot doesn't change a stage or group label if the stage or group is listed in `stages.yml` and the label is already set.
 * A group label is chosen only if the highest group match from its category labels is > 50%.
 * A group label is chosen only if it matches the already set stage label (if applicable).
 * A stage label is set based on the chosen or already set group label.
