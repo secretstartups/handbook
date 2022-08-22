@@ -92,7 +92,7 @@ Below is the timeline for FY23:
   - Processing: July 18 to August 1 ((promotions must be added to HRIS by July 20))
      - Effective date for promotions: 2022-08-01. 
      - Communication: After fully approved in either Greenhouse or HRIS
-     - After communicated 1:1 with individuals **on or after 2022-08-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved and uploaded to Workday..
+     - After communicated 1:1 with individuals **on or after 2022-08-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved and uploaded to Workday.
 
 - FY23-Q4:
   - Planning: September 15 to September 30
