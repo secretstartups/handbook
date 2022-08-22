@@ -19,7 +19,7 @@ canonical_path: "/company/team/structure/working-groups/disaster-recovery/"
 | Date Created   | November 11, 2020                                            |
 | End Date       | TBD                                                          |
 | Slack          | [#wg_disaster-recovery](https://gitlab.slack.com/archives/C01D6Q0DHAL) (only accessible from within the company) |
-| Google Doc     | [Working Group Agenda](https://docs.google.com/document/d/1FOvwdwV7ncxTurctPFYYRSNLL1qFqCkSifdY_MiL5DY/edit) (only accessible from within the company) |
+| Google Doc     | [Working Group Agenda](https://docs.google.com/document/d/1dLgmLlvET5WyWF0CpX5JUxiyQKyDzctocs7unwLueY8) (only accessible from within the company) |
 | Issue Board    | [Working Group Issue Board](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/boards/2230578?label_name[]=wg-disaster-recovery) |
 | Epic           | [Link](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/371) |
 
