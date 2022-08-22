@@ -57,7 +57,7 @@ People with the S (Supporter) personality type tend to be "calm, patient and res
 * Driven by [efficiency](/handbook/values/#efficiency) and [results](/handbook/values/#results). 
 * Taking metrics and OKRs very seriously, and finding healthy ways to achieve them.
 * Measuring the capabilities of others in an positive, encouraging, and optimistic way.
-* Reminding others to stop working, taking time off, and encouraging others to remain healthy (mentally and physically) and friends & family-first. 
+* Reminding others to stop working, taking time off, and encouraging others to remain healthy (mentally and physically) and family and friends-first. 
 
 ## Growth Opportunities
 
