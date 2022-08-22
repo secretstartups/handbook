@@ -76,7 +76,7 @@ The use of an acronym to discuss an organization is **not permitted** in either 
 
 Tickets are assigned as they come in based on [a round-robin tool built by Support Ops](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-round-robin). This tool creates a list of available support engineers by taking the total US Federal dedicated support engineer list and then removing from that list anyone who has their [gitlab.com status](https://docs.gitlab.com/ee/user/profile/#set-your-current-status) set to one of the below options:
 
-**For out of office:** `OOO`, `PTO`, `Parental Leave`, `Friends and Family`
+**For out of office:** `OOO`, `PTO`, `Parental Leave`, `Family and Friends`
 
 **For in office, but occupied:** `Training`, `Overburdened`, `Project Deliverable`, `IT Problems`
 
