@@ -162,7 +162,7 @@ The Director, Technical Writing is a [grade 10](/handbook/total-rewards/compensa
 * Able to shape documentation process in a high-growth, quickly changing organization.
 * Able to give clear, timely, and actionable feedback.
 * You share our [values](https://about.gitlab.com/handbook/values/) and work in accordance with those values.
-* [You adhere to our view of Leadership at GitLab.](https://about.gitlab.com/company* [You adhere to our view of Leadership at GitLab.](https://about.gitlab.com/company/team/structure/#management-group).
+* [You adhere to our view of Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group).
 
 ### Performance indicators
 
