@@ -25,6 +25,8 @@ If you would like to self-serve changes to the navigation, feel free to clone th
 
 Currently, our team releases new navigation changes in bundles on **Wednesdays**. This can be adjusted as necessary, and we typically opt to release large, breaking changes in their own version. 
 
+We avoid deploying minor or major releases of the navigation on release post days.
+
 ### Releasing involves 3 main steps:
 
 1. Prepping issues for the release
