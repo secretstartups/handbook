@@ -48,6 +48,8 @@ The Learning & Development team has a number of resources to help team members l
 <div class="flex-row" markdown="0">
   <div>
     <a href="/handbook/sales/field-manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Field Manager Development</a>
+    <a href="/handbook/people-group/learning-and-development/learning-initiatives/speakers/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Speaker Series</a>
+    
     
   </div>
 </div>
