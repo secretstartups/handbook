@@ -157,7 +157,7 @@ Examples of when someone may request a meal train (this list isn't exhaustive):
 1. Ensure you can follow through on the date you sign up for or please help coordinate a replacement as soon as you know you can no longer participate. 
 1. Participation is voluntary and is **NOT** reimbursable by GitLab. Any expense incurred would be your responsibility. 
 
-If you have any questions, please reach out to parental-leave@gitlab.com.
+If you have any questions, please reach out to leaves@gitlab.com.
 
 ## Fertility & Family Planning
 

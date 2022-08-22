@@ -136,7 +136,7 @@ A nice way to celebrate a team member's new addition to their family is by hosti
 
 ## Parental Leave Policy Feedback
 
-If you have any feedback about your parental leave experience for the People group to review you can always email `parental-leave@gitlab.com` or open an issue using our [Parental Feedback Issue Template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
+If you have any feedback about your parental leave experience for the People group to review you can always email `leaves@gitlab.com` or open an issue using our [Parental Feedback Issue Template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
 
 ----
 
