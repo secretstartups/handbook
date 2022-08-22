@@ -117,6 +117,26 @@ GitLab's Data Science team has created two [propensity models](/handbook/custome
 
 More information about these models can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/), and the actual results can be found in both Gainsight and Salesforce.
 
+### Pillars of Success
+
+There are 7 pillars that we have identified as crucial for success as Growth CSMs. It is expected and normal for all CSMs to have higher proficiency in some areas and lower in others, especially when taking [job level](/company/team/structure/#layers) into consideration, but these are all areas we are continually striving to be better at, as there are always opportunities to learn and improve.
+
+1. Communication
+  - Frequent and honest communication with customers and internal stakeholders, so everyone knows what is happening and what to expect
+1. Follow-through
+  - You never leave a customer without an answer/reply, and you always do what you’ve said you’ll do
+1. Organization & Documentation
+  - You have your tasks organized and prioritized, and it’s easy for someone to quickly understand what’s going on with any given account by looking at Gainsight
+1. Relationship-building
+  - Both customers and internal team members trust you
+1. Proactivity
+  - You don’t wait to be told what to do, you have [short toes](/handbook/values/#short-toes) and a [bias for action](/handbook/values/#bias-for-action), and you plan for customer strategy
+1. Assertiveness
+  - You are comfortable telling customers what they need to do as their trusted advisor, as well as working internally to get what you need from others
+1. Perceptiveness
+  - You can “read between the lines” of what a customer is saying and identify what they need, not necessarily what they say they want
+
+
 ### Rhythm of Business
 
 While the motions in the [rhythm of business](/handbook/customer-success/tam/rhythm/) will remain the same as the Strategic segment, the Growth CSM team will have a slightly different approach to their workflow and books of business.
