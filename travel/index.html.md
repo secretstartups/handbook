@@ -65,11 +65,13 @@ If you book Hotels and/or Cars through TripActions, the costs will need to be ch
 
 **Trains**
 
-If you book Trains through TripActions, business related bookings should be, upon receipt of manager's approval, paid upfront and expensed through expensify**.
+If you book Trains through TripActions, business related bookings should be, upon receipt of manager's approval, paid upfront and expensed through expensify.
 
 **Personal Bookings**
 
 In TripActions, you have the ability to book Personal trips. Note that when selecting this option, a personal credit card will be required at time of booking. Personal trips will not have the option to be added to the GitLab invoice.
+
+
 
 #### Basic economy in TripActions
 
@@ -96,7 +98,7 @@ to book flights, hotels, trains, or rental cars.
 
 Note: Once a flight is booked, re-routing is at person’s own cost unless requested by the company or force majeure (in the latter case often the airline will cover the difference).
 
-#### FAQ about travel
+### FAQ about travel
 
 Please read through these FAQ **entirely**.
 
@@ -105,7 +107,18 @@ Please read through these FAQ **entirely**.
 1. If your flight does not have a seat selection or checked bags included, you need to arrange that with **the airline**. Usually done upon check-in online, 24H before your flight.
 1. If part of your travel has been changed after you've booked, contact **TripActions Support** about this, they can help.
 
-##### FAQ regarding transition from NexTravel to TripActions
+#### FAQ about travel upgrades
+
+1. If you are taller than 1.95m or 6'5", you can upgrade to Economy Plus. There is no dollar restriction on this since it will be hard to fit in economy with that height.
+1. For flights longer than 8 hours, you can expense:
+    * Up to the first [$300 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Business Class on flights longer than 8 hours if you are taller than 1.95m or 6'5".
+    * Up to the first [$100 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Economy Plus (no height restriction) on flights longer than 8 hours.
+1. GitLab does not cover expenses for significant others or family members for travel or immigration. This includes travel and visas for GitLab events.
+    * There are other things that [the company will not reimburse](/handbook/finance/accounting/#non-reimbursable-expenses), such as dog boarding.
+
+
+
+#### FAQ regarding transition from NexTravel to TripActions
 
 [TripActions FAQs](https://tripactions.com/faq#) is a great resource for questions surrounding TripActions features.
 
