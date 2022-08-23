@@ -36,7 +36,7 @@ Solidify GitLab's 'The DevOps Platform’ messaging, including messaging for:
 
 ## Exit Criteria
 
-Add Epic
+Achieve the business goals. Being a category leader is a multi-year effort and the focus of marketing, outside the working group.
 
 
 ## Roles and Responsibilities
