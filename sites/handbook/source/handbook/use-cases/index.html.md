@@ -94,7 +94,7 @@ I manually stage and test environments for infrastructure making it hard to trac
 *This conversation should lead the prospect toward the Delivery Automation solution.*
 
 #### [2. Source Code Management (aka Version Control and Collaboration, VC&C](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration)
-**We are looking for a way to create, manage and protect our intellectual property (i.e. source code, design, images, etc)** - in simple terms [Version Control](https://about.gitlab.com/solutions/version-control/) and Collaboration (VC&C), but more inclusively, *product configuration management* or *product asset management*.
+**We are looking for a way to create, manage and protect our intellectual property (i.e. source code, design, images, etc)** - in simple terms [Version Control](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/) and Collaboration (VC&C), but more inclusively, *product configuration management* or *product asset management*.
 We need a better way to manage changes to documents, software, images, large websites, and other collections of code, configuration, and metadata among disparate teams. (Examples in GitLab include Git, branches, merge requests, code review, InnerSourcing, WebIDE, and files.)  
 
    **Analyst Coverage**: IDC, to some extent, forecasts this market. No spot on, recent reports, though Gartner may be considering a future report.
