@@ -63,6 +63,11 @@ You can always [review past incidents](https://status.gitlab.com/pages/history/5
 
 ### About Status.io
 
+#### Updating Current Status & Current State
+{:no_toc}
+
+It is not possible to change the `Current Status` of the affected infrastructure of an incident or its `Current State` without making a formal update to the incident. It is acceptable to publish a new update to an incident in order to change either the `Current Status` of its affected infrastructure or its `Current State` regardless of how recently the last update on the incident was published.
+
 #### Frequency of Updates
 {:.no_toc}
 
