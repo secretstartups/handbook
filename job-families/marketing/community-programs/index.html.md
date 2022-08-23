@@ -47,7 +47,7 @@ The Community Programs Evangelist is a [grade 6](/handbook/total-rewards/compens
 The next step for the Community Programs Evangelist is Senior Community Programs Evangelist.
 
 ### Specialties
-Specialties include [Education][/job-families/marketing/community-programs/#specialties/##gitlab-for-education/] and [Open Source][/job-families/marketing/community-programs/#specialties/##gitlab-for-open-source/]. The public titles for these roles will be <Speciality> Evangelist (Ex: Education Evangelist, Open Source Evangelist) for brevity and to align with industry conventions for such roles.
+Specialties include [Education](/job-families/marketing/community-programs/#specialties/##gitlab-for-education/] and [Open Source][/job-families/marketing/community-programs/#specialties/##gitlab-for-open-source/). The public titles for these roles will be <Speciality> Evangelist (Ex: Education Evangelist, Open Source Evangelist) for brevity and to align with industry conventions for such roles.
 
 ## Senior Community Programs Evangelist
 
@@ -69,7 +69,7 @@ The Senior Community Programs Evangelist is a [grade 7](/handbook/total-rewards/
 * Experience building thought leadership in a community speciality.
 
 ### Specialties
-Specialties include [Education][/job-families/marketing/community-programs/#specialties/##gitlab-for-education/] and [Open Source][/job-families/marketing/community-programs/#specialties/##gitlab-for-open-source/].
+Specialties include [Education](/job-families/marketing/community-programs/#specialties/##gitlab-for-education/) and [Open Source](/job-families/marketing/community-programs/#specialties/##gitlab-for-open-source/).
 
 ## Community Programs Associate
 The Community Programs Associate Manager is responsible for managing operations for the Community Programs applications workflows (manual and automated) and communicating with applicants and program members via the community applications queue. This role maintains the tool-stack responsible for the workflows and collaborates with teams across Marketing and Sales for efficient operations and reporting. This role also has a marketing component of building and executing campaigns (emails, newsletters, events) for driving program membership and retention.
@@ -80,7 +80,7 @@ The Community Programs Associate Manager reports to the Manager, Community Progr
 The Community Associate Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
-* Support the [GitLab for Education](/solutions/education/), [GitLab for Open Source](/solutions/open-source/), [GitLab for Startups](/solutions/startups/), and GitLab for [Non-Profits programs]((/handbook/marketing/community-relations/education-program/#--gitlab-for-non-profits)) (as well as any new programs that are created), as well as associated [community programs' application workflow](/handbook/marketing/community-relations/community-operations/community-program-applications/). This includes responding to all in-bound requests from program members.
+* Support the [GitLab for Education](/solutions/education/), [GitLab for Open Source](/solutions/open-source/), [GitLab for Startups](/solutions/startups/), and GitLab for [Non-Profits programs]((/handbook/marketing/community-relations/education-program/#--gitlab-for-non-profits)) (as well as any new programs that are created), as well as associated workflows. This includes responding to all in-bound requests from program members.
 * Actively participate in the implementation of, and then lead the maintenance of the [Automated Community Programs workflows](/handbook/marketing/community-relations/community-operations/automated-community-programs/). This includes improving and troubleshooting related processes and working cross-functionally with associated teams in Product, Fulfillment, Legal, Sales Operations, and Customer Support.
 * Standardize communications for Community Programs. As we evolve our Community Programs, we'll need to make sure that we update all of our outreach and support materials. You will lead this effort and suggest ways we can make our messaging more customer-friendly and effective.
 * Improve efficiency of tools. Make sure we are using all of our current tools in the best way possible. Become the team's expert in using each tool and suggest improved ways to use them to help with program goals.
@@ -189,7 +189,7 @@ The  Senior Community Programs Manager is a [grade 7](/handbook/total-rewards/co
 The next step for the Manager, Community Programs is the Senior Manager, Community Programs.
 
 ### Specialties
-Specialties include [Education][/job-families/marketing/community-programs/#specialties/##gitlab-for-education/] and [Open Source][/job-families/marketing/community-programs/#specialties/##gitlab-for-open-source/].
+Specialties include [Education](/job-families/marketing/community-programs/#specialties/##gitlab-for-education/] and [Open Source][/job-families/marketing/community-programs/#specialties/##gitlab-for-open-source/0).
 
 ## Manager, Community Programs
 
