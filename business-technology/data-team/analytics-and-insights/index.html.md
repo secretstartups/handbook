@@ -24,7 +24,8 @@ Analytics and Business Insights reports into FP&A and provides a broad view of p
 
 The Virtuous Cycle depicts our approach to creating a flywheel cycle of more and more impactful insights.
 
-![The Virtuous Cycle](./handbook/source/handbook/business-technology/data-team/analytics-and-insights/thevirtuouscycle.png)
+![The Virtuous Cycle](/handbook/business-technology/data-team/analytics-and-insights/thevirtuouscycle.png)
+
 
 ### Team Projects
 
