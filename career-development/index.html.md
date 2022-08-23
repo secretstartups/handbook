@@ -140,6 +140,8 @@ In some cases, it may not be practical, fitting with the interim timeline or hea
 
 Once the Interim Manager's first new hire has been at GitLab for 30 days, or other agreed success criteria has been met, the Interim Manager and Manager can work together to create and submit a [promotion document](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change) for approval.
 
+On top of the success criteria we require that before moving into fulltime positions, interim managers begin the [Becoming A Manager](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md) training. While up to 3 months in an interim position with hands on experience is helpful in determining whether people management track is right for team members, many situations and processes that people managers drive are not covered in this time period. The `Becoming A Manager` issue helps ensure that potential managers have a fuller picture in terms of policies, processes, and situations managers work through as part of their roles. The `Becoming A Manager` training is structured to be spread over the course of 3 months. Given that interim periods should last a maximum of 3 months, it may not be viable to fully complete the training before the interim period ends. The requirement is that the training issue is open and well underway before we move to permanent positions, and that it is finished aligned with the 3 month training timeframe. 
+
 For more details on logistics of ending an interim or acting period please refer to the [promotions and transfers page](/handbook/people-group/promotions-transfers/#interim-and-acting-roles).
 
 ## Roles
