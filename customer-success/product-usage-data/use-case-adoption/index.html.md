@@ -66,8 +66,15 @@ Adoption timeline: 1 months after license purchase
 
 ## Use Case Adoption Count
 
-In Gainsight, we use scorecards to track customer adoption of Gitlab use cases. 
+In Gainsight, scorecards track customer adoption of Gitlab use cases. 
 
 A green score signifies that a customer is adopting that specific use case. On the Customer Health Dashboard, in the Use Case Adoption Count chart, we count the number of green scores for each customer to visualize the count of customers adopting null, 1,2, 3 and 4 use cases.
 
-You can use this chart to understand how many use cases each of your customers have adopted.
+Use this chart to understand how many use cases each of your customers have adopted.
+
+##### Calculation of use case adoption counts for SCM, CI, CD and DevSecOps
+
+Gainsight Rules mark boolean fields as true on `Company` object for accounts with green scores. These boolean fields are named SCM Adoption, CI Adoption, CD Adoption and DevSecOps Adoption. 
+
+Once marked, the number of “true” booleans for each account are summed. If an account has a green SCM, CI, CD and DevSecOps, this would be a 4 score. If none of the use cases are green, this would be 0 and if all of the use case scores are N/A, this would be NULL to mean no usage data has been recorded.
+
