@@ -18,9 +18,9 @@ In case this is a re-hire ping the ITOps team in the #it-help slack channel to e
 
 ### Timing
 
-When a team member is hired in Greenhouse, the integration will move all data to WorkDay for the new hire record. This data is pulled from the [Greenhouse <> BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) once the Candidate Experience Specialist team updates the team member to `hired`. 
+When a team member is hired in Greenhouse, the integration will move all data to Workday for the new hire record. This data is pulled from the [Greenhouse <> BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) once the Candidate Experience Specialist team updates the team member to `hired`. 
 
-The People Connect team will get a notification to review the data from the sync (check that everything is correct) and then approve the record in WorkDay. Once approved, the new hire record will be created. The People Connect team member in the rotation will add the new hire record to the People Connect tracker for allocation. The respective Associate assigned to the new hire will then complete the onboarding for the new hire in Workday.
+The People Connect team will get a notification to review the data from the sync (check that everything is correct) and then approve the record in Workday. Once approved, the new hire record will be created. The People Connect team member in the rotation will add the new hire record to the People Connect tracker for allocation. The respective Associate assigned to the new hire will then complete the onboarding for the new hire in Workday.
 
 In the event that a team member has already been synced and a new team members start date changes, it is **important** that the Candidate Experience Specialist team notifies the People Connect team via the private peopleops-alerts-private Slack channel in order to ensure the team member details are updated in the necessary systems (Onboarding issue, People Connect tracker, Workday, etc).
 
@@ -90,7 +90,7 @@ _Note: You can reference what are considered to be “Acceptable Documents” [h
 
 #### Procedure
 
-1. There is currently a [sync](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#team-members-to-lawlogix-i9) between WorkDay and LawLogix in place where a team member will automatically be added to LawLogix 7 days before their start date.
+1. There is currently a [sync](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#team-members-to-lawlogix-i9) between Workday and LawLogix in place where a team member will automatically be added to LawLogix 7 days before their start date.
 
 ##### LawLogix Alerts
 
@@ -103,23 +103,23 @@ _Note: You can reference what are considered to be “Acceptable Documents” [h
 1. Click on the last page arrow at the bottom of the page 
 1. Click on `Log`
 1. This will now reflect the error reason for the sync failure 
-1. Correct the error and run the sync/upload for the relevant team member via WorkDay integrations. 
+1. Correct the error and run the sync/upload for the relevant team member via Workday integrations. 
 
 Most common reasons for failure:
 
-- There is a special character in the team members name that is not supported by LawLogix - simply log into WorkDay, fix the character and run the sync/upload to LawLogix integration from within WorkDay. 
+- There is a special character in the team members name that is not supported by LawLogix - simply log into Workday, fix the character and run the sync/upload to LawLogix integration from within Workday. 
 - There is a duplicate team member - check for rehires or whether there was a possible start date change.
 - If you are unable to identify the reason for the error, submit a Support case to LawLogix via the `Help` > `Make support request` option on the main dashboard. 
 
 1. **Section 1** → Employee personal details. New team members fill out this section online personally.
 1. **Section 2** → Employee assigns a “Designated Agent” to view, verify and document their government-issued official document(s). The Designated Agent completes this section online personally, but with the new team member and their documents physically in hand next to the Designated Agent.
 
-**If a team member is synced from Greenhouse to BambooHR less than 7 days prior to their start date, we will manually need to run the sync from WorkDay to LawLogix.
+**If a team member is synced from Greenhouse to BambooHR less than 7 days prior to their start date, we will manually need to run the sync from Workday to LawLogix.
 
-##### Steps to run the LawLogix integration in WorkDay:
+##### Steps to run the LawLogix integration in Workday:
 
 
-- Log into WorkDay
+- Log into Workday
 - In search bar, type LawLogix > enter
 - Scroll a further down and click on `More Categories` > `Integrations`
 - Next will list the 4 different types of integration options (depending on what is needed) > click on the twinkie next to the relevant integration you would like to launch > `Integration` > `Launch / Schedule`
@@ -133,7 +133,7 @@ Most common reasons for failure:
 
 **All of the below is done automatically with the sync.** Action using the steps below is only needed when there is an error with the sync.
 
-In the event that the automation fails, the **People Connect team member** can run the integration manually via the Integrations category in WorkDay. This will then automatically add the new team member to LawLogix.
+In the event that the automation fails, the **People Connect team member** can run the integration manually via the Integrations category in Workday. This will then automatically add the new team member to LawLogix.
 
 The **People Connect team member** will complete the following steps in LawLogix:
 
@@ -209,7 +209,7 @@ In the event that a team member notifies us that they will no longer be joining 
 For certain systems and applications, it is required for Administrators to confirm that team members are US Citizens to be given access to these systems.
 
 1. Administrators can email `people-connect@gitlab.com` and ask for confirmation that a team member is a US Citizen.
-1. Any People Connect team member can look in the Documents folder in WorkDay for the specific team member, as that is where the Government IDs are housed.
+1. Any People Connect team member can look in the Documents folder in Workday for the specific team member, as that is where the Government IDs are housed.
 1. If the team member has an unexpired US Passport, the People Connect may reply: "We can confirm that we have visual proof that this team member possesses an unexpired US Passport, a document only given to US Citizens, therefore they are a US Citizen."
 1. If the team member has an expired US Passport, the People Connect may reply: "We can confirm that we have visual proof that this team member possesses an expired US Passport. We will reach out to the team member for visual confirmation of an unexpired US Passport." Then, the People Connect will reach out to the team member to gather the scan/image of an unexpired US Passport and then update the email thread.
 1. If the team member has a US Birth Certificate, the People Connect may reply: "We can confirm that we have visual proof that this team member possesses a US Birth Certificate, a document only given to US Citizens, therefore they are a US Citizen."
@@ -246,7 +246,7 @@ The People Connect team will submit the new hire to the Papaya Global payroll po
 Once the team member has started, the People Connect team member assigned to the respective new team members onboarding will download the P45 and/or New Starter Checklist from the Papaya [portal](https://gitlab.papayaglobal.com/backoffice/org/1826/dashboard) (select GitLab UK > search for new team member > click on documents section) and upload the documents to BambooHR > Documents > Payroll folder.
 
 ### Changing a Start Date
-The People Connect team should be notified of a start date change through a message in the peopleops-alerts-private Slack channel. Once we receive the notification, the People Connect team member needs to update all the dates to the new start date in WorkDay and follow the below steps:
+The People Connect team should be notified of a start date change through a message in the peopleops-alerts-private Slack channel. Once we receive the notification, the People Connect team member needs to update all the dates to the new start date in Workday and follow the below steps:
 
 - Search for the relevant team members
 - Navigate to `View Worker History`
@@ -265,16 +265,16 @@ The People Connect team member will create the Google Mail account first.
 - Review common naming customs for the team member region. If the team member is from a [LATAM country](https://en.wikipedia.org/wiki/Naming_customs_of_Hispanic_America), ensure the email address is aligned with the team members preferred first name and last name(s).
 1. To make sure that we create the GitLab Google Mail account according to the new team member's preferred first and last name, we first look at the team member's resume & relevant communications to find their preferred name.
 1. Before creating the email account, verify that the proposed email is not conflicting with a current account by searching in Google Workspace Admin. If it is, add a letter for their middle name or ask the team member for their choice in preferred letter addition to their email address. After confirming, check the email again within the Google Workspace Admin. **Please note that you will not be creating the email address in Google Workspace Admin**.
-1. Add the email address to the WorkDay profile under work email, as well as adding the work email address to BambooHR. The Okta and WorkDay sync will then create the email address automatically in Google Workspace.
+1. Add the email address to the Workday profile under work email, as well as adding the work email address to BambooHR. The Okta and Workday sync will then create the email address automatically in Google Workspace.
 
 Examples:
   * If a team member's legal name is "Joseph D. Doe" but their application and emails are signed "Joe Doe", then we create the GitLab email as Joe Doe, `jdoe@gitlab.com`.
   * If a team member's legal name is "Nina Fernandez Kola" but their resume and emails are signed "Nina Fernandez", then we communicate with the team member in advance and create the GitLab email as `nfernandez@gitlab.com` with confirmation from them that is their preferred name.
   * If a team member's legal name is "Li Ju Zhang" but their resume and emails are signed "Joanna Zhang", then we communicate with the team member in advance and create the GitLab email as `jzhang@gitlab.com` with confirmation from them that is their preferred name.
 
-#### **WorkDay Profile Data**
+#### **Workday Profile Data**
 
-As part of the [Greenhouse<>WorkDay automation](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/), certain fields in WorkDay are [pre-filled](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/#synced-fields). The People Connect team member will check all synced fields have been populated correctly.
+As part of the [Greenhouse<>Workday automation](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/), certain fields in Workday are [pre-filled](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/#synced-fields). The People Connect team member will check all synced fields have been populated correctly.
 
 The People Connect team member in the relevant rotation will complete the [pre onboarding audit](https://about.gitlab.com/handbook/people-group/people-connecterience-team/#part-1) to ensure all fields are correct prior to approving. Once approved, the team member will fully sync as a new hire.
 
@@ -282,20 +282,19 @@ The People Connect team member in the relevant rotation will complete the [pre o
 
 - If a new team member needs to adjust their start date but a new contract is not created, the People Connect team will:
 1. Have the Candidate Experience Specialist team complete the following [steps](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
-1. Update the **Hire Date** in WorkDay (please see job aid)
-1. Update the **Time Off Accrual Option** to the new start date in BambooHR (applicable to certain locations)
-1. Update the onboarding issue (if created)
-1. Ensure the email with the updated start date is filed under the Contracts and Changes folder in WorkDay
+1. Update the **Hire Date** in Workday (please see job aid)
+1. Update the **Hire Date** in BambooHR (this includes all effectives dates in every table, not just the hire date field)
+1. Update the onboarding issue (if already opened created)
+1. Ensure the email with the updated start date is filed under the Contracts and Changes folder in Workday
 
-- If a new team member start date falls on a holiday that is observed by the new hire or the People Connect team:
+- If a new team member start date falls on a global holiday where the entire People Connect team is offline, a holiday that is observed by the new hire or a Family & Friends Day:
 1. The People Connect team member will coordinate with the Candidate Experience Specialist to adjust the start date to the next business day. Ensure the Hiring Manager is included in this communication.
-1. The WorkDay hire date will not be adjusted.
-1. Update the Onboarding Issue title to reflect the "New Start Date". This date is used for the onboarding email automation.
+1. The Workday, BambooHR, and Onboarding Issue (if applicable) hire date all need to be updated. 
 
 #### New team member rejects offer
 
 If a new team member has already been marked as hired in Greenhouse and the sync has taken place, then they reject our offer, the Candidate Experience team will notify the People Connect team in the peopleops-alerts-private Slack channel.
-1. The People Connect team member will then need to log into WorkDay and complete the following:
+1. The People Connect team member will then need to log into Workday and complete the following:
    - Have to rescind the candidate profile
    - Then mark the pre-hire record for deletion
    - Then lastly delete the pre-hire record
@@ -303,14 +302,14 @@ If a new team member has already been marked as hired in Greenhouse and the sync
 
 1. If the deleted team member was located in the US, review and delete the relevant I-9 entry for them in LawLogix as per the deletion [process](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#team-member-is-no-longer-joining-but-i-9-process-has-started).
 
-#### WorkDay Profile
+#### Workday Profile
 Once the sync has taken place and part 1 of the onboarding audit has been completed, the People Connect team member assigning to the onboarding will need to ensure the following:
 
 - Add work email address to the team members profile
 - Add BambooHR ID to Workday profile
 - If the team member is employed in a [location](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/entity_mapper.yml) that has a probation period, this needs to be manually added 
 - See whether there is a signing bonus and that it has been correctly synced to one time payments
-- Complete the onboarding steps from within WorkDay for the new team member
+- Complete the onboarding steps from within Workday for the new team member
 
 #### PIAA
 
@@ -321,17 +320,17 @@ The People Connect team member assigned to a specific new team member needs to c
 - If the Director feels additional review and approval is needed, the Director will add the next level (VP or C-level as appropriate) to the email thread. If not, the Director will respond indicating their approval.
 _Note: A minimum of direct manager and Director-level approval is required for all PIAA exceptions._
 - The People Connect team member will respond to the thread stating that they have saved the entire thread to the team member's BambooHR profile.
-- The People Connect team member will need to save this to the team members Documents folder in WorkDay.
+- The People Connect team member will need to save this to the team members Documents folder in Workday.
 - More complicated requests that seem to show conflicts or projects involving a 1099 might require additional legal approval which will be coordinated by the Team Member Relations Specialists (teammemberrelations@gitlab.com), who may forward the thread to the Functional Leader, or both. Legal may also be added to conversation as needed.
   - Once there is a final conclusion, the manager will relay the information to the team member.
-  - The manager will then need to forward the email thread to the People Connect team member who will save the entire thread as a pdf and filed in the team member's WorkDay record in their respective Documents folder.
+  - The manager will then need to forward the email thread to the People Connect team member who will save the entire thread as a pdf and filed in the team member's Workday record in their respective Documents folder.
 
 
-  1. The People Connect team member will respond to the thread stating that they have saved the entire thread to the team member's WorkDay profile.
-  1. The People Connect team member will need to save this to the team members documents folder in WorkDay. 
+  1. The People Connect team member will respond to the thread stating that they have saved the entire thread to the team member's Workday profile.
+  1. The People Connect team member will need to save this to the team members documents folder in Workday. 
   1. More complicated requests that seem to show conflicts or projects involving a 1099 might require additional legal approval which will be coordinated by the Team Member Relations Specialists (teammemberrelations@gitlab.com), who may forward the thread to the Functional Leader, or both. Legal may also be added to conversation as needed.
   1. Once there is a final conclusion, the manager will relay the information to the team member. 
-  1. The manager will then need to forward the email thread to the People Connect team member who will save the entire thread as a pdf and file in the team member's WorkDay documents folder.
+  1. The manager will then need to forward the email thread to the People Connect team member who will save the entire thread as a pdf and file in the team member's Workday documents folder.
 
    * Enter No if the team member answered No or None.
 
@@ -361,19 +360,19 @@ During the onboarding audit process, the People Connect team member will ensure 
 ## Onboarding Issue Creation
 The People Connect team member will then create an onboarding issue with a ChatOps command in Slack 2 weeks prior to the new team member's start date.
 
-1. Before creating the onboarding issue, ensure that all information entered WorkDay is accurate and complete.
-1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command `/pops run onboarding Employee ID #. This number is found in the team member's WorkDay profile > Personal > ID's. If the integation is down, this ChatOps command will fail and in some instances the onboarding issue will need to be created manually.
+1. Before creating the onboarding issue, ensure that all information entered Workday is accurate and complete.
+1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command `/pops run onboarding Employee ID #. This number is found in the team member's Workday profile > Personal > ID's. If the integation is down, this ChatOps command will fail and in some instances the onboarding issue will need to be created manually.
 1. You will be pinged in Slack once the onboarding issue is created, which usually takes 30 seconds or so. The ping will include a link to the new onboarding issue.
 1. Check and update if applicable the Name from Legal to Preferred name.
 1. If the new team member is on the executive team, or if the new team member reports to a member of the executive team, please also assign the issue to the appropriate Executive Business Administrator(https://about.gitlab.com/handbook/eba/).
 
-1. If the manager is not automatically assigned and listed in the issue, add them. It could be because the employee's manager uses a name in GitLab that is very different from the one in WorkDay, and they don't use their `@gitlab.com` email ID as the primary email ID in GitLab. They will then manually need to be assigned.
+1. If the manager is not automatically assigned and listed in the issue, add them. It could be because the employee's manager uses a name in GitLab that is very different from the one in Workday, and they don't use their `@gitlab.com` email ID as the primary email ID in GitLab. They will then manually need to be assigned.
 1. Copy and paste the link into the People Connect Task Tracker sheet in the team member's specific column on their line. Please note that this document is only viewable to the People Connect Teams due to personal information.
 1. Once the onboarding issue has been opened, the Employment Bot will ping the manager in the issue if no Baseline Entitlement Access Request exists. In the event that a manager pings the Bot/People Connect team member that one does exist (usually providing a link to the correct template), follow the steps below:
   1. is the role template title == the team member's role
   1. is the role template’s department folder == the team member's department
   1. is the role template specified on speciality level and == the team member's specility the same
-  - Open the team members WorkDay profile and verify the above
+  - Open the team members Workday profile and verify the above
   - If the Access Request template can be used for the specific team member, add the role to the [Shared Components file](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/shared_components.yml)
   - Assign the merge request for the shared components file to IT OPs Manager to review and merge (ping in Slack if needed). Once merged, this will ensure that the template is created by day 2 (if merged before then)
 1. If a Baseline Entitlement Access Request exists, this will be [automatically](https://about.gitlab.com/handbook/people-group/engineering/onboarding/#access-request-issue-creation) opened by the Bot on day 2. 
@@ -389,7 +388,7 @@ The People Connect team member will then create an onboarding issue with a ChatO
 
 #### Verify Team Members Legal Name
 
-Once you have seen the team member's legal ID (either through work eligibility confirmation or employee upload), please edit the 3 Name fields (First Name(s), Middle Name(s), Last Name(s)) to ensure that the team member's full and complete legal name is shown in WorkDay. This is critical, specifically for US team members as this data (full and complete legal name) is needed for mandatory reporting completed by the People Compliance team. As a best practice, we ask that this is also completed for all team members globally.
+Once you have seen the team member's legal ID (either through work eligibility confirmation or employee upload), please review the 3 Name fields (First Name(s), Middle Name(s), Last Name(s)) to ensure that the team member's full and complete legal name is shown in Workday. This is critical, specifically for US team members as this data (full and complete legal name) is needed for mandatory reporting completed by the People Compliance team. As a best practice, we ask that this is also completed for all team members globally. If a correction is needed please inform the new hire to update their Legal Name through Workday self-service. 
 
 #### Onboarding Welcome Email
 
@@ -454,25 +453,25 @@ In the event that a former team member is rehired with the company, they will st
 
 #### Candidate Experience Specialist Team
 
-- Ensure that the team members Greenhouse profile is linked to their original profile to ensure that a duplicate WorkDay profile is not created.
+- Ensure that the team members Greenhouse profile is linked to their original profile to ensure that a duplicate Workday profile is not created.
 - Notify the People Connect team as soon as possible that a former team member has been rehired in the private peopleops-alerts-private Slack channel.
-- If the team member has not been synced with WorkDay, you may need to run a [Resync](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/#missing-team-member)
+- If the team member has not been synced with Workday, you may need to run a [Resync](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/#missing-team-member)
 
 #### People Connect team
 
 - Check when the team member was offboarded previously. Open a new onboarding issue if the team member was offboarded more than 3 months ago, or open a customised onboarding issue if offboarding took place in the last 3 months.
   - If a custom onboarding issue is created, be sure to include the default onboarding template table as the employment automation relies on the information.
 - Dependent upon the team members location, an employment verification may need to be commpleted (example: US team member needs to complete I-9 verification).
-  - If an I9 is needed you will need to run a rehire sync with LawLogix if a previous I9 is present. If an I9 is not available then a new I9 will need to be created. This can be completed via WorkDay using the LawLogix integration > LawLogix rehire team member.
+  - If an I9 is needed you will need to run a rehire sync with LawLogix if a previous I9 is present. If an I9 is not available then a new I9 will need to be created. This can be completed via Workday using the LawLogix integration > LawLogix rehire team member.
 - Verify that the team members former email address is still available by searching in Google Workspace. Keep this email address the same as far as possible.
-- Reactivate the team members previous WorkDay profile to avoid duplicates from being created, as well as update any new employment terms.
-- Ensure new employment contract is uploaded to WorkDay
+- Reactivate the team members previous Workday profile to avoid duplicates from being created, as well as update any new employment terms.
+- Ensure new employment contract is uploaded to Workday
 - Ping IT Ops once the onboarding issue has been created to ensure that no issues are experienced on the team members first day back with any previous systems.
 - Notify Payroll and Total Rewards team in the onboarding issue on the team members first day in order to be added back to payroll and relevant systems. This should be done at the latest on day 3.
 
 ## Onboarding Process for Interns
 
-Internships are utilized when we are sponsoring a specific program for students to earn credit to their school/university. Although the interns will not be official team members, onboarding is still required for security and compliance reasons. Once an intern is marked as hired in Greenhouse, the [automation](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/) in place will sync the intern to WorkDay and the People Connect team will be notified via Slack alerts channel.
+Internships are utilized when we are sponsoring a specific program for students to earn credit to their school/university. Although the interns will not be official team members, onboarding is still required for security and compliance reasons. Once an intern is marked as hired in Greenhouse, the [automation](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/) in place will sync the intern to Workday and the People Connect team will be notified via Slack alerts channel.
 
 #### Creating the Onboarding Issue
 
@@ -480,7 +479,7 @@ We would follow the same onboarding issue creation [process](https://about.gitla
 
 #### I-9 Process
 
-The standard I-9 [process](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#procedure) will be implemented between WorkDay and LawLogix for **paid** interns.
+The standard I-9 [process](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#procedure) will be implemented between Workday and LawLogix for **paid** interns.
 
 - If an intern is in the US on a student visa, additional documentation is [required](https://www.uscis.gov/i-9-central/acceptable-documents/additional-documentation-requirements).
    - Passport
@@ -493,9 +492,9 @@ The standard I-9 [process](https://about.gitlab.com/handbook/people-group/genera
 - Once the internship has been completed, terminate the intern in the LawLogix system.
 - **If an intern is hired on for a full time position and there is a break in employment a re-verification (Section 3) will need to be completed.**
 
-#### WorkDay Profile
+#### Workday Profile
 
-The WorkDay Profile will follow all of the same rules as a normal onboarding with these exceptions:
+The Workday Profile will follow all of the same rules as a normal onboarding with these exceptions:
 
 - Part-Time
 - Overtime - `Non-Exempt`
@@ -537,7 +536,7 @@ In some instances, the interns that have been onboarded may be hired on a full t
 
 #### Total Rewards
 
-As the interns already have entries in WorkDay, an update will be needed with the new employment terms.
+As the interns already have entries in Workday, an update will be needed with the new employment terms.
 
 - Update role to Individual Contributor.
 - Employment status update from termination status to active.
@@ -555,7 +554,7 @@ As the interns already have entries in WorkDay, an update will be needed with th
 
 - Create the customised Career Mobility issue 4 days prior to the start date.
 - Assist with creating an offboarding issue (if applicable when there is a break between internship and hire date) and having accounts deactivated.
-- Ensure all information in WorkDay is correct.
+- Ensure all information in Workday is correct.
 
 - Initiate the relevant payroll documents (I9, UK, Netherlands, etc) if applicable.
 
@@ -570,8 +569,6 @@ As the interns already have entries in WorkDay, an update will be needed with th
 #### People Connect
 
 - Once the CES team has hired the team member in GreenHouse, and the Workday profile has been updated, please add in the GitLab email address to the [Temp Service Provider to Team Member](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/Temp%20Service%20Provider%20to%20Team%20Member.md) issue.
-
-**Note:** _Please do **not** add in the email address to WorkDay until the Sunday before a Monday start for **EMEA or Amer team member**, or Friday for a Monday start in **APAC**_
 
 - Please be sure to ping the IT team in the issue with the email address.
 
