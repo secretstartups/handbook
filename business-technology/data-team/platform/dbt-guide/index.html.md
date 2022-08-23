@@ -128,8 +128,8 @@ Recommended workflow for anyone running a Mac system.
 - **NB**: Ensure your default browser is set to chrome. The built-in SSO login only works with chrome
 - **NB**: Ensure you are in the folder where your `/analytics` repo is located. If you installed everything properly `jump analytics` will land you where it is needed in order to run `dbt` commands successfully.
 - **NB**: Before running dbt for the first time run `make prepare-dbt`. This will ensure you have venv installed.
-- To start a `dbt` container and run commands from a shell inside it, use `make run-dbt`. This command will install or update the dependencies required for running dbt. 
-- To start a `dbt` container without the dependency update use `make run-dbt-no-deps`. This command assumes you already have the dbt dependencies installed. When using this command, if you make changes in any of the dependency packages (e.g. data-tests), you will need to run either `dbt deps` (from within the shell) or `make run-dbt` again for these changes to show up in your repository. 
+- To start a `dbt` container and run commands from a shell inside it, use `make run-dbt`. This command will install or update the dependencies required for running dbt.
+- To start a `dbt` container without the dependency update use `make run-dbt-no-deps`. This command assumes you already have the dbt dependencies installed. When using this command, if you make changes in any of the dependency packages (e.g. data-tests), you will need to run either `dbt deps` (from within the shell) or `make run-dbt` again for these changes to show up in your repository.
 - This will automatically import everything `dbt` needs to run, including your local `profiles.yml` and repo files
 - To see the docs for your current branch, run `make run-dbt-docs` and then visit `localhost:8081` in a web-browser. Note that this requires the `docs` profile to be configured in your `profiles.yml`
 
@@ -195,7 +195,7 @@ dbt specific:
 
 ##### SQLFluff linter
 
-We use SQLFluff to enforce [SQL style guide](/handbook/business-technology/data-team/platform/sql-style-guide/) on our code. To have the SQLFluff in the DBT venv you will have to rebuild it. The make prepare-dbt or more specifically the pipenv install from within that command will install the correct version of the tool into the venv. If you have done that and it is not working you can try a direct install of version 0.9.3 using the pip installer. 
+We use SQLFluff to enforce [SQL style guide](/handbook/business-technology/data-team/platform/sql-style-guide/) on our code. To have the SQLFluff in the DBT venv you will have to rebuild it. The make prepare-dbt or more specifically the pipenv install from within that command will install the correct version of the tool into the venv. If you have done that and it is not working you can try a direct install of version 0.9.3 using the pip installer.
 
 ### Configuration for contributing to dbt project
 
@@ -456,10 +456,10 @@ FROM "{{ database }}".information_schema.tables t
 INNER JOIN "{{ database }}".information_schema.columns c
   ON c.table_schema = t.table_schema
   AND c.table_name = t.table_name
-WHERE t.table_catalog =  '{{ database.upper() }}' 
+WHERE t.table_catalog =  '{{ database.upper() }}'
   AND t.table_type IN ('BASE TABLE', 'VIEW')
-  AND t.table_schema = '{{ schema.upper() }}' 
-  AND t.table_name = '{{ alias.upper() }}' 
+  AND t.table_schema = '{{ schema.upper() }}'
+  AND t.table_name = '{{ alias.upper() }}'
 ORDER BY t.table_schema,
   t.table_name;
 ```
@@ -471,13 +471,13 @@ With the qualified column name and the data type, masking policies are created f
 It should be noted that permissions are based on an allow list of roles. Meaning permission has to be granted to see the unmasked data at query time:
 
 ```sql
-CREATE OR REPLACE MASKING POLICY "{{ database }}".{{ schema }}.{{ policy }}_{{ data_type }} AS (val {{ data_type }}) 
+CREATE OR REPLACE MASKING POLICY "{{ database }}".{{ schema }}.{{ policy }}_{{ data_type }} AS (val {{ data_type }})
   RETURNS {{ data_type }} ->
-      CASE 
+      CASE
         WHEN CURRENT_ROLE() IN ('transformer','loader') THEN val  -- Set for specific roles that should always have access
         WHEN IS_ROLE_IN_SESSION('{{ policy }}') THEN val -- Set for the user to inherit access bases on there roles
-        ELSE {{ mask }} 
-      END; 
+        ELSE {{ mask }}
+      END;
 ```
 Only one policy can be applied to a column so users that need access will have to have the permissions granted using the applied masking role.
 
@@ -727,7 +727,7 @@ This configuration can be done using the `generate_warehouse_name` macro within 
 ```jinja
 {{
   config(
-    snowflake_warehouse = generate_warehouse_name('XL') 
+    snowflake_warehouse = generate_warehouse_name('XL')
   )
 }}
 ```
@@ -1004,13 +1004,13 @@ graph TD
   F -->|No| H[Run dbt jobs against production]
 ```
 
-In the case where you have a merge request in `data-tests` and one in `analytics`, the `analytics` [MR should be set as a dependency](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html) of the `data-tests` MR. This means that the `analytics` MR must be merged prior the `data-tests` MR being merged.
+In the case where you have a merge request in `data-tests` and one in `analytics`, the `analytics` [MR should be set as a dependency](https://docs.gitlab.com/ee/user/project/merge_requests/dependencies.html) of the `data-tests` MR. This means that the `analytics` MR must be merged prior the `data-tests` MR being merged.
 
 ####  Running the newly introduced dbt tests in the data-tests project
 
 Steps to follow in order to run the tests you implemented in the data-tests project from your machine, while developing them:
 
-  
+
 1. Push your changes to the remote branch you are working on on the data-tests project
 2. Go to your `analytics` project locally, create a new branch (`git checkout -b <branch_name>`) with the same name as the one at `data-tests` & modify the `Makefile` to edit the `DATA_TEST_BRANCH` to match your branch name on the `data-test` project
 3. From the `analytics` project run `make run-dbt`
@@ -1021,9 +1021,9 @@ Steps to follow in order to run the tests you implemented in the data-tests proj
 
 To run the `zuora_revenue_revenue_contract_line_source` rowcount tests, we can use the following command, which should work without any issues:
 
-`dbt --partial-parse test --models zuora_revenue_revenue_contract_line_source`   
+`dbt --partial-parse test --models zuora_revenue_revenue_contract_line_source`
 
-> :warning:  Please note, whenever you make changes to the underlying tests in the data-tests project, you need to push those changes to the remote and re-run steps 3-5,  to start a dbt container with the latest changes from your branch.   
+> :warning:  Please note, whenever you make changes to the underlying tests in the data-tests project, you need to push those changes to the remote and re-run steps 3-5,  to start a dbt container with the latest changes from your branch.
 
 
 #### Trusted Data Operations Dashboard
@@ -1035,10 +1035,10 @@ The Trusted Data Operations Dashboard is used to quickly evaluate the health of 
 #### Trusted Data Health Dashboard
 
 Trusted data health dashboard gives business partners a high level overview of health status if the data in the Snowflake Data-warehouse could be trusted or not. This is defined based on criteria such as if quality checks are met, date until data is refreshed and if the data is up to date. Health Status in the dashboard is presented separately for Data extraction (RAW data layer) and Data transformation (Prod data layer) with a  PASS, FAIL, WARNING status and color coded accordingly to give business partners better insights into status of the data.
- 
+
 ##### Data extraction (RAW data layer)
 Data extraction is loading data from the source system to Snowflake data warehouse in the RAW data layer.
- 
+
 ##### Data transformation (Prod data layer)
 Data transformation is downstream transformation via dbt for Dimensions, Facts, Marts and reports models.
 
