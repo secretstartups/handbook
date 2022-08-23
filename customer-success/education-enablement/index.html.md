@@ -10,7 +10,7 @@ description: "As a Solutions Architect, Technical Account Manager, or Profession
 - TOC
 {:toc}
 
-## Overview of GitLab Product Training 
+## Overview of GitLab Product Training
 
 As a Solutions Architect, Technical Account Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. This handbook page provides an dashboard of aggregated resources that we encourage you to use to get up to speed. Although we aggregated and/or developed these resources for Customer Success team members, they are generic enough that all team members and partners can benefit from the education and enablement resources that we have published here.
 
@@ -83,7 +83,7 @@ To align our education and enablement with our product, each of the topics below
   - [JIRA Development Panel Integration Feature Docs](https://docs.gitlab.com/ee/integration/jira/dvcs.html)
   - [Multiple approvers in code review Feature Docs](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/rules.html)
   - [Approval rules for code review Feature Docs](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/rules.html)
-  - [Merge request dependencies Feature Docs](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html)
+  - [Merge request dependencies Feature Docs](https://docs.gitlab.com/ee/user/project/merge_requests/dependencies.html)
   - [Code Owners Feature Docs](https://docs.gitlab.com/ee/user/project/code_owners.html)
 - [Wiki Feature Docs](https://docs.gitlab.com/ee/user/project/wiki/)
 - [Web IDE Feature Docs](https://docs.gitlab.com/ee/user/project/web_ide/index.html)
@@ -259,17 +259,17 @@ To align our education and enablement with our product, each of the topics below
 ##### Advanced Level
 - [Consul Associate Certification](https://www.hashicorp.com/certification/consul-associate)
 
-## O'Reilly Content Library 
+## O'Reilly Content Library
 
 In order to facilitate an environment of learning and development, the Customer Success Team has access to the O’Reilly Learning Platform, which is integrated into [GitLab Learn](https://gitlab.edcast.com/log_in?auto_sso=true).  This content library contains thousands of books, videos and live learning courses to assist team members’ with professional development and staying up-to-date with changing technology trends. Additionally, code sandboxes are included within the O’Reilly platform that team members’s can utilize to practice new skills or hone existing ones.
 
 To get started, here is a quick tour of what the O’Reilly Learning Platform can provide to our team, please check out this [short introductory video](https://www.loom.com/share/fca91ca4e127494fb5f4130b85eaa9ea).
 
-If you do not already have a login are outside of the customer success organization, please let the Corproate Learning and Development Team know you are interested. You can also purchase a single licesne with the GitLab pricing by contacting Jason Baca at jbaca@oreilly.com. 
+If you do not already have a login are outside of the customer success organization, please let the Corproate Learning and Development Team know you are interested. You can also purchase a single licesne with the GitLab pricing by contacting Jason Baca at jbaca@oreilly.com.
 
-### O'Reilly Answer Slack Bot 
+### O'Reilly Answer Slack Bot
 
-As part of GitLab's O'Reilly subscrition, team members have access to the O'Reilly Answer Slack Bot. To get started, in Slack, just type /oreilly-answers followed by your tech question. It’s that simple. 
+As part of GitLab's O'Reilly subscrition, team members have access to the O'Reilly Answer Slack Bot. To get started, in Slack, just type /oreilly-answers followed by your tech question. It’s that simple.
 
 For example:
 - /oreilly-answers How do I fine-tune a model?
