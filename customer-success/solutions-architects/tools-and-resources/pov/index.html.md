@@ -335,3 +335,8 @@ These projects are demonstrative of specific stages.  They are generally built 
 
 - [Nodejs Juice Shop](https://github.com/bkimminich/juice-shop) repository comes with a .gitlab-ci.yml file to get started with SAST and Dependency Scanning.  Incorporate others incrementally as needed.
 - [OWASP WebGoat.NET](https://gitlab-core.us.gitlabdemo.cloud/tanuki-group/dot-net-webgoat) repository can be enabled with SAST, License Management and Secrets Scanning very quickly using the packaged templates.  This validates our positioning in .NET application development (both Framework and Core).
+
+#### Proof of Value Enalement 
+
+- [PoV Overview Course](https://levelup.gitlab.com/courses/gitlab-proof-of-value-overview) 
+- [Executing an Exceptional PoV Course](https://levelup.gitlab.com/courses/delivering-an-exceptional-proof-of-value)
