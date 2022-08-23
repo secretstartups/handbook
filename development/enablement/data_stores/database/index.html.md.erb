@@ -72,8 +72,33 @@ In order to follow what the database group is currently working on, we recommend
 
 Since end of 2021, we maintain an [activity log](activity-log.html) to keep track of past projects and outcomes.
 
-### Planning
+## Planning
 We use a [planning issue](https://gitlab.com/gitlab-org/database-team/team-tasks/-/blob/master/.gitlab/issue_templates/Planning.md) to discuss priorities and commitments for the milestone.  This happens largely asynchronously, but when we do need to discuss synchronously we discuss during the Tuesday team [meeting](#meetings) timeslot.
+
+### Issue Weights
+
+The database group is experimenting with using expected merge request count as an issue weight. Before each milestone starts, we'll ping each assigned issue without a weight and ask folks to add weights to them.
+
+We decided to use merge request count as an issue weight for a few reasons:
+- The process encourages folks to consider ahead how an issue could be broken down more and enumerate it in advance
+- It's easy to describe and learn, making it easier for the team to come to a shared understanding
+- Merge request rate is one of the main ways our team is measured
+
+#### Process for weighting Issues
+
+1. With an emphasis towards smaller more iterative changes rather than large changes that may take longer to review and merge, consider how many merge requests could this be broken into.
+2. Add a comment enumerating the expected merge requests. For example:
+
+   > Just one merge request to documentation
+
+   > One to gitlab for database changes, one for new functionality, one for documentation changes, and one to omnibus
+
+3. Add the count as a weight. For example, if you think there could be one to gitlab for database changes, one for new functionality, one for documentation changes, and one to omnibus - you would assign `/weight 4`
+
+#### Timeline for implementation:
+
+15.4 - 15.7: We'll ping each issue in the milestone without a weight and ask folks to add one to collect data
+15.8 +: TBD
 
 ### Triage rotation
 We have a fairly simple triage rotation. Each week one team member is dedicated to triaging incoming issues for the database group. This allows for the rest of the team to focus on their current priorities with fewer interruptions. Each week, a bot will file an issue that gets automatically assigned to next team member in the rotation. We order the triage rotation by alpha-order based on first name to keep it very simple. If a team member is on PTO the week they are assigned, the issue will be re-assigned to the next person.
