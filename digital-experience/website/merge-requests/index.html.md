@@ -227,5 +227,4 @@ When reviewing and approving an MR in GitLab, there are some things to be aware 
 
 #### Dependencies
 
-Sometimes a MR will be marked as "depends on" another merge request. This MR cannot be merged until the dependency is merged first. [Documentation about merge request dependencies](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html).
-
+Sometimes a MR will be marked as "depends on" another merge request. This MR cannot be merged until the dependency is merged first. [Documentation about merge request dependencies](https://docs.gitlab.com/ee/user/project/merge_requests/dependencies.html).
