@@ -194,7 +194,7 @@ Specialties include [Education](/job-families/marketing/community-programs/#spec
 ## Manager, Community Programs
 
 ### Job Grade
-The Senior Manager, Community Programs is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Community Programs is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 * The Manager, Community Programs extends that of the Senior Community Program Manager.
