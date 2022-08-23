@@ -22,20 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### August 2022
 
-### Advanced CI/CD
-#### August 23rd, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_pUbCQeh9T8GAATWdKI7feQ)
-
-### GitLab CI/CD Avanzado
-#### August 23rd, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
-
-Amplíe su conocimiento de CI/CD mientras cubrimos temas avanzados que acelerarán su eficiencia usando GitLab, como pipelines, variables, reglas, artefactos y más. Esta sesión está destinada a aquellos que han usado CI/CD en el pasado.
- 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_-R0SBQYwR1G408B7ZSIjQw)
-
 ### DevSecOps con GitLab
 #### August 25th, 2022 at 3:00PM-4:00PM Eastern Time/7:00-8:00 PM UTC
 
@@ -60,7 +46,7 @@ Come learn about what CI/CD is and how it can benefit your team. We will cover a
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_RUr9MxU6SEa7H2rhZ-2YEQ)
 
 ### Advanced CI/CD
-#### September 20th, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
+#### September 21st, 2022 at 11:00AM-12:00PM Eastern Time/3:00-4:00 PM UTC
 
 Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
  
