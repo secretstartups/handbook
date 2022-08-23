@@ -65,7 +65,6 @@ There are several "types" of CTAs, which will have different corresponding playb
   * Usage Data Enablement
 * Activity
   * [New Account Handoff](/handbook/customer-success/tam/account-handoff/#account-handoff-cta)
-  * Update Stale TAM Sentiment
 * Renewal
   * [Upcoming Renewal](/handbook/customer-success/tam/renewals/)
 * Digital Journey
