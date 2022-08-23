@@ -293,7 +293,7 @@ If they have been hired in Greenhouse and exported to BambooHR, Enablement will 
 1. Cancel any scheduled emails in Greenhouse.
 1. Tag the VP, People Operations in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the VP, People Operations) can remove the profile, this is why this step is so important. 
 1. If they were hired via a PEO, inform the contact person at the PEO of this change immediately, ideally before onboarding starts. If they are in a country that uses outside payroll, we will need to inform the payroll company as well. 
-1. Message IT and People Connect in the #peopleops-alerts-private channel to let them know to cancel any laptop orders, onboarding issues, and remove from WorkDay.
+1. Message IT and People Connect in the #peopleops-alerts-private channel to let them know to cancel any laptop orders, onboarding issues, and remove from Workday.
 1. Check the candidate's background check in Sterling. If it is still in process, email our contacts at Sterling to ask them to cancel any outstanding checks.
 1. If the Recruiter has not already tagged the FP&A approver in the Greenhouse notes, please tag them to let them know that the candidate has withdrawn.
 
