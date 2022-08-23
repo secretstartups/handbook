@@ -77,14 +77,14 @@ This does not ensure there will be no consequences. However, it will greatly red
 If a threat is made against you or someone else that makes you or another team member question their safety due to an issue, merge request, email or other work related matters do not hesitate to initiate the following process:
 
 1. Contact local law enforcement. Note the proper number to contact in your locality and whether the emergency, or non-emergency number should be called.
-1. Notify the People Operations team in #people-connect.  A private channel may then be opened with your People Business Partner, People Operations Specialist, Executive Business Administrator, Manager, and the security team helping with the situation.
+1. Notify the People Connect Team at `people-connect@gitlab.com` and cc `teammemberrelations@gitlab.com`. A private channel may then be opened with your People Business Partner, People Connect Team member, Team Member Relations, Manager, and the security team helping with the situation.
 1. The following steps may be taken based on the threat:
     - Internal threat assessment
     - Temporary accommodation (friends, family, hotel, etc.)
     - Transportation to alternate location (stay with family/friends for example)
     - Time off from work/LOA
     - Personal Security Detail
-1. The above can be triggered by the People Operations team, Manager, Executive Business Administrator, or People Business Partner based on their knowledge of the threat.  Whenever it is safe to do so, please go through the normal permissions work flow, however if a threat is credible and potentially imminent, immediate action may be taken before the approvals have been put in place.
+1. The above can be triggered by the People Connect Team, Manager, Team Member Relations, or People Business Partner based on their knowledge of the threat.  Whenever it is safe to do so, please go through the normal permissions work flow, however if a threat is credible and potentially imminent, immediate action may be taken before the approvals have been put in place.
 1. The Sr. Director of Security will advise when it is best to halt any of the above tasks.
 
 ## Reporting Alleged Harassment
