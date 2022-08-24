@@ -51,6 +51,16 @@ Complete items are removed from the table once the code is in production without
 The Threat Insights group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/).
 Additional information about how we operate can be found on the [Protect Planning page](/handbook/engineering/development/protect/planning/).
 
+#### MR Reviews
+
+We follow these guidelines when submitting MRs for review when the change is within the Threat Insights domain:
+
+1. The initial review should be performed by a member of the team. This helps the team by:
+   - Faster reviews, as the reviewer is already familiar with the domain
+   - Additional awareness of changes taking place within the domain
+   - Identifying changes that don't align with what is happening with the domain 
+1. For GraphQL changes, the MR should be reviewed by a frontend engineer as soon as possible. This helps to validate the interface, and allows changes to be made before tests are written.
+
 ### Issue Boards
 
 * [Threat Insights Delivery Board](https://gitlab.com/groups/gitlab-org/-/boards/1754666?scope=all&utf8=%E2%9C%93&milestone_title=%23started&label_name[]=group%3A%3Athreat%20insights)
