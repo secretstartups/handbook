@@ -15,7 +15,7 @@ Confused about how to use Chorus? Check out the instructions and links below for
 [Chorus](https://www.chorus.ai/) is a call and demo recording software for customer-facing team members. This tool tracks keywords, provides analytics, and transcribes calls into both Salesforce and Outreach. Chorus is used to onboard new team members, provide ongoing training and development for existing team members, provide non-sales employees with access to sales calls, and allow customer-facing team members to recall certain points of a call or demo.
 
 ## Logging into Chorus
-Log into Chorus by clicking on the Google sign in option on the [Chorus homepage](https://hello.chorus.ai/login?next=http:%2F%2Fchorus.ai%2Fhome) and selecting your GitLab Gmail account.
+Log into Chorus by clicking on the Chorus SSO tile in your [Okta dashboard](https://gitlab.okta.com/app/UserHome). If you are not able to login, please post in the #chorus-users Slack channel for further assistance.
 
 ## Chorus Training & Enablement
 - Please familiarize yourself with [GitLab's SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) before utilizing Chorus.
