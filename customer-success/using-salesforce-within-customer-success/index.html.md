@@ -11,18 +11,18 @@ title: "Using Salesforce within Customer Success"
 
 - Using Salesforce within Customer Success *(Current)*
 - [Account Onboarding](/handbook/customer-success/tam/onboarding/)
-- [Technical Account Manager Summary](/handbook/customer-success/tam/)
+- [Customer Success Manager Summary](/handbook/customer-success/tam/)
 - [Account Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Account Engagement](/handbook/customer-success/tam/engagement/)
 
 On an account view in Salesforce, there is a Customer Success section, with the following fields:
 
 * Health Score - A field to record the overall customer health
-TAM Sentiment - A field to list the TAM's sense of the [customer's health](/handbook/customer-success/tam/health-score-triage/)
+CSM Sentiment - A field to list the CSM's sense of the [customer's health](/handbook/customer-success/tam/health-score-triage/)
 * GitLab Customer Success Project - Where you enter the URL of the project created using the template described above
 * Customer Slack Channel - A field to record Slack channel(s) used for internal and external customer collaboration. If a channel is internal, make sure it follows the naming convention `#a_<customer-name>-internal` per [Communication Chat](/handbook/communication/chat/#account-channels-a_)
 * Solutions Architect - The Solutions Architect aligned with the account
-* Technical Account Manager - The Technical Account Manager aligned with the account
+* Customer Success Manager - The Customer Success Manager aligned with the account
 
 ## Salesforce Objects
 
@@ -142,7 +142,7 @@ Please visit [this page](/handbook/customer-success/solutions-architects/tools-a
 
 ### New Zendesk Ticket Notifications
 
-For all new Zendesk tickets that are created, the Technical Account Manager and Account Owner for the account that the ticket is associated with will receive an email notification alerting them of a new ticket. This currently is a one time notification that only occurs when the Zendesk ticket is first created in Salesforce.
+For all new Zendesk tickets that are created, the Customer Success Manager and Account Owner for the account that the ticket is associated with will receive an email notification alerting them of a new ticket. This currently is a one time notification that only occurs when the Zendesk ticket is first created in Salesforce.
 
 ### Tracking Emails within Salesforce
 
@@ -178,7 +178,7 @@ It's best practice to use an existing report rather than to create a new one, ke
    1. Show: choose which Accounts/Opportunities to show (typically you want to select "all")
    2. Date field: choose a date to filter results. You can always choose "All Time"
    3. Add filters (white box): you can filter using any fields on the left side
-   4. Preview: You can drag any fields as a new column. For instance, you can add Account Name, Account Owner, and Technical Account Manager/Solutions Architect
+   4. Preview: You can drag any fields as a new column. For instance, you can add Account Name, Account Owner, and Customer Success Manager/Solutions Architect
 1. Once complete, either hit "Save" or "Run Report" to preview your report. If you run it, you can hit Save on the next page.
 1. No matter what, make sure you save it in a folder that others can also access for transparency
 1. Congrats! You're done.

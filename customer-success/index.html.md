@@ -79,10 +79,10 @@ See the [Terrain Mapping Engagements Page](/handbook/customer-success/customer-t
 
 - [Professional Services handbook](/handbook/customer-success/professional-services-engineering/)
 
-### Technical Account Managers
+### Customer Success Managers
 
-- [Technical Account Manager handbook](/handbook/customer-success/tam/)
-- [Commercial TAM handbook](/handbook/customer-success/comm-sales/#technical-account-managers)
+- [Customer Success Manager handbook](/handbook/customer-success/tam/)
+- [Commercial CSM handbook](/handbook/customer-success/comm-sales/#technical-account-managers)
 
 ### Demo Systems
 
@@ -90,13 +90,13 @@ See the [Terrain Mapping Engagements Page](/handbook/customer-success/customer-t
 
 ## Account Team
 
-The account team is comprised of the Strategic Account Leader/Account Executive, Solutions Architect (Enterprise), and Technical Account Manager.
+The account team is comprised of the Strategic Account Leader/Account Executive, Solutions Architect (Enterprise), and Customer Success Manager.
 
 [More information about the account team](/handbook/customer-success/account-team/)
 
-## Overlap Between Solution Architects and Technical Account Managers
+## Overlap Between Solution Architects and Customer Success Managers
 
-SA owns 1) pre-sales technical evaluation and relationships prior to the initial sale and 2) tier upgrades and new business units (i.e., connected new) within an existing customer. TAM owns 1) post-sales customer relationship and 2) license upgrades within an existing customer.
+SA owns 1) pre-sales technical evaluation and relationships prior to the initial sale and 2) tier upgrades and new business units (i.e., connected new) within an existing customer. CSM owns 1) post-sales customer relationship and 2) license upgrades within an existing customer.
 
 [More information on the transition and ownership between Pre-Sales and Post-Sales](/handbook/customer-success/pre-sales-post-sales-transition/)
 
@@ -104,15 +104,15 @@ SA owns 1) pre-sales technical evaluation and relationships prior to the initial
 
 ### Education and Enablement
 
-As a Solutions Architect, Technical Account Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement/) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
+As a Solutions Architect, Customer Success Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement/) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
 
 ### Customer Workshops
 
 2021-01 [Skills Exchange Enablement on Customer Workshops](https://www.youtube.com/watch?v=kSbTZgPLKUE&feature=youtu.be)
 
-TAM-Created, Enablement Focus:
+CSM-Created, Enablement Focus:
 
-- [All TAM-created workshops](/handbook/customer-success/tam/workshops/)
+- [All CSM-created workshops](/handbook/customer-success/tam/workshops/)
 
 SA-Created, Hands-On Focus:
 
@@ -193,5 +193,5 @@ Customer Success has a few standing meetings:
 - CS Skills Exchange - every other Wednesday, alternating between 7:30am PST and 11am PST
 - Quarterly Reverse AMA with Sakamoto and Female+ Team Members 
 
-The different groups within CS also have standing meetings, including meetings for the SAs, PS, and TAMs groups, regional groups, and social calls.
+The different groups within CS also have standing meetings, including meetings for the SAs, PS, and CSMs groups, regional groups, and social calls.
 

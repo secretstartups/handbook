@@ -5,7 +5,7 @@ title: "Use-case Enablement and Expansion"
 
 ## Use-case Enablement & Use-case Expansion: The Two Adoption Motions
 
-The TAM team's primary focus is to align with a customer's desired business outcomes, enable the customer in their current use case, and expand the customer's use case into new use-cases. We accomplish this through use-case adoption, which has two critical motions: enablement and expansion.
+The CSM team's primary focus is to align with a customer's desired business outcomes, enable the customer in their current use case, and expand the customer's use case into new use-cases. We accomplish this through use-case adoption, which has two critical motions: enablement and expansion.
 
 ## Why does use-case enablement & expansion matter?
 
@@ -15,10 +15,10 @@ Our [mission as a customer success team](/handbook/customer-success/#mission-sta
 
 ## What is the difference between use-case enablement & use-case expansion?
 
-For the TAM team in driving use-case enablement, there are two critical motions:
+For the CSM team in driving use-case enablement, there are two critical motions:
 
 1. Use-case Expansion: Driving expansion into new use-cases as a part of an account planning motion, in-line with the SAL or AE, as a means of ensuring the customer receives increasing ROI and creating happy customers that grow. This motion starts with a discovery process to open the door to a more in-depth discovery, with demos and [workshops](/handbook/customer-success/#customer-workshops) focused on value-positioning that lead to the customer saying 'yes' and agreeing to adopt that use-case. The latter part of an expansion play is the enablement of the use-case, as articulated below. A small pilot used to prove value of a use-case would still count as expansion, since the customer has not agreed to widespread adoption yet.
-1. Use-case Enablement: Enabling on the use-cases into which a customer expresses readiness to expand, either through a successful Use-case Expansion or by internal realization or directive that they want to adopt a new use-case. TAMs enable customers by creating quick time to value, overcoming technical roadblocks, and ensuring stickiness. The TAM provides the customer with guidance on adopting use-cases to maximize value attribution and to align adoption to the customer's desired positive business outcomes. Enablement can occur via TAM-led webinars, digital content, and/or professional services. Beyond a small expansion pilot, organic use-case adoption that starts with a few teams, counts as enablement.
+1. Use-case Enablement: Enabling on the use-cases into which a customer expresses readiness to expand, either through a successful Use-case Expansion or by internal realization or directive that they want to adopt a new use-case. CSMs enable customers by creating quick time to value, overcoming technical roadblocks, and ensuring stickiness. The CSM provides the customer with guidance on adopting use-cases to maximize value attribution and to align adoption to the customer's desired positive business outcomes. Enablement can occur via CSM-led webinars, digital content, and/or professional services. Beyond a small expansion pilot, organic use-case adoption that starts with a few teams, counts as enablement.
 
 ## Where do I track the use-case enablement and expansion?
 
@@ -36,7 +36,7 @@ For the TAM team in driving use-case enablement, there are two critical motions:
 1. Use-case Expansion: close the objective when the customer has agreed to enablement and pursuing adoption.
 1. Use-case Enablement: close the objective once we have successfully completed the enablement activities listed in the playbook tasks. Note: This playbook is about delivering the required enablement and creating a roadmap for adoption, NOT achieving the adoption itself.  We use product usage data to determine adoption. 
 
-### Key TAM Strategies
+### Key CSM Strategies
 
 1. Improve onboarding experience
 1. Improve the customer's time to value

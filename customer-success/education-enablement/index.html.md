@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Product Training for Customer Success"
-description: "As a Solutions Architect, Technical Account Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. This handbook page provides an dashboard of aggregated resources that we encourage you to use to get up to speed."
+description: "As a Solutions Architect, Customer Success Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. This handbook page provides an dashboard of aggregated resources that we encourage you to use to get up to speed."
 ---
 
 ## On this page
@@ -12,7 +12,7 @@ description: "As a Solutions Architect, Technical Account Manager, or Profession
 
 ## Overview of GitLab Product Training
 
-As a Solutions Architect, Technical Account Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. This handbook page provides an dashboard of aggregated resources that we encourage you to use to get up to speed. Although we aggregated and/or developed these resources for Customer Success team members, they are generic enough that all team members and partners can benefit from the education and enablement resources that we have published here.
+As a Solutions Architect, Customer Success Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. This handbook page provides an dashboard of aggregated resources that we encourage you to use to get up to speed. Although we aggregated and/or developed these resources for Customer Success team members, they are generic enough that all team members and partners can benefit from the education and enablement resources that we have published here.
 
 
 ## Overview of GitLab Feature and Use Cases

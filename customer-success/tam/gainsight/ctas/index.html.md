@@ -10,7 +10,7 @@ description: "The Gainsight guide to using Calls to Action (CTAs) to assist you 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-A [CTA](https://support.gainsight.com/Gainsight_NXT/04Cockpit_and_Playbooks/01About/CTAs_Tasks_and_Playbooks_Overview) is a call to action that is tied to a customer and appears in a TAM's cockpit, as well as the account cockpit. CTAs can be created manually at any time, but some will automatically be created for you based on certain events or data.
+A [CTA](https://support.gainsight.com/Gainsight_NXT/04Cockpit_and_Playbooks/01About/CTAs_Tasks_and_Playbooks_Overview) is a call to action that is tied to a customer and appears in a CSM's cockpit, as well as the account cockpit. CTAs can be created manually at any time, but some will automatically be created for you based on certain events or data.
 
 To create a new CTA, go to your cockpit and click "+ CTA", then fill out the appropriate information. If a CTA will consist of multiple tasks over a period of time, click CTA after saving it, then click the three dots on the top right of the new right sidebar, and click "Add Task". You can add as many as needed and track your progress in the milestone section.
 
@@ -18,7 +18,7 @@ Watch a quick [video on Gainsight CTAs](https://www.youtube.com/watch?v=qkjmTh3Q
 
 ### Cockpit
 
-The Cockpit is the main place you'll go to manage CTAs, which can be opened from several methods. They can be automatically opened due to trigger points in a customer's lifecycle, a TAM can manually open them, or if a TAM logs a task in a [Timeline](/handbook/customer-success/tam/gainsight/timeline/) event that task will populate in the Cockpit.
+The Cockpit is the main place you'll go to manage CTAs, which can be opened from several methods. They can be automatically opened due to trigger points in a customer's lifecycle, a CSM can manually open them, or if a CSM logs a task in a [Timeline](/handbook/customer-success/tam/gainsight/timeline/) event that task will populate in the Cockpit.
 
 The main Cockpit is located by using the far left navigation panel (under "Home") and clicking "Cockpit" to see all CTAs for all customers (this can be customized and refined, discussed below).
 
@@ -79,9 +79,9 @@ There are several "types" of CTAs, which will have different corresponding playb
   * Scale: 6 Month Check-in - Calendly Not Clicked
   * Scale: Low License Utilization - Calendly Clicked
   * Scale: Low License Utilization - Calendly Not Clicked
-  * Scale: One-Off Scale TAM Outreach
+  * Scale: One-Off Scale CSM Outreach
   * Scale Team: Day 14 Reach-Out
-  * TAM Account Transitions
+  * CSM Account Transitions
 
 If the CTA you're opening does not fall into one of the playbook categories, choose the type that makes the most sense. If it's a common CTA, suggest creating a playbook for the it by [opening an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1731118?&label_name[]=gainsight).
 
@@ -91,7 +91,7 @@ CTA statuses are defined below.
 
 Available on All CTAs:
 * New - Brand new CTA, has yet to be started
-* Work in progress - CTA currently being worked on by a TAM
+* Work in progress - CTA currently being worked on by a CSM
 * Closed Success - This CTA was completed with a positive (or intended) outcome
 * Closed Lost: Not a Priority - Customer doesn't see this as a top objective to pursue
 * Closed: Already Solved
@@ -106,7 +106,7 @@ Available on Objective CTAs only (Success Plans):
 * Closed Lost: Product Gaps - In reviewing the use case and features/capabilities, there were product gaps, or the customer believes the product does not meet their use case needs.
 * Closed Lost: Responsible Team Unengaged - Another team other than the one we are engaged with owns the capability or permission needed for adoption. We have not been successful in engaging this other team.
 * Closed Lost: Didn't See Value - Customer did not see the value to justify the investment, assuming the ability to drive adoption was within their scope of control.
-* Closed Lost: Deferred To Later Date - The customer has shown material interest (i.e., committed, high-level of interest) in expanding but prefers to pursue at a different date. TAM in these instances creates a reminder CTA to bring the conversation back up.
+* Closed Lost: Deferred To Later Date - The customer has shown material interest (i.e., committed, high-level of interest) in expanding but prefers to pursue at a different date. CSM in these instances creates a reminder CTA to bring the conversation back up.
 * Closed Lost: Lack of Budget - Customer would need to up-tier to use the new stage in full and does not have the budget available.
 
 ### Snoozing CTAs
@@ -115,8 +115,8 @@ In Gainsight, you are able to snooze a CTA in order to keep it open but remove i
 
 Reasons to snooze a CTA instead of closing it:
 
-1. The CTA isn't applicable at this point in time, but will be applicable in the foreseeable future. For example, if an account is newly TAM-qualifying and you receive a CTA to hold an EBR, use the snooze CTA functionality to push out the date within the next 3-6 months.
-1. Ensure a similar/related CTA isn't fired. For example, if a CTA fires when you haven't updated TAM Sentiment, but you have a cadence call scheduled for next week, you can snooze the CTA for a week from now and avoid getting another CTA before you can meet with the customer.
+1. The CTA isn't applicable at this point in time, but will be applicable in the foreseeable future. For example, if an account is newly CSM-qualifying and you receive a CTA to hold an EBR, use the snooze CTA functionality to push out the date within the next 3-6 months.
+1. Ensure a similar/related CTA isn't fired. For example, if a CTA fires when you haven't updated CSM Sentiment, but you have a cadence call scheduled for next week, you can snooze the CTA for a week from now and avoid getting another CTA before you can meet with the customer.
 
 To snooze a CTA, follow these instructions:
 

@@ -9,7 +9,7 @@ title: "Service Ping FAQ"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 ----
 
@@ -35,7 +35,7 @@ Service Ping provides insights into your teams’ usage of GitLab to enable you 
 
 - As a benefit of having the service ping active, GitLab lets you analyze the users’ activities over time of your GitLab installation.
 - As a benefit of having the service ping active, GitLab provides you with The DevOps Score, which gives you an overview of your entire instance’s adoption of Concurrent DevOps from planning to monitoring.
-- You will get better, more proactive guidance when working with a technical account manager.
+- You will get better, more proactive guidance when working with a Customer Success Manager.
 - You will get insight and advice into how to get the most value out of their investment in GitLab.
 - You get a report that illustrates how they compare against other similar organizations (anonymized), with specific advice and recommendations on how to improve their DevOps processes.
 
@@ -64,7 +64,7 @@ At this time, it will be a manual process to save each ping and analyze the metr
 Our documentation shows all usage statistics and content that is sent back to GitLab. When we change / update product analytics you can view the exact JSON payload in the administration panel. To view the payload: Navigate to the Admin Area > Settings > Metrics and profiling. Expand the Usage statistics section. Click the Preview payload button.
 
 ## 6. Our security team will have to sign off first
-You can inspect the data and have your security team review it. They can continue to monitor (via ELK stack) that GitLab is not breaking security policy with new releases. We invite you to ship this data to an internal ELK stack, and sanitize it before sending to your GitLab Technical Account Manager. If we can get your security team to review and approve, we can fully automate this process so you don't have to go to the trouble.
+You can inspect the data and have your security team review it. They can continue to monitor (via ELK stack) that GitLab is not breaking security policy with new releases. We invite you to ship this data to an internal ELK stack, and sanitize it before sending to your GitLab Customer Success Manager. If we can get your security team to review and approve, we can fully automate this process so you don't have to go to the trouble.
 
 ## 7. We have network isolation and there is no way for usage to get out of their network
 We respect your organizations' network security policies and restrictions and understand there are situations where it is not feasible or technically possible to submit service ping over the Internet. If Service Ping is blocked by a firewall, load balancer, or proxy, you might consider [modifying](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#network-configuration) your network configuration to un-block the Service Ping payload from being sent to GitLab.

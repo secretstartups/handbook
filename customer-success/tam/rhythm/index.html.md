@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM Rhythm of Business"
+title: "CSM Rhythm of Business"
 ---
 
 ## On this page
@@ -9,15 +9,15 @@ title: "TAM Rhythm of Business"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 ---
 
-### TAM Rhythm of Business 
+### CSM Rhythm of Business 
 
-A successful TAM is pulled into various tasks across multiple territories and accounts. It is critical for a TAM to manage time effectively and concentrate on tasks that have the most positive impact for GitLab and the customer. 
+A successful CSM is pulled into various tasks across multiple territories and accounts. It is critical for a CSM to manage time effectively and concentrate on tasks that have the most positive impact for GitLab and the customer. 
 
-The TAM Rhythm of Business has been designed to focus TAM efforts on the most fruitful daily, weekly, monthly, quarterly, and yearly tasks. 
+The CSM Rhythm of Business has been designed to focus CSM efforts on the most fruitful daily, weekly, monthly, quarterly, and yearly tasks. 
 
 This chart, not only provides the task information, but also the purpose behind each task and the associated handbook pages with additional information. 
 
@@ -29,4 +29,4 @@ Click here for a [downloadable version](https://lucid.app/documents/view/fd53487
 
 #### Mid-Touch Rhythm of Business
 
-While the motions in the rhythm of business will remain the same as above, the [Mid-Touch](/handbook/customer-success/tam/segment/mid-touch/) TAM team will have a slightly different approach to their workflow and books of business. For details on what the expectations would be of a Mid-Touch TAM, please see the [Mid-Touch Segment handbook page](/handbook/customer-success/tam/segment/mid-touch/#rhythm-of-business).
+While the motions in the rhythm of business will remain the same as above, the [Mid-Touch](/handbook/customer-success/tam/segment/mid-touch/) CSM team will have a slightly different approach to their workflow and books of business. For details on what the expectations would be of a Mid-Touch CSM, please see the [Mid-Touch Segment handbook page](/handbook/customer-success/tam/segment/mid-touch/#rhythm-of-business).

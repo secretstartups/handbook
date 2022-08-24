@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM and Support Interaction"
+title: "CSM and Support Interaction"
 ---
 
 ## On this page
@@ -9,23 +9,23 @@ title: "TAM and Support Interaction"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 ----
 
 ## Objective
 
-Define the process for how the TAM interacts with the systems and processes designed to provide customers with technical support.  
+Define the process for how the CSM interacts with the systems and processes designed to provide customers with technical support.  
 
 ## Establishing Customers in Support Systems
 
-During the onboarding process, the TAM will ensure that customers are correctly established in the support system. GitLab manages support requests through a system called [Zendesk](/handbook/support/workflows/zendesk-instances.html). GitLab has [integrated the GitLab instance of Salesforce with Zendesk](/handbook/support/workflows/zendesk_organizations_and_users_overview.html) to facilitate the establishment of users in Zendesk. The integration synchronizes account-level data so that the Zendesk ticket has accurate information on the customers’ purchase of products that include support.
+During the onboarding process, the CSM will ensure that customers are correctly established in the support system. GitLab manages support requests through a system called [Zendesk](/handbook/support/workflows/zendesk-instances.html). GitLab has [integrated the GitLab instance of Salesforce with Zendesk](/handbook/support/workflows/zendesk_organizations_and_users_overview.html) to facilitate the establishment of users in Zendesk. The integration synchronizes account-level data so that the Zendesk ticket has accurate information on the customers’ purchase of products that include support.
 
-Though automation exists, the TAM must still ensure customers take additional steps to fully establish their personnel in Zendesk. Specifically, the TAM must work with the customer to establish specific Zendesk users under the Zendesk Account so that tickets submitted by the customer’s personnel are guided by the GitLab support team’s [Service Level Agreements (SLAs)](/support/#gitlab-support-service-levels).
+Though automation exists, the CSM must still ensure customers take additional steps to fully establish their personnel in Zendesk. Specifically, the CSM must work with the customer to establish specific Zendesk users under the Zendesk Account so that tickets submitted by the customer’s personnel are guided by the GitLab support team’s [Service Level Agreements (SLAs)](/support/#gitlab-support-service-levels).
 
 To add important static notes that will appear on each new ticket to help the support team with context, review the [support handbook](/handbook/support/internal-support/#i-want-to-add-important-information-about-the-organizationuser) to request this be attached to the customer's Zendesk organization.
 
-### Steps for the TAM to take to add support users:
+### Steps for the CSM to take to add support users:
 1. Collect a list of names and email addresses for people who should have SLA-driven access to GitLab support. 
 1. Add these contacts as a "Contact" on the account in Salesforce.
 1. Advise the customer to have those people [create an account on the support portal](https://about.gitlab.com/support/#first-time-reaching-support).
@@ -34,7 +34,7 @@ Users who aren't associated with their organization will be asked to [prove thei
 
 ## Support Ticket Best Practice
 
-GitLab offers [a variety of support options](/support/) for all customers and users on both paid and free tiers. The TAM should continually review customer tickets and then educate customers on support best practices. In particular, the TAM should ensure that customers are submitting tickets that meet best practices. Please address the below items with customers for when they [open a support ticket](https://support.gitlab.com/hc/en-us):
+GitLab offers [a variety of support options](/support/) for all customers and users on both paid and free tiers. The CSM should continually review customer tickets and then educate customers on support best practices. In particular, the CSM should ensure that customers are submitting tickets that meet best practices. Please address the below items with customers for when they [open a support ticket](https://support.gitlab.com/hc/en-us):
 
 1. Provide as much detail as possible during the first submission of the ticket
 1. Summary of issue (when did it start, how frequently, impact on organization, etc.)
@@ -50,7 +50,7 @@ GitLab offers [a variety of support options](/support/) for all customers and us
 
 ## Automated linking of customer architecture / collaboration project information in Zendesk tickets 
 
-For each customer / org in Zendesk managed by a TAM, we can get a link to the collaboration project included, which then can point to the customers architecture details within existing tickets. This link helps our support team to access customer information from the collaboration project without looking up the URL manually each time. 
+For each customer / org in Zendesk managed by a CSM, we can get a link to the collaboration project included, which then can point to the customers architecture details within existing tickets. This link helps our support team to access customer information from the collaboration project without looking up the URL manually each time. 
 
 To enable this [linking from ZD to the corresponding collaboration project](https://about.gitlab.com/handbook/support/workflows/looking_up_customer_technical_details.html#architecture-diagram-and-customer-success-project) and make the life of the GitLab support team easier, you need to review the AM Project ID set in Zendesk (visible on the left side). 
 
@@ -72,9 +72,9 @@ Once done and the AM id was updated, the link itself will be visible within ZD i
 
 ## Support Ticket Notifications
 
-When a TAM is assigned to an account in Salesforce, any time that a user from that account submits a support ticket, the TAM will receive an email to let them know, which includes a link to the Zendesk ticket and an [automatically-created](/handbook/support/support-ops/#salesforce---zendesk-sync) Salesforce case. The email will also include the account name, contact name and email, and the date the ticket was opened. TAMs should receive the email within 1-2 hours of the ticket being opened.
+When a CSM is assigned to an account in Salesforce, any time that a user from that account submits a support ticket, the CSM will receive an email to let them know, which includes a link to the Zendesk ticket and an [automatically-created](/handbook/support/support-ops/#salesforce---zendesk-sync) Salesforce case. The email will also include the account name, contact name and email, and the date the ticket was opened. CSMs should receive the email within 1-2 hours of the ticket being opened.
 
-In the email notifying TAMs of new tickets, the included Zendesk ticket link currently leads directly to the ticket. In the past, it has been a .json file which is difficult to read and sometimes doesn't load. If you encounter this, there are a few ways to work around this:
+In the email notifying CSMs of new tickets, the included Zendesk ticket link currently leads directly to the ticket. In the past, it has been a .json file which is difficult to read and sometimes doesn't load. If you encounter this, there are a few ways to work around this:
 
 1. Open the Salesforce case link instead. You will be unable to take any action on the ticket, but you will be able to read it.
 1. Open the Zendesk ticket link, then edit the URL so it takes you to the ticket itself rather than the .json. For example, https://gitlab.zendesk.com/api/v2/tickets/123456.json is the format of the ticket link in the email, but by deleting `/api/v2` and `.json` and then going to that new link, https://gitlab.zendesk.com/tickets/123456, you will be taken directly to the ticket.

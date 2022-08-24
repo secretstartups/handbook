@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Using Issue Prioritization Dashboard as a TAM"
-description: "The key aspects of how Technical Account Managers use Sisense Issue Prioritization Dashboard to drive success for customers."
+title: "Using Issue Prioritization Dashboard as a CSM"
+description: "The key aspects of how Customer Success Managers use Sisense Issue Prioritization Dashboard to drive success for customers."
 ---
 
 ## On this page
@@ -16,19 +16,19 @@ The Customer Prioritization Framework is currently an MVC and in its initial pil
 
 ## Dashboard
 
-The [issue prioritization dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970772/User-Request-Issue-Prioritization---TAM-Customer-View) is located in Sisense. The data is aggregated from the [feedback template](https://about.gitlab.com/handbook/product/how-to-engage/#feedback-template) used when a customer or prospect has expressed interest in a feature. 
+The [issue prioritization dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970772/User-Request-Issue-Prioritization---CSM-Customer-View) is located in Sisense. The data is aggregated from the [feedback template](https://about.gitlab.com/handbook/product/how-to-engage/#feedback-template) used when a customer or prospect has expressed interest in a feature. 
 
-## How TAMs use the dashboard
+## How CSMs use the dashboard
 
-You can filter dashboard by Technical Account Manager. This will give you all customer requested issues for a TAMs book of business. You can also filter dashboard by a specific customer or prospect. This will give you a customer specific view of their requested issues. 
+You can filter dashboard by Customer Success Manager. This will give you all customer requested issues for a CSMs book of business. You can also filter dashboard by a specific customer or prospect. This will give you a customer specific view of their requested issues. 
 
 ### Cadence Calls
 
 Utilize the `Recently Opened` and `Recently Closed` dashboard views during your customer cadence calls. 
 
-In the `Recently Opened` view, TAMs can confirm a customer requested issue has been prioritized by refrencing the `Deliverable` column. 
+In the `Recently Opened` view, CSMs can confirm a customer requested issue has been prioritized by refrencing the `Deliverable` column. 
 
-In the `Recently Closed` view, TAMs can share the recently released feature requests the customer has interest in. This can help drive frequency of GitLab upgrades. 
+In the `Recently Closed` view, CSMs can share the recently released feature requests the customer has interest in. This can help drive frequency of GitLab upgrades. 
 
 
 ### Executive Business Reviews

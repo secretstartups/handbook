@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Using Calendly as a TAM"
-description: "Best practices and setup guide for Technical Account Managers using Calendly to manage customer requests for meetings."
+title: "Using Calendly as a CSM"
+description: "Best practices and setup guide for Customer Success Managers using Calendly to manage customer requests for meetings."
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -9,17 +9,17 @@ description: "Best practices and setup guide for Technical Account Managers usin
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 - - -
 
 *For an overview of Chorus, the tool used to record our meetings please refer to the [Gainsight Overview Page](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/).*
 
-## Setup Calendly for Technical Account Managers
+## Setup Calendly for Customer Success Managers
 
-TAMs use Calendly to efficently manage customer requests for booking ad-hoc meetings.
+CSMs use Calendly to efficently manage customer requests for booking ad-hoc meetings.
 
-To ensure that a TAM's Calendly is setup to comply with GDPR and similar privacy laws, all team members with a Recorder license in Chorus are required to use a feature called Chorus Scheduler when organizing meetings with customers. Below are the steps required to use Chorus Scheduler for your events booked via Calendly.
+To ensure that a CSM's Calendly is setup to comply with GDPR and similar privacy laws, all team members with a Recorder license in Chorus are required to use a feature called Chorus Scheduler when organizing meetings with customers. Below are the steps required to use Chorus Scheduler for your events booked via Calendly.
 
 To start, login to calendly.com and [edit your event details](https://help.calendly.com/hc/en-us/articles/360000787673-Customize-Your-Event-Types) used for booking time with the following recommendations:
 
@@ -64,7 +64,7 @@ To start, login to calendly.com and [edit your event details](https://help.calen
         -   Invitees can’t schedule within: 2 days of an event start time
             -   Best practice notes: Gives you enough time to research the customer, review support tickets, GitLab issues and sync with the account team if needed. Also allows for buffer time if a customer happens to want to book time on the weekend so you don't have a call first thing on Monday morning for example.
     -   Maximum allowed events per day for this type of event: 2
-        -   Best practice notes: Allows you to have the time and space to review your notes/recording and start research for a follow-up response, as well as handle other duties as a TAM (providing assistance to webinar Q&A, professional development, internal meetings, focus time, etc.)
+        -   Best practice notes: Allows you to have the time and space to review your notes/recording and start research for a follow-up response, as well as handle other duties as a CSM (providing assistance to webinar Q&A, professional development, internal meetings, focus time, etc.)
     -   Time zone display: automatically detect
     -   Secret event: unchecked/disabled
 

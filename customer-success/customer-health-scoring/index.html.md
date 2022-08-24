@@ -58,7 +58,7 @@ and achieving positive business outcomes (PBOs). In this case, metrics indicate 
 **P.R.O.V.E.**
 
 * **Product**: License activation + User engagement + Use Case: 50% weighting
-* **Risk**: TAM Sentiment + Opportunity Renewal risks: 0-50%
+* **Risk**: CSM Sentiment + Opportunity Renewal risks: 0-50%
 * **Outcomes**: Success Plan + Verified Outcomes: 20%
 * **Voice of the customer** (VoC): Support + Surveys: 10%
 * **Engagement**: Customer Engagement + Executive Sponsorship + Events + Certifications: 20%
@@ -74,15 +74,15 @@ and achieving positive business outcomes (PBOs). In this case, metrics indicate 
 | **Product**    | License Activation         | The customer has assigned all licenses                                            | Has the customer deployed their licenses? This is an indicator of seat reduction / expansion                      | License utilization                                          | All              | 100%          |
 | **Product**    | User Engagement            | 73% of users are Monthly Active Users                                         | Are users logging in and using the product?                  | Unique Monthly Active Users / billable_user_count               | All              | 0%          |
 | **Product**    | Adoption (Use Case)        | Use Case adoption                                            | Is the customer adopting use cases and progressing into “stickier” areas of GitLab? | SCM —> CI —> DevSecOps adoption                              | All              | 100%          |
-| **Risk**       | TAM Sentiment              | The sentiment as determined by the TAM, if applicable        | What has the TAM determined from cadence calls?              | TAM Sentiment                                                | TAM owned        | 100%         |
-| **Outcomes**   | ROI Success Plan           | Ensure the ROI Success Plan is aligned to customer           | A missing or poorly constructed Success Plan highlights a lack of alignment between GitLab and customer desired outcomes. | Green Success Plans Delivered EBRs                           | TAM owned        | 100%         |
-| **Outcomes**   | Positive Business Outcomes (PBOs) | Completed Success Plan Objectives                            | Failed or missed PBOs can be a sign of distress; successful PBOs can highlight renewal expansion | Successfully completing at least one PBO each year            | TAM owned        | Not started  |
+| **Risk**       | CSM Sentiment              | The sentiment as determined by the CSM, if applicable        | What has the CSM determined from cadence calls?              | CSM Sentiment                                                | CSM owned        | 100%         |
+| **Outcomes**   | ROI Success Plan           | Ensure the ROI Success Plan is aligned to customer           | A missing or poorly constructed Success Plan highlights a lack of alignment between GitLab and customer desired outcomes. | Green Success Plans Delivered EBRs                           | CSM owned        | 100%         |
+| **Outcomes**   | Positive Business Outcomes (PBOs) | Completed Success Plan Objectives                            | Failed or missed PBOs can be a sign of distress; successful PBOs can highlight renewal expansion | Successfully completing at least one PBO each year            | CSM owned        | Not started  |
 | **VoC**        | Support - Escalations      | Emergency support tickets                                      | Emergency support tickets can indicate unhappiness or frustration | Measure if there are Emergency support tickets in the last 90 days | All              | 100%  |
 | **VoC**        | Support - Engagement       | Customer sends in tickets                                    | Determining if the customer is engaged with Support          | Retain existing methodology, but tweak to allow more tickets as a good thing | All              | 70%         |
-| **VoC**        | Support - CSAT             | Customer completes CSAT surveys and provides feedback        | Is the customer giving feedback and what are the scores (response + outcomes) | Benchmark a minimum XX% response rate for green health and provide CSAT results to TAM | All              | Not started  |
+| **VoC**        | Support - CSAT             | Customer completes CSAT surveys and provides feedback        | Is the customer giving feedback and what are the scores (response + outcomes) | Benchmark a minimum XX% response rate for green health and provide CSAT results to CSM | All              | Not started  |
 | **VoC**        | NPS Surveys                | The customer responds to and provides high scores            | Because surveys are a good indicator of the customer’s perception of the product and company; this can | Survey responses rates + survey scores                       | All              | Not started  |
-| **Engagement** | Engagement                 | Recency of TAM cadence call                                  | Lack of customer engagement                                  | Date of last TAM cadence call                                | TAM owned        | 100%         |
-| **Engagement** | Executive Sponsorship      | Are stakeholders aligned and communicating?                  | Lack of alignment and communication can indicate a disconnect between execs and ROI | Recency of aligned stakeholder communication                 | TAM owned        | Not started  |
+| **Engagement** | Engagement                 | Recency of CSM cadence call                                  | Lack of customer engagement                                  | Date of last CSM cadence call                                | CSM owned        | 100%         |
+| **Engagement** | Executive Sponsorship      | Are stakeholders aligned and communicating?                  | Lack of alignment and communication can indicate a disconnect between execs and ROI | Recency of aligned stakeholder communication                 | CSM owned        | Not started  |
 | **Engagement** | Events                     | Is the customer attending GitLab events?                     | Event attendance indicates customer engagement, dialogues with team members, and face-to-face interactions | TBD                                                          | All              | Not started  |
 | **Engagement** | Certifications             | Are users within the account taking certifications? Are they maintaining their certifications? | Obtaining GitLab certifications is a positive for us and the customer; it also indicates their involvement in GitLab, knowledge of using GitLab, and provides an inference as an internal champion | TBC                                                          | All              | Not started  |
 
@@ -124,7 +124,7 @@ For a fuller list of the project roadmap, see [Product Usage Data Roadmap](https
 
 ### Starting point
 
-The first approach was a calculation of multiple metrics to create a “black box” approach. This was neither helpful to the end user (TAMs, SAs, sales reps), it was not easy to understand the calculation, the Gainsight logic was inadequate, and was not action-oriented to know *which* aspects of the use case were great and which needed improvement.
+The first approach was a calculation of multiple metrics to create a “black box” approach. This was neither helpful to the end user (CSMs, SAs, sales reps), it was not easy to understand the calculation, the Gainsight logic was inadequate, and was not action-oriented to know *which* aspects of the use case were great and which needed improvement.
 
 ### Next iteration
 
@@ -133,7 +133,7 @@ The next iteration is a model where each use case incorporates X number of metri
 ![CI Health Scoring](images/ci-health-scoring.jpeg)
 <br>
 
-Example: CI has ten individual features with one metric per feature and each metric is equally weighted at 10. Each metric can score between 0-10 with some being zero, some being 5, and others being 10. The aggregate score would be 65 out of 100. The TAM could then evaluate each metric to see which features are being adopted and which ones need improvement.
+Example: CI has ten individual features with one metric per feature and each metric is equally weighted at 10. Each metric can score between 0-10 with some being zero, some being 5, and others being 10. The aggregate score would be 65 out of 100. The CSM could then evaluate each metric to see which features are being adopted and which ones need improvement.
 
 
 
@@ -204,7 +204,7 @@ Each of these metrics will be used to guide the account team in knowing when a c
 
 1. Less than 75% license utilization (excludes onboarding customers)
 2. Consistent reduction in activated user count (number of deactivated users M-o-M)
-3. TAM renewal risk == Seat Loss
+3. CSM renewal risk == Seat Loss
 
 #### Downtier
 
@@ -212,7 +212,7 @@ Each of these metrics will be used to guide the account team in knowing when a c
    1. DevSecOps
    1. Agile Planning
 1. Success Plan objectives not aligned with Ultimate-level feature sets
-1. TAM renewal risk == downtier
+1. CSM renewal risk == downtier
 
 #### Churn
 
@@ -222,7 +222,7 @@ Indicators from Seat Reduction or Downtier above plus:
 
 1. Customer has gone dark
 2. Loss of internal champion/stakeholder
-3. TAM renewal risk == churn
+3. CSM renewal risk == churn
 
 ##### Renewal Opportunities
 
@@ -232,9 +232,9 @@ Indicators from Seat Reduction or Downtier above plus:
 
 ## Segmentation
 
-Segmentation will primarily follow the level of service (TAM Priority 1, 2, 3), and secondarily other factors as listed below.
+Segmentation will primarily follow the level of service (CSM Priority 1, 2, 3), and secondarily other factors as listed below.
 
-1. TAM-managed vs. non TAM-managed
+1. CSM-managed vs. non CSM-managed
 2. Segmentation: Enterprise, Mid-Market, SMB
 3. Geographical
 4. Divisional (WW or Public Sector)

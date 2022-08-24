@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM Retrospectives"
+title: "CSM Retrospectives"
 ---
 
 ## On this page
@@ -9,13 +9,13 @@ title: "TAM Retrospectives"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 ---
 
 ## Retrospectives
 
-The EMEA TAM team are trialing [monthly retrospectives in GitLab issues](https://gitlab.com/gl-retrospectives/tam/-/issues?sort=updated_desc&state=all&label_name[]=retrospective). For more information, see [team retrospectives](https://about.gitlab.com/handbook/engineering/management/group-retrospectives/).
+The EMEA CSM team are trialing [monthly retrospectives in GitLab issues](https://gitlab.com/gl-retrospectives/tam/-/issues?sort=updated_desc&state=all&label_name[]=retrospective). For more information, see [team retrospectives](https://about.gitlab.com/handbook/engineering/management/group-retrospectives/).
 
 The retrospective issue is created by a scheduled pipeline in the [async-retrospectives](https://gitlab.com/gitlab-org/async-retrospectives) project. For more information on how it works, see the project's README.
 

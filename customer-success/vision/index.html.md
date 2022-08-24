@@ -69,7 +69,7 @@ We define the adoption of a use case using the criteria established in our [Cust
 
 As part of our customer journey, we highly value the customer's initial experience and measure time-to-value. Specifically, we will measure the time in calendar days from the initial transaction to:
 
-- **Engagement**: Represents our time to engage the customer. Completion defined when the TAM has their first meeting with the customer.
+- **Engagement**: Represents our time to engage the customer. Completion defined when the CSM has their first meeting with the customer.
 - **Onboarding**: Completion is defined when all the onboarding tasks are done.
 - **Infrastructure Ready**: Completion is defined as either 1) production implementation is complete for on-premises installations 2) GitLab.com is integrated into a customer's environment or 3) Cloud and on-premises environments ready for a hybrid deployment
 - **First Value**: Represents a small subset of users are using the product in a Production environment. This is achieved when a customer activates 10% of their licenses.
@@ -80,7 +80,7 @@ As part of our customer journey, we highly value the customer's initial experien
 To improve the customer experience, deliver on customer outcomes, and increase net ARR, GitLab is focused on measuring and improving Customer Health. Customer Health includes multiple health measures that, when aggregated, gives a holistic view into the customer and allows drill-down into specific areas. We have created and adopted the PROVE Value approach:
 
 * **Product**: License + User Engagement + Use Case
-* **Risk**: TAM Sentiment + Opportunity Renewal risks
+* **Risk**: CSM Sentiment + Opportunity Renewal risks
 * **Outcomes**: Success Plan + Verified Outcomes
 * **Voice of the Customer**: Support + Surveys
 * **Engagement**: Customer Engagement + Executive Sponsorship + Events + Certifications
@@ -125,7 +125,7 @@ If you need help with determining the standard cost rate or if it is applicable 
     - Product differences (e.g., stage-specific, use case and/or feature playbooks)
     - Customer personas (e.g., executive sponsor, tools/infrastructure executive, development executive, etc.)
 1. Integrate processes and operations for direct customer engagement processes such as:
-    - **Marketing**: messaging alignment and consistency, journey integration with marketing stages (e.g., awareness), customer advocacy, advisory boards, collateral development, digital journey (i.e., tech touch, hybrid digital/TAM engagement)
+    - **Marketing**: messaging alignment and consistency, journey integration with marketing stages (e.g., awareness), customer advocacy, advisory boards, collateral development, digital journey (i.e., tech touch, hybrid digital/CSM engagement)
     - **Sales**: account planning and strategy, POC, success planning, IACV, renewal forecasting and execution, training and enablement
     - **Product / Engineering**: Product analytics and data insights, UX journey map alignment, in-app adoption (e.g., product-led onboarding), application/stage/use case/feature adoption, "voice of customer" reporting, escalations and defect and enhancement requests
     - **Support**: Customer health, escalation processes

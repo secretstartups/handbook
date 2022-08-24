@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "TAM Strategies for Mitigating Risk In Customer Accounts"
-description: "TAM Strategies for Mitigating Risk In Customer Accounts"
+title: "CSM Strategies for Mitigating Risk In Customer Accounts"
+description: "CSM Strategies for Mitigating Risk In Customer Accounts"
 ---
  
 {:.no_toc .hidden-md .hidden-lg}
@@ -25,7 +25,7 @@ We have identified these as the most common types of risk in an account...
 - **Lack of Engagement/Loss of Champion**
 
 ## **Discovery into the Risk**
-Based on the identified type of risk, the TAM can use some of the following questions to dig a bit deeper into the risk that may help identify mitigation options...
+Based on the identified type of risk, the CSM can use some of the following questions to dig a bit deeper into the risk that may help identify mitigation options...
 
 ### Cost/Budget
    - Over License
@@ -56,7 +56,7 @@ Based on the identified type of risk, the TAM can use some of the following ques
    - `Is this a pricing issue or a feature issue?`
 
 ### Product (the product does do what they want or meets their needs or isn't mature enough)
-   - `Have you worked with your TAM on a prioritized list of features?`
+   - `Have you worked with your CSM on a prioritized list of features?`
    - `What feature(s) do you need **right now** to continue using GitLab?`
    - `Where do you see more opportunity to replace other tools if GitLab was more mature?`
 
@@ -115,7 +115,7 @@ Once we know the risk and done some discovery into that risk, we have some optio
 
 ### Lack of engagement/Loss of champion
 - For lack of engagement, please see our [Strategies for Non-Engaged Customers](https://about.gitlab.com/handbook/customer-success/tam/engagement/Non-engaged-customer-strategies/) handbook page.
-- For a loss of champion, this will require more legwork from the TAM and SAL.
+- For a loss of champion, this will require more legwork from the CSM and SAL.
    - Identify who's replacing your champion and cultivate that relationship.
    - Find someone who loves GitLab and include them in future calls (if they aren't already).
    - Don't be afraid to leverage our executive contacts to reach out to the customer at the highest levels.

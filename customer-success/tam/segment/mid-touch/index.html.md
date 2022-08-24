@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM (CSM) Segment: Growth"
+title: "CSM (TAM) Segment: Growth"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -8,7 +8,7 @@ title: "TAM (CSM) Segment: Growth"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 ---
 
@@ -16,13 +16,13 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 The Growth team consists of Customer Success Managers assigned to dedicated accounts, leading with a programmatic approach to grow a large customer base, and aligning on and building success goals with each customer through usage reporting and strategic touchpoints. Our primary focuses are on reducing and addressing risk, ensuring positive onboarding for long-term success, and driving enablement and adoption throughout the customer journey.
 
-For more information about the Growth team's regions and books of business, please refer to our [internal wiki](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/TAM-Segments).
+For more information about the Growth team's regions and books of business, please refer to our [internal wiki](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/tam-Segments).
 
 ## Customer Lifecycle Journey
 
 Growth accounts have their own unique lifecycle journey to ensure they reach their full return on investment and can scalably grow and expand.
 
-![Growth Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_TAM.png)
+![Growth Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_tam.png)
 
 ### Align and Onboard
 
@@ -168,7 +168,7 @@ In addition to the work spent for each task, this framework assumes team members
 
 Gainsight plays a huge role in ensuring CSMs are equipped and able to manage their books of business.
 
-For general guidance on using Gainsight, please refer to the [TAM handbook page](/handbook/customer-success/tam/gainsight/).
+For general guidance on using Gainsight, please refer to the [CSM handbook page](/handbook/customer-success/tam/gainsight/).
 
 However, the Growth team has some specific usage of Gainsight, outlined below.
 
@@ -201,7 +201,7 @@ The [Cockpit](/handbook/customer-success/tam/gainsight/ctas/#cockpit) houses all
    - In your Cockpit, you'll now have categories where CTAs are automatically sorted into.
        -`Activity` will show:
           - Any action items (`to-do`) you add to timeline entries
-          - Stale TAM Sentiment CTAs, notifying you that there has not been a TAM Sentiment update within the past 90 days. Once you've updated the sentiment, close this CTA.
+          - Stale CSM Sentiment CTAs, notifying you that there has not been a CSM Sentiment update within the past 90 days. Once you've updated the sentiment, close this CTA.
           - Account handoff CTAs
           - Responses to the All-Customer survey, notifying you to action them and thank your customers.
       - `Lifecycle` will show:

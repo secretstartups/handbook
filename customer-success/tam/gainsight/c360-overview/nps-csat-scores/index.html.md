@@ -10,13 +10,13 @@ description: "A deep dive into the NPS/CSAT scores, how they are defined and cal
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-For an overview of how TAMs use Customer360 (or C360), please refer to the [Gainsight TAM C360 Overview Page](/handbook/customer-success/tam/gainsight/c360-overview)
+For an overview of how CSMs use Customer360 (or C360), please refer to the [Gainsight CSM C360 Overview Page](/handbook/customer-success/tam/gainsight/c360-overview)
 
 ## Customer NPS/CSAT surveys
 
-The purpose of these surveys are to measure customer loyalty, satisfaction, and enthusiasm with GitLab. The onboarding NPS/CSAT serves as an early warning system for the customer beyond what TAM sentiment or product usage data can tell us. It is another attribute that can point to risk early in an account, enabling faster time to resolution. The renewal NPS/CSAT serves as an additional attribute into our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
+The purpose of these surveys are to measure customer loyalty, satisfaction, and enthusiasm with GitLab. The onboarding NPS/CSAT serves as an early warning system for the customer beyond what CSM sentiment or product usage data can tell us. It is another attribute that can point to risk early in an account, enabling faster time to resolution. The renewal NPS/CSAT serves as an additional attribute into our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
 
-In order for our customers to receive the surveys,  a [`GitLab admin` role needs to be assigned](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) in Gainsight to the appropriate contacts.  It is the TAM’s role to complete the role assignment, and this process has been added as a task in the customer onboarding playbook, and again in the customer renewal playbook. 
+In order for our customers to receive the surveys,  a [`GitLab admin` role needs to be assigned](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) in Gainsight to the appropriate contacts.  It is the CSM’s role to complete the role assignment, and this process has been added as a task in the customer onboarding playbook, and again in the customer renewal playbook. 
 
 ##### What is NPS?
 - Net Promoter Score - From 1-10
@@ -45,11 +45,11 @@ In order for our customers to receive the surveys,  a [`GitLab admin` role needs
 
 ##### What will we do with the scores?
 - In addition to writing the score to a scorecard in the customer 360, we will also trigger CTA’s to action based on the feedback.
-- Negative NPS Scores (0-6 OR Very Dissatisfied, Dissatisfied, Neutral) will create a CTA for the TAM Manager to follow-up with the contact.
-- Positive NPS Scores (7-10 OR Satisfied, Very Satisfied) will create a CTA for the TAM to follow-up with the contact.
+- Negative NPS Scores (0-6 OR Very Dissatisfied, Dissatisfied, Neutral) will create a CTA for the CSM Manager to follow-up with the contact.
+- Positive NPS Scores (7-10 OR Satisfied, Very Satisfied) will create a CTA for the CSM to follow-up with the contact.
 - All scores will be posted to #cs_programs_nps_results channel in Slack!
 
 ##### Who will receive the survey and when?
-- We will send the NPS/CSAT survey at the 60 day mark for new customers (not those longer-standing that recently got a TAM) and again at 120 days before renewal.
+- We will send the NPS/CSAT survey at the 60 day mark for new customers (not those longer-standing that recently got a CSM) and again at 120 days before renewal.
 
 

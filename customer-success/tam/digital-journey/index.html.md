@@ -10,7 +10,7 @@ title: "Digital Customer Programs"
 
 ## Digital Programs
 
-Programs are developed using input from TAMs, customers, and other GitLab resources. Our goal is to provide customers with useful ways to serve themselves. We provide the following:
+Programs are developed using input from CSMs, customers, and other GitLab resources. Our goal is to provide customers with useful ways to serve themselves. We provide the following:
 
 - Onboarding resources for customers
 - Survey results

@@ -9,14 +9,14 @@ title: "Customer Health Assessment and Management"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 ----
-This page covers the factors to consider for customer health, guidelines for selecting the appropriate rating, communication guidelines, TAM responsibilities and instructions for the account triage issue creation.
+This page covers the factors to consider for customer health, guidelines for selecting the appropriate rating, communication guidelines, CSM responsibilities and instructions for the account triage issue creation.
 
 ## Customer Health Categories and Risks
 
-Health primarily considers the business impact to GitLab by evaluating the delivery of value and outcomes to customers. The following guideline will provide Technical Account Managers (TAMs) guidance to choose the right health assessment for their customer account. The following are the categories to assess and associated risks with each.
+Health primarily considers the business impact to GitLab by evaluating the delivery of value and outcomes to customers. The following guideline will provide Customer Success Managers (CSMs) guidance to choose the right health assessment for their customer account. The following are the categories to assess and associated risks with each.
 
 1. **Product adoption and utilization**: There is a delayed, low, or materially reduced usage (i.e., drop in usage) as measured by license usage, features / use cases, product version (i.e., not adopting current versions - self-managed only), and/or GitLab stages. Value and outcome delivery to the customer misses expectations as defined by the customer. This may also be impacted by way the customer is using the product (i.e., processes, operations and/or policies) where the customer may not be leveraging GitLab best practices to maximize the value of the solution.
 1. **Product experience**: Customer has enhancements or defect fixes that are necessary for a customer and have not been delivered. The risk is determined according to the criticality of the request, severity of the issues, and/or number of enhancements and defects. Missed expectations for feature release can also impact product experience.
@@ -28,7 +28,7 @@ Health primarily considers the business impact to GitLab by evaluating the deliv
 
 ## Health Assessment Guidelines
 
-The items below serve as *guidelines* for the TAM to assess and record customer health and should consider where the customer is their lifecycle journey. Account health feeds into [open renewal opportunities](/handbook/customer-success/tam/renewals/#tracking-renewal-opportunity-health-and-risks).
+The items below serve as *guidelines* for the CSM to assess and record customer health and should consider where the customer is their lifecycle journey. Account health feeds into [open renewal opportunities](/handbook/customer-success/tam/renewals/#tracking-renewal-opportunity-health-and-risks).
 
 Understanding how Gainsight calculates a measure score to be Red, Yellow, or Green: 
 
@@ -46,13 +46,13 @@ The weight is shown in the upper right corner of the metric.
 
 ### Reporting and Viewing Health
 
-Use the `Customer Health` (TAM Portfolio Dashboard) report to view the health of every measure for your customers in one single view.
+Use the `Customer Health` (CSM Portfolio Dashboard) report to view the health of every measure for your customers in one single view.
 
-To view Timeline entires where the TAM Sentiment was updated:
+To view Timeline entires where the CSM Sentiment was updated:
 
 1. Go to Global Timeline
 1. Filter by Sentiment = Green, Yellow, or Red
-1. Apply any other specific filters (TAM Name, Timeline date, etc)
+1. Apply any other specific filters (CSM Name, Timeline date, etc)
 
 
 ### Green
@@ -75,11 +75,11 @@ Potential risk or significant lack of information leading to uncertainty. Indica
 - Lack of engagement, responsiveness or participation in meetings and/or events
 - Changes of roles (e.g., sponsor or champion), organizational change or acquisition
 - Lack of adoption of releases (self-managed only) where they are more than a major release behind the current release
-- Not leveraging technical support services or has a large number of cases and/or high severity cases (6-15 tickets per month, or no ticket(s) opened after being advised by the TAM that Support is the best path to resolution for an issue(s))
+- Not leveraging technical support services or has a large number of cases and/or high severity cases (6-15 tickets per month, or no ticket(s) opened after being advised by the CSM that Support is the best path to resolution for an issue(s))
 - Poor experiences with Support, Professional Services or another part of GitLab
 - Working with a single contact at a company (single-threaded).
 
-There might be well understood reasons within the account team why a customer is flagged as Yellow within the current phase of the customer lifecycle. If the TAM decides that corrective actions and follow up from team members outside of the TAM group is required the TAM must follow the [At-Risk Customer Process](https://about.gitlab.com/handbook/customer-success/tam/renewals/#at-risk-process) and flag the account as Yellow "Requires Triage".
+There might be well understood reasons within the account team why a customer is flagged as Yellow within the current phase of the customer lifecycle. If the CSM decides that corrective actions and follow up from team members outside of the CSM group is required the CSM must follow the [At-Risk Customer Process](https://about.gitlab.com/handbook/customer-success/tam/renewals/#at-risk-process) and flag the account as Yellow "Requires Triage".
 
 ### Red
 
@@ -102,9 +102,9 @@ Very rarely, a customer reaches a point at which it is accepted by the account t
 In order for a customer to move to the 'will churn' stage, the following must be completed:
 
 - [ ] All options discussed in the triage issue and in at-risk reviews have been exhausted
-- [ ] Technical Account Manager opens a Will Churn" issue
-  - ["Will Churn" Enterprise issue template](https://gitlab.com/gitlab-com/customer-success/account-triage/-/issues/new?issuable_template=Will%20Churn%20-%20ENT)
-- [ ] Technical Account Manager links from the triage issue to the newly created "Will Churn" issue, and closes the triage issue
+- [ ] Customer Success Manager opens a `Will Churn` issue
+  - [``Will Churn`` Enterprise issue template](https://gitlab.com/gitlab-com/customer-success/account-triage/-/issues/new?issuable_template=Will%20Churn%20-%20ENT)
+- [ ] Customer Success Manager links from the triage issue to the newly created "Will Churn" issue, and closes the triage issue
 - [ ] Listed personas in the "Will Churn" issue provide feedback and approval
 - [ ] SAL/AE has marked the opportunity as 'Will Churn'
 
@@ -116,8 +116,8 @@ The following are guidelines on who to notify when an account is yellow or red. 
 ### Yellow Health Rating
 
 - Account Team (i.e., Strategic Account Leader or Account Executive, Solution Architect)
-- Regional TAM Manager
-- TAM Director (all non-Public Sector customers) or Director of Customer Success Public Sector (for Public Sector customers)
+- Regional CSM Manager
+- CSM Director (all non-Public Sector customers) or Director of Customer Success Public Sector (for Public Sector customers)
 
 ### Red Health Rating
 
@@ -127,7 +127,7 @@ The following are guidelines on who to notify when an account is yellow or red. 
 
 ## Responsibilities
 
-The TAM is responsible for coordinating with all relevant parties to develop a plan to address the risks. Typically, this will involve the account team and communication group (above), as well as other resources such as Product Managers, marketing, executive or engineering resources meeting to develop and deliver the plan to address the risks. The TAM then drives execution of the strategy and is responsible for regular updates to the triage issue. When the risks have been addressed bringing the customer to a healthy / green status, the triage issue can be closed.
+The CSM is responsible for coordinating with all relevant parties to develop a plan to address the risks. Typically, this will involve the account team and communication group (above), as well as other resources such as Product Managers, marketing, executive or engineering resources meeting to develop and deliver the plan to address the risks. The CSM then drives execution of the strategy and is responsible for regular updates to the triage issue. When the risks have been addressed bringing the customer to a healthy / green status, the triage issue can be closed.
 
 ### Mitigation Strategies
 
@@ -135,14 +135,14 @@ The TAM is responsible for coordinating with all relevant parties to develop a p
 
 ### Gainsight
 
-#### TAM Sentiment
+#### CSM Sentiment
 
-TAMs update TAM Sentiment in determining overall account health. The guidelines are as follows:
+CSMs update CSM Sentiment in determining overall account health. The guidelines are as follows:
 
-- **TAM Sentiment**: Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. This should consider all the factors mentioned above and measured by the health assessment (green, yellow, red) criteria
-- **TAM Sentiment Override of Overall Health Score**: When the TAM Sentiment score becomes red, the overall score will automatically become red. Once the TAM Sentiment moves back to a green or yellow score, the standard weighting of measures and groups will be reapplied as usual.
+- **CSM Sentiment**: Qualitative measure that the CSM updates to indicate their perceived sentiment of the customer. This should consider all the factors mentioned above and measured by the health assessment (green, yellow, red) criteria
+- **CSM Sentiment Override of Overall Health Score**: When the CSM Sentiment score becomes red, the overall score will automatically become red. Once the CSM Sentiment moves back to a green or yellow score, the standard weighting of measures and groups will be reapplied as usual.
 
-The TAM Sentiment score will be updated each time you [log a Timeline activity](/handbook/customer-success/tam/gainsight/timeline/) and select a value from the TAM Sentiment dropdown. Once you have logged the activity to Timeline, Gainsight will update the value of the TAM Sentiment scorecard measure and display the notes from the Timeline activity on the scorecard. The rule that sets the scorecard value runs every 2 hours.
+The CSM Sentiment score will be updated each time you [log a Timeline activity](/handbook/customer-success/tam/gainsight/timeline/) and select a value from the CSM Sentiment dropdown. Once you have logged the activity to Timeline, Gainsight will update the value of the CSM Sentiment scorecard measure and display the notes from the Timeline activity on the scorecard. The rule that sets the scorecard value runs every 2 hours.
 
 TAM Sentiment health scores become stale after 90 days of not being updated; this will be reflected on your health score dashboard by an exclamation point next to the score. If you notice your account is marked as stale, but you've updated the TAM Sentiment within 90 days, please reach out in [gainsight-users](https://gitlab.slack.com/archives/C011ACG9MJB). Accounts with a stale TAM Sentiment will also be monitored via the TAM Burn-Down Dashboard in Gainsight and discussed in account planning meetings.
 
@@ -152,9 +152,9 @@ There are a number of [enablement videos](/handbook/customer-success/tam/gainsig
 
 Health score criteria is either manually or automatically applied to determine the overall measure. If an individual measure is missing, the weighting is redistributed to the completed measures.
 
-* Except for TAM Sentiment, all health measures will typically be NULL for the first 30 days of the customer's onboarding due to insufficient data and inaccurate results, such as Engagement.
+* Except for CSM Sentiment, all health measures will typically be NULL for the first 30 days of the customer's onboarding due to insufficient data and inaccurate results, such as Engagement.
 * In instances where a measure is N/A, the percentage weighting will be redistributed to the other health measures.
-   * Example 1: If all product usage data is missing, then it's entirely reallocated to the other measures (Engagement, ROI, TAM Sentiment...). Heavier weighter measures, such as TAM Sentiment, would receive a bigger allocation because it's already the largest.
+   * Example 1: If all product usage data is missing, then it's entirely reallocated to the other measures (Engagement, ROI, CSM Sentiment...). Heavier weighter measures, such as CSM Sentiment, would receive a bigger allocation because it's already the largest.
    * Example 2: If we're receiving Product Usage Data but Continuous Delivery (CD) is NULL, that will be reallocated among Product Usage Data measures. So CI health would go from, say, 5% to 7%.
 
 | Group (PROVE)             | Measure                                                      | Description                                                  | Method           | Calculation                                                  | Measure Weight | Group Weighting |
@@ -165,13 +165,13 @@ Health score criteria is either manually or automatically applied to determine t
 |                           | CI Adoption                                                  |                                                              |                  |                                                              | 15%            |                 |
 |                           | DevSecOps Adoption                                           |                                                              |                  |                                                              | 15%            |                 |
 |                           | CD Adoption                                                  |                                                              |                  |                                                              | 15%            |                 |
-| **Risk**                  | [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For all `TAM-owned` accounts:<br> TAM manually determines red/yellow/green | 100%           | 50%             |
-| **Outcomes**              | ROI                                                          | Does the customer have a Success Plan that has objectives and notes? | Automatic        | For All `TAM Prioritization = 1` accounts AND all TAM-owned accounts that have an open Success Plan:<br> - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with 1+ objectives and no Strategy/Highlight information <br>- Red: No Success Plan or no objectives | 100%           | 10%             |
+| **Risk**                  | [CSM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the CSM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For all `CSM-owned` accounts:<br> CSM manually determines red/yellow/green | 100%           | 50%             |
+| **Outcomes**              | ROI                                                          | Does the customer have a Success Plan that has objectives and notes? | Automatic        | For All `CSM Prioritization = 1` accounts AND all CSM-owned accounts that have an open Success Plan:<br> - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with 1+ objectives and no Strategy/Highlight information <br>- Red: No Success Plan or no objectives | 100%           | 10%             |
 | **Voice of the Customer** |                                                              |                                                              |                  |                                                              |                | 5%              |
 |                           | Support Issues                                               | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic        | - Green: 1-5 tickets/month <br>- Yellow: 5-15 tickets/month <br>- Red: \>15 tickets/month | 100%           |                 |
 |                           | Support Emergency Tickets                                    | Based on the number of open/closed Priority:Urgent tickets   | Automatic        | - Yellow: 1+ closed Emergency ticket in the last 7 days<br> - Red: 1+ open Emergency ticket | 0%             |                 |
 | **Engagement**            |                                                              |                                                              |                  |                                                              |                | 10%             |
-|                           | Meeting Cadence                                              | Based on recency of last call/meeting with the customer      | Automatic        | For `TAM Prioritization = 1` accounts:<br> - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days <br><br>For `TAM Prioritization = 2` accounts:<br> - Green: <= 65 days <br>- Yellow: > 65 days and <= 90 days <br>- Red: > 90 days | 50%            |                 |
+|                           | Meeting Cadence                                              | Based on recency of last call/meeting with the customer      | Automatic        | For `CSM Prioritization = 1` accounts:<br> - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days <br><br>For `CSM Prioritization = 2` accounts:<br> - Green: <= 65 days <br>- Yellow: > 65 days and <= 90 days <br>- Red: > 90 days | 50%            |                 |
 |                           | [Persona Engagement](https://about.gitlab.com/handbook/customer-success/tam/engagement/#customer-personas) | Are we meeting with the correct personas in the Account?     | Automatic        | Persona Engagement is based on the roles of External Attendees added on timeline entries. - Green: both Dev Lead and Security Lead are listed as external attendees on a timeline entry in the past three months <br> - Yellow: one of the two personas attend <br> Red: neither personas are listed as having attended a meeting | 50%            |                 |
 
 
@@ -196,7 +196,7 @@ For process overview and steps, see [At Risk Process](https://about.gitlab.com/h
 
 ### GitLab Account Triage Project
 
-An account risk issue should be created in the [Account Triage Project](https://gitlab.com/gitlab-com/customer-success/account-triage) if the customer health assessment is either yellow or red. These are also viewable in the [TAM Risk Account Issue Board.](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
+An account risk issue should be created in the [Account Triage Project](https://gitlab.com/gitlab-com/customer-success/account-triage) if the customer health assessment is either yellow or red. These are also viewable in the [CSM Risk Account Issue Board.](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
 
 #### Update Frequency
 
@@ -227,7 +227,7 @@ When creating triage issues, it's important to apply the correct labels to the i
 - `~US-EAST`
 - `~EMEA`
 - `~APAC`
-- `~LATAM`
+- `~LACSM`
 - `~Commercial`
 
 ##### Issue Classification Labels
@@ -252,13 +252,13 @@ When creating triage issues, it's important to apply the correct labels to the i
 ##### DevOps Stage Label
 
 If the account is labeled with a Customer Success Risk Reason of "product experience",
-TAMs are encouraged to add a DevOps stage label (i.e. `~devops::*`)
+CSMs are encouraged to add a DevOps stage label (i.e. `~devops::*`)
 to the triage issue, and clearly identify any related issues that are blocking adoption or required
 to improve the customer's product experience within the triage issue.
 
 Identify the Product DRI by from our [product categories](https://about.gitlab.com/handbook/product/categories/#devops-stages)
 page and ping them in the issue.
-As the TAM responsible for the at-risk account, you are accountable for coordinating all resources.
+As the CSM responsible for the at-risk account, you are accountable for coordinating all resources.
 Engage early and often with product and any other groups required to advocate for your customer's desired outcomes.
 
 Because `devops::` labels are scoped; please choose the highest-impact stage label and apply it.

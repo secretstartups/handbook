@@ -12,7 +12,7 @@ description: "An overview of the key components in Customer 360."
 
 *For an overview of Gainsight, and information about how to login, please refer to the [Gainsight Overview Page](/handbook/sales/gainsight/).*
 
-For an overview of how TAMs use Gainsight, please refer to the [Gainsight TAM Overview Page](/handbook/customer-success/tam/gainsight)
+For an overview of how CSMs use Gainsight, please refer to the [Gainsight CSM Overview Page](/handbook/customer-success/tam/gainsight)
 
 ## Customer 360
 
@@ -44,11 +44,11 @@ The left side panel of the 360 contains the following sections:
 
 If you'd like, you can toggle the "Scrolling" button at the top of any 360 page to enable scrolling through all of the sections, rather than having to click into them.
 
-Note at the top of the 360 page, there is a button for [Timeline](/handbook/customer-success/tam/gainsight/timeline/), which shows all logged activities for that specific customer. Gainsight has a number of options for logging a TAM's interactions with a customer. These are useful to build a historical record of what the customer has done with us, and the initiatives we've worked on.
+Note at the top of the 360 page, there is a button for [Timeline](/handbook/customer-success/tam/gainsight/timeline/), which shows all logged activities for that specific customer. Gainsight has a number of options for logging a CSM's interactions with a customer. These are useful to build a historical record of what the customer has done with us, and the initiatives we've worked on.
 
 #### Following accounts
 
-On each account's 360, there is a "Follow" button next to the account name. If you are assigned as a TAM to an account, there is no need to follow the account, as you will automatically receive all notifications for that account. If you are not the TAM assigned to an account, you can follow the account to receive the same notifications the TAM assigned does.
+On each account's 360, there is a "Follow" button next to the account name. If you are assigned as a CSM to an account, there is no need to follow the account, as you will automatically receive all notifications for that account. If you are not the CSM assigned to an account, you can follow the account to receive the same notifications the CSM assigned does.
 
 #### Referenceable customers
 

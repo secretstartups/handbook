@@ -10,11 +10,11 @@ title: "Developer/Productivity Metrics"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 - - -
 
-As a TAM we want to help the customer achieve the business objectives that are important to them. In order to do that, we have to determine…
+As a CSM we want to help the customer achieve the business objectives that are important to them. In order to do that, we have to determine…
 * What are those objectives?
 * How do you measure them today (if at all)?
 * How can GitLab help you measure them?

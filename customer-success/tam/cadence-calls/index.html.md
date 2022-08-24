@@ -8,22 +8,22 @@ title: Cadence Calls
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 - - -
 
 ## Overview
 
-One of the primary tools TAMs have to become a trusted advisor and assess and improve account [health](/handbook/customer-success/tam/health-score-triage/) is the customer cadence call. This is an opportunity for the TAM and the customer team to sync on business outcomes, priorities, progress on initiatives, and concerns, and it is a great opportunity to bring in other GitLab team members that the TAM feels should be included (for example, [Product](/handbook/customer-success/tam/product/) to review feature requests and the roadmap).
+One of the primary tools CSMs have to become a trusted advisor and assess and improve account [health](/handbook/customer-success/tam/health-score-triage/) is the customer cadence call. This is an opportunity for the CSM and the customer team to sync on business outcomes, priorities, progress on initiatives, and concerns, and it is a great opportunity to bring in other GitLab team members that the CSM feels should be included (for example, [Product](/handbook/customer-success/tam/product/) to review feature requests and the roadmap).
 
-Cadence calls are an important aspect of TAM engagement to continue to understand customer's evolving needs, ensure GitLab is delivering value and outcomes, unblock barriers, address issues, collect feedback, nurture relationships, and ensure the customer continues to have positive experiences.
+Cadence calls are an important aspect of CSM engagement to continue to understand customer's evolving needs, ensure GitLab is delivering value and outcomes, unblock barriers, address issues, collect feedback, nurture relationships, and ensure the customer continues to have positive experiences.
 
 ## Frequency
 
 - **Strategic Enterprise**: Cadence calls should be weekly during onboarding and at least once per month otherwise, considering specific customer needs and stage in customer lifecycle.
 - **Strategic Commercial**: Cadence calls should be weekly during onboarding and at least once per quarter otherwise, considering specific customer needs and stage in customer lifecycle.
 - **Growth**: Cadence calls should be weekly during onboarding (first month of purchase) and at least once per quarter otherwise. Frequency of cadence calls may vary due to [prioritization](/handbook/customer-success/tam/engagement/#growth-accounts) or customer needs.
-- **Scale**: Cadence calls are not scheduled on an ongoing basis for Scale TAM customers. Calls with customers are offered programmatically based on the key points defined in the [Scale TAM customer lifecycle](/handbook/customer-success/tam/segment/scale/#customer-lifecycle).
+- **Scale**: Cadence calls are not scheduled on an ongoing basis for Scale CSE customers. Calls with customers are offered programmatically based on the key points defined in the [Scale CSE customer lifecycle](/handbook/customer-success/tam/segment/scale/#customer-lifecycle).
 
 Cadence calls should be [captured in Gainsight](/handbook/customer-success/tam/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
 
@@ -33,7 +33,7 @@ An effective cadence call involves more than just the call itself. There are sev
 
 ### Preparation for the call
 
-Leading up to a cadence call, the TAM should prepare a meeting agenda. This is the foundation of an effective call, and should be collaborated on by all attendees. The agenda should be made available to everyone at least a few days in advance of the call.
+Leading up to a cadence call, the CSM should prepare a meeting agenda. This is the foundation of an effective call, and should be collaborated on by all attendees. The agenda should be made available to everyone at least a few days in advance of the call.
 
 #### Recommended details to include in the agenda include:
 
@@ -43,15 +43,15 @@ Leading up to a cadence call, the TAM should prepare a meeting agenda. This is t
   - Leave room for the customer to bring up unplanned topics or questions
 - Recap & Next Steps 
 
-The collaboration project template includes a [meeting agenda issue template](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/.gitlab/issue_templates/Meeting%20Agenda.md) that is structured to follow this format. (Note: Scale TAM customers do not receive/use a collaboration project)
+The collaboration project template includes a [meeting agenda issue template](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/.gitlab/issue_templates/Meeting%20Agenda.md) that is structured to follow this format. (Note: Scale CSM customers do not receive/use a collaboration project)
 
-The topics and the naming of the cadence call (when you send an invite to the customer) are also an important part of the TAM engagement. The following names for the cadence call have been used with success and are recommended - ordered by popularity:
+The topics and the naming of the cadence call (when you send an invite to the customer) are also an important part of the CSM engagement. The following names for the cadence call have been used with success and are recommended - ordered by popularity:
 
-- "Gitlab / <CUSTOMER_NAME> TAM Call" 
+- "Gitlab / <CUSTOMER_NAME> CSM Call" 
 - "Gitlab - Bi-weekly Collaboration" (Adopt, depending on the frequency)
-- "GitLab - TAM Call"
+- "GitLab - CSM Call"
 
-By developing an agenda and doing advance preparation for the meeting, the TAM (and the rest of the [account team](/handbook/customer-success/account-team/)) will be ready with relevant questions and information for the customer.
+By developing an agenda and doing advance preparation for the meeting, the CSM (and the rest of the [account team](/handbook/customer-success/account-team/)) will be ready with relevant questions and information for the customer.
 
 #### Tasklist for the first cadence call
 
@@ -94,21 +94,21 @@ Additionally, there may be specific items that are worthwhile to discuss about t
 
 ### Conducting the call
 
-If the TAM has sufficiently prepared, the call itself should be a comfortable and valuable experience for everyone involved. The TAM should be prepared to conduct the meeting according to the agenda and cover all of the listed discussion points. This is our chance to help the customer make forward progress on their objectives by sharing our expertise and answering their questions!
+If the CSM has sufficiently prepared, the call itself should be a comfortable and valuable experience for everyone involved. The CSM should be prepared to conduct the meeting according to the agenda and cover all of the listed discussion points. This is our chance to help the customer make forward progress on their objectives by sharing our expertise and answering their questions!
 
-The TAM should drive the call proactively so the customer sees a value in it and comes away feeling they have gotten something out of it. Try to ask questions to get into discussions and let the customer talk most of the time. When putting together the call agenda, ensure that you are covering topics that help you with your customer strategy, but also ask yourself "if I were the customer, would I find this relevant?"
+The CSM should drive the call proactively so the customer sees a value in it and comes away feeling they have gotten something out of it. Try to ask questions to get into discussions and let the customer talk most of the time. When putting together the call agenda, ensure that you are covering topics that help you with your customer strategy, but also ask yourself "if I were the customer, would I find this relevant?"
 
 In addition to the [GitLab external communication guidelines](/handbook/communication/#external-communication), here are a few tips for having a strong cadence call:
 
-- **Be engaged.** [It's acceptable at GitLab to multitask or divert your attention during meetings](/handbook/communication/#paying-attention-in-meetings), but during a cadence call this isn't a good idea. The TAM is leading this call, and it's important to follow what is being discussed and keep the conversation moving to make the most of the alloted time. The TAM should be guiding the discussion, and [taking notes](#cadence-call-notes) (or have already asked another member of the [account team](/handbook/customer-success/account-team/) to take notes).
+- **Be engaged.** [It's acceptable at GitLab to multitask or divert your attention during meetings](/handbook/communication/#paying-attention-in-meetings), but during a cadence call this isn't a good idea. The CSM is leading this call, and it's important to follow what is being discussed and keep the conversation moving to make the most of the alloted time. The CSM should be guiding the discussion, and [taking notes](#cadence-call-notes) (or have already asked another member of the [account team](/handbook/customer-success/account-team/) to take notes).
 - **Be flexible.** Having an agenda is crucial to a well-run cadence call, but it's equally important to be ready to go off-script. If the customer has something urgent that they need to discuss, or the conversation goes on a tangent that may yield good information, don't try to force it back to the prepared agenda. Address the customer concerns, embrace new information with relevant questions, and anything on the agenda that isn't critical can be delayed until the next cadence call. This relates to [being "audible-ready"](/handbook/sales/command-of-the-message/#overview) in customer conversations.
-- **Be responsive.** No matter how much the TAM and [account team](/handbook/customer-success/account-team/) prepare for the call, the customer can still throw a curveball. If they ask for information nobody on the call knows, be honest and acknowledge that, but make a plan to get that information and [follow up](#after-the-call). If you think you can answer the question, make an effort but still assure the customer you will verify what the best answer is. Do your best in the moment, and [follow up on everything else in a timely manner](#after-the-call).
+- **Be responsive.** No matter how much the CSM and [account team](/handbook/customer-success/account-team/) prepare for the call, the customer can still throw a curveball. If they ask for information nobody on the call knows, be honest and acknowledge that, but make a plan to get that information and [follow up](#after-the-call). If you think you can answer the question, make an effort but still assure the customer you will verify what the best answer is. Do your best in the moment, and [follow up on everything else in a timely manner](#after-the-call).
 
 Before you end the call, take a few minutes to summarize the highlights of what was discussed, and review the action items and who is responsible for each of them. It's also worth reminding everyone of when the _next_ cadence call is.
 
 ### After the call
 
-**If there are no action items or follow-ups that come from a cadence call, the call was not effective.** At minimum, the TAM should send a follow-up email or create a follow-up issue for the participants covering the summary information that was discussed at the end of the call, answer any questions that were posed during the call, and make sure everyone knows what the action items from the call were.
+**If there are no action items or follow-ups that come from a cadence call, the call was not effective.** At minimum, the CSM should send a follow-up email or create a follow-up issue for the participants covering the summary information that was discussed at the end of the call, answer any questions that were posed during the call, and make sure everyone knows what the action items from the call were.
 
 #### Review and update account details
 
@@ -147,12 +147,12 @@ The rationale for saving call notes in this manner is as follows:
 - Call notes frequently contain sensitive information and are for the internal sales team and management to review and should be kept in a place everyone who might need access can find them.
 - A folder structure allows non-Customer Success executives and support staff to easily locate the notes in the case of an escalation.
 - Call notes are tightly linked to the [health score](/handbook/customer-success/tam/health-score-triage/) and should be available for reference in the same location as the health scorecard in Gainsight.
-- Access to Gainsight is limited to TAMs, so other members of the Sales and Customer Success organizations will look for notes in Google Drive.
+- Access to Gainsight is limited to CSMs, so other members of the Sales and Customer Success organizations will look for notes in Google Drive.
 - If a team member who created the Google Doc leaves GitLab, the notes will remain accessible to everyone, as they live in the shared Google Drive folder.
 
-When TAMs are logging calls in Gainsight [Timeline](/handbook/customer-success/tam/gainsight/timeline/), they need to copy & paste the link to the Google Doc. They should either write a simple summary of the meeting along with the link, or have the link be a direct deep link to the date the call happened, so as to not duplicate efforts.
+When CSMs are logging calls in Gainsight [Timeline](/handbook/customer-success/tam/gainsight/timeline/), they need to copy & paste the link to the Google Doc. They should either write a simple summary of the meeting along with the link, or have the link be a direct deep link to the date the call happened, so as to not duplicate efforts.
 
-At the end of each customer call any changes to customer health should be reflected in the customer's Gainsight account. You have a few ways to update the TAM Sentiment and Product Sentiment for an account's health score, described in [Determining TAM Sentiment and Product Risk](/handbook/customer-success/tam/health-score-triage/#determining-tam-sentiment-and-product-risk), the easiest of which is updating it directly when logging the call.
+At the end of each customer call any changes to customer health should be reflected in the customer's Gainsight account. You have a few ways to update the CSM Sentiment and Product Sentiment for an account's health score, described in [Determining CSM Sentiment and Product Risk](/handbook/customer-success/tam/health-score-triage/#determining-CSM-sentiment-and-product-risk), the easiest of which is updating it directly when logging the call.
 
 ### Best Practices for Note-Taking
 
@@ -187,7 +187,7 @@ These are suggestions that can be used at any time on customer calls.
 - Questions about how they are leveraging other tools or integrations
 - Updates on [customer requested features](/handbook/customer-success/tam/issue-prioritization/#cadence-calls)
 - Discuss if their users have any feedback, pain points, or blockers
-- Ask if there is anything the TAM can assist on towards resolution (feature requests, support tickets, etc.)
+- Ask if there is anything the CSM can assist on towards resolution (feature requests, support tickets, etc.)
 - Ask about any gaps in or outdated information in Gainsight (watch an [8 minute video](https://youtu.be/yk95b6u26So) for recommendations!)
 - If self-managed, review their current version, planned upgrades, and if they need [Upgrade Assistance](/support/scheduling-upgrade-assistance.html#how-do-i-schedule-upgrade-assistance)
 - If self-managed, review if there are any planned, upcoming, or ongoing deployment changes (e.g. Geo, HA, etc.) and ensure they are familiar with support
@@ -197,4 +197,4 @@ These are suggestions that can be used at any time on customer calls.
 
 ### Ephemeral Suggestions
 
-For more timely discussion topics, please refer to the [TAM Hot Sheet](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/TAM-Hot-Sheet) (GitLab internal link).
+For more timely discussion topics, please refer to the [CSM Hot Sheet](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/CSM-Hot-Sheet) (GitLab internal link).

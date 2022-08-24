@@ -9,24 +9,24 @@ title: "Customer Renewal Tracking"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 Link to [Commercial Renewal Process](/handbook/customer-success/comm-sales/renewals/)
 
 ## Overview
 
-A key part of the customer relationship lifecycle is the renewal phase. TAMs must proactively track the renewal dates of their customers and align with their Strategic Account Manager (SAL) or Account Executive (AE) to ensure that a customer renewal takes place.
+A key part of the customer relationship lifecycle is the renewal phase. CSMs must proactively track the renewal dates of their customers and align with their Strategic Account Manager (SAL) or Account Executive (AE) to ensure that a customer renewal takes place.
 
 ## Timeframe
 
-Six months before the renewal date for a customer, a CTA will trigger in Gainsight to prompt the TAM to reach out to their aligned account team to discuss strategy and next steps for the renewal. The expectation is that the team will meet internally and speak with the customer regarding the renewal within 60 days. This leaves four months to execute any renewal strategy, such as an account triage.
+Six months before the renewal date for a customer, a CTA will trigger in Gainsight to prompt the CSM to reach out to their aligned account team to discuss strategy and next steps for the renewal. The expectation is that the team will meet internally and speak with the customer regarding the renewal within 60 days. This leaves four months to execute any renewal strategy, such as an account triage.
 
 ## Renewal Playbook Steps
 
 1. Renewal Review: Internal sync with SAL/AE and potentially SA as defined below
 1. Renewal Question
 1. Renewal Plan
-1. Update `TAM Sentiment`
+1. Update `CSM Sentiment`
 
 Once the above tasks are complete, the playbook and CTA can be closed out as all actionable items have been performed.
 
@@ -35,7 +35,7 @@ Once the above tasks are complete, the playbook and CTA can be closed out as all
 A “Renewal Review” meeting should have the following attendees:
 
 - Strategic Account Leader
-- Technical Account Manager
+- Customer Success Manager
 - Solutions Architect (if an upsell is being discussed)
 
 
@@ -58,11 +58,11 @@ From this meeting a set of action items should be created to improve customer ut
 
 ## Renewal Question
 
-The TAM will ask the initial renewal question, this should be a ['soft'](https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/7214-soft-fact-questions.html) question to see if there is any risk in the account and to provide time to mitigate any risk.
+The CSM will ask the initial renewal question, this should be a ['soft'](https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/7214-soft-fact-questions.html) question to see if there is any risk in the account and to provide time to mitigate any risk.
 
 ## Renewal Plan
 
-The action items created from the “Renewal Review” meeting should be incorporated into the TAM customer cadence meetings and into any pending QBRs. The actual renewal plan will be documented by the SAL or AE in Salesforce.
+The action items created from the “Renewal Review” meeting should be incorporated into the CSM customer cadence meetings and into any pending QBRs. The actual renewal plan will be documented by the SAL or AE in Salesforce.
 
 ## Tracking Account Health and Risks
 
@@ -74,27 +74,27 @@ See the [At Risk Customers Dashboard](https://gitlab.gainsightcloud.com/v1/ui/gs
 
 ### At-Risk Process
 
-TAMs can use Red, Yellow, and Green to reflect their sentiment of a customer's contraction or churn risk. Below is a brief explanation about how to think about colors in the At-Risk process. Links provide more detailed information.
+CSMs can use Red, Yellow, and Green to reflect their sentiment of a customer's contraction or churn risk. Below is a brief explanation about how to think about colors in the At-Risk process. Links provide more detailed information.
 
 - [Green](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#green) - Healthy customer, no risk of contraction or churn. No risk follow-up required.
 - [Yellow](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#yellow) - Some low risk, or some admin hygiene needed. No risk follow-up required.
-- Yellow with Requires Triage - Higher level of risk, including product risk. Indicates that TAM has started corrective actions on an account and follow - up from team members outside of the TAM group is needed, but it is not red yet.
+- Yellow with Requires Triage - Higher level of risk, including product risk. Indicates that CSM has started corrective actions on an account and follow - up from team members outside of the CSM group is needed, but it is not red yet.
 - [Red](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#red) - High risk of contraction or churn. Indicates that At-Risk Process is required.
 
 
-![GitLab At-Risk Customer Process](images/TAM_AtRisk_Customer_Process.jpeg)
+![GitLab At-Risk Customer Process](images/CSM_AtRisk_Customer_Process.jpeg)
 
-#### When a TAM has determined an account is red:
+#### When a CSM has determined an account is red:
 
-1. **Log Timeline: Risk Update**: log `Risk Update` Timeline post marking TAM Sentiment as Red and any context for the at-risk account
+1. **Log Timeline: Risk Update**: log `Risk Update` Timeline post marking CSM Sentiment as Red and any context for the at-risk account
 1. **Create CTA**:
-   1. Immediate: TAM will create an `At-Risk` CTA to track the high level risks, OR
-   1. Overnight: Gainsight will auto create the `At-Risk` CTA overnight for the TAM
-1. **Update CTA**: TAM to update Risk Type and Risk Reason dropdown fields
-1. **Monthly Timeline Update: Risk Update**: TAM logs a `Risk Update` Timeline post. Update CTA as necessary
+   1. Immediate: CSM will create an `At-Risk` CTA to track the high level risks, OR
+   1. Overnight: Gainsight will auto create the `At-Risk` CTA overnight for the CSM
+1. **Update CTA**: CSM to update Risk Type and Risk Reason dropdown fields
+1. **Monthly Timeline Update: Risk Update**: CSM logs a `Risk Update` Timeline post. Update CTA as necessary
 1. **At-Risk Conclusion**:
    1. Customer is won back:
-      1. Log Timeline `Risk Update` type for TAM Sentiment as Green and final notes
+      1. Log Timeline `Risk Update` type for CSM Sentiment as Green and final notes
       1. Change customer Lifecycle Stage to Adopting
       1. Close out CTA with success criteria (Closed-Won, win reasons)
    1. Customer is lost:
@@ -105,17 +105,17 @@ TAMs can use Red, Yellow, and Green to reflect their sentiment of a customer's c
 This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
 
 
-#### When a TAM has determined an account is yellow and requires triage:
+#### When a CSM has determined an account is yellow and requires triage:
 
-1. **Log Timeline: Risk Update**: log `Risk Update` Timeline post marking TAM Sentiment as Yellow and any context for the at-risk account, and checks the `Requires Triage` box. 
+1. **Log Timeline: Risk Update**: log `Risk Update` Timeline post marking CSM Sentiment as Yellow and any context for the at-risk account, and checks the `Requires Triage` box. 
 1. **Create CTA**:
-   1. Immediate: TAM will create an `At-Risk` CTA to track the high level risks, OR
-   1. Overnight: Gainsight will auto create the `At-Risk` CTA overnight for the TAM
-1. **Update CTA**: TAM to update Risk Type and Risk Reason dropdown fields
-1. **Monthly Timeline Update: Risk Update**: TAM logs a `Risk Update` Timeline post. Update CTA as necessary
+   1. Immediate: CSM will create an `At-Risk` CTA to track the high level risks, OR
+   1. Overnight: Gainsight will auto create the `At-Risk` CTA overnight for the CSM
+1. **Update CTA**: CSM to update Risk Type and Risk Reason dropdown fields
+1. **Monthly Timeline Update: Risk Update**: CSM logs a `Risk Update` Timeline post. Update CTA as necessary
 1. **At-Risk Conclusion**:
    1. Customer is won back:
-      1. Log Timeline `Risk Update` type for TAM Sentiment as Green and final notes
+      1. Log Timeline `Risk Update` type for CSM Sentiment as Green and final notes
       1. Change customer Lifecycle Stage to Adopting
       1. Close out CTA with success criteria (Closed-Won, win reasons)
    1. Customer is lost:
@@ -129,7 +129,7 @@ This can then be discussed with the [Account Team](/handbook/customer-success/ac
 
 ##### Account Health
 
-When a TAM considers an account at-risk of contraction or churn, they should set the Account's `TAM Sentiment` to **red**. From there, the TAM can create an at-risk CTA on the account, or Gainsight will auto-create it during the nightly sync (within 24 hours). 
+When a CSM considers an account at-risk of contraction or churn, they should set the Account's `CSM Sentiment` to **red**. From there, the CSM can create an at-risk CTA on the account, or Gainsight will auto-create it during the nightly sync (within 24 hours). 
 
 ##### Risk Type
 * **Customer Churn** - fully churn the account

@@ -3,6 +3,6 @@ layout: handbook-page-toc
 title: "Customer Segments & Associated Metrics"
 ---
 
-TAM customer segment information has moved to a new location within the TAM handbook.
+CSM customer segment information has moved to a new location within the CSM handbook.
 
-➡️ [**TAM Segments**](../segment/)
+➡️ [**CSM Segments**](../segment/)

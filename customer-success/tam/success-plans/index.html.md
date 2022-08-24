@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Success Plans"
-description: "A success plan is a roadmap that connects a customer's desired business outcomes to GitLab solutions. It is a living document, developed by the TAM."
+description: "A success plan is a roadmap that connects a customer's desired business outcomes to GitLab solutions. It is a living document, developed by the CSM."
 ---
 
 ## On this page
@@ -10,13 +10,13 @@ description: "A success plan is a roadmap that connects a customer's desired bus
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 ----
 
 ## Overview
 
-A success plan is a roadmap that connects a customer's desired business outcomes to GitLab solutions. It is a living document, developed by the TAM.  The input for a success plan comes in the first instance from the value-based conversations with the customer in the presales process and documented in the [command plan](/handbook/sales/command-of-the-message/command-plan/), focusing on articulated business needs and including metrics where available. The success plan echoes these goals and further articulates metrics, and creates a roadmap for implementation via milestones.  It is the strategic vision for the customer to realize success and value with GitLab.
+A success plan is a roadmap that connects a customer's desired business outcomes to GitLab solutions. It is a living document, developed by the CSM.  The input for a success plan comes in the first instance from the value-based conversations with the customer in the presales process and documented in the [command plan](/handbook/sales/command-of-the-message/command-plan/), focusing on articulated business needs and including metrics where available. The success plan echoes these goals and further articulates metrics, and creates a roadmap for implementation via milestones.  It is the strategic vision for the customer to realize success and value with GitLab.
 
 These are some of the reasons we use a success plan:
 
@@ -25,11 +25,11 @@ These are some of the reasons we use a success plan:
 - Define key activity (e.g., change management, training) milestones and timeframes for a successful adoption journey
 - Develop shared understanding and commitment to the plan between GitLab and customer stakeholders
 - Serve as baseline to [track delivery of outcomes and adoption](/handbook/customer-success/tam/stage-adoption/)
-- Provide a foundation for the [TAM cadence call](/handbook/customer-success/tam/cadence-calls/) to give relevance to each touchpoint, and lead outcomes-based discussions such as the [Executive Business Reviews](/handbook/customer-success/tam/ebr/)
+- Provide a foundation for the [CSM cadence call](/handbook/customer-success/tam/cadence-calls/) to give relevance to each touchpoint, and lead outcomes-based discussions such as the [Executive Business Reviews](/handbook/customer-success/tam/ebr/)
 
 Success plans are another facet of [account engagement](/handbook/customer-success/tam/engagement/) and are separate from collaboration projects. The success plan is meant for articulating and tracking high-level strategic business objectives, while collaboration projects are best used for technical and tactical initiatives and to act as the primary communication method besides cadence calls on a [day-to-day basis](/handbook/customer-success/tam/gainsight/#gainsight-workflow) on issues to solve.
 
-As you read through this page, you'll likely notice that the success plan is continually described as a [living document](/#success-plans-are-living-documents); this is intentional! A success plan is **not** a "set it and forget it" exercise. It should be something that the TAM maintains on an ongoing basis and [iterates](/handbook/values/#iteration) on as they learn new information.
+As you read through this page, you'll likely notice that the success plan is continually described as a [living document](/#success-plans-are-living-documents); this is intentional! A success plan is **not** a "set it and forget it" exercise. It should be something that the CSM maintains on an ongoing basis and [iterates](/handbook/values/#iteration) on as they learn new information.
 
 ### Success Plan Training Certification 
 Follow this link for the Success Plan certification on EdCast: [Click here](https://gitlab.edcast.com/pathways/ECL-47775d76-4bc6-4fe8-bdde-07f6ffc56578)
@@ -68,17 +68,17 @@ A customer’s business and strategies will change, so the value that they need 
 
 It's also helpful to identify key times when you interact with a customer that would be good opportunities to review and refresh the success plan. This would ideally be when a discussion of business goals feels appropriate and the right stakeholders are at the table, for example: key handoffs between teams, [EBRs](/handbook/customer-success/tam/ebr/), or executive check-ins.
 
-It's recommended for TAMs to use [EBRs](/handbook/customer-success/tam/ebr/) and/or other recurring meetings such as [cadence calls](/handbook/customer-success/tam/cadence-calls/)) to review steps achieved thus far and set next steps or new objectives as needed. After these meetings, it's important to log an "Activity" in the relevant objective to record how the customer is trending towards their goals. Before closing an objective, get confirmation from a customer (ideally in writing) that it has been achieved and include that in the activity log.
+It's recommended for CSMs to use [EBRs](/handbook/customer-success/tam/ebr/) and/or other recurring meetings such as [cadence calls](/handbook/customer-success/tam/cadence-calls/)) to review steps achieved thus far and set next steps or new objectives as needed. After these meetings, it's important to log an "Activity" in the relevant objective to record how the customer is trending towards their goals. Before closing an objective, get confirmation from a customer (ideally in writing) that it has been achieved and include that in the activity log.
 
-To keep track that the success plan is up to date, use the custom date field on the Objective in the success plan, “Last Validated”. The TAM will update it when they get confirmation from the customer that it is still a business priority for them.
+To keep track that the success plan is up to date, use the custom date field on the Objective in the success plan, “Last Validated”. The CSM will update it when they get confirmation from the customer that it is still a business priority for them.
 
-Internally, TAMs can use the data to track their own trends and objectives achieved over time (e.g. quarter over quarter reports) and use the progress of the success plan to measure the [ROI health scorecard](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
+Internally, CSMs can use the data to track their own trends and objectives achieved over time (e.g. quarter over quarter reports) and use the progress of the success plan to measure the [ROI health scorecard](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
 
 ## Create a Success Plan in Gainsight
 
 [Gainsight](/handbook/customer-success/tam/gainsight/) is the platform we use to develop and manage success plans. Below are the steps to create a success plan, followed by best practices and recommendations to apply these steps in practice.
 
-When a TAM is assigned to an account, an active ROI Success Plan will be automatically created with a due date 365 days from the day it is created. To create an additional success plan in Gainsight, perform the following steps:
+When a CSM is assigned to an account, an active ROI Success Plan will be automatically created with a due date 365 days from the day it is created. To create an additional success plan in Gainsight, perform the following steps:
 
 1. From the Gainsight NXT home page, navigate to the customer's page
 1. From the menu on the left-hand side of the screen, choose "Success Plan"
@@ -141,7 +141,7 @@ To share a ROI Success Plan, click the link icon next to the success plan due da
 
 #### Account Plan 
 
-The [account plan](https://about.gitlab.com/handbook/sales/account-planning/) is owned by the SAL or AE on an account, with the TAM and SA as contributors.  The account plan focuses on the account team's strategy to win, retain, and expand the partnership and business relationship with key customers
+The [account plan](https://about.gitlab.com/handbook/sales/account-planning/) is owned by the SAL or AE on an account, with the CSM and SA as contributors.  The account plan focuses on the account team's strategy to win, retain, and expand the partnership and business relationship with key customers
 
 ## Components of a Success Plan
 
@@ -167,7 +167,7 @@ The purpose of these fields is to provide additional, helpful information as you
 [CP] fields are all from the Command Plan associated with the most recent Closed - Won New Business. Use these fields to track if the customer is adopting GitLab for their intended purpose. Refer to [Command Plan handbook page](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) for details on field definitions.
 
 - Collaboration Project URL
-- Account Team - SA, TAM, Account Owner
+- Account Team - SA, CSM, Account Owner
 - [CP] Primary Value Driver
 - [CP] Primary Use Cases
 - [CP] Why GitLab?

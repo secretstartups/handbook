@@ -23,16 +23,15 @@ An Enterprise account team is comprised of the following people:
 
 - [Strategic Account Leader (SAL)](/job-families/sales/strategic-account-leader/)
 - [Solutions Architect (SA)](/job-families/sales/solutions-architect/)
-- [Technical Account Manager (TAM)](/job-families/sales/technical-account-manager/) for [qualifying accounts](/handbook/customer-success/tam/services/#tam-alignment)
+- [Customer Success Manager (CSM)](/job-families/sales/technical-account-manager/) for [qualifying accounts](/handbook/customer-success/tam/services/#tam-alignment)
 
-This is commonly referred to as the "SAL-SA-TAM" team (sometimes also written as "SALSATAM").
 
 ### Commercial/Mid-Market
 
 A Mid-Market account team is comprised of the following people:
 
 - [Account Executive (AE)](/job-families/sales/account-executive/)
-- [Technical Account Manager (TAM)](/job-families/sales/technical-account-manager/) for [qualifying accounts](/handbook/customer-success/tam/services/#tam-alignment)
+- [Customer Success Manager (CSM)](/job-families/sales/technical-account-manager/) for [qualifying accounts](/handbook/customer-success/tam/services/#tam-alignment)
 
 In Mid-Market, Solutions Architects are pooled so they are not aligned with specific account teams.
 
@@ -46,10 +45,10 @@ In Mid-Market, Solutions Architects are pooled so they are not aligned with spec
 - Should lead discovery calls to find out where and why the prospect is having issues in the SDLC
 - Runs POVs and scopes out SOWs
 - The technical advisor to the SAL for prospects and upgrades
-- Handle all pre-sale technical activities to be handed off to the TAM after the technical win stage
+- Handle all pre-sale technical activities to be handed off to the CSM after the technical win stage
 - Owns the technical side for responding to RFP/RFIs
 
-### Technical Account Manager (TAM)
+### Customer Success Manager (CSM)
 - Trusted strategic and technical advisor to the customer
 - Should handle all things post-sales for the customer (onboarding, stage adoption, EBRs, lunch and learns, etc.)
 - Leads regular cadence calls and keeps the customer collaboration projects up-to-date
@@ -64,17 +63,17 @@ The account team should meet in order to drive strategic growth towards accounts
 - Onboarding of new customers requiring additional attention
 - Triage if they have a [health score other than Green](/handbook/customer-success/tam/health-score-triage/#health-assessment-guidelines)
 
-As a recommendation to [make the most efficient use of everyone’s time](/handbook/values/#be-respectful-of-others-time), these calls should not happen more than once a week, unless there is a specific and urgent need. There is no requirement to have recurring account team calls, but different regions and segments may approach account team alignments and engagement differently. For clarity on specific regions' or segments' approaches, reach out to the corresponding TAM Manager(s).
+As a recommendation to [make the most efficient use of everyone’s time](/handbook/values/#be-respectful-of-others-time), these calls should not happen more than once a week, unless there is a specific and urgent need. There is no requirement to have recurring account team calls, but different regions and segments may approach account team alignments and engagement differently. For clarity on specific regions' or segments' approaches, reach out to the corresponding CSM Manager(s).
 
 Account teams may choose to include the [Sales Development Representative (SDR)](/job-families/marketing/sales-development-representative/) in their account meetings for any targeted growth or wider account expansion.
 
 ### Who Leads the Meeting? 
 
 - *No specific person/role is the boss. You are a TEAM.*
-- Tasks should be agreed upon during the SALSATAM meeting and fall into each person’s area of responsibility.
+- Tasks should be agreed upon during the SALSACSM meeting and fall into each person’s area of responsibility.
 - SAs and SALs need to work together to ensure a smooth sales process, from discovery to demo to POV to final sale.
-- SAs and TAMs need to work together to ensure a smooth transition for the customer.
-- TAMs and SALs need to work together to ensure a smooth onboarding, continued customer happiness, growing accounts, driving stage adoption, and to lock in the renewal for years to come.
+- SAs and CSMs need to work together to ensure a smooth transition for the customer.
+- CSMs and SALs need to work together to ensure a smooth onboarding, continued customer happiness, growing accounts, driving stage adoption, and to lock in the renewal for years to come.
 
 ### Tools to Use During the Meeting 
 
@@ -86,11 +85,11 @@ Account teams may choose to include the [Sales Development Representative (SDR)]
 
 ## Working Together throughout the Customer's Lifecycle  
 
-The SA owns all pre-sales technical relationships and activities. The SA coordinates conversations related to product, sales, business, and technical initiatives prior to the sale. TAM involvement during pre-sales models the expectations for the customer relationship after the sale, but should be limited to only after we achieve a technical win. TAM involvement should supplement, not displace, SA pre-sales ownership of the account.
+The SA owns all pre-sales technical relationships and activities. The SA coordinates conversations related to product, sales, business, and technical initiatives prior to the sale. CSM involvement during pre-sales models the expectations for the customer relationship after the sale, but should be limited to only after we achieve a technical win. CSM involvement should supplement, not displace, SA pre-sales ownership of the account.
 
-When an account moves from pre-sales to post-sales, it is [handed off from the Account Executive/Solutions Architect to the Technical Account Manager](/handbook/customer-success/pre-sales-post-sales-transition/).
+When an account moves from pre-sales to post-sales, it is [handed off from the Account Executive/Solutions Architect to the Customer Success Manager](/handbook/customer-success/pre-sales-post-sales-transition/).
 
-The TAM takes primary responsibility for the account once a customer becomes TAM-qualifiying and focuses on ensuring customer success and driving adoption. SAs can be reintroduced in the following situations:
+The CSM takes primary responsibility for the account once a customer becomes CSM-qualifiying and focuses on ensuring customer success and driving adoption. SAs can be reintroduced in the following situations:
 - A new POV for upgrade or additional team
 - Transformative or dedicated professional services opportunities
-- If a TAM is over-committed or unable to support a customer request, the SA _may_ be requested to assist. However, the SA has discretion as to the level of involvement or assistance they provide post-sales.
+- If a CSM is over-committed or unable to support a customer request, the SA _may_ be requested to assist. However, the SA has discretion as to the level of involvement or assistance they provide post-sales.

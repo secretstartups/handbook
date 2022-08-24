@@ -9,7 +9,7 @@ title: Customer Success Escalations Process
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/tam/) for additional CSM-related handbook pages.
 
 - - -
 
@@ -18,7 +18,7 @@ Escalations can take at least two different forms:
 
 1.  Account Escalation.  This occurs when the customer expresses or a GitLab team member identifies that a customer is facing a challenging situation that may or may not relate to a specific support ticket.  
 
-2.  Support Ticket Attention Requests.  This occurs when an open support ticket is deemed moving too slowly. 
+2.  Support Ticket Attention Requests (STAR).  This occurs when an open support ticket is deemed moving too slowly. 
 
 The purpose of this handbook entry is to describe the process for account escalations.  Please see the [Support Ticket Attention Requests](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html) for details on how to request a support ticket escalation. 
 
@@ -34,10 +34,10 @@ This process addresses critical and high escalations for Strategic customers. Th
 
 | Severity Level | Description | Cadence | Levels of Involvement |
 | -------------- | ----------- | ------- | --------------------- |
-| Critical | Major issue(s) significantly impact customers' ability to deploy or use a solution, risk loss of or use of a solution, high risk loss of a customer or significant contraction, or significant risk to the relationship and brand. | Daily | VP of Sales, Product, CRO, CEO, VP of Customer Success, Global/PubSec TAM Leader |
-| High | Major issue(s) significantly impact a customer's ability to deploy or use a solution, risking current adoption, risk of loss of customer or contraction, future growth on the account, and damage to the relationship. | Multiple times per week | VP of Sales, Product, CRO, CEO, VP of Customer Success, Global/PubSec TAM Leader |
-| Medium | Issue(s) impact a customer's ability to deploy or use the product, risking current adoption and renewal. | Weekly to Bi-weekly | Global/PubSec TAM Leader |
-| Low | Issue(s) impacting a customer's ability to deploy or use the product, risking customer value realization, timeline, customer satisfaction, and adoption levels. | Standard Communication | Regional TAM Manager, Account Manager |
+| Critical | Major issue(s) significantly impact customers' ability to deploy or use a solution, risk loss of or use of a solution, high risk loss of a customer or significant contraction, or significant risk to the relationship and brand. | Daily | VP of Sales, Product, CRO, CEO, VP of Customer Success, Global/PubSec CSM Leader |
+| High | Major issue(s) significantly impact a customer's ability to deploy or use a solution, risking current adoption, risk of loss of customer or contraction, future growth on the account, and damage to the relationship. | Multiple times per week | VP of Sales, Product, CRO, CEO, VP of Customer Success, Global/PubSec CSM Leader |
+| Medium | Issue(s) impact a customer's ability to deploy or use the product, risking current adoption and renewal. | Weekly to Bi-weekly | Global/PubSec CSM Leader |
+| Low | Issue(s) impacting a customer's ability to deploy or use the product, risking customer value realization, timeline, customer satisfaction, and adoption levels. | Standard Communication | Regional CSM Manager, Account Manager |
 
 - Cadence refers to the cadence of internal and external meetings and communications to the customer.
 - Level of involvement defines scope of internal communication and awareness. Others can be included based on the type of issues involved.
@@ -47,7 +47,7 @@ This process addresses critical and high escalations for Strategic customers. Th
 Based on the level of the escalation, the DRI for the escalation will be:
 
 1. Support for low or medium-level escalations
-2. The TAM for high and critical escalations that are **outside of a professional services project**, 
+2. The CSM for high and critical escalations that are **outside of a professional services project**, 
 3. The Professional Services Project Manager for any escalation during/as a part of a professional services project. 
 
 At the beginning of the escalation, the DRI must be determined - the DRI owns the following responsibilities and key steps:
@@ -78,9 +78,9 @@ At the beginning of the escalation, the DRI must be determined - the DRI owns th
 
 ### Medium and Low-Level Escalations
 
-- Support Engineering is responsible for managing Low and Medium level escalations, leveraging other teams (e.g., Technical Account Managers (TAMs), Engineering) as needed.
-- Support Engineering should inform the TAM of the escalation if a TAM is assigned.
-- The TAM is responsible for managing any account-related issues (e.g., delayed response, open actions, non-compliance installation or product use, etc.) and coordinating with any GitLab executives (e.g., egroup) or senior leadership to address account concerns.
+- Support Engineering is responsible for managing Low and Medium level escalations, leveraging other teams (e.g., Customer Success Managers (CSMs), Engineering) as needed.
+- Support Engineering should inform the CSM of the escalation if a CSM is assigned.
+- The CSM is responsible for managing any account-related issues (e.g., delayed response, open actions, non-compliance installation or product use, etc.) and coordinating with any GitLab executives (e.g., egroup) or senior leadership to address account concerns.
 
 ### What's the difference between an account escalation or an incident escalation?
 
@@ -112,7 +112,7 @@ For Critical and High-Level escalations, create an escalation document using the
 
 4. If requested, The VP of Product is responsible for designating Product Leaders who will be the R&D response DRIs for the escalation. That process is expected to happen in the #a_customername_escalation channel with a ping to the VP of Product stating - @david - This is a newly escalated customer, and we are looking for you to assign a Product Leader to be the R&D DRI for the response.
 
-5. Update the customer's TAM Sentiment in Gainsight to reflect the impact of the escalation on the account.
+5. Update the customer's CSM Sentiment in Gainsight to reflect the impact of the escalation on the account.
 
 ### Managing the Escalation:
 
@@ -131,12 +131,12 @@ For Critical and High-Level escalations, create an escalation document using the
   - Post an update to #escalated_customers with the status and resolution
   - Update the escalation document with the resolution
   - Archive the temporary Slack channel
-  - Update the customer's TAM Sentiment in Gainsight to reflect the new state of the account.
+  - Update the customer's CSM Sentiment in Gainsight to reflect the new state of the account.
 
-## TAM Manager's role in Escalations
-The TAM Manager's responsibility is to ensure that the TAM is familiar with the above process and is actively managing the escalation, including the Slack Channel updates and the management of the escalation doc. 
+## CSM Manager's role in Escalations
+The CSM Manager's responsibility is to ensure that the CSM is familiar with the above process and is actively managing the escalation, including the Slack Channel updates and the management of the escalation doc. 
 
-When a customer is in an escalated state, the path to resolution must continue to move forward, with both the internal stakeholders and the customer clear on current actions and next steps. The TAM manager is responsible for ensuring that this forward-motion and clear alignment is present and for stepping in and driving action or alignment where necessary. 
+When a customer is in an escalated state, the path to resolution must continue to move forward, with both the internal stakeholders and the customer clear on current actions and next steps. The CSM manager is responsible for ensuring that this forward-motion and clear alignment is present and for stepping in and driving action or alignment where necessary. 
 
 ## Support Engineering's role in Escalations
 

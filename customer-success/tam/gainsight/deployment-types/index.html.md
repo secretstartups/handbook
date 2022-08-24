@@ -13,7 +13,7 @@ The purpose is understanding where the customer came from — this is about sou
 
 * Community conversion (first value waived) - A customer who was using the free community version and is converting (or converted) to a paid subscription tier.
 * New Customer - This is a brand new customer who doesn’t (or didn't) have an existing GitLab deployment.
-* Existing - New TAM (first value waived) - The customer was already a paying customer and is being (or was) assigned a TAM (e.g., upgraded from a small deployment to large).
+* Existing - New CSM (first value waived) - The customer was already a paying customer and is being (or was) assigned a CSM (e.g., upgraded from a small deployment to large).
 
 ### Hosting
 

@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TAM Infrastructure Upgrade Coordination"
+title: "CSM Infrastructure Upgrade Coordination"
 ---
 
 ## Overview
@@ -11,20 +11,20 @@ utilizing technologies such as Kubernetes, or because GitLab growth requires
 more computational resources. GitLab provides recommended [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/#available-reference-architectures)
 for different scales.
 
-TAMs are the primary point of contact for customers and are responsible for
+CSMs are the primary point of contact for customers and are responsible for
 coordinating with the customer and internal teams so that an infrastructure upgrade
-plan can be established. TAMs may provide documentation and high-level guidance
+plan can be established. CSMs may provide documentation and high-level guidance
 but the technical implementation should ideally be provided by Professional
 Services via [Dedicated Implementation
 Services](https://about.gitlab.com/services/implementation/enterprise/).
 
 ## Infrastructure upgrade coordination
 
-This is a high-level process for TAMs coordinating an infrastructure upgrade:
+This is a high-level process for CSMs coordinating an infrastructure upgrade:
 
-1. TAM establishes specific customer requirements for the hardware upgrade e.g.
+1. CSM establishes specific customer requirements for the hardware upgrade e.g.
    what growth a customer anticipates.
-1. Recommended: TAM involves Professional Services and recommends using [Dedicated
+1. Recommended: CSM involves Professional Services and recommends using [Dedicated
    Implementation
    Services](https://about.gitlab.com/services/implementation/enterprise/) to
    facilitate the migration to new hardware.
@@ -35,24 +35,24 @@ This is a high-level process for TAMs coordinating an infrastructure upgrade:
    ensures that the customer's hardware upgrade plan is sufficient and that the
    migration can be performed with minimal interruption. Migrations of this size
    often take at least three months to plan and execute.
-1. Should a customer choose not to procure Professional Services, a TAM can
+1. Should a customer choose not to procure Professional Services, a CSM can
    provide relevant documentation e.g. for [Reference
    architectures](https://docs.gitlab.com/ee/administration/reference_architectures/#available-reference-architectures)
    but won't provide a detailed hardware upgrade plan.
    1. Other internal teams (Product, Quality, Support, etc.) may assist if specific questions arise.
 1. Once a hardware upgrade plan is created, either via Professional Services or
-   by the customer, the TAM shares the plan with Support. The Support team will
+   by the customer, the CSM shares the plan with Support. The Support team will
    review the plan for feedback..
 1. During a non-ProServ assisted migration, if the customer encounters problems 
    during the migration itself, then Support will be the primary point of contact via our support process.
 
 ## Architecture review
 
-When a customer is planning an infrastructure upgrade, they may want to review their proposed architecture with their TAM. Likewise, the TAM should be asking the customer for an architecture diagram and ensuring that they are following one of our [reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/).
+When a customer is planning an infrastructure upgrade, they may want to review their proposed architecture with their CSM. Likewise, the CSM should be asking the customer for an architecture diagram and ensuring that they are following one of our [reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/).
 
 ### Deviating from reference architecture
 
-If a customer's proposed architecture deviates from the reference architecture for their intended scale, there is a defined process to ensure the best result for the customer. This involves a review between the TAM and the customer, and a final validation from Support.
+If a customer's proposed architecture deviates from the reference architecture for their intended scale, there is a defined process to ensure the best result for the customer. This involves a review between the CSM and the customer, and a final validation from Support.
 
 1. Ensure that the customer knows about, and has reviewed, the [reference architecture](https://docs.gitlab.com/ee/administration/reference_architectures/) appropriate for their user count and/or scalability requirements.
 1. Discuss with the customer how they could revise their architecture to match the reference.

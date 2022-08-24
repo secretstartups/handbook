@@ -22,7 +22,7 @@ The GitLab Support Team provides [U.S.-based support](https://about.gitlab.com/s
 
 - The user that submits the ticket needs to be associated with the appropriate account in SFDC.
 - All accounts and user information get synched between SFDC and Zendesk on an hourly basis under the conditions detailed on the [Support Ops page](/handbook/support/support-ops/responsibilities.html#sfdcus-federal-zendesk-sync).
-- All communications with support will be asynchronous, unless a synchronous call is requested by the Technical Account Manager and/or Solutions Architect for that account.
+- All communications with support will be asynchronous, unless a synchronous call is requested by the Customer Success Manager and/or Solutions Architect for that account.
 - Only customers designated as Public Sector in SFDC are eligible for Federal Support.
 - When a Public Sector prospective customer begins a sales-assisted trial (including Proofs of Value), the Public Sector Solutions Architect will verify that the appropriate "Support Level" is set in the account record in SFDC (Premium or Ultimate).  This will ensure that the SLA for support is set correctly.
 
@@ -42,13 +42,13 @@ When the opportunity progresses to stage 4, the technical close plan is complete
 
 ## Success Management Program Introduction
 
-During each greenfield (new customer) sale, customers will move from the presales technical evaluation into procurement. During the presales period, the account sales team will introduce the Customer Success Management Program to [eligible customers](/handbook/customer-success/tam/services/#enterprise). This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available TAM programs and GitLab Professional Services.
+During each greenfield (new customer) sale, customers will move from the presales technical evaluation into procurement. During the presales period, the account sales team will introduce the Customer Success Management Program to [eligible customers](/handbook/customer-success/tam/services/#enterprise). This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available CSM programs and GitLab Professional Services.
 
 The goals of this introduction are many:
 1. Smoothly transition the new customer to post-sales relationships for support, guidance, advocacy and growth
 2. Ensure a smooth conversational shift from [Go to Market use cases](/handbook/marketing/strategic-marketing/usecase-gtm/) to [DevOps stage adoption](/handbook/customer-success/tam/stage-adoption/)
 3. Validate customer access to [GitLab Support](https://about.gitlab.com/handbook/support/)
-4. Help the customer choose their level of TAM engagement after procurement
+4. Help the customer choose their level of CSM engagement after procurement
 5. Ensure the customer understands available [GitLab Professional Services and Enablement](https://about.gitlab.com/services/catalog/) options
 
 ### Program Flow
@@ -64,7 +64,7 @@ Stage 3
 
 Stage 4-5
 - Once the technical win is achieved, the GitLab [Success Management data sheet](https://docs.google.com/presentation/d/1rrHPTr5RFIJPG1AmxSnUorg2c9IKluw1j39QkRbwmzo/edit#slide=id.g76a815dab5_0_68) (accessible by GitLab team members only) should be shared with the new customer.
-- A call should be scheduled with the new customer and the sales team to introduce the Success Management Program as well as the Technical Account Manager, if the TAM introduction has not already happened during the technical evaluation.
+- A call should be scheduled with the new customer and the sales team to introduce the Success Management Program as well as the Customer Success Manager, if the CSM introduction has not already happened during the technical evaluation.
 - When the call is complete, the SA should log an activity of type 'call' that includes 'success management introduction' in the title.
 
 ### Program Introduction Resources
