@@ -11,7 +11,7 @@ description: "Follow this process to obtain legal review of materials for intern
 
 ### Self-serve materials compliance resources
 When creating materials:
-* for [external](./#external-vs-internal-use) use, always refer to the [SAFE Framework](/handbook/legal/safe-framework/), the [Guidelines for Use of Third-party IP in External Materials](/handbook/legal/ip-public-materials-guidelines/).
+* for [external](./#external-vs-internal-use) use, always refer to the [SAFE Framework](/handbook/legal/safe-framework/), the [Guidelines for Use of Third-party IP in External Materials](/handbook/legal/ip-public-materials-guidelines/), and as a quick-reference guide, the [External Materials Compliance Checklist](/handbook/legal/external-materials-compliance-checklist).
 * for [internal]((./#external-vs-internal-use)) use, always refer to the [SAFE Framework](/handbook/legal/safe-framework/).
 
 ### When to use this process
