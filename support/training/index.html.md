@@ -83,7 +83,10 @@ When you first join the team everything will be new to you. Don't worry! In orde
 
 Your primary Support Engineer Onboarding Issue is created from the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New%20Support%20Team%20Member%20Start%20Here.md). This issue keeps track of your completion of the onboarding modules shown in the table below.
 
-It is recommended that you complete the modules in the order listed, but it depends on your learning style. If you would like to complete them in a different order, discuss it with your manager. Typically, for a new team member in Support, completion of the below onboarding modules (including those in the Area of Focus Pathway) takes **approximately 6 weeks**.
+It is recommended that you start the modules in the order listed, but it depends on your learning style. Note that the specific learning pathway modules are not included in the list, and when you open and start working on those may differ from others as well.
+For example, many Support Engineers on the "GitLab Support Learning Pathway" will open the "Working on Tickets" module to start pairing with others once they have parts of the various basics module completed. If you are unsure, discuss it with your manager.
+
+Typically, for a new team member in Support, completion of the below onboarding modules (including those in the Area of Focus Pathway) takes **approximately 6 weeks**.
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
@@ -97,7 +100,7 @@ It is recommended that you complete the modules in the order listed, but it depe
 
 ### Choosing your initial Area of Focus
 
-When you have completed the basic modules, work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
+Work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
 
 1. For GitLab (SaaS or Self-managed), complete the [GitLab Support Learning pathway](#gitlab-support-learning-pathway).
 1. For License & Renewals, complete the [License and Renewals Learning Pathway](#license-and-renewals-learning-pathway).
@@ -114,7 +117,7 @@ The GitLab Support pathway covers all platforms that we offer. In completing the
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
-| [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working%20On%20Tickets) | 2 Weeks | **Work concurrently with your initial Basics module** -- Help customers by pairing with Support Engineers and replying to tickets |
+| [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working%20On%20Tickets) | 2 Weeks | Help customers by pairing with Support Engineers and replying to tickets |
 | [GitLab-com SaaS Basics](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20SaaS%20Basics) | 2 Weeks | Understand the basics to answer GitLab.com (SaaS) product related tickets |
 | [GitLab Installation & Administration Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=GitLab%20Installation%20and%20Administration%20Basics) | 1 Week | Understand the different ways in which GitLab can be installed and managed |
 | [Self-Managed Support Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Self-Managed%20Basics) | 2 Weeks | Understand the basics to answer Self Managed product related tickets |
