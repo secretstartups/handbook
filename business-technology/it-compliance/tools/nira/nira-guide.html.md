@@ -42,7 +42,7 @@ _GitLab encourages team members to use Nira to ensure good digital hygiene aroun
 
 You can see the status of your shared links by clicking on the Protect icon on the left panel.
 
-![Nira Navigation](./navigation.png)
+![image-4.png](./image-4.png)
 
 
 ## Security recommends that you review sharing permissions on documents in the following order:
