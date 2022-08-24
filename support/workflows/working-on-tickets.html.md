@@ -181,7 +181,7 @@ needs, and that might save you and the customer time and effort as well.
 
 ### 1. How many new tickets should I pick up each week?
 
-Each week, each Intermediate Support Engineer should aim at least to meet, and preferably to exceed, [the
+Each week, each Support Engineer should aim at least to meet, and preferably to exceed, [the
 appropriate baseline](/handbook/support/support-engineer-responsibilities.html#ticket-baseline) from the following list for the number of first responses:
 
 - **Self-managed focus: 6 tickets**
