@@ -28,7 +28,7 @@ Further information can also be found on the [Germany Trade & Invest Website](ht
 
 Effective July 1, 2022 GitLab provides team members in Germany Personal Accident Insurance Coverage with Allianz Versicherungs-AG. All team members are automatically enrolled. 
 
-Direct Entitlement is excluded from the plan, meaning the premiums are only taxed in the event of a claim payment. Insured value for death due to an accident is 1x annual salary, the insured value for dismemberment due to an accident is 2x annual salary. 
+Direct Entitlement is excluded from the plan, meaning the premiums are only taxed in the event of a claim payment. Insured value for death due to an accident is 1x annual salary- limited to 500,000 Euros, the insured value for dismemberment due to an accident is 2x annual salary for a 100% claim - limited to 1,000,000 Euros. For additional details please find the [Fact Sheet in English](https://drive.google.com/file/d/1k0DhHjTjEIpharDYeXuM-HPVnTn2iY5J/view?usp=sharing) and the [Fact Sheet in German](https://drive.google.com/file/d/19bK96bs9L1fXJORqjeFQNZ5I2sTmIQG_/view?usp=sharing).  
 
  In the unfortunate event of an accident, please find the Group Personal Accident Flier in [German](https://drive.google.com/file/d/1AbBRSZ1-mkUyITCU0eLhltfRvu3Z3ppy/view?usp=sharing) & in [English](https://drive.google.com/file/d/1GFMTLLgMeyj1EZQ8K0axu8zxhV7jM4QT/view?usp=sharing) with information on how to report an accident and start a claim. 
 
