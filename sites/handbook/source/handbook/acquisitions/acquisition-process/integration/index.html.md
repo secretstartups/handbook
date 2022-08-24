@@ -90,3 +90,4 @@ Once the above is completed, the team proceeds to enablement development and exe
 - Pre-closing documents will be stored on Google Drive and made accessible to those involved with the prospective acquisition process. 
 - Upon closing, a member of the Legal & Corporate Affairs team will be responsible for organizing and obtaining the closing binder related to the acquisition. 
 - Once received, the Legal Operations team will upload the binder as well as the rest of the documents in the original Google Drive folder into a new folder in ContractWorks.
+- Each month a Reconciliation Issue will be created for the previous month, included in this Issue will be an obligation from Corporate Counsel to confirm either, (i) there are no Agreements for the previous month, or (ii) all executed Agreements have been provided to the Legal Operations Team Member(s) for upload.
