@@ -3,6 +3,7 @@ layout: handbook-page-toc
 title: "Publicity Waiver and Release Guidelines and Process"
 description: "Guidelines and process for use of Publicity Waiver and Release agreements"
 ---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -26,14 +27,14 @@ If a Release is required, the circumstances dictate which Release templates shou
 - For all other circumstances, refer to the diagram below to determine which Release template to use.
 
 ```mermaid
-graph TD;
-A{Are the only individuals<p> featured in the materials<p> GitLab team members?}-->|Yes|B{Will the materials<p> be used for paid<p> outbound advertising?}
-A -->|No| C(Use the Material- and Purpose-Specific Template)
-B -->|No| D(Use the General Team Member Template)
-B -->|Yes| C
+graph TD
+  A{Are the only individuals<br> featured in the materials<br> GitLab team members?}-->|Yes|B{Will the materials<br> be used for paid<br> outbound advertising?}
+  A -->|No| C(Use the Material- and Purpose-Specific Template)
+  B -->|No| D(Use the General Team Member Template)
+  B -->|Yes| C
 
-click C "./#material-and-purpose-specific-publicity-waiver-and-release"
-click D "./#team-member-general-publicity-waiver-and-release"
+click C "/handbook/legal/publicity-waiver-release/#material-and-purpose-specific-publicity-waiver-and-release"
+click D "/handbook/legal/publicity-waiver-release/#team-member-general-publicity-waiver-and-release"
 ```
 
 ### Team Member General Publicity Waiver and Release
@@ -50,7 +51,7 @@ Each team member need only sign the Team Member General Publicity Waiver and Rel
 1. Once all team members featured in the materials have completed the form accepting the Release, verify this in the [Tracker](https://docs.google.com/spreadsheets/d/1fOENNDeCoAzXSdHIcD7GGJnwpUYL1qlqzwB1WbHrdlg/edit#gid=249560389).
 </details>
 
-### Material- and Purpose-specific Publicity Waiver and Release
+### Material and Purpose Specific Publicity Waiver and Release
 Use the Material- and Purpose-specific Publicity Waiver and Release template for materials featuring individuals who are no GitLab team members, or for materials featuring individuals that will be used for paid outbound advertising. For materials that will not be used for paid outbound advertising and feature only GitLab team members, use the [Team Member General Publicity Waiver and Release](./#team-member-general-publicity-waiver-and-release) instead.
 
 <details>
