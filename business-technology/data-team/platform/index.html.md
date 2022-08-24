@@ -251,7 +251,7 @@ If for some reason access to the object role doesn't make sense, individual priv
 
 #### Masking Roles
 
-Masking Roles manage how users interact with masked data. Masking is applied at the column level and which columns are masked is the decision of the source system owner.  Masking is applied to a column in a `schema.yml` file within the dbt code base.  As some users will need access to unmasked data the masking role allows for permissions to the unmasked data to be granted on a functional or object role level.  For example if the masking role of `people_data_masking` is applied to the column `locality` then the functional role of `analyst_people` can be set as a member of the `people_masking` role to allow the analysts to see unmasked people data.
+Masking Roles manage how users interact with masked data. Masking is applied at the column level and which columns are masked is the decision of the source system owner. Masking is applied to a column in a `schema.yml` file within the dbt code base when a data object is created via dbt. As some users will need access to unmasked data the masking role allows for permissions to the unmasked data to be granted on a functional or object role level. For example if the masking role of `people_data_masking` is applied to the column `locality` then the functional role of `analyst_people` can be set as a member of the `people_masking` role to allow the analysts to see unmasked people data.
 
 When a masking policy is created, it is created based on the masking roles and only one masking policy can be applied to a column.
 
@@ -483,11 +483,11 @@ We use data masking obfuscate private or sensitive information with our data war
 
 Static data masking is applied during the transformation of the data and the masked result is materialized into the table or view.  This will mask the data for all users regardless of role or access permission.  This is accomplished in the code with tools such as the `hash_sensitive_columns` [macro](https://gitlab.com/gitlab-data/analytics/-/blob/48e7ef194be084b13d8091d3c97ca2c4ca89cf6d/transform/snowflake-dbt/macros/sensitive/hash_sensitive_columns.sql) within dbt.
 
-
 #### Dynamic Masking
 
-Dynamic masking is applied at quey run time based on assigned policies and user roles using the [Dynamic Data Masking](https://docs.snowflake.com/en/user-guide/security-column-ddm-use.html) capabilities of Snowflake.  Dynamic masking allows for data to be unmasked for selected users wile masked for all other users.  This is accomplished by creating masking policies that are then applied to the column at the time of table or view creation.  Masking policies are maintained within the data warehouse source code repository.
+Dynamic masking is currently applied on tables or views in the `prep` and `prod` layer at query run time based on assigned policies and user roles using the [Dynamic Data Masking](https://docs.snowflake.com/en/user-guide/security-column-ddm-use.html) capabilities of Snowflake. Dynamic masking allows for data to be unmasked for selected users wile masked for all other users. This is accomplished by creating masking policies that are then applied to the column at the time of table or view creation. Masking policies are maintained within the data warehouse source code repository. Please see the [dbt guide](/handbook/business-technology/data-team/platform/dbt-guide/#dynamic-masking) to setup dynamic masking. 
 
+Note: Dynamic masking is not applied on `raw` database yet. 
 
 ### Timezones
 
