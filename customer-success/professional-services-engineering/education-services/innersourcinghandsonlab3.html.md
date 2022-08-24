@@ -34,7 +34,7 @@ Note: this will create a new branch from the `master` branch using the default n
 2. On your Merge Request, click on the **Changes** tab directly below the Merge Request title.  
 3. Hover over the left side of any line and a comment icon will appear. Hover over line 3 and click the **comment** icon. 
 4. In the comment field type, `this code xyz will fix this!` and click the **Start a review** button. Then click the **Submit review** button.
-5. To mark that the comment has been looked at and the code adjusted, click the **Resolve rhread** button to close the review.  
+5. To mark that the comment has been looked at and the code adjusted, click the **Resolve thread** button to close the review.  
 
 ### Approve the Merge Request
 1. To mark the Merge Request ready, click the **Mark as ready** button in the upper right hand corner.  
