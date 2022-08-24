@@ -3,76 +3,99 @@ layout: job_family_page
 title: Environmental & Social Governance (ESG)
 ---
 
-{add overview; a brief description of the job family}
+## ESG Manager
 
-## Responsibilities
-* {add a bulleted list of responsibilities that apply for all levels of the role}
+### ESG Manager Job Grade
 
-## Requirements
-* Ability to use GitLab
-* {add a bulleted list of requirements that apply for all levels of the role}
+The ESG Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Levels
-### {add name of level - i.e. Junior/Senior/Manager. Note we do not list the intermediate level in the title but after the role in parentheses - i.e. IT Systems Engineer (Intermediate)}
-The {add the position title} reports to the {add the reporting position and link to the job family or heading (if on the same page)}.
+## ESG Manager
 
-#### {add Level} Job Grade
-The {add the role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The ESG Manager reports to the Senior Director, ESG, and is responsible for contributing to GitLab’s sustainability programs, policies, and initiatives.
 
-#### {add Level} Responsibilities
-* {add a bulleted list of responsibilities that apply for this level}
+The ideal candidate has deep expertise in environment, social, and governance programs and disclosures. This individual can inspire and influence cross-functional teams and has a strong desire to make a positive impact.
 
-#### {add Level} Requirements
-* {add a bulleted list of requirements that apply for all levels of the role}
+### ESG Manager Responsibilities
+* Participate in the development of the company’s ESG strategy and implements the strategy
+* Contribute to the development and publication of ESG reports including collecting data, material metrics, and consolidating information requests
+* Collect, manage, and submit content to key ESG rating firms and track score progress
+* Collaborate with key internal teams on relevant data and target setting
+* Advise on and develop ESG standards, principles, and policies
+* Conduct benchmarking, follow trends, and provide best practices for ESG disclosures while identifying gaps and presenting solutions
+* Develop and maintain tools and mechanisms to evaluate, track and report on progress against company ESG goals
 
-#### {add Level} Performance Indicators
-* {add 3-5 KPIs that this role will be the DRI for, if the PIs are the same for all levels remove this section and use the heading 2 section later in the template}
 
-### {add name of level - i.e. Junior/Senior/Manager. Note we do not list the intermediate level in the title but after the role in parentheses - i.e. IT Systems Engineer (Intermediate)}
-The {add the position title} reports to the {add the reporting position and link to the job family or heading (if on the same page)}.
+### ESG Manager Requirements
+* 3+ years’ experience in non-financial reporting, corporate social responsibility, ESG disciplines or sustainability
+* Knowledge of key reporting frameworks including GRI, SASB, CDP, and TCFD
+* Experience in managing ESG issues and disclosures, preferably in the tech industry
+* Excellent written and oral communication skills
+* Excellent organizational skills as well as creativity and resourcefulness
+* Ability to work in a deadline-oriented environment
+* Attention to detail and ability to prioritize
+* Superior research and analytical skills
+* Outstanding cross-functional partnership skills, with a confirmed ability to identify, initiate and lead efforts with both internal and external teams
+* Embrace GitLab Values of [Collaboration](https://about.gitlab.com/handbook/values/#collaboration[), [Results](https://about.gitlab.com/handbook/values/#results), [Efficiency](https://about.gitlab.com/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion), [Iteration](https://about.gitlab.com/handbook/values/#iteration), and [Transparency](https://about.gitlab.com/handbook/values/#transparency) 
 
-#### {add Level} Job Grade
-The {add the role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### {add Level} Responsibilities
-* {add a bulleted list of responsibilities that apply for all levels of this job family}
+## Senior Director, ESG
 
-#### {add Level} Requirements
-* {add a bulleted list of requirements that apply for all levels of this job family}
+### Senior Director, ESG Job Grade
 
-#### {add Level} Performance Indicators
-* {add 3-5 PIs that this role will be the DRI for, if the PIs are the same for all levels remove this section and use the heading 2 section later in the template. PIs should link to the data}
+The Senior Director, ESG is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Segment
-### {add name of Segment}
-{add a brief description of the specialty}
+## Senior Director, ESG 
 
-#### {add name of Segment} Requirements
-* {add a bulleted list}
+The Senior Director, ESG reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal/chief-legal-officer/), and is responsible for creating, maintaining and reporting on GitLab’s Environmental & Social Governance (ESG), Corporate Social Responsibility (CSR) and sustainability policies and initiatives. 
 
-#### {add name of Segment} Responsibilities
-* {add a bulleted list}
 
-## Specialties
-### {add name of Specialty}
-{add a brief description of the specialty}
+### Senior Director, ESG Responsibilities
+* Establish best-in-class strategy and operating plan with regards to GitLab ESG, CSR and sustainability initiatives
+* Identify and prioritize sustainability and social issues; setting goals that support alignment and integration of the ESG, CSR and sustainability vision into overall corporate strategy
+* Develop measurement policies and implement governance processes and disclosure controls to ensure completeness and accuracy of ESG, CSR and sustainability reporting 
+* Publicly report GitLab Inc.’s ESG, CSR and sustainability initiatives and measures
+* Lead strong collaboration with key global business stakeholders to influence positive outcomes with respect to ESG, CSR and sustainability initiatives and measures
+* Develop budget with respect to ESG, CSR and sustainability initiatives 
+* Analyze regulatory requirements, regulations, business trends and industry benchmarking to enable GitLab to achieve and maintain a leadership position with respect to ESG, CSR and sustainability initiatives
+* Represent GitLab externally at sustainability & social impact leadership events and speaking engagements
+* Increase global awareness and impact with respect to GitLab’s ESG, CSR and sustainability initiatives
+* Design an ESG program that is focused on impact and tangible, repeatable results that demonstrate return on investment
+* Embrace iteration to make program changes quickly based on feedback and lessons learned
+* Create the most transparent public company ESG program 
 
-#### {add name of Specialty} Requirements
-* {add a bulleted list}
 
-#### {add name of Specialty} Responsibilities
-* {add a bulleted list}
-
-## Performance Indicators
-* {add 3-5 PIs that this role will be the DRI for, if PIs were listed for each level, because the are all unique, remove this section. PIs should link to the data}
+### Senior Director, ESG Requirements
+* 6+ years validated experience in sustainability, ESG, CSR or relevant roles
+* Extensive knowledge of global sustainability, ESG and CSR standard methodologies and trends
+* Shown success in the development and execution of successful sustainability strategies
+* Outstanding cross-functional partnership skills, with a confirmed ability to identify, initiate and lead efforts with both internal and external teams
+* Enthusiastic self-starter; equally comfortable operating at the micro and macro levels with the innate ability to know which level is needed at what time 
+* Passionate about ESG and CSR and the ability to translate that passion into action 
+* Experience with establishing and managing an operating budget
+* Background with hyper-growth organizations, and proven ability to adapt and learn things quickly
+* An effective communicator with the ability to use “plain English” and to escalate, stay coordinated, provide feedback, and ask for help
+* Strong operational mindset with ability to prioritize projects and demands
+* Embrace GitLab Values of [Collaboration](https://about.gitlab.com/handbook/values/#collaboration[), [Results](https://about.gitlab.com/handbook/values/#results), [Efficiency](https://about.gitlab.com/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion), [Iteration](https://about.gitlab.com/handbook/values/#iteration), and [Transparency](https://about.gitlab.com/handbook/values/#transparency) 
 
 ## Career Ladder
-{add brief description of the career ladder}
+ 
+Information regarding growth for the ESG job family will be provided in the Legal and Corporate Affairs Career Development Framework (CDF). 
+ 
+## Performance Indicators
+
+* Performance indicators for the ESG Job Family will be set by the team during FY23Q3
 
 ## Hiring Process
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
-*{add a bulleted list of the hiring process steps here}
-
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+ 
+* Selected candidates will be invited to schedule a 30-minute screening call with our Global Recruiters
+* Next, candidates will be invited to schedule an interview with our Senior Director, ESG
+* Next, candidates will be invited to schedule with additional team members of the legal department
+*Next, candidates will be invited to schedule an interview with our Chief Legal Officer
+* Finally, candidates may be invited to schedule interviews with Directors or team members in relevant functional areas
+ 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+
+
+
