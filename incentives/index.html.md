@@ -437,7 +437,7 @@ Team members should be aware of key GitLab policies and asks.
 1. Activities should be consistent with GitLab's [values](/handbook/values/).
 1. Any travel should be in line with our [travel policy](/handbook/travel/) and associated activities should comply with company [COVID policy around testing, masking, vaccination, etc...](/handbook/travel/#travel-guidance-covid-19).
 1. Team members should review [GitLab's Business Travel Accident Policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#business-travel-accident-policy) and familiarize themselves with the company's [travel insurance](https://drive.google.com/file/d/0B4eFM43gu7VPVl9rYW4tXzIyeUlMR0hidWIzNk1sZjJyLUhB/view?resourcekey=0-CDrQbA3YfmHHDM69Zuzxlg). GitLab will not be responsible for activities that fall outside of the policy. 
-1. Team members should adhere to the [GitLab Code of Conduct](/company/culture/contribute/coc/).
+1. Team members should adhere to the [GitLab Code of Conduct](/company/culture/ecoc/).
 1. Team members should refer to our [contracts and vendor policies](/legal/procurement-guide-collaborating-with-gitlab-legal/#signing-contracts) and refrain from signing contracts on behalf of GitLab. 
 1. Associated activities should comply with local laws.
 1. Events should be outdoors as much as possible to reduce COVID risk.
