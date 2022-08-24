@@ -12,14 +12,13 @@ description: "GitLab's views and directions on how to give and receive feedback.
 
 # Importance of Feedback 
 
-* Keeps everyone on track 
-* Helps avoid major mistakes 
-* Form better relationships 
-* Motivates people
-* Promotes personal & professional growth by establishing a Growth Mindset
-* Enables a friendly work environment 
-* Enables leaders to set the standard
-* Instills trust amongst the team
+1. Transparency keeps teams aware of team strengths and challenges
+1. Addresses small challenges early to avoid major mistakes later
+1. Forms strong and trusting relationships
+1. Motivates people
+1. Establishes a growth mindset
+1. Creates a friendly work environment 
+1. Enables leaders to set the standard
 
 Feedback conversations are the core of personal and professional growth for our team members and ourselves. According to research conducted by [TruQu](https://truqu.com/en/blogs/the-importance-of-a-feedback-culture-and-how-you-can-build-it-in-the-workplace/):
 - Constructive and timely feedback can **improve performance up to 39%**
@@ -27,26 +26,24 @@ Feedback conversations are the core of personal and professional growth for our 
 - 4/10 employees are **actively disengaged when they get little or no feedback**
 - When we engage in and document feedback more frequently, we **reduce the anxiety** of feedback and **reduce the potential for "surprises**" 
 
-# Types of Feedback
+## Types of Feedback
 
-Feedback can come in the form of **"praise"** for things team members do well, and in the form of **"tips"** pertaining to improvement areas. At GitLab, we encourage both types of feedback on a regular basis!
+Feedback can come in the form of **"praise"** for things team members do well, and in the form of **"tips"** pertaining to improvement areas. We encourage both types of feedback on a regular basis using:
 
-A few ways in which feedback is provided at GitLab are:
-
-* [360 Feedback](/handbook/people-group/360-feedback/)
-* Regularly during 1:1s (you can find details about that by going to the [1-1 page](/handbook/leadership/1-1/))
-* "365 feedback" - Feedback should be given 365 days a year and largely it’s done verbally and directly; not escalated.
-* [TrustMetryx](https://trustmetryx.com) - behavioral science based feedback measuring relationship strength between teams and among teammates.
+1. [360 Feedback](/handbook/people-group/360-feedback/)
+1. Regularly during [1-1's](/handbook/leadership/1-1/)
+1. "365 feedback": Giving verbal, direct feedback 365 days a year
+1. [TrustMetryx](https://trustmetryx.com): behavioral science based feedback measuring relationship strength between teams and among teammates
 
 ## Guidance on Giving and Receiving Feedback
 
-Sid (GitLab CEO and Co-founder) and the Learning & Development team discuss guidance on giving and reciving feedback during a [CEO Handbook Learning Session](https://docs.google.com/presentation/d/1u6k4ILLBjLOaGk1ZyuNa2U2qr-XiGZL0AhUjOQRtvVI/edit#slide=id.p1). During the discussion, they discuss the following topics: 
+Sid (GitLab CEO and Co-founder) and the Learning & Development team discussed guidance on giving and reciving feedback during a [CEO Handbook Learning Session](https://docs.google.com/presentation/d/1u6k4ILLBjLOaGk1ZyuNa2U2qr-XiGZL0AhUjOQRtvVI/edit#slide=id.p1). The covered topics like:
 
-1. How to create an environment where team members can approach each other with feedback
-2. Why it is important to give regular feedback
-3. Why you should give feedback right away
-4. How iteration enables feedback
-5. Creating an environment built for feedback
+1. How do you create an environment where team members can approach each other with feedback?
+2. Why it is important to give regular feedback?
+3. Why you should give feedback right away?
+4. How iteration enables feedback?
+5. How do you create an environment built for feedback?
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vL864Zg2sm4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -54,108 +51,9 @@ Sid (GitLab CEO and Co-founder) and the Learning & Development team discuss guid
 
 > Give constructive feedback in the smallest group as possible, be specific by discussing an example. Make the discussion improvement orientated and make sure you deliver feeback when your not upset. (Sid Sijbrandij, GitLab CEO and co-founder)
 
-## Feedback on Improvement Areas
-
-Feedback on improvement areas can sometimes feel like this:
-
-![megaphone](/images/Training/Megaphone2.png)
-
-### Fear and Holding Back
-
-Giving feedback can be a scary process which makes it hard to do. This is because there are fears of damaging the relationship, being wrong, losing face or hurting the person. Holding back on providing feedback because you feel it isn't your place (if you are a peer) or believing it won't make a difference are also some reasons why we hold back.  
-
-The consequences of holding back can have a significant impact to GitLab's culture. Patrick Lencioni, in his book [The Five Dysfunctions of a Team (2002)](https://www.tablegroup.com/books/dysfunctions) cites the following five consequences:
-
-- Inattention to Results
-- Avoidance of Accountability
-- Lack of Commitment
-- Fear of Conflict
-- Absence of Trust
-
-### Embracing Feedback
-“In teamwork, silence isn’t golden, it’s deadly.“ ~Mark Sanborn
-
-The habit of seeking feedback may not be easy to develop, but failing to seek honest input from your team can lead to reduced psychological safety, loss of trust, the deterioration of relationships, and ultimately disengagement. The impact on the performance and well-being of your team carries a heavy price.
-
-In this video, [Dr. Jeb Hurley](https://linkedin.com/in/jebhurley), Co-founder of Xmetryx, takes a look at why some leaders choose to avoid feedback, even when they have ample evidence that shows its benefits. He discusses why, if you want to play like a champion, you must become hungry for feedback and learn to give it as well as receive it wisely. 
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://player.vimeo.com/video/546933765" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
-For additional reading, here’s an article on how [Brain Science is Turning Feedback Inside-Out](https://www.onehabit.blog/brain-science-is-turning-team-feedback-inside-out/)
-
-Note: The entire Remote Team Leadership Micro-course is part of a TrustMetryx subscription. [Learn more](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/#interested-in-using-trustmetryx)
-
-### Elements of Getting it Right
-
-![Feedback Image](/images/Training/Feedback_Image.png)
-
-### Radical Candor™
-
-"Radical Candor™ just means Care Personally AND Challenge Directly.
-Why does something so simple feel radical?" [Source](https://www.radicalcandor.com/).
-There is a video below from Kim Malone Scott titled **Radical Candor-The Surprising Secret to being a good Boss** which explains this crucial element of getting feedback right.
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/4yODalLQ2lM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-Radical Candor can be applied to giving constructive feedback: 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/0YaXSbLqork" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-### What Comes First, Honesty or Trust?
-
-For many, it is more comfortable to give feedback to, and receive feedback from, those with whom you have already established trust. Somehow, the trust makes it easier to assume good intent and to be boldly honest with each other.  Often, however, we need to provide feedback benefiting from trust before that trust has been earned.  
-- **Task based trust before relationship/behavior based trust**:  While earning trust, it is more comfortable to give and receive task based feedback. It is easier to tell someone that there is a typo in something they have written than to tell someone their leadership is ineffective because they micromanage, for example. However, it can be surprising to realize how giving feedback can build trust. Sometimes, starting with the task based feedback can lead to more transformational behavior feedback.
-- **Building Trust**:  Building trust on teams can be difficult but deserves attention and focus. Many of the suggestions in the handbook around team communication help with this. As a team, reading [The Advantage](https://www.amazon.com/Advantage-Enhanced-Organizational-Everything-Business-ebook/dp/B006ORWT3Y)  will provide you with some helpful hints for discussions you can have together to build trust.
-- **Candidness Builds Trust**: Believe it or not, being candid with someone can actually build trust. Don't you get a little frustrated when returning home from a social engagement only to realize that you have a strawberry seed in your teeth.  Why didn't anyone tell you?  The same is true at work. When someone is willing to give you feedback that helps you be more effective, you can begin to trust that person more. You know they are willing to be honest with you, even when there is no direct advantage to them for doing so. Most would certainly trust that person more than the person who says it behind their back instead.  Let's be honest with each other.
-
-### Hard Conversations
-
-It is inevitable that at some point difficult feedback will need to be given. This type of feedback is actually extremely valuable if delivered correctly. Another important factor is to consider the individual and be prepared for how they might react. You may receive one or a combination of the following responses:
-
-- Attack Mode: defensiveness, anger
-- Silent Fuming
-- Speaking openly, honestly and effectively
-
-The last point is what we want everyone to be able to do. The best way to ensure you deliver feedback is to be prepared. You can do this by asking yourself some questions beforehand. These will help you to balance heart and mind, such as:
-
-- What do I really want for myself?
-- What do I really want for the other(s)?
-- What do I really want for the relationship?
-- How would I behave if I really wanted these results?
-
-### Preparing to Give Candid Feedback
-
-Consider:
-- **Root Cause**: What are the behaviors I’ve experienced? What is the core issue? What would improve the relationship between you and the other person/ team?
-- **Impact**: What is the effect/impact of the behaviors on you/others (positive or negative)? How is the behavior not aligned with GitLab's values? Cost/benefits to the person or team?
-- **Suggestions/Actions**: What do you want the person(s) to do differently; what actions could they take?
-- **Communication Styles/Culture Map**:  Could the individual’s background affect the way they prefer to receive feedback? Reading The [Culture Map](https://erinmeyer.com/book/) can help you understand the communication and feedback styles of different countries. Something very useful at GitLab.
-
-### Guidelines for Delivering Feedback 
-
-1. Have positive intent 
-   * If you have the intent to hurt someone and not to help them, reconsider giving the feedback. 
-   * Harsh feedback does not help people thrive and excel. 
-1. Use Radical Candor™
-   * Care Personally AND Challenge Directly 
-1. Make it a frequent event and do it in real time
-   * Don’t wait until performance reviews to deliver 
-1. Avoid using absolutes 
-   * For Example: "You always." "You never show up to meetings on time.") 
-1. Feedback should be both positive and constructive 
-   * It is recommended to use a 4:1 ratio of positive to constructive 
-1. Use the [Situation-Behavior-Impact (S-B-I) Model](#s-b-i-model)
-1. Allow the feedback receiver time to reflect 
-
 ## All Feedback 
 
-The following suggestions, considerations, and models can be applied and used as a guideline when providing both positive feedback and feedback on improvement areas. Recognition is also an essential element of feedback. 
+The following suggestions, considerations, and models can be applied and used as a guideline when providing both positive feedback and feedback on improvement areas. 
 
 ### S-B-I Model
 
@@ -173,30 +71,119 @@ For a more in-depth look at how to apply this model see [The Situation-Behavior-
 
 Invest time in learning about how to most effectively communicate feedback to team members. One of the interesting things about thanking people is that culturally and personally some people prefer more or less public thanks. We should get to know our team members well enough to understand how best to share positive feedback.
 
-GitLab has team members from many different cultures and backgrounds. Everyone responds to things differently. You may need to adapt your tone and style according to the individual and the relationship you have with them. Some things to think about are:
+GitLab has team members from many different cultures and backgrounds. Everyone responds to things differently. You may need to adapt your tone and style according to the individual and the relationship you have with them. Learn more in the [GitLab's Cross-Cultural Collaboration Guide](/company/culture/cross-culture-collaboration-guide/). Some things to think about are:
 
-- Do you need to build relationship before candor is comfortable?
-- Consider comfort with direct vs indirect feedback
-- Is their communication generally explicit or implicit?
-- Influence of hierarchy in direct feedback?
-
-We recommend you review [GitLab's Cross-Cultural Collaboration Guide](https://about.gitlab.com/company/culture/cross-culture-collaboration-guide/)!
+1. Do you need to build relationship before candor is comfortable?
+1. Consider comfort with direct vs indirect feedback
+1. Is their communication generally explicit or implicit?
+1. Influence of hierarchy in direct feedback?
 
 ### Documenting Feedback 
 
 **Why it's important to document:**
 
-* Ensures both giver and receiver are on the same page; No Surprises! 
-* Provides focus and helps track progress
-* Lays the ground for self reflections and performance discussions
-* Supports decision making
+1. Ensures both giver and receiver are on the same page; No Surprises! 
+1. Provides focus and helps track progress
+1. Lays the ground for self reflections and performance discussions
+1. Supports decision making
 
 **Where to document:**
 
-* In 1:1 meeting agendas
-* Culture Amp
-* Performance evaluation tool
-* Thanks Slack channel
+1. In 1:1 meeting agendas
+1. Culture Amp
+1. [#thanks Slack channel](https://app.slack.com/client/T02592416/C038E3Q6L)
+
+### Embracing Feedback
+
+“In teamwork, silence isn’t golden, it’s deadly.“ ~Mark Sanborn
+
+The habit of seeking feedback may not be easy to develop, but failing to seek honest input from your team can lead to reduced psychological safety, loss of trust, the deterioration of relationships, and ultimately disengagement. The impact on the performance and well-being of your team carries a heavy price.
+
+In this video, [Dr. Jeb Hurley](https://linkedin.com/in/jebhurley), Co-founder of Xmetryx, takes a look at why some leaders choose to avoid feedback, even when they have ample evidence that shows its benefits. He discusses why, if you want to play like a champion, you must become hungry for feedback and learn to give it as well as receive it wisely. 
+
+<figure class="video_container">
+  <iframe width="460" height="215" src="https://player.vimeo.com/video/546933765" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+For additional reading, here’s an article on how [Brain Science is Turning Feedback Inside-Out](https://www.onehabit.blog/brain-science-is-turning-team-feedback-inside-out/)
+
+_Note: The entire Remote Team Leadership Micro-course is part of a TrustMetryx subscription. [Learn more](/handbook/people-group/learning-and-development/manager-challenge/#interested-in-using-trustmetryx)_
+
+### Fear and Holding Back
+
+Giving feedback can be a scary process which makes it hard to do. This is because there are fears of damaging the relationship, being wrong, losing face or hurting the person. Holding back on providing feedback because you feel it isn't your place (if you are a peer) or believing it won't make a difference are also some reasons why we hold back.  
+
+The consequences of holding back can have a significant impact to GitLab's culture. Patrick Lencioni, in his book [The Five Dysfunctions of a Team (2002)](https://www.tablegroup.com/books/dysfunctions) cites the following five consequences:
+
+1. Inattention to Results
+1. Avoidance of Accountability
+1. Lack of Commitment
+1. Fear of Conflict
+1. Absence of Trust
+
+### Elements of Getting it Right
+
+![Feedback Image](/images/Training/Feedback_Image.png)
+
+### Radical Candor™
+
+"Radical Candor™ just means Care Personally AND Challenge Directly. Why does something so simple feel radical?" [Source](https://www.radicalcandor.com/). Watch Kim Malone Scott speak about **Radical Candor-The Surprising Secret to being a good Boss** which explains this crucial element of getting feedback right.
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/4yODalLQ2lM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+Radical Candor can be applied to giving constructive feedback: 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/0YaXSbLqork" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### What Comes First, Honesty or Trust?
+
+For many, it is more comfortable to give feedback to, and receive feedback from, those with whom you have already established trust. Somehow, the trust makes it easier to assume good intent and to be boldly honest with each other.  Often, however, we need to provide feedback benefiting from trust before that trust has been earned.  
+- **Start with task based trust**:  While earning trust, it is more comfortable to give and receive task based feedback. It is easier to tell someone that there is a typo in something they have written than to tell someone their leadership is ineffective because they micromanage, for example. However, it can be surprising to realize how giving feedback can build trust. Sometimes, starting with the task based feedback can lead to more transformational behavior feedback.
+- **Build relational trust**:  Building trust on teams can be difficult but deserves attention and focus. Many of the suggestions in the handbook around team communication help with this. As a team, reading [The Advantage](https://www.amazon.com/Advantage-Enhanced-Organizational-Everything-Business-ebook/dp/B006ORWT3Y)  will provide you with some helpful hints for discussions you can have together to build trust.
+- **Be candid**: Believe it or not, being candid with someone can actually build trust. Don't you get a little frustrated when returning home from a social engagement only to realize that you have a strawberry seed in your teeth.  Why didn't anyone tell you?  The same is true at work. When someone is willing to give you feedback that helps you be more effective, you can begin to trust that person more. You know they are willing to be honest with you, even when there is no direct advantage to them for doing so. Most would certainly trust that person more than the person who says it behind their back instead.  Let's be honest with each other.
+
+### Hard Conversations
+
+It is inevitable that at some point difficult feedback will need to be given. This type of feedback is actually extremely valuable if delivered correctly. Another important factor is to consider the individual and be prepared for how they might react. You may receive one or a combination of the following responses:
+
+1. Attack Mode: defensiveness, anger
+1. Silent Fuming
+1. Speaking openly, honestly and effectively
+
+The last point is what we want everyone to be able to do. The best way to ensure you deliver feedback is to be prepared. You can do this by asking yourself some questions beforehand. These will help you to balance heart and mind, such as:
+
+1. What do I really want for myself?
+1. What do I really want for the other(s)?
+1. What do I really want for the relationship?
+1. How would I behave if I really wanted these results?
+
+## Giving Feedback
+
+Consider:
+1. **Root Cause**: What are the behaviors I’ve experienced? What is the core issue? What would improve the relationship between you and the other person/ team?
+1. **Impact**: What is the effect/impact of the behaviors on you/others (positive or negative)? How is the behavior not aligned with GitLab's values? Cost/benefits to the person or team?
+1. **Suggestions/Actions**: What do you want the person(s) to do differently; what actions could they take?
+1. **Communication Styles/Culture Map**:  Could the individual’s background affect the way they prefer to receive feedback? Reading The [Culture Map](https://erinmeyer.com/book/) can help you understand the communication and feedback styles of different countries. Something very useful at GitLab.
+
+### Guidelines for Delivering Feedback 
+
+1. Have positive intent 
+   * If you have the intent to hurt someone and not to help them, reconsider giving the feedback. 
+   * Harsh feedback does not help people thrive and excel. 
+1. Use Radical Candor™
+   * Care Personally AND Challenge Directly 
+1. Make it a frequent event and do it in real time
+   * Don’t wait until performance reviews to deliver 
+1. Avoid using absolutes 
+   * For Example: "You always." "You never show up to meetings on time.") 
+1. Feedback should be both positive and constructive 
+   * It is recommended to use a 4:1 ratio of positive to constructive 
+1. Use the [Situation-Behavior-Impact (S-B-I) Model](#s-b-i-model)
+1. Allow the feedback receiver time to reflect 
 
 ### Live Learning Session on Delivering Feedback 
 
@@ -228,19 +215,7 @@ Receiving feedback well is an important skill to have not just at work, but in l
    * Pitfall: Over-engineering or overdoing the response
 1. Make a decision 
    * What are the most impactful actions you can take - prioritize
-   * Who has what responsibility in follow up (i.e. giver/receiver)? Both.
-
-## Modeling a Culture of Feedback Manager Competency 
-
-In an all-remote organization, Managers model a culture of feedback that promotes ongoing feedback that happens throughout the year. Feedback does not have to wait until performance evaluations, it can happen anytime and in real-time. Managers can develop their people through positive and constructive forms of feedback. 
-
-**Skills and behavior of the modeling a culture of feedback manager competency:**
-
-- Solicits and is open to feedback
-- Promotes a culture of ongoing feedback that occurs any time of year and is done in real-time
-- Creates a welcoming environment for feedback and enables team members to value open discussions and debates where they continually learn from one another
-- Turns challenges into learning opportunities
-- Champions a team environment where feedback occurs all the time and is not done one or twice a year during performance review cycles 
+   * Who has what responsibility in follow up (i.e. giver/receiver)? Both. 
 
 ### Live Learning Session on Receiving Feedback 
 
@@ -267,8 +242,8 @@ _"Thank you First Last for helping to troubleshoot sessions on XYZ tickets so we
 _"Thank you First Last for helping to troubleshoot sessions on XYZ tickets so we could resolve them inside SLO. This really helps to make customers happier with our solutions and also helped our team to learn how to resolve things like this faster in the future."_
 
 ### What is "Recognition" Worthy?
-"What is worthy of recognition?" is a question we sometimes ask ourselves. The table below illustrates a few examples of recognition reasons and forms in which we can recognize each other synchronously and asynchronously. 
 
+"What is worthy of recognition?" is a question we sometimes ask ourselves. The table below illustrates a few examples of recognition reasons and forms in which we can recognize each other synchronously and asynchronously. 
 
 | What should team members be recognized for? | Async Recognition Examples | Sync Recognition Examples |
 | ------ | ------ | ------ |
@@ -287,18 +262,19 @@ At least quarterly, team members attend [Skip Level](/handbook/leadership/skip-l
 
 Recognition can be given in a variety of forums: 
 
-- Post a message in the #thanks channel for team member recognition
-- Share an update of the team member(s) recognition during the next team meeting
-- Highlight the recognition of the team members during a group conversation with the broader organization 
-- Showcase the recognition during an e-group meeting to executives
-- Consider a [discretionary bonus per team member](/handbook/incentives/#discretionary-bonuses-per-team-member/) as a form of superior recognition 
-- Managers can also recognize team members during 1-1 meetings
+1. Post a message in the #thanks channel for team member recognition
+1. Share an update of the team member(s) recognition during the next team meeting
+1. Highlight the recognition of the team members during a group conversation with the broader organization 
+1. Showcase the recognition during an e-group meeting to executives
+1. Consider a [discretionary bonus per team member](/handbook/incentives/#discretionary-bonuses-per-team-member/) as a form of superior recognition 
+1. Managers can also recognize team members during 1-1 meetings
+
+Managers should consider their team member's preference for how to recieve recognition when choosing what forum seems the most appropriate. 
 
 ### Beware Of Saying "Thank You" Too Much
 Take a moment to identify situations in which you or your team are saying "Thank You" to the same person or team **too often**. Recognition is essential, but if it becomes very frequent, it can start to be perceived as less sincere. 
 
 If the same team member or team is going above and beyond their job responsibility on a regular basis, the best way to say thank you is to recognize this pattern of overachievement. 
-
 
 ## Further Information
 
@@ -307,6 +283,16 @@ If the same team member or team is going above and beyond their job responsibili
 - [Difficult Conversations: How to Discuss What Matters Most](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - [The Culture Map](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507)
 - On 2018-02-15, we recorded a training on [Peer to Peer Feedback](https://www.youtube.com/watch?v=yzjAeu7RpU8&feature=emb_logo)
-
-## Helpful Tools
 - [Hofstede Country Comparison Tool](https://www.hofstede-insights.com/country-comparison/)
+
+## Modeling a Culture of Feedback Manager Competency 
+
+In an all-remote organization, Managers model a culture of feedback that promotes ongoing feedback that happens throughout the year. Feedback does not have to wait until performance evaluations, it can happen anytime and in real-time. Managers can develop their people through positive and constructive forms of feedback. 
+
+**Skills and behavior of the modeling a culture of feedback manager competency:**
+
+- Solicits and is open to feedback
+- Promotes a culture of ongoing feedback that occurs any time of year and is done in real-time
+- Creates a welcoming environment for feedback and enables team members to value open discussions and debates where they continually learn from one another
+- Turns challenges into learning opportunities
+- Champions a team environment where feedback occurs all the time and is not done one or twice a year during performance review cycles
