@@ -740,20 +740,37 @@ GitLab is contractually obligated to provide Partners with **30 days notificatio
 For all materials requiring legal review, please refer to the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process)
 
 The Channel Program team has a standard communication cadence and vehicles to deliver notifications to Partners. Please take into account the communication cadence and delivery dates below, we appreciate and encourage as much notification as possible to allow the team to prepare and schedule requests properly.   
- 
+
+ **News on Demand - Channel  Partner communication platform!** News on Demand is an add-on product to Impartner, which hosts the Partner Portal.   \
+NOD is used to communicate to Partners via targeted emails and the Partner Flash Newsletter. With NOD, we are able to deliver news that is relevant to the individual user. Partners can access news archives and as a contributor, you can add articles at any time. You do not have to stress about deadlines!
+
+**Partner Flash is 100% Targeted** - using groups, we can target the audience of each communication or email. \
+  \
+**Partner Flash is 100% Personalized**- Partners can choose topic preferences and delivery cadence. They can opt to receive the newsletter Daily, Weekly, Bi-Weekly or Monthly. Partners can also access Partner Flash via the “My News” tab in the Partner Portal. 
+
+**Everyone can Contribute!** - Anyone at GitLab can create a story or article for the newsletter! If you would like to be a contributor,[ click here](https://partnerflash.gitlab.com/registration/admin/personal_profile) to fill out the request form.  Once approved, navigate to the NOD **Home Page** to access training and helpful tips.  
+
 **Partner communication resources and standard delivery dates.** 
 
-* **[Partner Flash](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-flash-newsletter) Newsletter** - delivered to Partner users the 1st Thursday of the month (occasional exceptions due to holidays or other considerations.)  [Partner Flash example.](https://us19.admin.mailchimp.com/campaigns/show?id=6377336) 
+* **Partner Flash Newsletter** - delivered to Partner users on the **1st Thursday of the month** (occasional exceptions due to holidays or other considerations.) A Partner can elect to receive the newsletter daily, weekly, or bi-weekly. The majority of our Partners receive the newsletter Monthly. If you want to contribute an article, kindly submit it three days before publication.  
+* **Partner Webcast series** - At times, Channel Programs or Channel Leadership might host a Partner webcast to announce a program change or essential updates.  Channel Marketing hosts a monthly Marketing Webcast; other Channel facing teams might elect to host a Webcast for our Partners. 
+* **Partner Portal Notifications** - these alerts can go to all users or a subset; we do not find this a practical stand-alone communication vehicle. Using this notification to augment one of the above resources is more effective.
+* **Special Notifications via email** - using NOD we can create a one-off notification if there is an urgent need to communicate out-of-cycle announcements or send surveys or Partner SKO/Summit notifications.  \
 
-* **Partner Webcast series** - 1st Thursday of the month. To better support global time zones, we host Regional sessions sponsored by the Channel Program team and hosted by Channel leadership. The Program team will host a Program centric webcast once a quarter.   
 
-* **Partner Portal Notifications** - these alerts can go to all users or a subset of users. We do not find this a practical stand-alone communication vehicle. Using this notification to augment one of the above resources is more effective.   
+**How to get a hold of us:** If you have completed the [engagement process approvals](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#channel-program-engagement-process) or have any questions regarding if/how something should be communicated, please reach out to us via the **#Channel-programs-ops** Slack channel.
 
-* **Special Notifications** - we can create a one-off notification if there is an urgent need to communicate out of cycle announcements or send surveys, Partner SKO/Summit notifications.  
+**Partner Flash access** - anyone at GitLab can receive Partner Flash or contribute an article.  
 
-**How to get a hold of us:**
+* **Partners** - automatically signed up when approved and authorized via the Partner Portal.  If a Partner believes they do not have access please provide the user detail: first and last name, email address, and company name in the** #Channel-programs-ops** Slack channel, and we will investigate.  Typically we find the Partner has inadvertently opted out of communications.  \
 
-**After you have completed the [engagement process approvals](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#channel-program-engagement-process), if you have any questions regarding if/how something should be communicated, please reach out to us via the #channel-programs-ops slack channel.**
+* **Internal teams must self-register to receive Partner Flash and Partner Email communications.**
+    * Use [this link](https://partnerflash.gitlab.com/login/) to register; it's pretty straightforward, but check out [these instructions](https://docs.google.com/presentation/d/1iX23o0N-G25GXfBs82JsmvLw-7Bc0_8e6Cva1o81hX0/edit#slide=id.g127a0ca15c9_0_266) if you need assistance.
+    * Important:Use your GitLab email address - not a personal address.
+    * Select GitLab employee in the drop-down for "Company Type".
+    * Once registered, you will receive an email with instructions on how to edit your communication preferences. \
+
+* **Become a Contributor**- If you want to be a contributor,[click here](https://partnerflash.gitlab.com/registration/admin/personal_profile) and fill out the request form.  Once approved, navigate to the NOD **Home Page**or [click here](https://docs.google.com/presentation/d/1YMMQGTk1fhEDLtFAHkrMeIsIbHIYLX3O/edit?usp=sharing&ouid=109735377270454778513&rtpof=true&sd=true) to access training and helpful tips.  
 
 
 ## **Partner Flash Newsletter**
@@ -766,14 +783,14 @@ Partner Flash is a monthly newsletter that recaps important Partner-related info
 
 ### Target Audience
 
-The newsletter is sent to authorized users in our Partner community, the list is gathered and updated from the Partner Portal, new users are added or you can self serve by going to [this link.](https://gitlab.us19.list-manage.com/subscribe?u=5a5f55e4e0f03037d96416766&id=f3c28dda97)
+The newsletter is sent to authorized users in our Partner community, the list is gathered and updated from the Partner Portal, new users are added automaticly.
 
 
 ### Opportunities/Requirements
 
 The newsletter will…
 
-**Uphold our **[values](https://about.gitlab.com/handbook/values/) of transparency**
+**Uphold our** [values](https://about.gitlab.com/handbook/values/)of transparency and allow anyone to contribute**
 
 
 
@@ -827,9 +844,9 @@ The newsletter will…
 
 *   The newsletter will include general updates and resources that are applicable to most, if not all, Partners. I
 *   **Be built out in the open**
-*   The newsletter content will be compiled in an issue each month within the [Partner Communication project.](https://gitlab.com/groups/gitlab-com/channel/-/epics/5) Any team member is welcome to contribute or make requests. See more information in the Process section below.
+*   The newsletter content will be compiled using the News On Demand platform. Any team member is welcome to contribute or make requests. See more information in the Process section below.
 
-**Uphold our value of "everyone can contribute" – we will measure success and gather Partner feedback often.**
+**Uphold our value of "everyone can contribute" we will measure success and gather Partner feedback often.**
 
 
 
@@ -840,43 +857,53 @@ The newsletter will…
 
 ### Format
 
-Based on the requirements above, this is the first iteration of the newsletter format:
+**Partner Flash -  Sections, descriptions, and _News Type_**
 
+**Top News** - Important announcements (Program Changes)  or reminders (Example: Register for Partner Summit or SKO) we should have only ONE item in this category.  \_News type: Programs, Product, Marketing, Certifications _
 
+**New and noteworthy resources** - Secondary announcements - services program, new training, significant Partner resources  \
+_News Type: Programs, Product Updates_
 
-1. Featured
-    *   The announcement we think is most impactful to our Partners he field. We will try to communicate this in an image with 1-2 lines of text + 1-2 links to references.
-2. Enablement Extras
-    *   Updates on new or updated training + opportunities to reinforce SKO learning objectives. (i.e. Did you know…?/Did you remember that…?)
-    *   Competitive information
-    *   Messages from our Leadership teams
-3. New and noteworthy resources
-    *   Link to that month’s Partner Webcast series
-    *   GitLab whitepapers, reports or studies that might help a Partner advance an opportunity through the sales cycle.
-4. Partner Deal of the month (or Deal of the Month if appropriate to share)
-    *   Video of sales/CS team member(s) overviewing the opportunity and/or customer and explaining how they won the deal + links to any customer-facing collateral they used (that can be publicly shared).
-5. What's new in GitLab
-    *   The top 3 takeaways from the latest GitLab release, mapped to one of the three value drivers and framed in the context of the customer value.
+**Did You Know?** - GitLab highlights or awards (Gartner Report) _Product _updates or use cases  \
+News Type: _Corporate & Industry news_
+
+**Tech Talk** - Technical content  \
+_News Type: technical, product_
+
+**Enablement Extras** - Provides competitive info for sales or information to assist in the sales process.  \
+_News Type: Product, Sales _
+
+**Marketing & More** - Highlights from the Channel Marketing team.  \
+_News type: Marketing_
+
+**What's new in GitLab?** - Reviews highlights of the latest GitLab release  \
+_News Type: Product_
+
+**Events & Announcements** - Highlighted events or webcasts for Partners. \
+_News Type: Events_
+
+**News from our Distributors** - any specific Disi notifications or events
+
+**Team Member Spotlight** - Highlights a Channel Team Member 
+
+**(NEW!) In Case You Missed It** - Highlight an important topic from the Partner Webcast or special announcement with link to any video or recording. \ 
+_News Type: Product, Program, Technical, Sales_
+
+**(NEW!) Partner Success!** - Partner Services success story to include: Customer problem, Partner solution, Outcome - also to be shared in Field Flash.   \
+_News Type: Sales, technical, product_
+
+**Links we love (as a footer)  \
+[GitLab Partner Handbook](https://about.gitlab.com/handbook/resellers/#program-requirements-and-benefits)**
+
+**[Events Calendar (from Impartner)](https://partners.gitlab.com/English/Partner/prm/events.aspx)**
 
 
 ### Process
 
-The newsletter is sent out **on the first Thursday of each month after our Partner Webcast series has concluded.** We can adjust delivery based on feedback from the field, holidays or timing of a Partner focused update (pricing).
+The newsletter is sent out **on the first Thursday of each month.** 
 
-We build the newsletter in an issue in the [Partner Communication project.](https://gitlab.com/groups/gitlab-com/channel/-/epics/5)The process for the issue includes:
+We build the newsletter using the News On Demand platform, to request to be a contributor please follow the instructions in the Partner Communications. 
 
-
-
-*   The issue for each month's newsletter is opened at the beginning of each quarter.
-*   Relevant stakeholders/contributors are tagged in the issue each month to provide content or review suggested content in the outline.
-*   Once the outline is complete, the content is imported into the newsletter template in MailChimp.
-*   Partner Program Manager sends the newsletter test email to relevant leaders and stakeholders for review no more than two business days before planned send date.
-*   Reviewers provide feedback no later than 3 pm MT on the business day before the planned send date to allow time for revisions and scheduling.
-*   Partner Program Manager schedules the newsletter to send on the planned send date.
-*   Once the newsletter goes live, Partner Programs Manager sends a reminder to the field in the #sales, #customer-success and #sdr_global Slack channels
-*   On the Friday following the newsletter send, Partner Program Manager captures the newsletter performance data in the issue and then closes it.
-
-To be added to the newsletter distribution list, [use this signup form.](https://gitlab.us19.list-manage.com/subscribe?u=5a5f55e4e0f03037d96416766&id=2321e18463) **Measurement**
 
 Quantitative Success Metrics
 
@@ -893,20 +920,6 @@ Qualitative Success Metrics
 *   Usefulness of newsletter content as shown by other stakeholders using newsletter content for their own work.
 *   Improve the Partner section of the Handbook and the Partner Portal as a result of work on the newsletter.
 
-
-### Past Newsletters
-
-05/07/2020 - [We're Live! Our First Edition of Partner Flash.](http://eepurl.com/g2ds61)
-
-06/04/2020 - [Partner Flash Top Partner Highlights for June](http://eepurl.com/g3JFzn)
-
-07/06/2020 - [GitLab Partner Flash: July Edition](http://eepurl.com/g8hRIT)
-
-08/12/2020- [GitLab Partner Flash: August Edition](https://us19.campaign-archive.com/?u=5a5f55e4e0f03037d96416766&id=188338fd09)
-
-Additional newsletters can be found [here.](https://us19.campaign-archive.com/home/?u=5a5f55e4e0f03037d96416766&id=2321e18463)
-
-Additional newsletters can be found [http://eepurl.com/g8hRIT](http://eepurl.com/g8hRIT)
 
 
 ## **Channels groups, projects, and labels**
@@ -931,12 +944,6 @@ Additional newsletters can be found [http://eepurl.com/g8hRIT](http://eepurl.com
 
 *   Create issues under the “Channels” project
 
-**Epics**
-
-
-
-*   From FY21 Q3 - OKRs will be formed as EPICs and issues related to that Epic should be associated
-*   Broad initiatives will have EPICs with several issues to support that project
 
 **Labels**
 
@@ -962,13 +969,5 @@ Additional newsletters can be found [http://eepurl.com/g8hRIT](http://eepurl.com
 
 **DRI** To be stated in intro of issue and assigned to that person. There maybe 1 or more assignee but the DRI should be stated intro of issues
 
-**Milestones**
 
-
-
-*   Milestones are within 2 week windows
-*   Channel - FY2xQxM(month#)a (1st-15th) or b(16th-30th),
-*   Like this: Channel - **FY21Q2 3a**
-
-**Due Dates** What is the expected due date of completion or NBA (next best action - next key iteration and should be mentioned in the issue)?
 
