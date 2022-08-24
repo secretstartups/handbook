@@ -23,7 +23,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 1. On the left hand panel, click on **Epics**, then select your first epic for **InnerSourcing Project** 
 2. Once the epic is open, in the **Epics and Issues** section, on the right, click the **Add** drop down menu and select **Add an existing epic** and paste the URL from your second epic (InnerSourcing Developer Work) to add it as a Sub-Epic.  
 3. Click the **New epic** button and in the **Title** field, type `InnerSourcing Marketing Work` and click **Create epic**.  
-4. In the Comment Field, use a quick action to add this epic to the Parent epic. Type `/parent\_epic <[&1​]>` and then select **InnerSourcing Project** from the drop down that appears.  
+4. In the Comment Field, use a quick action to add this epic to the Parent epic. Type `/parent_epic <[&1​]>` and then select **InnerSourcing Project** from the drop down that appears.  
 5. Click the **Comment** button. 
 
 ### Tie an Issue to an Epic 
