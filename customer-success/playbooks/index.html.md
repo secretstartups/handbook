@@ -43,7 +43,7 @@ Customer Success playbooks assist in selling, driving adoption, and ultimately d
 - **Event/Lifecycle**: Lifecycle-based and typically scheduled events. Examples include onboarding, EBRs, and success planning.
 - **Opportunity/Expansion**: Enablement/Expansion which is tied to revenue and/or product growth. Examples include stage adoption and uptiering.
 - **Objectives**: Tied to Success Plans and can only be created in C360 > Success Plans section.
-- **Activity**: Tied to 360 Timeline Activities. Activity is generally used as the default CTA type for CTAs created from the Timeline feature automatically. Users can also create CTAs of this type from the Cockpit page. Example includes account handoff AND update stale TAM sentiment.
+- **Activity**: Tied to 360 Timeline Activities. Activity is generally used as the default CTA type for CTAs created from the Timeline feature automatically. Users can also create CTAs of this type from the Cockpit page. Example includes account handoff.
 - **Digital Journey**: Represents the Customer Digital Journey content. Examples include digital onboarding and adoption email series.
 
 ## Catalog of Playbooks
