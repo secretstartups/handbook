@@ -294,7 +294,7 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 | Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days)         | Soft       | Family and Friends Days                   |
 | 2022-07-01         | Hard       | [CI Decomposition](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/)                   |
 | 2022-07-04         | Soft       | [CI Decomposition](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/)                   |
-| 2022-09-02         | Hard       | [DB OS Upgrades](https://about.gitlab.com/blog/2022/08/12/upgrading-database-os/)                  | 
+| 2022-09-01 23:00 UTC -> 2022-09-02 23:59 UTC | Hard       | [DB OS Upgrades](https://about.gitlab.com/blog/2022/08/12/upgrading-database-os/)                  | 
 | 2022-09-05         | Soft       | [DB OS Upgrades](https://about.gitlab.com/blog/2022/08/12/upgrading-database-os/)                  |
 
 There are 2 types of PCLs: soft and hard.
