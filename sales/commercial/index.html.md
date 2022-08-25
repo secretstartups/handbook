@@ -20,7 +20,7 @@ The Commercial Sales department is part of the overall [GitLab Sales](/handbook/
 
 - SMB Account Executives
 - Mid Market Account Executives
-- Area Sales
+- Area Sales Managers
 
 ## Getting Started as a New Hire
 
