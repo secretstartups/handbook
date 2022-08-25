@@ -27,25 +27,26 @@ This [SQS 2022 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 
 
 
-### SQS 27 - August 2022
+### SQS 28 - September 2022
 
 * Workshop times quoted are United States Eastern Daylight Time (Atlanta, Georgia) (UTC -4)
 
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
-|August 5, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement    |
-|August 10, 2022 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement   |
-|August 10, 2022 | 11:30a ET | 12:50p ET | Value Card Exercise | Field Enablement  |
-|August 11, 2022 | 09:30a ET | 10:50a ET | Discovery Question Exercise | Field Enablement   |
-|August 12, 2022 | 09:30a ET | 10:50a ET | Differentiator Exercise | Field Enablement   |
-|August 15, 2022 | 09:30a ET | 10:50a ET | MEDDPPICC & Breakout Call Prep | Field Enablement   |
-|August 15, 2022 | 11:00a ET | 11:30a ET | Field Security |  Field Security Team   |
-|August 16, 2022 | 10:00a ET | 10:50a ET | Discussion: Professional Services | Professional Services Team  |
-|August 16, 2022 | 11:00a ET | 11:50a ET | Alliances | Alliances Team  |
-|August 17, 2022 | 11:00a ET | 11:40a ET | Legal / Deal Desk | Legal & Deal Desk Team  |
-|August 17, 2022 | 12:00p ET | 12:50p ET | Discovery Call 1 | Mock Customers  |
-|August 18, 2022 | 10:00a ET | 10:50a ET | Channels |  Channel Team   |
-|August 18, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
-|August 19, 2022 | 10:00a ET | 10:50a ET | Discovery Call 3 | Mock Customers |
+|September 9, 2022 | 11:00a ET | 12:00p ET | Welcome Call | Field Enablement    |
+|September 12, 2022 | 10:30a ET | 11:50a ET | Essential Questions Exercise | Field Enablement   |
+|September 13, 2022 | 10:30a ET | 11:50p ET | Value Card Exercise | Field Enablement  |
+|September 15, 2022 | 10:30a ET | 11:50a ET | Discovery Question Exercise | Field Enablement   |
+|September 16, 2022 | 10:30a ET | 11:50a ET | Differentiator Exercise | Field Enablement   |
+|September 16, 2022 | 12:00p ET | 1:50p ET | MEDDPPICC & Breakout Call Prep | Field Enablement   |
+|September 19, 2022 | 10:30a ET | 11:00a ET | Field Security |  Field Security Team   |
+|September 19, 2022 | 12:30p ET | 1:20p ET | Alliances | Alliances Team  |
+|September 20, 2022 | 10:00a ET | 10:50a ET | Discussion: Professional Services | Professional Services Team  |
+|September 20, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
+|September 21, 2022 | 11:00a ET | 11:40a ET | Legal / Deal Desk | Legal & Deal Desk Team  |
+|September 21, 2022 | 12:00p ET | 12:50p ET | Discovery Call 2 | Mock Customers |
+|September 22, 2022 | 10:00a ET | 10:50a ET | Channels |  Channel Team   |
+|September 22, 2022 | 11:00a ET | 11:50a ET | Discovery Call 3 | Mock Customers |
+|September 23, 2022 | 10:30a ET | 11:20a ET | Intro to the Competition | Competitive Intelligence |
 
 
