@@ -88,7 +88,8 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
   - [Family Friendly Workplace Ordinance](https://sfgov.org/olse/sites/default/files/FileCenter/Documents/11256-FFWO%20Official%20Notice.pdf)
   - [Paid Parental Leave Ordinance](https://sfgov.org/olse/sites/default/files/2020%20parental%20leave%20poster%20Print.pdf)
   - [Salary History Ordinance](https://sfgov.org/olse/sites/default/files/Document/Consideration%20of%20Salary%20History%20Poster%20upload.pdf)
-    - [COVID-Related Employment Protections](https://sfgov.org/olse/sites/default/files/CEPO%20Poster%20-%20March%202021.pdf)
+  - [COVID-Related Employment Protections](https://sfgov.org/olse/sites/default/files/CEPO%20Poster%20-%20March%202021.pdf)
+  - [Public Health Emergency Leave](https://sfgov.org/olse/sites/default/files/Public%20Health%20Emergency%20Leave%20Poster%207.2022.pdf)
 
 ### Colorado
 * [Anti-Discrimination Laws](https://drive.google.com/file/d/1DzCt-JBN0zMdaet0MQrWTIz7TEOOYQV-/view)
