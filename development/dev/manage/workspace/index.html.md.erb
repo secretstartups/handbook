@@ -12,6 +12,18 @@ title: "Workspace Group"
 ### Manage:Workspace
 {: #welcome}
 
+#### What makes us different?
+
+The Workspace group is a central piece to the GitLab product! While many groups focus on single area - like the repository view, or the merge request view, this group has a much broader impact on many areas. Because of this, there are some key topics that we keep on our mind more than other groups might:
+
+**Security issues**
+
+As properly showing hierarchy to users - which projects/groups they have access to - is our responsibility, we need to solve any security issue connected to that. We closely watch new security issues and schedule them as quickly as possible based on their [due date](/handbook/engineering/security/#due-date-on-security-issues). 
+For planning security issues we use [the (filtered) milestone planning issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/3635888?label_name[]=group%3A%3Aworkspace&label_name[]=security). We expect all team members to be able to resolve security issues.
+
+**Scale**
+
+Because the hierarchy in GitLab, specifically on GitLab.com, can get complicated - and querying memberships can be an expensive operation, we should always thinking about the scalability of our solutions to make sure we are offering our users optimal experience when using our product. 
 
 ### How we work
 
@@ -23,6 +35,27 @@ title: "Workspace Group"
 * We do an optional, asynchronous daily stand-up in our respective group stand-up channels:
   * Manage:Workspace [#g_manage_workspace_daily](https://gitlab.slack.com/archives/C02J4GTP38A)
 
+#### With our counterparts
+
+You are encouraged to work as closely as needed with stable counterparts. We include quality engineering and application security counterparts prior to a release kickoff and as-needed during code reviews or issue concerns.
+
+Quality engineering is included in our workflow via the [Quad Planning Process](/handbook/engineering/quality/quality-engineering/quad-planning/) and is responsible for bug prioritization during release planning. They are also the DRI when it comes to adding new [end-to-end tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/), though anyone can contribute. Here are some examples of when to engage with your counterpart:
+- [Seeking Quality's opinion if an MR would introduce flakiness in existing end-to-end tests](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/92333#note_1033648348)
+- [You need help deciding the best way to fix a test](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/93467#note_1042495993)
+- [Guidance on setting up your local environment to properly test](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/56923#note_541368575)
+
+Application Security will be involved in our security issue workflow and should participate in other feature, bug, or maintenance issues before they are scheduled if we need to notate any concerns or potential risks that we should be aware of. Here are some examples of engaging with your counterpart:
+- [If you want to confirm whether something should be kept confidential](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/merge_requests/1110#note_1038994941)
+- [Confirming whether or not something is considered a vulnerability](https://gitlab.com/gitlab-org/gitlab/-/issues/364526#note_1041178738)
+- [Collaborating on feature proposals to see if they have any security implications](https://gitlab.com/gitlab-org/gitlab/-/issues/227841#note_1025940760)
+
+#### Keeping yourself informed
+
+- [Subscribe to these company Slack channels](/handbook/marketing/strategic-marketing/getting-started/communication/#read-all-of)
+- [Review the `#eng-week-in-review` weekly](/handbook/engineering/#keeping-yourself-informed)
+- Other channels of interest are `#team-member-updates`, `#sd_dev_engineering`, `#vp-development`, `#ceo`, `#cto`
+- We create a weekly issue to inform the team members about the company or team updates, to share important links or to be informed about the team availability. Creation of the issue is the responsibility of an Engineering Manager, who can use an issue template located in the [Manage/Workspace repo](https://gitlab.com/gitlab-org/manage/manage-workspace/discussions).
+All weekly updates can be found in the project issue list [filtered by weekly update label.](https://gitlab.com/gitlab-org/manage/manage-workspace/discussions/-/issues/?sort=due_date&state=opened&label_name%5B%5D=weekly%20update&first_page_size=20)
 
 #### Capacity Planning & Estimation
 
@@ -70,6 +103,8 @@ Between when the planning issue is created and when it gets finalized, [everyone
 1. `workflow::in review` - a merge request has been submitted and reviews have been requested
 1. `workflow::verification` - the work has merged, and needs to be verified by the assignee
 
+Issues that were labeles with ~milestone::p1 are the priorities for this milestone. They should be worked immediately during the milestone to ensure they are finished and deployed on time. 
+
 ### Working on unscheduled issues
 
 With the combination of our capacity planning (EM) and estimation (IC) processes above, engineers should have free time to work on ~"Stuff that should just work" or other topics that interest them. If an unscheduled issue should really be prioritized, bring it up in a planning issue or ask your manager to reduce your capacity further.
@@ -82,14 +117,8 @@ With the combination of our capacity planning (EM) and estimation (IC) processes
 
 ## Meetings
 
-Although we have a bias for asynchronous communication, synchronous meetings are necessary and should adhere to our [communication guidelines](/handbook/communication/#video-calls). Some regular meetings that take place in Manage are:
-
-| Frequency | Meeting                              | DRI         | Possible topics                                                                                        |
-|-----------|--------------------------------------|-------------|--------------------------------------------------------------------------------------------------------|
-| Weekly    | Group-level meeting                  | Engineering Managers | Ensure current release is on track by walking the board, unblock specific issues                       |
-| Monthly   | Planning meetings                    | Product Managers         | See [Planning](/handbook/engineering/development/dev/manage/#planning) section |
-
-For one-off, topic specific meetings, please always consider recording these calls and sharing them (or taking notes in a [publicly available document](https://docs.google.com/document/d/1kE8udlwjAiMjZW4p1yARUPNmBgHYReK4Ks5xOJW6Tdw/edit)).
+Although we have a bias for asynchronous communication, synchronous meetings are necessary and should adhere to our [communication guidelines](/handbook/communication/#video-calls). We are focusing on one-off, topic specific meetings. 
+Please always consider recording these calls and sharing them (or taking notes in a [publicly available document](https://docs.google.com/document/d/1kE8udlwjAiMjZW4p1yARUPNmBgHYReK4Ks5xOJW6Tdw/edit)).
 
 Agenda documents and recordings can be placed in the [shared Google drive](https://drive.google.com/drive/u/0/folders/0ALpc3GhrDkKwUk9PVA) (internal only) as a single source of truth.
 
