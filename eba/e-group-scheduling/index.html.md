@@ -14,13 +14,14 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 
 ## Scheduling for Michael McBride, Chief Revenue Officer
 
-* All meeting requests routed through the EBA to the CRO & CoS and are scheduled through her.
+* All meeting requests routed through the EBA to the CRO.
 * Prefers “appropriate length” conversations, so short meetings are okay on the calendar.  If a topic only needs 10 mins, book 10 mins instead of 30, etc.
-* Include Meeting Agendas in invites / make sure the team knows to include this with requests for time.
-* Flexible with late evening calls for Asia or Australia - check with him first.
+* Include Meeting Agendas in invites / make sure the team knows to include this with requests for time (excluding coffee chats).
+* Flexible with late evening calls for Asia or Australia - check with him or Sr. EBA first.
 * Add pre-emptive blocks in calendar that can be used for meetings or calls.
-* Schedule three 30 minute blocks a day for work time - title “workflow”. This is time for email follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that it can still happen.
-* For First Order Sourced Thank You Note Requests, please comment with the following [in this issue](https://gitlab.com/gitlab-com/channel/channels/-/issues/625): Partner Name, Exec Sponsor Name, Exec Sponsor Email, Emails of anyone who should be copied on the email, Email Subject, Email Draft [sample email doc](https://docs.google.com/document/d/1cJRBniVQhURxq0VzeE-2wA7ai6wW_vFIwWNTI_KRivY/edit?usp=sharing) and tag @cheriholmes
+* Add pre-emptive blocks in calendar that can be used for catch-up and To-Do items - label these blocks as 'workflow'. 
+* For First Order Sourced Thank You Note Requests, please comment with the following [in this issue](https://gitlab.com/gitlab-com/channel/channels/-/issues/625): Partner Name, Exec Sponsor Name, Exec Sponsor Email, Emails of anyone who should be copied on the email, Email Subject, Email Draft [sample email doc](https://docs.google.com/document/d/1cJRBniVQhURxq0VzeE-2wA7ai6wW_vFIwWNTI_KRivY/edit?usp=sharing) and tag @cholmes & @aschrauth
+
 
 
 ## Scheduling for Cheri Holmes, Chief of Staff to the CRO
