@@ -12,7 +12,7 @@ Executive Business Administrator's at GitLab toggle seamlessly between various s
 
 ### Executive Business Administrator (Associate) 
 
-Executive Business Administrators (Associate) typically report to a Sr. Executive Business Adminstrator in their Division. 
+Executive Business Administrators (Associate) typically report to a leader they support. 
 
 #### Executive Business Administrator (Associate) Job Grade
 
@@ -59,7 +59,7 @@ The Executive Business Administrator is a [grade 5](/handbook/total-rewards/comp
 
 ### Executive Business Administrator (Intermediate)
 
-Executive Business Administrators (Intermediate) typically report to the Sr. Executive Business Adminstrator in their Division. Some may report directly to their leaders.
+Executive Business Administrators (Intermediate) typically report to directly to a leader they support. 
 
 #### Executive Business Administrator (Intermediate) Job Grade
 
@@ -82,6 +82,7 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 * Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
 * Provide general project support as needed including ad-hoc reporting
 * Provide coverage for other E-Group EBA's
+* Contributes to broader EBA community by building strong cross functional relationships with other EBAs
 
 #### Executive Business Administrator (Intermediate) Requirements
 
@@ -108,7 +109,7 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 
 ### Senior Executive Business Administrator
 
-Senior Executive Business Administrators who support an E-Group member report directly to their leader.
+Senior Executive Business Administrators who support an E-Group member report directly to their leader or to the Chief of Staff for their Division (if applicable).
 
 #### Senior Executive Business Administrator Job Grade
 
@@ -116,7 +117,7 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 
 #### Senior Executive Business Administrator Responsibilities
 
-* Support members of our Executive Group [E-Group](https://about.gitlab.com/company/team/structure/#e-group) or [All-Direct Leadership](https://about.gitlab.com/company/team/structure/#all-directs) across various time-zones
+* Support members of our Executive Group [E-Group](https://about.gitlab.com/company/team/structure/#e-group) or [CEO-Skips Leadership](https://about.gitlab.com/company/team/structure/#ceo-skips) across various time-zones
 * Own and proactively manage a complex, changing, high-volume calendar across multiple time-zones. Ensure Executive is preppared for every meeting
 * Make recommendations for the Executive in regard to their time management, prioritization, delegation and organization
 * Seamlessly coordinate extensive domestic and international travel including air and ground transportation, hotel reservations, security, visas and other travel documentation. Accompanying the Executive when necessary
@@ -131,6 +132,7 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 * Run and lead special projects upon request
 * Must be able to work flexible hours to support international business meetings and some travel is required in most roles
 * Other duties as assigned in support of the business (ad hoc tasks)
+* Contribute to the broader EBA community by sharing learnings, resources, and supporting EBA team camaraderie 
 
 #### Senior Executive Business Administrator Requirements
 
@@ -216,6 +218,7 @@ The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/t
 * Work flexible hours to support global business meetings; some travel is required
 * Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
 * Other duties (and ad hoc tasks) as assigned in support of your executive and business
+* Contribute to the broader EBA community by sharing learnings, resources, and mentoring other EBAs as appropriate
 
 #### Staff Executive Business Administrator to the CEO Requirements
 
