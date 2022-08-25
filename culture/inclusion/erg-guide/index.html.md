@@ -149,7 +149,7 @@ A mission statement is the simplest and clearest way to explain the purpose of y
 
 As with all GitLab business, we want to dogfood our own product. As such, you should consider creating a GitLab project to manage discussions in issue and
 update the repo with mission statement, events, and the like. You should create the repo in the [`gitlab-com`](https://gitlab.com/gitlab-com) group. To see
-a project in action, you can check out the [GitLab Pride project](https://gitlab.com/gitlab-com/pride-erg).
+a project in action, you can check out the [GitLab Pride project](https://gitlab.com/gitlab-com/pride-tmrg).
 
 ### Create a Google group
 
