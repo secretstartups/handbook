@@ -27,7 +27,7 @@ This a pilot program with the view to extending to other underrepresented groups
 - A Senior Leader at a minimum [job grade 10+](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#job-grades) and is not the sponsees direct manager.
     - The senior leader should be a People Manager or Manager of Managers
 - Must have been at GitLab for 6+ months
-- Be able to commit to a 6 month sponsorship program which will include
+- Be able to commit to a 9 month sponsorship program which will include
     - Sponsor Training
     - Kick-off calls
     - Bi-weekly 1-1 with Sponsee
@@ -56,7 +56,7 @@ This a pilot program with the view to extending to other underrepresented groups
 ** A Sponsee at GitLab will be (Pilot Program Only):**
 - Be performing in your role in accordance with your managers expectations, which take into account performance exercises such as 9 box and not on a Performance Improvement Plan
 - Be a part of the underrepresented group the sponsorship program is targeted at. (Black Team Members in Sales)
-- Be able to commit to 6 months within the program
+- Be able to commit to 9 months within the program
 - Willing to commit to the overall expectations of the program as outlined throughout the handbook page
 
 ** As a Sponsee you should be:**
