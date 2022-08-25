@@ -15,7 +15,7 @@ description: "CRO Career Development Day is a direct result of the feedback we r
 ## CRO Career Development Day
 The CRO team will dedicate an entire day to particpate in workshops and round table discussions to help all team members plan their career path.  In addition to using the day to learn, engage, and plan with peers and managers, each team member will have a written and agreed career plan built in collaboration with their manager. This includes both long term objectives as well as near-term milestones, goals, and key capabilites to learn.
 
-###FY23 Date - September 14th 
+### FY23 Date - September 14th 
 
 ### Opening session
 The opening session will feature an interactive conversation with our CRO covering the following:
