@@ -2,7 +2,7 @@
 layout: markdown_page
 title: "Diversity, Inclusion & Belonging Sponsorship Pilot Program"
 description: "A page for the Sales Sponsorship Pilot Program"
-canonical_path: "/company/culture/inclusion/dib-sponsorship-program"
+canonical_path: "/company/culture/inclusion/dib-sponsorship-program/"
 ---
 
 ## Sales Sponsorship Pilot Program
