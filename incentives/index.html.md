@@ -396,6 +396,13 @@ All events should include at least *4 people.* Please ensure the activity is one
 
 Please list any events or activities in our [shared event planner](https://docs.google.com/spreadsheets/d/1cCuzXhBIpMInn30-ZD1XCcNnv21CwsmsA9TorW03d7Q/edit?usp=sharing), so all team members have the chance to opt in. Local or event/activity specific Slack channels can be used for organization.
 
+When traveling and attending the event, please:
+- Use "Conference" PTO in PTO by Roots to mark your plans timeframe.
+- Change your GitLab status to reflect that you are not available for work. 
+- Make sure your manager and your team is aware of your plans.
+
+Everyone is encouraged to plan their Visiting Grant activities according to our [Flexible PTO](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) policies.
+
 ##### Spending caps
 
 Team members are expected to manage their individual expenses and adhere to expense caps. If events are centrally organized, coordinators should be clear with team members on how much of their FY23-Q3 allocation is going to the event. Team members are responsible for [spending company money like its their own](/handbook/spending-company-money/#guidelines) and not exceeding their individual budgets.
