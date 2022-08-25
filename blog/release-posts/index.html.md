@@ -1008,7 +1008,16 @@ The most relevant features of the release are included in the post by [product m
 
 The top feature of the release is mentioned right after the MVP section, prior to other primary features. An image or video and documentation links are required. The [TW lead](#tw-lead) will pay close attention to the content of this item, as it is the "headline" feature for the release and it's especially important to get it right.
 
-If you would like a feature to be considered for a `top` feature, reach out to the VP of Product and the Release Post Manager on Slack in #release-post by the 15th of the month. Let them know which feature you want considered by linking to the release post item MR. The release post manager will provide the VPP with a list of all `primary` features in the current release and make a recommendation for the `top` feature. The VPP will make their selection, or if no feedback is provided, the release post manager will choose the `top` feature.
+If you would like a feature to be considered for a `top` feature, reach out to the VP of Product and the Release Post Manager on Slack in #release-post by the 15th of the month. Let them know which feature you want considered by linking to the release post item MR.
+
+The release post manager will provide the VPP with a list of all `primary` features in the current release and make a recommendation for the `top` feature. The VPP will make their selection, or if no feedback is provided, the release post manager will choose the `top` feature.
+
+To specify the top feature, change `primary` to `top` in the selected feature's release post item `.yml` file:
+
+```yaml
+features:
+  top:
+```
 
 #### Primary features
 
