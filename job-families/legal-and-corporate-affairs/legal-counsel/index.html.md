@@ -229,6 +229,14 @@ The Legal Counsel, Commercial reports directly to the Director of Legal, Commerc
 * Work closely with members of the Legal team to develop and improve applicable standardized forms, processes, and procedures
 * Perform risk analysis review for all contractual documents and recommend mitigating options
 
+## Public Sector (United States)
+
+* Engage with customers at defense, intelligence, public safety, civilian, military health, state, local and educational organizations.
+* Act as the primary contact between the Public Sector project team and/or business unit and Commercial Legal, ensuring that all contractual and legal matters are addressed efficiently and promptly.
+* Counsel Public Sector Sales Team Members and Leadership and other key stakeholders on a variety of federal, state and local regulations, licensing and commercial item legal topics, including the following areas: GSA contracting, FAR/DFARS, federal, state and local procurement regulations, FedRAMP, FOCI requirements, managing security clearances, and similar government operational requirements.
+* Develop and iterate the Commercial Legal team's commercial strategy to scale with Public Sector division growth.
+* Keep current on federal, state and local contracting and subcontracting compliance requirements.
+
 ## Performance Indicators
  
 ### Legal Counsel (Privacy and Product)
