@@ -296,11 +296,13 @@ member from day one. The group becomes an immediate source of information,
 support and psychological safety as the new team member slowly integrates into
 GitLab and the global Support Team.
 
-The regional SGG DRIs are responsible for assigning new team members to groups.
-The DRIs incorporate many factors such as skills, skill levels, areas of focus,
-representation and so on, into maintaining a balance across the groups as they
-assign new team members. When a new group is needed in order to make room for a
-new team member, the group will be formed with a mix of experienced and new SEs.
+The hiring manager is responsible for assigning the new team member to a group.
+They should work with their regional SGG DRI to incorporate into the decision
+many factors such as skills, skill levels, areas of focus, geography,
+representation and so on. This is important for maintaining a balance across
+all groups as new team members are added. When a new group is needed in order
+to make room for a new team member, the group will be formed with a mix of
+experienced and new SEs.
 
 In selecting an onboarding buddy for the new team member, the hiring manager is
 free to choose any appropriate person either in or out of the assigned group.
