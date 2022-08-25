@@ -325,7 +325,6 @@ Dual career tracks can be added to each job family (regardless of division) when
 | 12    | VP              |                                 |
 | 11    | Senior Director |	                                |
 | 10    |	Director	      |                                 |
-| 9.5   |                 |                                 |
 | 9	    | Manager (Sales) <br> Senior Manager (Sales)        |         	                      |
 | 8	    | Manager (Demand Generation)                |	Enterprise    |
 | 7			|                 | Mid Market                      |
