@@ -115,7 +115,12 @@ GitLab's Data Science team has created two [propensity models](/handbook/custome
 - The Propensity to Expand, or PtE, determines which accounts are likely to expand their ARR by more than 10% in the next 3 months.
 - The Propensity to Churn, or PtC, determines which accounts are likely to reduce their ARR by more than 10% or churn entirely within the next 6 months.
 
-More information about these models can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/), and the actual results can be found in both Gainsight and Salesforce.
+To learn more about the propensity models, please review our internal Highspot pages:
+- [Propensity Models Training Slide Deck](https://gitlab.highspot.com/items/62fbb4841c921b820c9e921a#4)
+- [Propensity Models Training Video](https://gitlab.highspot.com/items/62fab2b55ca565fa2ce67a8e)
+- [Propensity Models Internal Handbook Page](https://gitlab.highspot.com/items/62fab0ddc28c6afb3739d32b)
+
+Actual results for accounts can be found both on customer accounts and dashboards in Salesforce as well as dashboards in Gainsight.
 
 ### Pillars of Success
 
