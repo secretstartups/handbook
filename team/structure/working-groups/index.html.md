@@ -155,6 +155,7 @@ If you are interested in participating in an active working group, it is general
 * [Rate Limit Architecture](/company/team/structure/working-groups/rate-limit-architecture/)
 * [SOX PMO](/company/team/structure/working-groups/sox/)
 * [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
+* [Token Management](/company/team/structure/working-groups/token-management/)
 * [Webpack (Frontend build tooling)](/company/team/structure/working-groups/webpack)
 
 
