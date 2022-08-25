@@ -143,7 +143,7 @@ During this period, add the `Awaiting::Challenge Answers` label.
 #### No Response After 14 days
 {:.no_toc}
 
-If the user fails to respond after 14 days, apply the `Account Verification Failed` label to the issue, and close it using the following snippet:
+If the user fails to respond after 14 days, apply the `Account Verification Failed` and `Deletion Request:: Denied` labels to the issue, and close it using the following snippet:
 
 <details>
   <summary markdown="span">Request Closed - No Response</summary>
@@ -163,7 +163,7 @@ Once the user responds with their answers to the challenge questions, evaluate t
 #### Challenge Questions Verification Fail
 {:.no_toc}
 
-If the user fails the challenge questions, apply the `Account Verification Failed` label, and respond with the following snippet before closing the issue:
+If the user fails the challenge questions, apply the `Account Verification Failed` and `Deletion Request:: Denied` labels, and respond with the following snippet before closing the issue:
 
 <details>
   <summary markdown="span">Request Closed - Verification Failed</summary>
