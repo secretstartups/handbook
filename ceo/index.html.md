@@ -291,7 +291,7 @@ Please follow the process outlined under [meeting request requirements](/handboo
 
 ## Teleprompter Preferences 
 
-If possible, I use a teleprompter when giving keynotes. I prefer to use the teleprompter app "[PromptSmart](https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756)" along with the "PromptSmart Remote Control" so that I am able to scroll the script at my own pace. 
+If possible, I use a teleprompter when giving keynotes. I prefer to use the teleprompter app "[PromptSmart](https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756)" along with the "PromptSmart Remote Control." Ideally, someone will scroll through the script on my behalf, at my pace. 
 
 ## Recording Content for Conferences
 
