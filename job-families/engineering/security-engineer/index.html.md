@@ -142,6 +142,63 @@ The Distinguished Security Engineer role extends the [Principal Security Enginee
 
 The Distinguished Security Engineer is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+## Staff+ Driven Initiatives
+
+At GitLab, [Staff+ individual contributors](https://about.gitlab.com/handbook/engineering/ic-leadership/) take on a larger role by driving initiatives that are larger in scope, impact, and value than their current day-to-day responsibilities call for.  In order to achieve this, Staff+ engineers are encouraged to choose 1 project, mutually agreed upon with their manager, for which they act as DRI until completion or mutually agreed upon priorities change.  The goal is to provide our staff+ team members the following benefits:
+* Career Growth through increased scope and responsibility
+* Increase in influence and authority through exertion of [technical leverage](https://about.gitlab.com/handbook/engineering/ic-leadership/#technical-leverage).
+* Increase in decision making opportunities
+* Leadership experience
+* Project Management experience
+
+Initiatives are selected with the following criteria:
+* Mutually Decided: The team member and team member’s manager will mutually agree upon the initiative, taking into account the requirements of other stakeholders.
+* Relevant: The initiative should be relevant to GitLab, the Security Department, and the team member’s team.
+* Impactful: The initiative should have a positive impact in making GitLab more secure and/or maturing our Security program
+* (Preferably) Within Team Member’s Domain: To increase the team member’s ability to succeed and ability to control influence and outcome, the chosen work should fall within the team member’s domain of work.  The team member does not need to be at an expert level as growth and development in skillset is not only encouraged, but intended.
+* Solves a Problem:  The initiative should be designed to produce an outcome that remediates or mitigates a security concern.
+
+### Project Expectations:
+
+Once an initiative is mutually agreed upon, the team member will be wholly responsible for driving the project.  The following project elements should be addressed as applicable:
+
+**Time Considerations**
+
+The manager and team member should work to define how much time should be allocated towards this initiative.  The time allocated should fall within 20 to 40% of the team member's time but will need to take into consideration the impact to the team's day-to-day obligations that may be of higher priority.
+
+**Define Objective and Scope of Work**
+
+Scope should include systems, services, and tools.  The objective should provide a clear description of outlining the problem to be addressed, why this is a problem, what impact or value solving this problem will have, and the cost of not addressing this issue.  Note: The more data you can provide in proving value, the more likely you are to succeed. For example, it is better to say “fixing this will result in a reduction of $74,000 in bug bounty spend” vs “fixing this will make us more secure”.
+
+**Timebound**
+
+The initiative will list a projected start and end date.  Ideally, projects would range anywhere from 6 weeks to 6 months.  The end date is your educated guess and may change, but leverage the due date to your advantage with your dependencies and stakeholders.  Further, this does not need to follow a quarterly cycle meaning it does not need to start at the beginning of a quarter and end on the last day of the quarter.  The intent is to start an initiative and carry it to 100% completion.  The work is not required to be tracked as an OKR but the team member may choose to create OKR’s if they feel more comfortable with that tracking and reporting style.
+
+**Milestones**
+
+Project milestones should be well defined.  If this is not possible, seek the guidance of your manager to establish proposed milestones they may evolve once the project is underway.  This will help team members stay on track and account for progress.
+
+**Success Criteria**
+
+The project needs to have a well defined exit criteria.  This should match with the expected outcome and intent of the project definition.  It is ok to recommended further actions to be taken in the future given those are based on insights gained during execution of the initiative and were not part of the original goal.
+
+**Stakeholders**
+
+The team member should ensure stakeholders are identified, notified, and kept informed throughout the duration of the project.  It is the team member’s responsibility to negotiate time and resources with their stakeholders and understand the nuances of stakeholder and team priorities.
+
+**Dependencies & Risks**
+
+The team member should carefully consider project dependencies and risks ahead of time and how they might impact the project to reduce the likelihood of them and their stakeholders being surprised by significant factors that can derail a project.
+
+**Reporting**
+
+Tracking and reporting is a necessary component to ensuring visibility and transparency to your stakeholders and other interested parties. This reporting also helps provide guidance for other IC's that want to work towards a Staff+ position within GitLab. Further, this allows for quicker intervention when a project is at risk.  The team member should determine the proper cadence and method of communication for their project.  Reporting should include project metrics to make it easy to understand status.
+
+**Close-out**
+
+At the close of the project, the team member should document what goals were met, what was not met, and recommendations for future iterations (if applicable).
+
+
 ## Specialties for Security Engineer roles
 
 ### Security Research
