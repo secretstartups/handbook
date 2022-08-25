@@ -42,7 +42,7 @@ At a high level, the Release post schedule is:
   - [Features and Upgrades](#instructions) are contributed as release post item MRs targeting the release post branch
   - Primary items are added to `features.yml`
   - Recurring content blocks for Omnibus, GitLab Runner, and Mattermost are added by the area owner
-  - Uncategorized items can be included as [extras](#extras)
+  - Non-standard product announcements, uncategorized items, and other announcements can be announced using the [`extras`](#extras) content type
 - **EMs and PMs** announce [deprecations and removals](#deprecations-removals-and-breaking-changes)
 
 ### By the 15th
@@ -1289,7 +1289,9 @@ This section should contain any relevant updates for packaged software, new feat
 
 _To be added by Product Managers and merged by Engineering Managers._
 
-If you need to convey important information that doesn't match the other content types, you can use an `extras` content block. An example is provided in the [`/data/release_posts/unreleased/samples/extras.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/extras.yml) file.
+If you have an announcement that doesn't quite fit the other content types, you can use the `extras` content block. If you think your announcement does fit this type, ping the release post manager and ProdOps DRI (`@fseifoddini` or `@brhea`) in `#release-post` for guidance.
+
+An example is provided in the [`/data/release_posts/unreleased/samples/extras.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/extras.yml) file.
 
 ```yaml
 ---
