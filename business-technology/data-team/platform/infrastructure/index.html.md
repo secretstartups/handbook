@@ -902,23 +902,4 @@ This is a project for centralizing handy functions we use across the team. Proje
 
 ## Upgrading dbt for production
 
-1. Have an issue ready with key stakeholders alerted as to the timing of the upgrade. Give at least one day notice before moving forward with the upgrade
-1. Check for breaking changes in the [release notes](https://github.com/dbt-labs/dbt-core/releases) and [schema docs](https://schemas.getdbt.com/)
-    * Schemas affect both our handling of dbt data in the trusted data framework as well as in our [deployment of the docs site](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml#L257).
-1. Create a new `dbt-image` version following the instructions in the [Creating New Images](/handbook/business-technology/data-team/platform/infrastructure/#new-images) section
-1. Make an MR to the analytics project and update the following items. See [this MR (internal link)](https://gitlab.com/gitlab-data/analytics/-/merge_requests/3728/diffs) for an example
-  * dbt-image in the following places:
-    * airflow_utils.py
-    * dbt_project.yml
-    * snowflake-dbt-ci.yml
-    * .gitlab-ci.yml
-    * docker-compose.yml
-  * any packages in `packages.yml`
-  * `index.html` by doing the following:
-    * load the docs site using the command `make dbt-docs`
-    * view the source code for the page by either right-clicking and selecting "View Page Source", or hitting "CMD + u" on a Mac or "CTRL + u" on Linux
-    * update everything from `<body>` to the bottom of the file
-    * confirm there are no major changes in the code from `</head>` to the top of the file
-1. Make an MR in the `data-tests` project to update the image version and `require-dbt-version`. See [this MR](https://gitlab.com/gitlab-data/data-tests/-/merge_requests/26/diffs) for an example
-1. Run relevant dbt jobs based on any feature updates for the release
-1. Once merged, notify everyone of the upgrade and monitor for any failing jobs or user issues
+See the [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/infrastructure/upgrading_dbt_version.md) for instructions on how to independently and asyncronously upgrade dbt.

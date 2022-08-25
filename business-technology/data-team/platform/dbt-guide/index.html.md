@@ -1201,7 +1201,7 @@ Views and snippets included in the output will be surrounded by square brackets 
 ```
 
 ## Upgrading dbt
-A forthcoming runbook will be linked here that will enable team members to independently and asyncronously upgrade dbt.
+See the [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/infrastructure/upgrading_dbt_version.md) for instructions on how to independently and asyncronously upgrade dbt.
 
 ### Staying up to date
 Our policy is that we should never be more than one minor release behind for [`dbt-core`](https://docs.getdbt.com/docs/core-versions). So for example, if v1.3.1 is the most recent release, we should be running at least v1.2.0.
