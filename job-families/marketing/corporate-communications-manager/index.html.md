@@ -190,10 +190,7 @@ The Principal Internal Communications Manager is part of the Talent Brand team w
 
 ## Career Ladder
 
-The next step in the Corporate Communications job family is not yet defined at GitLab. 
-
-## Performance Indicators
-* Increase overall brand awareness through key message pull through in media articles and speaking presentations, secure opportunities for executives to speak at conferences and with media, submit strong award applications.
+The next step for this role will be Senior Director, Corporate Commmunications which is yet to be defined. 
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
@@ -202,9 +199,66 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates then may be offered a 30 minute interview with our Senior Manager, Corporate Communications.
 * Next, candidates will be invited to schedule an interview with the Senior Director, Corporate Marketing.
 * Candidates will then be invited to schedule interviews with key team members from relevant company departments that the role will work with closely.
-* Next, candidates will be invited to schedule an interview with the Chief Marketing Officer.
-* For Executive roles, candidates may be invited to put together a presentation for our Executive team.
-* Finally, our CEO and other executives may choose to conduct a final interview.
+
+Successful candidates will subsequently be made an offer via video, phone, or email.
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+
+### VP, Corporate Communications
+The VP, Corporate Communications leads the team responsible for creating the unique messaging for the GitLab brand and sharing the GitLab story globally. This role successfully promotes the company through a strong PR and communications program including executive comms, analyst and industry relations, internal communications, and crisis management.
+
+### Job Grade
+The VP, Corporate Communications is a grade 12.
+
+### Responsibilities
+* Work closely with the Marketing leadership team to contribute to the definition of the strategic objectives along the customer journey
+* Build strong working relationships cross-functionally, including the executive team
+* Define and execute on a holistic corporate communications strategy, resulting in consistency across all channels
+* Responsible for strategic messaging, storytelling and thought leadership in partnership with analysts, influencers, customers, the community, and media
+* Develop and lead internal and external communications programs
+* Oversee industry and analyst relations, messaging, and positioning strategies 
+* Create and manage crisis management protocol
+* Successfully build campaigns to help elevate the GitLab brand in the world
+* Manage, build, and lead a strong team by recruiting, coaching, and developing team members.
+* Trusted advisor to the CEO, CMO and rest of executive team
+
+## Requirements
+* Proven progressive experience in corporate marketing in a fast-paced and public software company.  
+* Experience with Software-as-a-Service offerings and open core software a plus.
+* Proven track record developing and executing successful B2B corporate communications.
+* Fluency with public company disclosure requirements, including Regulation FD
+* Experience in OSS on a global scale a plus
+* Proven progressive leadership experience, with an emphasis on people leadership, building teams to scale, and engaging global and local stakeholders.
+* Skilled and proven experience bringing new campaigns and ideas to life.
+* Track record of evolving a company’s position to a new market category that aligns it with current market and customer priorities.
+* Proven track record in building, getting buy-in and executing marketing plans, and staying focused on “getting it done” in a fast-moving, technical environment.
+* Ability to coordinate across many teams and perform in a fast-moving environment.
+* Proven ability to be self-directed and work with minimal supervision.
+* Outstanding written and verbal communications skills with the ability to explain and translate complex technology concepts into simple and intuitive communications.
+* Uses data to measure results and inform decision making and strategy development.
+* Comfortable with transparency in our communications, internally and externally
+* You share our values (https://about.gitlab.com/handbook/values/), and work in accordance with those values.
+Leadership (https://about.gitlab.com/company/team/structure/#director-group) at GitLab
+Ability to use GitLab
+
+## Career Ladder
+The next step in the VP, Corporate Communications job family is not yet defined at GitLab.
+
+## Hiring process
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page. Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
+* 45 minute interview with our Chief Marketing Officer
+* 45 minute interview with our People Business Partner
+* 45 minute interview with our VP of Product Marketing
+* 45 minute interview with our VP of Integrated Marketing
+* 30 minute interview with our Director of Corp Comms
+* 30 minute interview with our Director, Analyst Relations 
+* 30 minute interview with our Chief Legal Officer
 * Successful candidates will subsequently be made an offer via video, phone, or email.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+
+
+## Performance Indicators
+* Increase overall brand awareness through key message pull through in media articles and speaking presentations, secure opportunities for executives to speak at conferences and with media, submit strong award applications.
+
+
