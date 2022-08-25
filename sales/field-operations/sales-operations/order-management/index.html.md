@@ -101,6 +101,7 @@ As of 2022-02-01, the Order Management team is structured as follows:
 - Manager, Deal Desk (EMEA/APAC)
   - Order Management Specialist (APAC)
   - Order Management Specialist (EMEA)
+  - Order Management Specialist (EMEA)
 
 ### Communicating with the Order Management Team
 
