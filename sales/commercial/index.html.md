@@ -368,7 +368,7 @@ Designating each opportunity that has a shot to close at the end of each fiscal 
 
 1. Repeat the same process the following date for all accounts above the threshold.
 
-### Red / Green Outcome: 
+### Red / Green Outcome
 Hit the forecast we commit to and build better sales skills for our AEs and better coaching skills for our ASMs.
     - Ideal skills that need to be built are:
         - Understanding the concepts and execution around knowing the ideal timeline the customer wants to close.
