@@ -94,6 +94,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | ------ | ------ |
 | [Sales at GitLab](https://vimeo.com/675024697) | Sales |
 | [A Conversation with Ragnar Hardarson, Engineering Manager at GitLab](https://vimeo.com/716075220) | Engineering |
+| [GitLab's Engineering Team: An Inside Look](https://venturefizz.com/videos/gitlab-engineering-team) | Engineering |
 | [Ishita's Life at GitLab](https://vimeo.com/677814891) | Team Member Spotlight |
 | [Kyla's Life at GitLab](https://vimeo.com/677779723) | Team Member Spotlight |
 | [Bruno's Life at GitLab](https://vimeo.com/677785451) | Team Member Spotlight |
