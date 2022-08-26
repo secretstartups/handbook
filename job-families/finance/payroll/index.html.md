@@ -6,8 +6,6 @@ description: "The payroll department is responsible for processing and distribut
 
 The payroll department is responsible for processing and distributing payroll in a timely and accurate manner and coordinates with external vendors including payroll processing platforms, payroll partners and PEOs and internal customers including PeopleOps, Tax, Legal and Accounting. The payroll department is responsible for reports, earnings information and other payroll data on a recurring basis as well as compliance with federal, state and local requirements.
 
-## Payroll
-
 ## Responsibilities
 
 - Provide prompt, courteous, and efficient customer service to inquiries from team members
@@ -36,15 +34,15 @@ The payroll department is responsible for processing and distributing payroll in
 
 Read more about [levels](/handbook/hiring/vacancies/#definitions) at GitLab here.
 
-### Payroll Specialist
+## Payroll Specialist
 
 The Payroll Specialist reports directly to the Manager, International Payroll (EMEA/APAC/LATAM).
 
-## Job Grade
+### Payroll Specialist Job Grade
 
 The Payroll Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Payroll Specialist Responsibilities
+### Payroll Specialist Responsibilities
 
 - Provide prompt, courteous, and efficient customer service to employees who have questions regarding their pay
 - Review and approve expense reports
@@ -55,11 +53,11 @@ The Payroll Specialist is a [grade 5](/handbook/total-rewards/compensation/compe
 - Verify and audit data processed by external payroll providers
 - Provide timely and accurate response to team members’ payroll related queries
 
-#### Payroll Specialist Requirements
+### Payroll Specialist Requirements
 
 - Extends that of Payroll
 
-### Payroll Analyst, US
+## Payroll Analyst, US
 
 The Payroll Analyst, US reports directly to the Senior Manager, Global Payroll Operations.
 
@@ -67,7 +65,7 @@ The Payroll Analyst, US reports directly to the Senior Manager, Global Payroll O
 
 The Payroll Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Payroll Analyst, US Responsibilities
+### Payroll Analyst, US Responsibilities
 
 - Extends the Payroll Specialist Responsibilities
 - Own and process payroll, including tax changes, direct deposits, loan repayments, deductions, retroactive adjustments, prorated payments, bonuses, fringe benefits, special pays, etc.
@@ -84,22 +82,22 @@ The Payroll Analyst is a [grade 6](/handbook/total-rewards/compensation/compensa
 - Stay current on state, federal and local payroll and tax laws
 - Support year-end reporting tasks
 
-#### Payroll Analyst, US Requirements
+### Payroll Analyst, US Requirements
 
 - Extends the Payroll Specialist Requirements
 - 3-5 years payroll processing experience
 - Decision-making, problem-solving, and analytical skills
 - Ability to collaborate and establish relationships cross-functionally
 
-### Payroll Analyst, EMEA/APAC,LATAM
+## Payroll Analyst, EMEA/APAC,LATAM
 
 The Payroll Analyst, EMEA/APAC/LATAM reports directly to the Manger, International Payroll (EMEA/APAC/LATAM).
 
-#### Payroll Analyst, EMEA/APAC,LATAM Job Grade
+### Payroll Analyst, EMEA/APAC,LATAM Job Grade
 
 The Payroll Analyst, EMEA/APAC/LATAM is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Payroll Analyst, EMEA/APAC,LATAM Responsibilities
+### Payroll Analyst, EMEA/APAC,LATAM Responsibilities
 
 - Extends the Payroll Specialist Responsibilities
 - Own and process payroll and payment for 65+ countries and all non-US team members
@@ -116,22 +114,22 @@ The Payroll Analyst, EMEA/APAC/LATAM is a [grade 6](/handbook/total-rewards/comp
 - Support with year-end tasks for all legal entities outside of the US
 - Flexibility in dealing with multiple payrolls concurrently
 
-#### Payroll Analyst, EMEA/APAC/LATAM, Requirements
+### Payroll Analyst, EMEA/APAC/LATAM, Requirements
 
 - Extends the payroll specialist requirements
 - 3-5 years payroll processing experience
 - Decision-making, problem-solving, and analytical skills
 - Ability to collaborate and establish relationships cross-functionally
 
-### Senior Payroll Analyst
+## Senior Payroll Analyst
 
 The Senior Payroll Analyst reports directly to the Manger, International Payroll (EMEA, APAC, LATAM).
 
-#### Senior Payroll Analyst Job Grade
+### Senior Payroll Analyst Job Grade
 
 The Senior Payroll Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Payroll Analyst Responsibilities
+### Senior Payroll Analyst Responsibilities
 
 - Extends the Payroll Analyst Responsibilities
 - Coordinates global payroll processing operations. Currently the company runs payroll in five countries and has partners in another three countries that provide payroll solutions to contributors
@@ -144,59 +142,88 @@ The Senior Payroll Analyst is a [grade 7](/handbook/total-rewards/compensation/c
 - Establish and enforce proper policies, processes and controls
 - Mentor payroll analysts and contribute to review and approval of their deliverables
 
-#### Senior Payroll Analyst Requirements
+### Senior Payroll Analyst Requirements
 
 - Extends the Payroll Analyst Requirements
 - 5 - 7  years experience in payroll administration
 
-### Manager, International Payroll (EMEA, APAC, LATAM)
+## Manager, Payroll
 
-The Manager, International Payroll (EMEA, APAC, LATAM) reports directly to the Senior Manger, Global Payroll Operations.
+The Manager, Payroll reports directly to the Senior Manager, Global Payroll Operations.
 
-#### Manager, International Payroll (EMEA, APAC, LATAM) Job Grade
+### Manager, Payroll Job Grade
 
-The Manager, International Payroll (EMEA, APAC, LATAM) is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Payroll is a grade 8.
 
-#### Manager, International Payroll (EMEA, APAC, LATAM) Responsibilities
+### Manager, Payroll Responsibilities
 
 - Extends the Senior Payroll Analyst Responsibilities
 - Lead, manage and develop direct reports
-- Ensure stock activity international employees is properly processed and reported for employee and tax reporting purposes
-- Own and process payroll and payment for 65+ countries and all  team members outside of the US
-- Review and approve PEO invoices on monthly basis
-- Own relationship with PeopleOps, Country conversion team on international expansion 
+- Ensure stock activity for team members is properly processed and reported for team member and tax reporting purposes
+- Own relationship with PeopleOps
 - Subject matter expert for payroll implementation projects
-- Responsible for working with Accounting on payroll funding for legal entities outside of the US
-- Responsible for managing the relationship with all PEO providers 
-- Responsible for working with Accounting on payroll funding for non-US legal entities
 - Ensure compliance with local compensation and tax regulations
 - Responsible for data integration between personnel records and payroll systems
-- Stay up-to-date on countries payroll tax laws and regulations including working closely with local tax and legal advisors to ensure the company follows local regulations with respect to payroll
+- Stay up-to-date on local payroll tax laws and regulations including working closely with local tax and legal advisors to ensure the company follows local regulations with respect to payroll
 - Work closely with GitLab contributors and the People Ops team to ensure timely response to questions and requests that have been processed
-- Responsible for Worker Compensation Insurance compliance for entities outside of the US
 - Primary ownership for management and external reporting
 - Development and implementation of processes and procedures to enhance and streamline the workflow of payments
 - Primary contact point for external audit with respect to payroll matters
 
-#### Manager, International Payroll (EMEA, APAC, LATAM) Requirements
+### Manager, Payroll Requirements
 
--  7+ years experience in payroll administration
+- 7+ years experience in payroll administration, including 3+ years experience in managing a payroll team
+- Experience with SOX compliance
+- Public company experience a plus
+- Proficient with google sheets
+- Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision
+
+#### Specialties
+
+### US Payroll
+
+#### US Payroll Responsibilites
+
+- Own and process payroll and payment for all team members in US
+- Review payroll vendor invoices on a monthly basis.  Ensure that all invoices are coded properly and submitted to Accounts Payable prior to month end close
+- Own relationship with payroll vendor, ADP
+- Responsible for working with Accounting and Treasury on payroll funding and forecasting for US payrolls
+- Responsible for managing the relationship with payroll vendor, ADP
+
+#### US Payroll Requirements
+
+- Experience with full-cycle payroll
+- Experience with ADP and Workday preferred
+- Experience with payroll accounting 
+- Experience with processing stock transactions (ISO, NSO, RSU, ESPP)
+
+### International Payroll (EMEA, APAC, LATAM)
+
+### International Payroll (EMEA, APAC, LATAM) Responsibilities
+
+- Own and process payroll and payment for 65+ countries and all team members outside of the US
+- Review and approve PEO invoices on monthly basis
+- Own relationship with PeopleOps, Country conversion team on international expansion 
+- Responsible for working with Accounting on payroll funding for legal entities outside of the US
+- Responsible for managing the relationship with all PEO providers 
+- Responsible for working with Accounting on payroll funding for non-US legal entities
+- Responsible for Worker Compensation Insurance compliance for entities outside of the US
+- Development and implementation of processes and procedures to enhance and streamline the workflow of payments
+
+### International Payroll (EMEA, APAC, LATAM) Requirements
+
 -  Experience with international payroll
--  Public company experience a plus
--  Experience with SOX compliance
 -  Experience with CloudPay a plus
--  Proficient with google sheets
--  Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision
 
-### Senior Manager, Global Payroll Operations
+## Senior Manager, Global Payroll Operations
 
 The Senior Manager, Global Payroll Operations reports directly to the Senior Director, Controller.
 
-#### Senior Manager, Global Payroll Operations Job Grade
+### Senior Manager, Global Payroll Operations Job Grade
 
 The Senior Manager, Global Payroll Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Manager, Global Payroll Operations Responsibilities
+### Senior Manager, Global Payroll Operations Responsibilities
 
 - Extends the Manager, International Payroll (EMEA, APAC, LATAM) Responsibilities
 - Manage overall global operations of payroll for 65+ countries
@@ -226,7 +253,7 @@ The Senior Manager, Global Payroll Operations is a [grade 9](/handbook/total-rew
 - Prepare and manage budget related to payroll programs
 - Work with PeopleOps, Legal, Tax and Accounting to ensure compliance with all laws, tax reporting and other duties as needed
 
-#### Senior Manager, Global Payroll Operations Requirements
+### Senior Manager, Global Payroll Operations Requirements
 
 - Extends the Manager, International Payroll (EMEA, APAC, LATAM) Requirements
 - 8+ years of experience as a payroll administrator.
@@ -234,6 +261,7 @@ The Senior Manager, Global Payroll Operations is a [grade 9](/handbook/total-rew
 - CPP a plus
 
 ## Performance Indicators
+
 - [Payroll accuracy for each check date](/handbook/finance/payroll/#payroll-accuracy-for-each-check-date--100)
 - [Payroll journal entry reports submitted to Accounting](/handbook/finance/payroll/#payroll-journal-entry-reports-submitted-to-accounting--payroll-date--2-business-days)
 - [Percentage of ineffective SOX Controls](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
