@@ -116,6 +116,11 @@ The Senior Manager, Technology Partner Managers is a [grade 9](/handbook/total-r
 #### Senior Manager, Technology Partner Managers Responsibilities
 
 * Extends that of the Manager, Technology Parnter Managers responsibilities 
+* Sr Manager should have capabilities to build out and manage the automation of multiple partner portal technologies / platforms such as IMPartner, SFDC and CrossBeam
+* Sr. Manager knows how to scale revenue from the vast partnerships that they build.  GTM practises is second nature when hunting and gathering the ISV Partners that they recruit.  
+* Sr. Manager has self awareness of when to course correct when it comes to partnership and the people that report to them.  Awareness about "partnership performance" should come from the meta data that they build into the scorecarding of those partnerships.  Nothing should ever come as a surprise to them when it comes to the overarching health of that partnership.
+* GitLab is a revenue generating public company.  This person will be able to track their value add and partnerships in the organization because they know partnership through their experience.
+* Sr. Manager should always be thinking about partner related sales pipeline when it comes to their GTM campaigns with partners and marketing.  A well thought out and instrumented Alliance GTM plan id necessary to drive a strong quarter close and avoid misses throughout the year. 
 
 #### Senior Manager, Technology Partner Managers Requirements
 
@@ -126,11 +131,7 @@ The Senior Manager, Technology Partner Managers is a [grade 9](/handbook/total-r
 * $ derived from GitLab + Technology partner joint customers
 * Size of Partner Practices - skilled, certified consultants and deliver resources
 * [SMAU](/handbook/product/performance-indicators/#stage-monthly-active-users-smau) deal acceleration by stage or # seats in named enterprise accounts with assistance of the partners.  This person has the wherewithall to drive revenue derived from the largest of Clouds to the smallest of ISVs
-* Sr Manager should have capabilities to build out and manage the automation of multiple partner portal technologies / platforms such as IMPartner, SFDC and CrossBeam
-* Sr. Manager knows how to scale revenue from the vast partnerships that they build.  GTM practises is second nature when hunting and gathering the ISV Partners that they recruit.  
-* Sr. Manager has self awareness of when to course correct when it comes to partnership and the people that report to the.  Awareness about "partnership performance" should come from the meta data that they build into the scorecarding of those partnerships.  Nothing should ever come as a surprise to them when it comes to the overarching health of that partnership
-* GitLab is a revenue generating public company.  This person will follow where the money is because they know partnership through their experience.  The Sr. Manager knows that their practises should help to drive 10x growth for revenue at GitLab
-* Sr. Manager should always be thinking about partner related sales pipeline when it comes to their GTM campaigns with partners and marketing.  A well thought out and instrumented Alliance GTM plan could mean the closure of a strong quarter or a miss.  We are looking for the Senior to stretch themselves to having few misses.  
+
 
 ## Career Ladder
 
