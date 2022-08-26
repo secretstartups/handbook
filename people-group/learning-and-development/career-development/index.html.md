@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Career Development and Mobility
-description: "Resources and direction for career development and mobility for all GitLab team members."
+description: "Resources and direction for career development and mobility for all GitLab team members"
 ---
 
 ## On this page
@@ -354,11 +354,41 @@ The video below is a recording of the Live Learning that took place in August 20
 
 ### Having Career Development Conversations with your Team
 
-The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+What do managers ask about when it comes to having career conversations with their teams? Watch the short question and answer videos below to learn more. Watch the full training from 2021-08 [here](https://www.youtube.com/embed/f1T2KKlrZCY).
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/f1T2KKlrZCY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+1. You started managing a team 6 months ago with 4 direct reports. One is performing well, but has not yet talked to you about career development. As their manager, What steps should you take? 
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/A4mfSgN3a5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+</div>
+
+2. One of your direct reports has indicated they aren't interested in growing to the next level or developing further as they are happy in their current role. As their manager, what steps would you take?
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/oALcZZWvkfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+3. Your direct report has indicated they are ready to move to, and are already performing at, the next level. As their manager, what steps would you take?
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/a2-lnhVvM2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+4. A direct report feels ready to move to the next level, but aren't fully performing in their current role. As their manager, what steps would you take?
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/MuXQcorCVcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+5. A career conversation becomes emotional - what do you do? 
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/sJRFS08V_-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+6. How often do you have career conversations with your team?
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/uFKoU53Vj8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+7. What about team members who don't have strong sense of their career goals yet? How do you support them?
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/pSAjpQxEx04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+8. What fears do managers at GitLab have when it comes to having career conversations?
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/oHlrlAlRB7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 #### Recomendations for Managers to support the learning of team members
 
