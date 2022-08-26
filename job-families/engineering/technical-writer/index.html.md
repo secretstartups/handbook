@@ -80,7 +80,7 @@ At GitLab, engineering has a formal [dual career track](/handbook/engineering/ca
 #### Staff Technical Writer Responsibilities
 Extends the Senior Technical Writer responsibilities in complexity and scope.
 
-* **Content**: Efficiently create and maintain product documentation and release posts for assigned product groups or stages. Guide improvements to merge requests.
+* **Content**: Efficiently create, merge, and maintain product documentation within groups as needed, or across product groups. Guide improvements to merge requests. Suggest and balance priorities.
 * **Structure**: Actively implement content topic types in both new and previously created content to make product documentation easier to scan.
 * **Organization**: Ensure that product documentation pages are well organized across stages by using good naming and logical groupings.
 * **User interface**: Create model examples of user interface text, including field labels or error messages, with a cross-stage focus. Actively improve style guide and [Pajamas](/handbook/engineering/ux/pajamas-design-system/) content related to user interface text.
@@ -104,7 +104,7 @@ At GitLab, engineering has a formal [dual career track](/handbook/engineering/ca
 #### Principal Technical Writer Responsibilities
 Extends the Staff Technical Writer responsibilities in complexity and scope.
 
-- **Content**: Efficiently create and maintain product documentation and release posts for assigned product groups or stages. Guide improvements to merge requests. Help set priorities at a team level.
+- **Content**: Efficiently create, merge, and maintain product documentation within groups as needed, or across product groups. Guide improvements to merge requests. Help set priorities at a team level.
 - **Structure**: Actively implement content topic types in both new and previously created content to make product documentation easier to scan.
 - **Organization**: Ensure that product documentation pages are well organized across stages by using good naming and logical groupings.
 - **User interface**: Provide expert guidance on user interface text. Actively improve style guide and [Pajamas](/handbook/engineering/ux/pajamas-design-system/) content.
